@@ -1,0 +1,6425 @@
+1
+00:00:00,749 --> 00:00:03,170
+
+hello and welcome to basics for gamers
+
+2
+00:00:03,170 --> 00:00:03,180
+hello and welcome to basics for gamers
+ 
+
+3
+00:00:03,180 --> 00:00:05,749
+hello and welcome to basics for gamers
+presents the basics of stealth in
+
+4
+00:00:05,749 --> 00:00:05,759
+presents the basics of stealth in
+ 
+
+5
+00:00:05,759 --> 00:00:08,850
+presents the basics of stealth in
+Pathfinder second edition
+
+6
+00:00:08,850 --> 00:00:08,860
+Pathfinder second edition
+ 
+
+7
+00:00:08,860 --> 00:00:11,250
+Pathfinder second edition
+before we get started with stealth it
+
+8
+00:00:11,250 --> 00:00:11,260
+before we get started with stealth it
+ 
+
+9
+00:00:11,260 --> 00:00:13,049
+before we get started with stealth it
+might be a good idea to do a quick
+
+10
+00:00:13,049 --> 00:00:13,059
+might be a good idea to do a quick
+ 
+
+11
+00:00:13,059 --> 00:00:15,000
+might be a good idea to do a quick
+review of the different states of
+
+12
+00:00:15,000 --> 00:00:15,010
+review of the different states of
+ 
+
+13
+00:00:15,010 --> 00:00:17,640
+review of the different states of
+detection there are four states of
+
+14
+00:00:17,640 --> 00:00:17,650
+detection there are four states of
+ 
+
+15
+00:00:17,650 --> 00:00:18,420
+detection there are four states of
+detection
+
+16
+00:00:18,420 --> 00:00:18,430
+detection
+ 
+
+17
+00:00:18,430 --> 00:00:20,970
+detection
+the first is unnoticed and it applies to
+
+18
+00:00:20,970 --> 00:00:20,980
+the first is unnoticed and it applies to
+ 
+
+19
+00:00:20,980 --> 00:00:23,640
+the first is unnoticed and it applies to
+any creature you have absolutely no idea
+
+20
+00:00:23,640 --> 00:00:23,650
+any creature you have absolutely no idea
+ 
+
+21
+00:00:23,650 --> 00:00:25,160
+any creature you have absolutely no idea
+is nearby
+
+22
+00:00:25,160 --> 00:00:25,170
+is nearby
+ 
+
+23
+00:00:25,170 --> 00:00:29,130
+is nearby
+the second is undetected a creature is
+
+24
+00:00:29,130 --> 00:00:29,140
+the second is undetected a creature is
+ 
+
+25
+00:00:29,140 --> 00:00:31,320
+the second is undetected a creature is
+undetected when you do not know where it
+
+26
+00:00:31,320 --> 00:00:31,330
+undetected when you do not know where it
+ 
+
+27
+00:00:31,330 --> 00:00:34,890
+undetected when you do not know where it
+is by definition all unnoticed creatures
+
+28
+00:00:34,890 --> 00:00:34,900
+is by definition all unnoticed creatures
+ 
+
+29
+00:00:34,900 --> 00:00:38,040
+is by definition all unnoticed creatures
+will also be undetected but if you know
+
+30
+00:00:38,040 --> 00:00:38,050
+will also be undetected but if you know
+ 
+
+31
+00:00:38,050 --> 00:00:40,380
+will also be undetected but if you know
+a creature is in the area but you just
+
+32
+00:00:40,380 --> 00:00:40,390
+a creature is in the area but you just
+ 
+
+33
+00:00:40,390 --> 00:00:43,110
+a creature is in the area but you just
+don't know its exact location then it is
+
+34
+00:00:43,110 --> 00:00:43,120
+don't know its exact location then it is
+ 
+
+35
+00:00:43,120 --> 00:00:46,549
+don't know its exact location then it is
+undetected but is not unnoticed the
+
+36
+00:00:46,549 --> 00:00:46,559
+undetected but is not unnoticed the
+ 
+
+37
+00:00:46,559 --> 00:00:49,110
+undetected but is not unnoticed the
+third state of detection is called
+
+38
+00:00:49,110 --> 00:00:49,120
+third state of detection is called
+ 
+
+39
+00:00:49,120 --> 00:00:51,390
+third state of detection is called
+hidden and it applies when you know a
+
+40
+00:00:51,390 --> 00:00:51,400
+hidden and it applies when you know a
+ 
+
+41
+00:00:51,400 --> 00:00:53,939
+hidden and it applies when you know a
+creatures exact location but you can't
+
+42
+00:00:53,939 --> 00:00:53,949
+creatures exact location but you can't
+ 
+
+43
+00:00:53,949 --> 00:00:57,630
+creatures exact location but you can't
+see it in the last state of detection is
+
+44
+00:00:57,630 --> 00:00:57,640
+see it in the last state of detection is
+ 
+
+45
+00:00:57,640 --> 00:01:00,420
+see it in the last state of detection is
+called observed and it applies to any
+
+46
+00:01:00,420 --> 00:01:00,430
+called observed and it applies to any
+ 
+
+47
+00:01:00,430 --> 00:01:03,180
+called observed and it applies to any
+creature that you can see but note that
+
+48
+00:01:03,180 --> 00:01:03,190
+creature that you can see but note that
+ 
+
+49
+00:01:03,190 --> 00:01:05,730
+creature that you can see but note that
+if you can see a target but not clearly
+
+50
+00:01:05,730 --> 00:01:05,740
+if you can see a target but not clearly
+ 
+
+51
+00:01:05,740 --> 00:01:08,520
+if you can see a target but not clearly
+maybe because you're in dim lighting or
+
+52
+00:01:08,520 --> 00:01:08,530
+maybe because you're in dim lighting or
+ 
+
+53
+00:01:08,530 --> 00:01:11,310
+maybe because you're in dim lighting or
+the target is standing in fog then that
+
+54
+00:01:11,310 --> 00:01:11,320
+the target is standing in fog then that
+ 
+
+55
+00:01:11,320 --> 00:01:14,280
+the target is standing in fog then that
+target is observed but also has the
+
+56
+00:01:14,280 --> 00:01:14,290
+target is observed but also has the
+ 
+
+57
+00:01:14,290 --> 00:01:17,190
+target is observed but also has the
+concealed condition this is material
+
+58
+00:01:17,190 --> 00:01:17,200
+concealed condition this is material
+ 
+
+59
+00:01:17,200 --> 00:01:19,710
+concealed condition this is material
+that we discussed in great length in our
+
+60
+00:01:19,710 --> 00:01:19,720
+that we discussed in great length in our
+ 
+
+61
+00:01:19,720 --> 00:01:22,740
+that we discussed in great length in our
+video about perceptions so it is highly
+
+62
+00:01:22,740 --> 00:01:22,750
+video about perceptions so it is highly
+ 
+
+63
+00:01:22,750 --> 00:01:24,810
+video about perceptions so it is highly
+recommended that you go watch that video
+
+64
+00:01:24,810 --> 00:01:24,820
+recommended that you go watch that video
+ 
+
+65
+00:01:24,820 --> 00:01:27,450
+recommended that you go watch that video
+before continuing here as we will be
+
+66
+00:01:27,450 --> 00:01:27,460
+before continuing here as we will be
+ 
+
+67
+00:01:27,460 --> 00:01:29,670
+before continuing here as we will be
+relying on information from that video
+
+68
+00:01:29,670 --> 00:01:29,680
+relying on information from that video
+ 
+
+69
+00:01:29,680 --> 00:01:32,250
+relying on information from that video
+as we proceed a link to the video on
+
+70
+00:01:32,250 --> 00:01:32,260
+as we proceed a link to the video on
+ 
+
+71
+00:01:32,260 --> 00:01:34,740
+as we proceed a link to the video on
+perception is included in this video's
+
+72
+00:01:34,740 --> 00:01:34,750
+perception is included in this video's
+ 
+
+73
+00:01:34,750 --> 00:01:36,960
+perception is included in this video's
+description
+
+74
+00:01:36,960 --> 00:01:36,970
+
+ 
+
+75
+00:01:36,970 --> 00:01:39,060
+
+when a character wishes to avoid being
+
+76
+00:01:39,060 --> 00:01:39,070
+when a character wishes to avoid being
+ 
+
+77
+00:01:39,070 --> 00:01:42,180
+when a character wishes to avoid being
+noticed they use the stealth skill the
+
+78
+00:01:42,180 --> 00:01:42,190
+noticed they use the stealth skill the
+ 
+
+79
+00:01:42,190 --> 00:01:44,040
+noticed they use the stealth skill the
+key ability score for stealth is
+
+80
+00:01:44,040 --> 00:01:44,050
+key ability score for stealth is
+ 
+
+81
+00:01:44,050 --> 00:01:47,010
+key ability score for stealth is
+dexterity and all applications of
+
+82
+00:01:47,010 --> 00:01:47,020
+dexterity and all applications of
+ 
+
+83
+00:01:47,020 --> 00:01:50,550
+dexterity and all applications of
+stealth can be used on trained when your
+
+84
+00:01:50,550 --> 00:01:50,560
+stealth can be used on trained when your
+ 
+
+85
+00:01:50,560 --> 00:01:52,740
+stealth can be used on trained when your
+attempt to hide is contested the
+
+86
+00:01:52,740 --> 00:01:52,750
+attempt to hide is contested the
+ 
+
+87
+00:01:52,750 --> 00:01:54,930
+attempt to hide is contested the
+searching characters perception check is
+
+88
+00:01:54,930 --> 00:01:54,940
+searching characters perception check is
+ 
+
+89
+00:01:54,940 --> 00:01:57,630
+searching characters perception check is
+challenged by your stealth DC and
+
+90
+00:01:57,630 --> 00:01:57,640
+challenged by your stealth DC and
+ 
+
+91
+00:01:57,640 --> 00:02:01,890
+challenged by your stealth DC and
+stealth DC is calculated as 10 plus your
+
+92
+00:02:01,890 --> 00:02:01,900
+stealth DC is calculated as 10 plus your
+ 
+
+93
+00:02:01,900 --> 00:02:05,250
+stealth DC is calculated as 10 plus your
+stealth skill bonus this works pretty
+
+94
+00:02:05,250 --> 00:02:05,260
+stealth skill bonus this works pretty
+ 
+
+95
+00:02:05,260 --> 00:02:08,040
+stealth skill bonus this works pretty
+much the same as perception DC the key
+
+96
+00:02:08,040 --> 00:02:08,050
+much the same as perception DC the key
+ 
+
+97
+00:02:08,050 --> 00:02:10,109
+much the same as perception DC the key
+to remember when deciding if he should
+
+98
+00:02:10,109 --> 00:02:10,119
+to remember when deciding if he should
+ 
+
+99
+00:02:10,119 --> 00:02:12,990
+to remember when deciding if he should
+make a stealth role or use your stealth
+
+100
+00:02:12,990 --> 00:02:13,000
+make a stealth role or use your stealth
+ 
+
+101
+00:02:13,000 --> 00:02:17,070
+make a stealth role or use your stealth
+DC is you only roll on your turn when
+
+102
+00:02:17,070 --> 00:02:17,080
+DC is you only roll on your turn when
+ 
+
+103
+00:02:17,080 --> 00:02:19,920
+DC is you only roll on your turn when
+you use an action and when it's not your
+
+104
+00:02:19,920 --> 00:02:19,930
+you use an action and when it's not your
+ 
+
+105
+00:02:19,930 --> 00:02:22,170
+you use an action and when it's not your
+turn and you're defending against
+
+106
+00:02:22,170 --> 00:02:22,180
+turn and you're defending against
+ 
+
+107
+00:02:22,180 --> 00:02:24,690
+turn and you're defending against
+someone else's action then they compare
+
+108
+00:02:24,690 --> 00:02:24,700
+someone else's action then they compare
+ 
+
+109
+00:02:24,700 --> 00:02:28,500
+someone else's action then they compare
+their role to your stealth DC in normal
+
+110
+00:02:28,500 --> 00:02:28,510
+their role to your stealth DC in normal
+ 
+
+111
+00:02:28,510 --> 00:02:30,270
+their role to your stealth DC in normal
+circumstances there would not be a
+
+112
+00:02:30,270 --> 00:02:30,280
+circumstances there would not be a
+ 
+
+113
+00:02:30,280 --> 00:02:32,970
+circumstances there would not be a
+challenge of roles where one person
+
+114
+00:02:32,970 --> 00:02:32,980
+challenge of roles where one person
+ 
+
+115
+00:02:32,980 --> 00:02:35,370
+challenge of roles where one person
+rolls their stealth skill and another
+
+116
+00:02:35,370 --> 00:02:35,380
+rolls their stealth skill and another
+ 
+
+117
+00:02:35,380 --> 00:02:38,920
+rolls their stealth skill and another
+person rolls their perception
+
+118
+00:02:38,920 --> 00:02:38,930
+person rolls their perception
+ 
+
+119
+00:02:38,930 --> 00:02:41,800
+person rolls their perception
+there are three stealth actions included
+
+120
+00:02:41,800 --> 00:02:41,810
+there are three stealth actions included
+ 
+
+121
+00:02:41,810 --> 00:02:44,170
+there are three stealth actions included
+in the core rules the first of which is
+
+122
+00:02:44,170 --> 00:02:44,180
+in the core rules the first of which is
+ 
+
+123
+00:02:44,180 --> 00:02:47,410
+in the core rules the first of which is
+called conceal an object this can either
+
+124
+00:02:47,410 --> 00:02:47,420
+called conceal an object this can either
+ 
+
+125
+00:02:47,420 --> 00:02:49,149
+called conceal an object this can either
+be something that you are carrying with
+
+126
+00:02:49,149 --> 00:02:49,159
+be something that you are carrying with
+ 
+
+127
+00:02:49,159 --> 00:02:52,000
+be something that you are carrying with
+you like a dagger up your sleeve or it
+
+128
+00:02:52,000 --> 00:02:52,010
+you like a dagger up your sleeve or it
+ 
+
+129
+00:02:52,010 --> 00:02:53,710
+you like a dagger up your sleeve or it
+could be something you hide in the
+
+130
+00:02:53,710 --> 00:02:53,720
+could be something you hide in the
+ 
+
+131
+00:02:53,720 --> 00:02:56,050
+could be something you hide in the
+environment like a secret note planted
+
+132
+00:02:56,050 --> 00:02:56,060
+environment like a secret note planted
+ 
+
+133
+00:02:56,060 --> 00:02:58,690
+environment like a secret note planted
+underneath the roots of a stump if you
+
+134
+00:02:58,690 --> 00:02:58,700
+underneath the roots of a stump if you
+ 
+
+135
+00:02:58,700 --> 00:03:00,490
+underneath the roots of a stump if you
+are hiding a small item that you are
+
+136
+00:03:00,490 --> 00:03:00,500
+are hiding a small item that you are
+ 
+
+137
+00:03:00,500 --> 00:03:03,759
+are hiding a small item that you are
+carrying the GM rolls your stealth skill
+
+138
+00:03:03,759 --> 00:03:03,769
+carrying the GM rolls your stealth skill
+ 
+
+139
+00:03:03,769 --> 00:03:06,550
+carrying the GM rolls your stealth skill
+and secret and compares that total to
+
+140
+00:03:06,550 --> 00:03:06,560
+and secret and compares that total to
+ 
+
+141
+00:03:06,560 --> 00:03:08,770
+and secret and compares that total to
+the perception dc's of everyone you are
+
+142
+00:03:08,770 --> 00:03:08,780
+the perception dc's of everyone you are
+ 
+
+143
+00:03:08,780 --> 00:03:12,099
+the perception dc's of everyone you are
+hiding the item from if your check total
+
+144
+00:03:12,099 --> 00:03:12,109
+hiding the item from if your check total
+ 
+
+145
+00:03:12,109 --> 00:03:14,319
+hiding the item from if your check total
+is higher than their perception disease
+
+146
+00:03:14,319 --> 00:03:14,329
+is higher than their perception disease
+ 
+
+147
+00:03:14,329 --> 00:03:16,449
+is higher than their perception disease
+then they do not notice that you're
+
+148
+00:03:16,449 --> 00:03:16,459
+then they do not notice that you're
+ 
+
+149
+00:03:16,459 --> 00:03:19,119
+then they do not notice that you're
+hiding anything and no you only roll
+
+150
+00:03:19,119 --> 00:03:19,129
+hiding anything and no you only roll
+ 
+
+151
+00:03:19,129 --> 00:03:22,300
+hiding anything and no you only roll
+this check one time not once for each
+
+152
+00:03:22,300 --> 00:03:22,310
+this check one time not once for each
+ 
+
+153
+00:03:22,310 --> 00:03:24,330
+this check one time not once for each
+creature you are hiding the object from
+
+154
+00:03:24,330 --> 00:03:24,340
+creature you are hiding the object from
+ 
+
+155
+00:03:24,340 --> 00:03:27,280
+creature you are hiding the object from
+if a creature is actively searching you
+
+156
+00:03:27,280 --> 00:03:27,290
+if a creature is actively searching you
+ 
+
+157
+00:03:27,290 --> 00:03:29,949
+if a creature is actively searching you
+for example there an alert garden
+
+158
+00:03:29,949 --> 00:03:29,959
+for example there an alert garden
+ 
+
+159
+00:03:29,959 --> 00:03:32,589
+for example there an alert garden
+they're keeping a watchful eye out then
+
+160
+00:03:32,589 --> 00:03:32,599
+they're keeping a watchful eye out then
+ 
+
+161
+00:03:32,599 --> 00:03:35,589
+they're keeping a watchful eye out then
+they roll a perception check against
+
+162
+00:03:35,589 --> 00:03:35,599
+they roll a perception check against
+ 
+
+163
+00:03:35,599 --> 00:03:37,960
+they roll a perception check against
+your stealth DC instead of relying on
+
+164
+00:03:37,960 --> 00:03:37,970
+your stealth DC instead of relying on
+ 
+
+165
+00:03:37,970 --> 00:03:41,410
+your stealth DC instead of relying on
+their perception DC for example you walk
+
+166
+00:03:41,410 --> 00:03:41,420
+their perception DC for example you walk
+ 
+
+167
+00:03:41,420 --> 00:03:43,689
+their perception DC for example you walk
+up to the door of a ballroom with two
+
+168
+00:03:43,689 --> 00:03:43,699
+up to the door of a ballroom with two
+ 
+
+169
+00:03:43,699 --> 00:03:46,330
+up to the door of a ballroom with two
+guards standing outside they're checking
+
+170
+00:03:46,330 --> 00:03:46,340
+guards standing outside they're checking
+ 
+
+171
+00:03:46,340 --> 00:03:48,879
+guards standing outside they're checking
+guests before they enter for weapons and
+
+172
+00:03:48,879 --> 00:03:48,889
+guests before they enter for weapons and
+ 
+
+173
+00:03:48,889 --> 00:03:52,059
+guests before they enter for weapons and
+you have a dagger hidden on you on your
+
+174
+00:03:52,059 --> 00:03:52,069
+you have a dagger hidden on you on your
+ 
+
+175
+00:03:52,069 --> 00:03:54,309
+you have a dagger hidden on you on your
+turn when you approach the guards your
+
+176
+00:03:54,309 --> 00:03:54,319
+turn when you approach the guards your
+ 
+
+177
+00:03:54,319 --> 00:03:56,259
+turn when you approach the guards your
+stealth check would be a road which
+
+178
+00:03:56,259 --> 00:03:56,269
+stealth check would be a road which
+ 
+
+179
+00:03:56,269 --> 00:03:57,939
+stealth check would be a road which
+would then be contested by their
+
+180
+00:03:57,939 --> 00:03:57,949
+would then be contested by their
+ 
+
+181
+00:03:57,949 --> 00:04:02,199
+would then be contested by their
+perception DC's then on the guards turns
+
+182
+00:04:02,199 --> 00:04:02,209
+perception DC's then on the guards turns
+ 
+
+183
+00:04:02,209 --> 00:04:05,379
+perception DC's then on the guards turns
+one of them takes the seek action to
+
+184
+00:04:05,379 --> 00:04:05,389
+one of them takes the seek action to
+ 
+
+185
+00:04:05,389 --> 00:04:07,780
+one of them takes the seek action to
+actively look you over before letting
+
+186
+00:04:07,780 --> 00:04:07,790
+actively look you over before letting
+ 
+
+187
+00:04:07,790 --> 00:04:10,780
+actively look you over before letting
+you pass this guard would then roll
+
+188
+00:04:10,780 --> 00:04:10,790
+you pass this guard would then roll
+ 
+
+189
+00:04:10,790 --> 00:04:13,360
+you pass this guard would then roll
+their perception and that total would be
+
+190
+00:04:13,360 --> 00:04:13,370
+their perception and that total would be
+ 
+
+191
+00:04:13,370 --> 00:04:16,899
+their perception and that total would be
+challenged by your stealth DC note that
+
+192
+00:04:16,899 --> 00:04:16,909
+challenged by your stealth DC note that
+ 
+
+193
+00:04:16,909 --> 00:04:19,390
+challenged by your stealth DC note that
+whatever you rode on your turn when you
+
+194
+00:04:19,390 --> 00:04:19,400
+whatever you rode on your turn when you
+ 
+
+195
+00:04:19,400 --> 00:04:21,960
+whatever you rode on your turn when you
+took conceal an object is now irrelevant
+
+196
+00:04:21,960 --> 00:04:21,970
+took conceal an object is now irrelevant
+ 
+
+197
+00:04:21,970 --> 00:04:24,879
+took conceal an object is now irrelevant
+when it's the guards turn and they are
+
+198
+00:04:24,879 --> 00:04:24,889
+when it's the guards turn and they are
+ 
+
+199
+00:04:24,889 --> 00:04:28,180
+when it's the guards turn and they are
+using seek to search you then it is
+
+200
+00:04:28,180 --> 00:04:28,190
+using seek to search you then it is
+ 
+
+201
+00:04:28,190 --> 00:04:30,460
+using seek to search you then it is
+their perception challenged by your
+
+202
+00:04:30,460 --> 00:04:30,470
+their perception challenged by your
+ 
+
+203
+00:04:30,470 --> 00:04:34,360
+their perception challenged by your
+static stealth DC this works much the
+
+204
+00:04:34,360 --> 00:04:34,370
+static stealth DC this works much the
+ 
+
+205
+00:04:34,370 --> 00:04:36,189
+static stealth DC this works much the
+same way when hiding an object in the
+
+206
+00:04:36,189 --> 00:04:36,199
+same way when hiding an object in the
+ 
+
+207
+00:04:36,199 --> 00:04:37,750
+same way when hiding an object in the
+environment instead of carrying it with
+
+208
+00:04:37,750 --> 00:04:37,760
+environment instead of carrying it with
+ 
+
+209
+00:04:37,760 --> 00:04:40,570
+environment instead of carrying it with
+you except in this case you would not
+
+210
+00:04:40,570 --> 00:04:40,580
+you except in this case you would not
+ 
+
+211
+00:04:40,580 --> 00:04:43,810
+you except in this case you would not
+roll any stealth check instead he's been
+
+212
+00:04:43,810 --> 00:04:43,820
+roll any stealth check instead he's been
+ 
+
+213
+00:04:43,820 --> 00:04:46,360
+roll any stealth check instead he's been
+one action to hide the object and if
+
+214
+00:04:46,360 --> 00:04:46,370
+one action to hide the object and if
+ 
+
+215
+00:04:46,370 --> 00:04:48,490
+one action to hide the object and if
+anyone performs a seek action in that
+
+216
+00:04:48,490 --> 00:04:48,500
+anyone performs a seek action in that
+ 
+
+217
+00:04:48,500 --> 00:04:50,890
+anyone performs a seek action in that
+area then their perception check will be
+
+218
+00:04:50,890 --> 00:04:50,900
+area then their perception check will be
+ 
+
+219
+00:04:50,900 --> 00:04:53,020
+area then their perception check will be
+challenged by your stealth
+
+220
+00:04:53,020 --> 00:04:53,030
+challenged by your stealth
+ 
+
+221
+00:04:53,030 --> 00:04:55,390
+challenged by your stealth
+and note that conceal an object is for
+
+222
+00:04:55,390 --> 00:04:55,400
+and note that conceal an object is for
+ 
+
+223
+00:04:55,400 --> 00:04:56,890
+and note that conceal an object is for
+hiding something that you already
+
+224
+00:04:56,890 --> 00:04:56,900
+hiding something that you already
+ 
+
+225
+00:04:56,900 --> 00:04:59,500
+hiding something that you already
+possess if you want to pick something up
+
+226
+00:04:59,500 --> 00:04:59,510
+possess if you want to pick something up
+ 
+
+227
+00:04:59,510 --> 00:05:01,360
+possess if you want to pick something up
+without anyone noticing that you're
+
+228
+00:05:01,360 --> 00:05:01,370
+without anyone noticing that you're
+ 
+
+229
+00:05:01,370 --> 00:05:03,940
+without anyone noticing that you're
+picking it up you would use the palm and
+
+230
+00:05:03,940 --> 00:05:03,950
+picking it up you would use the palm and
+ 
+
+231
+00:05:03,950 --> 00:05:07,090
+picking it up you would use the palm and
+object application of thievery instead
+
+232
+00:05:07,090 --> 00:05:07,100
+object application of thievery instead
+ 
+
+233
+00:05:07,100 --> 00:05:10,060
+object application of thievery instead
+of using the stealth skill
+
+234
+00:05:10,060 --> 00:05:10,070
+of using the stealth skill
+ 
+
+235
+00:05:10,070 --> 00:05:13,170
+of using the stealth skill
+the second stealth action is called hide
+
+236
+00:05:13,170 --> 00:05:13,180
+the second stealth action is called hide
+ 
+
+237
+00:05:13,180 --> 00:05:16,000
+the second stealth action is called hide
+hide is used when you wish to lower your
+
+238
+00:05:16,000 --> 00:05:16,010
+hide is used when you wish to lower your
+ 
+
+239
+00:05:16,010 --> 00:05:18,700
+hide is used when you wish to lower your
+state of detection from observed to
+
+240
+00:05:18,700 --> 00:05:18,710
+state of detection from observed to
+ 
+
+241
+00:05:18,710 --> 00:05:21,820
+state of detection from observed to
+hidden when you take the hide action you
+
+242
+00:05:21,820 --> 00:05:21,830
+hidden when you take the hide action you
+ 
+
+243
+00:05:21,830 --> 00:05:23,500
+hidden when you take the hide action you
+roll a stealth check and compare the
+
+244
+00:05:23,500 --> 00:05:23,510
+roll a stealth check and compare the
+ 
+
+245
+00:05:23,510 --> 00:05:25,300
+roll a stealth check and compare the
+total to the perception disease of
+
+246
+00:05:25,300 --> 00:05:25,310
+total to the perception disease of
+ 
+
+247
+00:05:25,310 --> 00:05:28,360
+total to the perception disease of
+anyone who is observing you as long as
+
+248
+00:05:28,360 --> 00:05:28,370
+anyone who is observing you as long as
+ 
+
+249
+00:05:28,370 --> 00:05:30,070
+anyone who is observing you as long as
+you are either concealed from them or
+
+250
+00:05:30,070 --> 00:05:30,080
+you are either concealed from them or
+ 
+
+251
+00:05:30,080 --> 00:05:32,500
+you are either concealed from them or
+have a source of cover between you and
+
+252
+00:05:32,500 --> 00:05:32,510
+have a source of cover between you and
+ 
+
+253
+00:05:32,510 --> 00:05:35,830
+have a source of cover between you and
+them if you are not concealed or do not
+
+254
+00:05:35,830 --> 00:05:35,840
+them if you are not concealed or do not
+ 
+
+255
+00:05:35,840 --> 00:05:37,840
+them if you are not concealed or do not
+have a source of cover then you have
+
+256
+00:05:37,840 --> 00:05:37,850
+have a source of cover then you have
+ 
+
+257
+00:05:37,850 --> 00:05:39,670
+have a source of cover then you have
+nowhere to hide and the attempt
+
+258
+00:05:39,670 --> 00:05:39,680
+nowhere to hide and the attempt
+ 
+
+259
+00:05:39,680 --> 00:05:42,580
+nowhere to hide and the attempt
+automatically fails if you do have cover
+
+260
+00:05:42,580 --> 00:05:42,590
+automatically fails if you do have cover
+ 
+
+261
+00:05:42,590 --> 00:05:45,130
+automatically fails if you do have cover
+then you add the covers bonus to your
+
+262
+00:05:45,130 --> 00:05:45,140
+then you add the covers bonus to your
+ 
+
+263
+00:05:45,140 --> 00:05:47,290
+then you add the covers bonus to your
+stealth check but only for those
+
+264
+00:05:47,290 --> 00:05:47,300
+stealth check but only for those
+ 
+
+265
+00:05:47,300 --> 00:05:49,090
+stealth check but only for those
+creatures who are observing you from the
+
+266
+00:05:49,090 --> 00:05:49,100
+creatures who are observing you from the
+ 
+
+267
+00:05:49,100 --> 00:05:51,460
+creatures who are observing you from the
+other side of that cover this is
+
+268
+00:05:51,460 --> 00:05:51,470
+other side of that cover this is
+ 
+
+269
+00:05:51,470 --> 00:05:53,590
+other side of that cover this is
+basically common sense if the cover is
+
+270
+00:05:53,590 --> 00:05:53,600
+basically common sense if the cover is
+ 
+
+271
+00:05:53,600 --> 00:05:55,720
+basically common sense if the cover is
+not between you and them then it doesn't
+
+272
+00:05:55,720 --> 00:05:55,730
+not between you and them then it doesn't
+ 
+
+273
+00:05:55,730 --> 00:05:58,300
+not between you and them then it doesn't
+give you any benefit and likewise if you
+
+274
+00:05:58,300 --> 00:05:58,310
+give you any benefit and likewise if you
+ 
+
+275
+00:05:58,310 --> 00:06:00,490
+give you any benefit and likewise if you
+lose your cover or concealment you
+
+276
+00:06:00,490 --> 00:06:00,500
+lose your cover or concealment you
+ 
+
+277
+00:06:00,500 --> 00:06:03,820
+lose your cover or concealment you
+instantly become observed again you also
+
+278
+00:06:03,820 --> 00:06:03,830
+instantly become observed again you also
+ 
+
+279
+00:06:03,830 --> 00:06:06,400
+instantly become observed again you also
+immediately become observed if you use
+
+280
+00:06:06,400 --> 00:06:06,410
+immediately become observed if you use
+ 
+
+281
+00:06:06,410 --> 00:06:09,460
+immediately become observed if you use
+any actions other than sneak step or
+
+282
+00:06:09,460 --> 00:06:09,470
+any actions other than sneak step or
+ 
+
+283
+00:06:09,470 --> 00:06:12,700
+any actions other than sneak step or
+hide now there are two exceptions to
+
+284
+00:06:12,700 --> 00:06:12,710
+hide now there are two exceptions to
+ 
+
+285
+00:06:12,710 --> 00:06:15,310
+hide now there are two exceptions to
+this and the first is the strike action
+
+286
+00:06:15,310 --> 00:06:15,320
+this and the first is the strike action
+ 
+
+287
+00:06:15,320 --> 00:06:18,820
+this and the first is the strike action
+if you strike a target while hidden you
+
+288
+00:06:18,820 --> 00:06:18,830
+if you strike a target while hidden you
+ 
+
+289
+00:06:18,830 --> 00:06:21,160
+if you strike a target while hidden you
+resolve the attack first and don't
+
+290
+00:06:21,160 --> 00:06:21,170
+resolve the attack first and don't
+ 
+
+291
+00:06:21,170 --> 00:06:23,580
+resolve the attack first and don't
+become observed until after the attack
+
+292
+00:06:23,580 --> 00:06:23,590
+become observed until after the attack
+ 
+
+293
+00:06:23,590 --> 00:06:26,860
+become observed until after the attack
+this means the target is flat-footed for
+
+294
+00:06:26,860 --> 00:06:26,870
+this means the target is flat-footed for
+ 
+
+295
+00:06:26,870 --> 00:06:28,840
+this means the target is flat-footed for
+the attack and therefore the attacker
+
+296
+00:06:28,840 --> 00:06:28,850
+the attack and therefore the attacker
+ 
+
+297
+00:06:28,850 --> 00:06:30,610
+the attack and therefore the attacker
+can use abilities like sneak attack with
+
+298
+00:06:30,610 --> 00:06:30,620
+can use abilities like sneak attack with
+ 
+
+299
+00:06:30,620 --> 00:06:33,670
+can use abilities like sneak attack with
+their strike but once the attack is
+
+300
+00:06:33,670 --> 00:06:33,680
+their strike but once the attack is
+ 
+
+301
+00:06:33,680 --> 00:06:36,610
+their strike but once the attack is
+resolved the hiding character instantly
+
+302
+00:06:36,610 --> 00:06:36,620
+resolved the hiding character instantly
+ 
+
+303
+00:06:36,620 --> 00:06:37,840
+resolved the hiding character instantly
+becomes observed
+
+304
+00:06:37,840 --> 00:06:37,850
+becomes observed
+ 
+
+305
+00:06:37,850 --> 00:06:40,780
+becomes observed
+and the second of the two exceptions to
+
+306
+00:06:40,780 --> 00:06:40,790
+and the second of the two exceptions to
+ 
+
+307
+00:06:40,790 --> 00:06:42,550
+and the second of the two exceptions to
+the rule that states any action other
+
+308
+00:06:42,550 --> 00:06:42,560
+the rule that states any action other
+ 
+
+309
+00:06:42,560 --> 00:06:44,950
+the rule that states any action other
+than hide sneaker step instantly makes
+
+310
+00:06:44,950 --> 00:06:44,960
+than hide sneaker step instantly makes
+ 
+
+311
+00:06:44,960 --> 00:06:47,650
+than hide sneaker step instantly makes
+you observed is the provision in the
+
+312
+00:06:47,650 --> 00:06:47,660
+you observed is the provision in the
+ 
+
+313
+00:06:47,660 --> 00:06:50,770
+you observed is the provision in the
+rules that states unless the GM
+
+314
+00:06:50,770 --> 00:06:50,780
+rules that states unless the GM
+ 
+
+315
+00:06:50,780 --> 00:06:53,980
+rules that states unless the GM
+determines otherwise the GM might allow
+
+316
+00:06:53,980 --> 00:06:53,990
+determines otherwise the GM might allow
+ 
+
+317
+00:06:53,990 --> 00:06:57,130
+determines otherwise the GM might allow
+you to perform an unobtrusive action
+
+318
+00:06:57,130 --> 00:06:57,140
+you to perform an unobtrusive action
+ 
+
+319
+00:06:57,140 --> 00:07:00,220
+you to perform an unobtrusive action
+without being noticed possibly requiring
+
+320
+00:07:00,220 --> 00:07:00,230
+without being noticed possibly requiring
+ 
+
+321
+00:07:00,230 --> 00:07:03,190
+without being noticed possibly requiring
+another stealth check the key word here
+
+322
+00:07:03,190 --> 00:07:03,200
+another stealth check the key word here
+ 
+
+323
+00:07:03,200 --> 00:07:06,910
+another stealth check the key word here
+is unobtrusive for example the seek
+
+324
+00:07:06,910 --> 00:07:06,920
+is unobtrusive for example the seek
+ 
+
+325
+00:07:06,920 --> 00:07:09,670
+is unobtrusive for example the seek
+action if the hidden character wishes to
+
+326
+00:07:09,670 --> 00:07:09,680
+action if the hidden character wishes to
+ 
+
+327
+00:07:09,680 --> 00:07:12,100
+action if the hidden character wishes to
+perform the seek action I think in
+
+328
+00:07:12,100 --> 00:07:12,110
+perform the seek action I think in
+ 
+
+329
+00:07:12,110 --> 00:07:14,590
+perform the seek action I think in
+virtually all cases the GM would agree
+
+330
+00:07:14,590 --> 00:07:14,600
+virtually all cases the GM would agree
+ 
+
+331
+00:07:14,600 --> 00:07:17,610
+virtually all cases the GM would agree
+that seeking meets the definition of
+
+332
+00:07:17,610 --> 00:07:17,620
+that seeking meets the definition of
+ 
+
+333
+00:07:17,620 --> 00:07:20,560
+that seeking meets the definition of
+unobtrusive and not make you instantly
+
+334
+00:07:20,560 --> 00:07:20,570
+unobtrusive and not make you instantly
+ 
+
+335
+00:07:20,570 --> 00:07:22,629
+unobtrusive and not make you instantly
+become detected when you performed
+
+336
+00:07:22,629 --> 00:07:22,639
+become detected when you performed
+ 
+
+337
+00:07:22,639 --> 00:07:26,679
+become detected when you performed
+action but it is up to every GM to
+
+338
+00:07:26,679 --> 00:07:26,689
+action but it is up to every GM to
+ 
+
+339
+00:07:26,689 --> 00:07:29,850
+action but it is up to every GM to
+decide on if an action is considered
+
+340
+00:07:29,850 --> 00:07:29,860
+decide on if an action is considered
+ 
+
+341
+00:07:29,860 --> 00:07:33,670
+decide on if an action is considered
+unobtrusive or not also note that you
+
+342
+00:07:33,670 --> 00:07:33,680
+unobtrusive or not also note that you
+ 
+
+343
+00:07:33,680 --> 00:07:35,559
+unobtrusive or not also note that you
+may not move out of your current space
+
+344
+00:07:35,559 --> 00:07:35,569
+may not move out of your current space
+ 
+
+345
+00:07:35,569 --> 00:07:38,769
+may not move out of your current space
+as part of a hide action hide is just
+
+346
+00:07:38,769 --> 00:07:38,779
+as part of a hide action hide is just
+ 
+
+347
+00:07:38,779 --> 00:07:41,350
+as part of a hide action hide is just
+for staying in place and changing your
+
+348
+00:07:41,350 --> 00:07:41,360
+for staying in place and changing your
+ 
+
+349
+00:07:41,360 --> 00:07:44,050
+for staying in place and changing your
+state of detection from observed to
+
+350
+00:07:44,050 --> 00:07:44,060
+state of detection from observed to
+ 
+
+351
+00:07:44,060 --> 00:07:46,250
+state of detection from observed to
+hidden
+
+352
+00:07:46,250 --> 00:07:46,260
+hidden
+ 
+
+353
+00:07:46,260 --> 00:07:49,050
+hidden
+disappearing behind cover or any blanket
+
+354
+00:07:49,050 --> 00:07:49,060
+disappearing behind cover or any blanket
+ 
+
+355
+00:07:49,060 --> 00:07:51,629
+disappearing behind cover or any blanket
+of darkness is one way to lower your
+
+356
+00:07:51,629 --> 00:07:51,639
+of darkness is one way to lower your
+ 
+
+357
+00:07:51,639 --> 00:07:53,340
+of darkness is one way to lower your
+state of detection from observe to
+
+358
+00:07:53,340 --> 00:07:53,350
+state of detection from observe to
+ 
+
+359
+00:07:53,350 --> 00:07:56,189
+state of detection from observe to
+hidden but another option is to trick
+
+360
+00:07:56,189 --> 00:07:56,199
+hidden but another option is to trick
+ 
+
+361
+00:07:56,199 --> 00:07:58,200
+hidden but another option is to trick
+those people observing you into looking
+
+362
+00:07:58,200 --> 00:07:58,210
+those people observing you into looking
+ 
+
+363
+00:07:58,210 --> 00:08:01,020
+those people observing you into looking
+the other way you can accomplish this
+
+364
+00:08:01,020 --> 00:08:01,030
+the other way you can accomplish this
+ 
+
+365
+00:08:01,030 --> 00:08:03,900
+the other way you can accomplish this
+with the create under version use of the
+
+366
+00:08:03,900 --> 00:08:03,910
+with the create under version use of the
+ 
+
+367
+00:08:03,910 --> 00:08:06,600
+with the create under version use of the
+deception skill when using create a
+
+368
+00:08:06,600 --> 00:08:06,610
+deception skill when using create a
+ 
+
+369
+00:08:06,610 --> 00:08:07,439
+deception skill when using create a
+diversion
+
+370
+00:08:07,439 --> 00:08:07,449
+diversion
+ 
+
+371
+00:08:07,449 --> 00:08:09,510
+diversion
+you do something to trick any onlookers
+
+372
+00:08:09,510 --> 00:08:09,520
+you do something to trick any onlookers
+ 
+
+373
+00:08:09,520 --> 00:08:11,969
+you do something to trick any onlookers
+into momentarily turning their backs on
+
+374
+00:08:11,969 --> 00:08:11,979
+into momentarily turning their backs on
+ 
+
+375
+00:08:11,979 --> 00:08:13,980
+into momentarily turning their backs on
+you and hope by the time they turn back
+
+376
+00:08:13,980 --> 00:08:13,990
+you and hope by the time they turn back
+ 
+
+377
+00:08:13,990 --> 00:08:16,590
+you and hope by the time they turn back
+around you'll have disappeared this
+
+378
+00:08:16,590 --> 00:08:16,600
+around you'll have disappeared this
+ 
+
+379
+00:08:16,600 --> 00:08:19,680
+around you'll have disappeared this
+requires a deception check contested by
+
+380
+00:08:19,680 --> 00:08:19,690
+requires a deception check contested by
+ 
+
+381
+00:08:19,690 --> 00:08:21,810
+requires a deception check contested by
+the perception disease of everyone
+
+382
+00:08:21,810 --> 00:08:21,820
+the perception disease of everyone
+ 
+
+383
+00:08:21,820 --> 00:08:24,420
+the perception disease of everyone
+observing you your detection state
+
+384
+00:08:24,420 --> 00:08:24,430
+observing you your detection state
+ 
+
+385
+00:08:24,430 --> 00:08:27,420
+observing you your detection state
+lowers from observed to hidden for
+
+386
+00:08:27,420 --> 00:08:27,430
+lowers from observed to hidden for
+ 
+
+387
+00:08:27,430 --> 00:08:30,540
+lowers from observed to hidden for
+anyone whose perception DC is equal to
+
+388
+00:08:30,540 --> 00:08:30,550
+anyone whose perception DC is equal to
+ 
+
+389
+00:08:30,550 --> 00:08:32,700
+anyone whose perception DC is equal to
+or lower than the total of your
+
+390
+00:08:32,700 --> 00:08:32,710
+or lower than the total of your
+ 
+
+391
+00:08:32,710 --> 00:08:35,610
+or lower than the total of your
+deception check this hidden condition
+
+392
+00:08:35,610 --> 00:08:35,620
+deception check this hidden condition
+ 
+
+393
+00:08:35,620 --> 00:08:38,940
+deception check this hidden condition
+lasts until the end of your current turn
+
+394
+00:08:38,940 --> 00:08:38,950
+lasts until the end of your current turn
+ 
+
+395
+00:08:38,950 --> 00:08:41,850
+lasts until the end of your current turn
+or if you perform an action which would
+
+396
+00:08:41,850 --> 00:08:41,860
+or if you perform an action which would
+ 
+
+397
+00:08:41,860 --> 00:08:44,400
+or if you perform an action which would
+reveal you same as we discussed with the
+
+398
+00:08:44,400 --> 00:08:44,410
+reveal you same as we discussed with the
+ 
+
+399
+00:08:44,410 --> 00:08:47,430
+reveal you same as we discussed with the
+hide action any creature observing you
+
+400
+00:08:47,430 --> 00:08:47,440
+hide action any creature observing you
+ 
+
+401
+00:08:47,440 --> 00:08:50,130
+hide action any creature observing you
+whose perception DC is higher than the
+
+402
+00:08:50,130 --> 00:08:50,140
+whose perception DC is higher than the
+ 
+
+403
+00:08:50,140 --> 00:08:52,620
+whose perception DC is higher than the
+total of your deception check not only
+
+404
+00:08:52,620 --> 00:08:52,630
+total of your deception check not only
+ 
+
+405
+00:08:52,630 --> 00:08:55,530
+total of your deception check not only
+continues to observe you but is also
+
+406
+00:08:55,530 --> 00:08:55,540
+continues to observe you but is also
+ 
+
+407
+00:08:55,540 --> 00:08:58,430
+continues to observe you but is also
+fully aware that you tried to trick them
+
+408
+00:08:58,430 --> 00:08:58,440
+fully aware that you tried to trick them
+ 
+
+409
+00:08:58,440 --> 00:09:01,500
+fully aware that you tried to trick them
+regardless of success or failure once
+
+410
+00:09:01,500 --> 00:09:01,510
+regardless of success or failure once
+ 
+
+411
+00:09:01,510 --> 00:09:03,540
+regardless of success or failure once
+you use create a diversion on a creature
+
+412
+00:09:03,540 --> 00:09:03,550
+you use create a diversion on a creature
+ 
+
+413
+00:09:03,550 --> 00:09:07,440
+you use create a diversion on a creature
+they receive a +4 circumstance bonus to
+
+414
+00:09:07,440 --> 00:09:07,450
+they receive a +4 circumstance bonus to
+ 
+
+415
+00:09:07,450 --> 00:09:09,630
+they receive a +4 circumstance bonus to
+their perception disease against any
+
+416
+00:09:09,630 --> 00:09:09,640
+their perception disease against any
+ 
+
+417
+00:09:09,640 --> 00:09:12,780
+their perception disease against any
+future attempts by you to create another
+
+418
+00:09:12,780 --> 00:09:12,790
+future attempts by you to create another
+ 
+
+419
+00:09:12,790 --> 00:09:16,300
+future attempts by you to create another
+diversion for one minute
+
+420
+00:09:16,300 --> 00:09:16,310
+diversion for one minute
+ 
+
+421
+00:09:16,310 --> 00:09:18,790
+diversion for one minute
+but once your detection state is hidden
+
+422
+00:09:18,790 --> 00:09:18,800
+but once your detection state is hidden
+ 
+
+423
+00:09:18,800 --> 00:09:20,949
+but once your detection state is hidden
+either by causing a destruction
+
+424
+00:09:20,949 --> 00:09:20,959
+either by causing a destruction
+ 
+
+425
+00:09:20,959 --> 00:09:23,499
+either by causing a destruction
+performing the hide action or by other
+
+426
+00:09:23,499 --> 00:09:23,509
+performing the hide action or by other
+ 
+
+427
+00:09:23,509 --> 00:09:26,710
+performing the hide action or by other
+means you can then you sneak to lower
+
+428
+00:09:26,710 --> 00:09:26,720
+means you can then you sneak to lower
+ 
+
+429
+00:09:26,720 --> 00:09:28,869
+means you can then you sneak to lower
+your detection state to undetected and
+
+430
+00:09:28,869 --> 00:09:28,879
+your detection state to undetected and
+ 
+
+431
+00:09:28,879 --> 00:09:32,769
+your detection state to undetected and
+move away from your location in order to
+
+432
+00:09:32,769 --> 00:09:32,779
+move away from your location in order to
+ 
+
+433
+00:09:32,779 --> 00:09:35,110
+move away from your location in order to
+take the sneak action you must first be
+
+434
+00:09:35,110 --> 00:09:35,120
+take the sneak action you must first be
+ 
+
+435
+00:09:35,120 --> 00:09:38,499
+take the sneak action you must first be
+hidden or undetected in other words if
+
+436
+00:09:38,499 --> 00:09:38,509
+hidden or undetected in other words if
+ 
+
+437
+00:09:38,509 --> 00:09:40,179
+hidden or undetected in other words if
+any of the people you are trying to
+
+438
+00:09:40,179 --> 00:09:40,189
+any of the people you are trying to
+ 
+
+439
+00:09:40,189 --> 00:09:42,730
+any of the people you are trying to
+sneak past can see you then you can't
+
+440
+00:09:42,730 --> 00:09:42,740
+sneak past can see you then you can't
+ 
+
+441
+00:09:42,740 --> 00:09:45,189
+sneak past can see you then you can't
+use the sneak action you would need to
+
+442
+00:09:45,189 --> 00:09:45,199
+use the sneak action you would need to
+ 
+
+443
+00:09:45,199 --> 00:09:48,100
+use the sneak action you would need to
+spin an action first to hide thus
+
+444
+00:09:48,100 --> 00:09:48,110
+spin an action first to hide thus
+ 
+
+445
+00:09:48,110 --> 00:09:49,809
+spin an action first to hide thus
+lowering your detection state from
+
+446
+00:09:49,809 --> 00:09:49,819
+lowering your detection state from
+ 
+
+447
+00:09:49,819 --> 00:09:53,259
+lowering your detection state from
+observed to hidden and then another
+
+448
+00:09:53,259 --> 00:09:53,269
+observed to hidden and then another
+ 
+
+449
+00:09:53,269 --> 00:09:56,650
+observed to hidden and then another
+action to sneak away want you to clear
+
+450
+00:09:56,650 --> 00:09:56,660
+action to sneak away want you to clear
+ 
+
+451
+00:09:56,660 --> 00:09:58,960
+action to sneak away want you to clear
+that you are sneaking you may move up to
+
+452
+00:09:58,960 --> 00:09:58,970
+that you are sneaking you may move up to
+ 
+
+453
+00:09:58,970 --> 00:10:01,600
+that you are sneaking you may move up to
+half your speed at the end of your
+
+454
+00:10:01,600 --> 00:10:01,610
+half your speed at the end of your
+ 
+
+455
+00:10:01,610 --> 00:10:04,210
+half your speed at the end of your
+movement the GM rolls your stealth check
+
+456
+00:10:04,210 --> 00:10:04,220
+movement the GM rolls your stealth check
+ 
+
+457
+00:10:04,220 --> 00:10:06,670
+movement the GM rolls your stealth check
+for you in secret and compares the
+
+458
+00:10:06,670 --> 00:10:06,680
+for you in secret and compares the
+ 
+
+459
+00:10:06,680 --> 00:10:08,889
+for you in secret and compares the
+result to the perception dc's of
+
+460
+00:10:08,889 --> 00:10:08,899
+result to the perception dc's of
+ 
+
+461
+00:10:08,899 --> 00:10:10,929
+result to the perception dc's of
+everyone who you are undetected or
+
+462
+00:10:10,929 --> 00:10:10,939
+everyone who you are undetected or
+ 
+
+463
+00:10:10,939 --> 00:10:13,600
+everyone who you are undetected or
+hidden from at the start of the sneak
+
+464
+00:10:13,600 --> 00:10:13,610
+hidden from at the start of the sneak
+ 
+
+465
+00:10:13,610 --> 00:10:16,239
+hidden from at the start of the sneak
+action if you have cover or greater
+
+466
+00:10:16,239 --> 00:10:16,249
+action if you have cover or greater
+ 
+
+467
+00:10:16,249 --> 00:10:19,840
+action if you have cover or greater
+cover throughout the entire movement the
+
+468
+00:10:19,840 --> 00:10:19,850
+cover throughout the entire movement the
+ 
+
+469
+00:10:19,850 --> 00:10:22,420
+cover throughout the entire movement the
+GM adds your cover bonus to the stealth
+
+470
+00:10:22,420 --> 00:10:22,430
+GM adds your cover bonus to the stealth
+ 
+
+471
+00:10:22,430 --> 00:10:25,389
+GM adds your cover bonus to the stealth
+check that they roll in secret at the
+
+472
+00:10:25,389 --> 00:10:25,399
+check that they roll in secret at the
+ 
+
+473
+00:10:25,399 --> 00:10:27,579
+check that they roll in secret at the
+end of your movement you instantly
+
+474
+00:10:27,579 --> 00:10:27,589
+end of your movement you instantly
+ 
+
+475
+00:10:27,589 --> 00:10:30,490
+end of your movement you instantly
+become observed by any creature who you
+
+476
+00:10:30,490 --> 00:10:30,500
+become observed by any creature who you
+ 
+
+477
+00:10:30,500 --> 00:10:33,220
+become observed by any creature who you
+do not have cover from or the concealed
+
+478
+00:10:33,220 --> 00:10:33,230
+do not have cover from or the concealed
+ 
+
+479
+00:10:33,230 --> 00:10:36,490
+do not have cover from or the concealed
+condition against everyone else has
+
+480
+00:10:36,490 --> 00:10:36,500
+condition against everyone else has
+ 
+
+481
+00:10:36,500 --> 00:10:38,679
+condition against everyone else has
+their perception dc's compared to your
+
+482
+00:10:38,679 --> 00:10:38,689
+their perception dc's compared to your
+ 
+
+483
+00:10:38,689 --> 00:10:40,960
+their perception dc's compared to your
+stealth check total and you gain the
+
+484
+00:10:40,960 --> 00:10:40,970
+stealth check total and you gain the
+ 
+
+485
+00:10:40,970 --> 00:10:43,960
+stealth check total and you gain the
+undetected state with anyone you wrote a
+
+486
+00:10:43,960 --> 00:10:43,970
+undetected state with anyone you wrote a
+ 
+
+487
+00:10:43,970 --> 00:10:46,389
+undetected state with anyone you wrote a
+success against or you keep the
+
+488
+00:10:46,389 --> 00:10:46,399
+success against or you keep the
+ 
+
+489
+00:10:46,399 --> 00:10:48,340
+success against or you keep the
+undetected state if you are already
+
+490
+00:10:48,340 --> 00:10:48,350
+undetected state if you are already
+ 
+
+491
+00:10:48,350 --> 00:10:50,530
+undetected state if you are already
+undetected before taking the sneak
+
+492
+00:10:50,530 --> 00:10:50,540
+undetected before taking the sneak
+ 
+
+493
+00:10:50,540 --> 00:10:53,799
+undetected before taking the sneak
+action in just a point here as a
+
+494
+00:10:53,799 --> 00:10:53,809
+action in just a point here as a
+ 
+
+495
+00:10:53,809 --> 00:10:56,319
+action in just a point here as a
+technicality when you take the sneak
+
+496
+00:10:56,319 --> 00:10:56,329
+technicality when you take the sneak
+ 
+
+497
+00:10:56,329 --> 00:10:58,780
+technicality when you take the sneak
+action if you are hidden you instantly
+
+498
+00:10:58,780 --> 00:10:58,790
+action if you are hidden you instantly
+ 
+
+499
+00:10:58,790 --> 00:11:01,660
+action if you are hidden you instantly
+become undetected at the start of the
+
+500
+00:11:01,660 --> 00:11:01,670
+become undetected at the start of the
+ 
+
+501
+00:11:01,670 --> 00:11:03,999
+become undetected at the start of the
+sneak action and you maintain the
+
+502
+00:11:03,999 --> 00:11:04,009
+sneak action and you maintain the
+ 
+
+503
+00:11:04,009 --> 00:11:06,040
+sneak action and you maintain the
+undetected state throughout your
+
+504
+00:11:06,040 --> 00:11:06,050
+undetected state throughout your
+ 
+
+505
+00:11:06,050 --> 00:11:08,139
+undetected state throughout your
+movement to the ending square where you
+
+506
+00:11:08,139 --> 00:11:08,149
+movement to the ending square where you
+ 
+
+507
+00:11:08,149 --> 00:11:11,169
+movement to the ending square where you
+stop your sneak if your check fails
+
+508
+00:11:11,169 --> 00:11:11,179
+stop your sneak if your check fails
+ 
+
+509
+00:11:11,179 --> 00:11:13,030
+stop your sneak if your check fails
+against a creature that you do have
+
+510
+00:11:13,030 --> 00:11:13,040
+against a creature that you do have
+ 
+
+511
+00:11:13,040 --> 00:11:15,040
+against a creature that you do have
+cover or concealment against in that
+
+512
+00:11:15,040 --> 00:11:15,050
+cover or concealment against in that
+ 
+
+513
+00:11:15,050 --> 00:11:17,710
+cover or concealment against in that
+last Square then you become hidden to
+
+514
+00:11:17,710 --> 00:11:17,720
+last Square then you become hidden to
+ 
+
+515
+00:11:17,720 --> 00:11:20,980
+last Square then you become hidden to
+them they can't see you but you must
+
+516
+00:11:20,980 --> 00:11:20,990
+them they can't see you but you must
+ 
+
+517
+00:11:20,990 --> 00:11:22,689
+them they can't see you but you must
+have made a sound they gave away your
+
+518
+00:11:22,689 --> 00:11:22,699
+have made a sound they gave away your
+ 
+
+519
+00:11:22,699 --> 00:11:26,169
+have made a sound they gave away your
+location if you critically fail then the
+
+520
+00:11:26,169 --> 00:11:26,179
+location if you critically fail then the
+ 
+
+521
+00:11:26,179 --> 00:11:28,480
+location if you critically fail then the
+creature is able to observe you as long
+
+522
+00:11:28,480 --> 00:11:28,490
+creature is able to observe you as long
+ 
+
+523
+00:11:28,490 --> 00:11:30,370
+creature is able to observe you as long
+as they have a line of sight to that
+
+524
+00:11:30,370 --> 00:11:30,380
+as they have a line of sight to that
+ 
+
+525
+00:11:30,380 --> 00:11:33,520
+as they have a line of sight to that
+space and just like with the actions
+
+526
+00:11:33,520 --> 00:11:33,530
+space and just like with the actions
+ 
+
+527
+00:11:33,530 --> 00:11:35,350
+space and just like with the actions
+we've already discussed once you are
+
+528
+00:11:35,350 --> 00:11:35,360
+we've already discussed once you are
+ 
+
+529
+00:11:35,360 --> 00:11:38,050
+we've already discussed once you are
+undetected following a sneak action you
+
+530
+00:11:38,050 --> 00:11:38,060
+undetected following a sneak action you
+ 
+
+531
+00:11:38,060 --> 00:11:40,990
+undetected following a sneak action you
+become observed as soon as you take any
+
+532
+00:11:40,990 --> 00:11:41,000
+become observed as soon as you take any
+ 
+
+533
+00:11:41,000 --> 00:11:44,050
+become observed as soon as you take any
+action other than hide step or another
+
+534
+00:11:44,050 --> 00:11:44,060
+action other than hide step or another
+ 
+
+535
+00:11:44,060 --> 00:11:46,930
+action other than hide step or another
+sneak unless the GM rules that the
+
+536
+00:11:46,930 --> 00:11:46,940
+sneak unless the GM rules that the
+ 
+
+537
+00:11:46,940 --> 00:11:50,200
+sneak unless the GM rules that the
+action is unobtrusive and if you strike
+
+538
+00:11:50,200 --> 00:11:50,210
+action is unobtrusive and if you strike
+ 
+
+539
+00:11:50,210 --> 00:11:52,570
+action is unobtrusive and if you strike
+then your target is flat-footed for that
+
+540
+00:11:52,570 --> 00:11:52,580
+then your target is flat-footed for that
+ 
+
+541
+00:11:52,580 --> 00:11:55,150
+then your target is flat-footed for that
+attack and you become observed as soon
+
+542
+00:11:55,150 --> 00:11:55,160
+attack and you become observed as soon
+ 
+
+543
+00:11:55,160 --> 00:11:58,090
+attack and you become observed as soon
+as that attack is resolved with any
+
+544
+00:11:58,090 --> 00:11:58,100
+as that attack is resolved with any
+ 
+
+545
+00:11:58,100 --> 00:12:00,790
+as that attack is resolved with any
+other actions you become observed before
+
+546
+00:12:00,790 --> 00:12:00,800
+other actions you become observed before
+ 
+
+547
+00:12:00,800 --> 00:12:04,640
+other actions you become observed before
+the action is resolved
+
+548
+00:12:04,640 --> 00:12:04,650
+the action is resolved
+ 
+
+549
+00:12:04,650 --> 00:12:07,640
+the action is resolved
+let's look at a few examples will be
+
+550
+00:12:07,640 --> 00:12:07,650
+let's look at a few examples will be
+ 
+
+551
+00:12:07,650 --> 00:12:10,400
+let's look at a few examples will be
+using Mauricio for these she's a fifth
+
+552
+00:12:10,400 --> 00:12:10,410
+using Mauricio for these she's a fifth
+ 
+
+553
+00:12:10,410 --> 00:12:13,400
+using Mauricio for these she's a fifth
+level rogue she has a speed score of 35
+
+554
+00:12:13,400 --> 00:12:13,410
+level rogue she has a speed score of 35
+ 
+
+555
+00:12:13,410 --> 00:12:16,700
+level rogue she has a speed score of 35
+feet a plus 11 bonus to perception and
+
+556
+00:12:16,700 --> 00:12:16,710
+feet a plus 11 bonus to perception and
+ 
+
+557
+00:12:16,710 --> 00:12:20,000
+feet a plus 11 bonus to perception and
+plus 13 to stealth this also makes her
+
+558
+00:12:20,000 --> 00:12:20,010
+plus 13 to stealth this also makes her
+ 
+
+559
+00:12:20,010 --> 00:12:23,600
+plus 13 to stealth this also makes her
+perception DC 21 and her stealth DC is
+
+560
+00:12:23,600 --> 00:12:23,610
+perception DC 21 and her stealth DC is
+ 
+
+561
+00:12:23,610 --> 00:12:26,240
+perception DC 21 and her stealth DC is
+23 in this scenario
+
+562
+00:12:26,240 --> 00:12:26,250
+23 in this scenario
+ 
+
+563
+00:12:26,250 --> 00:12:28,580
+23 in this scenario
+Mauricio is sneaking through a wizards
+
+564
+00:12:28,580 --> 00:12:28,590
+Mauricio is sneaking through a wizards
+ 
+
+565
+00:12:28,590 --> 00:12:31,580
+Mauricio is sneaking through a wizards
+Academy to steal a rare tome she
+
+566
+00:12:31,580 --> 00:12:31,590
+Academy to steal a rare tome she
+ 
+
+567
+00:12:31,590 --> 00:12:33,260
+Academy to steal a rare tome she
+believes it to be in the collection of
+
+568
+00:12:33,260 --> 00:12:33,270
+believes it to be in the collection of
+ 
+
+569
+00:12:33,270 --> 00:12:35,750
+believes it to be in the collection of
+one of the teachers and has arrived at
+
+570
+00:12:35,750 --> 00:12:35,760
+one of the teachers and has arrived at
+ 
+
+571
+00:12:35,760 --> 00:12:38,480
+one of the teachers and has arrived at
+the corridor outside a dormitory with
+
+572
+00:12:38,480 --> 00:12:38,490
+the corridor outside a dormitory with
+ 
+
+573
+00:12:38,490 --> 00:12:40,640
+the corridor outside a dormitory with
+cloth partitions separating the students
+
+574
+00:12:40,640 --> 00:12:40,650
+cloth partitions separating the students
+ 
+
+575
+00:12:40,650 --> 00:12:42,710
+cloth partitions separating the students
+beds and the teacher's office to the
+
+576
+00:12:42,710 --> 00:12:42,720
+beds and the teacher's office to the
+ 
+
+577
+00:12:42,720 --> 00:12:45,950
+beds and the teacher's office to the
+west she sneaks to the window and stops
+
+578
+00:12:45,950 --> 00:12:45,960
+west she sneaks to the window and stops
+ 
+
+579
+00:12:45,960 --> 00:12:48,470
+west she sneaks to the window and stops
+she spots a student sitting on his bed
+
+580
+00:12:48,470 --> 00:12:48,480
+she spots a student sitting on his bed
+ 
+
+581
+00:12:48,480 --> 00:12:50,990
+she spots a student sitting on his bed
+reading since he is not making any
+
+582
+00:12:50,990 --> 00:12:51,000
+reading since he is not making any
+ 
+
+583
+00:12:51,000 --> 00:12:53,720
+reading since he is not making any
+attempt to be undetected she instantly
+
+584
+00:12:53,720 --> 00:12:53,730
+attempt to be undetected she instantly
+ 
+
+585
+00:12:53,730 --> 00:12:57,140
+attempt to be undetected she instantly
+observes him since she ended her sneak
+
+586
+00:12:57,140 --> 00:12:57,150
+observes him since she ended her sneak
+ 
+
+587
+00:12:57,150 --> 00:12:59,990
+observes him since she ended her sneak
+in this space the GM rolls her stealth
+
+588
+00:12:59,990 --> 00:13:00,000
+in this space the GM rolls her stealth
+ 
+
+589
+00:13:00,000 --> 00:13:02,780
+in this space the GM rolls her stealth
+check in secret and contests the total
+
+590
+00:13:02,780 --> 00:13:02,790
+check in secret and contests the total
+ 
+
+591
+00:13:02,790 --> 00:13:05,870
+check in secret and contests the total
+with the perception DC's of anyone with
+
+592
+00:13:05,870 --> 00:13:05,880
+with the perception DC's of anyone with
+ 
+
+593
+00:13:05,880 --> 00:13:08,810
+with the perception DC's of anyone with
+line-of-sight to her the GM also as a
+
+594
+00:13:08,810 --> 00:13:08,820
+line-of-sight to her the GM also as a
+ 
+
+595
+00:13:08,820 --> 00:13:11,150
+line-of-sight to her the GM also as a
+bonus to her check for the cover that
+
+596
+00:13:11,150 --> 00:13:11,160
+bonus to her check for the cover that
+ 
+
+597
+00:13:11,160 --> 00:13:14,270
+bonus to her check for the cover that
+she's behind her total is well over
+
+598
+00:13:14,270 --> 00:13:14,280
+she's behind her total is well over
+ 
+
+599
+00:13:14,280 --> 00:13:16,700
+she's behind her total is well over
+there reading students perception DC so
+
+600
+00:13:16,700 --> 00:13:16,710
+there reading students perception DC so
+ 
+
+601
+00:13:16,710 --> 00:13:18,290
+there reading students perception DC so
+the GM tells her that she doesn't
+
+602
+00:13:18,290 --> 00:13:18,300
+the GM tells her that she doesn't
+ 
+
+603
+00:13:18,300 --> 00:13:20,450
+the GM tells her that she doesn't
+believe that she's been spotted her
+
+604
+00:13:20,450 --> 00:13:20,460
+believe that she's been spotted her
+ 
+
+605
+00:13:20,460 --> 00:13:22,700
+believe that she's been spotted her
+detection state is unnoticed and
+
+606
+00:13:22,700 --> 00:13:22,710
+detection state is unnoticed and
+ 
+
+607
+00:13:22,710 --> 00:13:26,090
+detection state is unnoticed and
+undetected with her first action on the
+
+608
+00:13:26,090 --> 00:13:26,100
+undetected with her first action on the
+ 
+
+609
+00:13:26,100 --> 00:13:26,870
+undetected with her first action on the
+next round
+
+610
+00:13:26,870 --> 00:13:26,880
+next round
+ 
+
+611
+00:13:26,880 --> 00:13:29,240
+next round
+she takes another sneak action and moves
+
+612
+00:13:29,240 --> 00:13:29,250
+she takes another sneak action and moves
+ 
+
+613
+00:13:29,250 --> 00:13:31,910
+she takes another sneak action and moves
+to the door as with before she would
+
+614
+00:13:31,910 --> 00:13:31,920
+to the door as with before she would
+ 
+
+615
+00:13:31,920 --> 00:13:33,770
+to the door as with before she would
+need the GM to roll a stealth check in
+
+616
+00:13:33,770 --> 00:13:33,780
+need the GM to roll a stealth check in
+ 
+
+617
+00:13:33,780 --> 00:13:36,080
+need the GM to roll a stealth check in
+secret but it's fairly trivial here
+
+618
+00:13:36,080 --> 00:13:36,090
+secret but it's fairly trivial here
+ 
+
+619
+00:13:36,090 --> 00:13:38,000
+secret but it's fairly trivial here
+given that no one is able to observe her
+
+620
+00:13:38,000 --> 00:13:38,010
+given that no one is able to observe her
+ 
+
+621
+00:13:38,010 --> 00:13:40,640
+given that no one is able to observe her
+from the other side of the doors being
+
+622
+00:13:40,640 --> 00:13:40,650
+from the other side of the doors being
+ 
+
+623
+00:13:40,650 --> 00:13:43,310
+from the other side of the doors being
+extra cautious she presses her ear to
+
+624
+00:13:43,310 --> 00:13:43,320
+extra cautious she presses her ear to
+ 
+
+625
+00:13:43,320 --> 00:13:45,800
+extra cautious she presses her ear to
+the door and listens this is a seek
+
+626
+00:13:45,800 --> 00:13:45,810
+the door and listens this is a seek
+ 
+
+627
+00:13:45,810 --> 00:13:48,320
+the door and listens this is a seek
+action if there are creatures on the
+
+628
+00:13:48,320 --> 00:13:48,330
+action if there are creatures on the
+ 
+
+629
+00:13:48,330 --> 00:13:50,300
+action if there are creatures on the
+other side of this door who are trying
+
+630
+00:13:50,300 --> 00:13:50,310
+other side of this door who are trying
+ 
+
+631
+00:13:50,310 --> 00:13:53,360
+other side of this door who are trying
+to avoid attention her perception check
+
+632
+00:13:53,360 --> 00:13:53,370
+to avoid attention her perception check
+ 
+
+633
+00:13:53,370 --> 00:13:55,220
+to avoid attention her perception check
+would be contested by their stealth and
+
+634
+00:13:55,220 --> 00:13:55,230
+would be contested by their stealth and
+ 
+
+635
+00:13:55,230 --> 00:13:57,770
+would be contested by their stealth and
+DC's if there are creatures on the other
+
+636
+00:13:57,770 --> 00:13:57,780
+DC's if there are creatures on the other
+ 
+
+637
+00:13:57,780 --> 00:14:00,020
+DC's if there are creatures on the other
+side of the door who are not trying to
+
+638
+00:14:00,020 --> 00:14:00,030
+side of the door who are not trying to
+ 
+
+639
+00:14:00,030 --> 00:14:02,240
+side of the door who are not trying to
+avoid attention then her perception
+
+640
+00:14:02,240 --> 00:14:02,250
+avoid attention then her perception
+ 
+
+641
+00:14:02,250 --> 00:14:04,250
+avoid attention then her perception
+check is contested by a lure DC as
+
+642
+00:14:04,250 --> 00:14:04,260
+check is contested by a lure DC as
+ 
+
+643
+00:14:04,260 --> 00:14:07,700
+check is contested by a lure DC as
+deemed appropriate by the GM Mauricio
+
+644
+00:14:07,700 --> 00:14:07,710
+deemed appropriate by the GM Mauricio
+ 
+
+645
+00:14:07,710 --> 00:14:10,190
+deemed appropriate by the GM Mauricio
+tells the GM that her perception bonuses
+
+646
+00:14:10,190 --> 00:14:10,200
+tells the GM that her perception bonuses
+ 
+
+647
+00:14:10,200 --> 00:14:12,860
+tells the GM that her perception bonuses
+plus 11 and the GM rolls this check in
+
+648
+00:14:12,860 --> 00:14:12,870
+plus 11 and the GM rolls this check in
+ 
+
+649
+00:14:12,870 --> 00:14:15,380
+plus 11 and the GM rolls this check in
+secret they then tell Marissa's player
+
+650
+00:14:15,380 --> 00:14:15,390
+secret they then tell Marissa's player
+ 
+
+651
+00:14:15,390 --> 00:14:17,570
+secret they then tell Marissa's player
+that she can hear voices on the other
+
+652
+00:14:17,570 --> 00:14:17,580
+that she can hear voices on the other
+ 
+
+653
+00:14:17,580 --> 00:14:18,079
+that she can hear voices on the other
+side
+
+654
+00:14:18,079 --> 00:14:18,089
+side
+ 
+
+655
+00:14:18,089 --> 00:14:20,809
+side
+the door but can't quite make out what
+
+656
+00:14:20,809 --> 00:14:20,819
+the door but can't quite make out what
+ 
+
+657
+00:14:20,819 --> 00:14:23,389
+the door but can't quite make out what
+they're saying or their exact location
+
+658
+00:14:23,389 --> 00:14:23,399
+they're saying or their exact location
+ 
+
+659
+00:14:23,399 --> 00:14:26,660
+they're saying or their exact location
+in the room with her third action she
+
+660
+00:14:26,660 --> 00:14:26,670
+in the room with her third action she
+ 
+
+661
+00:14:26,670 --> 00:14:28,549
+in the room with her third action she
+declares that she wants to open the door
+
+662
+00:14:28,549 --> 00:14:28,559
+declares that she wants to open the door
+ 
+
+663
+00:14:28,559 --> 00:14:32,239
+declares that she wants to open the door
+quietly in peer in this is an interact
+
+664
+00:14:32,239 --> 00:14:32,249
+quietly in peer in this is an interact
+ 
+
+665
+00:14:32,249 --> 00:14:34,970
+quietly in peer in this is an interact
+action and would be up to the GM to
+
+666
+00:14:34,970 --> 00:14:34,980
+action and would be up to the GM to
+ 
+
+667
+00:14:34,980 --> 00:14:37,069
+action and would be up to the GM to
+determine if it is considered to be
+
+668
+00:14:37,069 --> 00:14:37,079
+determine if it is considered to be
+ 
+
+669
+00:14:37,079 --> 00:14:40,160
+determine if it is considered to be
+unobtrusive or if it would instantly
+
+670
+00:14:40,160 --> 00:14:40,170
+unobtrusive or if it would instantly
+ 
+
+671
+00:14:40,170 --> 00:14:42,769
+unobtrusive or if it would instantly
+reveal her presence to the room where I
+
+672
+00:14:42,769 --> 00:14:42,779
+reveal her presence to the room where I
+ 
+
+673
+00:14:42,779 --> 00:14:45,439
+reveal her presence to the room where I
+the GM here I would ask mariscos player
+
+674
+00:14:45,439 --> 00:14:45,449
+the GM here I would ask mariscos player
+ 
+
+675
+00:14:45,449 --> 00:14:47,239
+the GM here I would ask mariscos player
+to role a stealth check as part of the
+
+676
+00:14:47,239 --> 00:14:47,249
+to role a stealth check as part of the
+ 
+
+677
+00:14:47,249 --> 00:14:49,400
+to role a stealth check as part of the
+interact action that I would then
+
+678
+00:14:49,400 --> 00:14:49,410
+interact action that I would then
+ 
+
+679
+00:14:49,410 --> 00:14:51,259
+interact action that I would then
+compare to the perception disease of
+
+680
+00:14:51,259 --> 00:14:51,269
+compare to the perception disease of
+ 
+
+681
+00:14:51,269 --> 00:14:53,749
+compare to the perception disease of
+creatures in the room I would also grant
+
+682
+00:14:53,749 --> 00:14:53,759
+creatures in the room I would also grant
+ 
+
+683
+00:14:53,759 --> 00:14:56,299
+creatures in the room I would also grant
+her a small bonus to that check if she
+
+684
+00:14:56,299 --> 00:14:56,309
+her a small bonus to that check if she
+ 
+
+685
+00:14:56,309 --> 00:14:58,249
+her a small bonus to that check if she
+took additional measures to be quiet
+
+686
+00:14:58,249 --> 00:14:58,259
+took additional measures to be quiet
+ 
+
+687
+00:14:58,259 --> 00:15:00,559
+took additional measures to be quiet
+like applying oil to the doors handle
+
+688
+00:15:00,559 --> 00:15:00,569
+like applying oil to the doors handle
+ 
+
+689
+00:15:00,569 --> 00:15:04,249
+like applying oil to the doors handle
+and hinges she rose one day 20 + 13 and
+
+690
+00:15:04,249 --> 00:15:04,259
+and hinges she rose one day 20 + 13 and
+ 
+
+691
+00:15:04,259 --> 00:15:07,489
+and hinges she rose one day 20 + 13 and
+the GM tells her two things first once
+
+692
+00:15:07,489 --> 00:15:07,499
+the GM tells her two things first once
+ 
+
+693
+00:15:07,499 --> 00:15:09,350
+the GM tells her two things first once
+the door opens she can hear two voices
+
+694
+00:15:09,350 --> 00:15:09,360
+the door opens she can hear two voices
+ 
+
+695
+00:15:09,360 --> 00:15:11,569
+the door opens she can hear two voices
+talking on the other side of a cloth
+
+696
+00:15:11,569 --> 00:15:11,579
+talking on the other side of a cloth
+ 
+
+697
+00:15:11,579 --> 00:15:14,210
+talking on the other side of a cloth
+partition says the two students were not
+
+698
+00:15:14,210 --> 00:15:14,220
+partition says the two students were not
+ 
+
+699
+00:15:14,220 --> 00:15:17,239
+partition says the two students were not
+trying to stay hidden she automatically
+
+700
+00:15:17,239 --> 00:15:17,249
+trying to stay hidden she automatically
+ 
+
+701
+00:15:17,249 --> 00:15:20,329
+trying to stay hidden she automatically
+detects them since she is perceiving the
+
+702
+00:15:20,329 --> 00:15:20,339
+detects them since she is perceiving the
+ 
+
+703
+00:15:20,339 --> 00:15:22,549
+detects them since she is perceiving the
+to chatting students with hearing which
+
+704
+00:15:22,549 --> 00:15:22,559
+to chatting students with hearing which
+ 
+
+705
+00:15:22,559 --> 00:15:25,220
+to chatting students with hearing which
+is an imprecise since they have the
+
+706
+00:15:25,220 --> 00:15:25,230
+is an imprecise since they have the
+ 
+
+707
+00:15:25,230 --> 00:15:27,949
+is an imprecise since they have the
+hidden detection state but the GM
+
+708
+00:15:27,949 --> 00:15:27,959
+hidden detection state but the GM
+ 
+
+709
+00:15:27,959 --> 00:15:30,079
+hidden detection state but the GM
+determines there is narrow line-of-sight
+
+710
+00:15:30,079 --> 00:15:30,089
+determines there is narrow line-of-sight
+ 
+
+711
+00:15:30,089 --> 00:15:32,030
+determines there is narrow line-of-sight
+to their reading student so she is
+
+712
+00:15:32,030 --> 00:15:32,040
+to their reading student so she is
+ 
+
+713
+00:15:32,040 --> 00:15:34,939
+to their reading student so she is
+observing him she however is both
+
+714
+00:15:34,939 --> 00:15:34,949
+observing him she however is both
+ 
+
+715
+00:15:34,949 --> 00:15:37,309
+observing him she however is both
+unnoticed and undetected - all three of
+
+716
+00:15:37,309 --> 00:15:37,319
+unnoticed and undetected - all three of
+ 
+
+717
+00:15:37,319 --> 00:15:40,100
+unnoticed and undetected - all three of
+them had she failed her stealth check
+
+718
+00:15:40,100 --> 00:15:40,110
+them had she failed her stealth check
+ 
+
+719
+00:15:40,110 --> 00:15:42,650
+them had she failed her stealth check
+opening the door she would likely rule
+
+720
+00:15:42,650 --> 00:15:42,660
+opening the door she would likely rule
+ 
+
+721
+00:15:42,660 --> 00:15:44,569
+opening the door she would likely rule
+that she becomes hidden to the chatting
+
+722
+00:15:44,569 --> 00:15:44,579
+that she becomes hidden to the chatting
+ 
+
+723
+00:15:44,579 --> 00:15:47,329
+that she becomes hidden to the chatting
+students but might be observed by the
+
+724
+00:15:47,329 --> 00:15:47,339
+students but might be observed by the
+ 
+
+725
+00:15:47,339 --> 00:15:50,689
+students but might be observed by the
+reading student with the first action of
+
+726
+00:15:50,689 --> 00:15:50,699
+reading student with the first action of
+ 
+
+727
+00:15:50,699 --> 00:15:51,559
+reading student with the first action of
+the next round
+
+728
+00:15:51,559 --> 00:15:51,569
+the next round
+ 
+
+729
+00:15:51,569 --> 00:15:54,470
+the next round
+Mauricio takes the sneak action the
+
+730
+00:15:54,470 --> 00:15:54,480
+Mauricio takes the sneak action the
+ 
+
+731
+00:15:54,480 --> 00:15:56,809
+Mauricio takes the sneak action the
+first requirement for sneaking is you
+
+732
+00:15:56,809 --> 00:15:56,819
+first requirement for sneaking is you
+ 
+
+733
+00:15:56,819 --> 00:15:59,389
+first requirement for sneaking is you
+must be either hidden or undetected
+
+734
+00:15:59,389 --> 00:15:59,399
+must be either hidden or undetected
+ 
+
+735
+00:15:59,399 --> 00:16:01,850
+must be either hidden or undetected
+before you can attempt it she is both
+
+736
+00:16:01,850 --> 00:16:01,860
+before you can attempt it she is both
+ 
+
+737
+00:16:01,860 --> 00:16:04,519
+before you can attempt it she is both
+unnoticed and undetected so she meets
+
+738
+00:16:04,519 --> 00:16:04,529
+unnoticed and undetected so she meets
+ 
+
+739
+00:16:04,529 --> 00:16:06,919
+unnoticed and undetected so she meets
+that requirement the second requirement
+
+740
+00:16:06,919 --> 00:16:06,929
+that requirement the second requirement
+ 
+
+741
+00:16:06,929 --> 00:16:09,069
+that requirement the second requirement
+is she must have cover or concealment
+
+742
+00:16:09,069 --> 00:16:09,079
+is she must have cover or concealment
+ 
+
+743
+00:16:09,079 --> 00:16:11,569
+is she must have cover or concealment
+against all targets he's sneaking past
+
+744
+00:16:11,569 --> 00:16:11,579
+against all targets he's sneaking past
+ 
+
+745
+00:16:11,579 --> 00:16:14,480
+against all targets he's sneaking past
+at the start of her sneak if we draw
+
+746
+00:16:14,480 --> 00:16:14,490
+at the start of her sneak if we draw
+ 
+
+747
+00:16:14,490 --> 00:16:16,910
+at the start of her sneak if we draw
+target lines from the center of her
+
+748
+00:16:16,910 --> 00:16:16,920
+target lines from the center of her
+ 
+
+749
+00:16:16,920 --> 00:16:18,799
+target lines from the center of her
+square to the center of each student
+
+750
+00:16:18,799 --> 00:16:18,809
+square to the center of each student
+ 
+
+751
+00:16:18,809 --> 00:16:20,660
+square to the center of each student
+square we see each of them passed
+
+752
+00:16:20,660 --> 00:16:20,670
+square we see each of them passed
+ 
+
+753
+00:16:20,670 --> 00:16:23,119
+square we see each of them passed
+through a solid object which means she
+
+754
+00:16:23,119 --> 00:16:23,129
+through a solid object which means she
+ 
+
+755
+00:16:23,129 --> 00:16:26,119
+through a solid object which means she
+has cover with the sneak action she can
+
+756
+00:16:26,119 --> 00:16:26,129
+has cover with the sneak action she can
+ 
+
+757
+00:16:26,129 --> 00:16:28,549
+has cover with the sneak action she can
+move up to half her speed in Russo's
+
+758
+00:16:28,549 --> 00:16:28,559
+move up to half her speed in Russo's
+ 
+
+759
+00:16:28,559 --> 00:16:31,610
+move up to half her speed in Russo's
+case a speed of 35 feet me
+
+760
+00:16:31,610 --> 00:16:31,620
+case a speed of 35 feet me
+ 
+
+761
+00:16:31,620 --> 00:16:33,530
+case a speed of 35 feet me
+she can move three squares while
+
+762
+00:16:33,530 --> 00:16:33,540
+she can move three squares while
+ 
+
+763
+00:16:33,540 --> 00:16:36,590
+she can move three squares while
+sneaking she quietly steps into the room
+
+764
+00:16:36,590 --> 00:16:36,600
+sneaking she quietly steps into the room
+ 
+
+765
+00:16:36,600 --> 00:16:39,980
+sneaking she quietly steps into the room
+and ends her movement here the last
+
+766
+00:16:39,980 --> 00:16:39,990
+and ends her movement here the last
+ 
+
+767
+00:16:39,990 --> 00:16:42,110
+and ends her movement here the last
+requirement for sneak is that you must
+
+768
+00:16:42,110 --> 00:16:42,120
+requirement for sneak is that you must
+ 
+
+769
+00:16:42,120 --> 00:16:44,150
+requirement for sneak is that you must
+end your movement in a space that has
+
+770
+00:16:44,150 --> 00:16:44,160
+end your movement in a space that has
+ 
+
+771
+00:16:44,160 --> 00:16:47,000
+end your movement in a space that has
+cover or concealment you only need to
+
+772
+00:16:47,000 --> 00:16:47,010
+cover or concealment you only need to
+ 
+
+773
+00:16:47,010 --> 00:16:48,829
+cover or concealment you only need to
+have cover or concealment in the space
+
+774
+00:16:48,829 --> 00:16:48,839
+have cover or concealment in the space
+ 
+
+775
+00:16:48,839 --> 00:16:51,079
+have cover or concealment in the space
+where you start the sneak and the space
+
+776
+00:16:51,079 --> 00:16:51,089
+where you start the sneak and the space
+ 
+
+777
+00:16:51,089 --> 00:16:54,320
+where you start the sneak and the space
+where you end it by raw you do not need
+
+778
+00:16:54,320 --> 00:16:54,330
+where you end it by raw you do not need
+ 
+
+779
+00:16:54,330 --> 00:16:56,630
+where you end it by raw you do not need
+to maintain cover or concealment
+
+780
+00:16:56,630 --> 00:16:56,640
+to maintain cover or concealment
+ 
+
+781
+00:16:56,640 --> 00:16:59,720
+to maintain cover or concealment
+throughout the entire movement however
+
+782
+00:16:59,720 --> 00:16:59,730
+throughout the entire movement however
+ 
+
+783
+00:16:59,730 --> 00:17:02,269
+throughout the entire movement however
+if you do have cover for the entire
+
+784
+00:17:02,269 --> 00:17:02,279
+if you do have cover for the entire
+ 
+
+785
+00:17:02,279 --> 00:17:04,850
+if you do have cover for the entire
+movement you get to add is cover bonus
+
+786
+00:17:04,850 --> 00:17:04,860
+movement you get to add is cover bonus
+ 
+
+787
+00:17:04,860 --> 00:17:07,880
+movement you get to add is cover bonus
+to your stealth check for example when
+
+788
+00:17:07,880 --> 00:17:07,890
+to your stealth check for example when
+ 
+
+789
+00:17:07,890 --> 00:17:11,390
+to your stealth check for example when
+Marissa enters this square the GM could
+
+790
+00:17:11,390 --> 00:17:11,400
+Marissa enters this square the GM could
+ 
+
+791
+00:17:11,400 --> 00:17:14,059
+Marissa enters this square the GM could
+rule that she no longer has cover or
+
+792
+00:17:14,059 --> 00:17:14,069
+rule that she no longer has cover or
+ 
+
+793
+00:17:14,069 --> 00:17:14,809
+rule that she no longer has cover or
+concealment
+
+794
+00:17:14,809 --> 00:17:14,819
+concealment
+ 
+
+795
+00:17:14,819 --> 00:17:17,809
+concealment
+from the student who is reading however
+
+796
+00:17:17,809 --> 00:17:17,819
+from the student who is reading however
+ 
+
+797
+00:17:17,819 --> 00:17:20,600
+from the student who is reading however
+the rule is you only need cover or
+
+798
+00:17:20,600 --> 00:17:20,610
+the rule is you only need cover or
+ 
+
+799
+00:17:20,610 --> 00:17:23,270
+the rule is you only need cover or
+concealment when you start and when you
+
+800
+00:17:23,270 --> 00:17:23,280
+concealment when you start and when you
+ 
+
+801
+00:17:23,280 --> 00:17:25,640
+concealment when you start and when you
+end your movement so she can pass
+
+802
+00:17:25,640 --> 00:17:25,650
+end your movement so she can pass
+ 
+
+803
+00:17:25,650 --> 00:17:28,520
+end your movement so she can pass
+through this square without issue in the
+
+804
+00:17:28,520 --> 00:17:28,530
+through this square without issue in the
+ 
+
+805
+00:17:28,530 --> 00:17:30,980
+through this square without issue in the
+narrative she waits until the student
+
+806
+00:17:30,980 --> 00:17:30,990
+narrative she waits until the student
+ 
+
+807
+00:17:30,990 --> 00:17:33,380
+narrative she waits until the student
+reaches for a new book or erupts his
+
+808
+00:17:33,380 --> 00:17:33,390
+reaches for a new book or erupts his
+ 
+
+809
+00:17:33,390 --> 00:17:35,810
+reaches for a new book or erupts his
+eyes or yawns or does something else
+
+810
+00:17:35,810 --> 00:17:35,820
+eyes or yawns or does something else
+ 
+
+811
+00:17:35,820 --> 00:17:37,940
+eyes or yawns or does something else
+that would distract him for just an
+
+812
+00:17:37,940 --> 00:17:37,950
+that would distract him for just an
+ 
+
+813
+00:17:37,950 --> 00:17:40,280
+that would distract him for just an
+instant and allow her to pass through
+
+814
+00:17:40,280 --> 00:17:40,290
+instant and allow her to pass through
+ 
+
+815
+00:17:40,290 --> 00:17:43,310
+instant and allow her to pass through
+that Square at the end of her movement
+
+816
+00:17:43,310 --> 00:17:43,320
+that Square at the end of her movement
+ 
+
+817
+00:17:43,320 --> 00:17:45,890
+that Square at the end of her movement
+the GM rose her stealth check in secret
+
+818
+00:17:45,890 --> 00:17:45,900
+the GM rose her stealth check in secret
+ 
+
+819
+00:17:45,900 --> 00:17:48,140
+the GM rose her stealth check in secret
+and reports that no one seems to be
+
+820
+00:17:48,140 --> 00:17:48,150
+and reports that no one seems to be
+ 
+
+821
+00:17:48,150 --> 00:17:50,780
+and reports that no one seems to be
+aware of her presence she is still
+
+822
+00:17:50,780 --> 00:17:50,790
+aware of her presence she is still
+ 
+
+823
+00:17:50,790 --> 00:17:53,419
+aware of her presence she is still
+unnoticed and undetected by all three
+
+824
+00:17:53,419 --> 00:17:53,429
+unnoticed and undetected by all three
+ 
+
+825
+00:17:53,429 --> 00:17:56,150
+unnoticed and undetected by all three
+students the reading student is observed
+
+826
+00:17:56,150 --> 00:17:56,160
+students the reading student is observed
+ 
+
+827
+00:17:56,160 --> 00:17:58,250
+students the reading student is observed
+by her and the chatting students are
+
+828
+00:17:58,250 --> 00:17:58,260
+by her and the chatting students are
+ 
+
+829
+00:17:58,260 --> 00:18:00,530
+by her and the chatting students are
+hidden to her since she knows their
+
+830
+00:18:00,530 --> 00:18:00,540
+hidden to her since she knows their
+ 
+
+831
+00:18:00,540 --> 00:18:03,770
+hidden to her since she knows their
+locations but can't see them a creature
+
+832
+00:18:03,770 --> 00:18:03,780
+locations but can't see them a creature
+ 
+
+833
+00:18:03,780 --> 00:18:06,260
+locations but can't see them a creature
+that is undetected instantly becomes
+
+834
+00:18:06,260 --> 00:18:06,270
+that is undetected instantly becomes
+ 
+
+835
+00:18:06,270 --> 00:18:09,049
+that is undetected instantly becomes
+observed if they take any action other
+
+836
+00:18:09,049 --> 00:18:09,059
+observed if they take any action other
+ 
+
+837
+00:18:09,059 --> 00:18:12,560
+observed if they take any action other
+than hide sneak or step unless the GM
+
+838
+00:18:12,560 --> 00:18:12,570
+than hide sneak or step unless the GM
+ 
+
+839
+00:18:12,570 --> 00:18:15,260
+than hide sneak or step unless the GM
+rules the action is unobtrusive if
+
+840
+00:18:15,260 --> 00:18:15,270
+rules the action is unobtrusive if
+ 
+
+841
+00:18:15,270 --> 00:18:17,419
+rules the action is unobtrusive if
+Marissa will wish to attack either of
+
+842
+00:18:17,419 --> 00:18:17,429
+Marissa will wish to attack either of
+ 
+
+843
+00:18:17,429 --> 00:18:19,549
+Marissa will wish to attack either of
+the students adjacent to her she could
+
+844
+00:18:19,549 --> 00:18:19,559
+the students adjacent to her she could
+ 
+
+845
+00:18:19,559 --> 00:18:22,549
+the students adjacent to her she could
+spin an action to do so the student she
+
+846
+00:18:22,549 --> 00:18:22,559
+spin an action to do so the student she
+ 
+
+847
+00:18:22,559 --> 00:18:25,070
+spin an action to do so the student she
+attacks would be flat-footed since she
+
+848
+00:18:25,070 --> 00:18:25,080
+attacks would be flat-footed since she
+ 
+
+849
+00:18:25,080 --> 00:18:27,710
+attacks would be flat-footed since she
+is undetected by them and she would have
+
+850
+00:18:27,710 --> 00:18:27,720
+is undetected by them and she would have
+ 
+
+851
+00:18:27,720 --> 00:18:31,310
+is undetected by them and she would have
+to pass a DC 11 flat check since the
+
+852
+00:18:31,310 --> 00:18:31,320
+to pass a DC 11 flat check since the
+ 
+
+853
+00:18:31,320 --> 00:18:34,220
+to pass a DC 11 flat check since the
+target is hidden to her at the end of
+
+854
+00:18:34,220 --> 00:18:34,230
+target is hidden to her at the end of
+ 
+
+855
+00:18:34,230 --> 00:18:37,930
+target is hidden to her at the end of
+the attack she then becomes observed she
+
+856
+00:18:37,930 --> 00:18:37,940
+the attack she then becomes observed she
+ 
+
+857
+00:18:37,940 --> 00:18:41,300
+the attack she then becomes observed she
+decides instead to take a step action
+
+858
+00:18:41,300 --> 00:18:41,310
+decides instead to take a step action
+ 
+
+859
+00:18:41,310 --> 00:18:43,460
+decides instead to take a step action
+and move closer to the door
+
+860
+00:18:43,460 --> 00:18:43,470
+and move closer to the door
+ 
+
+861
+00:18:43,470 --> 00:18:46,279
+and move closer to the door
+with her third action Mauricio attempts
+
+862
+00:18:46,279 --> 00:18:46,289
+with her third action Mauricio attempts
+ 
+
+863
+00:18:46,289 --> 00:18:48,619
+with her third action Mauricio attempts
+to quietly open the door just wide
+
+864
+00:18:48,619 --> 00:18:48,629
+to quietly open the door just wide
+ 
+
+865
+00:18:48,629 --> 00:18:51,289
+to quietly open the door just wide
+enough for her to peer in this is an
+
+866
+00:18:51,289 --> 00:18:51,299
+enough for her to peer in this is an
+ 
+
+867
+00:18:51,299 --> 00:18:54,320
+enough for her to peer in this is an
+interact action and the GM determines it
+
+868
+00:18:54,320 --> 00:18:54,330
+interact action and the GM determines it
+ 
+
+869
+00:18:54,330 --> 00:18:56,720
+interact action and the GM determines it
+is unobtrusive especially since none of
+
+870
+00:18:56,720 --> 00:18:56,730
+is unobtrusive especially since none of
+ 
+
+871
+00:18:56,730 --> 00:18:58,460
+is unobtrusive especially since none of
+the three students have line of sight to
+
+872
+00:18:58,460 --> 00:18:58,470
+the three students have line of sight to
+ 
+
+873
+00:18:58,470 --> 00:19:01,399
+the three students have line of sight to
+the door her stealth check is compared
+
+874
+00:19:01,399 --> 00:19:01,409
+the door her stealth check is compared
+ 
+
+875
+00:19:01,409 --> 00:19:03,710
+the door her stealth check is compared
+to the perception dc's of everyone in
+
+876
+00:19:03,710 --> 00:19:03,720
+to the perception dc's of everyone in
+ 
+
+877
+00:19:03,720 --> 00:19:06,230
+to the perception dc's of everyone in
+the area and the GM tells her that no
+
+878
+00:19:06,230 --> 00:19:06,240
+the area and the GM tells her that no
+ 
+
+879
+00:19:06,240 --> 00:19:09,019
+the area and the GM tells her that no
+one seems to have noticed she's now able
+
+880
+00:19:09,019 --> 00:19:09,029
+one seems to have noticed she's now able
+ 
+
+881
+00:19:09,029 --> 00:19:11,690
+one seems to have noticed she's now able
+to look into the next room she doesn't
+
+882
+00:19:11,690 --> 00:19:11,700
+to look into the next room she doesn't
+ 
+
+883
+00:19:11,700 --> 00:19:13,730
+to look into the next room she doesn't
+need to take a siik action to notice the
+
+884
+00:19:13,730 --> 00:19:13,740
+need to take a siik action to notice the
+ 
+
+885
+00:19:13,740 --> 00:19:15,950
+need to take a siik action to notice the
+teacher standing over a table brewing a
+
+886
+00:19:15,950 --> 00:19:15,960
+teacher standing over a table brewing a
+ 
+
+887
+00:19:15,960 --> 00:19:19,070
+teacher standing over a table brewing a
+potion her stealth check when opening
+
+888
+00:19:19,070 --> 00:19:19,080
+potion her stealth check when opening
+ 
+
+889
+00:19:19,080 --> 00:19:21,619
+potion her stealth check when opening
+the door was higher than his perception
+
+890
+00:19:21,619 --> 00:19:21,629
+the door was higher than his perception
+ 
+
+891
+00:19:21,629 --> 00:19:25,220
+the door was higher than his perception
+DC so he is unaware that she's there he
+
+892
+00:19:25,220 --> 00:19:25,230
+DC so he is unaware that she's there he
+ 
+
+893
+00:19:25,230 --> 00:19:28,639
+DC so he is unaware that she's there he
+is observed by her and she is unnoticed
+
+894
+00:19:28,639 --> 00:19:28,649
+is observed by her and she is unnoticed
+ 
+
+895
+00:19:28,649 --> 00:19:31,909
+is observed by her and she is unnoticed
+and unaware to him that's the end of her
+
+896
+00:19:31,909 --> 00:19:31,919
+and unaware to him that's the end of her
+ 
+
+897
+00:19:31,919 --> 00:19:34,220
+and unaware to him that's the end of her
+turn but while she's waiting for her
+
+898
+00:19:34,220 --> 00:19:34,230
+turn but while she's waiting for her
+ 
+
+899
+00:19:34,230 --> 00:19:37,009
+turn but while she's waiting for her
+Knicks turn to come around a guard walks
+
+900
+00:19:37,009 --> 00:19:37,019
+Knicks turn to come around a guard walks
+ 
+
+901
+00:19:37,019 --> 00:19:39,499
+Knicks turn to come around a guard walks
+the length of the hall he's patrolling
+
+902
+00:19:39,499 --> 00:19:39,509
+the length of the hall he's patrolling
+ 
+
+903
+00:19:39,509 --> 00:19:42,860
+the length of the hall he's patrolling
+and using the seek action as he walks so
+
+904
+00:19:42,860 --> 00:19:42,870
+and using the seek action as he walks so
+ 
+
+905
+00:19:42,870 --> 00:19:45,590
+and using the seek action as he walks so
+when he passes this window the GM would
+
+906
+00:19:45,590 --> 00:19:45,600
+when he passes this window the GM would
+ 
+
+907
+00:19:45,600 --> 00:19:48,680
+when he passes this window the GM would
+roll his perception check this total is
+
+908
+00:19:48,680 --> 00:19:48,690
+roll his perception check this total is
+ 
+
+909
+00:19:48,690 --> 00:19:51,460
+roll his perception check this total is
+contested by marechals stealth DC of
+
+910
+00:19:51,460 --> 00:19:51,470
+contested by marechals stealth DC of
+ 
+
+911
+00:19:51,470 --> 00:19:54,350
+contested by marechals stealth DC of
+23+2 for the cover that she receives
+
+912
+00:19:54,350 --> 00:19:54,360
+23+2 for the cover that she receives
+ 
+
+913
+00:19:54,360 --> 00:19:56,629
+23+2 for the cover that she receives
+from the crate that is between them if
+
+914
+00:19:56,629 --> 00:19:56,639
+from the crate that is between them if
+ 
+
+915
+00:19:56,639 --> 00:19:59,180
+from the crate that is between them if
+the total of the guards perception check
+
+916
+00:19:59,180 --> 00:19:59,190
+the total of the guards perception check
+ 
+
+917
+00:19:59,190 --> 00:20:02,930
+the total of the guards perception check
+is 25 or higher he notices her for the
+
+918
+00:20:02,930 --> 00:20:02,940
+is 25 or higher he notices her for the
+ 
+
+919
+00:20:02,940 --> 00:20:04,669
+is 25 or higher he notices her for the
+sake of brevity we'll say that his check
+
+920
+00:20:04,669 --> 00:20:04,679
+sake of brevity we'll say that his check
+ 
+
+921
+00:20:04,679 --> 00:20:08,119
+sake of brevity we'll say that his check
+failed and he walks away now for
+
+922
+00:20:08,119 --> 00:20:08,129
+failed and he walks away now for
+ 
+
+923
+00:20:08,129 --> 00:20:10,039
+failed and he walks away now for
+discussion let's say instead of a guard
+
+924
+00:20:10,039 --> 00:20:10,049
+discussion let's say instead of a guard
+ 
+
+925
+00:20:10,049 --> 00:20:12,350
+discussion let's say instead of a guard
+walking past who's actively using the
+
+926
+00:20:12,350 --> 00:20:12,360
+walking past who's actively using the
+ 
+
+927
+00:20:12,360 --> 00:20:15,470
+walking past who's actively using the
+seek action instead a couple of students
+
+928
+00:20:15,470 --> 00:20:15,480
+seek action instead a couple of students
+ 
+
+929
+00:20:15,480 --> 00:20:18,619
+seek action instead a couple of students
+pass in the hallway as long as they are
+
+930
+00:20:18,619 --> 00:20:18,629
+pass in the hallway as long as they are
+ 
+
+931
+00:20:18,629 --> 00:20:21,860
+pass in the hallway as long as they are
+not actually using the seek action they
+
+932
+00:20:21,860 --> 00:20:21,870
+not actually using the seek action they
+ 
+
+933
+00:20:21,870 --> 00:20:24,590
+not actually using the seek action they
+have no chance of detecting mauricio at
+
+934
+00:20:24,590 --> 00:20:24,600
+have no chance of detecting mauricio at
+ 
+
+935
+00:20:24,600 --> 00:20:27,710
+have no chance of detecting mauricio at
+all you would not roll their perception
+
+936
+00:20:27,710 --> 00:20:27,720
+all you would not roll their perception
+ 
+
+937
+00:20:27,720 --> 00:20:30,200
+all you would not roll their perception
+checks if they are not using the seek
+
+938
+00:20:30,200 --> 00:20:30,210
+checks if they are not using the seek
+ 
+
+939
+00:20:30,210 --> 00:20:32,600
+checks if they are not using the seek
+action nor would you compare their
+
+940
+00:20:32,600 --> 00:20:32,610
+action nor would you compare their
+ 
+
+941
+00:20:32,610 --> 00:20:35,119
+action nor would you compare their
+perception disease to any of these
+
+942
+00:20:35,119 --> 00:20:35,129
+perception disease to any of these
+ 
+
+943
+00:20:35,129 --> 00:20:36,919
+perception disease to any of these
+stealth rolls that Mauricio has already
+
+944
+00:20:36,919 --> 00:20:36,929
+stealth rolls that Mauricio has already
+ 
+
+945
+00:20:36,929 --> 00:20:39,860
+stealth rolls that Mauricio has already
+made but it's also worth mentioning that
+
+946
+00:20:39,860 --> 00:20:39,870
+made but it's also worth mentioning that
+ 
+
+947
+00:20:39,870 --> 00:20:42,320
+made but it's also worth mentioning that
+Mauricio would be instantly spotted by
+
+948
+00:20:42,320 --> 00:20:42,330
+Mauricio would be instantly spotted by
+ 
+
+949
+00:20:42,330 --> 00:20:45,110
+Mauricio would be instantly spotted by
+the students if she ever lost the cover
+
+950
+00:20:45,110 --> 00:20:45,120
+the students if she ever lost the cover
+ 
+
+951
+00:20:45,120 --> 00:20:47,990
+the students if she ever lost the cover
+between her and them if a student ever
+
+952
+00:20:47,990 --> 00:20:48,000
+between her and them if a student ever
+ 
+
+953
+00:20:48,000 --> 00:20:50,090
+between her and them if a student ever
+walked into the dorm with her in Clear
+
+954
+00:20:50,090 --> 00:20:50,100
+walked into the dorm with her in Clear
+ 
+
+955
+00:20:50,100 --> 00:20:55,200
+walked into the dorm with her in Clear
+View she would instantly become observed
+
+956
+00:20:55,200 --> 00:20:55,210
+
+ 
+
+957
+00:20:55,210 --> 00:20:57,360
+
+things have been going pretty smooth
+
+958
+00:20:57,360 --> 00:20:57,370
+things have been going pretty smooth
+ 
+
+959
+00:20:57,370 --> 00:20:59,670
+things have been going pretty smooth
+former CEO so far but for the sake of
+
+960
+00:20:59,670 --> 00:20:59,680
+former CEO so far but for the sake of
+ 
+
+961
+00:20:59,680 --> 00:21:02,160
+former CEO so far but for the sake of
+discussion lists say she was spotted on
+
+962
+00:21:02,160 --> 00:21:02,170
+discussion lists say she was spotted on
+ 
+
+963
+00:21:02,170 --> 00:21:05,220
+discussion lists say she was spotted on
+her way out of the Academy she's being
+
+964
+00:21:05,220 --> 00:21:05,230
+her way out of the Academy she's being
+ 
+
+965
+00:21:05,230 --> 00:21:07,440
+her way out of the Academy she's being
+chased by a guard in hopes to lose him
+
+966
+00:21:07,440 --> 00:21:07,450
+chased by a guard in hopes to lose him
+ 
+
+967
+00:21:07,450 --> 00:21:09,480
+chased by a guard in hopes to lose him
+in the stacks of the Academy library at
+
+968
+00:21:09,480 --> 00:21:09,490
+in the stacks of the Academy library at
+ 
+
+969
+00:21:09,490 --> 00:21:12,990
+in the stacks of the Academy library at
+the start they are both being observed
+
+970
+00:21:12,990 --> 00:21:13,000
+the start they are both being observed
+ 
+
+971
+00:21:13,000 --> 00:21:14,100
+the start they are both being observed
+by each other
+
+972
+00:21:14,100 --> 00:21:14,110
+by each other
+ 
+
+973
+00:21:14,110 --> 00:21:17,250
+by each other
+Marissa does have cover here so her
+
+974
+00:21:17,250 --> 00:21:17,260
+Marissa does have cover here so her
+ 
+
+975
+00:21:17,260 --> 00:21:19,260
+Marissa does have cover here so her
+player may be tempted to say that
+
+976
+00:21:19,260 --> 00:21:19,270
+player may be tempted to say that
+ 
+
+977
+00:21:19,270 --> 00:21:20,730
+player may be tempted to say that
+they're just going to take the sneak
+
+978
+00:21:20,730 --> 00:21:20,740
+they're just going to take the sneak
+ 
+
+979
+00:21:20,740 --> 00:21:23,820
+they're just going to take the sneak
+action and move away but unfortunately
+
+980
+00:21:23,820 --> 00:21:23,830
+action and move away but unfortunately
+ 
+
+981
+00:21:23,830 --> 00:21:26,460
+action and move away but unfortunately
+one of the requirements to sneak is you
+
+982
+00:21:26,460 --> 00:21:26,470
+one of the requirements to sneak is you
+ 
+
+983
+00:21:26,470 --> 00:21:29,490
+one of the requirements to sneak is you
+must be hidden or undetected at the
+
+984
+00:21:29,490 --> 00:21:29,500
+must be hidden or undetected at the
+ 
+
+985
+00:21:29,500 --> 00:21:32,810
+must be hidden or undetected at the
+start of that action and she is observed
+
+986
+00:21:32,810 --> 00:21:32,820
+start of that action and she is observed
+ 
+
+987
+00:21:32,820 --> 00:21:35,640
+start of that action and she is observed
+so in this case Marissa would need to
+
+988
+00:21:35,640 --> 00:21:35,650
+so in this case Marissa would need to
+ 
+
+989
+00:21:35,650 --> 00:21:38,940
+so in this case Marissa would need to
+spend her first action to hide she would
+
+990
+00:21:38,940 --> 00:21:38,950
+spend her first action to hide she would
+ 
+
+991
+00:21:38,950 --> 00:21:41,070
+spend her first action to hide she would
+rule her stealth skill plus cover bonus
+
+992
+00:21:41,070 --> 00:21:41,080
+rule her stealth skill plus cover bonus
+ 
+
+993
+00:21:41,080 --> 00:21:43,800
+rule her stealth skill plus cover bonus
+and the GM would compare that total
+
+994
+00:21:43,800 --> 00:21:43,810
+and the GM would compare that total
+ 
+
+995
+00:21:43,810 --> 00:21:47,250
+and the GM would compare that total
+against the guards perception DC will
+
+996
+00:21:47,250 --> 00:21:47,260
+against the guards perception DC will
+ 
+
+997
+00:21:47,260 --> 00:21:50,670
+against the guards perception DC will
+say he has a perception bonus of +6 so
+
+998
+00:21:50,670 --> 00:21:50,680
+say he has a perception bonus of +6 so
+ 
+
+999
+00:21:50,680 --> 00:21:53,280
+say he has a perception bonus of +6 so
+her total needs to be a 16 or higher for
+
+1000
+00:21:53,280 --> 00:21:53,290
+her total needs to be a 16 or higher for
+ 
+
+1001
+00:21:53,290 --> 00:21:55,950
+her total needs to be a 16 or higher for
+her to hide that's a pretty easy check
+
+1002
+00:21:55,950 --> 00:21:55,960
+her to hide that's a pretty easy check
+ 
+
+1003
+00:21:55,960 --> 00:21:59,940
+her to hide that's a pretty easy check
+with a plus 13 bonus and cover will say
+
+1004
+00:21:59,940 --> 00:21:59,950
+with a plus 13 bonus and cover will say
+ 
+
+1005
+00:21:59,950 --> 00:22:02,010
+with a plus 13 bonus and cover will say
+she's exceeded which then lowers her
+
+1006
+00:22:02,010 --> 00:22:02,020
+she's exceeded which then lowers her
+ 
+
+1007
+00:22:02,020 --> 00:22:04,440
+she's exceeded which then lowers her
+state of detection from observed to
+
+1008
+00:22:04,440 --> 00:22:04,450
+state of detection from observed to
+ 
+
+1009
+00:22:04,450 --> 00:22:08,010
+state of detection from observed to
+hidden the guard can no longer sear but
+
+1010
+00:22:08,010 --> 00:22:08,020
+hidden the guard can no longer sear but
+ 
+
+1011
+00:22:08,020 --> 00:22:10,380
+hidden the guard can no longer sear but
+no she's in that square hiding behind
+
+1012
+00:22:10,380 --> 00:22:10,390
+no she's in that square hiding behind
+ 
+
+1013
+00:22:10,390 --> 00:22:13,920
+no she's in that square hiding behind
+the shelf of books now with her second
+
+1014
+00:22:13,920 --> 00:22:13,930
+the shelf of books now with her second
+ 
+
+1015
+00:22:13,930 --> 00:22:16,820
+the shelf of books now with her second
+action she can sneak and move away at
+
+1016
+00:22:16,820 --> 00:22:16,830
+action she can sneak and move away at
+ 
+
+1017
+00:22:16,830 --> 00:22:20,520
+action she can sneak and move away at
+the end of her move she still has cover
+
+1018
+00:22:20,520 --> 00:22:20,530
+the end of her move she still has cover
+ 
+
+1019
+00:22:20,530 --> 00:22:23,310
+the end of her move she still has cover
+so the GM Rosie stealth check once more
+
+1020
+00:22:23,310 --> 00:22:23,320
+so the GM Rosie stealth check once more
+ 
+
+1021
+00:22:23,320 --> 00:22:26,400
+so the GM Rosie stealth check once more
+against the guards perception DC will
+
+1022
+00:22:26,400 --> 00:22:26,410
+against the guards perception DC will
+ 
+
+1023
+00:22:26,410 --> 00:22:28,710
+against the guards perception DC will
+say she's succeeded again and with her
+
+1024
+00:22:28,710 --> 00:22:28,720
+say she's succeeded again and with her
+ 
+
+1025
+00:22:28,720 --> 00:22:31,140
+say she's succeeded again and with her
+third action takes another sneak action
+
+1026
+00:22:31,140 --> 00:22:31,150
+third action takes another sneak action
+ 
+
+1027
+00:22:31,150 --> 00:22:31,980
+third action takes another sneak action
+to move here
+
+1028
+00:22:31,980 --> 00:22:31,990
+to move here
+ 
+
+1029
+00:22:31,990 --> 00:22:35,310
+to move here
+she still has cover and another stealth
+
+1030
+00:22:35,310 --> 00:22:35,320
+she still has cover and another stealth
+ 
+
+1031
+00:22:35,320 --> 00:22:38,610
+she still has cover and another stealth
+check is rolled as before the guard has
+
+1032
+00:22:38,610 --> 00:22:38,620
+check is rolled as before the guard has
+ 
+
+1033
+00:22:38,620 --> 00:22:41,460
+check is rolled as before the guard has
+a speed score of 20 feet in his armor so
+
+1034
+00:22:41,460 --> 00:22:41,470
+a speed score of 20 feet in his armor so
+ 
+
+1035
+00:22:41,470 --> 00:22:43,440
+a speed score of 20 feet in his armor so
+with his first action he strikes two
+
+1036
+00:22:43,440 --> 00:22:43,450
+with his first action he strikes two
+ 
+
+1037
+00:22:43,450 --> 00:22:46,230
+with his first action he strikes two
+here he has no line of sight to mauricio
+
+1038
+00:22:46,230 --> 00:22:46,240
+here he has no line of sight to mauricio
+ 
+
+1039
+00:22:46,240 --> 00:22:49,680
+here he has no line of sight to mauricio
+so she is still undetected to him he
+
+1040
+00:22:49,680 --> 00:22:49,690
+so she is still undetected to him he
+ 
+
+1041
+00:22:49,690 --> 00:22:51,600
+so she is still undetected to him he
+takes another stride action and moves
+
+1042
+00:22:51,600 --> 00:22:51,610
+takes another stride action and moves
+ 
+
+1043
+00:22:51,610 --> 00:22:54,930
+takes another stride action and moves
+here determined to find the thief he
+
+1044
+00:22:54,930 --> 00:22:54,940
+here determined to find the thief he
+ 
+
+1045
+00:22:54,940 --> 00:22:57,990
+here determined to find the thief he
+spins his third action to seek and rolls
+
+1046
+00:22:57,990 --> 00:22:58,000
+spins his third action to seek and rolls
+ 
+
+1047
+00:22:58,000 --> 00:23:00,300
+spins his third action to seek and rolls
+a perception check against Marissa's
+
+1048
+00:23:00,300 --> 00:23:00,310
+a perception check against Marissa's
+ 
+
+1049
+00:23:00,310 --> 00:23:04,050
+a perception check against Marissa's
+stealth DC of 23 Plus cover bonus note
+
+1050
+00:23:04,050 --> 00:23:04,060
+stealth DC of 23 Plus cover bonus note
+ 
+
+1051
+00:23:04,060 --> 00:23:05,550
+stealth DC of 23 Plus cover bonus note
+again that this role is against her
+
+1052
+00:23:05,550 --> 00:23:05,560
+again that this role is against her
+ 
+
+1053
+00:23:05,560 --> 00:23:09,049
+again that this role is against her
+static stealth DC and not the total of
+
+1054
+00:23:09,049 --> 00:23:09,059
+static stealth DC and not the total of
+ 
+
+1055
+00:23:09,059 --> 00:23:12,560
+static stealth DC and not the total of
+her last stealth check if he succeeds on
+
+1056
+00:23:12,560 --> 00:23:12,570
+her last stealth check if he succeeds on
+ 
+
+1057
+00:23:12,570 --> 00:23:14,960
+her last stealth check if he succeeds on
+this chick mariscos detection state
+
+1058
+00:23:14,960 --> 00:23:14,970
+this chick mariscos detection state
+ 
+
+1059
+00:23:14,970 --> 00:23:18,289
+this chick mariscos detection state
+moves one step and she becomes hidden ho
+
+1060
+00:23:18,289 --> 00:23:18,299
+moves one step and she becomes hidden ho
+ 
+
+1061
+00:23:18,299 --> 00:23:20,690
+moves one step and she becomes hidden ho
+be able to know her location by hearing
+
+1062
+00:23:20,690 --> 00:23:20,700
+be able to know her location by hearing
+ 
+
+1063
+00:23:20,700 --> 00:23:24,019
+be able to know her location by hearing
+her but cannot see her if he critically
+
+1064
+00:23:24,019 --> 00:23:24,029
+her but cannot see her if he critically
+ 
+
+1065
+00:23:24,029 --> 00:23:26,509
+her but cannot see her if he critically
+succeeds then the Geum could rule that
+
+1066
+00:23:26,509 --> 00:23:26,519
+succeeds then the Geum could rule that
+ 
+
+1067
+00:23:26,519 --> 00:23:28,700
+succeeds then the Geum could rule that
+there is narrow line of sight from his
+
+1068
+00:23:28,700 --> 00:23:28,710
+there is narrow line of sight from his
+ 
+
+1069
+00:23:28,710 --> 00:23:31,789
+there is narrow line of sight from his
+space to hers and in that case she would
+
+1070
+00:23:31,789 --> 00:23:31,799
+space to hers and in that case she would
+ 
+
+1071
+00:23:31,799 --> 00:23:35,509
+space to hers and in that case she would
+become observed if that happens Marissa
+
+1072
+00:23:35,509 --> 00:23:35,519
+become observed if that happens Marissa
+ 
+
+1073
+00:23:35,519 --> 00:23:37,279
+become observed if that happens Marissa
+would need to spend her first action
+
+1074
+00:23:37,279 --> 00:23:37,289
+would need to spend her first action
+ 
+
+1075
+00:23:37,289 --> 00:23:40,249
+would need to spend her first action
+hiding again and then her second action
+
+1076
+00:23:40,249 --> 00:23:40,259
+hiding again and then her second action
+ 
+
+1077
+00:23:40,259 --> 00:23:43,489
+hiding again and then her second action
+to sneak away once more and if on his
+
+1078
+00:23:43,489 --> 00:23:43,499
+to sneak away once more and if on his
+ 
+
+1079
+00:23:43,499 --> 00:23:46,129
+to sneak away once more and if on his
+third action had the guard decided not
+
+1080
+00:23:46,129 --> 00:23:46,139
+third action had the guard decided not
+ 
+
+1081
+00:23:46,139 --> 00:23:49,039
+third action had the guard decided not
+to seek but instead took another stride
+
+1082
+00:23:49,039 --> 00:23:49,049
+to seek but instead took another stride
+ 
+
+1083
+00:23:49,049 --> 00:23:51,379
+to seek but instead took another stride
+action and moved here he would have
+
+1084
+00:23:51,379 --> 00:23:51,389
+action and moved here he would have
+ 
+
+1085
+00:23:51,389 --> 00:23:54,200
+action and moved here he would have
+instantly observed mauricio as she no
+
+1086
+00:23:54,200 --> 00:23:54,210
+instantly observed mauricio as she no
+ 
+
+1087
+00:23:54,210 --> 00:23:56,600
+instantly observed mauricio as she no
+longer has cover or concealment against
+
+1088
+00:23:56,600 --> 00:23:56,610
+longer has cover or concealment against
+ 
+
+1089
+00:23:56,610 --> 00:23:58,860
+longer has cover or concealment against
+the guard
+
+1090
+00:23:58,860 --> 00:23:58,870
+the guard
+ 
+
+1091
+00:23:58,870 --> 00:24:01,080
+the guard
+in this video we discussed the stealth
+
+1092
+00:24:01,080 --> 00:24:01,090
+in this video we discussed the stealth
+ 
+
+1093
+00:24:01,090 --> 00:24:03,870
+in this video we discussed the stealth
+skill the key ability for stealth is
+
+1094
+00:24:03,870 --> 00:24:03,880
+skill the key ability for stealth is
+ 
+
+1095
+00:24:03,880 --> 00:24:06,690
+skill the key ability for stealth is
+dexterity and all stealth actions can be
+
+1096
+00:24:06,690 --> 00:24:06,700
+dexterity and all stealth actions can be
+ 
+
+1097
+00:24:06,700 --> 00:24:09,540
+dexterity and all stealth actions can be
+used untrained when a character's
+
+1098
+00:24:09,540 --> 00:24:09,550
+used untrained when a character's
+ 
+
+1099
+00:24:09,550 --> 00:24:11,760
+used untrained when a character's
+attempt to hide is challenged during
+
+1100
+00:24:11,760 --> 00:24:11,770
+attempt to hide is challenged during
+ 
+
+1101
+00:24:11,770 --> 00:24:14,460
+attempt to hide is challenged during
+another characters turn the seeking
+
+1102
+00:24:14,460 --> 00:24:14,470
+another characters turn the seeking
+ 
+
+1103
+00:24:14,470 --> 00:24:17,100
+another characters turn the seeking
+character rolls their perception which
+
+1104
+00:24:17,100 --> 00:24:17,110
+character rolls their perception which
+ 
+
+1105
+00:24:17,110 --> 00:24:19,410
+character rolls their perception which
+is challenged by the hiding characters
+
+1106
+00:24:19,410 --> 00:24:19,420
+is challenged by the hiding characters
+ 
+
+1107
+00:24:19,420 --> 00:24:24,150
+is challenged by the hiding characters
+stealth DC stealth DC is calculated as
+
+1108
+00:24:24,150 --> 00:24:24,160
+stealth DC stealth DC is calculated as
+ 
+
+1109
+00:24:24,160 --> 00:24:27,750
+stealth DC stealth DC is calculated as
+10 + stealth bonus when it comes to
+
+1110
+00:24:27,750 --> 00:24:27,760
+10 + stealth bonus when it comes to
+ 
+
+1111
+00:24:27,760 --> 00:24:30,900
+10 + stealth bonus when it comes to
+stealth skill in stealth DC the rule of
+
+1112
+00:24:30,900 --> 00:24:30,910
+stealth skill in stealth DC the rule of
+ 
+
+1113
+00:24:30,910 --> 00:24:33,780
+stealth skill in stealth DC the rule of
+thumb is if it is your turn
+
+1114
+00:24:33,780 --> 00:24:33,790
+thumb is if it is your turn
+ 
+
+1115
+00:24:33,790 --> 00:24:36,840
+thumb is if it is your turn
+you roll stealth contested to buy other
+
+1116
+00:24:36,840 --> 00:24:36,850
+you roll stealth contested to buy other
+ 
+
+1117
+00:24:36,850 --> 00:24:40,650
+you roll stealth contested to buy other
+people's perception DC but if it is not
+
+1118
+00:24:40,650 --> 00:24:40,660
+people's perception DC but if it is not
+ 
+
+1119
+00:24:40,660 --> 00:24:43,169
+people's perception DC but if it is not
+your turn then they roll their
+
+1120
+00:24:43,169 --> 00:24:43,179
+your turn then they roll their
+ 
+
+1121
+00:24:43,179 --> 00:24:45,930
+your turn then they roll their
+perception and that is contested by your
+
+1122
+00:24:45,930 --> 00:24:45,940
+perception and that is contested by your
+ 
+
+1123
+00:24:45,940 --> 00:24:48,990
+perception and that is contested by your
+stealth DC there are three stealth
+
+1124
+00:24:48,990 --> 00:24:49,000
+stealth DC there are three stealth
+ 
+
+1125
+00:24:49,000 --> 00:24:49,740
+stealth DC there are three stealth
+actions
+
+1126
+00:24:49,740 --> 00:24:49,750
+actions
+ 
+
+1127
+00:24:49,750 --> 00:24:53,460
+actions
+the first is conceal an object if you
+
+1128
+00:24:53,460 --> 00:24:53,470
+the first is conceal an object if you
+ 
+
+1129
+00:24:53,470 --> 00:24:56,460
+the first is conceal an object if you
+hide the object on yourself you're still
+
+1130
+00:24:56,460 --> 00:24:56,470
+hide the object on yourself you're still
+ 
+
+1131
+00:24:56,470 --> 00:24:58,320
+hide the object on yourself you're still
+throw is contested by the perception
+
+1132
+00:24:58,320 --> 00:24:58,330
+throw is contested by the perception
+ 
+
+1133
+00:24:58,330 --> 00:25:01,020
+throw is contested by the perception
+DC's of anyone who you do not want to
+
+1134
+00:25:01,020 --> 00:25:01,030
+DC's of anyone who you do not want to
+ 
+
+1135
+00:25:01,030 --> 00:25:04,140
+DC's of anyone who you do not want to
+notice it if another character uses the
+
+1136
+00:25:04,140 --> 00:25:04,150
+notice it if another character uses the
+ 
+
+1137
+00:25:04,150 --> 00:25:06,810
+notice it if another character uses the
+seek action on their turn they roll
+
+1138
+00:25:06,810 --> 00:25:06,820
+seek action on their turn they roll
+ 
+
+1139
+00:25:06,820 --> 00:25:09,510
+seek action on their turn they roll
+their perception versus your stealth DC
+
+1140
+00:25:09,510 --> 00:25:09,520
+their perception versus your stealth DC
+ 
+
+1141
+00:25:09,520 --> 00:25:13,049
+their perception versus your stealth DC
+to notice the hidden object if you hide
+
+1142
+00:25:13,049 --> 00:25:13,059
+to notice the hidden object if you hide
+ 
+
+1143
+00:25:13,059 --> 00:25:15,600
+to notice the hidden object if you hide
+the object in the environment you do not
+
+1144
+00:25:15,600 --> 00:25:15,610
+the object in the environment you do not
+ 
+
+1145
+00:25:15,610 --> 00:25:18,360
+the object in the environment you do not
+roll anything but if someone uses the
+
+1146
+00:25:18,360 --> 00:25:18,370
+roll anything but if someone uses the
+ 
+
+1147
+00:25:18,370 --> 00:25:20,730
+roll anything but if someone uses the
+seek action in that area their
+
+1148
+00:25:20,730 --> 00:25:20,740
+seek action in that area their
+ 
+
+1149
+00:25:20,740 --> 00:25:23,190
+seek action in that area their
+perception roll is contested - by your
+
+1150
+00:25:23,190 --> 00:25:23,200
+perception roll is contested - by your
+ 
+
+1151
+00:25:23,200 --> 00:25:25,300
+perception roll is contested - by your
+stealth DC
+
+1152
+00:25:25,300 --> 00:25:25,310
+stealth DC
+ 
+
+1153
+00:25:25,310 --> 00:25:27,970
+stealth DC
+the second stealth action is hide and
+
+1154
+00:25:27,970 --> 00:25:27,980
+the second stealth action is hide and
+ 
+
+1155
+00:25:27,980 --> 00:25:30,130
+the second stealth action is hide and
+this is for when you want to lower your
+
+1156
+00:25:30,130 --> 00:25:30,140
+this is for when you want to lower your
+ 
+
+1157
+00:25:30,140 --> 00:25:33,340
+this is for when you want to lower your
+detection state from observed to hidden
+
+1158
+00:25:33,340 --> 00:25:33,350
+detection state from observed to hidden
+ 
+
+1159
+00:25:33,350 --> 00:25:36,520
+detection state from observed to hidden
+you must have cover or concealment to
+
+1160
+00:25:36,520 --> 00:25:36,530
+you must have cover or concealment to
+ 
+
+1161
+00:25:36,530 --> 00:25:38,560
+you must have cover or concealment to
+hide and your stealth check is
+
+1162
+00:25:38,560 --> 00:25:38,570
+hide and your stealth check is
+ 
+
+1163
+00:25:38,570 --> 00:25:40,690
+hide and your stealth check is
+challenged by the perception disease of
+
+1164
+00:25:40,690 --> 00:25:40,700
+challenged by the perception disease of
+ 
+
+1165
+00:25:40,700 --> 00:25:43,600
+challenged by the perception disease of
+anyone observing you if successful you
+
+1166
+00:25:43,600 --> 00:25:43,610
+anyone observing you if successful you
+ 
+
+1167
+00:25:43,610 --> 00:25:46,510
+anyone observing you if successful you
+become hidden but do not move from your
+
+1168
+00:25:46,510 --> 00:25:46,520
+become hidden but do not move from your
+ 
+
+1169
+00:25:46,520 --> 00:25:49,690
+become hidden but do not move from your
+space as part of the action another way
+
+1170
+00:25:49,690 --> 00:25:49,700
+space as part of the action another way
+ 
+
+1171
+00:25:49,700 --> 00:25:52,360
+space as part of the action another way
+to lower your detection from observed to
+
+1172
+00:25:52,360 --> 00:25:52,370
+to lower your detection from observed to
+ 
+
+1173
+00:25:52,370 --> 00:25:55,450
+to lower your detection from observed to
+hidden is my creating a diversion with
+
+1174
+00:25:55,450 --> 00:25:55,460
+hidden is my creating a diversion with
+ 
+
+1175
+00:25:55,460 --> 00:25:58,990
+hidden is my creating a diversion with
+the deception skill in this case you
+
+1176
+00:25:58,990 --> 00:25:59,000
+the deception skill in this case you
+ 
+
+1177
+00:25:59,000 --> 00:26:01,120
+the deception skill in this case you
+roll a deception contested by the
+
+1178
+00:26:01,120 --> 00:26:01,130
+roll a deception contested by the
+ 
+
+1179
+00:26:01,130 --> 00:26:03,610
+roll a deception contested by the
+perception disease of others and if
+
+1180
+00:26:03,610 --> 00:26:03,620
+perception disease of others and if
+ 
+
+1181
+00:26:03,620 --> 00:26:06,190
+perception disease of others and if
+successful you become hidden until the
+
+1182
+00:26:06,190 --> 00:26:06,200
+successful you become hidden until the
+ 
+
+1183
+00:26:06,200 --> 00:26:10,030
+successful you become hidden until the
+end of your current turn if you fail the
+
+1184
+00:26:10,030 --> 00:26:10,040
+end of your current turn if you fail the
+ 
+
+1185
+00:26:10,040 --> 00:26:12,730
+end of your current turn if you fail the
+check not only are you still observed
+
+1186
+00:26:12,730 --> 00:26:12,740
+check not only are you still observed
+ 
+
+1187
+00:26:12,740 --> 00:26:15,310
+check not only are you still observed
+but they also know you are trying to
+
+1188
+00:26:15,310 --> 00:26:15,320
+but they also know you are trying to
+ 
+
+1189
+00:26:15,320 --> 00:26:18,340
+but they also know you are trying to
+trick them and regardless of success or
+
+1190
+00:26:18,340 --> 00:26:18,350
+trick them and regardless of success or
+ 
+
+1191
+00:26:18,350 --> 00:26:20,860
+trick them and regardless of success or
+failure once you attempt to create a
+
+1192
+00:26:20,860 --> 00:26:20,870
+failure once you attempt to create a
+ 
+
+1193
+00:26:20,870 --> 00:26:24,700
+failure once you attempt to create a
+diversion those targets gain a +4 bonus
+
+1194
+00:26:24,700 --> 00:26:24,710
+diversion those targets gain a +4 bonus
+ 
+
+1195
+00:26:24,710 --> 00:26:27,490
+diversion those targets gain a +4 bonus
+to any other attempts to by you to
+
+1196
+00:26:27,490 --> 00:26:27,500
+to any other attempts to by you to
+ 
+
+1197
+00:26:27,500 --> 00:26:30,150
+to any other attempts to by you to
+create a diversion for the next minute
+
+1198
+00:26:30,150 --> 00:26:30,160
+create a diversion for the next minute
+ 
+
+1199
+00:26:30,160 --> 00:26:34,480
+create a diversion for the next minute
+the third stealth skill is sneak if you
+
+1200
+00:26:34,480 --> 00:26:34,490
+the third stealth skill is sneak if you
+ 
+
+1201
+00:26:34,490 --> 00:26:37,630
+the third stealth skill is sneak if you
+are hidden or undetected and you have
+
+1202
+00:26:37,630 --> 00:26:37,640
+are hidden or undetected and you have
+ 
+
+1203
+00:26:37,640 --> 00:26:39,550
+are hidden or undetected and you have
+cover or concealment against your
+
+1204
+00:26:39,550 --> 00:26:39,560
+cover or concealment against your
+ 
+
+1205
+00:26:39,560 --> 00:26:42,160
+cover or concealment against your
+enemies you can move up to half your
+
+1206
+00:26:42,160 --> 00:26:42,170
+enemies you can move up to half your
+ 
+
+1207
+00:26:42,170 --> 00:26:45,250
+enemies you can move up to half your
+speed after which your stealth skill is
+
+1208
+00:26:45,250 --> 00:26:45,260
+speed after which your stealth skill is
+ 
+
+1209
+00:26:45,260 --> 00:26:47,890
+speed after which your stealth skill is
+compared to the perception disease of
+
+1210
+00:26:47,890 --> 00:26:47,900
+compared to the perception disease of
+ 
+
+1211
+00:26:47,900 --> 00:26:50,620
+compared to the perception disease of
+enemies in the area if you have cover
+
+1212
+00:26:50,620 --> 00:26:50,630
+enemies in the area if you have cover
+ 
+
+1213
+00:26:50,630 --> 00:26:53,350
+enemies in the area if you have cover
+throughout the entire movement you add
+
+1214
+00:26:53,350 --> 00:26:53,360
+throughout the entire movement you add
+ 
+
+1215
+00:26:53,360 --> 00:26:55,540
+throughout the entire movement you add
+the covers bonus to your stealth check
+
+1216
+00:26:55,540 --> 00:26:55,550
+the covers bonus to your stealth check
+ 
+
+1217
+00:26:55,550 --> 00:26:58,060
+the covers bonus to your stealth check
+if you do not have cover or concealment
+
+1218
+00:26:58,060 --> 00:26:58,070
+if you do not have cover or concealment
+ 
+
+1219
+00:26:58,070 --> 00:27:00,490
+if you do not have cover or concealment
+in the square that you ended your
+
+1220
+00:27:00,490 --> 00:27:00,500
+in the square that you ended your
+ 
+
+1221
+00:27:00,500 --> 00:27:03,130
+in the square that you ended your
+movement you instantly fail against
+
+1222
+00:27:03,130 --> 00:27:03,140
+movement you instantly fail against
+ 
+
+1223
+00:27:03,140 --> 00:27:05,170
+movement you instantly fail against
+those enemies with unobstructed lines of
+
+1224
+00:27:05,170 --> 00:27:05,180
+those enemies with unobstructed lines of
+ 
+
+1225
+00:27:05,180 --> 00:27:08,590
+those enemies with unobstructed lines of
+sight to you and become observed if you
+
+1226
+00:27:08,590 --> 00:27:08,600
+sight to you and become observed if you
+ 
+
+1227
+00:27:08,600 --> 00:27:09,880
+sight to you and become observed if you
+succeed the check
+
+1228
+00:27:09,880 --> 00:27:09,890
+succeed the check
+ 
+
+1229
+00:27:09,890 --> 00:27:13,060
+succeed the check
+you are undetected if you fail the check
+
+1230
+00:27:13,060 --> 00:27:13,070
+you are undetected if you fail the check
+ 
+
+1231
+00:27:13,070 --> 00:27:16,360
+you are undetected if you fail the check
+you become hidden if you critically fail
+
+1232
+00:27:16,360 --> 00:27:16,370
+you become hidden if you critically fail
+ 
+
+1233
+00:27:16,370 --> 00:27:19,500
+you become hidden if you critically fail
+you become observed
+
+1234
+00:27:19,500 --> 00:27:19,510
+you become observed
+ 
+
+1235
+00:27:19,510 --> 00:27:22,410
+you become observed
+while hidden or undetected you instantly
+
+1236
+00:27:22,410 --> 00:27:22,420
+while hidden or undetected you instantly
+ 
+
+1237
+00:27:22,420 --> 00:27:24,930
+while hidden or undetected you instantly
+become observed if you attempt any
+
+1238
+00:27:24,930 --> 00:27:24,940
+become observed if you attempt any
+ 
+
+1239
+00:27:24,940 --> 00:27:29,430
+become observed if you attempt any
+action other than hide step or sneak two
+
+1240
+00:27:29,430 --> 00:27:29,440
+action other than hide step or sneak two
+ 
+
+1241
+00:27:29,440 --> 00:27:32,250
+action other than hide step or sneak two
+exceptions to this are any actions that
+
+1242
+00:27:32,250 --> 00:27:32,260
+exceptions to this are any actions that
+ 
+
+1243
+00:27:32,260 --> 00:27:36,480
+exceptions to this are any actions that
+the GM rules are unobtrusive or when you
+
+1244
+00:27:36,480 --> 00:27:36,490
+the GM rules are unobtrusive or when you
+ 
+
+1245
+00:27:36,490 --> 00:27:38,970
+the GM rules are unobtrusive or when you
+take the strike action in which case the
+
+1246
+00:27:38,970 --> 00:27:38,980
+take the strike action in which case the
+ 
+
+1247
+00:27:38,980 --> 00:27:41,490
+take the strike action in which case the
+target is flat-footed for the attack and
+
+1248
+00:27:41,490 --> 00:27:41,500
+target is flat-footed for the attack and
+ 
+
+1249
+00:27:41,500 --> 00:27:44,700
+target is flat-footed for the attack and
+you become observed after the attack is
+
+1250
+00:27:44,700 --> 00:27:44,710
+you become observed after the attack is
+ 
+
+1251
+00:27:44,710 --> 00:27:47,950
+you become observed after the attack is
+resolved
+
+1252
+00:27:47,950 --> 00:27:47,960
+
+ 
+
+1253
+00:27:47,960 --> 00:27:49,539
+
+with that we'll bring this video to a
+
+1254
+00:27:49,539 --> 00:27:49,549
+with that we'll bring this video to a
+ 
+
+1255
+00:27:49,549 --> 00:27:51,639
+with that we'll bring this video to a
+close if you found this video helpful
+
+1256
+00:27:51,639 --> 00:27:51,649
+close if you found this video helpful
+ 
+
+1257
+00:27:51,649 --> 00:27:53,259
+close if you found this video helpful
+please give us a like and don't forget
+
+1258
+00:27:53,259 --> 00:27:53,269
+please give us a like and don't forget
+ 
+
+1259
+00:27:53,269 --> 00:27:55,029
+please give us a like and don't forget
+to click that subscribe button and the
+
+1260
+00:27:55,029 --> 00:27:55,039
+to click that subscribe button and the
+ 
+
+1261
+00:27:55,039 --> 00:27:56,619
+to click that subscribe button and the
+bell so you never miss out on our future
+
+1262
+00:27:56,619 --> 00:27:56,629
+bell so you never miss out on our future
+ 
+
+1263
+00:27:56,629 --> 00:27:58,960
+bell so you never miss out on our future
+videos leave us a comment letting us
+
+1264
+00:27:58,960 --> 00:27:58,970
+videos leave us a comment letting us
+ 
+
+1265
+00:27:58,970 --> 00:28:00,159
+videos leave us a comment letting us
+know what topics you'd like to see
+
+1266
+00:28:00,159 --> 00:28:00,169
+know what topics you'd like to see
+ 
+
+1267
+00:28:00,169 --> 00:28:02,350
+know what topics you'd like to see
+covered in our future videos and we can
+
+1268
+00:28:02,350 --> 00:28:02,360
+covered in our future videos and we can
+ 
+
+1269
+00:28:02,360 --> 00:28:03,580
+covered in our future videos and we can
+always be reached through our Twitter
+
+1270
+00:28:03,580 --> 00:28:03,590
+always be reached through our Twitter
+ 
+
+1271
+00:28:03,590 --> 00:28:06,190
+always be reached through our Twitter
+and Facebook pages too if you'd like to
+
+1272
+00:28:06,190 --> 00:28:06,200
+and Facebook pages too if you'd like to
+ 
+
+1273
+00:28:06,200 --> 00:28:07,629
+and Facebook pages too if you'd like to
+use some of the maps that we feature in
+
+1274
+00:28:07,629 --> 00:28:07,639
+use some of the maps that we feature in
+ 
+
+1275
+00:28:07,639 --> 00:28:09,460
+use some of the maps that we feature in
+our videos and your own games you can
+
+1276
+00:28:09,460 --> 00:28:09,470
+our videos and your own games you can
+ 
+
+1277
+00:28:09,470 --> 00:28:12,129
+our videos and your own games you can
+find them at maps of mastery a link to
+
+1278
+00:28:12,129 --> 00:28:12,139
+find them at maps of mastery a link to
+ 
+
+1279
+00:28:12,139 --> 00:28:13,450
+find them at maps of mastery a link to
+that store can be found in the
+
+1280
+00:28:13,450 --> 00:28:13,460
+that store can be found in the
+ 
+
+1281
+00:28:13,460 --> 00:28:16,210
+that store can be found in the
+description thanks for watching take
+
+1282
+00:28:16,210 --> 00:28:16,220
+description thanks for watching take
+ 
+
+1283
+00:28:16,220 --> 00:28:17,830
+description thanks for watching take
+care and we'll see you soon with more
+
+1284
+00:28:17,830 --> 00:28:17,840
+care and we'll see you soon with more
+ 
+
+1285
+00:28:17,840 --> 00:28:21,610
+care and we'll see you soon with more
+basics for your favorite tabletop games
+

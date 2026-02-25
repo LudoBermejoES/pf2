@@ -1,0 +1,2145 @@
+1
+00:00:00,000 --> 00:00:05,470
+
+foreign
+
+2
+00:00:05,470 --> 00:00:05,480
+
+ 
+
+3
+00:00:05,480 --> 00:00:08,570
+
+Ty in Pathfinder second edition
+
+4
+00:00:08,570 --> 00:00:08,580
+Ty in Pathfinder second edition
+ 
+
+5
+00:00:08,580 --> 00:00:11,390
+Ty in Pathfinder second edition
+proficiency is included in virtually all
+
+6
+00:00:11,390 --> 00:00:11,400
+proficiency is included in virtually all
+ 
+
+7
+00:00:11,400 --> 00:00:13,009
+proficiency is included in virtually all
+stats that determine what a character
+
+8
+00:00:13,009 --> 00:00:13,019
+stats that determine what a character
+ 
+
+9
+00:00:13,019 --> 00:00:14,990
+stats that determine what a character
+can do and How likely they are to
+
+10
+00:00:14,990 --> 00:00:15,000
+can do and How likely they are to
+ 
+
+11
+00:00:15,000 --> 00:00:16,849
+can do and How likely they are to
+succeed at a given action
+
+12
+00:00:16,849 --> 00:00:16,859
+succeed at a given action
+ 
+
+13
+00:00:16,859 --> 00:00:18,950
+succeed at a given action
+weapon proficiency is included in a tag
+
+14
+00:00:18,950 --> 00:00:18,960
+weapon proficiency is included in a tag
+ 
+
+15
+00:00:18,960 --> 00:00:21,349
+weapon proficiency is included in a tag
+bonuses armor proficiency is used to
+
+16
+00:00:21,349 --> 00:00:21,359
+bonuses armor proficiency is used to
+ 
+
+17
+00:00:21,359 --> 00:00:23,269
+bonuses armor proficiency is used to
+calculate armor class saving through
+
+18
+00:00:23,269 --> 00:00:23,279
+calculate armor class saving through
+ 
+
+19
+00:00:23,279 --> 00:00:24,890
+calculate armor class saving through
+proficiencies are included when making
+
+20
+00:00:24,890 --> 00:00:24,900
+proficiencies are included when making
+ 
+
+21
+00:00:24,900 --> 00:00:27,769
+proficiencies are included when making
+saving throws and so on typically these
+
+22
+00:00:27,769 --> 00:00:27,779
+saving throws and so on typically these
+ 
+
+23
+00:00:27,779 --> 00:00:30,109
+saving throws and so on typically these
+stats and bonuses are all calculated as
+
+24
+00:00:30,109 --> 00:00:30,119
+stats and bonuses are all calculated as
+ 
+
+25
+00:00:30,119 --> 00:00:32,210
+stats and bonuses are all calculated as
+an ability modifier like strength or
+
+26
+00:00:32,210 --> 00:00:32,220
+an ability modifier like strength or
+ 
+
+27
+00:00:32,220 --> 00:00:35,229
+an ability modifier like strength or
+Charisma plus a proficiency bonus
+
+28
+00:00:35,229 --> 00:00:35,239
+Charisma plus a proficiency bonus
+ 
+
+29
+00:00:35,239 --> 00:00:38,030
+Charisma plus a proficiency bonus
+proficiency is a simple way of assessing
+
+30
+00:00:38,030 --> 00:00:38,040
+proficiency is a simple way of assessing
+ 
+
+31
+00:00:38,040 --> 00:00:39,770
+proficiency is a simple way of assessing
+a character's General level of training
+
+32
+00:00:39,770 --> 00:00:39,780
+a character's General level of training
+ 
+
+33
+00:00:39,780 --> 00:00:42,709
+a character's General level of training
+and aptitude at a given task and unlike
+
+34
+00:00:42,709 --> 00:00:42,719
+and aptitude at a given task and unlike
+ 
+
+35
+00:00:42,719 --> 00:00:44,630
+and aptitude at a given task and unlike
+some other fantasy role-playing games
+
+36
+00:00:44,630 --> 00:00:44,640
+some other fantasy role-playing games
+ 
+
+37
+00:00:44,640 --> 00:00:47,090
+some other fantasy role-playing games
+you might be used to in Pathfinder
+
+38
+00:00:47,090 --> 00:00:47,100
+you might be used to in Pathfinder
+ 
+
+39
+00:00:47,100 --> 00:00:49,729
+you might be used to in Pathfinder
+second edition proficiency is not one
+
+40
+00:00:49,729 --> 00:00:49,739
+second edition proficiency is not one
+ 
+
+41
+00:00:49,739 --> 00:00:52,729
+second edition proficiency is not one
+flat bonus but instead is broken into
+
+42
+00:00:52,729 --> 00:00:52,739
+flat bonus but instead is broken into
+ 
+
+43
+00:00:52,739 --> 00:00:56,150
+flat bonus but instead is broken into
+five ranks of increasing value untrained
+
+44
+00:00:56,150 --> 00:00:56,160
+five ranks of increasing value untrained
+ 
+
+45
+00:00:56,160 --> 00:01:00,650
+five ranks of increasing value untrained
+trained expert master and legendary
+
+46
+00:01:00,650 --> 00:01:00,660
+trained expert master and legendary
+ 
+
+47
+00:01:00,660 --> 00:01:03,170
+trained expert master and legendary
+so instead of having all characters who
+
+48
+00:01:03,170 --> 00:01:03,180
+so instead of having all characters who
+ 
+
+49
+00:01:03,180 --> 00:01:05,030
+so instead of having all characters who
+are proficient at a skill having the
+
+50
+00:01:05,030 --> 00:01:05,040
+are proficient at a skill having the
+ 
+
+51
+00:01:05,040 --> 00:01:07,370
+are proficient at a skill having the
+same proficiency bonus those who are
+
+52
+00:01:07,370 --> 00:01:07,380
+same proficiency bonus those who are
+ 
+
+53
+00:01:07,380 --> 00:01:09,410
+same proficiency bonus those who are
+experts at the skill will have a higher
+
+54
+00:01:09,410 --> 00:01:09,420
+experts at the skill will have a higher
+ 
+
+55
+00:01:09,420 --> 00:01:11,750
+experts at the skill will have a higher
+bonus than those who are merely trained
+
+56
+00:01:11,750 --> 00:01:11,760
+bonus than those who are merely trained
+ 
+
+57
+00:01:11,760 --> 00:01:14,090
+bonus than those who are merely trained
+by default characters are considered
+
+58
+00:01:14,090 --> 00:01:14,100
+by default characters are considered
+ 
+
+59
+00:01:14,100 --> 00:01:17,149
+by default characters are considered
+untrained in all proficiencies unless a
+
+60
+00:01:17,149 --> 00:01:17,159
+untrained in all proficiencies unless a
+ 
+
+61
+00:01:17,159 --> 00:01:19,070
+untrained in all proficiencies unless a
+specific feature of the game grants them
+
+62
+00:01:19,070 --> 00:01:19,080
+specific feature of the game grants them
+ 
+
+63
+00:01:19,080 --> 00:01:22,070
+specific feature of the game grants them
+a higher rank if you are untrained at a
+
+64
+00:01:22,070 --> 00:01:22,080
+a higher rank if you are untrained at a
+ 
+
+65
+00:01:22,080 --> 00:01:24,830
+a higher rank if you are untrained at a
+given task then you do not receive any
+
+66
+00:01:24,830 --> 00:01:24,840
+given task then you do not receive any
+ 
+
+67
+00:01:24,840 --> 00:01:27,530
+given task then you do not receive any
+proficiency bonus at all and therefore
+
+68
+00:01:27,530 --> 00:01:27,540
+proficiency bonus at all and therefore
+ 
+
+69
+00:01:27,540 --> 00:01:30,170
+proficiency bonus at all and therefore
+will only receive a bonus from the
+
+70
+00:01:30,170 --> 00:01:30,180
+will only receive a bonus from the
+ 
+
+71
+00:01:30,180 --> 00:01:32,870
+will only receive a bonus from the
+associated ability modifier if your
+
+72
+00:01:32,870 --> 00:01:32,880
+associated ability modifier if your
+ 
+
+73
+00:01:32,880 --> 00:01:34,789
+associated ability modifier if your
+proficiency rank in a given task is
+
+74
+00:01:34,789 --> 00:01:34,799
+proficiency rank in a given task is
+ 
+
+75
+00:01:34,799 --> 00:01:37,190
+proficiency rank in a given task is
+trained or higher then your proficiency
+
+76
+00:01:37,190 --> 00:01:37,200
+trained or higher then your proficiency
+ 
+
+77
+00:01:37,200 --> 00:01:39,289
+trained or higher then your proficiency
+bonus will be your character's level
+
+78
+00:01:39,289 --> 00:01:39,299
+bonus will be your character's level
+ 
+
+79
+00:01:39,299 --> 00:01:42,469
+bonus will be your character's level
+plus two if you're trained level plus
+
+80
+00:01:42,469 --> 00:01:42,479
+plus two if you're trained level plus
+ 
+
+81
+00:01:42,479 --> 00:01:45,109
+plus two if you're trained level plus
+four if you're an expert level plus six
+
+82
+00:01:45,109 --> 00:01:45,119
+four if you're an expert level plus six
+ 
+
+83
+00:01:45,119 --> 00:01:48,109
+four if you're an expert level plus six
+if you're a master and level plus eight
+
+84
+00:01:48,109 --> 00:01:48,119
+if you're a master and level plus eight
+ 
+
+85
+00:01:48,119 --> 00:01:50,870
+if you're a master and level plus eight
+if you have a legendary proficiency
+
+86
+00:01:50,870 --> 00:01:50,880
+if you have a legendary proficiency
+ 
+
+87
+00:01:50,880 --> 00:01:53,990
+if you have a legendary proficiency
+one important point to reinforce here is
+
+88
+00:01:53,990 --> 00:01:54,000
+one important point to reinforce here is
+ 
+
+89
+00:01:54,000 --> 00:01:57,170
+one important point to reinforce here is
+if you are untrained then you do not add
+
+90
+00:01:57,170 --> 00:01:57,180
+if you are untrained then you do not add
+ 
+
+91
+00:01:57,180 --> 00:02:00,230
+if you are untrained then you do not add
+your level to the role you only add your
+
+92
+00:02:00,230 --> 00:02:00,240
+your level to the role you only add your
+ 
+
+93
+00:02:00,240 --> 00:02:02,870
+your level to the role you only add your
+level if you are at least trained and
+
+94
+00:02:02,870 --> 00:02:02,880
+level if you are at least trained and
+ 
+
+95
+00:02:02,880 --> 00:02:04,550
+level if you are at least trained and
+therefore the base modifier for
+
+96
+00:02:04,550 --> 00:02:04,560
+therefore the base modifier for
+ 
+
+97
+00:02:04,560 --> 00:02:07,429
+therefore the base modifier for
+untrained checks will only be the
+
+98
+00:02:07,429 --> 00:02:07,439
+untrained checks will only be the
+ 
+
+99
+00:02:07,439 --> 00:02:10,070
+untrained checks will only be the
+associated ability modifier for example
+
+100
+00:02:10,070 --> 00:02:10,080
+associated ability modifier for example
+ 
+
+101
+00:02:10,080 --> 00:02:12,410
+associated ability modifier for example
+let's say a party of three fifth level
+
+102
+00:02:12,410 --> 00:02:12,420
+let's say a party of three fifth level
+ 
+
+103
+00:02:12,420 --> 00:02:14,570
+let's say a party of three fifth level
+characters are attempting to climb a
+
+104
+00:02:14,570 --> 00:02:14,580
+characters are attempting to climb a
+ 
+
+105
+00:02:14,580 --> 00:02:17,330
+characters are attempting to climb a
+steep incline the Rogue is trained in
+
+106
+00:02:17,330 --> 00:02:17,340
+steep incline the Rogue is trained in
+ 
+
+107
+00:02:17,340 --> 00:02:19,550
+steep incline the Rogue is trained in
+athletics with a strength score of 12
+
+108
+00:02:19,550 --> 00:02:19,560
+athletics with a strength score of 12
+ 
+
+109
+00:02:19,560 --> 00:02:22,729
+athletics with a strength score of 12
+the fighter has expert Proficiency in
+
+110
+00:02:22,729 --> 00:02:22,739
+the fighter has expert Proficiency in
+ 
+
+111
+00:02:22,739 --> 00:02:25,970
+the fighter has expert Proficiency in
+athletics and a strength score of 16 and
+
+112
+00:02:25,970 --> 00:02:25,980
+athletics and a strength score of 16 and
+ 
+
+113
+00:02:25,980 --> 00:02:28,130
+athletics and a strength score of 16 and
+The Wizard is untrained in athletics
+
+114
+00:02:28,130 --> 00:02:28,140
+The Wizard is untrained in athletics
+ 
+
+115
+00:02:28,140 --> 00:02:31,250
+The Wizard is untrained in athletics
+with a strength score of eight athletic
+
+116
+00:02:31,250 --> 00:02:31,260
+with a strength score of eight athletic
+ 
+
+117
+00:02:31,260 --> 00:02:33,589
+with a strength score of eight athletic
+skill modifiers are calculated as
+
+118
+00:02:33,589 --> 00:02:33,599
+skill modifiers are calculated as
+ 
+
+119
+00:02:33,599 --> 00:02:36,410
+skill modifiers are calculated as
+proficiency bonus plus strength modifier
+
+120
+00:02:36,410 --> 00:02:36,420
+proficiency bonus plus strength modifier
+ 
+
+121
+00:02:36,420 --> 00:02:39,410
+proficiency bonus plus strength modifier
+and proficiency bonuses are calculated
+
+122
+00:02:39,410 --> 00:02:39,420
+and proficiency bonuses are calculated
+ 
+
+123
+00:02:39,420 --> 00:02:42,290
+and proficiency bonuses are calculated
+as zero for untrained characters and
+
+124
+00:02:42,290 --> 00:02:42,300
+as zero for untrained characters and
+ 
+
+125
+00:02:42,300 --> 00:02:44,390
+as zero for untrained characters and
+level plus an increasing bonus for
+
+126
+00:02:44,390 --> 00:02:44,400
+level plus an increasing bonus for
+ 
+
+127
+00:02:44,400 --> 00:02:47,270
+level plus an increasing bonus for
+trained and higher so the Rogue would
+
+128
+00:02:47,270 --> 00:02:47,280
+trained and higher so the Rogue would
+ 
+
+129
+00:02:47,280 --> 00:02:49,850
+trained and higher so the Rogue would
+calculate their athletic skill bonus as
+
+130
+00:02:49,850 --> 00:02:49,860
+calculate their athletic skill bonus as
+ 
+
+131
+00:02:49,860 --> 00:02:53,390
+calculate their athletic skill bonus as
+five for their level plus two for being
+
+132
+00:02:53,390 --> 00:02:53,400
+five for their level plus two for being
+ 
+
+133
+00:02:53,400 --> 00:02:56,270
+five for their level plus two for being
+trained for a total proficiency bonus of
+
+134
+00:02:56,270 --> 00:02:56,280
+trained for a total proficiency bonus of
+ 
+
+135
+00:02:56,280 --> 00:02:58,970
+trained for a total proficiency bonus of
+plus seven and then they would add their
+
+136
+00:02:58,970 --> 00:02:58,980
+plus seven and then they would add their
+ 
+
+137
+00:02:58,980 --> 00:03:01,309
+plus seven and then they would add their
+strength modifier to that of plus one
+
+138
+00:03:01,309 --> 00:03:01,319
+strength modifier to that of plus one
+ 
+
+139
+00:03:01,319 --> 00:03:04,250
+strength modifier to that of plus one
+for a final athletic skill bonus of plus
+
+140
+00:03:04,250 --> 00:03:04,260
+for a final athletic skill bonus of plus
+ 
+
+141
+00:03:04,260 --> 00:03:05,390
+for a final athletic skill bonus of plus
+eight
+
+142
+00:03:05,390 --> 00:03:05,400
+eight
+ 
+
+143
+00:03:05,400 --> 00:03:07,309
+eight
+the fighter would calculate their
+
+144
+00:03:07,309 --> 00:03:07,319
+the fighter would calculate their
+ 
+
+145
+00:03:07,319 --> 00:03:09,710
+the fighter would calculate their
+proficiency bonus as 5 for their level
+
+146
+00:03:09,710 --> 00:03:09,720
+proficiency bonus as 5 for their level
+ 
+
+147
+00:03:09,720 --> 00:03:13,130
+proficiency bonus as 5 for their level
+plus four for expert proficiency for a
+
+148
+00:03:13,130 --> 00:03:13,140
+plus four for expert proficiency for a
+ 
+
+149
+00:03:13,140 --> 00:03:15,890
+plus four for expert proficiency for a
+proficiency bonus of plus nine and then
+
+150
+00:03:15,890 --> 00:03:15,900
+proficiency bonus of plus nine and then
+ 
+
+151
+00:03:15,900 --> 00:03:17,750
+proficiency bonus of plus nine and then
+add their strength modifier of plus
+
+152
+00:03:17,750 --> 00:03:17,760
+add their strength modifier of plus
+ 
+
+153
+00:03:17,760 --> 00:03:20,509
+add their strength modifier of plus
+three for a final Athletics bonus of
+
+154
+00:03:20,509 --> 00:03:20,519
+three for a final Athletics bonus of
+ 
+
+155
+00:03:20,519 --> 00:03:22,070
+three for a final Athletics bonus of
+Plus 12.
+
+156
+00:03:22,070 --> 00:03:22,080
+Plus 12.
+ 
+
+157
+00:03:22,080 --> 00:03:25,550
+Plus 12.
+and the poor wizard is untrained so they
+
+158
+00:03:25,550 --> 00:03:25,560
+and the poor wizard is untrained so they
+ 
+
+159
+00:03:25,560 --> 00:03:27,589
+and the poor wizard is untrained so they
+would calculate their proficiency bonus
+
+160
+00:03:27,589 --> 00:03:27,599
+would calculate their proficiency bonus
+ 
+
+161
+00:03:27,599 --> 00:03:30,110
+would calculate their proficiency bonus
+as plus zero and then apply their
+
+162
+00:03:30,110 --> 00:03:30,120
+as plus zero and then apply their
+ 
+
+163
+00:03:30,120 --> 00:03:32,990
+as plus zero and then apply their
+strength modifier of negative one for a
+
+164
+00:03:32,990 --> 00:03:33,000
+strength modifier of negative one for a
+ 
+
+165
+00:03:33,000 --> 00:03:35,210
+strength modifier of negative one for a
+final athletic skill modifier of
+
+166
+00:03:35,210 --> 00:03:35,220
+final athletic skill modifier of
+ 
+
+167
+00:03:35,220 --> 00:03:37,369
+final athletic skill modifier of
+negative one
+
+168
+00:03:37,369 --> 00:03:37,379
+negative one
+ 
+
+169
+00:03:37,379 --> 00:03:39,649
+negative one
+proficiency ranks are gained in
+
+170
+00:03:39,649 --> 00:03:39,659
+proficiency ranks are gained in
+ 
+
+171
+00:03:39,659 --> 00:03:41,930
+proficiency ranks are gained in
+increased wind gaining experience levels
+
+172
+00:03:41,930 --> 00:03:41,940
+increased wind gaining experience levels
+ 
+
+173
+00:03:41,940 --> 00:03:44,270
+increased wind gaining experience levels
+at character creation you will gain
+
+174
+00:03:44,270 --> 00:03:44,280
+at character creation you will gain
+ 
+
+175
+00:03:44,280 --> 00:03:46,970
+at character creation you will gain
+Proficiency in a number of qualities you
+
+176
+00:03:46,970 --> 00:03:46,980
+Proficiency in a number of qualities you
+ 
+
+177
+00:03:46,980 --> 00:03:49,070
+Proficiency in a number of qualities you
+will usually gain trained Proficiency in
+
+178
+00:03:49,070 --> 00:03:49,080
+will usually gain trained Proficiency in
+ 
+
+179
+00:03:49,080 --> 00:03:50,930
+will usually gain trained Proficiency in
+at least one skill from your background
+
+180
+00:03:50,930 --> 00:03:50,940
+at least one skill from your background
+ 
+
+181
+00:03:50,940 --> 00:03:53,990
+at least one skill from your background
+for example acolytes start the game with
+
+182
+00:03:53,990 --> 00:03:54,000
+for example acolytes start the game with
+ 
+
+183
+00:03:54,000 --> 00:03:56,149
+for example acolytes start the game with
+training and religion and scribing lore
+
+184
+00:03:56,149 --> 00:03:56,159
+training and religion and scribing lore
+ 
+
+185
+00:03:56,159 --> 00:03:58,309
+training and religion and scribing lore
+and bar keeps are trained in both
+
+186
+00:03:58,309 --> 00:03:58,319
+and bar keeps are trained in both
+ 
+
+187
+00:03:58,319 --> 00:04:00,830
+and bar keeps are trained in both
+diplomacy and alcohol lore
+
+188
+00:04:00,830 --> 00:04:00,840
+diplomacy and alcohol lore
+ 
+
+189
+00:04:00,840 --> 00:04:03,289
+diplomacy and alcohol lore
+in addition every class provides a
+
+190
+00:04:03,289 --> 00:04:03,299
+in addition every class provides a
+ 
+
+191
+00:04:03,299 --> 00:04:04,789
+in addition every class provides a
+sidebar that lists their starting
+
+192
+00:04:04,789 --> 00:04:04,799
+sidebar that lists their starting
+ 
+
+193
+00:04:04,799 --> 00:04:07,610
+sidebar that lists their starting
+proficiencies for example clerics begin
+
+194
+00:04:07,610 --> 00:04:07,620
+proficiencies for example clerics begin
+ 
+
+195
+00:04:07,620 --> 00:04:10,190
+proficiencies for example clerics begin
+the game as trained in perception then
+
+196
+00:04:10,190 --> 00:04:10,200
+the game as trained in perception then
+ 
+
+197
+00:04:10,200 --> 00:04:12,350
+the game as trained in perception then
+their saving throws clerics are trained
+
+198
+00:04:12,350 --> 00:04:12,360
+their saving throws clerics are trained
+ 
+
+199
+00:04:12,360 --> 00:04:14,509
+their saving throws clerics are trained
+in fortitude and reflex and have expert
+
+200
+00:04:14,509 --> 00:04:14,519
+in fortitude and reflex and have expert
+ 
+
+201
+00:04:14,519 --> 00:04:17,449
+in fortitude and reflex and have expert
+proficiency and will next are skills
+
+202
+00:04:17,449 --> 00:04:17,459
+proficiency and will next are skills
+ 
+
+203
+00:04:17,459 --> 00:04:19,969
+proficiency and will next are skills
+clerics start the game as trained in
+
+204
+00:04:19,969 --> 00:04:19,979
+clerics start the game as trained in
+ 
+
+205
+00:04:19,979 --> 00:04:21,949
+clerics start the game as trained in
+religion and one other skill that's
+
+206
+00:04:21,949 --> 00:04:21,959
+religion and one other skill that's
+ 
+
+207
+00:04:21,959 --> 00:04:24,230
+religion and one other skill that's
+determined by the god they worship and
+
+208
+00:04:24,230 --> 00:04:24,240
+determined by the god they worship and
+ 
+
+209
+00:04:24,240 --> 00:04:25,909
+determined by the god they worship and
+then they gain training in a number of
+
+210
+00:04:25,909 --> 00:04:25,919
+then they gain training in a number of
+ 
+
+211
+00:04:25,919 --> 00:04:28,249
+then they gain training in a number of
+skills of their choice equal to their
+
+212
+00:04:28,249 --> 00:04:28,259
+skills of their choice equal to their
+ 
+
+213
+00:04:28,259 --> 00:04:31,310
+skills of their choice equal to their
+intelligence modifier plus two note that
+
+214
+00:04:31,310 --> 00:04:31,320
+intelligence modifier plus two note that
+ 
+
+215
+00:04:31,320 --> 00:04:32,990
+intelligence modifier plus two note that
+when a source provides strain
+
+216
+00:04:32,990 --> 00:04:33,000
+when a source provides strain
+ 
+
+217
+00:04:33,000 --> 00:04:35,270
+when a source provides strain
+Proficiency in a skill you already have
+
+218
+00:04:35,270 --> 00:04:35,280
+Proficiency in a skill you already have
+ 
+
+219
+00:04:35,280 --> 00:04:38,270
+Proficiency in a skill you already have
+trained or better Proficiency in you are
+
+220
+00:04:38,270 --> 00:04:38,280
+trained or better Proficiency in you are
+ 
+
+221
+00:04:38,280 --> 00:04:40,430
+trained or better Proficiency in you are
+allowed to choose training in a
+
+222
+00:04:40,430 --> 00:04:40,440
+allowed to choose training in a
+ 
+
+223
+00:04:40,440 --> 00:04:43,010
+allowed to choose training in a
+different skill of your choice with the
+
+224
+00:04:43,010 --> 00:04:43,020
+different skill of your choice with the
+ 
+
+225
+00:04:43,020 --> 00:04:46,010
+different skill of your choice with the
+exception of lore skills if multiple
+
+226
+00:04:46,010 --> 00:04:46,020
+exception of lore skills if multiple
+ 
+
+227
+00:04:46,020 --> 00:04:47,930
+exception of lore skills if multiple
+sources provide training in the same
+
+228
+00:04:47,930 --> 00:04:47,940
+sources provide training in the same
+ 
+
+229
+00:04:47,940 --> 00:04:50,390
+sources provide training in the same
+Allure skill then you gain the training
+
+230
+00:04:50,390 --> 00:04:50,400
+Allure skill then you gain the training
+ 
+
+231
+00:04:50,400 --> 00:04:53,090
+Allure skill then you gain the training
+from the First Source and may choose
+
+232
+00:04:53,090 --> 00:04:53,100
+from the First Source and may choose
+ 
+
+233
+00:04:53,100 --> 00:04:55,189
+from the First Source and may choose
+another Allure skill for the other
+
+234
+00:04:55,189 --> 00:04:55,199
+another Allure skill for the other
+ 
+
+235
+00:04:55,199 --> 00:04:58,310
+another Allure skill for the other
+sources for example say you select
+
+236
+00:04:58,310 --> 00:04:58,320
+sources for example say you select
+ 
+
+237
+00:04:58,320 --> 00:05:01,310
+sources for example say you select
+acolyte as your background and cleric as
+
+238
+00:05:01,310 --> 00:05:01,320
+acolyte as your background and cleric as
+ 
+
+239
+00:05:01,320 --> 00:05:04,490
+acolyte as your background and cleric as
+your class both of these sources provide
+
+240
+00:05:04,490 --> 00:05:04,500
+your class both of these sources provide
+ 
+
+241
+00:05:04,500 --> 00:05:07,129
+your class both of these sources provide
+training in religion therefore you would
+
+242
+00:05:07,129 --> 00:05:07,139
+training in religion therefore you would
+ 
+
+243
+00:05:07,139 --> 00:05:09,290
+training in religion therefore you would
+gain train Proficiency in religion from
+
+244
+00:05:09,290 --> 00:05:09,300
+gain train Proficiency in religion from
+ 
+
+245
+00:05:09,300 --> 00:05:12,110
+gain train Proficiency in religion from
+alkalite and would be able to choose
+
+246
+00:05:12,110 --> 00:05:12,120
+alkalite and would be able to choose
+ 
+
+247
+00:05:12,120 --> 00:05:14,210
+alkalite and would be able to choose
+training in any other skill of your
+
+248
+00:05:14,210 --> 00:05:14,220
+training in any other skill of your
+ 
+
+249
+00:05:14,220 --> 00:05:17,330
+training in any other skill of your
+choice for cleric but if both sources
+
+250
+00:05:17,330 --> 00:05:17,340
+choice for cleric but if both sources
+ 
+
+251
+00:05:17,340 --> 00:05:20,270
+choice for cleric but if both sources
+provided training in a lore skill then
+
+252
+00:05:20,270 --> 00:05:20,280
+provided training in a lore skill then
+ 
+
+253
+00:05:20,280 --> 00:05:22,129
+provided training in a lore skill then
+you would need to select a different
+
+254
+00:05:22,129 --> 00:05:22,139
+you would need to select a different
+ 
+
+255
+00:05:22,139 --> 00:05:25,070
+you would need to select a different
+lore skill and note that this only
+
+256
+00:05:25,070 --> 00:05:25,080
+lore skill and note that this only
+ 
+
+257
+00:05:25,080 --> 00:05:26,990
+lore skill and note that this only
+applies when gaining trained
+
+258
+00:05:26,990 --> 00:05:27,000
+applies when gaining trained
+ 
+
+259
+00:05:27,000 --> 00:05:29,450
+applies when gaining trained
+proficiencies if two different sources
+
+260
+00:05:29,450 --> 00:05:29,460
+proficiencies if two different sources
+ 
+
+261
+00:05:29,460 --> 00:05:31,370
+proficiencies if two different sources
+would increase the proficiency rank of
+
+262
+00:05:31,370 --> 00:05:31,380
+would increase the proficiency rank of
+ 
+
+263
+00:05:31,380 --> 00:05:34,010
+would increase the proficiency rank of
+this same skill to expert then you would
+
+264
+00:05:34,010 --> 00:05:34,020
+this same skill to expert then you would
+ 
+
+265
+00:05:34,020 --> 00:05:36,290
+this same skill to expert then you would
+not receive any additional benefits or
+
+266
+00:05:36,290 --> 00:05:36,300
+not receive any additional benefits or
+ 
+
+267
+00:05:36,300 --> 00:05:38,450
+not receive any additional benefits or
+be able to choose a different skill to
+
+268
+00:05:38,450 --> 00:05:38,460
+be able to choose a different skill to
+ 
+
+269
+00:05:38,460 --> 00:05:40,909
+be able to choose a different skill to
+increase to expert
+
+270
+00:05:40,909 --> 00:05:40,919
+increase to expert
+ 
+
+271
+00:05:40,919 --> 00:05:43,430
+increase to expert
+each class's sidebar goes on to provide
+
+272
+00:05:43,430 --> 00:05:43,440
+each class's sidebar goes on to provide
+ 
+
+273
+00:05:43,440 --> 00:05:45,290
+each class's sidebar goes on to provide
+starting proficiencies for attacks
+
+274
+00:05:45,290 --> 00:05:45,300
+starting proficiencies for attacks
+ 
+
+275
+00:05:45,300 --> 00:05:48,409
+starting proficiencies for attacks
+defenses and spells clerics are trained
+
+276
+00:05:48,409 --> 00:05:48,419
+defenses and spells clerics are trained
+ 
+
+277
+00:05:48,419 --> 00:05:50,330
+defenses and spells clerics are trained
+with simple weapons and their deities
+
+278
+00:05:50,330 --> 00:05:50,340
+with simple weapons and their deities
+ 
+
+279
+00:05:50,340 --> 00:05:52,850
+with simple weapons and their deities
+favored weapon they are trained in
+
+280
+00:05:52,850 --> 00:05:52,860
+favored weapon they are trained in
+ 
+
+281
+00:05:52,860 --> 00:05:55,430
+favored weapon they are trained in
+unarmored defense by default but may
+
+282
+00:05:55,430 --> 00:05:55,440
+unarmored defense by default but may
+ 
+
+283
+00:05:55,440 --> 00:05:57,469
+unarmored defense by default but may
+gain proficiency with armor from their
+
+284
+00:05:57,469 --> 00:05:57,479
+gain proficiency with armor from their
+ 
+
+285
+00:05:57,479 --> 00:05:59,749
+gain proficiency with armor from their
+chosen Doctrine and they have trained
+
+286
+00:05:59,749 --> 00:05:59,759
+chosen Doctrine and they have trained
+ 
+
+287
+00:05:59,759 --> 00:06:02,570
+chosen Doctrine and they have trained
+proficiency with Divine spells
+
+288
+00:06:02,570 --> 00:06:02,580
+proficiency with Divine spells
+ 
+
+289
+00:06:02,580 --> 00:06:05,029
+proficiency with Divine spells
+characters may also gain proficiency
+
+290
+00:06:05,029 --> 00:06:05,039
+characters may also gain proficiency
+ 
+
+291
+00:06:05,039 --> 00:06:07,370
+characters may also gain proficiency
+from the Feats they select such as the
+
+292
+00:06:07,370 --> 00:06:07,380
+from the Feats they select such as the
+ 
+
+293
+00:06:07,380 --> 00:06:09,409
+from the Feats they select such as the
+armor proficiency skill training and
+
+294
+00:06:09,409 --> 00:06:09,419
+armor proficiency skill training and
+ 
+
+295
+00:06:09,419 --> 00:06:11,990
+armor proficiency skill training and
+weapon proficiency Feats and proficiency
+
+296
+00:06:11,990 --> 00:06:12,000
+weapon proficiency Feats and proficiency
+ 
+
+297
+00:06:12,000 --> 00:06:13,909
+weapon proficiency Feats and proficiency
+ranks are usually increased through
+
+298
+00:06:13,909 --> 00:06:13,919
+ranks are usually increased through
+ 
+
+299
+00:06:13,919 --> 00:06:15,170
+ranks are usually increased through
+leveling up
+
+300
+00:06:15,170 --> 00:06:15,180
+leveling up
+ 
+
+301
+00:06:15,180 --> 00:06:17,629
+leveling up
+each class provides a table that lays
+
+302
+00:06:17,629 --> 00:06:17,639
+each class provides a table that lays
+ 
+
+303
+00:06:17,639 --> 00:06:19,490
+each class provides a table that lays
+out level advancement like this one for
+
+304
+00:06:19,490 --> 00:06:19,500
+out level advancement like this one for
+ 
+
+305
+00:06:19,500 --> 00:06:21,650
+out level advancement like this one for
+the cleric here we see that clerics
+
+306
+00:06:21,650 --> 00:06:21,660
+the cleric here we see that clerics
+ 
+
+307
+00:06:21,660 --> 00:06:24,050
+the cleric here we see that clerics
+receive skill increases at third level
+
+308
+00:06:24,050 --> 00:06:24,060
+receive skill increases at third level
+ 
+
+309
+00:06:24,060 --> 00:06:26,930
+receive skill increases at third level
+and every odd level after that
+
+310
+00:06:26,930 --> 00:06:26,940
+and every odd level after that
+ 
+
+311
+00:06:26,940 --> 00:06:29,330
+and every odd level after that
+when they reach each of these levels the
+
+312
+00:06:29,330 --> 00:06:29,340
+when they reach each of these levels the
+ 
+
+313
+00:06:29,340 --> 00:06:31,309
+when they reach each of these levels the
+player May either gain train Proficiency
+
+314
+00:06:31,309 --> 00:06:31,319
+player May either gain train Proficiency
+ 
+
+315
+00:06:31,319 --> 00:06:33,230
+player May either gain train Proficiency
+in one skill that they're currently
+
+316
+00:06:33,230 --> 00:06:33,240
+in one skill that they're currently
+ 
+
+317
+00:06:33,240 --> 00:06:35,990
+in one skill that they're currently
+untrained in or they may increase the
+
+318
+00:06:35,990 --> 00:06:36,000
+untrained in or they may increase the
+ 
+
+319
+00:06:36,000 --> 00:06:38,210
+untrained in or they may increase the
+proficiency rank of any skill by one
+
+320
+00:06:38,210 --> 00:06:38,220
+proficiency rank of any skill by one
+ 
+
+321
+00:06:38,220 --> 00:06:41,809
+proficiency rank of any skill by one
+step but subject to a limit at third
+
+322
+00:06:41,809 --> 00:06:41,819
+step but subject to a limit at third
+ 
+
+323
+00:06:41,819 --> 00:06:44,570
+step but subject to a limit at third
+level and fifth levels you can raise one
+
+324
+00:06:44,570 --> 00:06:44,580
+level and fifth levels you can raise one
+ 
+
+325
+00:06:44,580 --> 00:06:47,090
+level and fifth levels you can raise one
+skill from trained to expert
+
+326
+00:06:47,090 --> 00:06:47,100
+skill from trained to expert
+ 
+
+327
+00:06:47,100 --> 00:06:50,930
+skill from trained to expert
+as 7th 9th 11th and 13th levels you can
+
+328
+00:06:50,930 --> 00:06:50,940
+as 7th 9th 11th and 13th levels you can
+ 
+
+329
+00:06:50,940 --> 00:06:52,969
+as 7th 9th 11th and 13th levels you can
+increase the proficiency rank of one
+
+330
+00:06:52,969 --> 00:06:52,979
+increase the proficiency rank of one
+ 
+
+331
+00:06:52,979 --> 00:06:55,969
+increase the proficiency rank of one
+skill by one step to a maximum of Master
+
+332
+00:06:55,969 --> 00:06:55,979
+skill by one step to a maximum of Master
+ 
+
+333
+00:06:55,979 --> 00:06:59,450
+skill by one step to a maximum of Master
+proficiency and at 15th level this cap
+
+334
+00:06:59,450 --> 00:06:59,460
+proficiency and at 15th level this cap
+ 
+
+335
+00:06:59,460 --> 00:07:01,670
+proficiency and at 15th level this cap
+is removed and skills may have their
+
+336
+00:07:01,670 --> 00:07:01,680
+is removed and skills may have their
+ 
+
+337
+00:07:01,680 --> 00:07:03,650
+is removed and skills may have their
+proficiency ranks raised as high as
+
+338
+00:07:03,650 --> 00:07:03,660
+proficiency ranks raised as high as
+ 
+
+339
+00:07:03,660 --> 00:07:05,689
+proficiency ranks raised as high as
+legendary
+
+340
+00:07:05,689 --> 00:07:05,699
+legendary
+ 
+
+341
+00:07:05,699 --> 00:07:08,809
+legendary
+many actions within the game require a
+
+342
+00:07:08,809 --> 00:07:08,819
+many actions within the game require a
+ 
+
+343
+00:07:08,819 --> 00:07:11,510
+many actions within the game require a
+minimum proficiency rank for skills
+
+344
+00:07:11,510 --> 00:07:11,520
+minimum proficiency rank for skills
+ 
+
+345
+00:07:11,520 --> 00:07:13,610
+minimum proficiency rank for skills
+these requirements are listed within the
+
+346
+00:07:13,610 --> 00:07:13,620
+these requirements are listed within the
+ 
+
+347
+00:07:13,620 --> 00:07:16,249
+these requirements are listed within the
+skill descriptions as well as on table 4
+
+348
+00:07:16,249 --> 00:07:16,259
+skill descriptions as well as on table 4
+ 
+
+349
+00:07:16,259 --> 00:07:20,689
+skill descriptions as well as on table 4
+1 on page 235. skills themselves are not
+
+350
+00:07:20,689 --> 00:07:20,699
+1 on page 235. skills themselves are not
+ 
+
+351
+00:07:20,699 --> 00:07:22,550
+1 on page 235. skills themselves are not
+typically gated behind a proficiency
+
+352
+00:07:22,550 --> 00:07:22,560
+typically gated behind a proficiency
+ 
+
+353
+00:07:22,560 --> 00:07:25,430
+typically gated behind a proficiency
+requirement but different skill actions
+
+354
+00:07:25,430 --> 00:07:25,440
+requirement but different skill actions
+ 
+
+355
+00:07:25,440 --> 00:07:28,309
+requirement but different skill actions
+are using the thievery skill as an
+
+356
+00:07:28,309 --> 00:07:28,319
+are using the thievery skill as an
+ 
+
+357
+00:07:28,319 --> 00:07:31,129
+are using the thievery skill as an
+example anyone can use the palm and
+
+358
+00:07:31,129 --> 00:07:31,139
+example anyone can use the palm and
+ 
+
+359
+00:07:31,139 --> 00:07:33,469
+example anyone can use the palm and
+object in steel actions because they do
+
+360
+00:07:33,469 --> 00:07:33,479
+object in steel actions because they do
+ 
+
+361
+00:07:33,479 --> 00:07:36,409
+object in steel actions because they do
+not state that they require training but
+
+362
+00:07:36,409 --> 00:07:36,419
+not state that they require training but
+ 
+
+363
+00:07:36,419 --> 00:07:38,629
+not state that they require training but
+only people with trained proficiency are
+
+364
+00:07:38,629 --> 00:07:38,639
+only people with trained proficiency are
+ 
+
+365
+00:07:38,639 --> 00:07:41,150
+only people with trained proficiency are
+better in thievery can use the disable a
+
+366
+00:07:41,150 --> 00:07:41,160
+better in thievery can use the disable a
+ 
+
+367
+00:07:41,160 --> 00:07:44,510
+better in thievery can use the disable a
+device and pick a lock actions this is
+
+368
+00:07:44,510 --> 00:07:44,520
+device and pick a lock actions this is
+ 
+
+369
+00:07:44,520 --> 00:07:45,950
+device and pick a lock actions this is
+further spelled out in the skill
+
+370
+00:07:45,950 --> 00:07:45,960
+further spelled out in the skill
+ 
+
+371
+00:07:45,960 --> 00:07:48,529
+further spelled out in the skill
+descriptions where we see that it has a
+
+372
+00:07:48,529 --> 00:07:48,539
+descriptions where we see that it has a
+ 
+
+373
+00:07:48,539 --> 00:07:51,110
+descriptions where we see that it has a
+thievery trained actions heading other
+
+374
+00:07:51,110 --> 00:07:51,120
+thievery trained actions heading other
+ 
+
+375
+00:07:51,120 --> 00:07:53,210
+thievery trained actions heading other
+actions throughout the game may also be
+
+376
+00:07:53,210 --> 00:07:53,220
+actions throughout the game may also be
+ 
+
+377
+00:07:53,220 --> 00:07:55,909
+actions throughout the game may also be
+restricted by proficiency rank this is
+
+378
+00:07:55,909 --> 00:07:55,919
+restricted by proficiency rank this is
+ 
+
+379
+00:07:55,919 --> 00:07:58,070
+restricted by proficiency rank this is
+usually denoted with the rank either
+
+380
+00:07:58,070 --> 00:07:58,080
+usually denoted with the rank either
+ 
+
+381
+00:07:58,080 --> 00:08:00,230
+usually denoted with the rank either
+trained expert master or a legendary
+
+382
+00:08:00,230 --> 00:08:00,240
+trained expert master or a legendary
+ 
+
+383
+00:08:00,240 --> 00:08:03,589
+trained expert master or a legendary
+within parentheses for example electric
+
+384
+00:08:03,589 --> 00:08:03,599
+within parentheses for example electric
+ 
+
+385
+00:08:03,599 --> 00:08:06,110
+within parentheses for example electric
+Lech Rune is a trap that can be placed
+
+386
+00:08:06,110 --> 00:08:06,120
+Lech Rune is a trap that can be placed
+ 
+
+387
+00:08:06,120 --> 00:08:08,990
+Lech Rune is a trap that can be placed
+on doors next to the disable entry
+
+388
+00:08:08,990 --> 00:08:09,000
+on doors next to the disable entry
+ 
+
+389
+00:08:09,000 --> 00:08:12,830
+on doors next to the disable entry
+within a stat block we see it says dc20
+
+390
+00:08:12,830 --> 00:08:12,840
+within a stat block we see it says dc20
+ 
+
+391
+00:08:12,840 --> 00:08:16,089
+within a stat block we see it says dc20
+thievery and has expert in parentheses
+
+392
+00:08:16,089 --> 00:08:16,099
+thievery and has expert in parentheses
+ 
+
+393
+00:08:16,099 --> 00:08:19,070
+thievery and has expert in parentheses
+this means you must have at least expert
+
+394
+00:08:19,070 --> 00:08:19,080
+this means you must have at least expert
+ 
+
+395
+00:08:19,080 --> 00:08:21,710
+this means you must have at least expert
+Proficiency in thievery to succeed at
+
+396
+00:08:21,710 --> 00:08:21,720
+Proficiency in thievery to succeed at
+ 
+
+397
+00:08:21,720 --> 00:08:24,589
+Proficiency in thievery to succeed at
+disabling this trap although the disable
+
+398
+00:08:24,589 --> 00:08:24,599
+disabling this trap although the disable
+ 
+
+399
+00:08:24,599 --> 00:08:27,589
+disabling this trap although the disable
+a device action is listed as requiring
+
+400
+00:08:27,589 --> 00:08:27,599
+a device action is listed as requiring
+ 
+
+401
+00:08:27,599 --> 00:08:30,290
+a device action is listed as requiring
+trained proficiency this notation of
+
+402
+00:08:30,290 --> 00:08:30,300
+trained proficiency this notation of
+ 
+
+403
+00:08:30,300 --> 00:08:34,190
+trained proficiency this notation of
+bumps that requirement up to expert
+
+404
+00:08:34,190 --> 00:08:34,200
+bumps that requirement up to expert
+ 
+
+405
+00:08:34,200 --> 00:08:35,449
+bumps that requirement up to expert
+this should give you a decent
+
+406
+00:08:35,449 --> 00:08:35,459
+this should give you a decent
+ 
+
+407
+00:08:35,459 --> 00:08:37,610
+this should give you a decent
+understanding of proficiency if you have
+
+408
+00:08:37,610 --> 00:08:37,620
+understanding of proficiency if you have
+ 
+
+409
+00:08:37,620 --> 00:08:39,290
+understanding of proficiency if you have
+any questions about this video please
+
+410
+00:08:39,290 --> 00:08:39,300
+any questions about this video please
+ 
+
+411
+00:08:39,300 --> 00:08:41,930
+any questions about this video please
+leave them in the comments below and as
+
+412
+00:08:41,930 --> 00:08:41,940
+leave them in the comments below and as
+ 
+
+413
+00:08:41,940 --> 00:08:43,490
+leave them in the comments below and as
+always I want to take just a brief
+
+414
+00:08:43,490 --> 00:08:43,500
+always I want to take just a brief
+ 
+
+415
+00:08:43,500 --> 00:08:45,110
+always I want to take just a brief
+moment to thank everybody out there who
+
+416
+00:08:45,110 --> 00:08:45,120
+moment to thank everybody out there who
+ 
+
+417
+00:08:45,120 --> 00:08:47,329
+moment to thank everybody out there who
+supports this channel whether that be by
+
+418
+00:08:47,329 --> 00:08:47,339
+supports this channel whether that be by
+ 
+
+419
+00:08:47,339 --> 00:08:49,130
+supports this channel whether that be by
+clicking the like button subscribing to
+
+420
+00:08:49,130 --> 00:08:49,140
+clicking the like button subscribing to
+ 
+
+421
+00:08:49,140 --> 00:08:50,930
+clicking the like button subscribing to
+the channel subscribing to the patreon
+
+422
+00:08:50,930 --> 00:08:50,940
+the channel subscribing to the patreon
+ 
+
+423
+00:08:50,940 --> 00:08:52,850
+the channel subscribing to the patreon
+buying a super thanks I greatly
+
+424
+00:08:52,850 --> 00:08:52,860
+buying a super thanks I greatly
+ 
+
+425
+00:08:52,860 --> 00:08:55,370
+buying a super thanks I greatly
+appreciate all of your support and with
+
+426
+00:08:55,370 --> 00:08:55,380
+appreciate all of your support and with
+ 
+
+427
+00:08:55,380 --> 00:08:57,230
+appreciate all of your support and with
+that thanks for watching take care and
+
+428
+00:08:57,230 --> 00:08:57,240
+that thanks for watching take care and
+ 
+
+429
+00:08:57,240 --> 00:09:01,200
+that thanks for watching take care and
+happy gaming foreign
+

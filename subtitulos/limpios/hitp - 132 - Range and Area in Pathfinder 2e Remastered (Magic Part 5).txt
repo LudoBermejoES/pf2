@@ -1,0 +1,35 @@
+Hello and welcome to Magic and Pathfinder second edition remastered part five range and area.
+
+Each spell's description has a line that displays its range and targets. When a spell has a listed range, its effects can only manifest within that listed space. A spell with a range of touch requires the caster to touch the target with some part of their hand, even if that hand is covered in a glove or holding something. So, the spell's range is usually the same as their unarmed attack range, 5T for small and medium creatures, and 10 ft or longer for creatures that are at least size large.
+
+The act of touching itself does not require any rolls, but the spells often allow the target to make a save or require the caster to make a spell attack roll.
+
+The range might also be listed as an area such as a burst, cone, imination, or line. Note that for each of these, I will provide some explanation for how to draw the area yourself. But remember, you can always use the templates found on page 429 of player core 1 if that's easier. When casting a spell with a burst area, you select an intersection of squares within the spell's listed range and then draw a number of feet away from that point in all directions.
+
+So, a 5-ft burst is the same as a 2x two square area. And a 10-ft burst would look like this. You select an intersection and then all squares within 10 ft of that point. Remember, alternating diagonal squares count as 10 ft. So, a 10-ft burst will not hit a target that is two squares away diagonally.
+
+Cone areas can be a little tricky. When casting a spell with a cone area, you select either a corner or intersection of squares like you would with a burst, or you can select the entire side of one of your squares. In both cases, the caster must be adjacent to the point of origin without standing inside the area of the cone. And the area will expand the further it moves from the caster in one quarter direction. When drawing a cone area diagonally, you select one quarter of the square you occupy and then choose one quarter direction and all squares within range of that point in that direction are affected by the spell. Let's illustrate that with an example. Ezren is surrounded by goblins and wants to target as many as possible with breathe fire, which is a 15 ft cone. His first option is to draw the cone diagonally. In this case, he will choose one of the corners of the square he occupies, and all squares within 15 feet of that point in one quarter direction will be hit by the spell. Or another way to think of it is if you're making a 15- ft cone, 15 ft is three squares. So, start by drawing two three square lines at a 90° angle from your selected corner first, and then fill in the middle square so that all squares within 15 ft from the point of origin are affected.
+
+That's drawing a cone diagonally. The other way to draw a cone is orthogonal.
+
+In this case, you don't select a corner of your square, but instead choose an entire side of your square. And the design of these cones, unfortunately, becomes more complex. 15- ft cones are easy enough. the area expands outward from you and hits a 3x3 area centered on the side of the square that you select except for the other two squares that are adjacent to you. In this example, only the gold squares are hit by breathe fire. The two other adjacent squares are safe. Imagine it's a cone that's widening as it moves away from you. But the design of orthogonal cones becomes pretty complex beyond 15 feet because 30 foot and 60 foot orthogonal cones actually begin decreasing in size after a certain point whereas diagonal cones do not do that. So I would recommend you bookmark page 429 of player core 1 and refer there when drawing orthogonal cones that are greater than 15 ft.
+
+Next are iminations. And these are thankfully very simple. They work like bursts except instead of choosing an intersection of squares, the area originates from you. So a 5-ft imination affects every square adjacent to you.
+
+And a 10-ft imination hits everything within 10 ft of you. And note that the person who cast the spell and is standing in the center of his area gets to choose whether they want to be affected by that spell or not.
+
+And last are lines. Lines, unfortunately, are more complicated than you might think. A line is 5 ft wide and travels in one direction for the number of feet that's listed. You start by selecting the first square and then select an ending square. that is the number of listed feet away and then connect those squares with the line moving in one direction. Meaning that every square the line passes through must be both further from the point of origin and closer to the final square than the square before it. The line can move through squares diagonally as long as it's always diagonally in the same direction. And those diagonal breaks should be as equidistant as possible.
+
+Basically, this means a 30-foot line might look like this, or like this, or it might even look like this.
+
+And believe it or not, a 30foot line could look like this, or even like this.
+
+In my opinion, as long as each square of the line is connected and each square is further from the starting square and closer to the final square, it should count. Or if you really want to keep life easy, just stick to lines that are perfectly straight orthagonally or diagonally.
+
+And one more note about area effects. If the spell originates from the caster, then it only has an area, but other spells might include both a range and an area, such as with fireball. In this case, it has a range of 500 ft and affects a 20ft burst area. What this means is the intersection of squares that is chosen as the point of origin for the spell must be within 500 ft. 500 ft is 100 squares which is way too much for me to fit on the screen here. But let's just say that this line marks 500 ft from the wizard who is casting fireball. They can target any intersection or corner of squares below this line. Any area above the line is out of range, but only the point of origin needs to be within range. So they could target this intersection, which would cause a 20 ft burst area and affect all targets within 20 ft of the targeted intersection, even those squares that are beyond the 500 ft range from the caster.
+
+This video has served as a foundation on spell-casting mechanics such as range and area. In the next video of this series, we'll explore the rules for casting spells, including concepts such as targeting spells, line of effect, disrupting spells, spell attack roles, and saving throws. If you have any questions, please leave them in the comments below. And as always, I want to take a brief moment to thank everyone who supports me and this channel.
+
+Whether you do that by liking the video, leaving a comment, subscribing to the channel, or subscribing to the Patreon, I appreciate everything you folks do to support me. And with that, thanks for watching. Take care and happy gaming.
+
+>> [music]

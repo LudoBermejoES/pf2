@@ -1,0 +1,3055 @@
+1
+00:00:00,780 --> 00:00:03,230
+
+hello and welcome to basics for gamers
+
+2
+00:00:03,230 --> 00:00:03,240
+hello and welcome to basics for gamers
+ 
+
+3
+00:00:03,240 --> 00:00:05,960
+hello and welcome to basics for gamers
+presents delay and ready and Pathfinder
+
+4
+00:00:05,960 --> 00:00:05,970
+presents delay and ready and Pathfinder
+ 
+
+5
+00:00:05,970 --> 00:00:09,080
+presents delay and ready and Pathfinder
+2nd edition in the previous course we
+
+6
+00:00:09,080 --> 00:00:09,090
+2nd edition in the previous course we
+ 
+
+7
+00:00:09,090 --> 00:00:11,120
+2nd edition in the previous course we
+discussed how initiative is used to
+
+8
+00:00:11,120 --> 00:00:11,130
+discussed how initiative is used to
+ 
+
+9
+00:00:11,130 --> 00:00:12,709
+discussed how initiative is used to
+determine the order in which characters
+
+10
+00:00:12,709 --> 00:00:12,719
+determine the order in which characters
+ 
+
+11
+00:00:12,719 --> 00:00:15,560
+determine the order in which characters
+act during encounters and this video is
+
+12
+00:00:15,560 --> 00:00:15,570
+act during encounters and this video is
+ 
+
+13
+00:00:15,570 --> 00:00:17,210
+act during encounters and this video is
+going to follow up on that by discussing
+
+14
+00:00:17,210 --> 00:00:17,220
+going to follow up on that by discussing
+ 
+
+15
+00:00:17,220 --> 00:00:19,279
+going to follow up on that by discussing
+two of the most common ways that
+
+16
+00:00:19,279 --> 00:00:19,289
+two of the most common ways that
+ 
+
+17
+00:00:19,289 --> 00:00:21,200
+two of the most common ways that
+characters can adjust when they act
+
+18
+00:00:21,200 --> 00:00:21,210
+characters can adjust when they act
+ 
+
+19
+00:00:21,210 --> 00:00:24,480
+characters can adjust when they act
+within that order
+
+20
+00:00:24,480 --> 00:00:24,490
+
+ 
+
+21
+00:00:24,490 --> 00:00:26,790
+
+the first is by using the delay action
+
+22
+00:00:26,790 --> 00:00:26,800
+the first is by using the delay action
+ 
+
+23
+00:00:26,800 --> 00:00:29,820
+the first is by using the delay action
+at the start of a player's turn if they
+
+24
+00:00:29,820 --> 00:00:29,830
+at the start of a player's turn if they
+ 
+
+25
+00:00:29,830 --> 00:00:32,250
+at the start of a player's turn if they
+don't know what they want to do or if
+
+26
+00:00:32,250 --> 00:00:32,260
+don't know what they want to do or if
+ 
+
+27
+00:00:32,260 --> 00:00:34,050
+don't know what they want to do or if
+they believe it would be better if one
+
+28
+00:00:34,050 --> 00:00:34,060
+they believe it would be better if one
+ 
+
+29
+00:00:34,060 --> 00:00:36,360
+they believe it would be better if one
+of their allies went before them then
+
+30
+00:00:36,360 --> 00:00:36,370
+of their allies went before them then
+ 
+
+31
+00:00:36,370 --> 00:00:38,490
+of their allies went before them then
+they may choose to delay their action
+
+32
+00:00:38,490 --> 00:00:38,500
+they may choose to delay their action
+ 
+
+33
+00:00:38,500 --> 00:00:41,430
+they may choose to delay their action
+when a player delays the essentially
+
+34
+00:00:41,430 --> 00:00:41,440
+when a player delays the essentially
+ 
+
+35
+00:00:41,440 --> 00:00:43,500
+when a player delays the essentially
+step aside as far as initiative is
+
+36
+00:00:43,500 --> 00:00:43,510
+step aside as far as initiative is
+ 
+
+37
+00:00:43,510 --> 00:00:45,979
+step aside as far as initiative is
+concerned and allow others to pass them
+
+38
+00:00:45,979 --> 00:00:45,989
+concerned and allow others to pass them
+ 
+
+39
+00:00:45,989 --> 00:00:48,570
+concerned and allow others to pass them
+after each other character finishes
+
+40
+00:00:48,570 --> 00:00:48,580
+after each other character finishes
+ 
+
+41
+00:00:48,580 --> 00:00:50,670
+after each other character finishes
+their turn the delaying player may
+
+42
+00:00:50,670 --> 00:00:50,680
+their turn the delaying player may
+ 
+
+43
+00:00:50,680 --> 00:00:52,229
+their turn the delaying player may
+announce that they are done waiting and
+
+44
+00:00:52,229 --> 00:00:52,239
+announce that they are done waiting and
+ 
+
+45
+00:00:52,239 --> 00:00:54,420
+announce that they are done waiting and
+wish to jump back into the initiative
+
+46
+00:00:54,420 --> 00:00:54,430
+wish to jump back into the initiative
+ 
+
+47
+00:00:54,430 --> 00:00:57,420
+wish to jump back into the initiative
+order there at that time they take their
+
+48
+00:00:57,420 --> 00:00:57,430
+order there at that time they take their
+ 
+
+49
+00:00:57,430 --> 00:01:00,420
+order there at that time they take their
+entire turn meaning all three of their
+
+50
+00:01:00,420 --> 00:01:00,430
+entire turn meaning all three of their
+ 
+
+51
+00:01:00,430 --> 00:01:03,330
+entire turn meaning all three of their
+actions and from that point forward for
+
+52
+00:01:03,330 --> 00:01:03,340
+actions and from that point forward for
+ 
+
+53
+00:01:03,340 --> 00:01:05,370
+actions and from that point forward for
+the rest of the encounter they use this
+
+54
+00:01:05,370 --> 00:01:05,380
+the rest of the encounter they use this
+ 
+
+55
+00:01:05,380 --> 00:01:08,060
+the rest of the encounter they use this
+new placement in the initiative order
+
+56
+00:01:08,060 --> 00:01:08,070
+new placement in the initiative order
+ 
+
+57
+00:01:08,070 --> 00:01:10,650
+new placement in the initiative order
+essentially what this means is at the
+
+58
+00:01:10,650 --> 00:01:10,660
+essentially what this means is at the
+ 
+
+59
+00:01:10,660 --> 00:01:12,810
+essentially what this means is at the
+start of every turn a player can
+
+60
+00:01:12,810 --> 00:01:12,820
+start of every turn a player can
+ 
+
+61
+00:01:12,820 --> 00:01:15,240
+start of every turn a player can
+voluntarily lower their initiative score
+
+62
+00:01:15,240 --> 00:01:15,250
+voluntarily lower their initiative score
+ 
+
+63
+00:01:15,250 --> 00:01:18,540
+voluntarily lower their initiative score
+they can always move backwards and
+
+64
+00:01:18,540 --> 00:01:18,550
+they can always move backwards and
+ 
+
+65
+00:01:18,550 --> 00:01:20,760
+they can always move backwards and
+initiative but have to live with that
+
+66
+00:01:20,760 --> 00:01:20,770
+initiative but have to live with that
+ 
+
+67
+00:01:20,770 --> 00:01:23,460
+initiative but have to live with that
+new place in initiative for the rest of
+
+68
+00:01:23,460 --> 00:01:23,470
+new place in initiative for the rest of
+ 
+
+69
+00:01:23,470 --> 00:01:26,100
+new place in initiative for the rest of
+the combat unless they choose to delay
+
+70
+00:01:26,100 --> 00:01:26,110
+the combat unless they choose to delay
+ 
+
+71
+00:01:26,110 --> 00:01:28,080
+the combat unless they choose to delay
+yet again and keep moving further
+
+72
+00:01:28,080 --> 00:01:28,090
+yet again and keep moving further
+ 
+
+73
+00:01:28,090 --> 00:01:31,380
+yet again and keep moving further
+backwards and if they delay all the way
+
+74
+00:01:31,380 --> 00:01:31,390
+backwards and if they delay all the way
+ 
+
+75
+00:01:31,390 --> 00:01:32,969
+backwards and if they delay all the way
+to the end of the round
+
+76
+00:01:32,969 --> 00:01:32,979
+to the end of the round
+ 
+
+77
+00:01:32,979 --> 00:01:35,850
+to the end of the round
+they may continue to laying into the
+
+78
+00:01:35,850 --> 00:01:35,860
+they may continue to laying into the
+ 
+
+79
+00:01:35,860 --> 00:01:38,430
+they may continue to laying into the
+start of the next round if they delay
+
+80
+00:01:38,430 --> 00:01:38,440
+start of the next round if they delay
+ 
+
+81
+00:01:38,440 --> 00:01:41,190
+start of the next round if they delay
+for an entire round meaning that they
+
+82
+00:01:41,190 --> 00:01:41,200
+for an entire round meaning that they
+ 
+
+83
+00:01:41,200 --> 00:01:43,140
+for an entire round meaning that they
+are still outside of the initiative
+
+84
+00:01:43,140 --> 00:01:43,150
+are still outside of the initiative
+ 
+
+85
+00:01:43,150 --> 00:01:45,690
+are still outside of the initiative
+order when their next turn comes around
+
+86
+00:01:45,690 --> 00:01:45,700
+order when their next turn comes around
+ 
+
+87
+00:01:45,700 --> 00:01:48,210
+order when their next turn comes around
+they immediately stop delaying are
+
+88
+00:01:48,210 --> 00:01:48,220
+they immediately stop delaying are
+ 
+
+89
+00:01:48,220 --> 00:01:50,789
+they immediately stop delaying are
+placed back into initiative order at
+
+90
+00:01:50,789 --> 00:01:50,799
+placed back into initiative order at
+ 
+
+91
+00:01:50,799 --> 00:01:53,520
+placed back into initiative order at
+their usual spot and their next turn
+
+92
+00:01:53,520 --> 00:01:53,530
+their usual spot and their next turn
+ 
+
+93
+00:01:53,530 --> 00:01:56,580
+their usual spot and their next turn
+begins when this happens they take their
+
+94
+00:01:56,580 --> 00:01:56,590
+begins when this happens they take their
+ 
+
+95
+00:01:56,590 --> 00:01:59,730
+begins when this happens they take their
+turn as usual with three actions they do
+
+96
+00:01:59,730 --> 00:01:59,740
+turn as usual with three actions they do
+ 
+
+97
+00:01:59,740 --> 00:02:02,700
+turn as usual with three actions they do
+not get to take six actions as the three
+
+98
+00:02:02,700 --> 00:02:02,710
+not get to take six actions as the three
+ 
+
+99
+00:02:02,710 --> 00:02:04,710
+not get to take six actions as the three
+from the previous round have been lost
+
+100
+00:02:04,710 --> 00:02:04,720
+from the previous round have been lost
+ 
+
+101
+00:02:04,720 --> 00:02:07,940
+from the previous round have been lost
+in their starting a new turn fresh
+
+102
+00:02:07,940 --> 00:02:07,950
+in their starting a new turn fresh
+ 
+
+103
+00:02:07,950 --> 00:02:11,130
+in their starting a new turn fresh
+that's it in a nutshell but there are a
+
+104
+00:02:11,130 --> 00:02:11,140
+that's it in a nutshell but there are a
+ 
+
+105
+00:02:11,140 --> 00:02:13,140
+that's it in a nutshell but there are a
+few other specifics that are worth
+
+106
+00:02:13,140 --> 00:02:13,150
+few other specifics that are worth
+ 
+
+107
+00:02:13,150 --> 00:02:15,750
+few other specifics that are worth
+mentioning first when you declare that
+
+108
+00:02:15,750 --> 00:02:15,760
+mentioning first when you declare that
+ 
+
+109
+00:02:15,760 --> 00:02:17,970
+mentioning first when you declare that
+you are delaying you effectively step
+
+110
+00:02:17,970 --> 00:02:17,980
+you are delaying you effectively step
+ 
+
+111
+00:02:17,980 --> 00:02:20,340
+you are delaying you effectively step
+out of the initiative order while doing
+
+112
+00:02:20,340 --> 00:02:20,350
+out of the initiative order while doing
+ 
+
+113
+00:02:20,350 --> 00:02:24,150
+out of the initiative order while doing
+this you cannot take any reactions so if
+
+114
+00:02:24,150 --> 00:02:24,160
+this you cannot take any reactions so if
+ 
+
+115
+00:02:24,160 --> 00:02:25,800
+this you cannot take any reactions so if
+an enemy does something that would
+
+116
+00:02:25,800 --> 00:02:25,810
+an enemy does something that would
+ 
+
+117
+00:02:25,810 --> 00:02:27,810
+an enemy does something that would
+normally provoke one of your reactions
+
+118
+00:02:27,810 --> 00:02:27,820
+normally provoke one of your reactions
+ 
+
+119
+00:02:27,820 --> 00:02:30,330
+normally provoke one of your reactions
+while you are delaying then you're out
+
+120
+00:02:30,330 --> 00:02:30,340
+while you are delaying then you're out
+ 
+
+121
+00:02:30,340 --> 00:02:32,069
+while you are delaying then you're out
+of look you cannot respond to that
+
+122
+00:02:32,069 --> 00:02:32,079
+of look you cannot respond to that
+ 
+
+123
+00:02:32,079 --> 00:02:33,900
+of look you cannot respond to that
+trigger with your reaction
+
+124
+00:02:33,900 --> 00:02:33,910
+trigger with your reaction
+ 
+
+125
+00:02:33,910 --> 00:02:35,970
+trigger with your reaction
+you have to wait until you finish
+
+126
+00:02:35,970 --> 00:02:35,980
+you have to wait until you finish
+ 
+
+127
+00:02:35,980 --> 00:02:38,550
+you have to wait until you finish
+delaying and move back into the proper
+
+128
+00:02:38,550 --> 00:02:38,560
+delaying and move back into the proper
+ 
+
+129
+00:02:38,560 --> 00:02:40,890
+delaying and move back into the proper
+initiative order before you can use your
+
+130
+00:02:40,890 --> 00:02:40,900
+initiative order before you can use your
+ 
+
+131
+00:02:40,900 --> 00:02:43,170
+initiative order before you can use your
+reaction which would then require that
+
+132
+00:02:43,170 --> 00:02:43,180
+reaction which would then require that
+ 
+
+133
+00:02:43,180 --> 00:02:46,800
+reaction which would then require that
+trigger to happen again also is very
+
+134
+00:02:46,800 --> 00:02:46,810
+trigger to happen again also is very
+ 
+
+135
+00:02:46,810 --> 00:02:48,960
+trigger to happen again also is very
+important to know that any damage or
+
+136
+00:02:48,960 --> 00:02:48,970
+important to know that any damage or
+ 
+
+137
+00:02:48,970 --> 00:02:51,270
+important to know that any damage or
+other negative effects that normally
+
+138
+00:02:51,270 --> 00:02:51,280
+other negative effects that normally
+ 
+
+139
+00:02:51,280 --> 00:02:54,230
+other negative effects that normally
+occur at the start or end of your turn
+
+140
+00:02:54,230 --> 00:02:54,240
+occur at the start or end of your turn
+ 
+
+141
+00:02:54,240 --> 00:02:56,730
+occur at the start or end of your turn
+instead happen immediately when you
+
+142
+00:02:56,730 --> 00:02:56,740
+instead happen immediately when you
+ 
+
+143
+00:02:56,740 --> 00:02:58,500
+instead happen immediately when you
+declare that you are using the delay
+
+144
+00:02:58,500 --> 00:02:58,510
+declare that you are using the delay
+ 
+
+145
+00:02:58,510 --> 00:03:01,290
+declare that you are using the delay
+action in other words Oh damage from
+
+146
+00:03:01,290 --> 00:03:01,300
+action in other words Oh damage from
+ 
+
+147
+00:03:01,300 --> 00:03:04,170
+action in other words Oh damage from
+poison or other persistent effects that
+
+148
+00:03:04,170 --> 00:03:04,180
+poison or other persistent effects that
+ 
+
+149
+00:03:04,180 --> 00:03:06,420
+poison or other persistent effects that
+occurs when you step out of initiative
+
+150
+00:03:06,420 --> 00:03:06,430
+occurs when you step out of initiative
+ 
+
+151
+00:03:06,430 --> 00:03:08,610
+occurs when you step out of initiative
+order not when you step back into
+
+152
+00:03:08,610 --> 00:03:08,620
+order not when you step back into
+ 
+
+153
+00:03:08,620 --> 00:03:11,580
+order not when you step back into
+initiative order this is to prevent
+
+154
+00:03:11,580 --> 00:03:11,590
+initiative order this is to prevent
+ 
+
+155
+00:03:11,590 --> 00:03:13,440
+initiative order this is to prevent
+players from avoiding negative
+
+156
+00:03:13,440 --> 00:03:13,450
+players from avoiding negative
+ 
+
+157
+00:03:13,450 --> 00:03:16,170
+players from avoiding negative
+consequences by delaying in hopes that
+
+158
+00:03:16,170 --> 00:03:16,180
+consequences by delaying in hopes that
+ 
+
+159
+00:03:16,180 --> 00:03:18,330
+consequences by delaying in hopes that
+one of their allies can aid them during
+
+160
+00:03:18,330 --> 00:03:18,340
+one of their allies can aid them during
+ 
+
+161
+00:03:18,340 --> 00:03:21,720
+one of their allies can aid them during
+that period poison isn't that polite is
+
+162
+00:03:21,720 --> 00:03:21,730
+that period poison isn't that polite is
+ 
+
+163
+00:03:21,730 --> 00:03:24,810
+that period poison isn't that polite is
+not going to wait for you now that
+
+164
+00:03:24,810 --> 00:03:24,820
+not going to wait for you now that
+ 
+
+165
+00:03:24,820 --> 00:03:27,270
+not going to wait for you now that
+covers negative effects that occur at
+
+166
+00:03:27,270 --> 00:03:27,280
+covers negative effects that occur at
+ 
+
+167
+00:03:27,280 --> 00:03:29,070
+covers negative effects that occur at
+the start or end of your turn
+
+168
+00:03:29,070 --> 00:03:29,080
+the start or end of your turn
+ 
+
+169
+00:03:29,080 --> 00:03:31,620
+the start or end of your turn
+however if a negative effect is
+
+170
+00:03:31,620 --> 00:03:31,630
+however if a negative effect is
+ 
+
+171
+00:03:31,630 --> 00:03:34,560
+however if a negative effect is
+scheduled to end at the end of your turn
+
+172
+00:03:34,560 --> 00:03:34,570
+scheduled to end at the end of your turn
+ 
+
+173
+00:03:34,570 --> 00:03:36,900
+scheduled to end at the end of your turn
+that still doesn't happen until after
+
+174
+00:03:36,900 --> 00:03:36,910
+that still doesn't happen until after
+ 
+
+175
+00:03:36,910 --> 00:03:38,820
+that still doesn't happen until after
+you've finished delaying and complete
+
+176
+00:03:38,820 --> 00:03:38,830
+you've finished delaying and complete
+ 
+
+177
+00:03:38,830 --> 00:03:41,700
+you've finished delaying and complete
+your turn again you cannot avoid
+
+178
+00:03:41,700 --> 00:03:41,710
+your turn again you cannot avoid
+ 
+
+179
+00:03:41,710 --> 00:03:44,670
+your turn again you cannot avoid
+negative consequences by using the delay
+
+180
+00:03:44,670 --> 00:03:44,680
+negative consequences by using the delay
+ 
+
+181
+00:03:44,680 --> 00:03:47,700
+negative consequences by using the delay
+action and likewise you can't make a
+
+182
+00:03:47,700 --> 00:03:47,710
+action and likewise you can't make a
+ 
+
+183
+00:03:47,710 --> 00:03:49,740
+action and likewise you can't make a
+beneficial effect less longer than
+
+184
+00:03:49,740 --> 00:03:49,750
+beneficial effect less longer than
+ 
+
+185
+00:03:49,750 --> 00:03:52,170
+beneficial effect less longer than
+intended by delaying although negative
+
+186
+00:03:52,170 --> 00:03:52,180
+intended by delaying although negative
+ 
+
+187
+00:03:52,180 --> 00:03:53,820
+intended by delaying although negative
+effects that are scheduled to cease at
+
+188
+00:03:53,820 --> 00:03:53,830
+effects that are scheduled to cease at
+ 
+
+189
+00:03:53,830 --> 00:03:54,990
+effects that are scheduled to cease at
+the end of your turn
+
+190
+00:03:54,990 --> 00:03:55,000
+the end of your turn
+ 
+
+191
+00:03:55,000 --> 00:03:57,270
+the end of your turn
+continue working after you finish the
+
+192
+00:03:57,270 --> 00:03:57,280
+continue working after you finish the
+ 
+
+193
+00:03:57,280 --> 00:04:00,030
+continue working after you finish the
+lane beneficial effects that are
+
+194
+00:04:00,030 --> 00:04:00,040
+lane beneficial effects that are
+ 
+
+195
+00:04:00,040 --> 00:04:02,250
+lane beneficial effects that are
+scheduled to end at the start or end of
+
+196
+00:04:02,250 --> 00:04:02,260
+scheduled to end at the start or end of
+ 
+
+197
+00:04:02,260 --> 00:04:04,560
+scheduled to end at the start or end of
+your turn and when you declare the short
+
+198
+00:04:04,560 --> 00:04:04,570
+your turn and when you declare the short
+ 
+
+199
+00:04:04,570 --> 00:04:06,240
+your turn and when you declare the short
+delaying and stepping out of initiative
+
+200
+00:04:06,240 --> 00:04:06,250
+delaying and stepping out of initiative
+ 
+
+201
+00:04:06,250 --> 00:04:09,080
+delaying and stepping out of initiative
+order just like damage from poison does
+
+202
+00:04:09,080 --> 00:04:09,090
+order just like damage from poison does
+ 
+
+203
+00:04:09,090 --> 00:04:12,300
+order just like damage from poison does
+again you cannot avoid negative effects
+
+204
+00:04:12,300 --> 00:04:12,310
+again you cannot avoid negative effects
+ 
+
+205
+00:04:12,310 --> 00:04:15,330
+again you cannot avoid negative effects
+or prolong beneficial effects by
+
+206
+00:04:15,330 --> 00:04:15,340
+or prolong beneficial effects by
+ 
+
+207
+00:04:15,340 --> 00:04:17,670
+or prolong beneficial effects by
+delaying
+
+208
+00:04:17,670 --> 00:04:17,680
+delaying
+ 
+
+209
+00:04:17,680 --> 00:04:20,999
+delaying
+let's look at an example horse and Sela
+
+210
+00:04:20,999 --> 00:04:21,009
+let's look at an example horse and Sela
+ 
+
+211
+00:04:21,009 --> 00:04:23,249
+let's look at an example horse and Sela
+encounters some zombies horst's
+
+212
+00:04:23,249 --> 00:04:23,259
+encounters some zombies horst's
+ 
+
+213
+00:04:23,259 --> 00:04:26,249
+encounters some zombies horst's
+initiative score 17 the zombies act on
+
+214
+00:04:26,249 --> 00:04:26,259
+initiative score 17 the zombies act on
+ 
+
+215
+00:04:26,259 --> 00:04:29,700
+initiative score 17 the zombies act on
+initiative 13 11 and 10 and Cielo is
+
+216
+00:04:29,700 --> 00:04:29,710
+initiative 13 11 and 10 and Cielo is
+ 
+
+217
+00:04:29,710 --> 00:04:31,909
+initiative 13 11 and 10 and Cielo is
+less in the initiative order with an 8
+
+218
+00:04:31,909 --> 00:04:31,919
+less in the initiative order with an 8
+ 
+
+219
+00:04:31,919 --> 00:04:34,320
+less in the initiative order with an 8
+horse cos hiding and the zombies have
+
+220
+00:04:34,320 --> 00:04:34,330
+horse cos hiding and the zombies have
+ 
+
+221
+00:04:34,330 --> 00:04:36,840
+horse cos hiding and the zombies have
+not detected him he's worried that if he
+
+222
+00:04:36,840 --> 00:04:36,850
+not detected him he's worried that if he
+ 
+
+223
+00:04:36,850 --> 00:04:38,939
+not detected him he's worried that if he
+opens fire with his crossbow at the
+
+224
+00:04:38,939 --> 00:04:38,949
+opens fire with his crossbow at the
+ 
+
+225
+00:04:38,949 --> 00:04:40,920
+opens fire with his crossbow at the
+start of the round who will be overrun
+
+226
+00:04:40,920 --> 00:04:40,930
+start of the round who will be overrun
+ 
+
+227
+00:04:40,930 --> 00:04:43,290
+start of the round who will be overrun
+by zombies it would rather have his big
+
+228
+00:04:43,290 --> 00:04:43,300
+by zombies it would rather have his big
+ 
+
+229
+00:04:43,300 --> 00:04:45,120
+by zombies it would rather have his big
+tanky friend Cielo out in the middle of
+
+230
+00:04:45,120 --> 00:04:45,130
+tanky friend Cielo out in the middle of
+ 
+
+231
+00:04:45,130 --> 00:04:47,279
+tanky friend Cielo out in the middle of
+the fight drawing a ger before he
+
+232
+00:04:47,279 --> 00:04:47,289
+the fight drawing a ger before he
+ 
+
+233
+00:04:47,289 --> 00:04:50,490
+the fight drawing a ger before he
+reveals himself so on the start of his
+
+234
+00:04:50,490 --> 00:04:50,500
+reveals himself so on the start of his
+ 
+
+235
+00:04:50,500 --> 00:04:53,100
+reveals himself so on the start of his
+turn Hirst announces that he is delaying
+
+236
+00:04:53,100 --> 00:04:53,110
+turn Hirst announces that he is delaying
+ 
+
+237
+00:04:53,110 --> 00:04:56,070
+turn Hirst announces that he is delaying
+this is a free action and is available
+
+238
+00:04:56,070 --> 00:04:56,080
+this is a free action and is available
+ 
+
+239
+00:04:56,080 --> 00:04:58,680
+this is a free action and is available
+because it's trigger states the start of
+
+240
+00:04:58,680 --> 00:04:58,690
+because it's trigger states the start of
+ 
+
+241
+00:04:58,690 --> 00:05:01,710
+because it's trigger states the start of
+the users turn and if he was suffering
+
+242
+00:05:01,710 --> 00:05:01,720
+the users turn and if he was suffering
+ 
+
+243
+00:05:01,720 --> 00:05:03,779
+the users turn and if he was suffering
+any effects that occur at the start or
+
+244
+00:05:03,779 --> 00:05:03,789
+any effects that occur at the start or
+ 
+
+245
+00:05:03,789 --> 00:05:06,450
+any effects that occur at the start or
+end of his turn such as damage from
+
+246
+00:05:06,450 --> 00:05:06,460
+end of his turn such as damage from
+ 
+
+247
+00:05:06,460 --> 00:05:08,879
+end of his turn such as damage from
+poison then they would deal their damage
+
+248
+00:05:08,879 --> 00:05:08,889
+poison then they would deal their damage
+ 
+
+249
+00:05:08,889 --> 00:05:10,080
+poison then they would deal their damage
+right now
+
+250
+00:05:10,080 --> 00:05:10,090
+right now
+ 
+
+251
+00:05:10,090 --> 00:05:12,600
+right now
+likewise if he was under the effects of
+
+252
+00:05:12,600 --> 00:05:12,610
+likewise if he was under the effects of
+ 
+
+253
+00:05:12,610 --> 00:05:15,390
+likewise if he was under the effects of
+a beneficial spell that's due to end at
+
+254
+00:05:15,390 --> 00:05:15,400
+a beneficial spell that's due to end at
+ 
+
+255
+00:05:15,400 --> 00:05:17,760
+a beneficial spell that's due to end at
+the start or end of his turn that spell
+
+256
+00:05:17,760 --> 00:05:17,770
+the start or end of his turn that spell
+ 
+
+257
+00:05:17,770 --> 00:05:19,890
+the start or end of his turn that spell
+was cease functioning right now when he
+
+258
+00:05:19,890 --> 00:05:19,900
+was cease functioning right now when he
+ 
+
+259
+00:05:19,900 --> 00:05:22,409
+was cease functioning right now when he
+steps out of initiative order the
+
+260
+00:05:22,409 --> 00:05:22,419
+steps out of initiative order the
+ 
+
+261
+00:05:22,419 --> 00:05:24,150
+steps out of initiative order the
+zombies then take their turns and they
+
+262
+00:05:24,150 --> 00:05:24,160
+zombies then take their turns and they
+ 
+
+263
+00:05:24,160 --> 00:05:26,370
+zombies then take their turns and they
+all attack Cielo because she is the only
+
+264
+00:05:26,370 --> 00:05:26,380
+all attack Cielo because she is the only
+ 
+
+265
+00:05:26,380 --> 00:05:29,430
+all attack Cielo because she is the only
+target they see after each of their
+
+266
+00:05:29,430 --> 00:05:29,440
+target they see after each of their
+ 
+
+267
+00:05:29,440 --> 00:05:31,740
+target they see after each of their
+turns Hirst could announce that he is
+
+268
+00:05:31,740 --> 00:05:31,750
+turns Hirst could announce that he is
+ 
+
+269
+00:05:31,750 --> 00:05:34,110
+turns Hirst could announce that he is
+done delaying and jumping back into the
+
+270
+00:05:34,110 --> 00:05:34,120
+done delaying and jumping back into the
+ 
+
+271
+00:05:34,120 --> 00:05:36,270
+done delaying and jumping back into the
+initiative order but he decides not to
+
+272
+00:05:36,270 --> 00:05:36,280
+initiative order but he decides not to
+ 
+
+273
+00:05:36,280 --> 00:05:39,089
+initiative order but he decides not to
+and instead lists the zombies take all
+
+274
+00:05:39,089 --> 00:05:39,099
+and instead lists the zombies take all
+ 
+
+275
+00:05:39,099 --> 00:05:39,930
+and instead lists the zombies take all
+of their turns
+
+276
+00:05:39,930 --> 00:05:39,940
+of their turns
+ 
+
+277
+00:05:39,940 --> 00:05:43,409
+of their turns
+at this point her skin ounces that he is
+
+278
+00:05:43,409 --> 00:05:43,419
+at this point her skin ounces that he is
+ 
+
+279
+00:05:43,419 --> 00:05:45,870
+at this point her skin ounces that he is
+done delaying and he jumps back into the
+
+280
+00:05:45,870 --> 00:05:45,880
+done delaying and he jumps back into the
+ 
+
+281
+00:05:45,880 --> 00:05:48,480
+done delaying and he jumps back into the
+initiative order he now gets to take his
+
+282
+00:05:48,480 --> 00:05:48,490
+initiative order he now gets to take his
+ 
+
+283
+00:05:48,490 --> 00:05:51,210
+initiative order he now gets to take his
+full turn he gets to take all three
+
+284
+00:05:51,210 --> 00:05:51,220
+full turn he gets to take all three
+ 
+
+285
+00:05:51,220 --> 00:05:54,060
+full turn he gets to take all three
+actions and his new place in initiative
+
+286
+00:05:54,060 --> 00:05:54,070
+actions and his new place in initiative
+ 
+
+287
+00:05:54,070 --> 00:05:57,089
+actions and his new place in initiative
+is right ahead of Cielo and he'll stay
+
+288
+00:05:57,089 --> 00:05:57,099
+is right ahead of Cielo and he'll stay
+ 
+
+289
+00:05:57,099 --> 00:05:58,469
+is right ahead of Cielo and he'll stay
+at this place an initiative for the
+
+290
+00:05:58,469 --> 00:05:58,479
+at this place an initiative for the
+ 
+
+291
+00:05:58,479 --> 00:06:00,570
+at this place an initiative for the
+remainder of the encounter unless he
+
+292
+00:06:00,570 --> 00:06:00,580
+remainder of the encounter unless he
+ 
+
+293
+00:06:00,580 --> 00:06:03,629
+remainder of the encounter unless he
+decides to delay again horse was able to
+
+294
+00:06:03,629 --> 00:06:03,639
+decides to delay again horse was able to
+ 
+
+295
+00:06:03,639 --> 00:06:05,670
+decides to delay again horse was able to
+change his place in initiative by
+
+296
+00:06:05,670 --> 00:06:05,680
+change his place in initiative by
+ 
+
+297
+00:06:05,680 --> 00:06:08,430
+change his place in initiative by
+d'Alene but there is another method he
+
+298
+00:06:08,430 --> 00:06:08,440
+d'Alene but there is another method he
+ 
+
+299
+00:06:08,440 --> 00:06:10,110
+d'Alene but there is another method he
+could use to make sure that he doesn't
+
+300
+00:06:10,110 --> 00:06:10,120
+could use to make sure that he doesn't
+ 
+
+301
+00:06:10,120 --> 00:06:12,689
+could use to make sure that he doesn't
+open fire until after the zombies take
+
+302
+00:06:12,689 --> 00:06:12,699
+open fire until after the zombies take
+ 
+
+303
+00:06:12,699 --> 00:06:14,700
+open fire until after the zombies take
+all of their turns and that would be by
+
+304
+00:06:14,700 --> 00:06:14,710
+all of their turns and that would be by
+ 
+
+305
+00:06:14,710 --> 00:06:18,240
+all of their turns and that would be by
+using the ready action
+
+306
+00:06:18,240 --> 00:06:18,250
+
+ 
+
+307
+00:06:18,250 --> 00:06:20,670
+
+when you use the ready action you are
+
+308
+00:06:20,670 --> 00:06:20,680
+when you use the ready action you are
+ 
+
+309
+00:06:20,680 --> 00:06:22,560
+when you use the ready action you are
+essentially saying that you want to take
+
+310
+00:06:22,560 --> 00:06:22,570
+essentially saying that you want to take
+ 
+
+311
+00:06:22,570 --> 00:06:25,590
+essentially saying that you want to take
+a single action leader during another
+
+312
+00:06:25,590 --> 00:06:25,600
+a single action leader during another
+ 
+
+313
+00:06:25,600 --> 00:06:29,370
+a single action leader during another
+character's turn during your turn you
+
+314
+00:06:29,370 --> 00:06:29,380
+character's turn during your turn you
+ 
+
+315
+00:06:29,380 --> 00:06:32,250
+character's turn during your turn you
+announce a single action or free action
+
+316
+00:06:32,250 --> 00:06:32,260
+announce a single action or free action
+ 
+
+317
+00:06:32,260 --> 00:06:35,130
+announce a single action or free action
+that you wish to take and also state a
+
+318
+00:06:35,130 --> 00:06:35,140
+that you wish to take and also state a
+ 
+
+319
+00:06:35,140 --> 00:06:37,640
+that you wish to take and also state a
+conditional trigger for that action
+
+320
+00:06:37,640 --> 00:06:37,650
+conditional trigger for that action
+ 
+
+321
+00:06:37,650 --> 00:06:40,350
+conditional trigger for that action
+essentially you're saying if X happens
+
+322
+00:06:40,350 --> 00:06:40,360
+essentially you're saying if X happens
+ 
+
+323
+00:06:40,360 --> 00:06:45,420
+essentially you're saying if X happens
+then I will do Y this costs two of your
+
+324
+00:06:45,420 --> 00:06:45,430
+then I will do Y this costs two of your
+ 
+
+325
+00:06:45,430 --> 00:06:48,150
+then I will do Y this costs two of your
+actions and allows you to later use your
+
+326
+00:06:48,150 --> 00:06:48,160
+actions and allows you to later use your
+ 
+
+327
+00:06:48,160 --> 00:06:50,700
+actions and allows you to later use your
+reaction to perform the specific
+
+328
+00:06:50,700 --> 00:06:50,710
+reaction to perform the specific
+ 
+
+329
+00:06:50,710 --> 00:06:52,790
+reaction to perform the specific
+activity that you named with the trigger
+
+330
+00:06:52,790 --> 00:06:52,800
+activity that you named with the trigger
+ 
+
+331
+00:06:52,800 --> 00:06:55,740
+activity that you named with the trigger
+if the trigger you stated occurs before
+
+332
+00:06:55,740 --> 00:06:55,750
+if the trigger you stated occurs before
+ 
+
+333
+00:06:55,750 --> 00:06:57,900
+if the trigger you stated occurs before
+the start of your next turn you
+
+334
+00:06:57,900 --> 00:06:57,910
+the start of your next turn you
+ 
+
+335
+00:06:57,910 --> 00:07:00,270
+the start of your next turn you
+immediately respond with the action that
+
+336
+00:07:00,270 --> 00:07:00,280
+immediately respond with the action that
+ 
+
+337
+00:07:00,280 --> 00:07:03,390
+immediately respond with the action that
+you ready and note the rules say that
+
+338
+00:07:03,390 --> 00:07:03,400
+you ready and note the rules say that
+ 
+
+339
+00:07:03,400 --> 00:07:05,940
+you ready and note the rules say that
+the conditional trigger lasts until the
+
+340
+00:07:05,940 --> 00:07:05,950
+the conditional trigger lasts until the
+ 
+
+341
+00:07:05,950 --> 00:07:09,659
+the conditional trigger lasts until the
+start of your next turn not before the
+
+342
+00:07:09,659 --> 00:07:09,669
+start of your next turn not before the
+ 
+
+343
+00:07:09,669 --> 00:07:13,140
+start of your next turn not before the
+end of the current round therefore when
+
+344
+00:07:13,140 --> 00:07:13,150
+end of the current round therefore when
+ 
+
+345
+00:07:13,150 --> 00:07:14,340
+end of the current round therefore when
+you use the ready action
+
+346
+00:07:14,340 --> 00:07:14,350
+you use the ready action
+ 
+
+347
+00:07:14,350 --> 00:07:17,100
+you use the ready action
+it does persist through the end of the
+
+348
+00:07:17,100 --> 00:07:17,110
+it does persist through the end of the
+ 
+
+349
+00:07:17,110 --> 00:07:19,650
+it does persist through the end of the
+current round and into the start of the
+
+350
+00:07:19,650 --> 00:07:19,660
+current round and into the start of the
+ 
+
+351
+00:07:19,660 --> 00:07:22,140
+current round and into the start of the
+next round and until the start of your
+
+352
+00:07:22,140 --> 00:07:22,150
+next round and until the start of your
+ 
+
+353
+00:07:22,150 --> 00:07:24,840
+next round and until the start of your
+turn in that round if the action you
+
+354
+00:07:24,840 --> 00:07:24,850
+turn in that round if the action you
+ 
+
+355
+00:07:24,850 --> 00:07:27,210
+turn in that round if the action you
+readied is an attack then you apply the
+
+356
+00:07:27,210 --> 00:07:27,220
+readied is an attack then you apply the
+ 
+
+357
+00:07:27,220 --> 00:07:29,640
+readied is an attack then you apply the
+multiple attack penalty you had at the
+
+358
+00:07:29,640 --> 00:07:29,650
+multiple attack penalty you had at the
+ 
+
+359
+00:07:29,650 --> 00:07:32,690
+multiple attack penalty you had at the
+time you declared the ready action
+
+360
+00:07:32,690 --> 00:07:32,700
+time you declared the ready action
+ 
+
+361
+00:07:32,700 --> 00:07:35,730
+time you declared the ready action
+also note the Fioretti action costs two
+
+362
+00:07:35,730 --> 00:07:35,740
+also note the Fioretti action costs two
+ 
+
+363
+00:07:35,740 --> 00:07:38,100
+also note the Fioretti action costs two
+actions and allows you to letter use
+
+364
+00:07:38,100 --> 00:07:38,110
+actions and allows you to letter use
+ 
+
+365
+00:07:38,110 --> 00:07:39,930
+actions and allows you to letter use
+your reaction for the event that you
+
+366
+00:07:39,930 --> 00:07:39,940
+your reaction for the event that you
+ 
+
+367
+00:07:39,940 --> 00:07:42,960
+your reaction for the event that you
+ready some people misinterpret this to
+
+368
+00:07:42,960 --> 00:07:42,970
+ready some people misinterpret this to
+ 
+
+369
+00:07:42,970 --> 00:07:45,570
+ready some people misinterpret this to
+mean that you spin two actions for the
+
+370
+00:07:45,570 --> 00:07:45,580
+mean that you spin two actions for the
+ 
+
+371
+00:07:45,580 --> 00:07:48,090
+mean that you spin two actions for the
+ready action and that allows you to save
+
+372
+00:07:48,090 --> 00:07:48,100
+ready action and that allows you to save
+ 
+
+373
+00:07:48,100 --> 00:07:50,159
+ready action and that allows you to save
+your third action for a later in the
+
+374
+00:07:50,159 --> 00:07:50,169
+your third action for a later in the
+ 
+
+375
+00:07:50,169 --> 00:07:52,380
+your third action for a later in the
+round but that's not the case
+
+376
+00:07:52,380 --> 00:07:52,390
+round but that's not the case
+ 
+
+377
+00:07:52,390 --> 00:07:55,290
+round but that's not the case
+readying an action costs two actions and
+
+378
+00:07:55,290 --> 00:07:55,300
+readying an action costs two actions and
+ 
+
+379
+00:07:55,300 --> 00:07:57,960
+readying an action costs two actions and
+then you use your reaction later in the
+
+380
+00:07:57,960 --> 00:07:57,970
+then you use your reaction later in the
+ 
+
+381
+00:07:57,970 --> 00:08:01,050
+then you use your reaction later in the
+round after the trigger occurs the
+
+382
+00:08:01,050 --> 00:08:01,060
+round after the trigger occurs the
+ 
+
+383
+00:08:01,060 --> 00:08:02,490
+round after the trigger occurs the
+reason one way this distinction is
+
+384
+00:08:02,490 --> 00:08:02,500
+reason one way this distinction is
+ 
+
+385
+00:08:02,500 --> 00:08:05,219
+reason one way this distinction is
+important is it means you still have one
+
+386
+00:08:05,219 --> 00:08:05,229
+important is it means you still have one
+ 
+
+387
+00:08:05,229 --> 00:08:07,320
+important is it means you still have one
+action that you can use on your turn in
+
+388
+00:08:07,320 --> 00:08:07,330
+action that you can use on your turn in
+ 
+
+389
+00:08:07,330 --> 00:08:10,469
+action that you can use on your turn in
+addition to readying however that action
+
+390
+00:08:10,469 --> 00:08:10,479
+addition to readying however that action
+ 
+
+391
+00:08:10,479 --> 00:08:13,590
+addition to readying however that action
+must be used before you declare that you
+
+392
+00:08:13,590 --> 00:08:13,600
+must be used before you declare that you
+ 
+
+393
+00:08:13,600 --> 00:08:16,050
+must be used before you declare that you
+are using the ready action because the
+
+394
+00:08:16,050 --> 00:08:16,060
+are using the ready action because the
+ 
+
+395
+00:08:16,060 --> 00:08:18,510
+are using the ready action because the
+text here states that your turn ends
+
+396
+00:08:18,510 --> 00:08:18,520
+text here states that your turn ends
+ 
+
+397
+00:08:18,520 --> 00:08:21,120
+text here states that your turn ends
+immediately after you declare that you
+
+398
+00:08:21,120 --> 00:08:21,130
+immediately after you declare that you
+ 
+
+399
+00:08:21,130 --> 00:08:24,300
+immediately after you declare that you
+are using ready for example you could
+
+400
+00:08:24,300 --> 00:08:24,310
+are using ready for example you could
+ 
+
+401
+00:08:24,310 --> 00:08:26,640
+are using ready for example you could
+use one action destroyed into position
+
+402
+00:08:26,640 --> 00:08:26,650
+use one action destroyed into position
+ 
+
+403
+00:08:26,650 --> 00:08:28,920
+use one action destroyed into position
+and then use your remaining two actions
+
+404
+00:08:28,920 --> 00:08:28,930
+and then use your remaining two actions
+ 
+
+405
+00:08:28,930 --> 00:08:32,240
+and then use your remaining two actions
+that turn in order to ready
+
+406
+00:08:32,240 --> 00:08:32,250
+that turn in order to ready
+ 
+
+407
+00:08:32,250 --> 00:08:36,050
+that turn in order to ready
+okay let's look at an example shafy and
+
+408
+00:08:36,050 --> 00:08:36,060
+okay let's look at an example shafy and
+ 
+
+409
+00:08:36,060 --> 00:08:39,110
+okay let's look at an example shafy and
+pug are playing goblin ball pug is
+
+410
+00:08:39,110 --> 00:08:39,120
+pug are playing goblin ball pug is
+ 
+
+411
+00:08:39,120 --> 00:08:40,939
+pug are playing goblin ball pug is
+behind home plate wielding his dog
+
+412
+00:08:40,939 --> 00:08:40,949
+behind home plate wielding his dog
+ 
+
+413
+00:08:40,949 --> 00:08:43,730
+behind home plate wielding his dog
+knocker and chuffy is on the mound pug
+
+414
+00:08:43,730 --> 00:08:43,740
+knocker and chuffy is on the mound pug
+ 
+
+415
+00:08:43,740 --> 00:08:45,800
+knocker and chuffy is on the mound pug
+is first an initiative with a score of
+
+416
+00:08:45,800 --> 00:08:45,810
+is first an initiative with a score of
+ 
+
+417
+00:08:45,810 --> 00:08:48,769
+is first an initiative with a score of
+15 and chuffy is second in initiative
+
+418
+00:08:48,769 --> 00:08:48,779
+15 and chuffy is second in initiative
+ 
+
+419
+00:08:48,779 --> 00:08:51,829
+15 and chuffy is second in initiative
+with a score of 11 at the top of the
+
+420
+00:08:51,829 --> 00:08:51,839
+with a score of 11 at the top of the
+ 
+
+421
+00:08:51,839 --> 00:08:55,100
+with a score of 11 at the top of the
+round it spooks turn he thinks chuffy is
+
+422
+00:08:55,100 --> 00:08:55,110
+round it spooks turn he thinks chuffy is
+ 
+
+423
+00:08:55,110 --> 00:08:57,079
+round it spooks turn he thinks chuffy is
+going to throw the goblin ball at him
+
+424
+00:08:57,079 --> 00:08:57,089
+going to throw the goblin ball at him
+ 
+
+425
+00:08:57,089 --> 00:08:59,059
+going to throw the goblin ball at him
+and he wants to hit it with his dog
+
+426
+00:08:59,059 --> 00:08:59,069
+and he wants to hit it with his dog
+ 
+
+427
+00:08:59,069 --> 00:09:02,269
+and he wants to hit it with his dog
+knocker but he can't take that action
+
+428
+00:09:02,269 --> 00:09:02,279
+knocker but he can't take that action
+ 
+
+429
+00:09:02,279 --> 00:09:04,610
+knocker but he can't take that action
+right now during his turn because
+
+430
+00:09:04,610 --> 00:09:04,620
+right now during his turn because
+ 
+
+431
+00:09:04,620 --> 00:09:06,949
+right now during his turn because
+there's no goblin ball within a reach
+
+432
+00:09:06,949 --> 00:09:06,959
+there's no goblin ball within a reach
+ 
+
+433
+00:09:06,959 --> 00:09:09,949
+there's no goblin ball within a reach
+for him to strike so he decides to use
+
+434
+00:09:09,949 --> 00:09:09,959
+for him to strike so he decides to use
+ 
+
+435
+00:09:09,959 --> 00:09:13,460
+for him to strike so he decides to use
+their ready action this costs him two of
+
+436
+00:09:13,460 --> 00:09:13,470
+their ready action this costs him two of
+ 
+
+437
+00:09:13,470 --> 00:09:15,769
+their ready action this costs him two of
+his three actions that turn and he
+
+438
+00:09:15,769 --> 00:09:15,779
+his three actions that turn and he
+ 
+
+439
+00:09:15,779 --> 00:09:18,530
+his three actions that turn and he
+announces that if a goblin ball comes
+
+440
+00:09:18,530 --> 00:09:18,540
+announces that if a goblin ball comes
+ 
+
+441
+00:09:18,540 --> 00:09:20,720
+announces that if a goblin ball comes
+within reach of his dog knocker he's
+
+442
+00:09:20,720 --> 00:09:20,730
+within reach of his dog knocker he's
+ 
+
+443
+00:09:20,730 --> 00:09:23,960
+within reach of his dog knocker he's
+going to strike it it's now Chevy's turn
+
+444
+00:09:23,960 --> 00:09:23,970
+going to strike it it's now Chevy's turn
+ 
+
+445
+00:09:23,970 --> 00:09:26,600
+going to strike it it's now Chevy's turn
+and he throws the ball at puch which
+
+446
+00:09:26,600 --> 00:09:26,610
+and he throws the ball at puch which
+ 
+
+447
+00:09:26,610 --> 00:09:28,730
+and he throws the ball at puch which
+triggers his ready to action and allows
+
+448
+00:09:28,730 --> 00:09:28,740
+triggers his ready to action and allows
+ 
+
+449
+00:09:28,740 --> 00:09:31,610
+triggers his ready to action and allows
+pug to spend his reaction to swing his
+
+450
+00:09:31,610 --> 00:09:31,620
+pug to spend his reaction to swing his
+ 
+
+451
+00:09:31,620 --> 00:09:34,519
+pug to spend his reaction to swing his
+dog knocker and send that goblin ball
+
+452
+00:09:34,519 --> 00:09:34,529
+dog knocker and send that goblin ball
+ 
+
+453
+00:09:34,529 --> 00:09:37,819
+dog knocker and send that goblin ball
+flying into the stands Polk was able to
+
+454
+00:09:37,819 --> 00:09:37,829
+flying into the stands Polk was able to
+ 
+
+455
+00:09:37,829 --> 00:09:40,460
+flying into the stands Polk was able to
+act even though it is technically
+
+456
+00:09:40,460 --> 00:09:40,470
+act even though it is technically
+ 
+
+457
+00:09:40,470 --> 00:09:43,579
+act even though it is technically
+Tuffy's turn if Chaffee had decided not
+
+458
+00:09:43,579 --> 00:09:43,589
+Tuffy's turn if Chaffee had decided not
+ 
+
+459
+00:09:43,589 --> 00:09:45,829
+Tuffy's turn if Chaffee had decided not
+to throw that goblin ball at pug the
+
+460
+00:09:45,829 --> 00:09:45,839
+to throw that goblin ball at pug the
+ 
+
+461
+00:09:45,839 --> 00:09:47,509
+to throw that goblin ball at pug the
+triggering condition would not have been
+
+462
+00:09:47,509 --> 00:09:47,519
+triggering condition would not have been
+ 
+
+463
+00:09:47,519 --> 00:09:49,610
+triggering condition would not have been
+met and pood would effectively have
+
+464
+00:09:49,610 --> 00:09:49,620
+met and pood would effectively have
+ 
+
+465
+00:09:49,620 --> 00:09:52,690
+met and pood would effectively have
+wasted two actions that turn
+
+466
+00:09:52,690 --> 00:09:52,700
+wasted two actions that turn
+ 
+
+467
+00:09:52,700 --> 00:09:54,850
+wasted two actions that turn
+other times when you might want to use
+
+468
+00:09:54,850 --> 00:09:54,860
+other times when you might want to use
+ 
+
+469
+00:09:54,860 --> 00:09:57,790
+other times when you might want to use
+the ready action might include preparing
+
+470
+00:09:57,790 --> 00:09:57,800
+the ready action might include preparing
+ 
+
+471
+00:09:57,800 --> 00:10:00,280
+the ready action might include preparing
+yourself in case an enemy approaches you
+
+472
+00:10:00,280 --> 00:10:00,290
+yourself in case an enemy approaches you
+ 
+
+473
+00:10:00,290 --> 00:10:03,220
+yourself in case an enemy approaches you
+might say I'm readying an action if an
+
+474
+00:10:03,220 --> 00:10:03,230
+might say I'm readying an action if an
+ 
+
+475
+00:10:03,230 --> 00:10:03,730
+might say I'm readying an action if an
+orc
+
+476
+00:10:03,730 --> 00:10:03,740
+orc
+ 
+
+477
+00:10:03,740 --> 00:10:07,120
+orc
+comes through that door I stab it or you
+
+478
+00:10:07,120 --> 00:10:07,130
+comes through that door I stab it or you
+ 
+
+479
+00:10:07,130 --> 00:10:09,700
+comes through that door I stab it or you
+could say if a bandit steps on the trap
+
+480
+00:10:09,700 --> 00:10:09,710
+could say if a bandit steps on the trap
+ 
+
+481
+00:10:09,710 --> 00:10:13,030
+could say if a bandit steps on the trap
+door I'm going to pull this lever or you
+
+482
+00:10:13,030 --> 00:10:13,040
+door I'm going to pull this lever or you
+ 
+
+483
+00:10:13,040 --> 00:10:15,010
+door I'm going to pull this lever or you
+can ready an action to move you could
+
+484
+00:10:15,010 --> 00:10:15,020
+can ready an action to move you could
+ 
+
+485
+00:10:15,020 --> 00:10:17,770
+can ready an action to move you could
+say I walk over to the base of the cliff
+
+486
+00:10:17,770 --> 00:10:17,780
+say I walk over to the base of the cliff
+ 
+
+487
+00:10:17,780 --> 00:10:20,920
+say I walk over to the base of the cliff
+and take the ready action if any kobolds
+
+488
+00:10:20,920 --> 00:10:20,930
+and take the ready action if any kobolds
+ 
+
+489
+00:10:20,930 --> 00:10:25,530
+and take the ready action if any kobolds
+cross the bridge I start climbing in
+
+490
+00:10:25,530 --> 00:10:25,540
+cross the bridge I start climbing in
+ 
+
+491
+00:10:25,540 --> 00:10:28,120
+cross the bridge I start climbing in
+this video we discuss two of the ways a
+
+492
+00:10:28,120 --> 00:10:28,130
+this video we discuss two of the ways a
+ 
+
+493
+00:10:28,130 --> 00:10:30,340
+this video we discuss two of the ways a
+character might adjust when they act
+
+494
+00:10:30,340 --> 00:10:30,350
+character might adjust when they act
+ 
+
+495
+00:10:30,350 --> 00:10:33,460
+character might adjust when they act
+within a combat round the first is by
+
+496
+00:10:33,460 --> 00:10:33,470
+within a combat round the first is by
+ 
+
+497
+00:10:33,470 --> 00:10:36,490
+within a combat round the first is by
+using the delay action when delaying the
+
+498
+00:10:36,490 --> 00:10:36,500
+using the delay action when delaying the
+ 
+
+499
+00:10:36,500 --> 00:10:38,410
+using the delay action when delaying the
+character declares at the start of their
+
+500
+00:10:38,410 --> 00:10:38,420
+character declares at the start of their
+ 
+
+501
+00:10:38,420 --> 00:10:41,140
+character declares at the start of their
+turn that they wish to delay when they
+
+502
+00:10:41,140 --> 00:10:41,150
+turn that they wish to delay when they
+ 
+
+503
+00:10:41,150 --> 00:10:43,810
+turn that they wish to delay when they
+do so they first resolve any negative
+
+504
+00:10:43,810 --> 00:10:43,820
+do so they first resolve any negative
+ 
+
+505
+00:10:43,820 --> 00:10:46,600
+do so they first resolve any negative
+effects that are slated to occur at any
+
+506
+00:10:46,600 --> 00:10:46,610
+effects that are slated to occur at any
+ 
+
+507
+00:10:46,610 --> 00:10:49,570
+effects that are slated to occur at any
+time during their turn and they also end
+
+508
+00:10:49,570 --> 00:10:49,580
+time during their turn and they also end
+ 
+
+509
+00:10:49,580 --> 00:10:51,760
+time during their turn and they also end
+any beneficial effects that are
+
+510
+00:10:51,760 --> 00:10:51,770
+any beneficial effects that are
+ 
+
+511
+00:10:51,770 --> 00:10:53,800
+any beneficial effects that are
+scheduled to end at any time during the
+
+512
+00:10:53,800 --> 00:10:53,810
+scheduled to end at any time during the
+ 
+
+513
+00:10:53,810 --> 00:10:57,160
+scheduled to end at any time during the
+turn as well they then step out of the
+
+514
+00:10:57,160 --> 00:10:57,170
+turn as well they then step out of the
+ 
+
+515
+00:10:57,170 --> 00:10:59,290
+turn as well they then step out of the
+initiative order play continues as
+
+516
+00:10:59,290 --> 00:10:59,300
+initiative order play continues as
+ 
+
+517
+00:10:59,300 --> 00:11:01,870
+initiative order play continues as
+normal but after every creatures turn
+
+518
+00:11:01,870 --> 00:11:01,880
+normal but after every creatures turn
+ 
+
+519
+00:11:01,880 --> 00:11:03,700
+normal but after every creatures turn
+the delaying character may choose to
+
+520
+00:11:03,700 --> 00:11:03,710
+the delaying character may choose to
+ 
+
+521
+00:11:03,710 --> 00:11:05,980
+the delaying character may choose to
+stop delaying and re-enter the
+
+522
+00:11:05,980 --> 00:11:05,990
+stop delaying and re-enter the
+ 
+
+523
+00:11:05,990 --> 00:11:08,710
+stop delaying and re-enter the
+initiative order at that spot if they do
+
+524
+00:11:08,710 --> 00:11:08,720
+initiative order at that spot if they do
+ 
+
+525
+00:11:08,720 --> 00:11:11,410
+initiative order at that spot if they do
+so they keep that place in initiative
+
+526
+00:11:11,410 --> 00:11:11,420
+so they keep that place in initiative
+ 
+
+527
+00:11:11,420 --> 00:11:14,200
+so they keep that place in initiative
+for the remainder of the encounter also
+
+528
+00:11:14,200 --> 00:11:14,210
+for the remainder of the encounter also
+ 
+
+529
+00:11:14,210 --> 00:11:16,540
+for the remainder of the encounter also
+note that while delaying a character may
+
+530
+00:11:16,540 --> 00:11:16,550
+note that while delaying a character may
+ 
+
+531
+00:11:16,550 --> 00:11:18,970
+note that while delaying a character may
+not take any reactions they must
+
+532
+00:11:18,970 --> 00:11:18,980
+not take any reactions they must
+ 
+
+533
+00:11:18,980 --> 00:11:21,370
+not take any reactions they must
+re-enter initiative order after they
+
+534
+00:11:21,370 --> 00:11:21,380
+re-enter initiative order after they
+ 
+
+535
+00:11:21,380 --> 00:11:23,620
+re-enter initiative order after they
+finished delaying before they can use
+
+536
+00:11:23,620 --> 00:11:23,630
+finished delaying before they can use
+ 
+
+537
+00:11:23,630 --> 00:11:26,740
+finished delaying before they can use
+that reaction and if you do not stop
+
+538
+00:11:26,740 --> 00:11:26,750
+that reaction and if you do not stop
+ 
+
+539
+00:11:26,750 --> 00:11:28,780
+that reaction and if you do not stop
+delaying and re-enter the initiative
+
+540
+00:11:28,780 --> 00:11:28,790
+delaying and re-enter the initiative
+ 
+
+541
+00:11:28,790 --> 00:11:31,420
+delaying and re-enter the initiative
+order by the start of your next turn you
+
+542
+00:11:31,420 --> 00:11:31,430
+order by the start of your next turn you
+ 
+
+543
+00:11:31,430 --> 00:11:34,090
+order by the start of your next turn you
+are returned to that place an initiative
+
+544
+00:11:34,090 --> 00:11:34,100
+are returned to that place an initiative
+ 
+
+545
+00:11:34,100 --> 00:11:36,820
+are returned to that place an initiative
+lose the three actions granted in the
+
+546
+00:11:36,820 --> 00:11:36,830
+lose the three actions granted in the
+ 
+
+547
+00:11:36,830 --> 00:11:39,490
+lose the three actions granted in the
+previous round and you start a brand new
+
+548
+00:11:39,490 --> 00:11:39,500
+previous round and you start a brand new
+ 
+
+549
+00:11:39,500 --> 00:11:43,360
+previous round and you start a brand new
+turn the second way to adjust when you
+
+550
+00:11:43,360 --> 00:11:43,370
+turn the second way to adjust when you
+ 
+
+551
+00:11:43,370 --> 00:11:46,930
+turn the second way to adjust when you
+act is by using the ready action using
+
+552
+00:11:46,930 --> 00:11:46,940
+act is by using the ready action using
+ 
+
+553
+00:11:46,940 --> 00:11:49,270
+act is by using the ready action using
+the ready action cost two of your
+
+554
+00:11:49,270 --> 00:11:49,280
+the ready action cost two of your
+ 
+
+555
+00:11:49,280 --> 00:11:51,790
+the ready action cost two of your
+actions that turn but allows you to
+
+556
+00:11:51,790 --> 00:11:51,800
+actions that turn but allows you to
+ 
+
+557
+00:11:51,800 --> 00:11:54,400
+actions that turn but allows you to
+state a triggering condition and a
+
+558
+00:11:54,400 --> 00:11:54,410
+state a triggering condition and a
+ 
+
+559
+00:11:54,410 --> 00:11:56,500
+state a triggering condition and a
+response to that trigger that is only
+
+560
+00:11:56,500 --> 00:11:56,510
+response to that trigger that is only
+ 
+
+561
+00:11:56,510 --> 00:12:00,230
+response to that trigger that is only
+one action or one free action
+
+562
+00:12:00,230 --> 00:12:00,240
+one action or one free action
+ 
+
+563
+00:12:00,240 --> 00:12:03,079
+one action or one free action
+if that stated condition is met before
+
+564
+00:12:03,079 --> 00:12:03,089
+if that stated condition is met before
+ 
+
+565
+00:12:03,089 --> 00:12:05,689
+if that stated condition is met before
+the start of your next turn you may
+
+566
+00:12:05,689 --> 00:12:05,699
+the start of your next turn you may
+ 
+
+567
+00:12:05,699 --> 00:12:07,669
+the start of your next turn you may
+spend your reaction to perform the
+
+568
+00:12:07,669 --> 00:12:07,679
+spend your reaction to perform the
+ 
+
+569
+00:12:07,679 --> 00:12:09,199
+spend your reaction to perform the
+activity that you specified
+
+570
+00:12:09,199 --> 00:12:09,209
+activity that you specified
+ 
+
+571
+00:12:09,209 --> 00:12:12,679
+activity that you specified
+if the readied action is an attack you
+
+572
+00:12:12,679 --> 00:12:12,689
+if the readied action is an attack you
+ 
+
+573
+00:12:12,689 --> 00:12:14,509
+if the readied action is an attack you
+apply the multiple attack penalty that
+
+574
+00:12:14,509 --> 00:12:14,519
+apply the multiple attack penalty that
+ 
+
+575
+00:12:14,519 --> 00:12:17,059
+apply the multiple attack penalty that
+you had at the time that you declared
+
+576
+00:12:17,059 --> 00:12:17,069
+you had at the time that you declared
+ 
+
+577
+00:12:17,069 --> 00:12:20,080
+you had at the time that you declared
+the ready action
+
+578
+00:12:20,080 --> 00:12:20,090
+
+ 
+
+579
+00:12:20,090 --> 00:12:21,700
+
+with that we'll bring this video to a
+
+580
+00:12:21,700 --> 00:12:21,710
+with that we'll bring this video to a
+ 
+
+581
+00:12:21,710 --> 00:12:23,440
+with that we'll bring this video to a
+close if you found this video helpful
+
+582
+00:12:23,440 --> 00:12:23,450
+close if you found this video helpful
+ 
+
+583
+00:12:23,450 --> 00:12:25,570
+close if you found this video helpful
+please give us a like and don't forget
+
+584
+00:12:25,570 --> 00:12:25,580
+please give us a like and don't forget
+ 
+
+585
+00:12:25,580 --> 00:12:27,190
+please give us a like and don't forget
+to click that subscribe button and the
+
+586
+00:12:27,190 --> 00:12:27,200
+to click that subscribe button and the
+ 
+
+587
+00:12:27,200 --> 00:12:28,900
+to click that subscribe button and the
+bell so you never miss out on our future
+
+588
+00:12:28,900 --> 00:12:28,910
+bell so you never miss out on our future
+ 
+
+589
+00:12:28,910 --> 00:12:31,090
+bell so you never miss out on our future
+videos leave us a comment letting us
+
+590
+00:12:31,090 --> 00:12:31,100
+videos leave us a comment letting us
+ 
+
+591
+00:12:31,100 --> 00:12:32,380
+videos leave us a comment letting us
+know what topics you'd like to see
+
+592
+00:12:32,380 --> 00:12:32,390
+know what topics you'd like to see
+ 
+
+593
+00:12:32,390 --> 00:12:34,480
+know what topics you'd like to see
+covered in our future videos and we can
+
+594
+00:12:34,480 --> 00:12:34,490
+covered in our future videos and we can
+ 
+
+595
+00:12:34,490 --> 00:12:35,620
+covered in our future videos and we can
+always be reached through our Twitter
+
+596
+00:12:35,620 --> 00:12:35,630
+always be reached through our Twitter
+ 
+
+597
+00:12:35,630 --> 00:12:38,320
+always be reached through our Twitter
+and Facebook pages too if you'd like to
+
+598
+00:12:38,320 --> 00:12:38,330
+and Facebook pages too if you'd like to
+ 
+
+599
+00:12:38,330 --> 00:12:39,790
+and Facebook pages too if you'd like to
+use some of the maps that we feature on
+
+600
+00:12:39,790 --> 00:12:39,800
+use some of the maps that we feature on
+ 
+
+601
+00:12:39,800 --> 00:12:41,620
+use some of the maps that we feature on
+our videos and your own games you can
+
+602
+00:12:41,620 --> 00:12:41,630
+our videos and your own games you can
+ 
+
+603
+00:12:41,630 --> 00:12:44,290
+our videos and your own games you can
+find them at maps of mastery a link to
+
+604
+00:12:44,290 --> 00:12:44,300
+find them at maps of mastery a link to
+ 
+
+605
+00:12:44,300 --> 00:12:45,580
+find them at maps of mastery a link to
+that store can be found in the
+
+606
+00:12:45,580 --> 00:12:45,590
+that store can be found in the
+ 
+
+607
+00:12:45,590 --> 00:12:48,370
+that store can be found in the
+description thanks for watching take
+
+608
+00:12:48,370 --> 00:12:48,380
+description thanks for watching take
+ 
+
+609
+00:12:48,380 --> 00:12:49,990
+description thanks for watching take
+care and we'll see you soon with more
+
+610
+00:12:49,990 --> 00:12:50,000
+care and we'll see you soon with more
+ 
+
+611
+00:12:50,000 --> 00:12:53,740
+care and we'll see you soon with more
+basics for your favorite tabletop games
+

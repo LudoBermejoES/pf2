@@ -1,0 +1,3375 @@
+1
+00:00:01,120 --> 00:00:02,869
+
+this video is brought to you by the
+
+2
+00:00:02,869 --> 00:00:02,879
+this video is brought to you by the
+ 
+
+3
+00:00:02,879 --> 00:00:05,349
+this video is brought to you by the
+battle zoo bestiary a new book with over
+
+4
+00:00:05,349 --> 00:00:05,359
+battle zoo bestiary a new book with over
+ 
+
+5
+00:00:05,359 --> 00:00:07,190
+battle zoo bestiary a new book with over
+100 award-winning monsters
+
+6
+00:00:07,190 --> 00:00:07,200
+100 award-winning monsters
+ 
+
+7
+00:00:07,200 --> 00:00:09,270
+100 award-winning monsters
+and other resources from piezo lead
+
+8
+00:00:09,270 --> 00:00:09,280
+and other resources from piezo lead
+ 
+
+9
+00:00:09,280 --> 00:00:10,709
+and other resources from piezo lead
+designer mark cipher
+
+10
+00:00:10,709 --> 00:00:10,719
+designer mark cipher
+ 
+
+11
+00:00:10,719 --> 00:00:12,830
+designer mark cipher
+sign up today at
+
+12
+00:00:12,830 --> 00:00:12,840
+sign up today at
+ 
+
+13
+00:00:12,840 --> 00:00:14,549
+sign up today at
+kickstarter.roll4combat.com and join the
+
+14
+00:00:14,549 --> 00:00:14,559
+kickstarter.roll4combat.com and join the
+ 
+
+15
+00:00:14,559 --> 00:00:16,070
+kickstarter.roll4combat.com and join the
+campaign when it launches on
+
+16
+00:00:16,070 --> 00:00:16,080
+campaign when it launches on
+ 
+
+17
+00:00:16,080 --> 00:00:19,429
+campaign when it launches on
+august 31st
+
+18
+00:00:19,429 --> 00:00:19,439
+
+ 
+
+19
+00:00:19,439 --> 00:00:21,189
+
+hello and welcome to part one of
+
+20
+00:00:21,189 --> 00:00:21,199
+hello and welcome to part one of
+ 
+
+21
+00:00:21,199 --> 00:00:23,269
+hello and welcome to part one of
+vehicles in pathfinder second edition by
+
+22
+00:00:23,269 --> 00:00:23,279
+vehicles in pathfinder second edition by
+ 
+
+23
+00:00:23,279 --> 00:00:24,470
+vehicles in pathfinder second edition by
+how it's played
+
+24
+00:00:24,470 --> 00:00:24,480
+how it's played
+ 
+
+25
+00:00:24,480 --> 00:00:26,150
+how it's played
+in this video we'll be looking at the
+
+26
+00:00:26,150 --> 00:00:26,160
+in this video we'll be looking at the
+ 
+
+27
+00:00:26,160 --> 00:00:27,990
+in this video we'll be looking at the
+general information needed to manage
+
+28
+00:00:27,990 --> 00:00:28,000
+general information needed to manage
+ 
+
+29
+00:00:28,000 --> 00:00:29,109
+general information needed to manage
+vehicles in your game
+
+30
+00:00:29,109 --> 00:00:29,119
+vehicles in your game
+ 
+
+31
+00:00:29,119 --> 00:00:31,029
+vehicles in your game
+and in the next video we'll take things
+
+32
+00:00:31,029 --> 00:00:31,039
+and in the next video we'll take things
+ 
+
+33
+00:00:31,039 --> 00:00:32,950
+and in the next video we'll take things
+one step further by examining the rules
+
+34
+00:00:32,950 --> 00:00:32,960
+one step further by examining the rules
+ 
+
+35
+00:00:32,960 --> 00:00:36,549
+one step further by examining the rules
+for vehicles in combat
+
+36
+00:00:36,549 --> 00:00:36,559
+
+ 
+
+37
+00:00:36,559 --> 00:00:38,310
+
+vehicles and pathfinder are modes of
+
+38
+00:00:38,310 --> 00:00:38,320
+vehicles and pathfinder are modes of
+ 
+
+39
+00:00:38,320 --> 00:00:40,310
+vehicles and pathfinder are modes of
+transportation that are objects instead
+
+40
+00:00:40,310 --> 00:00:40,320
+transportation that are objects instead
+ 
+
+41
+00:00:40,320 --> 00:00:41,350
+transportation that are objects instead
+of creatures
+
+42
+00:00:41,350 --> 00:00:41,360
+of creatures
+ 
+
+43
+00:00:41,360 --> 00:00:43,030
+of creatures
+as such they may function in much the
+
+44
+00:00:43,030 --> 00:00:43,040
+as such they may function in much the
+ 
+
+45
+00:00:43,040 --> 00:00:45,270
+as such they may function in much the
+same way as mounts but have their own
+
+46
+00:00:45,270 --> 00:00:45,280
+same way as mounts but have their own
+ 
+
+47
+00:00:45,280 --> 00:00:46,310
+same way as mounts but have their own
+set of rules
+
+48
+00:00:46,310 --> 00:00:46,320
+set of rules
+ 
+
+49
+00:00:46,320 --> 00:00:48,310
+set of rules
+and generally speaking these rules only
+
+50
+00:00:48,310 --> 00:00:48,320
+and generally speaking these rules only
+ 
+
+51
+00:00:48,320 --> 00:00:50,150
+and generally speaking these rules only
+apply to combat encounters
+
+52
+00:00:50,150 --> 00:00:50,160
+apply to combat encounters
+ 
+
+53
+00:00:50,160 --> 00:00:52,229
+apply to combat encounters
+if a party of players books passage on a
+
+54
+00:00:52,229 --> 00:00:52,239
+if a party of players books passage on a
+ 
+
+55
+00:00:52,239 --> 00:00:53,270
+if a party of players books passage on a
+ship across the sea
+
+56
+00:00:53,270 --> 00:00:53,280
+ship across the sea
+ 
+
+57
+00:00:53,280 --> 00:00:55,830
+ship across the sea
+or are riding in a caravan of carriages
+
+58
+00:00:55,830 --> 00:00:55,840
+or are riding in a caravan of carriages
+ 
+
+59
+00:00:55,840 --> 00:00:57,270
+or are riding in a caravan of carriages
+across the countryside
+
+60
+00:00:57,270 --> 00:00:57,280
+across the countryside
+ 
+
+61
+00:00:57,280 --> 00:00:59,349
+across the countryside
+you should feel free to skip over these
+
+62
+00:00:59,349 --> 00:00:59,359
+you should feel free to skip over these
+ 
+
+63
+00:00:59,359 --> 00:01:01,590
+you should feel free to skip over these
+rules but if that ship comes under
+
+64
+00:01:01,590 --> 00:01:01,600
+rules but if that ship comes under
+ 
+
+65
+00:01:01,600 --> 00:01:02,790
+rules but if that ship comes under
+attack by pirates
+
+66
+00:01:02,790 --> 00:01:02,800
+attack by pirates
+ 
+
+67
+00:01:02,800 --> 00:01:05,270
+attack by pirates
+or a passing dragon decides that caravan
+
+68
+00:01:05,270 --> 00:01:05,280
+or a passing dragon decides that caravan
+ 
+
+69
+00:01:05,280 --> 00:01:07,510
+or a passing dragon decides that caravan
+of wagons looks like its next lunch
+
+70
+00:01:07,510 --> 00:01:07,520
+of wagons looks like its next lunch
+ 
+
+71
+00:01:07,520 --> 00:01:09,670
+of wagons looks like its next lunch
+then you may need these extra mechanics
+
+72
+00:01:09,670 --> 00:01:09,680
+then you may need these extra mechanics
+ 
+
+73
+00:01:09,680 --> 00:01:11,670
+then you may need these extra mechanics
+to help resolve the scene
+
+74
+00:01:11,670 --> 00:01:11,680
+to help resolve the scene
+ 
+
+75
+00:01:11,680 --> 00:01:13,670
+to help resolve the scene
+so some of these roles may look familiar
+
+76
+00:01:13,670 --> 00:01:13,680
+so some of these roles may look familiar
+ 
+
+77
+00:01:13,680 --> 00:01:15,030
+so some of these roles may look familiar
+to what you're used to
+
+78
+00:01:15,030 --> 00:01:15,040
+to what you're used to
+ 
+
+79
+00:01:15,040 --> 00:01:16,630
+to what you're used to
+but there are a few differences to be
+
+80
+00:01:16,630 --> 00:01:16,640
+but there are a few differences to be
+ 
+
+81
+00:01:16,640 --> 00:01:18,310
+but there are a few differences to be
+aware of first
+
+82
+00:01:18,310 --> 00:01:18,320
+aware of first
+ 
+
+83
+00:01:18,320 --> 00:01:20,390
+aware of first
+vehicles are assigned a size category
+
+84
+00:01:20,390 --> 00:01:20,400
+vehicles are assigned a size category
+ 
+
+85
+00:01:20,400 --> 00:01:21,590
+vehicles are assigned a size category
+just like creatures
+
+86
+00:01:21,590 --> 00:01:21,600
+just like creatures
+ 
+
+87
+00:01:21,600 --> 00:01:23,830
+just like creatures
+however a vehicle size does not
+
+88
+00:01:23,830 --> 00:01:23,840
+however a vehicle size does not
+ 
+
+89
+00:01:23,840 --> 00:01:26,149
+however a vehicle size does not
+determine the space it occupies
+
+90
+00:01:26,149 --> 00:01:26,159
+determine the space it occupies
+ 
+
+91
+00:01:26,159 --> 00:01:28,070
+determine the space it occupies
+instead each vehicle will have its
+
+92
+00:01:28,070 --> 00:01:28,080
+instead each vehicle will have its
+ 
+
+93
+00:01:28,080 --> 00:01:30,149
+instead each vehicle will have its
+specific dimensions listed in a stat
+
+94
+00:01:30,149 --> 00:01:30,159
+specific dimensions listed in a stat
+ 
+
+95
+00:01:30,159 --> 00:01:31,030
+specific dimensions listed in a stat
+block
+
+96
+00:01:31,030 --> 00:01:31,040
+block
+ 
+
+97
+00:01:31,040 --> 00:01:33,350
+block
+and note that the vehicle size entry is
+
+98
+00:01:33,350 --> 00:01:33,360
+and note that the vehicle size entry is
+ 
+
+99
+00:01:33,360 --> 00:01:34,950
+and note that the vehicle size entry is
+for the vehicle itself
+
+100
+00:01:34,950 --> 00:01:34,960
+for the vehicle itself
+ 
+
+101
+00:01:34,960 --> 00:01:37,429
+for the vehicle itself
+and does not include any animals that
+
+102
+00:01:37,429 --> 00:01:37,439
+and does not include any animals that
+ 
+
+103
+00:01:37,439 --> 00:01:38,950
+and does not include any animals that
+may be pulling
+
+104
+00:01:38,950 --> 00:01:38,960
+may be pulling
+ 
+
+105
+00:01:38,960 --> 00:01:41,429
+may be pulling
+for example a carriage is a large size
+
+106
+00:01:41,429 --> 00:01:41,439
+for example a carriage is a large size
+ 
+
+107
+00:01:41,439 --> 00:01:41,990
+for example a carriage is a large size
+vehicle
+
+108
+00:01:41,990 --> 00:01:42,000
+vehicle
+ 
+
+109
+00:01:42,000 --> 00:01:44,550
+vehicle
+and it occupies a 10 foot by 10 foot
+
+110
+00:01:44,550 --> 00:01:44,560
+and it occupies a 10 foot by 10 foot
+ 
+
+111
+00:01:44,560 --> 00:01:45,190
+and it occupies a 10 foot by 10 foot
+area
+
+112
+00:01:45,190 --> 00:01:45,200
+area
+ 
+
+113
+00:01:45,200 --> 00:01:46,950
+area
+which is exactly what we're used to with
+
+114
+00:01:46,950 --> 00:01:46,960
+which is exactly what we're used to with
+ 
+
+115
+00:01:46,960 --> 00:01:48,870
+which is exactly what we're used to with
+large sized creatures because that's
+
+116
+00:01:48,870 --> 00:01:48,880
+large sized creatures because that's
+ 
+
+117
+00:01:48,880 --> 00:01:52,069
+large sized creatures because that's
+a two by two square area on a map but a
+
+118
+00:01:52,069 --> 00:01:52,079
+a two by two square area on a map but a
+ 
+
+119
+00:01:52,079 --> 00:01:55,350
+a two by two square area on a map but a
+cart that is also a large sized vehicle
+
+120
+00:01:55,350 --> 00:01:55,360
+cart that is also a large sized vehicle
+ 
+
+121
+00:01:55,360 --> 00:01:58,870
+cart that is also a large sized vehicle
+is 10 feet long and only 5 feet wide
+
+122
+00:01:58,870 --> 00:01:58,880
+is 10 feet long and only 5 feet wide
+ 
+
+123
+00:01:58,880 --> 00:02:01,910
+is 10 feet long and only 5 feet wide
+meaning it occupies a 1 by 2 square area
+
+124
+00:02:01,910 --> 00:02:01,920
+meaning it occupies a 1 by 2 square area
+ 
+
+125
+00:02:01,920 --> 00:02:03,190
+meaning it occupies a 1 by 2 square area
+on the map instead
+
+126
+00:02:03,190 --> 00:02:03,200
+on the map instead
+ 
+
+127
+00:02:03,200 --> 00:02:05,109
+on the map instead
+of the 2 by 2 square area that we're
+
+128
+00:02:05,109 --> 00:02:05,119
+of the 2 by 2 square area that we're
+ 
+
+129
+00:02:05,119 --> 00:02:07,030
+of the 2 by 2 square area that we're
+used to for anything listed as being
+
+130
+00:02:07,030 --> 00:02:07,040
+used to for anything listed as being
+ 
+
+131
+00:02:07,040 --> 00:02:07,749
+used to for anything listed as being
+large
+
+132
+00:02:07,749 --> 00:02:07,759
+large
+ 
+
+133
+00:02:07,759 --> 00:02:10,389
+large
+and again that is for the cart itself
+
+134
+00:02:10,389 --> 00:02:10,399
+and again that is for the cart itself
+ 
+
+135
+00:02:10,399 --> 00:02:11,830
+and again that is for the cart itself
+and does not include
+
+136
+00:02:11,830 --> 00:02:11,840
+and does not include
+ 
+
+137
+00:02:11,840 --> 00:02:13,589
+and does not include
+any animals like a horse that might be
+
+138
+00:02:13,589 --> 00:02:13,599
+any animals like a horse that might be
+ 
+
+139
+00:02:13,599 --> 00:02:16,150
+any animals like a horse that might be
+pulling it
+
+140
+00:02:16,150 --> 00:02:16,160
+
+ 
+
+141
+00:02:16,160 --> 00:02:17,910
+
+a vehicle's movement type is determined
+
+142
+00:02:17,910 --> 00:02:17,920
+a vehicle's movement type is determined
+ 
+
+143
+00:02:17,920 --> 00:02:19,190
+a vehicle's movement type is determined
+by the vehicle itself
+
+144
+00:02:19,190 --> 00:02:19,200
+by the vehicle itself
+ 
+
+145
+00:02:19,200 --> 00:02:21,030
+by the vehicle itself
+while the distance it moves each round
+
+146
+00:02:21,030 --> 00:02:21,040
+while the distance it moves each round
+ 
+
+147
+00:02:21,040 --> 00:02:23,510
+while the distance it moves each round
+is determined by its pilot's actions
+
+148
+00:02:23,510 --> 00:02:23,520
+is determined by its pilot's actions
+ 
+
+149
+00:02:23,520 --> 00:02:24,869
+is determined by its pilot's actions
+but the biggest difference with
+
+150
+00:02:24,869 --> 00:02:24,879
+but the biggest difference with
+ 
+
+151
+00:02:24,879 --> 00:02:26,550
+but the biggest difference with
+determining a vehicle's movement
+
+152
+00:02:26,550 --> 00:02:26,560
+determining a vehicle's movement
+ 
+
+153
+00:02:26,560 --> 00:02:29,110
+determining a vehicle's movement
+is unlike with creatures vehicles can't
+
+154
+00:02:29,110 --> 00:02:29,120
+is unlike with creatures vehicles can't
+ 
+
+155
+00:02:29,120 --> 00:02:30,790
+is unlike with creatures vehicles can't
+just turn on a dime and therefore
+
+156
+00:02:30,790 --> 00:02:30,800
+just turn on a dime and therefore
+ 
+
+157
+00:02:30,800 --> 00:02:33,670
+just turn on a dime and therefore
+facing rules are enforced for vehicles
+
+158
+00:02:33,670 --> 00:02:33,680
+facing rules are enforced for vehicles
+ 
+
+159
+00:02:33,680 --> 00:02:35,589
+facing rules are enforced for vehicles
+at any given time it will be important
+
+160
+00:02:35,589 --> 00:02:35,599
+at any given time it will be important
+ 
+
+161
+00:02:35,599 --> 00:02:35,990
+at any given time it will be important
+to know
+
+162
+00:02:35,990 --> 00:02:36,000
+to know
+ 
+
+163
+00:02:36,000 --> 00:02:38,229
+to know
+which direction the vehicle is facing
+
+164
+00:02:38,229 --> 00:02:38,239
+which direction the vehicle is facing
+ 
+
+165
+00:02:38,239 --> 00:02:40,550
+which direction the vehicle is facing
+which is referred to as its heading
+
+166
+00:02:40,550 --> 00:02:40,560
+which is referred to as its heading
+ 
+
+167
+00:02:40,560 --> 00:02:42,710
+which is referred to as its heading
+when a vehicle moves it must move
+
+168
+00:02:42,710 --> 00:02:42,720
+when a vehicle moves it must move
+ 
+
+169
+00:02:42,720 --> 00:02:45,110
+when a vehicle moves it must move
+forward in the direction of its heading
+
+170
+00:02:45,110 --> 00:02:45,120
+forward in the direction of its heading
+ 
+
+171
+00:02:45,120 --> 00:02:47,350
+forward in the direction of its heading
+and cannot move side to side or
+
+172
+00:02:47,350 --> 00:02:47,360
+and cannot move side to side or
+ 
+
+173
+00:02:47,360 --> 00:02:48,150
+and cannot move side to side or
+backwards
+
+174
+00:02:48,150 --> 00:02:48,160
+backwards
+ 
+
+175
+00:02:48,160 --> 00:02:49,990
+backwards
+unless the step block specifically says
+
+176
+00:02:49,990 --> 00:02:50,000
+unless the step block specifically says
+ 
+
+177
+00:02:50,000 --> 00:02:51,750
+unless the step block specifically says
+otherwise however
+
+178
+00:02:51,750 --> 00:02:51,760
+otherwise however
+ 
+
+179
+00:02:51,760 --> 00:02:54,150
+otherwise however
+several rules state that a vehicle must
+
+180
+00:02:54,150 --> 00:02:54,160
+several rules state that a vehicle must
+ 
+
+181
+00:02:54,160 --> 00:02:55,030
+several rules state that a vehicle must
+travel in a
+
+182
+00:02:55,030 --> 00:02:55,040
+travel in a
+ 
+
+183
+00:02:55,040 --> 00:02:58,070
+travel in a
+quote straight line in this case moving
+
+184
+00:02:58,070 --> 00:02:58,080
+quote straight line in this case moving
+ 
+
+185
+00:02:58,080 --> 00:02:59,990
+quote straight line in this case moving
+in a quote straight line
+
+186
+00:02:59,990 --> 00:03:00,000
+in a quote straight line
+ 
+
+187
+00:03:00,000 --> 00:03:01,670
+in a quote straight line
+is in the direction of the vehicle's
+
+188
+00:03:01,670 --> 00:03:01,680
+is in the direction of the vehicle's
+ 
+
+189
+00:03:01,680 --> 00:03:03,030
+is in the direction of the vehicle's
+heading but may
+
+190
+00:03:03,030 --> 00:03:03,040
+heading but may
+ 
+
+191
+00:03:03,040 --> 00:03:05,430
+heading but may
+move into the space either to the left
+
+192
+00:03:05,430 --> 00:03:05,440
+move into the space either to the left
+ 
+
+193
+00:03:05,440 --> 00:03:06,070
+move into the space either to the left
+or right
+
+194
+00:03:06,070 --> 00:03:06,080
+or right
+ 
+
+195
+00:03:06,080 --> 00:03:08,470
+or right
+of that space but may not change its
+
+196
+00:03:08,470 --> 00:03:08,480
+of that space but may not change its
+ 
+
+197
+00:03:08,480 --> 00:03:09,190
+of that space but may not change its
+heading
+
+198
+00:03:09,190 --> 00:03:09,200
+heading
+ 
+
+199
+00:03:09,200 --> 00:03:11,430
+heading
+so for example if this is our carriage's
+
+200
+00:03:11,430 --> 00:03:11,440
+so for example if this is our carriage's
+ 
+
+201
+00:03:11,440 --> 00:03:14,149
+so for example if this is our carriage's
+heading then moving in a straight line
+
+202
+00:03:14,149 --> 00:03:14,159
+heading then moving in a straight line
+ 
+
+203
+00:03:14,159 --> 00:03:17,110
+heading then moving in a straight line
+means it could move here or it could
+
+204
+00:03:17,110 --> 00:03:17,120
+means it could move here or it could
+ 
+
+205
+00:03:17,120 --> 00:03:18,470
+means it could move here or it could
+move here
+
+206
+00:03:18,470 --> 00:03:18,480
+move here
+ 
+
+207
+00:03:18,480 --> 00:03:21,430
+move here
+or it can move here but regardless of
+
+208
+00:03:21,430 --> 00:03:21,440
+or it can move here but regardless of
+ 
+
+209
+00:03:21,440 --> 00:03:22,149
+or it can move here but regardless of
+those three
+
+210
+00:03:22,149 --> 00:03:22,159
+those three
+ 
+
+211
+00:03:22,159 --> 00:03:24,789
+those three
+options its heading remains the same it
+
+212
+00:03:24,789 --> 00:03:24,799
+options its heading remains the same it
+ 
+
+213
+00:03:24,799 --> 00:03:25,589
+options its heading remains the same it
+does not
+
+214
+00:03:25,589 --> 00:03:25,599
+does not
+ 
+
+215
+00:03:25,599 --> 00:03:28,470
+does not
+turn in order for a vehicle to turn on a
+
+216
+00:03:28,470 --> 00:03:28,480
+turn in order for a vehicle to turn on a
+ 
+
+217
+00:03:28,480 --> 00:03:29,270
+turn in order for a vehicle to turn on a
+battle map
+
+218
+00:03:29,270 --> 00:03:29,280
+battle map
+ 
+
+219
+00:03:29,280 --> 00:03:32,070
+battle map
+it must first move forward an amount of
+
+220
+00:03:32,070 --> 00:03:32,080
+it must first move forward an amount of
+ 
+
+221
+00:03:32,080 --> 00:03:32,630
+it must first move forward an amount of
+distance
+
+222
+00:03:32,630 --> 00:03:32,640
+distance
+ 
+
+223
+00:03:32,640 --> 00:03:35,509
+distance
+equal to its length so using our cart as
+
+224
+00:03:35,509 --> 00:03:35,519
+equal to its length so using our cart as
+ 
+
+225
+00:03:35,519 --> 00:03:36,309
+equal to its length so using our cart as
+an example
+
+226
+00:03:36,309 --> 00:03:36,319
+an example
+ 
+
+227
+00:03:36,319 --> 00:03:38,949
+an example
+it would have to move forward 10 feet
+
+228
+00:03:38,949 --> 00:03:38,959
+it would have to move forward 10 feet
+ 
+
+229
+00:03:38,959 --> 00:03:40,710
+it would have to move forward 10 feet
+and then once it does that it can change
+
+230
+00:03:40,710 --> 00:03:40,720
+and then once it does that it can change
+ 
+
+231
+00:03:40,720 --> 00:03:41,589
+and then once it does that it can change
+its heading by
+
+232
+00:03:41,589 --> 00:03:41,599
+its heading by
+ 
+
+233
+00:03:41,599 --> 00:03:44,390
+its heading by
+up to 90 degrees in either direction
+
+234
+00:03:44,390 --> 00:03:44,400
+up to 90 degrees in either direction
+ 
+
+235
+00:03:44,400 --> 00:03:46,070
+up to 90 degrees in either direction
+pretty simple for a carriage
+
+236
+00:03:46,070 --> 00:03:46,080
+pretty simple for a carriage
+ 
+
+237
+00:03:46,080 --> 00:03:48,869
+pretty simple for a carriage
+but let's also look at ceiling boots
+
+238
+00:03:48,869 --> 00:03:48,879
+but let's also look at ceiling boots
+ 
+
+239
+00:03:48,879 --> 00:03:49,750
+but let's also look at ceiling boots
+here it says
+
+240
+00:03:49,750 --> 00:03:49,760
+here it says
+ 
+
+241
+00:03:49,760 --> 00:03:52,869
+here it says
+they're 75 feet long meaning this boat
+
+242
+00:03:52,869 --> 00:03:52,879
+they're 75 feet long meaning this boat
+ 
+
+243
+00:03:52,879 --> 00:03:54,070
+they're 75 feet long meaning this boat
+would need to move forward
+
+244
+00:03:54,070 --> 00:03:54,080
+would need to move forward
+ 
+
+245
+00:03:54,080 --> 00:03:56,789
+would need to move forward
+in a direction of its heading for 15
+
+246
+00:03:56,789 --> 00:03:56,799
+in a direction of its heading for 15
+ 
+
+247
+00:03:56,799 --> 00:03:57,589
+in a direction of its heading for 15
+squares
+
+248
+00:03:57,589 --> 00:03:57,599
+squares
+ 
+
+249
+00:03:57,599 --> 00:04:00,470
+squares
+before it could turn up to 90 degrees
+
+250
+00:04:00,470 --> 00:04:00,480
+before it could turn up to 90 degrees
+ 
+
+251
+00:04:00,480 --> 00:04:00,869
+before it could turn up to 90 degrees
+and
+
+252
+00:04:00,869 --> 00:04:00,879
+and
+ 
+
+253
+00:04:00,879 --> 00:04:03,350
+and
+some vehicles like this one include
+
+254
+00:04:03,350 --> 00:04:03,360
+some vehicles like this one include
+ 
+
+255
+00:04:03,360 --> 00:04:05,190
+some vehicles like this one include
+special traits like sluggish
+
+256
+00:04:05,190 --> 00:04:05,200
+special traits like sluggish
+ 
+
+257
+00:04:05,200 --> 00:04:07,429
+special traits like sluggish
+that modify the vehicle's turn rate even
+
+258
+00:04:07,429 --> 00:04:07,439
+that modify the vehicle's turn rate even
+ 
+
+259
+00:04:07,439 --> 00:04:08,949
+that modify the vehicle's turn rate even
+further in this case
+
+260
+00:04:08,949 --> 00:04:08,959
+further in this case
+ 
+
+261
+00:04:08,959 --> 00:04:10,789
+further in this case
+the ceiling ship would need the before
+
+262
+00:04:10,789 --> 00:04:10,799
+the ceiling ship would need the before
+ 
+
+263
+00:04:10,799 --> 00:04:12,550
+the ceiling ship would need the before
+twice its length to turn
+
+264
+00:04:12,550 --> 00:04:12,560
+twice its length to turn
+ 
+
+265
+00:04:12,560 --> 00:04:16,069
+twice its length to turn
+so 30 squares forward instead of 15.
+
+266
+00:04:16,069 --> 00:04:16,079
+so 30 squares forward instead of 15.
+ 
+
+267
+00:04:16,079 --> 00:04:18,069
+so 30 squares forward instead of 15.
+also note that once a vehicle moves its
+
+268
+00:04:18,069 --> 00:04:18,079
+also note that once a vehicle moves its
+ 
+
+269
+00:04:18,079 --> 00:04:19,749
+also note that once a vehicle moves its
+length forward it can turn
+
+270
+00:04:19,749 --> 00:04:19,759
+length forward it can turn
+ 
+
+271
+00:04:19,759 --> 00:04:22,790
+length forward it can turn
+up to 90 degrees meaning it can turn
+
+272
+00:04:22,790 --> 00:04:22,800
+up to 90 degrees meaning it can turn
+ 
+
+273
+00:04:22,800 --> 00:04:25,430
+up to 90 degrees meaning it can turn
+towards a diagonal heading if it wishes
+
+274
+00:04:25,430 --> 00:04:25,440
+towards a diagonal heading if it wishes
+ 
+
+275
+00:04:25,440 --> 00:04:27,670
+towards a diagonal heading if it wishes
+by raw it still needs to move forward
+
+276
+00:04:27,670 --> 00:04:27,680
+by raw it still needs to move forward
+ 
+
+277
+00:04:27,680 --> 00:04:29,909
+by raw it still needs to move forward
+its entire length to do so
+
+278
+00:04:29,909 --> 00:04:29,919
+its entire length to do so
+ 
+
+279
+00:04:29,919 --> 00:04:32,150
+its entire length to do so
+but some gms may choose to only require
+
+280
+00:04:32,150 --> 00:04:32,160
+but some gms may choose to only require
+ 
+
+281
+00:04:32,160 --> 00:04:33,350
+but some gms may choose to only require
+the vehicle to move
+
+282
+00:04:33,350 --> 00:04:33,360
+the vehicle to move
+ 
+
+283
+00:04:33,360 --> 00:04:35,749
+the vehicle to move
+half its length forward when turning 45
+
+284
+00:04:35,749 --> 00:04:35,759
+half its length forward when turning 45
+ 
+
+285
+00:04:35,759 --> 00:04:39,670
+half its length forward when turning 45
+degrees instead of the full 90.
+
+286
+00:04:39,670 --> 00:04:39,680
+
+ 
+
+287
+00:04:39,680 --> 00:04:41,350
+
+the vehicle's pilot will need to roll
+
+288
+00:04:41,350 --> 00:04:41,360
+the vehicle's pilot will need to roll
+ 
+
+289
+00:04:41,360 --> 00:04:43,189
+the vehicle's pilot will need to roll
+skill checks to control the vehicle and
+
+290
+00:04:43,189 --> 00:04:43,199
+skill checks to control the vehicle and
+ 
+
+291
+00:04:43,199 --> 00:04:43,990
+skill checks to control the vehicle and
+to steer it
+
+292
+00:04:43,990 --> 00:04:44,000
+to steer it
+ 
+
+293
+00:04:44,000 --> 00:04:46,310
+to steer it
+but the exact skill that is used will
+
+294
+00:04:46,310 --> 00:04:46,320
+but the exact skill that is used will
+ 
+
+295
+00:04:46,320 --> 00:04:48,230
+but the exact skill that is used will
+vary from vehicle to vehicle
+
+296
+00:04:48,230 --> 00:04:48,240
+vary from vehicle to vehicle
+ 
+
+297
+00:04:48,240 --> 00:04:50,150
+vary from vehicle to vehicle
+each vehicle's stat block includes a
+
+298
+00:04:50,150 --> 00:04:50,160
+each vehicle's stat block includes a
+ 
+
+299
+00:04:50,160 --> 00:04:51,830
+each vehicle's stat block includes a
+section for piloting checks
+
+300
+00:04:51,830 --> 00:04:51,840
+section for piloting checks
+ 
+
+301
+00:04:51,840 --> 00:04:53,830
+section for piloting checks
+that lists which skills may be used by
+
+302
+00:04:53,830 --> 00:04:53,840
+that lists which skills may be used by
+ 
+
+303
+00:04:53,840 --> 00:04:56,310
+that lists which skills may be used by
+the pilot for example the pilot for a
+
+304
+00:04:56,310 --> 00:04:56,320
+the pilot for example the pilot for a
+ 
+
+305
+00:04:56,320 --> 00:04:56,950
+the pilot for example the pilot for a
+galley
+
+306
+00:04:56,950 --> 00:04:56,960
+galley
+ 
+
+307
+00:04:56,960 --> 00:05:00,150
+galley
+may use sailing lure diplomacy or
+
+308
+00:05:00,150 --> 00:05:00,160
+may use sailing lure diplomacy or
+ 
+
+309
+00:05:00,160 --> 00:05:02,790
+may use sailing lure diplomacy or
+intimidation and the available skills
+
+310
+00:05:02,790 --> 00:05:02,800
+intimidation and the available skills
+ 
+
+311
+00:05:02,800 --> 00:05:04,710
+intimidation and the available skills
+for these piloting checks are largely
+
+312
+00:05:04,710 --> 00:05:04,720
+for these piloting checks are largely
+ 
+
+313
+00:05:04,720 --> 00:05:06,469
+for these piloting checks are largely
+informed by the vehicle's means of
+
+314
+00:05:06,469 --> 00:05:06,479
+informed by the vehicle's means of
+ 
+
+315
+00:05:06,479 --> 00:05:07,430
+informed by the vehicle's means of
+propulsion
+
+316
+00:05:07,430 --> 00:05:07,440
+propulsion
+ 
+
+317
+00:05:07,440 --> 00:05:09,510
+propulsion
+which are listed in parentheses in the
+
+318
+00:05:09,510 --> 00:05:09,520
+which are listed in parentheses in the
+ 
+
+319
+00:05:09,520 --> 00:05:10,950
+which are listed in parentheses in the
+speed listing
+
+320
+00:05:10,950 --> 00:05:10,960
+speed listing
+ 
+
+321
+00:05:10,960 --> 00:05:14,070
+speed listing
+galleys have a swim speed of 30 feet and
+
+322
+00:05:14,070 --> 00:05:14,080
+galleys have a swim speed of 30 feet and
+ 
+
+323
+00:05:14,080 --> 00:05:15,510
+galleys have a swim speed of 30 feet and
+a galley's means of propulsion
+
+324
+00:05:15,510 --> 00:05:15,520
+a galley's means of propulsion
+ 
+
+325
+00:05:15,520 --> 00:05:18,230
+a galley's means of propulsion
+are road and wind some vehicles like
+
+326
+00:05:18,230 --> 00:05:18,240
+are road and wind some vehicles like
+ 
+
+327
+00:05:18,240 --> 00:05:18,710
+are road and wind some vehicles like
+this one
+
+328
+00:05:18,710 --> 00:05:18,720
+this one
+ 
+
+329
+00:05:18,720 --> 00:05:21,029
+this one
+have more than one means of propulsion
+
+330
+00:05:21,029 --> 00:05:21,039
+have more than one means of propulsion
+ 
+
+331
+00:05:21,039 --> 00:05:23,189
+have more than one means of propulsion
+but may never use more than one at the
+
+332
+00:05:23,189 --> 00:05:23,199
+but may never use more than one at the
+ 
+
+333
+00:05:23,199 --> 00:05:24,310
+but may never use more than one at the
+same time
+
+334
+00:05:24,310 --> 00:05:24,320
+same time
+ 
+
+335
+00:05:24,320 --> 00:05:26,790
+same time
+so a galley can move by means of rowing
+
+336
+00:05:26,790 --> 00:05:26,800
+so a galley can move by means of rowing
+ 
+
+337
+00:05:26,800 --> 00:05:27,430
+so a galley can move by means of rowing
+or by
+
+338
+00:05:27,430 --> 00:05:27,440
+or by
+ 
+
+339
+00:05:27,440 --> 00:05:30,469
+or by
+wind but not both at the same time
+
+340
+00:05:30,469 --> 00:05:30,479
+wind but not both at the same time
+ 
+
+341
+00:05:30,479 --> 00:05:32,230
+wind but not both at the same time
+we'll discuss more about the different
+
+342
+00:05:32,230 --> 00:05:32,240
+we'll discuss more about the different
+ 
+
+343
+00:05:32,240 --> 00:05:34,790
+we'll discuss more about the different
+means of propulsions and how they work
+
+344
+00:05:34,790 --> 00:05:34,800
+means of propulsions and how they work
+ 
+
+345
+00:05:34,800 --> 00:05:37,270
+means of propulsions and how they work
+in the next video when we dive into more
+
+346
+00:05:37,270 --> 00:05:37,280
+in the next video when we dive into more
+ 
+
+347
+00:05:37,280 --> 00:05:38,310
+in the next video when we dive into more
+information about
+
+348
+00:05:38,310 --> 00:05:38,320
+information about
+ 
+
+349
+00:05:38,320 --> 00:05:41,749
+information about
+vehicles in combat
+
+350
+00:05:41,749 --> 00:05:41,759
+
+ 
+
+351
+00:05:41,759 --> 00:05:43,909
+
+every round in encounter mode the
+
+352
+00:05:43,909 --> 00:05:43,919
+every round in encounter mode the
+ 
+
+353
+00:05:43,919 --> 00:05:45,749
+every round in encounter mode the
+vehicle will move during its pilot's
+
+354
+00:05:45,749 --> 00:05:45,759
+vehicle will move during its pilot's
+ 
+
+355
+00:05:45,759 --> 00:05:46,230
+vehicle will move during its pilot's
+turn
+
+356
+00:05:46,230 --> 00:05:46,240
+turn
+ 
+
+357
+00:05:46,240 --> 00:05:48,390
+turn
+and the pilot must use their actions to
+
+358
+00:05:48,390 --> 00:05:48,400
+and the pilot must use their actions to
+ 
+
+359
+00:05:48,400 --> 00:05:49,350
+and the pilot must use their actions to
+control it
+
+360
+00:05:49,350 --> 00:05:49,360
+control it
+ 
+
+361
+00:05:49,360 --> 00:05:51,990
+control it
+and vehicles may only take part in one
+
+362
+00:05:51,990 --> 00:05:52,000
+and vehicles may only take part in one
+ 
+
+363
+00:05:52,000 --> 00:05:53,029
+and vehicles may only take part in one
+move action per
+
+364
+00:05:53,029 --> 00:05:53,039
+move action per
+ 
+
+365
+00:05:53,039 --> 00:05:55,189
+move action per
+round regardless of how many different
+
+366
+00:05:55,189 --> 00:05:55,199
+round regardless of how many different
+ 
+
+367
+00:05:55,199 --> 00:05:56,870
+round regardless of how many different
+people attempt to pilot it during the
+
+368
+00:05:56,870 --> 00:05:56,880
+people attempt to pilot it during the
+ 
+
+369
+00:05:56,880 --> 00:05:57,830
+people attempt to pilot it during the
+round
+
+370
+00:05:57,830 --> 00:05:57,840
+round
+ 
+
+371
+00:05:57,840 --> 00:05:59,990
+round
+once a vehicle is in motion it has
+
+372
+00:05:59,990 --> 00:06:00,000
+once a vehicle is in motion it has
+ 
+
+373
+00:06:00,000 --> 00:06:02,390
+once a vehicle is in motion it has
+momentum and continues to move towards
+
+374
+00:06:02,390 --> 00:06:02,400
+momentum and continues to move towards
+ 
+
+375
+00:06:02,400 --> 00:06:03,670
+momentum and continues to move towards
+its current heading
+
+376
+00:06:03,670 --> 00:06:03,680
+its current heading
+ 
+
+377
+00:06:03,680 --> 00:06:05,510
+its current heading
+each round if the vehicle moved in the
+
+378
+00:06:05,510 --> 00:06:05,520
+each round if the vehicle moved in the
+ 
+
+379
+00:06:05,520 --> 00:06:07,990
+each round if the vehicle moved in the
+previous round the pilot must either use
+
+380
+00:06:07,990 --> 00:06:08,000
+previous round the pilot must either use
+ 
+
+381
+00:06:08,000 --> 00:06:10,309
+previous round the pilot must either use
+an action to control the vehicle or stop
+
+382
+00:06:10,309 --> 00:06:10,319
+an action to control the vehicle or stop
+ 
+
+383
+00:06:10,319 --> 00:06:10,950
+an action to control the vehicle or stop
+it
+
+384
+00:06:10,950 --> 00:06:10,960
+it
+ 
+
+385
+00:06:10,960 --> 00:06:13,189
+it
+if the pilot does not do this then the
+
+386
+00:06:13,189 --> 00:06:13,199
+if the pilot does not do this then the
+ 
+
+387
+00:06:13,199 --> 00:06:14,550
+if the pilot does not do this then the
+vehicle will become
+
+388
+00:06:14,550 --> 00:06:14,560
+vehicle will become
+ 
+
+389
+00:06:14,560 --> 00:06:16,629
+vehicle will become
+uncontrolled when a vehicle is
+
+390
+00:06:16,629 --> 00:06:16,639
+uncontrolled when a vehicle is
+ 
+
+391
+00:06:16,639 --> 00:06:17,670
+uncontrolled when a vehicle is
+uncontrolled
+
+392
+00:06:17,670 --> 00:06:17,680
+uncontrolled
+ 
+
+393
+00:06:17,680 --> 00:06:19,909
+uncontrolled
+it moves each round on his most recent
+
+394
+00:06:19,909 --> 00:06:19,919
+it moves each round on his most recent
+ 
+
+395
+00:06:19,919 --> 00:06:21,350
+it moves each round on his most recent
+pilot's turn
+
+396
+00:06:21,350 --> 00:06:21,360
+pilot's turn
+ 
+
+397
+00:06:21,360 --> 00:06:23,990
+pilot's turn
+the distance it moves is 10 feet less
+
+398
+00:06:23,990 --> 00:06:24,000
+the distance it moves is 10 feet less
+ 
+
+399
+00:06:24,000 --> 00:06:26,070
+the distance it moves is 10 feet less
+than it moved in the previous round
+
+400
+00:06:26,070 --> 00:06:26,080
+than it moved in the previous round
+ 
+
+401
+00:06:26,080 --> 00:06:28,230
+than it moved in the previous round
+in a straight line until it crashes or
+
+402
+00:06:28,230 --> 00:06:28,240
+in a straight line until it crashes or
+ 
+
+403
+00:06:28,240 --> 00:06:29,510
+in a straight line until it crashes or
+comes to a stop
+
+404
+00:06:29,510 --> 00:06:29,520
+comes to a stop
+ 
+
+405
+00:06:29,520 --> 00:06:31,350
+comes to a stop
+so every round that a vehicle is
+
+406
+00:06:31,350 --> 00:06:31,360
+so every round that a vehicle is
+ 
+
+407
+00:06:31,360 --> 00:06:33,350
+so every round that a vehicle is
+uncontrolled it progressively moves
+
+408
+00:06:33,350 --> 00:06:33,360
+uncontrolled it progressively moves
+ 
+
+409
+00:06:33,360 --> 00:06:34,950
+uncontrolled it progressively moves
+slower and slower
+
+410
+00:06:34,950 --> 00:06:34,960
+slower and slower
+ 
+
+411
+00:06:34,960 --> 00:06:36,790
+slower and slower
+at the gym's discretion the rate at
+
+412
+00:06:36,790 --> 00:06:36,800
+at the gym's discretion the rate at
+ 
+
+413
+00:06:36,800 --> 00:06:38,790
+at the gym's discretion the rate at
+which the uncontrolled vehicle slows
+
+414
+00:06:38,790 --> 00:06:38,800
+which the uncontrolled vehicle slows
+ 
+
+415
+00:06:38,800 --> 00:06:41,189
+which the uncontrolled vehicle slows
+may be increased or even decreased due
+
+416
+00:06:41,189 --> 00:06:41,199
+may be increased or even decreased due
+ 
+
+417
+00:06:41,199 --> 00:06:42,870
+may be increased or even decreased due
+to environmental conditions
+
+418
+00:06:42,870 --> 00:06:42,880
+to environmental conditions
+ 
+
+419
+00:06:42,880 --> 00:06:45,110
+to environmental conditions
+like difficult terrain wind or the
+
+420
+00:06:45,110 --> 00:06:45,120
+like difficult terrain wind or the
+ 
+
+421
+00:06:45,120 --> 00:06:47,189
+like difficult terrain wind or the
+direction water is flowing
+
+422
+00:06:47,189 --> 00:06:47,199
+direction water is flowing
+ 
+
+423
+00:06:47,199 --> 00:06:49,029
+direction water is flowing
+and uncontrolled vehicles may still
+
+424
+00:06:49,029 --> 00:06:49,039
+and uncontrolled vehicles may still
+ 
+
+425
+00:06:49,039 --> 00:06:51,110
+and uncontrolled vehicles may still
+interact with some vehicle actions
+
+426
+00:06:51,110 --> 00:06:51,120
+interact with some vehicle actions
+ 
+
+427
+00:06:51,120 --> 00:06:53,029
+interact with some vehicle actions
+such as hitting obstacles or other
+
+428
+00:06:53,029 --> 00:06:53,039
+such as hitting obstacles or other
+ 
+
+429
+00:06:53,039 --> 00:06:55,350
+such as hitting obstacles or other
+vehicles or running over a creature
+
+430
+00:06:55,350 --> 00:06:55,360
+vehicles or running over a creature
+ 
+
+431
+00:06:55,360 --> 00:06:57,430
+vehicles or running over a creature
+but when doing so the uncontrolled
+
+432
+00:06:57,430 --> 00:06:57,440
+but when doing so the uncontrolled
+ 
+
+433
+00:06:57,440 --> 00:06:59,270
+but when doing so the uncontrolled
+vehicle uses its current rate of
+
+434
+00:06:59,270 --> 00:06:59,280
+vehicle uses its current rate of
+ 
+
+435
+00:06:59,280 --> 00:06:59,990
+vehicle uses its current rate of
+movement
+
+436
+00:06:59,990 --> 00:07:00,000
+movement
+ 
+
+437
+00:07:00,000 --> 00:07:02,469
+movement
+instead of the vehicle's speed score
+
+438
+00:07:02,469 --> 00:07:02,479
+instead of the vehicle's speed score
+ 
+
+439
+00:07:02,479 --> 00:07:03,990
+instead of the vehicle's speed score
+another trait we should cover before
+
+440
+00:07:03,990 --> 00:07:04,000
+another trait we should cover before
+ 
+
+441
+00:07:04,000 --> 00:07:05,749
+another trait we should cover before
+getting too deep into how you pilot
+
+442
+00:07:05,749 --> 00:07:05,759
+getting too deep into how you pilot
+ 
+
+443
+00:07:05,759 --> 00:07:06,550
+getting too deep into how you pilot
+vehicles
+
+444
+00:07:06,550 --> 00:07:06,560
+vehicles
+ 
+
+445
+00:07:06,560 --> 00:07:09,350
+vehicles
+is the reckless trait when a piloting
+
+446
+00:07:09,350 --> 00:07:09,360
+is the reckless trait when a piloting
+ 
+
+447
+00:07:09,360 --> 00:07:10,309
+is the reckless trait when a piloting
+action has the
+
+448
+00:07:10,309 --> 00:07:10,319
+action has the
+ 
+
+449
+00:07:10,319 --> 00:07:13,029
+action has the
+reckless trait the pilot must pass a
+
+450
+00:07:13,029 --> 00:07:13,039
+reckless trait the pilot must pass a
+ 
+
+451
+00:07:13,039 --> 00:07:14,870
+reckless trait the pilot must pass a
+piloting check before resolving the
+
+452
+00:07:14,870 --> 00:07:14,880
+piloting check before resolving the
+ 
+
+453
+00:07:14,880 --> 00:07:16,950
+piloting check before resolving the
+reckless action they want to perform
+
+454
+00:07:16,950 --> 00:07:16,960
+reckless action they want to perform
+ 
+
+455
+00:07:16,960 --> 00:07:19,029
+reckless action they want to perform
+on a success they can proceed and
+
+456
+00:07:19,029 --> 00:07:19,039
+on a success they can proceed and
+ 
+
+457
+00:07:19,039 --> 00:07:20,629
+on a success they can proceed and
+attempt the reckless action
+
+458
+00:07:20,629 --> 00:07:20,639
+attempt the reckless action
+ 
+
+459
+00:07:20,639 --> 00:07:22,870
+attempt the reckless action
+but on a failure they cannot attempt the
+
+460
+00:07:22,870 --> 00:07:22,880
+but on a failure they cannot attempt the
+ 
+
+461
+00:07:22,880 --> 00:07:23,909
+but on a failure they cannot attempt the
+reckless action
+
+462
+00:07:23,909 --> 00:07:23,919
+reckless action
+ 
+
+463
+00:07:23,919 --> 00:07:25,909
+reckless action
+and instead the vehicle moves at his
+
+464
+00:07:25,909 --> 00:07:25,919
+and instead the vehicle moves at his
+ 
+
+465
+00:07:25,919 --> 00:07:28,230
+and instead the vehicle moves at his
+entire speed score in a straight line
+
+466
+00:07:28,230 --> 00:07:28,240
+entire speed score in a straight line
+ 
+
+467
+00:07:28,240 --> 00:07:31,990
+entire speed score in a straight line
+and becomes uncontrolled
+
+468
+00:07:31,990 --> 00:07:32,000
+
+ 
+
+469
+00:07:32,000 --> 00:07:33,830
+
+as previously mentioned controlling a
+
+470
+00:07:33,830 --> 00:07:33,840
+as previously mentioned controlling a
+ 
+
+471
+00:07:33,840 --> 00:07:35,510
+as previously mentioned controlling a
+vehicle calls for his pilot to roll
+
+472
+00:07:35,510 --> 00:07:35,520
+vehicle calls for his pilot to roll
+ 
+
+473
+00:07:35,520 --> 00:07:36,790
+vehicle calls for his pilot to roll
+piloting checks
+
+474
+00:07:36,790 --> 00:07:36,800
+piloting checks
+ 
+
+475
+00:07:36,800 --> 00:07:39,110
+piloting checks
+the skills and dc's for which are listed
+
+476
+00:07:39,110 --> 00:07:39,120
+the skills and dc's for which are listed
+ 
+
+477
+00:07:39,120 --> 00:07:40,790
+the skills and dc's for which are listed
+in the vehicle step block
+
+478
+00:07:40,790 --> 00:07:40,800
+in the vehicle step block
+ 
+
+479
+00:07:40,800 --> 00:07:42,870
+in the vehicle step block
+also at the start of an encounter the
+
+480
+00:07:42,870 --> 00:07:42,880
+also at the start of an encounter the
+ 
+
+481
+00:07:42,880 --> 00:07:44,869
+also at the start of an encounter the
+pilot can usually roll whatever skill
+
+482
+00:07:44,869 --> 00:07:44,879
+pilot can usually roll whatever skill
+ 
+
+483
+00:07:44,879 --> 00:07:46,390
+pilot can usually roll whatever skill
+they use for their piloting checks
+
+484
+00:07:46,390 --> 00:07:46,400
+they use for their piloting checks
+ 
+
+485
+00:07:46,400 --> 00:07:49,350
+they use for their piloting checks
+for their initiative as well okay so
+
+486
+00:07:49,350 --> 00:07:49,360
+for their initiative as well okay so
+ 
+
+487
+00:07:49,360 --> 00:07:49,749
+for their initiative as well okay so
+next
+
+488
+00:07:49,749 --> 00:07:49,759
+next
+ 
+
+489
+00:07:49,759 --> 00:07:51,670
+next
+let's look at the different piloting
+
+490
+00:07:51,670 --> 00:07:51,680
+let's look at the different piloting
+ 
+
+491
+00:07:51,680 --> 00:07:53,110
+let's look at the different piloting
+actions that are available
+
+492
+00:07:53,110 --> 00:07:53,120
+actions that are available
+ 
+
+493
+00:07:53,120 --> 00:07:55,510
+actions that are available
+unless otherwise noted the dc's for
+
+494
+00:07:55,510 --> 00:07:55,520
+unless otherwise noted the dc's for
+ 
+
+495
+00:07:55,520 --> 00:07:57,510
+unless otherwise noted the dc's for
+these checks will be the standard dc for
+
+496
+00:07:57,510 --> 00:07:57,520
+these checks will be the standard dc for
+ 
+
+497
+00:07:57,520 --> 00:07:58,710
+these checks will be the standard dc for
+the vehicle's level
+
+498
+00:07:58,710 --> 00:07:58,720
+the vehicle's level
+ 
+
+499
+00:07:58,720 --> 00:08:01,350
+the vehicle's level
+and the gm may further modify the dc as
+
+500
+00:08:01,350 --> 00:08:01,360
+and the gm may further modify the dc as
+ 
+
+501
+00:08:01,360 --> 00:08:02,390
+and the gm may further modify the dc as
+appropriate
+
+502
+00:08:02,390 --> 00:08:02,400
+appropriate
+ 
+
+503
+00:08:02,400 --> 00:08:04,070
+appropriate
+for example if the vehicle is moving
+
+504
+00:08:04,070 --> 00:08:04,080
+for example if the vehicle is moving
+ 
+
+505
+00:08:04,080 --> 00:08:05,589
+for example if the vehicle is moving
+through difficult terrain
+
+506
+00:08:05,589 --> 00:08:05,599
+through difficult terrain
+ 
+
+507
+00:08:05,599 --> 00:08:07,749
+through difficult terrain
+the dc will increase from standard to
+
+508
+00:08:07,749 --> 00:08:07,759
+the dc will increase from standard to
+ 
+
+509
+00:08:07,759 --> 00:08:10,390
+the dc will increase from standard to
+hard and for greater difficult train the
+
+510
+00:08:10,390 --> 00:08:10,400
+hard and for greater difficult train the
+ 
+
+511
+00:08:10,400 --> 00:08:13,110
+hard and for greater difficult train the
+dc becomes incredibly hard
+
+512
+00:08:13,110 --> 00:08:13,120
+dc becomes incredibly hard
+ 
+
+513
+00:08:13,120 --> 00:08:15,830
+dc becomes incredibly hard
+first up is board simply put you spend
+
+514
+00:08:15,830 --> 00:08:15,840
+first up is board simply put you spend
+ 
+
+515
+00:08:15,840 --> 00:08:17,270
+first up is board simply put you spend
+one action to get onto
+
+516
+00:08:17,270 --> 00:08:17,280
+one action to get onto
+ 
+
+517
+00:08:17,280 --> 00:08:19,830
+one action to get onto
+or off of a vehicle if the vehicle is in
+
+518
+00:08:19,830 --> 00:08:19,840
+or off of a vehicle if the vehicle is in
+ 
+
+519
+00:08:19,840 --> 00:08:20,390
+or off of a vehicle if the vehicle is in
+motion
+
+520
+00:08:20,390 --> 00:08:20,400
+motion
+ 
+
+521
+00:08:20,400 --> 00:08:22,550
+motion
+then this calls for an acrobatics or
+
+522
+00:08:22,550 --> 00:08:22,560
+then this calls for an acrobatics or
+ 
+
+523
+00:08:22,560 --> 00:08:23,670
+then this calls for an acrobatics or
+athletics check
+
+524
+00:08:23,670 --> 00:08:23,680
+athletics check
+ 
+
+525
+00:08:23,680 --> 00:08:27,029
+athletics check
+against the vehicle's armor class next
+
+526
+00:08:27,029 --> 00:08:27,039
+against the vehicle's armor class next
+ 
+
+527
+00:08:27,039 --> 00:08:29,510
+against the vehicle's armor class next
+is the drive action which is how you
+
+528
+00:08:29,510 --> 00:08:29,520
+is the drive action which is how you
+ 
+
+529
+00:08:29,520 --> 00:08:30,950
+is the drive action which is how you
+make the vehicle move
+
+530
+00:08:30,950 --> 00:08:30,960
+make the vehicle move
+ 
+
+531
+00:08:30,960 --> 00:08:33,190
+make the vehicle move
+each turn the pilot will decide how many
+
+532
+00:08:33,190 --> 00:08:33,200
+each turn the pilot will decide how many
+ 
+
+533
+00:08:33,200 --> 00:08:34,790
+each turn the pilot will decide how many
+of their actions they wish to invest in
+
+534
+00:08:34,790 --> 00:08:34,800
+of their actions they wish to invest in
+ 
+
+535
+00:08:34,800 --> 00:08:36,310
+of their actions they wish to invest in
+controlling the vehicle
+
+536
+00:08:36,310 --> 00:08:36,320
+controlling the vehicle
+ 
+
+537
+00:08:36,320 --> 00:08:38,469
+controlling the vehicle
+for a one action the pilot rolls their
+
+538
+00:08:38,469 --> 00:08:38,479
+for a one action the pilot rolls their
+ 
+
+539
+00:08:38,479 --> 00:08:40,389
+for a one action the pilot rolls their
+check and on its success the vehicle
+
+540
+00:08:40,389 --> 00:08:40,399
+check and on its success the vehicle
+ 
+
+541
+00:08:40,399 --> 00:08:42,070
+check and on its success the vehicle
+moves up to its speed
+
+542
+00:08:42,070 --> 00:08:42,080
+moves up to its speed
+ 
+
+543
+00:08:42,080 --> 00:08:44,790
+moves up to its speed
+and turns normally on a failure the
+
+544
+00:08:44,790 --> 00:08:44,800
+and turns normally on a failure the
+ 
+
+545
+00:08:44,800 --> 00:08:47,110
+and turns normally on a failure the
+vehicle moves its entire speed in a
+
+546
+00:08:47,110 --> 00:08:47,120
+vehicle moves its entire speed in a
+ 
+
+547
+00:08:47,120 --> 00:08:47,829
+vehicle moves its entire speed in a
+straight line
+
+548
+00:08:47,829 --> 00:08:47,839
+straight line
+ 
+
+549
+00:08:47,839 --> 00:08:50,630
+straight line
+and can not turn and on a critical
+
+550
+00:08:50,630 --> 00:08:50,640
+and can not turn and on a critical
+ 
+
+551
+00:08:50,640 --> 00:08:51,190
+and can not turn and on a critical
+failure
+
+552
+00:08:51,190 --> 00:08:51,200
+failure
+ 
+
+553
+00:08:51,200 --> 00:08:53,430
+failure
+the vehicle moves its entire speed in a
+
+554
+00:08:53,430 --> 00:08:53,440
+the vehicle moves its entire speed in a
+ 
+
+555
+00:08:53,440 --> 00:08:54,870
+the vehicle moves its entire speed in a
+straight line and becomes
+
+556
+00:08:54,870 --> 00:08:54,880
+straight line and becomes
+ 
+
+557
+00:08:54,880 --> 00:08:57,509
+straight line and becomes
+uncontrolled if the pilot spins two
+
+558
+00:08:57,509 --> 00:08:57,519
+uncontrolled if the pilot spins two
+ 
+
+559
+00:08:57,519 --> 00:08:58,470
+uncontrolled if the pilot spins two
+actions on drive
+
+560
+00:08:58,470 --> 00:08:58,480
+actions on drive
+ 
+
+561
+00:08:58,480 --> 00:09:00,550
+actions on drive
+then the vehicle moves up to twice the
+
+562
+00:09:00,550 --> 00:09:00,560
+then the vehicle moves up to twice the
+ 
+
+563
+00:09:00,560 --> 00:09:01,990
+then the vehicle moves up to twice the
+speed in a straight line
+
+564
+00:09:01,990 --> 00:09:02,000
+speed in a straight line
+ 
+
+565
+00:09:02,000 --> 00:09:04,870
+speed in a straight line
+but can not turn note that when you
+
+566
+00:09:04,870 --> 00:09:04,880
+but can not turn note that when you
+ 
+
+567
+00:09:04,880 --> 00:09:06,710
+but can not turn note that when you
+spend two actions to drive
+
+568
+00:09:06,710 --> 00:09:06,720
+spend two actions to drive
+ 
+
+569
+00:09:06,720 --> 00:09:08,870
+spend two actions to drive
+it gains the reckless trait meaning the
+
+570
+00:09:08,870 --> 00:09:08,880
+it gains the reckless trait meaning the
+ 
+
+571
+00:09:08,880 --> 00:09:10,949
+it gains the reckless trait meaning the
+pilot needs to pass a piloting check
+
+572
+00:09:10,949 --> 00:09:10,959
+pilot needs to pass a piloting check
+ 
+
+573
+00:09:10,959 --> 00:09:13,030
+pilot needs to pass a piloting check
+before they can resolve this action as
+
+574
+00:09:13,030 --> 00:09:13,040
+before they can resolve this action as
+ 
+
+575
+00:09:13,040 --> 00:09:14,949
+before they can resolve this action as
+previously discussed
+
+576
+00:09:14,949 --> 00:09:14,959
+previously discussed
+ 
+
+577
+00:09:14,959 --> 00:09:16,550
+previously discussed
+if the pilot spends three actions on
+
+578
+00:09:16,550 --> 00:09:16,560
+if the pilot spends three actions on
+ 
+
+579
+00:09:16,560 --> 00:09:18,070
+if the pilot spends three actions on
+drive then they face an
+
+580
+00:09:18,070 --> 00:09:18,080
+drive then they face an
+ 
+
+581
+00:09:18,080 --> 00:09:19,910
+drive then they face an
+extra piloting check due to it having
+
+582
+00:09:19,910 --> 00:09:19,920
+extra piloting check due to it having
+ 
+
+583
+00:09:19,920 --> 00:09:22,230
+extra piloting check due to it having
+the reckless trait however this time
+
+584
+00:09:22,230 --> 00:09:22,240
+the reckless trait however this time
+ 
+
+585
+00:09:22,240 --> 00:09:24,710
+the reckless trait however this time
+they face a negative 5 penalty to that
+
+586
+00:09:24,710 --> 00:09:24,720
+they face a negative 5 penalty to that
+ 
+
+587
+00:09:24,720 --> 00:09:25,590
+they face a negative 5 penalty to that
+check
+
+588
+00:09:25,590 --> 00:09:25,600
+check
+ 
+
+589
+00:09:25,600 --> 00:09:27,829
+check
+but if they succeed then the vehicle
+
+590
+00:09:27,829 --> 00:09:27,839
+but if they succeed then the vehicle
+ 
+
+591
+00:09:27,839 --> 00:09:29,030
+but if they succeed then the vehicle
+moves up to 3
+
+592
+00:09:29,030 --> 00:09:29,040
+moves up to 3
+ 
+
+593
+00:09:29,040 --> 00:09:32,150
+moves up to 3
+times his speed in a straight line next
+
+594
+00:09:32,150 --> 00:09:32,160
+times his speed in a straight line next
+ 
+
+595
+00:09:32,160 --> 00:09:33,990
+times his speed in a straight line next
+we have the stop action
+
+596
+00:09:33,990 --> 00:09:34,000
+we have the stop action
+ 
+
+597
+00:09:34,000 --> 00:09:36,150
+we have the stop action
+this costs one of the piles actions and
+
+598
+00:09:36,150 --> 00:09:36,160
+this costs one of the piles actions and
+ 
+
+599
+00:09:36,160 --> 00:09:37,990
+this costs one of the piles actions and
+brings the vehicle to a stop
+
+600
+00:09:37,990 --> 00:09:38,000
+brings the vehicle to a stop
+ 
+
+601
+00:09:38,000 --> 00:09:40,230
+brings the vehicle to a stop
+it doesn't matter how fast it was going
+
+602
+00:09:40,230 --> 00:09:40,240
+it doesn't matter how fast it was going
+ 
+
+603
+00:09:40,240 --> 00:09:42,310
+it doesn't matter how fast it was going
+this will bring it to a rest
+
+604
+00:09:42,310 --> 00:09:42,320
+this will bring it to a rest
+ 
+
+605
+00:09:42,320 --> 00:09:44,790
+this will bring it to a rest
+but remember a vehicle may only be used
+
+606
+00:09:44,790 --> 00:09:44,800
+but remember a vehicle may only be used
+ 
+
+607
+00:09:44,800 --> 00:09:46,710
+but remember a vehicle may only be used
+for one move action per round
+
+608
+00:09:46,710 --> 00:09:46,720
+for one move action per round
+ 
+
+609
+00:09:46,720 --> 00:09:48,630
+for one move action per round
+so you can't perform another vehicle
+
+610
+00:09:48,630 --> 00:09:48,640
+so you can't perform another vehicle
+ 
+
+611
+00:09:48,640 --> 00:09:51,590
+so you can't perform another vehicle
+action and stop in the same round
+
+612
+00:09:51,590 --> 00:09:51,600
+action and stop in the same round
+ 
+
+613
+00:09:51,600 --> 00:09:53,110
+action and stop in the same round
+and the last action we're going to
+
+614
+00:09:53,110 --> 00:09:53,120
+and the last action we're going to
+ 
+
+615
+00:09:53,120 --> 00:09:54,870
+and the last action we're going to
+discuss in this video is take
+
+616
+00:09:54,870 --> 00:09:54,880
+discuss in this video is take
+ 
+
+617
+00:09:54,880 --> 00:09:57,990
+discuss in this video is take
+control simply put this takes one action
+
+618
+00:09:57,990 --> 00:09:58,000
+control simply put this takes one action
+ 
+
+619
+00:09:58,000 --> 00:09:59,670
+control simply put this takes one action
+and a successful potting check
+
+620
+00:09:59,670 --> 00:09:59,680
+and a successful potting check
+ 
+
+621
+00:09:59,680 --> 00:10:01,509
+and a successful potting check
+and this is how you designate yourself
+
+622
+00:10:01,509 --> 00:10:01,519
+and this is how you designate yourself
+ 
+
+623
+00:10:01,519 --> 00:10:03,829
+and this is how you designate yourself
+as the vehicle's pilot
+
+624
+00:10:03,829 --> 00:10:03,839
+as the vehicle's pilot
+ 
+
+625
+00:10:03,839 --> 00:10:05,670
+as the vehicle's pilot
+those are all of the vehicle actions
+
+626
+00:10:05,670 --> 00:10:05,680
+those are all of the vehicle actions
+ 
+
+627
+00:10:05,680 --> 00:10:07,030
+those are all of the vehicle actions
+we'll be discussing here
+
+628
+00:10:07,030 --> 00:10:07,040
+we'll be discussing here
+ 
+
+629
+00:10:07,040 --> 00:10:08,870
+we'll be discussing here
+in the next video we'll examine how
+
+630
+00:10:08,870 --> 00:10:08,880
+in the next video we'll examine how
+ 
+
+631
+00:10:08,880 --> 00:10:10,389
+in the next video we'll examine how
+vehicles function in combat
+
+632
+00:10:10,389 --> 00:10:10,399
+vehicles function in combat
+ 
+
+633
+00:10:10,399 --> 00:10:13,430
+vehicles function in combat
+such as running creatures over ramming
+
+634
+00:10:13,430 --> 00:10:13,440
+such as running creatures over ramming
+ 
+
+635
+00:10:13,440 --> 00:10:15,990
+such as running creatures over ramming
+collision damage attacks of opportunity
+
+636
+00:10:15,990 --> 00:10:16,000
+collision damage attacks of opportunity
+ 
+
+637
+00:10:16,000 --> 00:10:18,550
+collision damage attacks of opportunity
+and more
+
+638
+00:10:18,550 --> 00:10:18,560
+and more
+ 
+
+639
+00:10:18,560 --> 00:10:19,990
+and more
+before we close i'd like to take a
+
+640
+00:10:19,990 --> 00:10:20,000
+before we close i'd like to take a
+ 
+
+641
+00:10:20,000 --> 00:10:21,990
+before we close i'd like to take a
+moment to thank all of my patrons
+
+642
+00:10:21,990 --> 00:10:22,000
+moment to thank all of my patrons
+ 
+
+643
+00:10:22,000 --> 00:10:23,590
+moment to thank all of my patrons
+these videos would not be possible
+
+644
+00:10:23,590 --> 00:10:23,600
+these videos would not be possible
+ 
+
+645
+00:10:23,600 --> 00:10:25,509
+these videos would not be possible
+without their continued generosity and
+
+646
+00:10:25,509 --> 00:10:25,519
+without their continued generosity and
+ 
+
+647
+00:10:25,519 --> 00:10:26,630
+without their continued generosity and
+support
+
+648
+00:10:26,630 --> 00:10:26,640
+support
+ 
+
+649
+00:10:26,640 --> 00:10:28,230
+support
+members of the house played patreon
+
+650
+00:10:28,230 --> 00:10:28,240
+members of the house played patreon
+ 
+
+651
+00:10:28,240 --> 00:10:30,310
+members of the house played patreon
+community receive special benefits like
+
+652
+00:10:30,310 --> 00:10:30,320
+community receive special benefits like
+ 
+
+653
+00:10:30,320 --> 00:10:32,470
+community receive special benefits like
+exclusive content and getting to vote on
+
+654
+00:10:32,470 --> 00:10:32,480
+exclusive content and getting to vote on
+ 
+
+655
+00:10:32,480 --> 00:10:33,750
+exclusive content and getting to vote on
+the topics i cover
+
+656
+00:10:33,750 --> 00:10:33,760
+the topics i cover
+ 
+
+657
+00:10:33,760 --> 00:10:34,949
+the topics i cover
+if you would like to support this
+
+658
+00:10:34,949 --> 00:10:34,959
+if you would like to support this
+ 
+
+659
+00:10:34,959 --> 00:10:37,030
+if you would like to support this
+channel and help it grow the easiest way
+
+660
+00:10:37,030 --> 00:10:37,040
+channel and help it grow the easiest way
+ 
+
+661
+00:10:37,040 --> 00:10:37,829
+channel and help it grow the easiest way
+to do that
+
+662
+00:10:37,829 --> 00:10:37,839
+to do that
+ 
+
+663
+00:10:37,839 --> 00:10:39,670
+to do that
+is by subscribing and clicking the bell
+
+664
+00:10:39,670 --> 00:10:39,680
+is by subscribing and clicking the bell
+ 
+
+665
+00:10:39,680 --> 00:10:41,910
+is by subscribing and clicking the bell
+icon so you get notified when new videos
+
+666
+00:10:41,910 --> 00:10:41,920
+icon so you get notified when new videos
+ 
+
+667
+00:10:41,920 --> 00:10:42,630
+icon so you get notified when new videos
+release
+
+668
+00:10:42,630 --> 00:10:42,640
+release
+ 
+
+669
+00:10:42,640 --> 00:10:44,150
+release
+and i can always be reached through
+
+670
+00:10:44,150 --> 00:10:44,160
+and i can always be reached through
+ 
+
+671
+00:10:44,160 --> 00:10:46,310
+and i can always be reached through
+twitter and facebook too thanks for
+
+672
+00:10:46,310 --> 00:10:46,320
+twitter and facebook too thanks for
+ 
+
+673
+00:10:46,320 --> 00:10:46,949
+twitter and facebook too thanks for
+watching
+
+674
+00:10:46,949 --> 00:10:46,959
+watching
+ 
+
+675
+00:10:46,959 --> 00:10:52,320
+watching
+take care and happy gaming
+

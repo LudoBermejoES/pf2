@@ -1,0 +1,1895 @@
+1
+00:00:00,750 --> 00:00:03,300
+
+welcome to basics for gamers presents
+
+2
+00:00:03,300 --> 00:00:03,310
+welcome to basics for gamers presents
+ 
+
+3
+00:00:03,310 --> 00:00:06,659
+welcome to basics for gamers presents
+crafting examples part 2 in Pathfinder
+
+4
+00:00:06,659 --> 00:00:06,669
+crafting examples part 2 in Pathfinder
+ 
+
+5
+00:00:06,669 --> 00:00:09,209
+crafting examples part 2 in Pathfinder
+if you haven't already watched our
+
+6
+00:00:09,209 --> 00:00:09,219
+if you haven't already watched our
+ 
+
+7
+00:00:09,219 --> 00:00:11,400
+if you haven't already watched our
+knowledge videos on crafting you're
+
+8
+00:00:11,400 --> 00:00:11,410
+knowledge videos on crafting you're
+ 
+
+9
+00:00:11,410 --> 00:00:13,530
+knowledge videos on crafting you're
+encouraged to do so before viewing these
+
+10
+00:00:13,530 --> 00:00:13,540
+encouraged to do so before viewing these
+ 
+
+11
+00:00:13,540 --> 00:00:15,810
+encouraged to do so before viewing these
+examples a link to those videos may be
+
+12
+00:00:15,810 --> 00:00:15,820
+examples a link to those videos may be
+ 
+
+13
+00:00:15,820 --> 00:00:18,700
+examples a link to those videos may be
+found in the description
+
+14
+00:00:18,700 --> 00:00:18,710
+found in the description
+ 
+
+15
+00:00:18,710 --> 00:00:22,179
+found in the description
+first off let's make a plus-one weapon
+
+16
+00:00:22,179 --> 00:00:22,189
+first off let's make a plus-one weapon
+ 
+
+17
+00:00:22,189 --> 00:00:25,689
+first off let's make a plus-one weapon
+potency rune crafting runes is often
+
+18
+00:00:25,689 --> 00:00:25,699
+potency rune crafting runes is often
+ 
+
+19
+00:00:25,699 --> 00:00:28,089
+potency rune crafting runes is often
+referred to as edging the route and it
+
+20
+00:00:28,089 --> 00:00:28,099
+referred to as edging the route and it
+ 
+
+21
+00:00:28,099 --> 00:00:30,729
+referred to as edging the route and it
+can be done directly to a piece of gear
+
+22
+00:00:30,729 --> 00:00:30,739
+can be done directly to a piece of gear
+ 
+
+23
+00:00:30,739 --> 00:00:33,400
+can be done directly to a piece of gear
+or it can be etched to a blank rune
+
+24
+00:00:33,400 --> 00:00:33,410
+or it can be etched to a blank rune
+ 
+
+25
+00:00:33,410 --> 00:00:36,220
+or it can be etched to a blank rune
+stone and then can be later moved from
+
+26
+00:00:36,220 --> 00:00:36,230
+stone and then can be later moved from
+ 
+
+27
+00:00:36,230 --> 00:00:38,819
+stone and then can be later moved from
+the stone to a weapon or a suit of armor
+
+28
+00:00:38,819 --> 00:00:38,829
+the stone to a weapon or a suit of armor
+ 
+
+29
+00:00:38,829 --> 00:00:41,319
+the stone to a weapon or a suit of armor
+we'll say were third level and have
+
+30
+00:00:41,319 --> 00:00:41,329
+we'll say were third level and have
+ 
+
+31
+00:00:41,329 --> 00:00:43,180
+we'll say were third level and have
+expert proficiency in crafting with a
+
+32
+00:00:43,180 --> 00:00:43,190
+expert proficiency in crafting with a
+ 
+
+33
+00:00:43,190 --> 00:00:46,600
+expert proficiency in crafting with a
+bonus of +9 we'll also assume that we
+
+34
+00:00:46,600 --> 00:00:46,610
+bonus of +9 we'll also assume that we
+ 
+
+35
+00:00:46,610 --> 00:00:49,719
+bonus of +9 we'll also assume that we
+have the magical crafting feet just like
+
+36
+00:00:49,719 --> 00:00:49,729
+have the magical crafting feet just like
+ 
+
+37
+00:00:49,729 --> 00:00:52,150
+have the magical crafting feet just like
+crafting anything else we need a formula
+
+38
+00:00:52,150 --> 00:00:52,160
+crafting anything else we need a formula
+ 
+
+39
+00:00:52,160 --> 00:00:54,459
+crafting anything else we need a formula
+and since weapon potency runes are
+
+40
+00:00:54,459 --> 00:00:54,469
+and since weapon potency runes are
+ 
+
+41
+00:00:54,469 --> 00:00:56,560
+and since weapon potency runes are
+common we should have no problem
+
+42
+00:00:56,560 --> 00:00:56,570
+common we should have no problem
+ 
+
+43
+00:00:56,570 --> 00:00:59,319
+common we should have no problem
+purchasing that formula the table on
+
+44
+00:00:59,319 --> 00:00:59,329
+purchasing that formula the table on
+ 
+
+45
+00:00:59,329 --> 00:01:02,619
+purchasing that formula the table on
+page 293 shows us that second level
+
+46
+00:01:02,619 --> 00:01:02,629
+page 293 shows us that second level
+ 
+
+47
+00:01:02,629 --> 00:01:05,079
+page 293 shows us that second level
+common rarity formulas can be bought for
+
+48
+00:01:05,079 --> 00:01:05,089
+common rarity formulas can be bought for
+ 
+
+49
+00:01:05,089 --> 00:01:07,690
+common rarity formulas can be bought for
+two gold will assume that we meet all
+
+50
+00:01:07,690 --> 00:01:07,700
+two gold will assume that we meet all
+ 
+
+51
+00:01:07,700 --> 00:01:10,029
+two gold will assume that we meet all
+the other requirements and can get to
+
+52
+00:01:10,029 --> 00:01:10,039
+the other requirements and can get to
+ 
+
+53
+00:01:10,039 --> 00:01:13,120
+the other requirements and can get to
+work first we must provide basic
+
+54
+00:01:13,120 --> 00:01:13,130
+work first we must provide basic
+ 
+
+55
+00:01:13,130 --> 00:01:15,779
+work first we must provide basic
+materials worth 50% of the rinse price
+
+56
+00:01:15,779 --> 00:01:15,789
+materials worth 50% of the rinse price
+ 
+
+57
+00:01:15,789 --> 00:01:19,419
+materials worth 50% of the rinse price
+plus one weapon potency runes cost 35
+
+58
+00:01:19,419 --> 00:01:19,429
+plus one weapon potency runes cost 35
+ 
+
+59
+00:01:19,429 --> 00:01:22,359
+plus one weapon potency runes cost 35
+gold so to make the math easy we convert
+
+60
+00:01:22,359 --> 00:01:22,369
+gold so to make the math easy we convert
+ 
+
+61
+00:01:22,369 --> 00:01:26,499
+gold so to make the math easy we convert
+that to 350 silver and half of that is a
+
+62
+00:01:26,499 --> 00:01:26,509
+that to 350 silver and half of that is a
+ 
+
+63
+00:01:26,509 --> 00:01:28,710
+that to 350 silver and half of that is a
+hundred and seventy-five silver pieces
+
+64
+00:01:28,710 --> 00:01:28,720
+hundred and seventy-five silver pieces
+ 
+
+65
+00:01:28,720 --> 00:01:32,649
+hundred and seventy-five silver pieces
+we pay that price and begin working four
+
+66
+00:01:32,649 --> 00:01:32,659
+we pay that price and begin working four
+ 
+
+67
+00:01:32,659 --> 00:01:34,690
+we pay that price and begin working four
+days later we roll a crafting skill
+
+68
+00:01:34,690 --> 00:01:34,700
+days later we roll a crafting skill
+ 
+
+69
+00:01:34,700 --> 00:01:37,499
+days later we roll a crafting skill
+check versus ad see determined by the GM
+
+70
+00:01:37,499 --> 00:01:37,509
+check versus ad see determined by the GM
+ 
+
+71
+00:01:37,509 --> 00:01:40,060
+check versus ad see determined by the GM
+will assume that we succeed that check
+
+72
+00:01:40,060 --> 00:01:40,070
+will assume that we succeed that check
+ 
+
+73
+00:01:40,070 --> 00:01:42,850
+will assume that we succeed that check
+we now have a remaining balance of a
+
+74
+00:01:42,850 --> 00:01:42,860
+we now have a remaining balance of a
+ 
+
+75
+00:01:42,860 --> 00:01:44,440
+we now have a remaining balance of a
+hundred and seventy-five silver pieces
+
+76
+00:01:44,440 --> 00:01:44,450
+hundred and seventy-five silver pieces
+ 
+
+77
+00:01:44,450 --> 00:01:46,899
+hundred and seventy-five silver pieces
+that we can either pay and instantly
+
+78
+00:01:46,899 --> 00:01:46,909
+that we can either pay and instantly
+ 
+
+79
+00:01:46,909 --> 00:01:50,050
+that we can either pay and instantly
+finish creating this room or we can
+
+80
+00:01:50,050 --> 00:01:50,060
+finish creating this room or we can
+ 
+
+81
+00:01:50,060 --> 00:01:53,260
+finish creating this room or we can
+spend another day working if we do that
+
+82
+00:01:53,260 --> 00:01:53,270
+spend another day working if we do that
+ 
+
+83
+00:01:53,270 --> 00:01:55,779
+spend another day working if we do that
+then at the end of the next day the
+
+84
+00:01:55,779 --> 00:01:55,789
+then at the end of the next day the
+ 
+
+85
+00:01:55,789 --> 00:01:57,910
+then at the end of the next day the
+remaining balance will lower by five
+
+86
+00:01:57,910 --> 00:01:57,920
+remaining balance will lower by five
+ 
+
+87
+00:01:57,920 --> 00:02:00,609
+remaining balance will lower by five
+silver pieces and then we can either pay
+
+88
+00:02:00,609 --> 00:02:00,619
+silver pieces and then we can either pay
+ 
+
+89
+00:02:00,619 --> 00:02:02,709
+silver pieces and then we can either pay
+a hundred and seventy silver to finish
+
+90
+00:02:02,709 --> 00:02:02,719
+a hundred and seventy silver to finish
+ 
+
+91
+00:02:02,719 --> 00:02:06,130
+a hundred and seventy silver to finish
+or keep working for another day and this
+
+92
+00:02:06,130 --> 00:02:06,140
+or keep working for another day and this
+ 
+
+93
+00:02:06,140 --> 00:02:08,440
+or keep working for another day and this
+continues with everyday work lowering
+
+94
+00:02:08,440 --> 00:02:08,450
+continues with everyday work lowering
+ 
+
+95
+00:02:08,450 --> 00:02:11,319
+continues with everyday work lowering
+the balance by five silver until the
+
+96
+00:02:11,319 --> 00:02:11,329
+the balance by five silver until the
+ 
+
+97
+00:02:11,329 --> 00:02:14,050
+the balance by five silver until the
+balances either reduce to zero or we
+
+98
+00:02:14,050 --> 00:02:14,060
+balances either reduce to zero or we
+ 
+
+99
+00:02:14,060 --> 00:02:18,320
+balances either reduce to zero or we
+decide to pay off the balance and finish
+
+100
+00:02:18,320 --> 00:02:18,330
+decide to pay off the balance and finish
+ 
+
+101
+00:02:18,330 --> 00:02:21,330
+decide to pay off the balance and finish
+next let's make a greater staff of
+
+102
+00:02:21,330 --> 00:02:21,340
+next let's make a greater staff of
+ 
+
+103
+00:02:21,340 --> 00:02:24,210
+next let's make a greater staff of
+conjuration this time we'll say that we
+
+104
+00:02:24,210 --> 00:02:24,220
+conjuration this time we'll say that we
+ 
+
+105
+00:02:24,220 --> 00:02:26,550
+conjuration this time we'll say that we
+are 12 level with master proficiency in
+
+106
+00:02:26,550 --> 00:02:26,560
+are 12 level with master proficiency in
+ 
+
+107
+00:02:26,560 --> 00:02:30,450
+are 12 level with master proficiency in
+crafting and a bonus of plus 22 we'll
+
+108
+00:02:30,450 --> 00:02:30,460
+crafting and a bonus of plus 22 we'll
+ 
+
+109
+00:02:30,460 --> 00:02:32,130
+crafting and a bonus of plus 22 we'll
+assume that we meet all the usual
+
+110
+00:02:32,130 --> 00:02:32,140
+assume that we meet all the usual
+ 
+
+111
+00:02:32,140 --> 00:02:34,620
+assume that we meet all the usual
+requirements including having a formula
+
+112
+00:02:34,620 --> 00:02:34,630
+requirements including having a formula
+ 
+
+113
+00:02:34,630 --> 00:02:37,080
+requirements including having a formula
+for greater staffs of conjuration this
+
+114
+00:02:37,080 --> 00:02:37,090
+for greater staffs of conjuration this
+ 
+
+115
+00:02:37,090 --> 00:02:40,470
+for greater staffs of conjuration this
+is a common magical item so as before we
+
+116
+00:02:40,470 --> 00:02:40,480
+is a common magical item so as before we
+ 
+
+117
+00:02:40,480 --> 00:02:43,050
+is a common magical item so as before we
+can simply buy the formula for 50 gold
+
+118
+00:02:43,050 --> 00:02:43,060
+can simply buy the formula for 50 gold
+ 
+
+119
+00:02:43,060 --> 00:02:45,810
+can simply buy the formula for 50 gold
+and making the staff is going to work
+
+120
+00:02:45,810 --> 00:02:45,820
+and making the staff is going to work
+ 
+
+121
+00:02:45,820 --> 00:02:48,540
+and making the staff is going to work
+the same as crafting anything else but
+
+122
+00:02:48,540 --> 00:02:48,550
+the same as crafting anything else but
+ 
+
+123
+00:02:48,550 --> 00:02:51,660
+the same as crafting anything else but
+we see under craft requirements it says
+
+124
+00:02:51,660 --> 00:02:51,670
+we see under craft requirements it says
+ 
+
+125
+00:02:51,670 --> 00:02:55,560
+we see under craft requirements it says
+supply one casting of all listed levels
+
+126
+00:02:55,560 --> 00:02:55,570
+supply one casting of all listed levels
+ 
+
+127
+00:02:55,570 --> 00:02:59,100
+supply one casting of all listed levels
+of all listed spells so first thing
+
+128
+00:02:59,100 --> 00:02:59,110
+of all listed spells so first thing
+ 
+
+129
+00:02:59,110 --> 00:03:01,680
+of all listed spells so first thing
+first we provide half the cost up front
+
+130
+00:03:01,680 --> 00:03:01,690
+first we provide half the cost up front
+ 
+
+131
+00:03:01,690 --> 00:03:04,860
+first we provide half the cost up front
+and materials this staff has a price of
+
+132
+00:03:04,860 --> 00:03:04,870
+and materials this staff has a price of
+ 
+
+133
+00:03:04,870 --> 00:03:07,740
+and materials this staff has a price of
+nine hundred gold so we must pay four
+
+134
+00:03:07,740 --> 00:03:07,750
+nine hundred gold so we must pay four
+ 
+
+135
+00:03:07,750 --> 00:03:10,830
+nine hundred gold so we must pay four
+hundred and fifty gold at the start then
+
+136
+00:03:10,830 --> 00:03:10,840
+hundred and fifty gold at the start then
+ 
+
+137
+00:03:10,840 --> 00:03:13,920
+hundred and fifty gold at the start then
+we spend four days working during this
+
+138
+00:03:13,920 --> 00:03:13,930
+we spend four days working during this
+ 
+
+139
+00:03:13,930 --> 00:03:16,710
+we spend four days working during this
+time someone must cast the required
+
+140
+00:03:16,710 --> 00:03:16,720
+time someone must cast the required
+ 
+
+141
+00:03:16,720 --> 00:03:19,920
+time someone must cast the required
+spells into the staff it doesn't have to
+
+142
+00:03:19,920 --> 00:03:19,930
+spells into the staff it doesn't have to
+ 
+
+143
+00:03:19,930 --> 00:03:22,949
+spells into the staff it doesn't have to
+be us it can be anyone but every level
+
+144
+00:03:22,949 --> 00:03:22,959
+be us it can be anyone but every level
+ 
+
+145
+00:03:22,959 --> 00:03:27,509
+be us it can be anyone but every level
+of every spell must be cast so over
+
+146
+00:03:27,509 --> 00:03:27,519
+of every spell must be cast so over
+ 
+
+147
+00:03:27,519 --> 00:03:29,880
+of every spell must be cast so over
+those four days someone needs to cast
+
+148
+00:03:29,880 --> 00:03:29,890
+those four days someone needs to cast
+ 
+
+149
+00:03:29,890 --> 00:03:32,759
+those four days someone needs to cast
+summon construct unseen servant
+
+150
+00:03:32,759 --> 00:03:32,769
+summon construct unseen servant
+ 
+
+151
+00:03:32,769 --> 00:03:36,240
+summon construct unseen servant
+obscuring mist phantom steed summon
+
+152
+00:03:36,240 --> 00:03:36,250
+obscuring mist phantom steed summon
+ 
+
+153
+00:03:36,250 --> 00:03:39,030
+obscuring mist phantom steed summon
+elemental and stinking cloud and also
+
+154
+00:03:39,030 --> 00:03:39,040
+elemental and stinking cloud and also
+ 
+
+155
+00:03:39,040 --> 00:03:41,789
+elemental and stinking cloud and also
+need to cast summon construct again at
+
+156
+00:03:41,789 --> 00:03:41,799
+need to cast summon construct again at
+ 
+
+157
+00:03:41,799 --> 00:03:44,460
+need to cast summon construct again at
+third level summon elemental again at
+
+158
+00:03:44,460 --> 00:03:44,470
+third level summon elemental again at
+ 
+
+159
+00:03:44,470 --> 00:03:47,280
+third level summon elemental again at
+third level and creation and then also
+
+160
+00:03:47,280 --> 00:03:47,290
+third level and creation and then also
+ 
+
+161
+00:03:47,290 --> 00:03:50,039
+third level and creation and then also
+need to cast phantom steed summon
+
+162
+00:03:50,039 --> 00:03:50,049
+need to cast phantom steed summon
+ 
+
+163
+00:03:50,049 --> 00:03:52,500
+need to cast phantom steed summon
+construct and summon elemental each one
+
+164
+00:03:52,500 --> 00:03:52,510
+construct and summon elemental each one
+ 
+
+165
+00:03:52,510 --> 00:03:56,430
+construct and summon elemental each one
+more time at fourth level tanglefoot
+
+166
+00:03:56,430 --> 00:03:56,440
+more time at fourth level tanglefoot
+ 
+
+167
+00:03:56,440 --> 00:03:59,220
+more time at fourth level tanglefoot
+does not need to be cast during crafting
+
+168
+00:03:59,220 --> 00:03:59,230
+does not need to be cast during crafting
+ 
+
+169
+00:03:59,230 --> 00:04:03,360
+does not need to be cast during crafting
+because can trips are not leveled spells
+
+170
+00:04:03,360 --> 00:04:03,370
+because can trips are not leveled spells
+ 
+
+171
+00:04:03,370 --> 00:04:06,089
+because can trips are not leveled spells
+spell slots must be used when casting
+
+172
+00:04:06,089 --> 00:04:06,099
+spell slots must be used when casting
+ 
+
+173
+00:04:06,099 --> 00:04:08,339
+spell slots must be used when casting
+all of these spells and there are no
+
+174
+00:04:08,339 --> 00:04:08,349
+all of these spells and there are no
+ 
+
+175
+00:04:08,349 --> 00:04:11,130
+all of these spells and there are no
+other effects of casting the spell their
+
+176
+00:04:11,130 --> 00:04:11,140
+other effects of casting the spell their
+ 
+
+177
+00:04:11,140 --> 00:04:13,140
+other effects of casting the spell their
+energy is transferred safely to the
+
+178
+00:04:13,140 --> 00:04:13,150
+energy is transferred safely to the
+ 
+
+179
+00:04:13,150 --> 00:04:16,590
+energy is transferred safely to the
+staff with no other benefits and I don't
+
+180
+00:04:16,590 --> 00:04:16,600
+staff with no other benefits and I don't
+ 
+
+181
+00:04:16,600 --> 00:04:19,830
+staff with no other benefits and I don't
+think any of these spells call for an
+
+182
+00:04:19,830 --> 00:04:19,840
+think any of these spells call for an
+ 
+
+183
+00:04:19,840 --> 00:04:23,100
+think any of these spells call for an
+additional cost but if they did then we
+
+184
+00:04:23,100 --> 00:04:23,110
+additional cost but if they did then we
+ 
+
+185
+00:04:23,110 --> 00:04:25,230
+additional cost but if they did then we
+would not pay that as part of the
+
+186
+00:04:25,230 --> 00:04:25,240
+would not pay that as part of the
+ 
+
+187
+00:04:25,240 --> 00:04:27,780
+would not pay that as part of the
+crafting process because this is a staff
+
+188
+00:04:27,780 --> 00:04:27,790
+crafting process because this is a staff
+ 
+
+189
+00:04:27,790 --> 00:04:30,480
+crafting process because this is a staff
+which is one of the exceptions you only
+
+190
+00:04:30,480 --> 00:04:30,490
+which is one of the exceptions you only
+ 
+
+191
+00:04:30,490 --> 00:04:32,790
+which is one of the exceptions you only
+pay those costs if what you're making is
+
+192
+00:04:32,790 --> 00:04:32,800
+pay those costs if what you're making is
+ 
+
+193
+00:04:32,800 --> 00:04:36,629
+pay those costs if what you're making is
+not a staff or a wand after we've paid
+
+194
+00:04:36,629 --> 00:04:36,639
+not a staff or a wand after we've paid
+ 
+
+195
+00:04:36,639 --> 00:04:40,170
+not a staff or a wand after we've paid
+our 450 gold we've cast all of the NIDA
+
+196
+00:04:40,170 --> 00:04:40,180
+our 450 gold we've cast all of the NIDA
+ 
+
+197
+00:04:40,180 --> 00:04:42,629
+our 450 gold we've cast all of the NIDA
+spells and we've spent four days working
+
+198
+00:04:42,629 --> 00:04:42,639
+spells and we've spent four days working
+ 
+
+199
+00:04:42,639 --> 00:04:45,060
+spells and we've spent four days working
+then we make a crafting skill check as
+
+200
+00:04:45,060 --> 00:04:45,070
+then we make a crafting skill check as
+ 
+
+201
+00:04:45,070 --> 00:04:48,600
+then we make a crafting skill check as
+normal again CDC set by the GM and if
+
+202
+00:04:48,600 --> 00:04:48,610
+normal again CDC set by the GM and if
+ 
+
+203
+00:04:48,610 --> 00:04:50,460
+normal again CDC set by the GM and if
+successful we can either pay the
+
+204
+00:04:50,460 --> 00:04:50,470
+successful we can either pay the
+ 
+
+205
+00:04:50,470 --> 00:04:53,610
+successful we can either pay the
+remaining 450 gold to finish creating
+
+206
+00:04:53,610 --> 00:04:53,620
+remaining 450 gold to finish creating
+ 
+
+207
+00:04:53,620 --> 00:04:56,129
+remaining 450 gold to finish creating
+the staff immediately or we can spend
+
+208
+00:04:56,129 --> 00:04:56,139
+the staff immediately or we can spend
+ 
+
+209
+00:04:56,139 --> 00:04:58,680
+the staff immediately or we can spend
+additional days of downtime working just
+
+210
+00:04:58,680 --> 00:04:58,690
+additional days of downtime working just
+ 
+
+211
+00:04:58,690 --> 00:05:01,620
+additional days of downtime working just
+like normal
+
+212
+00:05:01,620 --> 00:05:01,630
+like normal
+ 
+
+213
+00:05:01,630 --> 00:05:04,830
+like normal
+last let's make a suit of adamantine
+
+214
+00:05:04,830 --> 00:05:04,840
+last let's make a suit of adamantine
+ 
+
+215
+00:05:04,840 --> 00:05:07,560
+last let's make a suit of adamantine
+full plate armor same setup as before
+
+216
+00:05:07,560 --> 00:05:07,570
+full plate armor same setup as before
+ 
+
+217
+00:05:07,570 --> 00:05:10,740
+full plate armor same setup as before
+and again we're going to assume all of
+
+218
+00:05:10,740 --> 00:05:10,750
+and again we're going to assume all of
+ 
+
+219
+00:05:10,750 --> 00:05:13,410
+and again we're going to assume all of
+the requirements have been met this will
+
+220
+00:05:13,410 --> 00:05:13,420
+the requirements have been met this will
+ 
+
+221
+00:05:13,420 --> 00:05:15,480
+the requirements have been met this will
+work the same as crafting anything else
+
+222
+00:05:15,480 --> 00:05:15,490
+work the same as crafting anything else
+ 
+
+223
+00:05:15,490 --> 00:05:18,000
+work the same as crafting anything else
+but there is one big difference to keep
+
+224
+00:05:18,000 --> 00:05:18,010
+but there is one big difference to keep
+ 
+
+225
+00:05:18,010 --> 00:05:19,770
+but there is one big difference to keep
+in mind when crafting from purchase
+
+226
+00:05:19,770 --> 00:05:19,780
+in mind when crafting from purchase
+ 
+
+227
+00:05:19,780 --> 00:05:23,370
+in mind when crafting from purchase
+materials and that's the price price
+
+228
+00:05:23,370 --> 00:05:23,380
+materials and that's the price price
+ 
+
+229
+00:05:23,380 --> 00:05:25,110
+materials and that's the price price
+isn't given upfront
+
+230
+00:05:25,110 --> 00:05:25,120
+isn't given upfront
+ 
+
+231
+00:05:25,120 --> 00:05:27,660
+isn't given upfront
+instead you need to calculate it for
+
+232
+00:05:27,660 --> 00:05:27,670
+instead you need to calculate it for
+ 
+
+233
+00:05:27,670 --> 00:05:30,720
+instead you need to calculate it for
+yourself it says here that the price of
+
+234
+00:05:30,720 --> 00:05:30,730
+yourself it says here that the price of
+ 
+
+235
+00:05:30,730 --> 00:05:35,100
+yourself it says here that the price of
+adamantine armor is 1600 gold plus a
+
+236
+00:05:35,100 --> 00:05:35,110
+adamantine armor is 1600 gold plus a
+ 
+
+237
+00:05:35,110 --> 00:05:37,980
+adamantine armor is 1600 gold plus a
+hundred and sixty gold per point of bulk
+
+238
+00:05:37,980 --> 00:05:37,990
+hundred and sixty gold per point of bulk
+ 
+
+239
+00:05:37,990 --> 00:05:41,220
+hundred and sixty gold per point of bulk
+if we check the armor table in the core
+
+240
+00:05:41,220 --> 00:05:41,230
+if we check the armor table in the core
+ 
+
+241
+00:05:41,230 --> 00:05:44,040
+if we check the armor table in the core
+rules we see that full plate armor is
+
+242
+00:05:44,040 --> 00:05:44,050
+rules we see that full plate armor is
+ 
+
+243
+00:05:44,050 --> 00:05:47,520
+rules we see that full plate armor is
+listed as for bulk however it is
+
+244
+00:05:47,520 --> 00:05:47,530
+listed as for bulk however it is
+ 
+
+245
+00:05:47,530 --> 00:05:49,830
+listed as for bulk however it is
+important to remember that this table
+
+246
+00:05:49,830 --> 00:05:49,840
+important to remember that this table
+ 
+
+247
+00:05:49,840 --> 00:05:52,950
+important to remember that this table
+shows the armors worn a bulk and when
+
+248
+00:05:52,950 --> 00:05:52,960
+shows the armors worn a bulk and when
+ 
+
+249
+00:05:52,960 --> 00:05:55,590
+shows the armors worn a bulk and when
+crafting we need to know it's carried a
+
+250
+00:05:55,590 --> 00:05:55,600
+crafting we need to know it's carried a
+ 
+
+251
+00:05:55,600 --> 00:05:59,430
+crafting we need to know it's carried a
+bulk carried bulk is one higher than an
+
+252
+00:05:59,430 --> 00:05:59,440
+bulk carried bulk is one higher than an
+ 
+
+253
+00:05:59,440 --> 00:06:02,820
+bulk carried bulk is one higher than an
+armors worn bulk so the carried bulk of
+
+254
+00:06:02,820 --> 00:06:02,830
+armors worn bulk so the carried bulk of
+ 
+
+255
+00:06:02,830 --> 00:06:07,260
+armors worn bulk so the carried bulk of
+a suit of full plate armor is five five
+
+256
+00:06:07,260 --> 00:06:07,270
+a suit of full plate armor is five five
+ 
+
+257
+00:06:07,270 --> 00:06:09,330
+a suit of full plate armor is five five
+times a hundred and sixty is eight
+
+258
+00:06:09,330 --> 00:06:09,340
+times a hundred and sixty is eight
+ 
+
+259
+00:06:09,340 --> 00:06:14,040
+times a hundred and sixty is eight
+hundred gold pieces plus 1600 makes the
+
+260
+00:06:14,040 --> 00:06:14,050
+hundred gold pieces plus 1600 makes the
+ 
+
+261
+00:06:14,050 --> 00:06:17,100
+hundred gold pieces plus 1600 makes the
+final price for a suit of full plate
+
+262
+00:06:17,100 --> 00:06:17,110
+final price for a suit of full plate
+ 
+
+263
+00:06:17,110 --> 00:06:19,830
+final price for a suit of full plate
+adamantine armor two thousand four
+
+264
+00:06:19,830 --> 00:06:19,840
+adamantine armor two thousand four
+ 
+
+265
+00:06:19,840 --> 00:06:23,070
+adamantine armor two thousand four
+hundred gold pieces note that you do not
+
+266
+00:06:23,070 --> 00:06:23,080
+hundred gold pieces note that you do not
+ 
+
+267
+00:06:23,080 --> 00:06:26,640
+hundred gold pieces note that you do not
+add the regular cost of the armor the
+
+268
+00:06:26,640 --> 00:06:26,650
+add the regular cost of the armor the
+ 
+
+269
+00:06:26,650 --> 00:06:29,040
+add the regular cost of the armor the
+table says full plate costs thirty gold
+
+270
+00:06:29,040 --> 00:06:29,050
+table says full plate costs thirty gold
+ 
+
+271
+00:06:29,050 --> 00:06:31,760
+table says full plate costs thirty gold
+but you do not need to add that to the
+
+272
+00:06:31,760 --> 00:06:31,770
+but you do not need to add that to the
+ 
+
+273
+00:06:31,770 --> 00:06:34,400
+but you do not need to add that to the
+2400 that we've already calculated
+
+274
+00:06:34,400 --> 00:06:34,410
+2400 that we've already calculated
+ 
+
+275
+00:06:34,410 --> 00:06:37,290
+2400 that we've already calculated
+now to begin crafting we need to provide
+
+276
+00:06:37,290 --> 00:06:37,300
+now to begin crafting we need to provide
+ 
+
+277
+00:06:37,300 --> 00:06:40,110
+now to begin crafting we need to provide
+fifty percent of the price up front in
+
+278
+00:06:40,110 --> 00:06:40,120
+fifty percent of the price up front in
+ 
+
+279
+00:06:40,120 --> 00:06:41,750
+fifty percent of the price up front in
+materials just like always
+
+280
+00:06:41,750 --> 00:06:41,760
+materials just like always
+ 
+
+281
+00:06:41,760 --> 00:06:47,790
+materials just like always
+fifty percent of 2400 is 1200 gold if we
+
+282
+00:06:47,790 --> 00:06:47,800
+fifty percent of 2400 is 1200 gold if we
+ 
+
+283
+00:06:47,800 --> 00:06:50,070
+fifty percent of 2400 is 1200 gold if we
+look back at the step block for the
+
+284
+00:06:50,070 --> 00:06:50,080
+look back at the step block for the
+ 
+
+285
+00:06:50,080 --> 00:06:53,130
+look back at the step block for the
+adamantine armor we see it requires that
+
+286
+00:06:53,130 --> 00:06:53,140
+adamantine armor we see it requires that
+ 
+
+287
+00:06:53,140 --> 00:06:55,850
+adamantine armor we see it requires that
+the initial raw materials must include
+
+288
+00:06:55,850 --> 00:06:55,860
+the initial raw materials must include
+ 
+
+289
+00:06:55,860 --> 00:07:00,920
+the initial raw materials must include
+200 gold plus 20 per bulk in adamantine
+
+290
+00:07:00,920 --> 00:07:00,930
+200 gold plus 20 per bulk in adamantine
+ 
+
+291
+00:07:00,930 --> 00:07:03,870
+200 gold plus 20 per bulk in adamantine
+again this suit of armor is five bulk
+
+292
+00:07:03,870 --> 00:07:03,880
+again this suit of armor is five bulk
+ 
+
+293
+00:07:03,880 --> 00:07:07,920
+again this suit of armor is five bulk
+five times 20 is 100 so that means
+
+294
+00:07:07,920 --> 00:07:07,930
+five times 20 is 100 so that means
+ 
+
+295
+00:07:07,930 --> 00:07:10,500
+five times 20 is 100 so that means
+before because our crafting we need
+
+296
+00:07:10,500 --> 00:07:10,510
+before because our crafting we need
+ 
+
+297
+00:07:10,510 --> 00:07:12,840
+before because our crafting we need
+three hundred gold pieces worth of
+
+298
+00:07:12,840 --> 00:07:12,850
+three hundred gold pieces worth of
+ 
+
+299
+00:07:12,850 --> 00:07:14,490
+three hundred gold pieces worth of
+adamantine a
+
+300
+00:07:14,490 --> 00:07:14,500
+adamantine a
+ 
+
+301
+00:07:14,500 --> 00:07:17,340
+adamantine a
+and 900 gold pieces worth of other
+
+302
+00:07:17,340 --> 00:07:17,350
+and 900 gold pieces worth of other
+ 
+
+303
+00:07:17,350 --> 00:07:20,460
+and 900 gold pieces worth of other
+materials the 900 gold we can pay
+
+304
+00:07:20,460 --> 00:07:20,470
+materials the 900 gold we can pay
+ 
+
+305
+00:07:20,470 --> 00:07:22,860
+materials the 900 gold we can pay
+out-of-pocket since it's assumed that we
+
+306
+00:07:22,860 --> 00:07:22,870
+out-of-pocket since it's assumed that we
+ 
+
+307
+00:07:22,870 --> 00:07:24,720
+out-of-pocket since it's assumed that we
+can find these basic materials just
+
+308
+00:07:24,720 --> 00:07:24,730
+can find these basic materials just
+ 
+
+309
+00:07:24,730 --> 00:07:27,510
+can find these basic materials just
+about anywhere but adamantine is
+
+310
+00:07:27,510 --> 00:07:27,520
+about anywhere but adamantine is
+ 
+
+311
+00:07:27,520 --> 00:07:30,540
+about anywhere but adamantine is
+uncommon we can't just go to a store and
+
+312
+00:07:30,540 --> 00:07:30,550
+uncommon we can't just go to a store and
+ 
+
+313
+00:07:30,550 --> 00:07:34,230
+uncommon we can't just go to a store and
+buy it most likely we received a chunk
+
+314
+00:07:34,230 --> 00:07:34,240
+buy it most likely we received a chunk
+ 
+
+315
+00:07:34,240 --> 00:07:36,570
+buy it most likely we received a chunk
+of adamantine as part of the treasure
+
+316
+00:07:36,570 --> 00:07:36,580
+of adamantine as part of the treasure
+ 
+
+317
+00:07:36,580 --> 00:07:40,170
+of adamantine as part of the treasure
+from our adventures but once we have the
+
+318
+00:07:40,170 --> 00:07:40,180
+from our adventures but once we have the
+ 
+
+319
+00:07:40,180 --> 00:07:43,350
+from our adventures but once we have the
+300 gold worth of adamantine and 900
+
+320
+00:07:43,350 --> 00:07:43,360
+300 gold worth of adamantine and 900
+ 
+
+321
+00:07:43,360 --> 00:07:45,750
+300 gold worth of adamantine and 900
+gold in basic materials we can begin
+
+322
+00:07:45,750 --> 00:07:45,760
+gold in basic materials we can begin
+ 
+
+323
+00:07:45,760 --> 00:07:48,420
+gold in basic materials we can begin
+crafting and from there it works exactly
+
+324
+00:07:48,420 --> 00:07:48,430
+crafting and from there it works exactly
+ 
+
+325
+00:07:48,430 --> 00:07:52,170
+crafting and from there it works exactly
+like crafting anything else we spend 4
+
+326
+00:07:52,170 --> 00:07:52,180
+like crafting anything else we spend 4
+ 
+
+327
+00:07:52,180 --> 00:07:54,480
+like crafting anything else we spend 4
+days working after which there is a
+
+328
+00:07:54,480 --> 00:07:54,490
+days working after which there is a
+ 
+
+329
+00:07:54,490 --> 00:07:57,780
+days working after which there is a
+skill check and if we succeed that check
+
+330
+00:07:57,780 --> 00:07:57,790
+skill check and if we succeed that check
+ 
+
+331
+00:07:57,790 --> 00:08:00,240
+skill check and if we succeed that check
+we can either pay the remaining balance
+
+332
+00:08:00,240 --> 00:08:00,250
+we can either pay the remaining balance
+ 
+
+333
+00:08:00,250 --> 00:08:03,990
+we can either pay the remaining balance
+of 1200 gold pieces or spend more
+
+334
+00:08:03,990 --> 00:08:04,000
+of 1200 gold pieces or spend more
+ 
+
+335
+00:08:04,000 --> 00:08:06,500
+of 1200 gold pieces or spend more
+downtime working to lower that balance
+
+336
+00:08:06,500 --> 00:08:06,510
+downtime working to lower that balance
+ 
+
+337
+00:08:06,510 --> 00:08:09,360
+downtime working to lower that balance
+just note that if we decide to pay off
+
+338
+00:08:09,360 --> 00:08:09,370
+just note that if we decide to pay off
+ 
+
+339
+00:08:09,370 --> 00:08:12,060
+just note that if we decide to pay off
+the balance none of that needs to
+
+340
+00:08:12,060 --> 00:08:12,070
+the balance none of that needs to
+ 
+
+341
+00:08:12,070 --> 00:08:15,150
+the balance none of that needs to
+include adamantine the 300 gold worth of
+
+342
+00:08:15,150 --> 00:08:15,160
+include adamantine the 300 gold worth of
+ 
+
+343
+00:08:15,160 --> 00:08:16,950
+include adamantine the 300 gold worth of
+adamantine provided with the initial
+
+344
+00:08:16,950 --> 00:08:16,960
+adamantine provided with the initial
+ 
+
+345
+00:08:16,960 --> 00:08:19,860
+adamantine provided with the initial
+materials is all of the adamantine that
+
+346
+00:08:19,860 --> 00:08:19,870
+materials is all of the adamantine that
+ 
+
+347
+00:08:19,870 --> 00:08:23,140
+materials is all of the adamantine that
+is needed for this project
+
+348
+00:08:23,140 --> 00:08:23,150
+
+ 
+
+349
+00:08:23,150 --> 00:08:25,060
+
+if you'd like to see the companion
+
+350
+00:08:25,060 --> 00:08:25,070
+if you'd like to see the companion
+ 
+
+351
+00:08:25,070 --> 00:08:26,980
+if you'd like to see the companion
+course that explains the rules behind
+
+352
+00:08:26,980 --> 00:08:26,990
+course that explains the rules behind
+ 
+
+353
+00:08:26,990 --> 00:08:29,110
+course that explains the rules behind
+these examples you can find a link to it
+
+354
+00:08:29,110 --> 00:08:29,120
+these examples you can find a link to it
+ 
+
+355
+00:08:29,120 --> 00:08:31,030
+these examples you can find a link to it
+in the description and highlighted on
+
+356
+00:08:31,030 --> 00:08:31,040
+in the description and highlighted on
+ 
+
+357
+00:08:31,040 --> 00:08:33,370
+in the description and highlighted on
+the screen as well if you found this
+
+358
+00:08:33,370 --> 00:08:33,380
+the screen as well if you found this
+ 
+
+359
+00:08:33,380 --> 00:08:35,440
+the screen as well if you found this
+video helpful please give us a like and
+
+360
+00:08:35,440 --> 00:08:35,450
+video helpful please give us a like and
+ 
+
+361
+00:08:35,450 --> 00:08:37,360
+video helpful please give us a like and
+click that bell so you never miss out on
+
+362
+00:08:37,360 --> 00:08:37,370
+click that bell so you never miss out on
+ 
+
+363
+00:08:37,370 --> 00:08:39,279
+click that bell so you never miss out on
+our future videos if you'd like to
+
+364
+00:08:39,279 --> 00:08:39,289
+our future videos if you'd like to
+ 
+
+365
+00:08:39,289 --> 00:08:40,930
+our future videos if you'd like to
+support this channel so that we can keep
+
+366
+00:08:40,930 --> 00:08:40,940
+support this channel so that we can keep
+ 
+
+367
+00:08:40,940 --> 00:08:42,969
+support this channel so that we can keep
+producing instructional videos you can
+
+368
+00:08:42,969 --> 00:08:42,979
+producing instructional videos you can
+ 
+
+369
+00:08:42,979 --> 00:08:45,460
+producing instructional videos you can
+do so through our patreon and feel free
+
+370
+00:08:45,460 --> 00:08:45,470
+do so through our patreon and feel free
+ 
+
+371
+00:08:45,470 --> 00:08:47,440
+do so through our patreon and feel free
+to leave in the comments any suggestions
+
+372
+00:08:47,440 --> 00:08:47,450
+to leave in the comments any suggestions
+ 
+
+373
+00:08:47,450 --> 00:08:50,170
+to leave in the comments any suggestions
+you have for future examples thanks for
+
+374
+00:08:50,170 --> 00:08:50,180
+you have for future examples thanks for
+ 
+
+375
+00:08:50,180 --> 00:08:52,090
+you have for future examples thanks for
+watching take care and we'll see you
+
+376
+00:08:52,090 --> 00:08:52,100
+watching take care and we'll see you
+ 
+
+377
+00:08:52,100 --> 00:08:53,650
+watching take care and we'll see you
+soon with more basics for your favorite
+
+378
+00:08:53,650 --> 00:08:53,660
+soon with more basics for your favorite
+ 
+
+379
+00:08:53,660 --> 00:08:55,870
+soon with more basics for your favorite
+games
+

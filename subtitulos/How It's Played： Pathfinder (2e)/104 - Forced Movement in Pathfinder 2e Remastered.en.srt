@@ -1,0 +1,2225 @@
+1
+00:00:00,060 --> 00:00:04,550
+
+[Music]
+
+2
+00:00:04,550 --> 00:00:04,560
+
+ 
+
+3
+00:00:04,560 --> 00:00:06,829
+
+hello and welcome to forced movement in
+
+4
+00:00:06,829 --> 00:00:06,839
+hello and welcome to forced movement in
+ 
+
+5
+00:00:06,839 --> 00:00:09,350
+hello and welcome to forced movement in
+Pathfinder second edition remastered
+
+6
+00:00:09,350 --> 00:00:09,360
+Pathfinder second edition remastered
+ 
+
+7
+00:00:09,360 --> 00:00:11,190
+Pathfinder second edition remastered
+although this video does provide the
+
+8
+00:00:11,190 --> 00:00:11,200
+although this video does provide the
+ 
+
+9
+00:00:11,200 --> 00:00:13,950
+although this video does provide the
+roles specifically from the remaster
+
+10
+00:00:13,950 --> 00:00:13,960
+roles specifically from the remaster
+ 
+
+11
+00:00:13,960 --> 00:00:16,070
+roles specifically from the remaster
+Edition they should be easy to apply to
+
+12
+00:00:16,070 --> 00:00:16,080
+Edition they should be easy to apply to
+ 
+
+13
+00:00:16,080 --> 00:00:19,510
+Edition they should be easy to apply to
+the Legacy Edition as well forced
+
+14
+00:00:19,510 --> 00:00:19,520
+the Legacy Edition as well forced
+ 
+
+15
+00:00:19,520 --> 00:00:21,470
+the Legacy Edition as well forced
+movement occurs whenever a character is
+
+16
+00:00:21,470 --> 00:00:21,480
+movement occurs whenever a character is
+ 
+
+17
+00:00:21,480 --> 00:00:24,070
+movement occurs whenever a character is
+moved not by the player controlling them
+
+18
+00:00:24,070 --> 00:00:24,080
+moved not by the player controlling them
+ 
+
+19
+00:00:24,080 --> 00:00:26,990
+moved not by the player controlling them
+but by another creature or effect for
+
+20
+00:00:26,990 --> 00:00:27,000
+but by another creature or effect for
+ 
+
+21
+00:00:27,000 --> 00:00:28,990
+but by another creature or effect for
+example when one character shoves
+
+22
+00:00:28,990 --> 00:00:29,000
+example when one character shoves
+ 
+
+23
+00:00:29,000 --> 00:00:31,950
+example when one character shoves
+another or is hurled by a powerful gust
+
+24
+00:00:31,950 --> 00:00:31,960
+another or is hurled by a powerful gust
+ 
+
+25
+00:00:31,960 --> 00:00:35,150
+another or is hurled by a powerful gust
+of wind a few common sources of force
+
+26
+00:00:35,150 --> 00:00:35,160
+of wind a few common sources of force
+ 
+
+27
+00:00:35,160 --> 00:00:37,389
+of wind a few common sources of force
+movement include the shove and
+
+28
+00:00:37,389 --> 00:00:37,399
+movement include the shove and
+ 
+
+29
+00:00:37,399 --> 00:00:40,310
+movement include the shove and
+reposition actions shove is an
+
+30
+00:00:40,310 --> 00:00:40,320
+reposition actions shove is an
+ 
+
+31
+00:00:40,320 --> 00:00:42,709
+reposition actions shove is an
+application of the athletic skill costs
+
+32
+00:00:42,709 --> 00:00:42,719
+application of the athletic skill costs
+ 
+
+33
+00:00:42,719 --> 00:00:45,029
+application of the athletic skill costs
+one action and requires you to have at
+
+34
+00:00:45,029 --> 00:00:45,039
+one action and requires you to have at
+ 
+
+35
+00:00:45,039 --> 00:00:47,549
+one action and requires you to have at
+least one hand free you roll your
+
+36
+00:00:47,549 --> 00:00:47,559
+least one hand free you roll your
+ 
+
+37
+00:00:47,559 --> 00:00:49,590
+least one hand free you roll your
+athletic skill versus your Target's 4
+
+38
+00:00:49,590 --> 00:00:49,600
+athletic skill versus your Target's 4
+ 
+
+39
+00:00:49,600 --> 00:00:52,510
+athletic skill versus your Target's 4
+to2 DC in on his success your target
+
+40
+00:00:52,510 --> 00:00:52,520
+to2 DC in on his success your target
+ 
+
+41
+00:00:52,520 --> 00:00:55,790
+to2 DC in on his success your target
+moves back 5T and on a critical success
+
+42
+00:00:55,790 --> 00:00:55,800
+moves back 5T and on a critical success
+ 
+
+43
+00:00:55,800 --> 00:00:58,990
+moves back 5T and on a critical success
+your target moves back 10 ft in either
+
+44
+00:00:58,990 --> 00:00:59,000
+your target moves back 10 ft in either
+ 
+
+45
+00:00:59,000 --> 00:01:01,150
+your target moves back 10 ft in either
+case you can sh choose to follow after
+
+46
+00:01:01,150 --> 00:01:01,160
+case you can sh choose to follow after
+ 
+
+47
+00:01:01,160 --> 00:01:03,270
+case you can sh choose to follow after
+them as might occur when bull rushing
+
+48
+00:01:03,270 --> 00:01:03,280
+them as might occur when bull rushing
+ 
+
+49
+00:01:03,280 --> 00:01:06,350
+them as might occur when bull rushing
+someone on a failure nothing happens and
+
+50
+00:01:06,350 --> 00:01:06,360
+someone on a failure nothing happens and
+ 
+
+51
+00:01:06,360 --> 00:01:09,990
+someone on a failure nothing happens and
+on a critical failure you fall prone and
+
+52
+00:01:09,990 --> 00:01:10,000
+on a critical failure you fall prone and
+ 
+
+53
+00:01:10,000 --> 00:01:11,990
+on a critical failure you fall prone and
+note that shove does have the attack
+
+54
+00:01:11,990 --> 00:01:12,000
+note that shove does have the attack
+ 
+
+55
+00:01:12,000 --> 00:01:15,310
+note that shove does have the attack
+trait so it both contributes to and is
+
+56
+00:01:15,310 --> 00:01:15,320
+trait so it both contributes to and is
+ 
+
+57
+00:01:15,320 --> 00:01:18,670
+trait so it both contributes to and is
+affected by the multiple attack penalty
+
+58
+00:01:18,670 --> 00:01:18,680
+affected by the multiple attack penalty
+ 
+
+59
+00:01:18,680 --> 00:01:21,390
+affected by the multiple attack penalty
+so for example Omi is fighting a horned
+
+60
+00:01:21,390 --> 00:01:21,400
+so for example Omi is fighting a horned
+ 
+
+61
+00:01:21,400 --> 00:01:24,310
+so for example Omi is fighting a horned
+devil and wishes to push him away he
+
+62
+00:01:24,310 --> 00:01:24,320
+devil and wishes to push him away he
+ 
+
+63
+00:01:24,320 --> 00:01:27,429
+devil and wishes to push him away he
+would roll his athletic skill of plus 13
+
+64
+00:01:27,429 --> 00:01:27,439
+would roll his athletic skill of plus 13
+ 
+
+65
+00:01:27,439 --> 00:01:30,069
+would roll his athletic skill of plus 13
+and compare that total against the devil
+
+66
+00:01:30,069 --> 00:01:30,079
+and compare that total against the devil
+ 
+
+67
+00:01:30,079 --> 00:01:33,069
+and compare that total against the devil
+'s fortitude DC to calculate the devil's
+
+68
+00:01:33,069 --> 00:01:33,079
+'s fortitude DC to calculate the devil's
+ 
+
+69
+00:01:33,079 --> 00:01:35,550
+'s fortitude DC to calculate the devil's
+fortitude DC we take their fortitude
+
+70
+00:01:35,550 --> 00:01:35,560
+fortitude DC we take their fortitude
+ 
+
+71
+00:01:35,560 --> 00:01:39,630
+fortitude DC we take their fortitude
+save bonus of plus 15 and add 10 for a
+
+72
+00:01:39,630 --> 00:01:39,640
+save bonus of plus 15 and add 10 for a
+ 
+
+73
+00:01:39,640 --> 00:01:42,590
+save bonus of plus 15 and add 10 for a
+total 42 DC of
+
+74
+00:01:42,590 --> 00:01:42,600
+total 42 DC of
+ 
+
+75
+00:01:42,600 --> 00:01:46,670
+total 42 DC of
+25 omi rolls a 14 on the DME plus their
+
+76
+00:01:46,670 --> 00:01:46,680
+25 omi rolls a 14 on the DME plus their
+ 
+
+77
+00:01:46,680 --> 00:01:49,670
+25 omi rolls a 14 on the DME plus their
+Athletics bonus of plus 13 for a total
+
+78
+00:01:49,670 --> 00:01:49,680
+Athletics bonus of plus 13 for a total
+ 
+
+79
+00:01:49,680 --> 00:01:50,469
+Athletics bonus of plus 13 for a total
+of
+
+80
+00:01:50,469 --> 00:01:50,479
+of
+ 
+
+81
+00:01:50,479 --> 00:01:54,030
+of
+27 this is a success and the devil is
+
+82
+00:01:54,030 --> 00:01:54,040
+27 this is a success and the devil is
+ 
+
+83
+00:01:54,040 --> 00:01:57,910
+27 this is a success and the devil is
+pushed back 5T or one square and note
+
+84
+00:01:57,910 --> 00:01:57,920
+pushed back 5T or one square and note
+ 
+
+85
+00:01:57,920 --> 00:01:59,590
+pushed back 5T or one square and note
+that if Ami made a strike with their
+
+86
+00:01:59,590 --> 00:01:59,600
+that if Ami made a strike with their
+ 
+
+87
+00:01:59,600 --> 00:02:01,789
+that if Ami made a strike with their
+first first action and then attempted
+
+88
+00:02:01,789 --> 00:02:01,799
+first first action and then attempted
+ 
+
+89
+00:02:01,799 --> 00:02:04,069
+first first action and then attempted
+this shove with their second action they
+
+90
+00:02:04,069 --> 00:02:04,079
+this shove with their second action they
+ 
+
+91
+00:02:04,079 --> 00:02:05,709
+this shove with their second action they
+would have failed because this check
+
+92
+00:02:05,709 --> 00:02:05,719
+would have failed because this check
+ 
+
+93
+00:02:05,719 --> 00:02:08,109
+would have failed because this check
+would be subject to A5 multiple attack
+
+94
+00:02:08,109 --> 00:02:08,119
+would be subject to A5 multiple attack
+ 
+
+95
+00:02:08,119 --> 00:02:10,869
+would be subject to A5 multiple attack
+penalty luring it to only
+
+96
+00:02:10,869 --> 00:02:10,879
+penalty luring it to only
+ 
+
+97
+00:02:10,879 --> 00:02:13,750
+penalty luring it to only
+22 the second common source of forced
+
+98
+00:02:13,750 --> 00:02:13,760
+22 the second common source of forced
+ 
+
+99
+00:02:13,760 --> 00:02:16,350
+22 the second common source of forced
+movement is the reposition action this
+
+100
+00:02:16,350 --> 00:02:16,360
+movement is the reposition action this
+ 
+
+101
+00:02:16,360 --> 00:02:18,430
+movement is the reposition action this
+is also an application of the athletic
+
+102
+00:02:18,430 --> 00:02:18,440
+is also an application of the athletic
+ 
+
+103
+00:02:18,440 --> 00:02:21,350
+is also an application of the athletic
+skill but is used to move an enemy into
+
+104
+00:02:21,350 --> 00:02:21,360
+skill but is used to move an enemy into
+ 
+
+105
+00:02:21,360 --> 00:02:24,830
+skill but is used to move an enemy into
+a space that is not away from you this
+
+106
+00:02:24,830 --> 00:02:24,840
+a space that is not away from you this
+ 
+
+107
+00:02:24,840 --> 00:02:26,750
+a space that is not away from you this
+works almost the same way as shoving
+
+108
+00:02:26,750 --> 00:02:26,760
+works almost the same way as shoving
+ 
+
+109
+00:02:26,760 --> 00:02:28,910
+works almost the same way as shoving
+someone except you don't need a free
+
+110
+00:02:28,910 --> 00:02:28,920
+someone except you don't need a free
+ 
+
+111
+00:02:28,920 --> 00:02:30,589
+someone except you don't need a free
+hand if you already already have that
+
+112
+00:02:30,589 --> 00:02:30,599
+hand if you already already have that
+ 
+
+113
+00:02:30,599 --> 00:02:33,190
+hand if you already already have that
+Target grabbed or restrained the target
+
+114
+00:02:33,190 --> 00:02:33,200
+Target grabbed or restrained the target
+ 
+
+115
+00:02:33,200 --> 00:02:35,309
+Target grabbed or restrained the target
+must remain within your reach throughout
+
+116
+00:02:35,309 --> 00:02:35,319
+must remain within your reach throughout
+ 
+
+117
+00:02:35,319 --> 00:02:37,390
+must remain within your reach throughout
+the entire movement and if you
+
+118
+00:02:37,390 --> 00:02:37,400
+the entire movement and if you
+ 
+
+119
+00:02:37,400 --> 00:02:39,910
+the entire movement and if you
+critically fail your target gets to move
+
+120
+00:02:39,910 --> 00:02:39,920
+critically fail your target gets to move
+ 
+
+121
+00:02:39,920 --> 00:02:41,910
+critically fail your target gets to move
+you as if they had performed a
+
+122
+00:02:41,910 --> 00:02:41,920
+you as if they had performed a
+ 
+
+123
+00:02:41,920 --> 00:02:44,990
+you as if they had performed a
+reposition action so for example say Ami
+
+124
+00:02:44,990 --> 00:02:45,000
+reposition action so for example say Ami
+ 
+
+125
+00:02:45,000 --> 00:02:46,949
+reposition action so for example say Ami
+and Quinn the Rogue are fighting the
+
+126
+00:02:46,949 --> 00:02:46,959
+and Quinn the Rogue are fighting the
+ 
+
+127
+00:02:46,959 --> 00:02:49,869
+and Quinn the Rogue are fighting the
+same devil Omi may decide he wants to
+
+128
+00:02:49,869 --> 00:02:49,879
+same devil Omi may decide he wants to
+ 
+
+129
+00:02:49,879 --> 00:02:51,949
+same devil Omi may decide he wants to
+grab hold of the devil and move him one
+
+130
+00:02:51,949 --> 00:02:51,959
+grab hold of the devil and move him one
+ 
+
+131
+00:02:51,959 --> 00:02:54,430
+grab hold of the devil and move him one
+space to the right to apply flanking so
+
+132
+00:02:54,430 --> 00:02:54,440
+space to the right to apply flanking so
+ 
+
+133
+00:02:54,440 --> 00:02:56,509
+space to the right to apply flanking so
+that Quinn can get all of the benefits
+
+134
+00:02:56,509 --> 00:02:56,519
+that Quinn can get all of the benefits
+ 
+
+135
+00:02:56,519 --> 00:02:59,390
+that Quinn can get all of the benefits
+of the devil being off guard on his turn
+
+136
+00:02:59,390 --> 00:02:59,400
+of the devil being off guard on his turn
+ 
+
+137
+00:02:59,400 --> 00:03:02,229
+of the devil being off guard on his turn
+this wouldn't be a shove action because
+
+138
+00:03:02,229 --> 00:03:02,239
+this wouldn't be a shove action because
+ 
+
+139
+00:03:02,239 --> 00:03:05,070
+this wouldn't be a shove action because
+the devil is not being moved away from
+
+140
+00:03:05,070 --> 00:03:05,080
+the devil is not being moved away from
+ 
+
+141
+00:03:05,080 --> 00:03:08,190
+the devil is not being moved away from
+AI he's currently 5T away and will still
+
+142
+00:03:08,190 --> 00:03:08,200
+AI he's currently 5T away and will still
+ 
+
+143
+00:03:08,200 --> 00:03:10,229
+AI he's currently 5T away and will still
+be 5 ft away at the end of the
+
+144
+00:03:10,229 --> 00:03:10,239
+be 5 ft away at the end of the
+ 
+
+145
+00:03:10,239 --> 00:03:12,949
+be 5 ft away at the end of the
+reposition therefore he's not being
+
+146
+00:03:12,949 --> 00:03:12,959
+reposition therefore he's not being
+ 
+
+147
+00:03:12,959 --> 00:03:16,509
+reposition therefore he's not being
+moved away Ami would roll his athletic
+
+148
+00:03:16,509 --> 00:03:16,519
+moved away Ami would roll his athletic
+ 
+
+149
+00:03:16,519 --> 00:03:19,030
+moved away Ami would roll his athletic
+skill versus the devil's fortitude DC
+
+150
+00:03:19,030 --> 00:03:19,040
+skill versus the devil's fortitude DC
+ 
+
+151
+00:03:19,040 --> 00:03:21,390
+skill versus the devil's fortitude DC
+just as before but the major difference
+
+152
+00:03:21,390 --> 00:03:21,400
+just as before but the major difference
+ 
+
+153
+00:03:21,400 --> 00:03:24,430
+just as before but the major difference
+here is if he critically fails the devil
+
+154
+00:03:24,430 --> 00:03:24,440
+here is if he critically fails the devil
+ 
+
+155
+00:03:24,440 --> 00:03:27,869
+here is if he critically fails the devil
+can instead move him into another
+
+156
+00:03:27,869 --> 00:03:27,879
+can instead move him into another
+ 
+
+157
+00:03:27,879 --> 00:03:31,190
+can instead move him into another
+space special rules of apply when forced
+
+158
+00:03:31,190 --> 00:03:31,200
+space special rules of apply when forced
+ 
+
+159
+00:03:31,200 --> 00:03:34,229
+space special rules of apply when forced
+movement occurs in the game first the
+
+160
+00:03:34,229 --> 00:03:34,239
+movement occurs in the game first the
+ 
+
+161
+00:03:34,239 --> 00:03:36,429
+movement occurs in the game first the
+speed and distance the creature is moved
+
+162
+00:03:36,429 --> 00:03:36,439
+speed and distance the creature is moved
+ 
+
+163
+00:03:36,439 --> 00:03:38,869
+speed and distance the creature is moved
+is determined by the effect that causes
+
+164
+00:03:38,869 --> 00:03:38,879
+is determined by the effect that causes
+ 
+
+165
+00:03:38,879 --> 00:03:41,670
+is determined by the effect that causes
+the forced movement for example the text
+
+166
+00:03:41,670 --> 00:03:41,680
+the forced movement for example the text
+ 
+
+167
+00:03:41,680 --> 00:03:44,350
+the forced movement for example the text
+for the hydraulic push spell says on a
+
+168
+00:03:44,350 --> 00:03:44,360
+for the hydraulic push spell says on a
+ 
+
+169
+00:03:44,360 --> 00:03:47,350
+for the hydraulic push spell says on a
+success the target is pushed by 5T and
+
+170
+00:03:47,350 --> 00:03:47,360
+success the target is pushed by 5T and
+ 
+
+171
+00:03:47,360 --> 00:03:49,390
+success the target is pushed by 5T and
+on a critical success the target is
+
+172
+00:03:49,390 --> 00:03:49,400
+on a critical success the target is
+ 
+
+173
+00:03:49,400 --> 00:03:52,630
+on a critical success the target is
+pushed back 10t this is an example of
+
+174
+00:03:52,630 --> 00:03:52,640
+pushed back 10t this is an example of
+ 
+
+175
+00:03:52,640 --> 00:03:54,550
+pushed back 10t this is an example of
+forced movement and the distance the
+
+176
+00:03:54,550 --> 00:03:54,560
+forced movement and the distance the
+ 
+
+177
+00:03:54,560 --> 00:03:57,149
+forced movement and the distance the
+target is moved away from the Caster is
+
+178
+00:03:57,149 --> 00:03:57,159
+target is moved away from the Caster is
+ 
+
+179
+00:03:57,159 --> 00:03:59,030
+target is moved away from the Caster is
+listed in the description and has
+
+180
+00:03:59,030 --> 00:03:59,040
+listed in the description and has
+ 
+
+181
+00:03:59,040 --> 00:04:00,630
+listed in the description and has
+nothing to do with the target's own
+
+182
+00:04:00,630 --> 00:04:00,640
+nothing to do with the target's own
+ 
+
+183
+00:04:00,640 --> 00:04:03,750
+nothing to do with the target's own
+speed score next be aware that Force
+
+184
+00:04:03,750 --> 00:04:03,760
+speed score next be aware that Force
+ 
+
+185
+00:04:03,760 --> 00:04:06,270
+speed score next be aware that Force
+movement does not trigger reactions that
+
+186
+00:04:06,270 --> 00:04:06,280
+movement does not trigger reactions that
+ 
+
+187
+00:04:06,280 --> 00:04:09,350
+movement does not trigger reactions that
+are normally triggered by a movement for
+
+188
+00:04:09,350 --> 00:04:09,360
+are normally triggered by a movement for
+ 
+
+189
+00:04:09,360 --> 00:04:11,270
+are normally triggered by a movement for
+example say you're a fighter and you're
+
+190
+00:04:11,270 --> 00:04:11,280
+example say you're a fighter and you're
+ 
+
+191
+00:04:11,280 --> 00:04:13,509
+example say you're a fighter and you're
+wielding a club with critical
+
+192
+00:04:13,509 --> 00:04:13,519
+wielding a club with critical
+ 
+
+193
+00:04:13,519 --> 00:04:15,910
+wielding a club with critical
+specialization you roll a critical hit
+
+194
+00:04:15,910 --> 00:04:15,920
+specialization you roll a critical hit
+ 
+
+195
+00:04:15,920 --> 00:04:18,629
+specialization you roll a critical hit
+against a bug bear and knock him back 10
+
+196
+00:04:18,629 --> 00:04:18,639
+against a bug bear and knock him back 10
+ 
+
+197
+00:04:18,639 --> 00:04:21,310
+against a bug bear and knock him back 10
+ft at this point you might also want to
+
+198
+00:04:21,310 --> 00:04:21,320
+ft at this point you might also want to
+ 
+
+199
+00:04:21,320 --> 00:04:23,189
+ft at this point you might also want to
+spend your reaction to perform a
+
+200
+00:04:23,189 --> 00:04:23,199
+spend your reaction to perform a
+ 
+
+201
+00:04:23,199 --> 00:04:25,550
+spend your reaction to perform a
+reactive strike which was previously
+
+202
+00:04:25,550 --> 00:04:25,560
+reactive strike which was previously
+ 
+
+203
+00:04:25,560 --> 00:04:27,790
+reactive strike which was previously
+called an attack of opportunity because
+
+204
+00:04:27,790 --> 00:04:27,800
+called an attack of opportunity because
+ 
+
+205
+00:04:27,800 --> 00:04:29,749
+called an attack of opportunity because
+an enemy that was previously with in
+
+206
+00:04:29,749 --> 00:04:29,759
+an enemy that was previously with in
+ 
+
+207
+00:04:29,759 --> 00:04:33,310
+an enemy that was previously with in
+your reach just moved out of its Square
+
+208
+00:04:33,310 --> 00:04:33,320
+your reach just moved out of its Square
+ 
+
+209
+00:04:33,320 --> 00:04:35,230
+your reach just moved out of its Square
+however you would not be able to do so
+
+210
+00:04:35,230 --> 00:04:35,240
+however you would not be able to do so
+ 
+
+211
+00:04:35,240 --> 00:04:38,110
+however you would not be able to do so
+in this case for two reasons first
+
+212
+00:04:38,110 --> 00:04:38,120
+in this case for two reasons first
+ 
+
+213
+00:04:38,120 --> 00:04:40,790
+in this case for two reasons first
+because this is a forced movement which
+
+214
+00:04:40,790 --> 00:04:40,800
+because this is a forced movement which
+ 
+
+215
+00:04:40,800 --> 00:04:42,710
+because this is a forced movement which
+does not trigger reactions due to
+
+216
+00:04:42,710 --> 00:04:42,720
+does not trigger reactions due to
+ 
+
+217
+00:04:42,720 --> 00:04:45,870
+does not trigger reactions due to
+movement and second because the text for
+
+218
+00:04:45,870 --> 00:04:45,880
+movement and second because the text for
+ 
+
+219
+00:04:45,880 --> 00:04:48,189
+movement and second because the text for
+reactive strike specifically states that
+
+220
+00:04:48,189 --> 00:04:48,199
+reactive strike specifically states that
+ 
+
+221
+00:04:48,199 --> 00:04:50,189
+reactive strike specifically states that
+the target must spend their own action
+
+222
+00:04:50,189 --> 00:04:50,199
+the target must spend their own action
+ 
+
+223
+00:04:50,199 --> 00:04:53,189
+the target must spend their own action
+to move which does not occur due to a
+
+224
+00:04:53,189 --> 00:04:53,199
+to move which does not occur due to a
+ 
+
+225
+00:04:53,199 --> 00:04:55,029
+to move which does not occur due to a
+forced
+
+226
+00:04:55,029 --> 00:04:55,039
+forced
+ 
+
+227
+00:04:55,039 --> 00:04:57,510
+forced
+movement the path that the target of
+
+228
+00:04:57,510 --> 00:04:57,520
+movement the path that the target of
+ 
+
+229
+00:04:57,520 --> 00:04:59,870
+movement the path that the target of
+forced movement takes is determined by
+
+230
+00:04:59,870 --> 00:04:59,880
+forced movement takes is determined by
+ 
+
+231
+00:04:59,880 --> 00:05:02,029
+forced movement takes is determined by
+the creature or effect that caused the
+
+232
+00:05:02,029 --> 00:05:02,039
+the creature or effect that caused the
+ 
+
+233
+00:05:02,039 --> 00:05:05,070
+the creature or effect that caused the
+forced movement second addition does not
+
+234
+00:05:05,070 --> 00:05:05,080
+forced movement second addition does not
+ 
+
+235
+00:05:05,080 --> 00:05:07,230
+forced movement second addition does not
+enforce a lot of hard rules for
+
+236
+00:05:07,230 --> 00:05:07,240
+enforce a lot of hard rules for
+ 
+
+237
+00:05:07,240 --> 00:05:09,510
+enforce a lot of hard rules for
+determining this and mostly leaves it in
+
+238
+00:05:09,510 --> 00:05:09,520
+determining this and mostly leaves it in
+ 
+
+239
+00:05:09,520 --> 00:05:11,550
+determining this and mostly leaves it in
+the hands of the GM to make a final
+
+240
+00:05:11,550 --> 00:05:11,560
+the hands of the GM to make a final
+ 
+
+241
+00:05:11,560 --> 00:05:13,909
+the hands of the GM to make a final
+decision on if the path makes sense or
+
+242
+00:05:13,909 --> 00:05:13,919
+decision on if the path makes sense or
+ 
+
+243
+00:05:13,919 --> 00:05:17,110
+decision on if the path makes sense or
+not most causes of forced movement state
+
+244
+00:05:17,110 --> 00:05:17,120
+not most causes of forced movement state
+ 
+
+245
+00:05:17,120 --> 00:05:19,270
+not most causes of forced movement state
+that the target is either knocked back
+
+246
+00:05:19,270 --> 00:05:19,280
+that the target is either knocked back
+ 
+
+247
+00:05:19,280 --> 00:05:22,510
+that the target is either knocked back
+or pulled towards in these cases
+
+248
+00:05:22,510 --> 00:05:22,520
+or pulled towards in these cases
+ 
+
+249
+00:05:22,520 --> 00:05:24,550
+or pulled towards in these cases
+knocking back should be a fairly
+
+250
+00:05:24,550 --> 00:05:24,560
+knocking back should be a fairly
+ 
+
+251
+00:05:24,560 --> 00:05:27,430
+knocking back should be a fairly
+straight line away and pulling towards
+
+252
+00:05:27,430 --> 00:05:27,440
+straight line away and pulling towards
+ 
+
+253
+00:05:27,440 --> 00:05:29,510
+straight line away and pulling towards
+should be a fairly straight line toward
+
+254
+00:05:29,510 --> 00:05:29,520
+should be a fairly straight line toward
+ 
+
+255
+00:05:29,520 --> 00:05:32,629
+should be a fairly straight line toward
+towards the source of the effect and
+
+256
+00:05:32,629 --> 00:05:32,639
+towards the source of the effect and
+ 
+
+257
+00:05:32,639 --> 00:05:35,070
+towards the source of the effect and
+also note that difficult terrain and
+
+258
+00:05:35,070 --> 00:05:35,080
+also note that difficult terrain and
+ 
+
+259
+00:05:35,080 --> 00:05:37,230
+also note that difficult terrain and
+other hindrances to movement do apply to
+
+260
+00:05:37,230 --> 00:05:37,240
+other hindrances to movement do apply to
+ 
+
+261
+00:05:37,240 --> 00:05:39,670
+other hindrances to movement do apply to
+forced movement just as they do to
+
+262
+00:05:39,670 --> 00:05:39,680
+forced movement just as they do to
+ 
+
+263
+00:05:39,680 --> 00:05:42,670
+forced movement just as they do to
+normal movement and if the path of
+
+264
+00:05:42,670 --> 00:05:42,680
+normal movement and if the path of
+ 
+
+265
+00:05:42,680 --> 00:05:44,469
+normal movement and if the path of
+forced movement would move a creature
+
+266
+00:05:44,469 --> 00:05:44,479
+forced movement would move a creature
+ 
+
+267
+00:05:44,479 --> 00:05:46,909
+forced movement would move a creature
+into a space that cannot occupy for
+
+268
+00:05:46,909 --> 00:05:46,919
+into a space that cannot occupy for
+ 
+
+269
+00:05:46,919 --> 00:05:49,390
+into a space that cannot occupy for
+example because there is a wall or other
+
+270
+00:05:49,390 --> 00:05:49,400
+example because there is a wall or other
+ 
+
+271
+00:05:49,400 --> 00:05:51,990
+example because there is a wall or other
+object there they would stop moving in
+
+272
+00:05:51,990 --> 00:05:52,000
+object there they would stop moving in
+ 
+
+273
+00:05:52,000 --> 00:05:54,670
+object there they would stop moving in
+the last valid square that they can
+
+274
+00:05:54,670 --> 00:05:54,680
+the last valid square that they can
+ 
+
+275
+00:05:54,680 --> 00:05:57,110
+the last valid square that they can
+occupy this can sometimes raise the
+
+276
+00:05:57,110 --> 00:05:57,120
+occupy this can sometimes raise the
+ 
+
+277
+00:05:57,120 --> 00:05:58,749
+occupy this can sometimes raise the
+question of what happens when you shove
+
+278
+00:05:58,749 --> 00:05:58,759
+question of what happens when you shove
+ 
+
+279
+00:05:58,759 --> 00:06:01,629
+question of what happens when you shove
+one enemy in into another the rules say
+
+280
+00:06:01,629 --> 00:06:01,639
+one enemy in into another the rules say
+ 
+
+281
+00:06:01,639 --> 00:06:04,070
+one enemy in into another the rules say
+that no two creatures can occupy the
+
+282
+00:06:04,070 --> 00:06:04,080
+that no two creatures can occupy the
+ 
+
+283
+00:06:04,080 --> 00:06:06,589
+that no two creatures can occupy the
+same space therefore when you try to
+
+284
+00:06:06,589 --> 00:06:06,599
+same space therefore when you try to
+ 
+
+285
+00:06:06,599 --> 00:06:08,909
+same space therefore when you try to
+shove one creature into another the
+
+286
+00:06:08,909 --> 00:06:08,919
+shove one creature into another the
+ 
+
+287
+00:06:08,919 --> 00:06:11,150
+shove one creature into another the
+shoved creature would stop moving in the
+
+288
+00:06:11,150 --> 00:06:11,160
+shoved creature would stop moving in the
+ 
+
+289
+00:06:11,160 --> 00:06:13,749
+shoved creature would stop moving in the
+last valid space of the path and not
+
+290
+00:06:13,749 --> 00:06:13,759
+last valid space of the path and not
+ 
+
+291
+00:06:13,759 --> 00:06:16,430
+last valid space of the path and not
+enter into or interact with the other
+
+292
+00:06:16,430 --> 00:06:16,440
+enter into or interact with the other
+ 
+
+293
+00:06:16,440 --> 00:06:19,629
+enter into or interact with the other
+creature or space Also the rules for
+
+294
+00:06:19,629 --> 00:06:19,639
+creature or space Also the rules for
+ 
+
+295
+00:06:19,639 --> 00:06:22,230
+creature or space Also the rules for
+moving through an Allied creature space
+
+296
+00:06:22,230 --> 00:06:22,240
+moving through an Allied creature space
+ 
+
+297
+00:06:22,240 --> 00:06:24,309
+moving through an Allied creature space
+would not apply here because the rule
+
+298
+00:06:24,309 --> 00:06:24,319
+would not apply here because the rule
+ 
+
+299
+00:06:24,319 --> 00:06:26,830
+would not apply here because the rule
+for forced movement says movement ends
+
+300
+00:06:26,830 --> 00:06:26,840
+for forced movement says movement ends
+ 
+
+301
+00:06:26,840 --> 00:06:30,029
+for forced movement says movement ends
+if the space cannot be occupied and one
+
+302
+00:06:30,029 --> 00:06:30,039
+if the space cannot be occupied and one
+ 
+
+303
+00:06:30,039 --> 00:06:32,950
+if the space cannot be occupied and one
+creature cannot occupy another creature
+
+304
+00:06:32,950 --> 00:06:32,960
+creature cannot occupy another creature
+ 
+
+305
+00:06:32,960 --> 00:06:35,510
+creature cannot occupy another creature
+space however the GM makes the final
+
+306
+00:06:35,510 --> 00:06:35,520
+space however the GM makes the final
+ 
+
+307
+00:06:35,520 --> 00:06:37,230
+space however the GM makes the final
+decision as to what happens when one
+
+308
+00:06:37,230 --> 00:06:37,240
+decision as to what happens when one
+ 
+
+309
+00:06:37,240 --> 00:06:39,749
+decision as to what happens when one
+creature is shoved into another and in a
+
+310
+00:06:39,749 --> 00:06:39,759
+creature is shoved into another and in a
+ 
+
+311
+00:06:39,759 --> 00:06:41,870
+creature is shoved into another and in a
+lot of cases I would rule differently in
+
+312
+00:06:41,870 --> 00:06:41,880
+lot of cases I would rule differently in
+ 
+
+313
+00:06:41,880 --> 00:06:44,589
+lot of cases I would rule differently in
+my game than what the official rule says
+
+314
+00:06:44,589 --> 00:06:44,599
+my game than what the official rule says
+ 
+
+315
+00:06:44,599 --> 00:06:46,029
+my game than what the official rule says
+and declare that the second creature
+
+316
+00:06:46,029 --> 00:06:46,039
+and declare that the second creature
+ 
+
+317
+00:06:46,039 --> 00:06:47,909
+and declare that the second creature
+needs to make a save to avoid me kn
+
+318
+00:06:47,909 --> 00:06:47,919
+needs to make a save to avoid me kn
+ 
+
+319
+00:06:47,919 --> 00:06:50,189
+needs to make a save to avoid me kn
+prone simply because that sounds more
+
+320
+00:06:50,189 --> 00:06:50,199
+prone simply because that sounds more
+ 
+
+321
+00:06:50,199 --> 00:06:51,950
+prone simply because that sounds more
+fun to me than just having the shoved
+
+322
+00:06:51,950 --> 00:06:51,960
+fun to me than just having the shoved
+ 
+
+323
+00:06:51,960 --> 00:06:55,390
+fun to me than just having the shoved
+creature stop in the last valid space
+
+324
+00:06:55,390 --> 00:06:55,400
+creature stop in the last valid space
+ 
+
+325
+00:06:55,400 --> 00:06:57,710
+creature stop in the last valid space
+but from a rules perspective be aware
+
+326
+00:06:57,710 --> 00:06:57,720
+but from a rules perspective be aware
+ 
+
+327
+00:06:57,720 --> 00:06:59,150
+but from a rules perspective be aware
+that the shoved creature would likely
+
+328
+00:06:59,150 --> 00:06:59,160
+that the shoved creature would likely
+ 
+
+329
+00:06:59,160 --> 00:07:01,589
+that the shoved creature would likely
+stop stop before interacting with the
+
+330
+00:07:01,589 --> 00:07:01,599
+stop stop before interacting with the
+ 
+
+331
+00:07:01,599 --> 00:07:04,430
+stop stop before interacting with the
+second creature the rules also provide
+
+332
+00:07:04,430 --> 00:07:04,440
+second creature the rules also provide
+ 
+
+333
+00:07:04,440 --> 00:07:06,189
+second creature the rules also provide
+guidance for what happens when forced
+
+334
+00:07:06,189 --> 00:07:06,199
+guidance for what happens when forced
+ 
+
+335
+00:07:06,199 --> 00:07:08,029
+guidance for what happens when forced
+movement moves a creature into a
+
+336
+00:07:08,029 --> 00:07:08,039
+movement moves a creature into a
+ 
+
+337
+00:07:08,039 --> 00:07:10,469
+movement moves a creature into a
+dangerous space like shoving a creature
+
+338
+00:07:10,469 --> 00:07:10,479
+dangerous space like shoving a creature
+ 
+
+339
+00:07:10,479 --> 00:07:14,270
+dangerous space like shoving a creature
+into a pit or into a wall of fire the
+
+340
+00:07:14,270 --> 00:07:14,280
+into a pit or into a wall of fire the
+ 
+
+341
+00:07:14,280 --> 00:07:16,230
+into a pit or into a wall of fire the
+rules state that when a creature is
+
+342
+00:07:16,230 --> 00:07:16,240
+rules state that when a creature is
+ 
+
+343
+00:07:16,240 --> 00:07:19,110
+rules state that when a creature is
+pushed or pulled they may be moved into
+
+344
+00:07:19,110 --> 00:07:19,120
+pushed or pulled they may be moved into
+ 
+
+345
+00:07:19,120 --> 00:07:21,909
+pushed or pulled they may be moved into
+a dangerous space but not when they are
+
+346
+00:07:21,909 --> 00:07:21,919
+a dangerous space but not when they are
+ 
+
+347
+00:07:21,919 --> 00:07:25,150
+a dangerous space but not when they are
+repositioned in some other manner so if
+
+348
+00:07:25,150 --> 00:07:25,160
+repositioned in some other manner so if
+ 
+
+349
+00:07:25,160 --> 00:07:27,710
+repositioned in some other manner so if
+you were to shove an enemy off a ledge
+
+350
+00:07:27,710 --> 00:07:27,720
+you were to shove an enemy off a ledge
+ 
+
+351
+00:07:27,720 --> 00:07:29,869
+you were to shove an enemy off a ledge
+they would immediately start falling and
+
+352
+00:07:29,869 --> 00:07:29,879
+they would immediately start falling and
+ 
+
+353
+00:07:29,879 --> 00:07:31,990
+they would immediately start falling and
+be allowed to spin their reaction on
+
+354
+00:07:31,990 --> 00:07:32,000
+be allowed to spin their reaction on
+ 
+
+355
+00:07:32,000 --> 00:07:35,189
+be allowed to spin their reaction on
+grab an edge and if he shoved an enemy
+
+356
+00:07:35,189 --> 00:07:35,199
+grab an edge and if he shoved an enemy
+ 
+
+357
+00:07:35,199 --> 00:07:37,430
+grab an edge and if he shoved an enemy
+into a wall of fire they would suffer
+
+358
+00:07:37,430 --> 00:07:37,440
+into a wall of fire they would suffer
+ 
+
+359
+00:07:37,440 --> 00:07:39,790
+into a wall of fire they would suffer
+immediate damage for Crossing into it
+
+360
+00:07:39,790 --> 00:07:39,800
+immediate damage for Crossing into it
+ 
+
+361
+00:07:39,800 --> 00:07:41,629
+immediate damage for Crossing into it
+and more damage at the start of their
+
+362
+00:07:41,629 --> 00:07:41,639
+and more damage at the start of their
+ 
+
+363
+00:07:41,639 --> 00:07:44,430
+and more damage at the start of their
+turn assuming they are still occupying
+
+364
+00:07:44,430 --> 00:07:44,440
+turn assuming they are still occupying
+ 
+
+365
+00:07:44,440 --> 00:07:47,430
+turn assuming they are still occupying
+that space and some abilities allow a
+
+366
+00:07:47,430 --> 00:07:47,440
+that space and some abilities allow a
+ 
+
+367
+00:07:47,440 --> 00:07:49,469
+that space and some abilities allow a
+creature to pick up and carry another
+
+368
+00:07:49,469 --> 00:07:49,479
+creature to pick up and carry another
+ 
+
+369
+00:07:49,479 --> 00:07:52,790
+creature to pick up and carry another
+with it this is also forced movement but
+
+370
+00:07:52,790 --> 00:07:52,800
+with it this is also forced movement but
+ 
+
+371
+00:07:52,800 --> 00:07:55,110
+with it this is also forced movement but
+unlike with pushing or pulling someone
+
+372
+00:07:55,110 --> 00:07:55,120
+unlike with pushing or pulling someone
+ 
+
+373
+00:07:55,120 --> 00:07:57,309
+unlike with pushing or pulling someone
+you cannot move a carried creature
+
+374
+00:07:57,309 --> 00:07:57,319
+you cannot move a carried creature
+ 
+
+375
+00:07:57,319 --> 00:07:59,710
+you cannot move a carried creature
+through a hazardous space that that you
+
+376
+00:07:59,710 --> 00:07:59,720
+through a hazardous space that that you
+ 
+
+377
+00:07:59,720 --> 00:08:03,149
+through a hazardous space that that you
+too do not also pass through for example
+
+378
+00:08:03,149 --> 00:08:03,159
+too do not also pass through for example
+ 
+
+379
+00:08:03,159 --> 00:08:05,550
+too do not also pass through for example
+some types of animated constructs have
+
+380
+00:08:05,550 --> 00:08:05,560
+some types of animated constructs have
+ 
+
+381
+00:08:05,560 --> 00:08:07,550
+some types of animated constructs have
+the ability to pick up and carry a
+
+382
+00:08:07,550 --> 00:08:07,560
+the ability to pick up and carry a
+ 
+
+383
+00:08:07,560 --> 00:08:10,790
+the ability to pick up and carry a
+target with them if they did so both the
+
+384
+00:08:10,790 --> 00:08:10,800
+target with them if they did so both the
+ 
+
+385
+00:08:10,800 --> 00:08:13,270
+target with them if they did so both the
+construct and the carried creature would
+
+386
+00:08:13,270 --> 00:08:13,280
+construct and the carried creature would
+ 
+
+387
+00:08:13,280 --> 00:08:15,309
+construct and the carried creature would
+be considered as occupying the same
+
+388
+00:08:15,309 --> 00:08:15,319
+be considered as occupying the same
+ 
+
+389
+00:08:15,319 --> 00:08:18,390
+be considered as occupying the same
+space for the duration of that movement
+
+390
+00:08:18,390 --> 00:08:18,400
+space for the duration of that movement
+ 
+
+391
+00:08:18,400 --> 00:08:21,189
+space for the duration of that movement
+the construct couldn't walk one path
+
+392
+00:08:21,189 --> 00:08:21,199
+the construct couldn't walk one path
+ 
+
+393
+00:08:21,199 --> 00:08:23,309
+the construct couldn't walk one path
+while holding the carried creature in an
+
+394
+00:08:23,309 --> 00:08:23,319
+while holding the carried creature in an
+ 
+
+395
+00:08:23,319 --> 00:08:25,670
+while holding the carried creature in an
+adjacent space so that they are harmed
+
+396
+00:08:25,670 --> 00:08:25,680
+adjacent space so that they are harmed
+ 
+
+397
+00:08:25,680 --> 00:08:27,670
+adjacent space so that they are harmed
+by an environmental hazard that the
+
+398
+00:08:27,670 --> 00:08:27,680
+by an environmental hazard that the
+ 
+
+399
+00:08:27,680 --> 00:08:30,149
+by an environmental hazard that the
+construct is able to avoid
+
+400
+00:08:30,149 --> 00:08:30,159
+construct is able to avoid
+ 
+
+401
+00:08:30,159 --> 00:08:32,550
+construct is able to avoid
+likewise forced movement that does not
+
+402
+00:08:32,550 --> 00:08:32,560
+likewise forced movement that does not
+ 
+
+403
+00:08:32,560 --> 00:08:35,389
+likewise forced movement that does not
+involve a push or a pull could not be
+
+404
+00:08:35,389 --> 00:08:35,399
+involve a push or a pull could not be
+ 
+
+405
+00:08:35,399 --> 00:08:37,310
+involve a push or a pull could not be
+used to move an enemy into a danger
+
+406
+00:08:37,310 --> 00:08:37,320
+used to move an enemy into a danger
+ 
+
+407
+00:08:37,320 --> 00:08:39,630
+used to move an enemy into a danger
+space for example you cannot use
+
+408
+00:08:39,630 --> 00:08:39,640
+space for example you cannot use
+ 
+
+409
+00:08:39,640 --> 00:08:41,870
+space for example you cannot use
+reposition to move an enemy over the
+
+410
+00:08:41,870 --> 00:08:41,880
+reposition to move an enemy over the
+ 
+
+411
+00:08:41,880 --> 00:08:44,829
+reposition to move an enemy over the
+ledge of a cliff but remember in all
+
+412
+00:08:44,829 --> 00:08:44,839
+ledge of a cliff but remember in all
+ 
+
+413
+00:08:44,839 --> 00:08:47,710
+ledge of a cliff but remember in all
+cases the GM has the final say as to
+
+414
+00:08:47,710 --> 00:08:47,720
+cases the GM has the final say as to
+ 
+
+415
+00:08:47,720 --> 00:08:51,389
+cases the GM has the final say as to
+what is or is not possible with forced
+
+416
+00:08:51,389 --> 00:08:51,399
+what is or is not possible with forced
+ 
+
+417
+00:08:51,399 --> 00:08:53,389
+what is or is not possible with forced
+movement that should do it for our
+
+418
+00:08:53,389 --> 00:08:53,399
+movement that should do it for our
+ 
+
+419
+00:08:53,399 --> 00:08:55,070
+movement that should do it for our
+discussion on forc movement in
+
+420
+00:08:55,070 --> 00:08:55,080
+discussion on forc movement in
+ 
+
+421
+00:08:55,080 --> 00:08:57,310
+discussion on forc movement in
+Pathfinder if you have any questions or
+
+422
+00:08:57,310 --> 00:08:57,320
+Pathfinder if you have any questions or
+ 
+
+423
+00:08:57,320 --> 00:08:58,750
+Pathfinder if you have any questions or
+insights please leave them in the
+
+424
+00:08:58,750 --> 00:08:58,760
+insights please leave them in the
+ 
+
+425
+00:08:58,760 --> 00:09:00,630
+insights please leave them in the
+comments and I would like to take a
+
+426
+00:09:00,630 --> 00:09:00,640
+comments and I would like to take a
+ 
+
+427
+00:09:00,640 --> 00:09:02,269
+comments and I would like to take a
+brief moment to thank everyone who
+
+428
+00:09:02,269 --> 00:09:02,279
+brief moment to thank everyone who
+ 
+
+429
+00:09:02,279 --> 00:09:04,430
+brief moment to thank everyone who
+supports this channel whether that be by
+
+430
+00:09:04,430 --> 00:09:04,440
+supports this channel whether that be by
+ 
+
+431
+00:09:04,440 --> 00:09:06,190
+supports this channel whether that be by
+leaving comments clicking the like
+
+432
+00:09:06,190 --> 00:09:06,200
+leaving comments clicking the like
+ 
+
+433
+00:09:06,200 --> 00:09:08,069
+leaving comments clicking the like
+button subscribing to the channel
+
+434
+00:09:08,069 --> 00:09:08,079
+button subscribing to the channel
+ 
+
+435
+00:09:08,079 --> 00:09:09,750
+button subscribing to the channel
+subscribing to the patreon or buying a
+
+436
+00:09:09,750 --> 00:09:09,760
+subscribing to the patreon or buying a
+ 
+
+437
+00:09:09,760 --> 00:09:11,949
+subscribing to the patreon or buying a
+super thanks I greatly appreciate all
+
+438
+00:09:11,949 --> 00:09:11,959
+super thanks I greatly appreciate all
+ 
+
+439
+00:09:11,959 --> 00:09:14,310
+super thanks I greatly appreciate all
+you do to support me with that thanks
+
+440
+00:09:14,310 --> 00:09:14,320
+you do to support me with that thanks
+ 
+
+441
+00:09:14,320 --> 00:09:16,900
+you do to support me with that thanks
+for watching take care and happy
+
+442
+00:09:16,900 --> 00:09:16,910
+for watching take care and happy
+ 
+
+443
+00:09:16,910 --> 00:09:23,550
+for watching take care and happy
+[Music]
+
+444
+00:09:23,550 --> 00:09:23,560
+[Music]
+ 
+
+445
+00:09:23,560 --> 00:09:26,560
+[Music]
+gaming
+

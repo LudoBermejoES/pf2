@@ -1,0 +1,1655 @@
+1
+00:00:00,960 --> 00:00:03,030
+
+this video is brought to you by roll for
+
+2
+00:00:03,030 --> 00:00:03,040
+this video is brought to you by roll for
+ 
+
+3
+00:00:03,040 --> 00:00:03,590
+this video is brought to you by roll for
+combat
+
+4
+00:00:03,590 --> 00:00:03,600
+combat
+ 
+
+5
+00:00:03,600 --> 00:00:06,070
+combat
+and the fall of plaguestone an official
+
+6
+00:00:06,070 --> 00:00:06,080
+and the fall of plaguestone an official
+ 
+
+7
+00:00:06,080 --> 00:00:08,629
+and the fall of plaguestone an official
+piezo actual play podcast
+
+8
+00:00:08,629 --> 00:00:08,639
+piezo actual play podcast
+ 
+
+9
+00:00:08,639 --> 00:00:11,270
+piezo actual play podcast
+join peru cade brixley and celeste as
+
+10
+00:00:11,270 --> 00:00:11,280
+join peru cade brixley and celeste as
+ 
+
+11
+00:00:11,280 --> 00:00:13,350
+join peru cade brixley and celeste as
+they band together to save the village
+
+12
+00:00:13,350 --> 00:00:13,360
+they band together to save the village
+ 
+
+13
+00:00:13,360 --> 00:00:15,669
+they band together to save the village
+of plaguestone from utter destruction
+
+14
+00:00:15,669 --> 00:00:15,679
+of plaguestone from utter destruction
+ 
+
+15
+00:00:15,679 --> 00:00:18,349
+of plaguestone from utter destruction
+listen now to the fall of plaguestone at
+
+16
+00:00:18,349 --> 00:00:18,359
+listen now to the fall of plaguestone at
+ 
+
+17
+00:00:18,359 --> 00:00:25,670
+listen now to the fall of plaguestone at
+roll4combat.com
+
+18
+00:00:25,670 --> 00:00:25,680
+
+ 
+
+19
+00:00:25,680 --> 00:00:27,589
+
+hey everybody dave here with another
+
+20
+00:00:27,589 --> 00:00:27,599
+hey everybody dave here with another
+ 
+
+21
+00:00:27,599 --> 00:00:29,990
+hey everybody dave here with another
+pathfinder rule reminder for you
+
+22
+00:00:29,990 --> 00:00:30,000
+pathfinder rule reminder for you
+ 
+
+23
+00:00:30,000 --> 00:00:31,750
+pathfinder rule reminder for you
+and today i'm going to be talking about
+
+24
+00:00:31,750 --> 00:00:31,760
+and today i'm going to be talking about
+ 
+
+25
+00:00:31,760 --> 00:00:33,590
+and today i'm going to be talking about
+the risky surgery feat
+
+26
+00:00:33,590 --> 00:00:33,600
+the risky surgery feat
+ 
+
+27
+00:00:33,600 --> 00:00:35,830
+the risky surgery feat
+risky surgery is a feat available at
+
+28
+00:00:35,830 --> 00:00:35,840
+risky surgery is a feat available at
+ 
+
+29
+00:00:35,840 --> 00:00:37,990
+risky surgery is a feat available at
+first level to anybody who is at least
+
+30
+00:00:37,990 --> 00:00:38,000
+first level to anybody who is at least
+ 
+
+31
+00:00:38,000 --> 00:00:41,030
+first level to anybody who is at least
+trained in medicine and what it does is
+
+32
+00:00:41,030 --> 00:00:41,040
+trained in medicine and what it does is
+ 
+
+33
+00:00:41,040 --> 00:00:44,069
+trained in medicine and what it does is
+when you do treat wounds it gives you
+
+34
+00:00:44,069 --> 00:00:44,079
+when you do treat wounds it gives you
+ 
+
+35
+00:00:44,079 --> 00:00:45,190
+when you do treat wounds it gives you
+the option
+
+36
+00:00:45,190 --> 00:00:45,200
+the option
+ 
+
+37
+00:00:45,200 --> 00:00:48,549
+the option
+of dealing 1d8 slashing damage to your
+
+38
+00:00:48,549 --> 00:00:48,559
+of dealing 1d8 slashing damage to your
+ 
+
+39
+00:00:48,559 --> 00:00:49,750
+of dealing 1d8 slashing damage to your
+patient so yes
+
+40
+00:00:49,750 --> 00:00:49,760
+patient so yes
+ 
+
+41
+00:00:49,760 --> 00:00:52,630
+patient so yes
+you're going to first harm your patient
+
+42
+00:00:52,630 --> 00:00:52,640
+you're going to first harm your patient
+ 
+
+43
+00:00:52,640 --> 00:00:53,270
+you're going to first harm your patient
+but
+
+44
+00:00:53,270 --> 00:00:53,280
+but
+ 
+
+45
+00:00:53,280 --> 00:00:55,430
+but
+if you do that you get a plus 2
+
+46
+00:00:55,430 --> 00:00:55,440
+if you do that you get a plus 2
+ 
+
+47
+00:00:55,440 --> 00:00:57,029
+if you do that you get a plus 2
+circumstance bonus to your medicine
+
+48
+00:00:57,029 --> 00:00:57,039
+circumstance bonus to your medicine
+ 
+
+49
+00:00:57,039 --> 00:00:57,670
+circumstance bonus to your medicine
+check
+
+50
+00:00:57,670 --> 00:00:57,680
+check
+ 
+
+51
+00:00:57,680 --> 00:00:59,830
+check
+and if the result of that chick is a
+
+52
+00:00:59,830 --> 00:00:59,840
+and if the result of that chick is a
+ 
+
+53
+00:00:59,840 --> 00:01:00,709
+and if the result of that chick is a
+success
+
+54
+00:01:00,709 --> 00:01:00,719
+success
+ 
+
+55
+00:01:00,719 --> 00:01:03,270
+success
+then it automatically gets bumped up to
+
+56
+00:01:03,270 --> 00:01:03,280
+then it automatically gets bumped up to
+ 
+
+57
+00:01:03,280 --> 00:01:04,789
+then it automatically gets bumped up to
+a critical success
+
+58
+00:01:04,789 --> 00:01:04,799
+a critical success
+ 
+
+59
+00:01:04,799 --> 00:01:07,270
+a critical success
+which in the early levels in that train
+
+60
+00:01:07,270 --> 00:01:07,280
+which in the early levels in that train
+ 
+
+61
+00:01:07,280 --> 00:01:08,070
+which in the early levels in that train
+proficiency
+
+62
+00:01:08,070 --> 00:01:08,080
+proficiency
+ 
+
+63
+00:01:08,080 --> 00:01:10,789
+proficiency
+would be 48 healing instead of 2d8
+
+64
+00:01:10,789 --> 00:01:10,799
+would be 48 healing instead of 2d8
+ 
+
+65
+00:01:10,799 --> 00:01:11,429
+would be 48 healing instead of 2d8
+healing
+
+66
+00:01:11,429 --> 00:01:11,439
+healing
+ 
+
+67
+00:01:11,439 --> 00:01:13,109
+healing
+there are a couple of things to keep in
+
+68
+00:01:13,109 --> 00:01:13,119
+there are a couple of things to keep in
+ 
+
+69
+00:01:13,119 --> 00:01:14,710
+there are a couple of things to keep in
+mind about using this
+
+70
+00:01:14,710 --> 00:01:14,720
+mind about using this
+ 
+
+71
+00:01:14,720 --> 00:01:17,990
+mind about using this
+i i saw a number of people online just
+
+72
+00:01:17,990 --> 00:01:18,000
+i i saw a number of people online just
+ 
+
+73
+00:01:18,000 --> 00:01:19,830
+i i saw a number of people online just
+oversimplifying this and saying if you
+
+74
+00:01:19,830 --> 00:01:19,840
+oversimplifying this and saying if you
+ 
+
+75
+00:01:19,840 --> 00:01:21,270
+oversimplifying this and saying if you
+do risky surgery
+
+76
+00:01:21,270 --> 00:01:21,280
+do risky surgery
+ 
+
+77
+00:01:21,280 --> 00:01:24,710
+do risky surgery
+and you get a success then instead of
+
+78
+00:01:24,710 --> 00:01:24,720
+and you get a success then instead of
+ 
+
+79
+00:01:24,720 --> 00:01:27,830
+and you get a success then instead of
+worrying about 1d8 damage and 48 healing
+
+80
+00:01:27,830 --> 00:01:27,840
+worrying about 1d8 damage and 48 healing
+ 
+
+81
+00:01:27,840 --> 00:01:30,550
+worrying about 1d8 damage and 48 healing
+just roll 38 healing because plus 48
+
+82
+00:01:30,550 --> 00:01:30,560
+just roll 38 healing because plus 48
+ 
+
+83
+00:01:30,560 --> 00:01:31,350
+just roll 38 healing because plus 48
+healing
+
+84
+00:01:31,350 --> 00:01:31,360
+healing
+ 
+
+85
+00:01:31,360 --> 00:01:34,390
+healing
+minus 1d8 damage uh gets you
+
+86
+00:01:34,390 --> 00:01:34,400
+minus 1d8 damage uh gets you
+ 
+
+87
+00:01:34,400 --> 00:01:37,590
+minus 1d8 damage uh gets you
+a net result of 3d8 healing and so just
+
+88
+00:01:37,590 --> 00:01:37,600
+a net result of 3d8 healing and so just
+ 
+
+89
+00:01:37,600 --> 00:01:39,749
+a net result of 3d8 healing and so just
+make life easy and roll that i would
+
+90
+00:01:39,749 --> 00:01:39,759
+make life easy and roll that i would
+ 
+
+91
+00:01:39,759 --> 00:01:41,190
+make life easy and roll that i would
+recommend not doing that
+
+92
+00:01:41,190 --> 00:01:41,200
+recommend not doing that
+ 
+
+93
+00:01:41,200 --> 00:01:43,830
+recommend not doing that
+and the big reason for that is if you or
+
+94
+00:01:43,830 --> 00:01:43,840
+and the big reason for that is if you or
+ 
+
+95
+00:01:43,840 --> 00:01:44,950
+and the big reason for that is if you or
+your players roll
+
+96
+00:01:44,950 --> 00:01:44,960
+your players roll
+ 
+
+97
+00:01:44,960 --> 00:01:47,350
+your players roll
+anything like my players do then it's
+
+98
+00:01:47,350 --> 00:01:47,360
+anything like my players do then it's
+ 
+
+99
+00:01:47,360 --> 00:01:48,950
+anything like my players do then it's
+entirely possible
+
+100
+00:01:48,950 --> 00:01:48,960
+entirely possible
+ 
+
+101
+00:01:48,960 --> 00:01:51,429
+entirely possible
+that you could deal 8 points of slashing
+
+102
+00:01:51,429 --> 00:01:51,439
+that you could deal 8 points of slashing
+ 
+
+103
+00:01:51,439 --> 00:01:52,310
+that you could deal 8 points of slashing
+damage
+
+104
+00:01:52,310 --> 00:01:52,320
+damage
+ 
+
+105
+00:01:52,320 --> 00:01:55,350
+damage
+on the 1d8 damage that you initially do
+
+106
+00:01:55,350 --> 00:01:55,360
+on the 1d8 damage that you initially do
+ 
+
+107
+00:01:55,360 --> 00:01:56,469
+on the 1d8 damage that you initially do
+to the patient
+
+108
+00:01:56,469 --> 00:01:56,479
+to the patient
+ 
+
+109
+00:01:56,479 --> 00:01:59,830
+to the patient
+and then roll nothing but ones on the
+
+110
+00:01:59,830 --> 00:01:59,840
+and then roll nothing but ones on the
+ 
+
+111
+00:01:59,840 --> 00:02:00,310
+and then roll nothing but ones on the
+rest
+
+112
+00:02:00,310 --> 00:02:00,320
+rest
+ 
+
+113
+00:02:00,320 --> 00:02:04,230
+rest
+of the healing so after all of this it
+
+114
+00:02:04,230 --> 00:02:04,240
+of the healing so after all of this it
+ 
+
+115
+00:02:04,240 --> 00:02:05,429
+of the healing so after all of this it
+would still be a
+
+116
+00:02:05,429 --> 00:02:05,439
+would still be a
+ 
+
+117
+00:02:05,439 --> 00:02:08,550
+would still be a
+net loss of hit points to the patient
+
+118
+00:02:08,550 --> 00:02:08,560
+net loss of hit points to the patient
+ 
+
+119
+00:02:08,560 --> 00:02:10,710
+net loss of hit points to the patient
+and another question that came up was
+
+120
+00:02:10,710 --> 00:02:10,720
+and another question that came up was
+ 
+
+121
+00:02:10,720 --> 00:02:12,949
+and another question that came up was
+about battle medicine can you use
+
+122
+00:02:12,949 --> 00:02:12,959
+about battle medicine can you use
+ 
+
+123
+00:02:12,959 --> 00:02:15,750
+about battle medicine can you use
+risky surgery with battle medicine and
+
+124
+00:02:15,750 --> 00:02:15,760
+risky surgery with battle medicine and
+ 
+
+125
+00:02:15,760 --> 00:02:16,869
+risky surgery with battle medicine and
+the answer to that is
+
+126
+00:02:16,869 --> 00:02:16,879
+the answer to that is
+ 
+
+127
+00:02:16,879 --> 00:02:18,790
+the answer to that is
+no you wouldn't be able to because
+
+128
+00:02:18,790 --> 00:02:18,800
+no you wouldn't be able to because
+ 
+
+129
+00:02:18,800 --> 00:02:20,070
+no you wouldn't be able to because
+battle medicine
+
+130
+00:02:20,070 --> 00:02:20,080
+battle medicine
+ 
+
+131
+00:02:20,080 --> 00:02:22,550
+battle medicine
+even though it says that it uses the
+
+132
+00:02:22,550 --> 00:02:22,560
+even though it says that it uses the
+ 
+
+133
+00:02:22,560 --> 00:02:23,589
+even though it says that it uses the
+same dc
+
+134
+00:02:23,589 --> 00:02:23,599
+same dc
+ 
+
+135
+00:02:23,599 --> 00:02:26,070
+same dc
+as treat wounds and it heals the same
+
+136
+00:02:26,070 --> 00:02:26,080
+as treat wounds and it heals the same
+ 
+
+137
+00:02:26,080 --> 00:02:27,830
+as treat wounds and it heals the same
+amount of hit points
+
+138
+00:02:27,830 --> 00:02:27,840
+amount of hit points
+ 
+
+139
+00:02:27,840 --> 00:02:30,470
+amount of hit points
+as treat wounds it's pretty clear that
+
+140
+00:02:30,470 --> 00:02:30,480
+as treat wounds it's pretty clear that
+ 
+
+141
+00:02:30,480 --> 00:02:31,270
+as treat wounds it's pretty clear that
+it's not
+
+142
+00:02:31,270 --> 00:02:31,280
+it's not
+ 
+
+143
+00:02:31,280 --> 00:02:34,790
+it's not
+the same as tree wounds and a risky
+
+144
+00:02:34,790 --> 00:02:34,800
+the same as tree wounds and a risky
+ 
+
+145
+00:02:34,800 --> 00:02:36,070
+the same as tree wounds and a risky
+surgery specifically
+
+146
+00:02:36,070 --> 00:02:36,080
+surgery specifically
+ 
+
+147
+00:02:36,080 --> 00:02:38,869
+surgery specifically
+says that it applies to uses of treat
+
+148
+00:02:38,869 --> 00:02:38,879
+says that it applies to uses of treat
+ 
+
+149
+00:02:38,879 --> 00:02:40,390
+says that it applies to uses of treat
+wounds so you would not be able to use
+
+150
+00:02:40,390 --> 00:02:40,400
+wounds so you would not be able to use
+ 
+
+151
+00:02:40,400 --> 00:02:42,070
+wounds so you would not be able to use
+risky surgery when you're doing battle
+
+152
+00:02:42,070 --> 00:02:42,080
+risky surgery when you're doing battle
+ 
+
+153
+00:02:42,080 --> 00:02:44,229
+risky surgery when you're doing battle
+medicine the next question was probably
+
+154
+00:02:44,229 --> 00:02:44,239
+medicine the next question was probably
+ 
+
+155
+00:02:44,239 --> 00:02:45,190
+medicine the next question was probably
+the biggest one
+
+156
+00:02:45,190 --> 00:02:45,200
+the biggest one
+ 
+
+157
+00:02:45,200 --> 00:02:47,190
+the biggest one
+or the most frequent one that popped up
+
+158
+00:02:47,190 --> 00:02:47,200
+or the most frequent one that popped up
+ 
+
+159
+00:02:47,200 --> 00:02:49,670
+or the most frequent one that popped up
+which was can you use assurance with
+
+160
+00:02:49,670 --> 00:02:49,680
+which was can you use assurance with
+ 
+
+161
+00:02:49,680 --> 00:02:51,270
+which was can you use assurance with
+risky surgery
+
+162
+00:02:51,270 --> 00:02:51,280
+risky surgery
+ 
+
+163
+00:02:51,280 --> 00:02:54,550
+risky surgery
+and this is a little bit of a contested
+
+164
+00:02:54,550 --> 00:02:54,560
+and this is a little bit of a contested
+ 
+
+165
+00:02:54,560 --> 00:02:55,430
+and this is a little bit of a contested
+topic
+
+166
+00:02:55,430 --> 00:02:55,440
+topic
+ 
+
+167
+00:02:55,440 --> 00:02:58,390
+topic
+um there's two opposing viewpoints and
+
+168
+00:02:58,390 --> 00:02:58,400
+um there's two opposing viewpoints and
+ 
+
+169
+00:02:58,400 --> 00:02:59,670
+um there's two opposing viewpoints and
+i'll give you both of them
+
+170
+00:02:59,670 --> 00:02:59,680
+i'll give you both of them
+ 
+
+171
+00:02:59,680 --> 00:03:02,869
+i'll give you both of them
+and then share you my thoughts um the
+
+172
+00:03:02,869 --> 00:03:02,879
+and then share you my thoughts um the
+ 
+
+173
+00:03:02,879 --> 00:03:04,390
+and then share you my thoughts um the
+first uh
+
+174
+00:03:04,390 --> 00:03:04,400
+first uh
+ 
+
+175
+00:03:04,400 --> 00:03:06,229
+first uh
+the first train of thought is that no
+
+176
+00:03:06,229 --> 00:03:06,239
+the first train of thought is that no
+ 
+
+177
+00:03:06,239 --> 00:03:07,750
+the first train of thought is that no
+you cannot use
+
+178
+00:03:07,750 --> 00:03:07,760
+you cannot use
+ 
+
+179
+00:03:07,760 --> 00:03:10,869
+you cannot use
+assurance with risky surgery and the
+
+180
+00:03:10,869 --> 00:03:10,879
+assurance with risky surgery and the
+ 
+
+181
+00:03:10,879 --> 00:03:11,910
+assurance with risky surgery and the
+reason is
+
+182
+00:03:11,910 --> 00:03:11,920
+reason is
+ 
+
+183
+00:03:11,920 --> 00:03:14,790
+reason is
+is because risky surgery uses the
+
+184
+00:03:14,790 --> 00:03:14,800
+is because risky surgery uses the
+ 
+
+185
+00:03:14,800 --> 00:03:15,990
+is because risky surgery uses the
+terminology
+
+186
+00:03:15,990 --> 00:03:16,000
+terminology
+ 
+
+187
+00:03:16,000 --> 00:03:19,750
+terminology
+if you roll a success okay
+
+188
+00:03:19,750 --> 00:03:19,760
+if you roll a success okay
+ 
+
+189
+00:03:19,760 --> 00:03:22,550
+if you roll a success okay
+so it specifically says if you roll a
+
+190
+00:03:22,550 --> 00:03:22,560
+so it specifically says if you roll a
+ 
+
+191
+00:03:22,560 --> 00:03:23,509
+so it specifically says if you roll a
+success
+
+192
+00:03:23,509 --> 00:03:23,519
+success
+ 
+
+193
+00:03:23,519 --> 00:03:26,229
+success
+and the assurance fee says you can
+
+194
+00:03:26,229 --> 00:03:26,239
+and the assurance fee says you can
+ 
+
+195
+00:03:26,239 --> 00:03:26,949
+and the assurance fee says you can
+forego
+
+196
+00:03:26,949 --> 00:03:26,959
+forego
+ 
+
+197
+00:03:26,959 --> 00:03:30,149
+forego
+rolling in order to get us
+
+198
+00:03:30,149 --> 00:03:30,159
+rolling in order to get us
+ 
+
+199
+00:03:30,159 --> 00:03:33,990
+rolling in order to get us
+a result so if you're foregoing
+
+200
+00:03:33,990 --> 00:03:34,000
+a result so if you're foregoing
+ 
+
+201
+00:03:34,000 --> 00:03:37,110
+a result so if you're foregoing
+if you're forgoing a role and the
+
+202
+00:03:37,110 --> 00:03:37,120
+if you're forgoing a role and the
+ 
+
+203
+00:03:37,120 --> 00:03:40,309
+if you're forgoing a role and the
+uh risky surgery feat specifically says
+
+204
+00:03:40,309 --> 00:03:40,319
+uh risky surgery feat specifically says
+ 
+
+205
+00:03:40,319 --> 00:03:40,949
+uh risky surgery feat specifically says
+that
+
+206
+00:03:40,949 --> 00:03:40,959
+that
+ 
+
+207
+00:03:40,959 --> 00:03:42,789
+that
+when you roll a success this is what
+
+208
+00:03:42,789 --> 00:03:42,799
+when you roll a success this is what
+ 
+
+209
+00:03:42,799 --> 00:03:44,229
+when you roll a success this is what
+happens then
+
+210
+00:03:44,229 --> 00:03:44,239
+happens then
+ 
+
+211
+00:03:44,239 --> 00:03:45,670
+happens then
+that school of thought is that you
+
+212
+00:03:45,670 --> 00:03:45,680
+that school of thought is that you
+ 
+
+213
+00:03:45,680 --> 00:03:47,509
+that school of thought is that you
+wouldn't be able to use assurance
+
+214
+00:03:47,509 --> 00:03:47,519
+wouldn't be able to use assurance
+ 
+
+215
+00:03:47,519 --> 00:03:51,110
+wouldn't be able to use assurance
+with it the other school of thought is
+
+216
+00:03:51,110 --> 00:03:51,120
+with it the other school of thought is
+ 
+
+217
+00:03:51,120 --> 00:03:54,949
+with it the other school of thought is
+that the terminology is kind of loose
+
+218
+00:03:54,949 --> 00:03:54,959
+that the terminology is kind of loose
+ 
+
+219
+00:03:54,959 --> 00:03:57,670
+that the terminology is kind of loose
+in pathfinder second edition that
+
+220
+00:03:57,670 --> 00:03:57,680
+in pathfinder second edition that
+ 
+
+221
+00:03:57,680 --> 00:03:59,110
+in pathfinder second edition that
+rolling a success
+
+222
+00:03:59,110 --> 00:03:59,120
+rolling a success
+ 
+
+223
+00:03:59,120 --> 00:04:01,750
+rolling a success
+is completely synonymous with just
+
+224
+00:04:01,750 --> 00:04:01,760
+is completely synonymous with just
+ 
+
+225
+00:04:01,760 --> 00:04:03,670
+is completely synonymous with just
+performing any kind of a
+
+226
+00:04:03,670 --> 00:04:03,680
+performing any kind of a
+ 
+
+227
+00:04:03,680 --> 00:04:07,110
+performing any kind of a
+check and therefore you would be able to
+
+228
+00:04:07,110 --> 00:04:07,120
+check and therefore you would be able to
+ 
+
+229
+00:04:07,120 --> 00:04:07,750
+check and therefore you would be able to
+use
+
+230
+00:04:07,750 --> 00:04:07,760
+use
+ 
+
+231
+00:04:07,760 --> 00:04:11,190
+use
+assurance with risky surgery
+
+232
+00:04:11,190 --> 00:04:11,200
+assurance with risky surgery
+ 
+
+233
+00:04:11,200 --> 00:04:13,990
+assurance with risky surgery
+also if you the second school of thought
+
+234
+00:04:13,990 --> 00:04:14,000
+also if you the second school of thought
+ 
+
+235
+00:04:14,000 --> 00:04:15,270
+also if you the second school of thought
+would say that if you
+
+236
+00:04:15,270 --> 00:04:15,280
+would say that if you
+ 
+
+237
+00:04:15,280 --> 00:04:18,390
+would say that if you
+are that strict with the wording
+
+238
+00:04:18,390 --> 00:04:18,400
+are that strict with the wording
+ 
+
+239
+00:04:18,400 --> 00:04:21,509
+are that strict with the wording
+of um of the feasts where it says if you
+
+240
+00:04:21,509 --> 00:04:21,519
+of um of the feasts where it says if you
+ 
+
+241
+00:04:21,519 --> 00:04:22,870
+of um of the feasts where it says if you
+roll a success
+
+242
+00:04:22,870 --> 00:04:22,880
+roll a success
+ 
+
+243
+00:04:22,880 --> 00:04:25,350
+roll a success
+then assurance probably wouldn't apply
+
+244
+00:04:25,350 --> 00:04:25,360
+then assurance probably wouldn't apply
+ 
+
+245
+00:04:25,360 --> 00:04:26,150
+then assurance probably wouldn't apply
+to pretty much
+
+246
+00:04:26,150 --> 00:04:26,160
+to pretty much
+ 
+
+247
+00:04:26,160 --> 00:04:29,030
+to pretty much
+anything because they all pretty much
+
+248
+00:04:29,030 --> 00:04:29,040
+anything because they all pretty much
+ 
+
+249
+00:04:29,040 --> 00:04:29,350
+anything because they all pretty much
+say
+
+250
+00:04:29,350 --> 00:04:29,360
+say
+ 
+
+251
+00:04:29,360 --> 00:04:32,469
+say
+when you roll this um
+
+252
+00:04:32,469 --> 00:04:32,479
+when you roll this um
+ 
+
+253
+00:04:32,479 --> 00:04:35,350
+when you roll this um
+so those are the two different opposing
+
+254
+00:04:35,350 --> 00:04:35,360
+so those are the two different opposing
+ 
+
+255
+00:04:35,360 --> 00:04:36,629
+so those are the two different opposing
+schools of thought on this
+
+256
+00:04:36,629 --> 00:04:36,639
+schools of thought on this
+ 
+
+257
+00:04:36,639 --> 00:04:39,670
+schools of thought on this
+issue uh i believe that the intent
+
+258
+00:04:39,670 --> 00:04:39,680
+issue uh i believe that the intent
+ 
+
+259
+00:04:39,680 --> 00:04:42,950
+issue uh i believe that the intent
+is that yes assurance would apply
+
+260
+00:04:42,950 --> 00:04:42,960
+is that yes assurance would apply
+ 
+
+261
+00:04:42,960 --> 00:04:46,230
+is that yes assurance would apply
+to using risky medicine or risky surgery
+
+262
+00:04:46,230 --> 00:04:46,240
+to using risky medicine or risky surgery
+ 
+
+263
+00:04:46,240 --> 00:04:48,870
+to using risky medicine or risky surgery
+um you would not get the plus two bonus
+
+264
+00:04:48,870 --> 00:04:48,880
+um you would not get the plus two bonus
+ 
+
+265
+00:04:48,880 --> 00:04:49,590
+um you would not get the plus two bonus
+to that
+
+266
+00:04:49,590 --> 00:04:49,600
+to that
+ 
+
+267
+00:04:49,600 --> 00:04:52,070
+to that
+if you choose to use assurance with
+
+268
+00:04:52,070 --> 00:04:52,080
+if you choose to use assurance with
+ 
+
+269
+00:04:52,080 --> 00:04:53,909
+if you choose to use assurance with
+risky surgery you would not get the plus
+
+270
+00:04:53,909 --> 00:04:53,919
+risky surgery you would not get the plus
+ 
+
+271
+00:04:53,919 --> 00:04:55,510
+risky surgery you would not get the plus
+two circumstance bonus
+
+272
+00:04:55,510 --> 00:04:55,520
+two circumstance bonus
+ 
+
+273
+00:04:55,520 --> 00:04:57,830
+two circumstance bonus
+uh because there are no bonuses or
+
+274
+00:04:57,830 --> 00:04:57,840
+uh because there are no bonuses or
+ 
+
+275
+00:04:57,840 --> 00:04:59,430
+uh because there are no bonuses or
+penalties applied
+
+276
+00:04:59,430 --> 00:04:59,440
+penalties applied
+ 
+
+277
+00:04:59,440 --> 00:05:01,909
+penalties applied
+to uh to the check result when you use
+
+278
+00:05:01,909 --> 00:05:01,919
+to uh to the check result when you use
+ 
+
+279
+00:05:01,919 --> 00:05:03,270
+to uh to the check result when you use
+assurance
+
+280
+00:05:03,270 --> 00:05:03,280
+assurance
+ 
+
+281
+00:05:03,280 --> 00:05:04,710
+assurance
+every gm can make their own
+
+282
+00:05:04,710 --> 00:05:04,720
+every gm can make their own
+ 
+
+283
+00:05:04,720 --> 00:05:06,469
+every gm can make their own
+determinations those are the two
+
+284
+00:05:06,469 --> 00:05:06,479
+determinations those are the two
+ 
+
+285
+00:05:06,479 --> 00:05:07,749
+determinations those are the two
+different schools of thought on that
+
+286
+00:05:07,749 --> 00:05:07,759
+different schools of thought on that
+ 
+
+287
+00:05:07,759 --> 00:05:09,670
+different schools of thought on that
+issue but yes i believe
+
+288
+00:05:09,670 --> 00:05:09,680
+issue but yes i believe
+ 
+
+289
+00:05:09,680 --> 00:05:12,469
+issue but yes i believe
+that uh the intent here is that
+
+290
+00:05:12,469 --> 00:05:12,479
+that uh the intent here is that
+ 
+
+291
+00:05:12,479 --> 00:05:14,070
+that uh the intent here is that
+assurance could be used
+
+292
+00:05:14,070 --> 00:05:14,080
+assurance could be used
+ 
+
+293
+00:05:14,080 --> 00:05:17,110
+assurance could be used
+with uh with risky surgery so
+
+294
+00:05:17,110 --> 00:05:17,120
+with uh with risky surgery so
+ 
+
+295
+00:05:17,120 --> 00:05:20,070
+with uh with risky surgery so
+that's the uh the story of risky surgery
+
+296
+00:05:20,070 --> 00:05:20,080
+that's the uh the story of risky surgery
+ 
+
+297
+00:05:20,080 --> 00:05:21,189
+that's the uh the story of risky surgery
+in a nutshell
+
+298
+00:05:21,189 --> 00:05:21,199
+in a nutshell
+ 
+
+299
+00:05:21,199 --> 00:05:22,710
+in a nutshell
+as i mentioned before i'll make sure i
+
+300
+00:05:22,710 --> 00:05:22,720
+as i mentioned before i'll make sure i
+ 
+
+301
+00:05:22,720 --> 00:05:25,029
+as i mentioned before i'll make sure i
+leave links to my other videos i go
+
+302
+00:05:25,029 --> 00:05:25,039
+leave links to my other videos i go
+ 
+
+303
+00:05:25,039 --> 00:05:27,670
+leave links to my other videos i go
+over the medicine skill and assurance
+
+304
+00:05:27,670 --> 00:05:27,680
+over the medicine skill and assurance
+ 
+
+305
+00:05:27,680 --> 00:05:28,870
+over the medicine skill and assurance
+and anything else that's relevant to
+
+306
+00:05:28,870 --> 00:05:28,880
+and anything else that's relevant to
+ 
+
+307
+00:05:28,880 --> 00:05:29,670
+and anything else that's relevant to
+this topic
+
+308
+00:05:29,670 --> 00:05:29,680
+this topic
+ 
+
+309
+00:05:29,680 --> 00:05:31,110
+this topic
+if you have any suggestions for future
+
+310
+00:05:31,110 --> 00:05:31,120
+if you have any suggestions for future
+ 
+
+311
+00:05:31,120 --> 00:05:33,029
+if you have any suggestions for future
+rule reminders please let me know
+
+312
+00:05:33,029 --> 00:05:33,039
+rule reminders please let me know
+ 
+
+313
+00:05:33,039 --> 00:05:35,110
+rule reminders please let me know
+in the comments and as always i want to
+
+314
+00:05:35,110 --> 00:05:35,120
+in the comments and as always i want to
+ 
+
+315
+00:05:35,120 --> 00:05:36,469
+in the comments and as always i want to
+thank everybody who supports
+
+316
+00:05:36,469 --> 00:05:36,479
+thank everybody who supports
+ 
+
+317
+00:05:36,479 --> 00:05:38,550
+thank everybody who supports
+me whether that's through subscribing to
+
+318
+00:05:38,550 --> 00:05:38,560
+me whether that's through subscribing to
+ 
+
+319
+00:05:38,560 --> 00:05:39,909
+me whether that's through subscribing to
+the patreon
+
+320
+00:05:39,909 --> 00:05:39,919
+the patreon
+ 
+
+321
+00:05:39,919 --> 00:05:42,150
+the patreon
+leaving a comment clicking the like
+
+322
+00:05:42,150 --> 00:05:42,160
+leaving a comment clicking the like
+ 
+
+323
+00:05:42,160 --> 00:05:43,590
+leaving a comment clicking the like
+button subscribing to the channel
+
+324
+00:05:43,590 --> 00:05:43,600
+button subscribing to the channel
+ 
+
+325
+00:05:43,600 --> 00:05:45,270
+button subscribing to the channel
+i really appreciate everything you do to
+
+326
+00:05:45,270 --> 00:05:45,280
+i really appreciate everything you do to
+ 
+
+327
+00:05:45,280 --> 00:05:47,590
+i really appreciate everything you do to
+support me and this channel
+
+328
+00:05:47,590 --> 00:05:47,600
+support me and this channel
+ 
+
+329
+00:05:47,600 --> 00:05:49,430
+support me and this channel
+with that thanks for watching take care
+
+330
+00:05:49,430 --> 00:05:49,440
+with that thanks for watching take care
+ 
+
+331
+00:05:49,440 --> 00:05:53,600
+with that thanks for watching take care
+and happy gaming
+

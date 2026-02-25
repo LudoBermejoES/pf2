@@ -1,0 +1,3035 @@
+1
+00:00:03,980 --> 00:00:06,410
+
+hello and welcome to criticals in
+
+2
+00:00:06,410 --> 00:00:06,420
+hello and welcome to criticals in
+ 
+
+3
+00:00:06,420 --> 00:00:08,270
+hello and welcome to criticals in
+Pathfinder second edition by how it's
+
+4
+00:00:08,270 --> 00:00:08,280
+Pathfinder second edition by how it's
+ 
+
+5
+00:00:08,280 --> 00:00:11,089
+Pathfinder second edition by how it's
+played in Pathfinder most actions result
+
+6
+00:00:11,089 --> 00:00:11,099
+played in Pathfinder most actions result
+ 
+
+7
+00:00:11,099 --> 00:00:13,450
+played in Pathfinder most actions result
+in one of four degrees of success
+
+8
+00:00:13,450 --> 00:00:13,460
+in one of four degrees of success
+ 
+
+9
+00:00:13,460 --> 00:00:16,250
+in one of four degrees of success
+success failure critical success and
+
+10
+00:00:16,250 --> 00:00:16,260
+success failure critical success and
+ 
+
+11
+00:00:16,260 --> 00:00:18,890
+success failure critical success and
+critical failure success and failure are
+
+12
+00:00:18,890 --> 00:00:18,900
+critical failure success and failure are
+ 
+
+13
+00:00:18,900 --> 00:00:21,290
+critical failure success and failure are
+often understood but the two critical
+
+14
+00:00:21,290 --> 00:00:21,300
+often understood but the two critical
+ 
+
+15
+00:00:21,300 --> 00:00:24,290
+often understood but the two critical
+results can sometimes cause confusion so
+
+16
+00:00:24,290 --> 00:00:24,300
+results can sometimes cause confusion so
+ 
+
+17
+00:00:24,300 --> 00:00:26,090
+results can sometimes cause confusion so
+in this video I'm going to cover how to
+
+18
+00:00:26,090 --> 00:00:26,100
+in this video I'm going to cover how to
+ 
+
+19
+00:00:26,100 --> 00:00:27,830
+in this video I'm going to cover how to
+determine the degree of success for a
+
+20
+00:00:27,830 --> 00:00:27,840
+determine the degree of success for a
+ 
+
+21
+00:00:27,840 --> 00:00:30,290
+determine the degree of success for a
+chick and specifically how critical
+
+22
+00:00:30,290 --> 00:00:30,300
+chick and specifically how critical
+ 
+
+23
+00:00:30,300 --> 00:00:33,130
+chick and specifically how critical
+successes work with damage
+
+24
+00:00:33,130 --> 00:00:33,140
+successes work with damage
+ 
+
+25
+00:00:33,140 --> 00:00:35,930
+successes work with damage
+determining success or failure is fairly
+
+26
+00:00:35,930 --> 00:00:35,940
+determining success or failure is fairly
+ 
+
+27
+00:00:35,940 --> 00:00:38,510
+determining success or failure is fairly
+easy each check involves rolling a D20
+
+28
+00:00:38,510 --> 00:00:38,520
+easy each check involves rolling a D20
+ 
+
+29
+00:00:38,520 --> 00:00:41,150
+easy each check involves rolling a D20
+adding or subtracting modifiers to it
+
+30
+00:00:41,150 --> 00:00:41,160
+adding or subtracting modifiers to it
+ 
+
+31
+00:00:41,160 --> 00:00:43,610
+adding or subtracting modifiers to it
+and then comparing that total to a
+
+32
+00:00:43,610 --> 00:00:43,620
+and then comparing that total to a
+ 
+
+33
+00:00:43,620 --> 00:00:46,790
+and then comparing that total to a
+difficulty class or DC in the case of
+
+34
+00:00:46,790 --> 00:00:46,800
+difficulty class or DC in the case of
+ 
+
+35
+00:00:46,800 --> 00:00:49,549
+difficulty class or DC in the case of
+most attacks the target's Armor class is
+
+36
+00:00:49,549 --> 00:00:49,559
+most attacks the target's Armor class is
+ 
+
+37
+00:00:49,559 --> 00:00:53,150
+most attacks the target's Armor class is
+the DC for that check so for example if
+
+38
+00:00:53,150 --> 00:00:53,160
+the DC for that check so for example if
+ 
+
+39
+00:00:53,160 --> 00:00:56,150
+the DC for that check so for example if
+an enemy had an armor class of 24 you
+
+40
+00:00:56,150 --> 00:00:56,160
+an enemy had an armor class of 24 you
+ 
+
+41
+00:00:56,160 --> 00:00:58,729
+an enemy had an armor class of 24 you
+would need to roll a 24 or higher for
+
+42
+00:00:58,729 --> 00:00:58,739
+would need to roll a 24 or higher for
+ 
+
+43
+00:00:58,739 --> 00:01:00,709
+would need to roll a 24 or higher for
+that check to be a success and hit them
+
+44
+00:01:00,709 --> 00:01:00,719
+that check to be a success and hit them
+ 
+
+45
+00:01:00,719 --> 00:01:04,850
+that check to be a success and hit them
+if you roll a 23 or lower you fail and
+
+46
+00:01:04,850 --> 00:01:04,860
+if you roll a 23 or lower you fail and
+ 
+
+47
+00:01:04,860 --> 00:01:06,530
+if you roll a 23 or lower you fail and
+it's important to note that the person
+
+48
+00:01:06,530 --> 00:01:06,540
+it's important to note that the person
+ 
+
+49
+00:01:06,540 --> 00:01:09,950
+it's important to note that the person
+rolling the die wins the ties that's
+
+50
+00:01:09,950 --> 00:01:09,960
+rolling the die wins the ties that's
+ 
+
+51
+00:01:09,960 --> 00:01:12,109
+rolling the die wins the ties that's
+pretty straightforward and probably what
+
+52
+00:01:12,109 --> 00:01:12,119
+pretty straightforward and probably what
+ 
+
+53
+00:01:12,119 --> 00:01:13,429
+pretty straightforward and probably what
+you're used to if you've played other
+
+54
+00:01:13,429 --> 00:01:13,439
+you're used to if you've played other
+ 
+
+55
+00:01:13,439 --> 00:01:16,010
+you're used to if you've played other
+D20 role-playing games but critical
+
+56
+00:01:16,010 --> 00:01:16,020
+D20 role-playing games but critical
+ 
+
+57
+00:01:16,020 --> 00:01:18,289
+D20 role-playing games but critical
+results is where things differ with
+
+58
+00:01:18,289 --> 00:01:18,299
+results is where things differ with
+ 
+
+59
+00:01:18,299 --> 00:01:21,170
+results is where things differ with
+Pathfinder second edition here a check
+
+60
+00:01:21,170 --> 00:01:21,180
+Pathfinder second edition here a check
+ 
+
+61
+00:01:21,180 --> 00:01:23,450
+Pathfinder second edition here a check
+results in a critical when the modified
+
+62
+00:01:23,450 --> 00:01:23,460
+results in a critical when the modified
+ 
+
+63
+00:01:23,460 --> 00:01:26,749
+results in a critical when the modified
+total is at least 10 more or 10 less
+
+64
+00:01:26,749 --> 00:01:26,759
+total is at least 10 more or 10 less
+ 
+
+65
+00:01:26,759 --> 00:01:28,310
+total is at least 10 more or 10 less
+than the DC
+
+66
+00:01:28,310 --> 00:01:28,320
+than the DC
+ 
+
+67
+00:01:28,320 --> 00:01:30,649
+than the DC
+so going back to our example if you're
+
+68
+00:01:30,649 --> 00:01:30,659
+so going back to our example if you're
+ 
+
+69
+00:01:30,659 --> 00:01:32,330
+so going back to our example if you're
+attacking an enemy that has an armor
+
+70
+00:01:32,330 --> 00:01:32,340
+attacking an enemy that has an armor
+ 
+
+71
+00:01:32,340 --> 00:01:36,050
+attacking an enemy that has an armor
+class of 24 roll a 19 on the die and
+
+72
+00:01:36,050 --> 00:01:36,060
+class of 24 roll a 19 on the die and
+ 
+
+73
+00:01:36,060 --> 00:01:38,870
+class of 24 roll a 19 on the die and
+have an attack bonus of plus 15 the
+
+74
+00:01:38,870 --> 00:01:38,880
+have an attack bonus of plus 15 the
+ 
+
+75
+00:01:38,880 --> 00:01:42,170
+have an attack bonus of plus 15 the
+total for that check is 34 which is 10
+
+76
+00:01:42,170 --> 00:01:42,180
+total for that check is 34 which is 10
+ 
+
+77
+00:01:42,180 --> 00:01:45,050
+total for that check is 34 which is 10
+higher than the target DC and therefore
+
+78
+00:01:45,050 --> 00:01:45,060
+higher than the target DC and therefore
+ 
+
+79
+00:01:45,060 --> 00:01:48,289
+higher than the target DC and therefore
+the result is a critical success as
+
+80
+00:01:48,289 --> 00:01:48,299
+the result is a critical success as
+ 
+
+81
+00:01:48,299 --> 00:01:50,149
+the result is a critical success as
+another example let's say the party
+
+82
+00:01:50,149 --> 00:01:50,159
+another example let's say the party
+ 
+
+83
+00:01:50,159 --> 00:01:52,310
+another example let's say the party
+wizard is making an untrained Athletics
+
+84
+00:01:52,310 --> 00:01:52,320
+wizard is making an untrained Athletics
+ 
+
+85
+00:01:52,320 --> 00:01:55,609
+wizard is making an untrained Athletics
+check they have a modifier of plus 0 and
+
+86
+00:01:55,609 --> 00:01:55,619
+check they have a modifier of plus 0 and
+ 
+
+87
+00:01:55,619 --> 00:01:58,730
+check they have a modifier of plus 0 and
+the DC for the check is 16. they roll a
+
+88
+00:01:58,730 --> 00:01:58,740
+the DC for the check is 16. they roll a
+ 
+
+89
+00:01:58,740 --> 00:02:01,310
+the DC for the check is 16. they roll a
+4 and the nine plus zero so it's also a
+
+90
+00:02:01,310 --> 00:02:01,320
+4 and the nine plus zero so it's also a
+ 
+
+91
+00:02:01,320 --> 00:02:04,310
+4 and the nine plus zero so it's also a
+total of four which is more than 10
+
+92
+00:02:04,310 --> 00:02:04,320
+total of four which is more than 10
+ 
+
+93
+00:02:04,320 --> 00:02:07,310
+total of four which is more than 10
+lower than the DC so they critically
+
+94
+00:02:07,310 --> 00:02:07,320
+lower than the DC so they critically
+ 
+
+95
+00:02:07,320 --> 00:02:09,949
+lower than the DC so they critically
+failed this check as you can see in
+
+96
+00:02:09,949 --> 00:02:09,959
+failed this check as you can see in
+ 
+
+97
+00:02:09,959 --> 00:02:12,050
+failed this check as you can see in
+Pathfinder second edition there are more
+
+98
+00:02:12,050 --> 00:02:12,060
+Pathfinder second edition there are more
+ 
+
+99
+00:02:12,060 --> 00:02:14,270
+Pathfinder second edition there are more
+ways to score a critical success or a
+
+100
+00:02:14,270 --> 00:02:14,280
+ways to score a critical success or a
+ 
+
+101
+00:02:14,280 --> 00:02:16,490
+ways to score a critical success or a
+critical failure than rolling a natural
+
+102
+00:02:16,490 --> 00:02:16,500
+critical failure than rolling a natural
+ 
+
+103
+00:02:16,500 --> 00:02:19,910
+critical failure than rolling a natural
+20 or a natural one
+
+104
+00:02:19,910 --> 00:02:19,920
+20 or a natural one
+ 
+
+105
+00:02:19,920 --> 00:02:22,250
+20 or a natural one
+as mentioned before there are four
+
+106
+00:02:22,250 --> 00:02:22,260
+as mentioned before there are four
+ 
+
+107
+00:02:22,260 --> 00:02:24,890
+as mentioned before there are four
+degrees of success from best result to
+
+108
+00:02:24,890 --> 00:02:24,900
+degrees of success from best result to
+ 
+
+109
+00:02:24,900 --> 00:02:28,030
+degrees of success from best result to
+worst they are critical success success
+
+110
+00:02:28,030 --> 00:02:28,040
+worst they are critical success success
+ 
+
+111
+00:02:28,040 --> 00:02:30,890
+worst they are critical success success
+failure and critical failure it's
+
+112
+00:02:30,890 --> 00:02:30,900
+failure and critical failure it's
+ 
+
+113
+00:02:30,900 --> 00:02:32,690
+failure and critical failure it's
+important to remember that in Pathfinder
+
+114
+00:02:32,690 --> 00:02:32,700
+important to remember that in Pathfinder
+ 
+
+115
+00:02:32,700 --> 00:02:35,990
+important to remember that in Pathfinder
+a natural 20 is not an automatic success
+
+116
+00:02:35,990 --> 00:02:36,000
+a natural 20 is not an automatic success
+ 
+
+117
+00:02:36,000 --> 00:02:39,410
+a natural 20 is not an automatic success
+or a critical success likewise a natural
+
+118
+00:02:39,410 --> 00:02:39,420
+or a critical success likewise a natural
+ 
+
+119
+00:02:39,420 --> 00:02:42,350
+or a critical success likewise a natural
+one is not always automatically a
+
+120
+00:02:42,350 --> 00:02:42,360
+one is not always automatically a
+ 
+
+121
+00:02:42,360 --> 00:02:45,890
+one is not always automatically a
+critical failure instead a natural 20
+
+122
+00:02:45,890 --> 00:02:45,900
+critical failure instead a natural 20
+ 
+
+123
+00:02:45,900 --> 00:02:48,470
+critical failure instead a natural 20
+means you calculate success as normal
+
+124
+00:02:48,470 --> 00:02:48,480
+means you calculate success as normal
+ 
+
+125
+00:02:48,480 --> 00:02:51,470
+means you calculate success as normal
+and then increase the degree of success
+
+126
+00:02:51,470 --> 00:02:51,480
+and then increase the degree of success
+ 
+
+127
+00:02:51,480 --> 00:02:54,410
+and then increase the degree of success
+by one step in a natural one means you
+
+128
+00:02:54,410 --> 00:02:54,420
+by one step in a natural one means you
+ 
+
+129
+00:02:54,420 --> 00:02:56,690
+by one step in a natural one means you
+calculate success as normal and then
+
+130
+00:02:56,690 --> 00:02:56,700
+calculate success as normal and then
+ 
+
+131
+00:02:56,700 --> 00:02:59,270
+calculate success as normal and then
+decrease its degree of success by one
+
+132
+00:02:59,270 --> 00:02:59,280
+decrease its degree of success by one
+ 
+
+133
+00:02:59,280 --> 00:03:00,050
+decrease its degree of success by one
+step
+
+134
+00:03:00,050 --> 00:03:00,060
+step
+ 
+
+135
+00:03:00,060 --> 00:03:02,089
+step
+for example let's say a player is
+
+136
+00:03:02,089 --> 00:03:02,099
+for example let's say a player is
+ 
+
+137
+00:03:02,099 --> 00:03:04,130
+for example let's say a player is
+attacking an enemy of a significantly
+
+138
+00:03:04,130 --> 00:03:04,140
+attacking an enemy of a significantly
+ 
+
+139
+00:03:04,140 --> 00:03:07,190
+attacking an enemy of a significantly
+higher level they have a plus 8 bonus to
+
+140
+00:03:07,190 --> 00:03:07,200
+higher level they have a plus 8 bonus to
+ 
+
+141
+00:03:07,200 --> 00:03:09,050
+higher level they have a plus 8 bonus to
+attack and their enemy has an armor
+
+142
+00:03:09,050 --> 00:03:09,060
+attack and their enemy has an armor
+ 
+
+143
+00:03:09,060 --> 00:03:12,229
+attack and their enemy has an armor
+class of 30. they're rolling natural 20
+
+144
+00:03:12,229 --> 00:03:12,239
+class of 30. they're rolling natural 20
+ 
+
+145
+00:03:12,239 --> 00:03:14,930
+class of 30. they're rolling natural 20
+but that does not mean they scored a
+
+146
+00:03:14,930 --> 00:03:14,940
+but that does not mean they scored a
+ 
+
+147
+00:03:14,940 --> 00:03:17,449
+but that does not mean they scored a
+critical hit instead you need to
+
+148
+00:03:17,449 --> 00:03:17,459
+critical hit instead you need to
+ 
+
+149
+00:03:17,459 --> 00:03:19,910
+critical hit instead you need to
+determine the degree of success as usual
+
+150
+00:03:19,910 --> 00:03:19,920
+determine the degree of success as usual
+ 
+
+151
+00:03:19,920 --> 00:03:23,570
+determine the degree of success as usual
+20 plus 8 is 28 compared to an armor
+
+152
+00:03:23,570 --> 00:03:23,580
+20 plus 8 is 28 compared to an armor
+ 
+
+153
+00:03:23,580 --> 00:03:26,210
+20 plus 8 is 28 compared to an armor
+class of 30 the degree of success is
+
+154
+00:03:26,210 --> 00:03:26,220
+class of 30 the degree of success is
+ 
+
+155
+00:03:26,220 --> 00:03:29,149
+class of 30 the degree of success is
+failure but because they rolled a
+
+156
+00:03:29,149 --> 00:03:29,159
+failure but because they rolled a
+ 
+
+157
+00:03:29,159 --> 00:03:31,850
+failure but because they rolled a
+natural 20 we increased the degree of
+
+158
+00:03:31,850 --> 00:03:31,860
+natural 20 we increased the degree of
+ 
+
+159
+00:03:31,860 --> 00:03:34,130
+natural 20 we increased the degree of
+success by one step which turns this
+
+160
+00:03:34,130 --> 00:03:34,140
+success by one step which turns this
+ 
+
+161
+00:03:34,140 --> 00:03:37,430
+success by one step which turns this
+into a normal success they hit the enemy
+
+162
+00:03:37,430 --> 00:03:37,440
+into a normal success they hit the enemy
+ 
+
+163
+00:03:37,440 --> 00:03:39,890
+into a normal success they hit the enemy
+and deal regular damage and a case like
+
+164
+00:03:39,890 --> 00:03:39,900
+and deal regular damage and a case like
+ 
+
+165
+00:03:39,900 --> 00:03:42,229
+and deal regular damage and a case like
+this is impossible for the player to
+
+166
+00:03:42,229 --> 00:03:42,239
+this is impossible for the player to
+ 
+
+167
+00:03:42,239 --> 00:03:45,229
+this is impossible for the player to
+score a critical hit on the enemy as
+
+168
+00:03:45,229 --> 00:03:45,239
+score a critical hit on the enemy as
+ 
+
+169
+00:03:45,239 --> 00:03:47,630
+score a critical hit on the enemy as
+another example let's say a player is
+
+170
+00:03:47,630 --> 00:03:47,640
+another example let's say a player is
+ 
+
+171
+00:03:47,640 --> 00:03:49,729
+another example let's say a player is
+attacking an enemy of a significantly
+
+172
+00:03:49,729 --> 00:03:49,739
+attacking an enemy of a significantly
+ 
+
+173
+00:03:49,739 --> 00:03:52,970
+attacking an enemy of a significantly
+lower level they have a plus 19 bonus to
+
+174
+00:03:52,970 --> 00:03:52,980
+lower level they have a plus 19 bonus to
+ 
+
+175
+00:03:52,980 --> 00:03:55,009
+lower level they have a plus 19 bonus to
+attack and their target has an armor
+
+176
+00:03:55,009 --> 00:03:55,019
+attack and their target has an armor
+ 
+
+177
+00:03:55,019 --> 00:03:57,830
+attack and their target has an armor
+class of 18. they roll a natural one
+
+178
+00:03:57,830 --> 00:03:57,840
+class of 18. they roll a natural one
+ 
+
+179
+00:03:57,840 --> 00:03:59,990
+class of 18. they roll a natural one
+which does not automatically mean that
+
+180
+00:03:59,990 --> 00:04:00,000
+which does not automatically mean that
+ 
+
+181
+00:04:00,000 --> 00:04:02,869
+which does not automatically mean that
+they critically fail instead we need to
+
+182
+00:04:02,869 --> 00:04:02,879
+they critically fail instead we need to
+ 
+
+183
+00:04:02,879 --> 00:04:05,690
+they critically fail instead we need to
+determine the degree of success so one
+
+184
+00:04:05,690 --> 00:04:05,700
+determine the degree of success so one
+ 
+
+185
+00:04:05,700 --> 00:04:09,130
+determine the degree of success so one
+on the die plus 19 is a total of 20
+
+186
+00:04:09,130 --> 00:04:09,140
+on the die plus 19 is a total of 20
+ 
+
+187
+00:04:09,140 --> 00:04:12,589
+on the die plus 19 is a total of 20
+compared to Armor class 18. now that
+
+188
+00:04:12,589 --> 00:04:12,599
+compared to Armor class 18. now that
+ 
+
+189
+00:04:12,599 --> 00:04:15,649
+compared to Armor class 18. now that
+normally would be a success but we need
+
+190
+00:04:15,649 --> 00:04:15,659
+normally would be a success but we need
+ 
+
+191
+00:04:15,659 --> 00:04:17,990
+normally would be a success but we need
+to lure this degree of success by one
+
+192
+00:04:17,990 --> 00:04:18,000
+to lure this degree of success by one
+ 
+
+193
+00:04:18,000 --> 00:04:20,990
+to lure this degree of success by one
+step due to Rolling a natural 1 which
+
+194
+00:04:20,990 --> 00:04:21,000
+step due to Rolling a natural 1 which
+ 
+
+195
+00:04:21,000 --> 00:04:23,749
+step due to Rolling a natural 1 which
+moves it from a normal success to a
+
+196
+00:04:23,749 --> 00:04:23,759
+moves it from a normal success to a
+ 
+
+197
+00:04:23,759 --> 00:04:26,689
+moves it from a normal success to a
+normal failure and the same applies to
+
+198
+00:04:26,689 --> 00:04:26,699
+normal failure and the same applies to
+ 
+
+199
+00:04:26,699 --> 00:04:28,909
+normal failure and the same applies to
+skills saving throws and any other kind
+
+200
+00:04:28,909 --> 00:04:28,919
+skills saving throws and any other kind
+ 
+
+201
+00:04:28,919 --> 00:04:31,790
+skills saving throws and any other kind
+of check but the keys to remember are
+
+202
+00:04:31,790 --> 00:04:31,800
+of check but the keys to remember are
+ 
+
+203
+00:04:31,800 --> 00:04:34,370
+of check but the keys to remember are
+that natural 20s and natural ones do not
+
+204
+00:04:34,370 --> 00:04:34,380
+that natural 20s and natural ones do not
+ 
+
+205
+00:04:34,380 --> 00:04:36,650
+that natural 20s and natural ones do not
+automatically Grant critical successes
+
+206
+00:04:36,650 --> 00:04:36,660
+automatically Grant critical successes
+ 
+
+207
+00:04:36,660 --> 00:04:39,530
+automatically Grant critical successes
+or critical failures but instead move
+
+208
+00:04:39,530 --> 00:04:39,540
+or critical failures but instead move
+ 
+
+209
+00:04:39,540 --> 00:04:42,530
+or critical failures but instead move
+the degree of success by one step and in
+
+210
+00:04:42,530 --> 00:04:42,540
+the degree of success by one step and in
+ 
+
+211
+00:04:42,540 --> 00:04:45,650
+the degree of success by one step and in
+most cases a natural 20 will result in a
+
+212
+00:04:45,650 --> 00:04:45,660
+most cases a natural 20 will result in a
+ 
+
+213
+00:04:45,660 --> 00:04:48,290
+most cases a natural 20 will result in a
+critical success and a natural one will
+
+214
+00:04:48,290 --> 00:04:48,300
+critical success and a natural one will
+ 
+
+215
+00:04:48,300 --> 00:04:50,629
+critical success and a natural one will
+result in a critical failure but those
+
+216
+00:04:50,629 --> 00:04:50,639
+result in a critical failure but those
+ 
+
+217
+00:04:50,639 --> 00:04:53,930
+result in a critical failure but those
+are not guaranteed results this only
+
+218
+00:04:53,930 --> 00:04:53,940
+are not guaranteed results this only
+ 
+
+219
+00:04:53,940 --> 00:04:56,150
+are not guaranteed results this only
+really becomes an issue when there is a
+
+220
+00:04:56,150 --> 00:04:56,160
+really becomes an issue when there is a
+ 
+
+221
+00:04:56,160 --> 00:04:57,890
+really becomes an issue when there is a
+great disparity between the character
+
+222
+00:04:57,890 --> 00:04:57,900
+great disparity between the character
+ 
+
+223
+00:04:57,900 --> 00:05:00,350
+great disparity between the character
+making the role in the DC and the times
+
+224
+00:05:00,350 --> 00:05:00,360
+making the role in the DC and the times
+ 
+
+225
+00:05:00,360 --> 00:05:02,390
+making the role in the DC and the times
+where you'll most likely see this is
+
+226
+00:05:02,390 --> 00:05:02,400
+where you'll most likely see this is
+ 
+
+227
+00:05:02,400 --> 00:05:04,310
+where you'll most likely see this is
+when untrained characters attempt a
+
+228
+00:05:04,310 --> 00:05:04,320
+when untrained characters attempt a
+ 
+
+229
+00:05:04,320 --> 00:05:06,290
+when untrained characters attempt a
+skill check or when lower level
+
+230
+00:05:06,290 --> 00:05:06,300
+skill check or when lower level
+ 
+
+231
+00:05:06,300 --> 00:05:08,030
+skill check or when lower level
+characters decide to attack a monster
+
+232
+00:05:08,030 --> 00:05:08,040
+characters decide to attack a monster
+ 
+
+233
+00:05:08,040 --> 00:05:10,370
+characters decide to attack a monster
+they really should have left alone but
+
+234
+00:05:10,370 --> 00:05:10,380
+they really should have left alone but
+ 
+
+235
+00:05:10,380 --> 00:05:12,230
+they really should have left alone but
+as long as the players rolling these
+
+236
+00:05:12,230 --> 00:05:12,240
+as long as the players rolling these
+ 
+
+237
+00:05:12,240 --> 00:05:14,210
+as long as the players rolling these
+checks are near to the level of the
+
+238
+00:05:14,210 --> 00:05:14,220
+checks are near to the level of the
+ 
+
+239
+00:05:14,220 --> 00:05:16,490
+checks are near to the level of the
+creature they're attacking 20s will most
+
+240
+00:05:16,490 --> 00:05:16,500
+creature they're attacking 20s will most
+ 
+
+241
+00:05:16,500 --> 00:05:18,710
+creature they're attacking 20s will most
+likely be critical hits and ones will
+
+242
+00:05:18,710 --> 00:05:18,720
+likely be critical hits and ones will
+ 
+
+243
+00:05:18,720 --> 00:05:21,710
+likely be critical hits and ones will
+most likely be critical failures
+
+244
+00:05:21,710 --> 00:05:21,720
+most likely be critical failures
+ 
+
+245
+00:05:21,720 --> 00:05:23,810
+most likely be critical failures
+so now that we know how to calculate
+
+246
+00:05:23,810 --> 00:05:23,820
+so now that we know how to calculate
+ 
+
+247
+00:05:23,820 --> 00:05:25,790
+so now that we know how to calculate
+degrees of success let's talk about
+
+248
+00:05:25,790 --> 00:05:25,800
+degrees of success let's talk about
+ 
+
+249
+00:05:25,800 --> 00:05:29,450
+degrees of success let's talk about
+results each action skill ability and
+
+250
+00:05:29,450 --> 00:05:29,460
+results each action skill ability and
+ 
+
+251
+00:05:29,460 --> 00:05:31,189
+results each action skill ability and
+the like includes a formatted
+
+252
+00:05:31,189 --> 00:05:31,199
+the like includes a formatted
+ 
+
+253
+00:05:31,199 --> 00:05:32,990
+the like includes a formatted
+description that spells out in black and
+
+254
+00:05:32,990 --> 00:05:33,000
+description that spells out in black and
+ 
+
+255
+00:05:33,000 --> 00:05:35,270
+description that spells out in black and
+white what happens for each degree of
+
+256
+00:05:35,270 --> 00:05:35,280
+white what happens for each degree of
+ 
+
+257
+00:05:35,280 --> 00:05:37,850
+white what happens for each degree of
+success for example if we look at the
+
+258
+00:05:37,850 --> 00:05:37,860
+success for example if we look at the
+ 
+
+259
+00:05:37,860 --> 00:05:39,950
+success for example if we look at the
+balance application of the acrobatic
+
+260
+00:05:39,950 --> 00:05:39,960
+balance application of the acrobatic
+ 
+
+261
+00:05:39,960 --> 00:05:42,770
+balance application of the acrobatic
+skill we see the four degrees of success
+
+262
+00:05:42,770 --> 00:05:42,780
+skill we see the four degrees of success
+ 
+
+263
+00:05:42,780 --> 00:05:45,650
+skill we see the four degrees of success
+spelled out on a critical success you're
+
+264
+00:05:45,650 --> 00:05:45,660
+spelled out on a critical success you're
+ 
+
+265
+00:05:45,660 --> 00:05:47,450
+spelled out on a critical success you're
+not affected by the narrow surface
+
+266
+00:05:47,450 --> 00:05:47,460
+not affected by the narrow surface
+ 
+
+267
+00:05:47,460 --> 00:05:49,670
+not affected by the narrow surface
+you're on and move up to your full speed
+
+268
+00:05:49,670 --> 00:05:49,680
+you're on and move up to your full speed
+ 
+
+269
+00:05:49,680 --> 00:05:52,670
+you're on and move up to your full speed
+on a regular success you can move up to
+
+270
+00:05:52,670 --> 00:05:52,680
+on a regular success you can move up to
+ 
+
+271
+00:05:52,680 --> 00:05:54,590
+on a regular success you can move up to
+your full speed but you treat it as if
+
+272
+00:05:54,590 --> 00:05:54,600
+your full speed but you treat it as if
+ 
+
+273
+00:05:54,600 --> 00:05:57,409
+your full speed but you treat it as if
+moving through difficult Terrain on a
+
+274
+00:05:57,409 --> 00:05:57,419
+moving through difficult Terrain on a
+ 
+
+275
+00:05:57,419 --> 00:05:59,570
+moving through difficult Terrain on a
+regular failure you make new progress
+
+276
+00:05:59,570 --> 00:05:59,580
+regular failure you make new progress
+ 
+
+277
+00:05:59,580 --> 00:06:02,210
+regular failure you make new progress
+and your action is lost and on a
+
+278
+00:06:02,210 --> 00:06:02,220
+and your action is lost and on a
+ 
+
+279
+00:06:02,220 --> 00:06:05,570
+and your action is lost and on a
+critical failure you fall so this tells
+
+280
+00:06:05,570 --> 00:06:05,580
+critical failure you fall so this tells
+ 
+
+281
+00:06:05,580 --> 00:06:07,790
+critical failure you fall so this tells
+you what happens for all degrees of
+
+282
+00:06:07,790 --> 00:06:07,800
+you what happens for all degrees of
+ 
+
+283
+00:06:07,800 --> 00:06:10,550
+you what happens for all degrees of
+success but some actions don't give you
+
+284
+00:06:10,550 --> 00:06:10,560
+success but some actions don't give you
+ 
+
+285
+00:06:10,560 --> 00:06:13,610
+success but some actions don't give you
+all four in those cases the missing
+
+286
+00:06:13,610 --> 00:06:13,620
+all four in those cases the missing
+ 
+
+287
+00:06:13,620 --> 00:06:15,350
+all four in those cases the missing
+degrees of success are still possible
+
+288
+00:06:15,350 --> 00:06:15,360
+degrees of success are still possible
+ 
+
+289
+00:06:15,360 --> 00:06:18,290
+degrees of success are still possible
+but nothing occurs when you roll one for
+
+290
+00:06:18,290 --> 00:06:18,300
+but nothing occurs when you roll one for
+ 
+
+291
+00:06:18,300 --> 00:06:20,629
+but nothing occurs when you roll one for
+example strike which is the main way of
+
+292
+00:06:20,629 --> 00:06:20,639
+example strike which is the main way of
+ 
+
+293
+00:06:20,639 --> 00:06:23,029
+example strike which is the main way of
+attacking a Pathfinder only tells you
+
+294
+00:06:23,029 --> 00:06:23,039
+attacking a Pathfinder only tells you
+ 
+
+295
+00:06:23,039 --> 00:06:25,550
+attacking a Pathfinder only tells you
+what happens on a critical success and
+
+296
+00:06:25,550 --> 00:06:25,560
+what happens on a critical success and
+ 
+
+297
+00:06:25,560 --> 00:06:28,070
+what happens on a critical success and
+on a normal success this doesn't mean
+
+298
+00:06:28,070 --> 00:06:28,080
+on a normal success this doesn't mean
+ 
+
+299
+00:06:28,080 --> 00:06:29,990
+on a normal success this doesn't mean
+that it is impossible to fail or
+
+300
+00:06:29,990 --> 00:06:30,000
+that it is impossible to fail or
+ 
+
+301
+00:06:30,000 --> 00:06:32,150
+that it is impossible to fail or
+critically fail when you're attacking it
+
+302
+00:06:32,150 --> 00:06:32,160
+critically fail when you're attacking it
+ 
+
+303
+00:06:32,160 --> 00:06:34,850
+critically fail when you're attacking it
+just means that the action is lost with
+
+304
+00:06:34,850 --> 00:06:34,860
+just means that the action is lost with
+ 
+
+305
+00:06:34,860 --> 00:06:37,790
+just means that the action is lost with
+nothing happening as a result on a
+
+306
+00:06:37,790 --> 00:06:37,800
+nothing happening as a result on a
+ 
+
+307
+00:06:37,800 --> 00:06:39,350
+nothing happening as a result on a
+normal success the attack deals is
+
+308
+00:06:39,350 --> 00:06:39,360
+normal success the attack deals is
+ 
+
+309
+00:06:39,360 --> 00:06:41,390
+normal success the attack deals is
+expected damage and on a critical
+
+310
+00:06:41,390 --> 00:06:41,400
+expected damage and on a critical
+ 
+
+311
+00:06:41,400 --> 00:06:44,150
+expected damage and on a critical
+success the strike deals double damage
+
+312
+00:06:44,150 --> 00:06:44,160
+success the strike deals double damage
+ 
+
+313
+00:06:44,160 --> 00:06:46,790
+success the strike deals double damage
+which means this is a great time for us
+
+314
+00:06:46,790 --> 00:06:46,800
+which means this is a great time for us
+ 
+
+315
+00:06:46,800 --> 00:06:49,249
+which means this is a great time for us
+to go over how critical hits in double
+
+316
+00:06:49,249 --> 00:06:49,259
+to go over how critical hits in double
+ 
+
+317
+00:06:49,259 --> 00:06:51,770
+to go over how critical hits in double
+damage works
+
+318
+00:06:51,770 --> 00:06:51,780
+damage works
+ 
+
+319
+00:06:51,780 --> 00:06:54,409
+damage works
+when an attack scores a critical hit it
+
+320
+00:06:54,409 --> 00:06:54,419
+when an attack scores a critical hit it
+ 
+
+321
+00:06:54,419 --> 00:06:57,110
+when an attack scores a critical hit it
+deals double the normal damage what this
+
+322
+00:06:57,110 --> 00:06:57,120
+deals double the normal damage what this
+ 
+
+323
+00:06:57,120 --> 00:07:00,170
+deals double the normal damage what this
+means is all damage that would occur for
+
+324
+00:07:00,170 --> 00:07:00,180
+means is all damage that would occur for
+ 
+
+325
+00:07:00,180 --> 00:07:02,930
+means is all damage that would occur for
+a regular success is doubled and any
+
+326
+00:07:02,930 --> 00:07:02,940
+a regular success is doubled and any
+ 
+
+327
+00:07:02,940 --> 00:07:05,689
+a regular success is doubled and any
+damage that only occurs in the event of
+
+328
+00:07:05,689 --> 00:07:05,699
+damage that only occurs in the event of
+ 
+
+329
+00:07:05,699 --> 00:07:08,870
+damage that only occurs in the event of
+a critical hit is not doubled let's take
+
+330
+00:07:08,870 --> 00:07:08,880
+a critical hit is not doubled let's take
+ 
+
+331
+00:07:08,880 --> 00:07:10,610
+a critical hit is not doubled let's take
+a look at a few examples to help
+
+332
+00:07:10,610 --> 00:07:10,620
+a look at a few examples to help
+ 
+
+333
+00:07:10,620 --> 00:07:11,930
+a look at a few examples to help
+illustrate this
+
+334
+00:07:11,930 --> 00:07:11,940
+illustrate this
+ 
+
+335
+00:07:11,940 --> 00:07:14,689
+illustrate this
+in our first example a fighter scores a
+
+336
+00:07:14,689 --> 00:07:14,699
+in our first example a fighter scores a
+ 
+
+337
+00:07:14,699 --> 00:07:17,090
+in our first example a fighter scores a
+critical hit with their long sword this
+
+338
+00:07:17,090 --> 00:07:17,100
+critical hit with their long sword this
+ 
+
+339
+00:07:17,100 --> 00:07:19,610
+critical hit with their long sword this
+attack normally deals 1d8 damage for the
+
+340
+00:07:19,610 --> 00:07:19,620
+attack normally deals 1d8 damage for the
+ 
+
+341
+00:07:19,620 --> 00:07:21,710
+attack normally deals 1d8 damage for the
+sword plus three for their strength
+
+342
+00:07:21,710 --> 00:07:21,720
+sword plus three for their strength
+ 
+
+343
+00:07:21,720 --> 00:07:22,730
+sword plus three for their strength
+modifier
+
+344
+00:07:22,730 --> 00:07:22,740
+modifier
+ 
+
+345
+00:07:22,740 --> 00:07:25,670
+modifier
+since all of this damage normally occurs
+
+346
+00:07:25,670 --> 00:07:25,680
+since all of this damage normally occurs
+ 
+
+347
+00:07:25,680 --> 00:07:28,189
+since all of this damage normally occurs
+on a regular hit you roll it as normal
+
+348
+00:07:28,189 --> 00:07:28,199
+on a regular hit you roll it as normal
+ 
+
+349
+00:07:28,199 --> 00:07:31,309
+on a regular hit you roll it as normal
+and then double it so if this finder
+
+350
+00:07:31,309 --> 00:07:31,319
+and then double it so if this finder
+ 
+
+351
+00:07:31,319 --> 00:07:34,129
+and then double it so if this finder
+rolled A3 on the d8 you would add the
+
+352
+00:07:34,129 --> 00:07:34,139
+rolled A3 on the d8 you would add the
+ 
+
+353
+00:07:34,139 --> 00:07:36,290
+rolled A3 on the d8 you would add the
+strength modifier a plus three for a
+
+354
+00:07:36,290 --> 00:07:36,300
+strength modifier a plus three for a
+ 
+
+355
+00:07:36,300 --> 00:07:38,749
+strength modifier a plus three for a
+total of six and then double that to
+
+356
+00:07:38,749 --> 00:07:38,759
+total of six and then double that to
+ 
+
+357
+00:07:38,759 --> 00:07:42,409
+total of six and then double that to
+find the total of 12 damage and yes this
+
+358
+00:07:42,409 --> 00:07:42,419
+find the total of 12 damage and yes this
+ 
+
+359
+00:07:42,419 --> 00:07:44,930
+find the total of 12 damage and yes this
+does mean that static bonuses like the
+
+360
+00:07:44,930 --> 00:07:44,940
+does mean that static bonuses like the
+ 
+
+361
+00:07:44,940 --> 00:07:47,510
+does mean that static bonuses like the
+strength modifier do get doubled in
+
+362
+00:07:47,510 --> 00:07:47,520
+strength modifier do get doubled in
+ 
+
+363
+00:07:47,520 --> 00:07:49,309
+strength modifier do get doubled in
+Pathfinder which is a little bit
+
+364
+00:07:49,309 --> 00:07:49,319
+Pathfinder which is a little bit
+ 
+
+365
+00:07:49,319 --> 00:07:50,809
+Pathfinder which is a little bit
+different than some other D20
+
+366
+00:07:50,809 --> 00:07:50,819
+different than some other D20
+ 
+
+367
+00:07:50,819 --> 00:07:52,850
+different than some other D20
+role-playing games out there
+
+368
+00:07:52,850 --> 00:07:52,860
+role-playing games out there
+ 
+
+369
+00:07:52,860 --> 00:07:55,790
+role-playing games out there
+in our second example a rogue scores a
+
+370
+00:07:55,790 --> 00:07:55,800
+in our second example a rogue scores a
+ 
+
+371
+00:07:55,800 --> 00:07:58,249
+in our second example a rogue scores a
+critical hit with their dagger this
+
+372
+00:07:58,249 --> 00:07:58,259
+critical hit with their dagger this
+ 
+
+373
+00:07:58,259 --> 00:08:00,950
+critical hit with their dagger this
+attack deals 1d4 damage for the dagger
+
+374
+00:08:00,950 --> 00:08:00,960
+attack deals 1d4 damage for the dagger
+ 
+
+375
+00:08:00,960 --> 00:08:03,290
+attack deals 1d4 damage for the dagger
+plus two for their strength modifier
+
+376
+00:08:03,290 --> 00:08:03,300
+plus two for their strength modifier
+ 
+
+377
+00:08:03,300 --> 00:08:07,550
+plus two for their strength modifier
+plus another 1d6 damage for sneak attack
+
+378
+00:08:07,550 --> 00:08:07,560
+plus another 1d6 damage for sneak attack
+ 
+
+379
+00:08:07,560 --> 00:08:10,790
+plus another 1d6 damage for sneak attack
+they roll A3 for the weapon damage plus
+
+380
+00:08:10,790 --> 00:08:10,800
+they roll A3 for the weapon damage plus
+ 
+
+381
+00:08:10,800 --> 00:08:13,670
+they roll A3 for the weapon damage plus
+two for their strength and 5 Points from
+
+382
+00:08:13,670 --> 00:08:13,680
+two for their strength and 5 Points from
+ 
+
+383
+00:08:13,680 --> 00:08:14,870
+two for their strength and 5 Points from
+the sneak attack
+
+384
+00:08:14,870 --> 00:08:14,880
+the sneak attack
+ 
+
+385
+00:08:14,880 --> 00:08:17,749
+the sneak attack
+now you need to determine how much of
+
+386
+00:08:17,749 --> 00:08:17,759
+now you need to determine how much of
+ 
+
+387
+00:08:17,759 --> 00:08:19,969
+now you need to determine how much of
+this is doubled because of the critical
+
+388
+00:08:19,969 --> 00:08:19,979
+this is doubled because of the critical
+ 
+
+389
+00:08:19,979 --> 00:08:20,869
+this is doubled because of the critical
+hit
+
+390
+00:08:20,869 --> 00:08:20,879
+hit
+ 
+
+391
+00:08:20,879 --> 00:08:22,610
+hit
+we know the weapon damage and the
+
+392
+00:08:22,610 --> 00:08:22,620
+we know the weapon damage and the
+ 
+
+393
+00:08:22,620 --> 00:08:24,589
+we know the weapon damage and the
+strength modifier get doubled but what
+
+394
+00:08:24,589 --> 00:08:24,599
+strength modifier get doubled but what
+ 
+
+395
+00:08:24,599 --> 00:08:26,570
+strength modifier get doubled but what
+about the sneak attack damage does that
+
+396
+00:08:26,570 --> 00:08:26,580
+about the sneak attack damage does that
+ 
+
+397
+00:08:26,580 --> 00:08:29,629
+about the sneak attack damage does that
+get doubled well ask yourself would this
+
+398
+00:08:29,629 --> 00:08:29,639
+get doubled well ask yourself would this
+ 
+
+399
+00:08:29,639 --> 00:08:32,269
+get doubled well ask yourself would this
+sneak attack damage count on a regular
+
+400
+00:08:32,269 --> 00:08:32,279
+sneak attack damage count on a regular
+ 
+
+401
+00:08:32,279 --> 00:08:33,290
+sneak attack damage count on a regular
+hit
+
+402
+00:08:33,290 --> 00:08:33,300
+hit
+ 
+
+403
+00:08:33,300 --> 00:08:36,469
+hit
+the answer is yes it would so that
+
+404
+00:08:36,469 --> 00:08:36,479
+the answer is yes it would so that
+ 
+
+405
+00:08:36,479 --> 00:08:38,930
+the answer is yes it would so that
+damage does get doubled for a final
+
+406
+00:08:38,930 --> 00:08:38,940
+damage does get doubled for a final
+ 
+
+407
+00:08:38,940 --> 00:08:41,930
+damage does get doubled for a final
+total of 20 points of damage
+
+408
+00:08:41,930 --> 00:08:41,940
+total of 20 points of damage
+ 
+
+409
+00:08:41,940 --> 00:08:44,810
+total of 20 points of damage
+in our third example a raging Barbarian
+
+410
+00:08:44,810 --> 00:08:44,820
+in our third example a raging Barbarian
+ 
+
+411
+00:08:44,820 --> 00:08:47,269
+in our third example a raging Barbarian
+scores a critical hit with their glaive
+
+412
+00:08:47,269 --> 00:08:47,279
+scores a critical hit with their glaive
+ 
+
+413
+00:08:47,279 --> 00:08:50,509
+scores a critical hit with their glaive
+the damage is 1d8 for the glieve plus
+
+414
+00:08:50,509 --> 00:08:50,519
+the damage is 1d8 for the glieve plus
+ 
+
+415
+00:08:50,519 --> 00:08:53,090
+the damage is 1d8 for the glieve plus
+four for their strength modifier plus
+
+416
+00:08:53,090 --> 00:08:53,100
+four for their strength modifier plus
+ 
+
+417
+00:08:53,100 --> 00:08:56,810
+four for their strength modifier plus
+two for Raging and another 1d8 because
+
+418
+00:08:56,810 --> 00:08:56,820
+two for Raging and another 1d8 because
+ 
+
+419
+00:08:56,820 --> 00:09:00,590
+two for Raging and another 1d8 because
+glaves have the deadly d8 trait the
+
+420
+00:09:00,590 --> 00:09:00,600
+glaves have the deadly d8 trait the
+ 
+
+421
+00:09:00,600 --> 00:09:02,870
+glaves have the deadly d8 trait the
+deadly trait says that an extra amount
+
+422
+00:09:02,870 --> 00:09:02,880
+deadly trait says that an extra amount
+ 
+
+423
+00:09:02,880 --> 00:09:04,970
+deadly trait says that an extra amount
+of damage is provided on critical hits
+
+424
+00:09:04,970 --> 00:09:04,980
+of damage is provided on critical hits
+ 
+
+425
+00:09:04,980 --> 00:09:08,210
+of damage is provided on critical hits
+they roll a six for the weapon plus four
+
+426
+00:09:08,210 --> 00:09:08,220
+they roll a six for the weapon plus four
+ 
+
+427
+00:09:08,220 --> 00:09:10,850
+they roll a six for the weapon plus four
+for strength plus two for Raging plus
+
+428
+00:09:10,850 --> 00:09:10,860
+for strength plus two for Raging plus
+ 
+
+429
+00:09:10,860 --> 00:09:13,070
+for strength plus two for Raging plus
+four more from the 1d8 they rolled for
+
+430
+00:09:13,070 --> 00:09:13,080
+four more from the 1d8 they rolled for
+ 
+
+431
+00:09:13,080 --> 00:09:15,410
+four more from the 1d8 they rolled for
+the weapon's deadly trait again to
+
+432
+00:09:15,410 --> 00:09:15,420
+the weapon's deadly trait again to
+ 
+
+433
+00:09:15,420 --> 00:09:17,269
+the weapon's deadly trait again to
+determine the amount that is doubled you
+
+434
+00:09:17,269 --> 00:09:17,279
+determine the amount that is doubled you
+ 
+
+435
+00:09:17,279 --> 00:09:19,370
+determine the amount that is doubled you
+just ask yourself how much of this
+
+436
+00:09:19,370 --> 00:09:19,380
+just ask yourself how much of this
+ 
+
+437
+00:09:19,380 --> 00:09:21,430
+just ask yourself how much of this
+damage would be applied on a regular hit
+
+438
+00:09:21,430 --> 00:09:21,440
+damage would be applied on a regular hit
+ 
+
+439
+00:09:21,440 --> 00:09:24,650
+damage would be applied on a regular hit
+well all of this except for the d8 from
+
+440
+00:09:24,650 --> 00:09:24,660
+well all of this except for the d8 from
+ 
+
+441
+00:09:24,660 --> 00:09:27,230
+well all of this except for the d8 from
+the weapons deadly trait would occur on
+
+442
+00:09:27,230 --> 00:09:27,240
+the weapons deadly trait would occur on
+ 
+
+443
+00:09:27,240 --> 00:09:30,470
+the weapons deadly trait would occur on
+a regular success a normal hit so all of
+
+444
+00:09:30,470 --> 00:09:30,480
+a regular success a normal hit so all of
+ 
+
+445
+00:09:30,480 --> 00:09:32,750
+a regular success a normal hit so all of
+that damage is going to be doubled and
+
+446
+00:09:32,750 --> 00:09:32,760
+that damage is going to be doubled and
+ 
+
+447
+00:09:32,760 --> 00:09:34,670
+that damage is going to be doubled and
+the d8 from the deadly trait would only
+
+448
+00:09:34,670 --> 00:09:34,680
+the d8 from the deadly trait would only
+ 
+
+449
+00:09:34,680 --> 00:09:37,790
+the d8 from the deadly trait would only
+apply once therefore you calculate this
+
+450
+00:09:37,790 --> 00:09:37,800
+apply once therefore you calculate this
+ 
+
+451
+00:09:37,800 --> 00:09:41,810
+apply once therefore you calculate this
+as 12 plus 8 plus 4 and then add the
+
+452
+00:09:41,810 --> 00:09:41,820
+as 12 plus 8 plus 4 and then add the
+ 
+
+453
+00:09:41,820 --> 00:09:43,970
+as 12 plus 8 plus 4 and then add the
+four from the deadly trait for a total
+
+454
+00:09:43,970 --> 00:09:43,980
+four from the deadly trait for a total
+ 
+
+455
+00:09:43,980 --> 00:09:47,210
+four from the deadly trait for a total
+of 28. again you would not double the
+
+456
+00:09:47,210 --> 00:09:47,220
+of 28. again you would not double the
+ 
+
+457
+00:09:47,220 --> 00:09:49,910
+of 28. again you would not double the
+four from deadly because deadly does not
+
+458
+00:09:49,910 --> 00:09:49,920
+four from deadly because deadly does not
+ 
+
+459
+00:09:49,920 --> 00:09:52,550
+four from deadly because deadly does not
+occur on regular hits since it is
+
+460
+00:09:52,550 --> 00:09:52,560
+occur on regular hits since it is
+ 
+
+461
+00:09:52,560 --> 00:09:55,190
+occur on regular hits since it is
+triggered by critical hits it is not
+
+462
+00:09:55,190 --> 00:09:55,200
+triggered by critical hits it is not
+ 
+
+463
+00:09:55,200 --> 00:09:57,829
+triggered by critical hits it is not
+doubled and yes this doubling also
+
+464
+00:09:57,829 --> 00:09:57,839
+doubled and yes this doubling also
+ 
+
+465
+00:09:57,839 --> 00:10:00,530
+doubled and yes this doubling also
+applies to persistent damage unless the
+
+466
+00:10:00,530 --> 00:10:00,540
+applies to persistent damage unless the
+ 
+
+467
+00:10:00,540 --> 00:10:03,170
+applies to persistent damage unless the
+effect specifically States otherwise as
+
+468
+00:10:03,170 --> 00:10:03,180
+effect specifically States otherwise as
+ 
+
+469
+00:10:03,180 --> 00:10:05,389
+effect specifically States otherwise as
+is the case with the acid Arrow Spell
+
+470
+00:10:05,389 --> 00:10:05,399
+is the case with the acid Arrow Spell
+ 
+
+471
+00:10:05,399 --> 00:10:08,090
+is the case with the acid Arrow Spell
+absent of such a statement if you attack
+
+472
+00:10:08,090 --> 00:10:08,100
+absent of such a statement if you attack
+ 
+
+473
+00:10:08,100 --> 00:10:10,190
+absent of such a statement if you attack
+with a weapon that applies a bleed or
+
+474
+00:10:10,190 --> 00:10:10,200
+with a weapon that applies a bleed or
+ 
+
+475
+00:10:10,200 --> 00:10:11,990
+with a weapon that applies a bleed or
+other persistent damage and roll a
+
+476
+00:10:11,990 --> 00:10:12,000
+other persistent damage and roll a
+ 
+
+477
+00:10:12,000 --> 00:10:14,630
+other persistent damage and roll a
+critical hit that persistent damage will
+
+478
+00:10:14,630 --> 00:10:14,640
+critical hit that persistent damage will
+ 
+
+479
+00:10:14,640 --> 00:10:16,430
+critical hit that persistent damage will
+be doubled when it is applied to the
+
+480
+00:10:16,430 --> 00:10:16,440
+be doubled when it is applied to the
+ 
+
+481
+00:10:16,440 --> 00:10:19,070
+be doubled when it is applied to the
+Target for every round that it is active
+
+482
+00:10:19,070 --> 00:10:19,080
+Target for every round that it is active
+ 
+
+483
+00:10:19,080 --> 00:10:21,530
+Target for every round that it is active
+see my other videos on persistent damage
+
+484
+00:10:21,530 --> 00:10:21,540
+see my other videos on persistent damage
+ 
+
+485
+00:10:21,540 --> 00:10:24,829
+see my other videos on persistent damage
+for more information about that
+
+486
+00:10:24,829 --> 00:10:24,839
+for more information about that
+ 
+
+487
+00:10:24,839 --> 00:10:26,810
+for more information about that
+there is one less topic I want to cover
+
+488
+00:10:26,810 --> 00:10:26,820
+there is one less topic I want to cover
+ 
+
+489
+00:10:26,820 --> 00:10:28,970
+there is one less topic I want to cover
+in this video and that is how criticals
+
+490
+00:10:28,970 --> 00:10:28,980
+in this video and that is how criticals
+ 
+
+491
+00:10:28,980 --> 00:10:31,850
+in this video and that is how criticals
+affect spells and saving throws this
+
+492
+00:10:31,850 --> 00:10:31,860
+affect spells and saving throws this
+ 
+
+493
+00:10:31,860 --> 00:10:33,769
+affect spells and saving throws this
+works almost identically to what we've
+
+494
+00:10:33,769 --> 00:10:33,779
+works almost identically to what we've
+ 
+
+495
+00:10:33,779 --> 00:10:36,050
+works almost identically to what we've
+already discussed but many damaging
+
+496
+00:10:36,050 --> 00:10:36,060
+already discussed but many damaging
+ 
+
+497
+00:10:36,060 --> 00:10:38,210
+already discussed but many damaging
+spells in the game Do not spell out what
+
+498
+00:10:38,210 --> 00:10:38,220
+spells in the game Do not spell out what
+ 
+
+499
+00:10:38,220 --> 00:10:40,449
+spells in the game Do not spell out what
+happens with the four degrees of success
+
+500
+00:10:40,449 --> 00:10:40,459
+happens with the four degrees of success
+ 
+
+501
+00:10:40,459 --> 00:10:43,730
+happens with the four degrees of success
+for example the fireball spell is very
+
+502
+00:10:43,730 --> 00:10:43,740
+for example the fireball spell is very
+ 
+
+503
+00:10:43,740 --> 00:10:46,190
+for example the fireball spell is very
+concise and does not detail what happens
+
+504
+00:10:46,190 --> 00:10:46,200
+concise and does not detail what happens
+ 
+
+505
+00:10:46,200 --> 00:10:49,069
+concise and does not detail what happens
+on a critical success a success a
+
+506
+00:10:49,069 --> 00:10:49,079
+on a critical success a success a
+ 
+
+507
+00:10:49,079 --> 00:10:51,710
+on a critical success a success a
+failure or a critical failure instead
+
+508
+00:10:51,710 --> 00:10:51,720
+failure or a critical failure instead
+ 
+
+509
+00:10:51,720 --> 00:10:54,069
+failure or a critical failure instead
+the description says saving through
+
+510
+00:10:54,069 --> 00:10:54,079
+the description says saving through
+ 
+
+511
+00:10:54,079 --> 00:10:57,949
+the description says saving through
+basic reflex and the key word here is
+
+512
+00:10:57,949 --> 00:10:57,959
+basic reflex and the key word here is
+ 
+
+513
+00:10:57,959 --> 00:11:01,610
+basic reflex and the key word here is
+basic whenever the book lists a basic
+
+514
+00:11:01,610 --> 00:11:01,620
+basic whenever the book lists a basic
+ 
+
+515
+00:11:01,620 --> 00:11:04,790
+basic whenever the book lists a basic
+saving throw you know it will have these
+
+516
+00:11:04,790 --> 00:11:04,800
+saving throw you know it will have these
+ 
+
+517
+00:11:04,800 --> 00:11:07,970
+saving throw you know it will have these
+four results on a critical success the
+
+518
+00:11:07,970 --> 00:11:07,980
+four results on a critical success the
+ 
+
+519
+00:11:07,980 --> 00:11:10,970
+four results on a critical success the
+target suffers no damage on a regular
+
+520
+00:11:10,970 --> 00:11:10,980
+target suffers no damage on a regular
+ 
+
+521
+00:11:10,980 --> 00:11:13,610
+target suffers no damage on a regular
+success the target suffers half damage
+
+522
+00:11:13,610 --> 00:11:13,620
+success the target suffers half damage
+ 
+
+523
+00:11:13,620 --> 00:11:16,670
+success the target suffers half damage
+on a failure the target suffers full
+
+524
+00:11:16,670 --> 00:11:16,680
+on a failure the target suffers full
+ 
+
+525
+00:11:16,680 --> 00:11:19,490
+on a failure the target suffers full
+damage and on a critical failure the
+
+526
+00:11:19,490 --> 00:11:19,500
+damage and on a critical failure the
+ 
+
+527
+00:11:19,500 --> 00:11:21,530
+damage and on a critical failure the
+target suffers double damage
+
+528
+00:11:21,530 --> 00:11:21,540
+target suffers double damage
+ 
+
+529
+00:11:21,540 --> 00:11:24,470
+target suffers double damage
+so when casting Fireball all Targets
+
+530
+00:11:24,470 --> 00:11:24,480
+so when casting Fireball all Targets
+ 
+
+531
+00:11:24,480 --> 00:11:27,170
+so when casting Fireball all Targets
+within the area of effect must roll a
+
+532
+00:11:27,170 --> 00:11:27,180
+within the area of effect must roll a
+ 
+
+533
+00:11:27,180 --> 00:11:29,990
+within the area of effect must roll a
+basic reflex save those who critically
+
+534
+00:11:29,990 --> 00:11:30,000
+basic reflex save those who critically
+ 
+
+535
+00:11:30,000 --> 00:11:33,290
+basic reflex save those who critically
+succeed take no damage those who succeed
+
+536
+00:11:33,290 --> 00:11:33,300
+succeed take no damage those who succeed
+ 
+
+537
+00:11:33,300 --> 00:11:35,990
+succeed take no damage those who succeed
+but not critically succeed take half the
+
+538
+00:11:35,990 --> 00:11:36,000
+but not critically succeed take half the
+ 
+
+539
+00:11:36,000 --> 00:11:39,350
+but not critically succeed take half the
+listed 66 damage those who feel the save
+
+540
+00:11:39,350 --> 00:11:39,360
+listed 66 damage those who feel the save
+ 
+
+541
+00:11:39,360 --> 00:11:43,069
+listed 66 damage those who feel the save
+suffer the full listed 66 damage and
+
+542
+00:11:43,069 --> 00:11:43,079
+suffer the full listed 66 damage and
+ 
+
+543
+00:11:43,079 --> 00:11:45,590
+suffer the full listed 66 damage and
+those who critically fail suffer double
+
+544
+00:11:45,590 --> 00:11:45,600
+those who critically fail suffer double
+ 
+
+545
+00:11:45,600 --> 00:11:49,910
+those who critically fail suffer double
+66 damage since these same four results
+
+546
+00:11:49,910 --> 00:11:49,920
+66 damage since these same four results
+ 
+
+547
+00:11:49,920 --> 00:11:52,310
+66 damage since these same four results
+apply to the vast majority of damaging
+
+548
+00:11:52,310 --> 00:11:52,320
+apply to the vast majority of damaging
+ 
+
+549
+00:11:52,320 --> 00:11:53,870
+apply to the vast majority of damaging
+spells that call for saving through
+
+550
+00:11:53,870 --> 00:11:53,880
+spells that call for saving through
+ 
+
+551
+00:11:53,880 --> 00:11:56,509
+spells that call for saving through
+paizo was able to save a lot of text and
+
+552
+00:11:56,509 --> 00:11:56,519
+paizo was able to save a lot of text and
+ 
+
+553
+00:11:56,519 --> 00:11:58,790
+paizo was able to save a lot of text and
+Page Space by listing them this way
+
+554
+00:11:58,790 --> 00:11:58,800
+Page Space by listing them this way
+ 
+
+555
+00:11:58,800 --> 00:12:01,190
+Page Space by listing them this way
+instead of reprinting the same four
+
+556
+00:12:01,190 --> 00:12:01,200
+instead of reprinting the same four
+ 
+
+557
+00:12:01,200 --> 00:12:04,970
+instead of reprinting the same four
+results over and over and over again
+
+558
+00:12:04,970 --> 00:12:04,980
+results over and over and over again
+ 
+
+559
+00:12:04,980 --> 00:12:07,009
+results over and over and over again
+so that's it for an overview of
+
+560
+00:12:07,009 --> 00:12:07,019
+so that's it for an overview of
+ 
+
+561
+00:12:07,019 --> 00:12:08,990
+so that's it for an overview of
+criticals and the four degrees of
+
+562
+00:12:08,990 --> 00:12:09,000
+criticals and the four degrees of
+ 
+
+563
+00:12:09,000 --> 00:12:10,730
+criticals and the four degrees of
+success if you want to take your
+
+564
+00:12:10,730 --> 00:12:10,740
+success if you want to take your
+ 
+
+565
+00:12:10,740 --> 00:12:12,650
+success if you want to take your
+Critical Hits and failures up another
+
+566
+00:12:12,650 --> 00:12:12,660
+Critical Hits and failures up another
+ 
+
+567
+00:12:12,660 --> 00:12:15,170
+Critical Hits and failures up another
+level you can purchase special critical
+
+568
+00:12:15,170 --> 00:12:15,180
+level you can purchase special critical
+ 
+
+569
+00:12:15,180 --> 00:12:17,690
+level you can purchase special critical
+hit and critical fumble decks from paizo
+
+570
+00:12:17,690 --> 00:12:17,700
+hit and critical fumble decks from paizo
+ 
+
+571
+00:12:17,700 --> 00:12:20,329
+hit and critical fumble decks from paizo
+I won't go into all of the rules using
+
+572
+00:12:20,329 --> 00:12:20,339
+I won't go into all of the rules using
+ 
+
+573
+00:12:20,339 --> 00:12:22,790
+I won't go into all of the rules using
+these optional accessories here but each
+
+574
+00:12:22,790 --> 00:12:22,800
+these optional accessories here but each
+ 
+
+575
+00:12:22,800 --> 00:12:24,829
+these optional accessories here but each
+card provides new results for critical
+
+576
+00:12:24,829 --> 00:12:24,839
+card provides new results for critical
+ 
+
+577
+00:12:24,839 --> 00:12:27,470
+card provides new results for critical
+hits like blinding your enemy or for
+
+578
+00:12:27,470 --> 00:12:27,480
+hits like blinding your enemy or for
+ 
+
+579
+00:12:27,480 --> 00:12:29,389
+hits like blinding your enemy or for
+critical failures or fumbles like
+
+580
+00:12:29,389 --> 00:12:29,399
+critical failures or fumbles like
+ 
+
+581
+00:12:29,399 --> 00:12:31,190
+critical failures or fumbles like
+accidentally tossing your weapon into
+
+582
+00:12:31,190 --> 00:12:31,200
+accidentally tossing your weapon into
+ 
+
+583
+00:12:31,200 --> 00:12:33,230
+accidentally tossing your weapon into
+another square if you have any questions
+
+584
+00:12:33,230 --> 00:12:33,240
+another square if you have any questions
+ 
+
+585
+00:12:33,240 --> 00:12:35,269
+another square if you have any questions
+please leave them in the comments I'll
+
+586
+00:12:35,269 --> 00:12:35,279
+please leave them in the comments I'll
+ 
+
+587
+00:12:35,279 --> 00:12:37,009
+please leave them in the comments I'll
+leave links to all of my other videos
+
+588
+00:12:37,009 --> 00:12:37,019
+leave links to all of my other videos
+ 
+
+589
+00:12:37,019 --> 00:12:38,750
+leave links to all of my other videos
+that touch on this topic in the
+
+590
+00:12:38,750 --> 00:12:38,760
+that touch on this topic in the
+ 
+
+591
+00:12:38,760 --> 00:12:41,090
+that touch on this topic in the
+description and as always I want to take
+
+592
+00:12:41,090 --> 00:12:41,100
+description and as always I want to take
+ 
+
+593
+00:12:41,100 --> 00:12:43,069
+description and as always I want to take
+a brief moment to thank everybody who
+
+594
+00:12:43,069 --> 00:12:43,079
+a brief moment to thank everybody who
+ 
+
+595
+00:12:43,079 --> 00:12:45,050
+a brief moment to thank everybody who
+supports this channel whether that's by
+
+596
+00:12:45,050 --> 00:12:45,060
+supports this channel whether that's by
+ 
+
+597
+00:12:45,060 --> 00:12:46,970
+supports this channel whether that's by
+clicking the like button subscribing to
+
+598
+00:12:46,970 --> 00:12:46,980
+clicking the like button subscribing to
+ 
+
+599
+00:12:46,980 --> 00:12:48,710
+clicking the like button subscribing to
+the channel joining the patreon or
+
+600
+00:12:48,710 --> 00:12:48,720
+the channel joining the patreon or
+ 
+
+601
+00:12:48,720 --> 00:12:50,690
+the channel joining the patreon or
+buying a super thanks I greatly
+
+602
+00:12:50,690 --> 00:12:50,700
+buying a super thanks I greatly
+ 
+
+603
+00:12:50,700 --> 00:12:52,910
+buying a super thanks I greatly
+appreciate all of the support out there
+
+604
+00:12:52,910 --> 00:12:52,920
+appreciate all of the support out there
+ 
+
+605
+00:12:52,920 --> 00:12:55,190
+appreciate all of the support out there
+with that thanks for watching take care
+
+606
+00:12:55,190 --> 00:12:55,200
+with that thanks for watching take care
+ 
+
+607
+00:12:55,200 --> 00:12:58,339
+with that thanks for watching take care
+and happy ending
+

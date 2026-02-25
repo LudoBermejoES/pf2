@@ -1,0 +1,2130 @@
+1
+00:00:00,650 --> 00:00:03,129
+
+Hola y bienvenidos a Conceptos básicos para jugadores.
+
+2
+00:00:03,129 --> 00:00:03,139
+Hola y bienvenidos a Conceptos básicos para jugadores.
+ 
+
+3
+00:00:03,139 --> 00:00:05,499
+Hola y bienvenidos a Conceptos básicos para jugadores.
+Presentamos los fundamentos de detectar magia en
+
+4
+00:00:05,499 --> 00:00:05,509
+Presentamos los fundamentos de detectar magia en
+ 
+
+5
+00:00:05,509 --> 00:00:09,289
+Presentamos los fundamentos de detectar magia en
+Leer aura en Pathfinder 2.ª edición.
+
+6
+00:00:09,289 --> 00:00:09,299
+Leer aura en Pathfinder 2.ª edición.
+ 
+
+7
+00:00:09,299 --> 00:00:12,499
+Leer aura en Pathfinder 2.ª edición.
+La magia técnica en Reed Ora R2 puede causar viajes
+
+8
+00:00:12,499 --> 00:00:12,509
+La magia técnica en Reed Ora R2 puede causar viajes
+ 
+
+9
+00:00:12,509 --> 00:00:14,990
+La magia técnica en Reed Ora R2 puede causar viajes
+que a menudo se malinterpretan. Antes de
+
+10
+00:00:14,990 --> 00:00:15,000
+que a menudo se malinterpretan. Antes de
+ 
+
+11
+00:00:15,000 --> 00:00:16,519
+que a menudo se malinterpretan. Antes de
+entrar en los detalles de estos
+
+12
+00:00:16,519 --> 00:00:16,529
+entrar en los detalles de estos
+ 
+
+13
+00:00:16,529 --> 00:00:18,499
+entrar en los detalles de estos
+hechizos, debemos comprender qué
+
+14
+00:00:18,499 --> 00:00:18,509
+hechizos, debemos comprender qué
+ 
+
+15
+00:00:18,509 --> 00:00:21,019
+hechizos, debemos comprender qué
+significa exactamente ser mágico en
+
+16
+00:00:21,019 --> 00:00:21,029
+significa exactamente ser mágico en
+ 
+
+17
+00:00:21,029 --> 00:00:23,990
+significa exactamente ser mágico en
+Pathfinder. Cualquier cosa con los
+
+18
+00:00:23,990 --> 00:00:24,000
+Pathfinder. Cualquier cosa con los
+ 
+
+19
+00:00:24,000 --> 00:00:27,799
+Pathfinder. Cualquier cosa con los
+rasgos arcano, divino, oculto, primordial o mágico
+
+20
+00:00:27,799 --> 00:00:27,809
+rasgos arcano, divino, oculto, primordial o mágico
+ 
+
+21
+00:00:27,809 --> 00:00:30,799
+rasgos arcano, divino, oculto, primordial o mágico
+se considera mágico. Si no
+
+22
+00:00:30,799 --> 00:00:30,809
+se considera mágico. Si no
+ 
+
+23
+00:00:30,809 --> 00:00:33,080
+se considera mágico. Si no
+tiene uno de esos cinco rasgos, entonces
+
+24
+00:00:33,080 --> 00:00:33,090
+tiene uno de esos cinco rasgos, entonces
+ 
+
+25
+00:00:33,090 --> 00:00:34,279
+tiene uno de esos cinco rasgos, entonces
+no es mágico.
+
+26
+00:00:34,279 --> 00:00:34,289
+no es mágico.
+ 
+
+27
+00:00:34,289 --> 00:00:36,740
+no es mágico.
+Por ejemplo, los objetos alquímicos y los elixires
+
+28
+00:00:36,740 --> 00:00:36,750
+Por ejemplo, los objetos alquímicos y los elixires
+ 
+
+29
+00:00:36,750 --> 00:00:39,380
+Por ejemplo, los objetos alquímicos y los elixires
+no tienen ninguno de esos rasgos,
+
+30
+00:00:39,380 --> 00:00:39,390
+no tienen ninguno de esos rasgos,
+ 
+
+31
+00:00:39,390 --> 00:00:41,930
+no tienen ninguno de esos rasgos,
+por lo tanto, no son mágicos
+
+32
+00:00:41,930 --> 00:00:41,940
+por lo tanto, no son mágicos
+ 
+
+33
+00:00:41,940 --> 00:00:45,170
+por lo tanto, no son mágicos
+en esencia. Lanzar Detectar magia responde a una
+
+34
+00:00:45,170 --> 00:00:45,180
+en esencia. Lanzar Detectar magia responde a una
+ 
+
+35
+00:00:45,180 --> 00:00:48,470
+en esencia. Lanzar Detectar magia responde a una
+simple pregunta de sí o no: ¿Hay
+
+36
+00:00:48,470 --> 00:00:48,480
+simple pregunta de sí o no: ¿Hay
+ 
+
+37
+00:00:48,480 --> 00:00:51,080
+simple pregunta de sí o no: ¿Hay
+algo mágico a menos de 30 pies de mí? Eso es todo.
+
+38
+00:00:51,080 --> 00:00:53,540
+algo mágico a menos de 30 pies de mí? Eso es todo.
+ 
+
+39
+00:00:53,540 --> 00:00:53,550
+
+ 
+
+40
+00:00:53,550 --> 00:00:55,940
+
+No te dice qué objeto es mágico
+
+41
+00:00:55,940 --> 00:00:55,950
+No te dice qué objeto es mágico
+ 
+
+42
+00:00:55,950 --> 00:00:58,670
+No te dice qué objeto es mágico
+o en qué dirección está el objeto mágico
+
+43
+00:00:58,670 --> 00:00:58,680
+o en qué dirección está el objeto mágico
+ 
+
+44
+00:00:58,680 --> 00:01:01,520
+o en qué dirección está el objeto mágico
+o si es magia poderosa o
+
+45
+00:01:01,520 --> 00:01:01,530
+o si es magia poderosa o
+ 
+
+46
+00:01:01,530 --> 00:01:03,620
+o si es magia poderosa o
+magia débil o cuántos objetos mágicos diferentes
+
+47
+00:01:03,620 --> 00:01:03,630
+magia débil o cuántos objetos mágicos diferentes
+ 
+
+48
+00:01:03,630 --> 00:01:06,530
+magia débil o cuántos objetos mágicos diferentes
+hay o cualquier otra cosa.
+
+49
+00:01:06,530 --> 00:01:06,540
+hay o cualquier otra cosa.
+ 
+
+50
+00:01:06,540 --> 00:01:09,859
+hay o cualquier otra cosa.
+Solo te dice sí o no: ¿Hay
+
+51
+00:01:09,859 --> 00:01:09,869
+Solo te dice sí o no: ¿Hay
+ 
+
+52
+00:01:09,869 --> 00:01:12,940
+Solo te dice sí o no: ¿Hay
+algo mágico a menos de 30 pies de ti?
+
+53
+00:01:12,940 --> 00:01:12,950
+algo mágico a menos de 30 pies de ti?
+ 
+
+54
+00:01:12,950 --> 00:01:15,489
+algo mágico a menos de 30 pies de ti?
+Cuando lo lanzas, puedes elegir ignorar
+
+55
+00:01:15,489 --> 00:01:15,499
+Cuando lo lanzas, puedes elegir ignorar
+ 
+
+56
+00:01:15,499 --> 00:01:17,870
+Cuando lo lanzas, puedes elegir ignorar
+cualquier cosa que  ya sabes que es
+
+57
+00:01:17,870 --> 00:01:17,880
+cualquier cosa que  ya sabes que es
+ 
+
+58
+00:01:17,880 --> 00:01:20,330
+cualquier cosa que  ya sabes que es
+mágico, por ejemplo, en un año en el que tú
+
+59
+00:01:20,330 --> 00:01:20,340
+mágico, por ejemplo, en un año en el que tú
+ 
+
+60
+00:01:20,340 --> 00:01:22,940
+mágico, por ejemplo, en un año en el que tú
+o tus amigos se preocupan, siempre y cuando
+
+61
+00:01:22,940 --> 00:01:22,950
+o tus amigos se preocupan, siempre y cuando
+ 
+
+62
+00:01:22,950 --> 00:01:25,160
+o tus amigos se preocupan, siempre y cuando
+sepas que está ahí y es mágico,
+
+63
+00:01:25,160 --> 00:01:25,170
+sepas que está ahí y es mágico,
+ 
+
+64
+00:01:25,170 --> 00:01:27,469
+sepas que está ahí y es mágico,
+entonces puedes elegir ignorarlos de
+
+65
+00:01:27,469 --> 00:01:27,479
+entonces puedes elegir ignorarlos de
+ 
+
+66
+00:01:27,479 --> 00:01:29,529
+entonces puedes elegir ignorarlos de
+los resultados al lanzar para tomar magia
+
+67
+00:01:29,529 --> 00:01:29,539
+los resultados al lanzar para tomar magia
+ 
+
+68
+00:01:29,539 --> 00:01:32,599
+los resultados al lanzar para tomar magia
+porque es un viaje de lata, la magia técnica
+
+69
+00:01:32,599 --> 00:01:32,609
+porque es un viaje de lata, la magia técnica
+ 
+
+70
+00:01:32,609 --> 00:01:34,730
+porque es un viaje de lata, la magia técnica
+siempre se intensifica para redondear tu nivel
+
+71
+00:01:34,730 --> 00:01:34,740
+siempre se intensifica para redondear tu nivel
+ 
+
+72
+00:01:34,740 --> 00:01:37,370
+siempre se intensifica para redondear tu nivel
+y esto crea algunas
+
+73
+00:01:37,370 --> 00:01:37,380
+y esto crea algunas
+ 
+
+74
+00:01:37,380 --> 00:01:40,309
+y esto crea algunas
+opciones más, ya que se lanza a niveles más altos cuando se
+
+75
+00:01:40,309 --> 00:01:40,319
+opciones más, ya que se lanza a niveles más altos cuando se
+ 
+
+76
+00:01:40,319 --> 00:01:43,010
+opciones más, ya que se lanza a niveles más altos cuando se
+lanza a tercer nivel, aprendes la escuela
+
+77
+00:01:43,010 --> 00:01:43,020
+lanza a tercer nivel, aprendes la escuela
+ 
+
+78
+00:01:43,020 --> 00:01:45,289
+lanza a tercer nivel, aprendes la escuela
+de magia para el efecto de nivel más alto
+
+79
+00:01:45,289 --> 00:01:45,299
+de magia para el efecto de nivel más alto
+ 
+
+80
+00:01:45,299 --> 00:01:47,959
+de magia para el efecto de nivel más alto
+dentro del alcance, así que si hay un
+
+81
+00:01:47,959 --> 00:01:47,969
+dentro del alcance, así que si hay un
+ 
+
+82
+00:01:47,969 --> 00:01:50,269
+dentro del alcance, así que si hay un
+mago con vida de Fausto aumentada, el
+
+83
+00:01:50,269 --> 00:01:50,279
+mago con vida de Fausto aumentada, el
+ 
+
+84
+00:01:50,279 --> 00:01:52,789
+mago con vida de Fausto aumentada, el
+cuarto nivel se lanza sobre él, una
+
+85
+00:01:52,789 --> 00:01:52,799
+cuarto nivel se lanza sobre él, una
+ 
+
+86
+00:01:52,799 --> 00:01:55,279
+cuarto nivel se lanza sobre él, una
+varita mágica de primer nivel escondida detrás de una estantería y
+
+87
+00:01:55,279 --> 00:01:55,289
+varita mágica de primer nivel escondida detrás de una estantería y
+ 
+
+88
+00:01:55,289 --> 00:01:58,249
+varita mágica de primer nivel escondida detrás de una estantería y
+un doppelganger de tercer nivel que finge
+
+89
+00:01:58,249 --> 00:01:58,259
+un doppelganger de tercer nivel que finge
+ 
+
+90
+00:01:58,259 --> 00:02:01,609
+un doppelganger de tercer nivel que finge
+ser un enano, todos a 30 pies de ti, la
+
+91
+00:02:01,609 --> 00:02:01,619
+ser un enano, todos a 30 pies de ti, la
+ 
+
+92
+00:02:01,619 --> 00:02:04,069
+ser un enano, todos a 30 pies de ti, la
+magia técnica te dirá la escuela del
+
+93
+00:02:04,069 --> 00:02:04,079
+magia técnica te dirá la escuela del
+ 
+
+94
+00:02:04,079 --> 00:02:06,729
+magia técnica te dirá la escuela del
+nivel más alto de esos, pero eso es todo, lo
+
+95
+00:02:06,729 --> 00:02:06,739
+nivel más alto de esos, pero eso es todo, lo
+ 
+
+96
+00:02:06,739 --> 00:02:09,440
+nivel más alto de esos, pero eso es todo, lo
+lanzarías y el DM te lo diría
+
+97
+00:02:09,440 --> 00:02:09,450
+lanzarías y el DM te lo diría
+ 
+
+98
+00:02:09,450 --> 00:02:13,330
+lanzarías y el DM te lo diría
+desde nigromancia y eso es todo
+
+99
+00:02:13,330 --> 00:02:13,340
+desde nigromancia y eso es todo
+ 
+
+100
+00:02:13,340 --> 00:02:16,100
+desde nigromancia y eso es todo
+nigromancia porque el efecto de nivel más alto
+
+101
+00:02:16,100 --> 00:02:16,110
+nigromancia porque el efecto de nivel más alto
+ 
+
+102
+00:02:16,110 --> 00:02:19,010
+nigromancia porque el efecto de nivel más alto
+aquí es vida falsa que pertenece
+
+103
+00:02:19,010 --> 00:02:19,020
+aquí es vida falsa que pertenece
+ 
+
+104
+00:02:19,020 --> 00:02:21,980
+aquí es vida falsa que pertenece
+a la escuela de magia de nigromancia detectar
+
+105
+00:02:21,980 --> 00:02:21,990
+a la escuela de magia de nigromancia detectar
+ 
+
+106
+00:02:21,990 --> 00:02:22,790
+a la escuela de magia de nigromancia detectar
+madera mágica
+
+107
+00:02:22,790 --> 00:02:22,800
+madera mágica
+ 
+
+108
+00:02:22,800 --> 00:02:26,150
+madera mágica
+revelar cualquier otra información como si hubieras
+
+109
+00:02:26,150 --> 00:02:26,160
+revelar cualquier otra información como si hubieras
+ 
+
+110
+00:02:26,160 --> 00:02:28,370
+revelar cualquier otra información como si hubieras
+sentido tres fuentes mágicas, pero la
+
+111
+00:02:28,370 --> 00:02:28,380
+sentido tres fuentes mágicas, pero la
+ 
+
+112
+00:02:28,380 --> 00:02:31,670
+sentido tres fuentes mágicas, pero la
+más fuerte es la nigromancia efectivamente  las
+
+113
+00:02:31,670 --> 00:02:31,680
+más fuerte es la nigromancia efectivamente  las
+ 
+
+114
+00:02:31,680 --> 00:02:34,220
+más fuerte es la nigromancia efectivamente  las
+dos fuentes mágicas más débiles están sofocadas
+
+115
+00:02:34,220 --> 00:02:34,230
+dos fuentes mágicas más débiles están sofocadas
+ 
+
+116
+00:02:34,230 --> 00:02:37,180
+dos fuentes mágicas más débiles están sofocadas
+por vida falsa y no se registran en absoluto
+
+117
+00:02:37,180 --> 00:02:37,190
+por vida falsa y no se registran en absoluto
+ 
+
+118
+00:02:37,190 --> 00:02:40,400
+por vida falsa y no se registran en absoluto
+y si la magia técnica se eleva al
+
+119
+00:02:40,400 --> 00:02:40,410
+y si la magia técnica se eleva al
+ 
+
+120
+00:02:40,410 --> 00:02:43,220
+y si la magia técnica se eleva al
+cuarto nivel sabes en qué casilla está la
+
+121
+00:02:43,220 --> 00:02:43,230
+cuarto nivel sabes en qué casilla está la
+ 
+
+122
+00:02:43,230 --> 00:02:45,710
+cuarto nivel sabes en qué casilla está la
+fuente de la magia de nivel más alto, así que
+
+123
+00:02:45,710 --> 00:02:45,720
+fuente de la magia de nivel más alto, así que
+ 
+
+124
+00:02:45,720 --> 00:02:49,220
+fuente de la magia de nivel más alto, así que
+usando el ejemplo anterior el DM
+
+125
+00:02:49,220 --> 00:02:49,230
+usando el ejemplo anterior el DM
+ 
+
+126
+00:02:49,230 --> 00:02:52,010
+usando el ejemplo anterior el DM
+diría que sientes magia nigromántica
+
+127
+00:02:52,010 --> 00:02:52,020
+diría que sientes magia nigromántica
+ 
+
+128
+00:02:52,020 --> 00:02:54,710
+diría que sientes magia nigromántica
+viniendo de esta casilla y apuntas hacia
+
+129
+00:02:54,710 --> 00:02:54,720
+viniendo de esta casilla y apuntas hacia
+ 
+
+130
+00:02:54,720 --> 00:02:57,200
+viniendo de esta casilla y apuntas hacia
+donde está el hecho de estar de pie detectar magia
+
+131
+00:02:57,200 --> 00:02:57,210
+donde está el hecho de estar de pie detectar magia
+ 
+
+132
+00:02:57,210 --> 00:02:59,540
+donde está el hecho de estar de pie detectar magia
+no te dirá qué en esa casilla está
+
+133
+00:02:59,540 --> 00:02:59,550
+no te dirá qué en esa casilla está
+ 
+
+134
+00:02:59,550 --> 00:03:02,420
+no te dirá qué en esa casilla está
+irradiando energía nigromántica podría ser
+
+135
+00:03:02,420 --> 00:03:02,430
+irradiando energía nigromántica podría ser
+ 
+
+136
+00:03:02,430 --> 00:03:04,970
+irradiando energía nigromántica podría ser
+el mago un hechizo lanzado sobre el mago un
+
+137
+00:03:04,970 --> 00:03:04,980
+el mago un hechizo lanzado sobre el mago un
+ 
+
+138
+00:03:04,980 --> 00:03:07,430
+el mago un hechizo lanzado sobre el mago un
+objeto que el mago está usando o algo
+
+139
+00:03:07,430 --> 00:03:07,440
+objeto que el mago está usando o algo
+ 
+
+140
+00:03:07,440 --> 00:03:10,970
+objeto que el mago está usando o algo
+más e incluso elevado al cuarto nivel
+
+141
+00:03:10,970 --> 00:03:10,980
+más e incluso elevado al cuarto nivel
+ 
+
+142
+00:03:10,980 --> 00:03:12,830
+más e incluso elevado al cuarto nivel
+detectar magia solo proporcionará
+
+143
+00:03:12,830 --> 00:03:12,840
+detectar magia solo proporcionará
+ 
+
+144
+00:03:12,840 --> 00:03:15,080
+detectar magia solo proporcionará
+información sobre la
+
+145
+00:03:15,080 --> 00:03:15,090
+información sobre la
+ 
+
+146
+00:03:15,090 --> 00:03:18,800
+información sobre la
+fuente de magia de nivel más alto nuevamente todo lo
+
+147
+00:03:18,800 --> 00:03:18,810
+fuente de magia de nivel más alto nuevamente todo lo
+ 
+
+148
+00:03:18,810 --> 00:03:21,590
+fuente de magia de nivel más alto nuevamente todo lo
+demás está sofocado y no es detectado por
+
+149
+00:03:21,590 --> 00:03:21,600
+demás está sofocado y no es detectado por
+ 
+
+150
+00:03:21,600 --> 00:03:24,080
+demás está sofocado y no es detectado por
+el Derrame
+
+151
+00:03:24,080 --> 00:03:24,090
+el Derrame
+ 
+
+152
+00:03:24,090 --> 00:03:26,839
+el Derrame
+hay dos limitaciones importantes para
+
+153
+00:03:26,839 --> 00:03:26,849
+hay dos limitaciones importantes para
+ 
+
+154
+00:03:26,849 --> 00:03:28,220
+hay dos limitaciones importantes para
+detectar magia que vale la pena discutir
+
+155
+00:03:28,220 --> 00:03:28,230
+detectar magia que vale la pena discutir
+ 
+
+156
+00:03:28,230 --> 00:03:31,970
+detectar magia que vale la pena discutir
+la primera de ellas son las ilusiones la
+
+157
+00:03:31,970 --> 00:03:31,980
+la primera de ellas son las ilusiones la
+ 
+
+158
+00:03:31,980 --> 00:03:34,339
+la primera de ellas son las ilusiones la
+magia de ilusión de un nivel igual a son mayores
+
+159
+00:03:34,339 --> 00:03:34,349
+magia de ilusión de un nivel igual a son mayores
+ 
+
+160
+00:03:34,349 --> 00:03:36,199
+magia de ilusión de un nivel igual a son mayores
+que el nivel que lanzas para tomar
+
+161
+00:03:36,199 --> 00:03:36,209
+que el nivel que lanzas para tomar
+ 
+
+162
+00:03:36,209 --> 00:03:39,259
+que el nivel que lanzas para tomar
+magia no se registrará así que por
+
+163
+00:03:39,259 --> 00:03:39,269
+magia no se registrará así que por
+ 
+
+164
+00:03:39,269 --> 00:03:41,539
+magia no se registrará así que por
+ejemplo lanzas para tomar magia y hay
+
+165
+00:03:41,539 --> 00:03:41,549
+ejemplo lanzas para tomar magia y hay
+ 
+
+166
+00:03:41,549 --> 00:03:43,580
+ejemplo lanzas para tomar magia y hay
+una criatura invisible en la habitación si
+
+167
+00:03:43,580 --> 00:03:43,590
+una criatura invisible en la habitación si
+ 
+
+168
+00:03:43,590 --> 00:03:46,400
+una criatura invisible en la habitación si
+el nivel del efecto de esas criaturas y la
+
+169
+00:03:46,400 --> 00:03:46,410
+el nivel del efecto de esas criaturas y la
+ 
+
+170
+00:03:46,410 --> 00:03:49,460
+el nivel del efecto de esas criaturas y la
+visibilidad es igual o mayor que
+
+171
+00:03:49,460 --> 00:03:49,470
+visibilidad es igual o mayor que
+ 
+
+172
+00:03:49,470 --> 00:03:51,979
+visibilidad es igual o mayor que
+el nivel que lanzas para tomar magia
+
+173
+00:03:51,979 --> 00:03:51,989
+el nivel que lanzas para tomar magia
+ 
+
+174
+00:03:51,989 --> 00:03:54,380
+el nivel que lanzas para tomar magia
+entonces no detectarás a la
+
+175
+00:03:54,380 --> 00:03:54,390
+entonces no detectarás a la
+ 
+
+176
+00:03:54,390 --> 00:03:56,990
+entonces no detectarás a la
+criatura invisible y por supuesto  hay una
+
+177
+00:03:56,990 --> 00:03:57,000
+criatura invisible y por supuesto  hay una
+ 
+
+178
+00:03:57,000 --> 00:03:59,420
+criatura invisible y por supuesto  hay una
+excepción a esta regla si la fuente de
+
+179
+00:03:59,420 --> 00:03:59,430
+excepción a esta regla si la fuente de
+ 
+
+180
+00:03:59,430 --> 00:04:02,059
+excepción a esta regla si la fuente de
+la magia de ilusión es un objeto y ese
+
+181
+00:04:02,059 --> 00:04:02,069
+la magia de ilusión es un objeto y ese
+ 
+
+182
+00:04:02,069 --> 00:04:04,670
+la magia de ilusión es un objeto y ese
+objeto no está usando magia de ilusión para ocultar
+
+183
+00:04:04,670 --> 00:04:04,680
+objeto no está usando magia de ilusión para ocultar
+ 
+
+184
+00:04:04,680 --> 00:04:07,880
+objeto no está usando magia de ilusión para ocultar
+su apariencia, entonces se registrará
+
+185
+00:04:07,880 --> 00:04:07,890
+su apariencia, entonces se registrará
+ 
+
+186
+00:04:07,890 --> 00:04:10,280
+su apariencia, entonces se registrará
+con la magia de etiqueta independientemente de su
+
+187
+00:04:10,280 --> 00:04:10,290
+con la magia de etiqueta independientemente de su
+ 
+
+188
+00:04:10,290 --> 00:04:13,130
+con la magia de etiqueta independientemente de su
+nivel como cualquier otro objeto, así que por
+
+189
+00:04:13,130 --> 00:04:13,140
+nivel como cualquier otro objeto, así que por
+ 
+
+190
+00:04:13,140 --> 00:04:16,159
+nivel como cualquier otro objeto, así que por
+ejemplo una varita de sonido GU tiene un
+
+191
+00:04:16,159 --> 00:04:16,169
+ejemplo una varita de sonido GU tiene un
+ 
+
+192
+00:04:16,169 --> 00:04:18,500
+ejemplo una varita de sonido GU tiene un
+aura de ilusión porque el sonido fantasma es un
+
+193
+00:04:18,500 --> 00:04:18,510
+aura de ilusión porque el sonido fantasma es un
+ 
+
+194
+00:04:18,510 --> 00:04:21,289
+aura de ilusión porque el sonido fantasma es un
+hechizo de la escuela de ilusión, pero eso no
+
+195
+00:04:21,289 --> 00:04:21,299
+hechizo de la escuela de ilusión, pero eso no
+ 
+
+196
+00:04:21,299 --> 00:04:23,120
+hechizo de la escuela de ilusión, pero eso no
+evitaría que la mujer sea encontrada por
+
+197
+00:04:23,120 --> 00:04:23,130
+evitaría que la mujer sea encontrada por
+ 
+
+198
+00:04:23,130 --> 00:04:26,029
+evitaría que la mujer sea encontrada por
+la magia técnica, pero en cambio piense en una
+
+199
+00:04:26,029 --> 00:04:26,039
+la magia técnica, pero en cambio piense en una
+ 
+
+200
+00:04:26,039 --> 00:04:28,279
+la magia técnica, pero en cambio piense en una
+espada que está bajo un efecto mágico
+
+201
+00:04:28,279 --> 00:04:28,289
+espada que está bajo un efecto mágico
+ 
+
+202
+00:04:28,289 --> 00:04:31,129
+espada que está bajo un efecto mágico
+que la hace parecer un palo común, en
+
+203
+00:04:31,129 --> 00:04:31,139
+que la hace parecer un palo común, en
+ 
+
+204
+00:04:31,139 --> 00:04:33,710
+que la hace parecer un palo común, en
+ese caso la espada no sería
+
+205
+00:04:33,710 --> 00:04:33,720
+ese caso la espada no sería
+ 
+
+206
+00:04:33,720 --> 00:04:36,140
+ese caso la espada no sería
+registrada por 2 Técnica a menos que el
+
+207
+00:04:36,140 --> 00:04:36,150
+registrada por 2 Técnica a menos que el
+ 
+
+208
+00:04:36,150 --> 00:04:38,510
+registrada por 2 Técnica a menos que el
+efecto que la oculta sea de un nivel inferior,
+
+209
+00:04:38,510 --> 00:04:38,520
+efecto que la oculta sea de un nivel inferior,
+ 
+
+210
+00:04:38,520 --> 00:04:42,500
+efecto que la oculta sea de un nivel inferior,
+entonces lanzas un acto de magia técnica y la
+
+211
+00:04:42,500 --> 00:04:42,510
+entonces lanzas un acto de magia técnica y la
+ 
+
+212
+00:04:42,510 --> 00:04:44,570
+entonces lanzas un acto de magia técnica y la
+segunda limitación para detectar magia de la que
+
+213
+00:04:44,570 --> 00:04:44,580
+segunda limitación para detectar magia de la que
+ 
+
+214
+00:04:44,580 --> 00:04:47,540
+segunda limitación para detectar magia de la que
+debemos hablar son las trampas cuando
+
+215
+00:04:47,540 --> 00:04:47,550
+debemos hablar son las trampas cuando
+ 
+
+216
+00:04:47,550 --> 00:04:50,210
+debemos hablar son las trampas cuando
+miras las estadísticas de una trampa, verás
+
+217
+00:04:50,210 --> 00:04:50,220
+miras las estadísticas de una trampa, verás
+ 
+
+218
+00:04:50,220 --> 00:04:53,240
+miras las estadísticas de una trampa, verás
+una línea en la parte superior con la CD de sigilo para
+
+219
+00:04:53,240 --> 00:04:53,250
+una línea en la parte superior con la CD de sigilo para
+ 
+
+220
+00:04:53,250 --> 00:04:56,180
+una línea en la parte superior con la CD de sigilo para
+detectarla, esto puede o no incluir también
+
+221
+00:04:56,180 --> 00:04:56,190
+detectarla, esto puede o no incluir también
+ 
+
+222
+00:04:56,190 --> 00:04:58,310
+detectarla, esto puede o no incluir también
+un nivel mínimo de competencia en
+
+223
+00:04:58,310 --> 00:04:58,320
+un nivel mínimo de competencia en
+ 
+
+224
+00:04:58,320 --> 00:05:01,580
+un nivel mínimo de competencia en
+percepción, así que aquí, por ejemplo, dice que una
+
+225
+00:05:01,580 --> 00:05:01,590
+percepción, así que aquí, por ejemplo, dice que una
+ 
+
+226
+00:05:01,590 --> 00:05:04,520
+percepción, así que aquí, por ejemplo, dice que una
+trampa de palabras de faraón tiene una CD de sigilo de
+
+227
+00:05:04,520 --> 00:05:04,530
+trampa de palabras de faraón tiene una CD de sigilo de
+ 
+
+228
+00:05:04,530 --> 00:05:09,230
+trampa de palabras de faraón tiene una CD de sigilo de
+25 experto si hay algún
+
+229
+00:05:09,230 --> 00:05:09,240
+25 experto si hay algún
+ 
+
+230
+00:05:09,240 --> 00:05:12,700
+25 experto si hay algún
+requisito de competencia enumerado, entonces es absolutamente
+
+231
+00:05:12,700 --> 00:05:12,710
+requisito de competencia enumerado, entonces es absolutamente
+ 
+
+232
+00:05:12,710 --> 00:05:15,940
+requisito de competencia enumerado, entonces es absolutamente
+imposible detectarla con detectar magia,
+
+233
+00:05:15,940 --> 00:05:15,950
+imposible detectarla con detectar magia,
+ 
+
+234
+00:05:15,950 --> 00:05:19,250
+imposible detectarla con detectar magia,
+así que en este caso incluso si eres
+
+235
+00:05:19,250 --> 00:05:19,260
+así que en este caso incluso si eres
+ 
+
+236
+00:05:19,260 --> 00:05:21,230
+así que en este caso incluso si eres
+legendario en  lanzando hechizos y
+
+237
+00:05:21,230 --> 00:05:21,240
+legendario en  lanzando hechizos y
+ 
+
+238
+00:05:21,240 --> 00:05:22,940
+legendario en  lanzando hechizos y
+subiendo la magia técnica al noveno nivel
+
+239
+00:05:22,940 --> 00:05:22,950
+subiendo la magia técnica al noveno nivel
+ 
+
+240
+00:05:22,950 --> 00:05:26,990
+subiendo la magia técnica al noveno nivel
+esta trampa aún no se registrará para
+
+241
+00:05:26,990 --> 00:05:27,000
+esta trampa aún no se registrará para
+ 
+
+242
+00:05:27,000 --> 00:05:28,770
+esta trampa aún no se registrará para
+detectar magia
+
+243
+00:05:28,770 --> 00:05:28,780
+detectar magia
+ 
+
+244
+00:05:28,780 --> 00:05:31,440
+detectar magia
+un pozo sin fondo por otro lado
+
+245
+00:05:31,440 --> 00:05:31,450
+un pozo sin fondo por otro lado
+ 
+
+246
+00:05:31,450 --> 00:05:33,990
+un pozo sin fondo por otro lado
+no tiene un requisito mínimo de competencia para
+
+247
+00:05:33,990 --> 00:05:34,000
+no tiene un requisito mínimo de competencia para
+ 
+
+248
+00:05:34,000 --> 00:05:36,390
+no tiene un requisito mínimo de competencia para
+notarlo e incluso ganso el paso adicional de
+
+249
+00:05:36,390 --> 00:05:36,400
+notarlo e incluso ganso el paso adicional de
+ 
+
+250
+00:05:36,400 --> 00:05:38,909
+notarlo e incluso ganso el paso adicional de
+decir específicamente que toma magia
+
+251
+00:05:38,909 --> 00:05:38,919
+decir específicamente que toma magia
+ 
+
+252
+00:05:38,919 --> 00:05:41,850
+decir específicamente que toma magia
+funcionará en él pero incluso entonces el hechizo
+
+253
+00:05:41,850 --> 00:05:41,860
+funcionará en él pero incluso entonces el hechizo
+ 
+
+254
+00:05:41,860 --> 00:05:44,310
+funcionará en él pero incluso entonces el hechizo
+solo te dirá que hay magia a menos de
+
+255
+00:05:44,310 --> 00:05:44,320
+solo te dirá que hay magia a menos de
+ 
+
+256
+00:05:44,320 --> 00:05:47,580
+solo te dirá que hay magia a menos de
+30 pies a menos que lo subas al
+
+257
+00:05:47,580 --> 00:05:47,590
+30 pies a menos que lo subas al
+ 
+
+258
+00:05:47,590 --> 00:05:49,800
+30 pies a menos que lo subas al
+cuarto nivel no proporcionará ninguna
+
+259
+00:05:49,800 --> 00:05:49,810
+cuarto nivel no proporcionará ninguna
+ 
+
+260
+00:05:49,810 --> 00:05:54,100
+cuarto nivel no proporcionará ninguna
+información sobre la ubicación de las trampas
+
+261
+00:05:54,100 --> 00:05:54,110
+información sobre la ubicación de las trampas
+ 
+
+262
+00:05:54,110 --> 00:05:57,010
+información sobre la ubicación de las trampas
+así que si detectar magia solo te dice si hay
+
+263
+00:05:57,010 --> 00:05:57,020
+así que si detectar magia solo te dice si hay
+ 
+
+264
+00:05:57,020 --> 00:06:00,309
+así que si detectar magia solo te dice si hay
+magia a menos de 30 pies de ti ¿cómo
+
+265
+00:06:00,309 --> 00:06:00,319
+magia a menos de 30 pies de ti ¿cómo
+ 
+
+266
+00:06:00,319 --> 00:06:02,830
+magia a menos de 30 pies de ti ¿cómo
+sabes si algo específico es
+
+267
+00:06:02,830 --> 00:06:02,840
+sabes si algo específico es
+ 
+
+268
+00:06:02,840 --> 00:06:05,980
+sabes si algo específico es
+mágico? ahí es donde usarías leer
+
+269
+00:06:05,980 --> 00:06:05,990
+mágico? ahí es donde usarías leer
+ 
+
+270
+00:06:05,990 --> 00:06:08,920
+mágico? ahí es donde usarías leer
+aura detectar magia te da
+
+271
+00:06:08,920 --> 00:06:08,930
+aura detectar magia te da
+ 
+
+272
+00:06:08,930 --> 00:06:12,100
+aura detectar magia te da
+información muy imprecisa sobre un área grande
+
+273
+00:06:12,100 --> 00:06:12,110
+información muy imprecisa sobre un área grande
+ 
+
+274
+00:06:12,110 --> 00:06:15,129
+información muy imprecisa sobre un área grande
+pero leer aura otorga
+
+275
+00:06:15,129 --> 00:06:15,139
+pero leer aura otorga
+ 
+
+276
+00:06:15,139 --> 00:06:17,589
+pero leer aura otorga
+información específica sobre un solo
+
+277
+00:06:17,589 --> 00:06:17,599
+información específica sobre un solo
+ 
+
+278
+00:06:17,599 --> 00:06:20,830
+información específica sobre un solo
+objeto objetivo leer aura es un viaje de lata y
+
+279
+00:06:20,830 --> 00:06:20,840
+objeto objetivo leer aura es un viaje de lata y
+ 
+
+280
+00:06:20,840 --> 00:06:23,260
+objeto objetivo leer aura es un viaje de lata y
+requiere un minuto para lanzar después del
+
+281
+00:06:23,260 --> 00:06:23,270
+requiere un minuto para lanzar después del
+ 
+
+282
+00:06:23,270 --> 00:06:25,570
+requiere un minuto para lanzar después del
+lanzamiento te dirá si el
+
+283
+00:06:25,570 --> 00:06:25,580
+lanzamiento te dirá si el
+ 
+
+284
+00:06:25,580 --> 00:06:28,089
+lanzamiento te dirá si el
+objeto objetivo es mágico y si es así
+
+285
+00:06:28,089 --> 00:06:28,099
+objeto objetivo es mágico y si es así
+ 
+
+286
+00:06:28,099 --> 00:06:31,300
+objeto objetivo es mágico y si es así
+también aprenderás es escuela de magia este es un
+
+287
+00:06:31,300 --> 00:06:31,310
+también aprenderás es escuela de magia este es un
+ 
+
+288
+00:06:31,310 --> 00:06:33,430
+también aprenderás es escuela de magia este es un
+excelente primer paso para identificar
+
+289
+00:06:33,430 --> 00:06:33,440
+excelente primer paso para identificar
+ 
+
+290
+00:06:33,440 --> 00:06:35,709
+excelente primer paso para identificar
+objetos mágicos ya que no puedes identificar
+
+291
+00:06:35,709 --> 00:06:35,719
+objetos mágicos ya que no puedes identificar
+ 
+
+292
+00:06:35,719 --> 00:06:38,140
+objetos mágicos ya que no puedes identificar
+un objeto mágico hasta que sepas con certeza
+
+293
+00:06:38,140 --> 00:06:38,150
+un objeto mágico hasta que sepas con certeza
+ 
+
+294
+00:06:38,150 --> 00:06:40,959
+un objeto mágico hasta que sepas con certeza
+que es mágico si se aumenta el
+
+295
+00:06:40,959 --> 00:06:40,969
+que es mágico si se aumenta el
+ 
+
+296
+00:06:40,969 --> 00:06:43,659
+que es mágico si se aumenta el
+tercer nivel un lanzamiento de aura roja puede
+
+297
+00:06:43,659 --> 00:06:43,669
+tercer nivel un lanzamiento de aura roja puede
+ 
+
+298
+00:06:43,669 --> 00:06:45,730
+tercer nivel un lanzamiento de aura roja puede
+revelar información sobre diez
+
+299
+00:06:45,730 --> 00:06:45,740
+revelar información sobre diez
+ 
+
+300
+00:06:45,740 --> 00:06:49,240
+revelar información sobre diez
+objetos diferentes y un sexto nivel revelará
+
+301
+00:06:49,240 --> 00:06:49,250
+objetos diferentes y un sexto nivel revelará
+ 
+
+302
+00:06:49,250 --> 00:06:51,580
+objetos diferentes y un sexto nivel revelará
+información sobre  todos los objetos dentro del
+
+303
+00:06:51,580 --> 00:06:51,590
+información sobre  todos los objetos dentro del
+ 
+
+304
+00:06:51,590 --> 00:06:54,490
+información sobre  todos los objetos dentro del
+alcance del hechizo, pero ten en cuenta que, dado que
+
+305
+00:06:54,490 --> 00:06:54,500
+alcance del hechizo, pero ten en cuenta que, dado que
+ 
+
+306
+00:06:54,500 --> 00:06:57,100
+alcance del hechizo, pero ten en cuenta que, dado que
+el hechizo apunta a objetos, debes
+
+307
+00:06:57,100 --> 00:06:57,110
+el hechizo apunta a objetos, debes
+ 
+
+308
+00:06:57,110 --> 00:06:59,409
+el hechizo apunta a objetos, debes
+saber que los objetos están allí
+
+309
+00:06:59,409 --> 00:06:59,419
+saber que los objetos están allí
+ 
+
+310
+00:06:59,419 --> 00:07:01,809
+saber que los objetos están allí
+antes de poder usar leer aura en ellos, por lo
+
+311
+00:07:01,809 --> 00:07:01,819
+antes de poder usar leer aura en ellos, por lo
+ 
+
+312
+00:07:01,819 --> 00:07:04,510
+antes de poder usar leer aura en ellos, por lo
+tanto, esto no reemplaza a
+
+313
+00:07:04,510 --> 00:07:04,520
+tanto, esto no reemplaza a
+ 
+
+314
+00:07:04,520 --> 00:07:06,820
+tanto, esto no reemplaza a
+detectar magia y podría usarse para
+
+315
+00:07:06,820 --> 00:07:06,830
+detectar magia y podría usarse para
+ 
+
+316
+00:07:06,830 --> 00:07:10,149
+detectar magia y podría usarse para
+encontrar una trampa mágica oculta y, al igual que la
+
+317
+00:07:10,149 --> 00:07:10,159
+encontrar una trampa mágica oculta y, al igual que la
+ 
+
+318
+00:07:10,159 --> 00:07:12,850
+encontrar una trampa mágica oculta y, al igual que la
+magia técnica, leer aura también está limitada por
+
+319
+00:07:12,850 --> 00:07:12,860
+magia técnica, leer aura también está limitada por
+ 
+
+320
+00:07:12,860 --> 00:07:15,640
+magia técnica, leer aura también está limitada por
+ilusiones si el nivel del efecto de las ilusiones
+
+321
+00:07:15,640 --> 00:07:15,650
+ilusiones si el nivel del efecto de las ilusiones
+ 
+
+322
+00:07:15,650 --> 00:07:17,950
+ilusiones si el nivel del efecto de las ilusiones
+es igual o superior al nivel en el
+
+323
+00:07:17,950 --> 00:07:17,960
+es igual o superior al nivel en el
+ 
+
+324
+00:07:17,960 --> 00:07:20,409
+es igual o superior al nivel en el
+que se lanza leer aura, entonces
+
+325
+00:07:20,409 --> 00:07:20,419
+que se lanza leer aura, entonces
+ 
+
+326
+00:07:20,419 --> 00:07:24,990
+que se lanza leer aura, entonces
+no revela ninguna información al lanzador.
+
+327
+00:07:24,990 --> 00:07:25,000
+no revela ninguna información al lanzador.
+ 
+
+328
+00:07:25,000 --> 00:07:27,030
+no revela ninguna información al lanzador.
+En este video, discutimos los
+
+329
+00:07:27,030 --> 00:07:27,040
+En este video, discutimos los
+ 
+
+330
+00:07:27,040 --> 00:07:30,180
+En este video, discutimos los
+viajes enlatados. Detectar magia en leer aura. Detectar
+
+331
+00:07:30,180 --> 00:07:30,190
+viajes enlatados. Detectar magia en leer aura. Detectar
+ 
+
+332
+00:07:30,190 --> 00:07:32,880
+viajes enlatados. Detectar magia en leer aura. Detectar
+magia es un hechizo que, cuando se lanza, responde a
+
+333
+00:07:32,880 --> 00:07:32,890
+magia es un hechizo que, cuando se lanza, responde a
+ 
+
+334
+00:07:32,890 --> 00:07:34,770
+magia es un hechizo que, cuando se lanza, responde a
+una simple pregunta: ¿
+
+335
+00:07:34,770 --> 00:07:34,780
+una simple pregunta: ¿
+ 
+
+336
+00:07:34,780 --> 00:07:37,680
+una simple pregunta: ¿
+hay algo mágico a menos de 30 pies
+
+337
+00:07:37,680 --> 00:07:37,690
+hay algo mágico a menos de 30 pies
+ 
+
+338
+00:07:37,690 --> 00:07:40,920
+hay algo mágico a menos de 30 pies
+de mí? Sí o no. Si se intensifica a un
+
+339
+00:07:40,920 --> 00:07:40,930
+de mí? Sí o no. Si se intensifica a un
+ 
+
+340
+00:07:40,930 --> 00:07:43,290
+de mí? Sí o no. Si se intensifica a un
+tercer nivel, también te dirá la
+
+341
+00:07:43,290 --> 00:07:43,300
+tercer nivel, también te dirá la
+ 
+
+342
+00:07:43,300 --> 00:07:45,420
+tercer nivel, también te dirá la
+escuela de magia para el
+
+343
+00:07:45,420 --> 00:07:45,430
+escuela de magia para el
+ 
+
+344
+00:07:45,430 --> 00:07:47,670
+escuela de magia para el
+efecto de nivel más alto en el área y si se
+
+345
+00:07:47,670 --> 00:07:47,680
+efecto de nivel más alto en el área y si se
+ 
+
+346
+00:07:47,680 --> 00:07:49,590
+efecto de nivel más alto en el área y si se
+intensifica al cuarto nivel,
+
+347
+00:07:49,590 --> 00:07:49,600
+intensifica al cuarto nivel,
+ 
+
+348
+00:07:49,600 --> 00:07:52,100
+intensifica al cuarto nivel,
+te dirá en qué casilla está ese efecto.
+
+349
+00:07:52,100 --> 00:07:52,110
+te dirá en qué casilla está ese efecto.
+ 
+
+350
+00:07:52,110 --> 00:07:55,290
+te dirá en qué casilla está ese efecto.
+Detectar magia no puede detectar ninguna ilusión
+
+351
+00:07:55,290 --> 00:07:55,300
+Detectar magia no puede detectar ninguna ilusión
+ 
+
+352
+00:07:55,300 --> 00:07:57,900
+Detectar magia no puede detectar ninguna ilusión
+que sea de su nivel de efecto o superior y
+
+353
+00:07:57,900 --> 00:07:57,910
+que sea de su nivel de efecto o superior y
+ 
+
+354
+00:07:57,910 --> 00:08:00,840
+que sea de su nivel de efecto o superior y
+si una trampa mágica tiene algún
+
+355
+00:08:00,840 --> 00:08:00,850
+si una trampa mágica tiene algún
+ 
+
+356
+00:08:00,850 --> 00:08:03,360
+si una trampa mágica tiene algún
+nivel de competencia enumerado en una entrada de sigilo, entonces
+
+357
+00:08:03,360 --> 00:08:03,370
+nivel de competencia enumerado en una entrada de sigilo, entonces
+ 
+
+358
+00:08:03,370 --> 00:08:05,940
+nivel de competencia enumerado en una entrada de sigilo, entonces
+esa trampa no se puede encontrar con Detectar
+
+359
+00:08:05,940 --> 00:08:05,950
+esa trampa no se puede encontrar con Detectar
+ 
+
+360
+00:08:05,950 --> 00:08:09,210
+esa trampa no se puede encontrar con Detectar
+magia. Leer aura apunta a objetos específicos en lugar
+
+361
+00:08:09,210 --> 00:08:09,220
+magia. Leer aura apunta a objetos específicos en lugar
+ 
+
+362
+00:08:09,220 --> 00:08:11,909
+magia. Leer aura apunta a objetos específicos en lugar
+de un área cuando se lanza,
+
+363
+00:08:11,909 --> 00:08:11,919
+de un área cuando se lanza,
+ 
+
+364
+00:08:11,919 --> 00:08:14,370
+de un área cuando se lanza,
+revelará si el objeto  es mágico y si es así
+
+365
+00:08:14,370 --> 00:08:14,380
+revelará si el objeto  es mágico y si es así
+ 
+
+366
+00:08:14,380 --> 00:08:16,530
+revelará si el objeto  es mágico y si es así
+también te dirá a qué escuela de
+
+367
+00:08:16,530 --> 00:08:16,540
+también te dirá a qué escuela de
+ 
+
+368
+00:08:16,540 --> 00:08:16,950
+también te dirá a qué escuela de
+magia
+
+369
+00:08:16,950 --> 00:08:16,960
+magia
+ 
+
+370
+00:08:16,960 --> 00:08:19,200
+magia
+pertenece cuando leer aura se
+
+371
+00:08:19,200 --> 00:08:19,210
+pertenece cuando leer aura se
+ 
+
+372
+00:08:19,210 --> 00:08:21,300
+pertenece cuando leer aura se
+intensifica un tercer nivel puede apuntar a
+
+373
+00:08:21,300 --> 00:08:21,310
+intensifica un tercer nivel puede apuntar a
+ 
+
+374
+00:08:21,310 --> 00:08:24,300
+intensifica un tercer nivel puede apuntar a
+diez objetos diferentes y como nivel seis
+
+375
+00:08:24,300 --> 00:08:24,310
+diez objetos diferentes y como nivel seis
+ 
+
+376
+00:08:24,310 --> 00:08:26,730
+diez objetos diferentes y como nivel seis
+puede apuntar a todos los objetos válidos dentro del
+
+377
+00:08:26,730 --> 00:08:26,740
+puede apuntar a todos los objetos válidos dentro del
+ 
+
+378
+00:08:26,740 --> 00:08:29,640
+puede apuntar a todos los objetos válidos dentro del
+alcance como con detectar magia leer aura
+
+379
+00:08:29,640 --> 00:08:29,650
+alcance como con detectar magia leer aura
+ 
+
+380
+00:08:29,650 --> 00:08:32,070
+alcance como con detectar magia leer aura
+no funcionará en ilusiones a menos que
+
+381
+00:08:32,070 --> 00:08:32,080
+no funcionará en ilusiones a menos que
+ 
+
+382
+00:08:32,080 --> 00:08:35,909
+no funcionará en ilusiones a menos que
+sean de un nivel de efecto inferior
+
+383
+00:08:35,909 --> 00:08:35,919
+sean de un nivel de efecto inferior
+ 
+
+384
+00:08:35,919 --> 00:08:38,100
+sean de un nivel de efecto inferior
+antes de cerrar me gustaría tomarme un
+
+385
+00:08:38,100 --> 00:08:38,110
+antes de cerrar me gustaría tomarme un
+ 
+
+386
+00:08:38,110 --> 00:08:40,560
+antes de cerrar me gustaría tomarme un
+momento para agradecer a todos nuestros patrocinadores estos
+
+387
+00:08:40,560 --> 00:08:40,570
+momento para agradecer a todos nuestros patrocinadores estos
+ 
+
+388
+00:08:40,570 --> 00:08:42,329
+momento para agradecer a todos nuestros patrocinadores estos
+videos no serían posibles sin
+
+389
+00:08:42,329 --> 00:08:42,339
+videos no serían posibles sin
+ 
+
+390
+00:08:42,339 --> 00:08:45,170
+videos no serían posibles sin
+su continua generosidad y apoyo los
+
+391
+00:08:45,170 --> 00:08:45,180
+su continua generosidad y apoyo los
+ 
+
+392
+00:08:45,180 --> 00:08:48,000
+su continua generosidad y apoyo los
+miembros de la comunidad de patreon de basics for gamers
+
+393
+00:08:48,000 --> 00:08:48,010
+miembros de la comunidad de patreon de basics for gamers
+ 
+
+394
+00:08:48,010 --> 00:08:50,220
+miembros de la comunidad de patreon de basics for gamers
+reciben beneficios especiales como
+
+395
+00:08:50,220 --> 00:08:50,230
+reciben beneficios especiales como
+ 
+
+396
+00:08:50,230 --> 00:08:52,050
+reciben beneficios especiales como
+poder votar sobre los temas que
+
+397
+00:08:52,050 --> 00:08:52,060
+poder votar sobre los temas que
+ 
+
+398
+00:08:52,060 --> 00:08:54,269
+poder votar sobre los temas que
+cubrimos en el futuro y también pueden
+
+399
+00:08:54,269 --> 00:08:54,279
+cubrimos en el futuro y también pueden
+ 
+
+400
+00:08:54,279 --> 00:08:56,759
+cubrimos en el futuro y también pueden
+ver estos videos una semana y sin publicidad
+
+401
+00:08:56,759 --> 00:08:56,769
+ver estos videos una semana y sin publicidad
+ 
+
+402
+00:08:56,769 --> 00:09:00,120
+ver estos videos una semana y sin publicidad
+antes que todos los demás visita el enlace que
+
+403
+00:09:00,120 --> 00:09:00,130
+antes que todos los demás visita el enlace que
+ 
+
+404
+00:09:00,130 --> 00:09:01,860
+antes que todos los demás visita el enlace que
+se muestra a la izquierda de la pantalla y en
+
+405
+00:09:01,860 --> 00:09:01,870
+se muestra a la izquierda de la pantalla y en
+ 
+
+406
+00:09:01,870 --> 00:09:03,360
+se muestra a la izquierda de la pantalla y en
+la descripción si quieres saber
+
+407
+00:09:03,360 --> 00:09:03,370
+la descripción si quieres saber
+ 
+
+408
+00:09:03,370 --> 00:09:06,030
+la descripción si quieres saber
+más sobre cómo convertirte en patrocinador si
+
+409
+00:09:06,030 --> 00:09:06,040
+más sobre cómo convertirte en patrocinador si
+ 
+
+410
+00:09:06,040 --> 00:09:07,379
+más sobre cómo convertirte en patrocinador si
+quieres apoyar este canal y
+
+411
+00:09:07,379 --> 00:09:07,389
+quieres apoyar este canal y
+ 
+
+412
+00:09:07,389 --> 00:09:09,210
+quieres apoyar este canal y
+ayudarlo a crecer la forma más fácil de hacerlo
+
+413
+00:09:09,210 --> 00:09:09,220
+ayudarlo a crecer la forma más fácil de hacerlo
+ 
+
+414
+00:09:09,220 --> 00:09:12,090
+ayudarlo a crecer la forma más fácil de hacerlo
+es suscribiéndote y haciendo clic en el
+
+415
+00:09:12,090 --> 00:09:12,100
+es suscribiéndote y haciendo clic en el
+ 
+
+416
+00:09:12,100 --> 00:09:14,430
+es suscribiéndote y haciendo clic en el
+ícono de la campana para que te notifiquen cuando se publiquen nuevos videos
+
+417
+00:09:14,430 --> 00:09:14,440
+ícono de la campana para que te notifiquen cuando se publiquen nuevos videos
+ 
+
+418
+00:09:14,440 --> 00:09:17,069
+ícono de la campana para que te notifiquen cuando se publiquen nuevos videos
+y siempre podemos comunicarnos a
+
+419
+00:09:17,069 --> 00:09:17,079
+y siempre podemos comunicarnos a
+ 
+
+420
+00:09:17,079 --> 00:09:18,360
+y siempre podemos comunicarnos a
+través de nuestras páginas de Twitter y Facebook
+
+421
+00:09:18,360 --> 00:09:18,370
+través de nuestras páginas de Twitter y Facebook
+ 
+
+422
+00:09:18,370 --> 00:09:21,480
+través de nuestras páginas de Twitter y Facebook
+también gracias por ver cuídate y nos
+
+423
+00:09:21,480 --> 00:09:21,490
+también gracias por ver cuídate y nos
+ 
+
+424
+00:09:21,490 --> 00:09:23,280
+también gracias por ver cuídate y nos
+veremos pronto con más conceptos básicos de
+
+425
+00:09:23,280 --> 00:09:23,290
+veremos pronto con más conceptos básicos de
+ 
+
+426
+00:09:23,290 --> 00:09:25,920
+veremos pronto con más conceptos básicos de
+Pathfinder
+

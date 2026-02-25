@@ -1,0 +1,1665 @@
+1
+00:00:00,160 --> 00:00:05,110
+
+[Music]
+
+2
+00:00:05,110 --> 00:00:05,120
+
+ 
+
+3
+00:00:05,120 --> 00:00:06,909
+
+hey everybody Dave here with another
+
+4
+00:00:06,909 --> 00:00:06,919
+hey everybody Dave here with another
+ 
+
+5
+00:00:06,919 --> 00:00:08,990
+hey everybody Dave here with another
+Pathfinder rule REM reminder for you and
+
+6
+00:00:08,990 --> 00:00:09,000
+Pathfinder rule REM reminder for you and
+ 
+
+7
+00:00:09,000 --> 00:00:10,589
+Pathfinder rule REM reminder for you and
+today we're going to be talking about
+
+8
+00:00:10,589 --> 00:00:10,599
+today we're going to be talking about
+ 
+
+9
+00:00:10,599 --> 00:00:13,829
+today we're going to be talking about
+crafting tattoos I recently put out a
+
+10
+00:00:13,829 --> 00:00:13,839
+crafting tattoos I recently put out a
+ 
+
+11
+00:00:13,839 --> 00:00:16,550
+crafting tattoos I recently put out a
+video a a second part of a series this
+
+12
+00:00:16,550 --> 00:00:16,560
+video a a second part of a series this
+ 
+
+13
+00:00:16,560 --> 00:00:19,910
+video a a second part of a series this
+is looking at the remastered crafting
+
+14
+00:00:19,910 --> 00:00:19,920
+is looking at the remastered crafting
+ 
+
+15
+00:00:19,920 --> 00:00:22,150
+is looking at the remastered crafting
+rules and that second video was all
+
+16
+00:00:22,150 --> 00:00:22,160
+rules and that second video was all
+ 
+
+17
+00:00:22,160 --> 00:00:24,790
+rules and that second video was all
+about crafting magic items but one
+
+18
+00:00:24,790 --> 00:00:24,800
+about crafting magic items but one
+ 
+
+19
+00:00:24,800 --> 00:00:27,550
+about crafting magic items but one
+specific type of magic item that was
+
+20
+00:00:27,550 --> 00:00:27,560
+specific type of magic item that was
+ 
+
+21
+00:00:27,560 --> 00:00:30,029
+specific type of magic item that was
+missing from that video and that folks
+
+22
+00:00:30,029 --> 00:00:30,039
+missing from that video and that folks
+ 
+
+23
+00:00:30,039 --> 00:00:32,510
+missing from that video and that folks
+the comments uh pointed out was crafting
+
+24
+00:00:32,510 --> 00:00:32,520
+the comments uh pointed out was crafting
+ 
+
+25
+00:00:32,520 --> 00:00:35,389
+the comments uh pointed out was crafting
+magical tattoos so I just wanted to make
+
+26
+00:00:35,389 --> 00:00:35,399
+magical tattoos so I just wanted to make
+ 
+
+27
+00:00:35,399 --> 00:00:37,549
+magical tattoos so I just wanted to make
+a a another video to very briefly go
+
+28
+00:00:37,549 --> 00:00:37,559
+a a another video to very briefly go
+ 
+
+29
+00:00:37,559 --> 00:00:39,869
+a a another video to very briefly go
+over what those rules are now before I
+
+30
+00:00:39,869 --> 00:00:39,879
+over what those rules are now before I
+ 
+
+31
+00:00:39,879 --> 00:00:41,869
+over what those rules are now before I
+get into this I should say that uh the
+
+32
+00:00:41,869 --> 00:00:41,879
+get into this I should say that uh the
+ 
+
+33
+00:00:41,879 --> 00:00:44,630
+get into this I should say that uh the
+reason why uh magical tattoos were not
+
+34
+00:00:44,630 --> 00:00:44,640
+reason why uh magical tattoos were not
+ 
+
+35
+00:00:44,640 --> 00:00:46,830
+reason why uh magical tattoos were not
+included in that previous video even
+
+36
+00:00:46,830 --> 00:00:46,840
+included in that previous video even
+ 
+
+37
+00:00:46,840 --> 00:00:49,029
+included in that previous video even
+though they are a type of magical item
+
+38
+00:00:49,029 --> 00:00:49,039
+though they are a type of magical item
+ 
+
+39
+00:00:49,039 --> 00:00:51,990
+though they are a type of magical item
+is because the new remaster books make
+
+40
+00:00:51,990 --> 00:00:52,000
+is because the new remaster books make
+ 
+
+41
+00:00:52,000 --> 00:00:54,510
+is because the new remaster books make
+no mention of tattoos in them and I was
+
+42
+00:00:54,510 --> 00:00:54,520
+no mention of tattoos in them and I was
+ 
+
+43
+00:00:54,520 --> 00:00:56,869
+no mention of tattoos in them and I was
+following those books so what I'm
+
+44
+00:00:56,869 --> 00:00:56,879
+following those books so what I'm
+ 
+
+45
+00:00:56,879 --> 00:01:00,549
+following those books so what I'm
+sharing today is the version of of the
+
+46
+00:01:00,549 --> 00:01:00,559
+sharing today is the version of of the
+ 
+
+47
+00:01:00,559 --> 00:01:04,030
+sharing today is the version of of the
+tattoo crafting rules as they exist in
+
+48
+00:01:04,030 --> 00:01:04,040
+tattoo crafting rules as they exist in
+ 
+
+49
+00:01:04,040 --> 00:01:06,789
+tattoo crafting rules as they exist in
+the Legacy Edition and we can all pretty
+
+50
+00:01:06,789 --> 00:01:06,799
+the Legacy Edition and we can all pretty
+ 
+
+51
+00:01:06,799 --> 00:01:08,870
+the Legacy Edition and we can all pretty
+much assume at least for now that this
+
+52
+00:01:08,870 --> 00:01:08,880
+much assume at least for now that this
+ 
+
+53
+00:01:08,880 --> 00:01:10,830
+much assume at least for now that this
+is the way that they work uh in the
+
+54
+00:01:10,830 --> 00:01:10,840
+is the way that they work uh in the
+ 
+
+55
+00:01:10,840 --> 00:01:14,310
+is the way that they work uh in the
+remaster version as well unless at some
+
+56
+00:01:14,310 --> 00:01:14,320
+remaster version as well unless at some
+ 
+
+57
+00:01:14,320 --> 00:01:16,270
+remaster version as well unless at some
+point they do go back and make a
+
+58
+00:01:16,270 --> 00:01:16,280
+point they do go back and make a
+ 
+
+59
+00:01:16,280 --> 00:01:20,310
+point they do go back and make a
+specific change to to state otherwise so
+
+60
+00:01:20,310 --> 00:01:20,320
+specific change to to state otherwise so
+ 
+
+61
+00:01:20,320 --> 00:01:22,950
+specific change to to state otherwise so
+magical tattoos are again they're type
+
+62
+00:01:22,950 --> 00:01:22,960
+magical tattoos are again they're type
+ 
+
+63
+00:01:22,960 --> 00:01:24,789
+magical tattoos are again they're type
+of type of magic item they are are
+
+64
+00:01:24,789 --> 00:01:24,799
+of type of magic item they are are
+ 
+
+65
+00:01:24,799 --> 00:01:28,670
+of type of magic item they are are
+mechanically speaking magic items but
+
+66
+00:01:28,670 --> 00:01:28,680
+mechanically speaking magic items but
+ 
+
+67
+00:01:28,680 --> 00:01:30,510
+mechanically speaking magic items but
+they have the tattoo TR trait and that
+
+68
+00:01:30,510 --> 00:01:30,520
+they have the tattoo TR trait and that
+ 
+
+69
+00:01:30,520 --> 00:01:32,749
+they have the tattoo TR trait and that
+tattoo trait does handle things a little
+
+70
+00:01:32,749 --> 00:01:32,759
+tattoo trait does handle things a little
+ 
+
+71
+00:01:32,759 --> 00:01:34,830
+tattoo trait does handle things a little
+differently than some other magic items
+
+72
+00:01:34,830 --> 00:01:34,840
+differently than some other magic items
+ 
+
+73
+00:01:34,840 --> 00:01:37,910
+differently than some other magic items
+you can basically think of them as uh
+
+74
+00:01:37,910 --> 00:01:37,920
+you can basically think of them as uh
+ 
+
+75
+00:01:37,920 --> 00:01:41,230
+you can basically think of them as uh
+worn magic items that are just
+
+76
+00:01:41,230 --> 00:01:41,240
+worn magic items that are just
+ 
+
+77
+00:01:41,240 --> 00:01:43,870
+worn magic items that are just
+impossible or extremely difficult to uh
+
+78
+00:01:43,870 --> 00:01:43,880
+impossible or extremely difficult to uh
+ 
+
+79
+00:01:43,880 --> 00:01:46,709
+impossible or extremely difficult to uh
+to remove or disarm from you they're
+
+80
+00:01:46,709 --> 00:01:46,719
+to remove or disarm from you they're
+ 
+
+81
+00:01:46,719 --> 00:01:49,910
+to remove or disarm from you they're
+like permanent worn items and as such
+
+82
+00:01:49,910 --> 00:01:49,920
+like permanent worn items and as such
+ 
+
+83
+00:01:49,920 --> 00:01:52,990
+like permanent worn items and as such
+they do need to be invested however the
+
+84
+00:01:52,990 --> 00:01:53,000
+they do need to be invested however the
+ 
+
+85
+00:01:53,000 --> 00:01:55,749
+they do need to be invested however the
+mechanism for investing them is a little
+
+86
+00:01:55,749 --> 00:01:55,759
+mechanism for investing them is a little
+ 
+
+87
+00:01:55,759 --> 00:01:58,789
+mechanism for investing them is a little
+different um mechanically speaking what
+
+88
+00:01:58,789 --> 00:01:58,799
+different um mechanically speaking what
+ 
+
+89
+00:01:58,799 --> 00:02:01,109
+different um mechanically speaking what
+they do is they look lower the maximum
+
+90
+00:02:01,109 --> 00:02:01,119
+they do is they look lower the maximum
+ 
+
+91
+00:02:01,119 --> 00:02:05,270
+they do is they look lower the maximum
+number of items you can invest by one
+
+92
+00:02:05,270 --> 00:02:05,280
+number of items you can invest by one
+ 
+
+93
+00:02:05,280 --> 00:02:07,230
+number of items you can invest by one
+and that distinction is important
+
+94
+00:02:07,230 --> 00:02:07,240
+and that distinction is important
+ 
+
+95
+00:02:07,240 --> 00:02:10,749
+and that distinction is important
+because the user then does not choose
+
+96
+00:02:10,749 --> 00:02:10,759
+because the user then does not choose
+ 
+
+97
+00:02:10,759 --> 00:02:12,430
+because the user then does not choose
+whether or not they want to invest a
+
+98
+00:02:12,430 --> 00:02:12,440
+whether or not they want to invest a
+ 
+
+99
+00:02:12,440 --> 00:02:15,670
+whether or not they want to invest a
+tattoo or basically turn them on or off
+
+100
+00:02:15,670 --> 00:02:15,680
+tattoo or basically turn them on or off
+ 
+
+101
+00:02:15,680 --> 00:02:17,830
+tattoo or basically turn them on or off
+once the tattooing is complete the
+
+102
+00:02:17,830 --> 00:02:17,840
+once the tattooing is complete the
+ 
+
+103
+00:02:17,840 --> 00:02:20,589
+once the tattooing is complete the
+tattoo has been crafted on a person they
+
+104
+00:02:20,589 --> 00:02:20,599
+tattoo has been crafted on a person they
+ 
+
+105
+00:02:20,599 --> 00:02:23,790
+tattoo has been crafted on a person they
+are active and they lower the amount of
+
+106
+00:02:23,790 --> 00:02:23,800
+are active and they lower the amount of
+ 
+
+107
+00:02:23,800 --> 00:02:26,589
+are active and they lower the amount of
+items you can invest by one as opposed
+
+108
+00:02:26,589 --> 00:02:26,599
+items you can invest by one as opposed
+ 
+
+109
+00:02:26,599 --> 00:02:30,630
+items you can invest by one as opposed
+to Counting as uh their own regular
+
+110
+00:02:30,630 --> 00:02:30,640
+to Counting as uh their own regular
+ 
+
+111
+00:02:30,640 --> 00:02:33,190
+to Counting as uh their own regular
+invested items but other than that
+
+112
+00:02:33,190 --> 00:02:33,200
+invested items but other than that
+ 
+
+113
+00:02:33,200 --> 00:02:35,350
+invested items but other than that
+they're going to function very similar
+
+114
+00:02:35,350 --> 00:02:35,360
+they're going to function very similar
+ 
+
+115
+00:02:35,360 --> 00:02:38,309
+they're going to function very similar
+to other magic items but crafting is
+
+116
+00:02:38,309 --> 00:02:38,319
+to other magic items but crafting is
+ 
+
+117
+00:02:38,319 --> 00:02:40,350
+to other magic items but crafting is
+different so the crafting rules for
+
+118
+00:02:40,350 --> 00:02:40,360
+different so the crafting rules for
+ 
+
+119
+00:02:40,360 --> 00:02:44,509
+different so the crafting rules for
+Magical tattoos can be found on page 164
+
+120
+00:02:44,509 --> 00:02:44,519
+Magical tattoos can be found on page 164
+ 
+
+121
+00:02:44,519 --> 00:02:48,149
+Magical tattoos can be found on page 164
+of the secrets of magic book and there
+
+122
+00:02:48,149 --> 00:02:48,159
+of the secrets of magic book and there
+ 
+
+123
+00:02:48,159 --> 00:02:50,190
+of the secrets of magic book and there
+you'll find a section that reads as
+
+124
+00:02:50,190 --> 00:02:50,200
+you'll find a section that reads as
+ 
+
+125
+00:02:50,200 --> 00:02:54,149
+you'll find a section that reads as
+follows to craft a magical tattoo you
+
+126
+00:02:54,149 --> 00:02:54,159
+follows to craft a magical tattoo you
+ 
+
+127
+00:02:54,159 --> 00:02:57,149
+follows to craft a magical tattoo you
+must be able to craft magic items and
+
+128
+00:02:57,149 --> 00:02:57,159
+must be able to craft magic items and
+ 
+
+129
+00:02:57,159 --> 00:03:00,430
+must be able to craft magic items and
+have a specialty in tattooing you can
+
+130
+00:03:00,430 --> 00:03:00,440
+have a specialty in tattooing you can
+ 
+
+131
+00:03:00,440 --> 00:03:02,869
+have a specialty in tattooing you can
+attain these requirements by taking the
+
+132
+00:03:02,869 --> 00:03:02,879
+attain these requirements by taking the
+ 
+
+133
+00:03:02,879 --> 00:03:06,270
+attain these requirements by taking the
+tattoo artist skill feet below or you
+
+134
+00:03:06,270 --> 00:03:06,280
+tattoo artist skill feet below or you
+ 
+
+135
+00:03:06,280 --> 00:03:09,949
+tattoo artist skill feet below or you
+can take both the magical crafting and
+
+136
+00:03:09,949 --> 00:03:09,959
+can take both the magical crafting and
+ 
+
+137
+00:03:09,959 --> 00:03:12,710
+can take both the magical crafting and
+Specialty crafting skill Feats choosing
+
+138
+00:03:12,710 --> 00:03:12,720
+Specialty crafting skill Feats choosing
+ 
+
+139
+00:03:12,720 --> 00:03:14,789
+Specialty crafting skill Feats choosing
+Artistry as your
+
+140
+00:03:14,789 --> 00:03:14,799
+Artistry as your
+ 
+
+141
+00:03:14,799 --> 00:03:19,309
+Artistry as your
+specialty so even though tattoos are
+
+142
+00:03:19,309 --> 00:03:19,319
+specialty so even though tattoos are
+ 
+
+143
+00:03:19,319 --> 00:03:22,670
+specialty so even though tattoos are
+magic items they don't fall under the
+
+144
+00:03:22,670 --> 00:03:22,680
+magic items they don't fall under the
+ 
+
+145
+00:03:22,680 --> 00:03:24,869
+magic items they don't fall under the
+general umbrella of other magic items
+
+146
+00:03:24,869 --> 00:03:24,879
+general umbrella of other magic items
+ 
+
+147
+00:03:24,879 --> 00:03:26,630
+general umbrella of other magic items
+where you only need the magical crafting
+
+148
+00:03:26,630 --> 00:03:26,640
+where you only need the magical crafting
+ 
+
+149
+00:03:26,640 --> 00:03:30,190
+where you only need the magical crafting
+feed in order to craft tattoos
+
+150
+00:03:30,190 --> 00:03:30,200
+feed in order to craft tattoos
+ 
+
+151
+00:03:30,200 --> 00:03:33,910
+feed in order to craft tattoos
+you need either the magical crafting
+
+152
+00:03:33,910 --> 00:03:33,920
+you need either the magical crafting
+ 
+
+153
+00:03:33,920 --> 00:03:36,910
+you need either the magical crafting
+feat and the specialty feat where you
+
+154
+00:03:36,910 --> 00:03:36,920
+feat and the specialty feat where you
+ 
+
+155
+00:03:36,920 --> 00:03:38,630
+feat and the specialty feat where you
+specialize in
+
+156
+00:03:38,630 --> 00:03:38,640
+specialize in
+ 
+
+157
+00:03:38,640 --> 00:03:42,710
+specialize in
+Artistry or you can take only the tattoo
+
+158
+00:03:42,710 --> 00:03:42,720
+Artistry or you can take only the tattoo
+ 
+
+159
+00:03:42,720 --> 00:03:45,710
+Artistry or you can take only the tattoo
+artist feet and basically what that
+
+160
+00:03:45,710 --> 00:03:45,720
+artist feet and basically what that
+ 
+
+161
+00:03:45,720 --> 00:03:49,030
+artist feet and basically what that
+means is you have the ability to craft
+
+162
+00:03:49,030 --> 00:03:49,040
+means is you have the ability to craft
+ 
+
+163
+00:03:49,040 --> 00:03:53,509
+means is you have the ability to craft
+create ink a magical tattoo but no other
+
+164
+00:03:53,509 --> 00:03:53,519
+create ink a magical tattoo but no other
+ 
+
+165
+00:03:53,519 --> 00:03:56,270
+create ink a magical tattoo but no other
+magic items so basically for one feet
+
+166
+00:03:56,270 --> 00:03:56,280
+magic items so basically for one feet
+ 
+
+167
+00:03:56,280 --> 00:03:58,869
+magic items so basically for one feet
+you can specialize in uh in magical
+
+168
+00:03:58,869 --> 00:03:58,879
+you can specialize in uh in magical
+ 
+
+169
+00:03:58,879 --> 00:04:02,670
+you can specialize in uh in magical
+tattoos and you'll get a uh at minimum a
+
+170
+00:04:02,670 --> 00:04:02,680
+tattoos and you'll get a uh at minimum a
+ 
+
+171
+00:04:02,680 --> 00:04:06,030
+tattoos and you'll get a uh at minimum a
+plus one bonus to crafting those tattoos
+
+172
+00:04:06,030 --> 00:04:06,040
+plus one bonus to crafting those tattoos
+ 
+
+173
+00:04:06,040 --> 00:04:07,910
+plus one bonus to crafting those tattoos
+but it does not give you the ability to
+
+174
+00:04:07,910 --> 00:04:07,920
+but it does not give you the ability to
+ 
+
+175
+00:04:07,920 --> 00:04:11,509
+but it does not give you the ability to
+craft any other magic items or the other
+
+176
+00:04:11,509 --> 00:04:11,519
+craft any other magic items or the other
+ 
+
+177
+00:04:11,519 --> 00:04:13,550
+craft any other magic items or the other
+path is you take the magical crafting
+
+178
+00:04:13,550 --> 00:04:13,560
+path is you take the magical crafting
+ 
+
+179
+00:04:13,560 --> 00:04:16,830
+path is you take the magical crafting
+feat which will let you create and craft
+
+180
+00:04:16,830 --> 00:04:16,840
+feat which will let you create and craft
+ 
+
+181
+00:04:16,840 --> 00:04:20,349
+feat which will let you create and craft
+you magic swords magic runes magic hats
+
+182
+00:04:20,349 --> 00:04:20,359
+you magic swords magic runes magic hats
+ 
+
+183
+00:04:20,359 --> 00:04:22,950
+you magic swords magic runes magic hats
+magic flying carpets magic bags magic
+
+184
+00:04:22,950 --> 00:04:22,960
+magic flying carpets magic bags magic
+ 
+
+185
+00:04:22,960 --> 00:04:26,510
+magic flying carpets magic bags magic
+Scrolls all that stuff and then have to
+
+186
+00:04:26,510 --> 00:04:26,520
+Scrolls all that stuff and then have to
+ 
+
+187
+00:04:26,520 --> 00:04:30,510
+Scrolls all that stuff and then have to
+also take the specialty crafting feet in
+
+188
+00:04:30,510 --> 00:04:30,520
+also take the specialty crafting feet in
+ 
+
+189
+00:04:30,520 --> 00:04:34,070
+also take the specialty crafting feet in
+in in addition to that in order to craft
+
+190
+00:04:34,070 --> 00:04:34,080
+in in addition to that in order to craft
+ 
+
+191
+00:04:34,080 --> 00:04:38,629
+in in addition to that in order to craft
+uh magical tattoos now why magic tattoos
+
+192
+00:04:38,629 --> 00:04:38,639
+uh magical tattoos now why magic tattoos
+ 
+
+193
+00:04:38,639 --> 00:04:42,430
+uh magical tattoos now why magic tattoos
+are treated differently than everything
+
+194
+00:04:42,430 --> 00:04:42,440
+are treated differently than everything
+ 
+
+195
+00:04:42,440 --> 00:04:45,189
+are treated differently than everything
+else and all the other magical items I
+
+196
+00:04:45,189 --> 00:04:45,199
+else and all the other magical items I
+ 
+
+197
+00:04:45,199 --> 00:04:48,230
+else and all the other magical items I
+don't know um if you have insight to
+
+198
+00:04:48,230 --> 00:04:48,240
+don't know um if you have insight to
+ 
+
+199
+00:04:48,240 --> 00:04:50,469
+don't know um if you have insight to
+this or you you have an idea please let
+
+200
+00:04:50,469 --> 00:04:50,479
+this or you you have an idea please let
+ 
+
+201
+00:04:50,479 --> 00:04:52,430
+this or you you have an idea please let
+me know in the comments it does seem odd
+
+202
+00:04:52,430 --> 00:04:52,440
+me know in the comments it does seem odd
+ 
+
+203
+00:04:52,440 --> 00:04:55,189
+me know in the comments it does seem odd
+to me that uh the magical crafting feat
+
+204
+00:04:55,189 --> 00:04:55,199
+to me that uh the magical crafting feat
+ 
+
+205
+00:04:55,199 --> 00:04:57,029
+to me that uh the magical crafting feat
+is a blanket feat that will let you do
+
+206
+00:04:57,029 --> 00:04:57,039
+is a blanket feat that will let you do
+ 
+
+207
+00:04:57,039 --> 00:04:58,469
+is a blanket feat that will let you do
+all those things I previously mentioned
+
+208
+00:04:58,469 --> 00:04:58,479
+all those things I previously mentioned
+ 
+
+209
+00:04:58,479 --> 00:05:03,909
+all those things I previously mentioned
+Scrolls ones swords armor uh gemstones
+
+210
+00:05:03,909 --> 00:05:03,919
+Scrolls ones swords armor uh gemstones
+ 
+
+211
+00:05:03,919 --> 00:05:06,350
+Scrolls ones swords armor uh gemstones
+magic bags just you can create
+
+212
+00:05:06,350 --> 00:05:06,360
+magic bags just you can create
+ 
+
+213
+00:05:06,360 --> 00:05:09,270
+magic bags just you can create
+everything with that except tattoos
+
+214
+00:05:09,270 --> 00:05:09,280
+everything with that except tattoos
+ 
+
+215
+00:05:09,280 --> 00:05:11,150
+everything with that except tattoos
+tattoos are special we're going to
+
+216
+00:05:11,150 --> 00:05:11,160
+tattoos are special we're going to
+ 
+
+217
+00:05:11,160 --> 00:05:14,310
+tattoos are special we're going to
+separate those out and make you take a
+
+218
+00:05:14,310 --> 00:05:14,320
+separate those out and make you take a
+ 
+
+219
+00:05:14,320 --> 00:05:17,350
+separate those out and make you take a
+uh a second feed if you want to do those
+
+220
+00:05:17,350 --> 00:05:17,360
+uh a second feed if you want to do those
+ 
+
+221
+00:05:17,360 --> 00:05:19,670
+uh a second feed if you want to do those
+now I understand in the real
+
+222
+00:05:19,670 --> 00:05:19,680
+now I understand in the real
+ 
+
+223
+00:05:19,680 --> 00:05:22,629
+now I understand in the real
+world the Artistry involved in in
+
+224
+00:05:22,629 --> 00:05:22,639
+world the Artistry involved in in
+ 
+
+225
+00:05:22,639 --> 00:05:24,909
+world the Artistry involved in in
+drawing and ining a tattoo is radically
+
+226
+00:05:24,909 --> 00:05:24,919
+drawing and ining a tattoo is radically
+ 
+
+227
+00:05:24,919 --> 00:05:28,350
+drawing and ining a tattoo is radically
+different than blacksmithing a suit of
+
+228
+00:05:28,350 --> 00:05:28,360
+different than blacksmithing a suit of
+ 
+
+229
+00:05:28,360 --> 00:05:31,350
+different than blacksmithing a suit of
+armor um but mechanically within
+
+230
+00:05:31,350 --> 00:05:31,360
+armor um but mechanically within
+ 
+
+231
+00:05:31,360 --> 00:05:33,510
+armor um but mechanically within
+Pathfinder second edition they've
+
+232
+00:05:33,510 --> 00:05:33,520
+Pathfinder second edition they've
+ 
+
+233
+00:05:33,520 --> 00:05:35,350
+Pathfinder second edition they've
+largely said we we don't want to get
+
+234
+00:05:35,350 --> 00:05:35,360
+largely said we we don't want to get
+ 
+
+235
+00:05:35,360 --> 00:05:37,350
+largely said we we don't want to get
+involved in a million different Feats
+
+236
+00:05:37,350 --> 00:05:37,360
+involved in a million different Feats
+ 
+
+237
+00:05:37,360 --> 00:05:39,830
+involved in a million different Feats
+for a million different uh a million
+
+238
+00:05:39,830 --> 00:05:39,840
+for a million different uh a million
+ 
+
+239
+00:05:39,840 --> 00:05:41,230
+for a million different uh a million
+different ways to craft we're just going
+
+240
+00:05:41,230 --> 00:05:41,240
+different ways to craft we're just going
+ 
+
+241
+00:05:41,240 --> 00:05:42,830
+different ways to craft we're just going
+to have one crafting skill we going to
+
+242
+00:05:42,830 --> 00:05:42,840
+to have one crafting skill we going to
+ 
+
+243
+00:05:42,840 --> 00:05:45,070
+to have one crafting skill we going to
+have one you know basically three
+
+244
+00:05:45,070 --> 00:05:45,080
+have one you know basically three
+ 
+
+245
+00:05:45,080 --> 00:05:48,270
+have one you know basically three
+crafting Feats uh you if they're
+
+246
+00:05:48,270 --> 00:05:48,280
+crafting Feats uh you if they're
+ 
+
+247
+00:05:48,280 --> 00:05:50,390
+crafting Feats uh you if they're
+breaking out magic items and a chemical
+
+248
+00:05:50,390 --> 00:05:50,400
+breaking out magic items and a chemical
+ 
+
+249
+00:05:50,400 --> 00:05:51,510
+breaking out magic items and a chemical
+crafting and
+
+250
+00:05:51,510 --> 00:05:51,520
+crafting and
+ 
+
+251
+00:05:51,520 --> 00:05:55,390
+crafting and
+snares um it just seems weird to me that
+
+252
+00:05:55,390 --> 00:05:55,400
+snares um it just seems weird to me that
+ 
+
+253
+00:05:55,400 --> 00:05:57,629
+snares um it just seems weird to me that
+tattooing wouldn't just be under the
+
+254
+00:05:57,629 --> 00:05:57,639
+tattooing wouldn't just be under the
+ 
+
+255
+00:05:57,639 --> 00:06:01,550
+tattooing wouldn't just be under the
+umbrella of um of other magic items for
+
+256
+00:06:01,550 --> 00:06:01,560
+umbrella of um of other magic items for
+ 
+
+257
+00:06:01,560 --> 00:06:03,870
+umbrella of um of other magic items for
+the sake of Simplicity in this more
+
+258
+00:06:03,870 --> 00:06:03,880
+the sake of Simplicity in this more
+ 
+
+259
+00:06:03,880 --> 00:06:06,990
+the sake of Simplicity in this more
+simplified rule system but uh that's the
+
+260
+00:06:06,990 --> 00:06:07,000
+simplified rule system but uh that's the
+ 
+
+261
+00:06:07,000 --> 00:06:09,430
+simplified rule system but uh that's the
+way it works if you want to craft a
+
+262
+00:06:09,430 --> 00:06:09,440
+way it works if you want to craft a
+ 
+
+263
+00:06:09,440 --> 00:06:12,510
+way it works if you want to craft a
+magical tattoo uh is going to work the
+
+264
+00:06:12,510 --> 00:06:12,520
+magical tattoo uh is going to work the
+ 
+
+265
+00:06:12,520 --> 00:06:14,950
+magical tattoo uh is going to work the
+same as crafting any other magic item
+
+266
+00:06:14,950 --> 00:06:14,960
+same as crafting any other magic item
+ 
+
+267
+00:06:14,960 --> 00:06:19,309
+same as crafting any other magic item
+you're going to either need the formula
+
+268
+00:06:19,309 --> 00:06:19,319
+you're going to either need the formula
+ 
+
+269
+00:06:19,319 --> 00:06:22,150
+you're going to either need the formula
+for the type of magical tattoo you're
+
+270
+00:06:22,150 --> 00:06:22,160
+for the type of magical tattoo you're
+ 
+
+271
+00:06:22,160 --> 00:06:25,029
+for the type of magical tattoo you're
+going to be inking or you're going to
+
+272
+00:06:25,029 --> 00:06:25,039
+going to be inking or you're going to
+ 
+
+273
+00:06:25,039 --> 00:06:27,710
+going to be inking or you're going to
+need to be working off a copy of it if
+
+274
+00:06:27,710 --> 00:06:27,720
+need to be working off a copy of it if
+ 
+
+275
+00:06:27,720 --> 00:06:29,830
+need to be working off a copy of it if
+you have the formula uh in the remaster
+
+276
+00:06:29,830 --> 00:06:29,840
+you have the formula uh in the remaster
+ 
+
+277
+00:06:29,840 --> 00:06:31,270
+you have the formula uh in the remaster
+edition if you have the formula that's
+
+278
+00:06:31,270 --> 00:06:31,280
+edition if you have the formula that's
+ 
+
+279
+00:06:31,280 --> 00:06:33,870
+edition if you have the formula that's
+going to reduce the time required to
+
+280
+00:06:33,870 --> 00:06:33,880
+going to reduce the time required to
+ 
+
+281
+00:06:33,880 --> 00:06:38,510
+going to reduce the time required to
+only one day uh minimum um may go longer
+
+282
+00:06:38,510 --> 00:06:38,520
+only one day uh minimum um may go longer
+ 
+
+283
+00:06:38,520 --> 00:06:40,670
+only one day uh minimum um may go longer
+as usual after that first day you're
+
+284
+00:06:40,670 --> 00:06:40,680
+as usual after that first day you're
+ 
+
+285
+00:06:40,680 --> 00:06:42,830
+as usual after that first day you're
+going to buy out the balance you put 50%
+
+286
+00:06:42,830 --> 00:06:42,840
+going to buy out the balance you put 50%
+ 
+
+287
+00:06:42,840 --> 00:06:45,870
+going to buy out the balance you put 50%
+of the cost uh on day one and then at
+
+288
+00:06:45,870 --> 00:06:45,880
+of the cost uh on day one and then at
+ 
+
+289
+00:06:45,880 --> 00:06:47,150
+of the cost uh on day one and then at
+the end of day one you can either pay
+
+290
+00:06:47,150 --> 00:06:47,160
+the end of day one you can either pay
+ 
+
+291
+00:06:47,160 --> 00:06:49,430
+the end of day one you can either pay
+off the other 50% or work for another
+
+292
+00:06:49,430 --> 00:06:49,440
+off the other 50% or work for another
+ 
+
+293
+00:06:49,440 --> 00:06:52,189
+off the other 50% or work for another
+additional day or further lowering the
+
+294
+00:06:52,189 --> 00:06:52,199
+additional day or further lowering the
+ 
+
+295
+00:06:52,199 --> 00:06:54,390
+additional day or further lowering the
+balance required by the am the amount
+
+296
+00:06:54,390 --> 00:06:54,400
+balance required by the am the amount
+ 
+
+297
+00:06:54,400 --> 00:06:56,830
+balance required by the am the amount
+found on the um on an income table if
+
+298
+00:06:56,830 --> 00:06:56,840
+found on the um on an income table if
+ 
+
+299
+00:06:56,840 --> 00:06:59,430
+found on the um on an income table if
+any of that sounds weird or unfamiliar
+
+300
+00:06:59,430 --> 00:06:59,440
+any of that sounds weird or unfamiliar
+ 
+
+301
+00:06:59,440 --> 00:07:01,990
+any of that sounds weird or unfamiliar
+check out my other videos about crafting
+
+302
+00:07:01,990 --> 00:07:02,000
+check out my other videos about crafting
+ 
+
+303
+00:07:02,000 --> 00:07:04,150
+check out my other videos about crafting
+that go over the U the general crafting
+
+304
+00:07:04,150 --> 00:07:04,160
+that go over the U the general crafting
+ 
+
+305
+00:07:04,160 --> 00:07:07,390
+that go over the U the general crafting
+rules but uh that's it for for today if
+
+306
+00:07:07,390 --> 00:07:07,400
+rules but uh that's it for for today if
+ 
+
+307
+00:07:07,400 --> 00:07:09,830
+rules but uh that's it for for today if
+you have any questions about crafting
+
+308
+00:07:09,830 --> 00:07:09,840
+you have any questions about crafting
+ 
+
+309
+00:07:09,840 --> 00:07:12,469
+you have any questions about crafting
+magical tattoos please leave them in the
+
+310
+00:07:12,469 --> 00:07:12,479
+magical tattoos please leave them in the
+ 
+
+311
+00:07:12,479 --> 00:07:14,430
+magical tattoos please leave them in the
+comments below and as always I want to
+
+312
+00:07:14,430 --> 00:07:14,440
+comments below and as always I want to
+ 
+
+313
+00:07:14,440 --> 00:07:15,469
+comments below and as always I want to
+take a moment to say thank you to
+
+314
+00:07:15,469 --> 00:07:15,479
+take a moment to say thank you to
+ 
+
+315
+00:07:15,479 --> 00:07:16,990
+take a moment to say thank you to
+everybody out there who supports me in
+
+316
+00:07:16,990 --> 00:07:17,000
+everybody out there who supports me in
+ 
+
+317
+00:07:17,000 --> 00:07:18,629
+everybody out there who supports me in
+this channel whether that's by clicking
+
+318
+00:07:18,629 --> 00:07:18,639
+this channel whether that's by clicking
+ 
+
+319
+00:07:18,639 --> 00:07:20,029
+this channel whether that's by clicking
+the like button subscribing to the
+
+320
+00:07:20,029 --> 00:07:20,039
+the like button subscribing to the
+ 
+
+321
+00:07:20,039 --> 00:07:21,510
+the like button subscribing to the
+channel subscribing to the patreon
+
+322
+00:07:21,510 --> 00:07:21,520
+channel subscribing to the patreon
+ 
+
+323
+00:07:21,520 --> 00:07:23,270
+channel subscribing to the patreon
+leaving your comments and questions and
+
+324
+00:07:23,270 --> 00:07:23,280
+leaving your comments and questions and
+ 
+
+325
+00:07:23,280 --> 00:07:25,469
+leaving your comments and questions and
+suggestions I appreciate everything you
+
+326
+00:07:25,469 --> 00:07:25,479
+suggestions I appreciate everything you
+ 
+
+327
+00:07:25,479 --> 00:07:27,790
+suggestions I appreciate everything you
+folks do to support me so thanks for
+
+328
+00:07:27,790 --> 00:07:27,800
+folks do to support me so thanks for
+ 
+
+329
+00:07:27,800 --> 00:07:29,840
+folks do to support me so thanks for
+watching take care and happy
+
+330
+00:07:29,840 --> 00:07:29,850
+watching take care and happy
+ 
+
+331
+00:07:29,850 --> 00:07:44,869
+watching take care and happy
+[Music]
+
+332
+00:07:44,869 --> 00:07:44,879
+
+ 
+
+333
+00:07:44,879 --> 00:07:47,879
+
+G
+

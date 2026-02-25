@@ -1,0 +1,3655 @@
+1
+00:00:01,040 --> 00:00:02,950
+
+this video is brought to you by three
+
+2
+00:00:02,950 --> 00:00:02,960
+this video is brought to you by three
+ 
+
+3
+00:00:02,960 --> 00:00:03,909
+this video is brought to you by three
+rings adventure
+
+4
+00:00:03,909 --> 00:00:03,919
+rings adventure
+ 
+
+5
+00:00:03,919 --> 00:00:06,309
+rings adventure
+an official piezo actual play podcast of
+
+6
+00:00:06,309 --> 00:00:06,319
+an official piezo actual play podcast of
+ 
+
+7
+00:00:06,319 --> 00:00:08,470
+an official piezo actual play podcast of
+the extinction curse adventure path
+
+8
+00:00:08,470 --> 00:00:08,480
+the extinction curse adventure path
+ 
+
+9
+00:00:08,480 --> 00:00:11,310
+the extinction curse adventure path
+listen to three rings adventure today at
+
+10
+00:00:11,310 --> 00:00:11,320
+listen to three rings adventure today at
+ 
+
+11
+00:00:11,320 --> 00:00:13,990
+listen to three rings adventure today at
+rollforcombat.com
+
+12
+00:00:13,990 --> 00:00:14,000
+rollforcombat.com
+ 
+
+13
+00:00:14,000 --> 00:00:15,669
+rollforcombat.com
+hello and welcome to pathfinder
+
+14
+00:00:15,669 --> 00:00:15,679
+hello and welcome to pathfinder
+ 
+
+15
+00:00:15,679 --> 00:00:17,189
+hello and welcome to pathfinder
+encounters part 2
+
+16
+00:00:17,189 --> 00:00:17,199
+encounters part 2
+ 
+
+17
+00:00:17,199 --> 00:00:19,830
+encounters part 2
+building encounters by howitz plate in
+
+18
+00:00:19,830 --> 00:00:19,840
+building encounters by howitz plate in
+ 
+
+19
+00:00:19,840 --> 00:00:21,429
+building encounters by howitz plate in
+the previous video we discussed how to
+
+20
+00:00:21,429 --> 00:00:21,439
+the previous video we discussed how to
+ 
+
+21
+00:00:21,439 --> 00:00:22,070
+the previous video we discussed how to
+design
+
+22
+00:00:22,070 --> 00:00:22,080
+design
+ 
+
+23
+00:00:22,080 --> 00:00:23,590
+design
+combat encounters so that they're
+
+24
+00:00:23,590 --> 00:00:23,600
+combat encounters so that they're
+ 
+
+25
+00:00:23,600 --> 00:00:25,589
+combat encounters so that they're
+engaging for your players and in this
+
+26
+00:00:25,589 --> 00:00:25,599
+engaging for your players and in this
+ 
+
+27
+00:00:25,599 --> 00:00:27,509
+engaging for your players and in this
+video we'll cover the mechanics of
+
+28
+00:00:27,509 --> 00:00:27,519
+video we'll cover the mechanics of
+ 
+
+29
+00:00:27,519 --> 00:00:30,870
+video we'll cover the mechanics of
+managing an encounter budget
+
+30
+00:00:30,870 --> 00:00:30,880
+managing an encounter budget
+ 
+
+31
+00:00:30,880 --> 00:00:32,790
+managing an encounter budget
+once you've decided on a basic theme for
+
+32
+00:00:32,790 --> 00:00:32,800
+once you've decided on a basic theme for
+ 
+
+33
+00:00:32,800 --> 00:00:34,549
+once you've decided on a basic theme for
+your encounter and is placed in the
+
+34
+00:00:34,549 --> 00:00:34,559
+your encounter and is placed in the
+ 
+
+35
+00:00:34,559 --> 00:00:35,670
+your encounter and is placed in the
+overall story
+
+36
+00:00:35,670 --> 00:00:35,680
+overall story
+ 
+
+37
+00:00:35,680 --> 00:00:37,830
+overall story
+the next step is to decide on a threat
+
+38
+00:00:37,830 --> 00:00:37,840
+the next step is to decide on a threat
+ 
+
+39
+00:00:37,840 --> 00:00:39,830
+the next step is to decide on a threat
+level encounters and pathfinder are
+
+40
+00:00:39,830 --> 00:00:39,840
+level encounters and pathfinder are
+ 
+
+41
+00:00:39,840 --> 00:00:41,350
+level encounters and pathfinder are
+categorized by how much
+
+42
+00:00:41,350 --> 00:00:41,360
+categorized by how much
+ 
+
+43
+00:00:41,360 --> 00:00:43,430
+categorized by how much
+danger they are expected to pose to a
+
+44
+00:00:43,430 --> 00:00:43,440
+danger they are expected to pose to a
+ 
+
+45
+00:00:43,440 --> 00:00:45,350
+danger they are expected to pose to a
+typical four-player party
+
+46
+00:00:45,350 --> 00:00:45,360
+typical four-player party
+ 
+
+47
+00:00:45,360 --> 00:00:46,950
+typical four-player party
+trivial threat encounters should pose
+
+48
+00:00:46,950 --> 00:00:46,960
+trivial threat encounters should pose
+ 
+
+49
+00:00:46,960 --> 00:00:48,389
+trivial threat encounters should pose
+new threat to the players
+
+50
+00:00:48,389 --> 00:00:48,399
+new threat to the players
+ 
+
+51
+00:00:48,399 --> 00:00:50,470
+new threat to the players
+and are used mostly as warm-ups at the
+
+52
+00:00:50,470 --> 00:00:50,480
+and are used mostly as warm-ups at the
+ 
+
+53
+00:00:50,480 --> 00:00:51,430
+and are used mostly as warm-ups at the
+start of adventures
+
+54
+00:00:51,430 --> 00:00:51,440
+start of adventures
+ 
+
+55
+00:00:51,440 --> 00:00:53,189
+start of adventures
+or as opportunities for the players to
+
+56
+00:00:53,189 --> 00:00:53,199
+or as opportunities for the players to
+ 
+
+57
+00:00:53,199 --> 00:00:55,510
+or as opportunities for the players to
+revel in how much power they've obtained
+
+58
+00:00:55,510 --> 00:00:55,520
+revel in how much power they've obtained
+ 
+
+59
+00:00:55,520 --> 00:00:57,270
+revel in how much power they've obtained
+do not ignore trivial threatened
+
+60
+00:00:57,270 --> 00:00:57,280
+do not ignore trivial threatened
+ 
+
+61
+00:00:57,280 --> 00:00:59,349
+do not ignore trivial threatened
+counters just because they're easy they
+
+62
+00:00:59,349 --> 00:00:59,359
+counters just because they're easy they
+ 
+
+63
+00:00:59,359 --> 00:01:01,110
+counters just because they're easy they
+definitely have their place in the story
+
+64
+00:01:01,110 --> 00:01:01,120
+definitely have their place in the story
+ 
+
+65
+00:01:01,120 --> 00:01:02,229
+definitely have their place in the story
+too
+
+66
+00:01:02,229 --> 00:01:02,239
+too
+ 
+
+67
+00:01:02,239 --> 00:01:04,549
+too
+low threatened counters are not expected
+
+68
+00:01:04,549 --> 00:01:04,559
+low threatened counters are not expected
+ 
+
+69
+00:01:04,559 --> 00:01:05,590
+low threatened counters are not expected
+to be difficult
+
+70
+00:01:05,590 --> 00:01:05,600
+to be difficult
+ 
+
+71
+00:01:05,600 --> 00:01:07,830
+to be difficult
+the players are expected to win but may
+
+72
+00:01:07,830 --> 00:01:07,840
+the players are expected to win but may
+ 
+
+73
+00:01:07,840 --> 00:01:10,149
+the players are expected to win but may
+need to spend a few of their resources
+
+74
+00:01:10,149 --> 00:01:10,159
+need to spend a few of their resources
+ 
+
+75
+00:01:10,159 --> 00:01:12,390
+need to spend a few of their resources
+like spell slots and potions in order to
+
+76
+00:01:12,390 --> 00:01:12,400
+like spell slots and potions in order to
+ 
+
+77
+00:01:12,400 --> 00:01:13,510
+like spell slots and potions in order to
+do so
+
+78
+00:01:13,510 --> 00:01:13,520
+do so
+ 
+
+79
+00:01:13,520 --> 00:01:15,270
+do so
+moderate threat encounters are expected
+
+80
+00:01:15,270 --> 00:01:15,280
+moderate threat encounters are expected
+ 
+
+81
+00:01:15,280 --> 00:01:17,429
+moderate threat encounters are expected
+to seriously challenge but not overwhelm
+
+82
+00:01:17,429 --> 00:01:17,439
+to seriously challenge but not overwhelm
+ 
+
+83
+00:01:17,439 --> 00:01:18,710
+to seriously challenge but not overwhelm
+most parties
+
+84
+00:01:18,710 --> 00:01:18,720
+most parties
+ 
+
+85
+00:01:18,720 --> 00:01:20,550
+most parties
+players are expected to use both good
+
+86
+00:01:20,550 --> 00:01:20,560
+players are expected to use both good
+ 
+
+87
+00:01:20,560 --> 00:01:22,469
+players are expected to use both good
+tactics and resource management to
+
+88
+00:01:22,469 --> 00:01:22,479
+tactics and resource management to
+ 
+
+89
+00:01:22,479 --> 00:01:24,550
+tactics and resource management to
+overcome these encounters
+
+90
+00:01:24,550 --> 00:01:24,560
+overcome these encounters
+ 
+
+91
+00:01:24,560 --> 00:01:26,310
+overcome these encounters
+severe threat encounters are the most
+
+92
+00:01:26,310 --> 00:01:26,320
+severe threat encounters are the most
+ 
+
+93
+00:01:26,320 --> 00:01:27,830
+severe threat encounters are the most
+challenging combat encounters that
+
+94
+00:01:27,830 --> 00:01:27,840
+challenging combat encounters that
+ 
+
+95
+00:01:27,840 --> 00:01:29,990
+challenging combat encounters that
+players are expected to defeat
+
+96
+00:01:29,990 --> 00:01:30,000
+players are expected to defeat
+ 
+
+97
+00:01:30,000 --> 00:01:32,230
+players are expected to defeat
+these will require sound tactics and a
+
+98
+00:01:32,230 --> 00:01:32,240
+these will require sound tactics and a
+ 
+
+99
+00:01:32,240 --> 00:01:33,830
+these will require sound tactics and a
+significant amount of resources to
+
+100
+00:01:33,830 --> 00:01:33,840
+significant amount of resources to
+ 
+
+101
+00:01:33,840 --> 00:01:34,630
+significant amount of resources to
+overcome
+
+102
+00:01:34,630 --> 00:01:34,640
+overcome
+ 
+
+103
+00:01:34,640 --> 00:01:36,630
+overcome
+and a little bit of bad luck could
+
+104
+00:01:36,630 --> 00:01:36,640
+and a little bit of bad luck could
+ 
+
+105
+00:01:36,640 --> 00:01:38,390
+and a little bit of bad luck could
+swiftly turn the tables against the
+
+106
+00:01:38,390 --> 00:01:38,400
+swiftly turn the tables against the
+ 
+
+107
+00:01:38,400 --> 00:01:39,350
+swiftly turn the tables against the
+players
+
+108
+00:01:39,350 --> 00:01:39,360
+players
+ 
+
+109
+00:01:39,360 --> 00:01:41,109
+players
+severe threat encounters are typically
+
+110
+00:01:41,109 --> 00:01:41,119
+severe threat encounters are typically
+ 
+
+111
+00:01:41,119 --> 00:01:42,950
+severe threat encounters are typically
+reserved for boss fights and
+
+112
+00:01:42,950 --> 00:01:42,960
+reserved for boss fights and
+ 
+
+113
+00:01:42,960 --> 00:01:45,429
+reserved for boss fights and
+other significant moments in the story
+
+114
+00:01:45,429 --> 00:01:45,439
+other significant moments in the story
+ 
+
+115
+00:01:45,439 --> 00:01:47,270
+other significant moments in the story
+and the highest threat level is
+
+116
+00:01:47,270 --> 00:01:47,280
+and the highest threat level is
+ 
+
+117
+00:01:47,280 --> 00:01:49,670
+and the highest threat level is
+extreme threat these threats are
+
+118
+00:01:49,670 --> 00:01:49,680
+extreme threat these threats are
+ 
+
+119
+00:01:49,680 --> 00:01:50,550
+extreme threat these threats are
+intended to be
+
+120
+00:01:50,550 --> 00:01:50,560
+intended to be
+ 
+
+121
+00:01:50,560 --> 00:01:52,710
+intended to be
+a true challenge for fully healed and
+
+122
+00:01:52,710 --> 00:01:52,720
+a true challenge for fully healed and
+ 
+
+123
+00:01:52,720 --> 00:01:53,590
+a true challenge for fully healed and
+arrested parties
+
+124
+00:01:53,590 --> 00:01:53,600
+arrested parties
+ 
+
+125
+00:01:53,600 --> 00:01:55,429
+arrested parties
+and are intended for moments where the
+
+126
+00:01:55,429 --> 00:01:55,439
+and are intended for moments where the
+ 
+
+127
+00:01:55,439 --> 00:01:56,709
+and are intended for moments where the
+players can go all out
+
+128
+00:01:56,709 --> 00:01:56,719
+players can go all out
+ 
+
+129
+00:01:56,719 --> 00:01:58,550
+players can go all out
+using all their available resources
+
+130
+00:01:58,550 --> 00:01:58,560
+using all their available resources
+ 
+
+131
+00:01:58,560 --> 00:02:01,109
+using all their available resources
+without need to save anything for later
+
+132
+00:02:01,109 --> 00:02:01,119
+without need to save anything for later
+ 
+
+133
+00:02:01,119 --> 00:02:03,350
+without need to save anything for later
+as such extreme threatened counters
+
+134
+00:02:03,350 --> 00:02:03,360
+as such extreme threatened counters
+ 
+
+135
+00:02:03,360 --> 00:02:04,310
+as such extreme threatened counters
+should be structured
+
+136
+00:02:04,310 --> 00:02:04,320
+should be structured
+ 
+
+137
+00:02:04,320 --> 00:02:05,910
+should be structured
+so that they are the only combat
+
+138
+00:02:05,910 --> 00:02:05,920
+so that they are the only combat
+ 
+
+139
+00:02:05,920 --> 00:02:07,830
+so that they are the only combat
+encounters the players will face that
+
+140
+00:02:07,830 --> 00:02:07,840
+encounters the players will face that
+ 
+
+141
+00:02:07,840 --> 00:02:08,710
+encounters the players will face that
+day
+
+142
+00:02:08,710 --> 00:02:08,720
+day
+ 
+
+143
+00:02:08,720 --> 00:02:10,790
+day
+to help you determine what a good spread
+
+144
+00:02:10,790 --> 00:02:10,800
+to help you determine what a good spread
+ 
+
+145
+00:02:10,800 --> 00:02:12,470
+to help you determine what a good spread
+for encounter threat might look like
+
+146
+00:02:12,470 --> 00:02:12,480
+for encounter threat might look like
+ 
+
+147
+00:02:12,480 --> 00:02:14,630
+for encounter threat might look like
+i reviewed three set pieces from a
+
+148
+00:02:14,630 --> 00:02:14,640
+i reviewed three set pieces from a
+ 
+
+149
+00:02:14,640 --> 00:02:15,910
+i reviewed three set pieces from a
+published adventure path
+
+150
+00:02:15,910 --> 00:02:15,920
+published adventure path
+ 
+
+151
+00:02:15,920 --> 00:02:17,910
+published adventure path
+one at fifth level one at tenth level
+
+152
+00:02:17,910 --> 00:02:17,920
+one at fifth level one at tenth level
+ 
+
+153
+00:02:17,920 --> 00:02:19,589
+one at fifth level one at tenth level
+and another at fifteenth level
+
+154
+00:02:19,589 --> 00:02:19,599
+and another at fifteenth level
+ 
+
+155
+00:02:19,599 --> 00:02:21,990
+and another at fifteenth level
+and i discovered that all three of these
+
+156
+00:02:21,990 --> 00:02:22,000
+and i discovered that all three of these
+ 
+
+157
+00:02:22,000 --> 00:02:22,790
+and i discovered that all three of these
+set pieces
+
+158
+00:02:22,790 --> 00:02:22,800
+set pieces
+ 
+
+159
+00:02:22,800 --> 00:02:26,470
+set pieces
+had six combat encounters one low threat
+
+160
+00:02:26,470 --> 00:02:26,480
+had six combat encounters one low threat
+ 
+
+161
+00:02:26,480 --> 00:02:29,030
+had six combat encounters one low threat
+four moderate threats and one severe
+
+162
+00:02:29,030 --> 00:02:29,040
+four moderate threats and one severe
+ 
+
+163
+00:02:29,040 --> 00:02:30,869
+four moderate threats and one severe
+threat for the dungeons boss
+
+164
+00:02:30,869 --> 00:02:30,879
+threat for the dungeons boss
+ 
+
+165
+00:02:30,879 --> 00:02:33,350
+threat for the dungeons boss
+conveniently these six encounters also
+
+166
+00:02:33,350 --> 00:02:33,360
+conveniently these six encounters also
+ 
+
+167
+00:02:33,360 --> 00:02:35,190
+conveniently these six encounters also
+equal 500 experience points
+
+168
+00:02:35,190 --> 00:02:35,200
+equal 500 experience points
+ 
+
+169
+00:02:35,200 --> 00:02:37,830
+equal 500 experience points
+or half an experience level for players
+
+170
+00:02:37,830 --> 00:02:37,840
+or half an experience level for players
+ 
+
+171
+00:02:37,840 --> 00:02:39,830
+or half an experience level for players
+so two of these locations would level up
+
+172
+00:02:39,830 --> 00:02:39,840
+so two of these locations would level up
+ 
+
+173
+00:02:39,840 --> 00:02:41,670
+so two of these locations would level up
+a standard four player party
+
+174
+00:02:41,670 --> 00:02:41,680
+a standard four player party
+ 
+
+175
+00:02:41,680 --> 00:02:43,589
+a standard four player party
+listen that once you take into account
+
+176
+00:02:43,589 --> 00:02:43,599
+listen that once you take into account
+ 
+
+177
+00:02:43,599 --> 00:02:46,869
+listen that once you take into account
+accomplishment xp
+
+178
+00:02:46,869 --> 00:02:46,879
+
+ 
+
+179
+00:02:46,879 --> 00:02:48,550
+
+once you set a threat level for the
+
+180
+00:02:48,550 --> 00:02:48,560
+once you set a threat level for the
+ 
+
+181
+00:02:48,560 --> 00:02:49,990
+once you set a threat level for the
+encounter compare that
+
+182
+00:02:49,990 --> 00:02:50,000
+encounter compare that
+ 
+
+183
+00:02:50,000 --> 00:02:53,030
+encounter compare that
+to table 10-1 on page 489 to set your
+
+184
+00:02:53,030 --> 00:02:53,040
+to table 10-1 on page 489 to set your
+ 
+
+185
+00:02:53,040 --> 00:02:54,309
+to table 10-1 on page 489 to set your
+encounter budget
+
+186
+00:02:54,309 --> 00:02:54,319
+encounter budget
+ 
+
+187
+00:02:54,319 --> 00:02:56,229
+encounter budget
+the encounter budget is the total amount
+
+188
+00:02:56,229 --> 00:02:56,239
+the encounter budget is the total amount
+ 
+
+189
+00:02:56,239 --> 00:02:58,630
+the encounter budget is the total amount
+of xp awarded for each creature included
+
+190
+00:02:58,630 --> 00:02:58,640
+of xp awarded for each creature included
+ 
+
+191
+00:02:58,640 --> 00:02:59,750
+of xp awarded for each creature included
+in the encounter
+
+192
+00:02:59,750 --> 00:02:59,760
+in the encounter
+ 
+
+193
+00:02:59,760 --> 00:03:01,589
+in the encounter
+so for example moderate threat
+
+194
+00:03:01,589 --> 00:03:01,599
+so for example moderate threat
+ 
+
+195
+00:03:01,599 --> 00:03:04,390
+so for example moderate threat
+encounters have a budget of 80 xp
+
+196
+00:03:04,390 --> 00:03:04,400
+encounters have a budget of 80 xp
+ 
+
+197
+00:03:04,400 --> 00:03:06,470
+encounters have a budget of 80 xp
+meaning the battle could consist of one
+
+198
+00:03:06,470 --> 00:03:06,480
+meaning the battle could consist of one
+ 
+
+199
+00:03:06,480 --> 00:03:08,869
+meaning the battle could consist of one
+enemy that's worth 80 experience points
+
+200
+00:03:08,869 --> 00:03:08,879
+enemy that's worth 80 experience points
+ 
+
+201
+00:03:08,879 --> 00:03:11,110
+enemy that's worth 80 experience points
+two monsters that are each 40 experience
+
+202
+00:03:11,110 --> 00:03:11,120
+two monsters that are each 40 experience
+ 
+
+203
+00:03:11,120 --> 00:03:13,030
+two monsters that are each 40 experience
+points four monsters that are
+
+204
+00:03:13,030 --> 00:03:13,040
+points four monsters that are
+ 
+
+205
+00:03:13,040 --> 00:03:15,509
+points four monsters that are
+20 experience points each and so on
+
+206
+00:03:15,509 --> 00:03:15,519
+20 experience points each and so on
+ 
+
+207
+00:03:15,519 --> 00:03:18,149
+20 experience points each and so on
+ideally the total of all the enemies and
+
+208
+00:03:18,149 --> 00:03:18,159
+ideally the total of all the enemies and
+ 
+
+209
+00:03:18,159 --> 00:03:19,350
+ideally the total of all the enemies and
+hazards included
+
+210
+00:03:19,350 --> 00:03:19,360
+hazards included
+ 
+
+211
+00:03:19,360 --> 00:03:21,509
+hazards included
+should not exceed the budget but going
+
+212
+00:03:21,509 --> 00:03:21,519
+should not exceed the budget but going
+ 
+
+213
+00:03:21,519 --> 00:03:23,430
+should not exceed the budget but going
+just a little over or under
+
+214
+00:03:23,430 --> 00:03:23,440
+just a little over or under
+ 
+
+215
+00:03:23,440 --> 00:03:25,750
+just a little over or under
+should be alright in most cases these
+
+216
+00:03:25,750 --> 00:03:25,760
+should be alright in most cases these
+ 
+
+217
+00:03:25,760 --> 00:03:27,589
+should be alright in most cases these
+budgets assume there are 4
+
+218
+00:03:27,589 --> 00:03:27,599
+budgets assume there are 4
+ 
+
+219
+00:03:27,599 --> 00:03:29,670
+budgets assume there are 4
+players in the party but you can easily
+
+220
+00:03:29,670 --> 00:03:29,680
+players in the party but you can easily
+ 
+
+221
+00:03:29,680 --> 00:03:31,670
+players in the party but you can easily
+adjust them if you have more or fewer
+
+222
+00:03:31,670 --> 00:03:31,680
+adjust them if you have more or fewer
+ 
+
+223
+00:03:31,680 --> 00:03:32,949
+adjust them if you have more or fewer
+people at the table
+
+224
+00:03:32,949 --> 00:03:32,959
+people at the table
+ 
+
+225
+00:03:32,959 --> 00:03:34,789
+people at the table
+all you need to do in those cases is
+
+226
+00:03:34,789 --> 00:03:34,799
+all you need to do in those cases is
+ 
+
+227
+00:03:34,799 --> 00:03:37,270
+all you need to do in those cases is
+refer to the character adjustment column
+
+228
+00:03:37,270 --> 00:03:37,280
+refer to the character adjustment column
+ 
+
+229
+00:03:37,280 --> 00:03:39,350
+refer to the character adjustment column
+and add that amount to the budget for
+
+230
+00:03:39,350 --> 00:03:39,360
+and add that amount to the budget for
+ 
+
+231
+00:03:39,360 --> 00:03:40,949
+and add that amount to the budget for
+every pc over 4
+
+232
+00:03:40,949 --> 00:03:40,959
+every pc over 4
+ 
+
+233
+00:03:40,959 --> 00:03:43,110
+every pc over 4
+or subtract that amount if you have
+
+234
+00:03:43,110 --> 00:03:43,120
+or subtract that amount if you have
+ 
+
+235
+00:03:43,120 --> 00:03:44,789
+or subtract that amount if you have
+fewer than 4 players
+
+236
+00:03:44,789 --> 00:03:44,799
+fewer than 4 players
+ 
+
+237
+00:03:44,799 --> 00:03:46,710
+fewer than 4 players
+but note that increasing or decreasing
+
+238
+00:03:46,710 --> 00:03:46,720
+but note that increasing or decreasing
+ 
+
+239
+00:03:46,720 --> 00:03:48,550
+but note that increasing or decreasing
+the budget due to the number of players
+
+240
+00:03:48,550 --> 00:03:48,560
+the budget due to the number of players
+ 
+
+241
+00:03:48,560 --> 00:03:50,630
+the budget due to the number of players
+does not affect the amount of experience
+
+242
+00:03:50,630 --> 00:03:50,640
+does not affect the amount of experience
+ 
+
+243
+00:03:50,640 --> 00:03:52,550
+does not affect the amount of experience
+points that's awarded for defeating the
+
+244
+00:03:52,550 --> 00:03:52,560
+points that's awarded for defeating the
+ 
+
+245
+00:03:52,560 --> 00:03:53,429
+points that's awarded for defeating the
+encounter
+
+246
+00:03:53,429 --> 00:03:53,439
+encounter
+ 
+
+247
+00:03:53,439 --> 00:03:55,509
+encounter
+so for example a moderate threatened
+
+248
+00:03:55,509 --> 00:03:55,519
+so for example a moderate threatened
+ 
+
+249
+00:03:55,519 --> 00:03:57,589
+so for example a moderate threatened
+counter for 6 players would have a
+
+250
+00:03:57,589 --> 00:03:57,599
+counter for 6 players would have a
+ 
+
+251
+00:03:57,599 --> 00:03:59,110
+counter for 6 players would have a
+budget of 120
+
+252
+00:03:59,110 --> 00:03:59,120
+budget of 120
+ 
+
+253
+00:03:59,120 --> 00:04:02,390
+budget of 120
+xp but would still only award 80 xp
+
+254
+00:04:02,390 --> 00:04:02,400
+xp but would still only award 80 xp
+ 
+
+255
+00:04:02,400 --> 00:04:04,390
+xp but would still only award 80 xp
+to each of those players for defeating
+
+256
+00:04:04,390 --> 00:04:04,400
+to each of those players for defeating
+ 
+
+257
+00:04:04,400 --> 00:04:06,949
+to each of those players for defeating
+the encounter
+
+258
+00:04:06,949 --> 00:04:06,959
+the encounter
+ 
+
+259
+00:04:06,959 --> 00:04:08,789
+the encounter
+next you need to calculate the game's
+
+260
+00:04:08,789 --> 00:04:08,799
+next you need to calculate the game's
+ 
+
+261
+00:04:08,799 --> 00:04:10,869
+next you need to calculate the game's
+party level which is easy if all the
+
+262
+00:04:10,869 --> 00:04:10,879
+party level which is easy if all the
+ 
+
+263
+00:04:10,879 --> 00:04:12,470
+party level which is easy if all the
+players are the same level
+
+264
+00:04:12,470 --> 00:04:12,480
+players are the same level
+ 
+
+265
+00:04:12,480 --> 00:04:14,869
+players are the same level
+but if you have some pcs who are higher
+
+266
+00:04:14,869 --> 00:04:14,879
+but if you have some pcs who are higher
+ 
+
+267
+00:04:14,879 --> 00:04:16,710
+but if you have some pcs who are higher
+or lower than the others in the group
+
+268
+00:04:16,710 --> 00:04:16,720
+or lower than the others in the group
+ 
+
+269
+00:04:16,720 --> 00:04:19,030
+or lower than the others in the group
+then it's a little more complicated if
+
+270
+00:04:19,030 --> 00:04:19,040
+then it's a little more complicated if
+ 
+
+271
+00:04:19,040 --> 00:04:20,870
+then it's a little more complicated if
+everyone playing is the same character
+
+272
+00:04:20,870 --> 00:04:20,880
+everyone playing is the same character
+ 
+
+273
+00:04:20,880 --> 00:04:21,349
+everyone playing is the same character
+level
+
+274
+00:04:21,349 --> 00:04:21,359
+level
+ 
+
+275
+00:04:21,359 --> 00:04:23,990
+level
+then that is also their party level
+
+276
+00:04:23,990 --> 00:04:24,000
+then that is also their party level
+ 
+
+277
+00:04:24,000 --> 00:04:25,430
+then that is also their party level
+that's what i do and i
+
+278
+00:04:25,430 --> 00:04:25,440
+that's what i do and i
+ 
+
+279
+00:04:25,440 --> 00:04:27,189
+that's what i do and i
+recommend others do as well because it
+
+280
+00:04:27,189 --> 00:04:27,199
+recommend others do as well because it
+ 
+
+281
+00:04:27,199 --> 00:04:29,030
+recommend others do as well because it
+just makes life easy
+
+282
+00:04:29,030 --> 00:04:29,040
+just makes life easy
+ 
+
+283
+00:04:29,040 --> 00:04:31,590
+just makes life easy
+but the rules do provide some guidance
+
+284
+00:04:31,590 --> 00:04:31,600
+but the rules do provide some guidance
+ 
+
+285
+00:04:31,600 --> 00:04:33,430
+but the rules do provide some guidance
+if you want to have a party made of
+
+286
+00:04:33,430 --> 00:04:33,440
+if you want to have a party made of
+ 
+
+287
+00:04:33,440 --> 00:04:35,110
+if you want to have a party made of
+different level pcs
+
+288
+00:04:35,110 --> 00:04:35,120
+different level pcs
+ 
+
+289
+00:04:35,120 --> 00:04:37,350
+different level pcs
+this is not an exact science and is
+
+290
+00:04:37,350 --> 00:04:37,360
+this is not an exact science and is
+ 
+
+291
+00:04:37,360 --> 00:04:39,270
+this is not an exact science and is
+largely up to the gm to make judgment
+
+292
+00:04:39,270 --> 00:04:39,280
+largely up to the gm to make judgment
+ 
+
+293
+00:04:39,280 --> 00:04:39,749
+largely up to the gm to make judgment
+calls
+
+294
+00:04:39,749 --> 00:04:39,759
+calls
+ 
+
+295
+00:04:39,759 --> 00:04:42,150
+calls
+as to what is an appropriate party level
+
+296
+00:04:42,150 --> 00:04:42,160
+as to what is an appropriate party level
+ 
+
+297
+00:04:42,160 --> 00:04:44,790
+as to what is an appropriate party level
+if not everybody is the same level
+
+298
+00:04:44,790 --> 00:04:44,800
+if not everybody is the same level
+ 
+
+299
+00:04:44,800 --> 00:04:46,870
+if not everybody is the same level
+first if only one or two players are
+
+300
+00:04:46,870 --> 00:04:46,880
+first if only one or two players are
+ 
+
+301
+00:04:46,880 --> 00:04:48,469
+first if only one or two players are
+slightly behind the rest
+
+302
+00:04:48,469 --> 00:04:48,479
+slightly behind the rest
+ 
+
+303
+00:04:48,479 --> 00:04:50,629
+slightly behind the rest
+then set the party level as equal to the
+
+304
+00:04:50,629 --> 00:04:50,639
+then set the party level as equal to the
+ 
+
+305
+00:04:50,639 --> 00:04:52,310
+then set the party level as equal to the
+highest level players
+
+306
+00:04:52,310 --> 00:04:52,320
+highest level players
+ 
+
+307
+00:04:52,320 --> 00:04:55,030
+highest level players
+for example say you have three 5th level
+
+308
+00:04:55,030 --> 00:04:55,040
+for example say you have three 5th level
+ 
+
+309
+00:04:55,040 --> 00:04:55,670
+for example say you have three 5th level
+players
+
+310
+00:04:55,670 --> 00:04:55,680
+players
+ 
+
+311
+00:04:55,680 --> 00:04:58,469
+players
+and one or two fourth level players in
+
+312
+00:04:58,469 --> 00:04:58,479
+and one or two fourth level players in
+ 
+
+313
+00:04:58,479 --> 00:04:59,110
+and one or two fourth level players in
+that case
+
+314
+00:04:59,110 --> 00:04:59,120
+that case
+ 
+
+315
+00:04:59,120 --> 00:05:01,909
+that case
+you would set the party level as fifth
+
+316
+00:05:01,909 --> 00:05:01,919
+you would set the party level as fifth
+ 
+
+317
+00:05:01,919 --> 00:05:03,590
+you would set the party level as fifth
+and if only one or two players are
+
+318
+00:05:03,590 --> 00:05:03,600
+and if only one or two players are
+ 
+
+319
+00:05:03,600 --> 00:05:05,270
+and if only one or two players are
+slightly higher than the rest
+
+320
+00:05:05,270 --> 00:05:05,280
+slightly higher than the rest
+ 
+
+321
+00:05:05,280 --> 00:05:07,510
+slightly higher than the rest
+then set the party level as the lowest
+
+322
+00:05:07,510 --> 00:05:07,520
+then set the party level as the lowest
+ 
+
+323
+00:05:07,520 --> 00:05:08,629
+then set the party level as the lowest
+pc's level
+
+324
+00:05:08,629 --> 00:05:08,639
+pc's level
+ 
+
+325
+00:05:08,639 --> 00:05:11,029
+pc's level
+but add one extra player's worth of xp
+
+326
+00:05:11,029 --> 00:05:11,039
+but add one extra player's worth of xp
+ 
+
+327
+00:05:11,039 --> 00:05:13,189
+but add one extra player's worth of xp
+to the budget for every two character
+
+328
+00:05:13,189 --> 00:05:13,199
+to the budget for every two character
+ 
+
+329
+00:05:13,199 --> 00:05:14,950
+to the budget for every two character
+levels over the party level
+
+330
+00:05:14,950 --> 00:05:14,960
+levels over the party level
+ 
+
+331
+00:05:14,960 --> 00:05:17,430
+levels over the party level
+so say for example you have three third
+
+332
+00:05:17,430 --> 00:05:17,440
+so say for example you have three third
+ 
+
+333
+00:05:17,440 --> 00:05:18,310
+so say for example you have three third
+level players
+
+334
+00:05:18,310 --> 00:05:18,320
+level players
+ 
+
+335
+00:05:18,320 --> 00:05:20,950
+level players
+and one fifth level player in that case
+
+336
+00:05:20,950 --> 00:05:20,960
+and one fifth level player in that case
+ 
+
+337
+00:05:20,960 --> 00:05:22,390
+and one fifth level player in that case
+the party level would be
+
+338
+00:05:22,390 --> 00:05:22,400
+the party level would be
+ 
+
+339
+00:05:22,400 --> 00:05:24,790
+the party level would be
+third but you would add one extra
+
+340
+00:05:24,790 --> 00:05:24,800
+third but you would add one extra
+ 
+
+341
+00:05:24,800 --> 00:05:27,029
+third but you would add one extra
+player's worth of xp to the budget
+
+342
+00:05:27,029 --> 00:05:27,039
+player's worth of xp to the budget
+ 
+
+343
+00:05:27,039 --> 00:05:28,710
+player's worth of xp to the budget
+if you were designing a moderate
+
+344
+00:05:28,710 --> 00:05:28,720
+if you were designing a moderate
+ 
+
+345
+00:05:28,720 --> 00:05:30,070
+if you were designing a moderate
+threatened counter for this group
+
+346
+00:05:30,070 --> 00:05:30,080
+threatened counter for this group
+ 
+
+347
+00:05:30,080 --> 00:05:33,430
+threatened counter for this group
+it would have a budget of 100 xp 80 as a
+
+348
+00:05:33,430 --> 00:05:33,440
+it would have a budget of 100 xp 80 as a
+ 
+
+349
+00:05:33,440 --> 00:05:33,909
+it would have a budget of 100 xp 80 as a
+base
+
+350
+00:05:33,909 --> 00:05:33,919
+base
+ 
+
+351
+00:05:33,919 --> 00:05:36,390
+base
+plus 20 more because one of the players
+
+352
+00:05:36,390 --> 00:05:36,400
+plus 20 more because one of the players
+ 
+
+353
+00:05:36,400 --> 00:05:38,390
+plus 20 more because one of the players
+is two levels higher than the party
+
+354
+00:05:38,390 --> 00:05:38,400
+is two levels higher than the party
+ 
+
+355
+00:05:38,400 --> 00:05:39,270
+is two levels higher than the party
+level
+
+356
+00:05:39,270 --> 00:05:39,280
+level
+ 
+
+357
+00:05:39,280 --> 00:05:41,510
+level
+and if this party was made up of three
+
+358
+00:05:41,510 --> 00:05:41,520
+and if this party was made up of three
+ 
+
+359
+00:05:41,520 --> 00:05:42,629
+and if this party was made up of three
+third level players
+
+360
+00:05:42,629 --> 00:05:42,639
+third level players
+ 
+
+361
+00:05:42,639 --> 00:05:44,870
+third level players
+and two fifth level players then a
+
+362
+00:05:44,870 --> 00:05:44,880
+and two fifth level players then a
+ 
+
+363
+00:05:44,880 --> 00:05:47,990
+and two fifth level players then a
+moderate threat budget would be 140 xp
+
+364
+00:05:47,990 --> 00:05:48,000
+moderate threat budget would be 140 xp
+ 
+
+365
+00:05:48,000 --> 00:05:52,230
+moderate threat budget would be 140 xp
+80 as the base plus 20 for having 5 pcs
+
+366
+00:05:52,230 --> 00:05:52,240
+80 as the base plus 20 for having 5 pcs
+ 
+
+367
+00:05:52,240 --> 00:05:53,350
+80 as the base plus 20 for having 5 pcs
+instead of 4
+
+368
+00:05:53,350 --> 00:05:53,360
+instead of 4
+ 
+
+369
+00:05:53,360 --> 00:05:56,469
+instead of 4
+plus another 40 xp because there are
+
+370
+00:05:56,469 --> 00:05:56,479
+plus another 40 xp because there are
+ 
+
+371
+00:05:56,479 --> 00:06:00,150
+plus another 40 xp because there are
+4 extra player levels and last if the
+
+372
+00:06:00,150 --> 00:06:00,160
+4 extra player levels and last if the
+ 
+
+373
+00:06:00,160 --> 00:06:02,230
+4 extra player levels and last if the
+player levels are all over the place
+
+374
+00:06:02,230 --> 00:06:02,240
+player levels are all over the place
+ 
+
+375
+00:06:02,240 --> 00:06:04,230
+player levels are all over the place
+the best guidance from the book is to
+
+376
+00:06:04,230 --> 00:06:04,240
+the best guidance from the book is to
+ 
+
+377
+00:06:04,240 --> 00:06:06,070
+the best guidance from the book is to
+calculate the average of all
+
+378
+00:06:06,070 --> 00:06:06,080
+calculate the average of all
+ 
+
+379
+00:06:06,080 --> 00:06:08,150
+calculate the average of all
+of their levels and use that as the
+
+380
+00:06:08,150 --> 00:06:08,160
+of their levels and use that as the
+ 
+
+381
+00:06:08,160 --> 00:06:09,110
+of their levels and use that as the
+party level
+
+382
+00:06:09,110 --> 00:06:09,120
+party level
+ 
+
+383
+00:06:09,120 --> 00:06:11,670
+party level
+whether you round up or down is entirely
+
+384
+00:06:11,670 --> 00:06:11,680
+whether you round up or down is entirely
+ 
+
+385
+00:06:11,680 --> 00:06:13,590
+whether you round up or down is entirely
+up to the gm to decide
+
+386
+00:06:13,590 --> 00:06:13,600
+up to the gm to decide
+ 
+
+387
+00:06:13,600 --> 00:06:15,510
+up to the gm to decide
+ideally you want there to be no more
+
+388
+00:06:15,510 --> 00:06:15,520
+ideally you want there to be no more
+ 
+
+389
+00:06:15,520 --> 00:06:17,270
+ideally you want there to be no more
+than two levels of difference between
+
+390
+00:06:17,270 --> 00:06:17,280
+than two levels of difference between
+ 
+
+391
+00:06:17,280 --> 00:06:19,029
+than two levels of difference between
+the party's highest level character and
+
+392
+00:06:19,029 --> 00:06:19,039
+the party's highest level character and
+ 
+
+393
+00:06:19,039 --> 00:06:20,150
+the party's highest level character and
+its lowest
+
+394
+00:06:20,150 --> 00:06:20,160
+its lowest
+ 
+
+395
+00:06:20,160 --> 00:06:22,710
+its lowest
+also note that any character that is a
+
+396
+00:06:22,710 --> 00:06:22,720
+also note that any character that is a
+ 
+
+397
+00:06:22,720 --> 00:06:24,629
+also note that any character that is a
+lower level than the party level
+
+398
+00:06:24,629 --> 00:06:24,639
+lower level than the party level
+ 
+
+399
+00:06:24,639 --> 00:06:27,350
+lower level than the party level
+will receive double the usual experience
+
+400
+00:06:27,350 --> 00:06:27,360
+will receive double the usual experience
+ 
+
+401
+00:06:27,360 --> 00:06:27,830
+will receive double the usual experience
+points
+
+402
+00:06:27,830 --> 00:06:27,840
+points
+ 
+
+403
+00:06:27,840 --> 00:06:30,309
+points
+for defeating the encounter and there is
+
+404
+00:06:30,309 --> 00:06:30,319
+for defeating the encounter and there is
+ 
+
+405
+00:06:30,319 --> 00:06:33,029
+for defeating the encounter and there is
+no reward adjustment for those who are a
+
+406
+00:06:33,029 --> 00:06:33,039
+no reward adjustment for those who are a
+ 
+
+407
+00:06:33,039 --> 00:06:36,790
+no reward adjustment for those who are a
+higher level than the party level
+
+408
+00:06:36,790 --> 00:06:36,800
+higher level than the party level
+ 
+
+409
+00:06:36,800 --> 00:06:39,110
+higher level than the party level
+now that you have a budget set it's time
+
+410
+00:06:39,110 --> 00:06:39,120
+now that you have a budget set it's time
+ 
+
+411
+00:06:39,120 --> 00:06:41,270
+now that you have a budget set it's time
+to start spending that xp by selecting
+
+412
+00:06:41,270 --> 00:06:41,280
+to start spending that xp by selecting
+ 
+
+413
+00:06:41,280 --> 00:06:43,350
+to start spending that xp by selecting
+creatures for the players to battle
+
+414
+00:06:43,350 --> 00:06:43,360
+creatures for the players to battle
+ 
+
+415
+00:06:43,360 --> 00:06:45,830
+creatures for the players to battle
+unlike with many other rpgs pathfinder
+
+416
+00:06:45,830 --> 00:06:45,840
+unlike with many other rpgs pathfinder
+ 
+
+417
+00:06:45,840 --> 00:06:46,629
+unlike with many other rpgs pathfinder
+does not use
+
+418
+00:06:46,629 --> 00:06:46,639
+does not use
+ 
+
+419
+00:06:46,639 --> 00:06:49,749
+does not use
+static xp for its creatures instead each
+
+420
+00:06:49,749 --> 00:06:49,759
+static xp for its creatures instead each
+ 
+
+421
+00:06:49,759 --> 00:06:51,189
+static xp for its creatures instead each
+creature's xp value
+
+422
+00:06:51,189 --> 00:06:51,199
+creature's xp value
+ 
+
+423
+00:06:51,199 --> 00:06:53,510
+creature's xp value
+is set relative to the party level as
+
+424
+00:06:53,510 --> 00:06:53,520
+is set relative to the party level as
+ 
+
+425
+00:06:53,520 --> 00:06:55,029
+is set relative to the party level as
+per table 10 2
+
+426
+00:06:55,029 --> 00:06:55,039
+per table 10 2
+ 
+
+427
+00:06:55,039 --> 00:06:58,150
+per table 10 2
+on page 489 if the creature's level is
+
+428
+00:06:58,150 --> 00:06:58,160
+on page 489 if the creature's level is
+ 
+
+429
+00:06:58,160 --> 00:06:59,909
+on page 489 if the creature's level is
+the same as the party level
+
+430
+00:06:59,909 --> 00:06:59,919
+the same as the party level
+ 
+
+431
+00:06:59,919 --> 00:07:02,070
+the same as the party level
+then it costs 40 points from the
+
+432
+00:07:02,070 --> 00:07:02,080
+then it costs 40 points from the
+ 
+
+433
+00:07:02,080 --> 00:07:03,749
+then it costs 40 points from the
+encounter's xp budget
+
+434
+00:07:03,749 --> 00:07:03,759
+encounter's xp budget
+ 
+
+435
+00:07:03,759 --> 00:07:05,830
+encounter's xp budget
+if the creature's level is one lower
+
+436
+00:07:05,830 --> 00:07:05,840
+if the creature's level is one lower
+ 
+
+437
+00:07:05,840 --> 00:07:07,749
+if the creature's level is one lower
+than the party level then it costs
+
+438
+00:07:07,749 --> 00:07:07,759
+than the party level then it costs
+ 
+
+439
+00:07:07,759 --> 00:07:10,790
+than the party level then it costs
+30 points and so on note that the table
+
+440
+00:07:10,790 --> 00:07:10,800
+30 points and so on note that the table
+ 
+
+441
+00:07:10,800 --> 00:07:11,589
+30 points and so on note that the table
+only spans
+
+442
+00:07:11,589 --> 00:07:11,599
+only spans
+ 
+
+443
+00:07:11,599 --> 00:07:14,309
+only spans
+four levels lower than and four levels
+
+444
+00:07:14,309 --> 00:07:14,319
+four levels lower than and four levels
+ 
+
+445
+00:07:14,319 --> 00:07:16,309
+four levels lower than and four levels
+higher than the party level and the
+
+446
+00:07:16,309 --> 00:07:16,319
+higher than the party level and the
+ 
+
+447
+00:07:16,319 --> 00:07:18,469
+higher than the party level and the
+system is not designed to accommodate
+
+448
+00:07:18,469 --> 00:07:18,479
+system is not designed to accommodate
+ 
+
+449
+00:07:18,479 --> 00:07:19,029
+system is not designed to accommodate
+enemies
+
+450
+00:07:19,029 --> 00:07:19,039
+enemies
+ 
+
+451
+00:07:19,039 --> 00:07:22,070
+enemies
+outside of this scope including hazards
+
+452
+00:07:22,070 --> 00:07:22,080
+outside of this scope including hazards
+ 
+
+453
+00:07:22,080 --> 00:07:22,390
+outside of this scope including hazards
+like
+
+454
+00:07:22,390 --> 00:07:22,400
+like
+ 
+
+455
+00:07:22,400 --> 00:07:24,550
+like
+traps in the encounter works the same
+
+456
+00:07:24,550 --> 00:07:24,560
+traps in the encounter works the same
+ 
+
+457
+00:07:24,560 --> 00:07:26,950
+traps in the encounter works the same
+way except there is a different xp cost
+
+458
+00:07:26,950 --> 00:07:26,960
+way except there is a different xp cost
+ 
+
+459
+00:07:26,960 --> 00:07:28,629
+way except there is a different xp cost
+depending on if it is a
+
+460
+00:07:28,629 --> 00:07:28,639
+depending on if it is a
+ 
+
+461
+00:07:28,639 --> 00:07:31,990
+depending on if it is a
+simple or complex hazard refer to table
+
+462
+00:07:31,990 --> 00:07:32,000
+simple or complex hazard refer to table
+ 
+
+463
+00:07:32,000 --> 00:07:35,189
+simple or complex hazard refer to table
+1014 on page 521
+
+464
+00:07:35,189 --> 00:07:35,199
+1014 on page 521
+ 
+
+465
+00:07:35,199 --> 00:07:37,510
+1014 on page 521
+for example if a traps level is one
+
+466
+00:07:37,510 --> 00:07:37,520
+for example if a traps level is one
+ 
+
+467
+00:07:37,520 --> 00:07:39,110
+for example if a traps level is one
+higher than the party level
+
+468
+00:07:39,110 --> 00:07:39,120
+higher than the party level
+ 
+
+469
+00:07:39,120 --> 00:07:41,189
+higher than the party level
+then it costs 12 points from the budget
+
+470
+00:07:41,189 --> 00:07:41,199
+then it costs 12 points from the budget
+ 
+
+471
+00:07:41,199 --> 00:07:43,110
+then it costs 12 points from the budget
+if it's a simple hazard
+
+472
+00:07:43,110 --> 00:07:43,120
+if it's a simple hazard
+ 
+
+473
+00:07:43,120 --> 00:07:45,670
+if it's a simple hazard
+or 60 points from the budget if it's
+
+474
+00:07:45,670 --> 00:07:45,680
+or 60 points from the budget if it's
+ 
+
+475
+00:07:45,680 --> 00:07:47,029
+or 60 points from the budget if it's
+complex
+
+476
+00:07:47,029 --> 00:07:47,039
+complex
+ 
+
+477
+00:07:47,039 --> 00:07:49,189
+complex
+if you're not sure whether a hazard is
+
+478
+00:07:49,189 --> 00:07:49,199
+if you're not sure whether a hazard is
+ 
+
+479
+00:07:49,199 --> 00:07:50,469
+if you're not sure whether a hazard is
+simple or complex
+
+480
+00:07:50,469 --> 00:07:50,479
+simple or complex
+ 
+
+481
+00:07:50,479 --> 00:07:53,270
+simple or complex
+just check its traits complex hazards
+
+482
+00:07:53,270 --> 00:07:53,280
+just check its traits complex hazards
+ 
+
+483
+00:07:53,280 --> 00:07:53,990
+just check its traits complex hazards
+will have
+
+484
+00:07:53,990 --> 00:07:54,000
+will have
+ 
+
+485
+00:07:54,000 --> 00:07:57,350
+will have
+the complex trait and see my video on
+
+486
+00:07:57,350 --> 00:07:57,360
+the complex trait and see my video on
+ 
+
+487
+00:07:57,360 --> 00:07:58,070
+the complex trait and see my video on
+hazards for
+
+488
+00:07:58,070 --> 00:07:58,080
+hazards for
+ 
+
+489
+00:07:58,080 --> 00:07:59,909
+hazards for
+more information i'll make sure to
+
+490
+00:07:59,909 --> 00:07:59,919
+more information i'll make sure to
+ 
+
+491
+00:07:59,919 --> 00:08:02,150
+more information i'll make sure to
+include a link to it in the description
+
+492
+00:08:02,150 --> 00:08:02,160
+include a link to it in the description
+ 
+
+493
+00:08:02,160 --> 00:08:04,309
+include a link to it in the description
+also as you begin selecting creatures
+
+494
+00:08:04,309 --> 00:08:04,319
+also as you begin selecting creatures
+ 
+
+495
+00:08:04,319 --> 00:08:06,790
+also as you begin selecting creatures
+consider how many you want to use
+
+496
+00:08:06,790 --> 00:08:06,800
+consider how many you want to use
+ 
+
+497
+00:08:06,800 --> 00:08:09,589
+consider how many you want to use
+the standard guideline is to try to have
+
+498
+00:08:09,589 --> 00:08:09,599
+the standard guideline is to try to have
+ 
+
+499
+00:08:09,599 --> 00:08:12,230
+the standard guideline is to try to have
+as many enemies as there are players or
+
+500
+00:08:12,230 --> 00:08:12,240
+as many enemies as there are players or
+ 
+
+501
+00:08:12,240 --> 00:08:14,390
+as many enemies as there are players or
+close to that and even in boston
+
+502
+00:08:14,390 --> 00:08:14,400
+close to that and even in boston
+ 
+
+503
+00:08:14,400 --> 00:08:16,150
+close to that and even in boston
+counters you might want to consider
+
+504
+00:08:16,150 --> 00:08:16,160
+counters you might want to consider
+ 
+
+505
+00:08:16,160 --> 00:08:18,629
+counters you might want to consider
+lowering the boss by a level or two to
+
+506
+00:08:18,629 --> 00:08:18,639
+lowering the boss by a level or two to
+ 
+
+507
+00:08:18,639 --> 00:08:20,629
+lowering the boss by a level or two to
+pay for a couple of lieutenants or
+
+508
+00:08:20,629 --> 00:08:20,639
+pay for a couple of lieutenants or
+ 
+
+509
+00:08:20,639 --> 00:08:23,510
+pay for a couple of lieutenants or
+minions the game mastery guide provides
+
+510
+00:08:23,510 --> 00:08:23,520
+minions the game mastery guide provides
+ 
+
+511
+00:08:23,520 --> 00:08:23,990
+minions the game mastery guide provides
+these
+
+512
+00:08:23,990 --> 00:08:24,000
+these
+ 
+
+513
+00:08:24,000 --> 00:08:26,550
+these
+as sample encounter groups assuming the
+
+514
+00:08:26,550 --> 00:08:26,560
+as sample encounter groups assuming the
+ 
+
+515
+00:08:26,560 --> 00:08:27,510
+as sample encounter groups assuming the
+party is made
+
+516
+00:08:27,510 --> 00:08:27,520
+party is made
+ 
+
+517
+00:08:27,520 --> 00:08:30,790
+party is made
+of four pcs if facing a boss in their
+
+518
+00:08:30,790 --> 00:08:30,800
+of four pcs if facing a boss in their
+ 
+
+519
+00:08:30,800 --> 00:08:31,430
+of four pcs if facing a boss in their
+lackeys
+
+520
+00:08:31,430 --> 00:08:31,440
+lackeys
+ 
+
+521
+00:08:31,440 --> 00:08:33,509
+lackeys
+that would be a severe threatened
+
+522
+00:08:33,509 --> 00:08:33,519
+that would be a severe threatened
+ 
+
+523
+00:08:33,519 --> 00:08:35,350
+that would be a severe threatened
+counter for 120 xp
+
+524
+00:08:35,350 --> 00:08:35,360
+counter for 120 xp
+ 
+
+525
+00:08:35,360 --> 00:08:38,230
+counter for 120 xp
+and include one enemy that's two levels
+
+526
+00:08:38,230 --> 00:08:38,240
+and include one enemy that's two levels
+ 
+
+527
+00:08:38,240 --> 00:08:39,829
+and include one enemy that's two levels
+higher than the party level
+
+528
+00:08:39,829 --> 00:08:39,839
+higher than the party level
+ 
+
+529
+00:08:39,839 --> 00:08:42,949
+higher than the party level
+and four enemies that are four levels
+
+530
+00:08:42,949 --> 00:08:42,959
+and four enemies that are four levels
+ 
+
+531
+00:08:42,959 --> 00:08:45,509
+and four enemies that are four levels
+lower than the party level facing a
+
+532
+00:08:45,509 --> 00:08:45,519
+lower than the party level facing a
+ 
+
+533
+00:08:45,519 --> 00:08:46,630
+lower than the party level facing a
+troop of enemies
+
+534
+00:08:46,630 --> 00:08:46,640
+troop of enemies
+ 
+
+535
+00:08:46,640 --> 00:08:49,190
+troop of enemies
+which is not to be confused with the new
+
+536
+00:08:49,190 --> 00:08:49,200
+which is not to be confused with the new
+ 
+
+537
+00:08:49,200 --> 00:08:52,310
+which is not to be confused with the new
+troops that are presented in bestiary 3
+
+538
+00:08:52,310 --> 00:08:52,320
+troops that are presented in bestiary 3
+ 
+
+539
+00:08:52,320 --> 00:08:54,230
+troops that are presented in bestiary 3
+this would be a moderate threatened
+
+540
+00:08:54,230 --> 00:08:54,240
+this would be a moderate threatened
+ 
+
+541
+00:08:54,240 --> 00:08:56,470
+this would be a moderate threatened
+counter worth 80 xp
+
+542
+00:08:56,470 --> 00:08:56,480
+counter worth 80 xp
+ 
+
+543
+00:08:56,480 --> 00:08:58,710
+counter worth 80 xp
+and would include one enemy the same
+
+544
+00:08:58,710 --> 00:08:58,720
+and would include one enemy the same
+ 
+
+545
+00:08:58,720 --> 00:08:59,750
+and would include one enemy the same
+level as the party
+
+546
+00:08:59,750 --> 00:08:59,760
+level as the party
+ 
+
+547
+00:08:59,760 --> 00:09:02,470
+level as the party
+and two more enemies that are each two
+
+548
+00:09:02,470 --> 00:09:02,480
+and two more enemies that are each two
+ 
+
+549
+00:09:02,480 --> 00:09:04,150
+and two more enemies that are each two
+levels lower than the party
+
+550
+00:09:04,150 --> 00:09:04,160
+levels lower than the party
+ 
+
+551
+00:09:04,160 --> 00:09:07,430
+levels lower than the party
+and so on there are far far more
+
+552
+00:09:07,430 --> 00:09:07,440
+and so on there are far far more
+ 
+
+553
+00:09:07,440 --> 00:09:08,790
+and so on there are far far more
+possible combinations
+
+554
+00:09:08,790 --> 00:09:08,800
+possible combinations
+ 
+
+555
+00:09:08,800 --> 00:09:10,710
+possible combinations
+but this page from the game mastery
+
+556
+00:09:10,710 --> 00:09:10,720
+but this page from the game mastery
+ 
+
+557
+00:09:10,720 --> 00:09:12,070
+but this page from the game mastery
+guide just gives you a
+
+558
+00:09:12,070 --> 00:09:12,080
+guide just gives you a
+ 
+
+559
+00:09:12,080 --> 00:09:14,230
+guide just gives you a
+simple template for putting encounters
+
+560
+00:09:14,230 --> 00:09:14,240
+simple template for putting encounters
+ 
+
+561
+00:09:14,240 --> 00:09:17,269
+simple template for putting encounters
+together quickly
+
+562
+00:09:17,269 --> 00:09:17,279
+
+ 
+
+563
+00:09:17,279 --> 00:09:19,110
+
+and a few other things to consider are
+
+564
+00:09:19,110 --> 00:09:19,120
+and a few other things to consider are
+ 
+
+565
+00:09:19,120 --> 00:09:21,030
+and a few other things to consider are
+that the rules for building counters
+
+566
+00:09:21,030 --> 00:09:21,040
+that the rules for building counters
+ 
+
+567
+00:09:21,040 --> 00:09:23,590
+that the rules for building counters
+are only based on party level creature
+
+568
+00:09:23,590 --> 00:09:23,600
+are only based on party level creature
+ 
+
+569
+00:09:23,600 --> 00:09:24,150
+are only based on party level creature
+level
+
+570
+00:09:24,150 --> 00:09:24,160
+level
+ 
+
+571
+00:09:24,160 --> 00:09:26,550
+level
+and threat level but there are some
+
+572
+00:09:26,550 --> 00:09:26,560
+and threat level but there are some
+ 
+
+573
+00:09:26,560 --> 00:09:27,430
+and threat level but there are some
+things that might
+
+574
+00:09:27,430 --> 00:09:27,440
+things that might
+ 
+
+575
+00:09:27,440 --> 00:09:29,910
+things that might
+impact the difficulty of a fight beyond
+
+576
+00:09:29,910 --> 00:09:29,920
+impact the difficulty of a fight beyond
+ 
+
+577
+00:09:29,920 --> 00:09:31,350
+impact the difficulty of a fight beyond
+these three items
+
+578
+00:09:31,350 --> 00:09:31,360
+these three items
+ 
+
+579
+00:09:31,360 --> 00:09:33,990
+these three items
+for example difficult terrain there's no
+
+580
+00:09:33,990 --> 00:09:34,000
+for example difficult terrain there's no
+ 
+
+581
+00:09:34,000 --> 00:09:36,070
+for example difficult terrain there's no
+rule that says that difficult terrain
+
+582
+00:09:36,070 --> 00:09:36,080
+rule that says that difficult terrain
+ 
+
+583
+00:09:36,080 --> 00:09:36,630
+rule that says that difficult terrain
+costs
+
+584
+00:09:36,630 --> 00:09:36,640
+costs
+ 
+
+585
+00:09:36,640 --> 00:09:38,550
+costs
+20 points of the budget and greater
+
+586
+00:09:38,550 --> 00:09:38,560
+20 points of the budget and greater
+ 
+
+587
+00:09:38,560 --> 00:09:39,829
+20 points of the budget and greater
+difficult terrain costs
+
+588
+00:09:39,829 --> 00:09:39,839
+difficult terrain costs
+ 
+
+589
+00:09:39,839 --> 00:09:43,030
+difficult terrain costs
+40 points or whatever instead you as a
+
+590
+00:09:43,030 --> 00:09:43,040
+40 points or whatever instead you as a
+ 
+
+591
+00:09:43,040 --> 00:09:45,590
+40 points or whatever instead you as a
+gm will need to make a judgment call to
+
+592
+00:09:45,590 --> 00:09:45,600
+gm will need to make a judgment call to
+ 
+
+593
+00:09:45,600 --> 00:09:46,870
+gm will need to make a judgment call to
+determine if your
+
+594
+00:09:46,870 --> 00:09:46,880
+determine if your
+ 
+
+595
+00:09:46,880 --> 00:09:48,630
+determine if your
+use of difficult terrain in the
+
+596
+00:09:48,630 --> 00:09:48,640
+use of difficult terrain in the
+ 
+
+597
+00:09:48,640 --> 00:09:50,070
+use of difficult terrain in the
+encounter is severe
+
+598
+00:09:50,070 --> 00:09:50,080
+encounter is severe
+ 
+
+599
+00:09:50,080 --> 00:09:52,070
+encounter is severe
+enough that it should be treated as
+
+600
+00:09:52,070 --> 00:09:52,080
+enough that it should be treated as
+ 
+
+601
+00:09:52,080 --> 00:09:54,949
+enough that it should be treated as
+another creature in the encounter budget
+
+602
+00:09:54,949 --> 00:09:54,959
+another creature in the encounter budget
+ 
+
+603
+00:09:54,959 --> 00:09:57,190
+another creature in the encounter budget
+the game mastery guide suggests that if
+
+604
+00:09:57,190 --> 00:09:57,200
+the game mastery guide suggests that if
+ 
+
+605
+00:09:57,200 --> 00:09:59,269
+the game mastery guide suggests that if
+the difficult terrain is significant but
+
+606
+00:09:59,269 --> 00:09:59,279
+the difficult terrain is significant but
+ 
+
+607
+00:09:59,279 --> 00:10:00,389
+the difficult terrain is significant but
+not equal to
+
+608
+00:10:00,389 --> 00:10:00,399
+not equal to
+ 
+
+609
+00:10:00,399 --> 00:10:02,949
+not equal to
+another enemy then you might want to not
+
+610
+00:10:02,949 --> 00:10:02,959
+another enemy then you might want to not
+ 
+
+611
+00:10:02,959 --> 00:10:03,990
+another enemy then you might want to not
+adjust the encounter
+
+612
+00:10:03,990 --> 00:10:04,000
+adjust the encounter
+ 
+
+613
+00:10:04,000 --> 00:10:06,949
+adjust the encounter
+budget but slightly increase the xp
+
+614
+00:10:06,949 --> 00:10:06,959
+budget but slightly increase the xp
+ 
+
+615
+00:10:06,959 --> 00:10:08,630
+budget but slightly increase the xp
+reward for defeating the encounter
+
+616
+00:10:08,630 --> 00:10:08,640
+reward for defeating the encounter
+ 
+
+617
+00:10:08,640 --> 00:10:09,590
+reward for defeating the encounter
+instead
+
+618
+00:10:09,590 --> 00:10:09,600
+instead
+ 
+
+619
+00:10:09,600 --> 00:10:11,829
+instead
+likewise anything else that might impact
+
+620
+00:10:11,829 --> 00:10:11,839
+likewise anything else that might impact
+ 
+
+621
+00:10:11,839 --> 00:10:13,350
+likewise anything else that might impact
+the difficulty of the encounter
+
+622
+00:10:13,350 --> 00:10:13,360
+the difficulty of the encounter
+ 
+
+623
+00:10:13,360 --> 00:10:15,590
+the difficulty of the encounter
+should be considered as well if you're
+
+624
+00:10:15,590 --> 00:10:15,600
+should be considered as well if you're
+ 
+
+625
+00:10:15,600 --> 00:10:17,110
+should be considered as well if you're
+building the encounter to include
+
+626
+00:10:17,110 --> 00:10:17,120
+building the encounter to include
+ 
+
+627
+00:10:17,120 --> 00:10:19,190
+building the encounter to include
+different phases then you'll want to
+
+628
+00:10:19,190 --> 00:10:19,200
+different phases then you'll want to
+ 
+
+629
+00:10:19,200 --> 00:10:21,350
+different phases then you'll want to
+consider that when setting the budget
+
+630
+00:10:21,350 --> 00:10:21,360
+consider that when setting the budget
+ 
+
+631
+00:10:21,360 --> 00:10:23,590
+consider that when setting the budget
+if not all of the enemies are present at
+
+632
+00:10:23,590 --> 00:10:23,600
+if not all of the enemies are present at
+ 
+
+633
+00:10:23,600 --> 00:10:24,870
+if not all of the enemies are present at
+the start of the encounter
+
+634
+00:10:24,870 --> 00:10:24,880
+the start of the encounter
+ 
+
+635
+00:10:24,880 --> 00:10:26,710
+the start of the encounter
+then you might increase the budget
+
+636
+00:10:26,710 --> 00:10:26,720
+then you might increase the budget
+ 
+
+637
+00:10:26,720 --> 00:10:28,710
+then you might increase the budget
+slightly and if there is
+
+638
+00:10:28,710 --> 00:10:28,720
+slightly and if there is
+ 
+
+639
+00:10:28,720 --> 00:10:30,870
+slightly and if there is
+an increased likelihood that two or more
+
+640
+00:10:30,870 --> 00:10:30,880
+an increased likelihood that two or more
+ 
+
+641
+00:10:30,880 --> 00:10:32,150
+an increased likelihood that two or more
+encounters might get
+
+642
+00:10:32,150 --> 00:10:32,160
+encounters might get
+ 
+
+643
+00:10:32,160 --> 00:10:34,389
+encounters might get
+pulled together for example if they're
+
+644
+00:10:34,389 --> 00:10:34,399
+pulled together for example if they're
+ 
+
+645
+00:10:34,399 --> 00:10:35,670
+pulled together for example if they're
+in adjacent rooms
+
+646
+00:10:35,670 --> 00:10:35,680
+in adjacent rooms
+ 
+
+647
+00:10:35,680 --> 00:10:37,430
+in adjacent rooms
+and might be alerted by the sound of
+
+648
+00:10:37,430 --> 00:10:37,440
+and might be alerted by the sound of
+ 
+
+649
+00:10:37,440 --> 00:10:39,670
+and might be alerted by the sound of
+combat then you might want to
+
+650
+00:10:39,670 --> 00:10:39,680
+combat then you might want to
+ 
+
+651
+00:10:39,680 --> 00:10:41,910
+combat then you might want to
+decrease the budget for each of those
+
+652
+00:10:41,910 --> 00:10:41,920
+decrease the budget for each of those
+ 
+
+653
+00:10:41,920 --> 00:10:43,990
+decrease the budget for each of those
+encounters to reduce the odds of the
+
+654
+00:10:43,990 --> 00:10:44,000
+encounters to reduce the odds of the
+ 
+
+655
+00:10:44,000 --> 00:10:46,150
+encounters to reduce the odds of the
+players becoming overwhelmed
+
+656
+00:10:46,150 --> 00:10:46,160
+players becoming overwhelmed
+ 
+
+657
+00:10:46,160 --> 00:10:47,910
+players becoming overwhelmed
+you might also want to decrease the
+
+658
+00:10:47,910 --> 00:10:47,920
+you might also want to decrease the
+ 
+
+659
+00:10:47,920 --> 00:10:50,150
+you might also want to decrease the
+budget if the fight isn't entirely
+
+660
+00:10:50,150 --> 00:10:50,160
+budget if the fight isn't entirely
+ 
+
+661
+00:10:50,160 --> 00:10:53,190
+budget if the fight isn't entirely
+fair for example if all the enemies are
+
+662
+00:10:53,190 --> 00:10:53,200
+fair for example if all the enemies are
+ 
+
+663
+00:10:53,200 --> 00:10:55,110
+fair for example if all the enemies are
+positioned in hard-to-reach locations
+
+664
+00:10:55,110 --> 00:10:55,120
+positioned in hard-to-reach locations
+ 
+
+665
+00:10:55,120 --> 00:10:57,670
+positioned in hard-to-reach locations
+using arranged weapons from behind cover
+
+666
+00:10:57,670 --> 00:10:57,680
+using arranged weapons from behind cover
+ 
+
+667
+00:10:57,680 --> 00:11:00,069
+using arranged weapons from behind cover
+this is not an exact science and there
+
+668
+00:11:00,069 --> 00:11:00,079
+this is not an exact science and there
+ 
+
+669
+00:11:00,079 --> 00:11:02,550
+this is not an exact science and there
+are no hard rules for how much xp
+
+670
+00:11:02,550 --> 00:11:02,560
+are no hard rules for how much xp
+ 
+
+671
+00:11:02,560 --> 00:11:04,470
+are no hard rules for how much xp
+should be deducted from the budget for
+
+672
+00:11:04,470 --> 00:11:04,480
+should be deducted from the budget for
+ 
+
+673
+00:11:04,480 --> 00:11:05,829
+should be deducted from the budget for
+situations like these
+
+674
+00:11:05,829 --> 00:11:05,839
+situations like these
+ 
+
+675
+00:11:05,839 --> 00:11:07,430
+situations like these
+you'll just have to use your best
+
+676
+00:11:07,430 --> 00:11:07,440
+you'll just have to use your best
+ 
+
+677
+00:11:07,440 --> 00:11:10,470
+you'll just have to use your best
+judgment and be prepared to improvise if
+
+678
+00:11:10,470 --> 00:11:10,480
+judgment and be prepared to improvise if
+ 
+
+679
+00:11:10,480 --> 00:11:12,870
+judgment and be prepared to improvise if
+things do not go as planned
+
+680
+00:11:12,870 --> 00:11:12,880
+things do not go as planned
+ 
+
+681
+00:11:12,880 --> 00:11:15,190
+things do not go as planned
+so those are the basic mechanics for
+
+682
+00:11:15,190 --> 00:11:15,200
+so those are the basic mechanics for
+ 
+
+683
+00:11:15,200 --> 00:11:15,990
+so those are the basic mechanics for
+building an
+
+684
+00:11:15,990 --> 00:11:16,000
+building an
+ 
+
+685
+00:11:16,000 --> 00:11:18,230
+building an
+encounter i will also be publishing a
+
+686
+00:11:18,230 --> 00:11:18,240
+encounter i will also be publishing a
+ 
+
+687
+00:11:18,240 --> 00:11:20,069
+encounter i will also be publishing a
+step-by-step example video
+
+688
+00:11:20,069 --> 00:11:20,079
+step-by-step example video
+ 
+
+689
+00:11:20,079 --> 00:11:22,470
+step-by-step example video
+showing how to build a normal encounter
+
+690
+00:11:22,470 --> 00:11:22,480
+showing how to build a normal encounter
+ 
+
+691
+00:11:22,480 --> 00:11:24,310
+showing how to build a normal encounter
+and part three of this series
+
+692
+00:11:24,310 --> 00:11:24,320
+and part three of this series
+ 
+
+693
+00:11:24,320 --> 00:11:26,710
+and part three of this series
+will discuss how to manage rewards
+
+694
+00:11:26,710 --> 00:11:26,720
+will discuss how to manage rewards
+ 
+
+695
+00:11:26,720 --> 00:11:29,750
+will discuss how to manage rewards
+following the encounter
+
+696
+00:11:29,750 --> 00:11:29,760
+following the encounter
+ 
+
+697
+00:11:29,760 --> 00:11:31,269
+following the encounter
+before we close i'd like to take a
+
+698
+00:11:31,269 --> 00:11:31,279
+before we close i'd like to take a
+ 
+
+699
+00:11:31,279 --> 00:11:33,269
+before we close i'd like to take a
+moment to thank all of my patrons
+
+700
+00:11:33,269 --> 00:11:33,279
+moment to thank all of my patrons
+ 
+
+701
+00:11:33,279 --> 00:11:34,790
+moment to thank all of my patrons
+these videos would not be possible
+
+702
+00:11:34,790 --> 00:11:34,800
+these videos would not be possible
+ 
+
+703
+00:11:34,800 --> 00:11:36,790
+these videos would not be possible
+without their continued generosity and
+
+704
+00:11:36,790 --> 00:11:36,800
+without their continued generosity and
+ 
+
+705
+00:11:36,800 --> 00:11:37,910
+without their continued generosity and
+support
+
+706
+00:11:37,910 --> 00:11:37,920
+support
+ 
+
+707
+00:11:37,920 --> 00:11:39,430
+support
+members of the house played patreon
+
+708
+00:11:39,430 --> 00:11:39,440
+members of the house played patreon
+ 
+
+709
+00:11:39,440 --> 00:11:41,509
+members of the house played patreon
+community receive special benefits like
+
+710
+00:11:41,509 --> 00:11:41,519
+community receive special benefits like
+ 
+
+711
+00:11:41,519 --> 00:11:42,069
+community receive special benefits like
+exclusive
+
+712
+00:11:42,069 --> 00:11:42,079
+exclusive
+ 
+
+713
+00:11:42,079 --> 00:11:43,829
+exclusive
+content and getting to vote on the
+
+714
+00:11:43,829 --> 00:11:43,839
+content and getting to vote on the
+ 
+
+715
+00:11:43,839 --> 00:11:45,670
+content and getting to vote on the
+topics i cover if you would like to
+
+716
+00:11:45,670 --> 00:11:45,680
+topics i cover if you would like to
+ 
+
+717
+00:11:45,680 --> 00:11:47,509
+topics i cover if you would like to
+support this channel and help it grow
+
+718
+00:11:47,509 --> 00:11:47,519
+support this channel and help it grow
+ 
+
+719
+00:11:47,519 --> 00:11:49,430
+support this channel and help it grow
+the easiest way to do that is by
+
+720
+00:11:49,430 --> 00:11:49,440
+the easiest way to do that is by
+ 
+
+721
+00:11:49,440 --> 00:11:51,430
+the easiest way to do that is by
+subscribing and clicking the bell icon
+
+722
+00:11:51,430 --> 00:11:51,440
+subscribing and clicking the bell icon
+ 
+
+723
+00:11:51,440 --> 00:11:53,190
+subscribing and clicking the bell icon
+so you get notified when new videos
+
+724
+00:11:53,190 --> 00:11:53,200
+so you get notified when new videos
+ 
+
+725
+00:11:53,200 --> 00:11:55,190
+so you get notified when new videos
+release and i can always be reached
+
+726
+00:11:55,190 --> 00:11:55,200
+release and i can always be reached
+ 
+
+727
+00:11:55,200 --> 00:11:57,190
+release and i can always be reached
+through twitter and facebook too
+
+728
+00:11:57,190 --> 00:11:57,200
+through twitter and facebook too
+ 
+
+729
+00:11:57,200 --> 00:12:00,590
+through twitter and facebook too
+thanks for watching take care and happy
+
+730
+00:12:00,590 --> 00:12:00,600
+thanks for watching take care and happy
+ 
+
+731
+00:12:00,600 --> 00:12:03,600
+thanks for watching take care and happy
+gaming
+

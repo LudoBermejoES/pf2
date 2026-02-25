@@ -1,0 +1,4823 @@
+1
+00:00:00,640 --> 00:00:03,180
+
+Hola y bienvenidos a Conceptos básicos para jugadores, que
+
+2
+00:00:03,180 --> 00:00:03,190
+Hola y bienvenidos a Conceptos básicos para jugadores, que
+ 
+
+3
+00:00:03,190 --> 00:00:05,790
+Hola y bienvenidos a Conceptos básicos para jugadores, que
+presenta los conceptos básicos del hurto en
+
+4
+00:00:05,790 --> 00:00:05,800
+presenta los conceptos básicos del hurto en
+ 
+
+5
+00:00:05,800 --> 00:00:08,490
+presenta los conceptos básicos del hurto en
+Pathfinder segunda edición. El hurto es una
+
+6
+00:00:08,490 --> 00:00:08,500
+Pathfinder segunda edición. El hurto es una
+ 
+
+7
+00:00:08,500 --> 00:00:10,529
+Pathfinder segunda edición. El hurto es una
+habilidad basada en la destreza que se usa para
+
+8
+00:00:10,529 --> 00:00:10,539
+habilidad basada en la destreza que se usa para
+ 
+
+9
+00:00:10,539 --> 00:00:12,089
+habilidad basada en la destreza que se usa para
+realizar muchas de las acciones que se
+
+10
+00:00:12,089 --> 00:00:12,099
+realizar muchas de las acciones que se
+ 
+
+11
+00:00:12,099 --> 00:00:13,799
+realizar muchas de las acciones que se
+asocian comúnmente con pícaros y
+
+12
+00:00:13,799 --> 00:00:13,809
+asocian comúnmente con pícaros y
+ 
+
+13
+00:00:13,809 --> 00:00:16,500
+asocian comúnmente con pícaros y
+criminales, como robar, desarmar
+
+14
+00:00:16,500 --> 00:00:16,510
+criminales, como robar, desarmar
+ 
+
+15
+00:00:16,510 --> 00:00:20,270
+criminales, como robar, desarmar
+trampas y abrir cerraduras.
+
+16
+00:00:20,270 --> 00:00:20,280
+
+ 
+
+17
+00:00:20,280 --> 00:00:23,210
+
+La primera acción de hurto se llama palma
+
+18
+00:00:23,210 --> 00:00:23,220
+La primera acción de hurto se llama palma
+ 
+
+19
+00:00:23,220 --> 00:00:25,940
+La primera acción de hurto se llama palma
+y objeto. El pomo de palma se usa
+
+20
+00:00:25,940 --> 00:00:25,950
+y objeto. El pomo de palma se usa
+ 
+
+21
+00:00:25,950 --> 00:00:27,440
+y objeto. El pomo de palma se usa
+siempre que un jugador desea recoger
+
+22
+00:00:27,440 --> 00:00:27,450
+siempre que un jugador desea recoger
+ 
+
+23
+00:00:27,450 --> 00:00:29,630
+siempre que un jugador desea recoger
+algo sin ser notado. Por
+
+24
+00:00:29,630 --> 00:00:29,640
+algo sin ser notado. Por
+ 
+
+25
+00:00:29,640 --> 00:00:31,970
+algo sin ser notado. Por
+ejemplo, pueden intentar tomar un objeto
+
+26
+00:00:31,970 --> 00:00:31,980
+ejemplo, pueden intentar tomar un objeto
+ 
+
+27
+00:00:31,980 --> 00:00:34,100
+ejemplo, pueden intentar tomar un objeto
+de una tienda sin que el comerciante los
+
+28
+00:00:34,100 --> 00:00:34,110
+de una tienda sin que el comerciante los
+ 
+
+29
+00:00:34,110 --> 00:00:36,530
+de una tienda sin que el comerciante los
+pille. Para hacer esto, el jugador
+
+30
+00:00:36,530 --> 00:00:36,540
+pille. Para hacer esto, el jugador
+ 
+
+31
+00:00:36,540 --> 00:00:38,869
+pille. Para hacer esto, el jugador
+realizaría una prueba de habilidad de hurto que
+
+32
+00:00:38,869 --> 00:00:38,879
+realizaría una prueba de habilidad de hurto que
+ 
+
+33
+00:00:38,879 --> 00:00:40,490
+realizaría una prueba de habilidad de hurto que
+sería impugnada por la
+
+34
+00:00:40,490 --> 00:00:40,500
+sería impugnada por la
+ 
+
+35
+00:00:40,500 --> 00:00:42,740
+sería impugnada por la
+enfermedad de percepción de todos los que estén a la vista del
+
+36
+00:00:42,740 --> 00:00:42,750
+enfermedad de percepción de todos los que estén a la vista del
+ 
+
+37
+00:00:42,750 --> 00:00:43,340
+enfermedad de percepción de todos los que estén a la vista del
+robo.
+
+38
+00:00:43,340 --> 00:00:43,350
+robo.
+ 
+
+39
+00:00:43,350 --> 00:00:46,430
+robo.
+Si el jugador tiene éxito, esa criatura
+
+40
+00:00:46,430 --> 00:00:46,440
+Si el jugador tiene éxito, esa criatura
+ 
+
+41
+00:00:46,440 --> 00:00:48,710
+Si el jugador tiene éxito, esa criatura
+no se da cuenta de que están tomando el objeto y
+
+42
+00:00:48,710 --> 00:00:48,720
+no se da cuenta de que están tomando el objeto y
+ 
+
+43
+00:00:48,720 --> 00:00:51,530
+no se da cuenta de que están tomando el objeto y
+si fallan, la criatura se da cuenta
+
+44
+00:00:51,530 --> 00:00:51,540
+si fallan, la criatura se da cuenta
+ 
+
+45
+00:00:51,540 --> 00:00:53,780
+si fallan, la criatura se da cuenta
+y luego dependerá de
+
+46
+00:00:53,780 --> 00:00:53,790
+y luego dependerá de
+ 
+
+47
+00:00:53,790 --> 00:00:56,299
+y luego dependerá de
+cada DJ determinar cómo actuará esa criatura
+
+48
+00:00:56,299 --> 00:00:56,309
+cada DJ determinar cómo actuará esa criatura
+ 
+
+49
+00:00:56,309 --> 00:00:59,389
+cada DJ determinar cómo actuará esa criatura
+y algunos otros puntos sobre
+
+50
+00:00:59,389 --> 00:00:59,399
+y algunos otros puntos sobre
+ 
+
+51
+00:00:59,399 --> 00:01:02,060
+y algunos otros puntos sobre
+palma y objeto. Primero, se pretende
+
+52
+00:01:02,060 --> 00:01:02,070
+palma y objeto. Primero, se pretende
+ 
+
+53
+00:01:02,070 --> 00:01:04,639
+palma y objeto. Primero, se pretende
+que el objeto que se está empalmando sea de un
+
+54
+00:01:04,639 --> 00:01:04,649
+que el objeto que se está empalmando sea de un
+ 
+
+55
+00:01:04,649 --> 00:01:07,730
+que el objeto que se está empalmando sea de un
+volumen insignificante, pero se podrían empalmar objetos más grandes
+
+56
+00:01:07,730 --> 00:01:07,740
+volumen insignificante, pero se podrían empalmar objetos más grandes
+ 
+
+57
+00:01:07,740 --> 00:01:10,310
+volumen insignificante, pero se podrían empalmar objetos más grandes
+con el
+
+58
+00:01:10,310 --> 00:01:10,320
+con el
+ 
+
+59
+00:01:10,320 --> 00:01:13,010
+con el
+permiso de los vaqueros y probablemente con un
+
+60
+00:01:13,010 --> 00:01:13,020
+permiso de los vaqueros y probablemente con un
+ 
+
+61
+00:01:13,020 --> 00:01:15,279
+permiso de los vaqueros y probablemente con un
+aumento adecuado en la dificultad.  Bueno, en
+
+62
+00:01:15,279 --> 00:01:15,289
+aumento adecuado en la dificultad.  Bueno, en
+ 
+
+63
+00:01:15,289 --> 00:01:18,230
+aumento adecuado en la dificultad.  Bueno, en
+segundo lugar, el objeto se recoge sin importar lo que pase,
+
+64
+00:01:18,230 --> 00:01:18,240
+segundo lugar, el objeto se recoge sin importar lo que pase,
+ 
+
+65
+00:01:18,240 --> 00:01:21,200
+segundo lugar, el objeto se recoge sin importar lo que pase,
+el personaje no puede decidir no
+
+66
+00:01:21,200 --> 00:01:21,210
+el personaje no puede decidir no
+ 
+
+67
+00:01:21,210 --> 00:01:23,270
+el personaje no puede decidir no
+tomar ese objeto una vez que falla su
+
+68
+00:01:23,270 --> 00:01:23,280
+tomar ese objeto una vez que falla su
+ 
+
+69
+00:01:23,280 --> 00:01:24,859
+tomar ese objeto una vez que falla su
+verificación y se da cuenta de que ha sido
+
+70
+00:01:24,859 --> 00:01:24,869
+verificación y se da cuenta de que ha sido
+ 
+
+71
+00:01:24,869 --> 00:01:28,789
+verificación y se da cuenta de que ha sido
+notado. En tercer lugar, el objeto Hallman se usa para
+
+72
+00:01:28,789 --> 00:01:28,799
+notado. En tercer lugar, el objeto Hallman se usa para
+ 
+
+73
+00:01:28,799 --> 00:01:31,280
+notado. En tercer lugar, el objeto Hallman se usa para
+recoger un objeto sin ser notado,
+
+74
+00:01:31,280 --> 00:01:31,290
+recoger un objeto sin ser notado,
+ 
+
+75
+00:01:31,290 --> 00:01:33,859
+recoger un objeto sin ser notado,
+pero si deseas ocultar un objeto que ya
+
+76
+00:01:33,859 --> 00:01:33,869
+pero si deseas ocultar un objeto que ya
+ 
+
+77
+00:01:33,869 --> 00:01:36,230
+pero si deseas ocultar un objeto que ya
+llevas, usarías la
+
+78
+00:01:36,230 --> 00:01:36,240
+llevas, usarías la
+ 
+
+79
+00:01:36,240 --> 00:01:38,749
+llevas, usarías la
+aplicación oculta y de objeto de la
+
+80
+00:01:38,749 --> 00:01:38,759
+aplicación oculta y de objeto de la
+ 
+
+81
+00:01:38,759 --> 00:01:41,870
+aplicación oculta y de objeto de la
+habilidad de sigilo. De hecho, un DM puede requerir que un
+
+82
+00:01:41,870 --> 00:01:41,880
+habilidad de sigilo. De hecho, un DM puede requerir que un
+ 
+
+83
+00:01:41,880 --> 00:01:44,240
+habilidad de sigilo. De hecho, un DM puede requerir que un
+jugador haga ambas verificaciones. En muchas
+
+84
+00:01:44,240 --> 00:01:44,250
+jugador haga ambas verificaciones. En muchas
+ 
+
+85
+00:01:44,250 --> 00:01:46,700
+jugador haga ambas verificaciones. En muchas
+circunstancias, gastarían una acción
+
+86
+00:01:46,700 --> 00:01:46,710
+circunstancias, gastarían una acción
+ 
+
+87
+00:01:46,710 --> 00:01:49,100
+circunstancias, gastarían una acción
+en palma y objeto cuando recogen un
+
+88
+00:01:49,100 --> 00:01:49,110
+en palma y objeto cuando recogen un
+ 
+
+89
+00:01:49,110 --> 00:01:50,810
+en palma y objeto cuando recogen un
+objeto en una tienda sin ser notados
+
+90
+00:01:50,810 --> 00:01:50,820
+objeto en una tienda sin ser notados
+ 
+
+91
+00:01:50,820 --> 00:01:54,050
+objeto en una tienda sin ser notados
+y luego gastarían otra acción para
+
+92
+00:01:54,050 --> 00:01:54,060
+y luego gastarían otra acción para
+ 
+
+93
+00:01:54,060 --> 00:01:56,510
+y luego gastarían otra acción para
+ocultar un objeto cuando intentan
+
+94
+00:01:56,510 --> 00:01:56,520
+ocultar un objeto cuando intentan
+ 
+
+95
+00:01:56,520 --> 00:01:58,429
+ocultar un objeto cuando intentan
+pasar al tendero y salir por la
+
+96
+00:01:58,429 --> 00:01:58,439
+pasar al tendero y salir por la
+ 
+
+97
+00:01:58,439 --> 00:02:01,870
+pasar al tendero y salir por la
+puerta. Y para que el objeto no esté
+
+98
+00:02:01,870 --> 00:02:01,880
+puerta. Y para que el objeto no esté
+ 
+
+99
+00:02:01,880 --> 00:02:05,179
+puerta. Y para que el objeto no esté
+desatendido, desatendido básicamente significa
+
+100
+00:02:05,179 --> 00:02:05,189
+desatendido, desatendido básicamente significa
+ 
+
+101
+00:02:05,189 --> 00:02:07,039
+desatendido, desatendido básicamente significa
+que el objeto no está en posesión
+
+102
+00:02:07,039 --> 00:02:07,049
+que el objeto no está en posesión
+ 
+
+103
+00:02:07,049 --> 00:02:09,410
+que el objeto no está en posesión
+de otro personaje. No podrías usar
+
+104
+00:02:09,410 --> 00:02:09,420
+de otro personaje. No podrías usar
+ 
+
+105
+00:02:09,420 --> 00:02:11,420
+de otro personaje. No podrías usar
+palma y objeto si quisieras robar
+
+106
+00:02:11,420 --> 00:02:11,430
+palma y objeto si quisieras robar
+ 
+
+107
+00:02:11,430 --> 00:02:13,880
+palma y objeto si quisieras robar
+algo con bolsillos. Para eso usarías
+
+108
+00:02:13,880 --> 00:02:13,890
+algo con bolsillos. Para eso usarías
+ 
+
+109
+00:02:13,890 --> 00:02:16,069
+algo con bolsillos. Para eso usarías
+la segunda acción de robo, que es robar el
+
+110
+00:02:16,069 --> 00:02:16,079
+la segunda acción de robo, que es robar el
+ 
+
+111
+00:02:16,079 --> 00:02:19,070
+la segunda acción de robo, que es robar el
+
+112
+00:02:19,070 --> 00:02:19,080
+
+ 
+
+113
+00:02:19,080 --> 00:02:21,680
+
+acero. La acción se usa para tomar un
+
+114
+00:02:21,680 --> 00:02:21,690
+acero. La acción se usa para tomar un
+ 
+
+115
+00:02:21,690 --> 00:02:23,900
+acero. La acción se usa para tomar un
+objeto pequeño de otro personaje sin
+
+116
+00:02:23,900 --> 00:02:23,910
+objeto pequeño de otro personaje sin
+ 
+
+117
+00:02:23,910 --> 00:02:26,480
+objeto pequeño de otro personaje sin
+ser notado. Al igual que con palma y objeto,
+
+118
+00:02:26,480 --> 00:02:26,490
+ser notado. Al igual que con palma y objeto,
+ 
+
+119
+00:02:26,490 --> 00:02:28,730
+ser notado. Al igual que con palma y objeto,
+este está destinado a ser un objeto de
+
+120
+00:02:28,730 --> 00:02:28,740
+este está destinado a ser un objeto de
+ 
+
+121
+00:02:28,740 --> 00:02:31,190
+este está destinado a ser un objeto de
+volumen insignificante, pero eso se puede ajustar
+
+122
+00:02:31,190 --> 00:02:31,200
+volumen insignificante, pero eso se puede ajustar
+ 
+
+123
+00:02:31,200 --> 00:02:34,820
+volumen insignificante, pero eso se puede ajustar
+si el DM lo permite. También
+
+124
+00:02:34,820 --> 00:02:34,830
+si el DM lo permite. También
+ 
+
+125
+00:02:34,830 --> 00:02:36,920
+si el DM lo permite. También
+fallas automáticamente si el objetivo que  están robando
+
+126
+00:02:36,920 --> 00:02:36,930
+fallas automáticamente si el objetivo que  están robando
+ 
+
+127
+00:02:36,930 --> 00:02:40,970
+fallas automáticamente si el objetivo que  están robando
+de está en combate o en guardia no hay una
+
+128
+00:02:40,970 --> 00:02:40,980
+de está en combate o en guardia no hay una
+ 
+
+129
+00:02:40,980 --> 00:02:43,430
+de está en combate o en guardia no hay una
+definición real que haya encontrado para el
+
+130
+00:02:43,430 --> 00:02:43,440
+definición real que haya encontrado para el
+ 
+
+131
+00:02:43,440 --> 00:02:46,670
+definición real que haya encontrado para el
+término en guardia pero pienso en mí mismo cuando
+
+132
+00:02:46,670 --> 00:02:46,680
+término en guardia pero pienso en mí mismo cuando
+ 
+
+133
+00:02:46,680 --> 00:02:49,340
+término en guardia pero pienso en mí mismo cuando
+visito una zona turística muy concurrida y me han
+
+134
+00:02:49,340 --> 00:02:49,350
+visito una zona turística muy concurrida y me han
+ 
+
+135
+00:02:49,350 --> 00:02:50,990
+visito una zona turística muy concurrida y me han
+advertido que hay carteristas
+
+136
+00:02:50,990 --> 00:02:51,000
+advertido que hay carteristas
+ 
+
+137
+00:02:51,000 --> 00:02:53,840
+advertido que hay carteristas
+y ladrones en esas situaciones
+
+138
+00:02:53,840 --> 00:02:53,850
+y ladrones en esas situaciones
+ 
+
+139
+00:02:53,850 --> 00:02:55,150
+y ladrones en esas situaciones
+siempre mantengo mis manos en mis bolsillos
+
+140
+00:02:55,150 --> 00:02:55,160
+siempre mantengo mis manos en mis bolsillos
+ 
+
+141
+00:02:55,160 --> 00:02:57,920
+siempre mantengo mis manos en mis bolsillos
+cubriendo mi billetera en mi teléfono en todo
+
+142
+00:02:57,920 --> 00:02:57,930
+cubriendo mi billetera en mi teléfono en todo
+ 
+
+143
+00:02:57,930 --> 00:02:58,730
+cubriendo mi billetera en mi teléfono en todo
+momento
+
+144
+00:02:58,730 --> 00:02:58,740
+momento
+ 
+
+145
+00:02:58,740 --> 00:03:01,160
+momento
+ese podría ser un ejemplo de lo que quieren decir
+
+146
+00:03:01,160 --> 00:03:01,170
+ese podría ser un ejemplo de lo que quieren decir
+ 
+
+147
+00:03:01,170 --> 00:03:03,920
+ese podría ser un ejemplo de lo que quieren decir
+con estar entre comillas en guardia en esta
+
+148
+00:03:03,920 --> 00:03:03,930
+con estar entre comillas en guardia en esta
+ 
+
+149
+00:03:03,930 --> 00:03:06,920
+con estar entre comillas en guardia en esta
+descripción mecánicamente esto funciona
+
+150
+00:03:06,920 --> 00:03:06,930
+descripción mecánicamente esto funciona
+ 
+
+151
+00:03:06,930 --> 00:03:10,040
+descripción mecánicamente esto funciona
+casi igual que la palma y el objeto el
+
+152
+00:03:10,040 --> 00:03:10,050
+casi igual que la palma y el objeto el
+ 
+
+153
+00:03:10,050 --> 00:03:12,710
+casi igual que la palma y el objeto el
+personaje que intenta robar hace una
+
+154
+00:03:12,710 --> 00:03:12,720
+personaje que intenta robar hace una
+ 
+
+155
+00:03:12,720 --> 00:03:14,270
+personaje que intenta robar hace una
+tirada febril que es impugnada por la
+
+156
+00:03:14,270 --> 00:03:14,280
+tirada febril que es impugnada por la
+ 
+
+157
+00:03:14,280 --> 00:03:16,700
+tirada febril que es impugnada por la
+CD de percepción del objetivo que
+
+158
+00:03:16,700 --> 00:03:16,710
+CD de percepción del objetivo que
+ 
+
+159
+00:03:16,710 --> 00:03:19,610
+CD de percepción del objetivo que
+posee el objeto a ser robado el DM
+
+160
+00:03:19,610 --> 00:03:19,620
+posee el objeto a ser robado el DM
+ 
+
+161
+00:03:19,620 --> 00:03:22,040
+posee el objeto a ser robado el DM
+también podría comparar este resultado con la
+
+162
+00:03:22,040 --> 00:03:22,050
+también podría comparar este resultado con la
+ 
+
+163
+00:03:22,050 --> 00:03:23,750
+también podría comparar este resultado con la
+enfermedad de percepción de todos a la
+
+164
+00:03:23,750 --> 00:03:23,760
+enfermedad de percepción de todos a la
+ 
+
+165
+00:03:23,760 --> 00:03:25,910
+enfermedad de percepción de todos a la
+vista del robo para ver si alguien más
+
+166
+00:03:25,910 --> 00:03:25,920
+vista del robo para ver si alguien más
+ 
+
+167
+00:03:25,920 --> 00:03:29,479
+vista del robo para ver si alguien más
+se da cuenta si tiene éxito el personaje
+
+168
+00:03:29,479 --> 00:03:29,489
+se da cuenta si tiene éxito el personaje
+ 
+
+169
+00:03:29,489 --> 00:03:31,310
+se da cuenta si tiene éxito el personaje
+toma el objeto sin ser notado en
+
+170
+00:03:31,310 --> 00:03:31,320
+toma el objeto sin ser notado en
+ 
+
+171
+00:03:31,320 --> 00:03:34,310
+toma el objeto sin ser notado en
+un fallo la víctima nota el
+
+172
+00:03:34,310 --> 00:03:34,320
+un fallo la víctima nota el
+ 
+
+173
+00:03:34,320 --> 00:03:35,990
+un fallo la víctima nota el
+intento del personaje de robarle
+
+174
+00:03:35,990 --> 00:03:36,000
+intento del personaje de robarle
+ 
+
+175
+00:03:36,000 --> 00:03:39,830
+intento del personaje de robarle
+pero antes de que le tomen el objeto a diferencia de con
+
+176
+00:03:39,830 --> 00:03:39,840
+pero antes de que le tomen el objeto a diferencia de con
+ 
+
+177
+00:03:39,840 --> 00:03:42,290
+pero antes de que le tomen el objeto a diferencia de con
+pom un objeto cuando fallas e intentas
+
+178
+00:03:42,290 --> 00:03:42,300
+pom un objeto cuando fallas e intentas
+ 
+
+179
+00:03:42,300 --> 00:03:45,410
+pom un objeto cuando fallas e intentas
+robar entonces no tomas el objeto
+
+180
+00:03:45,410 --> 00:03:45,420
+robar entonces no tomas el objeto
+ 
+
+181
+00:03:45,420 --> 00:03:48,500
+robar entonces no tomas el objeto
+y ten en cuenta que la acción de robar estándar
+
+182
+00:03:48,500 --> 00:03:48,510
+y ten en cuenta que la acción de robar estándar
+ 
+
+183
+00:03:48,510 --> 00:03:50,840
+y ten en cuenta que la acción de robar estándar
+asume que el objeto que se está tomando está
+
+184
+00:03:50,840 --> 00:03:50,850
+asume que el objeto que se está tomando está
+ 
+
+185
+00:03:50,850 --> 00:03:53,390
+asume que el objeto que se está tomando está
+suelto o es fácilmente accesible y
+
+186
+00:03:53,390 --> 00:03:53,400
+suelto o es fácilmente accesible y
+ 
+
+187
+00:03:53,400 --> 00:03:55,790
+suelto o es fácilmente accesible y
+el DM aplicará penalizaciones a la
+
+188
+00:03:55,790 --> 00:03:55,800
+el DM aplicará penalizaciones a la
+ 
+
+189
+00:03:55,800 --> 00:03:57,670
+el DM aplicará penalizaciones a la
+tirada de robo  como lo consideren apropiado,
+
+190
+00:03:57,670 --> 00:03:57,680
+tirada de robo  como lo consideren apropiado,
+ 
+
+191
+00:03:57,680 --> 00:04:00,890
+tirada de robo  como lo consideren apropiado,
+por ejemplo, una penalización negativa de 5 si el
+
+192
+00:04:00,890 --> 00:04:00,900
+por ejemplo, una penalización negativa de 5 si el
+ 
+
+193
+00:04:00,900 --> 00:04:03,290
+por ejemplo, una penalización negativa de 5 si el
+objeto no está a la vista, sino
+
+194
+00:04:03,290 --> 00:04:03,300
+objeto no está a la vista, sino
+ 
+
+195
+00:04:03,300 --> 00:04:06,229
+objeto no está a la vista, sino
+dentro de un bolsillo, o aplicar una
+
+196
+00:04:06,229 --> 00:04:06,239
+dentro de un bolsillo, o aplicar una
+ 
+
+197
+00:04:06,239 --> 00:04:08,420
+dentro de un bolsillo, o aplicar una
+penalización aún mayor si el objeto está enterrado en
+
+198
+00:04:08,420 --> 00:04:08,430
+penalización aún mayor si el objeto está enterrado en
+ 
+
+199
+00:04:08,430 --> 00:04:10,250
+penalización aún mayor si el objeto está enterrado en
+algún lugar de una mochila u otras
+
+200
+00:04:10,250 --> 00:04:10,260
+algún lugar de una mochila u otras
+ 
+
+201
+00:04:10,260 --> 00:04:12,380
+algún lugar de una mochila u otras
+penalizaciones por otras circunstancias, nuevamente,
+
+202
+00:04:12,380 --> 00:04:12,390
+penalizaciones por otras circunstancias, nuevamente,
+ 
+
+203
+00:04:12,390 --> 00:04:15,949
+penalizaciones por otras circunstancias, nuevamente,
+según lo considere apropiado el DM
+
+204
+00:04:15,949 --> 00:04:15,959
+según lo considere apropiado el DM
+ 
+
+205
+00:04:15,959 --> 00:04:18,470
+según lo considere apropiado el DM
+también podría valer la pena mencionar que un DM podría
+
+206
+00:04:18,470 --> 00:04:18,480
+también podría valer la pena mencionar que un DM podría
+ 
+
+207
+00:04:18,480 --> 00:04:21,050
+también podría valer la pena mencionar que un DM podría
+permitir a un jugador gastar dos acciones para
+
+208
+00:04:21,050 --> 00:04:21,060
+permitir a un jugador gastar dos acciones para
+ 
+
+209
+00:04:21,060 --> 00:04:23,840
+permitir a un jugador gastar dos acciones para
+lograr el mismo resultado usando la
+
+210
+00:04:23,840 --> 00:04:23,850
+lograr el mismo resultado usando la
+ 
+
+211
+00:04:23,850 --> 00:04:26,659
+lograr el mismo resultado usando la
+aplicación de la habilidad de engaño para crear una distracción.
+
+212
+00:04:26,659 --> 00:04:26,669
+aplicación de la habilidad de engaño para crear una distracción.
+ 
+
+213
+00:04:26,669 --> 00:04:29,690
+aplicación de la habilidad de engaño para crear una distracción.
+En este caso, se gastaría una acción
+
+214
+00:04:29,690 --> 00:04:29,700
+En este caso, se gastaría una acción
+ 
+
+215
+00:04:29,700 --> 00:04:31,469
+En este caso, se gastaría una acción
+para distraer al Tarr
+
+216
+00:04:31,469 --> 00:04:31,479
+para distraer al Tarr
+ 
+
+217
+00:04:31,479 --> 00:04:33,809
+para distraer al Tarr
+y, si tiene éxito, esto le daría al
+
+218
+00:04:33,809 --> 00:04:33,819
+y, si tiene éxito, esto le daría al
+ 
+
+219
+00:04:33,819 --> 00:04:36,420
+y, si tiene éxito, esto le daría al
+ladrón la condición de oculto en lugar de
+
+220
+00:04:36,420 --> 00:04:36,430
+ladrón la condición de oculto en lugar de
+ 
+
+221
+00:04:36,430 --> 00:04:38,399
+ladrón la condición de oculto en lugar de
+observado, y luego usarían
+
+222
+00:04:38,399 --> 00:04:38,409
+observado, y luego usarían
+ 
+
+223
+00:04:38,409 --> 00:04:40,679
+observado, y luego usarían
+interactuar como su segunda acción y tomarían
+
+224
+00:04:40,679 --> 00:04:40,689
+interactuar como su segunda acción y tomarían
+ 
+
+225
+00:04:40,689 --> 00:04:42,600
+interactuar como su segunda acción y tomarían
+el objeto del objetivo. En otras
+
+226
+00:04:42,600 --> 00:04:42,610
+el objeto del objetivo. En otras
+ 
+
+227
+00:04:42,610 --> 00:04:44,999
+el objeto del objetivo. En otras
+situaciones, un DM podría permitir el uso de
+
+228
+00:04:44,999 --> 00:04:45,009
+situaciones, un DM podría permitir el uso de
+ 
+
+229
+00:04:45,009 --> 00:04:47,909
+situaciones, un DM podría permitir el uso de
+crear una distracción primero para
+
+230
+00:04:47,909 --> 00:04:47,919
+crear una distracción primero para
+ 
+
+231
+00:04:47,919 --> 00:04:50,640
+crear una distracción primero para
+aplicar una bonificación a su próxima
+
+232
+00:04:50,640 --> 00:04:50,650
+aplicar una bonificación a su próxima
+ 
+
+233
+00:04:50,650 --> 00:04:54,119
+aplicar una bonificación a su próxima
+prueba de robo para robar un objeto.
+
+234
+00:04:54,119 --> 00:04:54,129
+prueba de robo para robar un objeto.
+ 
+
+235
+00:04:54,129 --> 00:04:56,040
+prueba de robo para robar un objeto.
+Puede encontrar más información sobre la creación de distracciones
+
+236
+00:04:56,040 --> 00:04:56,050
+Puede encontrar más información sobre la creación de distracciones
+ 
+
+237
+00:04:56,050 --> 00:04:59,700
+Puede encontrar más información sobre la creación de distracciones
+en nuestro video sobre sigilo. La
+
+238
+00:04:59,700 --> 00:04:59,710
+en nuestro video sobre sigilo. La
+ 
+
+239
+00:04:59,710 --> 00:05:01,920
+en nuestro video sobre sigilo. La
+reacción de fiebre de los Knicks se llama
+
+240
+00:05:01,920 --> 00:05:01,930
+reacción de fiebre de los Knicks se llama
+ 
+
+241
+00:05:01,930 --> 00:05:05,310
+reacción de fiebre de los Knicks se llama
+deshabilitar un dispositivo. Esta acción se usa
+
+242
+00:05:05,310 --> 00:05:05,320
+deshabilitar un dispositivo. Esta acción se usa
+ 
+
+243
+00:05:05,320 --> 00:05:07,830
+deshabilitar un dispositivo. Esta acción se usa
+cuando un personaje desea manipular una
+
+244
+00:05:07,830 --> 00:05:07,840
+cuando un personaje desea manipular una
+ 
+
+245
+00:05:07,840 --> 00:05:10,320
+cuando un personaje desea manipular una
+pieza de maquinaria de tal manera que ya
+
+246
+00:05:10,320 --> 00:05:10,330
+pieza de maquinaria de tal manera que ya
+ 
+
+247
+00:05:10,330 --> 00:05:12,510
+pieza de maquinaria de tal manera que ya
+no funcione como se esperaba.
+
+248
+00:05:12,510 --> 00:05:12,520
+no funcione como se esperaba.
+ 
+
+249
+00:05:12,520 --> 00:05:15,719
+no funcione como se esperaba.
+El uso más común para deshabilitar un dispositivo
+
+250
+00:05:15,719 --> 00:05:15,729
+El uso más común para deshabilitar un dispositivo
+ 
+
+251
+00:05:15,729 --> 00:05:19,350
+El uso más común para deshabilitar un dispositivo
+es desarmar trampas, pero esto de ninguna manera se
+
+252
+00:05:19,350 --> 00:05:19,360
+es desarmar trampas, pero esto de ninguna manera se
+ 
+
+253
+00:05:19,360 --> 00:05:22,469
+es desarmar trampas, pero esto de ninguna manera se
+limita a  trampas gist con el
+
+254
+00:05:22,469 --> 00:05:22,479
+limita a  trampas gist con el
+ 
+
+255
+00:05:22,479 --> 00:05:24,360
+limita a  trampas gist con el
+permiso de Jesús esto podría usarse en una
+
+256
+00:05:24,360 --> 00:05:24,370
+permiso de Jesús esto podría usarse en una
+ 
+
+257
+00:05:24,370 --> 00:05:27,300
+permiso de Jesús esto podría usarse en una
+amplia variedad de formas, por ejemplo, en un
+
+258
+00:05:27,300 --> 00:05:27,310
+amplia variedad de formas, por ejemplo, en un
+ 
+
+259
+00:05:27,310 --> 00:05:29,430
+amplia variedad de formas, por ejemplo, en un
+juego que jugué en mi pícaro usado
+
+260
+00:05:29,430 --> 00:05:29,440
+juego que jugué en mi pícaro usado
+ 
+
+261
+00:05:29,440 --> 00:05:32,189
+juego que jugué en mi pícaro usado
+deshabilitar un dispositivo para manipular la rueda de un
+
+262
+00:05:32,189 --> 00:05:32,199
+deshabilitar un dispositivo para manipular la rueda de un
+ 
+
+263
+00:05:32,199 --> 00:05:34,680
+deshabilitar un dispositivo para manipular la rueda de un
+carruaje de modo que si alguien intentaba usarlo
+
+264
+00:05:34,680 --> 00:05:34,690
+carruaje de modo que si alguien intentaba usarlo
+ 
+
+265
+00:05:34,690 --> 00:05:37,110
+carruaje de modo que si alguien intentaba usarlo
+para perseguir al equipo, la rueda no
+
+266
+00:05:37,110 --> 00:05:37,120
+para perseguir al equipo, la rueda no
+ 
+
+267
+00:05:37,120 --> 00:05:40,140
+para perseguir al equipo, la rueda no
+girara la mayoría de los usos de deshabilitar un dispositivo
+
+268
+00:05:40,140 --> 00:05:40,150
+girara la mayoría de los usos de deshabilitar un dispositivo
+ 
+
+269
+00:05:40,150 --> 00:05:43,050
+girara la mayoría de los usos de deshabilitar un dispositivo
+requieren estas herramientas de ladrones, pero en
+
+270
+00:05:43,050 --> 00:05:43,060
+requieren estas herramientas de ladrones, pero en
+ 
+
+271
+00:05:43,060 --> 00:05:45,150
+requieren estas herramientas de ladrones, pero en
+este caso el DM requirió el uso de una
+
+272
+00:05:45,150 --> 00:05:45,160
+este caso el DM requirió el uso de una
+ 
+
+273
+00:05:45,160 --> 00:05:47,909
+este caso el DM requirió el uso de una
+palanca en su lugar, ese es solo un ejemplo,
+
+274
+00:05:47,909 --> 00:05:47,919
+palanca en su lugar, ese es solo un ejemplo,
+ 
+
+275
+00:05:47,919 --> 00:05:50,879
+palanca en su lugar, ese es solo un ejemplo,
+pero otros podrían incluir manipular una puerta para
+
+276
+00:05:50,879 --> 00:05:50,889
+pero otros podrían incluir manipular una puerta para
+ 
+
+277
+00:05:50,889 --> 00:05:53,640
+pero otros podrían incluir manipular una puerta para
+que no se abra o sabotear una
+
+278
+00:05:53,640 --> 00:05:53,650
+que no se abra o sabotear una
+ 
+
+279
+00:05:53,650 --> 00:05:56,219
+que no se abra o sabotear una
+catapulta para que no pueda disparar las
+
+280
+00:05:56,219 --> 00:05:56,229
+catapulta para que no pueda disparar las
+ 
+
+281
+00:05:56,229 --> 00:05:58,439
+catapulta para que no pueda disparar las
+mecánicas van a ser en gran medida las
+
+282
+00:05:58,439 --> 00:05:58,449
+mecánicas van a ser en gran medida las
+ 
+
+283
+00:05:58,449 --> 00:06:01,020
+mecánicas van a ser en gran medida las
+mismas independientemente de si estás desarmando una
+
+284
+00:06:01,020 --> 00:06:01,030
+mismas independientemente de si estás desarmando una
+ 
+
+285
+00:06:01,030 --> 00:06:04,320
+mismas independientemente de si estás desarmando una
+trampa o deshabilitando otro dispositivo el
+
+286
+00:06:04,320 --> 00:06:04,330
+trampa o deshabilitando otro dispositivo el
+ 
+
+287
+00:06:04,330 --> 00:06:07,890
+trampa o deshabilitando otro dispositivo el
+jugador gira dos acciones para intentar
+
+288
+00:06:07,890 --> 00:06:07,900
+jugador gira dos acciones para intentar
+ 
+
+289
+00:06:07,900 --> 00:06:10,620
+jugador gira dos acciones para intentar
+deshabilitar un dispositivo y luego tira su
+
+290
+00:06:10,620 --> 00:06:10,630
+deshabilitar un dispositivo y luego tira su
+ 
+
+291
+00:06:10,630 --> 00:06:12,779
+deshabilitar un dispositivo y luego tira su
+prueba de habilidad de robo que luego se
+
+292
+00:06:12,779 --> 00:06:12,789
+prueba de habilidad de robo que luego se
+ 
+
+293
+00:06:12,789 --> 00:06:16,350
+prueba de habilidad de robo que luego se
+compara con una CD establecida por el DM la mayoría de los
+
+294
+00:06:16,350 --> 00:06:16,360
+compara con una CD establecida por el DM la mayoría de los
+ 
+
+295
+00:06:16,360 --> 00:06:18,870
+compara con una CD establecida por el DM la mayoría de los
+dispositivos requieren múltiples éxitos para
+
+296
+00:06:18,870 --> 00:06:18,880
+dispositivos requieren múltiples éxitos para
+ 
+
+297
+00:06:18,880 --> 00:06:21,060
+dispositivos requieren múltiples éxitos para
+deshabilitarlos dependiendo de su
+
+298
+00:06:21,060 --> 00:06:21,070
+deshabilitarlos dependiendo de su
+ 
+
+299
+00:06:21,070 --> 00:06:25,020
+deshabilitarlos dependiendo de su
+calidad de construcción y complejidad en un éxito el
+
+300
+00:06:25,020 --> 00:06:25,030
+calidad de construcción y complejidad en un éxito el
+ 
+
+301
+00:06:25,030 --> 00:06:27,210
+calidad de construcción y complejidad en un éxito el
+jugador obtiene un éxito giras
+
+302
+00:06:27,210 --> 00:06:27,220
+jugador obtiene un éxito giras
+ 
+
+303
+00:06:27,220 --> 00:06:30,390
+jugador obtiene un éxito giras
+deshabilitando el dispositivo en un
+
+304
+00:06:30,390 --> 00:06:30,400
+deshabilitando el dispositivo en un
+ 
+
+305
+00:06:30,400 --> 00:06:33,240
+deshabilitando el dispositivo en un
+éxito crítico obtienen dos éxitos taursus
+
+306
+00:06:33,240 --> 00:06:33,250
+éxito crítico obtienen dos éxitos taursus
+ 
+
+307
+00:06:33,250 --> 00:06:36,210
+éxito crítico obtienen dos éxitos taursus
+habilitando dispositivo además no dejan rastro
+
+308
+00:06:36,210 --> 00:06:36,220
+habilitando dispositivo además no dejan rastro
+ 
+
+309
+00:06:36,220 --> 00:06:38,490
+habilitando dispositivo además no dejan rastro
+de su manipulación y pueden elegir
+
+310
+00:06:38,490 --> 00:06:38,500
+de su manipulación y pueden elegir
+ 
+
+311
+00:06:38,500 --> 00:06:40,969
+de su manipulación y pueden elegir
+rearmar ese dispositivo más tarde si eligen
+
+312
+00:06:40,969 --> 00:06:40,979
+rearmar ese dispositivo más tarde si eligen
+ 
+
+313
+00:06:40,979 --> 00:06:44,550
+rearmar ese dispositivo más tarde si eligen
+en un fallo no se avanza hacia la
+
+314
+00:06:44,550 --> 00:06:44,560
+en un fallo no se avanza hacia la
+ 
+
+315
+00:06:44,560 --> 00:06:47,399
+en un fallo no se avanza hacia la
+desactivación del dispositivo y en un
+
+316
+00:06:47,399 --> 00:06:47,409
+desactivación del dispositivo y en un
+ 
+
+317
+00:06:47,409 --> 00:06:50,850
+desactivación del dispositivo y en un
+fallo crítico activan el dispositivo así que si
+
+318
+00:06:50,850 --> 00:06:50,860
+fallo crítico activan el dispositivo así que si
+ 
+
+319
+00:06:50,860 --> 00:06:52,499
+fallo crítico activan el dispositivo así que si
+fallas críticamente tu intento de
+
+320
+00:06:52,499 --> 00:06:52,509
+fallas críticamente tu intento de
+ 
+
+321
+00:06:52,509 --> 00:06:56,610
+fallas críticamente tu intento de
+desarmar una trampa la trampa se activa un par de
+
+322
+00:06:56,610 --> 00:06:56,620
+desarmar una trampa la trampa se activa un par de
+ 
+
+323
+00:06:56,620 --> 00:06:58,050
+desarmar una trampa la trampa se activa un par de
+puntos más a tener en cuenta aquí a
+
+324
+00:06:58,050 --> 00:06:58,060
+puntos más a tener en cuenta aquí a
+ 
+
+325
+00:06:58,060 --> 00:07:01,020
+puntos más a tener en cuenta aquí a
+diferencia de la palma y el objeto en
+
+326
+00:07:01,020 --> 00:07:01,030
+diferencia de la palma y el objeto en
+ 
+
+327
+00:07:01,030 --> 00:07:03,899
+diferencia de la palma y el objeto en
+acciones de robo debes tener al menos
+
+328
+00:07:03,899 --> 00:07:03,909
+acciones de robo debes tener al menos
+ 
+
+329
+00:07:03,909 --> 00:07:07,170
+acciones de robo debes tener al menos
+competencia entrenada en hurto para poder usar
+
+330
+00:07:07,170 --> 00:07:07,180
+competencia entrenada en hurto para poder usar
+ 
+
+331
+00:07:07,180 --> 00:07:09,379
+competencia entrenada en hurto para poder usar
+desactivar un dispositivo
+
+332
+00:07:09,379 --> 00:07:09,389
+desactivar un dispositivo
+ 
+
+333
+00:07:09,389 --> 00:07:11,540
+desactivar un dispositivo
+apuntado solo ten en cuenta que desactivar un dispositivo
+
+334
+00:07:11,540 --> 00:07:11,550
+apuntado solo ten en cuenta que desactivar un dispositivo
+ 
+
+335
+00:07:11,550 --> 00:07:15,020
+apuntado solo ten en cuenta que desactivar un dispositivo
+de nuevo requiere dos acciones y la mayoría de los
+
+336
+00:07:15,020 --> 00:07:15,030
+de nuevo requiere dos acciones y la mayoría de los
+ 
+
+337
+00:07:15,030 --> 00:07:17,689
+de nuevo requiere dos acciones y la mayoría de los
+dispositivos requieren múltiples éxitos
+
+338
+00:07:17,689 --> 00:07:17,699
+dispositivos requieren múltiples éxitos
+ 
+
+339
+00:07:17,699 --> 00:07:20,300
+dispositivos requieren múltiples éxitos
+para desactivar esto puede llevar a algunos
+
+340
+00:07:20,300 --> 00:07:20,310
+para desactivar esto puede llevar a algunos
+ 
+
+341
+00:07:20,310 --> 00:07:22,760
+para desactivar esto puede llevar a algunos
+jugadores a querer girar las dos primeras
+
+342
+00:07:22,760 --> 00:07:22,770
+jugadores a querer girar las dos primeras
+ 
+
+343
+00:07:22,770 --> 00:07:25,189
+jugadores a querer girar las dos primeras
+acciones de su turno para desactivar el dispositivo
+
+344
+00:07:25,189 --> 00:07:25,199
+acciones de su turno para desactivar el dispositivo
+ 
+
+345
+00:07:25,199 --> 00:07:27,920
+acciones de su turno para desactivar el dispositivo
+y por lo tanto obtener un éxito hacia
+
+346
+00:07:27,920 --> 00:07:27,930
+y por lo tanto obtener un éxito hacia
+ 
+
+347
+00:07:27,930 --> 00:07:31,760
+y por lo tanto obtener un éxito hacia
+eso y luego comenzar su próximo
+
+348
+00:07:31,760 --> 00:07:31,770
+eso y luego comenzar su próximo
+ 
+
+349
+00:07:31,770 --> 00:07:34,520
+eso y luego comenzar su próximo
+intento de desactivar el dispositivo con su tercera acción
+
+350
+00:07:34,520 --> 00:07:34,530
+intento de desactivar el dispositivo con su tercera acción
+ 
+
+351
+00:07:34,530 --> 00:07:37,459
+intento de desactivar el dispositivo con su tercera acción
+de ese turno actual y luego terminarlo
+
+352
+00:07:37,459 --> 00:07:37,469
+de ese turno actual y luego terminarlo
+ 
+
+353
+00:07:37,469 --> 00:07:39,980
+de ese turno actual y luego terminarlo
+con su primera acción del siguiente turno
+
+354
+00:07:39,980 --> 00:07:39,990
+con su primera acción del siguiente turno
+ 
+
+355
+00:07:39,990 --> 00:07:43,550
+con su primera acción del siguiente turno
+pero recuerda todas las actividades de acción
+
+356
+00:07:43,550 --> 00:07:43,560
+pero recuerda todas las actividades de acción
+ 
+
+357
+00:07:43,560 --> 00:07:45,890
+pero recuerda todas las actividades de acción
+y las actividades de tres acciones deben
+
+358
+00:07:45,890 --> 00:07:45,900
+y las actividades de tres acciones deben
+ 
+
+359
+00:07:45,900 --> 00:07:48,559
+y las actividades de tres acciones deben
+completarse en el turno en el que se
+
+360
+00:07:48,559 --> 00:07:48,569
+completarse en el turno en el que se
+ 
+
+361
+00:07:48,569 --> 00:07:51,589
+completarse en el turno en el que se
+inician así que no puedes comenzar a desactivar un
+
+362
+00:07:51,589 --> 00:07:51,599
+inician así que no puedes comenzar a desactivar un
+ 
+
+363
+00:07:51,599 --> 00:07:54,080
+inician así que no puedes comenzar a desactivar un
+dispositivo con la tercera acción de un turno
+
+364
+00:07:54,080 --> 00:07:54,090
+dispositivo con la tercera acción de un turno
+ 
+
+365
+00:07:54,090 --> 00:07:56,689
+dispositivo con la tercera acción de un turno
+y luego terminarlo con la primera acción
+
+366
+00:07:56,689 --> 00:07:56,699
+y luego terminarlo con la primera acción
+ 
+
+367
+00:07:56,699 --> 00:08:00,200
+y luego terminarlo con la primera acción
+del siguiente turno esos son los conceptos básicos del
+
+368
+00:08:00,200 --> 00:08:00,210
+del siguiente turno esos son los conceptos básicos del
+ 
+
+369
+00:08:00,210 --> 00:08:03,350
+del siguiente turno esos son los conceptos básicos del
+uso de fevery para desactivar un dispositivo y el
+
+370
+00:08:03,350 --> 00:08:03,360
+uso de fevery para desactivar un dispositivo y el
+ 
+
+371
+00:08:03,360 --> 00:08:05,029
+uso de fevery para desactivar un dispositivo y el
+siguiente video de la serie que está
+
+372
+00:08:05,029 --> 00:08:05,039
+siguiente video de la serie que está
+ 
+
+373
+00:08:05,039 --> 00:08:06,830
+siguiente video de la serie que está
+dedicado a discutir trampas y
+
+374
+00:08:06,830 --> 00:08:06,840
+dedicado a discutir trampas y
+ 
+
+375
+00:08:06,840 --> 00:08:09,409
+dedicado a discutir trampas y
+peligros profundiza mucho más y
+
+376
+00:08:09,409 --> 00:08:09,419
+peligros profundiza mucho más y
+ 
+
+377
+00:08:09,419 --> 00:08:12,200
+peligros profundiza mucho más y
+proporciona ejemplos sobre el uso de esta
+
+378
+00:08:12,200 --> 00:08:12,210
+proporciona ejemplos sobre el uso de esta
+ 
+
+379
+00:08:12,210 --> 00:08:15,670
+proporciona ejemplos sobre el uso de esta
+acción para desarmar trampas
+
+380
+00:08:15,670 --> 00:08:15,680
+acción para desarmar trampas
+ 
+
+381
+00:08:15,680 --> 00:08:18,040
+acción para desarmar trampas
+la última reacción de fiebre funciona casi de
+
+382
+00:08:18,040 --> 00:08:18,050
+la última reacción de fiebre funciona casi de
+ 
+
+383
+00:08:18,050 --> 00:08:20,710
+la última reacción de fiebre funciona casi de
+manera idéntica al dispositivo deshabilitado pero está
+
+384
+00:08:20,710 --> 00:08:20,720
+manera idéntica al dispositivo deshabilitado pero está
+ 
+
+385
+00:08:20,720 --> 00:08:23,020
+manera idéntica al dispositivo deshabilitado pero está
+específicamente diseñada para deshabilitar
+
+386
+00:08:23,020 --> 00:08:23,030
+específicamente diseñada para deshabilitar
+ 
+
+387
+00:08:23,030 --> 00:08:26,469
+específicamente diseñada para deshabilitar
+cerraduras al igual que con la desactivación de un dispositivo
+
+388
+00:08:26,469 --> 00:08:26,479
+cerraduras al igual que con la desactivación de un dispositivo
+ 
+
+389
+00:08:26,479 --> 00:08:29,320
+cerraduras al igual que con la desactivación de un dispositivo
+abrir una cerradura requiere que estés al menos
+
+390
+00:08:29,320 --> 00:08:29,330
+abrir una cerradura requiere que estés al menos
+ 
+
+391
+00:08:29,330 --> 00:08:32,620
+abrir una cerradura requiere que estés al menos
+entrenado en robo y cuesta dos acciones
+
+392
+00:08:32,620 --> 00:08:32,630
+entrenado en robo y cuesta dos acciones
+ 
+
+393
+00:08:32,630 --> 00:08:33,490
+entrenado en robo y cuesta dos acciones
+por intento
+
+394
+00:08:33,490 --> 00:08:33,500
+por intento
+ 
+
+395
+00:08:33,500 --> 00:08:36,219
+por intento
+debes tener herramientas de ladrón para abrir la
+
+396
+00:08:36,219 --> 00:08:36,229
+debes tener herramientas de ladrón para abrir la
+ 
+
+397
+00:08:36,229 --> 00:08:39,190
+debes tener herramientas de ladrón para abrir la
+cerradura y al igual que los dispositivos Lux puede
+
+398
+00:08:39,190 --> 00:08:39,200
+cerradura y al igual que los dispositivos Lux puede
+ 
+
+399
+00:08:39,200 --> 00:08:41,440
+cerradura y al igual que los dispositivos Lux puede
+requerir múltiples éxitos para abrir
+
+400
+00:08:41,440 --> 00:08:41,450
+requerir múltiples éxitos para abrir
+ 
+
+401
+00:08:41,450 --> 00:08:43,360
+requerir múltiples éxitos para abrir
+dependiendo de la calidad y
+
+402
+00:08:43,360 --> 00:08:43,370
+dependiendo de la calidad y
+ 
+
+403
+00:08:43,370 --> 00:08:46,570
+dependiendo de la calidad y
+complejidad de las cerraduras el jugador realiza una
+
+404
+00:08:46,570 --> 00:08:46,580
+complejidad de las cerraduras el jugador realiza una
+ 
+
+405
+00:08:46,580 --> 00:08:49,060
+complejidad de las cerraduras el jugador realiza una
+prueba de habilidad de robo que se compara con una CD
+
+406
+00:08:49,060 --> 00:08:49,070
+prueba de habilidad de robo que se compara con una CD
+ 
+
+407
+00:08:49,070 --> 00:08:52,540
+prueba de habilidad de robo que se compara con una CD
+establecida por el DM en un éxito obtienen un
+
+408
+00:08:52,540 --> 00:08:52,550
+establecida por el DM en un éxito obtienen un
+ 
+
+409
+00:08:52,550 --> 00:08:55,150
+establecida por el DM en un éxito obtienen un
+éxito para abrir la cerradura en un
+
+410
+00:08:55,150 --> 00:08:55,160
+éxito para abrir la cerradura en un
+ 
+
+411
+00:08:55,160 --> 00:08:57,730
+éxito para abrir la cerradura en un
+éxito crítico obtienen dos éxitos
+
+412
+00:08:57,730 --> 00:08:57,740
+éxito crítico obtienen dos éxitos
+ 
+
+413
+00:08:57,740 --> 00:09:00,070
+éxito crítico obtienen dos éxitos
+para abrir la cerradura y no dejan
+
+414
+00:09:00,070 --> 00:09:00,080
+para abrir la cerradura y no dejan
+ 
+
+415
+00:09:00,080 --> 00:09:03,040
+para abrir la cerradura y no dejan
+evidencia de su manipulación en un fallo no
+
+416
+00:09:03,040 --> 00:09:03,050
+evidencia de su manipulación en un fallo no
+ 
+
+417
+00:09:03,050 --> 00:09:06,250
+evidencia de su manipulación en un fallo no
+pasa nada no se avanza
+
+418
+00:09:06,250 --> 00:09:06,260
+pasa nada no se avanza
+ 
+
+419
+00:09:06,260 --> 00:09:08,800
+pasa nada no se avanza
+en la apertura de la cerradura y en un
+
+420
+00:09:08,800 --> 00:09:08,810
+en la apertura de la cerradura y en un
+ 
+
+421
+00:09:08,810 --> 00:09:10,810
+en la apertura de la cerradura y en un
+fallo crítico rompen sus
+
+422
+00:09:10,810 --> 00:09:10,820
+fallo crítico rompen sus
+ 
+
+423
+00:09:10,820 --> 00:09:13,810
+fallo crítico rompen sus
+herramientas de ladrón así que cuando compres tu
+
+424
+00:09:13,810 --> 00:09:13,820
+herramientas de ladrón así que cuando compres tu
+ 
+
+425
+00:09:13,820 --> 00:09:16,210
+herramientas de ladrón así que cuando compres tu
+equipo recuerda que puedes comprar
+
+426
+00:09:16,210 --> 00:09:16,220
+equipo recuerda que puedes comprar
+ 
+
+427
+00:09:16,220 --> 00:09:18,960
+equipo recuerda que puedes comprar
+ganzúas de repuesto adicionales
+
+428
+00:09:18,960 --> 00:09:18,970
+ganzúas de repuesto adicionales
+ 
+
+429
+00:09:18,970 --> 00:09:22,180
+ganzúas de repuesto adicionales
+cuesta tres de oro para un conjunto estándar de
+
+430
+00:09:22,180 --> 00:09:22,190
+cuesta tres de oro para un conjunto estándar de
+ 
+
+431
+00:09:22,190 --> 00:09:24,670
+cuesta tres de oro para un conjunto estándar de
+herramientas que vienen con un conjunto de ganzúas
+
+432
+00:09:24,670 --> 00:09:24,680
+herramientas que vienen con un conjunto de ganzúas
+ 
+
+433
+00:09:24,680 --> 00:09:27,699
+herramientas que vienen con un conjunto de ganzúas
+y luego puedes comprar ganzúas de respaldo adicionales
+
+434
+00:09:27,699 --> 00:09:27,709
+y luego puedes comprar ganzúas de respaldo adicionales
+ 
+
+435
+00:09:27,709 --> 00:09:31,329
+y luego puedes comprar ganzúas de respaldo adicionales
+por solo tres de plata cada una así que
+
+436
+00:09:31,329 --> 00:09:31,339
+por solo tres de plata cada una así que
+ 
+
+437
+00:09:31,339 --> 00:09:33,280
+por solo tres de plata cada una así que
+si los resultados son tan malos como los míos
+
+438
+00:09:33,280 --> 00:09:33,290
+si los resultados son tan malos como los míos
+ 
+
+439
+00:09:33,290 --> 00:09:35,890
+si los resultados son tan malos como los míos
+asegúrate de invertir en algunas
+
+440
+00:09:35,890 --> 00:09:35,900
+asegúrate de invertir en algunas
+ 
+
+441
+00:09:35,900 --> 00:09:38,980
+asegúrate de invertir en algunas
+ganzúas de respaldo y una  Otra cosa a tener en cuenta es que,
+
+442
+00:09:38,980 --> 00:09:38,990
+ganzúas de respaldo y una  Otra cosa a tener en cuenta es que,
+ 
+
+443
+00:09:38,990 --> 00:09:41,740
+ganzúas de respaldo y una  Otra cosa a tener en cuenta es que,
+aunque se requieren herramientas de ladrón para
+
+444
+00:09:41,740 --> 00:09:41,750
+aunque se requieren herramientas de ladrón para
+ 
+
+445
+00:09:41,750 --> 00:09:44,110
+aunque se requieren herramientas de ladrón para
+abrir una cerradura, el DM puede permitir al jugador
+
+446
+00:09:44,110 --> 00:09:44,120
+abrir una cerradura, el DM puede permitir al jugador
+ 
+
+447
+00:09:44,120 --> 00:09:46,780
+abrir una cerradura, el DM puede permitir al jugador
+usar herramientas improvisadas. Creo que el
+
+448
+00:09:46,780 --> 00:09:46,790
+usar herramientas improvisadas. Creo que el
+ 
+
+449
+00:09:46,790 --> 00:09:49,060
+usar herramientas improvisadas. Creo que el
+ejemplo clásico de esto es usar una
+
+450
+00:09:49,060 --> 00:09:49,070
+ejemplo clásico de esto es usar una
+ 
+
+451
+00:09:49,070 --> 00:09:52,300
+ejemplo clásico de esto es usar una
+horquilla para abrir una cerradura. En este caso, las
+
+452
+00:09:52,300 --> 00:09:52,310
+horquilla para abrir una cerradura. En este caso, las
+ 
+
+453
+00:09:52,310 --> 00:09:55,300
+horquilla para abrir una cerradura. En este caso, las
+ganzúas improvisadas se tratan como si
+
+454
+00:09:55,300 --> 00:09:55,310
+ganzúas improvisadas se tratan como si
+ 
+
+455
+00:09:55,310 --> 00:09:58,090
+ganzúas improvisadas se tratan como si
+fueran herramientas de mala calidad, lo que significa que el
+
+456
+00:09:58,090 --> 00:09:58,100
+fueran herramientas de mala calidad, lo que significa que el
+ 
+
+457
+00:09:58,100 --> 00:09:59,710
+fueran herramientas de mala calidad, lo que significa que el
+jugador puede intentar abrir una cerradura con
+
+458
+00:09:59,710 --> 00:09:59,720
+jugador puede intentar abrir una cerradura con
+ 
+
+459
+00:09:59,720 --> 00:10:02,470
+jugador puede intentar abrir una cerradura con
+ellas, pero sufre una penalización negativa al objeto
+
+460
+00:10:02,470 --> 00:10:02,480
+ellas, pero sufre una penalización negativa al objeto
+ 
+
+461
+00:10:02,480 --> 00:10:05,410
+ellas, pero sufre una penalización negativa al objeto
+al hacerlo.
+
+462
+00:10:05,410 --> 00:10:05,420
+al hacerlo.
+ 
+
+463
+00:10:05,420 --> 00:10:08,230
+al hacerlo.
+Veamos algunos ejemplos para estos,
+
+464
+00:10:08,230 --> 00:10:08,240
+Veamos algunos ejemplos para estos,
+ 
+
+465
+00:10:08,240 --> 00:10:09,940
+Veamos algunos ejemplos para estos,
+usaremos a nuestra pícara favorita,
+
+466
+00:10:09,940 --> 00:10:09,950
+usaremos a nuestra pícara favorita,
+ 
+
+467
+00:10:09,950 --> 00:10:13,090
+usaremos a nuestra pícara favorita,
+Mauricio, es una pícara de quinto nivel, tiene
+
+468
+00:10:13,090 --> 00:10:13,100
+Mauricio, es una pícara de quinto nivel, tiene
+ 
+
+469
+00:10:13,100 --> 00:10:15,430
+Mauricio, es una pícara de quinto nivel, tiene
+competencia experta y febril con una
+
+470
+00:10:15,430 --> 00:10:15,440
+competencia experta y febril con una
+ 
+
+471
+00:10:15,440 --> 00:10:18,490
+competencia experta y febril con una
+bonificación de +13, competencia experta en
+
+472
+00:10:18,490 --> 00:10:18,500
+bonificación de +13, competencia experta en
+ 
+
+473
+00:10:18,500 --> 00:10:21,940
+bonificación de +13, competencia experta en
+sigilo con una bonificación de +13 también y
+
+474
+00:10:21,940 --> 00:10:21,950
+sigilo con una bonificación de +13 también y
+ 
+
+475
+00:10:21,950 --> 00:10:24,400
+sigilo con una bonificación de +13 también y
+tiene competencia experta en percepción
+
+476
+00:10:24,400 --> 00:10:24,410
+tiene competencia experta en percepción
+ 
+
+477
+00:10:24,410 --> 00:10:27,940
+tiene competencia experta en percepción
+con una bonificación de +11. Para estos
+
+478
+00:10:27,940 --> 00:10:27,950
+con una bonificación de +11. Para estos
+ 
+
+479
+00:10:27,950 --> 00:10:30,400
+con una bonificación de +11. Para estos
+ejemplos, nos centraremos en la
+
+480
+00:10:30,400 --> 00:10:30,410
+ejemplos, nos centraremos en la
+ 
+
+481
+00:10:30,410 --> 00:10:32,800
+ejemplos, nos centraremos en la
+mecánica básica de abrir cerraduras, por lo tanto,
+
+482
+00:10:32,800 --> 00:10:32,810
+mecánica básica de abrir cerraduras, por lo tanto,
+ 
+
+483
+00:10:32,810 --> 00:10:35,050
+mecánica básica de abrir cerraduras, por lo tanto,
+ignoraremos cualquier festín o
+
+484
+00:10:35,050 --> 00:10:35,060
+ignoraremos cualquier festín o
+ 
+
+485
+00:10:35,060 --> 00:10:36,910
+ignoraremos cualquier festín o
+habilidad especial que Mauricio pueda
+
+486
+00:10:36,910 --> 00:10:36,920
+habilidad especial que Mauricio pueda
+ 
+
+487
+00:10:36,920 --> 00:10:38,980
+habilidad especial que Mauricio pueda
+tener y también ignoraremos la
+
+488
+00:10:38,980 --> 00:10:38,990
+tener y también ignoraremos la
+ 
+
+489
+00:10:38,990 --> 00:10:41,080
+tener y también ignoraremos la
+posibilidad de que estas cerraduras tengan trampas. Las
+
+490
+00:10:41,080 --> 00:10:41,090
+posibilidad de que estas cerraduras tengan trampas. Las
+ 
+
+491
+00:10:41,090 --> 00:10:44,020
+posibilidad de que estas cerraduras tengan trampas. Las
+trampas se tratan en nuestro próximo video que
+
+492
+00:10:44,020 --> 00:10:44,030
+trampas se tratan en nuestro próximo video que
+ 
+
+493
+00:10:44,030 --> 00:10:47,260
+trampas se tratan en nuestro próximo video que
+está dedicado a los peligros. En nuestro primer
+
+494
+00:10:47,260 --> 00:10:47,270
+está dedicado a los peligros. En nuestro primer
+ 
+
+495
+00:10:47,270 --> 00:10:49,420
+está dedicado a los peligros. En nuestro primer
+ejemplo, Mauricio ha encontrado un cofre que
+
+496
+00:10:49,420 --> 00:10:49,430
+ejemplo, Mauricio ha encontrado un cofre que
+ 
+
+497
+00:10:49,430 --> 00:10:52,210
+ejemplo, Mauricio ha encontrado un cofre que
+tiene una cerradura. La cerradura parece simple.
+
+498
+00:10:52,210 --> 00:10:52,220
+tiene una cerradura. La cerradura parece simple.
+ 
+
+499
+00:10:52,220 --> 00:10:54,520
+tiene una cerradura. La cerradura parece simple.
+suficiente y el DM ha determinado que
+
+500
+00:10:54,520 --> 00:10:54,530
+suficiente y el DM ha determinado que
+ 
+
+501
+00:10:54,530 --> 00:10:58,320
+suficiente y el DM ha determinado que
+requiere 2dc 18 controles de robo para abrir
+
+502
+00:10:58,320 --> 00:10:58,330
+requiere 2dc 18 controles de robo para abrir
+ 
+
+503
+00:10:58,330 --> 00:11:01,660
+requiere 2dc 18 controles de robo para abrir
+Mauricio tiene herramientas de ladrón, por lo que gasta
+
+504
+00:11:01,660 --> 00:11:01,670
+Mauricio tiene herramientas de ladrón, por lo que gasta
+ 
+
+505
+00:11:01,670 --> 00:11:04,090
+Mauricio tiene herramientas de ladrón, por lo que gasta
+sus dos primeras acciones en la actividad de abrir una cerradura,
+
+506
+00:11:04,090 --> 00:11:04,100
+sus dos primeras acciones en la actividad de abrir una cerradura,
+ 
+
+507
+00:11:04,100 --> 00:11:07,600
+sus dos primeras acciones en la actividad de abrir una cerradura,
+tira un D20 más su
+
+508
+00:11:07,600 --> 00:11:07,610
+tira un D20 más su
+ 
+
+509
+00:11:07,610 --> 00:11:11,350
+tira un D20 más su
+bonificación por robo de + 13, saca
+
+510
+00:11:11,350 --> 00:11:11,360
+bonificación por robo de + 13, saca
+ 
+
+511
+00:11:11,360 --> 00:11:15,520
+bonificación por robo de + 13, saca
+11 para un total de 24, esto cuenta como un
+
+512
+00:11:15,520 --> 00:11:15,530
+11 para un total de 24, esto cuenta como un
+ 
+
+513
+00:11:15,530 --> 00:11:17,860
+11 para un total de 24, esto cuenta como un
+éxito de 1 para abrir la cerradura en el
+
+514
+00:11:17,860 --> 00:11:17,870
+éxito de 1 para abrir la cerradura en el
+ 
+
+515
+00:11:17,870 --> 00:11:18,490
+éxito de 1 para abrir la cerradura en el
+cofre
+
+516
+00:11:18,490 --> 00:11:18,500
+cofre
+ 
+
+517
+00:11:18,500 --> 00:11:20,500
+cofre
+con su tercera acción que giró El
+
+518
+00:11:20,500 --> 00:11:20,510
+con su tercera acción que giró El
+ 
+
+519
+00:11:20,510 --> 00:11:22,540
+con su tercera acción que giró El
+jugador de Marissa se queja de tener que
+
+520
+00:11:22,540 --> 00:11:22,550
+jugador de Marissa se queja de tener que
+ 
+
+521
+00:11:22,550 --> 00:11:24,580
+jugador de Marissa se queja de tener que
+realizar múltiples acciones para abrir una
+
+522
+00:11:24,580 --> 00:11:24,590
+realizar múltiples acciones para abrir una
+ 
+
+523
+00:11:24,590 --> 00:11:26,350
+realizar múltiples acciones para abrir una
+cerradura común
+
+524
+00:11:26,350 --> 00:11:26,360
+cerradura común
+ 
+
+525
+00:11:26,360 --> 00:11:28,509
+cerradura común
+al comienzo de su siguiente turno asumiendo que
+
+526
+00:11:28,509 --> 00:11:28,519
+al comienzo de su siguiente turno asumiendo que
+ 
+
+527
+00:11:28,519 --> 00:11:31,180
+al comienzo de su siguiente turno asumiendo que
+está en modo de encuentro Mauricio vuelve a
+
+528
+00:11:31,180 --> 00:11:31,190
+está en modo de encuentro Mauricio vuelve a
+ 
+
+529
+00:11:31,190 --> 00:11:33,639
+está en modo de encuentro Mauricio vuelve a
+girar 2 de sus acciones para la actividad de abrir una
+
+530
+00:11:33,639 --> 00:11:33,649
+girar 2 de sus acciones para la actividad de abrir una
+ 
+
+531
+00:11:33,649 --> 00:11:36,970
+girar 2 de sus acciones para la actividad de abrir una
+cerradura, tira un D20
+
+532
+00:11:36,970 --> 00:11:36,980
+cerradura, tira un D20
+ 
+
+533
+00:11:36,980 --> 00:11:39,730
+cerradura, tira un D20
+y suma su bonificación por robo, esta vez
+
+534
+00:11:39,730 --> 00:11:39,740
+y suma su bonificación por robo, esta vez
+ 
+
+535
+00:11:39,740 --> 00:11:44,280
+y suma su bonificación por robo, esta vez
+saca un 4 más 13 para un total de 17,
+
+536
+00:11:44,280 --> 00:11:44,290
+saca un 4 más 13 para un total de 17,
+ 
+
+537
+00:11:44,290 --> 00:11:47,710
+saca un 4 más 13 para un total de 17,
+falla, lo que significa que no
+
+538
+00:11:47,710 --> 00:11:47,720
+falla, lo que significa que no
+ 
+
+539
+00:11:47,720 --> 00:11:50,949
+falla, lo que significa que no
+progresa en esta ronda, pero tampoco sufre
+
+540
+00:11:50,949 --> 00:11:50,959
+progresa en esta ronda, pero tampoco sufre
+ 
+
+541
+00:11:50,959 --> 00:11:54,060
+progresa en esta ronda, pero tampoco sufre
+consecuencias como romper una ganzúa
+
+542
+00:11:54,060 --> 00:11:54,070
+consecuencias como romper una ganzúa
+ 
+
+543
+00:11:54,070 --> 00:11:57,130
+consecuencias como romper una ganzúa
+con su tercera acción ese turno
+
+544
+00:11:57,130 --> 00:11:57,140
+con su tercera acción ese turno
+ 
+
+545
+00:11:57,140 --> 00:11:58,780
+con su tercera acción ese turno
+culpa a Valerie por no sostener la
+
+546
+00:11:58,780 --> 00:11:58,790
+culpa a Valerie por no sostener la
+ 
+
+547
+00:11:58,790 --> 00:12:00,550
+culpa a Valerie por no sostener la
+antorcha para que pudiera ver correctamente su
+
+548
+00:12:00,550 --> 00:12:00,560
+antorcha para que pudiera ver correctamente su
+ 
+
+549
+00:12:00,560 --> 00:12:03,100
+antorcha para que pudiera ver correctamente su
+trabajo y al comienzo del siguiente turno
+
+550
+00:12:03,100 --> 00:12:03,110
+trabajo y al comienzo del siguiente turno
+ 
+
+551
+00:12:03,110 --> 00:12:05,829
+trabajo y al comienzo del siguiente turno
+gasta 2 acciones para  intenta esto de
+
+552
+00:12:05,829 --> 00:12:05,839
+gasta 2 acciones para  intenta esto de
+ 
+
+553
+00:12:05,839 --> 00:12:08,680
+gasta 2 acciones para  intenta esto de
+nuevo recuerda las acciones deben terminarse
+
+554
+00:12:08,680 --> 00:12:08,690
+nuevo recuerda las acciones deben terminarse
+ 
+
+555
+00:12:08,690 --> 00:12:10,960
+nuevo recuerda las acciones deben terminarse
+en el turno en que se inician por lo que
+
+556
+00:12:10,960 --> 00:12:10,970
+en el turno en que se inician por lo que
+ 
+
+557
+00:12:10,970 --> 00:12:13,150
+en el turno en que se inician por lo que
+no podría haber gastado su tercera acción en
+
+558
+00:12:13,150 --> 00:12:13,160
+no podría haber gastado su tercera acción en
+ 
+
+559
+00:12:13,160 --> 00:12:15,069
+no podría haber gastado su tercera acción en
+la ronda anterior en su primera acción
+
+560
+00:12:15,069 --> 00:12:15,079
+la ronda anterior en su primera acción
+ 
+
+561
+00:12:15,079 --> 00:12:18,280
+la ronda anterior en su primera acción
+en esta ronda para abrir la cerradura por lo que
+
+562
+00:12:18,280 --> 00:12:18,290
+en esta ronda para abrir la cerradura por lo que
+ 
+
+563
+00:12:18,290 --> 00:12:20,350
+en esta ronda para abrir la cerradura por lo que
+gasta sus dos primeras acciones en esta ronda
+
+564
+00:12:20,350 --> 00:12:20,360
+gasta sus dos primeras acciones en esta ronda
+ 
+
+565
+00:12:20,360 --> 00:12:23,560
+gasta sus dos primeras acciones en esta ronda
+registra un 12 para un total de 25 esto
+
+566
+00:12:23,560 --> 00:12:23,570
+registra un 12 para un total de 25 esto
+ 
+
+567
+00:12:23,570 --> 00:12:26,230
+registra un 12 para un total de 25 esto
+le otorga un segundo éxito y la cerradura se
+
+568
+00:12:26,230 --> 00:12:26,240
+le otorga un segundo éxito y la cerradura se
+ 
+
+569
+00:12:26,240 --> 00:12:28,790
+le otorga un segundo éxito y la cerradura se
+abre
+
+570
+00:12:28,790 --> 00:12:28,800
+
+ 
+
+571
+00:12:28,800 --> 00:12:31,250
+
+en nuestro segundo ejemplo Mauricio y sus
+
+572
+00:12:31,250 --> 00:12:31,260
+en nuestro segundo ejemplo Mauricio y sus
+ 
+
+573
+00:12:31,260 --> 00:12:33,139
+en nuestro segundo ejemplo Mauricio y sus
+amigos se han encontrado con una puerta cerrada
+
+574
+00:12:33,139 --> 00:12:33,149
+amigos se han encontrado con una puerta cerrada
+ 
+
+575
+00:12:33,149 --> 00:12:36,320
+amigos se han encontrado con una puerta cerrada
+el DM ha determinado que esta cerradura requiere
+
+576
+00:12:36,320 --> 00:12:36,330
+el DM ha determinado que esta cerradura requiere
+ 
+
+577
+00:12:36,330 --> 00:12:39,170
+el DM ha determinado que esta cerradura requiere
+competencia experta tres éxitos y
+
+578
+00:12:39,170 --> 00:12:39,180
+competencia experta tres éxitos y
+ 
+
+579
+00:12:39,180 --> 00:12:41,320
+competencia experta tres éxitos y
+tiene una CD de 21
+
+580
+00:12:41,320 --> 00:12:41,330
+tiene una CD de 21
+ 
+
+581
+00:12:41,330 --> 00:12:44,000
+tiene una CD de 21
+maryska no sabe qué le espera al
+
+582
+00:12:44,000 --> 00:12:44,010
+maryska no sabe qué le espera al
+ 
+
+583
+00:12:44,010 --> 00:12:45,319
+maryska no sabe qué le espera al
+otro lado de la puerta
+
+584
+00:12:45,319 --> 00:12:45,329
+otro lado de la puerta
+ 
+
+585
+00:12:45,329 --> 00:12:47,600
+otro lado de la puerta
+pero como la puerta y la pared son sólidas
+
+586
+00:12:47,600 --> 00:12:47,610
+pero como la puerta y la pared son sólidas
+ 
+
+587
+00:12:47,610 --> 00:12:49,880
+pero como la puerta y la pared son sólidas
+ella cree que actualmente no es detectada
+
+588
+00:12:49,880 --> 00:12:49,890
+ella cree que actualmente no es detectada
+ 
+
+589
+00:12:49,890 --> 00:12:52,310
+ella cree que actualmente no es detectada
+ni notada por ningún ocupante de esa
+
+590
+00:12:52,310 --> 00:12:52,320
+ni notada por ningún ocupante de esa
+ 
+
+591
+00:12:52,320 --> 00:12:55,550
+ni notada por ningún ocupante de esa
+habitación su jugadora dice que quiere
+
+592
+00:12:55,550 --> 00:12:55,560
+habitación su jugadora dice que quiere
+ 
+
+593
+00:12:55,560 --> 00:12:57,949
+habitación su jugadora dice que quiere
+abrir la cerradura pero ser lo más silenciosa
+
+594
+00:12:57,949 --> 00:12:57,959
+abrir la cerradura pero ser lo más silenciosa
+ 
+
+595
+00:12:57,959 --> 00:13:01,009
+abrir la cerradura pero ser lo más silenciosa
+posible mientras lo hace esto depende en gran medida
+
+596
+00:13:01,009 --> 00:13:01,019
+posible mientras lo hace esto depende en gran medida
+ 
+
+597
+00:13:01,019 --> 00:13:03,410
+posible mientras lo hace esto depende en gran medida
+de cada DM de la canción y de cómo
+
+598
+00:13:03,410 --> 00:13:03,420
+de cada DM de la canción y de cómo
+ 
+
+599
+00:13:03,420 --> 00:13:06,740
+de cada DM de la canción y de cómo
+quieran gestionar esto pero en este caso su
+
+600
+00:13:06,740 --> 00:13:06,750
+quieran gestionar esto pero en este caso su
+ 
+
+601
+00:13:06,750 --> 00:13:08,150
+quieran gestionar esto pero en este caso su
+DM le dice que Royce haga una
+
+602
+00:13:08,150 --> 00:13:08,160
+DM le dice que Royce haga una
+ 
+
+603
+00:13:08,160 --> 00:13:10,699
+DM le dice que Royce haga una
+prueba de sigilo junto con cada prueba de robo
+
+604
+00:13:10,699 --> 00:13:10,709
+prueba de sigilo junto con cada prueba de robo
+ 
+
+605
+00:13:10,709 --> 00:13:12,050
+prueba de sigilo junto con cada prueba de robo
+
+606
+00:13:12,050 --> 00:13:12,060
+
+ 
+
+607
+00:13:12,060 --> 00:13:14,510
+
+con sus dos primeras acciones de la ronda
+
+608
+00:13:14,510 --> 00:13:14,520
+con sus dos primeras acciones de la ronda
+ 
+
+609
+00:13:14,520 --> 00:13:17,510
+con sus dos primeras acciones de la ronda
+Mauricio realiza abrir una cerradura y saca
+
+610
+00:13:17,510 --> 00:13:17,520
+Mauricio realiza abrir una cerradura y saca
+ 
+
+611
+00:13:17,520 --> 00:13:21,140
+Mauricio realiza abrir una cerradura y saca
+un 19 para la prueba de robo después de sumar
+
+612
+00:13:21,140 --> 00:13:21,150
+un 19 para la prueba de robo después de sumar
+ 
+
+613
+00:13:21,150 --> 00:13:23,660
+un 19 para la prueba de robo después de sumar
+su positivo  13 bonificación que hace que esto sea un
+
+614
+00:13:23,660 --> 00:13:23,670
+su positivo  13 bonificación que hace que esto sea un
+ 
+
+615
+00:13:23,670 --> 00:13:26,720
+su positivo  13 bonificación que hace que esto sea un
+total de 32, lo cual es suficiente para un
+
+616
+00:13:26,720 --> 00:13:26,730
+total de 32, lo cual es suficiente para un
+ 
+
+617
+00:13:26,730 --> 00:13:29,360
+total de 32, lo cual es suficiente para un
+éxito crítico porque es más de
+
+618
+00:13:29,360 --> 00:13:29,370
+éxito crítico porque es más de
+ 
+
+619
+00:13:29,370 --> 00:13:32,960
+éxito crítico porque es más de
+10 más alto que la CD, obtiene dos
+
+620
+00:13:32,960 --> 00:13:32,970
+10 más alto que la CD, obtiene dos
+ 
+
+621
+00:13:32,970 --> 00:13:35,510
+10 más alto que la CD, obtiene dos
+éxitos para abrir la cerradura, pero
+
+622
+00:13:35,510 --> 00:13:35,520
+éxitos para abrir la cerradura, pero
+ 
+
+623
+00:13:35,520 --> 00:13:37,760
+éxitos para abrir la cerradura, pero
+el DM también pidió que se
+
+624
+00:13:37,760 --> 00:13:37,770
+el DM también pidió que se
+ 
+
+625
+00:13:37,770 --> 00:13:40,490
+el DM también pidió que se
+hiciera una prueba de sigilo, la suerte es una
+
+626
+00:13:40,490 --> 00:13:40,500
+hiciera una prueba de sigilo, la suerte es una
+ 
+
+627
+00:13:40,500 --> 00:13:43,610
+hiciera una prueba de sigilo, la suerte es una
+amante voluble y saca un 2 en esta prueba
+
+628
+00:13:43,610 --> 00:13:43,620
+amante voluble y saca un 2 en esta prueba
+ 
+
+629
+00:13:43,620 --> 00:13:48,110
+amante voluble y saca un 2 en esta prueba
+para un total de solo 15, desconocido para ella,
+
+630
+00:13:48,110 --> 00:13:48,120
+para un total de solo 15, desconocido para ella,
+ 
+
+631
+00:13:48,120 --> 00:13:50,420
+para un total de solo 15, desconocido para ella,
+hay algunos siglos en la habitación de al lado
+
+632
+00:13:50,420 --> 00:13:50,430
+hay algunos siglos en la habitación de al lado
+ 
+
+633
+00:13:50,430 --> 00:13:52,480
+hay algunos siglos en la habitación de al lado
+tomando un descanso de sus patrullas,
+
+634
+00:13:52,480 --> 00:13:52,490
+tomando un descanso de sus patrullas,
+ 
+
+635
+00:13:52,490 --> 00:13:56,590
+tomando un descanso de sus patrullas,
+sus CD de percepción son 16, lo que significa que la
+
+636
+00:13:56,590 --> 00:13:56,600
+sus CD de percepción son 16, lo que significa que la
+ 
+
+637
+00:13:56,600 --> 00:13:59,350
+sus CD de percepción son 16, lo que significa que la
+prueba de sigilo de Mauricio ha fallado,
+
+638
+00:13:59,350 --> 00:13:59,360
+prueba de sigilo de Mauricio ha fallado,
+ 
+
+639
+00:13:59,360 --> 00:14:02,420
+prueba de sigilo de Mauricio ha fallado,
+ahora cada DM tendrá que determinar cuál es
+
+640
+00:14:02,420 --> 00:14:02,430
+ahora cada DM tendrá que determinar cuál es
+ 
+
+641
+00:14:02,430 --> 00:14:05,060
+ahora cada DM tendrá que determinar cuál es
+el resultado de algo como esto, pero
+
+642
+00:14:05,060 --> 00:14:05,070
+el resultado de algo como esto, pero
+ 
+
+643
+00:14:05,070 --> 00:14:07,820
+el resultado de algo como esto, pero
+en este caso, el DM decide que el
+
+644
+00:14:07,820 --> 00:14:07,830
+en este caso, el DM decide que el
+ 
+
+645
+00:14:07,830 --> 00:14:10,310
+en este caso, el DM decide que el
+sonido de abrir la cerradura no es suficiente
+
+646
+00:14:10,310 --> 00:14:10,320
+sonido de abrir la cerradura no es suficiente
+ 
+
+647
+00:14:10,320 --> 00:14:13,280
+sonido de abrir la cerradura no es suficiente
+para poner a estos siglos en alerta máxima, pero
+
+648
+00:14:13,280 --> 00:14:13,290
+para poner a estos siglos en alerta máxima, pero
+ 
+
+649
+00:14:13,290 --> 00:14:15,110
+para poner a estos siglos en alerta máxima, pero
+tal vez cuando uno de los siglos escucha
+
+650
+00:14:15,110 --> 00:14:15,120
+tal vez cuando uno de los siglos escucha
+ 
+
+651
+00:14:15,120 --> 00:14:16,700
+tal vez cuando uno de los siglos escucha
+el leve golpeteo de metal contra metal,
+
+652
+00:14:16,700 --> 00:14:16,710
+el leve golpeteo de metal contra metal,
+ 
+
+653
+00:14:16,710 --> 00:14:20,320
+el leve golpeteo de metal contra metal,
+lo que lo hace sospechar un poco,
+
+654
+00:14:20,320 --> 00:14:20,330
+lo que lo hace sospechar un poco,
+ 
+
+655
+00:14:20,330 --> 00:14:23,450
+lo que lo hace sospechar un poco,
+desconocido para el jugador de Marissa, durante el
+
+656
+00:14:23,450 --> 00:14:23,460
+desconocido para el jugador de Marissa, durante el
+ 
+
+657
+00:14:23,460 --> 00:14:25,970
+desconocido para el jugador de Marissa, durante el
+tiempo entre sus turnos, los tres
+
+658
+00:14:25,970 --> 00:14:25,980
+tiempo entre sus turnos, los tres
+ 
+
+659
+00:14:25,980 --> 00:14:28,100
+tiempo entre sus turnos, los tres
+siglos que ahora sospechan del
+
+660
+00:14:28,100 --> 00:14:28,110
+siglos que ahora sospechan del
+ 
+
+661
+00:14:28,110 --> 00:14:30,710
+siglos que ahora sospechan del
+golpeteo que escucharon realizan una
+
+662
+00:14:30,710 --> 00:14:30,720
+golpeteo que escucharon realizan una
+ 
+
+663
+00:14:30,720 --> 00:14:35,000
+golpeteo que escucharon realizan una
+acción de búsqueda en la puerta, tienen bonificaciones de +6
+
+664
+00:14:35,000 --> 00:14:35,010
+acción de búsqueda en la puerta, tienen bonificaciones de +6
+ 
+
+665
+00:14:35,010 --> 00:14:37,430
+acción de búsqueda en la puerta, tienen bonificaciones de +6
+a la percepción que son impugnadas por
+
+666
+00:14:37,430 --> 00:14:37,440
+a la percepción que son impugnadas por
+ 
+
+667
+00:14:37,440 --> 00:14:41,510
+a la percepción que son impugnadas por
+Marissa, todos con CD de sigilo de 23, el DM
+
+668
+00:14:41,510 --> 00:14:41,520
+Marissa, todos con CD de sigilo de 23, el DM
+ 
+
+669
+00:14:41,520 --> 00:14:43,430
+Marissa, todos con CD de sigilo de 23, el DM
+también puede  penalizan sus controles de percepción
+
+670
+00:14:43,430 --> 00:14:43,440
+también puede  penalizan sus controles de percepción
+ 
+
+671
+00:14:43,440 --> 00:14:45,440
+también puede  penalizan sus controles de percepción
+por la puerta que está entre ellos y
+
+672
+00:14:45,440 --> 00:14:45,450
+por la puerta que está entre ellos y
+ 
+
+673
+00:14:45,450 --> 00:14:48,860
+por la puerta que está entre ellos y
+Marissa, pero en este caso el DM decide
+
+674
+00:14:48,860 --> 00:14:48,870
+Marissa, pero en este caso el DM decide
+ 
+
+675
+00:14:48,870 --> 00:14:51,350
+Marissa, pero en este caso el DM decide
+ignorar eso, ya que están en
+
+676
+00:14:51,350 --> 00:14:51,360
+ignorar eso, ya que están en
+ 
+
+677
+00:14:51,360 --> 00:14:53,960
+ignorar eso, ya que están en
+alerta por su control de sigilo fallido y
+
+678
+00:14:53,960 --> 00:14:53,970
+alerta por su control de sigilo fallido y
+ 
+
+679
+00:14:53,970 --> 00:14:56,120
+alerta por su control de sigilo fallido y
+el sonido de las cerraduras al abrirse proviene del
+
+680
+00:14:56,120 --> 00:14:56,130
+el sonido de las cerraduras al abrirse proviene del
+ 
+
+681
+00:14:56,130 --> 00:14:58,910
+el sonido de las cerraduras al abrirse proviene del
+metal dentro de la puerta y, por lo tanto,
+
+682
+00:14:58,910 --> 00:14:58,920
+metal dentro de la puerta y, por lo tanto,
+ 
+
+683
+00:14:58,920 --> 00:15:01,280
+metal dentro de la puerta y, por lo tanto,
+no está completamente silenciado por el grosor de la
+
+684
+00:15:01,280 --> 00:15:01,290
+no está completamente silenciado por el grosor de la
+ 
+
+685
+00:15:01,290 --> 00:15:04,100
+no está completamente silenciado por el grosor de la
+estructura de madera de las puertas. El
+
+686
+00:15:04,100 --> 00:15:04,110
+estructura de madera de las puertas. El
+ 
+
+687
+00:15:04,110 --> 00:15:06,560
+estructura de madera de las puertas. El
+primer siglo saca un tres para un total
+
+688
+00:15:06,560 --> 00:15:06,570
+primer siglo saca un tres para un total
+ 
+
+689
+00:15:06,570 --> 00:15:09,470
+primer siglo saca un tres para un total
+de nueve, el segundo saca un 16 para un
+
+690
+00:15:09,470 --> 00:15:09,480
+de nueve, el segundo saca un 16 para un
+ 
+
+691
+00:15:09,480 --> 00:15:12,950
+de nueve, el segundo saca un 16 para un
+total de 22 y el tercero saca un 14 para
+
+692
+00:15:12,950 --> 00:15:12,960
+total de 22 y el tercero saca un 14 para
+ 
+
+693
+00:15:12,960 --> 00:15:16,520
+total de 22 y el tercero saca un 14 para
+un total de 20, todos fallan sus controles,
+
+694
+00:15:16,520 --> 00:15:16,530
+un total de 20, todos fallan sus controles,
+ 
+
+695
+00:15:16,530 --> 00:15:19,280
+un total de 20, todos fallan sus controles,
+así que aunque todavía sospechan,
+
+696
+00:15:19,280 --> 00:15:19,290
+así que aunque todavía sospechan,
+ 
+
+697
+00:15:19,290 --> 00:15:21,920
+así que aunque todavía sospechan,
+ninguno de ellos está completamente convencido de que haya
+
+698
+00:15:21,920 --> 00:15:21,930
+ninguno de ellos está completamente convencido de que haya
+ 
+
+699
+00:15:21,930 --> 00:15:24,030
+ninguno de ellos está completamente convencido de que haya
+peligro cerca
+
+700
+00:15:24,030 --> 00:15:24,040
+peligro cerca
+ 
+
+701
+00:15:24,040 --> 00:15:26,009
+peligro cerca
+al comienzo del segundo turno de Marissa,
+
+702
+00:15:26,009 --> 00:15:26,019
+al comienzo del segundo turno de Marissa,
+ 
+
+703
+00:15:26,019 --> 00:15:28,710
+al comienzo del segundo turno de Marissa,
+gasta dos acciones nuevamente para realizar
+
+704
+00:15:28,710 --> 00:15:28,720
+gasta dos acciones nuevamente para realizar
+ 
+
+705
+00:15:28,720 --> 00:15:32,460
+gasta dos acciones nuevamente para realizar
+abrir una cerradura, esta vez saca un diez
+
+706
+00:15:32,460 --> 00:15:32,470
+abrir una cerradura, esta vez saca un diez
+ 
+
+707
+00:15:32,470 --> 00:15:35,610
+abrir una cerradura, esta vez saca un diez
+para un total de 23, lo cual es suficiente para
+
+708
+00:15:35,610 --> 00:15:35,620
+para un total de 23, lo cual es suficiente para
+ 
+
+709
+00:15:35,620 --> 00:15:37,860
+para un total de 23, lo cual es suficiente para
+ganar ese tercer éxito en abrir la
+
+710
+00:15:37,860 --> 00:15:37,870
+ganar ese tercer éxito en abrir la
+ 
+
+711
+00:15:37,870 --> 00:15:38,400
+ganar ese tercer éxito en abrir la
+cerradura,
+
+712
+00:15:38,400 --> 00:15:38,410
+cerradura,
+ 
+
+713
+00:15:38,410 --> 00:15:41,519
+cerradura,
+pero nuevamente el DM también pide un
+
+714
+00:15:41,519 --> 00:15:41,529
+pero nuevamente el DM también pide un
+ 
+
+715
+00:15:41,529 --> 00:15:44,040
+pero nuevamente el DM también pide un
+control de sigilo ya que está tratando de hacer
+
+716
+00:15:44,040 --> 00:15:44,050
+control de sigilo ya que está tratando de hacer
+ 
+
+717
+00:15:44,050 --> 00:15:47,100
+control de sigilo ya que está tratando de hacer
+esto en silencio, maldice su mala suerte,
+
+718
+00:15:47,100 --> 00:15:47,110
+esto en silencio, maldice su mala suerte,
+ 
+
+719
+00:15:47,110 --> 00:15:50,009
+esto en silencio, maldice su mala suerte,
+inscribe otros dos nuevamente para un total de
+
+720
+00:15:50,009 --> 00:15:50,019
+inscribe otros dos nuevamente para un total de
+ 
+
+721
+00:15:50,019 --> 00:15:53,730
+inscribe otros dos nuevamente para un total de
+solo 15, este es otro fracaso y esta
+
+722
+00:15:53,730 --> 00:15:53,740
+solo 15, este es otro fracaso y esta
+ 
+
+723
+00:15:53,740 --> 00:15:55,860
+solo 15, este es otro fracaso y esta
+vez el gimnasio decide esto ya que los
+
+724
+00:15:55,860 --> 00:15:55,870
+vez el gimnasio decide esto ya que los
+ 
+
+725
+00:15:55,870 --> 00:15:57,720
+vez el gimnasio decide esto ya que los
+guardias ya estaban en alerta.  Es
+
+726
+00:15:57,720 --> 00:15:57,730
+guardias ya estaban en alerta.  Es
+ 
+
+727
+00:15:57,730 --> 00:15:59,999
+guardias ya estaban en alerta.  Es
+sospechoso desde el primer fracaso que
+
+728
+00:15:59,999 --> 00:16:00,009
+sospechoso desde el primer fracaso que
+ 
+
+729
+00:16:00,009 --> 00:16:03,269
+sospechoso desde el primer fracaso que
+ahora están 100% convencidos de que alguien está
+
+730
+00:16:03,269 --> 00:16:03,279
+ahora están 100% convencidos de que alguien está
+ 
+
+731
+00:16:03,279 --> 00:16:05,400
+ahora están 100% convencidos de que alguien está
+forzando esa cerradura y cuando Mauricio
+
+732
+00:16:05,400 --> 00:16:05,410
+forzando esa cerradura y cuando Mauricio
+ 
+
+733
+00:16:05,410 --> 00:16:08,249
+forzando esa cerradura y cuando Mauricio
+abre la puerta encuentra tres siglos
+
+734
+00:16:08,249 --> 00:16:08,259
+abre la puerta encuentra tres siglos
+ 
+
+735
+00:16:08,259 --> 00:16:12,650
+abre la puerta encuentra tres siglos
+armados y listos esperándola
+
+736
+00:16:12,650 --> 00:16:12,660
+armados y listos esperándola
+ 
+
+737
+00:16:12,660 --> 00:16:15,260
+armados y listos esperándola
+y en nuestro último ejemplo Mauricio y
+
+738
+00:16:15,260 --> 00:16:15,270
+y en nuestro último ejemplo Mauricio y
+ 
+
+739
+00:16:15,270 --> 00:16:17,900
+y en nuestro último ejemplo Mauricio y
+Valerie descubren un hermoso
+
+740
+00:16:17,900 --> 00:16:17,910
+Valerie descubren un hermoso
+ 
+
+741
+00:16:17,910 --> 00:16:20,810
+Valerie descubren un hermoso
+cofre de aspecto caro el DM ha determinado que
+
+742
+00:16:20,810 --> 00:16:20,820
+cofre de aspecto caro el DM ha determinado que
+ 
+
+743
+00:16:20,820 --> 00:16:23,120
+cofre de aspecto caro el DM ha determinado que
+abrir la cerradura requiere maestría
+
+744
+00:16:23,120 --> 00:16:23,130
+abrir la cerradura requiere maestría
+ 
+
+745
+00:16:23,130 --> 00:16:26,030
+abrir la cerradura requiere maestría
+y 4 DC veintinueve
+
+746
+00:16:26,030 --> 00:16:26,040
+y 4 DC veintinueve
+ 
+
+747
+00:16:26,040 --> 00:16:29,180
+y 4 DC veintinueve
+éxitos ahora aunque es posible
+
+748
+00:16:29,180 --> 00:16:29,190
+éxitos ahora aunque es posible
+ 
+
+749
+00:16:29,190 --> 00:16:32,390
+éxitos ahora aunque es posible
+para Mauricio abrir una cerradura DC 29 con
+
+750
+00:16:32,390 --> 00:16:32,400
+para Mauricio abrir una cerradura DC 29 con
+ 
+
+751
+00:16:32,400 --> 00:16:35,540
+para Mauricio abrir una cerradura DC 29 con
+su bonificación más 13 esta cerradura requiere
+
+752
+00:16:35,540 --> 00:16:35,550
+su bonificación más 13 esta cerradura requiere
+ 
+
+753
+00:16:35,550 --> 00:16:38,120
+su bonificación más 13 esta cerradura requiere
+maestría y ella solo es
+
+754
+00:16:38,120 --> 00:16:38,130
+maestría y ella solo es
+ 
+
+755
+00:16:38,130 --> 00:16:41,540
+maestría y ella solo es
+experta en robos hay algunas
+
+756
+00:16:41,540 --> 00:16:41,550
+experta en robos hay algunas
+ 
+
+757
+00:16:41,550 --> 00:16:42,830
+experta en robos hay algunas
+formas diferentes de manejar esto
+
+758
+00:16:42,830 --> 00:16:42,840
+formas diferentes de manejar esto
+ 
+
+759
+00:16:42,840 --> 00:16:45,470
+formas diferentes de manejar esto
+algunos DM dejan que el jugador intente abrir la
+
+760
+00:16:45,470 --> 00:16:45,480
+algunos DM dejan que el jugador intente abrir la
+ 
+
+761
+00:16:45,480 --> 00:16:47,630
+algunos DM dejan que el jugador intente abrir la
+cerradura hasta que rompa todas
+
+762
+00:16:47,630 --> 00:16:47,640
+cerradura hasta que rompa todas
+ 
+
+763
+00:16:47,640 --> 00:16:50,000
+cerradura hasta que rompa todas
+sus ganzúas o se rinda otros pueden
+
+764
+00:16:50,000 --> 00:16:50,010
+sus ganzúas o se rinda otros pueden
+ 
+
+765
+00:16:50,010 --> 00:16:51,860
+sus ganzúas o se rinda otros pueden
+requerir que el jugador intente abrirla
+
+766
+00:16:51,860 --> 00:16:51,870
+requerir que el jugador intente abrirla
+ 
+
+767
+00:16:51,870 --> 00:16:53,720
+requerir que el jugador intente abrirla
+una vez antes de darse cuenta de lo
+
+768
+00:16:53,720 --> 00:16:53,730
+una vez antes de darse cuenta de lo
+ 
+
+769
+00:16:53,730 --> 00:16:57,080
+una vez antes de darse cuenta de lo
+compleja que es esta cerradura y otros DM simplemente
+
+770
+00:16:57,080 --> 00:16:57,090
+compleja que es esta cerradura y otros DM simplemente
+ 
+
+771
+00:16:57,090 --> 00:16:59,180
+compleja que es esta cerradura y otros DM simplemente
+asumen que cualquiera que haya entrenado en
+
+772
+00:16:59,180 --> 00:16:59,190
+asumen que cualquiera que haya entrenado en
+ 
+
+773
+00:16:59,190 --> 00:17:01,580
+asumen que cualquiera que haya entrenado en
+robos es capaz de mirar una cerradura y
+
+774
+00:17:01,580 --> 00:17:01,590
+robos es capaz de mirar una cerradura y
+ 
+
+775
+00:17:01,590 --> 00:17:03,530
+robos es capaz de mirar una cerradura y
+decir cuándo está fuera de su alcance
+
+776
+00:17:03,530 --> 00:17:03,540
+decir cuándo está fuera de su alcance
+ 
+
+777
+00:17:03,540 --> 00:17:06,050
+decir cuándo está fuera de su alcance
+sin gastar tiempo tratando de abrir
+
+778
+00:17:06,050 --> 00:17:06,060
+sin gastar tiempo tratando de abrir
+ 
+
+779
+00:17:06,060 --> 00:17:09,260
+sin gastar tiempo tratando de abrir
+la cerradura primero, independientemente en este
+
+780
+00:17:09,260 --> 00:17:09,270
+la cerradura primero, independientemente en este
+ 
+
+781
+00:17:09,270 --> 00:17:11,929
+la cerradura primero, independientemente en este
+ejemplo Bielorrusia se impacienta e
+
+782
+00:17:11,929 --> 00:17:11,939
+ejemplo Bielorrusia se impacienta e
+ 
+
+783
+00:17:11,939 --> 00:17:14,179
+ejemplo Bielorrusia se impacienta e
+intenta abrir el cofre
+
+784
+00:17:14,179 --> 00:17:14,189
+intenta abrir el cofre
+ 
+
+785
+00:17:14,189 --> 00:17:15,760
+intenta abrir el cofre
+golpeándolo con su martillo
+
+786
+00:17:15,760 --> 00:17:15,770
+golpeándolo con su martillo
+ 
+
+787
+00:17:15,770 --> 00:17:18,710
+golpeándolo con su martillo
+ahora esto  El video trata sobre la
+
+788
+00:17:18,710 --> 00:17:18,720
+ahora esto  El video trata sobre la
+ 
+
+789
+00:17:18,720 --> 00:17:21,380
+ahora esto  El video trata sobre la
+habilidad de robo, así que no vamos a entrar en todos
+
+790
+00:17:21,380 --> 00:17:21,390
+habilidad de robo, así que no vamos a entrar en todos
+ 
+
+791
+00:17:21,390 --> 00:17:24,079
+habilidad de robo, así que no vamos a entrar en todos
+los detalles de cómo romper un objeto
+
+792
+00:17:24,079 --> 00:17:24,089
+los detalles de cómo romper un objeto
+ 
+
+793
+00:17:24,089 --> 00:17:26,270
+los detalles de cómo romper un objeto
+aquí, pero solo debes saber que es una
+
+794
+00:17:26,270 --> 00:17:26,280
+aquí, pero solo debes saber que es una
+ 
+
+795
+00:17:26,280 --> 00:17:28,760
+aquí, pero solo debes saber que es una
+opción para cuando el robo falla y las
+
+796
+00:17:28,760 --> 00:17:28,770
+opción para cuando el robo falla y las
+ 
+
+797
+00:17:28,770 --> 00:17:31,190
+opción para cuando el robo falla y las
+reglas se pueden encontrar en las páginas dos setenta y dos
+
+798
+00:17:31,190 --> 00:17:31,200
+reglas se pueden encontrar en las páginas dos setenta y dos
+ 
+
+799
+00:17:31,200 --> 00:17:33,800
+reglas se pueden encontrar en las páginas dos setenta y dos
+y cinco setenta y siete de las
+
+800
+00:17:33,800 --> 00:17:33,810
+y cinco setenta y siete de las
+ 
+
+801
+00:17:33,810 --> 00:17:36,920
+y cinco setenta y siete de las
+reglas básicas que repasan cómo dañar objetos al
+
+802
+00:17:36,920 --> 00:17:36,930
+reglas básicas que repasan cómo dañar objetos al
+ 
+
+803
+00:17:36,930 --> 00:17:39,980
+reglas básicas que repasan cómo dañar objetos al
+romper algo.
+
+804
+00:17:39,980 --> 00:17:39,990
+romper algo.
+ 
+
+805
+00:17:39,990 --> 00:17:42,500
+romper algo.
+En este video discutimos los conceptos básicos de
+
+806
+00:17:42,500 --> 00:17:42,510
+En este video discutimos los conceptos básicos de
+ 
+
+807
+00:17:42,510 --> 00:17:45,320
+En este video discutimos los conceptos básicos de
+la habilidad de robo. El robo es una
+
+808
+00:17:45,320 --> 00:17:45,330
+la habilidad de robo. El robo es una
+ 
+
+809
+00:17:45,330 --> 00:17:47,299
+la habilidad de robo. El robo es una
+habilidad basada en la destreza que se usa para
+
+810
+00:17:47,299 --> 00:17:47,309
+habilidad basada en la destreza que se usa para
+ 
+
+811
+00:17:47,309 --> 00:17:49,220
+habilidad basada en la destreza que se usa para
+realizar muchas de las acciones asociadas
+
+812
+00:17:49,220 --> 00:17:49,230
+realizar muchas de las acciones asociadas
+ 
+
+813
+00:17:49,230 --> 00:17:50,419
+realizar muchas de las acciones asociadas
+con los criminales.
+
+814
+00:17:50,419 --> 00:17:50,429
+con los criminales.
+ 
+
+815
+00:17:50,429 --> 00:17:53,150
+con los criminales.
+La primera actividad de robo se llama
+
+816
+00:17:53,150 --> 00:17:53,160
+La primera actividad de robo se llama
+ 
+
+817
+00:17:53,160 --> 00:17:55,820
+La primera actividad de robo se llama
+palma y objeto. Se usa cuando un
+
+818
+00:17:55,820 --> 00:17:55,830
+palma y objeto. Se usa cuando un
+ 
+
+819
+00:17:55,830 --> 00:17:57,440
+palma y objeto. Se usa cuando un
+personaje desea recoger algo
+
+820
+00:17:57,440 --> 00:17:57,450
+personaje desea recoger algo
+ 
+
+821
+00:17:57,450 --> 00:18:00,440
+personaje desea recoger algo
+sin ser notado. Esto cuesta una
+
+822
+00:18:00,440 --> 00:18:00,450
+sin ser notado. Esto cuesta una
+ 
+
+823
+00:18:00,450 --> 00:18:02,930
+sin ser notado. Esto cuesta una
+acción y requiere una prueba de robo
+
+824
+00:18:02,930 --> 00:18:02,940
+acción y requiere una prueba de robo
+ 
+
+825
+00:18:02,940 --> 00:18:05,780
+acción y requiere una prueba de robo
+contra la enfermedad de percepción de cualquiera que
+
+826
+00:18:05,780 --> 00:18:05,790
+contra la enfermedad de percepción de cualquiera que
+ 
+
+827
+00:18:05,790 --> 00:18:08,540
+contra la enfermedad de percepción de cualquiera que
+observe al personaje. Si tiene éxito,
+
+828
+00:18:08,540 --> 00:18:08,550
+observe al personaje. Si tiene éxito,
+ 
+
+829
+00:18:08,550 --> 00:18:10,430
+observe al personaje. Si tiene éxito,
+toman el objeto sin ser notados y si
+
+830
+00:18:10,430 --> 00:18:10,440
+toman el objeto sin ser notados y si
+ 
+
+831
+00:18:10,440 --> 00:18:13,430
+toman el objeto sin ser notados y si
+fallan, son notados, pero aún deben
+
+832
+00:18:13,430 --> 00:18:13,440
+fallan, son notados, pero aún deben
+ 
+
+833
+00:18:13,440 --> 00:18:15,950
+fallan, son notados, pero aún deben
+tomar ese objeto independientemente de ser
+
+834
+00:18:15,950 --> 00:18:15,960
+tomar ese objeto independientemente de ser
+ 
+
+835
+00:18:15,960 --> 00:18:18,860
+tomar ese objeto independientemente de ser
+atrapados. La segunda aplicación del
+
+836
+00:18:18,860 --> 00:18:18,870
+atrapados. La segunda aplicación del
+ 
+
+837
+00:18:18,870 --> 00:18:22,460
+atrapados. La segunda aplicación del
+robo se llama robar. Funciona de la
+
+838
+00:18:22,460 --> 00:18:22,470
+robo se llama robar. Funciona de la
+ 
+
+839
+00:18:22,470 --> 00:18:24,980
+robo se llama robar. Funciona de la
+misma manera que la palma de un objeto, excepto que
+
+840
+00:18:24,980 --> 00:18:24,990
+misma manera que la palma de un objeto, excepto que
+ 
+
+841
+00:18:24,990 --> 00:18:27,080
+misma manera que la palma de un objeto, excepto que
+el objeto que deseas tomar está en
+
+842
+00:18:27,080 --> 00:18:27,090
+el objeto que deseas tomar está en
+ 
+
+843
+00:18:27,090 --> 00:18:29,750
+el objeto que deseas tomar está en
+posesión de otro personaje. Es
+
+844
+00:18:29,750 --> 00:18:29,760
+posesión de otro personaje. Es
+ 
+
+845
+00:18:29,760 --> 00:18:32,600
+posesión de otro personaje. Es
+su monedero, un colgante que usan o
+
+846
+00:18:32,600 --> 00:18:32,610
+su monedero, un colgante que usan o
+ 
+
+847
+00:18:32,610 --> 00:18:35,870
+su monedero, un colgante que usan o
+una pequeña baratija en su bolsillo. Para esto,
+
+848
+00:18:35,870 --> 00:18:35,880
+una pequeña baratija en su bolsillo. Para esto,
+ 
+
+849
+00:18:35,880 --> 00:18:37,669
+una pequeña baratija en su bolsillo. Para esto,
+el personaje Rose necesita una prueba de fiebre.
+
+850
+00:18:37,669 --> 00:18:37,679
+el personaje Rose necesita una prueba de fiebre.
+ 
+
+851
+00:18:37,679 --> 00:18:39,890
+el personaje Rose necesita una prueba de fiebre.
+cuestionado por la CD de percepción de la
+
+852
+00:18:39,890 --> 00:18:39,900
+cuestionado por la CD de percepción de la
+ 
+
+853
+00:18:39,900 --> 00:18:42,680
+cuestionado por la CD de percepción de la
+persona que posee el objeto deseado, pero
+
+854
+00:18:42,680 --> 00:18:42,690
+persona que posee el objeto deseado, pero
+ 
+
+855
+00:18:42,690 --> 00:18:44,900
+persona que posee el objeto deseado, pero
+es modificado aún más por el DM para
+
+856
+00:18:44,900 --> 00:18:44,910
+es modificado aún más por el DM para
+ 
+
+857
+00:18:44,910 --> 00:18:47,210
+es modificado aún más por el DM para
+representar la dificultad de tomarlo,
+
+858
+00:18:47,210 --> 00:18:47,220
+representar la dificultad de tomarlo,
+ 
+
+859
+00:18:47,220 --> 00:18:49,910
+representar la dificultad de tomarlo,
+por ejemplo, robar un objeto escondido en una
+
+860
+00:18:49,910 --> 00:18:49,920
+por ejemplo, robar un objeto escondido en una
+ 
+
+861
+00:18:49,920 --> 00:18:52,040
+por ejemplo, robar un objeto escondido en una
+mochila es más difícil que
+
+862
+00:18:52,040 --> 00:18:52,050
+mochila es más difícil que
+ 
+
+863
+00:18:52,050 --> 00:18:54,919
+mochila es más difícil que
+arrebatar un llavero que cuelga suelto de
+
+864
+00:18:54,919 --> 00:18:54,929
+arrebatar un llavero que cuelga suelto de
+ 
+
+865
+00:18:54,929 --> 00:18:55,720
+arrebatar un llavero que cuelga suelto de
+un cinturón.
+
+866
+00:18:55,720 --> 00:18:55,730
+un cinturón.
+ 
+
+867
+00:18:55,730 --> 00:18:58,520
+un cinturón.
+La tercera acción de robo se llama
+
+868
+00:18:58,520 --> 00:18:58,530
+La tercera acción de robo se llama
+ 
+
+869
+00:18:58,530 --> 00:19:01,669
+La tercera acción de robo se llama
+deshabilitar un dispositivo y se usa para manipular
+
+870
+00:19:01,669 --> 00:19:01,679
+deshabilitar un dispositivo y se usa para manipular
+ 
+
+871
+00:19:01,679 --> 00:19:03,830
+deshabilitar un dispositivo y se usa para manipular
+un objeto para que no funcione como se
+
+872
+00:19:03,830 --> 00:19:03,840
+un objeto para que no funcione como se
+ 
+
+873
+00:19:03,840 --> 00:19:06,740
+un objeto para que no funcione como se
+pretende. La mayoría de las veces, esto se usa para
+
+874
+00:19:06,740 --> 00:19:06,750
+pretende. La mayoría de las veces, esto se usa para
+ 
+
+875
+00:19:06,750 --> 00:19:09,470
+pretende. La mayoría de las veces, esto se usa para
+desarmar una trampa, pero también podría usarse en otras
+
+876
+00:19:09,470 --> 00:19:09,480
+desarmar una trampa, pero también podría usarse en otras
+ 
+
+877
+00:19:09,480 --> 00:19:12,410
+desarmar una trampa, pero también podría usarse en otras
+situaciones. Deshabilitar un dispositivo
+
+878
+00:19:12,410 --> 00:19:12,420
+situaciones. Deshabilitar un dispositivo
+ 
+
+879
+00:19:12,420 --> 00:19:15,680
+situaciones. Deshabilitar un dispositivo
+cuesta dos acciones. Requiere que el personaje
+
+880
+00:19:15,680 --> 00:19:15,690
+cuesta dos acciones. Requiere que el personaje
+ 
+
+881
+00:19:15,690 --> 00:19:17,870
+cuesta dos acciones. Requiere que el personaje
+esté al menos entrenado en robo y, a
+
+882
+00:19:17,870 --> 00:19:17,880
+esté al menos entrenado en robo y, a
+ 
+
+883
+00:19:17,880 --> 00:19:20,450
+esté al menos entrenado en robo y, a
+menudo, requiere el uso de herramientas de ladrón.
+
+884
+00:19:20,450 --> 00:19:20,460
+menudo, requiere el uso de herramientas de ladrón.
+ 
+
+885
+00:19:20,460 --> 00:19:23,330
+menudo, requiere el uso de herramientas de ladrón.
+Intentar usar dispositivos a menudo requiere
+
+886
+00:19:23,330 --> 00:19:23,340
+Intentar usar dispositivos a menudo requiere
+ 
+
+887
+00:19:23,340 --> 00:19:25,430
+Intentar usar dispositivos a menudo requiere
+múltiples éxitos para deshabilitarlos.
+
+888
+00:19:25,430 --> 00:19:25,440
+múltiples éxitos para deshabilitarlos.
+ 
+
+889
+00:19:25,440 --> 00:19:28,160
+múltiples éxitos para deshabilitarlos.
+Dependiendo de la calidad y complejidad de ese dispositivo,
+
+890
+00:19:28,160 --> 00:19:28,170
+Dependiendo de la calidad y complejidad de ese dispositivo,
+ 
+
+891
+00:19:28,170 --> 00:19:31,190
+Dependiendo de la calidad y complejidad de ese dispositivo,
+el personaje tira febrilmente
+
+892
+00:19:31,190 --> 00:19:31,200
+el personaje tira febrilmente
+ 
+
+893
+00:19:31,200 --> 00:19:34,190
+el personaje tira febrilmente
+contra el ADC determinado por el DM y, con
+
+894
+00:19:34,190 --> 00:19:34,200
+contra el ADC determinado por el DM y, con
+ 
+
+895
+00:19:34,200 --> 00:19:36,860
+contra el ADC determinado por el DM y, con
+éxito, obtiene un éxito para
+
+896
+00:19:36,860 --> 00:19:36,870
+éxito, obtiene un éxito para
+ 
+
+897
+00:19:36,870 --> 00:19:39,380
+éxito, obtiene un éxito para
+deshabilitar el dispositivo. En un
+
+898
+00:19:39,380 --> 00:19:39,390
+deshabilitar el dispositivo. En un
+ 
+
+899
+00:19:39,390 --> 00:19:42,140
+deshabilitar el dispositivo. En un
+éxito crítico, obtiene dos éxitos y
+
+900
+00:19:42,140 --> 00:19:42,150
+éxito crítico, obtiene dos éxitos y
+ 
+
+901
+00:19:42,150 --> 00:19:45,020
+éxito crítico, obtiene dos éxitos y
+otros beneficios. En un fallo crítico,
+
+902
+00:19:45,020 --> 00:19:45,030
+otros beneficios. En un fallo crítico,
+ 
+
+903
+00:19:45,030 --> 00:19:47,780
+otros beneficios. En un fallo crítico,
+activa accidentalmente el dispositivo y
+
+904
+00:19:47,780 --> 00:19:47,790
+activa accidentalmente el dispositivo y
+ 
+
+905
+00:19:47,790 --> 00:19:50,330
+activa accidentalmente el dispositivo y
+sufre las consecuencias
+
+906
+00:19:50,330 --> 00:19:50,340
+sufre las consecuencias
+ 
+
+907
+00:19:50,340 --> 00:19:52,400
+sufre las consecuencias
+apropiadas de eso.
+
+908
+00:19:52,400 --> 00:19:52,410
+apropiadas de eso.
+ 
+
+909
+00:19:52,410 --> 00:19:55,040
+apropiadas de eso.
+Y la acción de robo menor es abrir una
+
+910
+00:19:55,040 --> 00:19:55,050
+Y la acción de robo menor es abrir una
+ 
+
+911
+00:19:55,050 --> 00:19:57,860
+Y la acción de robo menor es abrir una
+cerradura. Abrir una cerradura funciona casi exactamente de la misma
+
+912
+00:19:57,860 --> 00:19:57,870
+cerradura. Abrir una cerradura funciona casi exactamente de la misma
+ 
+
+913
+00:19:57,870 --> 00:20:00,590
+cerradura. Abrir una cerradura funciona casi exactamente de la misma
+manera que deshabilitar cualquier otro
+
+914
+00:20:00,590 --> 00:20:00,600
+manera que deshabilitar cualquier otro
+ 
+
+915
+00:20:00,600 --> 00:20:03,740
+manera que deshabilitar cualquier otro
+dispositivo, excepto en un fallo crítico.
+
+916
+00:20:03,740 --> 00:20:03,750
+dispositivo, excepto en un fallo crítico.
+ 
+
+917
+00:20:03,750 --> 00:20:06,770
+dispositivo, excepto en un fallo crítico.
+personaje rompe su ganzúa este
+
+918
+00:20:06,770 --> 00:20:06,780
+personaje rompe su ganzúa este
+ 
+
+919
+00:20:06,780 --> 00:20:08,450
+personaje rompe su ganzúa este
+video ha servido para sentar las bases
+
+920
+00:20:08,450 --> 00:20:08,460
+video ha servido para sentar las bases
+ 
+
+921
+00:20:08,460 --> 00:20:11,120
+video ha servido para sentar las bases
+que se explorarán más a fondo en nuestro próximo
+
+922
+00:20:11,120 --> 00:20:11,130
+que se explorarán más a fondo en nuestro próximo
+ 
+
+923
+00:20:11,130 --> 00:20:13,820
+que se explorarán más a fondo en nuestro próximo
+video sobre trampas y otros peligros,
+
+924
+00:20:13,820 --> 00:20:13,830
+video sobre trampas y otros peligros,
+ 
+
+925
+00:20:13,830 --> 00:20:16,310
+video sobre trampas y otros peligros,
+así que asegúrate de echarle un vistazo si
+
+926
+00:20:16,310 --> 00:20:16,320
+así que asegúrate de echarle un vistazo si
+ 
+
+927
+00:20:16,320 --> 00:20:18,530
+así que asegúrate de echarle un vistazo si
+quieres ver más ejemplos de cómo puedes
+
+928
+00:20:18,530 --> 00:20:18,540
+quieres ver más ejemplos de cómo puedes
+ 
+
+929
+00:20:18,540 --> 00:20:21,470
+quieres ver más ejemplos de cómo puedes
+usar el robo y deshabilitar un dispositivo para
+
+930
+00:20:21,470 --> 00:20:21,480
+usar el robo y deshabilitar un dispositivo para
+ 
+
+931
+00:20:21,480 --> 00:20:24,150
+usar el robo y deshabilitar un dispositivo para
+desarmar trampas
+
+932
+00:20:24,150 --> 00:20:24,160
+desarmar trampas
+ 
+
+933
+00:20:24,160 --> 00:20:26,040
+desarmar trampas
+con eso daremos por concluido este video
+
+934
+00:20:26,040 --> 00:20:26,050
+con eso daremos por concluido este video
+ 
+
+935
+00:20:26,050 --> 00:20:28,140
+con eso daremos por concluido este video
+si te resultó útil este video,
+
+936
+00:20:28,140 --> 00:20:28,150
+si te resultó útil este video,
+ 
+
+937
+00:20:28,150 --> 00:20:29,760
+si te resultó útil este video,
+por favor danos un me gusta y no olvides hacer
+
+938
+00:20:29,760 --> 00:20:29,770
+por favor danos un me gusta y no olvides hacer
+ 
+
+939
+00:20:29,770 --> 00:20:31,530
+por favor danos un me gusta y no olvides hacer
+clic en el botón de suscripción y la
+
+940
+00:20:31,530 --> 00:20:31,540
+clic en el botón de suscripción y la
+ 
+
+941
+00:20:31,540 --> 00:20:33,270
+clic en el botón de suscripción y la
+campana para que nunca te pierdas nuestros futuros
+
+942
+00:20:33,270 --> 00:20:33,280
+campana para que nunca te pierdas nuestros futuros
+ 
+
+943
+00:20:33,280 --> 00:20:35,460
+campana para que nunca te pierdas nuestros futuros
+videos déjanos un comentario haciéndonos
+
+944
+00:20:35,460 --> 00:20:35,470
+videos déjanos un comentario haciéndonos
+ 
+
+945
+00:20:35,470 --> 00:20:36,720
+videos déjanos un comentario haciéndonos
+saber qué temas te gustaría ver
+
+946
+00:20:36,720 --> 00:20:36,730
+saber qué temas te gustaría ver
+ 
+
+947
+00:20:36,730 --> 00:20:38,850
+saber qué temas te gustaría ver
+cubiertos en nuestros futuros videos y
+
+948
+00:20:38,850 --> 00:20:38,860
+cubiertos en nuestros futuros videos y
+ 
+
+949
+00:20:38,860 --> 00:20:39,960
+cubiertos en nuestros futuros videos y
+siempre puedes comunicarte con nosotros a través de nuestras
+
+950
+00:20:39,960 --> 00:20:39,970
+siempre puedes comunicarte con nosotros a través de nuestras
+ 
+
+951
+00:20:39,970 --> 00:20:42,690
+siempre puedes comunicarte con nosotros a través de nuestras
+páginas de Twitter y Facebook también si te gustaría
+
+952
+00:20:42,690 --> 00:20:42,700
+páginas de Twitter y Facebook también si te gustaría
+ 
+
+953
+00:20:42,700 --> 00:20:44,130
+páginas de Twitter y Facebook también si te gustaría
+usar algunos de los mapas que presentamos en
+
+954
+00:20:44,130 --> 00:20:44,140
+usar algunos de los mapas que presentamos en
+ 
+
+955
+00:20:44,140 --> 00:20:45,960
+usar algunos de los mapas que presentamos en
+nuestros videos y tus propios juegos, puedes
+
+956
+00:20:45,960 --> 00:20:45,970
+nuestros videos y tus propios juegos, puedes
+ 
+
+957
+00:20:45,970 --> 00:20:48,630
+nuestros videos y tus propios juegos, puedes
+encontrarlos en mapas de maestría un enlace a
+
+958
+00:20:48,630 --> 00:20:48,640
+encontrarlos en mapas de maestría un enlace a
+ 
+
+959
+00:20:48,640 --> 00:20:49,950
+encontrarlos en mapas de maestría un enlace a
+esa tienda se puede encontrar en la
+
+960
+00:20:49,950 --> 00:20:49,960
+esa tienda se puede encontrar en la
+ 
+
+961
+00:20:49,960 --> 00:20:52,710
+esa tienda se puede encontrar en la
+descripción gracias por ver
+
+962
+00:20:52,710 --> 00:20:52,720
+descripción gracias por ver
+ 
+
+963
+00:20:52,720 --> 00:20:54,330
+descripción gracias por ver
+cuídate y nos vemos pronto con más conceptos
+
+964
+00:20:54,330 --> 00:20:54,340
+cuídate y nos vemos pronto con más conceptos
+ 
+
+965
+00:20:54,340 --> 00:20:58,110
+cuídate y nos vemos pronto con más conceptos
+básicos para tus juegos de mesa favoritos
+

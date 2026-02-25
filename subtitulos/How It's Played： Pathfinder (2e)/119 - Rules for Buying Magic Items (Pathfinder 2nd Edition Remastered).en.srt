@@ -1,0 +1,5315 @@
+1
+00:00:00,560 --> 00:00:02,389
+
+Hey everybody, Dave here with another
+
+2
+00:00:02,389 --> 00:00:02,399
+Hey everybody, Dave here with another
+ 
+
+3
+00:00:02,399 --> 00:00:05,349
+Hey everybody, Dave here with another
+Pathfinder rule reminder for you. And in
+
+4
+00:00:05,349 --> 00:00:05,359
+Pathfinder rule reminder for you. And in
+ 
+
+5
+00:00:05,359 --> 00:00:07,190
+Pathfinder rule reminder for you. And in
+this one, I'm just going to address a
+
+6
+00:00:07,190 --> 00:00:07,200
+this one, I'm just going to address a
+ 
+
+7
+00:00:07,200 --> 00:00:10,549
+this one, I'm just going to address a
+couple of similar questions that were
+
+8
+00:00:10,549 --> 00:00:10,559
+couple of similar questions that were
+ 
+
+9
+00:00:10,559 --> 00:00:13,030
+couple of similar questions that were
+posted to video comments in the last
+
+10
+00:00:13,030 --> 00:00:13,040
+posted to video comments in the last
+ 
+
+11
+00:00:13,040 --> 00:00:16,230
+posted to video comments in the last
+week or so. Both of which deal with uh
+
+12
+00:00:16,230 --> 00:00:16,240
+week or so. Both of which deal with uh
+ 
+
+13
+00:00:16,240 --> 00:00:18,710
+week or so. Both of which deal with uh
+how do you determine if an item is
+
+14
+00:00:18,710 --> 00:00:18,720
+how do you determine if an item is
+ 
+
+15
+00:00:18,720 --> 00:00:20,550
+how do you determine if an item is
+available for sale in a given community?
+
+16
+00:00:20,550 --> 00:00:20,560
+available for sale in a given community?
+ 
+
+17
+00:00:20,560 --> 00:00:23,269
+available for sale in a given community?
+How do you determine if a player can can
+
+18
+00:00:23,269 --> 00:00:23,279
+How do you determine if a player can can
+ 
+
+19
+00:00:23,279 --> 00:00:25,750
+How do you determine if a player can can
+purchase a certain thing that they want?
+
+20
+00:00:25,750 --> 00:00:25,760
+purchase a certain thing that they want?
+ 
+
+21
+00:00:25,760 --> 00:00:28,070
+purchase a certain thing that they want?
+And um you know, how does this all work?
+
+22
+00:00:28,070 --> 00:00:28,080
+And um you know, how does this all work?
+ 
+
+23
+00:00:28,080 --> 00:00:30,150
+And um you know, how does this all work?
+what are the mechanics involved and
+
+24
+00:00:30,150 --> 00:00:30,160
+what are the mechanics involved and
+ 
+
+25
+00:00:30,160 --> 00:00:33,350
+what are the mechanics involved and
+players wishing to purchase some new
+
+26
+00:00:33,350 --> 00:00:33,360
+players wishing to purchase some new
+ 
+
+27
+00:00:33,360 --> 00:00:36,389
+players wishing to purchase some new
+magic items with their hardearned gold.
+
+28
+00:00:36,389 --> 00:00:36,399
+magic items with their hardearned gold.
+ 
+
+29
+00:00:36,399 --> 00:00:38,950
+magic items with their hardearned gold.
+And um I'm just going to say up front
+
+30
+00:00:38,950 --> 00:00:38,960
+And um I'm just going to say up front
+ 
+
+31
+00:00:38,960 --> 00:00:41,270
+And um I'm just going to say up front
+that there's not a whole lot of really
+
+32
+00:00:41,270 --> 00:00:41,280
+that there's not a whole lot of really
+ 
+
+33
+00:00:41,280 --> 00:00:42,670
+that there's not a whole lot of really
+really really
+
+34
+00:00:42,670 --> 00:00:42,680
+really really
+ 
+
+35
+00:00:42,680 --> 00:00:45,350
+really really
+concrete guidance. A lot of this is left
+
+36
+00:00:45,350 --> 00:00:45,360
+concrete guidance. A lot of this is left
+ 
+
+37
+00:00:45,360 --> 00:00:48,630
+concrete guidance. A lot of this is left
+up to the GM to make decisions and
+
+38
+00:00:48,630 --> 00:00:48,640
+up to the GM to make decisions and
+ 
+
+39
+00:00:48,640 --> 00:00:51,029
+up to the GM to make decisions and
+interpretations for what makes sense for
+
+40
+00:00:51,029 --> 00:00:51,039
+interpretations for what makes sense for
+ 
+
+41
+00:00:51,039 --> 00:00:53,830
+interpretations for what makes sense for
+for their game and the kind of tone they
+
+42
+00:00:53,830 --> 00:00:53,840
+for their game and the kind of tone they
+ 
+
+43
+00:00:53,840 --> 00:00:57,270
+for their game and the kind of tone they
+want to strike and where in their world
+
+44
+00:00:57,270 --> 00:00:57,280
+want to strike and where in their world
+ 
+
+45
+00:00:57,280 --> 00:01:00,150
+want to strike and where in their world
+uh this particular proposed purchase is
+
+46
+00:01:00,150 --> 00:01:00,160
+uh this particular proposed purchase is
+ 
+
+47
+00:01:00,160 --> 00:01:02,549
+uh this particular proposed purchase is
+going to take place and so on. But there
+
+48
+00:01:02,549 --> 00:01:02,559
+going to take place and so on. But there
+ 
+
+49
+00:01:02,559 --> 00:01:07,109
+going to take place and so on. But there
+is some guidance in the GM core book and
+
+50
+00:01:07,109 --> 00:01:07,119
+is some guidance in the GM core book and
+ 
+
+51
+00:01:07,119 --> 00:01:10,670
+is some guidance in the GM core book and
+uh really comes down to two major
+
+52
+00:01:10,670 --> 00:01:10,680
+uh really comes down to two major
+ 
+
+53
+00:01:10,680 --> 00:01:14,030
+uh really comes down to two major
+considerations and a handful of minor
+
+54
+00:01:14,030 --> 00:01:14,040
+considerations and a handful of minor
+ 
+
+55
+00:01:14,040 --> 00:01:16,070
+considerations and a handful of minor
+considerations. So the major
+
+56
+00:01:16,070 --> 00:01:16,080
+considerations. So the major
+ 
+
+57
+00:01:16,080 --> 00:01:17,749
+considerations. So the major
+considerations are going to be
+
+58
+00:01:17,749 --> 00:01:17,759
+considerations are going to be
+ 
+
+59
+00:01:17,759 --> 00:01:21,429
+considerations are going to be
+settlement level and rarity. So the
+
+60
+00:01:21,429 --> 00:01:21,439
+settlement level and rarity. So the
+ 
+
+61
+00:01:21,439 --> 00:01:24,469
+settlement level and rarity. So the
+general rule of thumb is if a player
+
+62
+00:01:24,469 --> 00:01:24,479
+general rule of thumb is if a player
+ 
+
+63
+00:01:24,479 --> 00:01:28,149
+general rule of thumb is if a player
+wishes to purchase an item that is of an
+
+64
+00:01:28,149 --> 00:01:28,159
+wishes to purchase an item that is of an
+ 
+
+65
+00:01:28,159 --> 00:01:32,230
+wishes to purchase an item that is of an
+item level equal to or lower than the
+
+66
+00:01:32,230 --> 00:01:32,240
+item level equal to or lower than the
+ 
+
+67
+00:01:32,240 --> 00:01:33,830
+item level equal to or lower than the
+settlement level of the place that
+
+68
+00:01:33,830 --> 00:01:33,840
+settlement level of the place that
+ 
+
+69
+00:01:33,840 --> 00:01:36,310
+settlement level of the place that
+they're wanting to purchase this uh and
+
+70
+00:01:36,310 --> 00:01:36,320
+they're wanting to purchase this uh and
+ 
+
+71
+00:01:36,320 --> 00:01:39,030
+they're wanting to purchase this uh and
+it is common rarity, then there's a
+
+72
+00:01:39,030 --> 00:01:39,040
+it is common rarity, then there's a
+ 
+
+73
+00:01:39,040 --> 00:01:41,190
+it is common rarity, then there's a
+pretty good chance they're going to be
+
+74
+00:01:41,190 --> 00:01:41,200
+pretty good chance they're going to be
+ 
+
+75
+00:01:41,200 --> 00:01:44,550
+pretty good chance they're going to be
+able to source and purchase that item.
+
+76
+00:01:44,550 --> 00:01:44,560
+able to source and purchase that item.
+ 
+
+77
+00:01:44,560 --> 00:01:46,710
+able to source and purchase that item.
+Um, it's not entirely fair to say that
+
+78
+00:01:46,710 --> 00:01:46,720
+Um, it's not entirely fair to say that
+ 
+
+79
+00:01:46,720 --> 00:01:48,389
+Um, it's not entirely fair to say that
+it's a guarantee because there are a
+
+80
+00:01:48,389 --> 00:01:48,399
+it's a guarantee because there are a
+ 
+
+81
+00:01:48,399 --> 00:01:50,469
+it's a guarantee because there are a
+couple of things we'll talk about in uh
+
+82
+00:01:50,469 --> 00:01:50,479
+couple of things we'll talk about in uh
+ 
+
+83
+00:01:50,479 --> 00:01:52,870
+couple of things we'll talk about in uh
+in just a minute, but the the sort of
+
+84
+00:01:52,870 --> 00:01:52,880
+in just a minute, but the the sort of
+ 
+
+85
+00:01:52,880 --> 00:01:54,950
+in just a minute, but the the sort of
+first layer or first criteria you should
+
+86
+00:01:54,950 --> 00:01:54,960
+first layer or first criteria you should
+ 
+
+87
+00:01:54,960 --> 00:01:57,830
+first layer or first criteria you should
+be thinking about is what is the item
+
+88
+00:01:57,830 --> 00:01:57,840
+be thinking about is what is the item
+ 
+
+89
+00:01:57,840 --> 00:01:59,990
+be thinking about is what is the item
+level compared to the settlement level
+
+90
+00:01:59,990 --> 00:02:00,000
+level compared to the settlement level
+ 
+
+91
+00:02:00,000 --> 00:02:02,310
+level compared to the settlement level
+and what is its rarity? If it is of an
+
+92
+00:02:02,310 --> 00:02:02,320
+and what is its rarity? If it is of an
+ 
+
+93
+00:02:02,320 --> 00:02:04,389
+and what is its rarity? If it is of an
+item level equal to or lesser than the
+
+94
+00:02:04,389 --> 00:02:04,399
+item level equal to or lesser than the
+ 
+
+95
+00:02:04,399 --> 00:02:05,789
+item level equal to or lesser than the
+settlement level and it is common
+
+96
+00:02:05,789 --> 00:02:05,799
+settlement level and it is common
+ 
+
+97
+00:02:05,799 --> 00:02:07,990
+settlement level and it is common
+rarity, good chance they're going to be
+
+98
+00:02:07,990 --> 00:02:08,000
+rarity, good chance they're going to be
+ 
+
+99
+00:02:08,000 --> 00:02:09,990
+rarity, good chance they're going to be
+able to find it somewhere in that
+
+100
+00:02:09,990 --> 00:02:10,000
+able to find it somewhere in that
+ 
+
+101
+00:02:10,000 --> 00:02:12,150
+able to find it somewhere in that
+settlement and purchase it.
+
+102
+00:02:12,150 --> 00:02:12,160
+settlement and purchase it.
+ 
+
+103
+00:02:12,160 --> 00:02:15,910
+settlement and purchase it.
+Now, uh the reason why I say that uh
+
+104
+00:02:15,910 --> 00:02:15,920
+Now, uh the reason why I say that uh
+ 
+
+105
+00:02:15,920 --> 00:02:17,990
+Now, uh the reason why I say that uh
+it's not a guarantee that it's going to
+
+106
+00:02:17,990 --> 00:02:18,000
+it's not a guarantee that it's going to
+ 
+
+107
+00:02:18,000 --> 00:02:20,630
+it's not a guarantee that it's going to
+be available there is because there is
+
+108
+00:02:20,630 --> 00:02:20,640
+be available there is because there is
+ 
+
+109
+00:02:20,640 --> 00:02:22,869
+be available there is because there is
+um a piece of guidance that's provided
+
+110
+00:02:22,869 --> 00:02:22,879
+um a piece of guidance that's provided
+ 
+
+111
+00:02:22,879 --> 00:02:24,710
+um a piece of guidance that's provided
+in GM Core and was previously in the
+
+112
+00:02:24,710 --> 00:02:24,720
+in GM Core and was previously in the
+ 
+
+113
+00:02:24,720 --> 00:02:26,949
+in GM Core and was previously in the
+game mastery guide that I think a lot of
+
+114
+00:02:26,949 --> 00:02:26,959
+game mastery guide that I think a lot of
+ 
+
+115
+00:02:26,959 --> 00:02:30,390
+game mastery guide that I think a lot of
+people overlook and that is that there
+
+116
+00:02:30,390 --> 00:02:30,400
+people overlook and that is that there
+ 
+
+117
+00:02:30,400 --> 00:02:34,630
+people overlook and that is that there
+is a cap placed on the highest level
+
+118
+00:02:34,630 --> 00:02:34,640
+is a cap placed on the highest level
+ 
+
+119
+00:02:34,640 --> 00:02:37,110
+is a cap placed on the highest level
+items, the number of highest level items
+
+120
+00:02:37,110 --> 00:02:37,120
+items, the number of highest level items
+ 
+
+121
+00:02:37,120 --> 00:02:39,830
+items, the number of highest level items
+available in any given settlement.
+
+122
+00:02:39,830 --> 00:02:39,840
+available in any given settlement.
+ 
+
+123
+00:02:39,840 --> 00:02:42,790
+available in any given settlement.
+So, it's not like if you walk into a
+
+124
+00:02:42,790 --> 00:02:42,800
+So, it's not like if you walk into a
+ 
+
+125
+00:02:42,800 --> 00:02:46,550
+So, it's not like if you walk into a
+sixth level city that literally every
+
+126
+00:02:46,550 --> 00:02:46,560
+sixth level city that literally every
+ 
+
+127
+00:02:46,560 --> 00:02:50,550
+sixth level city that literally every
+single common rarity magic item of sixth
+
+128
+00:02:50,550 --> 00:02:50,560
+single common rarity magic item of sixth
+ 
+
+129
+00:02:50,560 --> 00:02:53,430
+single common rarity magic item of sixth
+level or lower is sitting on store
+
+130
+00:02:53,430 --> 00:02:53,440
+level or lower is sitting on store
+ 
+
+131
+00:02:53,440 --> 00:02:56,390
+level or lower is sitting on store
+shelves waiting for you to buy them.
+
+132
+00:02:56,390 --> 00:02:56,400
+shelves waiting for you to buy them.
+ 
+
+133
+00:02:56,400 --> 00:02:58,949
+shelves waiting for you to buy them.
+What it does, what the the guidance is,
+
+134
+00:02:58,949 --> 00:02:58,959
+What it does, what the the guidance is,
+ 
+
+135
+00:02:58,959 --> 00:03:03,910
+What it does, what the the guidance is,
+is that you take a look at the uh the
+
+136
+00:03:03,910 --> 00:03:03,920
+is that you take a look at the uh the
+ 
+
+137
+00:03:03,920 --> 00:03:07,270
+is that you take a look at the uh the
+party treasure table that is on page 59
+
+138
+00:03:07,270 --> 00:03:07,280
+party treasure table that is on page 59
+ 
+
+139
+00:03:07,280 --> 00:03:12,390
+party treasure table that is on page 59
+of GM Core and you take one level lower
+
+140
+00:03:12,390 --> 00:03:12,400
+of GM Core and you take one level lower
+ 
+
+141
+00:03:12,400 --> 00:03:14,869
+of GM Core and you take one level lower
+than the settlement's level and that
+
+142
+00:03:14,869 --> 00:03:14,879
+than the settlement's level and that
+ 
+
+143
+00:03:14,879 --> 00:03:18,869
+than the settlement's level and that
+tells you how many of the highest level
+
+144
+00:03:18,869 --> 00:03:18,879
+tells you how many of the highest level
+ 
+
+145
+00:03:18,879 --> 00:03:21,589
+tells you how many of the highest level
+items are available in that settlement.
+
+146
+00:03:21,589 --> 00:03:21,599
+items are available in that settlement.
+ 
+
+147
+00:03:21,599 --> 00:03:25,030
+items are available in that settlement.
+Uh so if you are in a sixth level city,
+
+148
+00:03:25,030 --> 00:03:25,040
+Uh so if you are in a sixth level city,
+ 
+
+149
+00:03:25,040 --> 00:03:27,830
+Uh so if you are in a sixth level city,
+you look at the the column for permanent
+
+150
+00:03:27,830 --> 00:03:27,840
+you look at the the column for permanent
+ 
+
+151
+00:03:27,840 --> 00:03:31,110
+you look at the the column for permanent
+uh magic items and consumable items and
+
+152
+00:03:31,110 --> 00:03:31,120
+uh magic items and consumable items and
+ 
+
+153
+00:03:31,120 --> 00:03:32,550
+uh magic items and consumable items and
+you look at fifth level cuz that's one
+
+154
+00:03:32,550 --> 00:03:32,560
+you look at fifth level cuz that's one
+ 
+
+155
+00:03:32,560 --> 00:03:34,309
+you look at fifth level cuz that's one
+less than the settlement level and it
+
+156
+00:03:34,309 --> 00:03:34,319
+less than the settlement level and it
+ 
+
+157
+00:03:34,319 --> 00:03:37,110
+less than the settlement level and it
+says uh sixth level two and fifth level
+
+158
+00:03:37,110 --> 00:03:37,120
+says uh sixth level two and fifth level
+ 
+
+159
+00:03:37,120 --> 00:03:38,670
+says uh sixth level two and fifth level
+two for permanent
+
+160
+00:03:38,670 --> 00:03:38,680
+two for permanent
+ 
+
+161
+00:03:38,680 --> 00:03:43,830
+two for permanent
+items. That means not every sixth level
+
+162
+00:03:43,830 --> 00:03:43,840
+items. That means not every sixth level
+ 
+
+163
+00:03:43,840 --> 00:03:46,869
+items. That means not every sixth level
+common rarity magic item and fifth level
+
+164
+00:03:46,869 --> 00:03:46,879
+common rarity magic item and fifth level
+ 
+
+165
+00:03:46,879 --> 00:03:48,789
+common rarity magic item and fifth level
+common rarity magic item is going to be
+
+166
+00:03:48,789 --> 00:03:48,799
+common rarity magic item is going to be
+ 
+
+167
+00:03:48,799 --> 00:03:50,270
+common rarity magic item is going to be
+available for sale in this community.
+
+168
+00:03:50,270 --> 00:03:50,280
+available for sale in this community.
+ 
+
+169
+00:03:50,280 --> 00:03:53,030
+available for sale in this community.
+means two sixth level items are going to
+
+170
+00:03:53,030 --> 00:03:53,040
+means two sixth level items are going to
+ 
+
+171
+00:03:53,040 --> 00:03:55,190
+means two sixth level items are going to
+be available and two fifth level items
+
+172
+00:03:55,190 --> 00:03:55,200
+be available and two fifth level items
+ 
+
+173
+00:03:55,200 --> 00:03:57,910
+be available and two fifth level items
+are. And then at at level four and
+
+174
+00:03:57,910 --> 00:03:57,920
+are. And then at at level four and
+ 
+
+175
+00:03:57,920 --> 00:04:00,670
+are. And then at at level four and
+below, those are considered so
+
+176
+00:04:00,670 --> 00:04:00,680
+below, those are considered so
+ 
+
+177
+00:04:00,680 --> 00:04:03,429
+below, those are considered so
+insignificant that uh it should be easy
+
+178
+00:04:03,429 --> 00:04:03,439
+insignificant that uh it should be easy
+ 
+
+179
+00:04:03,439 --> 00:04:06,949
+insignificant that uh it should be easy
+to find and source one of those items in
+
+180
+00:04:06,949 --> 00:04:06,959
+to find and source one of those items in
+ 
+
+181
+00:04:06,959 --> 00:04:07,630
+to find and source one of those items in
+the
+
+182
+00:04:07,630 --> 00:04:07,640
+the
+ 
+
+183
+00:04:07,640 --> 00:04:10,789
+the
+settlement. But you are placing limits
+
+184
+00:04:10,789 --> 00:04:10,799
+settlement. But you are placing limits
+ 
+
+185
+00:04:10,799 --> 00:04:13,910
+settlement. But you are placing limits
+on the highest level items, the number
+
+186
+00:04:13,910 --> 00:04:13,920
+on the highest level items, the number
+ 
+
+187
+00:04:13,920 --> 00:04:15,990
+on the highest level items, the number
+of highest level items available in each
+
+188
+00:04:15,990 --> 00:04:16,000
+of highest level items available in each
+ 
+
+189
+00:04:16,000 --> 00:04:16,590
+of highest level items available in each
+uh
+
+190
+00:04:16,590 --> 00:04:16,600
+uh
+ 
+
+191
+00:04:16,600 --> 00:04:18,870
+uh
+settlement. Now, generally, even though
+
+192
+00:04:18,870 --> 00:04:18,880
+settlement. Now, generally, even though
+ 
+
+193
+00:04:18,880 --> 00:04:20,509
+settlement. Now, generally, even though
+they refer to this
+
+194
+00:04:20,509 --> 00:04:20,519
+they refer to this
+ 
+
+195
+00:04:20,519 --> 00:04:23,110
+they refer to this
+table, most of the time it's it's going
+
+196
+00:04:23,110 --> 00:04:23,120
+table, most of the time it's it's going
+ 
+
+197
+00:04:23,120 --> 00:04:26,230
+table, most of the time it's it's going
+to work out as being any settlement has
+
+198
+00:04:26,230 --> 00:04:26,240
+to work out as being any settlement has
+ 
+
+199
+00:04:26,240 --> 00:04:28,390
+to work out as being any settlement has
+at most two items of it of a settlement
+
+200
+00:04:28,390 --> 00:04:28,400
+at most two items of it of a settlement
+ 
+
+201
+00:04:28,400 --> 00:04:32,390
+at most two items of it of a settlement
+level, two items of its level minus one
+
+202
+00:04:32,390 --> 00:04:32,400
+level, two items of its level minus one
+ 
+
+203
+00:04:32,400 --> 00:04:34,310
+level, two items of its level minus one
+for permanent items. And for
+
+204
+00:04:34,310 --> 00:04:34,320
+for permanent items. And for
+ 
+
+205
+00:04:34,320 --> 00:04:36,950
+for permanent items. And for
+consumables, there's another layer that
+
+206
+00:04:36,950 --> 00:04:36,960
+consumables, there's another layer that
+ 
+
+207
+00:04:36,960 --> 00:04:39,510
+consumables, there's another layer that
+goes down three levels or two levels
+
+208
+00:04:39,510 --> 00:04:39,520
+goes down three levels or two levels
+ 
+
+209
+00:04:39,520 --> 00:04:41,909
+goes down three levels or two levels
+below the settlement level and is capped
+
+210
+00:04:41,909 --> 00:04:41,919
+below the settlement level and is capped
+ 
+
+211
+00:04:41,919 --> 00:04:44,870
+below the settlement level and is capped
+at two consumable items of that level as
+
+212
+00:04:44,870 --> 00:04:44,880
+at two consumable items of that level as
+ 
+
+213
+00:04:44,880 --> 00:04:47,110
+at two consumable items of that level as
+well. Uh, so that might make it easier
+
+214
+00:04:47,110 --> 00:04:47,120
+well. Uh, so that might make it easier
+ 
+
+215
+00:04:47,120 --> 00:04:49,629
+well. Uh, so that might make it easier
+than referring to this table all the
+
+216
+00:04:49,629 --> 00:04:49,639
+than referring to this table all the
+ 
+
+217
+00:04:49,639 --> 00:04:52,629
+than referring to this table all the
+time. Now, there are some other things
+
+218
+00:04:52,629 --> 00:04:52,639
+time. Now, there are some other things
+ 
+
+219
+00:04:52,639 --> 00:04:54,870
+time. Now, there are some other things
+to consider. Uh, what if the item that
+
+220
+00:04:54,870 --> 00:04:54,880
+to consider. Uh, what if the item that
+ 
+
+221
+00:04:54,880 --> 00:04:57,950
+to consider. Uh, what if the item that
+you're wanting to find is not common
+
+222
+00:04:57,950 --> 00:04:57,960
+you're wanting to find is not common
+ 
+
+223
+00:04:57,960 --> 00:05:01,469
+you're wanting to find is not common
+rarity? Uh, the book doesn't
+
+224
+00:05:01,469 --> 00:05:01,479
+rarity? Uh, the book doesn't
+ 
+
+225
+00:05:01,479 --> 00:05:04,150
+rarity? Uh, the book doesn't
+provide hard
+
+226
+00:05:04,150 --> 00:05:04,160
+provide hard
+ 
+
+227
+00:05:04,160 --> 00:05:08,469
+provide hard
+uh hard mechanics for finding items that
+
+228
+00:05:08,469 --> 00:05:08,479
+uh hard mechanics for finding items that
+ 
+
+229
+00:05:08,479 --> 00:05:10,629
+uh hard mechanics for finding items that
+are not common. Uh, again, this is going
+
+230
+00:05:10,629 --> 00:05:10,639
+are not common. Uh, again, this is going
+ 
+
+231
+00:05:10,639 --> 00:05:12,390
+are not common. Uh, again, this is going
+to be up to the GM, but the guidance
+
+232
+00:05:12,390 --> 00:05:12,400
+to be up to the GM, but the guidance
+ 
+
+233
+00:05:12,400 --> 00:05:14,950
+to be up to the GM, but the guidance
+that they that they do give you is that
+
+234
+00:05:14,950 --> 00:05:14,960
+that they that they do give you is that
+ 
+
+235
+00:05:14,960 --> 00:05:19,430
+that they that they do give you is that
+common rarity items are typically gated
+
+236
+00:05:19,430 --> 00:05:19,440
+common rarity items are typically gated
+ 
+
+237
+00:05:19,440 --> 00:05:22,310
+common rarity items are typically gated
+behind something. They might be gated
+
+238
+00:05:22,310 --> 00:05:22,320
+behind something. They might be gated
+ 
+
+239
+00:05:22,320 --> 00:05:25,830
+behind something. They might be gated
+behind uh a certain ancestry that is
+
+240
+00:05:25,830 --> 00:05:25,840
+behind uh a certain ancestry that is
+ 
+
+241
+00:05:25,840 --> 00:05:28,230
+behind uh a certain ancestry that is
+fond of making these items. They could
+
+242
+00:05:28,230 --> 00:05:28,240
+fond of making these items. They could
+ 
+
+243
+00:05:28,240 --> 00:05:31,070
+fond of making these items. They could
+be gated behind belonging to a specific
+
+244
+00:05:31,070 --> 00:05:31,080
+be gated behind belonging to a specific
+ 
+
+245
+00:05:31,080 --> 00:05:33,909
+be gated behind belonging to a specific
+faction. They could be gated behind a
+
+246
+00:05:33,909 --> 00:05:33,919
+faction. They could be gated behind a
+ 
+
+247
+00:05:33,919 --> 00:05:36,150
+faction. They could be gated behind a
+particular nationality. They could be
+
+248
+00:05:36,150 --> 00:05:36,160
+particular nationality. They could be
+ 
+
+249
+00:05:36,160 --> 00:05:38,469
+particular nationality. They could be
+gated behind a lore skill. Maybe only
+
+250
+00:05:38,469 --> 00:05:38,479
+gated behind a lore skill. Maybe only
+ 
+
+251
+00:05:38,479 --> 00:05:43,430
+gated behind a lore skill. Maybe only
+people who are um expert level lore in a
+
+252
+00:05:43,430 --> 00:05:43,440
+people who are um expert level lore in a
+ 
+
+253
+00:05:43,440 --> 00:05:45,749
+people who are um expert level lore in a
+particular magical tradition would even
+
+254
+00:05:45,749 --> 00:05:45,759
+particular magical tradition would even
+ 
+
+255
+00:05:45,759 --> 00:05:49,310
+particular magical tradition would even
+know that such a thing exists and uh
+
+256
+00:05:49,310 --> 00:05:49,320
+know that such a thing exists and uh
+ 
+
+257
+00:05:49,320 --> 00:05:53,029
+know that such a thing exists and uh
+would would have a an ability to to find
+
+258
+00:05:53,029 --> 00:05:53,039
+would would have a an ability to to find
+ 
+
+259
+00:05:53,039 --> 00:05:57,590
+would would have a an ability to to find
+and source uh those particular items.
+
+260
+00:05:57,590 --> 00:05:57,600
+and source uh those particular items.
+ 
+
+261
+00:05:57,600 --> 00:06:01,590
+and source uh those particular items.
+But when you think about the um the
+
+262
+00:06:01,590 --> 00:06:01,600
+But when you think about the um the
+ 
+
+263
+00:06:01,600 --> 00:06:03,749
+But when you think about the um the
+access requirements to these uncommon
+
+264
+00:06:03,749 --> 00:06:03,759
+access requirements to these uncommon
+ 
+
+265
+00:06:03,759 --> 00:06:06,550
+access requirements to these uncommon
+items is is might be a good guideline to
+
+266
+00:06:06,550 --> 00:06:06,560
+items is is might be a good guideline to
+ 
+
+267
+00:06:06,560 --> 00:06:09,430
+items is is might be a good guideline to
+not just think about um does the
+
+268
+00:06:09,430 --> 00:06:09,440
+not just think about um does the
+ 
+
+269
+00:06:09,440 --> 00:06:12,909
+not just think about um does the
+player's character meet an access
+
+270
+00:06:12,909 --> 00:06:12,919
+player's character meet an access
+ 
+
+271
+00:06:12,919 --> 00:06:15,550
+player's character meet an access
+requirement or does the settlement
+
+272
+00:06:15,550 --> 00:06:15,560
+requirement or does the settlement
+ 
+
+273
+00:06:15,560 --> 00:06:20,790
+requirement or does the settlement
+itself meet that requirement. So, um, if
+
+274
+00:06:20,790 --> 00:06:20,800
+itself meet that requirement. So, um, if
+ 
+
+275
+00:06:20,800 --> 00:06:23,430
+itself meet that requirement. So, um, if
+you have an elven character and they are
+
+276
+00:06:23,430 --> 00:06:23,440
+you have an elven character and they are
+ 
+
+277
+00:06:23,440 --> 00:06:26,469
+you have an elven character and they are
+proficient with elven marshall weapons
+
+278
+00:06:26,469 --> 00:06:26,479
+proficient with elven marshall weapons
+ 
+
+279
+00:06:26,479 --> 00:06:28,469
+proficient with elven marshall weapons
+and they want to go by a plus one
+
+280
+00:06:28,469 --> 00:06:28,479
+and they want to go by a plus one
+ 
+
+281
+00:06:28,479 --> 00:06:31,230
+and they want to go by a plus one
+striking, uh, elven curved
+
+282
+00:06:31,230 --> 00:06:31,240
+striking, uh, elven curved
+ 
+
+283
+00:06:31,240 --> 00:06:34,710
+striking, uh, elven curved
+blade, if they're in a a predominantly
+
+284
+00:06:34,710 --> 00:06:34,720
+blade, if they're in a a predominantly
+ 
+
+285
+00:06:34,720 --> 00:06:36,230
+blade, if they're in a a predominantly
+human settlement, this might be
+
+286
+00:06:36,230 --> 00:06:36,240
+human settlement, this might be
+ 
+
+287
+00:06:36,240 --> 00:06:37,430
+human settlement, this might be
+considered or probably would be
+
+288
+00:06:37,430 --> 00:06:37,440
+considered or probably would be
+ 
+
+289
+00:06:37,440 --> 00:06:40,870
+considered or probably would be
+considered an uncommon item, but they
+
+290
+00:06:40,870 --> 00:06:40,880
+considered an uncommon item, but they
+ 
+
+291
+00:06:40,880 --> 00:06:45,950
+considered an uncommon item, but they
+might be able to uh to rely on their
+
+292
+00:06:45,950 --> 00:06:45,960
+might be able to uh to rely on their
+ 
+
+293
+00:06:45,960 --> 00:06:48,629
+might be able to uh to rely on their
+familiarity to start conversation ations
+
+294
+00:06:48,629 --> 00:06:48,639
+familiarity to start conversation ations
+ 
+
+295
+00:06:48,639 --> 00:06:52,469
+familiarity to start conversation ations
+to find uh an an elven bartender who was
+
+296
+00:06:52,469 --> 00:06:52,479
+to find uh an an elven bartender who was
+ 
+
+297
+00:06:52,479 --> 00:06:55,270
+to find uh an an elven bartender who was
+a retired adventurer and talk to them
+
+298
+00:06:55,270 --> 00:06:55,280
+a retired adventurer and talk to them
+ 
+
+299
+00:06:55,280 --> 00:06:56,629
+a retired adventurer and talk to them
+and say, "Hey, can I buy that blade off
+
+300
+00:06:56,629 --> 00:06:56,639
+and say, "Hey, can I buy that blade off
+ 
+
+301
+00:06:56,639 --> 00:06:59,189
+and say, "Hey, can I buy that blade off
+you?" Something like that. Um it's just
+
+302
+00:06:59,189 --> 00:06:59,199
+you?" Something like that. Um it's just
+ 
+
+303
+00:06:59,199 --> 00:07:01,909
+you?" Something like that. Um it's just
+not going to be uncommon items are just
+
+304
+00:07:01,909 --> 00:07:01,919
+not going to be uncommon items are just
+ 
+
+305
+00:07:01,919 --> 00:07:03,270
+not going to be uncommon items are just
+not going to be freely available
+
+306
+00:07:03,270 --> 00:07:03,280
+not going to be freely available
+ 
+
+307
+00:07:03,280 --> 00:07:05,749
+not going to be freely available
+typically to everybody in the settlement
+
+308
+00:07:05,749 --> 00:07:05,759
+typically to everybody in the settlement
+ 
+
+309
+00:07:05,759 --> 00:07:08,790
+typically to everybody in the settlement
+unless the settlement itself meets the
+
+310
+00:07:08,790 --> 00:07:08,800
+unless the settlement itself meets the
+ 
+
+311
+00:07:08,800 --> 00:07:11,830
+unless the settlement itself meets the
+criteria for the access. So, if this was
+
+312
+00:07:11,830 --> 00:07:11,840
+criteria for the access. So, if this was
+ 
+
+313
+00:07:11,840 --> 00:07:15,990
+criteria for the access. So, if this was
+an an predominantly elven community, uh,
+
+314
+00:07:15,990 --> 00:07:16,000
+an an predominantly elven community, uh,
+ 
+
+315
+00:07:16,000 --> 00:07:18,070
+an an predominantly elven community, uh,
+then elven curve blades are probably
+
+316
+00:07:18,070 --> 00:07:18,080
+then elven curve blades are probably
+ 
+
+317
+00:07:18,080 --> 00:07:20,629
+then elven curve blades are probably
+available at every blacksmith. So, when
+
+318
+00:07:20,629 --> 00:07:20,639
+available at every blacksmith. So, when
+ 
+
+319
+00:07:20,639 --> 00:07:21,749
+available at every blacksmith. So, when
+you think about these access
+
+320
+00:07:21,749 --> 00:07:21,759
+you think about these access
+ 
+
+321
+00:07:21,759 --> 00:07:25,270
+you think about these access
+requirements, um, or access guidelines
+
+322
+00:07:25,270 --> 00:07:25,280
+requirements, um, or access guidelines
+ 
+
+323
+00:07:25,280 --> 00:07:27,749
+requirements, um, or access guidelines
+for uncommon items, be sure to look at
+
+324
+00:07:27,749 --> 00:07:27,759
+for uncommon items, be sure to look at
+ 
+
+325
+00:07:27,759 --> 00:07:29,270
+for uncommon items, be sure to look at
+it from both perspectives, the
+
+326
+00:07:29,270 --> 00:07:29,280
+it from both perspectives, the
+ 
+
+327
+00:07:29,280 --> 00:07:30,790
+it from both perspectives, the
+individual and but also the community
+
+328
+00:07:30,790 --> 00:07:30,800
+individual and but also the community
+ 
+
+329
+00:07:30,800 --> 00:07:33,430
+individual and but also the community
+itself. What makes sense that they would
+
+330
+00:07:33,430 --> 00:07:33,440
+itself. What makes sense that they would
+ 
+
+331
+00:07:33,440 --> 00:07:34,990
+itself. What makes sense that they would
+have access
+
+332
+00:07:34,990 --> 00:07:35,000
+have access
+ 
+
+333
+00:07:35,000 --> 00:07:40,070
+have access
+to? There is new rule that says you in
+
+334
+00:07:40,070 --> 00:07:40,080
+to? There is new rule that says you in
+ 
+
+335
+00:07:40,080 --> 00:07:41,990
+to? There is new rule that says you in
+order to source an uncommon item, you
+
+336
+00:07:41,990 --> 00:07:42,000
+order to source an uncommon item, you
+ 
+
+337
+00:07:42,000 --> 00:07:44,230
+order to source an uncommon item, you
+have to pass a gather information skill
+
+338
+00:07:44,230 --> 00:07:44,240
+have to pass a gather information skill
+ 
+
+339
+00:07:44,240 --> 00:07:47,430
+have to pass a gather information skill
+check or a lure score skill check of a
+
+340
+00:07:47,430 --> 00:07:47,440
+check or a lure score skill check of a
+ 
+
+341
+00:07:47,440 --> 00:07:49,350
+check or a lure score skill check of a
+DC equal to the item level of the item
+
+342
+00:07:49,350 --> 00:07:49,360
+DC equal to the item level of the item
+ 
+
+343
+00:07:49,360 --> 00:07:50,589
+DC equal to the item level of the item
+and so on and so
+
+344
+00:07:50,589 --> 00:07:50,599
+and so on and so
+ 
+
+345
+00:07:50,599 --> 00:07:53,830
+and so on and so
+forth. If a GMs will want to run a game
+
+346
+00:07:53,830 --> 00:07:53,840
+forth. If a GMs will want to run a game
+ 
+
+347
+00:07:53,840 --> 00:07:57,029
+forth. If a GMs will want to run a game
+that way, perfectly welcome, well within
+
+348
+00:07:57,029 --> 00:07:57,039
+that way, perfectly welcome, well within
+ 
+
+349
+00:07:57,039 --> 00:07:59,990
+that way, perfectly welcome, well within
+your rights. Uh and I and I have seen
+
+350
+00:07:59,990 --> 00:08:00,000
+your rights. Uh and I and I have seen
+ 
+
+351
+00:08:00,000 --> 00:08:01,270
+your rights. Uh and I and I have seen
+online some people say that they do
+
+352
+00:08:01,270 --> 00:08:01,280
+online some people say that they do
+ 
+
+353
+00:08:01,280 --> 00:08:02,510
+online some people say that they do
+similar
+
+354
+00:08:02,510 --> 00:08:02,520
+similar
+ 
+
+355
+00:08:02,520 --> 00:08:06,950
+similar
+things but just understand that is not a
+
+356
+00:08:06,950 --> 00:08:06,960
+things but just understand that is not a
+ 
+
+357
+00:08:06,960 --> 00:08:09,909
+things but just understand that is not a
+official rule that is you know coded
+
+358
+00:08:09,909 --> 00:08:09,919
+official rule that is you know coded
+ 
+
+359
+00:08:09,919 --> 00:08:13,029
+official rule that is you know coded
+into the DNA of Pathfinder second
+
+360
+00:08:13,029 --> 00:08:13,039
+into the DNA of Pathfinder second
+ 
+
+361
+00:08:13,039 --> 00:08:15,189
+into the DNA of Pathfinder second
+edition the way systems like that are
+
+362
+00:08:15,189 --> 00:08:15,199
+edition the way systems like that are
+ 
+
+363
+00:08:15,199 --> 00:08:18,230
+edition the way systems like that are
+coded into other uh other role playing
+
+364
+00:08:18,230 --> 00:08:18,240
+coded into other uh other role playing
+ 
+
+365
+00:08:18,240 --> 00:08:22,070
+coded into other uh other role playing
+games. Now when we talk about uh rare or
+
+366
+00:08:22,070 --> 00:08:22,080
+games. Now when we talk about uh rare or
+ 
+
+367
+00:08:22,080 --> 00:08:26,390
+games. Now when we talk about uh rare or
+even unique items then the criteria to
+
+368
+00:08:26,390 --> 00:08:26,400
+even unique items then the criteria to
+ 
+
+369
+00:08:26,400 --> 00:08:27,909
+even unique items then the criteria to
+source and find and purchase these
+
+370
+00:08:27,909 --> 00:08:27,919
+source and find and purchase these
+ 
+
+371
+00:08:27,919 --> 00:08:31,029
+source and find and purchase these
+things get even steeper. Uh so common
+
+372
+00:08:31,029 --> 00:08:31,039
+things get even steeper. Uh so common
+ 
+
+373
+00:08:31,039 --> 00:08:33,829
+things get even steeper. Uh so common
+items if it's you know you're you're if
+
+374
+00:08:33,829 --> 00:08:33,839
+items if it's you know you're you're if
+ 
+
+375
+00:08:33,839 --> 00:08:35,750
+items if it's you know you're you're if
+it's common rarity and you're at the
+
+376
+00:08:35,750 --> 00:08:35,760
+it's common rarity and you're at the
+ 
+
+377
+00:08:35,760 --> 00:08:38,070
+it's common rarity and you're at the
+sediment level or lower for the item
+
+378
+00:08:38,070 --> 00:08:38,080
+sediment level or lower for the item
+ 
+
+379
+00:08:38,080 --> 00:08:39,269
+sediment level or lower for the item
+level then you have a pretty good chance
+
+380
+00:08:39,269 --> 00:08:39,279
+level then you have a pretty good chance
+ 
+
+381
+00:08:39,279 --> 00:08:41,670
+level then you have a pretty good chance
+of finding it. uncommon. You're going to
+
+382
+00:08:41,670 --> 00:08:41,680
+of finding it. uncommon. You're going to
+ 
+
+383
+00:08:41,680 --> 00:08:43,029
+of finding it. uncommon. You're going to
+have to have some sort of special
+
+384
+00:08:43,029 --> 00:08:43,039
+have to have some sort of special
+ 
+
+385
+00:08:43,039 --> 00:08:45,590
+have to have some sort of special
+access, jump through some minor hoops,
+
+386
+00:08:45,590 --> 00:08:45,600
+access, jump through some minor hoops,
+ 
+
+387
+00:08:45,600 --> 00:08:49,190
+access, jump through some minor hoops,
+and but when we get into rare, these are
+
+388
+00:08:49,190 --> 00:08:49,200
+and but when we get into rare, these are
+ 
+
+389
+00:08:49,200 --> 00:08:51,910
+and but when we get into rare, these are
+going to be items that ideally should be
+
+390
+00:08:51,910 --> 00:08:51,920
+going to be items that ideally should be
+ 
+
+391
+00:08:51,920 --> 00:08:55,190
+going to be items that ideally should be
+tied into the narrative of the game. Uh,
+
+392
+00:08:55,190 --> 00:08:55,200
+tied into the narrative of the game. Uh,
+ 
+
+393
+00:08:55,200 --> 00:08:57,509
+tied into the narrative of the game. Uh,
+very very infrequently, I almost said
+
+394
+00:08:57,509 --> 00:08:57,519
+very very infrequently, I almost said
+ 
+
+395
+00:08:57,519 --> 00:08:59,310
+very very infrequently, I almost said
+very rarely, but I guess very
+
+396
+00:08:59,310 --> 00:08:59,320
+very rarely, but I guess very
+ 
+
+397
+00:08:59,320 --> 00:09:01,509
+very rarely, but I guess very
+infrequently, should a person just be
+
+398
+00:09:01,509 --> 00:09:01,519
+infrequently, should a person just be
+ 
+
+399
+00:09:01,519 --> 00:09:05,430
+infrequently, should a person just be
+able to go into a settlement and just
+
+400
+00:09:05,430 --> 00:09:05,440
+able to go into a settlement and just
+ 
+
+401
+00:09:05,440 --> 00:09:08,470
+able to go into a settlement and just
+buy a a a rare item, unless there's
+
+402
+00:09:08,470 --> 00:09:08,480
+buy a a a rare item, unless there's
+ 
+
+403
+00:09:08,480 --> 00:09:11,350
+buy a a a rare item, unless there's
+special circumstances. Uh, if a player
+
+404
+00:09:11,350 --> 00:09:11,360
+special circumstances. Uh, if a player
+ 
+
+405
+00:09:11,360 --> 00:09:13,110
+special circumstances. Uh, if a player
+wants just says that they're looking for
+
+406
+00:09:13,110 --> 00:09:13,120
+wants just says that they're looking for
+ 
+
+407
+00:09:13,120 --> 00:09:15,829
+wants just says that they're looking for
+a particular rare item, either tie that
+
+408
+00:09:15,829 --> 00:09:15,839
+a particular rare item, either tie that
+ 
+
+409
+00:09:15,839 --> 00:09:17,590
+a particular rare item, either tie that
+into the narrative, tie that in the
+
+410
+00:09:17,590 --> 00:09:17,600
+into the narrative, tie that in the
+ 
+
+411
+00:09:17,600 --> 00:09:20,070
+into the narrative, tie that in the
+story, give them a quest that they have
+
+412
+00:09:20,070 --> 00:09:20,080
+story, give them a quest that they have
+ 
+
+413
+00:09:20,080 --> 00:09:23,509
+story, give them a quest that they have
+to complete to get access to that item.
+
+414
+00:09:23,509 --> 00:09:23,519
+to complete to get access to that item.
+ 
+
+415
+00:09:23,519 --> 00:09:27,269
+to complete to get access to that item.
+something like that. Um, it shouldn't
+
+416
+00:09:27,269 --> 00:09:27,279
+something like that. Um, it shouldn't
+ 
+
+417
+00:09:27,279 --> 00:09:28,949
+something like that. Um, it shouldn't
+getting a rare item should be a major
+
+418
+00:09:28,949 --> 00:09:28,959
+getting a rare item should be a major
+ 
+
+419
+00:09:28,959 --> 00:09:31,949
+getting a rare item should be a major
+event. It shouldn't be a purely
+
+420
+00:09:31,949 --> 00:09:31,959
+event. It shouldn't be a purely
+ 
+
+421
+00:09:31,959 --> 00:09:34,310
+event. It shouldn't be a purely
+transactional event the way that
+
+422
+00:09:34,310 --> 00:09:34,320
+transactional event the way that
+ 
+
+423
+00:09:34,320 --> 00:09:36,630
+transactional event the way that
+purchasing common items and even some
+
+424
+00:09:36,630 --> 00:09:36,640
+purchasing common items and even some
+ 
+
+425
+00:09:36,640 --> 00:09:39,590
+purchasing common items and even some
+uncommon items would be. Now, some of
+
+426
+00:09:39,590 --> 00:09:39,600
+uncommon items would be. Now, some of
+ 
+
+427
+00:09:39,600 --> 00:09:41,430
+uncommon items would be. Now, some of
+the other little considerations you
+
+428
+00:09:41,430 --> 00:09:41,440
+the other little considerations you
+ 
+
+429
+00:09:41,440 --> 00:09:43,350
+the other little considerations you
+might want to think about is the
+
+430
+00:09:43,350 --> 00:09:43,360
+might want to think about is the
+ 
+
+431
+00:09:43,360 --> 00:09:45,430
+might want to think about is the
+player's level. If the player's
+
+432
+00:09:45,430 --> 00:09:45,440
+player's level. If the player's
+ 
+
+433
+00:09:45,440 --> 00:09:47,509
+player's level. If the player's
+character level is higher than the
+
+434
+00:09:47,509 --> 00:09:47,519
+character level is higher than the
+ 
+
+435
+00:09:47,519 --> 00:09:51,790
+character level is higher than the
+settlement level, then they might have a
+
+436
+00:09:51,790 --> 00:09:51,800
+settlement level, then they might have a
+ 
+
+437
+00:09:51,800 --> 00:09:55,750
+settlement level, then they might have a
+degree of fame, reputation, influence in
+
+438
+00:09:55,750 --> 00:09:55,760
+degree of fame, reputation, influence in
+ 
+
+439
+00:09:55,760 --> 00:09:59,509
+degree of fame, reputation, influence in
+that community that could that could be
+
+440
+00:09:59,509 --> 00:09:59,519
+that community that could that could be
+ 
+
+441
+00:09:59,519 --> 00:10:01,990
+that community that could that could be
+used to give a narrative explanation as
+
+442
+00:10:01,990 --> 00:10:02,000
+used to give a narrative explanation as
+ 
+
+443
+00:10:02,000 --> 00:10:04,150
+used to give a narrative explanation as
+to why people in that community are more
+
+444
+00:10:04,150 --> 00:10:04,160
+to why people in that community are more
+ 
+
+445
+00:10:04,160 --> 00:10:07,670
+to why people in that community are more
+likely to part with things uh in and and
+
+446
+00:10:07,670 --> 00:10:07,680
+likely to part with things uh in and and
+ 
+
+447
+00:10:07,680 --> 00:10:09,110
+likely to part with things uh in and and
+and sell them something of a higher
+
+448
+00:10:09,110 --> 00:10:09,120
+and sell them something of a higher
+ 
+
+449
+00:10:09,120 --> 00:10:10,949
+and sell them something of a higher
+level than they normally would, which
+
+450
+00:10:10,949 --> 00:10:10,959
+level than they normally would, which
+ 
+
+451
+00:10:10,959 --> 00:10:13,750
+level than they normally would, which
+could be justification for why a tenth
+
+452
+00:10:13,750 --> 00:10:13,760
+could be justification for why a tenth
+ 
+
+453
+00:10:13,760 --> 00:10:15,910
+could be justification for why a tenth
+level characters able to source a
+
+454
+00:10:15,910 --> 00:10:15,920
+level characters able to source a
+ 
+
+455
+00:10:15,920 --> 00:10:18,389
+level characters able to source a
+seventh level magic item in a sixth
+
+456
+00:10:18,389 --> 00:10:18,399
+seventh level magic item in a sixth
+ 
+
+457
+00:10:18,399 --> 00:10:21,230
+seventh level magic item in a sixth
+level settlement, something of that
+
+458
+00:10:21,230 --> 00:10:21,240
+level settlement, something of that
+ 
+
+459
+00:10:21,240 --> 00:10:24,790
+level settlement, something of that
+sort. And also keep in mind that when
+
+460
+00:10:24,790 --> 00:10:24,800
+sort. And also keep in mind that when
+ 
+
+461
+00:10:24,800 --> 00:10:27,949
+sort. And also keep in mind that when
+the book talks about these
+
+462
+00:10:27,949 --> 00:10:27,959
+the book talks about these
+ 
+
+463
+00:10:27,959 --> 00:10:31,509
+the book talks about these
+rules, they're referring to a very
+
+464
+00:10:31,509 --> 00:10:31,519
+rules, they're referring to a very
+ 
+
+465
+00:10:31,519 --> 00:10:34,790
+rules, they're referring to a very
+standard sort of generic general
+
+466
+00:10:34,790 --> 00:10:34,800
+standard sort of generic general
+ 
+
+467
+00:10:34,800 --> 00:10:37,110
+standard sort of generic general
+community settlement.
+
+468
+00:10:37,110 --> 00:10:37,120
+community settlement.
+ 
+
+469
+00:10:37,120 --> 00:10:41,190
+community settlement.
+And it's up to you as the GM to apply
+
+470
+00:10:41,190 --> 00:10:41,200
+And it's up to you as the GM to apply
+ 
+
+471
+00:10:41,200 --> 00:10:43,190
+And it's up to you as the GM to apply
+modifications to what's available there
+
+472
+00:10:43,190 --> 00:10:43,200
+modifications to what's available there
+ 
+
+473
+00:10:43,200 --> 00:10:45,509
+modifications to what's available there
+according to like what's their trade,
+
+474
+00:10:45,509 --> 00:10:45,519
+according to like what's their trade,
+ 
+
+475
+00:10:45,519 --> 00:10:46,949
+according to like what's their trade,
+what are their major imports and
+
+476
+00:10:46,949 --> 00:10:46,959
+what are their major imports and
+ 
+
+477
+00:10:46,959 --> 00:10:49,829
+what are their major imports and
+exports, where are they located, things
+
+478
+00:10:49,829 --> 00:10:49,839
+exports, where are they located, things
+ 
+
+479
+00:10:49,839 --> 00:10:53,350
+exports, where are they located, things
+of that nature. So, as a GM, you very
+
+480
+00:10:53,350 --> 00:10:53,360
+of that nature. So, as a GM, you very
+ 
+
+481
+00:10:53,360 --> 00:10:57,590
+of that nature. So, as a GM, you very
+much should be willing to bend some of
+
+482
+00:10:57,590 --> 00:10:57,600
+much should be willing to bend some of
+ 
+
+483
+00:10:57,600 --> 00:11:01,190
+much should be willing to bend some of
+these rules a little bit uh in favor of
+
+484
+00:11:01,190 --> 00:11:01,200
+these rules a little bit uh in favor of
+ 
+
+485
+00:11:01,200 --> 00:11:02,949
+these rules a little bit uh in favor of
+what you envision would make sense for
+
+486
+00:11:02,949 --> 00:11:02,959
+what you envision would make sense for
+ 
+
+487
+00:11:02,959 --> 00:11:05,750
+what you envision would make sense for
+each of those communities.
+
+488
+00:11:05,750 --> 00:11:05,760
+each of those communities.
+ 
+
+489
+00:11:05,760 --> 00:11:08,389
+each of those communities.
+As far as official guidance that I've
+
+490
+00:11:08,389 --> 00:11:08,399
+As far as official guidance that I've
+ 
+
+491
+00:11:08,399 --> 00:11:09,590
+As far as official guidance that I've
+seen in the book, that pretty much
+
+492
+00:11:09,590 --> 00:11:09,600
+seen in the book, that pretty much
+ 
+
+493
+00:11:09,600 --> 00:11:11,829
+seen in the book, that pretty much
+covers all the official guidance, but
+
+494
+00:11:11,829 --> 00:11:11,839
+covers all the official guidance, but
+ 
+
+495
+00:11:11,839 --> 00:11:15,310
+covers all the official guidance, but
+there's probably a few other linkering
+
+496
+00:11:15,310 --> 00:11:15,320
+there's probably a few other linkering
+ 
+
+497
+00:11:15,320 --> 00:11:18,470
+there's probably a few other linkering
+questions that uh might be worthwhile
+
+498
+00:11:18,470 --> 00:11:18,480
+questions that uh might be worthwhile
+ 
+
+499
+00:11:18,480 --> 00:11:20,949
+questions that uh might be worthwhile
+just taking a look at. Just keep in mind
+
+500
+00:11:20,949 --> 00:11:20,959
+just taking a look at. Just keep in mind
+ 
+
+501
+00:11:20,959 --> 00:11:22,150
+just taking a look at. Just keep in mind
+from here on out, we're not talking
+
+502
+00:11:22,150 --> 00:11:22,160
+from here on out, we're not talking
+ 
+
+503
+00:11:22,160 --> 00:11:24,710
+from here on out, we're not talking
+about official game rules or official
+
+504
+00:11:24,710 --> 00:11:24,720
+about official game rules or official
+ 
+
+505
+00:11:24,720 --> 00:11:27,829
+about official game rules or official
+guidance to the rules. This is mostly uh
+
+506
+00:11:27,829 --> 00:11:27,839
+guidance to the rules. This is mostly uh
+ 
+
+507
+00:11:27,839 --> 00:11:29,590
+guidance to the rules. This is mostly uh
+my opinion, my take, and perhaps some
+
+508
+00:11:29,590 --> 00:11:29,600
+my opinion, my take, and perhaps some
+ 
+
+509
+00:11:29,600 --> 00:11:31,670
+my opinion, my take, and perhaps some
+things I've seen discussed online as
+
+510
+00:11:31,670 --> 00:11:31,680
+things I've seen discussed online as
+ 
+
+511
+00:11:31,680 --> 00:11:33,670
+things I've seen discussed online as
+well that's worked for for other people.
+
+512
+00:11:33,670 --> 00:11:33,680
+well that's worked for for other people.
+ 
+
+513
+00:11:33,680 --> 00:11:35,670
+well that's worked for for other people.
+So, the number one question after
+
+514
+00:11:35,670 --> 00:11:35,680
+So, the number one question after
+ 
+
+515
+00:11:35,680 --> 00:11:38,870
+So, the number one question after
+hearing that you're capped at only two
+
+516
+00:11:38,870 --> 00:11:38,880
+hearing that you're capped at only two
+ 
+
+517
+00:11:38,880 --> 00:11:41,829
+hearing that you're capped at only two
+magic items of the settlement level and
+
+518
+00:11:41,829 --> 00:11:41,839
+magic items of the settlement level and
+ 
+
+519
+00:11:41,839 --> 00:11:44,150
+magic items of the settlement level and
+two magic items of the settlement level
+
+520
+00:11:44,150 --> 00:11:44,160
+two magic items of the settlement level
+ 
+
+521
+00:11:44,160 --> 00:11:48,230
+two magic items of the settlement level
+minus one is how do you determine what
+
+522
+00:11:48,230 --> 00:11:48,240
+minus one is how do you determine what
+ 
+
+523
+00:11:48,240 --> 00:11:50,590
+minus one is how do you determine what
+those items
+
+524
+00:11:50,590 --> 00:11:50,600
+those items
+ 
+
+525
+00:11:50,600 --> 00:11:53,670
+those items
+are? So, uh again, no official guidance
+
+526
+00:11:53,670 --> 00:11:53,680
+are? So, uh again, no official guidance
+ 
+
+527
+00:11:53,680 --> 00:11:57,269
+are? So, uh again, no official guidance
+for this. Uh but could just be the GM
+
+528
+00:11:57,269 --> 00:11:57,279
+for this. Uh but could just be the GM
+ 
+
+529
+00:11:57,279 --> 00:11:58,870
+for this. Uh but could just be the GM
+could, you know, GM could just say, you
+
+530
+00:11:58,870 --> 00:11:58,880
+could, you know, GM could just say, you
+ 
+
+531
+00:11:58,880 --> 00:12:00,790
+could, you know, GM could just say, you
+know what, I think this item and this
+
+532
+00:12:00,790 --> 00:12:00,800
+know what, I think this item and this
+ 
+
+533
+00:12:00,800 --> 00:12:02,389
+know what, I think this item and this
+item makes sense. that's what they're
+
+534
+00:12:02,389 --> 00:12:02,399
+item makes sense. that's what they're
+ 
+
+535
+00:12:02,399 --> 00:12:04,949
+item makes sense. that's what they're
+going to be. It could be items that are
+
+536
+00:12:04,949 --> 00:12:04,959
+going to be. It could be items that are
+ 
+
+537
+00:12:04,959 --> 00:12:07,990
+going to be. It could be items that are
+thematically tied to the settlement. Uh,
+
+538
+00:12:07,990 --> 00:12:08,000
+thematically tied to the settlement. Uh,
+ 
+
+539
+00:12:08,000 --> 00:12:09,910
+thematically tied to the settlement. Uh,
+this is a traditionally dwarven
+
+540
+00:12:09,910 --> 00:12:09,920
+this is a traditionally dwarven
+ 
+
+541
+00:12:09,920 --> 00:12:11,750
+this is a traditionally dwarven
+settlement. So, I'm going to make sure
+
+542
+00:12:11,750 --> 00:12:11,760
+settlement. So, I'm going to make sure
+ 
+
+543
+00:12:11,760 --> 00:12:16,790
+settlement. So, I'm going to make sure
+that uh that the the two settlement
+
+544
+00:12:16,790 --> 00:12:16,800
+that uh that the the two settlement
+ 
+
+545
+00:12:16,800 --> 00:12:20,069
+that uh that the the two settlement
+level equal items are items that have
+
+546
+00:12:20,069 --> 00:12:20,079
+level equal items are items that have
+ 
+
+547
+00:12:20,079 --> 00:12:21,910
+level equal items are items that have
+the dwarven trait cuz they're more
+
+548
+00:12:21,910 --> 00:12:21,920
+the dwarven trait cuz they're more
+ 
+
+549
+00:12:21,920 --> 00:12:24,949
+the dwarven trait cuz they're more
+likely to be there. Uh, you can also
+
+550
+00:12:24,949 --> 00:12:24,959
+likely to be there. Uh, you can also
+ 
+
+551
+00:12:24,959 --> 00:12:28,389
+likely to be there. Uh, you can also
+just, you know, make it easy. Uh, these
+
+552
+00:12:28,389 --> 00:12:28,399
+just, you know, make it easy. Uh, these
+ 
+
+553
+00:12:28,399 --> 00:12:30,949
+just, you know, make it easy. Uh, these
+are often very transactional moments.
+
+554
+00:12:30,949 --> 00:12:30,959
+are often very transactional moments.
+ 
+
+555
+00:12:30,959 --> 00:12:32,069
+are often very transactional moments.
+And like I said, as long as it's not
+
+556
+00:12:32,069 --> 00:12:32,079
+And like I said, as long as it's not
+ 
+
+557
+00:12:32,079 --> 00:12:33,990
+And like I said, as long as it's not
+like a rare item, it probably isn't
+
+558
+00:12:33,990 --> 00:12:34,000
+like a rare item, it probably isn't
+ 
+
+559
+00:12:34,000 --> 00:12:36,069
+like a rare item, it probably isn't
+something that's that's that's really
+
+560
+00:12:36,069 --> 00:12:36,079
+something that's that's that's really
+ 
+
+561
+00:12:36,079 --> 00:12:38,790
+something that's that's that's really
+tightly integrated into the story. This
+
+562
+00:12:38,790 --> 00:12:38,800
+tightly integrated into the story. This
+ 
+
+563
+00:12:38,800 --> 00:12:41,110
+tightly integrated into the story. This
+is is just so so transactional. Just
+
+564
+00:12:41,110 --> 00:12:41,120
+is is just so so transactional. Just
+ 
+
+565
+00:12:41,120 --> 00:12:44,230
+is is just so so transactional. Just
+have the players decide. You It could be
+
+566
+00:12:44,230 --> 00:12:44,240
+have the players decide. You It could be
+ 
+
+567
+00:12:44,240 --> 00:12:46,069
+have the players decide. You It could be
+the first two items that the players ask
+
+568
+00:12:46,069 --> 00:12:46,079
+the first two items that the players ask
+ 
+
+569
+00:12:46,079 --> 00:12:49,350
+the first two items that the players ask
+for, those just happen to be the items.
+
+570
+00:12:49,350 --> 00:12:49,360
+for, those just happen to be the items.
+ 
+
+571
+00:12:49,360 --> 00:12:52,230
+for, those just happen to be the items.
+Or it could be have your players make
+
+572
+00:12:52,230 --> 00:12:52,240
+Or it could be have your players make
+ 
+
+573
+00:12:52,240 --> 00:12:54,389
+Or it could be have your players make
+their wish list. And then when they have
+
+574
+00:12:54,389 --> 00:12:54,399
+their wish list. And then when they have
+ 
+
+575
+00:12:54,399 --> 00:12:55,829
+their wish list. And then when they have
+their wish list, you look at it and you
+
+576
+00:12:55,829 --> 00:12:55,839
+their wish list, you look at it and you
+ 
+
+577
+00:12:55,839 --> 00:12:58,550
+their wish list, you look at it and you
+say, "Okay, you you've selected four
+
+578
+00:12:58,550 --> 00:12:58,560
+say, "Okay, you you've selected four
+ 
+
+579
+00:12:58,560 --> 00:13:00,790
+say, "Okay, you you've selected four
+sixlevel items and this is a sixle
+
+580
+00:13:00,790 --> 00:13:00,800
+sixlevel items and this is a sixle
+ 
+
+581
+00:13:00,800 --> 00:13:02,069
+sixlevel items and this is a sixle
+settlement. They're only going to have
+
+582
+00:13:02,069 --> 00:13:02,079
+settlement. They're only going to have
+ 
+
+583
+00:13:02,079 --> 00:13:03,509
+settlement. They're only going to have
+two of these. Now, which of these two do
+
+584
+00:13:03,509 --> 00:13:03,519
+two of these. Now, which of these two do
+ 
+
+585
+00:13:03,519 --> 00:13:07,509
+two of these. Now, which of these two do
+you want?" Uh, and and put it into their
+
+586
+00:13:07,509 --> 00:13:07,519
+you want?" Uh, and and put it into their
+ 
+
+587
+00:13:07,519 --> 00:13:09,750
+you want?" Uh, and and put it into their
+hands. Now, I agree not entirely
+
+588
+00:13:09,750 --> 00:13:09,760
+hands. Now, I agree not entirely
+ 
+
+589
+00:13:09,760 --> 00:13:12,550
+hands. Now, I agree not entirely
+realistic and may great a little bit on
+
+590
+00:13:12,550 --> 00:13:12,560
+realistic and may great a little bit on
+ 
+
+591
+00:13:12,560 --> 00:13:14,470
+realistic and may great a little bit on
+immersions just to say, "Hey, whatever,
+
+592
+00:13:14,470 --> 00:13:14,480
+immersions just to say, "Hey, whatever,
+ 
+
+593
+00:13:14,480 --> 00:13:15,910
+immersions just to say, "Hey, whatever,
+you know, the two items that you wanted,
+
+594
+00:13:15,910 --> 00:13:15,920
+you know, the two items that you wanted,
+ 
+
+595
+00:13:15,920 --> 00:13:18,230
+you know, the two items that you wanted,
+they happen to be here." But again, I
+
+596
+00:13:18,230 --> 00:13:18,240
+they happen to be here." But again, I
+ 
+
+597
+00:13:18,240 --> 00:13:19,910
+they happen to be here." But again, I
+personally in my games find these
+
+598
+00:13:19,910 --> 00:13:19,920
+personally in my games find these
+ 
+
+599
+00:13:19,920 --> 00:13:21,430
+personally in my games find these
+moments to be very transactional in
+
+600
+00:13:21,430 --> 00:13:21,440
+moments to be very transactional in
+ 
+
+601
+00:13:21,440 --> 00:13:25,350
+moments to be very transactional in
+nature. I think the number one um
+
+602
+00:13:25,350 --> 00:13:25,360
+nature. I think the number one um
+ 
+
+603
+00:13:25,360 --> 00:13:29,430
+nature. I think the number one um
+barrier to to prevent players from, you
+
+604
+00:13:29,430 --> 00:13:29,440
+barrier to to prevent players from, you
+ 
+
+605
+00:13:29,440 --> 00:13:31,269
+barrier to to prevent players from, you
+know, just getting whatever they want
+
+606
+00:13:31,269 --> 00:13:31,279
+know, just getting whatever they want
+ 
+
+607
+00:13:31,279 --> 00:13:32,949
+know, just getting whatever they want
+whenever they want is the cost of the
+
+608
+00:13:32,949 --> 00:13:32,959
+whenever they want is the cost of the
+ 
+
+609
+00:13:32,959 --> 00:13:35,590
+whenever they want is the cost of the
+items. And frankly, a lot of times they
+
+610
+00:13:35,590 --> 00:13:35,600
+items. And frankly, a lot of times they
+ 
+
+611
+00:13:35,600 --> 00:13:38,470
+items. And frankly, a lot of times they
+can't afford whatever would be an equal
+
+612
+00:13:38,470 --> 00:13:38,480
+can't afford whatever would be an equal
+ 
+
+613
+00:13:38,480 --> 00:13:40,790
+can't afford whatever would be an equal
+level of that settlement unless they're
+
+614
+00:13:40,790 --> 00:13:40,800
+level of that settlement unless they're
+ 
+
+615
+00:13:40,800 --> 00:13:42,470
+level of that settlement unless they're
+higher level characters visiting a lower
+
+616
+00:13:42,470 --> 00:13:42,480
+higher level characters visiting a lower
+ 
+
+617
+00:13:42,480 --> 00:13:45,829
+higher level characters visiting a lower
+level settlement. Um, so if it's common
+
+618
+00:13:45,829 --> 00:13:45,839
+level settlement. Um, so if it's common
+ 
+
+619
+00:13:45,839 --> 00:13:47,750
+level settlement. Um, so if it's common
+already, I I'm I'm usually cool with
+
+620
+00:13:47,750 --> 00:13:47,760
+already, I I'm I'm usually cool with
+ 
+
+621
+00:13:47,760 --> 00:13:50,310
+already, I I'm I'm usually cool with
+just letting them buy whatever and not
+
+622
+00:13:50,310 --> 00:13:50,320
+just letting them buy whatever and not
+ 
+
+623
+00:13:50,320 --> 00:13:52,069
+just letting them buy whatever and not
+worry about the caps as long as they got
+
+624
+00:13:52,069 --> 00:13:52,079
+worry about the caps as long as they got
+ 
+
+625
+00:13:52,079 --> 00:13:55,190
+worry about the caps as long as they got
+the money for it. But um, again, those
+
+626
+00:13:55,190 --> 00:13:55,200
+the money for it. But um, again, those
+ 
+
+627
+00:13:55,200 --> 00:13:57,870
+the money for it. But um, again, those
+caps are the official
+
+628
+00:13:57,870 --> 00:13:57,880
+caps are the official
+ 
+
+629
+00:13:57,880 --> 00:13:59,990
+caps are the official
+guidance. Another thing that you could
+
+630
+00:13:59,990 --> 00:14:00,000
+guidance. Another thing that you could
+ 
+
+631
+00:14:00,000 --> 00:14:03,430
+guidance. Another thing that you could
+do to determine what those uh those
+
+632
+00:14:03,430 --> 00:14:03,440
+do to determine what those uh those
+ 
+
+633
+00:14:03,440 --> 00:14:05,430
+do to determine what those uh those
+limited items are in a community is to
+
+634
+00:14:05,430 --> 00:14:05,440
+limited items are in a community is to
+ 
+
+635
+00:14:05,440 --> 00:14:08,069
+limited items are in a community is to
+use some kind of random loot generator.
+
+636
+00:14:08,069 --> 00:14:08,079
+use some kind of random loot generator.
+ 
+
+637
+00:14:08,079 --> 00:14:12,069
+use some kind of random loot generator.
+Uh, there's several online. I I do not
+
+638
+00:14:12,069 --> 00:14:12,079
+Uh, there's several online. I I do not
+ 
+
+639
+00:14:12,079 --> 00:14:14,949
+Uh, there's several online. I I do not
+know them well enough to really endorse
+
+640
+00:14:14,949 --> 00:14:14,959
+know them well enough to really endorse
+ 
+
+641
+00:14:14,959 --> 00:14:16,389
+know them well enough to really endorse
+any of them and say that I use them
+
+642
+00:14:16,389 --> 00:14:16,399
+any of them and say that I use them
+ 
+
+643
+00:14:16,399 --> 00:14:18,790
+any of them and say that I use them
+because I don't know like, you know, how
+
+644
+00:14:18,790 --> 00:14:18,800
+because I don't know like, you know, how
+ 
+
+645
+00:14:18,800 --> 00:14:21,670
+because I don't know like, you know, how
+vast their loot tables are and how they
+
+646
+00:14:21,670 --> 00:14:21,680
+vast their loot tables are and how they
+ 
+
+647
+00:14:21,680 --> 00:14:25,030
+vast their loot tables are and how they
+uh how rarity influences their results
+
+648
+00:14:25,030 --> 00:14:25,040
+uh how rarity influences their results
+ 
+
+649
+00:14:25,040 --> 00:14:26,310
+uh how rarity influences their results
+and so on and so forth. So, I'm not
+
+650
+00:14:26,310 --> 00:14:26,320
+and so on and so forth. So, I'm not
+ 
+
+651
+00:14:26,320 --> 00:14:28,389
+and so on and so forth. So, I'm not
+going to name any, but if you go into
+
+652
+00:14:28,389 --> 00:14:28,399
+going to name any, but if you go into
+ 
+
+653
+00:14:28,399 --> 00:14:29,990
+going to name any, but if you go into
+Google and you just type Pathfinder
+
+654
+00:14:29,990 --> 00:14:30,000
+Google and you just type Pathfinder
+ 
+
+655
+00:14:30,000 --> 00:14:32,629
+Google and you just type Pathfinder
+second edition uh loot tables random
+
+656
+00:14:32,629 --> 00:14:32,639
+second edition uh loot tables random
+ 
+
+657
+00:14:32,639 --> 00:14:33,670
+second edition uh loot tables random
+loot generator, something like that,
+
+658
+00:14:33,670 --> 00:14:33,680
+loot generator, something like that,
+ 
+
+659
+00:14:33,680 --> 00:14:35,389
+loot generator, something like that,
+you'll you'll you'll
+
+660
+00:14:35,389 --> 00:14:35,399
+you'll you'll you'll
+ 
+
+661
+00:14:35,399 --> 00:14:37,590
+you'll you'll you'll
+find. So, another question that might
+
+662
+00:14:37,590 --> 00:14:37,600
+find. So, another question that might
+ 
+
+663
+00:14:37,600 --> 00:14:39,150
+find. So, another question that might
+come up that's not addressing the rules
+
+664
+00:14:39,150 --> 00:14:39,160
+come up that's not addressing the rules
+ 
+
+665
+00:14:39,160 --> 00:14:42,990
+come up that's not addressing the rules
+is when do the the these two limited
+
+666
+00:14:42,990 --> 00:14:43,000
+is when do the the these two limited
+ 
+
+667
+00:14:43,000 --> 00:14:46,470
+is when do the the these two limited
+items per level of the Sodomus level and
+
+668
+00:14:46,470 --> 00:14:46,480
+items per level of the Sodomus level and
+ 
+
+669
+00:14:46,480 --> 00:14:48,269
+items per level of the Sodomus level and
+the level beneath it, when do those get
+
+670
+00:14:48,269 --> 00:14:48,279
+the level beneath it, when do those get
+ 
+
+671
+00:14:48,279 --> 00:14:50,790
+the level beneath it, when do those get
+refreshed? So, my players go in and they
+
+672
+00:14:50,790 --> 00:14:50,800
+refreshed? So, my players go in and they
+ 
+
+673
+00:14:50,800 --> 00:14:52,629
+refreshed? So, my players go in and they
+they they buy all four of those limited
+
+674
+00:14:52,629 --> 00:14:52,639
+they they buy all four of those limited
+ 
+
+675
+00:14:52,639 --> 00:14:55,350
+they they buy all four of those limited
+items in a settlement. When can they
+
+676
+00:14:55,350 --> 00:14:55,360
+items in a settlement. When can they
+ 
+
+677
+00:14:55,360 --> 00:14:57,990
+items in a settlement. When can they
+come back and, you know, have the the
+
+678
+00:14:57,990 --> 00:14:58,000
+come back and, you know, have the the
+ 
+
+679
+00:14:58,000 --> 00:15:01,269
+come back and, you know, have the the
+store shelves refilled, so to speak, and
+
+680
+00:15:01,269 --> 00:15:01,279
+store shelves refilled, so to speak, and
+ 
+
+681
+00:15:01,279 --> 00:15:05,430
+store shelves refilled, so to speak, and
+buy more? Uh, no guidance to that. Uh I
+
+682
+00:15:05,430 --> 00:15:05,440
+buy more? Uh, no guidance to that. Uh I
+ 
+
+683
+00:15:05,440 --> 00:15:08,310
+buy more? Uh, no guidance to that. Uh I
+think uh easy recommendations would be
+
+684
+00:15:08,310 --> 00:15:08,320
+think uh easy recommendations would be
+ 
+
+685
+00:15:08,320 --> 00:15:11,990
+think uh easy recommendations would be
+after a major story milestone, they
+
+686
+00:15:11,990 --> 00:15:12,000
+after a major story milestone, they
+ 
+
+687
+00:15:12,000 --> 00:15:15,189
+after a major story milestone, they
+would have uh more items available for
+
+688
+00:15:15,189 --> 00:15:15,199
+would have uh more items available for
+ 
+
+689
+00:15:15,199 --> 00:15:18,790
+would have uh more items available for
+sale within the settlement uh or after a
+
+690
+00:15:18,790 --> 00:15:18,800
+sale within the settlement uh or after a
+ 
+
+691
+00:15:18,800 --> 00:15:20,550
+sale within the settlement uh or after a
+significant amount of downtime the next
+
+692
+00:15:20,550 --> 00:15:20,560
+significant amount of downtime the next
+ 
+
+693
+00:15:20,560 --> 00:15:21,949
+significant amount of downtime the next
+time the players have a week of
+
+694
+00:15:21,949 --> 00:15:21,959
+time the players have a week of
+ 
+
+695
+00:15:21,959 --> 00:15:24,470
+time the players have a week of
+downtime, then that might be an
+
+696
+00:15:24,470 --> 00:15:24,480
+downtime, then that might be an
+ 
+
+697
+00:15:24,480 --> 00:15:27,430
+downtime, then that might be an
+opportunity to sort of refresh what is
+
+698
+00:15:27,430 --> 00:15:27,440
+opportunity to sort of refresh what is
+ 
+
+699
+00:15:27,440 --> 00:15:29,350
+opportunity to sort of refresh what is
+available and let them do some more some
+
+700
+00:15:29,350 --> 00:15:29,360
+available and let them do some more some
+ 
+
+701
+00:15:29,360 --> 00:15:31,509
+available and let them do some more some
+more higher level shopping in that
+
+702
+00:15:31,509 --> 00:15:31,519
+more higher level shopping in that
+ 
+
+703
+00:15:31,519 --> 00:15:34,069
+more higher level shopping in that
+community. Uh, another question uh that
+
+704
+00:15:34,069 --> 00:15:34,079
+community. Uh, another question uh that
+ 
+
+705
+00:15:34,079 --> 00:15:36,910
+community. Uh, another question uh that
+comes up is like where are these things
+
+706
+00:15:36,910 --> 00:15:36,920
+comes up is like where are these things
+ 
+
+707
+00:15:36,920 --> 00:15:39,750
+comes up is like where are these things
+sold? And like like one of the the
+
+708
+00:15:39,750 --> 00:15:39,760
+sold? And like like one of the the
+ 
+
+709
+00:15:39,760 --> 00:15:42,230
+sold? And like like one of the the
+comments that kind of generated um this
+
+710
+00:15:42,230 --> 00:15:42,240
+comments that kind of generated um this
+ 
+
+711
+00:15:42,240 --> 00:15:44,550
+comments that kind of generated um this
+video was some one of the comments was
+
+712
+00:15:44,550 --> 00:15:44,560
+video was some one of the comments was
+ 
+
+713
+00:15:44,560 --> 00:15:46,310
+video was some one of the comments was
+very tongue and cheek but was like do
+
+714
+00:15:46,310 --> 00:15:46,320
+very tongue and cheek but was like do
+ 
+
+715
+00:15:46,320 --> 00:15:49,350
+very tongue and cheek but was like do
+you just walk into Runes or Us to buy a
+
+716
+00:15:49,350 --> 00:15:49,360
+you just walk into Runes or Us to buy a
+ 
+
+717
+00:15:49,360 --> 00:15:50,949
+you just walk into Runes or Us to buy a
+rune?
+
+718
+00:15:50,949 --> 00:15:50,959
+rune?
+ 
+
+719
+00:15:50,959 --> 00:15:52,829
+rune?
+And the answer to that is
+
+720
+00:15:52,829 --> 00:15:52,839
+And the answer to that is
+ 
+
+721
+00:15:52,839 --> 00:15:55,030
+And the answer to that is
+maybe probably not literally runes
+
+722
+00:15:55,030 --> 00:15:55,040
+maybe probably not literally runes
+ 
+
+723
+00:15:55,040 --> 00:15:58,629
+maybe probably not literally runes
+areas, but um higher level settlements,
+
+724
+00:15:58,629 --> 00:15:58,639
+areas, but um higher level settlements,
+ 
+
+725
+00:15:58,639 --> 00:16:00,629
+areas, but um higher level settlements,
+I mean like Golarian and the Pathfinder
+
+726
+00:16:00,629 --> 00:16:00,639
+I mean like Golarian and the Pathfinder
+ 
+
+727
+00:16:00,639 --> 00:16:03,350
+I mean like Golarian and the Pathfinder
+setting is is a is a high fantasy
+
+728
+00:16:03,350 --> 00:16:03,360
+setting is is a is a high fantasy
+ 
+
+729
+00:16:03,360 --> 00:16:05,189
+setting is is a is a high fantasy
+setting. It's a it's a high magic
+
+730
+00:16:05,189 --> 00:16:05,199
+setting. It's a it's a high magic
+ 
+
+731
+00:16:05,199 --> 00:16:09,189
+setting. It's a it's a high magic
+fantasy setting and uh in higher level
+
+732
+00:16:09,189 --> 00:16:09,199
+fantasy setting and uh in higher level
+ 
+
+733
+00:16:09,199 --> 00:16:10,829
+fantasy setting and uh in higher level
+settlements here larger cities and
+
+734
+00:16:10,829 --> 00:16:10,839
+settlements here larger cities and
+ 
+
+735
+00:16:10,839 --> 00:16:13,829
+settlements here larger cities and
+metropolises there certainly are uh
+
+736
+00:16:13,829 --> 00:16:13,839
+metropolises there certainly are uh
+ 
+
+737
+00:16:13,839 --> 00:16:17,350
+metropolises there certainly are uh
+businesses that deals probably solely in
+
+738
+00:16:17,350 --> 00:16:17,360
+businesses that deals probably solely in
+ 
+
+739
+00:16:17,360 --> 00:16:19,749
+businesses that deals probably solely in
+the purchase and sell and trade of
+
+740
+00:16:19,749 --> 00:16:19,759
+the purchase and sell and trade of
+ 
+
+741
+00:16:19,759 --> 00:16:23,110
+the purchase and sell and trade of
+magical items. Uh now is it is it going
+
+742
+00:16:23,110 --> 00:16:23,120
+magical items. Uh now is it is it going
+ 
+
+743
+00:16:23,120 --> 00:16:25,269
+magical items. Uh now is it is it going
+to have literally runes or us? Probably
+
+744
+00:16:25,269 --> 00:16:25,279
+to have literally runes or us? Probably
+ 
+
+745
+00:16:25,279 --> 00:16:29,030
+to have literally runes or us? Probably
+not, but it could be uh melik runes and
+
+746
+00:16:29,030 --> 00:16:29,040
+not, but it could be uh melik runes and
+ 
+
+747
+00:16:29,040 --> 00:16:32,629
+not, but it could be uh melik runes and
+magical curiosities something like that.
+
+748
+00:16:32,629 --> 00:16:32,639
+magical curiosities something like that.
+ 
+
+749
+00:16:32,639 --> 00:16:34,150
+magical curiosities something like that.
+uh where you would go in and you would
+
+750
+00:16:34,150 --> 00:16:34,160
+uh where you would go in and you would
+ 
+
+751
+00:16:34,160 --> 00:16:37,670
+uh where you would go in and you would
+purchase your magic runes. Uh smaller
+
+752
+00:16:37,670 --> 00:16:37,680
+purchase your magic runes. Uh smaller
+ 
+
+753
+00:16:37,680 --> 00:16:40,230
+purchase your magic runes. Uh smaller
+settlements probably don't have enough
+
+754
+00:16:40,230 --> 00:16:40,240
+settlements probably don't have enough
+ 
+
+755
+00:16:40,240 --> 00:16:44,150
+settlements probably don't have enough
+magic trade business to to necessitate
+
+756
+00:16:44,150 --> 00:16:44,160
+magic trade business to to necessitate
+ 
+
+757
+00:16:44,160 --> 00:16:47,110
+magic trade business to to necessitate
+an entire, you know, magic shop, but
+
+758
+00:16:47,110 --> 00:16:47,120
+an entire, you know, magic shop, but
+ 
+
+759
+00:16:47,120 --> 00:16:49,829
+an entire, you know, magic shop, but
+there's other ways to source magic items
+
+760
+00:16:49,829 --> 00:16:49,839
+there's other ways to source magic items
+ 
+
+761
+00:16:49,839 --> 00:16:52,310
+there's other ways to source magic items
+in even the smaller villages and so
+
+762
+00:16:52,310 --> 00:16:52,320
+in even the smaller villages and so
+ 
+
+763
+00:16:52,320 --> 00:16:55,110
+in even the smaller villages and so
+forth. Uh you know, you you might have
+
+764
+00:16:55,110 --> 00:16:55,120
+forth. Uh you know, you you might have
+ 
+
+765
+00:16:55,120 --> 00:16:57,590
+forth. Uh you know, you you might have
+to talk to the local wizard and see what
+
+766
+00:16:57,590 --> 00:16:57,600
+to talk to the local wizard and see what
+ 
+
+767
+00:16:57,600 --> 00:17:00,389
+to talk to the local wizard and see what
+what uh they've got in their possession.
+
+768
+00:17:00,389 --> 00:17:00,399
+what uh they've got in their possession.
+ 
+
+769
+00:17:00,399 --> 00:17:03,189
+what uh they've got in their possession.
+could find again uh former adventurers
+
+770
+00:17:03,189 --> 00:17:03,199
+could find again uh former adventurers
+ 
+
+771
+00:17:03,199 --> 00:17:05,350
+could find again uh former adventurers
+who have retired to the community and
+
+772
+00:17:05,350 --> 00:17:05,360
+who have retired to the community and
+ 
+
+773
+00:17:05,360 --> 00:17:07,110
+who have retired to the community and
+have you know pieces of gear that
+
+774
+00:17:07,110 --> 00:17:07,120
+have you know pieces of gear that
+ 
+
+775
+00:17:07,120 --> 00:17:09,429
+have you know pieces of gear that
+they're willing to part with. It could
+
+776
+00:17:09,429 --> 00:17:09,439
+they're willing to part with. It could
+ 
+
+777
+00:17:09,439 --> 00:17:12,630
+they're willing to part with. It could
+be you know blacksmiths, armormiths, you
+
+778
+00:17:12,630 --> 00:17:12,640
+be you know blacksmiths, armormiths, you
+ 
+
+779
+00:17:12,640 --> 00:17:15,990
+be you know blacksmiths, armormiths, you
+know any kind of trades person or guild
+
+780
+00:17:15,990 --> 00:17:16,000
+know any kind of trades person or guild
+ 
+
+781
+00:17:16,000 --> 00:17:19,549
+know any kind of trades person or guild
+would uh be a good place to go to uh
+
+782
+00:17:19,549 --> 00:17:19,559
+would uh be a good place to go to uh
+ 
+
+783
+00:17:19,559 --> 00:17:21,990
+would uh be a good place to go to uh
+source anything that they would be able
+
+784
+00:17:21,990 --> 00:17:22,000
+source anything that they would be able
+ 
+
+785
+00:17:22,000 --> 00:17:23,829
+source anything that they would be able
+to craft.
+
+786
+00:17:23,829 --> 00:17:23,839
+to craft.
+ 
+
+787
+00:17:23,839 --> 00:17:26,110
+to craft.
+And
+
+788
+00:17:26,110 --> 00:17:26,120
+And
+ 
+
+789
+00:17:26,120 --> 00:17:29,750
+And
+so there there certainly is an an area
+
+790
+00:17:29,750 --> 00:17:29,760
+so there there certainly is an an area
+ 
+
+791
+00:17:29,760 --> 00:17:31,350
+so there there certainly is an an area
+within the narrative where you would go
+
+792
+00:17:31,350 --> 00:17:31,360
+within the narrative where you would go
+ 
+
+793
+00:17:31,360 --> 00:17:33,590
+within the narrative where you would go
+to so-called magic shops. And there's
+
+794
+00:17:33,590 --> 00:17:33,600
+to so-called magic shops. And there's
+ 
+
+795
+00:17:33,600 --> 00:17:35,750
+to so-called magic shops. And there's
+other settings where either because of
+
+796
+00:17:35,750 --> 00:17:35,760
+other settings where either because of
+ 
+
+797
+00:17:35,760 --> 00:17:37,590
+other settings where either because of
+the size of the settlement or because of
+
+798
+00:17:37,590 --> 00:17:37,600
+the size of the settlement or because of
+ 
+
+799
+00:17:37,600 --> 00:17:39,750
+the size of the settlement or because of
+the culture or nationality wouldn't do
+
+800
+00:17:39,750 --> 00:17:39,760
+the culture or nationality wouldn't do
+ 
+
+801
+00:17:39,760 --> 00:17:40,830
+the culture or nationality wouldn't do
+that.
+
+802
+00:17:40,830 --> 00:17:40,840
+that.
+ 
+
+803
+00:17:40,840 --> 00:17:44,310
+that.
+Um, it's also worth to keep in mind that
+
+804
+00:17:44,310 --> 00:17:44,320
+Um, it's also worth to keep in mind that
+ 
+
+805
+00:17:44,320 --> 00:17:46,230
+Um, it's also worth to keep in mind that
+when they talk about what's available,
+
+806
+00:17:46,230 --> 00:17:46,240
+when they talk about what's available,
+ 
+
+807
+00:17:46,240 --> 00:17:47,669
+when they talk about what's available,
+they're talking about what's available
+
+808
+00:17:47,669 --> 00:17:47,679
+they're talking about what's available
+ 
+
+809
+00:17:47,679 --> 00:17:51,190
+they're talking about what's available
+across the entire settlement, not what's
+
+810
+00:17:51,190 --> 00:17:51,200
+across the entire settlement, not what's
+ 
+
+811
+00:17:51,200 --> 00:17:54,710
+across the entire settlement, not what's
+available at any one given store. So,
+
+812
+00:17:54,710 --> 00:17:54,720
+available at any one given store. So,
+ 
+
+813
+00:17:54,720 --> 00:17:57,029
+available at any one given store. So,
+it's not like you walk into one store
+
+814
+00:17:57,029 --> 00:17:57,039
+it's not like you walk into one store
+ 
+
+815
+00:17:57,039 --> 00:18:00,230
+it's not like you walk into one store
+and they've got every common rarity
+
+816
+00:18:00,230 --> 00:18:00,240
+and they've got every common rarity
+ 
+
+817
+00:18:00,240 --> 00:18:02,070
+and they've got every common rarity
+magic item of level one to level four
+
+818
+00:18:02,070 --> 00:18:02,080
+magic item of level one to level four
+ 
+
+819
+00:18:02,080 --> 00:18:03,750
+magic item of level one to level four
+and then two level fives and two level
+
+820
+00:18:03,750 --> 00:18:03,760
+and then two level fives and two level
+ 
+
+821
+00:18:03,760 --> 00:18:07,510
+and then two level fives and two level
+sixes. It's in that entire city. those
+
+822
+00:18:07,510 --> 00:18:07,520
+sixes. It's in that entire city. those
+ 
+
+823
+00:18:07,520 --> 00:18:10,470
+sixes. It's in that entire city. those
+items can be found spread out wherever
+
+824
+00:18:10,470 --> 00:18:10,480
+items can be found spread out wherever
+ 
+
+825
+00:18:10,480 --> 00:18:12,110
+items can be found spread out wherever
+makes the most logical
+
+826
+00:18:12,110 --> 00:18:12,120
+makes the most logical
+ 
+
+827
+00:18:12,120 --> 00:18:14,390
+makes the most logical
+sense. Now, for me, in my games, for
+
+828
+00:18:14,390 --> 00:18:14,400
+sense. Now, for me, in my games, for
+ 
+
+829
+00:18:14,400 --> 00:18:18,270
+sense. Now, for me, in my games, for
+whatever it's worth, I tend to use
+
+830
+00:18:18,270 --> 00:18:18,280
+whatever it's worth, I tend to use
+ 
+
+831
+00:18:18,280 --> 00:18:22,110
+whatever it's worth, I tend to use
+churches as um as a
+
+832
+00:18:22,110 --> 00:18:22,120
+churches as um as a
+ 
+
+833
+00:18:22,120 --> 00:18:25,029
+churches as um as a
+major a major resource for the the
+
+834
+00:18:25,029 --> 00:18:25,039
+major a major resource for the the
+ 
+
+835
+00:18:25,039 --> 00:18:27,310
+major a major resource for the the
+buying and selling and trade of magic
+
+836
+00:18:27,310 --> 00:18:27,320
+buying and selling and trade of magic
+ 
+
+837
+00:18:27,320 --> 00:18:29,909
+buying and selling and trade of magic
+items, especially the churches of Abidor
+
+838
+00:18:29,909 --> 00:18:29,919
+items, especially the churches of Abidor
+ 
+
+839
+00:18:29,919 --> 00:18:34,789
+items, especially the churches of Abidor
+and Nephis. Uh these are places that are
+
+840
+00:18:34,789 --> 00:18:34,799
+and Nephis. Uh these are places that are
+ 
+
+841
+00:18:34,799 --> 00:18:37,830
+and Nephis. Uh these are places that are
+going to have you know an interest in in
+
+842
+00:18:37,830 --> 00:18:37,840
+going to have you know an interest in in
+ 
+
+843
+00:18:37,840 --> 00:18:40,150
+going to have you know an interest in in
+buying magic items which in general you
+
+844
+00:18:40,150 --> 00:18:40,160
+buying magic items which in general you
+ 
+
+845
+00:18:40,160 --> 00:18:43,669
+buying magic items which in general you
+you sell player sell at 50%. Um and
+
+846
+00:18:43,669 --> 00:18:43,679
+you sell player sell at 50%. Um and
+ 
+
+847
+00:18:43,679 --> 00:18:45,510
+you sell player sell at 50%. Um and
+there's also a general cap that you
+
+848
+00:18:45,510 --> 00:18:45,520
+there's also a general cap that you
+ 
+
+849
+00:18:45,520 --> 00:18:47,350
+there's also a general cap that you
+shouldn't be selling items of a higher
+
+850
+00:18:47,350 --> 00:18:47,360
+shouldn't be selling items of a higher
+ 
+
+851
+00:18:47,360 --> 00:18:48,870
+shouldn't be selling items of a higher
+settlement level than the settlements
+
+852
+00:18:48,870 --> 00:18:48,880
+settlement level than the settlements
+ 
+
+853
+00:18:48,880 --> 00:18:50,710
+settlement level than the settlements
+level because there's not people in that
+
+854
+00:18:50,710 --> 00:18:50,720
+level because there's not people in that
+ 
+
+855
+00:18:50,720 --> 00:18:52,950
+level because there's not people in that
+settlement who you know a seventh level
+
+856
+00:18:52,950 --> 00:18:52,960
+settlement who you know a seventh level
+ 
+
+857
+00:18:52,960 --> 00:18:55,669
+settlement who you know a seventh level
+settlement doesn't have the funds to buy
+
+858
+00:18:55,669 --> 00:18:55,679
+settlement doesn't have the funds to buy
+ 
+
+859
+00:18:55,679 --> 00:18:57,750
+settlement doesn't have the funds to buy
+15th level magical items from players.
+
+860
+00:18:57,750 --> 00:18:57,760
+15th level magical items from players.
+ 
+
+861
+00:18:57,760 --> 00:18:59,669
+15th level magical items from players.
+But anyway,
+
+862
+00:18:59,669 --> 00:18:59,679
+But anyway,
+ 
+
+863
+00:18:59,679 --> 00:19:03,510
+But anyway,
+um I use churches. Uh I I think Abbidar
+
+864
+00:19:03,510 --> 00:19:03,520
+um I use churches. Uh I I think Abbidar
+ 
+
+865
+00:19:03,520 --> 00:19:05,830
+um I use churches. Uh I I think Abbidar
+is always interested in trade and making
+
+866
+00:19:05,830 --> 00:19:05,840
+is always interested in trade and making
+ 
+
+867
+00:19:05,840 --> 00:19:07,430
+is always interested in trade and making
+money and also they've got, you know,
+
+868
+00:19:07,430 --> 00:19:07,440
+money and also they've got, you know,
+ 
+
+869
+00:19:07,440 --> 00:19:08,830
+money and also they've got, you know,
+especially in their cities, they got
+
+870
+00:19:08,830 --> 00:19:08,840
+especially in their cities, they got
+ 
+
+871
+00:19:08,840 --> 00:19:11,190
+especially in their cities, they got
+vaults. So you would think things that
+
+872
+00:19:11,190 --> 00:19:11,200
+vaults. So you would think things that
+ 
+
+873
+00:19:11,200 --> 00:19:13,029
+vaults. So you would think things that
+are as valuable as magical items aren't
+
+874
+00:19:13,029 --> 00:19:13,039
+are as valuable as magical items aren't
+ 
+
+875
+00:19:13,039 --> 00:19:15,270
+are as valuable as magical items aren't
+just sitting on store shelves anyway.
+
+876
+00:19:15,270 --> 00:19:15,280
+just sitting on store shelves anyway.
+ 
+
+877
+00:19:15,280 --> 00:19:18,150
+just sitting on store shelves anyway.
+They're in a vault somewhere. And Nethos
+
+878
+00:19:18,150 --> 00:19:18,160
+They're in a vault somewhere. And Nethos
+ 
+
+879
+00:19:18,160 --> 00:19:22,150
+They're in a vault somewhere. And Nethos
+has an interest in magic. Um, so I use
+
+880
+00:19:22,150 --> 00:19:22,160
+has an interest in magic. Um, so I use
+ 
+
+881
+00:19:22,160 --> 00:19:27,110
+has an interest in magic. Um, so I use
+churches often to to manage the uh the
+
+882
+00:19:27,110 --> 00:19:27,120
+churches often to to manage the uh the
+ 
+
+883
+00:19:27,120 --> 00:19:29,029
+churches often to to manage the uh the
+buying and selling a trade of magical
+
+884
+00:19:29,029 --> 00:19:29,039
+buying and selling a trade of magical
+ 
+
+885
+00:19:29,039 --> 00:19:31,990
+buying and selling a trade of magical
+items. Again, that's just me what I do
+
+886
+00:19:31,990 --> 00:19:32,000
+items. Again, that's just me what I do
+ 
+
+887
+00:19:32,000 --> 00:19:33,510
+items. Again, that's just me what I do
+with my games. There's nothing official
+
+888
+00:19:33,510 --> 00:19:33,520
+with my games. There's nothing official
+ 
+
+889
+00:19:33,520 --> 00:19:37,190
+with my games. There's nothing official
+in the um in the rules about that. Um,
+
+890
+00:19:37,190 --> 00:19:37,200
+in the um in the rules about that. Um,
+ 
+
+891
+00:19:37,200 --> 00:19:38,710
+in the um in the rules about that. Um,
+another question, I guess I kind of
+
+892
+00:19:38,710 --> 00:19:38,720
+another question, I guess I kind of
+ 
+
+893
+00:19:38,720 --> 00:19:40,150
+another question, I guess I kind of
+touched on this a little bit already,
+
+894
+00:19:40,150 --> 00:19:40,160
+touched on this a little bit already,
+ 
+
+895
+00:19:40,160 --> 00:19:41,590
+touched on this a little bit already,
+which was, are there any mechanics
+
+896
+00:19:41,590 --> 00:19:41,600
+which was, are there any mechanics
+ 
+
+897
+00:19:41,600 --> 00:19:44,310
+which was, are there any mechanics
+involved in in finding a seller? So, if
+
+898
+00:19:44,310 --> 00:19:44,320
+involved in in finding a seller? So, if
+ 
+
+899
+00:19:44,320 --> 00:19:47,830
+involved in in finding a seller? So, if
+you want to purchase that uncommon
+
+900
+00:19:47,830 --> 00:19:47,840
+you want to purchase that uncommon
+ 
+
+901
+00:19:47,840 --> 00:19:50,870
+you want to purchase that uncommon
+rarity item or you want to try to source
+
+902
+00:19:50,870 --> 00:19:50,880
+rarity item or you want to try to source
+ 
+
+903
+00:19:50,880 --> 00:19:53,510
+rarity item or you want to try to source
+something that is one level higher than
+
+904
+00:19:53,510 --> 00:19:53,520
+something that is one level higher than
+ 
+
+905
+00:19:53,520 --> 00:19:55,430
+something that is one level higher than
+the settlements level and you're a
+
+906
+00:19:55,430 --> 00:19:55,440
+the settlements level and you're a
+ 
+
+907
+00:19:55,440 --> 00:19:58,150
+the settlements level and you're a
+higher level character, um, what are the
+
+908
+00:19:58,150 --> 00:19:58,160
+higher level character, um, what are the
+ 
+
+909
+00:19:58,160 --> 00:20:00,870
+higher level character, um, what are the
+rules to do that? There's really not a
+
+910
+00:20:00,870 --> 00:20:00,880
+rules to do that? There's really not a
+ 
+
+911
+00:20:00,880 --> 00:20:04,710
+rules to do that? There's really not a
+lot of hard rules to do this. Um, it's
+
+912
+00:20:04,710 --> 00:20:04,720
+lot of hard rules to do this. Um, it's
+ 
+
+913
+00:20:04,720 --> 00:20:06,549
+lot of hard rules to do this. Um, it's
+going to be up to the GM to decide, you
+
+914
+00:20:06,549 --> 00:20:06,559
+going to be up to the GM to decide, you
+ 
+
+915
+00:20:06,559 --> 00:20:07,909
+going to be up to the GM to decide, you
+know, how crunchy and how mechanical
+
+916
+00:20:07,909 --> 00:20:07,919
+know, how crunchy and how mechanical
+ 
+
+917
+00:20:07,919 --> 00:20:11,029
+know, how crunchy and how mechanical
+they want to get. Uh, gather
+
+918
+00:20:11,029 --> 00:20:11,039
+they want to get. Uh, gather
+ 
+
+919
+00:20:11,039 --> 00:20:13,350
+they want to get. Uh, gather
+information. Skill checks could be used.
+
+920
+00:20:13,350 --> 00:20:13,360
+information. Skill checks could be used.
+ 
+
+921
+00:20:13,360 --> 00:20:15,270
+information. Skill checks could be used.
+lower skill checks could be used, modify
+
+922
+00:20:15,270 --> 00:20:15,280
+lower skill checks could be used, modify
+ 
+
+923
+00:20:15,280 --> 00:20:16,909
+lower skill checks could be used, modify
+those according to
+
+924
+00:20:16,909 --> 00:20:16,919
+those according to
+ 
+
+925
+00:20:16,919 --> 00:20:19,669
+those according to
+rarity. But if you do that, I would
+
+926
+00:20:19,669 --> 00:20:19,679
+rarity. But if you do that, I would
+ 
+
+927
+00:20:19,679 --> 00:20:22,789
+rarity. But if you do that, I would
+advise that you you as the GM need to
+
+928
+00:20:22,789 --> 00:20:22,799
+advise that you you as the GM need to
+ 
+
+929
+00:20:22,799 --> 00:20:25,270
+advise that you you as the GM need to
+decide, is this something that actually
+
+930
+00:20:25,270 --> 00:20:25,280
+decide, is this something that actually
+ 
+
+931
+00:20:25,280 --> 00:20:28,789
+decide, is this something that actually
+exists in this settlement? And if they
+
+932
+00:20:28,789 --> 00:20:28,799
+exists in this settlement? And if they
+ 
+
+933
+00:20:28,799 --> 00:20:30,950
+exists in this settlement? And if they
+pass the skill checks, then they're able
+
+934
+00:20:30,950 --> 00:20:30,960
+pass the skill checks, then they're able
+ 
+
+935
+00:20:30,960 --> 00:20:32,950
+pass the skill checks, then they're able
+to track down the person who has that
+
+936
+00:20:32,950 --> 00:20:32,960
+to track down the person who has that
+ 
+
+937
+00:20:32,960 --> 00:20:37,909
+to track down the person who has that
+item. um and not turn this into if you
+
+938
+00:20:37,909 --> 00:20:37,919
+item. um and not turn this into if you
+ 
+
+939
+00:20:37,919 --> 00:20:39,470
+item. um and not turn this into if you
+pass the skill
+
+940
+00:20:39,470 --> 00:20:39,480
+pass the skill
+ 
+
+941
+00:20:39,480 --> 00:20:42,630
+pass the skill
+check, that item magically is going to
+
+942
+00:20:42,630 --> 00:20:42,640
+check, that item magically is going to
+ 
+
+943
+00:20:42,640 --> 00:20:44,950
+check, that item magically is going to
+be available for sale in the community.
+
+944
+00:20:44,950 --> 00:20:44,960
+be available for sale in the community.
+ 
+
+945
+00:20:44,960 --> 00:20:46,789
+be available for sale in the community.
+Uh I know it can be a downer to pass a
+
+946
+00:20:46,789 --> 00:20:46,799
+Uh I know it can be a downer to pass a
+ 
+
+947
+00:20:46,799 --> 00:20:48,470
+Uh I know it can be a downer to pass a
+skill check and then say despite your
+
+948
+00:20:48,470 --> 00:20:48,480
+skill check and then say despite your
+ 
+
+949
+00:20:48,480 --> 00:20:50,390
+skill check and then say despite your
+best efforts, you're not able to source
+
+950
+00:20:50,390 --> 00:20:50,400
+best efforts, you're not able to source
+ 
+
+951
+00:20:50,400 --> 00:20:52,710
+best efforts, you're not able to source
+that here. Uh but you don't want to get
+
+952
+00:20:52,710 --> 00:20:52,720
+that here. Uh but you don't want to get
+ 
+
+953
+00:20:52,720 --> 00:20:55,669
+that here. Uh but you don't want to get
+into a situation where a player that has
+
+954
+00:20:55,669 --> 00:20:55,679
+into a situation where a player that has
+ 
+
+955
+00:20:55,679 --> 00:20:57,669
+into a situation where a player that has
+really high skill bonus and or really
+
+956
+00:20:57,669 --> 00:20:57,679
+really high skill bonus and or really
+ 
+
+957
+00:20:57,679 --> 00:20:59,990
+really high skill bonus and or really
+good luck with the dice is able to
+
+958
+00:20:59,990 --> 00:21:00,000
+good luck with the dice is able to
+ 
+
+959
+00:21:00,000 --> 00:21:01,909
+good luck with the dice is able to
+source just like anything. I would view
+
+960
+00:21:01,909 --> 00:21:01,919
+source just like anything. I would view
+ 
+
+961
+00:21:01,919 --> 00:21:04,470
+source just like anything. I would view
+this like a perception check. you roll
+
+962
+00:21:04,470 --> 00:21:04,480
+this like a perception check. you roll
+ 
+
+963
+00:21:04,480 --> 00:21:06,950
+this like a perception check. you roll
+really high on a perception check and if
+
+964
+00:21:06,950 --> 00:21:06,960
+really high on a perception check and if
+ 
+
+965
+00:21:06,960 --> 00:21:09,029
+really high on a perception check and if
+there's some and if there's a goblin
+
+966
+00:21:09,029 --> 00:21:09,039
+there's some and if there's a goblin
+ 
+
+967
+00:21:09,039 --> 00:21:11,990
+there's some and if there's a goblin
+hiding in the corner, you spot them. But
+
+968
+00:21:11,990 --> 00:21:12,000
+hiding in the corner, you spot them. But
+ 
+
+969
+00:21:12,000 --> 00:21:13,669
+hiding in the corner, you spot them. But
+if there's not a goblin hiding in the
+
+970
+00:21:13,669 --> 00:21:13,679
+if there's not a goblin hiding in the
+ 
+
+971
+00:21:13,679 --> 00:21:15,270
+if there's not a goblin hiding in the
+corner, it doesn't matter how high you
+
+972
+00:21:15,270 --> 00:21:15,280
+corner, it doesn't matter how high you
+ 
+
+973
+00:21:15,280 --> 00:21:17,029
+corner, it doesn't matter how high you
+roll on a perception check, you don't
+
+974
+00:21:17,029 --> 00:21:17,039
+roll on a perception check, you don't
+ 
+
+975
+00:21:17,039 --> 00:21:19,430
+roll on a perception check, you don't
+see anything there, right? Same thing
+
+976
+00:21:19,430 --> 00:21:19,440
+see anything there, right? Same thing
+ 
+
+977
+00:21:19,440 --> 00:21:23,029
+see anything there, right? Same thing
+with using gather information and lord
+
+978
+00:21:23,029 --> 00:21:23,039
+with using gather information and lord
+ 
+
+979
+00:21:23,039 --> 00:21:26,149
+with using gather information and lord
+checks to track down and source. Decide,
+
+980
+00:21:26,149 --> 00:21:26,159
+checks to track down and source. Decide,
+ 
+
+981
+00:21:26,159 --> 00:21:27,669
+checks to track down and source. Decide,
+does this actually exist in the
+
+982
+00:21:27,669 --> 00:21:27,679
+does this actually exist in the
+ 
+
+983
+00:21:27,679 --> 00:21:29,909
+does this actually exist in the
+community? And if so, use those skills
+
+984
+00:21:29,909 --> 00:21:29,919
+community? And if so, use those skills
+ 
+
+985
+00:21:29,919 --> 00:21:33,430
+community? And if so, use those skills
+to perceive it, to find it, uh, and not
+
+986
+00:21:33,430 --> 00:21:33,440
+to perceive it, to find it, uh, and not
+ 
+
+987
+00:21:33,440 --> 00:21:37,350
+to perceive it, to find it, uh, and not
+to determine whether or not a a rare
+
+988
+00:21:37,350 --> 00:21:37,360
+to determine whether or not a a rare
+ 
+
+989
+00:21:37,360 --> 00:21:41,029
+to determine whether or not a a rare
+magical item is is available. So, that
+
+990
+00:21:41,029 --> 00:21:41,039
+magical item is is available. So, that
+ 
+
+991
+00:21:41,039 --> 00:21:43,430
+magical item is is available. So, that
+covers all of the basic general
+
+992
+00:21:43,430 --> 00:21:43,440
+covers all of the basic general
+ 
+
+993
+00:21:43,440 --> 00:21:46,149
+covers all of the basic general
+information with regards to uh,
+
+994
+00:21:46,149 --> 00:21:46,159
+information with regards to uh,
+ 
+
+995
+00:21:46,159 --> 00:21:47,909
+information with regards to uh,
+purchasing magical items in a
+
+996
+00:21:47,909 --> 00:21:47,919
+purchasing magical items in a
+ 
+
+997
+00:21:47,919 --> 00:21:50,789
+purchasing magical items in a
+settlement. To to sum up, use rarity,
+
+998
+00:21:50,789 --> 00:21:50,799
+settlement. To to sum up, use rarity,
+ 
+
+999
+00:21:50,799 --> 00:21:52,390
+settlement. To to sum up, use rarity,
+use settlement level, compare to the
+
+1000
+00:21:52,390 --> 00:21:52,400
+use settlement level, compare to the
+ 
+
+1001
+00:21:52,400 --> 00:21:53,830
+use settlement level, compare to the
+item level. with the item level is
+
+1002
+00:21:53,830 --> 00:21:53,840
+item level. with the item level is
+ 
+
+1003
+00:21:53,840 --> 00:21:56,470
+item level. with the item level is
+common rarity and of a level equal to or
+
+1004
+00:21:56,470 --> 00:21:56,480
+common rarity and of a level equal to or
+ 
+
+1005
+00:21:56,480 --> 00:21:57,750
+common rarity and of a level equal to or
+lower than the settlement, there's a
+
+1006
+00:21:57,750 --> 00:21:57,760
+lower than the settlement, there's a
+ 
+
+1007
+00:21:57,760 --> 00:22:00,070
+lower than the settlement, there's a
+good chance it's going to be there. And
+
+1008
+00:22:00,070 --> 00:22:00,080
+good chance it's going to be there. And
+ 
+
+1009
+00:22:00,080 --> 00:22:03,590
+good chance it's going to be there. And
+the book advises placing a cap on two
+
+1010
+00:22:03,590 --> 00:22:03,600
+the book advises placing a cap on two
+ 
+
+1011
+00:22:03,600 --> 00:22:04,950
+the book advises placing a cap on two
+permanent magical items of the
+
+1012
+00:22:04,950 --> 00:22:04,960
+permanent magical items of the
+ 
+
+1013
+00:22:04,960 --> 00:22:07,510
+permanent magical items of the
+settlements level and two magical items
+
+1014
+00:22:07,510 --> 00:22:07,520
+settlements level and two magical items
+ 
+
+1015
+00:22:07,520 --> 00:22:09,590
+settlements level and two magical items
+that is one level beneath the
+
+1016
+00:22:09,590 --> 00:22:09,600
+that is one level beneath the
+ 
+
+1017
+00:22:09,600 --> 00:22:12,950
+that is one level beneath the
+settlements level. Uh, and then uncommon
+
+1018
+00:22:12,950 --> 00:22:12,960
+settlements level. Uh, and then uncommon
+ 
+
+1019
+00:22:12,960 --> 00:22:15,510
+settlements level. Uh, and then uncommon
+items could be available if you have
+
+1020
+00:22:15,510 --> 00:22:15,520
+items could be available if you have
+ 
+
+1021
+00:22:15,520 --> 00:22:18,149
+items could be available if you have
+access to them by meeting some other
+
+1022
+00:22:18,149 --> 00:22:18,159
+access to them by meeting some other
+ 
+
+1023
+00:22:18,159 --> 00:22:20,390
+access to them by meeting some other
+requirement or if the GM wishes. and
+
+1024
+00:22:20,390 --> 00:22:20,400
+requirement or if the GM wishes. and
+ 
+
+1025
+00:22:20,400 --> 00:22:22,230
+requirement or if the GM wishes. and
+rare magical items, you really want to
+
+1026
+00:22:22,230 --> 00:22:22,240
+rare magical items, you really want to
+ 
+
+1027
+00:22:22,240 --> 00:22:25,909
+rare magical items, you really want to
+have a a narrative significance. So, tie
+
+1028
+00:22:25,909 --> 00:22:25,919
+have a a narrative significance. So, tie
+ 
+
+1029
+00:22:25,919 --> 00:22:28,390
+have a a narrative significance. So, tie
+those into the story, assign a quest to
+
+1030
+00:22:28,390 --> 00:22:28,400
+those into the story, assign a quest to
+ 
+
+1031
+00:22:28,400 --> 00:22:31,350
+those into the story, assign a quest to
+find them, something of that sort. If
+
+1032
+00:22:31,350 --> 00:22:31,360
+find them, something of that sort. If
+ 
+
+1033
+00:22:31,360 --> 00:22:33,029
+find them, something of that sort. If
+you have any questions about the
+
+1034
+00:22:33,029 --> 00:22:33,039
+you have any questions about the
+ 
+
+1035
+00:22:33,039 --> 00:22:34,549
+you have any questions about the
+purchasing of magical items in
+
+1036
+00:22:34,549 --> 00:22:34,559
+purchasing of magical items in
+ 
+
+1037
+00:22:34,559 --> 00:22:37,029
+purchasing of magical items in
+Pathfinder second edition, or if you
+
+1038
+00:22:37,029 --> 00:22:37,039
+Pathfinder second edition, or if you
+ 
+
+1039
+00:22:37,039 --> 00:22:39,909
+Pathfinder second edition, or if you
+have uh any insight on any rules that I
+
+1040
+00:22:39,909 --> 00:22:39,919
+have uh any insight on any rules that I
+ 
+
+1041
+00:22:39,919 --> 00:22:42,070
+have uh any insight on any rules that I
+may have missed, please leave those in
+
+1042
+00:22:42,070 --> 00:22:42,080
+may have missed, please leave those in
+ 
+
+1043
+00:22:42,080 --> 00:22:44,470
+may have missed, please leave those in
+the comments below. And as always, I
+
+1044
+00:22:44,470 --> 00:22:44,480
+the comments below. And as always, I
+ 
+
+1045
+00:22:44,480 --> 00:22:45,669
+the comments below. And as always, I
+want to take a moment to say thank you
+
+1046
+00:22:45,669 --> 00:22:45,679
+want to take a moment to say thank you
+ 
+
+1047
+00:22:45,679 --> 00:22:47,510
+want to take a moment to say thank you
+to everybody out there who supports me.
+
+1048
+00:22:47,510 --> 00:22:47,520
+to everybody out there who supports me.
+ 
+
+1049
+00:22:47,520 --> 00:22:49,270
+to everybody out there who supports me.
+Whether that be by clicking the like
+
+1050
+00:22:49,270 --> 00:22:49,280
+Whether that be by clicking the like
+ 
+
+1051
+00:22:49,280 --> 00:22:51,029
+Whether that be by clicking the like
+button, subscribing to the channel,
+
+1052
+00:22:51,029 --> 00:22:51,039
+button, subscribing to the channel,
+ 
+
+1053
+00:22:51,039 --> 00:22:52,549
+button, subscribing to the channel,
+subscribing to the Patreon, buying a
+
+1054
+00:22:52,549 --> 00:22:52,559
+subscribing to the Patreon, buying a
+ 
+
+1055
+00:22:52,559 --> 00:22:53,750
+subscribing to the Patreon, buying a
+super thanks. I really appreciate
+
+1056
+00:22:53,750 --> 00:22:53,760
+super thanks. I really appreciate
+ 
+
+1057
+00:22:53,760 --> 00:22:55,669
+super thanks. I really appreciate
+everything you folks do to support me.
+
+1058
+00:22:55,669 --> 00:22:55,679
+everything you folks do to support me.
+ 
+
+1059
+00:22:55,679 --> 00:22:57,270
+everything you folks do to support me.
+With that, thanks for watching. Take
+
+1060
+00:22:57,270 --> 00:22:57,280
+With that, thanks for watching. Take
+ 
+
+1061
+00:22:57,280 --> 00:23:02,130
+With that, thanks for watching. Take
+care and happy gaming.
+
+1062
+00:23:02,130 --> 00:23:02,140
+
+ 
+
+1063
+00:23:02,140 --> 00:23:24,880
+
+[Music]
+

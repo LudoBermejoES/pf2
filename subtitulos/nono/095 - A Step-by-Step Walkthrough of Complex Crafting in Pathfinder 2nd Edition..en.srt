@@ -1,0 +1,1935 @@
+1
+00:00:03,980 --> 00:00:06,530
+
+hey everyone in today's video I'm going
+
+2
+00:00:06,530 --> 00:00:06,540
+hey everyone in today's video I'm going
+ 
+
+3
+00:00:06,540 --> 00:00:08,450
+hey everyone in today's video I'm going
+to walk you through crafting a magic
+
+4
+00:00:08,450 --> 00:00:08,460
+to walk you through crafting a magic
+ 
+
+5
+00:00:08,460 --> 00:00:11,209
+to walk you through crafting a magic
+item using the new complex crafting
+
+6
+00:00:11,209 --> 00:00:11,219
+item using the new complex crafting
+ 
+
+7
+00:00:11,219 --> 00:00:13,789
+item using the new complex crafting
+rules from top to bottom if you haven't
+
+8
+00:00:13,789 --> 00:00:13,799
+rules from top to bottom if you haven't
+ 
+
+9
+00:00:13,799 --> 00:00:16,430
+rules from top to bottom if you haven't
+already done so make sure you've watched
+
+10
+00:00:16,430 --> 00:00:16,440
+already done so make sure you've watched
+ 
+
+11
+00:00:16,440 --> 00:00:19,310
+already done so make sure you've watched
+my crafting part 1 video as well as my
+
+12
+00:00:19,310 --> 00:00:19,320
+my crafting part 1 video as well as my
+ 
+
+13
+00:00:19,320 --> 00:00:22,070
+my crafting part 1 video as well as my
+video on complex crafting as they
+
+14
+00:00:22,070 --> 00:00:22,080
+video on complex crafting as they
+ 
+
+15
+00:00:22,080 --> 00:00:23,570
+video on complex crafting as they
+explain the rules that I will be
+
+16
+00:00:23,570 --> 00:00:23,580
+explain the rules that I will be
+ 
+
+17
+00:00:23,580 --> 00:00:25,490
+explain the rules that I will be
+illustrating here links to those videos
+
+18
+00:00:25,490 --> 00:00:25,500
+illustrating here links to those videos
+ 
+
+19
+00:00:25,500 --> 00:00:28,790
+illustrating here links to those videos
+are provided in the description
+
+20
+00:00:28,790 --> 00:00:28,800
+are provided in the description
+ 
+
+21
+00:00:28,800 --> 00:00:31,370
+are provided in the description
+Bruno the dwarf is seventh level and
+
+22
+00:00:31,370 --> 00:00:31,380
+Bruno the dwarf is seventh level and
+ 
+
+23
+00:00:31,380 --> 00:00:33,290
+Bruno the dwarf is seventh level and
+discovered the formula for a spell guard
+
+24
+00:00:33,290 --> 00:00:33,300
+discovered the formula for a spell guard
+ 
+
+25
+00:00:33,300 --> 00:00:36,110
+discovered the formula for a spell guard
+Shield while adventuring once her party
+
+26
+00:00:36,110 --> 00:00:36,120
+Shield while adventuring once her party
+ 
+
+27
+00:00:36,120 --> 00:00:38,930
+Shield while adventuring once her party
+returns to Town the GM gives them two
+
+28
+00:00:38,930 --> 00:00:38,940
+returns to Town the GM gives them two
+ 
+
+29
+00:00:38,940 --> 00:00:41,330
+returns to Town the GM gives them two
+weeks of downtime which she decides to
+
+30
+00:00:41,330 --> 00:00:41,340
+weeks of downtime which she decides to
+ 
+
+31
+00:00:41,340 --> 00:00:44,209
+weeks of downtime which she decides to
+spend forging the spell guard Shield the
+
+32
+00:00:44,209 --> 00:00:44,219
+spend forging the spell guard Shield the
+ 
+
+33
+00:00:44,219 --> 00:00:46,610
+spend forging the spell guard Shield the
+complex crafting system is a four-step
+
+34
+00:00:46,610 --> 00:00:46,620
+complex crafting system is a four-step
+ 
+
+35
+00:00:46,620 --> 00:00:49,549
+complex crafting system is a four-step
+process step one you must meet all
+
+36
+00:00:49,549 --> 00:00:49,559
+process step one you must meet all
+ 
+
+37
+00:00:49,559 --> 00:00:52,430
+process step one you must meet all
+requirements step two you set up the
+
+38
+00:00:52,430 --> 00:00:52,440
+requirements step two you set up the
+ 
+
+39
+00:00:52,440 --> 00:00:55,610
+requirements step two you set up the
+project step 3 roll a crafting skill
+
+40
+00:00:55,610 --> 00:00:55,620
+project step 3 roll a crafting skill
+ 
+
+41
+00:00:55,620 --> 00:00:58,790
+project step 3 roll a crafting skill
+check in Step 4 finish the project by
+
+42
+00:00:58,790 --> 00:00:58,800
+check in Step 4 finish the project by
+ 
+
+43
+00:00:58,800 --> 00:01:01,430
+check in Step 4 finish the project by
+either paying off the remaining value or
+
+44
+00:01:01,430 --> 00:01:01,440
+either paying off the remaining value or
+ 
+
+45
+00:01:01,440 --> 00:01:03,410
+either paying off the remaining value or
+spending additional days of downtime
+
+46
+00:01:03,410 --> 00:01:03,420
+spending additional days of downtime
+ 
+
+47
+00:01:03,420 --> 00:01:05,690
+spending additional days of downtime
+working on it so let's walk through this
+
+48
+00:01:05,690 --> 00:01:05,700
+working on it so let's walk through this
+ 
+
+49
+00:01:05,700 --> 00:01:09,050
+working on it so let's walk through this
+step by step in Step 1 Bruno must meet
+
+50
+00:01:09,050 --> 00:01:09,060
+step by step in Step 1 Bruno must meet
+ 
+
+51
+00:01:09,060 --> 00:01:12,170
+step by step in Step 1 Bruno must meet
+all six requirements to craft the item
+
+52
+00:01:12,170 --> 00:01:12,180
+all six requirements to craft the item
+ 
+
+53
+00:01:12,180 --> 00:01:14,690
+all six requirements to craft the item
+the first requirement is that the item's
+
+54
+00:01:14,690 --> 00:01:14,700
+the first requirement is that the item's
+ 
+
+55
+00:01:14,700 --> 00:01:16,370
+the first requirement is that the item's
+level may not be higher than the
+
+56
+00:01:16,370 --> 00:01:16,380
+level may not be higher than the
+ 
+
+57
+00:01:16,380 --> 00:01:18,410
+level may not be higher than the
+character's level the spell guard Shield
+
+58
+00:01:18,410 --> 00:01:18,420
+character's level the spell guard Shield
+ 
+
+59
+00:01:18,420 --> 00:01:21,050
+character's level the spell guard Shield
+is a sixth level item and Bruno is a
+
+60
+00:01:21,050 --> 00:01:21,060
+is a sixth level item and Bruno is a
+ 
+
+61
+00:01:21,060 --> 00:01:23,210
+is a sixth level item and Bruno is a
+seventh level character so we're good
+
+62
+00:01:23,210 --> 00:01:23,220
+seventh level character so we're good
+ 
+
+63
+00:01:23,220 --> 00:01:25,910
+seventh level character so we're good
+here the second requirement is the
+
+64
+00:01:25,910 --> 00:01:25,920
+here the second requirement is the
+ 
+
+65
+00:01:25,920 --> 00:01:28,070
+here the second requirement is the
+crafter must have the required crafting
+
+66
+00:01:28,070 --> 00:01:28,080
+crafter must have the required crafting
+ 
+
+67
+00:01:28,080 --> 00:01:31,310
+crafter must have the required crafting
+proficiency rank as a sixth level item
+
+68
+00:01:31,310 --> 00:01:31,320
+proficiency rank as a sixth level item
+ 
+
+69
+00:01:31,320 --> 00:01:33,710
+proficiency rank as a sixth level item
+crafting a spell guard Shield requires
+
+70
+00:01:33,710 --> 00:01:33,720
+crafting a spell guard Shield requires
+ 
+
+71
+00:01:33,720 --> 00:01:36,770
+crafting a spell guard Shield requires
+trained proficiency Runa has Master
+
+72
+00:01:36,770 --> 00:01:36,780
+trained proficiency Runa has Master
+ 
+
+73
+00:01:36,780 --> 00:01:39,530
+trained proficiency Runa has Master
+crafting proficiency so she easily meets
+
+74
+00:01:39,530 --> 00:01:39,540
+crafting proficiency so she easily meets
+ 
+
+75
+00:01:39,540 --> 00:01:41,030
+crafting proficiency so she easily meets
+this requirement
+
+76
+00:01:41,030 --> 00:01:41,040
+this requirement
+ 
+
+77
+00:01:41,040 --> 00:01:43,730
+this requirement
+the third requirement is as a magical
+
+78
+00:01:43,730 --> 00:01:43,740
+the third requirement is as a magical
+ 
+
+79
+00:01:43,740 --> 00:01:46,249
+the third requirement is as a magical
+item a character must have the magical
+
+80
+00:01:46,249 --> 00:01:46,259
+item a character must have the magical
+ 
+
+81
+00:01:46,259 --> 00:01:48,350
+item a character must have the magical
+crafting feat to craft a spell guard
+
+82
+00:01:48,350 --> 00:01:48,360
+crafting feat to craft a spell guard
+ 
+
+83
+00:01:48,360 --> 00:01:51,830
+crafting feat to craft a spell guard
+shield and Bruno does have this feat the
+
+84
+00:01:51,830 --> 00:01:51,840
+shield and Bruno does have this feat the
+ 
+
+85
+00:01:51,840 --> 00:01:54,109
+shield and Bruno does have this feat the
+fourth requirement is you must have the
+
+86
+00:01:54,109 --> 00:01:54,119
+fourth requirement is you must have the
+ 
+
+87
+00:01:54,119 --> 00:01:56,749
+fourth requirement is you must have the
+proper tools for the job Runa is well
+
+88
+00:01:56,749 --> 00:01:56,759
+proper tools for the job Runa is well
+ 
+
+89
+00:01:56,759 --> 00:01:59,149
+proper tools for the job Runa is well
+regarded in this community and the local
+
+90
+00:01:59,149 --> 00:01:59,159
+regarded in this community and the local
+ 
+
+91
+00:01:59,159 --> 00:02:01,429
+regarded in this community and the local
+blacksmith is allowing her to use their
+
+92
+00:02:01,429 --> 00:02:01,439
+blacksmith is allowing her to use their
+ 
+
+93
+00:02:01,439 --> 00:02:02,569
+blacksmith is allowing her to use their
+workshop
+
+94
+00:02:02,569 --> 00:02:02,579
+workshop
+ 
+
+95
+00:02:02,579 --> 00:02:05,209
+workshop
+the fifth requirement is you need to
+
+96
+00:02:05,209 --> 00:02:05,219
+the fifth requirement is you need to
+ 
+
+97
+00:02:05,219 --> 00:02:07,310
+the fifth requirement is you need to
+have the items formula and Bruno
+
+98
+00:02:07,310 --> 00:02:07,320
+have the items formula and Bruno
+ 
+
+99
+00:02:07,320 --> 00:02:09,469
+have the items formula and Bruno
+discovered this formula as part of her
+
+100
+00:02:09,469 --> 00:02:09,479
+discovered this formula as part of her
+ 
+
+101
+00:02:09,479 --> 00:02:12,290
+discovered this formula as part of her
+last adventurous treasure and the sixth
+
+102
+00:02:12,290 --> 00:02:12,300
+last adventurous treasure and the sixth
+ 
+
+103
+00:02:12,300 --> 00:02:14,210
+last adventurous treasure and the sixth
+requirement is you must provide fifty
+
+104
+00:02:14,210 --> 00:02:14,220
+requirement is you must provide fifty
+ 
+
+105
+00:02:14,220 --> 00:02:17,030
+requirement is you must provide fifty
+percent of the item's value in materials
+
+106
+00:02:17,030 --> 00:02:17,040
+percent of the item's value in materials
+ 
+
+107
+00:02:17,040 --> 00:02:19,850
+percent of the item's value in materials
+spell guard Shield has a price of 250
+
+108
+00:02:19,850 --> 00:02:19,860
+spell guard Shield has a price of 250
+ 
+
+109
+00:02:19,860 --> 00:02:23,390
+spell guard Shield has a price of 250
+gold pieces so Bruno must provide 125
+
+110
+00:02:23,390 --> 00:02:23,400
+gold pieces so Bruno must provide 125
+ 
+
+111
+00:02:23,400 --> 00:02:26,270
+gold pieces so Bruno must provide 125
+gold worth of raw materials there are no
+
+112
+00:02:26,270 --> 00:02:26,280
+gold worth of raw materials there are no
+ 
+
+113
+00:02:26,280 --> 00:02:28,190
+gold worth of raw materials there are no
+special material requirements here so
+
+114
+00:02:28,190 --> 00:02:28,200
+special material requirements here so
+ 
+
+115
+00:02:28,200 --> 00:02:31,130
+special material requirements here so
+Bruno's GM allows her to Simply pay 125
+
+116
+00:02:31,130 --> 00:02:31,140
+Bruno's GM allows her to Simply pay 125
+ 
+
+117
+00:02:31,140 --> 00:02:35,809
+Bruno's GM allows her to Simply pay 125
+gold and she meets this requirement too
+
+118
+00:02:35,809 --> 00:02:35,819
+
+ 
+
+119
+00:02:35,819 --> 00:02:38,690
+
+with all requirements met we can move to
+
+120
+00:02:38,690 --> 00:02:38,700
+with all requirements met we can move to
+ 
+
+121
+00:02:38,700 --> 00:02:41,930
+with all requirements met we can move to
+step two set up the project Bruno is
+
+122
+00:02:41,930 --> 00:02:41,940
+step two set up the project Bruno is
+ 
+
+123
+00:02:41,940 --> 00:02:44,030
+step two set up the project Bruno is
+seventh level and the shield she wishes
+
+124
+00:02:44,030 --> 00:02:44,040
+seventh level and the shield she wishes
+ 
+
+125
+00:02:44,040 --> 00:02:46,729
+seventh level and the shield she wishes
+to craft is sixth level per table five
+
+126
+00:02:46,729 --> 00:02:46,739
+to craft is sixth level per table five
+ 
+
+127
+00:02:46,739 --> 00:02:49,490
+to craft is sixth level per table five
+one in the Treasure Vault crafting a
+
+128
+00:02:49,490 --> 00:02:49,500
+one in the Treasure Vault crafting a
+ 
+
+129
+00:02:49,500 --> 00:02:51,650
+one in the Treasure Vault crafting a
+permanent item that is one level lower
+
+130
+00:02:51,650 --> 00:02:51,660
+permanent item that is one level lower
+ 
+
+131
+00:02:51,660 --> 00:02:54,650
+permanent item that is one level lower
+than you calls for five days of setup
+
+132
+00:02:54,650 --> 00:02:54,660
+than you calls for five days of setup
+ 
+
+133
+00:02:54,660 --> 00:02:56,869
+than you calls for five days of setup
+she's only expecting to have two weeks
+
+134
+00:02:56,869 --> 00:02:56,879
+she's only expecting to have two weeks
+ 
+
+135
+00:02:56,879 --> 00:02:59,030
+she's only expecting to have two weeks
+to complete the project so Bruno decides
+
+136
+00:02:59,030 --> 00:02:59,040
+to complete the project so Bruno decides
+ 
+
+137
+00:02:59,040 --> 00:03:01,130
+to complete the project so Bruno decides
+to rush the setup and save a little bit
+
+138
+00:03:01,130 --> 00:03:01,140
+to rush the setup and save a little bit
+ 
+
+139
+00:03:01,140 --> 00:03:02,030
+to rush the setup and save a little bit
+of time
+
+140
+00:03:02,030 --> 00:03:02,040
+of time
+ 
+
+141
+00:03:02,040 --> 00:03:04,790
+of time
+since she has mastered proficiency she
+
+142
+00:03:04,790 --> 00:03:04,800
+since she has mastered proficiency she
+ 
+
+143
+00:03:04,800 --> 00:03:07,009
+since she has mastered proficiency she
+can reduce the setup Time by up to two
+
+144
+00:03:07,009 --> 00:03:07,019
+can reduce the setup Time by up to two
+ 
+
+145
+00:03:07,019 --> 00:03:10,070
+can reduce the setup Time by up to two
+days but doing so would increase the DC
+
+146
+00:03:10,070 --> 00:03:10,080
+days but doing so would increase the DC
+ 
+
+147
+00:03:10,080 --> 00:03:12,890
+days but doing so would increase the DC
+of the check by 10. she decides to only
+
+148
+00:03:12,890 --> 00:03:12,900
+of the check by 10. she decides to only
+ 
+
+149
+00:03:12,900 --> 00:03:16,070
+of the check by 10. she decides to only
+Rush by one day which reduces the setup
+
+150
+00:03:16,070 --> 00:03:16,080
+Rush by one day which reduces the setup
+ 
+
+151
+00:03:16,080 --> 00:03:18,890
+Rush by one day which reduces the setup
+time to four days but with an increase
+
+152
+00:03:18,890 --> 00:03:18,900
+time to four days but with an increase
+ 
+
+153
+00:03:18,900 --> 00:03:20,990
+time to four days but with an increase
+to the DC of the chick that she must
+
+154
+00:03:20,990 --> 00:03:21,000
+to the DC of the chick that she must
+ 
+
+155
+00:03:21,000 --> 00:03:24,410
+to the DC of the chick that she must
+pass in step three by five
+
+156
+00:03:24,410 --> 00:03:24,420
+pass in step three by five
+ 
+
+157
+00:03:24,420 --> 00:03:27,290
+pass in step three by five
+after these four days pass Bruno moves
+
+158
+00:03:27,290 --> 00:03:27,300
+after these four days pass Bruno moves
+ 
+
+159
+00:03:27,300 --> 00:03:29,390
+after these four days pass Bruno moves
+into step three and must roll her
+
+160
+00:03:29,390 --> 00:03:29,400
+into step three and must roll her
+ 
+
+161
+00:03:29,400 --> 00:03:31,790
+into step three and must roll her
+crafting skill check to set the DC for
+
+162
+00:03:31,790 --> 00:03:31,800
+crafting skill check to set the DC for
+ 
+
+163
+00:03:31,800 --> 00:03:35,089
+crafting skill check to set the DC for
+the check the GM first uses table 10-5
+
+164
+00:03:35,089 --> 00:03:35,099
+the check the GM first uses table 10-5
+ 
+
+165
+00:03:35,099 --> 00:03:37,070
+the check the GM first uses table 10-5
+from the core rulebook
+
+166
+00:03:37,070 --> 00:03:37,080
+from the core rulebook
+ 
+
+167
+00:03:37,080 --> 00:03:40,610
+from the core rulebook
+Milgard Shields are sixth level items so
+
+168
+00:03:40,610 --> 00:03:40,620
+Milgard Shields are sixth level items so
+ 
+
+169
+00:03:40,620 --> 00:03:44,449
+Milgard Shields are sixth level items so
+per table ten five this is a dc22 skill
+
+170
+00:03:44,449 --> 00:03:44,459
+per table ten five this is a dc22 skill
+ 
+
+171
+00:03:44,459 --> 00:03:45,289
+per table ten five this is a dc22 skill
+check
+
+172
+00:03:45,289 --> 00:03:45,299
+check
+ 
+
+173
+00:03:45,299 --> 00:03:48,289
+check
+next the GM would modify this DC by
+
+174
+00:03:48,289 --> 00:03:48,299
+next the GM would modify this DC by
+ 
+
+175
+00:03:48,299 --> 00:03:51,110
+next the GM would modify this DC by
+Rarity but since spellguard Shields are
+
+176
+00:03:51,110 --> 00:03:51,120
+Rarity but since spellguard Shields are
+ 
+
+177
+00:03:51,120 --> 00:03:53,990
+Rarity but since spellguard Shields are
+common Rarity this DC is not modified
+
+178
+00:03:53,990 --> 00:03:54,000
+common Rarity this DC is not modified
+ 
+
+179
+00:03:54,000 --> 00:03:56,509
+common Rarity this DC is not modified
+further due to Rarity but for the sake
+
+180
+00:03:56,509 --> 00:03:56,519
+further due to Rarity but for the sake
+ 
+
+181
+00:03:56,519 --> 00:03:58,550
+further due to Rarity but for the sake
+of illustration if the shield was
+
+182
+00:03:58,550 --> 00:03:58,560
+of illustration if the shield was
+ 
+
+183
+00:03:58,560 --> 00:04:00,830
+of illustration if the shield was
+uncommon Rarity the DC would be
+
+184
+00:04:00,830 --> 00:04:00,840
+uncommon Rarity the DC would be
+ 
+
+185
+00:04:00,840 --> 00:04:03,589
+uncommon Rarity the DC would be
+increased by two and if it was rare the
+
+186
+00:04:03,589 --> 00:04:03,599
+increased by two and if it was rare the
+ 
+
+187
+00:04:03,599 --> 00:04:06,110
+increased by two and if it was rare the
+DC would be increased by five
+
+188
+00:04:06,110 --> 00:04:06,120
+DC would be increased by five
+ 
+
+189
+00:04:06,120 --> 00:04:08,390
+DC would be increased by five
+last we add the penalty for rushing the
+
+190
+00:04:08,390 --> 00:04:08,400
+last we add the penalty for rushing the
+ 
+
+191
+00:04:08,400 --> 00:04:11,270
+last we add the penalty for rushing the
+setup which brings the final DC for this
+
+192
+00:04:11,270 --> 00:04:11,280
+setup which brings the final DC for this
+ 
+
+193
+00:04:11,280 --> 00:04:13,490
+setup which brings the final DC for this
+check to 27.
+
+194
+00:04:13,490 --> 00:04:13,500
+check to 27.
+ 
+
+195
+00:04:13,500 --> 00:04:16,250
+check to 27.
+Bruno has a crafting skill bonus of plus
+
+196
+00:04:16,250 --> 00:04:16,260
+Bruno has a crafting skill bonus of plus
+ 
+
+197
+00:04:16,260 --> 00:04:19,849
+Bruno has a crafting skill bonus of plus
+16 so she has a 50 50 chance of passing
+
+198
+00:04:19,849 --> 00:04:19,859
+16 so she has a 50 50 chance of passing
+ 
+
+199
+00:04:19,859 --> 00:04:22,670
+16 so she has a 50 50 chance of passing
+this chick all she needs is an 11 or
+
+200
+00:04:22,670 --> 00:04:22,680
+this chick all she needs is an 11 or
+ 
+
+201
+00:04:22,680 --> 00:04:25,370
+this chick all she needs is an 11 or
+higher on the die so we'll say she rolls
+
+202
+00:04:25,370 --> 00:04:25,380
+higher on the die so we'll say she rolls
+ 
+
+203
+00:04:25,380 --> 00:04:28,310
+higher on the die so we'll say she rolls
+a 13 for a total of 29 which is a
+
+204
+00:04:28,310 --> 00:04:28,320
+a 13 for a total of 29 which is a
+ 
+
+205
+00:04:28,320 --> 00:04:31,430
+a 13 for a total of 29 which is a
+success if she had failed the check she
+
+206
+00:04:31,430 --> 00:04:31,440
+success if she had failed the check she
+ 
+
+207
+00:04:31,440 --> 00:04:32,810
+success if she had failed the check she
+would have to start the process over
+
+208
+00:04:32,810 --> 00:04:32,820
+would have to start the process over
+ 
+
+209
+00:04:32,820 --> 00:04:35,390
+would have to start the process over
+again and if she had critically failed
+
+210
+00:04:35,390 --> 00:04:35,400
+again and if she had critically failed
+ 
+
+211
+00:04:35,400 --> 00:04:37,610
+again and if she had critically failed
+she would have to start over and would
+
+212
+00:04:37,610 --> 00:04:37,620
+she would have to start over and would
+ 
+
+213
+00:04:37,620 --> 00:04:42,170
+she would have to start over and would
+also have ruined 10 of her materials
+
+214
+00:04:42,170 --> 00:04:42,180
+also have ruined 10 of her materials
+ 
+
+215
+00:04:42,180 --> 00:04:44,510
+also have ruined 10 of her materials
+with this successful skill check we move
+
+216
+00:04:44,510 --> 00:04:44,520
+with this successful skill check we move
+ 
+
+217
+00:04:44,520 --> 00:04:47,990
+with this successful skill check we move
+into step 4 finishing the project spell
+
+218
+00:04:47,990 --> 00:04:48,000
+into step 4 finishing the project spell
+ 
+
+219
+00:04:48,000 --> 00:04:51,050
+into step 4 finishing the project spell
+guard Shields have a listed price of 250
+
+220
+00:04:51,050 --> 00:04:51,060
+guard Shields have a listed price of 250
+ 
+
+221
+00:04:51,060 --> 00:04:54,230
+guard Shields have a listed price of 250
+gold and Bruno has already provided half
+
+222
+00:04:54,230 --> 00:04:54,240
+gold and Bruno has already provided half
+ 
+
+223
+00:04:54,240 --> 00:04:56,390
+gold and Bruno has already provided half
+of that in materials which leaves a
+
+224
+00:04:56,390 --> 00:04:56,400
+of that in materials which leaves a
+ 
+
+225
+00:04:56,400 --> 00:04:59,749
+of that in materials which leaves a
+remaining balance of 125 GP
+
+226
+00:04:59,749 --> 00:04:59,759
+remaining balance of 125 GP
+ 
+
+227
+00:04:59,759 --> 00:05:03,170
+remaining balance of 125 GP
+per the income earned table as a seventh
+
+228
+00:05:03,170 --> 00:05:03,180
+per the income earned table as a seventh
+ 
+
+229
+00:05:03,180 --> 00:05:05,090
+per the income earned table as a seventh
+level character with Master Proficiency
+
+230
+00:05:05,090 --> 00:05:05,100
+level character with Master Proficiency
+ 
+
+231
+00:05:05,100 --> 00:05:07,790
+level character with Master Proficiency
+in crafting each additional day of work
+
+232
+00:05:07,790 --> 00:05:07,800
+in crafting each additional day of work
+ 
+
+233
+00:05:07,800 --> 00:05:10,790
+in crafting each additional day of work
+will lower this remaining balance by two
+
+234
+00:05:10,790 --> 00:05:10,800
+will lower this remaining balance by two
+ 
+
+235
+00:05:10,800 --> 00:05:13,490
+will lower this remaining balance by two
+and a half gold which is about 50 days
+
+236
+00:05:13,490 --> 00:05:13,500
+and a half gold which is about 50 days
+ 
+
+237
+00:05:13,500 --> 00:05:14,749
+and a half gold which is about 50 days
+of work
+
+238
+00:05:14,749 --> 00:05:14,759
+of work
+ 
+
+239
+00:05:14,759 --> 00:05:16,790
+of work
+if she decides to rush the finishing
+
+240
+00:05:16,790 --> 00:05:16,800
+if she decides to rush the finishing
+ 
+
+241
+00:05:16,800 --> 00:05:19,310
+if she decides to rush the finishing
+process each day of work will be worth a
+
+242
+00:05:19,310 --> 00:05:19,320
+process each day of work will be worth a
+ 
+
+243
+00:05:19,320 --> 00:05:21,469
+process each day of work will be worth a
+double and reduce the remaining balance
+
+244
+00:05:21,469 --> 00:05:21,479
+double and reduce the remaining balance
+ 
+
+245
+00:05:21,479 --> 00:05:24,710
+double and reduce the remaining balance
+by 5 gold which means it'll only take 25
+
+246
+00:05:24,710 --> 00:05:24,720
+by 5 gold which means it'll only take 25
+ 
+
+247
+00:05:24,720 --> 00:05:27,290
+by 5 gold which means it'll only take 25
+days instead of 50 days to complete the
+
+248
+00:05:27,290 --> 00:05:27,300
+days instead of 50 days to complete the
+ 
+
+249
+00:05:27,300 --> 00:05:28,310
+days instead of 50 days to complete the
+project
+
+250
+00:05:28,310 --> 00:05:28,320
+project
+ 
+
+251
+00:05:28,320 --> 00:05:31,010
+project
+the GM said that she has two weeks of
+
+252
+00:05:31,010 --> 00:05:31,020
+the GM said that she has two weeks of
+ 
+
+253
+00:05:31,020 --> 00:05:33,590
+the GM said that she has two weeks of
+downtime and she's already spent four on
+
+254
+00:05:33,590 --> 00:05:33,600
+downtime and she's already spent four on
+ 
+
+255
+00:05:33,600 --> 00:05:35,990
+downtime and she's already spent four on
+the setup so Bruno decides to rush and
+
+256
+00:05:35,990 --> 00:05:36,000
+the setup so Bruno decides to rush and
+ 
+
+257
+00:05:36,000 --> 00:05:38,390
+the setup so Bruno decides to rush and
+get as much out of her remaining 10 days
+
+258
+00:05:38,390 --> 00:05:38,400
+get as much out of her remaining 10 days
+ 
+
+259
+00:05:38,400 --> 00:05:40,370
+get as much out of her remaining 10 days
+of downtime as possible
+
+260
+00:05:40,370 --> 00:05:40,380
+of downtime as possible
+ 
+
+261
+00:05:40,380 --> 00:05:43,189
+of downtime as possible
+at the end of these 10 days she has
+
+262
+00:05:43,189 --> 00:05:43,199
+at the end of these 10 days she has
+ 
+
+263
+00:05:43,199 --> 00:05:45,529
+at the end of these 10 days she has
+reduced the Project's budget by 50 gold
+
+264
+00:05:45,529 --> 00:05:45,539
+reduced the Project's budget by 50 gold
+ 
+
+265
+00:05:45,539 --> 00:05:48,590
+reduced the Project's budget by 50 gold
+leaving a remaining balance of 75 gold
+
+266
+00:05:48,590 --> 00:05:48,600
+leaving a remaining balance of 75 gold
+ 
+
+267
+00:05:48,600 --> 00:05:49,550
+leaving a remaining balance of 75 gold
+pieces
+
+268
+00:05:49,550 --> 00:05:49,560
+pieces
+ 
+
+269
+00:05:49,560 --> 00:05:52,550
+pieces
+since time has run out Bruno decides to
+
+270
+00:05:52,550 --> 00:05:52,560
+since time has run out Bruno decides to
+ 
+
+271
+00:05:52,560 --> 00:05:54,710
+since time has run out Bruno decides to
+pay the remaining 75 to complete the
+
+272
+00:05:54,710 --> 00:05:54,720
+pay the remaining 75 to complete the
+ 
+
+273
+00:05:54,720 --> 00:05:57,350
+pay the remaining 75 to complete the
+project within the narrative she and her
+
+274
+00:05:57,350 --> 00:05:57,360
+project within the narrative she and her
+ 
+
+275
+00:05:57,360 --> 00:05:59,629
+project within the narrative she and her
+GM decide that the extra money was spent
+
+276
+00:05:59,629 --> 00:05:59,639
+GM decide that the extra money was spent
+ 
+
+277
+00:05:59,639 --> 00:06:02,090
+GM decide that the extra money was spent
+on a couple assistants as well as a
+
+278
+00:06:02,090 --> 00:06:02,100
+on a couple assistants as well as a
+ 
+
+279
+00:06:02,100 --> 00:06:03,529
+on a couple assistants as well as a
+local wizard who helped with the
+
+280
+00:06:03,529 --> 00:06:03,539
+local wizard who helped with the
+ 
+
+281
+00:06:03,539 --> 00:06:05,210
+local wizard who helped with the
+necessary enchantments to craft the
+
+282
+00:06:05,210 --> 00:06:05,220
+necessary enchantments to craft the
+ 
+
+283
+00:06:05,220 --> 00:06:06,590
+necessary enchantments to craft the
+Magic Shield
+
+284
+00:06:06,590 --> 00:06:06,600
+Magic Shield
+ 
+
+285
+00:06:06,600 --> 00:06:08,450
+Magic Shield
+and now there's only one thing left to
+
+286
+00:06:08,450 --> 00:06:08,460
+and now there's only one thing left to
+ 
+
+287
+00:06:08,460 --> 00:06:10,670
+and now there's only one thing left to
+do since Bruno decided to rush the
+
+288
+00:06:10,670 --> 00:06:10,680
+do since Bruno decided to rush the
+ 
+
+289
+00:06:10,680 --> 00:06:13,129
+do since Bruno decided to rush the
+finishing of the project she must roll a
+
+290
+00:06:13,129 --> 00:06:13,139
+finishing of the project she must roll a
+ 
+
+291
+00:06:13,139 --> 00:06:15,350
+finishing of the project she must roll a
+flat check to see if the shield has any
+
+292
+00:06:15,350 --> 00:06:15,360
+flat check to see if the shield has any
+ 
+
+293
+00:06:15,360 --> 00:06:19,370
+flat check to see if the shield has any
+defects the DC for this check is 10 plus
+
+294
+00:06:19,370 --> 00:06:19,380
+defects the DC for this check is 10 plus
+ 
+
+295
+00:06:19,380 --> 00:06:22,309
+defects the DC for this check is 10 plus
+the items level minus Bruno's crafting
+
+296
+00:06:22,309 --> 00:06:22,319
+the items level minus Bruno's crafting
+ 
+
+297
+00:06:22,319 --> 00:06:25,070
+the items level minus Bruno's crafting
+proficiency bonus as a seventh level
+
+298
+00:06:25,070 --> 00:06:25,080
+proficiency bonus as a seventh level
+ 
+
+299
+00:06:25,080 --> 00:06:26,870
+proficiency bonus as a seventh level
+character with Master proficiency and
+
+300
+00:06:26,870 --> 00:06:26,880
+character with Master proficiency and
+ 
+
+301
+00:06:26,880 --> 00:06:30,050
+character with Master proficiency and
+crafting that proficiency bonus is 13.
+
+302
+00:06:30,050 --> 00:06:30,060
+crafting that proficiency bonus is 13.
+ 
+
+303
+00:06:30,060 --> 00:06:33,409
+crafting that proficiency bonus is 13.
+so in this case the DC of the flat check
+
+304
+00:06:33,409 --> 00:06:33,419
+so in this case the DC of the flat check
+ 
+
+305
+00:06:33,419 --> 00:06:38,090
+so in this case the DC of the flat check
+is 10 plus 6 for the item level minus 13
+
+306
+00:06:38,090 --> 00:06:38,100
+is 10 plus 6 for the item level minus 13
+ 
+
+307
+00:06:38,100 --> 00:06:40,670
+is 10 plus 6 for the item level minus 13
+for the proficiency bonus which gives us
+
+308
+00:06:40,670 --> 00:06:40,680
+for the proficiency bonus which gives us
+ 
+
+309
+00:06:40,680 --> 00:06:43,309
+for the proficiency bonus which gives us
+a final DC of three
+
+310
+00:06:43,309 --> 00:06:43,319
+a final DC of three
+ 
+
+311
+00:06:43,319 --> 00:06:46,010
+a final DC of three
+this is a straight D20 roll with no
+
+312
+00:06:46,010 --> 00:06:46,020
+this is a straight D20 roll with no
+ 
+
+313
+00:06:46,020 --> 00:06:48,650
+this is a straight D20 roll with no
+modifiers so as long as she rolls a
+
+314
+00:06:48,650 --> 00:06:48,660
+modifiers so as long as she rolls a
+ 
+
+315
+00:06:48,660 --> 00:06:50,870
+modifiers so as long as she rolls a
+three or higher The Shield works
+
+316
+00:06:50,870 --> 00:06:50,880
+three or higher The Shield works
+ 
+
+317
+00:06:50,880 --> 00:06:54,409
+three or higher The Shield works
+properly if she rolls a 2 which is a
+
+318
+00:06:54,409 --> 00:06:54,419
+properly if she rolls a 2 which is a
+ 
+
+319
+00:06:54,419 --> 00:06:56,629
+properly if she rolls a 2 which is a
+failure The Shield develops a special
+
+320
+00:06:56,629 --> 00:06:56,639
+failure The Shield develops a special
+ 
+
+321
+00:06:56,639 --> 00:06:59,930
+failure The Shield develops a special
+Quirk and if she rolls a one which is a
+
+322
+00:06:59,930 --> 00:06:59,940
+Quirk and if she rolls a one which is a
+ 
+
+323
+00:06:59,940 --> 00:07:02,330
+Quirk and if she rolls a one which is a
+critical failure the GM needs to decide
+
+324
+00:07:02,330 --> 00:07:02,340
+critical failure the GM needs to decide
+ 
+
+325
+00:07:02,340 --> 00:07:05,150
+critical failure the GM needs to decide
+if the shield is ruined or cursed
+
+326
+00:07:05,150 --> 00:07:05,160
+if the shield is ruined or cursed
+ 
+
+327
+00:07:05,160 --> 00:07:08,029
+if the shield is ruined or cursed
+although not specified in the rules it
+
+328
+00:07:08,029 --> 00:07:08,039
+although not specified in the rules it
+ 
+
+329
+00:07:08,039 --> 00:07:10,129
+although not specified in the rules it
+might be best for the GM to roll this in
+
+330
+00:07:10,129 --> 00:07:10,139
+might be best for the GM to roll this in
+ 
+
+331
+00:07:10,139 --> 00:07:12,529
+might be best for the GM to roll this in
+secret just in case the result is a
+
+332
+00:07:12,529 --> 00:07:12,539
+secret just in case the result is a
+ 
+
+333
+00:07:12,539 --> 00:07:14,029
+secret just in case the result is a
+cursed item
+
+334
+00:07:14,029 --> 00:07:14,039
+cursed item
+ 
+
+335
+00:07:14,039 --> 00:07:16,790
+cursed item
+for fun we'll see that she rolls a 2 on
+
+336
+00:07:16,790 --> 00:07:16,800
+for fun we'll see that she rolls a 2 on
+ 
+
+337
+00:07:16,800 --> 00:07:19,730
+for fun we'll see that she rolls a 2 on
+the D20 and that means that the item has
+
+338
+00:07:19,730 --> 00:07:19,740
+the D20 and that means that the item has
+ 
+
+339
+00:07:19,740 --> 00:07:21,350
+the D20 and that means that the item has
+a special cork
+
+340
+00:07:21,350 --> 00:07:21,360
+a special cork
+ 
+
+341
+00:07:21,360 --> 00:07:24,110
+a special cork
+s can be found on page 86 of the game
+
+342
+00:07:24,110 --> 00:07:24,120
+s can be found on page 86 of the game
+ 
+
+343
+00:07:24,120 --> 00:07:27,170
+s can be found on page 86 of the game
+mastery guide the GM rolls a D100 and
+
+344
+00:07:27,170 --> 00:07:27,180
+mastery guide the GM rolls a D100 and
+ 
+
+345
+00:07:27,180 --> 00:07:29,870
+mastery guide the GM rolls a D100 and
+gets a 36 which makes the spell guard
+
+346
+00:07:29,870 --> 00:07:29,880
+gets a 36 which makes the spell guard
+ 
+
+347
+00:07:29,880 --> 00:07:33,230
+gets a 36 which makes the spell guard
+Shield bloodthirsty it Quivers in
+
+348
+00:07:33,230 --> 00:07:33,240
+Shield bloodthirsty it Quivers in
+ 
+
+349
+00:07:33,240 --> 00:07:37,670
+Shield bloodthirsty it Quivers in
+Bruno's grip whenever is near blood
+
+350
+00:07:37,670 --> 00:07:37,680
+
+ 
+
+351
+00:07:37,680 --> 00:07:40,249
+
+so there you have it crafting a magic
+
+352
+00:07:40,249 --> 00:07:40,259
+so there you have it crafting a magic
+ 
+
+353
+00:07:40,259 --> 00:07:42,650
+so there you have it crafting a magic
+item from start to finish using the new
+
+354
+00:07:42,650 --> 00:07:42,660
+item from start to finish using the new
+ 
+
+355
+00:07:42,660 --> 00:07:45,170
+item from start to finish using the new
+complex crafting rules if you have any
+
+356
+00:07:45,170 --> 00:07:45,180
+complex crafting rules if you have any
+ 
+
+357
+00:07:45,180 --> 00:07:46,670
+complex crafting rules if you have any
+questions please leave them in the
+
+358
+00:07:46,670 --> 00:07:46,680
+questions please leave them in the
+ 
+
+359
+00:07:46,680 --> 00:07:48,890
+questions please leave them in the
+comments below I'll leave links to any
+
+360
+00:07:48,890 --> 00:07:48,900
+comments below I'll leave links to any
+ 
+
+361
+00:07:48,900 --> 00:07:51,290
+comments below I'll leave links to any
+of my related videos about crafting in
+
+362
+00:07:51,290 --> 00:07:51,300
+of my related videos about crafting in
+ 
+
+363
+00:07:51,300 --> 00:07:53,510
+of my related videos about crafting in
+the description and I'd like to take a
+
+364
+00:07:53,510 --> 00:07:53,520
+the description and I'd like to take a
+ 
+
+365
+00:07:53,520 --> 00:07:55,070
+the description and I'd like to take a
+quick moment to thank everyone out there
+
+366
+00:07:55,070 --> 00:07:55,080
+quick moment to thank everyone out there
+ 
+
+367
+00:07:55,080 --> 00:07:56,990
+quick moment to thank everyone out there
+who supports this channel whether that
+
+368
+00:07:56,990 --> 00:07:57,000
+who supports this channel whether that
+ 
+
+369
+00:07:57,000 --> 00:07:58,370
+who supports this channel whether that
+be by clicking the like button
+
+370
+00:07:58,370 --> 00:07:58,380
+be by clicking the like button
+ 
+
+371
+00:07:58,380 --> 00:08:00,230
+be by clicking the like button
+subscribing to the channel subscribing
+
+372
+00:08:00,230 --> 00:08:00,240
+subscribing to the channel subscribing
+ 
+
+373
+00:08:00,240 --> 00:08:02,689
+subscribing to the channel subscribing
+to the patreon buying a super thanks it
+
+374
+00:08:02,689 --> 00:08:02,699
+to the patreon buying a super thanks it
+ 
+
+375
+00:08:02,699 --> 00:08:04,370
+to the patreon buying a super thanks it
+all adds up and I greatly appreciate
+
+376
+00:08:04,370 --> 00:08:04,380
+all adds up and I greatly appreciate
+ 
+
+377
+00:08:04,380 --> 00:08:06,110
+all adds up and I greatly appreciate
+everything you do to support this
+
+378
+00:08:06,110 --> 00:08:06,120
+everything you do to support this
+ 
+
+379
+00:08:06,120 --> 00:08:07,909
+everything you do to support this
+Channel and with that thanks for
+
+380
+00:08:07,909 --> 00:08:07,919
+Channel and with that thanks for
+ 
+
+381
+00:08:07,919 --> 00:08:13,570
+Channel and with that thanks for
+watching take care and happy gaming
+
+382
+00:08:13,570 --> 00:08:13,580
+
+ 
+
+383
+00:08:13,580 --> 00:08:15,950
+
+thank you
+
+384
+00:08:15,950 --> 00:08:15,960
+thank you
+ 
+
+385
+00:08:15,960 --> 00:08:18,409
+thank you
+foreign
+
+386
+00:08:18,409 --> 00:08:18,419
+foreign
+ 
+
+387
+00:08:18,419 --> 00:08:20,539
+foreign
+thank you
+

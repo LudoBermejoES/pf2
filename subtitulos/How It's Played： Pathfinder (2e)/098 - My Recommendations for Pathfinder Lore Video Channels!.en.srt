@@ -1,0 +1,1395 @@
+1
+00:00:05,120 --> 00:00:07,430
+
+hey everybody Dave here with another
+
+2
+00:00:07,430 --> 00:00:07,440
+hey everybody Dave here with another
+ 
+
+3
+00:00:07,440 --> 00:00:09,830
+hey everybody Dave here with another
+Pathfinder rule reminder for you and
+
+4
+00:00:09,830 --> 00:00:09,840
+Pathfinder rule reminder for you and
+ 
+
+5
+00:00:09,840 --> 00:00:11,270
+Pathfinder rule reminder for you and
+today I'm going to talk a little bit
+
+6
+00:00:11,270 --> 00:00:11,280
+today I'm going to talk a little bit
+ 
+
+7
+00:00:11,280 --> 00:00:14,209
+today I'm going to talk a little bit
+about Pathfinder Allure I'm not going to
+
+8
+00:00:14,209 --> 00:00:14,219
+about Pathfinder Allure I'm not going to
+ 
+
+9
+00:00:14,219 --> 00:00:16,550
+about Pathfinder Allure I'm not going to
+be creating a lore video for you but
+
+10
+00:00:16,550 --> 00:00:16,560
+be creating a lore video for you but
+ 
+
+11
+00:00:16,560 --> 00:00:18,650
+be creating a lore video for you but
+instead I'm going to direct you to some
+
+12
+00:00:18,650 --> 00:00:18,660
+instead I'm going to direct you to some
+ 
+
+13
+00:00:18,660 --> 00:00:20,870
+instead I'm going to direct you to some
+wonderful folks who are making lore
+
+14
+00:00:20,870 --> 00:00:20,880
+wonderful folks who are making lore
+ 
+
+15
+00:00:20,880 --> 00:00:23,029
+wonderful folks who are making lore
+videos and the reason I'm doing this is
+
+16
+00:00:23,029 --> 00:00:23,039
+videos and the reason I'm doing this is
+ 
+
+17
+00:00:23,039 --> 00:00:24,950
+videos and the reason I'm doing this is
+because as you probably already know
+
+18
+00:00:24,950 --> 00:00:24,960
+because as you probably already know
+ 
+
+19
+00:00:24,960 --> 00:00:27,170
+because as you probably already know
+Piezo announced that in a few months
+
+20
+00:00:27,170 --> 00:00:27,180
+Piezo announced that in a few months
+ 
+
+21
+00:00:27,180 --> 00:00:29,330
+Piezo announced that in a few months
+they're going to start rolling out a new
+
+22
+00:00:29,330 --> 00:00:29,340
+they're going to start rolling out a new
+ 
+
+23
+00:00:29,340 --> 00:00:31,730
+they're going to start rolling out a new
+series of core rulebooks for the
+
+24
+00:00:31,730 --> 00:00:31,740
+series of core rulebooks for the
+ 
+
+25
+00:00:31,740 --> 00:00:34,850
+series of core rulebooks for the
+remaster editions and as part of that
+
+26
+00:00:34,850 --> 00:00:34,860
+remaster editions and as part of that
+ 
+
+27
+00:00:34,860 --> 00:00:36,889
+remaster editions and as part of that
+there's going to be a whole lot of
+
+28
+00:00:36,889 --> 00:00:36,899
+there's going to be a whole lot of
+ 
+
+29
+00:00:36,899 --> 00:00:40,250
+there's going to be a whole lot of
+changes to the rules as we have them and
+
+30
+00:00:40,250 --> 00:00:40,260
+changes to the rules as we have them and
+ 
+
+31
+00:00:40,260 --> 00:00:42,530
+changes to the rules as we have them and
+so with me running a YouTube channel
+
+32
+00:00:42,530 --> 00:00:42,540
+so with me running a YouTube channel
+ 
+
+33
+00:00:42,540 --> 00:00:45,709
+so with me running a YouTube channel
+that's dedicated to Pathfinder rules it
+
+34
+00:00:45,709 --> 00:00:45,719
+that's dedicated to Pathfinder rules it
+ 
+
+35
+00:00:45,719 --> 00:00:47,510
+that's dedicated to Pathfinder rules it
+doesn't really make sense for me to be
+
+36
+00:00:47,510 --> 00:00:47,520
+doesn't really make sense for me to be
+ 
+
+37
+00:00:47,520 --> 00:00:49,310
+doesn't really make sense for me to be
+putting out videos today that may be
+
+38
+00:00:49,310 --> 00:00:49,320
+putting out videos today that may be
+ 
+
+39
+00:00:49,320 --> 00:00:51,889
+putting out videos today that may be
+invalidated in a few months when the
+
+40
+00:00:51,889 --> 00:00:51,899
+invalidated in a few months when the
+ 
+
+41
+00:00:51,899 --> 00:00:54,770
+invalidated in a few months when the
+remaster uh sets come out the first
+
+42
+00:00:54,770 --> 00:00:54,780
+remaster uh sets come out the first
+ 
+
+43
+00:00:54,780 --> 00:00:56,270
+remaster uh sets come out the first
+books of that come out is actually going
+
+44
+00:00:56,270 --> 00:00:56,280
+books of that come out is actually going
+ 
+
+45
+00:00:56,280 --> 00:00:58,010
+books of that come out is actually going
+to be about six months or so before they
+
+46
+00:00:58,010 --> 00:00:58,020
+to be about six months or so before they
+ 
+
+47
+00:00:58,020 --> 00:01:01,310
+to be about six months or so before they
+all come out but at any rate a lot of
+
+48
+00:01:01,310 --> 00:01:01,320
+all come out but at any rate a lot of
+ 
+
+49
+00:01:01,320 --> 00:01:02,810
+all come out but at any rate a lot of
+people out there have been kind enough
+
+50
+00:01:02,810 --> 00:01:02,820
+people out there have been kind enough
+ 
+
+51
+00:01:02,820 --> 00:01:05,090
+people out there have been kind enough
+to share their suggestions with me for
+
+52
+00:01:05,090 --> 00:01:05,100
+to share their suggestions with me for
+ 
+
+53
+00:01:05,100 --> 00:01:07,429
+to share their suggestions with me for
+things I could do with this channel in
+
+54
+00:01:07,429 --> 00:01:07,439
+things I could do with this channel in
+ 
+
+55
+00:01:07,439 --> 00:01:10,070
+things I could do with this channel in
+the meantime while I'm waiting for all
+
+56
+00:01:10,070 --> 00:01:10,080
+the meantime while I'm waiting for all
+ 
+
+57
+00:01:10,080 --> 00:01:12,289
+the meantime while I'm waiting for all
+the new rules with the remasters uh to
+
+58
+00:01:12,289 --> 00:01:12,299
+the new rules with the remasters uh to
+ 
+
+59
+00:01:12,299 --> 00:01:14,929
+the new rules with the remasters uh to
+come out and a surprising number of
+
+60
+00:01:14,929 --> 00:01:14,939
+come out and a surprising number of
+ 
+
+61
+00:01:14,939 --> 00:01:17,270
+come out and a surprising number of
+people have been recommending that I get
+
+62
+00:01:17,270 --> 00:01:17,280
+people have been recommending that I get
+ 
+
+63
+00:01:17,280 --> 00:01:19,429
+people have been recommending that I get
+into lore videos if I start making lore
+
+64
+00:01:19,429 --> 00:01:19,439
+into lore videos if I start making lore
+ 
+
+65
+00:01:19,439 --> 00:01:22,130
+into lore videos if I start making lore
+videos and this is what really has
+
+66
+00:01:22,130 --> 00:01:22,140
+videos and this is what really has
+ 
+
+67
+00:01:22,140 --> 00:01:24,590
+videos and this is what really has
+surprised me is the number of people who
+
+68
+00:01:24,590 --> 00:01:24,600
+surprised me is the number of people who
+ 
+
+69
+00:01:24,600 --> 00:01:27,170
+surprised me is the number of people who
+have specifically said Dave make lore
+
+70
+00:01:27,170 --> 00:01:27,180
+have specifically said Dave make lore
+ 
+
+71
+00:01:27,180 --> 00:01:29,690
+have specifically said Dave make lore
+videos because nobody is making more
+
+72
+00:01:29,690 --> 00:01:29,700
+videos because nobody is making more
+ 
+
+73
+00:01:29,700 --> 00:01:31,130
+videos because nobody is making more
+videos there's nobody out there making
+
+74
+00:01:31,130 --> 00:01:31,140
+videos there's nobody out there making
+ 
+
+75
+00:01:31,140 --> 00:01:33,710
+videos there's nobody out there making
+more videos so we need somebody to fill
+
+76
+00:01:33,710 --> 00:01:33,720
+more videos so we need somebody to fill
+ 
+
+77
+00:01:33,720 --> 00:01:36,530
+more videos so we need somebody to fill
+that Gap and I'm here to tell you and
+
+78
+00:01:36,530 --> 00:01:36,540
+that Gap and I'm here to tell you and
+ 
+
+79
+00:01:36,540 --> 00:01:39,170
+that Gap and I'm here to tell you and
+that that is incredibly not true there's
+
+80
+00:01:39,170 --> 00:01:39,180
+that that is incredibly not true there's
+ 
+
+81
+00:01:39,180 --> 00:01:41,810
+that that is incredibly not true there's
+a lot of people out there who are making
+
+82
+00:01:41,810 --> 00:01:41,820
+a lot of people out there who are making
+ 
+
+83
+00:01:41,820 --> 00:01:44,390
+a lot of people out there who are making
+very very very good high quality lore
+
+84
+00:01:44,390 --> 00:01:44,400
+very very very good high quality lore
+ 
+
+85
+00:01:44,400 --> 00:01:46,370
+very very very good high quality lore
+videos for the Pathfinder setting so
+
+86
+00:01:46,370 --> 00:01:46,380
+videos for the Pathfinder setting so
+ 
+
+87
+00:01:46,380 --> 00:01:47,749
+videos for the Pathfinder setting so
+that's what I'm doing with this video
+
+88
+00:01:47,749 --> 00:01:47,759
+that's what I'm doing with this video
+ 
+
+89
+00:01:47,759 --> 00:01:50,389
+that's what I'm doing with this video
+today I want to connect those of you out
+
+90
+00:01:50,389 --> 00:01:50,399
+today I want to connect those of you out
+ 
+
+91
+00:01:50,399 --> 00:01:53,270
+today I want to connect those of you out
+there who suggest that I get into lore
+
+92
+00:01:53,270 --> 00:01:53,280
+there who suggest that I get into lore
+ 
+
+93
+00:01:53,280 --> 00:01:56,389
+there who suggest that I get into lore
+videos because quote nobody is making
+
+94
+00:01:56,389 --> 00:01:56,399
+videos because quote nobody is making
+ 
+
+95
+00:01:56,399 --> 00:01:58,550
+videos because quote nobody is making
+them and connect you to the people who
+
+96
+00:01:58,550 --> 00:01:58,560
+them and connect you to the people who
+ 
+
+97
+00:01:58,560 --> 00:02:00,109
+them and connect you to the people who
+are so that's what I'm doing I'm wanting
+
+98
+00:02:00,109 --> 00:02:00,119
+are so that's what I'm doing I'm wanting
+ 
+
+99
+00:02:00,119 --> 00:02:02,510
+are so that's what I'm doing I'm wanting
+to share with you five YouTube channels
+
+100
+00:02:02,510 --> 00:02:02,520
+to share with you five YouTube channels
+ 
+
+101
+00:02:02,520 --> 00:02:05,630
+to share with you five YouTube channels
+that are producing great Valyrian
+
+102
+00:02:05,630 --> 00:02:05,640
+that are producing great Valyrian
+ 
+
+103
+00:02:05,640 --> 00:02:07,370
+that are producing great Valyrian
+Pathfinder setting lore videos for you
+
+104
+00:02:07,370 --> 00:02:07,380
+Pathfinder setting lore videos for you
+ 
+
+105
+00:02:07,380 --> 00:02:09,830
+Pathfinder setting lore videos for you
+so the first of those is going to be a
+
+106
+00:02:09,830 --> 00:02:09,840
+so the first of those is going to be a
+ 
+
+107
+00:02:09,840 --> 00:02:12,110
+so the first of those is going to be a
+relatively newcomer to the scene called
+
+108
+00:02:12,110 --> 00:02:12,120
+relatively newcomer to the scene called
+ 
+
+109
+00:02:12,120 --> 00:02:15,589
+relatively newcomer to the scene called
+the lore tour and the Lord tour as of
+
+110
+00:02:15,589 --> 00:02:15,599
+the lore tour and the Lord tour as of
+ 
+
+111
+00:02:15,599 --> 00:02:17,570
+the lore tour and the Lord tour as of
+right now has about 20 little more than
+
+112
+00:02:17,570 --> 00:02:17,580
+right now has about 20 little more than
+ 
+
+113
+00:02:17,580 --> 00:02:20,750
+right now has about 20 little more than
+20 videos they have a series that takes
+
+114
+00:02:20,750 --> 00:02:20,760
+20 videos they have a series that takes
+ 
+
+115
+00:02:20,760 --> 00:02:23,089
+20 videos they have a series that takes
+a dive into the different districts of
+
+116
+00:02:23,089 --> 00:02:23,099
+a dive into the different districts of
+ 
+
+117
+00:02:23,099 --> 00:02:25,309
+a dive into the different districts of
+Absalom they have videos that are
+
+118
+00:02:25,309 --> 00:02:25,319
+Absalom they have videos that are
+ 
+
+119
+00:02:25,319 --> 00:02:27,050
+Absalom they have videos that are
+focused on specific creatures like
+
+120
+00:02:27,050 --> 00:02:27,060
+focused on specific creatures like
+ 
+
+121
+00:02:27,060 --> 00:02:29,270
+focused on specific creatures like
+ghosts and Sea Hags and they also have
+
+122
+00:02:29,270 --> 00:02:29,280
+ghosts and Sea Hags and they also have
+ 
+
+123
+00:02:29,280 --> 00:02:30,830
+ghosts and Sea Hags and they also have
+videos that take a look at different
+
+124
+00:02:30,830 --> 00:02:30,840
+videos that take a look at different
+ 
+
+125
+00:02:30,840 --> 00:02:33,470
+videos that take a look at different
+parts of geography in particular they
+
+126
+00:02:33,470 --> 00:02:33,480
+parts of geography in particular they
+ 
+
+127
+00:02:33,480 --> 00:02:36,410
+parts of geography in particular they
+recently put out a video on Atari that I
+
+128
+00:02:36,410 --> 00:02:36,420
+recently put out a video on Atari that I
+ 
+
+129
+00:02:36,420 --> 00:02:38,750
+recently put out a video on Atari that I
+liked so much that I forwarded it out to
+
+130
+00:02:38,750 --> 00:02:38,760
+liked so much that I forwarded it out to
+ 
+
+131
+00:02:38,760 --> 00:02:40,550
+liked so much that I forwarded it out to
+a group of players who will be joining
+
+132
+00:02:40,550 --> 00:02:40,560
+a group of players who will be joining
+ 
+
+133
+00:02:40,560 --> 00:02:43,009
+a group of players who will be joining
+me in July to start a campaign set in
+
+134
+00:02:43,009 --> 00:02:43,019
+me in July to start a campaign set in
+ 
+
+135
+00:02:43,019 --> 00:02:45,589
+me in July to start a campaign set in
+Atari and they all gave me positive
+
+136
+00:02:45,589 --> 00:02:45,599
+Atari and they all gave me positive
+ 
+
+137
+00:02:45,599 --> 00:02:48,470
+Atari and they all gave me positive
+feedback on that video as well so I want
+
+138
+00:02:48,470 --> 00:02:48,480
+feedback on that video as well so I want
+ 
+
+139
+00:02:48,480 --> 00:02:50,210
+feedback on that video as well so I want
+to make sure everybody checks out the
+
+140
+00:02:50,210 --> 00:02:50,220
+to make sure everybody checks out the
+ 
+
+141
+00:02:50,220 --> 00:02:52,850
+to make sure everybody checks out the
+lore tour as one of the places you can
+
+142
+00:02:52,850 --> 00:02:52,860
+lore tour as one of the places you can
+ 
+
+143
+00:02:52,860 --> 00:02:55,130
+lore tour as one of the places you can
+go to for lore videos but it's not alone
+
+144
+00:02:55,130 --> 00:02:55,140
+go to for lore videos but it's not alone
+ 
+
+145
+00:02:55,140 --> 00:02:58,850
+go to for lore videos but it's not alone
+next up we have the Tower of tomes the
+
+146
+00:02:58,850 --> 00:02:58,860
+next up we have the Tower of tomes the
+ 
+
+147
+00:02:58,860 --> 00:03:02,390
+next up we have the Tower of tomes the
+Tower of tomes has a 60-ish videos all
+
+148
+00:03:02,390 --> 00:03:02,400
+Tower of tomes has a 60-ish videos all
+ 
+
+149
+00:03:02,400 --> 00:03:04,750
+Tower of tomes has a 60-ish videos all
+about lore they cover monsters
+
+150
+00:03:04,750 --> 00:03:04,760
+about lore they cover monsters
+ 
+
+151
+00:03:04,760 --> 00:03:07,070
+about lore they cover monsters
+ancestries different deities but with
+
+152
+00:03:07,070 --> 00:03:07,080
+ancestries different deities but with
+ 
+
+153
+00:03:07,080 --> 00:03:09,110
+ancestries different deities but with
+system apart from a lot of the other
+
+154
+00:03:09,110 --> 00:03:09,120
+system apart from a lot of the other
+ 
+
+155
+00:03:09,120 --> 00:03:11,210
+system apart from a lot of the other
+people out there making lore videos is
+
+156
+00:03:11,210 --> 00:03:11,220
+people out there making lore videos is
+ 
+
+157
+00:03:11,220 --> 00:03:13,850
+people out there making lore videos is
+they have a great series of one minute
+
+158
+00:03:13,850 --> 00:03:13,860
+they have a great series of one minute
+ 
+
+159
+00:03:13,860 --> 00:03:16,850
+they have a great series of one minute
+long shorts that dives into the
+
+160
+00:03:16,850 --> 00:03:16,860
+long shorts that dives into the
+ 
+
+161
+00:03:16,860 --> 00:03:18,949
+long shorts that dives into the
+different types of fiends found in
+
+162
+00:03:18,949 --> 00:03:18,959
+different types of fiends found in
+ 
+
+163
+00:03:18,959 --> 00:03:23,270
+different types of fiends found in
+galerion next up we have sir vertigo sir
+
+164
+00:03:23,270 --> 00:03:23,280
+galerion next up we have sir vertigo sir
+ 
+
+165
+00:03:23,280 --> 00:03:26,089
+galerion next up we have sir vertigo sir
+vertigo has over 50 lore videos and
+
+166
+00:03:26,089 --> 00:03:26,099
+vertigo has over 50 lore videos and
+ 
+
+167
+00:03:26,099 --> 00:03:27,770
+vertigo has over 50 lore videos and
+these videos cover a wide array of
+
+168
+00:03:27,770 --> 00:03:27,780
+these videos cover a wide array of
+ 
+
+169
+00:03:27,780 --> 00:03:30,589
+these videos cover a wide array of
+topics including prominent NPCs that I
+
+170
+00:03:30,589 --> 00:03:30,599
+topics including prominent NPCs that I
+ 
+
+171
+00:03:30,599 --> 00:03:32,570
+topics including prominent NPCs that I
+don't see being represented on the other
+
+172
+00:03:32,570 --> 00:03:32,580
+don't see being represented on the other
+ 
+
+173
+00:03:32,580 --> 00:03:35,930
+don't see being represented on the other
+channels and also they provide videos on
+
+174
+00:03:35,930 --> 00:03:35,940
+channels and also they provide videos on
+ 
+
+175
+00:03:35,940 --> 00:03:38,449
+channels and also they provide videos on
+some of the less commonly covered areas
+
+176
+00:03:38,449 --> 00:03:38,459
+some of the less commonly covered areas
+ 
+
+177
+00:03:38,459 --> 00:03:41,030
+some of the less commonly covered areas
+of galerium like the stolen lands and
+
+178
+00:03:41,030 --> 00:03:41,040
+of galerium like the stolen lands and
+ 
+
+179
+00:03:41,040 --> 00:03:43,369
+of galerium like the stolen lands and
+alken star and the last of the channels
+
+180
+00:03:43,369 --> 00:03:43,379
+alken star and the last of the channels
+ 
+
+181
+00:03:43,379 --> 00:03:45,350
+alken star and the last of the channels
+that are currently producing lore videos
+
+182
+00:03:45,350 --> 00:03:45,360
+that are currently producing lore videos
+ 
+
+183
+00:03:45,360 --> 00:03:47,809
+that are currently producing lore videos
+that I want to cover is myth keeper
+
+184
+00:03:47,809 --> 00:03:47,819
+that I want to cover is myth keeper
+ 
+
+185
+00:03:47,819 --> 00:03:50,270
+that I want to cover is myth keeper
+recently they have a lot of videos that
+
+186
+00:03:50,270 --> 00:03:50,280
+recently they have a lot of videos that
+ 
+
+187
+00:03:50,280 --> 00:03:53,330
+recently they have a lot of videos that
+really focus on locations lots of videos
+
+188
+00:03:53,330 --> 00:03:53,340
+really focus on locations lots of videos
+ 
+
+189
+00:03:53,340 --> 00:03:55,729
+really focus on locations lots of videos
+on the different nations of galerian as
+
+190
+00:03:55,729 --> 00:03:55,739
+on the different nations of galerian as
+ 
+
+191
+00:03:55,739 --> 00:03:58,430
+on the different nations of galerian as
+well as the different planes of the
+
+192
+00:03:58,430 --> 00:03:58,440
+well as the different planes of the
+ 
+
+193
+00:03:58,440 --> 00:04:00,710
+well as the different planes of the
+cosmology of the Pathfinder setting but
+
+194
+00:04:00,710 --> 00:04:00,720
+cosmology of the Pathfinder setting but
+ 
+
+195
+00:04:00,720 --> 00:04:02,809
+cosmology of the Pathfinder setting but
+they also have videos covering religion
+
+196
+00:04:02,809 --> 00:04:02,819
+they also have videos covering religion
+ 
+
+197
+00:04:02,819 --> 00:04:05,930
+they also have videos covering religion
+and different ancestries as well and the
+
+198
+00:04:05,930 --> 00:04:05,940
+and different ancestries as well and the
+ 
+
+199
+00:04:05,940 --> 00:04:07,729
+and different ancestries as well and the
+last Channel providing lore videos I
+
+200
+00:04:07,729 --> 00:04:07,739
+last Channel providing lore videos I
+ 
+
+201
+00:04:07,739 --> 00:04:08,930
+last Channel providing lore videos I
+want to share with you is kind of an
+
+202
+00:04:08,930 --> 00:04:08,940
+want to share with you is kind of an
+ 
+
+203
+00:04:08,940 --> 00:04:10,970
+want to share with you is kind of an
+honorable mention they're called Venture
+
+204
+00:04:10,970 --> 00:04:10,980
+honorable mention they're called Venture
+ 
+
+205
+00:04:10,980 --> 00:04:13,990
+honorable mention they're called Venture
+captains and they're no longer active
+
+206
+00:04:13,990 --> 00:04:14,000
+captains and they're no longer active
+ 
+
+207
+00:04:14,000 --> 00:04:17,629
+captains and they're no longer active
+but they produced uh 20 or so videos
+
+208
+00:04:17,629 --> 00:04:17,639
+but they produced uh 20 or so videos
+ 
+
+209
+00:04:17,639 --> 00:04:21,289
+but they produced uh 20 or so videos
+about lore back in the Pathfinder first
+
+210
+00:04:21,289 --> 00:04:21,299
+about lore back in the Pathfinder first
+ 
+
+211
+00:04:21,299 --> 00:04:24,710
+about lore back in the Pathfinder first
+edition days and uh not only are they
+
+212
+00:04:24,710 --> 00:04:24,720
+edition days and uh not only are they
+ 
+
+213
+00:04:24,720 --> 00:04:26,930
+edition days and uh not only are they
+great because the lore videos that they
+
+214
+00:04:26,930 --> 00:04:26,940
+great because the lore videos that they
+ 
+
+215
+00:04:26,940 --> 00:04:28,670
+great because the lore videos that they
+created are still valid today a lot of
+
+216
+00:04:28,670 --> 00:04:28,680
+created are still valid today a lot of
+ 
+
+217
+00:04:28,680 --> 00:04:30,530
+created are still valid today a lot of
+the history hasn't changed but I want to
+
+218
+00:04:30,530 --> 00:04:30,540
+the history hasn't changed but I want to
+ 
+
+219
+00:04:30,540 --> 00:04:31,969
+the history hasn't changed but I want to
+highlight them because this is the
+
+220
+00:04:31,969 --> 00:04:31,979
+highlight them because this is the
+ 
+
+221
+00:04:31,979 --> 00:04:35,090
+highlight them because this is the
+channel that inspired me to become a a
+
+222
+00:04:35,090 --> 00:04:35,100
+channel that inspired me to become a a
+ 
+
+223
+00:04:35,100 --> 00:04:38,450
+channel that inspired me to become a a
+YouTube content creator as well I sold
+
+224
+00:04:38,450 --> 00:04:38,460
+YouTube content creator as well I sold
+ 
+
+225
+00:04:38,460 --> 00:04:40,730
+YouTube content creator as well I sold
+their videos about Pathfinder lore and
+
+226
+00:04:40,730 --> 00:04:40,740
+their videos about Pathfinder lore and
+ 
+
+227
+00:04:40,740 --> 00:04:42,469
+their videos about Pathfinder lore and
+said maybe it'd be fun to make videos
+
+228
+00:04:42,469 --> 00:04:42,479
+said maybe it'd be fun to make videos
+ 
+
+229
+00:04:42,479 --> 00:04:44,689
+said maybe it'd be fun to make videos
+about Pathfinder rules so without
+
+230
+00:04:44,689 --> 00:04:44,699
+about Pathfinder rules so without
+ 
+
+231
+00:04:44,699 --> 00:04:47,150
+about Pathfinder rules so without
+Venture captains I wouldn't be here so
+
+232
+00:04:47,150 --> 00:04:47,160
+Venture captains I wouldn't be here so
+ 
+
+233
+00:04:47,160 --> 00:04:49,670
+Venture captains I wouldn't be here so
+those are five different channels four
+
+234
+00:04:49,670 --> 00:04:49,680
+those are five different channels four
+ 
+
+235
+00:04:49,680 --> 00:04:51,950
+those are five different channels four
+of them are still actively producing
+
+236
+00:04:51,950 --> 00:04:51,960
+of them are still actively producing
+ 
+
+237
+00:04:51,960 --> 00:04:54,890
+of them are still actively producing
+lore videos for the Pathfinder setting
+
+238
+00:04:54,890 --> 00:04:54,900
+lore videos for the Pathfinder setting
+ 
+
+239
+00:04:54,900 --> 00:04:57,290
+lore videos for the Pathfinder setting
+so go check these folks out make sure
+
+240
+00:04:57,290 --> 00:04:57,300
+so go check these folks out make sure
+ 
+
+241
+00:04:57,300 --> 00:04:59,390
+so go check these folks out make sure
+you click the Subscribe buttons make
+
+242
+00:04:59,390 --> 00:04:59,400
+you click the Subscribe buttons make
+ 
+
+243
+00:04:59,400 --> 00:05:00,830
+you click the Subscribe buttons make
+sure you click the like buttons If you
+
+244
+00:05:00,830 --> 00:05:00,840
+sure you click the like buttons If you
+ 
+
+245
+00:05:00,840 --> 00:05:02,390
+sure you click the like buttons If you
+like the videos and feel free to come
+
+246
+00:05:02,390 --> 00:05:02,400
+like the videos and feel free to come
+ 
+
+247
+00:05:02,400 --> 00:05:04,370
+like the videos and feel free to come
+back to this video into this comment
+
+248
+00:05:04,370 --> 00:05:04,380
+back to this video into this comment
+ 
+
+249
+00:05:04,380 --> 00:05:06,409
+back to this video into this comment
+section and share your thoughts positive
+
+250
+00:05:06,409 --> 00:05:06,419
+section and share your thoughts positive
+ 
+
+251
+00:05:06,419 --> 00:05:08,810
+section and share your thoughts positive
+or negative whatever you think about
+
+252
+00:05:08,810 --> 00:05:08,820
+or negative whatever you think about
+ 
+
+253
+00:05:08,820 --> 00:05:11,210
+or negative whatever you think about
+these five different groups I'm sharing
+
+254
+00:05:11,210 --> 00:05:11,220
+these five different groups I'm sharing
+ 
+
+255
+00:05:11,220 --> 00:05:13,129
+these five different groups I'm sharing
+today so that's it for today if you have
+
+256
+00:05:13,129 --> 00:05:13,139
+today so that's it for today if you have
+ 
+
+257
+00:05:13,139 --> 00:05:14,749
+today so that's it for today if you have
+any suggestions for future rule reminder
+
+258
+00:05:14,749 --> 00:05:14,759
+any suggestions for future rule reminder
+ 
+
+259
+00:05:14,759 --> 00:05:17,030
+any suggestions for future rule reminder
+videos please let me know as always I
+
+260
+00:05:17,030 --> 00:05:17,040
+videos please let me know as always I
+ 
+
+261
+00:05:17,040 --> 00:05:18,409
+videos please let me know as always I
+want to take just a quick moment to say
+
+262
+00:05:18,409 --> 00:05:18,419
+want to take just a quick moment to say
+ 
+
+263
+00:05:18,419 --> 00:05:19,610
+want to take just a quick moment to say
+thank you to everybody out there who
+
+264
+00:05:19,610 --> 00:05:19,620
+thank you to everybody out there who
+ 
+
+265
+00:05:19,620 --> 00:05:21,530
+thank you to everybody out there who
+supports me whether that's by clicking
+
+266
+00:05:21,530 --> 00:05:21,540
+supports me whether that's by clicking
+ 
+
+267
+00:05:21,540 --> 00:05:23,090
+supports me whether that's by clicking
+the like button on the video subscribing
+
+268
+00:05:23,090 --> 00:05:23,100
+the like button on the video subscribing
+ 
+
+269
+00:05:23,100 --> 00:05:24,350
+the like button on the video subscribing
+to the channel subscribing to the
+
+270
+00:05:24,350 --> 00:05:24,360
+to the channel subscribing to the
+ 
+
+271
+00:05:24,360 --> 00:05:26,390
+to the channel subscribing to the
+patreon I really appreciate everything
+
+272
+00:05:26,390 --> 00:05:26,400
+patreon I really appreciate everything
+ 
+
+273
+00:05:26,400 --> 00:05:28,670
+patreon I really appreciate everything
+the community does to support me and
+
+274
+00:05:28,670 --> 00:05:28,680
+the community does to support me and
+ 
+
+275
+00:05:28,680 --> 00:05:29,990
+the community does to support me and
+with that thanks for watching take care
+
+276
+00:05:29,990 --> 00:05:30,000
+with that thanks for watching take care
+ 
+
+277
+00:05:30,000 --> 00:05:34,870
+with that thanks for watching take care
+and happy gaming
+
+278
+00:05:34,870 --> 00:05:34,880
+
+ 
+
+279
+00:05:34,880 --> 00:05:37,880
+
+thank you
+

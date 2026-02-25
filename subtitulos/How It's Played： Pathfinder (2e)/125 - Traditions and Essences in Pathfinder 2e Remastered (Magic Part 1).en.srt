@@ -1,0 +1,1935 @@
+1
+00:00:01,120 --> 00:00:03,590
+
+Hello and welcome to magic in Pathfinder
+
+2
+00:00:03,590 --> 00:00:03,600
+Hello and welcome to magic in Pathfinder
+ 
+
+3
+00:00:03,600 --> 00:00:06,070
+Hello and welcome to magic in Pathfinder
+second edition remastered part one the
+
+4
+00:00:06,070 --> 00:00:06,080
+second edition remastered part one the
+ 
+
+5
+00:00:06,080 --> 00:00:08,950
+second edition remastered part one the
+magic traditions. This is the first part
+
+6
+00:00:08,950 --> 00:00:08,960
+magic traditions. This is the first part
+ 
+
+7
+00:00:08,960 --> 00:00:10,870
+magic traditions. This is the first part
+in a series that will examine the full
+
+8
+00:00:10,870 --> 00:00:10,880
+in a series that will examine the full
+ 
+
+9
+00:00:10,880 --> 00:00:13,030
+in a series that will examine the full
+set of spell-casting rules in Pathfinder
+
+10
+00:00:13,030 --> 00:00:13,040
+set of spell-casting rules in Pathfinder
+ 
+
+11
+00:00:13,040 --> 00:00:14,950
+set of spell-casting rules in Pathfinder
+second edition. In this first video
+
+12
+00:00:14,950 --> 00:00:14,960
+second edition. In this first video
+ 
+
+13
+00:00:14,960 --> 00:00:16,550
+second edition. In this first video
+we'll lay a foundation for the series
+
+14
+00:00:16,550 --> 00:00:16,560
+we'll lay a foundation for the series
+ 
+
+15
+00:00:16,560 --> 00:00:18,390
+we'll lay a foundation for the series
+that will be followed by crunchier
+
+16
+00:00:18,390 --> 00:00:18,400
+that will be followed by crunchier
+ 
+
+17
+00:00:18,400 --> 00:00:20,870
+that will be followed by crunchier
+topics in the weeks to come. And please
+
+18
+00:00:20,870 --> 00:00:20,880
+topics in the weeks to come. And please
+ 
+
+19
+00:00:20,880 --> 00:00:23,189
+topics in the weeks to come. And please
+note that this is an updated version of
+
+20
+00:00:23,189 --> 00:00:23,199
+note that this is an updated version of
+ 
+
+21
+00:00:23,199 --> 00:00:25,910
+note that this is an updated version of
+a previously released video. So much of
+
+22
+00:00:25,910 --> 00:00:25,920
+a previously released video. So much of
+ 
+
+23
+00:00:25,920 --> 00:00:27,830
+a previously released video. So much of
+this may be familiar, but the key
+
+24
+00:00:27,830 --> 00:00:27,840
+this may be familiar, but the key
+ 
+
+25
+00:00:27,840 --> 00:00:29,349
+this may be familiar, but the key
+difference that you should know between
+
+26
+00:00:29,349 --> 00:00:29,359
+difference that you should know between
+ 
+
+27
+00:00:29,359 --> 00:00:31,669
+difference that you should know between
+the legacy edition and the remaster
+
+28
+00:00:31,669 --> 00:00:31,679
+the legacy edition and the remaster
+ 
+
+29
+00:00:31,679 --> 00:00:34,630
+the legacy edition and the remaster
+edition is that schools of magic were
+
+30
+00:00:34,630 --> 00:00:34,640
+edition is that schools of magic were
+ 
+
+31
+00:00:34,640 --> 00:00:36,549
+edition is that schools of magic were
+removed with the second edition
+
+32
+00:00:36,549 --> 00:00:36,559
+removed with the second edition
+ 
+
+33
+00:00:36,559 --> 00:00:38,869
+removed with the second edition
+remaster.
+
+34
+00:00:38,869 --> 00:00:38,879
+remaster.
+ 
+
+35
+00:00:38,879 --> 00:00:40,630
+remaster.
+To fully understand magic and
+
+36
+00:00:40,630 --> 00:00:40,640
+To fully understand magic and
+ 
+
+37
+00:00:40,640 --> 00:00:42,869
+To fully understand magic and
+Pathfinder, you first need to understand
+
+38
+00:00:42,869 --> 00:00:42,879
+Pathfinder, you first need to understand
+ 
+
+39
+00:00:42,879 --> 00:00:45,590
+Pathfinder, you first need to understand
+how the four essences of magic and the
+
+40
+00:00:45,590 --> 00:00:45,600
+how the four essences of magic and the
+ 
+
+41
+00:00:45,600 --> 00:00:47,590
+how the four essences of magic and the
+different magical traditions all work
+
+42
+00:00:47,590 --> 00:00:47,600
+different magical traditions all work
+ 
+
+43
+00:00:47,600 --> 00:00:49,510
+different magical traditions all work
+together to form a foundation for
+
+44
+00:00:49,510 --> 00:00:49,520
+together to form a foundation for
+ 
+
+45
+00:00:49,520 --> 00:00:52,069
+together to form a foundation for
+spellcasting. Magical traditions
+
+46
+00:00:52,069 --> 00:00:52,079
+spellcasting. Magical traditions
+ 
+
+47
+00:00:52,079 --> 00:00:54,229
+spellcasting. Magical traditions
+describe the source of the spell and
+
+48
+00:00:54,229 --> 00:00:54,239
+describe the source of the spell and
+ 
+
+49
+00:00:54,239 --> 00:00:56,310
+describe the source of the spell and
+also provide some narrative description
+
+50
+00:00:56,310 --> 00:00:56,320
+also provide some narrative description
+ 
+
+51
+00:00:56,320 --> 00:00:59,029
+also provide some narrative description
+as to how the spell is cast. Individual
+
+52
+00:00:59,029 --> 00:00:59,039
+as to how the spell is cast. Individual
+ 
+
+53
+00:00:59,039 --> 00:01:01,270
+as to how the spell is cast. Individual
+spells may belong to several different
+
+54
+00:01:01,270 --> 00:01:01,280
+spells may belong to several different
+ 
+
+55
+00:01:01,280 --> 00:01:03,349
+spells may belong to several different
+traditions. They would be the same rank
+
+56
+00:01:03,349 --> 00:01:03,359
+traditions. They would be the same rank
+ 
+
+57
+00:01:03,359 --> 00:01:05,830
+traditions. They would be the same rank
+and have the same mechanics, but might
+
+58
+00:01:05,830 --> 00:01:05,840
+and have the same mechanics, but might
+ 
+
+59
+00:01:05,840 --> 00:01:09,190
+and have the same mechanics, but might
+be flavored slightly differently. Also,
+
+60
+00:01:09,190 --> 00:01:09,200
+be flavored slightly differently. Also,
+ 
+
+61
+00:01:09,200 --> 00:01:12,550
+be flavored slightly differently. Also,
+each tradition has its own spell list. A
+
+62
+00:01:12,550 --> 00:01:12,560
+each tradition has its own spell list. A
+ 
+
+63
+00:01:12,560 --> 00:01:14,469
+each tradition has its own spell list. A
+spell list shows which spells at each
+
+64
+00:01:14,469 --> 00:01:14,479
+spell list shows which spells at each
+ 
+
+65
+00:01:14,479 --> 00:01:16,950
+spell list shows which spells at each
+rank are available to each spellcaster.
+
+66
+00:01:16,950 --> 00:01:16,960
+rank are available to each spellcaster.
+ 
+
+67
+00:01:16,960 --> 00:01:18,870
+rank are available to each spellcaster.
+A character who has the arcane
+
+68
+00:01:18,870 --> 00:01:18,880
+A character who has the arcane
+ 
+
+69
+00:01:18,880 --> 00:01:21,109
+A character who has the arcane
+spell-casting class ability is able to
+
+70
+00:01:21,109 --> 00:01:21,119
+spell-casting class ability is able to
+ 
+
+71
+00:01:21,119 --> 00:01:23,910
+spell-casting class ability is able to
+cast spells from the arcane traditions
+
+72
+00:01:23,910 --> 00:01:23,920
+cast spells from the arcane traditions
+ 
+
+73
+00:01:23,920 --> 00:01:26,710
+cast spells from the arcane traditions
+spell list and only spells found on that
+
+74
+00:01:26,710 --> 00:01:26,720
+spell list and only spells found on that
+ 
+
+75
+00:01:26,720 --> 00:01:28,870
+spell list and only spells found on that
+list unless they gain access to another
+
+76
+00:01:28,870 --> 00:01:28,880
+list unless they gain access to another
+ 
+
+77
+00:01:28,880 --> 00:01:31,350
+list unless they gain access to another
+tradition such as with multiclass
+
+78
+00:01:31,350 --> 00:01:31,360
+tradition such as with multiclass
+ 
+
+79
+00:01:31,360 --> 00:01:34,149
+tradition such as with multiclass
+archetypes. And gone are the days of
+
+80
+00:01:34,149 --> 00:01:34,159
+archetypes. And gone are the days of
+ 
+
+81
+00:01:34,159 --> 00:01:37,270
+archetypes. And gone are the days of
+spell lists being dictated by class.
+
+82
+00:01:37,270 --> 00:01:37,280
+spell lists being dictated by class.
+ 
+
+83
+00:01:37,280 --> 00:01:39,670
+spell lists being dictated by class.
+Second edition has simplified things by
+
+84
+00:01:39,670 --> 00:01:39,680
+Second edition has simplified things by
+ 
+
+85
+00:01:39,680 --> 00:01:42,069
+Second edition has simplified things by
+having only four traditions and
+
+86
+00:01:42,069 --> 00:01:42,079
+having only four traditions and
+ 
+
+87
+00:01:42,079 --> 00:01:45,270
+having only four traditions and
+therefore only four spell lists, but
+
+88
+00:01:45,270 --> 00:01:45,280
+therefore only four spell lists, but
+ 
+
+89
+00:01:45,280 --> 00:01:47,830
+therefore only four spell lists, but
+also allows greater flexibility and
+
+90
+00:01:47,830 --> 00:01:47,840
+also allows greater flexibility and
+ 
+
+91
+00:01:47,840 --> 00:01:50,149
+also allows greater flexibility and
+allowing some classes to choose between
+
+92
+00:01:50,149 --> 00:01:50,159
+allowing some classes to choose between
+ 
+
+93
+00:01:50,159 --> 00:01:52,389
+allowing some classes to choose between
+which spell list they want to use. For
+
+94
+00:01:52,389 --> 00:01:52,399
+which spell list they want to use. For
+ 
+
+95
+00:01:52,399 --> 00:01:54,710
+which spell list they want to use. For
+example, a sorcerer could cast spells
+
+96
+00:01:54,710 --> 00:01:54,720
+example, a sorcerer could cast spells
+ 
+
+97
+00:01:54,720 --> 00:01:57,429
+example, a sorcerer could cast spells
+from any one of the traditions depending
+
+98
+00:01:57,429 --> 00:01:57,439
+from any one of the traditions depending
+ 
+
+99
+00:01:57,439 --> 00:01:59,830
+from any one of the traditions depending
+on what their bloodline is. The four
+
+100
+00:01:59,830 --> 00:01:59,840
+on what their bloodline is. The four
+ 
+
+101
+00:01:59,840 --> 00:02:03,510
+on what their bloodline is. The four
+traditions are arcane, divine, occult,
+
+102
+00:02:03,510 --> 00:02:03,520
+traditions are arcane, divine, occult,
+ 
+
+103
+00:02:03,520 --> 00:02:06,630
+traditions are arcane, divine, occult,
+and primal. I tend to think of arcane
+
+104
+00:02:06,630 --> 00:02:06,640
+and primal. I tend to think of arcane
+ 
+
+105
+00:02:06,640 --> 00:02:10,150
+and primal. I tend to think of arcane
+magic as sort of like magical science.
+
+106
+00:02:10,150 --> 00:02:10,160
+magic as sort of like magical science.
+ 
+
+107
+00:02:10,160 --> 00:02:12,390
+magic as sort of like magical science.
+Those who practice this form of magic do
+
+108
+00:02:12,390 --> 00:02:12,400
+Those who practice this form of magic do
+ 
+
+109
+00:02:12,400 --> 00:02:15,670
+Those who practice this form of magic do
+so after years of study. They conduct
+
+110
+00:02:15,670 --> 00:02:15,680
+so after years of study. They conduct
+ 
+
+111
+00:02:15,680 --> 00:02:18,470
+so after years of study. They conduct
+extensive research, pour over massive
+
+112
+00:02:18,470 --> 00:02:18,480
+extensive research, pour over massive
+ 
+
+113
+00:02:18,480 --> 00:02:21,830
+extensive research, pour over massive
+toms, and see a kind of order to magical
+
+114
+00:02:21,830 --> 00:02:21,840
+toms, and see a kind of order to magical
+ 
+
+115
+00:02:21,840 --> 00:02:23,910
+toms, and see a kind of order to magical
+energies that they can manipulate.
+
+116
+00:02:23,910 --> 00:02:23,920
+energies that they can manipulate.
+ 
+
+117
+00:02:23,920 --> 00:02:26,309
+energies that they can manipulate.
+Wizards are the most iconic of the
+
+118
+00:02:26,309 --> 00:02:26,319
+Wizards are the most iconic of the
+ 
+
+119
+00:02:26,319 --> 00:02:29,430
+Wizards are the most iconic of the
+arcane spellcasters. Divine spells
+
+120
+00:02:29,430 --> 00:02:29,440
+arcane spellcasters. Divine spells
+ 
+
+121
+00:02:29,440 --> 00:02:32,070
+arcane spellcasters. Divine spells
+represent the power of the gods and is
+
+122
+00:02:32,070 --> 00:02:32,080
+represent the power of the gods and is
+ 
+
+123
+00:02:32,080 --> 00:02:34,070
+represent the power of the gods and is
+often represented as the character
+
+124
+00:02:34,070 --> 00:02:34,080
+often represented as the character
+ 
+
+125
+00:02:34,080 --> 00:02:36,630
+often represented as the character
+praying to their god and asking them to
+
+126
+00:02:36,630 --> 00:02:36,640
+praying to their god and asking them to
+ 
+
+127
+00:02:36,640 --> 00:02:39,670
+praying to their god and asking them to
+bless or smite their target or they're a
+
+128
+00:02:39,670 --> 00:02:39,680
+bless or smite their target or they're a
+ 
+
+129
+00:02:39,680 --> 00:02:42,550
+bless or smite their target or they're a
+physical conduit to channel the wrath of
+
+130
+00:02:42,550 --> 00:02:42,560
+physical conduit to channel the wrath of
+ 
+
+131
+00:02:42,560 --> 00:02:45,270
+physical conduit to channel the wrath of
+their god. Divine magic could also
+
+132
+00:02:45,270 --> 00:02:45,280
+their god. Divine magic could also
+ 
+
+133
+00:02:45,280 --> 00:02:47,910
+their god. Divine magic could also
+manifest from celestial bloodlines such
+
+134
+00:02:47,910 --> 00:02:47,920
+manifest from celestial bloodlines such
+ 
+
+135
+00:02:47,920 --> 00:02:50,630
+manifest from celestial bloodlines such
+as sorcerers who may have angelic or
+
+136
+00:02:50,630 --> 00:02:50,640
+as sorcerers who may have angelic or
+ 
+
+137
+00:02:50,640 --> 00:02:52,150
+as sorcerers who may have angelic or
+infernal blood running through their
+
+138
+00:02:52,150 --> 00:02:52,160
+infernal blood running through their
+ 
+
+139
+00:02:52,160 --> 00:02:55,589
+infernal blood running through their
+veins. Clerics are the best known divine
+
+140
+00:02:55,589 --> 00:02:55,599
+veins. Clerics are the best known divine
+ 
+
+141
+00:02:55,599 --> 00:02:57,350
+veins. Clerics are the best known divine
+spellcasters.
+
+142
+00:02:57,350 --> 00:02:57,360
+spellcasters.
+ 
+
+143
+00:02:57,360 --> 00:02:59,990
+spellcasters.
+Then there is primal magic that deals
+
+144
+00:02:59,990 --> 00:03:00,000
+Then there is primal magic that deals
+ 
+
+145
+00:03:00,000 --> 00:03:03,110
+Then there is primal magic that deals
+with the natural world, plants, animals,
+
+146
+00:03:03,110 --> 00:03:03,120
+with the natural world, plants, animals,
+ 
+
+147
+00:03:03,120 --> 00:03:05,589
+with the natural world, plants, animals,
+and weather. Primal magic is the realm
+
+148
+00:03:05,589 --> 00:03:05,599
+and weather. Primal magic is the realm
+ 
+
+149
+00:03:05,599 --> 00:03:08,390
+and weather. Primal magic is the realm
+of druids, sorcerers who belong to the
+
+150
+00:03:08,390 --> 00:03:08,400
+of druids, sorcerers who belong to the
+ 
+
+151
+00:03:08,400 --> 00:03:11,030
+of druids, sorcerers who belong to the
+fay and beast bloodlines, and witches
+
+152
+00:03:11,030 --> 00:03:11,040
+fay and beast bloodlines, and witches
+ 
+
+153
+00:03:11,040 --> 00:03:14,550
+fay and beast bloodlines, and witches
+with primal patrons. And last is the
+
+154
+00:03:14,550 --> 00:03:14,560
+with primal patrons. And last is the
+ 
+
+155
+00:03:14,560 --> 00:03:17,270
+with primal patrons. And last is the
+occult tradition. I find that occult
+
+156
+00:03:17,270 --> 00:03:17,280
+occult tradition. I find that occult
+ 
+
+157
+00:03:17,280 --> 00:03:20,309
+occult tradition. I find that occult
+magic is the most difficult to explain.
+
+158
+00:03:20,309 --> 00:03:20,319
+magic is the most difficult to explain.
+ 
+
+159
+00:03:20,319 --> 00:03:22,710
+magic is the most difficult to explain.
+Player core one explains occult magic
+
+160
+00:03:22,710 --> 00:03:22,720
+Player core one explains occult magic
+ 
+
+161
+00:03:22,720 --> 00:03:25,350
+Player core one explains occult magic
+like this. The practitioners of occult
+
+162
+00:03:25,350 --> 00:03:25,360
+like this. The practitioners of occult
+ 
+
+163
+00:03:25,360 --> 00:03:27,509
+like this. The practitioners of occult
+traditions seek to understand the
+
+164
+00:03:27,509 --> 00:03:27,519
+traditions seek to understand the
+ 
+
+165
+00:03:27,519 --> 00:03:30,630
+traditions seek to understand the
+unexplainable, categorize the bizarre,
+
+166
+00:03:30,630 --> 00:03:30,640
+unexplainable, categorize the bizarre,
+ 
+
+167
+00:03:30,640 --> 00:03:33,509
+unexplainable, categorize the bizarre,
+and otherwise access the ephemeral in a
+
+168
+00:03:33,509 --> 00:03:33,519
+and otherwise access the ephemeral in a
+ 
+
+169
+00:03:33,519 --> 00:03:36,229
+and otherwise access the ephemeral in a
+systematic way. And when I read that to
+
+170
+00:03:36,229 --> 00:03:36,239
+systematic way. And when I read that to
+ 
+
+171
+00:03:36,239 --> 00:03:38,149
+systematic way. And when I read that to
+players, their response is always the
+
+172
+00:03:38,149 --> 00:03:38,159
+players, their response is always the
+ 
+
+173
+00:03:38,159 --> 00:03:40,550
+players, their response is always the
+same. They always ask, "What does that
+
+174
+00:03:40,550 --> 00:03:40,560
+same. They always ask, "What does that
+ 
+
+175
+00:03:40,560 --> 00:03:44,070
+same. They always ask, "What does that
+actually mean?" Oult magic is the realm
+
+176
+00:03:44,070 --> 00:03:44,080
+actually mean?" Oult magic is the realm
+ 
+
+177
+00:03:44,080 --> 00:03:47,270
+actually mean?" Oult magic is the realm
+of witches, hags, cosmic entities,
+
+178
+00:03:47,270 --> 00:03:47,280
+of witches, hags, cosmic entities,
+ 
+
+179
+00:03:47,280 --> 00:03:50,070
+of witches, hags, cosmic entities,
+bizarre beings like great old ones and
+
+180
+00:03:50,070 --> 00:03:50,080
+bizarre beings like great old ones and
+ 
+
+181
+00:03:50,080 --> 00:03:53,990
+bizarre beings like great old ones and
+althus and also spirits, haunted houses
+
+182
+00:03:53,990 --> 00:03:54,000
+althus and also spirits, haunted houses
+ 
+
+183
+00:03:54,000 --> 00:03:56,229
+althus and also spirits, haunted houses
+and many creatures with the aberration
+
+184
+00:03:56,229 --> 00:03:56,239
+and many creatures with the aberration
+ 
+
+185
+00:03:56,239 --> 00:03:58,550
+and many creatures with the aberration
+trait. One of my players has taken to
+
+186
+00:03:58,550 --> 00:03:58,560
+trait. One of my players has taken to
+ 
+
+187
+00:03:58,560 --> 00:04:01,750
+trait. One of my players has taken to
+calling it spooky magic. And I think in
+
+188
+00:04:01,750 --> 00:04:01,760
+calling it spooky magic. And I think in
+ 
+
+189
+00:04:01,760 --> 00:04:04,710
+calling it spooky magic. And I think in
+most cases that kind of sums up occult
+
+190
+00:04:04,710 --> 00:04:04,720
+most cases that kind of sums up occult
+ 
+
+191
+00:04:04,720 --> 00:04:07,589
+most cases that kind of sums up occult
+magic nicely. Occult magic is spooky
+
+192
+00:04:07,589 --> 00:04:07,599
+magic nicely. Occult magic is spooky
+ 
+
+193
+00:04:07,599 --> 00:04:10,949
+magic nicely. Occult magic is spooky
+magic. But bards also practice occult
+
+194
+00:04:10,949 --> 00:04:10,959
+magic. But bards also practice occult
+ 
+
+195
+00:04:10,959 --> 00:04:12,949
+magic. But bards also practice occult
+magic. And they're not typically
+
+196
+00:04:12,949 --> 00:04:12,959
+magic. And they're not typically
+ 
+
+197
+00:04:12,959 --> 00:04:15,350
+magic. And they're not typically
+considered to be spooky. And this leads
+
+198
+00:04:15,350 --> 00:04:15,360
+considered to be spooky. And this leads
+ 
+
+199
+00:04:15,360 --> 00:04:17,749
+considered to be spooky. And this leads
+one of my groups to refer to oultism as
+
+200
+00:04:17,749 --> 00:04:17,759
+one of my groups to refer to oultism as
+ 
+
+201
+00:04:17,759 --> 00:04:20,949
+one of my groups to refer to oultism as
+quote other magic. As in there's arcane,
+
+202
+00:04:20,949 --> 00:04:20,959
+quote other magic. As in there's arcane,
+ 
+
+203
+00:04:20,959 --> 00:04:23,590
+quote other magic. As in there's arcane,
+divine, and primal magic. And if it
+
+204
+00:04:23,590 --> 00:04:23,600
+divine, and primal magic. And if it
+ 
+
+205
+00:04:23,600 --> 00:04:26,230
+divine, and primal magic. And if it
+doesn't fit into one of those easier to
+
+206
+00:04:26,230 --> 00:04:26,240
+doesn't fit into one of those easier to
+ 
+
+207
+00:04:26,240 --> 00:04:28,550
+doesn't fit into one of those easier to
+understand traditions, then it's occult
+
+208
+00:04:28,550 --> 00:04:28,560
+understand traditions, then it's occult
+ 
+
+209
+00:04:28,560 --> 00:04:30,870
+understand traditions, then it's occult
+or other magic. Whether you want to
+
+210
+00:04:30,870 --> 00:04:30,880
+or other magic. Whether you want to
+ 
+
+211
+00:04:30,880 --> 00:04:33,510
+or other magic. Whether you want to
+think of it as a cult or spooky or other
+
+212
+00:04:33,510 --> 00:04:33,520
+think of it as a cult or spooky or other
+ 
+
+213
+00:04:33,520 --> 00:04:35,749
+think of it as a cult or spooky or other
+magic, just know that this form of magic
+
+214
+00:04:35,749 --> 00:04:35,759
+magic, just know that this form of magic
+ 
+
+215
+00:04:35,759 --> 00:04:38,310
+magic, just know that this form of magic
+is primarily practiced by bards,
+
+216
+00:04:38,310 --> 00:04:38,320
+is primarily practiced by bards,
+ 
+
+217
+00:04:38,320 --> 00:04:40,390
+is primarily practiced by bards,
+witches, and some sorcerers with the
+
+218
+00:04:40,390 --> 00:04:40,400
+witches, and some sorcerers with the
+ 
+
+219
+00:04:40,400 --> 00:04:43,909
+witches, and some sorcerers with the
+aberant and hag bloodlines.
+
+220
+00:04:43,909 --> 00:04:43,919
+aberant and hag bloodlines.
+ 
+
+221
+00:04:43,919 --> 00:04:46,150
+aberant and hag bloodlines.
+In addition to the traditions, there are
+
+222
+00:04:46,150 --> 00:04:46,160
+In addition to the traditions, there are
+ 
+
+223
+00:04:46,160 --> 00:04:49,189
+In addition to the traditions, there are
+also four essences of magic. I'm not
+
+224
+00:04:49,189 --> 00:04:49,199
+also four essences of magic. I'm not
+ 
+
+225
+00:04:49,199 --> 00:04:51,590
+also four essences of magic. I'm not
+going to spend too much time on this as
+
+226
+00:04:51,590 --> 00:04:51,600
+going to spend too much time on this as
+ 
+
+227
+00:04:51,600 --> 00:04:54,070
+going to spend too much time on this as
+the essences don't really impact the
+
+228
+00:04:54,070 --> 00:04:54,080
+the essences don't really impact the
+ 
+
+229
+00:04:54,080 --> 00:04:56,310
+the essences don't really impact the
+mechanics of the game, but it is helpful
+
+230
+00:04:56,310 --> 00:04:56,320
+mechanics of the game, but it is helpful
+ 
+
+231
+00:04:56,320 --> 00:04:58,710
+mechanics of the game, but it is helpful
+to know what the essences are and how
+
+232
+00:04:58,710 --> 00:04:58,720
+to know what the essences are and how
+ 
+
+233
+00:04:58,720 --> 00:05:00,629
+to know what the essences are and how
+they relate to the four magical
+
+234
+00:05:00,629 --> 00:05:00,639
+they relate to the four magical
+ 
+
+235
+00:05:00,639 --> 00:05:03,110
+they relate to the four magical
+traditions. Commonly held beliefs in
+
+236
+00:05:03,110 --> 00:05:03,120
+traditions. Commonly held beliefs in
+ 
+
+237
+00:05:03,120 --> 00:05:05,990
+traditions. Commonly held beliefs in
+Golarian say that all of existence and
+
+238
+00:05:05,990 --> 00:05:06,000
+Golarian say that all of existence and
+ 
+
+239
+00:05:06,000 --> 00:05:08,629
+Golarian say that all of existence and
+reality is composed of some combination
+
+240
+00:05:08,629 --> 00:05:08,639
+reality is composed of some combination
+ 
+
+241
+00:05:08,639 --> 00:05:12,070
+reality is composed of some combination
+of four essences and those are matter,
+
+242
+00:05:12,070 --> 00:05:12,080
+of four essences and those are matter,
+ 
+
+243
+00:05:12,080 --> 00:05:15,590
+of four essences and those are matter,
+spirit, mind, and life. The essence of
+
+244
+00:05:15,590 --> 00:05:15,600
+spirit, mind, and life. The essence of
+ 
+
+245
+00:05:15,600 --> 00:05:18,390
+spirit, mind, and life. The essence of
+matter or material essence deals with
+
+246
+00:05:18,390 --> 00:05:18,400
+matter or material essence deals with
+ 
+
+247
+00:05:18,400 --> 00:05:20,870
+matter or material essence deals with
+the physical world. The essence of
+
+248
+00:05:20,870 --> 00:05:20,880
+the physical world. The essence of
+ 
+
+249
+00:05:20,880 --> 00:05:23,830
+the physical world. The essence of
+spirit deals with the soul or the
+
+250
+00:05:23,830 --> 00:05:23,840
+spirit deals with the soul or the
+ 
+
+251
+00:05:23,840 --> 00:05:26,790
+spirit deals with the soul or the
+non-material and immortal parts of a
+
+252
+00:05:26,790 --> 00:05:26,800
+non-material and immortal parts of a
+ 
+
+253
+00:05:26,800 --> 00:05:29,909
+non-material and immortal parts of a
+living being. The mind essence allows
+
+254
+00:05:29,909 --> 00:05:29,919
+living being. The mind essence allows
+ 
+
+255
+00:05:29,919 --> 00:05:31,749
+living being. The mind essence allows
+thinking creatures to have rational
+
+256
+00:05:31,749 --> 00:05:31,759
+thinking creatures to have rational
+ 
+
+257
+00:05:31,759 --> 00:05:33,990
+thinking creatures to have rational
+thought and for animals to behave on
+
+258
+00:05:33,990 --> 00:05:34,000
+thought and for animals to behave on
+ 
+
+259
+00:05:34,000 --> 00:05:36,390
+thought and for animals to behave on
+instinct. And the life essence
+
+260
+00:05:36,390 --> 00:05:36,400
+instinct. And the life essence
+ 
+
+261
+00:05:36,400 --> 00:05:39,029
+instinct. And the life essence
+represents the animating universal force
+
+262
+00:05:39,029 --> 00:05:39,039
+represents the animating universal force
+ 
+
+263
+00:05:39,039 --> 00:05:41,909
+represents the animating universal force
+within all living things. Whereas matter
+
+264
+00:05:41,909 --> 00:05:41,919
+within all living things. Whereas matter
+ 
+
+265
+00:05:41,919 --> 00:05:44,790
+within all living things. Whereas matter
+provides the base materials for a body,
+
+266
+00:05:44,790 --> 00:05:44,800
+provides the base materials for a body,
+ 
+
+267
+00:05:44,800 --> 00:05:48,230
+provides the base materials for a body,
+life keeps it alive and well. Now, the
+
+268
+00:05:48,230 --> 00:05:48,240
+life keeps it alive and well. Now, the
+ 
+
+269
+00:05:48,240 --> 00:05:50,790
+life keeps it alive and well. Now, the
+reason why it's helpful for players to
+
+270
+00:05:50,790 --> 00:05:50,800
+reason why it's helpful for players to
+ 
+
+271
+00:05:50,800 --> 00:05:53,430
+reason why it's helpful for players to
+know about the four essences is because
+
+272
+00:05:53,430 --> 00:05:53,440
+know about the four essences is because
+ 
+
+273
+00:05:53,440 --> 00:05:56,390
+know about the four essences is because
+each tradition focuses on exactly two of
+
+274
+00:05:56,390 --> 00:05:56,400
+each tradition focuses on exactly two of
+ 
+
+275
+00:05:56,400 --> 00:05:58,390
+each tradition focuses on exactly two of
+these. And understanding that
+
+276
+00:05:58,390 --> 00:05:58,400
+these. And understanding that
+ 
+
+277
+00:05:58,400 --> 00:06:00,310
+these. And understanding that
+relationship will help shed some light
+
+278
+00:06:00,310 --> 00:06:00,320
+relationship will help shed some light
+ 
+
+279
+00:06:00,320 --> 00:06:02,790
+relationship will help shed some light
+on what kind of spells each tradition
+
+280
+00:06:02,790 --> 00:06:02,800
+on what kind of spells each tradition
+ 
+
+281
+00:06:02,800 --> 00:06:05,350
+on what kind of spells each tradition
+excels with. The arcane tradition
+
+282
+00:06:05,350 --> 00:06:05,360
+excels with. The arcane tradition
+ 
+
+283
+00:06:05,360 --> 00:06:08,950
+excels with. The arcane tradition
+focuses on the matter and mind essences.
+
+284
+00:06:08,950 --> 00:06:08,960
+focuses on the matter and mind essences.
+ 
+
+285
+00:06:08,960 --> 00:06:11,590
+focuses on the matter and mind essences.
+Arcane spellcasters have a very, very
+
+286
+00:06:11,590 --> 00:06:11,600
+Arcane spellcasters have a very, very
+ 
+
+287
+00:06:11,600 --> 00:06:13,830
+Arcane spellcasters have a very, very
+broad selection of spells, but are
+
+288
+00:06:13,830 --> 00:06:13,840
+broad selection of spells, but are
+ 
+
+289
+00:06:13,840 --> 00:06:16,150
+broad selection of spells, but are
+extremely limited when it comes to the
+
+290
+00:06:16,150 --> 00:06:16,160
+extremely limited when it comes to the
+ 
+
+291
+00:06:16,160 --> 00:06:18,550
+extremely limited when it comes to the
+essences of life and spirit. So, they're
+
+292
+00:06:18,550 --> 00:06:18,560
+essences of life and spirit. So, they're
+ 
+
+293
+00:06:18,560 --> 00:06:20,309
+essences of life and spirit. So, they're
+not very well equipped when it comes to
+
+294
+00:06:20,309 --> 00:06:20,319
+not very well equipped when it comes to
+ 
+
+295
+00:06:20,319 --> 00:06:22,230
+not very well equipped when it comes to
+healing. That's not to say a wizard
+
+296
+00:06:22,230 --> 00:06:22,240
+healing. That's not to say a wizard
+ 
+
+297
+00:06:22,240 --> 00:06:25,029
+healing. That's not to say a wizard
+can't cast some life or spirit essence
+
+298
+00:06:25,029 --> 00:06:25,039
+can't cast some life or spirit essence
+ 
+
+299
+00:06:25,039 --> 00:06:27,350
+can't cast some life or spirit essence
+spells, but there are far fewer spells
+
+300
+00:06:27,350 --> 00:06:27,360
+spells, but there are far fewer spells
+ 
+
+301
+00:06:27,360 --> 00:06:29,510
+spells, but there are far fewer spells
+of those essences on the arcane spell
+
+302
+00:06:29,510 --> 00:06:29,520
+of those essences on the arcane spell
+ 
+
+303
+00:06:29,520 --> 00:06:31,909
+of those essences on the arcane spell
+list than spells that deal with the
+
+304
+00:06:31,909 --> 00:06:31,919
+list than spells that deal with the
+ 
+
+305
+00:06:31,919 --> 00:06:34,950
+list than spells that deal with the
+matter and mind essences. The divine
+
+306
+00:06:34,950 --> 00:06:34,960
+matter and mind essences. The divine
+ 
+
+307
+00:06:34,960 --> 00:06:37,110
+matter and mind essences. The divine
+tradition is the polar opposite of the
+
+308
+00:06:37,110 --> 00:06:37,120
+tradition is the polar opposite of the
+ 
+
+309
+00:06:37,120 --> 00:06:39,510
+tradition is the polar opposite of the
+arcane tradition in that the divine
+
+310
+00:06:39,510 --> 00:06:39,520
+arcane tradition in that the divine
+ 
+
+311
+00:06:39,520 --> 00:06:42,469
+arcane tradition in that the divine
+spell list focuses on the spirit and
+
+312
+00:06:42,469 --> 00:06:42,479
+spell list focuses on the spirit and
+ 
+
+313
+00:06:42,479 --> 00:06:45,110
+spell list focuses on the spirit and
+life essences. Which isn't to say they
+
+314
+00:06:45,110 --> 00:06:45,120
+life essences. Which isn't to say they
+ 
+
+315
+00:06:45,120 --> 00:06:46,790
+life essences. Which isn't to say they
+don't also have spells that lend
+
+316
+00:06:46,790 --> 00:06:46,800
+don't also have spells that lend
+ 
+
+317
+00:06:46,800 --> 00:06:49,830
+don't also have spells that lend
+themselves to other essences, but divine
+
+318
+00:06:49,830 --> 00:06:49,840
+themselves to other essences, but divine
+ 
+
+319
+00:06:49,840 --> 00:06:52,150
+themselves to other essences, but divine
+casters really shine when it comes to
+
+320
+00:06:52,150 --> 00:06:52,160
+casters really shine when it comes to
+ 
+
+321
+00:06:52,160 --> 00:06:54,390
+casters really shine when it comes to
+matters of healing and the immortal
+
+322
+00:06:54,390 --> 00:06:54,400
+matters of healing and the immortal
+ 
+
+323
+00:06:54,400 --> 00:06:57,670
+matters of healing and the immortal
+soul. The occult tradition focuses on
+
+324
+00:06:57,670 --> 00:06:57,680
+soul. The occult tradition focuses on
+ 
+
+325
+00:06:57,680 --> 00:07:00,550
+soul. The occult tradition focuses on
+the spirit and mind essences. Therefore,
+
+326
+00:07:00,550 --> 00:07:00,560
+the spirit and mind essences. Therefore,
+ 
+
+327
+00:07:00,560 --> 00:07:03,270
+the spirit and mind essences. Therefore,
+we can expect bards and witches to excel
+
+328
+00:07:03,270 --> 00:07:03,280
+we can expect bards and witches to excel
+ 
+
+329
+00:07:03,280 --> 00:07:06,150
+we can expect bards and witches to excel
+at inspiring allies and demoralizing
+
+330
+00:07:06,150 --> 00:07:06,160
+at inspiring allies and demoralizing
+ 
+
+331
+00:07:06,160 --> 00:07:09,270
+at inspiring allies and demoralizing
+their foes. And last, the primal
+
+332
+00:07:09,270 --> 00:07:09,280
+their foes. And last, the primal
+ 
+
+333
+00:07:09,280 --> 00:07:11,990
+their foes. And last, the primal
+tradition is the opposite of the occult
+
+334
+00:07:11,990 --> 00:07:12,000
+tradition is the opposite of the occult
+ 
+
+335
+00:07:12,000 --> 00:07:14,150
+tradition is the opposite of the occult
+tradition in that it deals with the
+
+336
+00:07:14,150 --> 00:07:14,160
+tradition in that it deals with the
+ 
+
+337
+00:07:14,160 --> 00:07:17,670
+tradition in that it deals with the
+matter and life essences. So, druids
+
+338
+00:07:17,670 --> 00:07:17,680
+matter and life essences. So, druids
+ 
+
+339
+00:07:17,680 --> 00:07:19,510
+matter and life essences. So, druids
+have more spells that focus on
+
+340
+00:07:19,510 --> 00:07:19,520
+have more spells that focus on
+ 
+
+341
+00:07:19,520 --> 00:07:21,909
+have more spells that focus on
+manipulating the physical realm, like
+
+342
+00:07:21,909 --> 00:07:21,919
+manipulating the physical realm, like
+ 
+
+343
+00:07:21,919 --> 00:07:23,990
+manipulating the physical realm, like
+growing claws, summoning animals, or
+
+344
+00:07:23,990 --> 00:07:24,000
+growing claws, summoning animals, or
+ 
+
+345
+00:07:24,000 --> 00:07:26,070
+growing claws, summoning animals, or
+manipulating the weather, as well as
+
+346
+00:07:26,070 --> 00:07:26,080
+manipulating the weather, as well as
+ 
+
+347
+00:07:26,080 --> 00:07:28,390
+manipulating the weather, as well as
+spells that enhance the life energy that
+
+348
+00:07:28,390 --> 00:07:28,400
+spells that enhance the life energy that
+ 
+
+349
+00:07:28,400 --> 00:07:31,670
+spells that enhance the life energy that
+flows through all living things.
+
+350
+00:07:31,670 --> 00:07:31,680
+flows through all living things.
+ 
+
+351
+00:07:31,680 --> 00:07:34,309
+flows through all living things.
+This video has served as a foundation to
+
+352
+00:07:34,309 --> 00:07:34,319
+This video has served as a foundation to
+ 
+
+353
+00:07:34,319 --> 00:07:36,710
+This video has served as a foundation to
+help understand how magic is organized
+
+354
+00:07:36,710 --> 00:07:36,720
+help understand how magic is organized
+ 
+
+355
+00:07:36,720 --> 00:07:39,270
+help understand how magic is organized
+within Pathfinder. And in the next part
+
+356
+00:07:39,270 --> 00:07:39,280
+within Pathfinder. And in the next part
+ 
+
+357
+00:07:39,280 --> 00:07:40,950
+within Pathfinder. And in the next part
+of the series, we're going to dive
+
+358
+00:07:40,950 --> 00:07:40,960
+of the series, we're going to dive
+ 
+
+359
+00:07:40,960 --> 00:07:43,430
+of the series, we're going to dive
+deeper into topics such as prepared
+
+360
+00:07:43,430 --> 00:07:43,440
+deeper into topics such as prepared
+ 
+
+361
+00:07:43,440 --> 00:07:45,909
+deeper into topics such as prepared
+versus spontaneous spellcasting, spell
+
+362
+00:07:45,909 --> 00:07:45,919
+versus spontaneous spellcasting, spell
+ 
+
+363
+00:07:45,919 --> 00:07:48,629
+versus spontaneous spellcasting, spell
+slots, and heightening spells. If you
+
+364
+00:07:48,629 --> 00:07:48,639
+slots, and heightening spells. If you
+ 
+
+365
+00:07:48,639 --> 00:07:50,390
+slots, and heightening spells. If you
+have any questions, please leave them in
+
+366
+00:07:50,390 --> 00:07:50,400
+have any questions, please leave them in
+ 
+
+367
+00:07:50,400 --> 00:07:52,550
+have any questions, please leave them in
+the comments below. And as always, I
+
+368
+00:07:52,550 --> 00:07:52,560
+the comments below. And as always, I
+ 
+
+369
+00:07:52,560 --> 00:07:53,909
+the comments below. And as always, I
+want to take a brief moment to thank
+
+370
+00:07:53,909 --> 00:07:53,919
+want to take a brief moment to thank
+ 
+
+371
+00:07:53,919 --> 00:07:55,589
+want to take a brief moment to thank
+everyone who supports me and this
+
+372
+00:07:55,589 --> 00:07:55,599
+everyone who supports me and this
+ 
+
+373
+00:07:55,599 --> 00:07:57,749
+everyone who supports me and this
+channel. Whether you do that by liking
+
+374
+00:07:57,749 --> 00:07:57,759
+channel. Whether you do that by liking
+ 
+
+375
+00:07:57,759 --> 00:07:59,430
+channel. Whether you do that by liking
+the video, leaving a comment,
+
+376
+00:07:59,430 --> 00:07:59,440
+the video, leaving a comment,
+ 
+
+377
+00:07:59,440 --> 00:08:00,710
+the video, leaving a comment,
+subscribing to the channel, or
+
+378
+00:08:00,710 --> 00:08:00,720
+subscribing to the channel, or
+ 
+
+379
+00:08:00,720 --> 00:08:03,270
+subscribing to the channel, or
+subscribing to the Patreon, I appreciate
+
+380
+00:08:03,270 --> 00:08:03,280
+subscribing to the Patreon, I appreciate
+ 
+
+381
+00:08:03,280 --> 00:08:05,430
+subscribing to the Patreon, I appreciate
+everything you do to support me. And
+
+382
+00:08:05,430 --> 00:08:05,440
+everything you do to support me. And
+ 
+
+383
+00:08:05,440 --> 00:08:07,029
+everything you do to support me. And
+with that, thanks for watching. Take
+
+384
+00:08:07,029 --> 00:08:07,039
+with that, thanks for watching. Take
+ 
+
+385
+00:08:07,039 --> 00:08:11,245
+with that, thanks for watching. Take
+care and happy gaming.
+
+386
+00:08:11,245 --> 00:08:11,255
+
+ 
+
+387
+00:08:11,255 --> 00:08:13,275
+
+[music]
+

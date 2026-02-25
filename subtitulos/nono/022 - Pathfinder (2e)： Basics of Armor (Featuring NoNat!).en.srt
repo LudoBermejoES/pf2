@@ -1,0 +1,2665 @@
+1
+00:00:01,199 --> 00:00:03,429
+
+hello and welcome to basics for gamers
+
+2
+00:00:03,429 --> 00:00:03,439
+hello and welcome to basics for gamers
+ 
+
+3
+00:00:03,439 --> 00:00:04,150
+hello and welcome to basics for gamers
+presents
+
+4
+00:00:04,150 --> 00:00:04,160
+presents
+ 
+
+5
+00:00:04,160 --> 00:00:06,710
+presents
+the basics of armor in pathfinder second
+
+6
+00:00:06,710 --> 00:00:06,720
+the basics of armor in pathfinder second
+ 
+
+7
+00:00:06,720 --> 00:00:07,430
+the basics of armor in pathfinder second
+edition
+
+8
+00:00:07,430 --> 00:00:07,440
+edition
+ 
+
+9
+00:00:07,440 --> 00:00:09,830
+edition
+but this time i'm not alone with me
+
+10
+00:00:09,830 --> 00:00:09,840
+but this time i'm not alone with me
+ 
+
+11
+00:00:09,840 --> 00:00:10,870
+but this time i'm not alone with me
+today is my friend
+
+12
+00:00:10,870 --> 00:00:10,880
+today is my friend
+ 
+
+13
+00:00:10,880 --> 00:00:13,430
+today is my friend
+and fellow pathfinder youtuber nonat
+
+14
+00:00:13,430 --> 00:00:13,440
+and fellow pathfinder youtuber nonat
+ 
+
+15
+00:00:13,440 --> 00:00:14,709
+and fellow pathfinder youtuber nonat
+howdy everyone
+
+16
+00:00:14,709 --> 00:00:14,719
+howdy everyone
+ 
+
+17
+00:00:14,719 --> 00:00:16,870
+howdy everyone
+nunet has a great channel dedicated to
+
+18
+00:00:16,870 --> 00:00:16,880
+nunet has a great channel dedicated to
+ 
+
+19
+00:00:16,880 --> 00:00:18,950
+nunet has a great channel dedicated to
+tabletop gaming and pathfinder
+
+20
+00:00:18,950 --> 00:00:18,960
+tabletop gaming and pathfinder
+ 
+
+21
+00:00:18,960 --> 00:00:20,630
+tabletop gaming and pathfinder
+and you can find his channel linked in
+
+22
+00:00:20,630 --> 00:00:20,640
+and you can find his channel linked in
+ 
+
+23
+00:00:20,640 --> 00:00:23,029
+and you can find his channel linked in
+the comments if you like my content
+
+24
+00:00:23,029 --> 00:00:23,039
+the comments if you like my content
+ 
+
+25
+00:00:23,039 --> 00:00:25,109
+the comments if you like my content
+then there's a good chance you're going
+
+26
+00:00:25,109 --> 00:00:25,119
+then there's a good chance you're going
+ 
+
+27
+00:00:25,119 --> 00:00:27,509
+then there's a good chance you're going
+to like us too so go check it out
+
+28
+00:00:27,509 --> 00:00:27,519
+to like us too so go check it out
+ 
+
+29
+00:00:27,519 --> 00:00:29,669
+to like us too so go check it out
+he and i decided to join forces to
+
+30
+00:00:29,669 --> 00:00:29,679
+he and i decided to join forces to
+ 
+
+31
+00:00:29,679 --> 00:00:31,589
+he and i decided to join forces to
+tackle the subjects of weapons
+
+32
+00:00:31,589 --> 00:00:31,599
+tackle the subjects of weapons
+ 
+
+33
+00:00:31,599 --> 00:00:33,990
+tackle the subjects of weapons
+and armor with me taking the lead on
+
+34
+00:00:33,990 --> 00:00:34,000
+and armor with me taking the lead on
+ 
+
+35
+00:00:34,000 --> 00:00:34,950
+and armor with me taking the lead on
+armor here
+
+36
+00:00:34,950 --> 00:00:34,960
+armor here
+ 
+
+37
+00:00:34,960 --> 00:00:36,870
+armor here
+and you'll be able to find the companion
+
+38
+00:00:36,870 --> 00:00:36,880
+and you'll be able to find the companion
+ 
+
+39
+00:00:36,880 --> 00:00:37,990
+and you'll be able to find the companion
+video to this one
+
+40
+00:00:37,990 --> 00:00:38,000
+video to this one
+ 
+
+41
+00:00:38,000 --> 00:00:40,790
+video to this one
+that's all about weapons over on his
+
+42
+00:00:40,790 --> 00:00:40,800
+that's all about weapons over on his
+ 
+
+43
+00:00:40,800 --> 00:00:43,110
+that's all about weapons over on his
+channel
+
+44
+00:00:43,110 --> 00:00:43,120
+channel
+ 
+
+45
+00:00:43,120 --> 00:00:45,190
+channel
+armor and pathfinder is pretty
+
+46
+00:00:45,190 --> 00:00:45,200
+armor and pathfinder is pretty
+ 
+
+47
+00:00:45,200 --> 00:00:46,229
+armor and pathfinder is pretty
+straightforward
+
+48
+00:00:46,229 --> 00:00:46,239
+straightforward
+ 
+
+49
+00:00:46,239 --> 00:00:47,910
+straightforward
+especially if you're familiar with other
+
+50
+00:00:47,910 --> 00:00:47,920
+especially if you're familiar with other
+ 
+
+51
+00:00:47,920 --> 00:00:49,510
+especially if you're familiar with other
+d20 rpgs
+
+52
+00:00:49,510 --> 00:00:49,520
+d20 rpgs
+ 
+
+53
+00:00:49,520 --> 00:00:51,910
+d20 rpgs
+all creatures have an armor class which
+
+54
+00:00:51,910 --> 00:00:51,920
+all creatures have an armor class which
+ 
+
+55
+00:00:51,920 --> 00:00:54,790
+all creatures have an armor class which
+is the dc that must be met or surpassed
+
+56
+00:00:54,790 --> 00:00:54,800
+is the dc that must be met or surpassed
+ 
+
+57
+00:00:54,800 --> 00:00:57,029
+is the dc that must be met or surpassed
+by an attack role in order to deal
+
+58
+00:00:57,029 --> 00:00:57,039
+by an attack role in order to deal
+ 
+
+59
+00:00:57,039 --> 00:00:58,470
+by an attack role in order to deal
+damage to them
+
+60
+00:00:58,470 --> 00:00:58,480
+damage to them
+ 
+
+61
+00:00:58,480 --> 00:01:01,349
+damage to them
+the base calculation for armor class is
+
+62
+00:01:01,349 --> 00:01:01,359
+the base calculation for armor class is
+ 
+
+63
+00:01:01,359 --> 00:01:02,069
+the base calculation for armor class is
+10
+
+64
+00:01:02,069 --> 00:01:02,079
+10
+ 
+
+65
+00:01:02,079 --> 00:01:05,189
+10
+plus the armor's ac bonus plus your
+
+66
+00:01:05,189 --> 00:01:05,199
+plus the armor's ac bonus plus your
+ 
+
+67
+00:01:05,199 --> 00:01:06,789
+plus the armor's ac bonus plus your
+proficiency bonus
+
+68
+00:01:06,789 --> 00:01:06,799
+proficiency bonus
+ 
+
+69
+00:01:06,799 --> 00:01:09,910
+proficiency bonus
+plus your dexterity modifier up to the
+
+70
+00:01:09,910 --> 00:01:09,920
+plus your dexterity modifier up to the
+ 
+
+71
+00:01:09,920 --> 00:01:11,990
+plus your dexterity modifier up to the
+armor's limit and we'll talk about that
+
+72
+00:01:11,990 --> 00:01:12,000
+armor's limit and we'll talk about that
+ 
+
+73
+00:01:12,000 --> 00:01:13,830
+armor's limit and we'll talk about that
+piece in just a second
+
+74
+00:01:13,830 --> 00:01:13,840
+piece in just a second
+ 
+
+75
+00:01:13,840 --> 00:01:16,390
+piece in just a second
+this total can be further modified by
+
+76
+00:01:16,390 --> 00:01:16,400
+this total can be further modified by
+ 
+
+77
+00:01:16,400 --> 00:01:17,270
+this total can be further modified by
+any other
+
+78
+00:01:17,270 --> 00:01:17,280
+any other
+ 
+
+79
+00:01:17,280 --> 00:01:20,630
+any other
+special circumstances or situations
+
+80
+00:01:20,630 --> 00:01:20,640
+special circumstances or situations
+ 
+
+81
+00:01:20,640 --> 00:01:23,030
+special circumstances or situations
+but for our purposes this is the
+
+82
+00:01:23,030 --> 00:01:23,040
+but for our purposes this is the
+ 
+
+83
+00:01:23,040 --> 00:01:24,550
+but for our purposes this is the
+calculation that we're going to use when
+
+84
+00:01:24,550 --> 00:01:24,560
+calculation that we're going to use when
+ 
+
+85
+00:01:24,560 --> 00:01:25,830
+calculation that we're going to use when
+discussing the base
+
+86
+00:01:25,830 --> 00:01:25,840
+discussing the base
+ 
+
+87
+00:01:25,840 --> 00:01:28,950
+discussing the base
+armor class so let's say your second
+
+88
+00:01:28,950 --> 00:01:28,960
+armor class so let's say your second
+ 
+
+89
+00:01:28,960 --> 00:01:29,429
+armor class so let's say your second
+level
+
+90
+00:01:29,429 --> 00:01:29,439
+level
+ 
+
+91
+00:01:29,439 --> 00:01:31,990
+level
+with a 14 dexterity and trained in
+
+92
+00:01:31,990 --> 00:01:32,000
+with a 14 dexterity and trained in
+ 
+
+93
+00:01:32,000 --> 00:01:33,270
+with a 14 dexterity and trained in
+medium armor
+
+94
+00:01:33,270 --> 00:01:33,280
+medium armor
+ 
+
+95
+00:01:33,280 --> 00:01:35,590
+medium armor
+if you wear chain mail your armor class
+
+96
+00:01:35,590 --> 00:01:35,600
+if you wear chain mail your armor class
+ 
+
+97
+00:01:35,600 --> 00:01:37,030
+if you wear chain mail your armor class
+will be 10
+
+98
+00:01:37,030 --> 00:01:37,040
+will be 10
+ 
+
+99
+00:01:37,040 --> 00:01:40,630
+will be 10
+plus chainmail's ac bonus of four
+
+100
+00:01:40,630 --> 00:01:40,640
+plus chainmail's ac bonus of four
+ 
+
+101
+00:01:40,640 --> 00:01:43,429
+plus chainmail's ac bonus of four
+plus your proficiency bonus of four
+
+102
+00:01:43,429 --> 00:01:43,439
+plus your proficiency bonus of four
+ 
+
+103
+00:01:43,439 --> 00:01:44,230
+plus your proficiency bonus of four
+that's two
+
+104
+00:01:44,230 --> 00:01:44,240
+that's two
+ 
+
+105
+00:01:44,240 --> 00:01:46,550
+that's two
+for being trained plus two more for
+
+106
+00:01:46,550 --> 00:01:46,560
+for being trained plus two more for
+ 
+
+107
+00:01:46,560 --> 00:01:48,069
+for being trained plus two more for
+being second level
+
+108
+00:01:48,069 --> 00:01:48,079
+being second level
+ 
+
+109
+00:01:48,079 --> 00:01:50,469
+being second level
+and finally plus one more for your
+
+110
+00:01:50,469 --> 00:01:50,479
+and finally plus one more for your
+ 
+
+111
+00:01:50,479 --> 00:01:51,749
+and finally plus one more for your
+dexterity
+
+112
+00:01:51,749 --> 00:01:51,759
+dexterity
+ 
+
+113
+00:01:51,759 --> 00:01:54,710
+dexterity
+although a dexterity score 14 has a
+
+114
+00:01:54,710 --> 00:01:54,720
+although a dexterity score 14 has a
+ 
+
+115
+00:01:54,720 --> 00:01:55,830
+although a dexterity score 14 has a
+modifier of plus
+
+116
+00:01:55,830 --> 00:01:55,840
+modifier of plus
+ 
+
+117
+00:01:55,840 --> 00:01:58,950
+modifier of plus
+two we see here that chainmail
+
+118
+00:01:58,950 --> 00:01:58,960
+two we see here that chainmail
+ 
+
+119
+00:01:58,960 --> 00:02:01,990
+two we see here that chainmail
+has a dexcap of plus one
+
+120
+00:02:01,990 --> 00:02:02,000
+has a dexcap of plus one
+ 
+
+121
+00:02:02,000 --> 00:02:04,230
+has a dexcap of plus one
+meaning that's the highest bonus you can
+
+122
+00:02:04,230 --> 00:02:04,240
+meaning that's the highest bonus you can
+ 
+
+123
+00:02:04,240 --> 00:02:05,590
+meaning that's the highest bonus you can
+receive for dexterity
+
+124
+00:02:05,590 --> 00:02:05,600
+receive for dexterity
+ 
+
+125
+00:02:05,600 --> 00:02:08,229
+receive for dexterity
+so in this case it's a plus one instead
+
+126
+00:02:08,229 --> 00:02:08,239
+so in this case it's a plus one instead
+ 
+
+127
+00:02:08,239 --> 00:02:10,150
+so in this case it's a plus one instead
+of the plus two you usually get
+
+128
+00:02:10,150 --> 00:02:10,160
+of the plus two you usually get
+ 
+
+129
+00:02:10,160 --> 00:02:13,190
+of the plus two you usually get
+for a dexterity of fourteen so
+
+130
+00:02:13,190 --> 00:02:13,200
+for a dexterity of fourteen so
+ 
+
+131
+00:02:13,200 --> 00:02:16,309
+for a dexterity of fourteen so
+ten plus four plus four for proficiency
+
+132
+00:02:16,309 --> 00:02:16,319
+ten plus four plus four for proficiency
+ 
+
+133
+00:02:16,319 --> 00:02:18,949
+ten plus four plus four for proficiency
+and plus one for dexterity equals an
+
+134
+00:02:18,949 --> 00:02:18,959
+and plus one for dexterity equals an
+ 
+
+135
+00:02:18,959 --> 00:02:22,150
+and plus one for dexterity equals an
+armor class score of nineteen
+
+136
+00:02:22,150 --> 00:02:22,160
+armor class score of nineteen
+ 
+
+137
+00:02:22,160 --> 00:02:24,550
+armor class score of nineteen
+if you're not wearing armor then your ac
+
+138
+00:02:24,550 --> 00:02:24,560
+if you're not wearing armor then your ac
+ 
+
+139
+00:02:24,560 --> 00:02:26,309
+if you're not wearing armor then your ac
+is calculated the same way
+
+140
+00:02:26,309 --> 00:02:26,319
+is calculated the same way
+ 
+
+141
+00:02:26,319 --> 00:02:29,030
+is calculated the same way
+but with no ac bonus provided by armor
+
+142
+00:02:29,030 --> 00:02:29,040
+but with no ac bonus provided by armor
+ 
+
+143
+00:02:29,040 --> 00:02:29,430
+but with no ac bonus provided by armor
+and
+
+144
+00:02:29,430 --> 00:02:29,440
+and
+ 
+
+145
+00:02:29,440 --> 00:02:31,190
+and
+you use your unarmored defense
+
+146
+00:02:31,190 --> 00:02:31,200
+you use your unarmored defense
+ 
+
+147
+00:02:31,200 --> 00:02:32,630
+you use your unarmored defense
+proficiency
+
+148
+00:02:32,630 --> 00:02:32,640
+proficiency
+ 
+
+149
+00:02:32,640 --> 00:02:36,070
+proficiency
+on table 6-3 you can find explorer's
+
+150
+00:02:36,070 --> 00:02:36,080
+on table 6-3 you can find explorer's
+ 
+
+151
+00:02:36,080 --> 00:02:36,869
+on table 6-3 you can find explorer's
+clothing
+
+152
+00:02:36,869 --> 00:02:36,879
+clothing
+ 
+
+153
+00:02:36,879 --> 00:02:39,110
+clothing
+which doesn't grant a bonus to armor
+
+154
+00:02:39,110 --> 00:02:39,120
+which doesn't grant a bonus to armor
+ 
+
+155
+00:02:39,120 --> 00:02:40,150
+which doesn't grant a bonus to armor
+class but
+
+156
+00:02:40,150 --> 00:02:40,160
+class but
+ 
+
+157
+00:02:40,160 --> 00:02:43,910
+class but
+does impose a deck's cap of plus 5
+
+158
+00:02:43,910 --> 00:02:43,920
+does impose a deck's cap of plus 5
+ 
+
+159
+00:02:43,920 --> 00:02:45,990
+does impose a deck's cap of plus 5
+so you may be wondering why you would
+
+160
+00:02:45,990 --> 00:02:46,000
+so you may be wondering why you would
+ 
+
+161
+00:02:46,000 --> 00:02:47,990
+so you may be wondering why you would
+want to wear explorer's clothing in the
+
+162
+00:02:47,990 --> 00:02:48,000
+want to wear explorer's clothing in the
+ 
+
+163
+00:02:48,000 --> 00:02:49,110
+want to wear explorer's clothing in the
+first place
+
+164
+00:02:49,110 --> 00:02:49,120
+first place
+ 
+
+165
+00:02:49,120 --> 00:02:51,589
+first place
+and the answer to that is because of
+
+166
+00:02:51,589 --> 00:02:51,599
+and the answer to that is because of
+ 
+
+167
+00:02:51,599 --> 00:02:53,270
+and the answer to that is because of
+runes
+
+168
+00:02:53,270 --> 00:02:53,280
+runes
+ 
+
+169
+00:02:53,280 --> 00:02:55,430
+runes
+explorer's clothing may be etched with
+
+170
+00:02:55,430 --> 00:02:55,440
+explorer's clothing may be etched with
+ 
+
+171
+00:02:55,440 --> 00:02:56,710
+explorer's clothing may be etched with
+magic runes
+
+172
+00:02:56,710 --> 00:02:56,720
+magic runes
+ 
+
+173
+00:02:56,720 --> 00:02:59,509
+magic runes
+just like armor can but technically is
+
+174
+00:02:59,509 --> 00:02:59,519
+just like armor can but technically is
+ 
+
+175
+00:02:59,519 --> 00:02:59,910
+just like armor can but technically is
+not
+
+176
+00:02:59,910 --> 00:02:59,920
+not
+ 
+
+177
+00:02:59,920 --> 00:03:03,030
+not
+armor which means a monk for example can
+
+178
+00:03:03,030 --> 00:03:03,040
+armor which means a monk for example can
+ 
+
+179
+00:03:03,040 --> 00:03:03,430
+armor which means a monk for example can
+wear
+
+180
+00:03:03,430 --> 00:03:03,440
+wear
+ 
+
+181
+00:03:03,440 --> 00:03:06,070
+wear
+explorer's clothing and receive full
+
+182
+00:03:06,070 --> 00:03:06,080
+explorer's clothing and receive full
+ 
+
+183
+00:03:06,080 --> 00:03:07,990
+explorer's clothing and receive full
+benefit of magic runes
+
+184
+00:03:07,990 --> 00:03:08,000
+benefit of magic runes
+ 
+
+185
+00:03:08,000 --> 00:03:13,110
+benefit of magic runes
+while still being technically unarmored
+
+186
+00:03:13,110 --> 00:03:13,120
+
+ 
+
+187
+00:03:13,120 --> 00:03:15,190
+
+while armor is worn for benefit it
+
+188
+00:03:15,190 --> 00:03:15,200
+while armor is worn for benefit it
+ 
+
+189
+00:03:15,200 --> 00:03:17,270
+while armor is worn for benefit it
+should be noted that most armor comes
+
+190
+00:03:17,270 --> 00:03:17,280
+should be noted that most armor comes
+ 
+
+191
+00:03:17,280 --> 00:03:19,509
+should be noted that most armor comes
+with penalties if certain requirements
+
+192
+00:03:19,509 --> 00:03:19,519
+with penalties if certain requirements
+ 
+
+193
+00:03:19,519 --> 00:03:20,869
+with penalties if certain requirements
+are not met
+
+194
+00:03:20,869 --> 00:03:20,879
+are not met
+ 
+
+195
+00:03:20,879 --> 00:03:23,350
+are not met
+while any character can wear any armor
+
+196
+00:03:23,350 --> 00:03:23,360
+while any character can wear any armor
+ 
+
+197
+00:03:23,360 --> 00:03:24,949
+while any character can wear any armor
+if they don't meet or exceed the
+
+198
+00:03:24,949 --> 00:03:24,959
+if they don't meet or exceed the
+ 
+
+199
+00:03:24,959 --> 00:03:26,630
+if they don't meet or exceed the
+strength score listed for the armor
+
+200
+00:03:26,630 --> 00:03:26,640
+strength score listed for the armor
+ 
+
+201
+00:03:26,640 --> 00:03:27,430
+strength score listed for the armor
+they're wearing
+
+202
+00:03:27,430 --> 00:03:27,440
+they're wearing
+ 
+
+203
+00:03:27,440 --> 00:03:29,750
+they're wearing
+they will take a penalty to all strength
+
+204
+00:03:29,750 --> 00:03:29,760
+they will take a penalty to all strength
+ 
+
+205
+00:03:29,760 --> 00:03:31,509
+they will take a penalty to all strength
+and dexterity skill checks
+
+206
+00:03:31,509 --> 00:03:31,519
+and dexterity skill checks
+ 
+
+207
+00:03:31,519 --> 00:03:33,750
+and dexterity skill checks
+except for those with the attack trait
+
+208
+00:03:33,750 --> 00:03:33,760
+except for those with the attack trait
+ 
+
+209
+00:03:33,760 --> 00:03:35,589
+except for those with the attack trait
+in the core rulebook the penalty
+
+210
+00:03:35,589 --> 00:03:35,599
+in the core rulebook the penalty
+ 
+
+211
+00:03:35,599 --> 00:03:38,710
+in the core rulebook the penalty
+is -1 for light armor -2 for medium
+
+212
+00:03:38,710 --> 00:03:38,720
+is -1 for light armor -2 for medium
+ 
+
+213
+00:03:38,720 --> 00:03:41,430
+is -1 for light armor -2 for medium
+armor and -3 for heavy armor
+
+214
+00:03:41,430 --> 00:03:41,440
+armor and -3 for heavy armor
+ 
+
+215
+00:03:41,440 --> 00:03:43,670
+armor and -3 for heavy armor
+the only exception to this is padded
+
+216
+00:03:43,670 --> 00:03:43,680
+the only exception to this is padded
+ 
+
+217
+00:03:43,680 --> 00:03:45,030
+the only exception to this is padded
+armor which incurs no
+
+218
+00:03:45,030 --> 00:03:45,040
+armor which incurs no
+ 
+
+219
+00:03:45,040 --> 00:03:47,030
+armor which incurs no
+check penalty even if the character has
+
+220
+00:03:47,030 --> 00:03:47,040
+check penalty even if the character has
+ 
+
+221
+00:03:47,040 --> 00:03:49,270
+check penalty even if the character has
+less than 10 strength
+
+222
+00:03:49,270 --> 00:03:49,280
+less than 10 strength
+ 
+
+223
+00:03:49,280 --> 00:03:51,030
+less than 10 strength
+on top of this the character will also
+
+224
+00:03:51,030 --> 00:03:51,040
+on top of this the character will also
+ 
+
+225
+00:03:51,040 --> 00:03:53,270
+on top of this the character will also
+take a penalty to their speed
+
+226
+00:03:53,270 --> 00:03:53,280
+take a penalty to their speed
+ 
+
+227
+00:03:53,280 --> 00:03:55,910
+take a penalty to their speed
+light armor incurs no speed penalty but
+
+228
+00:03:55,910 --> 00:03:55,920
+light armor incurs no speed penalty but
+ 
+
+229
+00:03:55,920 --> 00:03:57,589
+light armor incurs no speed penalty but
+medium armor will reduce the character's
+
+230
+00:03:57,589 --> 00:03:57,599
+medium armor will reduce the character's
+ 
+
+231
+00:03:57,599 --> 00:03:58,550
+medium armor will reduce the character's
+speed by 5
+
+232
+00:03:58,550 --> 00:03:58,560
+speed by 5
+ 
+
+233
+00:03:58,560 --> 00:04:00,949
+speed by 5
+feet and heavy armor will reduce it by
+
+234
+00:04:00,949 --> 00:04:00,959
+feet and heavy armor will reduce it by
+ 
+
+235
+00:04:00,959 --> 00:04:02,309
+feet and heavy armor will reduce it by
+10 feet
+
+236
+00:04:02,309 --> 00:04:02,319
+10 feet
+ 
+
+237
+00:04:02,319 --> 00:04:04,070
+10 feet
+so when you're shopping for armor always
+
+238
+00:04:04,070 --> 00:04:04,080
+so when you're shopping for armor always
+ 
+
+239
+00:04:04,080 --> 00:04:05,670
+so when you're shopping for armor always
+be sure to double check the strength
+
+240
+00:04:05,670 --> 00:04:05,680
+be sure to double check the strength
+ 
+
+241
+00:04:05,680 --> 00:04:09,190
+be sure to double check the strength
+requirement before you buy a new set
+
+242
+00:04:09,190 --> 00:04:09,200
+requirement before you buy a new set
+ 
+
+243
+00:04:09,200 --> 00:04:11,830
+requirement before you buy a new set
+there are a couple more rules to keep in
+
+244
+00:04:11,830 --> 00:04:11,840
+there are a couple more rules to keep in
+ 
+
+245
+00:04:11,840 --> 00:04:13,830
+there are a couple more rules to keep in
+mind when wearing armor
+
+246
+00:04:13,830 --> 00:04:13,840
+mind when wearing armor
+ 
+
+247
+00:04:13,840 --> 00:04:16,390
+mind when wearing armor
+first it takes time to get into and out
+
+248
+00:04:16,390 --> 00:04:16,400
+first it takes time to get into and out
+ 
+
+249
+00:04:16,400 --> 00:04:17,270
+first it takes time to get into and out
+of armor
+
+250
+00:04:17,270 --> 00:04:17,280
+of armor
+ 
+
+251
+00:04:17,280 --> 00:04:19,909
+of armor
+it takes one minute to put on light
+
+252
+00:04:19,909 --> 00:04:19,919
+it takes one minute to put on light
+ 
+
+253
+00:04:19,919 --> 00:04:20,629
+it takes one minute to put on light
+armor
+
+254
+00:04:20,629 --> 00:04:20,639
+armor
+ 
+
+255
+00:04:20,639 --> 00:04:23,189
+armor
+or five minutes to put on medium or
+
+256
+00:04:23,189 --> 00:04:23,199
+or five minutes to put on medium or
+ 
+
+257
+00:04:23,199 --> 00:04:24,469
+or five minutes to put on medium or
+heavy armor
+
+258
+00:04:24,469 --> 00:04:24,479
+heavy armor
+ 
+
+259
+00:04:24,479 --> 00:04:27,350
+heavy armor
+and it takes one minute to remove any
+
+260
+00:04:27,350 --> 00:04:27,360
+and it takes one minute to remove any
+ 
+
+261
+00:04:27,360 --> 00:04:29,110
+and it takes one minute to remove any
+kind of armor
+
+262
+00:04:29,110 --> 00:04:29,120
+kind of armor
+ 
+
+263
+00:04:29,120 --> 00:04:31,670
+kind of armor
+that's 10 rounds of combat to get into
+
+264
+00:04:31,670 --> 00:04:31,680
+that's 10 rounds of combat to get into
+ 
+
+265
+00:04:31,680 --> 00:04:32,550
+that's 10 rounds of combat to get into
+your leather or
+
+266
+00:04:32,550 --> 00:04:32,560
+your leather or
+ 
+
+267
+00:04:32,560 --> 00:04:34,629
+your leather or
+50 rounds of combat to get into your
+
+268
+00:04:34,629 --> 00:04:34,639
+50 rounds of combat to get into your
+ 
+
+269
+00:04:34,639 --> 00:04:35,749
+50 rounds of combat to get into your
+skill mail
+
+270
+00:04:35,749 --> 00:04:35,759
+skill mail
+ 
+
+271
+00:04:35,759 --> 00:04:37,990
+skill mail
+which is an eternity if the enemy
+
+272
+00:04:37,990 --> 00:04:38,000
+which is an eternity if the enemy
+ 
+
+273
+00:04:38,000 --> 00:04:39,830
+which is an eternity if the enemy
+strikes while you're sleeping
+
+274
+00:04:39,830 --> 00:04:39,840
+strikes while you're sleeping
+ 
+
+275
+00:04:39,840 --> 00:04:42,390
+strikes while you're sleeping
+so your solution might be to just sleep
+
+276
+00:04:42,390 --> 00:04:42,400
+so your solution might be to just sleep
+ 
+
+277
+00:04:42,400 --> 00:04:43,510
+so your solution might be to just sleep
+in your full plate
+
+278
+00:04:43,510 --> 00:04:43,520
+in your full plate
+ 
+
+279
+00:04:43,520 --> 00:04:46,150
+in your full plate
+so you'll be ready in case of an attack
+
+280
+00:04:46,150 --> 00:04:46,160
+so you'll be ready in case of an attack
+ 
+
+281
+00:04:46,160 --> 00:04:46,550
+so you'll be ready in case of an attack
+but
+
+282
+00:04:46,550 --> 00:04:46,560
+but
+ 
+
+283
+00:04:46,560 --> 00:04:49,510
+but
+not so fast because sleeping while
+
+284
+00:04:49,510 --> 00:04:49,520
+not so fast because sleeping while
+ 
+
+285
+00:04:49,520 --> 00:04:49,990
+not so fast because sleeping while
+wearing
+
+286
+00:04:49,990 --> 00:04:50,000
+wearing
+ 
+
+287
+00:04:50,000 --> 00:04:53,270
+wearing
+armor imposes the fatigued condition
+
+288
+00:04:53,270 --> 00:04:53,280
+armor imposes the fatigued condition
+ 
+
+289
+00:04:53,280 --> 00:04:55,749
+armor imposes the fatigued condition
+this lowers your armor class and lowers
+
+290
+00:04:55,749 --> 00:04:55,759
+this lowers your armor class and lowers
+ 
+
+291
+00:04:55,759 --> 00:04:57,830
+this lowers your armor class and lowers
+all saves by one
+
+292
+00:04:57,830 --> 00:04:57,840
+all saves by one
+ 
+
+293
+00:04:57,840 --> 00:05:00,230
+all saves by one
+and prevents you from using any
+
+294
+00:05:00,230 --> 00:05:00,240
+and prevents you from using any
+ 
+
+295
+00:05:00,240 --> 00:05:02,070
+and prevents you from using any
+exploration activities
+
+296
+00:05:02,070 --> 00:05:02,080
+exploration activities
+ 
+
+297
+00:05:02,080 --> 00:05:05,270
+exploration activities
+such as those found on pages 480 and 481
+
+298
+00:05:05,270 --> 00:05:05,280
+such as those found on pages 480 and 481
+ 
+
+299
+00:05:05,280 --> 00:05:06,950
+such as those found on pages 480 and 481
+of the core rules
+
+300
+00:05:06,950 --> 00:05:06,960
+of the core rules
+ 
+
+301
+00:05:06,960 --> 00:05:09,909
+of the core rules
+you cannot recover from fatigue until
+
+302
+00:05:09,909 --> 00:05:09,919
+you cannot recover from fatigue until
+ 
+
+303
+00:05:09,919 --> 00:05:10,870
+you cannot recover from fatigue until
+you get a full
+
+304
+00:05:10,870 --> 00:05:10,880
+you get a full
+ 
+
+305
+00:05:10,880 --> 00:05:15,270
+you get a full
+night's rest without wearing armor
+
+306
+00:05:15,270 --> 00:05:15,280
+
+ 
+
+307
+00:05:15,280 --> 00:05:17,510
+
+some armors also provide additional
+
+308
+00:05:17,510 --> 00:05:17,520
+some armors also provide additional
+ 
+
+309
+00:05:17,520 --> 00:05:18,950
+some armors also provide additional
+benefits or penalties
+
+310
+00:05:18,950 --> 00:05:18,960
+benefits or penalties
+ 
+
+311
+00:05:18,960 --> 00:05:23,110
+benefits or penalties
+noted in the traits column of table 6-4
+
+312
+00:05:23,110 --> 00:05:23,120
+noted in the traits column of table 6-4
+ 
+
+313
+00:05:23,120 --> 00:05:25,510
+noted in the traits column of table 6-4
+the first of those is bulwark which
+
+314
+00:05:25,510 --> 00:05:25,520
+the first of those is bulwark which
+ 
+
+315
+00:05:25,520 --> 00:05:27,350
+the first of those is bulwark which
+applies to full plate
+
+316
+00:05:27,350 --> 00:05:27,360
+applies to full plate
+ 
+
+317
+00:05:27,360 --> 00:05:29,670
+applies to full plate
+when wearing this armor you can choose
+
+318
+00:05:29,670 --> 00:05:29,680
+when wearing this armor you can choose
+ 
+
+319
+00:05:29,680 --> 00:05:30,710
+when wearing this armor you can choose
+to add plus
+
+320
+00:05:30,710 --> 00:05:30,720
+to add plus
+ 
+
+321
+00:05:30,720 --> 00:05:33,990
+to add plus
+3 to reflex saves instead of adding
+
+322
+00:05:33,990 --> 00:05:34,000
+3 to reflex saves instead of adding
+ 
+
+323
+00:05:34,000 --> 00:05:37,350
+3 to reflex saves instead of adding
+your dexterity modifier to those saves
+
+324
+00:05:37,350 --> 00:05:37,360
+your dexterity modifier to those saves
+ 
+
+325
+00:05:37,360 --> 00:05:39,830
+your dexterity modifier to those saves
+the second trait is comfort which
+
+326
+00:05:39,830 --> 00:05:39,840
+the second trait is comfort which
+ 
+
+327
+00:05:39,840 --> 00:05:41,749
+the second trait is comfort which
+applies to explorer's clothing and
+
+328
+00:05:41,749 --> 00:05:41,759
+applies to explorer's clothing and
+ 
+
+329
+00:05:41,759 --> 00:05:43,029
+applies to explorer's clothing and
+padded armor
+
+330
+00:05:43,029 --> 00:05:43,039
+padded armor
+ 
+
+331
+00:05:43,039 --> 00:05:45,350
+padded armor
+these suits are so comfortable that you
+
+332
+00:05:45,350 --> 00:05:45,360
+these suits are so comfortable that you
+ 
+
+333
+00:05:45,360 --> 00:05:46,150
+these suits are so comfortable that you
+do not
+
+334
+00:05:46,150 --> 00:05:46,160
+do not
+ 
+
+335
+00:05:46,160 --> 00:05:48,390
+do not
+suffer the fatigue condition after
+
+336
+00:05:48,390 --> 00:05:48,400
+suffer the fatigue condition after
+ 
+
+337
+00:05:48,400 --> 00:05:50,150
+suffer the fatigue condition after
+sleeping in them
+
+338
+00:05:50,150 --> 00:05:50,160
+sleeping in them
+ 
+
+339
+00:05:50,160 --> 00:05:52,710
+sleeping in them
+the third trait is flexible which
+
+340
+00:05:52,710 --> 00:05:52,720
+the third trait is flexible which
+ 
+
+341
+00:05:52,720 --> 00:05:55,670
+the third trait is flexible which
+applies to chain shirts and chain mail
+
+342
+00:05:55,670 --> 00:05:55,680
+applies to chain shirts and chain mail
+ 
+
+343
+00:05:55,680 --> 00:05:58,550
+applies to chain shirts and chain mail
+you do not suffer any check penalty to
+
+344
+00:05:58,550 --> 00:05:58,560
+you do not suffer any check penalty to
+ 
+
+345
+00:05:58,560 --> 00:06:01,110
+you do not suffer any check penalty to
+athletics or acrobatics checks
+
+346
+00:06:01,110 --> 00:06:01,120
+athletics or acrobatics checks
+ 
+
+347
+00:06:01,120 --> 00:06:04,710
+athletics or acrobatics checks
+while wearing chain and last
+
+348
+00:06:04,710 --> 00:06:04,720
+while wearing chain and last
+ 
+
+349
+00:06:04,720 --> 00:06:07,990
+while wearing chain and last
+is the noisy trait which also applies to
+
+350
+00:06:07,990 --> 00:06:08,000
+is the noisy trait which also applies to
+ 
+
+351
+00:06:08,000 --> 00:06:09,430
+is the noisy trait which also applies to
+chain armor
+
+352
+00:06:09,430 --> 00:06:09,440
+chain armor
+ 
+
+353
+00:06:09,440 --> 00:06:12,070
+chain armor
+when wearing noisy armor you suffer its
+
+354
+00:06:12,070 --> 00:06:12,080
+when wearing noisy armor you suffer its
+ 
+
+355
+00:06:12,080 --> 00:06:14,070
+when wearing noisy armor you suffer its
+check penalty to stealth
+
+356
+00:06:14,070 --> 00:06:14,080
+check penalty to stealth
+ 
+
+357
+00:06:14,080 --> 00:06:16,950
+check penalty to stealth
+even if you meet the required strength
+
+358
+00:06:16,950 --> 00:06:16,960
+even if you meet the required strength
+ 
+
+359
+00:06:16,960 --> 00:06:19,430
+even if you meet the required strength
+score
+
+360
+00:06:19,430 --> 00:06:19,440
+
+ 
+
+361
+00:06:19,440 --> 00:06:21,830
+
+in this video we discussed the basics of
+
+362
+00:06:21,830 --> 00:06:21,840
+in this video we discussed the basics of
+ 
+
+363
+00:06:21,840 --> 00:06:22,870
+in this video we discussed the basics of
+armor
+
+364
+00:06:22,870 --> 00:06:22,880
+armor
+ 
+
+365
+00:06:22,880 --> 00:06:25,189
+armor
+armor class is the difficulty class or
+
+366
+00:06:25,189 --> 00:06:25,199
+armor class is the difficulty class or
+ 
+
+367
+00:06:25,199 --> 00:06:25,990
+armor class is the difficulty class or
+dc
+
+368
+00:06:25,990 --> 00:06:26,000
+dc
+ 
+
+369
+00:06:26,000 --> 00:06:28,230
+dc
+that must be met by an attack role to
+
+370
+00:06:28,230 --> 00:06:28,240
+that must be met by an attack role to
+ 
+
+371
+00:06:28,240 --> 00:06:29,350
+that must be met by an attack role to
+score a hit
+
+372
+00:06:29,350 --> 00:06:29,360
+score a hit
+ 
+
+373
+00:06:29,360 --> 00:06:33,189
+score a hit
+and is calculated as 10 plus the armors
+
+374
+00:06:33,189 --> 00:06:33,199
+and is calculated as 10 plus the armors
+ 
+
+375
+00:06:33,199 --> 00:06:34,710
+and is calculated as 10 plus the armors
+ac bonus
+
+376
+00:06:34,710 --> 00:06:34,720
+ac bonus
+ 
+
+377
+00:06:34,720 --> 00:06:37,749
+ac bonus
+plus proficiency bonus plus
+
+378
+00:06:37,749 --> 00:06:37,759
+plus proficiency bonus plus
+ 
+
+379
+00:06:37,759 --> 00:06:40,710
+plus proficiency bonus plus
+dexterity modifier up to the armor's
+
+380
+00:06:40,710 --> 00:06:40,720
+dexterity modifier up to the armor's
+ 
+
+381
+00:06:40,720 --> 00:06:42,790
+dexterity modifier up to the armor's
+dexterity cap
+
+382
+00:06:42,790 --> 00:06:42,800
+dexterity cap
+ 
+
+383
+00:06:42,800 --> 00:06:45,029
+dexterity cap
+explorer's clothing is not technically
+
+384
+00:06:45,029 --> 00:06:45,039
+explorer's clothing is not technically
+ 
+
+385
+00:06:45,039 --> 00:06:47,590
+explorer's clothing is not technically
+armor and uses the unarmored defense
+
+386
+00:06:47,590 --> 00:06:47,600
+armor and uses the unarmored defense
+ 
+
+387
+00:06:47,600 --> 00:06:48,550
+armor and uses the unarmored defense
+proficiency
+
+388
+00:06:48,550 --> 00:06:48,560
+proficiency
+ 
+
+389
+00:06:48,560 --> 00:06:51,350
+proficiency
+but may be etched with runes in the same
+
+390
+00:06:51,350 --> 00:06:51,360
+but may be etched with runes in the same
+ 
+
+391
+00:06:51,360 --> 00:06:53,589
+but may be etched with runes in the same
+fashion that armor is
+
+392
+00:06:53,589 --> 00:06:53,599
+fashion that armor is
+ 
+
+393
+00:06:53,599 --> 00:06:56,469
+fashion that armor is
+most armors impose a check penalty to
+
+394
+00:06:56,469 --> 00:06:56,479
+most armors impose a check penalty to
+ 
+
+395
+00:06:56,479 --> 00:06:56,870
+most armors impose a check penalty to
+all
+
+396
+00:06:56,870 --> 00:06:56,880
+all
+ 
+
+397
+00:06:56,880 --> 00:06:59,270
+all
+strength and dexterity based skills
+
+398
+00:06:59,270 --> 00:06:59,280
+strength and dexterity based skills
+ 
+
+399
+00:06:59,280 --> 00:07:02,070
+strength and dexterity based skills
+except for those with the attack trait
+
+400
+00:07:02,070 --> 00:07:02,080
+except for those with the attack trait
+ 
+
+401
+00:07:02,080 --> 00:07:05,430
+except for those with the attack trait
+and medium and heavy armors also reduce
+
+402
+00:07:05,430 --> 00:07:05,440
+and medium and heavy armors also reduce
+ 
+
+403
+00:07:05,440 --> 00:07:07,589
+and medium and heavy armors also reduce
+the speed of those wearing them
+
+404
+00:07:07,589 --> 00:07:07,599
+the speed of those wearing them
+ 
+
+405
+00:07:07,599 --> 00:07:10,469
+the speed of those wearing them
+however armors also have a strength
+
+406
+00:07:10,469 --> 00:07:10,479
+however armors also have a strength
+ 
+
+407
+00:07:10,479 --> 00:07:13,029
+however armors also have a strength
+score displayed on the armor table
+
+408
+00:07:13,029 --> 00:07:13,039
+score displayed on the armor table
+ 
+
+409
+00:07:13,039 --> 00:07:15,909
+score displayed on the armor table
+if the wearer has a strength score equal
+
+410
+00:07:15,909 --> 00:07:15,919
+if the wearer has a strength score equal
+ 
+
+411
+00:07:15,919 --> 00:07:16,230
+if the wearer has a strength score equal
+to
+
+412
+00:07:16,230 --> 00:07:16,240
+to
+ 
+
+413
+00:07:16,240 --> 00:07:19,270
+to
+or greater than the armors listing they
+
+414
+00:07:19,270 --> 00:07:19,280
+or greater than the armors listing they
+ 
+
+415
+00:07:19,280 --> 00:07:20,309
+or greater than the armors listing they
+do not suffer
+
+416
+00:07:20,309 --> 00:07:20,319
+do not suffer
+ 
+
+417
+00:07:20,319 --> 00:07:22,710
+do not suffer
+any check penalties and the speed
+
+418
+00:07:22,710 --> 00:07:22,720
+any check penalties and the speed
+ 
+
+419
+00:07:22,720 --> 00:07:24,390
+any check penalties and the speed
+penalty is reduced by
+
+420
+00:07:24,390 --> 00:07:24,400
+penalty is reduced by
+ 
+
+421
+00:07:24,400 --> 00:07:28,629
+penalty is reduced by
+5 feet it takes 1 minute to put on light
+
+422
+00:07:28,629 --> 00:07:28,639
+5 feet it takes 1 minute to put on light
+ 
+
+423
+00:07:28,639 --> 00:07:30,950
+5 feet it takes 1 minute to put on light
+armor and five minutes to dress in
+
+424
+00:07:30,950 --> 00:07:30,960
+armor and five minutes to dress in
+ 
+
+425
+00:07:30,960 --> 00:07:33,110
+armor and five minutes to dress in
+either medium or heavy armor
+
+426
+00:07:33,110 --> 00:07:33,120
+either medium or heavy armor
+ 
+
+427
+00:07:33,120 --> 00:07:35,670
+either medium or heavy armor
+and it takes one minute to remove any
+
+428
+00:07:35,670 --> 00:07:35,680
+and it takes one minute to remove any
+ 
+
+429
+00:07:35,680 --> 00:07:37,749
+and it takes one minute to remove any
+kind of armor
+
+430
+00:07:37,749 --> 00:07:37,759
+kind of armor
+ 
+
+431
+00:07:37,759 --> 00:07:40,309
+kind of armor
+sleeping in armor imposes the fatigue
+
+432
+00:07:40,309 --> 00:07:40,319
+sleeping in armor imposes the fatigue
+ 
+
+433
+00:07:40,319 --> 00:07:41,270
+sleeping in armor imposes the fatigue
+condition
+
+434
+00:07:41,270 --> 00:07:41,280
+condition
+ 
+
+435
+00:07:41,280 --> 00:07:44,869
+condition
+unless the armor has the comfort trait
+
+436
+00:07:44,869 --> 00:07:44,879
+unless the armor has the comfort trait
+ 
+
+437
+00:07:44,879 --> 00:07:46,710
+unless the armor has the comfort trait
+there are three other armor traits to be
+
+438
+00:07:46,710 --> 00:07:46,720
+there are three other armor traits to be
+ 
+
+439
+00:07:46,720 --> 00:07:48,469
+there are three other armor traits to be
+aware of bulwark
+
+440
+00:07:48,469 --> 00:07:48,479
+aware of bulwark
+ 
+
+441
+00:07:48,479 --> 00:07:50,790
+aware of bulwark
+allows the wearer to add plus three to
+
+442
+00:07:50,790 --> 00:07:50,800
+allows the wearer to add plus three to
+ 
+
+443
+00:07:50,800 --> 00:07:51,749
+allows the wearer to add plus three to
+reflex saves
+
+444
+00:07:51,749 --> 00:07:51,759
+reflex saves
+ 
+
+445
+00:07:51,759 --> 00:07:54,790
+reflex saves
+instead of their dexterity modifier
+
+446
+00:07:54,790 --> 00:07:54,800
+instead of their dexterity modifier
+ 
+
+447
+00:07:54,800 --> 00:07:57,029
+instead of their dexterity modifier
+flexible armor does not impose a check
+
+448
+00:07:57,029 --> 00:07:57,039
+flexible armor does not impose a check
+ 
+
+449
+00:07:57,039 --> 00:07:59,510
+flexible armor does not impose a check
+penalty to athletics or acrobatic skill
+
+450
+00:07:59,510 --> 00:07:59,520
+penalty to athletics or acrobatic skill
+ 
+
+451
+00:07:59,520 --> 00:08:00,469
+penalty to athletics or acrobatic skill
+checks
+
+452
+00:08:00,469 --> 00:08:00,479
+checks
+ 
+
+453
+00:08:00,479 --> 00:08:03,430
+checks
+and noisy armor imposes its check
+
+454
+00:08:03,430 --> 00:08:03,440
+and noisy armor imposes its check
+ 
+
+455
+00:08:03,440 --> 00:08:05,029
+and noisy armor imposes its check
+penalty to stealth
+
+456
+00:08:05,029 --> 00:08:05,039
+penalty to stealth
+ 
+
+457
+00:08:05,039 --> 00:08:07,110
+penalty to stealth
+even if the wearer meets the armor
+
+458
+00:08:07,110 --> 00:08:07,120
+even if the wearer meets the armor
+ 
+
+459
+00:08:07,120 --> 00:08:09,350
+even if the wearer meets the armor
+strength requirement
+
+460
+00:08:09,350 --> 00:08:09,360
+strength requirement
+ 
+
+461
+00:08:09,360 --> 00:08:11,749
+strength requirement
+i'd also like to take one last moment to
+
+462
+00:08:11,749 --> 00:08:11,759
+i'd also like to take one last moment to
+ 
+
+463
+00:08:11,759 --> 00:08:13,430
+i'd also like to take one last moment to
+thank nonat for partnering with these
+
+464
+00:08:13,430 --> 00:08:13,440
+thank nonat for partnering with these
+ 
+
+465
+00:08:13,440 --> 00:08:14,230
+thank nonat for partnering with these
+videos
+
+466
+00:08:14,230 --> 00:08:14,240
+videos
+ 
+
+467
+00:08:14,240 --> 00:08:16,629
+videos
+again you can find the companion video
+
+468
+00:08:16,629 --> 00:08:16,639
+again you can find the companion video
+ 
+
+469
+00:08:16,639 --> 00:08:17,909
+again you can find the companion video
+that's all about
+
+470
+00:08:17,909 --> 00:08:17,919
+that's all about
+ 
+
+471
+00:08:17,919 --> 00:08:20,550
+that's all about
+weapons over on his channel which is
+
+472
+00:08:20,550 --> 00:08:20,560
+weapons over on his channel which is
+ 
+
+473
+00:08:20,560 --> 00:08:22,309
+weapons over on his channel which is
+linked in the description
+
+474
+00:08:22,309 --> 00:08:22,319
+linked in the description
+ 
+
+475
+00:08:22,319 --> 00:08:23,990
+linked in the description
+and let me know in the comments if you'd
+
+476
+00:08:23,990 --> 00:08:24,000
+and let me know in the comments if you'd
+ 
+
+477
+00:08:24,000 --> 00:08:25,749
+and let me know in the comments if you'd
+like to see more partnerships like this
+
+478
+00:08:25,749 --> 00:08:25,759
+like to see more partnerships like this
+ 
+
+479
+00:08:25,759 --> 00:08:28,469
+like to see more partnerships like this
+in the future
+
+480
+00:08:28,469 --> 00:08:28,479
+
+ 
+
+481
+00:08:28,479 --> 00:08:30,150
+
+before we close i'd like to take a
+
+482
+00:08:30,150 --> 00:08:30,160
+before we close i'd like to take a
+ 
+
+483
+00:08:30,160 --> 00:08:32,389
+before we close i'd like to take a
+moment to thank all of our patrons
+
+484
+00:08:32,389 --> 00:08:32,399
+moment to thank all of our patrons
+ 
+
+485
+00:08:32,399 --> 00:08:34,149
+moment to thank all of our patrons
+these videos would not be possible
+
+486
+00:08:34,149 --> 00:08:34,159
+these videos would not be possible
+ 
+
+487
+00:08:34,159 --> 00:08:36,469
+these videos would not be possible
+without their continued generosity and
+
+488
+00:08:36,469 --> 00:08:36,479
+without their continued generosity and
+ 
+
+489
+00:08:36,479 --> 00:08:37,829
+without their continued generosity and
+support
+
+490
+00:08:37,829 --> 00:08:37,839
+support
+ 
+
+491
+00:08:37,839 --> 00:08:40,070
+support
+members of the basics gamers patreon
+
+492
+00:08:40,070 --> 00:08:40,080
+members of the basics gamers patreon
+ 
+
+493
+00:08:40,080 --> 00:08:41,990
+members of the basics gamers patreon
+community receive special benefits
+
+494
+00:08:41,990 --> 00:08:42,000
+community receive special benefits
+ 
+
+495
+00:08:42,000 --> 00:08:43,909
+community receive special benefits
+like getting to vote on the topics that
+
+496
+00:08:43,909 --> 00:08:43,919
+like getting to vote on the topics that
+ 
+
+497
+00:08:43,919 --> 00:08:45,269
+like getting to vote on the topics that
+we cover in the future
+
+498
+00:08:45,269 --> 00:08:45,279
+we cover in the future
+ 
+
+499
+00:08:45,279 --> 00:08:47,269
+we cover in the future
+and also they get to see these videos
+
+500
+00:08:47,269 --> 00:08:47,279
+and also they get to see these videos
+ 
+
+501
+00:08:47,279 --> 00:08:49,590
+and also they get to see these videos
+one week and ad free before
+
+502
+00:08:49,590 --> 00:08:49,600
+one week and ad free before
+ 
+
+503
+00:08:49,600 --> 00:08:52,550
+one week and ad free before
+everybody else visit the link shown on
+
+504
+00:08:52,550 --> 00:08:52,560
+everybody else visit the link shown on
+ 
+
+505
+00:08:52,560 --> 00:08:54,070
+everybody else visit the link shown on
+the left of the screen and in the
+
+506
+00:08:54,070 --> 00:08:54,080
+the left of the screen and in the
+ 
+
+507
+00:08:54,080 --> 00:08:55,590
+the left of the screen and in the
+description if you'd like to know more
+
+508
+00:08:55,590 --> 00:08:55,600
+description if you'd like to know more
+ 
+
+509
+00:08:55,600 --> 00:08:57,750
+description if you'd like to know more
+about becoming a patron
+
+510
+00:08:57,750 --> 00:08:57,760
+about becoming a patron
+ 
+
+511
+00:08:57,760 --> 00:08:59,030
+about becoming a patron
+if you would like to support this
+
+512
+00:08:59,030 --> 00:08:59,040
+if you would like to support this
+ 
+
+513
+00:08:59,040 --> 00:09:00,949
+if you would like to support this
+channel and help it grow the easiest way
+
+514
+00:09:00,949 --> 00:09:00,959
+channel and help it grow the easiest way
+ 
+
+515
+00:09:00,959 --> 00:09:01,829
+channel and help it grow the easiest way
+to do that
+
+516
+00:09:01,829 --> 00:09:01,839
+to do that
+ 
+
+517
+00:09:01,839 --> 00:09:04,230
+to do that
+is by subscribing and clicking the bell
+
+518
+00:09:04,230 --> 00:09:04,240
+is by subscribing and clicking the bell
+ 
+
+519
+00:09:04,240 --> 00:09:04,949
+is by subscribing and clicking the bell
+icon
+
+520
+00:09:04,949 --> 00:09:04,959
+icon
+ 
+
+521
+00:09:04,959 --> 00:09:06,870
+icon
+so you get notified when new videos
+
+522
+00:09:06,870 --> 00:09:06,880
+so you get notified when new videos
+ 
+
+523
+00:09:06,880 --> 00:09:07,990
+so you get notified when new videos
+release
+
+524
+00:09:07,990 --> 00:09:08,000
+release
+ 
+
+525
+00:09:08,000 --> 00:09:09,430
+release
+and we can always be reached through our
+
+526
+00:09:09,430 --> 00:09:09,440
+and we can always be reached through our
+ 
+
+527
+00:09:09,440 --> 00:09:11,590
+and we can always be reached through our
+twitter and facebook pages too
+
+528
+00:09:11,590 --> 00:09:11,600
+twitter and facebook pages too
+ 
+
+529
+00:09:11,600 --> 00:09:13,430
+twitter and facebook pages too
+thanks for watching take care and we
+
+530
+00:09:13,430 --> 00:09:13,440
+thanks for watching take care and we
+ 
+
+531
+00:09:13,440 --> 00:09:16,110
+thanks for watching take care and we
+will see you soon with more basics of
+
+532
+00:09:16,110 --> 00:09:16,120
+will see you soon with more basics of
+ 
+
+533
+00:09:16,120 --> 00:09:19,120
+will see you soon with more basics of
+pathfinder
+

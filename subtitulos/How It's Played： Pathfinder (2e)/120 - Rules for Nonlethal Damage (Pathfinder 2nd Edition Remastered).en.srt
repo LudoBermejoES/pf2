@@ -1,0 +1,5475 @@
+1
+00:00:00,480 --> 00:00:02,310
+
+Hey everybody, Dave here with another
+
+2
+00:00:02,310 --> 00:00:02,320
+Hey everybody, Dave here with another
+ 
+
+3
+00:00:02,320 --> 00:00:05,030
+Hey everybody, Dave here with another
+Pathfinder rule reminder for you. And
+
+4
+00:00:05,030 --> 00:00:05,040
+Pathfinder rule reminder for you. And
+ 
+
+5
+00:00:05,040 --> 00:00:06,309
+Pathfinder rule reminder for you. And
+today we're going to be looking at
+
+6
+00:00:06,309 --> 00:00:06,319
+today we're going to be looking at
+ 
+
+7
+00:00:06,319 --> 00:00:10,310
+today we're going to be looking at
+non-lethal damage. So non-lethal damage
+
+8
+00:00:10,310 --> 00:00:10,320
+non-lethal damage. So non-lethal damage
+ 
+
+9
+00:00:10,320 --> 00:00:12,549
+non-lethal damage. So non-lethal damage
+is an option in the rules that allow you
+
+10
+00:00:12,549 --> 00:00:12,559
+is an option in the rules that allow you
+ 
+
+11
+00:00:12,559 --> 00:00:16,070
+is an option in the rules that allow you
+to make attacks with the intent to
+
+12
+00:00:16,070 --> 00:00:16,080
+to make attacks with the intent to
+ 
+
+13
+00:00:16,080 --> 00:00:18,790
+to make attacks with the intent to
+disable your opponent as opposed to kill
+
+14
+00:00:18,790 --> 00:00:18,800
+disable your opponent as opposed to kill
+ 
+
+15
+00:00:18,800 --> 00:00:22,470
+disable your opponent as opposed to kill
+them. Because this is a high fantasy
+
+16
+00:00:22,470 --> 00:00:22,480
+them. Because this is a high fantasy
+ 
+
+17
+00:00:22,480 --> 00:00:23,990
+them. Because this is a high fantasy
+actionoriented
+
+18
+00:00:23,990 --> 00:00:24,000
+actionoriented
+ 
+
+19
+00:00:24,000 --> 00:00:26,950
+actionoriented
+adventure role playing game, the default
+
+20
+00:00:26,950 --> 00:00:26,960
+adventure role playing game, the default
+ 
+
+21
+00:00:26,960 --> 00:00:30,710
+adventure role playing game, the default
+rules in the game uh assume lethal
+
+22
+00:00:30,710 --> 00:00:30,720
+rules in the game uh assume lethal
+ 
+
+23
+00:00:30,720 --> 00:00:32,630
+rules in the game uh assume lethal
+damage. It assumes that you are trying
+
+24
+00:00:32,630 --> 00:00:32,640
+damage. It assumes that you are trying
+ 
+
+25
+00:00:32,640 --> 00:00:36,790
+damage. It assumes that you are trying
+to kill the goblin or dragon or manticor
+
+26
+00:00:36,790 --> 00:00:36,800
+to kill the goblin or dragon or manticor
+ 
+
+27
+00:00:36,800 --> 00:00:39,750
+to kill the goblin or dragon or manticor
+or whatever that uh your party is
+
+28
+00:00:39,750 --> 00:00:39,760
+or whatever that uh your party is
+ 
+
+29
+00:00:39,760 --> 00:00:42,630
+or whatever that uh your party is
+facing. But it does provide non-lethal
+
+30
+00:00:42,630 --> 00:00:42,640
+facing. But it does provide non-lethal
+ 
+
+31
+00:00:42,640 --> 00:00:44,790
+facing. But it does provide non-lethal
+damage options for those who want to
+
+32
+00:00:44,790 --> 00:00:44,800
+damage options for those who want to
+ 
+
+33
+00:00:44,800 --> 00:00:47,670
+damage options for those who want to
+subdue their targets. So, you might want
+
+34
+00:00:47,670 --> 00:00:47,680
+subdue their targets. So, you might want
+ 
+
+35
+00:00:47,680 --> 00:00:49,750
+subdue their targets. So, you might want
+to use non-lethal damage when you want
+
+36
+00:00:49,750 --> 00:00:49,760
+to use non-lethal damage when you want
+ 
+
+37
+00:00:49,760 --> 00:00:52,950
+to use non-lethal damage when you want
+to capture somebody and question them if
+
+38
+00:00:52,950 --> 00:00:52,960
+to capture somebody and question them if
+ 
+
+39
+00:00:52,960 --> 00:00:54,470
+to capture somebody and question them if
+you're a bounty hunter and you're going
+
+40
+00:00:54,470 --> 00:00:54,480
+you're a bounty hunter and you're going
+ 
+
+41
+00:00:54,480 --> 00:00:56,069
+you're a bounty hunter and you're going
+to get paid more to bring your target
+
+42
+00:00:56,069 --> 00:00:56,079
+to get paid more to bring your target
+ 
+
+43
+00:00:56,079 --> 00:00:58,790
+to get paid more to bring your target
+back alive than dead or you're in any
+
+44
+00:00:58,790 --> 00:00:58,800
+back alive than dead or you're in any
+ 
+
+45
+00:00:58,800 --> 00:01:00,310
+back alive than dead or you're in any
+kind of situation where you don't want
+
+46
+00:01:00,310 --> 00:01:00,320
+kind of situation where you don't want
+ 
+
+47
+00:01:00,320 --> 00:01:03,270
+kind of situation where you don't want
+things to escalate. So, instead of of
+
+48
+00:01:03,270 --> 00:01:03,280
+things to escalate. So, instead of of
+ 
+
+49
+00:01:03,280 --> 00:01:05,830
+things to escalate. So, instead of of
+killing the town's people, you subdue
+
+50
+00:01:05,830 --> 00:01:05,840
+killing the town's people, you subdue
+ 
+
+51
+00:01:05,840 --> 00:01:08,149
+killing the town's people, you subdue
+them with non-lethal damage or maybe for
+
+52
+00:01:08,149 --> 00:01:08,159
+them with non-lethal damage or maybe for
+ 
+
+53
+00:01:08,159 --> 00:01:10,070
+them with non-lethal damage or maybe for
+those times when uh one of your party
+
+54
+00:01:10,070 --> 00:01:10,080
+those times when uh one of your party
+ 
+
+55
+00:01:10,080 --> 00:01:13,910
+those times when uh one of your party
+members gets controlled or goes mad and
+
+56
+00:01:13,910 --> 00:01:13,920
+members gets controlled or goes mad and
+ 
+
+57
+00:01:13,920 --> 00:01:15,990
+members gets controlled or goes mad and
+uh you got to you got to put them down
+
+58
+00:01:15,990 --> 00:01:16,000
+uh you got to you got to put them down
+ 
+
+59
+00:01:16,000 --> 00:01:19,429
+uh you got to you got to put them down
+without killing them. These are all
+
+60
+00:01:19,429 --> 00:01:19,439
+without killing them. These are all
+ 
+
+61
+00:01:19,439 --> 00:01:21,270
+without killing them. These are all
+situations where you might want to use
+
+62
+00:01:21,270 --> 00:01:21,280
+situations where you might want to use
+ 
+
+63
+00:01:21,280 --> 00:01:24,789
+situations where you might want to use
+non-lethal damage instead of the regular
+
+64
+00:01:24,789 --> 00:01:24,799
+non-lethal damage instead of the regular
+ 
+
+65
+00:01:24,799 --> 00:01:28,550
+non-lethal damage instead of the regular
+lethal damage uh rules. So, what does
+
+66
+00:01:28,550 --> 00:01:28,560
+lethal damage uh rules. So, what does
+ 
+
+67
+00:01:28,560 --> 00:01:29,830
+lethal damage uh rules. So, what does
+this mean when you use non-lethal
+
+68
+00:01:29,830 --> 00:01:29,840
+this mean when you use non-lethal
+ 
+
+69
+00:01:29,840 --> 00:01:33,990
+this mean when you use non-lethal
+damage? Well, in the the the the vast
+
+70
+00:01:33,990 --> 00:01:34,000
+damage? Well, in the the the the vast
+ 
+
+71
+00:01:34,000 --> 00:01:37,109
+damage? Well, in the the the the vast
+range of combat, it doesn't mean a lot.
+
+72
+00:01:37,109 --> 00:01:37,119
+range of combat, it doesn't mean a lot.
+ 
+
+73
+00:01:37,119 --> 00:01:40,230
+range of combat, it doesn't mean a lot.
+It really only comes down to the last
+
+74
+00:01:40,230 --> 00:01:40,240
+It really only comes down to the last
+ 
+
+75
+00:01:40,240 --> 00:01:44,310
+It really only comes down to the last
+hit that reduces your target to zero hit
+
+76
+00:01:44,310 --> 00:01:44,320
+hit that reduces your target to zero hit
+ 
+
+77
+00:01:44,320 --> 00:01:47,510
+hit that reduces your target to zero hit
+points. If that is dealt using lethal
+
+78
+00:01:47,510 --> 00:01:47,520
+points. If that is dealt using lethal
+ 
+
+79
+00:01:47,520 --> 00:01:50,870
+points. If that is dealt using lethal
+damage, then in most cases, they die. Or
+
+80
+00:01:50,870 --> 00:01:50,880
+damage, then in most cases, they die. Or
+ 
+
+81
+00:01:50,880 --> 00:01:53,910
+damage, then in most cases, they die. Or
+if they're a significant uh NPC or a
+
+82
+00:01:53,910 --> 00:01:53,920
+if they're a significant uh NPC or a
+ 
+
+83
+00:01:53,920 --> 00:01:56,069
+if they're a significant uh NPC or a
+player character, they fall unconscious
+
+84
+00:01:56,069 --> 00:01:56,079
+player character, they fall unconscious
+ 
+
+85
+00:01:56,079 --> 00:01:57,910
+player character, they fall unconscious
+and they gain the dying condition.
+
+86
+00:01:57,910 --> 00:01:57,920
+and they gain the dying condition.
+ 
+
+87
+00:01:57,920 --> 00:02:00,630
+and they gain the dying condition.
+That's lethal damage. the normal damage
+
+88
+00:02:00,630 --> 00:02:00,640
+That's lethal damage. the normal damage
+ 
+
+89
+00:02:00,640 --> 00:02:03,830
+That's lethal damage. the normal damage
+rules. If that final hit that reduces
+
+90
+00:02:03,830 --> 00:02:03,840
+rules. If that final hit that reduces
+ 
+
+91
+00:02:03,840 --> 00:02:06,469
+rules. If that final hit that reduces
+them to zero hit points is made with
+
+92
+00:02:06,469 --> 00:02:06,479
+them to zero hit points is made with
+ 
+
+93
+00:02:06,479 --> 00:02:09,350
+them to zero hit points is made with
+non-lethal damage, then instead they
+
+94
+00:02:09,350 --> 00:02:09,360
+non-lethal damage, then instead they
+ 
+
+95
+00:02:09,360 --> 00:02:11,510
+non-lethal damage, then instead they
+just fall unconscious.
+
+96
+00:02:11,510 --> 00:02:11,520
+just fall unconscious.
+ 
+
+97
+00:02:11,520 --> 00:02:14,869
+just fall unconscious.
+Uh this does not impose the dying
+
+98
+00:02:14,869 --> 00:02:14,879
+Uh this does not impose the dying
+ 
+
+99
+00:02:14,879 --> 00:02:15,990
+Uh this does not impose the dying
+condition. You don't have to make
+
+100
+00:02:15,990 --> 00:02:16,000
+condition. You don't have to make
+ 
+
+101
+00:02:16,000 --> 00:02:18,470
+condition. You don't have to make
+recovery checks. This does not interact
+
+102
+00:02:18,470 --> 00:02:18,480
+recovery checks. This does not interact
+ 
+
+103
+00:02:18,480 --> 00:02:21,830
+recovery checks. This does not interact
+in any way with the wounded condition.
+
+104
+00:02:21,830 --> 00:02:21,840
+in any way with the wounded condition.
+ 
+
+105
+00:02:21,840 --> 00:02:24,550
+in any way with the wounded condition.
+You don't gain the wounded condition or
+
+106
+00:02:24,550 --> 00:02:24,560
+You don't gain the wounded condition or
+ 
+
+107
+00:02:24,560 --> 00:02:27,589
+You don't gain the wounded condition or
+elevate it when you leave an unconscious
+
+108
+00:02:27,589 --> 00:02:27,599
+elevate it when you leave an unconscious
+ 
+
+109
+00:02:27,599 --> 00:02:30,470
+elevate it when you leave an unconscious
+state. If that last hit is dealt with
+
+110
+00:02:30,470 --> 00:02:30,480
+state. If that last hit is dealt with
+ 
+
+111
+00:02:30,480 --> 00:02:33,910
+state. If that last hit is dealt with
+non-lethal damage, then no dying
+
+112
+00:02:33,910 --> 00:02:33,920
+non-lethal damage, then no dying
+ 
+
+113
+00:02:33,920 --> 00:02:35,990
+non-lethal damage, then no dying
+condition, no wounded condition, no
+
+114
+00:02:35,990 --> 00:02:36,000
+condition, no wounded condition, no
+ 
+
+115
+00:02:36,000 --> 00:02:38,470
+condition, no wounded condition, no
+recovery checks, essentially they fall
+
+116
+00:02:38,470 --> 00:02:38,480
+recovery checks, essentially they fall
+ 
+
+117
+00:02:38,480 --> 00:02:40,229
+recovery checks, essentially they fall
+unconscious, they gain the unconscious
+
+118
+00:02:40,229 --> 00:02:40,239
+unconscious, they gain the unconscious
+ 
+
+119
+00:02:40,239 --> 00:02:41,910
+unconscious, they gain the unconscious
+condition, they have zero hit points,
+
+120
+00:02:41,910 --> 00:02:41,920
+condition, they have zero hit points,
+ 
+
+121
+00:02:41,920 --> 00:02:43,910
+condition, they have zero hit points,
+and they're effectively stable. Again,
+
+122
+00:02:43,910 --> 00:02:43,920
+and they're effectively stable. Again,
+ 
+
+123
+00:02:43,920 --> 00:02:46,390
+and they're effectively stable. Again,
+none of these recovery checks. There's
+
+124
+00:02:46,390 --> 00:02:46,400
+none of these recovery checks. There's
+ 
+
+125
+00:02:46,400 --> 00:02:50,150
+none of these recovery checks. There's
+no hard rule for how long they stay in
+
+126
+00:02:50,150 --> 00:02:50,160
+no hard rule for how long they stay in
+ 
+
+127
+00:02:50,160 --> 00:02:53,110
+no hard rule for how long they stay in
+that unconscious state, but if they
+
+128
+00:02:53,110 --> 00:02:53,120
+that unconscious state, but if they
+ 
+
+129
+00:02:53,120 --> 00:02:55,190
+that unconscious state, but if they
+receive any healing and they go above
+
+130
+00:02:55,190 --> 00:02:55,200
+receive any healing and they go above
+ 
+
+131
+00:02:55,200 --> 00:02:57,030
+receive any healing and they go above
+zero hit points, they would become
+
+132
+00:02:57,030 --> 00:02:57,040
+zero hit points, they would become
+ 
+
+133
+00:02:57,040 --> 00:03:00,150
+zero hit points, they would become
+conscious again. And in absence of that,
+
+134
+00:03:00,150 --> 00:03:00,160
+conscious again. And in absence of that,
+ 
+
+135
+00:03:00,160 --> 00:03:01,670
+conscious again. And in absence of that,
+it it like I said, it doesn't give you a
+
+136
+00:03:01,670 --> 00:03:01,680
+it it like I said, it doesn't give you a
+ 
+
+137
+00:03:01,680 --> 00:03:03,589
+it it like I said, it doesn't give you a
+hard guideline. It just says like about
+
+138
+00:03:03,589 --> 00:03:03,599
+hard guideline. It just says like about
+ 
+
+139
+00:03:03,599 --> 00:03:06,949
+hard guideline. It just says like about
+a minute or so. Uh basically that's you
+
+140
+00:03:06,949 --> 00:03:06,959
+a minute or so. Uh basically that's you
+ 
+
+141
+00:03:06,959 --> 00:03:09,670
+a minute or so. Uh basically that's you
+know that's Pathfinder language for when
+
+142
+00:03:09,670 --> 00:03:09,680
+know that's Pathfinder language for when
+ 
+
+143
+00:03:09,680 --> 00:03:12,550
+know that's Pathfinder language for when
+this combat encounter is over they'll
+
+144
+00:03:12,550 --> 00:03:12,560
+this combat encounter is over they'll
+ 
+
+145
+00:03:12,560 --> 00:03:15,990
+this combat encounter is over they'll
+regain consciousness normally. As always
+
+146
+00:03:15,990 --> 00:03:16,000
+regain consciousness normally. As always
+ 
+
+147
+00:03:16,000 --> 00:03:19,830
+regain consciousness normally. As always
+GMs evaluate the situation however makes
+
+148
+00:03:19,830 --> 00:03:19,840
+GMs evaluate the situation however makes
+ 
+
+149
+00:03:19,840 --> 00:03:21,910
+GMs evaluate the situation however makes
+sense to you. So some situations might
+
+150
+00:03:21,910 --> 00:03:21,920
+sense to you. So some situations might
+ 
+
+151
+00:03:21,920 --> 00:03:24,070
+sense to you. So some situations might
+cause you to to prolong that unconscious
+
+152
+00:03:24,070 --> 00:03:24,080
+cause you to to prolong that unconscious
+ 
+
+153
+00:03:24,080 --> 00:03:25,910
+cause you to to prolong that unconscious
+state because again there's not a hard
+
+154
+00:03:25,910 --> 00:03:25,920
+state because again there's not a hard
+ 
+
+155
+00:03:25,920 --> 00:03:27,589
+state because again there's not a hard
+rule. That's just the guidance in the
+
+156
+00:03:27,589 --> 00:03:27,599
+rule. That's just the guidance in the
+ 
+
+157
+00:03:27,599 --> 00:03:30,070
+rule. That's just the guidance in the
+book. One minute. So how do you deal
+
+158
+00:03:30,070 --> 00:03:30,080
+book. One minute. So how do you deal
+ 
+
+159
+00:03:30,080 --> 00:03:33,110
+book. One minute. So how do you deal
+non-lethal damage? Some weapons, some
+
+160
+00:03:33,110 --> 00:03:33,120
+non-lethal damage? Some weapons, some
+ 
+
+161
+00:03:33,120 --> 00:03:35,990
+non-lethal damage? Some weapons, some
+melee weapons have the non-lethal trait.
+
+162
+00:03:35,990 --> 00:03:36,000
+melee weapons have the non-lethal trait.
+ 
+
+163
+00:03:36,000 --> 00:03:38,390
+melee weapons have the non-lethal trait.
+And if a weapon has the non-lethal
+
+164
+00:03:38,390 --> 00:03:38,400
+And if a weapon has the non-lethal
+ 
+
+165
+00:03:38,400 --> 00:03:42,149
+And if a weapon has the non-lethal
+trait, like a fist attack, most unarmed
+
+166
+00:03:42,149 --> 00:03:42,159
+trait, like a fist attack, most unarmed
+ 
+
+167
+00:03:42,159 --> 00:03:44,229
+trait, like a fist attack, most unarmed
+attacks that aren't things like biting
+
+168
+00:03:44,229 --> 00:03:44,239
+attacks that aren't things like biting
+ 
+
+169
+00:03:44,239 --> 00:03:48,789
+attacks that aren't things like biting
+and claws, uh the sap, a whip, these all
+
+170
+00:03:48,789 --> 00:03:48,799
+and claws, uh the sap, a whip, these all
+ 
+
+171
+00:03:48,799 --> 00:03:53,030
+and claws, uh the sap, a whip, these all
+have the non-lethal trait. Non-lethal
+
+172
+00:03:53,030 --> 00:03:53,040
+have the non-lethal trait. Non-lethal
+ 
+
+173
+00:03:53,040 --> 00:03:57,030
+have the non-lethal trait. Non-lethal
+trait weapons always deal non-lethal
+
+174
+00:03:57,030 --> 00:03:57,040
+trait weapons always deal non-lethal
+ 
+
+175
+00:03:57,040 --> 00:04:00,070
+trait weapons always deal non-lethal
+damage unless you do something special.
+
+176
+00:04:00,070 --> 00:04:00,080
+damage unless you do something special.
+ 
+
+177
+00:04:00,080 --> 00:04:02,710
+damage unless you do something special.
+So monks can deal lethal damage with
+
+178
+00:04:02,710 --> 00:04:02,720
+So monks can deal lethal damage with
+ 
+
+179
+00:04:02,720 --> 00:04:05,750
+So monks can deal lethal damage with
+their unarmed attacks, but in absence of
+
+180
+00:04:05,750 --> 00:04:05,760
+their unarmed attacks, but in absence of
+ 
+
+181
+00:04:05,760 --> 00:04:08,470
+their unarmed attacks, but in absence of
+any other ability, rule, special
+
+182
+00:04:08,470 --> 00:04:08,480
+any other ability, rule, special
+ 
+
+183
+00:04:08,480 --> 00:04:10,869
+any other ability, rule, special
+circumstance, non-lethal weapons,
+
+184
+00:04:10,869 --> 00:04:10,879
+circumstance, non-lethal weapons,
+ 
+
+185
+00:04:10,879 --> 00:04:12,869
+circumstance, non-lethal weapons,
+weapons with the non-lethal trait deal
+
+186
+00:04:12,869 --> 00:04:12,879
+weapons with the non-lethal trait deal
+ 
+
+187
+00:04:12,879 --> 00:04:14,390
+weapons with the non-lethal trait deal
+exclusively
+
+188
+00:04:14,390 --> 00:04:14,400
+exclusively
+ 
+
+189
+00:04:14,400 --> 00:04:17,430
+exclusively
+non-lethal damage.
+
+190
+00:04:17,430 --> 00:04:17,440
+non-lethal damage.
+ 
+
+191
+00:04:17,440 --> 00:04:20,150
+non-lethal damage.
+Um, so,
+
+192
+00:04:20,150 --> 00:04:20,160
+Um, so,
+ 
+
+193
+00:04:20,160 --> 00:04:21,990
+Um, so,
+uh, for some people it might make sense
+
+194
+00:04:21,990 --> 00:04:22,000
+uh, for some people it might make sense
+ 
+
+195
+00:04:22,000 --> 00:04:24,310
+uh, for some people it might make sense
+that they carry one lethal weapon and
+
+196
+00:04:24,310 --> 00:04:24,320
+that they carry one lethal weapon and
+ 
+
+197
+00:04:24,320 --> 00:04:26,469
+that they carry one lethal weapon and
+one non-lethal weapon. If you're someone
+
+198
+00:04:26,469 --> 00:04:26,479
+one non-lethal weapon. If you're someone
+ 
+
+199
+00:04:26,479 --> 00:04:27,909
+one non-lethal weapon. If you're someone
+who's playing like a bounty hunter and
+
+200
+00:04:27,909 --> 00:04:27,919
+who's playing like a bounty hunter and
+ 
+
+201
+00:04:27,919 --> 00:04:29,909
+who's playing like a bounty hunter and
+you think you're going to be uh dealing
+
+202
+00:04:29,909 --> 00:04:29,919
+you think you're going to be uh dealing
+ 
+
+203
+00:04:29,919 --> 00:04:31,749
+you think you're going to be uh dealing
+a lot of non-lethal damage, you might
+
+204
+00:04:31,749 --> 00:04:31,759
+a lot of non-lethal damage, you might
+ 
+
+205
+00:04:31,759 --> 00:04:33,749
+a lot of non-lethal damage, you might
+want to invest in like a shifting rune
+
+206
+00:04:33,749 --> 00:04:33,759
+want to invest in like a shifting rune
+ 
+
+207
+00:04:33,759 --> 00:04:36,070
+want to invest in like a shifting rune
+for your weapon, so you can convert it
+
+208
+00:04:36,070 --> 00:04:36,080
+for your weapon, so you can convert it
+ 
+
+209
+00:04:36,080 --> 00:04:38,550
+for your weapon, so you can convert it
+between uh similar weapons that either
+
+210
+00:04:38,550 --> 00:04:38,560
+between uh similar weapons that either
+ 
+
+211
+00:04:38,560 --> 00:04:41,350
+between uh similar weapons that either
+deal lethal damage or non-lethal damage.
+
+212
+00:04:41,350 --> 00:04:41,360
+deal lethal damage or non-lethal damage.
+ 
+
+213
+00:04:41,360 --> 00:04:44,710
+deal lethal damage or non-lethal damage.
+The bounty hunter archetype also has a
+
+214
+00:04:44,710 --> 00:04:44,720
+The bounty hunter archetype also has a
+ 
+
+215
+00:04:44,720 --> 00:04:47,110
+The bounty hunter archetype also has a
+feat called tools of the trade that
+
+216
+00:04:47,110 --> 00:04:47,120
+feat called tools of the trade that
+ 
+
+217
+00:04:47,120 --> 00:04:49,590
+feat called tools of the trade that
+would allow you to do an additional 1d4
+
+218
+00:04:49,590 --> 00:04:49,600
+would allow you to do an additional 1d4
+ 
+
+219
+00:04:49,600 --> 00:04:51,749
+would allow you to do an additional 1d4
+precision damage with certain specific
+
+220
+00:04:51,749 --> 00:04:51,759
+precision damage with certain specific
+ 
+
+221
+00:04:51,759 --> 00:04:54,230
+precision damage with certain specific
+weapons that have the non-lethal trait.
+
+222
+00:04:54,230 --> 00:04:54,240
+weapons that have the non-lethal trait.
+ 
+
+223
+00:04:54,240 --> 00:04:55,670
+weapons that have the non-lethal trait.
+So that might be something you're
+
+224
+00:04:55,670 --> 00:04:55,680
+So that might be something you're
+ 
+
+225
+00:04:55,680 --> 00:04:57,189
+So that might be something you're
+looking for if you want to do this
+
+226
+00:04:57,189 --> 00:04:57,199
+looking for if you want to do this
+ 
+
+227
+00:04:57,199 --> 00:04:59,749
+looking for if you want to do this
+non-lethal damage. And the same is going
+
+228
+00:04:59,749 --> 00:04:59,759
+non-lethal damage. And the same is going
+ 
+
+229
+00:04:59,759 --> 00:05:03,270
+non-lethal damage. And the same is going
+to be true for spells. A a very very few
+
+230
+00:05:03,270 --> 00:05:03,280
+to be true for spells. A a very very few
+ 
+
+231
+00:05:03,280 --> 00:05:05,270
+to be true for spells. A a very very few
+spells have the non-lethal trait, but
+
+232
+00:05:05,270 --> 00:05:05,280
+spells have the non-lethal trait, but
+ 
+
+233
+00:05:05,280 --> 00:05:08,070
+spells have the non-lethal trait, but
+there are a few primarily days and
+
+234
+00:05:08,070 --> 00:05:08,080
+there are a few primarily days and
+ 
+
+235
+00:05:08,080 --> 00:05:11,189
+there are a few primarily days and
+phantom pain. Both of those spells have
+
+236
+00:05:11,189 --> 00:05:11,199
+phantom pain. Both of those spells have
+ 
+
+237
+00:05:11,199 --> 00:05:13,510
+phantom pain. Both of those spells have
+the non-lethal trait and deal non-lethal
+
+238
+00:05:13,510 --> 00:05:13,520
+the non-lethal trait and deal non-lethal
+ 
+
+239
+00:05:13,520 --> 00:05:16,230
+the non-lethal trait and deal non-lethal
+damage. Uh, and so that would work just
+
+240
+00:05:16,230 --> 00:05:16,240
+damage. Uh, and so that would work just
+ 
+
+241
+00:05:16,240 --> 00:05:18,150
+damage. Uh, and so that would work just
+like making a non-lethal damage attack
+
+242
+00:05:18,150 --> 00:05:18,160
+like making a non-lethal damage attack
+ 
+
+243
+00:05:18,160 --> 00:05:20,710
+like making a non-lethal damage attack
+with a non-lethal weapon. If if the
+
+244
+00:05:20,710 --> 00:05:20,720
+with a non-lethal weapon. If if the
+ 
+
+245
+00:05:20,720 --> 00:05:24,070
+with a non-lethal weapon. If if the
+damage imposed by days or phantom pain
+
+246
+00:05:24,070 --> 00:05:24,080
+damage imposed by days or phantom pain
+ 
+
+247
+00:05:24,080 --> 00:05:26,469
+damage imposed by days or phantom pain
+reduces a target to zero hit points,
+
+248
+00:05:26,469 --> 00:05:26,479
+reduces a target to zero hit points,
+ 
+
+249
+00:05:26,479 --> 00:05:28,790
+reduces a target to zero hit points,
+they would fall unconscious and not get
+
+250
+00:05:28,790 --> 00:05:28,800
+they would fall unconscious and not get
+ 
+
+251
+00:05:28,800 --> 00:05:31,270
+they would fall unconscious and not get
+the dying condition. And although it's
+
+252
+00:05:31,270 --> 00:05:31,280
+the dying condition. And although it's
+ 
+
+253
+00:05:31,280 --> 00:05:33,029
+the dying condition. And although it's
+not strictly spelled out, I don't
+
+254
+00:05:33,029 --> 00:05:33,039
+not strictly spelled out, I don't
+ 
+
+255
+00:05:33,039 --> 00:05:35,029
+not strictly spelled out, I don't
+believe I at least I haven't seen it
+
+256
+00:05:35,029 --> 00:05:35,039
+believe I at least I haven't seen it
+ 
+
+257
+00:05:35,039 --> 00:05:37,430
+believe I at least I haven't seen it
+strictly spelled out, I believe the
+
+258
+00:05:37,430 --> 00:05:37,440
+strictly spelled out, I believe the
+ 
+
+259
+00:05:37,440 --> 00:05:39,430
+strictly spelled out, I believe the
+possible persistent damage that is
+
+260
+00:05:39,430 --> 00:05:39,440
+possible persistent damage that is
+ 
+
+261
+00:05:39,440 --> 00:05:41,670
+possible persistent damage that is
+provided by phantom paint would also be
+
+262
+00:05:41,670 --> 00:05:41,680
+provided by phantom paint would also be
+ 
+
+263
+00:05:41,680 --> 00:05:43,510
+provided by phantom paint would also be
+non-lethal.
+
+264
+00:05:43,510 --> 00:05:43,520
+non-lethal.
+ 
+
+265
+00:05:43,520 --> 00:05:47,350
+non-lethal.
+Uh, so those are the primary ways of
+
+266
+00:05:47,350 --> 00:05:47,360
+Uh, so those are the primary ways of
+ 
+
+267
+00:05:47,360 --> 00:05:49,430
+Uh, so those are the primary ways of
+dealing non-lethal damage with a weapon
+
+268
+00:05:49,430 --> 00:05:49,440
+dealing non-lethal damage with a weapon
+ 
+
+269
+00:05:49,440 --> 00:05:50,950
+dealing non-lethal damage with a weapon
+with a non-lethal trait that's designed
+
+270
+00:05:50,950 --> 00:05:50,960
+with a non-lethal trait that's designed
+ 
+
+271
+00:05:50,960 --> 00:05:54,150
+with a non-lethal trait that's designed
+to do non-lethal damage. Your sap, your
+
+272
+00:05:54,150 --> 00:05:54,160
+to do non-lethal damage. Your sap, your
+ 
+
+273
+00:05:54,160 --> 00:05:57,990
+to do non-lethal damage. Your sap, your
+fist, a whip, or with spells that have
+
+274
+00:05:57,990 --> 00:05:58,000
+fist, a whip, or with spells that have
+ 
+
+275
+00:05:58,000 --> 00:06:00,550
+fist, a whip, or with spells that have
+the non-lethal trait, days, phantom
+
+276
+00:06:00,550 --> 00:06:00,560
+the non-lethal trait, days, phantom
+ 
+
+277
+00:06:00,560 --> 00:06:02,150
+the non-lethal trait, days, phantom
+pain, and there might be a few others
+
+278
+00:06:02,150 --> 00:06:02,160
+pain, and there might be a few others
+ 
+
+279
+00:06:02,160 --> 00:06:05,029
+pain, and there might be a few others
+that I'm not aware of.
+
+280
+00:06:05,029 --> 00:06:05,039
+that I'm not aware of.
+ 
+
+281
+00:06:05,039 --> 00:06:07,189
+that I'm not aware of.
+Now, that doesn't mean that you can't
+
+282
+00:06:07,189 --> 00:06:07,199
+Now, that doesn't mean that you can't
+ 
+
+283
+00:06:07,199 --> 00:06:10,230
+Now, that doesn't mean that you can't
+also make a non-lethal attack with a
+
+284
+00:06:10,230 --> 00:06:10,240
+also make a non-lethal attack with a
+ 
+
+285
+00:06:10,240 --> 00:06:13,909
+also make a non-lethal attack with a
+traditional standard lethal weapon.
+
+286
+00:06:13,909 --> 00:06:13,919
+traditional standard lethal weapon.
+ 
+
+287
+00:06:13,919 --> 00:06:17,029
+traditional standard lethal weapon.
+Any regular weapon, be it a mace, an
+
+288
+00:06:17,029 --> 00:06:17,039
+Any regular weapon, be it a mace, an
+ 
+
+289
+00:06:17,039 --> 00:06:20,950
+Any regular weapon, be it a mace, an
+axe, a long sword, whatever, a long bow,
+
+290
+00:06:20,950 --> 00:06:20,960
+axe, a long sword, whatever, a long bow,
+ 
+
+291
+00:06:20,960 --> 00:06:24,150
+axe, a long sword, whatever, a long bow,
+can deal non-lethal damage if you are
+
+292
+00:06:24,150 --> 00:06:24,160
+can deal non-lethal damage if you are
+ 
+
+293
+00:06:24,160 --> 00:06:26,870
+can deal non-lethal damage if you are
+willing to take a -2 circumstance
+
+294
+00:06:26,870 --> 00:06:26,880
+willing to take a -2 circumstance
+ 
+
+295
+00:06:26,880 --> 00:06:29,270
+willing to take a -2 circumstance
+penalty to that attack.
+
+296
+00:06:29,270 --> 00:06:29,280
+penalty to that attack.
+ 
+
+297
+00:06:29,280 --> 00:06:31,990
+penalty to that attack.
+So, this could be you've got your sword
+
+298
+00:06:31,990 --> 00:06:32,000
+So, this could be you've got your sword
+ 
+
+299
+00:06:32,000 --> 00:06:34,629
+So, this could be you've got your sword
+and so slashing with your your blade.
+
+300
+00:06:34,629 --> 00:06:34,639
+and so slashing with your your blade.
+ 
+
+301
+00:06:34,639 --> 00:06:35,749
+and so slashing with your your blade.
+You're going to take a pommel and you're
+
+302
+00:06:35,749 --> 00:06:35,759
+You're going to take a pommel and you're
+ 
+
+303
+00:06:35,759 --> 00:06:36,950
+You're going to take a pommel and you're
+going to smack someone in the forehead
+
+304
+00:06:36,950 --> 00:06:36,960
+going to smack someone in the forehead
+ 
+
+305
+00:06:36,960 --> 00:06:39,110
+going to smack someone in the forehead
+with the pommel in hopes of knocking
+
+306
+00:06:39,110 --> 00:06:39,120
+with the pommel in hopes of knocking
+ 
+
+307
+00:06:39,120 --> 00:06:41,749
+with the pommel in hopes of knocking
+them unconscious. That might be one way
+
+308
+00:06:41,749 --> 00:06:41,759
+them unconscious. That might be one way
+ 
+
+309
+00:06:41,759 --> 00:06:45,430
+them unconscious. That might be one way
+that you do a non-lethal damage attack
+
+310
+00:06:45,430 --> 00:06:45,440
+that you do a non-lethal damage attack
+ 
+
+311
+00:06:45,440 --> 00:06:49,270
+that you do a non-lethal damage attack
+while using a long sword. Uh the damage
+
+312
+00:06:49,270 --> 00:06:49,280
+while using a long sword. Uh the damage
+ 
+
+313
+00:06:49,280 --> 00:06:51,270
+while using a long sword. Uh the damage
+itself is not changed. It would do the
+
+314
+00:06:51,270 --> 00:06:51,280
+itself is not changed. It would do the
+ 
+
+315
+00:06:51,280 --> 00:06:53,909
+itself is not changed. It would do the
+same damage as normal. it would have a
+
+316
+00:06:53,909 --> 00:06:53,919
+same damage as normal. it would have a
+ 
+
+317
+00:06:53,919 --> 00:06:55,749
+same damage as normal. it would have a
+negative two circumstance penalty to the
+
+318
+00:06:55,749 --> 00:06:55,759
+negative two circumstance penalty to the
+ 
+
+319
+00:06:55,759 --> 00:06:57,909
+negative two circumstance penalty to the
+attack because you're using your weapon
+
+320
+00:06:57,909 --> 00:06:57,919
+attack because you're using your weapon
+ 
+
+321
+00:06:57,919 --> 00:07:01,270
+attack because you're using your weapon
+in a way that it was not designed to be
+
+322
+00:07:01,270 --> 00:07:01,280
+in a way that it was not designed to be
+ 
+
+323
+00:07:01,280 --> 00:07:04,469
+in a way that it was not designed to be
+used. Sort of like making an improvised
+
+324
+00:07:04,469 --> 00:07:04,479
+used. Sort of like making an improvised
+ 
+
+325
+00:07:04,479 --> 00:07:06,710
+used. Sort of like making an improvised
+attack, an improvised weapon attack. But
+
+326
+00:07:06,710 --> 00:07:06,720
+attack, an improvised weapon attack. But
+ 
+
+327
+00:07:06,720 --> 00:07:07,990
+attack, an improvised weapon attack. But
+if it hits, it does the exact same
+
+328
+00:07:07,990 --> 00:07:08,000
+if it hits, it does the exact same
+ 
+
+329
+00:07:08,000 --> 00:07:09,350
+if it hits, it does the exact same
+damage. It just has the non-lethal
+
+330
+00:07:09,350 --> 00:07:09,360
+damage. It just has the non-lethal
+ 
+
+331
+00:07:09,360 --> 00:07:11,270
+damage. It just has the non-lethal
+trait. And if that's the hit that lowers
+
+332
+00:07:11,270 --> 00:07:11,280
+trait. And if that's the hit that lowers
+ 
+
+333
+00:07:11,280 --> 00:07:12,790
+trait. And if that's the hit that lowers
+the target to zero hit points, it would
+
+334
+00:07:12,790 --> 00:07:12,800
+the target to zero hit points, it would
+ 
+
+335
+00:07:12,800 --> 00:07:14,230
+the target to zero hit points, it would
+not kill them. It would knock them
+
+336
+00:07:14,230 --> 00:07:14,240
+not kill them. It would knock them
+ 
+
+337
+00:07:14,240 --> 00:07:17,189
+not kill them. It would knock them
+unconscious. Axe, turn it sideways, use
+
+338
+00:07:17,189 --> 00:07:17,199
+unconscious. Axe, turn it sideways, use
+ 
+
+339
+00:07:17,199 --> 00:07:19,029
+unconscious. Axe, turn it sideways, use
+the flat of the blade, smack somebody in
+
+340
+00:07:19,029 --> 00:07:19,039
+the flat of the blade, smack somebody in
+ 
+
+341
+00:07:19,039 --> 00:07:21,670
+the flat of the blade, smack somebody in
+the head, and so on.
+
+342
+00:07:21,670 --> 00:07:21,680
+the head, and so on.
+ 
+
+343
+00:07:21,680 --> 00:07:24,390
+the head, and so on.
+Um, it's worth mentioning that there are
+
+344
+00:07:24,390 --> 00:07:24,400
+Um, it's worth mentioning that there are
+ 
+
+345
+00:07:24,400 --> 00:07:27,670
+Um, it's worth mentioning that there are
+a couple of feats that grant a better
+
+346
+00:07:27,670 --> 00:07:27,680
+a couple of feats that grant a better
+ 
+
+347
+00:07:27,680 --> 00:07:30,550
+a couple of feats that grant a better
+access to making non-lethal attacks with
+
+348
+00:07:30,550 --> 00:07:30,560
+access to making non-lethal attacks with
+ 
+
+349
+00:07:30,560 --> 00:07:33,029
+access to making non-lethal attacks with
+regular weapons. Uh, I know
+
+350
+00:07:33,029 --> 00:07:33,039
+regular weapons. Uh, I know
+ 
+
+351
+00:07:33,039 --> 00:07:35,110
+regular weapons. Uh, I know
+investigators can take the take down
+
+352
+00:07:35,110 --> 00:07:35,120
+investigators can take the take down
+ 
+
+353
+00:07:35,120 --> 00:07:38,150
+investigators can take the take down
+expert feat that lets them make or lets
+
+354
+00:07:38,150 --> 00:07:38,160
+expert feat that lets them make or lets
+ 
+
+355
+00:07:38,160 --> 00:07:39,670
+expert feat that lets them make or lets
+them deal non-lethal damage with pretty
+
+356
+00:07:39,670 --> 00:07:39,680
+them deal non-lethal damage with pretty
+ 
+
+357
+00:07:39,680 --> 00:07:42,230
+them deal non-lethal damage with pretty
+much all of their weapon attacks without
+
+358
+00:07:42,230 --> 00:07:42,240
+much all of their weapon attacks without
+ 
+
+359
+00:07:42,240 --> 00:07:44,870
+much all of their weapon attacks without
+suffering that negative two penalty. And
+
+360
+00:07:44,870 --> 00:07:44,880
+suffering that negative two penalty. And
+ 
+
+361
+00:07:44,880 --> 00:07:47,990
+suffering that negative two penalty. And
+uh gladiators uh the gladiator archetype
+
+362
+00:07:47,990 --> 00:07:48,000
+uh gladiators uh the gladiator archetype
+ 
+
+363
+00:07:48,000 --> 00:07:50,309
+uh gladiators uh the gladiator archetype
+can take the stage fighting feat that
+
+364
+00:07:50,309 --> 00:07:50,319
+can take the stage fighting feat that
+ 
+
+365
+00:07:50,319 --> 00:07:52,790
+can take the stage fighting feat that
+does basically the same thing. List them
+
+366
+00:07:52,790 --> 00:07:52,800
+does basically the same thing. List them
+ 
+
+367
+00:07:52,800 --> 00:07:55,110
+does basically the same thing. List them
+make non-lethal damage attacks with
+
+368
+00:07:55,110 --> 00:07:55,120
+make non-lethal damage attacks with
+ 
+
+369
+00:07:55,120 --> 00:07:57,909
+make non-lethal damage attacks with
+regular weapons without suffering the -2
+
+370
+00:07:57,909 --> 00:07:57,919
+regular weapons without suffering the -2
+ 
+
+371
+00:07:57,919 --> 00:07:59,510
+regular weapons without suffering the -2
+penalty. Also, it may be worth
+
+372
+00:07:59,510 --> 00:07:59,520
+penalty. Also, it may be worth
+ 
+
+373
+00:07:59,520 --> 00:08:01,430
+penalty. Also, it may be worth
+mentioning that the opposite is kind of
+
+374
+00:08:01,430 --> 00:08:01,440
+mentioning that the opposite is kind of
+ 
+
+375
+00:08:01,440 --> 00:08:04,950
+mentioning that the opposite is kind of
+true. You can take a non-lethal weapon
+
+376
+00:08:04,950 --> 00:08:04,960
+true. You can take a non-lethal weapon
+ 
+
+377
+00:08:04,960 --> 00:08:07,670
+true. You can take a non-lethal weapon
+and deal lethal damage with it by
+
+378
+00:08:07,670 --> 00:08:07,680
+and deal lethal damage with it by
+ 
+
+379
+00:08:07,680 --> 00:08:10,230
+and deal lethal damage with it by
+suffering a negative two penalty. So, if
+
+380
+00:08:10,230 --> 00:08:10,240
+suffering a negative two penalty. So, if
+ 
+
+381
+00:08:10,240 --> 00:08:12,550
+suffering a negative two penalty. So, if
+you've got a sap and you want to deal
+
+382
+00:08:12,550 --> 00:08:12,560
+you've got a sap and you want to deal
+ 
+
+383
+00:08:12,560 --> 00:08:15,029
+you've got a sap and you want to deal
+lethal damage with it, you can do so.
+
+384
+00:08:15,029 --> 00:08:15,039
+lethal damage with it, you can do so.
+ 
+
+385
+00:08:15,039 --> 00:08:17,270
+lethal damage with it, you can do so.
+You suffer a negative two penalty, but
+
+386
+00:08:17,270 --> 00:08:17,280
+You suffer a negative two penalty, but
+ 
+
+387
+00:08:17,280 --> 00:08:20,469
+You suffer a negative two penalty, but
+you uh but you deal lethal damage and
+
+388
+00:08:20,469 --> 00:08:20,479
+you uh but you deal lethal damage and
+ 
+
+389
+00:08:20,479 --> 00:08:22,070
+you uh but you deal lethal damage and
+you could potentially kill somebody with
+
+390
+00:08:22,070 --> 00:08:22,080
+you could potentially kill somebody with
+ 
+
+391
+00:08:22,080 --> 00:08:24,469
+you could potentially kill somebody with
+that strike. I would say like, you know,
+
+392
+00:08:24,469 --> 00:08:24,479
+that strike. I would say like, you know,
+ 
+
+393
+00:08:24,479 --> 00:08:26,309
+that strike. I would say like, you know,
+you're you're taking the negative2
+
+394
+00:08:26,309 --> 00:08:26,319
+you're you're taking the negative2
+ 
+
+395
+00:08:26,319 --> 00:08:27,830
+you're you're taking the negative2
+penalty because you're specifically
+
+396
+00:08:27,830 --> 00:08:27,840
+penalty because you're specifically
+ 
+
+397
+00:08:27,840 --> 00:08:29,589
+penalty because you're specifically
+trying to hit them in the throat with
+
+398
+00:08:29,589 --> 00:08:29,599
+trying to hit them in the throat with
+ 
+
+399
+00:08:29,599 --> 00:08:31,990
+trying to hit them in the throat with
+it. Something like that would be the
+
+400
+00:08:31,990 --> 00:08:32,000
+it. Something like that would be the
+ 
+
+401
+00:08:32,000 --> 00:08:35,190
+it. Something like that would be the
+narrative explanation for why that that
+
+402
+00:08:35,190 --> 00:08:35,200
+narrative explanation for why that that
+ 
+
+403
+00:08:35,200 --> 00:08:38,310
+narrative explanation for why that that
+works. Now, there is no such provision.
+
+404
+00:08:38,310 --> 00:08:38,320
+works. Now, there is no such provision.
+ 
+
+405
+00:08:38,320 --> 00:08:41,829
+works. Now, there is no such provision.
+uh there is no such broad provision for
+
+406
+00:08:41,829 --> 00:08:41,839
+uh there is no such broad provision for
+ 
+
+407
+00:08:41,839 --> 00:08:45,430
+uh there is no such broad provision for
+spells. So even though you can take a a
+
+408
+00:08:45,430 --> 00:08:45,440
+spells. So even though you can take a a
+ 
+
+409
+00:08:45,440 --> 00:08:47,509
+spells. So even though you can take a a
+long sword and suffer a negative -2
+
+410
+00:08:47,509 --> 00:08:47,519
+long sword and suffer a negative -2
+ 
+
+411
+00:08:47,519 --> 00:08:49,990
+long sword and suffer a negative -2
+penalty to deal non-lethal damage with
+
+412
+00:08:49,990 --> 00:08:50,000
+penalty to deal non-lethal damage with
+ 
+
+413
+00:08:50,000 --> 00:08:52,470
+penalty to deal non-lethal damage with
+it, you cannot just take a negative -2
+
+414
+00:08:52,470 --> 00:08:52,480
+it, you cannot just take a negative -2
+ 
+
+415
+00:08:52,480 --> 00:08:55,110
+it, you cannot just take a negative -2
+penalty to a spell that makes a spell
+
+416
+00:08:55,110 --> 00:08:55,120
+penalty to a spell that makes a spell
+ 
+
+417
+00:08:55,120 --> 00:08:58,630
+penalty to a spell that makes a spell
+attack and turn it into non-lethal
+
+418
+00:08:58,630 --> 00:08:58,640
+attack and turn it into non-lethal
+ 
+
+419
+00:08:58,640 --> 00:09:00,630
+attack and turn it into non-lethal
+damage. But uh there are some things you
+
+420
+00:09:00,630 --> 00:09:00,640
+damage. But uh there are some things you
+ 
+
+421
+00:09:00,640 --> 00:09:02,070
+damage. But uh there are some things you
+can do which we'll talk about in just a
+
+422
+00:09:02,070 --> 00:09:02,080
+can do which we'll talk about in just a
+ 
+
+423
+00:09:02,080 --> 00:09:04,630
+can do which we'll talk about in just a
+moment. So I also want to talk a little
+
+424
+00:09:04,630 --> 00:09:04,640
+moment. So I also want to talk a little
+ 
+
+425
+00:09:04,640 --> 00:09:08,230
+moment. So I also want to talk a little
+bit about immunity to non-lethal damage.
+
+426
+00:09:08,230 --> 00:09:08,240
+bit about immunity to non-lethal damage.
+ 
+
+427
+00:09:08,240 --> 00:09:10,870
+bit about immunity to non-lethal damage.
+Some creatures, especially things like
+
+428
+00:09:10,870 --> 00:09:10,880
+Some creatures, especially things like
+ 
+
+429
+00:09:10,880 --> 00:09:13,990
+Some creatures, especially things like
+golems, have immunity to non-lethal
+
+430
+00:09:13,990 --> 00:09:14,000
+golems, have immunity to non-lethal
+ 
+
+431
+00:09:14,000 --> 00:09:16,949
+golems, have immunity to non-lethal
+damage. And the example in the book is
+
+432
+00:09:16,949 --> 00:09:16,959
+damage. And the example in the book is
+ 
+
+433
+00:09:16,959 --> 00:09:18,710
+damage. And the example in the book is
+is basically it doesn't matter how hard
+
+434
+00:09:18,710 --> 00:09:18,720
+is basically it doesn't matter how hard
+ 
+
+435
+00:09:18,720 --> 00:09:20,630
+is basically it doesn't matter how hard
+you're punching a tank with your bare
+
+436
+00:09:20,630 --> 00:09:20,640
+you're punching a tank with your bare
+ 
+
+437
+00:09:20,640 --> 00:09:23,829
+you're punching a tank with your bare
+fist, you're not going to deal, you
+
+438
+00:09:23,829 --> 00:09:23,839
+fist, you're not going to deal, you
+ 
+
+439
+00:09:23,839 --> 00:09:25,110
+fist, you're not going to deal, you
+know, you're not going to incapacitate
+
+440
+00:09:25,110 --> 00:09:25,120
+know, you're not going to incapacitate
+ 
+
+441
+00:09:25,120 --> 00:09:27,750
+know, you're not going to incapacitate
+it, right? And that's basically the
+
+442
+00:09:27,750 --> 00:09:27,760
+it, right? And that's basically the
+ 
+
+443
+00:09:27,760 --> 00:09:30,870
+it, right? And that's basically the
+immunity that uh creatures like
+
+444
+00:09:30,870 --> 00:09:30,880
+immunity that uh creatures like
+ 
+
+445
+00:09:30,880 --> 00:09:32,230
+immunity that uh creatures like
+constructs that specifically have
+
+446
+00:09:32,230 --> 00:09:32,240
+constructs that specifically have
+ 
+
+447
+00:09:32,240 --> 00:09:36,389
+constructs that specifically have
+immunity to non-lethal damage. um
+
+448
+00:09:36,389 --> 00:09:36,399
+immunity to non-lethal damage. um
+ 
+
+449
+00:09:36,399 --> 00:09:38,630
+immunity to non-lethal damage. um
+the the benefit that they have. You're
+
+450
+00:09:38,630 --> 00:09:38,640
+the the benefit that they have. You're
+ 
+
+451
+00:09:38,640 --> 00:09:40,949
+the the benefit that they have. You're
+you're you're never going to kill an
+
+452
+00:09:40,949 --> 00:09:40,959
+you're you're never going to kill an
+ 
+
+453
+00:09:40,959 --> 00:09:43,269
+you're you're never going to kill an
+iron golem by punching it with
+
+454
+00:09:43,269 --> 00:09:43,279
+iron golem by punching it with
+ 
+
+455
+00:09:43,279 --> 00:09:46,790
+iron golem by punching it with
+non-lethal damage. If you want to uh
+
+456
+00:09:46,790 --> 00:09:46,800
+non-lethal damage. If you want to uh
+ 
+
+457
+00:09:46,800 --> 00:09:49,670
+non-lethal damage. If you want to uh
+destroy the constructs with lethal
+
+458
+00:09:49,670 --> 00:09:49,680
+destroy the constructs with lethal
+ 
+
+459
+00:09:49,680 --> 00:09:51,509
+destroy the constructs with lethal
+damage, you would have to suffer the
+
+460
+00:09:51,509 --> 00:09:51,519
+damage, you would have to suffer the
+ 
+
+461
+00:09:51,519 --> 00:09:54,470
+damage, you would have to suffer the
+negative -2 penalty to turn your
+
+462
+00:09:54,470 --> 00:09:54,480
+negative -2 penalty to turn your
+ 
+
+463
+00:09:54,480 --> 00:09:57,509
+negative -2 penalty to turn your
+non-lethal attacks lethal or use regular
+
+464
+00:09:57,509 --> 00:09:57,519
+non-lethal attacks lethal or use regular
+ 
+
+465
+00:09:57,519 --> 00:10:01,030
+non-lethal attacks lethal or use regular
+lethal weapons and lethal means. Now, uh
+
+466
+00:10:01,030 --> 00:10:01,040
+lethal weapons and lethal means. Now, uh
+ 
+
+467
+00:10:01,040 --> 00:10:02,310
+lethal weapons and lethal means. Now, uh
+there are a number of different
+
+468
+00:10:02,310 --> 00:10:02,320
+there are a number of different
+ 
+
+469
+00:10:02,320 --> 00:10:04,630
+there are a number of different
+questions. Um, some of these came from
+
+470
+00:10:04,630 --> 00:10:04,640
+questions. Um, some of these came from
+ 
+
+471
+00:10:04,640 --> 00:10:06,310
+questions. Um, some of these came from
+uh one of my patrons. So, as always,
+
+472
+00:10:06,310 --> 00:10:06,320
+uh one of my patrons. So, as always,
+ 
+
+473
+00:10:06,320 --> 00:10:07,430
+uh one of my patrons. So, as always,
+thank you everybody out there who
+
+474
+00:10:07,430 --> 00:10:07,440
+thank you everybody out there who
+ 
+
+475
+00:10:07,440 --> 00:10:10,070
+thank you everybody out there who
+supports me through my Patreon. And uh I
+
+476
+00:10:10,070 --> 00:10:10,080
+supports me through my Patreon. And uh I
+ 
+
+477
+00:10:10,080 --> 00:10:11,430
+supports me through my Patreon. And uh I
+think one or two of them I also noticed
+
+478
+00:10:11,430 --> 00:10:11,440
+think one or two of them I also noticed
+ 
+
+479
+00:10:11,440 --> 00:10:13,030
+think one or two of them I also noticed
+just from research on the net. But let's
+
+480
+00:10:13,030 --> 00:10:13,040
+just from research on the net. But let's
+ 
+
+481
+00:10:13,040 --> 00:10:14,310
+just from research on the net. But let's
+take a look at some of these uh
+
+482
+00:10:14,310 --> 00:10:14,320
+take a look at some of these uh
+ 
+
+483
+00:10:14,320 --> 00:10:16,710
+take a look at some of these uh
+questions that come up. Can a spell
+
+484
+00:10:16,710 --> 00:10:16,720
+questions that come up. Can a spell
+ 
+
+485
+00:10:16,720 --> 00:10:18,550
+questions that come up. Can a spell
+without the non-lethal trait be made
+
+486
+00:10:18,550 --> 00:10:18,560
+without the non-lethal trait be made
+ 
+
+487
+00:10:18,560 --> 00:10:21,190
+without the non-lethal trait be made
+non-lethal? Again, no. Not there's not
+
+488
+00:10:21,190 --> 00:10:21,200
+non-lethal? Again, no. Not there's not
+ 
+
+489
+00:10:21,200 --> 00:10:24,230
+non-lethal? Again, no. Not there's not
+like a blanket rule like there is with
+
+490
+00:10:24,230 --> 00:10:24,240
+like a blanket rule like there is with
+ 
+
+491
+00:10:24,240 --> 00:10:27,910
+like a blanket rule like there is with
+with weapons being used to do non lethal
+
+492
+00:10:27,910 --> 00:10:27,920
+with weapons being used to do non lethal
+ 
+
+493
+00:10:27,920 --> 00:10:31,269
+with weapons being used to do non lethal
+damage, but there is a wizard feat
+
+494
+00:10:31,269 --> 00:10:31,279
+damage, but there is a wizard feat
+ 
+
+495
+00:10:31,279 --> 00:10:34,630
+damage, but there is a wizard feat
+called the non-lethal spell feat that uh
+
+496
+00:10:34,630 --> 00:10:34,640
+called the non-lethal spell feat that uh
+ 
+
+497
+00:10:34,640 --> 00:10:37,430
+called the non-lethal spell feat that uh
+it takes one action, you cast it, and if
+
+498
+00:10:37,430 --> 00:10:37,440
+it takes one action, you cast it, and if
+ 
+
+499
+00:10:37,440 --> 00:10:39,910
+it takes one action, you cast it, and if
+the following action is to cast a spell
+
+500
+00:10:39,910 --> 00:10:39,920
+the following action is to cast a spell
+ 
+
+501
+00:10:39,920 --> 00:10:43,110
+the following action is to cast a spell
+that does not have the the death or void
+
+502
+00:10:43,110 --> 00:10:43,120
+that does not have the the death or void
+ 
+
+503
+00:10:43,120 --> 00:10:47,269
+that does not have the the death or void
+traits, then that uh spell gains the
+
+504
+00:10:47,269 --> 00:10:47,279
+traits, then that uh spell gains the
+ 
+
+505
+00:10:47,279 --> 00:10:49,590
+traits, then that uh spell gains the
+non-lethal trait and deals non-lethal
+
+506
+00:10:49,590 --> 00:10:49,600
+non-lethal trait and deals non-lethal
+ 
+
+507
+00:10:49,600 --> 00:10:50,790
+non-lethal trait and deals non-lethal
+damage.
+
+508
+00:10:50,790 --> 00:10:50,800
+damage.
+ 
+
+509
+00:10:50,800 --> 00:10:53,910
+damage.
+So, um, this could turn your force
+
+510
+00:10:53,910 --> 00:10:53,920
+So, um, this could turn your force
+ 
+
+511
+00:10:53,920 --> 00:10:56,389
+So, um, this could turn your force
+barrage, the oldfashioned magic missile,
+
+512
+00:10:56,389 --> 00:10:56,399
+barrage, the oldfashioned magic missile,
+ 
+
+513
+00:10:56,399 --> 00:10:58,630
+barrage, the oldfashioned magic missile,
+maybe they're now stunbolts. You've
+
+514
+00:10:58,630 --> 00:10:58,640
+maybe they're now stunbolts. You've
+ 
+
+515
+00:10:58,640 --> 00:11:00,870
+maybe they're now stunbolts. You've
+customized the spell as you're casting
+
+516
+00:11:00,870 --> 00:11:00,880
+customized the spell as you're casting
+ 
+
+517
+00:11:00,880 --> 00:11:04,150
+customized the spell as you're casting
+it by spinning an extra action. Uh, you
+
+518
+00:11:04,150 --> 00:11:04,160
+it by spinning an extra action. Uh, you
+ 
+
+519
+00:11:04,160 --> 00:11:05,190
+it by spinning an extra action. Uh, you
+know, some people say, "Well, wait a
+
+520
+00:11:05,190 --> 00:11:05,200
+know, some people say, "Well, wait a
+ 
+
+521
+00:11:05,200 --> 00:11:06,389
+know, some people say, "Well, wait a
+second. What about fireball? How do you
+
+522
+00:11:06,389 --> 00:11:06,399
+second. What about fireball? How do you
+ 
+
+523
+00:11:06,399 --> 00:11:08,870
+second. What about fireball? How do you
+turn a fireball non-lethal?" Well, maybe
+
+524
+00:11:08,870 --> 00:11:08,880
+turn a fireball non-lethal?" Well, maybe
+ 
+
+525
+00:11:08,880 --> 00:11:13,269
+turn a fireball non-lethal?" Well, maybe
+the fireball becomes a concussive blast
+
+526
+00:11:13,269 --> 00:11:13,279
+the fireball becomes a concussive blast
+ 
+
+527
+00:11:13,279 --> 00:11:16,470
+the fireball becomes a concussive blast
+with a bright bright light. It no longer
+
+528
+00:11:16,470 --> 00:11:16,480
+with a bright bright light. It no longer
+ 
+
+529
+00:11:16,480 --> 00:11:19,110
+with a bright bright light. It no longer
+does lethal damage, but it's basically a
+
+530
+00:11:19,110 --> 00:11:19,120
+does lethal damage, but it's basically a
+ 
+
+531
+00:11:19,120 --> 00:11:21,910
+does lethal damage, but it's basically a
+giant modern-day flashbang, you know,
+
+532
+00:11:21,910 --> 00:11:21,920
+giant modern-day flashbang, you know,
+ 
+
+533
+00:11:21,920 --> 00:11:24,470
+giant modern-day flashbang, you know,
+that that police might use to clear a
+
+534
+00:11:24,470 --> 00:11:24,480
+that that police might use to clear a
+ 
+
+535
+00:11:24,480 --> 00:11:27,670
+that that police might use to clear a
+room uh and stun people in it before
+
+536
+00:11:27,670 --> 00:11:27,680
+room uh and stun people in it before
+ 
+
+537
+00:11:27,680 --> 00:11:31,030
+room uh and stun people in it before
+they come in. Uh you're you're you're
+
+538
+00:11:31,030 --> 00:11:31,040
+they come in. Uh you're you're you're
+ 
+
+539
+00:11:31,040 --> 00:11:34,870
+they come in. Uh you're you're you're
+adjusting and changing the the magic
+
+540
+00:11:34,870 --> 00:11:34,880
+adjusting and changing the the magic
+ 
+
+541
+00:11:34,880 --> 00:11:36,230
+adjusting and changing the the magic
+involved, the weave and the magic and
+
+542
+00:11:36,230 --> 00:11:36,240
+involved, the weave and the magic and
+ 
+
+543
+00:11:36,240 --> 00:11:37,670
+involved, the weave and the magic and
+the spell wire, casting of that extra
+
+544
+00:11:37,670 --> 00:11:37,680
+the spell wire, casting of that extra
+ 
+
+545
+00:11:37,680 --> 00:11:39,829
+the spell wire, casting of that extra
+direction to make it non-lethal. This
+
+546
+00:11:39,829 --> 00:11:39,839
+direction to make it non-lethal. This
+ 
+
+547
+00:11:39,839 --> 00:11:41,590
+direction to make it non-lethal. This
+this may be a situation where you have
+
+548
+00:11:41,590 --> 00:11:41,600
+this may be a situation where you have
+ 
+
+549
+00:11:41,600 --> 00:11:44,630
+this may be a situation where you have
+to lean a little bit on roleplaying the
+
+550
+00:11:44,630 --> 00:11:44,640
+to lean a little bit on roleplaying the
+ 
+
+551
+00:11:44,640 --> 00:11:47,110
+to lean a little bit on roleplaying the
+result, see what the result of the spell
+
+552
+00:11:47,110 --> 00:11:47,120
+result, see what the result of the spell
+ 
+
+553
+00:11:47,120 --> 00:11:50,230
+result, see what the result of the spell
+is, and then tailor the narrative to fit
+
+554
+00:11:50,230 --> 00:11:50,240
+is, and then tailor the narrative to fit
+ 
+
+555
+00:11:50,240 --> 00:11:52,949
+is, and then tailor the narrative to fit
+that. But mechanically,
+
+556
+00:11:52,949 --> 00:11:52,959
+that. But mechanically,
+ 
+
+557
+00:11:52,959 --> 00:11:54,870
+that. But mechanically,
+uh, you know, like would the fireball
+
+558
+00:11:54,870 --> 00:11:54,880
+uh, you know, like would the fireball
+ 
+
+559
+00:11:54,880 --> 00:11:57,269
+uh, you know, like would the fireball
+still do fire damage? By raw,
+
+560
+00:11:57,269 --> 00:11:57,279
+still do fire damage? By raw,
+ 
+
+561
+00:11:57,279 --> 00:11:58,949
+still do fire damage? By raw,
+mechanically, yes. It's still doing fire
+
+562
+00:11:58,949 --> 00:11:58,959
+mechanically, yes. It's still doing fire
+ 
+
+563
+00:11:58,959 --> 00:12:02,150
+mechanically, yes. It's still doing fire
+damage. It's just doing non-lethal fire
+
+564
+00:12:02,150 --> 00:12:02,160
+damage. It's just doing non-lethal fire
+ 
+
+565
+00:12:02,160 --> 00:12:06,230
+damage. It's just doing non-lethal fire
+damage. Now, what mental gymnastics has
+
+566
+00:12:06,230 --> 00:12:06,240
+damage. Now, what mental gymnastics has
+ 
+
+567
+00:12:06,240 --> 00:12:08,230
+damage. Now, what mental gymnastics has
+to go along in the narrative to make
+
+568
+00:12:08,230 --> 00:12:08,240
+to go along in the narrative to make
+ 
+
+569
+00:12:08,240 --> 00:12:10,949
+to go along in the narrative to make
+sense of that is going to be up to the
+
+570
+00:12:10,949 --> 00:12:10,959
+sense of that is going to be up to the
+ 
+
+571
+00:12:10,959 --> 00:12:13,829
+sense of that is going to be up to the
+GM and the players to figure out. Uh me,
+
+572
+00:12:13,829 --> 00:12:13,839
+GM and the players to figure out. Uh me,
+ 
+
+573
+00:12:13,839 --> 00:12:17,430
+GM and the players to figure out. Uh me,
+I probably would no longer call it fire
+
+574
+00:12:17,430 --> 00:12:17,440
+I probably would no longer call it fire
+ 
+
+575
+00:12:17,440 --> 00:12:20,069
+I probably would no longer call it fire
+damage. You know, I would, like I said,
+
+576
+00:12:20,069 --> 00:12:20,079
+damage. You know, I would, like I said,
+ 
+
+577
+00:12:20,079 --> 00:12:21,990
+damage. You know, I would, like I said,
+I would say it's a concussive blast with
+
+578
+00:12:21,990 --> 00:12:22,000
+I would say it's a concussive blast with
+ 
+
+579
+00:12:22,000 --> 00:12:24,310
+I would say it's a concussive blast with
+a bright light or whatever. That would
+
+580
+00:12:24,310 --> 00:12:24,320
+a bright light or whatever. That would
+ 
+
+581
+00:12:24,320 --> 00:12:25,750
+a bright light or whatever. That would
+still do the same thing. The only the
+
+582
+00:12:25,750 --> 00:12:25,760
+still do the same thing. The only the
+ 
+
+583
+00:12:25,760 --> 00:12:28,230
+still do the same thing. The only the
+only problem would be if uh you're using
+
+584
+00:12:28,230 --> 00:12:28,240
+only problem would be if uh you're using
+ 
+
+585
+00:12:28,240 --> 00:12:30,470
+only problem would be if uh you're using
+that fireball to deal non-lethal damage
+
+586
+00:12:30,470 --> 00:12:30,480
+that fireball to deal non-lethal damage
+ 
+
+587
+00:12:30,480 --> 00:12:32,870
+that fireball to deal non-lethal damage
+against a target that is weak to fire.
+
+588
+00:12:32,870 --> 00:12:32,880
+against a target that is weak to fire.
+ 
+
+589
+00:12:32,880 --> 00:12:34,949
+against a target that is weak to fire.
+Uh in those cases, they would still take
+
+590
+00:12:34,949 --> 00:12:34,959
+Uh in those cases, they would still take
+ 
+
+591
+00:12:34,959 --> 00:12:36,710
+Uh in those cases, they would still take
+the their weakness would still be
+
+592
+00:12:36,710 --> 00:12:36,720
+the their weakness would still be
+ 
+
+593
+00:12:36,720 --> 00:12:38,470
+the their weakness would still be
+triggered. They would still take that
+
+594
+00:12:38,470 --> 00:12:38,480
+triggered. They would still take that
+ 
+
+595
+00:12:38,480 --> 00:12:42,949
+triggered. They would still take that
+extra damage. Um but and it is still
+
+596
+00:12:42,949 --> 00:12:42,959
+extra damage. Um but and it is still
+ 
+
+597
+00:12:42,959 --> 00:12:46,790
+extra damage. Um but and it is still
+fire damage. It's just non-lethal.
+
+598
+00:12:46,790 --> 00:12:46,800
+fire damage. It's just non-lethal.
+ 
+
+599
+00:12:46,800 --> 00:12:50,870
+fire damage. It's just non-lethal.
+So, I I'm I'm the first to say that
+
+600
+00:12:50,870 --> 00:12:50,880
+So, I I'm I'm the first to say that
+ 
+
+601
+00:12:50,880 --> 00:12:53,509
+So, I I'm I'm the first to say that
+there's there may be some some give and
+
+602
+00:12:53,509 --> 00:12:53,519
+there's there may be some some give and
+ 
+
+603
+00:12:53,519 --> 00:12:55,750
+there's there may be some some give and
+take between, you know, the players and
+
+604
+00:12:55,750 --> 00:12:55,760
+take between, you know, the players and
+ 
+
+605
+00:12:55,760 --> 00:12:57,430
+take between, you know, the players and
+the GM to figure figure out what makes
+
+606
+00:12:57,430 --> 00:12:57,440
+the GM to figure figure out what makes
+ 
+
+607
+00:12:57,440 --> 00:12:59,350
+the GM to figure figure out what makes
+most sense in the narrative to make this
+
+608
+00:12:59,350 --> 00:12:59,360
+most sense in the narrative to make this
+ 
+
+609
+00:12:59,360 --> 00:13:03,269
+most sense in the narrative to make this
+work. But rules is written. What the
+
+610
+00:13:03,269 --> 00:13:03,279
+work. But rules is written. What the
+ 
+
+611
+00:13:03,279 --> 00:13:06,310
+work. But rules is written. What the
+rules say is that it just gains the
+
+612
+00:13:06,310 --> 00:13:06,320
+rules say is that it just gains the
+ 
+
+613
+00:13:06,320 --> 00:13:08,470
+rules say is that it just gains the
+non-lethal trait. And all that
+
+614
+00:13:08,470 --> 00:13:08,480
+non-lethal trait. And all that
+ 
+
+615
+00:13:08,480 --> 00:13:10,150
+non-lethal trait. And all that
+non-lethal trait means is if you reduce
+
+616
+00:13:10,150 --> 00:13:10,160
+non-lethal trait means is if you reduce
+ 
+
+617
+00:13:10,160 --> 00:13:12,870
+non-lethal trait means is if you reduce
+the target to zero, then they fall
+
+618
+00:13:12,870 --> 00:13:12,880
+the target to zero, then they fall
+ 
+
+619
+00:13:12,880 --> 00:13:15,509
+the target to zero, then they fall
+unconscious instead of dying. everything
+
+620
+00:13:15,509 --> 00:13:15,519
+unconscious instead of dying. everything
+ 
+
+621
+00:13:15,519 --> 00:13:18,069
+unconscious instead of dying. everything
+else is the same. Still fire damage,
+
+622
+00:13:18,069 --> 00:13:18,079
+else is the same. Still fire damage,
+ 
+
+623
+00:13:18,079 --> 00:13:19,590
+else is the same. Still fire damage,
+still triggers fire weaknesses or
+
+624
+00:13:19,590 --> 00:13:19,600
+still triggers fire weaknesses or
+ 
+
+625
+00:13:19,600 --> 00:13:22,949
+still triggers fire weaknesses or
+whatever. Um, it just would not kill
+
+626
+00:13:22,949 --> 00:13:22,959
+whatever. Um, it just would not kill
+ 
+
+627
+00:13:22,959 --> 00:13:25,030
+whatever. Um, it just would not kill
+somebody. But I agree, you may have to
+
+628
+00:13:25,030 --> 00:13:25,040
+somebody. But I agree, you may have to
+ 
+
+629
+00:13:25,040 --> 00:13:26,710
+somebody. But I agree, you may have to
+do a little bit of a little bit of work
+
+630
+00:13:26,710 --> 00:13:26,720
+do a little bit of a little bit of work
+ 
+
+631
+00:13:26,720 --> 00:13:28,470
+do a little bit of a little bit of work
+to figure out how to make that work in
+
+632
+00:13:28,470 --> 00:13:28,480
+to figure out how to make that work in
+ 
+
+633
+00:13:28,480 --> 00:13:32,870
+to figure out how to make that work in
+the narrative. Um, likewise, there's the
+
+634
+00:13:32,870 --> 00:13:32,880
+the narrative. Um, likewise, there's the
+ 
+
+635
+00:13:32,880 --> 00:13:34,150
+the narrative. Um, likewise, there's the
+question about like the disintegrate
+
+636
+00:13:34,150 --> 00:13:34,160
+question about like the disintegrate
+ 
+
+637
+00:13:34,160 --> 00:13:39,110
+question about like the disintegrate
+spell. So, what happens here? Um,
+
+638
+00:13:39,110 --> 00:13:39,120
+spell. So, what happens here? Um,
+ 
+
+639
+00:13:39,120 --> 00:13:43,750
+spell. So, what happens here? Um,
+can you use the uh wizard's uh
+
+640
+00:13:43,750 --> 00:13:43,760
+can you use the uh wizard's uh
+ 
+
+641
+00:13:43,760 --> 00:13:46,150
+can you use the uh wizard's uh
+non-lethal spell feat to cast a
+
+642
+00:13:46,150 --> 00:13:46,160
+non-lethal spell feat to cast a
+ 
+
+643
+00:13:46,160 --> 00:13:49,110
+non-lethal spell feat to cast a
+non-lethal disintegrate spell? Yeah, you
+
+644
+00:13:49,110 --> 00:13:49,120
+non-lethal disintegrate spell? Yeah, you
+ 
+
+645
+00:13:49,120 --> 00:13:51,430
+non-lethal disintegrate spell? Yeah, you
+can. So, what happens when that reduces
+
+646
+00:13:51,430 --> 00:13:51,440
+can. So, what happens when that reduces
+ 
+
+647
+00:13:51,440 --> 00:13:53,590
+can. So, what happens when that reduces
+a person to to zero hit points? Does it
+
+648
+00:13:53,590 --> 00:13:53,600
+a person to to zero hit points? Does it
+ 
+
+649
+00:13:53,600 --> 00:13:55,750
+a person to to zero hit points? Does it
+turn them to dust like it says in the
+
+650
+00:13:55,750 --> 00:13:55,760
+turn them to dust like it says in the
+ 
+
+651
+00:13:55,760 --> 00:13:58,069
+turn them to dust like it says in the
+description of the spell, or do they
+
+652
+00:13:58,069 --> 00:13:58,079
+description of the spell, or do they
+ 
+
+653
+00:13:58,079 --> 00:14:00,949
+description of the spell, or do they
+just fall unconscious?
+
+654
+00:14:00,949 --> 00:14:00,959
+just fall unconscious?
+ 
+
+655
+00:14:00,959 --> 00:14:03,030
+just fall unconscious?
+Personally, as a GM, I would I would
+
+656
+00:14:03,030 --> 00:14:03,040
+Personally, as a GM, I would I would
+ 
+
+657
+00:14:03,040 --> 00:14:06,790
+Personally, as a GM, I would I would
+lean on whatever the cer's intent is. If
+
+658
+00:14:06,790 --> 00:14:06,800
+lean on whatever the cer's intent is. If
+ 
+
+659
+00:14:06,800 --> 00:14:10,550
+lean on whatever the cer's intent is. If
+a player spends the effort to make their
+
+660
+00:14:10,550 --> 00:14:10,560
+a player spends the effort to make their
+ 
+
+661
+00:14:10,560 --> 00:14:13,030
+a player spends the effort to make their
+disintegrate spell non-lethal,
+
+662
+00:14:13,030 --> 00:14:13,040
+disintegrate spell non-lethal,
+ 
+
+663
+00:14:13,040 --> 00:14:14,870
+disintegrate spell non-lethal,
+I I I would just have it knock the
+
+664
+00:14:14,870 --> 00:14:14,880
+I I I would just have it knock the
+ 
+
+665
+00:14:14,880 --> 00:14:17,750
+I I I would just have it knock the
+person out. You know, it is clear that
+
+666
+00:14:17,750 --> 00:14:17,760
+person out. You know, it is clear that
+ 
+
+667
+00:14:17,760 --> 00:14:19,350
+person out. You know, it is clear that
+that is what they're trying to
+
+668
+00:14:19,350 --> 00:14:19,360
+that is what they're trying to
+ 
+
+669
+00:14:19,360 --> 00:14:22,790
+that is what they're trying to
+accomplish. Let's not penalize them for
+
+670
+00:14:22,790 --> 00:14:22,800
+accomplish. Let's not penalize them for
+ 
+
+671
+00:14:22,800 --> 00:14:27,430
+accomplish. Let's not penalize them for
+rolling too well. Um if if if they're
+
+672
+00:14:27,430 --> 00:14:27,440
+rolling too well. Um if if if they're
+ 
+
+673
+00:14:27,440 --> 00:14:29,030
+rolling too well. Um if if if they're
+taking the time to spend the extra
+
+674
+00:14:29,030 --> 00:14:29,040
+taking the time to spend the extra
+ 
+
+675
+00:14:29,040 --> 00:14:30,470
+taking the time to spend the extra
+action on that feed to make it
+
+676
+00:14:30,470 --> 00:14:30,480
+action on that feed to make it
+ 
+
+677
+00:14:30,480 --> 00:14:33,269
+action on that feed to make it
+non-lethal, just let it knock them out.
+
+678
+00:14:33,269 --> 00:14:33,279
+non-lethal, just let it knock them out.
+ 
+
+679
+00:14:33,279 --> 00:14:35,990
+non-lethal, just let it knock them out.
+But as always, uh, GMs are always going
+
+680
+00:14:35,990 --> 00:14:36,000
+But as always, uh, GMs are always going
+ 
+
+681
+00:14:36,000 --> 00:14:37,189
+But as always, uh, GMs are always going
+to have the final call and the final
+
+682
+00:14:37,189 --> 00:14:37,199
+to have the final call and the final
+ 
+
+683
+00:14:37,199 --> 00:14:39,590
+to have the final call and the final
+rule, and they may rule differently. Uh,
+
+684
+00:14:39,590 --> 00:14:39,600
+rule, and they may rule differently. Uh,
+ 
+
+685
+00:14:39,600 --> 00:14:41,990
+rule, and they may rule differently. Uh,
+I also want to mention that, uh, in the
+
+686
+00:14:41,990 --> 00:14:42,000
+I also want to mention that, uh, in the
+ 
+
+687
+00:14:42,000 --> 00:14:45,110
+I also want to mention that, uh, in the
+Agents of Edge adventure path, there is
+
+688
+00:14:45,110 --> 00:14:45,120
+Agents of Edge adventure path, there is
+ 
+
+689
+00:14:45,120 --> 00:14:49,110
+Agents of Edge adventure path, there is
+a blanket rule that basically says that
+
+690
+00:14:49,110 --> 00:14:49,120
+a blanket rule that basically says that
+ 
+
+691
+00:14:49,120 --> 00:14:51,670
+a blanket rule that basically says that
+the assumption in this campaign is that
+
+692
+00:14:51,670 --> 00:14:51,680
+the assumption in this campaign is that
+ 
+
+693
+00:14:51,680 --> 00:14:54,069
+the assumption in this campaign is that
+players are doing non-lethal damage as
+
+694
+00:14:54,069 --> 00:14:54,079
+players are doing non-lethal damage as
+ 
+
+695
+00:14:54,079 --> 00:14:56,069
+players are doing non-lethal damage as
+opposed to the regular assumption that
+
+696
+00:14:56,069 --> 00:14:56,079
+opposed to the regular assumption that
+ 
+
+697
+00:14:56,079 --> 00:14:59,750
+opposed to the regular assumption that
+they're doing lethal damage. So, in that
+
+698
+00:14:59,750 --> 00:14:59,760
+they're doing lethal damage. So, in that
+ 
+
+699
+00:14:59,760 --> 00:15:01,829
+they're doing lethal damage. So, in that
+adventure path, because the players are
+
+700
+00:15:01,829 --> 00:15:01,839
+adventure path, because the players are
+ 
+
+701
+00:15:01,839 --> 00:15:04,230
+adventure path, because the players are
+supposed to be city guards who have had
+
+702
+00:15:04,230 --> 00:15:04,240
+supposed to be city guards who have had
+ 
+
+703
+00:15:04,240 --> 00:15:06,230
+supposed to be city guards who have had
+extra training on how to subdue and
+
+704
+00:15:06,230 --> 00:15:06,240
+extra training on how to subdue and
+ 
+
+705
+00:15:06,240 --> 00:15:08,550
+extra training on how to subdue and
+capture their targets,
+
+706
+00:15:08,550 --> 00:15:08,560
+capture their targets,
+ 
+
+707
+00:15:08,560 --> 00:15:11,590
+capture their targets,
+all of their damage, even spell damage,
+
+708
+00:15:11,590 --> 00:15:11,600
+all of their damage, even spell damage,
+ 
+
+709
+00:15:11,600 --> 00:15:14,790
+all of their damage, even spell damage,
+even poison damage, all damage period,
+
+710
+00:15:14,790 --> 00:15:14,800
+even poison damage, all damage period,
+ 
+
+711
+00:15:14,800 --> 00:15:16,949
+even poison damage, all damage period,
+is non-lethal.
+
+712
+00:15:16,949 --> 00:15:16,959
+is non-lethal.
+ 
+
+713
+00:15:16,959 --> 00:15:18,629
+is non-lethal.
+And again, that's another place where
+
+714
+00:15:18,629 --> 00:15:18,639
+And again, that's another place where
+ 
+
+715
+00:15:18,639 --> 00:15:20,389
+And again, that's another place where
+you might have to do some work and some
+
+716
+00:15:20,389 --> 00:15:20,399
+you might have to do some work and some
+ 
+
+717
+00:15:20,399 --> 00:15:23,030
+you might have to do some work and some
+give and take to to figure out exactly
+
+718
+00:15:23,030 --> 00:15:23,040
+give and take to to figure out exactly
+ 
+
+719
+00:15:23,040 --> 00:15:25,590
+give and take to to figure out exactly
+how within the narrative that works. But
+
+720
+00:15:25,590 --> 00:15:25,600
+how within the narrative that works. But
+ 
+
+721
+00:15:25,600 --> 00:15:28,629
+how within the narrative that works. But
+that's the rule. Uh that is not a feat
+
+722
+00:15:28,629 --> 00:15:28,639
+that's the rule. Uh that is not a feat
+ 
+
+723
+00:15:28,639 --> 00:15:31,189
+that's the rule. Uh that is not a feat
+that people outside of that campaign can
+
+724
+00:15:31,189 --> 00:15:31,199
+that people outside of that campaign can
+ 
+
+725
+00:15:31,199 --> 00:15:33,750
+that people outside of that campaign can
+just take. But GMs just know like
+
+726
+00:15:33,750 --> 00:15:33,760
+just take. But GMs just know like
+ 
+
+727
+00:15:33,760 --> 00:15:37,829
+just take. But GMs just know like
+there's a precedent that exists for just
+
+728
+00:15:37,829 --> 00:15:37,839
+there's a precedent that exists for just
+ 
+
+729
+00:15:37,839 --> 00:15:40,389
+there's a precedent that exists for just
+having a blanket statement that says I
+
+730
+00:15:40,389 --> 00:15:40,399
+having a blanket statement that says I
+ 
+
+731
+00:15:40,399 --> 00:15:42,389
+having a blanket statement that says I
+allow you to deal non-lethal damage
+
+732
+00:15:42,389 --> 00:15:42,399
+allow you to deal non-lethal damage
+ 
+
+733
+00:15:42,399 --> 00:15:43,990
+allow you to deal non-lethal damage
+without any penalties, without anything
+
+734
+00:15:43,990 --> 00:15:44,000
+without any penalties, without anything
+ 
+
+735
+00:15:44,000 --> 00:15:46,550
+without any penalties, without anything
+else. And that is found in the agents of
+
+736
+00:15:46,550 --> 00:15:46,560
+else. And that is found in the agents of
+ 
+
+737
+00:15:46,560 --> 00:15:48,069
+else. And that is found in the agents of
+edge watch adventure path specifically.
+
+738
+00:15:48,069 --> 00:15:48,079
+edge watch adventure path specifically.
+ 
+
+739
+00:15:48,079 --> 00:15:51,189
+edge watch adventure path specifically.
+It's in the players guide. Um, also, uh,
+
+740
+00:15:51,189 --> 00:15:51,199
+It's in the players guide. Um, also, uh,
+ 
+
+741
+00:15:51,199 --> 00:15:52,949
+It's in the players guide. Um, also, uh,
+kind of adjacent to regular
+
+742
+00:15:52,949 --> 00:15:52,959
+kind of adjacent to regular
+ 
+
+743
+00:15:52,959 --> 00:15:55,670
+kind of adjacent to regular
+spellcasting, uh, kineticists at fourth
+
+744
+00:15:55,670 --> 00:15:55,680
+spellcasting, uh, kineticists at fourth
+ 
+
+745
+00:15:55,680 --> 00:15:57,350
+spellcasting, uh, kineticists at fourth
+level can take a feat called safe
+
+746
+00:15:57,350 --> 00:15:57,360
+level can take a feat called safe
+ 
+
+747
+00:15:57,360 --> 00:16:00,790
+level can take a feat called safe
+elements that gives them the pacifying
+
+748
+00:16:00,790 --> 00:16:00,800
+elements that gives them the pacifying
+ 
+
+749
+00:16:00,800 --> 00:16:03,829
+elements that gives them the pacifying
+infusions action that works very much
+
+750
+00:16:03,829 --> 00:16:03,839
+infusions action that works very much
+ 
+
+751
+00:16:03,839 --> 00:16:05,749
+infusions action that works very much
+the same way as the wizard's non-lethal
+
+752
+00:16:05,749 --> 00:16:05,759
+the same way as the wizard's non-lethal
+ 
+
+753
+00:16:05,759 --> 00:16:07,990
+the same way as the wizard's non-lethal
+spell feat. They spend that action and
+
+754
+00:16:07,990 --> 00:16:08,000
+spell feat. They spend that action and
+ 
+
+755
+00:16:08,000 --> 00:16:11,590
+spell feat. They spend that action and
+then that turns their next impulse into
+
+756
+00:16:11,590 --> 00:16:11,600
+then that turns their next impulse into
+ 
+
+757
+00:16:11,600 --> 00:16:15,509
+then that turns their next impulse into
+a non-lethal damaging ability.
+
+758
+00:16:15,509 --> 00:16:15,519
+a non-lethal damaging ability.
+ 
+
+759
+00:16:15,519 --> 00:16:17,910
+a non-lethal damaging ability.
+So, another question that comes up is,
+
+760
+00:16:17,910 --> 00:16:17,920
+So, another question that comes up is,
+ 
+
+761
+00:16:17,920 --> 00:16:21,749
+So, another question that comes up is,
+what if 99% of the damage is lethal? So,
+
+762
+00:16:21,749 --> 00:16:21,759
+what if 99% of the damage is lethal? So,
+ 
+
+763
+00:16:21,759 --> 00:16:23,910
+what if 99% of the damage is lethal? So,
+we've been we've been stabbing this this
+
+764
+00:16:23,910 --> 00:16:23,920
+we've been we've been stabbing this this
+ 
+
+765
+00:16:23,920 --> 00:16:27,030
+we've been we've been stabbing this this
+this target with swords and then someone
+
+766
+00:16:27,030 --> 00:16:27,040
+this target with swords and then someone
+ 
+
+767
+00:16:27,040 --> 00:16:29,189
+this target with swords and then someone
+walks up with their bare knuckle fist
+
+768
+00:16:29,189 --> 00:16:29,199
+walks up with their bare knuckle fist
+ 
+
+769
+00:16:29,199 --> 00:16:31,189
+walks up with their bare knuckle fist
+and punches them and that does
+
+770
+00:16:31,189 --> 00:16:31,199
+and punches them and that does
+ 
+
+771
+00:16:31,199 --> 00:16:33,110
+and punches them and that does
+non-lethal damage and that's the final
+
+772
+00:16:33,110 --> 00:16:33,120
+non-lethal damage and that's the final
+ 
+
+773
+00:16:33,120 --> 00:16:36,310
+non-lethal damage and that's the final
+hit that reduces them to zero. Um, does
+
+774
+00:16:36,310 --> 00:16:36,320
+hit that reduces them to zero. Um, does
+ 
+
+775
+00:16:36,320 --> 00:16:37,990
+hit that reduces them to zero. Um, does
+it make sense for them to fall
+
+776
+00:16:37,990 --> 00:16:38,000
+it make sense for them to fall
+ 
+
+777
+00:16:38,000 --> 00:16:40,790
+it make sense for them to fall
+unconscious when prior to that we've
+
+778
+00:16:40,790 --> 00:16:40,800
+unconscious when prior to that we've
+ 
+
+779
+00:16:40,800 --> 00:16:43,749
+unconscious when prior to that we've
+been stabbing them repeatedly?
+
+780
+00:16:43,749 --> 00:16:43,759
+been stabbing them repeatedly?
+ 
+
+781
+00:16:43,759 --> 00:16:45,189
+been stabbing them repeatedly?
+So, a lot of that's going to come down
+
+782
+00:16:45,189 --> 00:16:45,199
+So, a lot of that's going to come down
+ 
+
+783
+00:16:45,199 --> 00:16:48,069
+So, a lot of that's going to come down
+to, you know, again, how you manage the
+
+784
+00:16:48,069 --> 00:16:48,079
+to, you know, again, how you manage the
+ 
+
+785
+00:16:48,079 --> 00:16:49,990
+to, you know, again, how you manage the
+the narration, how you describe these
+
+786
+00:16:49,990 --> 00:16:50,000
+the narration, how you describe these
+ 
+
+787
+00:16:50,000 --> 00:16:52,150
+the narration, how you describe these
+things in the narrative. Uh, a couple
+
+788
+00:16:52,150 --> 00:16:52,160
+things in the narrative. Uh, a couple
+ 
+
+789
+00:16:52,160 --> 00:16:54,069
+things in the narrative. Uh, a couple
+things to be aware of. Pathfinder second
+
+790
+00:16:54,069 --> 00:16:54,079
+things to be aware of. Pathfinder second
+ 
+
+791
+00:16:54,079 --> 00:16:56,550
+things to be aware of. Pathfinder second
+edition has tried to streamline rules
+
+792
+00:16:56,550 --> 00:16:56,560
+edition has tried to streamline rules
+ 
+
+793
+00:16:56,560 --> 00:16:59,269
+edition has tried to streamline rules
+and make them as easy as possible with
+
+794
+00:16:59,269 --> 00:16:59,279
+and make them as easy as possible with
+ 
+
+795
+00:16:59,279 --> 00:17:00,629
+and make them as easy as possible with
+the understanding that there is a
+
+796
+00:17:00,629 --> 00:17:00,639
+the understanding that there is a
+ 
+
+797
+00:17:00,639 --> 00:17:03,350
+the understanding that there is a
+living, breathing GM there who can
+
+798
+00:17:03,350 --> 00:17:03,360
+living, breathing GM there who can
+ 
+
+799
+00:17:03,360 --> 00:17:05,750
+living, breathing GM there who can
+intervene and say, but in this case, I
+
+800
+00:17:05,750 --> 00:17:05,760
+intervene and say, but in this case, I
+ 
+
+801
+00:17:05,760 --> 00:17:07,270
+intervene and say, but in this case, I
+don't think that rule is going to apply
+
+802
+00:17:07,270 --> 00:17:07,280
+don't think that rule is going to apply
+ 
+
+803
+00:17:07,280 --> 00:17:09,750
+don't think that rule is going to apply
+or this is how we're going to twist it.
+
+804
+00:17:09,750 --> 00:17:09,760
+or this is how we're going to twist it.
+ 
+
+805
+00:17:09,760 --> 00:17:11,350
+or this is how we're going to twist it.
+That's the direction they've gone with
+
+806
+00:17:11,350 --> 00:17:11,360
+That's the direction they've gone with
+ 
+
+807
+00:17:11,360 --> 00:17:13,590
+That's the direction they've gone with
+second edition as opposed to having a
+
+808
+00:17:13,590 --> 00:17:13,600
+second edition as opposed to having a
+ 
+
+809
+00:17:13,600 --> 00:17:16,949
+second edition as opposed to having a
+lot of uh a lot of extra bookkeeping.
+
+810
+00:17:16,949 --> 00:17:16,959
+lot of uh a lot of extra bookkeeping.
+ 
+
+811
+00:17:16,959 --> 00:17:18,789
+lot of uh a lot of extra bookkeeping.
+Like I I believe in in Pathfinder first
+
+812
+00:17:18,789 --> 00:17:18,799
+Like I I believe in in Pathfinder first
+ 
+
+813
+00:17:18,799 --> 00:17:21,189
+Like I I believe in in Pathfinder first
+edition, you had to keep track of how
+
+814
+00:17:21,189 --> 00:17:21,199
+edition, you had to keep track of how
+ 
+
+815
+00:17:21,199 --> 00:17:22,710
+edition, you had to keep track of how
+much damage was lethal and how much
+
+816
+00:17:22,710 --> 00:17:22,720
+much damage was lethal and how much
+ 
+
+817
+00:17:22,720 --> 00:17:25,029
+much damage was lethal and how much
+damage was non-lethal. And there you had
+
+818
+00:17:25,029 --> 00:17:25,039
+damage was non-lethal. And there you had
+ 
+
+819
+00:17:25,039 --> 00:17:28,309
+damage was non-lethal. And there you had
+to keep track of those two totals and
+
+820
+00:17:28,309 --> 00:17:28,319
+to keep track of those two totals and
+ 
+
+821
+00:17:28,319 --> 00:17:30,549
+to keep track of those two totals and
+non-lethal damage healed at a faster
+
+822
+00:17:30,549 --> 00:17:30,559
+non-lethal damage healed at a faster
+ 
+
+823
+00:17:30,559 --> 00:17:32,789
+non-lethal damage healed at a faster
+rate than than lethal damage. And
+
+824
+00:17:32,789 --> 00:17:32,799
+rate than than lethal damage. And
+ 
+
+825
+00:17:32,799 --> 00:17:34,789
+rate than than lethal damage. And
+there's all these different rules that
+
+826
+00:17:34,789 --> 00:17:34,799
+there's all these different rules that
+ 
+
+827
+00:17:34,799 --> 00:17:37,270
+there's all these different rules that
+doesn't exist in second edition.
+
+828
+00:17:37,270 --> 00:17:37,280
+doesn't exist in second edition.
+ 
+
+829
+00:17:37,280 --> 00:17:39,669
+doesn't exist in second edition.
+By raw, all that matters is that last
+
+830
+00:17:39,669 --> 00:17:39,679
+By raw, all that matters is that last
+ 
+
+831
+00:17:39,679 --> 00:17:43,430
+By raw, all that matters is that last
+hit that lowers them to zero hit points.
+
+832
+00:17:43,430 --> 00:17:43,440
+hit that lowers them to zero hit points.
+ 
+
+833
+00:17:43,440 --> 00:17:47,029
+hit that lowers them to zero hit points.
+Um, so what happens if you do 99% of the
+
+834
+00:17:47,029 --> 00:17:47,039
+Um, so what happens if you do 99% of the
+ 
+
+835
+00:17:47,039 --> 00:17:49,190
+Um, so what happens if you do 99% of the
+damage lethal and the last 1%
+
+836
+00:17:49,190 --> 00:17:49,200
+damage lethal and the last 1%
+ 
+
+837
+00:17:49,200 --> 00:17:50,710
+damage lethal and the last 1%
+non-lethal?
+
+838
+00:17:50,710 --> 00:17:50,720
+non-lethal?
+ 
+
+839
+00:17:50,720 --> 00:17:51,990
+non-lethal?
+The same as if you had done all the
+
+840
+00:17:51,990 --> 00:17:52,000
+The same as if you had done all the
+ 
+
+841
+00:17:52,000 --> 00:17:53,430
+The same as if you had done all the
+damage as non-lethal. They fall
+
+842
+00:17:53,430 --> 00:17:53,440
+damage as non-lethal. They fall
+ 
+
+843
+00:17:53,440 --> 00:17:56,710
+damage as non-lethal. They fall
+unconscious instead of dying by raw. Um,
+
+844
+00:17:56,710 --> 00:17:56,720
+unconscious instead of dying by raw. Um,
+ 
+
+845
+00:17:56,720 --> 00:17:59,350
+unconscious instead of dying by raw. Um,
+also keep in mind that hit points hit
+
+846
+00:17:59,350 --> 00:17:59,360
+also keep in mind that hit points hit
+ 
+
+847
+00:17:59,360 --> 00:18:01,830
+also keep in mind that hit points hit
+points don't represent how much blood is
+
+848
+00:18:01,830 --> 00:18:01,840
+points don't represent how much blood is
+ 
+
+849
+00:18:01,840 --> 00:18:04,789
+points don't represent how much blood is
+in your body. Hit points represent your
+
+850
+00:18:04,789 --> 00:18:04,799
+in your body. Hit points represent your
+ 
+
+851
+00:18:04,799 --> 00:18:08,870
+in your body. Hit points represent your
+ability to avoid dying.
+
+852
+00:18:08,870 --> 00:18:08,880
+ability to avoid dying.
+ 
+
+853
+00:18:08,880 --> 00:18:13,430
+ability to avoid dying.
+So that 99% of lethal damage could have
+
+854
+00:18:13,430 --> 00:18:13,440
+So that 99% of lethal damage could have
+ 
+
+855
+00:18:13,440 --> 00:18:16,710
+So that 99% of lethal damage could have
+been represented by you ducking,
+
+856
+00:18:16,710 --> 00:18:16,720
+been represented by you ducking,
+ 
+
+857
+00:18:16,720 --> 00:18:20,870
+been represented by you ducking,
+dodging, taking minor cuts, uh
+
+858
+00:18:20,870 --> 00:18:20,880
+dodging, taking minor cuts, uh
+ 
+
+859
+00:18:20,880 --> 00:18:23,029
+dodging, taking minor cuts, uh
+exhausting yourself by constantly having
+
+860
+00:18:23,029 --> 00:18:23,039
+exhausting yourself by constantly having
+ 
+
+861
+00:18:23,039 --> 00:18:25,909
+exhausting yourself by constantly having
+to parry away a an otherwise lethal
+
+862
+00:18:25,909 --> 00:18:25,919
+to parry away a an otherwise lethal
+ 
+
+863
+00:18:25,919 --> 00:18:28,630
+to parry away a an otherwise lethal
+attack at the very last second. And that
+
+864
+00:18:28,630 --> 00:18:28,640
+attack at the very last second. And that
+ 
+
+865
+00:18:28,640 --> 00:18:31,590
+attack at the very last second. And that
+that exhausts you and wears you down.
+
+866
+00:18:31,590 --> 00:18:31,600
+that exhausts you and wears you down.
+ 
+
+867
+00:18:31,600 --> 00:18:33,590
+that exhausts you and wears you down.
+Uh, so a lot of it comes down to how you
+
+868
+00:18:33,590 --> 00:18:33,600
+Uh, so a lot of it comes down to how you
+ 
+
+869
+00:18:33,600 --> 00:18:35,350
+Uh, so a lot of it comes down to how you
+are describing the damage within the
+
+870
+00:18:35,350 --> 00:18:35,360
+are describing the damage within the
+ 
+
+871
+00:18:35,360 --> 00:18:37,990
+are describing the damage within the
+narration. If you've been describing it
+
+872
+00:18:37,990 --> 00:18:38,000
+narration. If you've been describing it
+ 
+
+873
+00:18:38,000 --> 00:18:40,390
+narration. If you've been describing it
+as you're literally running the person
+
+874
+00:18:40,390 --> 00:18:40,400
+as you're literally running the person
+ 
+
+875
+00:18:40,400 --> 00:18:42,390
+as you're literally running the person
+through with a sword 20 times leading up
+
+876
+00:18:42,390 --> 00:18:42,400
+through with a sword 20 times leading up
+ 
+
+877
+00:18:42,400 --> 00:18:44,630
+through with a sword 20 times leading up
+to that last hit, that's a little
+
+878
+00:18:44,630 --> 00:18:44,640
+to that last hit, that's a little
+ 
+
+879
+00:18:44,640 --> 00:18:46,230
+to that last hit, that's a little
+different.
+
+880
+00:18:46,230 --> 00:18:46,240
+different.
+ 
+
+881
+00:18:46,240 --> 00:18:48,549
+different.
+But, uh, bottom line, official rule, all
+
+882
+00:18:48,549 --> 00:18:48,559
+But, uh, bottom line, official rule, all
+ 
+
+883
+00:18:48,559 --> 00:18:51,029
+But, uh, bottom line, official rule, all
+that matters is that very last hit. And
+
+884
+00:18:51,029 --> 00:18:51,039
+that matters is that very last hit. And
+ 
+
+885
+00:18:51,039 --> 00:18:52,710
+that matters is that very last hit. And
+again, GMs can choose to rule
+
+886
+00:18:52,710 --> 00:18:52,720
+again, GMs can choose to rule
+ 
+
+887
+00:18:52,720 --> 00:18:54,390
+again, GMs can choose to rule
+differently. There may be situations
+
+888
+00:18:54,390 --> 00:18:54,400
+differently. There may be situations
+ 
+
+889
+00:18:54,400 --> 00:18:57,029
+differently. There may be situations
+where you say, well, this person
+
+890
+00:18:57,029 --> 00:18:57,039
+where you say, well, this person
+ 
+
+891
+00:18:57,039 --> 00:18:59,029
+where you say, well, this person
+suffered all this lethal damage and the
+
+892
+00:18:59,029 --> 00:18:59,039
+suffered all this lethal damage and the
+ 
+
+893
+00:18:59,039 --> 00:19:01,190
+suffered all this lethal damage and the
+last hit was non-lethal.
+
+894
+00:19:01,190 --> 00:19:01,200
+last hit was non-lethal.
+ 
+
+895
+00:19:01,200 --> 00:19:04,630
+last hit was non-lethal.
+find a way to work with your players. Uh
+
+896
+00:19:04,630 --> 00:19:04,640
+find a way to work with your players. Uh
+ 
+
+897
+00:19:04,640 --> 00:19:07,750
+find a way to work with your players. Uh
+maybe you say, "Yeah, they fall
+
+898
+00:19:07,750 --> 00:19:07,760
+maybe you say, "Yeah, they fall
+ 
+
+899
+00:19:07,760 --> 00:19:09,510
+maybe you say, "Yeah, they fall
+unconscious,
+
+900
+00:19:09,510 --> 00:19:09,520
+unconscious,
+ 
+
+901
+00:19:09,520 --> 00:19:11,270
+unconscious,
+but if you don't do something to
+
+902
+00:19:11,270 --> 00:19:11,280
+but if you don't do something to
+ 
+
+903
+00:19:11,280 --> 00:19:14,470
+but if you don't do something to
+stabilize them within three rounds or
+
+904
+00:19:14,470 --> 00:19:14,480
+stabilize them within three rounds or
+ 
+
+905
+00:19:14,480 --> 00:19:15,909
+stabilize them within three rounds or
+whatever you you think makes sense
+
+906
+00:19:15,909 --> 00:19:15,919
+whatever you you think makes sense
+ 
+
+907
+00:19:15,919 --> 00:19:18,310
+whatever you you think makes sense
+within the narrative you've constructed,
+
+908
+00:19:18,310 --> 00:19:18,320
+within the narrative you've constructed,
+ 
+
+909
+00:19:18,320 --> 00:19:20,070
+within the narrative you've constructed,
+they're going to start bleeding out and
+
+910
+00:19:20,070 --> 00:19:20,080
+they're going to start bleeding out and
+ 
+
+911
+00:19:20,080 --> 00:19:23,190
+they're going to start bleeding out and
+suffer the dying condition." Um, that's
+
+912
+00:19:23,190 --> 00:19:23,200
+suffer the dying condition." Um, that's
+ 
+
+913
+00:19:23,200 --> 00:19:25,110
+suffer the dying condition." Um, that's
+not a hard and fast rule. Again, these
+
+914
+00:19:25,110 --> 00:19:25,120
+not a hard and fast rule. Again, these
+ 
+
+915
+00:19:25,120 --> 00:19:26,470
+not a hard and fast rule. Again, these
+are things that you can think about as a
+
+916
+00:19:26,470 --> 00:19:26,480
+are things that you can think about as a
+ 
+
+917
+00:19:26,480 --> 00:19:29,590
+are things that you can think about as a
+GM to kind of find that balance between
+
+918
+00:19:29,590 --> 00:19:29,600
+GM to kind of find that balance between
+ 
+
+919
+00:19:29,600 --> 00:19:32,150
+GM to kind of find that balance between
+the two extremes of the lethal damage
+
+920
+00:19:32,150 --> 00:19:32,160
+the two extremes of the lethal damage
+ 
+
+921
+00:19:32,160 --> 00:19:34,870
+the two extremes of the lethal damage
+and the non-lethal situations. Another
+
+922
+00:19:34,870 --> 00:19:34,880
+and the non-lethal situations. Another
+ 
+
+923
+00:19:34,880 --> 00:19:37,270
+and the non-lethal situations. Another
+question that uh comes up is what about
+
+924
+00:19:37,270 --> 00:19:37,280
+question that uh comes up is what about
+ 
+
+925
+00:19:37,280 --> 00:19:40,230
+question that uh comes up is what about
+um energy damage? Uh you know, it makes
+
+926
+00:19:40,230 --> 00:19:40,240
+um energy damage? Uh you know, it makes
+ 
+
+927
+00:19:40,240 --> 00:19:41,750
+um energy damage? Uh you know, it makes
+sense that if I'm pommel striking
+
+928
+00:19:41,750 --> 00:19:41,760
+sense that if I'm pommel striking
+ 
+
+929
+00:19:41,760 --> 00:19:45,990
+sense that if I'm pommel striking
+somebody with my um with my sword that
+
+930
+00:19:45,990 --> 00:19:46,000
+somebody with my um with my sword that
+ 
+
+931
+00:19:46,000 --> 00:19:47,350
+somebody with my um with my sword that
+it does non-lethal damage, but what if
+
+932
+00:19:47,350 --> 00:19:47,360
+it does non-lethal damage, but what if
+ 
+
+933
+00:19:47,360 --> 00:19:49,350
+it does non-lethal damage, but what if
+I'm making a non-lethal attack with my
+
+934
+00:19:49,350 --> 00:19:49,360
+I'm making a non-lethal attack with my
+ 
+
+935
+00:19:49,360 --> 00:19:52,150
+I'm making a non-lethal attack with my
+flaming sword? What happens there?
+
+936
+00:19:52,150 --> 00:19:52,160
+flaming sword? What happens there?
+ 
+
+937
+00:19:52,160 --> 00:19:53,990
+flaming sword? What happens there?
+Again,
+
+938
+00:19:53,990 --> 00:19:54,000
+Again,
+ 
+
+939
+00:19:54,000 --> 00:19:56,470
+Again,
+just like with the earlier example of of
+
+940
+00:19:56,470 --> 00:19:56,480
+just like with the earlier example of of
+ 
+
+941
+00:19:56,480 --> 00:19:58,710
+just like with the earlier example of of
+a non-lethal fireball, the same true for
+
+942
+00:19:58,710 --> 00:19:58,720
+a non-lethal fireball, the same true for
+ 
+
+943
+00:19:58,720 --> 00:20:00,230
+a non-lethal fireball, the same true for
+a flaming sword or an electrified sword
+
+944
+00:20:00,230 --> 00:20:00,240
+a flaming sword or an electrified sword
+ 
+
+945
+00:20:00,240 --> 00:20:02,549
+a flaming sword or an electrified sword
+or whatever, the damage becomes
+
+946
+00:20:02,549 --> 00:20:02,559
+or whatever, the damage becomes
+ 
+
+947
+00:20:02,559 --> 00:20:05,909
+or whatever, the damage becomes
+non-lethal. It still deals fire damage.
+
+948
+00:20:05,909 --> 00:20:05,919
+non-lethal. It still deals fire damage.
+ 
+
+949
+00:20:05,919 --> 00:20:07,510
+non-lethal. It still deals fire damage.
+If you critically hit it, it can still
+
+950
+00:20:07,510 --> 00:20:07,520
+If you critically hit it, it can still
+ 
+
+951
+00:20:07,520 --> 00:20:10,070
+If you critically hit it, it can still
+do persistent fire damage. All of this
+
+952
+00:20:10,070 --> 00:20:10,080
+do persistent fire damage. All of this
+ 
+
+953
+00:20:10,080 --> 00:20:13,270
+do persistent fire damage. All of this
+damage is just nonlethal.
+
+954
+00:20:13,270 --> 00:20:13,280
+damage is just nonlethal.
+ 
+
+955
+00:20:13,280 --> 00:20:15,029
+damage is just nonlethal.
+All that mean, and that doesn't mean
+
+956
+00:20:15,029 --> 00:20:15,039
+All that mean, and that doesn't mean
+ 
+
+957
+00:20:15,039 --> 00:20:17,110
+All that mean, and that doesn't mean
+anything at all, except if that damage
+
+958
+00:20:17,110 --> 00:20:17,120
+anything at all, except if that damage
+ 
+
+959
+00:20:17,120 --> 00:20:19,750
+anything at all, except if that damage
+reduces the target to zero, they fall
+
+960
+00:20:19,750 --> 00:20:19,760
+reduces the target to zero, they fall
+ 
+
+961
+00:20:19,760 --> 00:20:22,390
+reduces the target to zero, they fall
+unconscious instead of dying. Um, that's
+
+962
+00:20:22,390 --> 00:20:22,400
+unconscious instead of dying. Um, that's
+ 
+
+963
+00:20:22,400 --> 00:20:25,430
+unconscious instead of dying. Um, that's
+the RAW as usual. GMs, you can play with
+
+964
+00:20:25,430 --> 00:20:25,440
+the RAW as usual. GMs, you can play with
+ 
+
+965
+00:20:25,440 --> 00:20:28,630
+the RAW as usual. GMs, you can play with
+that however you want. Um, but just be
+
+966
+00:20:28,630 --> 00:20:28,640
+that however you want. Um, but just be
+ 
+
+967
+00:20:28,640 --> 00:20:31,990
+that however you want. Um, but just be
+aware that that is the official RAW
+
+968
+00:20:31,990 --> 00:20:32,000
+aware that that is the official RAW
+ 
+
+969
+00:20:32,000 --> 00:20:34,549
+aware that that is the official RAW
+ruling. Uh, and another question that
+
+970
+00:20:34,549 --> 00:20:34,559
+ruling. Uh, and another question that
+ 
+
+971
+00:20:34,559 --> 00:20:36,950
+ruling. Uh, and another question that
+comes up is, okay, so I can make a
+
+972
+00:20:36,950 --> 00:20:36,960
+comes up is, okay, so I can make a
+ 
+
+973
+00:20:36,960 --> 00:20:39,830
+comes up is, okay, so I can make a
+non-lethal attack with a a weapon by
+
+974
+00:20:39,830 --> 00:20:39,840
+non-lethal attack with a a weapon by
+ 
+
+975
+00:20:39,840 --> 00:20:41,669
+non-lethal attack with a a weapon by
+suffering a negative two circumstance
+
+976
+00:20:41,669 --> 00:20:41,679
+suffering a negative two circumstance
+ 
+
+977
+00:20:41,679 --> 00:20:44,710
+suffering a negative two circumstance
+penalty. Okay, I can see that with again
+
+978
+00:20:44,710 --> 00:20:44,720
+penalty. Okay, I can see that with again
+ 
+
+979
+00:20:44,720 --> 00:20:46,149
+penalty. Okay, I can see that with again
+the long sword doing the pommel strike.
+
+980
+00:20:46,149 --> 00:20:46,159
+the long sword doing the pommel strike.
+ 
+
+981
+00:20:46,159 --> 00:20:47,350
+the long sword doing the pommel strike.
+You can see that with taking the battle
+
+982
+00:20:47,350 --> 00:20:47,360
+You can see that with taking the battle
+ 
+
+983
+00:20:47,360 --> 00:20:49,270
+You can see that with taking the battle
+axe, turning on the side, and smacking
+
+984
+00:20:49,270 --> 00:20:49,280
+axe, turning on the side, and smacking
+ 
+
+985
+00:20:49,280 --> 00:20:50,710
+axe, turning on the side, and smacking
+somebody with the flat of the blade
+
+986
+00:20:50,710 --> 00:20:50,720
+somebody with the flat of the blade
+ 
+
+987
+00:20:50,720 --> 00:20:53,590
+somebody with the flat of the blade
+instead of the edge of the blade. But
+
+988
+00:20:53,590 --> 00:20:53,600
+instead of the edge of the blade. But
+ 
+
+989
+00:20:53,600 --> 00:20:55,350
+instead of the edge of the blade. But
+how am I making a non-lethal attack with
+
+990
+00:20:55,350 --> 00:20:55,360
+how am I making a non-lethal attack with
+ 
+
+991
+00:20:55,360 --> 00:20:57,590
+how am I making a non-lethal attack with
+my long bow?
+
+992
+00:20:57,590 --> 00:20:57,600
+my long bow?
+ 
+
+993
+00:20:57,600 --> 00:20:59,270
+my long bow?
+So, uh this is another one of those
+
+994
+00:20:59,270 --> 00:20:59,280
+So, uh this is another one of those
+ 
+
+995
+00:20:59,280 --> 00:21:00,310
+So, uh this is another one of those
+areas where you might want to have to
+
+996
+00:21:00,310 --> 00:21:00,320
+areas where you might want to have to
+ 
+
+997
+00:21:00,320 --> 00:21:04,470
+areas where you might want to have to
+lean in a little bit to um to uh
+
+998
+00:21:04,470 --> 00:21:04,480
+lean in a little bit to um to uh
+ 
+
+999
+00:21:04,480 --> 00:21:06,630
+lean in a little bit to um to uh
+roleplaying the result, see what the
+
+1000
+00:21:06,630 --> 00:21:06,640
+roleplaying the result, see what the
+ 
+
+1001
+00:21:06,640 --> 00:21:08,549
+roleplaying the result, see what the
+result is, and then tweaking the
+
+1002
+00:21:08,549 --> 00:21:08,559
+result is, and then tweaking the
+ 
+
+1003
+00:21:08,559 --> 00:21:11,590
+result is, and then tweaking the
+narrative to match that result.
+
+1004
+00:21:11,590 --> 00:21:11,600
+narrative to match that result.
+ 
+
+1005
+00:21:11,600 --> 00:21:14,230
+narrative to match that result.
+Maybe that arrow
+
+1006
+00:21:14,230 --> 00:21:14,240
+Maybe that arrow
+ 
+
+1007
+00:21:14,240 --> 00:21:16,710
+Maybe that arrow
+uh didn't shoot the target. Maybe it
+
+1008
+00:21:16,710 --> 00:21:16,720
+uh didn't shoot the target. Maybe it
+ 
+
+1009
+00:21:16,720 --> 00:21:19,270
+uh didn't shoot the target. Maybe it
+instead cut through a rope that's
+
+1010
+00:21:19,270 --> 00:21:19,280
+instead cut through a rope that's
+ 
+
+1011
+00:21:19,280 --> 00:21:22,630
+instead cut through a rope that's
+holding a big wooden uh chandelier-l
+
+1012
+00:21:22,630 --> 00:21:22,640
+holding a big wooden uh chandelier-l
+ 
+
+1013
+00:21:22,640 --> 00:21:25,190
+holding a big wooden uh chandelier-l
+like handle holder that drops on the
+
+1014
+00:21:25,190 --> 00:21:25,200
+like handle holder that drops on the
+ 
+
+1015
+00:21:25,200 --> 00:21:26,470
+like handle holder that drops on the
+target's head and knocks them
+
+1016
+00:21:26,470 --> 00:21:26,480
+target's head and knocks them
+ 
+
+1017
+00:21:26,480 --> 00:21:30,630
+target's head and knocks them
+unconscious. Uh maybe that arrow uh
+
+1018
+00:21:30,630 --> 00:21:30,640
+unconscious. Uh maybe that arrow uh
+ 
+
+1019
+00:21:30,640 --> 00:21:33,750
+unconscious. Uh maybe that arrow uh
+strikes their helmet in such a way where
+
+1020
+00:21:33,750 --> 00:21:33,760
+strikes their helmet in such a way where
+ 
+
+1021
+00:21:33,760 --> 00:21:36,950
+strikes their helmet in such a way where
+the the arrow head does not penetrate
+
+1022
+00:21:36,950 --> 00:21:36,960
+the the arrow head does not penetrate
+ 
+
+1023
+00:21:36,960 --> 00:21:39,110
+the the arrow head does not penetrate
+the skin, but it has enough force to
+
+1024
+00:21:39,110 --> 00:21:39,120
+the skin, but it has enough force to
+ 
+
+1025
+00:21:39,120 --> 00:21:41,830
+the skin, but it has enough force to
+knock that helmet against their head and
+
+1026
+00:21:41,830 --> 00:21:41,840
+knock that helmet against their head and
+ 
+
+1027
+00:21:41,840 --> 00:21:45,590
+knock that helmet against their head and
+concuss them. or you know, maybe it you
+
+1028
+00:21:45,590 --> 00:21:45,600
+concuss them. or you know, maybe it you
+ 
+
+1029
+00:21:45,600 --> 00:21:47,990
+concuss them. or you know, maybe it you
+hit them in such a way that they stumble
+
+1030
+00:21:47,990 --> 00:21:48,000
+hit them in such a way that they stumble
+ 
+
+1031
+00:21:48,000 --> 00:21:49,510
+hit them in such a way that they stumble
+back and knock their head against
+
+1032
+00:21:49,510 --> 00:21:49,520
+back and knock their head against
+ 
+
+1033
+00:21:49,520 --> 00:21:51,430
+back and knock their head against
+something.
+
+1034
+00:21:51,430 --> 00:21:51,440
+something.
+ 
+
+1035
+00:21:51,440 --> 00:21:53,350
+something.
+Again, this is an area where it's going
+
+1036
+00:21:53,350 --> 00:21:53,360
+Again, this is an area where it's going
+ 
+
+1037
+00:21:53,360 --> 00:21:55,350
+Again, this is an area where it's going
+to take give and take between the GM and
+
+1038
+00:21:55,350 --> 00:21:55,360
+to take give and take between the GM and
+ 
+
+1039
+00:21:55,360 --> 00:21:57,510
+to take give and take between the GM and
+the players to craft a narrative
+
+1040
+00:21:57,510 --> 00:21:57,520
+the players to craft a narrative
+ 
+
+1041
+00:21:57,520 --> 00:22:00,070
+the players to craft a narrative
+explanation that makes sense, and GMs
+
+1042
+00:22:00,070 --> 00:22:00,080
+explanation that makes sense, and GMs
+ 
+
+1043
+00:22:00,080 --> 00:22:03,590
+explanation that makes sense, and GMs
+are 100% free to play with this however
+
+1044
+00:22:03,590 --> 00:22:03,600
+are 100% free to play with this however
+ 
+
+1045
+00:22:03,600 --> 00:22:05,669
+are 100% free to play with this however
+they wish.
+
+1046
+00:22:05,669 --> 00:22:05,679
+they wish.
+ 
+
+1047
+00:22:05,679 --> 00:22:08,950
+they wish.
+uh they can rule that you can't do
+
+1048
+00:22:08,950 --> 00:22:08,960
+uh they can rule that you can't do
+ 
+
+1049
+00:22:08,960 --> 00:22:11,350
+uh they can rule that you can't do
+non-lethal damage in certain situations,
+
+1050
+00:22:11,350 --> 00:22:11,360
+non-lethal damage in certain situations,
+ 
+
+1051
+00:22:11,360 --> 00:22:13,669
+non-lethal damage in certain situations,
+but again, these are what the official
+
+1052
+00:22:13,669 --> 00:22:13,679
+but again, these are what the official
+ 
+
+1053
+00:22:13,679 --> 00:22:17,350
+but again, these are what the official
+rules as written say. Okay, so that was
+
+1054
+00:22:17,350 --> 00:22:17,360
+rules as written say. Okay, so that was
+ 
+
+1055
+00:22:17,360 --> 00:22:20,950
+rules as written say. Okay, so that was
+my uh look at non-lethal damage. Uh if
+
+1056
+00:22:20,950 --> 00:22:20,960
+my uh look at non-lethal damage. Uh if
+ 
+
+1057
+00:22:20,960 --> 00:22:22,870
+my uh look at non-lethal damage. Uh if
+you have any questions about that,
+
+1058
+00:22:22,870 --> 00:22:22,880
+you have any questions about that,
+ 
+
+1059
+00:22:22,880 --> 00:22:24,230
+you have any questions about that,
+please let me know in the comments
+
+1060
+00:22:24,230 --> 00:22:24,240
+please let me know in the comments
+ 
+
+1061
+00:22:24,240 --> 00:22:26,710
+please let me know in the comments
+below. If you have any other situations
+
+1062
+00:22:26,710 --> 00:22:26,720
+below. If you have any other situations
+ 
+
+1063
+00:22:26,720 --> 00:22:28,470
+below. If you have any other situations
+where you've encountered a need for
+
+1064
+00:22:28,470 --> 00:22:28,480
+where you've encountered a need for
+ 
+
+1065
+00:22:28,480 --> 00:22:31,270
+where you've encountered a need for
+non-lethal damage in your games and had
+
+1066
+00:22:31,270 --> 00:22:31,280
+non-lethal damage in your games and had
+ 
+
+1067
+00:22:31,280 --> 00:22:33,990
+non-lethal damage in your games and had
+uh to craft these fun little narratives
+
+1068
+00:22:33,990 --> 00:22:34,000
+uh to craft these fun little narratives
+ 
+
+1069
+00:22:34,000 --> 00:22:35,590
+uh to craft these fun little narratives
+to figure out the explanation, share
+
+1070
+00:22:35,590 --> 00:22:35,600
+to figure out the explanation, share
+ 
+
+1071
+00:22:35,600 --> 00:22:36,950
+to figure out the explanation, share
+those stories as well. We'd love to hear
+
+1072
+00:22:36,950 --> 00:22:36,960
+those stories as well. We'd love to hear
+ 
+
+1073
+00:22:36,960 --> 00:22:38,630
+those stories as well. We'd love to hear
+from you. And as always, I want to take
+
+1074
+00:22:38,630 --> 00:22:38,640
+from you. And as always, I want to take
+ 
+
+1075
+00:22:38,640 --> 00:22:39,909
+from you. And as always, I want to take
+a moment to say thank you to everybody
+
+1076
+00:22:39,909 --> 00:22:39,919
+a moment to say thank you to everybody
+ 
+
+1077
+00:22:39,919 --> 00:22:41,750
+a moment to say thank you to everybody
+out there who supports me. Whether it's
+
+1078
+00:22:41,750 --> 00:22:41,760
+out there who supports me. Whether it's
+ 
+
+1079
+00:22:41,760 --> 00:22:43,669
+out there who supports me. Whether it's
+by leaving those comments, clicking the
+
+1080
+00:22:43,669 --> 00:22:43,679
+by leaving those comments, clicking the
+ 
+
+1081
+00:22:43,679 --> 00:22:45,430
+by leaving those comments, clicking the
+like button, subscribing to the channel,
+
+1082
+00:22:45,430 --> 00:22:45,440
+like button, subscribing to the channel,
+ 
+
+1083
+00:22:45,440 --> 00:22:47,510
+like button, subscribing to the channel,
+subscribing to the Patreon like the good
+
+1084
+00:22:47,510 --> 00:22:47,520
+subscribing to the Patreon like the good
+ 
+
+1085
+00:22:47,520 --> 00:22:49,990
+subscribing to the Patreon like the good
+person who sent me this uh initial
+
+1086
+00:22:49,990 --> 00:22:50,000
+person who sent me this uh initial
+ 
+
+1087
+00:22:50,000 --> 00:22:51,909
+person who sent me this uh initial
+question. I appreciate everything you
+
+1088
+00:22:51,909 --> 00:22:51,919
+question. I appreciate everything you
+ 
+
+1089
+00:22:51,919 --> 00:22:53,830
+question. I appreciate everything you
+folks do to support me. And with that,
+
+1090
+00:22:53,830 --> 00:22:53,840
+folks do to support me. And with that,
+ 
+
+1091
+00:22:53,840 --> 00:22:55,510
+folks do to support me. And with that,
+thanks for watching. Take care and happy
+
+1092
+00:22:55,510 --> 00:22:55,520
+thanks for watching. Take care and happy
+ 
+
+1093
+00:22:55,520 --> 00:23:01,590
+thanks for watching. Take care and happy
+gaming.
+
+1094
+00:23:01,590 --> 00:23:01,600
+
+ 
+
+1095
+00:23:01,600 --> 00:23:23,330
+
+[Music]
+

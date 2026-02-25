@@ -1,0 +1,1945 @@
+1
+00:00:03,920 --> 00:00:06,230
+
+welcome to complex crafting and
+
+2
+00:00:06,230 --> 00:00:06,240
+welcome to complex crafting and
+ 
+
+3
+00:00:06,240 --> 00:00:08,270
+welcome to complex crafting and
+Pathfinder second edition this video
+
+4
+00:00:08,270 --> 00:00:08,280
+Pathfinder second edition this video
+ 
+
+5
+00:00:08,280 --> 00:00:10,430
+Pathfinder second edition this video
+provides an overview of an optional
+
+6
+00:00:10,430 --> 00:00:10,440
+provides an overview of an optional
+ 
+
+7
+00:00:10,440 --> 00:00:12,770
+provides an overview of an optional
+crafting system that modifies the
+
+8
+00:00:12,770 --> 00:00:12,780
+crafting system that modifies the
+ 
+
+9
+00:00:12,780 --> 00:00:14,570
+crafting system that modifies the
+original crafting rules that were
+
+10
+00:00:14,570 --> 00:00:14,580
+original crafting rules that were
+ 
+
+11
+00:00:14,580 --> 00:00:16,849
+original crafting rules that were
+covered in Parts one through three of
+
+12
+00:00:16,849 --> 00:00:16,859
+covered in Parts one through three of
+ 
+
+13
+00:00:16,859 --> 00:00:19,130
+covered in Parts one through three of
+this series as such it is highly
+
+14
+00:00:19,130 --> 00:00:19,140
+this series as such it is highly
+ 
+
+15
+00:00:19,140 --> 00:00:21,349
+this series as such it is highly
+recommended that you watch part one of
+
+16
+00:00:21,349 --> 00:00:21,359
+recommended that you watch part one of
+ 
+
+17
+00:00:21,359 --> 00:00:23,990
+recommended that you watch part one of
+this series before continuing a link to
+
+18
+00:00:23,990 --> 00:00:24,000
+this series before continuing a link to
+ 
+
+19
+00:00:24,000 --> 00:00:27,109
+this series before continuing a link to
+it is provided in the description
+
+20
+00:00:27,109 --> 00:00:27,119
+it is provided in the description
+ 
+
+21
+00:00:27,119 --> 00:00:29,870
+it is provided in the description
+one of the most controversial aspects of
+
+22
+00:00:29,870 --> 00:00:29,880
+one of the most controversial aspects of
+ 
+
+23
+00:00:29,880 --> 00:00:32,030
+one of the most controversial aspects of
+Pathfinder's crafting rules is that it
+
+24
+00:00:32,030 --> 00:00:32,040
+Pathfinder's crafting rules is that it
+ 
+
+25
+00:00:32,040 --> 00:00:34,310
+Pathfinder's crafting rules is that it
+takes a minimum of four days to craft
+
+26
+00:00:34,310 --> 00:00:34,320
+takes a minimum of four days to craft
+ 
+
+27
+00:00:34,320 --> 00:00:37,310
+takes a minimum of four days to craft
+anything regardless of its value it
+
+28
+00:00:37,310 --> 00:00:37,320
+anything regardless of its value it
+ 
+
+29
+00:00:37,320 --> 00:00:39,590
+anything regardless of its value it
+takes a first level blacksmith four days
+
+30
+00:00:39,590 --> 00:00:39,600
+takes a first level blacksmith four days
+ 
+
+31
+00:00:39,600 --> 00:00:42,290
+takes a first level blacksmith four days
+to create a simple dagger and it also
+
+32
+00:00:42,290 --> 00:00:42,300
+to create a simple dagger and it also
+ 
+
+33
+00:00:42,300 --> 00:00:44,510
+to create a simple dagger and it also
+takes a level 20 blacksmith with
+
+34
+00:00:44,510 --> 00:00:44,520
+takes a level 20 blacksmith with
+ 
+
+35
+00:00:44,520 --> 00:00:47,389
+takes a level 20 blacksmith with
+legendary proficiency four days to craft
+
+36
+00:00:47,389 --> 00:00:47,399
+legendary proficiency four days to craft
+ 
+
+37
+00:00:47,399 --> 00:00:50,810
+legendary proficiency four days to craft
+the same basic dagger the complex
+
+38
+00:00:50,810 --> 00:00:50,820
+the same basic dagger the complex
+ 
+
+39
+00:00:50,820 --> 00:00:53,510
+the same basic dagger the complex
+crafting system was released as an
+
+40
+00:00:53,510 --> 00:00:53,520
+crafting system was released as an
+ 
+
+41
+00:00:53,520 --> 00:00:56,209
+crafting system was released as an
+option to address this issue basically
+
+42
+00:00:56,209 --> 00:00:56,219
+option to address this issue basically
+ 
+
+43
+00:00:56,219 --> 00:00:59,150
+option to address this issue basically
+what the system does is it reduces the
+
+44
+00:00:59,150 --> 00:00:59,160
+what the system does is it reduces the
+ 
+
+45
+00:00:59,160 --> 00:01:01,189
+what the system does is it reduces the
+amount of time needed to craft items
+
+46
+00:01:01,189 --> 00:01:01,199
+amount of time needed to craft items
+ 
+
+47
+00:01:01,199 --> 00:01:03,049
+amount of time needed to craft items
+that are lower level than the crafter
+
+48
+00:01:03,049 --> 00:01:03,059
+that are lower level than the crafter
+ 
+
+49
+00:01:03,059 --> 00:01:05,929
+that are lower level than the crafter
+but with an increase to the crafting DC
+
+50
+00:01:05,929 --> 00:01:05,939
+but with an increase to the crafting DC
+ 
+
+51
+00:01:05,939 --> 00:01:09,170
+but with an increase to the crafting DC
+that must be passed this is a four-step
+
+52
+00:01:09,170 --> 00:01:09,180
+that must be passed this is a four-step
+ 
+
+53
+00:01:09,180 --> 00:01:11,870
+that must be passed this is a four-step
+process step one you must meet all
+
+54
+00:01:11,870 --> 00:01:11,880
+process step one you must meet all
+ 
+
+55
+00:01:11,880 --> 00:01:14,870
+process step one you must meet all
+requirements step two you set up the
+
+56
+00:01:14,870 --> 00:01:14,880
+requirements step two you set up the
+ 
+
+57
+00:01:14,880 --> 00:01:18,050
+requirements step two you set up the
+project step three roll a crafting skill
+
+58
+00:01:18,050 --> 00:01:18,060
+project step three roll a crafting skill
+ 
+
+59
+00:01:18,060 --> 00:01:20,870
+project step three roll a crafting skill
+check and step four finish the project
+
+60
+00:01:20,870 --> 00:01:20,880
+check and step four finish the project
+ 
+
+61
+00:01:20,880 --> 00:01:23,210
+check and step four finish the project
+by either paying off the remaining value
+
+62
+00:01:23,210 --> 00:01:23,220
+by either paying off the remaining value
+ 
+
+63
+00:01:23,220 --> 00:01:25,609
+by either paying off the remaining value
+or by spending additional days of
+
+64
+00:01:25,609 --> 00:01:25,619
+or by spending additional days of
+ 
+
+65
+00:01:25,619 --> 00:01:27,469
+or by spending additional days of
+downtime working on it
+
+66
+00:01:27,469 --> 00:01:27,479
+downtime working on it
+ 
+
+67
+00:01:27,479 --> 00:01:29,510
+downtime working on it
+the core crafting system is mostly
+
+68
+00:01:29,510 --> 00:01:29,520
+the core crafting system is mostly
+ 
+
+69
+00:01:29,520 --> 00:01:32,390
+the core crafting system is mostly
+unchanged with complex crafting and it's
+
+70
+00:01:32,390 --> 00:01:32,400
+unchanged with complex crafting and it's
+ 
+
+71
+00:01:32,400 --> 00:01:34,789
+unchanged with complex crafting and it's
+really only in steps two and four that
+
+72
+00:01:34,789 --> 00:01:34,799
+really only in steps two and four that
+ 
+
+73
+00:01:34,799 --> 00:01:36,350
+really only in steps two and four that
+you'll see any difference
+
+74
+00:01:36,350 --> 00:01:36,360
+you'll see any difference
+ 
+
+75
+00:01:36,360 --> 00:01:38,929
+you'll see any difference
+so step one is still the same you must
+
+76
+00:01:38,929 --> 00:01:38,939
+so step one is still the same you must
+ 
+
+77
+00:01:38,939 --> 00:01:40,969
+so step one is still the same you must
+meet all the same requirements as before
+
+78
+00:01:40,969 --> 00:01:40,979
+meet all the same requirements as before
+ 
+
+79
+00:01:40,979 --> 00:01:43,429
+meet all the same requirements as before
+including providing half the items value
+
+80
+00:01:43,429 --> 00:01:43,439
+including providing half the items value
+ 
+
+81
+00:01:43,439 --> 00:01:46,850
+including providing half the items value
+in raw materials in step two you set up
+
+82
+00:01:46,850 --> 00:01:46,860
+in raw materials in step two you set up
+ 
+
+83
+00:01:46,860 --> 00:01:49,010
+in raw materials in step two you set up
+the project with the original crafting
+
+84
+00:01:49,010 --> 00:01:49,020
+the project with the original crafting
+ 
+
+85
+00:01:49,020 --> 00:01:52,130
+the project with the original crafting
+rules this took a flat four days but
+
+86
+00:01:52,130 --> 00:01:52,140
+rules this took a flat four days but
+ 
+
+87
+00:01:52,140 --> 00:01:54,410
+rules this took a flat four days but
+with complex crafting the amount of
+
+88
+00:01:54,410 --> 00:01:54,420
+with complex crafting the amount of
+ 
+
+89
+00:01:54,420 --> 00:01:57,350
+with complex crafting the amount of
+setup time may be anywhere from 4 hours
+
+90
+00:01:57,350 --> 00:01:57,360
+setup time may be anywhere from 4 hours
+ 
+
+91
+00:01:57,360 --> 00:02:00,469
+setup time may be anywhere from 4 hours
+to six days to determine the amount of
+
+92
+00:02:00,469 --> 00:02:00,479
+to six days to determine the amount of
+ 
+
+93
+00:02:00,479 --> 00:02:02,630
+to six days to determine the amount of
+setup time that's needed refer to Table
+
+94
+00:02:02,630 --> 00:02:02,640
+setup time that's needed refer to Table
+ 
+
+95
+00:02:02,640 --> 00:02:05,630
+setup time that's needed refer to Table
+5 1 from the Pathfinder treasure vault
+
+96
+00:02:05,630 --> 00:02:05,640
+5 1 from the Pathfinder treasure vault
+ 
+
+97
+00:02:05,640 --> 00:02:08,150
+5 1 from the Pathfinder treasure vault
+there are two columns one for consumable
+
+98
+00:02:08,150 --> 00:02:08,160
+there are two columns one for consumable
+ 
+
+99
+00:02:08,160 --> 00:02:11,150
+there are two columns one for consumable
+items and another for permanent items if
+
+100
+00:02:11,150 --> 00:02:11,160
+items and another for permanent items if
+ 
+
+101
+00:02:11,160 --> 00:02:13,010
+items and another for permanent items if
+the item you're crafting has an item
+
+102
+00:02:13,010 --> 00:02:13,020
+the item you're crafting has an item
+ 
+
+103
+00:02:13,020 --> 00:02:14,990
+the item you're crafting has an item
+level that's equal to your character
+
+104
+00:02:14,990 --> 00:02:15,000
+level that's equal to your character
+ 
+
+105
+00:02:15,000 --> 00:02:17,510
+level that's equal to your character
+level then you need four days of setup
+
+106
+00:02:17,510 --> 00:02:17,520
+level then you need four days of setup
+ 
+
+107
+00:02:17,520 --> 00:02:20,869
+level then you need four days of setup
+time if it is a consumable item or six
+
+108
+00:02:20,869 --> 00:02:20,879
+time if it is a consumable item or six
+ 
+
+109
+00:02:20,879 --> 00:02:23,150
+time if it is a consumable item or six
+days of setup time if it's a permanent
+
+110
+00:02:23,150 --> 00:02:23,160
+days of setup time if it's a permanent
+ 
+
+111
+00:02:23,160 --> 00:02:25,490
+days of setup time if it's a permanent
+item and the amount of setup time that's
+
+112
+00:02:25,490 --> 00:02:25,500
+item and the amount of setup time that's
+ 
+
+113
+00:02:25,500 --> 00:02:28,130
+item and the amount of setup time that's
+required is lowered if the items level
+
+114
+00:02:28,130 --> 00:02:28,140
+required is lowered if the items level
+ 
+
+115
+00:02:28,140 --> 00:02:30,589
+required is lowered if the items level
+is lower than your character level
+
+116
+00:02:30,589 --> 00:02:30,599
+is lower than your character level
+ 
+
+117
+00:02:30,599 --> 00:02:32,510
+is lower than your character level
+once you've determined the setup time
+
+118
+00:02:32,510 --> 00:02:32,520
+once you've determined the setup time
+ 
+
+119
+00:02:32,520 --> 00:02:34,970
+once you've determined the setup time
+you next need to decide if you're okay
+
+120
+00:02:34,970 --> 00:02:34,980
+you next need to decide if you're okay
+ 
+
+121
+00:02:34,980 --> 00:02:37,550
+you next need to decide if you're okay
+with that amount of time or if you want
+
+122
+00:02:37,550 --> 00:02:37,560
+with that amount of time or if you want
+ 
+
+123
+00:02:37,560 --> 00:02:40,670
+with that amount of time or if you want
+to rush things and craft the item faster
+
+124
+00:02:40,670 --> 00:02:40,680
+to rush things and craft the item faster
+ 
+
+125
+00:02:40,680 --> 00:02:43,009
+to rush things and craft the item faster
+the amount of time you can reduce the
+
+126
+00:02:43,009 --> 00:02:43,019
+the amount of time you can reduce the
+ 
+
+127
+00:02:43,019 --> 00:02:45,470
+the amount of time you can reduce the
+setup by is based on your crafting
+
+128
+00:02:45,470 --> 00:02:45,480
+setup by is based on your crafting
+ 
+
+129
+00:02:45,480 --> 00:02:47,750
+setup by is based on your crafting
+proficiency level with trained
+
+130
+00:02:47,750 --> 00:02:47,760
+proficiency level with trained
+ 
+
+131
+00:02:47,760 --> 00:02:49,729
+proficiency level with trained
+proficiency you cannot Rush a project
+
+132
+00:02:49,729 --> 00:02:49,739
+proficiency you cannot Rush a project
+ 
+
+133
+00:02:49,739 --> 00:02:53,030
+proficiency you cannot Rush a project
+and must use the listed setup time
+
+134
+00:02:53,030 --> 00:02:53,040
+and must use the listed setup time
+ 
+
+135
+00:02:53,040 --> 00:02:55,610
+and must use the listed setup time
+with expert proficiency you can reduce
+
+136
+00:02:55,610 --> 00:02:55,620
+with expert proficiency you can reduce
+ 
+
+137
+00:02:55,620 --> 00:02:58,790
+with expert proficiency you can reduce
+the setup Time by one day but suffer a
+
+138
+00:02:58,790 --> 00:02:58,800
+the setup Time by one day but suffer a
+ 
+
+139
+00:02:58,800 --> 00:03:01,670
+the setup Time by one day but suffer a
+plus five increase to the crafting DC
+
+140
+00:03:01,670 --> 00:03:01,680
+plus five increase to the crafting DC
+ 
+
+141
+00:03:01,680 --> 00:03:04,070
+plus five increase to the crafting DC
+with Master proficiency you can reduce
+
+142
+00:03:04,070 --> 00:03:04,080
+with Master proficiency you can reduce
+ 
+
+143
+00:03:04,080 --> 00:03:06,710
+with Master proficiency you can reduce
+the setup Time by two days with suffer a
+
+144
+00:03:06,710 --> 00:03:06,720
+the setup Time by two days with suffer a
+ 
+
+145
+00:03:06,720 --> 00:03:09,470
+the setup Time by two days with suffer a
+plus 10 increase to the crafting DC and
+
+146
+00:03:09,470 --> 00:03:09,480
+plus 10 increase to the crafting DC and
+ 
+
+147
+00:03:09,480 --> 00:03:11,630
+plus 10 increase to the crafting DC and
+with legendary proficiency you can
+
+148
+00:03:11,630 --> 00:03:11,640
+with legendary proficiency you can
+ 
+
+149
+00:03:11,640 --> 00:03:14,030
+with legendary proficiency you can
+reduce the setup Time by three days but
+
+150
+00:03:14,030 --> 00:03:14,040
+reduce the setup Time by three days but
+ 
+
+151
+00:03:14,040 --> 00:03:16,250
+reduce the setup Time by three days but
+suffer a plus 15 increase to the
+
+152
+00:03:16,250 --> 00:03:16,260
+suffer a plus 15 increase to the
+ 
+
+153
+00:03:16,260 --> 00:03:19,850
+suffer a plus 15 increase to the
+crafting DC and setup always requires a
+
+154
+00:03:19,850 --> 00:03:19,860
+crafting DC and setup always requires a
+ 
+
+155
+00:03:19,860 --> 00:03:22,610
+crafting DC and setup always requires a
+minimum of four hours no matter how much
+
+156
+00:03:22,610 --> 00:03:22,620
+minimum of four hours no matter how much
+ 
+
+157
+00:03:22,620 --> 00:03:25,550
+minimum of four hours no matter how much
+you lure it by rushing
+
+158
+00:03:25,550 --> 00:03:25,560
+you lure it by rushing
+ 
+
+159
+00:03:25,560 --> 00:03:27,890
+you lure it by rushing
+after the setup time passes you enter
+
+160
+00:03:27,890 --> 00:03:27,900
+after the setup time passes you enter
+ 
+
+161
+00:03:27,900 --> 00:03:30,410
+after the setup time passes you enter
+step 3 in need to roll your crafting
+
+162
+00:03:30,410 --> 00:03:30,420
+step 3 in need to roll your crafting
+ 
+
+163
+00:03:30,420 --> 00:03:33,170
+step 3 in need to roll your crafting
+skill check this works exactly the same
+
+164
+00:03:33,170 --> 00:03:33,180
+skill check this works exactly the same
+ 
+
+165
+00:03:33,180 --> 00:03:35,330
+skill check this works exactly the same
+as it does with the original crafting
+
+166
+00:03:35,330 --> 00:03:35,340
+as it does with the original crafting
+ 
+
+167
+00:03:35,340 --> 00:03:37,850
+as it does with the original crafting
+rules except the DC might be increased
+
+168
+00:03:37,850 --> 00:03:37,860
+rules except the DC might be increased
+ 
+
+169
+00:03:37,860 --> 00:03:39,710
+rules except the DC might be increased
+due to rushing the project
+
+170
+00:03:39,710 --> 00:03:39,720
+due to rushing the project
+ 
+
+171
+00:03:39,720 --> 00:03:42,229
+due to rushing the project
+if you succeed on this check then you
+
+172
+00:03:42,229 --> 00:03:42,239
+if you succeed on this check then you
+ 
+
+173
+00:03:42,239 --> 00:03:44,630
+if you succeed on this check then you
+move on to step four and can either pay
+
+174
+00:03:44,630 --> 00:03:44,640
+move on to step four and can either pay
+ 
+
+175
+00:03:44,640 --> 00:03:46,789
+move on to step four and can either pay
+off the remaining balance and materials
+
+176
+00:03:46,789 --> 00:03:46,799
+off the remaining balance and materials
+ 
+
+177
+00:03:46,799 --> 00:03:49,250
+off the remaining balance and materials
+or you can spend additional days working
+
+178
+00:03:49,250 --> 00:03:49,260
+or you can spend additional days working
+ 
+
+179
+00:03:49,260 --> 00:03:51,830
+or you can spend additional days working
+on the project each extra day spent
+
+180
+00:03:51,830 --> 00:03:51,840
+on the project each extra day spent
+ 
+
+181
+00:03:51,840 --> 00:03:54,289
+on the project each extra day spent
+reduces the remaining balance by the
+
+182
+00:03:54,289 --> 00:03:54,299
+reduces the remaining balance by the
+ 
+
+183
+00:03:54,299 --> 00:03:56,449
+reduces the remaining balance by the
+appropriate amount found on the income
+
+184
+00:03:56,449 --> 00:03:56,459
+appropriate amount found on the income
+ 
+
+185
+00:03:56,459 --> 00:03:59,570
+appropriate amount found on the income
+earned table again this is the same as
+
+186
+00:03:59,570 --> 00:03:59,580
+earned table again this is the same as
+ 
+
+187
+00:03:59,580 --> 00:04:02,089
+earned table again this is the same as
+with the original crafting system so see
+
+188
+00:04:02,089 --> 00:04:02,099
+with the original crafting system so see
+ 
+
+189
+00:04:02,099 --> 00:04:04,009
+with the original crafting system so see
+part one of this video series if you
+
+190
+00:04:04,009 --> 00:04:04,019
+part one of this video series if you
+ 
+
+191
+00:04:04,019 --> 00:04:06,289
+part one of this video series if you
+need a refresher on how that works
+
+192
+00:04:06,289 --> 00:04:06,299
+need a refresher on how that works
+ 
+
+193
+00:04:06,299 --> 00:04:08,449
+need a refresher on how that works
+what is different with complex crafting
+
+194
+00:04:08,449 --> 00:04:08,459
+what is different with complex crafting
+ 
+
+195
+00:04:08,459 --> 00:04:10,789
+what is different with complex crafting
+though is you can choose not only to
+
+196
+00:04:10,789 --> 00:04:10,799
+though is you can choose not only to
+ 
+
+197
+00:04:10,799 --> 00:04:13,550
+though is you can choose not only to
+rush the setup process but you can also
+
+198
+00:04:13,550 --> 00:04:13,560
+rush the setup process but you can also
+ 
+
+199
+00:04:13,560 --> 00:04:15,649
+rush the setup process but you can also
+choose to rush the finishing process
+
+200
+00:04:15,649 --> 00:04:15,659
+choose to rush the finishing process
+ 
+
+201
+00:04:15,659 --> 00:04:17,390
+choose to rush the finishing process
+here as well
+
+202
+00:04:17,390 --> 00:04:17,400
+here as well
+ 
+
+203
+00:04:17,400 --> 00:04:19,969
+here as well
+if you are at least expert in crafting
+
+204
+00:04:19,969 --> 00:04:19,979
+if you are at least expert in crafting
+ 
+
+205
+00:04:19,979 --> 00:04:21,850
+if you are at least expert in crafting
+you can Rush the finishing process
+
+206
+00:04:21,850 --> 00:04:21,860
+you can Rush the finishing process
+ 
+
+207
+00:04:21,860 --> 00:04:24,469
+you can Rush the finishing process
+reducing the value of the materials you
+
+208
+00:04:24,469 --> 00:04:24,479
+reducing the value of the materials you
+ 
+
+209
+00:04:24,479 --> 00:04:26,749
+reducing the value of the materials you
+must expend to complete the item by
+
+210
+00:04:26,749 --> 00:04:26,759
+must expend to complete the item by
+ 
+
+211
+00:04:26,759 --> 00:04:28,969
+must expend to complete the item by
+twice the amount found on the income
+
+212
+00:04:28,969 --> 00:04:28,979
+twice the amount found on the income
+ 
+
+213
+00:04:28,979 --> 00:04:31,490
+twice the amount found on the income
+earned Table after each day of downtime
+
+214
+00:04:31,490 --> 00:04:31,500
+earned Table after each day of downtime
+ 
+
+215
+00:04:31,500 --> 00:04:33,770
+earned Table after each day of downtime
+working so for example if you're six
+
+216
+00:04:33,770 --> 00:04:33,780
+working so for example if you're six
+ 
+
+217
+00:04:33,780 --> 00:04:35,870
+working so for example if you're six
+level with expert crafting proficiency
+
+218
+00:04:35,870 --> 00:04:35,880
+level with expert crafting proficiency
+ 
+
+219
+00:04:35,880 --> 00:04:38,330
+level with expert crafting proficiency
+each additional day of downtime spent
+
+220
+00:04:38,330 --> 00:04:38,340
+each additional day of downtime spent
+ 
+
+221
+00:04:38,340 --> 00:04:40,129
+each additional day of downtime spent
+working on the project will reduce the
+
+222
+00:04:40,129 --> 00:04:40,139
+working on the project will reduce the
+ 
+
+223
+00:04:40,139 --> 00:04:42,650
+working on the project will reduce the
+remaining balance by two gold pieces but
+
+224
+00:04:42,650 --> 00:04:42,660
+remaining balance by two gold pieces but
+ 
+
+225
+00:04:42,660 --> 00:04:44,629
+remaining balance by two gold pieces but
+if you decide to rush then each extra
+
+226
+00:04:44,629 --> 00:04:44,639
+if you decide to rush then each extra
+ 
+
+227
+00:04:44,639 --> 00:04:46,430
+if you decide to rush then each extra
+day of work will reduce the remaining
+
+228
+00:04:46,430 --> 00:04:46,440
+day of work will reduce the remaining
+ 
+
+229
+00:04:46,440 --> 00:04:49,730
+day of work will reduce the remaining
+balance by four gold pieces this of
+
+230
+00:04:49,730 --> 00:04:49,740
+balance by four gold pieces this of
+ 
+
+231
+00:04:49,740 --> 00:04:51,890
+balance by four gold pieces this of
+course does not come without added risk
+
+232
+00:04:51,890 --> 00:04:51,900
+course does not come without added risk
+ 
+
+233
+00:04:51,900 --> 00:04:54,530
+course does not come without added risk
+at the end of the crafting process after
+
+234
+00:04:54,530 --> 00:04:54,540
+at the end of the crafting process after
+ 
+
+235
+00:04:54,540 --> 00:04:56,510
+at the end of the crafting process after
+the remaining balance has been reduced
+
+236
+00:04:56,510 --> 00:04:56,520
+the remaining balance has been reduced
+ 
+
+237
+00:04:56,520 --> 00:04:58,909
+the remaining balance has been reduced
+to zero and the item would normally be
+
+238
+00:04:58,909 --> 00:04:58,919
+to zero and the item would normally be
+ 
+
+239
+00:04:58,919 --> 00:05:02,090
+to zero and the item would normally be
+complete you must roll a flat check
+
+240
+00:05:02,090 --> 00:05:02,100
+complete you must roll a flat check
+ 
+
+241
+00:05:02,100 --> 00:05:05,390
+complete you must roll a flat check
+the DC for this check is 10 plus the
+
+242
+00:05:05,390 --> 00:05:05,400
+the DC for this check is 10 plus the
+ 
+
+243
+00:05:05,400 --> 00:05:08,090
+the DC for this check is 10 plus the
+items level minus your crafting
+
+244
+00:05:08,090 --> 00:05:08,100
+items level minus your crafting
+ 
+
+245
+00:05:08,100 --> 00:05:10,730
+items level minus your crafting
+proficiency bonus note that this is only
+
+246
+00:05:10,730 --> 00:05:10,740
+proficiency bonus note that this is only
+ 
+
+247
+00:05:10,740 --> 00:05:13,790
+proficiency bonus note that this is only
+your proficiency bonus not your total
+
+248
+00:05:13,790 --> 00:05:13,800
+your proficiency bonus not your total
+ 
+
+249
+00:05:13,800 --> 00:05:16,550
+your proficiency bonus not your total
+crafting skill modifier so this will be
+
+250
+00:05:16,550 --> 00:05:16,560
+crafting skill modifier so this will be
+ 
+
+251
+00:05:16,560 --> 00:05:19,010
+crafting skill modifier so this will be
+your level plus four if you have expert
+
+252
+00:05:19,010 --> 00:05:19,020
+your level plus four if you have expert
+ 
+
+253
+00:05:19,020 --> 00:05:21,710
+your level plus four if you have expert
+proficiency your level plus six with
+
+254
+00:05:21,710 --> 00:05:21,720
+proficiency your level plus six with
+ 
+
+255
+00:05:21,720 --> 00:05:24,350
+proficiency your level plus six with
+Master proficiency or your level plus
+
+256
+00:05:24,350 --> 00:05:24,360
+Master proficiency or your level plus
+ 
+
+257
+00:05:24,360 --> 00:05:27,110
+Master proficiency or your level plus
+eight with legendary proficiency and
+
+258
+00:05:27,110 --> 00:05:27,120
+eight with legendary proficiency and
+ 
+
+259
+00:05:27,120 --> 00:05:29,870
+eight with legendary proficiency and
+because this is a flat check nothing is
+
+260
+00:05:29,870 --> 00:05:29,880
+because this is a flat check nothing is
+ 
+
+261
+00:05:29,880 --> 00:05:32,450
+because this is a flat check nothing is
+added to the roll it is just a straight
+
+262
+00:05:32,450 --> 00:05:32,460
+added to the roll it is just a straight
+ 
+
+263
+00:05:32,460 --> 00:05:36,350
+added to the roll it is just a straight
+D20 against the DC for example if you're
+
+264
+00:05:36,350 --> 00:05:36,360
+D20 against the DC for example if you're
+ 
+
+265
+00:05:36,360 --> 00:05:38,749
+D20 against the DC for example if you're
+six level with expert proficiency and
+
+266
+00:05:38,749 --> 00:05:38,759
+six level with expert proficiency and
+ 
+
+267
+00:05:38,759 --> 00:05:41,150
+six level with expert proficiency and
+you're crafting a fourth level item the
+
+268
+00:05:41,150 --> 00:05:41,160
+you're crafting a fourth level item the
+ 
+
+269
+00:05:41,160 --> 00:05:44,330
+you're crafting a fourth level item the
+DC for this check will be 10 plus 4 for
+
+270
+00:05:44,330 --> 00:05:44,340
+DC for this check will be 10 plus 4 for
+ 
+
+271
+00:05:44,340 --> 00:05:47,150
+DC for this check will be 10 plus 4 for
+the item level minus 10 for having
+
+272
+00:05:47,150 --> 00:05:47,160
+the item level minus 10 for having
+ 
+
+273
+00:05:47,160 --> 00:05:49,909
+the item level minus 10 for having
+expert proficiency and that gives you a
+
+274
+00:05:49,909 --> 00:05:49,919
+expert proficiency and that gives you a
+ 
+
+275
+00:05:49,919 --> 00:05:53,749
+expert proficiency and that gives you a
+final DC of four if this flat check is a
+
+276
+00:05:53,749 --> 00:05:53,759
+final DC of four if this flat check is a
+ 
+
+277
+00:05:53,759 --> 00:05:56,210
+final DC of four if this flat check is a
+success or critical success then the
+
+278
+00:05:56,210 --> 00:05:56,220
+success or critical success then the
+ 
+
+279
+00:05:56,220 --> 00:05:58,909
+success or critical success then the
+item is crafted without any issues if
+
+280
+00:05:58,909 --> 00:05:58,919
+item is crafted without any issues if
+ 
+
+281
+00:05:58,919 --> 00:06:01,370
+item is crafted without any issues if
+the check is a failure then the item is
+
+282
+00:06:01,370 --> 00:06:01,380
+the check is a failure then the item is
+ 
+
+283
+00:06:01,380 --> 00:06:04,490
+the check is a failure then the item is
+completed but gain a quark and quarks
+
+284
+00:06:04,490 --> 00:06:04,500
+completed but gain a quark and quarks
+ 
+
+285
+00:06:04,500 --> 00:06:06,890
+completed but gain a quark and quarks
+can be found on page 86 of the game
+
+286
+00:06:06,890 --> 00:06:06,900
+can be found on page 86 of the game
+ 
+
+287
+00:06:06,900 --> 00:06:10,129
+can be found on page 86 of the game
+mastery guide and if the check is a
+
+288
+00:06:10,129 --> 00:06:10,139
+mastery guide and if the check is a
+ 
+
+289
+00:06:10,139 --> 00:06:12,590
+mastery guide and if the check is a
+critical failure then the item is either
+
+290
+00:06:12,590 --> 00:06:12,600
+critical failure then the item is either
+ 
+
+291
+00:06:12,600 --> 00:06:16,010
+critical failure then the item is either
+ruined or may become cursed at the GM's
+
+292
+00:06:16,010 --> 00:06:16,020
+ruined or may become cursed at the GM's
+ 
+
+293
+00:06:16,020 --> 00:06:18,230
+ruined or may become cursed at the GM's
+discretion
+
+294
+00:06:18,230 --> 00:06:18,240
+discretion
+ 
+
+295
+00:06:18,240 --> 00:06:20,990
+discretion
+complex crafting also introduces one new
+
+296
+00:06:20,990 --> 00:06:21,000
+complex crafting also introduces one new
+ 
+
+297
+00:06:21,000 --> 00:06:23,330
+complex crafting also introduces one new
+crafting skill feat called quick setup
+
+298
+00:06:23,330 --> 00:06:23,340
+crafting skill feat called quick setup
+ 
+
+299
+00:06:23,340 --> 00:06:26,150
+crafting skill feat called quick setup
+as the name implies this feed allows a
+
+300
+00:06:26,150 --> 00:06:26,160
+as the name implies this feed allows a
+ 
+
+301
+00:06:26,160 --> 00:06:28,249
+as the name implies this feed allows a
+character to reduce the amount of needed
+
+302
+00:06:28,249 --> 00:06:28,259
+character to reduce the amount of needed
+ 
+
+303
+00:06:28,259 --> 00:06:30,710
+character to reduce the amount of needed
+setup time even further for items that
+
+304
+00:06:30,710 --> 00:06:30,720
+setup time even further for items that
+ 
+
+305
+00:06:30,720 --> 00:06:33,409
+setup time even further for items that
+are at least six levels lower than the
+
+306
+00:06:33,409 --> 00:06:33,419
+are at least six levels lower than the
+ 
+
+307
+00:06:33,419 --> 00:06:34,670
+are at least six levels lower than the
+character's level
+
+308
+00:06:34,670 --> 00:06:34,680
+character's level
+ 
+
+309
+00:06:34,680 --> 00:06:37,189
+character's level
+it also allows a character to reduce the
+
+310
+00:06:37,189 --> 00:06:37,199
+it also allows a character to reduce the
+ 
+
+311
+00:06:37,199 --> 00:06:39,290
+it also allows a character to reduce the
+setup time for consumable items to only
+
+312
+00:06:39,290 --> 00:06:39,300
+setup time for consumable items to only
+ 
+
+313
+00:06:39,300 --> 00:06:41,689
+setup time for consumable items to only
+two hours which makes it possible to
+
+314
+00:06:41,689 --> 00:06:41,699
+two hours which makes it possible to
+ 
+
+315
+00:06:41,699 --> 00:06:43,850
+two hours which makes it possible to
+craft such items during the adventuring
+
+316
+00:06:43,850 --> 00:06:43,860
+craft such items during the adventuring
+ 
+
+317
+00:06:43,860 --> 00:06:46,670
+craft such items during the adventuring
+day instead of solely during downtime
+
+318
+00:06:46,670 --> 00:06:46,680
+day instead of solely during downtime
+ 
+
+319
+00:06:46,680 --> 00:06:49,610
+day instead of solely during downtime
+however please note that this feat is
+
+320
+00:06:49,610 --> 00:06:49,620
+however please note that this feat is
+ 
+
+321
+00:06:49,620 --> 00:06:52,309
+however please note that this feat is
+listed as rare so it should not be
+
+322
+00:06:52,309 --> 00:06:52,319
+listed as rare so it should not be
+ 
+
+323
+00:06:52,319 --> 00:06:55,070
+listed as rare so it should not be
+commonly available and the book provides
+
+324
+00:06:55,070 --> 00:06:55,080
+commonly available and the book provides
+ 
+
+325
+00:06:55,080 --> 00:06:57,650
+commonly available and the book provides
+an additional warning that reads this
+
+326
+00:06:57,650 --> 00:06:57,660
+an additional warning that reads this
+ 
+
+327
+00:06:57,660 --> 00:06:59,870
+an additional warning that reads this
+rapid form of crafting could cause your
+
+328
+00:06:59,870 --> 00:06:59,880
+rapid form of crafting could cause your
+ 
+
+329
+00:06:59,880 --> 00:07:01,969
+rapid form of crafting could cause your
+players to end up with higher treasure
+
+330
+00:07:01,969 --> 00:07:01,979
+players to end up with higher treasure
+ 
+
+331
+00:07:01,979 --> 00:07:05,210
+players to end up with higher treasure
+values or more items than an adventure
+
+332
+00:07:05,210 --> 00:07:05,220
+values or more items than an adventure
+ 
+
+333
+00:07:05,220 --> 00:07:08,029
+values or more items than an adventure
+expects them to have so be careful about
+
+334
+00:07:08,029 --> 00:07:08,039
+expects them to have so be careful about
+ 
+
+335
+00:07:08,039 --> 00:07:10,490
+expects them to have so be careful about
+allowing this fee in campaigns that
+
+336
+00:07:10,490 --> 00:07:10,500
+allowing this fee in campaigns that
+ 
+
+337
+00:07:10,500 --> 00:07:12,770
+allowing this fee in campaigns that
+already provide significant amounts of
+
+338
+00:07:12,770 --> 00:07:12,780
+already provide significant amounts of
+ 
+
+339
+00:07:12,780 --> 00:07:14,689
+already provide significant amounts of
+downtime
+
+340
+00:07:14,689 --> 00:07:14,699
+downtime
+ 
+
+341
+00:07:14,699 --> 00:07:16,730
+downtime
+so that should give you an overview of
+
+342
+00:07:16,730 --> 00:07:16,740
+so that should give you an overview of
+ 
+
+343
+00:07:16,740 --> 00:07:19,969
+so that should give you an overview of
+the new complex crafting rules found in
+
+344
+00:07:19,969 --> 00:07:19,979
+the new complex crafting rules found in
+ 
+
+345
+00:07:19,979 --> 00:07:22,670
+the new complex crafting rules found in
+the Pathfinder treasure Vault stay tuned
+
+346
+00:07:22,670 --> 00:07:22,680
+the Pathfinder treasure Vault stay tuned
+ 
+
+347
+00:07:22,680 --> 00:07:24,650
+the Pathfinder treasure Vault stay tuned
+for a follow-up to this video where I
+
+348
+00:07:24,650 --> 00:07:24,660
+for a follow-up to this video where I
+ 
+
+349
+00:07:24,660 --> 00:07:26,689
+for a follow-up to this video where I
+will be providing an example that walks
+
+350
+00:07:26,689 --> 00:07:26,699
+will be providing an example that walks
+ 
+
+351
+00:07:26,699 --> 00:07:29,029
+will be providing an example that walks
+you through the entire crafting process
+
+352
+00:07:29,029 --> 00:07:29,039
+you through the entire crafting process
+ 
+
+353
+00:07:29,039 --> 00:07:31,850
+you through the entire crafting process
+of crafting a magic item using this
+
+354
+00:07:31,850 --> 00:07:31,860
+of crafting a magic item using this
+ 
+
+355
+00:07:31,860 --> 00:07:34,909
+of crafting a magic item using this
+system and again if any of this is
+
+356
+00:07:34,909 --> 00:07:34,919
+system and again if any of this is
+ 
+
+357
+00:07:34,919 --> 00:07:36,890
+system and again if any of this is
+confusing make sure you check out the
+
+358
+00:07:36,890 --> 00:07:36,900
+confusing make sure you check out the
+ 
+
+359
+00:07:36,900 --> 00:07:39,589
+confusing make sure you check out the
+first video of this series as this new
+
+360
+00:07:39,589 --> 00:07:39,599
+first video of this series as this new
+ 
+
+361
+00:07:39,599 --> 00:07:42,050
+first video of this series as this new
+complex crafting system keeps the
+
+362
+00:07:42,050 --> 00:07:42,060
+complex crafting system keeps the
+ 
+
+363
+00:07:42,060 --> 00:07:45,230
+complex crafting system keeps the
+original process largely intact a link
+
+364
+00:07:45,230 --> 00:07:45,240
+original process largely intact a link
+ 
+
+365
+00:07:45,240 --> 00:07:46,969
+original process largely intact a link
+to that video and all my others that
+
+366
+00:07:46,969 --> 00:07:46,979
+to that video and all my others that
+ 
+
+367
+00:07:46,979 --> 00:07:49,129
+to that video and all my others that
+touch on Crafting are included in the
+
+368
+00:07:49,129 --> 00:07:49,139
+touch on Crafting are included in the
+ 
+
+369
+00:07:49,139 --> 00:07:51,170
+touch on Crafting are included in the
+description and I'd like to take a quick
+
+370
+00:07:51,170 --> 00:07:51,180
+description and I'd like to take a quick
+ 
+
+371
+00:07:51,180 --> 00:07:52,790
+description and I'd like to take a quick
+moment to thank everyone out there who
+
+372
+00:07:52,790 --> 00:07:52,800
+moment to thank everyone out there who
+ 
+
+373
+00:07:52,800 --> 00:07:55,189
+moment to thank everyone out there who
+supports me with us by leaving a comment
+
+374
+00:07:55,189 --> 00:07:55,199
+supports me with us by leaving a comment
+ 
+
+375
+00:07:55,199 --> 00:07:57,170
+supports me with us by leaving a comment
+clicking the like button subscribing to
+
+376
+00:07:57,170 --> 00:07:57,180
+clicking the like button subscribing to
+ 
+
+377
+00:07:57,180 --> 00:07:59,089
+clicking the like button subscribing to
+the channel subscribing to the patreon
+
+378
+00:07:59,089 --> 00:07:59,099
+the channel subscribing to the patreon
+ 
+
+379
+00:07:59,099 --> 00:08:01,189
+the channel subscribing to the patreon
+buying a super thanks it all adds up and
+
+380
+00:08:01,189 --> 00:08:01,199
+buying a super thanks it all adds up and
+ 
+
+381
+00:08:01,199 --> 00:08:02,749
+buying a super thanks it all adds up and
+I greatly appreciate everything the
+
+382
+00:08:02,749 --> 00:08:02,759
+I greatly appreciate everything the
+ 
+
+383
+00:08:02,759 --> 00:08:04,850
+I greatly appreciate everything the
+community does to support me and this
+
+384
+00:08:04,850 --> 00:08:04,860
+community does to support me and this
+ 
+
+385
+00:08:04,860 --> 00:08:06,950
+community does to support me and this
+channel so with that thanks for watching
+
+386
+00:08:06,950 --> 00:08:06,960
+channel so with that thanks for watching
+ 
+
+387
+00:08:06,960 --> 00:08:11,800
+channel so with that thanks for watching
+take care and happy gaming
+
+388
+00:08:11,800 --> 00:08:11,810
+
+ 
+
+389
+00:08:11,810 --> 00:08:18,730
+
+[Music]
+

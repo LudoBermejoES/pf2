@@ -1,0 +1,2785 @@
+1
+00:00:01,199 --> 00:00:02,950
+
+this video is brought to you by the
+
+2
+00:00:02,950 --> 00:00:02,960
+this video is brought to you by the
+ 
+
+3
+00:00:02,960 --> 00:00:05,349
+this video is brought to you by the
+battle zoo bestiary a new book featuring
+
+4
+00:00:05,349 --> 00:00:05,359
+battle zoo bestiary a new book featuring
+ 
+
+5
+00:00:05,359 --> 00:00:07,430
+battle zoo bestiary a new book featuring
+100 award-winning monsters and the
+
+6
+00:00:07,430 --> 00:00:07,440
+100 award-winning monsters and the
+ 
+
+7
+00:00:07,440 --> 00:00:09,350
+100 award-winning monsters and the
+monster parts system that allows players
+
+8
+00:00:09,350 --> 00:00:09,360
+monster parts system that allows players
+ 
+
+9
+00:00:09,360 --> 00:00:11,190
+monster parts system that allows players
+to harvest resources from their fallen
+
+10
+00:00:11,190 --> 00:00:11,200
+to harvest resources from their fallen
+ 
+
+11
+00:00:11,200 --> 00:00:13,990
+to harvest resources from their fallen
+foes and craft into custom gear the
+
+12
+00:00:13,990 --> 00:00:14,000
+foes and craft into custom gear the
+ 
+
+13
+00:00:14,000 --> 00:00:16,310
+foes and craft into custom gear the
+battle zoo bestiary is now available at
+
+14
+00:00:16,310 --> 00:00:16,320
+battle zoo bestiary is now available at
+ 
+
+15
+00:00:16,320 --> 00:00:19,670
+battle zoo bestiary is now available at
+battlezoo.com
+
+16
+00:00:19,670 --> 00:00:19,680
+
+ 
+
+17
+00:00:19,680 --> 00:00:21,590
+
+hello and welcome to troops in
+
+18
+00:00:21,590 --> 00:00:21,600
+hello and welcome to troops in
+ 
+
+19
+00:00:21,600 --> 00:00:23,590
+hello and welcome to troops in
+pathfinder second edition by how it's
+
+20
+00:00:23,590 --> 00:00:23,600
+pathfinder second edition by how it's
+ 
+
+21
+00:00:23,600 --> 00:00:24,220
+pathfinder second edition by how it's
+played
+
+22
+00:00:24,220 --> 00:00:24,230
+played
+ 
+
+23
+00:00:24,230 --> 00:00:26,150
+played
+[Music]
+
+24
+00:00:26,150 --> 00:00:26,160
+[Music]
+ 
+
+25
+00:00:26,160 --> 00:00:27,910
+[Music]
+troops allow a large number of
+
+26
+00:00:27,910 --> 00:00:27,920
+troops allow a large number of
+ 
+
+27
+00:00:27,920 --> 00:00:30,710
+troops allow a large number of
+individuals to function as a single unit
+
+28
+00:00:30,710 --> 00:00:30,720
+individuals to function as a single unit
+ 
+
+29
+00:00:30,720 --> 00:00:32,310
+individuals to function as a single unit
+mechanically this has a lot of
+
+30
+00:00:32,310 --> 00:00:32,320
+mechanically this has a lot of
+ 
+
+31
+00:00:32,320 --> 00:00:34,549
+mechanically this has a lot of
+advantages rather than having to track a
+
+32
+00:00:34,549 --> 00:00:34,559
+advantages rather than having to track a
+ 
+
+33
+00:00:34,559 --> 00:00:36,709
+advantages rather than having to track a
+dozen different creatures the gm only
+
+34
+00:00:36,709 --> 00:00:36,719
+dozen different creatures the gm only
+ 
+
+35
+00:00:36,719 --> 00:00:39,350
+dozen different creatures the gm only
+has to manage one large one and troops
+
+36
+00:00:39,350 --> 00:00:39,360
+has to manage one large one and troops
+ 
+
+37
+00:00:39,360 --> 00:00:41,430
+has to manage one large one and troops
+can also allow narrative moments where
+
+38
+00:00:41,430 --> 00:00:41,440
+can also allow narrative moments where
+ 
+
+39
+00:00:41,440 --> 00:00:43,830
+can also allow narrative moments where
+the players are overwhelmed by the sheer
+
+40
+00:00:43,830 --> 00:00:43,840
+the players are overwhelmed by the sheer
+ 
+
+41
+00:00:43,840 --> 00:00:46,310
+the players are overwhelmed by the sheer
+number of their foes but if within the
+
+42
+00:00:46,310 --> 00:00:46,320
+number of their foes but if within the
+ 
+
+43
+00:00:46,320 --> 00:00:48,630
+number of their foes but if within the
+rules they were presented as individuals
+
+44
+00:00:48,630 --> 00:00:48,640
+rules they were presented as individuals
+ 
+
+45
+00:00:48,640 --> 00:00:50,310
+rules they were presented as individuals
+they likely would pose literally no
+
+46
+00:00:50,310 --> 00:00:50,320
+they likely would pose literally no
+ 
+
+47
+00:00:50,320 --> 00:00:52,310
+they likely would pose literally no
+challenge for the heroes but when stated
+
+48
+00:00:52,310 --> 00:00:52,320
+challenge for the heroes but when stated
+ 
+
+49
+00:00:52,320 --> 00:00:54,630
+challenge for the heroes but when stated
+together as a troop they can be
+
+50
+00:00:54,630 --> 00:00:54,640
+together as a troop they can be
+ 
+
+51
+00:00:54,640 --> 00:00:57,270
+together as a troop they can be
+formidable in this regard troops are not
+
+52
+00:00:57,270 --> 00:00:57,280
+formidable in this regard troops are not
+ 
+
+53
+00:00:57,280 --> 00:00:59,110
+formidable in this regard troops are not
+entirely dissimilar from the swarm
+
+54
+00:00:59,110 --> 00:00:59,120
+entirely dissimilar from the swarm
+ 
+
+55
+00:00:59,120 --> 00:01:00,549
+entirely dissimilar from the swarm
+mechanics used when battling large
+
+56
+00:01:00,549 --> 00:01:00,559
+mechanics used when battling large
+ 
+
+57
+00:01:00,559 --> 00:01:02,869
+mechanics used when battling large
+groups of vermin but there are a few
+
+58
+00:01:02,869 --> 00:01:02,879
+groups of vermin but there are a few
+ 
+
+59
+00:01:02,879 --> 00:01:05,990
+groups of vermin but there are a few
+important distinctions
+
+60
+00:01:05,990 --> 00:01:06,000
+
+ 
+
+61
+00:01:06,000 --> 00:01:08,070
+
+to illustrate how troops work we'll be
+
+62
+00:01:08,070 --> 00:01:08,080
+to illustrate how troops work we'll be
+ 
+
+63
+00:01:08,080 --> 00:01:09,910
+to illustrate how troops work we'll be
+looking at the stat block for a city
+
+64
+00:01:09,910 --> 00:01:09,920
+looking at the stat block for a city
+ 
+
+65
+00:01:09,920 --> 00:01:12,710
+looking at the stat block for a city
+guard squadron each individual member of
+
+66
+00:01:12,710 --> 00:01:12,720
+guard squadron each individual member of
+ 
+
+67
+00:01:12,720 --> 00:01:14,230
+guard squadron each individual member of
+the city guard is a medium-sized
+
+68
+00:01:14,230 --> 00:01:14,240
+the city guard is a medium-sized
+ 
+
+69
+00:01:14,240 --> 00:01:16,390
+the city guard is a medium-sized
+creature and occupies one square but
+
+70
+00:01:16,390 --> 00:01:16,400
+creature and occupies one square but
+ 
+
+71
+00:01:16,400 --> 00:01:18,230
+creature and occupies one square but
+when a large group of them gathers
+
+72
+00:01:18,230 --> 00:01:18,240
+when a large group of them gathers
+ 
+
+73
+00:01:18,240 --> 00:01:21,429
+when a large group of them gathers
+together they may function as a troop
+
+74
+00:01:21,429 --> 00:01:21,439
+together they may function as a troop
+ 
+
+75
+00:01:21,439 --> 00:01:24,870
+together they may function as a troop
+most troops begin gargantuan sized and
+
+76
+00:01:24,870 --> 00:01:24,880
+most troops begin gargantuan sized and
+ 
+
+77
+00:01:24,880 --> 00:01:27,990
+most troops begin gargantuan sized and
+occupy 16 squares on the map typically
+
+78
+00:01:27,990 --> 00:01:28,000
+occupy 16 squares on the map typically
+ 
+
+79
+00:01:28,000 --> 00:01:30,149
+occupy 16 squares on the map typically
+this is represented as a four by four
+
+80
+00:01:30,149 --> 00:01:30,159
+this is represented as a four by four
+ 
+
+81
+00:01:30,159 --> 00:01:32,870
+this is represented as a four by four
+square area but it can also be eight by
+
+82
+00:01:32,870 --> 00:01:32,880
+square area but it can also be eight by
+ 
+
+83
+00:01:32,880 --> 00:01:35,910
+square area but it can also be eight by
+two or other configuration as long as
+
+84
+00:01:35,910 --> 00:01:35,920
+two or other configuration as long as
+ 
+
+85
+00:01:35,920 --> 00:01:38,230
+two or other configuration as long as
+all of the squares are connected
+
+86
+00:01:38,230 --> 00:01:38,240
+all of the squares are connected
+ 
+
+87
+00:01:38,240 --> 00:01:40,310
+all of the squares are connected
+there's no harder rule that dictates how
+
+88
+00:01:40,310 --> 00:01:40,320
+there's no harder rule that dictates how
+ 
+
+89
+00:01:40,320 --> 00:01:42,789
+there's no harder rule that dictates how
+many individuals make up the troop it
+
+90
+00:01:42,789 --> 00:01:42,799
+many individuals make up the troop it
+ 
+
+91
+00:01:42,799 --> 00:01:44,870
+many individuals make up the troop it
+may be easiest to think of this as a
+
+92
+00:01:44,870 --> 00:01:44,880
+may be easiest to think of this as a
+ 
+
+93
+00:01:44,880 --> 00:01:47,350
+may be easiest to think of this as a
+group of 16 soldiers forming the troop
+
+94
+00:01:47,350 --> 00:01:47,360
+group of 16 soldiers forming the troop
+ 
+
+95
+00:01:47,360 --> 00:01:49,749
+group of 16 soldiers forming the troop
+but that is not a hard rule
+
+96
+00:01:49,749 --> 00:01:49,759
+but that is not a hard rule
+ 
+
+97
+00:01:49,759 --> 00:01:51,749
+but that is not a hard rule
+also it's important to note that as a
+
+98
+00:01:51,749 --> 00:01:51,759
+also it's important to note that as a
+ 
+
+99
+00:01:51,759 --> 00:01:54,710
+also it's important to note that as a
+troop suffers damage it shrinks in size
+
+100
+00:01:54,710 --> 00:01:54,720
+troop suffers damage it shrinks in size
+ 
+
+101
+00:01:54,720 --> 00:01:56,870
+troop suffers damage it shrinks in size
+which makes sense as members of the
+
+102
+00:01:56,870 --> 00:01:56,880
+which makes sense as members of the
+ 
+
+103
+00:01:56,880 --> 00:01:59,190
+which makes sense as members of the
+troop are whittled away the troop itself
+
+104
+00:01:59,190 --> 00:01:59,200
+troop are whittled away the troop itself
+ 
+
+105
+00:01:59,200 --> 00:02:01,670
+troop are whittled away the troop itself
+becomes smaller and smaller this is
+
+106
+00:02:01,670 --> 00:02:01,680
+becomes smaller and smaller this is
+ 
+
+107
+00:02:01,680 --> 00:02:03,910
+becomes smaller and smaller this is
+represented in the rules by including
+
+108
+00:02:03,910 --> 00:02:03,920
+represented in the rules by including
+ 
+
+109
+00:02:03,920 --> 00:02:06,789
+represented in the rules by including
+two hit point thresholds we see here
+
+110
+00:02:06,789 --> 00:02:06,799
+two hit point thresholds we see here
+ 
+
+111
+00:02:06,799 --> 00:02:09,350
+two hit point thresholds we see here
+that a city guard squadron starts with
+
+112
+00:02:09,350 --> 00:02:09,360
+that a city guard squadron starts with
+ 
+
+113
+00:02:09,360 --> 00:02:12,550
+that a city guard squadron starts with
+75 hit points and a parenthetical noting
+
+114
+00:02:12,550 --> 00:02:12,560
+75 hit points and a parenthetical noting
+ 
+
+115
+00:02:12,560 --> 00:02:14,229
+75 hit points and a parenthetical noting
+16 squares
+
+116
+00:02:14,229 --> 00:02:14,239
+16 squares
+ 
+
+117
+00:02:14,239 --> 00:02:17,110
+16 squares
+and then we see the two thresholds the
+
+118
+00:02:17,110 --> 00:02:17,120
+and then we see the two thresholds the
+ 
+
+119
+00:02:17,120 --> 00:02:20,229
+and then we see the two thresholds the
+first says 50 and 12 squares meaning
+
+120
+00:02:20,229 --> 00:02:20,239
+first says 50 and 12 squares meaning
+ 
+
+121
+00:02:20,239 --> 00:02:22,150
+first says 50 and 12 squares meaning
+that after the city guard squadron has
+
+122
+00:02:22,150 --> 00:02:22,160
+that after the city guard squadron has
+ 
+
+123
+00:02:22,160 --> 00:02:24,790
+that after the city guard squadron has
+suffered 25 points of damage it shrinks
+
+124
+00:02:24,790 --> 00:02:24,800
+suffered 25 points of damage it shrinks
+ 
+
+125
+00:02:24,800 --> 00:02:27,270
+suffered 25 points of damage it shrinks
+in size to 12 squares and after it
+
+126
+00:02:27,270 --> 00:02:27,280
+in size to 12 squares and after it
+ 
+
+127
+00:02:27,280 --> 00:02:30,309
+in size to 12 squares and after it
+suffers another 25 points of damage it
+
+128
+00:02:30,309 --> 00:02:30,319
+suffers another 25 points of damage it
+ 
+
+129
+00:02:30,319 --> 00:02:32,550
+suffers another 25 points of damage it
+hits its second threshold and shrinks to
+
+130
+00:02:32,550 --> 00:02:32,560
+hits its second threshold and shrinks to
+ 
+
+131
+00:02:32,560 --> 00:02:35,430
+hits its second threshold and shrinks to
+only eight squares
+
+132
+00:02:35,430 --> 00:02:35,440
+only eight squares
+ 
+
+133
+00:02:35,440 --> 00:02:37,350
+only eight squares
+there are some special rules regarding
+
+134
+00:02:37,350 --> 00:02:37,360
+there are some special rules regarding
+ 
+
+135
+00:02:37,360 --> 00:02:40,470
+there are some special rules regarding
+how troops suffer damage first no
+
+136
+00:02:40,470 --> 00:02:40,480
+how troops suffer damage first no
+ 
+
+137
+00:02:40,480 --> 00:02:43,350
+how troops suffer damage first no
+individual single target effect can push
+
+138
+00:02:43,350 --> 00:02:43,360
+individual single target effect can push
+ 
+
+139
+00:02:43,360 --> 00:02:46,309
+individual single target effect can push
+a troop past two thresholds no matter
+
+140
+00:02:46,309 --> 00:02:46,319
+a troop past two thresholds no matter
+ 
+
+141
+00:02:46,319 --> 00:02:47,830
+a troop past two thresholds no matter
+how much damage it would normally
+
+142
+00:02:47,830 --> 00:02:47,840
+how much damage it would normally
+ 
+
+143
+00:02:47,840 --> 00:02:50,390
+how much damage it would normally
+inflict so for example if the city guard
+
+144
+00:02:50,390 --> 00:02:50,400
+inflict so for example if the city guard
+ 
+
+145
+00:02:50,400 --> 00:02:53,430
+inflict so for example if the city guard
+squadron had 55 hit points and was hit
+
+146
+00:02:53,430 --> 00:02:53,440
+squadron had 55 hit points and was hit
+ 
+
+147
+00:02:53,440 --> 00:02:55,830
+squadron had 55 hit points and was hit
+by a single target attack that managed
+
+148
+00:02:55,830 --> 00:02:55,840
+by a single target attack that managed
+ 
+
+149
+00:02:55,840 --> 00:02:58,710
+by a single target attack that managed
+to deal 35 points of damage which would
+
+150
+00:02:58,710 --> 00:02:58,720
+to deal 35 points of damage which would
+ 
+
+151
+00:02:58,720 --> 00:03:01,270
+to deal 35 points of damage which would
+normally push the squadron past both his
+
+152
+00:03:01,270 --> 00:03:01,280
+normally push the squadron past both his
+ 
+
+153
+00:03:01,280 --> 00:03:04,070
+normally push the squadron past both his
+first threshold of 50 and its second
+
+154
+00:03:04,070 --> 00:03:04,080
+first threshold of 50 and its second
+ 
+
+155
+00:03:04,080 --> 00:03:06,550
+first threshold of 50 and its second
+threshold of 25 leaving it with only 20
+
+156
+00:03:06,550 --> 00:03:06,560
+threshold of 25 leaving it with only 20
+ 
+
+157
+00:03:06,560 --> 00:03:07,750
+threshold of 25 leaving it with only 20
+points left
+
+158
+00:03:07,750 --> 00:03:07,760
+points left
+ 
+
+159
+00:03:07,760 --> 00:03:10,229
+points left
+instead that attack would only lower the
+
+160
+00:03:10,229 --> 00:03:10,239
+instead that attack would only lower the
+ 
+
+161
+00:03:10,239 --> 00:03:13,990
+instead that attack would only lower the
+troop to 26 hit points one point higher
+
+162
+00:03:13,990 --> 00:03:14,000
+troop to 26 hit points one point higher
+ 
+
+163
+00:03:14,000 --> 00:03:16,390
+troop to 26 hit points one point higher
+than the second threshold and note that
+
+164
+00:03:16,390 --> 00:03:16,400
+than the second threshold and note that
+ 
+
+165
+00:03:16,400 --> 00:03:19,110
+than the second threshold and note that
+this only applies to single target
+
+166
+00:03:19,110 --> 00:03:19,120
+this only applies to single target
+ 
+
+167
+00:03:19,120 --> 00:03:22,470
+this only applies to single target
+attacks not to damaging area effects or
+
+168
+00:03:22,470 --> 00:03:22,480
+attacks not to damaging area effects or
+ 
+
+169
+00:03:22,480 --> 00:03:24,070
+attacks not to damaging area effects or
+other effects that have more than one
+
+170
+00:03:24,070 --> 00:03:24,080
+other effects that have more than one
+ 
+
+171
+00:03:24,080 --> 00:03:26,710
+other effects that have more than one
+target which makes sense decapitating
+
+172
+00:03:26,710 --> 00:03:26,720
+target which makes sense decapitating
+ 
+
+173
+00:03:26,720 --> 00:03:28,949
+target which makes sense decapitating
+any one member of a troop is unlikely to
+
+174
+00:03:28,949 --> 00:03:28,959
+any one member of a troop is unlikely to
+ 
+
+175
+00:03:28,959 --> 00:03:30,949
+any one member of a troop is unlikely to
+have such a profound effect on the troop
+
+176
+00:03:30,949 --> 00:03:30,959
+have such a profound effect on the troop
+ 
+
+177
+00:03:30,959 --> 00:03:33,990
+have such a profound effect on the troop
+as making it shrink 8 squares in size
+
+178
+00:03:33,990 --> 00:03:34,000
+as making it shrink 8 squares in size
+ 
+
+179
+00:03:34,000 --> 00:03:35,910
+as making it shrink 8 squares in size
+every time a troop is reduced to one of
+
+180
+00:03:35,910 --> 00:03:35,920
+every time a troop is reduced to one of
+ 
+
+181
+00:03:35,920 --> 00:03:38,070
+every time a troop is reduced to one of
+his thresholds the listed value for that
+
+182
+00:03:38,070 --> 00:03:38,080
+his thresholds the listed value for that
+ 
+
+183
+00:03:38,080 --> 00:03:40,550
+his thresholds the listed value for that
+threshold becomes the troops new maximum
+
+184
+00:03:40,550 --> 00:03:40,560
+threshold becomes the troops new maximum
+ 
+
+185
+00:03:40,560 --> 00:03:41,990
+threshold becomes the troops new maximum
+hit point value
+
+186
+00:03:41,990 --> 00:03:42,000
+hit point value
+ 
+
+187
+00:03:42,000 --> 00:03:44,070
+hit point value
+meaning if the citiguard squadron was
+
+188
+00:03:44,070 --> 00:03:44,080
+meaning if the citiguard squadron was
+ 
+
+189
+00:03:44,080 --> 00:03:46,470
+meaning if the citiguard squadron was
+reduced beyond his first threshold of 50
+
+190
+00:03:46,470 --> 00:03:46,480
+reduced beyond his first threshold of 50
+ 
+
+191
+00:03:46,480 --> 00:03:48,869
+reduced beyond his first threshold of 50
+and left with 40 hit points and then
+
+192
+00:03:48,869 --> 00:03:48,879
+and left with 40 hit points and then
+ 
+
+193
+00:03:48,879 --> 00:03:51,589
+and left with 40 hit points and then
+received 20 points of healing it would
+
+194
+00:03:51,589 --> 00:03:51,599
+received 20 points of healing it would
+ 
+
+195
+00:03:51,599 --> 00:03:54,470
+received 20 points of healing it would
+only be able to heal back up to 50 hit
+
+196
+00:03:54,470 --> 00:03:54,480
+only be able to heal back up to 50 hit
+ 
+
+197
+00:03:54,480 --> 00:03:56,550
+only be able to heal back up to 50 hit
+points its most recently passed
+
+198
+00:03:56,550 --> 00:03:56,560
+points its most recently passed
+ 
+
+199
+00:03:56,560 --> 00:03:58,710
+points its most recently passed
+threshold and any excess healing would
+
+200
+00:03:58,710 --> 00:03:58,720
+threshold and any excess healing would
+ 
+
+201
+00:03:58,720 --> 00:04:01,509
+threshold and any excess healing would
+be lost in order to restore its size and
+
+202
+00:04:01,509 --> 00:04:01,519
+be lost in order to restore its size and
+ 
+
+203
+00:04:01,519 --> 00:04:03,830
+be lost in order to restore its size and
+maximum hit points a troop needs to
+
+204
+00:04:03,830 --> 00:04:03,840
+maximum hit points a troop needs to
+ 
+
+205
+00:04:03,840 --> 00:04:05,990
+maximum hit points a troop needs to
+spend down time to use long-term
+
+206
+00:04:05,990 --> 00:04:06,000
+spend down time to use long-term
+ 
+
+207
+00:04:06,000 --> 00:04:08,070
+spend down time to use long-term
+treatment on casualties or to recruit
+
+208
+00:04:08,070 --> 00:04:08,080
+treatment on casualties or to recruit
+ 
+
+209
+00:04:08,080 --> 00:04:09,830
+treatment on casualties or to recruit
+new members to replace those that were
+
+210
+00:04:09,830 --> 00:04:09,840
+new members to replace those that were
+ 
+
+211
+00:04:09,840 --> 00:04:11,030
+new members to replace those that were
+killed
+
+212
+00:04:11,030 --> 00:04:11,040
+killed
+ 
+
+213
+00:04:11,040 --> 00:04:13,509
+killed
+at zero hit points the troop is reduced
+
+214
+00:04:13,509 --> 00:04:13,519
+at zero hit points the troop is reduced
+ 
+
+215
+00:04:13,519 --> 00:04:16,150
+at zero hit points the troop is reduced
+to four squares and can no longer
+
+216
+00:04:16,150 --> 00:04:16,160
+to four squares and can no longer
+ 
+
+217
+00:04:16,160 --> 00:04:18,629
+to four squares and can no longer
+function as a unit at this point the
+
+218
+00:04:18,629 --> 00:04:18,639
+function as a unit at this point the
+ 
+
+219
+00:04:18,639 --> 00:04:20,949
+function as a unit at this point the
+troop is defeated and its remaining
+
+220
+00:04:20,949 --> 00:04:20,959
+troop is defeated and its remaining
+ 
+
+221
+00:04:20,959 --> 00:04:23,430
+troop is defeated and its remaining
+members either flee surrender or are
+
+222
+00:04:23,430 --> 00:04:23,440
+members either flee surrender or are
+ 
+
+223
+00:04:23,440 --> 00:04:25,189
+members either flee surrender or are
+effortlessly killed depending on the
+
+224
+00:04:25,189 --> 00:04:25,199
+effortlessly killed depending on the
+ 
+
+225
+00:04:25,199 --> 00:04:27,189
+effortlessly killed depending on the
+troops nature and the disposition of the
+
+226
+00:04:27,189 --> 00:04:27,199
+troops nature and the disposition of the
+ 
+
+227
+00:04:27,199 --> 00:04:29,590
+troops nature and the disposition of the
+players
+
+228
+00:04:29,590 --> 00:04:29,600
+players
+ 
+
+229
+00:04:29,600 --> 00:04:31,830
+players
+for any effect that doesn't deal damage
+
+230
+00:04:31,830 --> 00:04:31,840
+for any effect that doesn't deal damage
+ 
+
+231
+00:04:31,840 --> 00:04:34,629
+for any effect that doesn't deal damage
+it only applies to the troop if its area
+
+232
+00:04:34,629 --> 00:04:34,639
+it only applies to the troop if its area
+ 
+
+233
+00:04:34,639 --> 00:04:37,350
+it only applies to the troop if its area
+encompasses all of the squares that the
+
+234
+00:04:37,350 --> 00:04:37,360
+encompasses all of the squares that the
+ 
+
+235
+00:04:37,360 --> 00:04:39,830
+encompasses all of the squares that the
+troop occupies if the effect has a
+
+236
+00:04:39,830 --> 00:04:39,840
+troop occupies if the effect has a
+ 
+
+237
+00:04:39,840 --> 00:04:42,310
+troop occupies if the effect has a
+smaller area then it usually has no
+
+238
+00:04:42,310 --> 00:04:42,320
+smaller area then it usually has no
+ 
+
+239
+00:04:42,320 --> 00:04:45,270
+smaller area then it usually has no
+effect on the troop i say usually
+
+240
+00:04:45,270 --> 00:04:45,280
+effect on the troop i say usually
+ 
+
+241
+00:04:45,280 --> 00:04:47,350
+effect on the troop i say usually
+because there is an important exception
+
+242
+00:04:47,350 --> 00:04:47,360
+because there is an important exception
+ 
+
+243
+00:04:47,360 --> 00:04:50,150
+because there is an important exception
+to this if a non-damaging effect can
+
+244
+00:04:50,150 --> 00:04:50,160
+to this if a non-damaging effect can
+ 
+
+245
+00:04:50,160 --> 00:04:53,270
+to this if a non-damaging effect can
+target at least four creatures or cover
+
+246
+00:04:53,270 --> 00:04:53,280
+target at least four creatures or cover
+ 
+
+247
+00:04:53,280 --> 00:04:55,590
+target at least four creatures or cover
+at least four squares that are occupied
+
+248
+00:04:55,590 --> 00:04:55,600
+at least four squares that are occupied
+ 
+
+249
+00:04:55,600 --> 00:04:58,629
+at least four squares that are occupied
+by the troop and if this effect would
+
+250
+00:04:58,629 --> 00:04:58,639
+by the troop and if this effect would
+ 
+
+251
+00:04:58,639 --> 00:05:00,950
+by the troop and if this effect would
+render the targets unable to act for at
+
+252
+00:05:00,950 --> 00:05:00,960
+render the targets unable to act for at
+ 
+
+253
+00:05:00,960 --> 00:05:03,590
+render the targets unable to act for at
+least one round or to flee or have
+
+254
+00:05:03,590 --> 00:05:03,600
+least one round or to flee or have
+ 
+
+255
+00:05:03,600 --> 00:05:05,270
+least one round or to flee or have
+similar debilitating effect where they
+
+256
+00:05:05,270 --> 00:05:05,280
+similar debilitating effect where they
+ 
+
+257
+00:05:05,280 --> 00:05:06,950
+similar debilitating effect where they
+would not be able to do what they would
+
+258
+00:05:06,950 --> 00:05:06,960
+would not be able to do what they would
+ 
+
+259
+00:05:06,960 --> 00:05:09,749
+would not be able to do what they would
+reasonably want to do on their turn then
+
+260
+00:05:09,749 --> 00:05:09,759
+reasonably want to do on their turn then
+ 
+
+261
+00:05:09,759 --> 00:05:11,909
+reasonably want to do on their turn then
+the troop is reduced to its next hit
+
+262
+00:05:11,909 --> 00:05:11,919
+the troop is reduced to its next hit
+ 
+
+263
+00:05:11,919 --> 00:05:14,469
+the troop is reduced to its next hit
+point threshold causing it to lose 4
+
+264
+00:05:14,469 --> 00:05:14,479
+point threshold causing it to lose 4
+ 
+
+265
+00:05:14,479 --> 00:05:16,230
+point threshold causing it to lose 4
+squares of its size
+
+266
+00:05:16,230 --> 00:05:16,240
+squares of its size
+ 
+
+267
+00:05:16,240 --> 00:05:18,230
+squares of its size
+if an effect would inflict damage and
+
+268
+00:05:18,230 --> 00:05:18,240
+if an effect would inflict damage and
+ 
+
+269
+00:05:18,240 --> 00:05:20,070
+if an effect would inflict damage and
+cause 4 squares of the troop to become
+
+270
+00:05:20,070 --> 00:05:20,080
+cause 4 squares of the troop to become
+ 
+
+271
+00:05:20,080 --> 00:05:22,310
+cause 4 squares of the troop to become
+incapacitated then you would apply the
+
+272
+00:05:22,310 --> 00:05:22,320
+incapacitated then you would apply the
+ 
+
+273
+00:05:22,320 --> 00:05:25,350
+incapacitated then you would apply the
+damage first and then lower the troop to
+
+274
+00:05:25,350 --> 00:05:25,360
+damage first and then lower the troop to
+ 
+
+275
+00:05:25,360 --> 00:05:27,430
+damage first and then lower the troop to
+his next threshold thus making it
+
+276
+00:05:27,430 --> 00:05:27,440
+his next threshold thus making it
+ 
+
+277
+00:05:27,440 --> 00:05:29,510
+his next threshold thus making it
+possible for the troop to be dropped to
+
+278
+00:05:29,510 --> 00:05:29,520
+possible for the troop to be dropped to
+ 
+
+279
+00:05:29,520 --> 00:05:31,670
+possible for the troop to be dropped to
+threshold by this one effect
+
+280
+00:05:31,670 --> 00:05:31,680
+threshold by this one effect
+ 
+
+281
+00:05:31,680 --> 00:05:33,749
+threshold by this one effect
+so for example say a player casts
+
+282
+00:05:33,749 --> 00:05:33,759
+so for example say a player casts
+ 
+
+283
+00:05:33,759 --> 00:05:36,390
+so for example say a player casts
+command at the troop the spell only
+
+284
+00:05:36,390 --> 00:05:36,400
+command at the troop the spell only
+ 
+
+285
+00:05:36,400 --> 00:05:39,189
+command at the troop the spell only
+targets one enemy and therefore has no
+
+286
+00:05:39,189 --> 00:05:39,199
+targets one enemy and therefore has no
+ 
+
+287
+00:05:39,199 --> 00:05:41,350
+targets one enemy and therefore has no
+effect on the troop even if it was to
+
+288
+00:05:41,350 --> 00:05:41,360
+effect on the troop even if it was to
+ 
+
+289
+00:05:41,360 --> 00:05:43,670
+effect on the troop even if it was to
+critically fail a safe making one
+
+290
+00:05:43,670 --> 00:05:43,680
+critically fail a safe making one
+ 
+
+291
+00:05:43,680 --> 00:05:46,070
+critically fail a safe making one
+soldier temporarily incapacitated by a
+
+292
+00:05:46,070 --> 00:05:46,080
+soldier temporarily incapacitated by a
+ 
+
+293
+00:05:46,080 --> 00:05:48,710
+soldier temporarily incapacitated by a
+spell will not have a significant impact
+
+294
+00:05:48,710 --> 00:05:48,720
+spell will not have a significant impact
+ 
+
+295
+00:05:48,720 --> 00:05:51,029
+spell will not have a significant impact
+on the troop as a whole but if the
+
+296
+00:05:51,029 --> 00:05:51,039
+on the troop as a whole but if the
+ 
+
+297
+00:05:51,039 --> 00:05:52,710
+on the troop as a whole but if the
+player heightens the command spell to
+
+298
+00:05:52,710 --> 00:05:52,720
+player heightens the command spell to
+ 
+
+299
+00:05:52,720 --> 00:05:55,909
+player heightens the command spell to
+5th level it now targets 10 creatures
+
+300
+00:05:55,909 --> 00:05:55,919
+5th level it now targets 10 creatures
+ 
+
+301
+00:05:55,919 --> 00:05:58,230
+5th level it now targets 10 creatures
+and any non-damaging spell that targets
+
+302
+00:05:58,230 --> 00:05:58,240
+and any non-damaging spell that targets
+ 
+
+303
+00:05:58,240 --> 00:06:00,230
+and any non-damaging spell that targets
+at least 4 creatures does have the
+
+304
+00:06:00,230 --> 00:06:00,240
+at least 4 creatures does have the
+ 
+
+305
+00:06:00,240 --> 00:06:02,550
+at least 4 creatures does have the
+potential to damage the troop if the
+
+306
+00:06:02,550 --> 00:06:02,560
+potential to damage the troop if the
+ 
+
+307
+00:06:02,560 --> 00:06:04,710
+potential to damage the troop if the
+result of the spell effect causes the
+
+308
+00:06:04,710 --> 00:06:04,720
+result of the spell effect causes the
+ 
+
+309
+00:06:04,720 --> 00:06:07,270
+result of the spell effect causes the
+targets to be unable to reasonably act
+
+310
+00:06:07,270 --> 00:06:07,280
+targets to be unable to reasonably act
+ 
+
+311
+00:06:07,280 --> 00:06:10,390
+targets to be unable to reasonably act
+for a turn so if a player cast command
+
+312
+00:06:10,390 --> 00:06:10,400
+for a turn so if a player cast command
+ 
+
+313
+00:06:10,400 --> 00:06:12,150
+for a turn so if a player cast command
+heightened the fifth level and told the
+
+314
+00:06:12,150 --> 00:06:12,160
+heightened the fifth level and told the
+ 
+
+315
+00:06:12,160 --> 00:06:14,550
+heightened the fifth level and told the
+squadron to flee and the squadron
+
+316
+00:06:14,550 --> 00:06:14,560
+squadron to flee and the squadron
+ 
+
+317
+00:06:14,560 --> 00:06:17,110
+squadron to flee and the squadron
+critically failed their will save then
+
+318
+00:06:17,110 --> 00:06:17,120
+critically failed their will save then
+ 
+
+319
+00:06:17,120 --> 00:06:18,870
+critically failed their will save then
+the troop would be dropped to his next
+
+320
+00:06:18,870 --> 00:06:18,880
+the troop would be dropped to his next
+ 
+
+321
+00:06:18,880 --> 00:06:21,350
+the troop would be dropped to his next
+hit point threshold and lower its size
+
+322
+00:06:21,350 --> 00:06:21,360
+hit point threshold and lower its size
+ 
+
+323
+00:06:21,360 --> 00:06:23,350
+hit point threshold and lower its size
+by four squares to represent the portion
+
+324
+00:06:23,350 --> 00:06:23,360
+by four squares to represent the portion
+ 
+
+325
+00:06:23,360 --> 00:06:25,270
+by four squares to represent the portion
+of the squadron that ran away
+
+326
+00:06:25,270 --> 00:06:25,280
+of the squadron that ran away
+ 
+
+327
+00:06:25,280 --> 00:06:27,590
+of the squadron that ran away
+and note that because troops function as
+
+328
+00:06:27,590 --> 00:06:27,600
+and note that because troops function as
+ 
+
+329
+00:06:27,600 --> 00:06:30,150
+and note that because troops function as
+a single large creature you do not roll
+
+330
+00:06:30,150 --> 00:06:30,160
+a single large creature you do not roll
+ 
+
+331
+00:06:30,160 --> 00:06:31,990
+a single large creature you do not roll
+individual will saves against a spell
+
+332
+00:06:31,990 --> 00:06:32,000
+individual will saves against a spell
+ 
+
+333
+00:06:32,000 --> 00:06:34,550
+individual will saves against a spell
+like this you would only roll once for
+
+334
+00:06:34,550 --> 00:06:34,560
+like this you would only roll once for
+ 
+
+335
+00:06:34,560 --> 00:06:36,710
+like this you would only roll once for
+the troop
+
+336
+00:06:36,710 --> 00:06:36,720
+the troop
+ 
+
+337
+00:06:36,720 --> 00:06:38,550
+the troop
+all troops have access to a special
+
+338
+00:06:38,550 --> 00:06:38,560
+all troops have access to a special
+ 
+
+339
+00:06:38,560 --> 00:06:41,270
+all troops have access to a special
+ability called form up this costs one
+
+340
+00:06:41,270 --> 00:06:41,280
+ability called form up this costs one
+ 
+
+341
+00:06:41,280 --> 00:06:43,270
+ability called form up this costs one
+action and essentially allows the troop
+
+342
+00:06:43,270 --> 00:06:43,280
+action and essentially allows the troop
+ 
+
+343
+00:06:43,280 --> 00:06:45,590
+action and essentially allows the troop
+to reconfigure itself and adjust its
+
+344
+00:06:45,590 --> 00:06:45,600
+to reconfigure itself and adjust its
+ 
+
+345
+00:06:45,600 --> 00:06:48,390
+to reconfigure itself and adjust its
+formation when a troop uses form up the
+
+346
+00:06:48,390 --> 00:06:48,400
+formation when a troop uses form up the
+ 
+
+347
+00:06:48,400 --> 00:06:50,870
+formation when a troop uses form up the
+gm selects one of his occupied squares
+
+348
+00:06:50,870 --> 00:06:50,880
+gm selects one of his occupied squares
+ 
+
+349
+00:06:50,880 --> 00:06:53,670
+gm selects one of his occupied squares
+and all of its other squares may move to
+
+350
+00:06:53,670 --> 00:06:53,680
+and all of its other squares may move to
+ 
+
+351
+00:06:53,680 --> 00:06:57,189
+and all of its other squares may move to
+any unoccupied space within 15 feet of
+
+352
+00:06:57,189 --> 00:06:57,199
+any unoccupied space within 15 feet of
+ 
+
+353
+00:06:57,199 --> 00:06:59,589
+any unoccupied space within 15 feet of
+that chosen square as long as all of the
+
+354
+00:06:59,589 --> 00:06:59,599
+that chosen square as long as all of the
+ 
+
+355
+00:06:59,599 --> 00:07:01,749
+that chosen square as long as all of the
+troop squares are connected
+
+356
+00:07:01,749 --> 00:07:01,759
+troop squares are connected
+ 
+
+357
+00:07:01,759 --> 00:07:04,230
+troop squares are connected
+so a troop shaped like this could spin
+
+358
+00:07:04,230 --> 00:07:04,240
+so a troop shaped like this could spin
+ 
+
+359
+00:07:04,240 --> 00:07:06,629
+so a troop shaped like this could spin
+one action on form up to arrange itself
+
+360
+00:07:06,629 --> 00:07:06,639
+one action on form up to arrange itself
+ 
+
+361
+00:07:06,639 --> 00:07:07,830
+one action on form up to arrange itself
+like this
+
+362
+00:07:07,830 --> 00:07:07,840
+like this
+ 
+
+363
+00:07:07,840 --> 00:07:09,350
+like this
+or like this
+
+364
+00:07:09,350 --> 00:07:09,360
+or like this
+ 
+
+365
+00:07:09,360 --> 00:07:11,909
+or like this
+or like this
+
+366
+00:07:11,909 --> 00:07:11,919
+or like this
+ 
+
+367
+00:07:11,919 --> 00:07:13,990
+or like this
+the way a troop moves may vary from
+
+368
+00:07:13,990 --> 00:07:14,000
+the way a troop moves may vary from
+ 
+
+369
+00:07:14,000 --> 00:07:16,070
+the way a troop moves may vary from
+troop to troop but each stat block
+
+370
+00:07:16,070 --> 00:07:16,080
+troop to troop but each stat block
+ 
+
+371
+00:07:16,080 --> 00:07:17,909
+troop to troop but each stat block
+should include a section on troop
+
+372
+00:07:17,909 --> 00:07:17,919
+should include a section on troop
+ 
+
+373
+00:07:17,919 --> 00:07:20,070
+should include a section on troop
+movement most of them work the same way
+
+374
+00:07:20,070 --> 00:07:20,080
+movement most of them work the same way
+ 
+
+375
+00:07:20,080 --> 00:07:22,150
+movement most of them work the same way
+so let's look again at the city guard
+
+376
+00:07:22,150 --> 00:07:22,160
+so let's look again at the city guard
+ 
+
+377
+00:07:22,160 --> 00:07:24,150
+so let's look again at the city guard
+squadron as an example
+
+378
+00:07:24,150 --> 00:07:24,160
+squadron as an example
+ 
+
+379
+00:07:24,160 --> 00:07:26,230
+squadron as an example
+here it says that whenever the squad
+
+380
+00:07:26,230 --> 00:07:26,240
+here it says that whenever the squad
+ 
+
+381
+00:07:26,240 --> 00:07:29,189
+here it says that whenever the squad
+uses stride it first gets to use form up
+
+382
+00:07:29,189 --> 00:07:29,199
+uses stride it first gets to use form up
+ 
+
+383
+00:07:29,199 --> 00:07:31,830
+uses stride it first gets to use form up
+for free to condense it into a square
+
+384
+00:07:31,830 --> 00:07:31,840
+for free to condense it into a square
+ 
+
+385
+00:07:31,840 --> 00:07:32,629
+for free to condense it into a square
+shape
+
+386
+00:07:32,629 --> 00:07:32,639
+shape
+ 
+
+387
+00:07:32,639 --> 00:07:34,950
+shape
+and then it moves as if it was a single
+
+388
+00:07:34,950 --> 00:07:34,960
+and then it moves as if it was a single
+ 
+
+389
+00:07:34,960 --> 00:07:37,990
+and then it moves as if it was a single
+creature of that size this is done for
+
+390
+00:07:37,990 --> 00:07:38,000
+creature of that size this is done for
+ 
+
+391
+00:07:38,000 --> 00:07:40,469
+creature of that size this is done for
+simplicity instead of having elaborate
+
+392
+00:07:40,469 --> 00:07:40,479
+simplicity instead of having elaborate
+ 
+
+393
+00:07:40,479 --> 00:07:42,870
+simplicity instead of having elaborate
+rules specifically for the irregular
+
+394
+00:07:42,870 --> 00:07:42,880
+rules specifically for the irregular
+ 
+
+395
+00:07:42,880 --> 00:07:45,029
+rules specifically for the irregular
+shape of a troop they just say to
+
+396
+00:07:45,029 --> 00:07:45,039
+shape of a troop they just say to
+ 
+
+397
+00:07:45,039 --> 00:07:47,189
+shape of a troop they just say to
+squeeze it all into a square shape and
+
+398
+00:07:47,189 --> 00:07:47,199
+squeeze it all into a square shape and
+ 
+
+399
+00:07:47,199 --> 00:07:49,350
+squeeze it all into a square shape and
+then use the already established
+
+400
+00:07:49,350 --> 00:07:49,360
+then use the already established
+ 
+
+401
+00:07:49,360 --> 00:07:51,749
+then use the already established
+movement rules for a single creature
+
+402
+00:07:51,749 --> 00:07:51,759
+movement rules for a single creature
+ 
+
+403
+00:07:51,759 --> 00:07:53,589
+movement rules for a single creature
+that is that size
+
+404
+00:07:53,589 --> 00:07:53,599
+that is that size
+ 
+
+405
+00:07:53,599 --> 00:07:55,350
+that is that size
+what this means is that a troop like
+
+406
+00:07:55,350 --> 00:07:55,360
+what this means is that a troop like
+ 
+
+407
+00:07:55,360 --> 00:07:58,390
+what this means is that a troop like
+this cannot move as a line
+
+408
+00:07:58,390 --> 00:07:58,400
+this cannot move as a line
+ 
+
+409
+00:07:58,400 --> 00:08:01,350
+this cannot move as a line
+but instead would first form up into a
+
+410
+00:08:01,350 --> 00:08:01,360
+but instead would first form up into a
+ 
+
+411
+00:08:01,360 --> 00:08:03,110
+but instead would first form up into a
+square shape like this
+
+412
+00:08:03,110 --> 00:08:03,120
+square shape like this
+ 
+
+413
+00:08:03,120 --> 00:08:05,550
+square shape like this
+and then move as if it was a single
+
+414
+00:08:05,550 --> 00:08:05,560
+and then move as if it was a single
+ 
+
+415
+00:08:05,560 --> 00:08:07,589
+and then move as if it was a single
+gargantuan-sized creature
+
+416
+00:08:07,589 --> 00:08:07,599
+gargantuan-sized creature
+ 
+
+417
+00:08:07,599 --> 00:08:09,430
+gargantuan-sized creature
+in a troop that has been pushed past its
+
+418
+00:08:09,430 --> 00:08:09,440
+in a troop that has been pushed past its
+ 
+
+419
+00:08:09,440 --> 00:08:11,670
+in a troop that has been pushed past its
+second threshold that only occupies
+
+420
+00:08:11,670 --> 00:08:11,680
+second threshold that only occupies
+ 
+
+421
+00:08:11,680 --> 00:08:14,469
+second threshold that only occupies
+eight squares would form up into a three
+
+422
+00:08:14,469 --> 00:08:14,479
+eight squares would form up into a three
+ 
+
+423
+00:08:14,479 --> 00:08:17,110
+eight squares would form up into a three
+by three square area and move as if it
+
+424
+00:08:17,110 --> 00:08:17,120
+by three square area and move as if it
+ 
+
+425
+00:08:17,120 --> 00:08:19,430
+by three square area and move as if it
+was a single huge size creature
+
+426
+00:08:19,430 --> 00:08:19,440
+was a single huge size creature
+ 
+
+427
+00:08:19,440 --> 00:08:21,990
+was a single huge size creature
+otherwise the rules are unchanged it
+
+428
+00:08:21,990 --> 00:08:22,000
+otherwise the rules are unchanged it
+ 
+
+429
+00:08:22,000 --> 00:08:24,230
+otherwise the rules are unchanged it
+would stride as usual spending one
+
+430
+00:08:24,230 --> 00:08:24,240
+would stride as usual spending one
+ 
+
+431
+00:08:24,240 --> 00:08:27,110
+would stride as usual spending one
+action to move 25 feet and if any
+
+432
+00:08:27,110 --> 00:08:27,120
+action to move 25 feet and if any
+ 
+
+433
+00:08:27,120 --> 00:08:29,270
+action to move 25 feet and if any
+portion of the troops area enters a
+
+434
+00:08:29,270 --> 00:08:29,280
+portion of the troops area enters a
+ 
+
+435
+00:08:29,280 --> 00:08:31,270
+portion of the troops area enters a
+square with difficult terrain it would
+
+436
+00:08:31,270 --> 00:08:31,280
+square with difficult terrain it would
+ 
+
+437
+00:08:31,280 --> 00:08:33,670
+square with difficult terrain it would
+be affected as usual
+
+438
+00:08:33,670 --> 00:08:33,680
+be affected as usual
+ 
+
+439
+00:08:33,680 --> 00:08:35,589
+be affected as usual
+there really aren't any special rules
+
+440
+00:08:35,589 --> 00:08:35,599
+there really aren't any special rules
+ 
+
+441
+00:08:35,599 --> 00:08:38,070
+there really aren't any special rules
+for how troops function in combat but
+
+442
+00:08:38,070 --> 00:08:38,080
+for how troops function in combat but
+ 
+
+443
+00:08:38,080 --> 00:08:40,630
+for how troops function in combat but
+there are a few shared similarities
+
+444
+00:08:40,630 --> 00:08:40,640
+there are a few shared similarities
+ 
+
+445
+00:08:40,640 --> 00:08:42,709
+there are a few shared similarities
+troops function like any normal monster
+
+446
+00:08:42,709 --> 00:08:42,719
+troops function like any normal monster
+ 
+
+447
+00:08:42,719 --> 00:08:44,870
+troops function like any normal monster
+with an armor class and saving throws to
+
+448
+00:08:44,870 --> 00:08:44,880
+with an armor class and saving throws to
+ 
+
+449
+00:08:44,880 --> 00:08:47,430
+with an armor class and saving throws to
+defend itself against incoming attacks
+
+450
+00:08:47,430 --> 00:08:47,440
+defend itself against incoming attacks
+ 
+
+451
+00:08:47,440 --> 00:08:49,350
+defend itself against incoming attacks
+and they also have resistances
+
+452
+00:08:49,350 --> 00:08:49,360
+and they also have resistances
+ 
+
+453
+00:08:49,360 --> 00:08:51,750
+and they also have resistances
+immunities and weaknesses especially
+
+454
+00:08:51,750 --> 00:08:51,760
+immunities and weaknesses especially
+ 
+
+455
+00:08:51,760 --> 00:08:53,590
+immunities and weaknesses especially
+weaknesses against area and splash
+
+456
+00:08:53,590 --> 00:08:53,600
+weaknesses against area and splash
+ 
+
+457
+00:08:53,600 --> 00:08:54,550
+weaknesses against area and splash
+damage
+
+458
+00:08:54,550 --> 00:08:54,560
+damage
+ 
+
+459
+00:08:54,560 --> 00:08:56,550
+damage
+and each troop has its own attacks
+
+460
+00:08:56,550 --> 00:08:56,560
+and each troop has its own attacks
+ 
+
+461
+00:08:56,560 --> 00:08:58,790
+and each troop has its own attacks
+listed in their stat block most of these
+
+462
+00:08:58,790 --> 00:08:58,800
+listed in their stat block most of these
+ 
+
+463
+00:08:58,800 --> 00:09:00,710
+listed in their stat block most of these
+attacks will be some manner of area
+
+464
+00:09:00,710 --> 00:09:00,720
+attacks will be some manner of area
+ 
+
+465
+00:09:00,720 --> 00:09:02,949
+attacks will be some manner of area
+attack as every member of the troop
+
+466
+00:09:02,949 --> 00:09:02,959
+attack as every member of the troop
+ 
+
+467
+00:09:02,959 --> 00:09:05,110
+attack as every member of the troop
+strikes at once against any enemies
+
+468
+00:09:05,110 --> 00:09:05,120
+strikes at once against any enemies
+ 
+
+469
+00:09:05,120 --> 00:09:07,750
+strikes at once against any enemies
+within their range and therefore most
+
+470
+00:09:07,750 --> 00:09:07,760
+within their range and therefore most
+ 
+
+471
+00:09:07,760 --> 00:09:10,470
+within their range and therefore most
+troop attacks target reflex and not
+
+472
+00:09:10,470 --> 00:09:10,480
+troop attacks target reflex and not
+ 
+
+473
+00:09:10,480 --> 00:09:13,190
+troop attacks target reflex and not
+armor class for example city guard
+
+474
+00:09:13,190 --> 00:09:13,200
+armor class for example city guard
+ 
+
+475
+00:09:13,200 --> 00:09:16,550
+armor class for example city guard
+squadrons have two attacks fire crossbow
+
+476
+00:09:16,550 --> 00:09:16,560
+squadrons have two attacks fire crossbow
+ 
+
+477
+00:09:16,560 --> 00:09:18,310
+squadrons have two attacks fire crossbow
+and lower halberds
+
+478
+00:09:18,310 --> 00:09:18,320
+and lower halberds
+ 
+
+479
+00:09:18,320 --> 00:09:21,030
+and lower halberds
+fire crossbows takes two actions and
+
+480
+00:09:21,030 --> 00:09:21,040
+fire crossbows takes two actions and
+ 
+
+481
+00:09:21,040 --> 00:09:23,430
+fire crossbows takes two actions and
+allows the troop to fire their crossbows
+
+482
+00:09:23,430 --> 00:09:23,440
+allows the troop to fire their crossbows
+ 
+
+483
+00:09:23,440 --> 00:09:26,710
+allows the troop to fire their crossbows
+into a 10-foot burst area within 120
+
+484
+00:09:26,710 --> 00:09:26,720
+into a 10-foot burst area within 120
+ 
+
+485
+00:09:26,720 --> 00:09:28,070
+into a 10-foot burst area within 120
+feet of them
+
+486
+00:09:28,070 --> 00:09:28,080
+feet of them
+ 
+
+487
+00:09:28,080 --> 00:09:30,870
+feet of them
+unlike regular crossbow attacks this one
+
+488
+00:09:30,870 --> 00:09:30,880
+unlike regular crossbow attacks this one
+ 
+
+489
+00:09:30,880 --> 00:09:33,590
+unlike regular crossbow attacks this one
+is defended with a reflex instead of
+
+490
+00:09:33,590 --> 00:09:33,600
+is defended with a reflex instead of
+ 
+
+491
+00:09:33,600 --> 00:09:36,070
+is defended with a reflex instead of
+with armor class and note that when the
+
+492
+00:09:36,070 --> 00:09:36,080
+with armor class and note that when the
+ 
+
+493
+00:09:36,080 --> 00:09:38,949
+with armor class and note that when the
+troop shrinks in size so does the area
+
+494
+00:09:38,949 --> 00:09:38,959
+troop shrinks in size so does the area
+ 
+
+495
+00:09:38,959 --> 00:09:40,230
+troop shrinks in size so does the area
+of this attack
+
+496
+00:09:40,230 --> 00:09:40,240
+of this attack
+ 
+
+497
+00:09:40,240 --> 00:09:42,310
+of this attack
+and for melee combat the city guard
+
+498
+00:09:42,310 --> 00:09:42,320
+and for melee combat the city guard
+ 
+
+499
+00:09:42,320 --> 00:09:44,790
+and for melee combat the city guard
+squadron can use lower halberds this
+
+500
+00:09:44,790 --> 00:09:44,800
+squadron can use lower halberds this
+ 
+
+501
+00:09:44,800 --> 00:09:47,030
+squadron can use lower halberds this
+attack targets all enemies within 10
+
+502
+00:09:47,030 --> 00:09:47,040
+attack targets all enemies within 10
+ 
+
+503
+00:09:47,040 --> 00:09:49,590
+attack targets all enemies within 10
+feet of any of the troop spaces and
+
+504
+00:09:49,590 --> 00:09:49,600
+feet of any of the troop spaces and
+ 
+
+505
+00:09:49,600 --> 00:09:51,750
+feet of any of the troop spaces and
+deals an amount of damage based on the
+
+506
+00:09:51,750 --> 00:09:51,760
+deals an amount of damage based on the
+ 
+
+507
+00:09:51,760 --> 00:09:54,310
+deals an amount of damage based on the
+number of actions spent and again like
+
+508
+00:09:54,310 --> 00:09:54,320
+number of actions spent and again like
+ 
+
+509
+00:09:54,320 --> 00:09:56,710
+number of actions spent and again like
+with most troop attacks this is resisted
+
+510
+00:09:56,710 --> 00:09:56,720
+with most troop attacks this is resisted
+ 
+
+511
+00:09:56,720 --> 00:09:59,990
+with most troop attacks this is resisted
+by reflux instead of armor class
+
+512
+00:09:59,990 --> 00:10:00,000
+by reflux instead of armor class
+ 
+
+513
+00:10:00,000 --> 00:10:02,470
+by reflux instead of armor class
+those are the general rules for troops i
+
+514
+00:10:02,470 --> 00:10:02,480
+those are the general rules for troops i
+ 
+
+515
+00:10:02,480 --> 00:10:04,389
+those are the general rules for troops i
+will say that there are not a lot of
+
+516
+00:10:04,389 --> 00:10:04,399
+will say that there are not a lot of
+ 
+
+517
+00:10:04,399 --> 00:10:06,710
+will say that there are not a lot of
+hard rules provided for troops they
+
+518
+00:10:06,710 --> 00:10:06,720
+hard rules provided for troops they
+ 
+
+519
+00:10:06,720 --> 00:10:08,710
+hard rules provided for troops they
+don't receive a detailed write-up as one
+
+520
+00:10:08,710 --> 00:10:08,720
+don't receive a detailed write-up as one
+ 
+
+521
+00:10:08,720 --> 00:10:10,790
+don't receive a detailed write-up as one
+might expect and instead we only have a
+
+522
+00:10:10,790 --> 00:10:10,800
+might expect and instead we only have a
+ 
+
+523
+00:10:10,800 --> 00:10:13,430
+might expect and instead we only have a
+couple of glossary entries to guide us
+
+524
+00:10:13,430 --> 00:10:13,440
+couple of glossary entries to guide us
+ 
+
+525
+00:10:13,440 --> 00:10:15,590
+couple of glossary entries to guide us
+as such there will likely be situations
+
+526
+00:10:15,590 --> 00:10:15,600
+as such there will likely be situations
+ 
+
+527
+00:10:15,600 --> 00:10:17,829
+as such there will likely be situations
+you encounter that there are no hard
+
+528
+00:10:17,829 --> 00:10:17,839
+you encounter that there are no hard
+ 
+
+529
+00:10:17,839 --> 00:10:19,990
+you encounter that there are no hard
+rules for and you will need to improvise
+
+530
+00:10:19,990 --> 00:10:20,000
+rules for and you will need to improvise
+ 
+
+531
+00:10:20,000 --> 00:10:23,350
+rules for and you will need to improvise
+and make your best rulings as needed
+
+532
+00:10:23,350 --> 00:10:23,360
+and make your best rulings as needed
+ 
+
+533
+00:10:23,360 --> 00:10:24,870
+and make your best rulings as needed
+before we close i'd like to take a
+
+534
+00:10:24,870 --> 00:10:24,880
+before we close i'd like to take a
+ 
+
+535
+00:10:24,880 --> 00:10:27,110
+before we close i'd like to take a
+moment to thank all of my patrons these
+
+536
+00:10:27,110 --> 00:10:27,120
+moment to thank all of my patrons these
+ 
+
+537
+00:10:27,120 --> 00:10:28,710
+moment to thank all of my patrons these
+videos would not be possible without
+
+538
+00:10:28,710 --> 00:10:28,720
+videos would not be possible without
+ 
+
+539
+00:10:28,720 --> 00:10:31,670
+videos would not be possible without
+their continued generosity and support
+
+540
+00:10:31,670 --> 00:10:31,680
+their continued generosity and support
+ 
+
+541
+00:10:31,680 --> 00:10:32,790
+their continued generosity and support
+if you would like to support this
+
+542
+00:10:32,790 --> 00:10:32,800
+if you would like to support this
+ 
+
+543
+00:10:32,800 --> 00:10:34,949
+if you would like to support this
+channel and help it grow the easiest way
+
+544
+00:10:34,949 --> 00:10:34,959
+channel and help it grow the easiest way
+ 
+
+545
+00:10:34,959 --> 00:10:36,870
+channel and help it grow the easiest way
+to do that is by subscribing and
+
+546
+00:10:36,870 --> 00:10:36,880
+to do that is by subscribing and
+ 
+
+547
+00:10:36,880 --> 00:10:38,550
+to do that is by subscribing and
+clicking the bell icon so you get
+
+548
+00:10:38,550 --> 00:10:38,560
+clicking the bell icon so you get
+ 
+
+549
+00:10:38,560 --> 00:10:40,790
+clicking the bell icon so you get
+notified when new videos release and i
+
+550
+00:10:40,790 --> 00:10:40,800
+notified when new videos release and i
+ 
+
+551
+00:10:40,800 --> 00:10:42,389
+notified when new videos release and i
+can always be reached through twitter
+
+552
+00:10:42,389 --> 00:10:42,399
+can always be reached through twitter
+ 
+
+553
+00:10:42,399 --> 00:10:44,790
+can always be reached through twitter
+and facebook too thanks for watching
+
+554
+00:10:44,790 --> 00:10:44,800
+and facebook too thanks for watching
+ 
+
+555
+00:10:44,800 --> 00:10:47,930
+and facebook too thanks for watching
+take care and happy gaming
+
+556
+00:10:47,930 --> 00:10:47,940
+take care and happy gaming
+ 
+
+557
+00:10:47,940 --> 00:10:51,029
+take care and happy gaming
+[Music]
+

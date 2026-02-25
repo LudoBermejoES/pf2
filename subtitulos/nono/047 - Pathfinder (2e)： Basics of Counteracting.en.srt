@@ -1,0 +1,4485 @@
+1
+00:00:00,659 --> 00:00:02,840
+
+hello and welcome to basics for gamers
+
+2
+00:00:02,840 --> 00:00:02,850
+hello and welcome to basics for gamers
+ 
+
+3
+00:00:02,850 --> 00:00:05,090
+hello and welcome to basics for gamers
+presents counteracting roles in
+
+4
+00:00:05,090 --> 00:00:05,100
+presents counteracting roles in
+ 
+
+5
+00:00:05,100 --> 00:00:07,580
+presents counteracting roles in
+Pathfinder 2nd edition this video
+
+6
+00:00:07,580 --> 00:00:07,590
+Pathfinder 2nd edition this video
+ 
+
+7
+00:00:07,590 --> 00:00:09,020
+Pathfinder 2nd edition this video
+contains some of the information that
+
+8
+00:00:09,020 --> 00:00:09,030
+contains some of the information that
+ 
+
+9
+00:00:09,030 --> 00:00:11,780
+contains some of the information that
+was shared in our video on hazards so
+
+10
+00:00:11,780 --> 00:00:11,790
+was shared in our video on hazards so
+ 
+
+11
+00:00:11,790 --> 00:00:14,390
+was shared in our video on hazards so
+although it's definitely not required to
+
+12
+00:00:14,390 --> 00:00:14,400
+although it's definitely not required to
+ 
+
+13
+00:00:14,400 --> 00:00:16,460
+although it's definitely not required to
+go view that video first as the
+
+14
+00:00:16,460 --> 00:00:16,470
+go view that video first as the
+ 
+
+15
+00:00:16,470 --> 00:00:17,839
+go view that video first as the
+information in this video destiny and on
+
+16
+00:00:17,839 --> 00:00:17,849
+information in this video destiny and on
+ 
+
+17
+00:00:17,849 --> 00:00:19,909
+information in this video destiny and on
+its own you might want to check it out
+
+18
+00:00:19,909 --> 00:00:19,919
+its own you might want to check it out
+ 
+
+19
+00:00:19,919 --> 00:00:22,009
+its own you might want to check it out
+anyway just to see how counteracting
+
+20
+00:00:22,009 --> 00:00:22,019
+anyway just to see how counteracting
+ 
+
+21
+00:00:22,019 --> 00:00:25,880
+anyway just to see how counteracting
+works against magical traps
+
+22
+00:00:25,880 --> 00:00:25,890
+
+ 
+
+23
+00:00:25,890 --> 00:00:28,250
+
+counteracting occurs when one effect
+
+24
+00:00:28,250 --> 00:00:28,260
+counteracting occurs when one effect
+ 
+
+25
+00:00:28,260 --> 00:00:31,280
+counteracting occurs when one effect
+tries to undo another effect a few
+
+26
+00:00:31,280 --> 00:00:31,290
+tries to undo another effect a few
+ 
+
+27
+00:00:31,290 --> 00:00:33,200
+tries to undo another effect a few
+examples might include drinking a
+
+28
+00:00:33,200 --> 00:00:33,210
+examples might include drinking a
+ 
+
+29
+00:00:33,210 --> 00:00:36,140
+examples might include drinking a
+panacea potion to cure disease casting
+
+30
+00:00:36,140 --> 00:00:36,150
+panacea potion to cure disease casting
+ 
+
+31
+00:00:36,150 --> 00:00:38,420
+panacea potion to cure disease casting
+bless on an ally to remove the bane
+
+32
+00:00:38,420 --> 00:00:38,430
+bless on an ally to remove the bane
+ 
+
+33
+00:00:38,430 --> 00:00:41,150
+bless on an ally to remove the bane
+effect from them or disarming a magical
+
+34
+00:00:41,150 --> 00:00:41,160
+effect from them or disarming a magical
+ 
+
+35
+00:00:41,160 --> 00:00:42,920
+effect from them or disarming a magical
+trap by casting dispel magic on it
+
+36
+00:00:42,920 --> 00:00:42,930
+trap by casting dispel magic on it
+ 
+
+37
+00:00:42,930 --> 00:00:45,260
+trap by casting dispel magic on it
+although there are a few different
+
+38
+00:00:45,260 --> 00:00:45,270
+although there are a few different
+ 
+
+39
+00:00:45,270 --> 00:00:47,000
+although there are a few different
+circumstances where counteracting is
+
+40
+00:00:47,000 --> 00:00:47,010
+circumstances where counteracting is
+ 
+
+41
+00:00:47,010 --> 00:00:49,450
+circumstances where counteracting is
+used they all follow the same general
+
+42
+00:00:49,450 --> 00:00:49,460
+used they all follow the same general
+ 
+
+43
+00:00:49,460 --> 00:00:52,760
+used they all follow the same general
+process there are five pieces of
+
+44
+00:00:52,760 --> 00:00:52,770
+process there are five pieces of
+ 
+
+45
+00:00:52,770 --> 00:00:54,350
+process there are five pieces of
+information you will need when
+
+46
+00:00:54,350 --> 00:00:54,360
+information you will need when
+ 
+
+47
+00:00:54,360 --> 00:00:56,930
+information you will need when
+attempting to counteract something the
+
+48
+00:00:56,930 --> 00:00:56,940
+attempting to counteract something the
+ 
+
+49
+00:00:56,940 --> 00:00:58,760
+attempting to counteract something the
+first is the character who is attempting
+
+50
+00:00:58,760 --> 00:00:58,770
+first is the character who is attempting
+ 
+
+51
+00:00:58,770 --> 00:01:01,550
+first is the character who is attempting
+to counteract must have an ability an
+
+52
+00:01:01,550 --> 00:01:01,560
+to counteract must have an ability an
+ 
+
+53
+00:01:01,560 --> 00:01:04,249
+to counteract must have an ability an
+item or some other characteristic that
+
+54
+00:01:04,249 --> 00:01:04,259
+item or some other characteristic that
+ 
+
+55
+00:01:04,259 --> 00:01:06,920
+item or some other characteristic that
+grants them the power to counteract the
+
+56
+00:01:06,920 --> 00:01:06,930
+grants them the power to counteract the
+ 
+
+57
+00:01:06,930 --> 00:01:09,650
+grants them the power to counteract the
+targeted effect the character will also
+
+58
+00:01:09,650 --> 00:01:09,660
+targeted effect the character will also
+ 
+
+59
+00:01:09,660 --> 00:01:11,330
+targeted effect the character will also
+need to know what their counteract
+
+60
+00:01:11,330 --> 00:01:11,340
+need to know what their counteract
+ 
+
+61
+00:01:11,340 --> 00:01:13,940
+need to know what their counteract
+modifier is in what their counteract
+
+62
+00:01:13,940 --> 00:01:13,950
+modifier is in what their counteract
+ 
+
+63
+00:01:13,950 --> 00:01:17,389
+modifier is in what their counteract
+level is the GM will need to know the
+
+64
+00:01:17,389 --> 00:01:17,399
+level is the GM will need to know the
+ 
+
+65
+00:01:17,399 --> 00:01:20,600
+level is the GM will need to know the
+targeted effects counteract DC and the
+
+66
+00:01:20,600 --> 00:01:20,610
+targeted effects counteract DC and the
+ 
+
+67
+00:01:20,610 --> 00:01:24,139
+targeted effects counteract DC and the
+targeted effects counteract level when a
+
+68
+00:01:24,139 --> 00:01:24,149
+targeted effects counteract level when a
+ 
+
+69
+00:01:24,149 --> 00:01:25,850
+targeted effects counteract level when a
+character attempts to counteract in
+
+70
+00:01:25,850 --> 00:01:25,860
+character attempts to counteract in
+ 
+
+71
+00:01:25,860 --> 00:01:28,430
+character attempts to counteract in
+effect they roll a counteract check
+
+72
+00:01:28,430 --> 00:01:28,440
+effect they roll a counteract check
+ 
+
+73
+00:01:28,440 --> 00:01:30,740
+effect they roll a counteract check
+which is one day 20 plus their
+
+74
+00:01:30,740 --> 00:01:30,750
+which is one day 20 plus their
+ 
+
+75
+00:01:30,750 --> 00:01:34,070
+which is one day 20 plus their
+counteract modifier that total is then
+
+76
+00:01:34,070 --> 00:01:34,080
+counteract modifier that total is then
+ 
+
+77
+00:01:34,080 --> 00:01:35,899
+counteract modifier that total is then
+compared to the targeted effects
+
+78
+00:01:35,899 --> 00:01:35,909
+compared to the targeted effects
+ 
+
+79
+00:01:35,909 --> 00:01:38,930
+compared to the targeted effects
+counteract DC much like any other check
+
+80
+00:01:38,930 --> 00:01:38,940
+counteract DC much like any other check
+ 
+
+81
+00:01:38,940 --> 00:01:40,940
+counteract DC much like any other check
+in the game except that the ultimate
+
+82
+00:01:40,940 --> 00:01:40,950
+in the game except that the ultimate
+ 
+
+83
+00:01:40,950 --> 00:01:43,039
+in the game except that the ultimate
+result depends on the difference between
+
+84
+00:01:43,039 --> 00:01:43,049
+result depends on the difference between
+ 
+
+85
+00:01:43,049 --> 00:01:46,160
+result depends on the difference between
+the targets counteract level and the
+
+86
+00:01:46,160 --> 00:01:46,170
+the targets counteract level and the
+ 
+
+87
+00:01:46,170 --> 00:01:49,310
+the targets counteract level and the
+characters counteract level think of it
+
+88
+00:01:49,310 --> 00:01:49,320
+characters counteract level think of it
+ 
+
+89
+00:01:49,320 --> 00:01:52,010
+characters counteract level think of it
+this way you have a bucket of water and
+
+90
+00:01:52,010 --> 00:01:52,020
+this way you have a bucket of water and
+ 
+
+91
+00:01:52,020 --> 00:01:54,230
+this way you have a bucket of water and
+you want to put out a campfire the
+
+92
+00:01:54,230 --> 00:01:54,240
+you want to put out a campfire the
+ 
+
+93
+00:01:54,240 --> 00:01:57,080
+you want to put out a campfire the
+bigger the fire is the higher is
+
+94
+00:01:57,080 --> 00:01:57,090
+bigger the fire is the higher is
+ 
+
+95
+00:01:57,090 --> 00:02:01,130
+bigger the fire is the higher is
+counteract level and counteract DCR you
+
+96
+00:02:01,130 --> 00:02:01,140
+counteract level and counteract DCR you
+ 
+
+97
+00:02:01,140 --> 00:02:02,899
+counteract level and counteract DCR you
+try to douse the fire with your bucket
+
+98
+00:02:02,899 --> 00:02:02,909
+try to douse the fire with your bucket
+ 
+
+99
+00:02:02,909 --> 00:02:06,770
+try to douse the fire with your bucket
+of water and roll a counteract check the
+
+100
+00:02:06,770 --> 00:02:06,780
+of water and roll a counteract check the
+ 
+
+101
+00:02:06,780 --> 00:02:09,380
+of water and roll a counteract check the
+total of that check represents your aim
+
+102
+00:02:09,380 --> 00:02:09,390
+total of that check represents your aim
+ 
+
+103
+00:02:09,390 --> 00:02:12,050
+total of that check represents your aim
+were you able to toss the water on to
+
+104
+00:02:12,050 --> 00:02:12,060
+were you able to toss the water on to
+ 
+
+105
+00:02:12,060 --> 00:02:15,110
+were you able to toss the water on to
+the fire or maybe pour it with a great
+
+106
+00:02:15,110 --> 00:02:15,120
+the fire or maybe pour it with a great
+ 
+
+107
+00:02:15,120 --> 00:02:18,530
+the fire or maybe pour it with a great
+amount of skill or did you trip and miss
+
+108
+00:02:18,530 --> 00:02:18,540
+amount of skill or did you trip and miss
+ 
+
+109
+00:02:18,540 --> 00:02:21,140
+amount of skill or did you trip and miss
+the fire completely assuming you are
+
+110
+00:02:21,140 --> 00:02:21,150
+the fire completely assuming you are
+ 
+
+111
+00:02:21,150 --> 00:02:23,750
+the fire completely assuming you are
+able to succeed on that check you then
+
+112
+00:02:23,750 --> 00:02:23,760
+able to succeed on that check you then
+ 
+
+113
+00:02:23,760 --> 00:02:26,120
+able to succeed on that check you then
+have to ask yourself do I have enough
+
+114
+00:02:26,120 --> 00:02:26,130
+have to ask yourself do I have enough
+ 
+
+115
+00:02:26,130 --> 00:02:29,780
+have to ask yourself do I have enough
+water to put out a fire this size just
+
+116
+00:02:29,780 --> 00:02:29,790
+water to put out a fire this size just
+ 
+
+117
+00:02:29,790 --> 00:02:32,090
+water to put out a fire this size just
+like how a camp fires counteract level
+
+118
+00:02:32,090 --> 00:02:32,100
+like how a camp fires counteract level
+ 
+
+119
+00:02:32,100 --> 00:02:35,420
+like how a camp fires counteract level
+represents how big that fire is your
+
+120
+00:02:35,420 --> 00:02:35,430
+represents how big that fire is your
+ 
+
+121
+00:02:35,430 --> 00:02:37,940
+represents how big that fire is your
+counteract level represents how much
+
+122
+00:02:37,940 --> 00:02:37,950
+counteract level represents how much
+ 
+
+123
+00:02:37,950 --> 00:02:39,930
+counteract level represents how much
+water is in the bucket
+
+124
+00:02:39,930 --> 00:02:39,940
+water is in the bucket
+ 
+
+125
+00:02:39,940 --> 00:02:42,600
+water is in the bucket
+if there was only a teaspoon of water in
+
+126
+00:02:42,600 --> 00:02:42,610
+if there was only a teaspoon of water in
+ 
+
+127
+00:02:42,610 --> 00:02:44,760
+if there was only a teaspoon of water in
+the bucket then your counteract level is
+
+128
+00:02:44,760 --> 00:02:44,770
+the bucket then your counteract level is
+ 
+
+129
+00:02:44,770 --> 00:02:47,670
+the bucket then your counteract level is
+1 and if it was filled to the brim
+
+130
+00:02:47,670 --> 00:02:47,680
+1 and if it was filled to the brim
+ 
+
+131
+00:02:47,680 --> 00:02:51,570
+1 and if it was filled to the brim
+maybe that counteract level is 8 so is
+
+132
+00:02:51,570 --> 00:02:51,580
+maybe that counteract level is 8 so is
+ 
+
+133
+00:02:51,580 --> 00:02:54,990
+maybe that counteract level is 8 so is
+going to be a combination of both your
+
+134
+00:02:54,990 --> 00:02:55,000
+going to be a combination of both your
+ 
+
+135
+00:02:55,000 --> 00:02:57,570
+going to be a combination of both your
+ability to hit the fire with the bucket
+
+136
+00:02:57,570 --> 00:02:57,580
+ability to hit the fire with the bucket
+ 
+
+137
+00:02:57,580 --> 00:03:01,080
+ability to hit the fire with the bucket
+of water and a comparison between that
+
+138
+00:03:01,080 --> 00:03:01,090
+of water and a comparison between that
+ 
+
+139
+00:03:01,090 --> 00:03:03,510
+of water and a comparison between that
+fires counteract level in your
+
+140
+00:03:03,510 --> 00:03:03,520
+fires counteract level in your
+ 
+
+141
+00:03:03,520 --> 00:03:05,670
+fires counteract level in your
+counteract level that determines the
+
+142
+00:03:05,670 --> 00:03:05,680
+counteract level that determines the
+ 
+
+143
+00:03:05,680 --> 00:03:08,190
+counteract level that determines the
+final result of the counteract attempt
+
+144
+00:03:08,190 --> 00:03:08,200
+final result of the counteract attempt
+ 
+
+145
+00:03:08,200 --> 00:03:11,610
+final result of the counteract attempt
+on a successful counteract check you put
+
+146
+00:03:11,610 --> 00:03:11,620
+on a successful counteract check you put
+ 
+
+147
+00:03:11,620 --> 00:03:14,730
+on a successful counteract check you put
+the fire out if it's counteract level is
+
+148
+00:03:14,730 --> 00:03:14,740
+the fire out if it's counteract level is
+ 
+
+149
+00:03:14,740 --> 00:03:17,760
+the fire out if it's counteract level is
+no more than 1 higher than your
+
+150
+00:03:17,760 --> 00:03:17,770
+no more than 1 higher than your
+ 
+
+151
+00:03:17,770 --> 00:03:20,700
+no more than 1 higher than your
+counteract level on a critical success
+
+152
+00:03:20,700 --> 00:03:20,710
+counteract level on a critical success
+ 
+
+153
+00:03:20,710 --> 00:03:23,700
+counteract level on a critical success
+you put the fire out if it's counteract
+
+154
+00:03:23,700 --> 00:03:23,710
+you put the fire out if it's counteract
+ 
+
+155
+00:03:23,710 --> 00:03:26,730
+you put the fire out if it's counteract
+level is no more than 3 higher than your
+
+156
+00:03:26,730 --> 00:03:26,740
+level is no more than 3 higher than your
+ 
+
+157
+00:03:26,740 --> 00:03:30,390
+level is no more than 3 higher than your
+counteract level on a failure you still
+
+158
+00:03:30,390 --> 00:03:30,400
+counteract level on a failure you still
+ 
+
+159
+00:03:30,400 --> 00:03:33,180
+counteract level on a failure you still
+put the fire out if it's counteract
+
+160
+00:03:33,180 --> 00:03:33,190
+put the fire out if it's counteract
+ 
+
+161
+00:03:33,190 --> 00:03:35,940
+put the fire out if it's counteract
+level is lower than your counteract
+
+162
+00:03:35,940 --> 00:03:35,950
+level is lower than your counteract
+ 
+
+163
+00:03:35,950 --> 00:03:39,420
+level is lower than your counteract
+level and on a critical failure you
+
+164
+00:03:39,420 --> 00:03:39,430
+level and on a critical failure you
+ 
+
+165
+00:03:39,430 --> 00:03:41,910
+level and on a critical failure you
+don't put the fire out no matter how big
+
+166
+00:03:41,910 --> 00:03:41,920
+don't put the fire out no matter how big
+ 
+
+167
+00:03:41,920 --> 00:03:45,510
+don't put the fire out no matter how big
+your bucket of water is obviously that
+
+168
+00:03:45,510 --> 00:03:45,520
+your bucket of water is obviously that
+ 
+
+169
+00:03:45,520 --> 00:03:47,310
+your bucket of water is obviously that
+was just for illustrative purposes and
+
+170
+00:03:47,310 --> 00:03:47,320
+was just for illustrative purposes and
+ 
+
+171
+00:03:47,320 --> 00:03:49,530
+was just for illustrative purposes and
+your GM is probably not going to ask you
+
+172
+00:03:49,530 --> 00:03:49,540
+your GM is probably not going to ask you
+ 
+
+173
+00:03:49,540 --> 00:03:51,240
+your GM is probably not going to ask you
+to roll a counteract check to put out
+
+174
+00:03:51,240 --> 00:03:51,250
+to roll a counteract check to put out
+ 
+
+175
+00:03:51,250 --> 00:03:53,310
+to roll a counteract check to put out
+the mourning campfire but that example
+
+176
+00:03:53,310 --> 00:03:53,320
+the mourning campfire but that example
+ 
+
+177
+00:03:53,320 --> 00:03:55,710
+the mourning campfire but that example
+should provide a bit of a foundation for
+
+178
+00:03:55,710 --> 00:03:55,720
+should provide a bit of a foundation for
+ 
+
+179
+00:03:55,720 --> 00:03:58,830
+should provide a bit of a foundation for
+how this works
+
+180
+00:03:58,830 --> 00:03:58,840
+
+ 
+
+181
+00:03:58,840 --> 00:04:01,770
+
+counteract levels modifiers and DC's are
+
+182
+00:04:01,770 --> 00:04:01,780
+counteract levels modifiers and DC's are
+ 
+
+183
+00:04:01,780 --> 00:04:04,680
+counteract levels modifiers and DC's are
+often provided but sometimes you will
+
+184
+00:04:04,680 --> 00:04:04,690
+often provided but sometimes you will
+ 
+
+185
+00:04:04,690 --> 00:04:06,740
+often provided but sometimes you will
+need to calculate them for yourself
+
+186
+00:04:06,740 --> 00:04:06,750
+need to calculate them for yourself
+ 
+
+187
+00:04:06,750 --> 00:04:09,390
+need to calculate them for yourself
+generally speaking if the effect being
+
+188
+00:04:09,390 --> 00:04:09,400
+generally speaking if the effect being
+ 
+
+189
+00:04:09,400 --> 00:04:11,970
+generally speaking if the effect being
+counteracted is an affliction then is
+
+190
+00:04:11,970 --> 00:04:11,980
+counteracted is an affliction then is
+ 
+
+191
+00:04:11,980 --> 00:04:14,940
+counteracted is an affliction then is
+counteract DC and level will likely be
+
+192
+00:04:14,940 --> 00:04:14,950
+counteract DC and level will likely be
+ 
+
+193
+00:04:14,950 --> 00:04:16,949
+counteract DC and level will likely be
+listed in that affliction step block and
+
+194
+00:04:16,949 --> 00:04:16,959
+listed in that affliction step block and
+ 
+
+195
+00:04:16,959 --> 00:04:19,379
+listed in that affliction step block and
+if you are using an item to counteract
+
+196
+00:04:19,379 --> 00:04:19,389
+if you are using an item to counteract
+ 
+
+197
+00:04:19,389 --> 00:04:21,780
+if you are using an item to counteract
+with like a rod of negation it will
+
+198
+00:04:21,780 --> 00:04:21,790
+with like a rod of negation it will
+ 
+
+199
+00:04:21,790 --> 00:04:23,460
+with like a rod of negation it will
+often tell you what your counter at
+
+200
+00:04:23,460 --> 00:04:23,470
+often tell you what your counter at
+ 
+
+201
+00:04:23,470 --> 00:04:25,200
+often tell you what your counter at
+level and modifier will be for that
+
+202
+00:04:25,200 --> 00:04:25,210
+level and modifier will be for that
+ 
+
+203
+00:04:25,210 --> 00:04:28,110
+level and modifier will be for that
+check but more often than not you will
+
+204
+00:04:28,110 --> 00:04:28,120
+check but more often than not you will
+ 
+
+205
+00:04:28,120 --> 00:04:30,090
+check but more often than not you will
+need to calculate these on your own
+
+206
+00:04:30,090 --> 00:04:30,100
+need to calculate these on your own
+ 
+
+207
+00:04:30,100 --> 00:04:33,240
+need to calculate these on your own
+when spells are involved and the good
+
+208
+00:04:33,240 --> 00:04:33,250
+when spells are involved and the good
+ 
+
+209
+00:04:33,250 --> 00:04:35,790
+when spells are involved and the good
+news is is not terribly hard to do that
+
+210
+00:04:35,790 --> 00:04:35,800
+news is is not terribly hard to do that
+ 
+
+211
+00:04:35,800 --> 00:04:38,790
+news is is not terribly hard to do that
+if the effect you're counteracting is
+
+212
+00:04:38,790 --> 00:04:38,800
+if the effect you're counteracting is
+ 
+
+213
+00:04:38,800 --> 00:04:43,170
+if the effect you're counteracting is
+expel that is counteract DC is the same
+
+214
+00:04:43,170 --> 00:04:43,180
+expel that is counteract DC is the same
+ 
+
+215
+00:04:43,180 --> 00:04:45,990
+expel that is counteract DC is the same
+as the spell DC of the person who cast
+
+216
+00:04:45,990 --> 00:04:46,000
+as the spell DC of the person who cast
+ 
+
+217
+00:04:46,000 --> 00:04:48,600
+as the spell DC of the person who cast
+it if you're using an official step
+
+218
+00:04:48,600 --> 00:04:48,610
+it if you're using an official step
+ 
+
+219
+00:04:48,610 --> 00:04:50,430
+it if you're using an official step
+block from one of the polish adventures
+
+220
+00:04:50,430 --> 00:04:50,440
+block from one of the polish adventures
+ 
+
+221
+00:04:50,440 --> 00:04:52,830
+block from one of the polish adventures
+then the work is done for you and the
+
+222
+00:04:52,830 --> 00:04:52,840
+then the work is done for you and the
+ 
+
+223
+00:04:52,840 --> 00:04:54,900
+then the work is done for you and the
+spell DC should be listed there for that
+
+224
+00:04:54,900 --> 00:04:54,910
+spell DC should be listed there for that
+ 
+
+225
+00:04:54,910 --> 00:04:58,260
+spell DC should be listed there for that
+casting character if not then the base
+
+226
+00:04:58,260 --> 00:04:58,270
+casting character if not then the base
+ 
+
+227
+00:04:58,270 --> 00:05:02,010
+casting character if not then the base
+spell DC is calculated as 10 plus the
+
+228
+00:05:02,010 --> 00:05:02,020
+spell DC is calculated as 10 plus the
+ 
+
+229
+00:05:02,020 --> 00:05:04,260
+spell DC is calculated as 10 plus the
+key ability modifier used for spell
+
+230
+00:05:04,260 --> 00:05:04,270
+key ability modifier used for spell
+ 
+
+231
+00:05:04,270 --> 00:05:06,630
+key ability modifier used for spell
+casting for example intelligence for
+
+232
+00:05:06,630 --> 00:05:06,640
+casting for example intelligence for
+ 
+
+233
+00:05:06,640 --> 00:05:09,120
+casting for example intelligence for
+Wizards wisdom for clerics or a charisma
+
+234
+00:05:09,120 --> 00:05:09,130
+Wizards wisdom for clerics or a charisma
+ 
+
+235
+00:05:09,130 --> 00:05:12,090
+Wizards wisdom for clerics or a charisma
+for sorcerers and then plus that
+
+236
+00:05:12,090 --> 00:05:12,100
+for sorcerers and then plus that
+ 
+
+237
+00:05:12,100 --> 00:05:14,070
+for sorcerers and then plus that
+character spell casting proficiency
+
+238
+00:05:14,070 --> 00:05:14,080
+character spell casting proficiency
+ 
+
+239
+00:05:14,080 --> 00:05:17,790
+character spell casting proficiency
+bonus the base counteract modifier of
+
+240
+00:05:17,790 --> 00:05:17,800
+bonus the base counteract modifier of
+ 
+
+241
+00:05:17,800 --> 00:05:19,800
+bonus the base counteract modifier of
+the character attempting to counteract
+
+242
+00:05:19,800 --> 00:05:19,810
+the character attempting to counteract
+ 
+
+243
+00:05:19,810 --> 00:05:23,159
+the character attempting to counteract
+the effect using a spell is their spell
+
+244
+00:05:23,159 --> 00:05:23,169
+the effect using a spell is their spell
+ 
+
+245
+00:05:23,169 --> 00:05:25,560
+the effect using a spell is their spell
+casting ability modifier plus their
+
+246
+00:05:25,560 --> 00:05:25,570
+casting ability modifier plus their
+ 
+
+247
+00:05:25,570 --> 00:05:27,960
+casting ability modifier plus their
+proficiency bonus essentially this is
+
+248
+00:05:27,960 --> 00:05:27,970
+proficiency bonus essentially this is
+ 
+
+249
+00:05:27,970 --> 00:05:30,200
+proficiency bonus essentially this is
+the same as their spell attack bonus
+
+250
+00:05:30,200 --> 00:05:30,210
+the same as their spell attack bonus
+ 
+
+251
+00:05:30,210 --> 00:05:32,370
+the same as their spell attack bonus
+except counteract shifts are only
+
+252
+00:05:32,370 --> 00:05:32,380
+except counteract shifts are only
+ 
+
+253
+00:05:32,380 --> 00:05:34,379
+except counteract shifts are only
+modified by things that specifically
+
+254
+00:05:34,379 --> 00:05:34,389
+modified by things that specifically
+ 
+
+255
+00:05:34,389 --> 00:05:37,320
+modified by things that specifically
+state that they modify counteract checks
+
+256
+00:05:37,320 --> 00:05:37,330
+state that they modify counteract checks
+ 
+
+257
+00:05:37,330 --> 00:05:40,409
+state that they modify counteract checks
+and are not modified by any effect that
+
+258
+00:05:40,409 --> 00:05:40,419
+and are not modified by any effect that
+ 
+
+259
+00:05:40,419 --> 00:05:42,900
+and are not modified by any effect that
+would grant a bonus or a penalty to a
+
+260
+00:05:42,900 --> 00:05:42,910
+would grant a bonus or a penalty to a
+ 
+
+261
+00:05:42,910 --> 00:05:45,230
+would grant a bonus or a penalty to a
+spell attack role
+
+262
+00:05:45,230 --> 00:05:45,240
+spell attack role
+ 
+
+263
+00:05:45,240 --> 00:05:47,689
+spell attack role
+and counteract level is equal to the
+
+264
+00:05:47,689 --> 00:05:47,699
+and counteract level is equal to the
+ 
+
+265
+00:05:47,699 --> 00:05:50,749
+and counteract level is equal to the
+spell slot used to cast the spell so if
+
+266
+00:05:50,749 --> 00:05:50,759
+spell slot used to cast the spell so if
+ 
+
+267
+00:05:50,759 --> 00:05:53,480
+spell slot used to cast the spell so if
+the effect to be counteracted is from a
+
+268
+00:05:53,480 --> 00:05:53,490
+the effect to be counteracted is from a
+ 
+
+269
+00:05:53,490 --> 00:05:56,930
+the effect to be counteracted is from a
+third level spell then it's counteract
+
+270
+00:05:56,930 --> 00:05:56,940
+third level spell then it's counteract
+ 
+
+271
+00:05:56,940 --> 00:05:59,420
+third level spell then it's counteract
+level will also be three unless that
+
+272
+00:05:59,420 --> 00:05:59,430
+level will also be three unless that
+ 
+
+273
+00:05:59,430 --> 00:06:01,370
+level will also be three unless that
+spell is heightened and cast at a higher
+
+274
+00:06:01,370 --> 00:06:01,380
+spell is heightened and cast at a higher
+ 
+
+275
+00:06:01,380 --> 00:06:03,680
+spell is heightened and cast at a higher
+level in which case you use that
+
+276
+00:06:03,680 --> 00:06:03,690
+level in which case you use that
+ 
+
+277
+00:06:03,690 --> 00:06:05,960
+level in which case you use that
+heightened level as is counteract level
+
+278
+00:06:05,960 --> 00:06:05,970
+heightened level as is counteract level
+ 
+
+279
+00:06:05,970 --> 00:06:08,210
+heightened level as is counteract level
+and can trips are automatically
+
+280
+00:06:08,210 --> 00:06:08,220
+and can trips are automatically
+ 
+
+281
+00:06:08,220 --> 00:06:10,700
+and can trips are automatically
+heightened to one half the casters level
+
+282
+00:06:10,700 --> 00:06:10,710
+heightened to one half the casters level
+ 
+
+283
+00:06:10,710 --> 00:06:13,129
+heightened to one half the casters level
+around it up so you would use that as
+
+284
+00:06:13,129 --> 00:06:13,139
+around it up so you would use that as
+ 
+
+285
+00:06:13,139 --> 00:06:15,770
+around it up so you would use that as
+the K trips counteract level even though
+
+286
+00:06:15,770 --> 00:06:15,780
+the K trips counteract level even though
+ 
+
+287
+00:06:15,780 --> 00:06:17,719
+the K trips counteract level even though
+a spell is not being consumed when
+
+288
+00:06:17,719 --> 00:06:17,729
+a spell is not being consumed when
+ 
+
+289
+00:06:17,729 --> 00:06:21,350
+a spell is not being consumed when
+you cast it and if a counteract level is
+
+290
+00:06:21,350 --> 00:06:21,360
+you cast it and if a counteract level is
+ 
+
+291
+00:06:21,360 --> 00:06:23,689
+you cast it and if a counteract level is
+not provided then you can calculate it
+
+292
+00:06:23,689 --> 00:06:23,699
+not provided then you can calculate it
+ 
+
+293
+00:06:23,699 --> 00:06:26,659
+not provided then you can calculate it
+as one half the level of the creature or
+
+294
+00:06:26,659 --> 00:06:26,669
+as one half the level of the creature or
+ 
+
+295
+00:06:26,669 --> 00:06:28,760
+as one half the level of the creature or
+object providing the counteract effect
+
+296
+00:06:28,760 --> 00:06:28,770
+object providing the counteract effect
+ 
+
+297
+00:06:28,770 --> 00:06:32,689
+object providing the counteract effect
+round it up okay now that we know the
+
+298
+00:06:32,689 --> 00:06:32,699
+round it up okay now that we know the
+ 
+
+299
+00:06:32,699 --> 00:06:35,210
+round it up okay now that we know the
+process and how to calculate the figures
+
+300
+00:06:35,210 --> 00:06:35,220
+process and how to calculate the figures
+ 
+
+301
+00:06:35,220 --> 00:06:37,460
+process and how to calculate the figures
+that are needed list see how this all
+
+302
+00:06:37,460 --> 00:06:37,470
+that are needed list see how this all
+ 
+
+303
+00:06:37,470 --> 00:06:41,200
+that are needed list see how this all
+fits together with a few examples
+
+304
+00:06:41,200 --> 00:06:41,210
+fits together with a few examples
+ 
+
+305
+00:06:41,210 --> 00:06:43,659
+fits together with a few examples
+in our first example we have a Hobgoblin
+
+306
+00:06:43,659 --> 00:06:43,669
+in our first example we have a Hobgoblin
+ 
+
+307
+00:06:43,669 --> 00:06:47,110
+in our first example we have a Hobgoblin
+sorcerer and ezrin the wizard the
+
+308
+00:06:47,110 --> 00:06:47,120
+sorcerer and ezrin the wizard the
+ 
+
+309
+00:06:47,120 --> 00:06:50,080
+sorcerer and ezrin the wizard the
+Hobgoblin is third level has a charisma
+
+310
+00:06:50,080 --> 00:06:50,090
+Hobgoblin is third level has a charisma
+ 
+
+311
+00:06:50,090 --> 00:06:53,379
+Hobgoblin is third level has a charisma
+score of 14 and trained proficiency in
+
+312
+00:06:53,379 --> 00:06:53,389
+score of 14 and trained proficiency in
+ 
+
+313
+00:06:53,389 --> 00:06:56,620
+score of 14 and trained proficiency in
+arcane spell casting Ezrin is a fifth
+
+314
+00:06:56,620 --> 00:06:56,630
+arcane spell casting Ezrin is a fifth
+ 
+
+315
+00:06:56,630 --> 00:06:59,020
+arcane spell casting Ezrin is a fifth
+level wizard has an intelligent score of
+
+316
+00:06:59,020 --> 00:06:59,030
+level wizard has an intelligent score of
+ 
+
+317
+00:06:59,030 --> 00:07:02,200
+level wizard has an intelligent score of
+19 and trained proficiency in arcane
+
+318
+00:07:02,200 --> 00:07:02,210
+19 and trained proficiency in arcane
+ 
+
+319
+00:07:02,210 --> 00:07:04,719
+19 and trained proficiency in arcane
+spell casting he also has the
+
+320
+00:07:04,719 --> 00:07:04,729
+spell casting he also has the
+ 
+
+321
+00:07:04,729 --> 00:07:08,529
+spell casting he also has the
+counterspell feat counter spell allows a
+
+322
+00:07:08,529 --> 00:07:08,539
+counterspell feat counter spell allows a
+ 
+
+323
+00:07:08,539 --> 00:07:10,779
+counterspell feat counter spell allows a
+character to spin their reaction to
+
+324
+00:07:10,779 --> 00:07:10,789
+character to spin their reaction to
+ 
+
+325
+00:07:10,789 --> 00:07:13,570
+character to spin their reaction to
+exhaust one of their spells in order to
+
+326
+00:07:13,570 --> 00:07:13,580
+exhaust one of their spells in order to
+ 
+
+327
+00:07:13,580 --> 00:07:15,520
+exhaust one of their spells in order to
+counteract the spell casting of another
+
+328
+00:07:15,520 --> 00:07:15,530
+counteract the spell casting of another
+ 
+
+329
+00:07:15,530 --> 00:07:18,520
+counteract the spell casting of another
+creature but the catch is it has to be
+
+330
+00:07:18,520 --> 00:07:18,530
+creature but the catch is it has to be
+ 
+
+331
+00:07:18,530 --> 00:07:21,969
+creature but the catch is it has to be
+the same spell so when the Hobgoblin
+
+332
+00:07:21,969 --> 00:07:21,979
+the same spell so when the Hobgoblin
+ 
+
+333
+00:07:21,979 --> 00:07:24,430
+the same spell so when the Hobgoblin
+begins to cast magic missle Ezrin
+
+334
+00:07:24,430 --> 00:07:24,440
+begins to cast magic missle Ezrin
+ 
+
+335
+00:07:24,440 --> 00:07:26,950
+begins to cast magic missle Ezrin
+immediately uses his reaction to counter
+
+336
+00:07:26,950 --> 00:07:26,960
+immediately uses his reaction to counter
+ 
+
+337
+00:07:26,960 --> 00:07:30,730
+immediately uses his reaction to counter
+by casting his own magic missle spell he
+
+338
+00:07:30,730 --> 00:07:30,740
+by casting his own magic missle spell he
+ 
+
+339
+00:07:30,740 --> 00:07:32,950
+by casting his own magic missle spell he
+has magic missle prepared using a first
+
+340
+00:07:32,950 --> 00:07:32,960
+has magic missle prepared using a first
+ 
+
+341
+00:07:32,960 --> 00:07:35,710
+has magic missle prepared using a first
+level spell slot and expends it as part
+
+342
+00:07:35,710 --> 00:07:35,720
+level spell slot and expends it as part
+ 
+
+343
+00:07:35,720 --> 00:07:38,290
+level spell slot and expends it as part
+of his counter spell reaction if he did
+
+344
+00:07:38,290 --> 00:07:38,300
+of his counter spell reaction if he did
+ 
+
+345
+00:07:38,300 --> 00:07:40,540
+of his counter spell reaction if he did
+not already have magic missle prepared
+
+346
+00:07:40,540 --> 00:07:40,550
+not already have magic missle prepared
+ 
+
+347
+00:07:40,550 --> 00:07:42,430
+not already have magic missle prepared
+and ready that he would not be able to
+
+348
+00:07:42,430 --> 00:07:42,440
+and ready that he would not be able to
+ 
+
+349
+00:07:42,440 --> 00:07:45,310
+and ready that he would not be able to
+use counter spell here when this happens
+
+350
+00:07:45,310 --> 00:07:45,320
+use counter spell here when this happens
+ 
+
+351
+00:07:45,320 --> 00:07:47,920
+use counter spell here when this happens
+Ezrin exhausts has prepared magic missle
+
+352
+00:07:47,920 --> 00:07:47,930
+Ezrin exhausts has prepared magic missle
+ 
+
+353
+00:07:47,930 --> 00:07:49,689
+Ezrin exhausts has prepared magic missle
+spell as if he had cast it during his
+
+354
+00:07:49,689 --> 00:07:49,699
+spell as if he had cast it during his
+ 
+
+355
+00:07:49,699 --> 00:07:52,060
+spell as if he had cast it during his
+turn except instead of attacking his foe
+
+356
+00:07:52,060 --> 00:07:52,070
+turn except instead of attacking his foe
+ 
+
+357
+00:07:52,070 --> 00:07:54,339
+turn except instead of attacking his foe
+and doing damage he instead rolls a
+
+358
+00:07:54,339 --> 00:07:54,349
+and doing damage he instead rolls a
+ 
+
+359
+00:07:54,349 --> 00:07:57,270
+and doing damage he instead rolls a
+counteract check against the Hobgoblin
+
+360
+00:07:57,270 --> 00:07:57,280
+counteract check against the Hobgoblin
+ 
+
+361
+00:07:57,280 --> 00:07:59,649
+counteract check against the Hobgoblin
+before making the check we need to be
+
+362
+00:07:59,649 --> 00:07:59,659
+before making the check we need to be
+ 
+
+363
+00:07:59,659 --> 00:08:01,959
+before making the check we need to be
+sure we have the four key pieces of
+
+364
+00:08:01,959 --> 00:08:01,969
+sure we have the four key pieces of
+ 
+
+365
+00:08:01,969 --> 00:08:04,899
+sure we have the four key pieces of
+information the enemies counteract level
+
+366
+00:08:04,899 --> 00:08:04,909
+information the enemies counteract level
+ 
+
+367
+00:08:04,909 --> 00:08:07,300
+information the enemies counteract level
+is equal to the spell slot they were
+
+368
+00:08:07,300 --> 00:08:07,310
+is equal to the spell slot they were
+ 
+
+369
+00:08:07,310 --> 00:08:09,999
+is equal to the spell slot they were
+using to cast magic missle in this case
+
+370
+00:08:09,999 --> 00:08:10,009
+using to cast magic missle in this case
+ 
+
+371
+00:08:10,009 --> 00:08:12,219
+using to cast magic missle in this case
+it was a second level spell slot being
+
+372
+00:08:12,219 --> 00:08:12,229
+it was a second level spell slot being
+ 
+
+373
+00:08:12,229 --> 00:08:15,249
+it was a second level spell slot being
+used and therefore the Hobgoblin has a
+
+374
+00:08:15,249 --> 00:08:15,259
+used and therefore the Hobgoblin has a
+ 
+
+375
+00:08:15,259 --> 00:08:18,700
+used and therefore the Hobgoblin has a
+counteract level of two next we need to
+
+376
+00:08:18,700 --> 00:08:18,710
+counteract level of two next we need to
+ 
+
+377
+00:08:18,710 --> 00:08:21,459
+counteract level of two next we need to
+know the counteract DC since this is a
+
+378
+00:08:21,459 --> 00:08:21,469
+know the counteract DC since this is a
+ 
+
+379
+00:08:21,469 --> 00:08:24,189
+know the counteract DC since this is a
+spell that is being counteracted we know
+
+380
+00:08:24,189 --> 00:08:24,199
+spell that is being counteracted we know
+ 
+
+381
+00:08:24,199 --> 00:08:27,550
+spell that is being counteracted we know
+the counteract DC is equal to the SPO DC
+
+382
+00:08:27,550 --> 00:08:27,560
+the counteract DC is equal to the SPO DC
+ 
+
+383
+00:08:27,560 --> 00:08:30,279
+the counteract DC is equal to the SPO DC
+of the creature who cast it and we know
+
+384
+00:08:30,279 --> 00:08:30,289
+of the creature who cast it and we know
+ 
+
+385
+00:08:30,289 --> 00:08:33,639
+of the creature who cast it and we know
+spell DC's are calculated as 10 plus the
+
+386
+00:08:33,639 --> 00:08:33,649
+spell DC's are calculated as 10 plus the
+ 
+
+387
+00:08:33,649 --> 00:08:35,860
+spell DC's are calculated as 10 plus the
+key ability modifier plus proficiency
+
+388
+00:08:35,860 --> 00:08:35,870
+key ability modifier plus proficiency
+ 
+
+389
+00:08:35,870 --> 00:08:38,949
+key ability modifier plus proficiency
+bonus borrowing any additional bonuses
+
+390
+00:08:38,949 --> 00:08:38,959
+bonus borrowing any additional bonuses
+ 
+
+391
+00:08:38,959 --> 00:08:41,500
+bonus borrowing any additional bonuses
+or penalties this DC should be the same
+
+392
+00:08:41,500 --> 00:08:41,510
+or penalties this DC should be the same
+ 
+
+393
+00:08:41,510 --> 00:08:44,590
+or penalties this DC should be the same
+as their spell attack bonus plus 10 so
+
+394
+00:08:44,590 --> 00:08:44,600
+as their spell attack bonus plus 10 so
+ 
+
+395
+00:08:44,600 --> 00:08:48,400
+as their spell attack bonus plus 10 so
+here the Hobgoblin spell DC is ten plus
+
+396
+00:08:48,400 --> 00:08:48,410
+here the Hobgoblin spell DC is ten plus
+ 
+
+397
+00:08:48,410 --> 00:08:51,760
+here the Hobgoblin spell DC is ten plus
+two for having a fourteen charisma plus
+
+398
+00:08:51,760 --> 00:08:51,770
+two for having a fourteen charisma plus
+ 
+
+399
+00:08:51,770 --> 00:08:54,420
+two for having a fourteen charisma plus
+five for his proficiency modifier
+
+400
+00:08:54,420 --> 00:08:54,430
+five for his proficiency modifier
+ 
+
+401
+00:08:54,430 --> 00:08:57,389
+five for his proficiency modifier
+and that proficiency modifier is - for
+
+402
+00:08:57,389 --> 00:08:57,399
+and that proficiency modifier is - for
+ 
+
+403
+00:08:57,399 --> 00:09:00,930
+and that proficiency modifier is - for
+being trained plus third level and this
+
+404
+00:09:00,930 --> 00:09:00,940
+being trained plus third level and this
+ 
+
+405
+00:09:00,940 --> 00:09:05,220
+being trained plus third level and this
+makes its final spell DC 17 that may
+
+406
+00:09:05,220 --> 00:09:05,230
+makes its final spell DC 17 that may
+ 
+
+407
+00:09:05,230 --> 00:09:07,800
+makes its final spell DC 17 that may
+feel very cumbersome but remember if
+
+408
+00:09:07,800 --> 00:09:07,810
+feel very cumbersome but remember if
+ 
+
+409
+00:09:07,810 --> 00:09:10,019
+feel very cumbersome but remember if
+you're using a stat block from an
+
+410
+00:09:10,019 --> 00:09:10,029
+you're using a stat block from an
+ 
+
+411
+00:09:10,029 --> 00:09:12,300
+you're using a stat block from an
+adventurer or a bestie Airy then the
+
+412
+00:09:12,300 --> 00:09:12,310
+adventurer or a bestie Airy then the
+ 
+
+413
+00:09:12,310 --> 00:09:15,570
+adventurer or a bestie Airy then the
+spell DC is already provided that takes
+
+414
+00:09:15,570 --> 00:09:15,580
+spell DC is already provided that takes
+ 
+
+415
+00:09:15,580 --> 00:09:17,310
+spell DC is already provided that takes
+care of the hobgoblin and has a
+
+416
+00:09:17,310 --> 00:09:17,320
+care of the hobgoblin and has a
+ 
+
+417
+00:09:17,320 --> 00:09:20,190
+care of the hobgoblin and has a
+counteract DC of 17 and a counteract
+
+418
+00:09:20,190 --> 00:09:20,200
+counteract DC of 17 and a counteract
+ 
+
+419
+00:09:20,200 --> 00:09:24,810
+counteract DC of 17 and a counteract
+level of 2 now for Ezrin he used a first
+
+420
+00:09:24,810 --> 00:09:24,820
+level of 2 now for Ezrin he used a first
+ 
+
+421
+00:09:24,820 --> 00:09:27,389
+level of 2 now for Ezrin he used a first
+level spell slot to cast magic missle so
+
+422
+00:09:27,389 --> 00:09:27,399
+level spell slot to cast magic missle so
+ 
+
+423
+00:09:27,399 --> 00:09:30,870
+level spell slot to cast magic missle so
+he has a counteract level of 1 his
+
+424
+00:09:30,870 --> 00:09:30,880
+he has a counteract level of 1 his
+ 
+
+425
+00:09:30,880 --> 00:09:33,150
+he has a counteract level of 1 his
+counteract modifier is calculated the
+
+426
+00:09:33,150 --> 00:09:33,160
+counteract modifier is calculated the
+ 
+
+427
+00:09:33,160 --> 00:09:35,579
+counteract modifier is calculated the
+same as the spell DC we did for the
+
+428
+00:09:35,579 --> 00:09:35,589
+same as the spell DC we did for the
+ 
+
+429
+00:09:35,589 --> 00:09:37,980
+same as the spell DC we did for the
+hobgoblin they said it doesn't get that
+
+430
+00:09:37,980 --> 00:09:37,990
+hobgoblin they said it doesn't get that
+ 
+
+431
+00:09:37,990 --> 00:09:41,220
+hobgoblin they said it doesn't get that
+flat plus 10 so ezrin's counteract
+
+432
+00:09:41,220 --> 00:09:41,230
+flat plus 10 so ezrin's counteract
+ 
+
+433
+00:09:41,230 --> 00:09:43,769
+flat plus 10 so ezrin's counteract
+modifier is his intelligence modifier of
+
+434
+00:09:43,769 --> 00:09:43,779
+modifier is his intelligence modifier of
+ 
+
+435
+00:09:43,779 --> 00:09:47,430
+modifier is his intelligence modifier of
+plus 4 plus 7 more for his proficiency
+
+436
+00:09:47,430 --> 00:09:47,440
+plus 4 plus 7 more for his proficiency
+ 
+
+437
+00:09:47,440 --> 00:09:50,730
+plus 4 plus 7 more for his proficiency
+bonus which is 2 for being trained plus
+
+438
+00:09:50,730 --> 00:09:50,740
+bonus which is 2 for being trained plus
+ 
+
+439
+00:09:50,740 --> 00:09:54,449
+bonus which is 2 for being trained plus
+his level of v this makes his counteract
+
+440
+00:09:54,449 --> 00:09:54,459
+his level of v this makes his counteract
+ 
+
+441
+00:09:54,459 --> 00:09:58,199
+his level of v this makes his counteract
+modifier plus 11 again barring any
+
+442
+00:09:58,199 --> 00:09:58,209
+modifier plus 11 again barring any
+ 
+
+443
+00:09:58,209 --> 00:10:00,420
+modifier plus 11 again barring any
+special bonuses or penalties his
+
+444
+00:10:00,420 --> 00:10:00,430
+special bonuses or penalties his
+ 
+
+445
+00:10:00,430 --> 00:10:02,910
+special bonuses or penalties his
+counteract modifier will be the same as
+
+446
+00:10:02,910 --> 00:10:02,920
+counteract modifier will be the same as
+ 
+
+447
+00:10:02,920 --> 00:10:04,980
+counteract modifier will be the same as
+his spell attack bonus which makes this
+
+448
+00:10:04,980 --> 00:10:04,990
+his spell attack bonus which makes this
+ 
+
+449
+00:10:04,990 --> 00:10:07,640
+his spell attack bonus which makes this
+process a lot easier than it might seem
+
+450
+00:10:07,640 --> 00:10:07,650
+process a lot easier than it might seem
+ 
+
+451
+00:10:07,650 --> 00:10:10,140
+process a lot easier than it might seem
+but always remember anything that
+
+452
+00:10:10,140 --> 00:10:10,150
+but always remember anything that
+ 
+
+453
+00:10:10,150 --> 00:10:13,110
+but always remember anything that
+modifies a spell attack bonus does not
+
+454
+00:10:13,110 --> 00:10:13,120
+modifies a spell attack bonus does not
+ 
+
+455
+00:10:13,120 --> 00:10:15,420
+modifies a spell attack bonus does not
+also adjust the character's counteract
+
+456
+00:10:15,420 --> 00:10:15,430
+also adjust the character's counteract
+ 
+
+457
+00:10:15,430 --> 00:10:18,510
+also adjust the character's counteract
+modifier bonuses and penalties must
+
+458
+00:10:18,510 --> 00:10:18,520
+modifier bonuses and penalties must
+ 
+
+459
+00:10:18,520 --> 00:10:20,519
+modifier bonuses and penalties must
+specifically say that they modify
+
+460
+00:10:20,519 --> 00:10:20,529
+specifically say that they modify
+ 
+
+461
+00:10:20,529 --> 00:10:23,160
+specifically say that they modify
+counteract modifiers or counter ID
+
+462
+00:10:23,160 --> 00:10:23,170
+counteract modifiers or counter ID
+ 
+
+463
+00:10:23,170 --> 00:10:25,519
+counteract modifiers or counter ID
+checks in order to apply
+
+464
+00:10:25,519 --> 00:10:25,529
+checks in order to apply
+ 
+
+465
+00:10:25,529 --> 00:10:28,500
+checks in order to apply
+so when ezrin expends his prepared magic
+
+466
+00:10:28,500 --> 00:10:28,510
+so when ezrin expends his prepared magic
+ 
+
+467
+00:10:28,510 --> 00:10:29,820
+so when ezrin expends his prepared magic
+missle spell to counteract the
+
+468
+00:10:29,820 --> 00:10:29,830
+missle spell to counteract the
+ 
+
+469
+00:10:29,830 --> 00:10:33,680
+missle spell to counteract the
+hobgoblins he rolls one d20 and adds 11
+
+470
+00:10:33,680 --> 00:10:33,690
+hobgoblins he rolls one d20 and adds 11
+ 
+
+471
+00:10:33,690 --> 00:10:36,480
+hobgoblins he rolls one d20 and adds 11
+this total is then compared to the
+
+472
+00:10:36,480 --> 00:10:36,490
+this total is then compared to the
+ 
+
+473
+00:10:36,490 --> 00:10:40,530
+this total is then compared to the
+hobgoblins counteract DC of 17 so if he
+
+474
+00:10:40,530 --> 00:10:40,540
+hobgoblins counteract DC of 17 so if he
+ 
+
+475
+00:10:40,540 --> 00:10:43,949
+hobgoblins counteract DC of 17 so if he
+rolls a 6 or higher on the d20 then the
+
+476
+00:10:43,949 --> 00:10:43,959
+rolls a 6 or higher on the d20 then the
+ 
+
+477
+00:10:43,959 --> 00:10:45,840
+rolls a 6 or higher on the d20 then the
+hobgoblins magic missle spell is
+
+478
+00:10:45,840 --> 00:10:45,850
+hobgoblins magic missle spell is
+ 
+
+479
+00:10:45,850 --> 00:10:49,440
+hobgoblins magic missle spell is
+countered and has no effect if Ezra
+
+480
+00:10:49,440 --> 00:10:49,450
+countered and has no effect if Ezra
+ 
+
+481
+00:10:49,450 --> 00:10:52,260
+countered and has no effect if Ezra
+knows a 5 are lower then he is unable to
+
+482
+00:10:52,260 --> 00:10:52,270
+knows a 5 are lower then he is unable to
+ 
+
+483
+00:10:52,270 --> 00:10:54,660
+knows a 5 are lower then he is unable to
+counter the hobgoblins attack and the
+
+484
+00:10:54,660 --> 00:10:54,670
+counter the hobgoblins attack and the
+ 
+
+485
+00:10:54,670 --> 00:10:56,250
+counter the hobgoblins attack and the
+magic missiles deliver their regular
+
+486
+00:10:56,250 --> 00:10:56,260
+magic missiles deliver their regular
+ 
+
+487
+00:10:56,260 --> 00:10:58,530
+magic missiles deliver their regular
+damage
+
+488
+00:10:58,530 --> 00:10:58,540
+damage
+ 
+
+489
+00:10:58,540 --> 00:11:01,860
+damage
+in our next example limb is a tenth
+
+490
+00:11:01,860 --> 00:11:01,870
+in our next example limb is a tenth
+ 
+
+491
+00:11:01,870 --> 00:11:03,810
+in our next example limb is a tenth
+level bard going undercover in
+
+492
+00:11:03,810 --> 00:11:03,820
+level bard going undercover in
+ 
+
+493
+00:11:03,820 --> 00:11:06,360
+level bard going undercover in
+disguising himself as a member of an
+
+494
+00:11:06,360 --> 00:11:06,370
+disguising himself as a member of an
+ 
+
+495
+00:11:06,370 --> 00:11:08,850
+disguising himself as a member of an
+evil cult in preparation for this
+
+496
+00:11:08,850 --> 00:11:08,860
+evil cult in preparation for this
+ 
+
+497
+00:11:08,860 --> 00:11:11,250
+evil cult in preparation for this
+mission he casts non detection on
+
+498
+00:11:11,250 --> 00:11:11,260
+mission he casts non detection on
+ 
+
+499
+00:11:11,260 --> 00:11:14,160
+mission he casts non detection on
+himself this is normally a third level
+
+500
+00:11:14,160 --> 00:11:14,170
+himself this is normally a third level
+ 
+
+501
+00:11:14,170 --> 00:11:16,650
+himself this is normally a third level
+spell but he wants to avoid magical
+
+502
+00:11:16,650 --> 00:11:16,660
+spell but he wants to avoid magical
+ 
+
+503
+00:11:16,660 --> 00:11:18,660
+spell but he wants to avoid magical
+detection as much as possible so he
+
+504
+00:11:18,660 --> 00:11:18,670
+detection as much as possible so he
+ 
+
+505
+00:11:18,670 --> 00:11:20,730
+detection as much as possible so he
+heightens it to 5th level before a
+
+506
+00:11:20,730 --> 00:11:20,740
+heightens it to 5th level before a
+ 
+
+507
+00:11:20,740 --> 00:11:21,390
+heightens it to 5th level before a
+casted
+
+508
+00:11:21,390 --> 00:11:21,400
+casted
+ 
+
+509
+00:11:21,400 --> 00:11:24,870
+casted
+he also has a base spell attack bonus of
+
+510
+00:11:24,870 --> 00:11:24,880
+he also has a base spell attack bonus of
+ 
+
+511
+00:11:24,880 --> 00:11:28,080
+he also has a base spell attack bonus of
+plus 19 ignoring any special bonuses or
+
+512
+00:11:28,080 --> 00:11:28,090
+plus 19 ignoring any special bonuses or
+ 
+
+513
+00:11:28,090 --> 00:11:30,690
+plus 19 ignoring any special bonuses or
+penalties when he enters the cults
+
+514
+00:11:30,690 --> 00:11:30,700
+penalties when he enters the cults
+ 
+
+515
+00:11:30,700 --> 00:11:33,150
+penalties when he enters the cults
+temple a suspicious priestess cast
+
+516
+00:11:33,150 --> 00:11:33,160
+temple a suspicious priestess cast
+ 
+
+517
+00:11:33,160 --> 00:11:35,430
+temple a suspicious priestess cast
+detect alignment heightened the second
+
+518
+00:11:35,430 --> 00:11:35,440
+detect alignment heightened the second
+ 
+
+519
+00:11:35,440 --> 00:11:38,100
+detect alignment heightened the second
+level to locate anyone who might be good
+
+520
+00:11:38,100 --> 00:11:38,110
+level to locate anyone who might be good
+ 
+
+521
+00:11:38,110 --> 00:11:38,640
+level to locate anyone who might be good
+aligned
+
+522
+00:11:38,640 --> 00:11:38,650
+aligned
+ 
+
+523
+00:11:38,650 --> 00:11:43,620
+aligned
+she has a spell DC of 25 when she cast
+
+524
+00:11:43,620 --> 00:11:43,630
+she has a spell DC of 25 when she cast
+ 
+
+525
+00:11:43,630 --> 00:11:46,080
+she has a spell DC of 25 when she cast
+the spell Ezra's non detection spell
+
+526
+00:11:46,080 --> 00:11:46,090
+the spell Ezra's non detection spell
+ 
+
+527
+00:11:46,090 --> 00:11:48,960
+the spell Ezra's non detection spell
+attempts to counteract her detective
+
+528
+00:11:48,960 --> 00:11:48,970
+attempts to counteract her detective
+ 
+
+529
+00:11:48,970 --> 00:11:52,320
+attempts to counteract her detective
+Louisville as before let's make sure we
+
+530
+00:11:52,320 --> 00:11:52,330
+Louisville as before let's make sure we
+ 
+
+531
+00:11:52,330 --> 00:11:54,560
+Louisville as before let's make sure we
+have the four key bits of information
+
+532
+00:11:54,560 --> 00:11:54,570
+have the four key bits of information
+ 
+
+533
+00:11:54,570 --> 00:11:57,660
+have the four key bits of information
+the priestesses spell DC is twenty five
+
+534
+00:11:57,660 --> 00:11:57,670
+the priestesses spell DC is twenty five
+ 
+
+535
+00:11:57,670 --> 00:12:00,330
+the priestesses spell DC is twenty five
+so unless there are any special bonuses
+
+536
+00:12:00,330 --> 00:12:00,340
+so unless there are any special bonuses
+ 
+
+537
+00:12:00,340 --> 00:12:02,370
+so unless there are any special bonuses
+or penalties included in that her
+
+538
+00:12:02,370 --> 00:12:02,380
+or penalties included in that her
+ 
+
+539
+00:12:02,380 --> 00:12:05,820
+or penalties included in that her
+counteract DC will also be 25 and she
+
+540
+00:12:05,820 --> 00:12:05,830
+counteract DC will also be 25 and she
+ 
+
+541
+00:12:05,830 --> 00:12:07,950
+counteract DC will also be 25 and she
+cast to take magic heightened to second
+
+542
+00:12:07,950 --> 00:12:07,960
+cast to take magic heightened to second
+ 
+
+543
+00:12:07,960 --> 00:12:11,450
+cast to take magic heightened to second
+level so her counteract level is two
+
+544
+00:12:11,450 --> 00:12:11,460
+level so her counteract level is two
+ 
+
+545
+00:12:11,460 --> 00:12:14,510
+level so her counteract level is two
+limbs spell attack bonus is plus 19
+
+546
+00:12:14,510 --> 00:12:14,520
+limbs spell attack bonus is plus 19
+ 
+
+547
+00:12:14,520 --> 00:12:16,830
+limbs spell attack bonus is plus 19
+therefore again barring any special
+
+548
+00:12:16,830 --> 00:12:16,840
+therefore again barring any special
+ 
+
+549
+00:12:16,840 --> 00:12:19,440
+therefore again barring any special
+modifiers his counteract modifier will
+
+550
+00:12:19,440 --> 00:12:19,450
+modifiers his counteract modifier will
+ 
+
+551
+00:12:19,450 --> 00:12:23,340
+modifiers his counteract modifier will
+also be 19 any cast is non detection
+
+552
+00:12:23,340 --> 00:12:23,350
+also be 19 any cast is non detection
+ 
+
+553
+00:12:23,350 --> 00:12:24,570
+also be 19 any cast is non detection
+spell heightened a fifth level
+
+554
+00:12:24,570 --> 00:12:24,580
+spell heightened a fifth level
+ 
+
+555
+00:12:24,580 --> 00:12:29,400
+spell heightened a fifth level
+so his counteract level is 5 limb rolls
+
+556
+00:12:29,400 --> 00:12:29,410
+so his counteract level is 5 limb rolls
+ 
+
+557
+00:12:29,410 --> 00:12:32,820
+so his counteract level is 5 limb rolls
+120 + 19 and compares the result to the
+
+558
+00:12:32,820 --> 00:12:32,830
+120 + 19 and compares the result to the
+ 
+
+559
+00:12:32,830 --> 00:12:36,120
+120 + 19 and compares the result to the
+counteract DC of 25 which is very
+
+560
+00:12:36,120 --> 00:12:36,130
+counteract DC of 25 which is very
+ 
+
+561
+00:12:36,130 --> 00:12:38,400
+counteract DC of 25 which is very
+promising for him but the really good
+
+562
+00:12:38,400 --> 00:12:38,410
+promising for him but the really good
+ 
+
+563
+00:12:38,410 --> 00:12:40,620
+promising for him but the really good
+news here is since his counteract level
+
+564
+00:12:40,620 --> 00:12:40,630
+news here is since his counteract level
+ 
+
+565
+00:12:40,630 --> 00:12:43,590
+news here is since his counteract level
+is higher than the priestesses then the
+
+566
+00:12:43,590 --> 00:12:43,600
+is higher than the priestesses then the
+ 
+
+567
+00:12:43,600 --> 00:12:46,920
+is higher than the priestesses then the
+only way he can fail is by rolling a
+
+568
+00:12:46,920 --> 00:12:46,930
+only way he can fail is by rolling a
+ 
+
+569
+00:12:46,930 --> 00:12:50,430
+only way he can fail is by rolling a
+critical failure remember if your
+
+570
+00:12:50,430 --> 00:12:50,440
+critical failure remember if your
+ 
+
+571
+00:12:50,440 --> 00:12:53,070
+critical failure remember if your
+counteract level is higher than the
+
+572
+00:12:53,070 --> 00:12:53,080
+counteract level is higher than the
+ 
+
+573
+00:12:53,080 --> 00:12:54,420
+counteract level is higher than the
+effect that you are attempting to
+
+574
+00:12:54,420 --> 00:12:54,430
+effect that you are attempting to
+ 
+
+575
+00:12:54,430 --> 00:12:56,790
+effect that you are attempting to
+counteract then you will still succeed
+
+576
+00:12:56,790 --> 00:12:56,800
+counteract then you will still succeed
+ 
+
+577
+00:12:56,800 --> 00:12:59,430
+counteract then you will still succeed
+with counteracting it even when you fail
+
+578
+00:12:59,430 --> 00:12:59,440
+with counteracting it even when you fail
+ 
+
+579
+00:12:59,440 --> 00:13:02,160
+with counteracting it even when you fail
+the counteract check the only way to
+
+580
+00:13:02,160 --> 00:13:02,170
+the counteract check the only way to
+ 
+
+581
+00:13:02,170 --> 00:13:04,200
+the counteract check the only way to
+truly fail when you're counteracting
+
+582
+00:13:04,200 --> 00:13:04,210
+truly fail when you're counteracting
+ 
+
+583
+00:13:04,210 --> 00:13:06,690
+truly fail when you're counteracting
+level is higher is to critically fail to
+
+584
+00:13:06,690 --> 00:13:06,700
+level is higher is to critically fail to
+ 
+
+585
+00:13:06,700 --> 00:13:08,840
+level is higher is to critically fail to
+check
+
+586
+00:13:08,840 --> 00:13:08,850
+check
+ 
+
+587
+00:13:08,850 --> 00:13:11,840
+check
+and in our less example valorous is
+
+588
+00:13:11,840 --> 00:13:11,850
+and in our less example valorous is
+ 
+
+589
+00:13:11,850 --> 00:13:14,230
+and in our less example valorous is
+wielding a frost brand greatsword and
+
+590
+00:13:14,230 --> 00:13:14,240
+wielding a frost brand greatsword and
+ 
+
+591
+00:13:14,240 --> 00:13:16,309
+wielding a frost brand greatsword and
+accidentally triggers a track that
+
+592
+00:13:16,309 --> 00:13:16,319
+accidentally triggers a track that
+ 
+
+593
+00:13:16,319 --> 00:13:20,120
+accidentally triggers a track that
+produces a wall of fire in his path one
+
+594
+00:13:20,120 --> 00:13:20,130
+produces a wall of fire in his path one
+ 
+
+595
+00:13:20,130 --> 00:13:21,949
+produces a wall of fire in his path one
+of the special properties of a frost
+
+596
+00:13:21,949 --> 00:13:21,959
+of the special properties of a frost
+ 
+
+597
+00:13:21,959 --> 00:13:24,259
+of the special properties of a frost
+brand sword is that it can be used to
+
+598
+00:13:24,259 --> 00:13:24,269
+brand sword is that it can be used to
+ 
+
+599
+00:13:24,269 --> 00:13:27,769
+brand sword is that it can be used to
+counteract magical fire doing so costs
+
+600
+00:13:27,769 --> 00:13:27,779
+counteract magical fire doing so costs
+ 
+
+601
+00:13:27,779 --> 00:13:30,590
+counteract magical fire doing so costs
+two actions and then valorous roles a
+
+602
+00:13:30,590 --> 00:13:30,600
+two actions and then valorous roles a
+ 
+
+603
+00:13:30,600 --> 00:13:32,660
+two actions and then valorous roles a
+counter act check against the wall of
+
+604
+00:13:32,660 --> 00:13:32,670
+counter act check against the wall of
+ 
+
+605
+00:13:32,670 --> 00:13:36,410
+counter act check against the wall of
+fire the sword stat block shows us that
+
+606
+00:13:36,410 --> 00:13:36,420
+fire the sword stat block shows us that
+ 
+
+607
+00:13:36,420 --> 00:13:39,680
+fire the sword stat block shows us that
+his counteract modifier is plus 27 and
+
+608
+00:13:39,680 --> 00:13:39,690
+his counteract modifier is plus 27 and
+ 
+
+609
+00:13:39,690 --> 00:13:42,710
+his counteract modifier is plus 27 and
+that is not further modified to you you
+
+610
+00:13:42,710 --> 00:13:42,720
+that is not further modified to you you
+ 
+
+611
+00:13:42,720 --> 00:13:45,249
+that is not further modified to you you
+don't add Valor as a strength bonus or
+
+612
+00:13:45,249 --> 00:13:45,259
+don't add Valor as a strength bonus or
+ 
+
+613
+00:13:45,259 --> 00:13:48,019
+don't add Valor as a strength bonus or
+character level or proficiency bonus for
+
+614
+00:13:48,019 --> 00:13:48,029
+character level or proficiency bonus for
+ 
+
+615
+00:13:48,029 --> 00:13:50,809
+character level or proficiency bonus for
+great swords or anything else is just a
+
+616
+00:13:50,809 --> 00:13:50,819
+great swords or anything else is just a
+ 
+
+617
+00:13:50,819 --> 00:13:54,319
+great swords or anything else is just a
+straight-up plus 27 that's easy enough
+
+618
+00:13:54,319 --> 00:13:54,329
+straight-up plus 27 that's easy enough
+ 
+
+619
+00:13:54,329 --> 00:13:56,660
+straight-up plus 27 that's easy enough
+but next we need to know what valorous
+
+620
+00:13:56,660 --> 00:13:56,670
+but next we need to know what valorous
+ 
+
+621
+00:13:56,670 --> 00:13:59,660
+but next we need to know what valorous
+is counteract level is unlike the
+
+622
+00:13:59,660 --> 00:13:59,670
+is counteract level is unlike the
+ 
+
+623
+00:13:59,670 --> 00:14:01,819
+is counteract level is unlike the
+counteract modifier there's nothing in
+
+624
+00:14:01,819 --> 00:14:01,829
+counteract modifier there's nothing in
+ 
+
+625
+00:14:01,829 --> 00:14:04,069
+counteract modifier there's nothing in
+the frost brand stat block that shows
+
+626
+00:14:04,069 --> 00:14:04,079
+the frost brand stat block that shows
+ 
+
+627
+00:14:04,079 --> 00:14:07,790
+the frost brand stat block that shows
+specifically it's counteract level but
+
+628
+00:14:07,790 --> 00:14:07,800
+specifically it's counteract level but
+ 
+
+629
+00:14:07,800 --> 00:14:10,340
+specifically it's counteract level but
+the good news is this will be really
+
+630
+00:14:10,340 --> 00:14:10,350
+the good news is this will be really
+ 
+
+631
+00:14:10,350 --> 00:14:12,980
+the good news is this will be really
+easy to calculate when the item or
+
+632
+00:14:12,980 --> 00:14:12,990
+easy to calculate when the item or
+ 
+
+633
+00:14:12,990 --> 00:14:14,809
+easy to calculate when the item or
+ability that is allowing you to make a
+
+634
+00:14:14,809 --> 00:14:14,819
+ability that is allowing you to make a
+ 
+
+635
+00:14:14,819 --> 00:14:17,480
+ability that is allowing you to make a
+counteract check is naughty spell and
+
+636
+00:14:17,480 --> 00:14:17,490
+counteract check is naughty spell and
+ 
+
+637
+00:14:17,490 --> 00:14:19,939
+counteract check is naughty spell and
+does not provide a counteract level in
+
+638
+00:14:19,939 --> 00:14:19,949
+does not provide a counteract level in
+ 
+
+639
+00:14:19,949 --> 00:14:22,490
+does not provide a counteract level in
+its description then you calculate it by
+
+640
+00:14:22,490 --> 00:14:22,500
+its description then you calculate it by
+ 
+
+641
+00:14:22,500 --> 00:14:25,129
+its description then you calculate it by
+dividing that items level at half and
+
+642
+00:14:25,129 --> 00:14:25,139
+dividing that items level at half and
+ 
+
+643
+00:14:25,139 --> 00:14:29,240
+dividing that items level at half and
+rounding up this is 1/16 level sword so
+
+644
+00:14:29,240 --> 00:14:29,250
+rounding up this is 1/16 level sword so
+ 
+
+645
+00:14:29,250 --> 00:14:32,920
+rounding up this is 1/16 level sword so
+is count direct level is 1/2 that or 8
+
+646
+00:14:32,920 --> 00:14:32,930
+is count direct level is 1/2 that or 8
+ 
+
+647
+00:14:32,930 --> 00:14:35,379
+is count direct level is 1/2 that or 8
+now let's think about the wall of fire
+
+648
+00:14:35,379 --> 00:14:35,389
+now let's think about the wall of fire
+ 
+
+649
+00:14:35,389 --> 00:14:38,179
+now let's think about the wall of fire
+we'll say the wizard who built the trap
+
+650
+00:14:38,179 --> 00:14:38,189
+we'll say the wizard who built the trap
+ 
+
+651
+00:14:38,189 --> 00:14:41,540
+we'll say the wizard who built the trap
+really wanted to keep people out so he
+
+652
+00:14:41,540 --> 00:14:41,550
+really wanted to keep people out so he
+ 
+
+653
+00:14:41,550 --> 00:14:43,429
+really wanted to keep people out so he
+heightened the wall of fire spell to
+
+654
+00:14:43,429 --> 00:14:43,439
+heightened the wall of fire spell to
+ 
+
+655
+00:14:43,439 --> 00:14:45,889
+heightened the wall of fire spell to
+ninth level which also means the
+
+656
+00:14:45,889 --> 00:14:45,899
+ninth level which also means the
+ 
+
+657
+00:14:45,899 --> 00:14:49,490
+ninth level which also means the
+counteract level is 9 as for the counter
+
+658
+00:14:49,490 --> 00:14:49,500
+counteract level is 9 as for the counter
+ 
+
+659
+00:14:49,500 --> 00:14:51,800
+counteract level is 9 as for the counter
+act DC he had to be a pretty powerful
+
+660
+00:14:51,800 --> 00:14:51,810
+act DC he had to be a pretty powerful
+ 
+
+661
+00:14:51,810 --> 00:14:54,439
+act DC he had to be a pretty powerful
+wizard to cast in ninth level spells so
+
+662
+00:14:54,439 --> 00:14:54,449
+wizard to cast in ninth level spells so
+ 
+
+663
+00:14:54,449 --> 00:14:56,809
+wizard to cast in ninth level spells so
+the geums tests the traps creator out as
+
+664
+00:14:56,809 --> 00:14:56,819
+the geums tests the traps creator out as
+ 
+
+665
+00:14:56,819 --> 00:15:00,410
+the geums tests the traps creator out as
+a 17th level wizard with a base spell DC
+
+666
+00:15:00,410 --> 00:15:00,420
+a 17th level wizard with a base spell DC
+ 
+
+667
+00:15:00,420 --> 00:15:02,590
+a 17th level wizard with a base spell DC
+of 38
+
+668
+00:15:02,590 --> 00:15:02,600
+of 38
+ 
+
+669
+00:15:02,600 --> 00:15:05,470
+of 38
+Valeria spins to actions and strikes the
+
+670
+00:15:05,470 --> 00:15:05,480
+Valeria spins to actions and strikes the
+ 
+
+671
+00:15:05,480 --> 00:15:08,440
+Valeria spins to actions and strikes the
+wall of fire with his frostburn sword he
+
+672
+00:15:08,440 --> 00:15:08,450
+wall of fire with his frostburn sword he
+ 
+
+673
+00:15:08,450 --> 00:15:11,290
+wall of fire with his frostburn sword he
+rolls a counter check of one day 20 plus
+
+674
+00:15:11,290 --> 00:15:11,300
+rolls a counter check of one day 20 plus
+ 
+
+675
+00:15:11,300 --> 00:15:14,560
+rolls a counter check of one day 20 plus
+27 because the wall of fires counteract
+
+676
+00:15:14,560 --> 00:15:14,570
+27 because the wall of fires counteract
+ 
+
+677
+00:15:14,570 --> 00:15:17,290
+27 because the wall of fires counteract
+level is when higher than valorizes he
+
+678
+00:15:17,290 --> 00:15:17,300
+level is when higher than valorizes he
+ 
+
+679
+00:15:17,300 --> 00:15:20,950
+level is when higher than valorizes he
+needs to roll an 11 or higher on the die
+
+680
+00:15:20,950 --> 00:15:20,960
+needs to roll an 11 or higher on the die
+ 
+
+681
+00:15:20,960 --> 00:15:23,470
+needs to roll an 11 or higher on the die
+in order to destroy the wall of fire if
+
+682
+00:15:23,470 --> 00:15:23,480
+in order to destroy the wall of fire if
+ 
+
+683
+00:15:23,480 --> 00:15:27,760
+in order to destroy the wall of fire if
+he rolls a 10 or lure that he fails and
+
+684
+00:15:27,760 --> 00:15:27,770
+he rolls a 10 or lure that he fails and
+ 
+
+685
+00:15:27,770 --> 00:15:29,650
+he rolls a 10 or lure that he fails and
+may not attempt to counteract the same
+
+686
+00:15:29,650 --> 00:15:29,660
+may not attempt to counteract the same
+ 
+
+687
+00:15:29,660 --> 00:15:32,870
+may not attempt to counteract the same
+wall of fire again
+
+688
+00:15:32,870 --> 00:15:32,880
+
+ 
+
+689
+00:15:32,880 --> 00:15:35,240
+
+all right how will about a little bit of
+
+690
+00:15:35,240 --> 00:15:35,250
+all right how will about a little bit of
+ 
+
+691
+00:15:35,250 --> 00:15:37,400
+all right how will about a little bit of
+homework here's a problem for you to
+
+692
+00:15:37,400 --> 00:15:37,410
+homework here's a problem for you to
+ 
+
+693
+00:15:37,410 --> 00:15:39,319
+homework here's a problem for you to
+work out on your own and feel free to
+
+694
+00:15:39,319 --> 00:15:39,329
+work out on your own and feel free to
+ 
+
+695
+00:15:39,329 --> 00:15:41,150
+work out on your own and feel free to
+leave a note in the common area with
+
+696
+00:15:41,150 --> 00:15:41,160
+leave a note in the common area with
+ 
+
+697
+00:15:41,160 --> 00:15:43,189
+leave a note in the common area with
+your answer and any questions you might
+
+698
+00:15:43,189 --> 00:15:43,199
+your answer and any questions you might
+ 
+
+699
+00:15:43,199 --> 00:15:46,639
+your answer and any questions you might
+have while battling a kobold wizard
+
+700
+00:15:46,639 --> 00:15:46,649
+have while battling a kobold wizard
+ 
+
+701
+00:15:46,649 --> 00:15:49,400
+have while battling a kobold wizard
+maurizio falls victim to the feeble mind
+
+702
+00:15:49,400 --> 00:15:49,410
+maurizio falls victim to the feeble mind
+ 
+
+703
+00:15:49,410 --> 00:15:52,519
+maurizio falls victim to the feeble mind
+spell it was cast using a sixth level
+
+704
+00:15:52,519 --> 00:15:52,529
+spell it was cast using a sixth level
+ 
+
+705
+00:15:52,529 --> 00:15:56,269
+spell it was cast using a sixth level
+spell slot the kobold who casted is 11th
+
+706
+00:15:56,269 --> 00:15:56,279
+spell slot the kobold who casted is 11th
+ 
+
+707
+00:15:56,279 --> 00:15:59,540
+spell slot the kobold who casted is 11th
+level has an intelligent score of 16 and
+
+708
+00:15:59,540 --> 00:15:59,550
+level has an intelligent score of 16 and
+ 
+
+709
+00:15:59,550 --> 00:16:02,240
+level has an intelligent score of 16 and
+expert proficiency with arcane spell
+
+710
+00:16:02,240 --> 00:16:02,250
+expert proficiency with arcane spell
+ 
+
+711
+00:16:02,250 --> 00:16:05,540
+expert proficiency with arcane spell
+attacks Kyra attempts to counteract the
+
+712
+00:16:05,540 --> 00:16:05,550
+attacks Kyra attempts to counteract the
+ 
+
+713
+00:16:05,550 --> 00:16:08,240
+attacks Kyra attempts to counteract the
+effects of feeble mind by casting remove
+
+714
+00:16:08,240 --> 00:16:08,250
+effects of feeble mind by casting remove
+ 
+
+715
+00:16:08,250 --> 00:16:12,590
+effects of feeble mind by casting remove
+curse on Marissa Kyra is 11th level has
+
+716
+00:16:12,590 --> 00:16:12,600
+curse on Marissa Kyra is 11th level has
+ 
+
+717
+00:16:12,600 --> 00:16:15,499
+curse on Marissa Kyra is 11th level has
+a wisdom score of 20 and expert
+
+718
+00:16:15,499 --> 00:16:15,509
+a wisdom score of 20 and expert
+ 
+
+719
+00:16:15,509 --> 00:16:17,470
+a wisdom score of 20 and expert
+proficiency with divine spell attacks
+
+720
+00:16:17,470 --> 00:16:17,480
+proficiency with divine spell attacks
+ 
+
+721
+00:16:17,480 --> 00:16:20,240
+proficiency with divine spell attacks
+she is casting remove curse with a
+
+722
+00:16:20,240 --> 00:16:20,250
+she is casting remove curse with a
+ 
+
+723
+00:16:20,250 --> 00:16:24,050
+she is casting remove curse with a
+fourth level spell slot so the questions
+
+724
+00:16:24,050 --> 00:16:24,060
+fourth level spell slot so the questions
+ 
+
+725
+00:16:24,060 --> 00:16:26,329
+fourth level spell slot so the questions
+for this homework assignment are what
+
+726
+00:16:26,329 --> 00:16:26,339
+for this homework assignment are what
+ 
+
+727
+00:16:26,339 --> 00:16:28,939
+for this homework assignment are what
+are the feeble mind spells counteract DC
+
+728
+00:16:28,939 --> 00:16:28,949
+are the feeble mind spells counteract DC
+ 
+
+729
+00:16:28,949 --> 00:16:32,290
+are the feeble mind spells counteract DC
+and that spells counteract level and
+
+730
+00:16:32,290 --> 00:16:32,300
+and that spells counteract level and
+ 
+
+731
+00:16:32,300 --> 00:16:35,210
+and that spells counteract level and
+what are Kyra's contract modifier and
+
+732
+00:16:35,210 --> 00:16:35,220
+what are Kyra's contract modifier and
+ 
+
+733
+00:16:35,220 --> 00:16:38,929
+what are Kyra's contract modifier and
+her contract level and last when Kyra
+
+734
+00:16:38,929 --> 00:16:38,939
+her contract level and last when Kyra
+ 
+
+735
+00:16:38,939 --> 00:16:41,300
+her contract level and last when Kyra
+rolls her counter I check what is the
+
+736
+00:16:41,300 --> 00:16:41,310
+rolls her counter I check what is the
+ 
+
+737
+00:16:41,310 --> 00:16:44,300
+rolls her counter I check what is the
+minimum number needed on the die for her
+
+738
+00:16:44,300 --> 00:16:44,310
+minimum number needed on the die for her
+ 
+
+739
+00:16:44,310 --> 00:16:46,660
+minimum number needed on the die for her
+to remove the curse from arisia
+
+740
+00:16:46,660 --> 00:16:46,670
+to remove the curse from arisia
+ 
+
+741
+00:16:46,670 --> 00:16:49,759
+to remove the curse from arisia
+think about that for a moment leave your
+
+742
+00:16:49,759 --> 00:16:49,769
+think about that for a moment leave your
+ 
+
+743
+00:16:49,769 --> 00:16:51,920
+think about that for a moment leave your
+answer in the comments section and you
+
+744
+00:16:51,920 --> 00:16:51,930
+answer in the comments section and you
+ 
+
+745
+00:16:51,930 --> 00:16:53,870
+answer in the comments section and you
+might want to pause the screen now
+
+746
+00:16:53,870 --> 00:16:53,880
+might want to pause the screen now
+ 
+
+747
+00:16:53,880 --> 00:16:58,580
+might want to pause the screen now
+before we move on to the summary
+
+748
+00:16:58,580 --> 00:16:58,590
+
+ 
+
+749
+00:16:58,590 --> 00:17:01,269
+
+in this video we discussed counteracting
+
+750
+00:17:01,269 --> 00:17:01,279
+in this video we discussed counteracting
+ 
+
+751
+00:17:01,279 --> 00:17:03,470
+in this video we discussed counteracting
+counteracting occurs when one effect
+
+752
+00:17:03,470 --> 00:17:03,480
+counteracting occurs when one effect
+ 
+
+753
+00:17:03,480 --> 00:17:06,679
+counteracting occurs when one effect
+attempts to undo another effect both of
+
+754
+00:17:06,679 --> 00:17:06,689
+attempts to undo another effect both of
+ 
+
+755
+00:17:06,689 --> 00:17:09,470
+attempts to undo another effect both of
+which are usually magical when a
+
+756
+00:17:09,470 --> 00:17:09,480
+which are usually magical when a
+ 
+
+757
+00:17:09,480 --> 00:17:11,660
+which are usually magical when a
+character counteracts an effect they
+
+758
+00:17:11,660 --> 00:17:11,670
+character counteracts an effect they
+ 
+
+759
+00:17:11,670 --> 00:17:14,960
+character counteracts an effect they
+must roll a counteract check often the
+
+760
+00:17:14,960 --> 00:17:14,970
+must roll a counteract check often the
+ 
+
+761
+00:17:14,970 --> 00:17:16,460
+must roll a counteract check often the
+bonus the character applies to their
+
+762
+00:17:16,460 --> 00:17:16,470
+bonus the character applies to their
+ 
+
+763
+00:17:16,470 --> 00:17:18,860
+bonus the character applies to their
+role is provided by the step block of
+
+764
+00:17:18,860 --> 00:17:18,870
+role is provided by the step block of
+ 
+
+765
+00:17:18,870 --> 00:17:21,350
+role is provided by the step block of
+whatever item or ability they are using
+
+766
+00:17:21,350 --> 00:17:21,360
+whatever item or ability they are using
+ 
+
+767
+00:17:21,360 --> 00:17:23,720
+whatever item or ability they are using
+for the counteract attempt if the
+
+768
+00:17:23,720 --> 00:17:23,730
+for the counteract attempt if the
+ 
+
+769
+00:17:23,730 --> 00:17:26,210
+for the counteract attempt if the
+character is casting a spell then their
+
+770
+00:17:26,210 --> 00:17:26,220
+character is casting a spell then their
+ 
+
+771
+00:17:26,220 --> 00:17:28,340
+character is casting a spell then their
+counteract modifier is calculated as
+
+772
+00:17:28,340 --> 00:17:28,350
+counteract modifier is calculated as
+ 
+
+773
+00:17:28,350 --> 00:17:32,030
+counteract modifier is calculated as
+spell casting ability modifier + spell
+
+774
+00:17:32,030 --> 00:17:32,040
+spell casting ability modifier + spell
+ 
+
+775
+00:17:32,040 --> 00:17:35,060
+spell casting ability modifier + spell
+casting proficiency bonus this is the
+
+776
+00:17:35,060 --> 00:17:35,070
+casting proficiency bonus this is the
+ 
+
+777
+00:17:35,070 --> 00:17:37,610
+casting proficiency bonus this is the
+same base calculation as spell attack
+
+778
+00:17:37,610 --> 00:17:37,620
+same base calculation as spell attack
+ 
+
+779
+00:17:37,620 --> 00:17:40,400
+same base calculation as spell attack
+bonus but may differ from the character
+
+780
+00:17:40,400 --> 00:17:40,410
+bonus but may differ from the character
+ 
+
+781
+00:17:40,410 --> 00:17:42,980
+bonus but may differ from the character
+spell attack bonus because the base
+
+782
+00:17:42,980 --> 00:17:42,990
+spell attack bonus because the base
+ 
+
+783
+00:17:42,990 --> 00:17:45,980
+spell attack bonus because the base
+counteract modifier is only further
+
+784
+00:17:45,980 --> 00:17:45,990
+counteract modifier is only further
+ 
+
+785
+00:17:45,990 --> 00:17:48,550
+counteract modifier is only further
+adjusted by bonuses and penalties that
+
+786
+00:17:48,550 --> 00:17:48,560
+adjusted by bonuses and penalties that
+ 
+
+787
+00:17:48,560 --> 00:17:51,110
+adjusted by bonuses and penalties that
+specifically affect counteract checks
+
+788
+00:17:51,110 --> 00:17:51,120
+specifically affect counteract checks
+ 
+
+789
+00:17:51,120 --> 00:17:53,990
+specifically affect counteract checks
+and not by any circumstance that would
+
+790
+00:17:53,990 --> 00:17:54,000
+and not by any circumstance that would
+ 
+
+791
+00:17:54,000 --> 00:17:57,470
+and not by any circumstance that would
+modify a spell attacker all the
+
+792
+00:17:57,470 --> 00:17:57,480
+modify a spell attacker all the
+ 
+
+793
+00:17:57,480 --> 00:17:59,360
+modify a spell attacker all the
+counteract check is challenged by the
+
+794
+00:17:59,360 --> 00:17:59,370
+counteract check is challenged by the
+ 
+
+795
+00:17:59,370 --> 00:18:02,840
+counteract check is challenged by the
+target effects counteracted ec if the
+
+796
+00:18:02,840 --> 00:18:02,850
+target effects counteracted ec if the
+ 
+
+797
+00:18:02,850 --> 00:18:05,510
+target effects counteracted ec if the
+effect being negated is a spell then the
+
+798
+00:18:05,510 --> 00:18:05,520
+effect being negated is a spell then the
+ 
+
+799
+00:18:05,520 --> 00:18:08,030
+effect being negated is a spell then the
+counter act DC will be equal to the
+
+800
+00:18:08,030 --> 00:18:08,040
+counter act DC will be equal to the
+ 
+
+801
+00:18:08,040 --> 00:18:10,370
+counter act DC will be equal to the
+spell DC of the creature who cast the
+
+802
+00:18:10,370 --> 00:18:10,380
+spell DC of the creature who cast the
+ 
+
+803
+00:18:10,380 --> 00:18:14,419
+spell DC of the creature who cast the
+spell in spell DC is equal to 10 plus
+
+804
+00:18:14,419 --> 00:18:14,429
+spell in spell DC is equal to 10 plus
+ 
+
+805
+00:18:14,429 --> 00:18:18,169
+spell in spell DC is equal to 10 plus
+that character's spell attack bonus you
+
+806
+00:18:18,169 --> 00:18:18,179
+that character's spell attack bonus you
+ 
+
+807
+00:18:18,179 --> 00:18:20,360
+that character's spell attack bonus you
+also need to know the counteract level
+
+808
+00:18:20,360 --> 00:18:20,370
+also need to know the counteract level
+ 
+
+809
+00:18:20,370 --> 00:18:23,060
+also need to know the counteract level
+of both the targeted effect and the
+
+810
+00:18:23,060 --> 00:18:23,070
+of both the targeted effect and the
+ 
+
+811
+00:18:23,070 --> 00:18:24,290
+of both the targeted effect and the
+character who is attempting to
+
+812
+00:18:24,290 --> 00:18:24,300
+character who is attempting to
+ 
+
+813
+00:18:24,300 --> 00:18:26,050
+character who is attempting to
+counteract that effect
+
+814
+00:18:26,050 --> 00:18:26,060
+counteract that effect
+ 
+
+815
+00:18:26,060 --> 00:18:28,669
+counteract that effect
+again this is often provided by step
+
+816
+00:18:28,669 --> 00:18:28,679
+again this is often provided by step
+ 
+
+817
+00:18:28,679 --> 00:18:31,520
+again this is often provided by step
+blocks but if it is not then there are a
+
+818
+00:18:31,520 --> 00:18:31,530
+blocks but if it is not then there are a
+ 
+
+819
+00:18:31,530 --> 00:18:34,820
+blocks but if it is not then there are a
+couple ways to calculate it first if a
+
+820
+00:18:34,820 --> 00:18:34,830
+couple ways to calculate it first if a
+ 
+
+821
+00:18:34,830 --> 00:18:37,310
+couple ways to calculate it first if a
+spell is being used its counteract level
+
+822
+00:18:37,310 --> 00:18:37,320
+spell is being used its counteract level
+ 
+
+823
+00:18:37,320 --> 00:18:40,340
+spell is being used its counteract level
+is equal to that spells spell level and
+
+824
+00:18:40,340 --> 00:18:40,350
+is equal to that spells spell level and
+ 
+
+825
+00:18:40,350 --> 00:18:43,130
+is equal to that spells spell level and
+if an item is being used you can
+
+826
+00:18:43,130 --> 00:18:43,140
+if an item is being used you can
+ 
+
+827
+00:18:43,140 --> 00:18:45,620
+if an item is being used you can
+calculate as counter at level as one
+
+828
+00:18:45,620 --> 00:18:45,630
+calculate as counter at level as one
+ 
+
+829
+00:18:45,630 --> 00:18:49,580
+calculate as counter at level as one
+half of its item level rounded up if the
+
+830
+00:18:49,580 --> 00:18:49,590
+half of its item level rounded up if the
+ 
+
+831
+00:18:49,590 --> 00:18:51,919
+half of its item level rounded up if the
+counter act check is equal to or higher
+
+832
+00:18:51,919 --> 00:18:51,929
+counter act check is equal to or higher
+ 
+
+833
+00:18:51,929 --> 00:18:55,370
+counter act check is equal to or higher
+than the counter act DC then it negates
+
+834
+00:18:55,370 --> 00:18:55,380
+than the counter act DC then it negates
+ 
+
+835
+00:18:55,380 --> 00:18:57,740
+than the counter act DC then it negates
+the targeted effect as long as the
+
+836
+00:18:57,740 --> 00:18:57,750
+the targeted effect as long as the
+ 
+
+837
+00:18:57,750 --> 00:19:00,650
+the targeted effect as long as the
+targets count drac level is no more than
+
+838
+00:19:00,650 --> 00:19:00,660
+targets count drac level is no more than
+ 
+
+839
+00:19:00,660 --> 00:19:03,970
+targets count drac level is no more than
+one higher than their contract level
+
+840
+00:19:03,970 --> 00:19:03,980
+one higher than their contract level
+ 
+
+841
+00:19:03,980 --> 00:19:06,280
+one higher than their contract level
+if the counter I check is a critical
+
+842
+00:19:06,280 --> 00:19:06,290
+if the counter I check is a critical
+ 
+
+843
+00:19:06,290 --> 00:19:08,710
+if the counter I check is a critical
+success then it negates the targets
+
+844
+00:19:08,710 --> 00:19:08,720
+success then it negates the targets
+ 
+
+845
+00:19:08,720 --> 00:19:11,260
+success then it negates the targets
+effect as long as the targets contract
+
+846
+00:19:11,260 --> 00:19:11,270
+effect as long as the targets contract
+ 
+
+847
+00:19:11,270 --> 00:19:14,530
+effect as long as the targets contract
+level is no more than three higher than
+
+848
+00:19:14,530 --> 00:19:14,540
+level is no more than three higher than
+ 
+
+849
+00:19:14,540 --> 00:19:17,620
+level is no more than three higher than
+their contract level if the counteract
+
+850
+00:19:17,620 --> 00:19:17,630
+their contract level if the counteract
+ 
+
+851
+00:19:17,630 --> 00:19:20,140
+their contract level if the counteract
+check is a failure then they still
+
+852
+00:19:20,140 --> 00:19:20,150
+check is a failure then they still
+ 
+
+853
+00:19:20,150 --> 00:19:22,480
+check is a failure then they still
+succeed in negating the targeted effect
+
+854
+00:19:22,480 --> 00:19:22,490
+succeed in negating the targeted effect
+ 
+
+855
+00:19:22,490 --> 00:19:25,360
+succeed in negating the targeted effect
+as long as the targets contract level is
+
+856
+00:19:25,360 --> 00:19:25,370
+as long as the targets contract level is
+ 
+
+857
+00:19:25,370 --> 00:19:29,440
+as long as the targets contract level is
+lower than their counteract level and on
+
+858
+00:19:29,440 --> 00:19:29,450
+lower than their counteract level and on
+ 
+
+859
+00:19:29,450 --> 00:19:31,990
+lower than their counteract level and on
+a critical failure they fail to negate
+
+860
+00:19:31,990 --> 00:19:32,000
+a critical failure they fail to negate
+ 
+
+861
+00:19:32,000 --> 00:19:34,539
+a critical failure they fail to negate
+the target effect regardless of any
+
+862
+00:19:34,539 --> 00:19:34,549
+the target effect regardless of any
+ 
+
+863
+00:19:34,549 --> 00:19:38,000
+the target effect regardless of any
+counteract levels
+
+864
+00:19:38,000 --> 00:19:38,010
+counteract levels
+ 
+
+865
+00:19:38,010 --> 00:19:39,890
+counteract levels
+with that we'll bring this video to a
+
+866
+00:19:39,890 --> 00:19:39,900
+with that we'll bring this video to a
+ 
+
+867
+00:19:39,900 --> 00:19:41,990
+with that we'll bring this video to a
+close if you found this video helpful
+
+868
+00:19:41,990 --> 00:19:42,000
+close if you found this video helpful
+ 
+
+869
+00:19:42,000 --> 00:19:43,580
+close if you found this video helpful
+please give us a like and don't forget
+
+870
+00:19:43,580 --> 00:19:43,590
+please give us a like and don't forget
+ 
+
+871
+00:19:43,590 --> 00:19:45,380
+please give us a like and don't forget
+to click that subscribe button and the
+
+872
+00:19:45,380 --> 00:19:45,390
+to click that subscribe button and the
+ 
+
+873
+00:19:45,390 --> 00:19:46,970
+to click that subscribe button and the
+bell so you never miss out on our future
+
+874
+00:19:46,970 --> 00:19:46,980
+bell so you never miss out on our future
+ 
+
+875
+00:19:46,980 --> 00:19:49,310
+bell so you never miss out on our future
+videos leave us a comment letting us
+
+876
+00:19:49,310 --> 00:19:49,320
+videos leave us a comment letting us
+ 
+
+877
+00:19:49,320 --> 00:19:50,570
+videos leave us a comment letting us
+know what topics you'd like to see
+
+878
+00:19:50,570 --> 00:19:50,580
+know what topics you'd like to see
+ 
+
+879
+00:19:50,580 --> 00:19:52,669
+know what topics you'd like to see
+covered in our future videos and we can
+
+880
+00:19:52,669 --> 00:19:52,679
+covered in our future videos and we can
+ 
+
+881
+00:19:52,679 --> 00:19:53,810
+covered in our future videos and we can
+always be reached through our Twitter
+
+882
+00:19:53,810 --> 00:19:53,820
+always be reached through our Twitter
+ 
+
+883
+00:19:53,820 --> 00:19:56,510
+always be reached through our Twitter
+and Facebook pages too if you'd like to
+
+884
+00:19:56,510 --> 00:19:56,520
+and Facebook pages too if you'd like to
+ 
+
+885
+00:19:56,520 --> 00:19:58,010
+and Facebook pages too if you'd like to
+use some of the maps that we feature on
+
+886
+00:19:58,010 --> 00:19:58,020
+use some of the maps that we feature on
+ 
+
+887
+00:19:58,020 --> 00:19:59,810
+use some of the maps that we feature on
+our videos and your own games you can
+
+888
+00:19:59,810 --> 00:19:59,820
+our videos and your own games you can
+ 
+
+889
+00:19:59,820 --> 00:20:02,480
+our videos and your own games you can
+find them at maps of mastery a link to
+
+890
+00:20:02,480 --> 00:20:02,490
+find them at maps of mastery a link to
+ 
+
+891
+00:20:02,490 --> 00:20:03,799
+find them at maps of mastery a link to
+that store can be found in the
+
+892
+00:20:03,799 --> 00:20:03,809
+that store can be found in the
+ 
+
+893
+00:20:03,809 --> 00:20:06,560
+that store can be found in the
+description thanks for watching take
+
+894
+00:20:06,560 --> 00:20:06,570
+description thanks for watching take
+ 
+
+895
+00:20:06,570 --> 00:20:08,210
+description thanks for watching take
+care and we'll see you soon with more
+
+896
+00:20:08,210 --> 00:20:08,220
+care and we'll see you soon with more
+ 
+
+897
+00:20:08,220 --> 00:20:11,960
+care and we'll see you soon with more
+basics for your favorite tabletop games
+

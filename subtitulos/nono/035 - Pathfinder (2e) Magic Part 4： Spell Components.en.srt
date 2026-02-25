@@ -1,0 +1,3035 @@
+1
+00:00:01,120 --> 00:00:02,950
+
+hello and welcome to basics for gamers
+
+2
+00:00:02,950 --> 00:00:02,960
+hello and welcome to basics for gamers
+ 
+
+3
+00:00:02,960 --> 00:00:03,590
+hello and welcome to basics for gamers
+presents
+
+4
+00:00:03,590 --> 00:00:03,600
+presents
+ 
+
+5
+00:00:03,600 --> 00:00:05,910
+presents
+magic and pathfinder part 4 spell
+
+6
+00:00:05,910 --> 00:00:05,920
+magic and pathfinder part 4 spell
+ 
+
+7
+00:00:05,920 --> 00:00:08,790
+magic and pathfinder part 4 spell
+components
+
+8
+00:00:08,790 --> 00:00:08,800
+
+ 
+
+9
+00:00:08,800 --> 00:00:10,549
+
+spell components are sort of like the
+
+10
+00:00:10,549 --> 00:00:10,559
+spell components are sort of like the
+ 
+
+11
+00:00:10,559 --> 00:00:12,390
+spell components are sort of like the
+fuel a spell needs to work
+
+12
+00:00:12,390 --> 00:00:12,400
+fuel a spell needs to work
+ 
+
+13
+00:00:12,400 --> 00:00:15,110
+fuel a spell needs to work
+what exactly does the caster need to do
+
+14
+00:00:15,110 --> 00:00:15,120
+what exactly does the caster need to do
+ 
+
+15
+00:00:15,120 --> 00:00:17,109
+what exactly does the caster need to do
+in order to cast the spell
+
+16
+00:00:17,109 --> 00:00:17,119
+in order to cast the spell
+ 
+
+17
+00:00:17,119 --> 00:00:19,750
+in order to cast the spell
+there are four kinds of spell components
+
+18
+00:00:19,750 --> 00:00:19,760
+there are four kinds of spell components
+ 
+
+19
+00:00:19,760 --> 00:00:20,550
+there are four kinds of spell components
+material
+
+20
+00:00:20,550 --> 00:00:20,560
+material
+ 
+
+21
+00:00:20,560 --> 00:00:24,070
+material
+somatic verbal in focus material
+
+22
+00:00:24,070 --> 00:00:24,080
+somatic verbal in focus material
+ 
+
+23
+00:00:24,080 --> 00:00:25,830
+somatic verbal in focus material
+components are small amounts of a
+
+24
+00:00:25,830 --> 00:00:25,840
+components are small amounts of a
+ 
+
+25
+00:00:25,840 --> 00:00:27,830
+components are small amounts of a
+physical substance that are consumed and
+
+26
+00:00:27,830 --> 00:00:27,840
+physical substance that are consumed and
+ 
+
+27
+00:00:27,840 --> 00:00:29,830
+physical substance that are consumed and
+lost in the casting of a spell
+
+28
+00:00:29,830 --> 00:00:29,840
+lost in the casting of a spell
+ 
+
+29
+00:00:29,840 --> 00:00:31,589
+lost in the casting of a spell
+the caster must have a free hand to
+
+30
+00:00:31,589 --> 00:00:31,599
+the caster must have a free hand to
+ 
+
+31
+00:00:31,599 --> 00:00:33,110
+the caster must have a free hand to
+manipulate the material
+
+32
+00:00:33,110 --> 00:00:33,120
+manipulate the material
+ 
+
+33
+00:00:33,120 --> 00:00:35,750
+manipulate the material
+but doing so is included in the spell's
+
+34
+00:00:35,750 --> 00:00:35,760
+but doing so is included in the spell's
+ 
+
+35
+00:00:35,760 --> 00:00:36,709
+but doing so is included in the spell's
+action cost
+
+36
+00:00:36,709 --> 00:00:36,719
+action cost
+ 
+
+37
+00:00:36,719 --> 00:00:39,430
+action cost
+and does not require an additional extra
+
+38
+00:00:39,430 --> 00:00:39,440
+and does not require an additional extra
+ 
+
+39
+00:00:39,440 --> 00:00:41,030
+and does not require an additional extra
+action to be spent
+
+40
+00:00:41,030 --> 00:00:41,040
+action to be spent
+ 
+
+41
+00:00:41,040 --> 00:00:43,110
+action to be spent
+also in second edition the specific
+
+42
+00:00:43,110 --> 00:00:43,120
+also in second edition the specific
+ 
+
+43
+00:00:43,120 --> 00:00:44,069
+also in second edition the specific
+materials you need
+
+44
+00:00:44,069 --> 00:00:44,079
+materials you need
+ 
+
+45
+00:00:44,079 --> 00:00:46,069
+materials you need
+are usually not stated in the spell's
+
+46
+00:00:46,069 --> 00:00:46,079
+are usually not stated in the spell's
+ 
+
+47
+00:00:46,079 --> 00:00:47,110
+are usually not stated in the spell's
+description and
+
+48
+00:00:47,110 --> 00:00:47,120
+description and
+ 
+
+49
+00:00:47,120 --> 00:00:49,110
+description and
+are left for each player to determine
+
+50
+00:00:49,110 --> 00:00:49,120
+are left for each player to determine
+ 
+
+51
+00:00:49,120 --> 00:00:51,189
+are left for each player to determine
+themselves which gives a lot of room for
+
+52
+00:00:51,189 --> 00:00:51,199
+themselves which gives a lot of room for
+ 
+
+53
+00:00:51,199 --> 00:00:53,830
+themselves which gives a lot of room for
+fun role playing and individualization
+
+54
+00:00:53,830 --> 00:00:53,840
+fun role playing and individualization
+ 
+
+55
+00:00:53,840 --> 00:00:56,389
+fun role playing and individualization
+for example some an animal requires a
+
+56
+00:00:56,389 --> 00:00:56,399
+for example some an animal requires a
+ 
+
+57
+00:00:56,399 --> 00:00:58,229
+for example some an animal requires a
+material component but does not
+
+58
+00:00:58,229 --> 00:00:58,239
+material component but does not
+ 
+
+59
+00:00:58,239 --> 00:01:00,869
+material component but does not
+state what it is so this is up to the
+
+60
+00:01:00,869 --> 00:01:00,879
+state what it is so this is up to the
+ 
+
+61
+00:01:00,879 --> 00:01:02,389
+state what it is so this is up to the
+player to figure out
+
+62
+00:01:02,389 --> 00:01:02,399
+player to figure out
+ 
+
+63
+00:01:02,399 --> 00:01:04,710
+player to figure out
+maybe they weave little animal figurines
+
+64
+00:01:04,710 --> 00:01:04,720
+maybe they weave little animal figurines
+ 
+
+65
+00:01:04,720 --> 00:01:06,390
+maybe they weave little animal figurines
+out of grass and string as part of their
+
+66
+00:01:06,390 --> 00:01:06,400
+out of grass and string as part of their
+ 
+
+67
+00:01:06,400 --> 00:01:07,830
+out of grass and string as part of their
+daily preparations
+
+68
+00:01:07,830 --> 00:01:07,840
+daily preparations
+ 
+
+69
+00:01:07,840 --> 00:01:09,910
+daily preparations
+and when it comes time to cast they pull
+
+70
+00:01:09,910 --> 00:01:09,920
+and when it comes time to cast they pull
+ 
+
+71
+00:01:09,920 --> 00:01:11,990
+and when it comes time to cast they pull
+a little grass fox out of a pouch it is
+
+72
+00:01:11,990 --> 00:01:12,000
+a little grass fox out of a pouch it is
+ 
+
+73
+00:01:12,000 --> 00:01:13,750
+a little grass fox out of a pouch it is
+consumed in a burst of magical green
+
+74
+00:01:13,750 --> 00:01:13,760
+consumed in a burst of magical green
+ 
+
+75
+00:01:13,760 --> 00:01:16,310
+consumed in a burst of magical green
+flame as part of the summoning process
+
+76
+00:01:16,310 --> 00:01:16,320
+flame as part of the summoning process
+ 
+
+77
+00:01:16,320 --> 00:01:18,870
+flame as part of the summoning process
+if the spell lists a material component
+
+78
+00:01:18,870 --> 00:01:18,880
+if the spell lists a material component
+ 
+
+79
+00:01:18,880 --> 00:01:19,670
+if the spell lists a material component
+but no
+
+80
+00:01:19,670 --> 00:01:19,680
+but no
+ 
+
+81
+00:01:19,680 --> 00:01:21,990
+but no
+value or specifics about it then is
+
+82
+00:01:21,990 --> 00:01:22,000
+value or specifics about it then is
+ 
+
+83
+00:01:22,000 --> 00:01:23,830
+value or specifics about it then is
+assumed that the material component
+
+84
+00:01:23,830 --> 00:01:23,840
+assumed that the material component
+ 
+
+85
+00:01:23,840 --> 00:01:26,550
+assumed that the material component
+is something inexpensive and included in
+
+86
+00:01:26,550 --> 00:01:26,560
+is something inexpensive and included in
+ 
+
+87
+00:01:26,560 --> 00:01:28,149
+is something inexpensive and included in
+material component pouches
+
+88
+00:01:28,149 --> 00:01:28,159
+material component pouches
+ 
+
+89
+00:01:28,159 --> 00:01:29,429
+material component pouches
+that can be purchased in most
+
+90
+00:01:29,429 --> 00:01:29,439
+that can be purchased in most
+ 
+
+91
+00:01:29,439 --> 00:01:31,910
+that can be purchased in most
+settlements for five silver pieces
+
+92
+00:01:31,910 --> 00:01:31,920
+settlements for five silver pieces
+ 
+
+93
+00:01:31,920 --> 00:01:33,830
+settlements for five silver pieces
+in most cases if the caster has a
+
+94
+00:01:33,830 --> 00:01:33,840
+in most cases if the caster has a
+ 
+
+95
+00:01:33,840 --> 00:01:35,350
+in most cases if the caster has a
+material component pouch
+
+96
+00:01:35,350 --> 00:01:35,360
+material component pouch
+ 
+
+97
+00:01:35,360 --> 00:01:37,030
+material component pouch
+then they should be able to cast most
+
+98
+00:01:37,030 --> 00:01:37,040
+then they should be able to cast most
+ 
+
+99
+00:01:37,040 --> 00:01:39,830
+then they should be able to cast most
+spells that require a material component
+
+100
+00:01:39,830 --> 00:01:39,840
+spells that require a material component
+ 
+
+101
+00:01:39,840 --> 00:01:41,830
+spells that require a material component
+but some spells like raise did
+
+102
+00:01:41,830 --> 00:01:41,840
+but some spells like raise did
+ 
+
+103
+00:01:41,840 --> 00:01:44,389
+but some spells like raise did
+state what the required materials are in
+
+104
+00:01:44,389 --> 00:01:44,399
+state what the required materials are in
+ 
+
+105
+00:01:44,399 --> 00:01:45,109
+state what the required materials are in
+this case
+
+106
+00:01:45,109 --> 00:01:45,119
+this case
+ 
+
+107
+00:01:45,119 --> 00:01:48,069
+this case
+is included in the spell's cost heading
+
+108
+00:01:48,069 --> 00:01:48,079
+is included in the spell's cost heading
+ 
+
+109
+00:01:48,079 --> 00:01:50,149
+is included in the spell's cost heading
+to cast raised dead you need material
+
+110
+00:01:50,149 --> 00:01:50,159
+to cast raised dead you need material
+ 
+
+111
+00:01:50,159 --> 00:01:52,310
+to cast raised dead you need material
+components including diamonds with 200
+
+112
+00:01:52,310 --> 00:01:52,320
+components including diamonds with 200
+ 
+
+113
+00:01:52,320 --> 00:01:53,270
+components including diamonds with 200
+gold pieces per
+
+114
+00:01:53,270 --> 00:01:53,280
+gold pieces per
+ 
+
+115
+00:01:53,280 --> 00:01:55,190
+gold pieces per
+level of the character being raised
+
+116
+00:01:55,190 --> 00:01:55,200
+level of the character being raised
+ 
+
+117
+00:01:55,200 --> 00:01:57,030
+level of the character being raised
+these are not provided by material
+
+118
+00:01:57,030 --> 00:01:57,040
+these are not provided by material
+ 
+
+119
+00:01:57,040 --> 00:01:58,149
+these are not provided by material
+component pouches
+
+120
+00:01:58,149 --> 00:01:58,159
+component pouches
+ 
+
+121
+00:01:58,159 --> 00:02:00,550
+component pouches
+and are consumed and lost in the casting
+
+122
+00:02:00,550 --> 00:02:00,560
+and are consumed and lost in the casting
+ 
+
+123
+00:02:00,560 --> 00:02:03,270
+and are consumed and lost in the casting
+of the spell
+
+124
+00:02:03,270 --> 00:02:03,280
+
+ 
+
+125
+00:02:03,280 --> 00:02:05,590
+
+the second spell component is somatic
+
+126
+00:02:05,590 --> 00:02:05,600
+the second spell component is somatic
+ 
+
+127
+00:02:05,600 --> 00:02:07,749
+the second spell component is somatic
+somatic is just a fancy word that refers
+
+128
+00:02:07,749 --> 00:02:07,759
+somatic is just a fancy word that refers
+ 
+
+129
+00:02:07,759 --> 00:02:09,669
+somatic is just a fancy word that refers
+to a person's physical body
+
+130
+00:02:09,669 --> 00:02:09,679
+to a person's physical body
+ 
+
+131
+00:02:09,679 --> 00:02:11,990
+to a person's physical body
+in the case of pathfinder a somatic
+
+132
+00:02:11,990 --> 00:02:12,000
+in the case of pathfinder a somatic
+ 
+
+133
+00:02:12,000 --> 00:02:13,830
+in the case of pathfinder a somatic
+component usually refers to physical
+
+134
+00:02:13,830 --> 00:02:13,840
+component usually refers to physical
+ 
+
+135
+00:02:13,840 --> 00:02:14,470
+component usually refers to physical
+movement
+
+136
+00:02:14,470 --> 00:02:14,480
+movement
+ 
+
+137
+00:02:14,480 --> 00:02:16,790
+movement
+such as intricate finger gestures like
+
+138
+00:02:16,790 --> 00:02:16,800
+such as intricate finger gestures like
+ 
+
+139
+00:02:16,800 --> 00:02:18,309
+such as intricate finger gestures like
+doctor strange would use
+
+140
+00:02:18,309 --> 00:02:18,319
+doctor strange would use
+ 
+
+141
+00:02:18,319 --> 00:02:21,110
+doctor strange would use
+or pointing towards your target oddly
+
+142
+00:02:21,110 --> 00:02:21,120
+or pointing towards your target oddly
+ 
+
+143
+00:02:21,120 --> 00:02:21,589
+or pointing towards your target oddly
+enough
+
+144
+00:02:21,589 --> 00:02:21,599
+enough
+ 
+
+145
+00:02:21,599 --> 00:02:24,229
+enough
+you do not need to have a free hand in
+
+146
+00:02:24,229 --> 00:02:24,239
+you do not need to have a free hand in
+ 
+
+147
+00:02:24,239 --> 00:02:26,309
+you do not need to have a free hand in
+order to cast a spell with somatic
+
+148
+00:02:26,309 --> 00:02:26,319
+order to cast a spell with somatic
+ 
+
+149
+00:02:26,319 --> 00:02:27,430
+order to cast a spell with somatic
+components
+
+150
+00:02:27,430 --> 00:02:27,440
+components
+ 
+
+151
+00:02:27,440 --> 00:02:29,110
+components
+it is possible to cast these spells
+
+152
+00:02:29,110 --> 00:02:29,120
+it is possible to cast these spells
+ 
+
+153
+00:02:29,120 --> 00:02:31,030
+it is possible to cast these spells
+while holding something in each hand
+
+154
+00:02:31,030 --> 00:02:31,040
+while holding something in each hand
+ 
+
+155
+00:02:31,040 --> 00:02:33,190
+while holding something in each hand
+such as holding a wand that you would
+
+156
+00:02:33,190 --> 00:02:33,200
+such as holding a wand that you would
+ 
+
+157
+00:02:33,200 --> 00:02:35,270
+such as holding a wand that you would
+wave and point at a target instead of
+
+158
+00:02:35,270 --> 00:02:35,280
+wave and point at a target instead of
+ 
+
+159
+00:02:35,280 --> 00:02:36,390
+wave and point at a target instead of
+your finger
+
+160
+00:02:36,390 --> 00:02:36,400
+your finger
+ 
+
+161
+00:02:36,400 --> 00:02:38,869
+your finger
+and if a spell requires you to touch a
+
+162
+00:02:38,869 --> 00:02:38,879
+and if a spell requires you to touch a
+ 
+
+163
+00:02:38,879 --> 00:02:39,589
+and if a spell requires you to touch a
+target
+
+164
+00:02:39,589 --> 00:02:39,599
+target
+ 
+
+165
+00:02:39,599 --> 00:02:41,990
+target
+you must be able to touch them with part
+
+166
+00:02:41,990 --> 00:02:42,000
+you must be able to touch them with part
+ 
+
+167
+00:02:42,000 --> 00:02:43,030
+you must be able to touch them with part
+of your hand
+
+168
+00:02:43,030 --> 00:02:43,040
+of your hand
+ 
+
+169
+00:02:43,040 --> 00:02:45,110
+of your hand
+even if it is holding something but it
+
+170
+00:02:45,110 --> 00:02:45,120
+even if it is holding something but it
+ 
+
+171
+00:02:45,120 --> 00:02:47,110
+even if it is holding something but it
+does not need to be a bare hand
+
+172
+00:02:47,110 --> 00:02:47,120
+does not need to be a bare hand
+ 
+
+173
+00:02:47,120 --> 00:02:49,350
+does not need to be a bare hand
+you could wear gloves or gauntlets and
+
+174
+00:02:49,350 --> 00:02:49,360
+you could wear gloves or gauntlets and
+ 
+
+175
+00:02:49,360 --> 00:02:53,270
+you could wear gloves or gauntlets and
+still make touch attacks
+
+176
+00:02:53,270 --> 00:02:53,280
+
+ 
+
+177
+00:02:53,280 --> 00:02:55,509
+
+the next spell component is verbal this
+
+178
+00:02:55,509 --> 00:02:55,519
+the next spell component is verbal this
+ 
+
+179
+00:02:55,519 --> 00:02:57,270
+the next spell component is verbal this
+one is pretty self-explanatory
+
+180
+00:02:57,270 --> 00:02:57,280
+one is pretty self-explanatory
+ 
+
+181
+00:02:57,280 --> 00:02:59,509
+one is pretty self-explanatory
+as part of casting spell you must say
+
+182
+00:02:59,509 --> 00:02:59,519
+as part of casting spell you must say
+ 
+
+183
+00:02:59,519 --> 00:03:00,710
+as part of casting spell you must say
+something aloud
+
+184
+00:03:00,710 --> 00:03:00,720
+something aloud
+ 
+
+185
+00:03:00,720 --> 00:03:03,350
+something aloud
+for divine spells this might be a prayer
+
+186
+00:03:03,350 --> 00:03:03,360
+for divine spells this might be a prayer
+ 
+
+187
+00:03:03,360 --> 00:03:05,430
+for divine spells this might be a prayer
+for arcane casters it might be yelling
+
+188
+00:03:05,430 --> 00:03:05,440
+for arcane casters it might be yelling
+ 
+
+189
+00:03:05,440 --> 00:03:06,309
+for arcane casters it might be yelling
+shazam or
+
+190
+00:03:06,309 --> 00:03:06,319
+shazam or
+ 
+
+191
+00:03:06,319 --> 00:03:08,710
+shazam or
+expecto patronum as with other
+
+192
+00:03:08,710 --> 00:03:08,720
+expecto patronum as with other
+ 
+
+193
+00:03:08,720 --> 00:03:09,430
+expecto patronum as with other
+components
+
+194
+00:03:09,430 --> 00:03:09,440
+components
+ 
+
+195
+00:03:09,440 --> 00:03:11,830
+components
+the spell description does not detail
+
+196
+00:03:11,830 --> 00:03:11,840
+the spell description does not detail
+ 
+
+197
+00:03:11,840 --> 00:03:13,830
+the spell description does not detail
+exactly what you need to say
+
+198
+00:03:13,830 --> 00:03:13,840
+exactly what you need to say
+ 
+
+199
+00:03:13,840 --> 00:03:16,390
+exactly what you need to say
+but you must say something in a loud
+
+200
+00:03:16,390 --> 00:03:16,400
+but you must say something in a loud
+ 
+
+201
+00:03:16,400 --> 00:03:17,990
+but you must say something in a loud
+strong voice that is easy to
+
+202
+00:03:17,990 --> 00:03:18,000
+strong voice that is easy to
+ 
+
+203
+00:03:18,000 --> 00:03:21,430
+strong voice that is easy to
+hear and the last component is focus
+
+204
+00:03:21,430 --> 00:03:21,440
+hear and the last component is focus
+ 
+
+205
+00:03:21,440 --> 00:03:23,990
+hear and the last component is focus
+a focus is like a material component or
+
+206
+00:03:23,990 --> 00:03:24,000
+a focus is like a material component or
+ 
+
+207
+00:03:24,000 --> 00:03:24,630
+a focus is like a material component or
+a cost
+
+208
+00:03:24,630 --> 00:03:24,640
+a cost
+ 
+
+209
+00:03:24,640 --> 00:03:27,190
+a cost
+except it is not consumed in the casting
+
+210
+00:03:27,190 --> 00:03:27,200
+except it is not consumed in the casting
+ 
+
+211
+00:03:27,200 --> 00:03:28,229
+except it is not consumed in the casting
+of the spell
+
+212
+00:03:28,229 --> 00:03:28,239
+of the spell
+ 
+
+213
+00:03:28,239 --> 00:03:31,110
+of the spell
+and similar to a spell's cost foci are
+
+214
+00:03:31,110 --> 00:03:31,120
+and similar to a spell's cost foci are
+ 
+
+215
+00:03:31,120 --> 00:03:31,830
+and similar to a spell's cost foci are
+not listed
+
+216
+00:03:31,830 --> 00:03:31,840
+not listed
+ 
+
+217
+00:03:31,840 --> 00:03:34,070
+not listed
+under the cast heading but instead are
+
+218
+00:03:34,070 --> 00:03:34,080
+under the cast heading but instead are
+ 
+
+219
+00:03:34,080 --> 00:03:35,190
+under the cast heading but instead are
+found listed under
+
+220
+00:03:35,190 --> 00:03:35,200
+found listed under
+ 
+
+221
+00:03:35,200 --> 00:03:37,750
+found listed under
+requirements for example in order to
+
+222
+00:03:37,750 --> 00:03:37,760
+requirements for example in order to
+ 
+
+223
+00:03:37,760 --> 00:03:39,270
+requirements for example in order to
+cast the alarm spell
+
+224
+00:03:39,270 --> 00:03:39,280
+cast the alarm spell
+ 
+
+225
+00:03:39,280 --> 00:03:41,750
+cast the alarm spell
+the caster must have a silver bell worth
+
+226
+00:03:41,750 --> 00:03:41,760
+the caster must have a silver bell worth
+ 
+
+227
+00:03:41,760 --> 00:03:42,309
+the caster must have a silver bell worth
+at least
+
+228
+00:03:42,309 --> 00:03:42,319
+at least
+ 
+
+229
+00:03:42,319 --> 00:03:44,470
+at least
+three gold pieces that they use as a
+
+230
+00:03:44,470 --> 00:03:44,480
+three gold pieces that they use as a
+ 
+
+231
+00:03:44,480 --> 00:03:46,949
+three gold pieces that they use as a
+focus when casting the spell
+
+232
+00:03:46,949 --> 00:03:46,959
+focus when casting the spell
+ 
+
+233
+00:03:46,959 --> 00:03:48,869
+focus when casting the spell
+in most cases when casting a spell that
+
+234
+00:03:48,869 --> 00:03:48,879
+in most cases when casting a spell that
+ 
+
+235
+00:03:48,879 --> 00:03:50,070
+in most cases when casting a spell that
+requires a focus
+
+236
+00:03:50,070 --> 00:03:50,080
+requires a focus
+ 
+
+237
+00:03:50,080 --> 00:03:52,309
+requires a focus
+as long as you have one hand free you
+
+238
+00:03:52,309 --> 00:03:52,319
+as long as you have one hand free you
+ 
+
+239
+00:03:52,319 --> 00:03:53,990
+as long as you have one hand free you
+can retrieve the focus
+
+240
+00:03:53,990 --> 00:03:54,000
+can retrieve the focus
+ 
+
+241
+00:03:54,000 --> 00:03:56,550
+can retrieve the focus
+cast the spell and then stow it again
+
+242
+00:03:56,550 --> 00:03:56,560
+cast the spell and then stow it again
+ 
+
+243
+00:03:56,560 --> 00:03:58,949
+cast the spell and then stow it again
+all as part of the actions normally used
+
+244
+00:03:58,949 --> 00:03:58,959
+all as part of the actions normally used
+ 
+
+245
+00:03:58,959 --> 00:04:00,229
+all as part of the actions normally used
+to cast the spell
+
+246
+00:04:00,229 --> 00:04:00,239
+to cast the spell
+ 
+
+247
+00:04:00,239 --> 00:04:02,309
+to cast the spell
+you do not need to spend one action
+
+248
+00:04:02,309 --> 00:04:02,319
+you do not need to spend one action
+ 
+
+249
+00:04:02,319 --> 00:04:04,070
+you do not need to spend one action
+first to retrieve the focus
+
+250
+00:04:04,070 --> 00:04:04,080
+first to retrieve the focus
+ 
+
+251
+00:04:04,080 --> 00:04:05,910
+first to retrieve the focus
+and then spend the number of actions
+
+252
+00:04:05,910 --> 00:04:05,920
+and then spend the number of actions
+ 
+
+253
+00:04:05,920 --> 00:04:07,990
+and then spend the number of actions
+listed in the spell description to cast
+
+254
+00:04:07,990 --> 00:04:08,000
+listed in the spell description to cast
+ 
+
+255
+00:04:08,000 --> 00:04:10,470
+listed in the spell description to cast
+followed by yet another action to stow
+
+256
+00:04:10,470 --> 00:04:10,480
+followed by yet another action to stow
+ 
+
+257
+00:04:10,480 --> 00:04:11,429
+followed by yet another action to stow
+the focus
+
+258
+00:04:11,429 --> 00:04:11,439
+the focus
+ 
+
+259
+00:04:11,439 --> 00:04:13,429
+the focus
+but there are a few exceptions to this
+
+260
+00:04:13,429 --> 00:04:13,439
+but there are a few exceptions to this
+ 
+
+261
+00:04:13,439 --> 00:04:14,550
+but there are a few exceptions to this
+which brings us to
+
+262
+00:04:14,550 --> 00:04:14,560
+which brings us to
+ 
+
+263
+00:04:14,560 --> 00:04:18,469
+which brings us to
+component substitutions
+
+264
+00:04:18,469 --> 00:04:18,479
+
+ 
+
+265
+00:04:18,479 --> 00:04:20,629
+
+some classes allow you to substitute one
+
+266
+00:04:20,629 --> 00:04:20,639
+some classes allow you to substitute one
+ 
+
+267
+00:04:20,639 --> 00:04:22,390
+some classes allow you to substitute one
+spell component for another
+
+268
+00:04:22,390 --> 00:04:22,400
+spell component for another
+ 
+
+269
+00:04:22,400 --> 00:04:25,110
+spell component for another
+bards for example can cast occult spells
+
+270
+00:04:25,110 --> 00:04:25,120
+bards for example can cast occult spells
+ 
+
+271
+00:04:25,120 --> 00:04:27,030
+bards for example can cast occult spells
+by playing a musical instrument
+
+272
+00:04:27,030 --> 00:04:27,040
+by playing a musical instrument
+ 
+
+273
+00:04:27,040 --> 00:04:29,189
+by playing a musical instrument
+when doing so the instrument becomes a
+
+274
+00:04:29,189 --> 00:04:29,199
+when doing so the instrument becomes a
+ 
+
+275
+00:04:29,199 --> 00:04:31,749
+when doing so the instrument becomes a
+focus and takes the place of material
+
+276
+00:04:31,749 --> 00:04:31,759
+focus and takes the place of material
+ 
+
+277
+00:04:31,759 --> 00:04:33,749
+focus and takes the place of material
+somatic or verbal components
+
+278
+00:04:33,749 --> 00:04:33,759
+somatic or verbal components
+ 
+
+279
+00:04:33,759 --> 00:04:36,070
+somatic or verbal components
+they cannot be retrieved and stowed for
+
+280
+00:04:36,070 --> 00:04:36,080
+they cannot be retrieved and stowed for
+ 
+
+281
+00:04:36,080 --> 00:04:38,390
+they cannot be retrieved and stowed for
+free like most folk i are
+
+282
+00:04:38,390 --> 00:04:38,400
+free like most folk i are
+ 
+
+283
+00:04:38,400 --> 00:04:39,990
+free like most folk i are
+and although not spelled out in the
+
+284
+00:04:39,990 --> 00:04:40,000
+and although not spelled out in the
+ 
+
+285
+00:04:40,000 --> 00:04:42,390
+and although not spelled out in the
+rules many people myself included
+
+286
+00:04:42,390 --> 00:04:42,400
+rules many people myself included
+ 
+
+287
+00:04:42,400 --> 00:04:44,150
+rules many people myself included
+believe that this kind of substitution
+
+288
+00:04:44,150 --> 00:04:44,160
+believe that this kind of substitution
+ 
+
+289
+00:04:44,160 --> 00:04:45,670
+believe that this kind of substitution
+for a material component
+
+290
+00:04:45,670 --> 00:04:45,680
+for a material component
+ 
+
+291
+00:04:45,680 --> 00:04:47,749
+for a material component
+does not remove the need for any costs
+
+292
+00:04:47,749 --> 00:04:47,759
+does not remove the need for any costs
+ 
+
+293
+00:04:47,759 --> 00:04:49,510
+does not remove the need for any costs
+or other requirements listed
+
+294
+00:04:49,510 --> 00:04:49,520
+or other requirements listed
+ 
+
+295
+00:04:49,520 --> 00:04:52,070
+or other requirements listed
+in the spell's description for example
+
+296
+00:04:52,070 --> 00:04:52,080
+in the spell's description for example
+ 
+
+297
+00:04:52,080 --> 00:04:53,270
+in the spell's description for example
+continual flame
+
+298
+00:04:53,270 --> 00:04:53,280
+continual flame
+ 
+
+299
+00:04:53,280 --> 00:04:55,590
+continual flame
+has a cast time of three actions
+
+300
+00:04:55,590 --> 00:04:55,600
+has a cast time of three actions
+ 
+
+301
+00:04:55,600 --> 00:04:57,749
+has a cast time of three actions
+requires material somatic and verbal
+
+302
+00:04:57,749 --> 00:04:57,759
+requires material somatic and verbal
+ 
+
+303
+00:04:57,759 --> 00:04:58,550
+requires material somatic and verbal
+components
+
+304
+00:04:58,550 --> 00:04:58,560
+components
+ 
+
+305
+00:04:58,560 --> 00:05:00,870
+components
+and has a material cost of six gold
+
+306
+00:05:00,870 --> 00:05:00,880
+and has a material cost of six gold
+ 
+
+307
+00:05:00,880 --> 00:05:02,950
+and has a material cost of six gold
+pieces worth of ruby dust
+
+308
+00:05:02,950 --> 00:05:02,960
+pieces worth of ruby dust
+ 
+
+309
+00:05:02,960 --> 00:05:05,350
+pieces worth of ruby dust
+a board may play their flute using that
+
+310
+00:05:05,350 --> 00:05:05,360
+a board may play their flute using that
+ 
+
+311
+00:05:05,360 --> 00:05:06,469
+a board may play their flute using that
+as a focus
+
+312
+00:05:06,469 --> 00:05:06,479
+as a focus
+ 
+
+313
+00:05:06,479 --> 00:05:09,110
+as a focus
+to replace the need for material somatic
+
+314
+00:05:09,110 --> 00:05:09,120
+to replace the need for material somatic
+ 
+
+315
+00:05:09,120 --> 00:05:10,790
+to replace the need for material somatic
+and verbal components
+
+316
+00:05:10,790 --> 00:05:10,800
+and verbal components
+ 
+
+317
+00:05:10,800 --> 00:05:13,749
+and verbal components
+but the cost and requirement fields are
+
+318
+00:05:13,749 --> 00:05:13,759
+but the cost and requirement fields are
+ 
+
+319
+00:05:13,759 --> 00:05:15,990
+but the cost and requirement fields are
+separate from the spell's components
+
+320
+00:05:15,990 --> 00:05:16,000
+separate from the spell's components
+ 
+
+321
+00:05:16,000 --> 00:05:18,629
+separate from the spell's components
+so this bard would still need to provide
+
+322
+00:05:18,629 --> 00:05:18,639
+so this bard would still need to provide
+ 
+
+323
+00:05:18,639 --> 00:05:21,670
+so this bard would still need to provide
+six gold pieces worth of ruby dust
+
+324
+00:05:21,670 --> 00:05:21,680
+six gold pieces worth of ruby dust
+ 
+
+325
+00:05:21,680 --> 00:05:23,909
+six gold pieces worth of ruby dust
+likewise clerics and druids may use a
+
+326
+00:05:23,909 --> 00:05:23,919
+likewise clerics and druids may use a
+ 
+
+327
+00:05:23,919 --> 00:05:25,029
+likewise clerics and druids may use a
+religious symbol
+
+328
+00:05:25,029 --> 00:05:25,039
+religious symbol
+ 
+
+329
+00:05:25,039 --> 00:05:27,749
+religious symbol
+or holy text in the case of clerics or a
+
+330
+00:05:27,749 --> 00:05:27,759
+or holy text in the case of clerics or a
+ 
+
+331
+00:05:27,759 --> 00:05:28,710
+or holy text in the case of clerics or a
+primal focus
+
+332
+00:05:28,710 --> 00:05:28,720
+primal focus
+ 
+
+333
+00:05:28,720 --> 00:05:31,909
+primal focus
+such as mistletoe for druids as foci to
+
+334
+00:05:31,909 --> 00:05:31,919
+such as mistletoe for druids as foci to
+ 
+
+335
+00:05:31,919 --> 00:05:33,909
+such as mistletoe for druids as foci to
+replace a material component
+
+336
+00:05:33,909 --> 00:05:33,919
+replace a material component
+ 
+
+337
+00:05:33,919 --> 00:05:35,590
+replace a material component
+but they still need to perform any
+
+338
+00:05:35,590 --> 00:05:35,600
+but they still need to perform any
+ 
+
+339
+00:05:35,600 --> 00:05:37,510
+but they still need to perform any
+somatic or verbal components that are
+
+340
+00:05:37,510 --> 00:05:37,520
+somatic or verbal components that are
+ 
+
+341
+00:05:37,520 --> 00:05:38,790
+somatic or verbal components that are
+required
+
+342
+00:05:38,790 --> 00:05:38,800
+required
+ 
+
+343
+00:05:38,800 --> 00:05:40,710
+required
+similar to bars who substitute their
+
+344
+00:05:40,710 --> 00:05:40,720
+similar to bars who substitute their
+ 
+
+345
+00:05:40,720 --> 00:05:42,550
+similar to bars who substitute their
+instrument for a material component
+
+346
+00:05:42,550 --> 00:05:42,560
+instrument for a material component
+ 
+
+347
+00:05:42,560 --> 00:05:44,790
+instrument for a material component
+i do not believe the intent here is to
+
+348
+00:05:44,790 --> 00:05:44,800
+i do not believe the intent here is to
+ 
+
+349
+00:05:44,800 --> 00:05:47,029
+i do not believe the intent here is to
+allow a cleric to cast raised dead
+
+350
+00:05:47,029 --> 00:05:47,039
+allow a cleric to cast raised dead
+ 
+
+351
+00:05:47,039 --> 00:05:48,710
+allow a cleric to cast raised dead
+without providing hundreds of gold
+
+352
+00:05:48,710 --> 00:05:48,720
+without providing hundreds of gold
+ 
+
+353
+00:05:48,720 --> 00:05:50,629
+without providing hundreds of gold
+pieces worth of diamonds
+
+354
+00:05:50,629 --> 00:05:50,639
+pieces worth of diamonds
+ 
+
+355
+00:05:50,639 --> 00:05:52,710
+pieces worth of diamonds
+and when a sorcerer casts a spell from
+
+356
+00:05:52,710 --> 00:05:52,720
+and when a sorcerer casts a spell from
+ 
+
+357
+00:05:52,720 --> 00:05:54,310
+and when a sorcerer casts a spell from
+their bloodlines tradition
+
+358
+00:05:54,310 --> 00:05:54,320
+their bloodlines tradition
+ 
+
+359
+00:05:54,320 --> 00:05:56,550
+their bloodlines tradition
+they can substitute an extra somatic
+
+360
+00:05:56,550 --> 00:05:56,560
+they can substitute an extra somatic
+ 
+
+361
+00:05:56,560 --> 00:05:57,350
+they can substitute an extra somatic
+component
+
+362
+00:05:57,350 --> 00:05:57,360
+component
+ 
+
+363
+00:05:57,360 --> 00:05:59,350
+component
+for any of the spell's material
+
+364
+00:05:59,350 --> 00:05:59,360
+for any of the spell's material
+ 
+
+365
+00:05:59,360 --> 00:06:00,790
+for any of the spell's material
+components
+
+366
+00:06:00,790 --> 00:06:00,800
+components
+ 
+
+367
+00:06:00,800 --> 00:06:02,870
+components
+other spellcasting classes may have
+
+368
+00:06:02,870 --> 00:06:02,880
+other spellcasting classes may have
+ 
+
+369
+00:06:02,880 --> 00:06:04,629
+other spellcasting classes may have
+options for substituting components as
+
+370
+00:06:04,629 --> 00:06:04,639
+options for substituting components as
+ 
+
+371
+00:06:04,639 --> 00:06:05,189
+options for substituting components as
+well
+
+372
+00:06:05,189 --> 00:06:05,199
+well
+ 
+
+373
+00:06:05,199 --> 00:06:07,110
+well
+but i'm going to stick with those for
+
+374
+00:06:07,110 --> 00:06:07,120
+but i'm going to stick with those for
+ 
+
+375
+00:06:07,120 --> 00:06:09,590
+but i'm going to stick with those for
+now i'll save the full discussion on how
+
+376
+00:06:09,590 --> 00:06:09,600
+now i'll save the full discussion on how
+ 
+
+377
+00:06:09,600 --> 00:06:11,029
+now i'll save the full discussion on how
+each class handles this
+
+378
+00:06:11,029 --> 00:06:11,039
+each class handles this
+ 
+
+379
+00:06:11,039 --> 00:06:14,309
+each class handles this
+for future class specific videos
+
+380
+00:06:14,309 --> 00:06:14,319
+for future class specific videos
+ 
+
+381
+00:06:14,319 --> 00:06:17,029
+for future class specific videos
+so why all of this fuss over component
+
+382
+00:06:17,029 --> 00:06:17,039
+so why all of this fuss over component
+ 
+
+383
+00:06:17,039 --> 00:06:18,230
+so why all of this fuss over component
+substitution
+
+384
+00:06:18,230 --> 00:06:18,240
+substitution
+ 
+
+385
+00:06:18,240 --> 00:06:20,309
+substitution
+if on the surface it doesn't appear to
+
+386
+00:06:20,309 --> 00:06:20,319
+if on the surface it doesn't appear to
+ 
+
+387
+00:06:20,319 --> 00:06:22,070
+if on the surface it doesn't appear to
+make any real difference in the casting
+
+388
+00:06:22,070 --> 00:06:22,080
+make any real difference in the casting
+ 
+
+389
+00:06:22,080 --> 00:06:23,189
+make any real difference in the casting
+of the spell
+
+390
+00:06:23,189 --> 00:06:23,199
+of the spell
+ 
+
+391
+00:06:23,199 --> 00:06:25,430
+of the spell
+the spell still costs the same number of
+
+392
+00:06:25,430 --> 00:06:25,440
+the spell still costs the same number of
+ 
+
+393
+00:06:25,440 --> 00:06:26,230
+the spell still costs the same number of
+actions
+
+394
+00:06:26,230 --> 00:06:26,240
+actions
+ 
+
+395
+00:06:26,240 --> 00:06:28,469
+actions
+and you still need to provide expensive
+
+396
+00:06:28,469 --> 00:06:28,479
+and you still need to provide expensive
+ 
+
+397
+00:06:28,479 --> 00:06:31,029
+and you still need to provide expensive
+materials listed as the spells cost
+
+398
+00:06:31,029 --> 00:06:31,039
+materials listed as the spells cost
+ 
+
+399
+00:06:31,039 --> 00:06:33,270
+materials listed as the spells cost
+so why bother with substituting
+
+400
+00:06:33,270 --> 00:06:33,280
+so why bother with substituting
+ 
+
+401
+00:06:33,280 --> 00:06:34,790
+so why bother with substituting
+components
+
+402
+00:06:34,790 --> 00:06:34,800
+components
+ 
+
+403
+00:06:34,800 --> 00:06:36,390
+components
+well the first reason is for role
+
+404
+00:06:36,390 --> 00:06:36,400
+well the first reason is for role
+ 
+
+405
+00:06:36,400 --> 00:06:38,790
+well the first reason is for role
+playing it may be more fun for a bard to
+
+406
+00:06:38,790 --> 00:06:38,800
+playing it may be more fun for a bard to
+ 
+
+407
+00:06:38,800 --> 00:06:39,350
+playing it may be more fun for a bard to
+describe
+
+408
+00:06:39,350 --> 00:06:39,360
+describe
+ 
+
+409
+00:06:39,360 --> 00:06:41,430
+describe
+playing their instrument to cassie spell
+
+410
+00:06:41,430 --> 00:06:41,440
+playing their instrument to cassie spell
+ 
+
+411
+00:06:41,440 --> 00:06:43,430
+playing their instrument to cassie spell
+than setting it down to get the material
+
+412
+00:06:43,430 --> 00:06:43,440
+than setting it down to get the material
+ 
+
+413
+00:06:43,440 --> 00:06:45,510
+than setting it down to get the material
+component out and manipulate it
+
+414
+00:06:45,510 --> 00:06:45,520
+component out and manipulate it
+ 
+
+415
+00:06:45,520 --> 00:06:48,230
+component out and manipulate it
+another reason is because of free hands
+
+416
+00:06:48,230 --> 00:06:48,240
+another reason is because of free hands
+ 
+
+417
+00:06:48,240 --> 00:06:49,990
+another reason is because of free hands
+you have to have one free hand when
+
+418
+00:06:49,990 --> 00:06:50,000
+you have to have one free hand when
+ 
+
+419
+00:06:50,000 --> 00:06:52,150
+you have to have one free hand when
+casting with a material component
+
+420
+00:06:52,150 --> 00:06:52,160
+casting with a material component
+ 
+
+421
+00:06:52,160 --> 00:06:55,430
+casting with a material component
+but do not for somatic components so a
+
+422
+00:06:55,430 --> 00:06:55,440
+but do not for somatic components so a
+ 
+
+423
+00:06:55,440 --> 00:06:56,309
+but do not for somatic components so a
+sorcerer
+
+424
+00:06:56,309 --> 00:06:56,319
+sorcerer
+ 
+
+425
+00:06:56,319 --> 00:06:57,990
+sorcerer
+would be able to cast a spell that
+
+426
+00:06:57,990 --> 00:06:58,000
+would be able to cast a spell that
+ 
+
+427
+00:06:58,000 --> 00:07:00,469
+would be able to cast a spell that
+normally requires a material component
+
+428
+00:07:00,469 --> 00:07:00,479
+normally requires a material component
+ 
+
+429
+00:07:00,479 --> 00:07:03,670
+normally requires a material component
+without needing to have a free hand and
+
+430
+00:07:03,670 --> 00:07:03,680
+without needing to have a free hand and
+ 
+
+431
+00:07:03,680 --> 00:07:05,909
+without needing to have a free hand and
+it might also be handy for situations
+
+432
+00:07:05,909 --> 00:07:05,919
+it might also be handy for situations
+ 
+
+433
+00:07:05,919 --> 00:07:07,749
+it might also be handy for situations
+where characters have limited access to
+
+434
+00:07:07,749 --> 00:07:07,759
+where characters have limited access to
+ 
+
+435
+00:07:07,759 --> 00:07:10,390
+where characters have limited access to
+their gear like being in a jail cell
+
+436
+00:07:10,390 --> 00:07:10,400
+their gear like being in a jail cell
+ 
+
+437
+00:07:10,400 --> 00:07:12,390
+their gear like being in a jail cell
+if a bard can convince the guard to give
+
+438
+00:07:12,390 --> 00:07:12,400
+if a bard can convince the guard to give
+ 
+
+439
+00:07:12,400 --> 00:07:14,150
+if a bard can convince the guard to give
+them their harmless flute
+
+440
+00:07:14,150 --> 00:07:14,160
+them their harmless flute
+ 
+
+441
+00:07:14,160 --> 00:07:16,550
+them their harmless flute
+or if they let a cleric keep their holy
+
+442
+00:07:16,550 --> 00:07:16,560
+or if they let a cleric keep their holy
+ 
+
+443
+00:07:16,560 --> 00:07:17,589
+or if they let a cleric keep their holy
+book then
+
+444
+00:07:17,589 --> 00:07:17,599
+book then
+ 
+
+445
+00:07:17,599 --> 00:07:19,189
+book then
+those characters have all of the
+
+446
+00:07:19,189 --> 00:07:19,199
+those characters have all of the
+ 
+
+447
+00:07:19,199 --> 00:07:22,469
+those characters have all of the
+materials they need to cast their spells
+
+448
+00:07:22,469 --> 00:07:22,479
+materials they need to cast their spells
+ 
+
+449
+00:07:22,479 --> 00:07:24,550
+materials they need to cast their spells
+but i'll also be the very first to say
+
+450
+00:07:24,550 --> 00:07:24,560
+but i'll also be the very first to say
+ 
+
+451
+00:07:24,560 --> 00:07:26,390
+but i'll also be the very first to say
+that the benefits of substituting
+
+452
+00:07:26,390 --> 00:07:26,400
+that the benefits of substituting
+ 
+
+453
+00:07:26,400 --> 00:07:27,270
+that the benefits of substituting
+components
+
+454
+00:07:27,270 --> 00:07:27,280
+components
+ 
+
+455
+00:07:27,280 --> 00:07:29,029
+components
+feels very limited compared to the
+
+456
+00:07:29,029 --> 00:07:29,039
+feels very limited compared to the
+ 
+
+457
+00:07:29,039 --> 00:07:30,629
+feels very limited compared to the
+amount of attention these get in the
+
+458
+00:07:30,629 --> 00:07:30,639
+amount of attention these get in the
+ 
+
+459
+00:07:30,639 --> 00:07:31,430
+amount of attention these get in the
+rules
+
+460
+00:07:31,430 --> 00:07:31,440
+rules
+ 
+
+461
+00:07:31,440 --> 00:07:33,670
+rules
+so let me know in the comments if you
+
+462
+00:07:33,670 --> 00:07:33,680
+so let me know in the comments if you
+ 
+
+463
+00:07:33,680 --> 00:07:35,189
+so let me know in the comments if you
+found a creative use
+
+464
+00:07:35,189 --> 00:07:35,199
+found a creative use
+ 
+
+465
+00:07:35,199 --> 00:07:37,110
+found a creative use
+for substituting components in your
+
+466
+00:07:37,110 --> 00:07:37,120
+for substituting components in your
+ 
+
+467
+00:07:37,120 --> 00:07:39,830
+for substituting components in your
+games
+
+468
+00:07:39,830 --> 00:07:39,840
+
+ 
+
+469
+00:07:39,840 --> 00:07:41,270
+
+and the last piece about spell
+
+470
+00:07:41,270 --> 00:07:41,280
+and the last piece about spell
+ 
+
+471
+00:07:41,280 --> 00:07:43,029
+and the last piece about spell
+components that we need to cover is how
+
+472
+00:07:43,029 --> 00:07:43,039
+components that we need to cover is how
+ 
+
+473
+00:07:43,039 --> 00:07:44,150
+components that we need to cover is how
+a spell's traits
+
+474
+00:07:44,150 --> 00:07:44,160
+a spell's traits
+ 
+
+475
+00:07:44,160 --> 00:07:45,990
+a spell's traits
+change depending on what components are
+
+476
+00:07:45,990 --> 00:07:46,000
+change depending on what components are
+ 
+
+477
+00:07:46,000 --> 00:07:47,270
+change depending on what components are
+used to cast it
+
+478
+00:07:47,270 --> 00:07:47,280
+used to cast it
+ 
+
+479
+00:07:47,280 --> 00:07:49,110
+used to cast it
+each spell lists their regular traits in
+
+480
+00:07:49,110 --> 00:07:49,120
+each spell lists their regular traits in
+ 
+
+481
+00:07:49,120 --> 00:07:50,790
+each spell lists their regular traits in
+the description for example
+
+482
+00:07:50,790 --> 00:07:50,800
+the description for example
+ 
+
+483
+00:07:50,800 --> 00:07:53,029
+the description for example
+continual flame has the evocation and
+
+484
+00:07:53,029 --> 00:07:53,039
+continual flame has the evocation and
+ 
+
+485
+00:07:53,039 --> 00:07:54,629
+continual flame has the evocation and
+light traits by default
+
+486
+00:07:54,629 --> 00:07:54,639
+light traits by default
+ 
+
+487
+00:07:54,639 --> 00:07:57,029
+light traits by default
+but each spell component may add more
+
+488
+00:07:57,029 --> 00:07:57,039
+but each spell component may add more
+ 
+
+489
+00:07:57,039 --> 00:07:58,230
+but each spell component may add more
+traits to it
+
+490
+00:07:58,230 --> 00:07:58,240
+traits to it
+ 
+
+491
+00:07:58,240 --> 00:08:00,550
+traits to it
+spells using material somatic or focused
+
+492
+00:08:00,550 --> 00:08:00,560
+spells using material somatic or focused
+ 
+
+493
+00:08:00,560 --> 00:08:01,510
+spells using material somatic or focused
+components
+
+494
+00:08:01,510 --> 00:08:01,520
+components
+ 
+
+495
+00:08:01,520 --> 00:08:04,629
+components
+add the manipulate trait to the spell in
+
+496
+00:08:04,629 --> 00:08:04,639
+add the manipulate trait to the spell in
+ 
+
+497
+00:08:04,639 --> 00:08:06,950
+add the manipulate trait to the spell in
+spells cast using the verbal component
+
+498
+00:08:06,950 --> 00:08:06,960
+spells cast using the verbal component
+ 
+
+499
+00:08:06,960 --> 00:08:10,309
+spells cast using the verbal component
+gain the concentrate trait these extra
+
+500
+00:08:10,309 --> 00:08:10,319
+gain the concentrate trait these extra
+ 
+
+501
+00:08:10,319 --> 00:08:12,309
+gain the concentrate trait these extra
+traits are important when casting spells
+
+502
+00:08:12,309 --> 00:08:12,319
+traits are important when casting spells
+ 
+
+503
+00:08:12,319 --> 00:08:14,469
+traits are important when casting spells
+while affected by certain conditions
+
+504
+00:08:14,469 --> 00:08:14,479
+while affected by certain conditions
+ 
+
+505
+00:08:14,479 --> 00:08:16,070
+while affected by certain conditions
+if you try to cast a spell using a
+
+506
+00:08:16,070 --> 00:08:16,080
+if you try to cast a spell using a
+ 
+
+507
+00:08:16,080 --> 00:08:17,990
+if you try to cast a spell using a
+material somatic or focus component
+
+508
+00:08:17,990 --> 00:08:18,000
+material somatic or focus component
+ 
+
+509
+00:08:18,000 --> 00:08:19,350
+material somatic or focus component
+while grabbed
+
+510
+00:08:19,350 --> 00:08:19,360
+while grabbed
+ 
+
+511
+00:08:19,360 --> 00:08:21,909
+while grabbed
+that spell now has the manipulate trait
+
+512
+00:08:21,909 --> 00:08:21,919
+that spell now has the manipulate trait
+ 
+
+513
+00:08:21,919 --> 00:08:24,550
+that spell now has the manipulate trait
+meaning you have to pass a dc5 flat
+
+514
+00:08:24,550 --> 00:08:24,560
+meaning you have to pass a dc5 flat
+ 
+
+515
+00:08:24,560 --> 00:08:25,110
+meaning you have to pass a dc5 flat
+check
+
+516
+00:08:25,110 --> 00:08:25,120
+check
+ 
+
+517
+00:08:25,120 --> 00:08:27,749
+check
+or the spell is lost this also means you
+
+518
+00:08:27,749 --> 00:08:27,759
+or the spell is lost this also means you
+ 
+
+519
+00:08:27,759 --> 00:08:29,670
+or the spell is lost this also means you
+can't cast one of these spells while
+
+520
+00:08:29,670 --> 00:08:29,680
+can't cast one of these spells while
+ 
+
+521
+00:08:29,680 --> 00:08:31,270
+can't cast one of these spells while
+restrained
+
+522
+00:08:31,270 --> 00:08:31,280
+restrained
+ 
+
+523
+00:08:31,280 --> 00:08:33,269
+restrained
+any spellcast with a verbal component
+
+524
+00:08:33,269 --> 00:08:33,279
+any spellcast with a verbal component
+ 
+
+525
+00:08:33,279 --> 00:08:35,350
+any spellcast with a verbal component
+gains the concentrate trait
+
+526
+00:08:35,350 --> 00:08:35,360
+gains the concentrate trait
+ 
+
+527
+00:08:35,360 --> 00:08:37,509
+gains the concentrate trait
+so you might not be able to cast those
+
+528
+00:08:37,509 --> 00:08:37,519
+so you might not be able to cast those
+ 
+
+529
+00:08:37,519 --> 00:08:38,949
+so you might not be able to cast those
+while fascinated
+
+530
+00:08:38,949 --> 00:08:38,959
+while fascinated
+ 
+
+531
+00:08:38,959 --> 00:08:41,029
+while fascinated
+also any spell that has a verbal
+
+532
+00:08:41,029 --> 00:08:41,039
+also any spell that has a verbal
+ 
+
+533
+00:08:41,039 --> 00:08:42,630
+also any spell that has a verbal
+component can't be cast
+
+534
+00:08:42,630 --> 00:08:42,640
+component can't be cast
+ 
+
+535
+00:08:42,640 --> 00:08:45,750
+component can't be cast
+if you can't speak and when you use
+
+536
+00:08:45,750 --> 00:08:45,760
+if you can't speak and when you use
+ 
+
+537
+00:08:45,760 --> 00:08:47,030
+if you can't speak and when you use
+component substitution
+
+538
+00:08:47,030 --> 00:08:47,040
+component substitution
+ 
+
+539
+00:08:47,040 --> 00:08:49,509
+component substitution
+the traits change accordingly when a
+
+540
+00:08:49,509 --> 00:08:49,519
+the traits change accordingly when a
+ 
+
+541
+00:08:49,519 --> 00:08:51,910
+the traits change accordingly when a
+bard uses their instrument as a focus
+
+542
+00:08:51,910 --> 00:08:51,920
+bard uses their instrument as a focus
+ 
+
+543
+00:08:51,920 --> 00:08:54,389
+bard uses their instrument as a focus
+that spell gains the auditory trait
+
+544
+00:08:54,389 --> 00:08:54,399
+that spell gains the auditory trait
+ 
+
+545
+00:08:54,399 --> 00:08:55,110
+that spell gains the auditory trait
+which means
+
+546
+00:08:55,110 --> 00:08:55,120
+which means
+ 
+
+547
+00:08:55,120 --> 00:08:58,389
+which means
+any target that cannot hear it is immune
+
+548
+00:08:58,389 --> 00:08:58,399
+any target that cannot hear it is immune
+ 
+
+549
+00:08:58,399 --> 00:08:59,590
+any target that cannot hear it is immune
+to the spell
+
+550
+00:08:59,590 --> 00:08:59,600
+to the spell
+ 
+
+551
+00:08:59,600 --> 00:09:01,350
+to the spell
+and it also makes those spells
+
+552
+00:09:01,350 --> 00:09:01,360
+and it also makes those spells
+ 
+
+553
+00:09:01,360 --> 00:09:03,910
+and it also makes those spells
+susceptible to another bard's counter
+
+554
+00:09:03,910 --> 00:09:03,920
+susceptible to another bard's counter
+ 
+
+555
+00:09:03,920 --> 00:09:06,790
+susceptible to another bard's counter
+performance
+
+556
+00:09:06,790 --> 00:09:06,800
+
+ 
+
+557
+00:09:06,800 --> 00:09:08,470
+
+before we close i'd like to take a
+
+558
+00:09:08,470 --> 00:09:08,480
+before we close i'd like to take a
+ 
+
+559
+00:09:08,480 --> 00:09:10,710
+before we close i'd like to take a
+moment to thank all of our patrons
+
+560
+00:09:10,710 --> 00:09:10,720
+moment to thank all of our patrons
+ 
+
+561
+00:09:10,720 --> 00:09:12,470
+moment to thank all of our patrons
+these videos would not be possible
+
+562
+00:09:12,470 --> 00:09:12,480
+these videos would not be possible
+ 
+
+563
+00:09:12,480 --> 00:09:14,630
+these videos would not be possible
+without their continued generosity
+
+564
+00:09:14,630 --> 00:09:14,640
+without their continued generosity
+ 
+
+565
+00:09:14,640 --> 00:09:17,430
+without their continued generosity
+and support members of the basics for
+
+566
+00:09:17,430 --> 00:09:17,440
+and support members of the basics for
+ 
+
+567
+00:09:17,440 --> 00:09:19,509
+and support members of the basics for
+gamers patreon community receive special
+
+568
+00:09:19,509 --> 00:09:19,519
+gamers patreon community receive special
+ 
+
+569
+00:09:19,519 --> 00:09:20,310
+gamers patreon community receive special
+benefits
+
+570
+00:09:20,310 --> 00:09:20,320
+benefits
+ 
+
+571
+00:09:20,320 --> 00:09:22,230
+benefits
+like getting to vote on the topics that
+
+572
+00:09:22,230 --> 00:09:22,240
+like getting to vote on the topics that
+ 
+
+573
+00:09:22,240 --> 00:09:23,590
+like getting to vote on the topics that
+we cover in the future
+
+574
+00:09:23,590 --> 00:09:23,600
+we cover in the future
+ 
+
+575
+00:09:23,600 --> 00:09:25,590
+we cover in the future
+and also they get to see these videos
+
+576
+00:09:25,590 --> 00:09:25,600
+and also they get to see these videos
+ 
+
+577
+00:09:25,600 --> 00:09:27,910
+and also they get to see these videos
+one week in ad free before
+
+578
+00:09:27,910 --> 00:09:27,920
+one week in ad free before
+ 
+
+579
+00:09:27,920 --> 00:09:30,870
+one week in ad free before
+everybody else visit the link shown on
+
+580
+00:09:30,870 --> 00:09:30,880
+everybody else visit the link shown on
+ 
+
+581
+00:09:30,880 --> 00:09:32,389
+everybody else visit the link shown on
+the left of the screen and in the
+
+582
+00:09:32,389 --> 00:09:32,399
+the left of the screen and in the
+ 
+
+583
+00:09:32,399 --> 00:09:33,910
+the left of the screen and in the
+description if you'd like to know more
+
+584
+00:09:33,910 --> 00:09:33,920
+description if you'd like to know more
+ 
+
+585
+00:09:33,920 --> 00:09:36,070
+description if you'd like to know more
+about becoming a patron
+
+586
+00:09:36,070 --> 00:09:36,080
+about becoming a patron
+ 
+
+587
+00:09:36,080 --> 00:09:37,269
+about becoming a patron
+if you would like to support this
+
+588
+00:09:37,269 --> 00:09:37,279
+if you would like to support this
+ 
+
+589
+00:09:37,279 --> 00:09:39,269
+if you would like to support this
+channel and help it grow the easiest way
+
+590
+00:09:39,269 --> 00:09:39,279
+channel and help it grow the easiest way
+ 
+
+591
+00:09:39,279 --> 00:09:40,150
+channel and help it grow the easiest way
+to do that
+
+592
+00:09:40,150 --> 00:09:40,160
+to do that
+ 
+
+593
+00:09:40,160 --> 00:09:42,550
+to do that
+is by subscribing and clicking the bell
+
+594
+00:09:42,550 --> 00:09:42,560
+is by subscribing and clicking the bell
+ 
+
+595
+00:09:42,560 --> 00:09:43,269
+is by subscribing and clicking the bell
+icon
+
+596
+00:09:43,269 --> 00:09:43,279
+icon
+ 
+
+597
+00:09:43,279 --> 00:09:45,190
+icon
+so you get notified when new videos
+
+598
+00:09:45,190 --> 00:09:45,200
+so you get notified when new videos
+ 
+
+599
+00:09:45,200 --> 00:09:47,430
+so you get notified when new videos
+release and we can always be reached
+
+600
+00:09:47,430 --> 00:09:47,440
+release and we can always be reached
+ 
+
+601
+00:09:47,440 --> 00:09:49,030
+release and we can always be reached
+through our twitter and facebook pages
+
+602
+00:09:49,030 --> 00:09:49,040
+through our twitter and facebook pages
+ 
+
+603
+00:09:49,040 --> 00:09:50,790
+through our twitter and facebook pages
+too thanks for watching
+
+604
+00:09:50,790 --> 00:09:50,800
+too thanks for watching
+ 
+
+605
+00:09:50,800 --> 00:09:52,790
+too thanks for watching
+take care and we will see you soon with
+
+606
+00:09:52,790 --> 00:09:52,800
+take care and we will see you soon with
+ 
+
+607
+00:09:52,800 --> 00:09:57,600
+take care and we will see you soon with
+more basics of pathfinder
+

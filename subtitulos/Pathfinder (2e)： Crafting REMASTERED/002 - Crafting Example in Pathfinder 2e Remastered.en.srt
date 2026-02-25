@@ -1,0 +1,1455 @@
+1
+00:00:00,450 --> 00:00:04,510
+
+[Music]
+
+2
+00:00:04,510 --> 00:00:04,520
+
+ 
+
+3
+00:00:04,520 --> 00:00:06,590
+
+hello and welcome to crafting examples
+
+4
+00:00:06,590 --> 00:00:06,600
+hello and welcome to crafting examples
+ 
+
+5
+00:00:06,600 --> 00:00:09,750
+hello and welcome to crafting examples
+for Pathfinder second edition remastered
+
+6
+00:00:09,750 --> 00:00:09,760
+for Pathfinder second edition remastered
+ 
+
+7
+00:00:09,760 --> 00:00:12,110
+for Pathfinder second edition remastered
+if you haven't already watched our video
+
+8
+00:00:12,110 --> 00:00:12,120
+if you haven't already watched our video
+ 
+
+9
+00:00:12,120 --> 00:00:14,589
+if you haven't already watched our video
+on basic crafting rules you should
+
+10
+00:00:14,589 --> 00:00:14,599
+on basic crafting rules you should
+ 
+
+11
+00:00:14,599 --> 00:00:16,550
+on basic crafting rules you should
+probably do so before viewing this
+
+12
+00:00:16,550 --> 00:00:16,560
+probably do so before viewing this
+ 
+
+13
+00:00:16,560 --> 00:00:18,790
+probably do so before viewing this
+example a link to that video may be
+
+14
+00:00:18,790 --> 00:00:18,800
+example a link to that video may be
+ 
+
+15
+00:00:18,800 --> 00:00:21,470
+example a link to that video may be
+found in the description also this video
+
+16
+00:00:21,470 --> 00:00:21,480
+found in the description also this video
+ 
+
+17
+00:00:21,480 --> 00:00:24,269
+found in the description also this video
+follows the rules provided in the re
+
+18
+00:00:24,269 --> 00:00:24,279
+follows the rules provided in the re
+ 
+
+19
+00:00:24,279 --> 00:00:26,349
+follows the rules provided in the re
+mastered version of Pathfinder second
+
+20
+00:00:26,349 --> 00:00:26,359
+mastered version of Pathfinder second
+ 
+
+21
+00:00:26,359 --> 00:00:28,750
+mastered version of Pathfinder second
+edition if your game is using the
+
+22
+00:00:28,750 --> 00:00:28,760
+edition if your game is using the
+ 
+
+23
+00:00:28,760 --> 00:00:31,870
+edition if your game is using the
+original Legacy Second Edition rules
+
+24
+00:00:31,870 --> 00:00:31,880
+original Legacy Second Edition rules
+ 
+
+25
+00:00:31,880 --> 00:00:33,630
+original Legacy Second Edition rules
+then please see a link in the
+
+26
+00:00:33,630 --> 00:00:33,640
+then please see a link in the
+ 
+
+27
+00:00:33,640 --> 00:00:35,190
+then please see a link in the
+description that will take you to my
+
+28
+00:00:35,190 --> 00:00:35,200
+description that will take you to my
+ 
+
+29
+00:00:35,200 --> 00:00:37,270
+description that will take you to my
+series on Legacy
+
+30
+00:00:37,270 --> 00:00:37,280
+series on Legacy
+ 
+
+31
+00:00:37,280 --> 00:00:40,430
+series on Legacy
+crafting in this example gamra is going
+
+32
+00:00:40,430 --> 00:00:40,440
+crafting in this example gamra is going
+ 
+
+33
+00:00:40,440 --> 00:00:43,590
+crafting in this example gamra is going
+to craft a suit of half plate armor she
+
+34
+00:00:43,590 --> 00:00:43,600
+to craft a suit of half plate armor she
+ 
+
+35
+00:00:43,600 --> 00:00:45,790
+to craft a suit of half plate armor she
+has third level with trained proficiency
+
+36
+00:00:45,790 --> 00:00:45,800
+has third level with trained proficiency
+ 
+
+37
+00:00:45,800 --> 00:00:48,670
+has third level with trained proficiency
+and crafting and a skill bonus of plus
+
+38
+00:00:48,670 --> 00:00:48,680
+and crafting and a skill bonus of plus
+ 
+
+39
+00:00:48,680 --> 00:00:52,790
+and crafting and a skill bonus of plus
+six the first requirement is item level
+
+40
+00:00:52,790 --> 00:00:52,800
+six the first requirement is item level
+ 
+
+41
+00:00:52,800 --> 00:00:55,150
+six the first requirement is item level
+there is no item level listed for half
+
+42
+00:00:55,150 --> 00:00:55,160
+there is no item level listed for half
+ 
+
+43
+00:00:55,160 --> 00:00:58,549
+there is no item level listed for half
+plate armor so it defaults to item level
+
+44
+00:00:58,549 --> 00:00:58,559
+plate armor so it defaults to item level
+ 
+
+45
+00:00:58,559 --> 00:01:01,310
+plate armor so it defaults to item level
+zero gima is third level so she meets
+
+46
+00:01:01,310 --> 00:01:01,320
+zero gima is third level so she meets
+ 
+
+47
+00:01:01,320 --> 00:01:04,229
+zero gima is third level so she meets
+this requirement the second requirement
+
+48
+00:01:04,229 --> 00:01:04,239
+this requirement the second requirement
+ 
+
+49
+00:01:04,239 --> 00:01:07,950
+this requirement the second requirement
+is proficiency as a zero level item
+
+50
+00:01:07,950 --> 00:01:07,960
+is proficiency as a zero level item
+ 
+
+51
+00:01:07,960 --> 00:01:09,789
+is proficiency as a zero level item
+trained proficiency is all that is
+
+52
+00:01:09,789 --> 00:01:09,799
+trained proficiency is all that is
+ 
+
+53
+00:01:09,799 --> 00:01:13,670
+trained proficiency is all that is
+needed to craft this third does she need
+
+54
+00:01:13,670 --> 00:01:13,680
+needed to craft this third does she need
+ 
+
+55
+00:01:13,680 --> 00:01:16,910
+needed to craft this third does she need
+a special feat to make half-plate armor
+
+56
+00:01:16,910 --> 00:01:16,920
+a special feat to make half-plate armor
+ 
+
+57
+00:01:16,920 --> 00:01:19,550
+a special feat to make half-plate armor
+it's not magical alchemical or a snare
+
+58
+00:01:19,550 --> 00:01:19,560
+it's not magical alchemical or a snare
+ 
+
+59
+00:01:19,560 --> 00:01:22,310
+it's not magical alchemical or a snare
+so she does not need any Feats to make
+
+60
+00:01:22,310 --> 00:01:22,320
+so she does not need any Feats to make
+ 
+
+61
+00:01:22,320 --> 00:01:25,510
+so she does not need any Feats to make
+this fourth does she have the proper
+
+62
+00:01:25,510 --> 00:01:25,520
+this fourth does she have the proper
+ 
+
+63
+00:01:25,520 --> 00:01:28,390
+this fourth does she have the proper
+tools we'll say she purchased an artisan
+
+64
+00:01:28,390 --> 00:01:28,400
+tools we'll say she purchased an artisan
+ 
+
+65
+00:01:28,400 --> 00:01:30,789
+tools we'll say she purchased an artisan
+toolkit and labeled it as smithing tools
+
+66
+00:01:30,789 --> 00:01:30,799
+toolkit and labeled it as smithing tools
+ 
+
+67
+00:01:30,799 --> 00:01:33,429
+toolkit and labeled it as smithing tools
+on her character sheet and the local
+
+68
+00:01:33,429 --> 00:01:33,439
+on her character sheet and the local
+ 
+
+69
+00:01:33,439 --> 00:01:35,069
+on her character sheet and the local
+blacksmith is letting her use their
+
+70
+00:01:35,069 --> 00:01:35,079
+blacksmith is letting her use their
+ 
+
+71
+00:01:35,079 --> 00:01:38,710
+blacksmith is letting her use their
+Forge so this requirement is covered
+
+72
+00:01:38,710 --> 00:01:38,720
+Forge so this requirement is covered
+ 
+
+73
+00:01:38,720 --> 00:01:41,990
+Forge so this requirement is covered
+fifth does she have a formula for half
+
+74
+00:01:41,990 --> 00:01:42,000
+fifth does she have a formula for half
+ 
+
+75
+00:01:42,000 --> 00:01:44,749
+fifth does she have a formula for half
+plate armor technically she doesn't need
+
+76
+00:01:44,749 --> 00:01:44,759
+plate armor technically she doesn't need
+ 
+
+77
+00:01:44,759 --> 00:01:47,109
+plate armor technically she doesn't need
+a formula to make half plate since it is
+
+78
+00:01:47,109 --> 00:01:47,119
+a formula to make half plate since it is
+ 
+
+79
+00:01:47,119 --> 00:01:49,830
+a formula to make half plate since it is
+common Rarity but we'll say that she
+
+80
+00:01:49,830 --> 00:01:49,840
+common Rarity but we'll say that she
+ 
+
+81
+00:01:49,840 --> 00:01:52,270
+common Rarity but we'll say that she
+purchased a basic crafter's book and
+
+82
+00:01:52,270 --> 00:01:52,280
+purchased a basic crafter's book and
+ 
+
+83
+00:01:52,280 --> 00:01:54,950
+purchased a basic crafter's book and
+therefore does have the formula since
+
+84
+00:01:54,950 --> 00:01:54,960
+therefore does have the formula since
+ 
+
+85
+00:01:54,960 --> 00:01:57,429
+therefore does have the formula since
+that book includes all of the level zero
+
+86
+00:01:57,429 --> 00:01:57,439
+that book includes all of the level zero
+ 
+
+87
+00:01:57,439 --> 00:01:59,590
+that book includes all of the level zero
+common items that are found in chapter 6
+
+88
+00:01:59,590 --> 00:01:59,600
+common items that are found in chapter 6
+ 
+
+89
+00:01:59,600 --> 00:02:01,670
+common items that are found in chapter 6
+of of the player core book which does
+
+90
+00:02:01,670 --> 00:02:01,680
+of of the player core book which does
+ 
+
+91
+00:02:01,680 --> 00:02:04,990
+of of the player core book which does
+include Half plate armor and the last
+
+92
+00:02:04,990 --> 00:02:05,000
+include Half plate armor and the last
+ 
+
+93
+00:02:05,000 --> 00:02:08,190
+include Half plate armor and the last
+requirement is materials half plate is
+
+94
+00:02:08,190 --> 00:02:08,200
+requirement is materials half plate is
+ 
+
+95
+00:02:08,200 --> 00:02:11,470
+requirement is materials half plate is
+listed with a price of 18 gold pieces so
+
+96
+00:02:11,470 --> 00:02:11,480
+listed with a price of 18 gold pieces so
+ 
+
+97
+00:02:11,480 --> 00:02:13,910
+listed with a price of 18 gold pieces so
+she must provide nine gold up front to
+
+98
+00:02:13,910 --> 00:02:13,920
+she must provide nine gold up front to
+ 
+
+99
+00:02:13,920 --> 00:02:17,190
+she must provide nine gold up front to
+begin her work and must provide 18 gold
+
+100
+00:02:17,190 --> 00:02:17,200
+begin her work and must provide 18 gold
+ 
+
+101
+00:02:17,200 --> 00:02:20,309
+begin her work and must provide 18 gold
+worth of materials or discounts in order
+
+102
+00:02:20,309 --> 00:02:20,319
+worth of materials or discounts in order
+ 
+
+103
+00:02:20,319 --> 00:02:23,990
+worth of materials or discounts in order
+to complete the armor set she spends one
+
+104
+00:02:23,990 --> 00:02:24,000
+to complete the armor set she spends one
+ 
+
+105
+00:02:24,000 --> 00:02:26,670
+to complete the armor set she spends one
+day of downtime working on the armor at
+
+106
+00:02:26,670 --> 00:02:26,680
+day of downtime working on the armor at
+ 
+
+107
+00:02:26,680 --> 00:02:28,750
+day of downtime working on the armor at
+the end of which her player rolles a
+
+108
+00:02:28,750 --> 00:02:28,760
+the end of which her player rolles a
+ 
+
+109
+00:02:28,760 --> 00:02:30,509
+the end of which her player rolles a
+crafting skill check
+
+110
+00:02:30,509 --> 00:02:30,519
+crafting skill check
+ 
+
+111
+00:02:30,519 --> 00:02:32,869
+crafting skill check
+note that she is able to roll this check
+
+112
+00:02:32,869 --> 00:02:32,879
+note that she is able to roll this check
+ 
+
+113
+00:02:32,879 --> 00:02:35,710
+note that she is able to roll this check
+after only one day of work because she
+
+114
+00:02:35,710 --> 00:02:35,720
+after only one day of work because she
+ 
+
+115
+00:02:35,720 --> 00:02:38,430
+after only one day of work because she
+has the formula if she was not crafting
+
+116
+00:02:38,430 --> 00:02:38,440
+has the formula if she was not crafting
+ 
+
+117
+00:02:38,440 --> 00:02:40,750
+has the formula if she was not crafting
+with the formula she would need to spend
+
+118
+00:02:40,750 --> 00:02:40,760
+with the formula she would need to spend
+ 
+
+119
+00:02:40,760 --> 00:02:42,710
+with the formula she would need to spend
+two days of downtime working before
+
+120
+00:02:42,710 --> 00:02:42,720
+two days of downtime working before
+ 
+
+121
+00:02:42,720 --> 00:02:45,470
+two days of downtime working before
+rolling this check she rolls her
+
+122
+00:02:45,470 --> 00:02:45,480
+rolling this check she rolls her
+ 
+
+123
+00:02:45,480 --> 00:02:48,149
+rolling this check she rolls her
+crafting skill and the GM compares the
+
+124
+00:02:48,149 --> 00:02:48,159
+crafting skill and the GM compares the
+ 
+
+125
+00:02:48,159 --> 00:02:51,509
+crafting skill and the GM compares the
+total to a DC that they set in secret
+
+126
+00:02:51,509 --> 00:02:51,519
+total to a DC that they set in secret
+ 
+
+127
+00:02:51,519 --> 00:02:55,710
+total to a DC that they set in secret
+for this we'll say the GM set a DC of 14
+
+128
+00:02:55,710 --> 00:02:55,720
+for this we'll say the GM set a DC of 14
+ 
+
+129
+00:02:55,720 --> 00:02:58,670
+for this we'll say the GM set a DC of 14
+gima rolls ad20 and adds her crafting
+
+130
+00:02:58,670 --> 00:02:58,680
+gima rolls ad20 and adds her crafting
+ 
+
+131
+00:02:58,680 --> 00:03:00,589
+gima rolls ad20 and adds her crafting
+bonus of plus 6
+
+132
+00:03:00,589 --> 00:03:00,599
+bonus of plus 6
+ 
+
+133
+00:03:00,599 --> 00:03:03,390
+bonus of plus 6
+if she rolls a seven on the die then she
+
+134
+00:03:03,390 --> 00:03:03,400
+if she rolls a seven on the die then she
+ 
+
+135
+00:03:03,400 --> 00:03:06,309
+if she rolls a seven on the die then she
+fails which means that her day of work
+
+136
+00:03:06,309 --> 00:03:06,319
+fails which means that her day of work
+ 
+
+137
+00:03:06,319 --> 00:03:09,309
+fails which means that her day of work
+was wasted but she still gets her nine
+
+138
+00:03:09,309 --> 00:03:09,319
+was wasted but she still gets her nine
+ 
+
+139
+00:03:09,319 --> 00:03:11,670
+was wasted but she still gets her nine
+gold pieces worth of materials back and
+
+140
+00:03:11,670 --> 00:03:11,680
+gold pieces worth of materials back and
+ 
+
+141
+00:03:11,680 --> 00:03:15,190
+gold pieces worth of materials back and
+can try again tomorrow if she rolls a
+
+142
+00:03:15,190 --> 00:03:15,200
+can try again tomorrow if she rolls a
+ 
+
+143
+00:03:15,200 --> 00:03:18,110
+can try again tomorrow if she rolls a
+natural one then she critically fails
+
+144
+00:03:18,110 --> 00:03:18,120
+natural one then she critically fails
+ 
+
+145
+00:03:18,120 --> 00:03:20,949
+natural one then she critically fails
+and not only wasted her day of work but
+
+146
+00:03:20,949 --> 00:03:20,959
+and not only wasted her day of work but
+ 
+
+147
+00:03:20,959 --> 00:03:24,390
+and not only wasted her day of work but
+also loses 10% of the materials in this
+
+148
+00:03:24,390 --> 00:03:24,400
+also loses 10% of the materials in this
+ 
+
+149
+00:03:24,400 --> 00:03:27,190
+also loses 10% of the materials in this
+case we convert the nine gold pieces to
+
+150
+00:03:27,190 --> 00:03:27,200
+case we convert the nine gold pieces to
+ 
+
+151
+00:03:27,200 --> 00:03:30,830
+case we convert the nine gold pieces to
+90 silver pieces and she loses 10% of
+
+152
+00:03:30,830 --> 00:03:30,840
+90 silver pieces and she loses 10% of
+ 
+
+153
+00:03:30,840 --> 00:03:34,270
+90 silver pieces and she loses 10% of
+that or nine silver leaving her with 81
+
+154
+00:03:34,270 --> 00:03:34,280
+that or nine silver leaving her with 81
+ 
+
+155
+00:03:34,280 --> 00:03:36,789
+that or nine silver leaving her with 81
+silver pieces worth of material she can
+
+156
+00:03:36,789 --> 00:03:36,799
+silver pieces worth of material she can
+ 
+
+157
+00:03:36,799 --> 00:03:39,070
+silver pieces worth of material she can
+start the process over and try again
+
+158
+00:03:39,070 --> 00:03:39,080
+start the process over and try again
+ 
+
+159
+00:03:39,080 --> 00:03:41,110
+start the process over and try again
+provided that she can replace the nine
+
+160
+00:03:41,110 --> 00:03:41,120
+provided that she can replace the nine
+ 
+
+161
+00:03:41,120 --> 00:03:43,789
+provided that she can replace the nine
+silver pieces worth of lost
+
+162
+00:03:43,789 --> 00:03:43,799
+silver pieces worth of lost
+ 
+
+163
+00:03:43,799 --> 00:03:46,550
+silver pieces worth of lost
+materials but if gimmer rolls an eight
+
+164
+00:03:46,550 --> 00:03:46,560
+materials but if gimmer rolls an eight
+ 
+
+165
+00:03:46,560 --> 00:03:49,670
+materials but if gimmer rolls an eight
+or higher on the die then she succeeds
+
+166
+00:03:49,670 --> 00:03:49,680
+or higher on the die then she succeeds
+ 
+
+167
+00:03:49,680 --> 00:03:53,110
+or higher on the die then she succeeds
+she now has two options the half plate
+
+168
+00:03:53,110 --> 00:03:53,120
+she now has two options the half plate
+ 
+
+169
+00:03:53,120 --> 00:03:55,589
+she now has two options the half plate
+armor has a remaining balance of nine
+
+170
+00:03:55,589 --> 00:03:55,599
+armor has a remaining balance of nine
+ 
+
+171
+00:03:55,599 --> 00:03:58,429
+armor has a remaining balance of nine
+gold pieces that needs to be covered she
+
+172
+00:03:58,429 --> 00:03:58,439
+gold pieces that needs to be covered she
+ 
+
+173
+00:03:58,439 --> 00:04:00,670
+gold pieces that needs to be covered she
+can either pay that N9 gold and
+
+174
+00:04:00,670 --> 00:04:00,680
+can either pay that N9 gold and
+ 
+
+175
+00:04:00,680 --> 00:04:02,869
+can either pay that N9 gold and
+instantly finish her work or she can
+
+176
+00:04:02,869 --> 00:04:02,879
+instantly finish her work or she can
+ 
+
+177
+00:04:02,879 --> 00:04:05,550
+instantly finish her work or she can
+spend another day of work to lower that
+
+178
+00:04:05,550 --> 00:04:05,560
+spend another day of work to lower that
+ 
+
+179
+00:04:05,560 --> 00:04:08,509
+spend another day of work to lower that
+balance she decides to invest another
+
+180
+00:04:08,509 --> 00:04:08,519
+balance she decides to invest another
+ 
+
+181
+00:04:08,519 --> 00:04:11,470
+balance she decides to invest another
+day into crafting the armor to learn how
+
+182
+00:04:11,470 --> 00:04:11,480
+day into crafting the armor to learn how
+ 
+
+183
+00:04:11,480 --> 00:04:13,550
+day into crafting the armor to learn how
+much this lowers the remaining balance
+
+184
+00:04:13,550 --> 00:04:13,560
+much this lowers the remaining balance
+ 
+
+185
+00:04:13,560 --> 00:04:16,469
+much this lowers the remaining balance
+buy we need to look at the income earned
+
+186
+00:04:16,469 --> 00:04:16,479
+buy we need to look at the income earned
+ 
+
+187
+00:04:16,479 --> 00:04:21,110
+buy we need to look at the income earned
+table on page 229 of player Core 1 gima
+
+188
+00:04:21,110 --> 00:04:21,120
+table on page 229 of player Core 1 gima
+ 
+
+189
+00:04:21,120 --> 00:04:23,990
+table on page 229 of player Core 1 gima
+is third level and trained so every
+
+190
+00:04:23,990 --> 00:04:24,000
+is third level and trained so every
+ 
+
+191
+00:04:24,000 --> 00:04:26,390
+is third level and trained so every
+extra day of work lowers the remaining
+
+192
+00:04:26,390 --> 00:04:26,400
+extra day of work lowers the remaining
+ 
+
+193
+00:04:26,400 --> 00:04:29,830
+extra day of work lowers the remaining
+balance by five silver pieces if she had
+
+194
+00:04:29,830 --> 00:04:29,840
+balance by five silver pieces if she had
+ 
+
+195
+00:04:29,840 --> 00:04:32,150
+balance by five silver pieces if she had
+rolled a critical success then she would
+
+196
+00:04:32,150 --> 00:04:32,160
+rolled a critical success then she would
+ 
+
+197
+00:04:32,160 --> 00:04:34,590
+rolled a critical success then she would
+be treated as if she was fourth level
+
+198
+00:04:34,590 --> 00:04:34,600
+be treated as if she was fourth level
+ 
+
+199
+00:04:34,600 --> 00:04:36,670
+be treated as if she was fourth level
+and would lower the balance by seven
+
+200
+00:04:36,670 --> 00:04:36,680
+and would lower the balance by seven
+ 
+
+201
+00:04:36,680 --> 00:04:39,310
+and would lower the balance by seven
+silver pieces after each extra day of
+
+202
+00:04:39,310 --> 00:04:39,320
+silver pieces after each extra day of
+ 
+
+203
+00:04:39,320 --> 00:04:41,990
+silver pieces after each extra day of
+work but for this example we're going to
+
+204
+00:04:41,990 --> 00:04:42,000
+work but for this example we're going to
+ 
+
+205
+00:04:42,000 --> 00:04:43,909
+work but for this example we're going to
+say that she succeeded but not
+
+206
+00:04:43,909 --> 00:04:43,919
+say that she succeeded but not
+ 
+
+207
+00:04:43,919 --> 00:04:46,629
+say that she succeeded but not
+critically succeeded so after the second
+
+208
+00:04:46,629 --> 00:04:46,639
+critically succeeded so after the second
+ 
+
+209
+00:04:46,639 --> 00:04:49,310
+critically succeeded so after the second
+day of work the remaining balance lowers
+
+210
+00:04:49,310 --> 00:04:49,320
+day of work the remaining balance lowers
+ 
+
+211
+00:04:49,320 --> 00:04:51,909
+day of work the remaining balance lowers
+from nine gold pieces to eight gold and
+
+212
+00:04:51,909 --> 00:04:51,919
+from nine gold pieces to eight gold and
+ 
+
+213
+00:04:51,919 --> 00:04:54,870
+from nine gold pieces to eight gold and
+five silver or it might just be easier
+
+214
+00:04:54,870 --> 00:04:54,880
+five silver or it might just be easier
+ 
+
+215
+00:04:54,880 --> 00:04:58,990
+five silver or it might just be easier
+to call it 85 silver pieces at this rate
+
+216
+00:04:58,990 --> 00:04:59,000
+to call it 85 silver pieces at this rate
+ 
+
+217
+00:04:59,000 --> 00:05:01,070
+to call it 85 silver pieces at this rate
+it will take take her more than 2 weeks
+
+218
+00:05:01,070 --> 00:05:01,080
+it will take take her more than 2 weeks
+ 
+
+219
+00:05:01,080 --> 00:05:03,469
+it will take take her more than 2 weeks
+of additional work to finish the suit of
+
+220
+00:05:03,469 --> 00:05:03,479
+of additional work to finish the suit of
+ 
+
+221
+00:05:03,479 --> 00:05:06,510
+of additional work to finish the suit of
+armor but she only expects to have three
+
+222
+00:05:06,510 --> 00:05:06,520
+armor but she only expects to have three
+ 
+
+223
+00:05:06,520 --> 00:05:08,870
+armor but she only expects to have three
+more days of down time before her party
+
+224
+00:05:08,870 --> 00:05:08,880
+more days of down time before her party
+ 
+
+225
+00:05:08,880 --> 00:05:11,590
+more days of down time before her party
+leaves town to continue their Adventures
+
+226
+00:05:11,590 --> 00:05:11,600
+leaves town to continue their Adventures
+ 
+
+227
+00:05:11,600 --> 00:05:13,590
+leaves town to continue their Adventures
+so she decides to spend the rest of her
+
+228
+00:05:13,590 --> 00:05:13,600
+so she decides to spend the rest of her
+ 
+
+229
+00:05:13,600 --> 00:05:15,870
+so she decides to spend the rest of her
+available time working on the armor
+
+230
+00:05:15,870 --> 00:05:15,880
+available time working on the armor
+ 
+
+231
+00:05:15,880 --> 00:05:18,110
+available time working on the armor
+which lowers the remaining balance from
+
+232
+00:05:18,110 --> 00:05:18,120
+which lowers the remaining balance from
+ 
+
+233
+00:05:18,120 --> 00:05:21,909
+which lowers the remaining balance from
+85 silver to 70 and at the end of the
+
+234
+00:05:21,909 --> 00:05:21,919
+85 silver to 70 and at the end of the
+ 
+
+235
+00:05:21,919 --> 00:05:24,790
+85 silver to 70 and at the end of the
+fifth day of work she pays the remaining
+
+236
+00:05:24,790 --> 00:05:24,800
+fifth day of work she pays the remaining
+ 
+
+237
+00:05:24,800 --> 00:05:27,309
+fifth day of work she pays the remaining
+70 silver pieces to finish her suit of
+
+238
+00:05:27,309 --> 00:05:27,319
+70 silver pieces to finish her suit of
+ 
+
+239
+00:05:27,319 --> 00:05:30,390
+70 silver pieces to finish her suit of
+half plate armor she and her GM are
+
+240
+00:05:30,390 --> 00:05:30,400
+half plate armor she and her GM are
+ 
+
+241
+00:05:30,400 --> 00:05:32,749
+half plate armor she and her GM are
+provided as much flexibility as they
+
+242
+00:05:32,749 --> 00:05:32,759
+provided as much flexibility as they
+ 
+
+243
+00:05:32,759 --> 00:05:34,830
+provided as much flexibility as they
+like to explain this within the
+
+244
+00:05:34,830 --> 00:05:34,840
+like to explain this within the
+ 
+
+245
+00:05:34,840 --> 00:05:37,510
+like to explain this within the
+narrative it's unlikely that on the
+
+246
+00:05:37,510 --> 00:05:37,520
+narrative it's unlikely that on the
+ 
+
+247
+00:05:37,520 --> 00:05:39,909
+narrative it's unlikely that on the
+evening and the fifth day gima simply
+
+248
+00:05:39,909 --> 00:05:39,919
+evening and the fifth day gima simply
+ 
+
+249
+00:05:39,919 --> 00:05:42,070
+evening and the fifth day gima simply
+threw seven gold coins at the half
+
+250
+00:05:42,070 --> 00:05:42,080
+threw seven gold coins at the half
+ 
+
+251
+00:05:42,080 --> 00:05:44,230
+threw seven gold coins at the half
+finished suit of armor and it magically
+
+252
+00:05:44,230 --> 00:05:44,240
+finished suit of armor and it magically
+ 
+
+253
+00:05:44,240 --> 00:05:47,790
+finished suit of armor and it magically
+completed instead she and her GM decide
+
+254
+00:05:47,790 --> 00:05:47,800
+completed instead she and her GM decide
+ 
+
+255
+00:05:47,800 --> 00:05:50,469
+completed instead she and her GM decide
+to explain the final expense as money
+
+256
+00:05:50,469 --> 00:05:50,479
+to explain the final expense as money
+ 
+
+257
+00:05:50,479 --> 00:05:52,909
+to explain the final expense as money
+she paid to a trio of local Apprentice
+
+258
+00:05:52,909 --> 00:05:52,919
+she paid to a trio of local Apprentice
+ 
+
+259
+00:05:52,919 --> 00:05:54,909
+she paid to a trio of local Apprentice
+blacksmith who assisted her throughout
+
+260
+00:05:54,909 --> 00:05:54,919
+blacksmith who assisted her throughout
+ 
+
+261
+00:05:54,919 --> 00:05:56,909
+blacksmith who assisted her throughout
+the process so she could complete the
+
+262
+00:05:56,909 --> 00:05:56,919
+the process so she could complete the
+ 
+
+263
+00:05:56,919 --> 00:06:00,950
+the process so she could complete the
+entire suit of armor in only 5 days
+
+264
+00:06:00,950 --> 00:06:00,960
+entire suit of armor in only 5 days
+ 
+
+265
+00:06:00,960 --> 00:06:02,550
+entire suit of armor in only 5 days
+if you would like to see the companion
+
+266
+00:06:02,550 --> 00:06:02,560
+if you would like to see the companion
+ 
+
+267
+00:06:02,560 --> 00:06:04,510
+if you would like to see the companion
+course that explains the rules behind
+
+268
+00:06:04,510 --> 00:06:04,520
+course that explains the rules behind
+ 
+
+269
+00:06:04,520 --> 00:06:07,070
+course that explains the rules behind
+this example you can find a link to it
+
+270
+00:06:07,070 --> 00:06:07,080
+this example you can find a link to it
+ 
+
+271
+00:06:07,080 --> 00:06:09,350
+this example you can find a link to it
+in the description if you have any
+
+272
+00:06:09,350 --> 00:06:09,360
+in the description if you have any
+ 
+
+273
+00:06:09,360 --> 00:06:10,790
+in the description if you have any
+questions please leave them in the
+
+274
+00:06:10,790 --> 00:06:10,800
+questions please leave them in the
+ 
+
+275
+00:06:10,800 --> 00:06:12,950
+questions please leave them in the
+comments and I'd like to take a quick
+
+276
+00:06:12,950 --> 00:06:12,960
+comments and I'd like to take a quick
+ 
+
+277
+00:06:12,960 --> 00:06:14,790
+comments and I'd like to take a quick
+moment to thank everyone who supports me
+
+278
+00:06:14,790 --> 00:06:14,800
+moment to thank everyone who supports me
+ 
+
+279
+00:06:14,800 --> 00:06:16,390
+moment to thank everyone who supports me
+in this channel by clicking the like
+
+280
+00:06:16,390 --> 00:06:16,400
+in this channel by clicking the like
+ 
+
+281
+00:06:16,400 --> 00:06:18,390
+in this channel by clicking the like
+button subscribing to the channel or
+
+282
+00:06:18,390 --> 00:06:18,400
+button subscribing to the channel or
+ 
+
+283
+00:06:18,400 --> 00:06:20,629
+button subscribing to the channel or
+subscribing to the patreon thanks for
+
+284
+00:06:20,629 --> 00:06:20,639
+subscribing to the patreon thanks for
+ 
+
+285
+00:06:20,639 --> 00:06:23,650
+subscribing to the patreon thanks for
+watching take care and happy
+
+286
+00:06:23,650 --> 00:06:23,660
+watching take care and happy
+ 
+
+287
+00:06:23,660 --> 00:06:28,390
+watching take care and happy
+[Music]
+
+288
+00:06:28,390 --> 00:06:28,400
+
+ 
+
+289
+00:06:28,400 --> 00:06:29,770
+
+gaming
+
+290
+00:06:29,770 --> 00:06:29,780
+gaming
+ 
+
+291
+00:06:29,780 --> 00:06:32,870
+gaming
+[Music]
+

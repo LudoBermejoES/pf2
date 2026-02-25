@@ -1,0 +1,1995 @@
+1
+00:00:04,680 --> 00:00:06,470
+
+hello and welcome to Hero points in
+
+2
+00:00:06,470 --> 00:00:06,480
+hello and welcome to Hero points in
+ 
+
+3
+00:00:06,480 --> 00:00:08,030
+hello and welcome to Hero points in
+Pathfinder second
+
+4
+00:00:08,030 --> 00:00:08,040
+Pathfinder second
+ 
+
+5
+00:00:08,040 --> 00:00:10,390
+Pathfinder second
+edition hero points are a special
+
+6
+00:00:10,390 --> 00:00:10,400
+edition hero points are a special
+ 
+
+7
+00:00:10,400 --> 00:00:12,070
+edition hero points are a special
+currency available to players in
+
+8
+00:00:12,070 --> 00:00:12,080
+currency available to players in
+ 
+
+9
+00:00:12,080 --> 00:00:13,990
+currency available to players in
+Pathfinder second edition they can be
+
+10
+00:00:13,990 --> 00:00:14,000
+Pathfinder second edition they can be
+ 
+
+11
+00:00:14,000 --> 00:00:16,710
+Pathfinder second edition they can be
+spent in two ways neither of which cost
+
+12
+00:00:16,710 --> 00:00:16,720
+spent in two ways neither of which cost
+ 
+
+13
+00:00:16,720 --> 00:00:18,950
+spent in two ways neither of which cost
+any kind of action and can always be
+
+14
+00:00:18,950 --> 00:00:18,960
+any kind of action and can always be
+ 
+
+15
+00:00:18,960 --> 00:00:21,670
+any kind of action and can always be
+spent even if the character is otherwise
+
+16
+00:00:21,670 --> 00:00:21,680
+spent even if the character is otherwise
+ 
+
+17
+00:00:21,680 --> 00:00:24,910
+spent even if the character is otherwise
+unable to act first a single hero Point
+
+18
+00:00:24,910 --> 00:00:24,920
+unable to act first a single hero Point
+ 
+
+19
+00:00:24,920 --> 00:00:27,269
+unable to act first a single hero Point
+may be spent to roll a check and the
+
+20
+00:00:27,269 --> 00:00:27,279
+may be spent to roll a check and the
+ 
+
+21
+00:00:27,279 --> 00:00:29,710
+may be spent to roll a check and the
+second result must be taken even if it
+
+22
+00:00:29,710 --> 00:00:29,720
+second result must be taken even if it
+ 
+
+23
+00:00:29,720 --> 00:00:32,150
+second result must be taken even if it
+is worse than the original roll as a
+
+24
+00:00:32,150 --> 00:00:32,160
+is worse than the original roll as a
+ 
+
+25
+00:00:32,160 --> 00:00:35,270
+is worse than the original roll as a
+reminder a check is anytime a D20 is
+
+26
+00:00:35,270 --> 00:00:35,280
+reminder a check is anytime a D20 is
+ 
+
+27
+00:00:35,280 --> 00:00:38,069
+reminder a check is anytime a D20 is
+rolled modifiers are applied and the
+
+28
+00:00:38,069 --> 00:00:38,079
+rolled modifiers are applied and the
+ 
+
+29
+00:00:38,079 --> 00:00:41,790
+rolled modifiers are applied and the
+total is compared to a DC so hero points
+
+30
+00:00:41,790 --> 00:00:41,800
+total is compared to a DC so hero points
+ 
+
+31
+00:00:41,800 --> 00:00:44,670
+total is compared to a DC so hero points
+can be spent to roll attack rolls skill
+
+32
+00:00:44,670 --> 00:00:44,680
+can be spent to roll attack rolls skill
+ 
+
+33
+00:00:44,680 --> 00:00:47,150
+can be spent to roll attack rolls skill
+checks saving throws or any other time
+
+34
+00:00:47,150 --> 00:00:47,160
+checks saving throws or any other time
+ 
+
+35
+00:00:47,160 --> 00:00:50,270
+checks saving throws or any other time
+that a D20 is roll and compared to a DC
+
+36
+00:00:50,270 --> 00:00:50,280
+that a D20 is roll and compared to a DC
+ 
+
+37
+00:00:50,280 --> 00:00:52,150
+that a D20 is roll and compared to a DC
+the only checks I've seen that are
+
+38
+00:00:52,150 --> 00:00:52,160
+the only checks I've seen that are
+ 
+
+39
+00:00:52,160 --> 00:00:54,869
+the only checks I've seen that are
+exempt from this are secret checks that
+
+40
+00:00:54,869 --> 00:00:54,879
+exempt from this are secret checks that
+ 
+
+41
+00:00:54,879 --> 00:00:57,990
+exempt from this are secret checks that
+the players are not aware of for example
+
+42
+00:00:57,990 --> 00:00:58,000
+the players are not aware of for example
+ 
+
+43
+00:00:58,000 --> 00:01:00,069
+the players are not aware of for example
+if the GM rolls a fortitude save in
+
+44
+00:01:00,069 --> 00:01:00,079
+if the GM rolls a fortitude save in
+ 
+
+45
+00:01:00,079 --> 00:01:02,150
+if the GM rolls a fortitude save in
+secret to resist poison that the player
+
+46
+00:01:02,150 --> 00:01:02,160
+secret to resist poison that the player
+ 
+
+47
+00:01:02,160 --> 00:01:04,789
+secret to resist poison that the player
+does not know is in their cup then later
+
+48
+00:01:04,789 --> 00:01:04,799
+does not know is in their cup then later
+ 
+
+49
+00:01:04,799 --> 00:01:07,390
+does not know is in their cup then later
+on once the player does become aware of
+
+50
+00:01:07,390 --> 00:01:07,400
+on once the player does become aware of
+ 
+
+51
+00:01:07,400 --> 00:01:10,190
+on once the player does become aware of
+the poison in that cup they can't then
+
+52
+00:01:10,190 --> 00:01:10,200
+the poison in that cup they can't then
+ 
+
+53
+00:01:10,200 --> 00:01:11,749
+the poison in that cup they can't then
+declare that they want to spend a herar
+
+54
+00:01:11,749 --> 00:01:11,759
+declare that they want to spend a herar
+ 
+
+55
+00:01:11,759 --> 00:01:14,710
+declare that they want to spend a herar
+Appo to roll it and note that the rules
+
+56
+00:01:14,710 --> 00:01:14,720
+Appo to roll it and note that the rules
+ 
+
+57
+00:01:14,720 --> 00:01:17,310
+Appo to roll it and note that the rules
+do not specify that the decision to roll
+
+58
+00:01:17,310 --> 00:01:17,320
+do not specify that the decision to roll
+ 
+
+59
+00:01:17,320 --> 00:01:19,510
+do not specify that the decision to roll
+must be made prior to knowing the result
+
+60
+00:01:19,510 --> 00:01:19,520
+must be made prior to knowing the result
+ 
+
+61
+00:01:19,520 --> 00:01:22,390
+must be made prior to knowing the result
+of the check so a player can wait until
+
+62
+00:01:22,390 --> 00:01:22,400
+of the check so a player can wait until
+ 
+
+63
+00:01:22,400 --> 00:01:24,670
+of the check so a player can wait until
+the GM tells them if the check was a
+
+64
+00:01:24,670 --> 00:01:24,680
+the GM tells them if the check was a
+ 
+
+65
+00:01:24,680 --> 00:01:27,310
+the GM tells them if the check was a
+success or a failure before announcing
+
+66
+00:01:27,310 --> 00:01:27,320
+success or a failure before announcing
+ 
+
+67
+00:01:27,320 --> 00:01:29,030
+success or a failure before announcing
+that they want to use a hero point to
+
+68
+00:01:29,030 --> 00:01:29,040
+that they want to use a hero point to
+ 
+
+69
+00:01:29,040 --> 00:01:31,910
+that they want to use a hero point to
+roll also hero points may be spent to
+
+70
+00:01:31,910 --> 00:01:31,920
+roll also hero points may be spent to
+ 
+
+71
+00:01:31,920 --> 00:01:34,590
+roll also hero points may be spent to
+roll your checks or checks made by your
+
+72
+00:01:34,590 --> 00:01:34,600
+roll your checks or checks made by your
+ 
+
+73
+00:01:34,600 --> 00:01:37,749
+roll your checks or checks made by your
+animal companion or your
+
+74
+00:01:37,749 --> 00:01:37,759
+animal companion or your
+ 
+
+75
+00:01:37,759 --> 00:01:39,830
+animal companion or your
+familiar another thing to keep in mind
+
+76
+00:01:39,830 --> 00:01:39,840
+familiar another thing to keep in mind
+ 
+
+77
+00:01:39,840 --> 00:01:41,870
+familiar another thing to keep in mind
+with hero points is spending them is
+
+78
+00:01:41,870 --> 00:01:41,880
+with hero points is spending them is
+ 
+
+79
+00:01:41,880 --> 00:01:44,670
+with hero points is spending them is
+considered a fortune effect Fortune
+
+80
+00:01:44,670 --> 00:01:44,680
+considered a fortune effect Fortune
+ 
+
+81
+00:01:44,680 --> 00:01:47,469
+considered a fortune effect Fortune
+effects modify roles such as rrolling or
+
+82
+00:01:47,469 --> 00:01:47,479
+effects modify roles such as rrolling or
+ 
+
+83
+00:01:47,479 --> 00:01:49,069
+effects modify roles such as rrolling or
+rolling twice and taking the higher
+
+84
+00:01:49,069 --> 00:01:49,079
+rolling twice and taking the higher
+ 
+
+85
+00:01:49,079 --> 00:01:51,910
+rolling twice and taking the higher
+result while Misfortune effects also
+
+86
+00:01:51,910 --> 00:01:51,920
+result while Misfortune effects also
+ 
+
+87
+00:01:51,920 --> 00:01:54,149
+result while Misfortune effects also
+modify rolls but not to the benefit of
+
+88
+00:01:54,149 --> 00:01:54,159
+modify rolls but not to the benefit of
+ 
+
+89
+00:01:54,159 --> 00:01:56,789
+modify rolls but not to the benefit of
+the player the key to remember here is
+
+90
+00:01:56,789 --> 00:01:56,799
+the player the key to remember here is
+ 
+
+91
+00:01:56,799 --> 00:01:59,590
+the player the key to remember here is
+that any single check cannot be subject
+
+92
+00:01:59,590 --> 00:01:59,600
+that any single check cannot be subject
+ 
+
+93
+00:01:59,600 --> 00:02:02,429
+that any single check cannot be subject
+to more than one Fortune effect and more
+
+94
+00:02:02,429 --> 00:02:02,439
+to more than one Fortune effect and more
+ 
+
+95
+00:02:02,439 --> 00:02:04,830
+to more than one Fortune effect and more
+than one Misfortune effect and if the
+
+96
+00:02:04,830 --> 00:02:04,840
+than one Misfortune effect and if the
+ 
+
+97
+00:02:04,840 --> 00:02:07,149
+than one Misfortune effect and if the
+role is subject to both a fortune and a
+
+98
+00:02:07,149 --> 00:02:07,159
+role is subject to both a fortune and a
+ 
+
+99
+00:02:07,159 --> 00:02:09,389
+role is subject to both a fortune and a
+misfortune effect then they cancel each
+
+100
+00:02:09,389 --> 00:02:09,399
+misfortune effect then they cancel each
+ 
+
+101
+00:02:09,399 --> 00:02:11,470
+misfortune effect then they cancel each
+other out and the check is rolled as
+
+102
+00:02:11,470 --> 00:02:11,480
+other out and the check is rolled as
+ 
+
+103
+00:02:11,480 --> 00:02:13,910
+other out and the check is rolled as
+normal what this means for spending hero
+
+104
+00:02:13,910 --> 00:02:13,920
+normal what this means for spending hero
+ 
+
+105
+00:02:13,920 --> 00:02:16,509
+normal what this means for spending hero
+points is if a check benefits from a
+
+106
+00:02:16,509 --> 00:02:16,519
+points is if a check benefits from a
+ 
+
+107
+00:02:16,519 --> 00:02:18,509
+points is if a check benefits from a
+fortune effect and you don't like the
+
+108
+00:02:18,509 --> 00:02:18,519
+fortune effect and you don't like the
+ 
+
+109
+00:02:18,519 --> 00:02:21,589
+fortune effect and you don't like the
+result you cannot spend a hero point to
+
+110
+00:02:21,589 --> 00:02:21,599
+result you cannot spend a hero point to
+ 
+
+111
+00:02:21,599 --> 00:02:24,710
+result you cannot spend a hero point to
+roll it as it has already benefited from
+
+112
+00:02:24,710 --> 00:02:24,720
+roll it as it has already benefited from
+ 
+
+113
+00:02:24,720 --> 00:02:27,390
+roll it as it has already benefited from
+one Fortune effect for example if you
+
+114
+00:02:27,390 --> 00:02:27,400
+one Fortune effect for example if you
+ 
+
+115
+00:02:27,400 --> 00:02:29,470
+one Fortune effect for example if you
+cast true strike which is a fortune
+
+116
+00:02:29,470 --> 00:02:29,480
+cast true strike which is a fortune
+ 
+
+117
+00:02:29,480 --> 00:02:32,430
+cast true strike which is a fortune
+effect and still miss your attack you
+
+118
+00:02:32,430 --> 00:02:32,440
+effect and still miss your attack you
+ 
+
+119
+00:02:32,440 --> 00:02:34,509
+effect and still miss your attack you
+can't then spend a hero point to roll it
+
+120
+00:02:34,509 --> 00:02:34,519
+can't then spend a hero point to roll it
+ 
+
+121
+00:02:34,519 --> 00:02:36,790
+can't then spend a hero point to roll it
+again this also means that you cannot
+
+122
+00:02:36,790 --> 00:02:36,800
+again this also means that you cannot
+ 
+
+123
+00:02:36,800 --> 00:02:38,869
+again this also means that you cannot
+spend more than one hero point to keep
+
+124
+00:02:38,869 --> 00:02:38,879
+spend more than one hero point to keep
+ 
+
+125
+00:02:38,879 --> 00:02:41,110
+spend more than one hero point to keep
+rrolling over and over until you get a
+
+126
+00:02:41,110 --> 00:02:41,120
+rrolling over and over until you get a
+ 
+
+127
+00:02:41,120 --> 00:02:44,470
+rrolling over and over until you get a
+result you like or you run out of hero
+
+128
+00:02:44,470 --> 00:02:44,480
+result you like or you run out of hero
+ 
+
+129
+00:02:44,480 --> 00:02:47,070
+result you like or you run out of hero
+points the second way hero points can be
+
+130
+00:02:47,070 --> 00:02:47,080
+points the second way hero points can be
+ 
+
+131
+00:02:47,080 --> 00:02:50,509
+points the second way hero points can be
+spent is to avoid death this costs all
+
+132
+00:02:50,509 --> 00:02:50,519
+spent is to avoid death this costs all
+ 
+
+133
+00:02:50,519 --> 00:02:52,350
+spent is to avoid death this costs all
+of your hero points assuming you have at
+
+134
+00:02:52,350 --> 00:02:52,360
+of your hero points assuming you have at
+ 
+
+135
+00:02:52,360 --> 00:02:55,110
+of your hero points assuming you have at
+least one and can be declared at any
+
+136
+00:02:55,110 --> 00:02:55,120
+least one and can be declared at any
+ 
+
+137
+00:02:55,120 --> 00:02:58,110
+least one and can be declared at any
+time your dying condition would increase
+
+138
+00:02:58,110 --> 00:02:58,120
+time your dying condition would increase
+ 
+
+139
+00:02:58,120 --> 00:03:00,430
+time your dying condition would increase
+when you do so you lose the the entire
+
+140
+00:03:00,430 --> 00:03:00,440
+when you do so you lose the the entire
+ 
+
+141
+00:03:00,440 --> 00:03:03,390
+when you do so you lose the the entire
+dying condition you stabilize at zero
+
+142
+00:03:03,390 --> 00:03:03,400
+dying condition you stabilize at zero
+ 
+
+143
+00:03:03,400 --> 00:03:05,710
+dying condition you stabilize at zero
+hit points and your wounded condition
+
+144
+00:03:05,710 --> 00:03:05,720
+hit points and your wounded condition
+ 
+
+145
+00:03:05,720 --> 00:03:08,670
+hit points and your wounded condition
+does not change normally the value of a
+
+146
+00:03:08,670 --> 00:03:08,680
+does not change normally the value of a
+ 
+
+147
+00:03:08,680 --> 00:03:10,789
+does not change normally the value of a
+character's wounded condition increases
+
+148
+00:03:10,789 --> 00:03:10,799
+character's wounded condition increases
+ 
+
+149
+00:03:10,799 --> 00:03:12,869
+character's wounded condition increases
+by one when recovering from the dying
+
+150
+00:03:12,869 --> 00:03:12,879
+by one when recovering from the dying
+ 
+
+151
+00:03:12,879 --> 00:03:16,030
+by one when recovering from the dying
+condition but not when using hero points
+
+152
+00:03:16,030 --> 00:03:16,040
+condition but not when using hero points
+ 
+
+153
+00:03:16,040 --> 00:03:18,030
+condition but not when using hero points
+now you have zero hit points but are
+
+154
+00:03:18,030 --> 00:03:18,040
+now you have zero hit points but are
+ 
+
+155
+00:03:18,040 --> 00:03:20,550
+now you have zero hit points but are
+stable meaning you are unconscious but
+
+156
+00:03:20,550 --> 00:03:20,560
+stable meaning you are unconscious but
+ 
+
+157
+00:03:20,560 --> 00:03:23,550
+stable meaning you are unconscious but
+do not need to roll death saves also
+
+158
+00:03:23,550 --> 00:03:23,560
+do not need to roll death saves also
+ 
+
+159
+00:03:23,560 --> 00:03:25,830
+do not need to roll death saves also
+note that because this rule interacts
+
+160
+00:03:25,830 --> 00:03:25,840
+note that because this rule interacts
+ 
+
+161
+00:03:25,840 --> 00:03:29,149
+note that because this rule interacts
+with the dying condition by raw hero
+
+162
+00:03:29,149 --> 00:03:29,159
+with the dying condition by raw hero
+ 
+
+163
+00:03:29,159 --> 00:03:31,589
+with the dying condition by raw hero
+points can not be used to avoid instant
+
+164
+00:03:31,589 --> 00:03:31,599
+points can not be used to avoid instant
+ 
+
+165
+00:03:31,599 --> 00:03:33,509
+points can not be used to avoid instant
+death like that which occurs with
+
+166
+00:03:33,509 --> 00:03:33,519
+death like that which occurs with
+ 
+
+167
+00:03:33,519 --> 00:03:35,869
+death like that which occurs with
+massive damage or with effects that have
+
+168
+00:03:35,869 --> 00:03:35,879
+massive damage or with effects that have
+ 
+
+169
+00:03:35,879 --> 00:03:37,509
+massive damage or with effects that have
+the death
+
+170
+00:03:37,509 --> 00:03:37,519
+the death
+ 
+
+171
+00:03:37,519 --> 00:03:39,990
+the death
+trait players start every session with
+
+172
+00:03:39,990 --> 00:03:40,000
+trait players start every session with
+ 
+
+173
+00:03:40,000 --> 00:03:41,949
+trait players start every session with
+one hero point and additional hero
+
+174
+00:03:41,949 --> 00:03:41,959
+one hero point and additional hero
+ 
+
+175
+00:03:41,959 --> 00:03:44,789
+one hero point and additional hero
+points must be awarded by the GM this is
+
+176
+00:03:44,789 --> 00:03:44,799
+points must be awarded by the GM this is
+ 
+
+177
+00:03:44,799 --> 00:03:47,509
+points must be awarded by the GM this is
+entirely at the discretion of the GM but
+
+178
+00:03:47,509 --> 00:03:47,519
+entirely at the discretion of the GM but
+ 
+
+179
+00:03:47,519 --> 00:03:49,830
+entirely at the discretion of the GM but
+the core rules suggest awarding them for
+
+180
+00:03:49,830 --> 00:03:49,840
+the core rules suggest awarding them for
+ 
+
+181
+00:03:49,840 --> 00:03:52,429
+the core rules suggest awarding them for
+Heroic accomplishments and at a rate of
+
+182
+00:03:52,429 --> 00:03:52,439
+Heroic accomplishments and at a rate of
+ 
+
+183
+00:03:52,439 --> 00:03:55,949
+Heroic accomplishments and at a rate of
+one hero Point per hour of play and this
+
+184
+00:03:55,949 --> 00:03:55,959
+one hero Point per hour of play and this
+ 
+
+185
+00:03:55,959 --> 00:03:58,429
+one hero Point per hour of play and this
+is a single hero point for a single
+
+186
+00:03:58,429 --> 00:03:58,439
+is a single hero point for a single
+ 
+
+187
+00:03:58,439 --> 00:04:00,949
+is a single hero point for a single
+player not a hero hero point for every
+
+188
+00:04:00,949 --> 00:04:00,959
+player not a hero hero point for every
+ 
+
+189
+00:04:00,959 --> 00:04:03,830
+player not a hero hero point for every
+member of the party every hour and note
+
+190
+00:04:03,830 --> 00:04:03,840
+member of the party every hour and note
+ 
+
+191
+00:04:03,840 --> 00:04:06,309
+member of the party every hour and note
+that players are limited to a maximum of
+
+192
+00:04:06,309 --> 00:04:06,319
+that players are limited to a maximum of
+ 
+
+193
+00:04:06,319 --> 00:04:09,229
+that players are limited to a maximum of
+three hero points and these are awarded
+
+194
+00:04:09,229 --> 00:04:09,239
+three hero points and these are awarded
+ 
+
+195
+00:04:09,239 --> 00:04:11,949
+three hero points and these are awarded
+per session meaning it's use them or
+
+196
+00:04:11,949 --> 00:04:11,959
+per session meaning it's use them or
+ 
+
+197
+00:04:11,959 --> 00:04:14,869
+per session meaning it's use them or
+lose them any hero points not spent at
+
+198
+00:04:14,869 --> 00:04:14,879
+lose them any hero points not spent at
+ 
+
+199
+00:04:14,879 --> 00:04:17,550
+lose them any hero points not spent at
+the end of the session are lost there's
+
+200
+00:04:17,550 --> 00:04:17,560
+the end of the session are lost there's
+ 
+
+201
+00:04:17,560 --> 00:04:19,430
+the end of the session are lost there's
+not a lot of hard guidance provided for
+
+202
+00:04:19,430 --> 00:04:19,440
+not a lot of hard guidance provided for
+ 
+
+203
+00:04:19,440 --> 00:04:21,909
+not a lot of hard guidance provided for
+when a hero point should be awarded but
+
+204
+00:04:21,909 --> 00:04:21,919
+when a hero point should be awarded but
+ 
+
+205
+00:04:21,919 --> 00:04:24,070
+when a hero point should be awarded but
+the book does suggest things like Brave
+
+206
+00:04:24,070 --> 00:04:24,080
+the book does suggest things like Brave
+ 
+
+207
+00:04:24,080 --> 00:04:27,230
+the book does suggest things like Brave
+last stands in using smart strategies in
+
+208
+00:04:27,230 --> 00:04:27,240
+last stands in using smart strategies in
+ 
+
+209
+00:04:27,240 --> 00:04:29,430
+last stands in using smart strategies in
+my opinion their best suggestion is this
+
+210
+00:04:29,430 --> 00:04:29,440
+my opinion their best suggestion is this
+ 
+
+211
+00:04:29,440 --> 00:04:31,909
+my opinion their best suggestion is this
+last T line that says look for those
+
+212
+00:04:31,909 --> 00:04:31,919
+last T line that says look for those
+ 
+
+213
+00:04:31,919 --> 00:04:33,670
+last T line that says look for those
+moments when everybody at the table
+
+214
+00:04:33,670 --> 00:04:33,680
+moments when everybody at the table
+ 
+
+215
+00:04:33,680 --> 00:04:36,629
+moments when everybody at the table
+celebrates or sits back in awe of a
+
+216
+00:04:36,629 --> 00:04:36,639
+celebrates or sits back in awe of a
+ 
+
+217
+00:04:36,639 --> 00:04:39,070
+celebrates or sits back in awe of a
+character's accomplishments that's your
+
+218
+00:04:39,070 --> 00:04:39,080
+character's accomplishments that's your
+ 
+
+219
+00:04:39,080 --> 00:04:42,270
+character's accomplishments that's your
+cue to issue that character a hero point
+
+220
+00:04:42,270 --> 00:04:42,280
+cue to issue that character a hero point
+ 
+
+221
+00:04:42,280 --> 00:04:44,469
+cue to issue that character a hero point
+in my games I extend this to moments of
+
+222
+00:04:44,469 --> 00:04:44,479
+in my games I extend this to moments of
+ 
+
+223
+00:04:44,479 --> 00:04:46,870
+in my games I extend this to moments of
+laughter if a player makes a joke that
+
+224
+00:04:46,870 --> 00:04:46,880
+laughter if a player makes a joke that
+ 
+
+225
+00:04:46,880 --> 00:04:49,070
+laughter if a player makes a joke that
+cracks up the whole table that might be
+
+226
+00:04:49,070 --> 00:04:49,080
+cracks up the whole table that might be
+ 
+
+227
+00:04:49,080 --> 00:04:52,430
+cracks up the whole table that might be
+worth a hero point and some GMS myself
+
+228
+00:04:52,430 --> 00:04:52,440
+worth a hero point and some GMS myself
+ 
+
+229
+00:04:52,440 --> 00:04:54,990
+worth a hero point and some GMS myself
+included find it difficult to remember
+
+230
+00:04:54,990 --> 00:04:55,000
+included find it difficult to remember
+ 
+
+231
+00:04:55,000 --> 00:04:58,029
+included find it difficult to remember
+to award hero points so here are a few
+
+232
+00:04:58,029 --> 00:04:58,039
+to award hero points so here are a few
+ 
+
+233
+00:04:58,039 --> 00:05:00,510
+to award hero points so here are a few
+suggestions that might help out set an
+
+234
+00:05:00,510 --> 00:05:00,520
+suggestions that might help out set an
+ 
+
+235
+00:05:00,520 --> 00:05:03,909
+suggestions that might help out set an
+hourly reminder on your phone encourage
+
+236
+00:05:03,909 --> 00:05:03,919
+hourly reminder on your phone encourage
+ 
+
+237
+00:05:03,919 --> 00:05:06,110
+hourly reminder on your phone encourage
+players to remind you and ask if
+
+238
+00:05:06,110 --> 00:05:06,120
+players to remind you and ask if
+ 
+
+239
+00:05:06,120 --> 00:05:08,830
+players to remind you and ask if
+something they did was worthy of a hero
+
+240
+00:05:08,830 --> 00:05:08,840
+something they did was worthy of a hero
+ 
+
+241
+00:05:08,840 --> 00:05:12,110
+something they did was worthy of a hero
+point at the end of each encounter have
+
+242
+00:05:12,110 --> 00:05:12,120
+point at the end of each encounter have
+ 
+
+243
+00:05:12,120 --> 00:05:14,830
+point at the end of each encounter have
+the players decide who the MVP of that
+
+244
+00:05:14,830 --> 00:05:14,840
+the players decide who the MVP of that
+ 
+
+245
+00:05:14,840 --> 00:05:17,790
+the players decide who the MVP of that
+encounter was and award that player a
+
+246
+00:05:17,790 --> 00:05:17,800
+encounter was and award that player a
+ 
+
+247
+00:05:17,800 --> 00:05:20,870
+encounter was and award that player a
+hero Point award hero points for out of
+
+248
+00:05:20,870 --> 00:05:20,880
+hero Point award hero points for out of
+ 
+
+249
+00:05:20,880 --> 00:05:23,110
+hero Point award hero points for out of
+game events like bringing pizza or
+
+250
+00:05:23,110 --> 00:05:23,120
+game events like bringing pizza or
+ 
+
+251
+00:05:23,120 --> 00:05:25,749
+game events like bringing pizza or
+snacks or helping the GM with tasks like
+
+252
+00:05:25,749 --> 00:05:25,759
+snacks or helping the GM with tasks like
+ 
+
+253
+00:05:25,759 --> 00:05:27,950
+snacks or helping the GM with tasks like
+managing the initiative tracker for them
+
+254
+00:05:27,950 --> 00:05:27,960
+managing the initiative tracker for them
+ 
+
+255
+00:05:27,960 --> 00:05:29,710
+managing the initiative tracker for them
+or for special occasions like a
+
+256
+00:05:29,710 --> 00:05:29,720
+or for special occasions like a
+ 
+
+257
+00:05:29,720 --> 00:05:32,830
+or for special occasions like a
+players's birthday and if you forget to
+
+258
+00:05:32,830 --> 00:05:32,840
+players's birthday and if you forget to
+ 
+
+259
+00:05:32,840 --> 00:05:35,469
+players's birthday and if you forget to
+award hero points in one session award
+
+260
+00:05:35,469 --> 00:05:35,479
+award hero points in one session award
+ 
+
+261
+00:05:35,479 --> 00:05:37,990
+award hero points in one session award
+two to everyone at the start of the next
+
+262
+00:05:37,990 --> 00:05:38,000
+two to everyone at the start of the next
+ 
+
+263
+00:05:38,000 --> 00:05:41,070
+two to everyone at the start of the next
+session again these are just suggestions
+
+264
+00:05:41,070 --> 00:05:41,080
+session again these are just suggestions
+ 
+
+265
+00:05:41,080 --> 00:05:43,390
+session again these are just suggestions
+not rules but they have helped others
+
+266
+00:05:43,390 --> 00:05:43,400
+not rules but they have helped others
+ 
+
+267
+00:05:43,400 --> 00:05:46,189
+not rules but they have helped others
+remember to award hero
+
+268
+00:05:46,189 --> 00:05:46,199
+remember to award hero
+ 
+
+269
+00:05:46,199 --> 00:05:48,990
+remember to award hero
+points also here are a number of
+
+270
+00:05:48,990 --> 00:05:49,000
+points also here are a number of
+ 
+
+271
+00:05:49,000 --> 00:05:51,070
+points also here are a number of
+possible house rules for managing hero
+
+272
+00:05:51,070 --> 00:05:51,080
+possible house rules for managing hero
+ 
+
+273
+00:05:51,080 --> 00:05:54,110
+possible house rules for managing hero
+points this is just a small sample feel
+
+274
+00:05:54,110 --> 00:05:54,120
+points this is just a small sample feel
+ 
+
+275
+00:05:54,120 --> 00:05:55,909
+points this is just a small sample feel
+free to leave a comment on this video
+
+276
+00:05:55,909 --> 00:05:55,919
+free to leave a comment on this video
+ 
+
+277
+00:05:55,919 --> 00:05:58,629
+free to leave a comment on this video
+with your own suggestions for secret
+
+278
+00:05:58,629 --> 00:05:58,639
+with your own suggestions for secret
+ 
+
+279
+00:05:58,639 --> 00:06:00,550
+with your own suggestions for secret
+checks that the player does know about
+
+280
+00:06:00,550 --> 00:06:00,560
+checks that the player does know about
+ 
+
+281
+00:06:00,560 --> 00:06:02,950
+checks that the player does know about
+like recall knowledge or stealth
+
+282
+00:06:02,950 --> 00:06:02,960
+like recall knowledge or stealth
+ 
+
+283
+00:06:02,960 --> 00:06:05,350
+like recall knowledge or stealth
+announce your spending the hero point
+
+284
+00:06:05,350 --> 00:06:05,360
+announce your spending the hero point
+ 
+
+285
+00:06:05,360 --> 00:06:07,870
+announce your spending the hero point
+before the check is rolled the GM Will
+
+286
+00:06:07,870 --> 00:06:07,880
+before the check is rolled the GM Will
+ 
+
+287
+00:06:07,880 --> 00:06:10,870
+before the check is rolled the GM Will
+Roll both and take the highest result in
+
+288
+00:06:10,870 --> 00:06:10,880
+Roll both and take the highest result in
+ 
+
+289
+00:06:10,880 --> 00:06:14,270
+Roll both and take the highest result in
+secret hero points may be spent to roll
+
+290
+00:06:14,270 --> 00:06:14,280
+secret hero points may be spent to roll
+ 
+
+291
+00:06:14,280 --> 00:06:16,790
+secret hero points may be spent to roll
+enemy attack rules provided the player
+
+292
+00:06:16,790 --> 00:06:16,800
+enemy attack rules provided the player
+ 
+
+293
+00:06:16,800 --> 00:06:20,230
+enemy attack rules provided the player
+is being affected by said role spending
+
+294
+00:06:20,230 --> 00:06:20,240
+is being affected by said role spending
+ 
+
+295
+00:06:20,240 --> 00:06:22,550
+is being affected by said role spending
+hero points to avoid death grants one
+
+296
+00:06:22,550 --> 00:06:22,560
+hero points to avoid death grants one
+ 
+
+297
+00:06:22,560 --> 00:06:24,790
+hero points to avoid death grants one
+hit point thus allowing the character to
+
+298
+00:06:24,790 --> 00:06:24,800
+hit point thus allowing the character to
+ 
+
+299
+00:06:24,800 --> 00:06:28,510
+hit point thus allowing the character to
+rejoin a fight award three hero points
+
+300
+00:06:28,510 --> 00:06:28,520
+rejoin a fight award three hero points
+ 
+
+301
+00:06:28,520 --> 00:06:30,950
+rejoin a fight award three hero points
+for three different reasons the first
+
+302
+00:06:30,950 --> 00:06:30,960
+for three different reasons the first
+ 
+
+303
+00:06:30,960 --> 00:06:33,390
+for three different reasons the first
+point is not awarded to everybody
+
+304
+00:06:33,390 --> 00:06:33,400
+point is not awarded to everybody
+ 
+
+305
+00:06:33,400 --> 00:06:34,870
+point is not awarded to everybody
+automatically at the start of the
+
+306
+00:06:34,870 --> 00:06:34,880
+automatically at the start of the
+ 
+
+307
+00:06:34,880 --> 00:06:37,830
+automatically at the start of the
+session and instead is only awarded to
+
+308
+00:06:37,830 --> 00:06:37,840
+session and instead is only awarded to
+ 
+
+309
+00:06:37,840 --> 00:06:39,990
+session and instead is only awarded to
+those players who arrive to the game on
+
+310
+00:06:39,990 --> 00:06:40,000
+those players who arrive to the game on
+ 
+
+311
+00:06:40,000 --> 00:06:42,990
+those players who arrive to the game on
+Time the second Point can be earned for
+
+312
+00:06:42,990 --> 00:06:43,000
+Time the second Point can be earned for
+ 
+
+313
+00:06:43,000 --> 00:06:45,029
+Time the second Point can be earned for
+doing something outside of the game like
+
+314
+00:06:45,029 --> 00:06:45,039
+doing something outside of the game like
+ 
+
+315
+00:06:45,039 --> 00:06:47,670
+doing something outside of the game like
+bringing snacks while the third Point
+
+316
+00:06:47,670 --> 00:06:47,680
+bringing snacks while the third Point
+ 
+
+317
+00:06:47,680 --> 00:06:49,749
+bringing snacks while the third Point
+can be earned for doing something inside
+
+318
+00:06:49,749 --> 00:06:49,759
+can be earned for doing something inside
+ 
+
+319
+00:06:49,759 --> 00:06:53,589
+can be earned for doing something inside
+the game like a heroic act if a session
+
+320
+00:06:53,589 --> 00:06:53,599
+the game like a heroic act if a session
+ 
+
+321
+00:06:53,599 --> 00:06:56,469
+the game like a heroic act if a session
+ends mid encounter all Hero points
+
+322
+00:06:56,469 --> 00:06:56,479
+ends mid encounter all Hero points
+ 
+
+323
+00:06:56,479 --> 00:06:58,510
+ends mid encounter all Hero points
+persist through the start of the next
+
+324
+00:06:58,510 --> 00:06:58,520
+persist through the start of the next
+ 
+
+325
+00:06:58,520 --> 00:07:01,950
+persist through the start of the next
+session and are reset following that
+
+326
+00:07:01,950 --> 00:07:01,960
+session and are reset following that
+ 
+
+327
+00:07:01,960 --> 00:07:04,589
+session and are reset following that
+encounter hero points can be spent to
+
+328
+00:07:04,589 --> 00:07:04,599
+encounter hero points can be spent to
+ 
+
+329
+00:07:04,599 --> 00:07:07,230
+encounter hero points can be spent to
+survive massive damage if the player can
+
+330
+00:07:07,230 --> 00:07:07,240
+survive massive damage if the player can
+ 
+
+331
+00:07:07,240 --> 00:07:09,150
+survive massive damage if the player can
+provide a heroically appropriate
+
+332
+00:07:09,150 --> 00:07:09,160
+provide a heroically appropriate
+ 
+
+333
+00:07:09,160 --> 00:07:13,029
+provide a heroically appropriate
+explanation for it and some GMS enhance
+
+334
+00:07:13,029 --> 00:07:13,039
+explanation for it and some GMS enhance
+ 
+
+335
+00:07:13,039 --> 00:07:15,950
+explanation for it and some GMS enhance
+hero points by granting a plus 10 to the
+
+336
+00:07:15,950 --> 00:07:15,960
+hero points by granting a plus 10 to the
+ 
+
+337
+00:07:15,960 --> 00:07:19,550
+hero points by granting a plus 10 to the
+reroll if the number on the die is 10 or
+
+338
+00:07:19,550 --> 00:07:19,560
+reroll if the number on the die is 10 or
+ 
+
+339
+00:07:19,560 --> 00:07:22,550
+reroll if the number on the die is 10 or
+less this reduces the chance of players
+
+340
+00:07:22,550 --> 00:07:22,560
+less this reduces the chance of players
+ 
+
+341
+00:07:22,560 --> 00:07:25,270
+less this reduces the chance of players
+being disappointed after spending a hero
+
+342
+00:07:25,270 --> 00:07:25,280
+being disappointed after spending a hero
+ 
+
+343
+00:07:25,280 --> 00:07:27,909
+being disappointed after spending a hero
+point and speaking of alternate ways to
+
+344
+00:07:27,909 --> 00:07:27,919
+point and speaking of alternate ways to
+ 
+
+345
+00:07:27,919 --> 00:07:30,869
+point and speaking of alternate ways to
+manage hero points p does produce a deck
+
+346
+00:07:30,869 --> 00:07:30,879
+manage hero points p does produce a deck
+ 
+
+347
+00:07:30,879 --> 00:07:33,309
+manage hero points p does produce a deck
+of hero Point cards these cards are
+
+348
+00:07:33,309 --> 00:07:33,319
+of hero Point cards these cards are
+ 
+
+349
+00:07:33,319 --> 00:07:35,309
+of hero Point cards these cards are
+awarded and function the same way as
+
+350
+00:07:35,309 --> 00:07:35,319
+awarded and function the same way as
+ 
+
+351
+00:07:35,319 --> 00:07:37,869
+awarded and function the same way as
+normal hero points but each card also
+
+352
+00:07:37,869 --> 00:07:37,879
+normal hero points but each card also
+ 
+
+353
+00:07:37,879 --> 00:07:39,670
+normal hero points but each card also
+provides an additional way it can be
+
+354
+00:07:39,670 --> 00:07:39,680
+provides an additional way it can be
+ 
+
+355
+00:07:39,680 --> 00:07:42,430
+provides an additional way it can be
+spent for example a card might Grant a
+
+356
+00:07:42,430 --> 00:07:42,440
+spent for example a card might Grant a
+ 
+
+357
+00:07:42,440 --> 00:07:44,230
+spent for example a card might Grant a
+character a fourth action on their turn
+
+358
+00:07:44,230 --> 00:07:44,240
+character a fourth action on their turn
+ 
+
+359
+00:07:44,240 --> 00:07:47,270
+character a fourth action on their turn
+to stride or it might allow them to heal
+
+360
+00:07:47,270 --> 00:07:47,280
+to stride or it might allow them to heal
+ 
+
+361
+00:07:47,280 --> 00:07:49,830
+to stride or it might allow them to heal
+an ally through prayer or even deal
+
+362
+00:07:49,830 --> 00:07:49,840
+an ally through prayer or even deal
+ 
+
+363
+00:07:49,840 --> 00:07:52,110
+an ally through prayer or even deal
+extra damaged ice following a successful
+
+364
+00:07:52,110 --> 00:07:52,120
+extra damaged ice following a successful
+ 
+
+365
+00:07:52,120 --> 00:07:54,270
+extra damaged ice following a successful
+strike this can add a little more fun
+
+366
+00:07:54,270 --> 00:07:54,280
+strike this can add a little more fun
+ 
+
+367
+00:07:54,280 --> 00:07:56,749
+strike this can add a little more fun
+and flavor Beyond Simple roles if you're
+
+368
+00:07:56,749 --> 00:07:56,759
+and flavor Beyond Simple roles if you're
+ 
+
+369
+00:07:56,759 --> 00:07:58,710
+and flavor Beyond Simple roles if you're
+interested in getting a deck it can be
+
+370
+00:07:58,710 --> 00:07:58,720
+interested in getting a deck it can be
+ 
+
+371
+00:07:58,720 --> 00:08:00,869
+interested in getting a deck it can be
+purchased through the piso webset for
+
+372
+00:08:00,869 --> 00:08:00,879
+purchased through the piso webset for
+ 
+
+373
+00:08:00,879 --> 00:08:05,270
+purchased through the piso webset for
+$14.99 or the pdf version for
+
+374
+00:08:05,270 --> 00:08:05,280
+
+ 
+
+375
+00:08:05,280 --> 00:08:07,670
+
+$9.99 before we close I'd like to take a
+
+376
+00:08:07,670 --> 00:08:07,680
+$9.99 before we close I'd like to take a
+ 
+
+377
+00:08:07,680 --> 00:08:09,909
+$9.99 before we close I'd like to take a
+moment to thank all of my patrons these
+
+378
+00:08:09,909 --> 00:08:09,919
+moment to thank all of my patrons these
+ 
+
+379
+00:08:09,919 --> 00:08:11,510
+moment to thank all of my patrons these
+videos would not be possible without
+
+380
+00:08:11,510 --> 00:08:11,520
+videos would not be possible without
+ 
+
+381
+00:08:11,520 --> 00:08:14,189
+videos would not be possible without
+their continued generosity and support
+
+382
+00:08:14,189 --> 00:08:14,199
+their continued generosity and support
+ 
+
+383
+00:08:14,199 --> 00:08:15,270
+their continued generosity and support
+if you would like to support this
+
+384
+00:08:15,270 --> 00:08:15,280
+if you would like to support this
+ 
+
+385
+00:08:15,280 --> 00:08:17,469
+if you would like to support this
+Channel and help it grow the easiest way
+
+386
+00:08:17,469 --> 00:08:17,479
+Channel and help it grow the easiest way
+ 
+
+387
+00:08:17,479 --> 00:08:19,390
+Channel and help it grow the easiest way
+to do that is by subscribing and
+
+388
+00:08:19,390 --> 00:08:19,400
+to do that is by subscribing and
+ 
+
+389
+00:08:19,400 --> 00:08:21,110
+to do that is by subscribing and
+clicking the Bell icon so you get
+
+390
+00:08:21,110 --> 00:08:21,120
+clicking the Bell icon so you get
+ 
+
+391
+00:08:21,120 --> 00:08:23,309
+clicking the Bell icon so you get
+notified when new videos release and I
+
+392
+00:08:23,309 --> 00:08:23,319
+notified when new videos release and I
+ 
+
+393
+00:08:23,319 --> 00:08:24,909
+notified when new videos release and I
+can always be reached through Twitter
+
+394
+00:08:24,909 --> 00:08:24,919
+can always be reached through Twitter
+ 
+
+395
+00:08:24,919 --> 00:08:27,390
+can always be reached through Twitter
+and Facebook too thanks for watching
+
+396
+00:08:27,390 --> 00:08:27,400
+and Facebook too thanks for watching
+ 
+
+397
+00:08:27,400 --> 00:08:31,010
+and Facebook too thanks for watching
+take care and happy gaming h
+
+398
+00:08:31,010 --> 00:08:31,020
+take care and happy gaming h
+ 
+
+399
+00:08:31,020 --> 00:08:34,490
+take care and happy gaming h
+[Music]
+

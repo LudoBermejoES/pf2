@@ -1,0 +1,3323 @@
+1
+00:00:00,659 --> 00:00:03,110
+
+Hola y bienvenidos a los fundamentos de los
+
+2
+00:00:03,110 --> 00:00:03,120
+Hola y bienvenidos a los fundamentos de los
+ 
+
+3
+00:00:03,120 --> 00:00:05,420
+Hola y bienvenidos a los fundamentos de los
+animales en Pathfinder segunda edición. En
+
+4
+00:00:05,420 --> 00:00:05,430
+animales en Pathfinder segunda edición. En
+ 
+
+5
+00:00:05,430 --> 00:00:07,970
+animales en Pathfinder segunda edición. En
+este curso examinaremos a los animales en un
+
+6
+00:00:07,970 --> 00:00:07,980
+este curso examinaremos a los animales en un
+ 
+
+7
+00:00:07,980 --> 00:00:10,700
+este curso examinaremos a los animales en un
+sentido general y los siguientes videos
+
+8
+00:00:10,700 --> 00:00:10,710
+sentido general y los siguientes videos
+ 
+
+9
+00:00:10,710 --> 00:00:13,280
+sentido general y los siguientes videos
+cubrirán animales más especializados, como
+
+10
+00:00:13,280 --> 00:00:13,290
+cubrirán animales más especializados, como
+ 
+
+11
+00:00:13,290 --> 00:00:18,439
+cubrirán animales más especializados, como
+monturas, compañeros y familiares. Los animales
+
+12
+00:00:18,439 --> 00:00:18,449
+monturas, compañeros y familiares. Los animales
+ 
+
+13
+00:00:18,449 --> 00:00:20,359
+monturas, compañeros y familiares. Los animales
+son criaturas naturales que también
+
+14
+00:00:20,359 --> 00:00:20,369
+son criaturas naturales que también
+ 
+
+15
+00:00:20,369 --> 00:00:22,790
+son criaturas naturales que también
+existen comúnmente en el mundo real.
+
+16
+00:00:22,790 --> 00:00:22,800
+existen comúnmente en el mundo real.
+ 
+
+17
+00:00:22,800 --> 00:00:24,729
+existen comúnmente en el mundo real.
+Es importante tener en cuenta que dentro de
+
+18
+00:00:24,729 --> 00:00:24,739
+Es importante tener en cuenta que dentro de
+ 
+
+19
+00:00:24,739 --> 00:00:28,009
+Es importante tener en cuenta que dentro de
+Pathfinder no todas las criaturas que se parecen a
+
+20
+00:00:28,009 --> 00:00:28,019
+Pathfinder no todas las criaturas que se parecen a
+ 
+
+21
+00:00:28,019 --> 00:00:30,229
+Pathfinder no todas las criaturas que se parecen a
+un animal o comparten su nombre con
+
+22
+00:00:30,229 --> 00:00:30,239
+un animal o comparten su nombre con
+ 
+
+23
+00:00:30,239 --> 00:00:33,530
+un animal o comparten su nombre con
+un animal se consideran animales
+
+24
+00:00:33,530 --> 00:00:33,540
+un animal se consideran animales
+ 
+
+25
+00:00:33,540 --> 00:00:37,760
+un animal se consideran animales
+en términos del juego. Por ejemplo, a la izquierda
+
+26
+00:00:37,760 --> 00:00:37,770
+en términos del juego. Por ejemplo, a la izquierda
+ 
+
+27
+00:00:37,770 --> 00:00:40,730
+en términos del juego. Por ejemplo, a la izquierda
+tenemos una imagen de un lobo y a la
+
+28
+00:00:40,730 --> 00:00:40,740
+tenemos una imagen de un lobo y a la
+ 
+
+29
+00:00:40,740 --> 00:00:43,220
+tenemos una imagen de un lobo y a la
+derecha hay una imagen de un
+
+30
+00:00:43,220 --> 00:00:43,230
+derecha hay una imagen de un
+ 
+
+31
+00:00:43,230 --> 00:00:46,430
+derecha hay una imagen de un
+lobo de invierno. Ambos se ven similares, ambos son
+
+32
+00:00:46,430 --> 00:00:46,440
+lobo de invierno. Ambos se ven similares, ambos son
+ 
+
+33
+00:00:46,440 --> 00:00:49,280
+lobo de invierno. Ambos se ven similares, ambos son
+lobos fríos, pero solo uno de ellos se
+
+34
+00:00:49,280 --> 00:00:49,290
+lobos fríos, pero solo uno de ellos se
+ 
+
+35
+00:00:49,290 --> 00:00:53,120
+lobos fríos, pero solo uno de ellos se
+considera un animal. Los lobos son
+
+36
+00:00:53,120 --> 00:00:53,130
+considera un animal. Los lobos son
+ 
+
+37
+00:00:53,130 --> 00:00:55,190
+considera un animal. Los lobos son
+animales y lo sabemos porque su
+
+38
+00:00:55,190 --> 00:00:55,200
+animales y lo sabemos porque su
+ 
+
+39
+00:00:55,200 --> 00:00:58,280
+animales y lo sabemos porque su
+bloque de paso muestra la etiqueta del animal, pero los
+
+40
+00:00:58,280 --> 00:00:58,290
+bloque de paso muestra la etiqueta del animal, pero los
+ 
+
+41
+00:00:58,290 --> 00:01:01,729
+bloque de paso muestra la etiqueta del animal, pero los
+lobos de invierno no son animales. Podemos ver
+
+42
+00:01:01,729 --> 00:01:01,739
+lobos de invierno no son animales. Podemos ver
+ 
+
+43
+00:01:01,739 --> 00:01:04,999
+lobos de invierno no son animales. Podemos ver
+aquí que son bestias y la
+
+44
+00:01:04,999 --> 00:01:05,009
+aquí que son bestias y la
+ 
+
+45
+00:01:05,009 --> 00:01:07,099
+aquí que son bestias y la
+diferencia clave entre un animal y una bestia
+
+46
+00:01:07,099 --> 00:01:07,109
+diferencia clave entre un animal y una bestia
+ 
+
+47
+00:01:07,109 --> 00:01:10,819
+diferencia clave entre un animal y una bestia
+es la inteligencia. Los animales tienen un
+
+48
+00:01:10,819 --> 00:01:10,829
+es la inteligencia. Los animales tienen un
+ 
+
+49
+00:01:10,829 --> 00:01:13,819
+es la inteligencia. Los animales tienen un
+modificador de inteligencia de -4 o
+
+50
+00:01:13,819 --> 00:01:13,829
+modificador de inteligencia de -4 o
+ 
+
+51
+00:01:13,829 --> 00:01:16,550
+modificador de inteligencia de -4 o
+menor y las bestias tienen
+
+52
+00:01:16,550 --> 00:01:16,560
+menor y las bestias tienen
+ 
+
+53
+00:01:16,560 --> 00:01:19,870
+menor y las bestias tienen
+modificadores de inteligencia de -3 o mayor, como
+
+54
+00:01:19,870 --> 00:01:19,880
+modificadores de inteligencia de -3 o mayor, como
+ 
+
+55
+00:01:19,880 --> 00:01:22,819
+modificadores de inteligencia de -3 o mayor, como
+tales, las bestias a menudo son lo suficientemente inteligentes como
+
+56
+00:01:22,819 --> 00:01:22,829
+tales, las bestias a menudo son lo suficientemente inteligentes como
+ 
+
+57
+00:01:22,829 --> 00:01:25,099
+tales, las bestias a menudo son lo suficientemente inteligentes como
+para entender idiomas y pueden
+
+58
+00:01:25,099 --> 00:01:25,109
+para entender idiomas y pueden
+ 
+
+59
+00:01:25,109 --> 00:01:27,139
+para entender idiomas y pueden
+aplicar una razón que va más allá de los
+
+60
+00:01:27,139 --> 00:01:27,149
+aplicar una razón que va más allá de los
+ 
+
+61
+00:01:27,149 --> 00:01:30,109
+aplicar una razón que va más allá de los
+simples instintos animales y, por lo tanto,
+
+62
+00:01:30,109 --> 00:01:30,119
+simples instintos animales y, por lo tanto,
+ 
+
+63
+00:01:30,119 --> 00:01:32,359
+simples instintos animales y, por lo tanto,
+probablemente usarías la diplomacia.  y
+
+64
+00:01:32,359 --> 00:01:32,369
+probablemente usarías la diplomacia.  y
+ 
+
+65
+00:01:32,369 --> 00:01:35,090
+probablemente usarías la diplomacia.  y
+habilidades de intimidación para influenciar a una bestia
+
+66
+00:01:35,090 --> 00:01:35,100
+habilidades de intimidación para influenciar a una bestia
+ 
+
+67
+00:01:35,100 --> 00:01:37,399
+habilidades de intimidación para influenciar a una bestia
+en lugar de la habilidad de naturaleza que es lo que
+
+68
+00:01:37,399 --> 00:01:37,409
+en lugar de la habilidad de naturaleza que es lo que
+ 
+
+69
+00:01:37,409 --> 00:01:39,199
+en lugar de la habilidad de naturaleza que es lo que
+usarías para influenciar a un
+
+70
+00:01:39,199 --> 00:01:39,209
+usarías para influenciar a un
+ 
+
+71
+00:01:39,209 --> 00:01:42,410
+usarías para influenciar a un
+animal. Algunos animales estándar están
+
+72
+00:01:42,410 --> 00:01:42,420
+animal. Algunos animales estándar están
+ 
+
+73
+00:01:42,420 --> 00:01:44,480
+animal. Algunos animales estándar están
+incluidos en las reglas básicas y se pueden
+
+74
+00:01:44,480 --> 00:01:44,490
+incluidos en las reglas básicas y se pueden
+ 
+
+75
+00:01:44,490 --> 00:01:47,599
+incluidos en las reglas básicas y se pueden
+comprar, por ejemplo, perros guardianes.
+
+76
+00:01:47,599 --> 00:01:47,609
+comprar, por ejemplo, perros guardianes.
+ 
+
+77
+00:01:47,609 --> 00:01:50,719
+comprar, por ejemplo, perros guardianes.
+Notarás que se presentan dos costos. Los
+
+78
+00:01:50,719 --> 00:01:50,729
+Notarás que se presentan dos costos. Los
+ 
+
+79
+00:01:50,729 --> 00:01:53,569
+Notarás que se presentan dos costos. Los
+perros guardianes se pueden alquilar por un cobre por
+
+80
+00:01:53,569 --> 00:01:53,579
+perros guardianes se pueden alquilar por un cobre por
+ 
+
+81
+00:01:53,579 --> 00:01:56,539
+perros guardianes se pueden alquilar por un cobre por
+día o comprar por dos piezas de plata
+
+82
+00:01:56,539 --> 00:01:56,549
+día o comprar por dos piezas de plata
+ 
+
+83
+00:01:56,549 --> 00:02:00,529
+día o comprar por dos piezas de plata
+si se alquila el gasto total por adelantado,
+
+84
+00:02:00,529 --> 00:02:00,539
+si se alquila el gasto total por adelantado,
+ 
+
+85
+00:02:00,539 --> 00:02:03,859
+si se alquila el gasto total por adelantado,
+así que si planeas alquilar un perro por
+
+86
+00:02:03,859 --> 00:02:03,869
+así que si planeas alquilar un perro por
+ 
+
+87
+00:02:03,869 --> 00:02:06,800
+así que si planeas alquilar un perro por
+una semana, debes pagar siete de cobre
+
+88
+00:02:06,800 --> 00:02:06,810
+una semana, debes pagar siete de cobre
+ 
+
+89
+00:02:06,810 --> 00:02:09,560
+una semana, debes pagar siete de cobre
+al principio. Si la persona que proporciona el
+
+90
+00:02:09,560 --> 00:02:09,570
+al principio. Si la persona que proporciona el
+ 
+
+91
+00:02:09,570 --> 00:02:11,930
+al principio. Si la persona que proporciona el
+animal tiene alguna razón para creer que
+
+92
+00:02:11,930 --> 00:02:11,940
+animal tiene alguna razón para creer que
+ 
+
+93
+00:02:11,940 --> 00:02:14,000
+animal tiene alguna razón para creer que
+será lastimado mientras esté en tu posesión,
+
+94
+00:02:14,000 --> 00:02:14,010
+será lastimado mientras esté en tu posesión,
+ 
+
+95
+00:02:14,010 --> 00:02:16,580
+será lastimado mientras esté en tu posesión,
+entonces deberás proporcionar el
+
+96
+00:02:16,580 --> 00:02:16,590
+entonces deberás proporcionar el
+ 
+
+97
+00:02:16,590 --> 00:02:20,360
+entonces deberás proporcionar el
+costo total del animal como depósito. Así que si
+
+98
+00:02:20,360 --> 00:02:20,370
+costo total del animal como depósito. Así que si
+ 
+
+99
+00:02:20,370 --> 00:02:22,760
+costo total del animal como depósito. Así que si
+estás alquilando un perro guardián por una semana en
+
+100
+00:02:22,760 --> 00:02:22,770
+estás alquilando un perro guardián por una semana en
+ 
+
+101
+00:02:22,770 --> 00:02:24,920
+estás alquilando un perro guardián por una semana en
+la perrera y sospechas que el perro
+
+102
+00:02:24,920 --> 00:02:24,930
+la perrera y sospechas que el perro
+ 
+
+103
+00:02:24,930 --> 00:02:27,830
+la perrera y sospechas que el perro
+puede ser lastimado porque obviamente pareces
+
+104
+00:02:27,830 --> 00:02:27,840
+puede ser lastimado porque obviamente pareces
+ 
+
+105
+00:02:27,840 --> 00:02:30,050
+puede ser lastimado porque obviamente pareces
+un aventurero, entonces deberás
+
+106
+00:02:30,050 --> 00:02:30,060
+un aventurero, entonces deberás
+ 
+
+107
+00:02:30,060 --> 00:02:33,200
+un aventurero, entonces deberás
+pagar dos piezas de plata en siete de cobre por
+
+108
+00:02:33,200 --> 00:02:33,210
+pagar dos piezas de plata en siete de cobre por
+ 
+
+109
+00:02:33,210 --> 00:02:36,080
+pagar dos piezas de plata en siete de cobre por
+adelantado y si devuelves al perro
+
+110
+00:02:36,080 --> 00:02:36,090
+adelantado y si devuelves al perro
+ 
+
+111
+00:02:36,090 --> 00:02:38,990
+adelantado y si devuelves al perro
+ileso dentro de esos siete días, te devolverán
+
+112
+00:02:38,990 --> 00:02:39,000
+ileso dentro de esos siete días, te devolverán
+ 
+
+113
+00:02:39,000 --> 00:02:41,510
+ileso dentro de esos siete días, te devolverán
+tu depósito de dos piezas de plata.
+
+114
+00:02:41,510 --> 00:02:41,520
+tu depósito de dos piezas de plata.
+ 
+
+115
+00:02:41,520 --> 00:02:43,589
+tu depósito de dos piezas de plata.
+
+116
+00:02:43,589 --> 00:02:43,599
+
+ 
+
+117
+00:02:43,599 --> 00:02:46,589
+
+Cada animal conoce una lista de acciones y
+
+118
+00:02:46,589 --> 00:02:46,599
+Cada animal conoce una lista de acciones y
+ 
+
+119
+00:02:46,599 --> 00:02:49,679
+Cada animal conoce una lista de acciones y
+puedes usar el comando y el animal para dirigir a
+
+120
+00:02:49,679 --> 00:02:49,689
+puedes usar el comando y el animal para dirigir a
+ 
+
+121
+00:02:49,689 --> 00:02:51,780
+puedes usar el comando y el animal para dirigir a
+tu animal a realizar una de esas
+
+122
+00:02:51,780 --> 00:02:51,790
+tu animal a realizar una de esas
+ 
+
+123
+00:02:51,790 --> 00:02:55,259
+tu animal a realizar una de esas
+acciones que conocen por defecto. La mayoría de los
+
+124
+00:02:55,259 --> 00:02:55,269
+acciones que conocen por defecto. La mayoría de los
+ 
+
+125
+00:02:55,269 --> 00:02:59,369
+acciones que conocen por defecto. La mayoría de los
+animales deberían saber saltar, buscar, pararse.
+
+126
+00:02:59,369 --> 00:02:59,379
+animales deberían saber saltar, buscar, pararse.
+ 
+
+127
+00:02:59,379 --> 00:03:03,929
+animales deberían saber saltar, buscar, pararse.
+zancada en acciones de ataque además de
+
+128
+00:03:03,929 --> 00:03:03,939
+zancada en acciones de ataque además de
+ 
+
+129
+00:03:03,939 --> 00:03:06,569
+zancada en acciones de ataque además de
+estas, conocerán cualquier otra acción
+
+130
+00:03:06,569 --> 00:03:06,579
+estas, conocerán cualquier otra acción
+ 
+
+131
+00:03:06,579 --> 00:03:09,089
+estas, conocerán cualquier otra acción
+que esté listada en sus bloques de paso, por
+
+132
+00:03:09,089 --> 00:03:09,099
+que esté listada en sus bloques de paso, por
+ 
+
+133
+00:03:09,099 --> 00:03:12,179
+que esté listada en sus bloques de paso, por
+ejemplo, galopar aparece en el bloque de paso
+
+134
+00:03:12,179 --> 00:03:12,189
+ejemplo, galopar aparece en el bloque de paso
+ 
+
+135
+00:03:12,189 --> 00:03:15,030
+ejemplo, galopar aparece en el bloque de paso
+para ponis, así que puedes usar comando y
+
+136
+00:03:15,030 --> 00:03:15,040
+para ponis, así que puedes usar comando y
+ 
+
+137
+00:03:15,040 --> 00:03:18,509
+para ponis, así que puedes usar comando y
+animal para dirigir a un poni a galopar, pero
+
+138
+00:03:18,509 --> 00:03:18,519
+animal para dirigir a un poni a galopar, pero
+ 
+
+139
+00:03:18,519 --> 00:03:20,550
+animal para dirigir a un poni a galopar, pero
+normalmente no puedes usar comando a un
+
+140
+00:03:20,550 --> 00:03:20,560
+normalmente no puedes usar comando a un
+ 
+
+141
+00:03:20,560 --> 00:03:22,890
+normalmente no puedes usar comando a un
+animal para decirle a un animal que realice una
+
+142
+00:03:22,890 --> 00:03:22,900
+animal para decirle a un animal que realice una
+ 
+
+143
+00:03:22,900 --> 00:03:25,020
+animal para decirle a un animal que realice una
+acción que no esté incluida en esa
+
+144
+00:03:25,020 --> 00:03:25,030
+acción que no esté incluida en esa
+ 
+
+145
+00:03:25,030 --> 00:03:28,050
+acción que no esté incluida en esa
+lista predeterminada o listada en su
+
+146
+00:03:28,050 --> 00:03:28,060
+lista predeterminada o listada en su
+ 
+
+147
+00:03:28,060 --> 00:03:30,780
+lista predeterminada o listada en su
+bloque de paso, así que, por ejemplo, no puedes usar
+
+148
+00:03:30,780 --> 00:03:30,790
+bloque de paso, así que, por ejemplo, no puedes usar
+ 
+
+149
+00:03:30,790 --> 00:03:33,809
+bloque de paso, así que, por ejemplo, no puedes usar
+comando y animal para decirle a tu poni que
+
+150
+00:03:33,809 --> 00:03:33,819
+comando y animal para decirle a tu poni que
+ 
+
+151
+00:03:33,819 --> 00:03:36,000
+comando y animal para decirle a tu poni que
+recoja un objeto en su boca y te lo traiga
+
+152
+00:03:36,000 --> 00:03:36,010
+recoja un objeto en su boca y te lo traiga
+ 
+
+153
+00:03:36,010 --> 00:03:39,149
+recoja un objeto en su boca y te lo traiga
+porque los ponis normales no
+
+154
+00:03:39,149 --> 00:03:39,159
+porque los ponis normales no
+ 
+
+155
+00:03:39,159 --> 00:03:42,659
+porque los ponis normales no
+conocen la acción de interactuar cuando usas
+
+156
+00:03:42,659 --> 00:03:42,669
+conocen la acción de interactuar cuando usas
+ 
+
+157
+00:03:42,669 --> 00:03:44,640
+conocen la acción de interactuar cuando usas
+comando a un animal para dar una orden a
+
+158
+00:03:44,640 --> 00:03:44,650
+comando a un animal para dar una orden a
+ 
+
+159
+00:03:44,650 --> 00:03:47,520
+comando a un animal para dar una orden a
+un animal, gastas una cantidad de acciones
+
+160
+00:03:47,520 --> 00:03:47,530
+un animal, gastas una cantidad de acciones
+ 
+
+161
+00:03:47,530 --> 00:03:49,830
+un animal, gastas una cantidad de acciones
+igual a la actividad que estás
+
+162
+00:03:49,830 --> 00:03:49,840
+igual a la actividad que estás
+ 
+
+163
+00:03:49,840 --> 00:03:52,649
+igual a la actividad que estás
+indicando que realice el animal. galopar
+
+164
+00:03:52,649 --> 00:03:52,659
+indicando que realice el animal. galopar
+ 
+
+165
+00:03:52,659 --> 00:03:55,409
+indicando que realice el animal. galopar
+requiere dos acciones para que un poni lo realice,
+
+166
+00:03:55,409 --> 00:03:55,419
+requiere dos acciones para que un poni lo realice,
+ 
+
+167
+00:03:55,419 --> 00:03:57,899
+requiere dos acciones para que un poni lo realice,
+así que si quisieras decirle a tu oponente que
+
+168
+00:03:57,899 --> 00:03:57,909
+así que si quisieras decirle a tu oponente que
+ 
+
+169
+00:03:57,909 --> 00:04:01,020
+así que si quisieras decirle a tu oponente que
+galope, necesitarías gastar dos de
+
+170
+00:04:01,020 --> 00:04:01,030
+galope, necesitarías gastar dos de
+ 
+
+171
+00:04:01,030 --> 00:04:04,110
+galope, necesitarías gastar dos de
+tus acciones para hacerlo, entonces haces una
+
+172
+00:04:04,110 --> 00:04:04,120
+tus acciones para hacerlo, entonces haces una
+ 
+
+173
+00:04:04,120 --> 00:04:05,520
+tus acciones para hacerlo, entonces haces una
+verificación de habilidad de naturaleza
+
+174
+00:04:05,520 --> 00:04:05,530
+verificación de habilidad de naturaleza
+ 
+
+175
+00:04:05,530 --> 00:04:07,649
+verificación de habilidad de naturaleza
+que es disputada por los animales objetivo.
+
+176
+00:04:07,649 --> 00:04:07,659
+que es disputada por los animales objetivo.
+ 
+
+177
+00:04:07,659 --> 00:04:11,219
+que es disputada por los animales objetivo.
+Esta CD se modifica aún más,
+
+178
+00:04:11,219 --> 00:04:11,229
+Esta CD se modifica aún más,
+ 
+
+179
+00:04:11,229 --> 00:04:13,050
+Esta CD se modifica aún más,
+sin embargo, el DM cree que es apropiado
+
+180
+00:04:13,050 --> 00:04:13,060
+sin embargo, el DM cree que es apropiado
+ 
+
+181
+00:04:13,060 --> 00:04:16,620
+sin embargo, el DM cree que es apropiado
+si ofreces comida al animal como parte de
+
+182
+00:04:16,620 --> 00:04:16,630
+si ofreces comida al animal como parte de
+ 
+
+183
+00:04:16,630 --> 00:04:19,379
+si ofreces comida al animal como parte de
+esta acción, podrían reducir la CD, por
+
+184
+00:04:19,379 --> 00:04:19,389
+esta acción, podrían reducir la CD, por
+ 
+
+185
+00:04:19,389 --> 00:04:23,010
+esta acción, podrían reducir la CD, por
+ejemplo, el DM también modificará esta CD
+
+186
+00:04:23,010 --> 00:04:23,020
+ejemplo, el DM también modificará esta CD
+ 
+
+187
+00:04:23,020 --> 00:04:25,320
+ejemplo, el DM también modificará esta CD
+de acuerdo con la actitud de los animales
+
+188
+00:04:25,320 --> 00:04:25,330
+de acuerdo con la actitud de los animales
+ 
+
+189
+00:04:25,330 --> 00:04:27,779
+de acuerdo con la actitud de los animales
+hacia  Puedes consultar nuestro curso sobre
+
+190
+00:04:27,779 --> 00:04:27,789
+hacia  Puedes consultar nuestro curso sobre
+ 
+
+191
+00:04:27,789 --> 00:04:29,520
+hacia  Puedes consultar nuestro curso sobre
+influencia para obtener más información sobre la
+
+192
+00:04:29,520 --> 00:04:29,530
+influencia para obtener más información sobre la
+ 
+
+193
+00:04:29,530 --> 00:04:31,950
+influencia para obtener más información sobre la
+actitud, pero si el animal objetivo es
+
+194
+00:04:31,950 --> 00:04:31,960
+actitud, pero si el animal objetivo es
+ 
+
+195
+00:04:31,960 --> 00:04:34,980
+actitud, pero si el animal objetivo es
+amigable o servicial contigo, entonces el
+
+196
+00:04:34,980 --> 00:04:34,990
+amigable o servicial contigo, entonces el
+ 
+
+197
+00:04:34,990 --> 00:04:38,279
+amigable o servicial contigo, entonces el
+DM probablemente reducirá esa CD y si el
+
+198
+00:04:38,279 --> 00:04:38,289
+DM probablemente reducirá esa CD y si el
+ 
+
+199
+00:04:38,289 --> 00:04:41,100
+DM probablemente reducirá esa CD y si el
+animal es servicial, entonces aumentas el
+
+200
+00:04:41,100 --> 00:04:41,110
+animal es servicial, entonces aumentas el
+ 
+
+201
+00:04:41,110 --> 00:04:44,310
+animal es servicial, entonces aumentas el
+grado de éxito en un paso, lo que significa que los
+
+202
+00:04:44,310 --> 00:04:44,320
+grado de éxito en un paso, lo que significa que los
+ 
+
+203
+00:04:44,320 --> 00:04:46,950
+grado de éxito en un paso, lo que significa que los
+fallos críticos se convierten en fallos normales
+
+204
+00:04:46,950 --> 00:04:46,960
+fallos críticos se convierten en fallos normales
+ 
+
+205
+00:04:46,960 --> 00:04:49,770
+fallos críticos se convierten en fallos normales
+y los fallos normales se convierten en éxitos.
+
+206
+00:04:49,770 --> 00:04:49,780
+y los fallos normales se convierten en éxitos.
+ 
+
+207
+00:04:49,780 --> 00:04:52,950
+y los fallos normales se convierten en éxitos.
+No existe tal cosa como un
+
+208
+00:04:52,950 --> 00:04:52,960
+No existe tal cosa como un
+ 
+
+209
+00:04:52,960 --> 00:04:56,189
+No existe tal cosa como un
+éxito crítico al comandar animales. También ten
+
+210
+00:04:56,189 --> 00:04:56,199
+éxito crítico al comandar animales. También ten
+ 
+
+211
+00:04:56,199 --> 00:04:56,970
+éxito crítico al comandar animales. También ten
+en cuenta que
+
+212
+00:04:56,970 --> 00:04:56,980
+en cuenta que
+ 
+
+213
+00:04:56,980 --> 00:04:59,340
+en cuenta que
+automáticamente sientes esta comprobación si el
+
+214
+00:04:59,340 --> 00:04:59,350
+automáticamente sientes esta comprobación si el
+ 
+
+215
+00:04:59,350 --> 00:05:02,610
+automáticamente sientes esta comprobación si el
+animal es antipático u hostil contigo en
+
+216
+00:05:02,610 --> 00:05:02,620
+animal es antipático u hostil contigo en
+ 
+
+217
+00:05:02,620 --> 00:05:05,910
+animal es antipático u hostil contigo en
+un éxito. El animal hace lo que
+
+218
+00:05:05,910 --> 00:05:05,920
+un éxito. El animal hace lo que
+ 
+
+219
+00:05:05,920 --> 00:05:09,000
+un éxito. El animal hace lo que
+ordenas en su siguiente turno, no
+
+220
+00:05:09,000 --> 00:05:09,010
+ordenas en su siguiente turno, no
+ 
+
+221
+00:05:09,010 --> 00:05:11,390
+ordenas en su siguiente turno, no
+realiza la acción ordenada inmediatamente.
+
+222
+00:05:11,390 --> 00:05:11,400
+realiza la acción ordenada inmediatamente.
+ 
+
+223
+00:05:11,400 --> 00:05:14,730
+realiza la acción ordenada inmediatamente.
+También ten en cuenta que el DM será
+
+224
+00:05:14,730 --> 00:05:14,740
+También ten en cuenta que el DM será
+ 
+
+225
+00:05:14,740 --> 00:05:17,280
+También ten en cuenta que el DM será
+quien determine cómo el animal realiza
+
+226
+00:05:17,280 --> 00:05:17,290
+quien determine cómo el animal realiza
+ 
+
+227
+00:05:17,290 --> 00:05:20,190
+quien determine cómo el animal realiza
+la acción dirigida. Por ejemplo,
+
+228
+00:05:20,190 --> 00:05:20,200
+la acción dirigida. Por ejemplo,
+ 
+
+229
+00:05:20,200 --> 00:05:22,590
+la acción dirigida. Por ejemplo,
+puedes ordenar a tu perro mascota que camine hacia
+
+230
+00:05:22,590 --> 00:05:22,600
+puedes ordenar a tu perro mascota que camine hacia
+ 
+
+231
+00:05:22,600 --> 00:05:25,650
+puedes ordenar a tu perro mascota que camine hacia
+un árbol, pero el DM será
+
+232
+00:05:25,650 --> 00:05:25,660
+un árbol, pero el DM será
+ 
+
+233
+00:05:25,660 --> 00:05:27,750
+un árbol, pero el DM será
+quien determine qué ruta toma el perro para
+
+234
+00:05:27,750 --> 00:05:27,760
+quien determine qué ruta toma el perro para
+ 
+
+235
+00:05:27,760 --> 00:05:30,870
+quien determine qué ruta toma el perro para
+llegar allí. También ten en cuenta que si
+
+236
+00:05:30,870 --> 00:05:30,880
+llegar allí. También ten en cuenta que si
+ 
+
+237
+00:05:30,880 --> 00:05:32,910
+llegar allí. También ten en cuenta que si
+varias personas dan órdenes a un
+
+238
+00:05:32,910 --> 00:05:32,920
+varias personas dan órdenes a un
+ 
+
+239
+00:05:32,920 --> 00:05:35,640
+varias personas dan órdenes a un
+animal en la misma ronda, el DM
+
+240
+00:05:35,640 --> 00:05:35,650
+animal en la misma ronda, el DM
+ 
+
+241
+00:05:35,650 --> 00:05:38,550
+animal en la misma ronda, el DM
+determinará cómo se desarrolla todo.
+
+242
+00:05:38,550 --> 00:05:38,560
+determinará cómo se desarrolla todo.
+ 
+
+243
+00:05:38,560 --> 00:05:41,100
+determinará cómo se desarrolla todo.
+Por ejemplo, hay tres PJ y un
+
+244
+00:05:41,100 --> 00:05:41,110
+Por ejemplo, hay tres PJ y un
+ 
+
+245
+00:05:41,110 --> 00:05:44,010
+Por ejemplo, hay tres PJ y un
+perro. El perro es el último en iniciativa y
+
+246
+00:05:44,010 --> 00:05:44,020
+perro. El perro es el último en iniciativa y
+ 
+
+247
+00:05:44,020 --> 00:05:46,860
+perro. El perro es el último en iniciativa y
+los tres jugadores usan comandar un animal
+
+248
+00:05:46,860 --> 00:05:46,870
+los tres jugadores usan comandar un animal
+ 
+
+249
+00:05:46,870 --> 00:05:49,140
+los tres jugadores usan comandar un animal
+sobre él, ordenándole con éxito que
+
+250
+00:05:49,140 --> 00:05:49,150
+sobre él, ordenándole con éxito que
+ 
+
+251
+00:05:49,150 --> 00:05:52,140
+sobre él, ordenándole con éxito que
+realice seis acciones diferentes en el
+
+252
+00:05:52,140 --> 00:05:52,150
+realice seis acciones diferentes en el
+ 
+
+253
+00:05:52,150 --> 00:05:55,440
+realice seis acciones diferentes en el
+turno del perro. Solo tiene tres acciones para
+
+254
+00:05:55,440 --> 00:05:55,450
+turno del perro. Solo tiene tres acciones para
+ 
+
+255
+00:05:55,450 --> 00:05:58,080
+turno del perro. Solo tiene tres acciones para
+girar como todos los demás.  y el DM
+
+256
+00:05:58,080 --> 00:05:58,090
+girar como todos los demás.  y el DM
+ 
+
+257
+00:05:58,090 --> 00:06:00,060
+girar como todos los demás.  y el DM
+será quien determine cuáles de
+
+258
+00:06:00,060 --> 00:06:00,070
+será quien determine cuáles de
+ 
+
+259
+00:06:00,070 --> 00:06:02,610
+será quien determine cuáles de
+esas seis órdenes entregadas se obedecen
+
+260
+00:06:02,610 --> 00:06:02,620
+esas seis órdenes entregadas se obedecen
+ 
+
+261
+00:06:02,620 --> 00:06:05,760
+esas seis órdenes entregadas se obedecen
+en caso de fallo, el animal no responde
+
+262
+00:06:05,760 --> 00:06:05,770
+en caso de fallo, el animal no responde
+ 
+
+263
+00:06:05,770 --> 00:06:08,520
+en caso de fallo, el animal no responde
+a la orden y en un fallo crítico
+
+264
+00:06:08,520 --> 00:06:08,530
+a la orden y en un fallo crítico
+ 
+
+265
+00:06:08,530 --> 00:06:10,440
+a la orden y en un fallo crítico
+el animal no entiende la
+
+266
+00:06:10,440 --> 00:06:10,450
+el animal no entiende la
+ 
+
+267
+00:06:10,450 --> 00:06:12,510
+el animal no entiende la
+orden y hace otra cosa según lo
+
+268
+00:06:12,510 --> 00:06:12,520
+orden y hace otra cosa según lo
+ 
+
+269
+00:06:12,520 --> 00:06:15,930
+orden y hace otra cosa según lo
+determine el DM. También tenga en cuenta que
+
+270
+00:06:15,930 --> 00:06:15,940
+determine el DM. También tenga en cuenta que
+ 
+
+271
+00:06:15,940 --> 00:06:18,600
+determine el DM. También tenga en cuenta que
+al usar comando y animal para ordenar a
+
+272
+00:06:18,600 --> 00:06:18,610
+al usar comando y animal para ordenar a
+ 
+
+273
+00:06:18,610 --> 00:06:20,970
+al usar comando y animal para ordenar a
+un animal que realice múltiples
+
+274
+00:06:20,970 --> 00:06:20,980
+un animal que realice múltiples
+ 
+
+275
+00:06:20,980 --> 00:06:23,670
+un animal que realice múltiples
+acciones básicas, no necesita tirar su
+
+276
+00:06:23,670 --> 00:06:23,680
+acciones básicas, no necesita tirar su
+ 
+
+277
+00:06:23,680 --> 00:06:26,760
+acciones básicas, no necesita tirar su
+prueba de habilidad varias veces, por ejemplo,
+
+278
+00:06:26,760 --> 00:06:26,770
+prueba de habilidad varias veces, por ejemplo,
+ 
+
+279
+00:06:26,770 --> 00:06:29,130
+prueba de habilidad varias veces, por ejemplo,
+si quiere decirle a su animal que se ponga de pie,
+
+280
+00:06:29,130 --> 00:06:29,140
+si quiere decirle a su animal que se ponga de pie,
+ 
+
+281
+00:06:29,140 --> 00:06:31,800
+si quiere decirle a su animal que se ponga de pie,
+ataque y luego salte sobre él,
+
+282
+00:06:31,800 --> 00:06:31,810
+ataque y luego salte sobre él,
+ 
+
+283
+00:06:31,810 --> 00:06:34,770
+ataque y luego salte sobre él,
+gastaría tres acciones para hacerlo,
+
+284
+00:06:34,770 --> 00:06:34,780
+gastaría tres acciones para hacerlo,
+ 
+
+285
+00:06:34,780 --> 00:06:39,210
+gastaría tres acciones para hacerlo,
+pero como estar de pie, zancada y saltar son
+
+286
+00:06:39,210 --> 00:06:39,220
+pero como estar de pie, zancada y saltar son
+ 
+
+287
+00:06:39,220 --> 00:06:42,420
+pero como estar de pie, zancada y saltar son
+acciones básicas, se pueden
+
+288
+00:06:42,420 --> 00:06:42,430
+acciones básicas, se pueden
+ 
+
+289
+00:06:42,430 --> 00:06:44,910
+acciones básicas, se pueden
+agrupar y solo necesitaría
+
+290
+00:06:44,910 --> 00:06:44,920
+agrupar y solo necesitaría
+ 
+
+291
+00:06:44,920 --> 00:06:47,790
+agrupar y solo necesitaría
+tirar una prueba de naturaleza para cubrir las
+
+292
+00:06:47,790 --> 00:06:47,800
+tirar una prueba de naturaleza para cubrir las
+ 
+
+293
+00:06:47,800 --> 00:06:50,640
+tirar una prueba de naturaleza para cubrir las
+tres acciones, pero nuevamente, esto
+
+294
+00:06:50,640 --> 00:06:50,650
+tres acciones, pero nuevamente, esto
+ 
+
+295
+00:06:50,650 --> 00:06:56,010
+tres acciones, pero nuevamente, esto
+solo se puede hacer con acciones básicas,
+
+296
+00:06:56,010 --> 00:06:56,020
+
+ 
+
+297
+00:06:56,020 --> 00:06:58,740
+
+como se mencionó anteriormente, solo puede
+
+298
+00:06:58,740 --> 00:06:58,750
+como se mencionó anteriormente, solo puede
+ 
+
+299
+00:06:58,750 --> 00:07:00,809
+como se mencionó anteriormente, solo puede
+ordenar a un animal que realice acciones
+
+300
+00:07:00,809 --> 00:07:00,819
+ordenar a un animal que realice acciones
+ 
+
+301
+00:07:00,819 --> 00:07:03,360
+ordenar a un animal que realice acciones
+que sabe cómo hacer y, por defecto,
+
+302
+00:07:03,360 --> 00:07:03,370
+que sabe cómo hacer y, por defecto,
+ 
+
+303
+00:07:03,370 --> 00:07:06,990
+que sabe cómo hacer y, por defecto,
+esa lista se limita a saltar, buscar, estar de pie,
+
+304
+00:07:06,990 --> 00:07:07,000
+esa lista se limita a saltar, buscar, estar de pie,
+ 
+
+305
+00:07:07,000 --> 00:07:10,260
+esa lista se limita a saltar, buscar, estar de pie,
+golpear y cualquier acción enumerada en su
+
+306
+00:07:10,260 --> 00:07:10,270
+golpear y cualquier acción enumerada en su
+ 
+
+307
+00:07:10,270 --> 00:07:13,230
+golpear y cualquier acción enumerada en su
+bloque de paso. Afortunadamente, hay una
+
+308
+00:07:13,230 --> 00:07:13,240
+bloque de paso. Afortunadamente, hay una
+ 
+
+309
+00:07:13,240 --> 00:07:15,779
+bloque de paso. Afortunadamente, hay una
+forma de expandir la lista de órdenes válidas que
+
+310
+00:07:15,779 --> 00:07:15,789
+forma de expandir la lista de órdenes válidas que
+ 
+
+311
+00:07:15,789 --> 00:07:18,149
+forma de expandir la lista de órdenes válidas que
+un animal puede realizar y es mediante el
+
+312
+00:07:18,149 --> 00:07:18,159
+un animal puede realizar y es mediante el
+ 
+
+313
+00:07:18,159 --> 00:07:21,990
+un animal puede realizar y es mediante el
+uso de los pies del animal entrenados. La acción que se
+
+314
+00:07:21,990 --> 00:07:22,000
+uso de los pies del animal entrenados. La acción que se
+ 
+
+315
+00:07:22,000 --> 00:07:25,260
+uso de los pies del animal entrenados. La acción que se
+está entrenando debe ser una acción básica
+
+316
+00:07:25,260 --> 00:07:25,270
+está entrenando debe ser una acción básica
+ 
+
+317
+00:07:25,270 --> 00:07:27,330
+está entrenando debe ser una acción básica
+como las que se encuentran en las páginas cuatro
+
+318
+00:07:27,330 --> 00:07:27,340
+como las que se encuentran en las páginas cuatro
+ 
+
+319
+00:07:27,340 --> 00:07:29,640
+como las que se encuentran en las páginas cuatro
+setenta y cuatro setenta y uno del núcleo.  El
+
+320
+00:07:29,640 --> 00:07:29,650
+setenta y cuatro setenta y uno del núcleo.  El
+ 
+
+321
+00:07:29,650 --> 00:07:32,640
+setenta y cuatro setenta y uno del núcleo.  El
+entrenamiento de reglas requiere una cantidad de
+
+322
+00:07:32,640 --> 00:07:32,650
+entrenamiento de reglas requiere una cantidad de
+ 
+
+323
+00:07:32,650 --> 00:07:35,040
+entrenamiento de reglas requiere una cantidad de
+tiempo que es determinada por el DM. Esto suele ser
+
+324
+00:07:35,040 --> 00:07:35,050
+tiempo que es determinada por el DM. Esto suele ser
+ 
+
+325
+00:07:35,050 --> 00:07:38,249
+tiempo que es determinada por el DM. Esto suele ser
+una semana, pero puede ser más largo si
+
+326
+00:07:38,249 --> 00:07:38,259
+una semana, pero puede ser más largo si
+ 
+
+327
+00:07:38,259 --> 00:07:40,490
+una semana, pero puede ser más largo si
+el DM cree que es apropiado.
+
+328
+00:07:40,490 --> 00:07:40,500
+el DM cree que es apropiado.
+ 
+
+329
+00:07:40,500 --> 00:07:43,290
+el DM cree que es apropiado.
+Después de eso, harás una prueba de habilidad de naturaleza
+
+330
+00:07:43,290 --> 00:07:43,300
+Después de eso, harás una prueba de habilidad de naturaleza
+ 
+
+331
+00:07:43,300 --> 00:07:45,839
+Después de eso, harás una prueba de habilidad de naturaleza
+en lugar de una CD que también es
+
+332
+00:07:45,839 --> 00:07:45,849
+en lugar de una CD que también es
+ 
+
+333
+00:07:45,849 --> 00:07:48,870
+en lugar de una CD que también es
+determinada por el DM. El DM también podría
+
+334
+00:07:48,870 --> 00:07:48,880
+determinada por el DM. El DM también podría
+ 
+
+335
+00:07:48,880 --> 00:07:51,209
+determinada por el DM. El DM también podría
+requerir una competencia de experto o
+
+336
+00:07:51,209 --> 00:07:51,219
+requerir una competencia de experto o
+ 
+
+337
+00:07:51,219 --> 00:07:53,939
+requerir una competencia de experto o
+superior en naturaleza antes de que puedas entrenar a un
+
+338
+00:07:53,939 --> 00:07:53,949
+superior en naturaleza antes de que puedas entrenar a un
+ 
+
+339
+00:07:53,949 --> 00:07:58,080
+superior en naturaleza antes de que puedas entrenar a un
+animal inusual o raro. En caso de éxito, el
+
+340
+00:07:58,080 --> 00:07:58,090
+animal inusual o raro. En caso de éxito, el
+ 
+
+341
+00:07:58,090 --> 00:08:00,390
+animal inusual o raro. En caso de éxito, el
+animal aprende esa nueva acción básica y se le puede
+
+342
+00:08:00,390 --> 00:08:00,400
+animal aprende esa nueva acción básica y se le puede
+ 
+
+343
+00:08:00,400 --> 00:08:03,360
+animal aprende esa nueva acción básica y se le puede
+ordenar que la realice. En caso de
+
+344
+00:08:03,360 --> 00:08:03,370
+ordenar que la realice. En caso de
+ 
+
+345
+00:08:03,370 --> 00:08:06,480
+ordenar que la realice. En caso de
+fallo, no la aprende y puedes
+
+346
+00:08:06,480 --> 00:08:06,490
+fallo, no la aprende y puedes
+ 
+
+347
+00:08:06,490 --> 00:08:08,820
+fallo, no la aprende y puedes
+comenzar el proceso de nuevo e intentar entrenar a
+
+348
+00:08:08,820 --> 00:08:08,830
+comenzar el proceso de nuevo e intentar entrenar a
+ 
+
+349
+00:08:08,830 --> 00:08:11,820
+comenzar el proceso de nuevo e intentar entrenar a
+ese animal de nuevo. También ten en cuenta que en lugar
+
+350
+00:08:11,820 --> 00:08:11,830
+ese animal de nuevo. También ten en cuenta que en lugar
+ 
+
+351
+00:08:11,830 --> 00:08:14,010
+ese animal de nuevo. También ten en cuenta que en lugar
+de entrenar al animal para que aprenda una nueva
+
+352
+00:08:14,010 --> 00:08:14,020
+de entrenar al animal para que aprenda una nueva
+ 
+
+353
+00:08:14,020 --> 00:08:17,189
+de entrenar al animal para que aprenda una nueva
+acción, puedes pasar la semana
+
+354
+00:08:17,189 --> 00:08:17,199
+acción, puedes pasar la semana
+ 
+
+355
+00:08:17,199 --> 00:08:19,680
+acción, puedes pasar la semana
+practicando una acción básica que el
+
+356
+00:08:19,680 --> 00:08:19,690
+practicando una acción básica que el
+ 
+
+357
+00:08:19,690 --> 00:08:23,430
+practicando una acción básica que el
+animal ya conoce. En este caso, si tienes
+
+358
+00:08:23,430 --> 00:08:23,440
+animal ya conoce. En este caso, si tienes
+ 
+
+359
+00:08:23,440 --> 00:08:25,680
+animal ya conoce. En este caso, si tienes
+éxito en la prueba de naturaleza, el
+
+360
+00:08:25,680 --> 00:08:25,690
+éxito en la prueba de naturaleza, el
+ 
+
+361
+00:08:25,690 --> 00:08:28,050
+éxito en la prueba de naturaleza, el
+animal puede realizar esa acción en el
+
+362
+00:08:28,050 --> 00:08:28,060
+animal puede realizar esa acción en el
+ 
+
+363
+00:08:28,060 --> 00:08:30,570
+animal puede realizar esa acción en el
+futuro sin que tengas que hacer una
+
+364
+00:08:30,570 --> 00:08:30,580
+futuro sin que tengas que hacer una
+ 
+
+365
+00:08:30,580 --> 00:08:32,670
+futuro sin que tengas que hacer una
+prueba de naturaleza. Cuando uses comandar a un
+
+366
+00:08:32,670 --> 00:08:32,680
+prueba de naturaleza. Cuando uses comandar a un
+ 
+
+367
+00:08:32,680 --> 00:08:33,269
+prueba de naturaleza. Cuando uses comandar a un
+animal,
+
+368
+00:08:33,269 --> 00:08:33,279
+animal,
+ 
+
+369
+00:08:33,279 --> 00:08:35,730
+animal,
+aún necesitas girar las acciones y
+
+370
+00:08:35,730 --> 00:08:35,740
+aún necesitas girar las acciones y
+ 
+
+371
+00:08:35,740 --> 00:08:37,889
+aún necesitas girar las acciones y
+usar comandar a un animal, simplemente no
+
+372
+00:08:37,889 --> 00:08:37,899
+usar comandar a un animal, simplemente no
+ 
+
+373
+00:08:37,899 --> 00:08:40,230
+usar comandar a un animal, simplemente no
+tienes que hacer una prueba de habilidad. El animal
+
+374
+00:08:40,230 --> 00:08:40,240
+tienes que hacer una prueba de habilidad. El animal
+ 
+
+375
+00:08:40,240 --> 00:08:42,899
+tienes que hacer una prueba de habilidad. El animal
+realiza automáticamente esa acción específica.
+
+376
+00:08:42,899 --> 00:08:42,909
+realiza automáticamente esa acción específica.
+ 
+
+377
+00:08:42,909 --> 00:08:45,400
+realiza automáticamente esa acción específica.
+
+378
+00:08:45,400 --> 00:08:45,410
+
+ 
+
+379
+00:08:45,410 --> 00:08:48,040
+
+Como aventurero, es probable que tú y tus mascotas se
+
+380
+00:08:48,040 --> 00:08:48,050
+Como aventurero, es probable que tú y tus mascotas se
+ 
+
+381
+00:08:48,050 --> 00:08:51,129
+Como aventurero, es probable que tú y tus mascotas se
+encuentren con peligro. La mayoría de los animales entran en
+
+382
+00:08:51,129 --> 00:08:51,139
+encuentren con peligro. La mayoría de los animales entran en
+ 
+
+383
+00:08:51,139 --> 00:08:52,840
+encuentren con peligro. La mayoría de los animales entran en
+pánico cuando se les coloca en una
+
+384
+00:08:52,840 --> 00:08:52,850
+pánico cuando se les coloca en una
+ 
+
+385
+00:08:52,850 --> 00:08:55,240
+pánico cuando se les coloca en una
+situación peligrosa, obtienen la
+
+386
+00:08:55,240 --> 00:08:55,250
+situación peligrosa, obtienen la
+ 
+
+387
+00:08:55,250 --> 00:08:57,999
+situación peligrosa, obtienen la
+condición de miedo y también sufren
+
+388
+00:08:57,999 --> 00:08:58,009
+condición de miedo y también sufren
+ 
+
+389
+00:08:58,009 --> 00:09:00,369
+condición de miedo y también sufren
+huyendo por  mientras estén bajo
+
+390
+00:09:00,369 --> 00:09:00,379
+huyendo por  mientras estén bajo
+ 
+
+391
+00:09:00,379 --> 00:09:02,920
+huyendo por  mientras estén bajo
+los efectos del miedo, así que si
+
+392
+00:09:02,920 --> 00:09:02,930
+los efectos del miedo, así que si
+ 
+
+393
+00:09:02,930 --> 00:09:04,689
+los efectos del miedo, así que si
+viajas con tu perro mascota y te
+
+394
+00:09:04,689 --> 00:09:04,699
+viajas con tu perro mascota y te
+ 
+
+395
+00:09:04,699 --> 00:09:07,509
+viajas con tu perro mascota y te
+emboscan algunos goblins, el perro
+
+396
+00:09:07,509 --> 00:09:07,519
+emboscan algunos goblins, el perro
+ 
+
+397
+00:09:07,519 --> 00:09:10,840
+emboscan algunos goblins, el perro
+inmediatamente ganaría miedo por lo que
+
+398
+00:09:10,840 --> 00:09:10,850
+inmediatamente ganaría miedo por lo que
+ 
+
+399
+00:09:10,850 --> 00:09:13,210
+inmediatamente ganaría miedo por lo que
+sufriría una penalización negativa por en
+
+400
+00:09:13,210 --> 00:09:13,220
+sufriría una penalización negativa por en
+ 
+
+401
+00:09:13,220 --> 00:09:16,660
+sufriría una penalización negativa por en
+todas las tiradas y dados en su primer
+
+402
+00:09:16,660 --> 00:09:16,670
+todas las tiradas y dados en su primer
+ 
+
+403
+00:09:16,670 --> 00:09:19,900
+todas las tiradas y dados en su primer
+turno y esa penalización se reduciría en uno
+
+404
+00:09:19,900 --> 00:09:19,910
+turno y esa penalización se reduciría en uno
+ 
+
+405
+00:09:19,910 --> 00:09:22,990
+turno y esa penalización se reduciría en uno
+al final de cada turno hasta que
+
+406
+00:09:22,990 --> 00:09:23,000
+al final de cada turno hasta que
+ 
+
+407
+00:09:23,000 --> 00:09:26,199
+al final de cada turno hasta que
+desaparezca. Sin embargo, mientras el animal esté
+
+408
+00:09:26,199 --> 00:09:26,209
+desaparezca. Sin embargo, mientras el animal esté
+ 
+
+409
+00:09:26,209 --> 00:09:28,660
+desaparezca. Sin embargo, mientras el animal esté
+bajo los efectos del miedo,
+
+410
+00:09:28,660 --> 00:09:28,670
+bajo los efectos del miedo,
+ 
+
+411
+00:09:28,670 --> 00:09:31,530
+bajo los efectos del miedo,
+también sufrirá la condición de huida, lo
+
+412
+00:09:31,530 --> 00:09:31,540
+también sufrirá la condición de huida, lo
+ 
+
+413
+00:09:31,540 --> 00:09:35,050
+también sufrirá la condición de huida, lo
+que significa que el perro de pánico se vería obligado a
+
+414
+00:09:35,050 --> 00:09:35,060
+que significa que el perro de pánico se vería obligado a
+ 
+
+415
+00:09:35,060 --> 00:09:37,990
+que significa que el perro de pánico se vería obligado a
+gastar las tres acciones cada turno para huir
+
+416
+00:09:37,990 --> 00:09:38,000
+gastar las tres acciones cada turno para huir
+ 
+
+417
+00:09:38,000 --> 00:09:40,660
+gastar las tres acciones cada turno para huir
+del peligro hasta que ya no
+
+418
+00:09:40,660 --> 00:09:40,670
+del peligro hasta que ya no
+ 
+
+419
+00:09:40,670 --> 00:09:44,619
+del peligro hasta que ya no
+sufra de amigo, pero si el animal
+
+420
+00:09:44,619 --> 00:09:44,629
+sufra de amigo, pero si el animal
+ 
+
+421
+00:09:44,629 --> 00:09:47,530
+sufra de amigo, pero si el animal
+alguna vez es atacado, independientemente de si ese
+
+422
+00:09:47,530 --> 00:09:47,540
+alguna vez es atacado, independientemente de si ese
+ 
+
+423
+00:09:47,540 --> 00:09:49,780
+alguna vez es atacado, independientemente de si ese
+ataque impacta, falla, hace daño o
+
+424
+00:09:49,780 --> 00:09:49,790
+ataque impacta, falla, hace daño o
+ 
+
+425
+00:09:49,790 --> 00:09:52,150
+ataque impacta, falla, hace daño o
+no hace daño, entonces el animal
+
+426
+00:09:52,150 --> 00:09:52,160
+no hace daño, entonces el animal
+ 
+
+427
+00:09:52,160 --> 00:09:55,179
+no hace daño, entonces el animal
+se asusta de nuevo y, por lo tanto, también vuelve a huir.
+
+428
+00:09:55,179 --> 00:09:55,189
+se asusta de nuevo y, por lo tanto, también vuelve a huir.
+ 
+
+429
+00:09:55,189 --> 00:09:58,780
+se asusta de nuevo y, por lo tanto, también vuelve a huir.
+Las únicas
+
+430
+00:09:58,780 --> 00:09:58,790
+Las únicas
+ 
+
+431
+00:09:58,790 --> 00:10:01,449
+Las únicas
+excepciones a este pánico que se mencionan
+
+432
+00:10:01,449 --> 00:10:01,459
+excepciones a este pánico que se mencionan
+ 
+
+433
+00:10:01,459 --> 00:10:03,220
+excepciones a este pánico que se mencionan
+en las reglas básicas son los animales que
+
+434
+00:10:03,220 --> 00:10:03,230
+en las reglas básicas son los animales que
+ 
+
+435
+00:10:03,230 --> 00:10:05,290
+en las reglas básicas son los animales que
+han sido entrenados específicamente para la
+
+436
+00:10:05,290 --> 00:10:05,300
+han sido entrenados específicamente para la
+ 
+
+437
+00:10:05,300 --> 00:10:08,800
+han sido entrenados específicamente para la
+batalla, como los caballos de guerra y los ponis de guerra,
+
+438
+00:10:08,800 --> 00:10:08,810
+batalla, como los caballos de guerra y los ponis de guerra,
+ 
+
+439
+00:10:08,810 --> 00:10:11,230
+batalla, como los caballos de guerra y los ponis de guerra,
+pero supongo que cualquier animal
+
+440
+00:10:11,230 --> 00:10:11,240
+pero supongo que cualquier animal
+ 
+
+441
+00:10:11,240 --> 00:10:12,819
+pero supongo que cualquier animal
+que esté siendo utilizado por el DM como
+
+442
+00:10:12,819 --> 00:10:12,829
+que esté siendo utilizado por el DM como
+ 
+
+443
+00:10:12,829 --> 00:10:16,179
+que esté siendo utilizado por el DM como
+adversario, como un oso o ratas, guerreros
+
+444
+00:10:16,179 --> 00:10:16,189
+adversario, como un oso o ratas, guerreros
+ 
+
+445
+00:10:16,189 --> 00:10:18,790
+adversario, como un oso o ratas, guerreros
+o escorpiones gigantes, todos serían
+
+446
+00:10:18,790 --> 00:10:18,800
+o escorpiones gigantes, todos serían
+ 
+
+447
+00:10:18,800 --> 00:10:22,670
+o escorpiones gigantes, todos serían
+inmunes a este pánico como  Bueno,
+
+448
+00:10:22,670 --> 00:10:22,680
+
+ 
+
+449
+00:10:22,680 --> 00:10:25,519
+
+esto podría plantear la pregunta de cómo
+
+450
+00:10:25,519 --> 00:10:25,529
+esto podría plantear la pregunta de cómo
+ 
+
+451
+00:10:25,529 --> 00:10:27,799
+esto podría plantear la pregunta de cómo
+evitar que tu perro huya
+
+452
+00:10:27,799 --> 00:10:27,809
+evitar que tu perro huya
+ 
+
+453
+00:10:27,809 --> 00:10:30,530
+evitar que tu perro huya
+a la primera señal de peligro. Las reglas
+
+454
+00:10:30,530 --> 00:10:30,540
+a la primera señal de peligro. Las reglas
+ 
+
+455
+00:10:30,540 --> 00:10:32,929
+a la primera señal de peligro. Las reglas
+dicen lo siguiente: si
+
+456
+00:10:32,929 --> 00:10:32,939
+dicen lo siguiente: si
+ 
+
+457
+00:10:32,939 --> 00:10:36,470
+dicen lo siguiente: si
+ordenas con éxito a tu animal usando la naturaleza, puedes
+
+458
+00:10:36,470 --> 00:10:36,480
+ordenas con éxito a tu animal usando la naturaleza, puedes
+ 
+
+459
+00:10:36,480 --> 00:10:38,720
+ordenas con éxito a tu animal usando la naturaleza, puedes
+evitar que huya, aunque esto no
+
+460
+00:10:38,720 --> 00:10:38,730
+evitar que huya, aunque esto no
+ 
+
+461
+00:10:38,730 --> 00:10:41,869
+evitar que huya, aunque esto no
+elimina su condición de miedo. Esta es una
+
+462
+00:10:41,869 --> 00:10:41,879
+elimina su condición de miedo. Esta es una
+ 
+
+463
+00:10:41,879 --> 00:10:43,999
+elimina su condición de miedo. Esta es una
+advertencia un poco inusual y ha
+
+464
+00:10:43,999 --> 00:10:44,009
+advertencia un poco inusual y ha
+ 
+
+465
+00:10:44,009 --> 00:10:46,280
+advertencia un poco inusual y ha
+causado cierta discusión en línea sobre la
+
+466
+00:10:46,280 --> 00:10:46,290
+causado cierta discusión en línea sobre la
+ 
+
+467
+00:10:46,290 --> 00:10:49,280
+causado cierta discusión en línea sobre la
+intención. Te voy a proporcionar cómo creo que se supone que debe
+
+468
+00:10:49,280 --> 00:10:49,290
+intención. Te voy a proporcionar cómo creo que se supone que debe
+ 
+
+469
+00:10:49,290 --> 00:10:51,769
+intención. Te voy a proporcionar cómo creo que se supone que debe
+funcionar y solo
+
+470
+00:10:51,769 --> 00:10:51,779
+funcionar y solo
+ 
+
+471
+00:10:51,779 --> 00:10:53,840
+funcionar y solo
+toma nota mental aquí de que esta es la
+
+472
+00:10:53,840 --> 00:10:53,850
+toma nota mental aquí de que esta es la
+ 
+
+473
+00:10:53,850 --> 00:10:56,119
+toma nota mental aquí de que esta es la
+interpretación de una persona y si una
+
+474
+00:10:56,119 --> 00:10:56,129
+interpretación de una persona y si una
+ 
+
+475
+00:10:56,129 --> 00:10:58,609
+interpretación de una persona y si una
+fuente oficial lo aclara,
+
+476
+00:10:58,609 --> 00:10:58,619
+fuente oficial lo aclara,
+ 
+
+477
+00:10:58,619 --> 00:11:00,530
+fuente oficial lo aclara,
+actualizaré este video en consecuencia.
+
+478
+00:11:00,530 --> 00:11:00,540
+actualizaré este video en consecuencia.
+ 
+
+479
+00:11:00,540 --> 00:11:03,319
+actualizaré este video en consecuencia.
+Creo que la intención es que si
+
+480
+00:11:03,319 --> 00:11:03,329
+Creo que la intención es que si
+ 
+
+481
+00:11:03,329 --> 00:11:05,329
+Creo que la intención es que si
+ordenas con éxito a un animal asustado que
+
+482
+00:11:05,329 --> 00:11:05,339
+ordenas con éxito a un animal asustado que
+ 
+
+483
+00:11:05,339 --> 00:11:08,840
+ordenas con éxito a un animal asustado que
+haga algo, entonces pierde la
+
+484
+00:11:08,840 --> 00:11:08,850
+haga algo, entonces pierde la
+ 
+
+485
+00:11:08,850 --> 00:11:11,359
+haga algo, entonces pierde la
+condición de huida para esa ronda. Por ejemplo,
+
+486
+00:11:11,359 --> 00:11:11,369
+condición de huida para esa ronda. Por ejemplo,
+ 
+
+487
+00:11:11,369 --> 00:11:13,220
+condición de huida para esa ronda. Por ejemplo,
+podrías gastar una acción para ordenar al
+
+488
+00:11:13,220 --> 00:11:13,230
+podrías gastar una acción para ordenar al
+ 
+
+489
+00:11:13,230 --> 00:11:17,059
+podrías gastar una acción para ordenar al
+animal que sea destruido 15 pies y se detenga en su
+
+490
+00:11:17,059 --> 00:11:17,069
+animal que sea destruido 15 pies y se detenga en su
+ 
+
+491
+00:11:17,069 --> 00:11:19,850
+animal que sea destruido 15 pies y se detenga en su
+turno. El animal lo haría con su
+
+492
+00:11:19,850 --> 00:11:19,860
+turno. El animal lo haría con su
+ 
+
+493
+00:11:19,860 --> 00:11:22,400
+turno. El animal lo haría con su
+primera acción y no gastaría sus
+
+494
+00:11:22,400 --> 00:11:22,410
+primera acción y no gastaría sus
+ 
+
+495
+00:11:22,410 --> 00:11:24,639
+primera acción y no gastaría sus
+dos acciones restantes para huir.
+
+496
+00:11:24,639 --> 00:11:24,649
+dos acciones restantes para huir.
+ 
+
+497
+00:11:24,649 --> 00:11:28,100
+dos acciones restantes para huir.
+Sin embargo, si ese animal todavía está bajo
+
+498
+00:11:28,100 --> 00:11:28,110
+Sin embargo, si ese animal todavía está bajo
+ 
+
+499
+00:11:28,110 --> 00:11:29,869
+Sin embargo, si ese animal todavía está bajo
+los efectos de la condición de miedo
+
+500
+00:11:29,869 --> 00:11:29,879
+los efectos de la condición de miedo
+ 
+
+501
+00:11:29,879 --> 00:11:32,569
+los efectos de la condición de miedo
+al comienzo de su siguiente turno,
+
+502
+00:11:32,569 --> 00:11:32,579
+al comienzo de su siguiente turno,
+ 
+
+503
+00:11:32,579 --> 00:11:35,030
+al comienzo de su siguiente turno,
+comenzaría a huir de nuevo a menos que gastes
+
+504
+00:11:35,030 --> 00:11:35,040
+comenzaría a huir de nuevo a menos que gastes
+ 
+
+505
+00:11:35,040 --> 00:11:37,100
+comenzaría a huir de nuevo a menos que gastes
+otra acción ordenándole que haga
+
+506
+00:11:37,100 --> 00:11:37,110
+otra acción ordenándole que haga
+ 
+
+507
+00:11:37,110 --> 00:11:39,950
+otra acción ordenándole que haga
+algo más.
+
+508
+00:11:39,950 --> 00:11:39,960
+
+ 
+
+509
+00:11:39,960 --> 00:11:42,710
+
+En este video discutimos los conceptos básicos de los
+
+510
+00:11:42,710 --> 00:11:42,720
+En este video discutimos los conceptos básicos de los
+ 
+
+511
+00:11:42,720 --> 00:11:45,350
+En este video discutimos los conceptos básicos de los
+animales. En futuros videos examinaremos
+
+512
+00:11:45,350 --> 00:11:45,360
+animales. En futuros videos examinaremos
+ 
+
+513
+00:11:45,360 --> 00:11:47,960
+animales. En futuros videos examinaremos
+animales especializados como  monturas,
+
+514
+00:11:47,960 --> 00:11:47,970
+animales especializados como  monturas,
+ 
+
+515
+00:11:47,970 --> 00:11:51,350
+animales especializados como  monturas,
+compañeros animales y familiares si
+
+516
+00:11:51,350 --> 00:11:51,360
+compañeros animales y familiares si
+ 
+
+517
+00:11:51,360 --> 00:11:53,420
+compañeros animales y familiares si
+quieres ver un par de ejemplos de cómo
+
+518
+00:11:53,420 --> 00:11:53,430
+quieres ver un par de ejemplos de cómo
+ 
+
+519
+00:11:53,430 --> 00:11:56,000
+quieres ver un par de ejemplos de cómo
+funcionan los animales durante el juego puedes hacerlo
+
+520
+00:11:56,000 --> 00:11:56,010
+funcionan los animales durante el juego puedes hacerlo
+ 
+
+521
+00:11:56,010 --> 00:11:57,740
+funcionan los animales durante el juego puedes hacerlo
+viendo el siguiente video de esta
+
+522
+00:11:57,740 --> 00:11:57,750
+viendo el siguiente video de esta
+ 
+
+523
+00:11:57,750 --> 00:11:59,660
+viendo el siguiente video de esta
+serie cuyo enlace está en la
+
+524
+00:11:59,660 --> 00:11:59,670
+serie cuyo enlace está en la
+ 
+
+525
+00:11:59,670 --> 00:12:02,480
+serie cuyo enlace está en la
+descripción y la lista de reproducción y
+
+526
+00:12:02,480 --> 00:12:02,490
+descripción y la lista de reproducción y
+ 
+
+527
+00:12:02,490 --> 00:12:04,460
+descripción y la lista de reproducción y
+también debería estar en la parte superior derecha
+
+528
+00:12:04,460 --> 00:12:04,470
+también debería estar en la parte superior derecha
+ 
+
+529
+00:12:04,470 --> 00:12:08,270
+también debería estar en la parte superior derecha
+de tu pantalla los animales
+
+530
+00:12:08,270 --> 00:12:08,280
+de tu pantalla los animales
+ 
+
+531
+00:12:08,280 --> 00:12:10,400
+de tu pantalla los animales
+son criaturas que ocurren naturalmente y
+
+532
+00:12:10,400 --> 00:12:10,410
+son criaturas que ocurren naturalmente y
+ 
+
+533
+00:12:10,410 --> 00:12:12,730
+son criaturas que ocurren naturalmente y
+no deben confundirse con las bestias los
+
+534
+00:12:12,730 --> 00:12:12,740
+no deben confundirse con las bestias los
+ 
+
+535
+00:12:12,740 --> 00:12:15,080
+no deben confundirse con las bestias los
+animales tienen modificadores de inteligencia de
+
+536
+00:12:15,080 --> 00:12:15,090
+animales tienen modificadores de inteligencia de
+ 
+
+537
+00:12:15,090 --> 00:12:17,960
+animales tienen modificadores de inteligencia de
+-4 y menores y las bestias tienen
+
+538
+00:12:17,960 --> 00:12:17,970
+-4 y menores y las bestias tienen
+ 
+
+539
+00:12:17,970 --> 00:12:20,480
+-4 y menores y las bestias tienen
+modificadores de inteligencia de -3 y
+
+540
+00:12:20,480 --> 00:12:20,490
+modificadores de inteligencia de -3 y
+ 
+
+541
+00:12:20,490 --> 00:12:23,630
+modificadores de inteligencia de -3 y
+mayores muchos animales comunes pueden
+
+542
+00:12:23,630 --> 00:12:23,640
+mayores muchos animales comunes pueden
+ 
+
+543
+00:12:23,640 --> 00:12:26,150
+mayores muchos animales comunes pueden
+comprarse o alquilarse al alquilar un
+
+544
+00:12:26,150 --> 00:12:26,160
+comprarse o alquilarse al alquilar un
+ 
+
+545
+00:12:26,160 --> 00:12:28,460
+comprarse o alquilarse al alquilar un
+animal se espera que el personaje
+
+546
+00:12:28,460 --> 00:12:28,470
+animal se espera que el personaje
+ 
+
+547
+00:12:28,470 --> 00:12:31,160
+animal se espera que el personaje
+pague un depósito igual al
+
+548
+00:12:31,160 --> 00:12:31,170
+pague un depósito igual al
+ 
+
+549
+00:12:31,170 --> 00:12:33,380
+pague un depósito igual al
+precio de compra del animal si existe alguna
+
+550
+00:12:33,380 --> 00:12:33,390
+precio de compra del animal si existe alguna
+ 
+
+551
+00:12:33,390 --> 00:12:35,270
+precio de compra del animal si existe alguna
+preocupación de que el animal sea dañado
+
+552
+00:12:35,270 --> 00:12:35,280
+preocupación de que el animal sea dañado
+ 
+
+553
+00:12:35,280 --> 00:12:38,660
+preocupación de que el animal sea dañado
+mientras esté en la posición del jugador los animales
+
+554
+00:12:38,660 --> 00:12:38,670
+mientras esté en la posición del jugador los animales
+ 
+
+555
+00:12:38,670 --> 00:12:41,330
+mientras esté en la posición del jugador los animales
+son controlados por el DM y actúan durante
+
+556
+00:12:41,330 --> 00:12:41,340
+son controlados por el DM y actúan durante
+ 
+
+557
+00:12:41,340 --> 00:12:44,540
+son controlados por el DM y actúan durante
+su turno en iniciativa pero los jugadores pueden
+
+558
+00:12:44,540 --> 00:12:44,550
+su turno en iniciativa pero los jugadores pueden
+ 
+
+559
+00:12:44,550 --> 00:12:47,240
+su turno en iniciativa pero los jugadores pueden
+dar órdenes a un animal usando
+
+560
+00:12:47,240 --> 00:12:47,250
+dar órdenes a un animal usando
+ 
+
+561
+00:12:47,250 --> 00:12:50,420
+dar órdenes a un animal usando
+comando y animal ordenar a un animal que
+
+562
+00:12:50,420 --> 00:12:50,430
+comando y animal ordenar a un animal que
+ 
+
+563
+00:12:50,430 --> 00:12:52,880
+comando y animal ordenar a un animal que
+realice una actividad requiere que el
+
+564
+00:12:52,880 --> 00:12:52,890
+realice una actividad requiere que el
+ 
+
+565
+00:12:52,890 --> 00:12:54,680
+realice una actividad requiere que el
+jugador gaste una cantidad de sus
+
+566
+00:12:54,680 --> 00:12:54,690
+jugador gaste una cantidad de sus
+ 
+
+567
+00:12:54,690 --> 00:12:57,320
+jugador gaste una cantidad de sus
+acciones igual a la cantidad de acciones que
+
+568
+00:12:57,320 --> 00:12:57,330
+acciones igual a la cantidad de acciones que
+ 
+
+569
+00:12:57,330 --> 00:12:59,870
+acciones igual a la cantidad de acciones que
+el animal necesitará gastar para realizar
+
+570
+00:12:59,870 --> 00:12:59,880
+el animal necesitará gastar para realizar
+ 
+
+571
+00:12:59,880 --> 00:13:03,350
+el animal necesitará gastar para realizar
+esa actividad el jugador luego realiza una
+
+572
+00:13:03,350 --> 00:13:03,360
+esa actividad el jugador luego realiza una
+ 
+
+573
+00:13:03,360 --> 00:13:06,050
+esa actividad el jugador luego realiza una
+prueba de habilidad de naturaleza contra la
+
+574
+00:13:06,050 --> 00:13:06,060
+prueba de habilidad de naturaleza contra la
+ 
+
+575
+00:13:06,060 --> 00:13:09,080
+prueba de habilidad de naturaleza contra la
+CD de los animales esta CD se modifica aún más
+
+576
+00:13:09,080 --> 00:13:09,090
+CD de los animales esta CD se modifica aún más
+ 
+
+577
+00:13:09,090 --> 00:13:10,640
+CD de los animales esta CD se modifica aún más
+sin embargo el DM cree que es apropiado
+
+578
+00:13:10,640 --> 00:13:10,650
+sin embargo el DM cree que es apropiado
+ 
+
+579
+00:13:10,650 --> 00:13:14,510
+sin embargo el DM cree que es apropiado
+si tienen éxito el animal realizará
+
+580
+00:13:14,510 --> 00:13:14,520
+si tienen éxito el animal realizará
+ 
+
+581
+00:13:14,520 --> 00:13:17,720
+si tienen éxito el animal realizará
+esa actividad en su turno  no
+
+582
+00:13:17,720 --> 00:13:17,730
+esa actividad en su turno  no
+ 
+
+583
+00:13:17,730 --> 00:13:19,970
+esa actividad en su turno  no
+realizan la acción inmediatamente en el
+
+584
+00:13:19,970 --> 00:13:19,980
+realizan la acción inmediatamente en el
+ 
+
+585
+00:13:19,980 --> 00:13:22,850
+realizan la acción inmediatamente en el
+turno del jugador solo se les puede ordenar a los animales con una
+
+586
+00:13:22,850 --> 00:13:22,860
+turno del jugador solo se les puede ordenar a los animales con una
+ 
+
+587
+00:13:22,860 --> 00:13:25,700
+turno del jugador solo se les puede ordenar a los animales con una
+actitud indiferente o mejor estos
+
+588
+00:13:25,700 --> 00:13:25,710
+actitud indiferente o mejor estos
+ 
+
+589
+00:13:25,710 --> 00:13:28,490
+actitud indiferente o mejor estos
+animales solo pueden realizar
+
+590
+00:13:28,490 --> 00:13:28,500
+animales solo pueden realizar
+ 
+
+591
+00:13:28,500 --> 00:13:33,830
+animales solo pueden realizar
+salto buscar parada zancada golpear y cualquier
+
+592
+00:13:33,830 --> 00:13:33,840
+salto buscar parada zancada golpear y cualquier
+ 
+
+593
+00:13:33,840 --> 00:13:37,070
+salto buscar parada zancada golpear y cualquier
+acción listada en su bloque de paso pero
+
+594
+00:13:37,070 --> 00:13:37,080
+acción listada en su bloque de paso pero
+ 
+
+595
+00:13:37,080 --> 00:13:40,010
+acción listada en su bloque de paso pero
+las patas entrenadas del animal se pueden usar para
+
+596
+00:13:40,010 --> 00:13:40,020
+las patas entrenadas del animal se pueden usar para
+ 
+
+597
+00:13:40,020 --> 00:13:42,920
+las patas entrenadas del animal se pueden usar para
+enseñarles nuevas acciones básicas o
+
+598
+00:13:42,920 --> 00:13:42,930
+enseñarles nuevas acciones básicas o
+ 
+
+599
+00:13:42,930 --> 00:13:45,830
+enseñarles nuevas acciones básicas o
+hacer que practiquen una acción básica que
+
+600
+00:13:45,830 --> 00:13:45,840
+hacer que practiquen una acción básica que
+ 
+
+601
+00:13:45,840 --> 00:13:48,170
+hacer que practiquen una acción básica que
+ya conocen hasta el punto de que ya no
+
+602
+00:13:48,170 --> 00:13:48,180
+ya conocen hasta el punto de que ya no
+ 
+
+603
+00:13:48,180 --> 00:13:50,630
+ya conocen hasta el punto de que ya no
+necesitas hacer una tirada de habilidad de naturaleza
+
+604
+00:13:50,630 --> 00:13:50,640
+necesitas hacer una tirada de habilidad de naturaleza
+ 
+
+605
+00:13:50,640 --> 00:13:52,220
+necesitas hacer una tirada de habilidad de naturaleza
+cuando usas el comando y
+
+606
+00:13:52,220 --> 00:13:52,230
+cuando usas el comando y
+ 
+
+607
+00:13:52,230 --> 00:13:55,010
+cuando usas el comando y
+- diles que realicen esa
+
+608
+00:13:55,010 --> 00:13:55,020
+- diles que realicen esa
+ 
+
+609
+00:13:55,020 --> 00:13:58,430
+- diles que realicen esa
+acción específica a menos que el animal esté entrenado para el
+
+610
+00:13:58,430 --> 00:13:58,440
+acción específica a menos que el animal esté entrenado para el
+ 
+
+611
+00:13:58,440 --> 00:14:01,460
+acción específica a menos que el animal esté entrenado para el
+combate como un caballo de guerra entrarán en pánico
+
+612
+00:14:01,460 --> 00:14:01,470
+combate como un caballo de guerra entrarán en pánico
+ 
+
+613
+00:14:01,470 --> 00:14:04,340
+combate como un caballo de guerra entrarán en pánico
+tan pronto como entren en combate cuando entran en
+
+614
+00:14:04,340 --> 00:14:04,350
+tan pronto como entren en combate cuando entran en
+ 
+
+615
+00:14:04,350 --> 00:14:06,290
+tan pronto como entren en combate cuando entran en
+pánico el animal sufre la
+
+616
+00:14:06,290 --> 00:14:06,300
+pánico el animal sufre la
+ 
+
+617
+00:14:06,300 --> 00:14:08,630
+pánico el animal sufre la
+condición de asustado y también
+
+618
+00:14:08,630 --> 00:14:08,640
+condición de asustado y también
+ 
+
+619
+00:14:08,640 --> 00:14:11,510
+condición de asustado y también
+sufren la condición de huida mientras
+
+620
+00:14:11,510 --> 00:14:11,520
+sufren la condición de huida mientras
+ 
+
+621
+00:14:11,520 --> 00:14:14,050
+sufren la condición de huida mientras
+estén bajo los efectos del susto
+
+622
+00:14:14,050 --> 00:14:14,060
+estén bajo los efectos del susto
+ 
+
+623
+00:14:14,060 --> 00:14:16,850
+estén bajo los efectos del susto
+usar el comando y animal evita que el
+
+624
+00:14:16,850 --> 00:14:16,860
+usar el comando y animal evita que el
+ 
+
+625
+00:14:16,860 --> 00:14:19,790
+usar el comando y animal evita que el
+animal huya esa ronda si el
+
+626
+00:14:19,790 --> 00:14:19,800
+animal huya esa ronda si el
+ 
+
+627
+00:14:19,800 --> 00:14:21,890
+animal huya esa ronda si el
+animal todavía está asustado al comienzo
+
+628
+00:14:21,890 --> 00:14:21,900
+animal todavía está asustado al comienzo
+ 
+
+629
+00:14:21,900 --> 00:14:24,590
+animal todavía está asustado al comienzo
+de su siguiente turno gana la
+
+630
+00:14:24,590 --> 00:14:24,600
+de su siguiente turno gana la
+ 
+
+631
+00:14:24,600 --> 00:14:27,920
+de su siguiente turno gana la
+condición de huida nuevamente
+
+632
+00:14:27,920 --> 00:14:27,930
+
+ 
+
+633
+00:14:27,930 --> 00:14:29,450
+
+con eso terminaremos este video
+
+634
+00:14:29,450 --> 00:14:29,460
+con eso terminaremos este video
+ 
+
+635
+00:14:29,460 --> 00:14:31,220
+con eso terminaremos este video
+si encontraste útil este video
+
+636
+00:14:31,220 --> 00:14:31,230
+si encontraste útil este video
+ 
+
+637
+00:14:31,230 --> 00:14:33,350
+si encontraste útil este video
+por favor danos un me gusta y no olvides hacer
+
+638
+00:14:33,350 --> 00:14:33,360
+por favor danos un me gusta y no olvides hacer
+ 
+
+639
+00:14:33,360 --> 00:14:34,970
+por favor danos un me gusta y no olvides hacer
+clic en el botón de suscripción y la
+
+640
+00:14:34,970 --> 00:14:34,980
+clic en el botón de suscripción y la
+ 
+
+641
+00:14:34,980 --> 00:14:36,680
+clic en el botón de suscripción y la
+campana para que nunca te pierdas nuestros futuros
+
+642
+00:14:36,680 --> 00:14:36,690
+campana para que nunca te pierdas nuestros futuros
+ 
+
+643
+00:14:36,690 --> 00:14:38,870
+campana para que nunca te pierdas nuestros futuros
+videos déjanos un comentario haciéndonos
+
+644
+00:14:38,870 --> 00:14:38,880
+videos déjanos un comentario haciéndonos
+ 
+
+645
+00:14:38,880 --> 00:14:40,130
+videos déjanos un comentario haciéndonos
+saber qué temas te gustaría ver
+
+646
+00:14:40,130 --> 00:14:40,140
+saber qué temas te gustaría ver
+ 
+
+647
+00:14:40,140 --> 00:14:42,260
+saber qué temas te gustaría ver
+tratados  en nuestros futuros videos y
+
+648
+00:14:42,260 --> 00:14:42,270
+tratados  en nuestros futuros videos y
+ 
+
+649
+00:14:42,270 --> 00:14:43,370
+tratados  en nuestros futuros videos y
+siempre puedes comunicarte con nosotros a través de nuestras
+
+650
+00:14:43,370 --> 00:14:43,380
+siempre puedes comunicarte con nosotros a través de nuestras
+ 
+
+651
+00:14:43,380 --> 00:14:46,100
+siempre puedes comunicarte con nosotros a través de nuestras
+páginas de Twitter y Facebook también si deseas
+
+652
+00:14:46,100 --> 00:14:46,110
+páginas de Twitter y Facebook también si deseas
+ 
+
+653
+00:14:46,110 --> 00:14:47,540
+páginas de Twitter y Facebook también si deseas
+usar algunos de los mapas que presentamos en
+
+654
+00:14:47,540 --> 00:14:47,550
+usar algunos de los mapas que presentamos en
+ 
+
+655
+00:14:47,550 --> 00:14:49,370
+usar algunos de los mapas que presentamos en
+nuestros videos y tus propios juegos, puedes
+
+656
+00:14:49,370 --> 00:14:49,380
+nuestros videos y tus propios juegos, puedes
+ 
+
+657
+00:14:49,380 --> 00:14:52,070
+nuestros videos y tus propios juegos, puedes
+encontrarlos en mapas de maestría. Puedes encontrar un enlace a
+
+658
+00:14:52,070 --> 00:14:52,080
+encontrarlos en mapas de maestría. Puedes encontrar un enlace a
+ 
+
+659
+00:14:52,080 --> 00:14:53,360
+encontrarlos en mapas de maestría. Puedes encontrar un enlace a
+esa tienda en la
+
+660
+00:14:53,360 --> 00:14:53,370
+esa tienda en la
+ 
+
+661
+00:14:53,370 --> 00:14:56,150
+esa tienda en la
+descripción. Gracias por mirar.
+
+662
+00:14:56,150 --> 00:14:56,160
+descripción. Gracias por mirar.
+ 
+
+663
+00:14:56,160 --> 00:14:57,740
+descripción. Gracias por mirar.
+Cuídate y nos vemos pronto con más conceptos
+
+664
+00:14:57,740 --> 00:14:57,750
+Cuídate y nos vemos pronto con más conceptos
+ 
+
+665
+00:14:57,750 --> 00:15:01,520
+Cuídate y nos vemos pronto con más conceptos
+básicos para tus juegos de mesa favoritos.
+

@@ -1,0 +1,8325 @@
+1
+00:00:00,560 --> 00:00:02,550
+
+Hey everybody, Dave here with another
+
+2
+00:00:02,550 --> 00:00:02,560
+Hey everybody, Dave here with another
+ 
+
+3
+00:00:02,560 --> 00:00:05,030
+Hey everybody, Dave here with another
+Pathfinder rule reminder for you. And
+
+4
+00:00:05,030 --> 00:00:05,040
+Pathfinder rule reminder for you. And
+ 
+
+5
+00:00:05,040 --> 00:00:06,390
+Pathfinder rule reminder for you. And
+today we're going to be talking a little
+
+6
+00:00:06,390 --> 00:00:06,400
+today we're going to be talking a little
+ 
+
+7
+00:00:06,400 --> 00:00:08,790
+today we're going to be talking a little
+bit about haunts. Uh it's been a while
+
+8
+00:00:08,790 --> 00:00:08,800
+bit about haunts. Uh it's been a while
+ 
+
+9
+00:00:08,800 --> 00:00:09,990
+bit about haunts. Uh it's been a while
+since I've done one of these videos. So
+
+10
+00:00:09,990 --> 00:00:10,000
+since I've done one of these videos. So
+ 
+
+11
+00:00:10,000 --> 00:00:11,350
+since I've done one of these videos. So
+if you're not familiar with the rule
+
+12
+00:00:11,350 --> 00:00:11,360
+if you're not familiar with the rule
+ 
+
+13
+00:00:11,360 --> 00:00:14,310
+if you're not familiar with the rule
+reminders, these are resources that sort
+
+14
+00:00:14,310 --> 00:00:14,320
+reminders, these are resources that sort
+ 
+
+15
+00:00:14,320 --> 00:00:17,430
+reminders, these are resources that sort
+of back up the regular houseplay videos.
+
+16
+00:00:17,430 --> 00:00:17,440
+of back up the regular houseplay videos.
+ 
+
+17
+00:00:17,440 --> 00:00:19,189
+of back up the regular houseplay videos.
+a little more informal, a little more
+
+18
+00:00:19,189 --> 00:00:19,199
+a little more informal, a little more
+ 
+
+19
+00:00:19,199 --> 00:00:22,150
+a little more informal, a little more
+casual, and I'll take questions from uh
+
+20
+00:00:22,150 --> 00:00:22,160
+casual, and I'll take questions from uh
+ 
+
+21
+00:00:22,160 --> 00:00:24,150
+casual, and I'll take questions from uh
+Patreon and from the comments section
+
+22
+00:00:24,150 --> 00:00:24,160
+Patreon and from the comments section
+ 
+
+23
+00:00:24,160 --> 00:00:26,070
+Patreon and from the comments section
+and just kind of cover anything else
+
+24
+00:00:26,070 --> 00:00:26,080
+and just kind of cover anything else
+ 
+
+25
+00:00:26,080 --> 00:00:29,029
+and just kind of cover anything else
+that needs to uh be be said to reinforce
+
+26
+00:00:29,029 --> 00:00:29,039
+that needs to uh be be said to reinforce
+ 
+
+27
+00:00:29,039 --> 00:00:30,710
+that needs to uh be be said to reinforce
+the already published videos. In this
+
+28
+00:00:30,710 --> 00:00:30,720
+the already published videos. In this
+ 
+
+29
+00:00:30,720 --> 00:00:32,389
+the already published videos. In this
+case, this is going to be reinforcing a
+
+30
+00:00:32,389 --> 00:00:32,399
+case, this is going to be reinforcing a
+ 
+
+31
+00:00:32,399 --> 00:00:34,069
+case, this is going to be reinforcing a
+lot of the information that was included
+
+32
+00:00:34,069 --> 00:00:34,079
+lot of the information that was included
+ 
+
+33
+00:00:34,079 --> 00:00:36,630
+lot of the information that was included
+in the uh video on hazards, and I'll
+
+34
+00:00:36,630 --> 00:00:36,640
+in the uh video on hazards, and I'll
+ 
+
+35
+00:00:36,640 --> 00:00:39,110
+in the uh video on hazards, and I'll
+make sure I include a link to that video
+
+36
+00:00:39,110 --> 00:00:39,120
+make sure I include a link to that video
+ 
+
+37
+00:00:39,120 --> 00:00:42,389
+make sure I include a link to that video
+in the description of this video. But um
+
+38
+00:00:42,389 --> 00:00:42,399
+in the description of this video. But um
+ 
+
+39
+00:00:42,399 --> 00:00:45,830
+in the description of this video. But um
+with the the recent release or somewhat
+
+40
+00:00:45,830 --> 00:00:45,840
+with the the recent release or somewhat
+ 
+
+41
+00:00:45,840 --> 00:00:48,229
+with the the recent release or somewhat
+recent release of the cinematic starship
+
+42
+00:00:48,229 --> 00:00:48,239
+recent release of the cinematic starship
+ 
+
+43
+00:00:48,239 --> 00:00:50,549
+recent release of the cinematic starship
+rules for Starfinder second edition,
+
+44
+00:00:50,549 --> 00:00:50,559
+rules for Starfinder second edition,
+ 
+
+45
+00:00:50,559 --> 00:00:53,510
+rules for Starfinder second edition,
+which heavily use the hazard rules and
+
+46
+00:00:53,510 --> 00:00:53,520
+which heavily use the hazard rules and
+ 
+
+47
+00:00:53,520 --> 00:00:54,709
+which heavily use the hazard rules and
+some questions I've received
+
+48
+00:00:54,709 --> 00:00:54,719
+some questions I've received
+ 
+
+49
+00:00:54,719 --> 00:00:57,350
+some questions I've received
+specifically specifically about haunts,
+
+50
+00:00:57,350 --> 00:00:57,360
+specifically specifically about haunts,
+ 
+
+51
+00:00:57,360 --> 00:00:59,189
+specifically specifically about haunts,
+uh I figured it'd make sense just to do
+
+52
+00:00:59,189 --> 00:00:59,199
+uh I figured it'd make sense just to do
+ 
+
+53
+00:00:59,199 --> 00:01:00,549
+uh I figured it'd make sense just to do
+one of these quick little videos to talk
+
+54
+00:01:00,549 --> 00:01:00,559
+one of these quick little videos to talk
+ 
+
+55
+00:01:00,559 --> 00:01:02,470
+one of these quick little videos to talk
+about it. Specifically, I was asked if I
+
+56
+00:01:02,470 --> 00:01:02,480
+about it. Specifically, I was asked if I
+ 
+
+57
+00:01:02,480 --> 00:01:04,630
+about it. Specifically, I was asked if I
+could take a haunt and just kind of walk
+
+58
+00:01:04,630 --> 00:01:04,640
+could take a haunt and just kind of walk
+ 
+
+59
+00:01:04,640 --> 00:01:07,670
+could take a haunt and just kind of walk
+through it from A to Z. you know, how it
+
+60
+00:01:07,670 --> 00:01:07,680
+through it from A to Z. you know, how it
+ 
+
+61
+00:01:07,680 --> 00:01:09,590
+through it from A to Z. you know, how it
+works, what's in the stat block, how it
+
+62
+00:01:09,590 --> 00:01:09,600
+works, what's in the stat block, how it
+ 
+
+63
+00:01:09,600 --> 00:01:12,230
+works, what's in the stat block, how it
+would be presented in a a game, and how
+
+64
+00:01:12,230 --> 00:01:12,240
+would be presented in a a game, and how
+ 
+
+65
+00:01:12,240 --> 00:01:15,510
+would be presented in a a game, and how
+things might play out. So, um, before we
+
+66
+00:01:15,510 --> 00:01:15,520
+things might play out. So, um, before we
+ 
+
+67
+00:01:15,520 --> 00:01:17,429
+things might play out. So, um, before we
+get too deep into haunts, we should
+
+68
+00:01:17,429 --> 00:01:17,439
+get too deep into haunts, we should
+ 
+
+69
+00:01:17,439 --> 00:01:18,710
+get too deep into haunts, we should
+probably just talk about hazards in
+
+70
+00:01:18,710 --> 00:01:18,720
+probably just talk about hazards in
+ 
+
+71
+00:01:18,720 --> 00:01:22,789
+probably just talk about hazards in
+general. Ha, a haunt is a specific kind
+
+72
+00:01:22,789 --> 00:01:22,799
+general. Ha, a haunt is a specific kind
+ 
+
+73
+00:01:22,799 --> 00:01:26,149
+general. Ha, a haunt is a specific kind
+of hazard. So, maybe we should cover
+
+74
+00:01:26,149 --> 00:01:26,159
+of hazard. So, maybe we should cover
+ 
+
+75
+00:01:26,159 --> 00:01:31,590
+of hazard. So, maybe we should cover
+what a hazard is first. Uh, a hazard is
+
+76
+00:01:31,590 --> 00:01:31,600
+what a hazard is first. Uh, a hazard is
+ 
+
+77
+00:01:31,600 --> 00:01:33,749
+what a hazard is first. Uh, a hazard is
+basically anything in the game that
+
+78
+00:01:33,749 --> 00:01:33,759
+basically anything in the game that
+ 
+
+79
+00:01:33,759 --> 00:01:36,149
+basically anything in the game that
+would be considered an obstacle or a
+
+80
+00:01:36,149 --> 00:01:36,159
+would be considered an obstacle or a
+ 
+
+81
+00:01:36,159 --> 00:01:38,870
+would be considered an obstacle or a
+danger to the players that is not a
+
+82
+00:01:38,870 --> 00:01:38,880
+danger to the players that is not a
+ 
+
+83
+00:01:38,880 --> 00:01:42,710
+danger to the players that is not a
+creature. So, uh, most of the conflict
+
+84
+00:01:42,710 --> 00:01:42,720
+creature. So, uh, most of the conflict
+ 
+
+85
+00:01:42,720 --> 00:01:44,469
+creature. So, uh, most of the conflict
+traditionally in these games, especially
+
+86
+00:01:44,469 --> 00:01:44,479
+traditionally in these games, especially
+ 
+
+87
+00:01:44,479 --> 00:01:46,469
+traditionally in these games, especially
+in like a dungeon crawl, is going to
+
+88
+00:01:46,469 --> 00:01:46,479
+in like a dungeon crawl, is going to
+ 
+
+89
+00:01:46,479 --> 00:01:47,910
+in like a dungeon crawl, is going to
+come in the form of monsters for the
+
+90
+00:01:47,910 --> 00:01:47,920
+come in the form of monsters for the
+ 
+
+91
+00:01:47,920 --> 00:01:50,710
+come in the form of monsters for the
+players to fight and vanquish. Uh, those
+
+92
+00:01:50,710 --> 00:01:50,720
+players to fight and vanquish. Uh, those
+ 
+
+93
+00:01:50,720 --> 00:01:52,710
+players to fight and vanquish. Uh, those
+are creatures. They use the creature
+
+94
+00:01:52,710 --> 00:01:52,720
+are creatures. They use the creature
+ 
+
+95
+00:01:52,720 --> 00:01:55,910
+are creatures. They use the creature
+rules, the creature combat rules. uh NPC
+
+96
+00:01:55,910 --> 00:01:55,920
+rules, the creature combat rules. uh NPC
+ 
+
+97
+00:01:55,920 --> 00:01:58,630
+rules, the creature combat rules. uh NPC
+interactions would likely use the social
+
+98
+00:01:58,630 --> 00:01:58,640
+interactions would likely use the social
+ 
+
+99
+00:01:58,640 --> 00:02:02,149
+interactions would likely use the social
+encounter rules. So, a hazard is going
+
+100
+00:02:02,149 --> 00:02:02,159
+encounter rules. So, a hazard is going
+ 
+
+101
+00:02:02,159 --> 00:02:04,310
+encounter rules. So, a hazard is going
+to be basically anything other than
+
+102
+00:02:04,310 --> 00:02:04,320
+to be basically anything other than
+ 
+
+103
+00:02:04,320 --> 00:02:07,109
+to be basically anything other than
+those creatures that is an obstacle or a
+
+104
+00:02:07,109 --> 00:02:07,119
+those creatures that is an obstacle or a
+ 
+
+105
+00:02:07,119 --> 00:02:09,029
+those creatures that is an obstacle or a
+danger to the player. Now, I might want
+
+106
+00:02:09,029 --> 00:02:09,039
+danger to the player. Now, I might want
+ 
+
+107
+00:02:09,039 --> 00:02:10,229
+danger to the player. Now, I might want
+to put a little asterk next to that.
+
+108
+00:02:10,229 --> 00:02:10,239
+to put a little asterk next to that.
+ 
+
+109
+00:02:10,239 --> 00:02:13,110
+to put a little asterk next to that.
+There are other systems like uh victory
+
+110
+00:02:13,110 --> 00:02:13,120
+There are other systems like uh victory
+ 
+
+111
+00:02:13,120 --> 00:02:15,270
+There are other systems like uh victory
+point systems, the chase subsystem and
+
+112
+00:02:15,270 --> 00:02:15,280
+point systems, the chase subsystem and
+ 
+
+113
+00:02:15,280 --> 00:02:20,070
+point systems, the chase subsystem and
+so forth that are also used to manage uh
+
+114
+00:02:20,070 --> 00:02:20,080
+so forth that are also used to manage uh
+ 
+
+115
+00:02:20,080 --> 00:02:22,550
+so forth that are also used to manage uh
+difficulties, obstacles, and dangers in
+
+116
+00:02:22,550 --> 00:02:22,560
+difficulties, obstacles, and dangers in
+ 
+
+117
+00:02:22,560 --> 00:02:24,630
+difficulties, obstacles, and dangers in
+the game. but they usually look at
+
+118
+00:02:24,630 --> 00:02:24,640
+the game. but they usually look at
+ 
+
+119
+00:02:24,640 --> 00:02:27,030
+the game. but they usually look at
+things either outside of encounter mode
+
+120
+00:02:27,030 --> 00:02:27,040
+things either outside of encounter mode
+ 
+
+121
+00:02:27,040 --> 00:02:30,390
+things either outside of encounter mode
+or over several rounds of encounters to
+
+122
+00:02:30,390 --> 00:02:30,400
+or over several rounds of encounters to
+ 
+
+123
+00:02:30,400 --> 00:02:33,430
+or over several rounds of encounters to
+accumulate points. Um, but a hazard is
+
+124
+00:02:33,430 --> 00:02:33,440
+accumulate points. Um, but a hazard is
+ 
+
+125
+00:02:33,440 --> 00:02:34,869
+accumulate points. Um, but a hazard is
+going to be something that you deal with
+
+126
+00:02:34,869 --> 00:02:34,879
+going to be something that you deal with
+ 
+
+127
+00:02:34,879 --> 00:02:38,229
+going to be something that you deal with
+in encounter mode uh right along with
+
+128
+00:02:38,229 --> 00:02:38,239
+in encounter mode uh right along with
+ 
+
+129
+00:02:38,239 --> 00:02:40,630
+in encounter mode uh right along with
+battling monsters and everything else.
+
+130
+00:02:40,630 --> 00:02:40,640
+battling monsters and everything else.
+ 
+
+131
+00:02:40,640 --> 00:02:44,550
+battling monsters and everything else.
+So, our our hazards are are going to
+
+132
+00:02:44,550 --> 00:02:44,560
+So, our our hazards are are going to
+ 
+
+133
+00:02:44,560 --> 00:02:46,150
+So, our our hazards are are going to
+fall into basically three broad
+
+134
+00:02:46,150 --> 00:02:46,160
+fall into basically three broad
+ 
+
+135
+00:02:46,160 --> 00:02:48,070
+fall into basically three broad
+categories. The first of those is a
+
+136
+00:02:48,070 --> 00:02:48,080
+categories. The first of those is a
+ 
+
+137
+00:02:48,080 --> 00:02:51,509
+categories. The first of those is a
+trap. uh anything that a person is going
+
+138
+00:02:51,509 --> 00:02:51,519
+trap. uh anything that a person is going
+ 
+
+139
+00:02:51,519 --> 00:02:55,430
+trap. uh anything that a person is going
+to create for I'm creating it tonight
+
+140
+00:02:55,430 --> 00:02:55,440
+to create for I'm creating it tonight
+ 
+
+141
+00:02:55,440 --> 00:02:57,110
+to create for I'm creating it tonight
+right now and it's going to either blow
+
+142
+00:02:57,110 --> 00:02:57,120
+right now and it's going to either blow
+ 
+
+143
+00:02:57,120 --> 00:02:58,869
+right now and it's going to either blow
+up or trigger or activate at a later
+
+144
+00:02:58,869 --> 00:02:58,879
+up or trigger or activate at a later
+ 
+
+145
+00:02:58,879 --> 00:03:02,229
+up or trigger or activate at a later
+time usually to defend uh your house a
+
+146
+00:03:02,229 --> 00:03:02,239
+time usually to defend uh your house a
+ 
+
+147
+00:03:02,239 --> 00:03:06,070
+time usually to defend uh your house a
+dungeon whatever uh a chest from opening
+
+148
+00:03:06,070 --> 00:03:06,080
+dungeon whatever uh a chest from opening
+ 
+
+149
+00:03:06,080 --> 00:03:07,589
+dungeon whatever uh a chest from opening
+you're probably familiar with traps if
+
+150
+00:03:07,589 --> 00:03:07,599
+you're probably familiar with traps if
+ 
+
+151
+00:03:07,599 --> 00:03:08,949
+you're probably familiar with traps if
+you've ever seen Raiders of the Lost
+
+152
+00:03:08,949 --> 00:03:08,959
+you've ever seen Raiders of the Lost
+ 
+
+153
+00:03:08,959 --> 00:03:12,309
+you've ever seen Raiders of the Lost
+Dark you've seen the opening scene those
+
+154
+00:03:12,309 --> 00:03:12,319
+Dark you've seen the opening scene those
+ 
+
+155
+00:03:12,319 --> 00:03:15,509
+Dark you've seen the opening scene those
+are traps those are hazards uh another
+
+156
+00:03:15,509 --> 00:03:15,519
+are traps those are hazards uh another
+ 
+
+157
+00:03:15,519 --> 00:03:17,910
+are traps those are hazards uh another
+type of broad category of hazards is
+
+158
+00:03:17,910 --> 00:03:17,920
+type of broad category of hazards is
+ 
+
+159
+00:03:17,920 --> 00:03:20,149
+type of broad category of hazards is
+going to be environmental al hazards. Uh
+
+160
+00:03:20,149 --> 00:03:20,159
+going to be environmental al hazards. Uh
+ 
+
+161
+00:03:20,159 --> 00:03:24,070
+going to be environmental al hazards. Uh
+these are going to be uh earthquakes, uh
+
+162
+00:03:24,070 --> 00:03:24,080
+these are going to be uh earthquakes, uh
+ 
+
+163
+00:03:24,080 --> 00:03:27,270
+these are going to be uh earthquakes, uh
+tsunamis, a a building falling down
+
+164
+00:03:27,270 --> 00:03:27,280
+tsunamis, a a building falling down
+ 
+
+165
+00:03:27,280 --> 00:03:30,550
+tsunamis, a a building falling down
+around you. Uh typically environmental
+
+166
+00:03:30,550 --> 00:03:30,560
+around you. Uh typically environmental
+ 
+
+167
+00:03:30,560 --> 00:03:33,670
+around you. Uh typically environmental
+hazards are experienced by everybody in
+
+168
+00:03:33,670 --> 00:03:33,680
+hazards are experienced by everybody in
+ 
+
+169
+00:03:33,680 --> 00:03:37,670
+hazards are experienced by everybody in
+the um in the encounter, friend and foe,
+
+170
+00:03:37,670 --> 00:03:37,680
+the um in the encounter, friend and foe,
+ 
+
+171
+00:03:37,680 --> 00:03:39,910
+the um in the encounter, friend and foe,
+and not just isolated just to a person
+
+172
+00:03:39,910 --> 00:03:39,920
+and not just isolated just to a person
+ 
+
+173
+00:03:39,920 --> 00:03:43,509
+and not just isolated just to a person
+who quote triggers it or uh just to one
+
+174
+00:03:43,509 --> 00:03:43,519
+who quote triggers it or uh just to one
+ 
+
+175
+00:03:43,519 --> 00:03:44,869
+who quote triggers it or uh just to one
+side of the combat. It's usually going
+
+176
+00:03:44,869 --> 00:03:44,879
+side of the combat. It's usually going
+ 
+
+177
+00:03:44,879 --> 00:03:47,030
+side of the combat. It's usually going
+to be experienced by everybody. Although
+
+178
+00:03:47,030 --> 00:03:47,040
+to be experienced by everybody. Although
+ 
+
+179
+00:03:47,040 --> 00:03:49,670
+to be experienced by everybody. Although
+a lot of times the uh the opponents in
+
+180
+00:03:49,670 --> 00:03:49,680
+a lot of times the uh the opponents in
+ 
+
+181
+00:03:49,680 --> 00:03:51,670
+a lot of times the uh the opponents in
+an area might have a natural resistance
+
+182
+00:03:51,670 --> 00:03:51,680
+an area might have a natural resistance
+ 
+
+183
+00:03:51,680 --> 00:03:54,550
+an area might have a natural resistance
+to whatever uh the given environmental
+
+184
+00:03:54,550 --> 00:03:54,560
+to whatever uh the given environmental
+ 
+
+185
+00:03:54,560 --> 00:03:57,350
+to whatever uh the given environmental
+hazard is. But the third kind of hazard
+
+186
+00:03:57,350 --> 00:03:57,360
+hazard is. But the third kind of hazard
+ 
+
+187
+00:03:57,360 --> 00:03:58,550
+hazard is. But the third kind of hazard
+is the kind we're going to be talking
+
+188
+00:03:58,550 --> 00:03:58,560
+is the kind we're going to be talking
+ 
+
+189
+00:03:58,560 --> 00:04:01,589
+is the kind we're going to be talking
+about primarily today which is a haunt.
+
+190
+00:04:01,589 --> 00:04:01,599
+about primarily today which is a haunt.
+ 
+
+191
+00:04:01,599 --> 00:04:06,229
+about primarily today which is a haunt.
+A haunt is I think of it as especially
+
+192
+00:04:06,229 --> 00:04:06,239
+A haunt is I think of it as especially
+ 
+
+193
+00:04:06,239 --> 00:04:08,229
+A haunt is I think of it as especially
+mechanically speaking is it's like a
+
+194
+00:04:08,229 --> 00:04:08,239
+mechanically speaking is it's like a
+ 
+
+195
+00:04:08,239 --> 00:04:10,630
+mechanically speaking is it's like a
+trap. A haunt is nothing but a spooky
+
+196
+00:04:10,630 --> 00:04:10,640
+trap. A haunt is nothing but a spooky
+ 
+
+197
+00:04:10,640 --> 00:04:14,149
+trap. A haunt is nothing but a spooky
+trap. Right? So the the the only real
+
+198
+00:04:14,149 --> 00:04:14,159
+trap. Right? So the the the only real
+ 
+
+199
+00:04:14,159 --> 00:04:16,949
+trap. Right? So the the the only real
+difference between a haunt spooky trap
+
+200
+00:04:16,949 --> 00:04:16,959
+difference between a haunt spooky trap
+ 
+
+201
+00:04:16,959 --> 00:04:19,270
+difference between a haunt spooky trap
+and a traditional mechanical or magical
+
+202
+00:04:19,270 --> 00:04:19,280
+and a traditional mechanical or magical
+ 
+
+203
+00:04:19,280 --> 00:04:22,950
+and a traditional mechanical or magical
+trap is traps are intentionally created
+
+204
+00:04:22,950 --> 00:04:22,960
+trap is traps are intentionally created
+ 
+
+205
+00:04:22,960 --> 00:04:24,710
+trap is traps are intentionally created
+and they are armed and they are
+
+206
+00:04:24,710 --> 00:04:24,720
+and they are armed and they are
+ 
+
+207
+00:04:24,720 --> 00:04:26,550
+and they are armed and they are
+intentionally placed and so forth. And
+
+208
+00:04:26,550 --> 00:04:26,560
+intentionally placed and so forth. And
+ 
+
+209
+00:04:26,560 --> 00:04:29,830
+intentionally placed and so forth. And
+there's usually something physical about
+
+210
+00:04:29,830 --> 00:04:29,840
+there's usually something physical about
+ 
+
+211
+00:04:29,840 --> 00:04:32,070
+there's usually something physical about
+them. you can interact with them
+
+212
+00:04:32,070 --> 00:04:32,080
+them. you can interact with them
+ 
+
+213
+00:04:32,080 --> 00:04:36,870
+them. you can interact with them
+physically to either disarm them or uh
+
+214
+00:04:36,870 --> 00:04:36,880
+physically to either disarm them or uh
+ 
+
+215
+00:04:36,880 --> 00:04:39,670
+physically to either disarm them or uh
+they're going to have a a physical
+
+216
+00:04:39,670 --> 00:04:39,680
+they're going to have a a physical
+ 
+
+217
+00:04:39,680 --> 00:04:44,710
+they're going to have a a physical
+presence in the room. A haunt is more of
+
+218
+00:04:44,710 --> 00:04:44,720
+presence in the room. A haunt is more of
+ 
+
+219
+00:04:44,720 --> 00:04:47,430
+presence in the room. A haunt is more of
+like the echoes of the dead have tainted
+
+220
+00:04:47,430 --> 00:04:47,440
+like the echoes of the dead have tainted
+ 
+
+221
+00:04:47,440 --> 00:04:50,950
+like the echoes of the dead have tainted
+an area. It's a spectral phenomenon.
+
+222
+00:04:50,950 --> 00:04:50,960
+an area. It's a spectral phenomenon.
+ 
+
+223
+00:04:50,960 --> 00:04:53,189
+an area. It's a spectral phenomenon.
+It's going to be something that is
+
+224
+00:04:53,189 --> 00:04:53,199
+It's going to be something that is
+ 
+
+225
+00:04:53,199 --> 00:04:57,670
+It's going to be something that is
+typically not uh immediately dealt with
+
+226
+00:04:57,670 --> 00:04:57,680
+typically not uh immediately dealt with
+ 
+
+227
+00:04:57,680 --> 00:05:00,469
+typically not uh immediately dealt with
+in a physical manner. is probably going
+
+228
+00:05:00,469 --> 00:05:00,479
+in a physical manner. is probably going
+ 
+
+229
+00:05:00,479 --> 00:05:03,510
+in a physical manner. is probably going
+to be dealt with using other skills. Uh,
+
+230
+00:05:03,510 --> 00:05:03,520
+to be dealt with using other skills. Uh,
+ 
+
+231
+00:05:03,520 --> 00:05:05,510
+to be dealt with using other skills. Uh,
+in fact, it might be even worth looking
+
+232
+00:05:05,510 --> 00:05:05,520
+in fact, it might be even worth looking
+ 
+
+233
+00:05:05,520 --> 00:05:08,310
+in fact, it might be even worth looking
+at the three different kinds of hazards
+
+234
+00:05:08,310 --> 00:05:08,320
+at the three different kinds of hazards
+ 
+
+235
+00:05:08,320 --> 00:05:10,790
+at the three different kinds of hazards
+by the kinds of skills that are
+
+236
+00:05:10,790 --> 00:05:10,800
+by the kinds of skills that are
+ 
+
+237
+00:05:10,800 --> 00:05:15,350
+by the kinds of skills that are
+typically used to uh to disable them.
+
+238
+00:05:15,350 --> 00:05:15,360
+typically used to uh to disable them.
+ 
+
+239
+00:05:15,360 --> 00:05:18,629
+typically used to uh to disable them.
+Although disable is a mechanical term.
+
+240
+00:05:18,629 --> 00:05:18,639
+Although disable is a mechanical term.
+ 
+
+241
+00:05:18,639 --> 00:05:21,189
+Although disable is a mechanical term.
+Uh, when we're talking about physical
+
+242
+00:05:21,189 --> 00:05:21,199
+Uh, when we're talking about physical
+ 
+
+243
+00:05:21,199 --> 00:05:22,710
+Uh, when we're talking about physical
+traps, you're talking about using
+
+244
+00:05:22,710 --> 00:05:22,720
+traps, you're talking about using
+ 
+
+245
+00:05:22,720 --> 00:05:25,749
+traps, you're talking about using
+thievery disabled device to usually uh
+
+246
+00:05:25,749 --> 00:05:25,759
+thievery disabled device to usually uh
+ 
+
+247
+00:05:25,759 --> 00:05:28,390
+thievery disabled device to usually uh
+disable them to deal with them. uh
+
+248
+00:05:28,390 --> 00:05:28,400
+disable them to deal with them. uh
+ 
+
+249
+00:05:28,400 --> 00:05:30,950
+disable them to deal with them. uh
+magical traps you might be able to uh
+
+250
+00:05:30,950 --> 00:05:30,960
+magical traps you might be able to uh
+ 
+
+251
+00:05:30,960 --> 00:05:33,189
+magical traps you might be able to uh
+cast a spell magic on, do other things
+
+252
+00:05:33,189 --> 00:05:33,199
+cast a spell magic on, do other things
+ 
+
+253
+00:05:33,199 --> 00:05:36,070
+cast a spell magic on, do other things
+to counteract them. Environmental
+
+254
+00:05:36,070 --> 00:05:36,080
+to counteract them. Environmental
+ 
+
+255
+00:05:36,080 --> 00:05:39,350
+to counteract them. Environmental
+hazards are typically quote disabled
+
+256
+00:05:39,350 --> 00:05:39,360
+hazards are typically quote disabled
+ 
+
+257
+00:05:39,360 --> 00:05:41,189
+hazards are typically quote disabled
+using either your nature skill or your
+
+258
+00:05:41,189 --> 00:05:41,199
+using either your nature skill or your
+ 
+
+259
+00:05:41,199 --> 00:05:43,430
+using either your nature skill or your
+survival skill. And like no, that
+
+260
+00:05:43,430 --> 00:05:43,440
+survival skill. And like no, that
+ 
+
+261
+00:05:43,440 --> 00:05:45,909
+survival skill. And like no, that
+doesn't mean like I disable the entire
+
+262
+00:05:45,909 --> 00:05:45,919
+doesn't mean like I disable the entire
+ 
+
+263
+00:05:45,919 --> 00:05:48,710
+doesn't mean like I disable the entire
+avalanche that's coming at me, but using
+
+264
+00:05:48,710 --> 00:05:48,720
+avalanche that's coming at me, but using
+ 
+
+265
+00:05:48,720 --> 00:05:50,310
+avalanche that's coming at me, but using
+the survival skill, you might be able to
+
+266
+00:05:50,310 --> 00:05:50,320
+the survival skill, you might be able to
+ 
+
+267
+00:05:50,320 --> 00:05:54,230
+the survival skill, you might be able to
+find a way to uh you know, lean against
+
+268
+00:05:54,230 --> 00:05:54,240
+find a way to uh you know, lean against
+ 
+
+269
+00:05:54,240 --> 00:05:56,390
+find a way to uh you know, lean against
+a uh side of the mountain in such a way
+
+270
+00:05:56,390 --> 00:05:56,400
+a uh side of the mountain in such a way
+ 
+
+271
+00:05:56,400 --> 00:05:57,830
+a uh side of the mountain in such a way
+that you're not going to get hit by the
+
+272
+00:05:57,830 --> 00:05:57,840
+that you're not going to get hit by the
+ 
+
+273
+00:05:57,840 --> 00:05:59,350
+that you're not going to get hit by the
+brunt of it. That's that's what they
+
+274
+00:05:59,350 --> 00:05:59,360
+brunt of it. That's that's what they
+ 
+
+275
+00:05:59,360 --> 00:06:02,150
+brunt of it. That's that's what they
+mean by disable in a uh environmental
+
+276
+00:06:02,150 --> 00:06:02,160
+mean by disable in a uh environmental
+ 
+
+277
+00:06:02,160 --> 00:06:04,950
+mean by disable in a uh environmental
+sense. And your your hunts are typically
+
+278
+00:06:04,950 --> 00:06:04,960
+sense. And your your hunts are typically
+ 
+
+279
+00:06:04,960 --> 00:06:07,830
+sense. And your your hunts are typically
+going to be dealt with using either
+
+280
+00:06:07,830 --> 00:06:07,840
+going to be dealt with using either
+ 
+
+281
+00:06:07,840 --> 00:06:10,230
+going to be dealt with using either
+religion or a cult. Uh somewhat
+
+282
+00:06:10,230 --> 00:06:10,240
+religion or a cult. Uh somewhat
+ 
+
+283
+00:06:10,240 --> 00:06:12,150
+religion or a cult. Uh somewhat
+depending on the nature of the hunt.
+
+284
+00:06:12,150 --> 00:06:12,160
+depending on the nature of the hunt.
+ 
+
+285
+00:06:12,160 --> 00:06:15,670
+depending on the nature of the hunt.
+Sometimes the the haunts are uh based on
+
+286
+00:06:15,670 --> 00:06:15,680
+Sometimes the the haunts are uh based on
+ 
+
+287
+00:06:15,680 --> 00:06:18,070
+Sometimes the the haunts are uh based on
+sort of undead elements in which case it
+
+288
+00:06:18,070 --> 00:06:18,080
+sort of undead elements in which case it
+ 
+
+289
+00:06:18,080 --> 00:06:20,550
+sort of undead elements in which case it
+would be religion. In others is is like
+
+290
+00:06:20,550 --> 00:06:20,560
+would be religion. In others is is like
+ 
+
+291
+00:06:20,560 --> 00:06:23,350
+would be religion. In others is is like
+the psychic mental anguish of something
+
+292
+00:06:23,350 --> 00:06:23,360
+the psychic mental anguish of something
+ 
+
+293
+00:06:23,360 --> 00:06:25,510
+the psychic mental anguish of something
+and in those cases it might be more a
+
+294
+00:06:25,510 --> 00:06:25,520
+and in those cases it might be more a
+ 
+
+295
+00:06:25,520 --> 00:06:29,430
+and in those cases it might be more a
+cult than it is religion. Um, you also
+
+296
+00:06:29,430 --> 00:06:29,440
+cult than it is religion. Um, you also
+ 
+
+297
+00:06:29,440 --> 00:06:33,350
+cult than it is religion. Um, you also
+might typically use uh diplomacy or even
+
+298
+00:06:33,350 --> 00:06:33,360
+might typically use uh diplomacy or even
+ 
+
+299
+00:06:33,360 --> 00:06:36,629
+might typically use uh diplomacy or even
+intimidate in haunts if there is a
+
+300
+00:06:36,629 --> 00:06:36,639
+intimidate in haunts if there is a
+ 
+
+301
+00:06:36,639 --> 00:06:38,390
+intimidate in haunts if there is a
+spirit that is still conscious in the
+
+302
+00:06:38,390 --> 00:06:38,400
+spirit that is still conscious in the
+ 
+
+303
+00:06:38,400 --> 00:06:42,230
+spirit that is still conscious in the
+area. Uh, using diplomacy to calm them
+
+304
+00:06:42,230 --> 00:06:42,240
+area. Uh, using diplomacy to calm them
+ 
+
+305
+00:06:42,240 --> 00:06:45,909
+area. Uh, using diplomacy to calm them
+might be a way to disable that haunt.
+
+306
+00:06:45,909 --> 00:06:45,919
+might be a way to disable that haunt.
+ 
+
+307
+00:06:45,919 --> 00:06:49,430
+might be a way to disable that haunt.
+And just like all of the hazards, uh,
+
+308
+00:06:49,430 --> 00:06:49,440
+And just like all of the hazards, uh,
+ 
+
+309
+00:06:49,440 --> 00:06:51,510
+And just like all of the hazards, uh,
+haunts come in two varieties. There's
+
+310
+00:06:51,510 --> 00:06:51,520
+haunts come in two varieties. There's
+ 
+
+311
+00:06:51,520 --> 00:06:53,749
+haunts come in two varieties. There's
+there are simple haunts and complex
+
+312
+00:06:53,749 --> 00:06:53,759
+there are simple haunts and complex
+ 
+
+313
+00:06:53,759 --> 00:06:56,469
+there are simple haunts and complex
+haunts. Just like there are simple
+
+314
+00:06:56,469 --> 00:06:56,479
+haunts. Just like there are simple
+ 
+
+315
+00:06:56,479 --> 00:06:59,189
+haunts. Just like there are simple
+traps, complex tracks traps, simple
+
+316
+00:06:59,189 --> 00:06:59,199
+traps, complex tracks traps, simple
+ 
+
+317
+00:06:59,199 --> 00:07:02,150
+traps, complex tracks traps, simple
+hazards, complex hazards. The difference
+
+318
+00:07:02,150 --> 00:07:02,160
+hazards, complex hazards. The difference
+ 
+
+319
+00:07:02,160 --> 00:07:04,790
+hazards, complex hazards. The difference
+between a simple hazard and a complex
+
+320
+00:07:04,790 --> 00:07:04,800
+between a simple hazard and a complex
+ 
+
+321
+00:07:04,800 --> 00:07:07,430
+between a simple hazard and a complex
+one is that a simple hazard is one and
+
+322
+00:07:07,430 --> 00:07:07,440
+one is that a simple hazard is one and
+ 
+
+323
+00:07:07,440 --> 00:07:10,870
+one is that a simple hazard is one and
+done. A simple hazard is a landmine. Uh
+
+324
+00:07:10,870 --> 00:07:10,880
+done. A simple hazard is a landmine. Uh
+ 
+
+325
+00:07:10,880 --> 00:07:14,150
+done. A simple hazard is a landmine. Uh
+uh uh you either detect the the landmine
+
+326
+00:07:14,150 --> 00:07:14,160
+uh uh you either detect the the landmine
+ 
+
+327
+00:07:14,160 --> 00:07:17,589
+uh uh you either detect the the landmine
+and you disable it or you step on it and
+
+328
+00:07:17,589 --> 00:07:17,599
+and you disable it or you step on it and
+ 
+
+329
+00:07:17,599 --> 00:07:20,390
+and you disable it or you step on it and
+it explodes. But once that happens, it's
+
+330
+00:07:20,390 --> 00:07:20,400
+it explodes. But once that happens, it's
+ 
+
+331
+00:07:20,400 --> 00:07:24,469
+it explodes. But once that happens, it's
+done. Uh it doesn't persist round after
+
+332
+00:07:24,469 --> 00:07:24,479
+done. Uh it doesn't persist round after
+ 
+
+333
+00:07:24,479 --> 00:07:27,589
+done. Uh it doesn't persist round after
+round after round and it doesn't uh have
+
+334
+00:07:27,589 --> 00:07:27,599
+round after round and it doesn't uh have
+ 
+
+335
+00:07:27,599 --> 00:07:29,909
+round after round and it doesn't uh have
+its own place in initiative. It operates
+
+336
+00:07:29,909 --> 00:07:29,919
+its own place in initiative. It operates
+ 
+
+337
+00:07:29,919 --> 00:07:32,790
+its own place in initiative. It operates
+on a reaction.
+
+338
+00:07:32,790 --> 00:07:32,800
+on a reaction.
+ 
+
+339
+00:07:32,800 --> 00:07:36,150
+on a reaction.
+But uh complex hazards are ones that are
+
+340
+00:07:36,150 --> 00:07:36,160
+But uh complex hazards are ones that are
+ 
+
+341
+00:07:36,160 --> 00:07:38,469
+But uh complex hazards are ones that are
+typically triggered by a reaction or
+
+342
+00:07:38,469 --> 00:07:38,479
+typically triggered by a reaction or
+ 
+
+343
+00:07:38,479 --> 00:07:41,430
+typically triggered by a reaction or
+possibly a free action with a trigger.
+
+344
+00:07:41,430 --> 00:07:41,440
+possibly a free action with a trigger.
+ 
+
+345
+00:07:41,440 --> 00:07:43,830
+possibly a free action with a trigger.
+Uh the main difference there being that
+
+346
+00:07:43,830 --> 00:07:43,840
+Uh the main difference there being that
+ 
+
+347
+00:07:43,840 --> 00:07:48,230
+Uh the main difference there being that
+if a hazard or a haunt has a reaction in
+
+348
+00:07:48,230 --> 00:07:48,240
+if a hazard or a haunt has a reaction in
+ 
+
+349
+00:07:48,240 --> 00:07:51,510
+if a hazard or a haunt has a reaction in
+a trigger, it's it's one reaction and
+
+350
+00:07:51,510 --> 00:07:51,520
+a trigger, it's it's one reaction and
+ 
+
+351
+00:07:51,520 --> 00:07:55,350
+a trigger, it's it's one reaction and
+then it goes into its uh its routine. If
+
+352
+00:07:55,350 --> 00:07:55,360
+then it goes into its uh its routine. If
+ 
+
+353
+00:07:55,360 --> 00:07:58,070
+then it goes into its uh its routine. If
+it has a if it's triggered by a free
+
+354
+00:07:58,070 --> 00:07:58,080
+it has a if it's triggered by a free
+ 
+
+355
+00:07:58,080 --> 00:08:00,309
+it has a if it's triggered by a free
+action, then free actions are not
+
+356
+00:08:00,309 --> 00:08:00,319
+action, then free actions are not
+ 
+
+357
+00:08:00,319 --> 00:08:03,909
+action, then free actions are not
+limited to only once per turn. So if it
+
+358
+00:08:03,909 --> 00:08:03,919
+limited to only once per turn. So if it
+ 
+
+359
+00:08:03,919 --> 00:08:05,670
+limited to only once per turn. So if it
+has a free action on it, it can do it
+
+360
+00:08:05,670 --> 00:08:05,680
+has a free action on it, it can do it
+ 
+
+361
+00:08:05,680 --> 00:08:07,110
+has a free action on it, it can do it
+over and over and over again. I think
+
+362
+00:08:07,110 --> 00:08:07,120
+over and over and over again. I think
+ 
+
+363
+00:08:07,120 --> 00:08:09,270
+over and over and over again. I think
+the example in the book is a is a
+
+364
+00:08:09,270 --> 00:08:09,280
+the example in the book is a is a
+ 
+
+365
+00:08:09,280 --> 00:08:12,550
+the example in the book is a is a
+environmental hazard of quicksand. Uh
+
+366
+00:08:12,550 --> 00:08:12,560
+environmental hazard of quicksand. Uh
+ 
+
+367
+00:08:12,560 --> 00:08:14,469
+environmental hazard of quicksand. Uh
+quicksand is going to trigger and
+
+368
+00:08:14,469 --> 00:08:14,479
+quicksand is going to trigger and
+ 
+
+369
+00:08:14,479 --> 00:08:16,230
+quicksand is going to trigger and
+swallow as many people that step into
+
+370
+00:08:16,230 --> 00:08:16,240
+swallow as many people that step into
+ 
+
+371
+00:08:16,240 --> 00:08:19,029
+swallow as many people that step into
+it, not just the first person who does.
+
+372
+00:08:19,029 --> 00:08:19,039
+it, not just the first person who does.
+ 
+
+373
+00:08:19,039 --> 00:08:21,830
+it, not just the first person who does.
+So that is an example of why some of
+
+374
+00:08:21,830 --> 00:08:21,840
+So that is an example of why some of
+ 
+
+375
+00:08:21,840 --> 00:08:24,230
+So that is an example of why some of
+these hazards have uh initial triggers
+
+376
+00:08:24,230 --> 00:08:24,240
+these hazards have uh initial triggers
+ 
+
+377
+00:08:24,240 --> 00:08:27,749
+these hazards have uh initial triggers
+that are um free actions instead of
+
+378
+00:08:27,749 --> 00:08:27,759
+that are um free actions instead of
+ 
+
+379
+00:08:27,759 --> 00:08:30,950
+that are um free actions instead of
+reactions. But anyway,
+
+380
+00:08:30,950 --> 00:08:30,960
+reactions. But anyway,
+ 
+
+381
+00:08:30,960 --> 00:08:33,350
+reactions. But anyway,
+a haunt is basically mechanically
+
+382
+00:08:33,350 --> 00:08:33,360
+a haunt is basically mechanically
+ 
+
+383
+00:08:33,360 --> 00:08:35,990
+a haunt is basically mechanically
+speaking going to function the same way
+
+384
+00:08:35,990 --> 00:08:36,000
+speaking going to function the same way
+ 
+
+385
+00:08:36,000 --> 00:08:38,949
+speaking going to function the same way
+as any other hazard. It's best in my
+
+386
+00:08:38,949 --> 00:08:38,959
+as any other hazard. It's best in my
+ 
+
+387
+00:08:38,959 --> 00:08:41,909
+as any other hazard. It's best in my
+mind to think of them as spooky traps.
+
+388
+00:08:41,909 --> 00:08:41,919
+mind to think of them as spooky traps.
+ 
+
+389
+00:08:41,919 --> 00:08:44,389
+mind to think of them as spooky traps.
+And uh that can get a little weird
+
+390
+00:08:44,389 --> 00:08:44,399
+And uh that can get a little weird
+ 
+
+391
+00:08:44,399 --> 00:08:47,430
+And uh that can get a little weird
+because they do have elements that are
+
+392
+00:08:47,430 --> 00:08:47,440
+because they do have elements that are
+ 
+
+393
+00:08:47,440 --> 00:08:49,910
+because they do have elements that are
+similar to creatures. So there could be
+
+394
+00:08:49,910 --> 00:08:49,920
+similar to creatures. So there could be
+ 
+
+395
+00:08:49,920 --> 00:08:51,590
+similar to creatures. So there could be
+a spectral figure or a ghost that's
+
+396
+00:08:51,590 --> 00:08:51,600
+a spectral figure or a ghost that's
+ 
+
+397
+00:08:51,600 --> 00:08:53,350
+a spectral figure or a ghost that's
+involved in the haunt that you have a
+
+398
+00:08:53,350 --> 00:08:53,360
+involved in the haunt that you have a
+ 
+
+399
+00:08:53,360 --> 00:08:55,430
+involved in the haunt that you have a
+conversation with and you diplomacize
+
+400
+00:08:55,430 --> 00:08:55,440
+conversation with and you diplomacize
+ 
+
+401
+00:08:55,440 --> 00:08:57,910
+conversation with and you diplomacize
+with. And there also might be other
+
+402
+00:08:57,910 --> 00:08:57,920
+with. And there also might be other
+ 
+
+403
+00:08:57,920 --> 00:09:00,150
+with. And there also might be other
+situations where that ghost is in the
+
+404
+00:09:00,150 --> 00:09:00,160
+situations where that ghost is in the
+ 
+
+405
+00:09:00,160 --> 00:09:03,829
+situations where that ghost is in the
+game as a creature and not as a hazard.
+
+406
+00:09:03,829 --> 00:09:03,839
+game as a creature and not as a hazard.
+ 
+
+407
+00:09:03,839 --> 00:09:05,590
+game as a creature and not as a hazard.
+Uh I think that the major distinction
+
+408
+00:09:05,590 --> 00:09:05,600
+Uh I think that the major distinction
+ 
+
+409
+00:09:05,600 --> 00:09:09,110
+Uh I think that the major distinction
+between those two is if it's in the if
+
+410
+00:09:09,110 --> 00:09:09,120
+between those two is if it's in the if
+ 
+
+411
+00:09:09,120 --> 00:09:12,550
+between those two is if it's in the if
+it's in the the game as a creature, it
+
+412
+00:09:12,550 --> 00:09:12,560
+it's in the the game as a creature, it
+ 
+
+413
+00:09:12,560 --> 00:09:14,790
+it's in the the game as a creature, it
+is something that can be defeated
+
+414
+00:09:14,790 --> 00:09:14,800
+is something that can be defeated
+ 
+
+415
+00:09:14,800 --> 00:09:18,310
+is something that can be defeated
+through combat. And if it's part of a
+
+416
+00:09:18,310 --> 00:09:18,320
+through combat. And if it's part of a
+ 
+
+417
+00:09:18,320 --> 00:09:21,350
+through combat. And if it's part of a
+haunt, it probably cannot be defeated
+
+418
+00:09:21,350 --> 00:09:21,360
+haunt, it probably cannot be defeated
+ 
+
+419
+00:09:21,360 --> 00:09:25,030
+haunt, it probably cannot be defeated
+through through combat. is going to be
+
+420
+00:09:25,030 --> 00:09:25,040
+through through combat. is going to be
+ 
+
+421
+00:09:25,040 --> 00:09:27,110
+through through combat. is going to be
+dealt with through some other skills
+
+422
+00:09:27,110 --> 00:09:27,120
+dealt with through some other skills
+ 
+
+423
+00:09:27,120 --> 00:09:29,829
+dealt with through some other skills
+that are laid out in the stat block for
+
+424
+00:09:29,829 --> 00:09:29,839
+that are laid out in the stat block for
+ 
+
+425
+00:09:29,839 --> 00:09:32,630
+that are laid out in the stat block for
+that haunt. Um, another thing that's
+
+426
+00:09:32,630 --> 00:09:32,640
+that haunt. Um, another thing that's
+ 
+
+427
+00:09:32,640 --> 00:09:35,509
+that haunt. Um, another thing that's
+worth mentioning with haunts is haunts
+
+428
+00:09:35,509 --> 00:09:35,519
+worth mentioning with haunts is haunts
+ 
+
+429
+00:09:35,519 --> 00:09:41,269
+worth mentioning with haunts is haunts
+typically um always come back. So, uh,
+
+430
+00:09:41,269 --> 00:09:41,279
+typically um always come back. So, uh,
+ 
+
+431
+00:09:41,279 --> 00:09:43,670
+typically um always come back. So, uh,
+you might disable them, but that disable
+
+432
+00:09:43,670 --> 00:09:43,680
+you might disable them, but that disable
+ 
+
+433
+00:09:43,680 --> 00:09:45,990
+you might disable them, but that disable
+is going to be temporary. Sometimes they
+
+434
+00:09:45,990 --> 00:09:46,000
+is going to be temporary. Sometimes they
+ 
+
+435
+00:09:46,000 --> 00:09:48,310
+is going to be temporary. Sometimes they
+they list an area of quote unfinished
+
+436
+00:09:48,310 --> 00:09:48,320
+they list an area of quote unfinished
+ 
+
+437
+00:09:48,320 --> 00:09:50,790
+they list an area of quote unfinished
+business or that unfinished business is
+
+438
+00:09:50,790 --> 00:09:50,800
+business or that unfinished business is
+ 
+
+439
+00:09:50,800 --> 00:09:54,630
+business or that unfinished business is
+is implied. And basically all that means
+
+440
+00:09:54,630 --> 00:09:54,640
+is implied. And basically all that means
+ 
+
+441
+00:09:54,640 --> 00:09:59,190
+is implied. And basically all that means
+is unless you do a specific thing,
+
+442
+00:09:59,190 --> 00:09:59,200
+is unless you do a specific thing,
+ 
+
+443
+00:09:59,200 --> 00:10:01,990
+is unless you do a specific thing,
+the haunt will return. You have to put
+
+444
+00:10:01,990 --> 00:10:02,000
+the haunt will return. You have to put
+ 
+
+445
+00:10:02,000 --> 00:10:05,430
+the haunt will return. You have to put
+the souls of the spirits to rest in some
+
+446
+00:10:05,430 --> 00:10:05,440
+the souls of the spirits to rest in some
+ 
+
+447
+00:10:05,440 --> 00:10:08,710
+the souls of the spirits to rest in some
+manner in order to completely deal with
+
+448
+00:10:08,710 --> 00:10:08,720
+manner in order to completely deal with
+ 
+
+449
+00:10:08,720 --> 00:10:11,190
+manner in order to completely deal with
+a haunt. Whereas the other kinds of
+
+450
+00:10:11,190 --> 00:10:11,200
+a haunt. Whereas the other kinds of
+ 
+
+451
+00:10:11,200 --> 00:10:12,630
+a haunt. Whereas the other kinds of
+hazards typically don't have those kind
+
+452
+00:10:12,630 --> 00:10:12,640
+hazards typically don't have those kind
+ 
+
+453
+00:10:12,640 --> 00:10:16,069
+hazards typically don't have those kind
+of restrictions. Um mechanical traps
+
+454
+00:10:16,069 --> 00:10:16,079
+of restrictions. Um mechanical traps
+ 
+
+455
+00:10:16,079 --> 00:10:18,069
+of restrictions. Um mechanical traps
+might come back and might have a reset
+
+456
+00:10:18,069 --> 00:10:18,079
+might come back and might have a reset
+ 
+
+457
+00:10:18,079 --> 00:10:20,150
+might come back and might have a reset
+depending on how complex they are. Uh,
+
+458
+00:10:20,150 --> 00:10:20,160
+depending on how complex they are. Uh,
+ 
+
+459
+00:10:20,160 --> 00:10:22,470
+depending on how complex they are. Uh,
+an avalanche is going to have a is going
+
+460
+00:10:22,470 --> 00:10:22,480
+an avalanche is going to have a is going
+ 
+
+461
+00:10:22,480 --> 00:10:25,750
+an avalanche is going to have a is going
+to cease when it's done running out, but
+
+462
+00:10:25,750 --> 00:10:25,760
+to cease when it's done running out, but
+ 
+
+463
+00:10:25,760 --> 00:10:30,310
+to cease when it's done running out, but
+haunts always come back unless uh their
+
+464
+00:10:30,310 --> 00:10:30,320
+haunts always come back unless uh their
+ 
+
+465
+00:10:30,320 --> 00:10:32,630
+haunts always come back unless uh their
+unfinished business is dealt with. And
+
+466
+00:10:32,630 --> 00:10:32,640
+unfinished business is dealt with. And
+ 
+
+467
+00:10:32,640 --> 00:10:34,550
+unfinished business is dealt with. And
+sometimes that unfinished business is
+
+468
+00:10:34,550 --> 00:10:34,560
+sometimes that unfinished business is
+ 
+
+469
+00:10:34,560 --> 00:10:36,949
+sometimes that unfinished business is
+spelled out in the text and sometimes
+
+470
+00:10:36,949 --> 00:10:36,959
+spelled out in the text and sometimes
+ 
+
+471
+00:10:36,959 --> 00:10:39,110
+spelled out in the text and sometimes
+you have to infer it on your own as a
+
+472
+00:10:39,110 --> 00:10:39,120
+you have to infer it on your own as a
+ 
+
+473
+00:10:39,120 --> 00:10:42,470
+you have to infer it on your own as a
+GM. So, let's take a look at um at one
+
+474
+00:10:42,470 --> 00:10:42,480
+GM. So, let's take a look at um at one
+ 
+
+475
+00:10:42,480 --> 00:10:45,190
+GM. So, let's take a look at um at one
+haunt uh and walk through it uh top to
+
+476
+00:10:45,190 --> 00:10:45,200
+haunt uh and walk through it uh top to
+ 
+
+477
+00:10:45,200 --> 00:10:47,190
+haunt uh and walk through it uh top to
+bottom. And for this I'm going to be
+
+478
+00:10:47,190 --> 00:10:47,200
+bottom. And for this I'm going to be
+ 
+
+479
+00:10:47,200 --> 00:10:50,550
+bottom. And for this I'm going to be
+using the eternal flame haunt out of GM
+
+480
+00:10:50,550 --> 00:10:50,560
+using the eternal flame haunt out of GM
+ 
+
+481
+00:10:50,560 --> 00:10:52,949
+using the eternal flame haunt out of GM
+Core. So at the very top you can see is
+
+482
+00:10:52,949 --> 00:10:52,959
+Core. So at the very top you can see is
+ 
+
+483
+00:10:52,959 --> 00:10:56,550
+Core. So at the very top you can see is
+it is a level seven hazard and it is uh
+
+484
+00:10:56,550 --> 00:10:56,560
+it is a level seven hazard and it is uh
+ 
+
+485
+00:10:56,560 --> 00:10:59,670
+it is a level seven hazard and it is uh
+complex and it is a haunt. The first
+
+486
+00:10:59,670 --> 00:10:59,680
+complex and it is a haunt. The first
+ 
+
+487
+00:10:59,680 --> 00:11:02,949
+complex and it is a haunt. The first
+area it says stealth plus 18 expert.
+
+488
+00:11:02,949 --> 00:11:02,959
+area it says stealth plus 18 expert.
+ 
+
+489
+00:11:02,959 --> 00:11:06,550
+area it says stealth plus 18 expert.
+Okay. So, this gets into how do the
+
+490
+00:11:06,550 --> 00:11:06,560
+Okay. So, this gets into how do the
+ 
+
+491
+00:11:06,560 --> 00:11:08,870
+Okay. So, this gets into how do the
+players realize
+
+492
+00:11:08,870 --> 00:11:08,880
+players realize
+ 
+
+493
+00:11:08,880 --> 00:11:14,710
+players realize
+they're encountering a haunt before it
+
+494
+00:11:14,710 --> 00:11:14,720
+they're encountering a haunt before it
+ 
+
+495
+00:11:14,720 --> 00:11:18,150
+they're encountering a haunt before it
+uh before it is triggered and does
+
+496
+00:11:18,150 --> 00:11:18,160
+uh before it is triggered and does
+ 
+
+497
+00:11:18,160 --> 00:11:21,269
+uh before it is triggered and does
+whatever nasty thing is going to do. So
+
+498
+00:11:21,269 --> 00:11:21,279
+whatever nasty thing is going to do. So
+ 
+
+499
+00:11:21,279 --> 00:11:24,150
+whatever nasty thing is going to do. So
+whenever players are in the general area
+
+500
+00:11:24,150 --> 00:11:24,160
+whenever players are in the general area
+ 
+
+501
+00:11:24,160 --> 00:11:26,949
+whenever players are in the general area
+of a hazard and it's up to the GM just
+
+502
+00:11:26,949 --> 00:11:26,959
+of a hazard and it's up to the GM just
+ 
+
+503
+00:11:26,959 --> 00:11:28,630
+of a hazard and it's up to the GM just
+to decide what they feel like is the
+
+504
+00:11:28,630 --> 00:11:28,640
+to decide what they feel like is the
+ 
+
+505
+00:11:28,640 --> 00:11:31,110
+to decide what they feel like is the
+general area. The exact distance is
+
+506
+00:11:31,110 --> 00:11:31,120
+general area. The exact distance is
+ 
+
+507
+00:11:31,120 --> 00:11:33,350
+general area. The exact distance is
+probably going to be different between a
+
+508
+00:11:33,350 --> 00:11:33,360
+probably going to be different between a
+ 
+
+509
+00:11:33,360 --> 00:11:37,430
+probably going to be different between a
+small trap and uh again an avalanche,
+
+510
+00:11:37,430 --> 00:11:37,440
+small trap and uh again an avalanche,
+ 
+
+511
+00:11:37,440 --> 00:11:42,069
+small trap and uh again an avalanche,
+right? So, uh, when players are in the
+
+512
+00:11:42,069 --> 00:11:42,079
+right? So, uh, when players are in the
+ 
+
+513
+00:11:42,079 --> 00:11:44,790
+right? So, uh, when players are in the
+general vicinity of a hazard like
+
+514
+00:11:44,790 --> 00:11:44,800
+general vicinity of a hazard like
+ 
+
+515
+00:11:44,800 --> 00:11:47,030
+general vicinity of a hazard like
+eternal flame here,
+
+516
+00:11:47,030 --> 00:11:47,040
+eternal flame here,
+ 
+
+517
+00:11:47,040 --> 00:11:50,150
+eternal flame here,
+if the stealth rating does not have a
+
+518
+00:11:50,150 --> 00:11:50,160
+if the stealth rating does not have a
+ 
+
+519
+00:11:50,160 --> 00:11:51,670
+if the stealth rating does not have a
+minimum proficiency here, it says
+
+520
+00:11:51,670 --> 00:11:51,680
+minimum proficiency here, it says
+ 
+
+521
+00:11:51,680 --> 00:11:54,710
+minimum proficiency here, it says
+expert, but if it did not say expert,
+
+522
+00:11:54,710 --> 00:11:54,720
+expert, but if it did not say expert,
+ 
+
+523
+00:11:54,720 --> 00:11:59,269
+expert, but if it did not say expert,
+then everybody automatically gets a free
+
+524
+00:11:59,269 --> 00:11:59,279
+then everybody automatically gets a free
+ 
+
+525
+00:11:59,279 --> 00:12:01,750
+then everybody automatically gets a free
+uh perception check against the stealth
+
+526
+00:12:01,750 --> 00:12:01,760
+uh perception check against the stealth
+ 
+
+527
+00:12:01,760 --> 00:12:04,310
+uh perception check against the stealth
+DC of that hazard to see if they can
+
+528
+00:12:04,310 --> 00:12:04,320
+DC of that hazard to see if they can
+ 
+
+529
+00:12:04,320 --> 00:12:07,990
+DC of that hazard to see if they can
+notice that something is weird going on.
+
+530
+00:12:07,990 --> 00:12:08,000
+notice that something is weird going on.
+ 
+
+531
+00:12:08,000 --> 00:12:11,350
+notice that something is weird going on.
+Now, here it says expert, which means
+
+532
+00:12:11,350 --> 00:12:11,360
+Now, here it says expert, which means
+ 
+
+533
+00:12:11,360 --> 00:12:13,910
+Now, here it says expert, which means
+your players would not get that free
+
+534
+00:12:13,910 --> 00:12:13,920
+your players would not get that free
+ 
+
+535
+00:12:13,920 --> 00:12:17,750
+your players would not get that free
+chance to to detect its presence.
+
+536
+00:12:17,750 --> 00:12:17,760
+chance to to detect its presence.
+ 
+
+537
+00:12:17,760 --> 00:12:20,470
+chance to to detect its presence.
+Instead, they would have to actively
+
+538
+00:12:20,470 --> 00:12:20,480
+Instead, they would have to actively
+ 
+
+539
+00:12:20,480 --> 00:12:23,910
+Instead, they would have to actively
+seek the area to detect it. [snorts] So,
+
+540
+00:12:23,910 --> 00:12:23,920
+seek the area to detect it. [snorts] So,
+ 
+
+541
+00:12:23,920 --> 00:12:26,230
+seek the area to detect it. [snorts] So,
+we can see um well, let's take a look at
+
+542
+00:12:26,230 --> 00:12:26,240
+we can see um well, let's take a look at
+ 
+
+543
+00:12:26,240 --> 00:12:27,430
+we can see um well, let's take a look at
+the description here. The description
+
+544
+00:12:27,430 --> 00:12:27,440
+the description here. The description
+ 
+
+545
+00:12:27,440 --> 00:12:30,230
+the description here. The description
+here says, "A raging spectral inferno
+
+546
+00:12:30,230 --> 00:12:30,240
+here says, "A raging spectral inferno
+ 
+
+547
+00:12:30,240 --> 00:12:32,069
+here says, "A raging spectral inferno
+arises out of thin air, strengthening
+
+548
+00:12:32,069 --> 00:12:32,079
+arises out of thin air, strengthening
+ 
+
+549
+00:12:32,079 --> 00:12:34,389
+arises out of thin air, strengthening
+all undead creatures within its area.
+
+550
+00:12:34,389 --> 00:12:34,399
+all undead creatures within its area.
+ 
+
+551
+00:12:34,399 --> 00:12:36,629
+all undead creatures within its area.
+This haunt most often arises from the
+
+552
+00:12:36,629 --> 00:12:36,639
+This haunt most often arises from the
+ 
+
+553
+00:12:36,639 --> 00:12:38,550
+This haunt most often arises from the
+charred remains of a group of three
+
+554
+00:12:38,550 --> 00:12:38,560
+charred remains of a group of three
+ 
+
+555
+00:12:38,560 --> 00:12:41,030
+charred remains of a group of three
+people who burn to death whether in a
+
+556
+00:12:41,030 --> 00:12:41,040
+people who burn to death whether in a
+ 
+
+557
+00:12:41,040 --> 00:12:42,949
+people who burn to death whether in a
+terrible accident or a deliberate
+
+558
+00:12:42,949 --> 00:12:42,959
+terrible accident or a deliberate
+ 
+
+559
+00:12:42,959 --> 00:12:45,670
+terrible accident or a deliberate
+execution and their unavvenged souls
+
+560
+00:12:45,670 --> 00:12:45,680
+execution and their unavvenged souls
+ 
+
+561
+00:12:45,680 --> 00:12:47,430
+execution and their unavvenged souls
+burn with rage. All right, so we have
+
+562
+00:12:47,430 --> 00:12:47,440
+burn with rage. All right, so we have
+ 
+
+563
+00:12:47,440 --> 00:12:50,069
+burn with rage. All right, so we have
+the charred remains of three bodies and
+
+564
+00:12:50,069 --> 00:12:50,079
+the charred remains of three bodies and
+ 
+
+565
+00:12:50,079 --> 00:12:53,829
+the charred remains of three bodies and
+the uh psychic anguish of their death is
+
+566
+00:12:53,829 --> 00:12:53,839
+the uh psychic anguish of their death is
+ 
+
+567
+00:12:53,839 --> 00:12:56,710
+the uh psychic anguish of their death is
+leaving this this aura in this area that
+
+568
+00:12:56,710 --> 00:12:56,720
+leaving this this aura in this area that
+ 
+
+569
+00:12:56,720 --> 00:12:59,750
+leaving this this aura in this area that
+can uh manifest when living creatures
+
+570
+00:12:59,750 --> 00:12:59,760
+can uh manifest when living creatures
+ 
+
+571
+00:12:59,760 --> 00:13:02,949
+can uh manifest when living creatures
+are are too close to it. So we could say
+
+572
+00:13:02,949 --> 00:13:02,959
+are are too close to it. So we could say
+ 
+
+573
+00:13:02,959 --> 00:13:04,870
+are are too close to it. So we could say
+our players walk into a cave and inside
+
+574
+00:13:04,870 --> 00:13:04,880
+our players walk into a cave and inside
+ 
+
+575
+00:13:04,880 --> 00:13:07,590
+our players walk into a cave and inside
+that cave they see three charred bodies.
+
+576
+00:13:07,590 --> 00:13:07,600
+that cave they see three charred bodies.
+ 
+
+577
+00:13:07,600 --> 00:13:10,629
+that cave they see three charred bodies.
+Now that might be a hint to the players
+
+578
+00:13:10,629 --> 00:13:10,639
+Now that might be a hint to the players
+ 
+
+579
+00:13:10,639 --> 00:13:13,110
+Now that might be a hint to the players
+immediately to start making perception
+
+580
+00:13:13,110 --> 00:13:13,120
+immediately to start making perception
+ 
+
+581
+00:13:13,120 --> 00:13:15,269
+immediately to start making perception
+checks. So if at that point a player
+
+582
+00:13:15,269 --> 00:13:15,279
+checks. So if at that point a player
+ 
+
+583
+00:13:15,279 --> 00:13:17,670
+checks. So if at that point a player
+says you know this this doesn't sound
+
+584
+00:13:17,670 --> 00:13:17,680
+says you know this this doesn't sound
+ 
+
+585
+00:13:17,680 --> 00:13:19,030
+says you know this this doesn't sound
+right. I want to look around. I want to
+
+586
+00:13:19,030 --> 00:13:19,040
+right. I want to look around. I want to
+ 
+
+587
+00:13:19,040 --> 00:13:22,150
+right. I want to look around. I want to
+make a a seek action.
+
+588
+00:13:22,150 --> 00:13:22,160
+make a a seek action.
+ 
+
+589
+00:13:22,160 --> 00:13:25,590
+make a a seek action.
+As long as they have not triggered the
+
+590
+00:13:25,590 --> 00:13:25,600
+As long as they have not triggered the
+ 
+
+591
+00:13:25,600 --> 00:13:27,910
+As long as they have not triggered the
+haunt or the hazard. Uh if we look down
+
+592
+00:13:27,910 --> 00:13:27,920
+haunt or the hazard. Uh if we look down
+ 
+
+593
+00:13:27,920 --> 00:13:31,829
+haunt or the hazard. Uh if we look down
+a little bit, we can see uh that the uh
+
+594
+00:13:31,829 --> 00:13:31,839
+a little bit, we can see uh that the uh
+ 
+
+595
+00:13:31,839 --> 00:13:34,710
+a little bit, we can see uh that the uh
+trigger for this is a living creature
+
+596
+00:13:34,710 --> 00:13:34,720
+trigger for this is a living creature
+ 
+
+597
+00:13:34,720 --> 00:13:36,870
+trigger for this is a living creature
+approaches within 10 ft of the remains
+
+598
+00:13:36,870 --> 00:13:36,880
+approaches within 10 ft of the remains
+ 
+
+599
+00:13:36,880 --> 00:13:39,509
+approaches within 10 ft of the remains
+of one of those victims.
+
+600
+00:13:39,509 --> 00:13:39,519
+of one of those victims.
+ 
+
+601
+00:13:39,519 --> 00:13:41,110
+of one of those victims.
+So as long as they haven't moved their
+
+602
+00:13:41,110 --> 00:13:41,120
+So as long as they haven't moved their
+ 
+
+603
+00:13:41,120 --> 00:13:43,750
+So as long as they haven't moved their
+mini within 10 ft of those bodies and
+
+604
+00:13:43,750 --> 00:13:43,760
+mini within 10 ft of those bodies and
+ 
+
+605
+00:13:43,760 --> 00:13:45,509
+mini within 10 ft of those bodies and
+they say I want to make a perception
+
+606
+00:13:45,509 --> 00:13:45,519
+they say I want to make a perception
+ 
+
+607
+00:13:45,519 --> 00:13:47,910
+they say I want to make a perception
+check to seek, then the GM is going to
+
+608
+00:13:47,910 --> 00:13:47,920
+check to seek, then the GM is going to
+ 
+
+609
+00:13:47,920 --> 00:13:50,629
+check to seek, then the GM is going to
+make a secret perception check. uh apply
+
+610
+00:13:50,629 --> 00:13:50,639
+make a secret perception check. uh apply
+ 
+
+611
+00:13:50,639 --> 00:13:54,629
+make a secret perception check. uh apply
+the perception of that character and if
+
+612
+00:13:54,629 --> 00:13:54,639
+the perception of that character and if
+ 
+
+613
+00:13:54,639 --> 00:13:57,829
+the perception of that character and if
+it is in this case if that total is a 28
+
+614
+00:13:57,829 --> 00:13:57,839
+it is in this case if that total is a 28
+ 
+
+615
+00:13:57,839 --> 00:14:00,470
+it is in this case if that total is a 28
+or higher then they succeed. Uh 28
+
+616
+00:14:00,470 --> 00:14:00,480
+or higher then they succeed. Uh 28
+ 
+
+617
+00:14:00,480 --> 00:14:02,550
+or higher then they succeed. Uh 28
+because if your stealth bonus is plus 18
+
+618
+00:14:02,550 --> 00:14:02,560
+because if your stealth bonus is plus 18
+ 
+
+619
+00:14:02,560 --> 00:14:07,829
+because if your stealth bonus is plus 18
+then your stealth DC is 28. Now uh a lot
+
+620
+00:14:07,829 --> 00:14:07,839
+then your stealth DC is 28. Now uh a lot
+ 
+
+621
+00:14:07,839 --> 00:14:09,269
+then your stealth DC is 28. Now uh a lot
+of this comes down to mechanical
+
+622
+00:14:09,269 --> 00:14:09,279
+of this comes down to mechanical
+ 
+
+623
+00:14:09,279 --> 00:14:12,870
+of this comes down to mechanical
+terminology. I'm not a huge fan of it
+
+624
+00:14:12,870 --> 00:14:12,880
+terminology. I'm not a huge fan of it
+ 
+
+625
+00:14:12,880 --> 00:14:14,629
+terminology. I'm not a huge fan of it
+having stealth written here. I
+
+626
+00:14:14,629 --> 00:14:14,639
+having stealth written here. I
+ 
+
+627
+00:14:14,639 --> 00:14:17,750
+having stealth written here. I
+understand why it is uh because of the
+
+628
+00:14:17,750 --> 00:14:17,760
+understand why it is uh because of the
+ 
+
+629
+00:14:17,760 --> 00:14:20,550
+understand why it is uh because of the
+mechanics of the game, but it that seems
+
+630
+00:14:20,550 --> 00:14:20,560
+mechanics of the game, but it that seems
+ 
+
+631
+00:14:20,560 --> 00:14:23,910
+mechanics of the game, but it that seems
+to give an impression that like oh the
+
+632
+00:14:23,910 --> 00:14:23,920
+to give an impression that like oh the
+ 
+
+633
+00:14:23,920 --> 00:14:26,230
+to give an impression that like oh the
+the trap is hiding from people. It's
+
+634
+00:14:26,230 --> 00:14:26,240
+the trap is hiding from people. It's
+ 
+
+635
+00:14:26,240 --> 00:14:28,870
+the trap is hiding from people. It's
+actively sneaking around. And I think
+
+636
+00:14:28,870 --> 00:14:28,880
+actively sneaking around. And I think
+ 
+
+637
+00:14:28,880 --> 00:14:31,829
+actively sneaking around. And I think
+some people uh can misinterpret that as
+
+638
+00:14:31,829 --> 00:14:31,839
+some people uh can misinterpret that as
+ 
+
+639
+00:14:31,839 --> 00:14:34,389
+some people uh can misinterpret that as
+meaning that there are three spirit
+
+640
+00:14:34,389 --> 00:14:34,399
+meaning that there are three spirit
+ 
+
+641
+00:14:34,399 --> 00:14:35,829
+meaning that there are three spirit
+ghosts from the three charred remains
+
+642
+00:14:35,829 --> 00:14:35,839
+ghosts from the three charred remains
+ 
+
+643
+00:14:35,839 --> 00:14:37,430
+ghosts from the three charred remains
+and those ghosts are in the room and the
+
+644
+00:14:37,430 --> 00:14:37,440
+and those ghosts are in the room and the
+ 
+
+645
+00:14:37,440 --> 00:14:39,990
+and those ghosts are in the room and the
+ghosts are hiding from the players. And
+
+646
+00:14:39,990 --> 00:14:40,000
+ghosts are hiding from the players. And
+ 
+
+647
+00:14:40,000 --> 00:14:42,310
+ghosts are hiding from the players. And
+that's not what it means. It just means
+
+648
+00:14:42,310 --> 00:14:42,320
+that's not what it means. It just means
+ 
+
+649
+00:14:42,320 --> 00:14:47,110
+that's not what it means. It just means
+that uh it's not easy to realize that
+
+650
+00:14:47,110 --> 00:14:47,120
+that uh it's not easy to realize that
+ 
+
+651
+00:14:47,120 --> 00:14:49,189
+that uh it's not easy to realize that
+there's more to these three chart bodies
+
+652
+00:14:49,189 --> 00:14:49,199
+there's more to these three chart bodies
+ 
+
+653
+00:14:49,199 --> 00:14:52,150
+there's more to these three chart bodies
+than meets the eye. Now, if that player
+
+654
+00:14:52,150 --> 00:14:52,160
+than meets the eye. Now, if that player
+ 
+
+655
+00:14:52,160 --> 00:14:55,110
+than meets the eye. Now, if that player
+rolls or or you roll on their behalf, I
+
+656
+00:14:55,110 --> 00:14:55,120
+rolls or or you roll on their behalf, I
+ 
+
+657
+00:14:55,120 --> 00:14:57,189
+rolls or or you roll on their behalf, I
+should say, their perception check to
+
+658
+00:14:57,189 --> 00:14:57,199
+should say, their perception check to
+ 
+
+659
+00:14:57,199 --> 00:14:59,990
+should say, their perception check to
+seek and they succeed, then you as the
+
+660
+00:14:59,990 --> 00:15:00,000
+seek and they succeed, then you as the
+ 
+
+661
+00:15:00,000 --> 00:15:03,189
+seek and they succeed, then you as the
+GM have to explain to the player what it
+
+662
+00:15:03,189 --> 00:15:03,199
+GM have to explain to the player what it
+ 
+
+663
+00:15:03,199 --> 00:15:05,030
+GM have to explain to the player what it
+is they're perceiving that might tip
+
+664
+00:15:05,030 --> 00:15:05,040
+is they're perceiving that might tip
+ 
+
+665
+00:15:05,040 --> 00:15:07,829
+is they're perceiving that might tip
+them off that this is in fact a haunt.
+
+666
+00:15:07,829 --> 00:15:07,839
+them off that this is in fact a haunt.
+ 
+
+667
+00:15:07,839 --> 00:15:10,550
+them off that this is in fact a haunt.
+So, you might say even though the the
+
+668
+00:15:10,550 --> 00:15:10,560
+So, you might say even though the the
+ 
+
+669
+00:15:10,560 --> 00:15:13,430
+So, you might say even though the the
+bodies look like they're they are long
+
+670
+00:15:13,430 --> 00:15:13,440
+bodies look like they're they are long
+ 
+
+671
+00:15:13,440 --> 00:15:15,829
+bodies look like they're they are long
+past burnt, like you know, this this had
+
+672
+00:15:15,829 --> 00:15:15,839
+past burnt, like you know, this this had
+ 
+
+673
+00:15:15,839 --> 00:15:18,790
+past burnt, like you know, this this had
+to have taken place uh a year plus ago,
+
+674
+00:15:18,790 --> 00:15:18,800
+to have taken place uh a year plus ago,
+ 
+
+675
+00:15:18,800 --> 00:15:21,590
+to have taken place uh a year plus ago,
+but you still smell you can still smell
+
+676
+00:15:21,590 --> 00:15:21,600
+but you still smell you can still smell
+ 
+
+677
+00:15:21,600 --> 00:15:24,629
+but you still smell you can still smell
+the fire as if it was live or or maybe
+
+678
+00:15:24,629 --> 00:15:24,639
+the fire as if it was live or or maybe
+ 
+
+679
+00:15:24,639 --> 00:15:26,629
+the fire as if it was live or or maybe
+you can hear the crackling of the flames
+
+680
+00:15:26,629 --> 00:15:26,639
+you can hear the crackling of the flames
+ 
+
+681
+00:15:26,639 --> 00:15:29,829
+you can hear the crackling of the flames
+or or you can hear just a faint echo of
+
+682
+00:15:29,829 --> 00:15:29,839
+or or you can hear just a faint echo of
+ 
+
+683
+00:15:29,839 --> 00:15:31,829
+or or you can hear just a faint echo of
+of the anguish of the people who are
+
+684
+00:15:31,829 --> 00:15:31,839
+of the anguish of the people who are
+ 
+
+685
+00:15:31,839 --> 00:15:35,030
+of the anguish of the people who are
+burning. whatever it is, uh, that would
+
+686
+00:15:35,030 --> 00:15:35,040
+burning. whatever it is, uh, that would
+ 
+
+687
+00:15:35,040 --> 00:15:37,350
+burning. whatever it is, uh, that would
+be appropriate to this area to signal to
+
+688
+00:15:37,350 --> 00:15:37,360
+be appropriate to this area to signal to
+ 
+
+689
+00:15:37,360 --> 00:15:38,870
+be appropriate to this area to signal to
+that player that they succeeded their
+
+690
+00:15:38,870 --> 00:15:38,880
+that player that they succeeded their
+ 
+
+691
+00:15:38,880 --> 00:15:41,590
+that player that they succeeded their
+perception check. And they know there's
+
+692
+00:15:41,590 --> 00:15:41,600
+perception check. And they know there's
+ 
+
+693
+00:15:41,600 --> 00:15:44,069
+perception check. And they know there's
+more going on here than just the remains
+
+694
+00:15:44,069 --> 00:15:44,079
+more going on here than just the remains
+ 
+
+695
+00:15:44,079 --> 00:15:47,030
+more going on here than just the remains
+of three bodies.
+
+696
+00:15:47,030 --> 00:15:47,040
+of three bodies.
+ 
+
+697
+00:15:47,040 --> 00:15:49,670
+of three bodies.
+So, at that point, if they're
+
+698
+00:15:49,670 --> 00:15:49,680
+So, at that point, if they're
+ 
+
+699
+00:15:49,680 --> 00:15:52,150
+So, at that point, if they're
+successful, a player will likely want to
+
+700
+00:15:52,150 --> 00:15:52,160
+successful, a player will likely want to
+ 
+
+701
+00:15:52,160 --> 00:15:54,470
+successful, a player will likely want to
+know more about this. Now, the
+
+702
+00:15:54,470 --> 00:15:54,480
+know more about this. Now, the
+ 
+
+703
+00:15:54,480 --> 00:15:56,470
+know more about this. Now, the
+perception check might let them know
+
+704
+00:15:56,470 --> 00:15:56,480
+perception check might let them know
+ 
+
+705
+00:15:56,480 --> 00:15:58,310
+perception check might let them know
+that they're dealing with a hazard of
+
+706
+00:15:58,310 --> 00:15:58,320
+that they're dealing with a hazard of
+ 
+
+707
+00:15:58,320 --> 00:16:01,990
+that they're dealing with a hazard of
+some kind, but that does not tell them
+
+708
+00:16:01,990 --> 00:16:02,000
+some kind, but that does not tell them
+ 
+
+709
+00:16:02,000 --> 00:16:05,829
+some kind, but that does not tell them
+necessarily exactly what kind of hazard
+
+710
+00:16:05,829 --> 00:16:05,839
+necessarily exactly what kind of hazard
+ 
+
+711
+00:16:05,839 --> 00:16:08,710
+necessarily exactly what kind of hazard
+or haunt and what's going to happen and
+
+712
+00:16:08,710 --> 00:16:08,720
+or haunt and what's going to happen and
+ 
+
+713
+00:16:08,720 --> 00:16:11,350
+or haunt and what's going to happen and
+how and when. So, at that point, a
+
+714
+00:16:11,350 --> 00:16:11,360
+how and when. So, at that point, a
+ 
+
+715
+00:16:11,360 --> 00:16:13,670
+how and when. So, at that point, a
+player would likely say, I want to do a
+
+716
+00:16:13,670 --> 00:16:13,680
+player would likely say, I want to do a
+ 
+
+717
+00:16:13,680 --> 00:16:16,470
+player would likely say, I want to do a
+recall knowledge check and I want to,
+
+718
+00:16:16,470 --> 00:16:16,480
+recall knowledge check and I want to,
+ 
+
+719
+00:16:16,480 --> 00:16:18,069
+recall knowledge check and I want to,
+you know, exam. I want to see if I could
+
+720
+00:16:18,069 --> 00:16:18,079
+you know, exam. I want to see if I could
+ 
+
+721
+00:16:18,079 --> 00:16:20,710
+you know, exam. I want to see if I could
+figure anything else about this area.
+
+722
+00:16:20,710 --> 00:16:20,720
+figure anything else about this area.
+ 
+
+723
+00:16:20,720 --> 00:16:25,430
+figure anything else about this area.
+Now, it's not spelled out um in the stat
+
+724
+00:16:25,430 --> 00:16:25,440
+Now, it's not spelled out um in the stat
+ 
+
+725
+00:16:25,440 --> 00:16:27,990
+Now, it's not spelled out um in the stat
+blocks of what the recall knowledge
+
+726
+00:16:27,990 --> 00:16:28,000
+blocks of what the recall knowledge
+ 
+
+727
+00:16:28,000 --> 00:16:31,590
+blocks of what the recall knowledge
+checks would be, but uh you would base
+
+728
+00:16:31,590 --> 00:16:31,600
+checks would be, but uh you would base
+ 
+
+729
+00:16:31,600 --> 00:16:35,509
+checks would be, but uh you would base
+the DC on the level of the hazard. So,
+
+730
+00:16:35,509 --> 00:16:35,519
+the DC on the level of the hazard. So,
+ 
+
+731
+00:16:35,519 --> 00:16:38,389
+the DC on the level of the hazard. So,
+this hazard is uh a seventh level
+
+732
+00:16:38,389 --> 00:16:38,399
+this hazard is uh a seventh level
+ 
+
+733
+00:16:38,399 --> 00:16:42,949
+this hazard is uh a seventh level
+hazard. And if we look up in in GM Core,
+
+734
+00:16:42,949 --> 00:16:42,959
+hazard. And if we look up in in GM Core,
+ 
+
+735
+00:16:42,959 --> 00:16:45,910
+hazard. And if we look up in in GM Core,
+a seventh level hazard has a standard DC
+
+736
+00:16:45,910 --> 00:16:45,920
+a seventh level hazard has a standard DC
+ 
+
+737
+00:16:45,920 --> 00:16:49,269
+a seventh level hazard has a standard DC
+of 23. So, if a player wants to know
+
+738
+00:16:49,269 --> 00:16:49,279
+of 23. So, if a player wants to know
+ 
+
+739
+00:16:49,279 --> 00:16:52,069
+of 23. So, if a player wants to know
+more about what they're looking at here,
+
+740
+00:16:52,069 --> 00:16:52,079
+more about what they're looking at here,
+ 
+
+741
+00:16:52,079 --> 00:16:53,670
+more about what they're looking at here,
+you would do a recall knowledge check
+
+742
+00:16:53,670 --> 00:16:53,680
+you would do a recall knowledge check
+ 
+
+743
+00:16:53,680 --> 00:16:55,430
+you would do a recall knowledge check
+for them. This would be a secret check
+
+744
+00:16:55,430 --> 00:16:55,440
+for them. This would be a secret check
+ 
+
+745
+00:16:55,440 --> 00:16:57,189
+for them. This would be a secret check
+behind your screen, as all recall
+
+746
+00:16:57,189 --> 00:16:57,199
+behind your screen, as all recall
+ 
+
+747
+00:16:57,199 --> 00:17:00,790
+behind your screen, as all recall
+knowledge checks are. And uh I typically
+
+748
+00:17:00,790 --> 00:17:00,800
+knowledge checks are. And uh I typically
+ 
+
+749
+00:17:00,800 --> 00:17:03,189
+knowledge checks are. And uh I typically
+would use whatever skills are used to
+
+750
+00:17:03,189 --> 00:17:03,199
+would use whatever skills are used to
+ 
+
+751
+00:17:03,199 --> 00:17:06,870
+would use whatever skills are used to
+disable it as the skill for recall
+
+752
+00:17:06,870 --> 00:17:06,880
+disable it as the skill for recall
+ 
+
+753
+00:17:06,880 --> 00:17:09,029
+disable it as the skill for recall
+knowledge. So, in this case, it can be
+
+754
+00:17:09,029 --> 00:17:09,039
+knowledge. So, in this case, it can be
+ 
+
+755
+00:17:09,039 --> 00:17:12,870
+knowledge. So, in this case, it can be
+disabled with a religion uh skill. A
+
+756
+00:17:12,870 --> 00:17:12,880
+disabled with a religion uh skill. A
+ 
+
+757
+00:17:12,880 --> 00:17:15,189
+disabled with a religion uh skill. A
+religion is a type of knowledge skill.
+
+758
+00:17:15,189 --> 00:17:15,199
+religion is a type of knowledge skill.
+ 
+
+759
+00:17:15,199 --> 00:17:18,630
+religion is a type of knowledge skill.
+So, I would be rolling uh a secret
+
+760
+00:17:18,630 --> 00:17:18,640
+So, I would be rolling uh a secret
+ 
+
+761
+00:17:18,640 --> 00:17:22,390
+So, I would be rolling uh a secret
+religion check for that player DC23.
+
+762
+00:17:22,390 --> 00:17:22,400
+religion check for that player DC23.
+ 
+
+763
+00:17:22,400 --> 00:17:26,789
+religion check for that player DC23.
+Uh I'll also say um something that I do
+
+764
+00:17:26,789 --> 00:17:26,799
+Uh I'll also say um something that I do
+ 
+
+765
+00:17:26,799 --> 00:17:28,789
+Uh I'll also say um something that I do
+that's absolutely not in the rules. This
+
+766
+00:17:28,789 --> 00:17:28,799
+that's absolutely not in the rules. This
+ 
+
+767
+00:17:28,799 --> 00:17:31,430
+that's absolutely not in the rules. This
+is not um official ro this is a house
+
+768
+00:17:31,430 --> 00:17:31,440
+is not um official ro this is a house
+ 
+
+769
+00:17:31,440 --> 00:17:34,710
+is not um official ro this is a house
+rule territory. I also typically allow
+
+770
+00:17:34,710 --> 00:17:34,720
+rule territory. I also typically allow
+ 
+
+771
+00:17:34,720 --> 00:17:37,110
+rule territory. I also typically allow
+those same knowledge skills that can be
+
+772
+00:17:37,110 --> 00:17:37,120
+those same knowledge skills that can be
+ 
+
+773
+00:17:37,120 --> 00:17:39,750
+those same knowledge skills that can be
+used to disable the haunt to be used to
+
+774
+00:17:39,750 --> 00:17:39,760
+used to disable the haunt to be used to
+ 
+
+775
+00:17:39,760 --> 00:17:42,470
+used to disable the haunt to be used to
+perceive the haunt. So, if someone has a
+
+776
+00:17:42,470 --> 00:17:42,480
+perceive the haunt. So, if someone has a
+ 
+
+777
+00:17:42,480 --> 00:17:45,029
+perceive the haunt. So, if someone has a
+higher bonus to religion than they do to
+
+778
+00:17:45,029 --> 00:17:45,039
+higher bonus to religion than they do to
+ 
+
+779
+00:17:45,039 --> 00:17:48,710
+higher bonus to religion than they do to
+perception, I might roll that as their
+
+780
+00:17:48,710 --> 00:17:48,720
+perception, I might roll that as their
+ 
+
+781
+00:17:48,720 --> 00:17:50,390
+perception, I might roll that as their
+perception
+
+782
+00:17:50,390 --> 00:17:50,400
+perception
+ 
+
+783
+00:17:50,400 --> 00:17:52,390
+perception
+um to let them detect the fact that
+
+784
+00:17:52,390 --> 00:17:52,400
+um to let them detect the fact that
+ 
+
+785
+00:17:52,400 --> 00:17:55,430
+um to let them detect the fact that
+they're in the presence of a haunt. Uh
+
+786
+00:17:55,430 --> 00:17:55,440
+they're in the presence of a haunt. Uh
+ 
+
+787
+00:17:55,440 --> 00:17:57,350
+they're in the presence of a haunt. Uh
+that seems to make a little more sense
+
+788
+00:17:57,350 --> 00:17:57,360
+that seems to make a little more sense
+ 
+
+789
+00:17:57,360 --> 00:18:00,310
+that seems to make a little more sense
+in my mind and it also gives a little
+
+790
+00:18:00,310 --> 00:18:00,320
+in my mind and it also gives a little
+ 
+
+791
+00:18:00,320 --> 00:18:02,710
+in my mind and it also gives a little
+more room for for niche characters. Like
+
+792
+00:18:02,710 --> 00:18:02,720
+more room for for niche characters. Like
+ 
+
+793
+00:18:02,720 --> 00:18:04,390
+more room for for niche characters. Like
+if you only have one religion character
+
+794
+00:18:04,390 --> 00:18:04,400
+if you only have one religion character
+ 
+
+795
+00:18:04,400 --> 00:18:06,230
+if you only have one religion character
+in the party, it gives them an extra
+
+796
+00:18:06,230 --> 00:18:06,240
+in the party, it gives them an extra
+ 
+
+797
+00:18:06,240 --> 00:18:08,789
+in the party, it gives them an extra
+moment to shine. Uh, so that's something
+
+798
+00:18:08,789 --> 00:18:08,799
+moment to shine. Uh, so that's something
+ 
+
+799
+00:18:08,799 --> 00:18:10,630
+moment to shine. Uh, so that's something
+that I do, but I do want to just be
+
+800
+00:18:10,630 --> 00:18:10,640
+that I do, but I do want to just be
+ 
+
+801
+00:18:10,640 --> 00:18:12,950
+that I do, but I do want to just be
+clear that that is house rule territory.
+
+802
+00:18:12,950 --> 00:18:12,960
+clear that that is house rule territory.
+ 
+
+803
+00:18:12,960 --> 00:18:14,870
+clear that that is house rule territory.
+That's not official. That's just
+
+804
+00:18:14,870 --> 00:18:14,880
+That's not official. That's just
+ 
+
+805
+00:18:14,880 --> 00:18:18,310
+That's not official. That's just
+something that I do. But anyway,
+
+806
+00:18:18,310 --> 00:18:18,320
+something that I do. But anyway,
+ 
+
+807
+00:18:18,320 --> 00:18:20,150
+something that I do. But anyway,
+you would you would roll that for them
+
+808
+00:18:20,150 --> 00:18:20,160
+you would you would roll that for them
+ 
+
+809
+00:18:20,160 --> 00:18:22,710
+you would you would roll that for them
+in secret. And like with all recall
+
+810
+00:18:22,710 --> 00:18:22,720
+in secret. And like with all recall
+ 
+
+811
+00:18:22,720 --> 00:18:24,470
+in secret. And like with all recall
+knowledge checks, you would ask them,
+
+812
+00:18:24,470 --> 00:18:24,480
+knowledge checks, you would ask them,
+ 
+
+813
+00:18:24,480 --> 00:18:26,549
+knowledge checks, you would ask them,
+you know, like, give me a a question you
+
+814
+00:18:26,549 --> 00:18:26,559
+you know, like, give me a a question you
+ 
+
+815
+00:18:26,559 --> 00:18:28,710
+you know, like, give me a a question you
+want to you want to have answered. And
+
+816
+00:18:28,710 --> 00:18:28,720
+want to you want to have answered. And
+ 
+
+817
+00:18:28,720 --> 00:18:31,909
+want to you want to have answered. And
+that question might be, well, um, I want
+
+818
+00:18:31,909 --> 00:18:31,919
+that question might be, well, um, I want
+ 
+
+819
+00:18:31,919 --> 00:18:34,789
+that question might be, well, um, I want
+to know, is this area dangerous? And if
+
+820
+00:18:34,789 --> 00:18:34,799
+to know, is this area dangerous? And if
+ 
+
+821
+00:18:34,799 --> 00:18:37,590
+to know, is this area dangerous? And if
+so, what kind of danger are we facing?
+
+822
+00:18:37,590 --> 00:18:37,600
+so, what kind of danger are we facing?
+ 
+
+823
+00:18:37,600 --> 00:18:40,150
+so, what kind of danger are we facing?
+Well, if they roll uh if you roll that
+
+824
+00:18:40,150 --> 00:18:40,160
+Well, if they roll uh if you roll that
+ 
+
+825
+00:18:40,160 --> 00:18:41,830
+Well, if they roll uh if you roll that
+secret check for them, religion and
+
+826
+00:18:41,830 --> 00:18:41,840
+secret check for them, religion and
+ 
+
+827
+00:18:41,840 --> 00:18:45,430
+secret check for them, religion and
+beast of DC23, I might say, well, you
+
+828
+00:18:45,430 --> 00:18:45,440
+beast of DC23, I might say, well, you
+ 
+
+829
+00:18:45,440 --> 00:18:46,630
+beast of DC23, I might say, well, you
+you're pretty sure you're in the
+
+830
+00:18:46,630 --> 00:18:46,640
+you're pretty sure you're in the
+ 
+
+831
+00:18:46,640 --> 00:18:50,150
+you're pretty sure you're in the
+presence of a haunt here, and you you
+
+832
+00:18:50,150 --> 00:18:50,160
+presence of a haunt here, and you you
+ 
+
+833
+00:18:50,160 --> 00:18:52,150
+presence of a haunt here, and you you
+think that the the anguish of the three
+
+834
+00:18:52,150 --> 00:18:52,160
+think that the the anguish of the three
+ 
+
+835
+00:18:52,160 --> 00:18:55,190
+think that the the anguish of the three
+charred uh people that their spirits are
+
+836
+00:18:55,190 --> 00:18:55,200
+charred uh people that their spirits are
+ 
+
+837
+00:18:55,200 --> 00:18:57,510
+charred uh people that their spirits are
+still uh they're they're anchored here
+
+838
+00:18:57,510 --> 00:18:57,520
+still uh they're they're anchored here
+ 
+
+839
+00:18:57,520 --> 00:18:59,510
+still uh they're they're anchored here
+to this location. And if you get too
+
+840
+00:18:59,510 --> 00:18:59,520
+to this location. And if you get too
+ 
+
+841
+00:18:59,520 --> 00:19:03,350
+to this location. And if you get too
+close, you might experience a a psychic
+
+842
+00:19:03,350 --> 00:19:03,360
+close, you might experience a a psychic
+ 
+
+843
+00:19:03,360 --> 00:19:06,390
+close, you might experience a a psychic
+or illusory manifestation of the same
+
+844
+00:19:06,390 --> 00:19:06,400
+or illusory manifestation of the same
+ 
+
+845
+00:19:06,400 --> 00:19:09,990
+or illusory manifestation of the same
+tragedy that killed them. And that might
+
+846
+00:19:09,990 --> 00:19:10,000
+tragedy that killed them. And that might
+ 
+
+847
+00:19:10,000 --> 00:19:11,909
+tragedy that killed them. And that might
+clue that player into, well, I better
+
+848
+00:19:11,909 --> 00:19:11,919
+clue that player into, well, I better
+ 
+
+849
+00:19:11,919 --> 00:19:14,310
+clue that player into, well, I better
+not get I better not walk any closer or
+
+850
+00:19:14,310 --> 00:19:14,320
+not get I better not walk any closer or
+ 
+
+851
+00:19:14,320 --> 00:19:16,789
+not get I better not walk any closer or
+I might catch on fire like they did or
+
+852
+00:19:16,789 --> 00:19:16,799
+I might catch on fire like they did or
+ 
+
+853
+00:19:16,799 --> 00:19:19,029
+I might catch on fire like they did or
+what have you. So then let's say that
+
+854
+00:19:19,029 --> 00:19:19,039
+what have you. So then let's say that
+ 
+
+855
+00:19:19,039 --> 00:19:22,150
+what have you. So then let's say that
+the player wants to make another recall
+
+856
+00:19:22,150 --> 00:19:22,160
+the player wants to make another recall
+ 
+
+857
+00:19:22,160 --> 00:19:24,710
+the player wants to make another recall
+knowledge check. And this time is to
+
+858
+00:19:24,710 --> 00:19:24,720
+knowledge check. And this time is to
+ 
+
+859
+00:19:24,720 --> 00:19:26,710
+knowledge check. And this time is to
+figure out, well, what do I need to do
+
+860
+00:19:26,710 --> 00:19:26,720
+figure out, well, what do I need to do
+ 
+
+861
+00:19:26,720 --> 00:19:29,909
+figure out, well, what do I need to do
+to avoid the danger here? How can we,
+
+862
+00:19:29,909 --> 00:19:29,919
+to avoid the danger here? How can we,
+ 
+
+863
+00:19:29,919 --> 00:19:33,110
+to avoid the danger here? How can we,
+you know, quote disable it? Um, how can
+
+864
+00:19:33,110 --> 00:19:33,120
+you know, quote disable it? Um, how can
+ 
+
+865
+00:19:33,120 --> 00:19:35,510
+you know, quote disable it? Um, how can
+we put these souls and spirits to risk
+
+866
+00:19:35,510 --> 00:19:35,520
+we put these souls and spirits to risk
+ 
+
+867
+00:19:35,520 --> 00:19:38,230
+we put these souls and spirits to risk
+so there's no more danger in this room?
+
+868
+00:19:38,230 --> 00:19:38,240
+so there's no more danger in this room?
+ 
+
+869
+00:19:38,240 --> 00:19:41,350
+so there's no more danger in this room?
+And in that case, you're going to then
+
+870
+00:19:41,350 --> 00:19:41,360
+And in that case, you're going to then
+ 
+
+871
+00:19:41,360 --> 00:19:43,590
+And in that case, you're going to then
+make another recall knowledge check.
+
+872
+00:19:43,590 --> 00:19:43,600
+make another recall knowledge check.
+ 
+
+873
+00:19:43,600 --> 00:19:45,990
+make another recall knowledge check.
+Now, because you're making a second
+
+874
+00:19:45,990 --> 00:19:46,000
+Now, because you're making a second
+ 
+
+875
+00:19:46,000 --> 00:19:47,909
+Now, because you're making a second
+recall knowledge check on the same
+
+876
+00:19:47,909 --> 00:19:47,919
+recall knowledge check on the same
+ 
+
+877
+00:19:47,919 --> 00:19:51,029
+recall knowledge check on the same
+topic, then the DC is going to go up one
+
+878
+00:19:51,029 --> 00:19:51,039
+topic, then the DC is going to go up one
+ 
+
+879
+00:19:51,039 --> 00:19:53,110
+topic, then the DC is going to go up one
+step, and in this case, it would go from
+
+880
+00:19:53,110 --> 00:19:53,120
+step, and in this case, it would go from
+ 
+
+881
+00:19:53,120 --> 00:19:56,150
+step, and in this case, it would go from
+being a normal DC to a hard DC, which
+
+882
+00:19:56,150 --> 00:19:56,160
+being a normal DC to a hard DC, which
+ 
+
+883
+00:19:56,160 --> 00:19:58,870
+being a normal DC to a hard DC, which
+adds two to it and raises raises the DC
+
+884
+00:19:58,870 --> 00:19:58,880
+adds two to it and raises raises the DC
+ 
+
+885
+00:19:58,880 --> 00:20:02,070
+adds two to it and raises raises the DC
+from uh 23 to 25. If that sounds
+
+886
+00:20:02,070 --> 00:20:02,080
+from uh 23 to 25. If that sounds
+ 
+
+887
+00:20:02,080 --> 00:20:04,549
+from uh 23 to 25. If that sounds
+confusing or is not uh clear to you,
+
+888
+00:20:04,549 --> 00:20:04,559
+confusing or is not uh clear to you,
+ 
+
+889
+00:20:04,559 --> 00:20:06,549
+confusing or is not uh clear to you,
+I'll leave a link in the description to
+
+890
+00:20:06,549 --> 00:20:06,559
+I'll leave a link in the description to
+ 
+
+891
+00:20:06,559 --> 00:20:08,150
+I'll leave a link in the description to
+my video that's all about recall
+
+892
+00:20:08,150 --> 00:20:08,160
+my video that's all about recall
+ 
+
+893
+00:20:08,160 --> 00:20:10,390
+my video that's all about recall
+knowledge checks, and that might shed
+
+894
+00:20:10,390 --> 00:20:10,400
+knowledge checks, and that might shed
+ 
+
+895
+00:20:10,400 --> 00:20:12,789
+knowledge checks, and that might shed
+some light on it. But basically uh
+
+896
+00:20:12,789 --> 00:20:12,799
+some light on it. But basically uh
+ 
+
+897
+00:20:12,799 --> 00:20:14,630
+some light on it. But basically uh
+players can continuously do recall
+
+898
+00:20:14,630 --> 00:20:14,640
+players can continuously do recall
+ 
+
+899
+00:20:14,640 --> 00:20:17,029
+players can continuously do recall
+knowledge checks over and over again uh
+
+900
+00:20:17,029 --> 00:20:17,039
+knowledge checks over and over again uh
+ 
+
+901
+00:20:17,039 --> 00:20:19,029
+knowledge checks over and over again uh
+until they fail one in which case that
+
+902
+00:20:19,029 --> 00:20:19,039
+until they fail one in which case that
+ 
+
+903
+00:20:19,039 --> 00:20:20,870
+until they fail one in which case that
+signals they no longer can get any more
+
+904
+00:20:20,870 --> 00:20:20,880
+signals they no longer can get any more
+ 
+
+905
+00:20:20,880 --> 00:20:24,470
+signals they no longer can get any more
+information on the topic or they uh do a
+
+906
+00:20:24,470 --> 00:20:24,480
+information on the topic or they uh do a
+ 
+
+907
+00:20:24,480 --> 00:20:27,590
+information on the topic or they uh do a
+uh the highest level of check. Um is
+
+908
+00:20:27,590 --> 00:20:27,600
+uh the highest level of check. Um is
+ 
+
+909
+00:20:27,600 --> 00:20:28,870
+uh the highest level of check. Um is
+that a possible difficulty? I can't
+
+910
+00:20:28,870 --> 00:20:28,880
+that a possible difficulty? I can't
+ 
+
+911
+00:20:28,880 --> 00:20:30,549
+that a possible difficulty? I can't
+remember the difficulty name but once
+
+912
+00:20:30,549 --> 00:20:30,559
+remember the difficulty name but once
+ 
+
+913
+00:20:30,559 --> 00:20:32,470
+remember the difficulty name but once
+they get to the highest uh difficulty
+
+914
+00:20:32,470 --> 00:20:32,480
+they get to the highest uh difficulty
+ 
+
+915
+00:20:32,480 --> 00:20:33,750
+they get to the highest uh difficulty
+level they can't make any more after
+
+916
+00:20:33,750 --> 00:20:33,760
+level they can't make any more after
+ 
+
+917
+00:20:33,760 --> 00:20:35,909
+level they can't make any more after
+that. But anyway we'll we'll say that
+
+918
+00:20:35,909 --> 00:20:35,919
+that. But anyway we'll we'll say that
+ 
+
+919
+00:20:35,919 --> 00:20:38,310
+that. But anyway we'll we'll say that
+they want to make another recall
+
+920
+00:20:38,310 --> 00:20:38,320
+they want to make another recall
+ 
+
+921
+00:20:38,320 --> 00:20:40,950
+they want to make another recall
+knowledge check on this topic. you as
+
+922
+00:20:40,950 --> 00:20:40,960
+knowledge check on this topic. you as
+ 
+
+923
+00:20:40,960 --> 00:20:43,830
+knowledge check on this topic. you as
+the GM, this is a a secret check, like
+
+924
+00:20:43,830 --> 00:20:43,840
+the GM, this is a a secret check, like
+ 
+
+925
+00:20:43,840 --> 00:20:45,270
+the GM, this is a a secret check, like
+all recall knowledge checks, you roll
+
+926
+00:20:45,270 --> 00:20:45,280
+all recall knowledge checks, you roll
+ 
+
+927
+00:20:45,280 --> 00:20:48,390
+all recall knowledge checks, you roll
+that behind the screen. And if they get
+
+928
+00:20:48,390 --> 00:20:48,400
+that behind the screen. And if they get
+ 
+
+929
+00:20:48,400 --> 00:20:52,149
+that behind the screen. And if they get
+a uh a 25 or higher on that religion
+
+930
+00:20:52,149 --> 00:20:52,159
+a uh a 25 or higher on that religion
+ 
+
+931
+00:20:52,159 --> 00:20:54,789
+a uh a 25 or higher on that religion
+check, then you can go over some of the
+
+932
+00:20:54,789 --> 00:20:54,799
+check, then you can go over some of the
+ 
+
+933
+00:20:54,799 --> 00:20:58,310
+check, then you can go over some of the
+ways to disable the haunt. In this case,
+
+934
+00:20:58,310 --> 00:20:58,320
+ways to disable the haunt. In this case,
+ 
+
+935
+00:20:58,320 --> 00:21:02,070
+ways to disable the haunt. In this case,
+it says a DC27 diplomacy expert to
+
+936
+00:21:02,070 --> 00:21:02,080
+it says a DC27 diplomacy expert to
+ 
+
+937
+00:21:02,080 --> 00:21:04,549
+it says a DC27 diplomacy expert to
+temporarily calm the rage of one of the
+
+938
+00:21:04,549 --> 00:21:04,559
+temporarily calm the rage of one of the
+ 
+
+939
+00:21:04,559 --> 00:21:08,470
+temporarily calm the rage of one of the
+three spirits or a DC30 religion trained
+
+940
+00:21:08,470 --> 00:21:08,480
+three spirits or a DC30 religion trained
+ 
+
+941
+00:21:08,480 --> 00:21:11,430
+three spirits or a DC30 religion trained
+to exercise one of the spirits. Three
+
+942
+00:21:11,430 --> 00:21:11,440
+to exercise one of the spirits. Three
+ 
+
+943
+00:21:11,440 --> 00:21:14,390
+to exercise one of the spirits. Three
+total successes are required to disable
+
+944
+00:21:14,390 --> 00:21:14,400
+total successes are required to disable
+ 
+
+945
+00:21:14,400 --> 00:21:16,390
+total successes are required to disable
+the haunt.
+
+946
+00:21:16,390 --> 00:21:16,400
+the haunt.
+ 
+
+947
+00:21:16,400 --> 00:21:18,149
+the haunt.
+Okay, so a couple things here. First of
+
+948
+00:21:18,149 --> 00:21:18,159
+Okay, so a couple things here. First of
+ 
+
+949
+00:21:18,159 --> 00:21:21,350
+Okay, so a couple things here. First of
+those is that since both of these uh
+
+950
+00:21:21,350 --> 00:21:21,360
+those is that since both of these uh
+ 
+
+951
+00:21:21,360 --> 00:21:25,190
+those is that since both of these uh
+checks have uh uh per uh proficiency
+
+952
+00:21:25,190 --> 00:21:25,200
+checks have uh uh per uh proficiency
+ 
+
+953
+00:21:25,200 --> 00:21:27,270
+checks have uh uh per uh proficiency
+requirements in the parentheticals,
+
+954
+00:21:27,270 --> 00:21:27,280
+requirements in the parentheticals,
+ 
+
+955
+00:21:27,280 --> 00:21:29,270
+requirements in the parentheticals,
+expert for diplomacy and trained in
+
+956
+00:21:29,270 --> 00:21:29,280
+expert for diplomacy and trained in
+ 
+
+957
+00:21:29,280 --> 00:21:31,990
+expert for diplomacy and trained in
+religion, the characters must meet those
+
+958
+00:21:31,990 --> 00:21:32,000
+religion, the characters must meet those
+ 
+
+959
+00:21:32,000 --> 00:21:33,990
+religion, the characters must meet those
+minimum proficiency levels in order to
+
+960
+00:21:33,990 --> 00:21:34,000
+minimum proficiency levels in order to
+ 
+
+961
+00:21:34,000 --> 00:21:36,470
+minimum proficiency levels in order to
+do it. Someone who's merely trained in
+
+962
+00:21:36,470 --> 00:21:36,480
+do it. Someone who's merely trained in
+ 
+
+963
+00:21:36,480 --> 00:21:39,669
+do it. Someone who's merely trained in
+diplomacy would not be able to compel
+
+964
+00:21:39,669 --> 00:21:39,679
+diplomacy would not be able to compel
+ 
+
+965
+00:21:39,679 --> 00:21:43,190
+diplomacy would not be able to compel
+the uh spirits to calm down. uh someone
+
+966
+00:21:43,190 --> 00:21:43,200
+the uh spirits to calm down. uh someone
+ 
+
+967
+00:21:43,200 --> 00:21:44,789
+the uh spirits to calm down. uh someone
+who's untrained in religion wouldn't
+
+968
+00:21:44,789 --> 00:21:44,799
+who's untrained in religion wouldn't
+ 
+
+969
+00:21:44,799 --> 00:21:47,750
+who's untrained in religion wouldn't
+have the knowledge to exercise them from
+
+970
+00:21:47,750 --> 00:21:47,760
+have the knowledge to exercise them from
+ 
+
+971
+00:21:47,760 --> 00:21:50,630
+have the knowledge to exercise them from
+the uh from the chamber. Uh and some of
+
+972
+00:21:50,630 --> 00:21:50,640
+the uh from the chamber. Uh and some of
+ 
+
+973
+00:21:50,640 --> 00:21:52,710
+the uh from the chamber. Uh and some of
+the other things that talk about here
+
+974
+00:21:52,710 --> 00:21:52,720
+the other things that talk about here
+ 
+
+975
+00:21:52,720 --> 00:21:54,230
+the other things that talk about here
+are a couple of the questions that came
+
+976
+00:21:54,230 --> 00:21:54,240
+are a couple of the questions that came
+ 
+
+977
+00:21:54,240 --> 00:21:55,990
+are a couple of the questions that came
+along with the the request to go over
+
+978
+00:21:55,990 --> 00:21:56,000
+along with the the request to go over
+ 
+
+979
+00:21:56,000 --> 00:21:58,470
+along with the the request to go over
+this. The first is does it take two
+
+980
+00:21:58,470 --> 00:21:58,480
+this. The first is does it take two
+ 
+
+981
+00:21:58,480 --> 00:22:01,029
+this. The first is does it take two
+actions to disable a haunt with a
+
+982
+00:22:01,029 --> 00:22:01,039
+actions to disable a haunt with a
+ 
+
+983
+00:22:01,039 --> 00:22:04,310
+actions to disable a haunt with a
+knowledge skill? Okay, so it takes two
+
+984
+00:22:04,310 --> 00:22:04,320
+knowledge skill? Okay, so it takes two
+ 
+
+985
+00:22:04,320 --> 00:22:06,870
+knowledge skill? Okay, so it takes two
+actions to use thievery on disabled
+
+986
+00:22:06,870 --> 00:22:06,880
+actions to use thievery on disabled
+ 
+
+987
+00:22:06,880 --> 00:22:10,789
+actions to use thievery on disabled
+device to disable a mechanical trap. Uh
+
+988
+00:22:10,789 --> 00:22:10,799
+device to disable a mechanical trap. Uh
+ 
+
+989
+00:22:10,799 --> 00:22:12,950
+device to disable a mechanical trap. Uh
+we're not using a thievery and disabled
+
+990
+00:22:12,950 --> 00:22:12,960
+we're not using a thievery and disabled
+ 
+
+991
+00:22:12,960 --> 00:22:14,390
+we're not using a thievery and disabled
+device here. Instead, we're using
+
+992
+00:22:14,390 --> 00:22:14,400
+device here. Instead, we're using
+ 
+
+993
+00:22:14,400 --> 00:22:17,669
+device here. Instead, we're using
+skills. So, does it take uh two actions
+
+994
+00:22:17,669 --> 00:22:17,679
+skills. So, does it take uh two actions
+ 
+
+995
+00:22:17,679 --> 00:22:22,070
+skills. So, does it take uh two actions
+to um to disable this haunt using
+
+996
+00:22:22,070 --> 00:22:22,080
+to um to disable this haunt using
+ 
+
+997
+00:22:22,080 --> 00:22:25,029
+to um to disable this haunt using
+religion or diplomacy? Well, if we take
+
+998
+00:22:25,029 --> 00:22:25,039
+religion or diplomacy? Well, if we take
+ 
+
+999
+00:22:25,039 --> 00:22:29,270
+religion or diplomacy? Well, if we take
+a look at the uh section on disabling a
+
+1000
+00:22:29,270 --> 00:22:29,280
+a look at the uh section on disabling a
+ 
+
+1001
+00:22:29,280 --> 00:22:30,789
+a look at the uh section on disabling a
+hazard,
+
+1002
+00:22:30,789 --> 00:22:30,799
+hazard,
+ 
+
+1003
+00:22:30,799 --> 00:22:34,710
+hazard,
+it says the specific skill and DC
+
+1004
+00:22:34,710 --> 00:22:34,720
+it says the specific skill and DC
+ 
+
+1005
+00:22:34,720 --> 00:22:37,029
+it says the specific skill and DC
+required to disable a hazard listed in
+
+1006
+00:22:37,029 --> 00:22:37,039
+required to disable a hazard listed in
+ 
+
+1007
+00:22:37,039 --> 00:22:39,909
+required to disable a hazard listed in
+the hazard stat block. Like using
+
+1008
+00:22:39,909 --> 00:22:39,919
+the hazard stat block. Like using
+ 
+
+1009
+00:22:39,919 --> 00:22:42,710
+the hazard stat block. Like using
+disable a device, using these skills to
+
+1010
+00:22:42,710 --> 00:22:42,720
+disable a device, using these skills to
+ 
+
+1011
+00:22:42,720 --> 00:22:46,950
+disable a device, using these skills to
+disable a trap is a twoaction activity
+
+1012
+00:22:46,950 --> 00:22:46,960
+disable a trap is a twoaction activity
+ 
+
+1013
+00:22:46,960 --> 00:22:50,549
+disable a trap is a twoaction activity
+with the same degrees of success. Though
+
+1014
+00:22:50,549 --> 00:22:50,559
+with the same degrees of success. Though
+ 
+
+1015
+00:22:50,559 --> 00:22:53,110
+with the same degrees of success. Though
+the activity might have different traits
+
+1016
+00:22:53,110 --> 00:22:53,120
+the activity might have different traits
+ 
+
+1017
+00:22:53,120 --> 00:22:56,390
+the activity might have different traits
+determined by the GM. Okay, so this is
+
+1018
+00:22:56,390 --> 00:22:56,400
+determined by the GM. Okay, so this is
+ 
+
+1019
+00:22:56,400 --> 00:22:57,510
+determined by the GM. Okay, so this is
+an area that might be a point of
+
+1020
+00:22:57,510 --> 00:22:57,520
+an area that might be a point of
+ 
+
+1021
+00:22:57,520 --> 00:23:00,549
+an area that might be a point of
+contention with some people. Um,
+
+1022
+00:23:00,549 --> 00:23:00,559
+contention with some people. Um,
+ 
+
+1023
+00:23:00,559 --> 00:23:04,549
+contention with some people. Um,
+going strictly by a raw reading of this,
+
+1024
+00:23:04,549 --> 00:23:04,559
+going strictly by a raw reading of this,
+ 
+
+1025
+00:23:04,559 --> 00:23:07,590
+going strictly by a raw reading of this,
+it says like using disable a device,
+
+1026
+00:23:07,590 --> 00:23:07,600
+it says like using disable a device,
+ 
+
+1027
+00:23:07,600 --> 00:23:11,909
+it says like using disable a device,
+using these skills to disable a trap
+
+1028
+00:23:11,909 --> 00:23:11,919
+using these skills to disable a trap
+ 
+
+1029
+00:23:11,919 --> 00:23:16,630
+using these skills to disable a trap
+is a twoaction activity. Um,
+
+1030
+00:23:16,630 --> 00:23:16,640
+is a twoaction activity. Um,
+ 
+
+1031
+00:23:16,640 --> 00:23:20,789
+is a twoaction activity. Um,
+a trap is a specific kind of hazard.
+
+1032
+00:23:20,789 --> 00:23:20,799
+a trap is a specific kind of hazard.
+ 
+
+1033
+00:23:20,799 --> 00:23:24,870
+a trap is a specific kind of hazard.
+To me, that is pretty clear that the two
+
+1034
+00:23:24,870 --> 00:23:24,880
+To me, that is pretty clear that the two
+ 
+
+1035
+00:23:24,880 --> 00:23:27,830
+To me, that is pretty clear that the two
+action activity only applies to
+
+1036
+00:23:27,830 --> 00:23:27,840
+action activity only applies to
+ 
+
+1037
+00:23:27,840 --> 00:23:31,270
+action activity only applies to
+disabling traps. I feel like if they
+
+1038
+00:23:31,270 --> 00:23:31,280
+disabling traps. I feel like if they
+ 
+
+1039
+00:23:31,280 --> 00:23:34,549
+disabling traps. I feel like if they
+wanted that to apply to haunts or if
+
+1040
+00:23:34,549 --> 00:23:34,559
+wanted that to apply to haunts or if
+ 
+
+1041
+00:23:34,559 --> 00:23:36,710
+wanted that to apply to haunts or if
+they wanted it to apply to the nature
+
+1042
+00:23:36,710 --> 00:23:36,720
+they wanted it to apply to the nature
+ 
+
+1043
+00:23:36,720 --> 00:23:39,830
+they wanted it to apply to the nature
+and uh survival checks that are used to
+
+1044
+00:23:39,830 --> 00:23:39,840
+and uh survival checks that are used to
+ 
+
+1045
+00:23:39,840 --> 00:23:43,750
+and uh survival checks that are used to
+disable environmental hazards, then it
+
+1046
+00:23:43,750 --> 00:23:43,760
+disable environmental hazards, then it
+ 
+
+1047
+00:23:43,760 --> 00:23:46,070
+disable environmental hazards, then it
+would say like using disabled device,
+
+1048
+00:23:46,070 --> 00:23:46,080
+would say like using disabled device,
+ 
+
+1049
+00:23:46,080 --> 00:23:49,430
+would say like using disabled device,
+using these skills to disable a hazard
+
+1050
+00:23:49,430 --> 00:23:49,440
+using these skills to disable a hazard
+ 
+
+1051
+00:23:49,440 --> 00:23:53,029
+using these skills to disable a hazard
+is a two action activity. Um but that's
+
+1052
+00:23:53,029 --> 00:23:53,039
+is a two action activity. Um but that's
+ 
+
+1053
+00:23:53,039 --> 00:23:54,789
+is a two action activity. Um but that's
+not what it says. It specifically says
+
+1054
+00:23:54,789 --> 00:23:54,799
+not what it says. It specifically says
+ 
+
+1055
+00:23:54,799 --> 00:23:58,710
+not what it says. It specifically says
+trap. So for me and my reading of that
+
+1056
+00:23:58,710 --> 00:23:58,720
+trap. So for me and my reading of that
+ 
+
+1057
+00:23:58,720 --> 00:24:01,909
+trap. So for me and my reading of that
+is that if you're using a diplomacy or
+
+1058
+00:24:01,909 --> 00:24:01,919
+is that if you're using a diplomacy or
+ 
+
+1059
+00:24:01,919 --> 00:24:06,470
+is that if you're using a diplomacy or
+you are using uh religion to um to
+
+1060
+00:24:06,470 --> 00:24:06,480
+you are using uh religion to um to
+ 
+
+1061
+00:24:06,480 --> 00:24:10,390
+you are using uh religion to um to
+disable this haunt then it is one action
+
+1062
+00:24:10,390 --> 00:24:10,400
+disable this haunt then it is one action
+ 
+
+1063
+00:24:10,400 --> 00:24:13,430
+disable this haunt then it is one action
+to use either of those to do so.
+
+1064
+00:24:13,430 --> 00:24:13,440
+to use either of those to do so.
+ 
+
+1065
+00:24:13,440 --> 00:24:15,750
+to use either of those to do so.
+However, there is a notation here that
+
+1066
+00:24:15,750 --> 00:24:15,760
+However, there is a notation here that
+ 
+
+1067
+00:24:15,760 --> 00:24:18,549
+However, there is a notation here that
+says three total successes are required.
+
+1068
+00:24:18,549 --> 00:24:18,559
+says three total successes are required.
+ 
+
+1069
+00:24:18,559 --> 00:24:20,950
+says three total successes are required.
+So it's not a one and done. So therefore
+
+1070
+00:24:20,950 --> 00:24:20,960
+So it's not a one and done. So therefore
+ 
+
+1071
+00:24:20,960 --> 00:24:22,710
+So it's not a one and done. So therefore
+it's going to be a minimum of three
+
+1072
+00:24:22,710 --> 00:24:22,720
+it's going to be a minimum of three
+ 
+
+1073
+00:24:22,720 --> 00:24:26,630
+it's going to be a minimum of three
+actions assuming that you succeed on all
+
+1074
+00:24:26,630 --> 00:24:26,640
+actions assuming that you succeed on all
+ 
+
+1075
+00:24:26,640 --> 00:24:29,510
+actions assuming that you succeed on all
+of the checks. Now uh another uh
+
+1076
+00:24:29,510 --> 00:24:29,520
+of the checks. Now uh another uh
+ 
+
+1077
+00:24:29,520 --> 00:24:31,269
+of the checks. Now uh another uh
+question that came up with this was can
+
+1078
+00:24:31,269 --> 00:24:31,279
+question that came up with this was can
+ 
+
+1079
+00:24:31,279 --> 00:24:34,149
+question that came up with this was can
+you use three straight actions if it is
+
+1080
+00:24:34,149 --> 00:24:34,159
+you use three straight actions if it is
+ 
+
+1081
+00:24:34,159 --> 00:24:36,149
+you use three straight actions if it is
+uh religion?
+
+1082
+00:24:36,149 --> 00:24:36,159
+uh religion?
+ 
+
+1083
+00:24:36,159 --> 00:24:39,190
+uh religion?
+Yes. Uh my reading since it is only one
+
+1084
+00:24:39,190 --> 00:24:39,200
+Yes. Uh my reading since it is only one
+ 
+
+1085
+00:24:39,200 --> 00:24:42,549
+Yes. Uh my reading since it is only one
+action to use these to disable it. It
+
+1086
+00:24:42,549 --> 00:24:42,559
+action to use these to disable it. It
+ 
+
+1087
+00:24:42,559 --> 00:24:45,590
+action to use these to disable it. It
+takes three successes. You could you
+
+1088
+00:24:45,590 --> 00:24:45,600
+takes three successes. You could you
+ 
+
+1089
+00:24:45,600 --> 00:24:47,830
+takes three successes. You could you
+spend your entire turn, your three
+
+1090
+00:24:47,830 --> 00:24:47,840
+spend your entire turn, your three
+ 
+
+1091
+00:24:47,840 --> 00:24:51,110
+spend your entire turn, your three
+actions doing uh diplomacy and or
+
+1092
+00:24:51,110 --> 00:24:51,120
+actions doing uh diplomacy and or
+ 
+
+1093
+00:24:51,120 --> 00:24:52,870
+actions doing uh diplomacy and or
+religion in any any combination of
+
+1094
+00:24:52,870 --> 00:24:52,880
+religion in any any combination of
+ 
+
+1095
+00:24:52,880 --> 00:24:55,669
+religion in any any combination of
+those. If you succeed on all three, then
+
+1096
+00:24:55,669 --> 00:24:55,679
+those. If you succeed on all three, then
+ 
+
+1097
+00:24:55,679 --> 00:24:58,310
+those. If you succeed on all three, then
+you disable all of them um right off the
+
+1098
+00:24:58,310 --> 00:24:58,320
+you disable all of them um right off the
+ 
+
+1099
+00:24:58,320 --> 00:25:00,870
+you disable all of them um right off the
+bat uh or at least before it's triggered
+
+1100
+00:25:00,870 --> 00:25:00,880
+bat uh or at least before it's triggered
+ 
+
+1101
+00:25:00,880 --> 00:25:03,029
+bat uh or at least before it's triggered
+as long as you have not entered within
+
+1102
+00:25:03,029 --> 00:25:03,039
+as long as you have not entered within
+ 
+
+1103
+00:25:03,039 --> 00:25:07,990
+as long as you have not entered within
+uh 10 ft of of it. Um,
+
+1104
+00:25:07,990 --> 00:25:08,000
+uh 10 ft of of it. Um,
+ 
+
+1105
+00:25:08,000 --> 00:25:12,710
+uh 10 ft of of it. Um,
+and also it says, "Is it standard one
+
+1106
+00:25:12,710 --> 00:25:12,720
+and also it says, "Is it standard one
+ 
+
+1107
+00:25:12,720 --> 00:25:14,710
+and also it says, "Is it standard one
+success removes the haunt unless
+
+1108
+00:25:14,710 --> 00:25:14,720
+success removes the haunt unless
+ 
+
+1109
+00:25:14,720 --> 00:25:17,669
+success removes the haunt unless
+otherwise noted?" Uh, yes. If if there's
+
+1110
+00:25:17,669 --> 00:25:17,679
+otherwise noted?" Uh, yes. If if there's
+ 
+
+1111
+00:25:17,679 --> 00:25:21,990
+otherwise noted?" Uh, yes. If if there's
+no nothing in the disable area that says
+
+1112
+00:25:21,990 --> 00:25:22,000
+no nothing in the disable area that says
+ 
+
+1113
+00:25:22,000 --> 00:25:24,470
+no nothing in the disable area that says
+that uh it takes multiple successes,
+
+1114
+00:25:24,470 --> 00:25:24,480
+that uh it takes multiple successes,
+ 
+
+1115
+00:25:24,480 --> 00:25:25,990
+that uh it takes multiple successes,
+like this one specifically says three
+
+1116
+00:25:25,990 --> 00:25:26,000
+like this one specifically says three
+ 
+
+1117
+00:25:26,000 --> 00:25:28,710
+like this one specifically says three
+successes, then it would just be one
+
+1118
+00:25:28,710 --> 00:25:28,720
+successes, then it would just be one
+ 
+
+1119
+00:25:28,720 --> 00:25:31,909
+successes, then it would just be one
+success to disable the haunt. And one
+
+1120
+00:25:31,909 --> 00:25:31,919
+success to disable the haunt. And one
+ 
+
+1121
+00:25:31,919 --> 00:25:33,830
+success to disable the haunt. And one
+more thing to talk about uh disabling
+
+1122
+00:25:33,830 --> 00:25:33,840
+more thing to talk about uh disabling
+ 
+
+1123
+00:25:33,840 --> 00:25:37,190
+more thing to talk about uh disabling
+with using these skills. Um, I have I
+
+1124
+00:25:37,190 --> 00:25:37,200
+with using these skills. Um, I have I
+ 
+
+1125
+00:25:37,200 --> 00:25:39,269
+with using these skills. Um, I have I
+have seen it mentioned sometimes that
+
+1126
+00:25:39,269 --> 00:25:39,279
+have seen it mentioned sometimes that
+ 
+
+1127
+00:25:39,279 --> 00:25:42,630
+have seen it mentioned sometimes that
+people confuse using religion here or
+
+1128
+00:25:42,630 --> 00:25:42,640
+people confuse using religion here or
+ 
+
+1129
+00:25:42,640 --> 00:25:46,470
+people confuse using religion here or
+using a cultism in a haunt to be the
+
+1130
+00:25:46,470 --> 00:25:46,480
+using a cultism in a haunt to be the
+ 
+
+1131
+00:25:46,480 --> 00:25:50,070
+using a cultism in a haunt to be the
+same as a recall knowledge check. And so
+
+1132
+00:25:50,070 --> 00:25:50,080
+same as a recall knowledge check. And so
+ 
+
+1133
+00:25:50,080 --> 00:25:54,470
+same as a recall knowledge check. And so
+the the thought there is that if you
+
+1134
+00:25:54,470 --> 00:25:54,480
+the the thought there is that if you
+ 
+
+1135
+00:25:54,480 --> 00:25:56,310
+the the thought there is that if you
+fail one, you cannot make any additional
+
+1136
+00:25:56,310 --> 00:25:56,320
+fail one, you cannot make any additional
+ 
+
+1137
+00:25:56,320 --> 00:26:00,310
+fail one, you cannot make any additional
+ones. And if you uh and every time that
+
+1138
+00:26:00,310 --> 00:26:00,320
+ones. And if you uh and every time that
+ 
+
+1139
+00:26:00,320 --> 00:26:02,950
+ones. And if you uh and every time that
+you succeed, the DC goes up. uh when
+
+1140
+00:26:02,950 --> 00:26:02,960
+you succeed, the DC goes up. uh when
+ 
+
+1141
+00:26:02,960 --> 00:26:04,789
+you succeed, the DC goes up. uh when
+you're using those skills, those
+
+1142
+00:26:04,789 --> 00:26:04,799
+you're using those skills, those
+ 
+
+1143
+00:26:04,799 --> 00:26:07,830
+you're using those skills, those
+knowledge skills to disable, you are not
+
+1144
+00:26:07,830 --> 00:26:07,840
+knowledge skills to disable, you are not
+ 
+
+1145
+00:26:07,840 --> 00:26:10,390
+knowledge skills to disable, you are not
+making recall knowledge checks. They're
+
+1146
+00:26:10,390 --> 00:26:10,400
+making recall knowledge checks. They're
+ 
+
+1147
+00:26:10,400 --> 00:26:13,190
+making recall knowledge checks. They're
+just normal straight up skill checks and
+
+1148
+00:26:13,190 --> 00:26:13,200
+just normal straight up skill checks and
+ 
+
+1149
+00:26:13,200 --> 00:26:15,830
+just normal straight up skill checks and
+therefore they don't have those uh
+
+1150
+00:26:15,830 --> 00:26:15,840
+therefore they don't have those uh
+ 
+
+1151
+00:26:15,840 --> 00:26:17,510
+therefore they don't have those uh
+limitations that are applied
+
+1152
+00:26:17,510 --> 00:26:17,520
+limitations that are applied
+ 
+
+1153
+00:26:17,520 --> 00:26:19,669
+limitations that are applied
+specifically to recall knowledge. Unless
+
+1154
+00:26:19,669 --> 00:26:19,679
+specifically to recall knowledge. Unless
+ 
+
+1155
+00:26:19,679 --> 00:26:21,590
+specifically to recall knowledge. Unless
+this has the words recall knowledge in
+
+1156
+00:26:21,590 --> 00:26:21,600
+this has the words recall knowledge in
+ 
+
+1157
+00:26:21,600 --> 00:26:23,909
+this has the words recall knowledge in
+the disabled text, then this is just a
+
+1158
+00:26:23,909 --> 00:26:23,919
+the disabled text, then this is just a
+ 
+
+1159
+00:26:23,919 --> 00:26:25,830
+the disabled text, then this is just a
+straight skill check, just a straight
+
+1160
+00:26:25,830 --> 00:26:25,840
+straight skill check, just a straight
+ 
+
+1161
+00:26:25,840 --> 00:26:28,470
+straight skill check, just a straight
+normal check, not recall knowledge. you
+
+1162
+00:26:28,470 --> 00:26:28,480
+normal check, not recall knowledge. you
+ 
+
+1163
+00:26:28,480 --> 00:26:30,950
+normal check, not recall knowledge. you
+don't need to worry about um about
+
+1164
+00:26:30,950 --> 00:26:30,960
+don't need to worry about um about
+ 
+
+1165
+00:26:30,960 --> 00:26:33,110
+don't need to worry about um about
+having to increase the DC after every
+
+1166
+00:26:33,110 --> 00:26:33,120
+having to increase the DC after every
+ 
+
+1167
+00:26:33,120 --> 00:26:35,430
+having to increase the DC after every
+check or having there be a ceiling to
+
+1168
+00:26:35,430 --> 00:26:35,440
+check or having there be a ceiling to
+ 
+
+1169
+00:26:35,440 --> 00:26:38,390
+check or having there be a ceiling to
+it. All right, but let's say that the
+
+1170
+00:26:38,390 --> 00:26:38,400
+it. All right, but let's say that the
+ 
+
+1171
+00:26:38,400 --> 00:26:41,190
+it. All right, but let's say that the
+players in this case did not succeed on
+
+1172
+00:26:41,190 --> 00:26:41,200
+players in this case did not succeed on
+ 
+
+1173
+00:26:41,200 --> 00:26:44,149
+players in this case did not succeed on
+their their seek action to detect the
+
+1174
+00:26:44,149 --> 00:26:44,159
+their their seek action to detect the
+ 
+
+1175
+00:26:44,159 --> 00:26:46,310
+their their seek action to detect the
+presence of danger and the presence of
+
+1176
+00:26:46,310 --> 00:26:46,320
+presence of danger and the presence of
+ 
+
+1177
+00:26:46,320 --> 00:26:49,350
+presence of danger and the presence of
+the haunt or they failed at their skill
+
+1178
+00:26:49,350 --> 00:26:49,360
+the haunt or they failed at their skill
+ 
+
+1179
+00:26:49,360 --> 00:26:51,669
+the haunt or they failed at their skill
+checks to recall knowledge and and one
+
+1180
+00:26:51,669 --> 00:26:51,679
+checks to recall knowledge and and one
+ 
+
+1181
+00:26:51,679 --> 00:26:54,870
+checks to recall knowledge and and one
+of them walks within 10 ft of one of the
+
+1182
+00:26:54,870 --> 00:26:54,880
+of them walks within 10 ft of one of the
+ 
+
+1183
+00:26:54,880 --> 00:26:56,870
+of them walks within 10 ft of one of the
+three corpses. What happens then? Well,
+
+1184
+00:26:56,870 --> 00:26:56,880
+three corpses. What happens then? Well,
+ 
+
+1185
+00:26:56,880 --> 00:26:58,630
+three corpses. What happens then? Well,
+that's where we get into the actual
+
+1186
+00:26:58,630 --> 00:26:58,640
+that's where we get into the actual
+ 
+
+1187
+00:26:58,640 --> 00:27:01,350
+that's where we get into the actual
+activation of the haunt. So, if we look
+
+1188
+00:27:01,350 --> 00:27:01,360
+activation of the haunt. So, if we look
+ 
+
+1189
+00:27:01,360 --> 00:27:05,190
+activation of the haunt. So, if we look
+at uh searing agony here, we see it is a
+
+1190
+00:27:05,190 --> 00:27:05,200
+at uh searing agony here, we see it is a
+ 
+
+1191
+00:27:05,200 --> 00:27:07,750
+at uh searing agony here, we see it is a
+reaction with the mental trait and has
+
+1192
+00:27:07,750 --> 00:27:07,760
+reaction with the mental trait and has
+ 
+
+1193
+00:27:07,760 --> 00:27:09,510
+reaction with the mental trait and has
+the trigger. A living creature
+
+1194
+00:27:09,510 --> 00:27:09,520
+the trigger. A living creature
+ 
+
+1195
+00:27:09,520 --> 00:27:11,510
+the trigger. A living creature
+approaches within 10 ft of the remains
+
+1196
+00:27:11,510 --> 00:27:11,520
+approaches within 10 ft of the remains
+ 
+
+1197
+00:27:11,520 --> 00:27:14,789
+approaches within 10 ft of the remains
+of a victim of the original fire. And
+
+1198
+00:27:14,789 --> 00:27:14,799
+of a victim of the original fire. And
+ 
+
+1199
+00:27:14,799 --> 00:27:17,110
+of a victim of the original fire. And
+the effect is memories of the pain
+
+1200
+00:27:17,110 --> 00:27:17,120
+the effect is memories of the pain
+ 
+
+1201
+00:27:17,120 --> 00:27:19,590
+the effect is memories of the pain
+suffered by the fire's past victims
+
+1202
+00:27:19,590 --> 00:27:19,600
+suffered by the fire's past victims
+ 
+
+1203
+00:27:19,600 --> 00:27:22,230
+suffered by the fire's past victims
+assault the triggering creature's mind.
+
+1204
+00:27:22,230 --> 00:27:22,240
+assault the triggering creature's mind.
+ 
+
+1205
+00:27:22,240 --> 00:27:24,710
+assault the triggering creature's mind.
+The creature must attempt a DC25 will
+
+1206
+00:27:24,710 --> 00:27:24,720
+The creature must attempt a DC25 will
+ 
+
+1207
+00:27:24,720 --> 00:27:27,269
+The creature must attempt a DC25 will
+save and the haunt then rolls
+
+1208
+00:27:27,269 --> 00:27:27,279
+save and the haunt then rolls
+ 
+
+1209
+00:27:27,279 --> 00:27:31,430
+save and the haunt then rolls
+initiative. Okay, so uh as soon as that
+
+1210
+00:27:31,430 --> 00:27:31,440
+initiative. Okay, so uh as soon as that
+ 
+
+1211
+00:27:31,440 --> 00:27:34,230
+initiative. Okay, so uh as soon as that
+person walks in within 10 ft of one of
+
+1212
+00:27:34,230 --> 00:27:34,240
+person walks in within 10 ft of one of
+ 
+
+1213
+00:27:34,240 --> 00:27:36,789
+person walks in within 10 ft of one of
+those corpses, the haunt spins its
+
+1214
+00:27:36,789 --> 00:27:36,799
+those corpses, the haunt spins its
+ 
+
+1215
+00:27:36,799 --> 00:27:39,669
+those corpses, the haunt spins its
+reaction. That person must make a will
+
+1216
+00:27:39,669 --> 00:27:39,679
+reaction. That person must make a will
+ 
+
+1217
+00:27:39,679 --> 00:27:41,590
+reaction. That person must make a will
+save DC25.
+
+1218
+00:27:41,590 --> 00:27:41,600
+save DC25.
+ 
+
+1219
+00:27:41,600 --> 00:27:43,430
+save DC25.
+If they succeed, they become quickened
+
+1220
+00:27:43,430 --> 00:27:43,440
+If they succeed, they become quickened
+ 
+
+1221
+00:27:43,440 --> 00:27:45,350
+If they succeed, they become quickened
+one or I'm sorry, not not quickened,
+
+1222
+00:27:45,350 --> 00:27:45,360
+one or I'm sorry, not not quickened,
+ 
+
+1223
+00:27:45,360 --> 00:27:48,230
+one or I'm sorry, not not quickened,
+they become sickened one. Uh if they
+
+1224
+00:27:48,230 --> 00:27:48,240
+they become sickened one. Uh if they
+ 
+
+1225
+00:27:48,240 --> 00:27:49,510
+they become sickened one. Uh if they
+critically succeed, they're not
+
+1226
+00:27:49,510 --> 00:27:49,520
+critically succeed, they're not
+ 
+
+1227
+00:27:49,520 --> 00:27:52,310
+critically succeed, they're not
+affected. If they fail, they are sick in
+
+1228
+00:27:52,310 --> 00:27:52,320
+affected. If they fail, they are sick in
+ 
+
+1229
+00:27:52,320 --> 00:27:54,710
+affected. If they fail, they are sick in
+two. If they critically fail, they are
+
+1230
+00:27:54,710 --> 00:27:54,720
+two. If they critically fail, they are
+ 
+
+1231
+00:27:54,720 --> 00:27:57,430
+two. If they critically fail, they are
+sick in three and it is offguard for as
+
+1232
+00:27:57,430 --> 00:27:57,440
+sick in three and it is offguard for as
+ 
+
+1233
+00:27:57,440 --> 00:27:59,190
+sick in three and it is offguard for as
+long as it remains within the haunts
+
+1234
+00:27:59,190 --> 00:27:59,200
+long as it remains within the haunts
+ 
+
+1235
+00:27:59,200 --> 00:28:03,029
+long as it remains within the haunts
+area and for three rounds thereafter.
+
+1236
+00:28:03,029 --> 00:28:03,039
+area and for three rounds thereafter.
+ 
+
+1237
+00:28:03,039 --> 00:28:07,350
+area and for three rounds thereafter.
+Okay, so um that is laid out pretty
+
+1238
+00:28:07,350 --> 00:28:07,360
+Okay, so um that is laid out pretty
+ 
+
+1239
+00:28:07,360 --> 00:28:09,990
+Okay, so um that is laid out pretty
+clear. Uh but some of the things that
+
+1240
+00:28:09,990 --> 00:28:10,000
+clear. Uh but some of the things that
+ 
+
+1241
+00:28:10,000 --> 00:28:11,669
+clear. Uh but some of the things that
+people are somewhat interested in are
+
+1242
+00:28:11,669 --> 00:28:11,679
+people are somewhat interested in are
+ 
+
+1243
+00:28:11,679 --> 00:28:13,830
+people are somewhat interested in are
+about initiative. Well, what do we roll
+
+1244
+00:28:13,830 --> 00:28:13,840
+about initiative. Well, what do we roll
+ 
+
+1245
+00:28:13,840 --> 00:28:15,669
+about initiative. Well, what do we roll
+for the initiative? You're going to roll
+
+1246
+00:28:15,669 --> 00:28:15,679
+for the initiative? You're going to roll
+ 
+
+1247
+00:28:15,679 --> 00:28:18,310
+for the initiative? You're going to roll
+stealth. So at the top, stealth bonuses
+
+1248
+00:28:18,310 --> 00:28:18,320
+stealth. So at the top, stealth bonuses
+ 
+
+1249
+00:28:18,320 --> 00:28:22,310
+stealth. So at the top, stealth bonuses
+plus 18. So once you trigger this, it is
+
+1250
+00:28:22,310 --> 00:28:22,320
+plus 18. So once you trigger this, it is
+ 
+
+1251
+00:28:22,320 --> 00:28:25,510
+plus 18. So once you trigger this, it is
+going to uh spin that reaction and
+
+1252
+00:28:25,510 --> 00:28:25,520
+going to uh spin that reaction and
+ 
+
+1253
+00:28:25,520 --> 00:28:27,110
+going to uh spin that reaction and
+you're going to roll you're going to
+
+1254
+00:28:27,110 --> 00:28:27,120
+you're going to roll you're going to
+ 
+
+1255
+00:28:27,120 --> 00:28:28,789
+you're going to roll you're going to
+roll stealth plus 18 for initiative.
+
+1256
+00:28:28,789 --> 00:28:28,799
+roll stealth plus 18 for initiative.
+ 
+
+1257
+00:28:28,799 --> 00:28:30,870
+roll stealth plus 18 for initiative.
+It's slotted in wherever. That means
+
+1258
+00:28:30,870 --> 00:28:30,880
+It's slotted in wherever. That means
+ 
+
+1259
+00:28:30,880 --> 00:28:34,149
+It's slotted in wherever. That means
+it's possible um it there there it is
+
+1260
+00:28:34,149 --> 00:28:34,159
+it's possible um it there there it is
+ 
+
+1261
+00:28:34,159 --> 00:28:36,950
+it's possible um it there there it is
+possible that the turn hat will have
+
+1262
+00:28:36,950 --> 00:28:36,960
+possible that the turn hat will have
+ 
+
+1263
+00:28:36,960 --> 00:28:39,029
+possible that the turn hat will have
+already passed and you know you have to
+
+1264
+00:28:39,029 --> 00:28:39,039
+already passed and you know you have to
+ 
+
+1265
+00:28:39,039 --> 00:28:40,230
+already passed and you know you have to
+wait another round for it to come
+
+1266
+00:28:40,230 --> 00:28:40,240
+wait another round for it to come
+ 
+
+1267
+00:28:40,240 --> 00:28:42,950
+wait another round for it to come
+around. But in a lot of cases this is
+
+1268
+00:28:42,950 --> 00:28:42,960
+around. But in a lot of cases this is
+ 
+
+1269
+00:28:42,960 --> 00:28:46,470
+around. But in a lot of cases this is
+probably the event that causes the party
+
+1270
+00:28:46,470 --> 00:28:46,480
+probably the event that causes the party
+ 
+
+1271
+00:28:46,480 --> 00:28:48,710
+probably the event that causes the party
+to roll for initiative. So it won't just
+
+1272
+00:28:48,710 --> 00:28:48,720
+to roll for initiative. So it won't just
+ 
+
+1273
+00:28:48,720 --> 00:28:51,190
+to roll for initiative. So it won't just
+be the haunt that's rolling initiative
+
+1274
+00:28:51,190 --> 00:28:51,200
+be the haunt that's rolling initiative
+ 
+
+1275
+00:28:51,200 --> 00:28:53,590
+be the haunt that's rolling initiative
+and being slotted in. It's everybody's
+
+1276
+00:28:53,590 --> 00:28:53,600
+and being slotted in. It's everybody's
+ 
+
+1277
+00:28:53,600 --> 00:28:57,669
+and being slotted in. It's everybody's
+rolling initiative now. And um and it's
+
+1278
+00:28:57,669 --> 00:28:57,679
+rolling initiative now. And um and it's
+ 
+
+1279
+00:28:57,679 --> 00:28:59,510
+rolling initiative now. And um and it's
+doing stealth for it and it goes in
+
+1280
+00:28:59,510 --> 00:28:59,520
+doing stealth for it and it goes in
+ 
+
+1281
+00:28:59,520 --> 00:29:02,549
+doing stealth for it and it goes in
+wherever wherever makes sense.
+
+1282
+00:29:02,549 --> 00:29:02,559
+wherever wherever makes sense.
+ 
+
+1283
+00:29:02,559 --> 00:29:04,710
+wherever wherever makes sense.
+Now another thing that uh sometimes
+
+1284
+00:29:04,710 --> 00:29:04,720
+Now another thing that uh sometimes
+ 
+
+1285
+00:29:04,720 --> 00:29:06,389
+Now another thing that uh sometimes
+comes up is well how many times does it
+
+1286
+00:29:06,389 --> 00:29:06,399
+comes up is well how many times does it
+ 
+
+1287
+00:29:06,399 --> 00:29:08,070
+comes up is well how many times does it
+do this reaction? Does it keep doing
+
+1288
+00:29:08,070 --> 00:29:08,080
+do this reaction? Does it keep doing
+ 
+
+1289
+00:29:08,080 --> 00:29:11,269
+do this reaction? Does it keep doing
+this this reaction uh every time
+
+1290
+00:29:11,269 --> 00:29:11,279
+this this reaction uh every time
+ 
+
+1291
+00:29:11,279 --> 00:29:13,990
+this this reaction uh every time
+somebody steps within 10 ft of it? Uh
+
+1292
+00:29:13,990 --> 00:29:14,000
+somebody steps within 10 ft of it? Uh
+ 
+
+1293
+00:29:14,000 --> 00:29:18,230
+somebody steps within 10 ft of it? Uh
+no. on these hazards. The reaction is
+
+1294
+00:29:18,230 --> 00:29:18,240
+no. on these hazards. The reaction is
+ 
+
+1295
+00:29:18,240 --> 00:29:21,430
+no. on these hazards. The reaction is
+the initial trigger that sets it off. In
+
+1296
+00:29:21,430 --> 00:29:21,440
+the initial trigger that sets it off. In
+ 
+
+1297
+00:29:21,440 --> 00:29:23,990
+the initial trigger that sets it off. In
+the case of a simple hazard, it's a one
+
+1298
+00:29:23,990 --> 00:29:24,000
+the case of a simple hazard, it's a one
+ 
+
+1299
+00:29:24,000 --> 00:29:26,070
+the case of a simple hazard, it's a one
+and done again like a landmine. In the
+
+1300
+00:29:26,070 --> 00:29:26,080
+and done again like a landmine. In the
+ 
+
+1301
+00:29:26,080 --> 00:29:28,549
+and done again like a landmine. In the
+case of a complex hazard like this one,
+
+1302
+00:29:28,549 --> 00:29:28,559
+case of a complex hazard like this one,
+ 
+
+1303
+00:29:28,559 --> 00:29:30,710
+case of a complex hazard like this one,
+it uh does it once. It triggers you to
+
+1304
+00:29:30,710 --> 00:29:30,720
+it uh does it once. It triggers you to
+ 
+
+1305
+00:29:30,720 --> 00:29:33,350
+it uh does it once. It triggers you to
+roll initiative and then it goes into
+
+1306
+00:29:33,350 --> 00:29:33,360
+roll initiative and then it goes into
+ 
+
+1307
+00:29:33,360 --> 00:29:36,230
+roll initiative and then it goes into
+its routine. So, let's take a look at
+
+1308
+00:29:36,230 --> 00:29:36,240
+its routine. So, let's take a look at
+ 
+
+1309
+00:29:36,240 --> 00:29:39,669
+its routine. So, let's take a look at
+its routine. Says routine one action.
+
+1310
+00:29:39,669 --> 00:29:39,679
+its routine. Says routine one action.
+ 
+
+1311
+00:29:39,679 --> 00:29:42,149
+its routine. Says routine one action.
+Phantom flames rage across the haunted
+
+1312
+00:29:42,149 --> 00:29:42,159
+Phantom flames rage across the haunted
+ 
+
+1313
+00:29:42,159 --> 00:29:45,350
+Phantom flames rage across the haunted
+area, dealing 4d6 fire damage to each
+
+1314
+00:29:45,350 --> 00:29:45,360
+area, dealing 4d6 fire damage to each
+ 
+
+1315
+00:29:45,360 --> 00:29:47,909
+area, dealing 4d6 fire damage to each
+living creature within the area. Uh,
+
+1316
+00:29:47,909 --> 00:29:47,919
+living creature within the area. Uh,
+ 
+
+1317
+00:29:47,919 --> 00:29:50,870
+living creature within the area. Uh,
+DC23 basic will save. Undead creatures
+
+1318
+00:29:50,870 --> 00:29:50,880
+DC23 basic will save. Undead creatures
+ 
+
+1319
+00:29:50,880 --> 00:29:53,269
+DC23 basic will save. Undead creatures
+in the area are infused with flames for
+
+1320
+00:29:53,269 --> 00:29:53,279
+in the area are infused with flames for
+ 
+
+1321
+00:29:53,279 --> 00:29:55,750
+in the area are infused with flames for
+the following round. They gain the fire
+
+1322
+00:29:55,750 --> 00:29:55,760
+the following round. They gain the fire
+ 
+
+1323
+00:29:55,760 --> 00:29:58,630
+the following round. They gain the fire
+trait and immunity to fire and all their
+
+1324
+00:29:58,630 --> 00:29:58,640
+trait and immunity to fire and all their
+ 
+
+1325
+00:29:58,640 --> 00:30:00,549
+trait and immunity to fire and all their
+attacks deal an additional 1d6 fire
+
+1326
+00:30:00,549 --> 00:30:00,559
+attacks deal an additional 1d6 fire
+ 
+
+1327
+00:30:00,559 --> 00:30:02,710
+attacks deal an additional 1d6 fire
+damage. Objects in the area are
+
+1328
+00:30:02,710 --> 00:30:02,720
+damage. Objects in the area are
+ 
+
+1329
+00:30:02,720 --> 00:30:05,669
+damage. Objects in the area are
+unaffected. Okay. So, if a player gets
+
+1330
+00:30:05,669 --> 00:30:05,679
+unaffected. Okay. So, if a player gets
+ 
+
+1331
+00:30:05,679 --> 00:30:08,470
+unaffected. Okay. So, if a player gets
+within uh so close to it, it's going to
+
+1332
+00:30:08,470 --> 00:30:08,480
+within uh so close to it, it's going to
+ 
+
+1333
+00:30:08,480 --> 00:30:11,269
+within uh so close to it, it's going to
+initially trigger that reaction and then
+
+1334
+00:30:11,269 --> 00:30:11,279
+initially trigger that reaction and then
+ 
+
+1335
+00:30:11,279 --> 00:30:14,310
+initially trigger that reaction and then
+when it comes to the eternal flames turn
+
+1336
+00:30:14,310 --> 00:30:14,320
+when it comes to the eternal flames turn
+ 
+
+1337
+00:30:14,320 --> 00:30:17,110
+when it comes to the eternal flames turn
+in the initiative order, it's going to
+
+1338
+00:30:17,110 --> 00:30:17,120
+in the initiative order, it's going to
+ 
+
+1339
+00:30:17,120 --> 00:30:19,669
+in the initiative order, it's going to
+have one action. Now, the parenthetical
+
+1340
+00:30:19,669 --> 00:30:19,679
+have one action. Now, the parenthetical
+ 
+
+1341
+00:30:19,679 --> 00:30:22,310
+have one action. Now, the parenthetical
+one action means it has one action to
+
+1342
+00:30:22,310 --> 00:30:22,320
+one action means it has one action to
+ 
+
+1343
+00:30:22,320 --> 00:30:25,190
+one action means it has one action to
+spend. Some haunts and hazards could
+
+1344
+00:30:25,190 --> 00:30:25,200
+spend. Some haunts and hazards could
+ 
+
+1345
+00:30:25,200 --> 00:30:27,590
+spend. Some haunts and hazards could
+have three actions. They could have six
+
+1346
+00:30:27,590 --> 00:30:27,600
+have three actions. They could have six
+ 
+
+1347
+00:30:27,600 --> 00:30:29,510
+have three actions. They could have six
+actions. They could have who knows how
+
+1348
+00:30:29,510 --> 00:30:29,520
+actions. They could have who knows how
+ 
+
+1349
+00:30:29,520 --> 00:30:32,230
+actions. They could have who knows how
+many actions, but uh they're not
+
+1350
+00:30:32,230 --> 00:30:32,240
+many actions, but uh they're not
+ 
+
+1351
+00:30:32,240 --> 00:30:33,830
+many actions, but uh they're not
+designed like creatures where the
+
+1352
+00:30:33,830 --> 00:30:33,840
+designed like creatures where the
+ 
+
+1353
+00:30:33,840 --> 00:30:36,310
+designed like creatures where the
+assumption is three actions. Instead, it
+
+1354
+00:30:36,310 --> 00:30:36,320
+assumption is three actions. Instead, it
+ 
+
+1355
+00:30:36,320 --> 00:30:38,389
+assumption is three actions. Instead, it
+spells it out here as one action and it
+
+1356
+00:30:38,389 --> 00:30:38,399
+spells it out here as one action and it
+ 
+
+1357
+00:30:38,399 --> 00:30:40,789
+spells it out here as one action and it
+spins that one action on causing the
+
+1358
+00:30:40,789 --> 00:30:40,799
+spins that one action on causing the
+ 
+
+1359
+00:30:40,799 --> 00:30:42,549
+spins that one action on causing the
+phantom flames to rage across the
+
+1360
+00:30:42,549 --> 00:30:42,559
+phantom flames to rage across the
+ 
+
+1361
+00:30:42,559 --> 00:30:45,750
+phantom flames to rage across the
+haunted area. Um,
+
+1362
+00:30:45,750 --> 00:30:45,760
+haunted area. Um,
+ 
+
+1363
+00:30:45,760 --> 00:30:48,950
+haunted area. Um,
+so it has one action and it spins it,
+
+1364
+00:30:48,950 --> 00:30:48,960
+so it has one action and it spins it,
+ 
+
+1365
+00:30:48,960 --> 00:30:50,470
+so it has one action and it spins it,
+which means that this is the only thing
+
+1366
+00:30:50,470 --> 00:30:50,480
+which means that this is the only thing
+ 
+
+1367
+00:30:50,480 --> 00:30:52,389
+which means that this is the only thing
+it does on its turn in initiative and it
+
+1368
+00:30:52,389 --> 00:30:52,399
+it does on its turn in initiative and it
+ 
+
+1369
+00:30:52,399 --> 00:30:55,110
+it does on its turn in initiative and it
+does it one time. The one action doesn't
+
+1370
+00:30:55,110 --> 00:30:55,120
+does it one time. The one action doesn't
+ 
+
+1371
+00:30:55,120 --> 00:30:57,430
+does it one time. The one action doesn't
+mean that the phantom flames costs one
+
+1372
+00:30:57,430 --> 00:30:57,440
+mean that the phantom flames costs one
+ 
+
+1373
+00:30:57,440 --> 00:30:58,950
+mean that the phantom flames costs one
+action. Has three actions. Therefore, it
+
+1374
+00:30:58,950 --> 00:30:58,960
+action. Has three actions. Therefore, it
+ 
+
+1375
+00:30:58,960 --> 00:31:02,149
+action. Has three actions. Therefore, it
+would do this three times. No, it has
+
+1376
+00:31:02,149 --> 00:31:02,159
+would do this three times. No, it has
+ 
+
+1377
+00:31:02,159 --> 00:31:03,909
+would do this three times. No, it has
+one action. This costs one action.
+
+1378
+00:31:03,909 --> 00:31:03,919
+one action. This costs one action.
+ 
+
+1379
+00:31:03,919 --> 00:31:07,909
+one action. This costs one action.
+Causes the phantom flames to to uh to
+
+1380
+00:31:07,909 --> 00:31:07,919
+Causes the phantom flames to to uh to
+ 
+
+1381
+00:31:07,919 --> 00:31:11,350
+Causes the phantom flames to to uh to
+envelop this area. Now, the one thing
+
+1382
+00:31:11,350 --> 00:31:11,360
+envelop this area. Now, the one thing
+ 
+
+1383
+00:31:11,360 --> 00:31:14,710
+envelop this area. Now, the one thing
+about this particular hazard that I
+
+1384
+00:31:14,710 --> 00:31:14,720
+about this particular hazard that I
+ 
+
+1385
+00:31:14,720 --> 00:31:17,510
+about this particular hazard that I
+don't really like is it makes references
+
+1386
+00:31:17,510 --> 00:31:17,520
+don't really like is it makes references
+ 
+
+1387
+00:31:17,520 --> 00:31:20,149
+don't really like is it makes references
+to quote unquote the haunted area, but I
+
+1388
+00:31:20,149 --> 00:31:20,159
+to quote unquote the haunted area, but I
+ 
+
+1389
+00:31:20,159 --> 00:31:22,070
+to quote unquote the haunted area, but I
+don't really see anywhere in the text
+
+1390
+00:31:22,070 --> 00:31:22,080
+don't really see anywhere in the text
+ 
+
+1391
+00:31:22,080 --> 00:31:25,110
+don't really see anywhere in the text
+that it very clearly defines what the
+
+1392
+00:31:25,110 --> 00:31:25,120
+that it very clearly defines what the
+ 
+
+1393
+00:31:25,120 --> 00:31:28,549
+that it very clearly defines what the
+haunted area is. Uh, I personally am
+
+1394
+00:31:28,549 --> 00:31:28,559
+haunted area is. Uh, I personally am
+ 
+
+1395
+00:31:28,559 --> 00:31:31,510
+haunted area is. Uh, I personally am
+going to take the haunted area to be uh
+
+1396
+00:31:31,510 --> 00:31:31,520
+going to take the haunted area to be uh
+ 
+
+1397
+00:31:31,520 --> 00:31:33,830
+going to take the haunted area to be uh
+anywhere within 10 ft of the charred
+
+1398
+00:31:33,830 --> 00:31:33,840
+anywhere within 10 ft of the charred
+ 
+
+1399
+00:31:33,840 --> 00:31:35,750
+anywhere within 10 ft of the charred
+remains of any of the victims of the
+
+1400
+00:31:35,750 --> 00:31:35,760
+remains of any of the victims of the
+ 
+
+1401
+00:31:35,760 --> 00:31:38,389
+remains of any of the victims of the
+original fire because uh that's what the
+
+1402
+00:31:38,389 --> 00:31:38,399
+original fire because uh that's what the
+ 
+
+1403
+00:31:38,399 --> 00:31:43,430
+original fire because uh that's what the
+trigger is. And that is the only thing I
+
+1404
+00:31:43,430 --> 00:31:43,440
+trigger is. And that is the only thing I
+ 
+
+1405
+00:31:43,440 --> 00:31:46,230
+trigger is. And that is the only thing I
+see in the this text that talks about
+
+1406
+00:31:46,230 --> 00:31:46,240
+see in the this text that talks about
+ 
+
+1407
+00:31:46,240 --> 00:31:49,190
+see in the this text that talks about
+area. Um, and it it I could just be
+
+1408
+00:31:49,190 --> 00:31:49,200
+area. Um, and it it I could just be
+ 
+
+1409
+00:31:49,200 --> 00:31:50,549
+area. Um, and it it I could just be
+blind. Maybe there's something there
+
+1410
+00:31:50,549 --> 00:31:50,559
+blind. Maybe there's something there
+ 
+
+1411
+00:31:50,559 --> 00:31:51,990
+blind. Maybe there's something there
+that I'm missing. If there is, let me
+
+1412
+00:31:51,990 --> 00:31:52,000
+that I'm missing. If there is, let me
+ 
+
+1413
+00:31:52,000 --> 00:31:54,230
+that I'm missing. If there is, let me
+know. Uh, otherwise it could just be up
+
+1414
+00:31:54,230 --> 00:31:54,240
+know. Uh, otherwise it could just be up
+ 
+
+1415
+00:31:54,240 --> 00:31:56,789
+know. Uh, otherwise it could just be up
+to your GM to, you know, make a
+
+1416
+00:31:56,789 --> 00:31:56,799
+to your GM to, you know, make a
+ 
+
+1417
+00:31:56,799 --> 00:31:59,269
+to your GM to, you know, make a
+determination that this entire cave,
+
+1418
+00:31:59,269 --> 00:31:59,279
+determination that this entire cave,
+ 
+
+1419
+00:31:59,279 --> 00:32:01,750
+determination that this entire cave,
+this room, whatever, you know, it is
+
+1420
+00:32:01,750 --> 00:32:01,760
+this room, whatever, you know, it is
+ 
+
+1421
+00:32:01,760 --> 00:32:03,590
+this room, whatever, you know, it is
+this building that is haunted. And we're
+
+1422
+00:32:03,590 --> 00:32:03,600
+this building that is haunted. And we're
+ 
+
+1423
+00:32:03,600 --> 00:32:05,990
+this building that is haunted. And we're
+going to call this the haunted area. But
+
+1424
+00:32:05,990 --> 00:32:06,000
+going to call this the haunted area. But
+ 
+
+1425
+00:32:06,000 --> 00:32:07,430
+going to call this the haunted area. But
+mechanically speaking, I don't see
+
+1426
+00:32:07,430 --> 00:32:07,440
+mechanically speaking, I don't see
+ 
+
+1427
+00:32:07,440 --> 00:32:09,190
+mechanically speaking, I don't see
+anything else here that uh clearly
+
+1428
+00:32:09,190 --> 00:32:09,200
+anything else here that uh clearly
+ 
+
+1429
+00:32:09,200 --> 00:32:13,190
+anything else here that uh clearly
+defines what the haunted area is. Um,
+
+1430
+00:32:13,190 --> 00:32:13,200
+defines what the haunted area is. Um,
+ 
+
+1431
+00:32:13,200 --> 00:32:14,710
+defines what the haunted area is. Um,
+keep in mind that these are phantom
+
+1432
+00:32:14,710 --> 00:32:14,720
+keep in mind that these are phantom
+ 
+
+1433
+00:32:14,720 --> 00:32:16,710
+keep in mind that these are phantom
+flames. They're not, you know, actual
+
+1434
+00:32:16,710 --> 00:32:16,720
+flames. They're not, you know, actual
+ 
+
+1435
+00:32:16,720 --> 00:32:19,190
+flames. They're not, you know, actual
+physical flames. Uh, so you're making
+
+1436
+00:32:19,190 --> 00:32:19,200
+physical flames. Uh, so you're making
+ 
+
+1437
+00:32:19,200 --> 00:32:22,070
+physical flames. Uh, so you're making
+basic will saves for these and because
+
+1438
+00:32:22,070 --> 00:32:22,080
+basic will saves for these and because
+ 
+
+1439
+00:32:22,080 --> 00:32:24,389
+basic will saves for these and because
+they are are fantasmal nature objects
+
+1440
+00:32:24,389 --> 00:32:24,399
+they are are fantasmal nature objects
+ 
+
+1441
+00:32:24,399 --> 00:32:26,950
+they are are fantasmal nature objects
+are not affected. Now, another question
+
+1442
+00:32:26,950 --> 00:32:26,960
+are not affected. Now, another question
+ 
+
+1443
+00:32:26,960 --> 00:32:29,110
+are not affected. Now, another question
+that sometimes comes up is with regards
+
+1444
+00:32:29,110 --> 00:32:29,120
+that sometimes comes up is with regards
+ 
+
+1445
+00:32:29,120 --> 00:32:31,830
+that sometimes comes up is with regards
+to disable uh once it moves into its
+
+1446
+00:32:31,830 --> 00:32:31,840
+to disable uh once it moves into its
+ 
+
+1447
+00:32:31,840 --> 00:32:35,350
+to disable uh once it moves into its
+routine, is it too late to disable it?
+
+1448
+00:32:35,350 --> 00:32:35,360
+routine, is it too late to disable it?
+ 
+
+1449
+00:32:35,360 --> 00:32:38,710
+routine, is it too late to disable it?
+Um, and the answer is no. Um, as long as
+
+1450
+00:32:38,710 --> 00:32:38,720
+Um, and the answer is no. Um, as long as
+ 
+
+1451
+00:32:38,720 --> 00:32:41,750
+Um, and the answer is no. Um, as long as
+the haunt is active in any form, uh, you
+
+1452
+00:32:41,750 --> 00:32:41,760
+the haunt is active in any form, uh, you
+ 
+
+1453
+00:32:41,760 --> 00:32:44,310
+the haunt is active in any form, uh, you
+can attempt to disable it, not just
+
+1454
+00:32:44,310 --> 00:32:44,320
+can attempt to disable it, not just
+ 
+
+1455
+00:32:44,320 --> 00:32:49,029
+can attempt to disable it, not just
+before it goes off, so to speak. So, you
+
+1456
+00:32:49,029 --> 00:32:49,039
+before it goes off, so to speak. So, you
+ 
+
+1457
+00:32:49,039 --> 00:32:50,310
+before it goes off, so to speak. So, you
+go into a combat encounter, you're going
+
+1458
+00:32:50,310 --> 00:32:50,320
+go into a combat encounter, you're going
+ 
+
+1459
+00:32:50,320 --> 00:32:52,070
+go into a combat encounter, you're going
+to be fighting some other in this area,
+
+1460
+00:32:52,070 --> 00:32:52,080
+to be fighting some other in this area,
+ 
+
+1461
+00:32:52,080 --> 00:32:53,990
+to be fighting some other in this area,
+probably some skeletons, whatnot.
+
+1462
+00:32:53,990 --> 00:32:54,000
+probably some skeletons, whatnot.
+ 
+
+1463
+00:32:54,000 --> 00:32:56,310
+probably some skeletons, whatnot.
+They're going to be buffed by this uh by
+
+1464
+00:32:56,310 --> 00:32:56,320
+They're going to be buffed by this uh by
+ 
+
+1465
+00:32:56,320 --> 00:32:59,190
+They're going to be buffed by this uh by
+by this area. You're going to be dealing
+
+1466
+00:32:59,190 --> 00:32:59,200
+by this area. You're going to be dealing
+ 
+
+1467
+00:32:59,200 --> 00:33:02,149
+by this area. You're going to be dealing
+with uh suffering damage. On your turn,
+
+1468
+00:33:02,149 --> 00:33:02,159
+with uh suffering damage. On your turn,
+ 
+
+1469
+00:33:02,159 --> 00:33:03,430
+with uh suffering damage. On your turn,
+you can take your actions. And if those
+
+1470
+00:33:03,430 --> 00:33:03,440
+you can take your actions. And if those
+ 
+
+1471
+00:33:03,440 --> 00:33:05,830
+you can take your actions. And if those
+can be those can be attacking the the
+
+1472
+00:33:05,830 --> 00:33:05,840
+can be those can be attacking the the
+ 
+
+1473
+00:33:05,840 --> 00:33:08,710
+can be those can be attacking the the
+undead creatures. They can be making uh
+
+1474
+00:33:08,710 --> 00:33:08,720
+undead creatures. They can be making uh
+ 
+
+1475
+00:33:08,720 --> 00:33:10,950
+undead creatures. They can be making uh
+disabled checks, what have you as normal
+
+1476
+00:33:10,950 --> 00:33:10,960
+disabled checks, what have you as normal
+ 
+
+1477
+00:33:10,960 --> 00:33:14,630
+disabled checks, what have you as normal
+in encounter mode. Um but yeah, you can
+
+1478
+00:33:14,630 --> 00:33:14,640
+in encounter mode. Um but yeah, you can
+ 
+
+1479
+00:33:14,640 --> 00:33:16,870
+in encounter mode. Um but yeah, you can
+continue to try to make those disabled
+
+1480
+00:33:16,870 --> 00:33:16,880
+continue to try to make those disabled
+ 
+
+1481
+00:33:16,880 --> 00:33:19,190
+continue to try to make those disabled
+checks. And if you do make those uh
+
+1482
+00:33:19,190 --> 00:33:19,200
+checks. And if you do make those uh
+ 
+
+1483
+00:33:19,200 --> 00:33:21,750
+checks. And if you do make those uh
+three successes in the middle of combat
+
+1484
+00:33:21,750 --> 00:33:21,760
+three successes in the middle of combat
+ 
+
+1485
+00:33:21,760 --> 00:33:23,509
+three successes in the middle of combat
+is going to shut down the haunt. The
+
+1486
+00:33:23,509 --> 00:33:23,519
+is going to shut down the haunt. The
+ 
+
+1487
+00:33:23,519 --> 00:33:27,990
+is going to shut down the haunt. The
+haunt just ceases to be active. But, uh,
+
+1488
+00:33:27,990 --> 00:33:28,000
+haunt just ceases to be active. But, uh,
+ 
+
+1489
+00:33:28,000 --> 00:33:29,590
+haunt just ceases to be active. But, uh,
+as mentioned before, the weird thing
+
+1490
+00:33:29,590 --> 00:33:29,600
+as mentioned before, the weird thing
+ 
+
+1491
+00:33:29,600 --> 00:33:32,389
+as mentioned before, the weird thing
+about haunts is they're never
+
+1492
+00:33:32,389 --> 00:33:32,399
+about haunts is they're never
+ 
+
+1493
+00:33:32,399 --> 00:33:36,470
+about haunts is they're never
+permanently, uh, disabled and destroyed,
+
+1494
+00:33:36,470 --> 00:33:36,480
+permanently, uh, disabled and destroyed,
+ 
+
+1495
+00:33:36,480 --> 00:33:38,950
+permanently, uh, disabled and destroyed,
+so to speak, unless a piece of
+
+1496
+00:33:38,950 --> 00:33:38,960
+so to speak, unless a piece of
+ 
+
+1497
+00:33:38,960 --> 00:33:41,509
+so to speak, unless a piece of
+unfinished business is dealt with. And
+
+1498
+00:33:41,509 --> 00:33:41,519
+unfinished business is dealt with. And
+ 
+
+1499
+00:33:41,519 --> 00:33:42,950
+unfinished business is dealt with. And
+so, we see at the very bottom here, it
+
+1500
+00:33:42,950 --> 00:33:42,960
+so, we see at the very bottom here, it
+ 
+
+1501
+00:33:42,960 --> 00:33:45,110
+so, we see at the very bottom here, it
+says, "The flames cease one minute after
+
+1502
+00:33:45,110 --> 00:33:45,120
+says, "The flames cease one minute after
+ 
+
+1503
+00:33:45,120 --> 00:33:47,430
+says, "The flames cease one minute after
+all living creatures leave the area, but
+
+1504
+00:33:47,430 --> 00:33:47,440
+all living creatures leave the area, but
+ 
+
+1505
+00:33:47,440 --> 00:33:50,470
+all living creatures leave the area, but
+after 1 hour, the anger and pain simmer
+
+1506
+00:33:50,470 --> 00:33:50,480
+after 1 hour, the anger and pain simmer
+ 
+
+1507
+00:33:50,480 --> 00:33:52,389
+after 1 hour, the anger and pain simmer
+up, and the haunt is ready to trigger
+
+1508
+00:33:52,389 --> 00:33:52,399
+up, and the haunt is ready to trigger
+ 
+
+1509
+00:33:52,399 --> 00:33:53,830
+up, and the haunt is ready to trigger
+again."
+
+1510
+00:33:53,830 --> 00:33:53,840
+again."
+ 
+
+1511
+00:33:53,840 --> 00:33:56,549
+again."
+So, even if you succeed on these these
+
+1512
+00:33:56,549 --> 00:33:56,559
+So, even if you succeed on these these
+ 
+
+1513
+00:33:56,559 --> 00:34:01,110
+So, even if you succeed on these these
+three uh checks to disable it, one hour
+
+1514
+00:34:01,110 --> 00:34:01,120
+three uh checks to disable it, one hour
+ 
+
+1515
+00:34:01,120 --> 00:34:03,590
+three uh checks to disable it, one hour
+later, it's going to become active
+
+1516
+00:34:03,590 --> 00:34:03,600
+later, it's going to become active
+ 
+
+1517
+00:34:03,600 --> 00:34:06,389
+later, it's going to become active
+again. And if somebody comes within 10
+
+1518
+00:34:06,389 --> 00:34:06,399
+again. And if somebody comes within 10
+ 
+
+1519
+00:34:06,399 --> 00:34:09,190
+again. And if somebody comes within 10
+ft of those bodies, uh they're going to
+
+1520
+00:34:09,190 --> 00:34:09,200
+ft of those bodies, uh they're going to
+ 
+
+1521
+00:34:09,200 --> 00:34:12,629
+ft of those bodies, uh they're going to
+trigger the searing agony uh reaction
+
+1522
+00:34:12,629 --> 00:34:12,639
+trigger the searing agony uh reaction
+ 
+
+1523
+00:34:12,639 --> 00:34:14,230
+trigger the searing agony uh reaction
+and then it's going to go into encounter
+
+1524
+00:34:14,230 --> 00:34:14,240
+and then it's going to go into encounter
+ 
+
+1525
+00:34:14,240 --> 00:34:15,750
+and then it's going to go into encounter
+mode and it's going to or go into
+
+1526
+00:34:15,750 --> 00:34:15,760
+mode and it's going to or go into
+ 
+
+1527
+00:34:15,760 --> 00:34:17,270
+mode and it's going to or go into
+initiative and it's going to roll
+
+1528
+00:34:17,270 --> 00:34:17,280
+initiative and it's going to roll
+ 
+
+1529
+00:34:17,280 --> 00:34:18,629
+initiative and it's going to roll
+initiative using stealth just like
+
+1530
+00:34:18,629 --> 00:34:18,639
+initiative using stealth just like
+ 
+
+1531
+00:34:18,639 --> 00:34:20,069
+initiative using stealth just like
+before and it just keeps repeating
+
+1532
+00:34:20,069 --> 00:34:20,079
+before and it just keeps repeating
+ 
+
+1533
+00:34:20,079 --> 00:34:21,510
+before and it just keeps repeating
+itself.
+
+1534
+00:34:21,510 --> 00:34:21,520
+itself.
+ 
+
+1535
+00:34:21,520 --> 00:34:23,589
+itself.
+So, the question becomes, well, uh, if
+
+1536
+00:34:23,589 --> 00:34:23,599
+So, the question becomes, well, uh, if
+ 
+
+1537
+00:34:23,599 --> 00:34:25,990
+So, the question becomes, well, uh, if
+the only way to deal with a haunt is
+
+1538
+00:34:25,990 --> 00:34:26,000
+the only way to deal with a haunt is
+ 
+
+1539
+00:34:26,000 --> 00:34:27,990
+the only way to deal with a haunt is
+through resolving the quote unquote
+
+1540
+00:34:27,990 --> 00:34:28,000
+through resolving the quote unquote
+ 
+
+1541
+00:34:28,000 --> 00:34:29,829
+through resolving the quote unquote
+unfinished business, well, how do we do
+
+1542
+00:34:29,829 --> 00:34:29,839
+unfinished business, well, how do we do
+ 
+
+1543
+00:34:29,839 --> 00:34:32,389
+unfinished business, well, how do we do
+that with Eternal Flame?
+
+1544
+00:34:32,389 --> 00:34:32,399
+that with Eternal Flame?
+ 
+
+1545
+00:34:32,399 --> 00:34:34,950
+that with Eternal Flame?
+Some haunts might spell it out. Uh, more
+
+1546
+00:34:34,950 --> 00:34:34,960
+Some haunts might spell it out. Uh, more
+ 
+
+1547
+00:34:34,960 --> 00:34:37,270
+Some haunts might spell it out. Uh, more
+often you would have like an adventure
+
+1548
+00:34:37,270 --> 00:34:37,280
+often you would have like an adventure
+ 
+
+1549
+00:34:37,280 --> 00:34:40,230
+often you would have like an adventure
+module, an adventure path that in the
+
+1550
+00:34:40,230 --> 00:34:40,240
+module, an adventure path that in the
+ 
+
+1551
+00:34:40,240 --> 00:34:43,349
+module, an adventure path that in the
+body descriptive text of that room, it
+
+1552
+00:34:43,349 --> 00:34:43,359
+body descriptive text of that room, it
+ 
+
+1553
+00:34:43,359 --> 00:34:45,030
+body descriptive text of that room, it
+might tell you what the unfinished
+
+1554
+00:34:45,030 --> 00:34:45,040
+might tell you what the unfinished
+ 
+
+1555
+00:34:45,040 --> 00:34:46,790
+might tell you what the unfinished
+business is and how to resolve it
+
+1556
+00:34:46,790 --> 00:34:46,800
+business is and how to resolve it
+ 
+
+1557
+00:34:46,800 --> 00:34:49,589
+business is and how to resolve it
+outside of this stat block. This stat
+
+1558
+00:34:49,589 --> 00:34:49,599
+outside of this stat block. This stat
+ 
+
+1559
+00:34:49,599 --> 00:34:51,589
+outside of this stat block. This stat
+block is just an example taken out of
+
+1560
+00:34:51,589 --> 00:34:51,599
+block is just an example taken out of
+ 
+
+1561
+00:34:51,599 --> 00:34:53,510
+block is just an example taken out of
+out of GM course, so it doesn't have all
+
+1562
+00:34:53,510 --> 00:34:53,520
+out of GM course, so it doesn't have all
+ 
+
+1563
+00:34:53,520 --> 00:34:55,909
+out of GM course, so it doesn't have all
+the narrative context and explanation
+
+1564
+00:34:55,909 --> 00:34:55,919
+the narrative context and explanation
+ 
+
+1565
+00:34:55,919 --> 00:34:58,790
+the narrative context and explanation
+that you would get in a full adventure.
+
+1566
+00:34:58,790 --> 00:34:58,800
+that you would get in a full adventure.
+ 
+
+1567
+00:34:58,800 --> 00:35:01,190
+that you would get in a full adventure.
+Uh, beyond that, it could just be up to
+
+1568
+00:35:01,190 --> 00:35:01,200
+Uh, beyond that, it could just be up to
+ 
+
+1569
+00:35:01,200 --> 00:35:04,230
+Uh, beyond that, it could just be up to
+the GM to make a judgment call on this.
+
+1570
+00:35:04,230 --> 00:35:04,240
+the GM to make a judgment call on this.
+ 
+
+1571
+00:35:04,240 --> 00:35:06,230
+the GM to make a judgment call on this.
+Uh, now when I look at the description,
+
+1572
+00:35:06,230 --> 00:35:06,240
+Uh, now when I look at the description,
+ 
+
+1573
+00:35:06,240 --> 00:35:09,589
+Uh, now when I look at the description,
+the last sentence says uh, and I guess
+
+1574
+00:35:09,589 --> 00:35:09,599
+the last sentence says uh, and I guess
+ 
+
+1575
+00:35:09,599 --> 00:35:12,150
+the last sentence says uh, and I guess
+the very last end of that last sentence,
+
+1576
+00:35:12,150 --> 00:35:12,160
+the very last end of that last sentence,
+ 
+
+1577
+00:35:12,160 --> 00:35:14,150
+the very last end of that last sentence,
+it refers to them as being quote unquote
+
+1578
+00:35:14,150 --> 00:35:14,160
+it refers to them as being quote unquote
+ 
+
+1579
+00:35:14,160 --> 00:35:16,790
+it refers to them as being quote unquote
+unavvened souls that are burning with
+
+1580
+00:35:16,790 --> 00:35:16,800
+unavvened souls that are burning with
+ 
+
+1581
+00:35:16,800 --> 00:35:20,470
+unavvened souls that are burning with
+rage. So, uh, in the absence of any
+
+1582
+00:35:20,470 --> 00:35:20,480
+rage. So, uh, in the absence of any
+ 
+
+1583
+00:35:20,480 --> 00:35:23,510
+rage. So, uh, in the absence of any
+clear text, as a GM, I would probably
+
+1584
+00:35:23,510 --> 00:35:23,520
+clear text, as a GM, I would probably
+ 
+
+1585
+00:35:23,520 --> 00:35:25,670
+clear text, as a GM, I would probably
+say if a if a player wanted to do a, um,
+
+1586
+00:35:25,670 --> 00:35:25,680
+say if a if a player wanted to do a, um,
+ 
+
+1587
+00:35:25,680 --> 00:35:27,910
+say if a if a player wanted to do a, um,
+a recall knowledge and figure out, well,
+
+1588
+00:35:27,910 --> 00:35:27,920
+a recall knowledge and figure out, well,
+ 
+
+1589
+00:35:27,920 --> 00:35:30,710
+a recall knowledge and figure out, well,
+how can I permanently put this to rest?
+
+1590
+00:35:30,710 --> 00:35:30,720
+how can I permanently put this to rest?
+ 
+
+1591
+00:35:30,720 --> 00:35:31,750
+how can I permanently put this to rest?
+Well, you're going to have to adventure
+
+1592
+00:35:31,750 --> 00:35:31,760
+Well, you're going to have to adventure
+ 
+
+1593
+00:35:31,760 --> 00:35:33,190
+Well, you're going to have to adventure
+these these souls. So, you're going to
+
+1594
+00:35:33,190 --> 00:35:33,200
+these these souls. So, you're going to
+ 
+
+1595
+00:35:33,200 --> 00:35:36,310
+these these souls. So, you're going to
+have to find the person, creature,
+
+1596
+00:35:36,310 --> 00:35:36,320
+have to find the person, creature,
+ 
+
+1597
+00:35:36,320 --> 00:35:38,310
+have to find the person, creature,
+monster, whatever that was responsible
+
+1598
+00:35:38,310 --> 00:35:38,320
+monster, whatever that was responsible
+ 
+
+1599
+00:35:38,320 --> 00:35:40,710
+monster, whatever that was responsible
+for these flames, and you're going to
+
+1600
+00:35:40,710 --> 00:35:40,720
+for these flames, and you're going to
+ 
+
+1601
+00:35:40,720 --> 00:35:42,870
+for these flames, and you're going to
+have to bring them to justice, whatever
+
+1602
+00:35:42,870 --> 00:35:42,880
+have to bring them to justice, whatever
+ 
+
+1603
+00:35:42,880 --> 00:35:46,390
+have to bring them to justice, whatever
+justice may mean, to finally put these
+
+1604
+00:35:46,390 --> 00:35:46,400
+justice may mean, to finally put these
+ 
+
+1605
+00:35:46,400 --> 00:35:49,270
+justice may mean, to finally put these
+souls to rest. And if those souls feel
+
+1606
+00:35:49,270 --> 00:35:49,280
+souls to rest. And if those souls feel
+ 
+
+1607
+00:35:49,280 --> 00:35:52,310
+souls to rest. And if those souls feel
+like they have been avenged, then this
+
+1608
+00:35:52,310 --> 00:35:52,320
+like they have been avenged, then this
+ 
+
+1609
+00:35:52,320 --> 00:35:55,190
+like they have been avenged, then this
+eternal flame will no longer be a haunt.
+
+1610
+00:35:55,190 --> 00:35:55,200
+eternal flame will no longer be a haunt.
+ 
+
+1611
+00:35:55,200 --> 00:35:58,230
+eternal flame will no longer be a haunt.
+You will have purified that area, so to
+
+1612
+00:35:58,230 --> 00:35:58,240
+You will have purified that area, so to
+ 
+
+1613
+00:35:58,240 --> 00:36:00,790
+You will have purified that area, so to
+speak. It will no longer be a problem.
+
+1614
+00:36:00,790 --> 00:36:00,800
+speak. It will no longer be a problem.
+ 
+
+1615
+00:36:00,800 --> 00:36:06,069
+speak. It will no longer be a problem.
+Uh, so that's haunts in uh, I guess a
+
+1616
+00:36:06,069 --> 00:36:06,079
+Uh, so that's haunts in uh, I guess a
+ 
+
+1617
+00:36:06,079 --> 00:36:07,510
+Uh, so that's haunts in uh, I guess a
+pretty big nutshell at this point.
+
+1618
+00:36:07,510 --> 00:36:07,520
+pretty big nutshell at this point.
+ 
+
+1619
+00:36:07,520 --> 00:36:10,470
+pretty big nutshell at this point.
+Sorry, I have a tendency to ramble, but
+
+1620
+00:36:10,470 --> 00:36:10,480
+Sorry, I have a tendency to ramble, but
+ 
+
+1621
+00:36:10,480 --> 00:36:14,230
+Sorry, I have a tendency to ramble, but
+a haunt is just a type of a hazard. It
+
+1622
+00:36:14,230 --> 00:36:14,240
+a haunt is just a type of a hazard. It
+ 
+
+1623
+00:36:14,240 --> 00:36:15,829
+a haunt is just a type of a hazard. It
+functions mechanically like any other
+
+1624
+00:36:15,829 --> 00:36:15,839
+functions mechanically like any other
+ 
+
+1625
+00:36:15,839 --> 00:36:19,589
+functions mechanically like any other
+hazard. I think of them as spooky traps.
+
+1626
+00:36:19,589 --> 00:36:19,599
+hazard. I think of them as spooky traps.
+ 
+
+1627
+00:36:19,599 --> 00:36:21,510
+hazard. I think of them as spooky traps.
+Uh, and that would be a trap that does
+
+1628
+00:36:21,510 --> 00:36:21,520
+Uh, and that would be a trap that does
+ 
+
+1629
+00:36:21,520 --> 00:36:24,069
+Uh, and that would be a trap that does
+not have physical elements and physical
+
+1630
+00:36:24,069 --> 00:36:24,079
+not have physical elements and physical
+ 
+
+1631
+00:36:24,079 --> 00:36:28,150
+not have physical elements and physical
+danger, but fantasmal, spectral, perhaps
+
+1632
+00:36:28,150 --> 00:36:28,160
+danger, but fantasmal, spectral, perhaps
+ 
+
+1633
+00:36:28,160 --> 00:36:31,829
+danger, but fantasmal, spectral, perhaps
+even psionic, psychic or illusory
+
+1634
+00:36:31,829 --> 00:36:31,839
+even psionic, psychic or illusory
+ 
+
+1635
+00:36:31,839 --> 00:36:35,349
+even psionic, psychic or illusory
+dangers. Um, if any of this is not
+
+1636
+00:36:35,349 --> 00:36:35,359
+dangers. Um, if any of this is not
+ 
+
+1637
+00:36:35,359 --> 00:36:37,349
+dangers. Um, if any of this is not
+clear, if you have any questions, then
+
+1638
+00:36:37,349 --> 00:36:37,359
+clear, if you have any questions, then
+ 
+
+1639
+00:36:37,359 --> 00:36:39,190
+clear, if you have any questions, then
+please leave those in the comments below
+
+1640
+00:36:39,190 --> 00:36:39,200
+please leave those in the comments below
+ 
+
+1641
+00:36:39,200 --> 00:36:42,230
+please leave those in the comments below
+and I'll try to answer those as I can.
+
+1642
+00:36:42,230 --> 00:36:42,240
+and I'll try to answer those as I can.
+ 
+
+1643
+00:36:42,240 --> 00:36:43,910
+and I'll try to answer those as I can.
+And as always, I want to thank everybody
+
+1644
+00:36:43,910 --> 00:36:43,920
+And as always, I want to thank everybody
+ 
+
+1645
+00:36:43,920 --> 00:36:46,230
+And as always, I want to thank everybody
+for hanging out with me and uh leaving
+
+1646
+00:36:46,230 --> 00:36:46,240
+for hanging out with me and uh leaving
+ 
+
+1647
+00:36:46,240 --> 00:36:47,829
+for hanging out with me and uh leaving
+the comments, clicking the like button,
+
+1648
+00:36:47,829 --> 00:36:47,839
+the comments, clicking the like button,
+ 
+
+1649
+00:36:47,839 --> 00:36:49,190
+the comments, clicking the like button,
+subscribing to the channel, subscribing
+
+1650
+00:36:49,190 --> 00:36:49,200
+subscribing to the channel, subscribing
+ 
+
+1651
+00:36:49,200 --> 00:36:51,030
+subscribing to the channel, subscribing
+to the Patreon, all that good stuff. I
+
+1652
+00:36:51,030 --> 00:36:51,040
+to the Patreon, all that good stuff. I
+ 
+
+1653
+00:36:51,040 --> 00:36:53,510
+to the Patreon, all that good stuff. I
+really appreciate all you folks do to
+
+1654
+00:36:53,510 --> 00:36:53,520
+really appreciate all you folks do to
+ 
+
+1655
+00:36:53,520 --> 00:36:55,349
+really appreciate all you folks do to
+support me. And with that, thanks for
+
+1656
+00:36:55,349 --> 00:36:55,359
+support me. And with that, thanks for
+ 
+
+1657
+00:36:55,359 --> 00:36:59,155
+support me. And with that, thanks for
+watching. Take care and happy gaming.
+
+1658
+00:36:59,155 --> 00:36:59,165
+watching. Take care and happy gaming.
+ 
+
+1659
+00:36:59,165 --> 00:37:04,395
+watching. Take care and happy gaming.
+[music]
+
+1660
+00:37:04,395 --> 00:37:04,405
+
+ 
+
+1661
+00:37:04,405 --> 00:37:07,270
+
+[music]
+
+1662
+00:37:07,270 --> 00:37:07,280
+
+ 
+
+1663
+00:37:07,280 --> 00:37:10,390
+
+Yeah.
+
+1664
+00:37:10,390 --> 00:37:10,400
+
+ 
+
+1665
+00:37:10,400 --> 00:37:13,630
+
+Heat. [music]
+

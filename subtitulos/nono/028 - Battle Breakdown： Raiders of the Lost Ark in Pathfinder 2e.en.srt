@@ -1,0 +1,2225 @@
+1
+00:00:00,799 --> 00:00:02,710
+
+this video is brought to you by battle
+
+2
+00:00:02,710 --> 00:00:02,720
+this video is brought to you by battle
+ 
+
+3
+00:00:02,720 --> 00:00:05,510
+this video is brought to you by battle
+zoo eldamon this expansion to pathfinder
+
+4
+00:00:05,510 --> 00:00:05,520
+zoo eldamon this expansion to pathfinder
+ 
+
+5
+00:00:05,520 --> 00:00:08,470
+zoo eldamon this expansion to pathfinder
+second edition and d5e is a pokemon
+
+6
+00:00:08,470 --> 00:00:08,480
+second edition and d5e is a pokemon
+ 
+
+7
+00:00:08,480 --> 00:00:10,470
+second edition and d5e is a pokemon
+style rule set that will allow all
+
+8
+00:00:10,470 --> 00:00:10,480
+style rule set that will allow all
+ 
+
+9
+00:00:10,480 --> 00:00:13,669
+style rule set that will allow all
+players to collect befriend train and
+
+10
+00:00:13,669 --> 00:00:13,679
+players to collect befriend train and
+ 
+
+11
+00:00:13,679 --> 00:00:16,870
+players to collect befriend train and
+evolve 160 different eldomon join the
+
+12
+00:00:16,870 --> 00:00:16,880
+evolve 160 different eldomon join the
+ 
+
+13
+00:00:16,880 --> 00:00:18,630
+evolve 160 different eldomon join the
+kickstarter campaign for battlezu
+
+14
+00:00:18,630 --> 00:00:18,640
+kickstarter campaign for battlezu
+ 
+
+15
+00:00:18,640 --> 00:00:22,790
+kickstarter campaign for battlezu
+eldamon today
+
+16
+00:00:22,790 --> 00:00:22,800
+
+ 
+
+17
+00:00:22,800 --> 00:00:24,710
+
+welcome to battle breakdown by how it's
+
+18
+00:00:24,710 --> 00:00:24,720
+welcome to battle breakdown by how it's
+ 
+
+19
+00:00:24,720 --> 00:00:26,790
+welcome to battle breakdown by how it's
+played the series that examines famous
+
+20
+00:00:26,790 --> 00:00:26,800
+played the series that examines famous
+ 
+
+21
+00:00:26,800 --> 00:00:28,390
+played the series that examines famous
+scenes from movies through the lens of a
+
+22
+00:00:28,390 --> 00:00:28,400
+scenes from movies through the lens of a
+ 
+
+23
+00:00:28,400 --> 00:00:30,470
+scenes from movies through the lens of a
+role-playing game and illustrates how
+
+24
+00:00:30,470 --> 00:00:30,480
+role-playing game and illustrates how
+ 
+
+25
+00:00:30,480 --> 00:00:32,709
+role-playing game and illustrates how
+those events might play out at the game
+
+26
+00:00:32,709 --> 00:00:32,719
+those events might play out at the game
+ 
+
+27
+00:00:32,719 --> 00:00:34,790
+those events might play out at the game
+table in this edition we'll be looking
+
+28
+00:00:34,790 --> 00:00:34,800
+table in this edition we'll be looking
+ 
+
+29
+00:00:34,800 --> 00:00:38,389
+table in this edition we'll be looking
+at a scene from 1981's indiana jones and
+
+30
+00:00:38,389 --> 00:00:38,399
+at a scene from 1981's indiana jones and
+ 
+
+31
+00:00:38,399 --> 00:00:41,030
+at a scene from 1981's indiana jones and
+the raiders of the lost ark as if it was
+
+32
+00:00:41,030 --> 00:00:41,040
+the raiders of the lost ark as if it was
+ 
+
+33
+00:00:41,040 --> 00:00:44,229
+the raiders of the lost ark as if it was
+an encounter in pathfinder 2nd edition
+
+34
+00:00:44,229 --> 00:00:44,239
+an encounter in pathfinder 2nd edition
+ 
+
+35
+00:00:44,239 --> 00:00:46,630
+an encounter in pathfinder 2nd edition
+in this first part of a two-part video
+
+36
+00:00:46,630 --> 00:00:46,640
+in this first part of a two-part video
+ 
+
+37
+00:00:46,640 --> 00:00:49,510
+in this first part of a two-part video
+series we'll see how gm spielberg runs
+
+38
+00:00:49,510 --> 00:00:49,520
+series we'll see how gm spielberg runs
+ 
+
+39
+00:00:49,520 --> 00:00:52,470
+series we'll see how gm spielberg runs
+indy's travel into the tomb and in part
+
+40
+00:00:52,470 --> 00:00:52,480
+indy's travel into the tomb and in part
+ 
+
+41
+00:00:52,480 --> 00:00:54,630
+indy's travel into the tomb and in part
+2 of the series we'll look at how he
+
+42
+00:00:54,630 --> 00:00:54,640
+2 of the series we'll look at how he
+ 
+
+43
+00:00:54,640 --> 00:00:57,510
+2 of the series we'll look at how he
+gm's indies exit from the tomb we'll
+
+44
+00:00:57,510 --> 00:00:57,520
+gm's indies exit from the tomb we'll
+ 
+
+45
+00:00:57,520 --> 00:00:59,189
+gm's indies exit from the tomb we'll
+pick up the scene shortly after the
+
+46
+00:00:59,189 --> 00:00:59,199
+pick up the scene shortly after the
+ 
+
+47
+00:00:59,199 --> 00:01:01,029
+pick up the scene shortly after the
+start of the movie where indiana jones
+
+48
+00:01:01,029 --> 00:01:01,039
+start of the movie where indiana jones
+ 
+
+49
+00:01:01,039 --> 00:01:03,349
+start of the movie where indiana jones
+and his loyal sidekick satipo are
+
+50
+00:01:03,349 --> 00:01:03,359
+and his loyal sidekick satipo are
+ 
+
+51
+00:01:03,359 --> 00:01:05,109
+and his loyal sidekick satipo are
+raiding an indigenous tomb to steal an
+
+52
+00:01:05,109 --> 00:01:05,119
+raiding an indigenous tomb to steal an
+ 
+
+53
+00:01:05,119 --> 00:01:06,789
+raiding an indigenous tomb to steal an
+idol of religious importance from the
+
+54
+00:01:06,789 --> 00:01:06,799
+idol of religious importance from the
+ 
+
+55
+00:01:06,799 --> 00:01:08,870
+idol of religious importance from the
+local natives so they can then sell it
+
+56
+00:01:08,870 --> 00:01:08,880
+local natives so they can then sell it
+ 
+
+57
+00:01:08,880 --> 00:01:11,270
+local natives so they can then sell it
+to an american museum for profit
+
+58
+00:01:11,270 --> 00:01:11,280
+to an american museum for profit
+ 
+
+59
+00:01:11,280 --> 00:01:13,830
+to an american museum for profit
+mechanically speaking indy is a solo
+
+60
+00:01:13,830 --> 00:01:13,840
+mechanically speaking indy is a solo
+ 
+
+61
+00:01:13,840 --> 00:01:17,270
+mechanically speaking indy is a solo
+player while satopo is an npc
+
+62
+00:01:17,270 --> 00:01:17,280
+player while satopo is an npc
+ 
+
+63
+00:01:17,280 --> 00:01:19,510
+player while satopo is an npc
+indy takes the lead in exploration mode
+
+64
+00:01:19,510 --> 00:01:19,520
+indy takes the lead in exploration mode
+ 
+
+65
+00:01:19,520 --> 00:01:21,270
+indy takes the lead in exploration mode
+and chooses to use the search
+
+66
+00:01:21,270 --> 00:01:21,280
+and chooses to use the search
+ 
+
+67
+00:01:21,280 --> 00:01:24,149
+and chooses to use the search
+exploration activity this allows him to
+
+68
+00:01:24,149 --> 00:01:24,159
+exploration activity this allows him to
+ 
+
+69
+00:01:24,159 --> 00:01:25,830
+exploration activity this allows him to
+make perception checks while moving
+
+70
+00:01:25,830 --> 00:01:25,840
+make perception checks while moving
+ 
+
+71
+00:01:25,840 --> 00:01:28,390
+make perception checks while moving
+slowly to detect anything hidden in the
+
+72
+00:01:28,390 --> 00:01:28,400
+slowly to detect anything hidden in the
+ 
+
+73
+00:01:28,400 --> 00:01:29,350
+slowly to detect anything hidden in the
+area
+
+74
+00:01:29,350 --> 00:01:29,360
+area
+ 
+
+75
+00:01:29,360 --> 00:01:31,670
+area
+regardless of whether or not there is in
+
+76
+00:01:31,670 --> 00:01:31,680
+regardless of whether or not there is in
+ 
+
+77
+00:01:31,680 --> 00:01:34,310
+regardless of whether or not there is in
+fact anything hidden here gm spielberg
+
+78
+00:01:34,310 --> 00:01:34,320
+fact anything hidden here gm spielberg
+ 
+
+79
+00:01:34,320 --> 00:01:37,270
+fact anything hidden here gm spielberg
+rolls in his perception check in secret
+
+80
+00:01:37,270 --> 00:01:37,280
+rolls in his perception check in secret
+ 
+
+81
+00:01:37,280 --> 00:01:39,670
+rolls in his perception check in secret
+indy is an expert in perception and has
+
+82
+00:01:39,670 --> 00:01:39,680
+indy is an expert in perception and has
+ 
+
+83
+00:01:39,680 --> 00:01:42,950
+indy is an expert in perception and has
+a perception bonus of plus 10. so gm
+
+84
+00:01:42,950 --> 00:01:42,960
+a perception bonus of plus 10. so gm
+ 
+
+85
+00:01:42,960 --> 00:01:45,990
+a perception bonus of plus 10. so gm
+spielberg rolls 1d20 plus 10 for a total
+
+86
+00:01:45,990 --> 00:01:46,000
+spielberg rolls 1d20 plus 10 for a total
+ 
+
+87
+00:01:46,000 --> 00:01:47,429
+spielberg rolls 1d20 plus 10 for a total
+of 22.
+
+88
+00:01:47,429 --> 00:01:47,439
+of 22.
+ 
+
+89
+00:01:47,439 --> 00:01:49,910
+of 22.
+there is in fact a trap hidden in this
+
+90
+00:01:49,910 --> 00:01:49,920
+there is in fact a trap hidden in this
+ 
+
+91
+00:01:49,920 --> 00:01:52,630
+there is in fact a trap hidden in this
+area a variation of a common spear
+
+92
+00:01:52,630 --> 00:01:52,640
+area a variation of a common spear
+ 
+
+93
+00:01:52,640 --> 00:01:55,030
+area a variation of a common spear
+launcher trap that creatively uses a
+
+94
+00:01:55,030 --> 00:01:55,040
+launcher trap that creatively uses a
+ 
+
+95
+00:01:55,040 --> 00:01:56,550
+launcher trap that creatively uses a
+different trigger mechanism than a
+
+96
+00:01:56,550 --> 00:01:56,560
+different trigger mechanism than a
+ 
+
+97
+00:01:56,560 --> 00:01:57,830
+different trigger mechanism than a
+pressure plate
+
+98
+00:01:57,830 --> 00:01:57,840
+pressure plate
+ 
+
+99
+00:01:57,840 --> 00:02:00,310
+pressure plate
+per the stat block for this trap a spear
+
+100
+00:02:00,310 --> 00:02:00,320
+per the stat block for this trap a spear
+ 
+
+101
+00:02:00,320 --> 00:02:02,550
+per the stat block for this trap a spear
+trap can be detected with a successful
+
+102
+00:02:02,550 --> 00:02:02,560
+trap can be detected with a successful
+ 
+
+103
+00:02:02,560 --> 00:02:06,310
+trap can be detected with a successful
+perception check against dc20 since indy
+
+104
+00:02:06,310 --> 00:02:06,320
+perception check against dc20 since indy
+ 
+
+105
+00:02:06,320 --> 00:02:09,510
+perception check against dc20 since indy
+rolled a 22 on his check and he is at
+
+106
+00:02:09,510 --> 00:02:09,520
+rolled a 22 on his check and he is at
+ 
+
+107
+00:02:09,520 --> 00:02:12,470
+rolled a 22 on his check and he is at
+least trained in perception gm spielberg
+
+108
+00:02:12,470 --> 00:02:12,480
+least trained in perception gm spielberg
+ 
+
+109
+00:02:12,480 --> 00:02:14,630
+least trained in perception gm spielberg
+tells him that he feels very suspicious
+
+110
+00:02:14,630 --> 00:02:14,640
+tells him that he feels very suspicious
+ 
+
+111
+00:02:14,640 --> 00:02:16,630
+tells him that he feels very suspicious
+about this shaft of light that's coming
+
+112
+00:02:16,630 --> 00:02:16,640
+about this shaft of light that's coming
+ 
+
+113
+00:02:16,640 --> 00:02:18,070
+about this shaft of light that's coming
+through the ceiling
+
+114
+00:02:18,070 --> 00:02:18,080
+through the ceiling
+ 
+
+115
+00:02:18,080 --> 00:02:20,390
+through the ceiling
+indy examines it further and discovers
+
+116
+00:02:20,390 --> 00:02:20,400
+indy examines it further and discovers
+ 
+
+117
+00:02:20,400 --> 00:02:23,270
+indy examines it further and discovers
+the hidden spear trap he says he wishes
+
+118
+00:02:23,270 --> 00:02:23,280
+the hidden spear trap he says he wishes
+ 
+
+119
+00:02:23,280 --> 00:02:25,589
+the hidden spear trap he says he wishes
+to disarm the trap by moving into a safe
+
+120
+00:02:25,589 --> 00:02:25,599
+to disarm the trap by moving into a safe
+ 
+
+121
+00:02:25,599 --> 00:02:28,150
+to disarm the trap by moving into a safe
+place and waving his arm in front of the
+
+122
+00:02:28,150 --> 00:02:28,160
+place and waving his arm in front of the
+ 
+
+123
+00:02:28,160 --> 00:02:30,949
+place and waving his arm in front of the
+light to trigger it gm spielberg decides
+
+124
+00:02:30,949 --> 00:02:30,959
+light to trigger it gm spielberg decides
+ 
+
+125
+00:02:30,959 --> 00:02:33,030
+light to trigger it gm spielberg decides
+to treat this the same as disarming the
+
+126
+00:02:33,030 --> 00:02:33,040
+to treat this the same as disarming the
+ 
+
+127
+00:02:33,040 --> 00:02:35,350
+to treat this the same as disarming the
+trap however it will not prevent the
+
+128
+00:02:35,350 --> 00:02:35,360
+trap however it will not prevent the
+ 
+
+129
+00:02:35,360 --> 00:02:37,750
+trap however it will not prevent the
+trap from automatically retracting and
+
+130
+00:02:37,750 --> 00:02:37,760
+trap from automatically retracting and
+ 
+
+131
+00:02:37,760 --> 00:02:40,390
+trap from automatically retracting and
+re-arming itself after a few minutes
+
+132
+00:02:40,390 --> 00:02:40,400
+re-arming itself after a few minutes
+ 
+
+133
+00:02:40,400 --> 00:02:42,710
+re-arming itself after a few minutes
+gm spielberg has him roll a thievery
+
+134
+00:02:42,710 --> 00:02:42,720
+gm spielberg has him roll a thievery
+ 
+
+135
+00:02:42,720 --> 00:02:43,830
+gm spielberg has him roll a thievery
+skill check
+
+136
+00:02:43,830 --> 00:02:43,840
+skill check
+ 
+
+137
+00:02:43,840 --> 00:02:46,390
+skill check
+indy is an expert in thievery with a
+
+138
+00:02:46,390 --> 00:02:46,400
+indy is an expert in thievery with a
+ 
+
+139
+00:02:46,400 --> 00:02:48,070
+indy is an expert in thievery with a
+plus 11 bonus
+
+140
+00:02:48,070 --> 00:02:48,080
+plus 11 bonus
+ 
+
+141
+00:02:48,080 --> 00:02:51,910
+plus 11 bonus
+he rolls 1-20 plus 11 for a total of 25
+
+142
+00:02:51,910 --> 00:02:51,920
+he rolls 1-20 plus 11 for a total of 25
+ 
+
+143
+00:02:51,920 --> 00:02:54,070
+he rolls 1-20 plus 11 for a total of 25
+which is enough to beat the trap's
+
+144
+00:02:54,070 --> 00:02:54,080
+which is enough to beat the trap's
+ 
+
+145
+00:02:54,080 --> 00:02:57,670
+which is enough to beat the trap's
+disabled dc of 18. the spear trap is
+
+146
+00:02:57,670 --> 00:02:57,680
+disabled dc of 18. the spear trap is
+ 
+
+147
+00:02:57,680 --> 00:02:59,830
+disabled dc of 18. the spear trap is
+safely triggered allowing indie and
+
+148
+00:02:59,830 --> 00:02:59,840
+safely triggered allowing indie and
+ 
+
+149
+00:02:59,840 --> 00:03:02,790
+safely triggered allowing indie and
+satupo to continue deeper into the tomb
+
+150
+00:03:02,790 --> 00:03:02,800
+satupo to continue deeper into the tomb
+ 
+
+151
+00:03:02,800 --> 00:03:05,509
+satupo to continue deeper into the tomb
+they next encounter an open 20 foot wide
+
+152
+00:03:05,509 --> 00:03:05,519
+they next encounter an open 20 foot wide
+ 
+
+153
+00:03:05,519 --> 00:03:08,390
+they next encounter an open 20 foot wide
+pit and far deeper than anyone wishes to
+
+154
+00:03:08,390 --> 00:03:08,400
+pit and far deeper than anyone wishes to
+ 
+
+155
+00:03:08,400 --> 00:03:09,509
+pit and far deeper than anyone wishes to
+find out
+
+156
+00:03:09,509 --> 00:03:09,519
+find out
+ 
+
+157
+00:03:09,519 --> 00:03:12,309
+find out
+since the pit is 20 feet across it is
+
+158
+00:03:12,309 --> 00:03:12,319
+since the pit is 20 feet across it is
+ 
+
+159
+00:03:12,319 --> 00:03:14,309
+since the pit is 20 feet across it is
+too far for the characters to use the
+
+160
+00:03:14,309 --> 00:03:14,319
+too far for the characters to use the
+ 
+
+161
+00:03:14,319 --> 00:03:17,350
+too far for the characters to use the
+leap basic action to cross it instead
+
+162
+00:03:17,350 --> 00:03:17,360
+leap basic action to cross it instead
+ 
+
+163
+00:03:17,360 --> 00:03:19,509
+leap basic action to cross it instead
+they will need to use the long jump
+
+164
+00:03:19,509 --> 00:03:19,519
+they will need to use the long jump
+ 
+
+165
+00:03:19,519 --> 00:03:21,430
+they will need to use the long jump
+application of athletics to cross the
+
+166
+00:03:21,430 --> 00:03:21,440
+application of athletics to cross the
+ 
+
+167
+00:03:21,440 --> 00:03:22,390
+application of athletics to cross the
+pit
+
+168
+00:03:22,390 --> 00:03:22,400
+pit
+ 
+
+169
+00:03:22,400 --> 00:03:25,110
+pit
+the dc for a long jump is equal to the
+
+170
+00:03:25,110 --> 00:03:25,120
+the dc for a long jump is equal to the
+ 
+
+171
+00:03:25,120 --> 00:03:27,990
+the dc for a long jump is equal to the
+number of feet being jumped so a 20-foot
+
+172
+00:03:27,990 --> 00:03:28,000
+number of feet being jumped so a 20-foot
+ 
+
+173
+00:03:28,000 --> 00:03:30,869
+number of feet being jumped so a 20-foot
+pit has a dc of 20.
+
+174
+00:03:30,869 --> 00:03:30,879
+pit has a dc of 20.
+ 
+
+175
+00:03:30,879 --> 00:03:33,350
+pit has a dc of 20.
+with an athletics bonus of plus nine
+
+176
+00:03:33,350 --> 00:03:33,360
+with an athletics bonus of plus nine
+ 
+
+177
+00:03:33,360 --> 00:03:35,670
+with an athletics bonus of plus nine
+indeed has less than a 50 50 chance of
+
+178
+00:03:35,670 --> 00:03:35,680
+indeed has less than a 50 50 chance of
+ 
+
+179
+00:03:35,680 --> 00:03:37,830
+indeed has less than a 50 50 chance of
+success and isn't willing to risk the
+
+180
+00:03:37,830 --> 00:03:37,840
+success and isn't willing to risk the
+ 
+
+181
+00:03:37,840 --> 00:03:39,910
+success and isn't willing to risk the
+consequences of botching the role and
+
+182
+00:03:39,910 --> 00:03:39,920
+consequences of botching the role and
+ 
+
+183
+00:03:39,920 --> 00:03:42,789
+consequences of botching the role and
+falling into a near bottomless pit he
+
+184
+00:03:42,789 --> 00:03:42,799
+falling into a near bottomless pit he
+ 
+
+185
+00:03:42,799 --> 00:03:44,550
+falling into a near bottomless pit he
+tells gm spielberg that he wants to
+
+186
+00:03:44,550 --> 00:03:44,560
+tells gm spielberg that he wants to
+ 
+
+187
+00:03:44,560 --> 00:03:46,789
+tells gm spielberg that he wants to
+examine the area and try to find any
+
+188
+00:03:46,789 --> 00:03:46,799
+examine the area and try to find any
+ 
+
+189
+00:03:46,799 --> 00:03:49,270
+examine the area and try to find any
+other options for crossing the pit gm
+
+190
+00:03:49,270 --> 00:03:49,280
+other options for crossing the pit gm
+ 
+
+191
+00:03:49,280 --> 00:03:51,190
+other options for crossing the pit gm
+spielberg rolls a perception check in
+
+192
+00:03:51,190 --> 00:03:51,200
+spielberg rolls a perception check in
+ 
+
+193
+00:03:51,200 --> 00:03:53,509
+spielberg rolls a perception check in
+secret and then tells indy that the
+
+194
+00:03:53,509 --> 00:03:53,519
+secret and then tells indy that the
+ 
+
+195
+00:03:53,519 --> 00:03:56,229
+secret and then tells indy that the
+walls surrounding the pit are very rough
+
+196
+00:03:56,229 --> 00:03:56,239
+walls surrounding the pit are very rough
+ 
+
+197
+00:03:56,239 --> 00:03:58,550
+walls surrounding the pit are very rough
+with several handholds and there is a
+
+198
+00:03:58,550 --> 00:03:58,560
+with several handholds and there is a
+ 
+
+199
+00:03:58,560 --> 00:04:01,270
+with several handholds and there is a
+wide sturdy root that extends above the
+
+200
+00:04:01,270 --> 00:04:01,280
+wide sturdy root that extends above the
+ 
+
+201
+00:04:01,280 --> 00:04:03,509
+wide sturdy root that extends above the
+pit indy thinks that root would be
+
+202
+00:04:03,509 --> 00:04:03,519
+pit indy thinks that root would be
+ 
+
+203
+00:04:03,519 --> 00:04:05,270
+pit indy thinks that root would be
+perfect for attaching a grappling hook
+
+204
+00:04:05,270 --> 00:04:05,280
+perfect for attaching a grappling hook
+ 
+
+205
+00:04:05,280 --> 00:04:08,710
+perfect for attaching a grappling hook
+and rip 2 or even better his trusty whip
+
+206
+00:04:08,710 --> 00:04:08,720
+and rip 2 or even better his trusty whip
+ 
+
+207
+00:04:08,720 --> 00:04:10,869
+and rip 2 or even better his trusty whip
+gm spielberg reasons that with a whip in
+
+208
+00:04:10,869 --> 00:04:10,879
+gm spielberg reasons that with a whip in
+ 
+
+209
+00:04:10,879 --> 00:04:13,190
+gm spielberg reasons that with a whip in
+place to swing on this will be a little
+
+210
+00:04:13,190 --> 00:04:13,200
+place to swing on this will be a little
+ 
+
+211
+00:04:13,200 --> 00:04:16,870
+place to swing on this will be a little
+easier and he decides to use a simple dc
+
+212
+00:04:16,870 --> 00:04:16,880
+easier and he decides to use a simple dc
+ 
+
+213
+00:04:16,880 --> 00:04:18,870
+easier and he decides to use a simple dc
+trained proficiency sounds about right
+
+214
+00:04:18,870 --> 00:04:18,880
+trained proficiency sounds about right
+ 
+
+215
+00:04:18,880 --> 00:04:21,189
+trained proficiency sounds about right
+to him so he calls this an athletics
+
+216
+00:04:21,189 --> 00:04:21,199
+to him so he calls this an athletics
+ 
+
+217
+00:04:21,199 --> 00:04:24,629
+to him so he calls this an athletics
+check versus dc 15 to safely swing
+
+218
+00:04:24,629 --> 00:04:24,639
+check versus dc 15 to safely swing
+ 
+
+219
+00:04:24,639 --> 00:04:26,230
+check versus dc 15 to safely swing
+across the pit
+
+220
+00:04:26,230 --> 00:04:26,240
+across the pit
+ 
+
+221
+00:04:26,240 --> 00:04:29,189
+across the pit
+in the roles 1d20 and adds his athletic
+
+222
+00:04:29,189 --> 00:04:29,199
+in the roles 1d20 and adds his athletic
+ 
+
+223
+00:04:29,199 --> 00:04:32,790
+in the roles 1d20 and adds his athletic
+skill bonus of 9 for a total of 17 which
+
+224
+00:04:32,790 --> 00:04:32,800
+skill bonus of 9 for a total of 17 which
+ 
+
+225
+00:04:32,800 --> 00:04:34,950
+skill bonus of 9 for a total of 17 which
+is enough for him to safely cross the
+
+226
+00:04:34,950 --> 00:04:34,960
+is enough for him to safely cross the
+ 
+
+227
+00:04:34,960 --> 00:04:39,510
+is enough for him to safely cross the
+pit
+
+228
+00:04:39,510 --> 00:04:39,520
+
+ 
+
+229
+00:04:39,520 --> 00:04:41,590
+
+he tosses the whip back and now it's
+
+230
+00:04:41,590 --> 00:04:41,600
+he tosses the whip back and now it's
+ 
+
+231
+00:04:41,600 --> 00:04:43,030
+he tosses the whip back and now it's
+sodopo's turn
+
+232
+00:04:43,030 --> 00:04:43,040
+sodopo's turn
+ 
+
+233
+00:04:43,040 --> 00:04:45,510
+sodopo's turn
+he has an athletics bonus of plus 5 and
+
+234
+00:04:45,510 --> 00:04:45,520
+he has an athletics bonus of plus 5 and
+ 
+
+235
+00:04:45,520 --> 00:04:48,629
+he has an athletics bonus of plus 5 and
+rolls a 9 on the die for a total of 14
+
+236
+00:04:48,629 --> 00:04:48,639
+rolls a 9 on the die for a total of 14
+ 
+
+237
+00:04:48,639 --> 00:04:51,510
+rolls a 9 on the die for a total of 14
+just barely missing the target of 15 and
+
+238
+00:04:51,510 --> 00:04:51,520
+just barely missing the target of 15 and
+ 
+
+239
+00:04:51,520 --> 00:04:52,469
+just barely missing the target of 15 and
+failing
+
+240
+00:04:52,469 --> 00:04:52,479
+failing
+ 
+
+241
+00:04:52,479 --> 00:04:54,550
+failing
+now this doesn't mean that he falls to
+
+242
+00:04:54,550 --> 00:04:54,560
+now this doesn't mean that he falls to
+ 
+
+243
+00:04:54,560 --> 00:04:56,870
+now this doesn't mean that he falls to
+his death but he likely wouldn't have
+
+244
+00:04:56,870 --> 00:04:56,880
+his death but he likely wouldn't have
+ 
+
+245
+00:04:56,880 --> 00:04:59,270
+his death but he likely wouldn't have
+enough momentum to safely return to the
+
+246
+00:04:59,270 --> 00:04:59,280
+enough momentum to safely return to the
+ 
+
+247
+00:04:59,280 --> 00:05:01,110
+enough momentum to safely return to the
+other side of the pit
+
+248
+00:05:01,110 --> 00:05:01,120
+other side of the pit
+ 
+
+249
+00:05:01,120 --> 00:05:03,430
+other side of the pit
+thinking fast indy's player says he
+
+250
+00:05:03,430 --> 00:05:03,440
+thinking fast indy's player says he
+ 
+
+251
+00:05:03,440 --> 00:05:06,310
+thinking fast indy's player says he
+wants to grab him and pull him to safety
+
+252
+00:05:06,310 --> 00:05:06,320
+wants to grab him and pull him to safety
+ 
+
+253
+00:05:06,320 --> 00:05:08,710
+wants to grab him and pull him to safety
+this isn't entirely hardcoded into the
+
+254
+00:05:08,710 --> 00:05:08,720
+this isn't entirely hardcoded into the
+ 
+
+255
+00:05:08,720 --> 00:05:11,350
+this isn't entirely hardcoded into the
+rules as written but gm spielberg thinks
+
+256
+00:05:11,350 --> 00:05:11,360
+rules as written but gm spielberg thinks
+ 
+
+257
+00:05:11,360 --> 00:05:13,670
+rules as written but gm spielberg thinks
+it's plausible he decides to treat this
+
+258
+00:05:13,670 --> 00:05:13,680
+it's plausible he decides to treat this
+ 
+
+259
+00:05:13,680 --> 00:05:16,469
+it's plausible he decides to treat this
+as a grab and edge action as is usually
+
+260
+00:05:16,469 --> 00:05:16,479
+as a grab and edge action as is usually
+ 
+
+261
+00:05:16,479 --> 00:05:19,270
+as a grab and edge action as is usually
+allowed when falling but allows indy to
+
+262
+00:05:19,270 --> 00:05:19,280
+allowed when falling but allows indy to
+ 
+
+263
+00:05:19,280 --> 00:05:21,749
+allowed when falling but allows indy to
+be the one who rolls it using his higher
+
+264
+00:05:21,749 --> 00:05:21,759
+be the one who rolls it using his higher
+ 
+
+265
+00:05:21,759 --> 00:05:22,790
+be the one who rolls it using his higher
+bonus
+
+266
+00:05:22,790 --> 00:05:22,800
+bonus
+ 
+
+267
+00:05:22,800 --> 00:05:25,270
+bonus
+typically the dc for grab an edge is the
+
+268
+00:05:25,270 --> 00:05:25,280
+typically the dc for grab an edge is the
+ 
+
+269
+00:05:25,280 --> 00:05:27,670
+typically the dc for grab an edge is the
+same as the climb dc to climb up the
+
+270
+00:05:27,670 --> 00:05:27,680
+same as the climb dc to climb up the
+ 
+
+271
+00:05:27,680 --> 00:05:30,230
+same as the climb dc to climb up the
+edge and in this case gm spielberg just
+
+272
+00:05:30,230 --> 00:05:30,240
+edge and in this case gm spielberg just
+ 
+
+273
+00:05:30,240 --> 00:05:32,629
+edge and in this case gm spielberg just
+decides to make things easy and call it
+
+274
+00:05:32,629 --> 00:05:32,639
+decides to make things easy and call it
+ 
+
+275
+00:05:32,639 --> 00:05:35,749
+decides to make things easy and call it
+a dc-15 check the same as the check to
+
+276
+00:05:35,749 --> 00:05:35,759
+a dc-15 check the same as the check to
+ 
+
+277
+00:05:35,759 --> 00:05:37,350
+a dc-15 check the same as the check to
+swing across
+
+278
+00:05:37,350 --> 00:05:37,360
+swing across
+ 
+
+279
+00:05:37,360 --> 00:05:39,749
+swing across
+unlike jumping over the pit which is an
+
+280
+00:05:39,749 --> 00:05:39,759
+unlike jumping over the pit which is an
+ 
+
+281
+00:05:39,759 --> 00:05:41,110
+unlike jumping over the pit which is an
+athletics check
+
+282
+00:05:41,110 --> 00:05:41,120
+athletics check
+ 
+
+283
+00:05:41,120 --> 00:05:44,870
+athletics check
+grab an edge calls for a reflex save
+
+284
+00:05:44,870 --> 00:05:44,880
+grab an edge calls for a reflex save
+ 
+
+285
+00:05:44,880 --> 00:05:47,830
+grab an edge calls for a reflex save
+in the rolls 1d20 plus his reflex save
+
+286
+00:05:47,830 --> 00:05:47,840
+in the rolls 1d20 plus his reflex save
+ 
+
+287
+00:05:47,840 --> 00:05:51,270
+in the rolls 1d20 plus his reflex save
+bonus of plus 11 for a total of 18 and
+
+288
+00:05:51,270 --> 00:05:51,280
+bonus of plus 11 for a total of 18 and
+ 
+
+289
+00:05:51,280 --> 00:05:53,830
+bonus of plus 11 for a total of 18 and
+successfully catches sadapo
+
+290
+00:05:53,830 --> 00:05:53,840
+successfully catches sadapo
+ 
+
+291
+00:05:53,840 --> 00:05:56,309
+successfully catches sadapo
+now this is how it worked in their game
+
+292
+00:05:56,309 --> 00:05:56,319
+now this is how it worked in their game
+ 
+
+293
+00:05:56,319 --> 00:05:58,230
+now this is how it worked in their game
+but it's worth noting that if indy's
+
+294
+00:05:58,230 --> 00:05:58,240
+but it's worth noting that if indy's
+ 
+
+295
+00:05:58,240 --> 00:06:00,469
+but it's worth noting that if indy's
+player had thought ahead they could have
+
+296
+00:06:00,469 --> 00:06:00,479
+player had thought ahead they could have
+ 
+
+297
+00:06:00,479 --> 00:06:02,950
+player had thought ahead they could have
+either used the aid basic action to
+
+298
+00:06:02,950 --> 00:06:02,960
+either used the aid basic action to
+ 
+
+299
+00:06:02,960 --> 00:06:06,070
+either used the aid basic action to
+catch sadapo or a ready action with the
+
+300
+00:06:06,070 --> 00:06:06,080
+catch sadapo or a ready action with the
+ 
+
+301
+00:06:06,080 --> 00:06:08,950
+catch sadapo or a ready action with the
+trigger of sodopo failing his check
+
+302
+00:06:08,950 --> 00:06:08,960
+trigger of sodopo failing his check
+ 
+
+303
+00:06:08,960 --> 00:06:11,510
+trigger of sodopo failing his check
+in the next chamber they find the idol
+
+304
+00:06:11,510 --> 00:06:11,520
+in the next chamber they find the idol
+ 
+
+305
+00:06:11,520 --> 00:06:13,990
+in the next chamber they find the idol
+waiting atop a pedestal
+
+306
+00:06:13,990 --> 00:06:14,000
+waiting atop a pedestal
+ 
+
+307
+00:06:14,000 --> 00:06:18,309
+waiting atop a pedestal
+there's nothing to fit here
+
+308
+00:06:18,309 --> 00:06:18,319
+
+ 
+
+309
+00:06:18,319 --> 00:06:20,790
+
+that's what scares me doc ock has never
+
+310
+00:06:20,790 --> 00:06:20,800
+that's what scares me doc ock has never
+ 
+
+311
+00:06:20,800 --> 00:06:22,629
+that's what scares me doc ock has never
+played a dungeon crawl before and
+
+312
+00:06:22,629 --> 00:06:22,639
+played a dungeon crawl before and
+ 
+
+313
+00:06:22,639 --> 00:06:24,870
+played a dungeon crawl before and
+assumes the area is safe and clear of
+
+314
+00:06:24,870 --> 00:06:24,880
+assumes the area is safe and clear of
+ 
+
+315
+00:06:24,880 --> 00:06:28,309
+assumes the area is safe and clear of
+traps but indy has his suspicions
+
+316
+00:06:28,309 --> 00:06:28,319
+traps but indy has his suspicions
+ 
+
+317
+00:06:28,319 --> 00:06:30,790
+traps but indy has his suspicions
+he carefully examines the area and has
+
+318
+00:06:30,790 --> 00:06:30,800
+he carefully examines the area and has
+ 
+
+319
+00:06:30,800 --> 00:06:33,110
+he carefully examines the area and has
+gm spielberg role a perception check in
+
+320
+00:06:33,110 --> 00:06:33,120
+gm spielberg role a perception check in
+ 
+
+321
+00:06:33,120 --> 00:06:36,950
+gm spielberg role a perception check in
+secret he does so in rolls a total of 23
+
+322
+00:06:36,950 --> 00:06:36,960
+secret he does so in rolls a total of 23
+ 
+
+323
+00:06:36,960 --> 00:06:39,189
+secret he does so in rolls a total of 23
+which is enough to detect the presence
+
+324
+00:06:39,189 --> 00:06:39,199
+which is enough to detect the presence
+ 
+
+325
+00:06:39,199 --> 00:06:41,350
+which is enough to detect the presence
+of a spinning dart trap
+
+326
+00:06:41,350 --> 00:06:41,360
+of a spinning dart trap
+ 
+
+327
+00:06:41,360 --> 00:06:43,670
+of a spinning dart trap
+he then makes a thievery check to disarm
+
+328
+00:06:43,670 --> 00:06:43,680
+he then makes a thievery check to disarm
+ 
+
+329
+00:06:43,680 --> 00:06:46,950
+he then makes a thievery check to disarm
+the trap rolling a total of 24 which is
+
+330
+00:06:46,950 --> 00:06:46,960
+the trap rolling a total of 24 which is
+ 
+
+331
+00:06:46,960 --> 00:06:49,510
+the trap rolling a total of 24 which is
+enough to safely and dramatically render
+
+332
+00:06:49,510 --> 00:06:49,520
+enough to safely and dramatically render
+ 
+
+333
+00:06:49,520 --> 00:06:52,150
+enough to safely and dramatically render
+the trap harmless but gm spielberg
+
+334
+00:06:52,150 --> 00:06:52,160
+the trap harmless but gm spielberg
+ 
+
+335
+00:06:52,160 --> 00:06:54,230
+the trap harmless but gm spielberg
+chimes in that with his previous
+
+336
+00:06:54,230 --> 00:06:54,240
+chimes in that with his previous
+ 
+
+337
+00:06:54,240 --> 00:06:56,309
+chimes in that with his previous
+perception check he didn't just find
+
+338
+00:06:56,309 --> 00:06:56,319
+perception check he didn't just find
+ 
+
+339
+00:06:56,319 --> 00:06:58,629
+perception check he didn't just find
+this one spinning dart trap but the
+
+340
+00:06:58,629 --> 00:06:58,639
+this one spinning dart trap but the
+ 
+
+341
+00:06:58,639 --> 00:07:01,270
+this one spinning dart trap but the
+entire chamber appears to be littered
+
+342
+00:07:01,270 --> 00:07:01,280
+entire chamber appears to be littered
+ 
+
+343
+00:07:01,280 --> 00:07:04,070
+entire chamber appears to be littered
+with them far too many to safely disarm
+
+344
+00:07:04,070 --> 00:07:04,080
+with them far too many to safely disarm
+ 
+
+345
+00:07:04,080 --> 00:07:05,830
+with them far too many to safely disarm
+one at a time
+
+346
+00:07:05,830 --> 00:07:05,840
+one at a time
+ 
+
+347
+00:07:05,840 --> 00:07:08,070
+one at a time
+instead andy decides to try and cross
+
+348
+00:07:08,070 --> 00:07:08,080
+instead andy decides to try and cross
+ 
+
+349
+00:07:08,080 --> 00:07:10,230
+instead andy decides to try and cross
+the room without setting off any of the
+
+350
+00:07:10,230 --> 00:07:10,240
+the room without setting off any of the
+ 
+
+351
+00:07:10,240 --> 00:07:12,629
+the room without setting off any of the
+remaining traps these spinning dark
+
+352
+00:07:12,629 --> 00:07:12,639
+remaining traps these spinning dark
+ 
+
+353
+00:07:12,639 --> 00:07:15,350
+remaining traps these spinning dark
+traps are fourth level so gm spielberg
+
+354
+00:07:15,350 --> 00:07:15,360
+traps are fourth level so gm spielberg
+ 
+
+355
+00:07:15,360 --> 00:07:18,309
+traps are fourth level so gm spielberg
+starts by setting the dc at 19 based on
+
+356
+00:07:18,309 --> 00:07:18,319
+starts by setting the dc at 19 based on
+ 
+
+357
+00:07:18,319 --> 00:07:21,589
+starts by setting the dc at 19 based on
+their level but then increases it by 5
+
+358
+00:07:21,589 --> 00:07:21,599
+their level but then increases it by 5
+ 
+
+359
+00:07:21,599 --> 00:07:23,670
+their level but then increases it by 5
+due to the very hard circumstance of
+
+360
+00:07:23,670 --> 00:07:23,680
+due to the very hard circumstance of
+ 
+
+361
+00:07:23,680 --> 00:07:26,469
+due to the very hard circumstance of
+having so many traps in the same area
+
+362
+00:07:26,469 --> 00:07:26,479
+having so many traps in the same area
+ 
+
+363
+00:07:26,479 --> 00:07:29,670
+having so many traps in the same area
+this makes the final dc 24.
+
+364
+00:07:29,670 --> 00:07:29,680
+this makes the final dc 24.
+ 
+
+365
+00:07:29,680 --> 00:07:32,150
+this makes the final dc 24.
+indy has an acrobatic skill bonus of
+
+366
+00:07:32,150 --> 00:07:32,160
+indy has an acrobatic skill bonus of
+ 
+
+367
+00:07:32,160 --> 00:07:35,270
+indy has an acrobatic skill bonus of
+plus 10 so he has his work cut out for
+
+368
+00:07:35,270 --> 00:07:35,280
+plus 10 so he has his work cut out for
+ 
+
+369
+00:07:35,280 --> 00:07:35,909
+plus 10 so he has his work cut out for
+him
+
+370
+00:07:35,909 --> 00:07:35,919
+him
+ 
+
+371
+00:07:35,919 --> 00:07:39,110
+him
+he rolls 1d20 plus 10 and luckily gets a
+
+372
+00:07:39,110 --> 00:07:39,120
+he rolls 1d20 plus 10 and luckily gets a
+ 
+
+373
+00:07:39,120 --> 00:07:42,469
+he rolls 1d20 plus 10 and luckily gets a
+total of 26 enough to cross the chamber
+
+374
+00:07:42,469 --> 00:07:42,479
+total of 26 enough to cross the chamber
+ 
+
+375
+00:07:42,479 --> 00:07:44,710
+total of 26 enough to cross the chamber
+safely
+
+376
+00:07:44,710 --> 00:07:44,720
+safely
+ 
+
+377
+00:07:44,720 --> 00:07:46,869
+safely
+now standing before the idol indy's
+
+378
+00:07:46,869 --> 00:07:46,879
+now standing before the idol indy's
+ 
+
+379
+00:07:46,879 --> 00:07:48,950
+now standing before the idol indy's
+player doesn't even bother asking for a
+
+380
+00:07:48,950 --> 00:07:48,960
+player doesn't even bother asking for a
+ 
+
+381
+00:07:48,960 --> 00:07:51,430
+player doesn't even bother asking for a
+perception check he knows the idol is
+
+382
+00:07:51,430 --> 00:07:51,440
+perception check he knows the idol is
+ 
+
+383
+00:07:51,440 --> 00:07:53,690
+perception check he knows the idol is
+sitting on a pressure plate
+
+384
+00:07:53,690 --> 00:07:53,700
+sitting on a pressure plate
+ 
+
+385
+00:07:53,700 --> 00:07:55,909
+sitting on a pressure plate
+[Music]
+
+386
+00:07:55,909 --> 00:07:55,919
+[Music]
+ 
+
+387
+00:07:55,919 --> 00:07:58,070
+[Music]
+he says he pulls out the bag of sand he
+
+388
+00:07:58,070 --> 00:07:58,080
+he says he pulls out the bag of sand he
+ 
+
+389
+00:07:58,080 --> 00:08:01,670
+he says he pulls out the bag of sand he
+filled earlier
+
+390
+00:08:01,670 --> 00:08:01,680
+
+ 
+
+391
+00:08:01,680 --> 00:08:13,110
+
+kisses the idol's weight
+
+392
+00:08:13,110 --> 00:08:13,120
+
+ 
+
+393
+00:08:13,120 --> 00:08:16,790
+
+in attempts to swap the bag for the idol
+
+394
+00:08:16,790 --> 00:08:16,800
+in attempts to swap the bag for the idol
+ 
+
+395
+00:08:16,800 --> 00:08:19,589
+in attempts to swap the bag for the idol
+this calls for a thievery check so indy
+
+396
+00:08:19,589 --> 00:08:19,599
+this calls for a thievery check so indy
+ 
+
+397
+00:08:19,599 --> 00:08:23,029
+this calls for a thievery check so indy
+rolls 1d20 plus his thievery bonus of 11
+
+398
+00:08:23,029 --> 00:08:23,039
+rolls 1d20 plus his thievery bonus of 11
+ 
+
+399
+00:08:23,039 --> 00:08:26,630
+rolls 1d20 plus his thievery bonus of 11
+for a total of 22.
+
+400
+00:08:26,630 --> 00:08:26,640
+for a total of 22.
+ 
+
+401
+00:08:26,640 --> 00:08:28,950
+for a total of 22.
+[Music]
+
+402
+00:08:28,950 --> 00:08:28,960
+[Music]
+ 
+
+403
+00:08:28,960 --> 00:08:32,310
+[Music]
+and he succeeds
+
+404
+00:08:32,310 --> 00:08:32,320
+and he succeeds
+ 
+
+405
+00:08:32,320 --> 00:08:34,550
+and he succeeds
+maybe not and you'll have to come back
+
+406
+00:08:34,550 --> 00:08:34,560
+maybe not and you'll have to come back
+ 
+
+407
+00:08:34,560 --> 00:08:37,029
+maybe not and you'll have to come back
+and watch part 2 of this video series to
+
+408
+00:08:37,029 --> 00:08:37,039
+and watch part 2 of this video series to
+ 
+
+409
+00:08:37,039 --> 00:08:39,430
+and watch part 2 of this video series to
+see how gm spielberg uses pathfinder's
+
+410
+00:08:39,430 --> 00:08:39,440
+see how gm spielberg uses pathfinder's
+ 
+
+411
+00:08:39,440 --> 00:08:41,909
+see how gm spielberg uses pathfinder's
+chase mechanics during indy's escape
+
+412
+00:08:41,909 --> 00:08:41,919
+chase mechanics during indy's escape
+ 
+
+413
+00:08:41,919 --> 00:08:43,430
+chase mechanics during indy's escape
+from the tomb
+
+414
+00:08:43,430 --> 00:08:43,440
+from the tomb
+ 
+
+415
+00:08:43,440 --> 00:08:45,350
+from the tomb
+so that's it for this video if you
+
+416
+00:08:45,350 --> 00:08:45,360
+so that's it for this video if you
+ 
+
+417
+00:08:45,360 --> 00:08:46,949
+so that's it for this video if you
+haven't already seen my battle
+
+418
+00:08:46,949 --> 00:08:46,959
+haven't already seen my battle
+ 
+
+419
+00:08:46,959 --> 00:08:48,710
+haven't already seen my battle
+breakdowns for the karate kid and
+
+420
+00:08:48,710 --> 00:08:48,720
+breakdowns for the karate kid and
+ 
+
+421
+00:08:48,720 --> 00:08:50,949
+breakdowns for the karate kid and
+fellowship of the ring make sure you
+
+422
+00:08:50,949 --> 00:08:50,959
+fellowship of the ring make sure you
+ 
+
+423
+00:08:50,959 --> 00:08:53,030
+fellowship of the ring make sure you
+check those out they are linked in the
+
+424
+00:08:53,030 --> 00:08:53,040
+check those out they are linked in the
+ 
+
+425
+00:08:53,040 --> 00:08:55,430
+check those out they are linked in the
+description and as always i want to take
+
+426
+00:08:55,430 --> 00:08:55,440
+description and as always i want to take
+ 
+
+427
+00:08:55,440 --> 00:08:57,269
+description and as always i want to take
+a quick moment to thank everybody out
+
+428
+00:08:57,269 --> 00:08:57,279
+a quick moment to thank everybody out
+ 
+
+429
+00:08:57,279 --> 00:08:59,350
+a quick moment to thank everybody out
+there who supports me by subscribing to
+
+430
+00:08:59,350 --> 00:08:59,360
+there who supports me by subscribing to
+ 
+
+431
+00:08:59,360 --> 00:09:01,110
+there who supports me by subscribing to
+the channel clicking the like button
+
+432
+00:09:01,110 --> 00:09:01,120
+the channel clicking the like button
+ 
+
+433
+00:09:01,120 --> 00:09:03,269
+the channel clicking the like button
+buying a super thanks subscribing to the
+
+434
+00:09:03,269 --> 00:09:03,279
+buying a super thanks subscribing to the
+ 
+
+435
+00:09:03,279 --> 00:09:05,269
+buying a super thanks subscribing to the
+patreon sharing the videos with your
+
+436
+00:09:05,269 --> 00:09:05,279
+patreon sharing the videos with your
+ 
+
+437
+00:09:05,279 --> 00:09:07,509
+patreon sharing the videos with your
+friends i greatly appreciate everything
+
+438
+00:09:07,509 --> 00:09:07,519
+friends i greatly appreciate everything
+ 
+
+439
+00:09:07,519 --> 00:09:09,750
+friends i greatly appreciate everything
+the community does to support me and
+
+440
+00:09:09,750 --> 00:09:09,760
+the community does to support me and
+ 
+
+441
+00:09:09,760 --> 00:09:11,750
+the community does to support me and
+with that thanks for watching take care
+
+442
+00:09:11,750 --> 00:09:11,760
+with that thanks for watching take care
+ 
+
+443
+00:09:11,760 --> 00:09:14,080
+with that thanks for watching take care
+and happy gaming
+
+444
+00:09:14,080 --> 00:09:14,090
+and happy gaming
+ 
+
+445
+00:09:14,090 --> 00:09:18,580
+and happy gaming
+[Music]
+

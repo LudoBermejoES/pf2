@@ -1,0 +1,2735 @@
+1
+00:00:00,580 --> 00:00:02,969
+
+hello and welcome to basics of
+
+2
+00:00:02,969 --> 00:00:02,979
+hello and welcome to basics of
+ 
+
+3
+00:00:02,979 --> 00:00:06,810
+hello and welcome to basics of
+archetypes for Pathfinder 2nd edition
+
+4
+00:00:06,810 --> 00:00:06,820
+archetypes for Pathfinder 2nd edition
+ 
+
+5
+00:00:06,820 --> 00:00:09,210
+archetypes for Pathfinder 2nd edition
+archetypes allow players to customize
+
+6
+00:00:09,210 --> 00:00:09,220
+archetypes allow players to customize
+ 
+
+7
+00:00:09,220 --> 00:00:10,740
+archetypes allow players to customize
+their characters beyond the initial
+
+8
+00:00:10,740 --> 00:00:10,750
+their characters beyond the initial
+ 
+
+9
+00:00:10,750 --> 00:00:14,270
+their characters beyond the initial
+abc's of ancestry background and class
+
+10
+00:00:14,270 --> 00:00:14,280
+abc's of ancestry background and class
+ 
+
+11
+00:00:14,280 --> 00:00:16,470
+abc's of ancestry background and class
+they can be used to specialize your
+
+12
+00:00:16,470 --> 00:00:16,480
+they can be used to specialize your
+ 
+
+13
+00:00:16,480 --> 00:00:19,020
+they can be used to specialize your
+character within their class essentially
+
+14
+00:00:19,020 --> 00:00:19,030
+character within their class essentially
+ 
+
+15
+00:00:19,030 --> 00:00:21,300
+character within their class essentially
+multi class by gaining abilities found
+
+16
+00:00:21,300 --> 00:00:21,310
+multi class by gaining abilities found
+ 
+
+17
+00:00:21,310 --> 00:00:23,609
+multi class by gaining abilities found
+in other classes or flesh out the
+
+18
+00:00:23,609 --> 00:00:23,619
+in other classes or flesh out the
+ 
+
+19
+00:00:23,619 --> 00:00:25,410
+in other classes or flesh out the
+characters place within a spatial
+
+20
+00:00:25,410 --> 00:00:25,420
+characters place within a spatial
+ 
+
+21
+00:00:25,420 --> 00:00:28,830
+characters place within a spatial
+organization class feats and in rare
+
+22
+00:00:28,830 --> 00:00:28,840
+organization class feats and in rare
+ 
+
+23
+00:00:28,840 --> 00:00:31,259
+organization class feats and in rare
+cases skill feats are used to purchase
+
+24
+00:00:31,259 --> 00:00:31,269
+cases skill feats are used to purchase
+ 
+
+25
+00:00:31,269 --> 00:00:34,650
+cases skill feats are used to purchase
+archetype feats so you have to sacrifice
+
+26
+00:00:34,650 --> 00:00:34,660
+archetype feats so you have to sacrifice
+ 
+
+27
+00:00:34,660 --> 00:00:37,980
+archetype feats so you have to sacrifice
+one of your class abilities for each new
+
+28
+00:00:37,980 --> 00:00:37,990
+one of your class abilities for each new
+ 
+
+29
+00:00:37,990 --> 00:00:39,750
+one of your class abilities for each new
+ability you want to gain from an
+
+30
+00:00:39,750 --> 00:00:39,760
+ability you want to gain from an
+ 
+
+31
+00:00:39,760 --> 00:00:42,450
+ability you want to gain from an
+archetype say you're playing a range if
+
+32
+00:00:42,450 --> 00:00:42,460
+archetype say you're playing a range if
+ 
+
+33
+00:00:42,460 --> 00:00:45,270
+archetype say you're playing a range if
+we look at their advancement chart we
+
+34
+00:00:45,270 --> 00:00:45,280
+we look at their advancement chart we
+ 
+
+35
+00:00:45,280 --> 00:00:48,090
+we look at their advancement chart we
+see rangers gain class feats at first
+
+36
+00:00:48,090 --> 00:00:48,100
+see rangers gain class feats at first
+ 
+
+37
+00:00:48,100 --> 00:00:51,200
+see rangers gain class feats at first
+level and every even level after that
+
+38
+00:00:51,200 --> 00:00:51,210
+level and every even level after that
+ 
+
+39
+00:00:51,210 --> 00:00:53,970
+level and every even level after that
+the rule of thumb is all characters
+
+40
+00:00:53,970 --> 00:00:53,980
+the rule of thumb is all characters
+ 
+
+41
+00:00:53,980 --> 00:00:56,069
+the rule of thumb is all characters
+receive class feats when they reach even
+
+42
+00:00:56,069 --> 00:00:56,079
+receive class feats when they reach even
+ 
+
+43
+00:00:56,079 --> 00:00:59,130
+receive class feats when they reach even
+levels and if your class does not cast
+
+44
+00:00:59,130 --> 00:00:59,140
+levels and if your class does not cast
+ 
+
+45
+00:00:59,140 --> 00:01:01,349
+levels and if your class does not cast
+spells at first level then you get a
+
+46
+00:01:01,349 --> 00:01:01,359
+spells at first level then you get a
+ 
+
+47
+00:01:01,359 --> 00:01:04,650
+spells at first level then you get a
+class feat at first level instead and I
+
+48
+00:01:04,650 --> 00:01:04,660
+class feat at first level instead and I
+ 
+
+49
+00:01:04,660 --> 00:01:06,900
+class feat at first level instead and I
+should mention that although class feats
+
+50
+00:01:06,900 --> 00:01:06,910
+should mention that although class feats
+ 
+
+51
+00:01:06,910 --> 00:01:09,030
+should mention that although class feats
+are what are usually thought of as the
+
+52
+00:01:09,030 --> 00:01:09,040
+are what are usually thought of as the
+ 
+
+53
+00:01:09,040 --> 00:01:11,039
+are what are usually thought of as the
+currency for purchasing archetypes in
+
+54
+00:01:11,039 --> 00:01:11,049
+currency for purchasing archetypes in
+ 
+
+55
+00:01:11,049 --> 00:01:14,160
+currency for purchasing archetypes in
+some cases you will use skill feats
+
+56
+00:01:14,160 --> 00:01:14,170
+some cases you will use skill feats
+ 
+
+57
+00:01:14,170 --> 00:01:16,800
+some cases you will use skill feats
+instead of class feats for example if we
+
+58
+00:01:16,800 --> 00:01:16,810
+instead of class feats for example if we
+ 
+
+59
+00:01:16,810 --> 00:01:19,980
+instead of class feats for example if we
+look at the entry for forced entry we
+
+60
+00:01:19,980 --> 00:01:19,990
+look at the entry for forced entry we
+ 
+
+61
+00:01:19,990 --> 00:01:22,620
+look at the entry for forced entry we
+see that it is an archetype feat found
+
+62
+00:01:22,620 --> 00:01:22,630
+see that it is an archetype feat found
+ 
+
+63
+00:01:22,630 --> 00:01:25,289
+see that it is an archetype feat found
+in the Pathfinder agent archetype tree
+
+64
+00:01:25,289 --> 00:01:25,299
+in the Pathfinder agent archetype tree
+ 
+
+65
+00:01:25,299 --> 00:01:29,130
+in the Pathfinder agent archetype tree
+but it also has the skill trait meaning
+
+66
+00:01:29,130 --> 00:01:29,140
+but it also has the skill trait meaning
+ 
+
+67
+00:01:29,140 --> 00:01:32,310
+but it also has the skill trait meaning
+you would use a skill feat instead of a
+
+68
+00:01:32,310 --> 00:01:32,320
+you would use a skill feat instead of a
+ 
+
+69
+00:01:32,320 --> 00:01:35,010
+you would use a skill feat instead of a
+class feed to purchase it otherwise it
+
+70
+00:01:35,010 --> 00:01:35,020
+class feed to purchase it otherwise it
+ 
+
+71
+00:01:35,020 --> 00:01:37,620
+class feed to purchase it otherwise it
+works the same as any other archetype
+
+72
+00:01:37,620 --> 00:01:37,630
+works the same as any other archetype
+ 
+
+73
+00:01:37,630 --> 00:01:40,499
+works the same as any other archetype
+feat so when you level up you can either
+
+74
+00:01:40,499 --> 00:01:40,509
+feat so when you level up you can either
+ 
+
+75
+00:01:40,509 --> 00:01:42,870
+feat so when you level up you can either
+spend your new feats to gain an ability
+
+76
+00:01:42,870 --> 00:01:42,880
+spend your new feats to gain an ability
+ 
+
+77
+00:01:42,880 --> 00:01:45,569
+spend your new feats to gain an ability
+from your class or spend them on an
+
+78
+00:01:45,569 --> 00:01:45,579
+from your class or spend them on an
+ 
+
+79
+00:01:45,579 --> 00:01:47,819
+from your class or spend them on an
+archetype but there are some limitations
+
+80
+00:01:47,819 --> 00:01:47,829
+archetype but there are some limitations
+ 
+
+81
+00:01:47,829 --> 00:01:50,640
+archetype but there are some limitations
+you should know about
+
+82
+00:01:50,640 --> 00:01:50,650
+you should know about
+ 
+
+83
+00:01:50,650 --> 00:01:53,370
+you should know about
+you can think of archetypes as a sort of
+
+84
+00:01:53,370 --> 00:01:53,380
+you can think of archetypes as a sort of
+ 
+
+85
+00:01:53,380 --> 00:01:56,610
+you can think of archetypes as a sort of
+ability tree each of these trees begin
+
+86
+00:01:56,610 --> 00:01:56,620
+ability tree each of these trees begin
+ 
+
+87
+00:01:56,620 --> 00:01:59,010
+ability tree each of these trees begin
+with a special feat called a dedication
+
+88
+00:01:59,010 --> 00:01:59,020
+with a special feat called a dedication
+ 
+
+89
+00:01:59,020 --> 00:02:02,160
+with a special feat called a dedication
+feat dedication feats are the doorways
+
+90
+00:02:02,160 --> 00:02:02,170
+feat dedication feats are the doorways
+ 
+
+91
+00:02:02,170 --> 00:02:04,650
+feat dedication feats are the doorways
+to the archetype and you cannot gain any
+
+92
+00:02:04,650 --> 00:02:04,660
+to the archetype and you cannot gain any
+ 
+
+93
+00:02:04,660 --> 00:02:07,590
+to the archetype and you cannot gain any
+other feat within the archetype until
+
+94
+00:02:07,590 --> 00:02:07,600
+other feat within the archetype until
+ 
+
+95
+00:02:07,600 --> 00:02:10,130
+other feat within the archetype until
+you first take the dedication feat in
+
+96
+00:02:10,130 --> 00:02:10,140
+you first take the dedication feat in
+ 
+
+97
+00:02:10,140 --> 00:02:12,810
+you first take the dedication feat in
+dedication feats are aptly named because
+
+98
+00:02:12,810 --> 00:02:12,820
+dedication feats are aptly named because
+ 
+
+99
+00:02:12,820 --> 00:02:14,580
+dedication feats are aptly named because
+once you dedicate yourself to an
+
+100
+00:02:14,580 --> 00:02:14,590
+once you dedicate yourself to an
+ 
+
+101
+00:02:14,590 --> 00:02:17,130
+once you dedicate yourself to an
+archetype you will be locked out from
+
+102
+00:02:17,130 --> 00:02:17,140
+archetype you will be locked out from
+ 
+
+103
+00:02:17,140 --> 00:02:19,710
+archetype you will be locked out from
+gaining other archetypes until you
+
+104
+00:02:19,710 --> 00:02:19,720
+gaining other archetypes until you
+ 
+
+105
+00:02:19,720 --> 00:02:21,570
+gaining other archetypes until you
+satisfy the requirements listed at the
+
+106
+00:02:21,570 --> 00:02:21,580
+satisfy the requirements listed at the
+ 
+
+107
+00:02:21,580 --> 00:02:23,670
+satisfy the requirements listed at the
+bottom of the dedication feed listed
+
+108
+00:02:23,670 --> 00:02:23,680
+bottom of the dedication feed listed
+ 
+
+109
+00:02:23,680 --> 00:02:27,330
+bottom of the dedication feed listed
+under special so if you are a pathfinder
+
+110
+00:02:27,330 --> 00:02:27,340
+under special so if you are a pathfinder
+ 
+
+111
+00:02:27,340 --> 00:02:29,250
+under special so if you are a pathfinder
+and wanted to gain the abilities of a
+
+112
+00:02:29,250 --> 00:02:29,260
+and wanted to gain the abilities of a
+ 
+
+113
+00:02:29,260 --> 00:02:31,620
+and wanted to gain the abilities of a
+scroll master you would first need to
+
+114
+00:02:31,620 --> 00:02:31,630
+scroll master you would first need to
+ 
+
+115
+00:02:31,630 --> 00:02:34,320
+scroll master you would first need to
+take the scroll master dedication feet
+
+116
+00:02:34,320 --> 00:02:34,330
+take the scroll master dedication feet
+ 
+
+117
+00:02:34,330 --> 00:02:36,750
+take the scroll master dedication feet
+to do so you would need to meet the
+
+118
+00:02:36,750 --> 00:02:36,760
+to do so you would need to meet the
+ 
+
+119
+00:02:36,760 --> 00:02:38,640
+to do so you would need to meet the
+prerequisites of having expert
+
+120
+00:02:38,640 --> 00:02:38,650
+prerequisites of having expert
+ 
+
+121
+00:02:38,650 --> 00:02:41,070
+prerequisites of having expert
+proficiency in at least one lore skill
+
+122
+00:02:41,070 --> 00:02:41,080
+proficiency in at least one lore skill
+ 
+
+123
+00:02:41,080 --> 00:02:43,800
+proficiency in at least one lore skill
+and also be a member of the Pathfinder
+
+124
+00:02:43,800 --> 00:02:43,810
+and also be a member of the Pathfinder
+ 
+
+125
+00:02:43,810 --> 00:02:45,810
+and also be a member of the Pathfinder
+society affiliated with the school of
+
+126
+00:02:45,810 --> 00:02:45,820
+society affiliated with the school of
+ 
+
+127
+00:02:45,820 --> 00:02:46,410
+society affiliated with the school of
+Scrolls
+
+128
+00:02:46,410 --> 00:02:46,420
+Scrolls
+ 
+
+129
+00:02:46,420 --> 00:02:48,930
+Scrolls
+if you meet both of those requirements
+
+130
+00:02:48,930 --> 00:02:48,940
+if you meet both of those requirements
+ 
+
+131
+00:02:48,940 --> 00:02:52,320
+if you meet both of those requirements
+you can spend a class feat of six level
+
+132
+00:02:52,320 --> 00:02:52,330
+you can spend a class feat of six level
+ 
+
+133
+00:02:52,330 --> 00:02:54,840
+you can spend a class feat of six level
+or higher to gain scroll master
+
+134
+00:02:54,840 --> 00:02:54,850
+or higher to gain scroll master
+ 
+
+135
+00:02:54,850 --> 00:02:58,290
+or higher to gain scroll master
+dedication but once you do that you lock
+
+136
+00:02:58,290 --> 00:02:58,300
+dedication but once you do that you lock
+ 
+
+137
+00:02:58,300 --> 00:03:00,560
+dedication but once you do that you lock
+yourself out from gaining any other
+
+138
+00:03:00,560 --> 00:03:00,570
+yourself out from gaining any other
+ 
+
+139
+00:03:00,570 --> 00:03:03,360
+yourself out from gaining any other
+dedication feats until you have gained
+
+140
+00:03:03,360 --> 00:03:03,370
+dedication feats until you have gained
+ 
+
+141
+00:03:03,370 --> 00:03:06,690
+dedication feats until you have gained
+two other archetype feats from the
+
+142
+00:03:06,690 --> 00:03:06,700
+two other archetype feats from the
+ 
+
+143
+00:03:06,700 --> 00:03:09,690
+two other archetype feats from the
+scroll master tree you could take any
+
+144
+00:03:09,690 --> 00:03:09,700
+scroll master tree you could take any
+ 
+
+145
+00:03:09,700 --> 00:03:12,330
+scroll master tree you could take any
+regular class feats and you could choose
+
+146
+00:03:12,330 --> 00:03:12,340
+regular class feats and you could choose
+ 
+
+147
+00:03:12,340 --> 00:03:14,790
+regular class feats and you could choose
+any feast from an archetype you unlocked
+
+148
+00:03:14,790 --> 00:03:14,800
+any feast from an archetype you unlocked
+ 
+
+149
+00:03:14,800 --> 00:03:17,550
+any feast from an archetype you unlocked
+before scroll master but could not
+
+150
+00:03:17,550 --> 00:03:17,560
+before scroll master but could not
+ 
+
+151
+00:03:17,560 --> 00:03:20,940
+before scroll master but could not
+choose to unlock another archetype until
+
+152
+00:03:20,940 --> 00:03:20,950
+choose to unlock another archetype until
+ 
+
+153
+00:03:20,950 --> 00:03:23,640
+choose to unlock another archetype until
+first having three feats from the scroll
+
+154
+00:03:23,640 --> 00:03:23,650
+first having three feats from the scroll
+ 
+
+155
+00:03:23,650 --> 00:03:25,680
+first having three feats from the scroll
+master tree including the dedication
+
+156
+00:03:25,680 --> 00:03:25,690
+master tree including the dedication
+ 
+
+157
+00:03:25,690 --> 00:03:27,600
+master tree including the dedication
+feet
+
+158
+00:03:27,600 --> 00:03:27,610
+feet
+ 
+
+159
+00:03:27,610 --> 00:03:30,330
+feet
+there are two very special types of
+
+160
+00:03:30,330 --> 00:03:30,340
+there are two very special types of
+ 
+
+161
+00:03:30,340 --> 00:03:32,730
+there are two very special types of
+archetypes we need to discuss and the
+
+162
+00:03:32,730 --> 00:03:32,740
+archetypes we need to discuss and the
+ 
+
+163
+00:03:32,740 --> 00:03:36,270
+archetypes we need to discuss and the
+first of those is class archetypes class
+
+164
+00:03:36,270 --> 00:03:36,280
+first of those is class archetypes class
+ 
+
+165
+00:03:36,280 --> 00:03:38,370
+first of those is class archetypes class
+archetypes represent a specialization
+
+166
+00:03:38,370 --> 00:03:38,380
+archetypes represent a specialization
+ 
+
+167
+00:03:38,380 --> 00:03:41,340
+archetypes represent a specialization
+within a class that diverges fairly
+
+168
+00:03:41,340 --> 00:03:41,350
+within a class that diverges fairly
+ 
+
+169
+00:03:41,350 --> 00:03:43,380
+within a class that diverges fairly
+significantly from the default base
+
+170
+00:03:43,380 --> 00:03:43,390
+significantly from the default base
+ 
+
+171
+00:03:43,390 --> 00:03:47,370
+significantly from the default base
+class at the time of this recording no
+
+172
+00:03:47,370 --> 00:03:47,380
+class at the time of this recording no
+ 
+
+173
+00:03:47,380 --> 00:03:49,740
+class at the time of this recording no
+class archetypes have been released for
+
+174
+00:03:49,740 --> 00:03:49,750
+class archetypes have been released for
+ 
+
+175
+00:03:49,750 --> 00:03:52,500
+class archetypes have been released for
+second edition so I have no concrete
+
+176
+00:03:52,500 --> 00:03:52,510
+second edition so I have no concrete
+ 
+
+177
+00:03:52,510 --> 00:03:55,020
+second edition so I have no concrete
+examples to offer you but the core
+
+178
+00:03:55,020 --> 00:03:55,030
+examples to offer you but the core
+ 
+
+179
+00:03:55,030 --> 00:03:57,210
+examples to offer you but the core
+rulebook does lay out a few basic rules
+
+180
+00:03:57,210 --> 00:03:57,220
+rulebook does lay out a few basic rules
+ 
+
+181
+00:03:57,220 --> 00:04:01,110
+rulebook does lay out a few basic rules
+for these archetypes first you must be
+
+182
+00:04:01,110 --> 00:04:01,120
+for these archetypes first you must be
+ 
+
+183
+00:04:01,120 --> 00:04:04,280
+for these archetypes first you must be
+the same class as the class archetype
+
+184
+00:04:04,280 --> 00:04:04,290
+the same class as the class archetype
+ 
+
+185
+00:04:04,290 --> 00:04:06,960
+the same class as the class archetype
+say there is a class archetype called
+
+186
+00:04:06,960 --> 00:04:06,970
+say there is a class archetype called
+ 
+
+187
+00:04:06,970 --> 00:04:09,900
+say there is a class archetype called
+stardancer and it is listed as a bard
+
+188
+00:04:09,900 --> 00:04:09,910
+stardancer and it is listed as a bard
+ 
+
+189
+00:04:09,910 --> 00:04:13,620
+stardancer and it is listed as a bard
+class archetype in that case you must be
+
+190
+00:04:13,620 --> 00:04:13,630
+class archetype in that case you must be
+ 
+
+191
+00:04:13,630 --> 00:04:17,220
+class archetype in that case you must be
+a bard in order to take any feats from
+
+192
+00:04:17,220 --> 00:04:17,230
+a bard in order to take any feats from
+ 
+
+193
+00:04:17,230 --> 00:04:20,699
+a bard in order to take any feats from
+the stardancer archetype and it may be
+
+194
+00:04:20,699 --> 00:04:20,709
+the stardancer archetype and it may be
+ 
+
+195
+00:04:20,709 --> 00:04:23,100
+the stardancer archetype and it may be
+possible to take a class archetype at
+
+196
+00:04:23,100 --> 00:04:23,110
+possible to take a class archetype at
+ 
+
+197
+00:04:23,110 --> 00:04:25,650
+possible to take a class archetype at
+first level even if your class does not
+
+198
+00:04:25,650 --> 00:04:25,660
+first level even if your class does not
+ 
+
+199
+00:04:25,660 --> 00:04:28,620
+first level even if your class does not
+have class feats to spend at first level
+
+200
+00:04:28,620 --> 00:04:28,630
+have class feats to spend at first level
+ 
+
+201
+00:04:28,630 --> 00:04:32,130
+have class feats to spend at first level
+in this case you must spend your class
+
+202
+00:04:32,130 --> 00:04:32,140
+in this case you must spend your class
+ 
+
+203
+00:04:32,140 --> 00:04:34,650
+in this case you must spend your class
+fee that's granted a second level to
+
+204
+00:04:34,650 --> 00:04:34,660
+fee that's granted a second level to
+ 
+
+205
+00:04:34,660 --> 00:04:36,870
+fee that's granted a second level to
+purchase that archetypes dedication feet
+
+206
+00:04:36,870 --> 00:04:36,880
+purchase that archetypes dedication feet
+ 
+
+207
+00:04:36,880 --> 00:04:39,960
+purchase that archetypes dedication feet
+and the last restriction for class
+
+208
+00:04:39,960 --> 00:04:39,970
+and the last restriction for class
+ 
+
+209
+00:04:39,970 --> 00:04:42,510
+and the last restriction for class
+archetypes is that you may never belong
+
+210
+00:04:42,510 --> 00:04:42,520
+archetypes is that you may never belong
+ 
+
+211
+00:04:42,520 --> 00:04:45,600
+archetypes is that you may never belong
+to more than one class archetype so if
+
+212
+00:04:45,600 --> 00:04:45,610
+to more than one class archetype so if
+ 
+
+213
+00:04:45,610 --> 00:04:48,210
+to more than one class archetype so if
+you're a bard who chooses the stardancer
+
+214
+00:04:48,210 --> 00:04:48,220
+you're a bard who chooses the stardancer
+ 
+
+215
+00:04:48,220 --> 00:04:51,510
+you're a bard who chooses the stardancer
+class archetype you are forever locked
+
+216
+00:04:51,510 --> 00:04:51,520
+class archetype you are forever locked
+ 
+
+217
+00:04:51,520 --> 00:04:56,869
+class archetype you are forever locked
+out from all other bard class archetypes
+
+218
+00:04:56,869 --> 00:04:56,879
+out from all other bard class archetypes
+ 
+
+219
+00:04:56,879 --> 00:04:59,089
+out from all other bard class archetypes
+the other special kind of archetype and
+
+220
+00:04:59,089 --> 00:04:59,099
+the other special kind of archetype and
+ 
+
+221
+00:04:59,099 --> 00:05:01,010
+the other special kind of archetype and
+probably the reason why you're here is
+
+222
+00:05:01,010 --> 00:05:01,020
+probably the reason why you're here is
+ 
+
+223
+00:05:01,020 --> 00:05:04,820
+probably the reason why you're here is
+the multi class archetype these allow
+
+224
+00:05:04,820 --> 00:05:04,830
+the multi class archetype these allow
+ 
+
+225
+00:05:04,830 --> 00:05:07,309
+the multi class archetype these allow
+members of one class to gain abilities
+
+226
+00:05:07,309 --> 00:05:07,319
+members of one class to gain abilities
+ 
+
+227
+00:05:07,319 --> 00:05:09,290
+members of one class to gain abilities
+normally restricted to members of
+
+228
+00:05:09,290 --> 00:05:09,300
+normally restricted to members of
+ 
+
+229
+00:05:09,300 --> 00:05:12,109
+normally restricted to members of
+another class but is important note that
+
+230
+00:05:12,109 --> 00:05:12,119
+another class but is important note that
+ 
+
+231
+00:05:12,119 --> 00:05:14,510
+another class but is important note that
+multi class archetypes are wholly
+
+232
+00:05:14,510 --> 00:05:14,520
+multi class archetypes are wholly
+ 
+
+233
+00:05:14,520 --> 00:05:17,779
+multi class archetypes are wholly
+different from class archetypes class
+
+234
+00:05:17,779 --> 00:05:17,789
+different from class archetypes class
+ 
+
+235
+00:05:17,789 --> 00:05:19,879
+different from class archetypes class
+archetypes require you to be the same
+
+236
+00:05:19,879 --> 00:05:19,889
+archetypes require you to be the same
+ 
+
+237
+00:05:19,889 --> 00:05:22,579
+archetypes require you to be the same
+class as that archetype while multi
+
+238
+00:05:22,579 --> 00:05:22,589
+class as that archetype while multi
+ 
+
+239
+00:05:22,589 --> 00:05:25,189
+class as that archetype while multi
+class archetypes require you to be of a
+
+240
+00:05:25,189 --> 00:05:25,199
+class archetypes require you to be of a
+ 
+
+241
+00:05:25,199 --> 00:05:28,129
+class archetypes require you to be of a
+different class if you're a bard you
+
+242
+00:05:28,129 --> 00:05:28,139
+different class if you're a bard you
+ 
+
+243
+00:05:28,139 --> 00:05:30,889
+different class if you're a bard you
+cannot take the bard multi class
+
+244
+00:05:30,889 --> 00:05:30,899
+cannot take the bard multi class
+ 
+
+245
+00:05:30,899 --> 00:05:34,389
+cannot take the bard multi class
+archetype to gain more bard abilities
+
+246
+00:05:34,389 --> 00:05:34,399
+archetype to gain more bard abilities
+ 
+
+247
+00:05:34,399 --> 00:05:37,129
+archetype to gain more bard abilities
+otherwise they work just like any other
+
+248
+00:05:37,129 --> 00:05:37,139
+otherwise they work just like any other
+ 
+
+249
+00:05:37,139 --> 00:05:40,249
+otherwise they work just like any other
+archetype but I would caution people not
+
+250
+00:05:40,249 --> 00:05:40,259
+archetype but I would caution people not
+ 
+
+251
+00:05:40,259 --> 00:05:43,219
+archetype but I would caution people not
+to make assumptions when you multi class
+
+252
+00:05:43,219 --> 00:05:43,229
+to make assumptions when you multi class
+ 
+
+253
+00:05:43,229 --> 00:05:45,489
+to make assumptions when you multi class
+you get what the feats say you do
+
+254
+00:05:45,489 --> 00:05:45,499
+you get what the feats say you do
+ 
+
+255
+00:05:45,499 --> 00:05:48,230
+you get what the feats say you do
+nothing more and nothing less
+
+256
+00:05:48,230 --> 00:05:48,240
+nothing more and nothing less
+ 
+
+257
+00:05:48,240 --> 00:05:51,230
+nothing more and nothing less
+if the dedication feat doesn't mention a
+
+258
+00:05:51,230 --> 00:05:51,240
+if the dedication feat doesn't mention a
+ 
+
+259
+00:05:51,240 --> 00:05:55,519
+if the dedication feat doesn't mention a
+skill or a proficiency or access to some
+
+260
+00:05:55,519 --> 00:05:55,529
+skill or a proficiency or access to some
+ 
+
+261
+00:05:55,529 --> 00:05:58,129
+skill or a proficiency or access to some
+other ability that you assumed you would
+
+262
+00:05:58,129 --> 00:05:58,139
+other ability that you assumed you would
+ 
+
+263
+00:05:58,139 --> 00:06:00,920
+other ability that you assumed you would
+get from multi classing well then you
+
+264
+00:06:00,920 --> 00:06:00,930
+get from multi classing well then you
+ 
+
+265
+00:06:00,930 --> 00:06:03,379
+get from multi classing well then you
+don't get it but look for other feats
+
+266
+00:06:03,379 --> 00:06:03,389
+don't get it but look for other feats
+ 
+
+267
+00:06:03,389 --> 00:06:06,139
+don't get it but look for other feats
+within that multi class archetype and
+
+268
+00:06:06,139 --> 00:06:06,149
+within that multi class archetype and
+ 
+
+269
+00:06:06,149 --> 00:06:10,560
+within that multi class archetype and
+maybe you'll find those abilities there
+
+270
+00:06:10,560 --> 00:06:10,570
+
+ 
+
+271
+00:06:10,570 --> 00:06:13,620
+
+some archetypes especially multi-class
+
+272
+00:06:13,620 --> 00:06:13,630
+some archetypes especially multi-class
+ 
+
+273
+00:06:13,630 --> 00:06:16,140
+some archetypes especially multi-class
+archetypes grant the ability to cast
+
+274
+00:06:16,140 --> 00:06:16,150
+archetypes grant the ability to cast
+ 
+
+275
+00:06:16,150 --> 00:06:20,070
+archetypes grant the ability to cast
+spells the bard cleric druid sorcerer
+
+276
+00:06:20,070 --> 00:06:20,080
+spells the bard cleric druid sorcerer
+ 
+
+277
+00:06:20,080 --> 00:06:22,380
+spells the bard cleric druid sorcerer
+and wizard multi-class archetypes all
+
+278
+00:06:22,380 --> 00:06:22,390
+and wizard multi-class archetypes all
+ 
+
+279
+00:06:22,390 --> 00:06:24,720
+and wizard multi-class archetypes all
+grant the ability to cast spells from
+
+280
+00:06:24,720 --> 00:06:24,730
+grant the ability to cast spells from
+ 
+
+281
+00:06:24,730 --> 00:06:26,880
+grant the ability to cast spells from
+their class but there are a few
+
+282
+00:06:26,880 --> 00:06:26,890
+their class but there are a few
+ 
+
+283
+00:06:26,890 --> 00:06:29,240
+their class but there are a few
+limitations and key points to understand
+
+284
+00:06:29,240 --> 00:06:29,250
+limitations and key points to understand
+ 
+
+285
+00:06:29,250 --> 00:06:32,130
+limitations and key points to understand
+first when you take a spell casting
+
+286
+00:06:32,130 --> 00:06:32,140
+first when you take a spell casting
+ 
+
+287
+00:06:32,140 --> 00:06:34,710
+first when you take a spell casting
+archetype you gain the ability to use
+
+288
+00:06:34,710 --> 00:06:34,720
+archetype you gain the ability to use
+ 
+
+289
+00:06:34,720 --> 00:06:37,920
+archetype you gain the ability to use
+Scrolls stabs and wands in the same way
+
+290
+00:06:37,920 --> 00:06:37,930
+Scrolls stabs and wands in the same way
+ 
+
+291
+00:06:37,930 --> 00:06:39,900
+Scrolls stabs and wands in the same way
+that a member of that spell casting
+
+292
+00:06:39,900 --> 00:06:39,910
+that a member of that spell casting
+ 
+
+293
+00:06:39,910 --> 00:06:42,990
+that a member of that spell casting
+class can also when you take a spell
+
+294
+00:06:42,990 --> 00:06:43,000
+class can also when you take a spell
+ 
+
+295
+00:06:43,000 --> 00:06:45,300
+class can also when you take a spell
+casting dedication you will learn how to
+
+296
+00:06:45,300 --> 00:06:45,310
+casting dedication you will learn how to
+ 
+
+297
+00:06:45,310 --> 00:06:48,000
+casting dedication you will learn how to
+cast can trips from that class but do
+
+298
+00:06:48,000 --> 00:06:48,010
+cast can trips from that class but do
+ 
+
+299
+00:06:48,010 --> 00:06:50,160
+cast can trips from that class but do
+not progress your spell casting further
+
+300
+00:06:50,160 --> 00:06:50,170
+not progress your spell casting further
+ 
+
+301
+00:06:50,170 --> 00:06:54,300
+not progress your spell casting further
+unless you select additional feats these
+
+302
+00:06:54,300 --> 00:06:54,310
+unless you select additional feats these
+ 
+
+303
+00:06:54,310 --> 00:06:55,170
+unless you select additional feats these
+feats are called
+
+304
+00:06:55,170 --> 00:06:55,180
+feats are called
+ 
+
+305
+00:06:55,180 --> 00:06:58,170
+feats are called
+basic spell casting expert spell casting
+
+306
+00:06:58,170 --> 00:06:58,180
+basic spell casting expert spell casting
+ 
+
+307
+00:06:58,180 --> 00:07:01,950
+basic spell casting expert spell casting
+and master spell casting basic spell
+
+308
+00:07:01,950 --> 00:07:01,960
+and master spell casting basic spell
+ 
+
+309
+00:07:01,960 --> 00:07:04,350
+and master spell casting basic spell
+casting grants a first level spell slot
+
+310
+00:07:04,350 --> 00:07:04,360
+casting grants a first level spell slot
+ 
+
+311
+00:07:04,360 --> 00:07:07,140
+casting grants a first level spell slot
+at 4th level a second level spell slot
+
+312
+00:07:07,140 --> 00:07:07,150
+at 4th level a second level spell slot
+ 
+
+313
+00:07:07,150 --> 00:07:10,320
+at 4th level a second level spell slot
+at 6th level and one third level spell
+
+314
+00:07:10,320 --> 00:07:10,330
+at 6th level and one third level spell
+ 
+
+315
+00:07:10,330 --> 00:07:13,410
+at 6th level and one third level spell
+slot at eighth level also at 6th level
+
+316
+00:07:13,410 --> 00:07:13,420
+slot at eighth level also at 6th level
+ 
+
+317
+00:07:13,420 --> 00:07:15,900
+slot at eighth level also at 6th level
+if you are a spontaneous spell caster
+
+318
+00:07:15,900 --> 00:07:15,910
+if you are a spontaneous spell caster
+ 
+
+319
+00:07:15,910 --> 00:07:18,240
+if you are a spontaneous spell caster
+you can select one of these spells as a
+
+320
+00:07:18,240 --> 00:07:18,250
+you can select one of these spells as a
+ 
+
+321
+00:07:18,250 --> 00:07:21,960
+you can select one of these spells as a
+signature spell what this means is you
+
+322
+00:07:21,960 --> 00:07:21,970
+signature spell what this means is you
+ 
+
+323
+00:07:21,970 --> 00:07:24,420
+signature spell what this means is you
+can select one spell that can be cast by
+
+324
+00:07:24,420 --> 00:07:24,430
+can select one spell that can be cast by
+ 
+
+325
+00:07:24,430 --> 00:07:26,640
+can select one spell that can be cast by
+that archetype and casts it as a
+
+326
+00:07:26,640 --> 00:07:26,650
+that archetype and casts it as a
+ 
+
+327
+00:07:26,650 --> 00:07:29,280
+that archetype and casts it as a
+heightened spell without needing to
+
+328
+00:07:29,280 --> 00:07:29,290
+heightened spell without needing to
+ 
+
+329
+00:07:29,290 --> 00:07:32,490
+heightened spell without needing to
+learn each individual level of the spell
+
+330
+00:07:32,490 --> 00:07:32,500
+learn each individual level of the spell
+ 
+
+331
+00:07:32,500 --> 00:07:36,240
+learn each individual level of the spell
+again this only applies to spontaneous
+
+332
+00:07:36,240 --> 00:07:36,250
+again this only applies to spontaneous
+ 
+
+333
+00:07:36,250 --> 00:07:38,550
+again this only applies to spontaneous
+spell casters not prepared spell casters
+
+334
+00:07:38,550 --> 00:07:38,560
+spell casters not prepared spell casters
+ 
+
+335
+00:07:38,560 --> 00:07:41,700
+spell casters not prepared spell casters
+and you gain one more signature spell
+
+336
+00:07:41,700 --> 00:07:41,710
+and you gain one more signature spell
+ 
+
+337
+00:07:41,710 --> 00:07:44,130
+and you gain one more signature spell
+when you take the expert spell casting
+
+338
+00:07:44,130 --> 00:07:44,140
+when you take the expert spell casting
+ 
+
+339
+00:07:44,140 --> 00:07:46,440
+when you take the expert spell casting
+feet and you gain a third signature
+
+340
+00:07:46,440 --> 00:07:46,450
+feet and you gain a third signature
+ 
+
+341
+00:07:46,450 --> 00:07:49,370
+feet and you gain a third signature
+spell when you take master spell casting
+
+342
+00:07:49,370 --> 00:07:49,380
+spell when you take master spell casting
+ 
+
+343
+00:07:49,380 --> 00:07:52,440
+spell when you take master spell casting
+all of the spells lusts granted by a
+
+344
+00:07:52,440 --> 00:07:52,450
+all of the spells lusts granted by a
+ 
+
+345
+00:07:52,450 --> 00:07:55,560
+all of the spells lusts granted by a
+spell casting archetype must be used to
+
+346
+00:07:55,560 --> 00:07:55,570
+spell casting archetype must be used to
+ 
+
+347
+00:07:55,570 --> 00:07:58,440
+spell casting archetype must be used to
+cast spells from that class's list for
+
+348
+00:07:58,440 --> 00:07:58,450
+cast spells from that class's list for
+ 
+
+349
+00:07:58,450 --> 00:08:00,930
+cast spells from that class's list for
+example if a sorcerer takes the bard
+
+350
+00:08:00,930 --> 00:08:00,940
+example if a sorcerer takes the bard
+ 
+
+351
+00:08:00,940 --> 00:08:03,810
+example if a sorcerer takes the bard
+multi class archetype all spell slots
+
+352
+00:08:03,810 --> 00:08:03,820
+multi class archetype all spell slots
+ 
+
+353
+00:08:03,820 --> 00:08:07,290
+multi class archetype all spell slots
+granted by bard basic spell casting must
+
+354
+00:08:07,290 --> 00:08:07,300
+granted by bard basic spell casting must
+ 
+
+355
+00:08:07,300 --> 00:08:09,090
+granted by bard basic spell casting must
+be used to cast bard
+
+356
+00:08:09,090 --> 00:08:09,100
+be used to cast bard
+ 
+
+357
+00:08:09,100 --> 00:08:11,550
+be used to cast bard
+occult spells even though that character
+
+358
+00:08:11,550 --> 00:08:11,560
+occult spells even though that character
+ 
+
+359
+00:08:11,560 --> 00:08:14,430
+occult spells even though that character
+may also be able to cast sorcerer occult
+
+360
+00:08:14,430 --> 00:08:14,440
+may also be able to cast sorcerer occult
+ 
+
+361
+00:08:14,440 --> 00:08:15,839
+may also be able to cast sorcerer occult
+spells
+
+362
+00:08:15,839 --> 00:08:15,849
+spells
+ 
+
+363
+00:08:15,849 --> 00:08:18,059
+spells
+expert spell-casting grants expert
+
+364
+00:08:18,059 --> 00:08:18,069
+expert spell-casting grants expert
+ 
+
+365
+00:08:18,069 --> 00:08:19,769
+expert spell-casting grants expert
+proficiency in the relevant
+
+366
+00:08:19,769 --> 00:08:19,779
+proficiency in the relevant
+ 
+
+367
+00:08:19,779 --> 00:08:22,439
+proficiency in the relevant
+spell-casting tradition and also grants
+
+368
+00:08:22,439 --> 00:08:22,449
+spell-casting tradition and also grants
+ 
+
+369
+00:08:22,449 --> 00:08:24,449
+spell-casting tradition and also grants
+a single fourth level spell at 12th
+
+370
+00:08:24,449 --> 00:08:24,459
+a single fourth level spell at 12th
+ 
+
+371
+00:08:24,459 --> 00:08:27,359
+a single fourth level spell at 12th
+level a fifth level spell slot at 14th
+
+372
+00:08:27,359 --> 00:08:27,369
+level a fifth level spell slot at 14th
+ 
+
+373
+00:08:27,369 --> 00:08:30,869
+level a fifth level spell slot at 14th
+level and a 6th level spell slot at 16th
+
+374
+00:08:30,869 --> 00:08:30,879
+level and a 6th level spell slot at 16th
+ 
+
+375
+00:08:30,879 --> 00:08:34,019
+level and a 6th level spell slot at 16th
+level master spell casting grants of
+
+376
+00:08:34,019 --> 00:08:34,029
+level master spell casting grants of
+ 
+
+377
+00:08:34,029 --> 00:08:36,540
+level master spell casting grants of
+master level proficiency and gives you a
+
+378
+00:08:36,540 --> 00:08:36,550
+master level proficiency and gives you a
+ 
+
+379
+00:08:36,550 --> 00:08:39,209
+master level proficiency and gives you a
+seventh level spell slot at 18th level
+
+380
+00:08:39,209 --> 00:08:39,219
+seventh level spell slot at 18th level
+ 
+
+381
+00:08:39,219 --> 00:08:42,240
+seventh level spell slot at 18th level
+and an eighth level spell slot at 20th
+
+382
+00:08:42,240 --> 00:08:42,250
+and an eighth level spell slot at 20th
+ 
+
+383
+00:08:42,250 --> 00:08:44,060
+and an eighth level spell slot at 20th
+level
+
+384
+00:08:44,060 --> 00:08:44,070
+level
+ 
+
+385
+00:08:44,070 --> 00:08:47,480
+level
+those are the basic rules of archetypes
+
+386
+00:08:47,480 --> 00:08:47,490
+those are the basic rules of archetypes
+ 
+
+387
+00:08:47,490 --> 00:08:49,190
+those are the basic rules of archetypes
+but let's bring it all together in one
+
+388
+00:08:49,190 --> 00:08:49,200
+but let's bring it all together in one
+ 
+
+389
+00:08:49,200 --> 00:08:50,560
+but let's bring it all together in one
+more time
+
+390
+00:08:50,560 --> 00:08:50,570
+more time
+ 
+
+391
+00:08:50,570 --> 00:08:53,270
+more time
+archetypes are powerful tools that allow
+
+392
+00:08:53,270 --> 00:08:53,280
+archetypes are powerful tools that allow
+ 
+
+393
+00:08:53,280 --> 00:08:55,250
+archetypes are powerful tools that allow
+you to customize your character by
+
+394
+00:08:55,250 --> 00:08:55,260
+you to customize your character by
+ 
+
+395
+00:08:55,260 --> 00:08:58,100
+you to customize your character by
+specializing within their own class by
+
+396
+00:08:58,100 --> 00:08:58,110
+specializing within their own class by
+ 
+
+397
+00:08:58,110 --> 00:09:01,010
+specializing within their own class by
+morty classing into another class or by
+
+398
+00:09:01,010 --> 00:09:01,020
+morty classing into another class or by
+ 
+
+399
+00:09:01,020 --> 00:09:03,290
+morty classing into another class or by
+gaining access to abilities normally
+
+400
+00:09:03,290 --> 00:09:03,300
+gaining access to abilities normally
+ 
+
+401
+00:09:03,300 --> 00:09:05,090
+gaining access to abilities normally
+restricted to members of a particular
+
+402
+00:09:05,090 --> 00:09:05,100
+restricted to members of a particular
+ 
+
+403
+00:09:05,100 --> 00:09:08,210
+restricted to members of a particular
+organization trade or other specialized
+
+404
+00:09:08,210 --> 00:09:08,220
+organization trade or other specialized
+ 
+
+405
+00:09:08,220 --> 00:09:11,600
+organization trade or other specialized
+group an archetype is essentially a
+
+406
+00:09:11,600 --> 00:09:11,610
+group an archetype is essentially a
+ 
+
+407
+00:09:11,610 --> 00:09:14,270
+group an archetype is essentially a
+group of feats that requires you to take
+
+408
+00:09:14,270 --> 00:09:14,280
+group of feats that requires you to take
+ 
+
+409
+00:09:14,280 --> 00:09:17,000
+group of feats that requires you to take
+a unique dedication feat in order to
+
+410
+00:09:17,000 --> 00:09:17,010
+a unique dedication feat in order to
+ 
+
+411
+00:09:17,010 --> 00:09:19,490
+a unique dedication feat in order to
+access the other feats within the
+
+412
+00:09:19,490 --> 00:09:19,500
+access the other feats within the
+ 
+
+413
+00:09:19,500 --> 00:09:22,400
+access the other feats within the
+archetype once you take the dedication
+
+414
+00:09:22,400 --> 00:09:22,410
+archetype once you take the dedication
+ 
+
+415
+00:09:22,410 --> 00:09:24,860
+archetype once you take the dedication
+feat of one archetype you will not be
+
+416
+00:09:24,860 --> 00:09:24,870
+feat of one archetype you will not be
+ 
+
+417
+00:09:24,870 --> 00:09:26,660
+feat of one archetype you will not be
+able to take the dedication feet of
+
+418
+00:09:26,660 --> 00:09:26,670
+able to take the dedication feet of
+ 
+
+419
+00:09:26,670 --> 00:09:29,150
+able to take the dedication feet of
+another archetype until you meet the
+
+420
+00:09:29,150 --> 00:09:29,160
+another archetype until you meet the
+ 
+
+421
+00:09:29,160 --> 00:09:31,760
+another archetype until you meet the
+special requirements listed in that
+
+422
+00:09:31,760 --> 00:09:31,770
+special requirements listed in that
+ 
+
+423
+00:09:31,770 --> 00:09:35,750
+special requirements listed in that
+dedication feet this limitation usually
+
+424
+00:09:35,750 --> 00:09:35,760
+dedication feet this limitation usually
+ 
+
+425
+00:09:35,760 --> 00:09:38,810
+dedication feet this limitation usually
+requires you to take two more feats from
+
+426
+00:09:38,810 --> 00:09:38,820
+requires you to take two more feats from
+ 
+
+427
+00:09:38,820 --> 00:09:40,850
+requires you to take two more feats from
+the archetype you just dedicated
+
+428
+00:09:40,850 --> 00:09:40,860
+the archetype you just dedicated
+ 
+
+429
+00:09:40,860 --> 00:09:43,970
+the archetype you just dedicated
+yourself to before you can select the
+
+430
+00:09:43,970 --> 00:09:43,980
+yourself to before you can select the
+ 
+
+431
+00:09:43,980 --> 00:09:47,050
+yourself to before you can select the
+dedication feet of another archetype
+
+432
+00:09:47,050 --> 00:09:47,060
+dedication feet of another archetype
+ 
+
+433
+00:09:47,060 --> 00:09:49,760
+dedication feet of another archetype
+class fees which are typically gained
+
+434
+00:09:49,760 --> 00:09:49,770
+class fees which are typically gained
+ 
+
+435
+00:09:49,770 --> 00:09:51,890
+class fees which are typically gained
+when reaching even-numbered levels are
+
+436
+00:09:51,890 --> 00:09:51,900
+when reaching even-numbered levels are
+ 
+
+437
+00:09:51,900 --> 00:09:55,430
+when reaching even-numbered levels are
+used to select archetype feats unless
+
+438
+00:09:55,430 --> 00:09:55,440
+used to select archetype feats unless
+ 
+
+439
+00:09:55,440 --> 00:09:58,130
+used to select archetype feats unless
+the feet has the skill trait in which
+
+440
+00:09:58,130 --> 00:09:58,140
+the feet has the skill trait in which
+ 
+
+441
+00:09:58,140 --> 00:10:00,230
+the feet has the skill trait in which
+case you would use a skill feet to
+
+442
+00:10:00,230 --> 00:10:00,240
+case you would use a skill feet to
+ 
+
+443
+00:10:00,240 --> 00:10:03,710
+case you would use a skill feet to
+select it class archetypes require you
+
+444
+00:10:03,710 --> 00:10:03,720
+select it class archetypes require you
+ 
+
+445
+00:10:03,720 --> 00:10:06,080
+select it class archetypes require you
+to be a member of that archetypes class
+
+446
+00:10:06,080 --> 00:10:06,090
+to be a member of that archetypes class
+ 
+
+447
+00:10:06,090 --> 00:10:08,720
+to be a member of that archetypes class
+in order to select it you may never
+
+448
+00:10:08,720 --> 00:10:08,730
+in order to select it you may never
+ 
+
+449
+00:10:08,730 --> 00:10:11,510
+in order to select it you may never
+belong to more than one class archetype
+
+450
+00:10:11,510 --> 00:10:11,520
+belong to more than one class archetype
+ 
+
+451
+00:10:11,520 --> 00:10:14,150
+belong to more than one class archetype
+and some class archetypes allow you to
+
+452
+00:10:14,150 --> 00:10:14,160
+and some class archetypes allow you to
+ 
+
+453
+00:10:14,160 --> 00:10:15,980
+and some class archetypes allow you to
+select them at first level when creating
+
+454
+00:10:15,980 --> 00:10:15,990
+select them at first level when creating
+ 
+
+455
+00:10:15,990 --> 00:10:18,530
+select them at first level when creating
+your character if you do so
+
+456
+00:10:18,530 --> 00:10:18,540
+your character if you do so
+ 
+
+457
+00:10:18,540 --> 00:10:21,320
+your character if you do so
+you must spend your second level class
+
+458
+00:10:21,320 --> 00:10:21,330
+you must spend your second level class
+ 
+
+459
+00:10:21,330 --> 00:10:24,600
+you must spend your second level class
+feet on that archetypes dedication
+
+460
+00:10:24,600 --> 00:10:24,610
+feet on that archetypes dedication
+ 
+
+461
+00:10:24,610 --> 00:10:26,519
+feet on that archetypes dedication
+another type of archetype with
+
+462
+00:10:26,519 --> 00:10:26,529
+another type of archetype with
+ 
+
+463
+00:10:26,529 --> 00:10:29,600
+another type of archetype with
+mentioning is the multi-class archetype
+
+464
+00:10:29,600 --> 00:10:29,610
+mentioning is the multi-class archetype
+ 
+
+465
+00:10:29,610 --> 00:10:32,940
+mentioning is the multi-class archetype
+unlike class archetypes you must be a
+
+466
+00:10:32,940 --> 00:10:32,950
+unlike class archetypes you must be a
+ 
+
+467
+00:10:32,950 --> 00:10:35,190
+unlike class archetypes you must be a
+different class than the class
+
+468
+00:10:35,190 --> 00:10:35,200
+different class than the class
+ 
+
+469
+00:10:35,200 --> 00:10:37,620
+different class than the class
+represented as a multi class archetype
+
+470
+00:10:37,620 --> 00:10:37,630
+represented as a multi class archetype
+ 
+
+471
+00:10:37,630 --> 00:10:40,800
+represented as a multi class archetype
+and some archetypes grant the ability to
+
+472
+00:10:40,800 --> 00:10:40,810
+and some archetypes grant the ability to
+ 
+
+473
+00:10:40,810 --> 00:10:43,410
+and some archetypes grant the ability to
+cast spells the dedication feats for
+
+474
+00:10:43,410 --> 00:10:43,420
+cast spells the dedication feats for
+ 
+
+475
+00:10:43,420 --> 00:10:45,930
+cast spells the dedication feats for
+these archetypes grant the ability to
+
+476
+00:10:45,930 --> 00:10:45,940
+these archetypes grant the ability to
+ 
+
+477
+00:10:45,940 --> 00:10:48,120
+these archetypes grant the ability to
+cast can trips from that archetypes
+
+478
+00:10:48,120 --> 00:10:48,130
+cast can trips from that archetypes
+ 
+
+479
+00:10:48,130 --> 00:10:51,030
+cast can trips from that archetypes
+class in tradition in order to cast
+
+480
+00:10:51,030 --> 00:10:51,040
+class in tradition in order to cast
+ 
+
+481
+00:10:51,040 --> 00:10:53,519
+class in tradition in order to cast
+higher-level spells you will need to
+
+482
+00:10:53,519 --> 00:10:53,529
+higher-level spells you will need to
+ 
+
+483
+00:10:53,529 --> 00:10:55,590
+higher-level spells you will need to
+purchase other spell casting feats from
+
+484
+00:10:55,590 --> 00:10:55,600
+purchase other spell casting feats from
+ 
+
+485
+00:10:55,600 --> 00:10:57,810
+purchase other spell casting feats from
+that archetype these are labeled as
+
+486
+00:10:57,810 --> 00:10:57,820
+that archetype these are labeled as
+ 
+
+487
+00:10:57,820 --> 00:11:00,660
+that archetype these are labeled as
+basic expert and master of spell casting
+
+488
+00:11:00,660 --> 00:11:00,670
+basic expert and master of spell casting
+ 
+
+489
+00:11:00,670 --> 00:11:04,170
+basic expert and master of spell casting
+feats and any spell slots gained from a
+
+490
+00:11:04,170 --> 00:11:04,180
+feats and any spell slots gained from a
+ 
+
+491
+00:11:04,180 --> 00:11:07,410
+feats and any spell slots gained from a
+spell casting archetype may only be used
+
+492
+00:11:07,410 --> 00:11:07,420
+spell casting archetype may only be used
+ 
+
+493
+00:11:07,420 --> 00:11:10,079
+spell casting archetype may only be used
+to cast spells from that archetypes
+
+494
+00:11:10,079 --> 00:11:10,089
+to cast spells from that archetypes
+ 
+
+495
+00:11:10,089 --> 00:11:13,889
+to cast spells from that archetypes
+class and tradition and likewise any
+
+496
+00:11:13,889 --> 00:11:13,899
+class and tradition and likewise any
+ 
+
+497
+00:11:13,899 --> 00:11:15,990
+class and tradition and likewise any
+spell slots that you received from your
+
+498
+00:11:15,990 --> 00:11:16,000
+spell slots that you received from your
+ 
+
+499
+00:11:16,000 --> 00:11:19,110
+spell slots that you received from your
+base class cannot be used to cast spells
+
+500
+00:11:19,110 --> 00:11:19,120
+base class cannot be used to cast spells
+ 
+
+501
+00:11:19,120 --> 00:11:22,050
+base class cannot be used to cast spells
+Gaede from an archetype they must be two
+
+502
+00:11:22,050 --> 00:11:22,060
+Gaede from an archetype they must be two
+ 
+
+503
+00:11:22,060 --> 00:11:25,689
+Gaede from an archetype they must be two
+separate poles
+
+504
+00:11:25,689 --> 00:11:25,699
+
+ 
+
+505
+00:11:25,699 --> 00:11:27,429
+
+before we close I'd like to take a
+
+506
+00:11:27,429 --> 00:11:27,439
+before we close I'd like to take a
+ 
+
+507
+00:11:27,439 --> 00:11:29,889
+before we close I'd like to take a
+moment to thank all of our patrons these
+
+508
+00:11:29,889 --> 00:11:29,899
+moment to thank all of our patrons these
+ 
+
+509
+00:11:29,899 --> 00:11:31,659
+moment to thank all of our patrons these
+videos would not be possible without
+
+510
+00:11:31,659 --> 00:11:31,669
+videos would not be possible without
+ 
+
+511
+00:11:31,669 --> 00:11:34,499
+videos would not be possible without
+their continued generosity and support
+
+512
+00:11:34,499 --> 00:11:34,509
+their continued generosity and support
+ 
+
+513
+00:11:34,509 --> 00:11:37,329
+their continued generosity and support
+members of the basics for gamers patreon
+
+514
+00:11:37,329 --> 00:11:37,339
+members of the basics for gamers patreon
+ 
+
+515
+00:11:37,339 --> 00:11:39,519
+members of the basics for gamers patreon
+community receive special benefits like
+
+516
+00:11:39,519 --> 00:11:39,529
+community receive special benefits like
+ 
+
+517
+00:11:39,529 --> 00:11:41,379
+community receive special benefits like
+getting the vote on the topics that we
+
+518
+00:11:41,379 --> 00:11:41,389
+getting the vote on the topics that we
+ 
+
+519
+00:11:41,389 --> 00:11:43,599
+getting the vote on the topics that we
+cover in the future and also they get to
+
+520
+00:11:43,599 --> 00:11:43,609
+cover in the future and also they get to
+ 
+
+521
+00:11:43,609 --> 00:11:46,090
+cover in the future and also they get to
+see these videos one week and ad-free
+
+522
+00:11:46,090 --> 00:11:46,100
+see these videos one week and ad-free
+ 
+
+523
+00:11:46,100 --> 00:11:49,449
+see these videos one week and ad-free
+before everybody else visit the link
+
+524
+00:11:49,449 --> 00:11:49,459
+before everybody else visit the link
+ 
+
+525
+00:11:49,459 --> 00:11:51,189
+before everybody else visit the link
+shown on the left of the screen and in
+
+526
+00:11:51,189 --> 00:11:51,199
+shown on the left of the screen and in
+ 
+
+527
+00:11:51,199 --> 00:11:52,689
+shown on the left of the screen and in
+the description if you'd like to know
+
+528
+00:11:52,689 --> 00:11:52,699
+the description if you'd like to know
+ 
+
+529
+00:11:52,699 --> 00:11:55,359
+the description if you'd like to know
+more about becoming a patron if you
+
+530
+00:11:55,359 --> 00:11:55,369
+more about becoming a patron if you
+ 
+
+531
+00:11:55,369 --> 00:11:56,679
+more about becoming a patron if you
+would like to support this channel and
+
+532
+00:11:56,679 --> 00:11:56,689
+would like to support this channel and
+ 
+
+533
+00:11:56,689 --> 00:11:58,689
+would like to support this channel and
+help it grow the easiest way to do that
+
+534
+00:11:58,689 --> 00:11:58,699
+help it grow the easiest way to do that
+ 
+
+535
+00:11:58,699 --> 00:12:01,419
+help it grow the easiest way to do that
+is by subscribing and clicking the bell
+
+536
+00:12:01,419 --> 00:12:01,429
+is by subscribing and clicking the bell
+ 
+
+537
+00:12:01,429 --> 00:12:03,729
+is by subscribing and clicking the bell
+icon so you get notified when new videos
+
+538
+00:12:03,729 --> 00:12:03,739
+icon so you get notified when new videos
+ 
+
+539
+00:12:03,739 --> 00:12:06,369
+icon so you get notified when new videos
+release and we can always be reached
+
+540
+00:12:06,369 --> 00:12:06,379
+release and we can always be reached
+ 
+
+541
+00:12:06,379 --> 00:12:07,689
+release and we can always be reached
+through our Twitter and Facebook pages
+
+542
+00:12:07,689 --> 00:12:07,699
+through our Twitter and Facebook pages
+ 
+
+543
+00:12:07,699 --> 00:12:10,809
+through our Twitter and Facebook pages
+too thanks for watching take care and we
+
+544
+00:12:10,809 --> 00:12:10,819
+too thanks for watching take care and we
+ 
+
+545
+00:12:10,819 --> 00:12:12,609
+too thanks for watching take care and we
+will see you soon with more basics of
+
+546
+00:12:12,609 --> 00:12:12,619
+will see you soon with more basics of
+ 
+
+547
+00:12:12,619 --> 00:12:15,249
+will see you soon with more basics of
+Pathfinder
+

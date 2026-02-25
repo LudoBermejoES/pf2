@@ -1,0 +1,5965 @@
+1
+00:00:00,729 --> 00:00:03,090
+
+hello and welcome to basics for gamers
+
+2
+00:00:03,090 --> 00:00:03,100
+hello and welcome to basics for gamers
+ 
+
+3
+00:00:03,100 --> 00:00:05,670
+hello and welcome to basics for gamers
+presents the basics of hazards in
+
+4
+00:00:05,670 --> 00:00:05,680
+presents the basics of hazards in
+ 
+
+5
+00:00:05,680 --> 00:00:08,040
+presents the basics of hazards in
+Pathfinder second edition before we
+
+6
+00:00:08,040 --> 00:00:08,050
+Pathfinder second edition before we
+ 
+
+7
+00:00:08,050 --> 00:00:09,749
+Pathfinder second edition before we
+begin is worth mentioning that this
+
+8
+00:00:09,749 --> 00:00:09,759
+begin is worth mentioning that this
+ 
+
+9
+00:00:09,759 --> 00:00:11,759
+begin is worth mentioning that this
+video builds upon information that is
+
+10
+00:00:11,759 --> 00:00:11,769
+video builds upon information that is
+ 
+
+11
+00:00:11,769 --> 00:00:14,039
+video builds upon information that is
+delivered in a few of our other videos
+
+12
+00:00:14,039 --> 00:00:14,049
+delivered in a few of our other videos
+ 
+
+13
+00:00:14,049 --> 00:00:16,590
+delivered in a few of our other videos
+notably our video on the thievery skill
+
+14
+00:00:16,590 --> 00:00:16,600
+notably our video on the thievery skill
+ 
+
+15
+00:00:16,600 --> 00:00:18,840
+notably our video on the thievery skill
+that explains how this able device is
+
+16
+00:00:18,840 --> 00:00:18,850
+that explains how this able device is
+ 
+
+17
+00:00:18,850 --> 00:00:21,570
+that explains how this able device is
+used to disarm traps and the videos on
+
+18
+00:00:21,570 --> 00:00:21,580
+used to disarm traps and the videos on
+ 
+
+19
+00:00:21,580 --> 00:00:24,000
+used to disarm traps and the videos on
+perception and stealth discuss what it
+
+20
+00:00:24,000 --> 00:00:24,010
+perception and stealth discuss what it
+ 
+
+21
+00:00:24,010 --> 00:00:25,830
+perception and stealth discuss what it
+takes to notice something which is
+
+22
+00:00:25,830 --> 00:00:25,840
+takes to notice something which is
+ 
+
+23
+00:00:25,840 --> 00:00:27,920
+takes to notice something which is
+important when trying to detect a trap
+
+24
+00:00:27,920 --> 00:00:27,930
+important when trying to detect a trap
+ 
+
+25
+00:00:27,930 --> 00:00:30,450
+important when trying to detect a trap
+so you are encouraged to go watch those
+
+26
+00:00:30,450 --> 00:00:30,460
+so you are encouraged to go watch those
+ 
+
+27
+00:00:30,460 --> 00:00:32,360
+so you are encouraged to go watch those
+videos if you haven't already done so
+
+28
+00:00:32,360 --> 00:00:32,370
+videos if you haven't already done so
+ 
+
+29
+00:00:32,370 --> 00:00:34,650
+videos if you haven't already done so
+links to them may be found in the
+
+30
+00:00:34,650 --> 00:00:34,660
+links to them may be found in the
+ 
+
+31
+00:00:34,660 --> 00:00:36,700
+links to them may be found in the
+description
+
+32
+00:00:36,700 --> 00:00:36,710
+description
+ 
+
+33
+00:00:36,710 --> 00:00:39,280
+description
+hazards are a group of dangers that
+
+34
+00:00:39,280 --> 00:00:39,290
+hazards are a group of dangers that
+ 
+
+35
+00:00:39,290 --> 00:00:41,080
+hazards are a group of dangers that
+players may face during their adventures
+
+36
+00:00:41,080 --> 00:00:41,090
+players may face during their adventures
+ 
+
+37
+00:00:41,090 --> 00:00:43,810
+players may face during their adventures
+other than creatures and they tend to
+
+38
+00:00:43,810 --> 00:00:43,820
+other than creatures and they tend to
+ 
+
+39
+00:00:43,820 --> 00:00:46,470
+other than creatures and they tend to
+fall into one of three broad categories
+
+40
+00:00:46,470 --> 00:00:46,480
+fall into one of three broad categories
+ 
+
+41
+00:00:46,480 --> 00:00:49,270
+fall into one of three broad categories
+environmental hazards hauntings and
+
+42
+00:00:49,270 --> 00:00:49,280
+environmental hazards hauntings and
+ 
+
+43
+00:00:49,280 --> 00:00:52,390
+environmental hazards hauntings and
+traps environmental hazards are
+
+44
+00:00:52,390 --> 00:00:52,400
+traps environmental hazards are
+ 
+
+45
+00:00:52,400 --> 00:00:54,910
+traps environmental hazards are
+typically products of nature such as a
+
+46
+00:00:54,910 --> 00:00:54,920
+typically products of nature such as a
+ 
+
+47
+00:00:54,920 --> 00:00:58,240
+typically products of nature such as a
+hurricane or a patch of quicksand Hantz
+
+48
+00:00:58,240 --> 00:00:58,250
+hurricane or a patch of quicksand Hantz
+ 
+
+49
+00:00:58,250 --> 00:01:00,460
+hurricane or a patch of quicksand Hantz
+are a cult hazards that one might expect
+
+50
+00:01:00,460 --> 00:01:00,470
+are a cult hazards that one might expect
+ 
+
+51
+00:01:00,470 --> 00:01:02,740
+are a cult hazards that one might expect
+to find in a haunted house or a haunted
+
+52
+00:01:02,740 --> 00:01:02,750
+to find in a haunted house or a haunted
+ 
+
+53
+00:01:02,750 --> 00:01:05,710
+to find in a haunted house or a haunted
+graveyard and tramps are probably what
+
+54
+00:01:05,710 --> 00:01:05,720
+graveyard and tramps are probably what
+ 
+
+55
+00:01:05,720 --> 00:01:07,450
+graveyard and tramps are probably what
+most people think of when it comes to
+
+56
+00:01:07,450 --> 00:01:07,460
+most people think of when it comes to
+ 
+
+57
+00:01:07,460 --> 00:01:10,630
+most people think of when it comes to
+Pathfinder hazards a giant stone rolling
+
+58
+00:01:10,630 --> 00:01:10,640
+Pathfinder hazards a giant stone rolling
+ 
+
+59
+00:01:10,640 --> 00:01:13,570
+Pathfinder hazards a giant stone rolling
+down the hallway or even a magical trap
+
+60
+00:01:13,570 --> 00:01:13,580
+down the hallway or even a magical trap
+ 
+
+61
+00:01:13,580 --> 00:01:16,930
+down the hallway or even a magical trap
+like a set of exploding rooms hazards
+
+62
+00:01:16,930 --> 00:01:16,940
+like a set of exploding rooms hazards
+ 
+
+63
+00:01:16,940 --> 00:01:19,050
+like a set of exploding rooms hazards
+are further divided into two types
+
+64
+00:01:19,050 --> 00:01:19,060
+are further divided into two types
+ 
+
+65
+00:01:19,060 --> 00:01:22,620
+are further divided into two types
+simple hazards and complex hazards a
+
+66
+00:01:22,620 --> 00:01:22,630
+simple hazards and complex hazards a
+ 
+
+67
+00:01:22,630 --> 00:01:25,600
+simple hazards and complex hazards a
+simple hazard is like a landmine it
+
+68
+00:01:25,600 --> 00:01:25,610
+simple hazard is like a landmine it
+ 
+
+69
+00:01:25,610 --> 00:01:28,930
+simple hazard is like a landmine it
+fires once and then it's done but
+
+70
+00:01:28,930 --> 00:01:28,940
+fires once and then it's done but
+ 
+
+71
+00:01:28,940 --> 00:01:31,900
+fires once and then it's done but
+complex hazards persist past their first
+
+72
+00:01:31,900 --> 00:01:31,910
+complex hazards persist past their first
+ 
+
+73
+00:01:31,910 --> 00:01:34,719
+complex hazards persist past their first
+activation and continue to run every
+
+74
+00:01:34,719 --> 00:01:34,729
+activation and continue to run every
+ 
+
+75
+00:01:34,729 --> 00:01:38,560
+activation and continue to run every
+turn according to a set routine
+
+76
+00:01:38,560 --> 00:01:38,570
+turn according to a set routine
+ 
+
+77
+00:01:38,570 --> 00:01:41,320
+
+every hazard has some manner of trigger
+
+78
+00:01:41,320 --> 00:01:41,330
+every hazard has some manner of trigger
+ 
+
+79
+00:01:41,330 --> 00:01:44,020
+every hazard has some manner of trigger
+condition for an environmental hazard
+
+80
+00:01:44,020 --> 00:01:44,030
+condition for an environmental hazard
+ 
+
+81
+00:01:44,030 --> 00:01:46,210
+condition for an environmental hazard
+like a tornado the trigger might simply
+
+82
+00:01:46,210 --> 00:01:46,220
+like a tornado the trigger might simply
+ 
+
+83
+00:01:46,220 --> 00:01:49,020
+like a tornado the trigger might simply
+be in close proximity to the tornado and
+
+84
+00:01:49,020 --> 00:01:49,030
+be in close proximity to the tornado and
+ 
+
+85
+00:01:49,030 --> 00:01:51,820
+be in close proximity to the tornado and
+often these triggers are intentionally
+
+86
+00:01:51,820 --> 00:01:51,830
+often these triggers are intentionally
+ 
+
+87
+00:01:51,830 --> 00:01:54,460
+often these triggers are intentionally
+hidden like with most traps so it's
+
+88
+00:01:54,460 --> 00:01:54,470
+hidden like with most traps so it's
+ 
+
+89
+00:01:54,470 --> 00:01:55,960
+hidden like with most traps so it's
+important to know how a player goes
+
+90
+00:01:55,960 --> 00:01:55,970
+important to know how a player goes
+ 
+
+91
+00:01:55,970 --> 00:01:58,240
+important to know how a player goes
+about noticing if there is a hazard in
+
+92
+00:01:58,240 --> 00:01:58,250
+about noticing if there is a hazard in
+ 
+
+93
+00:01:58,250 --> 00:02:01,000
+about noticing if there is a hazard in
+their area characters should have an
+
+94
+00:02:01,000 --> 00:02:01,010
+their area characters should have an
+ 
+
+95
+00:02:01,010 --> 00:02:03,310
+their area characters should have an
+opportunity to spot a hazard before it
+
+96
+00:02:03,310 --> 00:02:03,320
+opportunity to spot a hazard before it
+ 
+
+97
+00:02:03,320 --> 00:02:05,740
+opportunity to spot a hazard before it
+is triggered the difficulty for this
+
+98
+00:02:05,740 --> 00:02:05,750
+is triggered the difficulty for this
+ 
+
+99
+00:02:05,750 --> 00:02:08,830
+is triggered the difficulty for this
+check is listed as the hazard stealth DC
+
+100
+00:02:08,830 --> 00:02:08,840
+check is listed as the hazard stealth DC
+ 
+
+101
+00:02:08,840 --> 00:02:11,470
+check is listed as the hazard stealth DC
+and sometimes will require a minimum
+
+102
+00:02:11,470 --> 00:02:11,480
+and sometimes will require a minimum
+ 
+
+103
+00:02:11,480 --> 00:02:14,140
+and sometimes will require a minimum
+proficiency rank in perception in order
+
+104
+00:02:14,140 --> 00:02:14,150
+proficiency rank in perception in order
+ 
+
+105
+00:02:14,150 --> 00:02:17,260
+proficiency rank in perception in order
+to be detected if there is no minimum
+
+106
+00:02:17,260 --> 00:02:17,270
+to be detected if there is no minimum
+ 
+
+107
+00:02:17,270 --> 00:02:19,690
+to be detected if there is no minimum
+proficiency listed then the GM should
+
+108
+00:02:19,690 --> 00:02:19,700
+proficiency listed then the GM should
+ 
+
+109
+00:02:19,700 --> 00:02:21,550
+proficiency listed then the GM should
+roll a perception check for each
+
+110
+00:02:21,550 --> 00:02:21,560
+roll a perception check for each
+ 
+
+111
+00:02:21,560 --> 00:02:24,190
+roll a perception check for each
+character and compare it to the hazard
+
+112
+00:02:24,190 --> 00:02:24,200
+character and compare it to the hazard
+ 
+
+113
+00:02:24,200 --> 00:02:27,460
+character and compare it to the hazard
+stealth DC as long as there is no
+
+114
+00:02:27,460 --> 00:02:27,470
+stealth DC as long as there is no
+ 
+
+115
+00:02:27,470 --> 00:02:30,100
+stealth DC as long as there is no
+minimum proficiency listed then these
+
+116
+00:02:30,100 --> 00:02:30,110
+minimum proficiency listed then these
+ 
+
+117
+00:02:30,110 --> 00:02:32,560
+minimum proficiency listed then these
+checks are made for free and do not
+
+118
+00:02:32,560 --> 00:02:32,570
+checks are made for free and do not
+ 
+
+119
+00:02:32,570 --> 00:02:34,960
+checks are made for free and do not
+require the character to take the seek
+
+120
+00:02:34,960 --> 00:02:34,970
+require the character to take the seek
+ 
+
+121
+00:02:34,970 --> 00:02:38,920
+require the character to take the seek
+action first however if the hazard does
+
+122
+00:02:38,920 --> 00:02:38,930
+action first however if the hazard does
+ 
+
+123
+00:02:38,930 --> 00:02:41,320
+action first however if the hazard does
+have a minimum proficiency listed with
+
+124
+00:02:41,320 --> 00:02:41,330
+have a minimum proficiency listed with
+ 
+
+125
+00:02:41,330 --> 00:02:44,290
+have a minimum proficiency listed with
+its stealth DC then two things are going
+
+126
+00:02:44,290 --> 00:02:44,300
+its stealth DC then two things are going
+ 
+
+127
+00:02:44,300 --> 00:02:47,830
+its stealth DC then two things are going
+to happen first no perception checks are
+
+128
+00:02:47,830 --> 00:02:47,840
+to happen first no perception checks are
+ 
+
+129
+00:02:47,840 --> 00:02:50,259
+to happen first no perception checks are
+made for free if there is a minimum
+
+130
+00:02:50,259 --> 00:02:50,269
+made for free if there is a minimum
+ 
+
+131
+00:02:50,269 --> 00:02:53,050
+made for free if there is a minimum
+proficiency listed then characters must
+
+132
+00:02:53,050 --> 00:02:53,060
+proficiency listed then characters must
+ 
+
+133
+00:02:53,060 --> 00:02:55,390
+proficiency listed then characters must
+take the seek action in order to spot
+
+134
+00:02:55,390 --> 00:02:55,400
+take the seek action in order to spot
+ 
+
+135
+00:02:55,400 --> 00:02:58,750
+take the seek action in order to spot
+the hazard in second these attempts
+
+136
+00:02:58,750 --> 00:02:58,760
+the hazard in second these attempts
+ 
+
+137
+00:02:58,760 --> 00:03:00,910
+the hazard in second these attempts
+automatically fail if the seeking
+
+138
+00:03:00,910 --> 00:03:00,920
+automatically fail if the seeking
+ 
+
+139
+00:03:00,920 --> 00:03:02,400
+automatically fail if the seeking
+character does not meet the minimum
+
+140
+00:03:02,400 --> 00:03:02,410
+character does not meet the minimum
+ 
+
+141
+00:03:02,410 --> 00:03:05,530
+character does not meet the minimum
+proficiency rate in perception no matter
+
+142
+00:03:05,530 --> 00:03:05,540
+proficiency rate in perception no matter
+ 
+
+143
+00:03:05,540 --> 00:03:08,860
+proficiency rate in perception no matter
+how high their chick roll might be for
+
+144
+00:03:08,860 --> 00:03:08,870
+how high their chick roll might be for
+ 
+
+145
+00:03:08,870 --> 00:03:11,680
+how high their chick roll might be for
+example if a hazard stat block says
+
+146
+00:03:11,680 --> 00:03:11,690
+example if a hazard stat block says
+ 
+
+147
+00:03:11,690 --> 00:03:16,210
+example if a hazard stat block says
+stealth DC 20 for expert then anyone who
+
+148
+00:03:16,210 --> 00:03:16,220
+stealth DC 20 for expert then anyone who
+ 
+
+149
+00:03:16,220 --> 00:03:19,680
+stealth DC 20 for expert then anyone who
+is untrained or trained in perception
+
+150
+00:03:19,680 --> 00:03:19,690
+is untrained or trained in perception
+ 
+
+151
+00:03:19,690 --> 00:03:22,270
+is untrained or trained in perception
+automatically fails there seek action
+
+152
+00:03:22,270 --> 00:03:22,280
+automatically fails there seek action
+ 
+
+153
+00:03:22,280 --> 00:03:25,660
+automatically fails there seek action
+and doesn't spot the hazard also this is
+
+154
+00:03:25,660 --> 00:03:25,670
+and doesn't spot the hazard also this is
+ 
+
+155
+00:03:25,670 --> 00:03:27,759
+and doesn't spot the hazard also this is
+one of those times where a GM might want
+
+156
+00:03:27,759 --> 00:03:27,769
+one of those times where a GM might want
+ 
+
+157
+00:03:27,769 --> 00:03:30,130
+one of those times where a GM might want
+to make these checks in secret and since
+
+158
+00:03:30,130 --> 00:03:30,140
+to make these checks in secret and since
+ 
+
+159
+00:03:30,140 --> 00:03:32,050
+to make these checks in secret and since
+checks are automatically enrolled for
+
+160
+00:03:32,050 --> 00:03:32,060
+checks are automatically enrolled for
+ 
+
+161
+00:03:32,060 --> 00:03:34,479
+checks are automatically enrolled for
+hazards that do not have a required
+
+162
+00:03:34,479 --> 00:03:34,489
+hazards that do not have a required
+ 
+
+163
+00:03:34,489 --> 00:03:36,820
+hazards that do not have a required
+perception proficiency you might even
+
+164
+00:03:36,820 --> 00:03:36,830
+perception proficiency you might even
+ 
+
+165
+00:03:36,830 --> 00:03:39,160
+perception proficiency you might even
+fake roll these at random times when
+
+166
+00:03:39,160 --> 00:03:39,170
+fake roll these at random times when
+ 
+
+167
+00:03:39,170 --> 00:03:41,050
+fake roll these at random times when
+players enter a room or a hallway just
+
+168
+00:03:41,050 --> 00:03:41,060
+players enter a room or a hallway just
+ 
+
+169
+00:03:41,060 --> 00:03:44,560
+players enter a room or a hallway just
+to keep them on their toes and a quick
+
+170
+00:03:44,560 --> 00:03:44,570
+to keep them on their toes and a quick
+ 
+
+171
+00:03:44,570 --> 00:03:47,770
+to keep them on their toes and a quick
+note about magical hazards if the hazard
+
+172
+00:03:47,770 --> 00:03:47,780
+note about magical hazards if the hazard
+ 
+
+173
+00:03:47,780 --> 00:03:50,650
+note about magical hazards if the hazard
+is magical and does not have a minimum
+
+174
+00:03:50,650 --> 00:03:50,660
+is magical and does not have a minimum
+ 
+
+175
+00:03:50,660 --> 00:03:52,730
+is magical and does not have a minimum
+listed perception proficient
+
+176
+00:03:52,730 --> 00:03:52,740
+listed perception proficient
+ 
+
+177
+00:03:52,740 --> 00:03:55,250
+listed perception proficient
+then his presence can be detected by
+
+178
+00:03:55,250 --> 00:03:55,260
+then his presence can be detected by
+ 
+
+179
+00:03:55,260 --> 00:03:58,580
+then his presence can be detected by
+using the detect magic spell but this
+
+180
+00:03:58,580 --> 00:03:58,590
+using the detect magic spell but this
+ 
+
+181
+00:03:58,590 --> 00:04:01,220
+using the detect magic spell but this
+only reveals the presence of magic in
+
+182
+00:04:01,220 --> 00:04:01,230
+only reveals the presence of magic in
+ 
+
+183
+00:04:01,230 --> 00:04:03,170
+only reveals the presence of magic in
+the area and nothing else
+
+184
+00:04:03,170 --> 00:04:03,180
+the area and nothing else
+ 
+
+185
+00:04:03,180 --> 00:04:07,010
+the area and nothing else
+and again the tech magic only works if
+
+186
+00:04:07,010 --> 00:04:07,020
+and again the tech magic only works if
+ 
+
+187
+00:04:07,020 --> 00:04:09,830
+and again the tech magic only works if
+the hazard does not require a minimum
+
+188
+00:04:09,830 --> 00:04:09,840
+the hazard does not require a minimum
+ 
+
+189
+00:04:09,840 --> 00:04:12,740
+the hazard does not require a minimum
+perception rank to spot if it requires
+
+190
+00:04:12,740 --> 00:04:12,750
+perception rank to spot if it requires
+ 
+
+191
+00:04:12,750 --> 00:04:16,699
+perception rank to spot if it requires
+DC 34 trained the detect magic is not
+
+192
+00:04:16,699 --> 00:04:16,709
+DC 34 trained the detect magic is not
+ 
+
+193
+00:04:16,709 --> 00:04:18,979
+DC 34 trained the detect magic is not
+going to work on it at all it doesn't
+
+194
+00:04:18,979 --> 00:04:18,989
+going to work on it at all it doesn't
+ 
+
+195
+00:04:18,989 --> 00:04:21,229
+going to work on it at all it doesn't
+matter if your perception rank is higher
+
+196
+00:04:21,229 --> 00:04:21,239
+matter if your perception rank is higher
+ 
+
+197
+00:04:21,239 --> 00:04:23,450
+matter if your perception rank is higher
+than trained or your spell casting
+
+198
+00:04:23,450 --> 00:04:23,460
+than trained or your spell casting
+ 
+
+199
+00:04:23,460 --> 00:04:25,640
+than trained or your spell casting
+proficiency is higher none of that
+
+200
+00:04:25,640 --> 00:04:25,650
+proficiency is higher none of that
+ 
+
+201
+00:04:25,650 --> 00:04:29,120
+proficiency is higher none of that
+matters if there is any rank listed next
+
+202
+00:04:29,120 --> 00:04:29,130
+matters if there is any rank listed next
+ 
+
+203
+00:04:29,130 --> 00:04:31,820
+matters if there is any rank listed next
+to the stealth DC then it is impossible
+
+204
+00:04:31,820 --> 00:04:31,830
+to the stealth DC then it is impossible
+ 
+
+205
+00:04:31,830 --> 00:04:36,200
+to the stealth DC then it is impossible
+to spot with the detect magic spell each
+
+206
+00:04:36,200 --> 00:04:36,210
+to spot with the detect magic spell each
+ 
+
+207
+00:04:36,210 --> 00:04:38,540
+to spot with the detect magic spell each
+hazard step block shows what needs to
+
+208
+00:04:38,540 --> 00:04:38,550
+hazard step block shows what needs to
+ 
+
+209
+00:04:38,550 --> 00:04:41,000
+hazard step block shows what needs to
+occur for it to be triggered if the
+
+210
+00:04:41,000 --> 00:04:41,010
+occur for it to be triggered if the
+ 
+
+211
+00:04:41,010 --> 00:04:43,790
+occur for it to be triggered if the
+condition is to enter an area or step on
+
+212
+00:04:43,790 --> 00:04:43,800
+condition is to enter an area or step on
+ 
+
+213
+00:04:43,800 --> 00:04:46,130
+condition is to enter an area or step on
+something in a character's path then it
+
+214
+00:04:46,130 --> 00:04:46,140
+something in a character's path then it
+ 
+
+215
+00:04:46,140 --> 00:04:48,080
+something in a character's path then it
+is assumed that the character does so
+
+216
+00:04:48,080 --> 00:04:48,090
+is assumed that the character does so
+ 
+
+217
+00:04:48,090 --> 00:04:51,110
+is assumed that the character does so
+when they move through that space but if
+
+218
+00:04:51,110 --> 00:04:51,120
+when they move through that space but if
+ 
+
+219
+00:04:51,120 --> 00:04:52,670
+when they move through that space but if
+the trigger calls for something to be
+
+220
+00:04:52,670 --> 00:04:52,680
+the trigger calls for something to be
+ 
+
+221
+00:04:52,680 --> 00:04:55,130
+the trigger calls for something to be
+manipulated like opening a door or
+
+222
+00:04:55,130 --> 00:04:55,140
+manipulated like opening a door or
+ 
+
+223
+00:04:55,140 --> 00:04:57,469
+manipulated like opening a door or
+pulling a lever then the trigger only
+
+224
+00:04:57,469 --> 00:04:57,479
+pulling a lever then the trigger only
+ 
+
+225
+00:04:57,479 --> 00:05:00,050
+pulling a lever then the trigger only
+occurs if the character specifically
+
+226
+00:05:00,050 --> 00:05:00,060
+occurs if the character specifically
+ 
+
+227
+00:05:00,060 --> 00:05:03,469
+occurs if the character specifically
+performs that action also triggers are
+
+228
+00:05:03,469 --> 00:05:03,479
+performs that action also triggers are
+ 
+
+229
+00:05:03,479 --> 00:05:05,870
+performs that action also triggers are
+either going to be listed as reactions
+
+230
+00:05:05,870 --> 00:05:05,880
+either going to be listed as reactions
+ 
+
+231
+00:05:05,880 --> 00:05:09,050
+either going to be listed as reactions
+or as free actions the key distinction
+
+232
+00:05:09,050 --> 00:05:09,060
+or as free actions the key distinction
+ 
+
+233
+00:05:09,060 --> 00:05:11,180
+or as free actions the key distinction
+here is that hazards like most
+
+234
+00:05:11,180 --> 00:05:11,190
+here is that hazards like most
+ 
+
+235
+00:05:11,190 --> 00:05:13,670
+here is that hazards like most
+characters only have one reaction per
+
+236
+00:05:13,670 --> 00:05:13,680
+characters only have one reaction per
+ 
+
+237
+00:05:13,680 --> 00:05:16,460
+characters only have one reaction per
+turn so if the hazards trigger is a
+
+238
+00:05:16,460 --> 00:05:16,470
+turn so if the hazards trigger is a
+ 
+
+239
+00:05:16,470 --> 00:05:19,790
+turn so if the hazards trigger is a
+reaction like a trapdoor opening to
+
+240
+00:05:19,790 --> 00:05:19,800
+reaction like a trapdoor opening to
+ 
+
+241
+00:05:19,800 --> 00:05:22,790
+reaction like a trapdoor opening to
+reveal a pit then is only going to fire
+
+242
+00:05:22,790 --> 00:05:22,800
+reveal a pit then is only going to fire
+ 
+
+243
+00:05:22,800 --> 00:05:25,790
+reveal a pit then is only going to fire
+once no matter how many times players
+
+244
+00:05:25,790 --> 00:05:25,800
+once no matter how many times players
+ 
+
+245
+00:05:25,800 --> 00:05:28,520
+once no matter how many times players
+might perform the triggering action now
+
+246
+00:05:28,520 --> 00:05:28,530
+might perform the triggering action now
+ 
+
+247
+00:05:28,530 --> 00:05:30,950
+might perform the triggering action now
+compare this to something like quicksand
+
+248
+00:05:30,950 --> 00:05:30,960
+compare this to something like quicksand
+ 
+
+249
+00:05:30,960 --> 00:05:34,040
+compare this to something like quicksand
+the trigger for quicksand is a free
+
+250
+00:05:34,040 --> 00:05:34,050
+the trigger for quicksand is a free
+ 
+
+251
+00:05:34,050 --> 00:05:37,190
+the trigger for quicksand is a free
+action which means it can occur over and
+
+252
+00:05:37,190 --> 00:05:37,200
+action which means it can occur over and
+ 
+
+253
+00:05:37,200 --> 00:05:40,490
+action which means it can occur over and
+over again in this case each player who
+
+254
+00:05:40,490 --> 00:05:40,500
+over again in this case each player who
+ 
+
+255
+00:05:40,500 --> 00:05:42,350
+over again in this case each player who
+steps into the zone of the quicksand
+
+256
+00:05:42,350 --> 00:05:42,360
+steps into the zone of the quicksand
+ 
+
+257
+00:05:42,360 --> 00:05:45,560
+steps into the zone of the quicksand
+triggers it mechanically this is only
+
+258
+00:05:45,560 --> 00:05:45,570
+triggers it mechanically this is only
+ 
+
+259
+00:05:45,570 --> 00:05:48,080
+triggers it mechanically this is only
+possible because the trigger is a free
+
+260
+00:05:48,080 --> 00:05:48,090
+possible because the trigger is a free
+ 
+
+261
+00:05:48,090 --> 00:05:49,589
+possible because the trigger is a free
+action
+
+262
+00:05:49,589 --> 00:05:49,599
+action
+ 
+
+263
+00:05:49,599 --> 00:05:52,109
+action
+when a simple hazard is triggered it
+
+264
+00:05:52,109 --> 00:05:52,119
+when a simple hazard is triggered it
+ 
+
+265
+00:05:52,119 --> 00:05:54,779
+when a simple hazard is triggered it
+performs the listed effect and then is
+
+266
+00:05:54,779 --> 00:05:54,789
+performs the listed effect and then is
+ 
+
+267
+00:05:54,789 --> 00:05:57,239
+performs the listed effect and then is
+rendered disabled unless someone resets
+
+268
+00:05:57,239 --> 00:05:57,249
+rendered disabled unless someone resets
+ 
+
+269
+00:05:57,249 --> 00:06:00,059
+rendered disabled unless someone resets
+it but when a complex hazard is
+
+270
+00:06:00,059 --> 00:06:00,069
+it but when a complex hazard is
+ 
+
+271
+00:06:00,069 --> 00:06:02,609
+it but when a complex hazard is
+triggered it persists and runs a
+
+272
+00:06:02,609 --> 00:06:02,619
+triggered it persists and runs a
+ 
+
+273
+00:06:02,619 --> 00:06:05,429
+triggered it persists and runs a
+predetermined routine usually when this
+
+274
+00:06:05,429 --> 00:06:05,439
+predetermined routine usually when this
+ 
+
+275
+00:06:05,439 --> 00:06:07,529
+predetermined routine usually when this
+happens the GM is asked to roll
+
+276
+00:06:07,529 --> 00:06:07,539
+happens the GM is asked to roll
+ 
+
+277
+00:06:07,539 --> 00:06:10,260
+happens the GM is asked to roll
+initiative for the hazard if the players
+
+278
+00:06:10,260 --> 00:06:10,270
+initiative for the hazard if the players
+ 
+
+279
+00:06:10,270 --> 00:06:13,019
+initiative for the hazard if the players
+were not already in encounter mode then
+
+280
+00:06:13,019 --> 00:06:13,029
+were not already in encounter mode then
+ 
+
+281
+00:06:13,029 --> 00:06:14,999
+were not already in encounter mode then
+they roll initiative - and the encounter
+
+282
+00:06:14,999 --> 00:06:15,009
+they roll initiative - and the encounter
+ 
+
+283
+00:06:15,009 --> 00:06:18,059
+they roll initiative - and the encounter
+begins if the players were already in
+
+284
+00:06:18,059 --> 00:06:18,069
+begins if the players were already in
+ 
+
+285
+00:06:18,069 --> 00:06:19,980
+begins if the players were already in
+initiative order then the GM rolls
+
+286
+00:06:19,980 --> 00:06:19,990
+initiative order then the GM rolls
+ 
+
+287
+00:06:19,990 --> 00:06:22,439
+initiative order then the GM rolls
+initiative for the hazard and then slots
+
+288
+00:06:22,439 --> 00:06:22,449
+initiative for the hazard and then slots
+ 
+
+289
+00:06:22,449 --> 00:06:24,469
+initiative for the hazard and then slots
+it into initiative as appropriate and
+
+290
+00:06:24,469 --> 00:06:24,479
+it into initiative as appropriate and
+ 
+
+291
+00:06:24,479 --> 00:06:27,389
+it into initiative as appropriate and
+note that unless the hazard step block
+
+292
+00:06:27,389 --> 00:06:27,399
+note that unless the hazard step block
+ 
+
+293
+00:06:27,399 --> 00:06:30,119
+note that unless the hazard step block
+says otherwise it's the hazard stealth
+
+294
+00:06:30,119 --> 00:06:30,129
+says otherwise it's the hazard stealth
+ 
+
+295
+00:06:30,129 --> 00:06:33,059
+says otherwise it's the hazard stealth
+bonus that is rolled for his initiative
+
+296
+00:06:33,059 --> 00:06:33,069
+bonus that is rolled for his initiative
+ 
+
+297
+00:06:33,069 --> 00:06:36,299
+bonus that is rolled for his initiative
+score but once this happens then the
+
+298
+00:06:36,299 --> 00:06:36,309
+score but once this happens then the
+ 
+
+299
+00:06:36,309 --> 00:06:38,549
+score but once this happens then the
+hazard acts on his turn just like a
+
+300
+00:06:38,549 --> 00:06:38,559
+hazard acts on his turn just like a
+ 
+
+301
+00:06:38,559 --> 00:06:41,429
+hazard acts on his turn just like a
+monster except the GM does not directly
+
+302
+00:06:41,429 --> 00:06:41,439
+monster except the GM does not directly
+ 
+
+303
+00:06:41,439 --> 00:06:44,459
+monster except the GM does not directly
+control the hazard instead the hazard
+
+304
+00:06:44,459 --> 00:06:44,469
+control the hazard instead the hazard
+ 
+
+305
+00:06:44,469 --> 00:06:48,530
+control the hazard instead the hazard
+follows is predetermined routine
+
+306
+00:06:48,530 --> 00:06:48,540
+
+ 
+
+307
+00:06:48,540 --> 00:06:50,750
+
+since the most common hazard you will
+
+308
+00:06:50,750 --> 00:06:50,760
+since the most common hazard you will
+ 
+
+309
+00:06:50,760 --> 00:06:53,810
+since the most common hazard you will
+face our mechanical traps the disable
+
+310
+00:06:53,810 --> 00:06:53,820
+face our mechanical traps the disable
+ 
+
+311
+00:06:53,820 --> 00:06:56,030
+face our mechanical traps the disable
+device application of the thievery skill
+
+312
+00:06:56,030 --> 00:06:56,040
+device application of the thievery skill
+ 
+
+313
+00:06:56,040 --> 00:06:59,020
+device application of the thievery skill
+is often the best way to manage a hazard
+
+314
+00:06:59,020 --> 00:06:59,030
+is often the best way to manage a hazard
+ 
+
+315
+00:06:59,030 --> 00:07:01,910
+is often the best way to manage a hazard
+however there will be times when a good
+
+316
+00:07:01,910 --> 00:07:01,920
+however there will be times when a good
+ 
+
+317
+00:07:01,920 --> 00:07:04,370
+however there will be times when a good
+set of thieves tools won't help you like
+
+318
+00:07:04,370 --> 00:07:04,380
+set of thieves tools won't help you like
+ 
+
+319
+00:07:04,380 --> 00:07:05,690
+set of thieves tools won't help you like
+when dealing with the aforementioned
+
+320
+00:07:05,690 --> 00:07:05,700
+when dealing with the aforementioned
+ 
+
+321
+00:07:05,700 --> 00:07:09,290
+when dealing with the aforementioned
+quicksand a druid or a ranger who is
+
+322
+00:07:09,290 --> 00:07:09,300
+quicksand a druid or a ranger who is
+ 
+
+323
+00:07:09,300 --> 00:07:12,050
+quicksand a druid or a ranger who is
+trained in nature or survival may be
+
+324
+00:07:12,050 --> 00:07:12,060
+trained in nature or survival may be
+ 
+
+325
+00:07:12,060 --> 00:07:15,110
+trained in nature or survival may be
+better equipped to deal with that and in
+
+326
+00:07:15,110 --> 00:07:15,120
+better equipped to deal with that and in
+ 
+
+327
+00:07:15,120 --> 00:07:17,300
+better equipped to deal with that and in
+the same way a cleric who is skilled in
+
+328
+00:07:17,300 --> 00:07:17,310
+the same way a cleric who is skilled in
+ 
+
+329
+00:07:17,310 --> 00:07:19,880
+the same way a cleric who is skilled in
+a cult ism or religion may be your best
+
+330
+00:07:19,880 --> 00:07:19,890
+a cult ism or religion may be your best
+ 
+
+331
+00:07:19,890 --> 00:07:23,000
+a cult ism or religion may be your best
+bet for handling a haunted house each
+
+332
+00:07:23,000 --> 00:07:23,010
+bet for handling a haunted house each
+ 
+
+333
+00:07:23,010 --> 00:07:25,250
+bet for handling a haunted house each
+hazard will list in a step block what
+
+334
+00:07:25,250 --> 00:07:25,260
+hazard will list in a step block what
+ 
+
+335
+00:07:25,260 --> 00:07:28,130
+hazard will list in a step block what
+actions can be used to disable it this
+
+336
+00:07:28,130 --> 00:07:28,140
+actions can be used to disable it this
+ 
+
+337
+00:07:28,140 --> 00:07:30,530
+actions can be used to disable it this
+will usually be a skill followed by a DC
+
+338
+00:07:30,530 --> 00:07:30,540
+will usually be a skill followed by a DC
+ 
+
+339
+00:07:30,540 --> 00:07:32,720
+will usually be a skill followed by a DC
+and will often show a minimum
+
+340
+00:07:32,720 --> 00:07:32,730
+and will often show a minimum
+ 
+
+341
+00:07:32,730 --> 00:07:34,610
+and will often show a minimum
+proficiency rank in parentheses next to
+
+342
+00:07:34,610 --> 00:07:34,620
+proficiency rank in parentheses next to
+ 
+
+343
+00:07:34,620 --> 00:07:37,840
+proficiency rank in parentheses next to
+it so for example if a trap lists
+
+344
+00:07:37,840 --> 00:07:37,850
+it so for example if a trap lists
+ 
+
+345
+00:07:37,850 --> 00:07:42,680
+it so for example if a trap lists
+disable thievery DC 26 expert then a
+
+346
+00:07:42,680 --> 00:07:42,690
+disable thievery DC 26 expert then a
+ 
+
+347
+00:07:42,690 --> 00:07:45,140
+disable thievery DC 26 expert then a
+fevery check is needed to disable the
+
+348
+00:07:45,140 --> 00:07:45,150
+fevery check is needed to disable the
+ 
+
+349
+00:07:45,150 --> 00:07:47,390
+fevery check is needed to disable the
+trap and if the player is not at least
+
+350
+00:07:47,390 --> 00:07:47,400
+trap and if the player is not at least
+ 
+
+351
+00:07:47,400 --> 00:07:50,900
+trap and if the player is not at least
+expert in fevery then they automatically
+
+352
+00:07:50,900 --> 00:07:50,910
+expert in fevery then they automatically
+ 
+
+353
+00:07:50,910 --> 00:07:53,240
+expert in fevery then they automatically
+fail that's simple enough
+
+354
+00:07:53,240 --> 00:07:53,250
+fail that's simple enough
+ 
+
+355
+00:07:53,250 --> 00:07:55,940
+fail that's simple enough
+but one point that's often overlooked is
+
+356
+00:07:55,940 --> 00:07:55,950
+but one point that's often overlooked is
+ 
+
+357
+00:07:55,950 --> 00:07:58,430
+but one point that's often overlooked is
+that the step block shows the skill that
+
+358
+00:07:58,430 --> 00:07:58,440
+that the step block shows the skill that
+ 
+
+359
+00:07:58,440 --> 00:08:01,850
+that the step block shows the skill that
+is needed but not necessarily the action
+
+360
+00:08:01,850 --> 00:08:01,860
+is needed but not necessarily the action
+ 
+
+361
+00:08:01,860 --> 00:08:05,570
+is needed but not necessarily the action
+in this case it shows thievery the skill
+
+362
+00:08:05,570 --> 00:08:05,580
+in this case it shows thievery the skill
+ 
+
+363
+00:08:05,580 --> 00:08:08,420
+in this case it shows thievery the skill
+but the application of thievery that you
+
+364
+00:08:08,420 --> 00:08:08,430
+but the application of thievery that you
+ 
+
+365
+00:08:08,430 --> 00:08:09,950
+but the application of thievery that you
+would use is called
+
+366
+00:08:09,950 --> 00:08:09,960
+would use is called
+ 
+
+367
+00:08:09,960 --> 00:08:13,460
+would use is called
+disable device and as a blow device is a
+
+368
+00:08:13,460 --> 00:08:13,470
+disable device and as a blow device is a
+ 
+
+369
+00:08:13,470 --> 00:08:16,910
+disable device and as a blow device is a
+two action activity therefore in order
+
+370
+00:08:16,910 --> 00:08:16,920
+two action activity therefore in order
+ 
+
+371
+00:08:16,920 --> 00:08:19,460
+two action activity therefore in order
+to disable this trap is not just a
+
+372
+00:08:19,460 --> 00:08:19,470
+to disable this trap is not just a
+ 
+
+373
+00:08:19,470 --> 00:08:21,740
+to disable this trap is not just a
+thievery skill check but the player
+
+374
+00:08:21,740 --> 00:08:21,750
+thievery skill check but the player
+ 
+
+375
+00:08:21,750 --> 00:08:23,990
+thievery skill check but the player
+would need to spend two actions in
+
+376
+00:08:23,990 --> 00:08:24,000
+would need to spend two actions in
+ 
+
+377
+00:08:24,000 --> 00:08:26,870
+would need to spend two actions in
+Eustis able device in order to disarm
+
+378
+00:08:26,870 --> 00:08:26,880
+Eustis able device in order to disarm
+ 
+
+379
+00:08:26,880 --> 00:08:29,930
+Eustis able device in order to disarm
+the trap and magic traps can often be
+
+380
+00:08:29,930 --> 00:08:29,940
+the trap and magic traps can often be
+ 
+
+381
+00:08:29,940 --> 00:08:32,570
+the trap and magic traps can often be
+disabled by counteracting them for the
+
+382
+00:08:32,570 --> 00:08:32,580
+disabled by counteracting them for the
+ 
+
+383
+00:08:32,580 --> 00:08:34,339
+disabled by counteracting them for the
+purposes of this video I'm not going to
+
+384
+00:08:34,339 --> 00:08:34,349
+purposes of this video I'm not going to
+ 
+
+385
+00:08:34,349 --> 00:08:37,190
+purposes of this video I'm not going to
+go too deep into counteracting but we
+
+386
+00:08:37,190 --> 00:08:37,200
+go too deep into counteracting but we
+ 
+
+387
+00:08:37,200 --> 00:08:38,600
+go too deep into counteracting but we
+should definitely look at the most
+
+388
+00:08:38,600 --> 00:08:38,610
+should definitely look at the most
+ 
+
+389
+00:08:38,610 --> 00:08:40,490
+should definitely look at the most
+common method of dealing with magical
+
+390
+00:08:40,490 --> 00:08:40,500
+common method of dealing with magical
+ 
+
+391
+00:08:40,500 --> 00:08:42,950
+common method of dealing with magical
+traps which is by casting the spell
+
+392
+00:08:42,950 --> 00:08:42,960
+traps which is by casting the spell
+ 
+
+393
+00:08:42,960 --> 00:08:46,610
+traps which is by casting the spell
+magic when dispelled magic is cast on a
+
+394
+00:08:46,610 --> 00:08:46,620
+magic when dispelled magic is cast on a
+ 
+
+395
+00:08:46,620 --> 00:08:49,130
+magic when dispelled magic is cast on a
+magical trap the caster attempts a
+
+396
+00:08:49,130 --> 00:08:49,140
+magical trap the caster attempts a
+ 
+
+397
+00:08:49,140 --> 00:08:52,820
+magical trap the caster attempts a
+counteract check the base modifier for
+
+398
+00:08:52,820 --> 00:08:52,830
+counteract check the base modifier for
+ 
+
+399
+00:08:52,830 --> 00:08:55,430
+counteract check the base modifier for
+this check is the same as the casters of
+
+400
+00:08:55,430 --> 00:08:55,440
+this check is the same as the casters of
+ 
+
+401
+00:08:55,440 --> 00:08:57,770
+this check is the same as the casters of
+base spell attack modifier which is
+
+402
+00:08:57,770 --> 00:08:57,780
+base spell attack modifier which is
+ 
+
+403
+00:08:57,780 --> 00:09:00,860
+base spell attack modifier which is
+spell casting ability modifier + spell
+
+404
+00:09:00,860 --> 00:09:00,870
+spell casting ability modifier + spell
+ 
+
+405
+00:09:00,870 --> 00:09:02,320
+spell casting ability modifier + spell
+casting proficiency bonus
+
+406
+00:09:02,320 --> 00:09:02,330
+casting proficiency bonus
+ 
+
+407
+00:09:02,330 --> 00:09:06,070
+casting proficiency bonus
+however this counteract bonus may differ
+
+408
+00:09:06,070 --> 00:09:06,080
+however this counteract bonus may differ
+ 
+
+409
+00:09:06,080 --> 00:09:07,990
+however this counteract bonus may differ
+from the characters final spell attack
+
+410
+00:09:07,990 --> 00:09:08,000
+from the characters final spell attack
+ 
+
+411
+00:09:08,000 --> 00:09:11,770
+from the characters final spell attack
+bonus because the base bonus is only
+
+412
+00:09:11,770 --> 00:09:11,780
+bonus because the base bonus is only
+ 
+
+413
+00:09:11,780 --> 00:09:13,780
+bonus because the base bonus is only
+further modified by conditions that
+
+414
+00:09:13,780 --> 00:09:13,790
+further modified by conditions that
+ 
+
+415
+00:09:13,790 --> 00:09:16,090
+further modified by conditions that
+specifically affect counteract checks
+
+416
+00:09:16,090 --> 00:09:16,100
+specifically affect counteract checks
+ 
+
+417
+00:09:16,100 --> 00:09:19,600
+specifically affect counteract checks
+not by conditions that modify spell
+
+418
+00:09:19,600 --> 00:09:19,610
+not by conditions that modify spell
+ 
+
+419
+00:09:19,610 --> 00:09:23,230
+not by conditions that modify spell
+attacks the DC for the counteract check
+
+420
+00:09:23,230 --> 00:09:23,240
+attacks the DC for the counteract check
+ 
+
+421
+00:09:23,240 --> 00:09:25,630
+attacks the DC for the counteract check
+should be included in the hazard stat
+
+422
+00:09:25,630 --> 00:09:25,640
+should be included in the hazard stat
+ 
+
+423
+00:09:25,640 --> 00:09:27,610
+should be included in the hazard stat
+block and the last bit of information
+
+424
+00:09:27,610 --> 00:09:27,620
+block and the last bit of information
+ 
+
+425
+00:09:27,620 --> 00:09:29,950
+block and the last bit of information
+you need to know is the hazards
+
+426
+00:09:29,950 --> 00:09:29,960
+you need to know is the hazards
+ 
+
+427
+00:09:29,960 --> 00:09:32,470
+you need to know is the hazards
+counteract level this should also be
+
+428
+00:09:32,470 --> 00:09:32,480
+counteract level this should also be
+ 
+
+429
+00:09:32,480 --> 00:09:34,600
+counteract level this should also be
+included in the stat block but if for
+
+430
+00:09:34,600 --> 00:09:34,610
+included in the stat block but if for
+ 
+
+431
+00:09:34,610 --> 00:09:37,150
+included in the stat block but if for
+some reason is not you can use the
+
+432
+00:09:37,150 --> 00:09:37,160
+some reason is not you can use the
+ 
+
+433
+00:09:37,160 --> 00:09:40,840
+some reason is not you can use the
+hazards level divided in half once you
+
+434
+00:09:40,840 --> 00:09:40,850
+hazards level divided in half once you
+ 
+
+435
+00:09:40,850 --> 00:09:43,180
+hazards level divided in half once you
+cast dispel magic enroll your counter
+
+436
+00:09:43,180 --> 00:09:43,190
+cast dispel magic enroll your counter
+ 
+
+437
+00:09:43,190 --> 00:09:46,180
+cast dispel magic enroll your counter
+act check you then compare that total to
+
+438
+00:09:46,180 --> 00:09:46,190
+act check you then compare that total to
+ 
+
+439
+00:09:46,190 --> 00:09:49,210
+act check you then compare that total to
+the counteract DC in the hazard stat
+
+440
+00:09:49,210 --> 00:09:49,220
+the counteract DC in the hazard stat
+ 
+
+441
+00:09:49,220 --> 00:09:53,350
+the counteract DC in the hazard stat
+block on a success the trap is disabled
+
+442
+00:09:53,350 --> 00:09:53,360
+block on a success the trap is disabled
+ 
+
+443
+00:09:53,360 --> 00:09:56,470
+block on a success the trap is disabled
+if that traps counteract level is no
+
+444
+00:09:56,470 --> 00:09:56,480
+if that traps counteract level is no
+ 
+
+445
+00:09:56,480 --> 00:09:59,170
+if that traps counteract level is no
+more than 1 higher than your counteract
+
+446
+00:09:59,170 --> 00:09:59,180
+more than 1 higher than your counteract
+ 
+
+447
+00:09:59,180 --> 00:10:02,440
+more than 1 higher than your counteract
+level and in this case your counteract
+
+448
+00:10:02,440 --> 00:10:02,450
+level and in this case your counteract
+ 
+
+449
+00:10:02,450 --> 00:10:05,200
+level and in this case your counteract
+level is the level of the spell slot
+
+450
+00:10:05,200 --> 00:10:05,210
+level is the level of the spell slot
+ 
+
+451
+00:10:05,210 --> 00:10:09,130
+level is the level of the spell slot
+that is used to cast dispel magic dispel
+
+452
+00:10:09,130 --> 00:10:09,140
+that is used to cast dispel magic dispel
+ 
+
+453
+00:10:09,140 --> 00:10:11,530
+that is used to cast dispel magic dispel
+magic is a second level spell but if you
+
+454
+00:10:11,530 --> 00:10:11,540
+magic is a second level spell but if you
+ 
+
+455
+00:10:11,540 --> 00:10:13,330
+magic is a second level spell but if you
+heighten it and cast it from a fourth
+
+456
+00:10:13,330 --> 00:10:13,340
+heighten it and cast it from a fourth
+ 
+
+457
+00:10:13,340 --> 00:10:15,760
+heighten it and cast it from a fourth
+level spell slot it could disarm a
+
+458
+00:10:15,760 --> 00:10:15,770
+level spell slot it could disarm a
+ 
+
+459
+00:10:15,770 --> 00:10:18,760
+level spell slot it could disarm a
+magical trap with a caster level of 5 or
+
+460
+00:10:18,760 --> 00:10:18,770
+magical trap with a caster level of 5 or
+ 
+
+461
+00:10:18,770 --> 00:10:22,879
+magical trap with a caster level of 5 or
+lower on a successful counter act check
+
+462
+00:10:22,879 --> 00:10:22,889
+lower on a successful counter act check
+ 
+
+463
+00:10:22,889 --> 00:10:25,999
+lower on a successful counter act check
+on a critical success you disarm the
+
+464
+00:10:25,999 --> 00:10:26,009
+on a critical success you disarm the
+ 
+
+465
+00:10:26,009 --> 00:10:28,460
+on a critical success you disarm the
+magic trap if it is no more than three
+
+466
+00:10:28,460 --> 00:10:28,470
+magic trap if it is no more than three
+ 
+
+467
+00:10:28,470 --> 00:10:30,829
+magic trap if it is no more than three
+levels higher than the spell slot you
+
+468
+00:10:30,829 --> 00:10:30,839
+levels higher than the spell slot you
+ 
+
+469
+00:10:30,839 --> 00:10:34,249
+levels higher than the spell slot you
+use to cast a spell magic on a failure
+
+470
+00:10:34,249 --> 00:10:34,259
+use to cast a spell magic on a failure
+ 
+
+471
+00:10:34,259 --> 00:10:36,650
+use to cast a spell magic on a failure
+you still automatically disarm that
+
+472
+00:10:36,650 --> 00:10:36,660
+you still automatically disarm that
+ 
+
+473
+00:10:36,660 --> 00:10:39,409
+you still automatically disarm that
+magical trap if the traps counteract
+
+474
+00:10:39,409 --> 00:10:39,419
+magical trap if the traps counteract
+ 
+
+475
+00:10:39,419 --> 00:10:42,590
+magical trap if the traps counteract
+level is lower than the spell slot you
+
+476
+00:10:42,590 --> 00:10:42,600
+level is lower than the spell slot you
+ 
+
+477
+00:10:42,600 --> 00:10:46,009
+level is lower than the spell slot you
+use to cast dispel magic and on a
+
+478
+00:10:46,009 --> 00:10:46,019
+use to cast dispel magic and on a
+ 
+
+479
+00:10:46,019 --> 00:10:48,340
+use to cast dispel magic and on a
+critical failure nothing happens and
+
+480
+00:10:48,340 --> 00:10:48,350
+critical failure nothing happens and
+ 
+
+481
+00:10:48,350 --> 00:10:51,019
+critical failure nothing happens and
+although not specifically mentioned in
+
+482
+00:10:51,019 --> 00:10:51,029
+although not specifically mentioned in
+ 
+
+483
+00:10:51,029 --> 00:10:53,479
+although not specifically mentioned in
+the section on counteracting I think it
+
+484
+00:10:53,479 --> 00:10:53,489
+the section on counteracting I think it
+ 
+
+485
+00:10:53,489 --> 00:10:55,129
+the section on counteracting I think it
+would be reasonable for the GM to rule
+
+486
+00:10:55,129 --> 00:10:55,139
+would be reasonable for the GM to rule
+ 
+
+487
+00:10:55,139 --> 00:10:57,229
+would be reasonable for the GM to rule
+that the trap is triggered and goes off
+
+488
+00:10:57,229 --> 00:10:57,239
+that the trap is triggered and goes off
+ 
+
+489
+00:10:57,239 --> 00:10:59,210
+that the trap is triggered and goes off
+when you critically fail a counter act
+
+490
+00:10:59,210 --> 00:10:59,220
+when you critically fail a counter act
+ 
+
+491
+00:10:59,220 --> 00:11:02,030
+when you critically fail a counter act
+check using dispel magic just like when
+
+492
+00:11:02,030 --> 00:11:02,040
+check using dispel magic just like when
+ 
+
+493
+00:11:02,040 --> 00:11:03,619
+check using dispel magic just like when
+you critically fail to disable device
+
+494
+00:11:03,619 --> 00:11:03,629
+you critically fail to disable device
+ 
+
+495
+00:11:03,629 --> 00:11:06,580
+you critically fail to disable device
+using thievery
+
+496
+00:11:06,580 --> 00:11:06,590
+using thievery
+ 
+
+497
+00:11:06,590 --> 00:11:08,980
+
+with all of this in mind let's look at a
+
+498
+00:11:08,980 --> 00:11:08,990
+with all of this in mind let's look at a
+ 
+
+499
+00:11:08,990 --> 00:11:11,680
+with all of this in mind let's look at a
+few examples the first one is pretty
+
+500
+00:11:11,680 --> 00:11:11,690
+few examples the first one is pretty
+ 
+
+501
+00:11:11,690 --> 00:11:14,460
+few examples the first one is pretty
+straightforward a common poisoned lock
+
+502
+00:11:14,460 --> 00:11:14,470
+straightforward a common poisoned lock
+ 
+
+503
+00:11:14,470 --> 00:11:17,170
+straightforward a common poisoned lock
+the first line displays the hazards
+
+504
+00:11:17,170 --> 00:11:17,180
+the first line displays the hazards
+ 
+
+505
+00:11:17,180 --> 00:11:20,230
+the first line displays the hazards
+traits in this case a poison lock has
+
+506
+00:11:20,230 --> 00:11:20,240
+traits in this case a poison lock has
+ 
+
+507
+00:11:20,240 --> 00:11:23,100
+traits in this case a poison lock has
+both the mechanical and trap traits
+
+508
+00:11:23,100 --> 00:11:23,110
+both the mechanical and trap traits
+ 
+
+509
+00:11:23,110 --> 00:11:28,210
+both the mechanical and trap traits
+second is the stealth DC it says DC 17
+
+510
+00:11:28,210 --> 00:11:28,220
+second is the stealth DC it says DC 17
+ 
+
+511
+00:11:28,220 --> 00:11:30,310
+second is the stealth DC it says DC 17
+trained which tells us a couple of
+
+512
+00:11:30,310 --> 00:11:30,320
+trained which tells us a couple of
+ 
+
+513
+00:11:30,320 --> 00:11:33,070
+trained which tells us a couple of
+things first no perception chicks are
+
+514
+00:11:33,070 --> 00:11:33,080
+things first no perception chicks are
+ 
+
+515
+00:11:33,080 --> 00:11:35,769
+things first no perception chicks are
+made for free to spot this trap because
+
+516
+00:11:35,769 --> 00:11:35,779
+made for free to spot this trap because
+ 
+
+517
+00:11:35,779 --> 00:11:38,470
+made for free to spot this trap because
+it shows a required proficiency rank if
+
+518
+00:11:38,470 --> 00:11:38,480
+it shows a required proficiency rank if
+ 
+
+519
+00:11:38,480 --> 00:11:42,070
+it shows a required proficiency rank if
+it just said DC 17 without anything in
+
+520
+00:11:42,070 --> 00:11:42,080
+it just said DC 17 without anything in
+ 
+
+521
+00:11:42,080 --> 00:11:44,470
+it just said DC 17 without anything in
+parentheses then the players would
+
+522
+00:11:44,470 --> 00:11:44,480
+parentheses then the players would
+ 
+
+523
+00:11:44,480 --> 00:11:46,329
+parentheses then the players would
+receive a free proficiency check to
+
+524
+00:11:46,329 --> 00:11:46,339
+receive a free proficiency check to
+ 
+
+525
+00:11:46,339 --> 00:11:48,790
+receive a free proficiency check to
+detect the trap but because it requires
+
+526
+00:11:48,790 --> 00:11:48,800
+detect the trap but because it requires
+ 
+
+527
+00:11:48,800 --> 00:11:51,790
+detect the trap but because it requires
+trained proficiency and perception only
+
+528
+00:11:51,790 --> 00:11:51,800
+trained proficiency and perception only
+ 
+
+529
+00:11:51,800 --> 00:11:54,220
+trained proficiency and perception only
+characters who use the seek action have
+
+530
+00:11:54,220 --> 00:11:54,230
+characters who use the seek action have
+ 
+
+531
+00:11:54,230 --> 00:11:56,860
+characters who use the seek action have
+a chance of spotting it anyone who is
+
+532
+00:11:56,860 --> 00:11:56,870
+a chance of spotting it anyone who is
+ 
+
+533
+00:11:56,870 --> 00:11:59,740
+a chance of spotting it anyone who is
+untrained in perception can use the seek
+
+534
+00:11:59,740 --> 00:11:59,750
+untrained in perception can use the seek
+ 
+
+535
+00:11:59,750 --> 00:12:02,050
+untrained in perception can use the seek
+action but will automatically fail when
+
+536
+00:12:02,050 --> 00:12:02,060
+action but will automatically fail when
+ 
+
+537
+00:12:02,060 --> 00:12:05,350
+action but will automatically fail when
+they do so then we have a description
+
+538
+00:12:05,350 --> 00:12:05,360
+they do so then we have a description
+ 
+
+539
+00:12:05,360 --> 00:12:07,269
+they do so then we have a description
+that provides an explanation of the
+
+540
+00:12:07,269 --> 00:12:07,279
+that provides an explanation of the
+ 
+
+541
+00:12:07,279 --> 00:12:09,210
+that provides an explanation of the
+hazard and a little bit of flavor and
+
+542
+00:12:09,210 --> 00:12:09,220
+hazard and a little bit of flavor and
+ 
+
+543
+00:12:09,220 --> 00:12:12,100
+hazard and a little bit of flavor and
+then after the Lynbrook we see some of
+
+544
+00:12:12,100 --> 00:12:12,110
+then after the Lynbrook we see some of
+ 
+
+545
+00:12:12,110 --> 00:12:15,430
+then after the Lynbrook we see some of
+the more combat focused stats first it
+
+546
+00:12:15,430 --> 00:12:15,440
+the more combat focused stats first it
+ 
+
+547
+00:12:15,440 --> 00:12:17,829
+the more combat focused stats first it
+shows the requirements to disable it in
+
+548
+00:12:17,829 --> 00:12:17,839
+shows the requirements to disable it in
+ 
+
+549
+00:12:17,839 --> 00:12:20,320
+shows the requirements to disable it in
+this case a character who is at least
+
+550
+00:12:20,320 --> 00:12:20,330
+this case a character who is at least
+ 
+
+551
+00:12:20,330 --> 00:12:22,990
+this case a character who is at least
+trained in the thievery skill can
+
+552
+00:12:22,990 --> 00:12:23,000
+trained in the thievery skill can
+ 
+
+553
+00:12:23,000 --> 00:12:25,180
+trained in the thievery skill can
+perform the disable device activity
+
+554
+00:12:25,180 --> 00:12:25,190
+perform the disable device activity
+ 
+
+555
+00:12:25,190 --> 00:12:27,520
+perform the disable device activity
+which cost again two of their actions
+
+556
+00:12:27,520 --> 00:12:27,530
+which cost again two of their actions
+ 
+
+557
+00:12:27,530 --> 00:12:30,280
+which cost again two of their actions
+and if they roll a 17 or higher on their
+
+558
+00:12:30,280 --> 00:12:30,290
+and if they roll a 17 or higher on their
+ 
+
+559
+00:12:30,290 --> 00:12:33,070
+and if they roll a 17 or higher on their
+check the trap is disabled if they
+
+560
+00:12:33,070 --> 00:12:33,080
+check the trap is disabled if they
+ 
+
+561
+00:12:33,080 --> 00:12:35,260
+check the trap is disabled if they
+critically fail the check then the trap
+
+562
+00:12:35,260 --> 00:12:35,270
+critically fail the check then the trap
+ 
+
+563
+00:12:35,270 --> 00:12:37,990
+critically fail the check then the trap
+is triggered under that we have the
+
+564
+00:12:37,990 --> 00:12:38,000
+is triggered under that we have the
+ 
+
+565
+00:12:38,000 --> 00:12:40,210
+is triggered under that we have the
+defense scores for the trap in case
+
+566
+00:12:40,210 --> 00:12:40,220
+defense scores for the trap in case
+ 
+
+567
+00:12:40,220 --> 00:12:42,430
+defense scores for the trap in case
+someone tries to use brute force and
+
+568
+00:12:42,430 --> 00:12:42,440
+someone tries to use brute force and
+ 
+
+569
+00:12:42,440 --> 00:12:45,570
+someone tries to use brute force and
+break the trap rather than disable it
+
+570
+00:12:45,570 --> 00:12:45,580
+break the trap rather than disable it
+ 
+
+571
+00:12:45,580 --> 00:12:49,449
+break the trap rather than disable it
+this trap has an armor class of 15 and a
+
+572
+00:12:49,449 --> 00:12:49,459
+this trap has an armor class of 15 and a
+ 
+
+573
+00:12:49,459 --> 00:12:52,270
+this trap has an armor class of 15 and a
+plus 8 bonus to fortitude saves and a +4
+
+574
+00:12:52,270 --> 00:12:52,280
+plus 8 bonus to fortitude saves and a +4
+ 
+
+575
+00:12:52,280 --> 00:12:54,620
+plus 8 bonus to fortitude saves and a +4
+bonus to reflexes
+
+576
+00:12:54,620 --> 00:12:54,630
+bonus to reflexes
+ 
+
+577
+00:12:54,630 --> 00:12:57,460
+bonus to reflexes
+the next line shows is hardness
+
+578
+00:12:57,460 --> 00:12:57,470
+the next line shows is hardness
+ 
+
+579
+00:12:57,470 --> 00:13:00,350
+the next line shows is hardness
+hitpoints break threshold and immunities
+
+580
+00:13:00,350 --> 00:13:00,360
+hitpoints break threshold and immunities
+ 
+
+581
+00:13:00,360 --> 00:13:02,629
+hitpoints break threshold and immunities
+I don't want to go too deep into the
+
+582
+00:13:02,629 --> 00:13:02,639
+I don't want to go too deep into the
+ 
+
+583
+00:13:02,639 --> 00:13:05,360
+I don't want to go too deep into the
+weeds here but an object's hardness is
+
+584
+00:13:05,360 --> 00:13:05,370
+weeds here but an object's hardness is
+ 
+
+585
+00:13:05,370 --> 00:13:07,939
+weeds here but an object's hardness is
+an amount of points that are subtracted
+
+586
+00:13:07,939 --> 00:13:07,949
+an amount of points that are subtracted
+ 
+
+587
+00:13:07,949 --> 00:13:10,129
+an amount of points that are subtracted
+from every damage role against the
+
+588
+00:13:10,129 --> 00:13:10,139
+from every damage role against the
+ 
+
+589
+00:13:10,139 --> 00:13:13,699
+from every damage role against the
+object whatever damage is left over is
+
+590
+00:13:13,699 --> 00:13:13,709
+object whatever damage is left over is
+ 
+
+591
+00:13:13,709 --> 00:13:16,160
+object whatever damage is left over is
+subtracted from its hit points and when
+
+592
+00:13:16,160 --> 00:13:16,170
+subtracted from its hit points and when
+ 
+
+593
+00:13:16,170 --> 00:13:18,110
+subtracted from its hit points and when
+the object is reduced to its break
+
+594
+00:13:18,110 --> 00:13:18,120
+the object is reduced to its break
+ 
+
+595
+00:13:18,120 --> 00:13:20,389
+the object is reduced to its break
+threshold and hit points it becomes
+
+596
+00:13:20,389 --> 00:13:20,399
+threshold and hit points it becomes
+ 
+
+597
+00:13:20,399 --> 00:13:24,530
+threshold and hit points it becomes
+broken a broken trap no longer functions
+
+598
+00:13:24,530 --> 00:13:24,540
+broken a broken trap no longer functions
+ 
+
+599
+00:13:24,540 --> 00:13:28,069
+broken a broken trap no longer functions
+but can still be repaired and if the
+
+600
+00:13:28,069 --> 00:13:28,079
+but can still be repaired and if the
+ 
+
+601
+00:13:28,079 --> 00:13:31,009
+but can still be repaired and if the
+trap is reduced to zero hit points it is
+
+602
+00:13:31,009 --> 00:13:31,019
+trap is reduced to zero hit points it is
+ 
+
+603
+00:13:31,019 --> 00:13:32,990
+trap is reduced to zero hit points it is
+completely destroyed and cannot be
+
+604
+00:13:32,990 --> 00:13:33,000
+completely destroyed and cannot be
+ 
+
+605
+00:13:33,000 --> 00:13:36,550
+completely destroyed and cannot be
+repaired in most cases a trap will
+
+606
+00:13:36,550 --> 00:13:36,560
+repaired in most cases a trap will
+ 
+
+607
+00:13:36,560 --> 00:13:38,960
+repaired in most cases a trap will
+automatically be triggered the first
+
+608
+00:13:38,960 --> 00:13:38,970
+automatically be triggered the first
+ 
+
+609
+00:13:38,970 --> 00:13:42,199
+automatically be triggered the first
+time it is hit unless that single attack
+
+610
+00:13:42,199 --> 00:13:42,209
+time it is hit unless that single attack
+ 
+
+611
+00:13:42,209 --> 00:13:45,150
+time it is hit unless that single attack
+does enough damage to break it
+
+612
+00:13:45,150 --> 00:13:45,160
+does enough damage to break it
+ 
+
+613
+00:13:45,160 --> 00:13:48,000
+does enough damage to break it
+continuing down the stat walk we see the
+
+614
+00:13:48,000 --> 00:13:48,010
+continuing down the stat walk we see the
+ 
+
+615
+00:13:48,010 --> 00:13:50,910
+continuing down the stat walk we see the
+trigger conditions here it is a reaction
+
+616
+00:13:50,910 --> 00:13:50,920
+trigger conditions here it is a reaction
+ 
+
+617
+00:13:50,920 --> 00:13:53,730
+trigger conditions here it is a reaction
+and an attack that is triggered when
+
+618
+00:13:53,730 --> 00:13:53,740
+and an attack that is triggered when
+ 
+
+619
+00:13:53,740 --> 00:13:56,520
+and an attack that is triggered when
+someone tries to unlock or pick the lock
+
+620
+00:13:56,520 --> 00:13:56,530
+someone tries to unlock or pick the lock
+ 
+
+621
+00:13:56,530 --> 00:13:59,850
+someone tries to unlock or pick the lock
+if either of those occur then the trap
+
+622
+00:13:59,850 --> 00:13:59,860
+if either of those occur then the trap
+ 
+
+623
+00:13:59,860 --> 00:14:02,100
+if either of those occur then the trap
+is triggered and we then look at the
+
+624
+00:14:02,100 --> 00:14:02,110
+is triggered and we then look at the
+ 
+
+625
+00:14:02,110 --> 00:14:04,860
+is triggered and we then look at the
+effect which is a spine extends to
+
+626
+00:14:04,860 --> 00:14:04,870
+effect which is a spine extends to
+ 
+
+627
+00:14:04,870 --> 00:14:07,590
+effect which is a spine extends to
+attack the triggering creature from
+
+628
+00:14:07,590 --> 00:14:07,600
+attack the triggering creature from
+ 
+
+629
+00:14:07,600 --> 00:14:09,300
+attack the triggering creature from
+there we just keep going down the stab
+
+630
+00:14:09,300 --> 00:14:09,310
+there we just keep going down the stab
+ 
+
+631
+00:14:09,310 --> 00:14:11,850
+there we just keep going down the stab
+block and see the attack is a plus 13
+
+632
+00:14:11,850 --> 00:14:11,860
+block and see the attack is a plus 13
+ 
+
+633
+00:14:11,860 --> 00:14:14,190
+block and see the attack is a plus 13
+melee attack that deals one piercing
+
+634
+00:14:14,190 --> 00:14:14,200
+melee attack that deals one piercing
+ 
+
+635
+00:14:14,200 --> 00:14:18,210
+melee attack that deals one piercing
+damage and poison and below that are the
+
+636
+00:14:18,210 --> 00:14:18,220
+damage and poison and below that are the
+ 
+
+637
+00:14:18,220 --> 00:14:21,090
+damage and poison and below that are the
+stats for the poison and I'm going to
+
+638
+00:14:21,090 --> 00:14:21,100
+stats for the poison and I'm going to
+ 
+
+639
+00:14:21,100 --> 00:14:23,640
+stats for the poison and I'm going to
+stop there for now but if you would like
+
+640
+00:14:23,640 --> 00:14:23,650
+stop there for now but if you would like
+ 
+
+641
+00:14:23,650 --> 00:14:25,740
+stop there for now but if you would like
+to learn more about how poisons work
+
+642
+00:14:25,740 --> 00:14:25,750
+to learn more about how poisons work
+ 
+
+643
+00:14:25,750 --> 00:14:30,250
+to learn more about how poisons work
+check out our video on afflictions
+
+644
+00:14:30,250 --> 00:14:30,260
+check out our video on afflictions
+ 
+
+645
+00:14:30,260 --> 00:14:32,680
+check out our video on afflictions
+with our next example let's look at a
+
+646
+00:14:32,680 --> 00:14:32,690
+with our next example let's look at a
+ 
+
+647
+00:14:32,690 --> 00:14:36,070
+with our next example let's look at a
+magical trap here we have an electric
+
+648
+00:14:36,070 --> 00:14:36,080
+magical trap here we have an electric
+ 
+
+649
+00:14:36,080 --> 00:14:38,890
+magical trap here we have an electric
+latch room trap this is very similar to
+
+650
+00:14:38,890 --> 00:14:38,900
+latch room trap this is very similar to
+ 
+
+651
+00:14:38,900 --> 00:14:41,530
+latch room trap this is very similar to
+the poison lock trap but we see there
+
+652
+00:14:41,530 --> 00:14:41,540
+the poison lock trap but we see there
+ 
+
+653
+00:14:41,540 --> 00:14:43,930
+the poison lock trap but we see there
+are a few more traits detailing the
+
+654
+00:14:43,930 --> 00:14:43,940
+are a few more traits detailing the
+ 
+
+655
+00:14:43,940 --> 00:14:47,170
+are a few more traits detailing the
+magic that is involved the stealth
+
+656
+00:14:47,170 --> 00:14:47,180
+magic that is involved the stealth
+ 
+
+657
+00:14:47,180 --> 00:14:50,620
+magic that is involved the stealth
+heading says DC 20 train so remember
+
+658
+00:14:50,620 --> 00:14:50,630
+heading says DC 20 train so remember
+ 
+
+659
+00:14:50,630 --> 00:14:52,750
+heading says DC 20 train so remember
+that even though this is a magical trap
+
+660
+00:14:52,750 --> 00:14:52,760
+that even though this is a magical trap
+ 
+
+661
+00:14:52,760 --> 00:14:55,930
+that even though this is a magical trap
+because it requires trained proficiency
+
+662
+00:14:55,930 --> 00:14:55,940
+because it requires trained proficiency
+ 
+
+663
+00:14:55,940 --> 00:14:58,900
+because it requires trained proficiency
+and perception it cannot be detected by
+
+664
+00:14:58,900 --> 00:14:58,910
+and perception it cannot be detected by
+ 
+
+665
+00:14:58,910 --> 00:15:02,650
+and perception it cannot be detected by
+casting detect magic only hazards with
+
+666
+00:15:02,650 --> 00:15:02,660
+casting detect magic only hazards with
+ 
+
+667
+00:15:02,660 --> 00:15:05,470
+casting detect magic only hazards with
+no proficiency requirement at all may be
+
+668
+00:15:05,470 --> 00:15:05,480
+no proficiency requirement at all may be
+ 
+
+669
+00:15:05,480 --> 00:15:08,670
+no proficiency requirement at all may be
+affected by casting detect magic and
+
+670
+00:15:08,670 --> 00:15:08,680
+affected by casting detect magic and
+ 
+
+671
+00:15:08,680 --> 00:15:12,550
+affected by casting detect magic and
+under disable we have two options the
+
+672
+00:15:12,550 --> 00:15:12,560
+under disable we have two options the
+ 
+
+673
+00:15:12,560 --> 00:15:15,940
+under disable we have two options the
+first requires an expert thief to use
+
+674
+00:15:15,940 --> 00:15:15,950
+first requires an expert thief to use
+ 
+
+675
+00:15:15,950 --> 00:15:19,030
+first requires an expert thief to use
+this able device against DC 20 and the
+
+676
+00:15:19,030 --> 00:15:19,040
+this able device against DC 20 and the
+ 
+
+677
+00:15:19,040 --> 00:15:21,220
+this able device against DC 20 and the
+second allows a spell caster to use a
+
+678
+00:15:21,220 --> 00:15:21,230
+second allows a spell caster to use a
+ 
+
+679
+00:15:21,230 --> 00:15:23,620
+second allows a spell caster to use a
+spell magic to counteract the traps
+
+680
+00:15:23,620 --> 00:15:23,630
+spell magic to counteract the traps
+ 
+
+681
+00:15:23,630 --> 00:15:27,400
+spell magic to counteract the traps
+magic and when dispel magic is cast you
+
+682
+00:15:27,400 --> 00:15:27,410
+magic and when dispel magic is cast you
+ 
+
+683
+00:15:27,410 --> 00:15:30,100
+magic and when dispel magic is cast you
+first need to know what spell slot was
+
+684
+00:15:30,100 --> 00:15:30,110
+first need to know what spell slot was
+ 
+
+685
+00:15:30,110 --> 00:15:32,710
+first need to know what spell slot was
+used as that determines the caster's
+
+686
+00:15:32,710 --> 00:15:32,720
+used as that determines the caster's
+ 
+
+687
+00:15:32,720 --> 00:15:35,890
+used as that determines the caster's
+counteract level and then the casseroles
+
+688
+00:15:35,890 --> 00:15:35,900
+counteract level and then the casseroles
+ 
+
+689
+00:15:35,900 --> 00:15:38,680
+counteract level and then the casseroles
+a counteract check which is one day 20
+
+690
+00:15:38,680 --> 00:15:38,690
+a counteract check which is one day 20
+ 
+
+691
+00:15:38,690 --> 00:15:40,480
+a counteract check which is one day 20
+plus their spell casting ability
+
+692
+00:15:40,480 --> 00:15:40,490
+plus their spell casting ability
+ 
+
+693
+00:15:40,490 --> 00:15:42,580
+plus their spell casting ability
+modifier plus their spell casting
+
+694
+00:15:42,580 --> 00:15:42,590
+modifier plus their spell casting
+ 
+
+695
+00:15:42,590 --> 00:15:45,790
+modifier plus their spell casting
+proficiency bonus this is basically the
+
+696
+00:15:45,790 --> 00:15:45,800
+proficiency bonus this is basically the
+ 
+
+697
+00:15:45,800 --> 00:15:47,850
+proficiency bonus this is basically the
+same as making a spell attack role
+
+698
+00:15:47,850 --> 00:15:47,860
+same as making a spell attack role
+ 
+
+699
+00:15:47,860 --> 00:15:50,710
+same as making a spell attack role
+except it can be further modified by
+
+700
+00:15:50,710 --> 00:15:50,720
+except it can be further modified by
+ 
+
+701
+00:15:50,720 --> 00:15:53,050
+except it can be further modified by
+certain abilities and bonuses that only
+
+702
+00:15:53,050 --> 00:15:53,060
+certain abilities and bonuses that only
+ 
+
+703
+00:15:53,060 --> 00:15:56,140
+certain abilities and bonuses that only
+affect counteract chicks and would not
+
+704
+00:15:56,140 --> 00:15:56,150
+affect counteract chicks and would not
+ 
+
+705
+00:15:56,150 --> 00:15:59,440
+affect counteract chicks and would not
+be modified by anything that modifies a
+
+706
+00:15:59,440 --> 00:15:59,450
+be modified by anything that modifies a
+ 
+
+707
+00:15:59,450 --> 00:16:02,740
+be modified by anything that modifies a
+spell attack role we see in the stat
+
+708
+00:16:02,740 --> 00:16:02,750
+spell attack role we see in the stat
+ 
+
+709
+00:16:02,750 --> 00:16:05,170
+spell attack role we see in the stat
+block this trap has a counteract level
+
+710
+00:16:05,170 --> 00:16:05,180
+block this trap has a counteract level
+ 
+
+711
+00:16:05,180 --> 00:16:09,550
+block this trap has a counteract level
+of second and a counteract DC of 18 so
+
+712
+00:16:09,550 --> 00:16:09,560
+of second and a counteract DC of 18 so
+ 
+
+713
+00:16:09,560 --> 00:16:11,770
+of second and a counteract DC of 18 so
+if dispel magic is cast with a spell
+
+714
+00:16:11,770 --> 00:16:11,780
+if dispel magic is cast with a spell
+ 
+
+715
+00:16:11,780 --> 00:16:14,200
+if dispel magic is cast with a spell
+slot that is third level or higher then
+
+716
+00:16:14,200 --> 00:16:14,210
+slot that is third level or higher then
+ 
+
+717
+00:16:14,210 --> 00:16:16,780
+slot that is third level or higher then
+only a critical failure will prevent the
+
+718
+00:16:16,780 --> 00:16:16,790
+only a critical failure will prevent the
+ 
+
+719
+00:16:16,790 --> 00:16:19,750
+only a critical failure will prevent the
+caster from disarming the trap if dispel
+
+720
+00:16:19,750 --> 00:16:19,760
+caster from disarming the trap if dispel
+ 
+
+721
+00:16:19,760 --> 00:16:21,820
+caster from disarming the trap if dispel
+magic is cast from a second level spell
+
+722
+00:16:21,820 --> 00:16:21,830
+magic is cast from a second level spell
+ 
+
+723
+00:16:21,830 --> 00:16:24,820
+magic is cast from a second level spell
+slot then the caster must roll an 18 or
+
+724
+00:16:24,820 --> 00:16:24,830
+slot then the caster must roll an 18 or
+ 
+
+725
+00:16:24,830 --> 00:16:26,950
+slot then the caster must roll an 18 or
+higher on their counteract check in
+
+726
+00:16:26,950 --> 00:16:26,960
+higher on their counteract check in
+ 
+
+727
+00:16:26,960 --> 00:16:30,570
+higher on their counteract check in
+order to disarm the trap
+
+728
+00:16:30,570 --> 00:16:30,580
+order to disarm the trap
+ 
+
+729
+00:16:30,580 --> 00:16:33,630
+order to disarm the trap
+those were both simple traps so Knicks
+
+730
+00:16:33,630 --> 00:16:33,640
+those were both simple traps so Knicks
+ 
+
+731
+00:16:33,640 --> 00:16:35,690
+those were both simple traps so Knicks
+we're going to look at a complex one
+
+732
+00:16:35,690 --> 00:16:35,700
+we're going to look at a complex one
+ 
+
+733
+00:16:35,700 --> 00:16:38,670
+we're going to look at a complex one
+here are the stats for a poisoned dart
+
+734
+00:16:38,670 --> 00:16:38,680
+here are the stats for a poisoned dart
+ 
+
+735
+00:16:38,680 --> 00:16:42,540
+here are the stats for a poisoned dart
+gallery this trap works very close to
+
+736
+00:16:42,540 --> 00:16:42,550
+gallery this trap works very close to
+ 
+
+737
+00:16:42,550 --> 00:16:44,850
+gallery this trap works very close to
+how the previous ones work but there are
+
+738
+00:16:44,850 --> 00:16:44,860
+how the previous ones work but there are
+ 
+
+739
+00:16:44,860 --> 00:16:46,590
+how the previous ones work but there are
+a few special points we need to make
+
+740
+00:16:46,590 --> 00:16:46,600
+a few special points we need to make
+ 
+
+741
+00:16:46,600 --> 00:16:49,620
+a few special points we need to make
+note of first we see a stealth heading
+
+742
+00:16:49,620 --> 00:16:49,630
+note of first we see a stealth heading
+ 
+
+743
+00:16:49,630 --> 00:16:51,329
+note of first we see a stealth heading
+is different than what we're used to
+
+744
+00:16:51,329 --> 00:16:51,339
+is different than what we're used to
+ 
+
+745
+00:16:51,339 --> 00:16:53,340
+is different than what we're used to
+seeing by default
+
+746
+00:16:53,340 --> 00:16:53,350
+seeing by default
+ 
+
+747
+00:16:53,350 --> 00:16:56,790
+seeing by default
+complex traps display a stealth bonus
+
+748
+00:16:56,790 --> 00:16:56,800
+complex traps display a stealth bonus
+ 
+
+749
+00:16:56,800 --> 00:17:00,329
+complex traps display a stealth bonus
+instead of a stealth DC and then leaves
+
+750
+00:17:00,329 --> 00:17:00,339
+instead of a stealth DC and then leaves
+ 
+
+751
+00:17:00,339 --> 00:17:02,880
+instead of a stealth DC and then leaves
+it to the GM to calculate the stealth DC
+
+752
+00:17:02,880 --> 00:17:02,890
+it to the GM to calculate the stealth DC
+ 
+
+753
+00:17:02,890 --> 00:17:06,380
+it to the GM to calculate the stealth DC
+which is 10 plus the stealth bonus
+
+754
+00:17:06,380 --> 00:17:06,390
+which is 10 plus the stealth bonus
+ 
+
+755
+00:17:06,390 --> 00:17:09,360
+which is 10 plus the stealth bonus
+therefore this trap can only be detected
+
+756
+00:17:09,360 --> 00:17:09,370
+therefore this trap can only be detected
+ 
+
+757
+00:17:09,370 --> 00:17:11,610
+therefore this trap can only be detected
+if a character with at least expert
+
+758
+00:17:11,610 --> 00:17:11,620
+if a character with at least expert
+ 
+
+759
+00:17:11,620 --> 00:17:13,829
+if a character with at least expert
+proficiency and perception takes the
+
+760
+00:17:13,829 --> 00:17:13,839
+proficiency and perception takes the
+ 
+
+761
+00:17:13,839 --> 00:17:16,850
+proficiency and perception takes the
+seek action enrolls a 26 or higher
+
+762
+00:17:16,850 --> 00:17:16,860
+seek action enrolls a 26 or higher
+ 
+
+763
+00:17:16,860 --> 00:17:20,189
+seek action enrolls a 26 or higher
+however this one is a little extra
+
+764
+00:17:20,189 --> 00:17:20,199
+however this one is a little extra
+ 
+
+765
+00:17:20,199 --> 00:17:22,199
+however this one is a little extra
+tricky because it shows not only a
+
+766
+00:17:22,199 --> 00:17:22,209
+tricky because it shows not only a
+ 
+
+767
+00:17:22,209 --> 00:17:26,160
+tricky because it shows not only a
+stealth bonus but also a stealth DC of
+
+768
+00:17:26,160 --> 00:17:26,170
+stealth bonus but also a stealth DC of
+ 
+
+769
+00:17:26,170 --> 00:17:30,270
+stealth bonus but also a stealth DC of
+31 Master so in this case it takes a
+
+770
+00:17:30,270 --> 00:17:30,280
+31 Master so in this case it takes a
+ 
+
+771
+00:17:30,280 --> 00:17:32,730
+31 Master so in this case it takes a
+perception check with expert proficiency
+
+772
+00:17:32,730 --> 00:17:32,740
+perception check with expert proficiency
+ 
+
+773
+00:17:32,740 --> 00:17:35,760
+perception check with expert proficiency
+of 26 to notice that there is a trap
+
+774
+00:17:35,760 --> 00:17:35,770
+of 26 to notice that there is a trap
+ 
+
+775
+00:17:35,770 --> 00:17:38,610
+of 26 to notice that there is a trap
+present in you're in danger but in order
+
+776
+00:17:38,610 --> 00:17:38,620
+present in you're in danger but in order
+ 
+
+777
+00:17:38,620 --> 00:17:41,220
+present in you're in danger but in order
+to actually disable this trap you would
+
+778
+00:17:41,220 --> 00:17:41,230
+to actually disable this trap you would
+ 
+
+779
+00:17:41,230 --> 00:17:42,990
+to actually disable this trap you would
+need to make a perception check with
+
+780
+00:17:42,990 --> 00:17:43,000
+need to make a perception check with
+ 
+
+781
+00:17:43,000 --> 00:17:47,170
+need to make a perception check with
+master proficiency against DC 31
+
+782
+00:17:47,170 --> 00:17:47,180
+master proficiency against DC 31
+ 
+
+783
+00:17:47,180 --> 00:17:49,930
+master proficiency against DC 31
+as we continue down the step block we
+
+784
+00:17:49,930 --> 00:17:49,940
+as we continue down the step block we
+ 
+
+785
+00:17:49,940 --> 00:17:52,900
+as we continue down the step block we
+see the description disabled requirement
+
+786
+00:17:52,900 --> 00:17:52,910
+see the description disabled requirement
+ 
+
+787
+00:17:52,910 --> 00:17:55,840
+see the description disabled requirement
+and defenses all look normal but things
+
+788
+00:17:55,840 --> 00:17:55,850
+and defenses all look normal but things
+ 
+
+789
+00:17:55,850 --> 00:17:58,060
+and defenses all look normal but things
+become different again once we look at
+
+790
+00:17:58,060 --> 00:17:58,070
+become different again once we look at
+ 
+
+791
+00:17:58,070 --> 00:18:01,150
+become different again once we look at
+the trigger condition here the trigger
+
+792
+00:18:01,150 --> 00:18:01,160
+the trigger condition here the trigger
+ 
+
+793
+00:18:01,160 --> 00:18:04,570
+the trigger condition here the trigger
+is a reaction and an attack just like
+
+794
+00:18:04,570 --> 00:18:04,580
+is a reaction and an attack just like
+ 
+
+795
+00:18:04,580 --> 00:18:07,480
+is a reaction and an attack just like
+with the poison lock the trigger says a
+
+796
+00:18:07,480 --> 00:18:07,490
+with the poison lock the trigger says a
+ 
+
+797
+00:18:07,490 --> 00:18:11,170
+with the poison lock the trigger says a
+creature enters the hallway or ends its
+
+798
+00:18:11,170 --> 00:18:11,180
+creature enters the hallway or ends its
+ 
+
+799
+00:18:11,180 --> 00:18:14,170
+creature enters the hallway or ends its
+turn in the hallway so when either of
+
+800
+00:18:14,170 --> 00:18:14,180
+turn in the hallway so when either of
+ 
+
+801
+00:18:14,180 --> 00:18:17,800
+turn in the hallway so when either of
+those occur the trap triggers in the
+
+802
+00:18:17,800 --> 00:18:17,810
+those occur the trap triggers in the
+ 
+
+803
+00:18:17,810 --> 00:18:20,950
+those occur the trap triggers in the
+effects occur now if you're wondering
+
+804
+00:18:20,950 --> 00:18:20,960
+effects occur now if you're wondering
+ 
+
+805
+00:18:20,960 --> 00:18:23,500
+effects occur now if you're wondering
+how a creature can end its turn in the
+
+806
+00:18:23,500 --> 00:18:23,510
+how a creature can end its turn in the
+ 
+
+807
+00:18:23,510 --> 00:18:26,440
+how a creature can end its turn in the
+hallway without first entering that
+
+808
+00:18:26,440 --> 00:18:26,450
+hallway without first entering that
+ 
+
+809
+00:18:26,450 --> 00:18:29,290
+hallway without first entering that
+hallway save that thought and I promise
+
+810
+00:18:29,290 --> 00:18:29,300
+hallway save that thought and I promise
+ 
+
+811
+00:18:29,300 --> 00:18:30,790
+hallway save that thought and I promise
+we will get to that before we're done
+
+812
+00:18:30,790 --> 00:18:30,800
+we will get to that before we're done
+ 
+
+813
+00:18:30,800 --> 00:18:33,820
+we will get to that before we're done
+here anyway once the trap is triggered
+
+814
+00:18:33,820 --> 00:18:33,830
+here anyway once the trap is triggered
+ 
+
+815
+00:18:33,830 --> 00:18:37,480
+here anyway once the trap is triggered
+we look at the effect the trap makes a
+
+816
+00:18:37,480 --> 00:18:37,490
+we look at the effect the trap makes a
+ 
+
+817
+00:18:37,490 --> 00:18:39,370
+we look at the effect the trap makes a
+poison dart strike against the
+
+818
+00:18:39,370 --> 00:18:39,380
+poison dart strike against the
+ 
+
+819
+00:18:39,380 --> 00:18:41,440
+poison dart strike against the
+triggering creature and then rolls
+
+820
+00:18:41,440 --> 00:18:41,450
+triggering creature and then rolls
+ 
+
+821
+00:18:41,450 --> 00:18:44,200
+triggering creature and then rolls
+initiative and this is the biggest
+
+822
+00:18:44,200 --> 00:18:44,210
+initiative and this is the biggest
+ 
+
+823
+00:18:44,210 --> 00:18:46,720
+initiative and this is the biggest
+difference between simple and complex
+
+824
+00:18:46,720 --> 00:18:46,730
+difference between simple and complex
+ 
+
+825
+00:18:46,730 --> 00:18:49,630
+difference between simple and complex
+hazards when a simple hazard like a
+
+826
+00:18:49,630 --> 00:18:49,640
+hazards when a simple hazard like a
+ 
+
+827
+00:18:49,640 --> 00:18:52,300
+hazards when a simple hazard like a
+poison block is triggered it is one and
+
+828
+00:18:52,300 --> 00:18:52,310
+poison block is triggered it is one and
+ 
+
+829
+00:18:52,310 --> 00:18:55,870
+poison block is triggered it is one and
+done but when a complex trap like here
+
+830
+00:18:55,870 --> 00:18:55,880
+done but when a complex trap like here
+ 
+
+831
+00:18:55,880 --> 00:18:59,590
+done but when a complex trap like here
+when it's triggered it persists when
+
+832
+00:18:59,590 --> 00:18:59,600
+when it's triggered it persists when
+ 
+
+833
+00:18:59,600 --> 00:19:01,660
+when it's triggered it persists when
+this happens the GM rolls the trapped
+
+834
+00:19:01,660 --> 00:19:01,670
+this happens the GM rolls the trapped
+ 
+
+835
+00:19:01,670 --> 00:19:04,210
+this happens the GM rolls the trapped
+stealth bonus of plus sixteen for its
+
+836
+00:19:04,210 --> 00:19:04,220
+stealth bonus of plus sixteen for its
+ 
+
+837
+00:19:04,220 --> 00:19:06,190
+stealth bonus of plus sixteen for its
+initiative that the players were already
+
+838
+00:19:06,190 --> 00:19:06,200
+initiative that the players were already
+ 
+
+839
+00:19:06,200 --> 00:19:08,260
+initiative that the players were already
+in encounter mode then the poison dart
+
+840
+00:19:08,260 --> 00:19:08,270
+in encounter mode then the poison dart
+ 
+
+841
+00:19:08,270 --> 00:19:09,940
+in encounter mode then the poison dart
+gallery is slotted into the already
+
+842
+00:19:09,940 --> 00:19:09,950
+gallery is slotted into the already
+ 
+
+843
+00:19:09,950 --> 00:19:12,070
+gallery is slotted into the already
+existing initiative order and if the
+
+844
+00:19:12,070 --> 00:19:12,080
+existing initiative order and if the
+ 
+
+845
+00:19:12,080 --> 00:19:14,050
+existing initiative order and if the
+players were not already in encounter
+
+846
+00:19:14,050 --> 00:19:14,060
+players were not already in encounter
+ 
+
+847
+00:19:14,060 --> 00:19:16,120
+players were not already in encounter
+mode then they need to roll initiative -
+
+848
+00:19:16,120 --> 00:19:16,130
+mode then they need to roll initiative -
+ 
+
+849
+00:19:16,130 --> 00:19:19,510
+mode then they need to roll initiative -
+and the encounter then begins witness
+
+850
+00:19:19,510 --> 00:19:19,520
+and the encounter then begins witness
+ 
+
+851
+00:19:19,520 --> 00:19:22,120
+and the encounter then begins witness
+the traps turn the GM looks at its
+
+852
+00:19:22,120 --> 00:19:22,130
+the traps turn the GM looks at its
+ 
+
+853
+00:19:22,130 --> 00:19:25,180
+the traps turn the GM looks at its
+routine the first thing we see here is
+
+854
+00:19:25,180 --> 00:19:25,190
+routine the first thing we see here is
+ 
+
+855
+00:19:25,190 --> 00:19:28,320
+routine the first thing we see here is
+that it only has one action per turn
+
+856
+00:19:28,320 --> 00:19:28,330
+that it only has one action per turn
+ 
+
+857
+00:19:28,330 --> 00:19:31,450
+that it only has one action per turn
+hazards are not like creatures and are
+
+858
+00:19:31,450 --> 00:19:31,460
+hazards are not like creatures and are
+ 
+
+859
+00:19:31,460 --> 00:19:33,850
+hazards are not like creatures and are
+not limited to three actions like
+
+860
+00:19:33,850 --> 00:19:33,860
+not limited to three actions like
+ 
+
+861
+00:19:33,860 --> 00:19:37,480
+not limited to three actions like
+players are this one only has one action
+
+862
+00:19:37,480 --> 00:19:37,490
+players are this one only has one action
+ 
+
+863
+00:19:37,490 --> 00:19:39,820
+players are this one only has one action
+per turn but other hazards might have
+
+864
+00:19:39,820 --> 00:19:39,830
+per turn but other hazards might have
+ 
+
+865
+00:19:39,830 --> 00:19:43,230
+per turn but other hazards might have
+four actions per turn or six or more and
+
+866
+00:19:43,230 --> 00:19:43,240
+four actions per turn or six or more and
+ 
+
+867
+00:19:43,240 --> 00:19:47,260
+four actions per turn or six or more and
+every turn the trap spins is action to
+
+868
+00:19:47,260 --> 00:19:47,270
+every turn the trap spins is action to
+ 
+
+869
+00:19:47,270 --> 00:19:50,350
+every turn the trap spins is action to
+fire one dart against every creature in
+
+870
+00:19:50,350 --> 00:19:50,360
+fire one dart against every creature in
+ 
+
+871
+00:19:50,360 --> 00:19:53,290
+fire one dart against every creature in
+the gallery the stats for that or below
+
+872
+00:19:53,290 --> 00:19:53,300
+the gallery the stats for that or below
+ 
+
+873
+00:19:53,300 --> 00:19:57,130
+the gallery the stats for that or below
+plus 21 to attack with 3d for piercing
+
+874
+00:19:57,130 --> 00:19:57,140
+plus 21 to attack with 3d for piercing
+ 
+
+875
+00:19:57,140 --> 00:20:00,430
+plus 21 to attack with 3d for piercing
+damage and poison it also notes that the
+
+876
+00:20:00,430 --> 00:20:00,440
+damage and poison it also notes that the
+ 
+
+877
+00:20:00,440 --> 00:20:01,510
+damage and poison it also notes that the
+trap does not
+
+878
+00:20:01,510 --> 00:20:01,520
+trap does not
+ 
+
+879
+00:20:01,520 --> 00:20:04,270
+trap does not
+suffer a multi attack penalty so all of
+
+880
+00:20:04,270 --> 00:20:04,280
+suffer a multi attack penalty so all of
+ 
+
+881
+00:20:04,280 --> 00:20:07,180
+suffer a multi attack penalty so all of
+those attacks are made with a plus 21
+
+882
+00:20:07,180 --> 00:20:07,190
+those attacks are made with a plus 21
+ 
+
+883
+00:20:07,190 --> 00:20:11,380
+those attacks are made with a plus 21
+bonus in addition to that we also see it
+
+884
+00:20:11,380 --> 00:20:11,390
+bonus in addition to that we also see it
+ 
+
+885
+00:20:11,390 --> 00:20:14,350
+bonus in addition to that we also see it
+has a free action code continuous
+
+886
+00:20:14,350 --> 00:20:14,360
+has a free action code continuous
+ 
+
+887
+00:20:14,360 --> 00:20:17,920
+has a free action code continuous
+barrage every time a character within
+
+888
+00:20:17,920 --> 00:20:17,930
+barrage every time a character within
+ 
+
+889
+00:20:17,930 --> 00:20:20,710
+barrage every time a character within
+the gallery completes an action not
+
+890
+00:20:20,710 --> 00:20:20,720
+the gallery completes an action not
+ 
+
+891
+00:20:20,720 --> 00:20:24,070
+the gallery completes an action not
+completes their turn but every time they
+
+892
+00:20:24,070 --> 00:20:24,080
+completes their turn but every time they
+ 
+
+893
+00:20:24,080 --> 00:20:27,670
+completes their turn but every time they
+complete an action this hazard fires
+
+894
+00:20:27,670 --> 00:20:27,680
+complete an action this hazard fires
+ 
+
+895
+00:20:27,680 --> 00:20:30,520
+complete an action this hazard fires
+another dart at them so if they take
+
+896
+00:20:30,520 --> 00:20:30,530
+another dart at them so if they take
+ 
+
+897
+00:20:30,530 --> 00:20:32,470
+another dart at them so if they take
+three actions while inside the gallery
+
+898
+00:20:32,470 --> 00:20:32,480
+three actions while inside the gallery
+ 
+
+899
+00:20:32,480 --> 00:20:35,680
+three actions while inside the gallery
+then this hazard attacks them three
+
+900
+00:20:35,680 --> 00:20:35,690
+then this hazard attacks them three
+ 
+
+901
+00:20:35,690 --> 00:20:38,650
+then this hazard attacks them three
+times during their turn in addition to
+
+902
+00:20:38,650 --> 00:20:38,660
+times during their turn in addition to
+ 
+
+903
+00:20:38,660 --> 00:20:40,810
+times during their turn in addition to
+the one time the hazard attacks them
+
+904
+00:20:40,810 --> 00:20:40,820
+the one time the hazard attacks them
+ 
+
+905
+00:20:40,820 --> 00:20:44,410
+the one time the hazard attacks them
+during its turn and below that we see
+
+906
+00:20:44,410 --> 00:20:44,420
+during its turn and below that we see
+ 
+
+907
+00:20:44,420 --> 00:20:46,660
+during its turn and below that we see
+the stats for the poison that may be
+
+908
+00:20:46,660 --> 00:20:46,670
+the stats for the poison that may be
+ 
+
+909
+00:20:46,670 --> 00:20:49,960
+the stats for the poison that may be
+inflicted with the dorms last at the
+
+910
+00:20:49,960 --> 00:20:49,970
+inflicted with the dorms last at the
+ 
+
+911
+00:20:49,970 --> 00:20:52,660
+inflicted with the dorms last at the
+very bottom of the stat block we see it
+
+912
+00:20:52,660 --> 00:20:52,670
+very bottom of the stat block we see it
+ 
+
+913
+00:20:52,670 --> 00:20:56,470
+very bottom of the stat block we see it
+says reset the trap deactivates and
+
+914
+00:20:56,470 --> 00:20:56,480
+says reset the trap deactivates and
+ 
+
+915
+00:20:56,480 --> 00:20:59,890
+says reset the trap deactivates and
+resets after one minute what this means
+
+916
+00:20:59,890 --> 00:20:59,900
+resets after one minute what this means
+ 
+
+917
+00:20:59,900 --> 00:21:03,070
+resets after one minute what this means
+is once the trap is triggered it remains
+
+918
+00:21:03,070 --> 00:21:03,080
+is once the trap is triggered it remains
+ 
+
+919
+00:21:03,080 --> 00:21:05,740
+is once the trap is triggered it remains
+active for one minute or ten encounter
+
+920
+00:21:05,740 --> 00:21:05,750
+active for one minute or ten encounter
+ 
+
+921
+00:21:05,750 --> 00:21:08,290
+active for one minute or ten encounter
+rounds so if the characters leave the
+
+922
+00:21:08,290 --> 00:21:08,300
+rounds so if the characters leave the
+ 
+
+923
+00:21:08,300 --> 00:21:10,750
+rounds so if the characters leave the
+gallery and come back to it during that
+
+924
+00:21:10,750 --> 00:21:10,760
+gallery and come back to it during that
+ 
+
+925
+00:21:10,760 --> 00:21:15,010
+gallery and come back to it during that
+minute the trap is still active but one
+
+926
+00:21:15,010 --> 00:21:15,020
+minute the trap is still active but one
+ 
+
+927
+00:21:15,020 --> 00:21:17,740
+minute the trap is still active but one
+minute after it is first triggered the
+
+928
+00:21:17,740 --> 00:21:17,750
+minute after it is first triggered the
+ 
+
+929
+00:21:17,750 --> 00:21:21,490
+minute after it is first triggered the
+trap stops and resets meaning it must be
+
+930
+00:21:21,490 --> 00:21:21,500
+trap stops and resets meaning it must be
+ 
+
+931
+00:21:21,500 --> 00:21:23,970
+trap stops and resets meaning it must be
+triggered again before it will operate
+
+932
+00:21:23,970 --> 00:21:23,980
+triggered again before it will operate
+ 
+
+933
+00:21:23,980 --> 00:21:26,590
+triggered again before it will operate
+this is also aware of that effect
+
+934
+00:21:26,590 --> 00:21:26,600
+this is also aware of that effect
+ 
+
+935
+00:21:26,600 --> 00:21:28,660
+this is also aware of that effect
+condition that says a creature that
+
+936
+00:21:28,660 --> 00:21:28,670
+condition that says a creature that
+ 
+
+937
+00:21:28,670 --> 00:21:31,930
+condition that says a creature that
+enters the hallway or ends is turn in
+
+938
+00:21:31,930 --> 00:21:31,940
+enters the hallway or ends is turn in
+ 
+
+939
+00:21:31,940 --> 00:21:34,750
+enters the hallway or ends is turn in
+the hallway triggers the trap this is
+
+940
+00:21:34,750 --> 00:21:34,760
+the hallway triggers the trap this is
+ 
+
+941
+00:21:34,760 --> 00:21:37,330
+the hallway triggers the trap this is
+where that comes into play it is
+
+942
+00:21:37,330 --> 00:21:37,340
+where that comes into play it is
+ 
+
+943
+00:21:37,340 --> 00:21:39,250
+where that comes into play it is
+possible for a creature to have already
+
+944
+00:21:39,250 --> 00:21:39,260
+possible for a creature to have already
+ 
+
+945
+00:21:39,260 --> 00:21:41,740
+possible for a creature to have already
+entered the hall when it's minute is up
+
+946
+00:21:41,740 --> 00:21:41,750
+entered the hall when it's minute is up
+ 
+
+947
+00:21:41,750 --> 00:21:45,820
+entered the hall when it's minute is up
+in every sense which means if they are
+
+948
+00:21:45,820 --> 00:21:45,830
+in every sense which means if they are
+ 
+
+949
+00:21:45,830 --> 00:21:48,280
+in every sense which means if they are
+still inside the hall when they finish
+
+950
+00:21:48,280 --> 00:21:48,290
+still inside the hall when they finish
+ 
+
+951
+00:21:48,290 --> 00:21:50,710
+still inside the hall when they finish
+their next turn they trigger the trap
+
+952
+00:21:50,710 --> 00:21:50,720
+their next turn they trigger the trap
+ 
+
+953
+00:21:50,720 --> 00:21:54,190
+their next turn they trigger the trap
+again if the trigger condition only said
+
+954
+00:21:54,190 --> 00:21:54,200
+again if the trigger condition only said
+ 
+
+955
+00:21:54,200 --> 00:21:56,830
+again if the trigger condition only said
+creatures that enter the hallway then
+
+956
+00:21:56,830 --> 00:21:56,840
+creatures that enter the hallway then
+ 
+
+957
+00:21:56,840 --> 00:21:59,350
+creatures that enter the hallway then
+anyone who is already in the hall at the
+
+958
+00:21:59,350 --> 00:21:59,360
+anyone who is already in the hall at the
+ 
+
+959
+00:21:59,360 --> 00:22:02,230
+anyone who is already in the hall at the
+time it resets would be immune from
+
+960
+00:22:02,230 --> 00:22:02,240
+time it resets would be immune from
+ 
+
+961
+00:22:02,240 --> 00:22:05,210
+time it resets would be immune from
+triggering it again
+
+962
+00:22:05,210 --> 00:22:05,220
+triggering it again
+ 
+
+963
+00:22:05,220 --> 00:22:07,840
+triggering it again
+in this video we discussed hazards
+
+964
+00:22:07,840 --> 00:22:07,850
+in this video we discussed hazards
+ 
+
+965
+00:22:07,850 --> 00:22:10,820
+in this video we discussed hazards
+hazards are dangers in the game other
+
+966
+00:22:10,820 --> 00:22:10,830
+hazards are dangers in the game other
+ 
+
+967
+00:22:10,830 --> 00:22:13,610
+hazards are dangers in the game other
+than creatures and typically fall into
+
+968
+00:22:13,610 --> 00:22:13,620
+than creatures and typically fall into
+ 
+
+969
+00:22:13,620 --> 00:22:16,399
+than creatures and typically fall into
+one of three categories environmental
+
+970
+00:22:16,399 --> 00:22:16,409
+one of three categories environmental
+ 
+
+971
+00:22:16,409 --> 00:22:19,120
+one of three categories environmental
+hazards like storms and earthquakes
+
+972
+00:22:19,120 --> 00:22:19,130
+hazards like storms and earthquakes
+ 
+
+973
+00:22:19,130 --> 00:22:21,860
+hazards like storms and earthquakes
+hauntings like a haunted mansion or a
+
+974
+00:22:21,860 --> 00:22:21,870
+hauntings like a haunted mansion or a
+ 
+
+975
+00:22:21,870 --> 00:22:26,120
+hauntings like a haunted mansion or a
+ghost ship and traps and hazards are
+
+976
+00:22:26,120 --> 00:22:26,130
+ghost ship and traps and hazards are
+ 
+
+977
+00:22:26,130 --> 00:22:29,149
+ghost ship and traps and hazards are
+further divided into two types simple
+
+978
+00:22:29,149 --> 00:22:29,159
+further divided into two types simple
+ 
+
+979
+00:22:29,159 --> 00:22:32,990
+further divided into two types simple
+hazards and complex hazards simple
+
+980
+00:22:32,990 --> 00:22:33,000
+hazards and complex hazards simple
+ 
+
+981
+00:22:33,000 --> 00:22:35,060
+hazards and complex hazards simple
+hazards are triggered once and then
+
+982
+00:22:35,060 --> 00:22:35,070
+hazards are triggered once and then
+ 
+
+983
+00:22:35,070 --> 00:22:38,080
+hazards are triggered once and then
+become inert unless they are reset again
+
+984
+00:22:38,080 --> 00:22:38,090
+become inert unless they are reset again
+ 
+
+985
+00:22:38,090 --> 00:22:41,120
+become inert unless they are reset again
+complex hazards persist after they are
+
+986
+00:22:41,120 --> 00:22:41,130
+complex hazards persist after they are
+ 
+
+987
+00:22:41,130 --> 00:22:43,549
+complex hazards persist after they are
+triggered they are placed in iniciative
+
+988
+00:22:43,549 --> 00:22:43,559
+triggered they are placed in iniciative
+ 
+
+989
+00:22:43,559 --> 00:22:46,159
+triggered they are placed in iniciative
+order just like a monster and they run a
+
+990
+00:22:46,159 --> 00:22:46,169
+order just like a monster and they run a
+ 
+
+991
+00:22:46,169 --> 00:22:48,529
+order just like a monster and they run a
+predetermined routine when it is their
+
+992
+00:22:48,529 --> 00:22:48,539
+predetermined routine when it is their
+ 
+
+993
+00:22:48,539 --> 00:22:52,669
+predetermined routine when it is their
+turn detecting hazards functions much
+
+994
+00:22:52,669 --> 00:22:52,679
+turn detecting hazards functions much
+ 
+
+995
+00:22:52,679 --> 00:22:54,620
+turn detecting hazards functions much
+the same way as spotting anything else
+
+996
+00:22:54,620 --> 00:22:54,630
+the same way as spotting anything else
+ 
+
+997
+00:22:54,630 --> 00:22:58,370
+the same way as spotting anything else
+all hazards have a stealth DC for a
+
+998
+00:22:58,370 --> 00:22:58,380
+all hazards have a stealth DC for a
+ 
+
+999
+00:22:58,380 --> 00:23:00,230
+all hazards have a stealth DC for a
+complex hazards this is usually
+
+1000
+00:23:00,230 --> 00:23:00,240
+complex hazards this is usually
+ 
+
+1001
+00:23:00,240 --> 00:23:03,200
+complex hazards this is usually
+displayed as a stealth bonus and the GM
+
+1002
+00:23:03,200 --> 00:23:03,210
+displayed as a stealth bonus and the GM
+ 
+
+1003
+00:23:03,210 --> 00:23:06,110
+displayed as a stealth bonus and the GM
+needs to know that the stealth DC is 10
+
+1004
+00:23:06,110 --> 00:23:06,120
+needs to know that the stealth DC is 10
+ 
+
+1005
+00:23:06,120 --> 00:23:08,510
+needs to know that the stealth DC is 10
+Plus that bonus unless otherwise noted
+
+1006
+00:23:08,510 --> 00:23:08,520
+Plus that bonus unless otherwise noted
+ 
+
+1007
+00:23:08,520 --> 00:23:12,200
+Plus that bonus unless otherwise noted
+in the stat block if the hazard does not
+
+1008
+00:23:12,200 --> 00:23:12,210
+in the stat block if the hazard does not
+ 
+
+1009
+00:23:12,210 --> 00:23:14,779
+in the stat block if the hazard does not
+list a required minimum proficiency for
+
+1010
+00:23:14,779 --> 00:23:14,789
+list a required minimum proficiency for
+ 
+
+1011
+00:23:14,789 --> 00:23:17,720
+list a required minimum proficiency for
+perception then all players receive a
+
+1012
+00:23:17,720 --> 00:23:17,730
+perception then all players receive a
+ 
+
+1013
+00:23:17,730 --> 00:23:20,210
+perception then all players receive a
+free perception check when they enter
+
+1014
+00:23:20,210 --> 00:23:20,220
+free perception check when they enter
+ 
+
+1015
+00:23:20,220 --> 00:23:22,700
+free perception check when they enter
+the general area of the hazard this
+
+1016
+00:23:22,700 --> 00:23:22,710
+the general area of the hazard this
+ 
+
+1017
+00:23:22,710 --> 00:23:25,190
+the general area of the hazard this
+mostly applies to environmental hazards
+
+1018
+00:23:25,190 --> 00:23:25,200
+mostly applies to environmental hazards
+ 
+
+1019
+00:23:25,200 --> 00:23:28,220
+mostly applies to environmental hazards
+a hailstorm isn't trying to hide from
+
+1020
+00:23:28,220 --> 00:23:28,230
+a hailstorm isn't trying to hide from
+ 
+
+1021
+00:23:28,230 --> 00:23:31,730
+a hailstorm isn't trying to hide from
+anyone but if the hazard has any
+
+1022
+00:23:31,730 --> 00:23:31,740
+anyone but if the hazard has any
+ 
+
+1023
+00:23:31,740 --> 00:23:34,850
+anyone but if the hazard has any
+requirements for perception then a
+
+1024
+00:23:34,850 --> 00:23:34,860
+requirements for perception then a
+ 
+
+1025
+00:23:34,860 --> 00:23:37,279
+requirements for perception then a
+player must take the seek action and
+
+1026
+00:23:37,279 --> 00:23:37,289
+player must take the seek action and
+ 
+
+1027
+00:23:37,289 --> 00:23:39,860
+player must take the seek action and
+meet the minimum perception requirements
+
+1028
+00:23:39,860 --> 00:23:39,870
+meet the minimum perception requirements
+ 
+
+1029
+00:23:39,870 --> 00:23:42,950
+meet the minimum perception requirements
+to spot the hazard also note that if a
+
+1030
+00:23:42,950 --> 00:23:42,960
+to spot the hazard also note that if a
+ 
+
+1031
+00:23:42,960 --> 00:23:45,350
+to spot the hazard also note that if a
+magical hazard does not have a minimum
+
+1032
+00:23:45,350 --> 00:23:45,360
+magical hazard does not have a minimum
+ 
+
+1033
+00:23:45,360 --> 00:23:47,750
+magical hazard does not have a minimum
+perception requirement that it may be
+
+1034
+00:23:47,750 --> 00:23:47,760
+perception requirement that it may be
+ 
+
+1035
+00:23:47,760 --> 00:23:50,360
+perception requirement that it may be
+found by casting the tech magic but that
+
+1036
+00:23:50,360 --> 00:23:50,370
+found by casting the tech magic but that
+ 
+
+1037
+00:23:50,370 --> 00:23:52,669
+found by casting the tech magic but that
+spell only informs the caster of the
+
+1038
+00:23:52,669 --> 00:23:52,679
+spell only informs the caster of the
+ 
+
+1039
+00:23:52,679 --> 00:23:54,980
+spell only informs the caster of the
+presence of magic and does not provide
+
+1040
+00:23:54,980 --> 00:23:54,990
+presence of magic and does not provide
+ 
+
+1041
+00:23:54,990 --> 00:23:58,880
+presence of magic and does not provide
+any assistance in disabling the hazard
+
+1042
+00:23:58,880 --> 00:23:58,890
+any assistance in disabling the hazard
+ 
+
+1043
+00:23:58,890 --> 00:24:01,610
+any assistance in disabling the hazard
+each hazard step block lists a
+
+1044
+00:24:01,610 --> 00:24:01,620
+each hazard step block lists a
+ 
+
+1045
+00:24:01,620 --> 00:24:03,710
+each hazard step block lists a
+triggering condition that needs to be
+
+1046
+00:24:03,710 --> 00:24:03,720
+triggering condition that needs to be
+ 
+
+1047
+00:24:03,720 --> 00:24:05,930
+triggering condition that needs to be
+met in order to activate the hazard
+
+1048
+00:24:05,930 --> 00:24:05,940
+met in order to activate the hazard
+ 
+
+1049
+00:24:05,940 --> 00:24:08,990
+met in order to activate the hazard
+these are listed as either reactions or
+
+1050
+00:24:08,990 --> 00:24:09,000
+these are listed as either reactions or
+ 
+
+1051
+00:24:09,000 --> 00:24:11,600
+these are listed as either reactions or
+free actions the important distinction
+
+1052
+00:24:11,600 --> 00:24:11,610
+free actions the important distinction
+ 
+
+1053
+00:24:11,610 --> 00:24:14,240
+free actions the important distinction
+here is if the trigger is a free action
+
+1054
+00:24:14,240 --> 00:24:14,250
+here is if the trigger is a free action
+ 
+
+1055
+00:24:14,250 --> 00:24:17,960
+here is if the trigger is a free action
+then it fires repeatedly every time the
+
+1056
+00:24:17,960 --> 00:24:17,970
+then it fires repeatedly every time the
+ 
+
+1057
+00:24:17,970 --> 00:24:20,390
+then it fires repeatedly every time the
+triggering condition is met whereas if
+
+1058
+00:24:20,390 --> 00:24:20,400
+triggering condition is met whereas if
+ 
+
+1059
+00:24:20,400 --> 00:24:23,000
+triggering condition is met whereas if
+it is a reaction then the trigger only
+
+1060
+00:24:23,000 --> 00:24:23,010
+it is a reaction then the trigger only
+ 
+
+1061
+00:24:23,010 --> 00:24:27,169
+it is a reaction then the trigger only
+fires once after the trigger occurs the
+
+1062
+00:24:27,169 --> 00:24:27,179
+fires once after the trigger occurs the
+ 
+
+1063
+00:24:27,179 --> 00:24:29,810
+fires once after the trigger occurs the
+GM applies the listed effects of that
+
+1064
+00:24:29,810 --> 00:24:29,820
+GM applies the listed effects of that
+ 
+
+1065
+00:24:29,820 --> 00:24:32,720
+GM applies the listed effects of that
+trigger for complex hazards this usually
+
+1066
+00:24:32,720 --> 00:24:32,730
+trigger for complex hazards this usually
+ 
+
+1067
+00:24:32,730 --> 00:24:34,280
+trigger for complex hazards this usually
+includes a rolling initiative for the
+
+1068
+00:24:34,280 --> 00:24:34,290
+includes a rolling initiative for the
+ 
+
+1069
+00:24:34,290 --> 00:24:37,159
+includes a rolling initiative for the
+hazard which unless otherwise noted in
+
+1070
+00:24:37,159 --> 00:24:37,169
+hazard which unless otherwise noted in
+ 
+
+1071
+00:24:37,169 --> 00:24:41,090
+hazard which unless otherwise noted in
+the stat block is is stealth bonus for
+
+1072
+00:24:41,090 --> 00:24:41,100
+the stat block is is stealth bonus for
+ 
+
+1073
+00:24:41,100 --> 00:24:43,610
+the stat block is is stealth bonus for
+these complex hazards they will perform
+
+1074
+00:24:43,610 --> 00:24:43,620
+these complex hazards they will perform
+ 
+
+1075
+00:24:43,620 --> 00:24:46,010
+these complex hazards they will perform
+the listed routine every round on their
+
+1076
+00:24:46,010 --> 00:24:46,020
+the listed routine every round on their
+ 
+
+1077
+00:24:46,020 --> 00:24:49,220
+the listed routine every round on their
+turn and note that hazards have no limit
+
+1078
+00:24:49,220 --> 00:24:49,230
+turn and note that hazards have no limit
+ 
+
+1079
+00:24:49,230 --> 00:24:51,049
+turn and note that hazards have no limit
+to the number of actions they have per
+
+1080
+00:24:51,049 --> 00:24:51,059
+to the number of actions they have per
+ 
+
+1081
+00:24:51,059 --> 00:24:54,380
+to the number of actions they have per
+turn instead each step block should list
+
+1082
+00:24:54,380 --> 00:24:54,390
+turn instead each step block should list
+ 
+
+1083
+00:24:54,390 --> 00:24:56,330
+turn instead each step block should list
+the number of actions the hazard
+
+1084
+00:24:56,330 --> 00:24:56,340
+the number of actions the hazard
+ 
+
+1085
+00:24:56,340 --> 00:24:59,860
+the number of actions the hazard
+receives and how to spin them every turn
+
+1086
+00:24:59,860 --> 00:24:59,870
+receives and how to spin them every turn
+ 
+
+1087
+00:24:59,870 --> 00:25:02,750
+receives and how to spin them every turn
+hazards also display conditions to
+
+1088
+00:25:02,750 --> 00:25:02,760
+hazards also display conditions to
+ 
+
+1089
+00:25:02,760 --> 00:25:05,510
+hazards also display conditions to
+disable them for environmental hazards
+
+1090
+00:25:05,510 --> 00:25:05,520
+disable them for environmental hazards
+ 
+
+1091
+00:25:05,520 --> 00:25:08,240
+disable them for environmental hazards
+these are usually nature or survival
+
+1092
+00:25:08,240 --> 00:25:08,250
+these are usually nature or survival
+ 
+
+1093
+00:25:08,250 --> 00:25:12,169
+these are usually nature or survival
+checks for haunts these are occultism or
+
+1094
+00:25:12,169 --> 00:25:12,179
+checks for haunts these are occultism or
+ 
+
+1095
+00:25:12,179 --> 00:25:14,900
+checks for haunts these are occultism or
+religion checks and for mechanical traps
+
+1096
+00:25:14,900 --> 00:25:14,910
+religion checks and for mechanical traps
+ 
+
+1097
+00:25:14,910 --> 00:25:17,480
+religion checks and for mechanical traps
+you usually use the disable device
+
+1098
+00:25:17,480 --> 00:25:17,490
+you usually use the disable device
+ 
+
+1099
+00:25:17,490 --> 00:25:20,090
+you usually use the disable device
+application of the thievery skill which
+
+1100
+00:25:20,090 --> 00:25:20,100
+application of the thievery skill which
+ 
+
+1101
+00:25:20,100 --> 00:25:22,789
+application of the thievery skill which
+don't forget is two actions not one if
+
+1102
+00:25:22,789 --> 00:25:22,799
+don't forget is two actions not one if
+ 
+
+1103
+00:25:22,799 --> 00:25:26,060
+don't forget is two actions not one if
+the hazard is magical you might also be
+
+1104
+00:25:26,060 --> 00:25:26,070
+the hazard is magical you might also be
+ 
+
+1105
+00:25:26,070 --> 00:25:28,340
+the hazard is magical you might also be
+able to disable it by casting dispel
+
+1106
+00:25:28,340 --> 00:25:28,350
+able to disable it by casting dispel
+ 
+
+1107
+00:25:28,350 --> 00:25:30,799
+able to disable it by casting dispel
+magic when you do so you roll a
+
+1108
+00:25:30,799 --> 00:25:30,809
+magic when you do so you roll a
+ 
+
+1109
+00:25:30,809 --> 00:25:32,840
+magic when you do so you roll a
+counteract check comparing your
+
+1110
+00:25:32,840 --> 00:25:32,850
+counteract check comparing your
+ 
+
+1111
+00:25:32,850 --> 00:25:35,510
+counteract check comparing your
+counteract level which is the level of
+
+1112
+00:25:35,510 --> 00:25:35,520
+counteract level which is the level of
+ 
+
+1113
+00:25:35,520 --> 00:25:38,080
+counteract level which is the level of
+the spell slot used to cast dispel magic
+
+1114
+00:25:38,080 --> 00:25:38,090
+the spell slot used to cast dispel magic
+ 
+
+1115
+00:25:38,090 --> 00:25:41,000
+the spell slot used to cast dispel magic
+versus the counteract level listed in
+
+1116
+00:25:41,000 --> 00:25:41,010
+versus the counteract level listed in
+ 
+
+1117
+00:25:41,010 --> 00:25:44,120
+versus the counteract level listed in
+the hazard step block you then roll a
+
+1118
+00:25:44,120 --> 00:25:44,130
+the hazard step block you then roll a
+ 
+
+1119
+00:25:44,130 --> 00:25:47,060
+the hazard step block you then roll a
+counteract check which has the same base
+
+1120
+00:25:47,060 --> 00:25:47,070
+counteract check which has the same base
+ 
+
+1121
+00:25:47,070 --> 00:25:50,060
+counteract check which has the same base
+bonus as a spell attack role except it
+
+1122
+00:25:50,060 --> 00:25:50,070
+bonus as a spell attack role except it
+ 
+
+1123
+00:25:50,070 --> 00:25:52,490
+bonus as a spell attack role except it
+is only further modified by conditions
+
+1124
+00:25:52,490 --> 00:25:52,500
+is only further modified by conditions
+ 
+
+1125
+00:25:52,500 --> 00:25:54,740
+is only further modified by conditions
+that specifically say they modify
+
+1126
+00:25:54,740 --> 00:25:54,750
+that specifically say they modify
+ 
+
+1127
+00:25:54,750 --> 00:25:58,490
+that specifically say they modify
+counteract checks and then compare that
+
+1128
+00:25:58,490 --> 00:25:58,500
+counteract checks and then compare that
+ 
+
+1129
+00:25:58,500 --> 00:26:01,669
+counteract checks and then compare that
+total to the counteract DC listed in the
+
+1130
+00:26:01,669 --> 00:26:01,679
+total to the counteract DC listed in the
+ 
+
+1131
+00:26:01,679 --> 00:26:03,830
+total to the counteract DC listed in the
+hazard stat block
+
+1132
+00:26:03,830 --> 00:26:03,840
+hazard stat block
+ 
+
+1133
+00:26:03,840 --> 00:26:07,460
+hazard stat block
+hazards especially traps might also be
+
+1134
+00:26:07,460 --> 00:26:07,470
+hazards especially traps might also be
+ 
+
+1135
+00:26:07,470 --> 00:26:09,290
+hazards especially traps might also be
+disabled through brute force in
+
+1136
+00:26:09,290 --> 00:26:09,300
+disabled through brute force in
+ 
+
+1137
+00:26:09,300 --> 00:26:12,230
+disabled through brute force in
+attacking them traps are triggered the
+
+1138
+00:26:12,230 --> 00:26:12,240
+attacking them traps are triggered the
+ 
+
+1139
+00:26:12,240 --> 00:26:14,120
+attacking them traps are triggered the
+first time they are hit by an attack
+
+1140
+00:26:14,120 --> 00:26:14,130
+first time they are hit by an attack
+ 
+
+1141
+00:26:14,130 --> 00:26:16,910
+first time they are hit by an attack
+unless the attack drops it below is
+
+1142
+00:26:16,910 --> 00:26:16,920
+unless the attack drops it below is
+ 
+
+1143
+00:26:16,920 --> 00:26:19,820
+unless the attack drops it below is
+break threshold or to zero hit points if
+
+1144
+00:26:19,820 --> 00:26:19,830
+break threshold or to zero hit points if
+ 
+
+1145
+00:26:19,830 --> 00:26:22,520
+break threshold or to zero hit points if
+the trap does not display a break
+
+1146
+00:26:22,520 --> 00:26:22,530
+the trap does not display a break
+ 
+
+1147
+00:26:22,530 --> 00:26:25,130
+the trap does not display a break
+threshold then it must be reduced to
+
+1148
+00:26:25,130 --> 00:26:25,140
+threshold then it must be reduced to
+ 
+
+1149
+00:26:25,140 --> 00:26:28,010
+threshold then it must be reduced to
+zero hit points with the first hit to
+
+1150
+00:26:28,010 --> 00:26:28,020
+zero hit points with the first hit to
+ 
+
+1151
+00:26:28,020 --> 00:26:30,860
+zero hit points with the first hit to
+prevent it from triggering and some
+
+1152
+00:26:30,860 --> 00:26:30,870
+prevent it from triggering and some
+ 
+
+1153
+00:26:30,870 --> 00:26:33,080
+prevent it from triggering and some
+hazards display reset information as
+
+1154
+00:26:33,080 --> 00:26:33,090
+hazards display reset information as
+ 
+
+1155
+00:26:33,090 --> 00:26:35,150
+hazards display reset information as
+well that details what needs to occur
+
+1156
+00:26:35,150 --> 00:26:35,160
+well that details what needs to occur
+ 
+
+1157
+00:26:35,160 --> 00:26:37,490
+well that details what needs to occur
+for the hazard to return to his default
+
+1158
+00:26:37,490 --> 00:26:37,500
+for the hazard to return to his default
+ 
+
+1159
+00:26:37,500 --> 00:26:42,150
+for the hazard to return to his default
+state and be ready to trigger again
+
+1160
+00:26:42,150 --> 00:26:42,160
+
+ 
+
+1161
+00:26:42,160 --> 00:26:44,040
+
+with that we'll bring this video to a
+
+1162
+00:26:44,040 --> 00:26:44,050
+with that we'll bring this video to a
+ 
+
+1163
+00:26:44,050 --> 00:26:46,170
+with that we'll bring this video to a
+close if you found this video helpful
+
+1164
+00:26:46,170 --> 00:26:46,180
+close if you found this video helpful
+ 
+
+1165
+00:26:46,180 --> 00:26:47,940
+close if you found this video helpful
+please give us a like and don't forget
+
+1166
+00:26:47,940 --> 00:26:47,950
+please give us a like and don't forget
+ 
+
+1167
+00:26:47,950 --> 00:26:49,560
+please give us a like and don't forget
+to click that subscribe button and the
+
+1168
+00:26:49,560 --> 00:26:49,570
+to click that subscribe button and the
+ 
+
+1169
+00:26:49,570 --> 00:26:51,150
+to click that subscribe button and the
+bell so you never miss out on our future
+
+1170
+00:26:51,150 --> 00:26:51,160
+bell so you never miss out on our future
+ 
+
+1171
+00:26:51,160 --> 00:26:53,460
+bell so you never miss out on our future
+videos leave us a comment letting us
+
+1172
+00:26:53,460 --> 00:26:53,470
+videos leave us a comment letting us
+ 
+
+1173
+00:26:53,470 --> 00:26:54,630
+videos leave us a comment letting us
+know what topics you'd like to see
+
+1174
+00:26:54,630 --> 00:26:54,640
+know what topics you'd like to see
+ 
+
+1175
+00:26:54,640 --> 00:26:56,850
+know what topics you'd like to see
+covered in our future videos and we can
+
+1176
+00:26:56,850 --> 00:26:56,860
+covered in our future videos and we can
+ 
+
+1177
+00:26:56,860 --> 00:26:57,960
+covered in our future videos and we can
+always be reached through our Twitter
+
+1178
+00:26:57,960 --> 00:26:57,970
+always be reached through our Twitter
+ 
+
+1179
+00:26:57,970 --> 00:27:00,690
+always be reached through our Twitter
+and Facebook pages too if you'd like to
+
+1180
+00:27:00,690 --> 00:27:00,700
+and Facebook pages too if you'd like to
+ 
+
+1181
+00:27:00,700 --> 00:27:02,160
+and Facebook pages too if you'd like to
+use some of the maps that we feature in
+
+1182
+00:27:02,160 --> 00:27:02,170
+use some of the maps that we feature in
+ 
+
+1183
+00:27:02,170 --> 00:27:03,960
+use some of the maps that we feature in
+our videos and your own games you can
+
+1184
+00:27:03,960 --> 00:27:03,970
+our videos and your own games you can
+ 
+
+1185
+00:27:03,970 --> 00:27:06,660
+our videos and your own games you can
+find them at maps of mastery a link to
+
+1186
+00:27:06,660 --> 00:27:06,670
+find them at maps of mastery a link to
+ 
+
+1187
+00:27:06,670 --> 00:27:07,950
+find them at maps of mastery a link to
+that store can be found in the
+
+1188
+00:27:07,950 --> 00:27:07,960
+that store can be found in the
+ 
+
+1189
+00:27:07,960 --> 00:27:10,710
+that store can be found in the
+description thanks for watching take
+
+1190
+00:27:10,710 --> 00:27:10,720
+description thanks for watching take
+ 
+
+1191
+00:27:10,720 --> 00:27:12,330
+description thanks for watching take
+care and we'll see you soon with more
+
+1192
+00:27:12,330 --> 00:27:12,340
+care and we'll see you soon with more
+ 
+
+1193
+00:27:12,340 --> 00:27:16,110
+care and we'll see you soon with more
+basics for your favorite tabletop games
+

@@ -1,0 +1,2665 @@
+1
+00:00:00,679 --> 00:00:03,249
+
+hello and welcome to basics for gamers
+
+2
+00:00:03,249 --> 00:00:03,259
+hello and welcome to basics for gamers
+ 
+
+3
+00:00:03,259 --> 00:00:05,800
+hello and welcome to basics for gamers
+presents the basics of cover in
+
+4
+00:00:05,800 --> 00:00:05,810
+presents the basics of cover in
+ 
+
+5
+00:00:05,810 --> 00:00:08,830
+presents the basics of cover in
+Pathfinder 2nd edition
+
+6
+00:00:08,830 --> 00:00:08,840
+Pathfinder 2nd edition
+ 
+
+7
+00:00:08,840 --> 00:00:11,500
+Pathfinder 2nd edition
+when a target is behind any object that
+
+8
+00:00:11,500 --> 00:00:11,510
+when a target is behind any object that
+ 
+
+9
+00:00:11,510 --> 00:00:13,540
+when a target is behind any object that
+might hinder your ability to attack them
+
+10
+00:00:13,540 --> 00:00:13,550
+might hinder your ability to attack them
+ 
+
+11
+00:00:13,550 --> 00:00:16,930
+might hinder your ability to attack them
+they have cover from you determining if
+
+12
+00:00:16,930 --> 00:00:16,940
+they have cover from you determining if
+ 
+
+13
+00:00:16,940 --> 00:00:19,000
+they have cover from you determining if
+an enemy has cover from your tank is
+
+14
+00:00:19,000 --> 00:00:19,010
+an enemy has cover from your tank is
+ 
+
+15
+00:00:19,010 --> 00:00:21,730
+an enemy has cover from your tank is
+fairly simple all you have to do is draw
+
+16
+00:00:21,730 --> 00:00:21,740
+fairly simple all you have to do is draw
+ 
+
+17
+00:00:21,740 --> 00:00:24,609
+fairly simple all you have to do is draw
+an imaginary line from the center of the
+
+18
+00:00:24,609 --> 00:00:24,619
+an imaginary line from the center of the
+ 
+
+19
+00:00:24,619 --> 00:00:27,460
+an imaginary line from the center of the
+space that you occupy to the center of
+
+20
+00:00:27,460 --> 00:00:27,470
+space that you occupy to the center of
+ 
+
+21
+00:00:27,470 --> 00:00:29,740
+space that you occupy to the center of
+the space that your target occupies and
+
+22
+00:00:29,740 --> 00:00:29,750
+the space that your target occupies and
+ 
+
+23
+00:00:29,750 --> 00:00:33,100
+the space that your target occupies and
+ask yourself two simple questions does
+
+24
+00:00:33,100 --> 00:00:33,110
+ask yourself two simple questions does
+ 
+
+25
+00:00:33,110 --> 00:00:35,980
+ask yourself two simple questions does
+this line pass through any objects or
+
+26
+00:00:35,980 --> 00:00:35,990
+this line pass through any objects or
+ 
+
+27
+00:00:35,990 --> 00:00:39,310
+this line pass through any objects or
+terrain if so then the target has cover
+
+28
+00:00:39,310 --> 00:00:39,320
+terrain if so then the target has cover
+ 
+
+29
+00:00:39,320 --> 00:00:41,560
+terrain if so then the target has cover
+from your attack for example if your
+
+30
+00:00:41,560 --> 00:00:41,570
+from your attack for example if your
+ 
+
+31
+00:00:41,570 --> 00:00:44,200
+from your attack for example if your
+enemy is standing behind a low wall or
+
+32
+00:00:44,200 --> 00:00:44,210
+enemy is standing behind a low wall or
+ 
+
+33
+00:00:44,210 --> 00:00:47,490
+enemy is standing behind a low wall or
+over turntable or behind a fallen tree
+
+34
+00:00:47,490 --> 00:00:47,500
+over turntable or behind a fallen tree
+ 
+
+35
+00:00:47,500 --> 00:00:50,860
+over turntable or behind a fallen tree
+then some of their body is not exposed
+
+36
+00:00:50,860 --> 00:00:50,870
+then some of their body is not exposed
+ 
+
+37
+00:00:50,870 --> 00:00:53,020
+then some of their body is not exposed
+and vulnerable to your attack which
+
+38
+00:00:53,020 --> 00:00:53,030
+and vulnerable to your attack which
+ 
+
+39
+00:00:53,030 --> 00:00:55,110
+and vulnerable to your attack which
+makes it harder for you to hit them and
+
+40
+00:00:55,110 --> 00:00:55,120
+makes it harder for you to hit them and
+ 
+
+41
+00:00:55,120 --> 00:00:58,090
+makes it harder for you to hit them and
+the second question is are there any
+
+42
+00:00:58,090 --> 00:00:58,100
+the second question is are there any
+ 
+
+43
+00:00:58,100 --> 00:01:01,120
+the second question is are there any
+creatures between you and your target a
+
+44
+00:01:01,120 --> 00:01:01,130
+creatures between you and your target a
+ 
+
+45
+00:01:01,130 --> 00:01:03,700
+creatures between you and your target a
+creature is different from objects in
+
+46
+00:01:03,700 --> 00:01:03,710
+creature is different from objects in
+ 
+
+47
+00:01:03,710 --> 00:01:05,890
+creature is different from objects in
+terrain and that they are able to move
+
+48
+00:01:05,890 --> 00:01:05,900
+terrain and that they are able to move
+ 
+
+49
+00:01:05,900 --> 00:01:08,460
+terrain and that they are able to move
+around this doesn't have to be a
+
+50
+00:01:08,460 --> 00:01:08,470
+around this doesn't have to be a
+ 
+
+51
+00:01:08,470 --> 00:01:11,649
+around this doesn't have to be a
+traditional or even a living animal to
+
+52
+00:01:11,649 --> 00:01:11,659
+traditional or even a living animal to
+ 
+
+53
+00:01:11,659 --> 00:01:14,590
+traditional or even a living animal to
+qualify as a quote creature it could be
+
+54
+00:01:14,590 --> 00:01:14,600
+qualify as a quote creature it could be
+ 
+
+55
+00:01:14,600 --> 00:01:17,770
+qualify as a quote creature it could be
+an undead skeleton a golem and animated
+
+56
+00:01:17,770 --> 00:01:17,780
+an undead skeleton a golem and animated
+ 
+
+57
+00:01:17,780 --> 00:01:20,289
+an undead skeleton a golem and animated
+table or anything else that you might
+
+58
+00:01:20,289 --> 00:01:20,299
+table or anything else that you might
+ 
+
+59
+00:01:20,299 --> 00:01:21,999
+table or anything else that you might
+find in the Pathfinder bestiary
+
+60
+00:01:21,999 --> 00:01:22,009
+find in the Pathfinder bestiary
+ 
+
+61
+00:01:22,009 --> 00:01:24,190
+find in the Pathfinder bestiary
+but if that line that you're drawing
+
+62
+00:01:24,190 --> 00:01:24,200
+but if that line that you're drawing
+ 
+
+63
+00:01:24,200 --> 00:01:26,080
+but if that line that you're drawing
+from the center of your space to the
+
+64
+00:01:26,080 --> 00:01:26,090
+from the center of your space to the
+ 
+
+65
+00:01:26,090 --> 00:01:28,120
+from the center of your space to the
+center of your target space passes
+
+66
+00:01:28,120 --> 00:01:28,130
+center of your target space passes
+ 
+
+67
+00:01:28,130 --> 00:01:30,039
+center of your target space passes
+through another space that's occupied by
+
+68
+00:01:30,039 --> 00:01:30,049
+through another space that's occupied by
+ 
+
+69
+00:01:30,049 --> 00:01:33,039
+through another space that's occupied by
+a creature then your target is going to
+
+70
+00:01:33,039 --> 00:01:33,049
+a creature then your target is going to
+ 
+
+71
+00:01:33,049 --> 00:01:36,830
+a creature then your target is going to
+have cover on that attack
+
+72
+00:01:36,830 --> 00:01:36,840
+have cover on that attack
+ 
+
+73
+00:01:36,840 --> 00:01:39,920
+have cover on that attack
+once you know there is cover the GM will
+
+74
+00:01:39,920 --> 00:01:39,930
+once you know there is cover the GM will
+ 
+
+75
+00:01:39,930 --> 00:01:42,170
+once you know there is cover the GM will
+need to determine what kind of cover the
+
+76
+00:01:42,170 --> 00:01:42,180
+need to determine what kind of cover the
+ 
+
+77
+00:01:42,180 --> 00:01:44,960
+need to determine what kind of cover the
+target has cover comes in three
+
+78
+00:01:44,960 --> 00:01:44,970
+target has cover comes in three
+ 
+
+79
+00:01:44,970 --> 00:01:47,719
+target has cover comes in three
+varieties standard cover lesser cover
+
+80
+00:01:47,719 --> 00:01:47,729
+varieties standard cover lesser cover
+ 
+
+81
+00:01:47,729 --> 00:01:50,420
+varieties standard cover lesser cover
+and greater cover in most cases when a
+
+82
+00:01:50,420 --> 00:01:50,430
+and greater cover in most cases when a
+ 
+
+83
+00:01:50,430 --> 00:01:52,940
+and greater cover in most cases when a
+target link passes through an object or
+
+84
+00:01:52,940 --> 00:01:52,950
+target link passes through an object or
+ 
+
+85
+00:01:52,950 --> 00:01:55,730
+target link passes through an object or
+terrain the target will have standard
+
+86
+00:01:55,730 --> 00:01:55,740
+terrain the target will have standard
+ 
+
+87
+00:01:55,740 --> 00:01:58,730
+terrain the target will have standard
+cover this provides a +2 circumstance
+
+88
+00:01:58,730 --> 00:01:58,740
+cover this provides a +2 circumstance
+ 
+
+89
+00:01:58,740 --> 00:02:01,399
+cover this provides a +2 circumstance
+bonus to Armour class to reflect saves
+
+90
+00:02:01,399 --> 00:02:01,409
+bonus to Armour class to reflect saves
+ 
+
+91
+00:02:01,409 --> 00:02:04,100
+bonus to Armour class to reflect saves
+against area tax and a stealth checks
+
+92
+00:02:04,100 --> 00:02:04,110
+against area tax and a stealth checks
+ 
+
+93
+00:02:04,110 --> 00:02:07,150
+against area tax and a stealth checks
+made to hide a sneak or avoid detection
+
+94
+00:02:07,150 --> 00:02:07,160
+made to hide a sneak or avoid detection
+ 
+
+95
+00:02:07,160 --> 00:02:10,580
+made to hide a sneak or avoid detection
+one notable exception to this is if the
+
+96
+00:02:10,580 --> 00:02:10,590
+one notable exception to this is if the
+ 
+
+97
+00:02:10,590 --> 00:02:12,740
+one notable exception to this is if the
+target line passes through an object
+
+98
+00:02:12,740 --> 00:02:12,750
+target line passes through an object
+ 
+
+99
+00:02:12,750 --> 00:02:16,039
+target line passes through an object
+that completely blocks all line of
+
+100
+00:02:16,039 --> 00:02:16,049
+that completely blocks all line of
+ 
+
+101
+00:02:16,049 --> 00:02:18,890
+that completely blocks all line of
+effect to the target if the target is in
+
+102
+00:02:18,890 --> 00:02:18,900
+effect to the target if the target is in
+ 
+
+103
+00:02:18,900 --> 00:02:22,100
+effect to the target if the target is in
+the next room with a solid wall between
+
+104
+00:02:22,100 --> 00:02:22,110
+the next room with a solid wall between
+ 
+
+105
+00:02:22,110 --> 00:02:24,830
+the next room with a solid wall between
+you and it then you're not able to
+
+106
+00:02:24,830 --> 00:02:24,840
+you and it then you're not able to
+ 
+
+107
+00:02:24,840 --> 00:02:27,710
+you and it then you're not able to
+attack that target at all if a target
+
+108
+00:02:27,710 --> 00:02:27,720
+attack that target at all if a target
+ 
+
+109
+00:02:27,720 --> 00:02:29,960
+attack that target at all if a target
+with standard cover uses one of their
+
+110
+00:02:29,960 --> 00:02:29,970
+with standard cover uses one of their
+ 
+
+111
+00:02:29,970 --> 00:02:32,720
+with standard cover uses one of their
+actions to perform the take cover action
+
+112
+00:02:32,720 --> 00:02:32,730
+actions to perform the take cover action
+ 
+
+113
+00:02:32,730 --> 00:02:34,699
+actions to perform the take cover action
+then they receive the benefits of
+
+114
+00:02:34,699 --> 00:02:34,709
+then they receive the benefits of
+ 
+
+115
+00:02:34,709 --> 00:02:37,070
+then they receive the benefits of
+greater cover which doubles their
+
+116
+00:02:37,070 --> 00:02:37,080
+greater cover which doubles their
+ 
+
+117
+00:02:37,080 --> 00:02:39,800
+greater cover which doubles their
+protection and grants a +4 circumstance
+
+118
+00:02:39,800 --> 00:02:39,810
+protection and grants a +4 circumstance
+ 
+
+119
+00:02:39,810 --> 00:02:42,530
+protection and grants a +4 circumstance
+bonus to armor class reflex saves
+
+120
+00:02:42,530 --> 00:02:42,540
+bonus to armor class reflex saves
+ 
+
+121
+00:02:42,540 --> 00:02:44,569
+bonus to armor class reflex saves
+against area attacks and stealth checks
+
+122
+00:02:44,569 --> 00:02:44,579
+against area attacks and stealth checks
+ 
+
+123
+00:02:44,579 --> 00:02:47,569
+against area attacks and stealth checks
+made to hide greater cover might also be
+
+124
+00:02:47,569 --> 00:02:47,579
+made to hide greater cover might also be
+ 
+
+125
+00:02:47,579 --> 00:02:49,819
+made to hide greater cover might also be
+awarded whenever the GM feels that it
+
+126
+00:02:49,819 --> 00:02:49,829
+awarded whenever the GM feels that it
+ 
+
+127
+00:02:49,829 --> 00:02:52,130
+awarded whenever the GM feels that it
+would be significantly difficult to hit
+
+128
+00:02:52,130 --> 00:02:52,140
+would be significantly difficult to hit
+ 
+
+129
+00:02:52,140 --> 00:02:54,199
+would be significantly difficult to hit
+a target even when they are not using
+
+130
+00:02:54,199 --> 00:02:54,209
+a target even when they are not using
+ 
+
+131
+00:02:54,209 --> 00:02:57,590
+a target even when they are not using
+the take cover action this is a judgment
+
+132
+00:02:57,590 --> 00:02:57,600
+the take cover action this is a judgment
+ 
+
+133
+00:02:57,600 --> 00:02:59,720
+the take cover action this is a judgment
+call but one example might be when the
+
+134
+00:02:59,720 --> 00:02:59,730
+call but one example might be when the
+ 
+
+135
+00:02:59,730 --> 00:03:02,420
+call but one example might be when the
+enemy is standing behind a wall with a
+
+136
+00:03:02,420 --> 00:03:02,430
+enemy is standing behind a wall with a
+ 
+
+137
+00:03:02,430 --> 00:03:05,330
+enemy is standing behind a wall with a
+narrow slit in it when the target only
+
+138
+00:03:05,330 --> 00:03:05,340
+narrow slit in it when the target only
+ 
+
+139
+00:03:05,340 --> 00:03:07,910
+narrow slit in it when the target only
+passes through a creature instead of an
+
+140
+00:03:07,910 --> 00:03:07,920
+passes through a creature instead of an
+ 
+
+141
+00:03:07,920 --> 00:03:10,940
+passes through a creature instead of an
+object the target most likely has lesser
+
+142
+00:03:10,940 --> 00:03:10,950
+object the target most likely has lesser
+ 
+
+143
+00:03:10,950 --> 00:03:14,330
+object the target most likely has lesser
+cover lizard cover only provides a plus
+
+144
+00:03:14,330 --> 00:03:14,340
+cover lizard cover only provides a plus
+ 
+
+145
+00:03:14,340 --> 00:03:16,340
+cover lizard cover only provides a plus
+one circumstance bonus to armor class
+
+146
+00:03:16,340 --> 00:03:16,350
+one circumstance bonus to armor class
+ 
+
+147
+00:03:16,350 --> 00:03:19,240
+one circumstance bonus to armor class
+and no bonus and all to reflux safes
+
+148
+00:03:19,240 --> 00:03:19,250
+and no bonus and all to reflux safes
+ 
+
+149
+00:03:19,250 --> 00:03:22,039
+and no bonus and all to reflux safes
+also lesser cover may not be used to
+
+150
+00:03:22,039 --> 00:03:22,049
+also lesser cover may not be used to
+ 
+
+151
+00:03:22,049 --> 00:03:24,050
+also lesser cover may not be used to
+make stealth checks to hide or sneak and
+
+152
+00:03:24,050 --> 00:03:24,060
+make stealth checks to hide or sneak and
+ 
+
+153
+00:03:24,060 --> 00:03:27,259
+make stealth checks to hide or sneak and
+provides no bonus to cells checks also
+
+154
+00:03:27,259 --> 00:03:27,269
+provides no bonus to cells checks also
+ 
+
+155
+00:03:27,269 --> 00:03:30,170
+provides no bonus to cells checks also
+just like with greater cover the GM is
+
+156
+00:03:30,170 --> 00:03:30,180
+just like with greater cover the GM is
+ 
+
+157
+00:03:30,180 --> 00:03:32,150
+just like with greater cover the GM is
+empowered to make judgment calls and
+
+158
+00:03:32,150 --> 00:03:32,160
+empowered to make judgment calls and
+ 
+
+159
+00:03:32,160 --> 00:03:34,430
+empowered to make judgment calls and
+allow lesser cover to be provided by
+
+160
+00:03:34,430 --> 00:03:34,440
+allow lesser cover to be provided by
+ 
+
+161
+00:03:34,440 --> 00:03:38,210
+allow lesser cover to be provided by
+objects instead of just by creatures for
+
+162
+00:03:38,210 --> 00:03:38,220
+objects instead of just by creatures for
+ 
+
+163
+00:03:38,220 --> 00:03:40,430
+objects instead of just by creatures for
+example a small pile of rubble and a
+
+164
+00:03:40,430 --> 00:03:40,440
+example a small pile of rubble and a
+ 
+
+165
+00:03:40,440 --> 00:03:43,670
+example a small pile of rubble and a
+cave the GM may decide is tall enough to
+
+166
+00:03:43,670 --> 00:03:43,680
+cave the GM may decide is tall enough to
+ 
+
+167
+00:03:43,680 --> 00:03:46,250
+cave the GM may decide is tall enough to
+give a little protection but is too
+
+168
+00:03:46,250 --> 00:03:46,260
+give a little protection but is too
+ 
+
+169
+00:03:46,260 --> 00:03:48,320
+give a little protection but is too
+small to hide or to take cover behind
+
+170
+00:03:48,320 --> 00:03:48,330
+small to hide or to take cover behind
+ 
+
+171
+00:03:48,330 --> 00:03:50,390
+small to hide or to take cover behind
+and therefore
+
+172
+00:03:50,390 --> 00:03:50,400
+and therefore
+ 
+
+173
+00:03:50,400 --> 00:03:53,420
+and therefore
+only provides a lesser cover instead of
+
+174
+00:03:53,420 --> 00:03:53,430
+only provides a lesser cover instead of
+ 
+
+175
+00:03:53,430 --> 00:03:56,420
+only provides a lesser cover instead of
+standard cover also note that if the
+
+176
+00:03:56,420 --> 00:03:56,430
+standard cover also note that if the
+ 
+
+177
+00:03:56,430 --> 00:03:59,089
+standard cover also note that if the
+creature that is granting cover is at
+
+178
+00:03:59,089 --> 00:03:59,099
+creature that is granting cover is at
+ 
+
+179
+00:03:59,099 --> 00:04:02,270
+creature that is granting cover is at
+least two size categories larger than
+
+180
+00:04:02,270 --> 00:04:02,280
+least two size categories larger than
+ 
+
+181
+00:04:02,280 --> 00:04:06,140
+least two size categories larger than
+both the attacker and their target then
+
+182
+00:04:06,140 --> 00:04:06,150
+both the attacker and their target then
+ 
+
+183
+00:04:06,150 --> 00:04:07,970
+both the attacker and their target then
+the target receives the benefits of
+
+184
+00:04:07,970 --> 00:04:07,980
+the target receives the benefits of
+ 
+
+185
+00:04:07,980 --> 00:04:10,729
+the target receives the benefits of
+standard cover instead of lesser cover
+
+186
+00:04:10,729 --> 00:04:10,739
+standard cover instead of lesser cover
+ 
+
+187
+00:04:10,739 --> 00:04:13,039
+standard cover instead of lesser cover
+which is usually what is awarded when
+
+188
+00:04:13,039 --> 00:04:13,049
+which is usually what is awarded when
+ 
+
+189
+00:04:13,049 --> 00:04:14,390
+which is usually what is awarded when
+the target line passes through a
+
+190
+00:04:14,390 --> 00:04:14,400
+the target line passes through a
+ 
+
+191
+00:04:14,400 --> 00:04:17,689
+the target line passes through a
+creature likewise if the target is
+
+192
+00:04:17,689 --> 00:04:17,699
+creature likewise if the target is
+ 
+
+193
+00:04:17,699 --> 00:04:20,090
+creature likewise if the target is
+significantly larger than the object
+
+194
+00:04:20,090 --> 00:04:20,100
+significantly larger than the object
+ 
+
+195
+00:04:20,100 --> 00:04:21,620
+significantly larger than the object
+that is granting it cover
+
+196
+00:04:21,620 --> 00:04:21,630
+that is granting it cover
+ 
+
+197
+00:04:21,630 --> 00:04:23,960
+that is granting it cover
+then the GM may rule that they receive
+
+198
+00:04:23,960 --> 00:04:23,970
+then the GM may rule that they receive
+ 
+
+199
+00:04:23,970 --> 00:04:26,629
+then the GM may rule that they receive
+no cover benefits from that object for
+
+200
+00:04:26,629 --> 00:04:26,639
+no cover benefits from that object for
+ 
+
+201
+00:04:26,639 --> 00:04:29,540
+no cover benefits from that object for
+example if a huge sized dragon is
+
+202
+00:04:29,540 --> 00:04:29,550
+example if a huge sized dragon is
+ 
+
+203
+00:04:29,550 --> 00:04:32,300
+example if a huge sized dragon is
+standing behind a single tree the target
+
+204
+00:04:32,300 --> 00:04:32,310
+standing behind a single tree the target
+ 
+
+205
+00:04:32,310 --> 00:04:34,610
+standing behind a single tree the target
+line might pass through that single tree
+
+206
+00:04:34,610 --> 00:04:34,620
+line might pass through that single tree
+ 
+
+207
+00:04:34,620 --> 00:04:36,800
+line might pass through that single tree
+on the map but the GM may determine that
+
+208
+00:04:36,800 --> 00:04:36,810
+on the map but the GM may determine that
+ 
+
+209
+00:04:36,810 --> 00:04:39,110
+on the map but the GM may determine that
+that is just not enough to provide
+
+210
+00:04:39,110 --> 00:04:39,120
+that is just not enough to provide
+ 
+
+211
+00:04:39,120 --> 00:04:41,180
+that is just not enough to provide
+significant cover to the dragon and
+
+212
+00:04:41,180 --> 00:04:41,190
+significant cover to the dragon and
+ 
+
+213
+00:04:41,190 --> 00:04:43,879
+significant cover to the dragon and
+therefore either provide less recover or
+
+214
+00:04:43,879 --> 00:04:43,889
+therefore either provide less recover or
+ 
+
+215
+00:04:43,889 --> 00:04:46,879
+therefore either provide less recover or
+no cover at all
+
+216
+00:04:46,879 --> 00:04:46,889
+no cover at all
+ 
+
+217
+00:04:46,889 --> 00:04:49,429
+no cover at all
+with all of that in mind let's look at a
+
+218
+00:04:49,429 --> 00:04:49,439
+with all of that in mind let's look at a
+ 
+
+219
+00:04:49,439 --> 00:04:52,040
+with all of that in mind let's look at a
+few examples first we have valorous
+
+220
+00:04:52,040 --> 00:04:52,050
+few examples first we have valorous
+ 
+
+221
+00:04:52,050 --> 00:04:54,589
+few examples first we have valorous
+fighting and over he is adjacent with
+
+222
+00:04:54,589 --> 00:04:54,599
+fighting and over he is adjacent with
+ 
+
+223
+00:04:54,599 --> 00:04:56,899
+fighting and over he is adjacent with
+nothing between him and the ogre so
+
+224
+00:04:56,899 --> 00:04:56,909
+nothing between him and the ogre so
+ 
+
+225
+00:04:56,909 --> 00:04:59,570
+nothing between him and the ogre so
+there is no cover in this situation this
+
+226
+00:04:59,570 --> 00:04:59,580
+there is no cover in this situation this
+ 
+
+227
+00:04:59,580 --> 00:05:03,110
+there is no cover in this situation this
+is a pretty simple example for the
+
+228
+00:05:03,110 --> 00:05:03,120
+is a pretty simple example for the
+ 
+
+229
+00:05:03,120 --> 00:05:05,990
+is a pretty simple example for the
+second example let's consider Sione if
+
+230
+00:05:05,990 --> 00:05:06,000
+second example let's consider Sione if
+ 
+
+231
+00:05:06,000 --> 00:05:07,879
+second example let's consider Sione if
+we draw a line from the center of her
+
+232
+00:05:07,879 --> 00:05:07,889
+we draw a line from the center of her
+ 
+
+233
+00:05:07,889 --> 00:05:10,879
+we draw a line from the center of her
+space to the center of the ogre space we
+
+234
+00:05:10,879 --> 00:05:10,889
+space to the center of the ogre space we
+ 
+
+235
+00:05:10,889 --> 00:05:12,890
+space to the center of the ogre space we
+see it does not pass through any objects
+
+236
+00:05:12,890 --> 00:05:12,900
+see it does not pass through any objects
+ 
+
+237
+00:05:12,900 --> 00:05:15,020
+see it does not pass through any objects
+but it does pass through a creature
+
+238
+00:05:15,020 --> 00:05:15,030
+but it does pass through a creature
+ 
+
+239
+00:05:15,030 --> 00:05:18,110
+but it does pass through a creature
+which is valorous and therefore the ogre
+
+240
+00:05:18,110 --> 00:05:18,120
+which is valorous and therefore the ogre
+ 
+
+241
+00:05:18,120 --> 00:05:20,269
+which is valorous and therefore the ogre
+does receive the benefits of lesser
+
+242
+00:05:20,269 --> 00:05:20,279
+does receive the benefits of lesser
+ 
+
+243
+00:05:20,279 --> 00:05:23,269
+does receive the benefits of lesser
+cover it doesn't matter that valorous is
+
+244
+00:05:23,269 --> 00:05:23,279
+cover it doesn't matter that valorous is
+ 
+
+245
+00:05:23,279 --> 00:05:26,570
+cover it doesn't matter that valorous is
+Sione our allies his presence still
+
+246
+00:05:26,570 --> 00:05:26,580
+Sione our allies his presence still
+ 
+
+247
+00:05:26,580 --> 00:05:30,140
+Sione our allies his presence still
+grants the ogre cover in the third
+
+248
+00:05:30,140 --> 00:05:30,150
+grants the ogre cover in the third
+ 
+
+249
+00:05:30,150 --> 00:05:32,510
+grants the ogre cover in the third
+example mauricio wishes to attack the
+
+250
+00:05:32,510 --> 00:05:32,520
+example mauricio wishes to attack the
+ 
+
+251
+00:05:32,520 --> 00:05:35,240
+example mauricio wishes to attack the
+ogre from around the corner if we draw a
+
+252
+00:05:35,240 --> 00:05:35,250
+ogre from around the corner if we draw a
+ 
+
+253
+00:05:35,250 --> 00:05:37,700
+ogre from around the corner if we draw a
+line from the center of her space to the
+
+254
+00:05:37,700 --> 00:05:37,710
+line from the center of her space to the
+ 
+
+255
+00:05:37,710 --> 00:05:40,369
+line from the center of her space to the
+center of the ogre space we see it does
+
+256
+00:05:40,369 --> 00:05:40,379
+center of the ogre space we see it does
+ 
+
+257
+00:05:40,379 --> 00:05:42,619
+center of the ogre space we see it does
+pass through the edge of the building
+
+258
+00:05:42,619 --> 00:05:42,629
+pass through the edge of the building
+ 
+
+259
+00:05:42,629 --> 00:05:45,679
+pass through the edge of the building
+and would grant the ogre the benefits of
+
+260
+00:05:45,679 --> 00:05:45,689
+and would grant the ogre the benefits of
+ 
+
+261
+00:05:45,689 --> 00:05:49,189
+and would grant the ogre the benefits of
+standard cover that's the rule by raw
+
+262
+00:05:49,189 --> 00:05:49,199
+standard cover that's the rule by raw
+ 
+
+263
+00:05:49,199 --> 00:05:52,189
+standard cover that's the rule by raw
+but the Rubik also uses this as an
+
+264
+00:05:52,189 --> 00:05:52,199
+but the Rubik also uses this as an
+ 
+
+265
+00:05:52,199 --> 00:05:54,920
+but the Rubik also uses this as an
+example of the fluid nature of the rules
+
+266
+00:05:54,920 --> 00:05:54,930
+example of the fluid nature of the rules
+ 
+
+267
+00:05:54,930 --> 00:05:57,350
+example of the fluid nature of the rules
+and the fact that GM's are encouraged to
+
+268
+00:05:57,350 --> 00:05:57,360
+and the fact that GM's are encouraged to
+ 
+
+269
+00:05:57,360 --> 00:05:59,360
+and the fact that GM's are encouraged to
+adjust things as they see fit
+
+270
+00:05:59,360 --> 00:05:59,370
+adjust things as they see fit
+ 
+
+271
+00:05:59,370 --> 00:06:02,390
+adjust things as they see fit
+for example allowing mauricio to spin an
+
+272
+00:06:02,390 --> 00:06:02,400
+for example allowing mauricio to spin an
+ 
+
+273
+00:06:02,400 --> 00:06:06,320
+for example allowing mauricio to spin an
+action before her attack to lean out or
+
+274
+00:06:06,320 --> 00:06:06,330
+action before her attack to lean out or
+ 
+
+275
+00:06:06,330 --> 00:06:09,439
+action before her attack to lean out or
+step away from cover to negate the ogres
+
+276
+00:06:09,439 --> 00:06:09,449
+step away from cover to negate the ogres
+ 
+
+277
+00:06:09,449 --> 00:06:12,469
+step away from cover to negate the ogres
+cover bonus if she started her turn in
+
+278
+00:06:12,469 --> 00:06:12,479
+cover bonus if she started her turn in
+ 
+
+279
+00:06:12,479 --> 00:06:15,200
+cover bonus if she started her turn in
+this square she could spend her first
+
+280
+00:06:15,200 --> 00:06:15,210
+this square she could spend her first
+ 
+
+281
+00:06:15,210 --> 00:06:17,899
+this square she could spend her first
+action to lean out from the corner her
+
+282
+00:06:17,899 --> 00:06:17,909
+action to lean out from the corner her
+ 
+
+283
+00:06:17,909 --> 00:06:20,450
+action to lean out from the corner her
+second action to strike with her appear
+
+284
+00:06:20,450 --> 00:06:20,460
+second action to strike with her appear
+ 
+
+285
+00:06:20,460 --> 00:06:22,969
+second action to strike with her appear
+and then her third action to use the
+
+286
+00:06:22,969 --> 00:06:22,979
+and then her third action to use the
+ 
+
+287
+00:06:22,979 --> 00:06:25,339
+and then her third action to use the
+take cover action to lean back away and
+
+288
+00:06:25,339 --> 00:06:25,349
+take cover action to lean back away and
+ 
+
+289
+00:06:25,349 --> 00:06:28,129
+take cover action to lean back away and
+press her back flat against the wall and
+
+290
+00:06:28,129 --> 00:06:28,139
+press her back flat against the wall and
+ 
+
+291
+00:06:28,139 --> 00:06:31,179
+press her back flat against the wall and
+receive greater cover for herself in
+
+292
+00:06:31,179 --> 00:06:31,189
+receive greater cover for herself in
+ 
+
+293
+00:06:31,189 --> 00:06:34,429
+receive greater cover for herself in
+tactical terms when making an adjustment
+
+294
+00:06:34,429 --> 00:06:34,439
+tactical terms when making an adjustment
+ 
+
+295
+00:06:34,439 --> 00:06:37,010
+tactical terms when making an adjustment
+like this you spend one of your actions
+
+296
+00:06:37,010 --> 00:06:37,020
+like this you spend one of your actions
+ 
+
+297
+00:06:37,020 --> 00:06:41,360
+like this you spend one of your actions
+and then draw your line from any corner
+
+298
+00:06:41,360 --> 00:06:41,370
+and then draw your line from any corner
+ 
+
+299
+00:06:41,370 --> 00:06:44,179
+and then draw your line from any corner
+of your space to the center of your
+
+300
+00:06:44,179 --> 00:06:44,189
+of your space to the center of your
+ 
+
+301
+00:06:44,189 --> 00:06:47,899
+of your space to the center of your
+target space instead of drawing it from
+
+302
+00:06:47,899 --> 00:06:47,909
+target space instead of drawing it from
+ 
+
+303
+00:06:47,909 --> 00:06:49,999
+target space instead of drawing it from
+the center of your space to the center
+
+304
+00:06:49,999 --> 00:06:50,009
+the center of your space to the center
+ 
+
+305
+00:06:50,009 --> 00:06:54,129
+the center of your space to the center
+of their space and in our fourth example
+
+306
+00:06:54,129 --> 00:06:54,139
+of their space and in our fourth example
+ 
+
+307
+00:06:54,139 --> 00:06:57,589
+of their space and in our fourth example
+Kyra wishes to make a ranged attack we
+
+308
+00:06:57,589 --> 00:06:57,599
+Kyra wishes to make a ranged attack we
+ 
+
+309
+00:06:57,599 --> 00:07:00,380
+Kyra wishes to make a ranged attack we
+draw our line and see it clearly passes
+
+310
+00:07:00,380 --> 00:07:00,390
+draw our line and see it clearly passes
+ 
+
+311
+00:07:00,390 --> 00:07:02,660
+draw our line and see it clearly passes
+through this building next we should
+
+312
+00:07:02,660 --> 00:07:02,670
+through this building next we should
+ 
+
+313
+00:07:02,670 --> 00:07:05,630
+through this building next we should
+think about line of effect that's an
+
+314
+00:07:05,630 --> 00:07:05,640
+think about line of effect that's an
+ 
+
+315
+00:07:05,640 --> 00:07:07,640
+think about line of effect that's an
+awful lot of building between her and
+
+316
+00:07:07,640 --> 00:07:07,650
+awful lot of building between her and
+ 
+
+317
+00:07:07,650 --> 00:07:10,820
+awful lot of building between her and
+the ogre so would it even be possible
+
+318
+00:07:10,820 --> 00:07:10,830
+the ogre so would it even be possible
+ 
+
+319
+00:07:10,830 --> 00:07:13,760
+the ogre so would it even be possible
+for her to hit that target for this
+
+320
+00:07:13,760 --> 00:07:13,770
+for her to hit that target for this
+ 
+
+321
+00:07:13,770 --> 00:07:16,370
+for her to hit that target for this
+example we'll say that the GM determined
+
+322
+00:07:16,370 --> 00:07:16,380
+example we'll say that the GM determined
+ 
+
+323
+00:07:16,380 --> 00:07:20,090
+example we'll say that the GM determined
+that even at this angle Kyra can see the
+
+324
+00:07:20,090 --> 00:07:20,100
+that even at this angle Kyra can see the
+ 
+
+325
+00:07:20,100 --> 00:07:24,340
+that even at this angle Kyra can see the
+ogre and there is narrow line of effect
+
+326
+00:07:24,340 --> 00:07:24,350
+ogre and there is narrow line of effect
+ 
+
+327
+00:07:24,350 --> 00:07:26,930
+ogre and there is narrow line of effect
+usually when the target line passes
+
+328
+00:07:26,930 --> 00:07:26,940
+usually when the target line passes
+ 
+
+329
+00:07:26,940 --> 00:07:29,210
+usually when the target line passes
+through an object the target receives
+
+330
+00:07:29,210 --> 00:07:29,220
+through an object the target receives
+ 
+
+331
+00:07:29,220 --> 00:07:31,760
+through an object the target receives
+the benefits of standard cover but in
+
+332
+00:07:31,760 --> 00:07:31,770
+the benefits of standard cover but in
+ 
+
+333
+00:07:31,770 --> 00:07:34,460
+the benefits of standard cover but in
+this case the GM would likely determine
+
+334
+00:07:34,460 --> 00:07:34,470
+this case the GM would likely determine
+ 
+
+335
+00:07:34,470 --> 00:07:37,940
+this case the GM would likely determine
+this as the vast majority of the ogre is
+
+336
+00:07:37,940 --> 00:07:37,950
+this as the vast majority of the ogre is
+ 
+
+337
+00:07:37,950 --> 00:07:39,740
+this as the vast majority of the ogre is
+obscured behind the side of the building
+
+338
+00:07:39,740 --> 00:07:39,750
+obscured behind the side of the building
+ 
+
+339
+00:07:39,750 --> 00:07:42,290
+obscured behind the side of the building
+she's going to impose greater cover
+
+340
+00:07:42,290 --> 00:07:42,300
+she's going to impose greater cover
+ 
+
+341
+00:07:42,300 --> 00:07:46,250
+she's going to impose greater cover
+against Cara's attack now for the sake
+
+342
+00:07:46,250 --> 00:07:46,260
+against Cara's attack now for the sake
+ 
+
+343
+00:07:46,260 --> 00:07:49,480
+against Cara's attack now for the sake
+of discussion let's move Kyra to here if
+
+344
+00:07:49,480 --> 00:07:49,490
+of discussion let's move Kyra to here if
+ 
+
+345
+00:07:49,490 --> 00:07:53,570
+of discussion let's move Kyra to here if
+we drove her line again we see the ogre
+
+346
+00:07:53,570 --> 00:07:53,580
+we drove her line again we see the ogre
+ 
+
+347
+00:07:53,580 --> 00:07:56,600
+we drove her line again we see the ogre
+still has cover from her attack but
+
+348
+00:07:56,600 --> 00:07:56,610
+still has cover from her attack but
+ 
+
+349
+00:07:56,610 --> 00:07:59,870
+still has cover from her attack but
+sometimes players ask why is she aiming
+
+350
+00:07:59,870 --> 00:07:59,880
+sometimes players ask why is she aiming
+ 
+
+351
+00:07:59,880 --> 00:08:02,510
+sometimes players ask why is she aiming
+down the middle this is a giant
+
+352
+00:08:02,510 --> 00:08:02,520
+down the middle this is a giant
+ 
+
+353
+00:08:02,520 --> 00:08:05,510
+down the middle this is a giant
+Foursquare monster so why not instead
+
+354
+00:08:05,510 --> 00:08:05,520
+Foursquare monster so why not instead
+ 
+
+355
+00:08:05,520 --> 00:08:09,350
+Foursquare monster so why not instead
+just attack it in this square and that
+
+356
+00:08:09,350 --> 00:08:09,360
+just attack it in this square and that
+ 
+
+357
+00:08:09,360 --> 00:08:10,730
+just attack it in this square and that
+makes perfect sense
+
+358
+00:08:10,730 --> 00:08:10,740
+makes perfect sense
+ 
+
+359
+00:08:10,740 --> 00:08:13,640
+makes perfect sense
+but remember when calculating armor
+
+360
+00:08:13,640 --> 00:08:13,650
+but remember when calculating armor
+ 
+
+361
+00:08:13,650 --> 00:08:15,920
+but remember when calculating armor
+class you need to take into account the
+
+362
+00:08:15,920 --> 00:08:15,930
+class you need to take into account the
+ 
+
+363
+00:08:15,930 --> 00:08:18,200
+class you need to take into account the
+size of the creature the bigger the
+
+364
+00:08:18,200 --> 00:08:18,210
+size of the creature the bigger the
+ 
+
+365
+00:08:18,210 --> 00:08:20,780
+size of the creature the bigger the
+creature the lower their armor class is
+
+366
+00:08:20,780 --> 00:08:20,790
+creature the lower their armor class is
+ 
+
+367
+00:08:20,790 --> 00:08:24,290
+creature the lower their armor class is
+going to be so if objects in your way
+
+368
+00:08:24,290 --> 00:08:24,300
+going to be so if objects in your way
+ 
+
+369
+00:08:24,300 --> 00:08:27,020
+going to be so if objects in your way
+make it difficult to hit all of that
+
+370
+00:08:27,020 --> 00:08:27,030
+make it difficult to hit all of that
+ 
+
+371
+00:08:27,030 --> 00:08:29,540
+make it difficult to hit all of that
+creature then there should be a penalty
+
+372
+00:08:29,540 --> 00:08:29,550
+creature then there should be a penalty
+ 
+
+373
+00:08:29,550 --> 00:08:32,240
+creature then there should be a penalty
+applied when you are only able to target
+
+374
+00:08:32,240 --> 00:08:32,250
+applied when you are only able to target
+ 
+
+375
+00:08:32,250 --> 00:08:34,610
+applied when you are only able to target
+1/4 of that creature as in this example
+
+376
+00:08:34,610 --> 00:08:34,620
+1/4 of that creature as in this example
+ 
+
+377
+00:08:34,620 --> 00:08:38,150
+1/4 of that creature as in this example
+and last let's talk about what happens
+
+378
+00:08:38,150 --> 00:08:38,160
+and last let's talk about what happens
+ 
+
+379
+00:08:38,160 --> 00:08:40,460
+and last let's talk about what happens
+when there are multiple sources of cover
+
+380
+00:08:40,460 --> 00:08:40,470
+when there are multiple sources of cover
+ 
+
+381
+00:08:40,470 --> 00:08:43,390
+when there are multiple sources of cover
+such as this example
+
+382
+00:08:43,390 --> 00:08:43,400
+such as this example
+ 
+
+383
+00:08:43,400 --> 00:08:44,830
+such as this example
+if the target only passes through
+
+384
+00:08:44,830 --> 00:08:44,840
+if the target only passes through
+ 
+
+385
+00:08:44,840 --> 00:08:47,500
+if the target only passes through
+valorous this grants the lesser cover in
+
+386
+00:08:47,500 --> 00:08:47,510
+valorous this grants the lesser cover in
+ 
+
+387
+00:08:47,510 --> 00:08:50,170
+valorous this grants the lesser cover in
+a plus one circumstance bonus to the
+
+388
+00:08:50,170 --> 00:08:50,180
+a plus one circumstance bonus to the
+ 
+
+389
+00:08:50,180 --> 00:08:52,420
+a plus one circumstance bonus to the
+targets armor class and if it passes
+
+390
+00:08:52,420 --> 00:08:52,430
+targets armor class and if it passes
+ 
+
+391
+00:08:52,430 --> 00:08:54,640
+targets armor class and if it passes
+through an obstacle like the edge of
+
+392
+00:08:54,640 --> 00:08:54,650
+through an obstacle like the edge of
+ 
+
+393
+00:08:54,650 --> 00:08:56,950
+through an obstacle like the edge of
+this building is going to give standard
+
+394
+00:08:56,950 --> 00:08:56,960
+this building is going to give standard
+ 
+
+395
+00:08:56,960 --> 00:08:59,380
+this building is going to give standard
+cover in a plus two circumstance bonus
+
+396
+00:08:59,380 --> 00:08:59,390
+cover in a plus two circumstance bonus
+ 
+
+397
+00:08:59,390 --> 00:09:01,870
+cover in a plus two circumstance bonus
+to Armour class so does this mean that
+
+398
+00:09:01,870 --> 00:09:01,880
+to Armour class so does this mean that
+ 
+
+399
+00:09:01,880 --> 00:09:04,540
+to Armour class so does this mean that
+the ogre gets to add both of these
+
+400
+00:09:04,540 --> 00:09:04,550
+the ogre gets to add both of these
+ 
+
+401
+00:09:04,550 --> 00:09:06,910
+the ogre gets to add both of these
+sources of cover together for a total
+
+402
+00:09:06,910 --> 00:09:06,920
+sources of cover together for a total
+ 
+
+403
+00:09:06,920 --> 00:09:10,180
+sources of cover together for a total
+plus three bonus to their armor class no
+
+404
+00:09:10,180 --> 00:09:10,190
+plus three bonus to their armor class no
+ 
+
+405
+00:09:10,190 --> 00:09:13,510
+plus three bonus to their armor class no
+because these are both circumstance
+
+406
+00:09:13,510 --> 00:09:13,520
+because these are both circumstance
+ 
+
+407
+00:09:13,520 --> 00:09:17,380
+because these are both circumstance
+bonuses and bonuses of the same type do
+
+408
+00:09:17,380 --> 00:09:17,390
+bonuses and bonuses of the same type do
+ 
+
+409
+00:09:17,390 --> 00:09:20,860
+bonuses and bonuses of the same type do
+not stack or add together instead the
+
+410
+00:09:20,860 --> 00:09:20,870
+not stack or add together instead the
+ 
+
+411
+00:09:20,870 --> 00:09:22,780
+not stack or add together instead the
+ogre would receive the benefit of the
+
+412
+00:09:22,780 --> 00:09:22,790
+ogre would receive the benefit of the
+ 
+
+413
+00:09:22,790 --> 00:09:25,210
+ogre would receive the benefit of the
+greater of the two bonuses which would
+
+414
+00:09:25,210 --> 00:09:25,220
+greater of the two bonuses which would
+ 
+
+415
+00:09:25,220 --> 00:09:28,150
+greater of the two bonuses which would
+be standard cover in a plus two bonus to
+
+416
+00:09:28,150 --> 00:09:28,160
+be standard cover in a plus two bonus to
+ 
+
+417
+00:09:28,160 --> 00:09:31,690
+be standard cover in a plus two bonus to
+their armor class that said the GM is
+
+418
+00:09:31,690 --> 00:09:31,700
+their armor class that said the GM is
+ 
+
+419
+00:09:31,700 --> 00:09:34,360
+their armor class that said the GM is
+always free to rule differently for
+
+420
+00:09:34,360 --> 00:09:34,370
+always free to rule differently for
+ 
+
+421
+00:09:34,370 --> 00:09:37,090
+always free to rule differently for
+example if there is a crowd
+
+422
+00:09:37,090 --> 00:09:37,100
+example if there is a crowd
+ 
+
+423
+00:09:37,100 --> 00:09:39,010
+example if there is a crowd
+between the attacker and their target
+
+424
+00:09:39,010 --> 00:09:39,020
+between the attacker and their target
+ 
+
+425
+00:09:39,020 --> 00:09:41,230
+between the attacker and their target
+she might rule that the target receives
+
+426
+00:09:41,230 --> 00:09:41,240
+she might rule that the target receives
+ 
+
+427
+00:09:41,240 --> 00:09:43,450
+she might rule that the target receives
+the benefits of standard or even greater
+
+428
+00:09:43,450 --> 00:09:43,460
+the benefits of standard or even greater
+ 
+
+429
+00:09:43,460 --> 00:09:46,060
+the benefits of standard or even greater
+cover instead of lesser cover that is
+
+430
+00:09:46,060 --> 00:09:46,070
+cover instead of lesser cover that is
+ 
+
+431
+00:09:46,070 --> 00:09:47,980
+cover instead of lesser cover that is
+usually imposed when there is a creature
+
+432
+00:09:47,980 --> 00:09:47,990
+usually imposed when there is a creature
+ 
+
+433
+00:09:47,990 --> 00:09:50,840
+usually imposed when there is a creature
+blocking your shot
+
+434
+00:09:50,840 --> 00:09:50,850
+blocking your shot
+ 
+
+435
+00:09:50,850 --> 00:09:53,840
+blocking your shot
+in this video we examined the rules for
+
+436
+00:09:53,840 --> 00:09:53,850
+in this video we examined the rules for
+ 
+
+437
+00:09:53,850 --> 00:09:57,559
+in this video we examined the rules for
+cover when a target is behind any object
+
+438
+00:09:57,559 --> 00:09:57,569
+cover when a target is behind any object
+ 
+
+439
+00:09:57,569 --> 00:09:59,659
+cover when a target is behind any object
+that might hinder your ability to attack
+
+440
+00:09:59,659 --> 00:09:59,669
+that might hinder your ability to attack
+ 
+
+441
+00:09:59,669 --> 00:10:02,259
+that might hinder your ability to attack
+them they have cover from you
+
+442
+00:10:02,259 --> 00:10:02,269
+them they have cover from you
+ 
+
+443
+00:10:02,269 --> 00:10:05,749
+them they have cover from you
+to determine if cover exists there must
+
+444
+00:10:05,749 --> 00:10:05,759
+to determine if cover exists there must
+ 
+
+445
+00:10:05,759 --> 00:10:07,579
+to determine if cover exists there must
+be line of effect from you to your
+
+446
+00:10:07,579 --> 00:10:07,589
+be line of effect from you to your
+ 
+
+447
+00:10:07,589 --> 00:10:10,609
+be line of effect from you to your
+target and if you draw a line from the
+
+448
+00:10:10,609 --> 00:10:10,619
+target and if you draw a line from the
+ 
+
+449
+00:10:10,619 --> 00:10:12,919
+target and if you draw a line from the
+center of your space to the center of
+
+450
+00:10:12,919 --> 00:10:12,929
+center of your space to the center of
+ 
+
+451
+00:10:12,929 --> 00:10:15,769
+center of your space to the center of
+your target space and that line passes
+
+452
+00:10:15,769 --> 00:10:15,779
+your target space and that line passes
+ 
+
+453
+00:10:15,779 --> 00:10:18,199
+your target space and that line passes
+through an object or a creature then
+
+454
+00:10:18,199 --> 00:10:18,209
+through an object or a creature then
+ 
+
+455
+00:10:18,209 --> 00:10:21,679
+through an object or a creature then
+they have cover against your attack with
+
+456
+00:10:21,679 --> 00:10:21,689
+they have cover against your attack with
+ 
+
+457
+00:10:21,689 --> 00:10:24,199
+they have cover against your attack with
+the line passes through an obstacle the
+
+458
+00:10:24,199 --> 00:10:24,209
+the line passes through an obstacle the
+ 
+
+459
+00:10:24,209 --> 00:10:27,229
+the line passes through an obstacle the
+target has standard cover this grants
+
+460
+00:10:27,229 --> 00:10:27,239
+target has standard cover this grants
+ 
+
+461
+00:10:27,239 --> 00:10:29,929
+target has standard cover this grants
+them a +2 circumstance bonus to armor
+
+462
+00:10:29,929 --> 00:10:29,939
+them a +2 circumstance bonus to armor
+ 
+
+463
+00:10:29,939 --> 00:10:32,779
+them a +2 circumstance bonus to armor
+class reflex saves against area techs
+
+464
+00:10:32,779 --> 00:10:32,789
+class reflex saves against area techs
+ 
+
+465
+00:10:32,789 --> 00:10:36,529
+class reflex saves against area techs
+and stealth checks to hide if a creature
+
+466
+00:10:36,529 --> 00:10:36,539
+and stealth checks to hide if a creature
+ 
+
+467
+00:10:36,539 --> 00:10:38,960
+and stealth checks to hide if a creature
+with standard cover spins an action to
+
+468
+00:10:38,960 --> 00:10:38,970
+with standard cover spins an action to
+ 
+
+469
+00:10:38,970 --> 00:10:41,989
+with standard cover spins an action to
+take cover they instead receive the
+
+470
+00:10:41,989 --> 00:10:41,999
+take cover they instead receive the
+ 
+
+471
+00:10:41,999 --> 00:10:46,069
+take cover they instead receive the
+benefits of greater cover which is +4 -
+
+472
+00:10:46,069 --> 00:10:46,079
+benefits of greater cover which is +4 -
+ 
+
+473
+00:10:46,079 --> 00:10:48,499
+benefits of greater cover which is +4 -
+armor class reflex saves against area
+
+474
+00:10:48,499 --> 00:10:48,509
+armor class reflex saves against area
+ 
+
+475
+00:10:48,509 --> 00:10:51,369
+armor class reflex saves against area
+techs and stealth checks made to hide if
+
+476
+00:10:51,369 --> 00:10:51,379
+techs and stealth checks made to hide if
+ 
+
+477
+00:10:51,379 --> 00:10:54,829
+techs and stealth checks made to hide if
+cover is provided by a creature instead
+
+478
+00:10:54,829 --> 00:10:54,839
+cover is provided by a creature instead
+ 
+
+479
+00:10:54,839 --> 00:10:57,979
+cover is provided by a creature instead
+of an object or terrain then the target
+
+480
+00:10:57,979 --> 00:10:57,989
+of an object or terrain then the target
+ 
+
+481
+00:10:57,989 --> 00:11:00,049
+of an object or terrain then the target
+only receives the benefits a lesser
+
+482
+00:11:00,049 --> 00:11:00,059
+only receives the benefits a lesser
+ 
+
+483
+00:11:00,059 --> 00:11:03,049
+only receives the benefits a lesser
+cover which only provides a +1
+
+484
+00:11:03,049 --> 00:11:03,059
+cover which only provides a +1
+ 
+
+485
+00:11:03,059 --> 00:11:04,939
+cover which only provides a +1
+circumstance of bonus - armor class and
+
+486
+00:11:04,939 --> 00:11:04,949
+circumstance of bonus - armor class and
+ 
+
+487
+00:11:04,949 --> 00:11:08,090
+circumstance of bonus - armor class and
+no bonus at all - reflex saves or
+
+488
+00:11:08,090 --> 00:11:08,100
+no bonus at all - reflex saves or
+ 
+
+489
+00:11:08,100 --> 00:11:11,659
+no bonus at all - reflex saves or
+stealth checks and remember the GM is
+
+490
+00:11:11,659 --> 00:11:11,669
+stealth checks and remember the GM is
+ 
+
+491
+00:11:11,669 --> 00:11:13,669
+stealth checks and remember the GM is
+able to make judgment calls to grant
+
+492
+00:11:13,669 --> 00:11:13,679
+able to make judgment calls to grant
+ 
+
+493
+00:11:13,679 --> 00:11:16,909
+able to make judgment calls to grant
+more or less cover in various situations
+
+494
+00:11:16,909 --> 00:11:16,919
+more or less cover in various situations
+ 
+
+495
+00:11:16,919 --> 00:11:19,549
+more or less cover in various situations
+such as if the target is significantly
+
+496
+00:11:19,549 --> 00:11:19,559
+such as if the target is significantly
+ 
+
+497
+00:11:19,559 --> 00:11:22,189
+such as if the target is significantly
+larger or smaller than the obstacle in
+
+498
+00:11:22,189 --> 00:11:22,199
+larger or smaller than the obstacle in
+ 
+
+499
+00:11:22,199 --> 00:11:25,300
+larger or smaller than the obstacle in
+the path of the attack
+
+500
+00:11:25,300 --> 00:11:25,310
+the path of the attack
+ 
+
+501
+00:11:25,310 --> 00:11:27,160
+the path of the attack
+with that we'll bring this video to a
+
+502
+00:11:27,160 --> 00:11:27,170
+with that we'll bring this video to a
+ 
+
+503
+00:11:27,170 --> 00:11:29,290
+with that we'll bring this video to a
+close if you found this video helpful
+
+504
+00:11:29,290 --> 00:11:29,300
+close if you found this video helpful
+ 
+
+505
+00:11:29,300 --> 00:11:31,059
+close if you found this video helpful
+please give us a like and don't forget
+
+506
+00:11:31,059 --> 00:11:31,069
+please give us a like and don't forget
+ 
+
+507
+00:11:31,069 --> 00:11:32,679
+please give us a like and don't forget
+to click that subscribe button and the
+
+508
+00:11:32,679 --> 00:11:32,689
+to click that subscribe button and the
+ 
+
+509
+00:11:32,689 --> 00:11:34,269
+to click that subscribe button and the
+bell so you never miss out on our future
+
+510
+00:11:34,269 --> 00:11:34,279
+bell so you never miss out on our future
+ 
+
+511
+00:11:34,279 --> 00:11:36,579
+bell so you never miss out on our future
+videos leave us a comment letting us
+
+512
+00:11:36,579 --> 00:11:36,589
+videos leave us a comment letting us
+ 
+
+513
+00:11:36,589 --> 00:11:37,869
+videos leave us a comment letting us
+know what topics you'd like to see
+
+514
+00:11:37,869 --> 00:11:37,879
+know what topics you'd like to see
+ 
+
+515
+00:11:37,879 --> 00:11:39,970
+know what topics you'd like to see
+covered in our future videos and we can
+
+516
+00:11:39,970 --> 00:11:39,980
+covered in our future videos and we can
+ 
+
+517
+00:11:39,980 --> 00:11:41,110
+covered in our future videos and we can
+always be reached through our Twitter
+
+518
+00:11:41,110 --> 00:11:41,120
+always be reached through our Twitter
+ 
+
+519
+00:11:41,120 --> 00:11:43,809
+always be reached through our Twitter
+and Facebook pages too if you'd like to
+
+520
+00:11:43,809 --> 00:11:43,819
+and Facebook pages too if you'd like to
+ 
+
+521
+00:11:43,819 --> 00:11:45,280
+and Facebook pages too if you'd like to
+use some of the maps that we feature on
+
+522
+00:11:45,280 --> 00:11:45,290
+use some of the maps that we feature on
+ 
+
+523
+00:11:45,290 --> 00:11:47,079
+use some of the maps that we feature on
+our videos and your own games you can
+
+524
+00:11:47,079 --> 00:11:47,089
+our videos and your own games you can
+ 
+
+525
+00:11:47,089 --> 00:11:49,780
+our videos and your own games you can
+find them at maps of mastery a link to
+
+526
+00:11:49,780 --> 00:11:49,790
+find them at maps of mastery a link to
+ 
+
+527
+00:11:49,790 --> 00:11:51,069
+find them at maps of mastery a link to
+that store can be found in the
+
+528
+00:11:51,069 --> 00:11:51,079
+that store can be found in the
+ 
+
+529
+00:11:51,079 --> 00:11:53,860
+that store can be found in the
+description thanks for watching take
+
+530
+00:11:53,860 --> 00:11:53,870
+description thanks for watching take
+ 
+
+531
+00:11:53,870 --> 00:11:55,480
+description thanks for watching take
+care and we'll see you soon with more
+
+532
+00:11:55,480 --> 00:11:55,490
+care and we'll see you soon with more
+ 
+
+533
+00:11:55,490 --> 00:11:59,230
+care and we'll see you soon with more
+basics for your favorite tabletop games
+

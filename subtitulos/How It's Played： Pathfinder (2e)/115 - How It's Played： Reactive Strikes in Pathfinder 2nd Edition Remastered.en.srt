@@ -1,0 +1,2655 @@
+1
+00:00:01,000 --> 00:00:03,470
+
+hello and welcome to reactive strikes in
+
+2
+00:00:03,470 --> 00:00:03,480
+hello and welcome to reactive strikes in
+ 
+
+3
+00:00:03,480 --> 00:00:05,430
+hello and welcome to reactive strikes in
+Pathfinder second
+
+4
+00:00:05,430 --> 00:00:05,440
+Pathfinder second
+ 
+
+5
+00:00:05,440 --> 00:00:08,270
+Pathfinder second
+edition the reactive strike is a feature
+
+6
+00:00:08,270 --> 00:00:08,280
+edition the reactive strike is a feature
+ 
+
+7
+00:00:08,280 --> 00:00:10,270
+edition the reactive strike is a feature
+for Fighters at first level and may be
+
+8
+00:00:10,270 --> 00:00:10,280
+for Fighters at first level and may be
+ 
+
+9
+00:00:10,280 --> 00:00:12,110
+for Fighters at first level and may be
+gained through Feats for most other
+
+10
+00:00:12,110 --> 00:00:12,120
+gained through Feats for most other
+ 
+
+11
+00:00:12,120 --> 00:00:14,709
+gained through Feats for most other
+Marshall classes despite differences in
+
+12
+00:00:14,709 --> 00:00:14,719
+Marshall classes despite differences in
+ 
+
+13
+00:00:14,719 --> 00:00:17,150
+Marshall classes despite differences in
+availability they all function the same
+
+14
+00:00:17,150 --> 00:00:17,160
+availability they all function the same
+ 
+
+15
+00:00:17,160 --> 00:00:19,550
+availability they all function the same
+way this ability allows characters to
+
+16
+00:00:19,550 --> 00:00:19,560
+way this ability allows characters to
+ 
+
+17
+00:00:19,560 --> 00:00:21,710
+way this ability allows characters to
+use their reaction to make a melee
+
+18
+00:00:21,710 --> 00:00:21,720
+use their reaction to make a melee
+ 
+
+19
+00:00:21,720 --> 00:00:23,390
+use their reaction to make a melee
+strike against an opponent who has
+
+20
+00:00:23,390 --> 00:00:23,400
+strike against an opponent who has
+ 
+
+21
+00:00:23,400 --> 00:00:26,150
+strike against an opponent who has
+dropped their guard there are a few
+
+22
+00:00:26,150 --> 00:00:26,160
+dropped their guard there are a few
+ 
+
+23
+00:00:26,160 --> 00:00:28,589
+dropped their guard there are a few
+requirements to trigger this reaction
+
+24
+00:00:28,589 --> 00:00:28,599
+requirements to trigger this reaction
+ 
+
+25
+00:00:28,599 --> 00:00:30,710
+requirements to trigger this reaction
+first the enemy must be within your
+
+26
+00:00:30,710 --> 00:00:30,720
+first the enemy must be within your
+ 
+
+27
+00:00:30,720 --> 00:00:33,350
+first the enemy must be within your
+reach meaning they must be close enough
+
+28
+00:00:33,350 --> 00:00:33,360
+reach meaning they must be close enough
+ 
+
+29
+00:00:33,360 --> 00:00:34,709
+reach meaning they must be close enough
+that you could strike them with your
+
+30
+00:00:34,709 --> 00:00:34,719
+that you could strike them with your
+ 
+
+31
+00:00:34,719 --> 00:00:37,470
+that you could strike them with your
+melee weapon or with an unarmed melee
+
+32
+00:00:37,470 --> 00:00:37,480
+melee weapon or with an unarmed melee
+ 
+
+33
+00:00:37,480 --> 00:00:40,910
+melee weapon or with an unarmed melee
+attack and second one of the following
+
+34
+00:00:40,910 --> 00:00:40,920
+attack and second one of the following
+ 
+
+35
+00:00:40,920 --> 00:00:44,069
+attack and second one of the following
+must occur the enemy uses a manipulate
+
+36
+00:00:44,069 --> 00:00:44,079
+must occur the enemy uses a manipulate
+ 
+
+37
+00:00:44,079 --> 00:00:47,310
+must occur the enemy uses a manipulate
+action the enemy makes a ranged attack
+
+38
+00:00:47,310 --> 00:00:47,320
+action the enemy makes a ranged attack
+ 
+
+39
+00:00:47,320 --> 00:00:50,510
+action the enemy makes a ranged attack
+the enemy uses a move action or the
+
+40
+00:00:50,510 --> 00:00:50,520
+the enemy uses a move action or the
+ 
+
+41
+00:00:50,520 --> 00:00:53,590
+the enemy uses a move action or the
+enemy moves out of its Square during a
+
+42
+00:00:53,590 --> 00:00:53,600
+enemy moves out of its Square during a
+ 
+
+43
+00:00:53,600 --> 00:00:56,670
+enemy moves out of its Square during a
+move action that it is using if both
+
+44
+00:00:56,670 --> 00:00:56,680
+move action that it is using if both
+ 
+
+45
+00:00:56,680 --> 00:00:59,029
+move action that it is using if both
+those criteria are met being that the
+
+46
+00:00:59,029 --> 00:00:59,039
+those criteria are met being that the
+ 
+
+47
+00:00:59,039 --> 00:01:01,110
+those criteria are met being that the
+enemy is within range of your melee
+
+48
+00:01:01,110 --> 00:01:01,120
+enemy is within range of your melee
+ 
+
+49
+00:01:01,120 --> 00:01:03,790
+enemy is within range of your melee
+attack and performs one of the four
+
+50
+00:01:03,790 --> 00:01:03,800
+attack and performs one of the four
+ 
+
+51
+00:01:03,800 --> 00:01:06,310
+attack and performs one of the four
+triggering actions then you may spend
+
+52
+00:01:06,310 --> 00:01:06,320
+triggering actions then you may spend
+ 
+
+53
+00:01:06,320 --> 00:01:08,789
+triggering actions then you may spend
+your reaction to make a melee strike
+
+54
+00:01:08,789 --> 00:01:08,799
+your reaction to make a melee strike
+ 
+
+55
+00:01:08,799 --> 00:01:11,350
+your reaction to make a melee strike
+against them the strike is always made
+
+56
+00:01:11,350 --> 00:01:11,360
+against them the strike is always made
+ 
+
+57
+00:01:11,360 --> 00:01:13,190
+against them the strike is always made
+at your highest bonus without any
+
+58
+00:01:13,190 --> 00:01:13,200
+at your highest bonus without any
+ 
+
+59
+00:01:13,200 --> 00:01:15,390
+at your highest bonus without any
+multiple attack penalty even if
+
+60
+00:01:15,390 --> 00:01:15,400
+multiple attack penalty even if
+ 
+
+61
+00:01:15,400 --> 00:01:17,749
+multiple attack penalty even if
+technically it may be your fourth attack
+
+62
+00:01:17,749 --> 00:01:17,759
+technically it may be your fourth attack
+ 
+
+63
+00:01:17,759 --> 00:01:20,550
+technically it may be your fourth attack
+that round that's what reactive strike
+
+64
+00:01:20,550 --> 00:01:20,560
+that round that's what reactive strike
+ 
+
+65
+00:01:20,560 --> 00:01:22,590
+that round that's what reactive strike
+is but let's take a closer look at each
+
+66
+00:01:22,590 --> 00:01:22,600
+is but let's take a closer look at each
+ 
+
+67
+00:01:22,600 --> 00:01:24,429
+is but let's take a closer look at each
+of these
+
+68
+00:01:24,429 --> 00:01:24,439
+of these
+ 
+
+69
+00:01:24,439 --> 00:01:27,310
+of these
+elements first the enemy must be within
+
+70
+00:01:27,310 --> 00:01:27,320
+elements first the enemy must be within
+ 
+
+71
+00:01:27,320 --> 00:01:29,390
+elements first the enemy must be within
+reach of your melee attack and this
+
+72
+00:01:29,390 --> 00:01:29,400
+reach of your melee attack and this
+ 
+
+73
+00:01:29,400 --> 00:01:31,350
+reach of your melee attack and this
+would be what whatever melee attack you
+
+74
+00:01:31,350 --> 00:01:31,360
+would be what whatever melee attack you
+ 
+
+75
+00:01:31,360 --> 00:01:33,670
+would be what whatever melee attack you
+have prepared at that moment meaning
+
+76
+00:01:33,670 --> 00:01:33,680
+have prepared at that moment meaning
+ 
+
+77
+00:01:33,680 --> 00:01:35,190
+have prepared at that moment meaning
+it's either a weapon you're already
+
+78
+00:01:35,190 --> 00:01:35,200
+it's either a weapon you're already
+ 
+
+79
+00:01:35,200 --> 00:01:38,670
+it's either a weapon you're already
+holding or it's an unarmed attack any
+
+80
+00:01:38,670 --> 00:01:38,680
+holding or it's an unarmed attack any
+ 
+
+81
+00:01:38,680 --> 00:01:40,670
+holding or it's an unarmed attack any
+square that you can make a melee attack
+
+82
+00:01:40,670 --> 00:01:40,680
+square that you can make a melee attack
+ 
+
+83
+00:01:40,680 --> 00:01:43,789
+square that you can make a melee attack
+into is sometimes referred to as your
+
+84
+00:01:43,789 --> 00:01:43,799
+into is sometimes referred to as your
+ 
+
+85
+00:01:43,799 --> 00:01:46,429
+into is sometimes referred to as your
+threatened area or that you are
+
+86
+00:01:46,429 --> 00:01:46,439
+threatened area or that you are
+ 
+
+87
+00:01:46,439 --> 00:01:50,069
+threatened area or that you are
+threatening those spaces now for clarity
+
+88
+00:01:50,069 --> 00:01:50,079
+threatening those spaces now for clarity
+ 
+
+89
+00:01:50,079 --> 00:01:52,069
+threatening those spaces now for clarity
+that's a first edition term that you
+
+90
+00:01:52,069 --> 00:01:52,079
+that's a first edition term that you
+ 
+
+91
+00:01:52,079 --> 00:01:54,590
+that's a first edition term that you
+will not find in the second edition Rule
+
+92
+00:01:54,590 --> 00:01:54,600
+will not find in the second edition Rule
+ 
+
+93
+00:01:54,600 --> 00:01:57,270
+will not find in the second edition Rule
+books officially but I think those terms
+
+94
+00:01:57,270 --> 00:01:57,280
+books officially but I think those terms
+ 
+
+95
+00:01:57,280 --> 00:01:59,950
+books officially but I think those terms
+help illustrate this requirement if
+
+96
+00:01:59,950 --> 00:01:59,960
+help illustrate this requirement if
+ 
+
+97
+00:01:59,960 --> 00:02:02,149
+help illustrate this requirement if
+anyway the enemy must be standing in a
+
+98
+00:02:02,149 --> 00:02:02,159
+anyway the enemy must be standing in a
+ 
+
+99
+00:02:02,159 --> 00:02:05,029
+anyway the enemy must be standing in a
+threatened space for you to use reactive
+
+100
+00:02:05,029 --> 00:02:05,039
+threatened space for you to use reactive
+ 
+
+101
+00:02:05,039 --> 00:02:07,270
+threatened space for you to use reactive
+strike against them generally speaking
+
+102
+00:02:07,270 --> 00:02:07,280
+strike against them generally speaking
+ 
+
+103
+00:02:07,280 --> 00:02:09,270
+strike against them generally speaking
+your threatened area will be the eight
+
+104
+00:02:09,270 --> 00:02:09,280
+your threatened area will be the eight
+ 
+
+105
+00:02:09,280 --> 00:02:11,869
+your threatened area will be the eight
+squares immediately surrounding you
+
+106
+00:02:11,869 --> 00:02:11,879
+squares immediately surrounding you
+ 
+
+107
+00:02:11,879 --> 00:02:14,070
+squares immediately surrounding you
+however some weapons have the reach
+
+108
+00:02:14,070 --> 00:02:14,080
+however some weapons have the reach
+ 
+
+109
+00:02:14,080 --> 00:02:16,550
+however some weapons have the reach
+trait that allows them to attack enemies
+
+110
+00:02:16,550 --> 00:02:16,560
+trait that allows them to attack enemies
+ 
+
+111
+00:02:16,560 --> 00:02:19,830
+trait that allows them to attack enemies
+more than one square away for example
+
+112
+00:02:19,830 --> 00:02:19,840
+more than one square away for example
+ 
+
+113
+00:02:19,840 --> 00:02:22,350
+more than one square away for example
+Hal birds have the reach trait which
+
+114
+00:02:22,350 --> 00:02:22,360
+Hal birds have the reach trait which
+ 
+
+115
+00:02:22,360 --> 00:02:24,309
+Hal birds have the reach trait which
+means they can attack enemies that are
+
+116
+00:02:24,309 --> 00:02:24,319
+means they can attack enemies that are
+ 
+
+117
+00:02:24,319 --> 00:02:27,550
+means they can attack enemies that are
+10 ft away and per the notation on page
+
+118
+00:02:27,550 --> 00:02:27,560
+10 ft away and per the notation on page
+ 
+
+119
+00:02:27,560 --> 00:02:30,390
+10 ft away and per the notation on page
+426 of player Core 1
+
+120
+00:02:30,390 --> 00:02:30,400
+426 of player Core 1
+ 
+
+121
+00:02:30,400 --> 00:02:32,710
+426 of player Core 1
+this means they can attack enemies that
+
+122
+00:02:32,710 --> 00:02:32,720
+this means they can attack enemies that
+ 
+
+123
+00:02:32,720 --> 00:02:36,430
+this means they can attack enemies that
+are two squares away including
+
+124
+00:02:36,430 --> 00:02:36,440
+are two squares away including
+ 
+
+125
+00:02:36,440 --> 00:02:38,750
+are two squares away including
+diagonally so if you're wielding a
+
+126
+00:02:38,750 --> 00:02:38,760
+diagonally so if you're wielding a
+ 
+
+127
+00:02:38,760 --> 00:02:42,550
+diagonally so if you're wielding a
+Warhammer you threaten these spaces if
+
+128
+00:02:42,550 --> 00:02:42,560
+Warhammer you threaten these spaces if
+ 
+
+129
+00:02:42,560 --> 00:02:44,869
+Warhammer you threaten these spaces if
+you're wielding a long spear you
+
+130
+00:02:44,869 --> 00:02:44,879
+you're wielding a long spear you
+ 
+
+131
+00:02:44,879 --> 00:02:48,390
+you're wielding a long spear you
+threaten these spaces if you're a hill
+
+132
+00:02:48,390 --> 00:02:48,400
+threaten these spaces if you're a hill
+ 
+
+133
+00:02:48,400 --> 00:02:52,149
+threaten these spaces if you're a hill
+giant you threaten these spaces and if
+
+134
+00:02:52,149 --> 00:02:52,159
+giant you threaten these spaces and if
+ 
+
+135
+00:02:52,159 --> 00:02:54,630
+giant you threaten these spaces and if
+you're a hill giant wielding a long
+
+136
+00:02:54,630 --> 00:02:54,640
+you're a hill giant wielding a long
+ 
+
+137
+00:02:54,640 --> 00:02:58,710
+you're a hill giant wielding a long
+spear you threaten these spaces as long
+
+138
+00:02:58,710 --> 00:02:58,720
+spear you threaten these spaces as long
+ 
+
+139
+00:02:58,720 --> 00:03:01,470
+spear you threaten these spaces as long
+as your enemy is is occupying at least
+
+140
+00:03:01,470 --> 00:03:01,480
+as your enemy is is occupying at least
+ 
+
+141
+00:03:01,480 --> 00:03:04,390
+as your enemy is is occupying at least
+one of these spaces they meet the first
+
+142
+00:03:04,390 --> 00:03:04,400
+one of these spaces they meet the first
+ 
+
+143
+00:03:04,400 --> 00:03:07,390
+one of these spaces they meet the first
+criteria for reactive
+
+144
+00:03:07,390 --> 00:03:07,400
+criteria for reactive
+ 
+
+145
+00:03:07,400 --> 00:03:09,910
+criteria for reactive
+strike assuming at least part of the
+
+146
+00:03:09,910 --> 00:03:09,920
+strike assuming at least part of the
+ 
+
+147
+00:03:09,920 --> 00:03:12,670
+strike assuming at least part of the
+target is occupying a threatened space
+
+148
+00:03:12,670 --> 00:03:12,680
+target is occupying a threatened space
+ 
+
+149
+00:03:12,680 --> 00:03:15,229
+target is occupying a threatened space
+the next question is does the Target
+
+150
+00:03:15,229 --> 00:03:15,239
+the next question is does the Target
+ 
+
+151
+00:03:15,239 --> 00:03:18,550
+the next question is does the Target
+meet one of the four triggering actions
+
+152
+00:03:18,550 --> 00:03:18,560
+meet one of the four triggering actions
+ 
+
+153
+00:03:18,560 --> 00:03:21,550
+meet one of the four triggering actions
+the first of which is using a manipulate
+
+154
+00:03:21,550 --> 00:03:21,560
+the first of which is using a manipulate
+ 
+
+155
+00:03:21,560 --> 00:03:23,789
+the first of which is using a manipulate
+action any action that has the
+
+156
+00:03:23,789 --> 00:03:23,799
+action any action that has the
+ 
+
+157
+00:03:23,799 --> 00:03:26,470
+action any action that has the
+manipulate trait is considered to be a
+
+158
+00:03:26,470 --> 00:03:26,480
+manipulate trait is considered to be a
+ 
+
+159
+00:03:26,480 --> 00:03:29,390
+manipulate trait is considered to be a
+manipulate action the manipulate trait
+
+160
+00:03:29,390 --> 00:03:29,400
+manipulate action the manipulate trait
+ 
+
+161
+00:03:29,400 --> 00:03:32,350
+manipulate action the manipulate trait
+not any action that requires the user to
+
+162
+00:03:32,350 --> 00:03:32,360
+not any action that requires the user to
+ 
+
+163
+00:03:32,360 --> 00:03:35,030
+not any action that requires the user to
+physically interact with an object or to
+
+164
+00:03:35,030 --> 00:03:35,040
+physically interact with an object or to
+ 
+
+165
+00:03:35,040 --> 00:03:35,949
+physically interact with an object or to
+make
+
+166
+00:03:35,949 --> 00:03:35,959
+make
+ 
+
+167
+00:03:35,959 --> 00:03:38,190
+make
+gestures probably the most common place
+
+168
+00:03:38,190 --> 00:03:38,200
+gestures probably the most common place
+ 
+
+169
+00:03:38,200 --> 00:03:41,030
+gestures probably the most common place
+you'll find this is with interact
+
+170
+00:03:41,030 --> 00:03:41,040
+you'll find this is with interact
+ 
+
+171
+00:03:41,040 --> 00:03:44,070
+you'll find this is with interact
+actions interact has the manipulate
+
+172
+00:03:44,070 --> 00:03:44,080
+actions interact has the manipulate
+ 
+
+173
+00:03:44,080 --> 00:03:46,589
+actions interact has the manipulate
+trait meaning anything that calls for an
+
+174
+00:03:46,589 --> 00:03:46,599
+trait meaning anything that calls for an
+ 
+
+175
+00:03:46,599 --> 00:03:50,190
+trait meaning anything that calls for an
+interact action is also a manipulate
+
+176
+00:03:50,190 --> 00:03:50,200
+interact action is also a manipulate
+ 
+
+177
+00:03:50,200 --> 00:03:53,309
+interact action is also a manipulate
+action a few common examples include
+
+178
+00:03:53,309 --> 00:03:53,319
+action a few common examples include
+ 
+
+179
+00:03:53,319 --> 00:03:56,309
+action a few common examples include
+reloading weapons drawing a weapon or a
+
+180
+00:03:56,309 --> 00:03:56,319
+reloading weapons drawing a weapon or a
+ 
+
+181
+00:03:56,319 --> 00:03:59,149
+reloading weapons drawing a weapon or a
+potion fetching an item from Storage
+
+182
+00:03:59,149 --> 00:03:59,159
+potion fetching an item from Storage
+ 
+
+183
+00:03:59,159 --> 00:04:01,390
+potion fetching an item from Storage
+giving an item two or taking an item
+
+184
+00:04:01,390 --> 00:04:01,400
+giving an item two or taking an item
+ 
+
+185
+00:04:01,400 --> 00:04:03,710
+giving an item two or taking an item
+from another character and opening a
+
+186
+00:04:03,710 --> 00:04:03,720
+from another character and opening a
+ 
+
+187
+00:04:03,720 --> 00:04:07,030
+from another character and opening a
+door another example would be activating
+
+188
+00:04:07,030 --> 00:04:07,040
+door another example would be activating
+ 
+
+189
+00:04:07,040 --> 00:04:10,429
+door another example would be activating
+items for example applying Black Adder
+
+190
+00:04:10,429 --> 00:04:10,439
+items for example applying Black Adder
+ 
+
+191
+00:04:10,439 --> 00:04:13,630
+items for example applying Black Adder
+Venom to a dagger requires two actions
+
+192
+00:04:13,630 --> 00:04:13,640
+Venom to a dagger requires two actions
+ 
+
+193
+00:04:13,640 --> 00:04:16,310
+Venom to a dagger requires two actions
+with the manipulate trait which would
+
+194
+00:04:16,310 --> 00:04:16,320
+with the manipulate trait which would
+ 
+
+195
+00:04:16,320 --> 00:04:20,189
+with the manipulate trait which would
+trigger reactive strikes also most
+
+196
+00:04:20,189 --> 00:04:20,199
+trigger reactive strikes also most
+ 
+
+197
+00:04:20,199 --> 00:04:23,110
+trigger reactive strikes also most
+spells have the manipulate trait too we
+
+198
+00:04:23,110 --> 00:04:23,120
+spells have the manipulate trait too we
+ 
+
+199
+00:04:23,120 --> 00:04:25,030
+spells have the manipulate trait too we
+should also note that one action that
+
+200
+00:04:25,030 --> 00:04:25,040
+should also note that one action that
+ 
+
+201
+00:04:25,040 --> 00:04:27,270
+should also note that one action that
+may feel like a manipulate action
+
+202
+00:04:27,270 --> 00:04:27,280
+may feel like a manipulate action
+ 
+
+203
+00:04:27,280 --> 00:04:30,310
+may feel like a manipulate action
+because it involves moving an item is is
+
+204
+00:04:30,310 --> 00:04:30,320
+because it involves moving an item is is
+ 
+
+205
+00:04:30,320 --> 00:04:33,510
+because it involves moving an item is is
+strike the strike action used to make
+
+206
+00:04:33,510 --> 00:04:33,520
+strike the strike action used to make
+ 
+
+207
+00:04:33,520 --> 00:04:36,390
+strike the strike action used to make
+attacks with weapons does not have the
+
+208
+00:04:36,390 --> 00:04:36,400
+attacks with weapons does not have the
+ 
+
+209
+00:04:36,400 --> 00:04:39,469
+attacks with weapons does not have the
+manipulate trait therefore melee attacks
+
+210
+00:04:39,469 --> 00:04:39,479
+manipulate trait therefore melee attacks
+ 
+
+211
+00:04:39,479 --> 00:04:42,710
+manipulate trait therefore melee attacks
+do not trigger reactive
+
+212
+00:04:42,710 --> 00:04:42,720
+do not trigger reactive
+ 
+
+213
+00:04:42,720 --> 00:04:46,430
+do not trigger reactive
+strikes so the strike action itself does
+
+214
+00:04:46,430 --> 00:04:46,440
+strikes so the strike action itself does
+ 
+
+215
+00:04:46,440 --> 00:04:49,070
+strikes so the strike action itself does
+not trigger reactive strikes but the
+
+216
+00:04:49,070 --> 00:04:49,080
+not trigger reactive strikes but the
+ 
+
+217
+00:04:49,080 --> 00:04:52,110
+not trigger reactive strikes but the
+second listed trigger is making a ranged
+
+218
+00:04:52,110 --> 00:04:52,120
+second listed trigger is making a ranged
+ 
+
+219
+00:04:52,120 --> 00:04:55,550
+second listed trigger is making a ranged
+attack which is easy enough if someone
+
+220
+00:04:55,550 --> 00:04:55,560
+attack which is easy enough if someone
+ 
+
+221
+00:04:55,560 --> 00:04:57,670
+attack which is easy enough if someone
+attempts to make a ranged attack with a
+
+222
+00:04:57,670 --> 00:04:57,680
+attempts to make a ranged attack with a
+ 
+
+223
+00:04:57,680 --> 00:05:00,110
+attempts to make a ranged attack with a
+longbow while they're standing in one of
+
+224
+00:05:00,110 --> 00:05:00,120
+longbow while they're standing in one of
+ 
+
+225
+00:05:00,120 --> 00:05:02,550
+longbow while they're standing in one of
+your threatened spaces that could allow
+
+226
+00:05:02,550 --> 00:05:02,560
+your threatened spaces that could allow
+ 
+
+227
+00:05:02,560 --> 00:05:04,670
+your threatened spaces that could allow
+you to spend your reaction to make a
+
+228
+00:05:04,670 --> 00:05:04,680
+you to spend your reaction to make a
+ 
+
+229
+00:05:04,680 --> 00:05:07,230
+you to spend your reaction to make a
+reactive strike against them and this
+
+230
+00:05:07,230 --> 00:05:07,240
+reactive strike against them and this
+ 
+
+231
+00:05:07,240 --> 00:05:09,670
+reactive strike against them and this
+applies to any ranged attack shooting a
+
+232
+00:05:09,670 --> 00:05:09,680
+applies to any ranged attack shooting a
+ 
+
+233
+00:05:09,680 --> 00:05:11,830
+applies to any ranged attack shooting a
+bow throwing a dagger or checking an
+
+234
+00:05:11,830 --> 00:05:11,840
+bow throwing a dagger or checking an
+ 
+
+235
+00:05:11,840 --> 00:05:14,550
+bow throwing a dagger or checking an
+acid flask at someone all count as
+
+236
+00:05:14,550 --> 00:05:14,560
+acid flask at someone all count as
+ 
+
+237
+00:05:14,560 --> 00:05:18,070
+acid flask at someone all count as
+ranged attacks and enemies making ranged
+
+238
+00:05:18,070 --> 00:05:18,080
+ranged attacks and enemies making ranged
+ 
+
+239
+00:05:18,080 --> 00:05:20,309
+ranged attacks and enemies making ranged
+attacks don't just trigger a reactive
+
+240
+00:05:20,309 --> 00:05:20,319
+attacks don't just trigger a reactive
+ 
+
+241
+00:05:20,319 --> 00:05:22,710
+attacks don't just trigger a reactive
+strike from their target for example if
+
+242
+00:05:22,710 --> 00:05:22,720
+strike from their target for example if
+ 
+
+243
+00:05:22,720 --> 00:05:25,189
+strike from their target for example if
+they were F Point Blank at an adjacent
+
+244
+00:05:25,189 --> 00:05:25,199
+they were F Point Blank at an adjacent
+ 
+
+245
+00:05:25,199 --> 00:05:27,430
+they were F Point Blank at an adjacent
+enemy but they would trigger from
+
+246
+00:05:27,430 --> 00:05:27,440
+enemy but they would trigger from
+ 
+
+247
+00:05:27,440 --> 00:05:30,309
+enemy but they would trigger from
+everyone that they are within melee of
+
+248
+00:05:30,309 --> 00:05:30,319
+everyone that they are within melee of
+ 
+
+249
+00:05:30,319 --> 00:05:31,950
+everyone that they are within melee of
+assuming those enemies have the ability
+
+250
+00:05:31,950 --> 00:05:31,960
+assuming those enemies have the ability
+ 
+
+251
+00:05:31,960 --> 00:05:34,909
+assuming those enemies have the ability
+to make reactive strikes ranged spell
+
+252
+00:05:34,909 --> 00:05:34,919
+to make reactive strikes ranged spell
+ 
+
+253
+00:05:34,919 --> 00:05:37,430
+to make reactive strikes ranged spell
+attacks also count for this but there's
+
+254
+00:05:37,430 --> 00:05:37,440
+attacks also count for this but there's
+ 
+
+255
+00:05:37,440 --> 00:05:39,189
+attacks also count for this but there's
+a good chance that those spells are
+
+256
+00:05:39,189 --> 00:05:39,199
+a good chance that those spells are
+ 
+
+257
+00:05:39,199 --> 00:05:41,230
+a good chance that those spells are
+already covered by being manipulate
+
+258
+00:05:41,230 --> 00:05:41,240
+already covered by being manipulate
+ 
+
+259
+00:05:41,240 --> 00:05:43,990
+already covered by being manipulate
+actions as we've already
+
+260
+00:05:43,990 --> 00:05:44,000
+actions as we've already
+ 
+
+261
+00:05:44,000 --> 00:05:46,629
+actions as we've already
+discussed the third possible trigger for
+
+262
+00:05:46,629 --> 00:05:46,639
+discussed the third possible trigger for
+ 
+
+263
+00:05:46,639 --> 00:05:49,629
+discussed the third possible trigger for
+reactive strikes is using a move action
+
+264
+00:05:49,629 --> 00:05:49,639
+reactive strikes is using a move action
+ 
+
+265
+00:05:49,639 --> 00:05:51,629
+reactive strikes is using a move action
+if you use an action that has the move
+
+266
+00:05:51,629 --> 00:05:51,639
+if you use an action that has the move
+ 
+
+267
+00:05:51,639 --> 00:05:53,590
+if you use an action that has the move
+trait while standing in an enemy's
+
+268
+00:05:53,590 --> 00:05:53,600
+trait while standing in an enemy's
+ 
+
+269
+00:05:53,600 --> 00:05:56,270
+trait while standing in an enemy's
+threatened area you might trigger an
+
+270
+00:05:56,270 --> 00:05:56,280
+threatened area you might trigger an
+ 
+
+271
+00:05:56,280 --> 00:05:58,909
+threatened area you might trigger an
+attack from them a few examples of this
+
+272
+00:05:58,909 --> 00:05:58,919
+attack from them a few examples of this
+ 
+
+273
+00:05:58,919 --> 00:06:01,710
+attack from them a few examples of this
+would include falling prone standing up
+
+274
+00:06:01,710 --> 00:06:01,720
+would include falling prone standing up
+ 
+
+275
+00:06:01,720 --> 00:06:04,830
+would include falling prone standing up
+from prone or mounting a horse declaring
+
+276
+00:06:04,830 --> 00:06:04,840
+from prone or mounting a horse declaring
+ 
+
+277
+00:06:04,840 --> 00:06:07,029
+from prone or mounting a horse declaring
+any of these or other actions that have
+
+278
+00:06:07,029 --> 00:06:07,039
+any of these or other actions that have
+ 
+
+279
+00:06:07,039 --> 00:06:10,830
+any of these or other actions that have
+the move trait May trigger reactive
+
+280
+00:06:10,830 --> 00:06:10,840
+the move trait May trigger reactive
+ 
+
+281
+00:06:10,840 --> 00:06:13,870
+the move trait May trigger reactive
+strikes and the fourth possible trigger
+
+282
+00:06:13,870 --> 00:06:13,880
+strikes and the fourth possible trigger
+ 
+
+283
+00:06:13,880 --> 00:06:16,589
+strikes and the fourth possible trigger
+is the enemy moves out of its Square
+
+284
+00:06:16,589 --> 00:06:16,599
+is the enemy moves out of its Square
+ 
+
+285
+00:06:16,599 --> 00:06:19,870
+is the enemy moves out of its Square
+during a move action that it is using
+
+286
+00:06:19,870 --> 00:06:19,880
+during a move action that it is using
+ 
+
+287
+00:06:19,880 --> 00:06:21,990
+during a move action that it is using
+and this may sound the same as the
+
+288
+00:06:21,990 --> 00:06:22,000
+and this may sound the same as the
+ 
+
+289
+00:06:22,000 --> 00:06:24,390
+and this may sound the same as the
+previous trigger of using a move action
+
+290
+00:06:24,390 --> 00:06:24,400
+previous trigger of using a move action
+ 
+
+291
+00:06:24,400 --> 00:06:26,430
+previous trigger of using a move action
+but the difference is the previous
+
+292
+00:06:26,430 --> 00:06:26,440
+but the difference is the previous
+ 
+
+293
+00:06:26,440 --> 00:06:28,390
+but the difference is the previous
+trigger refers to declaring a move
+
+294
+00:06:28,390 --> 00:06:28,400
+trigger refers to declaring a move
+ 
+
+295
+00:06:28,400 --> 00:06:30,909
+trigger refers to declaring a move
+action while standing in a threatened
+
+296
+00:06:30,909 --> 00:06:30,919
+action while standing in a threatened
+ 
+
+297
+00:06:30,919 --> 00:06:33,990
+action while standing in a threatened
+space and this fourth requirement covers
+
+298
+00:06:33,990 --> 00:06:34,000
+space and this fourth requirement covers
+ 
+
+299
+00:06:34,000 --> 00:06:36,070
+space and this fourth requirement covers
+situations where a creature might
+
+300
+00:06:36,070 --> 00:06:36,080
+situations where a creature might
+ 
+
+301
+00:06:36,080 --> 00:06:39,230
+situations where a creature might
+declare the move action while outside of
+
+302
+00:06:39,230 --> 00:06:39,240
+declare the move action while outside of
+ 
+
+303
+00:06:39,240 --> 00:06:41,230
+declare the move action while outside of
+the enemy's threatened space and then
+
+304
+00:06:41,230 --> 00:06:41,240
+the enemy's threatened space and then
+ 
+
+305
+00:06:41,240 --> 00:06:44,430
+the enemy's threatened space and then
+move through that threatened area
+
+306
+00:06:44,430 --> 00:06:44,440
+move through that threatened area
+ 
+
+307
+00:06:44,440 --> 00:06:46,350
+move through that threatened area
+typically this will occur with stride
+
+308
+00:06:46,350 --> 00:06:46,360
+typically this will occur with stride
+ 
+
+309
+00:06:46,360 --> 00:06:48,550
+typically this will occur with stride
+actions but may also happen with other
+
+310
+00:06:48,550 --> 00:06:48,560
+actions but may also happen with other
+ 
+
+311
+00:06:48,560 --> 00:06:51,350
+actions but may also happen with other
+forms of locomotion like swimming flying
+
+312
+00:06:51,350 --> 00:06:51,360
+forms of locomotion like swimming flying
+ 
+
+313
+00:06:51,360 --> 00:06:53,749
+forms of locomotion like swimming flying
+or climbing move actions trigger
+
+314
+00:06:53,749 --> 00:06:53,759
+or climbing move actions trigger
+ 
+
+315
+00:06:53,759 --> 00:06:56,629
+or climbing move actions trigger
+reactions not just when they are used
+
+316
+00:06:56,629 --> 00:06:56,639
+reactions not just when they are used
+ 
+
+317
+00:06:56,639 --> 00:06:59,189
+reactions not just when they are used
+but again every time that creature
+
+318
+00:06:59,189 --> 00:06:59,199
+but again every time that creature
+ 
+
+319
+00:06:59,199 --> 00:07:02,749
+but again every time that creature
+attemps to leave a square so if you use
+
+320
+00:07:02,749 --> 00:07:02,759
+attemps to leave a square so if you use
+ 
+
+321
+00:07:02,759 --> 00:07:04,950
+attemps to leave a square so if you use
+stride starting outside of a threaten
+
+322
+00:07:04,950 --> 00:07:04,960
+stride starting outside of a threaten
+ 
+
+323
+00:07:04,960 --> 00:07:07,830
+stride starting outside of a threaten
+space you do not trigger any reactive
+
+324
+00:07:07,830 --> 00:07:07,840
+space you do not trigger any reactive
+ 
+
+325
+00:07:07,840 --> 00:07:11,150
+space you do not trigger any reactive
+strikes then and if you move into a
+
+326
+00:07:11,150 --> 00:07:11,160
+strikes then and if you move into a
+ 
+
+327
+00:07:11,160 --> 00:07:13,589
+strikes then and if you move into a
+threatened space you do not trigger
+
+328
+00:07:13,589 --> 00:07:13,599
+threatened space you do not trigger
+ 
+
+329
+00:07:13,599 --> 00:07:15,670
+threatened space you do not trigger
+anything either because the movement
+
+330
+00:07:15,670 --> 00:07:15,680
+anything either because the movement
+ 
+
+331
+00:07:15,680 --> 00:07:19,430
+anything either because the movement
+trigger occurs when leaving squares but
+
+332
+00:07:19,430 --> 00:07:19,440
+trigger occurs when leaving squares but
+ 
+
+333
+00:07:19,440 --> 00:07:21,790
+trigger occurs when leaving squares but
+if you then leave that threatened space
+
+334
+00:07:21,790 --> 00:07:21,800
+if you then leave that threatened space
+ 
+
+335
+00:07:21,800 --> 00:07:24,950
+if you then leave that threatened space
+you may trigger reactive strikes but
+
+336
+00:07:24,950 --> 00:07:24,960
+you may trigger reactive strikes but
+ 
+
+337
+00:07:24,960 --> 00:07:26,790
+you may trigger reactive strikes but
+note that you may never trigger more
+
+338
+00:07:26,790 --> 00:07:26,800
+note that you may never trigger more
+ 
+
+339
+00:07:26,800 --> 00:07:29,629
+note that you may never trigger more
+than one reaction per creature with a
+
+340
+00:07:29,629 --> 00:07:29,639
+than one reaction per creature with a
+ 
+
+341
+00:07:29,639 --> 00:07:32,390
+than one reaction per creature with a
+single move action no matter how many
+
+342
+00:07:32,390 --> 00:07:32,400
+single move action no matter how many
+ 
+
+343
+00:07:32,400 --> 00:07:34,790
+single move action no matter how many
+threaten spaces you exit even if that
+
+344
+00:07:34,790 --> 00:07:34,800
+threaten spaces you exit even if that
+ 
+
+345
+00:07:34,800 --> 00:07:36,670
+threaten spaces you exit even if that
+creature somehow has more than one
+
+346
+00:07:36,670 --> 00:07:36,680
+creature somehow has more than one
+ 
+
+347
+00:07:36,680 --> 00:07:39,909
+creature somehow has more than one
+reaction to spend also be aware that the
+
+348
+00:07:39,909 --> 00:07:39,919
+reaction to spend also be aware that the
+ 
+
+349
+00:07:39,919 --> 00:07:42,909
+reaction to spend also be aware that the
+step action exists to allow creatures to
+
+350
+00:07:42,909 --> 00:07:42,919
+step action exists to allow creatures to
+ 
+
+351
+00:07:42,919 --> 00:07:46,589
+step action exists to allow creatures to
+move without triggering reactions step
+
+352
+00:07:46,589 --> 00:07:46,599
+move without triggering reactions step
+ 
+
+353
+00:07:46,599 --> 00:07:49,510
+move without triggering reactions step
+cost one action and you can only move 5
+
+354
+00:07:49,510 --> 00:07:49,520
+cost one action and you can only move 5
+ 
+
+355
+00:07:49,520 --> 00:07:52,270
+cost one action and you can only move 5
+feet instead of your full speed but you
+
+356
+00:07:52,270 --> 00:07:52,280
+feet instead of your full speed but you
+ 
+
+357
+00:07:52,280 --> 00:07:54,510
+feet instead of your full speed but you
+do not trigger reactive strikes when
+
+358
+00:07:54,510 --> 00:07:54,520
+do not trigger reactive strikes when
+ 
+
+359
+00:07:54,520 --> 00:07:57,990
+do not trigger reactive strikes when
+doing so and last note that the name for
+
+360
+00:07:57,990 --> 00:07:58,000
+doing so and last note that the name for
+ 
+
+361
+00:07:58,000 --> 00:08:00,550
+doing so and last note that the name for
+this trigger is the enemy moves out of a
+
+362
+00:08:00,550 --> 00:08:00,560
+this trigger is the enemy moves out of a
+ 
+
+363
+00:08:00,560 --> 00:08:03,309
+this trigger is the enemy moves out of a
+square during a move action that it is
+
+364
+00:08:03,309 --> 00:08:03,319
+square during a move action that it is
+ 
+
+365
+00:08:03,319 --> 00:08:06,710
+square during a move action that it is
+using emphasis on that part during a
+
+366
+00:08:06,710 --> 00:08:06,720
+using emphasis on that part during a
+ 
+
+367
+00:08:06,720 --> 00:08:10,309
+using emphasis on that part during a
+move action that it is using in other
+
+368
+00:08:10,309 --> 00:08:10,319
+move action that it is using in other
+ 
+
+369
+00:08:10,319 --> 00:08:12,830
+move action that it is using in other
+words if the target moves out of one of
+
+370
+00:08:12,830 --> 00:08:12,840
+words if the target moves out of one of
+ 
+
+371
+00:08:12,840 --> 00:08:15,309
+words if the target moves out of one of
+your threatened spaces but doesn't use
+
+372
+00:08:15,309 --> 00:08:15,319
+your threatened spaces but doesn't use
+ 
+
+373
+00:08:15,319 --> 00:08:18,390
+your threatened spaces but doesn't use
+one of their own actions to do so then
+
+374
+00:08:18,390 --> 00:08:18,400
+one of their own actions to do so then
+ 
+
+375
+00:08:18,400 --> 00:08:21,350
+one of their own actions to do so then
+that movement does not trigger reactive
+
+376
+00:08:21,350 --> 00:08:21,360
+that movement does not trigger reactive
+ 
+
+377
+00:08:21,360 --> 00:08:23,950
+that movement does not trigger reactive
+strikes basically if they're forced out
+
+378
+00:08:23,950 --> 00:08:23,960
+strikes basically if they're forced out
+ 
+
+379
+00:08:23,960 --> 00:08:26,589
+strikes basically if they're forced out
+of their space by someone else's action
+
+380
+00:08:26,589 --> 00:08:26,599
+of their space by someone else's action
+ 
+
+381
+00:08:26,599 --> 00:08:29,189
+of their space by someone else's action
+like a shove attack then you do not get
+
+382
+00:08:29,189 --> 00:08:29,199
+like a shove attack then you do not get
+ 
+
+383
+00:08:29,199 --> 00:08:31,630
+like a shove attack then you do not get
+to use reactive strikes on
+
+384
+00:08:31,630 --> 00:08:31,640
+to use reactive strikes on
+ 
+
+385
+00:08:31,640 --> 00:08:34,589
+to use reactive strikes on
+them when reactive strike is triggered
+
+386
+00:08:34,589 --> 00:08:34,599
+them when reactive strike is triggered
+ 
+
+387
+00:08:34,599 --> 00:08:36,829
+them when reactive strike is triggered
+the attacking character may spend their
+
+388
+00:08:36,829 --> 00:08:36,839
+the attacking character may spend their
+ 
+
+389
+00:08:36,839 --> 00:08:38,949
+the attacking character may spend their
+reaction that turn to make a melee
+
+390
+00:08:38,949 --> 00:08:38,959
+reaction that turn to make a melee
+ 
+
+391
+00:08:38,959 --> 00:08:41,829
+reaction that turn to make a melee
+strike against the provoking creature as
+
+392
+00:08:41,829 --> 00:08:41,839
+strike against the provoking creature as
+ 
+
+393
+00:08:41,839 --> 00:08:43,909
+strike against the provoking creature as
+mentioned before this attack is made
+
+394
+00:08:43,909 --> 00:08:43,919
+mentioned before this attack is made
+ 
+
+395
+00:08:43,919 --> 00:08:45,910
+mentioned before this attack is made
+using the attacking character's highest
+
+396
+00:08:45,910 --> 00:08:45,920
+using the attacking character's highest
+ 
+
+397
+00:08:45,920 --> 00:08:48,670
+using the attacking character's highest
+bonus and is not affected by or
+
+398
+00:08:48,670 --> 00:08:48,680
+bonus and is not affected by or
+ 
+
+399
+00:08:48,680 --> 00:08:51,269
+bonus and is not affected by or
+contribute to the multiple attack
+
+400
+00:08:51,269 --> 00:08:51,279
+contribute to the multiple attack
+ 
+
+401
+00:08:51,279 --> 00:08:53,670
+contribute to the multiple attack
+penalty this strike is resolved as
+
+402
+00:08:53,670 --> 00:08:53,680
+penalty this strike is resolved as
+ 
+
+403
+00:08:53,680 --> 00:08:55,990
+penalty this strike is resolved as
+normal except if the result is a
+
+404
+00:08:55,990 --> 00:08:56,000
+normal except if the result is a
+ 
+
+405
+00:08:56,000 --> 00:08:58,750
+normal except if the result is a
+critical hit and the reactive strike was
+
+406
+00:08:58,750 --> 00:08:58,760
+critical hit and the reactive strike was
+ 
+
+407
+00:08:58,760 --> 00:09:01,350
+critical hit and the reactive strike was
+triggered by and manipulate action if
+
+408
+00:09:01,350 --> 00:09:01,360
+triggered by and manipulate action if
+ 
+
+409
+00:09:01,360 --> 00:09:03,910
+triggered by and manipulate action if
+that is the case then the action is
+
+410
+00:09:03,910 --> 00:09:03,920
+that is the case then the action is
+ 
+
+411
+00:09:03,920 --> 00:09:06,870
+that is the case then the action is
+disrupted when an action is disrupted
+
+412
+00:09:06,870 --> 00:09:06,880
+disrupted when an action is disrupted
+ 
+
+413
+00:09:06,880 --> 00:09:09,710
+disrupted when an action is disrupted
+all resources and costs associated with
+
+414
+00:09:09,710 --> 00:09:09,720
+all resources and costs associated with
+ 
+
+415
+00:09:09,720 --> 00:09:12,190
+all resources and costs associated with
+that triggering action are still spent
+
+416
+00:09:12,190 --> 00:09:12,200
+that triggering action are still spent
+ 
+
+417
+00:09:12,200 --> 00:09:14,910
+that triggering action are still spent
+but the effect of that action does not
+
+418
+00:09:14,910 --> 00:09:14,920
+but the effect of that action does not
+ 
+
+419
+00:09:14,920 --> 00:09:17,509
+but the effect of that action does not
+occur for example if you're a fighter
+
+420
+00:09:17,509 --> 00:09:17,519
+occur for example if you're a fighter
+ 
+
+421
+00:09:17,519 --> 00:09:19,430
+occur for example if you're a fighter
+and an enemy cast a spell with the
+
+422
+00:09:19,430 --> 00:09:19,440
+and an enemy cast a spell with the
+ 
+
+423
+00:09:19,440 --> 00:09:21,710
+and an enemy cast a spell with the
+manipulate trait while standing in one
+
+424
+00:09:21,710 --> 00:09:21,720
+manipulate trait while standing in one
+ 
+
+425
+00:09:21,720 --> 00:09:23,790
+manipulate trait while standing in one
+of your threatened spaces you could
+
+426
+00:09:23,790 --> 00:09:23,800
+of your threatened spaces you could
+ 
+
+427
+00:09:23,800 --> 00:09:26,590
+of your threatened spaces you could
+spend your reaction that turn to make a
+
+428
+00:09:26,590 --> 00:09:26,600
+spend your reaction that turn to make a
+ 
+
+429
+00:09:26,600 --> 00:09:29,430
+spend your reaction that turn to make a
+reactive strike if the result of that
+
+430
+00:09:29,430 --> 00:09:29,440
+reactive strike if the result of that
+ 
+
+431
+00:09:29,440 --> 00:09:32,150
+reactive strike if the result of that
+attack is a critical hit then not only
+
+432
+00:09:32,150 --> 00:09:32,160
+attack is a critical hit then not only
+ 
+
+433
+00:09:32,160 --> 00:09:34,350
+attack is a critical hit then not only
+do you deal double damage as normal for
+
+434
+00:09:34,350 --> 00:09:34,360
+do you deal double damage as normal for
+ 
+
+435
+00:09:34,360 --> 00:09:37,710
+do you deal double damage as normal for
+a critical hit but you also disrupt that
+
+436
+00:09:37,710 --> 00:09:37,720
+a critical hit but you also disrupt that
+ 
+
+437
+00:09:37,720 --> 00:09:40,630
+a critical hit but you also disrupt that
+spell from being cast the enemy in this
+
+438
+00:09:40,630 --> 00:09:40,640
+spell from being cast the enemy in this
+ 
+
+439
+00:09:40,640 --> 00:09:43,069
+spell from being cast the enemy in this
+case still loses both actions they had
+
+440
+00:09:43,069 --> 00:09:43,079
+case still loses both actions they had
+ 
+
+441
+00:09:43,079 --> 00:09:45,790
+case still loses both actions they had
+invested in casting the spell as well as
+
+442
+00:09:45,790 --> 00:09:45,800
+invested in casting the spell as well as
+ 
+
+443
+00:09:45,800 --> 00:09:48,910
+invested in casting the spell as well as
+the spell slot and any other resources
+
+444
+00:09:48,910 --> 00:09:48,920
+the spell slot and any other resources
+ 
+
+445
+00:09:48,920 --> 00:09:50,949
+the spell slot and any other resources
+that were invested in the casting as
+
+446
+00:09:50,949 --> 00:09:50,959
+that were invested in the casting as
+ 
+
+447
+00:09:50,959 --> 00:09:53,710
+that were invested in the casting as
+usual the only difference is the spell
+
+448
+00:09:53,710 --> 00:09:53,720
+usual the only difference is the spell
+ 
+
+449
+00:09:53,720 --> 00:09:57,190
+usual the only difference is the spell
+effect does not occur in some cases it
+
+450
+00:09:57,190 --> 00:09:57,200
+effect does not occur in some cases it
+ 
+
+451
+00:09:57,200 --> 00:09:59,550
+effect does not occur in some cases it
+may be important to know exactly when
+
+452
+00:09:59,550 --> 00:09:59,560
+may be important to know exactly when
+ 
+
+453
+00:09:59,560 --> 00:10:02,710
+may be important to know exactly when
+the reactive strike occurs for example
+
+454
+00:10:02,710 --> 00:10:02,720
+the reactive strike occurs for example
+ 
+
+455
+00:10:02,720 --> 00:10:05,110
+the reactive strike occurs for example
+if a successful reactive strike results
+
+456
+00:10:05,110 --> 00:10:05,120
+if a successful reactive strike results
+ 
+
+457
+00:10:05,120 --> 00:10:07,350
+if a successful reactive strike results
+in killing an opponent you may need to
+
+458
+00:10:07,350 --> 00:10:07,360
+in killing an opponent you may need to
+ 
+
+459
+00:10:07,360 --> 00:10:10,430
+in killing an opponent you may need to
+know which Square the body occupies if
+
+460
+00:10:10,430 --> 00:10:10,440
+know which Square the body occupies if
+ 
+
+461
+00:10:10,440 --> 00:10:12,509
+know which Square the body occupies if
+the reactive strike is triggered by an
+
+462
+00:10:12,509 --> 00:10:12,519
+the reactive strike is triggered by an
+ 
+
+463
+00:10:12,519 --> 00:10:14,910
+the reactive strike is triggered by an
+enemy moving out of a threatened space
+
+464
+00:10:14,910 --> 00:10:14,920
+enemy moving out of a threatened space
+ 
+
+465
+00:10:14,920 --> 00:10:17,710
+enemy moving out of a threatened space
+the reactive strike occurs immediately
+
+466
+00:10:17,710 --> 00:10:17,720
+the reactive strike occurs immediately
+ 
+
+467
+00:10:17,720 --> 00:10:21,030
+the reactive strike occurs immediately
+effectively before they leave that space
+
+468
+00:10:21,030 --> 00:10:21,040
+effectively before they leave that space
+ 
+
+469
+00:10:21,040 --> 00:10:22,829
+effectively before they leave that space
+if it occurred after they leave the
+
+470
+00:10:22,829 --> 00:10:22,839
+if it occurred after they leave the
+ 
+
+471
+00:10:22,839 --> 00:10:24,750
+if it occurred after they leave the
+space then they would likely be out of
+
+472
+00:10:24,750 --> 00:10:24,760
+space then they would likely be out of
+ 
+
+473
+00:10:24,760 --> 00:10:27,430
+space then they would likely be out of
+range of your attack so if an adjacent
+
+474
+00:10:27,430 --> 00:10:27,440
+range of your attack so if an adjacent
+ 
+
+475
+00:10:27,440 --> 00:10:30,069
+range of your attack so if an adjacent
+enemy uses the stride action to move out
+
+476
+00:10:30,069 --> 00:10:30,079
+enemy uses the stride action to move out
+ 
+
+477
+00:10:30,079 --> 00:10:32,550
+enemy uses the stride action to move out
+of their space you do not wait for that
+
+478
+00:10:32,550 --> 00:10:32,560
+of their space you do not wait for that
+ 
+
+479
+00:10:32,560 --> 00:10:35,110
+of their space you do not wait for that
+action to completely resolve and may
+
+480
+00:10:35,110 --> 00:10:35,120
+action to completely resolve and may
+ 
+
+481
+00:10:35,120 --> 00:10:37,910
+action to completely resolve and may
+attack them immediately but if the
+
+482
+00:10:37,910 --> 00:10:37,920
+attack them immediately but if the
+ 
+
+483
+00:10:37,920 --> 00:10:39,870
+attack them immediately but if the
+reactive strike is triggered by using a
+
+484
+00:10:39,870 --> 00:10:39,880
+reactive strike is triggered by using a
+ 
+
+485
+00:10:39,880 --> 00:10:43,030
+reactive strike is triggered by using a
+move action without leaving their space
+
+486
+00:10:43,030 --> 00:10:43,040
+move action without leaving their space
+ 
+
+487
+00:10:43,040 --> 00:10:45,430
+move action without leaving their space
+then the enemy gets to fully resolve
+
+488
+00:10:45,430 --> 00:10:45,440
+then the enemy gets to fully resolve
+ 
+
+489
+00:10:45,440 --> 00:10:47,870
+then the enemy gets to fully resolve
+that action before the reactive strike
+
+490
+00:10:47,870 --> 00:10:47,880
+that action before the reactive strike
+ 
+
+491
+00:10:47,880 --> 00:10:50,790
+that action before the reactive strike
+occurs for example if an enemy stands
+
+492
+00:10:50,790 --> 00:10:50,800
+occurs for example if an enemy stands
+ 
+
+493
+00:10:50,800 --> 00:10:53,829
+occurs for example if an enemy stands
+from prone they completely stand up
+
+494
+00:10:53,829 --> 00:10:53,839
+from prone they completely stand up
+ 
+
+495
+00:10:53,839 --> 00:10:56,870
+from prone they completely stand up
+before resolving your reactive strike
+
+496
+00:10:56,870 --> 00:10:56,880
+before resolving your reactive strike
+ 
+
+497
+00:10:56,880 --> 00:10:59,030
+before resolving your reactive strike
+this is important when determining if
+
+498
+00:10:59,030 --> 00:10:59,040
+this is important when determining if
+ 
+
+499
+00:10:59,040 --> 00:11:01,310
+this is important when determining if
+the enemy suffers the offguard condition
+
+500
+00:11:01,310 --> 00:11:01,320
+the enemy suffers the offguard condition
+ 
+
+501
+00:11:01,320 --> 00:11:03,470
+the enemy suffers the offguard condition
+from being prone or
+
+502
+00:11:03,470 --> 00:11:03,480
+from being prone or
+ 
+
+503
+00:11:03,480 --> 00:11:05,910
+from being prone or
+not that covers my introduction to
+
+504
+00:11:05,910 --> 00:11:05,920
+not that covers my introduction to
+ 
+
+505
+00:11:05,920 --> 00:11:08,310
+not that covers my introduction to
+reactive strikes but do leave any
+
+506
+00:11:08,310 --> 00:11:08,320
+reactive strikes but do leave any
+ 
+
+507
+00:11:08,320 --> 00:11:10,590
+reactive strikes but do leave any
+questions you have in the comments below
+
+508
+00:11:10,590 --> 00:11:10,600
+questions you have in the comments below
+ 
+
+509
+00:11:10,600 --> 00:11:12,590
+questions you have in the comments below
+and before we close out I do want to say
+
+510
+00:11:12,590 --> 00:11:12,600
+and before we close out I do want to say
+ 
+
+511
+00:11:12,600 --> 00:11:15,069
+and before we close out I do want to say
+thanks to Scuba Steve from my patreon
+
+512
+00:11:15,069 --> 00:11:15,079
+thanks to Scuba Steve from my patreon
+ 
+
+513
+00:11:15,079 --> 00:11:17,310
+thanks to Scuba Steve from my patreon
+who was a big help in researching this
+
+514
+00:11:17,310 --> 00:11:17,320
+who was a big help in researching this
+ 
+
+515
+00:11:17,320 --> 00:11:19,629
+who was a big help in researching this
+topic and I also want to thank everyone
+
+516
+00:11:19,629 --> 00:11:19,639
+topic and I also want to thank everyone
+ 
+
+517
+00:11:19,639 --> 00:11:21,470
+topic and I also want to thank everyone
+who supports me whether that be by
+
+518
+00:11:21,470 --> 00:11:21,480
+who supports me whether that be by
+ 
+
+519
+00:11:21,480 --> 00:11:23,310
+who supports me whether that be by
+clicking the like button leaving a
+
+520
+00:11:23,310 --> 00:11:23,320
+clicking the like button leaving a
+ 
+
+521
+00:11:23,320 --> 00:11:24,990
+clicking the like button leaving a
+comment subscribing to the patreon or
+
+522
+00:11:24,990 --> 00:11:25,000
+comment subscribing to the patreon or
+ 
+
+523
+00:11:25,000 --> 00:11:26,750
+comment subscribing to the patreon or
+buying a super thanks I really
+
+524
+00:11:26,750 --> 00:11:26,760
+buying a super thanks I really
+ 
+
+525
+00:11:26,760 --> 00:11:28,430
+buying a super thanks I really
+appreciate everything you do to support
+
+526
+00:11:28,430 --> 00:11:28,440
+appreciate everything you do to support
+ 
+
+527
+00:11:28,440 --> 00:11:30,949
+appreciate everything you do to support
+me and with that thanks for watching
+
+528
+00:11:30,949 --> 00:11:30,959
+me and with that thanks for watching
+ 
+
+529
+00:11:30,959 --> 00:11:33,430
+me and with that thanks for watching
+take care and happy gaming
+
+530
+00:11:33,430 --> 00:11:33,440
+take care and happy gaming
+ 
+
+531
+00:11:33,440 --> 00:11:47,049
+take care and happy gaming
+[Music]
+

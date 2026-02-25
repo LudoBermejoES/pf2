@@ -1,0 +1,2135 @@
+1
+00:00:00,650 --> 00:00:03,129
+
+hello and welcome to basics for gamers
+
+2
+00:00:03,129 --> 00:00:03,139
+hello and welcome to basics for gamers
+ 
+
+3
+00:00:03,139 --> 00:00:05,499
+hello and welcome to basics for gamers
+presents the basics of detect magic in
+
+4
+00:00:05,499 --> 00:00:05,509
+presents the basics of detect magic in
+ 
+
+5
+00:00:05,509 --> 00:00:09,289
+presents the basics of detect magic in
+read aura in Pathfinder 2nd edition
+
+6
+00:00:09,289 --> 00:00:09,299
+read aura in Pathfinder 2nd edition
+ 
+
+7
+00:00:09,299 --> 00:00:12,499
+read aura in Pathfinder 2nd edition
+the tech magic in reed ora r2 can trips
+
+8
+00:00:12,499 --> 00:00:12,509
+the tech magic in reed ora r2 can trips
+ 
+
+9
+00:00:12,509 --> 00:00:14,990
+the tech magic in reed ora r2 can trips
+that are often and misunderstood before
+
+10
+00:00:14,990 --> 00:00:15,000
+that are often and misunderstood before
+ 
+
+11
+00:00:15,000 --> 00:00:16,519
+that are often and misunderstood before
+getting into the particulars of these
+
+12
+00:00:16,519 --> 00:00:16,529
+getting into the particulars of these
+ 
+
+13
+00:00:16,529 --> 00:00:18,499
+getting into the particulars of these
+spells we need to understand what
+
+14
+00:00:18,499 --> 00:00:18,509
+spells we need to understand what
+ 
+
+15
+00:00:18,509 --> 00:00:21,019
+spells we need to understand what
+exactly it means to be magical in
+
+16
+00:00:21,019 --> 00:00:21,029
+exactly it means to be magical in
+ 
+
+17
+00:00:21,029 --> 00:00:23,990
+exactly it means to be magical in
+Pathfinder anything with the arcane
+
+18
+00:00:23,990 --> 00:00:24,000
+Pathfinder anything with the arcane
+ 
+
+19
+00:00:24,000 --> 00:00:27,799
+Pathfinder anything with the arcane
+divine occult primal or magical traits
+
+20
+00:00:27,799 --> 00:00:27,809
+divine occult primal or magical traits
+ 
+
+21
+00:00:27,809 --> 00:00:30,799
+divine occult primal or magical traits
+is considered to be magic if it doesn't
+
+22
+00:00:30,799 --> 00:00:30,809
+is considered to be magic if it doesn't
+ 
+
+23
+00:00:30,809 --> 00:00:33,080
+is considered to be magic if it doesn't
+have one of those five traits then it's
+
+24
+00:00:33,080 --> 00:00:33,090
+have one of those five traits then it's
+ 
+
+25
+00:00:33,090 --> 00:00:34,279
+have one of those five traits then it's
+not magical
+
+26
+00:00:34,279 --> 00:00:34,289
+not magical
+ 
+
+27
+00:00:34,289 --> 00:00:36,740
+not magical
+for example alchemical items and elixirs
+
+28
+00:00:36,740 --> 00:00:36,750
+for example alchemical items and elixirs
+ 
+
+29
+00:00:36,750 --> 00:00:39,380
+for example alchemical items and elixirs
+those don't have any of those traits
+
+30
+00:00:39,380 --> 00:00:39,390
+those don't have any of those traits
+ 
+
+31
+00:00:39,390 --> 00:00:41,930
+those don't have any of those traits
+therefore they're not magical
+
+32
+00:00:41,930 --> 00:00:41,940
+therefore they're not magical
+ 
+
+33
+00:00:41,940 --> 00:00:45,170
+therefore they're not magical
+at its core casting detect magic answers
+
+34
+00:00:45,170 --> 00:00:45,180
+at its core casting detect magic answers
+ 
+
+35
+00:00:45,180 --> 00:00:48,470
+at its core casting detect magic answers
+a simple yes/no question is there
+
+36
+00:00:48,470 --> 00:00:48,480
+a simple yes/no question is there
+ 
+
+37
+00:00:48,480 --> 00:00:51,080
+a simple yes/no question is there
+anything magical within 30 feet of me
+
+38
+00:00:51,080 --> 00:00:51,090
+anything magical within 30 feet of me
+ 
+
+39
+00:00:51,090 --> 00:00:53,540
+anything magical within 30 feet of me
+and that's it that's all it does it
+
+40
+00:00:53,540 --> 00:00:53,550
+and that's it that's all it does it
+ 
+
+41
+00:00:53,550 --> 00:00:55,940
+and that's it that's all it does it
+doesn't tell you what object is magical
+
+42
+00:00:55,940 --> 00:00:55,950
+doesn't tell you what object is magical
+ 
+
+43
+00:00:55,950 --> 00:00:58,670
+doesn't tell you what object is magical
+or in what direction the magical object
+
+44
+00:00:58,670 --> 00:00:58,680
+or in what direction the magical object
+ 
+
+45
+00:00:58,680 --> 00:01:01,520
+or in what direction the magical object
+is or if it is powerful magic or weak
+
+46
+00:01:01,520 --> 00:01:01,530
+is or if it is powerful magic or weak
+ 
+
+47
+00:01:01,530 --> 00:01:03,620
+is or if it is powerful magic or weak
+magic or how many different magical
+
+48
+00:01:03,620 --> 00:01:03,630
+magic or how many different magical
+ 
+
+49
+00:01:03,630 --> 00:01:06,530
+magic or how many different magical
+objects there are or anything else it
+
+50
+00:01:06,530 --> 00:01:06,540
+objects there are or anything else it
+ 
+
+51
+00:01:06,540 --> 00:01:09,859
+objects there are or anything else it
+only tells you yes or no is there
+
+52
+00:01:09,859 --> 00:01:09,869
+only tells you yes or no is there
+ 
+
+53
+00:01:09,869 --> 00:01:12,940
+only tells you yes or no is there
+something magical within 30 feet of you
+
+54
+00:01:12,940 --> 00:01:12,950
+something magical within 30 feet of you
+ 
+
+55
+00:01:12,950 --> 00:01:15,489
+something magical within 30 feet of you
+when he cast it you can choose to ignore
+
+56
+00:01:15,489 --> 00:01:15,499
+when he cast it you can choose to ignore
+ 
+
+57
+00:01:15,499 --> 00:01:17,870
+when he cast it you can choose to ignore
+anything you already know that is
+
+58
+00:01:17,870 --> 00:01:17,880
+anything you already know that is
+ 
+
+59
+00:01:17,880 --> 00:01:20,330
+anything you already know that is
+magical for example in a year that you
+
+60
+00:01:20,330 --> 00:01:20,340
+magical for example in a year that you
+ 
+
+61
+00:01:20,340 --> 00:01:22,940
+magical for example in a year that you
+or your friends are caring as long as
+
+62
+00:01:22,940 --> 00:01:22,950
+or your friends are caring as long as
+ 
+
+63
+00:01:22,950 --> 00:01:25,160
+or your friends are caring as long as
+you know it's there and it's magical
+
+64
+00:01:25,160 --> 00:01:25,170
+you know it's there and it's magical
+ 
+
+65
+00:01:25,170 --> 00:01:27,469
+you know it's there and it's magical
+then you can choose to ignore those from
+
+66
+00:01:27,469 --> 00:01:27,479
+then you can choose to ignore those from
+ 
+
+67
+00:01:27,479 --> 00:01:29,529
+then you can choose to ignore those from
+the results when casting to take magic
+
+68
+00:01:29,529 --> 00:01:29,539
+the results when casting to take magic
+ 
+
+69
+00:01:29,539 --> 00:01:32,599
+the results when casting to take magic
+because it's a can trip the tech magic
+
+70
+00:01:32,599 --> 00:01:32,609
+because it's a can trip the tech magic
+ 
+
+71
+00:01:32,609 --> 00:01:34,730
+because it's a can trip the tech magic
+is always heightened to have your level
+
+72
+00:01:34,730 --> 00:01:34,740
+is always heightened to have your level
+ 
+
+73
+00:01:34,740 --> 00:01:37,370
+is always heightened to have your level
+rounded up and this creates a few more
+
+74
+00:01:37,370 --> 00:01:37,380
+rounded up and this creates a few more
+ 
+
+75
+00:01:37,380 --> 00:01:40,309
+rounded up and this creates a few more
+options as is cast at higher levels when
+
+76
+00:01:40,309 --> 00:01:40,319
+options as is cast at higher levels when
+ 
+
+77
+00:01:40,319 --> 00:01:43,010
+options as is cast at higher levels when
+cast at third level you learn the school
+
+78
+00:01:43,010 --> 00:01:43,020
+cast at third level you learn the school
+ 
+
+79
+00:01:43,020 --> 00:01:45,289
+cast at third level you learn the school
+of magic for the single highest level
+
+80
+00:01:45,289 --> 00:01:45,299
+of magic for the single highest level
+ 
+
+81
+00:01:45,299 --> 00:01:47,959
+of magic for the single highest level
+effect within range so if there is a
+
+82
+00:01:47,959 --> 00:01:47,969
+effect within range so if there is a
+ 
+
+83
+00:01:47,969 --> 00:01:50,269
+effect within range so if there is a
+mage with Faust life heightened the
+
+84
+00:01:50,269 --> 00:01:50,279
+mage with Faust life heightened the
+ 
+
+85
+00:01:50,279 --> 00:01:52,789
+mage with Faust life heightened the
+fourth level cast on it a first level
+
+86
+00:01:52,789 --> 00:01:52,799
+fourth level cast on it a first level
+ 
+
+87
+00:01:52,799 --> 00:01:55,279
+fourth level cast on it a first level
+magic wand hidden behind a bookshelf and
+
+88
+00:01:55,279 --> 00:01:55,289
+magic wand hidden behind a bookshelf and
+ 
+
+89
+00:01:55,289 --> 00:01:58,249
+magic wand hidden behind a bookshelf and
+a third level doppelganger pretending to
+
+90
+00:01:58,249 --> 00:01:58,259
+a third level doppelganger pretending to
+ 
+
+91
+00:01:58,259 --> 00:02:01,609
+a third level doppelganger pretending to
+be a dwarf all within 30 feet of you the
+
+92
+00:02:01,609 --> 00:02:01,619
+be a dwarf all within 30 feet of you the
+ 
+
+93
+00:02:01,619 --> 00:02:04,069
+be a dwarf all within 30 feet of you the
+tech magic will tell you the school of
+
+94
+00:02:04,069 --> 00:02:04,079
+tech magic will tell you the school of
+ 
+
+95
+00:02:04,079 --> 00:02:06,729
+tech magic will tell you the school of
+the highest level of those but that's it
+
+96
+00:02:06,729 --> 00:02:06,739
+the highest level of those but that's it
+ 
+
+97
+00:02:06,739 --> 00:02:09,440
+the highest level of those but that's it
+you would cast it and the GM would tell
+
+98
+00:02:09,440 --> 00:02:09,450
+you would cast it and the GM would tell
+ 
+
+99
+00:02:09,450 --> 00:02:13,330
+you would cast it and the GM would tell
+you you since necromancy and that's it
+
+100
+00:02:13,330 --> 00:02:13,340
+you you since necromancy and that's it
+ 
+
+101
+00:02:13,340 --> 00:02:16,100
+you you since necromancy and that's it
+necromancy because the highest level
+
+102
+00:02:16,100 --> 00:02:16,110
+necromancy because the highest level
+ 
+
+103
+00:02:16,110 --> 00:02:19,010
+necromancy because the highest level
+effect here is false life which belongs
+
+104
+00:02:19,010 --> 00:02:19,020
+effect here is false life which belongs
+ 
+
+105
+00:02:19,020 --> 00:02:21,980
+effect here is false life which belongs
+to the necromancy school of magic detect
+
+106
+00:02:21,980 --> 00:02:21,990
+to the necromancy school of magic detect
+ 
+
+107
+00:02:21,990 --> 00:02:22,790
+to the necromancy school of magic detect
+magic wood
+
+108
+00:02:22,790 --> 00:02:22,800
+magic wood
+ 
+
+109
+00:02:22,800 --> 00:02:26,150
+magic wood
+reveal any other information like you've
+
+110
+00:02:26,150 --> 00:02:26,160
+reveal any other information like you've
+ 
+
+111
+00:02:26,160 --> 00:02:28,370
+reveal any other information like you've
+sensed three magical sources but the
+
+112
+00:02:28,370 --> 00:02:28,380
+sensed three magical sources but the
+ 
+
+113
+00:02:28,380 --> 00:02:31,670
+sensed three magical sources but the
+strongest is necromancy effectively the
+
+114
+00:02:31,670 --> 00:02:31,680
+strongest is necromancy effectively the
+ 
+
+115
+00:02:31,680 --> 00:02:34,220
+strongest is necromancy effectively the
+two weaker magical sources are smothered
+
+116
+00:02:34,220 --> 00:02:34,230
+two weaker magical sources are smothered
+ 
+
+117
+00:02:34,230 --> 00:02:37,180
+two weaker magical sources are smothered
+by false life and don't register at all
+
+118
+00:02:37,180 --> 00:02:37,190
+by false life and don't register at all
+ 
+
+119
+00:02:37,190 --> 00:02:40,400
+by false life and don't register at all
+and if the tech magic is heightened to
+
+120
+00:02:40,400 --> 00:02:40,410
+and if the tech magic is heightened to
+ 
+
+121
+00:02:40,410 --> 00:02:43,220
+and if the tech magic is heightened to
+fourth level you know what square the
+
+122
+00:02:43,220 --> 00:02:43,230
+fourth level you know what square the
+ 
+
+123
+00:02:43,230 --> 00:02:45,710
+fourth level you know what square the
+source of the single highest level magic
+
+124
+00:02:45,710 --> 00:02:45,720
+source of the single highest level magic
+ 
+
+125
+00:02:45,720 --> 00:02:49,220
+source of the single highest level magic
+is so using the previous example the GM
+
+126
+00:02:49,220 --> 00:02:49,230
+is so using the previous example the GM
+ 
+
+127
+00:02:49,230 --> 00:02:52,010
+is so using the previous example the GM
+would say you sense necromantic magic
+
+128
+00:02:52,010 --> 00:02:52,020
+would say you sense necromantic magic
+ 
+
+129
+00:02:52,020 --> 00:02:54,710
+would say you sense necromantic magic
+coming from this square and point to
+
+130
+00:02:54,710 --> 00:02:54,720
+coming from this square and point to
+ 
+
+131
+00:02:54,720 --> 00:02:57,200
+coming from this square and point to
+where the made to standing detect magic
+
+132
+00:02:57,200 --> 00:02:57,210
+where the made to standing detect magic
+ 
+
+133
+00:02:57,210 --> 00:02:59,540
+where the made to standing detect magic
+won't tell you what in that square is
+
+134
+00:02:59,540 --> 00:02:59,550
+won't tell you what in that square is
+ 
+
+135
+00:02:59,550 --> 00:03:02,420
+won't tell you what in that square is
+radiating necromantic energy it could be
+
+136
+00:03:02,420 --> 00:03:02,430
+radiating necromantic energy it could be
+ 
+
+137
+00:03:02,430 --> 00:03:04,970
+radiating necromantic energy it could be
+the mage a spell cast on the mage an
+
+138
+00:03:04,970 --> 00:03:04,980
+the mage a spell cast on the mage an
+ 
+
+139
+00:03:04,980 --> 00:03:07,430
+the mage a spell cast on the mage an
+item the mage is wearing or something
+
+140
+00:03:07,430 --> 00:03:07,440
+item the mage is wearing or something
+ 
+
+141
+00:03:07,440 --> 00:03:10,970
+item the mage is wearing or something
+else and even heightened to fourth level
+
+142
+00:03:10,970 --> 00:03:10,980
+else and even heightened to fourth level
+ 
+
+143
+00:03:10,980 --> 00:03:12,830
+else and even heightened to fourth level
+detect magic will only provide
+
+144
+00:03:12,830 --> 00:03:12,840
+detect magic will only provide
+ 
+
+145
+00:03:12,840 --> 00:03:15,080
+detect magic will only provide
+information about the single highest
+
+146
+00:03:15,080 --> 00:03:15,090
+information about the single highest
+ 
+
+147
+00:03:15,090 --> 00:03:18,800
+information about the single highest
+level source of magic again everything
+
+148
+00:03:18,800 --> 00:03:18,810
+level source of magic again everything
+ 
+
+149
+00:03:18,810 --> 00:03:21,590
+level source of magic again everything
+else is smothered and is not detected by
+
+150
+00:03:21,590 --> 00:03:21,600
+else is smothered and is not detected by
+ 
+
+151
+00:03:21,600 --> 00:03:24,080
+else is smothered and is not detected by
+the Spill
+
+152
+00:03:24,080 --> 00:03:24,090
+the Spill
+ 
+
+153
+00:03:24,090 --> 00:03:26,839
+the Spill
+there are two important limitations to
+
+154
+00:03:26,839 --> 00:03:26,849
+there are two important limitations to
+ 
+
+155
+00:03:26,849 --> 00:03:28,220
+there are two important limitations to
+detect magic that are worth discussing
+
+156
+00:03:28,220 --> 00:03:28,230
+detect magic that are worth discussing
+ 
+
+157
+00:03:28,230 --> 00:03:31,970
+detect magic that are worth discussing
+the first of those is illusions illusion
+
+158
+00:03:31,970 --> 00:03:31,980
+the first of those is illusions illusion
+ 
+
+159
+00:03:31,980 --> 00:03:34,339
+the first of those is illusions illusion
+magic of a level equal to are greater
+
+160
+00:03:34,339 --> 00:03:34,349
+magic of a level equal to are greater
+ 
+
+161
+00:03:34,349 --> 00:03:36,199
+magic of a level equal to are greater
+than the level that you cast to take
+
+162
+00:03:36,199 --> 00:03:36,209
+than the level that you cast to take
+ 
+
+163
+00:03:36,209 --> 00:03:39,259
+than the level that you cast to take
+magic at will not register so for
+
+164
+00:03:39,259 --> 00:03:39,269
+magic at will not register so for
+ 
+
+165
+00:03:39,269 --> 00:03:41,539
+magic at will not register so for
+example you cast to take magic and there
+
+166
+00:03:41,539 --> 00:03:41,549
+example you cast to take magic and there
+ 
+
+167
+00:03:41,549 --> 00:03:43,580
+example you cast to take magic and there
+is an invisible creature in the room if
+
+168
+00:03:43,580 --> 00:03:43,590
+is an invisible creature in the room if
+ 
+
+169
+00:03:43,590 --> 00:03:46,400
+is an invisible creature in the room if
+the effect level of that creatures and
+
+170
+00:03:46,400 --> 00:03:46,410
+the effect level of that creatures and
+ 
+
+171
+00:03:46,410 --> 00:03:49,460
+the effect level of that creatures and
+visibility is equal to or greater than
+
+172
+00:03:49,460 --> 00:03:49,470
+visibility is equal to or greater than
+ 
+
+173
+00:03:49,470 --> 00:03:51,979
+visibility is equal to or greater than
+the level that you cast to take magic at
+
+174
+00:03:51,979 --> 00:03:51,989
+the level that you cast to take magic at
+ 
+
+175
+00:03:51,989 --> 00:03:54,380
+the level that you cast to take magic at
+then you will not detect the invisible
+
+176
+00:03:54,380 --> 00:03:54,390
+then you will not detect the invisible
+ 
+
+177
+00:03:54,390 --> 00:03:56,990
+then you will not detect the invisible
+creature and of course there is an
+
+178
+00:03:56,990 --> 00:03:57,000
+creature and of course there is an
+ 
+
+179
+00:03:57,000 --> 00:03:59,420
+creature and of course there is an
+exception to this rule if the source of
+
+180
+00:03:59,420 --> 00:03:59,430
+exception to this rule if the source of
+ 
+
+181
+00:03:59,430 --> 00:04:02,059
+exception to this rule if the source of
+the illusion magic is an item and that
+
+182
+00:04:02,059 --> 00:04:02,069
+the illusion magic is an item and that
+ 
+
+183
+00:04:02,069 --> 00:04:04,670
+the illusion magic is an item and that
+item is not using illusion magic to hide
+
+184
+00:04:04,670 --> 00:04:04,680
+item is not using illusion magic to hide
+ 
+
+185
+00:04:04,680 --> 00:04:07,880
+item is not using illusion magic to hide
+its appearance then it will register
+
+186
+00:04:07,880 --> 00:04:07,890
+its appearance then it will register
+ 
+
+187
+00:04:07,890 --> 00:04:10,280
+its appearance then it will register
+with the tag magic regardless of its
+
+188
+00:04:10,280 --> 00:04:10,290
+with the tag magic regardless of its
+ 
+
+189
+00:04:10,290 --> 00:04:13,130
+with the tag magic regardless of its
+level just like any other item so for
+
+190
+00:04:13,130 --> 00:04:13,140
+level just like any other item so for
+ 
+
+191
+00:04:13,140 --> 00:04:16,159
+level just like any other item so for
+example a wand of GU sound it has an
+
+192
+00:04:16,159 --> 00:04:16,169
+example a wand of GU sound it has an
+ 
+
+193
+00:04:16,169 --> 00:04:18,500
+example a wand of GU sound it has an
+illusion aura because ghosts sound is an
+
+194
+00:04:18,500 --> 00:04:18,510
+illusion aura because ghosts sound is an
+ 
+
+195
+00:04:18,510 --> 00:04:21,289
+illusion aura because ghosts sound is an
+illusion school spell but that would not
+
+196
+00:04:21,289 --> 00:04:21,299
+illusion school spell but that would not
+ 
+
+197
+00:04:21,299 --> 00:04:23,120
+illusion school spell but that would not
+prevent the woman from being found by
+
+198
+00:04:23,120 --> 00:04:23,130
+prevent the woman from being found by
+ 
+
+199
+00:04:23,130 --> 00:04:26,029
+prevent the woman from being found by
+the tech magic but instead think of a
+
+200
+00:04:26,029 --> 00:04:26,039
+the tech magic but instead think of a
+ 
+
+201
+00:04:26,039 --> 00:04:28,279
+the tech magic but instead think of a
+sword that is under a magical effect
+
+202
+00:04:28,279 --> 00:04:28,289
+sword that is under a magical effect
+ 
+
+203
+00:04:28,289 --> 00:04:31,129
+sword that is under a magical effect
+that makes a look like a common stick in
+
+204
+00:04:31,129 --> 00:04:31,139
+that makes a look like a common stick in
+ 
+
+205
+00:04:31,139 --> 00:04:33,710
+that makes a look like a common stick in
+that case the sword would not be
+
+206
+00:04:33,710 --> 00:04:33,720
+that case the sword would not be
+ 
+
+207
+00:04:33,720 --> 00:04:36,140
+that case the sword would not be
+registered by 2 Technic unless the
+
+208
+00:04:36,140 --> 00:04:36,150
+registered by 2 Technic unless the
+ 
+
+209
+00:04:36,150 --> 00:04:38,510
+registered by 2 Technic unless the
+effect that hides it is a lower level
+
+210
+00:04:38,510 --> 00:04:38,520
+effect that hides it is a lower level
+ 
+
+211
+00:04:38,520 --> 00:04:42,500
+effect that hides it is a lower level
+then you cast a tech magic act and the
+
+212
+00:04:42,500 --> 00:04:42,510
+then you cast a tech magic act and the
+ 
+
+213
+00:04:42,510 --> 00:04:44,570
+then you cast a tech magic act and the
+second limitation to detect magic that
+
+214
+00:04:44,570 --> 00:04:44,580
+second limitation to detect magic that
+ 
+
+215
+00:04:44,580 --> 00:04:47,540
+second limitation to detect magic that
+we need to talk about is traps when you
+
+216
+00:04:47,540 --> 00:04:47,550
+we need to talk about is traps when you
+ 
+
+217
+00:04:47,550 --> 00:04:50,210
+we need to talk about is traps when you
+look at the stats for a trap you'll see
+
+218
+00:04:50,210 --> 00:04:50,220
+look at the stats for a trap you'll see
+ 
+
+219
+00:04:50,220 --> 00:04:53,240
+look at the stats for a trap you'll see
+a line at the top with the stealth DC to
+
+220
+00:04:53,240 --> 00:04:53,250
+a line at the top with the stealth DC to
+ 
+
+221
+00:04:53,250 --> 00:04:56,180
+a line at the top with the stealth DC to
+spot it this may or may not also include
+
+222
+00:04:56,180 --> 00:04:56,190
+spot it this may or may not also include
+ 
+
+223
+00:04:56,190 --> 00:04:58,310
+spot it this may or may not also include
+a minimum proficiency level in
+
+224
+00:04:58,310 --> 00:04:58,320
+a minimum proficiency level in
+ 
+
+225
+00:04:58,320 --> 00:05:01,580
+a minimum proficiency level in
+perception so here for example it says a
+
+226
+00:05:01,580 --> 00:05:01,590
+perception so here for example it says a
+ 
+
+227
+00:05:01,590 --> 00:05:04,520
+perception so here for example it says a
+Pharaohs word trap has a stealth DC of
+
+228
+00:05:04,520 --> 00:05:04,530
+Pharaohs word trap has a stealth DC of
+ 
+
+229
+00:05:04,530 --> 00:05:09,230
+Pharaohs word trap has a stealth DC of
+25 expert if there is any proficiency
+
+230
+00:05:09,230 --> 00:05:09,240
+25 expert if there is any proficiency
+ 
+
+231
+00:05:09,240 --> 00:05:12,700
+25 expert if there is any proficiency
+requirement listed then it is absolutely
+
+232
+00:05:12,700 --> 00:05:12,710
+requirement listed then it is absolutely
+ 
+
+233
+00:05:12,710 --> 00:05:15,940
+requirement listed then it is absolutely
+impossible to detect with detect magic
+
+234
+00:05:15,940 --> 00:05:15,950
+impossible to detect with detect magic
+ 
+
+235
+00:05:15,950 --> 00:05:19,250
+impossible to detect with detect magic
+so in this case even if you are
+
+236
+00:05:19,250 --> 00:05:19,260
+so in this case even if you are
+ 
+
+237
+00:05:19,260 --> 00:05:21,230
+so in this case even if you are
+legendary in spell casting and you
+
+238
+00:05:21,230 --> 00:05:21,240
+legendary in spell casting and you
+ 
+
+239
+00:05:21,240 --> 00:05:22,940
+legendary in spell casting and you
+heighten the tech magic to ninth level
+
+240
+00:05:22,940 --> 00:05:22,950
+heighten the tech magic to ninth level
+ 
+
+241
+00:05:22,950 --> 00:05:26,990
+heighten the tech magic to ninth level
+this trap will still not register to
+
+242
+00:05:26,990 --> 00:05:27,000
+this trap will still not register to
+ 
+
+243
+00:05:27,000 --> 00:05:28,770
+this trap will still not register to
+detect magic
+
+244
+00:05:28,770 --> 00:05:28,780
+detect magic
+ 
+
+245
+00:05:28,780 --> 00:05:31,440
+detect magic
+a bottomless pit on the other hand has
+
+246
+00:05:31,440 --> 00:05:31,450
+a bottomless pit on the other hand has
+ 
+
+247
+00:05:31,450 --> 00:05:33,990
+a bottomless pit on the other hand has
+no minimum proficiency requirement to
+
+248
+00:05:33,990 --> 00:05:34,000
+no minimum proficiency requirement to
+ 
+
+249
+00:05:34,000 --> 00:05:36,390
+no minimum proficiency requirement to
+notice and even goose the extra step of
+
+250
+00:05:36,390 --> 00:05:36,400
+notice and even goose the extra step of
+ 
+
+251
+00:05:36,400 --> 00:05:38,909
+notice and even goose the extra step of
+specifically saying that it take magic
+
+252
+00:05:38,909 --> 00:05:38,919
+specifically saying that it take magic
+ 
+
+253
+00:05:38,919 --> 00:05:41,850
+specifically saying that it take magic
+will work on it but even then the spell
+
+254
+00:05:41,850 --> 00:05:41,860
+will work on it but even then the spell
+ 
+
+255
+00:05:41,860 --> 00:05:44,310
+will work on it but even then the spell
+will only tell you that there is magic
+
+256
+00:05:44,310 --> 00:05:44,320
+will only tell you that there is magic
+ 
+
+257
+00:05:44,320 --> 00:05:47,580
+will only tell you that there is magic
+within 30 feet unless you heighten it to
+
+258
+00:05:47,580 --> 00:05:47,590
+within 30 feet unless you heighten it to
+ 
+
+259
+00:05:47,590 --> 00:05:49,800
+within 30 feet unless you heighten it to
+fourth level it will not provide any
+
+260
+00:05:49,800 --> 00:05:49,810
+fourth level it will not provide any
+ 
+
+261
+00:05:49,810 --> 00:05:54,100
+fourth level it will not provide any
+information about the traps location
+
+262
+00:05:54,100 --> 00:05:54,110
+information about the traps location
+ 
+
+263
+00:05:54,110 --> 00:05:57,010
+information about the traps location
+so if detect magic only tells you if
+
+264
+00:05:57,010 --> 00:05:57,020
+so if detect magic only tells you if
+ 
+
+265
+00:05:57,020 --> 00:06:00,309
+so if detect magic only tells you if
+there is magic within 30 feet of you how
+
+266
+00:06:00,309 --> 00:06:00,319
+there is magic within 30 feet of you how
+ 
+
+267
+00:06:00,319 --> 00:06:02,830
+there is magic within 30 feet of you how
+do you know if something specific is
+
+268
+00:06:02,830 --> 00:06:02,840
+do you know if something specific is
+ 
+
+269
+00:06:02,840 --> 00:06:05,980
+do you know if something specific is
+magical that's where you would use read
+
+270
+00:06:05,980 --> 00:06:05,990
+magical that's where you would use read
+ 
+
+271
+00:06:05,990 --> 00:06:08,920
+magical that's where you would use read
+aura detect magic gives you very
+
+272
+00:06:08,920 --> 00:06:08,930
+aura detect magic gives you very
+ 
+
+273
+00:06:08,930 --> 00:06:12,100
+aura detect magic gives you very
+imprecise information about a large area
+
+274
+00:06:12,100 --> 00:06:12,110
+imprecise information about a large area
+ 
+
+275
+00:06:12,110 --> 00:06:15,129
+imprecise information about a large area
+but read aura grants specific
+
+276
+00:06:15,129 --> 00:06:15,139
+but read aura grants specific
+ 
+
+277
+00:06:15,139 --> 00:06:17,589
+but read aura grants specific
+information about a single targeted
+
+278
+00:06:17,589 --> 00:06:17,599
+information about a single targeted
+ 
+
+279
+00:06:17,599 --> 00:06:20,830
+information about a single targeted
+object read aura is a can trip and
+
+280
+00:06:20,830 --> 00:06:20,840
+object read aura is a can trip and
+ 
+
+281
+00:06:20,840 --> 00:06:23,260
+object read aura is a can trip and
+requires one minute to cast after
+
+282
+00:06:23,260 --> 00:06:23,270
+requires one minute to cast after
+ 
+
+283
+00:06:23,270 --> 00:06:25,570
+requires one minute to cast after
+casting it will tell you if the targeted
+
+284
+00:06:25,570 --> 00:06:25,580
+casting it will tell you if the targeted
+ 
+
+285
+00:06:25,580 --> 00:06:28,089
+casting it will tell you if the targeted
+object is magical and if so you will
+
+286
+00:06:28,089 --> 00:06:28,099
+object is magical and if so you will
+ 
+
+287
+00:06:28,099 --> 00:06:31,300
+object is magical and if so you will
+also learn is school of magic this is an
+
+288
+00:06:31,300 --> 00:06:31,310
+also learn is school of magic this is an
+ 
+
+289
+00:06:31,310 --> 00:06:33,430
+also learn is school of magic this is an
+excellent first step in identifying
+
+290
+00:06:33,430 --> 00:06:33,440
+excellent first step in identifying
+ 
+
+291
+00:06:33,440 --> 00:06:35,709
+excellent first step in identifying
+magical items since you cannot identify
+
+292
+00:06:35,709 --> 00:06:35,719
+magical items since you cannot identify
+ 
+
+293
+00:06:35,719 --> 00:06:38,140
+magical items since you cannot identify
+a magic item until you know for certain
+
+294
+00:06:38,140 --> 00:06:38,150
+a magic item until you know for certain
+ 
+
+295
+00:06:38,150 --> 00:06:40,959
+a magic item until you know for certain
+that it is magical if heightened the
+
+296
+00:06:40,959 --> 00:06:40,969
+that it is magical if heightened the
+ 
+
+297
+00:06:40,969 --> 00:06:43,659
+that it is magical if heightened the
+third level one casting of red aura can
+
+298
+00:06:43,659 --> 00:06:43,669
+third level one casting of red aura can
+ 
+
+299
+00:06:43,669 --> 00:06:45,730
+third level one casting of red aura can
+reveal information about ten different
+
+300
+00:06:45,730 --> 00:06:45,740
+reveal information about ten different
+ 
+
+301
+00:06:45,740 --> 00:06:49,240
+reveal information about ten different
+objects and a sixth level it will reveal
+
+302
+00:06:49,240 --> 00:06:49,250
+objects and a sixth level it will reveal
+ 
+
+303
+00:06:49,250 --> 00:06:51,580
+objects and a sixth level it will reveal
+information about all the objects within
+
+304
+00:06:51,580 --> 00:06:51,590
+information about all the objects within
+ 
+
+305
+00:06:51,590 --> 00:06:54,490
+information about all the objects within
+range of the spell but note that since
+
+306
+00:06:54,490 --> 00:06:54,500
+range of the spell but note that since
+ 
+
+307
+00:06:54,500 --> 00:06:57,100
+range of the spell but note that since
+you target objects with the spell you
+
+308
+00:06:57,100 --> 00:06:57,110
+you target objects with the spell you
+ 
+
+309
+00:06:57,110 --> 00:06:59,409
+you target objects with the spell you
+have to know the objects are there
+
+310
+00:06:59,409 --> 00:06:59,419
+have to know the objects are there
+ 
+
+311
+00:06:59,419 --> 00:07:01,809
+have to know the objects are there
+before you can use read aura on them
+
+312
+00:07:01,809 --> 00:07:01,819
+before you can use read aura on them
+ 
+
+313
+00:07:01,819 --> 00:07:04,510
+before you can use read aura on them
+therefore this is not a replacement for
+
+314
+00:07:04,510 --> 00:07:04,520
+therefore this is not a replacement for
+ 
+
+315
+00:07:04,520 --> 00:07:06,820
+therefore this is not a replacement for
+detect magic and could it be used to
+
+316
+00:07:06,820 --> 00:07:06,830
+detect magic and could it be used to
+ 
+
+317
+00:07:06,830 --> 00:07:10,149
+detect magic and could it be used to
+find a hidden magical trap and like the
+
+318
+00:07:10,149 --> 00:07:10,159
+find a hidden magical trap and like the
+ 
+
+319
+00:07:10,159 --> 00:07:12,850
+find a hidden magical trap and like the
+tech magic read aura is also limited by
+
+320
+00:07:12,850 --> 00:07:12,860
+tech magic read aura is also limited by
+ 
+
+321
+00:07:12,860 --> 00:07:15,640
+tech magic read aura is also limited by
+illusions if the illusions effect level
+
+322
+00:07:15,640 --> 00:07:15,650
+illusions if the illusions effect level
+ 
+
+323
+00:07:15,650 --> 00:07:17,950
+illusions if the illusions effect level
+is equal to or higher than the level
+
+324
+00:07:17,950 --> 00:07:17,960
+is equal to or higher than the level
+ 
+
+325
+00:07:17,960 --> 00:07:20,409
+is equal to or higher than the level
+that read aura is cast at then it does
+
+326
+00:07:20,409 --> 00:07:20,419
+that read aura is cast at then it does
+ 
+
+327
+00:07:20,419 --> 00:07:24,990
+that read aura is cast at then it does
+not reveal any information to the caster
+
+328
+00:07:24,990 --> 00:07:25,000
+not reveal any information to the caster
+ 
+
+329
+00:07:25,000 --> 00:07:27,030
+not reveal any information to the caster
+in this video we discussed the canned
+
+330
+00:07:27,030 --> 00:07:27,040
+in this video we discussed the canned
+ 
+
+331
+00:07:27,040 --> 00:07:30,180
+in this video we discussed the canned
+trips detect magic in read aura detect
+
+332
+00:07:30,180 --> 00:07:30,190
+trips detect magic in read aura detect
+ 
+
+333
+00:07:30,190 --> 00:07:32,880
+trips detect magic in read aura detect
+magic is a spell that when cast answers
+
+334
+00:07:32,880 --> 00:07:32,890
+magic is a spell that when cast answers
+ 
+
+335
+00:07:32,890 --> 00:07:34,770
+magic is a spell that when cast answers
+one simple question
+
+336
+00:07:34,770 --> 00:07:34,780
+one simple question
+ 
+
+337
+00:07:34,780 --> 00:07:37,680
+one simple question
+is there anything magical within 30 feet
+
+338
+00:07:37,680 --> 00:07:37,690
+is there anything magical within 30 feet
+ 
+
+339
+00:07:37,690 --> 00:07:40,920
+is there anything magical within 30 feet
+of me yes or no if it's heightened a
+
+340
+00:07:40,920 --> 00:07:40,930
+of me yes or no if it's heightened a
+ 
+
+341
+00:07:40,930 --> 00:07:43,290
+of me yes or no if it's heightened a
+third level it will also tell you the
+
+342
+00:07:43,290 --> 00:07:43,300
+third level it will also tell you the
+ 
+
+343
+00:07:43,300 --> 00:07:45,420
+third level it will also tell you the
+school of magic for the single highest
+
+344
+00:07:45,420 --> 00:07:45,430
+school of magic for the single highest
+ 
+
+345
+00:07:45,430 --> 00:07:47,670
+school of magic for the single highest
+level effect in the area and if
+
+346
+00:07:47,670 --> 00:07:47,680
+level effect in the area and if
+ 
+
+347
+00:07:47,680 --> 00:07:49,590
+level effect in the area and if
+heightened the fourth level it will tell
+
+348
+00:07:49,590 --> 00:07:49,600
+heightened the fourth level it will tell
+ 
+
+349
+00:07:49,600 --> 00:07:52,100
+heightened the fourth level it will tell
+you which square that effect is in
+
+350
+00:07:52,100 --> 00:07:52,110
+you which square that effect is in
+ 
+
+351
+00:07:52,110 --> 00:07:55,290
+you which square that effect is in
+detect magic cannot detect any illusions
+
+352
+00:07:55,290 --> 00:07:55,300
+detect magic cannot detect any illusions
+ 
+
+353
+00:07:55,300 --> 00:07:57,900
+detect magic cannot detect any illusions
+that are its effect level or higher and
+
+354
+00:07:57,900 --> 00:07:57,910
+that are its effect level or higher and
+ 
+
+355
+00:07:57,910 --> 00:08:00,840
+that are its effect level or higher and
+if a magical trap has any proficiency
+
+356
+00:08:00,840 --> 00:08:00,850
+if a magical trap has any proficiency
+ 
+
+357
+00:08:00,850 --> 00:08:03,360
+if a magical trap has any proficiency
+level listed in a stealth entry then
+
+358
+00:08:03,360 --> 00:08:03,370
+level listed in a stealth entry then
+ 
+
+359
+00:08:03,370 --> 00:08:05,940
+level listed in a stealth entry then
+that trap cannot be found with detect
+
+360
+00:08:05,940 --> 00:08:05,950
+that trap cannot be found with detect
+ 
+
+361
+00:08:05,950 --> 00:08:09,210
+that trap cannot be found with detect
+magic read aura target specific objects
+
+362
+00:08:09,210 --> 00:08:09,220
+magic read aura target specific objects
+ 
+
+363
+00:08:09,220 --> 00:08:11,909
+magic read aura target specific objects
+instead of an area when cast it will
+
+364
+00:08:11,909 --> 00:08:11,919
+instead of an area when cast it will
+ 
+
+365
+00:08:11,919 --> 00:08:14,370
+instead of an area when cast it will
+reveal if the object is magical and if
+
+366
+00:08:14,370 --> 00:08:14,380
+reveal if the object is magical and if
+ 
+
+367
+00:08:14,380 --> 00:08:16,530
+reveal if the object is magical and if
+so will also tell you which school of
+
+368
+00:08:16,530 --> 00:08:16,540
+so will also tell you which school of
+ 
+
+369
+00:08:16,540 --> 00:08:16,950
+so will also tell you which school of
+magic
+
+370
+00:08:16,950 --> 00:08:16,960
+magic
+ 
+
+371
+00:08:16,960 --> 00:08:19,200
+magic
+it belongs to when read aura is
+
+372
+00:08:19,200 --> 00:08:19,210
+it belongs to when read aura is
+ 
+
+373
+00:08:19,210 --> 00:08:21,300
+it belongs to when read aura is
+heightened a third level it can target
+
+374
+00:08:21,300 --> 00:08:21,310
+heightened a third level it can target
+ 
+
+375
+00:08:21,310 --> 00:08:24,300
+heightened a third level it can target
+ten different objects and as six level
+
+376
+00:08:24,300 --> 00:08:24,310
+ten different objects and as six level
+ 
+
+377
+00:08:24,310 --> 00:08:26,730
+ten different objects and as six level
+it can target all valid objects within
+
+378
+00:08:26,730 --> 00:08:26,740
+it can target all valid objects within
+ 
+
+379
+00:08:26,740 --> 00:08:29,640
+it can target all valid objects within
+range as with detect magic read aura
+
+380
+00:08:29,640 --> 00:08:29,650
+range as with detect magic read aura
+ 
+
+381
+00:08:29,650 --> 00:08:32,070
+range as with detect magic read aura
+will not work on illusions unless they
+
+382
+00:08:32,070 --> 00:08:32,080
+will not work on illusions unless they
+ 
+
+383
+00:08:32,080 --> 00:08:35,909
+will not work on illusions unless they
+are of a lower effect level
+
+384
+00:08:35,909 --> 00:08:35,919
+are of a lower effect level
+ 
+
+385
+00:08:35,919 --> 00:08:38,100
+are of a lower effect level
+before we close I'd like to take a
+
+386
+00:08:38,100 --> 00:08:38,110
+before we close I'd like to take a
+ 
+
+387
+00:08:38,110 --> 00:08:40,560
+before we close I'd like to take a
+moment to thank all of our patrons these
+
+388
+00:08:40,560 --> 00:08:40,570
+moment to thank all of our patrons these
+ 
+
+389
+00:08:40,570 --> 00:08:42,329
+moment to thank all of our patrons these
+videos would not be possible without
+
+390
+00:08:42,329 --> 00:08:42,339
+videos would not be possible without
+ 
+
+391
+00:08:42,339 --> 00:08:45,170
+videos would not be possible without
+their continued generosity and support
+
+392
+00:08:45,170 --> 00:08:45,180
+their continued generosity and support
+ 
+
+393
+00:08:45,180 --> 00:08:48,000
+their continued generosity and support
+members of the basics for gamers patreon
+
+394
+00:08:48,000 --> 00:08:48,010
+members of the basics for gamers patreon
+ 
+
+395
+00:08:48,010 --> 00:08:50,220
+members of the basics for gamers patreon
+community receive special benefits like
+
+396
+00:08:50,220 --> 00:08:50,230
+community receive special benefits like
+ 
+
+397
+00:08:50,230 --> 00:08:52,050
+community receive special benefits like
+getting to vote on the topics that we
+
+398
+00:08:52,050 --> 00:08:52,060
+getting to vote on the topics that we
+ 
+
+399
+00:08:52,060 --> 00:08:54,269
+getting to vote on the topics that we
+cover in the future and also they get to
+
+400
+00:08:54,269 --> 00:08:54,279
+cover in the future and also they get to
+ 
+
+401
+00:08:54,279 --> 00:08:56,759
+cover in the future and also they get to
+see these videos one week and ad-free
+
+402
+00:08:56,759 --> 00:08:56,769
+see these videos one week and ad-free
+ 
+
+403
+00:08:56,769 --> 00:09:00,120
+see these videos one week and ad-free
+before everybody else visit the link
+
+404
+00:09:00,120 --> 00:09:00,130
+before everybody else visit the link
+ 
+
+405
+00:09:00,130 --> 00:09:01,860
+before everybody else visit the link
+shown on the left of the screen and in
+
+406
+00:09:01,860 --> 00:09:01,870
+shown on the left of the screen and in
+ 
+
+407
+00:09:01,870 --> 00:09:03,360
+shown on the left of the screen and in
+the description if you'd like to know
+
+408
+00:09:03,360 --> 00:09:03,370
+the description if you'd like to know
+ 
+
+409
+00:09:03,370 --> 00:09:06,030
+the description if you'd like to know
+more about becoming a patron if you
+
+410
+00:09:06,030 --> 00:09:06,040
+more about becoming a patron if you
+ 
+
+411
+00:09:06,040 --> 00:09:07,379
+more about becoming a patron if you
+would like to support this channel and
+
+412
+00:09:07,379 --> 00:09:07,389
+would like to support this channel and
+ 
+
+413
+00:09:07,389 --> 00:09:09,210
+would like to support this channel and
+help it grow the easiest way to do that
+
+414
+00:09:09,210 --> 00:09:09,220
+help it grow the easiest way to do that
+ 
+
+415
+00:09:09,220 --> 00:09:12,090
+help it grow the easiest way to do that
+is by subscribing and clicking the bell
+
+416
+00:09:12,090 --> 00:09:12,100
+is by subscribing and clicking the bell
+ 
+
+417
+00:09:12,100 --> 00:09:14,430
+is by subscribing and clicking the bell
+icon so you get notified when new videos
+
+418
+00:09:14,430 --> 00:09:14,440
+icon so you get notified when new videos
+ 
+
+419
+00:09:14,440 --> 00:09:17,069
+icon so you get notified when new videos
+release and we can always be reached
+
+420
+00:09:17,069 --> 00:09:17,079
+release and we can always be reached
+ 
+
+421
+00:09:17,079 --> 00:09:18,360
+release and we can always be reached
+through our Twitter and Facebook pages
+
+422
+00:09:18,360 --> 00:09:18,370
+through our Twitter and Facebook pages
+ 
+
+423
+00:09:18,370 --> 00:09:21,480
+through our Twitter and Facebook pages
+too thanks for watching take care and we
+
+424
+00:09:21,480 --> 00:09:21,490
+too thanks for watching take care and we
+ 
+
+425
+00:09:21,490 --> 00:09:23,280
+too thanks for watching take care and we
+will see you soon with more basics of
+
+426
+00:09:23,280 --> 00:09:23,290
+will see you soon with more basics of
+ 
+
+427
+00:09:23,290 --> 00:09:25,920
+will see you soon with more basics of
+Pathfinder
+

@@ -1,0 +1,2605 @@
+1
+00:00:00,960 --> 00:00:03,030
+
+this video is brought to you by roll for
+
+2
+00:00:03,030 --> 00:00:03,040
+this video is brought to you by roll for
+ 
+
+3
+00:00:03,040 --> 00:00:03,590
+this video is brought to you by roll for
+combat
+
+4
+00:00:03,590 --> 00:00:03,600
+combat
+ 
+
+5
+00:00:03,600 --> 00:00:06,070
+combat
+and the fall of plaguestone an official
+
+6
+00:00:06,070 --> 00:00:06,080
+and the fall of plaguestone an official
+ 
+
+7
+00:00:06,080 --> 00:00:08,629
+and the fall of plaguestone an official
+piezo actual play podcast
+
+8
+00:00:08,629 --> 00:00:08,639
+piezo actual play podcast
+ 
+
+9
+00:00:08,639 --> 00:00:11,270
+piezo actual play podcast
+join peru cade brixley and celeste as
+
+10
+00:00:11,270 --> 00:00:11,280
+join peru cade brixley and celeste as
+ 
+
+11
+00:00:11,280 --> 00:00:13,350
+join peru cade brixley and celeste as
+they band together to save the village
+
+12
+00:00:13,350 --> 00:00:13,360
+they band together to save the village
+ 
+
+13
+00:00:13,360 --> 00:00:15,669
+they band together to save the village
+of plaguestone from utter destruction
+
+14
+00:00:15,669 --> 00:00:15,679
+of plaguestone from utter destruction
+ 
+
+15
+00:00:15,679 --> 00:00:18,349
+of plaguestone from utter destruction
+listen now to the fall of plaguestone at
+
+16
+00:00:18,349 --> 00:00:18,359
+listen now to the fall of plaguestone at
+ 
+
+17
+00:00:18,359 --> 00:00:21,510
+listen now to the fall of plaguestone at
+roll4combat.com
+
+18
+00:00:21,510 --> 00:00:21,520
+
+ 
+
+19
+00:00:21,520 --> 00:00:23,509
+
+hello and welcome to mental conditions
+
+20
+00:00:23,509 --> 00:00:23,519
+hello and welcome to mental conditions
+ 
+
+21
+00:00:23,519 --> 00:00:25,109
+hello and welcome to mental conditions
+and pathfinder 2nd edition
+
+22
+00:00:25,109 --> 00:00:25,119
+and pathfinder 2nd edition
+ 
+
+23
+00:00:25,119 --> 00:00:26,390
+and pathfinder 2nd edition
+in this video we'll be discussing
+
+24
+00:00:26,390 --> 00:00:26,400
+in this video we'll be discussing
+ 
+
+25
+00:00:26,400 --> 00:00:28,150
+in this video we'll be discussing
+several of the conditions that impact a
+
+26
+00:00:28,150 --> 00:00:28,160
+several of the conditions that impact a
+ 
+
+27
+00:00:28,160 --> 00:00:29,429
+several of the conditions that impact a
+creature's middle status
+
+28
+00:00:29,429 --> 00:00:29,439
+creature's middle status
+ 
+
+29
+00:00:29,439 --> 00:00:32,470
+creature's middle status
+including confused controlled fascinated
+
+30
+00:00:32,470 --> 00:00:32,480
+including confused controlled fascinated
+ 
+
+31
+00:00:32,480 --> 00:00:35,830
+including confused controlled fascinated
+frightened and fleeing
+
+32
+00:00:35,830 --> 00:00:35,840
+frightened and fleeing
+ 
+
+33
+00:00:35,840 --> 00:00:37,190
+frightened and fleeing
+when a creature is suffering from the
+
+34
+00:00:37,190 --> 00:00:37,200
+when a creature is suffering from the
+ 
+
+35
+00:00:37,200 --> 00:00:39,430
+when a creature is suffering from the
+confused condition they have difficulty
+
+36
+00:00:39,430 --> 00:00:39,440
+confused condition they have difficulty
+ 
+
+37
+00:00:39,440 --> 00:00:39,910
+confused condition they have difficulty
+telling
+
+38
+00:00:39,910 --> 00:00:39,920
+telling
+ 
+
+39
+00:00:39,920 --> 00:00:42,229
+telling
+friend from foe when you are confused
+
+40
+00:00:42,229 --> 00:00:42,239
+friend from foe when you are confused
+ 
+
+41
+00:00:42,239 --> 00:00:44,069
+friend from foe when you are confused
+you are flat-footed which imposes
+
+42
+00:00:44,069 --> 00:00:44,079
+you are flat-footed which imposes
+ 
+
+43
+00:00:44,079 --> 00:00:45,830
+you are flat-footed which imposes
+a negative two circumstance penalty to
+
+44
+00:00:45,830 --> 00:00:45,840
+a negative two circumstance penalty to
+ 
+
+45
+00:00:45,840 --> 00:00:47,830
+a negative two circumstance penalty to
+armor class and you can't treat
+
+46
+00:00:47,830 --> 00:00:47,840
+armor class and you can't treat
+ 
+
+47
+00:00:47,840 --> 00:00:50,389
+armor class and you can't treat
+anyone as being your ally so for example
+
+48
+00:00:50,389 --> 00:00:50,399
+anyone as being your ally so for example
+ 
+
+49
+00:00:50,399 --> 00:00:51,990
+anyone as being your ally so for example
+you wouldn't be able to receive
+
+50
+00:00:51,990 --> 00:00:52,000
+you wouldn't be able to receive
+ 
+
+51
+00:00:52,000 --> 00:00:55,110
+you wouldn't be able to receive
+any flanking bonuses while confused you
+
+52
+00:00:55,110 --> 00:00:55,120
+any flanking bonuses while confused you
+ 
+
+53
+00:00:55,120 --> 00:00:57,029
+any flanking bonuses while confused you
+also cannot use the delay or ready
+
+54
+00:00:57,029 --> 00:00:57,039
+also cannot use the delay or ready
+ 
+
+55
+00:00:57,039 --> 00:00:58,470
+also cannot use the delay or ready
+actions nor can you use
+
+56
+00:00:58,470 --> 00:00:58,480
+actions nor can you use
+ 
+
+57
+00:00:58,480 --> 00:01:01,430
+actions nor can you use
+any reactions during your turn the gm
+
+58
+00:01:01,430 --> 00:01:01,440
+any reactions during your turn the gm
+ 
+
+59
+00:01:01,440 --> 00:01:03,029
+any reactions during your turn the gm
+assumes control of your character and
+
+60
+00:01:03,029 --> 00:01:03,039
+assumes control of your character and
+ 
+
+61
+00:01:03,039 --> 00:01:05,189
+assumes control of your character and
+uses every action to either make weapon
+
+62
+00:01:05,189 --> 00:01:05,199
+uses every action to either make weapon
+ 
+
+63
+00:01:05,199 --> 00:01:05,750
+uses every action to either make weapon
+attacks
+
+64
+00:01:05,750 --> 00:01:05,760
+attacks
+ 
+
+65
+00:01:05,760 --> 00:01:07,990
+attacks
+or cast can trips against randomly
+
+66
+00:01:07,990 --> 00:01:08,000
+or cast can trips against randomly
+ 
+
+67
+00:01:08,000 --> 00:01:09,510
+or cast can trips against randomly
+selected targets
+
+68
+00:01:09,510 --> 00:01:09,520
+selected targets
+ 
+
+69
+00:01:09,520 --> 00:01:11,750
+selected targets
+and is worth noting that the gm may also
+
+70
+00:01:11,750 --> 00:01:11,760
+and is worth noting that the gm may also
+ 
+
+71
+00:01:11,760 --> 00:01:13,990
+and is worth noting that the gm may also
+use actions to facilitate these attacks
+
+72
+00:01:13,990 --> 00:01:14,000
+use actions to facilitate these attacks
+ 
+
+73
+00:01:14,000 --> 00:01:17,109
+use actions to facilitate these attacks
+such as moving or drawing weapons if you
+
+74
+00:01:17,109 --> 00:01:17,119
+such as moving or drawing weapons if you
+ 
+
+75
+00:01:17,119 --> 00:01:18,950
+such as moving or drawing weapons if you
+have no viable targets to attack
+
+76
+00:01:18,950 --> 00:01:18,960
+have no viable targets to attack
+ 
+
+77
+00:01:18,960 --> 00:01:20,230
+have no viable targets to attack
+then you will spend your actions
+
+78
+00:01:20,230 --> 00:01:20,240
+then you will spend your actions
+ 
+
+79
+00:01:20,240 --> 00:01:22,550
+then you will spend your actions
+attacking yourself when you do this
+
+80
+00:01:22,550 --> 00:01:22,560
+attacking yourself when you do this
+ 
+
+81
+00:01:22,560 --> 00:01:24,390
+attacking yourself when you do this
+no rules are needed and instead you
+
+82
+00:01:24,390 --> 00:01:24,400
+no rules are needed and instead you
+ 
+
+83
+00:01:24,400 --> 00:01:26,950
+no rules are needed and instead you
+always score a hit but never a critical
+
+84
+00:01:26,950 --> 00:01:26,960
+always score a hit but never a critical
+ 
+
+85
+00:01:26,960 --> 00:01:27,670
+always score a hit but never a critical
+hit
+
+86
+00:01:27,670 --> 00:01:27,680
+hit
+ 
+
+87
+00:01:27,680 --> 00:01:29,749
+hit
+if for some reason it is impossible for
+
+88
+00:01:29,749 --> 00:01:29,759
+if for some reason it is impossible for
+ 
+
+89
+00:01:29,759 --> 00:01:31,749
+if for some reason it is impossible for
+you to attack another or yourself
+
+90
+00:01:31,749 --> 00:01:31,759
+you to attack another or yourself
+ 
+
+91
+00:01:31,759 --> 00:01:33,590
+you to attack another or yourself
+then by raw you spend all of your
+
+92
+00:01:33,590 --> 00:01:33,600
+then by raw you spend all of your
+ 
+
+93
+00:01:33,600 --> 00:01:35,590
+then by raw you spend all of your
+actions babbling incoherently
+
+94
+00:01:35,590 --> 00:01:35,600
+actions babbling incoherently
+ 
+
+95
+00:01:35,600 --> 00:01:38,149
+actions babbling incoherently
+but the gm may decide to perform other
+
+96
+00:01:38,149 --> 00:01:38,159
+but the gm may decide to perform other
+ 
+
+97
+00:01:38,159 --> 00:01:38,710
+but the gm may decide to perform other
+actions
+
+98
+00:01:38,710 --> 00:01:38,720
+actions
+ 
+
+99
+00:01:38,720 --> 00:01:40,950
+actions
+such as the escape action if you've been
+
+100
+00:01:40,950 --> 00:01:40,960
+such as the escape action if you've been
+ 
+
+101
+00:01:40,960 --> 00:01:42,149
+such as the escape action if you've been
+tied up
+
+102
+00:01:42,149 --> 00:01:42,159
+tied up
+ 
+
+103
+00:01:42,159 --> 00:01:44,149
+tied up
+each time you suffer damage you'll roll
+
+104
+00:01:44,149 --> 00:01:44,159
+each time you suffer damage you'll roll
+ 
+
+105
+00:01:44,159 --> 00:01:45,590
+each time you suffer damage you'll roll
+a dc-11 flat check
+
+106
+00:01:45,590 --> 00:01:45,600
+a dc-11 flat check
+ 
+
+107
+00:01:45,600 --> 00:01:47,670
+a dc-11 flat check
+and on a success the confused condition
+
+108
+00:01:47,670 --> 00:01:47,680
+and on a success the confused condition
+ 
+
+109
+00:01:47,680 --> 00:01:49,190
+and on a success the confused condition
+instantly ends
+
+110
+00:01:49,190 --> 00:01:49,200
+instantly ends
+ 
+
+111
+00:01:49,200 --> 00:01:51,429
+instantly ends
+a few possible sources of the confused
+
+112
+00:01:51,429 --> 00:01:51,439
+a few possible sources of the confused
+ 
+
+113
+00:01:51,439 --> 00:01:53,910
+a few possible sources of the confused
+condition include the confusion spell
+
+114
+00:01:53,910 --> 00:01:53,920
+condition include the confusion spell
+ 
+
+115
+00:01:53,920 --> 00:01:55,270
+condition include the confusion spell
+belladonna poison
+
+116
+00:01:55,270 --> 00:01:55,280
+belladonna poison
+ 
+
+117
+00:01:55,280 --> 00:01:58,389
+belladonna poison
+and gibbering mouthers
+
+118
+00:01:58,389 --> 00:01:58,399
+and gibbering mouthers
+ 
+
+119
+00:01:58,399 --> 00:02:00,550
+and gibbering mouthers
+the controlled condition is an even more
+
+120
+00:02:00,550 --> 00:02:00,560
+the controlled condition is an even more
+ 
+
+121
+00:02:00,560 --> 00:02:02,469
+the controlled condition is an even more
+advanced version of confused
+
+122
+00:02:02,469 --> 00:02:02,479
+advanced version of confused
+ 
+
+123
+00:02:02,479 --> 00:02:04,630
+advanced version of confused
+when you are controlled you completely
+
+124
+00:02:04,630 --> 00:02:04,640
+when you are controlled you completely
+ 
+
+125
+00:02:04,640 --> 00:02:06,550
+when you are controlled you completely
+lose agency over your character and the
+
+126
+00:02:06,550 --> 00:02:06,560
+lose agency over your character and the
+ 
+
+127
+00:02:06,560 --> 00:02:08,389
+lose agency over your character and the
+creature responsible for giving you this
+
+128
+00:02:08,389 --> 00:02:08,399
+creature responsible for giving you this
+ 
+
+129
+00:02:08,399 --> 00:02:08,949
+creature responsible for giving you this
+condition
+
+130
+00:02:08,949 --> 00:02:08,959
+condition
+ 
+
+131
+00:02:08,959 --> 00:02:11,190
+condition
+spins your actions any way they wish
+
+132
+00:02:11,190 --> 00:02:11,200
+spins your actions any way they wish
+ 
+
+133
+00:02:11,200 --> 00:02:13,430
+spins your actions any way they wish
+including the use of delay ready and
+
+134
+00:02:13,430 --> 00:02:13,440
+including the use of delay ready and
+ 
+
+135
+00:02:13,440 --> 00:02:14,390
+including the use of delay ready and
+reactions
+
+136
+00:02:14,390 --> 00:02:14,400
+reactions
+ 
+
+137
+00:02:14,400 --> 00:02:16,949
+reactions
+this effectively makes you an npc during
+
+138
+00:02:16,949 --> 00:02:16,959
+this effectively makes you an npc during
+ 
+
+139
+00:02:16,959 --> 00:02:19,350
+this effectively makes you an npc during
+the duration of the controlled condition
+
+140
+00:02:19,350 --> 00:02:19,360
+the duration of the controlled condition
+ 
+
+141
+00:02:19,360 --> 00:02:21,110
+the duration of the controlled condition
+typically the effect that imposes the
+
+142
+00:02:21,110 --> 00:02:21,120
+typically the effect that imposes the
+ 
+
+143
+00:02:21,120 --> 00:02:23,510
+typically the effect that imposes the
+control condition specifies exactly in
+
+144
+00:02:23,510 --> 00:02:23,520
+control condition specifies exactly in
+ 
+
+145
+00:02:23,520 --> 00:02:25,350
+control condition specifies exactly in
+what circumstances the condition will
+
+146
+00:02:25,350 --> 00:02:25,360
+what circumstances the condition will
+ 
+
+147
+00:02:25,360 --> 00:02:25,910
+what circumstances the condition will
+end
+
+148
+00:02:25,910 --> 00:02:25,920
+end
+ 
+
+149
+00:02:25,920 --> 00:02:27,270
+end
+for example if you're suffering
+
+150
+00:02:27,270 --> 00:02:27,280
+for example if you're suffering
+ 
+
+151
+00:02:27,280 --> 00:02:29,030
+for example if you're suffering
+controlled because you failed your will
+
+152
+00:02:29,030 --> 00:02:29,040
+controlled because you failed your will
+ 
+
+153
+00:02:29,040 --> 00:02:30,949
+controlled because you failed your will
+save against the dominate spell
+
+154
+00:02:30,949 --> 00:02:30,959
+save against the dominate spell
+ 
+
+155
+00:02:30,959 --> 00:02:33,030
+save against the dominate spell
+then you get to attempt a new save at
+
+156
+00:02:33,030 --> 00:02:33,040
+then you get to attempt a new save at
+ 
+
+157
+00:02:33,040 --> 00:02:34,470
+then you get to attempt a new save at
+the end of each of your turns
+
+158
+00:02:34,470 --> 00:02:34,480
+the end of each of your turns
+ 
+
+159
+00:02:34,480 --> 00:02:36,150
+the end of each of your turns
+but if you critically fail to save
+
+160
+00:02:36,150 --> 00:02:36,160
+but if you critically fail to save
+ 
+
+161
+00:02:36,160 --> 00:02:37,509
+but if you critically fail to save
+against the dominate spell
+
+162
+00:02:37,509 --> 00:02:37,519
+against the dominate spell
+ 
+
+163
+00:02:37,519 --> 00:02:39,990
+against the dominate spell
+then you don't get a new save unless the
+
+164
+00:02:39,990 --> 00:02:40,000
+then you don't get a new save unless the
+ 
+
+165
+00:02:40,000 --> 00:02:41,750
+then you don't get a new save unless the
+gm rules that a command you receive
+
+166
+00:02:41,750 --> 00:02:41,760
+gm rules that a command you receive
+ 
+
+167
+00:02:41,760 --> 00:02:43,190
+gm rules that a command you receive
+is against your nature such as killing
+
+168
+00:02:43,190 --> 00:02:43,200
+is against your nature such as killing
+ 
+
+169
+00:02:43,200 --> 00:02:45,350
+is against your nature such as killing
+an ally and if none of those conditions
+
+170
+00:02:45,350 --> 00:02:45,360
+an ally and if none of those conditions
+ 
+
+171
+00:02:45,360 --> 00:02:46,150
+an ally and if none of those conditions
+are met
+
+172
+00:02:46,150 --> 00:02:46,160
+are met
+ 
+
+173
+00:02:46,160 --> 00:02:48,070
+are met
+then the controlled condition goes away
+
+174
+00:02:48,070 --> 00:02:48,080
+then the controlled condition goes away
+ 
+
+175
+00:02:48,080 --> 00:02:50,070
+then the controlled condition goes away
+at the end of the dominate spells
+
+176
+00:02:50,070 --> 00:02:50,080
+at the end of the dominate spells
+ 
+
+177
+00:02:50,080 --> 00:02:50,790
+at the end of the dominate spells
+duration
+
+178
+00:02:50,790 --> 00:02:50,800
+duration
+ 
+
+179
+00:02:50,800 --> 00:02:52,309
+duration
+which is the next time you make your
+
+180
+00:02:52,309 --> 00:02:52,319
+which is the next time you make your
+ 
+
+181
+00:02:52,319 --> 00:02:53,910
+which is the next time you make your
+daily preparations
+
+182
+00:02:53,910 --> 00:02:53,920
+daily preparations
+ 
+
+183
+00:02:53,920 --> 00:02:55,830
+daily preparations
+a few other sources of controlled
+
+184
+00:02:55,830 --> 00:02:55,840
+a few other sources of controlled
+ 
+
+185
+00:02:55,840 --> 00:02:57,589
+a few other sources of controlled
+include the position spell
+
+186
+00:02:57,589 --> 00:02:57,599
+include the position spell
+ 
+
+187
+00:02:57,599 --> 00:02:59,910
+include the position spell
+spore blight disease and a specter's
+
+188
+00:02:59,910 --> 00:02:59,920
+spore blight disease and a specter's
+ 
+
+189
+00:02:59,920 --> 00:03:02,949
+spore blight disease and a specter's
+corruption ability
+
+190
+00:03:02,949 --> 00:03:02,959
+
+ 
+
+191
+00:03:02,959 --> 00:03:04,550
+
+when you're fascinated all of your
+
+192
+00:03:04,550 --> 00:03:04,560
+when you're fascinated all of your
+ 
+
+193
+00:03:04,560 --> 00:03:05,990
+when you're fascinated all of your
+attention is focused on
+
+194
+00:03:05,990 --> 00:03:06,000
+attention is focused on
+ 
+
+195
+00:03:06,000 --> 00:03:07,750
+attention is focused on
+one creature or object virtually
+
+196
+00:03:07,750 --> 00:03:07,760
+one creature or object virtually
+ 
+
+197
+00:03:07,760 --> 00:03:09,830
+one creature or object virtually
+ignoring everything else going on around
+
+198
+00:03:09,830 --> 00:03:09,840
+ignoring everything else going on around
+ 
+
+199
+00:03:09,840 --> 00:03:10,470
+ignoring everything else going on around
+you
+
+200
+00:03:10,470 --> 00:03:10,480
+you
+ 
+
+201
+00:03:10,480 --> 00:03:12,229
+you
+while suffering this condition you
+
+202
+00:03:12,229 --> 00:03:12,239
+while suffering this condition you
+ 
+
+203
+00:03:12,239 --> 00:03:14,390
+while suffering this condition you
+suffer a negative two status penalty to
+
+204
+00:03:14,390 --> 00:03:14,400
+suffer a negative two status penalty to
+ 
+
+205
+00:03:14,400 --> 00:03:15,910
+suffer a negative two status penalty to
+perception and all skills
+
+206
+00:03:15,910 --> 00:03:15,920
+perception and all skills
+ 
+
+207
+00:03:15,920 --> 00:03:18,070
+perception and all skills
+and you cannot use any actions with a
+
+208
+00:03:18,070 --> 00:03:18,080
+and you cannot use any actions with a
+ 
+
+209
+00:03:18,080 --> 00:03:19,350
+and you cannot use any actions with a
+concentrate trait
+
+210
+00:03:19,350 --> 00:03:19,360
+concentrate trait
+ 
+
+211
+00:03:19,360 --> 00:03:21,270
+concentrate trait
+unless they are directly related to the
+
+212
+00:03:21,270 --> 00:03:21,280
+unless they are directly related to the
+ 
+
+213
+00:03:21,280 --> 00:03:22,949
+unless they are directly related to the
+subject of your fascination
+
+214
+00:03:22,949 --> 00:03:22,959
+subject of your fascination
+ 
+
+215
+00:03:22,959 --> 00:03:24,630
+subject of your fascination
+for example you would be able to use
+
+216
+00:03:24,630 --> 00:03:24,640
+for example you would be able to use
+ 
+
+217
+00:03:24,640 --> 00:03:26,229
+for example you would be able to use
+recall knowledge to learn something
+
+218
+00:03:26,229 --> 00:03:26,239
+recall knowledge to learn something
+ 
+
+219
+00:03:26,239 --> 00:03:27,990
+recall knowledge to learn something
+about the subject of your fascination
+
+220
+00:03:27,990 --> 00:03:28,000
+about the subject of your fascination
+ 
+
+221
+00:03:28,000 --> 00:03:28,309
+about the subject of your fascination
+but
+
+222
+00:03:28,309 --> 00:03:28,319
+but
+ 
+
+223
+00:03:28,319 --> 00:03:30,949
+but
+not for other topics nor could you cast
+
+224
+00:03:30,949 --> 00:03:30,959
+not for other topics nor could you cast
+ 
+
+225
+00:03:30,959 --> 00:03:31,990
+not for other topics nor could you cast
+most spells unless
+
+226
+00:03:31,990 --> 00:03:32,000
+most spells unless
+ 
+
+227
+00:03:32,000 --> 00:03:33,350
+most spells unless
+they target the subject of your
+
+228
+00:03:33,350 --> 00:03:33,360
+they target the subject of your
+ 
+
+229
+00:03:33,360 --> 00:03:36,390
+they target the subject of your
+fascination that's what fascinated does
+
+230
+00:03:36,390 --> 00:03:36,400
+fascination that's what fascinated does
+ 
+
+231
+00:03:36,400 --> 00:03:38,070
+fascination that's what fascinated does
+but it's probably just as important to
+
+232
+00:03:38,070 --> 00:03:38,080
+but it's probably just as important to
+ 
+
+233
+00:03:38,080 --> 00:03:40,390
+but it's probably just as important to
+discuss the things it doesn't do
+
+234
+00:03:40,390 --> 00:03:40,400
+discuss the things it doesn't do
+ 
+
+235
+00:03:40,400 --> 00:03:42,470
+discuss the things it doesn't do
+while fascinated you do not face any
+
+236
+00:03:42,470 --> 00:03:42,480
+while fascinated you do not face any
+ 
+
+237
+00:03:42,480 --> 00:03:44,550
+while fascinated you do not face any
+restrictions other than the ones already
+
+238
+00:03:44,550 --> 00:03:44,560
+restrictions other than the ones already
+ 
+
+239
+00:03:44,560 --> 00:03:45,350
+restrictions other than the ones already
+mentioned
+
+240
+00:03:45,350 --> 00:03:45,360
+mentioned
+ 
+
+241
+00:03:45,360 --> 00:03:47,030
+mentioned
+meaning you can choose to ignore the
+
+242
+00:03:47,030 --> 00:03:47,040
+meaning you can choose to ignore the
+ 
+
+243
+00:03:47,040 --> 00:03:48,710
+meaning you can choose to ignore the
+subject of your fascination you can walk
+
+244
+00:03:48,710 --> 00:03:48,720
+subject of your fascination you can walk
+ 
+
+245
+00:03:48,720 --> 00:03:50,390
+subject of your fascination you can walk
+away from it you can attack it
+
+246
+00:03:50,390 --> 00:03:50,400
+away from it you can attack it
+ 
+
+247
+00:03:50,400 --> 00:03:52,470
+away from it you can attack it
+you can use any action that doesn't have
+
+248
+00:03:52,470 --> 00:03:52,480
+you can use any action that doesn't have
+ 
+
+249
+00:03:52,480 --> 00:03:54,630
+you can use any action that doesn't have
+the concentration trait while targeting
+
+250
+00:03:54,630 --> 00:03:54,640
+the concentration trait while targeting
+ 
+
+251
+00:03:54,640 --> 00:03:56,070
+the concentration trait while targeting
+anything you like
+
+252
+00:03:56,070 --> 00:03:56,080
+anything you like
+ 
+
+253
+00:03:56,080 --> 00:03:58,550
+anything you like
+also you do not suffer any penalties
+
+254
+00:03:58,550 --> 00:03:58,560
+also you do not suffer any penalties
+ 
+
+255
+00:03:58,560 --> 00:03:59,350
+also you do not suffer any penalties
+other than those
+
+256
+00:03:59,350 --> 00:03:59,360
+other than those
+ 
+
+257
+00:03:59,360 --> 00:04:01,190
+other than those
+listed you're not flat footed to the
+
+258
+00:04:01,190 --> 00:04:01,200
+listed you're not flat footed to the
+ 
+
+259
+00:04:01,200 --> 00:04:03,030
+listed you're not flat footed to the
+subject of your fascination nor do they
+
+260
+00:04:03,030 --> 00:04:03,040
+subject of your fascination nor do they
+ 
+
+261
+00:04:03,040 --> 00:04:05,350
+subject of your fascination nor do they
+receive any bonuses to attack you
+
+262
+00:04:05,350 --> 00:04:05,360
+receive any bonuses to attack you
+ 
+
+263
+00:04:05,360 --> 00:04:07,509
+receive any bonuses to attack you
+however there are a few situations
+
+264
+00:04:07,509 --> 00:04:07,519
+however there are a few situations
+ 
+
+265
+00:04:07,519 --> 00:04:08,949
+however there are a few situations
+especially with monsters
+
+266
+00:04:08,949 --> 00:04:08,959
+especially with monsters
+ 
+
+267
+00:04:08,959 --> 00:04:11,509
+especially with monsters
+that specifically modify how this works
+
+268
+00:04:11,509 --> 00:04:11,519
+that specifically modify how this works
+ 
+
+269
+00:04:11,519 --> 00:04:13,750
+that specifically modify how this works
+for example the yellow musk creeper can
+
+270
+00:04:13,750 --> 00:04:13,760
+for example the yellow musk creeper can
+ 
+
+271
+00:04:13,760 --> 00:04:16,469
+for example the yellow musk creeper can
+spray pollen to fascinate their victims
+
+272
+00:04:16,469 --> 00:04:16,479
+spray pollen to fascinate their victims
+ 
+
+273
+00:04:16,479 --> 00:04:18,870
+spray pollen to fascinate their victims
+in this case the fascinated victim must
+
+274
+00:04:18,870 --> 00:04:18,880
+in this case the fascinated victim must
+ 
+
+275
+00:04:18,880 --> 00:04:20,870
+in this case the fascinated victim must
+spend all of their actions moving closer
+
+276
+00:04:20,870 --> 00:04:20,880
+spend all of their actions moving closer
+ 
+
+277
+00:04:20,880 --> 00:04:21,670
+spend all of their actions moving closer
+to the creeper
+
+278
+00:04:21,670 --> 00:04:21,680
+to the creeper
+ 
+
+279
+00:04:21,680 --> 00:04:23,430
+to the creeper
+and standing still so that it can use
+
+280
+00:04:23,430 --> 00:04:23,440
+and standing still so that it can use
+ 
+
+281
+00:04:23,440 --> 00:04:26,230
+and standing still so that it can use
+its bore into brain ability on them
+
+282
+00:04:26,230 --> 00:04:26,240
+its bore into brain ability on them
+ 
+
+283
+00:04:26,240 --> 00:04:28,629
+its bore into brain ability on them
+but that's a specific exception that's
+
+284
+00:04:28,629 --> 00:04:28,639
+but that's a specific exception that's
+ 
+
+285
+00:04:28,639 --> 00:04:30,150
+but that's a specific exception that's
+called out in the text
+
+286
+00:04:30,150 --> 00:04:30,160
+called out in the text
+ 
+
+287
+00:04:30,160 --> 00:04:33,189
+called out in the text
+of a creature so generally speaking what
+
+288
+00:04:33,189 --> 00:04:33,199
+of a creature so generally speaking what
+ 
+
+289
+00:04:33,199 --> 00:04:35,749
+of a creature so generally speaking what
+is the fascinating condition for is for
+
+290
+00:04:35,749 --> 00:04:35,759
+is the fascinating condition for is for
+ 
+
+291
+00:04:35,759 --> 00:04:37,189
+is the fascinating condition for is for
+distracting someone
+
+292
+00:04:37,189 --> 00:04:37,199
+distracting someone
+ 
+
+293
+00:04:37,199 --> 00:04:38,790
+distracting someone
+and really i think it would have been
+
+294
+00:04:38,790 --> 00:04:38,800
+and really i think it would have been
+ 
+
+295
+00:04:38,800 --> 00:04:40,710
+and really i think it would have been
+better if they had named it distracted
+
+296
+00:04:40,710 --> 00:04:40,720
+better if they had named it distracted
+ 
+
+297
+00:04:40,720 --> 00:04:42,870
+better if they had named it distracted
+rather than fascinated as fascinated
+
+298
+00:04:42,870 --> 00:04:42,880
+rather than fascinated as fascinated
+ 
+
+299
+00:04:42,880 --> 00:04:44,629
+rather than fascinated as fascinated
+leads people to think of being charmed
+
+300
+00:04:44,629 --> 00:04:44,639
+leads people to think of being charmed
+ 
+
+301
+00:04:44,639 --> 00:04:45,590
+leads people to think of being charmed
+or enchanted
+
+302
+00:04:45,590 --> 00:04:45,600
+or enchanted
+ 
+
+303
+00:04:45,600 --> 00:04:47,350
+or enchanted
+and fascinated people can do pretty much
+
+304
+00:04:47,350 --> 00:04:47,360
+and fascinated people can do pretty much
+ 
+
+305
+00:04:47,360 --> 00:04:49,189
+and fascinated people can do pretty much
+whatever they want but have trouble
+
+306
+00:04:49,189 --> 00:04:49,199
+whatever they want but have trouble
+ 
+
+307
+00:04:49,199 --> 00:04:51,189
+whatever they want but have trouble
+thinking about anything other than the
+
+308
+00:04:51,189 --> 00:04:51,199
+thinking about anything other than the
+ 
+
+309
+00:04:51,199 --> 00:04:52,950
+thinking about anything other than the
+subject of their fascination
+
+310
+00:04:52,950 --> 00:04:52,960
+subject of their fascination
+ 
+
+311
+00:04:52,960 --> 00:04:56,310
+subject of their fascination
+so they're distracted a good example of
+
+312
+00:04:56,310 --> 00:04:56,320
+so they're distracted a good example of
+ 
+
+313
+00:04:56,320 --> 00:04:57,270
+so they're distracted a good example of
+when this condition
+
+314
+00:04:57,270 --> 00:04:57,280
+when this condition
+ 
+
+315
+00:04:57,280 --> 00:04:59,990
+when this condition
+might be used would be a bard who casts
+
+316
+00:04:59,990 --> 00:05:00,000
+might be used would be a bard who casts
+ 
+
+317
+00:05:00,000 --> 00:05:00,710
+might be used would be a bard who casts
+enthrall
+
+318
+00:05:00,710 --> 00:05:00,720
+enthrall
+ 
+
+319
+00:05:00,720 --> 00:05:02,390
+enthrall
+over an audience so that they don't
+
+320
+00:05:02,390 --> 00:05:02,400
+over an audience so that they don't
+ 
+
+321
+00:05:02,400 --> 00:05:04,230
+over an audience so that they don't
+notice a rogue sneaking away or
+
+322
+00:05:04,230 --> 00:05:04,240
+notice a rogue sneaking away or
+ 
+
+323
+00:05:04,240 --> 00:05:07,430
+notice a rogue sneaking away or
+pickpocketing someone
+
+324
+00:05:07,430 --> 00:05:07,440
+pickpocketing someone
+ 
+
+325
+00:05:07,440 --> 00:05:09,029
+pickpocketing someone
+the next condition to discuss is
+
+326
+00:05:09,029 --> 00:05:09,039
+the next condition to discuss is
+ 
+
+327
+00:05:09,039 --> 00:05:11,029
+the next condition to discuss is
+frightened when you are frightened you
+
+328
+00:05:11,029 --> 00:05:11,039
+frightened when you are frightened you
+ 
+
+329
+00:05:11,039 --> 00:05:12,950
+frightened when you are frightened you
+suffer a status penalty equal to the
+
+330
+00:05:12,950 --> 00:05:12,960
+suffer a status penalty equal to the
+ 
+
+331
+00:05:12,960 --> 00:05:14,870
+suffer a status penalty equal to the
+value of the frightened condition to all
+
+332
+00:05:14,870 --> 00:05:14,880
+value of the frightened condition to all
+ 
+
+333
+00:05:14,880 --> 00:05:18,150
+value of the frightened condition to all
+checks in dc's so more or less anytime
+
+334
+00:05:18,150 --> 00:05:18,160
+checks in dc's so more or less anytime
+ 
+
+335
+00:05:18,160 --> 00:05:20,390
+checks in dc's so more or less anytime
+you roll a d20 other than flat checks
+
+336
+00:05:20,390 --> 00:05:20,400
+you roll a d20 other than flat checks
+ 
+
+337
+00:05:20,400 --> 00:05:21,590
+you roll a d20 other than flat checks
+you will subtract
+
+338
+00:05:21,590 --> 00:05:21,600
+you will subtract
+ 
+
+339
+00:05:21,600 --> 00:05:24,790
+you will subtract
+this number from the roll attacks skill
+
+340
+00:05:24,790 --> 00:05:24,800
+this number from the roll attacks skill
+ 
+
+341
+00:05:24,800 --> 00:05:25,189
+this number from the roll attacks skill
+checks
+
+342
+00:05:25,189 --> 00:05:25,199
+checks
+ 
+
+343
+00:05:25,199 --> 00:05:28,390
+checks
+saves pretty much every d20 roll
+
+344
+00:05:28,390 --> 00:05:28,400
+saves pretty much every d20 roll
+ 
+
+345
+00:05:28,400 --> 00:05:30,230
+saves pretty much every d20 roll
+and anytime another creature makes a
+
+346
+00:05:30,230 --> 00:05:30,240
+and anytime another creature makes a
+ 
+
+347
+00:05:30,240 --> 00:05:32,150
+and anytime another creature makes a
+check against one of your dc's
+
+348
+00:05:32,150 --> 00:05:32,160
+check against one of your dc's
+ 
+
+349
+00:05:32,160 --> 00:05:34,710
+check against one of your dc's
+those dc's are also lowered by the value
+
+350
+00:05:34,710 --> 00:05:34,720
+those dc's are also lowered by the value
+ 
+
+351
+00:05:34,720 --> 00:05:35,990
+those dc's are also lowered by the value
+of the frightened condition
+
+352
+00:05:35,990 --> 00:05:36,000
+of the frightened condition
+ 
+
+353
+00:05:36,000 --> 00:05:37,670
+of the frightened condition
+this includes things like your armor
+
+354
+00:05:37,670 --> 00:05:37,680
+this includes things like your armor
+ 
+
+355
+00:05:37,680 --> 00:05:39,350
+this includes things like your armor
+class reflex dc
+
+356
+00:05:39,350 --> 00:05:39,360
+class reflex dc
+ 
+
+357
+00:05:39,360 --> 00:05:42,310
+class reflex dc
+perception dc in all skill dc's as well
+
+358
+00:05:42,310 --> 00:05:42,320
+perception dc in all skill dc's as well
+ 
+
+359
+00:05:42,320 --> 00:05:43,590
+perception dc in all skill dc's as well
+as the spell dc
+
+360
+00:05:43,590 --> 00:05:43,600
+as the spell dc
+ 
+
+361
+00:05:43,600 --> 00:05:45,350
+as the spell dc
+targets roll against when you cast a
+
+362
+00:05:45,350 --> 00:05:45,360
+targets roll against when you cast a
+ 
+
+363
+00:05:45,360 --> 00:05:47,270
+targets roll against when you cast a
+spell against them
+
+364
+00:05:47,270 --> 00:05:47,280
+spell against them
+ 
+
+365
+00:05:47,280 --> 00:05:49,110
+spell against them
+unless otherwise stated the frightened
+
+366
+00:05:49,110 --> 00:05:49,120
+unless otherwise stated the frightened
+ 
+
+367
+00:05:49,120 --> 00:05:51,430
+unless otherwise stated the frightened
+condition's value lowers by one at the
+
+368
+00:05:51,430 --> 00:05:51,440
+condition's value lowers by one at the
+ 
+
+369
+00:05:51,440 --> 00:05:53,029
+condition's value lowers by one at the
+end of each of your turns until
+
+370
+00:05:53,029 --> 00:05:53,039
+end of each of your turns until
+ 
+
+371
+00:05:53,039 --> 00:05:55,510
+end of each of your turns until
+it completely wears off so if you suffer
+
+372
+00:05:55,510 --> 00:05:55,520
+it completely wears off so if you suffer
+ 
+
+373
+00:05:55,520 --> 00:05:57,189
+it completely wears off so if you suffer
+the frightened three condition on one
+
+374
+00:05:57,189 --> 00:05:57,199
+the frightened three condition on one
+ 
+
+375
+00:05:57,199 --> 00:05:57,749
+the frightened three condition on one
+round
+
+376
+00:05:57,749 --> 00:05:57,759
+round
+ 
+
+377
+00:05:57,759 --> 00:06:00,309
+round
+after your turn ends it becomes frighten
+
+378
+00:06:00,309 --> 00:06:00,319
+after your turn ends it becomes frighten
+ 
+
+379
+00:06:00,319 --> 00:06:00,870
+after your turn ends it becomes frighten
+two
+
+380
+00:06:00,870 --> 00:06:00,880
+two
+ 
+
+381
+00:06:00,880 --> 00:06:02,790
+two
+and then after the next turn it becomes
+
+382
+00:06:02,790 --> 00:06:02,800
+and then after the next turn it becomes
+ 
+
+383
+00:06:02,800 --> 00:06:04,469
+and then after the next turn it becomes
+frightened one and then
+
+384
+00:06:04,469 --> 00:06:04,479
+frightened one and then
+ 
+
+385
+00:06:04,479 --> 00:06:07,350
+frightened one and then
+ends at the end of the next turn also
+
+386
+00:06:07,350 --> 00:06:07,360
+ends at the end of the next turn also
+ 
+
+387
+00:06:07,360 --> 00:06:09,110
+ends at the end of the next turn also
+note that although the condition is
+
+388
+00:06:09,110 --> 00:06:09,120
+note that although the condition is
+ 
+
+389
+00:06:09,120 --> 00:06:10,230
+note that although the condition is
+called frightened
+
+390
+00:06:10,230 --> 00:06:10,240
+called frightened
+ 
+
+391
+00:06:10,240 --> 00:06:12,469
+called frightened
+in some cases it may be represented as
+
+392
+00:06:12,469 --> 00:06:12,479
+in some cases it may be represented as
+ 
+
+393
+00:06:12,479 --> 00:06:14,550
+in some cases it may be represented as
+an overpowering sense of awe
+
+394
+00:06:14,550 --> 00:06:14,560
+an overpowering sense of awe
+ 
+
+395
+00:06:14,560 --> 00:06:16,309
+an overpowering sense of awe
+such as when in the presence of an
+
+396
+00:06:16,309 --> 00:06:16,319
+such as when in the presence of an
+ 
+
+397
+00:06:16,319 --> 00:06:17,990
+such as when in the presence of an
+ancient metallic dragon
+
+398
+00:06:17,990 --> 00:06:18,000
+ancient metallic dragon
+ 
+
+399
+00:06:18,000 --> 00:06:19,510
+ancient metallic dragon
+in addition to the auras created by
+
+400
+00:06:19,510 --> 00:06:19,520
+in addition to the auras created by
+ 
+
+401
+00:06:19,520 --> 00:06:21,430
+in addition to the auras created by
+dragons some other sources of the
+
+402
+00:06:21,430 --> 00:06:21,440
+dragons some other sources of the
+ 
+
+403
+00:06:21,440 --> 00:06:22,390
+dragons some other sources of the
+frightened condition
+
+404
+00:06:22,390 --> 00:06:22,400
+frightened condition
+ 
+
+405
+00:06:22,400 --> 00:06:24,469
+frightened condition
+include the demoralized application of
+
+406
+00:06:24,469 --> 00:06:24,479
+include the demoralized application of
+ 
+
+407
+00:06:24,479 --> 00:06:25,590
+include the demoralized application of
+intimidation
+
+408
+00:06:25,590 --> 00:06:25,600
+intimidation
+ 
+
+409
+00:06:25,600 --> 00:06:27,990
+intimidation
+the fear spell and various abilities
+
+410
+00:06:27,990 --> 00:06:28,000
+the fear spell and various abilities
+ 
+
+411
+00:06:28,000 --> 00:06:29,830
+the fear spell and various abilities
+used by ghosts and other undead
+
+412
+00:06:29,830 --> 00:06:29,840
+used by ghosts and other undead
+ 
+
+413
+00:06:29,840 --> 00:06:32,390
+used by ghosts and other undead
+creatures
+
+414
+00:06:32,390 --> 00:06:32,400
+
+ 
+
+415
+00:06:32,400 --> 00:06:33,749
+
+now you may have noticed that the
+
+416
+00:06:33,749 --> 00:06:33,759
+now you may have noticed that the
+ 
+
+417
+00:06:33,759 --> 00:06:36,150
+now you may have noticed that the
+frightened condition in no way prevents
+
+418
+00:06:36,150 --> 00:06:36,160
+frightened condition in no way prevents
+ 
+
+419
+00:06:36,160 --> 00:06:38,469
+frightened condition in no way prevents
+its victim from taking actions against a
+
+420
+00:06:38,469 --> 00:06:38,479
+its victim from taking actions against a
+ 
+
+421
+00:06:38,479 --> 00:06:40,309
+its victim from taking actions against a
+creature imposing the condition on them
+
+422
+00:06:40,309 --> 00:06:40,319
+creature imposing the condition on them
+ 
+
+423
+00:06:40,319 --> 00:06:40,629
+creature imposing the condition on them
+or
+
+424
+00:06:40,629 --> 00:06:40,639
+or
+ 
+
+425
+00:06:40,639 --> 00:06:42,550
+or
+moving closer to whatever is scaring
+
+426
+00:06:42,550 --> 00:06:42,560
+moving closer to whatever is scaring
+ 
+
+427
+00:06:42,560 --> 00:06:44,870
+moving closer to whatever is scaring
+them those situations have their own
+
+428
+00:06:44,870 --> 00:06:44,880
+them those situations have their own
+ 
+
+429
+00:06:44,880 --> 00:06:45,510
+them those situations have their own
+condition
+
+430
+00:06:45,510 --> 00:06:45,520
+condition
+ 
+
+431
+00:06:45,520 --> 00:06:48,390
+condition
+called fleeing when a creature suffers
+
+432
+00:06:48,390 --> 00:06:48,400
+called fleeing when a creature suffers
+ 
+
+433
+00:06:48,400 --> 00:06:49,749
+called fleeing when a creature suffers
+the fleeing condition
+
+434
+00:06:49,749 --> 00:06:49,759
+the fleeing condition
+ 
+
+435
+00:06:49,759 --> 00:06:51,749
+the fleeing condition
+they must spend all of their actions
+
+436
+00:06:51,749 --> 00:06:51,759
+they must spend all of their actions
+ 
+
+437
+00:06:51,759 --> 00:06:53,430
+they must spend all of their actions
+moving away from the source of the
+
+438
+00:06:53,430 --> 00:06:53,440
+moving away from the source of the
+ 
+
+439
+00:06:53,440 --> 00:06:53,909
+moving away from the source of the
+condition
+
+440
+00:06:53,909 --> 00:06:53,919
+condition
+ 
+
+441
+00:06:53,919 --> 00:06:56,629
+condition
+as efficiently as possible this includes
+
+442
+00:06:56,629 --> 00:06:56,639
+as efficiently as possible this includes
+ 
+
+443
+00:06:56,639 --> 00:06:59,029
+as efficiently as possible this includes
+taking stride actions in the most direct
+
+444
+00:06:59,029 --> 00:06:59,039
+taking stride actions in the most direct
+ 
+
+445
+00:06:59,039 --> 00:07:00,790
+taking stride actions in the most direct
+path away from the scary thing
+
+446
+00:07:00,790 --> 00:07:00,800
+path away from the scary thing
+ 
+
+447
+00:07:00,800 --> 00:07:03,029
+path away from the scary thing
+as well as other actions to facilitate
+
+448
+00:07:03,029 --> 00:07:03,039
+as well as other actions to facilitate
+ 
+
+449
+00:07:03,039 --> 00:07:03,909
+as well as other actions to facilitate
+that such as
+
+450
+00:07:03,909 --> 00:07:03,919
+that such as
+ 
+
+451
+00:07:03,919 --> 00:07:06,230
+that such as
+opening doors and while fleeing you
+
+452
+00:07:06,230 --> 00:07:06,240
+opening doors and while fleeing you
+ 
+
+453
+00:07:06,240 --> 00:07:08,309
+opening doors and while fleeing you
+cannot use delay already
+
+454
+00:07:08,309 --> 00:07:08,319
+cannot use delay already
+ 
+
+455
+00:07:08,319 --> 00:07:10,230
+cannot use delay already
+and while fleeing you are also likely to
+
+456
+00:07:10,230 --> 00:07:10,240
+and while fleeing you are also likely to
+ 
+
+457
+00:07:10,240 --> 00:07:11,990
+and while fleeing you are also likely to
+be able to make common sense
+
+458
+00:07:11,990 --> 00:07:12,000
+be able to make common sense
+ 
+
+459
+00:07:12,000 --> 00:07:13,670
+be able to make common sense
+adjustments to the course you take to
+
+460
+00:07:13,670 --> 00:07:13,680
+adjustments to the course you take to
+ 
+
+461
+00:07:13,680 --> 00:07:15,270
+adjustments to the course you take to
+avoid obvious danger
+
+462
+00:07:15,270 --> 00:07:15,280
+avoid obvious danger
+ 
+
+463
+00:07:15,280 --> 00:07:17,510
+avoid obvious danger
+but as usual the gm has the final say on
+
+464
+00:07:17,510 --> 00:07:17,520
+but as usual the gm has the final say on
+ 
+
+465
+00:07:17,520 --> 00:07:19,270
+but as usual the gm has the final say on
+what would be an appropriate reaction
+
+466
+00:07:19,270 --> 00:07:19,280
+what would be an appropriate reaction
+ 
+
+467
+00:07:19,280 --> 00:07:21,350
+what would be an appropriate reaction
+and path to use when fleeing
+
+468
+00:07:21,350 --> 00:07:21,360
+and path to use when fleeing
+ 
+
+469
+00:07:21,360 --> 00:07:23,749
+and path to use when fleeing
+fleeing is often imposed as an advanced
+
+470
+00:07:23,749 --> 00:07:23,759
+fleeing is often imposed as an advanced
+ 
+
+471
+00:07:23,759 --> 00:07:24,950
+fleeing is often imposed as an advanced
+form of frightened
+
+472
+00:07:24,950 --> 00:07:24,960
+form of frightened
+ 
+
+473
+00:07:24,960 --> 00:07:26,870
+form of frightened
+for example failing a save against the
+
+474
+00:07:26,870 --> 00:07:26,880
+for example failing a save against the
+ 
+
+475
+00:07:26,880 --> 00:07:28,710
+for example failing a save against the
+fierce spell imposes frightened
+
+476
+00:07:28,710 --> 00:07:28,720
+fierce spell imposes frightened
+ 
+
+477
+00:07:28,720 --> 00:07:30,870
+fierce spell imposes frightened
+but critically failing it inflicts
+
+478
+00:07:30,870 --> 00:07:30,880
+but critically failing it inflicts
+ 
+
+479
+00:07:30,880 --> 00:07:33,110
+but critically failing it inflicts
+fleeing and each effect that applies the
+
+480
+00:07:33,110 --> 00:07:33,120
+fleeing and each effect that applies the
+ 
+
+481
+00:07:33,120 --> 00:07:34,070
+fleeing and each effect that applies the
+fleeing condition
+
+482
+00:07:34,070 --> 00:07:34,080
+fleeing condition
+ 
+
+483
+00:07:34,080 --> 00:07:35,909
+fleeing condition
+should specify the amount of time that
+
+484
+00:07:35,909 --> 00:07:35,919
+should specify the amount of time that
+ 
+
+485
+00:07:35,919 --> 00:07:39,909
+should specify the amount of time that
+you are required to run away
+
+486
+00:07:39,909 --> 00:07:39,919
+
+ 
+
+487
+00:07:39,919 --> 00:07:41,430
+
+before we close i'd like to take a
+
+488
+00:07:41,430 --> 00:07:41,440
+before we close i'd like to take a
+ 
+
+489
+00:07:41,440 --> 00:07:43,430
+before we close i'd like to take a
+moment to thank all of my patrons
+
+490
+00:07:43,430 --> 00:07:43,440
+moment to thank all of my patrons
+ 
+
+491
+00:07:43,440 --> 00:07:44,950
+moment to thank all of my patrons
+these videos would not be possible
+
+492
+00:07:44,950 --> 00:07:44,960
+these videos would not be possible
+ 
+
+493
+00:07:44,960 --> 00:07:46,950
+these videos would not be possible
+without their continued generosity and
+
+494
+00:07:46,950 --> 00:07:46,960
+without their continued generosity and
+ 
+
+495
+00:07:46,960 --> 00:07:48,070
+without their continued generosity and
+support
+
+496
+00:07:48,070 --> 00:07:48,080
+support
+ 
+
+497
+00:07:48,080 --> 00:07:49,589
+support
+members of the how is played patreon
+
+498
+00:07:49,589 --> 00:07:49,599
+members of the how is played patreon
+ 
+
+499
+00:07:49,599 --> 00:07:51,670
+members of the how is played patreon
+community receive special benefits like
+
+500
+00:07:51,670 --> 00:07:51,680
+community receive special benefits like
+ 
+
+501
+00:07:51,680 --> 00:07:52,869
+community receive special benefits like
+exclusive content
+
+502
+00:07:52,869 --> 00:07:52,879
+exclusive content
+ 
+
+503
+00:07:52,879 --> 00:07:54,469
+exclusive content
+and getting to vote on the topics i
+
+504
+00:07:54,469 --> 00:07:54,479
+and getting to vote on the topics i
+ 
+
+505
+00:07:54,479 --> 00:07:56,309
+and getting to vote on the topics i
+cover if you would like to support this
+
+506
+00:07:56,309 --> 00:07:56,319
+cover if you would like to support this
+ 
+
+507
+00:07:56,319 --> 00:07:57,670
+cover if you would like to support this
+channel and help it grow
+
+508
+00:07:57,670 --> 00:07:57,680
+channel and help it grow
+ 
+
+509
+00:07:57,680 --> 00:07:59,589
+channel and help it grow
+the easiest way to do that is by
+
+510
+00:07:59,589 --> 00:07:59,599
+the easiest way to do that is by
+ 
+
+511
+00:07:59,599 --> 00:08:01,589
+the easiest way to do that is by
+subscribing and clicking the bell icon
+
+512
+00:08:01,589 --> 00:08:01,599
+subscribing and clicking the bell icon
+ 
+
+513
+00:08:01,599 --> 00:08:03,350
+subscribing and clicking the bell icon
+so you get notified when new videos
+
+514
+00:08:03,350 --> 00:08:03,360
+so you get notified when new videos
+ 
+
+515
+00:08:03,360 --> 00:08:05,350
+so you get notified when new videos
+release and i can always be reached
+
+516
+00:08:05,350 --> 00:08:05,360
+release and i can always be reached
+ 
+
+517
+00:08:05,360 --> 00:08:07,270
+release and i can always be reached
+through twitter and facebook too
+
+518
+00:08:07,270 --> 00:08:07,280
+through twitter and facebook too
+ 
+
+519
+00:08:07,280 --> 00:08:10,830
+through twitter and facebook too
+thanks for watching take care and happy
+
+520
+00:08:10,830 --> 00:08:10,840
+thanks for watching take care and happy
+ 
+
+521
+00:08:10,840 --> 00:08:13,840
+thanks for watching take care and happy
+gaming
+

@@ -1,0 +1,4115 @@
+1
+00:00:00,650 --> 00:00:03,039
+
+hello and welcome to basics for gamers
+
+2
+00:00:03,039 --> 00:00:03,049
+hello and welcome to basics for gamers
+ 
+
+3
+00:00:03,049 --> 00:00:06,070
+hello and welcome to basics for gamers
+presents the basics of damaged part 1
+
+4
+00:00:06,070 --> 00:00:06,080
+presents the basics of damaged part 1
+ 
+
+5
+00:00:06,080 --> 00:00:07,960
+presents the basics of damaged part 1
+for Pathfinder 2nd edition
+
+6
+00:00:07,960 --> 00:00:07,970
+for Pathfinder 2nd edition
+ 
+
+7
+00:00:07,970 --> 00:00:10,539
+for Pathfinder 2nd edition
+in this video we will discuss the four
+
+8
+00:00:10,539 --> 00:00:10,549
+in this video we will discuss the four
+ 
+
+9
+00:00:10,549 --> 00:00:13,060
+in this video we will discuss the four
+step process for calculating and
+
+10
+00:00:13,060 --> 00:00:13,070
+step process for calculating and
+ 
+
+11
+00:00:13,070 --> 00:00:16,150
+step process for calculating and
+applying damage and in part 2 we'll
+
+12
+00:00:16,150 --> 00:00:16,160
+applying damage and in part 2 we'll
+ 
+
+13
+00:00:16,160 --> 00:00:18,759
+applying damage and in part 2 we'll
+expand on that discussion by covering
+
+14
+00:00:18,759 --> 00:00:18,769
+expand on that discussion by covering
+ 
+
+15
+00:00:18,769 --> 00:00:21,370
+expand on that discussion by covering
+some of the more interesting twists such
+
+16
+00:00:21,370 --> 00:00:21,380
+some of the more interesting twists such
+ 
+
+17
+00:00:21,380 --> 00:00:23,859
+some of the more interesting twists such
+as precision damage and persistent
+
+18
+00:00:23,859 --> 00:00:23,869
+as precision damage and persistent
+ 
+
+19
+00:00:23,869 --> 00:00:26,570
+as precision damage and persistent
+damage
+
+20
+00:00:26,570 --> 00:00:26,580
+
+ 
+
+21
+00:00:26,580 --> 00:00:29,060
+
+during an adventure players are likely
+
+22
+00:00:29,060 --> 00:00:29,070
+during an adventure players are likely
+ 
+
+23
+00:00:29,070 --> 00:00:31,040
+during an adventure players are likely
+to find themselves in conflict with all
+
+24
+00:00:31,040 --> 00:00:31,050
+to find themselves in conflict with all
+ 
+
+25
+00:00:31,050 --> 00:00:33,500
+to find themselves in conflict with all
+manner of dangerous enemies and if
+
+26
+00:00:33,500 --> 00:00:33,510
+manner of dangerous enemies and if
+ 
+
+27
+00:00:33,510 --> 00:00:35,840
+manner of dangerous enemies and if
+they're like my players this conflict
+
+28
+00:00:35,840 --> 00:00:35,850
+they're like my players this conflict
+ 
+
+29
+00:00:35,850 --> 00:00:38,060
+they're like my players this conflict
+will probably result in someone getting
+
+30
+00:00:38,060 --> 00:00:38,070
+will probably result in someone getting
+ 
+
+31
+00:00:38,070 --> 00:00:40,970
+will probably result in someone getting
+stabbed and when that happens damage is
+
+32
+00:00:40,970 --> 00:00:40,980
+stabbed and when that happens damage is
+ 
+
+33
+00:00:40,980 --> 00:00:43,490
+stabbed and when that happens damage is
+inflicted as you are probably already
+
+34
+00:00:43,490 --> 00:00:43,500
+inflicted as you are probably already
+ 
+
+35
+00:00:43,500 --> 00:00:46,280
+inflicted as you are probably already
+aware every creature has a number of hit
+
+36
+00:00:46,280 --> 00:00:46,290
+aware every creature has a number of hit
+ 
+
+37
+00:00:46,290 --> 00:00:49,000
+aware every creature has a number of hit
+points and when that total Falls to zero
+
+38
+00:00:49,000 --> 00:00:49,010
+points and when that total Falls to zero
+ 
+
+39
+00:00:49,010 --> 00:00:52,759
+points and when that total Falls to zero
+really bad things happen a future video
+
+40
+00:00:52,759 --> 00:00:52,769
+really bad things happen a future video
+ 
+
+41
+00:00:52,769 --> 00:00:55,100
+really bad things happen a future video
+titled the basics of life and death
+
+42
+00:00:55,100 --> 00:00:55,110
+titled the basics of life and death
+ 
+
+43
+00:00:55,110 --> 00:00:57,860
+titled the basics of life and death
+will cover how that works but for this
+
+44
+00:00:57,860 --> 00:00:57,870
+will cover how that works but for this
+ 
+
+45
+00:00:57,870 --> 00:01:00,170
+will cover how that works but for this
+conversation was important to understand
+
+46
+00:01:00,170 --> 00:01:00,180
+conversation was important to understand
+ 
+
+47
+00:01:00,180 --> 00:01:03,380
+conversation was important to understand
+as damage is the mechanism by which hit
+
+48
+00:01:03,380 --> 00:01:03,390
+as damage is the mechanism by which hit
+ 
+
+49
+00:01:03,390 --> 00:01:05,779
+as damage is the mechanism by which hit
+points are reduced and there's more
+
+50
+00:01:05,779 --> 00:01:05,789
+points are reduced and there's more
+ 
+
+51
+00:01:05,789 --> 00:01:07,820
+points are reduced and there's more
+going on there than just simple
+
+52
+00:01:07,820 --> 00:01:07,830
+going on there than just simple
+ 
+
+53
+00:01:07,830 --> 00:01:11,480
+going on there than just simple
+subtraction there is a four-step process
+
+54
+00:01:11,480 --> 00:01:11,490
+subtraction there is a four-step process
+ 
+
+55
+00:01:11,490 --> 00:01:14,870
+subtraction there is a four-step process
+for resolving damage step one is
+
+56
+00:01:14,870 --> 00:01:14,880
+for resolving damage step one is
+ 
+
+57
+00:01:14,880 --> 00:01:18,260
+for resolving damage step one is
+determine the base damage any effect
+
+58
+00:01:18,260 --> 00:01:18,270
+determine the base damage any effect
+ 
+
+59
+00:01:18,270 --> 00:01:20,210
+determine the base damage any effect
+that applies damage should include a
+
+60
+00:01:20,210 --> 00:01:20,220
+that applies damage should include a
+ 
+
+61
+00:01:20,220 --> 00:01:22,190
+that applies damage should include a
+number of dice to roll to determine the
+
+62
+00:01:22,190 --> 00:01:22,200
+number of dice to roll to determine the
+ 
+
+63
+00:01:22,200 --> 00:01:25,160
+number of dice to roll to determine the
+base damage in rare cases the effect
+
+64
+00:01:25,160 --> 00:01:25,170
+base damage in rare cases the effect
+ 
+
+65
+00:01:25,170 --> 00:01:26,899
+base damage in rare cases the effect
+will provide a flattened number without
+
+66
+00:01:26,899 --> 00:01:26,909
+will provide a flattened number without
+ 
+
+67
+00:01:26,909 --> 00:01:29,930
+will provide a flattened number without
+the need to roll dice but generally
+
+68
+00:01:29,930 --> 00:01:29,940
+the need to roll dice but generally
+ 
+
+69
+00:01:29,940 --> 00:01:32,499
+the need to roll dice but generally
+speaking you will make a damage roll
+
+70
+00:01:32,499 --> 00:01:32,509
+speaking you will make a damage roll
+ 
+
+71
+00:01:32,509 --> 00:01:36,160
+speaking you will make a damage roll
+step two is determined the damage type
+
+72
+00:01:36,160 --> 00:01:36,170
+step two is determined the damage type
+ 
+
+73
+00:01:36,170 --> 00:01:39,620
+step two is determined the damage type
+we'll talk about this more in a bit but
+
+74
+00:01:39,620 --> 00:01:39,630
+we'll talk about this more in a bit but
+ 
+
+75
+00:01:39,630 --> 00:01:41,990
+we'll talk about this more in a bit but
+there's no such thing as generic damage
+
+76
+00:01:41,990 --> 00:01:42,000
+there's no such thing as generic damage
+ 
+
+77
+00:01:42,000 --> 00:01:44,660
+there's no such thing as generic damage
+in Pathfinder all damage has at least
+
+78
+00:01:44,660 --> 00:01:44,670
+in Pathfinder all damage has at least
+ 
+
+79
+00:01:44,670 --> 00:01:48,020
+in Pathfinder all damage has at least
+one type for example slashing damage or
+
+80
+00:01:48,020 --> 00:01:48,030
+one type for example slashing damage or
+ 
+
+81
+00:01:48,030 --> 00:01:51,020
+one type for example slashing damage or
+fire damage this is important to know
+
+82
+00:01:51,020 --> 00:01:51,030
+fire damage this is important to know
+ 
+
+83
+00:01:51,030 --> 00:01:52,910
+fire damage this is important to know
+when you're dealing with step three
+
+84
+00:01:52,910 --> 00:01:52,920
+when you're dealing with step three
+ 
+
+85
+00:01:52,920 --> 00:01:56,089
+when you're dealing with step three
+which is adjust the base damage for any
+
+86
+00:01:56,089 --> 00:01:56,099
+which is adjust the base damage for any
+ 
+
+87
+00:01:56,099 --> 00:01:58,270
+which is adjust the base damage for any
+immunities resistances or
+
+88
+00:01:58,270 --> 00:01:58,280
+immunities resistances or
+ 
+
+89
+00:01:58,280 --> 00:02:00,320
+immunities resistances or
+vulnerabilities the target might have
+
+90
+00:02:00,320 --> 00:02:00,330
+vulnerabilities the target might have
+ 
+
+91
+00:02:00,330 --> 00:02:04,279
+vulnerabilities the target might have
+and in step four you apply the damage
+
+92
+00:02:04,279 --> 00:02:04,289
+and in step four you apply the damage
+ 
+
+93
+00:02:04,289 --> 00:02:06,889
+and in step four you apply the damage
+whatever total is remaining at the end
+
+94
+00:02:06,889 --> 00:02:06,899
+whatever total is remaining at the end
+ 
+
+95
+00:02:06,899 --> 00:02:09,469
+whatever total is remaining at the end
+of step three is subtracted from the
+
+96
+00:02:09,469 --> 00:02:09,479
+of step three is subtracted from the
+ 
+
+97
+00:02:09,479 --> 00:02:12,980
+of step three is subtracted from the
+targets current hit points
+
+98
+00:02:12,980 --> 00:02:12,990
+
+ 
+
+99
+00:02:12,990 --> 00:02:15,590
+
+in the first step we calculate the base
+
+100
+00:02:15,590 --> 00:02:15,600
+in the first step we calculate the base
+ 
+
+101
+00:02:15,600 --> 00:02:17,960
+in the first step we calculate the base
+damage of the effect and the best place
+
+102
+00:02:17,960 --> 00:02:17,970
+damage of the effect and the best place
+ 
+
+103
+00:02:17,970 --> 00:02:20,180
+damage of the effect and the best place
+to start that discussion is with weapon
+
+104
+00:02:20,180 --> 00:02:20,190
+to start that discussion is with weapon
+ 
+
+105
+00:02:20,190 --> 00:02:22,700
+to start that discussion is with weapon
+damage damage from weapon attacks is
+
+106
+00:02:22,700 --> 00:02:22,710
+damage damage from weapon attacks is
+ 
+
+107
+00:02:22,710 --> 00:02:24,980
+damage damage from weapon attacks is
+pretty straightforward if it's a melee
+
+108
+00:02:24,980 --> 00:02:24,990
+pretty straightforward if it's a melee
+ 
+
+109
+00:02:24,990 --> 00:02:27,800
+pretty straightforward if it's a melee
+attack like swinging an axe then base
+
+110
+00:02:27,800 --> 00:02:27,810
+attack like swinging an axe then base
+ 
+
+111
+00:02:27,810 --> 00:02:29,870
+attack like swinging an axe then base
+damage is equal to the weapons damaged
+
+112
+00:02:29,870 --> 00:02:29,880
+damage is equal to the weapons damaged
+ 
+
+113
+00:02:29,880 --> 00:02:32,750
+damage is equal to the weapons damaged
+ice plus the attackers strength modifier
+
+114
+00:02:32,750 --> 00:02:32,760
+ice plus the attackers strength modifier
+ 
+
+115
+00:02:32,760 --> 00:02:36,500
+ice plus the attackers strength modifier
+and if it's a ranged attack is just the
+
+116
+00:02:36,500 --> 00:02:36,510
+and if it's a ranged attack is just the
+ 
+
+117
+00:02:36,510 --> 00:02:39,500
+and if it's a ranged attack is just the
+weapons damaged ice you do not add any
+
+118
+00:02:39,500 --> 00:02:39,510
+weapons damaged ice you do not add any
+ 
+
+119
+00:02:39,510 --> 00:02:41,870
+weapons damaged ice you do not add any
+ability modifier to the damage for our
+
+120
+00:02:41,870 --> 00:02:41,880
+ability modifier to the damage for our
+ 
+
+121
+00:02:41,880 --> 00:02:44,300
+ability modifier to the damage for our
+ranged attack for example you do not add
+
+122
+00:02:44,300 --> 00:02:44,310
+ranged attack for example you do not add
+ 
+
+123
+00:02:44,310 --> 00:02:47,300
+ranged attack for example you do not add
+dexterity to a ranged attack as is done
+
+124
+00:02:47,300 --> 00:02:47,310
+dexterity to a ranged attack as is done
+ 
+
+125
+00:02:47,310 --> 00:02:50,600
+dexterity to a ranged attack as is done
+in some other games and there are a few
+
+126
+00:02:50,600 --> 00:02:50,610
+in some other games and there are a few
+ 
+
+127
+00:02:50,610 --> 00:02:53,350
+in some other games and there are a few
+ways to adjust this damage even further
+
+128
+00:02:53,350 --> 00:02:53,360
+ways to adjust this damage even further
+ 
+
+129
+00:02:53,360 --> 00:02:56,390
+ways to adjust this damage even further
+weapons with the thrown trait like
+
+130
+00:02:56,390 --> 00:02:56,400
+weapons with the thrown trait like
+ 
+
+131
+00:02:56,400 --> 00:02:59,540
+weapons with the thrown trait like
+javelins add your strength modifier to
+
+132
+00:02:59,540 --> 00:02:59,550
+javelins add your strength modifier to
+ 
+
+133
+00:02:59,550 --> 00:03:01,520
+javelins add your strength modifier to
+their damage even though they're
+
+134
+00:03:01,520 --> 00:03:01,530
+their damage even though they're
+ 
+
+135
+00:03:01,530 --> 00:03:03,770
+their damage even though they're
+arranged attacks but there is one
+
+136
+00:03:03,770 --> 00:03:03,780
+arranged attacks but there is one
+ 
+
+137
+00:03:03,780 --> 00:03:06,290
+arranged attacks but there is one
+notable exception to this weapons with
+
+138
+00:03:06,290 --> 00:03:06,300
+notable exception to this weapons with
+ 
+
+139
+00:03:06,300 --> 00:03:09,260
+notable exception to this weapons with
+the splash trait like acid flasks or
+
+140
+00:03:09,260 --> 00:03:09,270
+the splash trait like acid flasks or
+ 
+
+141
+00:03:09,270 --> 00:03:11,810
+the splash trait like acid flasks or
+bombs do not have any strength modifiers
+
+142
+00:03:11,810 --> 00:03:11,820
+bombs do not have any strength modifiers
+ 
+
+143
+00:03:11,820 --> 00:03:13,940
+bombs do not have any strength modifiers
+added to them even though they may be
+
+144
+00:03:13,940 --> 00:03:13,950
+added to them even though they may be
+ 
+
+145
+00:03:13,950 --> 00:03:17,000
+added to them even though they may be
+thrown if the weapon has the propulsive
+
+146
+00:03:17,000 --> 00:03:17,010
+thrown if the weapon has the propulsive
+ 
+
+147
+00:03:17,010 --> 00:03:20,360
+thrown if the weapon has the propulsive
+trait like slings and composite bows you
+
+148
+00:03:20,360 --> 00:03:20,370
+trait like slings and composite bows you
+ 
+
+149
+00:03:20,370 --> 00:03:22,820
+trait like slings and composite bows you
+add half your strength modifier to the
+
+150
+00:03:22,820 --> 00:03:22,830
+add half your strength modifier to the
+ 
+
+151
+00:03:22,830 --> 00:03:25,730
+add half your strength modifier to the
+damage or all of your strength modifier
+
+152
+00:03:25,730 --> 00:03:25,740
+damage or all of your strength modifier
+ 
+
+153
+00:03:25,740 --> 00:03:28,910
+damage or all of your strength modifier
+if that is a negative number and if the
+
+154
+00:03:28,910 --> 00:03:28,920
+if that is a negative number and if the
+ 
+
+155
+00:03:28,920 --> 00:03:31,520
+if that is a negative number and if the
+weapon has the two-hand trait the
+
+156
+00:03:31,520 --> 00:03:31,530
+weapon has the two-hand trait the
+ 
+
+157
+00:03:31,530 --> 00:03:34,130
+weapon has the two-hand trait the
+damaged ice increases to the listed
+
+158
+00:03:34,130 --> 00:03:34,140
+damaged ice increases to the listed
+ 
+
+159
+00:03:34,140 --> 00:03:37,520
+damaged ice increases to the listed
+value for example bastard swords have a
+
+160
+00:03:37,520 --> 00:03:37,530
+value for example bastard swords have a
+ 
+
+161
+00:03:37,530 --> 00:03:40,700
+value for example bastard swords have a
+base damage of 1d8 but when they're
+
+162
+00:03:40,700 --> 00:03:40,710
+base damage of 1d8 but when they're
+ 
+
+163
+00:03:40,710 --> 00:03:43,310
+base damage of 1d8 but when they're
+wielded with both hands that increases
+
+164
+00:03:43,310 --> 00:03:43,320
+wielded with both hands that increases
+ 
+
+165
+00:03:43,320 --> 00:03:47,180
+wielded with both hands that increases
+to 1 d12 and this is a change to its
+
+166
+00:03:47,180 --> 00:03:47,190
+to 1 d12 and this is a change to its
+ 
+
+167
+00:03:47,190 --> 00:03:50,540
+to 1 d12 and this is a change to its
+base damage die so any effect that
+
+168
+00:03:50,540 --> 00:03:50,550
+base damage die so any effect that
+ 
+
+169
+00:03:50,550 --> 00:03:53,270
+base damage die so any effect that
+further modifies as dice are based off
+
+170
+00:03:53,270 --> 00:03:53,280
+further modifies as dice are based off
+ 
+
+171
+00:03:53,280 --> 00:03:57,140
+further modifies as dice are based off
+of d12 for example a badger sword with a
+
+172
+00:03:57,140 --> 00:03:57,150
+of d12 for example a badger sword with a
+ 
+
+173
+00:03:57,150 --> 00:04:00,770
+of d12 for example a badger sword with a
+striking rune deals to d12 damage when
+
+174
+00:04:00,770 --> 00:04:00,780
+striking rune deals to d12 damage when
+ 
+
+175
+00:04:00,780 --> 00:04:04,100
+striking rune deals to d12 damage when
+wielded with both hands so in the first
+
+176
+00:04:04,100 --> 00:04:04,110
+wielded with both hands so in the first
+ 
+
+177
+00:04:04,110 --> 00:04:06,020
+wielded with both hands so in the first
+step we begin with a damage role for the
+
+178
+00:04:06,020 --> 00:04:06,030
+step we begin with a damage role for the
+ 
+
+179
+00:04:06,030 --> 00:04:07,910
+step we begin with a damage role for the
+effect but it's important to note that
+
+180
+00:04:07,910 --> 00:04:07,920
+effect but it's important to note that
+ 
+
+181
+00:04:07,920 --> 00:04:10,370
+effect but it's important to note that
+in Pathfinder 2nd edition there are only
+
+182
+00:04:10,370 --> 00:04:10,380
+in Pathfinder 2nd edition there are only
+ 
+
+183
+00:04:10,380 --> 00:04:12,590
+in Pathfinder 2nd edition there are only
+three instances that are defined as
+
+184
+00:04:12,590 --> 00:04:12,600
+three instances that are defined as
+ 
+
+185
+00:04:12,600 --> 00:04:15,830
+three instances that are defined as
+quote damage rolls and they are the
+
+186
+00:04:15,830 --> 00:04:15,840
+quote damage rolls and they are the
+ 
+
+187
+00:04:15,840 --> 00:04:18,320
+quote damage rolls and they are the
+damaged dice for a weapon unarmed
+
+188
+00:04:18,320 --> 00:04:18,330
+damaged dice for a weapon unarmed
+ 
+
+189
+00:04:18,330 --> 00:04:20,270
+damaged dice for a weapon unarmed
+attacks and for spell attacks I
+
+190
+00:04:20,270 --> 00:04:20,280
+attacks and for spell attacks I
+ 
+
+191
+00:04:20,280 --> 00:04:22,790
+attacks and for spell attacks I
+sometimes refer to this as the base
+
+192
+00:04:22,790 --> 00:04:22,800
+sometimes refer to this as the base
+ 
+
+193
+00:04:22,800 --> 00:04:24,710
+sometimes refer to this as the base
+damage to distinguish it from anything
+
+194
+00:04:24,710 --> 00:04:24,720
+damage to distinguish it from anything
+ 
+
+195
+00:04:24,720 --> 00:04:27,020
+damage to distinguish it from anything
+that's added on for example is a
+
+196
+00:04:27,020 --> 00:04:27,030
+that's added on for example is a
+ 
+
+197
+00:04:27,030 --> 00:04:29,390
+that's added on for example is a
+you have a flaming Warhammer if you hit
+
+198
+00:04:29,390 --> 00:04:29,400
+you have a flaming Warhammer if you hit
+ 
+
+199
+00:04:29,400 --> 00:04:31,820
+you have a flaming Warhammer if you hit
+a monster with it you might roll one die
+
+200
+00:04:31,820 --> 00:04:31,830
+a monster with it you might roll one die
+ 
+
+201
+00:04:31,830 --> 00:04:34,550
+a monster with it you might roll one die
+for the weapon damage and a roll another
+
+202
+00:04:34,550 --> 00:04:34,560
+for the weapon damage and a roll another
+ 
+
+203
+00:04:34,560 --> 00:04:37,550
+for the weapon damage and a roll another
+die for the extra fire damage but
+
+204
+00:04:37,550 --> 00:04:37,560
+die for the extra fire damage but
+ 
+
+205
+00:04:37,560 --> 00:04:40,340
+die for the extra fire damage but
+technically speaking the only quote
+
+206
+00:04:40,340 --> 00:04:40,350
+technically speaking the only quote
+ 
+
+207
+00:04:40,350 --> 00:04:43,640
+technically speaking the only quote
+damage role would be for the weapon and
+
+208
+00:04:43,640 --> 00:04:43,650
+damage role would be for the weapon and
+ 
+
+209
+00:04:43,650 --> 00:04:46,460
+damage role would be for the weapon and
+the reason this is important is four
+
+210
+00:04:46,460 --> 00:04:46,470
+the reason this is important is four
+ 
+
+211
+00:04:46,470 --> 00:04:48,110
+the reason this is important is four
+times when you see abilities like
+
+212
+00:04:48,110 --> 00:04:48,120
+times when you see abilities like
+ 
+
+213
+00:04:48,120 --> 00:04:50,570
+times when you see abilities like
+inspire courage that granted bonus to
+
+214
+00:04:50,570 --> 00:04:50,580
+inspire courage that granted bonus to
+ 
+
+215
+00:04:50,580 --> 00:04:53,900
+inspire courage that granted bonus to
+quote damage rolls this only applies to
+
+216
+00:04:53,900 --> 00:04:53,910
+quote damage rolls this only applies to
+ 
+
+217
+00:04:53,910 --> 00:04:56,900
+quote damage rolls this only applies to
+the weapon damage dice unarmed damage
+
+218
+00:04:56,900 --> 00:04:56,910
+the weapon damage dice unarmed damage
+ 
+
+219
+00:04:56,910 --> 00:04:59,780
+the weapon damage dice unarmed damage
+dice and spell what damage dice and not
+
+220
+00:04:59,780 --> 00:04:59,790
+dice and spell what damage dice and not
+ 
+
+221
+00:04:59,790 --> 00:05:02,870
+dice and spell what damage dice and not
+to any other effect that's tagged on to
+
+222
+00:05:02,870 --> 00:05:02,880
+to any other effect that's tagged on to
+ 
+
+223
+00:05:02,880 --> 00:05:06,260
+to any other effect that's tagged on to
+that base damage so inspire courage
+
+224
+00:05:06,260 --> 00:05:06,270
+that base damage so inspire courage
+ 
+
+225
+00:05:06,270 --> 00:05:08,330
+that base damage so inspire courage
+would add +1 to the damage of the
+
+226
+00:05:08,330 --> 00:05:08,340
+would add +1 to the damage of the
+ 
+
+227
+00:05:08,340 --> 00:05:12,660
+would add +1 to the damage of the
+flaming Warhammer not +2
+
+228
+00:05:12,660 --> 00:05:12,670
+
+ 
+
+229
+00:05:12,670 --> 00:05:14,700
+
+there will be times when you need to
+
+230
+00:05:14,700 --> 00:05:14,710
+there will be times when you need to
+ 
+
+231
+00:05:14,710 --> 00:05:17,400
+there will be times when you need to
+double the damage or cut it in half for
+
+232
+00:05:17,400 --> 00:05:17,410
+double the damage or cut it in half for
+ 
+
+233
+00:05:17,410 --> 00:05:19,200
+double the damage or cut it in half for
+example when you roll a critical hit the
+
+234
+00:05:19,200 --> 00:05:19,210
+example when you roll a critical hit the
+ 
+
+235
+00:05:19,210 --> 00:05:22,050
+example when you roll a critical hit the
+damage is doubled this is pretty simple
+
+236
+00:05:22,050 --> 00:05:22,060
+damage is doubled this is pretty simple
+ 
+
+237
+00:05:22,060 --> 00:05:24,960
+damage is doubled this is pretty simple
+you just roll the damage as normal with
+
+238
+00:05:24,960 --> 00:05:24,970
+you just roll the damage as normal with
+ 
+
+239
+00:05:24,970 --> 00:05:27,450
+you just roll the damage as normal with
+all the usual bonuses such as a strength
+
+240
+00:05:27,450 --> 00:05:27,460
+all the usual bonuses such as a strength
+ 
+
+241
+00:05:27,460 --> 00:05:29,760
+all the usual bonuses such as a strength
+bonus for a melee attack and then you
+
+242
+00:05:29,760 --> 00:05:29,770
+bonus for a melee attack and then you
+ 
+
+243
+00:05:29,770 --> 00:05:33,750
+bonus for a melee attack and then you
+multiply that total by 2 and then any
+
+244
+00:05:33,750 --> 00:05:33,760
+multiply that total by 2 and then any
+ 
+
+245
+00:05:33,760 --> 00:05:36,300
+multiply that total by 2 and then any
+extra damage that only applies to
+
+246
+00:05:36,300 --> 00:05:36,310
+extra damage that only applies to
+ 
+
+247
+00:05:36,310 --> 00:05:39,990
+extra damage that only applies to
+critical hits is added on top of that
+
+248
+00:05:39,990 --> 00:05:40,000
+critical hits is added on top of that
+ 
+
+249
+00:05:40,000 --> 00:05:42,240
+critical hits is added on top of that
+for example weapons with the deadly
+
+250
+00:05:42,240 --> 00:05:42,250
+for example weapons with the deadly
+ 
+
+251
+00:05:42,250 --> 00:05:44,910
+for example weapons with the deadly
+trait inflict additional bonus damage on
+
+252
+00:05:44,910 --> 00:05:44,920
+trait inflict additional bonus damage on
+ 
+
+253
+00:05:44,920 --> 00:05:48,090
+trait inflict additional bonus damage on
+critical hits so say you have a strength
+
+254
+00:05:48,090 --> 00:05:48,100
+critical hits so say you have a strength
+ 
+
+255
+00:05:48,100 --> 00:05:50,820
+critical hits so say you have a strength
+modifier of +2 and score a critical hit
+
+256
+00:05:50,820 --> 00:05:50,830
+modifier of +2 and score a critical hit
+ 
+
+257
+00:05:50,830 --> 00:05:54,090
+modifier of +2 and score a critical hit
+with a rapier rapiers deal when d6
+
+258
+00:05:54,090 --> 00:05:54,100
+with a rapier rapiers deal when d6
+ 
+
+259
+00:05:54,100 --> 00:05:57,870
+with a rapier rapiers deal when d6
+damage and have the deadly d8 trait on a
+
+260
+00:05:57,870 --> 00:05:57,880
+damage and have the deadly d8 trait on a
+ 
+
+261
+00:05:57,880 --> 00:06:00,330
+damage and have the deadly d8 trait on a
+critical hit you would roll the normal
+
+262
+00:06:00,330 --> 00:06:00,340
+critical hit you would roll the normal
+ 
+
+263
+00:06:00,340 --> 00:06:03,870
+critical hit you would roll the normal
+damage of one d6 + 2 and then double
+
+264
+00:06:03,870 --> 00:06:03,880
+damage of one d6 + 2 and then double
+ 
+
+265
+00:06:03,880 --> 00:06:08,280
+damage of one d6 + 2 and then double
+that total and then add the extra 1 d8
+
+266
+00:06:08,280 --> 00:06:08,290
+that total and then add the extra 1 d8
+ 
+
+267
+00:06:08,290 --> 00:06:11,130
+that total and then add the extra 1 d8
+for the deadly trait the key to remember
+
+268
+00:06:11,130 --> 00:06:11,140
+for the deadly trait the key to remember
+ 
+
+269
+00:06:11,140 --> 00:06:14,280
+for the deadly trait the key to remember
+is you never double damage that only
+
+270
+00:06:14,280 --> 00:06:14,290
+is you never double damage that only
+ 
+
+271
+00:06:14,290 --> 00:06:17,400
+is you never double damage that only
+occurs on critical hits so you wouldn't
+
+272
+00:06:17,400 --> 00:06:17,410
+occurs on critical hits so you wouldn't
+ 
+
+273
+00:06:17,410 --> 00:06:19,800
+occurs on critical hits so you wouldn't
+double the one d8 from the deadly trait
+
+274
+00:06:19,800 --> 00:06:19,810
+double the one d8 from the deadly trait
+ 
+
+275
+00:06:19,810 --> 00:06:22,620
+double the one d8 from the deadly trait
+because it only applies to critical hits
+
+276
+00:06:22,620 --> 00:06:22,630
+because it only applies to critical hits
+ 
+
+277
+00:06:22,630 --> 00:06:24,800
+because it only applies to critical hits
+in the first place
+
+278
+00:06:24,800 --> 00:06:24,810
+in the first place
+ 
+
+279
+00:06:24,810 --> 00:06:27,620
+in the first place
+next let's consider a rogue using their
+
+280
+00:06:27,620 --> 00:06:27,630
+next let's consider a rogue using their
+ 
+
+281
+00:06:27,630 --> 00:06:30,470
+next let's consider a rogue using their
+dagger to sneak attack someone again
+
+282
+00:06:30,470 --> 00:06:30,480
+dagger to sneak attack someone again
+ 
+
+283
+00:06:30,480 --> 00:06:32,030
+dagger to sneak attack someone again
+will say they have a +2 strength
+
+284
+00:06:32,030 --> 00:06:32,040
+will say they have a +2 strength
+ 
+
+285
+00:06:32,040 --> 00:06:34,940
+will say they have a +2 strength
+modifier and their sneak attack deals 1
+
+286
+00:06:34,940 --> 00:06:34,950
+modifier and their sneak attack deals 1
+ 
+
+287
+00:06:34,950 --> 00:06:37,970
+modifier and their sneak attack deals 1
+d6 damage if this rogue score is a
+
+288
+00:06:37,970 --> 00:06:37,980
+d6 damage if this rogue score is a
+ 
+
+289
+00:06:37,980 --> 00:06:40,280
+d6 damage if this rogue score is a
+critical hit with a sneak attack the
+
+290
+00:06:40,280 --> 00:06:40,290
+critical hit with a sneak attack the
+ 
+
+291
+00:06:40,290 --> 00:06:43,070
+critical hit with a sneak attack the
+damage would be the daggers usual 1 d 4
+
+292
+00:06:43,070 --> 00:06:43,080
+damage would be the daggers usual 1 d 4
+ 
+
+293
+00:06:43,080 --> 00:06:48,110
+damage would be the daggers usual 1 d 4
++ 2 + 1 d6 for the sneak attack and then
+
+294
+00:06:48,110 --> 00:06:48,120
++ 2 + 1 d6 for the sneak attack and then
+ 
+
+295
+00:06:48,120 --> 00:06:51,320
++ 2 + 1 d6 for the sneak attack and then
+that entire total is doubled because
+
+296
+00:06:51,320 --> 00:06:51,330
+that entire total is doubled because
+ 
+
+297
+00:06:51,330 --> 00:06:54,260
+that entire total is doubled because
+sneak attack damage is not dependent on
+
+298
+00:06:54,260 --> 00:06:54,270
+sneak attack damage is not dependent on
+ 
+
+299
+00:06:54,270 --> 00:06:57,260
+sneak attack damage is not dependent on
+there being a critical hit it does get
+
+300
+00:06:57,260 --> 00:06:57,270
+there being a critical hit it does get
+ 
+
+301
+00:06:57,270 --> 00:06:59,900
+there being a critical hit it does get
+doubled and there will be times when you
+
+302
+00:06:59,900 --> 00:06:59,910
+doubled and there will be times when you
+ 
+
+303
+00:06:59,910 --> 00:07:02,570
+doubled and there will be times when you
+need to cut the damage in half such as
+
+304
+00:07:02,570 --> 00:07:02,580
+need to cut the damage in half such as
+ 
+
+305
+00:07:02,580 --> 00:07:04,880
+need to cut the damage in half such as
+when the target of a spell succeeds on
+
+306
+00:07:04,880 --> 00:07:04,890
+when the target of a spell succeeds on
+ 
+
+307
+00:07:04,890 --> 00:07:07,970
+when the target of a spell succeeds on
+their reflect save in these cases you
+
+308
+00:07:07,970 --> 00:07:07,980
+their reflect save in these cases you
+ 
+
+309
+00:07:07,980 --> 00:07:10,180
+their reflect save in these cases you
+simply divide the damage by 2 and
+
+310
+00:07:10,180 --> 00:07:10,190
+simply divide the damage by 2 and
+ 
+
+311
+00:07:10,190 --> 00:07:13,490
+simply divide the damage by 2 and
+rounded down remember the rule of thumb
+
+312
+00:07:13,490 --> 00:07:13,500
+rounded down remember the rule of thumb
+ 
+
+313
+00:07:13,500 --> 00:07:16,100
+rounded down remember the rule of thumb
+for Pathfinder is that you always round
+
+314
+00:07:16,100 --> 00:07:16,110
+for Pathfinder is that you always round
+ 
+
+315
+00:07:16,110 --> 00:07:18,950
+for Pathfinder is that you always round
+down unless you are specifically told to
+
+316
+00:07:18,950 --> 00:07:18,960
+down unless you are specifically told to
+ 
+
+317
+00:07:18,960 --> 00:07:21,950
+down unless you are specifically told to
+do otherwise
+
+318
+00:07:21,950 --> 00:07:21,960
+
+ 
+
+319
+00:07:21,960 --> 00:07:24,439
+
+damage and Petfinder is not generic in
+
+320
+00:07:24,439 --> 00:07:24,449
+damage and Petfinder is not generic in
+ 
+
+321
+00:07:24,449 --> 00:07:26,870
+damage and Petfinder is not generic in
+each source of damage should list its
+
+322
+00:07:26,870 --> 00:07:26,880
+each source of damage should list its
+ 
+
+323
+00:07:26,880 --> 00:07:29,900
+each source of damage should list its
+damage type there are many different
+
+324
+00:07:29,900 --> 00:07:29,910
+damage type there are many different
+ 
+
+325
+00:07:29,910 --> 00:07:32,480
+damage type there are many different
+damage types and we'll be covering the
+
+326
+00:07:32,480 --> 00:07:32,490
+damage types and we'll be covering the
+ 
+
+327
+00:07:32,490 --> 00:07:34,730
+damage types and we'll be covering the
+more common and straightforward of those
+
+328
+00:07:34,730 --> 00:07:34,740
+more common and straightforward of those
+ 
+
+329
+00:07:34,740 --> 00:07:35,570
+more common and straightforward of those
+in this video
+
+330
+00:07:35,570 --> 00:07:35,580
+in this video
+ 
+
+331
+00:07:35,580 --> 00:07:38,150
+in this video
+and the remaining damage types will be
+
+332
+00:07:38,150 --> 00:07:38,160
+and the remaining damage types will be
+ 
+
+333
+00:07:38,160 --> 00:07:41,330
+and the remaining damage types will be
+discussed in part two first there are
+
+334
+00:07:41,330 --> 00:07:41,340
+discussed in part two first there are
+ 
+
+335
+00:07:41,340 --> 00:07:43,700
+discussed in part two first there are
+three kinds of physical damage which are
+
+336
+00:07:43,700 --> 00:07:43,710
+three kinds of physical damage which are
+ 
+
+337
+00:07:43,710 --> 00:07:46,430
+three kinds of physical damage which are
+bludgeoning like being hit with a club
+
+338
+00:07:46,430 --> 00:07:46,440
+bludgeoning like being hit with a club
+ 
+
+339
+00:07:46,440 --> 00:07:49,400
+bludgeoning like being hit with a club
+or hammer piercing like being shot with
+
+340
+00:07:49,400 --> 00:07:49,410
+or hammer piercing like being shot with
+ 
+
+341
+00:07:49,410 --> 00:07:51,340
+or hammer piercing like being shot with
+an arrow are stabbed by a spear and
+
+342
+00:07:51,340 --> 00:07:51,350
+an arrow are stabbed by a spear and
+ 
+
+343
+00:07:51,350 --> 00:07:54,830
+an arrow are stabbed by a spear and
+slashing like being cut by an axe the
+
+344
+00:07:54,830 --> 00:07:54,840
+slashing like being cut by an axe the
+ 
+
+345
+00:07:54,840 --> 00:07:57,439
+slashing like being cut by an axe the
+damage listing for weapons show a letter
+
+346
+00:07:57,439 --> 00:07:57,449
+damage listing for weapons show a letter
+ 
+
+347
+00:07:57,449 --> 00:08:01,700
+damage listing for weapons show a letter
+B P or s next to the damage dice to
+
+348
+00:08:01,700 --> 00:08:01,710
+B P or s next to the damage dice to
+ 
+
+349
+00:08:01,710 --> 00:08:04,610
+B P or s next to the damage dice to
+represent the damage type so when you
+
+350
+00:08:04,610 --> 00:08:04,620
+represent the damage type so when you
+ 
+
+351
+00:08:04,620 --> 00:08:07,159
+represent the damage type so when you
+strike a skeleton with a war hammer you
+
+352
+00:08:07,159 --> 00:08:07,169
+strike a skeleton with a war hammer you
+ 
+
+353
+00:08:07,169 --> 00:08:09,920
+strike a skeleton with a war hammer you
+don't deal six points of damage rather
+
+354
+00:08:09,920 --> 00:08:09,930
+don't deal six points of damage rather
+ 
+
+355
+00:08:09,930 --> 00:08:12,620
+don't deal six points of damage rather
+you deal six points of bludgeoning
+
+356
+00:08:12,620 --> 00:08:12,630
+you deal six points of bludgeoning
+ 
+
+357
+00:08:12,630 --> 00:08:16,400
+you deal six points of bludgeoning
+damage energy damage works much the same
+
+358
+00:08:16,400 --> 00:08:16,410
+damage energy damage works much the same
+ 
+
+359
+00:08:16,410 --> 00:08:19,820
+damage energy damage works much the same
+way with acid cold electricity fire
+
+360
+00:08:19,820 --> 00:08:19,830
+way with acid cold electricity fire
+ 
+
+361
+00:08:19,830 --> 00:08:22,850
+way with acid cold electricity fire
+force in sonic damage so if that
+
+362
+00:08:22,850 --> 00:08:22,860
+force in sonic damage so if that
+ 
+
+363
+00:08:22,860 --> 00:08:24,860
+force in sonic damage so if that
+Warhammer I was just mentioning was a
+
+364
+00:08:24,860 --> 00:08:24,870
+Warhammer I was just mentioning was a
+ 
+
+365
+00:08:24,870 --> 00:08:27,740
+Warhammer I was just mentioning was a
+flaming war hammer it might deal six
+
+366
+00:08:27,740 --> 00:08:27,750
+flaming war hammer it might deal six
+ 
+
+367
+00:08:27,750 --> 00:08:30,260
+flaming war hammer it might deal six
+points of bludgeoning damage and four
+
+368
+00:08:30,260 --> 00:08:30,270
+points of bludgeoning damage and four
+ 
+
+369
+00:08:30,270 --> 00:08:33,500
+points of bludgeoning damage and four
+points of fire damage it's important to
+
+370
+00:08:33,500 --> 00:08:33,510
+points of fire damage it's important to
+ 
+
+371
+00:08:33,510 --> 00:08:36,050
+points of fire damage it's important to
+keep those separate rather than simply
+
+372
+00:08:36,050 --> 00:08:36,060
+keep those separate rather than simply
+ 
+
+373
+00:08:36,060 --> 00:08:38,420
+keep those separate rather than simply
+saying you hit the skeleton for ten
+
+374
+00:08:38,420 --> 00:08:38,430
+saying you hit the skeleton for ten
+ 
+
+375
+00:08:38,430 --> 00:08:40,579
+saying you hit the skeleton for ten
+points of damage and you'll see why it's
+
+376
+00:08:40,579 --> 00:08:40,589
+points of damage and you'll see why it's
+ 
+
+377
+00:08:40,589 --> 00:08:43,339
+points of damage and you'll see why it's
+important to keep those two damage poles
+
+378
+00:08:43,339 --> 00:08:43,349
+important to keep those two damage poles
+ 
+
+379
+00:08:43,349 --> 00:08:46,750
+important to keep those two damage poles
+separate when we get into step three
+
+380
+00:08:46,750 --> 00:08:46,760
+separate when we get into step three
+ 
+
+381
+00:08:46,760 --> 00:08:49,150
+separate when we get into step three
+the material a weapon is made out of is
+
+382
+00:08:49,150 --> 00:08:49,160
+the material a weapon is made out of is
+ 
+
+383
+00:08:49,160 --> 00:08:51,460
+the material a weapon is made out of is
+also important to note for example
+
+384
+00:08:51,460 --> 00:08:51,470
+also important to note for example
+ 
+
+385
+00:08:51,470 --> 00:08:54,250
+also important to note for example
+weapons made from adamantine cold iron
+
+386
+00:08:54,250 --> 00:08:54,260
+weapons made from adamantine cold iron
+ 
+
+387
+00:08:54,260 --> 00:08:57,670
+weapons made from adamantine cold iron
+or silver because of this some weapons
+
+388
+00:08:57,670 --> 00:08:57,680
+or silver because of this some weapons
+ 
+
+389
+00:08:57,680 --> 00:08:59,560
+or silver because of this some weapons
+will have more than one trade assigned
+
+390
+00:08:59,560 --> 00:08:59,570
+will have more than one trade assigned
+ 
+
+391
+00:08:59,570 --> 00:09:02,590
+will have more than one trade assigned
+to a single damage effect so let's
+
+392
+00:09:02,590 --> 00:09:02,600
+to a single damage effect so let's
+ 
+
+393
+00:09:02,600 --> 00:09:04,960
+to a single damage effect so let's
+consider that Warhammer and the skeleton
+
+394
+00:09:04,960 --> 00:09:04,970
+consider that Warhammer and the skeleton
+ 
+
+395
+00:09:04,970 --> 00:09:07,780
+consider that Warhammer and the skeleton
+again if it was a flaming silver
+
+396
+00:09:07,780 --> 00:09:07,790
+again if it was a flaming silver
+ 
+
+397
+00:09:07,790 --> 00:09:11,079
+again if it was a flaming silver
+Warhammer and it struck a skeleton we
+
+398
+00:09:11,079 --> 00:09:11,089
+Warhammer and it struck a skeleton we
+ 
+
+399
+00:09:11,089 --> 00:09:13,329
+Warhammer and it struck a skeleton we
+would note that it did six points a
+
+400
+00:09:13,329 --> 00:09:13,339
+would note that it did six points a
+ 
+
+401
+00:09:13,339 --> 00:09:16,420
+would note that it did six points a
+blitzing damage that also has the silver
+
+402
+00:09:16,420 --> 00:09:16,430
+blitzing damage that also has the silver
+ 
+
+403
+00:09:16,430 --> 00:09:19,960
+blitzing damage that also has the silver
+trait and in addition to that also
+
+404
+00:09:19,960 --> 00:09:19,970
+trait and in addition to that also
+ 
+
+405
+00:09:19,970 --> 00:09:21,730
+trait and in addition to that also
+inflicted four points of fire damage
+
+406
+00:09:21,730 --> 00:09:21,740
+inflicted four points of fire damage
+ 
+
+407
+00:09:21,740 --> 00:09:23,920
+inflicted four points of fire damage
+when a weapon is made of a special
+
+408
+00:09:23,920 --> 00:09:23,930
+when a weapon is made of a special
+ 
+
+409
+00:09:23,930 --> 00:09:27,400
+when a weapon is made of a special
+material like silver or cold iron that
+
+410
+00:09:27,400 --> 00:09:27,410
+material like silver or cold iron that
+ 
+
+411
+00:09:27,410 --> 00:09:29,800
+material like silver or cold iron that
+trait is applied to the weapons based
+
+412
+00:09:29,800 --> 00:09:29,810
+trait is applied to the weapons based
+ 
+
+413
+00:09:29,810 --> 00:09:33,220
+trait is applied to the weapons based
+damage type so it's silver and
+
+414
+00:09:33,220 --> 00:09:33,230
+damage type so it's silver and
+ 
+
+415
+00:09:33,230 --> 00:09:36,040
+damage type so it's silver and
+bludgeoning for six points of damage but
+
+416
+00:09:36,040 --> 00:09:36,050
+bludgeoning for six points of damage but
+ 
+
+417
+00:09:36,050 --> 00:09:38,860
+bludgeoning for six points of damage but
+the fire damage is merely fire damage
+
+418
+00:09:38,860 --> 00:09:38,870
+the fire damage is merely fire damage
+ 
+
+419
+00:09:38,870 --> 00:09:43,120
+the fire damage is merely fire damage
+and not silver fire damage those are the
+
+420
+00:09:43,120 --> 00:09:43,130
+and not silver fire damage those are the
+ 
+
+421
+00:09:43,130 --> 00:09:45,400
+and not silver fire damage those are the
+most common damage types that we will be
+
+422
+00:09:45,400 --> 00:09:45,410
+most common damage types that we will be
+ 
+
+423
+00:09:45,410 --> 00:09:47,319
+most common damage types that we will be
+using in this discussion about the
+
+424
+00:09:47,319 --> 00:09:47,329
+using in this discussion about the
+ 
+
+425
+00:09:47,329 --> 00:09:49,840
+using in this discussion about the
+four-step process for managing damage
+
+426
+00:09:49,840 --> 00:09:49,850
+four-step process for managing damage
+ 
+
+427
+00:09:49,850 --> 00:09:52,720
+four-step process for managing damage
+but there are a few more including
+
+428
+00:09:52,720 --> 00:09:52,730
+but there are a few more including
+ 
+
+429
+00:09:52,730 --> 00:09:55,509
+but there are a few more including
+alignment damage positive damage
+
+430
+00:09:55,509 --> 00:09:55,519
+alignment damage positive damage
+ 
+
+431
+00:09:55,519 --> 00:09:57,939
+alignment damage positive damage
+negative damage and precision damage
+
+432
+00:09:57,939 --> 00:09:57,949
+negative damage and precision damage
+ 
+
+433
+00:09:57,949 --> 00:10:02,590
+negative damage and precision damage
+that all will be covered in part two
+
+434
+00:10:02,590 --> 00:10:02,600
+
+ 
+
+435
+00:10:02,600 --> 00:10:04,900
+
+once you determine the type of damage
+
+436
+00:10:04,900 --> 00:10:04,910
+once you determine the type of damage
+ 
+
+437
+00:10:04,910 --> 00:10:07,300
+once you determine the type of damage
+being inflicted you can then check for
+
+438
+00:10:07,300 --> 00:10:07,310
+being inflicted you can then check for
+ 
+
+439
+00:10:07,310 --> 00:10:09,640
+being inflicted you can then check for
+any special resistances or weaknesses
+
+440
+00:10:09,640 --> 00:10:09,650
+any special resistances or weaknesses
+ 
+
+441
+00:10:09,650 --> 00:10:12,610
+any special resistances or weaknesses
+the target might have and it's important
+
+442
+00:10:12,610 --> 00:10:12,620
+the target might have and it's important
+ 
+
+443
+00:10:12,620 --> 00:10:14,140
+the target might have and it's important
+to note that these conditions are
+
+444
+00:10:14,140 --> 00:10:14,150
+to note that these conditions are
+ 
+
+445
+00:10:14,150 --> 00:10:18,100
+to note that these conditions are
+applied in a very specific order first
+
+446
+00:10:18,100 --> 00:10:18,110
+applied in a very specific order first
+ 
+
+447
+00:10:18,110 --> 00:10:21,940
+applied in a very specific order first
+you apply any immunities then you apply
+
+448
+00:10:21,940 --> 00:10:21,950
+you apply any immunities then you apply
+ 
+
+449
+00:10:21,950 --> 00:10:24,850
+you apply any immunities then you apply
+any weaknesses unless you apply
+
+450
+00:10:24,850 --> 00:10:24,860
+any weaknesses unless you apply
+ 
+
+451
+00:10:24,860 --> 00:10:29,260
+any weaknesses unless you apply
+resistances so first immunities when a
+
+452
+00:10:29,260 --> 00:10:29,270
+resistances so first immunities when a
+ 
+
+453
+00:10:29,270 --> 00:10:31,290
+resistances so first immunities when a
+creature is immune to a damage type
+
+454
+00:10:31,290 --> 00:10:31,300
+creature is immune to a damage type
+ 
+
+455
+00:10:31,300 --> 00:10:34,270
+creature is immune to a damage type
+damage of that type is completely
+
+456
+00:10:34,270 --> 00:10:34,280
+damage of that type is completely
+ 
+
+457
+00:10:34,280 --> 00:10:38,920
+damage of that type is completely
+ignored but only that specific type so
+
+458
+00:10:38,920 --> 00:10:38,930
+ignored but only that specific type so
+ 
+
+459
+00:10:38,930 --> 00:10:41,980
+ignored but only that specific type so
+if a creature that is immune to fire is
+
+460
+00:10:41,980 --> 00:10:41,990
+if a creature that is immune to fire is
+ 
+
+461
+00:10:41,990 --> 00:10:45,190
+if a creature that is immune to fire is
+hit by a flaming silver warhammer that
+
+462
+00:10:45,190 --> 00:10:45,200
+hit by a flaming silver warhammer that
+ 
+
+463
+00:10:45,200 --> 00:10:47,170
+hit by a flaming silver warhammer that
+deals six points of silver bleaching
+
+464
+00:10:47,170 --> 00:10:47,180
+deals six points of silver bleaching
+ 
+
+465
+00:10:47,180 --> 00:10:49,210
+deals six points of silver bleaching
+damage and four points of fire damage
+
+466
+00:10:49,210 --> 00:10:49,220
+damage and four points of fire damage
+ 
+
+467
+00:10:49,220 --> 00:10:52,030
+damage and four points of fire damage
+they'll ignore all of the fire damage
+
+468
+00:10:52,030 --> 00:10:52,040
+they'll ignore all of the fire damage
+ 
+
+469
+00:10:52,040 --> 00:10:54,790
+they'll ignore all of the fire damage
+but still suffer the six points of
+
+470
+00:10:54,790 --> 00:10:54,800
+but still suffer the six points of
+ 
+
+471
+00:10:54,800 --> 00:10:58,120
+but still suffer the six points of
+silver bludgeoning some creatures like
+
+472
+00:10:58,120 --> 00:10:58,130
+silver bludgeoning some creatures like
+ 
+
+473
+00:10:58,130 --> 00:11:00,700
+silver bludgeoning some creatures like
+uses might be immune to critical hits
+
+474
+00:11:00,700 --> 00:11:00,710
+uses might be immune to critical hits
+ 
+
+475
+00:11:00,710 --> 00:11:04,210
+uses might be immune to critical hits
+and I think that that is poorly named it
+
+476
+00:11:04,210 --> 00:11:04,220
+and I think that that is poorly named it
+ 
+
+477
+00:11:04,220 --> 00:11:06,070
+and I think that that is poorly named it
+might be better to think of it as
+
+478
+00:11:06,070 --> 00:11:06,080
+might be better to think of it as
+ 
+
+479
+00:11:06,080 --> 00:11:09,310
+might be better to think of it as
+immunity to critical damage because when
+
+480
+00:11:09,310 --> 00:11:09,320
+immunity to critical damage because when
+ 
+
+481
+00:11:09,320 --> 00:11:11,920
+immunity to critical damage because when
+a creature that is listed as being
+
+482
+00:11:11,920 --> 00:11:11,930
+a creature that is listed as being
+ 
+
+483
+00:11:11,930 --> 00:11:14,260
+a creature that is listed as being
+immune to critical hits is tricked by a
+
+484
+00:11:14,260 --> 00:11:14,270
+immune to critical hits is tricked by a
+ 
+
+485
+00:11:14,270 --> 00:11:16,690
+immune to critical hits is tricked by a
+critical hit it does normal damage
+
+486
+00:11:16,690 --> 00:11:16,700
+critical hit it does normal damage
+ 
+
+487
+00:11:16,700 --> 00:11:19,660
+critical hit it does normal damage
+instead of double damage and that's the
+
+488
+00:11:19,660 --> 00:11:19,670
+instead of double damage and that's the
+ 
+
+489
+00:11:19,670 --> 00:11:23,020
+instead of double damage and that's the
+only change if the critical hit includes
+
+490
+00:11:23,020 --> 00:11:23,030
+only change if the critical hit includes
+ 
+
+491
+00:11:23,030 --> 00:11:26,320
+only change if the critical hit includes
+other effects like a grapple then that
+
+492
+00:11:26,320 --> 00:11:26,330
+other effects like a grapple then that
+ 
+
+493
+00:11:26,330 --> 00:11:30,040
+other effects like a grapple then that
+target is still grappled so the critical
+
+494
+00:11:30,040 --> 00:11:30,050
+target is still grappled so the critical
+ 
+
+495
+00:11:30,050 --> 00:11:33,090
+target is still grappled so the critical
+hit occurs but not the critical damage
+
+496
+00:11:33,090 --> 00:11:33,100
+hit occurs but not the critical damage
+ 
+
+497
+00:11:33,100 --> 00:11:36,670
+hit occurs but not the critical damage
+that's how it works by raw however many
+
+498
+00:11:36,670 --> 00:11:36,680
+that's how it works by raw however many
+ 
+
+499
+00:11:36,680 --> 00:11:38,710
+that's how it works by raw however many
+argue that any damaging effects caused
+
+500
+00:11:38,710 --> 00:11:38,720
+argue that any damaging effects caused
+ 
+
+501
+00:11:38,720 --> 00:11:41,320
+argue that any damaging effects caused
+by a critical hit should also be ignored
+
+502
+00:11:41,320 --> 00:11:41,330
+by a critical hit should also be ignored
+ 
+
+503
+00:11:41,330 --> 00:11:43,660
+by a critical hit should also be ignored
+if the hit is immune to critical hits
+
+504
+00:11:43,660 --> 00:11:43,670
+if the hit is immune to critical hits
+ 
+
+505
+00:11:43,670 --> 00:11:46,720
+if the hit is immune to critical hits
+for example the extra weapon damage dice
+
+506
+00:11:46,720 --> 00:11:46,730
+for example the extra weapon damage dice
+ 
+
+507
+00:11:46,730 --> 00:11:48,670
+for example the extra weapon damage dice
+that are granted with weapons that have
+
+508
+00:11:48,670 --> 00:11:48,680
+that are granted with weapons that have
+ 
+
+509
+00:11:48,680 --> 00:11:51,880
+that are granted with weapons that have
+the deadly trait after all if the use is
+
+510
+00:11:51,880 --> 00:11:51,890
+the deadly trait after all if the use is
+ 
+
+511
+00:11:51,890 --> 00:11:53,560
+the deadly trait after all if the use is
+immune to critical hits because it
+
+512
+00:11:53,560 --> 00:11:53,570
+immune to critical hits because it
+ 
+
+513
+00:11:53,570 --> 00:11:55,660
+immune to critical hits because it
+doesn't have any vital organs then is
+
+514
+00:11:55,660 --> 00:11:55,670
+doesn't have any vital organs then is
+ 
+
+515
+00:11:55,670 --> 00:11:57,430
+doesn't have any vital organs then is
+there any reason why a weapon with a
+
+516
+00:11:57,430 --> 00:11:57,440
+there any reason why a weapon with a
+ 
+
+517
+00:11:57,440 --> 00:11:59,110
+there any reason why a weapon with a
+deadly trait would be more effective
+
+518
+00:11:59,110 --> 00:11:59,120
+deadly trait would be more effective
+ 
+
+519
+00:11:59,120 --> 00:11:59,970
+deadly trait would be more effective
+against it
+
+520
+00:11:59,970 --> 00:11:59,980
+against it
+ 
+
+521
+00:11:59,980 --> 00:12:03,490
+against it
+bottom line rules as written states that
+
+522
+00:12:03,490 --> 00:12:03,500
+bottom line rules as written states that
+ 
+
+523
+00:12:03,500 --> 00:12:06,610
+bottom line rules as written states that
+the only change is you do not double the
+
+524
+00:12:06,610 --> 00:12:06,620
+the only change is you do not double the
+ 
+
+525
+00:12:06,620 --> 00:12:09,310
+the only change is you do not double the
+damage in everything else triggered by
+
+526
+00:12:09,310 --> 00:12:09,320
+damage in everything else triggered by
+ 
+
+527
+00:12:09,320 --> 00:12:11,800
+damage in everything else triggered by
+the critical hit still occurs but as
+
+528
+00:12:11,800 --> 00:12:11,810
+the critical hit still occurs but as
+ 
+
+529
+00:12:11,810 --> 00:12:14,920
+the critical hit still occurs but as
+always jams can in shooter in the combat
+
+530
+00:12:14,920 --> 00:12:14,930
+always jams can in shooter in the combat
+ 
+
+531
+00:12:14,930 --> 00:12:16,090
+always jams can in shooter in the combat
+however makes the
+
+532
+00:12:16,090 --> 00:12:16,100
+however makes the
+ 
+
+533
+00:12:16,100 --> 00:12:20,590
+however makes the
+most sense after immunity's you apply
+
+534
+00:12:20,590 --> 00:12:20,600
+most sense after immunity's you apply
+ 
+
+535
+00:12:20,600 --> 00:12:23,710
+most sense after immunity's you apply
+weaknesses witnesses will include a
+
+536
+00:12:23,710 --> 00:12:23,720
+weaknesses witnesses will include a
+ 
+
+537
+00:12:23,720 --> 00:12:27,360
+weaknesses witnesses will include a
+value in their listing such as fire five
+
+538
+00:12:27,360 --> 00:12:27,370
+value in their listing such as fire five
+ 
+
+539
+00:12:27,370 --> 00:12:29,680
+value in their listing such as fire five
+whenever such a creature suffers fire
+
+540
+00:12:29,680 --> 00:12:29,690
+whenever such a creature suffers fire
+ 
+
+541
+00:12:29,690 --> 00:12:32,670
+whenever such a creature suffers fire
+damage you simply add five points to it
+
+542
+00:12:32,670 --> 00:12:32,680
+damage you simply add five points to it
+ 
+
+543
+00:12:32,680 --> 00:12:35,439
+damage you simply add five points to it
+so say you strike a monster that has a
+
+544
+00:12:35,439 --> 00:12:35,449
+so say you strike a monster that has a
+ 
+
+545
+00:12:35,449 --> 00:12:38,259
+so say you strike a monster that has a
+weakness of fire five with are flaming
+
+546
+00:12:38,259 --> 00:12:38,269
+weakness of fire five with are flaming
+ 
+
+547
+00:12:38,269 --> 00:12:40,809
+weakness of fire five with are flaming
+silver warhammer and raw six points of
+
+548
+00:12:40,809 --> 00:12:40,819
+silver warhammer and raw six points of
+ 
+
+549
+00:12:40,819 --> 00:12:42,400
+silver warhammer and raw six points of
+silver bludgeoning damage and four
+
+550
+00:12:42,400 --> 00:12:42,410
+silver bludgeoning damage and four
+ 
+
+551
+00:12:42,410 --> 00:12:44,410
+silver bludgeoning damage and four
+points of fire damage that would
+
+552
+00:12:44,410 --> 00:12:44,420
+points of fire damage that would
+ 
+
+553
+00:12:44,420 --> 00:12:47,259
+points of fire damage that would
+increase the fire damage by five making
+
+554
+00:12:47,259 --> 00:12:47,269
+increase the fire damage by five making
+ 
+
+555
+00:12:47,269 --> 00:12:49,660
+increase the fire damage by five making
+it nine points of fire damage for a
+
+556
+00:12:49,660 --> 00:12:49,670
+it nine points of fire damage for a
+ 
+
+557
+00:12:49,670 --> 00:12:53,439
+it nine points of fire damage for a
+total of fifteen when a creature has a
+
+558
+00:12:53,439 --> 00:12:53,449
+total of fifteen when a creature has a
+ 
+
+559
+00:12:53,449 --> 00:12:56,199
+total of fifteen when a creature has a
+weakness to more than one trait of a
+
+560
+00:12:56,199 --> 00:12:56,209
+weakness to more than one trait of a
+ 
+
+561
+00:12:56,209 --> 00:12:59,559
+weakness to more than one trait of a
+single damage effect they only suffer
+
+562
+00:12:59,559 --> 00:12:59,569
+single damage effect they only suffer
+ 
+
+563
+00:12:59,569 --> 00:13:01,960
+single damage effect they only suffer
+the single highest weakness value and
+
+564
+00:13:01,960 --> 00:13:01,970
+the single highest weakness value and
+ 
+
+565
+00:13:01,970 --> 00:13:06,160
+the single highest weakness value and
+this can be a little tricky so if a
+
+566
+00:13:06,160 --> 00:13:06,170
+this can be a little tricky so if a
+ 
+
+567
+00:13:06,170 --> 00:13:08,470
+this can be a little tricky so if a
+creature has two weaknesses say they
+
+568
+00:13:08,470 --> 00:13:08,480
+creature has two weaknesses say they
+ 
+
+569
+00:13:08,480 --> 00:13:11,379
+creature has two weaknesses say they
+have the witness silver ten and the
+
+570
+00:13:11,379 --> 00:13:11,389
+have the witness silver ten and the
+ 
+
+571
+00:13:11,389 --> 00:13:14,620
+have the witness silver ten and the
+weakness pledging five and you hit it
+
+572
+00:13:14,620 --> 00:13:14,630
+weakness pledging five and you hit it
+ 
+
+573
+00:13:14,630 --> 00:13:17,499
+weakness pledging five and you hit it
+with a flaming silver war hammer that
+
+574
+00:13:17,499 --> 00:13:17,509
+with a flaming silver war hammer that
+ 
+
+575
+00:13:17,509 --> 00:13:19,150
+with a flaming silver war hammer that
+deals six points of silver bludgeoning
+
+576
+00:13:19,150 --> 00:13:19,160
+deals six points of silver bludgeoning
+ 
+
+577
+00:13:19,160 --> 00:13:21,040
+deals six points of silver bludgeoning
+damage and four points of fire damage
+
+578
+00:13:21,040 --> 00:13:21,050
+damage and four points of fire damage
+ 
+
+579
+00:13:21,050 --> 00:13:23,530
+damage and four points of fire damage
+then that creature will suffer sixteen
+
+580
+00:13:23,530 --> 00:13:23,540
+then that creature will suffer sixteen
+ 
+
+581
+00:13:23,540 --> 00:13:25,660
+then that creature will suffer sixteen
+points of silver bludgeoning damage not
+
+582
+00:13:25,660 --> 00:13:25,670
+points of silver bludgeoning damage not
+ 
+
+583
+00:13:25,670 --> 00:13:29,620
+points of silver bludgeoning damage not
+21 and four points of fire damage for a
+
+584
+00:13:29,620 --> 00:13:29,630
+21 and four points of fire damage for a
+ 
+
+585
+00:13:29,630 --> 00:13:32,139
+21 and four points of fire damage for a
+total of twenty because when more than
+
+586
+00:13:32,139 --> 00:13:32,149
+total of twenty because when more than
+ 
+
+587
+00:13:32,149 --> 00:13:34,629
+total of twenty because when more than
+one trait applies to the same damage
+
+588
+00:13:34,629 --> 00:13:34,639
+one trait applies to the same damage
+ 
+
+589
+00:13:34,639 --> 00:13:37,870
+one trait applies to the same damage
+effect in this case both silver and
+
+590
+00:13:37,870 --> 00:13:37,880
+effect in this case both silver and
+ 
+
+591
+00:13:37,880 --> 00:13:40,509
+effect in this case both silver and
+bludgeoning apply to these six points of
+
+592
+00:13:40,509 --> 00:13:40,519
+bludgeoning apply to these six points of
+ 
+
+593
+00:13:40,519 --> 00:13:43,120
+bludgeoning apply to these six points of
+weapon damage then you only apply the
+
+594
+00:13:43,120 --> 00:13:43,130
+weapon damage then you only apply the
+ 
+
+595
+00:13:43,130 --> 00:13:46,269
+weapon damage then you only apply the
+highest weakness and neither of those
+
+596
+00:13:46,269 --> 00:13:46,279
+highest weakness and neither of those
+ 
+
+597
+00:13:46,279 --> 00:13:48,670
+highest weakness and neither of those
+traits apply to the fire damage effect
+
+598
+00:13:48,670 --> 00:13:48,680
+traits apply to the fire damage effect
+ 
+
+599
+00:13:48,680 --> 00:13:51,579
+traits apply to the fire damage effect
+so it is not changed by the weaknesses
+
+600
+00:13:51,579 --> 00:13:51,589
+so it is not changed by the weaknesses
+ 
+
+601
+00:13:51,589 --> 00:13:54,280
+so it is not changed by the weaknesses
+even though fire was caused by a weapon
+
+602
+00:13:54,280 --> 00:13:54,290
+even though fire was caused by a weapon
+ 
+
+603
+00:13:54,290 --> 00:13:57,220
+even though fire was caused by a weapon
+that has those traits for its physical
+
+604
+00:13:57,220 --> 00:13:57,230
+that has those traits for its physical
+ 
+
+605
+00:13:57,230 --> 00:14:00,129
+that has those traits for its physical
+damage type but if a creature has the
+
+606
+00:14:00,129 --> 00:14:00,139
+damage type but if a creature has the
+ 
+
+607
+00:14:00,139 --> 00:14:03,100
+damage type but if a creature has the
+witness's fire fawn life and silver ten
+
+608
+00:14:03,100 --> 00:14:03,110
+witness's fire fawn life and silver ten
+ 
+
+609
+00:14:03,110 --> 00:14:05,860
+witness's fire fawn life and silver ten
+and is struck by our hammer it will
+
+610
+00:14:05,860 --> 00:14:05,870
+and is struck by our hammer it will
+ 
+
+611
+00:14:05,870 --> 00:14:08,530
+and is struck by our hammer it will
+suffer both of those weaknesses because
+
+612
+00:14:08,530 --> 00:14:08,540
+suffer both of those weaknesses because
+ 
+
+613
+00:14:08,540 --> 00:14:10,480
+suffer both of those weaknesses because
+they are separate damage roles in
+
+614
+00:14:10,480 --> 00:14:10,490
+they are separate damage roles in
+ 
+
+615
+00:14:10,490 --> 00:14:13,090
+they are separate damage roles in
+separate damage effects even though
+
+616
+00:14:13,090 --> 00:14:13,100
+separate damage effects even though
+ 
+
+617
+00:14:13,100 --> 00:14:16,090
+separate damage effects even though
+they're from the same attack the key to
+
+618
+00:14:16,090 --> 00:14:16,100
+they're from the same attack the key to
+ 
+
+619
+00:14:16,100 --> 00:14:19,329
+they're from the same attack the key to
+remember here is that this almost never
+
+620
+00:14:19,329 --> 00:14:19,339
+remember here is that this almost never
+ 
+
+621
+00:14:19,339 --> 00:14:21,730
+remember here is that this almost never
+occurs except when a creature is
+
+622
+00:14:21,730 --> 00:14:21,740
+occurs except when a creature is
+ 
+
+623
+00:14:21,740 --> 00:14:24,460
+occurs except when a creature is
+vulnerable to both a type of physical
+
+624
+00:14:24,460 --> 00:14:24,470
+vulnerable to both a type of physical
+ 
+
+625
+00:14:24,470 --> 00:14:26,530
+vulnerable to both a type of physical
+damage like bludgeoning piercing or
+
+626
+00:14:26,530 --> 00:14:26,540
+damage like bludgeoning piercing or
+ 
+
+627
+00:14:26,540 --> 00:14:29,860
+damage like bludgeoning piercing or
+slashing and also weak to the material
+
+628
+00:14:29,860 --> 00:14:29,870
+slashing and also weak to the material
+ 
+
+629
+00:14:29,870 --> 00:14:32,110
+slashing and also weak to the material
+the weapon is made of like adamantine
+
+630
+00:14:32,110 --> 00:14:32,120
+the weapon is made of like adamantine
+ 
+
+631
+00:14:32,120 --> 00:14:35,679
+the weapon is made of like adamantine
+cold iron or silver because then is one
+
+632
+00:14:35,679 --> 00:14:35,689
+cold iron or silver because then is one
+ 
+
+633
+00:14:35,689 --> 00:14:38,559
+cold iron or silver because then is one
+damage role but two traits that trigger
+
+634
+00:14:38,559 --> 00:14:38,569
+damage role but two traits that trigger
+ 
+
+635
+00:14:38,569 --> 00:14:42,549
+damage role but two traits that trigger
+two weaknesses and last after applying
+
+636
+00:14:42,549 --> 00:14:42,559
+two weaknesses and last after applying
+ 
+
+637
+00:14:42,559 --> 00:14:45,069
+two weaknesses and last after applying
+immunities in weaknesses you then apply
+
+638
+00:14:45,069 --> 00:14:45,079
+immunities in weaknesses you then apply
+ 
+
+639
+00:14:45,079 --> 00:14:48,460
+immunities in weaknesses you then apply
+resistances this works much the same way
+
+640
+00:14:48,460 --> 00:14:48,470
+resistances this works much the same way
+ 
+
+641
+00:14:48,470 --> 00:14:51,189
+resistances this works much the same way
+as weaknesses except you subtract the
+
+642
+00:14:51,189 --> 00:14:51,199
+as weaknesses except you subtract the
+ 
+
+643
+00:14:51,199 --> 00:14:53,019
+as weaknesses except you subtract the
+value listed from the damage instead of
+
+644
+00:14:53,019 --> 00:14:53,029
+value listed from the damage instead of
+ 
+
+645
+00:14:53,029 --> 00:14:55,360
+value listed from the damage instead of
+adding it so if you attack a creature
+
+646
+00:14:55,360 --> 00:14:55,370
+adding it so if you attack a creature
+ 
+
+647
+00:14:55,370 --> 00:14:57,790
+adding it so if you attack a creature
+that has resistance to bludgeoning ten
+
+648
+00:14:57,790 --> 00:14:57,800
+that has resistance to bludgeoning ten
+ 
+
+649
+00:14:57,800 --> 00:15:00,429
+that has resistance to bludgeoning ten
+and deals six points of bludgeoning and
+
+650
+00:15:00,429 --> 00:15:00,439
+and deals six points of bludgeoning and
+ 
+
+651
+00:15:00,439 --> 00:15:02,410
+and deals six points of bludgeoning and
+four points of fire damage with your
+
+652
+00:15:02,410 --> 00:15:02,420
+four points of fire damage with your
+ 
+
+653
+00:15:02,420 --> 00:15:04,960
+four points of fire damage with your
+trusty flaming Warhammer they will
+
+654
+00:15:04,960 --> 00:15:04,970
+trusty flaming Warhammer they will
+ 
+
+655
+00:15:04,970 --> 00:15:08,019
+trusty flaming Warhammer they will
+suffer 0 bludgeoning damage but would
+
+656
+00:15:08,019 --> 00:15:08,029
+suffer 0 bludgeoning damage but would
+ 
+
+657
+00:15:08,029 --> 00:15:10,179
+suffer 0 bludgeoning damage but would
+still take the four points of fire
+
+658
+00:15:10,179 --> 00:15:10,189
+still take the four points of fire
+ 
+
+659
+00:15:10,189 --> 00:15:13,210
+still take the four points of fire
+damage this is why we keep those damage
+
+660
+00:15:13,210 --> 00:15:13,220
+damage this is why we keep those damage
+ 
+
+661
+00:15:13,220 --> 00:15:14,769
+damage this is why we keep those damage
+poles separate and not add them together
+
+662
+00:15:14,769 --> 00:15:14,779
+poles separate and not add them together
+ 
+
+663
+00:15:14,779 --> 00:15:18,400
+poles separate and not add them together
+until step four and one more type of
+
+664
+00:15:18,400 --> 00:15:18,410
+until step four and one more type of
+ 
+
+665
+00:15:18,410 --> 00:15:20,670
+until step four and one more type of
+resistance that's worth mentioning is
+
+666
+00:15:20,670 --> 00:15:20,680
+resistance that's worth mentioning is
+ 
+
+667
+00:15:20,680 --> 00:15:24,610
+resistance that's worth mentioning is
+resistance to non magical attacks and a
+
+668
+00:15:24,610 --> 00:15:24,620
+resistance to non magical attacks and a
+ 
+
+669
+00:15:24,620 --> 00:15:27,249
+resistance to non magical attacks and a
+case like that you apply the resistance
+
+670
+00:15:27,249 --> 00:15:27,259
+case like that you apply the resistance
+ 
+
+671
+00:15:27,259 --> 00:15:29,949
+case like that you apply the resistance
+to normal weapon attacks but not to
+
+672
+00:15:29,949 --> 00:15:29,959
+to normal weapon attacks but not to
+ 
+
+673
+00:15:29,959 --> 00:15:32,319
+to normal weapon attacks but not to
+magical weapon attacks so say you're
+
+674
+00:15:32,319 --> 00:15:32,329
+magical weapon attacks so say you're
+ 
+
+675
+00:15:32,329 --> 00:15:33,999
+magical weapon attacks so say you're
+fighting a creature that has resistance
+
+676
+00:15:33,999 --> 00:15:34,009
+fighting a creature that has resistance
+ 
+
+677
+00:15:34,009 --> 00:15:36,759
+fighting a creature that has resistance
+five to non-magical weapons if you hit
+
+678
+00:15:36,759 --> 00:15:36,769
+five to non-magical weapons if you hit
+ 
+
+679
+00:15:36,769 --> 00:15:39,429
+five to non-magical weapons if you hit
+it with a normal hammer and roll six
+
+680
+00:15:39,429 --> 00:15:39,439
+it with a normal hammer and roll six
+ 
+
+681
+00:15:39,439 --> 00:15:42,189
+it with a normal hammer and roll six
+points of damage that will be reduced to
+
+682
+00:15:42,189 --> 00:15:42,199
+points of damage that will be reduced to
+ 
+
+683
+00:15:42,199 --> 00:15:45,069
+points of damage that will be reduced to
+only one but if you hit it with a plus
+
+684
+00:15:45,069 --> 00:15:45,079
+only one but if you hit it with a plus
+ 
+
+685
+00:15:45,079 --> 00:15:47,920
+only one but if you hit it with a plus
+one war hammer it has the magical trait
+
+686
+00:15:47,920 --> 00:15:47,930
+one war hammer it has the magical trait
+ 
+
+687
+00:15:47,930 --> 00:15:50,379
+one war hammer it has the magical trait
+and therefore none of his damage is
+
+688
+00:15:50,379 --> 00:15:50,389
+and therefore none of his damage is
+ 
+
+689
+00:15:50,389 --> 00:15:53,079
+and therefore none of his damage is
+reduced by resistance to non magical
+
+690
+00:15:53,079 --> 00:15:53,089
+reduced by resistance to non magical
+ 
+
+691
+00:15:53,089 --> 00:15:55,430
+reduced by resistance to non magical
+attacks
+
+692
+00:15:55,430 --> 00:15:55,440
+
+ 
+
+693
+00:15:55,440 --> 00:15:58,330
+
+so just to bring this all together
+
+694
+00:15:58,330 --> 00:15:58,340
+so just to bring this all together
+ 
+
+695
+00:15:58,340 --> 00:16:01,910
+so just to bring this all together
+remember that damage is applied in four
+
+696
+00:16:01,910 --> 00:16:01,920
+remember that damage is applied in four
+ 
+
+697
+00:16:01,920 --> 00:16:05,720
+remember that damage is applied in four
+steps step one is calculate the damage
+
+698
+00:16:05,720 --> 00:16:05,730
+steps step one is calculate the damage
+ 
+
+699
+00:16:05,730 --> 00:16:08,690
+steps step one is calculate the damage
+you roll the damage dice and add all the
+
+700
+00:16:08,690 --> 00:16:08,700
+you roll the damage dice and add all the
+ 
+
+701
+00:16:08,700 --> 00:16:12,470
+you roll the damage dice and add all the
+usual modifiers to it step two determine
+
+702
+00:16:12,470 --> 00:16:12,480
+usual modifiers to it step two determine
+ 
+
+703
+00:16:12,480 --> 00:16:15,950
+usual modifiers to it step two determine
+the type of damage at this step you're
+
+704
+00:16:15,950 --> 00:16:15,960
+the type of damage at this step you're
+ 
+
+705
+00:16:15,960 --> 00:16:18,260
+the type of damage at this step you're
+mostly just making note of the different
+
+706
+00:16:18,260 --> 00:16:18,270
+mostly just making note of the different
+ 
+
+707
+00:16:18,270 --> 00:16:20,330
+mostly just making note of the different
+traits of the attack for use in the next
+
+708
+00:16:20,330 --> 00:16:20,340
+traits of the attack for use in the next
+ 
+
+709
+00:16:20,340 --> 00:16:23,600
+traits of the attack for use in the next
+step which is step three where you apply
+
+710
+00:16:23,600 --> 00:16:23,610
+step which is step three where you apply
+ 
+
+711
+00:16:23,610 --> 00:16:27,080
+step which is step three where you apply
+immunities and then you apply witnesses
+
+712
+00:16:27,080 --> 00:16:27,090
+immunities and then you apply witnesses
+ 
+
+713
+00:16:27,090 --> 00:16:31,610
+immunities and then you apply witnesses
+and last you apply resistances and last
+
+714
+00:16:31,610 --> 00:16:31,620
+and last you apply resistances and last
+ 
+
+715
+00:16:31,620 --> 00:16:34,160
+and last you apply resistances and last
+in step four you reduce the targets hit
+
+716
+00:16:34,160 --> 00:16:34,170
+in step four you reduce the targets hit
+ 
+
+717
+00:16:34,170 --> 00:16:35,930
+in step four you reduce the targets hit
+points by whatever amount of damage
+
+718
+00:16:35,930 --> 00:16:35,940
+points by whatever amount of damage
+ 
+
+719
+00:16:35,940 --> 00:16:38,870
+points by whatever amount of damage
+remains after step three this would also
+
+720
+00:16:38,870 --> 00:16:38,880
+remains after step three this would also
+ 
+
+721
+00:16:38,880 --> 00:16:40,970
+remains after step three this would also
+be when you would apply the hardness of
+
+722
+00:16:40,970 --> 00:16:40,980
+be when you would apply the hardness of
+ 
+
+723
+00:16:40,980 --> 00:16:43,760
+be when you would apply the hardness of
+an object or shield the value of the
+
+724
+00:16:43,760 --> 00:16:43,770
+an object or shield the value of the
+ 
+
+725
+00:16:43,770 --> 00:16:45,920
+an object or shield the value of the
+hardness is deducted from the final
+
+726
+00:16:45,920 --> 00:16:45,930
+hardness is deducted from the final
+ 
+
+727
+00:16:45,930 --> 00:16:48,560
+hardness is deducted from the final
+total of damage and not individually for
+
+728
+00:16:48,560 --> 00:16:48,570
+total of damage and not individually for
+ 
+
+729
+00:16:48,570 --> 00:16:51,200
+total of damage and not individually for
+each different type is important to
+
+730
+00:16:51,200 --> 00:16:51,210
+each different type is important to
+ 
+
+731
+00:16:51,210 --> 00:16:53,450
+each different type is important to
+understand these steps so that you can
+
+732
+00:16:53,450 --> 00:16:53,460
+understand these steps so that you can
+ 
+
+733
+00:16:53,460 --> 00:16:56,030
+understand these steps so that you can
+answer questions like if I critically
+
+734
+00:16:56,030 --> 00:16:56,040
+answer questions like if I critically
+ 
+
+735
+00:16:56,040 --> 00:16:58,220
+answer questions like if I critically
+hit a monster that has a weakness to
+
+736
+00:16:58,220 --> 00:16:58,230
+hit a monster that has a weakness to
+ 
+
+737
+00:16:58,230 --> 00:17:00,620
+hit a monster that has a weakness to
+fire with my flaming war hammer do i
+
+738
+00:17:00,620 --> 00:17:00,630
+fire with my flaming war hammer do i
+ 
+
+739
+00:17:00,630 --> 00:17:02,660
+fire with my flaming war hammer do i
+double the extra damage from that
+
+740
+00:17:02,660 --> 00:17:02,670
+double the extra damage from that
+ 
+
+741
+00:17:02,670 --> 00:17:06,309
+double the extra damage from that
+weakness and the answer is no you don't
+
+742
+00:17:06,309 --> 00:17:06,319
+weakness and the answer is no you don't
+ 
+
+743
+00:17:06,319 --> 00:17:09,110
+weakness and the answer is no you don't
+even though a critical hit doubles all
+
+744
+00:17:09,110 --> 00:17:09,120
+even though a critical hit doubles all
+ 
+
+745
+00:17:09,120 --> 00:17:11,329
+even though a critical hit doubles all
+the damage that is not dependent on
+
+746
+00:17:11,329 --> 00:17:11,339
+the damage that is not dependent on
+ 
+
+747
+00:17:11,339 --> 00:17:14,569
+the damage that is not dependent on
+there being a critical hit that doubling
+
+748
+00:17:14,569 --> 00:17:14,579
+there being a critical hit that doubling
+ 
+
+749
+00:17:14,579 --> 00:17:18,350
+there being a critical hit that doubling
+occurs in step one and you don't adjust
+
+750
+00:17:18,350 --> 00:17:18,360
+occurs in step one and you don't adjust
+ 
+
+751
+00:17:18,360 --> 00:17:21,260
+occurs in step one and you don't adjust
+for a weakness or a resistance until
+
+752
+00:17:21,260 --> 00:17:21,270
+for a weakness or a resistance until
+ 
+
+753
+00:17:21,270 --> 00:17:22,400
+for a weakness or a resistance until
+step three
+
+754
+00:17:22,400 --> 00:17:22,410
+step three
+ 
+
+755
+00:17:22,410 --> 00:17:25,579
+step three
+so know that extra damage from the
+
+756
+00:17:25,579 --> 00:17:25,589
+so know that extra damage from the
+ 
+
+757
+00:17:25,589 --> 00:17:28,550
+so know that extra damage from the
+weakness is not doubled because that
+
+758
+00:17:28,550 --> 00:17:28,560
+weakness is not doubled because that
+ 
+
+759
+00:17:28,560 --> 00:17:31,070
+weakness is not doubled because that
+doubling happens in step one which is
+
+760
+00:17:31,070 --> 00:17:31,080
+doubling happens in step one which is
+ 
+
+761
+00:17:31,080 --> 00:17:33,260
+doubling happens in step one which is
+before the weakness being applied in
+
+762
+00:17:33,260 --> 00:17:33,270
+before the weakness being applied in
+ 
+
+763
+00:17:33,270 --> 00:17:36,440
+before the weakness being applied in
+step three and that's the basic
+
+764
+00:17:36,440 --> 00:17:36,450
+step three and that's the basic
+ 
+
+765
+00:17:36,450 --> 00:17:39,050
+step three and that's the basic
+foundation for how damage works in path
+
+766
+00:17:39,050 --> 00:17:39,060
+foundation for how damage works in path
+ 
+
+767
+00:17:39,060 --> 00:17:41,630
+foundation for how damage works in path
+wonder once again if you would like to
+
+768
+00:17:41,630 --> 00:17:41,640
+wonder once again if you would like to
+ 
+
+769
+00:17:41,640 --> 00:17:43,310
+wonder once again if you would like to
+learn about some of the more interesting
+
+770
+00:17:43,310 --> 00:17:43,320
+learn about some of the more interesting
+ 
+
+771
+00:17:43,320 --> 00:17:46,250
+learn about some of the more interesting
+twists to the system make sure you check
+
+772
+00:17:46,250 --> 00:17:46,260
+twists to the system make sure you check
+ 
+
+773
+00:17:46,260 --> 00:17:49,400
+twists to the system make sure you check
+out damage part 2 and that video covers
+
+774
+00:17:49,400 --> 00:17:49,410
+out damage part 2 and that video covers
+ 
+
+775
+00:17:49,410 --> 00:17:52,270
+out damage part 2 and that video covers
+persistent damage precision damage
+
+776
+00:17:52,270 --> 00:17:52,280
+persistent damage precision damage
+ 
+
+777
+00:17:52,280 --> 00:17:55,280
+persistent damage precision damage
+alignment damage non-lethal damage
+
+778
+00:17:55,280 --> 00:17:55,290
+alignment damage non-lethal damage
+ 
+
+779
+00:17:55,290 --> 00:17:59,869
+alignment damage non-lethal damage
+positive damage and negative damage
+
+780
+00:17:59,869 --> 00:17:59,879
+positive damage and negative damage
+ 
+
+781
+00:17:59,879 --> 00:18:02,029
+positive damage and negative damage
+before we close I'd like to take a
+
+782
+00:18:02,029 --> 00:18:02,039
+before we close I'd like to take a
+ 
+
+783
+00:18:02,039 --> 00:18:04,489
+before we close I'd like to take a
+moment to thank all of our patrons these
+
+784
+00:18:04,489 --> 00:18:04,499
+moment to thank all of our patrons these
+ 
+
+785
+00:18:04,499 --> 00:18:06,259
+moment to thank all of our patrons these
+videos would not be possible without
+
+786
+00:18:06,259 --> 00:18:06,269
+videos would not be possible without
+ 
+
+787
+00:18:06,269 --> 00:18:09,099
+videos would not be possible without
+their continued generosity and support
+
+788
+00:18:09,099 --> 00:18:09,109
+their continued generosity and support
+ 
+
+789
+00:18:09,109 --> 00:18:11,959
+their continued generosity and support
+members of the basics for gamers patreon
+
+790
+00:18:11,959 --> 00:18:11,969
+members of the basics for gamers patreon
+ 
+
+791
+00:18:11,969 --> 00:18:14,149
+members of the basics for gamers patreon
+community receive special benefits like
+
+792
+00:18:14,149 --> 00:18:14,159
+community receive special benefits like
+ 
+
+793
+00:18:14,159 --> 00:18:15,979
+community receive special benefits like
+getting to vote on the topics that we
+
+794
+00:18:15,979 --> 00:18:15,989
+getting to vote on the topics that we
+ 
+
+795
+00:18:15,989 --> 00:18:18,199
+getting to vote on the topics that we
+cover in the future and also they get to
+
+796
+00:18:18,199 --> 00:18:18,209
+cover in the future and also they get to
+ 
+
+797
+00:18:18,209 --> 00:18:20,689
+cover in the future and also they get to
+see these videos one week and ad-free
+
+798
+00:18:20,689 --> 00:18:20,699
+see these videos one week and ad-free
+ 
+
+799
+00:18:20,699 --> 00:18:24,109
+see these videos one week and ad-free
+before everybody else visit the links
+
+800
+00:18:24,109 --> 00:18:24,119
+before everybody else visit the links
+ 
+
+801
+00:18:24,119 --> 00:18:25,819
+before everybody else visit the links
+shown on the left of the screen and in
+
+802
+00:18:25,819 --> 00:18:25,829
+shown on the left of the screen and in
+ 
+
+803
+00:18:25,829 --> 00:18:27,289
+shown on the left of the screen and in
+the description if you'd like to know
+
+804
+00:18:27,289 --> 00:18:27,299
+the description if you'd like to know
+ 
+
+805
+00:18:27,299 --> 00:18:29,989
+the description if you'd like to know
+more about becoming a patron if you
+
+806
+00:18:29,989 --> 00:18:29,999
+more about becoming a patron if you
+ 
+
+807
+00:18:29,999 --> 00:18:31,279
+more about becoming a patron if you
+would like to support this channel and
+
+808
+00:18:31,279 --> 00:18:31,289
+would like to support this channel and
+ 
+
+809
+00:18:31,289 --> 00:18:33,289
+would like to support this channel and
+help it grow the easiest way to do that
+
+810
+00:18:33,289 --> 00:18:33,299
+help it grow the easiest way to do that
+ 
+
+811
+00:18:33,299 --> 00:18:36,019
+help it grow the easiest way to do that
+is by subscribing and clicking the bell
+
+812
+00:18:36,019 --> 00:18:36,029
+is by subscribing and clicking the bell
+ 
+
+813
+00:18:36,029 --> 00:18:38,569
+is by subscribing and clicking the bell
+icon so you get notified when new videos
+
+814
+00:18:38,569 --> 00:18:38,579
+icon so you get notified when new videos
+ 
+
+815
+00:18:38,579 --> 00:18:40,999
+icon so you get notified when new videos
+release and we can always be reached
+
+816
+00:18:40,999 --> 00:18:41,009
+release and we can always be reached
+ 
+
+817
+00:18:41,009 --> 00:18:42,289
+release and we can always be reached
+through our Twitter and Facebook pages
+
+818
+00:18:42,289 --> 00:18:42,299
+through our Twitter and Facebook pages
+ 
+
+819
+00:18:42,299 --> 00:18:45,409
+through our Twitter and Facebook pages
+too thanks for watching take care and we
+
+820
+00:18:45,409 --> 00:18:45,419
+too thanks for watching take care and we
+ 
+
+821
+00:18:45,419 --> 00:18:47,209
+too thanks for watching take care and we
+will see you soon with more basics of
+
+822
+00:18:47,209 --> 00:18:47,219
+will see you soon with more basics of
+ 
+
+823
+00:18:47,219 --> 00:18:49,849
+will see you soon with more basics of
+Pathfinder
+

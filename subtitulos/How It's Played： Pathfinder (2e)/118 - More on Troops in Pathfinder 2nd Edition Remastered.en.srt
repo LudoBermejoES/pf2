@@ -1,0 +1,4445 @@
+1
+00:00:00,480 --> 00:00:02,550
+
+Hey everybody, Dave here with another
+
+2
+00:00:02,550 --> 00:00:02,560
+Hey everybody, Dave here with another
+ 
+
+3
+00:00:02,560 --> 00:00:05,030
+Hey everybody, Dave here with another
+Pathfinder rule reminder for you. And
+
+4
+00:00:05,030 --> 00:00:05,040
+Pathfinder rule reminder for you. And
+ 
+
+5
+00:00:05,040 --> 00:00:07,590
+Pathfinder rule reminder for you. And
+today I'm just doing a little followup
+
+6
+00:00:07,590 --> 00:00:07,600
+today I'm just doing a little followup
+ 
+
+7
+00:00:07,600 --> 00:00:11,190
+today I'm just doing a little followup
+to my previous video on troops. Last
+
+8
+00:00:11,190 --> 00:00:11,200
+to my previous video on troops. Last
+ 
+
+9
+00:00:11,200 --> 00:00:13,190
+to my previous video on troops. Last
+week I put out one of my, you know,
+
+10
+00:00:13,190 --> 00:00:13,200
+week I put out one of my, you know,
+ 
+
+11
+00:00:13,200 --> 00:00:15,669
+week I put out one of my, you know,
+regular how was played videos on the
+
+12
+00:00:15,669 --> 00:00:15,679
+regular how was played videos on the
+ 
+
+13
+00:00:15,679 --> 00:00:18,310
+regular how was played videos on the
+remastered rules for troops and it
+
+14
+00:00:18,310 --> 00:00:18,320
+remastered rules for troops and it
+ 
+
+15
+00:00:18,320 --> 00:00:19,590
+remastered rules for troops and it
+generated a lot of interesting
+
+16
+00:00:19,590 --> 00:00:19,600
+generated a lot of interesting
+ 
+
+17
+00:00:19,600 --> 00:00:20,870
+generated a lot of interesting
+conversation and a lot of good
+
+18
+00:00:20,870 --> 00:00:20,880
+conversation and a lot of good
+ 
+
+19
+00:00:20,880 --> 00:00:23,109
+conversation and a lot of good
+questions. And I did realize there's
+
+20
+00:00:23,109 --> 00:00:23,119
+questions. And I did realize there's
+ 
+
+21
+00:00:23,119 --> 00:00:25,830
+questions. And I did realize there's
+maybe a point or two that in hindsight I
+
+22
+00:00:25,830 --> 00:00:25,840
+maybe a point or two that in hindsight I
+ 
+
+23
+00:00:25,840 --> 00:00:30,230
+maybe a point or two that in hindsight I
+wish I had included in that video or or
+
+24
+00:00:30,230 --> 00:00:30,240
+wish I had included in that video or or
+ 
+
+25
+00:00:30,240 --> 00:00:32,470
+wish I had included in that video or or
+made more clear in that video. So, I
+
+26
+00:00:32,470 --> 00:00:32,480
+made more clear in that video. So, I
+ 
+
+27
+00:00:32,480 --> 00:00:34,549
+made more clear in that video. So, I
+figured I'd just do a rule reminder as a
+
+28
+00:00:34,549 --> 00:00:34,559
+figured I'd just do a rule reminder as a
+ 
+
+29
+00:00:34,559 --> 00:00:36,630
+figured I'd just do a rule reminder as a
+follow-up to address a few of these
+
+30
+00:00:36,630 --> 00:00:36,640
+follow-up to address a few of these
+ 
+
+31
+00:00:36,640 --> 00:00:39,350
+follow-up to address a few of these
+issues. Since this is following up on
+
+32
+00:00:39,350 --> 00:00:39,360
+issues. Since this is following up on
+ 
+
+33
+00:00:39,360 --> 00:00:41,910
+issues. Since this is following up on
+that video, I do strongly encourage you
+
+34
+00:00:41,910 --> 00:00:41,920
+that video, I do strongly encourage you
+ 
+
+35
+00:00:41,920 --> 00:00:45,430
+that video, I do strongly encourage you
+to go watch that video first, the how
+
+36
+00:00:45,430 --> 00:00:45,440
+to go watch that video first, the how
+ 
+
+37
+00:00:45,440 --> 00:00:47,670
+to go watch that video first, the how
+it's played video about the remastered
+
+38
+00:00:47,670 --> 00:00:47,680
+it's played video about the remastered
+ 
+
+39
+00:00:47,680 --> 00:00:50,630
+it's played video about the remastered
+version of troops and then continue on
+
+40
+00:00:50,630 --> 00:00:50,640
+version of troops and then continue on
+ 
+
+41
+00:00:50,640 --> 00:00:52,069
+version of troops and then continue on
+with this video here. I will leave a
+
+42
+00:00:52,069 --> 00:00:52,079
+with this video here. I will leave a
+ 
+
+43
+00:00:52,079 --> 00:00:54,389
+with this video here. I will leave a
+link to that video in the comment
+
+44
+00:00:54,389 --> 00:00:54,399
+link to that video in the comment
+ 
+
+45
+00:00:54,399 --> 00:00:58,630
+link to that video in the comment
+section for you to click on. And um a
+
+46
+00:00:58,630 --> 00:00:58,640
+section for you to click on. And um a
+ 
+
+47
+00:00:58,640 --> 00:01:02,310
+section for you to click on. And um a
+lot of the questions that came up seem
+
+48
+00:01:02,310 --> 00:01:02,320
+lot of the questions that came up seem
+ 
+
+49
+00:01:02,320 --> 00:01:05,270
+lot of the questions that came up seem
+to stem from a a misunderstanding of how
+
+50
+00:01:05,270 --> 00:01:05,280
+to stem from a a misunderstanding of how
+ 
+
+51
+00:01:05,280 --> 00:01:09,429
+to stem from a a misunderstanding of how
+do you target the troops and the
+
+52
+00:01:09,429 --> 00:01:09,439
+do you target the troops and the
+ 
+
+53
+00:01:09,439 --> 00:01:12,070
+do you target the troops and the
+segments of the troops with whatever
+
+54
+00:01:12,070 --> 00:01:12,080
+segments of the troops with whatever
+ 
+
+55
+00:01:12,080 --> 00:01:13,670
+segments of the troops with whatever
+effect, ability, spell, attack or
+
+56
+00:01:13,670 --> 00:01:13,680
+effect, ability, spell, attack or
+ 
+
+57
+00:01:13,680 --> 00:01:17,230
+effect, ability, spell, attack or
+whatever you want to inflict upon that
+
+58
+00:01:17,230 --> 00:01:17,240
+whatever you want to inflict upon that
+ 
+
+59
+00:01:17,240 --> 00:01:19,670
+whatever you want to inflict upon that
+troop. And so I want to try to clarify
+
+60
+00:01:19,670 --> 00:01:19,680
+troop. And so I want to try to clarify
+ 
+
+61
+00:01:19,680 --> 00:01:22,070
+troop. And so I want to try to clarify
+that uh as best I can. So the first
+
+62
+00:01:22,070 --> 00:01:22,080
+that uh as best I can. So the first
+ 
+
+63
+00:01:22,080 --> 00:01:24,550
+that uh as best I can. So the first
+thing you need to do is anytime uh you
+
+64
+00:01:24,550 --> 00:01:24,560
+thing you need to do is anytime uh you
+ 
+
+65
+00:01:24,560 --> 00:01:27,630
+thing you need to do is anytime uh you
+are are going to attack or in any way
+
+66
+00:01:27,630 --> 00:01:27,640
+are are going to attack or in any way
+ 
+
+67
+00:01:27,640 --> 00:01:31,190
+are are going to attack or in any way
+affect a troop, you need to think is
+
+68
+00:01:31,190 --> 00:01:31,200
+affect a troop, you need to think is
+ 
+
+69
+00:01:31,200 --> 00:01:34,390
+affect a troop, you need to think is
+this a damaging effect or is this a
+
+70
+00:01:34,390 --> 00:01:34,400
+this a damaging effect or is this a
+ 
+
+71
+00:01:34,400 --> 00:01:36,789
+this a damaging effect or is this a
+non-damaging effect and kind of even
+
+72
+00:01:36,789 --> 00:01:36,799
+non-damaging effect and kind of even
+ 
+
+73
+00:01:36,799 --> 00:01:39,190
+non-damaging effect and kind of even
+think of it as as two separate tracks in
+
+74
+00:01:39,190 --> 00:01:39,200
+think of it as as two separate tracks in
+ 
+
+75
+00:01:39,200 --> 00:01:41,670
+think of it as as two separate tracks in
+your mind because the rules of how you
+
+76
+00:01:41,670 --> 00:01:41,680
+your mind because the rules of how you
+ 
+
+77
+00:01:41,680 --> 00:01:45,030
+your mind because the rules of how you
+target with damaging effects is
+
+78
+00:01:45,030 --> 00:01:45,040
+target with damaging effects is
+ 
+
+79
+00:01:45,040 --> 00:01:47,670
+target with damaging effects is
+different than how you would apply the
+
+80
+00:01:47,670 --> 00:01:47,680
+different than how you would apply the
+ 
+
+81
+00:01:47,680 --> 00:01:50,870
+different than how you would apply the
+rules for non-damaging effects. So, for
+
+82
+00:01:50,870 --> 00:01:50,880
+rules for non-damaging effects. So, for
+ 
+
+83
+00:01:50,880 --> 00:01:53,030
+rules for non-damaging effects. So, for
+example, uh you're making a melee
+
+84
+00:01:53,030 --> 00:01:53,040
+example, uh you're making a melee
+ 
+
+85
+00:01:53,040 --> 00:01:54,950
+example, uh you're making a melee
+strike. You're sending adjacent to the
+
+86
+00:01:54,950 --> 00:01:54,960
+strike. You're sending adjacent to the
+ 
+
+87
+00:01:54,960 --> 00:01:56,550
+strike. You're sending adjacent to the
+troop. You have a sword. You're going to
+
+88
+00:01:56,550 --> 00:01:56,560
+troop. You have a sword. You're going to
+ 
+
+89
+00:01:56,560 --> 00:01:58,350
+troop. You have a sword. You're going to
+spend one action to do
+
+90
+00:01:58,350 --> 00:01:58,360
+spend one action to do
+ 
+
+91
+00:01:58,360 --> 00:02:01,030
+spend one action to do
+strike. All you have to do since this is
+
+92
+00:02:01,030 --> 00:02:01,040
+strike. All you have to do since this is
+ 
+
+93
+00:02:01,040 --> 00:02:03,350
+strike. All you have to do since this is
+a damaging effect, the result of it will
+
+94
+00:02:03,350 --> 00:02:03,360
+a damaging effect, the result of it will
+ 
+
+95
+00:02:03,360 --> 00:02:07,749
+a damaging effect, the result of it will
+be damage, is target any single square
+
+96
+00:02:07,749 --> 00:02:07,759
+be damage, is target any single square
+ 
+
+97
+00:02:07,759 --> 00:02:10,150
+be damage, is target any single square
+of the troop as a whole. Doesn't matter
+
+98
+00:02:10,150 --> 00:02:10,160
+of the troop as a whole. Doesn't matter
+ 
+
+99
+00:02:10,160 --> 00:02:12,309
+of the troop as a whole. Doesn't matter
+what segment you're attacking. You just
+
+100
+00:02:12,309 --> 00:02:12,319
+what segment you're attacking. You just
+ 
+
+101
+00:02:12,319 --> 00:02:15,110
+what segment you're attacking. You just
+got to be within range of your attack as
+
+102
+00:02:15,110 --> 00:02:15,120
+got to be within range of your attack as
+ 
+
+103
+00:02:15,120 --> 00:02:18,390
+got to be within range of your attack as
+normal to any square of the troop. And
+
+104
+00:02:18,390 --> 00:02:18,400
+normal to any square of the troop. And
+ 
+
+105
+00:02:18,400 --> 00:02:21,750
+normal to any square of the troop. And
+if you hit, then that damage is going to
+
+106
+00:02:21,750 --> 00:02:21,760
+if you hit, then that damage is going to
+ 
+
+107
+00:02:21,760 --> 00:02:24,070
+if you hit, then that damage is going to
+be applied to the troop as a whole.
+
+108
+00:02:24,070 --> 00:02:24,080
+be applied to the troop as a whole.
+ 
+
+109
+00:02:24,080 --> 00:02:27,670
+be applied to the troop as a whole.
+There's one one bucket of hit points for
+
+110
+00:02:27,670 --> 00:02:27,680
+There's one one bucket of hit points for
+ 
+
+111
+00:02:27,680 --> 00:02:31,030
+There's one one bucket of hit points for
+the entire troop. That's a really simple
+
+112
+00:02:31,030 --> 00:02:31,040
+the entire troop. That's a really simple
+ 
+
+113
+00:02:31,040 --> 00:02:33,190
+the entire troop. That's a really simple
+uh example that I I I don't think is
+
+114
+00:02:33,190 --> 00:02:33,200
+uh example that I I I don't think is
+ 
+
+115
+00:02:33,200 --> 00:02:35,830
+uh example that I I I don't think is
+going to confuse anybody. But then comes
+
+116
+00:02:35,830 --> 00:02:35,840
+going to confuse anybody. But then comes
+ 
+
+117
+00:02:35,840 --> 00:02:37,910
+going to confuse anybody. But then comes
+the up questions of well what if I cast
+
+118
+00:02:37,910 --> 00:02:37,920
+the up questions of well what if I cast
+ 
+
+119
+00:02:37,920 --> 00:02:42,150
+the up questions of well what if I cast
+a fireball spell and the fireball's area
+
+120
+00:02:42,150 --> 00:02:42,160
+a fireball spell and the fireball's area
+ 
+
+121
+00:02:42,160 --> 00:02:44,550
+a fireball spell and the fireball's area
+of effect is so large that it can fit
+
+122
+00:02:44,550 --> 00:02:44,560
+of effect is so large that it can fit
+ 
+
+123
+00:02:44,560 --> 00:02:49,070
+of effect is so large that it can fit
+two or more incomplete segments in that
+
+124
+00:02:49,070 --> 00:02:49,080
+two or more incomplete segments in that
+ 
+
+125
+00:02:49,080 --> 00:02:52,949
+two or more incomplete segments in that
+blast. So uh if I'm hitting three
+
+126
+00:02:52,949 --> 00:02:52,959
+blast. So uh if I'm hitting three
+ 
+
+127
+00:02:52,959 --> 00:02:56,229
+blast. So uh if I'm hitting three
+segments of the of the troop, does each
+
+128
+00:02:56,229 --> 00:02:56,239
+segments of the of the troop, does each
+ 
+
+129
+00:02:56,239 --> 00:02:58,949
+segments of the of the troop, does each
+segment roll its own individual reflex
+
+130
+00:02:58,949 --> 00:02:58,959
+segment roll its own individual reflex
+ 
+
+131
+00:02:58,959 --> 00:03:03,589
+segment roll its own individual reflex
+save? And if they all fail those saves,
+
+132
+00:03:03,589 --> 00:03:03,599
+save? And if they all fail those saves,
+ 
+
+133
+00:03:03,599 --> 00:03:06,790
+save? And if they all fail those saves,
+do I then apply the fireball effect
+
+134
+00:03:06,790 --> 00:03:06,800
+do I then apply the fireball effect
+ 
+
+135
+00:03:06,800 --> 00:03:09,750
+do I then apply the fireball effect
+three times? And the answer is no. When
+
+136
+00:03:09,750 --> 00:03:09,760
+three times? And the answer is no. When
+ 
+
+137
+00:03:09,760 --> 00:03:11,270
+three times? And the answer is no. When
+you are dealing with a damaging effect,
+
+138
+00:03:11,270 --> 00:03:11,280
+you are dealing with a damaging effect,
+ 
+
+139
+00:03:11,280 --> 00:03:13,110
+you are dealing with a damaging effect,
+fireball deals damage as a damaging
+
+140
+00:03:13,110 --> 00:03:13,120
+fireball deals damage as a damaging
+ 
+
+141
+00:03:13,120 --> 00:03:17,190
+fireball deals damage as a damaging
+effect. then you only have to target one
+
+142
+00:03:17,190 --> 00:03:17,200
+effect. then you only have to target one
+ 
+
+143
+00:03:17,200 --> 00:03:20,869
+effect. then you only have to target one
+square of the troop and you only treat
+
+144
+00:03:20,869 --> 00:03:20,879
+square of the troop and you only treat
+ 
+
+145
+00:03:20,879 --> 00:03:23,830
+square of the troop and you only treat
+the defenses of the troop one time and
+
+146
+00:03:23,830 --> 00:03:23,840
+the defenses of the troop one time and
+ 
+
+147
+00:03:23,840 --> 00:03:26,949
+the defenses of the troop one time and
+you only apply the damage one time for
+
+148
+00:03:26,949 --> 00:03:26,959
+you only apply the damage one time for
+ 
+
+149
+00:03:26,959 --> 00:03:31,470
+you only apply the damage one time for
+the um for the entire troop. So
+
+150
+00:03:31,470 --> 00:03:31,480
+the um for the entire troop. So
+ 
+
+151
+00:03:31,480 --> 00:03:34,149
+the um for the entire troop. So
+basically in most situations when you're
+
+152
+00:03:34,149 --> 00:03:34,159
+basically in most situations when you're
+ 
+
+153
+00:03:34,159 --> 00:03:37,110
+basically in most situations when you're
+talking about doing a damaging effect,
+
+154
+00:03:37,110 --> 00:03:37,120
+talking about doing a damaging effect,
+ 
+
+155
+00:03:37,120 --> 00:03:39,110
+talking about doing a damaging effect,
+you're not going to worry about segments
+
+156
+00:03:39,110 --> 00:03:39,120
+you're not going to worry about segments
+ 
+
+157
+00:03:39,120 --> 00:03:42,830
+you're not going to worry about segments
+at all. uh only for the purposes of
+
+158
+00:03:42,830 --> 00:03:42,840
+at all. uh only for the purposes of
+ 
+
+159
+00:03:42,840 --> 00:03:45,670
+at all. uh only for the purposes of
+determining range and cover and things
+
+160
+00:03:45,670 --> 00:03:45,680
+determining range and cover and things
+ 
+
+161
+00:03:45,680 --> 00:03:48,949
+determining range and cover and things
+like that. But by raw, if just one
+
+162
+00:03:48,949 --> 00:03:48,959
+like that. But by raw, if just one
+ 
+
+163
+00:03:48,959 --> 00:03:52,430
+like that. But by raw, if just one
+square of the troop is in the range of a
+
+164
+00:03:52,430 --> 00:03:52,440
+square of the troop is in the range of a
+ 
+
+165
+00:03:52,440 --> 00:03:54,789
+square of the troop is in the range of a
+fireball, then the fireball is going to
+
+166
+00:03:54,789 --> 00:03:54,799
+fireball, then the fireball is going to
+ 
+
+167
+00:03:54,799 --> 00:03:57,830
+fireball, then the fireball is going to
+have its total normal effect. And if the
+
+168
+00:03:57,830 --> 00:03:57,840
+have its total normal effect. And if the
+ 
+
+169
+00:03:57,840 --> 00:04:00,149
+have its total normal effect. And if the
+entire troop is within the range of the
+
+170
+00:04:00,149 --> 00:04:00,159
+entire troop is within the range of the
+ 
+
+171
+00:04:00,159 --> 00:04:02,789
+entire troop is within the range of the
+fireball, again, it's only going to
+
+172
+00:04:02,789 --> 00:04:02,799
+fireball, again, it's only going to
+ 
+
+173
+00:04:02,799 --> 00:04:04,309
+fireball, again, it's only going to
+attack once. There's only going to be
+
+174
+00:04:04,309 --> 00:04:04,319
+attack once. There's only going to be
+ 
+
+175
+00:04:04,319 --> 00:04:07,589
+attack once. There's only going to be
+one reflex save for the entire troop and
+
+176
+00:04:07,589 --> 00:04:07,599
+one reflex save for the entire troop and
+ 
+
+177
+00:04:07,599 --> 00:04:10,630
+one reflex save for the entire troop and
+the damage and potential weaknesses to
+
+178
+00:04:10,630 --> 00:04:10,640
+the damage and potential weaknesses to
+ 
+
+179
+00:04:10,640 --> 00:04:13,869
+the damage and potential weaknesses to
+uh area effects, all that is applied one
+
+180
+00:04:13,869 --> 00:04:13,879
+uh area effects, all that is applied one
+ 
+
+181
+00:04:13,879 --> 00:04:17,830
+uh area effects, all that is applied one
+time. Now, I know that for a lot of
+
+182
+00:04:17,830 --> 00:04:17,840
+time. Now, I know that for a lot of
+ 
+
+183
+00:04:17,840 --> 00:04:19,830
+time. Now, I know that for a lot of
+people that's counterintuitive and for a
+
+184
+00:04:19,830 --> 00:04:19,840
+people that's counterintuitive and for a
+ 
+
+185
+00:04:19,840 --> 00:04:21,349
+people that's counterintuitive and for a
+lot of people it's like, hey, look, it
+
+186
+00:04:21,349 --> 00:04:21,359
+lot of people it's like, hey, look, it
+ 
+
+187
+00:04:21,359 --> 00:04:22,950
+lot of people it's like, hey, look, it
+doesn't make any sense to apply the
+
+188
+00:04:22,950 --> 00:04:22,960
+doesn't make any sense to apply the
+ 
+
+189
+00:04:22,960 --> 00:04:25,350
+doesn't make any sense to apply the
+whole damage to just, you know, just
+
+190
+00:04:25,350 --> 00:04:25,360
+whole damage to just, you know, just
+ 
+
+191
+00:04:25,360 --> 00:04:27,990
+whole damage to just, you know, just
+cause one little corner, one square on
+
+192
+00:04:27,990 --> 00:04:28,000
+cause one little corner, one square on
+ 
+
+193
+00:04:28,000 --> 00:04:29,909
+cause one little corner, one square on
+the end. Uh, and we'll talk about
+
+194
+00:04:29,909 --> 00:04:29,919
+the end. Uh, and we'll talk about
+ 
+
+195
+00:04:29,919 --> 00:04:32,870
+the end. Uh, and we'll talk about
+situations like that in a second, but
+
+196
+00:04:32,870 --> 00:04:32,880
+situations like that in a second, but
+ 
+
+197
+00:04:32,880 --> 00:04:36,550
+situations like that in a second, but
+rules as written, that's how a damaging
+
+198
+00:04:36,550 --> 00:04:36,560
+rules as written, that's how a damaging
+ 
+
+199
+00:04:36,560 --> 00:04:39,110
+rules as written, that's how a damaging
+effect would work. So, now let's talk
+
+200
+00:04:39,110 --> 00:04:39,120
+effect would work. So, now let's talk
+ 
+
+201
+00:04:39,120 --> 00:04:42,270
+effect would work. So, now let's talk
+about non-damaging
+
+202
+00:04:42,270 --> 00:04:42,280
+about non-damaging
+ 
+
+203
+00:04:42,280 --> 00:04:45,990
+about non-damaging
+effects. So, non-damaging effects are
+
+204
+00:04:45,990 --> 00:04:46,000
+effects. So, non-damaging effects are
+ 
+
+205
+00:04:46,000 --> 00:04:50,510
+effects. So, non-damaging effects are
+going to potentially apply to specific
+
+206
+00:04:50,510 --> 00:04:50,520
+going to potentially apply to specific
+ 
+
+207
+00:04:50,520 --> 00:04:54,469
+going to potentially apply to specific
+segments and not to the troop as a whole
+
+208
+00:04:54,469 --> 00:04:54,479
+segments and not to the troop as a whole
+ 
+
+209
+00:04:54,479 --> 00:04:56,790
+segments and not to the troop as a whole
+necessarily.
+
+210
+00:04:56,790 --> 00:04:56,800
+necessarily.
+ 
+
+211
+00:04:56,800 --> 00:04:58,310
+necessarily.
+When you are targeting with a
+
+212
+00:04:58,310 --> 00:04:58,320
+When you are targeting with a
+ 
+
+213
+00:04:58,320 --> 00:05:01,749
+When you are targeting with a
+non-damaging effect, you um well, the
+
+214
+00:05:01,749 --> 00:05:01,759
+non-damaging effect, you um well, the
+ 
+
+215
+00:05:01,759 --> 00:05:04,070
+non-damaging effect, you um well, the
+first thing is any non-damaging effect
+
+216
+00:05:04,070 --> 00:05:04,080
+first thing is any non-damaging effect
+ 
+
+217
+00:05:04,080 --> 00:05:06,950
+first thing is any non-damaging effect
+that only targets a single creature has
+
+218
+00:05:06,950 --> 00:05:06,960
+that only targets a single creature has
+ 
+
+219
+00:05:06,960 --> 00:05:10,550
+that only targets a single creature has
+no effect at all on the troop as a on
+
+220
+00:05:10,550 --> 00:05:10,560
+no effect at all on the troop as a on
+ 
+
+221
+00:05:10,560 --> 00:05:12,390
+no effect at all on the troop as a on
+troops period. So, if you have a
+
+222
+00:05:12,390 --> 00:05:12,400
+troops period. So, if you have a
+ 
+
+223
+00:05:12,400 --> 00:05:14,950
+troops period. So, if you have a
+non-damaging effect, it only targets one
+
+224
+00:05:14,950 --> 00:05:14,960
+non-damaging effect, it only targets one
+ 
+
+225
+00:05:14,960 --> 00:05:17,670
+non-damaging effect, it only targets one
+person. So, for example, a charm spell
+
+226
+00:05:17,670 --> 00:05:17,680
+person. So, for example, a charm spell
+ 
+
+227
+00:05:17,680 --> 00:05:19,510
+person. So, for example, a charm spell
+that's not heightened, it only targets
+
+228
+00:05:19,510 --> 00:05:19,520
+that's not heightened, it only targets
+ 
+
+229
+00:05:19,520 --> 00:05:23,189
+that's not heightened, it only targets
+one person, is not going to have any
+
+230
+00:05:23,189 --> 00:05:23,199
+one person, is not going to have any
+ 
+
+231
+00:05:23,199 --> 00:05:26,629
+one person, is not going to have any
+effect at all on the troop.
+
+232
+00:05:26,629 --> 00:05:26,639
+effect at all on the troop.
+ 
+
+233
+00:05:26,639 --> 00:05:29,350
+effect at all on the troop.
+In order for you to use a non-damaging
+
+234
+00:05:29,350 --> 00:05:29,360
+In order for you to use a non-damaging
+ 
+
+235
+00:05:29,360 --> 00:05:31,749
+In order for you to use a non-damaging
+effect against a troop, it has to be
+
+236
+00:05:31,749 --> 00:05:31,759
+effect against a troop, it has to be
+ 
+
+237
+00:05:31,759 --> 00:05:35,590
+effect against a troop, it has to be
+able to either target five or more
+
+238
+00:05:35,590 --> 00:05:35,600
+able to either target five or more
+ 
+
+239
+00:05:35,600 --> 00:05:39,430
+able to either target five or more
+targets, five or more creatures or you
+
+240
+00:05:39,430 --> 00:05:39,440
+targets, five or more creatures or you
+ 
+
+241
+00:05:39,440 --> 00:05:41,430
+targets, five or more creatures or you
+have to be able to fit all four squares
+
+242
+00:05:41,430 --> 00:05:41,440
+have to be able to fit all four squares
+ 
+
+243
+00:05:41,440 --> 00:05:44,870
+have to be able to fit all four squares
+of a segment in the in the area effect
+
+244
+00:05:44,870 --> 00:05:44,880
+of a segment in the in the area effect
+ 
+
+245
+00:05:44,880 --> 00:05:46,830
+of a segment in the in the area effect
+of that. So, if you had like an aura
+
+246
+00:05:46,830 --> 00:05:46,840
+of that. So, if you had like an aura
+ 
+
+247
+00:05:46,840 --> 00:05:50,629
+of that. So, if you had like an aura
+effect, then you know, you were um
+
+248
+00:05:50,629 --> 00:05:50,639
+effect, then you know, you were um
+ 
+
+249
+00:05:50,639 --> 00:05:53,909
+effect, then you know, you were um
+casting Bane and you had sustained it
+
+250
+00:05:53,909 --> 00:05:53,919
+casting Bane and you had sustained it
+ 
+
+251
+00:05:53,919 --> 00:05:55,310
+casting Bane and you had sustained it
+enough that it
+
+252
+00:05:55,310 --> 00:05:55,320
+enough that it
+ 
+
+253
+00:05:55,320 --> 00:05:58,150
+enough that it
+expanded, all of an entire segment would
+
+254
+00:05:58,150 --> 00:05:58,160
+expanded, all of an entire segment would
+ 
+
+255
+00:05:58,160 --> 00:06:00,710
+expanded, all of an entire segment would
+have to be within that area for that to
+
+256
+00:06:00,710 --> 00:06:00,720
+have to be within that area for that to
+ 
+
+257
+00:06:00,720 --> 00:06:05,590
+have to be within that area for that to
+have an effect upon it. Now, things get
+
+258
+00:06:05,590 --> 00:06:05,600
+have an effect upon it. Now, things get
+ 
+
+259
+00:06:05,600 --> 00:06:08,870
+have an effect upon it. Now, things get
+a little bit weird when you start
+
+260
+00:06:08,870 --> 00:06:08,880
+a little bit weird when you start
+ 
+
+261
+00:06:08,880 --> 00:06:10,710
+a little bit weird when you start
+thinking about exactly what those
+
+262
+00:06:10,710 --> 00:06:10,720
+thinking about exactly what those
+ 
+
+263
+00:06:10,720 --> 00:06:13,670
+thinking about exactly what those
+effects are and how they impact things.
+
+264
+00:06:13,670 --> 00:06:13,680
+effects are and how they impact things.
+ 
+
+265
+00:06:13,680 --> 00:06:17,270
+effects are and how they impact things.
+So, I I guess the the next thing to to
+
+266
+00:06:17,270 --> 00:06:17,280
+So, I I guess the the next thing to to
+ 
+
+267
+00:06:17,280 --> 00:06:19,830
+So, I I guess the the next thing to to
+talk about is going to be the the actual
+
+268
+00:06:19,830 --> 00:06:19,840
+talk about is going to be the the actual
+ 
+
+269
+00:06:19,840 --> 00:06:21,670
+talk about is going to be the the actual
+text from the rule book. And I wish I'd
+
+270
+00:06:21,670 --> 00:06:21,680
+text from the rule book. And I wish I'd
+ 
+
+271
+00:06:21,680 --> 00:06:24,469
+text from the rule book. And I wish I'd
+included this in the uh earlier video.
+
+272
+00:06:24,469 --> 00:06:24,479
+included this in the uh earlier video.
+ 
+
+273
+00:06:24,479 --> 00:06:27,029
+included this in the uh earlier video.
+Uh I talked about how this is going to
+
+274
+00:06:27,029 --> 00:06:27,039
+Uh I talked about how this is going to
+ 
+
+275
+00:06:27,039 --> 00:06:30,309
+Uh I talked about how this is going to
+be a system where a lot of the decisions
+
+276
+00:06:30,309 --> 00:06:30,319
+be a system where a lot of the decisions
+ 
+
+277
+00:06:30,319 --> 00:06:32,550
+be a system where a lot of the decisions
+are going to be up to the GMs. Like,
+
+278
+00:06:32,550 --> 00:06:32,560
+are going to be up to the GMs. Like,
+ 
+
+279
+00:06:32,560 --> 00:06:33,430
+are going to be up to the GMs. Like,
+you're just going to have to make
+
+280
+00:06:33,430 --> 00:06:33,440
+you're just going to have to make
+ 
+
+281
+00:06:33,440 --> 00:06:34,870
+you're just going to have to make
+judgment calls. You're going to have to
+
+282
+00:06:34,870 --> 00:06:34,880
+judgment calls. You're going to have to
+ 
+
+283
+00:06:34,880 --> 00:06:37,189
+judgment calls. You're going to have to
+look at the situation and say, "I think
+
+284
+00:06:37,189 --> 00:06:37,199
+look at the situation and say, "I think
+ 
+
+285
+00:06:37,199 --> 00:06:38,790
+look at the situation and say, "I think
+this makes sense or it doesn't make
+
+286
+00:06:38,790 --> 00:06:38,800
+this makes sense or it doesn't make
+ 
+
+287
+00:06:38,800 --> 00:06:41,110
+this makes sense or it doesn't make
+sense." and just decide how you're going
+
+288
+00:06:41,110 --> 00:06:41,120
+sense." and just decide how you're going
+ 
+
+289
+00:06:41,120 --> 00:06:45,070
+sense." and just decide how you're going
+to apply any of these effects. Uh
+
+290
+00:06:45,070 --> 00:06:45,080
+to apply any of these effects. Uh
+ 
+
+291
+00:06:45,080 --> 00:06:47,510
+to apply any of these effects. Uh
+because the there's so many different
+
+292
+00:06:47,510 --> 00:06:47,520
+because the there's so many different
+ 
+
+293
+00:06:47,520 --> 00:06:48,870
+because the there's so many different
+variations of so many different
+
+294
+00:06:48,870 --> 00:06:48,880
+variations of so many different
+ 
+
+295
+00:06:48,880 --> 00:06:50,950
+variations of so many different
+conditions and so many different effects
+
+296
+00:06:50,950 --> 00:06:50,960
+conditions and so many different effects
+ 
+
+297
+00:06:50,960 --> 00:06:52,469
+conditions and so many different effects
+and so many different situations of how
+
+298
+00:06:52,469 --> 00:06:52,479
+and so many different situations of how
+ 
+
+299
+00:06:52,479 --> 00:06:55,990
+and so many different situations of how
+a troop may be oriented and how a map
+
+300
+00:06:55,990 --> 00:06:56,000
+a troop may be oriented and how a map
+ 
+
+301
+00:06:56,000 --> 00:06:57,590
+a troop may be oriented and how a map
+may be shaped and environmental
+
+302
+00:06:57,590 --> 00:06:57,600
+may be shaped and environmental
+ 
+
+303
+00:06:57,600 --> 00:06:59,749
+may be shaped and environmental
+conditions that the book really doesn't
+
+304
+00:06:59,749 --> 00:06:59,759
+conditions that the book really doesn't
+ 
+
+305
+00:06:59,759 --> 00:07:05,150
+conditions that the book really doesn't
+get into uh any kind of uh by
+
+306
+00:07:05,150 --> 00:07:05,160
+get into uh any kind of uh by
+ 
+
+307
+00:07:05,160 --> 00:07:09,029
+get into uh any kind of uh by
+raw coals on conditions and specific
+
+308
+00:07:09,029 --> 00:07:09,039
+raw coals on conditions and specific
+ 
+
+309
+00:07:09,039 --> 00:07:11,350
+raw coals on conditions and specific
+effects. Uh instead again they give you
+
+310
+00:07:11,350 --> 00:07:11,360
+effects. Uh instead again they give you
+ 
+
+311
+00:07:11,360 --> 00:07:13,189
+effects. Uh instead again they give you
+rules for targeting and they leave it up
+
+312
+00:07:13,189 --> 00:07:13,199
+rules for targeting and they leave it up
+ 
+
+313
+00:07:13,199 --> 00:07:15,189
+rules for targeting and they leave it up
+to you to figure out what happens. But
+
+314
+00:07:15,189 --> 00:07:15,199
+to you to figure out what happens. But
+ 
+
+315
+00:07:15,199 --> 00:07:18,070
+to you to figure out what happens. But
+this um this text says the rules for
+
+316
+00:07:18,070 --> 00:07:18,080
+this um this text says the rules for
+ 
+
+317
+00:07:18,080 --> 00:07:19,990
+this um this text says the rules for
+troops especially troop defenses cover
+
+318
+00:07:19,990 --> 00:07:20,000
+troops especially troop defenses cover
+ 
+
+319
+00:07:20,000 --> 00:07:21,830
+troops especially troop defenses cover
+many circumstances where it's important
+
+320
+00:07:21,830 --> 00:07:21,840
+many circumstances where it's important
+ 
+
+321
+00:07:21,840 --> 00:07:25,029
+many circumstances where it's important
+that troops are not all one entity.
+
+322
+00:07:25,029 --> 00:07:25,039
+that troops are not all one entity.
+ 
+
+323
+00:07:25,039 --> 00:07:27,029
+that troops are not all one entity.
+However, the rules can't cover every
+
+324
+00:07:27,029 --> 00:07:27,039
+However, the rules can't cover every
+ 
+
+325
+00:07:27,039 --> 00:07:29,390
+However, the rules can't cover every
+possibility and it's best to use common
+
+326
+00:07:29,390 --> 00:07:29,400
+possibility and it's best to use common
+ 
+
+327
+00:07:29,400 --> 00:07:32,230
+possibility and it's best to use common
+sense. And uh this is the the piece that
+
+328
+00:07:32,230 --> 00:07:32,240
+sense. And uh this is the the piece that
+ 
+
+329
+00:07:32,240 --> 00:07:33,830
+sense. And uh this is the the piece that
+I wish I had included in my previous
+
+330
+00:07:33,830 --> 00:07:33,840
+I wish I had included in my previous
+ 
+
+331
+00:07:33,840 --> 00:07:37,110
+I wish I had included in my previous
+video. If a player uses an ability you
+
+332
+00:07:37,110 --> 00:07:37,120
+video. If a player uses an ability you
+ 
+
+333
+00:07:37,120 --> 00:07:39,430
+video. If a player uses an ability you
+don't think works on a troop, discuss
+
+334
+00:07:39,430 --> 00:07:39,440
+don't think works on a troop, discuss
+ 
+
+335
+00:07:39,440 --> 00:07:42,629
+don't think works on a troop, discuss
+with that player and refund actions
+
+336
+00:07:42,629 --> 00:07:42,639
+with that player and refund actions
+ 
+
+337
+00:07:42,639 --> 00:07:45,309
+with that player and refund actions
+spent based on mistaken
+
+338
+00:07:45,309 --> 00:07:45,319
+spent based on mistaken
+ 
+
+339
+00:07:45,319 --> 00:07:47,430
+spent based on mistaken
+assumptions. So the rules are really
+
+340
+00:07:47,430 --> 00:07:47,440
+assumptions. So the rules are really
+ 
+
+341
+00:07:47,440 --> 00:07:49,510
+assumptions. So the rules are really
+just saying, you know, like, hey,
+
+342
+00:07:49,510 --> 00:07:49,520
+just saying, you know, like, hey,
+ 
+
+343
+00:07:49,520 --> 00:07:51,990
+just saying, you know, like, hey,
+everybody, players and GMs alike are
+
+344
+00:07:51,990 --> 00:07:52,000
+everybody, players and GMs alike are
+ 
+
+345
+00:07:52,000 --> 00:07:53,990
+everybody, players and GMs alike are
+going to have to understand that this is
+
+346
+00:07:53,990 --> 00:07:54,000
+going to have to understand that this is
+ 
+
+347
+00:07:54,000 --> 00:07:57,670
+going to have to understand that this is
+going to be up to GM interpretation to a
+
+348
+00:07:57,670 --> 00:07:57,680
+going to be up to GM interpretation to a
+ 
+
+349
+00:07:57,680 --> 00:08:01,110
+going to be up to GM interpretation to a
+greater degree than what is. So try not
+
+350
+00:08:01,110 --> 00:08:01,120
+greater degree than what is. So try not
+ 
+
+351
+00:08:01,120 --> 00:08:02,710
+greater degree than what is. So try not
+to, you know, say, "Oh, you took your
+
+352
+00:08:02,710 --> 00:08:02,720
+to, you know, say, "Oh, you took your
+ 
+
+353
+00:08:02,720 --> 00:08:04,710
+to, you know, say, "Oh, you took your
+your hand off the chest piece. You you
+
+354
+00:08:04,710 --> 00:08:04,720
+your hand off the chest piece. You you
+ 
+
+355
+00:08:04,720 --> 00:08:07,990
+your hand off the chest piece. You you
+said you were going to do X and too bad.
+
+356
+00:08:07,990 --> 00:08:08,000
+said you were going to do X and too bad.
+ 
+
+357
+00:08:08,000 --> 00:08:10,230
+said you were going to do X and too bad.
+It has no effect and your turn was
+
+358
+00:08:10,230 --> 00:08:10,240
+It has no effect and your turn was
+ 
+
+359
+00:08:10,240 --> 00:08:12,150
+It has no effect and your turn was
+wasted." Well, that's not fun for
+
+360
+00:08:12,150 --> 00:08:12,160
+wasted." Well, that's not fun for
+ 
+
+361
+00:08:12,160 --> 00:08:13,430
+wasted." Well, that's not fun for
+players, that's probably not fun for the
+
+362
+00:08:13,430 --> 00:08:13,440
+players, that's probably not fun for the
+ 
+
+363
+00:08:13,440 --> 00:08:14,990
+players, that's probably not fun for the
+GM either.
+
+364
+00:08:14,990 --> 00:08:15,000
+GM either.
+ 
+
+365
+00:08:15,000 --> 00:08:17,670
+GM either.
+So the recommendation, which I think is
+
+366
+00:08:17,670 --> 00:08:17,680
+So the recommendation, which I think is
+ 
+
+367
+00:08:17,680 --> 00:08:19,990
+So the recommendation, which I think is
+a good recommendation, is if the players
+
+368
+00:08:19,990 --> 00:08:20,000
+a good recommendation, is if the players
+ 
+
+369
+00:08:20,000 --> 00:08:21,670
+a good recommendation, is if the players
+want to do something, they say they take
+
+370
+00:08:21,670 --> 00:08:21,680
+want to do something, they say they take
+ 
+
+371
+00:08:21,680 --> 00:08:22,869
+want to do something, they say they take
+their actions to do something, and then
+
+372
+00:08:22,869 --> 00:08:22,879
+their actions to do something, and then
+ 
+
+373
+00:08:22,879 --> 00:08:25,110
+their actions to do something, and then
+you process it and you decide, you know
+
+374
+00:08:25,110 --> 00:08:25,120
+you process it and you decide, you know
+ 
+
+375
+00:08:25,120 --> 00:08:26,309
+you process it and you decide, you know
+what, that's not going to have an effect
+
+376
+00:08:26,309 --> 00:08:26,319
+what, that's not going to have an effect
+ 
+
+377
+00:08:26,319 --> 00:08:28,790
+what, that's not going to have an effect
+on the troop, give them back their
+
+378
+00:08:28,790 --> 00:08:28,800
+on the troop, give them back their
+ 
+
+379
+00:08:28,800 --> 00:08:30,950
+on the troop, give them back their
+actions. Let them try again. Make sure
+
+380
+00:08:30,950 --> 00:08:30,960
+actions. Let them try again. Make sure
+ 
+
+381
+00:08:30,960 --> 00:08:33,070
+actions. Let them try again. Make sure
+everybody's on the same
+
+382
+00:08:33,070 --> 00:08:33,080
+everybody's on the same
+ 
+
+383
+00:08:33,080 --> 00:08:37,430
+everybody's on the same
+page. So, um, a couple of different, um,
+
+384
+00:08:37,430 --> 00:08:37,440
+page. So, um, a couple of different, um,
+ 
+
+385
+00:08:37,440 --> 00:08:39,029
+page. So, um, a couple of different, um,
+things that were put into the comments
+
+386
+00:08:39,029 --> 00:08:39,039
+things that were put into the comments
+ 
+
+387
+00:08:39,039 --> 00:08:42,949
+things that were put into the comments
+that might be worth looking at. Uh, can
+
+388
+00:08:42,949 --> 00:08:42,959
+that might be worth looking at. Uh, can
+ 
+
+389
+00:08:42,959 --> 00:08:46,150
+that might be worth looking at. Uh, can
+a troop be flanked? Well, okay. So,
+
+390
+00:08:46,150 --> 00:08:46,160
+a troop be flanked? Well, okay. So,
+ 
+
+391
+00:08:46,160 --> 00:08:48,550
+a troop be flanked? Well, okay. So,
+let's think about this. Flanking, if
+
+392
+00:08:48,550 --> 00:08:48,560
+let's think about this. Flanking, if
+ 
+
+393
+00:08:48,560 --> 00:08:50,870
+let's think about this. Flanking, if
+you're imposing flanking, if that is, is
+
+394
+00:08:50,870 --> 00:08:50,880
+you're imposing flanking, if that is, is
+ 
+
+395
+00:08:50,880 --> 00:08:52,389
+you're imposing flanking, if that is, is
+that going to be a damaging effect or a
+
+396
+00:08:52,389 --> 00:08:52,399
+that going to be a damaging effect or a
+ 
+
+397
+00:08:52,399 --> 00:08:54,790
+that going to be a damaging effect or a
+non-damaging effect? Well, flanking is a
+
+398
+00:08:54,790 --> 00:08:54,800
+non-damaging effect? Well, flanking is a
+ 
+
+399
+00:08:54,800 --> 00:08:56,550
+non-damaging effect? Well, flanking is a
+non-damaging effect. Now, it could lead
+
+400
+00:08:56,550 --> 00:08:56,560
+non-damaging effect. Now, it could lead
+ 
+
+401
+00:08:56,560 --> 00:08:58,710
+non-damaging effect. Now, it could lead
+to damage by making it easier for an
+
+402
+00:08:58,710 --> 00:08:58,720
+to damage by making it easier for an
+ 
+
+403
+00:08:58,720 --> 00:09:00,790
+to damage by making it easier for an
+attack, but flanking is a non-damaging
+
+404
+00:09:00,790 --> 00:09:00,800
+attack, but flanking is a non-damaging
+ 
+
+405
+00:09:00,800 --> 00:09:05,030
+attack, but flanking is a non-damaging
+effect. So unless you have a ability, a
+
+406
+00:09:05,030 --> 00:09:05,040
+effect. So unless you have a ability, a
+ 
+
+407
+00:09:05,040 --> 00:09:06,310
+effect. So unless you have a ability, a
+spell or something that would apply
+
+408
+00:09:06,310 --> 00:09:06,320
+spell or something that would apply
+ 
+
+409
+00:09:06,320 --> 00:09:09,030
+spell or something that would apply
+flanking or the offg guard condition to
+
+410
+00:09:09,030 --> 00:09:09,040
+flanking or the offg guard condition to
+ 
+
+411
+00:09:09,040 --> 00:09:12,630
+flanking or the offg guard condition to
+an area or to five or more targets, then
+
+412
+00:09:12,630 --> 00:09:12,640
+an area or to five or more targets, then
+ 
+
+413
+00:09:12,640 --> 00:09:15,030
+an area or to five or more targets, then
+we fall back on that rule that says that
+
+414
+00:09:15,030 --> 00:09:15,040
+we fall back on that rule that says that
+ 
+
+415
+00:09:15,040 --> 00:09:17,310
+we fall back on that rule that says that
+non-damaging effects only target one
+
+416
+00:09:17,310 --> 00:09:17,320
+non-damaging effects only target one
+ 
+
+417
+00:09:17,320 --> 00:09:19,509
+non-damaging effects only target one
+creature. The troops are immune to
+
+418
+00:09:19,509 --> 00:09:19,519
+creature. The troops are immune to
+ 
+
+419
+00:09:19,519 --> 00:09:21,670
+creature. The troops are immune to
+those. So it has no effect at all. So in
+
+420
+00:09:21,670 --> 00:09:21,680
+those. So it has no effect at all. So in
+ 
+
+421
+00:09:21,680 --> 00:09:23,910
+those. So it has no effect at all. So in
+most cases, no. Flanking is not going to
+
+422
+00:09:23,910 --> 00:09:23,920
+most cases, no. Flanking is not going to
+ 
+
+423
+00:09:23,920 --> 00:09:26,630
+most cases, no. Flanking is not going to
+apply to a troop. Uh what about using
+
+424
+00:09:26,630 --> 00:09:26,640
+apply to a troop. Uh what about using
+ 
+
+425
+00:09:26,640 --> 00:09:28,550
+apply to a troop. Uh what about using
+your athletic skill to grab somebody?
+
+426
+00:09:28,550 --> 00:09:28,560
+your athletic skill to grab somebody?
+ 
+
+427
+00:09:28,560 --> 00:09:30,070
+your athletic skill to grab somebody?
+There's nothing in the rules that says
+
+428
+00:09:30,070 --> 00:09:30,080
+There's nothing in the rules that says
+ 
+
+429
+00:09:30,080 --> 00:09:32,150
+There's nothing in the rules that says
+that a troop cannot be grabbed or that
+
+430
+00:09:32,150 --> 00:09:32,160
+that a troop cannot be grabbed or that
+ 
+
+431
+00:09:32,160 --> 00:09:34,470
+that a troop cannot be grabbed or that
+is immune to the grabbed condition.
+
+432
+00:09:34,470 --> 00:09:34,480
+is immune to the grabbed condition.
+ 
+
+433
+00:09:34,480 --> 00:09:37,750
+is immune to the grabbed condition.
+That's true, but again, what are you
+
+434
+00:09:37,750 --> 00:09:37,760
+That's true, but again, what are you
+ 
+
+435
+00:09:37,760 --> 00:09:40,470
+That's true, but again, what are you
+using to impose grabbed, which is a
+
+436
+00:09:40,470 --> 00:09:40,480
+using to impose grabbed, which is a
+ 
+
+437
+00:09:40,480 --> 00:09:44,550
+using to impose grabbed, which is a
+non-damaging effect on this troop? Is it
+
+438
+00:09:44,550 --> 00:09:44,560
+non-damaging effect on this troop? Is it
+ 
+
+439
+00:09:44,560 --> 00:09:46,710
+non-damaging effect on this troop? Is it
+a like the athletic skill is a single
+
+440
+00:09:46,710 --> 00:09:46,720
+a like the athletic skill is a single
+ 
+
+441
+00:09:46,720 --> 00:09:48,070
+a like the athletic skill is a single
+target where you're just literally
+
+442
+00:09:48,070 --> 00:09:48,080
+target where you're just literally
+ 
+
+443
+00:09:48,080 --> 00:09:50,870
+target where you're just literally
+grabbing somebody? Well, uh, first of
+
+444
+00:09:50,870 --> 00:09:50,880
+grabbing somebody? Well, uh, first of
+ 
+
+445
+00:09:50,880 --> 00:09:52,389
+grabbing somebody? Well, uh, first of
+all, common sense would say that
+
+446
+00:09:52,389 --> 00:09:52,399
+all, common sense would say that
+ 
+
+447
+00:09:52,399 --> 00:09:53,910
+all, common sense would say that
+wouldn't impede an entire troop. But
+
+448
+00:09:53,910 --> 00:09:53,920
+wouldn't impede an entire troop. But
+ 
+
+449
+00:09:53,920 --> 00:09:56,470
+wouldn't impede an entire troop. But
+second of all, even in the rules, single
+
+450
+00:09:56,470 --> 00:09:56,480
+second of all, even in the rules, single
+ 
+
+451
+00:09:56,480 --> 00:09:58,470
+second of all, even in the rules, single
+target non-damaging effect would have no
+
+452
+00:09:58,470 --> 00:09:58,480
+target non-damaging effect would have no
+ 
+
+453
+00:09:58,480 --> 00:10:01,750
+target non-damaging effect would have no
+effect at all on the troop. So, uh, no,
+
+454
+00:10:01,750 --> 00:10:01,760
+effect at all on the troop. So, uh, no,
+ 
+
+455
+00:10:01,760 --> 00:10:05,430
+effect at all on the troop. So, uh, no,
+you can't use grab to to uh, you know,
+
+456
+00:10:05,430 --> 00:10:05,440
+you can't use grab to to uh, you know,
+ 
+
+457
+00:10:05,440 --> 00:10:07,670
+you can't use grab to to uh, you know,
+use athletics to grab a a target. Same
+
+458
+00:10:07,670 --> 00:10:07,680
+use athletics to grab a a target. Same
+ 
+
+459
+00:10:07,680 --> 00:10:09,110
+use athletics to grab a a target. Same
+thing with, you know, tripping someone
+
+460
+00:10:09,110 --> 00:10:09,120
+thing with, you know, tripping someone
+ 
+
+461
+00:10:09,120 --> 00:10:12,230
+thing with, you know, tripping someone
+to knock them prone. But if you had some
+
+462
+00:10:12,230 --> 00:10:12,240
+to knock them prone. But if you had some
+ 
+
+463
+00:10:12,240 --> 00:10:14,470
+to knock them prone. But if you had some
+sort of ability or spell, a quick effect
+
+464
+00:10:14,470 --> 00:10:14,480
+sort of ability or spell, a quick effect
+ 
+
+465
+00:10:14,480 --> 00:10:17,550
+sort of ability or spell, a quick effect
+or something that would impose the prone
+
+466
+00:10:17,550 --> 00:10:17,560
+or something that would impose the prone
+ 
+
+467
+00:10:17,560 --> 00:10:20,670
+or something that would impose the prone
+condition on an entire
+
+468
+00:10:20,670 --> 00:10:20,680
+condition on an entire
+ 
+
+469
+00:10:20,680 --> 00:10:24,949
+condition on an entire
+segment, then that could work. And then
+
+470
+00:10:24,949 --> 00:10:24,959
+segment, then that could work. And then
+ 
+
+471
+00:10:24,959 --> 00:10:26,710
+segment, then that could work. And then
+the question would be, well, what does
+
+472
+00:10:26,710 --> 00:10:26,720
+the question would be, well, what does
+ 
+
+473
+00:10:26,720 --> 00:10:31,509
+the question would be, well, what does
+that do to that segment? So, anytime a
+
+474
+00:10:31,509 --> 00:10:31,519
+that do to that segment? So, anytime a
+ 
+
+475
+00:10:31,519 --> 00:10:34,230
+that do to that segment? So, anytime a
+segment a an entire segment faces a
+
+476
+00:10:34,230 --> 00:10:34,240
+segment a an entire segment faces a
+ 
+
+477
+00:10:34,240 --> 00:10:38,110
+segment a an entire segment faces a
+non-damaging condition or a non-damaging
+
+478
+00:10:38,110 --> 00:10:38,120
+non-damaging condition or a non-damaging
+ 
+
+479
+00:10:38,120 --> 00:10:42,310
+non-damaging condition or a non-damaging
+effect, if that effect would prevent the
+
+480
+00:10:42,310 --> 00:10:42,320
+effect, if that effect would prevent the
+ 
+
+481
+00:10:42,320 --> 00:10:45,829
+effect, if that effect would prevent the
+um the troop from acting uh for an
+
+482
+00:10:45,829 --> 00:10:45,839
+um the troop from acting uh for an
+ 
+
+483
+00:10:45,839 --> 00:10:47,790
+um the troop from acting uh for an
+entire turn,
+
+484
+00:10:47,790 --> 00:10:47,800
+entire turn,
+ 
+
+485
+00:10:47,800 --> 00:10:51,990
+entire turn,
+then you assume that is enough for that
+
+486
+00:10:51,990 --> 00:10:52,000
+then you assume that is enough for that
+ 
+
+487
+00:10:52,000 --> 00:10:54,630
+then you assume that is enough for that
+segment to be killed. They've been
+
+488
+00:10:54,630 --> 00:10:54,640
+segment to be killed. They've been
+ 
+
+489
+00:10:54,640 --> 00:10:57,269
+segment to be killed. They've been
+debilitated enough that they would be
+
+490
+00:10:57,269 --> 00:10:57,279
+debilitated enough that they would be
+ 
+
+491
+00:10:57,279 --> 00:10:59,350
+debilitated enough that they would be
+wiped out by their opposing force. and
+
+492
+00:10:59,350 --> 00:10:59,360
+wiped out by their opposing force. and
+ 
+
+493
+00:10:59,360 --> 00:11:01,990
+wiped out by their opposing force. and
+you you lower the hit points to the next
+
+494
+00:11:01,990 --> 00:11:02,000
+you you lower the hit points to the next
+ 
+
+495
+00:11:02,000 --> 00:11:04,230
+you you lower the hit points to the next
+threshold. You remove one segment from
+
+496
+00:11:04,230 --> 00:11:04,240
+threshold. You remove one segment from
+ 
+
+497
+00:11:04,240 --> 00:11:06,949
+threshold. You remove one segment from
+the map, which may or may not be that
+
+498
+00:11:06,949 --> 00:11:06,959
+the map, which may or may not be that
+ 
+
+499
+00:11:06,959 --> 00:11:11,470
+the map, which may or may not be that
+specific segment depending on the
+
+500
+00:11:11,470 --> 00:11:11,480
+
+ 
+
+501
+00:11:11,480 --> 00:11:14,790
+
+orientation. But so that's easy if
+
+502
+00:11:14,790 --> 00:11:14,800
+orientation. But so that's easy if
+ 
+
+503
+00:11:14,800 --> 00:11:16,230
+orientation. But so that's easy if
+you're talking about effects that are
+
+504
+00:11:16,230 --> 00:11:16,240
+you're talking about effects that are
+ 
+
+505
+00:11:16,240 --> 00:11:21,110
+you're talking about effects that are
+going to uh you know slow a target to
+
+506
+00:11:21,110 --> 00:11:21,120
+going to uh you know slow a target to
+ 
+
+507
+00:11:21,120 --> 00:11:22,949
+going to uh you know slow a target to
+three actions so that they don't act on
+
+508
+00:11:22,949 --> 00:11:22,959
+three actions so that they don't act on
+ 
+
+509
+00:11:22,959 --> 00:11:24,630
+three actions so that they don't act on
+their next turn. If it's going to
+
+510
+00:11:24,630 --> 00:11:24,640
+their next turn. If it's going to
+ 
+
+511
+00:11:24,640 --> 00:11:26,790
+their next turn. If it's going to
+completely immobilize them for a turn so
+
+512
+00:11:26,790 --> 00:11:26,800
+completely immobilize them for a turn so
+ 
+
+513
+00:11:26,800 --> 00:11:28,550
+completely immobilize them for a turn so
+they can't, you know, freely move and
+
+514
+00:11:28,550 --> 00:11:28,560
+they can't, you know, freely move and
+ 
+
+515
+00:11:28,560 --> 00:11:31,190
+they can't, you know, freely move and
+act for an entire turn, that all makes
+
+516
+00:11:31,190 --> 00:11:31,200
+act for an entire turn, that all makes
+ 
+
+517
+00:11:31,200 --> 00:11:34,470
+act for an entire turn, that all makes
+sense. But what about these effects that
+
+518
+00:11:34,470 --> 00:11:34,480
+sense. But what about these effects that
+ 
+
+519
+00:11:34,480 --> 00:11:35,949
+sense. But what about these effects that
+impose
+
+520
+00:11:35,949 --> 00:11:35,959
+impose
+ 
+
+521
+00:11:35,959 --> 00:11:40,710
+impose
+penalties but don't impede the segment
+
+522
+00:11:40,710 --> 00:11:40,720
+penalties but don't impede the segment
+ 
+
+523
+00:11:40,720 --> 00:11:43,590
+penalties but don't impede the segment
+from acting? There's nothing in the book
+
+524
+00:11:43,590 --> 00:11:43,600
+from acting? There's nothing in the book
+ 
+
+525
+00:11:43,600 --> 00:11:46,550
+from acting? There's nothing in the book
+that says that effects like that don't
+
+526
+00:11:46,550 --> 00:11:46,560
+that says that effects like that don't
+ 
+
+527
+00:11:46,560 --> 00:11:48,470
+that says that effects like that don't
+work at all and there's nothing in the
+
+528
+00:11:48,470 --> 00:11:48,480
+work at all and there's nothing in the
+ 
+
+529
+00:11:48,480 --> 00:11:50,069
+work at all and there's nothing in the
+effects in the text that says they work
+
+530
+00:11:50,069 --> 00:11:50,079
+effects in the text that says they work
+ 
+
+531
+00:11:50,079 --> 00:11:52,870
+effects in the text that says they work
+as normal. Uh, so I would say the the
+
+532
+00:11:52,870 --> 00:11:52,880
+as normal. Uh, so I would say the the
+ 
+
+533
+00:11:52,880 --> 00:11:55,110
+as normal. Uh, so I would say the the
+raw interpretation would be they act as
+
+534
+00:11:55,110 --> 00:11:55,120
+raw interpretation would be they act as
+ 
+
+535
+00:11:55,120 --> 00:11:56,949
+raw interpretation would be they act as
+normal, but you are as a GM going to
+
+536
+00:11:56,949 --> 00:11:56,959
+normal, but you are as a GM going to
+ 
+
+537
+00:11:56,959 --> 00:11:58,790
+normal, but you are as a GM going to
+have to figure out exactly what does
+
+538
+00:11:58,790 --> 00:11:58,800
+have to figure out exactly what does
+ 
+
+539
+00:11:58,800 --> 00:12:01,269
+have to figure out exactly what does
+that mean for a troop. So, for example,
+
+540
+00:12:01,269 --> 00:12:01,279
+that mean for a troop. So, for example,
+ 
+
+541
+00:12:01,279 --> 00:12:04,550
+that mean for a troop. So, for example,
+let's say you cast the fear spell, you
+
+542
+00:12:04,550 --> 00:12:04,560
+let's say you cast the fear spell, you
+ 
+
+543
+00:12:04,560 --> 00:12:07,030
+let's say you cast the fear spell, you
+heighten it uh to a high enough rank
+
+544
+00:12:07,030 --> 00:12:07,040
+heighten it uh to a high enough rank
+ 
+
+545
+00:12:07,040 --> 00:12:10,150
+heighten it uh to a high enough rank
+that it would affect an entire segment,
+
+546
+00:12:10,150 --> 00:12:10,160
+that it would affect an entire segment,
+ 
+
+547
+00:12:10,160 --> 00:12:12,790
+that it would affect an entire segment,
+they failed their save, and now they're
+
+548
+00:12:12,790 --> 00:12:12,800
+they failed their save, and now they're
+ 
+
+549
+00:12:12,800 --> 00:12:15,030
+they failed their save, and now they're
+they're facing frightened one or
+
+550
+00:12:15,030 --> 00:12:15,040
+they're facing frightened one or
+ 
+
+551
+00:12:15,040 --> 00:12:19,110
+they're facing frightened one or
+frightened two um from that. Now, if you
+
+552
+00:12:19,110 --> 00:12:19,120
+frightened two um from that. Now, if you
+ 
+
+553
+00:12:19,120 --> 00:12:20,470
+frightened two um from that. Now, if you
+if they critically fail on something
+
+554
+00:12:20,470 --> 00:12:20,480
+if they critically fail on something
+ 
+
+555
+00:12:20,480 --> 00:12:22,069
+if they critically fail on something
+like that and they have to flee, then I
+
+556
+00:12:22,069 --> 00:12:22,079
+like that and they have to flee, then I
+ 
+
+557
+00:12:22,079 --> 00:12:23,590
+like that and they have to flee, then I
+would say that they're not acting as
+
+558
+00:12:23,590 --> 00:12:23,600
+would say that they're not acting as
+ 
+
+559
+00:12:23,600 --> 00:12:25,990
+would say that they're not acting as
+normal for an entire turn next turn and
+
+560
+00:12:25,990 --> 00:12:26,000
+normal for an entire turn next turn and
+ 
+
+561
+00:12:26,000 --> 00:12:28,069
+normal for an entire turn next turn and
+fall back on that ruling. But if it's
+
+562
+00:12:28,069 --> 00:12:28,079
+fall back on that ruling. But if it's
+ 
+
+563
+00:12:28,079 --> 00:12:30,629
+fall back on that ruling. But if it's
+just frighten one or frighten two, they
+
+564
+00:12:30,629 --> 00:12:30,639
+just frighten one or frighten two, they
+ 
+
+565
+00:12:30,639 --> 00:12:31,750
+just frighten one or frighten two, they
+can still take all three of their
+
+566
+00:12:31,750 --> 00:12:31,760
+can still take all three of their
+ 
+
+567
+00:12:31,760 --> 00:12:33,750
+can still take all three of their
+actions, but we're only talking about
+
+568
+00:12:33,750 --> 00:12:33,760
+actions, but we're only talking about
+ 
+
+569
+00:12:33,760 --> 00:12:35,190
+actions, but we're only talking about
+one segment. So, what does this mean for
+
+570
+00:12:35,190 --> 00:12:35,200
+one segment. So, what does this mean for
+ 
+
+571
+00:12:35,200 --> 00:12:37,030
+one segment. So, what does this mean for
+the game?
+
+572
+00:12:37,030 --> 00:12:37,040
+the game?
+ 
+
+573
+00:12:37,040 --> 00:12:40,110
+the game?
+My ruling in a situation like that would
+
+574
+00:12:40,110 --> 00:12:40,120
+My ruling in a situation like that would
+ 
+
+575
+00:12:40,120 --> 00:12:43,750
+My ruling in a situation like that would
+be any attacks made by the troop against
+
+576
+00:12:43,750 --> 00:12:43,760
+be any attacks made by the troop against
+ 
+
+577
+00:12:43,760 --> 00:12:46,790
+be any attacks made by the troop against
+an enemy that can only be targeted by
+
+578
+00:12:46,790 --> 00:12:46,800
+an enemy that can only be targeted by
+ 
+
+579
+00:12:46,800 --> 00:12:50,310
+an enemy that can only be targeted by
+that segment. If if if a PC is on the
+
+580
+00:12:50,310 --> 00:12:50,320
+that segment. If if if a PC is on the
+ 
+
+581
+00:12:50,320 --> 00:12:54,550
+that segment. If if if a PC is on the
+map in such an orientation that only uh
+
+582
+00:12:54,550 --> 00:12:54,560
+map in such an orientation that only uh
+ 
+
+583
+00:12:54,560 --> 00:12:56,389
+map in such an orientation that only uh
+that they're only in range of the troop
+
+584
+00:12:56,389 --> 00:12:56,399
+that they're only in range of the troop
+ 
+
+585
+00:12:56,399 --> 00:12:58,350
+that they're only in range of the troop
+through that segment is affected by
+
+586
+00:12:58,350 --> 00:12:58,360
+through that segment is affected by
+ 
+
+587
+00:12:58,360 --> 00:13:02,470
+through that segment is affected by
+fear, then I would subtract uh the
+
+588
+00:13:02,470 --> 00:13:02,480
+fear, then I would subtract uh the
+ 
+
+589
+00:13:02,480 --> 00:13:04,470
+fear, then I would subtract uh the
+appropriate amount of fear one or two
+
+590
+00:13:04,470 --> 00:13:04,480
+appropriate amount of fear one or two
+ 
+
+591
+00:13:04,480 --> 00:13:07,750
+appropriate amount of fear one or two
+from their attack roles uh against that
+
+592
+00:13:07,750 --> 00:13:07,760
+from their attack roles uh against that
+ 
+
+593
+00:13:07,760 --> 00:13:10,310
+from their attack roles uh against that
+one specific player, but it wouldn't
+
+594
+00:13:10,310 --> 00:13:10,320
+one specific player, but it wouldn't
+ 
+
+595
+00:13:10,320 --> 00:13:13,590
+one specific player, but it wouldn't
+have any effect at all on other players
+
+596
+00:13:13,590 --> 00:13:13,600
+have any effect at all on other players
+ 
+
+597
+00:13:13,600 --> 00:13:15,590
+have any effect at all on other players
+who are in range of other segments that
+
+598
+00:13:15,590 --> 00:13:15,600
+who are in range of other segments that
+ 
+
+599
+00:13:15,600 --> 00:13:18,389
+who are in range of other segments that
+are not affected by fear.
+
+600
+00:13:18,389 --> 00:13:18,399
+are not affected by fear.
+ 
+
+601
+00:13:18,399 --> 00:13:21,190
+are not affected by fear.
+Same thing if uh if a PC is attacking
+
+602
+00:13:21,190 --> 00:13:21,200
+Same thing if uh if a PC is attacking
+ 
+
+603
+00:13:21,200 --> 00:13:23,710
+Same thing if uh if a PC is attacking
+the troop, even though like I said
+
+604
+00:13:23,710 --> 00:13:23,720
+the troop, even though like I said
+ 
+
+605
+00:13:23,720 --> 00:13:26,910
+the troop, even though like I said
+before, all you got to do is target one
+
+606
+00:13:26,910 --> 00:13:26,920
+before, all you got to do is target one
+ 
+
+607
+00:13:26,920 --> 00:13:29,829
+before, all you got to do is target one
+square. Well, if that square happens to
+
+608
+00:13:29,829 --> 00:13:29,839
+square. Well, if that square happens to
+ 
+
+609
+00:13:29,839 --> 00:13:31,430
+square. Well, if that square happens to
+belong to a segment that is affected by
+
+610
+00:13:31,430 --> 00:13:31,440
+belong to a segment that is affected by
+ 
+
+611
+00:13:31,440 --> 00:13:33,350
+belong to a segment that is affected by
+fear, I would lower their reflex save
+
+612
+00:13:33,350 --> 00:13:33,360
+fear, I would lower their reflex save
+ 
+
+613
+00:13:33,360 --> 00:13:34,949
+fear, I would lower their reflex save
+their armor class by the appropriate
+
+614
+00:13:34,949 --> 00:13:34,959
+their armor class by the appropriate
+ 
+
+615
+00:13:34,959 --> 00:13:38,069
+their armor class by the appropriate
+amount for that attack. Uh but not
+
+616
+00:13:38,069 --> 00:13:38,079
+amount for that attack. Uh but not
+ 
+
+617
+00:13:38,079 --> 00:13:39,670
+amount for that attack. Uh but not
+obviously for other attacks that are
+
+618
+00:13:39,670 --> 00:13:39,680
+obviously for other attacks that are
+ 
+
+619
+00:13:39,680 --> 00:13:41,670
+obviously for other attacks that are
+targeting the troop through other
+
+620
+00:13:41,670 --> 00:13:41,680
+targeting the troop through other
+ 
+
+621
+00:13:41,680 --> 00:13:43,430
+targeting the troop through other
+segments, if that makes any sense at
+
+622
+00:13:43,430 --> 00:13:43,440
+segments, if that makes any sense at
+ 
+
+623
+00:13:43,440 --> 00:13:45,389
+segments, if that makes any sense at
+all. But
+
+624
+00:13:45,389 --> 00:13:45,399
+all. But
+ 
+
+625
+00:13:45,399 --> 00:13:48,150
+all. But
+again, this is going to have to be
+
+626
+00:13:48,150 --> 00:13:48,160
+again, this is going to have to be
+ 
+
+627
+00:13:48,160 --> 00:13:50,910
+again, this is going to have to be
+something that every
+
+628
+00:13:50,910 --> 00:13:50,920
+something that every
+ 
+
+629
+00:13:50,920 --> 00:13:54,710
+something that every
+GM just reviews the situation and makes
+
+630
+00:13:54,710 --> 00:13:54,720
+GM just reviews the situation and makes
+ 
+
+631
+00:13:54,720 --> 00:13:58,230
+GM just reviews the situation and makes
+their own calls. But the major thing
+
+632
+00:13:58,230 --> 00:13:58,240
+their own calls. But the major thing
+ 
+
+633
+00:13:58,240 --> 00:13:59,990
+their own calls. But the major thing
+that I wanted to kind of get across that
+
+634
+00:13:59,990 --> 00:14:00,000
+that I wanted to kind of get across that
+ 
+
+635
+00:14:00,000 --> 00:14:01,590
+that I wanted to kind of get across that
+I think people were getting confused in
+
+636
+00:14:01,590 --> 00:14:01,600
+I think people were getting confused in
+ 
+
+637
+00:14:01,600 --> 00:14:04,509
+I think people were getting confused in
+my comments was
+
+638
+00:14:04,509 --> 00:14:04,519
+my comments was
+ 
+
+639
+00:14:04,519 --> 00:14:06,829
+my comments was
+about damaging
+
+640
+00:14:06,829 --> 00:14:06,839
+about damaging
+ 
+
+641
+00:14:06,839 --> 00:14:10,550
+about damaging
+effects are targeting the troop. So, it
+
+642
+00:14:10,550 --> 00:14:10,560
+effects are targeting the troop. So, it
+ 
+
+643
+00:14:10,560 --> 00:14:12,470
+effects are targeting the troop. So, it
+doesn't matter how much of the troop is
+
+644
+00:14:12,470 --> 00:14:12,480
+doesn't matter how much of the troop is
+ 
+
+645
+00:14:12,480 --> 00:14:15,670
+doesn't matter how much of the troop is
+in the area of the attack, it's only
+
+646
+00:14:15,670 --> 00:14:15,680
+in the area of the attack, it's only
+ 
+
+647
+00:14:15,680 --> 00:14:18,069
+in the area of the attack, it's only
+going to be one attack roll against
+
+648
+00:14:18,069 --> 00:14:18,079
+going to be one attack roll against
+ 
+
+649
+00:14:18,079 --> 00:14:19,350
+going to be one attack roll against
+their armor class. There's only going to
+
+650
+00:14:19,350 --> 00:14:19,360
+their armor class. There's only going to
+ 
+
+651
+00:14:19,360 --> 00:14:21,710
+their armor class. There's only going to
+be one reflex save against your spell
+
+652
+00:14:21,710 --> 00:14:21,720
+be one reflex save against your spell
+ 
+
+653
+00:14:21,720 --> 00:14:25,110
+be one reflex save against your spell
+DC. Uh, no matter if it's one square or
+
+654
+00:14:25,110 --> 00:14:25,120
+DC. Uh, no matter if it's one square or
+ 
+
+655
+00:14:25,120 --> 00:14:27,750
+DC. Uh, no matter if it's one square or
+16 squares that are within range of that
+
+656
+00:14:27,750 --> 00:14:27,760
+16 squares that are within range of that
+ 
+
+657
+00:14:27,760 --> 00:14:30,470
+16 squares that are within range of that
+effect being targeted. It is the
+
+658
+00:14:30,470 --> 00:14:30,480
+effect being targeted. It is the
+ 
+
+659
+00:14:30,480 --> 00:14:33,430
+effect being targeted. It is the
+non-damaging effects where you have to
+
+660
+00:14:33,430 --> 00:14:33,440
+non-damaging effects where you have to
+ 
+
+661
+00:14:33,440 --> 00:14:36,710
+non-damaging effects where you have to
+evaluate it on a segmentby segment basis
+
+662
+00:14:36,710 --> 00:14:36,720
+evaluate it on a segmentby segment basis
+ 
+
+663
+00:14:36,720 --> 00:14:39,590
+evaluate it on a segmentby segment basis
+and each segment is going to manage
+
+664
+00:14:39,590 --> 00:14:39,600
+and each segment is going to manage
+ 
+
+665
+00:14:39,600 --> 00:14:43,389
+and each segment is going to manage
+their saving throws and their defenses
+
+666
+00:14:43,389 --> 00:14:43,399
+their saving throws and their defenses
+ 
+
+667
+00:14:43,399 --> 00:14:45,389
+their saving throws and their defenses
+individually.
+
+668
+00:14:45,389 --> 00:14:45,399
+individually.
+ 
+
+669
+00:14:45,399 --> 00:14:49,750
+individually.
+Um, and so again, you as the GM, you're
+
+670
+00:14:49,750 --> 00:14:49,760
+Um, and so again, you as the GM, you're
+ 
+
+671
+00:14:49,760 --> 00:14:51,269
+Um, and so again, you as the GM, you're
+going to have to make judgment calls on
+
+672
+00:14:51,269 --> 00:14:51,279
+going to have to make judgment calls on
+ 
+
+673
+00:14:51,279 --> 00:14:54,150
+going to have to make judgment calls on
+what then happens. If they're not able
+
+674
+00:14:54,150 --> 00:14:54,160
+what then happens. If they're not able
+ 
+
+675
+00:14:54,160 --> 00:14:56,550
+what then happens. If they're not able
+to function as normal for an entire
+
+676
+00:14:56,550 --> 00:14:56,560
+to function as normal for an entire
+ 
+
+677
+00:14:56,560 --> 00:14:59,110
+to function as normal for an entire
+round, they're wiped out. anything short
+
+678
+00:14:59,110 --> 00:14:59,120
+round, they're wiped out. anything short
+ 
+
+679
+00:14:59,120 --> 00:15:00,629
+round, they're wiped out. anything short
+of that, you're going to have to make a
+
+680
+00:15:00,629 --> 00:15:00,639
+of that, you're going to have to make a
+ 
+
+681
+00:15:00,639 --> 00:15:04,550
+of that, you're going to have to make a
+judgment call as to how it affects. Now,
+
+682
+00:15:04,550 --> 00:15:04,560
+judgment call as to how it affects. Now,
+ 
+
+683
+00:15:04,560 --> 00:15:07,750
+judgment call as to how it affects. Now,
+the other thing that I wanted to um to
+
+684
+00:15:07,750 --> 00:15:07,760
+the other thing that I wanted to um to
+ 
+
+685
+00:15:07,760 --> 00:15:10,230
+the other thing that I wanted to um to
+share in the first video, and I just
+
+686
+00:15:10,230 --> 00:15:10,240
+share in the first video, and I just
+ 
+
+687
+00:15:10,240 --> 00:15:13,269
+share in the first video, and I just
+forgot, I apologize, is there is a
+
+688
+00:15:13,269 --> 00:15:13,279
+forgot, I apologize, is there is a
+ 
+
+689
+00:15:13,279 --> 00:15:15,990
+forgot, I apologize, is there is a
+passage in NPC core. Uh I forget the
+
+690
+00:15:15,990 --> 00:15:16,000
+passage in NPC core. Uh I forget the
+ 
+
+691
+00:15:16,000 --> 00:15:17,430
+passage in NPC core. Uh I forget the
+page number, but I'll put it on the
+
+692
+00:15:17,430 --> 00:15:17,440
+page number, but I'll put it on the
+ 
+
+693
+00:15:17,440 --> 00:15:19,990
+page number, but I'll put it on the
+screen somewhere for you, but there is a
+
+694
+00:15:19,990 --> 00:15:20,000
+screen somewhere for you, but there is a
+ 
+
+695
+00:15:20,000 --> 00:15:21,750
+screen somewhere for you, but there is a
+special ability that is available to
+
+696
+00:15:21,750 --> 00:15:21,760
+special ability that is available to
+ 
+
+697
+00:15:21,760 --> 00:15:24,470
+special ability that is available to
+troops called change formation. The I
+
+698
+00:15:24,470 --> 00:15:24,480
+troops called change formation. The I
+ 
+
+699
+00:15:24,480 --> 00:15:26,710
+troops called change formation. The I
+believe the text says that this is not
+
+700
+00:15:26,710 --> 00:15:26,720
+believe the text says that this is not
+ 
+
+701
+00:15:26,720 --> 00:15:29,949
+believe the text says that this is not
+um given by default to all troops of all
+
+702
+00:15:29,949 --> 00:15:29,959
+um given by default to all troops of all
+ 
+
+703
+00:15:29,959 --> 00:15:33,829
+um given by default to all troops of all
+kinds. But if you have a military
+
+704
+00:15:33,829 --> 00:15:33,839
+kinds. But if you have a military
+ 
+
+705
+00:15:33,839 --> 00:15:38,310
+kinds. But if you have a military
+focused troop like a failins, then they
+
+706
+00:15:38,310 --> 00:15:38,320
+focused troop like a failins, then they
+ 
+
+707
+00:15:38,320 --> 00:15:40,710
+focused troop like a failins, then they
+might have other additional things they
+
+708
+00:15:40,710 --> 00:15:40,720
+might have other additional things they
+ 
+
+709
+00:15:40,720 --> 00:15:42,389
+might have other additional things they
+can do with this change formation. So I
+
+710
+00:15:42,389 --> 00:15:42,399
+can do with this change formation. So I
+ 
+
+711
+00:15:42,399 --> 00:15:44,470
+can do with this change formation. So I
+wanted to review these items with you.
+
+712
+00:15:44,470 --> 00:15:44,480
+wanted to review these items with you.
+ 
+
+713
+00:15:44,480 --> 00:15:47,269
+wanted to review these items with you.
+So change formation uh costs two actions
+
+714
+00:15:47,269 --> 00:15:47,279
+So change formation uh costs two actions
+ 
+
+715
+00:15:47,279 --> 00:15:49,430
+So change formation uh costs two actions
+and it says the troop reconfigures to
+
+716
+00:15:49,430 --> 00:15:49,440
+and it says the troop reconfigures to
+ 
+
+717
+00:15:49,440 --> 00:15:51,509
+and it says the troop reconfigures to
+assume one of the formations below they
+
+718
+00:15:51,509 --> 00:15:51,519
+assume one of the formations below they
+ 
+
+719
+00:15:51,519 --> 00:15:54,710
+assume one of the formations below they
+know. Using this action again ends any
+
+720
+00:15:54,710 --> 00:15:54,720
+know. Using this action again ends any
+ 
+
+721
+00:15:54,720 --> 00:15:57,030
+know. Using this action again ends any
+previous formation and the troop can
+
+722
+00:15:57,030 --> 00:15:57,040
+previous formation and the troop can
+ 
+
+723
+00:15:57,040 --> 00:15:59,269
+previous formation and the troop can
+also use this action to revert to its
+
+724
+00:15:59,269 --> 00:15:59,279
+also use this action to revert to its
+ 
+
+725
+00:15:59,279 --> 00:16:01,990
+also use this action to revert to its
+default formation ending any benefits
+
+726
+00:16:01,990 --> 00:16:02,000
+default formation ending any benefits
+ 
+
+727
+00:16:02,000 --> 00:16:04,389
+default formation ending any benefits
+and drawbacks. So it's going to take two
+
+728
+00:16:04,389 --> 00:16:04,399
+and drawbacks. So it's going to take two
+ 
+
+729
+00:16:04,399 --> 00:16:06,829
+and drawbacks. So it's going to take two
+actions for the troop to change their
+
+730
+00:16:06,829 --> 00:16:06,839
+actions for the troop to change their
+ 
+
+731
+00:16:06,839 --> 00:16:09,509
+actions for the troop to change their
+formation. And each of these formations
+
+732
+00:16:09,509 --> 00:16:09,519
+formation. And each of these formations
+ 
+
+733
+00:16:09,519 --> 00:16:13,829
+formation. And each of these formations
+includes uh a benefit and a drawback. So
+
+734
+00:16:13,829 --> 00:16:13,839
+includes uh a benefit and a drawback. So
+ 
+
+735
+00:16:13,839 --> 00:16:16,310
+includes uh a benefit and a drawback. So
+loose, when you do loose, members of the
+
+736
+00:16:16,310 --> 00:16:16,320
+loose, when you do loose, members of the
+ 
+
+737
+00:16:16,320 --> 00:16:18,870
+loose, when you do loose, members of the
+troops fan out to cover more ground. The
+
+738
+00:16:18,870 --> 00:16:18,880
+troops fan out to cover more ground. The
+ 
+
+739
+00:16:18,880 --> 00:16:21,030
+troops fan out to cover more ground. The
+benefit of this is that any weaknesses
+
+740
+00:16:21,030 --> 00:16:21,040
+benefit of this is that any weaknesses
+ 
+
+741
+00:16:21,040 --> 00:16:23,189
+benefit of this is that any weaknesses
+that the troop has to area and splash
+
+742
+00:16:23,189 --> 00:16:23,199
+that the troop has to area and splash
+ 
+
+743
+00:16:23,199 --> 00:16:27,030
+that the troop has to area and splash
+damage are no longer enforced, but the
+
+744
+00:16:27,030 --> 00:16:27,040
+damage are no longer enforced, but the
+ 
+
+745
+00:16:27,040 --> 00:16:29,910
+damage are no longer enforced, but the
+enemy's saving throws against their uh
+
+746
+00:16:29,910 --> 00:16:29,920
+enemy's saving throws against their uh
+ 
+
+747
+00:16:29,920 --> 00:16:32,150
+enemy's saving throws against their uh
+their damaging effects are one degree of
+
+748
+00:16:32,150 --> 00:16:32,160
+their damaging effects are one degree of
+ 
+
+749
+00:16:32,160 --> 00:16:36,150
+their damaging effects are one degree of
+success better. So they they fan out.
+
+750
+00:16:36,150 --> 00:16:36,160
+success better. So they they fan out.
+ 
+
+751
+00:16:36,160 --> 00:16:40,949
+success better. So they they fan out.
+They cannot be uh they do not suffer the
+
+752
+00:16:40,949 --> 00:16:40,959
+They cannot be uh they do not suffer the
+ 
+
+753
+00:16:40,959 --> 00:16:43,949
+They cannot be uh they do not suffer the
+additional damages and weaknesses of of
+
+754
+00:16:43,949 --> 00:16:43,959
+additional damages and weaknesses of of
+ 
+
+755
+00:16:43,959 --> 00:16:47,509
+additional damages and weaknesses of of
+of area effect and splash damage. But
+
+756
+00:16:47,509 --> 00:16:47,519
+of area effect and splash damage. But
+ 
+
+757
+00:16:47,519 --> 00:16:50,069
+of area effect and splash damage. But
+because they're not tightly focused and
+
+758
+00:16:50,069 --> 00:16:50,079
+because they're not tightly focused and
+ 
+
+759
+00:16:50,079 --> 00:16:52,150
+because they're not tightly focused and
+able to coordinate their attacks and
+
+760
+00:16:52,150 --> 00:16:52,160
+able to coordinate their attacks and
+ 
+
+761
+00:16:52,160 --> 00:16:54,870
+able to coordinate their attacks and
+focus fire like they previously could,
+
+762
+00:16:54,870 --> 00:16:54,880
+focus fire like they previously could,
+ 
+
+763
+00:16:54,880 --> 00:16:57,509
+focus fire like they previously could,
+then uh the players who are going to be
+
+764
+00:16:57,509 --> 00:16:57,519
+then uh the players who are going to be
+ 
+
+765
+00:16:57,519 --> 00:16:59,350
+then uh the players who are going to be
+making reflex saves most likely against
+
+766
+00:16:59,350 --> 00:16:59,360
+making reflex saves most likely against
+ 
+
+767
+00:16:59,360 --> 00:17:01,670
+making reflex saves most likely against
+damaging effects from them treat that as
+
+768
+00:17:01,670 --> 00:17:01,680
+damaging effects from them treat that as
+ 
+
+769
+00:17:01,680 --> 00:17:04,470
+damaging effects from them treat that as
+one success higher.
+
+770
+00:17:04,470 --> 00:17:04,480
+one success higher.
+ 
+
+771
+00:17:04,480 --> 00:17:06,789
+one success higher.
+marching column. The formation traverses
+
+772
+00:17:06,789 --> 00:17:06,799
+marching column. The formation traverses
+ 
+
+773
+00:17:06,799 --> 00:17:09,270
+marching column. The formation traverses
+long distances more rapidly. The benefit
+
+774
+00:17:09,270 --> 00:17:09,280
+long distances more rapidly. The benefit
+ 
+
+775
+00:17:09,280 --> 00:17:11,510
+long distances more rapidly. The benefit
+is the troop gains a plus 10 foot
+
+776
+00:17:11,510 --> 00:17:11,520
+is the troop gains a plus 10 foot
+ 
+
+777
+00:17:11,520 --> 00:17:13,669
+is the troop gains a plus 10 foot
+circumstance bonus to all of its speeds.
+
+778
+00:17:13,669 --> 00:17:13,679
+circumstance bonus to all of its speeds.
+ 
+
+779
+00:17:13,679 --> 00:17:15,909
+circumstance bonus to all of its speeds.
+The drawback is they suffer a negative
+
+780
+00:17:15,909 --> 00:17:15,919
+The drawback is they suffer a negative
+ 
+
+781
+00:17:15,919 --> 00:17:19,189
+The drawback is they suffer a negative
+two penalty to reflex saves. Uh turtle
+
+782
+00:17:19,189 --> 00:17:19,199
+two penalty to reflex saves. Uh turtle
+ 
+
+783
+00:17:19,199 --> 00:17:21,909
+two penalty to reflex saves. Uh turtle
+shell uh the troop interlocks their
+
+784
+00:17:21,909 --> 00:17:21,919
+shell uh the troop interlocks their
+ 
+
+785
+00:17:21,919 --> 00:17:24,630
+shell uh the troop interlocks their
+shields only available to groups and
+
+786
+00:17:24,630 --> 00:17:24,640
+shields only available to groups and
+ 
+
+787
+00:17:24,640 --> 00:17:27,350
+shields only available to groups and
+troops that have shields. And when they
+
+788
+00:17:27,350 --> 00:17:27,360
+troops that have shields. And when they
+ 
+
+789
+00:17:27,360 --> 00:17:28,950
+troops that have shields. And when they
+do this, they gain a plus two
+
+790
+00:17:28,950 --> 00:17:28,960
+do this, they gain a plus two
+ 
+
+791
+00:17:28,960 --> 00:17:30,630
+do this, they gain a plus two
+circumstance bonus to armor class
+
+792
+00:17:30,630 --> 00:17:30,640
+circumstance bonus to armor class
+ 
+
+793
+00:17:30,640 --> 00:17:33,590
+circumstance bonus to armor class
+against ranged attacks and reflex saves.
+
+794
+00:17:33,590 --> 00:17:33,600
+against ranged attacks and reflex saves.
+ 
+
+795
+00:17:33,600 --> 00:17:36,710
+against ranged attacks and reflex saves.
+but the troop moves slower at a -10 ft
+
+796
+00:17:36,710 --> 00:17:36,720
+but the troop moves slower at a -10 ft
+ 
+
+797
+00:17:36,720 --> 00:17:39,909
+but the troop moves slower at a -10 ft
+penalty to all the speeds. I can see the
+
+798
+00:17:39,909 --> 00:17:39,919
+penalty to all the speeds. I can see the
+ 
+
+799
+00:17:39,919 --> 00:17:42,070
+penalty to all the speeds. I can see the
+this turtle shell probably being the
+
+800
+00:17:42,070 --> 00:17:42,080
+this turtle shell probably being the
+ 
+
+801
+00:17:42,080 --> 00:17:44,390
+this turtle shell probably being the
+most common of these formations I would
+
+802
+00:17:44,390 --> 00:17:44,400
+most common of these formations I would
+ 
+
+803
+00:17:44,400 --> 00:17:46,230
+most common of these formations I would
+probably use in my games. It makes a lot
+
+804
+00:17:46,230 --> 00:17:46,240
+probably use in my games. It makes a lot
+ 
+
+805
+00:17:46,240 --> 00:17:48,150
+probably use in my games. It makes a lot
+of sense. It's very thematic and it's
+
+806
+00:17:48,150 --> 00:17:48,160
+of sense. It's very thematic and it's
+ 
+
+807
+00:17:48,160 --> 00:17:51,110
+of sense. It's very thematic and it's
+frankly kind of cool. Uh then you have
+
+808
+00:17:51,110 --> 00:17:51,120
+frankly kind of cool. Uh then you have
+ 
+
+809
+00:17:51,120 --> 00:17:53,750
+frankly kind of cool. Uh then you have
+the wedge formation. The troop aligns
+
+810
+00:17:53,750 --> 00:17:53,760
+the wedge formation. The troop aligns
+ 
+
+811
+00:17:53,760 --> 00:17:56,630
+the wedge formation. The troop aligns
+itself behind a powerful commander. The
+
+812
+00:17:56,630 --> 00:17:56,640
+itself behind a powerful commander. The
+ 
+
+813
+00:17:56,640 --> 00:17:59,029
+itself behind a powerful commander. The
+troop chooses an adjacent allied
+
+814
+00:17:59,029 --> 00:17:59,039
+troop chooses an adjacent allied
+ 
+
+815
+00:17:59,039 --> 00:18:01,510
+troop chooses an adjacent allied
+creature without the troop trait to fall
+
+816
+00:18:01,510 --> 00:18:01,520
+creature without the troop trait to fall
+ 
+
+817
+00:18:01,520 --> 00:18:04,870
+creature without the troop trait to fall
+in behind. Each time the chosen creature
+
+818
+00:18:04,870 --> 00:18:04,880
+in behind. Each time the chosen creature
+ 
+
+819
+00:18:04,880 --> 00:18:07,590
+in behind. Each time the chosen creature
+strides, the troop follows as a free
+
+820
+00:18:07,590 --> 00:18:07,600
+strides, the troop follows as a free
+ 
+
+821
+00:18:07,600 --> 00:18:10,230
+strides, the troop follows as a free
+action, striding to keep the chosen
+
+822
+00:18:10,230 --> 00:18:10,240
+action, striding to keep the chosen
+ 
+
+823
+00:18:10,240 --> 00:18:13,029
+action, striding to keep the chosen
+creature adjacent. Drawback, the troop
+
+824
+00:18:13,029 --> 00:18:13,039
+creature adjacent. Drawback, the troop
+ 
+
+825
+00:18:13,039 --> 00:18:15,510
+creature adjacent. Drawback, the troop
+loses some of their autonomy, their
+
+826
+00:18:15,510 --> 00:18:15,520
+loses some of their autonomy, their
+ 
+
+827
+00:18:15,520 --> 00:18:17,990
+loses some of their autonomy, their
+slowed one, and cannot voluntarily move
+
+828
+00:18:17,990 --> 00:18:18,000
+slowed one, and cannot voluntarily move
+ 
+
+829
+00:18:18,000 --> 00:18:20,070
+slowed one, and cannot voluntarily move
+away from their leader. So again,
+
+830
+00:18:20,070 --> 00:18:20,080
+away from their leader. So again,
+ 
+
+831
+00:18:20,080 --> 00:18:22,549
+away from their leader. So again,
+another very thematic thing. You have
+
+832
+00:18:22,549 --> 00:18:22,559
+another very thematic thing. You have
+ 
+
+833
+00:18:22,559 --> 00:18:25,590
+another very thematic thing. You have
+the leader, the commander of the army,
+
+834
+00:18:25,590 --> 00:18:25,600
+the leader, the commander of the army,
+ 
+
+835
+00:18:25,600 --> 00:18:27,430
+the leader, the commander of the army,
+and they've got a formation of their
+
+836
+00:18:27,430 --> 00:18:27,440
+and they've got a formation of their
+ 
+
+837
+00:18:27,440 --> 00:18:29,990
+and they've got a formation of their
+troops following behind them. And this
+
+838
+00:18:29,990 --> 00:18:30,000
+troops following behind them. And this
+ 
+
+839
+00:18:30,000 --> 00:18:31,669
+troops following behind them. And this
+makes sense to me. they're losing
+
+840
+00:18:31,669 --> 00:18:31,679
+makes sense to me. they're losing
+ 
+
+841
+00:18:31,679 --> 00:18:33,190
+makes sense to me. they're losing
+essentially one action on the troop's
+
+842
+00:18:33,190 --> 00:18:33,200
+essentially one action on the troop's
+ 
+
+843
+00:18:33,200 --> 00:18:35,909
+essentially one action on the troop's
+turn be to be able to freely move with
+
+844
+00:18:35,909 --> 00:18:35,919
+turn be to be able to freely move with
+ 
+
+845
+00:18:35,919 --> 00:18:39,590
+turn be to be able to freely move with
+their commander. Um, so pretty cool. So
+
+846
+00:18:39,590 --> 00:18:39,600
+their commander. Um, so pretty cool. So
+ 
+
+847
+00:18:39,600 --> 00:18:43,750
+their commander. Um, so pretty cool. So
+again, uh, these are four special
+
+848
+00:18:43,750 --> 00:18:43,760
+again, uh, these are four special
+ 
+
+849
+00:18:43,760 --> 00:18:45,669
+again, uh, these are four special
+effects that can be applied to some
+
+850
+00:18:45,669 --> 00:18:45,679
+effects that can be applied to some
+ 
+
+851
+00:18:45,679 --> 00:18:48,230
+effects that can be applied to some
+troops if the GM decides that they are a
+
+852
+00:18:48,230 --> 00:18:48,240
+troops if the GM decides that they are a
+ 
+
+853
+00:18:48,240 --> 00:18:51,110
+troops if the GM decides that they are a
+military focused troop and are available
+
+854
+00:18:51,110 --> 00:18:51,120
+military focused troop and are available
+ 
+
+855
+00:18:51,120 --> 00:18:54,310
+military focused troop and are available
+through the change formation ability. So
+
+856
+00:18:54,310 --> 00:18:54,320
+through the change formation ability. So
+ 
+
+857
+00:18:54,320 --> 00:18:57,430
+through the change formation ability. So
+that is it. I I hope I have cleared up
+
+858
+00:18:57,430 --> 00:18:57,440
+that is it. I I hope I have cleared up
+ 
+
+859
+00:18:57,440 --> 00:18:59,750
+that is it. I I hope I have cleared up
+some of the the thoughts and potential
+
+860
+00:18:59,750 --> 00:18:59,760
+some of the the thoughts and potential
+ 
+
+861
+00:18:59,760 --> 00:19:02,390
+some of the the thoughts and potential
+miscon misconceptions about troops in
+
+862
+00:19:02,390 --> 00:19:02,400
+miscon misconceptions about troops in
+ 
+
+863
+00:19:02,400 --> 00:19:04,710
+miscon misconceptions about troops in
+this video. Uh I apologize if I've just
+
+864
+00:19:04,710 --> 00:19:04,720
+this video. Uh I apologize if I've just
+ 
+
+865
+00:19:04,720 --> 00:19:06,150
+this video. Uh I apologize if I've just
+made things more confusing, but if you
+
+866
+00:19:06,150 --> 00:19:06,160
+made things more confusing, but if you
+ 
+
+867
+00:19:06,160 --> 00:19:07,909
+made things more confusing, but if you
+do have questions, please leave them in
+
+868
+00:19:07,909 --> 00:19:07,919
+do have questions, please leave them in
+ 
+
+869
+00:19:07,919 --> 00:19:10,070
+do have questions, please leave them in
+the comments below. And as always, I
+
+870
+00:19:10,070 --> 00:19:10,080
+the comments below. And as always, I
+ 
+
+871
+00:19:10,080 --> 00:19:11,190
+the comments below. And as always, I
+want to take a quick moment to say thank
+
+872
+00:19:11,190 --> 00:19:11,200
+want to take a quick moment to say thank
+ 
+
+873
+00:19:11,200 --> 00:19:13,110
+want to take a quick moment to say thank
+you to all of you folks out there who
+
+874
+00:19:13,110 --> 00:19:13,120
+you to all of you folks out there who
+ 
+
+875
+00:19:13,120 --> 00:19:14,950
+you to all of you folks out there who
+support me and this channel by clicking
+
+876
+00:19:14,950 --> 00:19:14,960
+support me and this channel by clicking
+ 
+
+877
+00:19:14,960 --> 00:19:16,870
+support me and this channel by clicking
+the like button, subscribing to the
+
+878
+00:19:16,870 --> 00:19:16,880
+the like button, subscribing to the
+ 
+
+879
+00:19:16,880 --> 00:19:18,390
+the like button, subscribing to the
+channel, subscribing to the Patreon,
+
+880
+00:19:18,390 --> 00:19:18,400
+channel, subscribing to the Patreon,
+ 
+
+881
+00:19:18,400 --> 00:19:19,669
+channel, subscribing to the Patreon,
+buying a super thanks. I really
+
+882
+00:19:19,669 --> 00:19:19,679
+buying a super thanks. I really
+ 
+
+883
+00:19:19,679 --> 00:19:21,750
+buying a super thanks. I really
+appreciate everything you folks do to
+
+884
+00:19:21,750 --> 00:19:21,760
+appreciate everything you folks do to
+ 
+
+885
+00:19:21,760 --> 00:19:23,350
+appreciate everything you folks do to
+support me. And with that, thanks for
+
+886
+00:19:23,350 --> 00:19:23,360
+support me. And with that, thanks for
+ 
+
+887
+00:19:23,360 --> 00:19:29,570
+support me. And with that, thanks for
+watching. Take care and happy gaming.
+
+888
+00:19:29,570 --> 00:19:29,580
+
+ 
+
+889
+00:19:29,580 --> 00:19:47,680
+
+[Music]
+

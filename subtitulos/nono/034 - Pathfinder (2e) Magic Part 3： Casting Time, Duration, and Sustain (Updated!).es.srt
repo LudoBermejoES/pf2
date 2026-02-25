@@ -1,0 +1,2245 @@
+1
+00:00:01,120 --> 00:00:02,790
+
+Hola y bienvenidos a Magic and
+
+2
+00:00:02,790 --> 00:00:02,800
+Hola y bienvenidos a Magic and
+ 
+
+3
+00:00:02,800 --> 00:00:04,630
+Hola y bienvenidos a Magic and
+Pathfinder parte 3.
+
+4
+00:00:04,630 --> 00:00:04,640
+Pathfinder parte 3.
+ 
+
+5
+00:00:04,640 --> 00:00:06,710
+Pathfinder parte 3.
+En los videos anteriores cubrimos las
+
+6
+00:00:06,710 --> 00:00:06,720
+En los videos anteriores cubrimos las
+ 
+
+7
+00:00:06,720 --> 00:00:08,390
+En los videos anteriores cubrimos las
+tradiciones mágicas y cómo los lanzadores preparados y
+
+8
+00:00:08,390 --> 00:00:08,400
+tradiciones mágicas y cómo los lanzadores preparados y
+ 
+
+9
+00:00:08,400 --> 00:00:09,830
+tradiciones mágicas y cómo los lanzadores preparados y
+espontáneos
+
+10
+00:00:09,830 --> 00:00:09,840
+espontáneos
+ 
+
+11
+00:00:09,840 --> 00:00:12,470
+espontáneos
+usan los espacios de hechizos para lanzar sus hechizos y
+
+12
+00:00:12,470 --> 00:00:12,480
+usan los espacios de hechizos para lanzar sus hechizos y
+ 
+
+13
+00:00:12,480 --> 00:00:13,430
+usan los espacios de hechizos para lanzar sus hechizos y
+en este video
+
+14
+00:00:13,430 --> 00:00:13,440
+en este video
+ 
+
+15
+00:00:13,440 --> 00:00:15,110
+en este video
+vamos a comenzar a discutir la
+
+16
+00:00:15,110 --> 00:00:15,120
+vamos a comenzar a discutir la
+ 
+
+17
+00:00:15,120 --> 00:00:16,630
+vamos a comenzar a discutir la
+mecánica de los hechizos comenzando con el
+
+18
+00:00:16,630 --> 00:00:16,640
+mecánica de los hechizos comenzando con el
+ 
+
+19
+00:00:16,640 --> 00:00:21,029
+mecánica de los hechizos comenzando con el
+tiempo de lanzamiento y la duración de los hechizos.
+
+20
+00:00:21,029 --> 00:00:21,039
+
+ 
+
+21
+00:00:21,039 --> 00:00:23,509
+
+La entrada de lanzamiento en la descripción de un hechizo
+
+22
+00:00:23,509 --> 00:00:23,519
+La entrada de lanzamiento en la descripción de un hechizo
+ 
+
+23
+00:00:23,519 --> 00:00:24,790
+La entrada de lanzamiento en la descripción de un hechizo
+enumera la cantidad de tiempo
+
+24
+00:00:24,790 --> 00:00:24,800
+enumera la cantidad de tiempo
+ 
+
+25
+00:00:24,800 --> 00:00:27,109
+enumera la cantidad de tiempo
+necesario para lanzar el hechizo. Esto generalmente se
+
+26
+00:00:27,109 --> 00:00:27,119
+necesario para lanzar el hechizo. Esto generalmente se
+ 
+
+27
+00:00:27,119 --> 00:00:29,429
+necesario para lanzar el hechizo. Esto generalmente se
+muestra como una cantidad de acciones que se
+
+28
+00:00:29,429 --> 00:00:29,439
+muestra como una cantidad de acciones que se
+ 
+
+29
+00:00:29,439 --> 00:00:30,950
+muestra como una cantidad de acciones que se
+gastarán en el modo de encuentro,
+
+30
+00:00:30,950 --> 00:00:30,960
+gastarán en el modo de encuentro,
+ 
+
+31
+00:00:30,960 --> 00:00:33,030
+gastarán en el modo de encuentro,
+pero también podría ser una cantidad de minutos,
+
+32
+00:00:33,030 --> 00:00:33,040
+pero también podría ser una cantidad de minutos,
+ 
+
+33
+00:00:33,040 --> 00:00:35,110
+pero también podría ser una cantidad de minutos,
+como el caso de Raised Dead.
+
+34
+00:00:35,110 --> 00:00:35,120
+como el caso de Raised Dead.
+ 
+
+35
+00:00:35,120 --> 00:00:37,270
+como el caso de Raised Dead.
+Si el hechizo está destinado a usarse en el
+
+36
+00:00:37,270 --> 00:00:37,280
+Si el hechizo está destinado a usarse en el
+ 
+
+37
+00:00:37,280 --> 00:00:39,190
+Si el hechizo está destinado a usarse en el
+modo de exploración,
+
+38
+00:00:39,190 --> 00:00:39,200
+modo de exploración,
+ 
+
+39
+00:00:39,200 --> 00:00:41,750
+modo de exploración,
+algunos hechizos como Breath of Life se pueden
+
+40
+00:00:41,750 --> 00:00:41,760
+algunos hechizos como Breath of Life se pueden
+ 
+
+41
+00:00:41,760 --> 00:00:43,190
+algunos hechizos como Breath of Life se pueden
+lanzar como una reacción
+
+42
+00:00:43,190 --> 00:00:43,200
+lanzar como una reacción
+ 
+
+43
+00:00:43,200 --> 00:00:45,110
+lanzar como una reacción
+y el libro de reglas dice que algunos
+
+44
+00:00:45,110 --> 00:00:45,120
+y el libro de reglas dice que algunos
+ 
+
+45
+00:00:45,120 --> 00:00:47,029
+y el libro de reglas dice que algunos
+hechizos incluso se pueden lanzar
+
+46
+00:00:47,029 --> 00:00:47,039
+hechizos incluso se pueden lanzar
+ 
+
+47
+00:00:47,039 --> 00:00:50,229
+hechizos incluso se pueden lanzar
+como una acción gratuita. Aunque no conozco
+
+48
+00:00:50,229 --> 00:00:50,239
+como una acción gratuita. Aunque no conozco
+ 
+
+49
+00:00:50,239 --> 00:00:52,389
+como una acción gratuita. Aunque no conozco
+ninguno que se haya publicado hasta ahora
+
+50
+00:00:52,389 --> 00:00:52,399
+ninguno que se haya publicado hasta ahora
+ 
+
+51
+00:00:52,399 --> 00:00:54,869
+ninguno que se haya publicado hasta ahora
+y tengo mucha curiosidad sobre esto,
+
+52
+00:00:54,869 --> 00:00:54,879
+y tengo mucha curiosidad sobre esto,
+ 
+
+53
+00:00:54,879 --> 00:00:56,709
+y tengo mucha curiosidad sobre esto,
+avísenme en los comentarios si encontraron un
+
+54
+00:00:56,709 --> 00:00:56,719
+avísenme en los comentarios si encontraron un
+ 
+
+55
+00:00:56,719 --> 00:00:57,270
+avísenme en los comentarios si encontraron un
+hechizo
+
+56
+00:00:57,270 --> 00:00:57,280
+hechizo
+ 
+
+57
+00:00:57,280 --> 00:00:59,830
+hechizo
+que se pueda lanzar como una acción gratuita
+
+58
+00:00:59,830 --> 00:00:59,840
+que se pueda lanzar como una acción gratuita
+ 
+
+59
+00:00:59,840 --> 00:01:02,549
+que se pueda lanzar como una acción gratuita
+porque hasta ahora no he encontrado ninguno.
+
+60
+00:01:02,549 --> 00:01:02,559
+porque hasta ahora no he encontrado ninguno.
+ 
+
+61
+00:01:02,559 --> 00:01:05,750
+porque hasta ahora no he encontrado ninguno.
+Ahora, la mayoría de los hechizos de encuentro requieren dos
+
+62
+00:01:05,750 --> 00:01:05,760
+Ahora, la mayoría de los hechizos de encuentro requieren dos
+ 
+
+63
+00:01:05,760 --> 00:01:08,630
+Ahora, la mayoría de los hechizos de encuentro requieren dos
+acciones para lanzarse, pero muchos hechizos que
+
+64
+00:01:08,630 --> 00:01:08,640
+acciones para lanzarse, pero muchos hechizos que
+ 
+
+65
+00:01:08,640 --> 00:01:10,469
+acciones para lanzarse, pero muchos hechizos que
+hacen que las cosas se manifiesten
+
+66
+00:01:10,469 --> 00:01:10,479
+hacen que las cosas se manifiesten
+ 
+
+67
+00:01:10,479 --> 00:01:13,429
+hacen que las cosas se manifiesten
+y persistan en el entorno, como los
+
+68
+00:01:13,429 --> 00:01:14,630
+y persistan en el entorno, como los
+ 
+
+69
+00:01:14,630 --> 00:01:14,640
+
+ 
+
+70
+00:01:14,640 --> 00:01:17,350
+
+hechizos de invocación de barrera de cuchillas, los hechizos de muro y ciertas
+
+71
+00:01:17,350 --> 00:01:17,360
+hechizos de invocación de barrera de cuchillas, los hechizos de muro y ciertas
+ 
+
+72
+00:01:17,360 --> 00:01:18,710
+hechizos de invocación de barrera de cuchillas, los hechizos de muro y ciertas
+ilusiones,
+
+73
+00:01:18,710 --> 00:01:18,720
+ilusiones,
+ 
+
+74
+00:01:18,720 --> 00:01:22,149
+ilusiones,
+requieren tres acciones.  para gastar,
+
+75
+00:01:22,149 --> 00:01:22,159
+requieren tres acciones.  para gastar,
+ 
+
+76
+00:01:22,159 --> 00:01:24,390
+requieren tres acciones.  para gastar,
+pero dos acciones para la mayoría de los hechizos y
+
+77
+00:01:24,390 --> 00:01:24,400
+pero dos acciones para la mayoría de los hechizos y
+ 
+
+78
+00:01:24,400 --> 00:01:25,990
+pero dos acciones para la mayoría de los hechizos y
+tres acciones para los hechizos que hacen que las
+
+79
+00:01:25,990 --> 00:01:26,000
+tres acciones para los hechizos que hacen que las
+ 
+
+80
+00:01:26,000 --> 00:01:28,149
+tres acciones para los hechizos que hacen que las
+cosas se manifiesten en el entorno,
+
+81
+00:01:28,149 --> 00:01:28,159
+cosas se manifiesten en el entorno,
+ 
+
+82
+00:01:28,159 --> 00:01:29,109
+cosas se manifiesten en el entorno,
+eso es solo
+
+83
+00:01:29,109 --> 00:01:29,119
+eso es solo
+ 
+
+84
+00:01:29,119 --> 00:01:32,069
+eso es solo
+una regla general. Siempre, siempre, siempre
+
+85
+00:01:32,069 --> 00:01:32,079
+una regla general. Siempre, siempre, siempre
+ 
+
+86
+00:01:32,079 --> 00:01:34,069
+una regla general. Siempre, siempre, siempre
+revise la descripción de cada hechizo para estar
+
+87
+00:01:34,069 --> 00:01:34,079
+revise la descripción de cada hechizo para estar
+ 
+
+88
+00:01:34,079 --> 00:01:34,710
+revise la descripción de cada hechizo para estar
+seguro
+
+89
+00:01:34,710 --> 00:01:34,720
+seguro
+ 
+
+90
+00:01:34,720 --> 00:01:38,469
+seguro
+de cuántas acciones se necesitan.
+
+91
+00:01:38,469 --> 00:01:38,479
+
+ 
+
+92
+00:01:38,479 --> 00:01:40,469
+
+La entrada de lanzamiento en la descripción de un hechizo le
+
+93
+00:01:40,469 --> 00:01:40,479
+La entrada de lanzamiento en la descripción de un hechizo le
+ 
+
+94
+00:01:40,479 --> 00:01:42,389
+La entrada de lanzamiento en la descripción de un hechizo le
+dice cuánto tiempo tarda en activarse
+
+95
+00:01:42,389 --> 00:01:43,270
+dice cuánto tiempo tarda en activarse
+ 
+
+96
+00:01:43,270 --> 00:01:43,280
+
+ 
+
+97
+00:01:43,280 --> 00:01:45,670
+
+y la entrada de duración le dice cuánto
+
+98
+00:01:45,670 --> 00:01:45,680
+y la entrada de duración le dice cuánto
+ 
+
+99
+00:01:45,680 --> 00:01:47,030
+y la entrada de duración le dice cuánto
+durará
+
+100
+00:01:47,030 --> 00:01:47,040
+durará
+ 
+
+101
+00:01:47,040 --> 00:01:50,230
+durará
+después de eso. Si un hechizo no tiene una
+
+102
+00:01:50,230 --> 00:01:50,240
+después de eso. Si un hechizo no tiene una
+ 
+
+103
+00:01:50,240 --> 00:01:53,270
+después de eso. Si un hechizo no tiene una
+duración indicada, entonces es instantáneo. Comienza
+
+104
+00:01:53,270 --> 00:01:53,280
+duración indicada, entonces es instantáneo. Comienza
+ 
+
+105
+00:01:53,280 --> 00:01:56,789
+duración indicada, entonces es instantáneo. Comienza
+y termina en el turno del lanzador,
+
+106
+00:01:56,789 --> 00:01:56,799
+y termina en el turno del lanzador,
+ 
+
+107
+00:01:56,799 --> 00:01:59,590
+y termina en el turno del lanzador,
+pero puede tener efectos que duren más
+
+108
+00:01:59,590 --> 00:01:59,600
+pero puede tener efectos que duren más
+ 
+
+109
+00:01:59,600 --> 00:02:00,550
+pero puede tener efectos que duren más
+que eso.
+
+110
+00:02:00,550 --> 00:02:00,560
+que eso.
+ 
+
+111
+00:02:00,560 --> 00:02:03,590
+que eso.
+Por ejemplo, Ráfaga de sonido no tiene una
+
+112
+00:02:03,590 --> 00:02:03,600
+Por ejemplo, Ráfaga de sonido no tiene una
+ 
+
+113
+00:02:03,600 --> 00:02:05,350
+Por ejemplo, Ráfaga de sonido no tiene una
+duración indicada y, por lo tanto, es
+
+114
+00:02:05,350 --> 00:02:05,360
+duración indicada y, por lo tanto, es
+ 
+
+115
+00:02:05,360 --> 00:02:06,709
+duración indicada y, por lo tanto, es
+instantáneo,
+
+116
+00:02:06,709 --> 00:02:06,719
+instantáneo,
+ 
+
+117
+00:02:06,719 --> 00:02:09,430
+instantáneo,
+pero el objetivo puede quedar ensordecido o
+
+118
+00:02:09,430 --> 00:02:09,440
+pero el objetivo puede quedar ensordecido o
+ 
+
+119
+00:02:09,440 --> 00:02:10,949
+pero el objetivo puede quedar ensordecido o
+aturdido hasta 10
+
+120
+00:02:10,949 --> 00:02:10,959
+aturdido hasta 10
+ 
+
+121
+00:02:10,959 --> 00:02:13,990
+aturdido hasta 10
+rondas más. Cuando un hechizo tiene un
+
+122
+00:02:13,990 --> 00:02:14,000
+rondas más. Cuando un hechizo tiene un
+ 
+
+123
+00:02:14,000 --> 00:02:16,630
+rondas más. Cuando un hechizo tiene un
+efecto que dura más que la
+
+124
+00:02:16,630 --> 00:02:16,640
+efecto que dura más que la
+ 
+
+125
+00:02:16,640 --> 00:02:17,350
+efecto que dura más que la
+duración
+
+126
+00:02:17,350 --> 00:02:17,360
+duración
+ 
+
+127
+00:02:17,360 --> 00:02:19,990
+duración
+del hechizo, el efecto no se
+
+128
+00:02:19,990 --> 00:02:20,000
+del hechizo, el efecto no se
+ 
+
+129
+00:02:20,000 --> 00:02:21,270
+del hechizo, el efecto no se
+considera
+
+130
+00:02:21,270 --> 00:02:21,280
+considera
+ 
+
+131
+00:02:21,280 --> 00:02:23,670
+considera
+mágico y, por lo tanto, algo como
+
+132
+00:02:23,670 --> 00:02:23,680
+mágico y, por lo tanto, algo como
+ 
+
+133
+00:02:23,680 --> 00:02:25,030
+mágico y, por lo tanto, algo como
+disipar magia
+
+134
+00:02:25,030 --> 00:02:25,040
+disipar magia
+ 
+
+135
+00:02:25,040 --> 00:02:27,830
+disipar magia
+no podría usarse para curar la sordera de la víctima.
+
+136
+00:02:27,830 --> 00:02:27,840
+no podría usarse para curar la sordera de la víctima.
+ 
+
+137
+00:02:27,840 --> 00:02:29,190
+no podría usarse para curar la sordera de la víctima.
+
+138
+00:02:29,190 --> 00:02:29,200
+
+ 
+
+139
+00:02:29,200 --> 00:02:31,509
+
+Cuando la duración se enumera como un número
+
+140
+00:02:31,509 --> 00:02:31,519
+Cuando la duración se enumera como un número
+ 
+
+141
+00:02:31,519 --> 00:02:32,710
+Cuando la duración se enumera como un número
+de rondas,
+
+142
+00:02:32,710 --> 00:02:32,720
+de rondas,
+ 
+
+143
+00:02:32,720 --> 00:02:35,430
+de rondas,
+el número de rondas restantes disminuye
+
+144
+00:02:35,430 --> 00:02:35,440
+el número de rondas restantes disminuye
+ 
+
+145
+00:02:35,440 --> 00:02:36,470
+el número de rondas restantes disminuye
+en uno
+
+146
+00:02:36,470 --> 00:02:36,480
+en uno
+ 
+
+147
+00:02:36,480 --> 00:02:39,830
+en uno
+al comienzo de los turnos del lanzador
+
+148
+00:02:39,830 --> 00:02:39,840
+al comienzo de los turnos del lanzador
+ 
+
+149
+00:02:39,840 --> 00:02:44,949
+al comienzo de los turnos del lanzador
+y termina cuando ese conteo llega a cero.
+
+150
+00:02:44,949 --> 00:02:44,959
+
+ 
+
+151
+00:02:44,959 --> 00:02:47,190
+
+Algunos hechizos tienen una duración indicada que
+
+152
+00:02:47,190 --> 00:02:47,200
+Algunos hechizos tienen una duración indicada que
+ 
+
+153
+00:02:47,200 --> 00:02:48,309
+Algunos hechizos tienen una duración indicada que
+incluye la palabra
+
+154
+00:02:48,309 --> 00:02:48,319
+incluye la palabra
+ 
+
+155
+00:02:48,319 --> 00:02:51,990
+incluye la palabra
+sostener cuando  Lanzas un hechizo sostenido,
+
+156
+00:02:51,990 --> 00:02:52,000
+sostener cuando  Lanzas un hechizo sostenido,
+ 
+
+157
+00:02:52,000 --> 00:02:55,190
+sostener cuando  Lanzas un hechizo sostenido,
+este expirará al final del
+
+158
+00:02:55,190 --> 00:02:55,200
+este expirará al final del
+ 
+
+159
+00:02:55,200 --> 00:02:55,670
+este expirará al final del
+siguiente
+
+160
+00:02:55,670 --> 00:02:55,680
+siguiente
+ 
+
+161
+00:02:55,680 --> 00:02:58,869
+siguiente
+turno después de lanzarlo a menos que gastes
+
+162
+00:02:58,869 --> 00:02:58,879
+turno después de lanzarlo a menos que gastes
+ 
+
+163
+00:02:58,879 --> 00:02:59,110
+turno después de lanzarlo a menos que gastes
+una
+
+164
+00:02:59,110 --> 00:02:59,120
+una
+ 
+
+165
+00:02:59,120 --> 00:03:01,910
+una
+acción en ese turno para extender la
+
+166
+00:03:01,910 --> 00:03:01,920
+acción en ese turno para extender la
+ 
+
+167
+00:03:01,920 --> 00:03:03,190
+acción en ese turno para extender la
+duración del hechizo una
+
+168
+00:03:03,190 --> 00:03:03,200
+duración del hechizo una
+ 
+
+169
+00:03:03,200 --> 00:03:06,630
+duración del hechizo una
+ronda más. Para hacer esto, gastas
+
+170
+00:03:06,630 --> 00:03:06,640
+ronda más. Para hacer esto, gastas
+ 
+
+171
+00:03:06,640 --> 00:03:07,670
+ronda más. Para hacer esto, gastas
+una acción
+
+172
+00:03:07,670 --> 00:03:07,680
+una acción
+ 
+
+173
+00:03:07,680 --> 00:03:10,949
+una acción
+y usas sostener un hechizo que te permite
+
+174
+00:03:10,949 --> 00:03:10,959
+y usas sostener un hechizo que te permite
+ 
+
+175
+00:03:10,959 --> 00:03:11,910
+y usas sostener un hechizo que te permite
+agregar suficiente
+
+176
+00:03:11,910 --> 00:03:11,920
+agregar suficiente
+ 
+
+177
+00:03:11,920 --> 00:03:14,070
+agregar suficiente
+energía mágica y pensamiento al
+
+178
+00:03:14,070 --> 00:03:14,080
+energía mágica y pensamiento al
+ 
+
+179
+00:03:14,080 --> 00:03:16,550
+energía mágica y pensamiento al
+efecto del hechizo para mantenerlo activo durante otra
+
+180
+00:03:16,550 --> 00:03:16,560
+efecto del hechizo para mantenerlo activo durante otra
+ 
+
+181
+00:03:16,560 --> 00:03:17,670
+efecto del hechizo para mantenerlo activo durante otra
+ronda.
+
+182
+00:03:17,670 --> 00:03:17,680
+ronda.
+ 
+
+183
+00:03:17,680 --> 00:03:20,550
+ronda.
+Ahora, el hechizo cesará al final de
+
+184
+00:03:20,550 --> 00:03:20,560
+Ahora, el hechizo cesará al final de
+ 
+
+185
+00:03:20,560 --> 00:03:21,750
+Ahora, el hechizo cesará al final de
+tu próximo turno a
+
+186
+00:03:21,750 --> 00:03:21,760
+tu próximo turno a
+ 
+
+187
+00:03:21,760 --> 00:03:24,309
+tu próximo turno a
+menos que vuelvas a girar una acción en ese
+
+188
+00:03:24,309 --> 00:03:24,319
+menos que vuelvas a girar una acción en ese
+ 
+
+189
+00:03:24,319 --> 00:03:24,869
+menos que vuelvas a girar una acción en ese
+turno
+
+190
+00:03:24,869 --> 00:03:24,879
+turno
+ 
+
+191
+00:03:24,879 --> 00:03:27,990
+turno
+para sostenerlo de nuevo, y así sucesivamente. La mayoría de los
+
+192
+00:03:27,990 --> 00:03:28,000
+para sostenerlo de nuevo, y así sucesivamente. La mayoría de los
+ 
+
+193
+00:03:28,000 --> 00:03:29,830
+para sostenerlo de nuevo, y así sucesivamente. La mayoría de los
+hechizos que te permiten sostenerlos
+
+194
+00:03:29,830 --> 00:03:29,840
+hechizos que te permiten sostenerlos
+ 
+
+195
+00:03:29,840 --> 00:03:32,630
+hechizos que te permiten sostenerlos
+tienen una duración máxima como un minuto
+
+196
+00:03:32,630 --> 00:03:32,640
+tienen una duración máxima como un minuto
+ 
+
+197
+00:03:32,640 --> 00:03:35,589
+tienen una duración máxima como un minuto
+y no puedes sostenerlos más allá de esa
+
+198
+00:03:35,589 --> 00:03:35,599
+y no puedes sostenerlos más allá de esa
+ 
+
+199
+00:03:35,599 --> 00:03:37,350
+y no puedes sostenerlos más allá de esa
+cantidad máxima de tiempo
+
+200
+00:03:37,350 --> 00:03:37,360
+cantidad máxima de tiempo
+ 
+
+201
+00:03:37,360 --> 00:03:39,750
+cantidad máxima de tiempo
+y si no se indica una duración máxima,
+
+202
+00:03:39,750 --> 00:03:39,760
+y si no se indica una duración máxima,
+ 
+
+203
+00:03:39,760 --> 00:03:41,350
+y si no se indica una duración máxima,
+puedes sostenerlo
+
+204
+00:03:41,350 --> 00:03:41,360
+puedes sostenerlo
+ 
+
+205
+00:03:41,360 --> 00:03:44,309
+puedes sostenerlo
+hasta 10 minutos o 100 rondas, después de lo
+
+206
+00:03:44,309 --> 00:03:44,319
+hasta 10 minutos o 100 rondas, después de lo
+ 
+
+207
+00:03:44,319 --> 00:03:46,070
+hasta 10 minutos o 100 rondas, después de lo
+cual te fatigas
+
+208
+00:03:46,070 --> 00:03:46,080
+cual te fatigas
+ 
+
+209
+00:03:46,080 --> 00:03:49,670
+cual te fatigas
+y ya no puedes sostener ese hechizo.
+
+210
+00:03:49,670 --> 00:03:49,680
+y ya no puedes sostener ese hechizo.
+ 
+
+211
+00:03:49,680 --> 00:03:52,070
+y ya no puedes sostener ese hechizo.
+Ahora, cuando se trata de sostener hechizos,
+
+212
+00:03:52,070 --> 00:03:52,080
+Ahora, cuando se trata de sostener hechizos,
+ 
+
+213
+00:03:52,080 --> 00:03:52,710
+Ahora, cuando se trata de sostener hechizos,
+hay
+
+214
+00:03:52,710 --> 00:03:52,720
+hay
+ 
+
+215
+00:03:52,720 --> 00:03:54,390
+hay
+algunas preguntas que siempre parecen surgir.
+
+216
+00:03:54,390 --> 00:03:54,400
+algunas preguntas que siempre parecen surgir.
+ 
+
+217
+00:03:54,400 --> 00:03:56,149
+algunas preguntas que siempre parecen surgir.
+La primera es ¿
+
+218
+00:03:56,149 --> 00:03:56,159
+La primera es ¿
+ 
+
+219
+00:03:56,159 --> 00:03:58,390
+La primera es ¿
+puedo sostener varios hechizos al
+
+220
+00:03:58,390 --> 00:03:58,400
+puedo sostener varios hechizos al
+ 
+
+221
+00:03:58,400 --> 00:03:59,429
+puedo sostener varios hechizos al
+mismo tiempo?
+
+222
+00:03:59,429 --> 00:03:59,439
+mismo tiempo?
+ 
+
+223
+00:03:59,439 --> 00:04:02,470
+mismo tiempo?
+y la respuesta a eso es sí, puedes. Si de
+
+224
+00:04:02,470 --> 00:04:02,480
+y la respuesta a eso es sí, puedes. Si de
+ 
+
+225
+00:04:02,480 --> 00:04:03,750
+y la respuesta a eso es sí, puedes. Si de
+alguna manera tienes
+
+226
+00:04:03,750 --> 00:04:03,760
+alguna manera tienes
+ 
+
+227
+00:04:03,760 --> 00:04:06,229
+alguna manera tienes
+tres hechizos activos que tienen una
+
+228
+00:04:06,229 --> 00:04:06,239
+tres hechizos activos que tienen una
+ 
+
+229
+00:04:06,239 --> 00:04:07,990
+tres hechizos activos que tienen una
+duración de sostener
+
+230
+00:04:07,990 --> 00:04:08,000
+duración de sostener
+ 
+
+231
+00:04:08,000 --> 00:04:09,910
+duración de sostener
+y no han pasado su
+
+232
+00:04:09,910 --> 00:04:09,920
+y no han pasado su
+ 
+
+233
+00:04:09,920 --> 00:04:11,910
+y no han pasado su
+duración máxima, entonces podrías gastar
+
+234
+00:04:11,910 --> 00:04:11,920
+duración máxima, entonces podrías gastar
+ 
+
+235
+00:04:11,920 --> 00:04:14,309
+duración máxima, entonces podrías gastar
+tres acciones y continuar manteniéndolos a los
+
+236
+00:04:14,309 --> 00:04:14,319
+tres acciones y continuar manteniéndolos a los
+ 
+
+237
+00:04:14,319 --> 00:04:15,750
+tres acciones y continuar manteniéndolos a los
+tres.
+
+238
+00:04:15,750 --> 00:04:15,760
+tres.
+ 
+
+239
+00:04:15,760 --> 00:04:18,710
+tres.
+La segunda pregunta es si puedo sostener el
+
+240
+00:04:18,710 --> 00:04:18,720
+La segunda pregunta es si puedo sostener el
+ 
+
+241
+00:04:18,720 --> 00:04:19,590
+La segunda pregunta es si puedo sostener el
+mismo hechizo
+
+242
+00:04:19,590 --> 00:04:19,600
+mismo hechizo
+ 
+
+243
+00:04:19,600 --> 00:04:22,150
+mismo hechizo
+varias veces en una ronda. La
+
+244
+00:04:22,150 --> 00:04:22,160
+varias veces en una ronda. La
+ 
+
+245
+00:04:22,160 --> 00:04:23,990
+varias veces en una ronda. La
+respuesta también es sí.
+
+246
+00:04:23,990 --> 00:04:24,000
+respuesta también es sí.
+ 
+
+247
+00:04:24,000 --> 00:04:26,469
+respuesta también es sí.
+Según la errata, puedes sostener hechizos
+
+248
+00:04:26,469 --> 00:04:26,479
+Según la errata, puedes sostener hechizos
+ 
+
+249
+00:04:26,479 --> 00:04:28,310
+Según la errata, puedes sostener hechizos
+varias veces en una ronda, por lo que
+
+250
+00:04:28,310 --> 00:04:28,320
+varias veces en una ronda, por lo que
+ 
+
+251
+00:04:28,320 --> 00:04:30,550
+varias veces en una ronda, por lo que
+en la ronda siguiente al lanzamiento de
+
+252
+00:04:30,550 --> 00:04:30,560
+en la ronda siguiente al lanzamiento de
+ 
+
+253
+00:04:30,560 --> 00:04:31,749
+en la ronda siguiente al lanzamiento de
+un hechizo sostenido
+
+254
+00:04:31,749 --> 00:04:31,759
+un hechizo sostenido
+ 
+
+255
+00:04:31,759 --> 00:04:33,990
+un hechizo sostenido
+puedes gastar tres acciones para sostener
+
+256
+00:04:33,990 --> 00:04:34,000
+puedes gastar tres acciones para sostener
+ 
+
+257
+00:04:34,000 --> 00:04:35,350
+puedes gastar tres acciones para sostener
+el hechizo tres veces
+
+258
+00:04:35,350 --> 00:04:35,360
+el hechizo tres veces
+ 
+
+259
+00:04:35,360 --> 00:04:37,749
+el hechizo tres veces
+y activar sus efectos tres veces.
+
+260
+00:04:37,749 --> 00:04:37,759
+y activar sus efectos tres veces.
+ 
+
+261
+00:04:37,759 --> 00:04:38,469
+y activar sus efectos tres veces.
+
+262
+00:04:38,469 --> 00:04:38,479
+
+ 
+
+263
+00:04:38,479 --> 00:04:39,990
+
+Un buen ejemplo de esto sería el
+
+264
+00:04:39,990 --> 00:04:40,000
+Un buen ejemplo de esto sería el
+ 
+
+265
+00:04:40,000 --> 00:04:42,310
+Un buen ejemplo de esto sería el
+arma espiritual, donde cada vez que lo
+
+266
+00:04:42,310 --> 00:04:42,320
+arma espiritual, donde cada vez que lo
+ 
+
+267
+00:04:42,320 --> 00:04:43,110
+arma espiritual, donde cada vez que lo
+sostienes
+
+268
+00:04:43,110 --> 00:04:43,120
+sostienes
+ 
+
+269
+00:04:43,120 --> 00:04:45,830
+sostienes
+ataca otra vez. Sin embargo, la
+
+270
+00:04:45,830 --> 00:04:45,840
+ataca otra vez. Sin embargo, la
+ 
+
+271
+00:04:45,840 --> 00:04:48,550
+ataca otra vez. Sin embargo, la
+errata también ajusta varios hechizos para
+
+272
+00:04:48,550 --> 00:04:48,560
+errata también ajusta varios hechizos para
+ 
+
+273
+00:04:48,560 --> 00:04:50,550
+errata también ajusta varios hechizos para
+que sus efectos solo se activen la
+
+274
+00:04:50,550 --> 00:04:50,560
+que sus efectos solo se activen la
+ 
+
+275
+00:04:50,560 --> 00:04:52,950
+que sus efectos solo se activen la
+primera vez que se sostienen en cada ronda.
+
+276
+00:04:52,950 --> 00:04:52,960
+primera vez que se sostienen en cada ronda.
+ 
+
+277
+00:04:52,960 --> 00:04:55,590
+primera vez que se sostienen en cada ronda.
+Esta lista incluye implosión de esfera llameante,
+
+278
+00:04:55,590 --> 00:04:55,600
+Esta lista incluye implosión de esfera llameante,
+ 
+
+279
+00:04:55,600 --> 00:04:56,550
+Esta lista incluye implosión de esfera llameante,
+
+280
+00:04:56,550 --> 00:04:56,560
+
+ 
+
+281
+00:04:56,560 --> 00:04:59,590
+
+canción insondable, zarzas empaladoras y
+
+282
+00:04:59,590 --> 00:04:59,600
+canción insondable, zarzas empaladoras y
+ 
+
+283
+00:04:59,600 --> 00:05:00,710
+canción insondable, zarzas empaladoras y
+señor de la tormenta, por lo que no hay
+
+284
+00:05:00,710 --> 00:05:00,720
+señor de la tormenta, por lo que no hay
+ 
+
+285
+00:05:00,720 --> 00:05:02,550
+señor de la tormenta, por lo que no hay
+nada que te impida
+
+286
+00:05:02,550 --> 00:05:02,560
+nada que te impida
+ 
+
+287
+00:05:02,560 --> 00:05:03,990
+nada que te impida
+usar tres acciones
+
+288
+00:05:03,990 --> 00:05:04,000
+usar tres acciones
+ 
+
+289
+00:05:04,000 --> 00:05:06,629
+usar tres acciones
+para sostener esfera llameante tres veces en
+
+290
+00:05:06,629 --> 00:05:06,639
+para sostener esfera llameante tres veces en
+ 
+
+291
+00:05:06,639 --> 00:05:07,590
+para sostener esfera llameante tres veces en
+una ronda,
+
+292
+00:05:07,590 --> 00:05:07,600
+una ronda,
+ 
+
+293
+00:05:07,600 --> 00:05:10,310
+una ronda,
+pero solo activarás su ataque una
+
+294
+00:05:10,310 --> 00:05:10,320
+pero solo activarás su ataque una
+ 
+
+295
+00:05:10,320 --> 00:05:13,029
+pero solo activarás su ataque una
+vez.
+
+296
+00:05:13,029 --> 00:05:13,039
+
+ 
+
+297
+00:05:13,039 --> 00:05:15,749
+
+Algunos hechizos como soportar elementos tienen
+
+298
+00:05:15,749 --> 00:05:15,759
+Algunos hechizos como soportar elementos tienen
+ 
+
+299
+00:05:15,759 --> 00:05:17,430
+Algunos hechizos como soportar elementos tienen
+duraciones que dicen
+
+300
+00:05:17,430 --> 00:05:17,440
+duraciones que dicen
+ 
+
+301
+00:05:17,440 --> 00:05:19,749
+duraciones que dicen
+hasta la próxima vez que hagas tus preparativos diarios. Esto
+
+302
+00:05:19,749 --> 00:05:19,759
+hasta la próxima vez que hagas tus preparativos diarios. Esto
+ 
+
+303
+00:05:19,759 --> 00:05:20,870
+hasta la próxima vez que hagas tus preparativos diarios. Esto
+
+304
+00:05:20,870 --> 00:05:20,880
+
+ 
+
+305
+00:05:20,880 --> 00:05:23,029
+
+significa que al día siguiente, como
+
+306
+00:05:23,029 --> 00:05:23,039
+significa que al día siguiente, como
+ 
+
+307
+00:05:23,039 --> 00:05:24,790
+significa que al día siguiente, como
+parte de tus preparativos diarios,
+
+308
+00:05:24,790 --> 00:05:24,800
+parte de tus preparativos diarios,
+ 
+
+309
+00:05:24,800 --> 00:05:27,670
+parte de tus preparativos diarios,
+puedes elegir no recuperar ese espacio de hechizo. Al
+
+310
+00:05:27,670 --> 00:05:27,680
+puedes elegir no recuperar ese espacio de hechizo. Al
+ 
+
+311
+00:05:27,680 --> 00:05:28,629
+puedes elegir no recuperar ese espacio de hechizo. Al
+
+312
+00:05:28,629 --> 00:05:28,639
+
+ 
+
+313
+00:05:28,639 --> 00:05:31,430
+
+hacerlo, básicamente sostiene el hechizo
+
+314
+00:05:31,430 --> 00:05:31,440
+hacerlo, básicamente sostiene el hechizo
+ 
+
+315
+00:05:31,440 --> 00:05:33,029
+hacerlo, básicamente sostiene el hechizo
+y extiende su duración
+
+316
+00:05:33,029 --> 00:05:33,039
+y extiende su duración
+ 
+
+317
+00:05:33,039 --> 00:05:35,510
+y extiende su duración
+por otro día hasta tus próximos preparativos diarios.
+
+318
+00:05:35,510 --> 00:05:35,520
+por otro día hasta tus próximos preparativos diarios.
+ 
+
+319
+00:05:35,520 --> 00:05:37,110
+por otro día hasta tus próximos preparativos diarios.
+
+320
+00:05:37,110 --> 00:05:37,120
+
+ 
+
+321
+00:05:37,120 --> 00:05:39,029
+
+Esto te permite sostener el hechizo durante
+
+322
+00:05:39,029 --> 00:05:39,039
+Esto te permite sostener el hechizo durante
+ 
+
+323
+00:05:39,039 --> 00:05:40,629
+Esto te permite sostener el hechizo durante
+períodos muy largos.  tiempo,
+
+324
+00:05:40,629 --> 00:05:40,639
+períodos muy largos.  tiempo,
+ 
+
+325
+00:05:40,639 --> 00:05:43,510
+períodos muy largos.  tiempo,
+pero si alguna vez eliges recuperar ese
+
+326
+00:05:43,510 --> 00:05:43,520
+pero si alguna vez eliges recuperar ese
+ 
+
+327
+00:05:43,520 --> 00:05:44,950
+pero si alguna vez eliges recuperar ese
+espacio de hechizo durante tus preparativos diarios,
+
+328
+00:05:44,950 --> 00:05:44,960
+espacio de hechizo durante tus preparativos diarios,
+ 
+
+329
+00:05:44,960 --> 00:05:46,070
+espacio de hechizo durante tus preparativos diarios,
+
+330
+00:05:46,070 --> 00:05:46,080
+
+ 
+
+331
+00:05:46,080 --> 00:05:49,110
+
+entonces el hechizo termina inmediatamente y si
+
+332
+00:05:49,110 --> 00:05:49,120
+entonces el hechizo termina inmediatamente y si
+ 
+
+333
+00:05:49,120 --> 00:05:51,110
+entonces el hechizo termina inmediatamente y si
+alguna vez estás inconsciente o muerto
+
+334
+00:05:51,110 --> 00:05:51,120
+alguna vez estás inconsciente o muerto
+ 
+
+335
+00:05:51,120 --> 00:05:53,590
+alguna vez estás inconsciente o muerto
+en la marca de 24 horas después de los últimos
+
+336
+00:05:53,590 --> 00:05:53,600
+en la marca de 24 horas después de los últimos
+ 
+
+337
+00:05:53,600 --> 00:05:54,710
+en la marca de 24 horas después de los últimos
+preparativos,
+
+338
+00:05:54,710 --> 00:05:54,720
+preparativos,
+ 
+
+339
+00:05:54,720 --> 00:05:57,909
+preparativos,
+no puedes sostenerlo y el hechizo termina
+
+340
+00:05:57,909 --> 00:05:57,919
+no puedes sostenerlo y el hechizo termina
+ 
+
+341
+00:05:57,919 --> 00:06:00,070
+no puedes sostenerlo y el hechizo termina
+también el hechizo debe haber sido lanzado usando
+
+342
+00:06:00,070 --> 00:06:00,080
+también el hechizo debe haber sido lanzado usando
+ 
+
+343
+00:06:00,080 --> 00:06:01,430
+también el hechizo debe haber sido lanzado usando
+un espacio de hechizo
+
+344
+00:06:01,430 --> 00:06:01,440
+un espacio de hechizo
+ 
+
+345
+00:06:01,440 --> 00:06:03,749
+un espacio de hechizo
+y debes usar espacios de hechizo para
+
+346
+00:06:03,749 --> 00:06:03,759
+y debes usar espacios de hechizo para
+ 
+
+347
+00:06:03,759 --> 00:06:05,510
+y debes usar espacios de hechizo para
+continuarlo, por lo que no puedes usar
+
+348
+00:06:05,510 --> 00:06:05,520
+continuarlo, por lo que no puedes usar
+ 
+
+349
+00:06:05,520 --> 00:06:08,150
+continuarlo, por lo que no puedes usar
+cargas de una varita u otro objeto mágico
+
+350
+00:06:08,150 --> 00:06:08,160
+cargas de una varita u otro objeto mágico
+ 
+
+351
+00:06:08,160 --> 00:06:09,990
+cargas de una varita u otro objeto mágico
+para este propósito
+
+352
+00:06:09,990 --> 00:06:10,000
+para este propósito
+ 
+
+353
+00:06:10,000 --> 00:06:12,469
+para este propósito
+y por último, si un hechizo tiene una duración
+
+354
+00:06:12,469 --> 00:06:12,479
+y por último, si un hechizo tiene una duración
+ 
+
+355
+00:06:12,479 --> 00:06:13,510
+y por último, si un hechizo tiene una duración
+ilimitada
+
+356
+00:06:13,510 --> 00:06:13,520
+ilimitada
+ 
+
+357
+00:06:13,520 --> 00:06:16,230
+ilimitada
+como boca mágica, entonces no necesitas
+
+358
+00:06:16,230 --> 00:06:16,240
+como boca mágica, entonces no necesitas
+ 
+
+359
+00:06:16,240 --> 00:06:18,870
+como boca mágica, entonces no necesitas
+reservar espacios de hechizo de esta manera para que puedas
+
+360
+00:06:18,870 --> 00:06:18,880
+reservar espacios de hechizo de esta manera para que puedas
+ 
+
+361
+00:06:18,880 --> 00:06:20,309
+reservar espacios de hechizo de esta manera para que puedas
+continuarlo
+
+362
+00:06:20,309 --> 00:06:20,319
+continuarlo
+ 
+
+363
+00:06:20,319 --> 00:06:22,790
+continuarlo
+si el hechizo tiene una duración ilimitada,
+
+364
+00:06:22,790 --> 00:06:22,800
+si el hechizo tiene una duración ilimitada,
+ 
+
+365
+00:06:22,800 --> 00:06:23,749
+si el hechizo tiene una duración ilimitada,
+entonces dura
+
+366
+00:06:23,749 --> 00:06:23,759
+entonces dura
+ 
+
+367
+00:06:23,759 --> 00:06:26,390
+entonces dura
+hasta que es contrarrestado o
+
+368
+00:06:26,390 --> 00:06:26,400
+hasta que es contrarrestado o
+ 
+
+369
+00:06:26,400 --> 00:06:28,550
+hasta que es contrarrestado o
+descartado por el lanzador
+
+370
+00:06:28,550 --> 00:06:28,560
+descartado por el lanzador
+ 
+
+371
+00:06:28,560 --> 00:06:31,350
+descartado por el lanzador
+descartar un hechizo permite al lanzador
+
+372
+00:06:31,350 --> 00:06:31,360
+descartar un hechizo permite al lanzador
+ 
+
+373
+00:06:31,360 --> 00:06:32,790
+descartar un hechizo permite al lanzador
+terminarlo antes de que se
+
+374
+00:06:32,790 --> 00:06:32,800
+terminarlo antes de que se
+ 
+
+375
+00:06:32,800 --> 00:06:35,749
+terminarlo antes de que se
+acabe su duración indicada hacerlo cuesta
+
+376
+00:06:35,749 --> 00:06:35,759
+acabe su duración indicada hacerlo cuesta
+ 
+
+377
+00:06:35,759 --> 00:06:37,029
+acabe su duración indicada hacerlo cuesta
+una acción
+
+378
+00:06:37,029 --> 00:06:37,039
+una acción
+ 
+
+379
+00:06:37,039 --> 00:06:40,390
+una acción
+y por crudo parece que solo los hechizos
+
+380
+00:06:40,390 --> 00:06:40,400
+y por crudo parece que solo los hechizos
+ 
+
+381
+00:06:40,400 --> 00:06:42,550
+y por crudo parece que solo los hechizos
+que te dicen específicamente que pueden
+
+382
+00:06:42,550 --> 00:06:42,560
+que te dicen específicamente que pueden
+ 
+
+383
+00:06:42,560 --> 00:06:43,749
+que te dicen específicamente que pueden
+ser descartados
+
+384
+00:06:43,749 --> 00:06:43,759
+ser descartados
+ 
+
+385
+00:06:43,759 --> 00:06:47,029
+ser descartados
+pueden ser descartados como por ejemplo forma aérea
+
+386
+00:06:47,029 --> 00:06:47,039
+pueden ser descartados como por ejemplo forma aérea
+ 
+
+387
+00:06:47,039 --> 00:06:47,590
+pueden ser descartados como por ejemplo forma aérea
+
+388
+00:06:47,590 --> 00:06:47,600
+
+ 
+
+389
+00:06:47,600 --> 00:06:49,589
+
+dice que puede ser descartado para que puedas
+
+390
+00:06:49,589 --> 00:06:49,599
+dice que puede ser descartado para que puedas
+ 
+
+391
+00:06:49,599 --> 00:06:50,710
+dice que puede ser descartado para que puedas
+descartarlo
+
+392
+00:06:50,710 --> 00:06:50,720
+descartarlo
+ 
+
+393
+00:06:50,720 --> 00:06:53,510
+descartarlo
+pero curiosamente por crudo un hechizo como
+
+394
+00:06:53,510 --> 00:06:53,520
+pero curiosamente por crudo un hechizo como
+ 
+
+395
+00:06:53,520 --> 00:06:54,309
+pero curiosamente por crudo un hechizo como
+luz
+
+396
+00:06:54,309 --> 00:06:54,319
+luz
+ 
+
+397
+00:06:54,319 --> 00:06:59,189
+luz
+no puede ser descartado por el lanzador
+
+398
+00:06:59,189 --> 00:06:59,199
+
+ 
+
+399
+00:06:59,199 --> 00:07:00,870
+
+antes de que cerremos me gustaría tomarme un
+
+400
+00:07:00,870 --> 00:07:00,880
+antes de que cerremos me gustaría tomarme un
+ 
+
+401
+00:07:00,880 --> 00:07:03,110
+antes de que cerremos me gustaría tomarme un
+momento para agradecer a todos nuestros patrocinadores
+
+402
+00:07:03,110 --> 00:07:03,120
+momento para agradecer a todos nuestros patrocinadores
+ 
+
+403
+00:07:03,120 --> 00:07:04,870
+momento para agradecer a todos nuestros patrocinadores
+estos videos serían  no sería posible
+
+404
+00:07:04,870 --> 00:07:04,880
+estos videos serían  no sería posible
+ 
+
+405
+00:07:04,880 --> 00:07:07,029
+estos videos serían  no sería posible
+sin su continua generosidad
+
+406
+00:07:07,029 --> 00:07:07,039
+sin su continua generosidad
+ 
+
+407
+00:07:07,039 --> 00:07:09,830
+sin su continua generosidad
+y apoyo los miembros de la
+
+408
+00:07:09,830 --> 00:07:09,840
+y apoyo los miembros de la
+ 
+
+409
+00:07:09,840 --> 00:07:11,909
+y apoyo los miembros de la
+comunidad de patreon de basics for gamers reciben beneficios especiales
+
+410
+00:07:11,909 --> 00:07:11,919
+comunidad de patreon de basics for gamers reciben beneficios especiales
+ 
+
+411
+00:07:11,919 --> 00:07:12,710
+comunidad de patreon de basics for gamers reciben beneficios especiales
+
+412
+00:07:12,710 --> 00:07:12,720
+
+ 
+
+413
+00:07:12,720 --> 00:07:14,629
+
+como votar sobre los temas que
+
+414
+00:07:14,629 --> 00:07:14,639
+como votar sobre los temas que
+ 
+
+415
+00:07:14,639 --> 00:07:15,990
+como votar sobre los temas que
+cubrimos en el futuro
+
+416
+00:07:15,990 --> 00:07:16,000
+cubrimos en el futuro
+ 
+
+417
+00:07:16,000 --> 00:07:17,990
+cubrimos en el futuro
+y también pueden ver estos videos
+
+418
+00:07:17,990 --> 00:07:18,000
+y también pueden ver estos videos
+ 
+
+419
+00:07:18,000 --> 00:07:20,309
+y también pueden ver estos videos
+una semana sin publicidad antes que
+
+420
+00:07:20,309 --> 00:07:20,319
+una semana sin publicidad antes que
+ 
+
+421
+00:07:20,319 --> 00:07:23,189
+una semana sin publicidad antes que
+todos los demás visita el enlace que se muestra a
+
+422
+00:07:23,189 --> 00:07:23,199
+todos los demás visita el enlace que se muestra a
+ 
+
+423
+00:07:23,199 --> 00:07:24,230
+todos los demás visita el enlace que se muestra a
+la izquierda de la pantalla
+
+424
+00:07:24,230 --> 00:07:24,240
+la izquierda de la pantalla
+ 
+
+425
+00:07:24,240 --> 00:07:25,909
+la izquierda de la pantalla
+y en la descripción si quieres
+
+426
+00:07:25,909 --> 00:07:25,919
+y en la descripción si quieres
+ 
+
+427
+00:07:25,919 --> 00:07:28,469
+y en la descripción si quieres
+saber más sobre cómo convertirte en mecenas
+
+428
+00:07:28,469 --> 00:07:28,479
+saber más sobre cómo convertirte en mecenas
+ 
+
+429
+00:07:28,479 --> 00:07:29,670
+saber más sobre cómo convertirte en mecenas
+si quieres apoyar este
+
+430
+00:07:29,670 --> 00:07:29,680
+si quieres apoyar este
+ 
+
+431
+00:07:29,680 --> 00:07:31,670
+si quieres apoyar este
+canal y ayudarlo a crecer la forma más fácil
+
+432
+00:07:31,670 --> 00:07:31,680
+canal y ayudarlo a crecer la forma más fácil
+ 
+
+433
+00:07:31,680 --> 00:07:32,550
+canal y ayudarlo a crecer la forma más fácil
+de hacerlo
+
+434
+00:07:32,550 --> 00:07:32,560
+de hacerlo
+ 
+
+435
+00:07:32,560 --> 00:07:34,950
+de hacerlo
+es suscribiéndote y haciendo clic en el ícono de la campana
+
+436
+00:07:34,950 --> 00:07:34,960
+es suscribiéndote y haciendo clic en el ícono de la campana
+ 
+
+437
+00:07:34,960 --> 00:07:35,670
+es suscribiéndote y haciendo clic en el ícono de la campana
+
+438
+00:07:35,670 --> 00:07:35,680
+
+ 
+
+439
+00:07:35,680 --> 00:07:37,589
+
+para que recibas notificaciones cuando se publiquen nuevos videos
+
+440
+00:07:37,589 --> 00:07:37,599
+para que recibas notificaciones cuando se publiquen nuevos videos
+ 
+
+441
+00:07:37,599 --> 00:07:39,830
+para que recibas notificaciones cuando se publiquen nuevos videos
+y siempre puedes comunicarte con nosotros a
+
+442
+00:07:39,830 --> 00:07:39,840
+y siempre puedes comunicarte con nosotros a
+ 
+
+443
+00:07:39,840 --> 00:07:41,430
+y siempre puedes comunicarte con nosotros a
+través de nuestras páginas de twitter y facebook
+
+444
+00:07:41,430 --> 00:07:41,440
+través de nuestras páginas de twitter y facebook
+ 
+
+445
+00:07:41,440 --> 00:07:42,309
+través de nuestras páginas de twitter y facebook
+también
+
+446
+00:07:42,309 --> 00:07:42,319
+también
+ 
+
+447
+00:07:42,319 --> 00:07:44,150
+también
+gracias por ver cuídate y nos
+
+448
+00:07:44,150 --> 00:07:44,160
+gracias por ver cuídate y nos
+ 
+
+449
+00:07:44,160 --> 00:07:46,749
+gracias por ver cuídate y nos
+vemos pronto con más basics of
+
+450
+00:07:46,749 --> 00:07:46,759
+vemos pronto con más basics of
+ 
+
+451
+00:07:46,759 --> 00:07:49,759
+vemos pronto con más basics of
+pathfinder
+

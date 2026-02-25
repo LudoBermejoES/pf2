@@ -1,0 +1,3465 @@
+1
+00:00:01,120 --> 00:00:03,270
+
+this video is brought to you by roll for
+
+2
+00:00:03,270 --> 00:00:03,280
+this video is brought to you by roll for
+ 
+
+3
+00:00:03,280 --> 00:00:03,830
+this video is brought to you by roll for
+combat
+
+4
+00:00:03,830 --> 00:00:03,840
+combat
+ 
+
+5
+00:00:03,840 --> 00:00:06,950
+combat
+an official piezo actual play podcast
+
+6
+00:00:06,950 --> 00:00:06,960
+an official piezo actual play podcast
+ 
+
+7
+00:00:06,960 --> 00:00:09,910
+an official piezo actual play podcast
+visit rollforcombat.com today to listen
+
+8
+00:00:09,910 --> 00:00:09,920
+visit rollforcombat.com today to listen
+ 
+
+9
+00:00:09,920 --> 00:00:11,430
+visit rollforcombat.com today to listen
+to agents of edgewatch
+
+10
+00:00:11,430 --> 00:00:11,440
+to agents of edgewatch
+ 
+
+11
+00:00:11,440 --> 00:00:14,150
+to agents of edgewatch
+and join basil dougie gomez and loming
+
+12
+00:00:14,150 --> 00:00:14,160
+and join basil dougie gomez and loming
+ 
+
+13
+00:00:14,160 --> 00:00:15,990
+and join basil dougie gomez and loming
+as they protect and serve the citizens
+
+14
+00:00:15,990 --> 00:00:16,000
+as they protect and serve the citizens
+ 
+
+15
+00:00:16,000 --> 00:00:17,910
+as they protect and serve the citizens
+of absalom from a mysterious and
+
+16
+00:00:17,910 --> 00:00:17,920
+of absalom from a mysterious and
+ 
+
+17
+00:00:17,920 --> 00:00:20,950
+of absalom from a mysterious and
+diabolical plot
+
+18
+00:00:20,950 --> 00:00:20,960
+diabolical plot
+ 
+
+19
+00:00:20,960 --> 00:00:23,029
+diabolical plot
+welcome to battle breakdown by how it's
+
+20
+00:00:23,029 --> 00:00:23,039
+welcome to battle breakdown by how it's
+ 
+
+21
+00:00:23,039 --> 00:00:25,189
+welcome to battle breakdown by how it's
+played the series that examines famous
+
+22
+00:00:25,189 --> 00:00:25,199
+played the series that examines famous
+ 
+
+23
+00:00:25,199 --> 00:00:26,710
+played the series that examines famous
+scenes from movies and television
+
+24
+00:00:26,710 --> 00:00:26,720
+scenes from movies and television
+ 
+
+25
+00:00:26,720 --> 00:00:28,470
+scenes from movies and television
+through the lens of a role-playing game
+
+26
+00:00:28,470 --> 00:00:28,480
+through the lens of a role-playing game
+ 
+
+27
+00:00:28,480 --> 00:00:30,230
+through the lens of a role-playing game
+and illustrates how these events might
+
+28
+00:00:30,230 --> 00:00:30,240
+and illustrates how these events might
+ 
+
+29
+00:00:30,240 --> 00:00:31,830
+and illustrates how these events might
+play out at the game table
+
+30
+00:00:31,830 --> 00:00:31,840
+play out at the game table
+ 
+
+31
+00:00:31,840 --> 00:00:33,670
+play out at the game table
+in this edition we'll be looking at an
+
+32
+00:00:33,670 --> 00:00:33,680
+in this edition we'll be looking at an
+ 
+
+33
+00:00:33,680 --> 00:00:35,590
+in this edition we'll be looking at an
+encounter from 2001's
+
+34
+00:00:35,590 --> 00:00:35,600
+encounter from 2001's
+ 
+
+35
+00:00:35,600 --> 00:00:37,670
+encounter from 2001's
+the fellowship of the ring as if it was
+
+36
+00:00:37,670 --> 00:00:37,680
+the fellowship of the ring as if it was
+ 
+
+37
+00:00:37,680 --> 00:00:39,190
+the fellowship of the ring as if it was
+an encounter in pathfinder second
+
+38
+00:00:39,190 --> 00:00:39,200
+an encounter in pathfinder second
+ 
+
+39
+00:00:39,200 --> 00:00:39,910
+an encounter in pathfinder second
+edition
+
+40
+00:00:39,910 --> 00:00:39,920
+edition
+ 
+
+41
+00:00:39,920 --> 00:00:41,910
+edition
+specifically we'll be using this as an
+
+42
+00:00:41,910 --> 00:00:41,920
+specifically we'll be using this as an
+ 
+
+43
+00:00:41,920 --> 00:00:44,310
+specifically we'll be using this as an
+example of a monster using their grab
+
+44
+00:00:44,310 --> 00:00:44,320
+example of a monster using their grab
+ 
+
+45
+00:00:44,320 --> 00:00:46,950
+example of a monster using their grab
+ability in this scene the fellowship has
+
+46
+00:00:46,950 --> 00:00:46,960
+ability in this scene the fellowship has
+ 
+
+47
+00:00:46,960 --> 00:00:48,869
+ability in this scene the fellowship has
+opened the gates to the minds of moria
+
+48
+00:00:48,869 --> 00:00:48,879
+opened the gates to the minds of moria
+ 
+
+49
+00:00:48,879 --> 00:00:50,630
+opened the gates to the minds of moria
+and discovered that the stronghold has
+
+50
+00:00:50,630 --> 00:00:50,640
+and discovered that the stronghold has
+ 
+
+51
+00:00:50,640 --> 00:00:53,270
+and discovered that the stronghold has
+been decimated by the armies of sauron
+
+52
+00:00:53,270 --> 00:00:53,280
+been decimated by the armies of sauron
+ 
+
+53
+00:00:53,280 --> 00:00:55,189
+been decimated by the armies of sauron
+after a brief moment of shock at this
+
+54
+00:00:55,189 --> 00:00:55,199
+after a brief moment of shock at this
+ 
+
+55
+00:00:55,199 --> 00:00:57,590
+after a brief moment of shock at this
+discovery the four hobbits begin backing
+
+56
+00:00:57,590 --> 00:00:57,600
+discovery the four hobbits begin backing
+ 
+
+57
+00:00:57,600 --> 00:00:58,950
+discovery the four hobbits begin backing
+out of the mines entrance
+
+58
+00:00:58,950 --> 00:00:58,960
+out of the mines entrance
+ 
+
+59
+00:00:58,960 --> 00:01:01,029
+out of the mines entrance
+and are attacked by a monster referred
+
+60
+00:01:01,029 --> 00:01:01,039
+and are attacked by a monster referred
+ 
+
+61
+00:01:01,039 --> 00:01:01,990
+and are attacked by a monster referred
+to in the books
+
+62
+00:01:01,990 --> 00:01:02,000
+to in the books
+ 
+
+63
+00:01:02,000 --> 00:01:04,710
+to in the books
+as the watcher in the water which for
+
+64
+00:01:04,710 --> 00:01:04,720
+as the watcher in the water which for
+ 
+
+65
+00:01:04,720 --> 00:01:05,509
+as the watcher in the water which for
+our purposes
+
+66
+00:01:05,509 --> 00:01:05,519
+our purposes
+ 
+
+67
+00:01:05,519 --> 00:01:08,550
+our purposes
+has the following stats when the gm
+
+68
+00:01:08,550 --> 00:01:08,560
+has the following stats when the gm
+ 
+
+69
+00:01:08,560 --> 00:01:10,469
+has the following stats when the gm
+calls for initiatives to be rolled
+
+70
+00:01:10,469 --> 00:01:10,479
+calls for initiatives to be rolled
+ 
+
+71
+00:01:10,479 --> 00:01:12,070
+calls for initiatives to be rolled
+all members of the fellowship role
+
+72
+00:01:12,070 --> 00:01:12,080
+all members of the fellowship role
+ 
+
+73
+00:01:12,080 --> 00:01:14,230
+all members of the fellowship role
+perception and the watcher roll
+
+74
+00:01:14,230 --> 00:01:14,240
+perception and the watcher roll
+ 
+
+75
+00:01:14,240 --> 00:01:16,310
+perception and the watcher roll
+stealth for its initiative it has a
+
+76
+00:01:16,310 --> 00:01:16,320
+stealth for its initiative it has a
+ 
+
+77
+00:01:16,320 --> 00:01:18,149
+stealth for its initiative it has a
+stealth bonus of plus 17
+
+78
+00:01:18,149 --> 00:01:18,159
+stealth bonus of plus 17
+ 
+
+79
+00:01:18,159 --> 00:01:20,070
+stealth bonus of plus 17
+and gm tolkien decides to grant an
+
+80
+00:01:20,070 --> 00:01:20,080
+and gm tolkien decides to grant an
+ 
+
+81
+00:01:20,080 --> 00:01:21,429
+and gm tolkien decides to grant an
+additional plus 4
+
+82
+00:01:21,429 --> 00:01:21,439
+additional plus 4
+ 
+
+83
+00:01:21,439 --> 00:01:23,270
+additional plus 4
+due to the dark and murky state of the
+
+84
+00:01:23,270 --> 00:01:23,280
+due to the dark and murky state of the
+ 
+
+85
+00:01:23,280 --> 00:01:24,550
+due to the dark and murky state of the
+water it's hiding in
+
+86
+00:01:24,550 --> 00:01:24,560
+water it's hiding in
+ 
+
+87
+00:01:24,560 --> 00:01:26,550
+water it's hiding in
+giving the watcher a total stealth bonus
+
+88
+00:01:26,550 --> 00:01:26,560
+giving the watcher a total stealth bonus
+ 
+
+89
+00:01:26,560 --> 00:01:28,070
+giving the watcher a total stealth bonus
+of plus 21.
+
+90
+00:01:28,070 --> 00:01:28,080
+of plus 21.
+ 
+
+91
+00:01:28,080 --> 00:01:29,910
+of plus 21.
+incidentally none of the members of the
+
+92
+00:01:29,910 --> 00:01:29,920
+incidentally none of the members of the
+ 
+
+93
+00:01:29,920 --> 00:01:31,830
+incidentally none of the members of the
+fellowship noticed the watcher hiding in
+
+94
+00:01:31,830 --> 00:01:31,840
+fellowship noticed the watcher hiding in
+ 
+
+95
+00:01:31,840 --> 00:01:33,590
+fellowship noticed the watcher hiding in
+the water during their approach to the
+
+96
+00:01:33,590 --> 00:01:33,600
+the water during their approach to the
+ 
+
+97
+00:01:33,600 --> 00:01:33,990
+the water during their approach to the
+mine
+
+98
+00:01:33,990 --> 00:01:34,000
+mine
+ 
+
+99
+00:01:34,000 --> 00:01:35,749
+mine
+because none of their perception roles
+
+100
+00:01:35,749 --> 00:01:35,759
+because none of their perception roles
+ 
+
+101
+00:01:35,759 --> 00:01:37,830
+because none of their perception roles
+for the seek action beat the watchers
+
+102
+00:01:37,830 --> 00:01:37,840
+for the seek action beat the watchers
+ 
+
+103
+00:01:37,840 --> 00:01:40,390
+for the seek action beat the watchers
+stealth dc of 31.
+
+104
+00:01:40,390 --> 00:01:40,400
+stealth dc of 31.
+ 
+
+105
+00:01:40,400 --> 00:01:42,230
+stealth dc of 31.
+the watcher wins initiative and with its
+
+106
+00:01:42,230 --> 00:01:42,240
+the watcher wins initiative and with its
+ 
+
+107
+00:01:42,240 --> 00:01:44,310
+the watcher wins initiative and with its
+first action it makes a melee arm attack
+
+108
+00:01:44,310 --> 00:01:44,320
+first action it makes a melee arm attack
+ 
+
+109
+00:01:44,320 --> 00:01:45,670
+first action it makes a melee arm attack
+against frodo
+
+110
+00:01:45,670 --> 00:01:45,680
+against frodo
+ 
+
+111
+00:01:45,680 --> 00:01:47,910
+against frodo
+this hits and deals 2d8 plus 9
+
+112
+00:01:47,910 --> 00:01:47,920
+this hits and deals 2d8 plus 9
+ 
+
+113
+00:01:47,920 --> 00:01:49,109
+this hits and deals 2d8 plus 9
+bludgeoning damage
+
+114
+00:01:49,109 --> 00:01:49,119
+bludgeoning damage
+ 
+
+115
+00:01:49,119 --> 00:01:51,109
+bludgeoning damage
+the damage entry for this attack also
+
+116
+00:01:51,109 --> 00:01:51,119
+the damage entry for this attack also
+ 
+
+117
+00:01:51,119 --> 00:01:53,109
+the damage entry for this attack also
+says plus knockdown and
+
+118
+00:01:53,109 --> 00:01:53,119
+says plus knockdown and
+ 
+
+119
+00:01:53,119 --> 00:01:56,069
+says plus knockdown and
+improved grab which means on a hit the
+
+120
+00:01:56,069 --> 00:01:56,079
+improved grab which means on a hit the
+ 
+
+121
+00:01:56,079 --> 00:01:58,230
+improved grab which means on a hit the
+watcher can grab the victim as a free
+
+122
+00:01:58,230 --> 00:01:58,240
+watcher can grab the victim as a free
+ 
+
+123
+00:01:58,240 --> 00:01:58,870
+watcher can grab the victim as a free
+action
+
+124
+00:01:58,870 --> 00:01:58,880
+action
+ 
+
+125
+00:01:58,880 --> 00:02:01,190
+action
+this is only possible because it has
+
+126
+00:02:01,190 --> 00:02:01,200
+this is only possible because it has
+ 
+
+127
+00:02:01,200 --> 00:02:02,149
+this is only possible because it has
+improved
+
+128
+00:02:02,149 --> 00:02:02,159
+improved
+ 
+
+129
+00:02:02,159 --> 00:02:05,190
+improved
+grab and because of this frodo is now
+
+130
+00:02:05,190 --> 00:02:05,200
+grab and because of this frodo is now
+ 
+
+131
+00:02:05,200 --> 00:02:07,109
+grab and because of this frodo is now
+suffering the flat-footed and
+
+132
+00:02:07,109 --> 00:02:07,119
+suffering the flat-footed and
+ 
+
+133
+00:02:07,119 --> 00:02:08,790
+suffering the flat-footed and
+immobilized conditions
+
+134
+00:02:08,790 --> 00:02:08,800
+immobilized conditions
+ 
+
+135
+00:02:08,800 --> 00:02:11,510
+immobilized conditions
+and he must also pass a dc5 flat check
+
+136
+00:02:11,510 --> 00:02:11,520
+and he must also pass a dc5 flat check
+ 
+
+137
+00:02:11,520 --> 00:02:13,510
+and he must also pass a dc5 flat check
+to use any actions with the manipulate
+
+138
+00:02:13,510 --> 00:02:13,520
+to use any actions with the manipulate
+ 
+
+139
+00:02:13,520 --> 00:02:14,790
+to use any actions with the manipulate
+trait
+
+140
+00:02:14,790 --> 00:02:14,800
+trait
+ 
+
+141
+00:02:14,800 --> 00:02:17,190
+trait
+and since the attack was a success and
+
+142
+00:02:17,190 --> 00:02:17,200
+and since the attack was a success and
+ 
+
+143
+00:02:17,200 --> 00:02:18,229
+and since the attack was a success and
+has knocked down
+
+144
+00:02:18,229 --> 00:02:18,239
+has knocked down
+ 
+
+145
+00:02:18,239 --> 00:02:20,949
+has knocked down
+listed in his damage entry 2 the watcher
+
+146
+00:02:20,949 --> 00:02:20,959
+listed in his damage entry 2 the watcher
+ 
+
+147
+00:02:20,959 --> 00:02:23,030
+listed in his damage entry 2 the watcher
+is able to use its second action to
+
+148
+00:02:23,030 --> 00:02:23,040
+is able to use its second action to
+ 
+
+149
+00:02:23,040 --> 00:02:25,430
+is able to use its second action to
+impose the prone condition on frodo
+
+150
+00:02:25,430 --> 00:02:25,440
+impose the prone condition on frodo
+ 
+
+151
+00:02:25,440 --> 00:02:27,750
+impose the prone condition on frodo
+and then spins its third action to drag
+
+152
+00:02:27,750 --> 00:02:27,760
+and then spins its third action to drag
+ 
+
+153
+00:02:27,760 --> 00:02:29,990
+and then spins its third action to drag
+the hobbit one square closer
+
+154
+00:02:29,990 --> 00:02:30,000
+the hobbit one square closer
+ 
+
+155
+00:02:30,000 --> 00:02:31,750
+the hobbit one square closer
+gm talk increase this the same as
+
+156
+00:02:31,750 --> 00:02:31,760
+gm talk increase this the same as
+ 
+
+157
+00:02:31,760 --> 00:02:33,110
+gm talk increase this the same as
+dragging an object
+
+158
+00:02:33,110 --> 00:02:33,120
+dragging an object
+ 
+
+159
+00:02:33,120 --> 00:02:36,070
+dragging an object
+one action to drag one square and thanks
+
+160
+00:02:36,070 --> 00:02:36,080
+one action to drag one square and thanks
+ 
+
+161
+00:02:36,080 --> 00:02:37,750
+one action to drag one square and thanks
+to the watcher having a strength
+
+162
+00:02:37,750 --> 00:02:37,760
+to the watcher having a strength
+ 
+
+163
+00:02:37,760 --> 00:02:39,509
+to the watcher having a strength
+modifier of plus six
+
+164
+00:02:39,509 --> 00:02:39,519
+modifier of plus six
+ 
+
+165
+00:02:39,519 --> 00:02:41,589
+modifier of plus six
+and frodo being a small sized creature
+
+166
+00:02:41,589 --> 00:02:41,599
+and frodo being a small sized creature
+ 
+
+167
+00:02:41,599 --> 00:02:43,190
+and frodo being a small sized creature
+he doesn't really worry about bulk
+
+168
+00:02:43,190 --> 00:02:43,200
+he doesn't really worry about bulk
+ 
+
+169
+00:02:43,200 --> 00:02:45,110
+he doesn't really worry about bulk
+limitations and just keeps the game
+
+170
+00:02:45,110 --> 00:02:45,120
+limitations and just keeps the game
+ 
+
+171
+00:02:45,120 --> 00:02:46,070
+limitations and just keeps the game
+moving
+
+172
+00:02:46,070 --> 00:02:46,080
+moving
+ 
+
+173
+00:02:46,080 --> 00:02:47,830
+moving
+now the fellowship takes their turns in
+
+174
+00:02:47,830 --> 00:02:47,840
+now the fellowship takes their turns in
+ 
+
+175
+00:02:47,840 --> 00:02:49,509
+now the fellowship takes their turns in
+a flurry of activity
+
+176
+00:02:49,509 --> 00:02:49,519
+a flurry of activity
+ 
+
+177
+00:02:49,519 --> 00:02:51,430
+a flurry of activity
+mary and pippin are next and perform the
+
+178
+00:02:51,430 --> 00:02:51,440
+mary and pippin are next and perform the
+ 
+
+179
+00:02:51,440 --> 00:02:53,750
+mary and pippin are next and perform the
+same actions they both strive to frodo
+
+180
+00:02:53,750 --> 00:02:53,760
+same actions they both strive to frodo
+ 
+
+181
+00:02:53,760 --> 00:02:54,229
+same actions they both strive to frodo
+first
+
+182
+00:02:54,229 --> 00:02:54,239
+first
+ 
+
+183
+00:02:54,239 --> 00:02:56,070
+first
+and then use their second actions to
+
+184
+00:02:56,070 --> 00:02:56,080
+and then use their second actions to
+ 
+
+185
+00:02:56,080 --> 00:02:57,750
+and then use their second actions to
+prepare to aid
+
+186
+00:02:57,750 --> 00:02:57,760
+prepare to aid
+ 
+
+187
+00:02:57,760 --> 00:02:59,750
+prepare to aid
+the aid basic action allows you to spin
+
+188
+00:02:59,750 --> 00:02:59,760
+the aid basic action allows you to spin
+ 
+
+189
+00:02:59,760 --> 00:03:01,750
+the aid basic action allows you to spin
+an action on your turn to prepare to
+
+190
+00:03:01,750 --> 00:03:01,760
+an action on your turn to prepare to
+ 
+
+191
+00:03:01,760 --> 00:03:04,070
+an action on your turn to prepare to
+give a leader to another character
+
+192
+00:03:04,070 --> 00:03:04,080
+give a leader to another character
+ 
+
+193
+00:03:04,080 --> 00:03:06,149
+give a leader to another character
+during their turn but you must spend
+
+194
+00:03:06,149 --> 00:03:06,159
+during their turn but you must spend
+ 
+
+195
+00:03:06,159 --> 00:03:08,630
+during their turn but you must spend
+your reaction at that time to do so
+
+196
+00:03:08,630 --> 00:03:08,640
+your reaction at that time to do so
+ 
+
+197
+00:03:08,640 --> 00:03:11,190
+your reaction at that time to do so
+now when frodo's turn further spends his
+
+198
+00:03:11,190 --> 00:03:11,200
+now when frodo's turn further spends his
+ 
+
+199
+00:03:11,200 --> 00:03:13,190
+now when frodo's turn further spends his
+first action to try and escape from the
+
+200
+00:03:13,190 --> 00:03:13,200
+first action to try and escape from the
+ 
+
+201
+00:03:13,200 --> 00:03:14,470
+first action to try and escape from the
+watcher's grab
+
+202
+00:03:14,470 --> 00:03:14,480
+watcher's grab
+ 
+
+203
+00:03:14,480 --> 00:03:16,630
+watcher's grab
+this calls for his choice of rolling
+
+204
+00:03:16,630 --> 00:03:16,640
+this calls for his choice of rolling
+ 
+
+205
+00:03:16,640 --> 00:03:17,589
+this calls for his choice of rolling
+acrobatics
+
+206
+00:03:17,589 --> 00:03:17,599
+acrobatics
+ 
+
+207
+00:03:17,599 --> 00:03:19,830
+acrobatics
+athletics or an unarmed attack against
+
+208
+00:03:19,830 --> 00:03:19,840
+athletics or an unarmed attack against
+ 
+
+209
+00:03:19,840 --> 00:03:21,750
+athletics or an unarmed attack against
+the watchers athletics dc
+
+210
+00:03:21,750 --> 00:03:21,760
+the watchers athletics dc
+ 
+
+211
+00:03:21,760 --> 00:03:23,670
+the watchers athletics dc
+the watcher has an athletic skill bonus
+
+212
+00:03:23,670 --> 00:03:23,680
+the watcher has an athletic skill bonus
+ 
+
+213
+00:03:23,680 --> 00:03:26,390
+the watcher has an athletic skill bonus
+of plus 20 which means his athletics dc
+
+214
+00:03:26,390 --> 00:03:26,400
+of plus 20 which means his athletics dc
+ 
+
+215
+00:03:26,400 --> 00:03:27,509
+of plus 20 which means his athletics dc
+is 30.
+
+216
+00:03:27,509 --> 00:03:27,519
+is 30.
+ 
+
+217
+00:03:27,519 --> 00:03:29,830
+is 30.
+frodo decides to use acrobatics and
+
+218
+00:03:29,830 --> 00:03:29,840
+frodo decides to use acrobatics and
+ 
+
+219
+00:03:29,840 --> 00:03:31,430
+frodo decides to use acrobatics and
+before he rolls the die
+
+220
+00:03:31,430 --> 00:03:31,440
+before he rolls the die
+ 
+
+221
+00:03:31,440 --> 00:03:33,190
+before he rolls the die
+mary and pippin both announced that
+
+222
+00:03:33,190 --> 00:03:33,200
+mary and pippin both announced that
+ 
+
+223
+00:03:33,200 --> 00:03:35,270
+mary and pippin both announced that
+they're using their reactions to aid
+
+224
+00:03:35,270 --> 00:03:35,280
+they're using their reactions to aid
+ 
+
+225
+00:03:35,280 --> 00:03:36,149
+they're using their reactions to aid
+frodo
+
+226
+00:03:36,149 --> 00:03:36,159
+frodo
+ 
+
+227
+00:03:36,159 --> 00:03:38,229
+frodo
+they're able to do this because each of
+
+228
+00:03:38,229 --> 00:03:38,239
+they're able to do this because each of
+ 
+
+229
+00:03:38,239 --> 00:03:40,390
+they're able to do this because each of
+them spent an action during their turn
+
+230
+00:03:40,390 --> 00:03:40,400
+them spent an action during their turn
+ 
+
+231
+00:03:40,400 --> 00:03:43,270
+them spent an action during their turn
+to prepare to aid gm tolkien decides
+
+232
+00:03:43,270 --> 00:03:43,280
+to prepare to aid gm tolkien decides
+ 
+
+233
+00:03:43,280 --> 00:03:45,110
+to prepare to aid gm tolkien decides
+they will need to roll athletics checks
+
+234
+00:03:45,110 --> 00:03:45,120
+they will need to roll athletics checks
+ 
+
+235
+00:03:45,120 --> 00:03:45,670
+they will need to roll athletics checks
+for this
+
+236
+00:03:45,670 --> 00:03:45,680
+for this
+ 
+
+237
+00:03:45,680 --> 00:03:47,990
+for this
+to represent them grabbing hold of frodo
+
+238
+00:03:47,990 --> 00:03:48,000
+to represent them grabbing hold of frodo
+ 
+
+239
+00:03:48,000 --> 00:03:49,350
+to represent them grabbing hold of frodo
+and trying to pull him
+
+240
+00:03:49,350 --> 00:03:49,360
+and trying to pull him
+ 
+
+241
+00:03:49,360 --> 00:03:51,830
+and trying to pull him
+out of the watcher's grasp the dc for
+
+242
+00:03:51,830 --> 00:03:51,840
+out of the watcher's grasp the dc for
+ 
+
+243
+00:03:51,840 --> 00:03:53,270
+out of the watcher's grasp the dc for
+their checks is 20
+
+244
+00:03:53,270 --> 00:03:53,280
+their checks is 20
+ 
+
+245
+00:03:53,280 --> 00:03:55,830
+their checks is 20
+and both mary and pippen succeed but
+
+246
+00:03:55,830 --> 00:03:55,840
+and both mary and pippen succeed but
+ 
+
+247
+00:03:55,840 --> 00:03:57,750
+and both mary and pippen succeed but
+this does not mean they succeed in
+
+248
+00:03:57,750 --> 00:03:57,760
+this does not mean they succeed in
+ 
+
+249
+00:03:57,760 --> 00:03:58,789
+this does not mean they succeed in
+pulling them free
+
+250
+00:03:58,789 --> 00:03:58,799
+pulling them free
+ 
+
+251
+00:03:58,799 --> 00:04:01,270
+pulling them free
+what this means is they grant a plus one
+
+252
+00:04:01,270 --> 00:04:01,280
+what this means is they grant a plus one
+ 
+
+253
+00:04:01,280 --> 00:04:03,429
+what this means is they grant a plus one
+circumstance bonus to frodo's escape
+
+254
+00:04:03,429 --> 00:04:03,439
+circumstance bonus to frodo's escape
+ 
+
+255
+00:04:03,439 --> 00:04:04,229
+circumstance bonus to frodo's escape
+check
+
+256
+00:04:04,229 --> 00:04:04,239
+check
+ 
+
+257
+00:04:04,239 --> 00:04:06,789
+check
+not plus two because this is a typed
+
+258
+00:04:06,789 --> 00:04:06,799
+not plus two because this is a typed
+ 
+
+259
+00:04:06,799 --> 00:04:07,270
+not plus two because this is a typed
+bonus
+
+260
+00:04:07,270 --> 00:04:07,280
+bonus
+ 
+
+261
+00:04:07,280 --> 00:04:10,470
+bonus
+and typed bonuses do not stack frodo has
+
+262
+00:04:10,470 --> 00:04:10,480
+and typed bonuses do not stack frodo has
+ 
+
+263
+00:04:10,480 --> 00:04:12,390
+and typed bonuses do not stack frodo has
+an acrobatic skill of plus 10
+
+264
+00:04:12,390 --> 00:04:12,400
+an acrobatic skill of plus 10
+ 
+
+265
+00:04:12,400 --> 00:04:14,550
+an acrobatic skill of plus 10
+plus one more from his friend's aid
+
+266
+00:04:14,550 --> 00:04:14,560
+plus one more from his friend's aid
+ 
+
+267
+00:04:14,560 --> 00:04:17,430
+plus one more from his friend's aid
+makes this a total check of 1d20 plus 11
+
+268
+00:04:17,430 --> 00:04:17,440
+makes this a total check of 1d20 plus 11
+ 
+
+269
+00:04:17,440 --> 00:04:21,030
+makes this a total check of 1d20 plus 11
+versus dc30 meaning frodo needs to roll
+
+270
+00:04:21,030 --> 00:04:21,040
+versus dc30 meaning frodo needs to roll
+ 
+
+271
+00:04:21,040 --> 00:04:24,070
+versus dc30 meaning frodo needs to roll
+a 19 or 20 on the die to break free from
+
+272
+00:04:24,070 --> 00:04:24,080
+a 19 or 20 on the die to break free from
+ 
+
+273
+00:04:24,080 --> 00:04:25,430
+a 19 or 20 on the die to break free from
+the watcher's grab
+
+274
+00:04:25,430 --> 00:04:25,440
+the watcher's grab
+ 
+
+275
+00:04:25,440 --> 00:04:28,710
+the watcher's grab
+frodo rolls a 14 for a total of 25 and
+
+276
+00:04:28,710 --> 00:04:28,720
+frodo rolls a 14 for a total of 25 and
+ 
+
+277
+00:04:28,720 --> 00:04:31,189
+frodo rolls a 14 for a total of 25 and
+fails this check he doesn't break free
+
+278
+00:04:31,189 --> 00:04:31,199
+fails this check he doesn't break free
+ 
+
+279
+00:04:31,199 --> 00:04:31,909
+fails this check he doesn't break free
+from the grab
+
+280
+00:04:31,909 --> 00:04:31,919
+from the grab
+ 
+
+281
+00:04:31,919 --> 00:04:34,150
+from the grab
+but he can try again with his second
+
+282
+00:04:34,150 --> 00:04:34,160
+but he can try again with his second
+ 
+
+283
+00:04:34,160 --> 00:04:36,390
+but he can try again with his second
+action he attempts to escape again but
+
+284
+00:04:36,390 --> 00:04:36,400
+action he attempts to escape again but
+ 
+
+285
+00:04:36,400 --> 00:04:38,230
+action he attempts to escape again but
+this time without the plus one from
+
+286
+00:04:38,230 --> 00:04:38,240
+this time without the plus one from
+ 
+
+287
+00:04:38,240 --> 00:04:39,670
+this time without the plus one from
+marion pippen's aid and
+
+288
+00:04:39,670 --> 00:04:39,680
+marion pippen's aid and
+ 
+
+289
+00:04:39,680 --> 00:04:42,150
+marion pippen's aid and
+also suffers a negative 5 multiple
+
+290
+00:04:42,150 --> 00:04:42,160
+also suffers a negative 5 multiple
+ 
+
+291
+00:04:42,160 --> 00:04:43,430
+also suffers a negative 5 multiple
+attack penalty
+
+292
+00:04:43,430 --> 00:04:43,440
+attack penalty
+ 
+
+293
+00:04:43,440 --> 00:04:45,830
+attack penalty
+remember even though frodo is using the
+
+294
+00:04:45,830 --> 00:04:45,840
+remember even though frodo is using the
+ 
+
+295
+00:04:45,840 --> 00:04:47,510
+remember even though frodo is using the
+acrobatic skill here
+
+296
+00:04:47,510 --> 00:04:47,520
+acrobatic skill here
+ 
+
+297
+00:04:47,520 --> 00:04:49,990
+acrobatic skill here
+the escape action has the attack trait
+
+298
+00:04:49,990 --> 00:04:50,000
+the escape action has the attack trait
+ 
+
+299
+00:04:50,000 --> 00:04:50,550
+the escape action has the attack trait
+therefore
+
+300
+00:04:50,550 --> 00:04:50,560
+therefore
+ 
+
+301
+00:04:50,560 --> 00:04:52,870
+therefore
+each use of escape counts towards it is
+
+302
+00:04:52,870 --> 00:04:52,880
+each use of escape counts towards it is
+ 
+
+303
+00:04:52,880 --> 00:04:55,510
+each use of escape counts towards it is
+affected by the multiple attack penalty
+
+304
+00:04:55,510 --> 00:04:55,520
+affected by the multiple attack penalty
+ 
+
+305
+00:04:55,520 --> 00:04:59,030
+affected by the multiple attack penalty
+he rolls wendy 20 plus 5 versus dc 30
+
+306
+00:04:59,030 --> 00:04:59,040
+he rolls wendy 20 plus 5 versus dc 30
+ 
+
+307
+00:04:59,040 --> 00:05:01,270
+he rolls wendy 20 plus 5 versus dc 30
+and gets a 7 on the die for a total of
+
+308
+00:05:01,270 --> 00:05:01,280
+and gets a 7 on the die for a total of
+ 
+
+309
+00:05:01,280 --> 00:05:02,150
+and gets a 7 on the die for a total of
+12.
+
+310
+00:05:02,150 --> 00:05:02,160
+12.
+ 
+
+311
+00:05:02,160 --> 00:05:04,310
+12.
+since this is more than 10 lower than
+
+312
+00:05:04,310 --> 00:05:04,320
+since this is more than 10 lower than
+ 
+
+313
+00:05:04,320 --> 00:05:05,189
+since this is more than 10 lower than
+the dc
+
+314
+00:05:05,189 --> 00:05:05,199
+the dc
+ 
+
+315
+00:05:05,199 --> 00:05:07,189
+the dc
+he critically fails the check which
+
+316
+00:05:07,189 --> 00:05:07,199
+he critically fails the check which
+ 
+
+317
+00:05:07,199 --> 00:05:09,110
+he critically fails the check which
+means he cannot attempt to escape
+
+318
+00:05:09,110 --> 00:05:09,120
+means he cannot attempt to escape
+ 
+
+319
+00:05:09,120 --> 00:05:11,990
+means he cannot attempt to escape
+again until the next round so with his
+
+320
+00:05:11,990 --> 00:05:12,000
+again until the next round so with his
+ 
+
+321
+00:05:12,000 --> 00:05:12,870
+again until the next round so with his
+third action
+
+322
+00:05:12,870 --> 00:05:12,880
+third action
+ 
+
+323
+00:05:12,880 --> 00:05:15,270
+third action
+frodo complains to gm tolkien that this
+
+324
+00:05:15,270 --> 00:05:15,280
+frodo complains to gm tolkien that this
+ 
+
+325
+00:05:15,280 --> 00:05:16,629
+frodo complains to gm tolkien that this
+encounter is not
+
+326
+00:05:16,629 --> 00:05:16,639
+encounter is not
+ 
+
+327
+00:05:16,639 --> 00:05:19,830
+encounter is not
+fair next in initiative is sam
+
+328
+00:05:19,830 --> 00:05:19,840
+fair next in initiative is sam
+ 
+
+329
+00:05:19,840 --> 00:05:21,670
+fair next in initiative is sam
+he starts his turn by calling for help
+
+330
+00:05:21,670 --> 00:05:21,680
+he starts his turn by calling for help
+ 
+
+331
+00:05:21,680 --> 00:05:23,909
+he starts his turn by calling for help
+this is a free action it doesn't cost
+
+332
+00:05:23,909 --> 00:05:23,919
+this is a free action it doesn't cost
+ 
+
+333
+00:05:23,919 --> 00:05:26,629
+this is a free action it doesn't cost
+him anything
+
+334
+00:05:26,629 --> 00:05:26,639
+
+ 
+
+335
+00:05:26,639 --> 00:05:28,469
+
+he then strikes a photo with his first
+
+336
+00:05:28,469 --> 00:05:28,479
+he then strikes a photo with his first
+ 
+
+337
+00:05:28,479 --> 00:05:30,550
+he then strikes a photo with his first
+action and makes a strike at the
+
+338
+00:05:30,550 --> 00:05:30,560
+action and makes a strike at the
+ 
+
+339
+00:05:30,560 --> 00:05:32,710
+action and makes a strike at the
+tentacle grabbing photo with his second
+
+340
+00:05:32,710 --> 00:05:32,720
+tentacle grabbing photo with his second
+ 
+
+341
+00:05:32,720 --> 00:05:33,430
+tentacle grabbing photo with his second
+action
+
+342
+00:05:33,430 --> 00:05:33,440
+action
+ 
+
+343
+00:05:33,440 --> 00:05:35,670
+action
+the watcher in the water has a feature
+
+344
+00:05:35,670 --> 00:05:35,680
+the watcher in the water has a feature
+ 
+
+345
+00:05:35,680 --> 00:05:38,230
+the watcher in the water has a feature
+called grasping tentacles this says
+
+346
+00:05:38,230 --> 00:05:38,240
+called grasping tentacles this says
+ 
+
+347
+00:05:38,240 --> 00:05:40,550
+called grasping tentacles this says
+a creature can sever a tentacle with a
+
+348
+00:05:40,550 --> 00:05:40,560
+a creature can sever a tentacle with a
+ 
+
+349
+00:05:40,560 --> 00:05:42,110
+a creature can sever a tentacle with a
+target attack that hits
+
+350
+00:05:42,110 --> 00:05:42,120
+target attack that hits
+ 
+
+351
+00:05:42,120 --> 00:05:45,110
+target attack that hits
+ac25 and deals at least 11
+
+352
+00:05:45,110 --> 00:05:45,120
+ac25 and deals at least 11
+ 
+
+353
+00:05:45,120 --> 00:05:47,670
+ac25 and deals at least 11
+slashing damage this doesn't deal any
+
+354
+00:05:47,670 --> 00:05:47,680
+slashing damage this doesn't deal any
+ 
+
+355
+00:05:47,680 --> 00:05:49,270
+slashing damage this doesn't deal any
+damage to the watcher in the water
+
+356
+00:05:49,270 --> 00:05:49,280
+damage to the watcher in the water
+ 
+
+357
+00:05:49,280 --> 00:05:50,070
+damage to the watcher in the water
+itself
+
+358
+00:05:50,070 --> 00:05:50,080
+itself
+ 
+
+359
+00:05:50,080 --> 00:05:52,070
+itself
+though it can no longer attack with a
+
+360
+00:05:52,070 --> 00:05:52,080
+though it can no longer attack with a
+ 
+
+361
+00:05:52,080 --> 00:05:53,590
+though it can no longer attack with a
+severed tentacle
+
+362
+00:05:53,590 --> 00:05:53,600
+severed tentacle
+ 
+
+363
+00:05:53,600 --> 00:05:56,150
+severed tentacle
+sam's attack hits but fails to deliver
+
+364
+00:05:56,150 --> 00:05:56,160
+sam's attack hits but fails to deliver
+ 
+
+365
+00:05:56,160 --> 00:05:58,230
+sam's attack hits but fails to deliver
+11 points of slashing damage
+
+366
+00:05:58,230 --> 00:05:58,240
+11 points of slashing damage
+ 
+
+367
+00:05:58,240 --> 00:06:00,710
+11 points of slashing damage
+so with his third action he tries again
+
+368
+00:06:00,710 --> 00:06:00,720
+so with his third action he tries again
+ 
+
+369
+00:06:00,720 --> 00:06:02,710
+so with his third action he tries again
+he makes another melee attack roll
+
+370
+00:06:02,710 --> 00:06:02,720
+he makes another melee attack roll
+ 
+
+371
+00:06:02,720 --> 00:06:05,350
+he makes another melee attack roll
+-5 due to the multiple attack penalty
+
+372
+00:06:05,350 --> 00:06:05,360
+-5 due to the multiple attack penalty
+ 
+
+373
+00:06:05,360 --> 00:06:07,510
+-5 due to the multiple attack penalty
+rolls a hit and deals enough slashing
+
+374
+00:06:07,510 --> 00:06:07,520
+rolls a hit and deals enough slashing
+ 
+
+375
+00:06:07,520 --> 00:06:07,990
+rolls a hit and deals enough slashing
+damage
+
+376
+00:06:07,990 --> 00:06:08,000
+damage
+ 
+
+377
+00:06:08,000 --> 00:06:11,029
+damage
+to cut off the tentacle and free frodo
+
+378
+00:06:11,029 --> 00:06:11,039
+to cut off the tentacle and free frodo
+ 
+
+379
+00:06:11,039 --> 00:06:13,670
+to cut off the tentacle and free frodo
+boromir gandalf gimli legolas and
+
+380
+00:06:13,670 --> 00:06:13,680
+boromir gandalf gimli legolas and
+ 
+
+381
+00:06:13,680 --> 00:06:15,830
+boromir gandalf gimli legolas and
+strider's turns are not shown in this
+
+382
+00:06:15,830 --> 00:06:15,840
+strider's turns are not shown in this
+ 
+
+383
+00:06:15,840 --> 00:06:16,230
+strider's turns are not shown in this
+clip
+
+384
+00:06:16,230 --> 00:06:16,240
+clip
+ 
+
+385
+00:06:16,240 --> 00:06:18,790
+clip
+but consist of a mix of seek recall
+
+386
+00:06:18,790 --> 00:06:18,800
+but consist of a mix of seek recall
+ 
+
+387
+00:06:18,800 --> 00:06:19,270
+but consist of a mix of seek recall
+knowledge
+
+388
+00:06:19,270 --> 00:06:19,280
+knowledge
+ 
+
+389
+00:06:19,280 --> 00:06:21,510
+knowledge
+interrupt and stride actions to assist
+
+390
+00:06:21,510 --> 00:06:21,520
+interrupt and stride actions to assist
+ 
+
+391
+00:06:21,520 --> 00:06:22,629
+interrupt and stride actions to assist
+the situation and
+
+392
+00:06:22,629 --> 00:06:22,639
+the situation and
+ 
+
+393
+00:06:22,639 --> 00:06:25,270
+the situation and
+rush to the hobbit's aid at the top of
+
+394
+00:06:25,270 --> 00:06:25,280
+rush to the hobbit's aid at the top of
+ 
+
+395
+00:06:25,280 --> 00:06:26,309
+rush to the hobbit's aid at the top of
+the second round
+
+396
+00:06:26,309 --> 00:06:26,319
+the second round
+ 
+
+397
+00:06:26,319 --> 00:06:33,670
+the second round
+the watcher uses writhing arms
+
+398
+00:06:33,670 --> 00:06:33,680
+
+ 
+
+399
+00:06:33,680 --> 00:06:36,150
+
+this ability costs two actions and
+
+400
+00:06:36,150 --> 00:06:36,160
+this ability costs two actions and
+ 
+
+401
+00:06:36,160 --> 00:06:37,590
+this ability costs two actions and
+allows the watcher to make
+
+402
+00:06:37,590 --> 00:06:37,600
+allows the watcher to make
+ 
+
+403
+00:06:37,600 --> 00:06:39,909
+allows the watcher to make
+up to four attacks with different arms
+
+404
+00:06:39,909 --> 00:06:39,919
+up to four attacks with different arms
+ 
+
+405
+00:06:39,919 --> 00:06:41,830
+up to four attacks with different arms
+each at a different target
+
+406
+00:06:41,830 --> 00:06:41,840
+each at a different target
+ 
+
+407
+00:06:41,840 --> 00:06:44,150
+each at a different target
+in this case the watcher targets each of
+
+408
+00:06:44,150 --> 00:06:44,160
+in this case the watcher targets each of
+ 
+
+409
+00:06:44,160 --> 00:06:45,590
+in this case the watcher targets each of
+the four hobbits
+
+410
+00:06:45,590 --> 00:06:45,600
+the four hobbits
+ 
+
+411
+00:06:45,600 --> 00:06:48,150
+the four hobbits
+it hits all four hobbits dealing 2d 8
+
+412
+00:06:48,150 --> 00:06:48,160
+it hits all four hobbits dealing 2d 8
+ 
+
+413
+00:06:48,160 --> 00:06:49,749
+it hits all four hobbits dealing 2d 8
+plus 9 bludgeoning damage to each of
+
+414
+00:06:49,749 --> 00:06:49,759
+plus 9 bludgeoning damage to each of
+ 
+
+415
+00:06:49,759 --> 00:06:50,150
+plus 9 bludgeoning damage to each of
+them
+
+416
+00:06:50,150 --> 00:06:50,160
+them
+ 
+
+417
+00:06:50,160 --> 00:06:52,790
+them
+and the last line of the ability says if
+
+418
+00:06:52,790 --> 00:06:52,800
+and the last line of the ability says if
+ 
+
+419
+00:06:52,800 --> 00:06:54,870
+and the last line of the ability says if
+the watcher in the water subsequently
+
+420
+00:06:54,870 --> 00:06:54,880
+the watcher in the water subsequently
+ 
+
+421
+00:06:54,880 --> 00:06:55,830
+the watcher in the water subsequently
+uses the grab
+
+422
+00:06:55,830 --> 00:06:55,840
+uses the grab
+ 
+
+423
+00:06:55,840 --> 00:06:58,710
+uses the grab
+action it can grab or knock down any
+
+424
+00:06:58,710 --> 00:06:58,720
+action it can grab or knock down any
+ 
+
+425
+00:06:58,720 --> 00:07:00,629
+action it can grab or knock down any
+number of creatures it hit with writhing
+
+426
+00:07:00,629 --> 00:07:00,639
+number of creatures it hit with writhing
+ 
+
+427
+00:07:00,639 --> 00:07:01,350
+number of creatures it hit with writhing
+arms
+
+428
+00:07:01,350 --> 00:07:01,360
+arms
+ 
+
+429
+00:07:01,360 --> 00:07:03,270
+arms
+the watcher does this with his third
+
+430
+00:07:03,270 --> 00:07:03,280
+the watcher does this with his third
+ 
+
+431
+00:07:03,280 --> 00:07:05,110
+the watcher does this with his third
+action and chooses to grab
+
+432
+00:07:05,110 --> 00:07:05,120
+action and chooses to grab
+ 
+
+433
+00:07:05,120 --> 00:07:08,629
+action and chooses to grab
+frodo and knock down mary pippen and sam
+
+434
+00:07:08,629 --> 00:07:08,639
+frodo and knock down mary pippen and sam
+ 
+
+435
+00:07:08,639 --> 00:07:11,029
+frodo and knock down mary pippen and sam
+so frodo once again gains the grabbed
+
+436
+00:07:11,029 --> 00:07:11,039
+so frodo once again gains the grabbed
+ 
+
+437
+00:07:11,039 --> 00:07:11,749
+so frodo once again gains the grabbed
+condition
+
+438
+00:07:11,749 --> 00:07:11,759
+condition
+ 
+
+439
+00:07:11,759 --> 00:07:14,710
+condition
+and the others gain the prone condition
+
+440
+00:07:14,710 --> 00:07:14,720
+and the others gain the prone condition
+ 
+
+441
+00:07:14,720 --> 00:07:15,990
+and the others gain the prone condition
+as we see in the clip
+
+442
+00:07:15,990 --> 00:07:16,000
+as we see in the clip
+ 
+
+443
+00:07:16,000 --> 00:07:18,309
+as we see in the clip
+once frodo is grabbed the watcher pulls
+
+444
+00:07:18,309 --> 00:07:18,319
+once frodo is grabbed the watcher pulls
+ 
+
+445
+00:07:18,319 --> 00:07:19,670
+once frodo is grabbed the watcher pulls
+him three squares
+
+446
+00:07:19,670 --> 00:07:19,680
+him three squares
+ 
+
+447
+00:07:19,680 --> 00:07:22,629
+him three squares
+and holds him high over the water frodo
+
+448
+00:07:22,629 --> 00:07:22,639
+and holds him high over the water frodo
+ 
+
+449
+00:07:22,639 --> 00:07:24,070
+and holds him high over the water frodo
+complains as a free action
+
+450
+00:07:24,070 --> 00:07:24,080
+complains as a free action
+ 
+
+451
+00:07:24,080 --> 00:07:26,230
+complains as a free action
+saying it's not fair that he was singled
+
+452
+00:07:26,230 --> 00:07:26,240
+saying it's not fair that he was singled
+ 
+
+453
+00:07:26,240 --> 00:07:27,110
+saying it's not fair that he was singled
+out to be grabbed
+
+454
+00:07:27,110 --> 00:07:27,120
+out to be grabbed
+ 
+
+455
+00:07:27,120 --> 00:07:28,550
+out to be grabbed
+while the others were merely knocked
+
+456
+00:07:28,550 --> 00:07:28,560
+while the others were merely knocked
+ 
+
+457
+00:07:28,560 --> 00:07:30,950
+while the others were merely knocked
+down and reminds gm tolkien
+
+458
+00:07:30,950 --> 00:07:30,960
+down and reminds gm tolkien
+ 
+
+459
+00:07:30,960 --> 00:07:33,110
+down and reminds gm tolkien
+that there is nothing in raw that says
+
+460
+00:07:33,110 --> 00:07:33,120
+that there is nothing in raw that says
+ 
+
+461
+00:07:33,120 --> 00:07:35,430
+that there is nothing in raw that says
+when a creature is grabbed by a large or
+
+462
+00:07:35,430 --> 00:07:35,440
+when a creature is grabbed by a large or
+ 
+
+463
+00:07:35,440 --> 00:07:36,550
+when a creature is grabbed by a large or
+huge sized monster
+
+464
+00:07:36,550 --> 00:07:36,560
+huge sized monster
+ 
+
+465
+00:07:36,560 --> 00:07:38,390
+huge sized monster
+that the monster can freely pull their
+
+466
+00:07:38,390 --> 00:07:38,400
+that the monster can freely pull their
+ 
+
+467
+00:07:38,400 --> 00:07:39,830
+that the monster can freely pull their
+grabbed target closer
+
+468
+00:07:39,830 --> 00:07:39,840
+grabbed target closer
+ 
+
+469
+00:07:39,840 --> 00:07:41,830
+grabbed target closer
+in this case the watcher was not
+
+470
+00:07:41,830 --> 00:07:41,840
+in this case the watcher was not
+ 
+
+471
+00:07:41,840 --> 00:07:43,830
+in this case the watcher was not
+dragging frodo as it had before
+
+472
+00:07:43,830 --> 00:07:43,840
+dragging frodo as it had before
+ 
+
+473
+00:07:43,840 --> 00:07:46,070
+dragging frodo as it had before
+and the grip ability does not allow for
+
+474
+00:07:46,070 --> 00:07:46,080
+and the grip ability does not allow for
+ 
+
+475
+00:07:46,080 --> 00:07:48,550
+and the grip ability does not allow for
+this kind of force movement by raw
+
+476
+00:07:48,550 --> 00:07:48,560
+this kind of force movement by raw
+ 
+
+477
+00:07:48,560 --> 00:07:50,790
+this kind of force movement by raw
+now gm tolkien strongly believes that
+
+478
+00:07:50,790 --> 00:07:50,800
+now gm tolkien strongly believes that
+ 
+
+479
+00:07:50,800 --> 00:07:52,710
+now gm tolkien strongly believes that
+pulling frodo a few squares closer and
+
+480
+00:07:52,710 --> 00:07:52,720
+pulling frodo a few squares closer and
+ 
+
+481
+00:07:52,720 --> 00:07:54,469
+pulling frodo a few squares closer and
+holding him over the water is
+
+482
+00:07:54,469 --> 00:07:54,479
+holding him over the water is
+ 
+
+483
+00:07:54,479 --> 00:07:57,189
+holding him over the water is
+exciting cinematic and will add tension
+
+484
+00:07:57,189 --> 00:07:57,199
+exciting cinematic and will add tension
+ 
+
+485
+00:07:57,199 --> 00:07:58,309
+exciting cinematic and will add tension
+to the scene
+
+486
+00:07:58,309 --> 00:07:58,319
+to the scene
+ 
+
+487
+00:07:58,319 --> 00:08:00,869
+to the scene
+and he really doesn't care if raw
+
+488
+00:08:00,869 --> 00:08:00,879
+and he really doesn't care if raw
+ 
+
+489
+00:08:00,879 --> 00:08:02,230
+and he really doesn't care if raw
+doesn't allow for it
+
+490
+00:08:02,230 --> 00:08:02,240
+doesn't allow for it
+ 
+
+491
+00:08:02,240 --> 00:08:04,230
+doesn't allow for it
+he's the gm and he's empowered to do
+
+492
+00:08:04,230 --> 00:08:04,240
+he's the gm and he's empowered to do
+ 
+
+493
+00:08:04,240 --> 00:08:06,230
+he's the gm and he's empowered to do
+whatever he believes is appropriate
+
+494
+00:08:06,230 --> 00:08:06,240
+whatever he believes is appropriate
+ 
+
+495
+00:08:06,240 --> 00:08:09,029
+whatever he believes is appropriate
+to provide for a fun and exciting game
+
+496
+00:08:09,029 --> 00:08:09,039
+to provide for a fun and exciting game
+ 
+
+497
+00:08:09,039 --> 00:08:10,629
+to provide for a fun and exciting game
+now the rest of the fellowship has
+
+498
+00:08:10,629 --> 00:08:10,639
+now the rest of the fellowship has
+ 
+
+499
+00:08:10,639 --> 00:08:11,189
+now the rest of the fellowship has
+arrived
+
+500
+00:08:11,189 --> 00:08:11,199
+arrived
+ 
+
+501
+00:08:11,199 --> 00:08:14,469
+arrived
+and is legolas's turn he spins his first
+
+502
+00:08:14,469 --> 00:08:14,479
+and is legolas's turn he spins his first
+ 
+
+503
+00:08:14,479 --> 00:08:15,749
+and is legolas's turn he spins his first
+two actions to stride
+
+504
+00:08:15,749 --> 00:08:15,759
+two actions to stride
+ 
+
+505
+00:08:15,759 --> 00:08:17,430
+two actions to stride
+out of the mine and with his third
+
+506
+00:08:17,430 --> 00:08:17,440
+out of the mine and with his third
+ 
+
+507
+00:08:17,440 --> 00:08:19,589
+out of the mine and with his third
+action he attempts to free frodo as sam
+
+508
+00:08:19,589 --> 00:08:19,599
+action he attempts to free frodo as sam
+ 
+
+509
+00:08:19,599 --> 00:08:20,629
+action he attempts to free frodo as sam
+had done before
+
+510
+00:08:20,629 --> 00:08:20,639
+had done before
+ 
+
+511
+00:08:20,639 --> 00:08:22,390
+had done before
+by attacking the tentacle that's holding
+
+512
+00:08:22,390 --> 00:08:22,400
+by attacking the tentacle that's holding
+ 
+
+513
+00:08:22,400 --> 00:08:24,309
+by attacking the tentacle that's holding
+him he rolls a success for the attack
+
+514
+00:08:24,309 --> 00:08:24,319
+him he rolls a success for the attack
+ 
+
+515
+00:08:24,319 --> 00:08:25,589
+him he rolls a success for the attack
+and hits the tentacle
+
+516
+00:08:25,589 --> 00:08:25,599
+and hits the tentacle
+ 
+
+517
+00:08:25,599 --> 00:08:28,230
+and hits the tentacle
+but unfortunately the text for grasping
+
+518
+00:08:28,230 --> 00:08:28,240
+but unfortunately the text for grasping
+ 
+
+519
+00:08:28,240 --> 00:08:29,350
+but unfortunately the text for grasping
+tentacles says
+
+520
+00:08:29,350 --> 00:08:29,360
+tentacles says
+ 
+
+521
+00:08:29,360 --> 00:08:31,990
+tentacles says
+it takes 11 points of slashing damage to
+
+522
+00:08:31,990 --> 00:08:32,000
+it takes 11 points of slashing damage to
+ 
+
+523
+00:08:32,000 --> 00:08:33,750
+it takes 11 points of slashing damage to
+free a grabbed creature
+
+524
+00:08:33,750 --> 00:08:33,760
+free a grabbed creature
+ 
+
+525
+00:08:33,760 --> 00:08:36,949
+free a grabbed creature
+and legolas bow deals piercing damage
+
+526
+00:08:36,949 --> 00:08:36,959
+and legolas bow deals piercing damage
+ 
+
+527
+00:08:36,959 --> 00:08:39,990
+and legolas bow deals piercing damage
+so gm tolkien says sorry it was a good
+
+528
+00:08:39,990 --> 00:08:40,000
+so gm tolkien says sorry it was a good
+ 
+
+529
+00:08:40,000 --> 00:08:42,469
+so gm tolkien says sorry it was a good
+idea but piercing damage won't work for
+
+530
+00:08:42,469 --> 00:08:42,479
+idea but piercing damage won't work for
+ 
+
+531
+00:08:42,479 --> 00:08:43,990
+idea but piercing damage won't work for
+this
+
+532
+00:08:43,990 --> 00:08:44,000
+this
+ 
+
+533
+00:08:44,000 --> 00:08:45,910
+this
+strider and boromir both spin their
+
+534
+00:08:45,910 --> 00:08:45,920
+strider and boromir both spin their
+ 
+
+535
+00:08:45,920 --> 00:08:48,150
+strider and boromir both spin their
+first actions to stride into the water
+
+536
+00:08:48,150 --> 00:08:48,160
+first actions to stride into the water
+ 
+
+537
+00:08:48,160 --> 00:08:50,070
+first actions to stride into the water
+which counts as greater difficult
+
+538
+00:08:50,070 --> 00:08:50,080
+which counts as greater difficult
+ 
+
+539
+00:08:50,080 --> 00:08:51,910
+which counts as greater difficult
+terrain at this depth
+
+540
+00:08:51,910 --> 00:08:51,920
+terrain at this depth
+ 
+
+541
+00:08:51,920 --> 00:08:54,230
+terrain at this depth
+boromir then spins his second and third
+
+542
+00:08:54,230 --> 00:08:54,240
+boromir then spins his second and third
+ 
+
+543
+00:08:54,240 --> 00:08:55,910
+boromir then spins his second and third
+actions to make melee sword attacks
+
+544
+00:08:55,910 --> 00:08:55,920
+actions to make melee sword attacks
+ 
+
+545
+00:08:55,920 --> 00:08:57,190
+actions to make melee sword attacks
+against the watcher
+
+546
+00:08:57,190 --> 00:08:57,200
+against the watcher
+ 
+
+547
+00:08:57,200 --> 00:08:59,269
+against the watcher
+both attacks hit and deal damage to the
+
+548
+00:08:59,269 --> 00:08:59,279
+both attacks hit and deal damage to the
+ 
+
+549
+00:08:59,279 --> 00:09:00,389
+both attacks hit and deal damage to the
+monster's hit points
+
+550
+00:09:00,389 --> 00:09:00,399
+monster's hit points
+ 
+
+551
+00:09:00,399 --> 00:09:02,870
+monster's hit points
+and gm tolkien describes this damage in
+
+552
+00:09:02,870 --> 00:09:02,880
+and gm tolkien describes this damage in
+ 
+
+553
+00:09:02,880 --> 00:09:03,910
+and gm tolkien describes this damage in
+the narrative
+
+554
+00:09:03,910 --> 00:09:03,920
+the narrative
+ 
+
+555
+00:09:03,920 --> 00:09:06,949
+the narrative
+as boromir lopping off stray tentacles
+
+556
+00:09:06,949 --> 00:09:06,959
+as boromir lopping off stray tentacles
+ 
+
+557
+00:09:06,959 --> 00:09:10,389
+as boromir lopping off stray tentacles
+just not the one that is holding frodo
+
+558
+00:09:10,389 --> 00:09:10,399
+just not the one that is holding frodo
+ 
+
+559
+00:09:10,399 --> 00:09:12,790
+just not the one that is holding frodo
+then on strider's turn after he moves
+
+560
+00:09:12,790 --> 00:09:12,800
+then on strider's turn after he moves
+ 
+
+561
+00:09:12,800 --> 00:09:13,670
+then on strider's turn after he moves
+into the water
+
+562
+00:09:13,670 --> 00:09:13,680
+into the water
+ 
+
+563
+00:09:13,680 --> 00:09:15,590
+into the water
+he makes two attacks against the
+
+564
+00:09:15,590 --> 00:09:15,600
+he makes two attacks against the
+ 
+
+565
+00:09:15,600 --> 00:09:17,990
+he makes two attacks against the
+tentacle that's holding frodo captive
+
+566
+00:09:17,990 --> 00:09:18,000
+tentacle that's holding frodo captive
+ 
+
+567
+00:09:18,000 --> 00:09:20,230
+tentacle that's holding frodo captive
+the first attack hits but he rolls once
+
+568
+00:09:20,230 --> 00:09:20,240
+the first attack hits but he rolls once
+ 
+
+569
+00:09:20,240 --> 00:09:21,829
+the first attack hits but he rolls once
+for the damage and is not
+
+570
+00:09:21,829 --> 00:09:21,839
+for the damage and is not
+ 
+
+571
+00:09:21,839 --> 00:09:24,150
+for the damage and is not
+enough to cut through the tentacle but
+
+572
+00:09:24,150 --> 00:09:24,160
+enough to cut through the tentacle but
+ 
+
+573
+00:09:24,160 --> 00:09:25,430
+enough to cut through the tentacle but
+with his third action
+
+574
+00:09:25,430 --> 00:09:25,440
+with his third action
+ 
+
+575
+00:09:25,440 --> 00:09:28,470
+with his third action
+he attacks again hits rolls more than 11
+
+576
+00:09:28,470 --> 00:09:28,480
+he attacks again hits rolls more than 11
+ 
+
+577
+00:09:28,480 --> 00:09:30,150
+he attacks again hits rolls more than 11
+points of slashing damage and
+
+578
+00:09:30,150 --> 00:09:30,160
+points of slashing damage and
+ 
+
+579
+00:09:30,160 --> 00:09:33,670
+points of slashing damage and
+finally frees frodo and now in the third
+
+580
+00:09:33,670 --> 00:09:33,680
+finally frees frodo and now in the third
+ 
+
+581
+00:09:33,680 --> 00:09:34,870
+finally frees frodo and now in the third
+round of the encounter
+
+582
+00:09:34,870 --> 00:09:34,880
+round of the encounter
+ 
+
+583
+00:09:34,880 --> 00:09:37,269
+round of the encounter
+the fellowship wisely flees into the
+
+584
+00:09:37,269 --> 00:09:37,279
+the fellowship wisely flees into the
+ 
+
+585
+00:09:37,279 --> 00:09:37,910
+the fellowship wisely flees into the
+mine
+
+586
+00:09:37,910 --> 00:09:37,920
+mine
+ 
+
+587
+00:09:37,920 --> 00:09:40,230
+mine
+it takes strider and boromir two stride
+
+588
+00:09:40,230 --> 00:09:40,240
+it takes strider and boromir two stride
+ 
+
+589
+00:09:40,240 --> 00:09:41,110
+it takes strider and boromir two stride
+actions to walk
+
+590
+00:09:41,110 --> 00:09:41,120
+actions to walk
+ 
+
+591
+00:09:41,120 --> 00:09:42,870
+actions to walk
+out of the greater difficult train
+
+592
+00:09:42,870 --> 00:09:42,880
+out of the greater difficult train
+ 
+
+593
+00:09:42,880 --> 00:09:44,949
+out of the greater difficult train
+imposed by the water and their third
+
+594
+00:09:44,949 --> 00:09:44,959
+imposed by the water and their third
+ 
+
+595
+00:09:44,959 --> 00:09:46,550
+imposed by the water and their third
+actions to enter the mine
+
+596
+00:09:46,550 --> 00:09:46,560
+actions to enter the mine
+ 
+
+597
+00:09:46,560 --> 00:09:48,870
+actions to enter the mine
+while legolas is able to spend one
+
+598
+00:09:48,870 --> 00:09:48,880
+while legolas is able to spend one
+ 
+
+599
+00:09:48,880 --> 00:09:51,030
+while legolas is able to spend one
+action to attack the monster before he
+
+600
+00:09:51,030 --> 00:09:51,040
+action to attack the monster before he
+ 
+
+601
+00:09:51,040 --> 00:09:58,470
+action to attack the monster before he
+has to flee
+
+602
+00:09:58,470 --> 00:09:58,480
+
+ 
+
+603
+00:09:58,480 --> 00:10:01,190
+
+he makes a range attack rolls a natural
+
+604
+00:10:01,190 --> 00:10:01,200
+he makes a range attack rolls a natural
+ 
+
+605
+00:10:01,200 --> 00:10:03,350
+he makes a range attack rolls a natural
+20 and gets to draw a card from the
+
+606
+00:10:03,350 --> 00:10:03,360
+20 and gets to draw a card from the
+ 
+
+607
+00:10:03,360 --> 00:10:04,069
+20 and gets to draw a card from the
+critical hit
+
+608
+00:10:04,069 --> 00:10:04,079
+critical hit
+ 
+
+609
+00:10:04,079 --> 00:10:06,790
+critical hit
+deck his bow deals piercing damage and
+
+610
+00:10:06,790 --> 00:10:06,800
+deck his bow deals piercing damage and
+ 
+
+611
+00:10:06,800 --> 00:10:07,829
+deck his bow deals piercing damage and
+the piercing effect
+
+612
+00:10:07,829 --> 00:10:07,839
+the piercing effect
+ 
+
+613
+00:10:07,839 --> 00:10:10,310
+the piercing effect
+on the card he drew is titled eye patch
+
+614
+00:10:10,310 --> 00:10:10,320
+on the card he drew is titled eye patch
+ 
+
+615
+00:10:10,320 --> 00:10:11,509
+on the card he drew is titled eye patch
+for you
+
+616
+00:10:11,509 --> 00:10:11,519
+for you
+ 
+
+617
+00:10:11,519 --> 00:10:14,310
+for you
+this attack deals triple damage and the
+
+618
+00:10:14,310 --> 00:10:14,320
+this attack deals triple damage and the
+ 
+
+619
+00:10:14,320 --> 00:10:15,269
+this attack deals triple damage and the
+watcher in the water
+
+620
+00:10:15,269 --> 00:10:15,279
+watcher in the water
+ 
+
+621
+00:10:15,279 --> 00:10:18,230
+watcher in the water
+will be dazzled until healed it's a
+
+622
+00:10:18,230 --> 00:10:18,240
+will be dazzled until healed it's a
+ 
+
+623
+00:10:18,240 --> 00:10:19,670
+will be dazzled until healed it's a
+solid hit but not
+
+624
+00:10:19,670 --> 00:10:19,680
+solid hit but not
+ 
+
+625
+00:10:19,680 --> 00:10:21,670
+solid hit but not
+enough to put the monster down so
+
+626
+00:10:21,670 --> 00:10:21,680
+enough to put the monster down so
+ 
+
+627
+00:10:21,680 --> 00:10:23,670
+enough to put the monster down so
+legolas spends the rest of his actions
+
+628
+00:10:23,670 --> 00:10:23,680
+legolas spends the rest of his actions
+ 
+
+629
+00:10:23,680 --> 00:10:25,590
+legolas spends the rest of his actions
+to flee into the mine with the others
+
+630
+00:10:25,590 --> 00:10:25,600
+to flee into the mine with the others
+ 
+
+631
+00:10:25,600 --> 00:10:27,829
+to flee into the mine with the others
+and on the watcher's turn it collapses
+
+632
+00:10:27,829 --> 00:10:27,839
+and on the watcher's turn it collapses
+ 
+
+633
+00:10:27,839 --> 00:10:30,310
+and on the watcher's turn it collapses
+the mine's doorway behind them
+
+634
+00:10:30,310 --> 00:10:30,320
+the mine's doorway behind them
+ 
+
+635
+00:10:30,320 --> 00:10:44,829
+the mine's doorway behind them
+now let's watch that encounter one more
+
+636
+00:10:44,829 --> 00:10:44,839
+
+ 
+
+637
+00:10:44,839 --> 00:11:00,150
+
+time
+
+638
+00:11:00,150 --> 00:11:00,160
+
+ 
+
+639
+00:11:00,160 --> 00:11:15,670
+
+my god
+
+640
+00:11:15,670 --> 00:11:15,680
+my god
+ 
+
+641
+00:11:15,680 --> 00:11:32,470
+my god
+my god
+
+642
+00:11:32,470 --> 00:11:32,480
+
+ 
+
+643
+00:11:32,480 --> 00:11:34,230
+
+that's one way this could have gone but
+
+644
+00:11:34,230 --> 00:11:34,240
+that's one way this could have gone but
+ 
+
+645
+00:11:34,240 --> 00:11:35,590
+that's one way this could have gone but
+there are others
+
+646
+00:11:35,590 --> 00:11:35,600
+there are others
+ 
+
+647
+00:11:35,600 --> 00:11:37,590
+there are others
+food for thought for everybody viewing
+
+648
+00:11:37,590 --> 00:11:37,600
+food for thought for everybody viewing
+ 
+
+649
+00:11:37,600 --> 00:11:39,269
+food for thought for everybody viewing
+in my version of events
+
+650
+00:11:39,269 --> 00:11:39,279
+in my version of events
+ 
+
+651
+00:11:39,279 --> 00:11:41,509
+in my version of events
+gm talking hand waved the usual
+
+652
+00:11:41,509 --> 00:11:41,519
+gm talking hand waved the usual
+ 
+
+653
+00:11:41,519 --> 00:11:42,870
+gm talking hand waved the usual
+restrictions of raw
+
+654
+00:11:42,870 --> 00:11:42,880
+restrictions of raw
+ 
+
+655
+00:11:42,880 --> 00:11:44,949
+restrictions of raw
+and allowed the watcher in the water to
+
+656
+00:11:44,949 --> 00:11:44,959
+and allowed the watcher in the water to
+ 
+
+657
+00:11:44,959 --> 00:11:46,389
+and allowed the watcher in the water to
+use the grab action
+
+658
+00:11:46,389 --> 00:11:46,399
+use the grab action
+ 
+
+659
+00:11:46,399 --> 00:11:49,430
+use the grab action
+to force movement upon frodo would you
+
+660
+00:11:49,430 --> 00:11:49,440
+to force movement upon frodo would you
+ 
+
+661
+00:11:49,440 --> 00:11:50,710
+to force movement upon frodo would you
+have handled that situation
+
+662
+00:11:50,710 --> 00:11:50,720
+have handled that situation
+ 
+
+663
+00:11:50,720 --> 00:11:53,430
+have handled that situation
+any differently in your games leave your
+
+664
+00:11:53,430 --> 00:11:53,440
+any differently in your games leave your
+ 
+
+665
+00:11:53,440 --> 00:11:55,990
+any differently in your games leave your
+thoughts and reasoning in the comments
+
+666
+00:11:55,990 --> 00:11:56,000
+thoughts and reasoning in the comments
+ 
+
+667
+00:11:56,000 --> 00:11:57,750
+thoughts and reasoning in the comments
+as a follow up to this video i will
+
+668
+00:11:57,750 --> 00:11:57,760
+as a follow up to this video i will
+ 
+
+669
+00:11:57,760 --> 00:11:59,990
+as a follow up to this video i will
+leave links to my full rule explanation
+
+670
+00:11:59,990 --> 00:12:00,000
+leave links to my full rule explanation
+ 
+
+671
+00:12:00,000 --> 00:12:01,190
+leave links to my full rule explanation
+videos on the grab
+
+672
+00:12:01,190 --> 00:12:01,200
+videos on the grab
+ 
+
+673
+00:12:01,200 --> 00:12:03,110
+videos on the grab
+action stealth and damage in the
+
+674
+00:12:03,110 --> 00:12:03,120
+action stealth and damage in the
+ 
+
+675
+00:12:03,120 --> 00:12:04,870
+action stealth and damage in the
+description and please leave your
+
+676
+00:12:04,870 --> 00:12:04,880
+description and please leave your
+ 
+
+677
+00:12:04,880 --> 00:12:06,949
+description and please leave your
+suggestions for future battle breakdowns
+
+678
+00:12:06,949 --> 00:12:06,959
+suggestions for future battle breakdowns
+ 
+
+679
+00:12:06,959 --> 00:12:07,910
+suggestions for future battle breakdowns
+in the comments
+
+680
+00:12:07,910 --> 00:12:07,920
+in the comments
+ 
+
+681
+00:12:07,920 --> 00:12:09,829
+in the comments
+and as always i want to thank all of my
+
+682
+00:12:09,829 --> 00:12:09,839
+and as always i want to thank all of my
+ 
+
+683
+00:12:09,839 --> 00:12:11,829
+and as always i want to thank all of my
+patrons and everyone else who supports
+
+684
+00:12:11,829 --> 00:12:11,839
+patrons and everyone else who supports
+ 
+
+685
+00:12:11,839 --> 00:12:13,509
+patrons and everyone else who supports
+me by subscribing and liking these
+
+686
+00:12:13,509 --> 00:12:13,519
+me by subscribing and liking these
+ 
+
+687
+00:12:13,519 --> 00:12:14,550
+me by subscribing and liking these
+videos
+
+688
+00:12:14,550 --> 00:12:14,560
+videos
+ 
+
+689
+00:12:14,560 --> 00:12:22,829
+videos
+until next time take care and happy
+
+690
+00:12:22,829 --> 00:12:22,839
+
+ 
+
+691
+00:12:22,839 --> 00:12:29,030
+
+gaming
+
+692
+00:12:29,030 --> 00:12:29,040
+
+ 
+
+693
+00:12:29,040 --> 00:12:36,000
+
+i have no memory of this place
+

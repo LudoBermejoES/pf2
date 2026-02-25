@@ -1,0 +1,3395 @@
+1
+00:00:00,960 --> 00:00:03,030
+
+Este video es presentado por Roll for
+
+2
+00:00:03,030 --> 00:00:03,040
+Este video es presentado por Roll for
+ 
+
+3
+00:00:03,040 --> 00:00:03,590
+Este video es presentado por Roll for
+Combat
+
+4
+00:00:03,590 --> 00:00:03,600
+Combat
+ 
+
+5
+00:00:03,600 --> 00:00:06,070
+Combat
+y The Fall of Peststone, un
+
+6
+00:00:06,070 --> 00:00:06,080
+y The Fall of Peststone, un
+ 
+
+7
+00:00:06,080 --> 00:00:08,629
+y The Fall of Peststone, un
+podcast oficial de Piezo Real Play.
+
+8
+00:00:08,629 --> 00:00:08,639
+podcast oficial de Piezo Real Play.
+ 
+
+9
+00:00:08,639 --> 00:00:11,270
+podcast oficial de Piezo Real Play.
+Únete a Peru Cade Brixley y Celeste mientras se
+
+10
+00:00:11,270 --> 00:00:11,280
+Únete a Peru Cade Brixley y Celeste mientras se
+ 
+
+11
+00:00:11,280 --> 00:00:13,350
+Únete a Peru Cade Brixley y Celeste mientras se
+unen para salvar la aldea
+
+12
+00:00:13,350 --> 00:00:13,360
+unen para salvar la aldea
+ 
+
+13
+00:00:13,360 --> 00:00:15,669
+unen para salvar la aldea
+de Peststone de la destrucción total.
+
+14
+00:00:15,669 --> 00:00:15,679
+de Peststone de la destrucción total.
+ 
+
+15
+00:00:15,679 --> 00:00:18,349
+de Peststone de la destrucción total.
+Escucha ahora The Fall of Peststone en
+
+16
+00:00:18,349 --> 00:00:18,359
+Escucha ahora The Fall of Peststone en
+ 
+
+17
+00:00:18,359 --> 00:00:21,510
+Escucha ahora The Fall of Peststone en
+roll4combat.com.
+
+18
+00:00:21,510 --> 00:00:21,520
+
+ 
+
+19
+00:00:21,520 --> 00:00:23,109
+
+Hola y bienvenido a Medicina y
+
+20
+00:00:23,109 --> 00:00:23,119
+Hola y bienvenido a Medicina y
+ 
+
+21
+00:00:23,119 --> 00:00:24,870
+Hola y bienvenido a Medicina y
+Pathfinder Segunda Edición. Cómo se
+
+22
+00:00:24,870 --> 00:00:24,880
+Pathfinder Segunda Edición. Cómo se
+ 
+
+23
+00:00:24,880 --> 00:00:25,509
+Pathfinder Segunda Edición. Cómo se
+juega:
+
+24
+00:00:25,509 --> 00:00:25,519
+juega:
+ 
+
+25
+00:00:25,519 --> 00:00:27,269
+juega:
+la habilidad de Medicina se usa para restaurar
+
+26
+00:00:27,269 --> 00:00:27,279
+la habilidad de Medicina se usa para restaurar
+ 
+
+27
+00:00:27,279 --> 00:00:29,509
+la habilidad de Medicina se usa para restaurar
+puntos de golpe, eliminar afecciones médicas
+
+28
+00:00:29,509 --> 00:00:29,519
+puntos de golpe, eliminar afecciones médicas
+ 
+
+29
+00:00:29,519 --> 00:00:31,429
+puntos de golpe, eliminar afecciones médicas
+y determinar la salud y el bienestar
+
+30
+00:00:31,429 --> 00:00:31,439
+y determinar la salud y el bienestar
+ 
+
+31
+00:00:31,439 --> 00:00:33,350
+y determinar la salud y el bienestar
+de las criaturas. Hablemos de cada una de
+
+32
+00:00:33,350 --> 00:00:33,360
+de las criaturas. Hablemos de cada una de
+ 
+
+33
+00:00:33,360 --> 00:00:36,389
+de las criaturas. Hablemos de cada una de
+ellas por turno.
+
+34
+00:00:36,389 --> 00:00:36,399
+
+ 
+
+35
+00:00:36,399 --> 00:00:38,470
+
+Comenzaremos con una descripción general de Tratar
+
+36
+00:00:38,470 --> 00:00:38,480
+Comenzaremos con una descripción general de Tratar
+ 
+
+37
+00:00:38,480 --> 00:00:40,950
+Comenzaremos con una descripción general de Tratar
+heridas: este es el principal medio
+
+38
+00:00:40,950 --> 00:00:40,960
+heridas: este es el principal medio
+ 
+
+39
+00:00:40,960 --> 00:00:42,389
+heridas: este es el principal medio
+de curación no mágica del juego
+
+40
+00:00:42,389 --> 00:00:42,399
+de curación no mágica del juego
+ 
+
+41
+00:00:42,399 --> 00:00:43,910
+de curación no mágica del juego
+y requiere que estés entrenado en
+
+42
+00:00:43,910 --> 00:00:43,920
+y requiere que estés entrenado en
+ 
+
+43
+00:00:43,920 --> 00:00:46,549
+y requiere que estés entrenado en
+Medicina para usarla. Toma 10 minutos de
+
+44
+00:00:46,549 --> 00:00:46,559
+Medicina para usarla. Toma 10 minutos de
+ 
+
+45
+00:00:46,559 --> 00:00:47,029
+Medicina para usarla. Toma 10 minutos de
+trabajo
+
+46
+00:00:47,029 --> 00:00:47,039
+trabajo
+ 
+
+47
+00:00:47,039 --> 00:00:48,869
+trabajo
+y debes tener herramientas de sanador
+
+48
+00:00:48,869 --> 00:00:48,879
+y debes tener herramientas de sanador
+ 
+
+49
+00:00:48,879 --> 00:00:50,470
+y debes tener herramientas de sanador
+para intentarlo.
+
+50
+00:00:50,470 --> 00:00:50,480
+para intentarlo.
+ 
+
+51
+00:00:50,480 --> 00:00:52,229
+para intentarlo.
+Después de 10 minutos de atender las
+
+52
+00:00:52,229 --> 00:00:52,239
+Después de 10 minutos de atender las
+ 
+
+53
+00:00:52,239 --> 00:00:54,310
+Después de 10 minutos de atender las
+heridas de una criatura, realizas una prueba de Medicina.
+
+54
+00:00:54,310 --> 00:00:54,320
+heridas de una criatura, realizas una prueba de Medicina.
+ 
+
+55
+00:00:54,320 --> 00:00:55,029
+heridas de una criatura, realizas una prueba de Medicina.
+
+56
+00:00:55,029 --> 00:00:55,039
+
+ 
+
+57
+00:00:55,039 --> 00:00:58,150
+
+La CD inicial para esta prueba es 15 y,
+
+58
+00:00:58,150 --> 00:00:58,160
+La CD inicial para esta prueba es 15 y,
+ 
+
+59
+00:00:58,160 --> 00:01:00,229
+La CD inicial para esta prueba es 15 y,
+con un éxito, tu paciente cura
+
+60
+00:01:00,229 --> 00:01:00,239
+con un éxito, tu paciente cura
+ 
+
+61
+00:01:00,239 --> 00:01:04,310
+con un éxito, tu paciente cura
+2d8 puntos de golpe y también pierde por completo
+
+62
+00:01:04,310 --> 00:01:04,320
+2d8 puntos de golpe y también pierde por completo
+ 
+
+63
+00:01:04,320 --> 00:01:05,830
+2d8 puntos de golpe y también pierde por completo
+la condición de herido.
+
+64
+00:01:05,830 --> 00:01:05,840
+la condición de herido.
+ 
+
+65
+00:01:05,840 --> 00:01:08,950
+la condición de herido.
+Con un éxito crítico, cura 48 y,
+
+66
+00:01:08,950 --> 00:01:08,960
+Con un éxito crítico, cura 48 y,
+ 
+
+67
+00:01:08,960 --> 00:01:10,630
+Con un éxito crítico, cura 48 y,
+con un fallo, no sucede nada.
+
+68
+00:01:10,630 --> 00:01:10,640
+con un fallo, no sucede nada.
+ 
+
+69
+00:01:10,640 --> 00:01:12,789
+con un fallo, no sucede nada.
+En un fallo crítico,  el paciente
+
+70
+00:01:12,789 --> 00:01:12,799
+En un fallo crítico,  el paciente
+ 
+
+71
+00:01:12,799 --> 00:01:15,830
+En un fallo crítico,  el paciente
+sufre un daño adicional de 1d8
+
+72
+00:01:15,830 --> 00:01:15,840
+sufre un daño adicional de 1d8
+ 
+
+73
+00:01:15,840 --> 00:01:18,070
+sufre un daño adicional de 1d8
+una vez que alcanzas la competencia experta
+
+74
+00:01:18,070 --> 00:01:18,080
+una vez que alcanzas la competencia experta
+ 
+
+75
+00:01:18,080 --> 00:01:20,630
+una vez que alcanzas la competencia experta
+puedes elegir aumentar la CD a 20
+
+76
+00:01:20,630 --> 00:01:20,640
+puedes elegir aumentar la CD a 20
+ 
+
+77
+00:01:20,640 --> 00:01:23,190
+puedes elegir aumentar la CD a 20
+y agregar 10 a la cantidad curada en un
+
+78
+00:01:23,190 --> 00:01:23,200
+y agregar 10 a la cantidad curada en un
+ 
+
+79
+00:01:23,200 --> 00:01:25,190
+y agregar 10 a la cantidad curada en un
+éxito o un éxito crítico
+
+80
+00:01:25,190 --> 00:01:25,200
+éxito o un éxito crítico
+ 
+
+81
+00:01:25,200 --> 00:01:27,109
+éxito o un éxito crítico
+con la competencia maestra puedes elegir
+
+82
+00:01:27,109 --> 00:01:27,119
+con la competencia maestra puedes elegir
+ 
+
+83
+00:01:27,119 --> 00:01:28,390
+con la competencia maestra puedes elegir
+hacer la CD 30
+
+84
+00:01:28,390 --> 00:01:28,400
+hacer la CD 30
+ 
+
+85
+00:01:28,400 --> 00:01:30,310
+hacer la CD 30
+y también aumentar la cantidad curada en
+
+86
+00:01:30,310 --> 00:01:30,320
+y también aumentar la cantidad curada en
+ 
+
+87
+00:01:30,320 --> 00:01:31,510
+y también aumentar la cantidad curada en
+30 y con la
+
+88
+00:01:31,510 --> 00:01:31,520
+30 y con la
+ 
+
+89
+00:01:31,520 --> 00:01:33,910
+30 y con la
+competencia legendaria puedes establecer la CD
+
+90
+00:01:33,910 --> 00:01:33,920
+competencia legendaria puedes establecer la CD
+ 
+
+91
+00:01:33,920 --> 00:01:34,789
+competencia legendaria puedes establecer la CD
+en 40
+
+92
+00:01:34,789 --> 00:01:34,799
+en 40
+ 
+
+93
+00:01:34,799 --> 00:01:37,590
+en 40
+y aumentar la cantidad curada en 50 en
+
+94
+00:01:37,590 --> 00:01:37,600
+y aumentar la cantidad curada en 50 en
+ 
+
+95
+00:01:37,600 --> 00:01:40,149
+y aumentar la cantidad curada en 50 en
+un éxito o un éxito crítico
+
+96
+00:01:40,149 --> 00:01:40,159
+un éxito o un éxito crítico
+ 
+
+97
+00:01:40,159 --> 00:01:42,389
+un éxito o un éxito crítico
+ten en cuenta que esta es una elección que puedes
+
+98
+00:01:42,389 --> 00:01:42,399
+ten en cuenta que esta es una elección que puedes
+ 
+
+99
+00:01:42,399 --> 00:01:44,950
+ten en cuenta que esta es una elección que puedes
+hacer una vez que alcanzas la competencia experta
+
+100
+00:01:44,950 --> 00:01:44,960
+hacer una vez que alcanzas la competencia experta
+ 
+
+101
+00:01:44,960 --> 00:01:48,149
+hacer una vez que alcanzas la competencia experta
+no tienes que tirar contra CD 20 e
+
+102
+00:01:48,149 --> 00:01:48,159
+no tienes que tirar contra CD 20 e
+ 
+
+103
+00:01:48,159 --> 00:01:50,149
+no tienes que tirar contra CD 20 e
+incluso en la competencia legendaria
+
+104
+00:01:50,149 --> 00:01:50,159
+incluso en la competencia legendaria
+ 
+
+105
+00:01:50,159 --> 00:01:52,710
+incluso en la competencia legendaria
+todavía puedes tirar contra CD 15 si
+
+106
+00:01:52,710 --> 00:01:52,720
+todavía puedes tirar contra CD 15 si
+ 
+
+107
+00:01:52,720 --> 00:01:54,710
+todavía puedes tirar contra CD 15 si
+quieres, pero esta decisión debe
+
+108
+00:01:54,710 --> 00:01:54,720
+quieres, pero esta decisión debe
+ 
+
+109
+00:01:54,720 --> 00:01:55,990
+quieres, pero esta decisión debe
+declararse antes de
+
+110
+00:01:55,990 --> 00:01:56,000
+declararse antes de
+ 
+
+111
+00:01:56,000 --> 00:01:58,550
+declararse antes de
+tirar la prueba también si quieres estar
+
+112
+00:01:58,550 --> 00:01:58,560
+tirar la prueba también si quieres estar
+ 
+
+113
+00:01:58,560 --> 00:02:00,389
+tirar la prueba también si quieres estar
+seguro de no fallar críticamente
+
+114
+00:02:00,389 --> 00:02:00,399
+seguro de no fallar críticamente
+ 
+
+115
+00:02:00,399 --> 00:02:02,389
+seguro de no fallar críticamente
+entonces recoge la tarifa de medicina de seguridad
+
+116
+00:02:02,389 --> 00:02:02,399
+entonces recoge la tarifa de medicina de seguridad
+ 
+
+117
+00:02:02,399 --> 00:02:04,550
+entonces recoge la tarifa de medicina de seguridad
+una vez que alcances el tercer nivel
+
+118
+00:02:04,550 --> 00:02:04,560
+una vez que alcances el tercer nivel
+ 
+
+119
+00:02:04,560 --> 00:02:06,469
+una vez que alcances el tercer nivel
+como se mencionó anteriormente se necesitan 10
+
+120
+00:02:06,469 --> 00:02:06,479
+como se mencionó anteriormente se necesitan 10
+ 
+
+121
+00:02:06,479 --> 00:02:08,389
+como se mencionó anteriormente se necesitan 10
+minutos de trabajo antes de tirar esta
+
+122
+00:02:08,389 --> 00:02:08,399
+minutos de trabajo antes de tirar esta
+ 
+
+123
+00:02:08,399 --> 00:02:09,029
+minutos de trabajo antes de tirar esta
+prueba
+
+124
+00:02:09,029 --> 00:02:09,039
+prueba
+ 
+
+125
+00:02:09,039 --> 00:02:11,270
+prueba
+si el resultado es un éxito entonces puedes
+
+126
+00:02:11,270 --> 00:02:11,280
+si el resultado es un éxito entonces puedes
+ 
+
+127
+00:02:11,280 --> 00:02:13,350
+si el resultado es un éxito entonces puedes
+declarar que continuarás tratando
+
+128
+00:02:13,350 --> 00:02:13,360
+declarar que continuarás tratando
+ 
+
+129
+00:02:13,360 --> 00:02:15,830
+declarar que continuarás tratando
+al paciente durante el resto de la hora
+
+130
+00:02:15,830 --> 00:02:15,840
+al paciente durante el resto de la hora
+ 
+
+131
+00:02:15,840 --> 00:02:17,510
+al paciente durante el resto de la hora
+no se tiran más pruebas de habilidad y
+
+132
+00:02:17,510 --> 00:02:17,520
+no se tiran más pruebas de habilidad y
+ 
+
+133
+00:02:17,520 --> 00:02:18,869
+no se tiran más pruebas de habilidad y
+al final de esa hora no se
+
+134
+00:02:18,869 --> 00:02:18,879
+al final de esa hora no se
+ 
+
+135
+00:02:18,879 --> 00:02:20,869
+al final de esa hora no se
+asume nada  interrumpe tu trabajo
+
+136
+00:02:20,869 --> 00:02:20,879
+asume nada  interrumpe tu trabajo
+ 
+
+137
+00:02:20,879 --> 00:02:21,990
+asume nada  interrumpe tu trabajo
+la cantidad de curación que
+
+138
+00:02:21,990 --> 00:02:22,000
+la cantidad de curación que
+ 
+
+139
+00:02:22,000 --> 00:02:24,630
+la cantidad de curación que
+recibe el paciente se duplica también ten
+
+140
+00:02:24,630 --> 00:02:24,640
+recibe el paciente se duplica también ten
+ 
+
+141
+00:02:24,640 --> 00:02:26,470
+recibe el paciente se duplica también ten
+en cuenta que hay un tiempo de reutilización de una hora
+
+142
+00:02:26,470 --> 00:02:26,480
+en cuenta que hay un tiempo de reutilización de una hora
+ 
+
+143
+00:02:26,480 --> 00:02:28,470
+en cuenta que hay un tiempo de reutilización de una hora
+para recibir curar heridas
+
+144
+00:02:28,470 --> 00:02:28,480
+para recibir curar heridas
+ 
+
+145
+00:02:28,480 --> 00:02:31,110
+para recibir curar heridas
+que comienza cuando comienzas a tratar al
+
+146
+00:02:31,110 --> 00:02:31,120
+que comienza cuando comienzas a tratar al
+ 
+
+147
+00:02:31,120 --> 00:02:31,910
+que comienza cuando comienzas a tratar al
+paciente,
+
+148
+00:02:31,910 --> 00:02:31,920
+paciente,
+ 
+
+149
+00:02:31,920 --> 00:02:34,309
+paciente,
+así que si tratas a un paciente una vez tienes que
+
+150
+00:02:34,309 --> 00:02:34,319
+así que si tratas a un paciente una vez tienes que
+ 
+
+151
+00:02:34,319 --> 00:02:36,630
+así que si tratas a un paciente una vez tienes que
+esperar otros 50 minutos antes de
+
+152
+00:02:36,630 --> 00:02:36,640
+esperar otros 50 minutos antes de
+ 
+
+153
+00:02:36,640 --> 00:02:39,270
+esperar otros 50 minutos antes de
+poder tratar a ese mismo paciente de nuevo de la misma manera
+
+154
+00:02:39,270 --> 00:02:39,280
+poder tratar a ese mismo paciente de nuevo de la misma manera
+ 
+
+155
+00:02:39,280 --> 00:02:41,350
+poder tratar a ese mismo paciente de nuevo de la misma manera
+si pasaste toda la hora
+
+156
+00:02:41,350 --> 00:02:41,360
+si pasaste toda la hora
+ 
+
+157
+00:02:41,360 --> 00:02:43,110
+si pasaste toda la hora
+tratando al paciente por el doble de puntos de vida
+
+158
+00:02:43,110 --> 00:02:43,120
+tratando al paciente por el doble de puntos de vida
+ 
+
+159
+00:02:43,120 --> 00:02:43,670
+tratando al paciente por el doble de puntos de vida
+
+160
+00:02:43,670 --> 00:02:43,680
+
+ 
+
+161
+00:02:43,680 --> 00:02:45,830
+
+entonces puedes usar inmediatamente curar
+
+162
+00:02:45,830 --> 00:02:45,840
+entonces puedes usar inmediatamente curar
+ 
+
+163
+00:02:45,840 --> 00:02:47,750
+entonces puedes usar inmediatamente curar
+heridas en ese paciente de nuevo
+
+164
+00:02:47,750 --> 00:02:47,760
+heridas en ese paciente de nuevo
+ 
+
+165
+00:02:47,760 --> 00:02:50,790
+heridas en ese paciente de nuevo
+porque esa hora ya pasó este tiempo de
+
+166
+00:02:50,790 --> 00:02:50,800
+porque esa hora ya pasó este tiempo de
+ 
+
+167
+00:02:50,800 --> 00:02:51,670
+porque esa hora ya pasó este tiempo de
+reutilización de una hora se
+
+168
+00:02:51,670 --> 00:02:51,680
+reutilización de una hora se
+ 
+
+169
+00:02:51,680 --> 00:02:54,229
+reutilización de una hora se
+aplica al paciente que recibe curar
+
+170
+00:02:54,229 --> 00:02:54,239
+aplica al paciente que recibe curar
+ 
+
+171
+00:02:54,239 --> 00:02:55,110
+aplica al paciente que recibe curar
+heridas
+
+172
+00:02:55,110 --> 00:02:55,120
+heridas
+ 
+
+173
+00:02:55,120 --> 00:02:57,270
+heridas
+después de los primeros 10 minutos de trabajo
+
+174
+00:02:57,270 --> 00:02:57,280
+después de los primeros 10 minutos de trabajo
+ 
+
+175
+00:02:57,280 --> 00:02:59,990
+después de los primeros 10 minutos de trabajo
+puedes pasar a tratar a otra criatura
+
+176
+00:02:59,990 --> 00:03:00,000
+puedes pasar a tratar a otra criatura
+ 
+
+177
+00:03:00,000 --> 00:03:01,750
+puedes pasar a tratar a otra criatura
+pero tu primer paciente no puede ser el
+
+178
+00:03:01,750 --> 00:03:01,760
+pero tu primer paciente no puede ser el
+ 
+
+179
+00:03:01,760 --> 00:03:03,910
+pero tu primer paciente no puede ser el
+objetivo de otra actividad de tratamiento
+
+180
+00:03:03,910 --> 00:03:03,920
+objetivo de otra actividad de tratamiento
+ 
+
+181
+00:03:03,920 --> 00:03:05,830
+objetivo de otra actividad de tratamiento
+ni siquiera de un sanador diferente
+
+182
+00:03:05,830 --> 00:03:05,840
+ni siquiera de un sanador diferente
+ 
+
+183
+00:03:05,840 --> 00:03:09,509
+ni siquiera de un sanador diferente
+hasta que haya pasado la hora a
+
+184
+00:03:09,509 --> 00:03:09,519
+
+ 
+
+185
+00:03:09,519 --> 00:03:11,670
+
+continuación hablemos de administrar primeros
+
+186
+00:03:11,670 --> 00:03:11,680
+continuación hablemos de administrar primeros
+ 
+
+187
+00:03:11,680 --> 00:03:13,990
+continuación hablemos de administrar primeros
+auxilios esta es la única actividad de habilidad de medicina
+
+188
+00:03:13,990 --> 00:03:14,000
+auxilios esta es la única actividad de habilidad de medicina
+ 
+
+189
+00:03:14,000 --> 00:03:15,270
+auxilios esta es la única actividad de habilidad de medicina
+que puedes
+
+190
+00:03:15,270 --> 00:03:15,280
+que puedes
+ 
+
+191
+00:03:15,280 --> 00:03:17,910
+que puedes
+usar sin entrenamiento y se usa para
+
+192
+00:03:17,910 --> 00:03:17,920
+usar sin entrenamiento y se usa para
+ 
+
+193
+00:03:17,920 --> 00:03:19,830
+usar sin entrenamiento y se usa para
+estabilizar a una criatura moribunda
+
+194
+00:03:19,830 --> 00:03:19,840
+estabilizar a una criatura moribunda
+ 
+
+195
+00:03:19,840 --> 00:03:22,550
+estabilizar a una criatura moribunda
+o eliminar la condición de sangrado esto
+
+196
+00:03:22,550 --> 00:03:22,560
+o eliminar la condición de sangrado esto
+ 
+
+197
+00:03:22,560 --> 00:03:23,270
+o eliminar la condición de sangrado esto
+requiere
+
+198
+00:03:23,270 --> 00:03:23,280
+requiere
+ 
+
+199
+00:03:23,280 --> 00:03:25,750
+requiere
+dos acciones y al igual que cuando se tratan
+
+200
+00:03:25,750 --> 00:03:25,760
+dos acciones y al igual que cuando se tratan
+ 
+
+201
+00:03:25,760 --> 00:03:28,309
+dos acciones y al igual que cuando se tratan
+heridas debes estar empuñando o
+
+202
+00:03:28,309 --> 00:03:28,319
+heridas debes estar empuñando o
+ 
+
+203
+00:03:28,319 --> 00:03:31,670
+heridas debes estar empuñando o
+usando herramientas de sanador cada personaje puede
+
+204
+00:03:31,670 --> 00:03:31,680
+usando herramientas de sanador cada personaje puede
+ 
+
+205
+00:03:31,680 --> 00:03:32,070
+usando herramientas de sanador cada personaje puede
+
+206
+00:03:32,070 --> 00:03:32,080
+
+ 
+
+207
+00:03:32,080 --> 00:03:35,190
+
+usar hasta dos herramientas por valor de volumen
+
+208
+00:03:35,190 --> 00:03:35,200
+usar hasta dos herramientas por valor de volumen
+ 
+
+209
+00:03:35,200 --> 00:03:37,589
+usar hasta dos herramientas por valor de volumen
+al hacerlo pueden recuperar y guardar
+
+210
+00:03:37,589 --> 00:03:37,599
+al hacerlo pueden recuperar y guardar
+ 
+
+211
+00:03:37,599 --> 00:03:39,589
+al hacerlo pueden recuperar y guardar
+las herramientas con las mismas acciones que
+
+212
+00:03:39,589 --> 00:03:39,599
+las herramientas con las mismas acciones que
+ 
+
+213
+00:03:39,599 --> 00:03:41,670
+las herramientas con las mismas acciones que
+gastan para poder usarlas
+
+214
+00:03:41,670 --> 00:03:41,680
+gastan para poder usarlas
+ 
+
+215
+00:03:41,680 --> 00:03:43,830
+gastan para poder usarlas
+así  por ejemplo, solo se necesitarían dos
+
+216
+00:03:43,830 --> 00:03:43,840
+así  por ejemplo, solo se necesitarían dos
+ 
+
+217
+00:03:43,840 --> 00:03:45,110
+así  por ejemplo, solo se necesitarían dos
+acciones para que una persona que
+
+218
+00:03:45,110 --> 00:03:45,120
+acciones para que una persona que
+ 
+
+219
+00:03:45,120 --> 00:03:46,710
+acciones para que una persona que
+usa sus herramientas de sanador
+
+220
+00:03:46,710 --> 00:03:46,720
+usa sus herramientas de sanador
+ 
+
+221
+00:03:46,720 --> 00:03:48,309
+usa sus herramientas de sanador
+administre primeros auxilios,
+
+222
+00:03:48,309 --> 00:03:48,319
+administre primeros auxilios,
+ 
+
+223
+00:03:48,319 --> 00:03:51,030
+administre primeros auxilios,
+pero si sus herramientas no se usan si
+
+224
+00:03:51,030 --> 00:03:51,040
+pero si sus herramientas no se usan si
+ 
+
+225
+00:03:51,040 --> 00:03:51,830
+pero si sus herramientas no se usan si
+en cambio se
+
+226
+00:03:51,830 --> 00:03:51,840
+en cambio se
+ 
+
+227
+00:03:51,840 --> 00:03:54,149
+en cambio se
+almacenan, entonces esa persona necesitaría
+
+228
+00:03:54,149 --> 00:03:54,159
+almacenan, entonces esa persona necesitaría
+ 
+
+229
+00:03:54,159 --> 00:03:56,229
+almacenan, entonces esa persona necesitaría
+gastar una acción de interacción para sacar sus
+
+230
+00:03:56,229 --> 00:03:56,239
+gastar una acción de interacción para sacar sus
+ 
+
+231
+00:03:56,239 --> 00:03:57,190
+gastar una acción de interacción para sacar sus
+herramientas
+
+232
+00:03:57,190 --> 00:03:57,200
+herramientas
+ 
+
+233
+00:03:57,200 --> 00:03:59,270
+herramientas
+y luego dos acciones para administrar primeros
+
+234
+00:03:59,270 --> 00:03:59,280
+y luego dos acciones para administrar primeros
+ 
+
+235
+00:03:59,280 --> 00:04:00,550
+y luego dos acciones para administrar primeros
+auxilios y luego una
+
+236
+00:04:00,550 --> 00:04:00,560
+auxilios y luego una
+ 
+
+237
+00:04:00,560 --> 00:04:03,030
+auxilios y luego una
+cuarta acción para guardar las herramientas, lo que
+
+238
+00:04:03,030 --> 00:04:03,040
+cuarta acción para guardar las herramientas, lo que
+ 
+
+239
+00:04:03,040 --> 00:04:04,949
+cuarta acción para guardar las herramientas, lo que
+significa que no podría hacer todo esto
+
+240
+00:04:04,949 --> 00:04:04,959
+significa que no podría hacer todo esto
+ 
+
+241
+00:04:04,959 --> 00:04:07,750
+significa que no podría hacer todo esto
+en un turno, así que recuerda que puedes
+
+242
+00:04:07,750 --> 00:04:07,760
+en un turno, así que recuerda que puedes
+ 
+
+243
+00:04:07,760 --> 00:04:09,670
+en un turno, así que recuerda que puedes
+usar tus herramientas de sanador, lo
+
+244
+00:04:09,670 --> 00:04:09,680
+usar tus herramientas de sanador, lo
+ 
+
+245
+00:04:09,680 --> 00:04:11,509
+usar tus herramientas de sanador, lo
+que básicamente hace que sacarlas y
+
+246
+00:04:11,509 --> 00:04:11,519
+que básicamente hace que sacarlas y
+ 
+
+247
+00:04:11,519 --> 00:04:13,509
+que básicamente hace que sacarlas y
+guardarlas sean acciones gratuitas
+
+248
+00:04:13,509 --> 00:04:13,519
+guardarlas sean acciones gratuitas
+ 
+
+249
+00:04:13,519 --> 00:04:15,670
+guardarlas sean acciones gratuitas
+cuando usas administrar primeros auxilios,
+
+250
+00:04:15,670 --> 00:04:15,680
+cuando usas administrar primeros auxilios,
+ 
+
+251
+00:04:15,680 --> 00:04:18,469
+cuando usas administrar primeros auxilios,
+eliges estabilizar al objetivo o
+
+252
+00:04:18,469 --> 00:04:18,479
+eliges estabilizar al objetivo o
+ 
+
+253
+00:04:18,479 --> 00:04:21,030
+eliges estabilizar al objetivo o
+detener su sangrado al estabilizarlo,
+
+254
+00:04:21,030 --> 00:04:21,040
+detener su sangrado al estabilizarlo,
+ 
+
+255
+00:04:21,040 --> 00:04:22,390
+detener su sangrado al estabilizarlo,
+tiras una prueba de habilidad de medicina
+
+256
+00:04:22,390 --> 00:04:22,400
+tiras una prueba de habilidad de medicina
+ 
+
+257
+00:04:22,400 --> 00:04:25,030
+tiras una prueba de habilidad de medicina
+contra 5 más la prueba de recuperación de ese objetivo
+
+258
+00:04:25,030 --> 00:04:25,040
+contra 5 más la prueba de recuperación de ese objetivo
+ 
+
+259
+00:04:25,040 --> 00:04:25,990
+contra 5 más la prueba de recuperación de ese objetivo
+
+260
+00:04:25,990 --> 00:04:26,000
+
+ 
+
+261
+00:04:26,000 --> 00:04:27,990
+
+cada ronda que una criatura está muriendo,
+
+262
+00:04:27,990 --> 00:04:28,000
+cada ronda que una criatura está muriendo,
+ 
+
+263
+00:04:28,000 --> 00:04:30,629
+cada ronda que una criatura está muriendo,
+debe tirar una prueba de recuperación contra una CD
+
+264
+00:04:30,629 --> 00:04:30,639
+debe tirar una prueba de recuperación contra una CD
+ 
+
+265
+00:04:30,639 --> 00:04:31,430
+debe tirar una prueba de recuperación contra una CD
+igual a 10
+
+266
+00:04:31,430 --> 00:04:31,440
+igual a 10
+ 
+
+267
+00:04:31,440 --> 00:04:33,590
+igual a 10
+más su valor de muerte para
+
+268
+00:04:33,590 --> 00:04:33,600
+más su valor de muerte para
+ 
+
+269
+00:04:33,600 --> 00:04:34,629
+más su valor de muerte para
+estabilizarlos,
+
+270
+00:04:34,629 --> 00:04:34,639
+estabilizarlos,
+ 
+
+271
+00:04:34,639 --> 00:04:36,710
+estabilizarlos,
+necesitas tirar una prueba faltante que sea
+
+272
+00:04:36,710 --> 00:04:36,720
+necesitas tirar una prueba faltante que sea
+ 
+
+273
+00:04:36,720 --> 00:04:38,390
+necesitas tirar una prueba faltante que sea
+5 más alta que esto
+
+274
+00:04:38,390 --> 00:04:38,400
+5 más alta que esto
+ 
+
+275
+00:04:38,400 --> 00:04:42,310
+5 más alta que esto
+o generalmente 15 más el valor de muerte de esa persona, por lo que
+
+276
+00:04:42,310 --> 00:04:42,320
+o generalmente 15 más el valor de muerte de esa persona, por lo que
+ 
+
+277
+00:04:42,320 --> 00:04:43,110
+o generalmente 15 más el valor de muerte de esa persona, por lo que
+
+278
+00:04:43,110 --> 00:04:43,120
+
+ 
+
+279
+00:04:43,120 --> 00:04:45,430
+
+alguien que está muriendo necesita
+
+280
+00:04:45,430 --> 00:04:45,440
+alguien que está muriendo necesita
+ 
+
+281
+00:04:45,440 --> 00:04:46,390
+alguien que está muriendo necesita
+tirar una
+
+282
+00:04:46,390 --> 00:04:46,400
+tirar una
+ 
+
+283
+00:04:46,400 --> 00:04:49,350
+tirar una
+prueba de recuperación de CD 11 en su turno y
+
+284
+00:04:49,350 --> 00:04:49,360
+prueba de recuperación de CD 11 en su turno y
+ 
+
+285
+00:04:49,360 --> 00:04:50,150
+prueba de recuperación de CD 11 en su turno y
+necesitarías tirar
+
+286
+00:04:50,150 --> 00:04:50,160
+necesitarías tirar
+ 
+
+287
+00:04:50,160 --> 00:04:53,430
+necesitarías tirar
+una prueba de medicina de CD 16, cinco más que
+
+288
+00:04:53,430 --> 00:04:53,440
+una prueba de medicina de CD 16, cinco más que
+ 
+
+289
+00:04:53,440 --> 00:04:54,629
+una prueba de medicina de CD 16, cinco más que
+esa prueba de recuperación
+
+290
+00:04:54,629 --> 00:04:54,639
+esa prueba de recuperación
+ 
+
+291
+00:04:54,639 --> 00:04:57,030
+esa prueba de recuperación
+para estabilizarlos  Si estuvieran
+
+292
+00:04:57,030 --> 00:04:57,040
+para estabilizarlos  Si estuvieran
+ 
+
+293
+00:04:57,040 --> 00:04:57,990
+para estabilizarlos  Si estuvieran
+muriendo 3,
+
+294
+00:04:57,990 --> 00:04:58,000
+muriendo 3,
+ 
+
+295
+00:04:58,000 --> 00:05:00,390
+muriendo 3,
+su prueba de recuperación sería CD 13 y
+
+296
+00:05:00,390 --> 00:05:00,400
+su prueba de recuperación sería CD 13 y
+ 
+
+297
+00:05:00,400 --> 00:05:02,310
+su prueba de recuperación sería CD 13 y
+para estabilizarlos necesitarías superar
+
+298
+00:05:02,310 --> 00:05:02,320
+para estabilizarlos necesitarías superar
+ 
+
+299
+00:05:02,320 --> 00:05:02,870
+para estabilizarlos necesitarías superar
+CD
+
+300
+00:05:02,870 --> 00:05:02,880
+CD
+ 
+
+301
+00:05:02,880 --> 00:05:06,310
+CD
+18 y así sucesivamente. En caso de éxito, el objetivo
+
+302
+00:05:06,310 --> 00:05:06,320
+18 y así sucesivamente. En caso de éxito, el objetivo
+ 
+
+303
+00:05:06,320 --> 00:05:08,629
+18 y así sucesivamente. En caso de éxito, el objetivo
+pierde completamente la condición de morir
+
+304
+00:05:08,629 --> 00:05:08,639
+pierde completamente la condición de morir
+ 
+
+305
+00:05:08,639 --> 00:05:11,270
+pierde completamente la condición de morir
+y permanece inconsciente. La
+
+306
+00:05:11,270 --> 00:05:11,280
+y permanece inconsciente. La
+ 
+
+307
+00:05:11,280 --> 00:05:12,790
+y permanece inconsciente. La
+condición de morir se
+
+308
+00:05:12,790 --> 00:05:12,800
+condición de morir se
+ 
+
+309
+00:05:12,800 --> 00:05:15,029
+condición de morir se
+elimina por completo. En este caso, no necesitas
+
+310
+00:05:15,029 --> 00:05:15,039
+elimina por completo. En este caso, no necesitas
+ 
+
+311
+00:05:15,039 --> 00:05:17,189
+elimina por completo. En este caso, no necesitas
+repetir esta acción para bajarlos de
+
+312
+00:05:17,189 --> 00:05:17,199
+repetir esta acción para bajarlos de
+ 
+
+313
+00:05:17,199 --> 00:05:19,189
+repetir esta acción para bajarlos de
+morir tres a morir dos y luego otra vez
+
+314
+00:05:19,189 --> 00:05:19,199
+morir tres a morir dos y luego otra vez
+ 
+
+315
+00:05:19,199 --> 00:05:21,029
+morir tres a morir dos y luego otra vez
+para bajarlos de morir dos a morir uno
+
+316
+00:05:21,029 --> 00:05:21,039
+para bajarlos de morir dos a morir uno
+ 
+
+317
+00:05:21,039 --> 00:05:22,710
+para bajarlos de morir dos a morir uno
+y así sucesivamente. Si
+
+318
+00:05:22,710 --> 00:05:22,720
+y así sucesivamente. Si
+ 
+
+319
+00:05:22,720 --> 00:05:25,430
+y así sucesivamente. Si
+fallas críticamente esta prueba, haces
+
+320
+00:05:25,430 --> 00:05:25,440
+fallas críticamente esta prueba, haces
+ 
+
+321
+00:05:25,440 --> 00:05:26,629
+fallas críticamente esta prueba, haces
+más daño que bien
+
+322
+00:05:26,629 --> 00:05:26,639
+más daño que bien
+ 
+
+323
+00:05:26,639 --> 00:05:28,469
+más daño que bien
+y la condición de morir del objetivo
+
+324
+00:05:28,469 --> 00:05:28,479
+y la condición de morir del objetivo
+ 
+
+325
+00:05:28,479 --> 00:05:30,070
+y la condición de morir del objetivo
+aumenta en uno,
+
+326
+00:05:30,070 --> 00:05:30,080
+aumenta en uno,
+ 
+
+327
+00:05:30,080 --> 00:05:33,110
+aumenta en uno,
+posiblemente matándolos. Cuando una criatura
+
+328
+00:05:33,110 --> 00:05:33,120
+posiblemente matándolos. Cuando una criatura
+ 
+
+329
+00:05:33,120 --> 00:05:34,950
+posiblemente matándolos. Cuando una criatura
+sufre la condición de sangrado,
+
+330
+00:05:34,950 --> 00:05:34,960
+sufre la condición de sangrado,
+ 
+
+331
+00:05:34,960 --> 00:05:37,110
+sufre la condición de sangrado,
+reciben daño persistente al final
+
+332
+00:05:37,110 --> 00:05:37,120
+reciben daño persistente al final
+ 
+
+333
+00:05:37,120 --> 00:05:38,870
+reciben daño persistente al final
+de cada uno de sus turnos y luego pueden
+
+334
+00:05:38,870 --> 00:05:38,880
+de cada uno de sus turnos y luego pueden
+ 
+
+335
+00:05:38,880 --> 00:05:41,430
+de cada uno de sus turnos y luego pueden
+tirar una sacudida plana CD -15 para ver si el
+
+336
+00:05:41,430 --> 00:05:41,440
+tirar una sacudida plana CD -15 para ver si el
+ 
+
+337
+00:05:41,440 --> 00:05:43,270
+tirar una sacudida plana CD -15 para ver si el
+efecto de sangrado desaparece.
+
+338
+00:05:43,270 --> 00:05:43,280
+efecto de sangrado desaparece.
+ 
+
+339
+00:05:43,280 --> 00:05:45,350
+efecto de sangrado desaparece.
+Puedes intentar eliminar esta
+
+340
+00:05:45,350 --> 00:05:45,360
+Puedes intentar eliminar esta
+ 
+
+341
+00:05:45,360 --> 00:05:47,510
+Puedes intentar eliminar esta
+condición de sangrado antes de que sufran más daño
+
+342
+00:05:47,510 --> 00:05:47,520
+condición de sangrado antes de que sufran más daño
+ 
+
+343
+00:05:47,520 --> 00:05:50,310
+condición de sangrado antes de que sufran más daño
+administrándoles primeros auxilios. Cuando lo hagas,
+
+344
+00:05:50,310 --> 00:05:50,320
+administrándoles primeros auxilios. Cuando lo hagas,
+ 
+
+345
+00:05:50,320 --> 00:05:52,150
+administrándoles primeros auxilios. Cuando lo hagas,
+tira una prueba de medicina.
+
+346
+00:05:52,150 --> 00:05:52,160
+tira una prueba de medicina.
+ 
+
+347
+00:05:52,160 --> 00:05:54,790
+tira una prueba de medicina.
+La CD para esta prueba será la CD del
+
+348
+00:05:54,790 --> 00:05:54,800
+La CD para esta prueba será la CD del
+ 
+
+349
+00:05:54,800 --> 00:05:55,510
+La CD para esta prueba será la CD del
+efecto
+
+350
+00:05:55,510 --> 00:05:55,520
+efecto
+ 
+
+351
+00:05:55,520 --> 00:05:58,150
+efecto
+que causó el sangrado si hay uno o
+
+352
+00:05:58,150 --> 00:05:58,160
+que causó el sangrado si hay uno o
+ 
+
+353
+00:05:58,160 --> 00:05:59,670
+que causó el sangrado si hay uno o
+una CD basada en el nivel
+
+354
+00:05:59,670 --> 00:05:59,680
+una CD basada en el nivel
+ 
+
+355
+00:05:59,680 --> 00:06:01,590
+una CD basada en el nivel
+para el monstruo u oponente que causó
+
+356
+00:06:01,590 --> 00:06:01,600
+para el monstruo u oponente que causó
+ 
+
+357
+00:06:01,600 --> 00:06:03,990
+para el monstruo u oponente que causó
+el sangrado, por ejemplo, si una criatura
+
+358
+00:06:03,990 --> 00:06:04,000
+el sangrado, por ejemplo, si una criatura
+ 
+
+359
+00:06:04,000 --> 00:06:05,430
+el sangrado, por ejemplo, si una criatura
+sufre la condición de sangrado.
+
+360
+00:06:05,430 --> 00:06:05,440
+sufre la condición de sangrado.
+ 
+
+361
+00:06:05,440 --> 00:06:06,070
+sufre la condición de sangrado.
+Debido a que
+
+362
+00:06:06,070 --> 00:06:06,080
+Debido a que
+ 
+
+363
+00:06:06,080 --> 00:06:09,029
+Debido a que
+fallaron su tirada de reflejos de CD-16 contra la
+
+364
+00:06:09,029 --> 00:06:09,039
+fallaron su tirada de reflejos de CD-16 contra la
+ 
+
+365
+00:06:09,039 --> 00:06:11,990
+fallaron su tirada de reflejos de CD-16 contra la
+habilidad de festín de sangre de un enjambre de murciélagos vampiro,
+
+366
+00:06:11,990 --> 00:06:12,000
+habilidad de festín de sangre de un enjambre de murciélagos vampiro,
+ 
+
+367
+00:06:12,000 --> 00:06:13,749
+habilidad de festín de sangre de un enjambre de murciélagos vampiro,
+la CD y la prueba de medicina para
+
+368
+00:06:13,749 --> 00:06:13,759
+la CD y la prueba de medicina para
+ 
+
+369
+00:06:13,759 --> 00:06:15,830
+la CD y la prueba de medicina para
+administrar primeros auxilios y eliminar esta
+
+370
+00:06:15,830 --> 00:06:15,840
+administrar primeros auxilios y eliminar esta
+ 
+
+371
+00:06:15,840 --> 00:06:17,830
+administrar primeros auxilios y eliminar esta
+condición de sangrado también serán
+
+372
+00:06:17,830 --> 00:06:17,840
+condición de sangrado también serán
+ 
+
+373
+00:06:17,840 --> 00:06:20,390
+condición de sangrado también serán
+16. Si la criatura sufre la
+
+374
+00:06:20,390 --> 00:06:20,400
+16. Si la criatura sufre la
+ 
+
+375
+00:06:20,400 --> 00:06:22,309
+16. Si la criatura sufre la
+condición de sangrado debido a un
+
+376
+00:06:22,309 --> 00:06:22,319
+condición de sangrado debido a un
+ 
+
+377
+00:06:22,319 --> 00:06:24,390
+condición de sangrado debido a un
+ataque de arma de un oponente de nivel 9
+
+378
+00:06:24,390 --> 00:06:24,400
+ataque de arma de un oponente de nivel 9
+ 
+
+379
+00:06:24,400 --> 00:06:26,950
+ataque de arma de un oponente de nivel 9
+y no hay una CD específica listada para el
+
+380
+00:06:26,950 --> 00:06:26,960
+y no hay una CD específica listada para el
+ 
+
+381
+00:06:26,960 --> 00:06:28,710
+y no hay una CD específica listada para el
+efecto de sangrado de sus armas,
+
+382
+00:06:28,710 --> 00:06:28,720
+efecto de sangrado de sus armas,
+ 
+
+383
+00:06:28,720 --> 00:06:30,950
+efecto de sangrado de sus armas,
+entonces la CD sería la CD estándar de nivel 9
+
+384
+00:06:30,950 --> 00:06:31,909
+entonces la CD sería la CD estándar de nivel 9
+ 
+
+385
+00:06:31,909 --> 00:06:31,919
+
+ 
+
+386
+00:06:31,919 --> 00:06:35,590
+
+por tableton 5, que es CD26.
+
+387
+00:06:35,590 --> 00:06:35,600
+por tableton 5, que es CD26.
+ 
+
+388
+00:06:35,600 --> 00:06:37,590
+por tableton 5, que es CD26.
+Ahora bien, es importante tener en cuenta que si esta
+
+389
+00:06:37,590 --> 00:06:37,600
+Ahora bien, es importante tener en cuenta que si esta
+ 
+
+390
+00:06:37,600 --> 00:06:38,870
+Ahora bien, es importante tener en cuenta que si esta
+prueba es un éxito,
+
+391
+00:06:38,870 --> 00:06:38,880
+prueba es un éxito,
+ 
+
+392
+00:06:38,880 --> 00:06:41,350
+prueba es un éxito,
+la condición de sangrado no se
+
+393
+00:06:41,350 --> 00:06:41,360
+la condición de sangrado no se
+ 
+
+394
+00:06:41,360 --> 00:06:42,390
+la condición de sangrado no se
+elimina, en su
+
+395
+00:06:42,390 --> 00:06:42,400
+elimina, en su
+ 
+
+396
+00:06:42,400 --> 00:06:44,950
+elimina, en su
+lugar, la criatura que sangra puede
+
+397
+00:06:44,950 --> 00:06:44,960
+lugar, la criatura que sangra puede
+ 
+
+398
+00:06:44,960 --> 00:06:47,189
+lugar, la criatura que sangra puede
+hacer una prueba de vuelo de Fletchick de CD 15 inmediata
+
+399
+00:06:47,189 --> 00:06:47,199
+hacer una prueba de vuelo de Fletchick de CD 15 inmediata
+ 
+
+400
+00:06:47,199 --> 00:06:47,909
+hacer una prueba de vuelo de Fletchick de CD 15 inmediata
+
+401
+00:06:47,909 --> 00:06:47,919
+
+ 
+
+402
+00:06:47,919 --> 00:06:50,550
+
+contra su condición de sangrado, lo mismo que harían
+
+403
+00:06:50,550 --> 00:06:50,560
+contra su condición de sangrado, lo mismo que harían
+ 
+
+404
+00:06:50,560 --> 00:06:52,390
+contra su condición de sangrado, lo mismo que harían
+al final de cada uno de
+
+405
+00:06:52,390 --> 00:06:52,400
+al final de cada uno de
+ 
+
+406
+00:06:52,400 --> 00:06:53,350
+al final de cada uno de
+sus turnos.
+
+407
+00:06:53,350 --> 00:06:53,360
+sus turnos.
+ 
+
+408
+00:06:53,360 --> 00:06:55,589
+sus turnos.
+Solo les estás dando un intento gratuito adicional
+
+409
+00:06:55,589 --> 00:06:55,599
+Solo les estás dando un intento gratuito adicional
+ 
+
+410
+00:06:55,599 --> 00:06:58,870
+Solo les estás dando un intento gratuito adicional
+antes de que sufran más daño
+
+411
+00:06:58,870 --> 00:06:58,880
+antes de que sufran más daño
+ 
+
+412
+00:06:58,880 --> 00:07:00,790
+antes de que sufran más daño
+y si fallas críticamente esta prueba,
+
+413
+00:07:00,790 --> 00:07:00,800
+y si fallas críticamente esta prueba,
+ 
+
+414
+00:07:00,800 --> 00:07:02,629
+y si fallas críticamente esta prueba,
+la criatura sufre inmediatamente
+
+415
+00:07:02,629 --> 00:07:02,639
+la criatura sufre inmediatamente
+ 
+
+416
+00:07:02,639 --> 00:07:04,710
+la criatura sufre inmediatamente
+su daño de sangrado. Además,
+
+417
+00:07:04,710 --> 00:07:04,720
+su daño de sangrado. Además,
+ 
+
+418
+00:07:04,720 --> 00:07:07,189
+su daño de sangrado. Además,
+si una criatura está sangrando y
+
+419
+00:07:07,189 --> 00:07:07,199
+si una criatura está sangrando y
+ 
+
+420
+00:07:07,199 --> 00:07:07,749
+si una criatura está sangrando y
+muriendo,
+
+421
+00:07:07,749 --> 00:07:07,759
+muriendo,
+ 
+
+422
+00:07:07,759 --> 00:07:09,909
+muriendo,
+puedes elegir a cuál de esos
+
+423
+00:07:09,909 --> 00:07:09,919
+puedes elegir a cuál de esos
+ 
+
+424
+00:07:09,919 --> 00:07:11,830
+puedes elegir a cuál de esos
+efectos vas a atender antes de
+
+425
+00:07:11,830 --> 00:07:11,840
+efectos vas a atender antes de
+ 
+
+426
+00:07:11,840 --> 00:07:12,950
+efectos vas a atender antes de
+tirar tu prueba
+
+427
+00:07:12,950 --> 00:07:12,960
+tirar tu prueba
+ 
+
+428
+00:07:12,960 --> 00:07:15,909
+tirar tu prueba
+y solo se aplicará a esa condición, por lo que no puedes
+
+429
+00:07:15,909 --> 00:07:15,919
+y solo se aplicará a esa condición, por lo que no puedes
+ 
+
+430
+00:07:15,919 --> 00:07:17,589
+y solo se aplicará a esa condición, por lo que no puedes
+Tira una vez
+
+431
+00:07:17,589 --> 00:07:17,599
+Tira una vez
+ 
+
+432
+00:07:17,599 --> 00:07:20,309
+Tira una vez
+y administra primeros auxilios tanto para la
+
+433
+00:07:20,309 --> 00:07:20,319
+y administra primeros auxilios tanto para la
+ 
+
+434
+00:07:20,319 --> 00:07:24,469
+y administra primeros auxilios tanto para la
+condición moribunda como para la de sangrado.
+
+435
+00:07:24,469 --> 00:07:24,479
+
+ 
+
+436
+00:07:24,479 --> 00:07:26,070
+
+Tratar enfermedades se puede usar para ayudar a una
+
+437
+00:07:26,070 --> 00:07:26,080
+Tratar enfermedades se puede usar para ayudar a una
+ 
+
+438
+00:07:26,080 --> 00:07:27,589
+Tratar enfermedades se puede usar para ayudar a una
+criatura enferma a combatir su
+
+439
+00:07:27,589 --> 00:07:27,599
+criatura enferma a combatir su
+ 
+
+440
+00:07:27,599 --> 00:07:28,550
+criatura enferma a combatir su
+aflicción.
+
+441
+00:07:28,550 --> 00:07:28,560
+aflicción.
+ 
+
+442
+00:07:28,560 --> 00:07:31,189
+aflicción.
+Esta es una actividad de tiempo de inactividad que tarda
+
+443
+00:07:31,189 --> 00:07:31,199
+Esta es una actividad de tiempo de inactividad que tarda
+ 
+
+444
+00:07:31,199 --> 00:07:31,670
+Esta es una actividad de tiempo de inactividad que tarda
+ocho
+
+445
+00:07:31,670 --> 00:07:31,680
+ocho
+ 
+
+446
+00:07:31,680 --> 00:07:33,990
+ocho
+horas en usarse, después de las cuales realizas una
+
+447
+00:07:33,990 --> 00:07:34,000
+horas en usarse, después de las cuales realizas una
+ 
+
+448
+00:07:34,000 --> 00:07:37,029
+horas en usarse, después de las cuales realizas una
+prueba de medicina contra la CD de la enfermedad. En un
+
+449
+00:07:37,029 --> 00:07:37,039
+prueba de medicina contra la CD de la enfermedad. En un
+ 
+
+450
+00:07:37,039 --> 00:07:40,070
+prueba de medicina contra la CD de la enfermedad. En un
+éxito, el paciente recibe un
+
+451
+00:07:40,070 --> 00:07:40,080
+éxito, el paciente recibe un
+ 
+
+452
+00:07:40,080 --> 00:07:41,909
+éxito, el paciente recibe un
+bonificador de circunstancia de +2 a su próxima tirada de
+
+453
+00:07:41,909 --> 00:07:41,919
+bonificador de circunstancia de +2 a su próxima tirada de
+ 
+
+454
+00:07:41,919 --> 00:07:42,390
+bonificador de circunstancia de +2 a su próxima tirada de
+salvación
+
+455
+00:07:42,390 --> 00:07:42,400
+salvación
+ 
+
+456
+00:07:42,400 --> 00:07:45,589
+salvación
+contra esa enfermedad. En un éxito crítico,
+
+457
+00:07:45,589 --> 00:07:45,599
+contra esa enfermedad. En un éxito crítico,
+ 
+
+458
+00:07:45,599 --> 00:07:46,390
+contra esa enfermedad. En un éxito crítico,
+
+459
+00:07:46,390 --> 00:07:46,400
+
+ 
+
+460
+00:07:46,400 --> 00:07:49,510
+
+este bonificador aumenta a +4.
+
+461
+00:07:49,510 --> 00:07:49,520
+este bonificador aumenta a +4.
+ 
+
+462
+00:07:49,520 --> 00:07:51,990
+este bonificador aumenta a +4.
+No ocurre nada en un fallo, pero con un
+
+463
+00:07:51,990 --> 00:07:52,000
+No ocurre nada en un fallo, pero con un
+ 
+
+464
+00:07:52,000 --> 00:07:53,189
+No ocurre nada en un fallo, pero con un
+fallo crítico,
+
+465
+00:07:53,189 --> 00:07:53,199
+fallo crítico,
+ 
+
+466
+00:07:53,199 --> 00:07:55,670
+fallo crítico,
+el paciente sufre una penalización de -2
+
+467
+00:07:55,670 --> 00:07:55,680
+el paciente sufre una penalización de -2
+ 
+
+468
+00:07:55,680 --> 00:07:56,230
+el paciente sufre una penalización de -2
+
+469
+00:07:56,230 --> 00:07:56,240
+
+ 
+
+470
+00:07:56,240 --> 00:07:58,950
+
+a su próxima tirada de salvación contra la enfermedad.
+
+471
+00:07:58,950 --> 00:07:58,960
+a su próxima tirada de salvación contra la enfermedad.
+ 
+
+472
+00:07:58,960 --> 00:08:00,950
+a su próxima tirada de salvación contra la enfermedad.
+Y ten en cuenta que, dado que se trata de un bonificador por tipo, los
+
+473
+00:08:00,950 --> 00:08:00,960
+Y ten en cuenta que, dado que se trata de un bonificador por tipo, los
+ 
+
+474
+00:08:00,960 --> 00:08:01,589
+Y ten en cuenta que, dado que se trata de un bonificador por tipo, los
+
+475
+00:08:01,589 --> 00:08:01,599
+
+ 
+
+476
+00:08:01,599 --> 00:08:03,589
+
+usos múltiples de Tratar enfermedades en la
+
+477
+00:08:03,589 --> 00:08:03,599
+usos múltiples de Tratar enfermedades en la
+ 
+
+478
+00:08:03,599 --> 00:08:05,670
+usos múltiples de Tratar enfermedades en la
+misma criatura no se acumulan
+
+479
+00:08:05,670 --> 00:08:05,680
+misma criatura no se acumulan
+ 
+
+480
+00:08:05,680 --> 00:08:07,749
+misma criatura no se acumulan
+y una vez que usas Tratar enfermedades en una criatura, no
+
+481
+00:08:07,749 --> 00:08:07,759
+y una vez que usas Tratar enfermedades en una criatura, no
+ 
+
+482
+00:08:07,759 --> 00:08:10,469
+y una vez que usas Tratar enfermedades en una criatura, no
+puedes volver a usarlo en la
+
+483
+00:08:10,469 --> 00:08:10,479
+puedes volver a usarlo en la
+ 
+
+484
+00:08:10,479 --> 00:08:11,990
+puedes volver a usarlo en la
+misma criatura hasta que haya realizado
+
+485
+00:08:11,990 --> 00:08:12,000
+misma criatura hasta que haya realizado
+ 
+
+486
+00:08:12,000 --> 00:08:13,830
+misma criatura hasta que haya realizado
+su próxima tirada de salvación
+
+487
+00:08:13,830 --> 00:08:13,840
+su próxima tirada de salvación
+ 
+
+488
+00:08:13,840 --> 00:08:17,430
+su próxima tirada de salvación
+contra esa enfermedad.
+
+489
+00:08:17,430 --> 00:08:17,440
+
+ 
+
+490
+00:08:17,440 --> 00:08:19,350
+
+También puedes usar la habilidad de medicina para
+
+491
+00:08:19,350 --> 00:08:19,360
+También puedes usar la habilidad de medicina para
+ 
+
+492
+00:08:19,360 --> 00:08:20,469
+También puedes usar la habilidad de medicina para
+tratar veneno.
+
+493
+00:08:20,469 --> 00:08:20,479
+tratar veneno.
+ 
+
+494
+00:08:20,479 --> 00:08:22,550
+tratar veneno.
+Esto funciona de la misma manera que
+
+495
+00:08:22,550 --> 00:08:22,560
+Esto funciona de la misma manera que
+ 
+
+496
+00:08:22,560 --> 00:08:23,589
+Esto funciona de la misma manera que
+tratar una enfermedad,
+
+497
+00:08:23,589 --> 00:08:23,599
+tratar una enfermedad,
+ 
+
+498
+00:08:23,599 --> 00:08:26,070
+tratar una enfermedad,
+excepto que solo requiere una acción en lugar
+
+499
+00:08:26,070 --> 00:08:26,080
+excepto que solo requiere una acción en lugar
+ 
+
+500
+00:08:26,080 --> 00:08:27,110
+excepto que solo requiere una acción en lugar
+de ocho horas.
+
+501
+00:08:27,110 --> 00:08:27,120
+de ocho horas.
+ 
+
+502
+00:08:27,120 --> 00:08:28,950
+de ocho horas.
+Realizas una prueba de medicina contra la
+
+503
+00:08:28,950 --> 00:08:28,960
+Realizas una prueba de medicina contra la
+ 
+
+504
+00:08:28,960 --> 00:08:30,150
+Realizas una prueba de medicina contra la
+CD del veneno.
+
+505
+00:08:30,150 --> 00:08:30,160
+CD del veneno.
+ 
+
+506
+00:08:30,160 --> 00:08:32,550
+CD del veneno.
+En un éxito, el paciente obtiene un
+
+507
+00:08:32,550 --> 00:08:32,560
+En un éxito, el paciente obtiene un
+ 
+
+508
+00:08:32,560 --> 00:08:34,389
+En un éxito, el paciente obtiene un
+bonificador de circunstancia de +2 a su próxima
+
+509
+00:08:34,389 --> 00:08:34,399
+bonificador de circunstancia de +2 a su próxima
+ 
+
+510
+00:08:34,399 --> 00:08:36,070
+bonificador de circunstancia de +2 a su próxima
+tirada de salvación contra el veneno.
+
+511
+00:08:36,070 --> 00:08:36,080
+tirada de salvación contra el veneno.
+ 
+
+512
+00:08:36,080 --> 00:08:37,990
+tirada de salvación contra el veneno.
+En un éxito crítico, el bonificador
+
+513
+00:08:37,990 --> 00:08:38,000
+En un éxito crítico, el bonificador
+ 
+
+514
+00:08:38,000 --> 00:08:39,589
+En un éxito crítico, el bonificador
+aumenta a +4
+
+515
+00:08:39,589 --> 00:08:39,599
+aumenta a +4
+ 
+
+516
+00:08:39,599 --> 00:08:41,829
+aumenta a +4
+y en un fallo crítico, el paciente
+
+517
+00:08:41,829 --> 00:08:41,839
+y en un fallo crítico, el paciente
+ 
+
+518
+00:08:41,839 --> 00:08:43,829
+y en un fallo crítico, el paciente
+sufre un negativo.  2 penalización a su
+
+519
+00:08:43,829 --> 00:08:43,839
+sufre un negativo.  2 penalización a su
+ 
+
+520
+00:08:43,839 --> 00:08:45,829
+sufre un negativo.  2 penalización a su
+próxima salvación contra el veneno
+
+521
+00:08:45,829 --> 00:08:45,839
+próxima salvación contra el veneno
+ 
+
+522
+00:08:45,839 --> 00:08:48,150
+próxima salvación contra el veneno
+y al igual que con tratar enfermedades una vez que
+
+523
+00:08:48,150 --> 00:08:48,160
+y al igual que con tratar enfermedades una vez que
+ 
+
+524
+00:08:48,160 --> 00:08:49,670
+y al igual que con tratar enfermedades una vez que
+tratas a alguien por veneno no puedes
+
+525
+00:08:49,670 --> 00:08:49,680
+tratas a alguien por veneno no puedes
+ 
+
+526
+00:08:49,680 --> 00:08:51,990
+tratas a alguien por veneno no puedes
+volver a tratarlo hasta después de
+
+527
+00:08:51,990 --> 00:08:52,000
+volver a tratarlo hasta después de
+ 
+
+528
+00:08:52,000 --> 00:08:56,550
+volver a tratarlo hasta después de
+su próxima salvación cuando sea que eso pueda suceder
+
+529
+00:08:56,550 --> 00:08:56,560
+
+ 
+
+530
+00:08:56,560 --> 00:08:58,310
+
+esos son los fundamentos de la
+
+531
+00:08:58,310 --> 00:08:58,320
+esos son los fundamentos de la
+ 
+
+532
+00:08:58,320 --> 00:09:00,470
+esos son los fundamentos de la
+habilidad de medicina pero también hay algunas
+
+533
+00:09:00,470 --> 00:09:00,480
+habilidad de medicina pero también hay algunas
+ 
+
+534
+00:09:00,480 --> 00:09:02,630
+habilidad de medicina pero también hay algunas
+dotes que vale la pena mencionar la primera de
+
+535
+00:09:02,630 --> 00:09:02,640
+dotes que vale la pena mencionar la primera de
+ 
+
+536
+00:09:02,640 --> 00:09:04,389
+dotes que vale la pena mencionar la primera de
+ellas es medicina de batalla
+
+537
+00:09:04,389 --> 00:09:04,399
+ellas es medicina de batalla
+ 
+
+538
+00:09:04,399 --> 00:09:06,150
+ellas es medicina de batalla
+esto te permite usar curar heridas
+
+539
+00:09:06,150 --> 00:09:06,160
+esto te permite usar curar heridas
+ 
+
+540
+00:09:06,160 --> 00:09:07,829
+esto te permite usar curar heridas
+gastando una acción en lugar de 10
+
+541
+00:09:07,829 --> 00:09:07,839
+gastando una acción en lugar de 10
+ 
+
+542
+00:09:07,839 --> 00:09:08,630
+gastando una acción en lugar de 10
+minutos
+
+543
+00:09:08,630 --> 00:09:08,640
+minutos
+ 
+
+544
+00:09:08,640 --> 00:09:11,190
+minutos
+para que puedas usarlo durante una pelea esto
+
+545
+00:09:11,190 --> 00:09:11,200
+para que puedas usarlo durante una pelea esto
+ 
+
+546
+00:09:11,200 --> 00:09:13,590
+para que puedas usarlo durante una pelea esto
+funciona igual que usar heridas de árbol
+
+547
+00:09:13,590 --> 00:09:13,600
+funciona igual que usar heridas de árbol
+ 
+
+548
+00:09:13,600 --> 00:09:15,990
+funciona igual que usar heridas de árbol
+excepto que la medicina de batalla no elimina
+
+549
+00:09:15,990 --> 00:09:16,000
+excepto que la medicina de batalla no elimina
+ 
+
+550
+00:09:16,000 --> 00:09:17,430
+excepto que la medicina de batalla no elimina
+la condición de herido cuando tiene
+
+551
+00:09:17,430 --> 00:09:17,440
+la condición de herido cuando tiene
+ 
+
+552
+00:09:17,440 --> 00:09:18,389
+la condición de herido cuando tiene
+éxito
+
+553
+00:09:18,389 --> 00:09:18,399
+éxito
+ 
+
+554
+00:09:18,399 --> 00:09:20,310
+éxito
+y una vez que usas medicina de batalla en un
+
+555
+00:09:20,310 --> 00:09:20,320
+y una vez que usas medicina de batalla en un
+ 
+
+556
+00:09:20,320 --> 00:09:21,990
+y una vez que usas medicina de batalla en un
+objetivo el objetivo es
+
+557
+00:09:21,990 --> 00:09:22,000
+objetivo el objetivo es
+ 
+
+558
+00:09:22,000 --> 00:09:24,630
+objetivo el objetivo es
+inmune a tu medicina de batalla por un
+
+559
+00:09:24,630 --> 00:09:24,640
+inmune a tu medicina de batalla por un
+ 
+
+560
+00:09:24,640 --> 00:09:25,269
+inmune a tu medicina de batalla por un
+día
+
+561
+00:09:25,269 --> 00:09:25,279
+día
+ 
+
+562
+00:09:25,279 --> 00:09:26,710
+día
+otras personas aún pueden usar
+
+563
+00:09:26,710 --> 00:09:26,720
+otras personas aún pueden usar
+ 
+
+564
+00:09:26,720 --> 00:09:29,030
+otras personas aún pueden usar
+medicina de batalla en ellos simplemente no pueden beneficiarse
+
+565
+00:09:29,030 --> 00:09:29,040
+medicina de batalla en ellos simplemente no pueden beneficiarse
+ 
+
+566
+00:09:29,040 --> 00:09:29,350
+medicina de batalla en ellos simplemente no pueden beneficiarse
+de
+
+567
+00:09:29,350 --> 00:09:29,360
+de
+ 
+
+568
+00:09:29,360 --> 00:09:33,269
+de
+tu medicina de batalla hasta que pase un día
+
+569
+00:09:33,269 --> 00:09:33,279
+tu medicina de batalla hasta que pase un día
+ 
+
+570
+00:09:33,279 --> 00:09:35,750
+tu medicina de batalla hasta que pase un día
+la dote de recuperación continua reduce el tiempo de
+
+571
+00:09:35,750 --> 00:09:35,760
+la dote de recuperación continua reduce el tiempo de
+ 
+
+572
+00:09:35,760 --> 00:09:37,990
+la dote de recuperación continua reduce el tiempo de
+reutilización para tratar heridas de una hora
+
+573
+00:09:37,990 --> 00:09:38,000
+reutilización para tratar heridas de una hora
+ 
+
+574
+00:09:38,000 --> 00:09:38,310
+reutilización para tratar heridas de una hora
+a
+
+575
+00:09:38,310 --> 00:09:38,320
+a
+ 
+
+576
+00:09:38,320 --> 00:09:41,110
+a
+solo 10 minutos cuando tienes una recuperación robusta
+
+577
+00:09:41,110 --> 00:09:41,120
+solo 10 minutos cuando tienes una recuperación robusta
+ 
+
+578
+00:09:41,120 --> 00:09:41,750
+solo 10 minutos cuando tienes una recuperación robusta
+
+579
+00:09:41,750 --> 00:09:41,760
+
+ 
+
+580
+00:09:41,760 --> 00:09:43,829
+
+y tienes éxito con la enfermedad de árbol o tratar
+
+581
+00:09:43,829 --> 00:09:43,839
+y tienes éxito con la enfermedad de árbol o tratar
+ 
+
+582
+00:09:43,839 --> 00:09:46,310
+y tienes éxito con la enfermedad de árbol o tratar
+veneno la bonificación que recibe el paciente a
+
+583
+00:09:46,310 --> 00:09:46,320
+veneno la bonificación que recibe el paciente a
+ 
+
+584
+00:09:46,320 --> 00:09:47,269
+veneno la bonificación que recibe el paciente a
+su próxima salvación
+
+585
+00:09:47,269 --> 00:09:47,279
+su próxima salvación
+ 
+
+586
+00:09:47,279 --> 00:09:50,389
+su próxima salvación
+es +4 en lugar de +2 y si
+
+587
+00:09:50,389 --> 00:09:50,399
+es +4 en lugar de +2 y si
+ 
+
+588
+00:09:50,399 --> 00:09:51,509
+es +4 en lugar de +2 y si
+tienen éxito en esa
+
+589
+00:09:51,509 --> 00:09:51,519
+tienen éxito en esa
+ 
+
+590
+00:09:51,519 --> 00:09:53,590
+tienen éxito en esa
+verificación el resultado se actualiza a un
+
+591
+00:09:53,590 --> 00:09:53,600
+verificación el resultado se actualiza a un
+ 
+
+592
+00:09:53,600 --> 00:09:55,590
+verificación el resultado se actualiza a un
+éxito crítico
+
+593
+00:09:55,590 --> 00:09:55,600
+éxito crítico
+ 
+
+594
+00:09:55,600 --> 00:09:57,829
+éxito crítico
+y los éxitos críticos aquí generalmente
+
+595
+00:09:57,829 --> 00:09:57,839
+y los éxitos críticos aquí generalmente
+ 
+
+596
+00:09:57,839 --> 00:10:00,150
+y los éxitos críticos aquí generalmente
+reducen la enfermedad o el envenenamiento en dos
+
+597
+00:10:00,150 --> 00:10:00,160
+reducen la enfermedad o el envenenamiento en dos
+ 
+
+598
+00:10:00,160 --> 00:10:03,190
+reducen la enfermedad o el envenenamiento en dos
+etapas en lugar de solo una  El
+
+599
+00:10:03,190 --> 00:10:03,200
+etapas en lugar de solo una  El
+ 
+
+600
+00:10:03,200 --> 00:10:05,190
+etapas en lugar de solo una  El
+médico de sala aumenta la cantidad de
+
+601
+00:10:05,190 --> 00:10:05,200
+médico de sala aumenta la cantidad de
+ 
+
+602
+00:10:05,200 --> 00:10:07,269
+médico de sala aumenta la cantidad de
+personas que puedes tratar simultáneamente.
+
+603
+00:10:07,269 --> 00:10:09,110
+personas que puedes tratar simultáneamente.
+ 
+
+604
+00:10:09,110 --> 00:10:09,120
+
+ 
+
+605
+00:10:09,120 --> 00:10:11,269
+
+Con la habilidad de experto puedes tratar a 2
+
+606
+00:10:11,269 --> 00:10:11,279
+Con la habilidad de experto puedes tratar a 2
+ 
+
+607
+00:10:11,279 --> 00:10:13,750
+Con la habilidad de experto puedes tratar a 2
+personas. Con la habilidad de maestro puedes tratar a 4
+
+608
+00:10:13,750 --> 00:10:13,760
+personas. Con la habilidad de maestro puedes tratar a 4
+ 
+
+609
+00:10:13,760 --> 00:10:15,990
+personas. Con la habilidad de maestro puedes tratar a 4
+y con la habilidad de legendario puedes
+
+610
+00:10:15,990 --> 00:10:16,000
+y con la habilidad de legendario puedes
+ 
+
+611
+00:10:16,000 --> 00:10:17,269
+y con la habilidad de legendario puedes
+tratar a 8 personas
+
+612
+00:10:17,269 --> 00:10:17,279
+tratar a 8 personas
+ 
+
+613
+00:10:17,279 --> 00:10:20,389
+tratar a 8 personas
+al mismo tiempo. La medicina natural te
+
+614
+00:10:20,389 --> 00:10:20,399
+al mismo tiempo. La medicina natural te
+ 
+
+615
+00:10:20,399 --> 00:10:22,710
+al mismo tiempo. La medicina natural te
+permite usar tu habilidad de naturaleza en lugar
+
+616
+00:10:22,710 --> 00:10:22,720
+permite usar tu habilidad de naturaleza en lugar
+ 
+
+617
+00:10:22,720 --> 00:10:23,430
+permite usar tu habilidad de naturaleza en lugar
+de medicina
+
+618
+00:10:23,430 --> 00:10:23,440
+de medicina
+ 
+
+619
+00:10:23,440 --> 00:10:25,670
+de medicina
+cuando estás tratando heridas. En la
+
+620
+00:10:25,670 --> 00:10:25,680
+cuando estás tratando heridas. En la
+ 
+
+621
+00:10:25,680 --> 00:10:27,269
+cuando estás tratando heridas. En la
+descripción del DJ, si estás en el
+
+622
+00:10:27,269 --> 00:10:27,279
+descripción del DJ, si estás en el
+ 
+
+623
+00:10:27,279 --> 00:10:27,910
+descripción del DJ, si estás en el
+desierto,
+
+624
+00:10:27,910 --> 00:10:27,920
+desierto,
+ 
+
+625
+00:10:27,920 --> 00:10:30,389
+desierto,
+también puedes encontrar ingredientes frescos para
+
+626
+00:10:30,389 --> 00:10:30,399
+también puedes encontrar ingredientes frescos para
+ 
+
+627
+00:10:30,399 --> 00:10:32,790
+también puedes encontrar ingredientes frescos para
+agregar una bonificación de circunstancia de +2
+
+628
+00:10:32,790 --> 00:10:32,800
+agregar una bonificación de circunstancia de +2
+ 
+
+629
+00:10:32,800 --> 00:10:35,910
+agregar una bonificación de circunstancia de +2
+a tus controles de tratamiento de heridas.
+
+630
+00:10:35,910 --> 00:10:35,920
+a tus controles de tratamiento de heridas.
+ 
+
+631
+00:10:35,920 --> 00:10:37,030
+a tus controles de tratamiento de heridas.
+Animaría a cualquiera que esté
+
+632
+00:10:37,030 --> 00:10:37,040
+Animaría a cualquiera que esté
+ 
+
+633
+00:10:37,040 --> 00:10:38,710
+Animaría a cualquiera que esté
+interesado en centrarse en la
+
+634
+00:10:38,710 --> 00:10:38,720
+interesado en centrarse en la
+ 
+
+635
+00:10:38,720 --> 00:10:41,110
+interesado en centrarse en la
+habilidad de medicina a que revise el arquetipo de médico
+
+636
+00:10:41,110 --> 00:10:41,120
+habilidad de medicina a que revise el arquetipo de médico
+ 
+
+637
+00:10:41,120 --> 00:10:43,269
+habilidad de medicina a que revise el arquetipo de médico
+y a aquellos interesados ​​en centrarse en la
+
+638
+00:10:43,269 --> 00:10:43,279
+y a aquellos interesados ​​en centrarse en la
+ 
+
+639
+00:10:43,279 --> 00:10:44,230
+y a aquellos interesados ​​en centrarse en la
+medicina natural a que
+
+640
+00:10:44,230 --> 00:10:44,240
+medicina natural a que
+ 
+
+641
+00:10:44,240 --> 00:10:46,550
+medicina natural a que
+revisen el arquetipo de herbolario.
+
+642
+00:10:46,550 --> 00:10:46,560
+revisen el arquetipo de herbolario.
+ 
+
+643
+00:10:46,560 --> 00:10:48,230
+revisen el arquetipo de herbolario.
+Ambos se pueden encontrar en la
+
+644
+00:10:48,230 --> 00:10:48,240
+Ambos se pueden encontrar en la
+ 
+
+645
+00:10:48,240 --> 00:10:51,430
+Ambos se pueden encontrar en la
+guía del jugador avanzado.
+
+646
+00:10:51,430 --> 00:10:51,440
+guía del jugador avanzado.
+ 
+
+647
+00:10:51,440 --> 00:10:52,870
+guía del jugador avanzado.
+Antes de cerrar, me gustaría tomarme un
+
+648
+00:10:52,870 --> 00:10:52,880
+Antes de cerrar, me gustaría tomarme un
+ 
+
+649
+00:10:52,880 --> 00:10:54,870
+Antes de cerrar, me gustaría tomarme un
+momento para agradecer a todos mis patrocinadores.
+
+650
+00:10:54,870 --> 00:10:54,880
+momento para agradecer a todos mis patrocinadores.
+ 
+
+651
+00:10:54,880 --> 00:10:56,470
+momento para agradecer a todos mis patrocinadores.
+Estos videos no serían posibles
+
+652
+00:10:56,470 --> 00:10:56,480
+Estos videos no serían posibles
+ 
+
+653
+00:10:56,480 --> 00:10:58,389
+Estos videos no serían posibles
+sin su continua generosidad y
+
+654
+00:10:58,389 --> 00:10:58,399
+sin su continua generosidad y
+ 
+
+655
+00:10:58,399 --> 00:10:59,509
+sin su continua generosidad y
+apoyo. Los
+
+656
+00:10:59,509 --> 00:10:59,519
+apoyo. Los
+ 
+
+657
+00:10:59,519 --> 00:11:01,030
+apoyo. Los
+miembros de la comunidad de Patreon de How Is Play
+
+658
+00:11:01,030 --> 00:11:01,040
+miembros de la comunidad de Patreon de How Is Play
+ 
+
+659
+00:11:01,040 --> 00:11:03,110
+miembros de la comunidad de Patreon de How Is Play
+reciben beneficios especiales como
+
+660
+00:11:03,110 --> 00:11:03,120
+reciben beneficios especiales como
+ 
+
+661
+00:11:03,120 --> 00:11:04,310
+reciben beneficios especiales como
+contenido exclusivo
+
+662
+00:11:04,310 --> 00:11:04,320
+contenido exclusivo
+ 
+
+663
+00:11:04,320 --> 00:11:05,910
+contenido exclusivo
+y la posibilidad de votar sobre los temas que
+
+664
+00:11:05,910 --> 00:11:05,920
+y la posibilidad de votar sobre los temas que
+ 
+
+665
+00:11:05,920 --> 00:11:07,829
+y la posibilidad de votar sobre los temas que
+cubro. Si deseas apoyar este
+
+666
+00:11:07,829 --> 00:11:07,839
+cubro. Si deseas apoyar este
+ 
+
+667
+00:11:07,839 --> 00:11:09,110
+cubro. Si deseas apoyar este
+canal y ayudarlo a crecer,
+
+668
+00:11:09,110 --> 00:11:09,120
+canal y ayudarlo a crecer,
+ 
+
+669
+00:11:09,120 --> 00:11:11,030
+canal y ayudarlo a crecer,
+la forma más fácil de hacerlo es
+
+670
+00:11:11,030 --> 00:11:11,040
+la forma más fácil de hacerlo es
+ 
+
+671
+00:11:11,040 --> 00:11:13,030
+la forma más fácil de hacerlo es
+suscribiéndose y haciendo clic en el ícono de la campana para que
+
+672
+00:11:13,030 --> 00:11:13,040
+suscribiéndose y haciendo clic en el ícono de la campana para que
+ 
+
+673
+00:11:13,040 --> 00:11:14,790
+suscribiéndose y haciendo clic en el ícono de la campana para que
+puedas  Recibe notificaciones cuando
+
+674
+00:11:14,790 --> 00:11:14,800
+puedas  Recibe notificaciones cuando
+ 
+
+675
+00:11:14,800 --> 00:11:16,870
+puedas  Recibe notificaciones cuando
+se publiquen nuevos videos y siempre puedes comunicarte conmigo a
+
+676
+00:11:16,870 --> 00:11:16,880
+se publiquen nuevos videos y siempre puedes comunicarte conmigo a
+ 
+
+677
+00:11:16,880 --> 00:11:18,790
+se publiquen nuevos videos y siempre puedes comunicarte conmigo a
+través de Twitter y Facebook también.
+
+678
+00:11:18,790 --> 00:11:18,800
+través de Twitter y Facebook también.
+ 
+
+679
+00:11:18,800 --> 00:11:22,190
+través de Twitter y Facebook también.
+Gracias por mirar, cuídate y disfruta del
+
+680
+00:11:22,190 --> 00:11:22,200
+Gracias por mirar, cuídate y disfruta del
+ 
+
+681
+00:11:22,200 --> 00:11:25,200
+Gracias por mirar, cuídate y disfruta del
+juego.
+

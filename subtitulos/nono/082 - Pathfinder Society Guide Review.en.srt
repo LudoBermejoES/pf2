@@ -1,0 +1,3075 @@
+1
+00:00:01,040 --> 00:00:03,909
+
+hi everybody dave here with a review of
+
+2
+00:00:03,909 --> 00:00:03,919
+hi everybody dave here with a review of
+ 
+
+3
+00:00:03,919 --> 00:00:05,510
+hi everybody dave here with a review of
+pathfinder 2nd edition's
+
+4
+00:00:05,510 --> 00:00:05,520
+pathfinder 2nd edition's
+ 
+
+5
+00:00:05,520 --> 00:00:07,990
+pathfinder 2nd edition's
+latest hardback release the lost omens
+
+6
+00:00:07,990 --> 00:00:08,000
+latest hardback release the lost omens
+ 
+
+7
+00:00:08,000 --> 00:00:09,910
+latest hardback release the lost omens
+pathfinder society guide
+
+8
+00:00:09,910 --> 00:00:09,920
+pathfinder society guide
+ 
+
+9
+00:00:09,920 --> 00:00:11,830
+pathfinder society guide
+this book releases today and full
+
+10
+00:00:11,830 --> 00:00:11,840
+this book releases today and full
+ 
+
+11
+00:00:11,840 --> 00:00:14,230
+this book releases today and full
+disclosure paizo did provide me an
+
+12
+00:00:14,230 --> 00:00:14,240
+disclosure paizo did provide me an
+ 
+
+13
+00:00:14,240 --> 00:00:16,390
+disclosure paizo did provide me an
+advanced copy of it for reviewing
+
+14
+00:00:16,390 --> 00:00:16,400
+advanced copy of it for reviewing
+ 
+
+15
+00:00:16,400 --> 00:00:18,870
+advanced copy of it for reviewing
+but this is not a paid advertisement and
+
+16
+00:00:18,870 --> 00:00:18,880
+but this is not a paid advertisement and
+ 
+
+17
+00:00:18,880 --> 00:00:21,670
+but this is not a paid advertisement and
+i will be providing my unbiased opinions
+
+18
+00:00:21,670 --> 00:00:21,680
+i will be providing my unbiased opinions
+ 
+
+19
+00:00:21,680 --> 00:00:24,550
+i will be providing my unbiased opinions
+so first let's talk about numbers this
+
+20
+00:00:24,550 --> 00:00:24,560
+so first let's talk about numbers this
+ 
+
+21
+00:00:24,560 --> 00:00:24,870
+so first let's talk about numbers this
+is
+
+22
+00:00:24,870 --> 00:00:24,880
+is
+ 
+
+23
+00:00:24,880 --> 00:00:27,670
+is
+the fourth book in the lost humans line
+
+24
+00:00:27,670 --> 00:00:27,680
+the fourth book in the lost humans line
+ 
+
+25
+00:00:27,680 --> 00:00:31,750
+the fourth book in the lost humans line
+it retails for 34.99 and has 127 pages
+
+26
+00:00:31,750 --> 00:00:31,760
+it retails for 34.99 and has 127 pages
+ 
+
+27
+00:00:31,760 --> 00:00:32,709
+it retails for 34.99 and has 127 pages
+of content
+
+28
+00:00:32,709 --> 00:00:32,719
+of content
+ 
+
+29
+00:00:32,719 --> 00:00:35,110
+of content
+now that price is three dollars cheaper
+
+30
+00:00:35,110 --> 00:00:35,120
+now that price is three dollars cheaper
+ 
+
+31
+00:00:35,120 --> 00:00:36,950
+now that price is three dollars cheaper
+than the lost omens world guide
+
+32
+00:00:36,950 --> 00:00:36,960
+than the lost omens world guide
+ 
+
+33
+00:00:36,960 --> 00:00:39,590
+than the lost omens world guide
+so it is nice to see pizza settling in
+
+34
+00:00:39,590 --> 00:00:39,600
+so it is nice to see pizza settling in
+ 
+
+35
+00:00:39,600 --> 00:00:41,350
+so it is nice to see pizza settling in
+on this lower price point rather than
+
+36
+00:00:41,350 --> 00:00:41,360
+on this lower price point rather than
+ 
+
+37
+00:00:41,360 --> 00:00:42,470
+on this lower price point rather than
+inflating it
+
+38
+00:00:42,470 --> 00:00:42,480
+inflating it
+ 
+
+39
+00:00:42,480 --> 00:00:45,510
+inflating it
+however at 127 pages of content
+
+40
+00:00:45,510 --> 00:00:45,520
+however at 127 pages of content
+ 
+
+41
+00:00:45,520 --> 00:00:47,830
+however at 127 pages of content
+this offering has just a little bit less
+
+42
+00:00:47,830 --> 00:00:47,840
+this offering has just a little bit less
+ 
+
+43
+00:00:47,840 --> 00:00:48,869
+this offering has just a little bit less
+between the covers
+
+44
+00:00:48,869 --> 00:00:48,879
+between the covers
+ 
+
+45
+00:00:48,879 --> 00:00:51,189
+between the covers
+than the previous lost omen books which
+
+46
+00:00:51,189 --> 00:00:51,199
+than the previous lost omen books which
+ 
+
+47
+00:00:51,199 --> 00:00:54,069
+than the previous lost omen books which
+were around 135 pages
+
+48
+00:00:54,069 --> 00:00:54,079
+were around 135 pages
+ 
+
+49
+00:00:54,079 --> 00:00:55,910
+were around 135 pages
+you can also purchase the pdf version
+
+50
+00:00:55,910 --> 00:00:55,920
+you can also purchase the pdf version
+ 
+
+51
+00:00:55,920 --> 00:00:57,110
+you can also purchase the pdf version
+from paizo.com
+
+52
+00:00:57,110 --> 00:00:57,120
+from paizo.com
+ 
+
+53
+00:00:57,120 --> 00:01:00,389
+from paizo.com
+for 24.99 now what do you get for your
+
+54
+00:01:00,389 --> 00:01:00,399
+for 24.99 now what do you get for your
+ 
+
+55
+00:01:00,399 --> 00:01:02,470
+for 24.99 now what do you get for your
+25 or 35 dollars
+
+56
+00:01:02,470 --> 00:01:02,480
+25 or 35 dollars
+ 
+
+57
+00:01:02,480 --> 00:01:04,469
+25 or 35 dollars
+if you've read any of the previous lost
+
+58
+00:01:04,469 --> 00:01:04,479
+if you've read any of the previous lost
+ 
+
+59
+00:01:04,479 --> 00:01:06,630
+if you've read any of the previous lost
+um books then you know what you're in
+
+60
+00:01:06,630 --> 00:01:06,640
+um books then you know what you're in
+ 
+
+61
+00:01:06,640 --> 00:01:07,510
+um books then you know what you're in
+for
+
+62
+00:01:07,510 --> 00:01:07,520
+for
+ 
+
+63
+00:01:07,520 --> 00:01:09,990
+for
+this is a setting book high on flavor
+
+64
+00:01:09,990 --> 00:01:10,000
+this is a setting book high on flavor
+ 
+
+65
+00:01:10,000 --> 00:01:12,469
+this is a setting book high on flavor
+and fuel for your imagination with new
+
+66
+00:01:12,469 --> 00:01:12,479
+and fuel for your imagination with new
+ 
+
+67
+00:01:12,479 --> 00:01:15,190
+and fuel for your imagination with new
+player options sprinkled throughout
+
+68
+00:01:15,190 --> 00:01:15,200
+player options sprinkled throughout
+ 
+
+69
+00:01:15,200 --> 00:01:17,190
+player options sprinkled throughout
+and all of it is focused on the
+
+70
+00:01:17,190 --> 00:01:17,200
+and all of it is focused on the
+ 
+
+71
+00:01:17,200 --> 00:01:18,710
+and all of it is focused on the
+pathfinder society
+
+72
+00:01:18,710 --> 00:01:18,720
+pathfinder society
+ 
+
+73
+00:01:18,720 --> 00:01:20,870
+pathfinder society
+and is worth mentioning that this book
+
+74
+00:01:20,870 --> 00:01:20,880
+and is worth mentioning that this book
+ 
+
+75
+00:01:20,880 --> 00:01:23,030
+and is worth mentioning that this book
+is about the organization that exists
+
+76
+00:01:23,030 --> 00:01:23,040
+is about the organization that exists
+ 
+
+77
+00:01:23,040 --> 00:01:24,630
+is about the organization that exists
+within the game's narrative
+
+78
+00:01:24,630 --> 00:01:24,640
+within the game's narrative
+ 
+
+79
+00:01:24,640 --> 00:01:27,270
+within the game's narrative
+and not the real world organized play
+
+80
+00:01:27,270 --> 00:01:27,280
+and not the real world organized play
+ 
+
+81
+00:01:27,280 --> 00:01:28,149
+and not the real world organized play
+campaign
+
+82
+00:01:28,149 --> 00:01:28,159
+campaign
+ 
+
+83
+00:01:28,159 --> 00:01:29,990
+campaign
+although most of the content in this
+
+84
+00:01:29,990 --> 00:01:30,000
+although most of the content in this
+ 
+
+85
+00:01:30,000 --> 00:01:31,749
+although most of the content in this
+book is applicable to
+
+86
+00:01:31,749 --> 00:01:31,759
+book is applicable to
+ 
+
+87
+00:01:31,759 --> 00:01:34,870
+book is applicable to
+those games as well the book's content
+
+88
+00:01:34,870 --> 00:01:34,880
+those games as well the book's content
+ 
+
+89
+00:01:34,880 --> 00:01:35,990
+those games as well the book's content
+is divided into four
+
+90
+00:01:35,990 --> 00:01:36,000
+is divided into four
+ 
+
+91
+00:01:36,000 --> 00:01:38,469
+is divided into four
+chapters the first chapter provides an
+
+92
+00:01:38,469 --> 00:01:38,479
+chapters the first chapter provides an
+ 
+
+93
+00:01:38,479 --> 00:01:40,950
+chapters the first chapter provides an
+introduction to the pathfinder society
+
+94
+00:01:40,950 --> 00:01:40,960
+introduction to the pathfinder society
+ 
+
+95
+00:01:40,960 --> 00:01:42,950
+introduction to the pathfinder society
+detailing its history from its humble
+
+96
+00:01:42,950 --> 00:01:42,960
+detailing its history from its humble
+ 
+
+97
+00:01:42,960 --> 00:01:44,630
+detailing its history from its humble
+beginnings as a social club for
+
+98
+00:01:44,630 --> 00:01:44,640
+beginnings as a social club for
+ 
+
+99
+00:01:44,640 --> 00:01:46,710
+beginnings as a social club for
+adventurers to the global power that it
+
+100
+00:01:46,710 --> 00:01:46,720
+adventurers to the global power that it
+ 
+
+101
+00:01:46,720 --> 00:01:47,830
+adventurers to the global power that it
+is today
+
+102
+00:01:47,830 --> 00:01:47,840
+is today
+ 
+
+103
+00:01:47,840 --> 00:01:50,149
+is today
+it provides an overview of what life is
+
+104
+00:01:50,149 --> 00:01:50,159
+it provides an overview of what life is
+ 
+
+105
+00:01:50,159 --> 00:01:51,670
+it provides an overview of what life is
+like in the society
+
+106
+00:01:51,670 --> 00:01:51,680
+like in the society
+ 
+
+107
+00:01:51,680 --> 00:01:53,510
+like in the society
+and also puts forth an argument that
+
+108
+00:01:53,510 --> 00:01:53,520
+and also puts forth an argument that
+ 
+
+109
+00:01:53,520 --> 00:01:54,710
+and also puts forth an argument that
+pathfinder agents
+
+110
+00:01:54,710 --> 00:01:54,720
+pathfinder agents
+ 
+
+111
+00:01:54,720 --> 00:01:57,670
+pathfinder agents
+are more than just common tomb robbers
+
+112
+00:01:57,670 --> 00:01:57,680
+are more than just common tomb robbers
+ 
+
+113
+00:01:57,680 --> 00:01:59,510
+are more than just common tomb robbers
+as part of the introductory chapter to
+
+114
+00:01:59,510 --> 00:01:59,520
+as part of the introductory chapter to
+ 
+
+115
+00:01:59,520 --> 00:02:00,149
+as part of the introductory chapter to
+the book
+
+116
+00:02:00,149 --> 00:02:00,159
+the book
+ 
+
+117
+00:02:00,159 --> 00:02:02,310
+the book
+it also provides introductory guidance
+
+118
+00:02:02,310 --> 00:02:02,320
+it also provides introductory guidance
+ 
+
+119
+00:02:02,320 --> 00:02:03,270
+it also provides introductory guidance
+to players
+
+120
+00:02:03,270 --> 00:02:03,280
+to players
+ 
+
+121
+00:02:03,280 --> 00:02:05,749
+to players
+in the form of five new backgrounds
+
+122
+00:02:05,749 --> 00:02:05,759
+in the form of five new backgrounds
+ 
+
+123
+00:02:05,759 --> 00:02:07,030
+in the form of five new backgrounds
+archaeologist
+
+124
+00:02:07,030 --> 00:02:07,040
+archaeologist
+ 
+
+125
+00:02:07,040 --> 00:02:09,910
+archaeologist
+pathfinder recruiter spell seeker
+
+126
+00:02:09,910 --> 00:02:09,920
+pathfinder recruiter spell seeker
+ 
+
+127
+00:02:09,920 --> 00:02:11,029
+pathfinder recruiter spell seeker
+trailblazer
+
+128
+00:02:11,029 --> 00:02:11,039
+trailblazer
+ 
+
+129
+00:02:11,039 --> 00:02:13,670
+trailblazer
+and translator a lot of detail is
+
+130
+00:02:13,670 --> 00:02:13,680
+and translator a lot of detail is
+ 
+
+131
+00:02:13,680 --> 00:02:15,110
+and translator a lot of detail is
+provided in this chapter
+
+132
+00:02:15,110 --> 00:02:15,120
+provided in this chapter
+ 
+
+133
+00:02:15,120 --> 00:02:17,110
+provided in this chapter
+regarding the pathfinder society's
+
+134
+00:02:17,110 --> 00:02:17,120
+regarding the pathfinder society's
+ 
+
+135
+00:02:17,120 --> 00:02:18,790
+regarding the pathfinder society's
+purpose and where they fit into the
+
+136
+00:02:18,790 --> 00:02:18,800
+purpose and where they fit into the
+ 
+
+137
+00:02:18,800 --> 00:02:20,309
+purpose and where they fit into the
+larger campaign world
+
+138
+00:02:20,309 --> 00:02:20,319
+larger campaign world
+ 
+
+139
+00:02:20,319 --> 00:02:22,710
+larger campaign world
+as well as fun flavor bits such as a
+
+140
+00:02:22,710 --> 00:02:22,720
+as well as fun flavor bits such as a
+ 
+
+141
+00:02:22,720 --> 00:02:25,190
+as well as fun flavor bits such as a
+sidebar giving you pathfinder society
+
+142
+00:02:25,190 --> 00:02:25,200
+sidebar giving you pathfinder society
+ 
+
+143
+00:02:25,200 --> 00:02:26,309
+sidebar giving you pathfinder society
+slang
+
+144
+00:02:26,309 --> 00:02:26,319
+slang
+ 
+
+145
+00:02:26,319 --> 00:02:28,710
+slang
+the book's second chapter details the
+
+146
+00:02:28,710 --> 00:02:28,720
+the book's second chapter details the
+ 
+
+147
+00:02:28,720 --> 00:02:30,790
+the book's second chapter details the
+society's different factions
+
+148
+00:02:30,790 --> 00:02:30,800
+society's different factions
+ 
+
+149
+00:02:30,800 --> 00:02:32,390
+society's different factions
+although these factions were briefly
+
+150
+00:02:32,390 --> 00:02:32,400
+although these factions were briefly
+ 
+
+151
+00:02:32,400 --> 00:02:34,150
+although these factions were briefly
+discussed in the lost uma's character
+
+152
+00:02:34,150 --> 00:02:34,160
+discussed in the lost uma's character
+ 
+
+153
+00:02:34,160 --> 00:02:34,790
+discussed in the lost uma's character
+guide
+
+154
+00:02:34,790 --> 00:02:34,800
+guide
+ 
+
+155
+00:02:34,800 --> 00:02:37,509
+guide
+they really go into a deep dive of each
+
+156
+00:02:37,509 --> 00:02:37,519
+they really go into a deep dive of each
+ 
+
+157
+00:02:37,519 --> 00:02:38,869
+they really go into a deep dive of each
+of them here
+
+158
+00:02:38,869 --> 00:02:38,879
+of them here
+ 
+
+159
+00:02:38,879 --> 00:02:40,949
+of them here
+each faction's write-up includes a
+
+160
+00:02:40,949 --> 00:02:40,959
+each faction's write-up includes a
+ 
+
+161
+00:02:40,959 --> 00:02:42,470
+each faction's write-up includes a
+detailed history
+
+162
+00:02:42,470 --> 00:02:42,480
+detailed history
+ 
+
+163
+00:02:42,480 --> 00:02:45,030
+detailed history
+section on faction-specific gear and a
+
+164
+00:02:45,030 --> 00:02:45,040
+section on faction-specific gear and a
+ 
+
+165
+00:02:45,040 --> 00:02:47,350
+section on faction-specific gear and a
+biography of the faction's leader
+
+166
+00:02:47,350 --> 00:02:47,360
+biography of the faction's leader
+ 
+
+167
+00:02:47,360 --> 00:02:49,190
+biography of the faction's leader
+the four most common factions are
+
+168
+00:02:49,190 --> 00:02:49,200
+the four most common factions are
+ 
+
+169
+00:02:49,200 --> 00:02:50,630
+the four most common factions are
+covered in this book
+
+170
+00:02:50,630 --> 00:02:50,640
+covered in this book
+ 
+
+171
+00:02:50,640 --> 00:02:53,110
+covered in this book
+including the invoice alliance which is
+
+172
+00:02:53,110 --> 00:02:53,120
+including the invoice alliance which is
+ 
+
+173
+00:02:53,120 --> 00:02:55,270
+including the invoice alliance which is
+focused on diplomacy and community
+
+174
+00:02:55,270 --> 00:02:55,280
+focused on diplomacy and community
+ 
+
+175
+00:02:55,280 --> 00:02:56,309
+focused on diplomacy and community
+building
+
+176
+00:02:56,309 --> 00:02:56,319
+building
+ 
+
+177
+00:02:56,319 --> 00:02:58,149
+building
+the grand archive dedicated to
+
+178
+00:02:58,149 --> 00:02:58,159
+the grand archive dedicated to
+ 
+
+179
+00:02:58,159 --> 00:03:00,070
+the grand archive dedicated to
+preserving knowledge in history
+
+180
+00:03:00,070 --> 00:03:00,080
+preserving knowledge in history
+ 
+
+181
+00:03:00,080 --> 00:03:02,630
+preserving knowledge in history
+the horizon hunters who explore the
+
+182
+00:03:02,630 --> 00:03:02,640
+the horizon hunters who explore the
+ 
+
+183
+00:03:02,640 --> 00:03:03,670
+the horizon hunters who explore the
+unknown
+
+184
+00:03:03,670 --> 00:03:03,680
+unknown
+ 
+
+185
+00:03:03,680 --> 00:03:05,990
+unknown
+and the vigilant seal which protects the
+
+186
+00:03:05,990 --> 00:03:06,000
+and the vigilant seal which protects the
+ 
+
+187
+00:03:06,000 --> 00:03:07,350
+and the vigilant seal which protects the
+world from the dangers
+
+188
+00:03:07,350 --> 00:03:07,360
+world from the dangers
+ 
+
+189
+00:03:07,360 --> 00:03:09,509
+world from the dangers
+that may be unleashed while exploring
+
+190
+00:03:09,509 --> 00:03:09,519
+that may be unleashed while exploring
+ 
+
+191
+00:03:09,519 --> 00:03:10,550
+that may be unleashed while exploring
+the unknown
+
+192
+00:03:10,550 --> 00:03:10,560
+the unknown
+ 
+
+193
+00:03:10,560 --> 00:03:12,470
+the unknown
+or unearthing lost truths and
+
+194
+00:03:12,470 --> 00:03:12,480
+or unearthing lost truths and
+ 
+
+195
+00:03:12,480 --> 00:03:14,790
+or unearthing lost truths and
+otherworldly secrets
+
+196
+00:03:14,790 --> 00:03:14,800
+otherworldly secrets
+ 
+
+197
+00:03:14,800 --> 00:03:16,630
+otherworldly secrets
+chapter 2 also includes background
+
+198
+00:03:16,630 --> 00:03:16,640
+chapter 2 also includes background
+ 
+
+199
+00:03:16,640 --> 00:03:18,710
+chapter 2 also includes background
+information on the society's training
+
+200
+00:03:18,710 --> 00:03:18,720
+information on the society's training
+ 
+
+201
+00:03:18,720 --> 00:03:19,910
+information on the society's training
+institutions
+
+202
+00:03:19,910 --> 00:03:19,920
+institutions
+ 
+
+203
+00:03:19,920 --> 00:03:22,390
+institutions
+the scrolls the swords and the school of
+
+204
+00:03:22,390 --> 00:03:22,400
+the scrolls the swords and the school of
+ 
+
+205
+00:03:22,400 --> 00:03:23,589
+the scrolls the swords and the school of
+spells
+
+206
+00:03:23,589 --> 00:03:23,599
+spells
+ 
+
+207
+00:03:23,599 --> 00:03:25,509
+spells
+this section does not offer any new
+
+208
+00:03:25,509 --> 00:03:25,519
+this section does not offer any new
+ 
+
+209
+00:03:25,519 --> 00:03:27,589
+this section does not offer any new
+archetypes but does provide
+
+210
+00:03:27,589 --> 00:03:27,599
+archetypes but does provide
+ 
+
+211
+00:03:27,599 --> 00:03:29,910
+archetypes but does provide
+all new feats for previously published
+
+212
+00:03:29,910 --> 00:03:29,920
+all new feats for previously published
+ 
+
+213
+00:03:29,920 --> 00:03:31,030
+all new feats for previously published
+archetypes
+
+214
+00:03:31,030 --> 00:03:31,040
+archetypes
+ 
+
+215
+00:03:31,040 --> 00:03:33,589
+archetypes
+the pathfinder agent archetype gets 13
+
+216
+00:03:33,589 --> 00:03:33,599
+the pathfinder agent archetype gets 13
+ 
+
+217
+00:03:33,599 --> 00:03:34,710
+the pathfinder agent archetype gets 13
+new feats
+
+218
+00:03:34,710 --> 00:03:34,720
+new feats
+ 
+
+219
+00:03:34,720 --> 00:03:37,670
+new feats
+scroll masters receive 9 new feats and a
+
+220
+00:03:37,670 --> 00:03:37,680
+scroll masters receive 9 new feats and a
+ 
+
+221
+00:03:37,680 --> 00:03:39,030
+scroll masters receive 9 new feats and a
+new focus spell
+
+222
+00:03:39,030 --> 00:03:39,040
+new focus spell
+ 
+
+223
+00:03:39,040 --> 00:03:41,670
+new focus spell
+the spell master archetype also gets 9
+
+224
+00:03:41,670 --> 00:03:41,680
+the spell master archetype also gets 9
+ 
+
+225
+00:03:41,680 --> 00:03:42,390
+the spell master archetype also gets 9
+new feats
+
+226
+00:03:42,390 --> 00:03:42,400
+new feats
+ 
+
+227
+00:03:42,400 --> 00:03:45,509
+new feats
+and 2 new focus spells and swordmasters
+
+228
+00:03:45,509 --> 00:03:45,519
+and 2 new focus spells and swordmasters
+ 
+
+229
+00:03:45,519 --> 00:03:46,390
+and 2 new focus spells and swordmasters
+are provided
+
+230
+00:03:46,390 --> 00:03:46,400
+are provided
+ 
+
+231
+00:03:46,400 --> 00:03:49,350
+are provided
+with a whopping 16 new feats for their
+
+232
+00:03:49,350 --> 00:03:49,360
+with a whopping 16 new feats for their
+ 
+
+233
+00:03:49,360 --> 00:03:50,949
+with a whopping 16 new feats for their
+archetype
+
+234
+00:03:50,949 --> 00:03:50,959
+archetype
+ 
+
+235
+00:03:50,959 --> 00:03:53,030
+archetype
+chapter 3 of this new book turned out to
+
+236
+00:03:53,030 --> 00:03:53,040
+chapter 3 of this new book turned out to
+ 
+
+237
+00:03:53,040 --> 00:03:54,470
+chapter 3 of this new book turned out to
+be my favorite
+
+238
+00:03:54,470 --> 00:03:54,480
+be my favorite
+ 
+
+239
+00:03:54,480 --> 00:03:56,789
+be my favorite
+it's all about the pathfinder lodges or
+
+240
+00:03:56,789 --> 00:03:56,799
+it's all about the pathfinder lodges or
+ 
+
+241
+00:03:56,799 --> 00:03:57,990
+it's all about the pathfinder lodges or
+regional bases
+
+242
+00:03:57,990 --> 00:03:58,000
+regional bases
+ 
+
+243
+00:03:58,000 --> 00:04:00,630
+regional bases
+that dot the inner sea and beyond the
+
+244
+00:04:00,630 --> 00:04:00,640
+that dot the inner sea and beyond the
+ 
+
+245
+00:04:00,640 --> 00:04:02,229
+that dot the inner sea and beyond the
+write-up for each lodge is
+
+246
+00:04:02,229 --> 00:04:02,239
+write-up for each lodge is
+ 
+
+247
+00:04:02,239 --> 00:04:04,229
+write-up for each lodge is
+very similar to the way nations were
+
+248
+00:04:04,229 --> 00:04:04,239
+very similar to the way nations were
+ 
+
+249
+00:04:04,239 --> 00:04:05,910
+very similar to the way nations were
+presented in the lost women's world
+
+250
+00:04:05,910 --> 00:04:05,920
+presented in the lost women's world
+ 
+
+251
+00:04:05,920 --> 00:04:06,630
+presented in the lost women's world
+guide
+
+252
+00:04:06,630 --> 00:04:06,640
+guide
+ 
+
+253
+00:04:06,640 --> 00:04:09,429
+guide
+detailing their history locations
+
+254
+00:04:09,429 --> 00:04:09,439
+detailing their history locations
+ 
+
+255
+00:04:09,439 --> 00:04:10,229
+detailing their history locations
+services
+
+256
+00:04:10,229 --> 00:04:10,239
+services
+ 
+
+257
+00:04:10,239 --> 00:04:13,110
+services
+allies and enemies each section all
+
+258
+00:04:13,110 --> 00:04:13,120
+allies and enemies each section all
+ 
+
+259
+00:04:13,120 --> 00:04:15,110
+allies and enemies each section all
+provides a biography of each lodge's
+
+260
+00:04:15,110 --> 00:04:15,120
+provides a biography of each lodge's
+ 
+
+261
+00:04:15,120 --> 00:04:16,949
+provides a biography of each lodge's
+venture captain or their leader
+
+262
+00:04:16,949 --> 00:04:16,959
+venture captain or their leader
+ 
+
+263
+00:04:16,959 --> 00:04:19,270
+venture captain or their leader
+and specific information about how that
+
+264
+00:04:19,270 --> 00:04:19,280
+and specific information about how that
+ 
+
+265
+00:04:19,280 --> 00:04:20,469
+and specific information about how that
+lodge functions
+
+266
+00:04:20,469 --> 00:04:20,479
+lodge functions
+ 
+
+267
+00:04:20,479 --> 00:04:23,430
+lodge functions
+and who their chief rivals are the most
+
+268
+00:04:23,430 --> 00:04:23,440
+and who their chief rivals are the most
+ 
+
+269
+00:04:23,440 --> 00:04:25,590
+and who their chief rivals are the most
+interesting part of this for me
+
+270
+00:04:25,590 --> 00:04:25,600
+interesting part of this for me
+ 
+
+271
+00:04:25,600 --> 00:04:28,230
+interesting part of this for me
+was just how varied the lodges were and
+
+272
+00:04:28,230 --> 00:04:28,240
+was just how varied the lodges were and
+ 
+
+273
+00:04:28,240 --> 00:04:30,230
+was just how varied the lodges were and
+mostly avoided feeling like generic
+
+274
+00:04:30,230 --> 00:04:30,240
+mostly avoided feeling like generic
+ 
+
+275
+00:04:30,240 --> 00:04:32,230
+mostly avoided feeling like generic
+fantasy or cookie cutter copies of one
+
+276
+00:04:32,230 --> 00:04:32,240
+fantasy or cookie cutter copies of one
+ 
+
+277
+00:04:32,240 --> 00:04:33,189
+fantasy or cookie cutter copies of one
+another
+
+278
+00:04:33,189 --> 00:04:33,199
+another
+ 
+
+279
+00:04:33,199 --> 00:04:35,830
+another
+the exalted lodge for example operates
+
+280
+00:04:35,830 --> 00:04:35,840
+the exalted lodge for example operates
+ 
+
+281
+00:04:35,840 --> 00:04:38,150
+the exalted lodge for example operates
+within the nation of rasmaron
+
+282
+00:04:38,150 --> 00:04:38,160
+within the nation of rasmaron
+ 
+
+283
+00:04:38,160 --> 00:04:40,150
+within the nation of rasmaron
+and this is the kind of thing that i
+
+284
+00:04:40,150 --> 00:04:40,160
+and this is the kind of thing that i
+ 
+
+285
+00:04:40,160 --> 00:04:42,070
+and this is the kind of thing that i
+would want to explore in my own
+
+286
+00:04:42,070 --> 00:04:42,080
+would want to explore in my own
+ 
+
+287
+00:04:42,080 --> 00:04:45,110
+would want to explore in my own
+games what's it like operating a
+
+288
+00:04:45,110 --> 00:04:45,120
+games what's it like operating a
+ 
+
+289
+00:04:45,120 --> 00:04:46,469
+games what's it like operating a
+pathfinder team
+
+290
+00:04:46,469 --> 00:04:46,479
+pathfinder team
+ 
+
+291
+00:04:46,479 --> 00:04:48,870
+pathfinder team
+within the jurisdiction of rasmir the
+
+292
+00:04:48,870 --> 00:04:48,880
+within the jurisdiction of rasmir the
+ 
+
+293
+00:04:48,880 --> 00:04:50,150
+within the jurisdiction of rasmir the
+living god
+
+294
+00:04:50,150 --> 00:04:50,160
+living god
+ 
+
+295
+00:04:50,160 --> 00:04:53,110
+living god
+how does that nation's strict theocracy
+
+296
+00:04:53,110 --> 00:04:53,120
+how does that nation's strict theocracy
+ 
+
+297
+00:04:53,120 --> 00:04:53,510
+how does that nation's strict theocracy
+and
+
+298
+00:04:53,510 --> 00:04:53,520
+and
+ 
+
+299
+00:04:53,520 --> 00:04:56,550
+and
+dictatorship work in concert with a
+
+300
+00:04:56,550 --> 00:04:56,560
+dictatorship work in concert with a
+ 
+
+301
+00:04:56,560 --> 00:04:58,390
+dictatorship work in concert with a
+pathfinder lodge
+
+302
+00:04:58,390 --> 00:04:58,400
+pathfinder lodge
+ 
+
+303
+00:04:58,400 --> 00:05:00,950
+pathfinder lodge
+and just little details of how life
+
+304
+00:05:00,950 --> 00:05:00,960
+and just little details of how life
+ 
+
+305
+00:05:00,960 --> 00:05:01,990
+and just little details of how life
+there works like
+
+306
+00:05:01,990 --> 00:05:02,000
+there works like
+ 
+
+307
+00:05:02,000 --> 00:05:04,870
+there works like
+how a rasmiri pathfinder's wayfinder
+
+308
+00:05:04,870 --> 00:05:04,880
+how a rasmiri pathfinder's wayfinder
+ 
+
+309
+00:05:04,880 --> 00:05:06,070
+how a rasmiri pathfinder's wayfinder
+would be different
+
+310
+00:05:06,070 --> 00:05:06,080
+would be different
+ 
+
+311
+00:05:06,080 --> 00:05:09,590
+would be different
+from another pathfinder's wayfinder or
+
+312
+00:05:09,590 --> 00:05:09,600
+from another pathfinder's wayfinder or
+ 
+
+313
+00:05:09,600 --> 00:05:12,469
+from another pathfinder's wayfinder or
+the grinning pixie this is a sailing
+
+314
+00:05:12,469 --> 00:05:12,479
+the grinning pixie this is a sailing
+ 
+
+315
+00:05:12,479 --> 00:05:12,870
+the grinning pixie this is a sailing
+ship
+
+316
+00:05:12,870 --> 00:05:12,880
+ship
+ 
+
+317
+00:05:12,880 --> 00:05:15,670
+ship
+that serves as a completely mobile
+
+318
+00:05:15,670 --> 00:05:15,680
+that serves as a completely mobile
+ 
+
+319
+00:05:15,680 --> 00:05:17,350
+that serves as a completely mobile
+pathfinder launch
+
+320
+00:05:17,350 --> 00:05:17,360
+pathfinder launch
+ 
+
+321
+00:05:17,360 --> 00:05:19,110
+pathfinder launch
+if you are running a game in the
+
+322
+00:05:19,110 --> 00:05:19,120
+if you are running a game in the
+ 
+
+323
+00:05:19,120 --> 00:05:20,629
+if you are running a game in the
+shackles or
+
+324
+00:05:20,629 --> 00:05:20,639
+shackles or
+ 
+
+325
+00:05:20,639 --> 00:05:22,710
+shackles or
+anything that's pirate themed the
+
+326
+00:05:22,710 --> 00:05:22,720
+anything that's pirate themed the
+ 
+
+327
+00:05:22,720 --> 00:05:24,070
+anything that's pirate themed the
+grinning pixie is a
+
+328
+00:05:24,070 --> 00:05:24,080
+grinning pixie is a
+ 
+
+329
+00:05:24,080 --> 00:05:26,950
+grinning pixie is a
+great option and there are many more
+
+330
+00:05:26,950 --> 00:05:26,960
+great option and there are many more
+ 
+
+331
+00:05:26,960 --> 00:05:27,670
+great option and there are many more
+lodges
+
+332
+00:05:27,670 --> 00:05:27,680
+lodges
+ 
+
+333
+00:05:27,680 --> 00:05:30,150
+lodges
+each with their own unique twist
+
+334
+00:05:30,150 --> 00:05:30,160
+each with their own unique twist
+ 
+
+335
+00:05:30,160 --> 00:05:31,029
+each with their own unique twist
+location
+
+336
+00:05:31,029 --> 00:05:31,039
+location
+ 
+
+337
+00:05:31,039 --> 00:05:33,990
+location
+and purpose throughout this chapter new
+
+338
+00:05:33,990 --> 00:05:34,000
+and purpose throughout this chapter new
+ 
+
+339
+00:05:34,000 --> 00:05:36,070
+and purpose throughout this chapter new
+gear is also provided to support the
+
+340
+00:05:36,070 --> 00:05:36,080
+gear is also provided to support the
+ 
+
+341
+00:05:36,080 --> 00:05:38,550
+gear is also provided to support the
+agents operating from those lodges
+
+342
+00:05:38,550 --> 00:05:38,560
+agents operating from those lodges
+ 
+
+343
+00:05:38,560 --> 00:05:41,110
+agents operating from those lodges
+like magical nose chains worn by agents
+
+344
+00:05:41,110 --> 00:05:41,120
+like magical nose chains worn by agents
+ 
+
+345
+00:05:41,120 --> 00:05:42,469
+like magical nose chains worn by agents
+of the farseer tower
+
+346
+00:05:42,469 --> 00:05:42,479
+of the farseer tower
+ 
+
+347
+00:05:42,479 --> 00:05:44,790
+of the farseer tower
+or special snowshoes worn at the ice
+
+348
+00:05:44,790 --> 00:05:44,800
+or special snowshoes worn at the ice
+ 
+
+349
+00:05:44,800 --> 00:05:46,550
+or special snowshoes worn at the ice
+ferry lodge
+
+350
+00:05:46,550 --> 00:05:46,560
+ferry lodge
+ 
+
+351
+00:05:46,560 --> 00:05:48,790
+ferry lodge
+and the final chapter of the book is the
+
+352
+00:05:48,790 --> 00:05:48,800
+and the final chapter of the book is the
+ 
+
+353
+00:05:48,800 --> 00:05:50,790
+and the final chapter of the book is the
+most player heavy
+
+354
+00:05:50,790 --> 00:05:50,800
+most player heavy
+ 
+
+355
+00:05:50,800 --> 00:05:53,670
+most player heavy
+it includes gear players can purchase
+
+356
+00:05:53,670 --> 00:05:53,680
+it includes gear players can purchase
+ 
+
+357
+00:05:53,680 --> 00:05:55,830
+it includes gear players can purchase
+services they can employ such as
+
+358
+00:05:55,830 --> 00:05:55,840
+services they can employ such as
+ 
+
+359
+00:05:55,840 --> 00:05:58,629
+services they can employ such as
+fixers or guides to help them get around
+
+360
+00:05:58,629 --> 00:05:58,639
+fixers or guides to help them get around
+ 
+
+361
+00:05:58,639 --> 00:06:01,510
+fixers or guides to help them get around
+unfamiliar locations and new cultures
+
+362
+00:06:01,510 --> 00:06:01,520
+unfamiliar locations and new cultures
+ 
+
+363
+00:06:01,520 --> 00:06:03,830
+unfamiliar locations and new cultures
+or hiring researchers who can dig up
+
+364
+00:06:03,830 --> 00:06:03,840
+or hiring researchers who can dig up
+ 
+
+365
+00:06:03,840 --> 00:06:06,309
+or hiring researchers who can dig up
+valuable information for a campaign
+
+366
+00:06:06,309 --> 00:06:06,319
+valuable information for a campaign
+ 
+
+367
+00:06:06,319 --> 00:06:08,469
+valuable information for a campaign
+and a host of new player options
+
+368
+00:06:08,469 --> 00:06:08,479
+and a host of new player options
+ 
+
+369
+00:06:08,479 --> 00:06:10,870
+and a host of new player options
+provided by academy instructors
+
+370
+00:06:10,870 --> 00:06:10,880
+provided by academy instructors
+ 
+
+371
+00:06:10,880 --> 00:06:13,029
+provided by academy instructors
+one of the key benefits of joining the
+
+372
+00:06:13,029 --> 00:06:13,039
+one of the key benefits of joining the
+ 
+
+373
+00:06:13,039 --> 00:06:14,550
+one of the key benefits of joining the
+pathfinder society
+
+374
+00:06:14,550 --> 00:06:14,560
+pathfinder society
+ 
+
+375
+00:06:14,560 --> 00:06:16,550
+pathfinder society
+is gaining access to specialized
+
+376
+00:06:16,550 --> 00:06:16,560
+is gaining access to specialized
+ 
+
+377
+00:06:16,560 --> 00:06:17,990
+is gaining access to specialized
+training and all new feats
+
+378
+00:06:17,990 --> 00:06:18,000
+training and all new feats
+ 
+
+379
+00:06:18,000 --> 00:06:20,950
+training and all new feats
+not available to outsiders want to learn
+
+380
+00:06:20,950 --> 00:06:20,960
+not available to outsiders want to learn
+ 
+
+381
+00:06:20,960 --> 00:06:23,189
+not available to outsiders want to learn
+how to throw magic cards like x-men's
+
+382
+00:06:23,189 --> 00:06:23,199
+how to throw magic cards like x-men's
+ 
+
+383
+00:06:23,199 --> 00:06:24,070
+how to throw magic cards like x-men's
+gambit
+
+384
+00:06:24,070 --> 00:06:24,080
+gambit
+ 
+
+385
+00:06:24,080 --> 00:06:26,710
+gambit
+stella fan can teach you that art want
+
+386
+00:06:26,710 --> 00:06:26,720
+stella fan can teach you that art want
+ 
+
+387
+00:06:26,720 --> 00:06:28,550
+stella fan can teach you that art want
+to take your monk to their next stage of
+
+388
+00:06:28,550 --> 00:06:28,560
+to take your monk to their next stage of
+ 
+
+389
+00:06:28,560 --> 00:06:29,749
+to take your monk to their next stage of
+perfection
+
+390
+00:06:29,749 --> 00:06:29,759
+perfection
+ 
+
+391
+00:06:29,759 --> 00:06:32,309
+perfection
+malika sanvara can train you in the
+
+392
+00:06:32,309 --> 00:06:32,319
+malika sanvara can train you in the
+ 
+
+393
+00:06:32,319 --> 00:06:34,469
+malika sanvara can train you in the
+reign of ember's stance
+
+394
+00:06:34,469 --> 00:06:34,479
+reign of ember's stance
+ 
+
+395
+00:06:34,479 --> 00:06:37,510
+reign of ember's stance
+i mean it has an attack called explosive
+
+396
+00:06:37,510 --> 00:06:37,520
+i mean it has an attack called explosive
+ 
+
+397
+00:06:37,520 --> 00:06:40,390
+i mean it has an attack called explosive
+death drop what more do you want the
+
+398
+00:06:40,390 --> 00:06:40,400
+death drop what more do you want the
+ 
+
+399
+00:06:40,400 --> 00:06:42,950
+death drop what more do you want the
+book closes out with a section titled
+
+400
+00:06:42,950 --> 00:06:42,960
+book closes out with a section titled
+ 
+
+401
+00:06:42,960 --> 00:06:45,670
+book closes out with a section titled
+secrets of the pathfinder society that
+
+402
+00:06:45,670 --> 00:06:45,680
+secrets of the pathfinder society that
+ 
+
+403
+00:06:45,680 --> 00:06:46,230
+secrets of the pathfinder society that
+provides
+
+404
+00:06:46,230 --> 00:06:46,240
+provides
+ 
+
+405
+00:06:46,240 --> 00:06:49,350
+provides
+more gear options for aeon stones and
+
+406
+00:06:49,350 --> 00:06:49,360
+more gear options for aeon stones and
+ 
+
+407
+00:06:49,360 --> 00:06:51,589
+more gear options for aeon stones and
+unique wayfinders as well as new
+
+408
+00:06:51,589 --> 00:06:51,599
+unique wayfinders as well as new
+ 
+
+409
+00:06:51,599 --> 00:06:53,830
+unique wayfinders as well as new
+familiar options which was probably
+
+410
+00:06:53,830 --> 00:06:53,840
+familiar options which was probably
+ 
+
+411
+00:06:53,840 --> 00:06:56,469
+familiar options which was probably
+the last thing i expected in this book
+
+412
+00:06:56,469 --> 00:06:56,479
+the last thing i expected in this book
+ 
+
+413
+00:06:56,479 --> 00:06:59,670
+the last thing i expected in this book
+including having a swarm of aeon stones
+
+414
+00:06:59,670 --> 00:06:59,680
+including having a swarm of aeon stones
+ 
+
+415
+00:06:59,680 --> 00:07:01,189
+including having a swarm of aeon stones
+as you're familiar
+
+416
+00:07:01,189 --> 00:07:01,199
+as you're familiar
+ 
+
+417
+00:07:01,199 --> 00:07:03,749
+as you're familiar
+dwemer cat familiars or even having
+
+418
+00:07:03,749 --> 00:07:03,759
+dwemer cat familiars or even having
+ 
+
+419
+00:07:03,759 --> 00:07:07,749
+dwemer cat familiars or even having
+little dull poppets for familiars
+
+420
+00:07:07,749 --> 00:07:07,759
+little dull poppets for familiars
+ 
+
+421
+00:07:07,759 --> 00:07:10,870
+little dull poppets for familiars
+to sum up this is a lore and narrative
+
+422
+00:07:10,870 --> 00:07:10,880
+to sum up this is a lore and narrative
+ 
+
+423
+00:07:10,880 --> 00:07:12,469
+to sum up this is a lore and narrative
+heavy campaign guide
+
+424
+00:07:12,469 --> 00:07:12,479
+heavy campaign guide
+ 
+
+425
+00:07:12,479 --> 00:07:14,390
+heavy campaign guide
+with some surprising new options for
+
+426
+00:07:14,390 --> 00:07:14,400
+with some surprising new options for
+ 
+
+427
+00:07:14,400 --> 00:07:15,589
+with some surprising new options for
+players too
+
+428
+00:07:15,589 --> 00:07:15,599
+players too
+ 
+
+429
+00:07:15,599 --> 00:07:18,150
+players too
+in the pros column it provides a lot of
+
+430
+00:07:18,150 --> 00:07:18,160
+in the pros column it provides a lot of
+ 
+
+431
+00:07:18,160 --> 00:07:20,390
+in the pros column it provides a lot of
+history and backstory into the premier
+
+432
+00:07:20,390 --> 00:07:20,400
+history and backstory into the premier
+ 
+
+433
+00:07:20,400 --> 00:07:22,230
+history and backstory into the premier
+player organization of the pathfinder
+
+434
+00:07:22,230 --> 00:07:22,240
+player organization of the pathfinder
+ 
+
+435
+00:07:22,240 --> 00:07:23,110
+player organization of the pathfinder
+setting
+
+436
+00:07:23,110 --> 00:07:23,120
+setting
+ 
+
+437
+00:07:23,120 --> 00:07:25,350
+setting
+gives a glimpse into life as a
+
+438
+00:07:25,350 --> 00:07:25,360
+gives a glimpse into life as a
+ 
+
+439
+00:07:25,360 --> 00:07:26,309
+gives a glimpse into life as a
+pathfinder
+
+440
+00:07:26,309 --> 00:07:26,319
+pathfinder
+ 
+
+441
+00:07:26,319 --> 00:07:28,790
+pathfinder
+provides a lot of imagination fuel in
+
+442
+00:07:28,790 --> 00:07:28,800
+provides a lot of imagination fuel in
+ 
+
+443
+00:07:28,800 --> 00:07:29,510
+provides a lot of imagination fuel in
+the form
+
+444
+00:07:29,510 --> 00:07:29,520
+the form
+ 
+
+445
+00:07:29,520 --> 00:07:31,990
+the form
+of vastly different lodges and factions
+
+446
+00:07:31,990 --> 00:07:32,000
+of vastly different lodges and factions
+ 
+
+447
+00:07:32,000 --> 00:07:33,510
+of vastly different lodges and factions
+within the society
+
+448
+00:07:33,510 --> 00:07:33,520
+within the society
+ 
+
+449
+00:07:33,520 --> 00:07:35,749
+within the society
+it offers more new player options than
+
+450
+00:07:35,749 --> 00:07:35,759
+it offers more new player options than
+ 
+
+451
+00:07:35,759 --> 00:07:37,749
+it offers more new player options than
+expected including dozens of new
+
+452
+00:07:37,749 --> 00:07:37,759
+expected including dozens of new
+ 
+
+453
+00:07:37,759 --> 00:07:39,589
+expected including dozens of new
+pathfinder archetype feats
+
+454
+00:07:39,589 --> 00:07:39,599
+pathfinder archetype feats
+ 
+
+455
+00:07:39,599 --> 00:07:42,629
+pathfinder archetype feats
+a few new focus spells new familiars
+
+456
+00:07:42,629 --> 00:07:42,639
+a few new focus spells new familiars
+ 
+
+457
+00:07:42,639 --> 00:07:44,950
+a few new focus spells new familiars
+and plenty of new gear options tailored
+
+458
+00:07:44,950 --> 00:07:44,960
+and plenty of new gear options tailored
+ 
+
+459
+00:07:44,960 --> 00:07:47,749
+and plenty of new gear options tailored
+to the pathfinder society's needs
+
+460
+00:07:47,749 --> 00:07:47,759
+to the pathfinder society's needs
+ 
+
+461
+00:07:47,759 --> 00:07:50,469
+to the pathfinder society's needs
+and its cons are sometimes i found the
+
+462
+00:07:50,469 --> 00:07:50,479
+and its cons are sometimes i found the
+ 
+
+463
+00:07:50,479 --> 00:07:51,189
+and its cons are sometimes i found the
+minutia
+
+464
+00:07:51,189 --> 00:07:51,199
+minutia
+ 
+
+465
+00:07:51,199 --> 00:07:52,869
+minutia
+into the history and background of the
+
+466
+00:07:52,869 --> 00:07:52,879
+into the history and background of the
+ 
+
+467
+00:07:52,879 --> 00:07:54,230
+into the history and background of the
+society to be
+
+468
+00:07:54,230 --> 00:07:54,240
+society to be
+ 
+
+469
+00:07:54,240 --> 00:07:56,469
+society to be
+more than what most players and gm's
+
+470
+00:07:56,469 --> 00:07:56,479
+more than what most players and gm's
+ 
+
+471
+00:07:56,479 --> 00:07:57,510
+more than what most players and gm's
+would need
+
+472
+00:07:57,510 --> 00:07:57,520
+would need
+ 
+
+473
+00:07:57,520 --> 00:07:59,909
+would need
+at times the detail felt a little bit
+
+474
+00:07:59,909 --> 00:07:59,919
+at times the detail felt a little bit
+ 
+
+475
+00:07:59,919 --> 00:08:01,270
+at times the detail felt a little bit
+exhausting
+
+476
+00:08:01,270 --> 00:08:01,280
+exhausting
+ 
+
+477
+00:08:01,280 --> 00:08:03,909
+exhausting
+also every launches section discusses
+
+478
+00:08:03,909 --> 00:08:03,919
+also every launches section discusses
+ 
+
+479
+00:08:03,919 --> 00:08:05,589
+also every launches section discusses
+their enemies and rivals
+
+480
+00:08:05,589 --> 00:08:05,599
+their enemies and rivals
+ 
+
+481
+00:08:05,599 --> 00:08:08,869
+their enemies and rivals
+but there are no real details provided
+
+482
+00:08:08,869 --> 00:08:08,879
+but there are no real details provided
+ 
+
+483
+00:08:08,879 --> 00:08:11,110
+but there are no real details provided
+the biggest piece of missing information
+
+484
+00:08:11,110 --> 00:08:11,120
+the biggest piece of missing information
+ 
+
+485
+00:08:11,120 --> 00:08:11,990
+the biggest piece of missing information
+to me
+
+486
+00:08:11,990 --> 00:08:12,000
+to me
+ 
+
+487
+00:08:12,000 --> 00:08:14,790
+to me
+was about the society's foes
+
+488
+00:08:14,790 --> 00:08:14,800
+was about the society's foes
+ 
+
+489
+00:08:14,800 --> 00:08:16,869
+was about the society's foes
+protagonists are only as strong and
+
+490
+00:08:16,869 --> 00:08:16,879
+protagonists are only as strong and
+ 
+
+491
+00:08:16,879 --> 00:08:18,790
+protagonists are only as strong and
+compelling as their antagonists
+
+492
+00:08:18,790 --> 00:08:18,800
+compelling as their antagonists
+ 
+
+493
+00:08:18,800 --> 00:08:20,710
+compelling as their antagonists
+so i would have really appreciated a
+
+494
+00:08:20,710 --> 00:08:20,720
+so i would have really appreciated a
+ 
+
+495
+00:08:20,720 --> 00:08:23,189
+so i would have really appreciated a
+couple pages about organizations that
+
+496
+00:08:23,189 --> 00:08:23,199
+couple pages about organizations that
+ 
+
+497
+00:08:23,199 --> 00:08:25,510
+couple pages about organizations that
+oppose the pathfinder society
+
+498
+00:08:25,510 --> 00:08:25,520
+oppose the pathfinder society
+ 
+
+499
+00:08:25,520 --> 00:08:28,790
+oppose the pathfinder society
+the aspis consortium in particular in a
+
+500
+00:08:28,790 --> 00:08:28,800
+the aspis consortium in particular in a
+ 
+
+501
+00:08:28,800 --> 00:08:29,589
+the aspis consortium in particular in a
+similar vein
+
+502
+00:08:29,589 --> 00:08:29,599
+similar vein
+ 
+
+503
+00:08:29,599 --> 00:08:31,990
+similar vein
+i also felt there could have been more
+
+504
+00:08:31,990 --> 00:08:32,000
+i also felt there could have been more
+ 
+
+505
+00:08:32,000 --> 00:08:33,829
+i also felt there could have been more
+attention given to the dark side of the
+
+506
+00:08:33,829 --> 00:08:33,839
+attention given to the dark side of the
+ 
+
+507
+00:08:33,839 --> 00:08:34,790
+attention given to the dark side of the
+society
+
+508
+00:08:34,790 --> 00:08:34,800
+society
+ 
+
+509
+00:08:34,800 --> 00:08:36,870
+society
+where the line is blurred between
+
+510
+00:08:36,870 --> 00:08:36,880
+where the line is blurred between
+ 
+
+511
+00:08:36,880 --> 00:08:38,389
+where the line is blurred between
+preserving history
+
+512
+00:08:38,389 --> 00:08:38,399
+preserving history
+ 
+
+513
+00:08:38,399 --> 00:08:40,310
+preserving history
+and plundering the treasures of other
+
+514
+00:08:40,310 --> 00:08:40,320
+and plundering the treasures of other
+ 
+
+515
+00:08:40,320 --> 00:08:41,670
+and plundering the treasures of other
+cultures
+
+516
+00:08:41,670 --> 00:08:41,680
+cultures
+ 
+
+517
+00:08:41,680 --> 00:08:44,149
+cultures
+that is mentioned in the book i just
+
+518
+00:08:44,149 --> 00:08:44,159
+that is mentioned in the book i just
+ 
+
+519
+00:08:44,159 --> 00:08:46,070
+that is mentioned in the book i just
+felt like there's a lot of room to
+
+520
+00:08:46,070 --> 00:08:46,080
+felt like there's a lot of room to
+ 
+
+521
+00:08:46,080 --> 00:08:47,190
+felt like there's a lot of room to
+expand on that
+
+522
+00:08:47,190 --> 00:08:47,200
+expand on that
+ 
+
+523
+00:08:47,200 --> 00:08:50,389
+expand on that
+and provide more drama for a game
+
+524
+00:08:50,389 --> 00:08:50,399
+and provide more drama for a game
+ 
+
+525
+00:08:50,399 --> 00:08:52,630
+and provide more drama for a game
+i would recommend the pathfinder society
+
+526
+00:08:52,630 --> 00:08:52,640
+i would recommend the pathfinder society
+ 
+
+527
+00:08:52,640 --> 00:08:54,630
+i would recommend the pathfinder society
+guide to players who have characters
+
+528
+00:08:54,630 --> 00:08:54,640
+guide to players who have characters
+ 
+
+529
+00:08:54,640 --> 00:08:56,710
+guide to players who have characters
+already associated with the pathfinder
+
+530
+00:08:56,710 --> 00:08:56,720
+already associated with the pathfinder
+ 
+
+531
+00:08:56,720 --> 00:08:57,590
+already associated with the pathfinder
+society
+
+532
+00:08:57,590 --> 00:08:57,600
+society
+ 
+
+533
+00:08:57,600 --> 00:09:00,150
+society
+or are interested in exploring that with
+
+534
+00:09:00,150 --> 00:09:00,160
+or are interested in exploring that with
+ 
+
+535
+00:09:00,160 --> 00:09:01,190
+or are interested in exploring that with
+their characters
+
+536
+00:09:01,190 --> 00:09:01,200
+their characters
+ 
+
+537
+00:09:01,200 --> 00:09:03,990
+their characters
+and also to lore hounds and gm's looking
+
+538
+00:09:03,990 --> 00:09:04,000
+and also to lore hounds and gm's looking
+ 
+
+539
+00:09:04,000 --> 00:09:05,190
+and also to lore hounds and gm's looking
+for fun ways to
+
+540
+00:09:05,190 --> 00:09:05,200
+for fun ways to
+ 
+
+541
+00:09:05,200 --> 00:09:07,509
+for fun ways to
+weave their story into some new
+
+542
+00:09:07,509 --> 00:09:07,519
+weave their story into some new
+ 
+
+543
+00:09:07,519 --> 00:09:08,870
+weave their story into some new
+narrative spaces
+
+544
+00:09:08,870 --> 00:09:08,880
+narrative spaces
+ 
+
+545
+00:09:08,880 --> 00:09:11,910
+narrative spaces
+surrounding the pathfinder society i
+
+546
+00:09:11,910 --> 00:09:11,920
+surrounding the pathfinder society i
+ 
+
+547
+00:09:11,920 --> 00:09:13,509
+surrounding the pathfinder society i
+would not recommend the book
+
+548
+00:09:13,509 --> 00:09:13,519
+would not recommend the book
+ 
+
+549
+00:09:13,519 --> 00:09:15,990
+would not recommend the book
+to players focused on characters with no
+
+550
+00:09:15,990 --> 00:09:16,000
+to players focused on characters with no
+ 
+
+551
+00:09:16,000 --> 00:09:18,070
+to players focused on characters with no
+desire at all to affiliate with the
+
+552
+00:09:18,070 --> 00:09:18,080
+desire at all to affiliate with the
+ 
+
+553
+00:09:18,080 --> 00:09:19,670
+desire at all to affiliate with the
+pathfinder society
+
+554
+00:09:19,670 --> 00:09:19,680
+pathfinder society
+ 
+
+555
+00:09:19,680 --> 00:09:22,150
+pathfinder society
+i would not recommend it to anyone who
+
+556
+00:09:22,150 --> 00:09:22,160
+i would not recommend it to anyone who
+ 
+
+557
+00:09:22,160 --> 00:09:23,110
+i would not recommend it to anyone who
+really prefers
+
+558
+00:09:23,110 --> 00:09:23,120
+really prefers
+ 
+
+559
+00:09:23,120 --> 00:09:26,070
+really prefers
+crunch heavy books as opposed to lore
+
+560
+00:09:26,070 --> 00:09:26,080
+crunch heavy books as opposed to lore
+ 
+
+561
+00:09:26,080 --> 00:09:27,430
+crunch heavy books as opposed to lore
+and setting books
+
+562
+00:09:27,430 --> 00:09:27,440
+and setting books
+ 
+
+563
+00:09:27,440 --> 00:09:30,470
+and setting books
+and also to gm's who want detailed
+
+564
+00:09:30,470 --> 00:09:30,480
+and also to gm's who want detailed
+ 
+
+565
+00:09:30,480 --> 00:09:32,389
+and also to gm's who want detailed
+information about adversaries
+
+566
+00:09:32,389 --> 00:09:32,399
+information about adversaries
+ 
+
+567
+00:09:32,399 --> 00:09:34,630
+information about adversaries
+as there are no enemy stat blocks or
+
+568
+00:09:34,630 --> 00:09:34,640
+as there are no enemy stat blocks or
+ 
+
+569
+00:09:34,640 --> 00:09:36,870
+as there are no enemy stat blocks or
+monsters or other similar details in
+
+570
+00:09:36,870 --> 00:09:36,880
+monsters or other similar details in
+ 
+
+571
+00:09:36,880 --> 00:09:37,190
+monsters or other similar details in
+this
+
+572
+00:09:37,190 --> 00:09:37,200
+this
+ 
+
+573
+00:09:37,200 --> 00:09:39,829
+this
+book let me know in the comments if you
+
+574
+00:09:39,829 --> 00:09:39,839
+book let me know in the comments if you
+ 
+
+575
+00:09:39,839 --> 00:09:41,350
+book let me know in the comments if you
+have any questions or
+
+576
+00:09:41,350 --> 00:09:41,360
+have any questions or
+ 
+
+577
+00:09:41,360 --> 00:09:43,350
+have any questions or
+if there's anything you'd like to know
+
+578
+00:09:43,350 --> 00:09:43,360
+if there's anything you'd like to know
+ 
+
+579
+00:09:43,360 --> 00:09:45,430
+if there's anything you'd like to know
+about the pathfinder society guide
+
+580
+00:09:45,430 --> 00:09:45,440
+about the pathfinder society guide
+ 
+
+581
+00:09:45,440 --> 00:09:48,150
+about the pathfinder society guide
+before you make a purchasing decision
+
+582
+00:09:48,150 --> 00:09:48,160
+before you make a purchasing decision
+ 
+
+583
+00:09:48,160 --> 00:09:49,190
+before you make a purchasing decision
+and as always
+
+584
+00:09:49,190 --> 00:09:49,200
+and as always
+ 
+
+585
+00:09:49,200 --> 00:09:51,030
+and as always
+i would like to thank the patrons who
+
+586
+00:09:51,030 --> 00:09:51,040
+i would like to thank the patrons who
+ 
+
+587
+00:09:51,040 --> 00:09:53,590
+i would like to thank the patrons who
+support me in the making of these videos
+
+588
+00:09:53,590 --> 00:09:53,600
+support me in the making of these videos
+ 
+
+589
+00:09:53,600 --> 00:09:55,190
+support me in the making of these videos
+if you're interested in giving some
+
+590
+00:09:55,190 --> 00:09:55,200
+if you're interested in giving some
+ 
+
+591
+00:09:55,200 --> 00:09:57,190
+if you're interested in giving some
+support as well the easiest way to do
+
+592
+00:09:57,190 --> 00:09:57,200
+support as well the easiest way to do
+ 
+
+593
+00:09:57,200 --> 00:09:57,750
+support as well the easiest way to do
+that
+
+594
+00:09:57,750 --> 00:09:57,760
+that
+ 
+
+595
+00:09:57,760 --> 00:10:00,310
+that
+is by subscribing to the channel so
+
+596
+00:10:00,310 --> 00:10:00,320
+is by subscribing to the channel so
+ 
+
+597
+00:10:00,320 --> 00:10:01,829
+is by subscribing to the channel so
+please take a second and do that if you
+
+598
+00:10:01,829 --> 00:10:01,839
+please take a second and do that if you
+ 
+
+599
+00:10:01,839 --> 00:10:03,030
+please take a second and do that if you
+haven't already
+
+600
+00:10:03,030 --> 00:10:03,040
+haven't already
+ 
+
+601
+00:10:03,040 --> 00:10:05,430
+haven't already
+and also there is a link to my patreon
+
+602
+00:10:05,430 --> 00:10:05,440
+and also there is a link to my patreon
+ 
+
+603
+00:10:05,440 --> 00:10:07,750
+and also there is a link to my patreon
+included in the video's description
+
+604
+00:10:07,750 --> 00:10:07,760
+included in the video's description
+ 
+
+605
+00:10:07,760 --> 00:10:09,750
+included in the video's description
+if you do pick up the pathfinder society
+
+606
+00:10:09,750 --> 00:10:09,760
+if you do pick up the pathfinder society
+ 
+
+607
+00:10:09,760 --> 00:10:11,430
+if you do pick up the pathfinder society
+guide let me know what you think in the
+
+608
+00:10:11,430 --> 00:10:11,440
+guide let me know what you think in the
+ 
+
+609
+00:10:11,440 --> 00:10:12,230
+guide let me know what you think in the
+comments
+
+610
+00:10:12,230 --> 00:10:12,240
+comments
+ 
+
+611
+00:10:12,240 --> 00:10:14,790
+comments
+and as always thanks for watching take
+
+612
+00:10:14,790 --> 00:10:14,800
+and as always thanks for watching take
+ 
+
+613
+00:10:14,800 --> 00:10:15,269
+and as always thanks for watching take
+care
+
+614
+00:10:15,269 --> 00:10:15,279
+care
+ 
+
+615
+00:10:15,279 --> 00:10:18,880
+care
+and happy gaming
+

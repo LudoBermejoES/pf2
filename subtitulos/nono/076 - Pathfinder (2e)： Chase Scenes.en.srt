@@ -1,0 +1,3235 @@
+1
+00:00:01,040 --> 00:00:02,790
+
+this video is brought to you by battle
+
+2
+00:00:02,790 --> 00:00:02,800
+this video is brought to you by battle
+ 
+
+3
+00:00:02,800 --> 00:00:05,190
+this video is brought to you by battle
+zoo ancestry's dragons the book that
+
+4
+00:00:05,190 --> 00:00:05,200
+zoo ancestry's dragons the book that
+ 
+
+5
+00:00:05,200 --> 00:00:07,749
+zoo ancestry's dragons the book that
+lets you play as a dragon written by
+
+6
+00:00:07,749 --> 00:00:07,759
+lets you play as a dragon written by
+ 
+
+7
+00:00:07,759 --> 00:00:10,150
+lets you play as a dragon written by
+pathfinder veteran mark seifer this book
+
+8
+00:00:10,150 --> 00:00:10,160
+pathfinder veteran mark seifer this book
+ 
+
+9
+00:00:10,160 --> 00:00:12,709
+pathfinder veteran mark seifer this book
+adds over 45 new dragon playable
+
+10
+00:00:12,709 --> 00:00:12,719
+adds over 45 new dragon playable
+ 
+
+11
+00:00:12,719 --> 00:00:15,110
+adds over 45 new dragon playable
+ancestries to pathfinder second edition
+
+12
+00:00:15,110 --> 00:00:15,120
+ancestries to pathfinder second edition
+ 
+
+13
+00:00:15,120 --> 00:00:22,470
+ancestries to pathfinder second edition
+now available at battlezoo.com
+
+14
+00:00:22,470 --> 00:00:22,480
+
+ 
+
+15
+00:00:22,480 --> 00:00:24,630
+
+hello and welcome to chase mechanics in
+
+16
+00:00:24,630 --> 00:00:24,640
+hello and welcome to chase mechanics in
+ 
+
+17
+00:00:24,640 --> 00:00:26,710
+hello and welcome to chase mechanics in
+pathfinder 2nd edition
+
+18
+00:00:26,710 --> 00:00:26,720
+pathfinder 2nd edition
+ 
+
+19
+00:00:26,720 --> 00:00:29,109
+pathfinder 2nd edition
+the normal rules provided in the core
+
+20
+00:00:29,109 --> 00:00:29,119
+the normal rules provided in the core
+ 
+
+21
+00:00:29,119 --> 00:00:30,790
+the normal rules provided in the core
+rules work well for tracking movement
+
+22
+00:00:30,790 --> 00:00:30,800
+rules work well for tracking movement
+ 
+
+23
+00:00:30,800 --> 00:00:32,790
+rules work well for tracking movement
+during encounters and across short
+
+24
+00:00:32,790 --> 00:00:32,800
+during encounters and across short
+ 
+
+25
+00:00:32,800 --> 00:00:35,430
+during encounters and across short
+distances that can fit on a game map but
+
+26
+00:00:35,430 --> 00:00:35,440
+distances that can fit on a game map but
+ 
+
+27
+00:00:35,440 --> 00:00:38,229
+distances that can fit on a game map but
+for longer more epic scenes the gm may
+
+28
+00:00:38,229 --> 00:00:38,239
+for longer more epic scenes the gm may
+ 
+
+29
+00:00:38,239 --> 00:00:40,470
+for longer more epic scenes the gm may
+want to use the chase mechanics found in
+
+30
+00:00:40,470 --> 00:00:40,480
+want to use the chase mechanics found in
+ 
+
+31
+00:00:40,480 --> 00:00:42,389
+want to use the chase mechanics found in
+the game mastery guide
+
+32
+00:00:42,389 --> 00:00:42,399
+the game mastery guide
+ 
+
+33
+00:00:42,399 --> 00:00:44,150
+the game mastery guide
+the chase system focuses on turning
+
+34
+00:00:44,150 --> 00:00:44,160
+the chase system focuses on turning
+ 
+
+35
+00:00:44,160 --> 00:00:45,990
+the chase system focuses on turning
+moments where characters are either
+
+36
+00:00:45,990 --> 00:00:46,000
+moments where characters are either
+ 
+
+37
+00:00:46,000 --> 00:00:48,950
+moments where characters are either
+chasing racing or being chased into more
+
+38
+00:00:48,950 --> 00:00:48,960
+chasing racing or being chased into more
+ 
+
+39
+00:00:48,960 --> 00:00:51,029
+chasing racing or being chased into more
+complex and interesting scenes than
+
+40
+00:00:51,029 --> 00:00:51,039
+complex and interesting scenes than
+ 
+
+41
+00:00:51,039 --> 00:00:53,189
+complex and interesting scenes than
+simply counting how many squares of many
+
+42
+00:00:53,189 --> 00:00:53,199
+simply counting how many squares of many
+ 
+
+43
+00:00:53,199 --> 00:00:54,709
+simply counting how many squares of many
+can move on his turn
+
+44
+00:00:54,709 --> 00:00:54,719
+can move on his turn
+ 
+
+45
+00:00:54,719 --> 00:00:56,630
+can move on his turn
+this system moves away from the focus
+
+46
+00:00:56,630 --> 00:00:56,640
+this system moves away from the focus
+ 
+
+47
+00:00:56,640 --> 00:00:58,630
+this system moves away from the focus
+being whoever has the highest speed
+
+48
+00:00:58,630 --> 00:00:58,640
+being whoever has the highest speed
+ 
+
+49
+00:00:58,640 --> 00:01:01,750
+being whoever has the highest speed
+score wins and towards whoever can best
+
+50
+00:01:01,750 --> 00:01:01,760
+score wins and towards whoever can best
+ 
+
+51
+00:01:01,760 --> 00:01:05,350
+score wins and towards whoever can best
+overcome the obstacles in their way wins
+
+52
+00:01:05,350 --> 00:01:05,360
+overcome the obstacles in their way wins
+ 
+
+53
+00:01:05,360 --> 00:01:07,270
+overcome the obstacles in their way wins
+these obstacles can be just about
+
+54
+00:01:07,270 --> 00:01:07,280
+these obstacles can be just about
+ 
+
+55
+00:01:07,280 --> 00:01:09,109
+these obstacles can be just about
+anything that would prevent a character
+
+56
+00:01:09,109 --> 00:01:09,119
+anything that would prevent a character
+ 
+
+57
+00:01:09,119 --> 00:01:11,510
+anything that would prevent a character
+from easily progressing a chase in a
+
+58
+00:01:11,510 --> 00:01:11,520
+from easily progressing a chase in a
+ 
+
+59
+00:01:11,520 --> 00:01:14,070
+from easily progressing a chase in a
+city might have obstacles like a fence
+
+60
+00:01:14,070 --> 00:01:14,080
+city might have obstacles like a fence
+ 
+
+61
+00:01:14,080 --> 00:01:16,630
+city might have obstacles like a fence
+blocking off an alleyway a funeral
+
+62
+00:01:16,630 --> 00:01:16,640
+blocking off an alleyway a funeral
+ 
+
+63
+00:01:16,640 --> 00:01:19,190
+blocking off an alleyway a funeral
+procession blocking the road or guards
+
+64
+00:01:19,190 --> 00:01:19,200
+procession blocking the road or guards
+ 
+
+65
+00:01:19,200 --> 00:01:21,190
+procession blocking the road or guards
+on the lookout and a chase in the
+
+66
+00:01:21,190 --> 00:01:21,200
+on the lookout and a chase in the
+ 
+
+67
+00:01:21,200 --> 00:01:23,350
+on the lookout and a chase in the
+wilderness might have obstacles like
+
+68
+00:01:23,350 --> 00:01:23,360
+wilderness might have obstacles like
+ 
+
+69
+00:01:23,360 --> 00:01:26,149
+wilderness might have obstacles like
+muddy trails a wasp nest or dense
+
+70
+00:01:26,149 --> 00:01:26,159
+muddy trails a wasp nest or dense
+ 
+
+71
+00:01:26,159 --> 00:01:27,749
+muddy trails a wasp nest or dense
+thickets and thorns
+
+72
+00:01:27,749 --> 00:01:27,759
+thickets and thorns
+ 
+
+73
+00:01:27,759 --> 00:01:30,310
+thickets and thorns
+each obstacle notes the number of chase
+
+74
+00:01:30,310 --> 00:01:30,320
+each obstacle notes the number of chase
+ 
+
+75
+00:01:30,320 --> 00:01:32,550
+each obstacle notes the number of chase
+points that need to be earned in order
+
+76
+00:01:32,550 --> 00:01:32,560
+points that need to be earned in order
+ 
+
+77
+00:01:32,560 --> 00:01:35,190
+points that need to be earned in order
+to overcome them and should also provide
+
+78
+00:01:35,190 --> 00:01:35,200
+to overcome them and should also provide
+ 
+
+79
+00:01:35,200 --> 00:01:37,350
+to overcome them and should also provide
+at least two actions that can be used to
+
+80
+00:01:37,350 --> 00:01:37,360
+at least two actions that can be used to
+ 
+
+81
+00:01:37,360 --> 00:01:39,030
+at least two actions that can be used to
+earn chase points
+
+82
+00:01:39,030 --> 00:01:39,040
+earn chase points
+ 
+
+83
+00:01:39,040 --> 00:01:41,590
+earn chase points
+these are usually skills but can also be
+
+84
+00:01:41,590 --> 00:01:41,600
+these are usually skills but can also be
+ 
+
+85
+00:01:41,600 --> 00:01:43,670
+these are usually skills but can also be
+perception checks saving throws or even
+
+86
+00:01:43,670 --> 00:01:43,680
+perception checks saving throws or even
+ 
+
+87
+00:01:43,680 --> 00:01:45,109
+perception checks saving throws or even
+an attack role depending on the
+
+88
+00:01:45,109 --> 00:01:45,119
+an attack role depending on the
+ 
+
+89
+00:01:45,119 --> 00:01:46,389
+an attack role depending on the
+circumstance
+
+90
+00:01:46,389 --> 00:01:46,399
+circumstance
+ 
+
+91
+00:01:46,399 --> 00:01:47,990
+circumstance
+typically the number of chase points
+
+92
+00:01:47,990 --> 00:01:48,000
+typically the number of chase points
+ 
+
+93
+00:01:48,000 --> 00:01:50,310
+typically the number of chase points
+needed to overcome an obstacle will be
+
+94
+00:01:50,310 --> 00:01:50,320
+needed to overcome an obstacle will be
+ 
+
+95
+00:01:50,320 --> 00:01:53,030
+needed to overcome an obstacle will be
+one per player and the group works as a
+
+96
+00:01:53,030 --> 00:01:53,040
+one per player and the group works as a
+ 
+
+97
+00:01:53,040 --> 00:01:55,270
+one per player and the group works as a
+team accumulating points for the entire
+
+98
+00:01:55,270 --> 00:01:55,280
+team accumulating points for the entire
+ 
+
+99
+00:01:55,280 --> 00:01:57,830
+team accumulating points for the entire
+group rather than individually
+
+100
+00:01:57,830 --> 00:01:57,840
+group rather than individually
+ 
+
+101
+00:01:57,840 --> 00:01:59,910
+group rather than individually
+so for example if the players are being
+
+102
+00:01:59,910 --> 00:01:59,920
+so for example if the players are being
+ 
+
+103
+00:01:59,920 --> 00:02:02,389
+so for example if the players are being
+chased by guards through a city the gm
+
+104
+00:02:02,389 --> 00:02:02,399
+chased by guards through a city the gm
+ 
+
+105
+00:02:02,399 --> 00:02:04,709
+chased by guards through a city the gm
+might present a crowded market square as
+
+106
+00:02:04,709 --> 00:02:04,719
+might present a crowded market square as
+ 
+
+107
+00:02:04,719 --> 00:02:07,270
+might present a crowded market square as
+an obstacle if we look at the stat block
+
+108
+00:02:07,270 --> 00:02:07,280
+an obstacle if we look at the stat block
+ 
+
+109
+00:02:07,280 --> 00:02:09,910
+an obstacle if we look at the stat block
+for a crowd we see it takes four chase
+
+110
+00:02:09,910 --> 00:02:09,920
+for a crowd we see it takes four chase
+ 
+
+111
+00:02:09,920 --> 00:02:12,070
+for a crowd we see it takes four chase
+points to overcome and i believe this is
+
+112
+00:02:12,070 --> 00:02:12,080
+points to overcome and i believe this is
+ 
+
+113
+00:02:12,080 --> 00:02:14,869
+points to overcome and i believe this is
+assuming a standard four player party
+
+114
+00:02:14,869 --> 00:02:14,879
+assuming a standard four player party
+ 
+
+115
+00:02:14,879 --> 00:02:17,750
+assuming a standard four player party
+and it says that players can use either
+
+116
+00:02:17,750 --> 00:02:17,760
+and it says that players can use either
+ 
+
+117
+00:02:17,760 --> 00:02:21,670
+and it says that players can use either
+acrobatics or athletics against dc 15
+
+118
+00:02:21,670 --> 00:02:21,680
+acrobatics or athletics against dc 15
+ 
+
+119
+00:02:21,680 --> 00:02:25,670
+acrobatics or athletics against dc 15
+or society against dc 13 to navigate
+
+120
+00:02:25,670 --> 00:02:25,680
+or society against dc 13 to navigate
+ 
+
+121
+00:02:25,680 --> 00:02:27,910
+or society against dc 13 to navigate
+their way past the crowd
+
+122
+00:02:27,910 --> 00:02:27,920
+their way past the crowd
+ 
+
+123
+00:02:27,920 --> 00:02:30,390
+their way past the crowd
+although chases do not progress in 6
+
+124
+00:02:30,390 --> 00:02:30,400
+although chases do not progress in 6
+ 
+
+125
+00:02:30,400 --> 00:02:32,790
+although chases do not progress in 6
+second rounds like with encounter mode
+
+126
+00:02:32,790 --> 00:02:32,800
+second rounds like with encounter mode
+ 
+
+127
+00:02:32,800 --> 00:02:34,710
+second rounds like with encounter mode
+there is still an initiative order and
+
+128
+00:02:34,710 --> 00:02:34,720
+there is still an initiative order and
+ 
+
+129
+00:02:34,720 --> 00:02:36,869
+there is still an initiative order and
+characters act in turns
+
+130
+00:02:36,869 --> 00:02:36,879
+characters act in turns
+ 
+
+131
+00:02:36,879 --> 00:02:40,070
+characters act in turns
+whichever team is being chased goes
+
+132
+00:02:40,070 --> 00:02:40,080
+whichever team is being chased goes
+ 
+
+133
+00:02:40,080 --> 00:02:42,550
+whichever team is being chased goes
+first in initiative so if the players
+
+134
+00:02:42,550 --> 00:02:42,560
+first in initiative so if the players
+ 
+
+135
+00:02:42,560 --> 00:02:44,710
+first in initiative so if the players
+are being chased by guards each of those
+
+136
+00:02:44,710 --> 00:02:44,720
+are being chased by guards each of those
+ 
+
+137
+00:02:44,720 --> 00:02:46,710
+are being chased by guards each of those
+players get to take a single turn and
+
+138
+00:02:46,710 --> 00:02:46,720
+players get to take a single turn and
+ 
+
+139
+00:02:46,720 --> 00:02:50,229
+players get to take a single turn and
+then everyone chasing them takes a turn
+
+140
+00:02:50,229 --> 00:02:50,239
+then everyone chasing them takes a turn
+ 
+
+141
+00:02:50,239 --> 00:02:52,630
+then everyone chasing them takes a turn
+note that by default the chase roles in
+
+142
+00:02:52,630 --> 00:02:52,640
+note that by default the chase roles in
+ 
+
+143
+00:02:52,640 --> 00:02:55,430
+note that by default the chase roles in
+2nd edition assume that the entire party
+
+144
+00:02:55,430 --> 00:02:55,440
+2nd edition assume that the entire party
+ 
+
+145
+00:02:55,440 --> 00:02:57,990
+2nd edition assume that the entire party
+of players sticks together and works as
+
+146
+00:02:57,990 --> 00:02:58,000
+of players sticks together and works as
+ 
+
+147
+00:02:58,000 --> 00:03:01,030
+of players sticks together and works as
+a team to overcome each obstacle one at
+
+148
+00:03:01,030 --> 00:03:01,040
+a team to overcome each obstacle one at
+ 
+
+149
+00:03:01,040 --> 00:03:03,110
+a team to overcome each obstacle one at
+a time rather than managing the
+
+150
+00:03:03,110 --> 00:03:03,120
+a time rather than managing the
+ 
+
+151
+00:03:03,120 --> 00:03:05,350
+a time rather than managing the
+challenges individually and having some
+
+152
+00:03:05,350 --> 00:03:05,360
+challenges individually and having some
+ 
+
+153
+00:03:05,360 --> 00:03:08,070
+challenges individually and having some
+players progress faster than others
+
+154
+00:03:08,070 --> 00:03:08,080
+players progress faster than others
+ 
+
+155
+00:03:08,080 --> 00:03:10,229
+players progress faster than others
+on each player's turn they describe
+
+156
+00:03:10,229 --> 00:03:10,239
+on each player's turn they describe
+ 
+
+157
+00:03:10,239 --> 00:03:11,990
+on each player's turn they describe
+within the narrative what they wish to
+
+158
+00:03:11,990 --> 00:03:12,000
+within the narrative what they wish to
+ 
+
+159
+00:03:12,000 --> 00:03:14,630
+within the narrative what they wish to
+do to progress past the obstacle and
+
+160
+00:03:14,630 --> 00:03:14,640
+do to progress past the obstacle and
+ 
+
+161
+00:03:14,640 --> 00:03:17,030
+do to progress past the obstacle and
+they get to roll one check
+
+162
+00:03:17,030 --> 00:03:17,040
+they get to roll one check
+ 
+
+163
+00:03:17,040 --> 00:03:19,270
+they get to roll one check
+in the case of crowds acrobatics
+
+164
+00:03:19,270 --> 00:03:19,280
+in the case of crowds acrobatics
+ 
+
+165
+00:03:19,280 --> 00:03:21,589
+in the case of crowds acrobatics
+athletics and society are offered as
+
+166
+00:03:21,589 --> 00:03:21,599
+athletics and society are offered as
+ 
+
+167
+00:03:21,599 --> 00:03:24,789
+athletics and society are offered as
+suggestions a success earns the team one
+
+168
+00:03:24,789 --> 00:03:24,799
+suggestions a success earns the team one
+ 
+
+169
+00:03:24,799 --> 00:03:25,990
+suggestions a success earns the team one
+chase point
+
+170
+00:03:25,990 --> 00:03:26,000
+chase point
+ 
+
+171
+00:03:26,000 --> 00:03:28,470
+chase point
+a critical success earns two chase
+
+172
+00:03:28,470 --> 00:03:28,480
+a critical success earns two chase
+ 
+
+173
+00:03:28,480 --> 00:03:31,190
+a critical success earns two chase
+points and a critical failure cost the
+
+174
+00:03:31,190 --> 00:03:31,200
+points and a critical failure cost the
+ 
+
+175
+00:03:31,200 --> 00:03:33,509
+points and a critical failure cost the
+team one chase point
+
+176
+00:03:33,509 --> 00:03:33,519
+team one chase point
+ 
+
+177
+00:03:33,519 --> 00:03:35,030
+team one chase point
+once enough chase points have been
+
+178
+00:03:35,030 --> 00:03:35,040
+once enough chase points have been
+ 
+
+179
+00:03:35,040 --> 00:03:37,830
+once enough chase points have been
+earned the party as a whole makes their
+
+180
+00:03:37,830 --> 00:03:37,840
+earned the party as a whole makes their
+ 
+
+181
+00:03:37,840 --> 00:03:39,990
+earned the party as a whole makes their
+way past the obstacle and progresses to
+
+182
+00:03:39,990 --> 00:03:40,000
+way past the obstacle and progresses to
+ 
+
+183
+00:03:40,000 --> 00:03:41,270
+way past the obstacle and progresses to
+the next one
+
+184
+00:03:41,270 --> 00:03:41,280
+the next one
+ 
+
+185
+00:03:41,280 --> 00:03:43,350
+the next one
+there may also be times when certain
+
+186
+00:03:43,350 --> 00:03:43,360
+there may also be times when certain
+ 
+
+187
+00:03:43,360 --> 00:03:45,430
+there may also be times when certain
+actions just automatically earn a
+
+188
+00:03:45,430 --> 00:03:45,440
+actions just automatically earn a
+ 
+
+189
+00:03:45,440 --> 00:03:47,830
+actions just automatically earn a
+success for example a player might cast
+
+190
+00:03:47,830 --> 00:03:47,840
+success for example a player might cast
+ 
+
+191
+00:03:47,840 --> 00:03:49,830
+success for example a player might cast
+a spell that makes the obstacle
+
+192
+00:03:49,830 --> 00:03:49,840
+a spell that makes the obstacle
+ 
+
+193
+00:03:49,840 --> 00:03:52,229
+a spell that makes the obstacle
+inconsequential maybe they cast a spell
+
+194
+00:03:52,229 --> 00:03:52,239
+inconsequential maybe they cast a spell
+ 
+
+195
+00:03:52,239 --> 00:03:55,030
+inconsequential maybe they cast a spell
+and fly over the crowd in such a case
+
+196
+00:03:55,030 --> 00:03:55,040
+and fly over the crowd in such a case
+ 
+
+197
+00:03:55,040 --> 00:03:57,350
+and fly over the crowd in such a case
+that player automatically earns one
+
+198
+00:03:57,350 --> 00:03:57,360
+that player automatically earns one
+ 
+
+199
+00:03:57,360 --> 00:03:59,589
+that player automatically earns one
+chase point they don't roll a check and
+
+200
+00:03:59,589 --> 00:03:59,599
+chase point they don't roll a check and
+ 
+
+201
+00:03:59,599 --> 00:04:02,710
+chase point they don't roll a check and
+they cannot fail but they also cannot
+
+202
+00:04:02,710 --> 00:04:02,720
+they cannot fail but they also cannot
+ 
+
+203
+00:04:02,720 --> 00:04:05,030
+they cannot fail but they also cannot
+earn a critical success
+
+204
+00:04:05,030 --> 00:04:05,040
+earn a critical success
+ 
+
+205
+00:04:05,040 --> 00:04:07,830
+earn a critical success
+also note that each turn during a chase
+
+206
+00:04:07,830 --> 00:04:07,840
+also note that each turn during a chase
+ 
+
+207
+00:04:07,840 --> 00:04:09,830
+also note that each turn during a chase
+may take several minutes depending on
+
+208
+00:04:09,830 --> 00:04:09,840
+may take several minutes depending on
+ 
+
+209
+00:04:09,840 --> 00:04:11,750
+may take several minutes depending on
+the nature of the obstacle and the
+
+210
+00:04:11,750 --> 00:04:11,760
+the nature of the obstacle and the
+ 
+
+211
+00:04:11,760 --> 00:04:14,070
+the nature of the obstacle and the
+distance being traveled between the
+
+212
+00:04:14,070 --> 00:04:14,080
+distance being traveled between the
+ 
+
+213
+00:04:14,080 --> 00:04:16,390
+distance being traveled between the
+obstacles and that should be taken into
+
+214
+00:04:16,390 --> 00:04:16,400
+obstacles and that should be taken into
+ 
+
+215
+00:04:16,400 --> 00:04:18,310
+obstacles and that should be taken into
+account when managing the duration of
+
+216
+00:04:18,310 --> 00:04:18,320
+account when managing the duration of
+ 
+
+217
+00:04:18,320 --> 00:04:20,629
+account when managing the duration of
+spells also note that players should
+
+218
+00:04:20,629 --> 00:04:20,639
+spells also note that players should
+ 
+
+219
+00:04:20,639 --> 00:04:22,790
+spells also note that players should
+always have the freedom to do whatever
+
+220
+00:04:22,790 --> 00:04:22,800
+always have the freedom to do whatever
+ 
+
+221
+00:04:22,800 --> 00:04:24,790
+always have the freedom to do whatever
+they believe is most appropriate given
+
+222
+00:04:24,790 --> 00:04:24,800
+they believe is most appropriate given
+ 
+
+223
+00:04:24,800 --> 00:04:27,030
+they believe is most appropriate given
+the situation maybe a player wants to
+
+224
+00:04:27,030 --> 00:04:27,040
+the situation maybe a player wants to
+ 
+
+225
+00:04:27,040 --> 00:04:29,270
+the situation maybe a player wants to
+use intimidation to demand the crowd
+
+226
+00:04:29,270 --> 00:04:29,280
+use intimidation to demand the crowd
+ 
+
+227
+00:04:29,280 --> 00:04:31,270
+use intimidation to demand the crowd
+move aside and let them through
+
+228
+00:04:31,270 --> 00:04:31,280
+move aside and let them through
+ 
+
+229
+00:04:31,280 --> 00:04:33,110
+move aside and let them through
+or a player wants to throw some coins to
+
+230
+00:04:33,110 --> 00:04:33,120
+or a player wants to throw some coins to
+ 
+
+231
+00:04:33,120 --> 00:04:35,110
+or a player wants to throw some coins to
+the side so people move away from where
+
+232
+00:04:35,110 --> 00:04:35,120
+the side so people move away from where
+ 
+
+233
+00:04:35,120 --> 00:04:37,430
+the side so people move away from where
+they're running or since this is a
+
+234
+00:04:37,430 --> 00:04:37,440
+they're running or since this is a
+ 
+
+235
+00:04:37,440 --> 00:04:40,150
+they're running or since this is a
+marketplace crowd they might use their
+
+236
+00:04:40,150 --> 00:04:40,160
+marketplace crowd they might use their
+ 
+
+237
+00:04:40,160 --> 00:04:42,629
+marketplace crowd they might use their
+lore merchant skill to find a different
+
+238
+00:04:42,629 --> 00:04:42,639
+lore merchant skill to find a different
+ 
+
+239
+00:04:42,639 --> 00:04:44,710
+lore merchant skill to find a different
+shortcut through the stalls
+
+240
+00:04:44,710 --> 00:04:44,720
+shortcut through the stalls
+ 
+
+241
+00:04:44,720 --> 00:04:47,030
+shortcut through the stalls
+these are all valid options and should
+
+242
+00:04:47,030 --> 00:04:47,040
+these are all valid options and should
+ 
+
+243
+00:04:47,040 --> 00:04:49,590
+these are all valid options and should
+be encouraged even if they're not listed
+
+244
+00:04:49,590 --> 00:04:49,600
+be encouraged even if they're not listed
+ 
+
+245
+00:04:49,600 --> 00:04:52,150
+be encouraged even if they're not listed
+as available skills in the obstacle stat
+
+246
+00:04:52,150 --> 00:04:52,160
+as available skills in the obstacle stat
+ 
+
+247
+00:04:52,160 --> 00:04:54,550
+as available skills in the obstacle stat
+block these cases will call for some
+
+248
+00:04:54,550 --> 00:04:54,560
+block these cases will call for some
+ 
+
+249
+00:04:54,560 --> 00:04:56,950
+block these cases will call for some
+improvisation by the gm who will need to
+
+250
+00:04:56,950 --> 00:04:56,960
+improvisation by the gm who will need to
+ 
+
+251
+00:04:56,960 --> 00:04:59,350
+improvisation by the gm who will need to
+assign an appropriate check to be rolled
+
+252
+00:04:59,350 --> 00:04:59,360
+assign an appropriate check to be rolled
+ 
+
+253
+00:04:59,360 --> 00:05:02,870
+assign an appropriate check to be rolled
+and a dc for it in many cases the dc may
+
+254
+00:05:02,870 --> 00:05:02,880
+and a dc for it in many cases the dc may
+ 
+
+255
+00:05:02,880 --> 00:05:04,310
+and a dc for it in many cases the dc may
+be slightly higher than those
+
+256
+00:05:04,310 --> 00:05:04,320
+be slightly higher than those
+ 
+
+257
+00:05:04,320 --> 00:05:06,710
+be slightly higher than those
+represented on the obstacle step block
+
+258
+00:05:06,710 --> 00:05:06,720
+represented on the obstacle step block
+ 
+
+259
+00:05:06,720 --> 00:05:09,029
+represented on the obstacle step block
+as they are likely not the most obvious
+
+260
+00:05:09,029 --> 00:05:09,039
+as they are likely not the most obvious
+ 
+
+261
+00:05:09,039 --> 00:05:10,950
+as they are likely not the most obvious
+or simplest solutions
+
+262
+00:05:10,950 --> 00:05:10,960
+or simplest solutions
+ 
+
+263
+00:05:10,960 --> 00:05:12,950
+or simplest solutions
+also be aware that obstacles should be
+
+264
+00:05:12,950 --> 00:05:12,960
+also be aware that obstacles should be
+ 
+
+265
+00:05:12,960 --> 00:05:15,670
+also be aware that obstacles should be
+treated as individual adversaries
+
+266
+00:05:15,670 --> 00:05:15,680
+treated as individual adversaries
+ 
+
+267
+00:05:15,680 --> 00:05:17,510
+treated as individual adversaries
+meaning that chase points are not
+
+268
+00:05:17,510 --> 00:05:17,520
+meaning that chase points are not
+ 
+
+269
+00:05:17,520 --> 00:05:19,830
+meaning that chase points are not
+carried over from one obstacle to the
+
+270
+00:05:19,830 --> 00:05:19,840
+carried over from one obstacle to the
+ 
+
+271
+00:05:19,840 --> 00:05:22,710
+carried over from one obstacle to the
+next however if an obstacle is defeated
+
+272
+00:05:22,710 --> 00:05:22,720
+next however if an obstacle is defeated
+ 
+
+273
+00:05:22,720 --> 00:05:24,390
+next however if an obstacle is defeated
+and there are players who have not yet
+
+274
+00:05:24,390 --> 00:05:24,400
+and there are players who have not yet
+ 
+
+275
+00:05:24,400 --> 00:05:26,629
+and there are players who have not yet
+taken their turns this round play
+
+276
+00:05:26,629 --> 00:05:26,639
+taken their turns this round play
+ 
+
+277
+00:05:26,639 --> 00:05:28,950
+taken their turns this round play
+continues and those players may attempt
+
+278
+00:05:28,950 --> 00:05:28,960
+continues and those players may attempt
+ 
+
+279
+00:05:28,960 --> 00:05:31,510
+continues and those players may attempt
+to overcome the next challenge the first
+
+280
+00:05:31,510 --> 00:05:31,520
+to overcome the next challenge the first
+ 
+
+281
+00:05:31,520 --> 00:05:33,909
+to overcome the next challenge the first
+step in designing a chase scene is to
+
+282
+00:05:33,909 --> 00:05:33,919
+step in designing a chase scene is to
+ 
+
+283
+00:05:33,919 --> 00:05:36,150
+step in designing a chase scene is to
+determine what type of chase is going to
+
+284
+00:05:36,150 --> 00:05:36,160
+determine what type of chase is going to
+ 
+
+285
+00:05:36,160 --> 00:05:36,950
+determine what type of chase is going to
+be
+
+286
+00:05:36,950 --> 00:05:36,960
+be
+ 
+
+287
+00:05:36,960 --> 00:05:39,510
+be
+in a chase down the players are trying
+
+288
+00:05:39,510 --> 00:05:39,520
+in a chase down the players are trying
+ 
+
+289
+00:05:39,520 --> 00:05:41,430
+in a chase down the players are trying
+to catch someone who is fleeing from
+
+290
+00:05:41,430 --> 00:05:41,440
+to catch someone who is fleeing from
+ 
+
+291
+00:05:41,440 --> 00:05:44,070
+to catch someone who is fleeing from
+them typically the enemies in a chase
+
+292
+00:05:44,070 --> 00:05:44,080
+them typically the enemies in a chase
+ 
+
+293
+00:05:44,080 --> 00:05:46,469
+them typically the enemies in a chase
+down will start one objective ahead of
+
+294
+00:05:46,469 --> 00:05:46,479
+down will start one objective ahead of
+ 
+
+295
+00:05:46,479 --> 00:05:48,550
+down will start one objective ahead of
+the players and will go first in
+
+296
+00:05:48,550 --> 00:05:48,560
+the players and will go first in
+ 
+
+297
+00:05:48,560 --> 00:05:49,590
+the players and will go first in
+initiative
+
+298
+00:05:49,590 --> 00:05:49,600
+initiative
+ 
+
+299
+00:05:49,600 --> 00:05:51,510
+initiative
+if the players can move to the same
+
+300
+00:05:51,510 --> 00:05:51,520
+if the players can move to the same
+ 
+
+301
+00:05:51,520 --> 00:05:53,830
+if the players can move to the same
+obstacle as the enemies before the
+
+302
+00:05:53,830 --> 00:05:53,840
+obstacle as the enemies before the
+ 
+
+303
+00:05:53,840 --> 00:05:56,870
+obstacle as the enemies before the
+enemies complete the final obstacle then
+
+304
+00:05:56,870 --> 00:05:56,880
+enemies complete the final obstacle then
+ 
+
+305
+00:05:56,880 --> 00:05:58,309
+enemies complete the final obstacle then
+they catch them
+
+306
+00:05:58,309 --> 00:05:58,319
+they catch them
+ 
+
+307
+00:05:58,319 --> 00:06:01,189
+they catch them
+the second type of chase is run away
+
+308
+00:06:01,189 --> 00:06:01,199
+the second type of chase is run away
+ 
+
+309
+00:06:01,199 --> 00:06:03,670
+the second type of chase is run away
+this is a reverse chase down in a
+
+310
+00:06:03,670 --> 00:06:03,680
+this is a reverse chase down in a
+ 
+
+311
+00:06:03,680 --> 00:06:05,749
+this is a reverse chase down in a
+runaway the players are attempting to
+
+312
+00:06:05,749 --> 00:06:05,759
+runaway the players are attempting to
+ 
+
+313
+00:06:05,759 --> 00:06:08,230
+runaway the players are attempting to
+flee from chasing enemies the players
+
+314
+00:06:08,230 --> 00:06:08,240
+flee from chasing enemies the players
+ 
+
+315
+00:06:08,240 --> 00:06:10,629
+flee from chasing enemies the players
+lose this chase scene if their pursuers
+
+316
+00:06:10,629 --> 00:06:10,639
+lose this chase scene if their pursuers
+ 
+
+317
+00:06:10,639 --> 00:06:12,950
+lose this chase scene if their pursuers
+ever catch up to them and they win the
+
+318
+00:06:12,950 --> 00:06:12,960
+ever catch up to them and they win the
+ 
+
+319
+00:06:12,960 --> 00:06:15,749
+ever catch up to them and they win the
+runaway chase if they complete the final
+
+320
+00:06:15,749 --> 00:06:15,759
+runaway chase if they complete the final
+ 
+
+321
+00:06:15,759 --> 00:06:17,990
+runaway chase if they complete the final
+obstacle or are ever at least three
+
+322
+00:06:17,990 --> 00:06:18,000
+obstacle or are ever at least three
+ 
+
+323
+00:06:18,000 --> 00:06:20,469
+obstacle or are ever at least three
+obstacles ahead of their pursuers before
+
+324
+00:06:20,469 --> 00:06:20,479
+obstacles ahead of their pursuers before
+ 
+
+325
+00:06:20,479 --> 00:06:21,990
+obstacles ahead of their pursuers before
+being caught
+
+326
+00:06:21,990 --> 00:06:22,000
+being caught
+ 
+
+327
+00:06:22,000 --> 00:06:24,070
+being caught
+the third type of chase is beat the
+
+328
+00:06:24,070 --> 00:06:24,080
+the third type of chase is beat the
+ 
+
+329
+00:06:24,080 --> 00:06:26,550
+the third type of chase is beat the
+clock this occurs when the players are
+
+330
+00:06:26,550 --> 00:06:26,560
+clock this occurs when the players are
+ 
+
+331
+00:06:26,560 --> 00:06:28,790
+clock this occurs when the players are
+either in a race where neither group is
+
+332
+00:06:28,790 --> 00:06:28,800
+either in a race where neither group is
+ 
+
+333
+00:06:28,800 --> 00:06:31,189
+either in a race where neither group is
+trying to catch the other or when there
+
+334
+00:06:31,189 --> 00:06:31,199
+trying to catch the other or when there
+ 
+
+335
+00:06:31,199 --> 00:06:33,590
+trying to catch the other or when there
+is a time limit such as outrunning a
+
+336
+00:06:33,590 --> 00:06:33,600
+is a time limit such as outrunning a
+ 
+
+337
+00:06:33,600 --> 00:06:36,629
+is a time limit such as outrunning a
+natural disaster or a collapsing dungeon
+
+338
+00:06:36,629 --> 00:06:36,639
+natural disaster or a collapsing dungeon
+ 
+
+339
+00:06:36,639 --> 00:06:38,710
+natural disaster or a collapsing dungeon
+typically in a beat the clock scene
+
+340
+00:06:38,710 --> 00:06:38,720
+typically in a beat the clock scene
+ 
+
+341
+00:06:38,720 --> 00:06:41,350
+typically in a beat the clock scene
+there is a time limit noted in a number
+
+342
+00:06:41,350 --> 00:06:41,360
+there is a time limit noted in a number
+ 
+
+343
+00:06:41,360 --> 00:06:43,590
+there is a time limit noted in a number
+of rounds and the players must finish
+
+344
+00:06:43,590 --> 00:06:43,600
+of rounds and the players must finish
+ 
+
+345
+00:06:43,600 --> 00:06:46,230
+of rounds and the players must finish
+the final obstacle before that time runs
+
+346
+00:06:46,230 --> 00:06:46,240
+the final obstacle before that time runs
+ 
+
+347
+00:06:46,240 --> 00:06:48,710
+the final obstacle before that time runs
+out a good guideline when building a
+
+348
+00:06:48,710 --> 00:06:48,720
+out a good guideline when building a
+ 
+
+349
+00:06:48,720 --> 00:06:51,270
+out a good guideline when building a
+beat the clock chase is to design one
+
+350
+00:06:51,270 --> 00:06:51,280
+beat the clock chase is to design one
+ 
+
+351
+00:06:51,280 --> 00:06:54,550
+beat the clock chase is to design one
+obstacle per round of the time limit
+
+352
+00:06:54,550 --> 00:06:54,560
+obstacle per round of the time limit
+ 
+
+353
+00:06:54,560 --> 00:06:56,710
+obstacle per round of the time limit
+and the last type of chase is the
+
+354
+00:06:56,710 --> 00:06:56,720
+and the last type of chase is the
+ 
+
+355
+00:06:56,720 --> 00:06:59,270
+and the last type of chase is the
+competitive chase as the name implies
+
+356
+00:06:59,270 --> 00:06:59,280
+competitive chase as the name implies
+ 
+
+357
+00:06:59,280 --> 00:07:01,270
+competitive chase as the name implies
+this is when the party and their enemies
+
+358
+00:07:01,270 --> 00:07:01,280
+this is when the party and their enemies
+ 
+
+359
+00:07:01,280 --> 00:07:03,830
+this is when the party and their enemies
+are both chasing after something whether
+
+360
+00:07:03,830 --> 00:07:03,840
+are both chasing after something whether
+ 
+
+361
+00:07:03,840 --> 00:07:06,309
+are both chasing after something whether
+it be a third person who is fling from
+
+362
+00:07:06,309 --> 00:07:06,319
+it be a third person who is fling from
+ 
+
+363
+00:07:06,319 --> 00:07:08,870
+it be a third person who is fling from
+both groups or they are trying to get to
+
+364
+00:07:08,870 --> 00:07:08,880
+both groups or they are trying to get to
+ 
+
+365
+00:07:08,880 --> 00:07:11,189
+both groups or they are trying to get to
+the finish line of a race first this
+
+366
+00:07:11,189 --> 00:07:11,199
+the finish line of a race first this
+ 
+
+367
+00:07:11,199 --> 00:07:13,430
+the finish line of a race first this
+works like beat the clock except instead
+
+368
+00:07:13,430 --> 00:07:13,440
+works like beat the clock except instead
+ 
+
+369
+00:07:13,440 --> 00:07:15,510
+works like beat the clock except instead
+of a time limit the scene ends when
+
+370
+00:07:15,510 --> 00:07:15,520
+of a time limit the scene ends when
+ 
+
+371
+00:07:15,520 --> 00:07:17,749
+of a time limit the scene ends when
+either party finishes the final obstacle
+
+372
+00:07:17,749 --> 00:07:17,759
+either party finishes the final obstacle
+ 
+
+373
+00:07:17,759 --> 00:07:19,589
+either party finishes the final obstacle
+or catches their target
+
+374
+00:07:19,589 --> 00:07:19,599
+or catches their target
+ 
+
+375
+00:07:19,599 --> 00:07:21,510
+or catches their target
+and since both the players and their
+
+376
+00:07:21,510 --> 00:07:21,520
+and since both the players and their
+ 
+
+377
+00:07:21,520 --> 00:07:23,749
+and since both the players and their
+enemies are pursuers they may need to
+
+378
+00:07:23,749 --> 00:07:23,759
+enemies are pursuers they may need to
+ 
+
+379
+00:07:23,759 --> 00:07:25,510
+enemies are pursuers they may need to
+roll initiative for each group to
+
+380
+00:07:25,510 --> 00:07:25,520
+roll initiative for each group to
+ 
+
+381
+00:07:25,520 --> 00:07:27,510
+roll initiative for each group to
+determine which of those groups goes
+
+382
+00:07:27,510 --> 00:07:27,520
+determine which of those groups goes
+ 
+
+383
+00:07:27,520 --> 00:07:29,990
+determine which of those groups goes
+first there are no hard rules for this
+
+384
+00:07:29,990 --> 00:07:30,000
+first there are no hard rules for this
+ 
+
+385
+00:07:30,000 --> 00:07:31,990
+first there are no hard rules for this
+so the gm will need to determine what
+
+386
+00:07:31,990 --> 00:07:32,000
+so the gm will need to determine what
+ 
+
+387
+00:07:32,000 --> 00:07:33,670
+so the gm will need to determine what
+the modifiers for the initiative checks
+
+388
+00:07:33,670 --> 00:07:33,680
+the modifiers for the initiative checks
+ 
+
+389
+00:07:33,680 --> 00:07:35,270
+the modifiers for the initiative checks
+will be if any
+
+390
+00:07:35,270 --> 00:07:35,280
+will be if any
+ 
+
+391
+00:07:35,280 --> 00:07:36,710
+will be if any
+once you know what type of chase you'll
+
+392
+00:07:36,710 --> 00:07:36,720
+once you know what type of chase you'll
+ 
+
+393
+00:07:36,720 --> 00:07:38,710
+once you know what type of chase you'll
+be running it's time to build the
+
+394
+00:07:38,710 --> 00:07:38,720
+be running it's time to build the
+ 
+
+395
+00:07:38,720 --> 00:07:41,430
+be running it's time to build the
+obstacles a short chase should have
+
+396
+00:07:41,430 --> 00:07:41,440
+obstacles a short chase should have
+ 
+
+397
+00:07:41,440 --> 00:07:45,110
+obstacles a short chase should have
+about six obstacles 8 for a medium chase
+
+398
+00:07:45,110 --> 00:07:45,120
+about six obstacles 8 for a medium chase
+ 
+
+399
+00:07:45,120 --> 00:07:47,510
+about six obstacles 8 for a medium chase
+and long chases call for about 10
+
+400
+00:07:47,510 --> 00:07:47,520
+and long chases call for about 10
+ 
+
+401
+00:07:47,520 --> 00:07:48,790
+and long chases call for about 10
+obstacles
+
+402
+00:07:48,790 --> 00:07:48,800
+obstacles
+ 
+
+403
+00:07:48,800 --> 00:07:51,270
+obstacles
+when choosing obstacles trying to build
+
+404
+00:07:51,270 --> 00:07:51,280
+when choosing obstacles trying to build
+ 
+
+405
+00:07:51,280 --> 00:07:53,430
+when choosing obstacles trying to build
+a variety that will allow everyone an
+
+406
+00:07:53,430 --> 00:07:53,440
+a variety that will allow everyone an
+ 
+
+407
+00:07:53,440 --> 00:07:56,390
+a variety that will allow everyone an
+opportunity to shine not just experts in
+
+408
+00:07:56,390 --> 00:07:56,400
+opportunity to shine not just experts in
+ 
+
+409
+00:07:56,400 --> 00:07:58,390
+opportunity to shine not just experts in
+athletics and acrobatics
+
+410
+00:07:58,390 --> 00:07:58,400
+athletics and acrobatics
+ 
+
+411
+00:07:58,400 --> 00:08:00,309
+athletics and acrobatics
+once you have selected the obstacles for
+
+412
+00:08:00,309 --> 00:08:00,319
+once you have selected the obstacles for
+ 
+
+413
+00:08:00,319 --> 00:08:03,270
+once you have selected the obstacles for
+the scene assign two proposed methods of
+
+414
+00:08:03,270 --> 00:08:03,280
+the scene assign two proposed methods of
+ 
+
+415
+00:08:03,280 --> 00:08:05,830
+the scene assign two proposed methods of
+overcoming each objective to earn chase
+
+416
+00:08:05,830 --> 00:08:05,840
+overcoming each objective to earn chase
+ 
+
+417
+00:08:05,840 --> 00:08:09,270
+overcoming each objective to earn chase
+points and again try to use a variety of
+
+418
+00:08:09,270 --> 00:08:09,280
+points and again try to use a variety of
+ 
+
+419
+00:08:09,280 --> 00:08:11,430
+points and again try to use a variety of
+options if you've already selected
+
+420
+00:08:11,430 --> 00:08:11,440
+options if you've already selected
+ 
+
+421
+00:08:11,440 --> 00:08:13,589
+options if you've already selected
+stealth as one of the options then
+
+422
+00:08:13,589 --> 00:08:13,599
+stealth as one of the options then
+ 
+
+423
+00:08:13,599 --> 00:08:15,909
+stealth as one of the options then
+assigning thievery as the other option
+
+424
+00:08:15,909 --> 00:08:15,919
+assigning thievery as the other option
+ 
+
+425
+00:08:15,919 --> 00:08:17,990
+assigning thievery as the other option
+doesn't really help because characters
+
+426
+00:08:17,990 --> 00:08:18,000
+doesn't really help because characters
+ 
+
+427
+00:08:18,000 --> 00:08:20,230
+doesn't really help because characters
+who are good at thievery are very likely
+
+428
+00:08:20,230 --> 00:08:20,240
+who are good at thievery are very likely
+ 
+
+429
+00:08:20,240 --> 00:08:21,909
+who are good at thievery are very likely
+the same characters who are good at
+
+430
+00:08:21,909 --> 00:08:21,919
+the same characters who are good at
+ 
+
+431
+00:08:21,919 --> 00:08:24,309
+the same characters who are good at
+stealth on the other hand offering
+
+432
+00:08:24,309 --> 00:08:24,319
+stealth on the other hand offering
+ 
+
+433
+00:08:24,319 --> 00:08:26,550
+stealth on the other hand offering
+athletics as an alternative gives a
+
+434
+00:08:26,550 --> 00:08:26,560
+athletics as an alternative gives a
+ 
+
+435
+00:08:26,560 --> 00:08:28,469
+athletics as an alternative gives a
+fighter who's terrible at stealth a way
+
+436
+00:08:28,469 --> 00:08:28,479
+fighter who's terrible at stealth a way
+ 
+
+437
+00:08:28,479 --> 00:08:29,990
+fighter who's terrible at stealth a way
+to help out
+
+438
+00:08:29,990 --> 00:08:30,000
+to help out
+ 
+
+439
+00:08:30,000 --> 00:08:32,389
+to help out
+also don't assume that every obstacle is
+
+440
+00:08:32,389 --> 00:08:32,399
+also don't assume that every obstacle is
+ 
+
+441
+00:08:32,399 --> 00:08:35,029
+also don't assume that every obstacle is
+a physical threat especially in an urban
+
+442
+00:08:35,029 --> 00:08:35,039
+a physical threat especially in an urban
+ 
+
+443
+00:08:35,039 --> 00:08:37,350
+a physical threat especially in an urban
+environment you might need diplomacy or
+
+444
+00:08:37,350 --> 00:08:37,360
+environment you might need diplomacy or
+ 
+
+445
+00:08:37,360 --> 00:08:39,430
+environment you might need diplomacy or
+intimidation to convince a crowd to move
+
+446
+00:08:39,430 --> 00:08:39,440
+intimidation to convince a crowd to move
+ 
+
+447
+00:08:39,440 --> 00:08:41,750
+intimidation to convince a crowd to move
+out of the way or nature to find the
+
+448
+00:08:41,750 --> 00:08:41,760
+out of the way or nature to find the
+ 
+
+449
+00:08:41,760 --> 00:08:44,149
+out of the way or nature to find the
+easiest path through a mess of brambles
+
+450
+00:08:44,149 --> 00:08:44,159
+easiest path through a mess of brambles
+ 
+
+451
+00:08:44,159 --> 00:08:45,990
+easiest path through a mess of brambles
+you can also use saving throws or
+
+452
+00:08:45,990 --> 00:08:46,000
+you can also use saving throws or
+ 
+
+453
+00:08:46,000 --> 00:08:48,470
+you can also use saving throws or
+attacks to overcome obstacles as well
+
+454
+00:08:48,470 --> 00:08:48,480
+attacks to overcome obstacles as well
+ 
+
+455
+00:08:48,480 --> 00:08:50,150
+attacks to overcome obstacles as well
+maybe there's a shortcut through a
+
+456
+00:08:50,150 --> 00:08:50,160
+maybe there's a shortcut through a
+ 
+
+457
+00:08:50,160 --> 00:08:52,470
+maybe there's a shortcut through a
+burning building but you have to pass a
+
+458
+00:08:52,470 --> 00:08:52,480
+burning building but you have to pass a
+ 
+
+459
+00:08:52,480 --> 00:08:55,030
+burning building but you have to pass a
+fortitude save to make it through or
+
+460
+00:08:55,030 --> 00:08:55,040
+fortitude save to make it through or
+ 
+
+461
+00:08:55,040 --> 00:08:57,430
+fortitude save to make it through or
+there is a plank suspended over a stream
+
+462
+00:08:57,430 --> 00:08:57,440
+there is a plank suspended over a stream
+ 
+
+463
+00:08:57,440 --> 00:08:59,590
+there is a plank suspended over a stream
+and a ranged attack roll will allow you
+
+464
+00:08:59,590 --> 00:08:59,600
+and a ranged attack roll will allow you
+ 
+
+465
+00:08:59,600 --> 00:09:01,590
+and a ranged attack roll will allow you
+to throw a dagger to cut the rope and
+
+466
+00:09:01,590 --> 00:09:01,600
+to throw a dagger to cut the rope and
+ 
+
+467
+00:09:01,600 --> 00:09:04,230
+to throw a dagger to cut the rope and
+drop the plank so you can run across
+
+468
+00:09:04,230 --> 00:09:04,240
+drop the plank so you can run across
+ 
+
+469
+00:09:04,240 --> 00:09:06,550
+drop the plank so you can run across
+when you set the dc's for an obstacle
+
+470
+00:09:06,550 --> 00:09:06,560
+when you set the dc's for an obstacle
+ 
+
+471
+00:09:06,560 --> 00:09:09,509
+when you set the dc's for an obstacle
+you'll typically be using simple dc's
+
+472
+00:09:09,509 --> 00:09:09,519
+you'll typically be using simple dc's
+ 
+
+473
+00:09:09,519 --> 00:09:12,070
+you'll typically be using simple dc's
+but can also use a proficiency rank
+
+474
+00:09:12,070 --> 00:09:12,080
+but can also use a proficiency rank
+ 
+
+475
+00:09:12,080 --> 00:09:14,389
+but can also use a proficiency rank
+appropriate for the party's level if you
+
+476
+00:09:14,389 --> 00:09:14,399
+appropriate for the party's level if you
+ 
+
+477
+00:09:14,399 --> 00:09:16,710
+appropriate for the party's level if you
+want the obstacle to be more challenging
+
+478
+00:09:16,710 --> 00:09:16,720
+want the obstacle to be more challenging
+ 
+
+479
+00:09:16,720 --> 00:09:18,870
+want the obstacle to be more challenging
+and is a good guideline for one of the
+
+480
+00:09:18,870 --> 00:09:18,880
+and is a good guideline for one of the
+ 
+
+481
+00:09:18,880 --> 00:09:21,590
+and is a good guideline for one of the
+checks to have an easy or very easy
+
+482
+00:09:21,590 --> 00:09:21,600
+checks to have an easy or very easy
+ 
+
+483
+00:09:21,600 --> 00:09:23,509
+checks to have an easy or very easy
+adjustment to his dc
+
+484
+00:09:23,509 --> 00:09:23,519
+adjustment to his dc
+ 
+
+485
+00:09:23,519 --> 00:09:25,269
+adjustment to his dc
+and again always allow your players to
+
+486
+00:09:25,269 --> 00:09:25,279
+and again always allow your players to
+ 
+
+487
+00:09:25,279 --> 00:09:27,509
+and again always allow your players to
+improvise the two solutions that you
+
+488
+00:09:27,509 --> 00:09:27,519
+improvise the two solutions that you
+ 
+
+489
+00:09:27,519 --> 00:09:30,150
+improvise the two solutions that you
+provide with the obstacle are likely the
+
+490
+00:09:30,150 --> 00:09:30,160
+provide with the obstacle are likely the
+ 
+
+491
+00:09:30,160 --> 00:09:32,870
+provide with the obstacle are likely the
+most obvious solutions but if a player
+
+492
+00:09:32,870 --> 00:09:32,880
+most obvious solutions but if a player
+ 
+
+493
+00:09:32,880 --> 00:09:35,030
+most obvious solutions but if a player
+wants to try something else let them
+
+494
+00:09:35,030 --> 00:09:35,040
+wants to try something else let them
+ 
+
+495
+00:09:35,040 --> 00:09:38,150
+wants to try something else let them
+just set a dc as normal but don't adjust
+
+496
+00:09:38,150 --> 00:09:38,160
+just set a dc as normal but don't adjust
+ 
+
+497
+00:09:38,160 --> 00:09:40,790
+just set a dc as normal but don't adjust
+it to be easy or very easy because if a
+
+498
+00:09:40,790 --> 00:09:40,800
+it to be easy or very easy because if a
+ 
+
+499
+00:09:40,800 --> 00:09:42,310
+it to be easy or very easy because if a
+player is choosing to do something
+
+500
+00:09:42,310 --> 00:09:42,320
+player is choosing to do something
+ 
+
+501
+00:09:42,320 --> 00:09:44,470
+player is choosing to do something
+different then they likely have a higher
+
+502
+00:09:44,470 --> 00:09:44,480
+different then they likely have a higher
+ 
+
+503
+00:09:44,480 --> 00:09:46,630
+different then they likely have a higher
+bonus to that check than the checks that
+
+504
+00:09:46,630 --> 00:09:46,640
+bonus to that check than the checks that
+ 
+
+505
+00:09:46,640 --> 00:09:48,949
+bonus to that check than the checks that
+are offered by the obstacle
+
+506
+00:09:48,949 --> 00:09:48,959
+are offered by the obstacle
+ 
+
+507
+00:09:48,959 --> 00:09:51,110
+are offered by the obstacle
+chases in 2nd edition assume that the
+
+508
+00:09:51,110 --> 00:09:51,120
+chases in 2nd edition assume that the
+ 
+
+509
+00:09:51,120 --> 00:09:53,269
+chases in 2nd edition assume that the
+party of players sticks together and
+
+510
+00:09:53,269 --> 00:09:53,279
+party of players sticks together and
+ 
+
+511
+00:09:53,279 --> 00:09:55,350
+party of players sticks together and
+those who are strong in the challenge
+
+512
+00:09:55,350 --> 00:09:55,360
+those who are strong in the challenge
+ 
+
+513
+00:09:55,360 --> 00:09:58,150
+those who are strong in the challenge
+help those who are not but there is a
+
+514
+00:09:58,150 --> 00:09:58,160
+help those who are not but there is a
+ 
+
+515
+00:09:58,160 --> 00:10:00,470
+help those who are not but there is a
+variant option provided where it's every
+
+516
+00:10:00,470 --> 00:10:00,480
+variant option provided where it's every
+ 
+
+517
+00:10:00,480 --> 00:10:03,430
+variant option provided where it's every
+player for themselves in a solo chase
+
+518
+00:10:03,430 --> 00:10:03,440
+player for themselves in a solo chase
+ 
+
+519
+00:10:03,440 --> 00:10:05,829
+player for themselves in a solo chase
+the players act individually instead of
+
+520
+00:10:05,829 --> 00:10:05,839
+the players act individually instead of
+ 
+
+521
+00:10:05,839 --> 00:10:08,230
+the players act individually instead of
+as a group meaning that they can split
+
+522
+00:10:08,230 --> 00:10:08,240
+as a group meaning that they can split
+ 
+
+523
+00:10:08,240 --> 00:10:10,310
+as a group meaning that they can split
+up some players may move through the
+
+524
+00:10:10,310 --> 00:10:10,320
+up some players may move through the
+ 
+
+525
+00:10:10,320 --> 00:10:12,870
+up some players may move through the
+obstacles faster than the others or even
+
+526
+00:10:12,870 --> 00:10:12,880
+obstacles faster than the others or even
+ 
+
+527
+00:10:12,880 --> 00:10:15,110
+obstacles faster than the others or even
+split up if the chase is designed with a
+
+528
+00:10:15,110 --> 00:10:15,120
+split up if the chase is designed with a
+ 
+
+529
+00:10:15,120 --> 00:10:18,069
+split up if the chase is designed with a
+branching structure the downside of this
+
+530
+00:10:18,069 --> 00:10:18,079
+branching structure the downside of this
+ 
+
+531
+00:10:18,079 --> 00:10:20,230
+branching structure the downside of this
+is it increases the likelihood of one
+
+532
+00:10:20,230 --> 00:10:20,240
+is it increases the likelihood of one
+ 
+
+533
+00:10:20,240 --> 00:10:22,230
+is it increases the likelihood of one
+player getting stuck on an obstacle that
+
+534
+00:10:22,230 --> 00:10:22,240
+player getting stuck on an obstacle that
+ 
+
+535
+00:10:22,240 --> 00:10:24,470
+player getting stuck on an obstacle that
+they are not well suited for when
+
+536
+00:10:24,470 --> 00:10:24,480
+they are not well suited for when
+ 
+
+537
+00:10:24,480 --> 00:10:26,630
+they are not well suited for when
+running a chase scene using the solo
+
+538
+00:10:26,630 --> 00:10:26,640
+running a chase scene using the solo
+ 
+
+539
+00:10:26,640 --> 00:10:29,190
+running a chase scene using the solo
+rules each character only needs to earn
+
+540
+00:10:29,190 --> 00:10:29,200
+rules each character only needs to earn
+ 
+
+541
+00:10:29,200 --> 00:10:31,910
+rules each character only needs to earn
+one chase point to overcome any obstacle
+
+542
+00:10:31,910 --> 00:10:31,920
+one chase point to overcome any obstacle
+ 
+
+543
+00:10:31,920 --> 00:10:34,550
+one chase point to overcome any obstacle
+and on a critical success they overcome
+
+544
+00:10:34,550 --> 00:10:34,560
+and on a critical success they overcome
+ 
+
+545
+00:10:34,560 --> 00:10:37,110
+and on a critical success they overcome
+their current obstacle and gain a plus 2
+
+546
+00:10:37,110 --> 00:10:37,120
+their current obstacle and gain a plus 2
+ 
+
+547
+00:10:37,120 --> 00:10:39,670
+their current obstacle and gain a plus 2
+circumstance bonus against the next
+
+548
+00:10:39,670 --> 00:10:39,680
+circumstance bonus against the next
+ 
+
+549
+00:10:39,680 --> 00:10:41,110
+circumstance bonus against the next
+obstacle
+
+550
+00:10:41,110 --> 00:10:41,120
+obstacle
+ 
+
+551
+00:10:41,120 --> 00:10:43,110
+obstacle
+when running a chase scene is often
+
+552
+00:10:43,110 --> 00:10:43,120
+when running a chase scene is often
+ 
+
+553
+00:10:43,120 --> 00:10:45,030
+when running a chase scene is often
+easiest to write the details of each
+
+554
+00:10:45,030 --> 00:10:45,040
+easiest to write the details of each
+ 
+
+555
+00:10:45,040 --> 00:10:47,509
+easiest to write the details of each
+obstacle on index cards and use them
+
+556
+00:10:47,509 --> 00:10:47,519
+obstacle on index cards and use them
+ 
+
+557
+00:10:47,519 --> 00:10:49,590
+obstacle on index cards and use them
+with miniatures to track the player's
+
+558
+00:10:49,590 --> 00:10:49,600
+with miniatures to track the player's
+ 
+
+559
+00:10:49,600 --> 00:10:50,870
+with miniatures to track the player's
+progression
+
+560
+00:10:50,870 --> 00:10:50,880
+progression
+ 
+
+561
+00:10:50,880 --> 00:10:52,790
+progression
+each card should display the two
+
+562
+00:10:52,790 --> 00:10:52,800
+each card should display the two
+ 
+
+563
+00:10:52,800 --> 00:10:54,470
+each card should display the two
+suggested means of overcoming the
+
+564
+00:10:54,470 --> 00:10:54,480
+suggested means of overcoming the
+ 
+
+565
+00:10:54,480 --> 00:10:56,630
+suggested means of overcoming the
+obstacle but always remember that
+
+566
+00:10:56,630 --> 00:10:56,640
+obstacle but always remember that
+ 
+
+567
+00:10:56,640 --> 00:10:58,870
+obstacle but always remember that
+players should not be limited to these
+
+568
+00:10:58,870 --> 00:10:58,880
+players should not be limited to these
+ 
+
+569
+00:10:58,880 --> 00:11:01,269
+players should not be limited to these
+two suggestions they may be the most
+
+570
+00:11:01,269 --> 00:11:01,279
+two suggestions they may be the most
+ 
+
+571
+00:11:01,279 --> 00:11:03,350
+two suggestions they may be the most
+obvious solutions but if the player
+
+572
+00:11:03,350 --> 00:11:03,360
+obvious solutions but if the player
+ 
+
+573
+00:11:03,360 --> 00:11:05,590
+obvious solutions but if the player
+wants to try something else let them you
+
+574
+00:11:05,590 --> 00:11:05,600
+wants to try something else let them you
+ 
+
+575
+00:11:05,600 --> 00:11:08,069
+wants to try something else let them you
+might also find yourself in a situation
+
+576
+00:11:08,069 --> 00:11:08,079
+might also find yourself in a situation
+ 
+
+577
+00:11:08,079 --> 00:11:09,750
+might also find yourself in a situation
+where the players get stuck on an
+
+578
+00:11:09,750 --> 00:11:09,760
+where the players get stuck on an
+ 
+
+579
+00:11:09,760 --> 00:11:12,389
+where the players get stuck on an
+obstacle when this happens a good
+
+580
+00:11:12,389 --> 00:11:12,399
+obstacle when this happens a good
+ 
+
+581
+00:11:12,399 --> 00:11:14,790
+obstacle when this happens a good
+suggestion is to let them progress after
+
+582
+00:11:14,790 --> 00:11:14,800
+suggestion is to let them progress after
+ 
+
+583
+00:11:14,800 --> 00:11:17,030
+suggestion is to let them progress after
+their third failed attempt the
+
+584
+00:11:17,030 --> 00:11:17,040
+their third failed attempt the
+ 
+
+585
+00:11:17,040 --> 00:11:19,110
+their third failed attempt the
+explanation could be that they find some
+
+586
+00:11:19,110 --> 00:11:19,120
+explanation could be that they find some
+ 
+
+587
+00:11:19,120 --> 00:11:21,509
+explanation could be that they find some
+other way around the obstacle or an
+
+588
+00:11:21,509 --> 00:11:21,519
+other way around the obstacle or an
+ 
+
+589
+00:11:21,519 --> 00:11:23,750
+other way around the obstacle or an
+external force like a helpful npc
+
+590
+00:11:23,750 --> 00:11:23,760
+external force like a helpful npc
+ 
+
+591
+00:11:23,760 --> 00:11:26,069
+external force like a helpful npc
+arrives to render them assistance
+
+592
+00:11:26,069 --> 00:11:26,079
+arrives to render them assistance
+ 
+
+593
+00:11:26,079 --> 00:11:28,389
+arrives to render them assistance
+usually it's best for the final obstacle
+
+594
+00:11:28,389 --> 00:11:28,399
+usually it's best for the final obstacle
+ 
+
+595
+00:11:28,399 --> 00:11:29,829
+usually it's best for the final obstacle
+of a chase scene to be something
+
+596
+00:11:29,829 --> 00:11:29,839
+of a chase scene to be something
+ 
+
+597
+00:11:29,839 --> 00:11:32,550
+of a chase scene to be something
+terminal a finish line of sorts if the
+
+598
+00:11:32,550 --> 00:11:32,560
+terminal a finish line of sorts if the
+ 
+
+599
+00:11:32,560 --> 00:11:34,949
+terminal a finish line of sorts if the
+players are chasing a bandit maybe the
+
+600
+00:11:34,949 --> 00:11:34,959
+players are chasing a bandit maybe the
+ 
+
+601
+00:11:34,959 --> 00:11:37,030
+players are chasing a bandit maybe the
+final obstacle of the scene leads to a
+
+602
+00:11:37,030 --> 00:11:37,040
+final obstacle of the scene leads to a
+ 
+
+603
+00:11:37,040 --> 00:11:39,990
+final obstacle of the scene leads to a
+hideout if the pcs ever occupy the same
+
+604
+00:11:39,990 --> 00:11:40,000
+hideout if the pcs ever occupy the same
+ 
+
+605
+00:11:40,000 --> 00:11:42,389
+hideout if the pcs ever occupy the same
+obstacle as the bandit then they catch
+
+606
+00:11:42,389 --> 00:11:42,399
+obstacle as the bandit then they catch
+ 
+
+607
+00:11:42,399 --> 00:11:44,389
+obstacle as the bandit then they catch
+him and the scene transitions into a
+
+608
+00:11:44,389 --> 00:11:44,399
+him and the scene transitions into a
+ 
+
+609
+00:11:44,399 --> 00:11:46,790
+him and the scene transitions into a
+combat encounter if the bandit overcomes
+
+610
+00:11:46,790 --> 00:11:46,800
+combat encounter if the bandit overcomes
+ 
+
+611
+00:11:46,800 --> 00:11:48,389
+combat encounter if the bandit overcomes
+the final obstacle before the players
+
+612
+00:11:48,389 --> 00:11:48,399
+the final obstacle before the players
+ 
+
+613
+00:11:48,399 --> 00:11:49,990
+the final obstacle before the players
+catch him then he rushes into the
+
+614
+00:11:49,990 --> 00:11:50,000
+catch him then he rushes into the
+ 
+
+615
+00:11:50,000 --> 00:11:52,230
+catch him then he rushes into the
+hideout and the scene changes into a
+
+616
+00:11:52,230 --> 00:11:52,240
+hideout and the scene changes into a
+ 
+
+617
+00:11:52,240 --> 00:11:54,470
+hideout and the scene changes into a
+dungeon crawl as the players investigate
+
+618
+00:11:54,470 --> 00:11:54,480
+dungeon crawl as the players investigate
+ 
+
+619
+00:11:54,480 --> 00:11:57,269
+dungeon crawl as the players investigate
+the hideout and typically if the person
+
+620
+00:11:57,269 --> 00:11:57,279
+the hideout and typically if the person
+ 
+
+621
+00:11:57,279 --> 00:12:00,310
+the hideout and typically if the person
+or party that is being pursued ever gets
+
+622
+00:12:00,310 --> 00:12:00,320
+or party that is being pursued ever gets
+ 
+
+623
+00:12:00,320 --> 00:12:02,949
+or party that is being pursued ever gets
+three obstacles ahead of their pursuers
+
+624
+00:12:02,949 --> 00:12:02,959
+three obstacles ahead of their pursuers
+ 
+
+625
+00:12:02,959 --> 00:12:05,110
+three obstacles ahead of their pursuers
+then the pursuers lose track of them and
+
+626
+00:12:05,110 --> 00:12:05,120
+then the pursuers lose track of them and
+ 
+
+627
+00:12:05,120 --> 00:12:07,509
+then the pursuers lose track of them and
+they get away
+
+628
+00:12:07,509 --> 00:12:07,519
+they get away
+ 
+
+629
+00:12:07,519 --> 00:12:09,750
+they get away
+so there you have it as always i'd like
+
+630
+00:12:09,750 --> 00:12:09,760
+so there you have it as always i'd like
+ 
+
+631
+00:12:09,760 --> 00:12:11,509
+so there you have it as always i'd like
+to take a quick moment to thank everyone
+
+632
+00:12:11,509 --> 00:12:11,519
+to take a quick moment to thank everyone
+ 
+
+633
+00:12:11,519 --> 00:12:13,509
+to take a quick moment to thank everyone
+who supports this channel by liking the
+
+634
+00:12:13,509 --> 00:12:13,519
+who supports this channel by liking the
+ 
+
+635
+00:12:13,519 --> 00:12:14,949
+who supports this channel by liking the
+video subscribing to the channel
+
+636
+00:12:14,949 --> 00:12:14,959
+video subscribing to the channel
+ 
+
+637
+00:12:14,959 --> 00:12:16,790
+video subscribing to the channel
+subscribing to the patreon leaving
+
+638
+00:12:16,790 --> 00:12:16,800
+subscribing to the patreon leaving
+ 
+
+639
+00:12:16,800 --> 00:12:18,550
+subscribing to the patreon leaving
+comments sharing the videos with your
+
+640
+00:12:18,550 --> 00:12:18,560
+comments sharing the videos with your
+ 
+
+641
+00:12:18,560 --> 00:12:20,470
+comments sharing the videos with your
+friends everything the community does to
+
+642
+00:12:20,470 --> 00:12:20,480
+friends everything the community does to
+ 
+
+643
+00:12:20,480 --> 00:12:22,870
+friends everything the community does to
+support me is greatly appreciated and
+
+644
+00:12:22,870 --> 00:12:22,880
+support me is greatly appreciated and
+ 
+
+645
+00:12:22,880 --> 00:12:24,870
+support me is greatly appreciated and
+with that thanks for watching take care
+
+646
+00:12:24,870 --> 00:12:24,880
+with that thanks for watching take care
+ 
+
+647
+00:12:24,880 --> 00:12:28,440
+with that thanks for watching take care
+and happy gaming
+

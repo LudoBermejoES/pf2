@@ -1,0 +1,61 @@
+Hello and welcome to Mythic Heroes and Pathfinder Second Edition Remastered. If you've ever wanted your character story to feel like the stuff of ancient legends, tales of heroes who defy physics, challenge the gods, and shape the narrative of the world around them, then this system may be for you. We're going to break down what mythic characters are, how they work, and how you can use them to tell truly epic stories.
+
+So, what exactly is a mythic character?
+
+In a standard Pathfinder game, your character is already a hero capable of fighting monsters and saving kingdoms.
+
+But mythic adventures are inspired by stories that go even further. Think of the legends of heroes who wrestle with gods or alter the very landscape with their power. Mythic characters possess fantastical powers that are often unbound by normal limits. The most important distinction is that mythic characters have a much more profound ability to directly affect the narrative of the game world. They are figures of a legend and the rules give you the tools to make that a mechanical reality.
+
+So, how does a character become mythic?
+
+This isn't something that you just choose at first level. In fact, you don't get to choose becoming mythic at all. Instead, it's a decision the GM makes for all the players in the campaign. And it happens in the story when your character experiences what is known as their calling. This pivotal moment can happen in many ways. Maybe your character is directly infused with power by a deity. Maybe they survive exposure to a mythic artifact. Or maybe they're caught in a worldshaking event like the gods reign where the power of a dead god spills across the land and imbuss people with a divine spark.
+
+However it happens, this calling is the event that awakens your latent potential and sets you on the path to legend. And we'll talk more about callings in just a moment. But first, there are a couple mechanical rules we should discuss.
+
+First, the fuel for your new abilities is called mythic points. You spend them to power your mythic feats, cast mythic spells, or activate mythic items. And this is important for a mythic character. Mythic points replace your hero points. You don't gain or use hero points at all. You start every game session with three mythic points, and you can never have more than three at a time. And then during a session, you can regain mythic points by performing legendary tasks. Slaying a mythic opponent will restore two points to the person who dealt the final blow and one point to all the other mythic characters in the party. Completing a mythic deed, which could be a major narrative challenge as defined by the GM, restores all of your points. And finally, acting in accordance with your specific mythic calling can regain you one point. And other legendary accomplishments or sacrifices may also grant mythic points as determined by the GM.
+
+Another new mechanic that shapes mythic characters is mythic proficiency. This is a new proficiency rank that is one step above legendary. When an ability allows you to use it, your proficiency bonus is 10 plus your level. To put that in perspective, legendary proficiency is only eight plus your level. But you don't just gain this new level of mythic proficiency in a skill the way you may be used to increasing proficiency levels. Instead, you use mythic proficiency only when a specific mythic ability tells you to, and it almost always costs you a mythic point to do so. For example, let's look at hands that onw weave disaster. Say you are a thirdle rogue and have expert proficiency in the thievery skill for a thievery bonus of plus 10. With this feat, you can spend a mythic point to make a disabled device check with mythic proficiency for a plus 16 bonus, even if the lock you are trying to pick requires master proficiency.
+
+Mythic characters are legends, and legends are notoriously hard to kill.
+
+Therefore, the mythic rules change how dying works. Normally, when your dying condition reaches four, you're dead. But for a mythic character, that's not the end. In the case of mythic characters, when your dying value would reach four or five if you have the die hard feet, you instead stabilize with zero hit points and increase your doomed value by one. You're not dead, but you're one step closer to a final end. A mythic character only dies permanently when their doomed value reaches four. And as normal, a mythic character's doomed value decreases by one each time they get a full night's rest. So, this gives you an incredible amount of resilience, letting you survive what would kill any normal hero.
+
+And since this can be a little confusing, let's break it down. When a mythic character is reduced to zero hit points, they fall unconscious as normal and begin making recovery checks. Once they fail enough recovery checks to die, which is normally at dying four, they instead stabilize, have zero hit points, increase their doomed value by one, and increase their wounded value by one.
+
+Now, let's say they get healed in the middle of the same fight and are back on their feet. A few rounds later, they again get reduced to zero hit points.
+
+They fall unconscious and unless it was a critical hit that brought them down, they have the dying two condition. Dying two because they are wounded one, which increases the dying value as normal.
+
+Also, since they are doomed one, the threshold for death is now dying three instead of dying four. If they fail a recovery check, they move to dying three, which would normally kill them.
+
+But because they are mythic, they instead stabilize again with zero hit points and increase both their wounded and doomed values by one, giving them wounded two and doomed two. If they are revived in the same fight and get reduced to zero hit points yet again, they start at dying three because of their wounded two condition. And the threshold for death is now dying too because of the doomed two condition.
+
+Meaning they immediately stabilize and increase their wounded and doomed values to three. And if they take any more damage while down or are revived and reduced to zero hit points again, they finally die because their doomed value would be increased to four. As mentioned before, mythic characters no longer have hero points and therefore no longer have access to that mechanic to stabilize them. In its place is the level six mythic feat called divert destiny. This allows you to spend a mythic point when you would either be reduced to zero hit points or killed and remain conscious in standing with hit points equal to 10 plus your level. In addition, you completely lose the wounded in dying condition and you do not increase your doomed condition, potentially making you extremely hard to kill.
+
+There are a lot of amazing abilities that are granted by becoming mythic. But before we get into those details, let's cover mythic character progression. The system is similar to the free archetype rules if you're familiar with those.
+
+Whenever your character is blessed with mythic power within the narrative, which could be at first level or anytime later, at that moment, you choose your mythic calling. Mechanically, this is a first level choice that may be gained retroactively.
+
+Then, at every even level, from second level to 10th level, you gain an extra feat slot that can only be used for mythic feats. Then at 12th level, you choose your mythic destiny, which is like a highlevel mythic archetype. You must take this dedication feat in your 12th level mythic slot in place of the usual even level mythic feat. And finally, at levels 14, 16, 18, and 20, you can use your bonus mythic feat slots to take feats either from your mythic destiny or from your mythic calling.
+
+Regardless of when you become blessed with mythic power, at that moment you get to play catch-up and retroactively choose your calling, feats, and destiny.
+
+For example, if your character becomes blessed with mythic power at 13th level, you will immediately get to choose their calling, mythic feats at 2, 4th, 6th, 8th, and 10th level, and a mythic destiny at 12th level.
+
+Your mythic calling is the first and most important choice you'll make. This defines the purpose of your mythic power and why your character was selected for this blessing. For example, when I charged a group of heroes to close the world wound, each of their players chose their calling. A cleric in that group may have chosen the caretaker's calling to heal those in need, while a fighter may have chosen the guardian's calling.
+
+Each calling gives you a unique way to spend a mythic point. For example, the guardian's calling lets you spend a point to attempt an athletics check to shove, reposition, or disarm using your mythic proficiency. And the sage's calling let you spend a mythic point to recall knowledge with mythic proficiency.
+
+Your calling also dictates how you regain mythic points. Each calling has edicts and anathema, similar to worshiping a deity. Following your edicts can restore one mythic point, but if you violate your anathema, you immediately lose all your mythic points.
+
+Although this is temporary and at the start of your next session, you will start with three mythic points again.
+
+So, this really helps tie your power to your character story.
+
+In addition to the unique ability provided by your calling, all mythic characters get a powerful ability called rewrite fate. This essentially replaces the main benefit of hero points, but with a mythic twist. When you roll a skill check or a saving throw that you don't like the result of, you can spend one mythic point to roll it. And when you do, you use your mythic proficiency on the new roll. Now note that since mythic points replace hero points and rewrite fate specifically applies only to skill checks and saving throws, mythic characters may no longer re-roll attacks the way non- mythic characters can by spending hero points. Of course, your GM may house rule this, but it's important to understand that the official rule is mythic points may not be spent to re-roll attacks. Another expression of a mythic character's power is mythic feats. You can take feats like become shadow that lets you become concealed and hide or sneak with mythic proficiency. Or for combat, you could take mythic strike to make an attack roll with mythic proficiency or mythic casting to boost the power [music] of your spells.
+
+Now, at 12th level, your mythic journey takes a big step. Then, you will choose a mythic destiny. These are special highlevel archetypes that represent the ultimate expression of your mythic power and your character's final legendary path. You must take the destiny's dedication feat in your 12th level mythic slot and you may choose mythic feats from this destiny at 14th, 16th, 18th, and 20th level. Each destiny offers a unique flavor and powerful abilities that culminate in a 20th level capstone, often granting your character a form of true immortality, cementing their place as a legend. These destinies range from apocalypse riders who become harbingers of the end times to ascended celestials whose heroic deeds have earned them a place among the angelic hosts of the upper plains. And each destiny includes that special 20th level capstone. For example, at 20th level, the eternal legend destiny grants you immortality as long as stories of your deeds continue to be shared. And at 20th level, the godling destiny grants you literal godhood and the ability to grant divine powers to your followers.
+
+And that's the overview of mythic characters. It's a powerful and exciting new way to play, allowing you to become a true legend, defy death, and change the very fabric of the story. So, what do you think of these rules? What kind of mythic character would you like to build? Let me know in the comments down below. And as always, I want to take a moment to thank everyone who supports this channel. Whether that be by leaving a comment, liking the video, subscribing to the channel, or subscribing to the Patreon. I greatly appreciate everything you do to support me. And with that, thanks for watching. Take care and happy gaming.
+
+>> [music]

@@ -1,0 +1,6105 @@
+1
+00:00:01,199 --> 00:00:03,990
+
+hello and welcome to how monks played in
+
+2
+00:00:03,990 --> 00:00:04,000
+hello and welcome to how monks played in
+ 
+
+3
+00:00:04,000 --> 00:00:05,910
+hello and welcome to how monks played in
+this video we'll look at the rules and
+
+4
+00:00:05,910 --> 00:00:05,920
+this video we'll look at the rules and
+ 
+
+5
+00:00:05,920 --> 00:00:08,030
+this video we'll look at the rules and
+mechanics that are pivotal to playing a
+
+6
+00:00:08,030 --> 00:00:08,040
+mechanics that are pivotal to playing a
+ 
+
+7
+00:00:08,040 --> 00:00:09,750
+mechanics that are pivotal to playing a
+monk in Pathfinder second edition
+
+8
+00:00:09,750 --> 00:00:09,760
+monk in Pathfinder second edition
+ 
+
+9
+00:00:09,760 --> 00:00:12,150
+monk in Pathfinder second edition
+remastered and just as a bit of
+
+10
+00:00:12,150 --> 00:00:12,160
+remastered and just as a bit of
+ 
+
+11
+00:00:12,160 --> 00:00:14,150
+remastered and just as a bit of
+expectation setting here at the start I
+
+12
+00:00:14,150 --> 00:00:14,160
+expectation setting here at the start I
+ 
+
+13
+00:00:14,160 --> 00:00:17,029
+expectation setting here at the start I
+should mention what this video is not
+
+14
+00:00:17,029 --> 00:00:17,039
+should mention what this video is not
+ 
+
+15
+00:00:17,039 --> 00:00:19,269
+should mention what this video is not
+this video does not contain build advice
+
+16
+00:00:19,269 --> 00:00:19,279
+this video does not contain build advice
+ 
+
+17
+00:00:19,279 --> 00:00:21,630
+this video does not contain build advice
+or an overview of all of the abilities
+
+18
+00:00:21,630 --> 00:00:21,640
+or an overview of all of the abilities
+ 
+
+19
+00:00:21,640 --> 00:00:23,589
+or an overview of all of the abilities
+that are gained when leveling up as
+
+20
+00:00:23,589 --> 00:00:23,599
+that are gained when leveling up as
+ 
+
+21
+00:00:23,599 --> 00:00:25,230
+that are gained when leveling up as
+several of them like proficiency
+
+22
+00:00:25,230 --> 00:00:25,240
+several of them like proficiency
+ 
+
+23
+00:00:25,240 --> 00:00:28,070
+several of them like proficiency
+increases are not unique to monks the
+
+24
+00:00:28,070 --> 00:00:28,080
+increases are not unique to monks the
+ 
+
+25
+00:00:28,080 --> 00:00:30,029
+increases are not unique to monks the
+Feats and abilities discussed will focus
+
+26
+00:00:30,029 --> 00:00:30,039
+Feats and abilities discussed will focus
+ 
+
+27
+00:00:30,039 --> 00:00:32,310
+Feats and abilities discussed will focus
+on the lower levels since this video is
+
+28
+00:00:32,310 --> 00:00:32,320
+on the lower levels since this video is
+ 
+
+29
+00:00:32,320 --> 00:00:34,869
+on the lower levels since this video is
+intended for newer players and note that
+
+30
+00:00:34,869 --> 00:00:34,879
+intended for newer players and note that
+ 
+
+31
+00:00:34,879 --> 00:00:36,869
+intended for newer players and note that
+this video is not a review of the
+
+32
+00:00:36,869 --> 00:00:36,879
+this video is not a review of the
+ 
+
+33
+00:00:36,879 --> 00:00:39,790
+this video is not a review of the
+perceived quality Effectiveness or value
+
+34
+00:00:39,790 --> 00:00:39,800
+perceived quality Effectiveness or value
+ 
+
+35
+00:00:39,800 --> 00:00:42,310
+perceived quality Effectiveness or value
+of the class but what this video will
+
+36
+00:00:42,310 --> 00:00:42,320
+of the class but what this video will
+ 
+
+37
+00:00:42,320 --> 00:00:44,069
+of the class but what this video will
+provide you with are all of the
+
+38
+00:00:44,069 --> 00:00:44,079
+provide you with are all of the
+ 
+
+39
+00:00:44,079 --> 00:00:46,189
+provide you with are all of the
+foundational mechanics that make playing
+
+40
+00:00:46,189 --> 00:00:46,199
+foundational mechanics that make playing
+ 
+
+41
+00:00:46,199 --> 00:00:49,310
+foundational mechanics that make playing
+a monk different from playing any other
+
+42
+00:00:49,310 --> 00:00:49,320
+a monk different from playing any other
+ 
+
+43
+00:00:49,320 --> 00:00:51,750
+a monk different from playing any other
+class let's start by looking at a few of
+
+44
+00:00:51,750 --> 00:00:51,760
+class let's start by looking at a few of
+ 
+
+45
+00:00:51,760 --> 00:00:53,110
+class let's start by looking at a few of
+the abilities and mechanics that are
+
+46
+00:00:53,110 --> 00:00:53,120
+the abilities and mechanics that are
+ 
+
+47
+00:00:53,120 --> 00:00:56,270
+the abilities and mechanics that are
+shared among all monks first up is
+
+48
+00:00:56,270 --> 00:00:56,280
+shared among all monks first up is
+ 
+
+49
+00:00:56,280 --> 00:00:58,950
+shared among all monks first up is
+unarmed attacks as martial artist a
+
+50
+00:00:58,950 --> 00:00:58,960
+unarmed attacks as martial artist a
+ 
+
+51
+00:00:58,960 --> 00:01:01,150
+unarmed attacks as martial artist a
+monk's unarmed attack are more deadly
+
+52
+00:01:01,150 --> 00:01:01,160
+monk's unarmed attack are more deadly
+ 
+
+53
+00:01:01,160 --> 00:01:03,430
+monk's unarmed attack are more deadly
+than normal unarmed attacks are made
+
+54
+00:01:03,430 --> 00:01:03,440
+than normal unarmed attacks are made
+ 
+
+55
+00:01:03,440 --> 00:01:05,469
+than normal unarmed attacks are made
+with a part of the body instead of a
+
+56
+00:01:05,469 --> 00:01:05,479
+with a part of the body instead of a
+ 
+
+57
+00:01:05,479 --> 00:01:07,950
+with a part of the body instead of a
+manufactured weapon this could be your
+
+58
+00:01:07,950 --> 00:01:07,960
+manufactured weapon this could be your
+ 
+
+59
+00:01:07,960 --> 00:01:11,149
+manufactured weapon this could be your
+fist heel knee elbow or forehead and
+
+60
+00:01:11,149 --> 00:01:11,159
+fist heel knee elbow or forehead and
+ 
+
+61
+00:01:11,159 --> 00:01:14,830
+fist heel knee elbow or forehead and
+they all count as unarmed strikes in
+
+62
+00:01:14,830 --> 00:01:14,840
+they all count as unarmed strikes in
+ 
+
+63
+00:01:14,840 --> 00:01:16,670
+they all count as unarmed strikes in
+addition unarmed strikes could include
+
+64
+00:01:16,670 --> 00:01:16,680
+addition unarmed strikes could include
+ 
+
+65
+00:01:16,680 --> 00:01:19,350
+addition unarmed strikes could include
+things like claws biting or swiping with
+
+66
+00:01:19,350 --> 00:01:19,360
+things like claws biting or swiping with
+ 
+
+67
+00:01:19,360 --> 00:01:22,510
+things like claws biting or swiping with
+a tail some ancestries even offer ranged
+
+68
+00:01:22,510 --> 00:01:22,520
+a tail some ancestries even offer ranged
+ 
+
+69
+00:01:22,520 --> 00:01:25,109
+a tail some ancestries even offer ranged
+unarmed attacks such as the Les's
+
+70
+00:01:25,109 --> 00:01:25,119
+unarmed attacks such as the Les's
+ 
+
+71
+00:01:25,119 --> 00:01:28,550
+unarmed attacks such as the Les's
+ability to launch seed pods in general
+
+72
+00:01:28,550 --> 00:01:28,560
+ability to launch seed pods in general
+ 
+
+73
+00:01:28,560 --> 00:01:31,109
+ability to launch seed pods in general
+all unarmed attacks are treated as using
+
+74
+00:01:31,109 --> 00:01:31,119
+all unarmed attacks are treated as using
+ 
+
+75
+00:01:31,119 --> 00:01:34,230
+all unarmed attacks are treated as using
+a fist per the table on page 277 of
+
+76
+00:01:34,230 --> 00:01:34,240
+a fist per the table on page 277 of
+ 
+
+77
+00:01:34,240 --> 00:01:36,870
+a fist per the table on page 277 of
+player Core 1 even if within the
+
+78
+00:01:36,870 --> 00:01:36,880
+player Core 1 even if within the
+ 
+
+79
+00:01:36,880 --> 00:01:39,230
+player Core 1 even if within the
+narrative you describe the attack as a
+
+80
+00:01:39,230 --> 00:01:39,240
+narrative you describe the attack as a
+ 
+
+81
+00:01:39,240 --> 00:01:42,310
+narrative you describe the attack as a
+kick or headbutt they deal one4 bling
+
+82
+00:01:42,310 --> 00:01:42,320
+kick or headbutt they deal one4 bling
+ 
+
+83
+00:01:42,320 --> 00:01:44,910
+kick or headbutt they deal one4 bling
+damage belong to the brawling group and
+
+84
+00:01:44,910 --> 00:01:44,920
+damage belong to the brawling group and
+ 
+
+85
+00:01:44,920 --> 00:01:47,469
+damage belong to the brawling group and
+have the agile finesse non-lethal and
+
+86
+00:01:47,469 --> 00:01:47,479
+have the agile finesse non-lethal and
+ 
+
+87
+00:01:47,479 --> 00:01:50,069
+have the agile finesse non-lethal and
+unarmed traits of note here is the
+
+88
+00:01:50,069 --> 00:01:50,079
+unarmed traits of note here is the
+ 
+
+89
+00:01:50,079 --> 00:01:53,149
+unarmed traits of note here is the
+non-lethal trait by default unarmed
+
+90
+00:01:53,149 --> 00:01:53,159
+non-lethal trait by default unarmed
+ 
+
+91
+00:01:53,159 --> 00:01:55,550
+non-lethal trait by default unarmed
+attacks cannot kill a Target unless the
+
+92
+00:01:55,550 --> 00:01:55,560
+attacks cannot kill a Target unless the
+ 
+
+93
+00:01:55,560 --> 00:01:57,270
+attacks cannot kill a Target unless the
+attacker wishes to make their attacks
+
+94
+00:01:57,270 --> 00:01:57,280
+attacker wishes to make their attacks
+ 
+
+95
+00:01:57,280 --> 00:02:00,190
+attacker wishes to make their attacks
+lethal which imposes a negative to
+
+96
+00:02:00,190 --> 00:02:00,200
+lethal which imposes a negative to
+ 
+
+97
+00:02:00,200 --> 00:02:02,950
+lethal which imposes a negative to
+circumstance penalty to attack rolls
+
+98
+00:02:02,950 --> 00:02:02,960
+circumstance penalty to attack rolls
+ 
+
+99
+00:02:02,960 --> 00:02:05,190
+circumstance penalty to attack rolls
+special unarmed attacks such as those
+
+100
+00:02:05,190 --> 00:02:05,200
+special unarmed attacks such as those
+ 
+
+101
+00:02:05,200 --> 00:02:08,029
+special unarmed attacks such as those
+provided by certain ancestries modify
+
+102
+00:02:08,029 --> 00:02:08,039
+provided by certain ancestries modify
+ 
+
+103
+00:02:08,039 --> 00:02:11,029
+provided by certain ancestries modify
+these rules as listed in each entry for
+
+104
+00:02:11,029 --> 00:02:11,039
+these rules as listed in each entry for
+ 
+
+105
+00:02:11,039 --> 00:02:14,190
+these rules as listed in each entry for
+example razor tooth goblins gain a bite
+
+106
+00:02:14,190 --> 00:02:14,200
+example razor tooth goblins gain a bite
+ 
+
+107
+00:02:14,200 --> 00:02:16,390
+example razor tooth goblins gain a bite
+attack the attack bonus for this is
+
+108
+00:02:16,390 --> 00:02:16,400
+attack the attack bonus for this is
+ 
+
+109
+00:02:16,400 --> 00:02:18,710
+attack the attack bonus for this is
+calculated the same as any other unarmed
+
+110
+00:02:18,710 --> 00:02:18,720
+calculated the same as any other unarmed
+ 
+
+111
+00:02:18,720 --> 00:02:22,110
+calculated the same as any other unarmed
+attack but it deals 1d6 piercing damage
+
+112
+00:02:22,110 --> 00:02:22,120
+attack but it deals 1d6 piercing damage
+ 
+
+113
+00:02:22,120 --> 00:02:24,830
+attack but it deals 1d6 piercing damage
+and only has the Finesse in unarmed
+
+114
+00:02:24,830 --> 00:02:24,840
+and only has the Finesse in unarmed
+ 
+
+115
+00:02:24,840 --> 00:02:27,350
+and only has the Finesse in unarmed
+traits meaning this bite attack lacks
+
+116
+00:02:27,350 --> 00:02:27,360
+traits meaning this bite attack lacks
+ 
+
+117
+00:02:27,360 --> 00:02:29,910
+traits meaning this bite attack lacks
+the agile and non-lethal traits that
+
+118
+00:02:29,910 --> 00:02:29,920
+the agile and non-lethal traits that
+ 
+
+119
+00:02:29,920 --> 00:02:32,910
+the agile and non-lethal traits that
+normal unarmed attacks have and it's
+
+120
+00:02:32,910 --> 00:02:32,920
+normal unarmed attacks have and it's
+ 
+
+121
+00:02:32,920 --> 00:02:34,869
+normal unarmed attacks have and it's
+important to note that since this bite
+
+122
+00:02:34,869 --> 00:02:34,879
+important to note that since this bite
+ 
+
+123
+00:02:34,879 --> 00:02:37,550
+important to note that since this bite
+is still an unarmed attack any bonuses
+
+124
+00:02:37,550 --> 00:02:37,560
+is still an unarmed attack any bonuses
+ 
+
+125
+00:02:37,560 --> 00:02:39,309
+is still an unarmed attack any bonuses
+or penalties that apply to unarmed
+
+126
+00:02:39,309 --> 00:02:39,319
+or penalties that apply to unarmed
+ 
+
+127
+00:02:39,319 --> 00:02:42,149
+or penalties that apply to unarmed
+attacks apply to biting the same as they
+
+128
+00:02:42,149 --> 00:02:42,159
+attacks apply to biting the same as they
+ 
+
+129
+00:02:42,159 --> 00:02:45,149
+attacks apply to biting the same as they
+would to punching so those are the
+
+130
+00:02:45,149 --> 00:02:45,159
+would to punching so those are the
+ 
+
+131
+00:02:45,159 --> 00:02:47,509
+would to punching so those are the
+normal rules for unarmed attacks but
+
+132
+00:02:47,509 --> 00:02:47,519
+normal rules for unarmed attacks but
+ 
+
+133
+00:02:47,519 --> 00:02:49,430
+normal rules for unarmed attacks but
+what makes monks special is their
+
+134
+00:02:49,430 --> 00:02:49,440
+what makes monks special is their
+ 
+
+135
+00:02:49,440 --> 00:02:52,229
+what makes monks special is their
+powerful fist ability when monks make
+
+136
+00:02:52,229 --> 00:02:52,239
+powerful fist ability when monks make
+ 
+
+137
+00:02:52,239 --> 00:02:55,070
+powerful fist ability when monks make
+unarmed attacks they do not suffer the
+
+138
+00:02:55,070 --> 00:02:55,080
+unarmed attacks they do not suffer the
+ 
+
+139
+00:02:55,080 --> 00:02:57,990
+unarmed attacks they do not suffer the
+-2 penalty for making lethal attacks and
+
+140
+00:02:57,990 --> 00:02:58,000
+-2 penalty for making lethal attacks and
+ 
+
+141
+00:02:58,000 --> 00:03:00,149
+-2 penalty for making lethal attacks and
+the Damage die for basic unarm armed
+
+142
+00:03:00,149 --> 00:03:00,159
+the Damage die for basic unarm armed
+ 
+
+143
+00:03:00,159 --> 00:03:02,990
+the Damage die for basic unarm armed
+attacks increases from 1 D4 to
+
+144
+00:03:02,990 --> 00:03:03,000
+attacks increases from 1 D4 to
+ 
+
+145
+00:03:03,000 --> 00:03:06,470
+attacks increases from 1 D4 to
+1d6 as a monk levels up their unarmed
+
+146
+00:03:06,470 --> 00:03:06,480
+1d6 as a monk levels up their unarmed
+ 
+
+147
+00:03:06,480 --> 00:03:08,229
+1d6 as a monk levels up their unarmed
+attacks become increasingly more
+
+148
+00:03:08,229 --> 00:03:08,239
+attacks become increasingly more
+ 
+
+149
+00:03:08,239 --> 00:03:11,270
+attacks become increasingly more
+powerful too at third level monks gain
+
+150
+00:03:11,270 --> 00:03:11,280
+powerful too at third level monks gain
+ 
+
+151
+00:03:11,280 --> 00:03:13,550
+powerful too at third level monks gain
+the Mystic strikes ability that allows
+
+152
+00:03:13,550 --> 00:03:13,560
+the Mystic strikes ability that allows
+ 
+
+153
+00:03:13,560 --> 00:03:15,470
+the Mystic strikes ability that allows
+their unarmed attacks to overcome
+
+154
+00:03:15,470 --> 00:03:15,480
+their unarmed attacks to overcome
+ 
+
+155
+00:03:15,480 --> 00:03:18,350
+their unarmed attacks to overcome
+resistances to non-magical attacks at
+
+156
+00:03:18,350 --> 00:03:18,360
+resistances to non-magical attacks at
+ 
+
+157
+00:03:18,360 --> 00:03:20,830
+resistances to non-magical attacks at
+fifth level the expert strength ability
+
+158
+00:03:20,830 --> 00:03:20,840
+fifth level the expert strength ability
+ 
+
+159
+00:03:20,840 --> 00:03:22,710
+fifth level the expert strength ability
+grants critical specialization for
+
+160
+00:03:22,710 --> 00:03:22,720
+grants critical specialization for
+ 
+
+161
+00:03:22,720 --> 00:03:25,350
+grants critical specialization for
+unarmed attacks in the brawling group
+
+162
+00:03:25,350 --> 00:03:25,360
+unarmed attacks in the brawling group
+ 
+
+163
+00:03:25,360 --> 00:03:27,589
+unarmed attacks in the brawling group
+meaning when a monk makes an unarmed
+
+164
+00:03:27,589 --> 00:03:27,599
+meaning when a monk makes an unarmed
+ 
+
+165
+00:03:27,599 --> 00:03:29,990
+meaning when a monk makes an unarmed
+strike and scores a critical hit the
+
+166
+00:03:29,990 --> 00:03:30,000
+strike and scores a critical hit the
+ 
+
+167
+00:03:30,000 --> 00:03:32,390
+strike and scores a critical hit the
+target must succeed at a fortitude save
+
+168
+00:03:32,390 --> 00:03:32,400
+target must succeed at a fortitude save
+ 
+
+169
+00:03:32,400 --> 00:03:35,750
+target must succeed at a fortitude save
+or be slowed one at seventh level monks
+
+170
+00:03:35,750 --> 00:03:35,760
+or be slowed one at seventh level monks
+ 
+
+171
+00:03:35,760 --> 00:03:37,830
+or be slowed one at seventh level monks
+gain a weapon specialization that
+
+172
+00:03:37,830 --> 00:03:37,840
+gain a weapon specialization that
+ 
+
+173
+00:03:37,840 --> 00:03:39,830
+gain a weapon specialization that
+increases the damage of their unarmed
+
+174
+00:03:39,830 --> 00:03:39,840
+increases the damage of their unarmed
+ 
+
+175
+00:03:39,840 --> 00:03:42,149
+increases the damage of their unarmed
+strikes and this bonus is further
+
+176
+00:03:42,149 --> 00:03:42,159
+strikes and this bonus is further
+ 
+
+177
+00:03:42,159 --> 00:03:45,830
+strikes and this bonus is further
+increased at 15th level at Ninth level
+
+178
+00:03:45,830 --> 00:03:45,840
+increased at 15th level at Ninth level
+ 
+
+179
+00:03:45,840 --> 00:03:48,229
+increased at 15th level at Ninth level
+monks gain the metal strikes ability
+
+180
+00:03:48,229 --> 00:03:48,239
+monks gain the metal strikes ability
+ 
+
+181
+00:03:48,239 --> 00:03:50,350
+monks gain the metal strikes ability
+that treats their unarmed attacks as if
+
+182
+00:03:50,350 --> 00:03:50,360
+that treats their unarmed attacks as if
+ 
+
+183
+00:03:50,360 --> 00:03:52,869
+that treats their unarmed attacks as if
+they were made of cold iron or silver
+
+184
+00:03:52,869 --> 00:03:52,879
+they were made of cold iron or silver
+ 
+
+185
+00:03:52,879 --> 00:03:55,190
+they were made of cold iron or silver
+meaning these attacks trigger weaknesses
+
+186
+00:03:55,190 --> 00:03:55,200
+meaning these attacks trigger weaknesses
+ 
+
+187
+00:03:55,200 --> 00:03:57,390
+meaning these attacks trigger weaknesses
+to those Metals in certain creatures
+
+188
+00:03:57,390 --> 00:03:57,400
+to those Metals in certain creatures
+ 
+
+189
+00:03:57,400 --> 00:04:00,550
+to those Metals in certain creatures
+like demons devils and Fay and monks
+
+190
+00:04:00,550 --> 00:04:00,560
+like demons devils and Fay and monks
+ 
+
+191
+00:04:00,560 --> 00:04:02,869
+like demons devils and Fay and monks
+gain adamantine strikes that treats
+
+192
+00:04:02,869 --> 00:04:02,879
+gain adamantine strikes that treats
+ 
+
+193
+00:04:02,879 --> 00:04:04,589
+gain adamantine strikes that treats
+their unarmed attacks as if they were
+
+194
+00:04:04,589 --> 00:04:04,599
+their unarmed attacks as if they were
+ 
+
+195
+00:04:04,599 --> 00:04:07,270
+their unarmed attacks as if they were
+made of adamantine meaning they overcome
+
+196
+00:04:07,270 --> 00:04:07,280
+made of adamantine meaning they overcome
+ 
+
+197
+00:04:07,280 --> 00:04:09,470
+made of adamantine meaning they overcome
+resistances such as the gargoyle's
+
+198
+00:04:09,470 --> 00:04:09,480
+resistances such as the gargoyle's
+ 
+
+199
+00:04:09,480 --> 00:04:11,670
+resistances such as the gargoyle's
+resistance to all physical damage except
+
+200
+00:04:11,670 --> 00:04:11,680
+resistance to all physical damage except
+ 
+
+201
+00:04:11,680 --> 00:04:13,949
+resistance to all physical damage except
+adamantine and it may be worth noting
+
+202
+00:04:13,949 --> 00:04:13,959
+adamantine and it may be worth noting
+ 
+
+203
+00:04:13,959 --> 00:04:16,270
+adamantine and it may be worth noting
+that normal adamantine weapons reduce
+
+204
+00:04:16,270 --> 00:04:16,280
+that normal adamantine weapons reduce
+ 
+
+205
+00:04:16,280 --> 00:04:18,189
+that normal adamantine weapons reduce
+the hardness of objects they strike by
+
+206
+00:04:18,189 --> 00:04:18,199
+the hardness of objects they strike by
+ 
+
+207
+00:04:18,199 --> 00:04:20,629
+the hardness of objects they strike by
+half as long as the object's hardness is
+
+208
+00:04:20,629 --> 00:04:20,639
+half as long as the object's hardness is
+ 
+
+209
+00:04:20,639 --> 00:04:23,510
+half as long as the object's hardness is
+not more than the weapon's hardness but
+
+210
+00:04:23,510 --> 00:04:23,520
+not more than the weapon's hardness but
+ 
+
+211
+00:04:23,520 --> 00:04:26,830
+not more than the weapon's hardness but
+unarmed attacks do not have a hardness
+
+212
+00:04:26,830 --> 00:04:26,840
+unarmed attacks do not have a hardness
+ 
+
+213
+00:04:26,840 --> 00:04:29,469
+unarmed attacks do not have a hardness
+so monks do not receive this bonus from
+
+214
+00:04:29,469 --> 00:04:29,479
+so monks do not receive this bonus from
+ 
+
+215
+00:04:29,479 --> 00:04:31,749
+so monks do not receive this bonus from
+the Adam maintain strikes ability
+
+216
+00:04:31,749 --> 00:04:31,759
+the Adam maintain strikes ability
+ 
+
+217
+00:04:31,759 --> 00:04:33,830
+the Adam maintain strikes ability
+however they can take the shattering
+
+218
+00:04:33,830 --> 00:04:33,840
+however they can take the shattering
+ 
+
+219
+00:04:33,840 --> 00:04:37,430
+however they can take the shattering
+strike feet at 16th level to gain
+
+220
+00:04:37,430 --> 00:04:37,440
+strike feet at 16th level to gain
+ 
+
+221
+00:04:37,440 --> 00:04:40,230
+strike feet at 16th level to gain
+this so that's the general information
+
+222
+00:04:40,230 --> 00:04:40,240
+this so that's the general information
+ 
+
+223
+00:04:40,240 --> 00:04:42,550
+this so that's the general information
+you'll need to know about unarmed
+
+224
+00:04:42,550 --> 00:04:42,560
+you'll need to know about unarmed
+ 
+
+225
+00:04:42,560 --> 00:04:45,110
+you'll need to know about unarmed
+strikes next let's look at the monks
+
+226
+00:04:45,110 --> 00:04:45,120
+strikes next let's look at the monks
+ 
+
+227
+00:04:45,120 --> 00:04:48,830
+strikes next let's look at the monks
+trademark ability Flurry of Blows this
+
+228
+00:04:48,830 --> 00:04:48,840
+trademark ability Flurry of Blows this
+ 
+
+229
+00:04:48,840 --> 00:04:51,830
+trademark ability Flurry of Blows this
+allows monks to make two unarmed strikes
+
+230
+00:04:51,830 --> 00:04:51,840
+allows monks to make two unarmed strikes
+ 
+
+231
+00:04:51,840 --> 00:04:54,590
+allows monks to make two unarmed strikes
+at the cost of only one action the
+
+232
+00:04:54,590 --> 00:04:54,600
+at the cost of only one action the
+ 
+
+233
+00:04:54,600 --> 00:04:56,749
+at the cost of only one action the
+multiple attack penalty applies to these
+
+234
+00:04:56,749 --> 00:04:56,759
+multiple attack penalty applies to these
+ 
+
+235
+00:04:56,759 --> 00:04:59,070
+multiple attack penalty applies to these
+strikes normally meaning there is no
+
+236
+00:04:59,070 --> 00:04:59,080
+strikes normally meaning there is no
+ 
+
+237
+00:04:59,080 --> 00:05:00,990
+strikes normally meaning there is no
+penalty for the first strike assuming
+
+238
+00:05:00,990 --> 00:05:01,000
+penalty for the first strike assuming
+ 
+
+239
+00:05:01,000 --> 00:05:02,749
+penalty for the first strike assuming
+the monk has not already made an attack
+
+240
+00:05:02,749 --> 00:05:02,759
+the monk has not already made an attack
+ 
+
+241
+00:05:02,759 --> 00:05:05,110
+the monk has not already made an attack
+this round but the multiple attack
+
+242
+00:05:05,110 --> 00:05:05,120
+this round but the multiple attack
+ 
+
+243
+00:05:05,120 --> 00:05:08,189
+this round but the multiple attack
+penalty will apply for the second strike
+
+244
+00:05:08,189 --> 00:05:08,199
+penalty will apply for the second strike
+ 
+
+245
+00:05:08,199 --> 00:05:10,909
+penalty will apply for the second strike
+with Flur of blows these strikes can
+
+246
+00:05:10,909 --> 00:05:10,919
+with Flur of blows these strikes can
+ 
+
+247
+00:05:10,919 --> 00:05:13,390
+with Flur of blows these strikes can
+Target any enemies within range so they
+
+248
+00:05:13,390 --> 00:05:13,400
+Target any enemies within range so they
+ 
+
+249
+00:05:13,400 --> 00:05:15,950
+Target any enemies within range so they
+can apply to two different creatures but
+
+250
+00:05:15,950 --> 00:05:15,960
+can apply to two different creatures but
+ 
+
+251
+00:05:15,960 --> 00:05:18,110
+can apply to two different creatures but
+if the monk decides to use both strikes
+
+252
+00:05:18,110 --> 00:05:18,120
+if the monk decides to use both strikes
+ 
+
+253
+00:05:18,120 --> 00:05:21,550
+if the monk decides to use both strikes
+on the same enemy and they both hit you
+
+254
+00:05:21,550 --> 00:05:21,560
+on the same enemy and they both hit you
+ 
+
+255
+00:05:21,560 --> 00:05:24,070
+on the same enemy and they both hit you
+combine the damages of both strikes
+
+256
+00:05:24,070 --> 00:05:24,080
+combine the damages of both strikes
+ 
+
+257
+00:05:24,080 --> 00:05:26,629
+combine the damages of both strikes
+together for the purposes of resistances
+
+258
+00:05:26,629 --> 00:05:26,639
+together for the purposes of resistances
+ 
+
+259
+00:05:26,639 --> 00:05:29,990
+together for the purposes of resistances
+and weaknesses and also note that FL of
+
+260
+00:05:29,990 --> 00:05:30,000
+and weaknesses and also note that FL of
+ 
+
+261
+00:05:30,000 --> 00:05:32,590
+and weaknesses and also note that FL of
+Blu has the flourish trait meaning it
+
+262
+00:05:32,590 --> 00:05:32,600
+Blu has the flourish trait meaning it
+ 
+
+263
+00:05:32,600 --> 00:05:35,469
+Blu has the flourish trait meaning it
+can only be used once per turn let's
+
+264
+00:05:35,469 --> 00:05:35,479
+can only be used once per turn let's
+ 
+
+265
+00:05:35,479 --> 00:05:37,909
+can only be used once per turn let's
+take a look at a few examples and our
+
+266
+00:05:37,909 --> 00:05:37,919
+take a look at a few examples and our
+ 
+
+267
+00:05:37,919 --> 00:05:40,430
+take a look at a few examples and our
+first example San the monk is using
+
+268
+00:05:40,430 --> 00:05:40,440
+first example San the monk is using
+ 
+
+269
+00:05:40,440 --> 00:05:43,629
+first example San the monk is using
+floral blows to punch a goblin twice
+
+270
+00:05:43,629 --> 00:05:43,639
+floral blows to punch a goblin twice
+ 
+
+271
+00:05:43,639 --> 00:05:45,909
+floral blows to punch a goblin twice
+this costus his first action of the turn
+
+272
+00:05:45,909 --> 00:05:45,919
+this costus his first action of the turn
+ 
+
+273
+00:05:45,919 --> 00:05:47,830
+this costus his first action of the turn
+the first strike is made with no
+
+274
+00:05:47,830 --> 00:05:47,840
+the first strike is made with no
+ 
+
+275
+00:05:47,840 --> 00:05:50,309
+the first strike is made with no
+multiple attack penalty and the second
+
+276
+00:05:50,309 --> 00:05:50,319
+multiple attack penalty and the second
+ 
+
+277
+00:05:50,319 --> 00:05:53,029
+multiple attack penalty and the second
+is made with a -4 multiple attack
+
+278
+00:05:53,029 --> 00:05:53,039
+is made with a -4 multiple attack
+ 
+
+279
+00:05:53,039 --> 00:05:57,029
+is made with a -4 multiple attack
+penalty -4 instead of neg5 because fist
+
+280
+00:05:57,029 --> 00:05:57,039
+penalty -4 instead of neg5 because fist
+ 
+
+281
+00:05:57,039 --> 00:05:59,909
+penalty -4 instead of neg5 because fist
+attacks have the agile trait if he
+
+282
+00:05:59,909 --> 00:05:59,919
+attacks have the agile trait if he
+ 
+
+283
+00:05:59,919 --> 00:06:01,950
+attacks have the agile trait if he
+wanted to continue making unarmed
+
+284
+00:06:01,950 --> 00:06:01,960
+wanted to continue making unarmed
+ 
+
+285
+00:06:01,960 --> 00:06:03,830
+wanted to continue making unarmed
+attacks with his second and third
+
+286
+00:06:03,830 --> 00:06:03,840
+attacks with his second and third
+ 
+
+287
+00:06:03,840 --> 00:06:05,990
+attacks with his second and third
+actions this turn those attacks would be
+
+288
+00:06:05,990 --> 00:06:06,000
+actions this turn those attacks would be
+ 
+
+289
+00:06:06,000 --> 00:06:09,350
+actions this turn those attacks would be
+made with a ne8 penalty now let's say
+
+290
+00:06:09,350 --> 00:06:09,360
+made with a ne8 penalty now let's say
+ 
+
+291
+00:06:09,360 --> 00:06:12,870
+made with a ne8 penalty now let's say
+this Goblin San is fighting is a monk to
+
+292
+00:06:12,870 --> 00:06:12,880
+this Goblin San is fighting is a monk to
+ 
+
+293
+00:06:12,880 --> 00:06:16,430
+this Goblin San is fighting is a monk to
+and has the razor tooth Heritage on its
+
+294
+00:06:16,430 --> 00:06:16,440
+and has the razor tooth Heritage on its
+ 
+
+295
+00:06:16,440 --> 00:06:19,390
+and has the razor tooth Heritage on its
+turn the goblin uses Flurry of Blows
+
+296
+00:06:19,390 --> 00:06:19,400
+turn the goblin uses Flurry of Blows
+ 
+
+297
+00:06:19,400 --> 00:06:23,189
+turn the goblin uses Flurry of Blows
+spins one action and attacks San twice
+
+298
+00:06:23,189 --> 00:06:23,199
+spins one action and attacks San twice
+ 
+
+299
+00:06:23,199 --> 00:06:25,790
+spins one action and attacks San twice
+the first strike is an unarmed fist
+
+300
+00:06:25,790 --> 00:06:25,800
+the first strike is an unarmed fist
+ 
+
+301
+00:06:25,800 --> 00:06:28,830
+the first strike is an unarmed fist
+attack and the second is a bite attack
+
+302
+00:06:28,830 --> 00:06:28,840
+attack and the second is a bite attack
+ 
+
+303
+00:06:28,840 --> 00:06:30,390
+attack and the second is a bite attack
+the first strike is made with no
+
+304
+00:06:30,390 --> 00:06:30,400
+the first strike is made with no
+ 
+
+305
+00:06:30,400 --> 00:06:32,510
+the first strike is made with no
+multiple attack penalty but the second
+
+306
+00:06:32,510 --> 00:06:32,520
+multiple attack penalty but the second
+ 
+
+307
+00:06:32,520 --> 00:06:36,749
+multiple attack penalty but the second
+is made with a -5 penalty instead of -4
+
+308
+00:06:36,749 --> 00:06:36,759
+is made with a -5 penalty instead of -4
+ 
+
+309
+00:06:36,759 --> 00:06:39,110
+is made with a -5 penalty instead of -4
+because their bite attack does not have
+
+310
+00:06:39,110 --> 00:06:39,120
+because their bite attack does not have
+ 
+
+311
+00:06:39,120 --> 00:06:41,710
+because their bite attack does not have
+the agile trait so they would have been
+
+312
+00:06:41,710 --> 00:06:41,720
+the agile trait so they would have been
+ 
+
+313
+00:06:41,720 --> 00:06:44,670
+the agile trait so they would have been
+better off leading with their bite in
+
+314
+00:06:44,670 --> 00:06:44,680
+better off leading with their bite in
+ 
+
+315
+00:06:44,680 --> 00:06:47,510
+better off leading with their bite in
+our third example San is fighting two
+
+316
+00:06:47,510 --> 00:06:47,520
+our third example San is fighting two
+ 
+
+317
+00:06:47,520 --> 00:06:50,870
+our third example San is fighting two
+ugal or faceless stalkers he could
+
+318
+00:06:50,870 --> 00:06:50,880
+ugal or faceless stalkers he could
+ 
+
+319
+00:06:50,880 --> 00:06:53,189
+ugal or faceless stalkers he could
+decide to use Flor a blows to attack the
+
+320
+00:06:53,189 --> 00:06:53,199
+decide to use Flor a blows to attack the
+ 
+
+321
+00:06:53,199 --> 00:06:57,550
+decide to use Flor a blows to attack the
+same ugal twice or each of them once
+
+322
+00:06:57,550 --> 00:06:57,560
+same ugal twice or each of them once
+ 
+
+323
+00:06:57,560 --> 00:06:59,670
+same ugal twice or each of them once
+let's say he decides to divide his
+
+324
+00:06:59,670 --> 00:06:59,680
+let's say he decides to divide his
+ 
+
+325
+00:06:59,680 --> 00:07:01,830
+let's say he decides to divide his
+attacks he would make a strike against
+
+326
+00:07:01,830 --> 00:07:01,840
+attacks he would make a strike against
+ 
+
+327
+00:07:01,840 --> 00:07:04,830
+attacks he would make a strike against
+the First ugal with no penalty and then
+
+328
+00:07:04,830 --> 00:07:04,840
+the First ugal with no penalty and then
+ 
+
+329
+00:07:04,840 --> 00:07:07,350
+the First ugal with no penalty and then
+strike the second ugal with a -4
+
+330
+00:07:07,350 --> 00:07:07,360
+strike the second ugal with a -4
+ 
+
+331
+00:07:07,360 --> 00:07:10,550
+strike the second ugal with a -4
+multiple attack penalty we'll say both
+
+332
+00:07:10,550 --> 00:07:10,560
+multiple attack penalty we'll say both
+ 
+
+333
+00:07:10,560 --> 00:07:13,790
+multiple attack penalty we'll say both
+are hits so next he rolls his damage for
+
+334
+00:07:13,790 --> 00:07:13,800
+are hits so next he rolls his damage for
+ 
+
+335
+00:07:13,800 --> 00:07:17,110
+are hits so next he rolls his damage for
+each strike separately he deals six
+
+336
+00:07:17,110 --> 00:07:17,120
+each strike separately he deals six
+ 
+
+337
+00:07:17,120 --> 00:07:19,350
+each strike separately he deals six
+points of damage to the first one and
+
+338
+00:07:19,350 --> 00:07:19,360
+points of damage to the first one and
+ 
+
+339
+00:07:19,360 --> 00:07:22,510
+points of damage to the first one and
+eight points of damage to the second but
+
+340
+00:07:22,510 --> 00:07:22,520
+eight points of damage to the second but
+ 
+
+341
+00:07:22,520 --> 00:07:24,909
+eight points of damage to the second but
+since ugal have resistance five to
+
+342
+00:07:24,909 --> 00:07:24,919
+since ugal have resistance five to
+ 
+
+343
+00:07:24,919 --> 00:07:27,629
+since ugal have resistance five to
+blending damage this resistance is
+
+344
+00:07:27,629 --> 00:07:27,639
+blending damage this resistance is
+ 
+
+345
+00:07:27,639 --> 00:07:30,510
+blending damage this resistance is
+applied to both strikes separately
+
+346
+00:07:30,510 --> 00:07:30,520
+applied to both strikes separately
+ 
+
+347
+00:07:30,520 --> 00:07:33,270
+applied to both strikes separately
+meaning San deals only one point of
+
+348
+00:07:33,270 --> 00:07:33,280
+meaning San deals only one point of
+ 
+
+349
+00:07:33,280 --> 00:07:35,469
+meaning San deals only one point of
+damage to the first enemy and three
+
+350
+00:07:35,469 --> 00:07:35,479
+damage to the first enemy and three
+ 
+
+351
+00:07:35,479 --> 00:07:38,830
+damage to the first enemy and three
+points of damage to the second but if he
+
+352
+00:07:38,830 --> 00:07:38,840
+points of damage to the second but if he
+ 
+
+353
+00:07:38,840 --> 00:07:41,790
+points of damage to the second but if he
+had decided to only attack one of them
+
+354
+00:07:41,790 --> 00:07:41,800
+had decided to only attack one of them
+ 
+
+355
+00:07:41,800 --> 00:07:44,869
+had decided to only attack one of them
+and succeeded on both strikes then the
+
+356
+00:07:44,869 --> 00:07:44,879
+and succeeded on both strikes then the
+ 
+
+357
+00:07:44,879 --> 00:07:46,909
+and succeeded on both strikes then the
+damage would have been combined for the
+
+358
+00:07:46,909 --> 00:07:46,919
+damage would have been combined for the
+ 
+
+359
+00:07:46,919 --> 00:07:48,790
+damage would have been combined for the
+purposes of overcoming
+
+360
+00:07:48,790 --> 00:07:48,800
+purposes of overcoming
+ 
+
+361
+00:07:48,800 --> 00:07:51,790
+purposes of overcoming
+resistances in that case you would add
+
+362
+00:07:51,790 --> 00:07:51,800
+resistances in that case you would add
+ 
+
+363
+00:07:51,800 --> 00:07:54,270
+resistances in that case you would add
+the six damage from the first strike to
+
+364
+00:07:54,270 --> 00:07:54,280
+the six damage from the first strike to
+ 
+
+365
+00:07:54,280 --> 00:07:56,510
+the six damage from the first strike to
+the eight damage of the second strike
+
+366
+00:07:56,510 --> 00:07:56,520
+the eight damage of the second strike
+ 
+
+367
+00:07:56,520 --> 00:07:59,950
+the eight damage of the second strike
+for a total of 14 and then track the
+
+368
+00:07:59,950 --> 00:07:59,960
+for a total of 14 and then track the
+ 
+
+369
+00:07:59,960 --> 00:08:03,189
+for a total of 14 and then track the
+five resistance to boning only once and
+
+370
+00:08:03,189 --> 00:08:03,199
+five resistance to boning only once and
+ 
+
+371
+00:08:03,199 --> 00:08:05,390
+five resistance to boning only once and
+that Target would suffer a total of nine
+
+372
+00:08:05,390 --> 00:08:05,400
+that Target would suffer a total of nine
+ 
+
+373
+00:08:05,400 --> 00:08:08,469
+that Target would suffer a total of nine
+points of damage instead of only three
+
+374
+00:08:08,469 --> 00:08:08,479
+points of damage instead of only three
+ 
+
+375
+00:08:08,479 --> 00:08:10,670
+points of damage instead of only three
+and next let's take that same example
+
+376
+00:08:10,670 --> 00:08:10,680
+and next let's take that same example
+ 
+
+377
+00:08:10,680 --> 00:08:13,149
+and next let's take that same example
+but instead of ugal that are resistant
+
+378
+00:08:13,149 --> 00:08:13,159
+but instead of ugal that are resistant
+ 
+
+379
+00:08:13,159 --> 00:08:16,070
+but instead of ugal that are resistant
+to bling damage San is fighting a pair
+
+380
+00:08:16,070 --> 00:08:16,080
+to bling damage San is fighting a pair
+ 
+
+381
+00:08:16,080 --> 00:08:18,950
+to bling damage San is fighting a pair
+of necr fidus who are weak to
+
+382
+00:08:18,950 --> 00:08:18,960
+of necr fidus who are weak to
+ 
+
+383
+00:08:18,960 --> 00:08:21,309
+of necr fidus who are weak to
+bludgeoning damage if he chooses to
+
+384
+00:08:21,309 --> 00:08:21,319
+bludgeoning damage if he chooses to
+ 
+
+385
+00:08:21,319 --> 00:08:22,950
+bludgeoning damage if he chooses to
+attack one of them with both of his
+
+386
+00:08:22,950 --> 00:08:22,960
+attack one of them with both of his
+ 
+
+387
+00:08:22,960 --> 00:08:25,589
+attack one of them with both of his
+strikes the damage of both attacks will
+
+388
+00:08:25,589 --> 00:08:25,599
+strikes the damage of both attacks will
+ 
+
+389
+00:08:25,599 --> 00:08:28,510
+strikes the damage of both attacks will
+be added together for a total of 14 and
+
+390
+00:08:28,510 --> 00:08:28,520
+be added together for a total of 14 and
+ 
+
+391
+00:08:28,520 --> 00:08:30,350
+be added together for a total of 14 and
+then the necroid his weakness to
+
+392
+00:08:30,350 --> 00:08:30,360
+then the necroid his weakness to
+ 
+
+393
+00:08:30,360 --> 00:08:32,589
+then the necroid his weakness to
+blending damage will be triggered once
+
+394
+00:08:32,589 --> 00:08:32,599
+blending damage will be triggered once
+ 
+
+395
+00:08:32,599 --> 00:08:35,949
+blending damage will be triggered once
+for a total of 19 damage but if he
+
+396
+00:08:35,949 --> 00:08:35,959
+for a total of 19 damage but if he
+ 
+
+397
+00:08:35,959 --> 00:08:38,469
+for a total of 19 damage but if he
+chooses to divide the attacks and strike
+
+398
+00:08:38,469 --> 00:08:38,479
+chooses to divide the attacks and strike
+ 
+
+399
+00:08:38,479 --> 00:08:40,949
+chooses to divide the attacks and strike
+each of the enemies once the first will
+
+400
+00:08:40,949 --> 00:08:40,959
+each of the enemies once the first will
+ 
+
+401
+00:08:40,959 --> 00:08:43,589
+each of the enemies once the first will
+suffer six damage plus five more for the
+
+402
+00:08:43,589 --> 00:08:43,599
+suffer six damage plus five more for the
+ 
+
+403
+00:08:43,599 --> 00:08:46,190
+suffer six damage plus five more for the
+weakness totaling 11 damage and the
+
+404
+00:08:46,190 --> 00:08:46,200
+weakness totaling 11 damage and the
+ 
+
+405
+00:08:46,200 --> 00:08:48,310
+weakness totaling 11 damage and the
+second will suffer eight damage plus
+
+406
+00:08:48,310 --> 00:08:48,320
+second will suffer eight damage plus
+ 
+
+407
+00:08:48,320 --> 00:08:49,870
+second will suffer eight damage plus
+five more for the weakness for a total
+
+408
+00:08:49,870 --> 00:08:49,880
+five more for the weakness for a total
+ 
+
+409
+00:08:49,880 --> 00:08:52,470
+five more for the weakness for a total
+of 13
+
+410
+00:08:52,470 --> 00:08:52,480
+of 13
+ 
+
+411
+00:08:52,480 --> 00:08:55,750
+of 13
+damage one of the concerns often raised
+
+412
+00:08:55,750 --> 00:08:55,760
+damage one of the concerns often raised
+ 
+
+413
+00:08:55,760 --> 00:08:58,110
+damage one of the concerns often raised
+about Flur of blows is it doesn't seem
+
+414
+00:08:58,110 --> 00:08:58,120
+about Flur of blows is it doesn't seem
+ 
+
+415
+00:08:58,120 --> 00:08:59,870
+about Flur of blows is it doesn't seem
+any different from just making two
+
+416
+00:08:59,870 --> 00:08:59,880
+any different from just making two
+ 
+
+417
+00:08:59,880 --> 00:09:01,790
+any different from just making two
+attacks since the multiple attack
+
+418
+00:09:01,790 --> 00:09:01,800
+attacks since the multiple attack
+ 
+
+419
+00:09:01,800 --> 00:09:04,509
+attacks since the multiple attack
+penalty still applies but the true
+
+420
+00:09:04,509 --> 00:09:04,519
+penalty still applies but the true
+ 
+
+421
+00:09:04,519 --> 00:09:06,550
+penalty still applies but the true
+benefit of fluid blows is that it only
+
+422
+00:09:06,550 --> 00:09:06,560
+benefit of fluid blows is that it only
+ 
+
+423
+00:09:06,560 --> 00:09:10,030
+benefit of fluid blows is that it only
+takes one action which leaves one or two
+
+424
+00:09:10,030 --> 00:09:10,040
+takes one action which leaves one or two
+ 
+
+425
+00:09:10,040 --> 00:09:12,430
+takes one action which leaves one or two
+actions each turn that can be applied to
+
+426
+00:09:12,430 --> 00:09:12,440
+actions each turn that can be applied to
+ 
+
+427
+00:09:12,440 --> 00:09:14,949
+actions each turn that can be applied to
+other things like movement and Mobility
+
+428
+00:09:14,949 --> 00:09:14,959
+other things like movement and Mobility
+ 
+
+429
+00:09:14,959 --> 00:09:18,389
+other things like movement and Mobility
+is another area where monks really shine
+
+430
+00:09:18,389 --> 00:09:18,399
+is another area where monks really shine
+ 
+
+431
+00:09:18,399 --> 00:09:20,949
+is another area where monks really shine
+starting at third level monks enjoy an
+
+432
+00:09:20,949 --> 00:09:20,959
+starting at third level monks enjoy an
+ 
+
+433
+00:09:20,959 --> 00:09:23,069
+starting at third level monks enjoy an
+increase to their speed score whenever
+
+434
+00:09:23,069 --> 00:09:23,079
+increase to their speed score whenever
+ 
+
+435
+00:09:23,079 --> 00:09:26,269
+increase to their speed score whenever
+they're not wearing armor this starts as
+
+436
+00:09:26,269 --> 00:09:26,279
+they're not wearing armor this starts as
+ 
+
+437
+00:09:26,279 --> 00:09:28,910
+they're not wearing armor this starts as
+a plus 10 bonus to speed and increases
+
+438
+00:09:28,910 --> 00:09:28,920
+a plus 10 bonus to speed and increases
+ 
+
+439
+00:09:28,920 --> 00:09:33,389
+a plus 10 bonus to speed and increases
+by a additional 5 ft at 7th 11th 15th
+
+440
+00:09:33,389 --> 00:09:33,399
+by a additional 5 ft at 7th 11th 15th
+ 
+
+441
+00:09:33,399 --> 00:09:36,590
+by a additional 5 ft at 7th 11th 15th
+and 19th level for a final bonus of plus
+
+442
+00:09:36,590 --> 00:09:36,600
+and 19th level for a final bonus of plus
+ 
+
+443
+00:09:36,600 --> 00:09:40,190
+and 19th level for a final bonus of plus
+30 ft so a typical strategy for monks
+
+444
+00:09:40,190 --> 00:09:40,200
+30 ft so a typical strategy for monks
+ 
+
+445
+00:09:40,200 --> 00:09:42,310
+30 ft so a typical strategy for monks
+especially at low levels might be to
+
+446
+00:09:42,310 --> 00:09:42,320
+especially at low levels might be to
+ 
+
+447
+00:09:42,320 --> 00:09:44,550
+especially at low levels might be to
+spend their first action to move into
+
+448
+00:09:44,550 --> 00:09:44,560
+spend their first action to move into
+ 
+
+449
+00:09:44,560 --> 00:09:47,470
+spend their first action to move into
+melee distance use Flor of blows to
+
+450
+00:09:47,470 --> 00:09:47,480
+melee distance use Flor of blows to
+ 
+
+451
+00:09:47,480 --> 00:09:50,350
+melee distance use Flor of blows to
+attack twice and then their third action
+
+452
+00:09:50,350 --> 00:09:50,360
+attack twice and then their third action
+ 
+
+453
+00:09:50,360 --> 00:09:53,870
+attack twice and then their third action
+to move away after third level the monk
+
+454
+00:09:53,870 --> 00:09:53,880
+to move away after third level the monk
+ 
+
+455
+00:09:53,880 --> 00:09:56,190
+to move away after third level the monk
+likely has a higher speed score than
+
+456
+00:09:56,190 --> 00:09:56,200
+likely has a higher speed score than
+ 
+
+457
+00:09:56,200 --> 00:09:58,590
+likely has a higher speed score than
+most enemies meaning those enemies will
+
+458
+00:09:58,590 --> 00:09:58,600
+most enemies meaning those enemies will
+ 
+
+459
+00:09:58,600 --> 00:10:00,550
+most enemies meaning those enemies will
+have to spend two of their actions to
+
+460
+00:10:00,550 --> 00:10:00,560
+have to spend two of their actions to
+ 
+
+461
+00:10:00,560 --> 00:10:03,230
+have to spend two of their actions to
+move into melee against the monk leaving
+
+462
+00:10:03,230 --> 00:10:03,240
+move into melee against the monk leaving
+ 
+
+463
+00:10:03,240 --> 00:10:06,430
+move into melee against the monk leaving
+them with only one action left to strike
+
+464
+00:10:06,430 --> 00:10:06,440
+them with only one action left to strike
+ 
+
+465
+00:10:06,440 --> 00:10:08,829
+them with only one action left to strike
+and if the enemy has a ranged weapon the
+
+466
+00:10:08,829 --> 00:10:08,839
+and if the enemy has a ranged weapon the
+ 
+
+467
+00:10:08,839 --> 00:10:10,750
+and if the enemy has a ranged weapon the
+mon can use their extra speed to move
+
+468
+00:10:10,750 --> 00:10:10,760
+mon can use their extra speed to move
+ 
+
+469
+00:10:10,760 --> 00:10:12,910
+mon can use their extra speed to move
+into cover that otherwise might be too
+
+470
+00:10:12,910 --> 00:10:12,920
+into cover that otherwise might be too
+ 
+
+471
+00:10:12,920 --> 00:10:16,230
+into cover that otherwise might be too
+far to reach with one action yes if the
+
+472
+00:10:16,230 --> 00:10:16,240
+far to reach with one action yes if the
+ 
+
+473
+00:10:16,240 --> 00:10:18,509
+far to reach with one action yes if the
+enemy has reactive strike or other
+
+474
+00:10:18,509 --> 00:10:18,519
+enemy has reactive strike or other
+ 
+
+475
+00:10:18,519 --> 00:10:20,870
+enemy has reactive strike or other
+abilities that trigger on enemy movement
+
+476
+00:10:20,870 --> 00:10:20,880
+abilities that trigger on enemy movement
+ 
+
+477
+00:10:20,880 --> 00:10:23,710
+abilities that trigger on enemy movement
+this would trigger it but remember
+
+478
+00:10:23,710 --> 00:10:23,720
+this would trigger it but remember
+ 
+
+479
+00:10:23,720 --> 00:10:27,150
+this would trigger it but remember
+unlike some other popular D20 based RPGs
+
+480
+00:10:27,150 --> 00:10:27,160
+unlike some other popular D20 based RPGs
+ 
+
+481
+00:10:27,160 --> 00:10:29,550
+unlike some other popular D20 based RPGs
+in Pathfinder not everyone has the
+
+482
+00:10:29,550 --> 00:10:29,560
+in Pathfinder not everyone has the
+ 
+
+483
+00:10:29,560 --> 00:10:31,990
+in Pathfinder not everyone has the
+ability to perform reactive strikes or
+
+484
+00:10:31,990 --> 00:10:32,000
+ability to perform reactive strikes or
+ 
+
+485
+00:10:32,000 --> 00:10:34,350
+ability to perform reactive strikes or
+what you might call Opportunity attacks
+
+486
+00:10:34,350 --> 00:10:34,360
+what you might call Opportunity attacks
+ 
+
+487
+00:10:34,360 --> 00:10:36,710
+what you might call Opportunity attacks
+but if you want to feel extra safe you
+
+488
+00:10:36,710 --> 00:10:36,720
+but if you want to feel extra safe you
+ 
+
+489
+00:10:36,720 --> 00:10:38,790
+but if you want to feel extra safe you
+can take the guarded movement feet at
+
+490
+00:10:38,790 --> 00:10:38,800
+can take the guarded movement feet at
+ 
+
+491
+00:10:38,800 --> 00:10:41,550
+can take the guarded movement feet at
+fourth level that grants a plus4 bonus
+
+492
+00:10:41,550 --> 00:10:41,560
+fourth level that grants a plus4 bonus
+ 
+
+493
+00:10:41,560 --> 00:10:43,550
+fourth level that grants a plus4 bonus
+to Armor class against reactions that
+
+494
+00:10:43,550 --> 00:10:43,560
+to Armor class against reactions that
+ 
+
+495
+00:10:43,560 --> 00:10:46,990
+to Armor class against reactions that
+trigger on your Movement Like reactive
+
+496
+00:10:46,990 --> 00:10:47,000
+trigger on your Movement Like reactive
+ 
+
+497
+00:10:47,000 --> 00:10:49,509
+trigger on your Movement Like reactive
+strikes so those are the abilities that
+
+498
+00:10:49,509 --> 00:10:49,519
+strikes so those are the abilities that
+ 
+
+499
+00:10:49,519 --> 00:10:52,910
+strikes so those are the abilities that
+are Universal to all monks but unlike
+
+500
+00:10:52,910 --> 00:10:52,920
+are Universal to all monks but unlike
+ 
+
+501
+00:10:52,920 --> 00:10:55,629
+are Universal to all monks but unlike
+some other classes monks do not have a
+
+502
+00:10:55,629 --> 00:10:55,639
+some other classes monks do not have a
+ 
+
+503
+00:10:55,639 --> 00:10:57,629
+some other classes monks do not have a
+form of broad grouping of abilities to
+
+504
+00:10:57,629 --> 00:10:57,639
+form of broad grouping of abilities to
+ 
+
+505
+00:10:57,639 --> 00:11:00,110
+form of broad grouping of abilities to
+choose from like how a cleric chooses
+
+506
+00:11:00,110 --> 00:11:00,120
+choose from like how a cleric chooses
+ 
+
+507
+00:11:00,120 --> 00:11:02,550
+choose from like how a cleric chooses
+their Doctrine a druid chooses their
+
+508
+00:11:02,550 --> 00:11:02,560
+their Doctrine a druid chooses their
+ 
+
+509
+00:11:02,560 --> 00:11:06,470
+their Doctrine a druid chooses their
+order or a rogue chooses their racket in
+
+510
+00:11:06,470 --> 00:11:06,480
+order or a rogue chooses their racket in
+ 
+
+511
+00:11:06,480 --> 00:11:08,150
+order or a rogue chooses their racket in
+other games you might call these
+
+512
+00:11:08,150 --> 00:11:08,160
+other games you might call these
+ 
+
+513
+00:11:08,160 --> 00:11:10,269
+other games you might call these
+subclasses but whatever you want to call
+
+514
+00:11:10,269 --> 00:11:10,279
+subclasses but whatever you want to call
+ 
+
+515
+00:11:10,279 --> 00:11:13,829
+subclasses but whatever you want to call
+them monks do not have those instead all
+
+516
+00:11:13,829 --> 00:11:13,839
+them monks do not have those instead all
+ 
+
+517
+00:11:13,839 --> 00:11:15,750
+them monks do not have those instead all
+monks have the previously mentioned
+
+518
+00:11:15,750 --> 00:11:15,760
+monks have the previously mentioned
+ 
+
+519
+00:11:15,760 --> 00:11:18,030
+monks have the previously mentioned
+features and then each player can
+
+520
+00:11:18,030 --> 00:11:18,040
+features and then each player can
+ 
+
+521
+00:11:18,040 --> 00:11:21,389
+features and then each player can
+customize their monk by choosing Feats
+
+522
+00:11:21,389 --> 00:11:21,399
+customize their monk by choosing Feats
+ 
+
+523
+00:11:21,399 --> 00:11:23,750
+customize their monk by choosing Feats
+and a lot of these feet options are
+
+524
+00:11:23,750 --> 00:11:23,760
+and a lot of these feet options are
+ 
+
+525
+00:11:23,760 --> 00:11:25,389
+and a lot of these feet options are
+going to fall into one of three
+
+526
+00:11:25,389 --> 00:11:25,399
+going to fall into one of three
+ 
+
+527
+00:11:25,399 --> 00:11:28,790
+going to fall into one of three
+categories which are stances monastic
+
+528
+00:11:28,790 --> 00:11:28,800
+categories which are stances monastic
+ 
+
+529
+00:11:28,800 --> 00:11:32,710
+categories which are stances monastic
+weapons and key spells first let's take
+
+530
+00:11:32,710 --> 00:11:32,720
+weapons and key spells first let's take
+ 
+
+531
+00:11:32,720 --> 00:11:35,910
+weapons and key spells first let's take
+a look at stances monks can learn
+
+532
+00:11:35,910 --> 00:11:35,920
+a look at stances monks can learn
+ 
+
+533
+00:11:35,920 --> 00:11:38,430
+a look at stances monks can learn
+several different combat stances Each of
+
+534
+00:11:38,430 --> 00:11:38,440
+several different combat stances Each of
+ 
+
+535
+00:11:38,440 --> 00:11:40,670
+several different combat stances Each of
+which have their own benefits but they
+
+536
+00:11:40,670 --> 00:11:40,680
+which have their own benefits but they
+ 
+
+537
+00:11:40,680 --> 00:11:43,870
+which have their own benefits but they
+all work the same way unless otherwise
+
+538
+00:11:43,870 --> 00:11:43,880
+all work the same way unless otherwise
+ 
+
+539
+00:11:43,880 --> 00:11:46,509
+all work the same way unless otherwise
+stated it costs one action to enter a
+
+540
+00:11:46,509 --> 00:11:46,519
+stated it costs one action to enter a
+ 
+
+541
+00:11:46,519 --> 00:11:49,750
+stated it costs one action to enter a
+stance and once you in that stance it
+
+542
+00:11:49,750 --> 00:11:49,760
+stance and once you in that stance it
+ 
+
+543
+00:11:49,760 --> 00:11:52,829
+stance and once you in that stance it
+persists turn after turn until you are
+
+544
+00:11:52,829 --> 00:11:52,839
+persists turn after turn until you are
+ 
+
+545
+00:11:52,839 --> 00:11:55,670
+persists turn after turn until you are
+either knocked out you violate any of
+
+546
+00:11:55,670 --> 00:11:55,680
+either knocked out you violate any of
+ 
+
+547
+00:11:55,680 --> 00:11:59,230
+either knocked out you violate any of
+its prerequisites the encounter ends or
+
+548
+00:11:59,230 --> 00:11:59,240
+its prerequisites the encounter ends or
+ 
+
+549
+00:11:59,240 --> 00:12:01,629
+its prerequisites the encounter ends or
+or you use the dismiss action which
+
+550
+00:12:01,629 --> 00:12:01,639
+or you use the dismiss action which
+ 
+
+551
+00:12:01,639 --> 00:12:04,829
+or you use the dismiss action which
+costs one action you can also switch
+
+552
+00:12:04,829 --> 00:12:04,839
+costs one action you can also switch
+ 
+
+553
+00:12:04,839 --> 00:12:07,389
+costs one action you can also switch
+between stances by spending an action
+
+554
+00:12:07,389 --> 00:12:07,399
+between stances by spending an action
+ 
+
+555
+00:12:07,399 --> 00:12:10,350
+between stances by spending an action
+but you can only enter a new stance once
+
+556
+00:12:10,350 --> 00:12:10,360
+but you can only enter a new stance once
+ 
+
+557
+00:12:10,360 --> 00:12:13,189
+but you can only enter a new stance once
+per round let's take a look at a couple
+
+558
+00:12:13,189 --> 00:12:13,199
+per round let's take a look at a couple
+ 
+
+559
+00:12:13,199 --> 00:12:15,670
+per round let's take a look at a couple
+stances available at first level Dragon
+
+560
+00:12:15,670 --> 00:12:15,680
+stances available at first level Dragon
+ 
+
+561
+00:12:15,680 --> 00:12:18,910
+stances available at first level Dragon
+stance and Mountain stance as long as a
+
+562
+00:12:18,910 --> 00:12:18,920
+stance and Mountain stance as long as a
+ 
+
+563
+00:12:18,920 --> 00:12:21,509
+stance and Mountain stance as long as a
+monk is not wearing armor they may spend
+
+564
+00:12:21,509 --> 00:12:21,519
+monk is not wearing armor they may spend
+ 
+
+565
+00:12:21,519 --> 00:12:24,590
+monk is not wearing armor they may spend
+one action to enter dragon stance while
+
+566
+00:12:24,590 --> 00:12:24,600
+one action to enter dragon stance while
+ 
+
+567
+00:12:24,600 --> 00:12:26,590
+one action to enter dragon stance while
+in The Stance they can choose to make
+
+568
+00:12:26,590 --> 00:12:26,600
+in The Stance they can choose to make
+ 
+
+569
+00:12:26,600 --> 00:12:29,550
+in The Stance they can choose to make
+unarmed attacks as normal or they can
+
+570
+00:12:29,550 --> 00:12:29,560
+unarmed attacks as normal or they can
+ 
+
+571
+00:12:29,560 --> 00:12:32,069
+unarmed attacks as normal or they can
+make special dragon tail attacks that
+
+572
+00:12:32,069 --> 00:12:32,079
+make special dragon tail attacks that
+ 
+
+573
+00:12:32,079 --> 00:12:34,790
+make special dragon tail attacks that
+deal 1 d10 damage and have the back
+
+574
+00:12:34,790 --> 00:12:34,800
+deal 1 d10 damage and have the back
+ 
+
+575
+00:12:34,800 --> 00:12:37,750
+deal 1 d10 damage and have the back
+swing trait meaning when you miss with a
+
+576
+00:12:37,750 --> 00:12:37,760
+swing trait meaning when you miss with a
+ 
+
+577
+00:12:37,760 --> 00:12:40,269
+swing trait meaning when you miss with a
+dragon tail attack you gain a plus one
+
+578
+00:12:40,269 --> 00:12:40,279
+dragon tail attack you gain a plus one
+ 
+
+579
+00:12:40,279 --> 00:12:42,430
+dragon tail attack you gain a plus one
+circumstance bonus made with your next
+
+580
+00:12:42,430 --> 00:12:42,440
+circumstance bonus made with your next
+ 
+
+581
+00:12:42,440 --> 00:12:44,710
+circumstance bonus made with your next
+dragon tail attack before the end of the
+
+582
+00:12:44,710 --> 00:12:44,720
+dragon tail attack before the end of the
+ 
+
+583
+00:12:44,720 --> 00:12:48,030
+dragon tail attack before the end of the
+turn also while in The Stance you ignore
+
+584
+00:12:48,030 --> 00:12:48,040
+turn also while in The Stance you ignore
+ 
+
+585
+00:12:48,040 --> 00:12:51,069
+turn also while in The Stance you ignore
+the first square of difficult terrain
+
+586
+00:12:51,069 --> 00:12:51,079
+the first square of difficult terrain
+ 
+
+587
+00:12:51,079 --> 00:12:53,310
+the first square of difficult terrain
+for comparison let's also look at
+
+588
+00:12:53,310 --> 00:12:53,320
+for comparison let's also look at
+ 
+
+589
+00:12:53,320 --> 00:12:56,189
+for comparison let's also look at
+Mountain stance it also costs one action
+
+590
+00:12:56,189 --> 00:12:56,199
+Mountain stance it also costs one action
+ 
+
+591
+00:12:56,199 --> 00:12:58,790
+Mountain stance it also costs one action
+to enter The Stance and can only be used
+
+592
+00:12:58,790 --> 00:12:58,800
+to enter The Stance and can only be used
+ 
+
+593
+00:12:58,800 --> 00:13:01,269
+to enter The Stance and can only be used
+while wearing armor and while touching
+
+594
+00:13:01,269 --> 00:13:01,279
+while wearing armor and while touching
+ 
+
+595
+00:13:01,279 --> 00:13:04,670
+while wearing armor and while touching
+the ground while in this stance the only
+
+596
+00:13:04,670 --> 00:13:04,680
+the ground while in this stance the only
+ 
+
+597
+00:13:04,680 --> 00:13:07,150
+the ground while in this stance the only
+strikes a monk can make are falling
+
+598
+00:13:07,150 --> 00:13:07,160
+strikes a monk can make are falling
+ 
+
+599
+00:13:07,160 --> 00:13:09,710
+strikes a monk can make are falling
+Stone unarmed attacks which have the
+
+600
+00:13:09,710 --> 00:13:09,720
+Stone unarmed attacks which have the
+ 
+
+601
+00:13:09,720 --> 00:13:13,710
+Stone unarmed attacks which have the
+forceful non-lethal and unarmed traits
+
+602
+00:13:13,710 --> 00:13:13,720
+forceful non-lethal and unarmed traits
+ 
+
+603
+00:13:13,720 --> 00:13:16,350
+forceful non-lethal and unarmed traits
+the forceful trait means the more times
+
+604
+00:13:16,350 --> 00:13:16,360
+the forceful trait means the more times
+ 
+
+605
+00:13:16,360 --> 00:13:18,870
+the forceful trait means the more times
+you use the attack in the same round the
+
+606
+00:13:18,870 --> 00:13:18,880
+you use the attack in the same round the
+ 
+
+607
+00:13:18,880 --> 00:13:21,629
+you use the attack in the same round the
+more damage it does starting with the
+
+608
+00:13:21,629 --> 00:13:21,639
+more damage it does starting with the
+ 
+
+609
+00:13:21,639 --> 00:13:23,949
+more damage it does starting with the
+second attack gaining a damage bonus
+
+610
+00:13:23,949 --> 00:13:23,959
+second attack gaining a damage bonus
+ 
+
+611
+00:13:23,959 --> 00:13:26,310
+second attack gaining a damage bonus
+equal to the number of damag dice being
+
+612
+00:13:26,310 --> 00:13:26,320
+equal to the number of damag dice being
+ 
+
+613
+00:13:26,320 --> 00:13:29,110
+equal to the number of damag dice being
+rolled and that bonus is doubled for the
+
+614
+00:13:29,110 --> 00:13:29,120
+rolled and that bonus is doubled for the
+ 
+
+615
+00:13:29,120 --> 00:13:32,269
+rolled and that bonus is doubled for the
+the third attack and more note that you
+
+616
+00:13:32,269 --> 00:13:32,279
+the third attack and more note that you
+ 
+
+617
+00:13:32,279 --> 00:13:34,509
+the third attack and more note that you
+do not need to hit with these attacks to
+
+618
+00:13:34,509 --> 00:13:34,519
+do not need to hit with these attacks to
+ 
+
+619
+00:13:34,519 --> 00:13:36,710
+do not need to hit with these attacks to
+gain the benefits of the forceful trait
+
+620
+00:13:36,710 --> 00:13:36,720
+gain the benefits of the forceful trait
+ 
+
+621
+00:13:36,720 --> 00:13:38,790
+gain the benefits of the forceful trait
+you only need to
+
+622
+00:13:38,790 --> 00:13:38,800
+you only need to
+ 
+
+623
+00:13:38,800 --> 00:13:41,870
+you only need to
+attack also while in this stance monks
+
+624
+00:13:41,870 --> 00:13:41,880
+attack also while in this stance monks
+ 
+
+625
+00:13:41,880 --> 00:13:44,910
+attack also while in this stance monks
+enjoy a plus4 item bonus to Armor class
+
+626
+00:13:44,910 --> 00:13:44,920
+enjoy a plus4 item bonus to Armor class
+ 
+
+627
+00:13:44,920 --> 00:13:47,310
+enjoy a plus4 item bonus to Armor class
+and a plus two circumstance bonus
+
+628
+00:13:47,310 --> 00:13:47,320
+and a plus two circumstance bonus
+ 
+
+629
+00:13:47,320 --> 00:13:49,990
+and a plus two circumstance bonus
+against being repositioned shoved or
+
+630
+00:13:49,990 --> 00:13:50,000
+against being repositioned shoved or
+ 
+
+631
+00:13:50,000 --> 00:13:53,590
+against being repositioned shoved or
+tripped and this Armor class bonus does
+
+632
+00:13:53,590 --> 00:13:53,600
+tripped and this Armor class bonus does
+ 
+
+633
+00:13:53,600 --> 00:13:55,269
+tripped and this Armor class bonus does
+stack with the armor class bonus
+
+634
+00:13:55,269 --> 00:13:55,279
+stack with the armor class bonus
+ 
+
+635
+00:13:55,279 --> 00:13:58,069
+stack with the armor class bonus
+provided by explores clothing bands of
+
+636
+00:13:58,069 --> 00:13:58,079
+provided by explores clothing bands of
+ 
+
+637
+00:13:58,079 --> 00:14:01,829
+provided by explores clothing bands of
+force and Mystic armor spell on the
+
+638
+00:14:01,829 --> 00:14:01,839
+force and Mystic armor spell on the
+ 
+
+639
+00:14:01,839 --> 00:14:04,629
+force and Mystic armor spell on the
+downside while in this stance the Monk's
+
+640
+00:14:04,629 --> 00:14:04,639
+downside while in this stance the Monk's
+ 
+
+641
+00:14:04,639 --> 00:14:07,230
+downside while in this stance the Monk's
+speed score is reduced by five and they
+
+642
+00:14:07,230 --> 00:14:07,240
+speed score is reduced by five and they
+ 
+
+643
+00:14:07,240 --> 00:14:09,389
+speed score is reduced by five and they
+don't receive any dexterity bonus to
+
+644
+00:14:09,389 --> 00:14:09,399
+don't receive any dexterity bonus to
+ 
+
+645
+00:14:09,399 --> 00:14:12,269
+don't receive any dexterity bonus to
+their Armor class meaning if the Monk's
+
+646
+00:14:12,269 --> 00:14:12,279
+their Armor class meaning if the Monk's
+ 
+
+647
+00:14:12,279 --> 00:14:15,310
+their Armor class meaning if the Monk's
+dexterity modifier is already four or
+
+648
+00:14:15,310 --> 00:14:15,320
+dexterity modifier is already four or
+ 
+
+649
+00:14:15,320 --> 00:14:17,389
+dexterity modifier is already four or
+higher this stance will not increase
+
+650
+00:14:17,389 --> 00:14:17,399
+higher this stance will not increase
+ 
+
+651
+00:14:17,399 --> 00:14:20,629
+higher this stance will not increase
+their Armor class however the dexterity
+
+652
+00:14:20,629 --> 00:14:20,639
+their Armor class however the dexterity
+ 
+
+653
+00:14:20,639 --> 00:14:23,870
+their Armor class however the dexterity
+cap can be increased by one with the
+
+654
+00:14:23,870 --> 00:14:23,880
+cap can be increased by one with the
+ 
+
+655
+00:14:23,880 --> 00:14:25,870
+cap can be increased by one with the
+mountain stronghold feet available at
+
+656
+00:14:25,870 --> 00:14:25,880
+mountain stronghold feet available at
+ 
+
+657
+00:14:25,880 --> 00:14:28,790
+mountain stronghold feet available at
+six level and further increased to two
+
+658
+00:14:28,790 --> 00:14:28,800
+six level and further increased to two
+ 
+
+659
+00:14:28,800 --> 00:14:31,389
+six level and further increased to two
+with the mountain Quake feet at 14th
+
+660
+00:14:31,389 --> 00:14:31,399
+with the mountain Quake feet at 14th
+ 
+
+661
+00:14:31,399 --> 00:14:33,870
+with the mountain Quake feet at 14th
+level let's illustrate how these stances
+
+662
+00:14:33,870 --> 00:14:33,880
+level let's illustrate how these stances
+ 
+
+663
+00:14:33,880 --> 00:14:37,030
+level let's illustrate how these stances
+work with an example San is fighting an
+
+664
+00:14:37,030 --> 00:14:37,040
+work with an example San is fighting an
+ 
+
+665
+00:14:37,040 --> 00:14:39,790
+work with an example San is fighting an
+enemy soldier and this is the first
+
+666
+00:14:39,790 --> 00:14:39,800
+enemy soldier and this is the first
+ 
+
+667
+00:14:39,800 --> 00:14:42,710
+enemy soldier and this is the first
+round of combat so he's not already in a
+
+668
+00:14:42,710 --> 00:14:42,720
+round of combat so he's not already in a
+ 
+
+669
+00:14:42,720 --> 00:14:46,150
+round of combat so he's not already in a
+stance he uses his first action to enter
+
+670
+00:14:46,150 --> 00:14:46,160
+stance he uses his first action to enter
+ 
+
+671
+00:14:46,160 --> 00:14:49,189
+stance he uses his first action to enter
+dragon stance and then uses Floria blows
+
+672
+00:14:49,189 --> 00:14:49,199
+dragon stance and then uses Floria blows
+ 
+
+673
+00:14:49,199 --> 00:14:51,590
+dragon stance and then uses Floria blows
+with his second action he makes a dragon
+
+674
+00:14:51,590 --> 00:14:51,600
+with his second action he makes a dragon
+ 
+
+675
+00:14:51,600 --> 00:14:53,470
+with his second action he makes a dragon
+tail attack as the first strike with no
+
+676
+00:14:53,470 --> 00:14:53,480
+tail attack as the first strike with no
+ 
+
+677
+00:14:53,480 --> 00:14:55,710
+tail attack as the first strike with no
+multiple attack penalty and what he does
+
+678
+00:14:55,710 --> 00:14:55,720
+multiple attack penalty and what he does
+ 
+
+679
+00:14:55,720 --> 00:14:57,749
+multiple attack penalty and what he does
+with his second attack is going to
+
+680
+00:14:57,749 --> 00:14:57,759
+with his second attack is going to
+ 
+
+681
+00:14:57,759 --> 00:14:59,790
+with his second attack is going to
+depend on if that first first attack
+
+682
+00:14:59,790 --> 00:14:59,800
+depend on if that first first attack
+ 
+
+683
+00:14:59,800 --> 00:15:03,310
+depend on if that first first attack
+hits or not if that attack hits he might
+
+684
+00:15:03,310 --> 00:15:03,320
+hits or not if that attack hits he might
+ 
+
+685
+00:15:03,320 --> 00:15:05,990
+hits or not if that attack hits he might
+want to make a normal unarmed attack
+
+686
+00:15:05,990 --> 00:15:06,000
+want to make a normal unarmed attack
+ 
+
+687
+00:15:06,000 --> 00:15:08,189
+want to make a normal unarmed attack
+with the second strike since it will be
+
+688
+00:15:08,189 --> 00:15:08,199
+with the second strike since it will be
+ 
+
+689
+00:15:08,199 --> 00:15:11,189
+with the second strike since it will be
+made at a ne4 penalty whereas another
+
+690
+00:15:11,189 --> 00:15:11,199
+made at a ne4 penalty whereas another
+ 
+
+691
+00:15:11,199 --> 00:15:13,310
+made at a ne4 penalty whereas another
+dragon tail strike would be made at a
+
+692
+00:15:13,310 --> 00:15:13,320
+dragon tail strike would be made at a
+ 
+
+693
+00:15:13,320 --> 00:15:16,990
+dragon tail strike would be made at a
+neg5 penalty because it lacks the agile
+
+694
+00:15:16,990 --> 00:15:17,000
+neg5 penalty because it lacks the agile
+ 
+
+695
+00:15:17,000 --> 00:15:20,150
+neg5 penalty because it lacks the agile
+trait but if he misses with the first
+
+696
+00:15:20,150 --> 00:15:20,160
+trait but if he misses with the first
+ 
+
+697
+00:15:20,160 --> 00:15:22,990
+trait but if he misses with the first
+dragon tail attack he definitely want to
+
+698
+00:15:22,990 --> 00:15:23,000
+dragon tail attack he definitely want to
+ 
+
+699
+00:15:23,000 --> 00:15:25,629
+dragon tail attack he definitely want to
+make another dragon tail attack with the
+
+700
+00:15:25,629 --> 00:15:25,639
+make another dragon tail attack with the
+ 
+
+701
+00:15:25,639 --> 00:15:28,389
+make another dragon tail attack with the
+second strike of Flor of blows since the
+
+702
+00:15:28,389 --> 00:15:28,399
+second strike of Flor of blows since the
+ 
+
+703
+00:15:28,399 --> 00:15:30,509
+second strike of Flor of blows since the
+plus one gained from the back swing
+
+704
+00:15:30,509 --> 00:15:30,519
+plus one gained from the back swing
+ 
+
+705
+00:15:30,519 --> 00:15:33,629
+plus one gained from the back swing
+trait would yield a final ne4 penalty
+
+706
+00:15:33,629 --> 00:15:33,639
+trait would yield a final ne4 penalty
+ 
+
+707
+00:15:33,639 --> 00:15:36,430
+trait would yield a final ne4 penalty
+just like with normal unarmed attacks
+
+708
+00:15:36,430 --> 00:15:36,440
+just like with normal unarmed attacks
+ 
+
+709
+00:15:36,440 --> 00:15:39,590
+just like with normal unarmed attacks
+with regard to his third action San has
+
+710
+00:15:39,590 --> 00:15:39,600
+with regard to his third action San has
+ 
+
+711
+00:15:39,600 --> 00:15:41,749
+with regard to his third action San has
+some options including making another
+
+712
+00:15:41,749 --> 00:15:41,759
+some options including making another
+ 
+
+713
+00:15:41,759 --> 00:15:43,790
+some options including making another
+attack at the maximum multiple attack
+
+714
+00:15:43,790 --> 00:15:43,800
+attack at the maximum multiple attack
+ 
+
+715
+00:15:43,800 --> 00:15:46,470
+attack at the maximum multiple attack
+penalty moving away making a Recon
+
+716
+00:15:46,470 --> 00:15:46,480
+penalty moving away making a Recon
+ 
+
+717
+00:15:46,480 --> 00:15:48,790
+penalty moving away making a Recon
+knowledge check and more but one thing
+
+718
+00:15:48,790 --> 00:15:48,800
+knowledge check and more but one thing
+ 
+
+719
+00:15:48,800 --> 00:15:51,389
+knowledge check and more but one thing
+he absolutely cannot do with his third
+
+720
+00:15:51,389 --> 00:15:51,399
+he absolutely cannot do with his third
+ 
+
+721
+00:15:51,399 --> 00:15:54,069
+he absolutely cannot do with his third
+action is activate Mountain stance in
+
+722
+00:15:54,069 --> 00:15:54,079
+action is activate Mountain stance in
+ 
+
+723
+00:15:54,079 --> 00:15:56,069
+action is activate Mountain stance in
+preparation of the soldier attacking him
+
+724
+00:15:56,069 --> 00:15:56,079
+preparation of the soldier attacking him
+ 
+
+725
+00:15:56,079 --> 00:15:59,389
+preparation of the soldier attacking him
+back stances are limited so that players
+
+726
+00:15:59,389 --> 00:15:59,399
+back stances are limited so that players
+ 
+
+727
+00:15:59,399 --> 00:16:01,749
+back stances are limited so that players
+may only enter a new stance once per
+
+728
+00:16:01,749 --> 00:16:01,759
+may only enter a new stance once per
+ 
+
+729
+00:16:01,759 --> 00:16:05,030
+may only enter a new stance once per
+round so since San used his first action
+
+730
+00:16:05,030 --> 00:16:05,040
+round so since San used his first action
+ 
+
+731
+00:16:05,040 --> 00:16:07,670
+round so since San used his first action
+on this round to enter dragon stance he
+
+732
+00:16:07,670 --> 00:16:07,680
+on this round to enter dragon stance he
+ 
+
+733
+00:16:07,680 --> 00:16:09,749
+on this round to enter dragon stance he
+can't spend his third action to enter
+
+734
+00:16:09,749 --> 00:16:09,759
+can't spend his third action to enter
+ 
+
+735
+00:16:09,759 --> 00:16:13,069
+can't spend his third action to enter
+Mountain stance and increase his AC and
+
+736
+00:16:13,069 --> 00:16:13,079
+Mountain stance and increase his AC and
+ 
+
+737
+00:16:13,079 --> 00:16:15,309
+Mountain stance and increase his AC and
+it may also be worth noting that you may
+
+738
+00:16:15,309 --> 00:16:15,319
+it may also be worth noting that you may
+ 
+
+739
+00:16:15,319 --> 00:16:18,509
+it may also be worth noting that you may
+only enter a stance while in encounter
+
+740
+00:16:18,509 --> 00:16:18,519
+only enter a stance while in encounter
+ 
+
+741
+00:16:18,519 --> 00:16:21,870
+only enter a stance while in encounter
+mode you couldn't for example enter The
+
+742
+00:16:21,870 --> 00:16:21,880
+mode you couldn't for example enter The
+ 
+
+743
+00:16:21,880 --> 00:16:24,550
+mode you couldn't for example enter The
+Stance while in Exploration mode in
+
+744
+00:16:24,550 --> 00:16:24,560
+Stance while in Exploration mode in
+ 
+
+745
+00:16:24,560 --> 00:16:27,030
+Stance while in Exploration mode in
+anticipation of an encounter you would
+
+746
+00:16:27,030 --> 00:16:27,040
+anticipation of an encounter you would
+ 
+
+747
+00:16:27,040 --> 00:16:29,189
+anticipation of an encounter you would
+have to wait until after initiative is
+
+748
+00:16:29,189 --> 00:16:29,199
+have to wait until after initiative is
+ 
+
+749
+00:16:29,199 --> 00:16:31,749
+have to wait until after initiative is
+rolled and on your first turn in that
+
+750
+00:16:31,749 --> 00:16:31,759
+rolled and on your first turn in that
+ 
+
+751
+00:16:31,759 --> 00:16:36,030
+rolled and on your first turn in that
+combat encounter before you enter any
+
+752
+00:16:36,030 --> 00:16:36,040
+combat encounter before you enter any
+ 
+
+753
+00:16:36,040 --> 00:16:38,389
+combat encounter before you enter any
+stances those are the basics of how
+
+754
+00:16:38,389 --> 00:16:38,399
+stances those are the basics of how
+ 
+
+755
+00:16:38,399 --> 00:16:40,629
+stances those are the basics of how
+stances work but there is one more
+
+756
+00:16:40,629 --> 00:16:40,639
+stances work but there is one more
+ 
+
+757
+00:16:40,639 --> 00:16:43,430
+stances work but there is one more
+stance worth mentioning here monastic
+
+758
+00:16:43,430 --> 00:16:43,440
+stance worth mentioning here monastic
+ 
+
+759
+00:16:43,440 --> 00:16:46,790
+stance worth mentioning here monastic
+Archer stance allows a monk to use a bow
+
+760
+00:16:46,790 --> 00:16:46,800
+Archer stance allows a monk to use a bow
+ 
+
+761
+00:16:46,800 --> 00:16:48,230
+Archer stance allows a monk to use a bow
+with Flurry of
+
+762
+00:16:48,230 --> 00:16:48,240
+with Flurry of
+ 
+
+763
+00:16:48,240 --> 00:16:51,150
+with Flurry of
+Blows as with the other stances we've
+
+764
+00:16:51,150 --> 00:16:51,160
+Blows as with the other stances we've
+ 
+
+765
+00:16:51,160 --> 00:16:53,509
+Blows as with the other stances we've
+looked at it takes one action to enter a
+
+766
+00:16:53,509 --> 00:16:53,519
+looked at it takes one action to enter a
+ 
+
+767
+00:16:53,519 --> 00:16:56,189
+looked at it takes one action to enter a
+monastic Archer stance and while in The
+
+768
+00:16:56,189 --> 00:16:56,199
+monastic Archer stance and while in The
+ 
+
+769
+00:16:56,199 --> 00:16:58,910
+monastic Archer stance and while in The
+Stance the only strikes a monk can make
+
+770
+00:16:58,910 --> 00:16:58,920
+Stance the only strikes a monk can make
+ 
+
+771
+00:16:58,920 --> 00:17:01,670
+Stance the only strikes a monk can make
+are with bows they cannot make their
+
+772
+00:17:01,670 --> 00:17:01,680
+are with bows they cannot make their
+ 
+
+773
+00:17:01,680 --> 00:17:04,150
+are with bows they cannot make their
+usual unarmed melee attacks or swing
+
+774
+00:17:04,150 --> 00:17:04,160
+usual unarmed melee attacks or swing
+ 
+
+775
+00:17:04,160 --> 00:17:06,789
+usual unarmed melee attacks or swing
+their bow like a melee weapon but they
+
+776
+00:17:06,789 --> 00:17:06,799
+their bow like a melee weapon but they
+ 
+
+777
+00:17:06,799 --> 00:17:09,270
+their bow like a melee weapon but they
+can fire their bow twice with Flurry of
+
+778
+00:17:09,270 --> 00:17:09,280
+can fire their bow twice with Flurry of
+ 
+
+779
+00:17:09,280 --> 00:17:12,150
+can fire their bow twice with Flurry of
+Blows and use their bow for any monk
+
+780
+00:17:12,150 --> 00:17:12,160
+Blows and use their bow for any monk
+ 
+
+781
+00:17:12,160 --> 00:17:14,470
+Blows and use their bow for any monk
+ability or feat that normally calls for
+
+782
+00:17:14,470 --> 00:17:14,480
+ability or feat that normally calls for
+ 
+
+783
+00:17:14,480 --> 00:17:17,750
+ability or feat that normally calls for
+an unarmed attack unless it specifies a
+
+784
+00:17:17,750 --> 00:17:17,760
+an unarmed attack unless it specifies a
+ 
+
+785
+00:17:17,760 --> 00:17:20,470
+an unarmed attack unless it specifies a
+specific strike this may only be done
+
+786
+00:17:20,470 --> 00:17:20,480
+specific strike this may only be done
+ 
+
+787
+00:17:20,480 --> 00:17:22,669
+specific strike this may only be done
+when attacking within half of the first
+
+788
+00:17:22,669 --> 00:17:22,679
+when attacking within half of the first
+ 
+
+789
+00:17:22,679 --> 00:17:26,110
+when attacking within half of the first
+range increment so what this means is
+
+790
+00:17:26,110 --> 00:17:26,120
+range increment so what this means is
+ 
+
+791
+00:17:26,120 --> 00:17:29,470
+range increment so what this means is
+any ability that has the monk trait and
+
+792
+00:17:29,470 --> 00:17:29,480
+any ability that has the monk trait and
+ 
+
+793
+00:17:29,480 --> 00:17:33,390
+any ability that has the monk trait and
+includes the text make an unarmed strike
+
+794
+00:17:33,390 --> 00:17:33,400
+includes the text make an unarmed strike
+ 
+
+795
+00:17:33,400 --> 00:17:35,950
+includes the text make an unarmed strike
+can be delivered at range with a bow
+
+796
+00:17:35,950 --> 00:17:35,960
+can be delivered at range with a bow
+ 
+
+797
+00:17:35,960 --> 00:17:38,350
+can be delivered at range with a bow
+while in this stance this includes
+
+798
+00:17:38,350 --> 00:17:38,360
+while in this stance this includes
+ 
+
+799
+00:17:38,360 --> 00:17:40,750
+while in this stance this includes
+things like one- inch punch knockback
+
+800
+00:17:40,750 --> 00:17:40,760
+things like one- inch punch knockback
+ 
+
+801
+00:17:40,760 --> 00:17:43,549
+things like one- inch punch knockback
+strike disrupt key and shattering strike
+
+802
+00:17:43,549 --> 00:17:43,559
+strike disrupt key and shattering strike
+ 
+
+803
+00:17:43,559 --> 00:17:47,230
+strike disrupt key and shattering strike
+as well as key spells such as inner
+
+804
+00:17:47,230 --> 00:17:47,240
+as well as key spells such as inner
+ 
+
+805
+00:17:47,240 --> 00:17:49,870
+as well as key spells such as inner
+upheaval and while we're on the topic of
+
+806
+00:17:49,870 --> 00:17:49,880
+upheaval and while we're on the topic of
+ 
+
+807
+00:17:49,880 --> 00:17:52,110
+upheaval and while we're on the topic of
+weapons we should discuss the monastic
+
+808
+00:17:52,110 --> 00:17:52,120
+weapons we should discuss the monastic
+ 
+
+809
+00:17:52,120 --> 00:17:56,070
+weapons we should discuss the monastic
+Weaponry feet this isn't a stance but is
+
+810
+00:17:56,070 --> 00:17:56,080
+Weaponry feet this isn't a stance but is
+ 
+
+811
+00:17:56,080 --> 00:17:58,149
+Weaponry feet this isn't a stance but is
+an optional first level feat that
+
+812
+00:17:58,149 --> 00:17:58,159
+an optional first level feat that
+ 
+
+813
+00:17:58,159 --> 00:18:00,590
+an optional first level feat that
+expands the types of weapons a monk can
+
+814
+00:18:00,590 --> 00:18:00,600
+expands the types of weapons a monk can
+ 
+
+815
+00:18:00,600 --> 00:18:03,710
+expands the types of weapons a monk can
+use by default monks are only proficient
+
+816
+00:18:03,710 --> 00:18:03,720
+use by default monks are only proficient
+ 
+
+817
+00:18:03,720 --> 00:18:06,870
+use by default monks are only proficient
+with simple weapons and unarmed attacks
+
+818
+00:18:06,870 --> 00:18:06,880
+with simple weapons and unarmed attacks
+ 
+
+819
+00:18:06,880 --> 00:18:08,909
+with simple weapons and unarmed attacks
+the monastic Weaponry feat grants
+
+820
+00:18:08,909 --> 00:18:08,919
+the monastic Weaponry feat grants
+ 
+
+821
+00:18:08,919 --> 00:18:10,950
+the monastic Weaponry feat grants
+trained proficiency with simple and
+
+822
+00:18:10,950 --> 00:18:10,960
+trained proficiency with simple and
+ 
+
+823
+00:18:10,960 --> 00:18:14,230
+trained proficiency with simple and
+Marshall monk weapons and proficiency
+
+824
+00:18:14,230 --> 00:18:14,240
+Marshall monk weapons and proficiency
+ 
+
+825
+00:18:14,240 --> 00:18:16,630
+Marshall monk weapons and proficiency
+with these weapons increases whenever
+
+826
+00:18:16,630 --> 00:18:16,640
+with these weapons increases whenever
+ 
+
+827
+00:18:16,640 --> 00:18:19,230
+with these weapons increases whenever
+the Monk's unarmed attack proficiency
+
+828
+00:18:19,230 --> 00:18:19,240
+the Monk's unarmed attack proficiency
+ 
+
+829
+00:18:19,240 --> 00:18:22,149
+the Monk's unarmed attack proficiency
+increases in addition any agile or
+
+830
+00:18:22,149 --> 00:18:22,159
+increases in addition any agile or
+ 
+
+831
+00:18:22,159 --> 00:18:24,310
+increases in addition any agile or
+finesse weapons you have access to from
+
+832
+00:18:24,310 --> 00:18:24,320
+finesse weapons you have access to from
+ 
+
+833
+00:18:24,320 --> 00:18:27,029
+finesse weapons you have access to from
+a familiarity feat also gain the monk
+
+834
+00:18:27,029 --> 00:18:27,039
+a familiarity feat also gain the monk
+ 
+
+835
+00:18:27,039 --> 00:18:29,390
+a familiarity feat also gain the monk
+trait and you can use these weapons to
+
+836
+00:18:29,390 --> 00:18:29,400
+trait and you can use these weapons to
+ 
+
+837
+00:18:29,400 --> 00:18:31,990
+trait and you can use these weapons to
+deliver monk abilities just like with
+
+838
+00:18:31,990 --> 00:18:32,000
+deliver monk abilities just like with
+ 
+
+839
+00:18:32,000 --> 00:18:35,070
+deliver monk abilities just like with
+monastic Archer stance the only main
+
+840
+00:18:35,070 --> 00:18:35,080
+monastic Archer stance the only main
+ 
+
+841
+00:18:35,080 --> 00:18:36,909
+monastic Archer stance the only main
+difference being you don't have to be in
+
+842
+00:18:36,909 --> 00:18:36,919
+difference being you don't have to be in
+ 
+
+843
+00:18:36,919 --> 00:18:39,470
+difference being you don't have to be in
+a stance to benefit from the monastic
+
+844
+00:18:39,470 --> 00:18:39,480
+a stance to benefit from the monastic
+ 
+
+845
+00:18:39,480 --> 00:18:42,390
+a stance to benefit from the monastic
+Weaponry feat you could for example
+
+846
+00:18:42,390 --> 00:18:42,400
+Weaponry feat you could for example
+ 
+
+847
+00:18:42,400 --> 00:18:45,390
+Weaponry feat you could for example
+deliver a 1-in punch with a fighting fan
+
+848
+00:18:45,390 --> 00:18:45,400
+deliver a 1-in punch with a fighting fan
+ 
+
+849
+00:18:45,400 --> 00:18:48,950
+deliver a 1-in punch with a fighting fan
+or perform a knockback strike with a bow
+
+850
+00:18:48,950 --> 00:18:48,960
+or perform a knockback strike with a bow
+ 
+
+851
+00:18:48,960 --> 00:18:51,310
+or perform a knockback strike with a bow
+staff in addition to stances and
+
+852
+00:18:51,310 --> 00:18:51,320
+staff in addition to stances and
+ 
+
+853
+00:18:51,320 --> 00:18:53,830
+staff in addition to stances and
+monastic Weaponry the third optional
+
+854
+00:18:53,830 --> 00:18:53,840
+monastic Weaponry the third optional
+ 
+
+855
+00:18:53,840 --> 00:18:57,350
+monastic Weaponry the third optional
+path for monks is key spells key spells
+
+856
+00:18:57,350 --> 00:18:57,360
+path for monks is key spells key spells
+ 
+
+857
+00:18:57,360 --> 00:18:59,270
+path for monks is key spells key spells
+is a first level monk Fe
+
+858
+00:18:59,270 --> 00:18:59,280
+is a first level monk Fe
+ 
+
+859
+00:18:59,280 --> 00:19:01,230
+is a first level monk Fe
+that allows the monk to harness their
+
+860
+00:19:01,230 --> 00:19:01,240
+that allows the monk to harness their
+ 
+
+861
+00:19:01,240 --> 00:19:03,830
+that allows the monk to harness their
+inner Life Force to produce magical
+
+862
+00:19:03,830 --> 00:19:03,840
+inner Life Force to produce magical
+ 
+
+863
+00:19:03,840 --> 00:19:07,029
+inner Life Force to produce magical
+effects in the form of focus spells when
+
+864
+00:19:07,029 --> 00:19:07,039
+effects in the form of focus spells when
+ 
+
+865
+00:19:07,039 --> 00:19:09,270
+effects in the form of focus spells when
+you take this feat you first need to
+
+866
+00:19:09,270 --> 00:19:09,280
+you take this feat you first need to
+ 
+
+867
+00:19:09,280 --> 00:19:11,549
+you take this feat you first need to
+decide if your key spells will be divine
+
+868
+00:19:11,549 --> 00:19:11,559
+decide if your key spells will be divine
+ 
+
+869
+00:19:11,559 --> 00:19:14,110
+decide if your key spells will be divine
+or occult and you gain trained
+
+870
+00:19:14,110 --> 00:19:14,120
+or occult and you gain trained
+ 
+
+871
+00:19:14,120 --> 00:19:16,190
+or occult and you gain trained
+proficiency with those spell attacks and
+
+872
+00:19:16,190 --> 00:19:16,200
+proficiency with those spell attacks and
+ 
+
+873
+00:19:16,200 --> 00:19:19,630
+proficiency with those spell attacks and
+spell DCS wisdom is used as the ability
+
+874
+00:19:19,630 --> 00:19:19,640
+spell DCS wisdom is used as the ability
+ 
+
+875
+00:19:19,640 --> 00:19:22,750
+spell DCS wisdom is used as the ability
+modifier when calculating these you also
+
+876
+00:19:22,750 --> 00:19:22,760
+modifier when calculating these you also
+ 
+
+877
+00:19:22,760 --> 00:19:25,789
+modifier when calculating these you also
+gain one Focus point that can be spent
+
+878
+00:19:25,789 --> 00:19:25,799
+gain one Focus point that can be spent
+ 
+
+879
+00:19:25,799 --> 00:19:28,149
+gain one Focus point that can be spent
+and replenished as normal for Focus
+
+880
+00:19:28,149 --> 00:19:28,159
+and replenished as normal for Focus
+ 
+
+881
+00:19:28,159 --> 00:19:29,230
+and replenished as normal for Focus
+points
+
+882
+00:19:29,230 --> 00:19:29,240
+points
+ 
+
+883
+00:19:29,240 --> 00:19:31,430
+points
+and as part of this feat you get to
+
+884
+00:19:31,430 --> 00:19:31,440
+and as part of this feat you get to
+ 
+
+885
+00:19:31,440 --> 00:19:34,990
+and as part of this feat you get to
+choose one first rank key spell such as
+
+886
+00:19:34,990 --> 00:19:35,000
+choose one first rank key spell such as
+ 
+
+887
+00:19:35,000 --> 00:19:37,789
+choose one first rank key spell such as
+inner upheaval this spell costs one
+
+888
+00:19:37,789 --> 00:19:37,799
+inner upheaval this spell costs one
+ 
+
+889
+00:19:37,799 --> 00:19:39,950
+inner upheaval this spell costs one
+action and one Focus point to cast the
+
+890
+00:19:39,950 --> 00:19:39,960
+action and one Focus point to cast the
+ 
+
+891
+00:19:39,960 --> 00:19:42,430
+action and one Focus point to cast the
+spell and let you make one unarmed
+
+892
+00:19:42,430 --> 00:19:42,440
+spell and let you make one unarmed
+ 
+
+893
+00:19:42,440 --> 00:19:45,750
+spell and let you make one unarmed
+attack or FL of blows with a plus one
+
+894
+00:19:45,750 --> 00:19:45,760
+attack or FL of blows with a plus one
+ 
+
+895
+00:19:45,760 --> 00:19:48,230
+attack or FL of blows with a plus one
+status bonus to attack rolls and an
+
+896
+00:19:48,230 --> 00:19:48,240
+status bonus to attack rolls and an
+ 
+
+897
+00:19:48,240 --> 00:19:50,710
+status bonus to attack rolls and an
+additional 1d6 to damage rolls that is
+
+898
+00:19:50,710 --> 00:19:50,720
+additional 1d6 to damage rolls that is
+ 
+
+899
+00:19:50,720 --> 00:19:52,750
+additional 1d6 to damage rolls that is
+of a damage type of you're choosing
+
+900
+00:19:52,750 --> 00:19:52,760
+of a damage type of you're choosing
+ 
+
+901
+00:19:52,760 --> 00:19:56,430
+of a damage type of you're choosing
+between force Spirit vitality and void
+
+902
+00:19:56,430 --> 00:19:56,440
+between force Spirit vitality and void
+ 
+
+903
+00:19:56,440 --> 00:19:59,350
+between force Spirit vitality and void
+and just like with all Focus spells key
+
+904
+00:19:59,350 --> 00:19:59,360
+and just like with all Focus spells key
+ 
+
+905
+00:19:59,360 --> 00:20:01,510
+and just like with all Focus spells key
+spells automatically heighten to half
+
+906
+00:20:01,510 --> 00:20:01,520
+spells automatically heighten to half
+ 
+
+907
+00:20:01,520 --> 00:20:04,149
+spells automatically heighten to half
+your level rounded up this feat can be
+
+908
+00:20:04,149 --> 00:20:04,159
+your level rounded up this feat can be
+ 
+
+909
+00:20:04,159 --> 00:20:06,549
+your level rounded up this feat can be
+taken multiple times to gain access to
+
+910
+00:20:06,549 --> 00:20:06,559
+taken multiple times to gain access to
+ 
+
+911
+00:20:06,559 --> 00:20:09,789
+taken multiple times to gain access to
+multiple first rank key Spells at sixth
+
+912
+00:20:09,789 --> 00:20:09,799
+multiple first rank key Spells at sixth
+ 
+
+913
+00:20:09,799 --> 00:20:12,070
+multiple first rank key Spells at sixth
+level monks can take the advanced key
+
+914
+00:20:12,070 --> 00:20:12,080
+level monks can take the advanced key
+ 
+
+915
+00:20:12,080 --> 00:20:14,789
+level monks can take the advanced key
+spells feet that grants access to third
+
+916
+00:20:14,789 --> 00:20:14,799
+spells feet that grants access to third
+ 
+
+917
+00:20:14,799 --> 00:20:18,029
+spells feet that grants access to third
+rank key spells master key Spells at
+
+918
+00:20:18,029 --> 00:20:18,039
+rank key spells master key Spells at
+ 
+
+919
+00:20:18,039 --> 00:20:21,230
+rank key spells master key Spells at
+16th level grants access to eighth rank
+
+920
+00:20:21,230 --> 00:20:21,240
+16th level grants access to eighth rank
+ 
+
+921
+00:20:21,240 --> 00:20:24,789
+16th level grants access to eighth rank
+key spells and Grandmaster key spells
+
+922
+00:20:24,789 --> 00:20:24,799
+key spells and Grandmaster key spells
+ 
+
+923
+00:20:24,799 --> 00:20:28,270
+key spells and Grandmaster key spells
+grants access to ninth rank key spells
+
+924
+00:20:28,270 --> 00:20:28,280
+grants access to ninth rank key spells
+ 
+
+925
+00:20:28,280 --> 00:20:29,190
+grants access to ninth rank key spells
+in addition
+
+926
+00:20:29,190 --> 00:20:29,200
+in addition
+ 
+
+927
+00:20:29,200 --> 00:20:31,789
+in addition
+several Feats like Harmon self Grant
+
+928
+00:20:31,789 --> 00:20:31,799
+several Feats like Harmon self Grant
+ 
+
+929
+00:20:31,799 --> 00:20:35,430
+several Feats like Harmon self Grant
+access to specific key spells and others
+
+930
+00:20:35,430 --> 00:20:35,440
+access to specific key spells and others
+ 
+
+931
+00:20:35,440 --> 00:20:38,110
+access to specific key spells and others
+like clinging Shadows initiate Grant key
+
+932
+00:20:38,110 --> 00:20:38,120
+like clinging Shadows initiate Grant key
+ 
+
+933
+00:20:38,120 --> 00:20:41,110
+like clinging Shadows initiate Grant key
+spells that provide new stances as
+
+934
+00:20:41,110 --> 00:20:41,120
+spells that provide new stances as
+ 
+
+935
+00:20:41,120 --> 00:20:44,470
+spells that provide new stances as
+well and there are a few other Feats of
+
+936
+00:20:44,470 --> 00:20:44,480
+well and there are a few other Feats of
+ 
+
+937
+00:20:44,480 --> 00:20:46,830
+well and there are a few other Feats of
+note but as mentioned before this video
+
+938
+00:20:46,830 --> 00:20:46,840
+note but as mentioned before this video
+ 
+
+939
+00:20:46,840 --> 00:20:48,870
+note but as mentioned before this video
+is for newer players so we'll only be
+
+940
+00:20:48,870 --> 00:20:48,880
+is for newer players so we'll only be
+ 
+
+941
+00:20:48,880 --> 00:20:51,830
+is for newer players so we'll only be
+focusing on the lower levels first
+
+942
+00:20:51,830 --> 00:20:51,840
+focusing on the lower levels first
+ 
+
+943
+00:20:51,840 --> 00:20:54,310
+focusing on the lower levels first
+flurry of Maneuvers available at fourth
+
+944
+00:20:54,310 --> 00:20:54,320
+flurry of Maneuvers available at fourth
+ 
+
+945
+00:20:54,320 --> 00:20:57,149
+flurry of Maneuvers available at fourth
+level allows you to substitute one or
+
+946
+00:20:57,149 --> 00:20:57,159
+level allows you to substitute one or
+ 
+
+947
+00:20:57,159 --> 00:20:59,549
+level allows you to substitute one or
+both of the Flur of blow those attacks
+
+948
+00:20:59,549 --> 00:20:59,559
+both of the Flur of blow those attacks
+ 
+
+949
+00:20:59,559 --> 00:21:02,350
+both of the Flur of blow those attacks
+with grapples repositions shoves or
+
+950
+00:21:02,350 --> 00:21:02,360
+with grapples repositions shoves or
+ 
+
+951
+00:21:02,360 --> 00:21:04,870
+with grapples repositions shoves or
+trips but remember all of these
+
+952
+00:21:04,870 --> 00:21:04,880
+trips but remember all of these
+ 
+
+953
+00:21:04,880 --> 00:21:07,710
+trips but remember all of these
+Maneuvers have the attack trait meaning
+
+954
+00:21:07,710 --> 00:21:07,720
+Maneuvers have the attack trait meaning
+ 
+
+955
+00:21:07,720 --> 00:21:09,710
+Maneuvers have the attack trait meaning
+they receive and apply the multiple
+
+956
+00:21:09,710 --> 00:21:09,720
+they receive and apply the multiple
+ 
+
+957
+00:21:09,720 --> 00:21:11,909
+they receive and apply the multiple
+attack penalty just like with normal
+
+958
+00:21:11,909 --> 00:21:11,919
+attack penalty just like with normal
+ 
+
+959
+00:21:11,919 --> 00:21:14,630
+attack penalty just like with normal
+strikes so if you use the second strike
+
+960
+00:21:14,630 --> 00:21:14,640
+strikes so if you use the second strike
+ 
+
+961
+00:21:14,640 --> 00:21:16,669
+strikes so if you use the second strike
+of Flur of blows for one of these
+
+962
+00:21:16,669 --> 00:21:16,679
+of Flur of blows for one of these
+ 
+
+963
+00:21:16,679 --> 00:21:19,870
+of Flur of blows for one of these
+Maneuvers it will be rolled with a ne5
+
+964
+00:21:19,870 --> 00:21:19,880
+Maneuvers it will be rolled with a ne5
+ 
+
+965
+00:21:19,880 --> 00:21:23,149
+Maneuvers it will be rolled with a ne5
+penalty as normal one staple of fantasy
+
+966
+00:21:23,149 --> 00:21:23,159
+penalty as normal one staple of fantasy
+ 
+
+967
+00:21:23,159 --> 00:21:25,830
+penalty as normal one staple of fantasy
+martial arts is swatting arrows out of
+
+968
+00:21:25,830 --> 00:21:25,840
+martial arts is swatting arrows out of
+ 
+
+969
+00:21:25,840 --> 00:21:28,630
+martial arts is swatting arrows out of
+the air this is accomplished with the
+
+970
+00:21:28,630 --> 00:21:28,640
+the air this is accomplished with the
+ 
+
+971
+00:21:28,640 --> 00:21:31,230
+the air this is accomplished with the
+deflect projectile feet that allows a
+
+972
+00:21:31,230 --> 00:21:31,240
+deflect projectile feet that allows a
+ 
+
+973
+00:21:31,240 --> 00:21:33,310
+deflect projectile feet that allows a
+mon to spend their reaction to gain a
+
+974
+00:21:33,310 --> 00:21:33,320
+mon to spend their reaction to gain a
+ 
+
+975
+00:21:33,320 --> 00:21:35,789
+mon to spend their reaction to gain a
+plus4 bonus to armor class against a
+
+976
+00:21:35,789 --> 00:21:35,799
+plus4 bonus to armor class against a
+ 
+
+977
+00:21:35,799 --> 00:21:38,750
+plus4 bonus to armor class against a
+physical ranged attack note that the
+
+978
+00:21:38,750 --> 00:21:38,760
+physical ranged attack note that the
+ 
+
+979
+00:21:38,760 --> 00:21:41,789
+physical ranged attack note that the
+trigger here is when you are the target
+
+980
+00:21:41,789 --> 00:21:41,799
+trigger here is when you are the target
+ 
+
+981
+00:21:41,799 --> 00:21:44,549
+trigger here is when you are the target
+of the attack meaning this reaction must
+
+982
+00:21:44,549 --> 00:21:44,559
+of the attack meaning this reaction must
+ 
+
+983
+00:21:44,559 --> 00:21:47,430
+of the attack meaning this reaction must
+be declared before dice are rolled and
+
+984
+00:21:47,430 --> 00:21:47,440
+be declared before dice are rolled and
+ 
+
+985
+00:21:47,440 --> 00:21:50,669
+be declared before dice are rolled and
+success or failure is announced monks
+
+986
+00:21:50,669 --> 00:21:50,679
+success or failure is announced monks
+ 
+
+987
+00:21:50,679 --> 00:21:52,909
+success or failure is announced monks
+don't get reactive strikes like some
+
+988
+00:21:52,909 --> 00:21:52,919
+don't get reactive strikes like some
+ 
+
+989
+00:21:52,919 --> 00:21:56,110
+don't get reactive strikes like some
+other Marshall classes but they can take
+
+990
+00:21:56,110 --> 00:21:56,120
+other Marshall classes but they can take
+ 
+
+991
+00:21:56,120 --> 00:21:59,390
+other Marshall classes but they can take
+the stand still feet to gain a similar
+
+992
+00:21:59,390 --> 00:21:59,400
+the stand still feet to gain a similar
+ 
+
+993
+00:21:59,400 --> 00:22:01,870
+the stand still feet to gain a similar
+reaction it works in much the same way
+
+994
+00:22:01,870 --> 00:22:01,880
+reaction it works in much the same way
+ 
+
+995
+00:22:01,880 --> 00:22:04,390
+reaction it works in much the same way
+as reactive strike except it doesn't
+
+996
+00:22:04,390 --> 00:22:04,400
+as reactive strike except it doesn't
+ 
+
+997
+00:22:04,400 --> 00:22:06,350
+as reactive strike except it doesn't
+trigger on manipulate actions or
+
+998
+00:22:06,350 --> 00:22:06,360
+trigger on manipulate actions or
+ 
+
+999
+00:22:06,360 --> 00:22:08,750
+trigger on manipulate actions or
+arranged attacks and instead of
+
+1000
+00:22:08,750 --> 00:22:08,760
+arranged attacks and instead of
+ 
+
+1001
+00:22:08,760 --> 00:22:10,590
+arranged attacks and instead of
+disrupting manipulate attacks like
+
+1002
+00:22:10,590 --> 00:22:10,600
+disrupting manipulate attacks like
+ 
+
+1003
+00:22:10,600 --> 00:22:13,269
+disrupting manipulate attacks like
+casting a spell stand still disrupts
+
+1004
+00:22:13,269 --> 00:22:13,279
+casting a spell stand still disrupts
+ 
+
+1005
+00:22:13,279 --> 00:22:15,950
+casting a spell stand still disrupts
+movement meaning if an enemy tries to
+
+1006
+00:22:15,950 --> 00:22:15,960
+movement meaning if an enemy tries to
+ 
+
+1007
+00:22:15,960 --> 00:22:18,549
+movement meaning if an enemy tries to
+use the stri action to run away you can
+
+1008
+00:22:18,549 --> 00:22:18,559
+use the stri action to run away you can
+ 
+
+1009
+00:22:18,559 --> 00:22:20,870
+use the stri action to run away you can
+spend your reaction to make a melee
+
+1010
+00:22:20,870 --> 00:22:20,880
+spend your reaction to make a melee
+ 
+
+1011
+00:22:20,880 --> 00:22:23,630
+spend your reaction to make a melee
+strike and if that strike is a critical
+
+1012
+00:22:23,630 --> 00:22:23,640
+strike and if that strike is a critical
+ 
+
+1013
+00:22:23,640 --> 00:22:26,470
+strike and if that strike is a critical
+hit the stride is disrupted and the
+
+1014
+00:22:26,470 --> 00:22:26,480
+hit the stride is disrupted and the
+ 
+
+1015
+00:22:26,480 --> 00:22:29,830
+hit the stride is disrupted and the
+enemy remains standing adjacent to you
+
+1016
+00:22:29,830 --> 00:22:29,840
+enemy remains standing adjacent to you
+ 
+
+1017
+00:22:29,840 --> 00:22:32,630
+enemy remains standing adjacent to you
+and another feat we'll mention is 1in
+
+1018
+00:22:32,630 --> 00:22:32,640
+and another feat we'll mention is 1in
+ 
+
+1019
+00:22:32,640 --> 00:22:34,549
+and another feat we'll mention is 1in
+punch which allows you to gain
+
+1020
+00:22:34,549 --> 00:22:34,559
+punch which allows you to gain
+ 
+
+1021
+00:22:34,559 --> 00:22:36,990
+punch which allows you to gain
+additional damage dice at the cost of
+
+1022
+00:22:36,990 --> 00:22:37,000
+additional damage dice at the cost of
+ 
+
+1023
+00:22:37,000 --> 00:22:39,230
+additional damage dice at the cost of
+spending two or three actions for the
+
+1024
+00:22:39,230 --> 00:22:39,240
+spending two or three actions for the
+ 
+
+1025
+00:22:39,240 --> 00:22:42,510
+spending two or three actions for the
+strike two actions adds one die and
+
+1026
+00:22:42,510 --> 00:22:42,520
+strike two actions adds one die and
+ 
+
+1027
+00:22:42,520 --> 00:22:45,510
+strike two actions adds one die and
+three actions adds two and this number
+
+1028
+00:22:45,510 --> 00:22:45,520
+three actions adds two and this number
+ 
+
+1029
+00:22:45,520 --> 00:22:48,070
+three actions adds two and this number
+of additional dice increases at 10th and
+
+1030
+00:22:48,070 --> 00:22:48,080
+of additional dice increases at 10th and
+ 
+
+1031
+00:22:48,080 --> 00:22:49,510
+of additional dice increases at 10th and
+18th
+
+1032
+00:22:49,510 --> 00:22:49,520
+18th
+ 
+
+1033
+00:22:49,520 --> 00:22:52,230
+18th
+level those are the general basics for
+
+1034
+00:22:52,230 --> 00:22:52,240
+level those are the general basics for
+ 
+
+1035
+00:22:52,240 --> 00:22:54,630
+level those are the general basics for
+the mechanics at play with monks but we
+
+1036
+00:22:54,630 --> 00:22:54,640
+the mechanics at play with monks but we
+ 
+
+1037
+00:22:54,640 --> 00:22:57,310
+the mechanics at play with monks but we
+should also discuss gear especially
+
+1038
+00:22:57,310 --> 00:22:57,320
+should also discuss gear especially
+ 
+
+1039
+00:22:57,320 --> 00:22:59,870
+should also discuss gear especially
+since by default monks avoid wearing
+
+1040
+00:22:59,870 --> 00:22:59,880
+since by default monks avoid wearing
+ 
+
+1041
+00:22:59,880 --> 00:23:03,350
+since by default monks avoid wearing
+armor and have limited access to weapons
+
+1042
+00:23:03,350 --> 00:23:03,360
+armor and have limited access to weapons
+ 
+
+1043
+00:23:03,360 --> 00:23:05,510
+armor and have limited access to weapons
+one common question that comes up is how
+
+1044
+00:23:05,510 --> 00:23:05,520
+one common question that comes up is how
+ 
+
+1045
+00:23:05,520 --> 00:23:08,110
+one common question that comes up is how
+does a monk keep Pace with other classes
+
+1046
+00:23:08,110 --> 00:23:08,120
+does a monk keep Pace with other classes
+ 
+
+1047
+00:23:08,120 --> 00:23:10,149
+does a monk keep Pace with other classes
+when they have no armor and no weapons
+
+1048
+00:23:10,149 --> 00:23:10,159
+when they have no armor and no weapons
+ 
+
+1049
+00:23:10,159 --> 00:23:13,549
+when they have no armor and no weapons
+to attach runes to and the simple answer
+
+1050
+00:23:13,549 --> 00:23:13,559
+to attach runes to and the simple answer
+ 
+
+1051
+00:23:13,559 --> 00:23:15,789
+to attach runes to and the simple answer
+is that they do have ways to use runes
+
+1052
+00:23:15,789 --> 00:23:15,799
+is that they do have ways to use runes
+ 
+
+1053
+00:23:15,799 --> 00:23:18,710
+is that they do have ways to use runes
+just like these other classes the first
+
+1054
+00:23:18,710 --> 00:23:18,720
+just like these other classes the first
+ 
+
+1055
+00:23:18,720 --> 00:23:21,630
+just like these other classes the first
+piece of gear that most monks will want
+
+1056
+00:23:21,630 --> 00:23:21,640
+piece of gear that most monks will want
+ 
+
+1057
+00:23:21,640 --> 00:23:25,029
+piece of gear that most monks will want
+is a set of Explorer clothing Explorer
+
+1058
+00:23:25,029 --> 00:23:25,039
+is a set of Explorer clothing Explorer
+ 
+
+1059
+00:23:25,039 --> 00:23:27,710
+is a set of Explorer clothing Explorer
+clothing is technically not armor but
+
+1060
+00:23:27,710 --> 00:23:27,720
+clothing is technically not armor but
+ 
+
+1061
+00:23:27,720 --> 00:23:30,549
+clothing is technically not armor but
+can be with armor runes that don't
+
+1062
+00:23:30,549 --> 00:23:30,559
+can be with armor runes that don't
+ 
+
+1063
+00:23:30,559 --> 00:23:33,830
+can be with armor runes that don't
+specify an armor category for example a
+
+1064
+00:23:33,830 --> 00:23:33,840
+specify an armor category for example a
+ 
+
+1065
+00:23:33,840 --> 00:23:36,149
+specify an armor category for example a
+monk can etch a suit of Explorer
+
+1066
+00:23:36,149 --> 00:23:36,159
+monk can etch a suit of Explorer
+ 
+
+1067
+00:23:36,159 --> 00:23:38,549
+monk can etch a suit of Explorer
+clothing with a plus one armor potency
+
+1068
+00:23:38,549 --> 00:23:38,559
+clothing with a plus one armor potency
+ 
+
+1069
+00:23:38,559 --> 00:23:41,350
+clothing with a plus one armor potency
+Rune a resilient Rune and a size
+
+1070
+00:23:41,350 --> 00:23:41,360
+Rune a resilient Rune and a size
+ 
+
+1071
+00:23:41,360 --> 00:23:44,110
+Rune a resilient Rune and a size
+changing Rune making it plus one
+
+1072
+00:23:44,110 --> 00:23:44,120
+changing Rune making it plus one
+ 
+
+1073
+00:23:44,120 --> 00:23:46,909
+changing Rune making it plus one
+resilient size changing Explorer's
+
+1074
+00:23:46,909 --> 00:23:46,919
+resilient size changing Explorer's
+ 
+
+1075
+00:23:46,919 --> 00:23:49,789
+resilient size changing Explorer's
+clothing just like it was regular armor
+
+1076
+00:23:49,789 --> 00:23:49,799
+clothing just like it was regular armor
+ 
+
+1077
+00:23:49,799 --> 00:23:51,750
+clothing just like it was regular armor
+but the monk wearing it is still
+
+1078
+00:23:51,750 --> 00:23:51,760
+but the monk wearing it is still
+ 
+
+1079
+00:23:51,760 --> 00:23:54,549
+but the monk wearing it is still
+considered to be unarmored so they can
+
+1080
+00:23:54,549 --> 00:23:54,559
+considered to be unarmored so they can
+ 
+
+1081
+00:23:54,559 --> 00:23:56,549
+considered to be unarmored so they can
+use stances and other abilities that
+
+1082
+00:23:56,549 --> 00:23:56,559
+use stances and other abilities that
+ 
+
+1083
+00:23:56,559 --> 00:23:59,390
+use stances and other abilities that
+require you to be unarmed armored but
+
+1084
+00:23:59,390 --> 00:23:59,400
+require you to be unarmed armored but
+ 
+
+1085
+00:23:59,400 --> 00:24:01,149
+require you to be unarmed armored but
+remember the one restriction that
+
+1086
+00:24:01,149 --> 00:24:01,159
+remember the one restriction that
+ 
+
+1087
+00:24:01,159 --> 00:24:03,310
+remember the one restriction that
+explores clothing is not considered to
+
+1088
+00:24:03,310 --> 00:24:03,320
+explores clothing is not considered to
+ 
+
+1089
+00:24:03,320 --> 00:24:06,510
+explores clothing is not considered to
+be any kind of armor for example it does
+
+1090
+00:24:06,510 --> 00:24:06,520
+be any kind of armor for example it does
+ 
+
+1091
+00:24:06,520 --> 00:24:09,909
+be any kind of armor for example it does
+not belong to the light armor group and
+
+1092
+00:24:09,909 --> 00:24:09,919
+not belong to the light armor group and
+ 
+
+1093
+00:24:09,919 --> 00:24:12,350
+not belong to the light armor group and
+therefore you cannot place any runes on
+
+1094
+00:24:12,350 --> 00:24:12,360
+therefore you cannot place any runes on
+ 
+
+1095
+00:24:12,360 --> 00:24:14,870
+therefore you cannot place any runes on
+it that require a light armor or medium
+
+1096
+00:24:14,870 --> 00:24:14,880
+it that require a light armor or medium
+ 
+
+1097
+00:24:14,880 --> 00:24:16,909
+it that require a light armor or medium
+or heavy armor for that matter for
+
+1098
+00:24:16,909 --> 00:24:16,919
+or heavy armor for that matter for
+ 
+
+1099
+00:24:16,919 --> 00:24:19,430
+or heavy armor for that matter for
+example you cannot place a shadow Rune
+
+1100
+00:24:19,430 --> 00:24:19,440
+example you cannot place a shadow Rune
+ 
+
+1101
+00:24:19,440 --> 00:24:22,830
+example you cannot place a shadow Rune
+on Explorer's clothing and the second
+
+1102
+00:24:22,830 --> 00:24:22,840
+on Explorer's clothing and the second
+ 
+
+1103
+00:24:22,840 --> 00:24:25,149
+on Explorer's clothing and the second
+piece of gear worth mentioning is hand
+
+1104
+00:24:25,149 --> 00:24:25,159
+piece of gear worth mentioning is hand
+ 
+
+1105
+00:24:25,159 --> 00:24:28,070
+piece of gear worth mentioning is hand
+wraps of Mighty blows these do for the
+
+1106
+00:24:28,070 --> 00:24:28,080
+wraps of Mighty blows these do for the
+ 
+
+1107
+00:24:28,080 --> 00:24:30,510
+wraps of Mighty blows these do for the
+monks offense what explorer clothing
+
+1108
+00:24:30,510 --> 00:24:30,520
+monks offense what explorer clothing
+ 
+
+1109
+00:24:30,520 --> 00:24:33,350
+monks offense what explorer clothing
+does for defense so as you might expect
+
+1110
+00:24:33,350 --> 00:24:33,360
+does for defense so as you might expect
+ 
+
+1111
+00:24:33,360 --> 00:24:35,789
+does for defense so as you might expect
+hand wraps of Mighty blows work
+
+1112
+00:24:35,789 --> 00:24:35,799
+hand wraps of Mighty blows work
+ 
+
+1113
+00:24:35,799 --> 00:24:38,029
+hand wraps of Mighty blows work
+basically the same way allowing you to
+
+1114
+00:24:38,029 --> 00:24:38,039
+basically the same way allowing you to
+ 
+
+1115
+00:24:38,039 --> 00:24:40,310
+basically the same way allowing you to
+etch weapon fundamental and property
+
+1116
+00:24:40,310 --> 00:24:40,320
+etch weapon fundamental and property
+ 
+
+1117
+00:24:40,320 --> 00:24:43,430
+etch weapon fundamental and property
+runes to them to enhance your unarmed
+
+1118
+00:24:43,430 --> 00:24:43,440
+runes to them to enhance your unarmed
+ 
+
+1119
+00:24:43,440 --> 00:24:46,110
+runes to them to enhance your unarmed
+attacks this allows a monk's attack and
+
+1120
+00:24:46,110 --> 00:24:46,120
+attacks this allows a monk's attack and
+ 
+
+1121
+00:24:46,120 --> 00:24:48,669
+attacks this allows a monk's attack and
+damage with unarmed attacks to progress
+
+1122
+00:24:48,669 --> 00:24:48,679
+damage with unarmed attacks to progress
+ 
+
+1123
+00:24:48,679 --> 00:24:50,789
+damage with unarmed attacks to progress
+along with other weapon wielding
+
+1124
+00:24:50,789 --> 00:24:50,799
+along with other weapon wielding
+ 
+
+1125
+00:24:50,799 --> 00:24:53,590
+along with other weapon wielding
+characters but there are two points to
+
+1126
+00:24:53,590 --> 00:24:53,600
+characters but there are two points to
+ 
+
+1127
+00:24:53,600 --> 00:24:57,750
+characters but there are two points to
+keep in mind first these hand WS modify
+
+1128
+00:24:57,750 --> 00:24:57,760
+keep in mind first these hand WS modify
+ 
+
+1129
+00:24:57,760 --> 00:25:00,590
+keep in mind first these hand WS modify
+all unarmed attacks not just punches for
+
+1130
+00:25:00,590 --> 00:25:00,600
+all unarmed attacks not just punches for
+ 
+
+1131
+00:25:00,600 --> 00:25:04,310
+all unarmed attacks not just punches for
+fist attacks they also modify kicks bite
+
+1132
+00:25:04,310 --> 00:25:04,320
+fist attacks they also modify kicks bite
+ 
+
+1133
+00:25:04,320 --> 00:25:07,389
+fist attacks they also modify kicks bite
+attacks tail swipes and any other attack
+
+1134
+00:25:07,389 --> 00:25:07,399
+attacks tail swipes and any other attack
+ 
+
+1135
+00:25:07,399 --> 00:25:10,590
+attacks tail swipes and any other attack
+that has the unarmed trait and yes this
+
+1136
+00:25:10,590 --> 00:25:10,600
+that has the unarmed trait and yes this
+ 
+
+1137
+00:25:10,600 --> 00:25:13,950
+that has the unarmed trait and yes this
+does include a lesi cactus spines and
+
+1138
+00:25:13,950 --> 00:25:13,960
+does include a lesi cactus spines and
+ 
+
+1139
+00:25:13,960 --> 00:25:16,909
+does include a lesi cactus spines and
+their arranged SE pod attacks as well
+
+1140
+00:25:16,909 --> 00:25:16,919
+their arranged SE pod attacks as well
+ 
+
+1141
+00:25:16,919 --> 00:25:19,430
+their arranged SE pod attacks as well
+for example an orc with the Tusk feet
+
+1142
+00:25:19,430 --> 00:25:19,440
+for example an orc with the Tusk feet
+ 
+
+1143
+00:25:19,440 --> 00:25:21,909
+for example an orc with the Tusk feet
+and wearing plus one striking holy hand
+
+1144
+00:25:21,909 --> 00:25:21,919
+and wearing plus one striking holy hand
+ 
+
+1145
+00:25:21,919 --> 00:25:25,110
+and wearing plus one striking holy hand
+wraps of Mighty blows receives a plus
+
+1146
+00:25:25,110 --> 00:25:25,120
+wraps of Mighty blows receives a plus
+ 
+
+1147
+00:25:25,120 --> 00:25:28,029
+wraps of Mighty blows receives a plus
+one item bonus to attack rolls and extra
+
+1148
+00:25:28,029 --> 00:25:28,039
+one item bonus to attack rolls and extra
+ 
+
+1149
+00:25:28,039 --> 00:25:31,310
+one item bonus to attack rolls and extra
+damage damage die and an additional 1 D4
+
+1150
+00:25:31,310 --> 00:25:31,320
+damage damage die and an additional 1 D4
+ 
+
+1151
+00:25:31,320 --> 00:25:35,110
+damage damage die and an additional 1 D4
+Spirit damage or 2 D4 to Unholy targets
+
+1152
+00:25:35,110 --> 00:25:35,120
+Spirit damage or 2 D4 to Unholy targets
+ 
+
+1153
+00:25:35,120 --> 00:25:38,510
+Spirit damage or 2 D4 to Unholy targets
+with all unarmed attacks including again
+
+1154
+00:25:38,510 --> 00:25:38,520
+with all unarmed attacks including again
+ 
+
+1155
+00:25:38,520 --> 00:25:42,029
+with all unarmed attacks including again
+punches kicks and yes their Tusk attacks
+
+1156
+00:25:42,029 --> 00:25:42,039
+punches kicks and yes their Tusk attacks
+ 
+
+1157
+00:25:42,039 --> 00:25:43,590
+punches kicks and yes their Tusk attacks
+and the second thing to keep in mind
+
+1158
+00:25:43,590 --> 00:25:43,600
+and the second thing to keep in mind
+ 
+
+1159
+00:25:43,600 --> 00:25:46,190
+and the second thing to keep in mind
+with runes and hand wraps is you can
+
+1160
+00:25:46,190 --> 00:25:46,200
+with runes and hand wraps is you can
+ 
+
+1161
+00:25:46,200 --> 00:25:48,149
+with runes and hand wraps is you can
+etch them with property runes that
+
+1162
+00:25:48,149 --> 00:25:48,159
+etch them with property runes that
+ 
+
+1163
+00:25:48,159 --> 00:25:50,029
+etch them with property runes that
+normally are restricted to certain
+
+1164
+00:25:50,029 --> 00:25:50,039
+normally are restricted to certain
+ 
+
+1165
+00:25:50,039 --> 00:25:52,950
+normally are restricted to certain
+damaged types other than bludgeoning but
+
+1166
+00:25:52,950 --> 00:25:52,960
+damaged types other than bludgeoning but
+ 
+
+1167
+00:25:52,960 --> 00:25:55,590
+damaged types other than bludgeoning but
+they only function when making unarmed
+
+1168
+00:25:55,590 --> 00:25:55,600
+they only function when making unarmed
+ 
+
+1169
+00:25:55,600 --> 00:25:58,950
+they only function when making unarmed
+attacks that deal that damage type
+
+1170
+00:25:58,950 --> 00:25:58,960
+attacks that deal that damage type
+ 
+
+1171
+00:25:58,960 --> 00:26:01,590
+attacks that deal that damage type
+for example Keen runes require the
+
+1172
+00:26:01,590 --> 00:26:01,600
+for example Keen runes require the
+ 
+
+1173
+00:26:01,600 --> 00:26:03,750
+for example Keen runes require the
+weapon they're attached to to deal
+
+1174
+00:26:03,750 --> 00:26:03,760
+weapon they're attached to to deal
+ 
+
+1175
+00:26:03,760 --> 00:26:06,630
+weapon they're attached to to deal
+piercing or slashing damage but normal
+
+1176
+00:26:06,630 --> 00:26:06,640
+piercing or slashing damage but normal
+ 
+
+1177
+00:26:06,640 --> 00:26:09,510
+piercing or slashing damage but normal
+unarmed attacks deal beding damage if
+
+1178
+00:26:09,510 --> 00:26:09,520
+unarmed attacks deal beding damage if
+ 
+
+1179
+00:26:09,520 --> 00:26:11,510
+unarmed attacks deal beding damage if
+this was a hammer you wouldn't be able
+
+1180
+00:26:11,510 --> 00:26:11,520
+this was a hammer you wouldn't be able
+ 
+
+1181
+00:26:11,520 --> 00:26:14,590
+this was a hammer you wouldn't be able
+to place a keen run on it but hand wraps
+
+1182
+00:26:14,590 --> 00:26:14,600
+to place a keen run on it but hand wraps
+ 
+
+1183
+00:26:14,600 --> 00:26:17,830
+to place a keen run on it but hand wraps
+work differently you can etch a keen
+
+1184
+00:26:17,830 --> 00:26:17,840
+work differently you can etch a keen
+ 
+
+1185
+00:26:17,840 --> 00:26:20,549
+work differently you can etch a keen
+Rune on them or any similar Rune but
+
+1186
+00:26:20,549 --> 00:26:20,559
+Rune on them or any similar Rune but
+ 
+
+1187
+00:26:20,559 --> 00:26:22,669
+Rune on them or any similar Rune but
+they only provide their bonus when
+
+1188
+00:26:22,669 --> 00:26:22,679
+they only provide their bonus when
+ 
+
+1189
+00:26:22,679 --> 00:26:25,549
+they only provide their bonus when
+dealing that kind of damage for example
+
+1190
+00:26:25,549 --> 00:26:25,559
+dealing that kind of damage for example
+ 
+
+1191
+00:26:25,559 --> 00:26:28,630
+dealing that kind of damage for example
+when a monk enters tiger stance and
+
+1192
+00:26:28,630 --> 00:26:28,640
+when a monk enters tiger stance and
+ 
+
+1193
+00:26:28,640 --> 00:26:32,269
+when a monk enters tiger stance and
+slashing damage with their unarmed
+
+1194
+00:26:32,269 --> 00:26:32,279
+slashing damage with their unarmed
+ 
+
+1195
+00:26:32,279 --> 00:26:34,750
+slashing damage with their unarmed
+attacks so there you have it a look at
+
+1196
+00:26:34,750 --> 00:26:34,760
+attacks so there you have it a look at
+ 
+
+1197
+00:26:34,760 --> 00:26:36,830
+attacks so there you have it a look at
+the foundational mechanics you'll want
+
+1198
+00:26:36,830 --> 00:26:36,840
+the foundational mechanics you'll want
+ 
+
+1199
+00:26:36,840 --> 00:26:39,430
+the foundational mechanics you'll want
+to know before playing a month if you
+
+1200
+00:26:39,430 --> 00:26:39,440
+to know before playing a month if you
+ 
+
+1201
+00:26:39,440 --> 00:26:40,950
+to know before playing a month if you
+have any questions please leave them in
+
+1202
+00:26:40,950 --> 00:26:40,960
+have any questions please leave them in
+ 
+
+1203
+00:26:40,960 --> 00:26:43,110
+have any questions please leave them in
+the comments and I would like to take a
+
+1204
+00:26:43,110 --> 00:26:43,120
+the comments and I would like to take a
+ 
+
+1205
+00:26:43,120 --> 00:26:44,669
+the comments and I would like to take a
+quick moment to thank everyone who
+
+1206
+00:26:44,669 --> 00:26:44,679
+quick moment to thank everyone who
+ 
+
+1207
+00:26:44,679 --> 00:26:46,510
+quick moment to thank everyone who
+supports me whether if that's by
+
+1208
+00:26:46,510 --> 00:26:46,520
+supports me whether if that's by
+ 
+
+1209
+00:26:46,520 --> 00:26:48,389
+supports me whether if that's by
+clicking the like button subscribing to
+
+1210
+00:26:48,389 --> 00:26:48,399
+clicking the like button subscribing to
+ 
+
+1211
+00:26:48,399 --> 00:26:50,190
+clicking the like button subscribing to
+the channel subscribing to the patreon
+
+1212
+00:26:50,190 --> 00:26:50,200
+the channel subscribing to the patreon
+ 
+
+1213
+00:26:50,200 --> 00:26:52,190
+the channel subscribing to the patreon
+or buying a super thanks I greatly
+
+1214
+00:26:52,190 --> 00:26:52,200
+or buying a super thanks I greatly
+ 
+
+1215
+00:26:52,200 --> 00:26:54,029
+or buying a super thanks I greatly
+appreciate everything you do to support
+
+1216
+00:26:54,029 --> 00:26:54,039
+appreciate everything you do to support
+ 
+
+1217
+00:26:54,039 --> 00:26:56,470
+appreciate everything you do to support
+me and with that thanks for watching
+
+1218
+00:26:56,470 --> 00:26:56,480
+me and with that thanks for watching
+ 
+
+1219
+00:26:56,480 --> 00:27:00,020
+me and with that thanks for watching
+take care and happy gaming
+
+1220
+00:27:00,020 --> 00:27:00,030
+take care and happy gaming
+ 
+
+1221
+00:27:00,030 --> 00:27:14,179
+take care and happy gaming
+[Music]
+

@@ -1,0 +1,1875 @@
+1
+00:00:01,040 --> 00:00:02,869
+
+hello and welcome to monster abilities
+
+2
+00:00:02,869 --> 00:00:02,879
+hello and welcome to monster abilities
+ 
+
+3
+00:00:02,879 --> 00:00:05,190
+hello and welcome to monster abilities
+in pathfinder 2nd edition part 4.
+
+4
+00:00:05,190 --> 00:00:05,200
+in pathfinder 2nd edition part 4.
+ 
+
+5
+00:00:05,200 --> 00:00:07,030
+in pathfinder 2nd edition part 4.
+in this video we'll be discussing knock
+
+6
+00:00:07,030 --> 00:00:07,040
+in this video we'll be discussing knock
+ 
+
+7
+00:00:07,040 --> 00:00:08,390
+in this video we'll be discussing knock
+down push and
+
+8
+00:00:08,390 --> 00:00:08,400
+down push and
+ 
+
+9
+00:00:08,400 --> 00:00:12,789
+down push and
+rend knockdown allows certain attacks to
+
+10
+00:00:12,789 --> 00:00:12,799
+rend knockdown allows certain attacks to
+ 
+
+11
+00:00:12,799 --> 00:00:14,470
+rend knockdown allows certain attacks to
+not only damage an enemy but
+
+12
+00:00:14,470 --> 00:00:14,480
+not only damage an enemy but
+ 
+
+13
+00:00:14,480 --> 00:00:16,870
+not only damage an enemy but
+also knock the target to the ground this
+
+14
+00:00:16,870 --> 00:00:16,880
+also knock the target to the ground this
+ 
+
+15
+00:00:16,880 --> 00:00:19,029
+also knock the target to the ground this
+works in much the same way as the grab
+
+16
+00:00:19,029 --> 00:00:19,039
+works in much the same way as the grab
+ 
+
+17
+00:00:19,039 --> 00:00:20,470
+works in much the same way as the grab
+monster ability that we discussed in
+
+18
+00:00:20,470 --> 00:00:20,480
+monster ability that we discussed in
+ 
+
+19
+00:00:20,480 --> 00:00:22,630
+monster ability that we discussed in
+part one of the series when a monster
+
+20
+00:00:22,630 --> 00:00:22,640
+part one of the series when a monster
+ 
+
+21
+00:00:22,640 --> 00:00:23,830
+part one of the series when a monster
+successfully hits an
+
+22
+00:00:23,830 --> 00:00:23,840
+successfully hits an
+ 
+
+23
+00:00:23,840 --> 00:00:25,589
+successfully hits an
+enemy with an attack that includes the
+
+24
+00:00:25,589 --> 00:00:25,599
+enemy with an attack that includes the
+ 
+
+25
+00:00:25,599 --> 00:00:28,470
+enemy with an attack that includes the
+words plus knockdown in his damage entry
+
+26
+00:00:28,470 --> 00:00:28,480
+words plus knockdown in his damage entry
+ 
+
+27
+00:00:28,480 --> 00:00:30,630
+words plus knockdown in his damage entry
+it does not automatically knock the
+
+28
+00:00:30,630 --> 00:00:30,640
+it does not automatically knock the
+ 
+
+29
+00:00:30,640 --> 00:00:31,910
+it does not automatically knock the
+target prone
+
+30
+00:00:31,910 --> 00:00:31,920
+target prone
+ 
+
+31
+00:00:31,920 --> 00:00:34,470
+target prone
+instead what plus knockdown means is the
+
+32
+00:00:34,470 --> 00:00:34,480
+instead what plus knockdown means is the
+ 
+
+33
+00:00:34,480 --> 00:00:35,430
+instead what plus knockdown means is the
+monster has the
+
+34
+00:00:35,430 --> 00:00:35,440
+monster has the
+ 
+
+35
+00:00:35,440 --> 00:00:37,430
+monster has the
+option of imposing the prone condition
+
+36
+00:00:37,430 --> 00:00:37,440
+option of imposing the prone condition
+ 
+
+37
+00:00:37,440 --> 00:00:39,030
+option of imposing the prone condition
+on the target of the attack
+
+38
+00:00:39,030 --> 00:00:39,040
+on the target of the attack
+ 
+
+39
+00:00:39,040 --> 00:00:42,470
+on the target of the attack
+but must spend one extra action to do so
+
+40
+00:00:42,470 --> 00:00:42,480
+but must spend one extra action to do so
+ 
+
+41
+00:00:42,480 --> 00:00:44,150
+but must spend one extra action to do so
+while prone the character is also
+
+42
+00:00:44,150 --> 00:00:44,160
+while prone the character is also
+ 
+
+43
+00:00:44,160 --> 00:00:46,389
+while prone the character is also
+flat-footed and suffers a negative two
+
+44
+00:00:46,389 --> 00:00:46,399
+flat-footed and suffers a negative two
+ 
+
+45
+00:00:46,399 --> 00:00:48,310
+flat-footed and suffers a negative two
+circumstance penalty to both armor class
+
+46
+00:00:48,310 --> 00:00:48,320
+circumstance penalty to both armor class
+ 
+
+47
+00:00:48,320 --> 00:00:49,590
+circumstance penalty to both armor class
+and attack rolls
+
+48
+00:00:49,590 --> 00:00:49,600
+and attack rolls
+ 
+
+49
+00:00:49,600 --> 00:00:51,910
+and attack rolls
+the only move actions a person can use
+
+50
+00:00:51,910 --> 00:00:51,920
+the only move actions a person can use
+ 
+
+51
+00:00:51,920 --> 00:00:54,069
+the only move actions a person can use
+while prone are crawl and stand which
+
+52
+00:00:54,069 --> 00:00:54,079
+while prone are crawl and stand which
+ 
+
+53
+00:00:54,079 --> 00:00:56,310
+while prone are crawl and stand which
+immediately removes the prone condition
+
+54
+00:00:56,310 --> 00:00:56,320
+immediately removes the prone condition
+ 
+
+55
+00:00:56,320 --> 00:00:58,150
+immediately removes the prone condition
+and while you're prone you can spend
+
+56
+00:00:58,150 --> 00:00:58,160
+and while you're prone you can spend
+ 
+
+57
+00:00:58,160 --> 00:01:00,310
+and while you're prone you can spend
+one action on the take cover action and
+
+58
+00:01:00,310 --> 00:01:00,320
+one action on the take cover action and
+ 
+
+59
+00:01:00,320 --> 00:01:02,229
+one action on the take cover action and
+receive the benefits of greater cover
+
+60
+00:01:02,229 --> 00:01:02,239
+receive the benefits of greater cover
+ 
+
+61
+00:01:02,239 --> 00:01:03,430
+receive the benefits of greater cover
+against range attacks
+
+62
+00:01:03,430 --> 00:01:03,440
+against range attacks
+ 
+
+63
+00:01:03,440 --> 00:01:05,189
+against range attacks
+even if you don't meet the usual
+
+64
+00:01:05,189 --> 00:01:05,199
+even if you don't meet the usual
+ 
+
+65
+00:01:05,199 --> 00:01:07,030
+even if you don't meet the usual
+requirements of having an object to hide
+
+66
+00:01:07,030 --> 00:01:07,040
+requirements of having an object to hide
+ 
+
+67
+00:01:07,040 --> 00:01:07,830
+requirements of having an object to hide
+behind
+
+68
+00:01:07,830 --> 00:01:07,840
+behind
+ 
+
+69
+00:01:07,840 --> 00:01:10,070
+behind
+this grants a plus 4 circumstance bonus
+
+70
+00:01:10,070 --> 00:01:10,080
+this grants a plus 4 circumstance bonus
+ 
+
+71
+00:01:10,080 --> 00:01:11,510
+this grants a plus 4 circumstance bonus
+to armor class against
+
+72
+00:01:11,510 --> 00:01:11,520
+to armor class against
+ 
+
+73
+00:01:11,520 --> 00:01:14,310
+to armor class against
+range attacks only but remember you're
+
+74
+00:01:14,310 --> 00:01:14,320
+range attacks only but remember you're
+ 
+
+75
+00:01:14,320 --> 00:01:14,870
+range attacks only but remember you're
+still
+
+76
+00:01:14,870 --> 00:01:14,880
+still
+ 
+
+77
+00:01:14,880 --> 00:01:17,270
+still
+flat-footed also which imposes a
+
+78
+00:01:17,270 --> 00:01:17,280
+flat-footed also which imposes a
+ 
+
+79
+00:01:17,280 --> 00:01:18,710
+flat-footed also which imposes a
+negative 2 penalty
+
+80
+00:01:18,710 --> 00:01:18,720
+negative 2 penalty
+ 
+
+81
+00:01:18,720 --> 00:01:21,109
+negative 2 penalty
+meaning when you are prone and use the
+
+82
+00:01:21,109 --> 00:01:21,119
+meaning when you are prone and use the
+ 
+
+83
+00:01:21,119 --> 00:01:22,310
+meaning when you are prone and use the
+take cover action
+
+84
+00:01:22,310 --> 00:01:22,320
+take cover action
+ 
+
+85
+00:01:22,320 --> 00:01:24,950
+take cover action
+you receive a net plus 2 to your armor
+
+86
+00:01:24,950 --> 00:01:24,960
+you receive a net plus 2 to your armor
+ 
+
+87
+00:01:24,960 --> 00:01:26,630
+you receive a net plus 2 to your armor
+class against range attacks
+
+88
+00:01:26,630 --> 00:01:26,640
+class against range attacks
+ 
+
+89
+00:01:26,640 --> 00:01:29,510
+class against range attacks
+and suffer a negative 2 penalty against
+
+90
+00:01:29,510 --> 00:01:29,520
+and suffer a negative 2 penalty against
+ 
+
+91
+00:01:29,520 --> 00:01:30,789
+and suffer a negative 2 penalty against
+melee attacks
+
+92
+00:01:30,789 --> 00:01:30,799
+melee attacks
+ 
+
+93
+00:01:30,799 --> 00:01:32,550
+melee attacks
+also note that this cover bonus while
+
+94
+00:01:32,550 --> 00:01:32,560
+also note that this cover bonus while
+ 
+
+95
+00:01:32,560 --> 00:01:34,789
+also note that this cover bonus while
+prone only applies to armor class and
+
+96
+00:01:34,789 --> 00:01:34,799
+prone only applies to armor class and
+ 
+
+97
+00:01:34,799 --> 00:01:37,030
+prone only applies to armor class and
+does not apply to reflex savings throws
+
+98
+00:01:37,030 --> 00:01:37,040
+does not apply to reflex savings throws
+ 
+
+99
+00:01:37,040 --> 00:01:39,830
+does not apply to reflex savings throws
+like with the normal greater cover bonus
+
+100
+00:01:39,830 --> 00:01:39,840
+like with the normal greater cover bonus
+ 
+
+101
+00:01:39,840 --> 00:01:41,910
+like with the normal greater cover bonus
+so the key to using knockdown is to
+
+102
+00:01:41,910 --> 00:01:41,920
+so the key to using knockdown is to
+ 
+
+103
+00:01:41,920 --> 00:01:43,109
+so the key to using knockdown is to
+remember it costs
+
+104
+00:01:43,109 --> 00:01:43,119
+remember it costs
+ 
+
+105
+00:01:43,119 --> 00:01:45,109
+remember it costs
+two actions one to attack with an
+
+106
+00:01:45,109 --> 00:01:45,119
+two actions one to attack with an
+ 
+
+107
+00:01:45,119 --> 00:01:46,789
+two actions one to attack with an
+ability that includes knockdown in its
+
+108
+00:01:46,789 --> 00:01:46,799
+ability that includes knockdown in its
+ 
+
+109
+00:01:46,799 --> 00:01:47,749
+ability that includes knockdown in its
+damage entry
+
+110
+00:01:47,749 --> 00:01:47,759
+damage entry
+ 
+
+111
+00:01:47,759 --> 00:01:50,310
+damage entry
+and if that hits you can spend a second
+
+112
+00:01:50,310 --> 00:01:50,320
+and if that hits you can spend a second
+ 
+
+113
+00:01:50,320 --> 00:01:52,710
+and if that hits you can spend a second
+action to apply prone to the target
+
+114
+00:01:52,710 --> 00:01:52,720
+action to apply prone to the target
+ 
+
+115
+00:01:52,720 --> 00:01:55,429
+action to apply prone to the target
+this is with normal knockdown but there
+
+116
+00:01:55,429 --> 00:01:55,439
+this is with normal knockdown but there
+ 
+
+117
+00:01:55,439 --> 00:01:55,830
+this is with normal knockdown but there
+is an
+
+118
+00:01:55,830 --> 00:01:55,840
+is an
+ 
+
+119
+00:01:55,840 --> 00:01:58,310
+is an
+advanced form called improved knockdown
+
+120
+00:01:58,310 --> 00:01:58,320
+advanced form called improved knockdown
+ 
+
+121
+00:01:58,320 --> 00:02:00,230
+advanced form called improved knockdown
+which works exactly like a regular
+
+122
+00:02:00,230 --> 00:02:00,240
+which works exactly like a regular
+ 
+
+123
+00:02:00,240 --> 00:02:00,789
+which works exactly like a regular
+knockdown
+
+124
+00:02:00,789 --> 00:02:00,799
+knockdown
+ 
+
+125
+00:02:00,799 --> 00:02:03,350
+knockdown
+except it can be used as a free action
+
+126
+00:02:03,350 --> 00:02:03,360
+except it can be used as a free action
+ 
+
+127
+00:02:03,360 --> 00:02:05,350
+except it can be used as a free action
+so basically when an attack hits with
+
+128
+00:02:05,350 --> 00:02:05,360
+so basically when an attack hits with
+ 
+
+129
+00:02:05,360 --> 00:02:07,590
+so basically when an attack hits with
+improved knockdown then in that case the
+
+130
+00:02:07,590 --> 00:02:07,600
+improved knockdown then in that case the
+ 
+
+131
+00:02:07,600 --> 00:02:08,550
+improved knockdown then in that case the
+target is
+
+132
+00:02:08,550 --> 00:02:08,560
+target is
+ 
+
+133
+00:02:08,560 --> 00:02:12,550
+target is
+automatically rendered prone
+
+134
+00:02:12,550 --> 00:02:12,560
+
+ 
+
+135
+00:02:12,560 --> 00:02:14,869
+
+next up we have push which functions a
+
+136
+00:02:14,869 --> 00:02:14,879
+next up we have push which functions a
+ 
+
+137
+00:02:14,879 --> 00:02:16,630
+next up we have push which functions a
+lot like knock down and grab
+
+138
+00:02:16,630 --> 00:02:16,640
+lot like knock down and grab
+ 
+
+139
+00:02:16,640 --> 00:02:18,790
+lot like knock down and grab
+when you see an attack that has a damage
+
+140
+00:02:18,790 --> 00:02:18,800
+when you see an attack that has a damage
+ 
+
+141
+00:02:18,800 --> 00:02:19,830
+when you see an attack that has a damage
+entry that says
+
+142
+00:02:19,830 --> 00:02:19,840
+entry that says
+ 
+
+143
+00:02:19,840 --> 00:02:22,790
+entry that says
+plus push x mini feet it doesn't mean
+
+144
+00:02:22,790 --> 00:02:22,800
+plus push x mini feet it doesn't mean
+ 
+
+145
+00:02:22,800 --> 00:02:24,150
+plus push x mini feet it doesn't mean
+that the target of the attack is
+
+146
+00:02:24,150 --> 00:02:24,160
+that the target of the attack is
+ 
+
+147
+00:02:24,160 --> 00:02:25,670
+that the target of the attack is
+automatically pushed back when they're
+
+148
+00:02:25,670 --> 00:02:25,680
+automatically pushed back when they're
+ 
+
+149
+00:02:25,680 --> 00:02:26,229
+automatically pushed back when they're
+hit
+
+150
+00:02:26,229 --> 00:02:26,239
+hit
+ 
+
+151
+00:02:26,239 --> 00:02:27,830
+hit
+it means that the monster who made the
+
+152
+00:02:27,830 --> 00:02:27,840
+it means that the monster who made the
+ 
+
+153
+00:02:27,840 --> 00:02:29,750
+it means that the monster who made the
+attack has the option of spending
+
+154
+00:02:29,750 --> 00:02:29,760
+attack has the option of spending
+ 
+
+155
+00:02:29,760 --> 00:02:32,630
+attack has the option of spending
+one action more in order to apply the
+
+156
+00:02:32,630 --> 00:02:32,640
+one action more in order to apply the
+ 
+
+157
+00:02:32,640 --> 00:02:33,030
+one action more in order to apply the
+push
+
+158
+00:02:33,030 --> 00:02:33,040
+push
+ 
+
+159
+00:02:33,040 --> 00:02:35,910
+push
+effect and if they have improved push
+
+160
+00:02:35,910 --> 00:02:35,920
+effect and if they have improved push
+ 
+
+161
+00:02:35,920 --> 00:02:37,670
+effect and if they have improved push
+instead of regular push then it works
+
+162
+00:02:37,670 --> 00:02:37,680
+instead of regular push then it works
+ 
+
+163
+00:02:37,680 --> 00:02:39,110
+instead of regular push then it works
+just like with knockdown and improved
+
+164
+00:02:39,110 --> 00:02:39,120
+just like with knockdown and improved
+ 
+
+165
+00:02:39,120 --> 00:02:39,910
+just like with knockdown and improved
+knockdown
+
+166
+00:02:39,910 --> 00:02:39,920
+knockdown
+ 
+
+167
+00:02:39,920 --> 00:02:42,309
+knockdown
+meaning improved push can be used as a
+
+168
+00:02:42,309 --> 00:02:42,319
+meaning improved push can be used as a
+ 
+
+169
+00:02:42,319 --> 00:02:43,509
+meaning improved push can be used as a
+free action
+
+170
+00:02:43,509 --> 00:02:43,519
+free action
+ 
+
+171
+00:02:43,519 --> 00:02:45,030
+free action
+if the monster does apply the push
+
+172
+00:02:45,030 --> 00:02:45,040
+if the monster does apply the push
+ 
+
+173
+00:02:45,040 --> 00:02:46,949
+if the monster does apply the push
+effect then the target of the attack is
+
+174
+00:02:46,949 --> 00:02:46,959
+effect then the target of the attack is
+ 
+
+175
+00:02:46,959 --> 00:02:48,710
+effect then the target of the attack is
+moved back the listed number of feet
+
+176
+00:02:48,710 --> 00:02:48,720
+moved back the listed number of feet
+ 
+
+177
+00:02:48,720 --> 00:02:49,990
+moved back the listed number of feet
+which defaults to 5
+
+178
+00:02:49,990 --> 00:02:50,000
+which defaults to 5
+ 
+
+179
+00:02:50,000 --> 00:02:52,550
+which defaults to 5
+feet if no distance is listed and on a
+
+180
+00:02:52,550 --> 00:02:52,560
+feet if no distance is listed and on a
+ 
+
+181
+00:02:52,560 --> 00:02:53,270
+feet if no distance is listed and on a
+critical hit
+
+182
+00:02:53,270 --> 00:02:53,280
+critical hit
+ 
+
+183
+00:02:53,280 --> 00:02:55,270
+critical hit
+the amount of distance moved to back is
+
+184
+00:02:55,270 --> 00:02:55,280
+the amount of distance moved to back is
+ 
+
+185
+00:02:55,280 --> 00:02:58,149
+the amount of distance moved to back is
+doubled this is a form of forced
+
+186
+00:02:58,149 --> 00:02:58,159
+doubled this is a form of forced
+ 
+
+187
+00:02:58,159 --> 00:02:58,710
+doubled this is a form of forced
+movement
+
+188
+00:02:58,710 --> 00:02:58,720
+movement
+ 
+
+189
+00:02:58,720 --> 00:03:00,949
+movement
+so the gm determines the path the target
+
+190
+00:03:00,949 --> 00:03:00,959
+so the gm determines the path the target
+ 
+
+191
+00:03:00,959 --> 00:03:03,270
+so the gm determines the path the target
+follows which should be legal as long as
+
+192
+00:03:03,270 --> 00:03:03,280
+follows which should be legal as long as
+ 
+
+193
+00:03:03,280 --> 00:03:04,710
+follows which should be legal as long as
+it's a fairly straight line
+
+194
+00:03:04,710 --> 00:03:04,720
+it's a fairly straight line
+ 
+
+195
+00:03:04,720 --> 00:03:06,390
+it's a fairly straight line
+and each square the target moves through
+
+196
+00:03:06,390 --> 00:03:06,400
+and each square the target moves through
+ 
+
+197
+00:03:06,400 --> 00:03:08,550
+and each square the target moves through
+is further away from the monster than
+
+198
+00:03:08,550 --> 00:03:08,560
+is further away from the monster than
+ 
+
+199
+00:03:08,560 --> 00:03:09,990
+is further away from the monster than
+the previous square
+
+200
+00:03:09,990 --> 00:03:10,000
+the previous square
+ 
+
+201
+00:03:10,000 --> 00:03:11,830
+the previous square
+the victim of a push can be moved
+
+202
+00:03:11,830 --> 00:03:11,840
+the victim of a push can be moved
+ 
+
+203
+00:03:11,840 --> 00:03:13,589
+the victim of a push can be moved
+through difficult terrain which counts
+
+204
+00:03:13,589 --> 00:03:13,599
+through difficult terrain which counts
+ 
+
+205
+00:03:13,599 --> 00:03:16,390
+through difficult terrain which counts
+double as usual and may be pushed into
+
+206
+00:03:16,390 --> 00:03:16,400
+double as usual and may be pushed into
+ 
+
+207
+00:03:16,400 --> 00:03:18,070
+double as usual and may be pushed into
+harmful spaces such as
+
+208
+00:03:18,070 --> 00:03:18,080
+harmful spaces such as
+ 
+
+209
+00:03:18,080 --> 00:03:20,229
+harmful spaces such as
+being pushed off a ledge should this
+
+210
+00:03:20,229 --> 00:03:20,239
+being pushed off a ledge should this
+ 
+
+211
+00:03:20,239 --> 00:03:21,509
+being pushed off a ledge should this
+happen the victim should have an
+
+212
+00:03:21,509 --> 00:03:21,519
+happen the victim should have an
+ 
+
+213
+00:03:21,519 --> 00:03:23,350
+happen the victim should have an
+opportunity to spend their reaction to
+
+214
+00:03:23,350 --> 00:03:23,360
+opportunity to spend their reaction to
+ 
+
+215
+00:03:23,360 --> 00:03:25,030
+opportunity to spend their reaction to
+grab an edge as usual
+
+216
+00:03:25,030 --> 00:03:25,040
+grab an edge as usual
+ 
+
+217
+00:03:25,040 --> 00:03:26,789
+grab an edge as usual
+also if the pushed victim reaches a
+
+218
+00:03:26,789 --> 00:03:26,799
+also if the pushed victim reaches a
+ 
+
+219
+00:03:26,799 --> 00:03:28,470
+also if the pushed victim reaches a
+space where there are no further
+
+220
+00:03:28,470 --> 00:03:28,480
+space where there are no further
+ 
+
+221
+00:03:28,480 --> 00:03:30,630
+space where there are no further
+legal spaces to move into for example
+
+222
+00:03:30,630 --> 00:03:30,640
+legal spaces to move into for example
+ 
+
+223
+00:03:30,640 --> 00:03:31,830
+legal spaces to move into for example
+they're pushed 15
+
+224
+00:03:31,830 --> 00:03:31,840
+they're pushed 15
+ 
+
+225
+00:03:31,840 --> 00:03:34,149
+they're pushed 15
+feet but there is a long wall five feet
+
+226
+00:03:34,149 --> 00:03:34,159
+feet but there is a long wall five feet
+ 
+
+227
+00:03:34,159 --> 00:03:35,030
+feet but there is a long wall five feet
+behind them
+
+228
+00:03:35,030 --> 00:03:35,040
+behind them
+ 
+
+229
+00:03:35,040 --> 00:03:37,270
+behind them
+they move as far as they can and then
+
+230
+00:03:37,270 --> 00:03:37,280
+they move as far as they can and then
+ 
+
+231
+00:03:37,280 --> 00:03:38,390
+they move as far as they can and then
+they stop
+
+232
+00:03:38,390 --> 00:03:38,400
+they stop
+ 
+
+233
+00:03:38,400 --> 00:03:40,630
+they stop
+by raw they are not knocked prone
+
+234
+00:03:40,630 --> 00:03:40,640
+by raw they are not knocked prone
+ 
+
+235
+00:03:40,640 --> 00:03:43,509
+by raw they are not knocked prone
+damaged or moved into an illegal space
+
+236
+00:03:43,509 --> 00:03:43,519
+damaged or moved into an illegal space
+ 
+
+237
+00:03:43,519 --> 00:03:46,390
+damaged or moved into an illegal space
+but as always with raw the gm is free to
+
+238
+00:03:46,390 --> 00:03:46,400
+but as always with raw the gm is free to
+ 
+
+239
+00:03:46,400 --> 00:03:46,869
+but as always with raw the gm is free to
+impose
+
+240
+00:03:46,869 --> 00:03:46,879
+impose
+ 
+
+241
+00:03:46,879 --> 00:03:48,710
+impose
+any of these complications if it makes
+
+242
+00:03:48,710 --> 00:03:48,720
+any of these complications if it makes
+ 
+
+243
+00:03:48,720 --> 00:03:52,550
+any of these complications if it makes
+sense for that particular scene
+
+244
+00:03:52,550 --> 00:03:52,560
+sense for that particular scene
+ 
+
+245
+00:03:52,560 --> 00:03:54,390
+sense for that particular scene
+and the last monster ability i want to
+
+246
+00:03:54,390 --> 00:03:54,400
+and the last monster ability i want to
+ 
+
+247
+00:03:54,400 --> 00:03:56,070
+and the last monster ability i want to
+discuss here is rend
+
+248
+00:03:56,070 --> 00:03:56,080
+discuss here is rend
+ 
+
+249
+00:03:56,080 --> 00:03:58,789
+discuss here is rend
+when you see an entry for rend it's very
+
+250
+00:03:58,789 --> 00:03:58,799
+when you see an entry for rend it's very
+ 
+
+251
+00:03:58,799 --> 00:03:59,350
+when you see an entry for rend it's very
+simple
+
+252
+00:03:59,350 --> 00:03:59,360
+simple
+ 
+
+253
+00:03:59,360 --> 00:04:01,750
+simple
+it's literally just the word rend and
+
+254
+00:04:01,750 --> 00:04:01,760
+it's literally just the word rend and
+ 
+
+255
+00:04:01,760 --> 00:04:03,910
+it's literally just the word rend and
+the name of one of the monster's attacks
+
+256
+00:04:03,910 --> 00:04:03,920
+the name of one of the monster's attacks
+ 
+
+257
+00:04:03,920 --> 00:04:05,990
+the name of one of the monster's attacks
+and without flipping to the back of the
+
+258
+00:04:05,990 --> 00:04:06,000
+and without flipping to the back of the
+ 
+
+259
+00:04:06,000 --> 00:04:08,229
+and without flipping to the back of the
+book it can be hard to know exactly what
+
+260
+00:04:08,229 --> 00:04:08,239
+book it can be hard to know exactly what
+ 
+
+261
+00:04:08,239 --> 00:04:09,429
+book it can be hard to know exactly what
+this means
+
+262
+00:04:09,429 --> 00:04:09,439
+this means
+ 
+
+263
+00:04:09,439 --> 00:04:11,670
+this means
+rand simply means that if the listed
+
+264
+00:04:11,670 --> 00:04:11,680
+rand simply means that if the listed
+ 
+
+265
+00:04:11,680 --> 00:04:13,670
+rand simply means that if the listed
+attack has been used twice already this
+
+266
+00:04:13,670 --> 00:04:13,680
+attack has been used twice already this
+ 
+
+267
+00:04:13,680 --> 00:04:14,149
+attack has been used twice already this
+turn
+
+268
+00:04:14,149 --> 00:04:14,159
+turn
+ 
+
+269
+00:04:14,159 --> 00:04:16,550
+turn
+and both hit the same target then the
+
+270
+00:04:16,550 --> 00:04:16,560
+and both hit the same target then the
+ 
+
+271
+00:04:16,560 --> 00:04:18,710
+and both hit the same target then the
+monster doesn't need to make an attack
+
+272
+00:04:18,710 --> 00:04:18,720
+monster doesn't need to make an attack
+ 
+
+273
+00:04:18,720 --> 00:04:20,069
+monster doesn't need to make an attack
+roll for the third attack
+
+274
+00:04:20,069 --> 00:04:20,079
+roll for the third attack
+ 
+
+275
+00:04:20,079 --> 00:04:21,990
+roll for the third attack
+and automatically deals the listed
+
+276
+00:04:21,990 --> 00:04:22,000
+and automatically deals the listed
+ 
+
+277
+00:04:22,000 --> 00:04:23,270
+and automatically deals the listed
+damage so
+
+278
+00:04:23,270 --> 00:04:23,280
+damage so
+ 
+
+279
+00:04:23,280 --> 00:04:26,310
+damage so
+for example wolverines have two attacks
+
+280
+00:04:26,310 --> 00:04:26,320
+for example wolverines have two attacks
+ 
+
+281
+00:04:26,320 --> 00:04:29,270
+for example wolverines have two attacks
+a jaw attack and a claw attack and they
+
+282
+00:04:29,270 --> 00:04:29,280
+a jaw attack and a claw attack and they
+ 
+
+283
+00:04:29,280 --> 00:04:30,950
+a jaw attack and a claw attack and they
+also have an entry that says
+
+284
+00:04:30,950 --> 00:04:30,960
+also have an entry that says
+ 
+
+285
+00:04:30,960 --> 00:04:34,629
+also have an entry that says
+rind one action claw what this means is
+
+286
+00:04:34,629 --> 00:04:34,639
+rind one action claw what this means is
+ 
+
+287
+00:04:34,639 --> 00:04:36,070
+rind one action claw what this means is
+during the wolverine's turn
+
+288
+00:04:36,070 --> 00:04:36,080
+during the wolverine's turn
+ 
+
+289
+00:04:36,080 --> 00:04:38,310
+during the wolverine's turn
+if it spins his first action to make a
+
+290
+00:04:38,310 --> 00:04:38,320
+if it spins his first action to make a
+ 
+
+291
+00:04:38,320 --> 00:04:40,150
+if it spins his first action to make a
+claw attack that hits
+
+292
+00:04:40,150 --> 00:04:40,160
+claw attack that hits
+ 
+
+293
+00:04:40,160 --> 00:04:42,230
+claw attack that hits
+and then spins his second action to make
+
+294
+00:04:42,230 --> 00:04:42,240
+and then spins his second action to make
+ 
+
+295
+00:04:42,240 --> 00:04:43,909
+and then spins his second action to make
+another claw attack
+
+296
+00:04:43,909 --> 00:04:43,919
+another claw attack
+ 
+
+297
+00:04:43,919 --> 00:04:46,550
+another claw attack
+against the same target and that also
+
+298
+00:04:46,550 --> 00:04:46,560
+against the same target and that also
+ 
+
+299
+00:04:46,560 --> 00:04:47,270
+against the same target and that also
+hits
+
+300
+00:04:47,270 --> 00:04:47,280
+hits
+ 
+
+301
+00:04:47,280 --> 00:04:50,150
+hits
+then it can spin its third action to
+
+302
+00:04:50,150 --> 00:04:50,160
+then it can spin its third action to
+ 
+
+303
+00:04:50,160 --> 00:04:51,189
+then it can spin its third action to
+automatically
+
+304
+00:04:51,189 --> 00:04:51,199
+automatically
+ 
+
+305
+00:04:51,199 --> 00:04:54,230
+automatically
+deal a claw attack's 1d6 plus 5 damage
+
+306
+00:04:54,230 --> 00:04:54,240
+deal a claw attack's 1d6 plus 5 damage
+ 
+
+307
+00:04:54,240 --> 00:04:55,670
+deal a claw attack's 1d6 plus 5 damage
+to the same target
+
+308
+00:04:55,670 --> 00:04:55,680
+to the same target
+ 
+
+309
+00:04:55,680 --> 00:04:57,670
+to the same target
+without having to make another attack
+
+310
+00:04:57,670 --> 00:04:57,680
+without having to make another attack
+ 
+
+311
+00:04:57,680 --> 00:04:59,590
+without having to make another attack
+roll and therefore bypassing the
+
+312
+00:04:59,590 --> 00:04:59,600
+roll and therefore bypassing the
+ 
+
+313
+00:04:59,600 --> 00:05:01,510
+roll and therefore bypassing the
+multiple attack penalty
+
+314
+00:05:01,510 --> 00:05:01,520
+multiple attack penalty
+ 
+
+315
+00:05:01,520 --> 00:05:04,790
+multiple attack penalty
+but the key to using rend is it requires
+
+316
+00:05:04,790 --> 00:05:04,800
+but the key to using rend is it requires
+ 
+
+317
+00:05:04,800 --> 00:05:07,189
+but the key to using rend is it requires
+two successful attacks using the same
+
+318
+00:05:07,189 --> 00:05:07,199
+two successful attacks using the same
+ 
+
+319
+00:05:07,199 --> 00:05:08,870
+two successful attacks using the same
+attack at the same target
+
+320
+00:05:08,870 --> 00:05:08,880
+attack at the same target
+ 
+
+321
+00:05:08,880 --> 00:05:11,830
+attack at the same target
+during the same round if the wolverine
+
+322
+00:05:11,830 --> 00:05:11,840
+during the same round if the wolverine
+ 
+
+323
+00:05:11,840 --> 00:05:12,150
+during the same round if the wolverine
+used
+
+324
+00:05:12,150 --> 00:05:12,160
+used
+ 
+
+325
+00:05:12,160 --> 00:05:14,390
+used
+one of his first two actions on a jaw
+
+326
+00:05:14,390 --> 00:05:14,400
+one of his first two actions on a jaw
+ 
+
+327
+00:05:14,400 --> 00:05:16,550
+one of his first two actions on a jaw
+attack or if it made a claw attack
+
+328
+00:05:16,550 --> 00:05:16,560
+attack or if it made a claw attack
+ 
+
+329
+00:05:16,560 --> 00:05:18,629
+attack or if it made a claw attack
+against two different targets then it
+
+330
+00:05:18,629 --> 00:05:18,639
+against two different targets then it
+ 
+
+331
+00:05:18,639 --> 00:05:20,150
+against two different targets then it
+would not be able to use
+
+332
+00:05:20,150 --> 00:05:20,160
+would not be able to use
+ 
+
+333
+00:05:20,160 --> 00:05:24,070
+would not be able to use
+rend with its third action
+
+334
+00:05:24,070 --> 00:05:24,080
+rend with its third action
+ 
+
+335
+00:05:24,080 --> 00:05:25,510
+rend with its third action
+before we close i'd like to take a
+
+336
+00:05:25,510 --> 00:05:25,520
+before we close i'd like to take a
+ 
+
+337
+00:05:25,520 --> 00:05:27,590
+before we close i'd like to take a
+moment to thank all of my patrons
+
+338
+00:05:27,590 --> 00:05:27,600
+moment to thank all of my patrons
+ 
+
+339
+00:05:27,600 --> 00:05:29,110
+moment to thank all of my patrons
+these videos would not be possible
+
+340
+00:05:29,110 --> 00:05:29,120
+these videos would not be possible
+ 
+
+341
+00:05:29,120 --> 00:05:31,029
+these videos would not be possible
+without their continued generosity and
+
+342
+00:05:31,029 --> 00:05:31,039
+without their continued generosity and
+ 
+
+343
+00:05:31,039 --> 00:05:32,150
+without their continued generosity and
+support
+
+344
+00:05:32,150 --> 00:05:32,160
+support
+ 
+
+345
+00:05:32,160 --> 00:05:33,749
+support
+members of the how is played patreon
+
+346
+00:05:33,749 --> 00:05:33,759
+members of the how is played patreon
+ 
+
+347
+00:05:33,759 --> 00:05:35,830
+members of the how is played patreon
+community receive special benefits like
+
+348
+00:05:35,830 --> 00:05:35,840
+community receive special benefits like
+ 
+
+349
+00:05:35,840 --> 00:05:37,029
+community receive special benefits like
+exclusive content
+
+350
+00:05:37,029 --> 00:05:37,039
+exclusive content
+ 
+
+351
+00:05:37,039 --> 00:05:38,629
+exclusive content
+and getting to vote on the topics i
+
+352
+00:05:38,629 --> 00:05:38,639
+and getting to vote on the topics i
+ 
+
+353
+00:05:38,639 --> 00:05:40,870
+and getting to vote on the topics i
+cover visit the link shown at the top of
+
+354
+00:05:40,870 --> 00:05:40,880
+cover visit the link shown at the top of
+ 
+
+355
+00:05:40,880 --> 00:05:41,510
+cover visit the link shown at the top of
+the screen
+
+356
+00:05:41,510 --> 00:05:41,520
+the screen
+ 
+
+357
+00:05:41,520 --> 00:05:43,029
+the screen
+and in the description if you'd like to
+
+358
+00:05:43,029 --> 00:05:43,039
+and in the description if you'd like to
+ 
+
+359
+00:05:43,039 --> 00:05:45,029
+and in the description if you'd like to
+know more if you would like to support
+
+360
+00:05:45,029 --> 00:05:45,039
+know more if you would like to support
+ 
+
+361
+00:05:45,039 --> 00:05:46,550
+know more if you would like to support
+this channel and help it grow
+
+362
+00:05:46,550 --> 00:05:46,560
+this channel and help it grow
+ 
+
+363
+00:05:46,560 --> 00:05:48,469
+this channel and help it grow
+the easiest way to do that is by
+
+364
+00:05:48,469 --> 00:05:48,479
+the easiest way to do that is by
+ 
+
+365
+00:05:48,479 --> 00:05:50,469
+the easiest way to do that is by
+subscribing and clicking the bell icon
+
+366
+00:05:50,469 --> 00:05:50,479
+subscribing and clicking the bell icon
+ 
+
+367
+00:05:50,479 --> 00:05:52,230
+subscribing and clicking the bell icon
+so you get notified when new videos
+
+368
+00:05:52,230 --> 00:05:52,240
+so you get notified when new videos
+ 
+
+369
+00:05:52,240 --> 00:05:54,230
+so you get notified when new videos
+release and i can always be reached
+
+370
+00:05:54,230 --> 00:05:54,240
+release and i can always be reached
+ 
+
+371
+00:05:54,240 --> 00:05:56,230
+release and i can always be reached
+through twitter and facebook too
+
+372
+00:05:56,230 --> 00:05:56,240
+through twitter and facebook too
+ 
+
+373
+00:05:56,240 --> 00:06:01,950
+through twitter and facebook too
+thanks for watching take care and happy
+
+374
+00:06:01,950 --> 00:06:01,960
+
+ 
+
+375
+00:06:01,960 --> 00:06:04,960
+
+gaming
+

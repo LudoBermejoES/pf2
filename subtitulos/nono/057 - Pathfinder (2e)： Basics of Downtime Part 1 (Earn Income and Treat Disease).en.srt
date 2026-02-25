@@ -1,0 +1,3365 @@
+1
+00:00:00,700 --> 00:00:03,270
+
+hello and welcome to basics for gamers
+
+2
+00:00:03,270 --> 00:00:03,280
+hello and welcome to basics for gamers
+ 
+
+3
+00:00:03,280 --> 00:00:05,849
+hello and welcome to basics for gamers
+presents the basics of downtime in
+
+4
+00:00:05,849 --> 00:00:05,859
+presents the basics of downtime in
+ 
+
+5
+00:00:05,859 --> 00:00:08,520
+presents the basics of downtime in
+Pathfinder second edition in this video
+
+6
+00:00:08,520 --> 00:00:08,530
+Pathfinder second edition in this video
+ 
+
+7
+00:00:08,530 --> 00:00:10,560
+Pathfinder second edition in this video
+we will review the basic concept of
+
+8
+00:00:10,560 --> 00:00:10,570
+we will review the basic concept of
+ 
+
+9
+00:00:10,570 --> 00:00:13,110
+we will review the basic concept of
+downtime and the first half of downtime
+
+10
+00:00:13,110 --> 00:00:13,120
+downtime and the first half of downtime
+ 
+
+11
+00:00:13,120 --> 00:00:15,299
+downtime and the first half of downtime
+activities as well and in the next
+
+12
+00:00:15,299 --> 00:00:15,309
+activities as well and in the next
+ 
+
+13
+00:00:15,309 --> 00:00:16,980
+activities as well and in the next
+course we will examine the remaining
+
+14
+00:00:16,980 --> 00:00:16,990
+course we will examine the remaining
+ 
+
+15
+00:00:16,990 --> 00:00:20,230
+course we will examine the remaining
+downtime activities
+
+16
+00:00:20,230 --> 00:00:20,240
+downtime activities
+ 
+
+17
+00:00:20,240 --> 00:00:22,540
+downtime activities
+time--and Pathfinder is organized
+
+18
+00:00:22,540 --> 00:00:22,550
+time--and Pathfinder is organized
+ 
+
+19
+00:00:22,550 --> 00:00:25,259
+time--and Pathfinder is organized
+according to one of three modes of play
+
+20
+00:00:25,259 --> 00:00:25,269
+according to one of three modes of play
+ 
+
+21
+00:00:25,269 --> 00:00:27,939
+according to one of three modes of play
+when the GM feels that time needs to be
+
+22
+00:00:27,939 --> 00:00:27,949
+when the GM feels that time needs to be
+ 
+
+23
+00:00:27,949 --> 00:00:30,429
+when the GM feels that time needs to be
+measured very precisely according to six
+
+24
+00:00:30,429 --> 00:00:30,439
+measured very precisely according to six
+ 
+
+25
+00:00:30,439 --> 00:00:32,530
+measured very precisely according to six
+second rounds they will place the game
+
+26
+00:00:32,530 --> 00:00:32,540
+second rounds they will place the game
+ 
+
+27
+00:00:32,540 --> 00:00:35,380
+second rounds they will place the game
+in encounter mode when they believe time
+
+28
+00:00:35,380 --> 00:00:35,390
+in encounter mode when they believe time
+ 
+
+29
+00:00:35,390 --> 00:00:37,540
+in encounter mode when they believe time
+is best measured in terms of minutes or
+
+30
+00:00:37,540 --> 00:00:37,550
+is best measured in terms of minutes or
+ 
+
+31
+00:00:37,550 --> 00:00:39,549
+is best measured in terms of minutes or
+hours they will place the game in
+
+32
+00:00:39,549 --> 00:00:39,559
+hours they will place the game in
+ 
+
+33
+00:00:39,559 --> 00:00:42,310
+hours they will place the game in
+exploration mode and when the GM feels
+
+34
+00:00:42,310 --> 00:00:42,320
+exploration mode and when the GM feels
+ 
+
+35
+00:00:42,320 --> 00:00:44,439
+exploration mode and when the GM feels
+time will be best managed in terms of
+
+36
+00:00:44,439 --> 00:00:44,449
+time will be best managed in terms of
+ 
+
+37
+00:00:44,449 --> 00:00:47,079
+time will be best managed in terms of
+days then they will place the game in
+
+38
+00:00:47,079 --> 00:00:47,089
+days then they will place the game in
+ 
+
+39
+00:00:47,089 --> 00:00:51,130
+days then they will place the game in
+downtime mode downtime is the portion of
+
+40
+00:00:51,130 --> 00:00:51,140
+downtime mode downtime is the portion of
+ 
+
+41
+00:00:51,140 --> 00:00:53,560
+downtime mode downtime is the portion of
+the game that often serves as a break
+
+42
+00:00:53,560 --> 00:00:53,570
+the game that often serves as a break
+ 
+
+43
+00:00:53,570 --> 00:00:56,110
+the game that often serves as a break
+between adventures the GM might say
+
+44
+00:00:56,110 --> 00:00:56,120
+between adventures the GM might say
+ 
+
+45
+00:00:56,120 --> 00:00:58,360
+between adventures the GM might say
+something like it'll be six days until
+
+46
+00:00:58,360 --> 00:00:58,370
+something like it'll be six days until
+ 
+
+47
+00:00:58,370 --> 00:01:00,610
+something like it'll be six days until
+your ship is ready to leave port how
+
+48
+00:01:00,610 --> 00:01:00,620
+your ship is ready to leave port how
+ 
+
+49
+00:01:00,620 --> 00:01:01,959
+your ship is ready to leave port how
+would you like to spend your time and
+
+50
+00:01:01,959 --> 00:01:01,969
+would you like to spend your time and
+ 
+
+51
+00:01:01,969 --> 00:01:04,389
+would you like to spend your time and
+then the players would each declare one
+
+52
+00:01:04,389 --> 00:01:04,399
+then the players would each declare one
+ 
+
+53
+00:01:04,399 --> 00:01:06,700
+then the players would each declare one
+downtime activity they wish to perform
+
+54
+00:01:06,700 --> 00:01:06,710
+downtime activity they wish to perform
+ 
+
+55
+00:01:06,710 --> 00:01:07,480
+downtime activity they wish to perform
+each day
+
+56
+00:01:07,480 --> 00:01:07,490
+each day
+ 
+
+57
+00:01:07,490 --> 00:01:09,910
+each day
+not unlike declaring an action in
+
+58
+00:01:09,910 --> 00:01:09,920
+not unlike declaring an action in
+ 
+
+59
+00:01:09,920 --> 00:01:13,300
+not unlike declaring an action in
+encounter or exploration moves also note
+
+60
+00:01:13,300 --> 00:01:13,310
+encounter or exploration moves also note
+ 
+
+61
+00:01:13,310 --> 00:01:15,279
+encounter or exploration moves also note
+that although not every activity
+
+62
+00:01:15,279 --> 00:01:15,289
+that although not every activity
+ 
+
+63
+00:01:15,289 --> 00:01:18,309
+that although not every activity
+specifies a time requirement most state
+
+64
+00:01:18,309 --> 00:01:18,319
+specifies a time requirement most state
+ 
+
+65
+00:01:18,319 --> 00:01:20,139
+specifies a time requirement most state
+that a day spent performing that
+
+66
+00:01:20,139 --> 00:01:20,149
+that a day spent performing that
+ 
+
+67
+00:01:20,149 --> 00:01:23,410
+that a day spent performing that
+downtime activity is eight hours which
+
+68
+00:01:23,410 --> 00:01:23,420
+downtime activity is eight hours which
+ 
+
+69
+00:01:23,420 --> 00:01:25,300
+downtime activity is eight hours which
+means each player should be able to
+
+70
+00:01:25,300 --> 00:01:25,310
+means each player should be able to
+ 
+
+71
+00:01:25,310 --> 00:01:27,700
+means each player should be able to
+perform one downtime activity every day
+
+72
+00:01:27,700 --> 00:01:27,710
+perform one downtime activity every day
+ 
+
+73
+00:01:27,710 --> 00:01:30,670
+perform one downtime activity every day
+and still have time available for minor
+
+74
+00:01:30,670 --> 00:01:30,680
+and still have time available for minor
+ 
+
+75
+00:01:30,680 --> 00:01:33,210
+and still have time available for minor
+things like shopping drinking at the bar
+
+76
+00:01:33,210 --> 00:01:33,220
+things like shopping drinking at the bar
+ 
+
+77
+00:01:33,220 --> 00:01:36,459
+things like shopping drinking at the bar
+visiting a temple and so on but the key
+
+78
+00:01:36,459 --> 00:01:36,469
+visiting a temple and so on but the key
+ 
+
+79
+00:01:36,469 --> 00:01:38,350
+visiting a temple and so on but the key
+to remember here is under normal
+
+80
+00:01:38,350 --> 00:01:38,360
+to remember here is under normal
+ 
+
+81
+00:01:38,360 --> 00:01:40,480
+to remember here is under normal
+circumstances players should not be able
+
+82
+00:01:40,480 --> 00:01:40,490
+circumstances players should not be able
+ 
+
+83
+00:01:40,490 --> 00:01:43,030
+circumstances players should not be able
+to perform more than one downtime
+
+84
+00:01:43,030 --> 00:01:43,040
+to perform more than one downtime
+ 
+
+85
+00:01:43,040 --> 00:01:45,910
+to perform more than one downtime
+activity per day it's as if they have
+
+86
+00:01:45,910 --> 00:01:45,920
+activity per day it's as if they have
+ 
+
+87
+00:01:45,920 --> 00:01:49,480
+activity per day it's as if they have
+one action to use per turn and each turn
+
+88
+00:01:49,480 --> 00:01:49,490
+one action to use per turn and each turn
+ 
+
+89
+00:01:49,490 --> 00:01:52,899
+one action to use per turn and each turn
+is one day long over this video and the
+
+90
+00:01:52,899 --> 00:01:52,909
+is one day long over this video and the
+ 
+
+91
+00:01:52,909 --> 00:01:54,609
+is one day long over this video and the
+next we're going to detail the different
+
+92
+00:01:54,609 --> 00:01:54,619
+next we're going to detail the different
+ 
+
+93
+00:01:54,619 --> 00:01:56,950
+next we're going to detail the different
+downtime activities that are currently
+
+94
+00:01:56,950 --> 00:01:56,960
+downtime activities that are currently
+ 
+
+95
+00:01:56,960 --> 00:02:00,310
+downtime activities that are currently
+available each activity uses a skill and
+
+96
+00:02:00,310 --> 00:02:00,320
+available each activity uses a skill and
+ 
+
+97
+00:02:00,320 --> 00:02:03,490
+available each activity uses a skill and
+unless otherwise noted you must be at
+
+98
+00:02:03,490 --> 00:02:03,500
+unless otherwise noted you must be at
+ 
+
+99
+00:02:03,500 --> 00:02:06,550
+unless otherwise noted you must be at
+least trained in that skill in order to
+
+100
+00:02:06,550 --> 00:02:06,560
+least trained in that skill in order to
+ 
+
+101
+00:02:06,560 --> 00:02:08,440
+least trained in that skill in order to
+use its corresponding downtime
+
+102
+00:02:08,440 --> 00:02:08,450
+use its corresponding downtime
+ 
+
+103
+00:02:08,450 --> 00:02:11,080
+use its corresponding downtime
+activities and at the geums discretion
+
+104
+00:02:11,080 --> 00:02:11,090
+activities and at the geums discretion
+ 
+
+105
+00:02:11,090 --> 00:02:13,660
+activities and at the geums discretion
+several members of the party may assist
+
+106
+00:02:13,660 --> 00:02:13,670
+several members of the party may assist
+ 
+
+107
+00:02:13,670 --> 00:02:17,360
+several members of the party may assist
+on these checks as usual
+
+108
+00:02:17,360 --> 00:02:17,370
+on these checks as usual
+ 
+
+109
+00:02:17,370 --> 00:02:20,009
+on these checks as usual
+crafting is the first of the downtown
+
+110
+00:02:20,009 --> 00:02:20,019
+crafting is the first of the downtown
+ 
+
+111
+00:02:20,019 --> 00:02:22,379
+crafting is the first of the downtown
+activities and if you've been following
+
+112
+00:02:22,379 --> 00:02:22,389
+activities and if you've been following
+ 
+
+113
+00:02:22,389 --> 00:02:24,149
+activities and if you've been following
+this channel then you may already know
+
+114
+00:02:24,149 --> 00:02:24,159
+this channel then you may already know
+ 
+
+115
+00:02:24,159 --> 00:02:26,550
+this channel then you may already know
+that we have a complete three-part
+
+116
+00:02:26,550 --> 00:02:26,560
+that we have a complete three-part
+ 
+
+117
+00:02:26,560 --> 00:02:29,009
+that we have a complete three-part
+series that details everything about
+
+118
+00:02:29,009 --> 00:02:29,019
+series that details everything about
+ 
+
+119
+00:02:29,019 --> 00:02:31,589
+series that details everything about
+crafting already so I'm not going to go
+
+120
+00:02:31,589 --> 00:02:31,599
+crafting already so I'm not going to go
+ 
+
+121
+00:02:31,599 --> 00:02:34,229
+crafting already so I'm not going to go
+into a lot of detail about crafting here
+
+122
+00:02:34,229 --> 00:02:34,239
+into a lot of detail about crafting here
+ 
+
+123
+00:02:34,239 --> 00:02:36,449
+into a lot of detail about crafting here
+other than acknowledging that if you
+
+124
+00:02:36,449 --> 00:02:36,459
+other than acknowledging that if you
+ 
+
+125
+00:02:36,459 --> 00:02:39,569
+other than acknowledging that if you
+wish to forge weapons or armor or craft
+
+126
+00:02:39,569 --> 00:02:39,579
+wish to forge weapons or armor or craft
+ 
+
+127
+00:02:39,579 --> 00:02:41,849
+wish to forge weapons or armor or craft
+magic items like scrolls and potions
+
+128
+00:02:41,849 --> 00:02:41,859
+magic items like scrolls and potions
+ 
+
+129
+00:02:41,859 --> 00:02:43,709
+magic items like scrolls and potions
+then you will need to spend at least
+
+130
+00:02:43,709 --> 00:02:43,719
+then you will need to spend at least
+ 
+
+131
+00:02:43,719 --> 00:02:46,800
+then you will need to spend at least
+four days of downtime on the crafting
+
+132
+00:02:46,800 --> 00:02:46,810
+four days of downtime on the crafting
+ 
+
+133
+00:02:46,810 --> 00:02:49,440
+four days of downtime on the crafting
+activity if you want more detailed
+
+134
+00:02:49,440 --> 00:02:49,450
+activity if you want more detailed
+ 
+
+135
+00:02:49,450 --> 00:02:51,149
+activity if you want more detailed
+information about how crafting works
+
+136
+00:02:51,149 --> 00:02:51,159
+information about how crafting works
+ 
+
+137
+00:02:51,159 --> 00:02:53,940
+information about how crafting works
+check out our videos on that topic you
+
+138
+00:02:53,940 --> 00:02:53,950
+check out our videos on that topic you
+ 
+
+139
+00:02:53,950 --> 00:02:55,409
+check out our videos on that topic you
+can find links to those in the
+
+140
+00:02:55,409 --> 00:02:55,419
+can find links to those in the
+ 
+
+141
+00:02:55,419 --> 00:02:59,129
+can find links to those in the
+description players can also use their
+
+142
+00:02:59,129 --> 00:02:59,139
+description players can also use their
+ 
+
+143
+00:02:59,139 --> 00:03:02,250
+description players can also use their
+downtime to earn a little extra coin the
+
+144
+00:03:02,250 --> 00:03:02,260
+downtime to earn a little extra coin the
+ 
+
+145
+00:03:02,260 --> 00:03:04,559
+downtime to earn a little extra coin the
+first step is choosing a skill in
+
+146
+00:03:04,559 --> 00:03:04,569
+first step is choosing a skill in
+ 
+
+147
+00:03:04,569 --> 00:03:06,959
+first step is choosing a skill in
+defining what kind of work you wish to
+
+148
+00:03:06,959 --> 00:03:06,969
+defining what kind of work you wish to
+ 
+
+149
+00:03:06,969 --> 00:03:09,390
+defining what kind of work you wish to
+do typically this will be either the
+
+150
+00:03:09,390 --> 00:03:09,400
+do typically this will be either the
+ 
+
+151
+00:03:09,400 --> 00:03:13,379
+do typically this will be either the
+crafting skill lure or performance if
+
+152
+00:03:13,379 --> 00:03:13,389
+crafting skill lure or performance if
+ 
+
+153
+00:03:13,389 --> 00:03:16,229
+crafting skill lure or performance if
+you want to work for a local blacksmith
+
+154
+00:03:16,229 --> 00:03:16,239
+you want to work for a local blacksmith
+ 
+
+155
+00:03:16,239 --> 00:03:18,330
+you want to work for a local blacksmith
+helping them fill orders you might use
+
+156
+00:03:18,330 --> 00:03:18,340
+helping them fill orders you might use
+ 
+
+157
+00:03:18,340 --> 00:03:20,729
+helping them fill orders you might use
+crafting if you want to sing at the
+
+158
+00:03:20,729 --> 00:03:20,739
+crafting if you want to sing at the
+ 
+
+159
+00:03:20,739 --> 00:03:22,979
+crafting if you want to sing at the
+local tavern you would use performance
+
+160
+00:03:22,979 --> 00:03:22,989
+local tavern you would use performance
+ 
+
+161
+00:03:22,989 --> 00:03:25,800
+local tavern you would use performance
+and most other situations you would use
+
+162
+00:03:25,800 --> 00:03:25,810
+and most other situations you would use
+ 
+
+163
+00:03:25,810 --> 00:03:28,469
+and most other situations you would use
+one of the lower skills working as a
+
+164
+00:03:28,469 --> 00:03:28,479
+one of the lower skills working as a
+ 
+
+165
+00:03:28,479 --> 00:03:31,619
+one of the lower skills working as a
+bartender would be alcohol or helping a
+
+166
+00:03:31,619 --> 00:03:31,629
+bartender would be alcohol or helping a
+ 
+
+167
+00:03:31,629 --> 00:03:34,199
+bartender would be alcohol or helping a
+town design and build a drawbridge might
+
+168
+00:03:34,199 --> 00:03:34,209
+town design and build a drawbridge might
+ 
+
+169
+00:03:34,209 --> 00:03:36,749
+town design and build a drawbridge might
+be engineering lore working that docks
+
+170
+00:03:36,749 --> 00:03:36,759
+be engineering lore working that docks
+ 
+
+171
+00:03:36,759 --> 00:03:39,319
+be engineering lore working that docks
+would be sailing lore and so on and
+
+172
+00:03:39,319 --> 00:03:39,329
+would be sailing lore and so on and
+ 
+
+173
+00:03:39,329 --> 00:03:42,599
+would be sailing lore and so on and
+although those are the three most common
+
+174
+00:03:42,599 --> 00:03:42,609
+although those are the three most common
+ 
+
+175
+00:03:42,609 --> 00:03:45,210
+although those are the three most common
+skills used for earning income it is
+
+176
+00:03:45,210 --> 00:03:45,220
+skills used for earning income it is
+ 
+
+177
+00:03:45,220 --> 00:03:47,069
+skills used for earning income it is
+possible for players to use other skills
+
+178
+00:03:47,069 --> 00:03:47,079
+possible for players to use other skills
+ 
+
+179
+00:03:47,079 --> 00:03:49,890
+possible for players to use other skills
+too like rolling your religion skill if
+
+180
+00:03:49,890 --> 00:03:49,900
+too like rolling your religion skill if
+ 
+
+181
+00:03:49,900 --> 00:03:51,509
+too like rolling your religion skill if
+you want to help administer church
+
+182
+00:03:51,509 --> 00:03:51,519
+you want to help administer church
+ 
+
+183
+00:03:51,519 --> 00:03:53,860
+you want to help administer church
+services during your downtime
+
+184
+00:03:53,860 --> 00:03:53,870
+services during your downtime
+ 
+
+185
+00:03:53,870 --> 00:03:56,289
+services during your downtime
+so now that you know what you want to do
+
+186
+00:03:56,289 --> 00:03:56,299
+so now that you know what you want to do
+ 
+
+187
+00:03:56,299 --> 00:03:59,170
+so now that you know what you want to do
+and what skill you want to use the next
+
+188
+00:03:59,170 --> 00:03:59,180
+and what skill you want to use the next
+ 
+
+189
+00:03:59,180 --> 00:04:01,300
+and what skill you want to use the next
+step is to find someone who's willing to
+
+190
+00:04:01,300 --> 00:04:01,310
+step is to find someone who's willing to
+ 
+
+191
+00:04:01,310 --> 00:04:04,420
+step is to find someone who's willing to
+pay you for it the GM will have to use a
+
+192
+00:04:04,420 --> 00:04:04,430
+pay you for it the GM will have to use a
+ 
+
+193
+00:04:04,430 --> 00:04:06,580
+pay you for it the GM will have to use a
+lot of discretion in what they allow as
+
+194
+00:04:06,580 --> 00:04:06,590
+lot of discretion in what they allow as
+ 
+
+195
+00:04:06,590 --> 00:04:09,070
+lot of discretion in what they allow as
+not every community is going to have a
+
+196
+00:04:09,070 --> 00:04:09,080
+not every community is going to have a
+ 
+
+197
+00:04:09,080 --> 00:04:11,309
+not every community is going to have a
+market for every single good or service
+
+198
+00:04:11,309 --> 00:04:11,319
+market for every single good or service
+ 
+
+199
+00:04:11,319 --> 00:04:14,470
+market for every single good or service
+in most cases it should be easy to find
+
+200
+00:04:14,470 --> 00:04:14,480
+in most cases it should be easy to find
+ 
+
+201
+00:04:14,480 --> 00:04:17,289
+in most cases it should be easy to find
+work that is one to two levels lower
+
+202
+00:04:17,289 --> 00:04:17,299
+work that is one to two levels lower
+ 
+
+203
+00:04:17,299 --> 00:04:20,349
+work that is one to two levels lower
+than the settlements level and also keep
+
+204
+00:04:20,349 --> 00:04:20,359
+than the settlements level and also keep
+ 
+
+205
+00:04:20,359 --> 00:04:22,180
+than the settlements level and also keep
+in mind that characters may attempt any
+
+206
+00:04:22,180 --> 00:04:22,190
+in mind that characters may attempt any
+ 
+
+207
+00:04:22,190 --> 00:04:24,850
+in mind that characters may attempt any
+job they are offered they are not
+
+208
+00:04:24,850 --> 00:04:24,860
+job they are offered they are not
+ 
+
+209
+00:04:24,860 --> 00:04:27,340
+job they are offered they are not
+limited by their character level so for
+
+210
+00:04:27,340 --> 00:04:27,350
+limited by their character level so for
+ 
+
+211
+00:04:27,350 --> 00:04:28,990
+limited by their character level so for
+example let's say we have a character is
+
+212
+00:04:28,990 --> 00:04:29,000
+example let's say we have a character is
+ 
+
+213
+00:04:29,000 --> 00:04:31,330
+example let's say we have a character is
+fifth level and they want to use their
+
+214
+00:04:31,330 --> 00:04:31,340
+fifth level and they want to use their
+ 
+
+215
+00:04:31,340 --> 00:04:33,340
+fifth level and they want to use their
+business lower skill to make money
+
+216
+00:04:33,340 --> 00:04:33,350
+business lower skill to make money
+ 
+
+217
+00:04:33,350 --> 00:04:35,490
+business lower skill to make money
+dealing and trading at the local market
+
+218
+00:04:35,490 --> 00:04:35,500
+dealing and trading at the local market
+ 
+
+219
+00:04:35,500 --> 00:04:38,620
+dealing and trading at the local market
+the town they're in is a sixth level
+
+220
+00:04:38,620 --> 00:04:38,630
+the town they're in is a sixth level
+ 
+
+221
+00:04:38,630 --> 00:04:41,409
+the town they're in is a sixth level
+settlement that player should have no
+
+222
+00:04:41,409 --> 00:04:41,419
+settlement that player should have no
+ 
+
+223
+00:04:41,419 --> 00:04:43,840
+settlement that player should have no
+trouble finding a job that is considered
+
+224
+00:04:43,840 --> 00:04:43,850
+trouble finding a job that is considered
+ 
+
+225
+00:04:43,850 --> 00:04:48,100
+trouble finding a job that is considered
+a fourth level task or lower but and I
+
+226
+00:04:48,100 --> 00:04:48,110
+a fourth level task or lower but and I
+ 
+
+227
+00:04:48,110 --> 00:04:50,080
+a fourth level task or lower but and I
+should point out that this is not a hard
+
+228
+00:04:50,080 --> 00:04:50,090
+should point out that this is not a hard
+ 
+
+229
+00:04:50,090 --> 00:04:53,080
+should point out that this is not a hard
+rule but in a sixth level settlement
+
+230
+00:04:53,080 --> 00:04:53,090
+rule but in a sixth level settlement
+ 
+
+231
+00:04:53,090 --> 00:04:56,290
+rule but in a sixth level settlement
+sixth level jobs are likely reserved for
+
+232
+00:04:56,290 --> 00:04:56,300
+sixth level jobs are likely reserved for
+ 
+
+233
+00:04:56,300 --> 00:04:59,440
+sixth level jobs are likely reserved for
+those who have special connections so in
+
+234
+00:04:59,440 --> 00:04:59,450
+those who have special connections so in
+ 
+
+235
+00:04:59,450 --> 00:05:01,629
+those who have special connections so in
+this case the character looking to find
+
+236
+00:05:01,629 --> 00:05:01,639
+this case the character looking to find
+ 
+
+237
+00:05:01,639 --> 00:05:03,580
+this case the character looking to find
+work if they want to spend their
+
+238
+00:05:03,580 --> 00:05:03,590
+work if they want to spend their
+ 
+
+239
+00:05:03,590 --> 00:05:05,800
+work if they want to spend their
+downtime trading in the market as a
+
+240
+00:05:05,800 --> 00:05:05,810
+downtime trading in the market as a
+ 
+
+241
+00:05:05,810 --> 00:05:09,279
+downtime trading in the market as a
+fifth or sixth level task the GM might
+
+242
+00:05:09,279 --> 00:05:09,289
+fifth or sixth level task the GM might
+ 
+
+243
+00:05:09,289 --> 00:05:11,230
+fifth or sixth level task the GM might
+require them to use their diplomacy
+
+244
+00:05:11,230 --> 00:05:11,240
+require them to use their diplomacy
+ 
+
+245
+00:05:11,240 --> 00:05:14,020
+require them to use their diplomacy
+skill to gather information and maybe do
+
+246
+00:05:14,020 --> 00:05:14,030
+skill to gather information and maybe do
+ 
+
+247
+00:05:14,030 --> 00:05:15,610
+skill to gather information and maybe do
+a little role-playing to prove their
+
+248
+00:05:15,610 --> 00:05:15,620
+a little role-playing to prove their
+ 
+
+249
+00:05:15,620 --> 00:05:17,920
+a little role-playing to prove their
+worth before they're offered one of the
+
+250
+00:05:17,920 --> 00:05:17,930
+worth before they're offered one of the
+ 
+
+251
+00:05:17,930 --> 00:05:21,310
+worth before they're offered one of the
+town's best paying jobs and just because
+
+252
+00:05:21,310 --> 00:05:21,320
+town's best paying jobs and just because
+ 
+
+253
+00:05:21,320 --> 00:05:23,529
+town's best paying jobs and just because
+their fifth level this does not prevent
+
+254
+00:05:23,529 --> 00:05:23,539
+their fifth level this does not prevent
+ 
+
+255
+00:05:23,539 --> 00:05:25,360
+their fifth level this does not prevent
+them from taking a job that the GM
+
+256
+00:05:25,360 --> 00:05:25,370
+them from taking a job that the GM
+ 
+
+257
+00:05:25,370 --> 00:05:28,360
+them from taking a job that the GM
+determines is a sixth level task it just
+
+258
+00:05:28,360 --> 00:05:28,370
+determines is a sixth level task it just
+ 
+
+259
+00:05:28,370 --> 00:05:30,400
+determines is a sixth level task it just
+means that it is harder and increases
+
+260
+00:05:30,400 --> 00:05:30,410
+means that it is harder and increases
+ 
+
+261
+00:05:30,410 --> 00:05:32,200
+means that it is harder and increases
+the likelihood that they'll fail the
+
+262
+00:05:32,200 --> 00:05:32,210
+the likelihood that they'll fail the
+ 
+
+263
+00:05:32,210 --> 00:05:35,439
+the likelihood that they'll fail the
+task can be fired once you've found a
+
+264
+00:05:35,439 --> 00:05:35,449
+task can be fired once you've found a
+ 
+
+265
+00:05:35,449 --> 00:05:37,960
+task can be fired once you've found a
+job and the GM has assigned a test level
+
+266
+00:05:37,960 --> 00:05:37,970
+job and the GM has assigned a test level
+ 
+
+267
+00:05:37,970 --> 00:05:40,990
+job and the GM has assigned a test level
+to it the next step is to spend a day
+
+268
+00:05:40,990 --> 00:05:41,000
+to it the next step is to spend a day
+ 
+
+269
+00:05:41,000 --> 00:05:44,020
+to it the next step is to spend a day
+working at that job at the end of that
+
+270
+00:05:44,020 --> 00:05:44,030
+working at that job at the end of that
+ 
+
+271
+00:05:44,030 --> 00:05:46,150
+working at that job at the end of that
+first day you will roll a skill check
+
+272
+00:05:46,150 --> 00:05:46,160
+first day you will roll a skill check
+ 
+
+273
+00:05:46,160 --> 00:05:48,909
+first day you will roll a skill check
+against a secret DC that is set by the
+
+274
+00:05:48,909 --> 00:05:48,919
+against a secret DC that is set by the
+ 
+
+275
+00:05:48,919 --> 00:05:50,320
+against a secret DC that is set by the
+GM
+
+276
+00:05:50,320 --> 00:05:50,330
+GM
+ 
+
+277
+00:05:50,330 --> 00:05:52,899
+GM
+this DC can be adjusted with extra
+
+278
+00:05:52,899 --> 00:05:52,909
+this DC can be adjusted with extra
+ 
+
+279
+00:05:52,909 --> 00:05:55,809
+this DC can be adjusted with extra
+preparation in some cases the GM may
+
+280
+00:05:55,809 --> 00:05:55,819
+preparation in some cases the GM may
+ 
+
+281
+00:05:55,819 --> 00:05:57,790
+preparation in some cases the GM may
+allow a player to spend days of downtime
+
+282
+00:05:57,790 --> 00:05:57,800
+allow a player to spend days of downtime
+ 
+
+283
+00:05:57,800 --> 00:05:59,800
+allow a player to spend days of downtime
+getting ready for the job before they
+
+284
+00:05:59,800 --> 00:05:59,810
+getting ready for the job before they
+ 
+
+285
+00:05:59,810 --> 00:06:03,129
+getting ready for the job before they
+start it this will lower the DC by an
+
+286
+00:06:03,129 --> 00:06:03,139
+start it this will lower the DC by an
+ 
+
+287
+00:06:03,139 --> 00:06:05,559
+start it this will lower the DC by an
+amount determined by the GM but the
+
+288
+00:06:05,559 --> 00:06:05,569
+amount determined by the GM but the
+ 
+
+289
+00:06:05,569 --> 00:06:07,629
+amount determined by the GM but the
+player will not be paid for those days
+
+290
+00:06:07,629 --> 00:06:07,639
+player will not be paid for those days
+ 
+
+291
+00:06:07,639 --> 00:06:11,020
+player will not be paid for those days
+of preparation an example of this would
+
+292
+00:06:11,020 --> 00:06:11,030
+of preparation an example of this would
+ 
+
+293
+00:06:11,030 --> 00:06:13,330
+of preparation an example of this would
+be rehearsing a play before you perform
+
+294
+00:06:13,330 --> 00:06:13,340
+be rehearsing a play before you perform
+ 
+
+295
+00:06:13,340 --> 00:06:16,779
+be rehearsing a play before you perform
+it in front of a paying audience to
+
+296
+00:06:16,779 --> 00:06:16,789
+it in front of a paying audience to
+ 
+
+297
+00:06:16,789 --> 00:06:18,670
+it in front of a paying audience to
+determine the result of the skill check
+
+298
+00:06:18,670 --> 00:06:18,680
+determine the result of the skill check
+ 
+
+299
+00:06:18,680 --> 00:06:20,980
+determine the result of the skill check
+we need to reference the table found on
+
+300
+00:06:20,980 --> 00:06:20,990
+we need to reference the table found on
+ 
+
+301
+00:06:20,990 --> 00:06:25,240
+we need to reference the table found on
+page 236 of the core rules in the first
+
+302
+00:06:25,240 --> 00:06:25,250
+page 236 of the core rules in the first
+ 
+
+303
+00:06:25,250 --> 00:06:27,879
+page 236 of the core rules in the first
+column you find the tasks level of the
+
+304
+00:06:27,879 --> 00:06:27,889
+column you find the tasks level of the
+ 
+
+305
+00:06:27,889 --> 00:06:30,760
+column you find the tasks level of the
+job if you fail the skill check you
+
+306
+00:06:30,760 --> 00:06:30,770
+job if you fail the skill check you
+ 
+
+307
+00:06:30,770 --> 00:06:32,439
+job if you fail the skill check you
+receive the amount of money that is
+
+308
+00:06:32,439 --> 00:06:32,449
+receive the amount of money that is
+ 
+
+309
+00:06:32,449 --> 00:06:35,529
+receive the amount of money that is
+listed in the failure column and at the
+
+310
+00:06:35,529 --> 00:06:35,539
+listed in the failure column and at the
+ 
+
+311
+00:06:35,539 --> 00:06:37,659
+listed in the failure column and at the
+gioves discretion you might also be
+
+312
+00:06:37,659 --> 00:06:37,669
+gioves discretion you might also be
+ 
+
+313
+00:06:37,669 --> 00:06:39,879
+gioves discretion you might also be
+fired from the job and unable to
+
+314
+00:06:39,879 --> 00:06:39,889
+fired from the job and unable to
+ 
+
+315
+00:06:39,889 --> 00:06:41,990
+fired from the job and unable to
+continue working there
+
+316
+00:06:41,990 --> 00:06:42,000
+continue working there
+ 
+
+317
+00:06:42,000 --> 00:06:43,970
+continue working there
+if that's the case you will need to
+
+318
+00:06:43,970 --> 00:06:43,980
+if that's the case you will need to
+ 
+
+319
+00:06:43,980 --> 00:06:46,460
+if that's the case you will need to
+spend at least one day of downtime job
+
+320
+00:06:46,460 --> 00:06:46,470
+spend at least one day of downtime job
+ 
+
+321
+00:06:46,470 --> 00:06:50,180
+spend at least one day of downtime job
+hunting to find your next job but if you
+
+322
+00:06:50,180 --> 00:06:50,190
+hunting to find your next job but if you
+ 
+
+323
+00:06:50,190 --> 00:06:52,190
+hunting to find your next job but if you
+were successful then you move to the
+
+324
+00:06:52,190 --> 00:06:52,200
+were successful then you move to the
+ 
+
+325
+00:06:52,200 --> 00:06:54,260
+were successful then you move to the
+right on the table until you find your
+
+326
+00:06:54,260 --> 00:06:54,270
+right on the table until you find your
+ 
+
+327
+00:06:54,270 --> 00:06:56,810
+right on the table until you find your
+proficiency level and you earn that
+
+328
+00:06:56,810 --> 00:06:56,820
+proficiency level and you earn that
+ 
+
+329
+00:06:56,820 --> 00:06:59,260
+proficiency level and you earn that
+amount of money for the day's work
+
+330
+00:06:59,260 --> 00:06:59,270
+amount of money for the day's work
+ 
+
+331
+00:06:59,270 --> 00:07:01,940
+amount of money for the day's work
+additionally you can continue working at
+
+332
+00:07:01,940 --> 00:07:01,950
+additionally you can continue working at
+ 
+
+333
+00:07:01,950 --> 00:07:04,370
+additionally you can continue working at
+the job every day afterwards and you
+
+334
+00:07:04,370 --> 00:07:04,380
+the job every day afterwards and you
+ 
+
+335
+00:07:04,380 --> 00:07:06,590
+the job every day afterwards and you
+will earn the same amount of money each
+
+336
+00:07:06,590 --> 00:07:06,600
+will earn the same amount of money each
+ 
+
+337
+00:07:06,600 --> 00:07:09,290
+will earn the same amount of money each
+of those days and you will not roll any
+
+338
+00:07:09,290 --> 00:07:09,300
+of those days and you will not roll any
+ 
+
+339
+00:07:09,300 --> 00:07:11,900
+of those days and you will not roll any
+additional skill checks what you earned
+
+340
+00:07:11,900 --> 00:07:11,910
+additional skill checks what you earned
+ 
+
+341
+00:07:11,910 --> 00:07:14,090
+additional skill checks what you earned
+on your first day is what you will be
+
+342
+00:07:14,090 --> 00:07:14,100
+on your first day is what you will be
+ 
+
+343
+00:07:14,100 --> 00:07:16,990
+on your first day is what you will be
+paid for every day on the job after that
+
+344
+00:07:16,990 --> 00:07:17,000
+paid for every day on the job after that
+ 
+
+345
+00:07:17,000 --> 00:07:19,700
+paid for every day on the job after that
+this lasts until the job is complete
+
+346
+00:07:19,700 --> 00:07:19,710
+this lasts until the job is complete
+ 
+
+347
+00:07:19,710 --> 00:07:23,120
+this lasts until the job is complete
+until your adventure resumes or until
+
+348
+00:07:23,120 --> 00:07:23,130
+until your adventure resumes or until
+ 
+
+349
+00:07:23,130 --> 00:07:25,070
+until your adventure resumes or until
+the GN determines the demand for your
+
+350
+00:07:25,070 --> 00:07:25,080
+the GN determines the demand for your
+ 
+
+351
+00:07:25,080 --> 00:07:26,150
+the GN determines the demand for your
+service has dried up
+
+352
+00:07:26,150 --> 00:07:26,160
+service has dried up
+ 
+
+353
+00:07:26,160 --> 00:07:29,960
+service has dried up
+if you roll a critical success you gain
+
+354
+00:07:29,960 --> 00:07:29,970
+if you roll a critical success you gain
+ 
+
+355
+00:07:29,970 --> 00:07:32,780
+if you roll a critical success you gain
+money as if the task level was one level
+
+356
+00:07:32,780 --> 00:07:32,790
+money as if the task level was one level
+ 
+
+357
+00:07:32,790 --> 00:07:36,530
+money as if the task level was one level
+higher and on a critical failure you
+
+358
+00:07:36,530 --> 00:07:36,540
+higher and on a critical failure you
+ 
+
+359
+00:07:36,540 --> 00:07:39,350
+higher and on a critical failure you
+earn no money and are immediately fired
+
+360
+00:07:39,350 --> 00:07:39,360
+earn no money and are immediately fired
+ 
+
+361
+00:07:39,360 --> 00:07:42,440
+earn no money and are immediately fired
+from the job furthermore your reputation
+
+362
+00:07:42,440 --> 00:07:42,450
+from the job furthermore your reputation
+ 
+
+363
+00:07:42,450 --> 00:07:44,810
+from the job furthermore your reputation
+in that community has been harmed and it
+
+364
+00:07:44,810 --> 00:07:44,820
+in that community has been harmed and it
+ 
+
+365
+00:07:44,820 --> 00:07:46,940
+in that community has been harmed and it
+might be more difficult for you to find
+
+366
+00:07:46,940 --> 00:07:46,950
+might be more difficult for you to find
+ 
+
+367
+00:07:46,950 --> 00:07:49,429
+might be more difficult for you to find
+future work
+
+368
+00:07:49,429 --> 00:07:49,439
+future work
+ 
+
+369
+00:07:49,439 --> 00:07:51,799
+future work
+let's illustrate this by walking through
+
+370
+00:07:51,799 --> 00:07:51,809
+let's illustrate this by walking through
+ 
+
+371
+00:07:51,809 --> 00:07:55,100
+let's illustrate this by walking through
+the example from the rule book Hearst is
+
+372
+00:07:55,100 --> 00:07:55,110
+the example from the rule book Hearst is
+ 
+
+373
+00:07:55,110 --> 00:07:55,820
+the example from the rule book Hearst is
+third-level
+
+374
+00:07:55,820 --> 00:07:55,830
+third-level
+ 
+
+375
+00:07:55,830 --> 00:07:59,540
+third-level
+and has a tell or skill bonus of +7 his
+
+376
+00:07:59,540 --> 00:07:59,550
+and has a tell or skill bonus of +7 his
+ 
+
+377
+00:07:59,550 --> 00:08:02,570
+and has a tell or skill bonus of +7 his
+GM tells him he has 30 days of downtime
+
+378
+00:08:02,570 --> 00:08:02,580
+GM tells him he has 30 days of downtime
+ 
+
+379
+00:08:02,580 --> 00:08:05,119
+GM tells him he has 30 days of downtime
+to spin before his party is able to
+
+380
+00:08:05,119 --> 00:08:05,129
+to spin before his party is able to
+ 
+
+381
+00:08:05,129 --> 00:08:07,489
+to spin before his party is able to
+continue their adventure and asks how he
+
+382
+00:08:07,489 --> 00:08:07,499
+continue their adventure and asks how he
+ 
+
+383
+00:08:07,499 --> 00:08:11,629
+continue their adventure and asks how he
+wishes to spend those 30 days Hart says
+
+384
+00:08:11,629 --> 00:08:11,639
+wishes to spend those 30 days Hart says
+ 
+
+385
+00:08:11,639 --> 00:08:14,570
+wishes to spend those 30 days Hart says
+he wishes to use his tail or skill to
+
+386
+00:08:14,570 --> 00:08:14,580
+he wishes to use his tail or skill to
+ 
+
+387
+00:08:14,580 --> 00:08:17,749
+he wishes to use his tail or skill to
+work at a prestigious teahouse he is
+
+388
+00:08:17,749 --> 00:08:17,759
+work at a prestigious teahouse he is
+ 
+
+389
+00:08:17,759 --> 00:08:19,820
+work at a prestigious teahouse he is
+spending his downtime in a level 5
+
+390
+00:08:19,820 --> 00:08:19,830
+spending his downtime in a level 5
+ 
+
+391
+00:08:19,830 --> 00:08:22,459
+spending his downtime in a level 5
+settlement and the GM gives him two
+
+392
+00:08:22,459 --> 00:08:22,469
+settlement and the GM gives him two
+ 
+
+393
+00:08:22,469 --> 00:08:25,429
+settlement and the GM gives him two
+options he can either work as the tea
+
+394
+00:08:25,429 --> 00:08:25,439
+options he can either work as the tea
+ 
+
+395
+00:08:25,439 --> 00:08:28,219
+options he can either work as the tea
+masters assistant in brewing tea which
+
+396
+00:08:28,219 --> 00:08:28,229
+masters assistant in brewing tea which
+ 
+
+397
+00:08:28,229 --> 00:08:32,089
+masters assistant in brewing tea which
+is a level 5 task or served tea to
+
+398
+00:08:32,089 --> 00:08:32,099
+is a level 5 task or served tea to
+ 
+
+399
+00:08:32,099 --> 00:08:35,959
+is a level 5 task or served tea to
+customers which is a level 2 task note
+
+400
+00:08:35,959 --> 00:08:35,969
+customers which is a level 2 task note
+ 
+
+401
+00:08:35,969 --> 00:08:37,699
+customers which is a level 2 task note
+that the example from the book offers
+
+402
+00:08:37,699 --> 00:08:37,709
+that the example from the book offers
+ 
+
+403
+00:08:37,709 --> 00:08:40,429
+that the example from the book offers
+both of these jobs upfront but a GM
+
+404
+00:08:40,429 --> 00:08:40,439
+both of these jobs upfront but a GM
+ 
+
+405
+00:08:40,439 --> 00:08:42,499
+both of these jobs upfront but a GM
+could offer only the second level tasks
+
+406
+00:08:42,499 --> 00:08:42,509
+could offer only the second level tasks
+ 
+
+407
+00:08:42,509 --> 00:08:45,460
+could offer only the second level tasks
+and require harsh to spin a day or more
+
+408
+00:08:45,460 --> 00:08:45,470
+and require harsh to spin a day or more
+ 
+
+409
+00:08:45,470 --> 00:08:48,079
+and require harsh to spin a day or more
+researching and using social skills to
+
+410
+00:08:48,079 --> 00:08:48,089
+researching and using social skills to
+ 
+
+411
+00:08:48,089 --> 00:08:49,879
+researching and using social skills to
+build a relationship at the tea house
+
+412
+00:08:49,879 --> 00:08:49,889
+build a relationship at the tea house
+ 
+
+413
+00:08:49,889 --> 00:08:52,040
+build a relationship at the tea house
+before they would offer him a job as
+
+414
+00:08:52,040 --> 00:08:52,050
+before they would offer him a job as
+ 
+
+415
+00:08:52,050 --> 00:08:54,910
+before they would offer him a job as
+prestigious as assistant tea master
+
+416
+00:08:54,910 --> 00:08:54,920
+prestigious as assistant tea master
+ 
+
+417
+00:08:54,920 --> 00:08:57,740
+prestigious as assistant tea master
+anyway he decides he wants the more
+
+418
+00:08:57,740 --> 00:08:57,750
+anyway he decides he wants the more
+ 
+
+419
+00:08:57,750 --> 00:09:00,860
+anyway he decides he wants the more
+difficult and higher paying job of being
+
+420
+00:09:00,860 --> 00:09:00,870
+difficult and higher paying job of being
+ 
+
+421
+00:09:00,870 --> 00:09:04,069
+difficult and higher paying job of being
+the tea masters assistant at the end of
+
+422
+00:09:04,069 --> 00:09:04,079
+the tea masters assistant at the end of
+ 
+
+423
+00:09:04,079 --> 00:09:05,300
+the tea masters assistant at the end of
+the first day of work
+
+424
+00:09:05,300 --> 00:09:05,310
+the first day of work
+ 
+
+425
+00:09:05,310 --> 00:09:08,269
+the first day of work
+Hearst must roll a teal or skill check
+
+426
+00:09:08,269 --> 00:09:08,279
+Hearst must roll a teal or skill check
+ 
+
+427
+00:09:08,279 --> 00:09:10,759
+Hearst must roll a teal or skill check
+and compare it to a secret DC set by the
+
+428
+00:09:10,759 --> 00:09:10,769
+and compare it to a secret DC set by the
+ 
+
+429
+00:09:10,769 --> 00:09:15,220
+and compare it to a secret DC set by the
+GM in this case the GM sets the DC at 20
+
+430
+00:09:15,220 --> 00:09:15,230
+GM in this case the GM sets the DC at 20
+ 
+
+431
+00:09:15,230 --> 00:09:19,100
+GM in this case the GM sets the DC at 20
+he rolls a for the dye plus 7 for his
+
+432
+00:09:19,100 --> 00:09:19,110
+he rolls a for the dye plus 7 for his
+ 
+
+433
+00:09:19,110 --> 00:09:22,939
+he rolls a for the dye plus 7 for his
+bonus giving him a total of 11 he fails
+
+434
+00:09:22,939 --> 00:09:22,949
+bonus giving him a total of 11 he fails
+ 
+
+435
+00:09:22,949 --> 00:09:26,749
+bonus giving him a total of 11 he fails
+but did not critically fail if we check
+
+436
+00:09:26,749 --> 00:09:26,759
+but did not critically fail if we check
+ 
+
+437
+00:09:26,759 --> 00:09:30,199
+but did not critically fail if we check
+the table we see failing a level 5 task
+
+438
+00:09:30,199 --> 00:09:30,209
+the table we see failing a level 5 task
+ 
+
+439
+00:09:30,209 --> 00:09:33,110
+the table we see failing a level 5 task
+earns him two silver pieces for the day
+
+440
+00:09:33,110 --> 00:09:33,120
+earns him two silver pieces for the day
+ 
+
+441
+00:09:33,120 --> 00:09:36,470
+earns him two silver pieces for the day
+of work after the first day he can
+
+442
+00:09:36,470 --> 00:09:36,480
+of work after the first day he can
+ 
+
+443
+00:09:36,480 --> 00:09:38,780
+of work after the first day he can
+continue working additional days at the
+
+444
+00:09:38,780 --> 00:09:38,790
+continue working additional days at the
+ 
+
+445
+00:09:38,790 --> 00:09:41,749
+continue working additional days at the
+C house but does not reroll the check
+
+446
+00:09:41,749 --> 00:09:41,759
+C house but does not reroll the check
+ 
+
+447
+00:09:41,759 --> 00:09:45,259
+C house but does not reroll the check
+for every day he works he will earn two
+
+448
+00:09:45,259 --> 00:09:45,269
+for every day he works he will earn two
+ 
+
+449
+00:09:45,269 --> 00:09:48,889
+for every day he works he will earn two
+silver pieces he decides to keep working
+
+450
+00:09:48,889 --> 00:09:48,899
+silver pieces he decides to keep working
+ 
+
+451
+00:09:48,899 --> 00:09:51,530
+silver pieces he decides to keep working
+as the assistant team master and after
+
+452
+00:09:51,530 --> 00:09:51,540
+as the assistant team master and after
+ 
+
+453
+00:09:51,540 --> 00:09:53,990
+as the assistant team master and after
+the fourth day the GM tells him that the
+
+454
+00:09:53,990 --> 00:09:54,000
+the fourth day the GM tells him that the
+ 
+
+455
+00:09:54,000 --> 00:09:56,329
+the fourth day the GM tells him that the
+team master likes him but just doesn't
+
+456
+00:09:56,329 --> 00:09:56,339
+team master likes him but just doesn't
+ 
+
+457
+00:09:56,339 --> 00:09:57,949
+team master likes him but just doesn't
+think he's ready to serve as his
+
+458
+00:09:57,949 --> 00:09:57,959
+think he's ready to serve as his
+ 
+
+459
+00:09:57,959 --> 00:10:00,710
+think he's ready to serve as his
+assistant so the tea master gives him an
+
+460
+00:10:00,710 --> 00:10:00,720
+assistant so the tea master gives him an
+ 
+
+461
+00:10:00,720 --> 00:10:02,870
+assistant so the tea master gives him an
+option he can either finish
+
+462
+00:10:02,870 --> 00:10:02,880
+option he can either finish
+ 
+
+463
+00:10:02,880 --> 00:10:05,300
+option he can either finish
+out the week and then be let go from the
+
+464
+00:10:05,300 --> 00:10:05,310
+out the week and then be let go from the
+ 
+
+465
+00:10:05,310 --> 00:10:08,960
+out the week and then be let go from the
+tea house to go find another job or he
+
+466
+00:10:08,960 --> 00:10:08,970
+tea house to go find another job or he
+ 
+
+467
+00:10:08,970 --> 00:10:10,820
+tea house to go find another job or he
+can't continue working at the tea house
+
+468
+00:10:10,820 --> 00:10:10,830
+can't continue working at the tea house
+ 
+
+469
+00:10:10,830 --> 00:10:13,900
+can't continue working at the tea house
+as a server effective immediately
+
+470
+00:10:13,900 --> 00:10:13,910
+as a server effective immediately
+ 
+
+471
+00:10:13,910 --> 00:10:16,610
+as a server effective immediately
+he accepts the offer to become a server
+
+472
+00:10:16,610 --> 00:10:16,620
+he accepts the offer to become a server
+ 
+
+473
+00:10:16,620 --> 00:10:19,520
+he accepts the offer to become a server
+and at the end of his first day in the
+
+474
+00:10:19,520 --> 00:10:19,530
+and at the end of his first day in the
+ 
+
+475
+00:10:19,530 --> 00:10:20,240
+and at the end of his first day in the
+new job
+
+476
+00:10:20,240 --> 00:10:20,250
+new job
+ 
+
+477
+00:10:20,250 --> 00:10:23,390
+new job
+he must roll a new teal or skill check
+
+478
+00:10:23,390 --> 00:10:23,400
+he must roll a new teal or skill check
+ 
+
+479
+00:10:23,400 --> 00:10:26,920
+he must roll a new teal or skill check
+against a new secret DC set by the GM
+
+480
+00:10:26,920 --> 00:10:26,930
+against a new secret DC set by the GM
+ 
+
+481
+00:10:26,930 --> 00:10:30,740
+against a new secret DC set by the GM
+this time the GM says the DC at only 16
+
+482
+00:10:30,740 --> 00:10:30,750
+this time the GM says the DC at only 16
+ 
+
+483
+00:10:30,750 --> 00:10:34,640
+this time the GM says the DC at only 16
+because it is a lower level task horse
+
+484
+00:10:34,640 --> 00:10:34,650
+because it is a lower level task horse
+ 
+
+485
+00:10:34,650 --> 00:10:37,250
+because it is a lower level task horse
+corrals a natural nineteen plus his
+
+486
+00:10:37,250 --> 00:10:37,260
+corrals a natural nineteen plus his
+ 
+
+487
+00:10:37,260 --> 00:10:40,340
+corrals a natural nineteen plus his
+bonus of seven giving him a total of 26
+
+488
+00:10:40,340 --> 00:10:40,350
+bonus of seven giving him a total of 26
+ 
+
+489
+00:10:40,350 --> 00:10:43,790
+bonus of seven giving him a total of 26
+which is a critical success if we look
+
+490
+00:10:43,790 --> 00:10:43,800
+which is a critical success if we look
+ 
+
+491
+00:10:43,800 --> 00:10:45,830
+which is a critical success if we look
+at the table again we see that a
+
+492
+00:10:45,830 --> 00:10:45,840
+at the table again we see that a
+ 
+
+493
+00:10:45,840 --> 00:10:48,890
+at the table again we see that a
+second-level task usually pays three
+
+494
+00:10:48,890 --> 00:10:48,900
+second-level task usually pays three
+ 
+
+495
+00:10:48,900 --> 00:10:51,260
+second-level task usually pays three
+silver per day but since he got a
+
+496
+00:10:51,260 --> 00:10:51,270
+silver per day but since he got a
+ 
+
+497
+00:10:51,270 --> 00:10:54,080
+silver per day but since he got a
+critical success we treat it as if it
+
+498
+00:10:54,080 --> 00:10:54,090
+critical success we treat it as if it
+ 
+
+499
+00:10:54,090 --> 00:10:56,780
+critical success we treat it as if it
+was a level three task increasing his
+
+500
+00:10:56,780 --> 00:10:56,790
+was a level three task increasing his
+ 
+
+501
+00:10:56,790 --> 00:11:00,740
+was a level three task increasing his
+pay to five silver per day the tea house
+
+502
+00:11:00,740 --> 00:11:00,750
+pay to five silver per day the tea house
+ 
+
+503
+00:11:00,750 --> 00:11:02,990
+pay to five silver per day the tea house
+is so pleased with his high level of
+
+504
+00:11:02,990 --> 00:11:03,000
+is so pleased with his high level of
+ 
+
+505
+00:11:03,000 --> 00:11:04,700
+is so pleased with his high level of
+service that they keep him employed
+
+506
+00:11:04,700 --> 00:11:04,710
+service that they keep him employed
+ 
+
+507
+00:11:04,710 --> 00:11:06,770
+service that they keep him employed
+throughout the rest of his available
+
+508
+00:11:06,770 --> 00:11:06,780
+throughout the rest of his available
+ 
+
+509
+00:11:06,780 --> 00:11:09,140
+throughout the rest of his available
+downtime at the end of the month he
+
+510
+00:11:09,140 --> 00:11:09,150
+downtime at the end of the month he
+ 
+
+511
+00:11:09,150 --> 00:11:12,650
+downtime at the end of the month he
+earns a total of 13 gold and 8 silver
+
+512
+00:11:12,650 --> 00:11:12,660
+earns a total of 13 gold and 8 silver
+ 
+
+513
+00:11:12,660 --> 00:11:15,269
+earns a total of 13 gold and 8 silver
+pieces
+
+514
+00:11:15,269 --> 00:11:15,279
+
+ 
+
+515
+00:11:15,279 --> 00:11:17,519
+
+you can also use downtime treating
+
+516
+00:11:17,519 --> 00:11:17,529
+you can also use downtime treating
+ 
+
+517
+00:11:17,529 --> 00:11:19,379
+you can also use downtime treating
+someone suffering from a disease after
+
+518
+00:11:19,379 --> 00:11:19,389
+someone suffering from a disease after
+ 
+
+519
+00:11:19,389 --> 00:11:22,319
+someone suffering from a disease after
+eight hours you make a medicine skill
+
+520
+00:11:22,319 --> 00:11:22,329
+eight hours you make a medicine skill
+ 
+
+521
+00:11:22,329 --> 00:11:25,829
+eight hours you make a medicine skill
+check against the diseases DC on a
+
+522
+00:11:25,829 --> 00:11:25,839
+check against the diseases DC on a
+ 
+
+523
+00:11:25,839 --> 00:11:29,309
+check against the diseases DC on a
+success the diseased creature gains a +2
+
+524
+00:11:29,309 --> 00:11:29,319
+success the diseased creature gains a +2
+ 
+
+525
+00:11:29,319 --> 00:11:31,710
+success the diseased creature gains a +2
+circumstance bonus to its next save
+
+526
+00:11:31,710 --> 00:11:31,720
+circumstance bonus to its next save
+ 
+
+527
+00:11:31,720 --> 00:11:34,799
+circumstance bonus to its next save
+against that disease on a critical
+
+528
+00:11:34,799 --> 00:11:34,809
+against that disease on a critical
+ 
+
+529
+00:11:34,809 --> 00:11:38,460
+against that disease on a critical
+success the bonus is increased to +4 on
+
+530
+00:11:38,460 --> 00:11:38,470
+success the bonus is increased to +4 on
+ 
+
+531
+00:11:38,470 --> 00:11:42,210
+success the bonus is increased to +4 on
+a failure nothing happens and on a
+
+532
+00:11:42,210 --> 00:11:42,220
+a failure nothing happens and on a
+ 
+
+533
+00:11:42,220 --> 00:11:43,499
+a failure nothing happens and on a
+critical failure
+
+534
+00:11:43,499 --> 00:11:43,509
+critical failure
+ 
+
+535
+00:11:43,509 --> 00:11:45,569
+critical failure
+the creature suffers a negative two
+
+536
+00:11:45,569 --> 00:11:45,579
+the creature suffers a negative two
+ 
+
+537
+00:11:45,579 --> 00:11:47,519
+the creature suffers a negative two
+penalty to its next saving thorough
+
+538
+00:11:47,519 --> 00:11:47,529
+penalty to its next saving thorough
+ 
+
+539
+00:11:47,529 --> 00:11:50,790
+penalty to its next saving thorough
+against the disease after you attempt to
+
+540
+00:11:50,790 --> 00:11:50,800
+against the disease after you attempt to
+ 
+
+541
+00:11:50,800 --> 00:11:52,769
+against the disease after you attempt to
+treat a disease regardless of its
+
+542
+00:11:52,769 --> 00:11:52,779
+treat a disease regardless of its
+ 
+
+543
+00:11:52,779 --> 00:11:55,920
+treat a disease regardless of its
+outcome you can't try again until after
+
+544
+00:11:55,920 --> 00:11:55,930
+outcome you can't try again until after
+ 
+
+545
+00:11:55,930 --> 00:11:58,619
+outcome you can't try again until after
+that creatures next save against the
+
+546
+00:11:58,619 --> 00:11:58,629
+that creatures next save against the
+ 
+
+547
+00:11:58,629 --> 00:12:00,780
+that creatures next save against the
+disease if you would like more
+
+548
+00:12:00,780 --> 00:12:00,790
+disease if you would like more
+ 
+
+549
+00:12:00,790 --> 00:12:02,970
+disease if you would like more
+information about diseases and how they
+
+550
+00:12:02,970 --> 00:12:02,980
+information about diseases and how they
+ 
+
+551
+00:12:02,980 --> 00:12:05,429
+information about diseases and how they
+work check out our video on afflictions
+
+552
+00:12:05,429 --> 00:12:05,439
+work check out our video on afflictions
+ 
+
+553
+00:12:05,439 --> 00:12:09,400
+work check out our video on afflictions
+which is linked in the description
+
+554
+00:12:09,400 --> 00:12:09,410
+
+ 
+
+555
+00:12:09,410 --> 00:12:11,680
+
+in this video we covered the basics of
+
+556
+00:12:11,680 --> 00:12:11,690
+in this video we covered the basics of
+ 
+
+557
+00:12:11,690 --> 00:12:14,139
+in this video we covered the basics of
+downtime and the first half of the
+
+558
+00:12:14,139 --> 00:12:14,149
+downtime and the first half of the
+ 
+
+559
+00:12:14,149 --> 00:12:17,259
+downtime and the first half of the
+available downtime activities downtime
+
+560
+00:12:17,259 --> 00:12:17,269
+available downtime activities downtime
+ 
+
+561
+00:12:17,269 --> 00:12:19,689
+available downtime activities downtime
+occurs whenever the GM feels that time
+
+562
+00:12:19,689 --> 00:12:19,699
+occurs whenever the GM feels that time
+ 
+
+563
+00:12:19,699 --> 00:12:22,329
+occurs whenever the GM feels that time
+is best tracked in terms of days rather
+
+564
+00:12:22,329 --> 00:12:22,339
+is best tracked in terms of days rather
+ 
+
+565
+00:12:22,339 --> 00:12:26,259
+is best tracked in terms of days rather
+than minutes or rounds each day players
+
+566
+00:12:26,259 --> 00:12:26,269
+than minutes or rounds each day players
+ 
+
+567
+00:12:26,269 --> 00:12:28,300
+than minutes or rounds each day players
+should be able to participate in one
+
+568
+00:12:28,300 --> 00:12:28,310
+should be able to participate in one
+ 
+
+569
+00:12:28,310 --> 00:12:30,759
+should be able to participate in one
+downtime activity that takes eight hours
+
+570
+00:12:30,759 --> 00:12:30,769
+downtime activity that takes eight hours
+ 
+
+571
+00:12:30,769 --> 00:12:32,829
+downtime activity that takes eight hours
+of the day and leaves them time left
+
+572
+00:12:32,829 --> 00:12:32,839
+of the day and leaves them time left
+ 
+
+573
+00:12:32,839 --> 00:12:35,069
+of the day and leaves them time left
+over for other events and rest
+
+574
+00:12:35,069 --> 00:12:35,079
+over for other events and rest
+ 
+
+575
+00:12:35,079 --> 00:12:38,379
+over for other events and rest
+the first downtime activity is crafting
+
+576
+00:12:38,379 --> 00:12:38,389
+the first downtime activity is crafting
+ 
+
+577
+00:12:38,389 --> 00:12:40,569
+the first downtime activity is crafting
+which we do explore in detail with
+
+578
+00:12:40,569 --> 00:12:40,579
+which we do explore in detail with
+ 
+
+579
+00:12:40,579 --> 00:12:42,699
+which we do explore in detail with
+another series a link to those videos
+
+580
+00:12:42,699 --> 00:12:42,709
+another series a link to those videos
+ 
+
+581
+00:12:42,709 --> 00:12:45,490
+another series a link to those videos
+may be found in the description players
+
+582
+00:12:45,490 --> 00:12:45,500
+may be found in the description players
+ 
+
+583
+00:12:45,500 --> 00:12:48,309
+may be found in the description players
+can use the earn income activity to make
+
+584
+00:12:48,309 --> 00:12:48,319
+can use the earn income activity to make
+ 
+
+585
+00:12:48,319 --> 00:12:50,679
+can use the earn income activity to make
+some money during their downtime when
+
+586
+00:12:50,679 --> 00:12:50,689
+some money during their downtime when
+ 
+
+587
+00:12:50,689 --> 00:12:52,900
+some money during their downtime when
+doing so you will need to work with the
+
+588
+00:12:52,900 --> 00:12:52,910
+doing so you will need to work with the
+ 
+
+589
+00:12:52,910 --> 00:12:55,929
+doing so you will need to work with the
+GM to find a job which they will set a
+
+590
+00:12:55,929 --> 00:12:55,939
+GM to find a job which they will set a
+ 
+
+591
+00:12:55,939 --> 00:12:59,170
+GM to find a job which they will set a
+task level for after your first day of
+
+592
+00:12:59,170 --> 00:12:59,180
+task level for after your first day of
+ 
+
+593
+00:12:59,180 --> 00:13:02,050
+task level for after your first day of
+work you will roll a skill check against
+
+594
+00:13:02,050 --> 00:13:02,060
+work you will roll a skill check against
+ 
+
+595
+00:13:02,060 --> 00:13:05,259
+work you will roll a skill check against
+a secret DC set by the GM the result of
+
+596
+00:13:05,259 --> 00:13:05,269
+a secret DC set by the GM the result of
+ 
+
+597
+00:13:05,269 --> 00:13:07,449
+a secret DC set by the GM the result of
+that check is compared to the table on
+
+598
+00:13:07,449 --> 00:13:07,459
+that check is compared to the table on
+ 
+
+599
+00:13:07,459 --> 00:13:11,079
+that check is compared to the table on
+page 236 to learn how much money is
+
+600
+00:13:11,079 --> 00:13:11,089
+page 236 to learn how much money is
+ 
+
+601
+00:13:11,089 --> 00:13:13,870
+page 236 to learn how much money is
+earned and from there you can continue
+
+602
+00:13:13,870 --> 00:13:13,880
+earned and from there you can continue
+ 
+
+603
+00:13:13,880 --> 00:13:16,210
+earned and from there you can continue
+working the job earning the same amount
+
+604
+00:13:16,210 --> 00:13:16,220
+working the job earning the same amount
+ 
+
+605
+00:13:16,220 --> 00:13:18,040
+working the job earning the same amount
+of money every day without rolling
+
+606
+00:13:18,040 --> 00:13:18,050
+of money every day without rolling
+ 
+
+607
+00:13:18,050 --> 00:13:20,800
+of money every day without rolling
+additional checks until either time runs
+
+608
+00:13:20,800 --> 00:13:20,810
+additional checks until either time runs
+ 
+
+609
+00:13:20,810 --> 00:13:23,650
+additional checks until either time runs
+out the job is finished or your
+
+610
+00:13:23,650 --> 00:13:23,660
+out the job is finished or your
+ 
+
+611
+00:13:23,660 --> 00:13:27,220
+out the job is finished or your
+employment is terminated and last treat
+
+612
+00:13:27,220 --> 00:13:27,230
+employment is terminated and last treat
+ 
+
+613
+00:13:27,230 --> 00:13:29,079
+employment is terminated and last treat
+disease is used to grant a bonus to
+
+614
+00:13:29,079 --> 00:13:29,089
+disease is used to grant a bonus to
+ 
+
+615
+00:13:29,089 --> 00:13:31,240
+disease is used to grant a bonus to
+someone else's saving throws against
+
+616
+00:13:31,240 --> 00:13:31,250
+someone else's saving throws against
+ 
+
+617
+00:13:31,250 --> 00:13:34,150
+someone else's saving throws against
+disease this can be attempted only once
+
+618
+00:13:34,150 --> 00:13:34,160
+disease this can be attempted only once
+ 
+
+619
+00:13:34,160 --> 00:13:36,699
+disease this can be attempted only once
+per saving through attempt regardless of
+
+620
+00:13:36,699 --> 00:13:36,709
+per saving through attempt regardless of
+ 
+
+621
+00:13:36,709 --> 00:13:38,860
+per saving through attempt regardless of
+how many days pass between those roles
+
+622
+00:13:38,860 --> 00:13:38,870
+how many days pass between those roles
+ 
+
+623
+00:13:38,870 --> 00:13:41,860
+how many days pass between those roles
+in the next video we will cover the rest
+
+624
+00:13:41,860 --> 00:13:41,870
+in the next video we will cover the rest
+ 
+
+625
+00:13:41,870 --> 00:13:45,780
+in the next video we will cover the rest
+including subsist long term rest
+
+626
+00:13:45,780 --> 00:13:45,790
+including subsist long term rest
+ 
+
+627
+00:13:45,790 --> 00:13:48,480
+including subsist long term rest
+retraining also known as respecting and
+
+628
+00:13:48,480 --> 00:13:48,490
+retraining also known as respecting and
+ 
+
+629
+00:13:48,490 --> 00:13:53,650
+retraining also known as respecting and
+also how to create forged documents
+
+630
+00:13:53,650 --> 00:13:53,660
+also how to create forged documents
+ 
+
+631
+00:13:53,660 --> 00:13:55,840
+also how to create forged documents
+before we close I'd like to take a
+
+632
+00:13:55,840 --> 00:13:55,850
+before we close I'd like to take a
+ 
+
+633
+00:13:55,850 --> 00:13:58,300
+before we close I'd like to take a
+moment to thank all of our patrons these
+
+634
+00:13:58,300 --> 00:13:58,310
+moment to thank all of our patrons these
+ 
+
+635
+00:13:58,310 --> 00:14:00,070
+moment to thank all of our patrons these
+videos would not be possible without
+
+636
+00:14:00,070 --> 00:14:00,080
+videos would not be possible without
+ 
+
+637
+00:14:00,080 --> 00:14:02,910
+videos would not be possible without
+their continued generosity and support
+
+638
+00:14:02,910 --> 00:14:02,920
+their continued generosity and support
+ 
+
+639
+00:14:02,920 --> 00:14:05,740
+their continued generosity and support
+members of the basics for gamers patreon
+
+640
+00:14:05,740 --> 00:14:05,750
+members of the basics for gamers patreon
+ 
+
+641
+00:14:05,750 --> 00:14:07,930
+members of the basics for gamers patreon
+community receive special benefits like
+
+642
+00:14:07,930 --> 00:14:07,940
+community receive special benefits like
+ 
+
+643
+00:14:07,940 --> 00:14:09,760
+community receive special benefits like
+getting to vote on the topics that we
+
+644
+00:14:09,760 --> 00:14:09,770
+getting to vote on the topics that we
+ 
+
+645
+00:14:09,770 --> 00:14:11,980
+getting to vote on the topics that we
+cover in the future and also they get to
+
+646
+00:14:11,980 --> 00:14:11,990
+cover in the future and also they get to
+ 
+
+647
+00:14:11,990 --> 00:14:14,470
+cover in the future and also they get to
+see these videos one week and ad-free
+
+648
+00:14:14,470 --> 00:14:14,480
+see these videos one week and ad-free
+ 
+
+649
+00:14:14,480 --> 00:14:17,890
+see these videos one week and ad-free
+before everybody else visit the links
+
+650
+00:14:17,890 --> 00:14:17,900
+before everybody else visit the links
+ 
+
+651
+00:14:17,900 --> 00:14:19,600
+before everybody else visit the links
+shown on the left of the screen and in
+
+652
+00:14:19,600 --> 00:14:19,610
+shown on the left of the screen and in
+ 
+
+653
+00:14:19,610 --> 00:14:21,070
+shown on the left of the screen and in
+the description if you'd like to know
+
+654
+00:14:21,070 --> 00:14:21,080
+the description if you'd like to know
+ 
+
+655
+00:14:21,080 --> 00:14:23,770
+the description if you'd like to know
+more about becoming a patron if you
+
+656
+00:14:23,770 --> 00:14:23,780
+more about becoming a patron if you
+ 
+
+657
+00:14:23,780 --> 00:14:25,090
+more about becoming a patron if you
+would like to support this channel and
+
+658
+00:14:25,090 --> 00:14:25,100
+would like to support this channel and
+ 
+
+659
+00:14:25,100 --> 00:14:27,070
+would like to support this channel and
+help it grow the easiest way to do that
+
+660
+00:14:27,070 --> 00:14:27,080
+help it grow the easiest way to do that
+ 
+
+661
+00:14:27,080 --> 00:14:29,830
+help it grow the easiest way to do that
+is by subscribing and clicking the bell
+
+662
+00:14:29,830 --> 00:14:29,840
+is by subscribing and clicking the bell
+ 
+
+663
+00:14:29,840 --> 00:14:32,350
+is by subscribing and clicking the bell
+icon so you get notified when new videos
+
+664
+00:14:32,350 --> 00:14:32,360
+icon so you get notified when new videos
+ 
+
+665
+00:14:32,360 --> 00:14:34,780
+icon so you get notified when new videos
+release and we can always be reached
+
+666
+00:14:34,780 --> 00:14:34,790
+release and we can always be reached
+ 
+
+667
+00:14:34,790 --> 00:14:36,100
+release and we can always be reached
+through our Twitter and Facebook pages
+
+668
+00:14:36,100 --> 00:14:36,110
+through our Twitter and Facebook pages
+ 
+
+669
+00:14:36,110 --> 00:14:39,220
+through our Twitter and Facebook pages
+too thanks for watching take care and we
+
+670
+00:14:39,220 --> 00:14:39,230
+too thanks for watching take care and we
+ 
+
+671
+00:14:39,230 --> 00:14:41,020
+too thanks for watching take care and we
+will see you soon with more basics of
+
+672
+00:14:41,020 --> 00:14:41,030
+will see you soon with more basics of
+ 
+
+673
+00:14:41,030 --> 00:14:43,660
+will see you soon with more basics of
+Pathfinder
+

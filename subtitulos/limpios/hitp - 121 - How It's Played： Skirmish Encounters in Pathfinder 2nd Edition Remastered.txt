@@ -1,0 +1,53 @@
+Hello and welcome to skirmish encounters in Pathfinder second edition remastered.
+
+Skirmish encounters revolve around troop combat. So it's highly recommended that you watch my video on troops if you haven't already as those rules are necessary to understanding skirmishes and I will not be covering all of the troop rules in detail again here.
+
+Skirmish encounters allow players to take part in larger battles with dozens or more combatants on each side of the conflict without sacrificing their sense of individuality at the game table. This is not a full mass combat or war scale system where the players look down on the battlefield from a bird's eyee view above, but instead puts them on the battlefield itself and in command of troops. Simply put, troops are large groups of creatures that work together.
+
+Although a troop is made up of lots of smaller individuals, it mechanically functions as a single large creature with one stat block, sort of like a swarm, but usually made of larger, more intelligent creatures. In a typical skirmish encounter, each player is placed in command of their own troop.
+
+So, if you have four players, you will likely also have four troops, each one controlled by a different player. And not just mechanically speaking, within the narrative, each player's character has command of their own troop with the members of that troop following their orders. Establishing leadership of a troop takes at least 10 minutes. And if they spend a full day of downtime together, they form a special skirmish bond, which we'll talk about a little bit later.
+
+The skirmish encounter rules are abstracted to a larger degree than the usual combat rules, but function in much the same way. When commanding a troop, the player and the troop they command combined together. The player character is treated as if they are occupying all of the troops spaces and segments simultaneously. They can make attacks, calculate range, determine cover, and so on from any single space within the troops area.
+
+They need to choose which space they are in to take an action like strike, but they are only locked into that space for the purposes of that one action. For example, a troop's leader can spin an action to make an attack from one space within a troop's area and then spin their next action to make another attack from a square on the other side of the troop or even in a different segment.
+
+And note that this means emanation abilities affect things within range from one specific square of the troop and do not extend outward from all of the troop spaces.
+
+Together, the PC leader and their troop get five actions and two reactions each round, which are divided into two sets.
+
+One set has three actions and one reaction, and the other set has two actions and one reaction. Each turn, the player decides how to allocate these sets between the troop and its leader.
+
+So, one round, the leader might have three actions and the troop two actions, and the next round the troop might have three actions and the leader too.
+
+Regardless, the leader and the troop will always have one reaction of their own. Any effect that adjusts the creature's number of actions is applied separately. For example, if a leader and the troop are both subject to the quickened condition, they each gain an extra action. And the same would apply if they are both slowed. They would each lose an action.
+
+Any move action a troop or leader takes moves the entire unit. If the leader spins an action to stride, then the entire group moves even if the leader speed score is higher than the troops.
+
+And the same is true if the troop spins an action to stride. It would move up to its speed score and the leader would move along with it. Again, because the leader is occupying all of its same spaces simultaneously. That said, the GM is expected to manage this if the differences in speed are great or the leader has a mode of movement that the troop doesn't, such as flight. And to keep movement somewhat in check, no more than three actions worth of their five actions can be used to move the group in one turn. This includes both move actions like stride and activities that include move actions. For example, if a troop was led by a barbarian and that leader used sudden charge, which doesn't include the move trait itself, but does cause the user to strike twice, the group could only use one more action to move during their turn. But that one action could come from either the barbarian leader or from their troop.
+
+And if an ability lets the troop and its leader move outside of their turn, the unit can usually move only once. For example, if they move because of a reaction or because of a commander's tactic that lets several squadmates move, the leader in the troop could only benefit from this one time because they are one unit. And another note related to movement. If a skirmish encounter begins unexpectedly, for example, if the players are taken by surprise, the leader is automatically moved to their troops space.
+
+As mentioned earlier, if a leader spends a full day of downtime working with and drilling with their troop, they can form a special bond. After one day of downtime, the leader can select one skirmish bond they meet the prerequisites for and can change this bond to a new one after another day of downtime. For example, a leader who has expert proficiency with a weapon could select the combo attack bond. If they're leading a Goblin Rabble troop, then any enemy they hit with an attack will suffer a negative one penalty when saving against the goblin rabbles dog pile attack. Or a leader who is expert in diplomacy, intimidation, or performance might choose desperate fervor to inspire their troop when the chips are down. And members of the commander class have a special skirmish bond available to them called under command. This allows the commander to treat the troop as one of their squadmates and also allows the troop to use their offensive abilities whenever the commander's tactics call for a strike.
+
+When an enemy uses an effect that targets a single creature, for example, most melee attacks, the attacker chooses if they wish to target the troop or the player character leading the troop and then resolves the effect as normal. And again, the leader is considered to be occupying all the same spaces as the troop they lead simultaneously.
+
+So all the enemy needs to be able to do is target any one of the troop spaces, regardless of whichever space was most recently used to manage that leader's actions. And since the leader and their troop mechanically function as one unified group, the troop does not grant cover when an enemy attacks the leader, nor does the troop impose cover on the leader attacks. And this includes situations where the leader is mounted within a troop. The mount does not grant lesser cover to their rider as it does usually. Likewise, a leader cannot flink with their own troop because they are again one and the same. But if two different troops are on opposite sides or edges of an enemy, their leaders do get flanking benefits. And if the leader has a minion, such as an animal companion, familiar, or summoned creature, they also occupy the same spaces as the troop, just like the troop's leader does. This can be dangerous for weaker minions, especially familiars, but can be offset with the troop mascot skirmish bond.
+
+In skirmish encounters, troops can be forced to flee from battle if their morale drops too low. This is managed through route checks, which is a type of willsaving throw. Route checks are rolled whenever the troop's hit points are pushed past one of his thresholds and whenever the troop's leader is knocked unconscious. If both happen at the same time, the troop only rolls one route check. Route checks have the emotion, fear, and mental traits. And the DC for route checks is a standard DC for the level of the creature who damaged it. With a successful will save, the troop is frightened one. On a failure, the troop is frightened too.
+
+And on a critical failure, the members of the troop break formation and run away, causing the entire troop to be removed from battle. The result of a route check applies only to the troop and not its leader. And while the troop's leader is conscious, the result of this check is improved by one step.
+
+When a leader's troop is defeated, the leader is placed into any space the troop previously occupied, and play continues as normal. When a troop flees, the leader may choose to flee with them or abandon them to stay and fight. If the leader abandons their fleeing troop, they cannot become the leader of that troop again within the same encounter.
+
+And if the troop loses their leader, either because the leader is knocked out or unable to act for some reason, they lose all benefits for having a leader, such as skirmish bonds and improved route checks. When this happens, the troop keeps its place in initiative, but only gains two actions at the start of each of its turns. And when a troop loses a leader, one of that leader's allies can attempt to become its new leader. This calls for the take the lead activity which costs two actions to perform a diplomacy check against a DC equal to the easy DC for the troops level. On a success, the character becomes the troop's new leader, but the troop does not regain their lost skirmish bond or a new skirmish bond because of having a new leader. On a failure, nothing happens. and on a critical failure, the troop must immediately attempt a route check. If a leader is knocked out and later revived, that leader resumes command of their troop with all the previous benefits. If the troop gained a new leader in their absence, then that new leader may step down and return command to the original leader without the need for that original leader to roll a take the lead check.
+
+So, that's it for skirmish encounters.
+
+Please share your questions in the comments below. And as always, I want to take a quick moment to say thank you to everybody out there who supports me.
+
+Whether that's by clicking the like button, subscribing to the channel, subscribing to the Patreon, or buying a Superthanks. I greatly appreciate everything you folks do to support me.
+
+And as always, thanks for watching. Take care and happy gaming.
+
+[Music]

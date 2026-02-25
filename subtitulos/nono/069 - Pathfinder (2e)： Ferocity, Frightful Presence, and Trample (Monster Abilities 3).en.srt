@@ -1,0 +1,2025 @@
+1
+00:00:01,120 --> 00:00:02,869
+
+hello and welcome to monster abilities
+
+2
+00:00:02,869 --> 00:00:02,879
+hello and welcome to monster abilities
+ 
+
+3
+00:00:02,879 --> 00:00:05,349
+hello and welcome to monster abilities
+and pathfinder 2nd edition part 3.
+
+4
+00:00:05,349 --> 00:00:05,359
+and pathfinder 2nd edition part 3.
+ 
+
+5
+00:00:05,359 --> 00:00:06,630
+and pathfinder 2nd edition part 3.
+in this video we'll be discussing
+
+6
+00:00:06,630 --> 00:00:06,640
+in this video we'll be discussing
+ 
+
+7
+00:00:06,640 --> 00:00:11,030
+in this video we'll be discussing
+ferocity frightful presence and trample
+
+8
+00:00:11,030 --> 00:00:11,040
+ferocity frightful presence and trample
+ 
+
+9
+00:00:11,040 --> 00:00:13,110
+ferocity frightful presence and trample
+ferocity is an ability commonly found in
+
+10
+00:00:13,110 --> 00:00:13,120
+ferocity is an ability commonly found in
+ 
+
+11
+00:00:13,120 --> 00:00:15,270
+ferocity is an ability commonly found in
+orcs cyclops and animals such as badgers
+
+12
+00:00:15,270 --> 00:00:15,280
+orcs cyclops and animals such as badgers
+ 
+
+13
+00:00:15,280 --> 00:00:16,950
+orcs cyclops and animals such as badgers
+and boars and allows the creature to
+
+14
+00:00:16,950 --> 00:00:16,960
+and boars and allows the creature to
+ 
+
+15
+00:00:16,960 --> 00:00:18,870
+and boars and allows the creature to
+stay conscious and in the fight even
+
+16
+00:00:18,870 --> 00:00:18,880
+stay conscious and in the fight even
+ 
+
+17
+00:00:18,880 --> 00:00:21,189
+stay conscious and in the fight even
+after being reduced to zero hit points
+
+18
+00:00:21,189 --> 00:00:21,199
+after being reduced to zero hit points
+ 
+
+19
+00:00:21,199 --> 00:00:23,269
+after being reduced to zero hit points
+the ability costs one reaction with the
+
+20
+00:00:23,269 --> 00:00:23,279
+the ability costs one reaction with the
+ 
+
+21
+00:00:23,279 --> 00:00:25,910
+the ability costs one reaction with the
+trigger the monster is reduced to zero
+
+22
+00:00:25,910 --> 00:00:25,920
+trigger the monster is reduced to zero
+ 
+
+23
+00:00:25,920 --> 00:00:26,950
+trigger the monster is reduced to zero
+hit points
+
+24
+00:00:26,950 --> 00:00:26,960
+hit points
+ 
+
+25
+00:00:26,960 --> 00:00:29,109
+hit points
+and with the effect the monster avoids
+
+26
+00:00:29,109 --> 00:00:29,119
+and with the effect the monster avoids
+ 
+
+27
+00:00:29,119 --> 00:00:29,990
+and with the effect the monster avoids
+being knocked out
+
+28
+00:00:29,990 --> 00:00:30,000
+being knocked out
+ 
+
+29
+00:00:30,000 --> 00:00:31,509
+being knocked out
+and remains at one hit point but his
+
+30
+00:00:31,509 --> 00:00:31,519
+and remains at one hit point but his
+ 
+
+31
+00:00:31,519 --> 00:00:33,430
+and remains at one hit point but his
+wounded value increases by 1.
+
+32
+00:00:33,430 --> 00:00:33,440
+wounded value increases by 1.
+ 
+
+33
+00:00:33,440 --> 00:00:35,590
+wounded value increases by 1.
+when it is wounded 3 it can no longer
+
+34
+00:00:35,590 --> 00:00:35,600
+when it is wounded 3 it can no longer
+ 
+
+35
+00:00:35,600 --> 00:00:36,870
+when it is wounded 3 it can no longer
+use this ability
+
+36
+00:00:36,870 --> 00:00:36,880
+use this ability
+ 
+
+37
+00:00:36,880 --> 00:00:38,950
+use this ability
+so the way it works is the first time a
+
+38
+00:00:38,950 --> 00:00:38,960
+so the way it works is the first time a
+ 
+
+39
+00:00:38,960 --> 00:00:40,630
+so the way it works is the first time a
+creature with ferocity suffers enough
+
+40
+00:00:40,630 --> 00:00:40,640
+creature with ferocity suffers enough
+ 
+
+41
+00:00:40,640 --> 00:00:42,389
+creature with ferocity suffers enough
+damage that would normally kill it
+
+42
+00:00:42,389 --> 00:00:42,399
+damage that would normally kill it
+ 
+
+43
+00:00:42,399 --> 00:00:44,709
+damage that would normally kill it
+it can spin its reaction to instead stay
+
+44
+00:00:44,709 --> 00:00:44,719
+it can spin its reaction to instead stay
+ 
+
+45
+00:00:44,719 --> 00:00:46,470
+it can spin its reaction to instead stay
+alive at one hit point
+
+46
+00:00:46,470 --> 00:00:46,480
+alive at one hit point
+ 
+
+47
+00:00:46,480 --> 00:00:48,470
+alive at one hit point
+and when it does so is wounded value
+
+48
+00:00:48,470 --> 00:00:48,480
+and when it does so is wounded value
+ 
+
+49
+00:00:48,480 --> 00:00:49,830
+and when it does so is wounded value
+increases by one
+
+50
+00:00:49,830 --> 00:00:49,840
+increases by one
+ 
+
+51
+00:00:49,840 --> 00:00:51,510
+increases by one
+in most cases monsters are considered
+
+52
+00:00:51,510 --> 00:00:51,520
+in most cases monsters are considered
+ 
+
+53
+00:00:51,520 --> 00:00:53,110
+in most cases monsters are considered
+dead at zero hit points
+
+54
+00:00:53,110 --> 00:00:53,120
+dead at zero hit points
+ 
+
+55
+00:00:53,120 --> 00:00:54,709
+dead at zero hit points
+and you don't need to worry about the
+
+56
+00:00:54,709 --> 00:00:54,719
+and you don't need to worry about the
+ 
+
+57
+00:00:54,719 --> 00:00:56,470
+and you don't need to worry about the
+wounded and dying conditions unless the
+
+58
+00:00:56,470 --> 00:00:56,480
+wounded and dying conditions unless the
+ 
+
+59
+00:00:56,480 --> 00:00:56,869
+wounded and dying conditions unless the
+gm
+
+60
+00:00:56,869 --> 00:00:56,879
+gm
+ 
+
+61
+00:00:56,879 --> 00:00:59,189
+gm
+feels they need to for example if it's
+
+62
+00:00:59,189 --> 00:00:59,199
+feels they need to for example if it's
+ 
+
+63
+00:00:59,199 --> 00:01:01,910
+feels they need to for example if it's
+an orc that is also a prominent npc
+
+64
+00:01:01,910 --> 00:01:01,920
+an orc that is also a prominent npc
+ 
+
+65
+00:01:01,920 --> 00:01:03,670
+an orc that is also a prominent npc
+then the gm might want to track their
+
+66
+00:01:03,670 --> 00:01:03,680
+then the gm might want to track their
+ 
+
+67
+00:01:03,680 --> 00:01:05,109
+then the gm might want to track their
+wounded and dying conditions
+
+68
+00:01:05,109 --> 00:01:05,119
+wounded and dying conditions
+ 
+
+69
+00:01:05,119 --> 00:01:07,190
+wounded and dying conditions
+but in most cases this notation that
+
+70
+00:01:07,190 --> 00:01:07,200
+but in most cases this notation that
+ 
+
+71
+00:01:07,200 --> 00:01:09,190
+but in most cases this notation that
+says that ferocity increases wounded by
+
+72
+00:01:09,190 --> 00:01:09,200
+says that ferocity increases wounded by
+ 
+
+73
+00:01:09,200 --> 00:01:09,590
+says that ferocity increases wounded by
+one
+
+74
+00:01:09,590 --> 00:01:09,600
+one
+ 
+
+75
+00:01:09,600 --> 00:01:11,670
+one
+is just a counter that places a limit on
+
+76
+00:01:11,670 --> 00:01:11,680
+is just a counter that places a limit on
+ 
+
+77
+00:01:11,680 --> 00:01:13,190
+is just a counter that places a limit on
+how many times a creature can use
+
+78
+00:01:13,190 --> 00:01:13,200
+how many times a creature can use
+ 
+
+79
+00:01:13,200 --> 00:01:14,070
+how many times a creature can use
+ferocity
+
+80
+00:01:14,070 --> 00:01:14,080
+ferocity
+ 
+
+81
+00:01:14,080 --> 00:01:16,710
+ferocity
+after their third use they're done now
+
+82
+00:01:16,710 --> 00:01:16,720
+after their third use they're done now
+ 
+
+83
+00:01:16,720 --> 00:01:18,630
+after their third use they're done now
+this doesn't mean that the first three
+
+84
+00:01:18,630 --> 00:01:18,640
+this doesn't mean that the first three
+ 
+
+85
+00:01:18,640 --> 00:01:20,550
+this doesn't mean that the first three
+times there reduces zero hit points they
+
+86
+00:01:20,550 --> 00:01:20,560
+times there reduces zero hit points they
+ 
+
+87
+00:01:20,560 --> 00:01:22,469
+times there reduces zero hit points they
+get to shrug it off and stay fighting
+
+88
+00:01:22,469 --> 00:01:22,479
+get to shrug it off and stay fighting
+ 
+
+89
+00:01:22,479 --> 00:01:24,469
+get to shrug it off and stay fighting
+always remember that this costs their
+
+90
+00:01:24,469 --> 00:01:24,479
+always remember that this costs their
+ 
+
+91
+00:01:24,479 --> 00:01:27,190
+always remember that this costs their
+reaction and each creature only gets one
+
+92
+00:01:27,190 --> 00:01:27,200
+reaction and each creature only gets one
+ 
+
+93
+00:01:27,200 --> 00:01:28,789
+reaction and each creature only gets one
+reaction per turn
+
+94
+00:01:28,789 --> 00:01:28,799
+reaction per turn
+ 
+
+95
+00:01:28,799 --> 00:01:31,429
+reaction per turn
+so if one player reduces an orc to zero
+
+96
+00:01:31,429 --> 00:01:31,439
+so if one player reduces an orc to zero
+ 
+
+97
+00:01:31,439 --> 00:01:32,230
+so if one player reduces an orc to zero
+hit points
+
+98
+00:01:32,230 --> 00:01:32,240
+hit points
+ 
+
+99
+00:01:32,240 --> 00:01:34,390
+hit points
+that orc might spend their one reaction
+
+100
+00:01:34,390 --> 00:01:34,400
+that orc might spend their one reaction
+ 
+
+101
+00:01:34,400 --> 00:01:36,390
+that orc might spend their one reaction
+to use ferocity and stay alive
+
+102
+00:01:36,390 --> 00:01:36,400
+to use ferocity and stay alive
+ 
+
+103
+00:01:36,400 --> 00:01:38,950
+to use ferocity and stay alive
+but if another player hits that orc and
+
+104
+00:01:38,950 --> 00:01:38,960
+but if another player hits that orc and
+ 
+
+105
+00:01:38,960 --> 00:01:39,749
+but if another player hits that orc and
+deals them a
+
+106
+00:01:39,749 --> 00:01:39,759
+deals them a
+ 
+
+107
+00:01:39,759 --> 00:01:41,830
+deals them a
+single point of damage before that orcs
+
+108
+00:01:41,830 --> 00:01:41,840
+single point of damage before that orcs
+ 
+
+109
+00:01:41,840 --> 00:01:44,469
+single point of damage before that orcs
+next turn then they can't use ferocity
+
+110
+00:01:44,469 --> 00:01:44,479
+next turn then they can't use ferocity
+ 
+
+111
+00:01:44,479 --> 00:01:45,749
+next turn then they can't use ferocity
+and will be killed or knocked
+
+112
+00:01:45,749 --> 00:01:45,759
+and will be killed or knocked
+ 
+
+113
+00:01:45,759 --> 00:01:47,830
+and will be killed or knocked
+unconscious of the gm perfers
+
+114
+00:01:47,830 --> 00:01:47,840
+unconscious of the gm perfers
+ 
+
+115
+00:01:47,840 --> 00:01:49,990
+unconscious of the gm perfers
+reactions are granted at the start of
+
+116
+00:01:49,990 --> 00:01:50,000
+reactions are granted at the start of
+ 
+
+117
+00:01:50,000 --> 00:01:51,830
+reactions are granted at the start of
+each turn so a creature cannot use
+
+118
+00:01:51,830 --> 00:01:51,840
+each turn so a creature cannot use
+ 
+
+119
+00:01:51,840 --> 00:01:52,550
+each turn so a creature cannot use
+ferocity
+
+120
+00:01:52,550 --> 00:01:52,560
+ferocity
+ 
+
+121
+00:01:52,560 --> 00:01:55,429
+ferocity
+more than once per round likewise this
+
+122
+00:01:55,429 --> 00:01:55,439
+more than once per round likewise this
+ 
+
+123
+00:01:55,439 --> 00:01:57,270
+more than once per round likewise this
+reaction might be shared among different
+
+124
+00:01:57,270 --> 00:01:57,280
+reaction might be shared among different
+ 
+
+125
+00:01:57,280 --> 00:01:57,910
+reaction might be shared among different
+abilities
+
+126
+00:01:57,910 --> 00:01:57,920
+abilities
+ 
+
+127
+00:01:57,920 --> 00:01:59,590
+abilities
+for example if an orc uses their
+
+128
+00:01:59,590 --> 00:01:59,600
+for example if an orc uses their
+ 
+
+129
+00:01:59,600 --> 00:02:01,190
+for example if an orc uses their
+reaction to perform an attack of
+
+130
+00:02:01,190 --> 00:02:01,200
+reaction to perform an attack of
+ 
+
+131
+00:02:01,200 --> 00:02:01,990
+reaction to perform an attack of
+opportunity
+
+132
+00:02:01,990 --> 00:02:02,000
+opportunity
+ 
+
+133
+00:02:02,000 --> 00:02:04,149
+opportunity
+then they will not be able to also use
+
+134
+00:02:04,149 --> 00:02:04,159
+then they will not be able to also use
+ 
+
+135
+00:02:04,159 --> 00:02:06,830
+then they will not be able to also use
+ferocity until the start of their next
+
+136
+00:02:06,830 --> 00:02:06,840
+ferocity until the start of their next
+ 
+
+137
+00:02:06,840 --> 00:02:09,029
+ferocity until the start of their next
+turn
+
+138
+00:02:09,029 --> 00:02:09,039
+turn
+ 
+
+139
+00:02:09,039 --> 00:02:11,190
+turn
+frightful presence is an ability common
+
+140
+00:02:11,190 --> 00:02:11,200
+frightful presence is an ability common
+ 
+
+141
+00:02:11,200 --> 00:02:13,990
+frightful presence is an ability common
+to dragons and some undead like liches
+
+142
+00:02:13,990 --> 00:02:14,000
+to dragons and some undead like liches
+ 
+
+143
+00:02:14,000 --> 00:02:16,470
+to dragons and some undead like liches
+this is an aura ability that creates a
+
+144
+00:02:16,470 --> 00:02:16,480
+this is an aura ability that creates a
+ 
+
+145
+00:02:16,480 --> 00:02:18,550
+this is an aura ability that creates a
+zone around the monster and strikes fear
+
+146
+00:02:18,550 --> 00:02:18,560
+zone around the monster and strikes fear
+ 
+
+147
+00:02:18,560 --> 00:02:20,229
+zone around the monster and strikes fear
+in the heart of anyone who approaches
+
+148
+00:02:20,229 --> 00:02:20,239
+in the heart of anyone who approaches
+ 
+
+149
+00:02:20,239 --> 00:02:20,790
+in the heart of anyone who approaches
+them
+
+150
+00:02:20,790 --> 00:02:20,800
+them
+ 
+
+151
+00:02:20,800 --> 00:02:23,110
+them
+the first time a player enters this zone
+
+152
+00:02:23,110 --> 00:02:23,120
+the first time a player enters this zone
+ 
+
+153
+00:02:23,120 --> 00:02:24,390
+the first time a player enters this zone
+they must make a will
+
+154
+00:02:24,390 --> 00:02:24,400
+they must make a will
+ 
+
+155
+00:02:24,400 --> 00:02:27,430
+they must make a will
+save versus the listed dc for example
+
+156
+00:02:27,430 --> 00:02:27,440
+save versus the listed dc for example
+ 
+
+157
+00:02:27,440 --> 00:02:29,350
+save versus the listed dc for example
+young red dragons have an entry that
+
+158
+00:02:29,350 --> 00:02:29,360
+young red dragons have an entry that
+ 
+
+159
+00:02:29,360 --> 00:02:31,270
+young red dragons have an entry that
+says frightful presence
+
+160
+00:02:31,270 --> 00:02:31,280
+says frightful presence
+ 
+
+161
+00:02:31,280 --> 00:02:35,030
+says frightful presence
+90 feet dc 27 whenever someone moves
+
+162
+00:02:35,030 --> 00:02:35,040
+90 feet dc 27 whenever someone moves
+ 
+
+163
+00:02:35,040 --> 00:02:35,990
+90 feet dc 27 whenever someone moves
+within 90
+
+164
+00:02:35,990 --> 00:02:36,000
+within 90
+ 
+
+165
+00:02:36,000 --> 00:02:37,910
+within 90
+feet of a young red dragon they must
+
+166
+00:02:37,910 --> 00:02:37,920
+feet of a young red dragon they must
+ 
+
+167
+00:02:37,920 --> 00:02:40,630
+feet of a young red dragon they must
+roll a will save versus dc27
+
+168
+00:02:40,630 --> 00:02:40,640
+roll a will save versus dc27
+ 
+
+169
+00:02:40,640 --> 00:02:42,070
+roll a will save versus dc27
+once a player is subjected to a
+
+170
+00:02:42,070 --> 00:02:42,080
+once a player is subjected to a
+ 
+
+171
+00:02:42,080 --> 00:02:43,910
+once a player is subjected to a
+monster's frightful presence they are
+
+172
+00:02:43,910 --> 00:02:43,920
+monster's frightful presence they are
+ 
+
+173
+00:02:43,920 --> 00:02:45,910
+monster's frightful presence they are
+immune to its effect for one minute
+
+174
+00:02:45,910 --> 00:02:45,920
+immune to its effect for one minute
+ 
+
+175
+00:02:45,920 --> 00:02:47,830
+immune to its effect for one minute
+which is typically long enough for most
+
+176
+00:02:47,830 --> 00:02:47,840
+which is typically long enough for most
+ 
+
+177
+00:02:47,840 --> 00:02:49,509
+which is typically long enough for most
+combat encounters so you shouldn't need
+
+178
+00:02:49,509 --> 00:02:49,519
+combat encounters so you shouldn't need
+ 
+
+179
+00:02:49,519 --> 00:02:51,430
+combat encounters so you shouldn't need
+to roll this more than once per fight
+
+180
+00:02:51,430 --> 00:02:51,440
+to roll this more than once per fight
+ 
+
+181
+00:02:51,440 --> 00:02:53,750
+to roll this more than once per fight
+even if the player leaves and re-enters
+
+182
+00:02:53,750 --> 00:02:53,760
+even if the player leaves and re-enters
+ 
+
+183
+00:02:53,760 --> 00:02:54,869
+even if the player leaves and re-enters
+that aura
+
+184
+00:02:54,869 --> 00:02:54,879
+that aura
+ 
+
+185
+00:02:54,879 --> 00:02:58,149
+that aura
+and this is a per-monster effect so if
+
+186
+00:02:58,149 --> 00:02:58,159
+and this is a per-monster effect so if
+ 
+
+187
+00:02:58,159 --> 00:03:00,550
+and this is a per-monster effect so if
+the party was fighting three red dragons
+
+188
+00:03:00,550 --> 00:03:00,560
+the party was fighting three red dragons
+ 
+
+189
+00:03:00,560 --> 00:03:03,030
+the party was fighting three red dragons
+they would need to roll three saves each
+
+190
+00:03:03,030 --> 00:03:03,040
+they would need to roll three saves each
+ 
+
+191
+00:03:03,040 --> 00:03:04,070
+they would need to roll three saves each
+made when the player
+
+192
+00:03:04,070 --> 00:03:04,080
+made when the player
+ 
+
+193
+00:03:04,080 --> 00:03:07,110
+made when the player
+enters 90 feet of that dragon on a
+
+194
+00:03:07,110 --> 00:03:07,120
+enters 90 feet of that dragon on a
+ 
+
+195
+00:03:07,120 --> 00:03:08,229
+enters 90 feet of that dragon on a
+critical success
+
+196
+00:03:08,229 --> 00:03:08,239
+critical success
+ 
+
+197
+00:03:08,239 --> 00:03:10,390
+critical success
+nothing happens they shrug it off if
+
+198
+00:03:10,390 --> 00:03:10,400
+nothing happens they shrug it off if
+ 
+
+199
+00:03:10,400 --> 00:03:11,910
+nothing happens they shrug it off if
+they roll a success
+
+200
+00:03:11,910 --> 00:03:11,920
+they roll a success
+ 
+
+201
+00:03:11,920 --> 00:03:14,070
+they roll a success
+they still receive the frightened one
+
+202
+00:03:14,070 --> 00:03:14,080
+they still receive the frightened one
+ 
+
+203
+00:03:14,080 --> 00:03:14,949
+they still receive the frightened one
+condition
+
+204
+00:03:14,949 --> 00:03:14,959
+condition
+ 
+
+205
+00:03:14,959 --> 00:03:17,750
+condition
+on a failure they receive frighten 2 and
+
+206
+00:03:17,750 --> 00:03:17,760
+on a failure they receive frighten 2 and
+ 
+
+207
+00:03:17,760 --> 00:03:19,190
+on a failure they receive frighten 2 and
+on a critical failure
+
+208
+00:03:19,190 --> 00:03:19,200
+on a critical failure
+ 
+
+209
+00:03:19,200 --> 00:03:22,229
+on a critical failure
+they receive frightened 4. contrary to
+
+210
+00:03:22,229 --> 00:03:22,239
+they receive frightened 4. contrary to
+ 
+
+211
+00:03:22,239 --> 00:03:23,270
+they receive frightened 4. contrary to
+somewhat common belief
+
+212
+00:03:23,270 --> 00:03:23,280
+somewhat common belief
+ 
+
+213
+00:03:23,280 --> 00:03:25,110
+somewhat common belief
+the frightened condition does not make
+
+214
+00:03:25,110 --> 00:03:25,120
+the frightened condition does not make
+ 
+
+215
+00:03:25,120 --> 00:03:27,509
+the frightened condition does not make
+you turn and flee from the monster
+
+216
+00:03:27,509 --> 00:03:27,519
+you turn and flee from the monster
+ 
+
+217
+00:03:27,519 --> 00:03:29,670
+you turn and flee from the monster
+instead it applies a penalty equal to
+
+218
+00:03:29,670 --> 00:03:29,680
+instead it applies a penalty equal to
+ 
+
+219
+00:03:29,680 --> 00:03:31,030
+instead it applies a penalty equal to
+its value to all
+
+220
+00:03:31,030 --> 00:03:31,040
+its value to all
+ 
+
+221
+00:03:31,040 --> 00:03:34,949
+its value to all
+checks in all dc's so while frighten 2
+
+222
+00:03:34,949 --> 00:03:34,959
+checks in all dc's so while frighten 2
+ 
+
+223
+00:03:34,959 --> 00:03:37,430
+checks in all dc's so while frighten 2
+you subtract 2 from basically every time
+
+224
+00:03:37,430 --> 00:03:37,440
+you subtract 2 from basically every time
+ 
+
+225
+00:03:37,440 --> 00:03:38,789
+you subtract 2 from basically every time
+you roll a d20
+
+226
+00:03:38,789 --> 00:03:38,799
+you roll a d20
+ 
+
+227
+00:03:38,799 --> 00:03:40,949
+you roll a d20
+including all of your attack rolls skill
+
+228
+00:03:40,949 --> 00:03:40,959
+including all of your attack rolls skill
+ 
+
+229
+00:03:40,959 --> 00:03:42,390
+including all of your attack rolls skill
+checks and saving throws
+
+230
+00:03:42,390 --> 00:03:42,400
+checks and saving throws
+ 
+
+231
+00:03:42,400 --> 00:03:44,550
+checks and saving throws
+and also subtract 2 from all of your
+
+232
+00:03:44,550 --> 00:03:44,560
+and also subtract 2 from all of your
+ 
+
+233
+00:03:44,560 --> 00:03:46,630
+and also subtract 2 from all of your
+dc's including armor class
+
+234
+00:03:46,630 --> 00:03:46,640
+dc's including armor class
+ 
+
+235
+00:03:46,640 --> 00:03:49,509
+dc's including armor class
+save dc's and the spell dc that others
+
+236
+00:03:49,509 --> 00:03:49,519
+save dc's and the spell dc that others
+ 
+
+237
+00:03:49,519 --> 00:03:50,949
+save dc's and the spell dc that others
+roll against to resist
+
+238
+00:03:50,949 --> 00:03:50,959
+roll against to resist
+ 
+
+239
+00:03:50,959 --> 00:03:53,670
+roll against to resist
+your spells at the end of every turn the
+
+240
+00:03:53,670 --> 00:03:53,680
+your spells at the end of every turn the
+ 
+
+241
+00:03:53,680 --> 00:03:55,910
+your spells at the end of every turn the
+frightened condition reduces by 1 until
+
+242
+00:03:55,910 --> 00:03:55,920
+frightened condition reduces by 1 until
+ 
+
+243
+00:03:55,920 --> 00:03:57,190
+frightened condition reduces by 1 until
+it wears off
+
+244
+00:03:57,190 --> 00:03:57,200
+it wears off
+ 
+
+245
+00:03:57,200 --> 00:03:59,030
+it wears off
+and last when it comes to metallic
+
+246
+00:03:59,030 --> 00:03:59,040
+and last when it comes to metallic
+ 
+
+247
+00:03:59,040 --> 00:04:01,030
+and last when it comes to metallic
+dragons and other good online creatures
+
+248
+00:04:01,030 --> 00:04:01,040
+dragons and other good online creatures
+ 
+
+249
+00:04:01,040 --> 00:04:02,710
+dragons and other good online creatures
+that have frightful presence
+
+250
+00:04:02,710 --> 00:04:02,720
+that have frightful presence
+ 
+
+251
+00:04:02,720 --> 00:04:05,030
+that have frightful presence
+some gms may prefer to describe this
+
+252
+00:04:05,030 --> 00:04:05,040
+some gms may prefer to describe this
+ 
+
+253
+00:04:05,040 --> 00:04:06,229
+some gms may prefer to describe this
+effect within the narrative
+
+254
+00:04:06,229 --> 00:04:06,239
+effect within the narrative
+ 
+
+255
+00:04:06,239 --> 00:04:08,869
+effect within the narrative
+as an overpowering sense of awe and
+
+256
+00:04:08,869 --> 00:04:08,879
+as an overpowering sense of awe and
+ 
+
+257
+00:04:08,879 --> 00:04:09,589
+as an overpowering sense of awe and
+majesty
+
+258
+00:04:09,589 --> 00:04:09,599
+majesty
+ 
+
+259
+00:04:09,599 --> 00:04:12,390
+majesty
+instead of fear but mechanically it
+
+260
+00:04:12,390 --> 00:04:12,400
+instead of fear but mechanically it
+ 
+
+261
+00:04:12,400 --> 00:04:12,789
+instead of fear but mechanically it
+still
+
+262
+00:04:12,789 --> 00:04:12,799
+still
+ 
+
+263
+00:04:12,799 --> 00:04:15,030
+still
+counts the same as frightful presence
+
+264
+00:04:15,030 --> 00:04:15,040
+counts the same as frightful presence
+ 
+
+265
+00:04:15,040 --> 00:04:19,270
+counts the same as frightful presence
+and does impose the frightened condition
+
+266
+00:04:19,270 --> 00:04:19,280
+and does impose the frightened condition
+ 
+
+267
+00:04:19,280 --> 00:04:20,949
+and does impose the frightened condition
+and some creatures typically large
+
+268
+00:04:20,949 --> 00:04:20,959
+and some creatures typically large
+ 
+
+269
+00:04:20,959 --> 00:04:22,790
+and some creatures typically large
+animals like dinosaurs and elephants
+
+270
+00:04:22,790 --> 00:04:22,800
+animals like dinosaurs and elephants
+ 
+
+271
+00:04:22,800 --> 00:04:24,629
+animals like dinosaurs and elephants
+have an ability called trample that
+
+272
+00:04:24,629 --> 00:04:24,639
+have an ability called trample that
+ 
+
+273
+00:04:24,639 --> 00:04:25,830
+have an ability called trample that
+allows them to charge
+
+274
+00:04:25,830 --> 00:04:25,840
+allows them to charge
+ 
+
+275
+00:04:25,840 --> 00:04:27,830
+allows them to charge
+through an area stomping any smaller
+
+276
+00:04:27,830 --> 00:04:27,840
+through an area stomping any smaller
+ 
+
+277
+00:04:27,840 --> 00:04:29,430
+through an area stomping any smaller
+creatures unfortunate enough to be in
+
+278
+00:04:29,430 --> 00:04:29,440
+creatures unfortunate enough to be in
+ 
+
+279
+00:04:29,440 --> 00:04:30,310
+creatures unfortunate enough to be in
+their way
+
+280
+00:04:30,310 --> 00:04:30,320
+their way
+ 
+
+281
+00:04:30,320 --> 00:04:32,230
+their way
+when using trample the creature spins
+
+282
+00:04:32,230 --> 00:04:32,240
+when using trample the creature spins
+ 
+
+283
+00:04:32,240 --> 00:04:34,070
+when using trample the creature spins
+three actions and then strides
+
+284
+00:04:34,070 --> 00:04:34,080
+three actions and then strides
+ 
+
+285
+00:04:34,080 --> 00:04:36,310
+three actions and then strides
+double its speed during this action it
+
+286
+00:04:36,310 --> 00:04:36,320
+double its speed during this action it
+ 
+
+287
+00:04:36,320 --> 00:04:38,230
+double its speed during this action it
+can freely move through the space of
+
+288
+00:04:38,230 --> 00:04:38,240
+can freely move through the space of
+ 
+
+289
+00:04:38,240 --> 00:04:39,830
+can freely move through the space of
+creatures of a listed size
+
+290
+00:04:39,830 --> 00:04:39,840
+creatures of a listed size
+ 
+
+291
+00:04:39,840 --> 00:04:42,310
+creatures of a listed size
+and those creatures must roll a basic
+
+292
+00:04:42,310 --> 00:04:42,320
+and those creatures must roll a basic
+ 
+
+293
+00:04:42,320 --> 00:04:43,350
+and those creatures must roll a basic
+reflex safe
+
+294
+00:04:43,350 --> 00:04:43,360
+reflex safe
+ 
+
+295
+00:04:43,360 --> 00:04:46,070
+reflex safe
+versus a listed dc or suffer the effects
+
+296
+00:04:46,070 --> 00:04:46,080
+versus a listed dc or suffer the effects
+ 
+
+297
+00:04:46,080 --> 00:04:47,830
+versus a listed dc or suffer the effects
+of a listed strike
+
+298
+00:04:47,830 --> 00:04:47,840
+of a listed strike
+ 
+
+299
+00:04:47,840 --> 00:04:49,909
+of a listed strike
+for example the brontosaurus has an
+
+300
+00:04:49,909 --> 00:04:49,919
+for example the brontosaurus has an
+ 
+
+301
+00:04:49,919 --> 00:04:51,590
+for example the brontosaurus has an
+entry that says trample
+
+302
+00:04:51,590 --> 00:04:51,600
+entry that says trample
+ 
+
+303
+00:04:51,600 --> 00:04:55,110
+entry that says trample
+three actions huge or smaller foot
+
+304
+00:04:55,110 --> 00:04:55,120
+three actions huge or smaller foot
+ 
+
+305
+00:04:55,120 --> 00:04:58,150
+three actions huge or smaller foot
+dc 29 it can spend
+
+306
+00:04:58,150 --> 00:04:58,160
+dc 29 it can spend
+ 
+
+307
+00:04:58,160 --> 00:05:00,150
+dc 29 it can spend
+all three of its actions on a turn
+
+308
+00:05:00,150 --> 00:05:00,160
+all three of its actions on a turn
+ 
+
+309
+00:05:00,160 --> 00:05:02,310
+all three of its actions on a turn
+destroyed at doubles speed
+
+310
+00:05:02,310 --> 00:05:02,320
+destroyed at doubles speed
+ 
+
+311
+00:05:02,320 --> 00:05:04,070
+destroyed at doubles speed
+which would be a total of 70 feet for a
+
+312
+00:05:04,070 --> 00:05:04,080
+which would be a total of 70 feet for a
+ 
+
+313
+00:05:04,080 --> 00:05:05,670
+which would be a total of 70 feet for a
+brontosaurus and can
+
+314
+00:05:05,670 --> 00:05:05,680
+brontosaurus and can
+ 
+
+315
+00:05:05,680 --> 00:05:07,670
+brontosaurus and can
+freely move through the space of any
+
+316
+00:05:07,670 --> 00:05:07,680
+freely move through the space of any
+ 
+
+317
+00:05:07,680 --> 00:05:09,510
+freely move through the space of any
+creature of delicious size
+
+318
+00:05:09,510 --> 00:05:09,520
+creature of delicious size
+ 
+
+319
+00:05:09,520 --> 00:05:12,070
+creature of delicious size
+in this case the listed size is huge or
+
+320
+00:05:12,070 --> 00:05:12,080
+in this case the listed size is huge or
+ 
+
+321
+00:05:12,080 --> 00:05:12,870
+in this case the listed size is huge or
+smaller
+
+322
+00:05:12,870 --> 00:05:12,880
+smaller
+ 
+
+323
+00:05:12,880 --> 00:05:15,029
+smaller
+so the brontosaurus can move 70 feet and
+
+324
+00:05:15,029 --> 00:05:15,039
+so the brontosaurus can move 70 feet and
+ 
+
+325
+00:05:15,039 --> 00:05:17,110
+so the brontosaurus can move 70 feet and
+trample over all creatures in its path
+
+326
+00:05:17,110 --> 00:05:17,120
+trample over all creatures in its path
+ 
+
+327
+00:05:17,120 --> 00:05:18,790
+trample over all creatures in its path
+that are size huge or smaller
+
+328
+00:05:18,790 --> 00:05:18,800
+that are size huge or smaller
+ 
+
+329
+00:05:18,800 --> 00:05:21,270
+that are size huge or smaller
+and each of those creatures must pass a
+
+330
+00:05:21,270 --> 00:05:21,280
+and each of those creatures must pass a
+ 
+
+331
+00:05:21,280 --> 00:05:24,150
+and each of those creatures must pass a
+basic reflex save versus dc dc29
+
+332
+00:05:24,150 --> 00:05:24,160
+basic reflex save versus dc dc29
+ 
+
+333
+00:05:24,160 --> 00:05:27,110
+basic reflex save versus dc dc29
+or face the effects of a listed strike
+
+334
+00:05:27,110 --> 00:05:27,120
+or face the effects of a listed strike
+ 
+
+335
+00:05:27,120 --> 00:05:29,350
+or face the effects of a listed strike
+in this case the listed strike is
+
+336
+00:05:29,350 --> 00:05:29,360
+in this case the listed strike is
+ 
+
+337
+00:05:29,360 --> 00:05:32,390
+in this case the listed strike is
+foot so basically trample allows the
+
+338
+00:05:32,390 --> 00:05:32,400
+foot so basically trample allows the
+ 
+
+339
+00:05:32,400 --> 00:05:34,390
+foot so basically trample allows the
+brontosaurus to make a foot attack
+
+340
+00:05:34,390 --> 00:05:34,400
+brontosaurus to make a foot attack
+ 
+
+341
+00:05:34,400 --> 00:05:36,469
+brontosaurus to make a foot attack
+against everyone whose square it moves
+
+342
+00:05:36,469 --> 00:05:36,479
+against everyone whose square it moves
+ 
+
+343
+00:05:36,479 --> 00:05:38,870
+against everyone whose square it moves
+through but instead of it making attack
+
+344
+00:05:38,870 --> 00:05:38,880
+through but instead of it making attack
+ 
+
+345
+00:05:38,880 --> 00:05:39,350
+through but instead of it making attack
+rolls
+
+346
+00:05:39,350 --> 00:05:39,360
+rolls
+ 
+
+347
+00:05:39,360 --> 00:05:42,310
+rolls
+all of the targets roll reflex saves and
+
+348
+00:05:42,310 --> 00:05:42,320
+all of the targets roll reflex saves and
+ 
+
+349
+00:05:42,320 --> 00:05:44,310
+all of the targets roll reflex saves and
+these are basic reflex safes
+
+350
+00:05:44,310 --> 00:05:44,320
+these are basic reflex safes
+ 
+
+351
+00:05:44,320 --> 00:05:47,189
+these are basic reflex safes
+so on a failure they suffer 2d8 plus 13
+
+352
+00:05:47,189 --> 00:05:47,199
+so on a failure they suffer 2d8 plus 13
+ 
+
+353
+00:05:47,199 --> 00:05:47,909
+so on a failure they suffer 2d8 plus 13
+damage
+
+354
+00:05:47,909 --> 00:05:47,919
+damage
+ 
+
+355
+00:05:47,919 --> 00:05:50,230
+damage
+on a critical failure they suffer double
+
+356
+00:05:50,230 --> 00:05:50,240
+on a critical failure they suffer double
+ 
+
+357
+00:05:50,240 --> 00:05:51,990
+on a critical failure they suffer double
+that and on a success they
+
+358
+00:05:51,990 --> 00:05:52,000
+that and on a success they
+ 
+
+359
+00:05:52,000 --> 00:05:54,469
+that and on a success they
+still suffer half that and on a critical
+
+360
+00:05:54,469 --> 00:05:54,479
+still suffer half that and on a critical
+ 
+
+361
+00:05:54,479 --> 00:05:55,670
+still suffer half that and on a critical
+success they suffer
+
+362
+00:05:55,670 --> 00:05:55,680
+success they suffer
+ 
+
+363
+00:05:55,680 --> 00:05:59,749
+success they suffer
+no damage before we close i'd like to
+
+364
+00:05:59,749 --> 00:05:59,759
+no damage before we close i'd like to
+ 
+
+365
+00:05:59,759 --> 00:06:02,070
+no damage before we close i'd like to
+take a moment to thank all of my patrons
+
+366
+00:06:02,070 --> 00:06:02,080
+take a moment to thank all of my patrons
+ 
+
+367
+00:06:02,080 --> 00:06:03,590
+take a moment to thank all of my patrons
+these videos would not be possible
+
+368
+00:06:03,590 --> 00:06:03,600
+these videos would not be possible
+ 
+
+369
+00:06:03,600 --> 00:06:05,510
+these videos would not be possible
+without their continued generosity and
+
+370
+00:06:05,510 --> 00:06:05,520
+without their continued generosity and
+ 
+
+371
+00:06:05,520 --> 00:06:06,629
+without their continued generosity and
+support
+
+372
+00:06:06,629 --> 00:06:06,639
+support
+ 
+
+373
+00:06:06,639 --> 00:06:08,230
+support
+members of the how is played patreon
+
+374
+00:06:08,230 --> 00:06:08,240
+members of the how is played patreon
+ 
+
+375
+00:06:08,240 --> 00:06:10,309
+members of the how is played patreon
+community receive special benefits like
+
+376
+00:06:10,309 --> 00:06:10,319
+community receive special benefits like
+ 
+
+377
+00:06:10,319 --> 00:06:11,510
+community receive special benefits like
+exclusive content
+
+378
+00:06:11,510 --> 00:06:11,520
+exclusive content
+ 
+
+379
+00:06:11,520 --> 00:06:13,110
+exclusive content
+and getting to vote on the topics i
+
+380
+00:06:13,110 --> 00:06:13,120
+and getting to vote on the topics i
+ 
+
+381
+00:06:13,120 --> 00:06:15,350
+and getting to vote on the topics i
+cover visit the link shown at the top of
+
+382
+00:06:15,350 --> 00:06:15,360
+cover visit the link shown at the top of
+ 
+
+383
+00:06:15,360 --> 00:06:15,990
+cover visit the link shown at the top of
+the screen
+
+384
+00:06:15,990 --> 00:06:16,000
+the screen
+ 
+
+385
+00:06:16,000 --> 00:06:17,510
+the screen
+and in the description if you'd like to
+
+386
+00:06:17,510 --> 00:06:17,520
+and in the description if you'd like to
+ 
+
+387
+00:06:17,520 --> 00:06:19,510
+and in the description if you'd like to
+know more if you would like to support
+
+388
+00:06:19,510 --> 00:06:19,520
+know more if you would like to support
+ 
+
+389
+00:06:19,520 --> 00:06:19,990
+know more if you would like to support
+this channel
+
+390
+00:06:19,990 --> 00:06:20,000
+this channel
+ 
+
+391
+00:06:20,000 --> 00:06:22,150
+this channel
+and help it grow the easiest way to do
+
+392
+00:06:22,150 --> 00:06:22,160
+and help it grow the easiest way to do
+ 
+
+393
+00:06:22,160 --> 00:06:24,150
+and help it grow the easiest way to do
+that is by subscribing and clicking the
+
+394
+00:06:24,150 --> 00:06:24,160
+that is by subscribing and clicking the
+ 
+
+395
+00:06:24,160 --> 00:06:24,950
+that is by subscribing and clicking the
+bell icon
+
+396
+00:06:24,950 --> 00:06:24,960
+bell icon
+ 
+
+397
+00:06:24,960 --> 00:06:26,710
+bell icon
+so you get notified when new videos
+
+398
+00:06:26,710 --> 00:06:26,720
+so you get notified when new videos
+ 
+
+399
+00:06:26,720 --> 00:06:28,710
+so you get notified when new videos
+release and i can always be reached
+
+400
+00:06:28,710 --> 00:06:28,720
+release and i can always be reached
+ 
+
+401
+00:06:28,720 --> 00:06:30,710
+release and i can always be reached
+through twitter and facebook too
+
+402
+00:06:30,710 --> 00:06:30,720
+through twitter and facebook too
+ 
+
+403
+00:06:30,720 --> 00:06:33,110
+through twitter and facebook too
+thanks for watching take care and happy
+
+404
+00:06:33,110 --> 00:06:33,120
+thanks for watching take care and happy
+ 
+
+405
+00:06:33,120 --> 00:06:35,840
+thanks for watching take care and happy
+gaming
+

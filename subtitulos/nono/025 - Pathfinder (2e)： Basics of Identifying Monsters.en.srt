@@ -1,0 +1,4615 @@
+1
+00:00:01,280 --> 00:00:03,350
+
+hello and welcome to basics for gamers
+
+2
+00:00:03,350 --> 00:00:03,360
+hello and welcome to basics for gamers
+ 
+
+3
+00:00:03,360 --> 00:00:04,070
+hello and welcome to basics for gamers
+presents
+
+4
+00:00:04,070 --> 00:00:04,080
+presents
+ 
+
+5
+00:00:04,080 --> 00:00:06,470
+presents
+the basics of identifying monsters in
+
+6
+00:00:06,470 --> 00:00:06,480
+the basics of identifying monsters in
+ 
+
+7
+00:00:06,480 --> 00:00:10,230
+the basics of identifying monsters in
+pathfinder 2nd edition
+
+8
+00:00:10,230 --> 00:00:10,240
+
+ 
+
+9
+00:00:10,240 --> 00:00:12,150
+
+when players encounter a creature they
+
+10
+00:00:12,150 --> 00:00:12,160
+when players encounter a creature they
+ 
+
+11
+00:00:12,160 --> 00:00:13,350
+when players encounter a creature they
+do not recognize
+
+12
+00:00:13,350 --> 00:00:13,360
+do not recognize
+ 
+
+13
+00:00:13,360 --> 00:00:15,430
+do not recognize
+or more appropriately when their
+
+14
+00:00:15,430 --> 00:00:15,440
+or more appropriately when their
+ 
+
+15
+00:00:15,440 --> 00:00:17,830
+or more appropriately when their
+characters encounter such a monster
+
+16
+00:00:17,830 --> 00:00:17,840
+characters encounter such a monster
+ 
+
+17
+00:00:17,840 --> 00:00:19,750
+characters encounter such a monster
+as separating player knowledge from
+
+18
+00:00:19,750 --> 00:00:19,760
+as separating player knowledge from
+ 
+
+19
+00:00:19,760 --> 00:00:21,990
+as separating player knowledge from
+character knowledge is very important
+
+20
+00:00:21,990 --> 00:00:22,000
+character knowledge is very important
+ 
+
+21
+00:00:22,000 --> 00:00:22,870
+character knowledge is very important
+here
+
+22
+00:00:22,870 --> 00:00:22,880
+here
+ 
+
+23
+00:00:22,880 --> 00:00:25,029
+here
+they may attempt skill checks to see
+
+24
+00:00:25,029 --> 00:00:25,039
+they may attempt skill checks to see
+ 
+
+25
+00:00:25,039 --> 00:00:26,790
+they may attempt skill checks to see
+what information they know about the
+
+26
+00:00:26,790 --> 00:00:26,800
+what information they know about the
+ 
+
+27
+00:00:26,800 --> 00:00:28,150
+what information they know about the
+creature
+
+28
+00:00:28,150 --> 00:00:28,160
+creature
+ 
+
+29
+00:00:28,160 --> 00:00:30,870
+creature
+this is a recall knowledge check
+
+30
+00:00:30,870 --> 00:00:30,880
+this is a recall knowledge check
+ 
+
+31
+00:00:30,880 --> 00:00:32,389
+this is a recall knowledge check
+requires one action
+
+32
+00:00:32,389 --> 00:00:32,399
+requires one action
+ 
+
+33
+00:00:32,399 --> 00:00:35,430
+requires one action
+and can be attempted untrained on a
+
+34
+00:00:35,430 --> 00:00:35,440
+and can be attempted untrained on a
+ 
+
+35
+00:00:35,440 --> 00:00:37,590
+and can be attempted untrained on a
+success the player learns the name of
+
+36
+00:00:37,590 --> 00:00:37,600
+success the player learns the name of
+ 
+
+37
+00:00:37,600 --> 00:00:39,110
+success the player learns the name of
+the target species
+
+38
+00:00:39,110 --> 00:00:39,120
+the target species
+ 
+
+39
+00:00:39,120 --> 00:00:42,229
+the target species
+and the single most commonly known but
+
+40
+00:00:42,229 --> 00:00:42,239
+and the single most commonly known but
+ 
+
+41
+00:00:42,239 --> 00:00:43,030
+and the single most commonly known but
+so far
+
+42
+00:00:43,030 --> 00:00:43,040
+so far
+ 
+
+43
+00:00:43,040 --> 00:00:46,549
+so far
+unrevealed trait about the creature
+
+44
+00:00:46,549 --> 00:00:46,559
+unrevealed trait about the creature
+ 
+
+45
+00:00:46,559 --> 00:00:49,990
+unrevealed trait about the creature
+this is entirely up to the gm to
+
+46
+00:00:49,990 --> 00:00:50,000
+this is entirely up to the gm to
+ 
+
+47
+00:00:50,000 --> 00:00:51,029
+this is entirely up to the gm to
+determine
+
+48
+00:00:51,029 --> 00:00:51,039
+determine
+ 
+
+49
+00:00:51,039 --> 00:00:53,590
+determine
+but the rule book uses trolls as an
+
+50
+00:00:53,590 --> 00:00:53,600
+but the rule book uses trolls as an
+ 
+
+51
+00:00:53,600 --> 00:00:54,630
+but the rule book uses trolls as an
+example
+
+52
+00:00:54,630 --> 00:00:54,640
+example
+ 
+
+53
+00:00:54,640 --> 00:00:57,350
+example
+on a successful recall knowledge check
+
+54
+00:00:57,350 --> 00:00:57,360
+on a successful recall knowledge check
+ 
+
+55
+00:00:57,360 --> 00:00:57,990
+on a successful recall knowledge check
+the player
+
+56
+00:00:57,990 --> 00:00:58,000
+the player
+ 
+
+57
+00:00:58,000 --> 00:00:59,830
+the player
+learns that the target creature is a
+
+58
+00:00:59,830 --> 00:00:59,840
+learns that the target creature is a
+ 
+
+59
+00:00:59,840 --> 00:01:02,389
+learns that the target creature is a
+troll and that they have regeneration
+
+60
+00:01:02,389 --> 00:01:02,399
+troll and that they have regeneration
+ 
+
+61
+00:01:02,399 --> 00:01:05,670
+troll and that they have regeneration
+that can be haunted by acid or fire on a
+
+62
+00:01:05,670 --> 00:01:05,680
+that can be haunted by acid or fire on a
+ 
+
+63
+00:01:05,680 --> 00:01:07,030
+that can be haunted by acid or fire on a
+critical success
+
+64
+00:01:07,030 --> 00:01:07,040
+critical success
+ 
+
+65
+00:01:07,040 --> 00:01:09,350
+critical success
+they also learn an additional
+
+66
+00:01:09,350 --> 00:01:09,360
+they also learn an additional
+ 
+
+67
+00:01:09,360 --> 00:01:11,350
+they also learn an additional
+little-known piece of information about
+
+68
+00:01:11,350 --> 00:01:11,360
+little-known piece of information about
+ 
+
+69
+00:01:11,360 --> 00:01:12,630
+little-known piece of information about
+the target
+
+70
+00:01:12,630 --> 00:01:12,640
+the target
+ 
+
+71
+00:01:12,640 --> 00:01:15,270
+the target
+again this is entirely up to the gm to
+
+72
+00:01:15,270 --> 00:01:15,280
+again this is entirely up to the gm to
+ 
+
+73
+00:01:15,280 --> 00:01:16,149
+again this is entirely up to the gm to
+decide
+
+74
+00:01:16,149 --> 00:01:16,159
+decide
+ 
+
+75
+00:01:16,159 --> 00:01:19,270
+decide
+but continuing the example of a troll on
+
+76
+00:01:19,270 --> 00:01:19,280
+but continuing the example of a troll on
+ 
+
+77
+00:01:19,280 --> 00:01:20,710
+but continuing the example of a troll on
+a critical success
+
+78
+00:01:20,710 --> 00:01:20,720
+a critical success
+ 
+
+79
+00:01:20,720 --> 00:01:22,630
+a critical success
+the character might also learn that
+
+80
+00:01:22,630 --> 00:01:22,640
+the character might also learn that
+ 
+
+81
+00:01:22,640 --> 00:01:24,830
+the character might also learn that
+trolls are known to make attacks of
+
+82
+00:01:24,830 --> 00:01:24,840
+trolls are known to make attacks of
+ 
+
+83
+00:01:24,840 --> 00:01:27,590
+trolls are known to make attacks of
+opportunity also note that the gm may
+
+84
+00:01:27,590 --> 00:01:27,600
+opportunity also note that the gm may
+ 
+
+85
+00:01:27,600 --> 00:01:29,510
+opportunity also note that the gm may
+limit the knowledge given according to
+
+86
+00:01:29,510 --> 00:01:29,520
+limit the knowledge given according to
+ 
+
+87
+00:01:29,520 --> 00:01:31,429
+limit the knowledge given according to
+the proficiency level of the character
+
+88
+00:01:31,429 --> 00:01:31,439
+the proficiency level of the character
+ 
+
+89
+00:01:31,439 --> 00:01:32,789
+the proficiency level of the character
+making the check
+
+90
+00:01:32,789 --> 00:01:32,799
+making the check
+ 
+
+91
+00:01:32,799 --> 00:01:35,190
+making the check
+for example an untrained character may
+
+92
+00:01:35,190 --> 00:01:35,200
+for example an untrained character may
+ 
+
+93
+00:01:35,200 --> 00:01:36,950
+for example an untrained character may
+not be able to reveal
+
+94
+00:01:36,950 --> 00:01:36,960
+not be able to reveal
+ 
+
+95
+00:01:36,960 --> 00:01:39,270
+not be able to reveal
+very obscure information about the
+
+96
+00:01:39,270 --> 00:01:39,280
+very obscure information about the
+ 
+
+97
+00:01:39,280 --> 00:01:41,990
+very obscure information about the
+target no matter how high they roll
+
+98
+00:01:41,990 --> 00:01:42,000
+target no matter how high they roll
+ 
+
+99
+00:01:42,000 --> 00:01:44,389
+target no matter how high they roll
+there are new concrete rules for
+
+100
+00:01:44,389 --> 00:01:44,399
+there are new concrete rules for
+ 
+
+101
+00:01:44,399 --> 00:01:45,270
+there are new concrete rules for
+determining
+
+102
+00:01:45,270 --> 00:01:45,280
+determining
+ 
+
+103
+00:01:45,280 --> 00:01:47,270
+determining
+what information is granted at each
+
+104
+00:01:47,270 --> 00:01:47,280
+what information is granted at each
+ 
+
+105
+00:01:47,280 --> 00:01:48,710
+what information is granted at each
+proficiency level
+
+106
+00:01:48,710 --> 00:01:48,720
+proficiency level
+ 
+
+107
+00:01:48,720 --> 00:01:51,030
+proficiency level
+and this will require the gm to make a
+
+108
+00:01:51,030 --> 00:01:51,040
+and this will require the gm to make a
+ 
+
+109
+00:01:51,040 --> 00:01:52,069
+and this will require the gm to make a
+judgment call
+
+110
+00:01:52,069 --> 00:01:52,079
+judgment call
+ 
+
+111
+00:01:52,079 --> 00:01:53,670
+judgment call
+regarding what is appropriate
+
+112
+00:01:53,670 --> 00:01:53,680
+regarding what is appropriate
+ 
+
+113
+00:01:53,680 --> 00:01:56,550
+regarding what is appropriate
+information for each proficiency level
+
+114
+00:01:56,550 --> 00:01:56,560
+information for each proficiency level
+ 
+
+115
+00:01:56,560 --> 00:01:58,630
+information for each proficiency level
+and although not spelled out in the
+
+116
+00:01:58,630 --> 00:01:58,640
+and although not spelled out in the
+ 
+
+117
+00:01:58,640 --> 00:02:01,109
+and although not spelled out in the
+rules so consider this a house rule
+
+118
+00:02:01,109 --> 00:02:01,119
+rules so consider this a house rule
+ 
+
+119
+00:02:01,119 --> 00:02:03,030
+rules so consider this a house rule
+some gm's will also reveal the
+
+120
+00:02:03,030 --> 00:02:03,040
+some gm's will also reveal the
+ 
+
+121
+00:02:03,040 --> 00:02:05,749
+some gm's will also reveal the
+creature's type and subtype traits
+
+122
+00:02:05,749 --> 00:02:05,759
+creature's type and subtype traits
+ 
+
+123
+00:02:05,759 --> 00:02:08,550
+creature's type and subtype traits
+on a successful check and the type and
+
+124
+00:02:08,550 --> 00:02:08,560
+on a successful check and the type and
+ 
+
+125
+00:02:08,560 --> 00:02:10,389
+on a successful check and the type and
+subtype traits are going to be the
+
+126
+00:02:10,389 --> 00:02:10,399
+subtype traits are going to be the
+ 
+
+127
+00:02:10,399 --> 00:02:11,430
+subtype traits are going to be the
+traits found in
+
+128
+00:02:11,430 --> 00:02:11,440
+traits found in
+ 
+
+129
+00:02:11,440 --> 00:02:14,470
+traits found in
+red when looking at a monster stat block
+
+130
+00:02:14,470 --> 00:02:14,480
+red when looking at a monster stat block
+ 
+
+131
+00:02:14,480 --> 00:02:16,790
+red when looking at a monster stat block
+in the case of trolls they belong to the
+
+132
+00:02:16,790 --> 00:02:16,800
+in the case of trolls they belong to the
+ 
+
+133
+00:02:16,800 --> 00:02:18,710
+in the case of trolls they belong to the
+giant type and the troll
+
+134
+00:02:18,710 --> 00:02:18,720
+giant type and the troll
+ 
+
+135
+00:02:18,720 --> 00:02:21,750
+giant type and the troll
+subtype on a failure the player learns
+
+136
+00:02:21,750 --> 00:02:21,760
+subtype on a failure the player learns
+ 
+
+137
+00:02:21,760 --> 00:02:22,470
+subtype on a failure the player learns
+nothing
+
+138
+00:02:22,470 --> 00:02:22,480
+nothing
+ 
+
+139
+00:02:22,480 --> 00:02:25,110
+nothing
+and on a critical failure they learn
+
+140
+00:02:25,110 --> 00:02:25,120
+and on a critical failure they learn
+ 
+
+141
+00:02:25,120 --> 00:02:27,990
+and on a critical failure they learn
+incorrect or misleading information
+
+142
+00:02:27,990 --> 00:02:28,000
+incorrect or misleading information
+ 
+
+143
+00:02:28,000 --> 00:02:30,309
+incorrect or misleading information
+maybe they mistake the troll for a march
+
+144
+00:02:30,309 --> 00:02:30,319
+maybe they mistake the troll for a march
+ 
+
+145
+00:02:30,319 --> 00:02:31,750
+maybe they mistake the troll for a march
+giant and therefore
+
+146
+00:02:31,750 --> 00:02:31,760
+giant and therefore
+ 
+
+147
+00:02:31,760 --> 00:02:34,830
+giant and therefore
+don't know that it has regeneration
+
+148
+00:02:34,830 --> 00:02:34,840
+don't know that it has regeneration
+ 
+
+149
+00:02:34,840 --> 00:02:36,710
+don't know that it has regeneration
+abilities
+
+150
+00:02:36,710 --> 00:02:36,720
+abilities
+ 
+
+151
+00:02:36,720 --> 00:02:39,430
+abilities
+but before rolling that check you need
+
+152
+00:02:39,430 --> 00:02:39,440
+but before rolling that check you need
+ 
+
+153
+00:02:39,440 --> 00:02:41,830
+but before rolling that check you need
+to know which skill to use
+
+154
+00:02:41,830 --> 00:02:41,840
+to know which skill to use
+ 
+
+155
+00:02:41,840 --> 00:02:43,990
+to know which skill to use
+by default the skills you use to
+
+156
+00:02:43,990 --> 00:02:44,000
+by default the skills you use to
+ 
+
+157
+00:02:44,000 --> 00:02:45,990
+by default the skills you use to
+identify a creature are based on its
+
+158
+00:02:45,990 --> 00:02:46,000
+identify a creature are based on its
+ 
+
+159
+00:02:46,000 --> 00:02:46,949
+identify a creature are based on its
+traits
+
+160
+00:02:46,949 --> 00:02:46,959
+traits
+ 
+
+161
+00:02:46,959 --> 00:02:49,670
+traits
+the table on page 505 spells it out for
+
+162
+00:02:49,670 --> 00:02:49,680
+the table on page 505 spells it out for
+ 
+
+163
+00:02:49,680 --> 00:02:50,630
+the table on page 505 spells it out for
+you
+
+164
+00:02:50,630 --> 00:02:50,640
+you
+ 
+
+165
+00:02:50,640 --> 00:02:53,670
+you
+arcana is used to identify beasts
+
+166
+00:02:53,670 --> 00:02:53,680
+arcana is used to identify beasts
+ 
+
+167
+00:02:53,680 --> 00:02:57,190
+arcana is used to identify beasts
+constructs dragons and elementals
+
+168
+00:02:57,190 --> 00:02:57,200
+constructs dragons and elementals
+ 
+
+169
+00:02:57,200 --> 00:03:00,869
+constructs dragons and elementals
+crafting is used to identify constructs
+
+170
+00:03:00,869 --> 00:03:00,879
+crafting is used to identify constructs
+ 
+
+171
+00:03:00,879 --> 00:03:03,589
+crafting is used to identify constructs
+nature is used to identify animals
+
+172
+00:03:03,589 --> 00:03:03,599
+nature is used to identify animals
+ 
+
+173
+00:03:03,599 --> 00:03:04,309
+nature is used to identify animals
+beasts
+
+174
+00:03:04,309 --> 00:03:04,319
+beasts
+ 
+
+175
+00:03:04,319 --> 00:03:08,790
+beasts
+elementals fey fungi and plants
+
+176
+00:03:08,790 --> 00:03:08,800
+elementals fey fungi and plants
+ 
+
+177
+00:03:08,800 --> 00:03:11,030
+elementals fey fungi and plants
+occultism is used to identify
+
+178
+00:03:11,030 --> 00:03:11,040
+occultism is used to identify
+ 
+
+179
+00:03:11,040 --> 00:03:12,070
+occultism is used to identify
+aberrations
+
+180
+00:03:12,070 --> 00:03:12,080
+aberrations
+ 
+
+181
+00:03:12,080 --> 00:03:14,229
+aberrations
+astral beings creatures with the
+
+182
+00:03:14,229 --> 00:03:14,239
+astral beings creatures with the
+ 
+
+183
+00:03:14,239 --> 00:03:15,910
+astral beings creatures with the
+ethereal trait
+
+184
+00:03:15,910 --> 00:03:15,920
+ethereal trait
+ 
+
+185
+00:03:15,920 --> 00:03:19,670
+ethereal trait
+oozes and spirits religion is used to
+
+186
+00:03:19,670 --> 00:03:19,680
+oozes and spirits religion is used to
+ 
+
+187
+00:03:19,680 --> 00:03:21,910
+oozes and spirits religion is used to
+identify celestial beings
+
+188
+00:03:21,910 --> 00:03:21,920
+identify celestial beings
+ 
+
+189
+00:03:21,920 --> 00:03:25,350
+identify celestial beings
+fiends monitors such as psychopomps
+
+190
+00:03:25,350 --> 00:03:25,360
+fiends monitors such as psychopomps
+ 
+
+191
+00:03:25,360 --> 00:03:28,710
+fiends monitors such as psychopomps
+and the undead and society
+
+192
+00:03:28,710 --> 00:03:28,720
+and the undead and society
+ 
+
+193
+00:03:28,720 --> 00:03:30,949
+and the undead and society
+is used to identify and know details
+
+194
+00:03:30,949 --> 00:03:30,959
+is used to identify and know details
+ 
+
+195
+00:03:30,959 --> 00:03:33,110
+is used to identify and know details
+about the various humanoid ancestries
+
+196
+00:03:33,110 --> 00:03:33,120
+about the various humanoid ancestries
+ 
+
+197
+00:03:33,120 --> 00:03:35,190
+about the various humanoid ancestries
+that inhabit gulerian
+
+198
+00:03:35,190 --> 00:03:35,200
+that inhabit gulerian
+ 
+
+199
+00:03:35,200 --> 00:03:37,110
+that inhabit gulerian
+and note that we're talking about the
+
+200
+00:03:37,110 --> 00:03:37,120
+and note that we're talking about the
+ 
+
+201
+00:03:37,120 --> 00:03:38,869
+and note that we're talking about the
+humanoid trait here
+
+202
+00:03:38,869 --> 00:03:38,879
+humanoid trait here
+ 
+
+203
+00:03:38,879 --> 00:03:41,910
+humanoid trait here
+not the creature's shape a zombie may
+
+204
+00:03:41,910 --> 00:03:41,920
+not the creature's shape a zombie may
+ 
+
+205
+00:03:41,920 --> 00:03:42,470
+not the creature's shape a zombie may
+have two
+
+206
+00:03:42,470 --> 00:03:42,480
+have two
+ 
+
+207
+00:03:42,480 --> 00:03:45,190
+have two
+arms two legs and a head but they're not
+
+208
+00:03:45,190 --> 00:03:45,200
+arms two legs and a head but they're not
+ 
+
+209
+00:03:45,200 --> 00:03:46,229
+arms two legs and a head but they're not
+considered to be
+
+210
+00:03:46,229 --> 00:03:46,239
+considered to be
+ 
+
+211
+00:03:46,239 --> 00:03:50,149
+considered to be
+quote humanoids in game terms
+
+212
+00:03:50,149 --> 00:03:50,159
+quote humanoids in game terms
+ 
+
+213
+00:03:50,159 --> 00:03:52,390
+quote humanoids in game terms
+so for example if players encounter a
+
+214
+00:03:52,390 --> 00:03:52,400
+so for example if players encounter a
+ 
+
+215
+00:03:52,400 --> 00:03:53,429
+so for example if players encounter a
+manticore
+
+216
+00:03:53,429 --> 00:03:53,439
+manticore
+ 
+
+217
+00:03:53,439 --> 00:03:56,070
+manticore
+they could use either the arcana or
+
+218
+00:03:56,070 --> 00:03:56,080
+they could use either the arcana or
+ 
+
+219
+00:03:56,080 --> 00:03:57,990
+they could use either the arcana or
+nature skills to identify it
+
+220
+00:03:57,990 --> 00:03:58,000
+nature skills to identify it
+ 
+
+221
+00:03:58,000 --> 00:04:01,350
+nature skills to identify it
+since manticores have the beast's trait
+
+222
+00:04:01,350 --> 00:04:01,360
+since manticores have the beast's trait
+ 
+
+223
+00:04:01,360 --> 00:04:03,509
+since manticores have the beast's trait
+in addition players can also use the
+
+224
+00:04:03,509 --> 00:04:03,519
+in addition players can also use the
+ 
+
+225
+00:04:03,519 --> 00:04:05,830
+in addition players can also use the
+appropriate lore skill to identify
+
+226
+00:04:05,830 --> 00:04:05,840
+appropriate lore skill to identify
+ 
+
+227
+00:04:05,840 --> 00:04:07,110
+appropriate lore skill to identify
+creatures
+
+228
+00:04:07,110 --> 00:04:07,120
+creatures
+ 
+
+229
+00:04:07,120 --> 00:04:10,229
+creatures
+so as another example either religion
+
+230
+00:04:10,229 --> 00:04:10,239
+so as another example either religion
+ 
+
+231
+00:04:10,239 --> 00:04:13,910
+so as another example either religion
+or lore undead could be used to identify
+
+232
+00:04:13,910 --> 00:04:13,920
+or lore undead could be used to identify
+ 
+
+233
+00:04:13,920 --> 00:04:15,270
+or lore undead could be used to identify
+a vampire
+
+234
+00:04:15,270 --> 00:04:15,280
+a vampire
+ 
+
+235
+00:04:15,280 --> 00:04:17,749
+a vampire
+at the gm's discretion they may also be
+
+236
+00:04:17,749 --> 00:04:17,759
+at the gm's discretion they may also be
+ 
+
+237
+00:04:17,759 --> 00:04:18,629
+at the gm's discretion they may also be
+able to use
+
+238
+00:04:18,629 --> 00:04:18,639
+able to use
+ 
+
+239
+00:04:18,639 --> 00:04:22,550
+able to use
+other related skills hags are humanoids
+
+240
+00:04:22,550 --> 00:04:22,560
+other related skills hags are humanoids
+ 
+
+241
+00:04:22,560 --> 00:04:24,950
+other related skills hags are humanoids
+and therefore you would use society to
+
+242
+00:04:24,950 --> 00:04:24,960
+and therefore you would use society to
+ 
+
+243
+00:04:24,960 --> 00:04:26,310
+and therefore you would use society to
+identify them
+
+244
+00:04:26,310 --> 00:04:26,320
+identify them
+ 
+
+245
+00:04:26,320 --> 00:04:28,710
+identify them
+but hags are also known for their occult
+
+246
+00:04:28,710 --> 00:04:28,720
+but hags are also known for their occult
+ 
+
+247
+00:04:28,720 --> 00:04:29,749
+but hags are also known for their occult
+spell use
+
+248
+00:04:29,749 --> 00:04:29,759
+spell use
+ 
+
+249
+00:04:29,759 --> 00:04:32,950
+spell use
+so a gm might allow occultism in place
+
+250
+00:04:32,950 --> 00:04:32,960
+so a gm might allow occultism in place
+ 
+
+251
+00:04:32,960 --> 00:04:34,870
+so a gm might allow occultism in place
+of society
+
+252
+00:04:34,870 --> 00:04:34,880
+of society
+ 
+
+253
+00:04:34,880 --> 00:04:36,790
+of society
+it is also possible to gain knowledge
+
+254
+00:04:36,790 --> 00:04:36,800
+it is also possible to gain knowledge
+ 
+
+255
+00:04:36,800 --> 00:04:39,270
+it is also possible to gain knowledge
+about a creature using skills other than
+
+256
+00:04:39,270 --> 00:04:39,280
+about a creature using skills other than
+ 
+
+257
+00:04:39,280 --> 00:04:41,670
+about a creature using skills other than
+the listed knowledge and lore skills
+
+258
+00:04:41,670 --> 00:04:41,680
+the listed knowledge and lore skills
+ 
+
+259
+00:04:41,680 --> 00:04:42,310
+the listed knowledge and lore skills
+this will be
+
+260
+00:04:42,310 --> 00:04:42,320
+this will be
+ 
+
+261
+00:04:42,320 --> 00:04:45,270
+this will be
+entirely up to the gm but if a character
+
+262
+00:04:45,270 --> 00:04:45,280
+entirely up to the gm but if a character
+ 
+
+263
+00:04:45,280 --> 00:04:45,670
+entirely up to the gm but if a character
+has
+
+264
+00:04:45,670 --> 00:04:45,680
+has
+ 
+
+265
+00:04:45,680 --> 00:04:47,430
+has
+the ability or skill that they are
+
+266
+00:04:47,430 --> 00:04:47,440
+the ability or skill that they are
+ 
+
+267
+00:04:47,440 --> 00:04:49,110
+the ability or skill that they are
+trying to assess
+
+268
+00:04:49,110 --> 00:04:49,120
+trying to assess
+ 
+
+269
+00:04:49,120 --> 00:04:51,030
+trying to assess
+then they might be able to use a skill
+
+270
+00:04:51,030 --> 00:04:51,040
+then they might be able to use a skill
+ 
+
+271
+00:04:51,040 --> 00:04:53,030
+then they might be able to use a skill
+to see if the target creature has the
+
+272
+00:04:53,030 --> 00:04:53,040
+to see if the target creature has the
+ 
+
+273
+00:04:53,040 --> 00:04:56,150
+to see if the target creature has the
+same ability or to what degree
+
+274
+00:04:56,150 --> 00:04:56,160
+same ability or to what degree
+ 
+
+275
+00:04:56,160 --> 00:04:58,629
+same ability or to what degree
+for example if a character is trained in
+
+276
+00:04:58,629 --> 00:04:58,639
+for example if a character is trained in
+ 
+
+277
+00:04:58,639 --> 00:04:59,749
+for example if a character is trained in
+athletics
+
+278
+00:04:59,749 --> 00:04:59,759
+athletics
+ 
+
+279
+00:04:59,759 --> 00:05:01,990
+athletics
+and wants to know if they can outrun a
+
+280
+00:05:01,990 --> 00:05:02,000
+and wants to know if they can outrun a
+ 
+
+281
+00:05:02,000 --> 00:05:02,790
+and wants to know if they can outrun a
+monster
+
+282
+00:05:02,790 --> 00:05:02,800
+monster
+ 
+
+283
+00:05:02,800 --> 00:05:04,790
+monster
+they might be able to roll athletics
+
+284
+00:05:04,790 --> 00:05:04,800
+they might be able to roll athletics
+ 
+
+285
+00:05:04,800 --> 00:05:06,950
+they might be able to roll athletics
+instead of a knowledge skill
+
+286
+00:05:06,950 --> 00:05:06,960
+instead of a knowledge skill
+ 
+
+287
+00:05:06,960 --> 00:05:08,710
+instead of a knowledge skill
+but they would use their intelligence
+
+288
+00:05:08,710 --> 00:05:08,720
+but they would use their intelligence
+ 
+
+289
+00:05:08,720 --> 00:05:09,990
+but they would use their intelligence
+modifier for the bonus
+
+290
+00:05:09,990 --> 00:05:10,000
+modifier for the bonus
+ 
+
+291
+00:05:10,000 --> 00:05:14,310
+modifier for the bonus
+instead of strength for that check
+
+292
+00:05:14,310 --> 00:05:14,320
+
+ 
+
+293
+00:05:14,320 --> 00:05:16,230
+
+once you know what skill needs to be
+
+294
+00:05:16,230 --> 00:05:16,240
+once you know what skill needs to be
+ 
+
+295
+00:05:16,240 --> 00:05:18,629
+once you know what skill needs to be
+rolled the next question is what dc
+
+296
+00:05:18,629 --> 00:05:18,639
+rolled the next question is what dc
+ 
+
+297
+00:05:18,639 --> 00:05:21,189
+rolled the next question is what dc
+needs to be beat to score success
+
+298
+00:05:21,189 --> 00:05:21,199
+needs to be beat to score success
+ 
+
+299
+00:05:21,199 --> 00:05:24,390
+needs to be beat to score success
+this is fairly easy simply compare the
+
+300
+00:05:24,390 --> 00:05:24,400
+this is fairly easy simply compare the
+ 
+
+301
+00:05:24,400 --> 00:05:26,310
+this is fairly easy simply compare the
+level of the creature to table
+
+302
+00:05:26,310 --> 00:05:26,320
+level of the creature to table
+ 
+
+303
+00:05:26,320 --> 00:05:29,909
+level of the creature to table
+10-5 found on page 503 of the core rules
+
+304
+00:05:29,909 --> 00:05:29,919
+10-5 found on page 503 of the core rules
+ 
+
+305
+00:05:29,919 --> 00:05:33,590
+10-5 found on page 503 of the core rules
+and then modify by the creature's rarity
+
+306
+00:05:33,590 --> 00:05:33,600
+and then modify by the creature's rarity
+ 
+
+307
+00:05:33,600 --> 00:05:36,950
+and then modify by the creature's rarity
+common creatures use the listed dc
+
+308
+00:05:36,950 --> 00:05:36,960
+common creatures use the listed dc
+ 
+
+309
+00:05:36,960 --> 00:05:39,350
+common creatures use the listed dc
+increase the dc by 2 for uncommon
+
+310
+00:05:39,350 --> 00:05:39,360
+increase the dc by 2 for uncommon
+ 
+
+311
+00:05:39,360 --> 00:05:40,310
+increase the dc by 2 for uncommon
+creatures
+
+312
+00:05:40,310 --> 00:05:40,320
+creatures
+ 
+
+313
+00:05:40,320 --> 00:05:43,749
+creatures
+by 5 for rare creatures and by 10
+
+314
+00:05:43,749 --> 00:05:43,759
+by 5 for rare creatures and by 10
+ 
+
+315
+00:05:43,759 --> 00:05:47,189
+by 5 for rare creatures and by 10
+for unique creatures and then lower
+
+316
+00:05:47,189 --> 00:05:47,199
+for unique creatures and then lower
+ 
+
+317
+00:05:47,199 --> 00:05:50,629
+for unique creatures and then lower
+the dc if a lore skill is being used
+
+318
+00:05:50,629 --> 00:05:50,639
+the dc if a lore skill is being used
+ 
+
+319
+00:05:50,639 --> 00:05:52,950
+the dc if a lore skill is being used
+instead of one of the general knowledge
+
+320
+00:05:52,950 --> 00:05:52,960
+instead of one of the general knowledge
+ 
+
+321
+00:05:52,960 --> 00:05:53,990
+instead of one of the general knowledge
+skills
+
+322
+00:05:53,990 --> 00:05:54,000
+skills
+ 
+
+323
+00:05:54,000 --> 00:05:56,070
+skills
+this reduction is either two points
+
+324
+00:05:56,070 --> 00:05:56,080
+this reduction is either two points
+ 
+
+325
+00:05:56,080 --> 00:05:58,230
+this reduction is either two points
+lower or five points lower
+
+326
+00:05:58,230 --> 00:05:58,240
+lower or five points lower
+ 
+
+327
+00:05:58,240 --> 00:06:01,590
+lower or five points lower
+at the gm's discretion for example
+
+328
+00:06:01,590 --> 00:06:01,600
+at the gm's discretion for example
+ 
+
+329
+00:06:01,600 --> 00:06:03,909
+at the gm's discretion for example
+nileth's are common tenth level
+
+330
+00:06:03,909 --> 00:06:03,919
+nileth's are common tenth level
+ 
+
+331
+00:06:03,919 --> 00:06:05,270
+nileth's are common tenth level
+aberrations
+
+332
+00:06:05,270 --> 00:06:05,280
+aberrations
+ 
+
+333
+00:06:05,280 --> 00:06:08,710
+aberrations
+so identifying one would call for a dc27
+
+334
+00:06:08,710 --> 00:06:08,720
+so identifying one would call for a dc27
+ 
+
+335
+00:06:08,720 --> 00:06:10,629
+so identifying one would call for a dc27
+occultism check
+
+336
+00:06:10,629 --> 00:06:10,639
+occultism check
+ 
+
+337
+00:06:10,639 --> 00:06:13,110
+occultism check
+cyclops are uncommon fifth level
+
+338
+00:06:13,110 --> 00:06:13,120
+cyclops are uncommon fifth level
+ 
+
+339
+00:06:13,120 --> 00:06:14,150
+cyclops are uncommon fifth level
+humanoids
+
+340
+00:06:14,150 --> 00:06:14,160
+humanoids
+ 
+
+341
+00:06:14,160 --> 00:06:17,510
+humanoids
+so it would take a dc 22 society check
+
+342
+00:06:17,510 --> 00:06:17,520
+so it would take a dc 22 society check
+ 
+
+343
+00:06:17,520 --> 00:06:20,629
+so it would take a dc 22 society check
+to identify one of them and if using the
+
+344
+00:06:20,629 --> 00:06:20,639
+to identify one of them and if using the
+ 
+
+345
+00:06:20,639 --> 00:06:21,029
+to identify one of them and if using the
+lore
+
+346
+00:06:21,029 --> 00:06:21,039
+lore
+ 
+
+347
+00:06:21,039 --> 00:06:23,990
+lore
+cyclops skill instead of society the dc
+
+348
+00:06:23,990 --> 00:06:24,000
+cyclops skill instead of society the dc
+ 
+
+349
+00:06:24,000 --> 00:06:26,550
+cyclops skill instead of society the dc
+may be lowered to 17.
+
+350
+00:06:26,550 --> 00:06:26,560
+may be lowered to 17.
+ 
+
+351
+00:06:26,560 --> 00:06:28,870
+may be lowered to 17.
+things get a little more tricky when
+
+352
+00:06:28,870 --> 00:06:28,880
+things get a little more tricky when
+ 
+
+353
+00:06:28,880 --> 00:06:29,830
+things get a little more tricky when
+talking about
+
+354
+00:06:29,830 --> 00:06:29,840
+talking about
+ 
+
+355
+00:06:29,840 --> 00:06:33,110
+talking about
+unique creatures rules as written
+
+356
+00:06:33,110 --> 00:06:33,120
+unique creatures rules as written
+ 
+
+357
+00:06:33,120 --> 00:06:36,309
+unique creatures rules as written
+unique creatures have a dc that is 10
+
+358
+00:06:36,309 --> 00:06:36,319
+unique creatures have a dc that is 10
+ 
+
+359
+00:06:36,319 --> 00:06:38,469
+unique creatures have a dc that is 10
+higher than what's listed for their
+
+360
+00:06:38,469 --> 00:06:38,479
+higher than what's listed for their
+ 
+
+361
+00:06:38,479 --> 00:06:40,309
+higher than what's listed for their
+level on the table
+
+362
+00:06:40,309 --> 00:06:40,319
+level on the table
+ 
+
+363
+00:06:40,319 --> 00:06:42,469
+level on the table
+but i think this is one of those areas
+
+364
+00:06:42,469 --> 00:06:42,479
+but i think this is one of those areas
+ 
+
+365
+00:06:42,479 --> 00:06:43,350
+but i think this is one of those areas
+where the gm
+
+366
+00:06:43,350 --> 00:06:43,360
+where the gm
+ 
+
+367
+00:06:43,360 --> 00:06:45,110
+where the gm
+really needs to leverage their own
+
+368
+00:06:45,110 --> 00:06:45,120
+really needs to leverage their own
+ 
+
+369
+00:06:45,120 --> 00:06:46,390
+really needs to leverage their own
+insights
+
+370
+00:06:46,390 --> 00:06:46,400
+insights
+ 
+
+371
+00:06:46,400 --> 00:06:48,950
+insights
+if the creature has the unique tag
+
+372
+00:06:48,950 --> 00:06:48,960
+if the creature has the unique tag
+ 
+
+373
+00:06:48,960 --> 00:06:49,909
+if the creature has the unique tag
+because they are
+
+374
+00:06:49,909 --> 00:06:49,919
+because they are
+ 
+
+375
+00:06:49,919 --> 00:06:52,950
+because they are
+an individual member of a species like
+
+376
+00:06:52,950 --> 00:06:52,960
+an individual member of a species like
+ 
+
+377
+00:06:52,960 --> 00:06:56,230
+an individual member of a species like
+warble bubble brasher is then by
+
+378
+00:06:56,230 --> 00:06:56,240
+warble bubble brasher is then by
+ 
+
+379
+00:06:56,240 --> 00:07:00,309
+warble bubble brasher is then by
+raw the dc to identify her is 25.
+
+380
+00:07:00,309 --> 00:07:00,319
+raw the dc to identify her is 25.
+ 
+
+381
+00:07:00,319 --> 00:07:03,430
+raw the dc to identify her is 25.
+15 for being first level plus 10 more
+
+382
+00:07:03,430 --> 00:07:03,440
+15 for being first level plus 10 more
+ 
+
+383
+00:07:03,440 --> 00:07:05,670
+15 for being first level plus 10 more
+for having the unique trait
+
+384
+00:07:05,670 --> 00:07:05,680
+for having the unique trait
+ 
+
+385
+00:07:05,680 --> 00:07:08,629
+for having the unique trait
+although not spelled out in the rules i
+
+386
+00:07:08,629 --> 00:07:08,639
+although not spelled out in the rules i
+ 
+
+387
+00:07:08,639 --> 00:07:10,309
+although not spelled out in the rules i
+believe the intention here
+
+388
+00:07:10,309 --> 00:07:10,319
+believe the intention here
+ 
+
+389
+00:07:10,319 --> 00:07:13,909
+believe the intention here
+is for it to be a dc-15 society check
+
+390
+00:07:13,909 --> 00:07:13,919
+is for it to be a dc-15 society check
+ 
+
+391
+00:07:13,919 --> 00:07:16,629
+is for it to be a dc-15 society check
+to know that you're looking at a goblin
+
+392
+00:07:16,629 --> 00:07:16,639
+to know that you're looking at a goblin
+ 
+
+393
+00:07:16,639 --> 00:07:17,270
+to know that you're looking at a goblin
+and a
+
+394
+00:07:17,270 --> 00:07:17,280
+and a
+ 
+
+395
+00:07:17,280 --> 00:07:20,469
+and a
+dc 25 check to recognize her as a
+
+396
+00:07:20,469 --> 00:07:20,479
+dc 25 check to recognize her as a
+ 
+
+397
+00:07:20,479 --> 00:07:21,350
+dc 25 check to recognize her as a
+specific
+
+398
+00:07:21,350 --> 00:07:21,360
+specific
+ 
+
+399
+00:07:21,360 --> 00:07:24,950
+specific
+goblin named warble bubble brasher
+
+400
+00:07:24,950 --> 00:07:24,960
+goblin named warble bubble brasher
+ 
+
+401
+00:07:24,960 --> 00:07:27,589
+goblin named warble bubble brasher
+and the gm may lure the dc to know that
+
+402
+00:07:27,589 --> 00:07:27,599
+and the gm may lure the dc to know that
+ 
+
+403
+00:07:27,599 --> 00:07:29,909
+and the gm may lure the dc to know that
+warble is a goblin due to the standard
+
+404
+00:07:29,909 --> 00:07:29,919
+warble is a goblin due to the standard
+ 
+
+405
+00:07:29,919 --> 00:07:30,710
+warble is a goblin due to the standard
+goblin
+
+406
+00:07:30,710 --> 00:07:30,720
+goblin
+ 
+
+407
+00:07:30,720 --> 00:07:33,270
+goblin
+being a level negative one creature
+
+408
+00:07:33,270 --> 00:07:33,280
+being a level negative one creature
+ 
+
+409
+00:07:33,280 --> 00:07:33,830
+being a level negative one creature
+again
+
+410
+00:07:33,830 --> 00:07:33,840
+again
+ 
+
+411
+00:07:33,840 --> 00:07:36,230
+again
+this is all up to the gm to make a
+
+412
+00:07:36,230 --> 00:07:36,240
+this is all up to the gm to make a
+ 
+
+413
+00:07:36,240 --> 00:07:38,070
+this is all up to the gm to make a
+judgment call
+
+414
+00:07:38,070 --> 00:07:38,080
+judgment call
+ 
+
+415
+00:07:38,080 --> 00:07:40,710
+judgment call
+the gm also needs to ask themselves if
+
+416
+00:07:40,710 --> 00:07:40,720
+the gm also needs to ask themselves if
+ 
+
+417
+00:07:40,720 --> 00:07:41,350
+the gm also needs to ask themselves if
+warble
+
+418
+00:07:41,350 --> 00:07:41,360
+warble
+ 
+
+419
+00:07:41,360 --> 00:07:43,749
+warble
+is a goblin of great renown in the
+
+420
+00:07:43,749 --> 00:07:43,759
+is a goblin of great renown in the
+ 
+
+421
+00:07:43,759 --> 00:07:44,869
+is a goblin of great renown in the
+community
+
+422
+00:07:44,869 --> 00:07:44,879
+community
+ 
+
+423
+00:07:44,879 --> 00:07:47,430
+community
+then wouldn't it be easier to identify
+
+424
+00:07:47,430 --> 00:07:47,440
+then wouldn't it be easier to identify
+ 
+
+425
+00:07:47,440 --> 00:07:48,469
+then wouldn't it be easier to identify
+her
+
+426
+00:07:48,469 --> 00:07:48,479
+her
+ 
+
+427
+00:07:48,479 --> 00:07:50,950
+her
+if that's the case the dc may be lower
+
+428
+00:07:50,950 --> 00:07:50,960
+if that's the case the dc may be lower
+ 
+
+429
+00:07:50,960 --> 00:07:52,230
+if that's the case the dc may be lower
+to know her name
+
+430
+00:07:52,230 --> 00:07:52,240
+to know her name
+ 
+
+431
+00:07:52,240 --> 00:07:55,350
+to know her name
+but would likely still be dc25
+
+432
+00:07:55,350 --> 00:07:55,360
+but would likely still be dc25
+ 
+
+433
+00:07:55,360 --> 00:07:57,589
+but would likely still be dc25
+to know that she's deadly accurate when
+
+434
+00:07:57,589 --> 00:07:57,599
+to know that she's deadly accurate when
+ 
+
+435
+00:07:57,599 --> 00:07:59,350
+to know that she's deadly accurate when
+throwing her heavy books as ranged
+
+436
+00:07:59,350 --> 00:07:59,360
+throwing her heavy books as ranged
+ 
+
+437
+00:07:59,360 --> 00:08:00,710
+throwing her heavy books as ranged
+weapons
+
+438
+00:08:00,710 --> 00:08:00,720
+weapons
+ 
+
+439
+00:08:00,720 --> 00:08:04,070
+weapons
+again the gm will need to use some
+
+440
+00:08:04,070 --> 00:08:04,080
+again the gm will need to use some
+ 
+
+441
+00:08:04,080 --> 00:08:06,029
+again the gm will need to use some
+common sense and their own
+
+442
+00:08:06,029 --> 00:08:06,039
+common sense and their own
+ 
+
+443
+00:08:06,039 --> 00:08:07,430
+common sense and their own
+interpretations
+
+444
+00:08:07,430 --> 00:08:07,440
+interpretations
+ 
+
+445
+00:08:07,440 --> 00:08:09,990
+interpretations
+when managing the dc's to identify
+
+446
+00:08:09,990 --> 00:08:10,000
+when managing the dc's to identify
+ 
+
+447
+00:08:10,000 --> 00:08:13,029
+when managing the dc's to identify
+unique creatures
+
+448
+00:08:13,029 --> 00:08:13,039
+unique creatures
+ 
+
+449
+00:08:13,039 --> 00:08:14,869
+unique creatures
+that's the gist of how to identify a
+
+450
+00:08:14,869 --> 00:08:14,879
+that's the gist of how to identify a
+ 
+
+451
+00:08:14,879 --> 00:08:17,350
+that's the gist of how to identify a
+monster you use recall knowledge with an
+
+452
+00:08:17,350 --> 00:08:17,360
+monster you use recall knowledge with an
+ 
+
+453
+00:08:17,360 --> 00:08:19,589
+monster you use recall knowledge with an
+applicable skill versus a dc that's
+
+454
+00:08:19,589 --> 00:08:19,599
+applicable skill versus a dc that's
+ 
+
+455
+00:08:19,599 --> 00:08:22,390
+applicable skill versus a dc that's
+based on the creature's level and rarity
+
+456
+00:08:22,390 --> 00:08:22,400
+based on the creature's level and rarity
+ 
+
+457
+00:08:22,400 --> 00:08:24,550
+based on the creature's level and rarity
+if successful you know what kind of
+
+458
+00:08:24,550 --> 00:08:24,560
+if successful you know what kind of
+ 
+
+459
+00:08:24,560 --> 00:08:25,589
+if successful you know what kind of
+creature they are
+
+460
+00:08:25,589 --> 00:08:25,599
+creature they are
+ 
+
+461
+00:08:25,599 --> 00:08:27,589
+creature they are
+and their name if they're unique and
+
+462
+00:08:27,589 --> 00:08:27,599
+and their name if they're unique and
+ 
+
+463
+00:08:27,599 --> 00:08:29,749
+and their name if they're unique and
+also the single most commonly known
+
+464
+00:08:29,749 --> 00:08:29,759
+also the single most commonly known
+ 
+
+465
+00:08:29,759 --> 00:08:31,589
+also the single most commonly known
+piece of information about them
+
+466
+00:08:31,589 --> 00:08:31,599
+piece of information about them
+ 
+
+467
+00:08:31,599 --> 00:08:34,149
+piece of information about them
+and if you critically succeed you also
+
+468
+00:08:34,149 --> 00:08:34,159
+and if you critically succeed you also
+ 
+
+469
+00:08:34,159 --> 00:08:35,269
+and if you critically succeed you also
+learn one piece of
+
+470
+00:08:35,269 --> 00:08:35,279
+learn one piece of
+ 
+
+471
+00:08:35,279 --> 00:08:38,310
+learn one piece of
+little known information too but what if
+
+472
+00:08:38,310 --> 00:08:38,320
+little known information too but what if
+ 
+
+473
+00:08:38,320 --> 00:08:39,269
+little known information too but what if
+that's not enough
+
+474
+00:08:39,269 --> 00:08:39,279
+that's not enough
+ 
+
+475
+00:08:39,279 --> 00:08:41,110
+that's not enough
+what if you need to know more
+
+476
+00:08:41,110 --> 00:08:41,120
+what if you need to know more
+ 
+
+477
+00:08:41,120 --> 00:08:43,750
+what if you need to know more
+information you can continue to spend
+
+478
+00:08:43,750 --> 00:08:43,760
+information you can continue to spend
+ 
+
+479
+00:08:43,760 --> 00:08:46,630
+information you can continue to spend
+one action and make one skill check but
+
+480
+00:08:46,630 --> 00:08:46,640
+one action and make one skill check but
+ 
+
+481
+00:08:46,640 --> 00:08:48,710
+one action and make one skill check but
+with two restrictions
+
+482
+00:08:48,710 --> 00:08:48,720
+with two restrictions
+ 
+
+483
+00:08:48,720 --> 00:08:51,030
+with two restrictions
+first as soon as a character fails a
+
+484
+00:08:51,030 --> 00:08:51,040
+first as soon as a character fails a
+ 
+
+485
+00:08:51,040 --> 00:08:52,470
+first as soon as a character fails a
+recolonology check
+
+486
+00:08:52,470 --> 00:08:52,480
+recolonology check
+ 
+
+487
+00:08:52,480 --> 00:08:54,870
+recolonology check
+they cannot make any further checks on
+
+488
+00:08:54,870 --> 00:08:54,880
+they cannot make any further checks on
+ 
+
+489
+00:08:54,880 --> 00:08:56,070
+they cannot make any further checks on
+that subject
+
+490
+00:08:56,070 --> 00:08:56,080
+that subject
+ 
+
+491
+00:08:56,080 --> 00:08:58,389
+that subject
+at that point the gm has revealed all
+
+492
+00:08:58,389 --> 00:08:58,399
+at that point the gm has revealed all
+ 
+
+493
+00:08:58,399 --> 00:09:00,310
+at that point the gm has revealed all
+the information they know about that
+
+494
+00:09:00,310 --> 00:09:00,320
+the information they know about that
+ 
+
+495
+00:09:00,320 --> 00:09:01,269
+the information they know about that
+creature
+
+496
+00:09:01,269 --> 00:09:01,279
+creature
+ 
+
+497
+00:09:01,279 --> 00:09:04,310
+creature
+and second the dc increases by one
+
+498
+00:09:04,310 --> 00:09:04,320
+and second the dc increases by one
+ 
+
+499
+00:09:04,320 --> 00:09:06,389
+and second the dc increases by one
+difficulty level with every additional
+
+500
+00:09:06,389 --> 00:09:06,399
+difficulty level with every additional
+ 
+
+501
+00:09:06,399 --> 00:09:07,430
+difficulty level with every additional
+check
+
+502
+00:09:07,430 --> 00:09:07,440
+check
+ 
+
+503
+00:09:07,440 --> 00:09:09,750
+check
+so for example if you succeed your first
+
+504
+00:09:09,750 --> 00:09:09,760
+so for example if you succeed your first
+ 
+
+505
+00:09:09,760 --> 00:09:11,750
+so for example if you succeed your first
+check against the regular dc
+
+506
+00:09:11,750 --> 00:09:11,760
+check against the regular dc
+ 
+
+507
+00:09:11,760 --> 00:09:13,670
+check against the regular dc
+you learn the monster's name and the
+
+508
+00:09:13,670 --> 00:09:13,680
+you learn the monster's name and the
+ 
+
+509
+00:09:13,680 --> 00:09:15,750
+you learn the monster's name and the
+most commonly known piece of information
+
+510
+00:09:15,750 --> 00:09:15,760
+most commonly known piece of information
+ 
+
+511
+00:09:15,760 --> 00:09:16,870
+most commonly known piece of information
+about it
+
+512
+00:09:16,870 --> 00:09:16,880
+about it
+ 
+
+513
+00:09:16,880 --> 00:09:19,350
+about it
+if you spin another action this becomes
+
+514
+00:09:19,350 --> 00:09:19,360
+if you spin another action this becomes
+ 
+
+515
+00:09:19,360 --> 00:09:20,550
+if you spin another action this becomes
+a hard check
+
+516
+00:09:20,550 --> 00:09:20,560
+a hard check
+ 
+
+517
+00:09:20,560 --> 00:09:23,269
+a hard check
+increases the dc by two and if
+
+518
+00:09:23,269 --> 00:09:23,279
+increases the dc by two and if
+ 
+
+519
+00:09:23,279 --> 00:09:24,150
+increases the dc by two and if
+successful
+
+520
+00:09:24,150 --> 00:09:24,160
+successful
+ 
+
+521
+00:09:24,160 --> 00:09:26,710
+successful
+the gm provides the next most commonly
+
+522
+00:09:26,710 --> 00:09:26,720
+the gm provides the next most commonly
+ 
+
+523
+00:09:26,720 --> 00:09:28,870
+the gm provides the next most commonly
+known piece of information
+
+524
+00:09:28,870 --> 00:09:28,880
+known piece of information
+ 
+
+525
+00:09:28,880 --> 00:09:31,190
+known piece of information
+if they succeed they can make a third
+
+526
+00:09:31,190 --> 00:09:31,200
+if they succeed they can make a third
+ 
+
+527
+00:09:31,200 --> 00:09:32,230
+if they succeed they can make a third
+check at plus
+
+528
+00:09:32,230 --> 00:09:32,240
+check at plus
+ 
+
+529
+00:09:32,240 --> 00:09:35,110
+check at plus
+five if they fail that check they're
+
+530
+00:09:35,110 --> 00:09:35,120
+five if they fail that check they're
+ 
+
+531
+00:09:35,120 --> 00:09:36,070
+five if they fail that check they're
+done
+
+532
+00:09:36,070 --> 00:09:36,080
+done
+ 
+
+533
+00:09:36,080 --> 00:09:38,870
+done
+but if they succeed they can make one
+
+534
+00:09:38,870 --> 00:09:38,880
+but if they succeed they can make one
+ 
+
+535
+00:09:38,880 --> 00:09:39,269
+but if they succeed they can make one
+last
+
+536
+00:09:39,269 --> 00:09:39,279
+last
+ 
+
+537
+00:09:39,279 --> 00:09:41,910
+last
+check at incredibly hard difficulty with
+
+538
+00:09:41,910 --> 00:09:41,920
+check at incredibly hard difficulty with
+ 
+
+539
+00:09:41,920 --> 00:09:42,630
+check at incredibly hard difficulty with
+a plus
+
+540
+00:09:42,630 --> 00:09:42,640
+a plus
+ 
+
+541
+00:09:42,640 --> 00:09:46,070
+a plus
+10 dc this is the last check that they
+
+542
+00:09:46,070 --> 00:09:46,080
+10 dc this is the last check that they
+ 
+
+543
+00:09:46,080 --> 00:09:46,630
+10 dc this is the last check that they
+can make
+
+544
+00:09:46,630 --> 00:09:46,640
+can make
+ 
+
+545
+00:09:46,640 --> 00:09:49,190
+can make
+regardless of success or failure after
+
+546
+00:09:49,190 --> 00:09:49,200
+regardless of success or failure after
+ 
+
+547
+00:09:49,200 --> 00:09:50,230
+regardless of success or failure after
+they make this check
+
+548
+00:09:50,230 --> 00:09:50,240
+they make this check
+ 
+
+549
+00:09:50,240 --> 00:09:52,310
+they make this check
+the gm will have revealed all the
+
+550
+00:09:52,310 --> 00:09:52,320
+the gm will have revealed all the
+ 
+
+551
+00:09:52,320 --> 00:09:53,990
+the gm will have revealed all the
+information they know about this
+
+552
+00:09:53,990 --> 00:09:54,000
+information they know about this
+ 
+
+553
+00:09:54,000 --> 00:09:55,190
+information they know about this
+creature
+
+554
+00:09:55,190 --> 00:09:55,200
+creature
+ 
+
+555
+00:09:55,200 --> 00:09:57,269
+creature
+and note that if the character is using
+
+556
+00:09:57,269 --> 00:09:57,279
+and note that if the character is using
+ 
+
+557
+00:09:57,279 --> 00:09:58,630
+and note that if the character is using
+a lore skill
+
+558
+00:09:58,630 --> 00:09:58,640
+a lore skill
+ 
+
+559
+00:09:58,640 --> 00:10:01,750
+a lore skill
+then they start at either easy or very
+
+560
+00:10:01,750 --> 00:10:01,760
+then they start at either easy or very
+ 
+
+561
+00:10:01,760 --> 00:10:04,470
+then they start at either easy or very
+easy on this chart this is where that
+
+562
+00:10:04,470 --> 00:10:04,480
+easy on this chart this is where that
+ 
+
+563
+00:10:04,480 --> 00:10:07,750
+easy on this chart this is where that
+negative 2 or negative 5 reduction to dc
+
+564
+00:10:07,750 --> 00:10:07,760
+negative 2 or negative 5 reduction to dc
+ 
+
+565
+00:10:07,760 --> 00:10:10,470
+negative 2 or negative 5 reduction to dc
+i previously mentioned comes from which
+
+566
+00:10:10,470 --> 00:10:10,480
+i previously mentioned comes from which
+ 
+
+567
+00:10:10,480 --> 00:10:11,350
+i previously mentioned comes from which
+means you have
+
+568
+00:10:11,350 --> 00:10:11,360
+means you have
+ 
+
+569
+00:10:11,360 --> 00:10:13,430
+means you have
+more potential checks that can be made
+
+570
+00:10:13,430 --> 00:10:13,440
+more potential checks that can be made
+ 
+
+571
+00:10:13,440 --> 00:10:14,870
+more potential checks that can be made
+with lore skills
+
+572
+00:10:14,870 --> 00:10:14,880
+with lore skills
+ 
+
+573
+00:10:14,880 --> 00:10:17,030
+with lore skills
+as it will take a person starting at
+
+574
+00:10:17,030 --> 00:10:17,040
+as it will take a person starting at
+ 
+
+575
+00:10:17,040 --> 00:10:18,310
+as it will take a person starting at
+very easy
+
+576
+00:10:18,310 --> 00:10:18,320
+very easy
+ 
+
+577
+00:10:18,320 --> 00:10:20,630
+very easy
+six recall knowledge actions to max out
+
+578
+00:10:20,630 --> 00:10:20,640
+six recall knowledge actions to max out
+ 
+
+579
+00:10:20,640 --> 00:10:22,150
+six recall knowledge actions to max out
+their knowledge of a creature
+
+580
+00:10:22,150 --> 00:10:22,160
+their knowledge of a creature
+ 
+
+581
+00:10:22,160 --> 00:10:24,389
+their knowledge of a creature
+versus four attempts when using a
+
+582
+00:10:24,389 --> 00:10:24,399
+versus four attempts when using a
+ 
+
+583
+00:10:24,399 --> 00:10:25,590
+versus four attempts when using a
+general knowledge skill
+
+584
+00:10:25,590 --> 00:10:25,600
+general knowledge skill
+ 
+
+585
+00:10:25,600 --> 00:10:28,949
+general knowledge skill
+in standard dc
+
+586
+00:10:28,949 --> 00:10:28,959
+
+ 
+
+587
+00:10:28,959 --> 00:10:31,430
+
+although the rules provide an excellent
+
+588
+00:10:31,430 --> 00:10:31,440
+although the rules provide an excellent
+ 
+
+589
+00:10:31,440 --> 00:10:32,230
+although the rules provide an excellent
+framework
+
+590
+00:10:32,230 --> 00:10:32,240
+framework
+ 
+
+591
+00:10:32,240 --> 00:10:34,310
+framework
+for learning the names and abilities of
+
+592
+00:10:34,310 --> 00:10:34,320
+for learning the names and abilities of
+ 
+
+593
+00:10:34,320 --> 00:10:35,350
+for learning the names and abilities of
+monsters
+
+594
+00:10:35,350 --> 00:10:35,360
+monsters
+ 
+
+595
+00:10:35,360 --> 00:10:38,470
+monsters
+it is a process that relies heavily
+
+596
+00:10:38,470 --> 00:10:38,480
+it is a process that relies heavily
+ 
+
+597
+00:10:38,480 --> 00:10:41,590
+it is a process that relies heavily
+on gm interpretation and judgment calls
+
+598
+00:10:41,590 --> 00:10:41,600
+on gm interpretation and judgment calls
+ 
+
+599
+00:10:41,600 --> 00:10:43,670
+on gm interpretation and judgment calls
+so next i want to share a few house
+
+600
+00:10:43,670 --> 00:10:43,680
+so next i want to share a few house
+ 
+
+601
+00:10:43,680 --> 00:10:45,750
+so next i want to share a few house
+rules i've seen gm's use to manage the
+
+602
+00:10:45,750 --> 00:10:45,760
+rules i've seen gm's use to manage the
+ 
+
+603
+00:10:45,760 --> 00:10:47,269
+rules i've seen gm's use to manage the
+system with their groups
+
+604
+00:10:47,269 --> 00:10:47,279
+system with their groups
+ 
+
+605
+00:10:47,279 --> 00:10:49,190
+system with their groups
+and as always when discussing house
+
+606
+00:10:49,190 --> 00:10:49,200
+and as always when discussing house
+ 
+
+607
+00:10:49,200 --> 00:10:50,389
+and as always when discussing house
+rules remember
+
+608
+00:10:50,389 --> 00:10:50,399
+rules remember
+ 
+
+609
+00:10:50,399 --> 00:10:52,710
+rules remember
+these are not official and what works
+
+610
+00:10:52,710 --> 00:10:52,720
+these are not official and what works
+ 
+
+611
+00:10:52,720 --> 00:10:53,670
+these are not official and what works
+for one group
+
+612
+00:10:53,670 --> 00:10:53,680
+for one group
+ 
+
+613
+00:10:53,680 --> 00:10:56,949
+for one group
+may not be what works best for yours
+
+614
+00:10:56,949 --> 00:10:56,959
+may not be what works best for yours
+ 
+
+615
+00:10:56,959 --> 00:11:00,150
+may not be what works best for yours
+the first house rule is the gm rolls
+
+616
+00:11:00,150 --> 00:11:00,160
+the first house rule is the gm rolls
+ 
+
+617
+00:11:00,160 --> 00:11:02,069
+the first house rule is the gm rolls
+these checks in secret
+
+618
+00:11:02,069 --> 00:11:02,079
+these checks in secret
+ 
+
+619
+00:11:02,079 --> 00:11:04,230
+these checks in secret
+much like how perception and stealth
+
+620
+00:11:04,230 --> 00:11:04,240
+much like how perception and stealth
+ 
+
+621
+00:11:04,240 --> 00:11:06,949
+much like how perception and stealth
+checks are always rolled in secret
+
+622
+00:11:06,949 --> 00:11:06,959
+checks are always rolled in secret
+ 
+
+623
+00:11:06,959 --> 00:11:09,829
+checks are always rolled in secret
+the main advantage to this is the player
+
+624
+00:11:09,829 --> 00:11:09,839
+the main advantage to this is the player
+ 
+
+625
+00:11:09,839 --> 00:11:11,430
+the main advantage to this is the player
+doesn't know when they've critically
+
+626
+00:11:11,430 --> 00:11:11,440
+doesn't know when they've critically
+ 
+
+627
+00:11:11,440 --> 00:11:12,870
+doesn't know when they've critically
+failed a check
+
+628
+00:11:12,870 --> 00:11:12,880
+failed a check
+ 
+
+629
+00:11:12,880 --> 00:11:15,190
+failed a check
+otherwise when they do roll a critical
+
+630
+00:11:15,190 --> 00:11:15,200
+otherwise when they do roll a critical
+ 
+
+631
+00:11:15,200 --> 00:11:16,150
+otherwise when they do roll a critical
+failure
+
+632
+00:11:16,150 --> 00:11:16,160
+failure
+ 
+
+633
+00:11:16,160 --> 00:11:18,150
+failure
+they usually know that the information
+
+634
+00:11:18,150 --> 00:11:18,160
+they usually know that the information
+ 
+
+635
+00:11:18,160 --> 00:11:21,190
+they usually know that the information
+the gm is giving them is false
+
+636
+00:11:21,190 --> 00:11:21,200
+the gm is giving them is false
+ 
+
+637
+00:11:21,200 --> 00:11:23,590
+the gm is giving them is false
+another house rule i've seen used is
+
+638
+00:11:23,590 --> 00:11:23,600
+another house rule i've seen used is
+ 
+
+639
+00:11:23,600 --> 00:11:25,670
+another house rule i've seen used is
+awarding more information
+
+640
+00:11:25,670 --> 00:11:25,680
+awarding more information
+ 
+
+641
+00:11:25,680 --> 00:11:28,949
+awarding more information
+based on degrees of success instead of
+
+642
+00:11:28,949 --> 00:11:28,959
+based on degrees of success instead of
+ 
+
+643
+00:11:28,959 --> 00:11:31,269
+based on degrees of success instead of
+success granting the most commonly known
+
+644
+00:11:31,269 --> 00:11:31,279
+success granting the most commonly known
+ 
+
+645
+00:11:31,279 --> 00:11:32,630
+success granting the most commonly known
+piece of information
+
+646
+00:11:32,630 --> 00:11:32,640
+piece of information
+ 
+
+647
+00:11:32,640 --> 00:11:35,269
+piece of information
+and a critical success being that plus
+
+648
+00:11:35,269 --> 00:11:35,279
+and a critical success being that plus
+ 
+
+649
+00:11:35,279 --> 00:11:37,509
+and a critical success being that plus
+one piece of little-known information
+
+650
+00:11:37,509 --> 00:11:37,519
+one piece of little-known information
+ 
+
+651
+00:11:37,519 --> 00:11:40,310
+one piece of little-known information
+the gm provides the creature's name and
+
+652
+00:11:40,310 --> 00:11:40,320
+the gm provides the creature's name and
+ 
+
+653
+00:11:40,320 --> 00:11:43,030
+the gm provides the creature's name and
+one piece of information for succeeding
+
+654
+00:11:43,030 --> 00:11:43,040
+one piece of information for succeeding
+ 
+
+655
+00:11:43,040 --> 00:11:46,069
+one piece of information for succeeding
+plus one more for every five
+
+656
+00:11:46,069 --> 00:11:46,079
+plus one more for every five
+ 
+
+657
+00:11:46,079 --> 00:11:49,350
+plus one more for every five
+points they beat the dc by and for
+
+658
+00:11:49,350 --> 00:11:49,360
+points they beat the dc by and for
+ 
+
+659
+00:11:49,360 --> 00:11:52,470
+points they beat the dc by and for
+repeated checks the dc becomes the
+
+660
+00:11:52,470 --> 00:11:52,480
+repeated checks the dc becomes the
+ 
+
+661
+00:11:52,480 --> 00:11:54,470
+repeated checks the dc becomes the
+previous checks total
+
+662
+00:11:54,470 --> 00:11:54,480
+previous checks total
+ 
+
+663
+00:11:54,480 --> 00:11:56,389
+previous checks total
+so they have to keep beating their
+
+664
+00:11:56,389 --> 00:11:56,399
+so they have to keep beating their
+ 
+
+665
+00:11:56,399 --> 00:11:57,990
+so they have to keep beating their
+previous roles to gain
+
+666
+00:11:57,990 --> 00:11:58,000
+previous roles to gain
+ 
+
+667
+00:11:58,000 --> 00:12:00,949
+previous roles to gain
+more information this can speed up the
+
+668
+00:12:00,949 --> 00:12:00,959
+more information this can speed up the
+ 
+
+669
+00:12:00,959 --> 00:12:01,829
+more information this can speed up the
+process
+
+670
+00:12:01,829 --> 00:12:01,839
+process
+ 
+
+671
+00:12:01,839 --> 00:12:04,069
+process
+and rewards the players for making
+
+672
+00:12:04,069 --> 00:12:04,079
+and rewards the players for making
+ 
+
+673
+00:12:04,079 --> 00:12:05,430
+and rewards the players for making
+excellent roles
+
+674
+00:12:05,430 --> 00:12:05,440
+excellent roles
+ 
+
+675
+00:12:05,440 --> 00:12:08,150
+excellent roles
+but might feel unbalancing to the gm due
+
+676
+00:12:08,150 --> 00:12:08,160
+but might feel unbalancing to the gm due
+ 
+
+677
+00:12:08,160 --> 00:12:10,069
+but might feel unbalancing to the gm due
+to potentially awarding lots of
+
+678
+00:12:10,069 --> 00:12:10,079
+to potentially awarding lots of
+ 
+
+679
+00:12:10,079 --> 00:12:13,350
+to potentially awarding lots of
+information for only one spin action
+
+680
+00:12:13,350 --> 00:12:13,360
+information for only one spin action
+ 
+
+681
+00:12:13,360 --> 00:12:15,190
+information for only one spin action
+and the last house rule i want to share
+
+682
+00:12:15,190 --> 00:12:15,200
+and the last house rule i want to share
+ 
+
+683
+00:12:15,200 --> 00:12:17,269
+and the last house rule i want to share
+addresses the biggest frustration i see
+
+684
+00:12:17,269 --> 00:12:17,279
+addresses the biggest frustration i see
+ 
+
+685
+00:12:17,279 --> 00:12:18,069
+addresses the biggest frustration i see
+at the table
+
+686
+00:12:18,069 --> 00:12:18,079
+at the table
+ 
+
+687
+00:12:18,079 --> 00:12:20,150
+at the table
+which occurs when a player succeeded or
+
+688
+00:12:20,150 --> 00:12:20,160
+which occurs when a player succeeded or
+ 
+
+689
+00:12:20,160 --> 00:12:22,389
+which occurs when a player succeeded or
+even critically succeeds the check
+
+690
+00:12:22,389 --> 00:12:22,399
+even critically succeeds the check
+ 
+
+691
+00:12:22,399 --> 00:12:24,550
+even critically succeeds the check
+but are not awarded with the information
+
+692
+00:12:24,550 --> 00:12:24,560
+but are not awarded with the information
+ 
+
+693
+00:12:24,560 --> 00:12:25,829
+but are not awarded with the information
+they really want
+
+694
+00:12:25,829 --> 00:12:25,839
+they really want
+ 
+
+695
+00:12:25,839 --> 00:12:27,910
+they really want
+if a player desperately needs to know if
+
+696
+00:12:27,910 --> 00:12:27,920
+if a player desperately needs to know if
+ 
+
+697
+00:12:27,920 --> 00:12:29,990
+if a player desperately needs to know if
+a creature is immune to fire damage
+
+698
+00:12:29,990 --> 00:12:30,000
+a creature is immune to fire damage
+ 
+
+699
+00:12:30,000 --> 00:12:31,910
+a creature is immune to fire damage
+before they use their highest level
+
+700
+00:12:31,910 --> 00:12:31,920
+before they use their highest level
+ 
+
+701
+00:12:31,920 --> 00:12:34,710
+before they use their highest level
+spell slot to cast a massive fireball
+
+702
+00:12:34,710 --> 00:12:34,720
+spell slot to cast a massive fireball
+ 
+
+703
+00:12:34,720 --> 00:12:36,710
+spell slot to cast a massive fireball
+it can be frustrating to have to burn
+
+704
+00:12:36,710 --> 00:12:36,720
+it can be frustrating to have to burn
+ 
+
+705
+00:12:36,720 --> 00:12:37,990
+it can be frustrating to have to burn
+multiple actions in
+
+706
+00:12:37,990 --> 00:12:38,000
+multiple actions in
+ 
+
+707
+00:12:38,000 --> 00:12:40,550
+multiple actions in
+making numerous noise checks until the
+
+708
+00:12:40,550 --> 00:12:40,560
+making numerous noise checks until the
+ 
+
+709
+00:12:40,560 --> 00:12:43,190
+making numerous noise checks until the
+gm decides that the monster's immunities
+
+710
+00:12:43,190 --> 00:12:43,200
+gm decides that the monster's immunities
+ 
+
+711
+00:12:43,200 --> 00:12:45,670
+gm decides that the monster's immunities
+would be the next most commonly known
+
+712
+00:12:45,670 --> 00:12:45,680
+would be the next most commonly known
+ 
+
+713
+00:12:45,680 --> 00:12:47,030
+would be the next most commonly known
+piece of information
+
+714
+00:12:47,030 --> 00:12:47,040
+piece of information
+ 
+
+715
+00:12:47,040 --> 00:12:51,030
+piece of information
+and then awards it so in this variation
+
+716
+00:12:51,030 --> 00:12:51,040
+and then awards it so in this variation
+ 
+
+717
+00:12:51,040 --> 00:12:53,509
+and then awards it so in this variation
+instead of the gm granting information
+
+718
+00:12:53,509 --> 00:12:53,519
+instead of the gm granting information
+ 
+
+719
+00:12:53,519 --> 00:12:55,269
+instead of the gm granting information
+based on what they feel is most
+
+720
+00:12:55,269 --> 00:12:55,279
+based on what they feel is most
+ 
+
+721
+00:12:55,279 --> 00:12:58,310
+based on what they feel is most
+commonly known they instead invite the
+
+722
+00:12:58,310 --> 00:12:58,320
+commonly known they instead invite the
+ 
+
+723
+00:12:58,320 --> 00:13:00,150
+commonly known they instead invite the
+players to ask questions
+
+724
+00:13:00,150 --> 00:13:00,160
+players to ask questions
+ 
+
+725
+00:13:00,160 --> 00:13:02,310
+players to ask questions
+if the player succeeds their check then
+
+726
+00:13:02,310 --> 00:13:02,320
+if the player succeeds their check then
+ 
+
+727
+00:13:02,320 --> 00:13:04,710
+if the player succeeds their check then
+the gm will provide the monster's name
+
+728
+00:13:04,710 --> 00:13:04,720
+the gm will provide the monster's name
+ 
+
+729
+00:13:04,720 --> 00:13:08,069
+the gm will provide the monster's name
+and also say i will answer any one
+
+730
+00:13:08,069 --> 00:13:08,079
+and also say i will answer any one
+ 
+
+731
+00:13:08,079 --> 00:13:09,350
+and also say i will answer any one
+question you have
+
+732
+00:13:09,350 --> 00:13:09,360
+question you have
+ 
+
+733
+00:13:09,360 --> 00:13:11,990
+question you have
+about this monster and then let the
+
+734
+00:13:11,990 --> 00:13:12,000
+about this monster and then let the
+ 
+
+735
+00:13:12,000 --> 00:13:14,069
+about this monster and then let the
+player spin that opportunity
+
+736
+00:13:14,069 --> 00:13:14,079
+player spin that opportunity
+ 
+
+737
+00:13:14,079 --> 00:13:16,550
+player spin that opportunity
+to ask if the monster is immune to fire
+
+738
+00:13:16,550 --> 00:13:16,560
+to ask if the monster is immune to fire
+ 
+
+739
+00:13:16,560 --> 00:13:17,670
+to ask if the monster is immune to fire
+damage
+
+740
+00:13:17,670 --> 00:13:17,680
+damage
+ 
+
+741
+00:13:17,680 --> 00:13:20,310
+damage
+this method is definitely more powerful
+
+742
+00:13:20,310 --> 00:13:20,320
+this method is definitely more powerful
+ 
+
+743
+00:13:20,320 --> 00:13:22,470
+this method is definitely more powerful
+than what is provided in the rules
+
+744
+00:13:22,470 --> 00:13:22,480
+than what is provided in the rules
+ 
+
+745
+00:13:22,480 --> 00:13:25,110
+than what is provided in the rules
+but some groups prefer it and in my own
+
+746
+00:13:25,110 --> 00:13:25,120
+but some groups prefer it and in my own
+ 
+
+747
+00:13:25,120 --> 00:13:25,750
+but some groups prefer it and in my own
+experience
+
+748
+00:13:25,750 --> 00:13:25,760
+experience
+ 
+
+749
+00:13:25,760 --> 00:13:28,389
+experience
+this greatly reduces player frustration
+
+750
+00:13:28,389 --> 00:13:28,399
+this greatly reduces player frustration
+ 
+
+751
+00:13:28,399 --> 00:13:29,750
+this greatly reduces player frustration
+and can also be fun
+
+752
+00:13:29,750 --> 00:13:29,760
+and can also be fun
+ 
+
+753
+00:13:29,760 --> 00:13:31,750
+and can also be fun
+when that player asks a question out of
+
+754
+00:13:31,750 --> 00:13:31,760
+when that player asks a question out of
+ 
+
+755
+00:13:31,760 --> 00:13:34,629
+when that player asks a question out of
+left field
+
+756
+00:13:34,629 --> 00:13:34,639
+left field
+ 
+
+757
+00:13:34,639 --> 00:13:36,949
+left field
+in this video we discussed the basics of
+
+758
+00:13:36,949 --> 00:13:36,959
+in this video we discussed the basics of
+ 
+
+759
+00:13:36,959 --> 00:13:39,030
+in this video we discussed the basics of
+identifying monsters
+
+760
+00:13:39,030 --> 00:13:39,040
+identifying monsters
+ 
+
+761
+00:13:39,040 --> 00:13:41,030
+identifying monsters
+players may attempt recall knowledge
+
+762
+00:13:41,030 --> 00:13:41,040
+players may attempt recall knowledge
+ 
+
+763
+00:13:41,040 --> 00:13:42,949
+players may attempt recall knowledge
+checks to reveal secret information
+
+764
+00:13:42,949 --> 00:13:42,959
+checks to reveal secret information
+ 
+
+765
+00:13:42,959 --> 00:13:44,389
+checks to reveal secret information
+about a creature
+
+766
+00:13:44,389 --> 00:13:44,399
+about a creature
+ 
+
+767
+00:13:44,399 --> 00:13:46,870
+about a creature
+on a success they learn the creature's
+
+768
+00:13:46,870 --> 00:13:46,880
+on a success they learn the creature's
+ 
+
+769
+00:13:46,880 --> 00:13:47,829
+on a success they learn the creature's
+species
+
+770
+00:13:47,829 --> 00:13:47,839
+species
+ 
+
+771
+00:13:47,839 --> 00:13:50,629
+species
+and possibly its name if it is unique
+
+772
+00:13:50,629 --> 00:13:50,639
+and possibly its name if it is unique
+ 
+
+773
+00:13:50,639 --> 00:13:50,949
+and possibly its name if it is unique
+and
+
+774
+00:13:50,949 --> 00:13:50,959
+and
+ 
+
+775
+00:13:50,959 --> 00:13:53,509
+and
+also learn one piece of unrevealed
+
+776
+00:13:53,509 --> 00:13:53,519
+also learn one piece of unrevealed
+ 
+
+777
+00:13:53,519 --> 00:13:54,870
+also learn one piece of unrevealed
+information
+
+778
+00:13:54,870 --> 00:13:54,880
+information
+ 
+
+779
+00:13:54,880 --> 00:13:57,590
+information
+this is determined by the gm and should
+
+780
+00:13:57,590 --> 00:13:57,600
+this is determined by the gm and should
+ 
+
+781
+00:13:57,600 --> 00:13:59,350
+this is determined by the gm and should
+be the most commonly known
+
+782
+00:13:59,350 --> 00:13:59,360
+be the most commonly known
+ 
+
+783
+00:13:59,360 --> 00:14:02,389
+be the most commonly known
+but so far unrevealed detail about the
+
+784
+00:14:02,389 --> 00:14:02,399
+but so far unrevealed detail about the
+ 
+
+785
+00:14:02,399 --> 00:14:03,670
+but so far unrevealed detail about the
+target
+
+786
+00:14:03,670 --> 00:14:03,680
+target
+ 
+
+787
+00:14:03,680 --> 00:14:06,550
+target
+on a critical success the player also
+
+788
+00:14:06,550 --> 00:14:06,560
+on a critical success the player also
+ 
+
+789
+00:14:06,560 --> 00:14:08,150
+on a critical success the player also
+learns one little known
+
+790
+00:14:08,150 --> 00:14:08,160
+learns one little known
+ 
+
+791
+00:14:08,160 --> 00:14:11,030
+learns one little known
+unrevealed piece of information on a
+
+792
+00:14:11,030 --> 00:14:11,040
+unrevealed piece of information on a
+ 
+
+793
+00:14:11,040 --> 00:14:11,829
+unrevealed piece of information on a
+failure
+
+794
+00:14:11,829 --> 00:14:11,839
+failure
+ 
+
+795
+00:14:11,839 --> 00:14:14,550
+failure
+they receive no information and may not
+
+796
+00:14:14,550 --> 00:14:14,560
+they receive no information and may not
+ 
+
+797
+00:14:14,560 --> 00:14:15,189
+they receive no information and may not
+attempt
+
+798
+00:14:15,189 --> 00:14:15,199
+attempt
+ 
+
+799
+00:14:15,199 --> 00:14:17,110
+attempt
+any further checks to identify the
+
+800
+00:14:17,110 --> 00:14:17,120
+any further checks to identify the
+ 
+
+801
+00:14:17,120 --> 00:14:18,310
+any further checks to identify the
+target
+
+802
+00:14:18,310 --> 00:14:18,320
+target
+ 
+
+803
+00:14:18,320 --> 00:14:20,949
+target
+and on a critical failure they receive
+
+804
+00:14:20,949 --> 00:14:20,959
+and on a critical failure they receive
+ 
+
+805
+00:14:20,959 --> 00:14:23,509
+and on a critical failure they receive
+incorrect or misleading information
+
+806
+00:14:23,509 --> 00:14:23,519
+incorrect or misleading information
+ 
+
+807
+00:14:23,519 --> 00:14:26,949
+incorrect or misleading information
+as determined by the gm the skill that
+
+808
+00:14:26,949 --> 00:14:26,959
+as determined by the gm the skill that
+ 
+
+809
+00:14:26,959 --> 00:14:28,389
+as determined by the gm the skill that
+is used for these checks
+
+810
+00:14:28,389 --> 00:14:28,399
+is used for these checks
+ 
+
+811
+00:14:28,399 --> 00:14:30,949
+is used for these checks
+is primarily based on the target's type
+
+812
+00:14:30,949 --> 00:14:30,959
+is primarily based on the target's type
+ 
+
+813
+00:14:30,959 --> 00:14:31,750
+is primarily based on the target's type
+trait
+
+814
+00:14:31,750 --> 00:14:31,760
+trait
+ 
+
+815
+00:14:31,760 --> 00:14:35,110
+trait
+as per the table on page 505 of the core
+
+816
+00:14:35,110 --> 00:14:35,120
+as per the table on page 505 of the core
+ 
+
+817
+00:14:35,120 --> 00:14:37,829
+as per the table on page 505 of the core
+rules but may be substituted for a
+
+818
+00:14:37,829 --> 00:14:37,839
+rules but may be substituted for a
+ 
+
+819
+00:14:37,839 --> 00:14:38,870
+rules but may be substituted for a
+different skill
+
+820
+00:14:38,870 --> 00:14:38,880
+different skill
+ 
+
+821
+00:14:38,880 --> 00:14:41,829
+different skill
+possibly with a different dc at the gm's
+
+822
+00:14:41,829 --> 00:14:41,839
+possibly with a different dc at the gm's
+ 
+
+823
+00:14:41,839 --> 00:14:43,509
+possibly with a different dc at the gm's
+discretion
+
+824
+00:14:43,509 --> 00:14:43,519
+discretion
+ 
+
+825
+00:14:43,519 --> 00:14:45,829
+discretion
+the dc for the check is based on the
+
+826
+00:14:45,829 --> 00:14:45,839
+the dc for the check is based on the
+ 
+
+827
+00:14:45,839 --> 00:14:47,030
+the dc for the check is based on the
+creature's level
+
+828
+00:14:47,030 --> 00:14:47,040
+creature's level
+ 
+
+829
+00:14:47,040 --> 00:14:50,629
+creature's level
+per table 10-5 found on page 503
+
+830
+00:14:50,629 --> 00:14:50,639
+per table 10-5 found on page 503
+ 
+
+831
+00:14:50,639 --> 00:14:53,990
+per table 10-5 found on page 503
+and further modified by its rarity
+
+832
+00:14:53,990 --> 00:14:54,000
+and further modified by its rarity
+ 
+
+833
+00:14:54,000 --> 00:14:56,949
+and further modified by its rarity
+also when using a lure skill instead of
+
+834
+00:14:56,949 --> 00:14:56,959
+also when using a lure skill instead of
+ 
+
+835
+00:14:56,959 --> 00:14:57,990
+also when using a lure skill instead of
+one of the general
+
+836
+00:14:57,990 --> 00:14:58,000
+one of the general
+ 
+
+837
+00:14:58,000 --> 00:15:00,470
+one of the general
+knowledge skills the dc should be
+
+838
+00:15:00,470 --> 00:15:00,480
+knowledge skills the dc should be
+ 
+
+839
+00:15:00,480 --> 00:15:01,269
+knowledge skills the dc should be
+reduced
+
+840
+00:15:01,269 --> 00:15:01,279
+reduced
+ 
+
+841
+00:15:01,279 --> 00:15:05,030
+reduced
+by either 2 or 5 making it either
+
+842
+00:15:05,030 --> 00:15:05,040
+by either 2 or 5 making it either
+ 
+
+843
+00:15:05,040 --> 00:15:08,949
+by either 2 or 5 making it either
+an easy or very easy difficulty check
+
+844
+00:15:08,949 --> 00:15:08,959
+an easy or very easy difficulty check
+ 
+
+845
+00:15:08,959 --> 00:15:11,430
+an easy or very easy difficulty check
+players may spend additional actions on
+
+846
+00:15:11,430 --> 00:15:11,440
+players may spend additional actions on
+ 
+
+847
+00:15:11,440 --> 00:15:13,590
+players may spend additional actions on
+more recall knowledge checks
+
+848
+00:15:13,590 --> 00:15:13,600
+more recall knowledge checks
+ 
+
+849
+00:15:13,600 --> 00:15:15,990
+more recall knowledge checks
+each success providing the next most
+
+850
+00:15:15,990 --> 00:15:16,000
+each success providing the next most
+ 
+
+851
+00:15:16,000 --> 00:15:17,030
+each success providing the next most
+commonly known
+
+852
+00:15:17,030 --> 00:15:17,040
+commonly known
+ 
+
+853
+00:15:17,040 --> 00:15:19,269
+commonly known
+but so far unrevealed piece of
+
+854
+00:15:19,269 --> 00:15:19,279
+but so far unrevealed piece of
+ 
+
+855
+00:15:19,279 --> 00:15:20,470
+but so far unrevealed piece of
+information
+
+856
+00:15:20,470 --> 00:15:20,480
+information
+ 
+
+857
+00:15:20,480 --> 00:15:23,030
+information
+with each additional check the dc is
+
+858
+00:15:23,030 --> 00:15:23,040
+with each additional check the dc is
+ 
+
+859
+00:15:23,040 --> 00:15:23,750
+with each additional check the dc is
+raised by
+
+860
+00:15:23,750 --> 00:15:23,760
+raised by
+ 
+
+861
+00:15:23,760 --> 00:15:26,310
+raised by
+one difficulty level until either the
+
+862
+00:15:26,310 --> 00:15:26,320
+one difficulty level until either the
+ 
+
+863
+00:15:26,320 --> 00:15:28,150
+one difficulty level until either the
+player rolls a failure
+
+864
+00:15:28,150 --> 00:15:28,160
+player rolls a failure
+ 
+
+865
+00:15:28,160 --> 00:15:31,110
+player rolls a failure
+or after they attempt one incredibly
+
+866
+00:15:31,110 --> 00:15:31,120
+or after they attempt one incredibly
+ 
+
+867
+00:15:31,120 --> 00:15:31,590
+or after they attempt one incredibly
+hard
+
+868
+00:15:31,590 --> 00:15:31,600
+hard
+ 
+
+869
+00:15:31,600 --> 00:15:35,110
+hard
+difficulty check
+
+870
+00:15:35,110 --> 00:15:35,120
+
+ 
+
+871
+00:15:35,120 --> 00:15:36,790
+
+before we close i'd like to take a
+
+872
+00:15:36,790 --> 00:15:36,800
+before we close i'd like to take a
+ 
+
+873
+00:15:36,800 --> 00:15:38,949
+before we close i'd like to take a
+moment to thank all of our patrons
+
+874
+00:15:38,949 --> 00:15:38,959
+moment to thank all of our patrons
+ 
+
+875
+00:15:38,959 --> 00:15:40,790
+moment to thank all of our patrons
+these videos would not be possible
+
+876
+00:15:40,790 --> 00:15:40,800
+these videos would not be possible
+ 
+
+877
+00:15:40,800 --> 00:15:43,110
+these videos would not be possible
+without their continued generosity and
+
+878
+00:15:43,110 --> 00:15:43,120
+without their continued generosity and
+ 
+
+879
+00:15:43,120 --> 00:15:44,389
+without their continued generosity and
+support
+
+880
+00:15:44,389 --> 00:15:44,399
+support
+ 
+
+881
+00:15:44,399 --> 00:15:46,629
+support
+members of the basicsforgamers patreon
+
+882
+00:15:46,629 --> 00:15:46,639
+members of the basicsforgamers patreon
+ 
+
+883
+00:15:46,639 --> 00:15:48,629
+members of the basicsforgamers patreon
+community receive special benefits
+
+884
+00:15:48,629 --> 00:15:48,639
+community receive special benefits
+ 
+
+885
+00:15:48,639 --> 00:15:50,470
+community receive special benefits
+like getting to vote on the topics that
+
+886
+00:15:50,470 --> 00:15:50,480
+like getting to vote on the topics that
+ 
+
+887
+00:15:50,480 --> 00:15:51,910
+like getting to vote on the topics that
+we cover in the future
+
+888
+00:15:51,910 --> 00:15:51,920
+we cover in the future
+ 
+
+889
+00:15:51,920 --> 00:15:53,910
+we cover in the future
+and also they get to see these videos
+
+890
+00:15:53,910 --> 00:15:53,920
+and also they get to see these videos
+ 
+
+891
+00:15:53,920 --> 00:15:56,150
+and also they get to see these videos
+one week and ad free before
+
+892
+00:15:56,150 --> 00:15:56,160
+one week and ad free before
+ 
+
+893
+00:15:56,160 --> 00:15:59,110
+one week and ad free before
+everybody else visit the link shown on
+
+894
+00:15:59,110 --> 00:15:59,120
+everybody else visit the link shown on
+ 
+
+895
+00:15:59,120 --> 00:16:00,150
+everybody else visit the link shown on
+the left of the screen
+
+896
+00:16:00,150 --> 00:16:00,160
+the left of the screen
+ 
+
+897
+00:16:00,160 --> 00:16:01,829
+the left of the screen
+and in the description if you'd like to
+
+898
+00:16:01,829 --> 00:16:01,839
+and in the description if you'd like to
+ 
+
+899
+00:16:01,839 --> 00:16:04,310
+and in the description if you'd like to
+know more about becoming a patron
+
+900
+00:16:04,310 --> 00:16:04,320
+know more about becoming a patron
+ 
+
+901
+00:16:04,320 --> 00:16:05,590
+know more about becoming a patron
+if you would like to support this
+
+902
+00:16:05,590 --> 00:16:05,600
+if you would like to support this
+ 
+
+903
+00:16:05,600 --> 00:16:07,509
+if you would like to support this
+channel and help it grow the easiest way
+
+904
+00:16:07,509 --> 00:16:07,519
+channel and help it grow the easiest way
+ 
+
+905
+00:16:07,519 --> 00:16:08,389
+channel and help it grow the easiest way
+to do that
+
+906
+00:16:08,389 --> 00:16:08,399
+to do that
+ 
+
+907
+00:16:08,399 --> 00:16:10,790
+to do that
+is by subscribing and clicking the bell
+
+908
+00:16:10,790 --> 00:16:10,800
+is by subscribing and clicking the bell
+ 
+
+909
+00:16:10,800 --> 00:16:11,509
+is by subscribing and clicking the bell
+icon
+
+910
+00:16:11,509 --> 00:16:11,519
+icon
+ 
+
+911
+00:16:11,519 --> 00:16:13,509
+icon
+so you get notified when new videos
+
+912
+00:16:13,509 --> 00:16:13,519
+so you get notified when new videos
+ 
+
+913
+00:16:13,519 --> 00:16:14,550
+so you get notified when new videos
+release
+
+914
+00:16:14,550 --> 00:16:14,560
+release
+ 
+
+915
+00:16:14,560 --> 00:16:16,069
+release
+and we can always be reached through our
+
+916
+00:16:16,069 --> 00:16:16,079
+and we can always be reached through our
+ 
+
+917
+00:16:16,079 --> 00:16:18,230
+and we can always be reached through our
+twitter and facebook pages too
+
+918
+00:16:18,230 --> 00:16:18,240
+twitter and facebook pages too
+ 
+
+919
+00:16:18,240 --> 00:16:20,069
+twitter and facebook pages too
+thanks for watching take care and we
+
+920
+00:16:20,069 --> 00:16:20,079
+thanks for watching take care and we
+ 
+
+921
+00:16:20,079 --> 00:16:22,590
+thanks for watching take care and we
+will see you soon with more basics of
+
+922
+00:16:22,590 --> 00:16:22,600
+will see you soon with more basics of
+ 
+
+923
+00:16:22,600 --> 00:16:25,600
+will see you soon with more basics of
+pathfinder
+

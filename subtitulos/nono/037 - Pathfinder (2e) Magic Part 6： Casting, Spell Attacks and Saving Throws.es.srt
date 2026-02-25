@@ -1,0 +1,3559 @@
+1
+00:00:01,199 --> 00:00:02,869
+
+Hola y bienvenidos a Magic y
+
+2
+00:00:02,869 --> 00:00:02,879
+Hola y bienvenidos a Magic y
+ 
+
+3
+00:00:02,879 --> 00:00:04,550
+Hola y bienvenidos a Magic y
+Pathfinder parte 6
+
+4
+00:00:04,550 --> 00:00:04,560
+Pathfinder parte 6
+ 
+
+5
+00:00:04,560 --> 00:00:08,629
+Pathfinder parte 6
+lanzamiento y ataques de hechizos
+
+6
+00:00:08,629 --> 00:00:08,639
+
+ 
+
+7
+00:00:08,639 --> 00:00:10,709
+
+lanzar hechizos funciona de la misma manera
+
+8
+00:00:10,709 --> 00:00:10,719
+lanzar hechizos funciona de la misma manera
+ 
+
+9
+00:00:10,719 --> 00:00:12,629
+lanzar hechizos funciona de la misma manera
+que otras actividades en el juego
+
+10
+00:00:12,629 --> 00:00:12,639
+que otras actividades en el juego
+ 
+
+11
+00:00:12,639 --> 00:00:14,629
+que otras actividades en el juego
+debes tener el hechizo preparado de
+
+12
+00:00:14,629 --> 00:00:14,639
+debes tener el hechizo preparado de
+ 
+
+13
+00:00:14,639 --> 00:00:16,870
+debes tener el hechizo preparado de
+antemano o tener un espacio de hechizo válido
+
+14
+00:00:16,870 --> 00:00:16,880
+antemano o tener un espacio de hechizo válido
+ 
+
+15
+00:00:16,880 --> 00:00:18,550
+antemano o tener un espacio de hechizo válido
+disponible en el caso de lanzadores espontáneos
+
+16
+00:00:18,550 --> 00:00:18,560
+disponible en el caso de lanzadores espontáneos
+ 
+
+17
+00:00:18,560 --> 00:00:19,429
+disponible en el caso de lanzadores espontáneos
+
+18
+00:00:19,429 --> 00:00:19,439
+
+ 
+
+19
+00:00:19,439 --> 00:00:21,590
+
+y luego gastas el número de acciones
+
+20
+00:00:21,590 --> 00:00:21,600
+y luego gastas el número de acciones
+ 
+
+21
+00:00:21,600 --> 00:00:23,509
+y luego gastas el número de acciones
+enumeradas en la descripción del hechizo
+
+22
+00:00:23,509 --> 00:00:23,519
+enumeradas en la descripción del hechizo
+ 
+
+23
+00:00:23,519 --> 00:00:25,830
+enumeradas en la descripción del hechizo
+como se mencionó en un video anterior la mayoría de los
+
+24
+00:00:25,830 --> 00:00:25,840
+como se mencionó en un video anterior la mayoría de los
+ 
+
+25
+00:00:25,840 --> 00:00:27,990
+como se mencionó en un video anterior la mayoría de los
+hechizos destinados al modo encuentro
+
+26
+00:00:27,990 --> 00:00:28,000
+hechizos destinados al modo encuentro
+ 
+
+27
+00:00:28,000 --> 00:00:30,630
+hechizos destinados al modo encuentro
+requieren dos acciones excepto aquellos
+
+28
+00:00:30,630 --> 00:00:30,640
+requieren dos acciones excepto aquellos
+ 
+
+29
+00:00:30,640 --> 00:00:32,229
+requieren dos acciones excepto aquellos
+que hacen que algo se
+
+30
+00:00:32,229 --> 00:00:32,239
+que hacen que algo se
+ 
+
+31
+00:00:32,239 --> 00:00:34,470
+que hacen que algo se
+manifieste físicamente y persista en el mundo
+
+32
+00:00:34,470 --> 00:00:34,480
+manifieste físicamente y persista en el mundo
+ 
+
+33
+00:00:34,480 --> 00:00:37,190
+manifieste físicamente y persista en el mundo
+y esos generalmente toman tres acciones pero
+
+34
+00:00:37,190 --> 00:00:37,200
+y esos generalmente toman tres acciones pero
+ 
+
+35
+00:00:37,200 --> 00:00:38,310
+y esos generalmente toman tres acciones pero
+esas son solo
+
+36
+00:00:38,310 --> 00:00:38,320
+esas son solo
+ 
+
+37
+00:00:38,320 --> 00:00:40,229
+esas son solo
+pautas, así que asegúrate siempre de verificar
+
+38
+00:00:40,229 --> 00:00:40,239
+pautas, así que asegúrate siempre de verificar
+ 
+
+39
+00:00:40,239 --> 00:00:41,510
+pautas, así que asegúrate siempre de verificar
+la descripción del hechizo
+
+40
+00:00:41,510 --> 00:00:41,520
+la descripción del hechizo
+ 
+
+41
+00:00:41,520 --> 00:00:43,270
+la descripción del hechizo
+para saber exactamente cuántas acciones se
+
+42
+00:00:43,270 --> 00:00:43,280
+para saber exactamente cuántas acciones se
+ 
+
+43
+00:00:43,280 --> 00:00:44,549
+para saber exactamente cuántas acciones se
+necesitan
+
+44
+00:00:44,549 --> 00:00:44,559
+necesitan
+ 
+
+45
+00:00:44,559 --> 00:00:46,869
+necesitan
+una vez que se ha cumplido el costo de la acción el
+
+46
+00:00:46,869 --> 00:00:46,879
+una vez que se ha cumplido el costo de la acción el
+ 
+
+47
+00:00:46,879 --> 00:00:47,670
+una vez que se ha cumplido el costo de la acción el
+efecto del hechizo
+
+48
+00:00:47,670 --> 00:00:47,680
+efecto del hechizo
+ 
+
+49
+00:00:47,680 --> 00:00:50,630
+efecto del hechizo
+ocurre inmediatamente algunos hechizos no están
+
+50
+00:00:50,630 --> 00:00:50,640
+ocurre inmediatamente algunos hechizos no están
+ 
+
+51
+00:00:50,640 --> 00:00:51,830
+ocurre inmediatamente algunos hechizos no están
+destinados a usarse en el
+
+52
+00:00:51,830 --> 00:00:51,840
+destinados a usarse en el
+ 
+
+53
+00:00:51,840 --> 00:00:54,069
+destinados a usarse en el
+modo encuentro y en su lugar tienen sus
+
+54
+00:00:54,069 --> 00:00:54,079
+modo encuentro y en su lugar tienen sus
+ 
+
+55
+00:00:54,079 --> 00:00:56,470
+modo encuentro y en su lugar tienen sus
+tiempos de lanzamiento enumerados en minutos
+
+56
+00:00:56,470 --> 00:00:56,480
+tiempos de lanzamiento enumerados en minutos
+ 
+
+57
+00:00:56,480 --> 00:00:57,510
+tiempos de lanzamiento enumerados en minutos
+u horas
+
+58
+00:00:57,510 --> 00:00:57,520
+u horas
+ 
+
+59
+00:00:57,520 --> 00:00:59,830
+u horas
+no puedes usar ninguna otra acción o
+
+60
+00:00:59,830 --> 00:00:59,840
+no puedes usar ninguna otra acción o
+ 
+
+61
+00:00:59,840 --> 00:01:02,310
+no puedes usar ninguna otra acción o
+reacción mientras lanzas estos hechizos
+
+62
+00:01:02,310 --> 00:01:02,320
+reacción mientras lanzas estos hechizos
+ 
+
+63
+00:01:02,320 --> 00:01:04,630
+reacción mientras lanzas estos hechizos
+pero el DJ puede permitirte hablar
+
+64
+00:01:04,630 --> 00:01:04,640
+pero el DJ puede permitirte hablar
+ 
+
+65
+00:01:04,640 --> 00:01:06,230
+pero el DJ puede permitirte hablar
+mientras los lanzas
+
+66
+00:01:06,230 --> 00:01:06,240
+mientras los lanzas
+ 
+
+67
+00:01:06,240 --> 00:01:08,630
+mientras los lanzas
+y aunque no se muestra en la
+
+68
+00:01:08,630 --> 00:01:08,640
+y aunque no se muestra en la
+ 
+
+69
+00:01:08,640 --> 00:01:10,230
+y aunque no se muestra en la
+descripción del hechizo
+
+70
+00:01:10,230 --> 00:01:10,240
+descripción del hechizo
+ 
+
+71
+00:01:10,240 --> 00:01:12,630
+descripción del hechizo
+todos los hechizos que tienen tiempos de lanzamiento
+
+72
+00:01:12,630 --> 00:01:12,640
+todos los hechizos que tienen tiempos de lanzamiento
+ 
+
+73
+00:01:12,640 --> 00:01:14,789
+todos los hechizos que tienen tiempos de lanzamiento
+enumerados en minutos u horas
+
+74
+00:01:14,789 --> 00:01:14,799
+enumerados en minutos u horas
+ 
+
+75
+00:01:14,799 --> 00:01:17,749
+enumerados en minutos u horas
+reciben automáticamente el rasgo de exploración
+
+76
+00:01:17,749 --> 00:01:17,759
+reciben automáticamente el rasgo de exploración
+ 
+
+77
+00:01:17,759 --> 00:01:18,710
+reciben automáticamente el rasgo de exploración
+
+78
+00:01:18,710 --> 00:01:18,720
+
+ 
+
+79
+00:01:18,720 --> 00:01:20,870
+
+y como tienen el
+
+80
+00:01:20,870 --> 00:01:20,880
+y como tienen el
+ 
+
+81
+00:01:20,880 --> 00:01:22,950
+y como tienen el
+rasgo de exploración no se pueden lanzar
+
+82
+00:01:22,950 --> 00:01:22,960
+rasgo de exploración no se pueden lanzar
+ 
+
+83
+00:01:22,960 --> 00:01:25,590
+rasgo de exploración no se pueden lanzar
+en absoluto en el modo encuentro así que si el
+
+84
+00:01:25,590 --> 00:01:25,600
+en absoluto en el modo encuentro así que si el
+ 
+
+85
+00:01:25,600 --> 00:01:25,990
+en absoluto en el modo encuentro así que si el
+
+86
+00:01:25,990 --> 00:01:26,000
+
+ 
+
+87
+00:01:26,000 --> 00:01:29,030
+
+tiempo de lanzamiento es de 1 minuto  No puedes gastar 10
+
+88
+00:01:29,030 --> 00:01:29,040
+tiempo de lanzamiento es de 1 minuto  No puedes gastar 10
+ 
+
+89
+00:01:29,040 --> 00:01:31,109
+tiempo de lanzamiento es de 1 minuto  No puedes gastar 10
+rondas de encuentro para lanzarlo,
+
+90
+00:01:31,109 --> 00:01:31,119
+rondas de encuentro para lanzarlo,
+ 
+
+91
+00:01:31,119 --> 00:01:33,910
+rondas de encuentro para lanzarlo,
+aunque 10 rondas de combate equivalen a 1
+
+92
+00:01:33,910 --> 00:01:33,920
+aunque 10 rondas de combate equivalen a 1
+ 
+
+93
+00:01:33,920 --> 00:01:34,870
+aunque 10 rondas de combate equivalen a 1
+minuto.
+
+94
+00:01:34,870 --> 00:01:34,880
+minuto.
+ 
+
+95
+00:01:34,880 --> 00:01:36,950
+minuto.
+Y si el combate estalla en
+
+96
+00:01:36,950 --> 00:01:36,960
+Y si el combate estalla en
+ 
+
+97
+00:01:36,960 --> 00:01:39,590
+Y si el combate estalla en
+medio del lanzamiento de un hechizo de exploración,
+
+98
+00:01:39,590 --> 00:01:39,600
+medio del lanzamiento de un hechizo de exploración,
+ 
+
+99
+00:01:39,600 --> 00:01:45,350
+medio del lanzamiento de un hechizo de exploración,
+ese hechizo se interrumpe inmediatamente.
+
+100
+00:01:45,350 --> 00:01:45,360
+
+ 
+
+101
+00:01:45,360 --> 00:01:47,190
+
+Algunas habilidades y circunstancias pueden
+
+102
+00:01:47,190 --> 00:01:47,200
+Algunas habilidades y circunstancias pueden
+ 
+
+103
+00:01:47,200 --> 00:01:48,950
+Algunas habilidades y circunstancias pueden
+causar que un hechizo se interrumpa
+
+104
+00:01:48,950 --> 00:01:48,960
+causar que un hechizo se interrumpa
+ 
+
+105
+00:01:48,960 --> 00:01:51,510
+causar que un hechizo se interrumpa
+y se pierda. Un ejemplo común es ser
+
+106
+00:01:51,510 --> 00:01:51,520
+y se pierda. Un ejemplo común es ser
+ 
+
+107
+00:01:51,520 --> 00:01:53,749
+y se pierda. Un ejemplo común es ser
+golpeado por un ataque de oportunidad mientras se
+
+108
+00:01:53,749 --> 00:01:53,759
+golpeado por un ataque de oportunidad mientras se
+ 
+
+109
+00:01:53,759 --> 00:01:54,630
+golpeado por un ataque de oportunidad mientras se
+lanza un hechizo.
+
+110
+00:01:54,630 --> 00:01:54,640
+lanza un hechizo.
+ 
+
+111
+00:01:54,640 --> 00:01:56,789
+lanza un hechizo.
+En un video anterior, discutimos los
+
+112
+00:01:56,789 --> 00:01:56,799
+En un video anterior, discutimos los
+ 
+
+113
+00:01:56,799 --> 00:01:58,950
+En un video anterior, discutimos los
+componentes de los hechizos y los rasgos que se agregan
+
+114
+00:01:58,950 --> 00:01:58,960
+componentes de los hechizos y los rasgos que se agregan
+ 
+
+115
+00:01:58,960 --> 00:02:01,590
+componentes de los hechizos y los rasgos que se agregan
+al lanzar con esos componentes. Si
+
+116
+00:02:01,590 --> 00:02:01,600
+al lanzar con esos componentes. Si
+ 
+
+117
+00:02:01,600 --> 00:02:03,830
+al lanzar con esos componentes. Si
+lanzas un hechizo que tiene un
+
+118
+00:02:03,830 --> 00:02:03,840
+lanzas un hechizo que tiene un
+ 
+
+119
+00:02:03,840 --> 00:02:06,069
+lanzas un hechizo que tiene un
+componente material somático o enfocado mientras estás al
+
+120
+00:02:06,069 --> 00:02:06,079
+componente material somático o enfocado mientras estás al
+ 
+
+121
+00:02:06,079 --> 00:02:07,270
+componente material somático o enfocado mientras estás al
+alcance de un
+
+122
+00:02:07,270 --> 00:02:07,280
+alcance de un
+ 
+
+123
+00:02:07,280 --> 00:02:09,749
+alcance de un
+enemigo capaz de ataques de oportunidad,
+
+124
+00:02:09,749 --> 00:02:09,759
+enemigo capaz de ataques de oportunidad,
+ 
+
+125
+00:02:09,759 --> 00:02:10,949
+enemigo capaz de ataques de oportunidad,
+ese enemigo puede usar
+
+126
+00:02:10,949 --> 00:02:10,959
+ese enemigo puede usar
+ 
+
+127
+00:02:10,959 --> 00:02:13,589
+ese enemigo puede usar
+su reacción para golpearte y si ese
+
+128
+00:02:13,589 --> 00:02:13,599
+su reacción para golpearte y si ese
+ 
+
+129
+00:02:13,599 --> 00:02:15,270
+su reacción para golpearte y si ese
+ataque es un golpe crítico,
+
+130
+00:02:15,270 --> 00:02:15,280
+ataque es un golpe crítico,
+ 
+
+131
+00:02:15,280 --> 00:02:16,869
+ataque es un golpe crítico,
+entonces el hechizo que estás lanzando se
+
+132
+00:02:16,869 --> 00:02:16,879
+entonces el hechizo que estás lanzando se
+ 
+
+133
+00:02:16,879 --> 00:02:18,390
+entonces el hechizo que estás lanzando se
+interrumpe.
+
+134
+00:02:18,390 --> 00:02:18,400
+interrumpe.
+ 
+
+135
+00:02:18,400 --> 00:02:20,790
+interrumpe.
+Cuando se interrumpe un hechizo, se pierde
+
+136
+00:02:20,790 --> 00:02:20,800
+Cuando se interrumpe un hechizo, se pierde
+ 
+
+137
+00:02:20,800 --> 00:02:21,510
+Cuando se interrumpe un hechizo, se pierde
+junto con
+
+138
+00:02:21,510 --> 00:02:21,520
+junto con
+ 
+
+139
+00:02:21,520 --> 00:02:23,510
+junto con
+todos los recursos que se comprometieron para
+
+140
+00:02:23,510 --> 00:02:23,520
+todos los recursos que se comprometieron para
+ 
+
+141
+00:02:23,520 --> 00:02:25,190
+todos los recursos que se comprometieron para
+lanzar ese hechizo, lo que
+
+142
+00:02:25,190 --> 00:02:25,200
+lanzar ese hechizo, lo que
+ 
+
+143
+00:02:25,200 --> 00:02:27,350
+lanzar ese hechizo, lo que
+significa que pierdes todas las
+
+144
+00:02:27,350 --> 00:02:27,360
+significa que pierdes todas las
+ 
+
+145
+00:02:27,360 --> 00:02:29,750
+significa que pierdes todas las
+acciones requeridas. Si era un hechizo que cuesta
+
+146
+00:02:29,750 --> 00:02:29,760
+acciones requeridas. Si era un hechizo que cuesta
+ 
+
+147
+00:02:29,760 --> 00:02:30,949
+acciones requeridas. Si era un hechizo que cuesta
+tres acciones
+
+148
+00:02:30,949 --> 00:02:30,959
+tres acciones
+ 
+
+149
+00:02:30,959 --> 00:02:33,589
+tres acciones
+y se disipa inmediatamente por el
+
+150
+00:02:33,589 --> 00:02:33,599
+y se disipa inmediatamente por el
+ 
+
+151
+00:02:33,599 --> 00:02:35,350
+y se disipa inmediatamente por el
+ataque de oportunidad de un enemigo,
+
+152
+00:02:35,350 --> 00:02:35,360
+ataque de oportunidad de un enemigo,
+ 
+
+153
+00:02:35,360 --> 00:02:38,550
+ataque de oportunidad de un enemigo,
+entonces aún pierdes las tres acciones.
+
+154
+00:02:38,550 --> 00:02:38,560
+entonces aún pierdes las tres acciones.
+ 
+
+155
+00:02:38,560 --> 00:02:40,630
+entonces aún pierdes las tres acciones.
+El ataque de oportunidad no ocurre
+
+156
+00:02:40,630 --> 00:02:40,640
+El ataque de oportunidad no ocurre
+ 
+
+157
+00:02:40,640 --> 00:02:42,550
+El ataque de oportunidad no ocurre
+después de la primera de esas tres acciones,
+
+158
+00:02:42,550 --> 00:02:42,560
+después de la primera de esas tres acciones,
+ 
+
+159
+00:02:42,560 --> 00:02:44,470
+después de la primera de esas tres acciones,
+dejándote dos que aún puedes gastar
+
+160
+00:02:44,470 --> 00:02:44,480
+dejándote dos que aún puedes gastar
+ 
+
+161
+00:02:44,480 --> 00:02:45,910
+dejándote dos que aún puedes gastar
+en otras actividades.
+
+162
+00:02:45,910 --> 00:02:45,920
+en otras actividades.
+ 
+
+163
+00:02:45,920 --> 00:02:49,110
+en otras actividades.
+Es todo o nada y todos los demás
+
+164
+00:02:49,110 --> 00:02:49,120
+Es todo o nada y todos los demás
+ 
+
+165
+00:02:49,120 --> 00:02:49,990
+Es todo o nada y todos los demás
+recursos
+
+166
+00:02:49,990 --> 00:02:50,000
+recursos
+ 
+
+167
+00:02:50,000 --> 00:02:52,710
+recursos
+también se pierden, así que  pierde el espacio de hechizo
+
+168
+00:02:52,710 --> 00:02:52,720
+también se pierden, así que  pierde el espacio de hechizo
+ 
+
+169
+00:02:52,720 --> 00:02:54,150
+también se pierden, así que  pierde el espacio de hechizo
+que se comprometió, así
+
+170
+00:02:54,150 --> 00:02:54,160
+que se comprometió, así
+ 
+
+171
+00:02:54,160 --> 00:02:57,350
+que se comprometió, así
+como cualquier coste material del hechizo, y
+
+172
+00:02:57,350 --> 00:02:57,360
+como cualquier coste material del hechizo, y
+ 
+
+173
+00:02:57,360 --> 00:02:58,949
+como cualquier coste material del hechizo, y
+cuando se interrumpe un intento de sostener
+
+174
+00:02:58,949 --> 00:02:58,959
+cuando se interrumpe un intento de sostener
+ 
+
+175
+00:02:58,959 --> 00:03:01,830
+cuando se interrumpe un intento de sostener
+un hechizo, no solo se
+
+176
+00:03:01,830 --> 00:03:01,840
+un hechizo, no solo se
+ 
+
+177
+00:03:01,840 --> 00:03:02,949
+un hechizo, no solo se
+pierde esa acción,
+
+178
+00:03:02,949 --> 00:03:02,959
+pierde esa acción,
+ 
+
+179
+00:03:02,959 --> 00:03:04,710
+pierde esa acción,
+sino que el hechizo que intentas
+
+180
+00:03:04,710 --> 00:03:04,720
+sino que el hechizo que intentas
+ 
+
+181
+00:03:04,720 --> 00:03:09,350
+sino que el hechizo que intentas
+sostener termina inmediatamente.
+
+182
+00:03:09,350 --> 00:03:09,360
+
+ 
+
+183
+00:03:09,360 --> 00:03:10,949
+
+Otra consideración importante al
+
+184
+00:03:10,949 --> 00:03:10,959
+Otra consideración importante al
+ 
+
+185
+00:03:10,959 --> 00:03:12,390
+Otra consideración importante al
+lanzar hechizos es la línea
+
+186
+00:03:12,390 --> 00:03:12,400
+lanzar hechizos es la línea
+ 
+
+187
+00:03:12,400 --> 00:03:14,869
+lanzar hechizos es la línea
+de efecto. Esto realmente se aplica a todos los
+
+188
+00:03:14,869 --> 00:03:14,879
+de efecto. Esto realmente se aplica a todos los
+ 
+
+189
+00:03:14,879 --> 00:03:15,990
+de efecto. Esto realmente se aplica a todos los
+ataques a distancia,
+
+190
+00:03:15,990 --> 00:03:16,000
+ataques a distancia,
+ 
+
+191
+00:03:16,000 --> 00:03:18,149
+ataques a distancia,
+pero puede ser especialmente notable cuando se
+
+192
+00:03:18,149 --> 00:03:18,159
+pero puede ser especialmente notable cuando se
+ 
+
+193
+00:03:18,159 --> 00:03:19,670
+pero puede ser especialmente notable cuando se
+trata de hechizos. La
+
+194
+00:03:19,670 --> 00:03:19,680
+trata de hechizos. La
+ 
+
+195
+00:03:19,680 --> 00:03:21,670
+trata de hechizos. La
+línea de efecto significa que hay un
+
+196
+00:03:21,670 --> 00:03:21,680
+línea de efecto significa que hay un
+ 
+
+197
+00:03:21,680 --> 00:03:23,910
+línea de efecto significa que hay un
+camino sin obstáculos hacia el objetivo
+
+198
+00:03:23,910 --> 00:03:23,920
+camino sin obstáculos hacia el objetivo
+ 
+
+199
+00:03:23,920 --> 00:03:26,309
+camino sin obstáculos hacia el objetivo
+y, en general, siempre que el objetivo
+
+200
+00:03:26,309 --> 00:03:26,319
+y, en general, siempre que el objetivo
+ 
+
+201
+00:03:26,319 --> 00:03:28,390
+y, en general, siempre que el objetivo
+no esté detrás de una pared sólida
+
+202
+00:03:28,390 --> 00:03:28,400
+no esté detrás de una pared sólida
+ 
+
+203
+00:03:28,400 --> 00:03:31,030
+no esté detrás de una pared sólida
+que bloquee todos los ejes físicos hacia ellos,
+
+204
+00:03:31,030 --> 00:03:31,040
+que bloquee todos los ejes físicos hacia ellos,
+ 
+
+205
+00:03:31,040 --> 00:03:31,990
+que bloquee todos los ejes físicos hacia ellos,
+entonces tienes
+
+206
+00:03:31,990 --> 00:03:32,000
+entonces tienes
+ 
+
+207
+00:03:32,000 --> 00:03:35,509
+entonces tienes
+línea de efecto cuando lanzas cualquier hechizo,
+
+208
+00:03:35,509 --> 00:03:35,519
+línea de efecto cuando lanzas cualquier hechizo,
+ 
+
+209
+00:03:35,519 --> 00:03:38,309
+línea de efecto cuando lanzas cualquier hechizo,
+no solo ataques de hechizos, debes tener
+
+210
+00:03:38,309 --> 00:03:38,319
+no solo ataques de hechizos, debes tener
+ 
+
+211
+00:03:38,319 --> 00:03:40,309
+no solo ataques de hechizos, debes tener
+línea de efecto hacia el objetivo.
+
+212
+00:03:40,309 --> 00:03:40,319
+línea de efecto hacia el objetivo.
+ 
+
+213
+00:03:40,319 --> 00:03:42,229
+línea de efecto hacia el objetivo.
+Esto está completamente separado de la línea de
+
+214
+00:03:42,229 --> 00:03:42,239
+Esto está completamente separado de la línea de
+ 
+
+215
+00:03:42,239 --> 00:03:44,149
+Esto está completamente separado de la línea de
+visión por raw.
+
+216
+00:03:44,149 --> 00:03:44,159
+visión por raw.
+ 
+
+217
+00:03:44,159 --> 00:03:46,789
+visión por raw.
+Si puedes ver un objetivo pero no hay
+
+218
+00:03:46,789 --> 00:03:46,799
+Si puedes ver un objetivo pero no hay
+ 
+
+219
+00:03:46,799 --> 00:03:48,789
+Si puedes ver un objetivo pero no hay
+un camino físico sin obstáculos
+
+220
+00:03:48,789 --> 00:03:48,799
+un camino físico sin obstáculos
+ 
+
+221
+00:03:48,799 --> 00:03:51,270
+un camino físico sin obstáculos
+hacia ellos, entonces no puedes apuntarlos
+
+222
+00:03:51,270 --> 00:03:51,280
+hacia ellos, entonces no puedes apuntarlos
+ 
+
+223
+00:03:51,280 --> 00:03:52,390
+hacia ellos, entonces no puedes apuntarlos
+con un hechizo.
+
+224
+00:03:52,390 --> 00:03:52,400
+con un hechizo.
+ 
+
+225
+00:03:52,400 --> 00:03:55,270
+con un hechizo.
+Si el objetivo está solo parcialmente detrás de un
+
+226
+00:03:55,270 --> 00:03:55,280
+Si el objetivo está solo parcialmente detrás de un
+ 
+
+227
+00:03:55,280 --> 00:03:56,309
+Si el objetivo está solo parcialmente detrás de un
+objeto sólido,
+
+228
+00:03:56,309 --> 00:03:56,319
+objeto sólido,
+ 
+
+229
+00:03:56,319 --> 00:03:59,030
+objeto sólido,
+como detrás de una puerta o rastrillo, entonces
+
+230
+00:03:59,030 --> 00:03:59,040
+como detrás de una puerta o rastrillo, entonces
+ 
+
+231
+00:03:59,040 --> 00:03:59,350
+como detrás de una puerta o rastrillo, entonces
+hay
+
+232
+00:03:59,350 --> 00:03:59,360
+hay
+ 
+
+233
+00:03:59,360 --> 00:04:02,070
+hay
+línea de efecto y puedes apuntarlos,
+
+234
+00:04:02,070 --> 00:04:02,080
+línea de efecto y puedes apuntarlos,
+ 
+
+235
+00:04:02,080 --> 00:04:02,550
+línea de efecto y puedes apuntarlos,
+
+236
+00:04:02,550 --> 00:04:02,560
+
+ 
+
+237
+00:04:02,560 --> 00:04:05,670
+
+pero tienen cobertura y la regla
+
+238
+00:04:05,670 --> 00:04:05,680
+pero tienen cobertura y la regla
+ 
+
+239
+00:04:05,680 --> 00:04:07,910
+pero tienen cobertura y la regla
+general proporcionada por el libro de reglas básico
+
+240
+00:04:07,910 --> 00:04:07,920
+general proporcionada por el libro de reglas básico
+ 
+
+241
+00:04:07,920 --> 00:04:10,470
+general proporcionada por el libro de reglas básico
+es que un espacio de un pie cuadrado en una
+
+242
+00:04:10,470 --> 00:04:10,480
+es que un espacio de un pie cuadrado en una
+ 
+
+243
+00:04:10,480 --> 00:04:11,270
+es que un espacio de un pie cuadrado en una
+barrera
+
+244
+00:04:11,270 --> 00:04:11,280
+barrera
+ 
+
+245
+00:04:11,280 --> 00:04:13,190
+barrera
+es todo lo que se necesita para permitir la línea de
+
+246
+00:04:13,190 --> 00:04:13,200
+es todo lo que se necesita para permitir la línea de
+ 
+
+247
+00:04:13,200 --> 00:04:14,309
+es todo lo que se necesita para permitir la línea de
+efecto, pero
+
+248
+00:04:14,309 --> 00:04:14,319
+efecto, pero
+ 
+
+249
+00:04:14,319 --> 00:04:17,670
+efecto, pero
+como siempre,  El DJ tiene la última palabra
+
+250
+00:04:17,670 --> 00:04:17,680
+como siempre,  El DJ tiene la última palabra
+ 
+
+251
+00:04:17,680 --> 00:04:19,830
+como siempre,  El DJ tiene la última palabra
+y también debe tener en cuenta que si lanza un
+
+252
+00:04:19,830 --> 00:04:19,840
+y también debe tener en cuenta que si lanza un
+ 
+
+253
+00:04:19,840 --> 00:04:20,949
+y también debe tener en cuenta que si lanza un
+hechizo con un
+
+254
+00:04:20,949 --> 00:04:20,959
+hechizo con un
+ 
+
+255
+00:04:20,959 --> 00:04:23,110
+hechizo con un
+efecto de área, debe haber una línea de
+
+256
+00:04:23,110 --> 00:04:23,120
+efecto de área, debe haber una línea de
+ 
+
+257
+00:04:23,120 --> 00:04:23,990
+efecto de área, debe haber una línea de
+efecto
+
+258
+00:04:23,990 --> 00:04:24,000
+efecto
+ 
+
+259
+00:04:24,000 --> 00:04:26,070
+efecto
+tanto entre el lanzador y donde se
+
+260
+00:04:26,070 --> 00:04:26,080
+tanto entre el lanzador y donde se
+ 
+
+261
+00:04:26,080 --> 00:04:28,230
+tanto entre el lanzador y donde se
+coloca el origen del efecto como
+
+262
+00:04:28,230 --> 00:04:28,240
+coloca el origen del efecto como
+ 
+
+263
+00:04:28,240 --> 00:04:30,710
+coloca el origen del efecto como
+entre ese punto
+
+264
+00:04:30,710 --> 00:04:30,720
+entre ese punto
+ 
+
+265
+00:04:30,720 --> 00:04:33,670
+entre ese punto
+y todas las criaturas y objetos afectados.
+
+266
+00:04:33,670 --> 00:04:33,680
+y todas las criaturas y objetos afectados.
+ 
+
+267
+00:04:33,680 --> 00:04:36,710
+y todas las criaturas y objetos afectados.
+Por ejemplo, si lanzas un hechizo de bola de fuego,
+
+268
+00:04:36,710 --> 00:04:36,720
+Por ejemplo, si lanzas un hechizo de bola de fuego,
+ 
+
+269
+00:04:36,720 --> 00:04:38,950
+Por ejemplo, si lanzas un hechizo de bola de fuego,
+como lanzador, debes tener una línea de
+
+270
+00:04:38,950 --> 00:04:38,960
+como lanzador, debes tener una línea de
+ 
+
+271
+00:04:38,960 --> 00:04:41,430
+como lanzador, debes tener una línea de
+efecto hasta el punto de detonación para
+
+272
+00:04:41,430 --> 00:04:41,440
+efecto hasta el punto de detonación para
+ 
+
+273
+00:04:41,440 --> 00:04:42,790
+efecto hasta el punto de detonación para
+la bola de fuego
+
+274
+00:04:42,790 --> 00:04:42,800
+la bola de fuego
+ 
+
+275
+00:04:42,800 --> 00:04:45,590
+la bola de fuego
+y para que cualquier enemigo sea golpeado por
+
+276
+00:04:45,590 --> 00:04:45,600
+y para que cualquier enemigo sea golpeado por
+ 
+
+277
+00:04:45,600 --> 00:04:46,629
+y para que cualquier enemigo sea golpeado por
+ese hechizo,
+
+278
+00:04:46,629 --> 00:04:46,639
+ese hechizo,
+ 
+
+279
+00:04:46,639 --> 00:04:48,710
+ese hechizo,
+esos enemigos también deben tener una línea
+
+280
+00:04:48,710 --> 00:04:48,720
+esos enemigos también deben tener una línea
+ 
+
+281
+00:04:48,720 --> 00:04:53,670
+esos enemigos también deben tener una línea
+de efecto hasta ese punto de detonación.
+
+282
+00:04:53,670 --> 00:04:53,680
+
+ 
+
+283
+00:04:53,680 --> 00:04:55,909
+
+Algunos hechizos requieren que tengas éxito en una
+
+284
+00:04:55,909 --> 00:04:55,919
+Algunos hechizos requieren que tengas éxito en una
+ 
+
+285
+00:04:55,919 --> 00:04:58,070
+Algunos hechizos requieren que tengas éxito en una
+función de ataque para afectar al objetivo.
+
+286
+00:04:58,070 --> 00:04:58,080
+función de ataque para afectar al objetivo.
+ 
+
+287
+00:04:58,080 --> 00:05:00,629
+función de ataque para afectar al objetivo.
+No les gustan los ataques con armas. Las funciones de ataque de hechizo
+
+288
+00:05:00,629 --> 00:05:00,639
+No les gustan los ataques con armas. Las funciones de ataque de hechizo
+ 
+
+289
+00:05:00,639 --> 00:05:02,710
+No les gustan los ataques con armas. Las funciones de ataque de hechizo
+se oponen a la
+
+290
+00:05:02,710 --> 00:05:02,720
+se oponen a la
+ 
+
+291
+00:05:02,720 --> 00:05:06,070
+se oponen a la
+clase de armadura del objetivo. Los ataques de hechizo son un tipo de
+
+292
+00:05:06,070 --> 00:05:06,080
+clase de armadura del objetivo. Los ataques de hechizo son un tipo de
+ 
+
+293
+00:05:06,080 --> 00:05:07,189
+clase de armadura del objetivo. Los ataques de hechizo son un tipo de
+ataque y, por lo tanto, se
+
+294
+00:05:07,189 --> 00:05:07,199
+ataque y, por lo tanto, se
+ 
+
+295
+00:05:07,199 --> 00:05:09,749
+ataque y, por lo tanto, se
+modifican por cualquier bonificación o
+
+296
+00:05:09,749 --> 00:05:09,759
+modifican por cualquier bonificación o
+ 
+
+297
+00:05:09,759 --> 00:05:10,550
+modifican por cualquier bonificación o
+penalización
+
+298
+00:05:10,550 --> 00:05:10,560
+penalización
+ 
+
+299
+00:05:10,560 --> 00:05:13,909
+penalización
+que afecte a las funciones de ataque. Por ejemplo, las
+
+300
+00:05:13,909 --> 00:05:13,919
+que afecte a las funciones de ataque. Por ejemplo, las
+ 
+
+301
+00:05:13,919 --> 00:05:16,469
+que afecte a las funciones de ataque. Por ejemplo, las
+víctimas de un hechizo de perdición sufren una
+
+302
+00:05:16,469 --> 00:05:16,479
+víctimas de un hechizo de perdición sufren una
+ 
+
+303
+00:05:16,479 --> 00:05:18,310
+víctimas de un hechizo de perdición sufren una
+penalización negativa de uno a todas las
+
+304
+00:05:18,310 --> 00:05:18,320
+penalización negativa de uno a todas las
+ 
+
+305
+00:05:18,320 --> 00:05:21,670
+penalización negativa de uno a todas las
+funciones de ataque. Esto también incluye las
+
+306
+00:05:21,670 --> 00:05:21,680
+funciones de ataque. Esto también incluye las
+ 
+
+307
+00:05:21,680 --> 00:05:24,710
+funciones de ataque. Esto también incluye las
+funciones de ataque de hechizo. Cualquier efecto que diga
+
+308
+00:05:24,710 --> 00:05:24,720
+funciones de ataque de hechizo. Cualquier efecto que diga
+ 
+
+309
+00:05:24,720 --> 00:05:25,830
+funciones de ataque de hechizo. Cualquier efecto que diga
+que modifica
+
+310
+00:05:25,830 --> 00:05:25,840
+que modifica
+ 
+
+311
+00:05:25,840 --> 00:05:28,150
+que modifica
+solo los ataques sin especificar un
+
+312
+00:05:28,150 --> 00:05:28,160
+solo los ataques sin especificar un
+ 
+
+313
+00:05:28,160 --> 00:05:29,909
+solo los ataques sin especificar un
+tipo específico de ataque
+
+314
+00:05:29,909 --> 00:05:29,919
+tipo específico de ataque
+ 
+
+315
+00:05:29,919 --> 00:05:33,029
+tipo específico de ataque
+también afecta a los ataques de hechizo, pero si el
+
+316
+00:05:33,029 --> 00:05:33,039
+también afecta a los ataques de hechizo, pero si el
+ 
+
+317
+00:05:33,039 --> 00:05:35,590
+también afecta a los ataques de hechizo, pero si el
+efecto llama a un tipo específico de
+
+318
+00:05:35,590 --> 00:05:35,600
+efecto llama a un tipo específico de
+ 
+
+319
+00:05:35,600 --> 00:05:36,390
+efecto llama a un tipo específico de
+ataque
+
+320
+00:05:36,390 --> 00:05:36,400
+ataque
+ 
+
+321
+00:05:36,400 --> 00:05:39,430
+ataque
+como los ataques con armas, obviamente esos
+
+322
+00:05:39,430 --> 00:05:39,440
+como los ataques con armas, obviamente esos
+ 
+
+323
+00:05:39,440 --> 00:05:42,150
+como los ataques con armas, obviamente esos
+no se aplicarían a los ataques de derrame.
+
+324
+00:05:42,150 --> 00:05:42,160
+no se aplicarían a los ataques de derrame.
+ 
+
+325
+00:05:42,160 --> 00:05:44,790
+no se aplicarían a los ataques de derrame.
+Ahora, una penalización específica que definitivamente
+
+326
+00:05:44,790 --> 00:05:44,800
+Ahora, una penalización específica que definitivamente
+ 
+
+327
+00:05:44,800 --> 00:05:46,150
+Ahora, una penalización específica que definitivamente
+debe ser  Se discute
+
+328
+00:05:46,150 --> 00:05:46,160
+debe ser  Se discute
+ 
+
+329
+00:05:46,160 --> 00:05:48,870
+debe ser  Se discute
+la penalización por ataque múltiple. Esto se
+
+330
+00:05:48,870 --> 00:05:48,880
+la penalización por ataque múltiple. Esto se
+ 
+
+331
+00:05:48,880 --> 00:05:49,670
+la penalización por ataque múltiple. Esto se
+aplica
+
+332
+00:05:49,670 --> 00:05:49,680
+aplica
+ 
+
+333
+00:05:49,680 --> 00:05:53,110
+aplica
+a todas las acciones con el rasgo de ataque.
+
+334
+00:05:53,110 --> 00:05:53,120
+a todas las acciones con el rasgo de ataque.
+ 
+
+335
+00:05:53,120 --> 00:05:56,230
+a todas las acciones con el rasgo de ataque.
+Por ejemplo, Flecha Ácida requiere un
+
+336
+00:05:56,230 --> 00:05:56,240
+Por ejemplo, Flecha Ácida requiere un
+ 
+
+337
+00:05:56,240 --> 00:05:58,710
+Por ejemplo, Flecha Ácida requiere un
+rol de ataque de hechizo y tiene el rasgo de ataque, por lo tanto, se ve
+
+338
+00:05:58,710 --> 00:05:58,720
+rol de ataque de hechizo y tiene el rasgo de ataque, por lo tanto, se ve
+ 
+
+339
+00:05:58,720 --> 00:06:01,029
+rol de ataque de hechizo y tiene el rasgo de ataque, por lo tanto, se ve
+afectada y
+
+340
+00:06:01,029 --> 00:06:01,039
+afectada y
+ 
+
+341
+00:06:01,039 --> 00:06:02,469
+afectada y
+contribuye a
+
+342
+00:06:02,469 --> 00:06:02,479
+contribuye a
+ 
+
+343
+00:06:02,479 --> 00:06:05,270
+contribuye a
+la penalización por ataque múltiple. Pero, por
+
+344
+00:06:05,270 --> 00:06:05,280
+la penalización por ataque múltiple. Pero, por
+ 
+
+345
+00:06:05,280 --> 00:06:06,150
+la penalización por ataque múltiple. Pero, por
+otro lado,
+
+346
+00:06:06,150 --> 00:06:06,160
+otro lado,
+ 
+
+347
+00:06:06,160 --> 00:06:09,029
+otro lado,
+veamos a Pie Enredado. También
+
+348
+00:06:09,029 --> 00:06:09,039
+veamos a Pie Enredado. También
+ 
+
+349
+00:06:09,039 --> 00:06:11,029
+veamos a Pie Enredado. También
+requiere un rol de ataque de hechizo,
+
+350
+00:06:11,029 --> 00:06:11,039
+requiere un rol de ataque de hechizo,
+ 
+
+351
+00:06:11,039 --> 00:06:14,629
+requiere un rol de ataque de hechizo,
+pero no tiene el rasgo de ataque,
+
+352
+00:06:14,629 --> 00:06:14,639
+pero no tiene el rasgo de ataque,
+ 
+
+353
+00:06:14,639 --> 00:06:17,189
+pero no tiene el rasgo de ataque,
+y la penalización por ataque múltiple solo se
+
+354
+00:06:17,189 --> 00:06:17,199
+y la penalización por ataque múltiple solo se
+ 
+
+355
+00:06:17,199 --> 00:06:19,990
+y la penalización por ataque múltiple solo se
+aplica a actividades con el
+
+356
+00:06:19,990 --> 00:06:20,000
+aplica a actividades con el
+ 
+
+357
+00:06:20,000 --> 00:06:23,749
+aplica a actividades con el
+rasgo de ataque. Así que, aunque Pie Enredado requiere un
+
+358
+00:06:23,749 --> 00:06:23,759
+rasgo de ataque. Así que, aunque Pie Enredado requiere un
+ 
+
+359
+00:06:23,759 --> 00:06:25,430
+rasgo de ataque. Así que, aunque Pie Enredado requiere un
+rol de ataque de hechizo,
+
+360
+00:06:25,430 --> 00:06:25,440
+rol de ataque de hechizo,
+ 
+
+361
+00:06:25,440 --> 00:06:28,870
+rol de ataque de hechizo,
+no se ve afectada ni contribuye a
+
+362
+00:06:28,870 --> 00:06:28,880
+no se ve afectada ni contribuye a
+ 
+
+363
+00:06:28,880 --> 00:06:31,350
+no se ve afectada ni contribuye a
+la penalización por ataque múltiple porque
+
+364
+00:06:31,350 --> 00:06:31,360
+la penalización por ataque múltiple porque
+ 
+
+365
+00:06:31,360 --> 00:06:32,230
+la penalización por ataque múltiple porque
+no tiene
+
+366
+00:06:32,230 --> 00:06:32,240
+no tiene
+ 
+
+367
+00:06:32,240 --> 00:06:35,350
+no tiene
+el rasgo de ataque. En la mayoría de los casos,
+
+368
+00:06:35,350 --> 00:06:35,360
+el rasgo de ataque. En la mayoría de los casos,
+ 
+
+369
+00:06:35,360 --> 00:06:38,150
+el rasgo de ataque. En la mayoría de los casos,
+si un hechizo requiere un rol de ataque de hechizo,
+
+370
+00:06:38,150 --> 00:06:38,160
+si un hechizo requiere un rol de ataque de hechizo,
+ 
+
+371
+00:06:38,160 --> 00:06:38,550
+si un hechizo requiere un rol de ataque de hechizo,
+
+372
+00:06:38,550 --> 00:06:38,560
+
+ 
+
+373
+00:06:38,560 --> 00:06:41,430
+
+tendrá el rasgo de ataque e interactuará
+
+374
+00:06:41,430 --> 00:06:41,440
+tendrá el rasgo de ataque e interactuará
+ 
+
+375
+00:06:41,440 --> 00:06:42,950
+tendrá el rasgo de ataque e interactuará
+con las penalizaciones por ataque múltiple.
+
+376
+00:06:42,950 --> 00:06:42,960
+con las penalizaciones por ataque múltiple.
+ 
+
+377
+00:06:42,960 --> 00:06:44,950
+con las penalizaciones por ataque múltiple.
+Pero ten en cuenta que hay algunos
+
+378
+00:06:44,950 --> 00:06:44,960
+Pero ten en cuenta que hay algunos
+ 
+
+379
+00:06:44,960 --> 00:06:46,629
+Pero ten en cuenta que hay algunos
+casos raros como Pie Enredado
+
+380
+00:06:46,629 --> 00:06:46,639
+casos raros como Pie Enredado
+ 
+
+381
+00:06:46,639 --> 00:06:49,909
+casos raros como Pie Enredado
+que no lo hacen. Al hacer una tirada de ataque de hechizo,
+
+382
+00:06:49,909 --> 00:06:49,919
+que no lo hacen. Al hacer una tirada de ataque de hechizo,
+ 
+
+383
+00:06:49,919 --> 00:06:50,309
+que no lo hacen. Al hacer una tirada de ataque de hechizo,
+
+384
+00:06:50,309 --> 00:06:50,319
+
+ 
+
+385
+00:06:50,319 --> 00:06:52,550
+
+tu modificador es igual a tu
+
+386
+00:06:52,550 --> 00:06:52,560
+tu modificador es igual a tu
+ 
+
+387
+00:06:52,560 --> 00:06:53,990
+tu modificador es igual a tu
+modificador de habilidad para lanzar hechizos
+
+388
+00:06:53,990 --> 00:06:54,000
+modificador de habilidad para lanzar hechizos
+ 
+
+389
+00:06:54,000 --> 00:06:56,469
+modificador de habilidad para lanzar hechizos
+más tu bonificación por competencia en lanzamiento de hechizos.
+
+390
+00:06:56,469 --> 00:06:56,479
+más tu bonificación por competencia en lanzamiento de hechizos.
+ 
+
+391
+00:06:56,479 --> 00:06:58,309
+más tu bonificación por competencia en lanzamiento de hechizos.
+El modificador de habilidad que se usa
+
+392
+00:06:58,309 --> 00:06:58,319
+El modificador de habilidad que se usa
+ 
+
+393
+00:06:58,319 --> 00:06:59,830
+El modificador de habilidad que se usa
+depende de cómo obtengas
+
+394
+00:06:59,830 --> 00:06:59,840
+depende de cómo obtengas
+ 
+
+395
+00:06:59,840 --> 00:07:02,390
+depende de cómo obtengas
+acceso al hechizo que estás lanzando. Si
+
+396
+00:07:02,390 --> 00:07:02,400
+acceso al hechizo que estás lanzando. Si
+ 
+
+397
+00:07:02,400 --> 00:07:04,550
+acceso al hechizo que estás lanzando. Si
+tu clase otorgó la habilidad para lanzar
+
+398
+00:07:04,550 --> 00:07:04,560
+tu clase otorgó la habilidad para lanzar
+ 
+
+399
+00:07:04,560 --> 00:07:05,430
+tu clase otorgó la habilidad para lanzar
+el hechizo,
+
+400
+00:07:05,430 --> 00:07:05,440
+el hechizo,
+ 
+
+401
+00:07:05,440 --> 00:07:07,589
+el hechizo,
+entonces usas el modificador de habilidad de lanzamiento de hechizos de esa clase,
+
+402
+00:07:07,589 --> 00:07:09,110
+entonces usas el modificador de habilidad de lanzamiento de hechizos de esa clase,
+ 
+
+403
+00:07:09,110 --> 00:07:09,120
+
+ 
+
+404
+00:07:09,120 --> 00:07:12,309
+
+que a menudo, pero no siempre, es el mismo que el
+
+405
+00:07:12,309 --> 00:07:12,319
+que a menudo, pero no siempre, es el mismo que el
+ 
+
+406
+00:07:12,319 --> 00:07:15,350
+que a menudo, pero no siempre, es el mismo que el
+modificador de habilidad clave de la clase:
+
+407
+00:07:15,350 --> 00:07:15,360
+modificador de habilidad clave de la clase:
+ 
+
+408
+00:07:15,360 --> 00:07:18,390
+modificador de habilidad clave de la clase:
+bardos, campeones, oráculos.  y los hechiceros
+
+409
+00:07:18,390 --> 00:07:18,400
+bardos, campeones, oráculos.  y los hechiceros
+ 
+
+410
+00:07:18,400 --> 00:07:21,430
+bardos, campeones, oráculos.  y los hechiceros
+usan carisma, los clérigos y druidas usan
+
+411
+00:07:21,430 --> 00:07:21,440
+usan carisma, los clérigos y druidas usan
+ 
+
+412
+00:07:21,440 --> 00:07:22,230
+usan carisma, los clérigos y druidas usan
+sabiduría,
+
+413
+00:07:22,230 --> 00:07:22,240
+sabiduría,
+ 
+
+414
+00:07:22,240 --> 00:07:25,670
+sabiduría,
+y las brujas y magos usan inteligencia, los
+
+415
+00:07:25,670 --> 00:07:25,680
+y las brujas y magos usan inteligencia, los
+ 
+
+416
+00:07:25,680 --> 00:07:27,830
+y las brujas y magos usan inteligencia, los
+hechizos innatos de los que hablaremos
+
+417
+00:07:27,830 --> 00:07:27,840
+hechizos innatos de los que hablaremos
+ 
+
+418
+00:07:27,840 --> 00:07:30,230
+hechizos innatos de los que hablaremos
+más en un próximo video,
+
+419
+00:07:30,230 --> 00:07:30,240
+más en un próximo video,
+ 
+
+420
+00:07:30,240 --> 00:07:33,270
+más en un próximo video,
+usan el modificador de carisma del lanzador y
+
+421
+00:07:33,270 --> 00:07:33,280
+usan el modificador de carisma del lanzador y
+ 
+
+422
+00:07:33,280 --> 00:07:34,950
+usan el modificador de carisma del lanzador y
+otras fuentes de hechizos
+
+423
+00:07:34,950 --> 00:07:34,960
+otras fuentes de hechizos
+ 
+
+424
+00:07:34,960 --> 00:07:37,670
+otras fuentes de hechizos
+pueden especificar qué modificador de habilidad usar
+
+425
+00:07:37,670 --> 00:07:37,680
+pueden especificar qué modificador de habilidad usar
+ 
+
+426
+00:07:37,680 --> 00:07:38,870
+pueden especificar qué modificador de habilidad usar
+para sus hechizos,
+
+427
+00:07:38,870 --> 00:07:38,880
+para sus hechizos,
+ 
+
+428
+00:07:38,880 --> 00:07:41,430
+para sus hechizos,
+pero la regla general es, en caso de duda,
+
+429
+00:07:41,430 --> 00:07:41,440
+pero la regla general es, en caso de duda,
+ 
+
+430
+00:07:41,440 --> 00:07:43,189
+pero la regla general es, en caso de duda,
+usar carisma,
+
+431
+00:07:43,189 --> 00:07:43,199
+usar carisma,
+ 
+
+432
+00:07:43,199 --> 00:07:45,589
+usar carisma,
+y ​​esto puede llevar a situaciones en las que un
+
+433
+00:07:45,589 --> 00:07:45,599
+y ​​esto puede llevar a situaciones en las que un
+ 
+
+434
+00:07:45,599 --> 00:07:47,990
+y ​​esto puede llevar a situaciones en las que un
+lanzador usa diferentes modificadores de habilidad
+
+435
+00:07:47,990 --> 00:07:48,000
+lanzador usa diferentes modificadores de habilidad
+ 
+
+436
+00:07:48,000 --> 00:07:48,550
+lanzador usa diferentes modificadores de habilidad
+para lanzar
+
+437
+00:07:48,550 --> 00:07:48,560
+para lanzar
+ 
+
+438
+00:07:48,560 --> 00:07:51,589
+para lanzar
+diferentes hechizos, por ejemplo, un clérigo
+
+439
+00:07:51,589 --> 00:07:51,599
+diferentes hechizos, por ejemplo, un clérigo
+ 
+
+440
+00:07:51,599 --> 00:07:53,909
+diferentes hechizos, por ejemplo, un clérigo
+usaría su modificador de sabiduría al
+
+441
+00:07:53,909 --> 00:07:53,919
+usaría su modificador de sabiduría al
+ 
+
+442
+00:07:53,919 --> 00:07:56,070
+usaría su modificador de sabiduría al
+lanzar hechizos divinos otorgados por su
+
+443
+00:07:56,070 --> 00:07:56,080
+lanzar hechizos divinos otorgados por su
+ 
+
+444
+00:07:56,080 --> 00:07:57,110
+lanzar hechizos divinos otorgados por su
+clase,
+
+445
+00:07:57,110 --> 00:07:57,120
+clase,
+ 
+
+446
+00:07:57,120 --> 00:08:00,309
+clase,
+pero ese mismo clérigo usaría carisma
+
+447
+00:08:00,309 --> 00:08:00,319
+pero ese mismo clérigo usaría carisma
+ 
+
+448
+00:08:00,319 --> 00:08:02,469
+pero ese mismo clérigo usaría carisma
+al lanzar hechizos innatos
+
+449
+00:08:02,469 --> 00:08:02,479
+al lanzar hechizos innatos
+ 
+
+450
+00:08:02,479 --> 00:08:04,790
+al lanzar hechizos innatos
+y si ese clérigo también se multiclase
+
+451
+00:08:04,790 --> 00:08:04,800
+y si ese clérigo también se multiclase
+ 
+
+452
+00:08:04,800 --> 00:08:05,909
+y si ese clérigo también se multiclase
+en mago,
+
+453
+00:08:05,909 --> 00:08:05,919
+en mago,
+ 
+
+454
+00:08:05,919 --> 00:08:07,909
+en mago,
+entonces usaría su
+
+455
+00:08:07,909 --> 00:08:07,919
+entonces usaría su
+ 
+
+456
+00:08:07,919 --> 00:08:09,670
+entonces usaría su
+modificador de inteligencia al lanzar
+
+457
+00:08:09,670 --> 00:08:09,680
+modificador de inteligencia al lanzar
+ 
+
+458
+00:08:09,680 --> 00:08:12,790
+modificador de inteligencia al lanzar
+hechizos arcanos de mago. Las clases de lanzamiento de hechizos
+
+459
+00:08:12,790 --> 00:08:12,800
+hechizos arcanos de mago. Las clases de lanzamiento de hechizos
+ 
+
+460
+00:08:12,800 --> 00:08:13,350
+hechizos arcanos de mago. Las clases de lanzamiento de hechizos
+
+461
+00:08:13,350 --> 00:08:13,360
+
+ 
+
+462
+00:08:13,360 --> 00:08:15,749
+
+también otorgan competencia en el lanzamiento de hechizos
+
+463
+00:08:15,749 --> 00:08:15,759
+también otorgan competencia en el lanzamiento de hechizos
+ 
+
+464
+00:08:15,759 --> 00:08:17,430
+también otorgan competencia en el lanzamiento de hechizos
+de cierta tradición,
+
+465
+00:08:17,430 --> 00:08:17,440
+de cierta tradición,
+ 
+
+466
+00:08:17,440 --> 00:08:20,070
+de cierta tradición,
+por ejemplo, los druidas principiantes tienen competencia entrenada
+
+467
+00:08:20,070 --> 00:08:20,080
+por ejemplo, los druidas principiantes tienen competencia entrenada
+ 
+
+468
+00:08:20,080 --> 00:08:21,110
+por ejemplo, los druidas principiantes tienen competencia entrenada
+
+469
+00:08:21,110 --> 00:08:21,120
+
+ 
+
+470
+00:08:21,120 --> 00:08:24,150
+
+en el lanzamiento de hechizos primarios y esta bonificación
+
+471
+00:08:24,150 --> 00:08:24,160
+en el lanzamiento de hechizos primarios y esta bonificación
+ 
+
+472
+00:08:24,160 --> 00:08:26,469
+en el lanzamiento de hechizos primarios y esta bonificación
+funciona igual que cualquier otra bonificación de competencia. La
+
+473
+00:08:26,469 --> 00:08:26,479
+funciona igual que cualquier otra bonificación de competencia. La
+ 
+
+474
+00:08:26,479 --> 00:08:27,510
+funciona igual que cualquier otra bonificación de competencia. La
+
+475
+00:08:27,510 --> 00:08:27,520
+
+ 
+
+476
+00:08:27,520 --> 00:08:30,230
+
+competencia entrenada otorga 2 más tu
+
+477
+00:08:30,230 --> 00:08:30,240
+competencia entrenada otorga 2 más tu
+ 
+
+478
+00:08:30,240 --> 00:08:30,950
+competencia entrenada otorga 2 más tu
+nivel,
+
+479
+00:08:30,950 --> 00:08:30,960
+nivel,
+ 
+
+480
+00:08:30,960 --> 00:08:33,829
+nivel,
+experto otorga 4 más tu nivel, maestro
+
+481
+00:08:33,829 --> 00:08:33,839
+experto otorga 4 más tu nivel, maestro
+ 
+
+482
+00:08:33,839 --> 00:08:34,469
+experto otorga 4 más tu nivel, maestro
+otorga
+
+483
+00:08:34,469 --> 00:08:34,479
+otorga
+ 
+
+484
+00:08:34,479 --> 00:08:36,790
+otorga
+6, nivel de placer y legendario.  La
+
+485
+00:08:36,790 --> 00:08:36,800
+6, nivel de placer y legendario.  La
+ 
+
+486
+00:08:36,800 --> 00:08:38,550
+6, nivel de placer y legendario.  La
+competencia otorga 8
+
+487
+00:08:38,550 --> 00:08:38,560
+competencia otorga 8
+ 
+
+488
+00:08:38,560 --> 00:08:41,430
+competencia otorga 8
+más tu nivel. Esto también puede significar que
+
+489
+00:08:41,430 --> 00:08:41,440
+más tu nivel. Esto también puede significar que
+ 
+
+490
+00:08:41,440 --> 00:08:42,230
+más tu nivel. Esto también puede significar que
+podrías tener
+
+491
+00:08:42,230 --> 00:08:42,240
+podrías tener
+ 
+
+492
+00:08:42,240 --> 00:08:44,149
+podrías tener
+diferentes bonificaciones de competencia al
+
+493
+00:08:44,149 --> 00:08:44,159
+diferentes bonificaciones de competencia al
+ 
+
+494
+00:08:44,159 --> 00:08:46,070
+diferentes bonificaciones de competencia al
+lanzar diferentes hechizos.
+
+495
+00:08:46,070 --> 00:08:46,080
+lanzar diferentes hechizos.
+ 
+
+496
+00:08:46,080 --> 00:08:48,790
+lanzar diferentes hechizos.
+Un bardo puede ser un experto en el
+
+497
+00:08:48,790 --> 00:08:48,800
+Un bardo puede ser un experto en el
+ 
+
+498
+00:08:48,800 --> 00:08:49,910
+Un bardo puede ser un experto en el
+lanzamiento de hechizos ocultos,
+
+499
+00:08:49,910 --> 00:08:49,920
+lanzamiento de hechizos ocultos,
+ 
+
+500
+00:08:49,920 --> 00:08:52,470
+lanzamiento de hechizos ocultos,
+pero solo ha entrenado la competencia al
+
+501
+00:08:52,470 --> 00:08:52,480
+pero solo ha entrenado la competencia al
+ 
+
+502
+00:08:52,480 --> 00:08:53,750
+pero solo ha entrenado la competencia al
+lanzar hechizos que obtuvo al ser
+
+503
+00:08:53,750 --> 00:08:53,760
+lanzar hechizos que obtuvo al ser
+ 
+
+504
+00:08:53,760 --> 00:08:55,990
+lanzar hechizos que obtuvo al ser
+multiclase y un hechicero. Vale la pena
+
+505
+00:08:55,990 --> 00:08:56,000
+multiclase y un hechicero. Vale la pena
+ 
+
+506
+00:08:56,000 --> 00:08:57,910
+multiclase y un hechicero. Vale la pena
+señalar que todos los que
+
+507
+00:08:57,910 --> 00:08:57,920
+señalar que todos los que
+ 
+
+508
+00:08:57,920 --> 00:08:59,750
+señalar que todos los que
+pueden lanzar hechizos innatos
+
+509
+00:08:59,750 --> 00:08:59,760
+pueden lanzar hechizos innatos
+ 
+
+510
+00:08:59,760 --> 00:09:02,310
+pueden lanzar hechizos innatos
+tienen al menos competencia entrenada en
+
+511
+00:09:02,310 --> 00:09:02,320
+tienen al menos competencia entrenada en
+ 
+
+512
+00:09:02,320 --> 00:09:03,509
+tienen al menos competencia entrenada en
+sus hechizos,
+
+513
+00:09:03,509 --> 00:09:03,519
+sus hechizos,
+ 
+
+514
+00:09:03,519 --> 00:09:05,910
+sus hechizos,
+pero si también tienen competencia de lanzamiento de hechizos experta o superior
+
+515
+00:09:05,910 --> 00:09:07,350
+pero si también tienen competencia de lanzamiento de hechizos experta o superior
+ 
+
+516
+00:09:07,350 --> 00:09:07,360
+
+ 
+
+517
+00:09:07,360 --> 00:09:09,670
+
+proporcionada por su clase, entonces sus
+
+518
+00:09:09,670 --> 00:09:09,680
+proporcionada por su clase, entonces sus
+ 
+
+519
+00:09:09,680 --> 00:09:10,710
+proporcionada por su clase, entonces sus
+hechizos innatos
+
+520
+00:09:10,710 --> 00:09:10,720
+hechizos innatos
+ 
+
+521
+00:09:10,720 --> 00:09:13,590
+hechizos innatos
+también se lanzan a ese nivel de competencia superior.
+
+522
+00:09:13,590 --> 00:09:13,600
+también se lanzan a ese nivel de competencia superior.
+ 
+
+523
+00:09:13,600 --> 00:09:15,030
+también se lanzan a ese nivel de competencia superior.
+
+524
+00:09:15,030 --> 00:09:15,040
+
+ 
+
+525
+00:09:15,040 --> 00:09:17,430
+
+Cada hechizo detallará lo que sucede en un
+
+526
+00:09:17,430 --> 00:09:17,440
+Cada hechizo detallará lo que sucede en un
+ 
+
+527
+00:09:17,440 --> 00:09:18,470
+Cada hechizo detallará lo que sucede en un
+impacto o un fallo.
+
+528
+00:09:18,470 --> 00:09:18,480
+impacto o un fallo.
+ 
+
+529
+00:09:18,480 --> 00:09:21,509
+impacto o un fallo.
+Por ejemplo, la flecha ácida causa 3-8 de daño por ácido
+
+530
+00:09:21,509 --> 00:09:21,519
+Por ejemplo, la flecha ácida causa 3-8 de daño por ácido
+ 
+
+531
+00:09:21,519 --> 00:09:21,990
+Por ejemplo, la flecha ácida causa 3-8 de daño por ácido
+
+532
+00:09:21,990 --> 00:09:22,000
+
+ 
+
+533
+00:09:22,000 --> 00:09:25,350
+
+más 1d6 de daño por ácido persistente en un impacto. En un
+
+534
+00:09:25,350 --> 00:09:25,360
+más 1d6 de daño por ácido persistente en un impacto. En un
+ 
+
+535
+00:09:25,360 --> 00:09:28,150
+más 1d6 de daño por ácido persistente en un impacto. En un
+impacto crítico, duplicas el
+
+536
+00:09:28,150 --> 00:09:28,160
+impacto crítico, duplicas el
+ 
+
+537
+00:09:28,160 --> 00:09:29,350
+impacto crítico, duplicas el
+daño inicial de 3d8
+
+538
+00:09:29,350 --> 00:09:29,360
+daño inicial de 3d8
+ 
+
+539
+00:09:29,360 --> 00:09:31,509
+daño inicial de 3d8
+pero no el daño persistente y no
+
+540
+00:09:31,509 --> 00:09:31,519
+pero no el daño persistente y no
+ 
+
+541
+00:09:31,519 --> 00:09:33,829
+pero no el daño persistente y no
+sucede nada en un fallo o
+
+542
+00:09:33,829 --> 00:09:33,839
+sucede nada en un fallo o
+ 
+
+543
+00:09:33,839 --> 00:09:37,190
+sucede nada en un fallo o
+un fallo crítico.
+
+544
+00:09:37,190 --> 00:09:37,200
+un fallo crítico.
+ 
+
+545
+00:09:37,200 --> 00:09:39,110
+un fallo crítico.
+Algunos hechizos requerirán que el objetivo
+
+546
+00:09:39,110 --> 00:09:39,120
+Algunos hechizos requerirán que el objetivo
+ 
+
+547
+00:09:39,120 --> 00:09:40,630
+Algunos hechizos requerirán que el objetivo
+haga una tirada de salvación, como
+
+548
+00:09:40,630 --> 00:09:40,640
+haga una tirada de salvación, como
+ 
+
+549
+00:09:40,640 --> 00:09:43,750
+haga una tirada de salvación, como
+una tirada de salvación por reflejos para evitar una explosión de bola de fuego
+
+550
+00:09:43,750 --> 00:09:43,760
+una tirada de salvación por reflejos para evitar una explosión de bola de fuego
+ 
+
+551
+00:09:43,760 --> 00:09:44,310
+una tirada de salvación por reflejos para evitar una explosión de bola de fuego
+o
+
+552
+00:09:44,310 --> 00:09:44,320
+o
+ 
+
+553
+00:09:44,320 --> 00:09:46,310
+o
+una tirada de salvación de voluntad para luchar contra la manipulación mental.
+
+554
+00:09:46,310 --> 00:09:46,320
+una tirada de salvación de voluntad para luchar contra la manipulación mental.
+ 
+
+555
+00:09:46,320 --> 00:09:47,750
+una tirada de salvación de voluntad para luchar contra la manipulación mental.
+
+556
+00:09:47,750 --> 00:09:47,760
+
+ 
+
+557
+00:09:47,760 --> 00:09:50,389
+
+La CD para estas tiradas de salvación es la misma que
+
+558
+00:09:50,389 --> 00:09:50,399
+La CD para estas tiradas de salvación es la misma que
+ 
+
+559
+00:09:50,399 --> 00:09:52,070
+La CD para estas tiradas de salvación es la misma que
+la CD de derrame del lanzador,
+
+560
+00:09:52,070 --> 00:09:52,080
+la CD de derrame del lanzador,
+ 
+
+561
+00:09:52,080 --> 00:09:53,829
+la CD de derrame del lanzador,
+que es fácil de calcular.  Solo
+
+562
+00:09:53,829 --> 00:09:53,839
+que es fácil de calcular.  Solo
+ 
+
+563
+00:09:53,839 --> 00:09:56,949
+que es fácil de calcular.  Solo
+tu bonificación de ataque de hechizo base más 10.
+
+564
+00:09:56,949 --> 00:09:56,959
+tu bonificación de ataque de hechizo base más 10.
+ 
+
+565
+00:09:56,959 --> 00:09:59,430
+tu bonificación de ataque de hechizo base más 10.
+Como resultado, si un personaje puede lanzar
+
+566
+00:09:59,430 --> 00:09:59,440
+Como resultado, si un personaje puede lanzar
+ 
+
+567
+00:09:59,440 --> 00:10:01,829
+Como resultado, si un personaje puede lanzar
+hechizos de múltiples fuentes diferentes,
+
+568
+00:10:01,829 --> 00:10:01,839
+hechizos de múltiples fuentes diferentes,
+ 
+
+569
+00:10:01,839 --> 00:10:04,710
+hechizos de múltiples fuentes diferentes,
+puede tener diferentes CD de hechizos, al igual que
+
+570
+00:10:04,710 --> 00:10:04,720
+puede tener diferentes CD de hechizos, al igual que
+ 
+
+571
+00:10:04,720 --> 00:10:06,310
+puede tener diferentes CD de hechizos, al igual que
+sus ataques de derrame usan diferentes
+
+572
+00:10:06,310 --> 00:10:06,320
+sus ataques de derrame usan diferentes
+ 
+
+573
+00:10:06,320 --> 00:10:07,750
+sus ataques de derrame usan diferentes
+puntuaciones de característica y tienen diferentes
+
+574
+00:10:07,750 --> 00:10:07,760
+puntuaciones de característica y tienen diferentes
+ 
+
+575
+00:10:07,760 --> 00:10:09,030
+puntuaciones de característica y tienen diferentes
+bonificaciones. La
+
+576
+00:10:09,030 --> 00:10:09,040
+bonificaciones. La
+ 
+
+577
+00:10:09,040 --> 00:10:10,870
+bonificaciones. La
+descripción de cada hechizo
+
+578
+00:10:10,870 --> 00:10:10,880
+descripción de cada hechizo
+ 
+
+579
+00:10:10,880 --> 00:10:13,110
+descripción de cada hechizo
+proporcionará detalles sobre lo que sucede en una
+
+580
+00:10:13,110 --> 00:10:13,120
+proporcionará detalles sobre lo que sucede en una
+ 
+
+581
+00:10:13,120 --> 00:10:14,949
+proporcionará detalles sobre lo que sucede en una
+salvación exitosa o fallida
+
+582
+00:10:14,949 --> 00:10:14,959
+salvación exitosa o fallida
+ 
+
+583
+00:10:14,959 --> 00:10:18,310
+salvación exitosa o fallida
+o se referirá a ella como una
+
+584
+00:10:18,310 --> 00:10:18,320
+o se referirá a ella como una
+ 
+
+585
+00:10:18,320 --> 00:10:21,750
+o se referirá a ella como una
+salvación básica. Estos son muy comunes para
+
+586
+00:10:21,750 --> 00:10:21,760
+salvación básica. Estos son muy comunes para
+ 
+
+587
+00:10:21,760 --> 00:10:23,110
+salvación básica. Estos son muy comunes para
+efectos dañinos
+
+588
+00:10:23,110 --> 00:10:23,120
+efectos dañinos
+ 
+
+589
+00:10:23,120 --> 00:10:25,590
+efectos dañinos
+y lo que significa la salvación básica es que
+
+590
+00:10:25,590 --> 00:10:25,600
+y lo que significa la salvación básica es que
+ 
+
+591
+00:10:25,600 --> 00:10:26,870
+y lo que significa la salvación básica es que
+si tienes éxito,
+
+592
+00:10:26,870 --> 00:10:26,880
+si tienes éxito,
+ 
+
+593
+00:10:26,880 --> 00:10:30,230
+si tienes éxito,
+solo sufres la mitad de la lista de daño.
+
+594
+00:10:30,230 --> 00:10:30,240
+solo sufres la mitad de la lista de daño.
+ 
+
+595
+00:10:30,240 --> 00:10:33,110
+solo sufres la mitad de la lista de daño.
+Si tienes éxito crítico, no sufres
+
+596
+00:10:33,110 --> 00:10:33,120
+Si tienes éxito crítico, no sufres
+ 
+
+597
+00:10:33,120 --> 00:10:34,230
+Si tienes éxito crítico, no sufres
+daño.
+
+598
+00:10:34,230 --> 00:10:34,240
+daño.
+ 
+
+599
+00:10:34,240 --> 00:10:37,030
+daño.
+Si fallas, sufres el daño normal listado
+
+600
+00:10:37,030 --> 00:10:37,040
+Si fallas, sufres el daño normal listado
+ 
+
+601
+00:10:37,040 --> 00:10:37,829
+Si fallas, sufres el daño normal listado
+
+602
+00:10:37,829 --> 00:10:37,839
+
+ 
+
+603
+00:10:37,839 --> 00:10:40,870
+
+y si fallas críticamente, sufres el
+
+604
+00:10:40,870 --> 00:10:40,880
+y si fallas críticamente, sufres el
+ 
+
+605
+00:10:40,880 --> 00:10:43,910
+y si fallas críticamente, sufres el
+doble de daño. Con todo eso en mente,
+
+606
+00:10:43,910 --> 00:10:43,920
+doble de daño. Con todo eso en mente,
+ 
+
+607
+00:10:43,920 --> 00:10:44,230
+doble de daño. Con todo eso en mente,
+
+608
+00:10:44,230 --> 00:10:44,240
+
+ 
+
+609
+00:10:44,240 --> 00:10:47,269
+
+veamos un par de ejemplos comunes.
+
+610
+00:10:47,269 --> 00:10:47,279
+veamos un par de ejemplos comunes.
+ 
+
+611
+00:10:47,279 --> 00:10:50,389
+veamos un par de ejemplos comunes.
+Bola de fuego requiere una tirada de salvación de reflejos básica
+
+612
+00:10:50,389 --> 00:10:50,399
+Bola de fuego requiere una tirada de salvación de reflejos básica
+ 
+
+613
+00:10:50,399 --> 00:10:51,350
+Bola de fuego requiere una tirada de salvación de reflejos básica
+
+614
+00:10:51,350 --> 00:10:51,360
+
+ 
+
+615
+00:10:51,360 --> 00:10:54,790
+
+cuando se lanza. Todos los objetivos en el área de explosión
+
+616
+00:10:54,790 --> 00:10:54,800
+cuando se lanza. Todos los objetivos en el área de explosión
+ 
+
+617
+00:10:54,800 --> 00:10:58,069
+cuando se lanza. Todos los objetivos en el área de explosión
+deben hacer una tirada de salvación de reflejos contra
+
+618
+00:10:58,069 --> 00:10:58,079
+deben hacer una tirada de salvación de reflejos contra
+ 
+
+619
+00:10:58,079 --> 00:11:00,389
+deben hacer una tirada de salvación de reflejos contra
+la CD del hechizo del lanzador.
+
+620
+00:11:00,389 --> 00:11:00,399
+la CD del hechizo del lanzador.
+ 
+
+621
+00:11:00,399 --> 00:11:03,030
+la CD del hechizo del lanzador.
+En un éxito, sufren la mitad del
+
+622
+00:11:03,030 --> 00:11:03,040
+En un éxito, sufren la mitad del
+ 
+
+623
+00:11:03,040 --> 00:11:04,470
+En un éxito, sufren la mitad del
+daño de la bola de fuego. En
+
+624
+00:11:04,470 --> 00:11:04,480
+daño de la bola de fuego. En
+ 
+
+625
+00:11:04,480 --> 00:11:07,030
+daño de la bola de fuego. En
+un fallo, sufren el
+
+626
+00:11:07,030 --> 00:11:07,040
+un fallo, sufren el
+ 
+
+627
+00:11:07,040 --> 00:11:08,069
+un fallo, sufren el
+daño completo de la bola de fuego. En un
+
+628
+00:11:08,069 --> 00:11:08,079
+daño completo de la bola de fuego. En un
+ 
+
+629
+00:11:08,079 --> 00:11:10,230
+daño completo de la bola de fuego. En un
+éxito crítico, no sufren
+
+630
+00:11:10,230 --> 00:11:10,240
+éxito crítico, no sufren
+ 
+
+631
+00:11:10,240 --> 00:11:11,509
+éxito crítico, no sufren
+daño en absoluto
+
+632
+00:11:11,509 --> 00:11:11,519
+daño en absoluto
+ 
+
+633
+00:11:11,519 --> 00:11:14,389
+daño en absoluto
+y en un fallo crítico sufren el
+
+634
+00:11:14,389 --> 00:11:14,399
+y en un fallo crítico sufren el
+ 
+
+635
+00:11:14,399 --> 00:11:16,949
+y en un fallo crítico sufren el
+doble del daño normal.
+
+636
+00:11:16,949 --> 00:11:16,959
+doble del daño normal.
+ 
+
+637
+00:11:16,959 --> 00:11:20,949
+doble del daño normal.
+Así es como suelen funcionar las salvaciones básicas, pero
+
+638
+00:11:20,949 --> 00:11:20,959
+Así es como suelen funcionar las salvaciones básicas, pero
+ 
+
+639
+00:11:20,959 --> 00:11:24,069
+Así es como suelen funcionar las salvaciones básicas, pero
+como siempre, hay algunas excepciones.
+
+640
+00:11:24,069 --> 00:11:24,079
+como siempre, hay algunas excepciones.
+ 
+
+641
+00:11:24,079 --> 00:11:27,190
+como siempre, hay algunas excepciones.
+Esfera llameante, por ejemplo.  requiere una tirada de
+
+642
+00:11:27,190 --> 00:11:27,200
+Esfera llameante, por ejemplo.  requiere una tirada de
+ 
+
+643
+00:11:27,200 --> 00:11:29,190
+Esfera llameante, por ejemplo.  requiere una tirada de
+salvación de reflejos básica,
+
+644
+00:11:29,190 --> 00:11:29,200
+salvación de reflejos básica,
+ 
+
+645
+00:11:29,200 --> 00:11:30,470
+salvación de reflejos básica,
+como bola de fuego,
+
+646
+00:11:30,470 --> 00:11:30,480
+como bola de fuego,
+ 
+
+647
+00:11:30,480 --> 00:11:33,110
+como bola de fuego,
+pero tiene una línea adicional en su
+
+648
+00:11:33,110 --> 00:11:33,120
+pero tiene una línea adicional en su
+ 
+
+649
+00:11:33,120 --> 00:11:33,910
+pero tiene una línea adicional en su
+descripción
+
+650
+00:11:33,910 --> 00:11:33,920
+descripción
+ 
+
+651
+00:11:33,920 --> 00:11:36,870
+descripción
+que dice que los objetivos no sufren ningún
+
+652
+00:11:36,870 --> 00:11:36,880
+que dice que los objetivos no sufren ningún
+ 
+
+653
+00:11:36,880 --> 00:11:39,269
+que dice que los objetivos no sufren ningún
+daño con una tirada de salvación exitosa,
+
+654
+00:11:39,269 --> 00:11:39,279
+daño con una tirada de salvación exitosa,
+ 
+
+655
+00:11:39,279 --> 00:11:43,190
+daño con una tirada de salvación exitosa,
+a diferencia de la mitad del daño, así que en resumen,
+
+656
+00:11:43,190 --> 00:11:43,200
+a diferencia de la mitad del daño, así que en resumen,
+ 
+
+657
+00:11:43,200 --> 00:11:45,190
+a diferencia de la mitad del daño, así que en resumen,
+asegúrate de leer siempre las
+
+658
+00:11:45,190 --> 00:11:45,200
+asegúrate de leer siempre las
+ 
+
+659
+00:11:45,200 --> 00:11:47,269
+asegúrate de leer siempre las
+descripciones de los hechizos para saber exactamente cómo
+
+660
+00:11:47,269 --> 00:11:47,279
+descripciones de los hechizos para saber exactamente cómo
+ 
+
+661
+00:11:47,279 --> 00:11:47,829
+descripciones de los hechizos para saber exactamente cómo
+resolver
+
+662
+00:11:47,829 --> 00:11:47,839
+resolver
+ 
+
+663
+00:11:47,839 --> 00:11:51,670
+resolver
+la tirada de salvación de un hechizo
+
+664
+00:11:51,670 --> 00:11:51,680
+
+ 
+
+665
+00:11:51,680 --> 00:11:53,350
+
+antes de cerrar, me gustaría tomarme un
+
+666
+00:11:53,350 --> 00:11:53,360
+antes de cerrar, me gustaría tomarme un
+ 
+
+667
+00:11:53,360 --> 00:11:55,509
+antes de cerrar, me gustaría tomarme un
+momento para agradecer a todos nuestros patrocinadores,
+
+668
+00:11:55,509 --> 00:11:55,519
+momento para agradecer a todos nuestros patrocinadores,
+ 
+
+669
+00:11:55,519 --> 00:11:57,350
+momento para agradecer a todos nuestros patrocinadores,
+estos videos no serían posibles
+
+670
+00:11:57,350 --> 00:11:57,360
+estos videos no serían posibles
+ 
+
+671
+00:11:57,360 --> 00:11:59,670
+estos videos no serían posibles
+sin su continua generosidad y
+
+672
+00:11:59,670 --> 00:11:59,680
+sin su continua generosidad y
+ 
+
+673
+00:11:59,680 --> 00:12:01,030
+sin su continua generosidad y
+apoyo, los
+
+674
+00:12:01,030 --> 00:12:01,040
+apoyo, los
+ 
+
+675
+00:12:01,040 --> 00:12:03,269
+apoyo, los
+miembros de la comunidad de patreon de basicsforgamers
+
+676
+00:12:03,269 --> 00:12:03,279
+miembros de la comunidad de patreon de basicsforgamers
+ 
+
+677
+00:12:03,279 --> 00:12:05,190
+miembros de la comunidad de patreon de basicsforgamers
+reciben beneficios especiales,
+
+678
+00:12:05,190 --> 00:12:05,200
+reciben beneficios especiales,
+ 
+
+679
+00:12:05,200 --> 00:12:07,110
+reciben beneficios especiales,
+como votar sobre los temas que
+
+680
+00:12:07,110 --> 00:12:07,120
+como votar sobre los temas que
+ 
+
+681
+00:12:07,120 --> 00:12:08,470
+como votar sobre los temas que
+cubrimos en el futuro
+
+682
+00:12:08,470 --> 00:12:08,480
+cubrimos en el futuro
+ 
+
+683
+00:12:08,480 --> 00:12:10,470
+cubrimos en el futuro
+y también pueden ver estos videos
+
+684
+00:12:10,470 --> 00:12:10,480
+y también pueden ver estos videos
+ 
+
+685
+00:12:10,480 --> 00:12:11,829
+y también pueden ver estos videos
+una semana y sin publicidad
+
+686
+00:12:11,829 --> 00:12:11,839
+una semana y sin publicidad
+ 
+
+687
+00:12:11,839 --> 00:12:15,110
+una semana y sin publicidad
+antes que todos los demás, visita el
+
+688
+00:12:15,110 --> 00:12:15,120
+antes que todos los demás, visita el
+ 
+
+689
+00:12:15,120 --> 00:12:16,949
+antes que todos los demás, visita el
+enlace que se muestra a la izquierda de la pantalla y
+
+690
+00:12:16,949 --> 00:12:16,959
+enlace que se muestra a la izquierda de la pantalla y
+ 
+
+691
+00:12:16,959 --> 00:12:18,629
+enlace que se muestra a la izquierda de la pantalla y
+en la descripción si deseas saber
+
+692
+00:12:18,629 --> 00:12:18,639
+en la descripción si deseas saber
+ 
+
+693
+00:12:18,639 --> 00:12:20,949
+en la descripción si deseas saber
+más sobre cómo convertirte en patrocinador,
+
+694
+00:12:20,949 --> 00:12:20,959
+más sobre cómo convertirte en patrocinador,
+ 
+
+695
+00:12:20,959 --> 00:12:22,230
+más sobre cómo convertirte en patrocinador,
+si deseas apoyar este
+
+696
+00:12:22,230 --> 00:12:22,240
+si deseas apoyar este
+ 
+
+697
+00:12:22,240 --> 00:12:23,990
+si deseas apoyar este
+canal y ayudarlo a crecer, la
+
+698
+00:12:23,990 --> 00:12:24,000
+canal y ayudarlo a crecer, la
+ 
+
+699
+00:12:24,000 --> 00:12:26,550
+canal y ayudarlo a crecer, la
+forma más fácil de hacerlo es suscribiéndote y
+
+700
+00:12:26,550 --> 00:12:26,560
+forma más fácil de hacerlo es suscribiéndote y
+ 
+
+701
+00:12:26,560 --> 00:12:28,150
+forma más fácil de hacerlo es suscribiéndote y
+haciendo clic en el ícono de la campana
+
+702
+00:12:28,150 --> 00:12:28,160
+haciendo clic en el ícono de la campana
+ 
+
+703
+00:12:28,160 --> 00:12:30,150
+haciendo clic en el ícono de la campana
+para que recibas notificaciones cuando se publiquen nuevos videos
+
+704
+00:12:30,150 --> 00:12:30,160
+para que recibas notificaciones cuando se publiquen nuevos videos
+ 
+
+705
+00:12:30,160 --> 00:12:31,190
+para que recibas notificaciones cuando se publiquen nuevos videos
+
+706
+00:12:31,190 --> 00:12:31,200
+
+ 
+
+707
+00:12:31,200 --> 00:12:32,629
+
+y siempre puedes comunicarte con nosotros a través de nuestras
+
+708
+00:12:32,629 --> 00:12:32,639
+y siempre puedes comunicarte con nosotros a través de nuestras
+ 
+
+709
+00:12:32,639 --> 00:12:34,790
+y siempre puedes comunicarte con nosotros a través de nuestras
+páginas de Twitter y Facebook también,
+
+710
+00:12:34,790 --> 00:12:34,800
+páginas de Twitter y Facebook también,
+ 
+
+711
+00:12:34,800 --> 00:12:36,629
+páginas de Twitter y Facebook también,
+gracias por ver, cuídate y nos
+
+712
+00:12:36,629 --> 00:12:36,639
+gracias por ver, cuídate y nos
+ 
+
+713
+00:12:36,639 --> 00:12:37,990
+gracias por ver, cuídate y nos
+vemos pronto con más conceptos
+
+714
+00:12:37,990 --> 00:12:38,000
+vemos pronto con más conceptos
+ 
+
+715
+00:12:38,000 --> 00:12:42,480
+vemos pronto con más conceptos
+básicos de Pathfinder
+

@@ -1,0 +1,2694 @@
+1
+00:00:01,240 --> 00:00:03,429
+
+Hola y bienvenidos a Basics for Gamers
+
+2
+00:00:03,429 --> 00:00:03,439
+Hola y bienvenidos a Basics for Gamers
+ 
+
+3
+00:00:03,439 --> 00:00:07,150
+Hola y bienvenidos a Basics for Gamers
+presenta Magic y Pathfinder parte
+
+4
+00:00:07,150 --> 00:00:07,160
+presenta Magic y Pathfinder parte
+ 
+
+5
+00:00:07,160 --> 00:00:09,589
+presenta Magic y Pathfinder parte
+ocho. El último tipo especial de hechizo
+
+6
+00:00:09,589 --> 00:00:09,599
+ocho. El último tipo especial de hechizo
+ 
+
+7
+00:00:09,599 --> 00:00:12,030
+ocho. El último tipo especial de hechizo
+que queremos discutir son los rituales. Los
+
+8
+00:00:12,030 --> 00:00:12,040
+que queremos discutir son los rituales. Los
+ 
+
+9
+00:00:12,040 --> 00:00:13,990
+que queremos discutir son los rituales. Los
+rituales son hechizos que pueden ser lanzados por
+
+10
+00:00:13,990 --> 00:00:14,000
+rituales son hechizos que pueden ser lanzados por
+ 
+
+11
+00:00:14,000 --> 00:00:16,230
+rituales son hechizos que pueden ser lanzados por
+cualquiera, independientemente de la clase del personaje, pero
+
+12
+00:00:16,230 --> 00:00:16,240
+cualquiera, independientemente de la clase del personaje, pero
+ 
+
+13
+00:00:16,240 --> 00:00:18,630
+cualquiera, independientemente de la clase del personaje, pero
+tienen un costo mayor de lo habitual. Para lanzar un
+
+14
+00:00:18,630 --> 00:00:18,640
+tienen un costo mayor de lo habitual. Para lanzar un
+ 
+
+15
+00:00:18,640 --> 00:00:21,230
+tienen un costo mayor de lo habitual. Para lanzar un
+ritual, primero debes aprenderlo. Aprender
+
+16
+00:00:21,230 --> 00:00:21,240
+ritual, primero debes aprenderlo. Aprender
+ 
+
+17
+00:00:21,240 --> 00:00:22,910
+ritual, primero debes aprenderlo. Aprender
+un ritual no cuenta para la
+
+18
+00:00:22,910 --> 00:00:22,920
+un ritual no cuenta para la
+ 
+
+19
+00:00:22,920 --> 00:00:24,470
+un ritual no cuenta para la
+cantidad de hechizos que puedes conocer
+
+20
+00:00:24,470 --> 00:00:24,480
+cantidad de hechizos que puedes conocer
+ 
+
+21
+00:00:24,480 --> 00:00:26,750
+cantidad de hechizos que puedes conocer
+de tu clase u otras fuentes, ni para el
+
+22
+00:00:26,750 --> 00:00:26,760
+de tu clase u otras fuentes, ni para el
+ 
+
+23
+00:00:26,760 --> 00:00:28,550
+de tu clase u otras fuentes, ni para el
+descrédito. Lanzar un ritual consume un
+
+24
+00:00:28,550 --> 00:00:28,560
+descrédito. Lanzar un ritual consume un
+ 
+
+25
+00:00:28,560 --> 00:00:30,550
+descrédito. Lanzar un ritual consume un
+espacio de hechizo, pero debes cumplir con un
+
+26
+00:00:30,550 --> 00:00:30,560
+espacio de hechizo, pero debes cumplir con un
+ 
+
+27
+00:00:30,560 --> 00:00:32,670
+espacio de hechizo, pero debes cumplir con un
+requisito de nivel para lanzarlo y, como los
+
+28
+00:00:32,670 --> 00:00:32,680
+requisito de nivel para lanzarlo y, como los
+ 
+
+29
+00:00:32,680 --> 00:00:34,709
+requisito de nivel para lanzarlo y, como los
+niveles de los hechizos no son iguales a los
+
+30
+00:00:34,709 --> 00:00:34,719
+niveles de los hechizos no son iguales a los
+ 
+
+31
+00:00:34,719 --> 00:00:36,590
+niveles de los hechizos no son iguales a los
+niveles de los personajes, esto puede ser más complicado de lo que
+
+32
+00:00:36,590 --> 00:00:36,600
+niveles de los personajes, esto puede ser más complicado de lo que
+ 
+
+33
+00:00:36,600 --> 00:00:38,990
+niveles de los personajes, esto puede ser más complicado de lo que
+esperas. Por ejemplo, comulgar
+
+34
+00:00:38,990 --> 00:00:39,000
+esperas. Por ejemplo, comulgar
+ 
+
+35
+00:00:39,000 --> 00:00:41,470
+esperas. Por ejemplo, comulgar
+con la naturaleza es un ritual de sexto nivel, pero
+
+36
+00:00:41,470 --> 00:00:41,480
+con la naturaleza es un ritual de sexto nivel, pero
+ 
+
+37
+00:00:41,480 --> 00:00:44,069
+con la naturaleza es un ritual de sexto nivel, pero
+debes tener al menos el nivel 11 para poder
+
+38
+00:00:44,069 --> 00:00:44,079
+debes tener al menos el nivel 11 para poder
+ 
+
+39
+00:00:44,079 --> 00:00:46,990
+debes tener al menos el nivel 11 para poder
+lanzarlo. El nivel de un ritual no puede ser
+
+40
+00:00:46,990 --> 00:00:47,000
+lanzarlo. El nivel de un ritual no puede ser
+ 
+
+41
+00:00:47,000 --> 00:00:49,110
+lanzarlo. El nivel de un ritual no puede ser
+mayor que la mitad de tu nivel redondeado hacia arriba
+
+42
+00:00:49,110 --> 00:00:49,120
+mayor que la mitad de tu nivel redondeado hacia arriba
+ 
+
+43
+00:00:49,120 --> 00:00:51,630
+mayor que la mitad de tu nivel redondeado hacia arriba
+para que puedas lanzarlo. Y nuevamente,
+
+44
+00:00:51,630 --> 00:00:51,640
+para que puedas lanzarlo. Y nuevamente,
+ 
+
+45
+00:00:51,640 --> 00:00:54,349
+para que puedas lanzarlo. Y nuevamente,
+cualquier clase puede lanzar un ritual, pero si
+
+46
+00:00:54,349 --> 00:00:54,359
+cualquier clase puede lanzar un ritual, pero si
+ 
+
+47
+00:00:54,359 --> 00:00:55,869
+cualquier clase puede lanzar un ritual, pero si
+eres miembro de una de las
+
+48
+00:00:55,869 --> 00:00:55,879
+eres miembro de una de las
+ 
+
+49
+00:00:55,879 --> 00:00:58,069
+eres miembro de una de las
+clases principales de lanzamiento de hechizos, esto es fácil de
+
+50
+00:00:58,069 --> 00:00:58,079
+clases principales de lanzamiento de hechizos, esto es fácil de
+ 
+
+51
+00:00:58,079 --> 00:00:59,630
+clases principales de lanzamiento de hechizos, esto es fácil de
+recordar porque el
+
+52
+00:00:59,630 --> 00:00:59,640
+recordar porque el
+ 
+
+53
+00:00:59,640 --> 00:01:01,790
+recordar porque el
+ritual de nivel más alto que puedes lanzar será del
+
+54
+00:01:01,790 --> 00:01:01,800
+ritual de nivel más alto que puedes lanzar será del
+ 
+
+55
+00:01:01,800 --> 00:01:04,030
+ritual de nivel más alto que puedes lanzar será del
+mismo nivel que tu espacio de hechizo de nivel más alto.
+
+56
+00:01:04,030 --> 00:01:04,040
+mismo nivel que tu espacio de hechizo de nivel más alto.
+ 
+
+57
+00:01:04,040 --> 00:01:06,830
+mismo nivel que tu espacio de hechizo de nivel más alto.
+Luego vemos los rituales lanzados y los
+
+58
+00:01:06,830 --> 00:01:06,840
+Luego vemos los rituales lanzados y los
+ 
+
+59
+00:01:06,840 --> 00:01:09,429
+Luego vemos los rituales lanzados y los
+requisitos de costo. Estos funcionan casi de
+
+60
+00:01:09,429 --> 00:01:09,439
+requisitos de costo. Estos funcionan casi de
+ 
+
+61
+00:01:09,439 --> 00:01:10,910
+requisitos de costo. Estos funcionan casi de
+manera idéntica a los hechizos que hemos
+
+62
+00:01:10,910 --> 00:01:10,920
+manera idéntica a los hechizos que hemos
+ 
+
+63
+00:01:10,920 --> 00:01:13,230
+manera idéntica a los hechizos que hemos
+ya discutido excepto que el tiempo de lanzamiento es
+
+64
+00:01:13,230 --> 00:01:13,240
+ya discutido excepto que el tiempo de lanzamiento es
+ 
+
+65
+00:01:13,240 --> 00:01:16,030
+ya discutido excepto que el tiempo de lanzamiento es
+siempre al menos 1 hora y tal vez varios
+
+66
+00:01:16,030 --> 00:01:16,040
+siempre al menos 1 hora y tal vez varios
+ 
+
+67
+00:01:16,040 --> 00:01:19,070
+siempre al menos 1 hora y tal vez varios
+días un día de lanzamiento ritual es de 8
+
+68
+00:01:19,070 --> 00:01:19,080
+días un día de lanzamiento ritual es de 8
+ 
+
+69
+00:01:19,080 --> 00:01:21,670
+días un día de lanzamiento ritual es de 8
+horas, por lo que habrá tiempo para descansar y
+
+70
+00:01:21,670 --> 00:01:21,680
+horas, por lo que habrá tiempo para descansar y
+ 
+
+71
+00:01:21,680 --> 00:01:23,670
+horas, por lo que habrá tiempo para descansar y
+alimentarse durante el lanzamiento, pero no
+
+72
+00:01:23,670 --> 00:01:23,680
+alimentarse durante el lanzamiento, pero no
+ 
+
+73
+00:01:23,680 --> 00:01:25,510
+alimentarse durante el lanzamiento, pero no
+suficiente tiempo libre para que alguien realice
+
+74
+00:01:25,510 --> 00:01:25,520
+suficiente tiempo libre para que alguien realice
+ 
+
+75
+00:01:25,520 --> 00:01:27,830
+suficiente tiempo libre para que alguien realice
+otra actividad de tiempo libre además de
+
+76
+00:01:27,830 --> 00:01:27,840
+otra actividad de tiempo libre además de
+ 
+
+77
+00:01:27,840 --> 00:01:30,190
+otra actividad de tiempo libre además de
+lanzar el ritual cuando un ritual R
+
+78
+00:01:30,190 --> 00:01:30,200
+lanzar el ritual cuando un ritual R
+ 
+
+79
+00:01:30,200 --> 00:01:32,429
+lanzar el ritual cuando un ritual R
+requiere varios días para lanzar y tiene
+
+80
+00:01:32,429 --> 00:01:32,439
+requiere varios días para lanzar y tiene
+ 
+
+81
+00:01:32,439 --> 00:01:34,830
+requiere varios días para lanzar y tiene
+varios lanzadores, se asume que se
+
+82
+00:01:34,830 --> 00:01:34,840
+varios lanzadores, se asume que se
+ 
+
+83
+00:01:34,840 --> 00:01:36,870
+varios lanzadores, se asume que se
+rompen y cambian para que siempre haya
+
+84
+00:01:36,870 --> 00:01:36,880
+rompen y cambian para que siempre haya
+ 
+
+85
+00:01:36,880 --> 00:01:38,630
+rompen y cambian para que siempre haya
+alguien que mantenga el proceso en marcha
+
+86
+00:01:38,630 --> 00:01:38,640
+alguien que mantenga el proceso en marcha
+ 
+
+87
+00:01:38,640 --> 00:01:41,749
+alguien que mantenga el proceso en marcha
+cantando o meditando tampoco se
+
+88
+00:01:41,749 --> 00:01:41,759
+cantando o meditando tampoco se
+ 
+
+89
+00:01:41,759 --> 00:01:43,550
+cantando o meditando tampoco se
+requiere una lista de rituales Componentes de hechizos en su
+
+90
+00:01:43,550 --> 00:01:43,560
+requiere una lista de rituales Componentes de hechizos en su
+ 
+
+91
+00:01:43,560 --> 00:01:45,870
+requiere una lista de rituales Componentes de hechizos en su
+entrada de lanzamiento y eso se debe a que todos los
+
+92
+00:01:45,870 --> 00:01:45,880
+entrada de lanzamiento y eso se debe a que todos los
+ 
+
+93
+00:01:45,880 --> 00:01:48,429
+entrada de lanzamiento y eso se debe a que todos los
+rituales requieren componentes materiales semáticos y
+
+94
+00:01:48,429 --> 00:01:48,439
+rituales requieren componentes materiales semáticos y
+ 
+
+95
+00:01:48,439 --> 00:01:49,389
+rituales requieren componentes materiales semáticos y
+verbales
+
+96
+00:01:49,389 --> 00:01:49,399
+verbales
+ 
+
+97
+00:01:49,399 --> 00:01:52,069
+verbales
+una entrada de costo de rituales muestra
+
+98
+00:01:52,069 --> 00:01:52,079
+una entrada de costo de rituales muestra
+ 
+
+99
+00:01:52,079 --> 00:01:54,350
+una entrada de costo de rituales muestra
+recursos especiales que deben proporcionarse
+
+100
+00:01:54,350 --> 00:01:54,360
+recursos especiales que deben proporcionarse
+ 
+
+101
+00:01:54,360 --> 00:01:56,429
+recursos especiales que deben proporcionarse
+en este caso lanzar comunión con la naturaleza
+
+102
+00:01:56,429 --> 00:01:56,439
+en este caso lanzar comunión con la naturaleza
+ 
+
+103
+00:01:56,439 --> 00:01:59,270
+en este caso lanzar comunión con la naturaleza
+requiere 60 de oro en incienso estos
+
+104
+00:01:59,270 --> 00:01:59,280
+requiere 60 de oro en incienso estos
+ 
+
+105
+00:01:59,280 --> 00:02:01,389
+requiere 60 de oro en incienso estos
+costos deben proporcionarse antes del final
+
+106
+00:02:01,389 --> 00:02:01,399
+costos deben proporcionarse antes del final
+ 
+
+107
+00:02:01,399 --> 00:02:03,709
+costos deben proporcionarse antes del final
+del ritual cuando se realiza una prueba de habilidad
+
+108
+00:02:03,709 --> 00:02:03,719
+del ritual cuando se realiza una prueba de habilidad
+ 
+
+109
+00:02:03,719 --> 00:02:05,870
+del ritual cuando se realiza una prueba de habilidad
+no se pierden recursos si el ritual se
+
+110
+00:02:05,870 --> 00:02:05,880
+no se pierden recursos si el ritual se
+ 
+
+111
+00:02:05,880 --> 00:02:07,830
+no se pierden recursos si el ritual se
+interrumpe antes de
+
+112
+00:02:07,830 --> 00:02:07,840
+interrumpe antes de
+ 
+
+113
+00:02:07,840 --> 00:02:09,990
+interrumpe antes de
+completarse a continuación, hablemos de la
+
+114
+00:02:09,990 --> 00:02:10,000
+completarse a continuación, hablemos de la
+ 
+
+115
+00:02:10,000 --> 00:02:13,670
+completarse a continuación, hablemos de la
+línea que dice lanzadores secundarios uno una
+
+116
+00:02:13,670 --> 00:02:13,680
+línea que dice lanzadores secundarios uno una
+ 
+
+117
+00:02:13,680 --> 00:02:15,150
+línea que dice lanzadores secundarios uno una
+diferencia clave entre los rituales y los
+
+118
+00:02:15,150 --> 00:02:15,160
+diferencia clave entre los rituales y los
+ 
+
+119
+00:02:15,160 --> 00:02:17,550
+diferencia clave entre los rituales y los
+hechizos normales es que muchos rituales requieren
+
+120
+00:02:17,550 --> 00:02:17,560
+hechizos normales es que muchos rituales requieren
+ 
+
+121
+00:02:17,560 --> 00:02:20,190
+hechizos normales es que muchos rituales requieren
+más de un lanzador todos requieren
+
+122
+00:02:20,190 --> 00:02:20,200
+más de un lanzador todos requieren
+ 
+
+123
+00:02:20,200 --> 00:02:23,430
+más de un lanzador todos requieren
+un lanzador principal que lidere el ritual
+
+124
+00:02:23,430 --> 00:02:23,440
+un lanzador principal que lidere el ritual
+ 
+
+125
+00:02:23,440 --> 00:02:25,509
+un lanzador principal que lidere el ritual
+y cada bloque de estadísticas también puede enumerar un
+
+126
+00:02:25,509 --> 00:02:25,519
+y cada bloque de estadísticas también puede enumerar un
+ 
+
+127
+00:02:25,519 --> 00:02:28,229
+y cada bloque de estadísticas también puede enumerar un
+número requerido de lanzadores secundarios en
+
+128
+00:02:28,229 --> 00:02:28,239
+número requerido de lanzadores secundarios en
+ 
+
+129
+00:02:28,239 --> 00:02:30,030
+número requerido de lanzadores secundarios en
+el caso de la comunión con la naturaleza
+
+130
+00:02:30,030 --> 00:02:30,040
+el caso de la comunión con la naturaleza
+ 
+
+131
+00:02:30,040 --> 00:02:32,509
+el caso de la comunión con la naturaleza
+requiere un lanzador principal y un
+
+132
+00:02:32,509 --> 00:02:32,519
+requiere un lanzador principal y un
+ 
+
+133
+00:02:32,519 --> 00:02:35,589
+requiere un lanzador principal y un
+lanzador secundario solo el lanzador principal
+
+134
+00:02:35,589 --> 00:02:35,599
+lanzador secundario solo el lanzador principal
+ 
+
+135
+00:02:35,599 --> 00:02:37,589
+lanzador secundario solo el lanzador principal
+necesita cumplir con los requisitos de lanzamiento
+
+136
+00:02:37,589 --> 00:02:37,599
+necesita cumplir con los requisitos de lanzamiento
+ 
+
+137
+00:02:37,599 --> 00:02:39,750
+necesita cumplir con los requisitos de lanzamiento
+y los lanzadores secundarios son básicamente
+
+138
+00:02:39,750 --> 00:02:39,760
+y los lanzadores secundarios son básicamente
+ 
+
+139
+00:02:39,760 --> 00:02:42,229
+y los lanzadores secundarios son básicamente
+ayudantes por ejemplo la comunión con la naturaleza
+
+140
+00:02:42,229 --> 00:02:42,239
+ayudantes por ejemplo la comunión con la naturaleza
+ 
+
+141
+00:02:42,239 --> 00:02:45,030
+ayudantes por ejemplo la comunión con la naturaleza
+es un ritual de sexto nivel nuevamente esto significa que
+
+142
+00:02:45,030 --> 00:02:45,040
+es un ritual de sexto nivel nuevamente esto significa que
+ 
+
+143
+00:02:45,040 --> 00:02:47,949
+es un ritual de sexto nivel nuevamente esto significa que
+el lanzador principal debe tener al menos
+
+144
+00:02:47,949 --> 00:02:47,959
+el lanzador principal debe tener al menos
+ 
+
+145
+00:02:47,959 --> 00:02:50,430
+el lanzador principal debe tener al menos
+nivel 11 para dirigir el ritual y debe haber
+
+146
+00:02:50,430 --> 00:02:50,440
+nivel 11 para dirigir el ritual y debe haber
+ 
+
+147
+00:02:50,440 --> 00:02:52,910
+nivel 11 para dirigir el ritual y debe haber
+aprendido el ritual de algún lugar,
+
+148
+00:02:52,910 --> 00:02:52,920
+aprendido el ritual de algún lugar,
+ 
+
+149
+00:02:52,920 --> 00:02:54,750
+aprendido el ritual de algún lugar,
+pero el personaje secundario puede ser de cualquier
+
+150
+00:02:54,750 --> 00:02:54,760
+pero el personaje secundario puede ser de cualquier
+ 
+
+151
+00:02:54,760 --> 00:02:56,390
+pero el personaje secundario puede ser de cualquier
+nivel y no necesita haber aprendido
+
+152
+00:02:56,390 --> 00:02:56,400
+nivel y no necesita haber aprendido
+ 
+
+153
+00:02:56,400 --> 00:02:59,190
+nivel y no necesita haber aprendido
+el ritual otra forma en que los rituales se
+
+154
+00:02:59,190 --> 00:02:59,200
+el ritual otra forma en que los rituales se
+ 
+
+155
+00:02:59,200 --> 00:03:01,430
+el ritual otra forma en que los rituales se
+diferencian de los hechizos regulares es que cada uno
+
+156
+00:03:01,430 --> 00:03:01,440
+diferencian de los hechizos regulares es que cada uno
+ 
+
+157
+00:03:01,440 --> 00:03:03,910
+diferencian de los hechizos regulares es que cada uno
+tiene al menos un requisito de habilidad
+
+158
+00:03:03,910 --> 00:03:03,920
+tiene al menos un requisito de habilidad
+ 
+
+159
+00:03:03,920 --> 00:03:06,190
+tiene al menos un requisito de habilidad
+lanzar un ritual requerirá al menos
+
+160
+00:03:06,190 --> 00:03:06,200
+lanzar un ritual requerirá al menos
+ 
+
+161
+00:03:06,200 --> 00:03:08,509
+lanzar un ritual requerirá al menos
+una prueba de habilidad que a menudo tiene una
+
+162
+00:03:08,509 --> 00:03:08,519
+una prueba de habilidad que a menudo tiene una
+ 
+
+163
+00:03:08,519 --> 00:03:10,229
+una prueba de habilidad que a menudo tiene una
+competencia mínima que también debes cumplir
+
+164
+00:03:10,229 --> 00:03:10,239
+competencia mínima que también debes cumplir
+ 
+
+165
+00:03:10,239 --> 00:03:12,789
+competencia mínima que también debes cumplir
+para la comunión con la naturaleza vemos que
+
+166
+00:03:12,789 --> 00:03:12,799
+para la comunión con la naturaleza vemos que
+ 
+
+167
+00:03:12,799 --> 00:03:15,309
+para la comunión con la naturaleza vemos que
+tiene una prueba primaria de naturaleza en competencia maestra
+
+168
+00:03:15,309 --> 00:03:15,319
+tiene una prueba primaria de naturaleza en competencia maestra
+ 
+
+169
+00:03:15,319 --> 00:03:17,550
+tiene una prueba primaria de naturaleza en competencia maestra
+y una prueba secundaria de
+
+170
+00:03:17,550 --> 00:03:17,560
+y una prueba secundaria de
+ 
+
+171
+00:03:17,560 --> 00:03:19,509
+y una prueba secundaria de
+naturaleza sin competencia mínima
+
+172
+00:03:19,509 --> 00:03:19,519
+naturaleza sin competencia mínima
+ 
+
+173
+00:03:19,519 --> 00:03:22,070
+naturaleza sin competencia mínima
+enumerada en absoluto lo que esto significa es que al
+
+174
+00:03:22,070 --> 00:03:22,080
+enumerada en absoluto lo que esto significa es que al
+ 
+
+175
+00:03:22,080 --> 00:03:24,430
+enumerada en absoluto lo que esto significa es que al
+final del tiempo de lanzamiento de un día el
+
+176
+00:03:24,430 --> 00:03:24,440
+final del tiempo de lanzamiento de un día el
+ 
+
+177
+00:03:24,440 --> 00:03:26,509
+final del tiempo de lanzamiento de un día el
+lanzador principal que debe tener al menos
+
+178
+00:03:26,509 --> 00:03:26,519
+lanzador principal que debe tener al menos
+ 
+
+179
+00:03:26,519 --> 00:03:29,229
+lanzador principal que debe tener al menos
+competencia maestra en naturaleza debe realizar una
+
+180
+00:03:29,229 --> 00:03:29,239
+competencia maestra en naturaleza debe realizar una
+ 
+
+181
+00:03:29,239 --> 00:03:30,949
+competencia maestra en naturaleza debe realizar una
+prueba de habilidad de naturaleza para determinar el
+
+182
+00:03:30,949 --> 00:03:30,959
+prueba de habilidad de naturaleza para determinar el
+ 
+
+183
+00:03:30,959 --> 00:03:33,509
+prueba de habilidad de naturaleza para determinar el
+éxito o el fracaso del ritual y el
+
+184
+00:03:33,509 --> 00:03:33,519
+éxito o el fracaso del ritual y el
+ 
+
+185
+00:03:33,519 --> 00:03:36,470
+éxito o el fracaso del ritual y el
+lanzador secundario también debe realizar una
+
+186
+00:03:36,470 --> 00:03:36,480
+lanzador secundario también debe realizar una
+ 
+
+187
+00:03:36,480 --> 00:03:38,630
+lanzador secundario también debe realizar una
+prueba de habilidad de naturaleza, pero no hay una
+
+188
+00:03:38,630 --> 00:03:38,640
+prueba de habilidad de naturaleza, pero no hay una
+ 
+
+189
+00:03:38,640 --> 00:03:40,509
+prueba de habilidad de naturaleza, pero no hay una
+competencia mínima para ellos.  No lo veo
+
+190
+00:03:40,509 --> 00:03:40,519
+competencia mínima para ellos.  No lo veo
+ 
+
+191
+00:03:40,519 --> 00:03:42,190
+competencia mínima para ellos.  No lo veo
+explicado en las reglas, pero supongo que
+
+192
+00:03:42,190 --> 00:03:42,200
+explicado en las reglas, pero supongo que
+ 
+
+193
+00:03:42,200 --> 00:03:43,630
+explicado en las reglas, pero supongo que
+esto significa que pueden intentar
+
+194
+00:03:43,630 --> 00:03:43,640
+esto significa que pueden intentar
+ 
+
+195
+00:03:43,640 --> 00:03:46,309
+esto significa que pueden intentar
+verificar sin entrenamiento. Hablaremos más sobre
+
+196
+00:03:46,309 --> 00:03:46,319
+verificar sin entrenamiento. Hablaremos más sobre
+ 
+
+197
+00:03:46,319 --> 00:03:49,309
+verificar sin entrenamiento. Hablaremos más sobre
+este proceso en un minuto. Esto es
+
+198
+00:03:49,309 --> 00:03:49,319
+este proceso en un minuto. Esto es
+ 
+
+199
+00:03:49,319 --> 00:03:51,750
+este proceso en un minuto. Esto es
+bastante simple con un ritual como Comunión
+
+200
+00:03:51,750 --> 00:03:51,760
+bastante simple con un ritual como Comunión
+ 
+
+201
+00:03:51,760 --> 00:03:53,750
+bastante simple con un ritual como Comunión
+con la naturaleza que tiene un
+
+202
+00:03:53,750 --> 00:03:53,760
+con la naturaleza que tiene un
+ 
+
+203
+00:03:53,760 --> 00:03:56,390
+con la naturaleza que tiene un
+lanzador secundario y una verificación secundaria, pero
+
+204
+00:03:56,390 --> 00:03:56,400
+lanzador secundario y una verificación secundaria, pero
+ 
+
+205
+00:03:56,400 --> 00:03:58,350
+lanzador secundario y una verificación secundaria, pero
+veamos algo un poco más complejo
+
+206
+00:03:58,350 --> 00:03:58,360
+veamos algo un poco más complejo
+ 
+
+207
+00:03:58,360 --> 00:04:00,350
+veamos algo un poco más complejo
+como Primal.
+
+208
+00:04:00,350 --> 00:04:00,360
+como Primal.
+ 
+
+209
+00:04:00,360 --> 00:04:02,470
+como Primal.
+Este ritual requiere cuatro
+
+210
+00:04:02,470 --> 00:04:02,480
+Este ritual requiere cuatro
+ 
+
+211
+00:04:02,480 --> 00:04:05,830
+Este ritual requiere cuatro
+lanzadores secundarios y artesanía, diplomacia y
+
+212
+00:04:05,830 --> 00:04:05,840
+lanzadores secundarios y artesanía, diplomacia y
+ 
+
+213
+00:04:05,840 --> 00:04:09,069
+lanzadores secundarios y artesanía, diplomacia y
+supervivencia como verificaciones secundarias.
+
+214
+00:04:09,069 --> 00:04:09,079
+supervivencia como verificaciones secundarias.
+ 
+
+215
+00:04:09,079 --> 00:04:10,789
+supervivencia como verificaciones secundarias.
+Lo que esto significa es que de esos cuatro
+
+216
+00:04:10,789 --> 00:04:10,799
+Lo que esto significa es que de esos cuatro
+ 
+
+217
+00:04:10,799 --> 00:04:13,190
+Lo que esto significa es que de esos cuatro
+lanzadores secundarios, uno de ellos necesitará
+
+218
+00:04:13,190 --> 00:04:13,200
+lanzadores secundarios, uno de ellos necesitará
+ 
+
+219
+00:04:13,200 --> 00:04:15,830
+lanzadores secundarios, uno de ellos necesitará
+hacer una verificación de habilidad de artesanía, uno
+
+220
+00:04:15,830 --> 00:04:15,840
+hacer una verificación de habilidad de artesanía, uno
+ 
+
+221
+00:04:15,840 --> 00:04:18,830
+hacer una verificación de habilidad de artesanía, uno
+hará una verificación de diplomacia y uno hará
+
+222
+00:04:18,830 --> 00:04:18,840
+hará una verificación de diplomacia y uno hará
+ 
+
+223
+00:04:18,840 --> 00:04:21,670
+hará una verificación de diplomacia y uno hará
+una verificación de habilidad de supervivencia. Cada
+
+224
+00:04:21,670 --> 00:04:21,680
+una verificación de habilidad de supervivencia. Cada
+ 
+
+225
+00:04:21,680 --> 00:04:24,590
+una verificación de habilidad de supervivencia. Cada
+lanzador secundario solo hará una verificación, no todas
+
+226
+00:04:24,590 --> 00:04:24,600
+lanzador secundario solo hará una verificación, no todas
+ 
+
+227
+00:04:24,600 --> 00:04:27,110
+lanzador secundario solo hará una verificación, no todas
+las verificaciones, y el cuarto personaje
+
+228
+00:04:27,110 --> 00:04:27,120
+las verificaciones, y el cuarto personaje
+ 
+
+229
+00:04:27,120 --> 00:04:28,950
+las verificaciones, y el cuarto personaje
+no necesitará hacer ninguna verificación de habilidad como
+
+230
+00:04:28,950 --> 00:04:28,960
+no necesitará hacer ninguna verificación de habilidad como
+ 
+
+231
+00:04:28,960 --> 00:04:30,909
+no necesitará hacer ninguna verificación de habilidad como
+parte de este ritual.
+
+232
+00:04:30,909 --> 00:04:30,919
+parte de este ritual.
+ 
+
+233
+00:04:30,919 --> 00:04:33,029
+parte de este ritual.
+Esas son todas las piezas del
+
+234
+00:04:33,029 --> 00:04:33,039
+Esas son todas las piezas del
+ 
+
+235
+00:04:33,039 --> 00:04:35,350
+Esas son todas las piezas del
+bloque de estadísticas del ritual. Ahora, juntemos todo
+
+236
+00:04:35,350 --> 00:04:35,360
+bloque de estadísticas del ritual. Ahora, juntemos todo
+ 
+
+237
+00:04:35,360 --> 00:04:38,790
+bloque de estadísticas del ritual. Ahora, juntemos todo
+y repasemos el
+
+238
+00:04:38,790 --> 00:04:38,800
+y repasemos el
+ 
+
+239
+00:04:38,800 --> 00:04:41,790
+y repasemos el
+proceso primero en el Paso Uno, el
+
+240
+00:04:41,790 --> 00:04:41,800
+proceso primero en el Paso Uno, el
+ 
+
+241
+00:04:41,800 --> 00:04:44,590
+proceso primero en el Paso Uno, el
+Lanzador principal debe aprender el ritual. Esto no se puede
+
+242
+00:04:44,590 --> 00:04:44,600
+Lanzador principal debe aprender el ritual. Esto no se puede
+ 
+
+243
+00:04:44,600 --> 00:04:46,830
+Lanzador principal debe aprender el ritual. Esto no se puede
+seleccionar como un hechizo aprendido libremente
+
+244
+00:04:46,830 --> 00:04:46,840
+seleccionar como un hechizo aprendido libremente
+ 
+
+245
+00:04:46,840 --> 00:04:49,230
+seleccionar como un hechizo aprendido libremente
+al subir de nivel y debe adquirirse de
+
+246
+00:04:49,230 --> 00:04:49,240
+al subir de nivel y debe adquirirse de
+ 
+
+247
+00:04:49,240 --> 00:04:51,710
+al subir de nivel y debe adquirirse de
+alguna manera a través del juego. Todos los
+
+248
+00:04:51,710 --> 00:04:51,720
+alguna manera a través del juego. Todos los
+ 
+
+249
+00:04:51,720 --> 00:04:53,790
+alguna manera a través del juego. Todos los
+rituales son al menos de rareza poco común
+
+250
+00:04:53,790 --> 00:04:53,800
+rituales son al menos de rareza poco común
+ 
+
+251
+00:04:53,800 --> 00:04:55,790
+rituales son al menos de rareza poco común
+como este, por lo que es poco probable que sea
+
+252
+00:04:55,790 --> 00:04:55,800
+como este, por lo que es poco probable que sea
+ 
+
+253
+00:04:55,800 --> 00:04:57,629
+como este, por lo que es poco probable que sea
+disponible para comprar, pero podría
+
+254
+00:04:57,629 --> 00:04:57,639
+disponible para comprar, pero podría
+ 
+
+255
+00:04:57,639 --> 00:05:00,270
+disponible para comprar, pero podría
+proporcionarse como una recompensa de aventura o ser
+
+256
+00:05:00,270 --> 00:05:00,280
+proporcionarse como una recompensa de aventura o ser
+ 
+
+257
+00:05:00,280 --> 00:05:01,629
+proporcionarse como una recompensa de aventura o ser
+enseñado por un
+
+258
+00:05:01,629 --> 00:05:01,639
+enseñado por un
+ 
+
+259
+00:05:01,639 --> 00:05:04,590
+enseñado por un
+PNJ, luego confirme que hay suficientes
+
+260
+00:05:04,590 --> 00:05:04,600
+PNJ, luego confirme que hay suficientes
+ 
+
+261
+00:05:04,600 --> 00:05:07,230
+PNJ, luego confirme que hay suficientes
+lanzadores. Este ritual requiere un
+
+262
+00:05:07,230 --> 00:05:07,240
+lanzadores. Este ritual requiere un
+ 
+
+263
+00:05:07,240 --> 00:05:09,350
+lanzadores. Este ritual requiere un
+Lanzador principal que debe ser al menos Maestro
+
+264
+00:05:09,350 --> 00:05:09,360
+Lanzador principal que debe ser al menos Maestro
+ 
+
+265
+00:05:09,360 --> 00:05:11,390
+Lanzador principal que debe ser al menos Maestro
+en naturaleza y también
+
+266
+00:05:11,390 --> 00:05:11,400
+en naturaleza y también
+ 
+
+267
+00:05:11,400 --> 00:05:14,550
+en naturaleza y también
+requiere un Lanzador secundario. Una vez que se
+
+268
+00:05:14,550 --> 00:05:14,560
+requiere un Lanzador secundario. Una vez que se
+ 
+
+269
+00:05:14,560 --> 00:05:16,790
+requiere un Lanzador secundario. Una vez que se
+cumplen esos requisitos, el Lanzador principal
+
+270
+00:05:16,790 --> 00:05:16,800
+cumplen esos requisitos, el Lanzador principal
+ 
+
+271
+00:05:16,800 --> 00:05:18,670
+cumplen esos requisitos, el Lanzador principal
+decide si desea intensificar el
+
+272
+00:05:18,670 --> 00:05:18,680
+decide si desea intensificar el
+ 
+
+273
+00:05:18,680 --> 00:05:21,629
+decide si desea intensificar el
+ritual. Los lanzadores pueden intensificar los rituales
+
+274
+00:05:21,629 --> 00:05:21,639
+ritual. Los lanzadores pueden intensificar los rituales
+ 
+
+275
+00:05:21,639 --> 00:05:23,710
+ritual. Los lanzadores pueden intensificar los rituales
+siempre que el nivel final no sea mayor
+
+276
+00:05:23,710 --> 00:05:23,720
+siempre que el nivel final no sea mayor
+ 
+
+277
+00:05:23,720 --> 00:05:26,110
+siempre que el nivel final no sea mayor
+que la mitad de su nivel redondeado hacia arriba. Los
+
+278
+00:05:26,110 --> 00:05:26,120
+que la mitad de su nivel redondeado hacia arriba. Los
+ 
+
+279
+00:05:26,120 --> 00:05:27,590
+que la mitad de su nivel redondeado hacia arriba. Los
+rituales intensificadores pueden tener varios
+
+280
+00:05:27,590 --> 00:05:27,600
+rituales intensificadores pueden tener varios
+ 
+
+281
+00:05:27,600 --> 00:05:30,070
+rituales intensificadores pueden tener varios
+beneficios, pero tenga en cuenta que hacerlo
+
+282
+00:05:30,070 --> 00:05:30,080
+beneficios, pero tenga en cuenta que hacerlo
+ 
+
+283
+00:05:30,080 --> 00:05:32,070
+beneficios, pero tenga en cuenta que hacerlo
+también aumentará la CD de la prueba de habilidad
+
+284
+00:05:32,070 --> 00:05:32,080
+también aumentará la CD de la prueba de habilidad
+ 
+
+285
+00:05:32,080 --> 00:05:33,749
+también aumentará la CD de la prueba de habilidad
+que se requiere para lanzarlo
+
+286
+00:05:33,749 --> 00:05:33,759
+que se requiere para lanzarlo
+ 
+
+287
+00:05:33,759 --> 00:05:36,830
+que se requiere para lanzarlo
+con éxito y luego comienza el lanzamiento.
+
+288
+00:05:36,830 --> 00:05:36,840
+con éxito y luego comienza el lanzamiento.
+ 
+
+289
+00:05:36,840 --> 00:05:39,070
+con éxito y luego comienza el lanzamiento.
+Este ritual requerirá un día de
+
+290
+00:05:39,070 --> 00:05:39,080
+Este ritual requerirá un día de
+ 
+
+291
+00:05:39,080 --> 00:05:41,749
+Este ritual requerirá un día de
+inactividad para lanzarlo asumiendo que el
+
+292
+00:05:41,749 --> 00:05:41,759
+inactividad para lanzarlo asumiendo que el
+ 
+
+293
+00:05:41,759 --> 00:05:43,790
+inactividad para lanzarlo asumiendo que el
+tiempo de lanzamiento se completa sin interrupción
+
+294
+00:05:43,790 --> 00:05:43,800
+tiempo de lanzamiento se completa sin interrupción
+ 
+
+295
+00:05:43,800 --> 00:05:45,749
+tiempo de lanzamiento se completa sin interrupción
+después de un día de inactividad, que
+
+296
+00:05:45,749 --> 00:05:45,759
+después de un día de inactividad, que
+ 
+
+297
+00:05:45,759 --> 00:05:48,870
+después de un día de inactividad, que
+normalmente es de 8 horas, no de 24 horas, es
+
+298
+00:05:48,870 --> 00:05:48,880
+normalmente es de 8 horas, no de 24 horas, es
+ 
+
+299
+00:05:48,880 --> 00:05:51,230
+normalmente es de 8 horas, no de 24 horas, es
+hora de tirar las pruebas de habilidad y saber
+
+300
+00:05:51,230 --> 00:05:51,240
+hora de tirar las pruebas de habilidad y saber
+ 
+
+301
+00:05:51,240 --> 00:05:54,150
+hora de tirar las pruebas de habilidad y saber
+si el ritual es un éxito o no. Este
+
+302
+00:05:54,150 --> 00:05:54,160
+si el ritual es un éxito o no. Este
+ 
+
+303
+00:05:54,160 --> 00:05:56,189
+si el ritual es un éxito o no. Este
+proceso sigue el orden de todas las
+
+304
+00:05:56,189 --> 00:05:56,199
+proceso sigue el orden de todas las
+ 
+
+305
+00:05:56,199 --> 00:05:58,350
+proceso sigue el orden de todas las
+pruebas secundarias se tiran y luego
+
+306
+00:05:58,350 --> 00:05:58,360
+pruebas secundarias se tiran y luego
+ 
+
+307
+00:05:58,360 --> 00:06:01,309
+pruebas secundarias se tiran y luego
+se consume el costo y por último
+
+308
+00:06:01,309 --> 00:06:01,319
+se consume el costo y por último
+ 
+
+309
+00:06:01,319 --> 00:06:04,270
+se consume el costo y por último
+se tira la prueba primaria, por lo que primero el
+
+310
+00:06:04,270 --> 00:06:04,280
+se tira la prueba primaria, por lo que primero el
+ 
+
+311
+00:06:04,280 --> 00:06:06,830
+se tira la prueba primaria, por lo que primero el
+Lanzador secundario debe tirar una prueba de habilidad de naturaleza.
+
+312
+00:06:06,830 --> 00:06:06,840
+Lanzador secundario debe tirar una prueba de habilidad de naturaleza.
+ 
+
+313
+00:06:06,840 --> 00:06:09,510
+Lanzador secundario debe tirar una prueba de habilidad de naturaleza.
+La CD para las pruebas secundarias es la
+
+314
+00:06:09,510 --> 00:06:09,520
+La CD para las pruebas secundarias es la
+ 
+
+315
+00:06:09,520 --> 00:06:12,110
+La CD para las pruebas secundarias es la
+CD estándar para un nivel que es igual al
+
+316
+00:06:12,110 --> 00:06:12,120
+CD estándar para un nivel que es igual al
+ 
+
+317
+00:06:12,120 --> 00:06:14,550
+CD estándar para un nivel que es igual al
+doble del nivel de los rituales.  la
+
+318
+00:06:14,550 --> 00:06:14,560
+doble del nivel de los rituales.  la
+ 
+
+319
+00:06:14,560 --> 00:06:17,469
+doble del nivel de los rituales.  la
+naturaleza es un ritual de sexto nivel, así que lo
+
+320
+00:06:17,469 --> 00:06:17,479
+naturaleza es un ritual de sexto nivel, así que lo
+ 
+
+321
+00:06:17,479 --> 00:06:19,589
+naturaleza es un ritual de sexto nivel, así que lo
+duplicas al nivel 12 y luego lo
+
+322
+00:06:19,589 --> 00:06:19,599
+duplicas al nivel 12 y luego lo
+ 
+
+323
+00:06:19,599 --> 00:06:22,710
+duplicas al nivel 12 y luego lo
+comparas con la tabla de la página 503.
+
+324
+00:06:22,710 --> 00:06:22,720
+comparas con la tabla de la página 503.
+ 
+
+325
+00:06:22,720 --> 00:06:25,430
+comparas con la tabla de la página 503.
+Aquí vemos que la CD estándar para el nivel 12
+
+326
+00:06:25,430 --> 00:06:25,440
+Aquí vemos que la CD estándar para el nivel 12
+ 
+
+327
+00:06:25,440 --> 00:06:28,309
+Aquí vemos que la CD estándar para el nivel 12
+es 30, por lo que ese es el número objetivo que el
+
+328
+00:06:28,309 --> 00:06:28,319
+es 30, por lo que ese es el número objetivo que el
+ 
+
+329
+00:06:28,319 --> 00:06:30,589
+es 30, por lo que ese es el número objetivo que el
+lanzador secundario necesita medir
+
+330
+00:06:30,589 --> 00:06:30,599
+lanzador secundario necesita medir
+ 
+
+331
+00:06:30,599 --> 00:06:32,629
+lanzador secundario necesita medir
+con una prueba de habilidad de naturaleza para tener
+
+332
+00:06:32,629 --> 00:06:32,639
+con una prueba de habilidad de naturaleza para tener
+ 
+
+333
+00:06:32,639 --> 00:06:34,670
+con una prueba de habilidad de naturaleza para tener
+éxito y, aunque no lo veo
+
+334
+00:06:34,670 --> 00:06:34,680
+éxito y, aunque no lo veo
+ 
+
+335
+00:06:34,680 --> 00:06:36,270
+éxito y, aunque no lo veo
+explicado en las reglas, creo que
+
+336
+00:06:36,270 --> 00:06:36,280
+explicado en las reglas, creo que
+ 
+
+337
+00:06:36,280 --> 00:06:38,230
+explicado en las reglas, creo que
+la intención es que si su ritual se
+
+338
+00:06:38,230 --> 00:06:38,240
+la intención es que si su ritual se
+ 
+
+339
+00:06:38,240 --> 00:06:40,550
+la intención es que si su ritual se
+intensifica, calcules estas CD
+
+340
+00:06:40,550 --> 00:06:40,560
+intensifica, calcules estas CD
+ 
+
+341
+00:06:40,560 --> 00:06:43,110
+intensifica, calcules estas CD
+usando su nivel aumentado, así que si la comunión
+
+342
+00:06:43,110 --> 00:06:43,120
+usando su nivel aumentado, así que si la comunión
+ 
+
+343
+00:06:43,120 --> 00:06:44,749
+usando su nivel aumentado, así que si la comunión
+con la naturaleza se intensificara al octavo
+
+344
+00:06:44,749 --> 00:06:44,759
+con la naturaleza se intensificara al octavo
+ 
+
+345
+00:06:44,759 --> 00:06:47,150
+con la naturaleza se intensificara al octavo
+nivel, buscarías el nivel 16 en la
+
+346
+00:06:47,150 --> 00:06:47,160
+nivel, buscarías el nivel 16 en la
+ 
+
+347
+00:06:47,160 --> 00:06:51,070
+nivel, buscarías el nivel 16 en la
+tabla y la CD sería 35. Ahora bien, puede
+
+348
+00:06:51,070 --> 00:06:51,080
+tabla y la CD sería 35. Ahora bien, puede
+ 
+
+349
+00:06:51,080 --> 00:06:53,469
+tabla y la CD sería 35. Ahora bien, puede
+parecer contradictorio que los
+
+350
+00:06:53,469 --> 00:06:53,479
+parecer contradictorio que los
+ 
+
+351
+00:06:53,479 --> 00:06:56,029
+parecer contradictorio que los
+lanzadores secundarios tiren primero, pero
+
+352
+00:06:56,029 --> 00:06:56,039
+lanzadores secundarios tiren primero, pero
+ 
+
+353
+00:06:56,039 --> 00:06:57,990
+lanzadores secundarios tiren primero, pero
+recuerda que el propósito de los
+
+354
+00:06:57,990 --> 00:06:58,000
+recuerda que el propósito de los
+ 
+
+355
+00:06:58,000 --> 00:07:00,909
+recuerda que el propósito de los
+lanzadores secundarios es ayudar y apoyar al
+
+356
+00:07:00,909 --> 00:07:00,919
+lanzadores secundarios es ayudar y apoyar al
+ 
+
+357
+00:07:00,919 --> 00:07:03,550
+lanzadores secundarios es ayudar y apoyar al
+lanzador principal y, según el
+
+358
+00:07:03,550 --> 00:07:03,560
+lanzador principal y, según el
+ 
+
+359
+00:07:03,560 --> 00:07:06,029
+lanzador principal y, según el
+éxito o fracaso relativo de sus pruebas,
+
+360
+00:07:06,029 --> 00:07:06,039
+éxito o fracaso relativo de sus pruebas,
+ 
+
+361
+00:07:06,039 --> 00:07:08,110
+éxito o fracaso relativo de sus pruebas,
+afectará la posibilidad de éxito del lanzador principal, por lo que
+
+362
+00:07:08,110 --> 00:07:08,120
+afectará la posibilidad de éxito del lanzador principal, por lo que
+ 
+
+363
+00:07:08,120 --> 00:07:11,710
+afectará la posibilidad de éxito del lanzador principal, por lo que
+estos deben tirarse primero.
+
+364
+00:07:11,710 --> 00:07:11,720
+estos deben tirarse primero.
+ 
+
+365
+00:07:11,720 --> 00:07:14,270
+estos deben tirarse primero.
+La parte superior de la página 409 muestra los resultados
+
+366
+00:07:14,270 --> 00:07:14,280
+La parte superior de la página 409 muestra los resultados
+ 
+
+367
+00:07:14,280 --> 00:07:17,309
+La parte superior de la página 409 muestra los resultados
+de las pruebas secundarias en su éxito. El
+
+368
+00:07:17,309 --> 00:07:17,319
+de las pruebas secundarias en su éxito. El
+ 
+
+369
+00:07:17,319 --> 00:07:19,510
+de las pruebas secundarias en su éxito. El
+lanzador secundario no proporciona
+
+370
+00:07:19,510 --> 00:07:19,520
+lanzador secundario no proporciona
+ 
+
+371
+00:07:19,520 --> 00:07:21,950
+lanzador secundario no proporciona
+bonificaciones ni penalizaciones a la
+
+372
+00:07:21,950 --> 00:07:21,960
+bonificaciones ni penalizaciones a la
+ 
+
+373
+00:07:21,960 --> 00:07:24,749
+bonificaciones ni penalizaciones a la
+prueba del lanzador principal en un éxito crítico.
+
+374
+00:07:24,749 --> 00:07:24,759
+prueba del lanzador principal en un éxito crítico.
+ 
+
+375
+00:07:24,759 --> 00:07:26,909
+prueba del lanzador principal en un éxito crítico.
+Otorgan la  El lanzador principal recibe una
+
+376
+00:07:26,909 --> 00:07:26,919
+Otorgan la  El lanzador principal recibe una
+ 
+
+377
+00:07:26,919 --> 00:07:29,230
+Otorgan la  El lanzador principal recibe una
+bonificación por circunstancia +2 en su prueba. Si
+
+378
+00:07:29,230 --> 00:07:29,240
+bonificación por circunstancia +2 en su prueba. Si
+ 
+
+379
+00:07:29,240 --> 00:07:31,150
+bonificación por circunstancia +2 en su prueba. Si
+falla, impone una
+
+380
+00:07:31,150 --> 00:07:31,160
+falla, impone una
+ 
+
+381
+00:07:31,160 --> 00:07:33,550
+falla, impone una
+penalización por circunstancia de ce4. Y si
+
+382
+00:07:33,550 --> 00:07:33,560
+penalización por circunstancia de ce4. Y si
+ 
+
+383
+00:07:33,560 --> 00:07:35,710
+penalización por circunstancia de ce4. Y si
+falla críticamente, no solo impone esa
+
+384
+00:07:35,710 --> 00:07:35,720
+falla críticamente, no solo impone esa
+ 
+
+385
+00:07:35,720 --> 00:07:37,909
+falla críticamente, no solo impone esa
+penalización, sino que el resultado final de la prueba principal
+
+386
+00:07:37,909 --> 00:07:37,919
+penalización, sino que el resultado final de la prueba principal
+ 
+
+387
+00:07:37,919 --> 00:07:40,550
+penalización, sino que el resultado final de la prueba principal
+se reduce en un paso, por lo que los
+
+388
+00:07:40,550 --> 00:07:40,560
+se reduce en un paso, por lo que los
+ 
+
+389
+00:07:40,560 --> 00:07:42,150
+se reduce en un paso, por lo que los
+éxitos críticos se convierten en
+
+390
+00:07:42,150 --> 00:07:42,160
+éxitos críticos se convierten en
+ 
+
+391
+00:07:42,160 --> 00:07:44,270
+éxitos críticos se convierten en
+éxitos normales. Los éxitos normales se convierten en
+
+392
+00:07:44,270 --> 00:07:44,280
+éxitos normales. Los éxitos normales se convierten en
+ 
+
+393
+00:07:44,280 --> 00:07:46,830
+éxitos normales. Los éxitos normales se convierten en
+fracasos y los fracasos se convierten en fracasos críticos.
+
+394
+00:07:46,830 --> 00:07:46,840
+fracasos y los fracasos se convierten en fracasos críticos.
+ 
+
+395
+00:07:46,840 --> 00:07:49,550
+fracasos y los fracasos se convierten en fracasos críticos.
+Y tenga en cuenta que las bonificaciones por tipo
+
+396
+00:07:49,550 --> 00:07:49,560
+Y tenga en cuenta que las bonificaciones por tipo
+ 
+
+397
+00:07:49,560 --> 00:07:52,430
+Y tenga en cuenta que las bonificaciones por tipo
+no se acumulan. Por lo tanto, si tiene
+
+398
+00:07:52,430 --> 00:07:52,440
+no se acumulan. Por lo tanto, si tiene
+ 
+
+399
+00:07:52,440 --> 00:07:55,110
+no se acumulan. Por lo tanto, si tiene
+tres personajes secundarios y tiene
+
+400
+00:07:55,110 --> 00:07:55,120
+tres personajes secundarios y tiene
+ 
+
+401
+00:07:55,120 --> 00:07:58,070
+tres personajes secundarios y tiene
+éxito crítico y uno falla, el lanzador principal
+
+402
+00:07:58,070 --> 00:07:58,080
+éxito crítico y uno falla, el lanzador principal
+ 
+
+403
+00:07:58,080 --> 00:08:00,189
+éxito crítico y uno falla, el lanzador principal
+sufrirá una penalización por circunstancia negativa de dos
+
+404
+00:08:00,189 --> 00:08:00,199
+sufrirá una penalización por circunstancia negativa de dos
+ 
+
+405
+00:08:00,199 --> 00:08:02,670
+sufrirá una penalización por circunstancia negativa de dos
+en su prueba porque las dos
+
+406
+00:08:02,670 --> 00:08:02,680
+en su prueba porque las dos
+ 
+
+407
+00:08:02,680 --> 00:08:05,550
+en su prueba porque las dos
+bonificaciones más dos no se sumarían
+
+408
+00:08:05,550 --> 00:08:05,560
+bonificaciones más dos no se sumarían
+ 
+
+409
+00:08:05,560 --> 00:08:07,629
+bonificaciones más dos no se sumarían
+una vez que se realicen esas pruebas secundarias. Se
+
+410
+00:08:07,629 --> 00:08:07,639
+una vez que se realicen esas pruebas secundarias. Se
+ 
+
+411
+00:08:07,639 --> 00:08:09,589
+una vez que se realicen esas pruebas secundarias. Se
+pagan los costes y se consumen todos los recursos.
+
+412
+00:08:09,589 --> 00:08:09,599
+pagan los costes y se consumen todos los recursos.
+ 
+
+413
+00:08:09,599 --> 00:08:12,230
+pagan los costes y se consumen todos los recursos.
+En este caso, son 60 de oro
+
+414
+00:08:12,230 --> 00:08:12,240
+En este caso, son 60 de oro
+ 
+
+415
+00:08:12,240 --> 00:08:14,950
+En este caso, son 60 de oro
+en incienso. Y finalmente, es hora
+
+416
+00:08:14,950 --> 00:08:14,960
+en incienso. Y finalmente, es hora
+ 
+
+417
+00:08:14,960 --> 00:08:16,749
+en incienso. Y finalmente, es hora
+de que el lanzador principal realice su prueba de
+
+418
+00:08:16,749 --> 00:08:16,759
+de que el lanzador principal realice su prueba de
+ 
+
+419
+00:08:16,759 --> 00:08:19,070
+de que el lanzador principal realice su prueba de
+habilidad de naturaleza. El lanzador principal
+
+420
+00:08:19,070 --> 00:08:19,080
+habilidad de naturaleza. El lanzador principal
+ 
+
+421
+00:08:19,080 --> 00:08:21,270
+habilidad de naturaleza. El lanzador principal
+debe tener competencia de Maestro o superior.
+
+422
+00:08:21,270 --> 00:08:21,280
+debe tener competencia de Maestro o superior.
+ 
+
+423
+00:08:21,280 --> 00:08:23,670
+debe tener competencia de Maestro o superior.
+Y las pruebas primarias suelen tener una
+
+424
+00:08:23,670 --> 00:08:23,680
+Y las pruebas primarias suelen tener una
+ 
+
+425
+00:08:23,680 --> 00:08:26,189
+Y las pruebas primarias suelen tener una
+CD muy difícil para un nivel que es el doble del
+
+426
+00:08:26,189 --> 00:08:26,199
+CD muy difícil para un nivel que es el doble del
+ 
+
+427
+00:08:26,199 --> 00:08:28,629
+CD muy difícil para un nivel que es el doble del
+nivel del hechizo ritual. Sabemos por las
+
+428
+00:08:28,629 --> 00:08:28,639
+nivel del hechizo ritual. Sabemos por las
+ 
+
+429
+00:08:28,639 --> 00:08:30,830
+nivel del hechizo ritual. Sabemos por las
+pruebas secundarias que la CD estándar es
+
+430
+00:08:30,830 --> 00:08:30,840
+pruebas secundarias que la CD estándar es
+ 
+
+431
+00:08:30,840 --> 00:08:34,389
+pruebas secundarias que la CD estándar es
+30 y muy difícil simplemente significa sumar cinco, por
+
+432
+00:08:34,389 --> 00:08:34,399
+30 y muy difícil simplemente significa sumar cinco, por
+ 
+
+433
+00:08:34,399 --> 00:08:36,269
+30 y muy difícil simplemente significa sumar cinco, por
+lo que la CD para la
+
+434
+00:08:36,269 --> 00:08:36,279
+lo que la CD para la
+ 
+
+435
+00:08:36,279 --> 00:08:39,630
+lo que la CD para la
+prueba de naturaleza del lanzador principal es 35 y su  La verificación de habilidad
+
+436
+00:08:39,630 --> 00:08:39,640
+prueba de naturaleza del lanzador principal es 35 y su  La verificación de habilidad
+ 
+
+437
+00:08:39,640 --> 00:08:41,709
+prueba de naturaleza del lanzador principal es 35 y su  La verificación de habilidad
+se modifica aún más según el
+
+438
+00:08:41,709 --> 00:08:41,719
+se modifica aún más según el
+ 
+
+439
+00:08:41,719 --> 00:08:44,350
+se modifica aún más según el
+resultado de las verificaciones secundarias del Lanzador.
+
+440
+00:08:44,350 --> 00:08:44,360
+resultado de las verificaciones secundarias del Lanzador.
+ 
+
+441
+00:08:44,360 --> 00:08:46,470
+resultado de las verificaciones secundarias del Lanzador.
+La CD para un ritual puede
+
+442
+00:08:46,470 --> 00:08:46,480
+La CD para un ritual puede
+ 
+
+443
+00:08:46,480 --> 00:08:49,269
+La CD para un ritual puede
+modificarse aún más según el ajuste del GMC. Por ejemplo,
+
+444
+00:08:49,269 --> 00:08:49,279
+modificarse aún más según el ajuste del GMC. Por ejemplo,
+ 
+
+445
+00:08:49,279 --> 00:08:51,350
+modificarse aún más según el ajuste del GMC. Por ejemplo,
+pueden optar por reducir la CD si el
+
+446
+00:08:51,350 --> 00:08:51,360
+pueden optar por reducir la CD si el
+ 
+
+447
+00:08:51,360 --> 00:08:53,710
+pueden optar por reducir la CD si el
+ritual se lanza en un día sagrado para
+
+448
+00:08:53,710 --> 00:08:53,720
+ritual se lanza en un día sagrado para
+ 
+
+449
+00:08:53,720 --> 00:08:56,110
+ritual se lanza en un día sagrado para
+su Dios o en una intersección de
+
+450
+00:08:56,110 --> 00:08:56,120
+su Dios o en una intersección de
+ 
+
+451
+00:08:56,120 --> 00:08:58,990
+su Dios o en una intersección de
+líneas de lay o bajo la luz de una luna llena.
+
+452
+00:08:58,990 --> 00:08:59,000
+líneas de lay o bajo la luz de una luna llena.
+ 
+
+453
+00:08:59,000 --> 00:09:01,230
+líneas de lay o bajo la luz de una luna llena.
+La rica descripción de los rituales detallará
+
+454
+00:09:01,230 --> 00:09:01,240
+La rica descripción de los rituales detallará
+ 
+
+455
+00:09:01,240 --> 00:09:03,470
+La rica descripción de los rituales detallará
+el resultado de la verificación como de
+
+456
+00:09:03,470 --> 00:09:03,480
+el resultado de la verificación como de
+ 
+
+457
+00:09:03,480 --> 00:09:06,350
+el resultado de la verificación como de
+costumbre y dos puntos finales a tener en cuenta.
+
+458
+00:09:06,350 --> 00:09:06,360
+costumbre y dos puntos finales a tener en cuenta.
+ 
+
+459
+00:09:06,360 --> 00:09:09,470
+costumbre y dos puntos finales a tener en cuenta.
+Primero, el ritual obtiene la
+
+460
+00:09:09,470 --> 00:09:09,480
+Primero, el ritual obtiene la
+ 
+
+461
+00:09:09,480 --> 00:09:11,470
+Primero, el ritual obtiene la
+tradición mágica que está asociada con la
+
+462
+00:09:11,470 --> 00:09:11,480
+tradición mágica que está asociada con la
+ 
+
+463
+00:09:11,480 --> 00:09:14,630
+tradición mágica que está asociada con la
+habilidad de verificación primaria. En este caso, comunicarse
+
+464
+00:09:14,630 --> 00:09:14,640
+habilidad de verificación primaria. En este caso, comunicarse
+ 
+
+465
+00:09:14,640 --> 00:09:17,030
+habilidad de verificación primaria. En este caso, comunicarse
+con la naturaleza tiene la tradición Primordial,
+
+466
+00:09:17,030 --> 00:09:17,040
+con la naturaleza tiene la tradición Primordial,
+ 
+
+467
+00:09:17,040 --> 00:09:19,910
+con la naturaleza tiene la tradición Primordial,
+ya que siempre se lanza usando la naturaleza. En
+
+468
+00:09:19,910 --> 00:09:19,920
+ya que siempre se lanza usando la naturaleza. En
+ 
+
+469
+00:09:19,920 --> 00:09:21,949
+ya que siempre se lanza usando la naturaleza. En
+el caso de algo como un tono, puede
+
+470
+00:09:21,949 --> 00:09:21,959
+el caso de algo como un tono, puede
+ 
+
+471
+00:09:21,959 --> 00:09:24,310
+el caso de algo como un tono, puede
+elegir entre naturaleza o religión
+
+472
+00:09:24,310 --> 00:09:24,320
+elegir entre naturaleza o religión
+ 
+
+473
+00:09:24,320 --> 00:09:26,990
+elegir entre naturaleza o religión
+como verificación primaria, por lo que puede lanzarse
+
+474
+00:09:26,990 --> 00:09:27,000
+como verificación primaria, por lo que puede lanzarse
+ 
+
+475
+00:09:27,000 --> 00:09:28,910
+como verificación primaria, por lo que puede lanzarse
+con la tradición Primordial o Divina
+
+476
+00:09:28,910 --> 00:09:28,920
+con la tradición Primordial o Divina
+ 
+
+477
+00:09:28,920 --> 00:09:30,230
+con la tradición Primordial o Divina
+
+478
+00:09:30,230 --> 00:09:30,240
+
+ 
+
+479
+00:09:30,240 --> 00:09:32,230
+
+y algunos rituales requieren que los objetivos
+
+480
+00:09:32,230 --> 00:09:32,240
+y algunos rituales requieren que los objetivos
+ 
+
+481
+00:09:32,240 --> 00:09:34,710
+y algunos rituales requieren que los objetivos
+hagan una tirada de salvación. Si tiene entrenamiento en la
+
+482
+00:09:34,710 --> 00:09:34,720
+hagan una tirada de salvación. Si tiene entrenamiento en la
+ 
+
+483
+00:09:34,720 --> 00:09:36,990
+hagan una tirada de salvación. Si tiene entrenamiento en la
+tradición de los rituales, entonces usa la
+
+484
+00:09:36,990 --> 00:09:37,000
+tradición de los rituales, entonces usa la
+ 
+
+485
+00:09:37,000 --> 00:09:39,829
+tradición de los rituales, entonces usa la
+CD del hechizo de esa tradición. Si no está
+
+486
+00:09:39,829 --> 00:09:39,839
+CD del hechizo de esa tradición. Si no está
+ 
+
+487
+00:09:39,839 --> 00:09:41,870
+CD del hechizo de esa tradición. Si no está
+entrenado en esa tradición, entonces
+
+488
+00:09:41,870 --> 00:09:41,880
+entrenado en esa tradición, entonces
+ 
+
+489
+00:09:41,880 --> 00:09:45,590
+entrenado en esa tradición, entonces
+calcula la CD de la tirada de salvación del ritual como 12 más
+
+490
+00:09:45,590 --> 00:09:45,600
+calcula la CD de la tirada de salvación del ritual como 12 más
+ 
+
+491
+00:09:45,600 --> 00:09:47,870
+calcula la CD de la tirada de salvación del ritual como 12 más
+su nivel más su
+
+492
+00:09:47,870 --> 00:09:47,880
+su nivel más su
+ 
+
+493
+00:09:47,880 --> 00:09:50,710
+su nivel más su
+modificador de habilidad mental más alto, ya sea inteligencia,
+
+494
+00:09:50,710 --> 00:09:50,720
+modificador de habilidad mental más alto, ya sea inteligencia,
+ 
+
+495
+00:09:50,720 --> 00:09:55,230
+modificador de habilidad mental más alto, ya sea inteligencia,
+sabiduría o
+
+496
+00:09:55,230 --> 00:09:55,240
+
+ 
+
+497
+00:09:55,240 --> 00:09:57,550
+
+Carisma. Antes de cerrar, me gustaría
+
+498
+00:09:57,550 --> 00:09:57,560
+Carisma. Antes de cerrar, me gustaría
+ 
+
+499
+00:09:57,560 --> 00:10:00,110
+Carisma. Antes de cerrar, me gustaría
+tomarme un momento para agradecer a todos nuestros Pat por
+
+500
+00:10:00,110 --> 00:10:00,120
+tomarme un momento para agradecer a todos nuestros Pat por
+ 
+
+501
+00:10:00,120 --> 00:10:01,910
+tomarme un momento para agradecer a todos nuestros Pat por
+estos videos.  no sería posible
+
+502
+00:10:01,910 --> 00:10:01,920
+estos videos.  no sería posible
+ 
+
+503
+00:10:01,920 --> 00:10:04,430
+estos videos.  no sería posible
+sin su continua generosidad y
+
+504
+00:10:04,430 --> 00:10:04,440
+sin su continua generosidad y
+ 
+
+505
+00:10:04,440 --> 00:10:07,269
+sin su continua generosidad y
+apoyo los miembros de la comunidad de patreon de basics for gamers
+
+506
+00:10:07,269 --> 00:10:07,279
+apoyo los miembros de la comunidad de patreon de basics for gamers
+ 
+
+507
+00:10:07,279 --> 00:10:08,910
+apoyo los miembros de la comunidad de patreon de basics for gamers
+reciben
+
+508
+00:10:08,910 --> 00:10:08,920
+reciben
+ 
+
+509
+00:10:08,920 --> 00:10:11,069
+reciben
+beneficios especiales como votar sobre los
+
+510
+00:10:11,069 --> 00:10:11,079
+beneficios especiales como votar sobre los
+ 
+
+511
+00:10:11,079 --> 00:10:13,230
+beneficios especiales como votar sobre los
+temas que cubrimos en el futuro y
+
+512
+00:10:13,230 --> 00:10:13,240
+temas que cubrimos en el futuro y
+ 
+
+513
+00:10:13,240 --> 00:10:15,269
+temas que cubrimos en el futuro y
+también pueden ver estos videos una
+
+514
+00:10:15,269 --> 00:10:15,279
+también pueden ver estos videos una
+ 
+
+515
+00:10:15,279 --> 00:10:19,150
+también pueden ver estos videos una
+semana y agregarlos gratis antes que todos los demás
+
+516
+00:10:19,150 --> 00:10:19,160
+semana y agregarlos gratis antes que todos los demás
+ 
+
+517
+00:10:19,160 --> 00:10:20,750
+semana y agregarlos gratis antes que todos los demás
+visita el enlace que se muestra a la izquierda de la
+
+518
+00:10:20,750 --> 00:10:20,760
+visita el enlace que se muestra a la izquierda de la
+ 
+
+519
+00:10:20,760 --> 00:10:22,590
+visita el enlace que se muestra a la izquierda de la
+pantalla y en la descripción si
+
+520
+00:10:22,590 --> 00:10:22,600
+pantalla y en la descripción si
+ 
+
+521
+00:10:22,600 --> 00:10:24,430
+pantalla y en la descripción si
+quieres saber más sobre cómo convertirte en
+
+522
+00:10:24,430 --> 00:10:24,440
+quieres saber más sobre cómo convertirte en
+ 
+
+523
+00:10:24,440 --> 00:10:26,630
+quieres saber más sobre cómo convertirte en
+mecenas si quieres apoyar este
+
+524
+00:10:26,630 --> 00:10:26,640
+mecenas si quieres apoyar este
+ 
+
+525
+00:10:26,640 --> 00:10:28,550
+mecenas si quieres apoyar este
+canal y ayudarlo a crecer la forma más fácil
+
+526
+00:10:28,550 --> 00:10:28,560
+canal y ayudarlo a crecer la forma más fácil
+ 
+
+527
+00:10:28,560 --> 00:10:30,990
+canal y ayudarlo a crecer la forma más fácil
+de hacerlo es suscribiéndote y
+
+528
+00:10:30,990 --> 00:10:31,000
+de hacerlo es suscribiéndote y
+ 
+
+529
+00:10:31,000 --> 00:10:33,110
+de hacerlo es suscribiéndote y
+haciendo clic en el ícono de la campana para que recibas
+
+530
+00:10:33,110 --> 00:10:33,120
+haciendo clic en el ícono de la campana para que recibas
+ 
+
+531
+00:10:33,120 --> 00:10:35,870
+haciendo clic en el ícono de la campana para que recibas
+notificaciones cuando se publiquen nuevos videos y
+
+532
+00:10:35,870 --> 00:10:35,880
+notificaciones cuando se publiquen nuevos videos y
+ 
+
+533
+00:10:35,880 --> 00:10:37,069
+notificaciones cuando se publiquen nuevos videos y
+siempre podemos comunicarnos a través de nuestras
+
+534
+00:10:37,069 --> 00:10:37,079
+siempre podemos comunicarnos a través de nuestras
+ 
+
+535
+00:10:37,079 --> 00:10:39,509
+siempre podemos comunicarnos a través de nuestras
+páginas de Twitter y Facebook también gracias
+
+536
+00:10:39,509 --> 00:10:39,519
+páginas de Twitter y Facebook también gracias
+ 
+
+537
+00:10:39,519 --> 00:10:41,509
+páginas de Twitter y Facebook también gracias
+por mirar cuídate y nos veremos
+
+538
+00:10:41,509 --> 00:10:41,519
+por mirar cuídate y nos veremos
+ 
+
+539
+00:10:41,519 --> 00:10:46,000
+por mirar cuídate y nos veremos
+pronto con más conceptos básicos de Pathfinder
+

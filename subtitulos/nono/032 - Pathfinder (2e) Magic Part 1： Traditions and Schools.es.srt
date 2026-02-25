@@ -1,0 +1,3536 @@
+1
+00:00:01,280 --> 00:00:03,270
+
+Hola y bienvenidos a Basics for Gamers
+
+2
+00:00:03,270 --> 00:00:03,280
+Hola y bienvenidos a Basics for Gamers
+ 
+
+3
+00:00:03,280 --> 00:00:03,909
+Hola y bienvenidos a Basics for Gamers
+presenta
+
+4
+00:00:03,909 --> 00:00:03,919
+presenta
+ 
+
+5
+00:00:03,919 --> 00:00:06,789
+presenta
+Pathfinder Magic parte uno Tradiciones en las
+
+6
+00:00:06,789 --> 00:00:06,799
+Pathfinder Magic parte uno Tradiciones en las
+ 
+
+7
+00:00:06,799 --> 00:00:07,909
+Pathfinder Magic parte uno Tradiciones en las
+escuelas
+
+8
+00:00:07,909 --> 00:00:07,919
+escuelas
+ 
+
+9
+00:00:07,919 --> 00:00:09,990
+escuelas
+Esta es la primera parte de una
+
+10
+00:00:09,990 --> 00:00:10,000
+Esta es la primera parte de una
+ 
+
+11
+00:00:10,000 --> 00:00:11,830
+Esta es la primera parte de una
+serie largamente solicitada que examinará el
+
+12
+00:00:11,830 --> 00:00:11,840
+serie largamente solicitada que examinará el
+ 
+
+13
+00:00:11,840 --> 00:00:13,669
+serie largamente solicitada que examinará el
+conjunto completo de reglas de lanzamiento de hechizos en
+
+14
+00:00:13,669 --> 00:00:13,679
+conjunto completo de reglas de lanzamiento de hechizos en
+ 
+
+15
+00:00:13,679 --> 00:00:15,270
+conjunto completo de reglas de lanzamiento de hechizos en
+Pathfinder segunda edición
+
+16
+00:00:15,270 --> 00:00:15,280
+Pathfinder segunda edición
+ 
+
+17
+00:00:15,280 --> 00:00:17,109
+Pathfinder segunda edición
+En este primer video, vamos a sentar las
+
+18
+00:00:17,109 --> 00:00:17,119
+En este primer video, vamos a sentar las
+ 
+
+19
+00:00:17,119 --> 00:00:18,550
+En este primer video, vamos a sentar las
+bases para la serie
+
+20
+00:00:18,550 --> 00:00:18,560
+bases para la serie
+ 
+
+21
+00:00:18,560 --> 00:00:20,550
+bases para la serie
+y esto será seguido por
+
+22
+00:00:20,550 --> 00:00:20,560
+y esto será seguido por
+ 
+
+23
+00:00:20,560 --> 00:00:24,230
+y esto será seguido por
+temas más crujientes en las próximas semanas
+
+24
+00:00:24,230 --> 00:00:24,240
+
+ 
+
+25
+00:00:24,240 --> 00:00:26,470
+
+Para comprender completamente la magia y Pathfinder,
+
+26
+00:00:26,470 --> 00:00:26,480
+Para comprender completamente la magia y Pathfinder,
+ 
+
+27
+00:00:26,480 --> 00:00:28,550
+Para comprender completamente la magia y Pathfinder,
+necesita saber cómo funcionan las escuelas de magia
+
+28
+00:00:28,550 --> 00:00:28,560
+necesita saber cómo funcionan las escuelas de magia
+ 
+
+29
+00:00:28,560 --> 00:00:31,109
+necesita saber cómo funcionan las escuelas de magia
+Las cuatro esencias de la magia y las tradiciones mágicas
+
+30
+00:00:31,109 --> 00:00:31,119
+Las cuatro esencias de la magia y las tradiciones mágicas
+ 
+
+31
+00:00:31,119 --> 00:00:31,750
+Las cuatro esencias de la magia y las tradiciones mágicas
+
+32
+00:00:31,750 --> 00:00:31,760
+
+ 
+
+33
+00:00:31,760 --> 00:00:34,310
+
+trabajan juntas para formar una base
+
+34
+00:00:34,310 --> 00:00:34,320
+trabajan juntas para formar una base
+ 
+
+35
+00:00:34,320 --> 00:00:35,910
+trabajan juntas para formar una base
+para el lanzamiento de hechizos Las
+
+36
+00:00:35,910 --> 00:00:35,920
+para el lanzamiento de hechizos Las
+ 
+
+37
+00:00:35,920 --> 00:00:37,990
+para el lanzamiento de hechizos Las
+escuelas de magia son simplemente una forma de
+
+38
+00:00:37,990 --> 00:00:38,000
+escuelas de magia son simplemente una forma de
+ 
+
+39
+00:00:38,000 --> 00:00:39,990
+escuelas de magia son simplemente una forma de
+agrupar hechizos similares
+
+40
+00:00:39,990 --> 00:00:40,000
+agrupar hechizos similares
+ 
+
+41
+00:00:40,000 --> 00:00:42,310
+agrupar hechizos similares
+Todos los hechizos pertenecen a una de las ocho
+
+42
+00:00:42,310 --> 00:00:42,320
+Todos los hechizos pertenecen a una de las ocho
+ 
+
+43
+00:00:42,320 --> 00:00:43,430
+Todos los hechizos pertenecen a una de las ocho
+escuelas de magia
+
+44
+00:00:43,430 --> 00:00:43,440
+escuelas de magia
+ 
+
+45
+00:00:43,440 --> 00:00:45,430
+escuelas de magia
+y puedes pensar en una escuela como algo
+
+46
+00:00:45,430 --> 00:00:45,440
+y puedes pensar en una escuela como algo
+ 
+
+47
+00:00:45,440 --> 00:00:47,910
+y puedes pensar en una escuela como algo
+similar a un solo campo de estudio o
+
+48
+00:00:47,910 --> 00:00:47,920
+similar a un solo campo de estudio o
+ 
+
+49
+00:00:47,920 --> 00:00:49,430
+similar a un solo campo de estudio o
+experiencia Los
+
+50
+00:00:49,430 --> 00:00:49,440
+experiencia Los
+ 
+
+51
+00:00:49,440 --> 00:00:51,350
+experiencia Los
+magos en particular pueden elegir
+
+52
+00:00:51,350 --> 00:00:51,360
+magos en particular pueden elegir
+ 
+
+53
+00:00:51,360 --> 00:00:53,350
+magos en particular pueden elegir
+especializarse en una escuela de magia específica
+
+54
+00:00:53,350 --> 00:00:53,360
+especializarse en una escuela de magia específica
+ 
+
+55
+00:00:53,360 --> 00:00:53,990
+especializarse en una escuela de magia específica
+
+56
+00:00:53,990 --> 00:00:54,000
+
+ 
+
+57
+00:00:54,000 --> 00:00:56,229
+
+o pueden elegir no especializarse en absoluto
+
+58
+00:00:56,229 --> 00:00:56,239
+o pueden elegir no especializarse en absoluto
+ 
+
+59
+00:00:56,239 --> 00:00:58,549
+o pueden elegir no especializarse en absoluto
+y ser universalistas
+
+60
+00:00:58,549 --> 00:00:58,559
+y ser universalistas
+ 
+
+61
+00:00:58,559 --> 00:01:01,029
+y ser universalistas
+Las ocho escuelas de magia son
+
+62
+00:01:01,029 --> 00:01:01,039
+Las ocho escuelas de magia son
+ 
+
+63
+00:01:01,039 --> 00:01:02,389
+Las ocho escuelas de magia son
+Abduración
+
+64
+00:01:02,389 --> 00:01:02,399
+Abduración
+ 
+
+65
+00:01:02,399 --> 00:01:05,189
+Abduración
+Estos hechizos son todos sobre magia de defensa
+
+66
+00:01:05,189 --> 00:01:05,199
+Estos hechizos son todos sobre magia de defensa
+ 
+
+67
+00:01:05,199 --> 00:01:05,830
+Estos hechizos son todos sobre magia de defensa
+Escudos
+
+68
+00:01:05,830 --> 00:01:05,840
+Escudos
+ 
+
+69
+00:01:05,840 --> 00:01:08,230
+Escudos
+y círculos de runas que las criaturas malvadas
+
+70
+00:01:08,230 --> 00:01:08,240
+y círculos de runas que las criaturas malvadas
+ 
+
+71
+00:01:08,240 --> 00:01:09,510
+y círculos de runas que las criaturas malvadas
+no pueden cruzar
+
+72
+00:01:09,510 --> 00:01:09,520
+no pueden cruzar
+ 
+
+73
+00:01:09,520 --> 00:01:12,630
+no pueden cruzar
+Algunos hechizos de ejemplo son Alarma de escudo
+
+74
+00:01:12,630 --> 00:01:12,640
+Algunos hechizos de ejemplo son Alarma de escudo
+ 
+
+75
+00:01:12,640 --> 00:01:15,670
+Algunos hechizos de ejemplo son Alarma de escudo
+y Armadura de mago La segunda calavera
+
+76
+00:01:15,670 --> 00:01:15,680
+y Armadura de mago La segunda calavera
+ 
+
+77
+00:01:15,680 --> 00:01:18,390
+y Armadura de mago La segunda calavera
+es Conjuración Esta escuela trata sobre
+
+78
+00:01:18,390 --> 00:01:18,400
+es Conjuración Esta escuela trata sobre
+ 
+
+79
+00:01:18,400 --> 00:01:19,109
+es Conjuración Esta escuela trata sobre
+hacer que las cosas
+
+80
+00:01:19,109 --> 00:01:19,119
+hacer que las cosas
+ 
+
+81
+00:01:19,119 --> 00:01:21,830
+hacer que las cosas
+aparezcan o desaparezcan de  Aire enrarecido,
+
+82
+00:01:21,830 --> 00:01:21,840
+aparezcan o desaparezcan de  Aire enrarecido,
+ 
+
+83
+00:01:21,840 --> 00:01:23,910
+aparezcan o desaparezcan de  Aire enrarecido,
+aunque más comúnmente asociado con
+
+84
+00:01:23,910 --> 00:01:23,920
+aunque más comúnmente asociado con
+ 
+
+85
+00:01:23,920 --> 00:01:25,109
+aunque más comúnmente asociado con
+hechizos de invocación,
+
+86
+00:01:25,109 --> 00:01:25,119
+hechizos de invocación,
+ 
+
+87
+00:01:25,119 --> 00:01:27,109
+hechizos de invocación,
+la escuela de conjuración también cubre la
+
+88
+00:01:27,109 --> 00:01:27,119
+la escuela de conjuración también cubre la
+ 
+
+89
+00:01:27,119 --> 00:01:28,870
+la escuela de conjuración también cubre la
+teletransportación,
+
+90
+00:01:28,870 --> 00:01:28,880
+teletransportación,
+ 
+
+91
+00:01:28,880 --> 00:01:31,350
+teletransportación,
+discos flotantes, crear agua e invocar
+
+92
+00:01:31,350 --> 00:01:31,360
+discos flotantes, crear agua e invocar
+ 
+
+93
+00:01:31,360 --> 00:01:34,710
+discos flotantes, crear agua e invocar
+elemental son todos hechizos de conjuración.
+
+94
+00:01:34,710 --> 00:01:34,720
+elemental son todos hechizos de conjuración.
+ 
+
+95
+00:01:34,720 --> 00:01:37,030
+elemental son todos hechizos de conjuración.
+La tercera escuela es adivinación, estos
+
+96
+00:01:37,030 --> 00:01:37,040
+La tercera escuela es adivinación, estos
+ 
+
+97
+00:01:37,040 --> 00:01:39,830
+La tercera escuela es adivinación, estos
+hechizos son sobre revelar información,
+
+98
+00:01:39,830 --> 00:01:39,840
+hechizos son sobre revelar información,
+ 
+
+99
+00:01:39,840 --> 00:01:40,469
+hechizos son sobre revelar información,
+podrían ser
+
+100
+00:01:40,469 --> 00:01:40,479
+podrían ser
+ 
+
+101
+00:01:40,479 --> 00:01:42,950
+podrían ser
+visiones del pasado o del futuro, o
+
+102
+00:01:42,950 --> 00:01:42,960
+visiones del pasado o del futuro, o
+ 
+
+103
+00:01:42,960 --> 00:01:45,030
+visiones del pasado o del futuro, o
+ver eventos desarrollarse desde un continente
+
+104
+00:01:45,030 --> 00:01:45,040
+ver eventos desarrollarse desde un continente
+ 
+
+105
+00:01:45,040 --> 00:01:46,149
+ver eventos desarrollarse desde un continente
+lejano,
+
+106
+00:01:46,149 --> 00:01:46,159
+lejano,
+ 
+
+107
+00:01:46,159 --> 00:01:48,389
+lejano,
+detectar magia, ver invisible y
+
+108
+00:01:48,389 --> 00:01:48,399
+detectar magia, ver invisible y
+ 
+
+109
+00:01:48,399 --> 00:01:49,429
+detectar magia, ver invisible y
+clarividencia
+
+110
+00:01:49,429 --> 00:01:49,439
+clarividencia
+ 
+
+111
+00:01:49,439 --> 00:01:52,870
+clarividencia
+son todos hechizos de adivinación. La cuarta
+
+112
+00:01:52,870 --> 00:01:52,880
+son todos hechizos de adivinación. La cuarta
+ 
+
+113
+00:01:52,880 --> 00:01:54,710
+son todos hechizos de adivinación. La cuarta
+escuela es encantamiento
+
+114
+00:01:54,710 --> 00:01:54,720
+escuela es encantamiento
+ 
+
+115
+00:01:54,720 --> 00:01:57,030
+escuela es encantamiento
+y buscador de caminos, los hechizos de encantamiento no tienen
+
+116
+00:01:57,030 --> 00:01:57,040
+y buscador de caminos, los hechizos de encantamiento no tienen
+ 
+
+117
+00:01:57,040 --> 00:01:58,709
+y buscador de caminos, los hechizos de encantamiento no tienen
+nada que ver con la elaboración
+
+118
+00:01:58,709 --> 00:01:58,719
+nada que ver con la elaboración
+ 
+
+119
+00:01:58,719 --> 00:02:02,069
+nada que ver con la elaboración
+o convertir armas en mágicas, en cambio,
+
+120
+00:02:02,069 --> 00:02:02,079
+o convertir armas en mágicas, en cambio,
+ 
+
+121
+00:02:02,079 --> 00:02:03,990
+o convertir armas en mágicas, en cambio,
+esta escuela trata sobre manipular la
+
+122
+00:02:03,990 --> 00:02:04,000
+esta escuela trata sobre manipular la
+ 
+
+123
+00:02:04,000 --> 00:02:06,069
+esta escuela trata sobre manipular la
+mente, ya sea controlándola
+
+124
+00:02:06,069 --> 00:02:06,079
+mente, ya sea controlándola
+ 
+
+125
+00:02:06,079 --> 00:02:09,430
+mente, ya sea controlándola
+o inspirándola a hazañas de grandeza,
+
+126
+00:02:09,430 --> 00:02:09,440
+o inspirándola a hazañas de grandeza,
+ 
+
+127
+00:02:09,440 --> 00:02:12,550
+o inspirándola a hazañas de grandeza,
+algunos ejemplos incluyen bendecir, ordenar y
+
+128
+00:02:12,550 --> 00:02:12,560
+algunos ejemplos incluyen bendecir, ordenar y
+ 
+
+129
+00:02:12,560 --> 00:02:14,309
+algunos ejemplos incluyen bendecir, ordenar y
+confusión.
+
+130
+00:02:14,309 --> 00:02:14,319
+confusión.
+ 
+
+131
+00:02:14,319 --> 00:02:17,270
+confusión.
+La quinta escuela es evocación, la magia de evocación
+
+132
+00:02:17,270 --> 00:02:17,280
+La quinta escuela es evocación, la magia de evocación
+ 
+
+133
+00:02:17,280 --> 00:02:17,830
+La quinta escuela es evocación, la magia de evocación
+
+134
+00:02:17,830 --> 00:02:17,840
+
+ 
+
+135
+00:02:17,840 --> 00:02:21,270
+
+canaliza energía y hace que las cosas hagan boom,
+
+136
+00:02:21,270 --> 00:02:21,280
+canaliza energía y hace que las cosas hagan boom,
+ 
+
+137
+00:02:21,280 --> 00:02:23,750
+canaliza energía y hace que las cosas hagan boom,
+luz, lanza divina y, por supuesto,
+
+138
+00:02:23,750 --> 00:02:23,760
+luz, lanza divina y, por supuesto,
+ 
+
+139
+00:02:23,760 --> 00:02:24,790
+luz, lanza divina y, por supuesto,
+bola de fuego
+
+140
+00:02:24,790 --> 00:02:24,800
+bola de fuego
+ 
+
+141
+00:02:24,800 --> 00:02:28,150
+bola de fuego
+son todos hechizos de evocación. La sexta
+
+142
+00:02:28,150 --> 00:02:28,160
+son todos hechizos de evocación. La sexta
+ 
+
+143
+00:02:28,160 --> 00:02:28,790
+son todos hechizos de evocación. La sexta
+escuela es
+
+144
+00:02:28,790 --> 00:02:28,800
+escuela es
+ 
+
+145
+00:02:28,800 --> 00:02:31,110
+escuela es
+ilusión, estas escuelas probablemente hacen
+
+146
+00:02:31,110 --> 00:02:31,120
+ilusión, estas escuelas probablemente hacen
+ 
+
+147
+00:02:31,120 --> 00:02:32,710
+ilusión, estas escuelas probablemente hacen
+exactamente lo que esperas,
+
+148
+00:02:32,710 --> 00:02:32,720
+exactamente lo que esperas,
+ 
+
+149
+00:02:32,720 --> 00:02:36,470
+exactamente lo que esperas,
+engañan los sentidos, difuminar, invisibilidad
+
+150
+00:02:36,470 --> 00:02:36,480
+engañan los sentidos, difuminar, invisibilidad
+ 
+
+151
+00:02:36,480 --> 00:02:40,150
+engañan los sentidos, difuminar, invisibilidad
+y silencio son todos hechizos de ilusión.
+
+152
+00:02:40,150 --> 00:02:40,160
+y silencio son todos hechizos de ilusión.
+ 
+
+153
+00:02:40,160 --> 00:02:42,550
+y silencio son todos hechizos de ilusión.
+La séptima escuela es nigromancia, que
+
+154
+00:02:42,550 --> 00:02:42,560
+La séptima escuela es nigromancia, que
+ 
+
+155
+00:02:42,560 --> 00:02:43,670
+La séptima escuela es nigromancia, que
+es el poder de la
+
+156
+00:02:43,670 --> 00:02:43,680
+es el poder de la
+ 
+
+157
+00:02:43,680 --> 00:02:46,150
+es el poder de la
+vida y la muerte, y no confundas la
+
+158
+00:02:46,150 --> 00:02:46,160
+vida y la muerte, y no confundas la
+ 
+
+159
+00:02:46,160 --> 00:02:49,030
+vida y la muerte, y no confundas la
+nigromancia con ser inherentemente malvada, ya que
+
+160
+00:02:49,030 --> 00:02:49,040
+nigromancia con ser inherentemente malvada, ya que
+ 
+
+161
+00:02:49,040 --> 00:02:51,750
+nigromancia con ser inherentemente malvada, ya que
+no es solo la escuela de la muerte sino
+
+162
+00:02:51,750 --> 00:02:51,760
+no es solo la escuela de la muerte sino
+ 
+
+163
+00:02:51,760 --> 00:02:52,309
+no es solo la escuela de la muerte sino
+también
+
+164
+00:02:52,309 --> 00:02:52,319
+también
+ 
+
+165
+00:02:52,319 --> 00:02:55,430
+también
+de la vida, escalofrío.  Tocar, sanar
+
+166
+00:02:55,430 --> 00:02:55,440
+de la vida, escalofrío.  Tocar, sanar
+ 
+
+167
+00:02:55,440 --> 00:02:58,149
+de la vida, escalofrío.  Tocar, sanar
+y eliminar maldición son todos hechizos de nigromancia
+
+168
+00:02:58,149 --> 00:02:58,159
+y eliminar maldición son todos hechizos de nigromancia
+ 
+
+169
+00:02:58,159 --> 00:02:59,509
+y eliminar maldición son todos hechizos de nigromancia
+
+170
+00:02:59,509 --> 00:02:59,519
+
+ 
+
+171
+00:02:59,519 --> 00:03:01,270
+
+y la escuela final de magia es
+
+172
+00:03:01,270 --> 00:03:01,280
+y la escuela final de magia es
+ 
+
+173
+00:03:01,280 --> 00:03:02,630
+y la escuela final de magia es
+transmutación
+
+174
+00:03:02,630 --> 00:03:02,640
+transmutación
+ 
+
+175
+00:03:02,640 --> 00:03:04,790
+transmutación
+estos hechizos alteran la forma física
+
+176
+00:03:04,790 --> 00:03:04,800
+estos hechizos alteran la forma física
+ 
+
+177
+00:03:04,800 --> 00:03:07,110
+estos hechizos alteran la forma física
+y la forma de criaturas y objetos
+
+178
+00:03:07,110 --> 00:03:07,120
+y la forma de criaturas y objetos
+ 
+
+179
+00:03:07,120 --> 00:03:10,229
+y la forma de criaturas y objetos
+forma animal agrandar y reparar son todos
+
+180
+00:03:10,229 --> 00:03:10,239
+forma animal agrandar y reparar son todos
+ 
+
+181
+00:03:10,239 --> 00:03:14,229
+forma animal agrandar y reparar son todos
+hechizos de transmutación las
+
+182
+00:03:14,229 --> 00:03:14,239
+
+ 
+
+183
+00:03:14,239 --> 00:03:16,630
+
+tradiciones mágicas describen la fuente
+
+184
+00:03:16,630 --> 00:03:16,640
+tradiciones mágicas describen la fuente
+ 
+
+185
+00:03:16,640 --> 00:03:18,070
+tradiciones mágicas describen la fuente
+del hechizo y también
+
+186
+00:03:18,070 --> 00:03:18,080
+del hechizo y también
+ 
+
+187
+00:03:18,080 --> 00:03:20,229
+del hechizo y también
+proporcionan una descripción narrativa
+
+188
+00:03:20,229 --> 00:03:20,239
+proporcionan una descripción narrativa
+ 
+
+189
+00:03:20,239 --> 00:03:22,229
+proporcionan una descripción narrativa
+de cómo se lanza el hechizo a
+
+190
+00:03:22,229 --> 00:03:22,239
+de cómo se lanza el hechizo a
+ 
+
+191
+00:03:22,239 --> 00:03:24,550
+de cómo se lanza el hechizo a
+diferencia de las escuelas donde cada hechizo pertenece
+
+192
+00:03:24,550 --> 00:03:24,560
+diferencia de las escuelas donde cada hechizo pertenece
+ 
+
+193
+00:03:24,560 --> 00:03:26,789
+diferencia de las escuelas donde cada hechizo pertenece
+a una y solo una escuela los
+
+194
+00:03:26,789 --> 00:03:26,799
+a una y solo una escuela los
+ 
+
+195
+00:03:26,799 --> 00:03:28,949
+a una y solo una escuela los
+hechizos pueden pertenecer a varias tradiciones diferentes
+
+196
+00:03:28,949 --> 00:03:28,959
+hechizos pueden pertenecer a varias tradiciones diferentes
+ 
+
+197
+00:03:28,959 --> 00:03:30,070
+hechizos pueden pertenecer a varias tradiciones diferentes
+
+198
+00:03:30,070 --> 00:03:30,080
+
+ 
+
+199
+00:03:30,080 --> 00:03:31,670
+
+serían del mismo nivel y tendrían
+
+200
+00:03:31,670 --> 00:03:31,680
+serían del mismo nivel y tendrían
+ 
+
+201
+00:03:31,680 --> 00:03:33,190
+serían del mismo nivel y tendrían
+las mismas mecánicas,
+
+202
+00:03:33,190 --> 00:03:33,200
+las mismas mecánicas,
+ 
+
+203
+00:03:33,200 --> 00:03:35,350
+las mismas mecánicas,
+pero podrían tener un sabor ligeramente
+
+204
+00:03:35,350 --> 00:03:35,360
+pero podrían tener un sabor ligeramente
+ 
+
+205
+00:03:35,360 --> 00:03:36,710
+pero podrían tener un sabor ligeramente
+diferente
+
+206
+00:03:36,710 --> 00:03:36,720
+diferente
+ 
+
+207
+00:03:36,720 --> 00:03:39,350
+diferente
+también cada tradición tiene su propia lista de hechizos
+
+208
+00:03:39,350 --> 00:03:39,360
+también cada tradición tiene su propia lista de hechizos
+ 
+
+209
+00:03:39,360 --> 00:03:40,070
+también cada tradición tiene su propia lista de hechizos
+
+210
+00:03:40,070 --> 00:03:40,080
+
+ 
+
+211
+00:03:40,080 --> 00:03:42,789
+
+una lista de hechizos muestra qué hechizos en cada
+
+212
+00:03:42,789 --> 00:03:42,799
+una lista de hechizos muestra qué hechizos en cada
+ 
+
+213
+00:03:42,799 --> 00:03:45,509
+una lista de hechizos muestra qué hechizos en cada
+nivel están disponibles para cada lanzador de hechizos
+
+214
+00:03:45,509 --> 00:03:45,519
+nivel están disponibles para cada lanzador de hechizos
+ 
+
+215
+00:03:45,519 --> 00:03:47,670
+nivel están disponibles para cada lanzador de hechizos
+un personaje que tiene la
+
+216
+00:03:47,670 --> 00:03:47,680
+un personaje que tiene la
+ 
+
+217
+00:03:47,680 --> 00:03:49,110
+un personaje que tiene la
+habilidad de clase de lanzamiento de hechizos arcanos
+
+218
+00:03:49,110 --> 00:03:49,120
+habilidad de clase de lanzamiento de hechizos arcanos
+ 
+
+219
+00:03:49,120 --> 00:03:51,430
+habilidad de clase de lanzamiento de hechizos arcanos
+puede lanzar hechizos de la
+
+220
+00:03:51,430 --> 00:03:51,440
+puede lanzar hechizos de la
+ 
+
+221
+00:03:51,440 --> 00:03:53,270
+puede lanzar hechizos de la
+lista de hechizos de tradiciones arcanas
+
+222
+00:03:53,270 --> 00:03:53,280
+lista de hechizos de tradiciones arcanas
+ 
+
+223
+00:03:53,280 --> 00:03:55,830
+lista de hechizos de tradiciones arcanas
+y solo los hechizos que se encuentran en esa lista a
+
+224
+00:03:55,830 --> 00:03:55,840
+y solo los hechizos que se encuentran en esa lista a
+ 
+
+225
+00:03:55,840 --> 00:03:57,750
+y solo los hechizos que se encuentran en esa lista a
+menos que obtengan acceso a otra
+
+226
+00:03:57,750 --> 00:03:57,760
+menos que obtengan acceso a otra
+ 
+
+227
+00:03:57,760 --> 00:03:58,550
+menos que obtengan acceso a otra
+tradición
+
+228
+00:03:58,550 --> 00:03:58,560
+tradición
+ 
+
+229
+00:03:58,560 --> 00:04:01,830
+tradición
+como con arquetipos multiclase
+
+230
+00:04:01,830 --> 00:04:01,840
+como con arquetipos multiclase
+ 
+
+231
+00:04:01,840 --> 00:04:03,990
+como con arquetipos multiclase
+y se acabaron los días en que las listas de hechizos
+
+232
+00:04:03,990 --> 00:04:04,000
+y se acabaron los días en que las listas de hechizos
+ 
+
+233
+00:04:04,000 --> 00:04:07,190
+y se acabaron los días en que las listas de hechizos
+estaban dictadas completamente por la clase la
+
+234
+00:04:07,190 --> 00:04:07,200
+estaban dictadas completamente por la clase la
+ 
+
+235
+00:04:07,200 --> 00:04:09,350
+estaban dictadas completamente por la clase la
+segunda edición ha simplificado las cosas al
+
+236
+00:04:09,350 --> 00:04:09,360
+segunda edición ha simplificado las cosas al
+ 
+
+237
+00:04:09,360 --> 00:04:11,350
+segunda edición ha simplificado las cosas al
+tener solo cuatro tradiciones y, por
+
+238
+00:04:11,350 --> 00:04:11,360
+tener solo cuatro tradiciones y, por
+ 
+
+239
+00:04:11,360 --> 00:04:12,149
+tener solo cuatro tradiciones y, por
+lo tanto,
+
+240
+00:04:12,149 --> 00:04:12,159
+lo tanto,
+ 
+
+241
+00:04:12,159 --> 00:04:14,869
+lo tanto,
+solo cuatro listas de hechizos, pero también permite una
+
+242
+00:04:14,869 --> 00:04:14,879
+solo cuatro listas de hechizos, pero también permite una
+ 
+
+243
+00:04:14,879 --> 00:04:16,870
+solo cuatro listas de hechizos, pero también permite una
+mayor flexibilidad al permitir que algunas
+
+244
+00:04:16,870 --> 00:04:16,880
+mayor flexibilidad al permitir que algunas
+ 
+
+245
+00:04:16,880 --> 00:04:17,590
+mayor flexibilidad al permitir que algunas
+clases
+
+246
+00:04:17,590 --> 00:04:17,600
+clases
+ 
+
+247
+00:04:17,600 --> 00:04:19,749
+clases
+elijan entre qué listas de hechizos
+
+248
+00:04:19,749 --> 00:04:19,759
+elijan entre qué listas de hechizos
+ 
+
+249
+00:04:19,759 --> 00:04:20,789
+elijan entre qué listas de hechizos
+quieren usar,
+
+250
+00:04:20,789 --> 00:04:20,799
+quieren usar,
+ 
+
+251
+00:04:20,799 --> 00:04:23,830
+quieren usar,
+por ejemplo  Los hechiceros pueden elegir
+
+252
+00:04:23,830 --> 00:04:23,840
+por ejemplo  Los hechiceros pueden elegir
+ 
+
+253
+00:04:23,840 --> 00:04:25,670
+por ejemplo  Los hechiceros pueden elegir
+entre cualquiera de las cuatro tradiciones
+
+254
+00:04:25,670 --> 00:04:25,680
+entre cualquiera de las cuatro tradiciones
+ 
+
+255
+00:04:25,680 --> 00:04:28,870
+entre cualquiera de las cuatro tradiciones
+dependiendo de su linaje.
+
+256
+00:04:28,870 --> 00:04:28,880
+dependiendo de su linaje.
+ 
+
+257
+00:04:28,880 --> 00:04:32,629
+dependiendo de su linaje.
+Las cuatro tradiciones son arcana, divina,
+
+258
+00:04:32,629 --> 00:04:32,639
+Las cuatro tradiciones son arcana, divina,
+ 
+
+259
+00:04:32,639 --> 00:04:36,390
+Las cuatro tradiciones son arcana, divina,
+oculta y primordial. Tiendo a pensar en la
+
+260
+00:04:36,390 --> 00:04:36,400
+oculta y primordial. Tiendo a pensar en la
+ 
+
+261
+00:04:36,400 --> 00:04:37,670
+oculta y primordial. Tiendo a pensar en la
+magia arcana
+
+262
+00:04:37,670 --> 00:04:37,680
+magia arcana
+ 
+
+263
+00:04:37,680 --> 00:04:40,870
+magia arcana
+como una especie de ciencia mágica. Aquellos
+
+264
+00:04:40,870 --> 00:04:40,880
+como una especie de ciencia mágica. Aquellos
+ 
+
+265
+00:04:40,880 --> 00:04:41,189
+como una especie de ciencia mágica. Aquellos
+que
+
+266
+00:04:41,189 --> 00:04:41,199
+que
+ 
+
+267
+00:04:41,199 --> 00:04:43,670
+que
+practican esta forma de magia lo hacen después de
+
+268
+00:04:43,670 --> 00:04:43,680
+practican esta forma de magia lo hacen después de
+ 
+
+269
+00:04:43,680 --> 00:04:45,189
+practican esta forma de magia lo hacen después de
+años de estudio.
+
+270
+00:04:45,189 --> 00:04:45,199
+años de estudio.
+ 
+
+271
+00:04:45,199 --> 00:04:48,070
+años de estudio.
+Realizan investigaciones exhaustivas. Examinan
+
+272
+00:04:48,070 --> 00:04:48,080
+Realizan investigaciones exhaustivas. Examinan
+ 
+
+273
+00:04:48,080 --> 00:04:48,550
+Realizan investigaciones exhaustivas. Examinan
+
+274
+00:04:48,550 --> 00:04:48,560
+
+ 
+
+275
+00:04:48,560 --> 00:04:51,990
+
+tonos masivos y ven una especie de orden en las
+
+276
+00:04:51,990 --> 00:04:52,000
+tonos masivos y ven una especie de orden en las
+ 
+
+277
+00:04:52,000 --> 00:04:53,430
+tonos masivos y ven una especie de orden en las
+energías mágicas que pueden
+
+278
+00:04:53,430 --> 00:04:53,440
+energías mágicas que pueden
+ 
+
+279
+00:04:53,440 --> 00:04:54,870
+energías mágicas que pueden
+manipular. Los
+
+280
+00:04:54,870 --> 00:04:54,880
+manipular. Los
+ 
+
+281
+00:04:54,880 --> 00:04:57,590
+manipular. Los
+magos son los lanzadores de conjuros arcanos más icónicos. Los
+
+282
+00:04:57,590 --> 00:04:59,909
+magos son los lanzadores de conjuros arcanos más icónicos. Los
+ 
+
+283
+00:04:59,909 --> 00:04:59,919
+
+ 
+
+284
+00:04:59,919 --> 00:05:02,629
+
+conjuros divinos representan el poder de los
+
+285
+00:05:02,629 --> 00:05:02,639
+conjuros divinos representan el poder de los
+ 
+
+286
+00:05:02,639 --> 00:05:03,350
+conjuros divinos representan el poder de los
+dioses
+
+287
+00:05:03,350 --> 00:05:03,360
+dioses
+ 
+
+288
+00:05:03,360 --> 00:05:05,189
+dioses
+y a menudo se representan como el
+
+289
+00:05:05,189 --> 00:05:05,199
+y a menudo se representan como el
+ 
+
+290
+00:05:05,199 --> 00:05:07,189
+y a menudo se representan como el
+personaje rezando a su dios y
+
+291
+00:05:07,189 --> 00:05:07,199
+personaje rezando a su dios y
+ 
+
+292
+00:05:07,199 --> 00:05:09,350
+personaje rezando a su dios y
+pidiéndoles que bendigan o castiguen a su
+
+293
+00:05:09,350 --> 00:05:09,360
+pidiéndoles que bendigan o castiguen a su
+ 
+
+294
+00:05:09,360 --> 00:05:10,230
+pidiéndoles que bendigan o castiguen a su
+objetivo
+
+295
+00:05:10,230 --> 00:05:10,240
+objetivo
+ 
+
+296
+00:05:10,240 --> 00:05:13,189
+objetivo
+o son un conducto físico para canalizar
+
+297
+00:05:13,189 --> 00:05:13,199
+o son un conducto físico para canalizar
+ 
+
+298
+00:05:13,199 --> 00:05:15,350
+o son un conducto físico para canalizar
+la ira de su dios. La
+
+299
+00:05:15,350 --> 00:05:15,360
+la ira de su dios. La
+ 
+
+300
+00:05:15,360 --> 00:05:17,510
+la ira de su dios. La
+magia divina también podría manifestarse a partir de
+
+301
+00:05:17,510 --> 00:05:17,520
+magia divina también podría manifestarse a partir de
+ 
+
+302
+00:05:17,520 --> 00:05:19,110
+magia divina también podría manifestarse a partir de
+linajes celestiales
+
+303
+00:05:19,110 --> 00:05:19,120
+linajes celestiales
+ 
+
+304
+00:05:19,120 --> 00:05:21,670
+linajes celestiales
+como los hechiceros que pueden tener
+
+305
+00:05:21,670 --> 00:05:21,680
+como los hechiceros que pueden tener
+ 
+
+306
+00:05:21,680 --> 00:05:23,510
+como los hechiceros que pueden tener
+sangre angelical o infernal corriendo por sus
+
+307
+00:05:23,510 --> 00:05:23,520
+sangre angelical o infernal corriendo por sus
+ 
+
+308
+00:05:23,520 --> 00:05:24,710
+sangre angelical o infernal corriendo por sus
+venas. Los
+
+309
+00:05:24,710 --> 00:05:24,720
+venas. Los
+ 
+
+310
+00:05:24,720 --> 00:05:27,830
+venas. Los
+clérigos y los oráculos son
+
+311
+00:05:27,830 --> 00:05:27,840
+clérigos y los oráculos son
+ 
+
+312
+00:05:27,840 --> 00:05:30,070
+clérigos y los oráculos son
+lanzadores de conjuros divinos. La
+
+313
+00:05:30,070 --> 00:05:30,080
+lanzadores de conjuros divinos. La
+ 
+
+314
+00:05:30,080 --> 00:05:32,469
+lanzadores de conjuros divinos. La
+magia primordial se ocupa del mundo natural, las
+
+315
+00:05:32,469 --> 00:05:32,479
+magia primordial se ocupa del mundo natural, las
+ 
+
+316
+00:05:32,479 --> 00:05:33,270
+magia primordial se ocupa del mundo natural, las
+
+317
+00:05:33,270 --> 00:05:33,280
+
+ 
+
+318
+00:05:33,280 --> 00:05:37,110
+
+plantas, los animales y el clima. La magia primordial
+
+319
+00:05:37,110 --> 00:05:37,120
+plantas, los animales y el clima. La magia primordial
+ 
+
+320
+00:05:37,120 --> 00:05:37,990
+plantas, los animales y el clima. La magia primordial
+es el reino de los
+
+321
+00:05:37,990 --> 00:05:38,000
+es el reino de los
+ 
+
+322
+00:05:38,000 --> 00:05:40,790
+es el reino de los
+druidas, los chamanes y los hechiceros que pertenecen
+
+323
+00:05:40,790 --> 00:05:40,800
+druidas, los chamanes y los hechiceros que pertenecen
+ 
+
+324
+00:05:40,800 --> 00:05:41,590
+druidas, los chamanes y los hechiceros que pertenecen
+a
+
+325
+00:05:41,590 --> 00:05:41,600
+a
+ 
+
+326
+00:05:41,600 --> 00:05:44,790
+a
+linajes de hadas y bestias. Y por último
+
+327
+00:05:44,790 --> 00:05:44,800
+linajes de hadas y bestias. Y por último
+ 
+
+328
+00:05:44,800 --> 00:05:47,909
+linajes de hadas y bestias. Y por último
+está la tradición oculta. Encuentro
+
+329
+00:05:47,909 --> 00:05:47,919
+está la tradición oculta. Encuentro
+ 
+
+330
+00:05:47,919 --> 00:05:50,230
+está la tradición oculta. Encuentro
+que un culto  La magia es la más difícil
+
+331
+00:05:50,230 --> 00:05:50,240
+que un culto  La magia es la más difícil
+ 
+
+332
+00:05:50,240 --> 00:05:51,510
+que un culto  La magia es la más difícil
+de explicar.
+
+333
+00:05:51,510 --> 00:05:51,520
+de explicar.
+ 
+
+334
+00:05:51,520 --> 00:05:53,830
+de explicar.
+El libro de reglas básico explica la magia oculta de esta manera.
+
+335
+00:05:53,830 --> 00:05:55,110
+El libro de reglas básico explica la magia oculta de esta manera.
+ 
+
+336
+00:05:55,110 --> 00:05:55,120
+
+ 
+
+337
+00:05:55,120 --> 00:05:57,830
+
+Los practicantes de tradiciones ocultas
+
+338
+00:05:57,830 --> 00:05:57,840
+Los practicantes de tradiciones ocultas
+ 
+
+339
+00:05:57,840 --> 00:06:00,469
+Los practicantes de tradiciones ocultas
+buscan comprender lo inexplicable,
+
+340
+00:06:00,469 --> 00:06:00,479
+buscan comprender lo inexplicable,
+ 
+
+341
+00:06:00,479 --> 00:06:03,510
+buscan comprender lo inexplicable,
+categorizar lo extraño y, de lo contrario,
+
+342
+00:06:03,510 --> 00:06:03,520
+categorizar lo extraño y, de lo contrario,
+ 
+
+343
+00:06:03,520 --> 00:06:07,029
+categorizar lo extraño y, de lo contrario,
+acceder a lo efímero de una manera sistemática.
+
+344
+00:06:07,029 --> 00:06:07,039
+acceder a lo efímero de una manera sistemática.
+ 
+
+345
+00:06:07,039 --> 00:06:09,430
+acceder a lo efímero de una manera sistemática.
+Y cuando leo eso a los jugadores, su
+
+346
+00:06:09,430 --> 00:06:09,440
+Y cuando leo eso a los jugadores, su
+ 
+
+347
+00:06:09,440 --> 00:06:11,510
+Y cuando leo eso a los jugadores, su
+respuesta siempre es la misma: me
+
+348
+00:06:11,510 --> 00:06:11,520
+respuesta siempre es la misma: me
+ 
+
+349
+00:06:11,520 --> 00:06:14,550
+respuesta siempre es la misma: me
+miran y dicen: "¿Y eso qué
+
+350
+00:06:14,550 --> 00:06:15,430
+miran y dicen: "¿Y eso qué
+ 
+
+351
+00:06:15,430 --> 00:06:15,440
+
+ 
+
+352
+00:06:15,440 --> 00:06:18,550
+
+significa?". Bueno, la magia oculta
+
+353
+00:06:18,550 --> 00:06:18,560
+significa?". Bueno, la magia oculta
+ 
+
+354
+00:06:18,560 --> 00:06:21,990
+significa?". Bueno, la magia oculta
+es el reino de las brujas, las arpías, las entidades cósmicas, los seres
+
+355
+00:06:21,990 --> 00:06:22,000
+es el reino de las brujas, las arpías, las entidades cósmicas, los seres
+ 
+
+356
+00:06:22,000 --> 00:06:23,029
+es el reino de las brujas, las arpías, las entidades cósmicas, los seres
+
+357
+00:06:23,029 --> 00:06:23,039
+
+ 
+
+358
+00:06:23,039 --> 00:06:25,909
+
+extraños e insondables como los
+
+359
+00:06:25,909 --> 00:06:25,919
+extraños e insondables como los
+ 
+
+360
+00:06:25,919 --> 00:06:28,390
+extraños e insondables como los
+grandes antiguos y los aboleth,
+
+361
+00:06:28,390 --> 00:06:28,400
+grandes antiguos y los aboleth,
+ 
+
+362
+00:06:28,400 --> 00:06:31,590
+grandes antiguos y los aboleth,
+y también los espíritus, las casas embrujadas
+
+363
+00:06:31,590 --> 00:06:31,600
+y también los espíritus, las casas embrujadas
+ 
+
+364
+00:06:31,600 --> 00:06:34,230
+y también los espíritus, las casas embrujadas
+y muchas criaturas con el rasgo de aberración.
+
+365
+00:06:34,230 --> 00:06:34,240
+y muchas criaturas con el rasgo de aberración.
+ 
+
+366
+00:06:34,240 --> 00:06:35,510
+y muchas criaturas con el rasgo de aberración.
+
+367
+00:06:35,510 --> 00:06:35,520
+
+ 
+
+368
+00:06:35,520 --> 00:06:37,590
+
+Uno de mis jugadores incluso ha comenzado a
+
+369
+00:06:37,590 --> 00:06:37,600
+Uno de mis jugadores incluso ha comenzado a
+ 
+
+370
+00:06:37,600 --> 00:06:38,550
+Uno de mis jugadores incluso ha comenzado a
+llamar a esto
+
+371
+00:06:38,550 --> 00:06:38,560
+llamar a esto
+ 
+
+372
+00:06:38,560 --> 00:06:41,909
+llamar a esto
+magia espeluznante y, en la mayoría de los casos, creo que la
+
+373
+00:06:41,909 --> 00:06:41,919
+magia espeluznante y, en la mayoría de los casos, creo que la
+ 
+
+374
+00:06:41,919 --> 00:06:44,710
+magia espeluznante y, en la mayoría de los casos, creo que la
+magia espeluznante resume bastante bien la magia de culto.
+
+375
+00:06:44,710 --> 00:06:44,720
+magia espeluznante resume bastante bien la magia de culto.
+ 
+
+376
+00:06:44,720 --> 00:06:45,990
+magia espeluznante resume bastante bien la magia de culto.
+
+377
+00:06:45,990 --> 00:06:46,000
+
+ 
+
+378
+00:06:46,000 --> 00:06:49,830
+
+Pero los bardos también practican magia oculta y, por lo general,
+
+379
+00:06:49,830 --> 00:06:49,840
+Pero los bardos también practican magia oculta y, por lo general,
+ 
+
+380
+00:06:49,840 --> 00:06:51,909
+Pero los bardos también practican magia oculta y, por lo general,
+no se los considera
+
+381
+00:06:51,909 --> 00:06:51,919
+no se los considera
+ 
+
+382
+00:06:51,919 --> 00:06:53,110
+no se los considera
+espeluznantes,
+
+383
+00:06:53,110 --> 00:06:53,120
+espeluznantes,
+ 
+
+384
+00:06:53,120 --> 00:06:55,350
+espeluznantes,
+y esto lleva a uno de mis grupos a referirse
+
+385
+00:06:55,350 --> 00:06:55,360
+y esto lleva a uno de mis grupos a referirse
+ 
+
+386
+00:06:55,360 --> 00:06:56,309
+y esto lleva a uno de mis grupos a referirse
+al ocultismo
+
+387
+00:06:56,309 --> 00:06:56,319
+al ocultismo
+ 
+
+388
+00:06:56,319 --> 00:06:59,749
+al ocultismo
+como otra magia, como sabemos que hay
+
+389
+00:06:59,749 --> 00:06:59,759
+como otra magia, como sabemos que hay
+ 
+
+390
+00:06:59,759 --> 00:07:01,909
+como otra magia, como sabemos que hay
+magia arcana, magia divina y magia primordial,
+
+391
+00:07:01,909 --> 00:07:01,919
+magia arcana, magia divina y magia primordial,
+ 
+
+392
+00:07:01,919 --> 00:07:02,550
+magia arcana, magia divina y magia primordial,
+
+393
+00:07:02,550 --> 00:07:02,560
+
+ 
+
+394
+00:07:02,560 --> 00:07:04,550
+
+y si no encaja en una de esas
+
+395
+00:07:04,550 --> 00:07:04,560
+y si no encaja en una de esas
+ 
+
+396
+00:07:04,560 --> 00:07:06,390
+y si no encaja en una de esas
+tradiciones más fáciles de entender,
+
+397
+00:07:06,390 --> 00:07:06,400
+tradiciones más fáciles de entender,
+ 
+
+398
+00:07:06,400 --> 00:07:09,909
+tradiciones más fáciles de entender,
+entonces es ocultismo u otra.  Magia,
+
+399
+00:07:09,909 --> 00:07:09,919
+entonces es ocultismo u otra.  Magia,
+ 
+
+400
+00:07:09,919 --> 00:07:11,430
+entonces es ocultismo u otra.  Magia,
+ya sea que quieras pensar en ella como un
+
+401
+00:07:11,430 --> 00:07:11,440
+ya sea que quieras pensar en ella como un
+ 
+
+402
+00:07:11,440 --> 00:07:12,950
+ya sea que quieras pensar en ella como un
+culto, magia espeluznante
+
+403
+00:07:12,950 --> 00:07:12,960
+culto, magia espeluznante
+ 
+
+404
+00:07:12,960 --> 00:07:15,670
+culto, magia espeluznante
+u otra magia, solo debes saber que esta forma
+
+405
+00:07:15,670 --> 00:07:15,680
+u otra magia, solo debes saber que esta forma
+ 
+
+406
+00:07:15,680 --> 00:07:16,550
+u otra magia, solo debes saber que esta forma
+de magia
+
+407
+00:07:16,550 --> 00:07:16,560
+de magia
+ 
+
+408
+00:07:16,560 --> 00:07:19,749
+de magia
+es practicada principalmente por bardos, brujas
+
+409
+00:07:19,749 --> 00:07:19,759
+es practicada principalmente por bardos, brujas
+ 
+
+410
+00:07:19,759 --> 00:07:22,469
+es practicada principalmente por bardos, brujas
+y algunos hechiceros con linajes aberrantes y
+
+411
+00:07:22,469 --> 00:07:22,479
+y algunos hechiceros con linajes aberrantes y
+ 
+
+412
+00:07:22,479 --> 00:07:25,670
+y algunos hechiceros con linajes aberrantes y
+brujas.
+
+413
+00:07:25,670 --> 00:07:25,680
+
+ 
+
+414
+00:07:25,680 --> 00:07:28,309
+
+Además de las tradiciones y las
+
+415
+00:07:28,309 --> 00:07:28,319
+Además de las tradiciones y las
+ 
+
+416
+00:07:28,319 --> 00:07:30,710
+Además de las tradiciones y las
+ocho escuelas de magia, también hay
+
+417
+00:07:30,710 --> 00:07:30,720
+ocho escuelas de magia, también hay
+ 
+
+418
+00:07:30,720 --> 00:07:33,510
+ocho escuelas de magia, también hay
+cuatro esencias de magia. Las
+
+419
+00:07:33,510 --> 00:07:33,520
+cuatro esencias de magia. Las
+ 
+
+420
+00:07:33,520 --> 00:07:34,950
+cuatro esencias de magia. Las
+creencias comunes en Goler
+
+421
+00:07:34,950 --> 00:07:34,960
+creencias comunes en Goler
+ 
+
+422
+00:07:34,960 --> 00:07:37,110
+creencias comunes en Goler
+dicen que toda la existencia en realidad está
+
+423
+00:07:37,110 --> 00:07:37,120
+dicen que toda la existencia en realidad está
+ 
+
+424
+00:07:37,120 --> 00:07:39,189
+dicen que toda la existencia en realidad está
+compuesta por alguna combinación de
+
+425
+00:07:39,189 --> 00:07:39,199
+compuesta por alguna combinación de
+ 
+
+426
+00:07:39,199 --> 00:07:42,629
+compuesta por alguna combinación de
+cuatro esencias: materia, espíritu,
+
+427
+00:07:42,629 --> 00:07:42,639
+cuatro esencias: materia, espíritu,
+ 
+
+428
+00:07:42,639 --> 00:07:45,670
+cuatro esencias: materia, espíritu,
+mente y vida. La esencia de la materia
+
+429
+00:07:45,670 --> 00:07:45,680
+mente y vida. La esencia de la materia
+ 
+
+430
+00:07:45,680 --> 00:07:48,469
+mente y vida. La esencia de la materia
+o esencia material se ocupa del
+
+431
+00:07:48,469 --> 00:07:48,479
+o esencia material se ocupa del
+ 
+
+432
+00:07:48,479 --> 00:07:49,909
+o esencia material se ocupa del
+mundo físico. Los
+
+433
+00:07:49,909 --> 00:07:49,919
+mundo físico. Los
+ 
+
+434
+00:07:49,919 --> 00:07:52,790
+mundo físico. Los
+hechizos que pertenecen a las
+
+435
+00:07:52,790 --> 00:07:52,800
+hechizos que pertenecen a las
+ 
+
+436
+00:07:52,800 --> 00:07:55,350
+hechizos que pertenecen a las
+escuelas de conjuración, evocación y transmutación
+
+437
+00:07:55,350 --> 00:07:55,360
+escuelas de conjuración, evocación y transmutación
+ 
+
+438
+00:07:55,360 --> 00:07:57,830
+escuelas de conjuración, evocación y transmutación
+obtienen su poder de la esencia material.
+
+439
+00:07:57,830 --> 00:07:57,840
+obtienen su poder de la esencia material.
+ 
+
+440
+00:07:57,840 --> 00:07:59,189
+obtienen su poder de la esencia material.
+
+441
+00:07:59,189 --> 00:07:59,199
+
+ 
+
+442
+00:07:59,199 --> 00:08:02,070
+
+La esencia del espíritu se ocupa del
+
+443
+00:08:02,070 --> 00:08:02,080
+La esencia del espíritu se ocupa del
+ 
+
+444
+00:08:02,080 --> 00:08:02,950
+La esencia del espíritu se ocupa del
+alma
+
+445
+00:08:02,950 --> 00:08:02,960
+alma
+ 
+
+446
+00:08:02,960 --> 00:08:05,830
+alma
+o las partes no materiales e inmortales
+
+447
+00:08:05,830 --> 00:08:05,840
+o las partes no materiales e inmortales
+ 
+
+448
+00:08:05,840 --> 00:08:08,070
+o las partes no materiales e inmortales
+que componen un ser vivo.
+
+449
+00:08:08,070 --> 00:08:08,080
+que componen un ser vivo.
+ 
+
+450
+00:08:08,080 --> 00:08:10,869
+que componen un ser vivo.
+Las escuelas de adivinación y nigromancia
+
+451
+00:08:10,869 --> 00:08:10,879
+Las escuelas de adivinación y nigromancia
+ 
+
+452
+00:08:10,879 --> 00:08:11,589
+Las escuelas de adivinación y nigromancia
+pueden extraer
+
+453
+00:08:11,589 --> 00:08:11,599
+pueden extraer
+ 
+
+454
+00:08:11,599 --> 00:08:15,110
+pueden extraer
+de la esencia espiritual. La esencia de la mente
+
+455
+00:08:15,110 --> 00:08:15,120
+de la esencia espiritual. La esencia de la mente
+ 
+
+456
+00:08:15,120 --> 00:08:15,670
+de la esencia espiritual. La esencia de la mente
+
+457
+00:08:15,670 --> 00:08:15,680
+
+ 
+
+458
+00:08:15,680 --> 00:08:17,270
+
+permite que las criaturas pensantes tengan
+
+459
+00:08:17,270 --> 00:08:17,280
+permite que las criaturas pensantes tengan
+ 
+
+460
+00:08:17,280 --> 00:08:19,749
+permite que las criaturas pensantes tengan
+pensamientos racionales y que los animales se comporten
+
+461
+00:08:19,749 --> 00:08:19,759
+pensamientos racionales y que los animales se comporten
+ 
+
+462
+00:08:19,759 --> 00:08:19,990
+pensamientos racionales y que los animales se comporten
+por
+
+463
+00:08:19,990 --> 00:08:20,000
+por
+ 
+
+464
+00:08:20,000 --> 00:08:22,629
+por
+instinto. Los hechizos que usan la esencia de la mente
+
+465
+00:08:22,629 --> 00:08:22,639
+instinto. Los hechizos que usan la esencia de la mente
+ 
+
+466
+00:08:22,639 --> 00:08:23,350
+instinto. Los hechizos que usan la esencia de la mente
+
+467
+00:08:23,350 --> 00:08:23,360
+
+ 
+
+468
+00:08:23,360 --> 00:08:25,589
+
+generalmente se encuentran en las
+
+469
+00:08:25,589 --> 00:08:25,599
+generalmente se encuentran en las
+ 
+
+470
+00:08:25,599 --> 00:08:28,550
+generalmente se encuentran en las
+escuelas de adivinación, encantamiento e ilusión.
+
+471
+00:08:28,550 --> 00:08:28,560
+escuelas de adivinación, encantamiento e ilusión.
+ 
+
+472
+00:08:28,560 --> 00:08:30,710
+escuelas de adivinación, encantamiento e ilusión.
+Y la esencia de la vida representa la
+
+473
+00:08:30,710 --> 00:08:30,720
+Y la esencia de la vida representa la
+ 
+
+474
+00:08:30,720 --> 00:08:32,870
+Y la esencia de la vida representa la
+fuerza universal animadora dentro de
+
+475
+00:08:32,870 --> 00:08:32,880
+fuerza universal animadora dentro de
+ 
+
+476
+00:08:32,880 --> 00:08:35,750
+fuerza universal animadora dentro de
+todos los seres vivos, mientras que la materia
+
+477
+00:08:35,750 --> 00:08:35,760
+todos los seres vivos, mientras que la materia
+ 
+
+478
+00:08:35,760 --> 00:08:37,110
+todos los seres vivos, mientras que la materia
+proporciona los
+
+479
+00:08:37,110 --> 00:08:37,120
+proporciona los
+ 
+
+480
+00:08:37,120 --> 00:08:40,630
+proporciona los
+materiales básicos para un cuerpo. La vida lo mantiene vivo
+
+481
+00:08:40,630 --> 00:08:40,640
+materiales básicos para un cuerpo. La vida lo mantiene vivo
+ 
+
+482
+00:08:40,640 --> 00:08:42,070
+materiales básicos para un cuerpo. La vida lo mantiene vivo
+y bien.
+
+483
+00:08:42,070 --> 00:08:42,080
+y bien.
+ 
+
+484
+00:08:42,080 --> 00:08:43,909
+y bien.
+La mayoría de los hechizos que extraen de la  La
+
+485
+00:08:43,909 --> 00:08:43,919
+La mayoría de los hechizos que extraen de la  La
+ 
+
+486
+00:08:43,919 --> 00:08:46,070
+La mayoría de los hechizos que extraen de la  La
+esencia vital pertenece a la escuela de
+
+487
+00:08:46,070 --> 00:08:46,080
+esencia vital pertenece a la escuela de
+ 
+
+488
+00:08:46,080 --> 00:08:49,990
+esencia vital pertenece a la escuela de
+nigromancia. La razón por la
+
+489
+00:08:49,990 --> 00:08:50,000
+nigromancia. La razón por la
+ 
+
+490
+00:08:50,000 --> 00:08:52,150
+nigromancia. La razón por la
+que es útil que los jugadores conozcan
+
+491
+00:08:52,150 --> 00:08:52,160
+que es útil que los jugadores conozcan
+ 
+
+492
+00:08:52,160 --> 00:08:54,310
+que es útil que los jugadores conozcan
+las cuatro esencias es porque cada
+
+493
+00:08:54,310 --> 00:08:54,320
+las cuatro esencias es porque cada
+ 
+
+494
+00:08:54,320 --> 00:08:55,030
+las cuatro esencias es porque cada
+tradición
+
+495
+00:08:55,030 --> 00:08:55,040
+tradición
+ 
+
+496
+00:08:55,040 --> 00:08:58,070
+tradición
+se centra en exactamente dos de ellas,
+
+497
+00:08:58,070 --> 00:08:58,080
+se centra en exactamente dos de ellas,
+ 
+
+498
+00:08:58,080 --> 00:09:00,550
+se centra en exactamente dos de ellas,
+y comprender esa relación
+
+499
+00:09:00,550 --> 00:09:00,560
+y comprender esa relación
+ 
+
+500
+00:09:00,560 --> 00:09:03,269
+y comprender esa relación
+ayudará a arrojar luz sobre qué tipo de hechizos
+
+501
+00:09:03,269 --> 00:09:05,509
+ayudará a arrojar luz sobre qué tipo de hechizos
+ 
+
+502
+00:09:05,509 --> 00:09:05,519
+
+ 
+
+503
+00:09:05,519 --> 00:09:07,350
+
+dominan cada tradición y sus lanzadores de hechizos. La
+
+504
+00:09:07,350 --> 00:09:07,360
+dominan cada tradición y sus lanzadores de hechizos. La
+ 
+
+505
+00:09:07,360 --> 00:09:10,070
+dominan cada tradición y sus lanzadores de hechizos. La
+tradición arcana se centra en las esencias de la
+
+506
+00:09:10,070 --> 00:09:10,080
+tradición arcana se centra en las esencias de la
+ 
+
+507
+00:09:10,080 --> 00:09:10,630
+tradición arcana se centra en las esencias de la
+materia
+
+508
+00:09:10,630 --> 00:09:10,640
+materia
+ 
+
+509
+00:09:10,640 --> 00:09:13,509
+materia
+y la mente, y por lo tanto, la
+
+510
+00:09:13,509 --> 00:09:13,519
+y la mente, y por lo tanto, la
+ 
+
+511
+00:09:13,519 --> 00:09:14,949
+y la mente, y por lo tanto, la
+lista de hechizos arcanos
+
+512
+00:09:14,949 --> 00:09:14,959
+lista de hechizos arcanos
+ 
+
+513
+00:09:14,959 --> 00:09:17,750
+lista de hechizos arcanos
+tiene muchas opciones de las escuelas de
+
+514
+00:09:17,750 --> 00:09:17,760
+tiene muchas opciones de las escuelas de
+ 
+
+515
+00:09:17,760 --> 00:09:18,949
+tiene muchas opciones de las escuelas de
+conjuración,
+
+516
+00:09:18,949 --> 00:09:18,959
+conjuración,
+ 
+
+517
+00:09:18,959 --> 00:09:22,230
+conjuración,
+adivinación, encantamiento, evocación,
+
+518
+00:09:22,230 --> 00:09:22,240
+adivinación, encantamiento, evocación,
+ 
+
+519
+00:09:22,240 --> 00:09:25,190
+adivinación, encantamiento, evocación,
+ilusión y transmutación. En otras
+
+520
+00:09:25,190 --> 00:09:25,200
+ilusión y transmutación. En otras
+ 
+
+521
+00:09:25,200 --> 00:09:25,750
+ilusión y transmutación. En otras
+palabras, los
+
+522
+00:09:25,750 --> 00:09:25,760
+palabras, los
+ 
+
+523
+00:09:25,760 --> 00:09:29,110
+palabras, los
+lanzadores de hechizos arcanos tienen una
+
+524
+00:09:29,110 --> 00:09:29,120
+lanzadores de hechizos arcanos tienen una
+ 
+
+525
+00:09:29,120 --> 00:09:30,949
+lanzadores de hechizos arcanos tienen una
+selección muy amplia de hechizos,
+
+526
+00:09:30,949 --> 00:09:30,959
+selección muy amplia de hechizos,
+ 
+
+527
+00:09:30,959 --> 00:09:33,430
+selección muy amplia de hechizos,
+pero son extremadamente limitados cuando se trata de
+
+528
+00:09:33,430 --> 00:09:33,440
+pero son extremadamente limitados cuando se trata de
+ 
+
+529
+00:09:33,440 --> 00:09:34,790
+pero son extremadamente limitados cuando se trata de
+nigromancia.
+
+530
+00:09:34,790 --> 00:09:34,800
+nigromancia.
+ 
+
+531
+00:09:34,800 --> 00:09:36,870
+nigromancia.
+No están muy bien equipados con
+
+532
+00:09:36,870 --> 00:09:36,880
+No están muy bien equipados con
+ 
+
+533
+00:09:36,880 --> 00:09:38,310
+No están muy bien equipados con
+magia curativa.
+
+534
+00:09:38,310 --> 00:09:38,320
+magia curativa.
+ 
+
+535
+00:09:38,320 --> 00:09:40,389
+magia curativa.
+Eso no quiere decir que un mago no pueda lanzar
+
+536
+00:09:40,389 --> 00:09:40,399
+Eso no quiere decir que un mago no pueda lanzar
+ 
+
+537
+00:09:40,399 --> 00:09:41,910
+Eso no quiere decir que un mago no pueda lanzar
+algunos hechizos de nigromancia
+
+538
+00:09:41,910 --> 00:09:41,920
+algunos hechizos de nigromancia
+ 
+
+539
+00:09:41,920 --> 00:09:43,750
+algunos hechizos de nigromancia
+o incluso especializarse en la escuela de
+
+540
+00:09:43,750 --> 00:09:43,760
+o incluso especializarse en la escuela de
+ 
+
+541
+00:09:43,760 --> 00:09:45,190
+o incluso especializarse en la escuela de
+nigromancia, solo
+
+542
+00:09:45,190 --> 00:09:45,200
+nigromancia, solo
+ 
+
+543
+00:09:45,200 --> 00:09:47,030
+nigromancia, solo
+que hay menos de esos hechizos
+
+544
+00:09:47,030 --> 00:09:47,040
+que hay menos de esos hechizos
+ 
+
+545
+00:09:47,040 --> 00:09:48,949
+que hay menos de esos hechizos
+disponibles que en algunas de las otras
+
+546
+00:09:48,949 --> 00:09:48,959
+disponibles que en algunas de las otras
+ 
+
+547
+00:09:48,959 --> 00:09:50,470
+disponibles que en algunas de las otras
+escuelas.
+
+548
+00:09:50,470 --> 00:09:50,480
+escuelas.
+ 
+
+549
+00:09:50,480 --> 00:09:52,630
+escuelas.
+La tradición divina es el polo
+
+550
+00:09:52,630 --> 00:09:52,640
+La tradición divina es el polo
+ 
+
+551
+00:09:52,640 --> 00:09:54,870
+La tradición divina es el polo
+opuesto de la tradición arcana
+
+552
+00:09:54,870 --> 00:09:54,880
+opuesto de la tradición arcana
+ 
+
+553
+00:09:54,880 --> 00:09:58,230
+opuesto de la tradición arcana
+en que la lista de hechizos divinos se centra en
+
+554
+00:09:58,230 --> 00:09:58,240
+en que la lista de hechizos divinos se centra en
+ 
+
+555
+00:09:58,240 --> 00:10:01,590
+en que la lista de hechizos divinos se centra en
+el espíritu y las esencias vitales, lo que no quiere
+
+556
+00:10:01,590 --> 00:10:01,600
+el espíritu y las esencias vitales, lo que no quiere
+ 
+
+557
+00:10:01,600 --> 00:10:02,230
+el espíritu y las esencias vitales, lo que no quiere
+decir
+
+558
+00:10:02,230 --> 00:10:02,240
+decir
+ 
+
+559
+00:10:02,240 --> 00:10:04,470
+decir
+que no tengan hechizos de las otras
+
+560
+00:10:04,470 --> 00:10:04,480
+que no tengan hechizos de las otras
+ 
+
+561
+00:10:04,480 --> 00:10:06,470
+que no tengan hechizos de las otras
+escuelas, pero los lanzadores divinos
+
+562
+00:10:06,470 --> 00:10:06,480
+escuelas, pero los lanzadores divinos
+ 
+
+563
+00:10:06,480 --> 00:10:08,550
+escuelas, pero los lanzadores divinos
+realmente brillan cuando se trata de asuntos de
+
+564
+00:10:08,550 --> 00:10:08,560
+realmente brillan cuando se trata de asuntos de
+ 
+
+565
+00:10:08,560 --> 00:10:11,350
+realmente brillan cuando se trata de asuntos de
+curación.  En el alma inmortal,
+
+566
+00:10:11,350 --> 00:10:11,360
+curación.  En el alma inmortal,
+ 
+
+567
+00:10:11,360 --> 00:10:13,829
+curación.  En el alma inmortal,
+la tradición oculta se centra en las
+
+568
+00:10:13,829 --> 00:10:13,839
+la tradición oculta se centra en las
+ 
+
+569
+00:10:13,839 --> 00:10:16,069
+la tradición oculta se centra en las
+esencias del espíritu y la mente,
+
+570
+00:10:16,069 --> 00:10:16,079
+esencias del espíritu y la mente,
+ 
+
+571
+00:10:16,079 --> 00:10:18,069
+esencias del espíritu y la mente,
+por lo tanto, podemos esperar que los bardos y las
+
+572
+00:10:18,069 --> 00:10:18,079
+por lo tanto, podemos esperar que los bardos y las
+ 
+
+573
+00:10:18,079 --> 00:10:21,190
+por lo tanto, podemos esperar que los bardos y las
+brujas sobresalgan en inspirar a sus aliados
+
+574
+00:10:21,190 --> 00:10:21,200
+brujas sobresalgan en inspirar a sus aliados
+ 
+
+575
+00:10:21,200 --> 00:10:24,790
+brujas sobresalgan en inspirar a sus aliados
+y desmoralizar a sus enemigos y, por último,
+
+576
+00:10:24,790 --> 00:10:24,800
+y desmoralizar a sus enemigos y, por último,
+ 
+
+577
+00:10:24,800 --> 00:10:27,509
+y desmoralizar a sus enemigos y, por último,
+la tradición primordial es lo opuesto a
+
+578
+00:10:27,509 --> 00:10:27,519
+la tradición primordial es lo opuesto a
+ 
+
+579
+00:10:27,519 --> 00:10:28,949
+la tradición primordial es lo opuesto a
+la tradición oculta
+
+580
+00:10:28,949 --> 00:10:28,959
+la tradición oculta
+ 
+
+581
+00:10:28,959 --> 00:10:31,190
+la tradición oculta
+en que se ocupa principalmente de la
+
+582
+00:10:31,190 --> 00:10:31,200
+en que se ocupa principalmente de la
+ 
+
+583
+00:10:31,200 --> 00:10:32,230
+en que se ocupa principalmente de la
+materia y las
+
+584
+00:10:32,230 --> 00:10:32,240
+materia y las
+ 
+
+585
+00:10:32,240 --> 00:10:35,430
+materia y las
+esencias de la vida, por lo que los druidas tienen más hechizos
+
+586
+00:10:35,430 --> 00:10:35,440
+esencias de la vida, por lo que los druidas tienen más hechizos
+ 
+
+587
+00:10:35,440 --> 00:10:37,750
+esencias de la vida, por lo que los druidas tienen más hechizos
+que se centran en manipular el reino físico,
+
+588
+00:10:37,750 --> 00:10:37,760
+que se centran en manipular el reino físico,
+ 
+
+589
+00:10:37,760 --> 00:10:38,550
+que se centran en manipular el reino físico,
+
+590
+00:10:38,550 --> 00:10:38,560
+
+ 
+
+591
+00:10:38,560 --> 00:10:41,509
+
+como el crecimiento de garras, la invocación de animales o la
+
+592
+00:10:41,509 --> 00:10:41,519
+como el crecimiento de garras, la invocación de animales o la
+ 
+
+593
+00:10:41,519 --> 00:10:43,190
+como el crecimiento de garras, la invocación de animales o la
+manipulación del clima,
+
+594
+00:10:43,190 --> 00:10:43,200
+manipulación del clima,
+ 
+
+595
+00:10:43,200 --> 00:10:45,590
+manipulación del clima,
+así como hechizos que mejoran la
+
+596
+00:10:45,590 --> 00:10:45,600
+así como hechizos que mejoran la
+ 
+
+597
+00:10:45,600 --> 00:10:47,509
+así como hechizos que mejoran la
+energía vital que fluye a través de todos los seres vivos
+
+598
+00:10:47,509 --> 00:10:47,519
+energía vital que fluye a través de todos los seres vivos
+ 
+
+599
+00:10:47,519 --> 00:10:48,310
+energía vital que fluye a través de todos los seres vivos
+
+600
+00:10:48,310 --> 00:10:48,320
+
+ 
+
+601
+00:10:48,320 --> 00:10:51,350
+
+y eso incluye la magia curativa, por lo que
+
+602
+00:10:51,350 --> 00:10:51,360
+y eso incluye la magia curativa, por lo que
+ 
+
+603
+00:10:51,360 --> 00:10:54,470
+y eso incluye la magia curativa, por lo que
+puedes ver que cada una de las esencias
+
+604
+00:10:54,470 --> 00:10:54,480
+puedes ver que cada una de las esencias
+ 
+
+605
+00:10:54,480 --> 00:10:56,870
+puedes ver que cada una de las esencias
+está asociada con una o más escuelas
+
+606
+00:10:56,870 --> 00:10:56,880
+está asociada con una o más escuelas
+ 
+
+607
+00:10:56,880 --> 00:10:57,990
+está asociada con una o más escuelas
+de magia
+
+608
+00:10:57,990 --> 00:10:58,000
+de magia
+ 
+
+609
+00:10:58,000 --> 00:11:01,430
+de magia
+y cada tradición se especializa en dos de
+
+610
+00:11:01,430 --> 00:11:01,440
+y cada tradición se especializa en dos de
+ 
+
+611
+00:11:01,440 --> 00:11:02,710
+y cada tradición se especializa en dos de
+estas esencias
+
+612
+00:11:02,710 --> 00:11:02,720
+estas esencias
+ 
+
+613
+00:11:02,720 --> 00:11:05,350
+estas esencias
+y no hay dos tradiciones que estén influenciadas por
+
+614
+00:11:05,350 --> 00:11:05,360
+y no hay dos tradiciones que estén influenciadas por
+ 
+
+615
+00:11:05,360 --> 00:11:06,230
+y no hay dos tradiciones que estén influenciadas por
+las mismas dos
+
+616
+00:11:06,230 --> 00:11:06,240
+las mismas dos
+ 
+
+617
+00:11:06,240 --> 00:11:09,829
+las mismas dos
+esencias. A partir de aquí podemos tener una idea
+
+618
+00:11:09,829 --> 00:11:09,839
+esencias. A partir de aquí podemos tener una idea
+ 
+
+619
+00:11:09,839 --> 00:11:12,310
+esencias. A partir de aquí podemos tener una idea
+de qué escuelas de magia son dominantes
+
+620
+00:11:12,310 --> 00:11:12,320
+de qué escuelas de magia son dominantes
+ 
+
+621
+00:11:12,320 --> 00:11:14,550
+de qué escuelas de magia son dominantes
+para cada una de las diferentes tradiciones
+
+622
+00:11:14,550 --> 00:11:14,560
+para cada una de las diferentes tradiciones
+ 
+
+623
+00:11:14,560 --> 00:11:17,110
+para cada una de las diferentes tradiciones
+y si tienes curiosidad sobre la escuela
+
+624
+00:11:17,110 --> 00:11:17,120
+y si tienes curiosidad sobre la escuela
+ 
+
+625
+00:11:17,120 --> 00:11:18,949
+y si tienes curiosidad sobre la escuela
+de magia de adoración,
+
+626
+00:11:18,949 --> 00:11:18,959
+de magia de adoración,
+ 
+
+627
+00:11:18,959 --> 00:11:21,269
+de magia de adoración,
+no te preocupes, esa escuela no se deja de lado,
+
+628
+00:11:21,269 --> 00:11:21,279
+no te preocupes, esa escuela no se deja de lado,
+ 
+
+629
+00:11:21,279 --> 00:11:22,150
+no te preocupes, esa escuela no se deja de lado,
+en cambio, se
+
+630
+00:11:22,150 --> 00:11:22,160
+en cambio, se
+ 
+
+631
+00:11:22,160 --> 00:11:25,190
+en cambio, se
+aplica a todas las esencias y
+
+632
+00:11:25,190 --> 00:11:25,200
+aplica a todas las esencias y
+ 
+
+633
+00:11:25,200 --> 00:11:25,990
+aplica a todas las esencias y
+tradiciones
+
+634
+00:11:25,990 --> 00:11:26,000
+tradiciones
+ 
+
+635
+00:11:26,000 --> 00:11:28,630
+tradiciones
+dependiendo de lo que se esté protegiendo o de
+
+636
+00:11:28,630 --> 00:11:28,640
+dependiendo de lo que se esté protegiendo o de
+ 
+
+637
+00:11:28,640 --> 00:11:30,550
+dependiendo de lo que se esté protegiendo o de
+qué criatura o efecto se esté defendiendo el lanzador de hechizos.
+
+638
+00:11:30,550 --> 00:11:33,030
+qué criatura o efecto se esté defendiendo el lanzador de hechizos.
+ 
+
+639
+00:11:33,030 --> 00:11:33,040
+
+ 
+
+640
+00:11:33,040 --> 00:11:34,870
+
+Este video ha servido para formar una
+
+641
+00:11:34,870 --> 00:11:34,880
+Este video ha servido para formar una
+ 
+
+642
+00:11:34,880 --> 00:11:36,389
+Este video ha servido para formar una
+base  Para ayudar a
+
+643
+00:11:36,389 --> 00:11:36,399
+base  Para ayudar a
+ 
+
+644
+00:11:36,399 --> 00:11:38,870
+base  Para ayudar a
+comprender cómo se organiza la magia en
+
+645
+00:11:38,870 --> 00:11:38,880
+comprender cómo se organiza la magia en
+ 
+
+646
+00:11:38,880 --> 00:11:39,829
+comprender cómo se organiza la magia en
+Pathfinder,
+
+647
+00:11:39,829 --> 00:11:39,839
+Pathfinder,
+ 
+
+648
+00:11:39,839 --> 00:11:42,230
+Pathfinder,
+en la siguiente parte de esta serie
+
+649
+00:11:42,230 --> 00:11:42,240
+en la siguiente parte de esta serie
+ 
+
+650
+00:11:42,240 --> 00:11:43,750
+en la siguiente parte de esta serie
+profundizaremos en temas
+
+651
+00:11:43,750 --> 00:11:43,760
+profundizaremos en temas
+ 
+
+652
+00:11:43,760 --> 00:11:46,150
+profundizaremos en temas
+como el lanzamiento de hechizos preparado versus espontáneo, las
+
+653
+00:11:46,150 --> 00:11:47,509
+como el lanzamiento de hechizos preparado versus espontáneo, las
+ 
+
+654
+00:11:47,509 --> 00:11:47,519
+
+ 
+
+655
+00:11:47,519 --> 00:11:53,110
+
+ranuras para hechizos y los hechizos de aumento.
+
+656
+00:11:53,110 --> 00:11:53,120
+
+ 
+
+657
+00:11:53,120 --> 00:11:54,790
+
+Antes de cerrar, me gustaría
+
+658
+00:11:54,790 --> 00:11:54,800
+Antes de cerrar, me gustaría
+ 
+
+659
+00:11:54,800 --> 00:11:56,949
+Antes de cerrar, me gustaría
+agradecer a todos nuestros patrocinadores.
+
+660
+00:11:56,949 --> 00:11:56,959
+agradecer a todos nuestros patrocinadores.
+ 
+
+661
+00:11:56,959 --> 00:11:58,790
+agradecer a todos nuestros patrocinadores.
+Estos videos no serían posibles
+
+662
+00:11:58,790 --> 00:11:58,800
+Estos videos no serían posibles
+ 
+
+663
+00:11:58,800 --> 00:12:01,110
+Estos videos no serían posibles
+sin su continua generosidad y
+
+664
+00:12:01,110 --> 00:12:01,120
+sin su continua generosidad y
+ 
+
+665
+00:12:01,120 --> 00:12:02,389
+sin su continua generosidad y
+apoyo. Los
+
+666
+00:12:02,389 --> 00:12:02,399
+apoyo. Los
+ 
+
+667
+00:12:02,399 --> 00:12:04,710
+apoyo. Los
+miembros de la comunidad de Patreon de Basics for Gamers
+
+668
+00:12:04,710 --> 00:12:04,720
+miembros de la comunidad de Patreon de Basics for Gamers
+ 
+
+669
+00:12:04,720 --> 00:12:06,629
+miembros de la comunidad de Patreon de Basics for Gamers
+reciben beneficios especiales,
+
+670
+00:12:06,629 --> 00:12:06,639
+reciben beneficios especiales,
+ 
+
+671
+00:12:06,639 --> 00:12:08,550
+reciben beneficios especiales,
+como votar sobre los temas que
+
+672
+00:12:08,550 --> 00:12:08,560
+como votar sobre los temas que
+ 
+
+673
+00:12:08,560 --> 00:12:10,790
+como votar sobre los temas que
+cubriremos en el futuro y también pueden
+
+674
+00:12:10,790 --> 00:12:10,800
+cubriremos en el futuro y también pueden
+ 
+
+675
+00:12:10,800 --> 00:12:11,910
+cubriremos en el futuro y también pueden
+ver estos videos
+
+676
+00:12:11,910 --> 00:12:11,920
+ver estos videos
+ 
+
+677
+00:12:11,920 --> 00:12:14,790
+ver estos videos
+una semana sin publicidad antes que todos los
+
+678
+00:12:14,790 --> 00:12:14,800
+una semana sin publicidad antes que todos los
+ 
+
+679
+00:12:14,800 --> 00:12:16,069
+una semana sin publicidad antes que todos los
+demás.
+
+680
+00:12:16,069 --> 00:12:16,079
+demás.
+ 
+
+681
+00:12:16,079 --> 00:12:17,670
+demás.
+Visiten el enlace que se muestra a la izquierda de la
+
+682
+00:12:17,670 --> 00:12:17,680
+Visiten el enlace que se muestra a la izquierda de la
+ 
+
+683
+00:12:17,680 --> 00:12:19,509
+Visiten el enlace que se muestra a la izquierda de la
+pantalla y en la descripción. Si
+
+684
+00:12:19,509 --> 00:12:19,519
+pantalla y en la descripción. Si
+ 
+
+685
+00:12:19,519 --> 00:12:20,949
+pantalla y en la descripción. Si
+desean obtener más información sobre cómo convertirse en
+
+686
+00:12:20,949 --> 00:12:20,959
+desean obtener más información sobre cómo convertirse en
+ 
+
+687
+00:12:20,959 --> 00:12:22,389
+desean obtener más información sobre cómo convertirse en
+patrocinador,
+
+688
+00:12:22,389 --> 00:12:22,399
+patrocinador,
+ 
+
+689
+00:12:22,399 --> 00:12:23,590
+patrocinador,
+si desean apoyar este
+
+690
+00:12:23,590 --> 00:12:23,600
+si desean apoyar este
+ 
+
+691
+00:12:23,600 --> 00:12:25,509
+si desean apoyar este
+canal y ayudarlo a crecer, la forma más fácil
+
+692
+00:12:25,509 --> 00:12:25,519
+canal y ayudarlo a crecer, la forma más fácil
+ 
+
+693
+00:12:25,519 --> 00:12:26,470
+canal y ayudarlo a crecer, la forma más fácil
+de hacerlo es
+
+694
+00:12:26,470 --> 00:12:26,480
+de hacerlo es
+ 
+
+695
+00:12:26,480 --> 00:12:28,790
+de hacerlo es
+suscribiéndose y haciendo clic en el ícono de la campana
+
+696
+00:12:28,790 --> 00:12:28,800
+suscribiéndose y haciendo clic en el ícono de la campana
+ 
+
+697
+00:12:28,800 --> 00:12:29,590
+suscribiéndose y haciendo clic en el ícono de la campana
+
+698
+00:12:29,590 --> 00:12:29,600
+
+ 
+
+699
+00:12:29,600 --> 00:12:31,509
+
+para que se les notifique cuando se publiquen nuevos videos. También
+
+700
+00:12:31,509 --> 00:12:31,519
+para que se les notifique cuando se publiquen nuevos videos. También
+ 
+
+701
+00:12:31,519 --> 00:12:33,750
+para que se les notifique cuando se publiquen nuevos videos. También
+pueden comunicarse con nosotros a
+
+702
+00:12:33,750 --> 00:12:33,760
+pueden comunicarse con nosotros a
+ 
+
+703
+00:12:33,760 --> 00:12:35,350
+pueden comunicarse con nosotros a
+través de nuestras páginas de Twitter y Facebook.
+
+704
+00:12:35,350 --> 00:12:35,360
+través de nuestras páginas de Twitter y Facebook.
+ 
+
+705
+00:12:35,360 --> 00:12:36,230
+través de nuestras páginas de Twitter y Facebook.
+
+706
+00:12:36,230 --> 00:12:36,240
+
+ 
+
+707
+00:12:36,240 --> 00:12:38,069
+
+Gracias por ver, cuídense y nos
+
+708
+00:12:38,069 --> 00:12:38,079
+Gracias por ver, cuídense y nos
+ 
+
+709
+00:12:38,079 --> 00:12:40,750
+Gracias por ver, cuídense y nos
+vemos pronto con más conceptos básicos de
+
+710
+00:12:40,750 --> 00:12:40,760
+vemos pronto con más conceptos básicos de
+ 
+
+711
+00:12:40,760 --> 00:12:43,760
+vemos pronto con más conceptos básicos de
+Pathfinder.
+

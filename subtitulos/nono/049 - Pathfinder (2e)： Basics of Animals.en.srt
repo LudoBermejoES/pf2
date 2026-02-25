@@ -1,0 +1,3325 @@
+1
+00:00:00,659 --> 00:00:03,110
+
+hello and welcome to the basics of
+
+2
+00:00:03,110 --> 00:00:03,120
+hello and welcome to the basics of
+ 
+
+3
+00:00:03,120 --> 00:00:05,420
+hello and welcome to the basics of
+animals in Pathfinder second edition in
+
+4
+00:00:05,420 --> 00:00:05,430
+animals in Pathfinder second edition in
+ 
+
+5
+00:00:05,430 --> 00:00:07,970
+animals in Pathfinder second edition in
+this course will examine animals in a
+
+6
+00:00:07,970 --> 00:00:07,980
+this course will examine animals in a
+ 
+
+7
+00:00:07,980 --> 00:00:10,700
+this course will examine animals in a
+general sense and following videos will
+
+8
+00:00:10,700 --> 00:00:10,710
+general sense and following videos will
+ 
+
+9
+00:00:10,710 --> 00:00:13,280
+general sense and following videos will
+cover more specialized animals such as
+
+10
+00:00:13,280 --> 00:00:13,290
+cover more specialized animals such as
+ 
+
+11
+00:00:13,290 --> 00:00:18,439
+cover more specialized animals such as
+mounts companions and familiars animals
+
+12
+00:00:18,439 --> 00:00:18,449
+mounts companions and familiars animals
+ 
+
+13
+00:00:18,449 --> 00:00:20,359
+mounts companions and familiars animals
+are naturally occurring creatures that
+
+14
+00:00:20,359 --> 00:00:20,369
+are naturally occurring creatures that
+ 
+
+15
+00:00:20,369 --> 00:00:22,790
+are naturally occurring creatures that
+commonly exist in the real world too
+
+16
+00:00:22,790 --> 00:00:22,800
+commonly exist in the real world too
+ 
+
+17
+00:00:22,800 --> 00:00:24,729
+commonly exist in the real world too
+it's important to note that within
+
+18
+00:00:24,729 --> 00:00:24,739
+it's important to note that within
+ 
+
+19
+00:00:24,739 --> 00:00:28,009
+it's important to note that within
+Pathfinder not every creature that looks
+
+20
+00:00:28,009 --> 00:00:28,019
+Pathfinder not every creature that looks
+ 
+
+21
+00:00:28,019 --> 00:00:30,229
+Pathfinder not every creature that looks
+like an animal or shares its name with
+
+22
+00:00:30,229 --> 00:00:30,239
+like an animal or shares its name with
+ 
+
+23
+00:00:30,239 --> 00:00:33,530
+like an animal or shares its name with
+an animal is considered to be an animal
+
+24
+00:00:33,530 --> 00:00:33,540
+an animal is considered to be an animal
+ 
+
+25
+00:00:33,540 --> 00:00:37,760
+an animal is considered to be an animal
+in game terms for example on the Left we
+
+26
+00:00:37,760 --> 00:00:37,770
+in game terms for example on the Left we
+ 
+
+27
+00:00:37,770 --> 00:00:40,730
+in game terms for example on the Left we
+have a picture of a wolf and on the
+
+28
+00:00:40,730 --> 00:00:40,740
+have a picture of a wolf and on the
+ 
+
+29
+00:00:40,740 --> 00:00:43,220
+have a picture of a wolf and on the
+right there is a picture of a winter
+
+30
+00:00:43,220 --> 00:00:43,230
+right there is a picture of a winter
+ 
+
+31
+00:00:43,230 --> 00:00:46,430
+right there is a picture of a winter
+wolf they both look similar they're both
+
+32
+00:00:46,430 --> 00:00:46,440
+wolf they both look similar they're both
+ 
+
+33
+00:00:46,440 --> 00:00:49,280
+wolf they both look similar they're both
+cold wolves but only one of them is
+
+34
+00:00:49,280 --> 00:00:49,290
+cold wolves but only one of them is
+ 
+
+35
+00:00:49,290 --> 00:00:53,120
+cold wolves but only one of them is
+considered to be an animal wolves are
+
+36
+00:00:53,120 --> 00:00:53,130
+considered to be an animal wolves are
+ 
+
+37
+00:00:53,130 --> 00:00:55,190
+considered to be an animal wolves are
+animals and we know this because their
+
+38
+00:00:55,190 --> 00:00:55,200
+animals and we know this because their
+ 
+
+39
+00:00:55,200 --> 00:00:58,280
+animals and we know this because their
+step block shows the animal tag but
+
+40
+00:00:58,280 --> 00:00:58,290
+step block shows the animal tag but
+ 
+
+41
+00:00:58,290 --> 00:01:01,729
+step block shows the animal tag but
+winter wolves are not animals we can see
+
+42
+00:01:01,729 --> 00:01:01,739
+winter wolves are not animals we can see
+ 
+
+43
+00:01:01,739 --> 00:01:04,999
+winter wolves are not animals we can see
+here that they are beasts and the key
+
+44
+00:01:04,999 --> 00:01:05,009
+here that they are beasts and the key
+ 
+
+45
+00:01:05,009 --> 00:01:07,099
+here that they are beasts and the key
+difference between an animal and a beast
+
+46
+00:01:07,099 --> 00:01:07,109
+difference between an animal and a beast
+ 
+
+47
+00:01:07,109 --> 00:01:10,819
+difference between an animal and a beast
+is intelligence animals have an
+
+48
+00:01:10,819 --> 00:01:10,829
+is intelligence animals have an
+ 
+
+49
+00:01:10,829 --> 00:01:13,819
+is intelligence animals have an
+intelligence modifier of negative 4 or
+
+50
+00:01:13,819 --> 00:01:13,829
+intelligence modifier of negative 4 or
+ 
+
+51
+00:01:13,829 --> 00:01:16,550
+intelligence modifier of negative 4 or
+lower and beasts have intelligence
+
+52
+00:01:16,550 --> 00:01:16,560
+lower and beasts have intelligence
+ 
+
+53
+00:01:16,560 --> 00:01:19,870
+lower and beasts have intelligence
+modifiers of negative 3 or higher as
+
+54
+00:01:19,870 --> 00:01:19,880
+modifiers of negative 3 or higher as
+ 
+
+55
+00:01:19,880 --> 00:01:22,819
+modifiers of negative 3 or higher as
+such beasts are often intelligent enough
+
+56
+00:01:22,819 --> 00:01:22,829
+such beasts are often intelligent enough
+ 
+
+57
+00:01:22,829 --> 00:01:25,099
+such beasts are often intelligent enough
+to understand languages and they can
+
+58
+00:01:25,099 --> 00:01:25,109
+to understand languages and they can
+ 
+
+59
+00:01:25,109 --> 00:01:27,139
+to understand languages and they can
+apply a reason that goes beyond just
+
+60
+00:01:27,139 --> 00:01:27,149
+apply a reason that goes beyond just
+ 
+
+61
+00:01:27,149 --> 00:01:30,109
+apply a reason that goes beyond just
+simple animal instincts and therefore
+
+62
+00:01:30,109 --> 00:01:30,119
+simple animal instincts and therefore
+ 
+
+63
+00:01:30,119 --> 00:01:32,359
+simple animal instincts and therefore
+you would likely use the diplomacy and
+
+64
+00:01:32,359 --> 00:01:32,369
+you would likely use the diplomacy and
+ 
+
+65
+00:01:32,369 --> 00:01:35,090
+you would likely use the diplomacy and
+intimidation skills to influence a beast
+
+66
+00:01:35,090 --> 00:01:35,100
+intimidation skills to influence a beast
+ 
+
+67
+00:01:35,100 --> 00:01:37,399
+intimidation skills to influence a beast
+instead of the nature skill which is
+
+68
+00:01:37,399 --> 00:01:37,409
+instead of the nature skill which is
+ 
+
+69
+00:01:37,409 --> 00:01:39,199
+instead of the nature skill which is
+what you would use to influence an
+
+70
+00:01:39,199 --> 00:01:39,209
+what you would use to influence an
+ 
+
+71
+00:01:39,209 --> 00:01:42,410
+what you would use to influence an
+animal a few standard animals are
+
+72
+00:01:42,410 --> 00:01:42,420
+animal a few standard animals are
+ 
+
+73
+00:01:42,420 --> 00:01:44,480
+animal a few standard animals are
+included in the core rules and may be
+
+74
+00:01:44,480 --> 00:01:44,490
+included in the core rules and may be
+ 
+
+75
+00:01:44,490 --> 00:01:47,599
+included in the core rules and may be
+purchased for example guard dogs you'll
+
+76
+00:01:47,599 --> 00:01:47,609
+purchased for example guard dogs you'll
+ 
+
+77
+00:01:47,609 --> 00:01:50,719
+purchased for example guard dogs you'll
+notice two costs are presented guard
+
+78
+00:01:50,719 --> 00:01:50,729
+notice two costs are presented guard
+ 
+
+79
+00:01:50,729 --> 00:01:53,569
+notice two costs are presented guard
+dogs can be rented for one copper per
+
+80
+00:01:53,569 --> 00:01:53,579
+dogs can be rented for one copper per
+ 
+
+81
+00:01:53,579 --> 00:01:56,539
+dogs can be rented for one copper per
+day or purchased for two silver pieces
+
+82
+00:01:56,539 --> 00:01:56,549
+day or purchased for two silver pieces
+ 
+
+83
+00:01:56,549 --> 00:02:00,529
+day or purchased for two silver pieces
+if renting the full expense is due
+
+84
+00:02:00,529 --> 00:02:00,539
+if renting the full expense is due
+ 
+
+85
+00:02:00,539 --> 00:02:03,859
+if renting the full expense is due
+upfront so if you plan to rent a dog for
+
+86
+00:02:03,859 --> 00:02:03,869
+upfront so if you plan to rent a dog for
+ 
+
+87
+00:02:03,869 --> 00:02:06,800
+upfront so if you plan to rent a dog for
+a week you need to pay seven copper at
+
+88
+00:02:06,800 --> 00:02:06,810
+a week you need to pay seven copper at
+ 
+
+89
+00:02:06,810 --> 00:02:09,560
+a week you need to pay seven copper at
+the start if the person providing the
+
+90
+00:02:09,560 --> 00:02:09,570
+the start if the person providing the
+ 
+
+91
+00:02:09,570 --> 00:02:11,930
+the start if the person providing the
+animal has any reason to believe that it
+
+92
+00:02:11,930 --> 00:02:11,940
+animal has any reason to believe that it
+ 
+
+93
+00:02:11,940 --> 00:02:14,000
+animal has any reason to believe that it
+will be harmed while in your possession
+
+94
+00:02:14,000 --> 00:02:14,010
+will be harmed while in your possession
+ 
+
+95
+00:02:14,010 --> 00:02:16,580
+will be harmed while in your possession
+then you will need to provide the full
+
+96
+00:02:16,580 --> 00:02:16,590
+then you will need to provide the full
+ 
+
+97
+00:02:16,590 --> 00:02:20,360
+then you will need to provide the full
+cost of the animal as a deposit so if
+
+98
+00:02:20,360 --> 00:02:20,370
+cost of the animal as a deposit so if
+ 
+
+99
+00:02:20,370 --> 00:02:22,760
+cost of the animal as a deposit so if
+you're renting a guard dog for a week in
+
+100
+00:02:22,760 --> 00:02:22,770
+you're renting a guard dog for a week in
+ 
+
+101
+00:02:22,770 --> 00:02:24,920
+you're renting a guard dog for a week in
+the kennel is suspicious that the dog
+
+102
+00:02:24,920 --> 00:02:24,930
+the kennel is suspicious that the dog
+ 
+
+103
+00:02:24,930 --> 00:02:27,830
+the kennel is suspicious that the dog
+may be harmed because you obviously look
+
+104
+00:02:27,830 --> 00:02:27,840
+may be harmed because you obviously look
+ 
+
+105
+00:02:27,840 --> 00:02:30,050
+may be harmed because you obviously look
+like an adventurer then you'll need to
+
+106
+00:02:30,050 --> 00:02:30,060
+like an adventurer then you'll need to
+ 
+
+107
+00:02:30,060 --> 00:02:33,200
+like an adventurer then you'll need to
+pay two silver pieces in seven copper
+
+108
+00:02:33,200 --> 00:02:33,210
+pay two silver pieces in seven copper
+ 
+
+109
+00:02:33,210 --> 00:02:36,080
+pay two silver pieces in seven copper
+upfront and if you return the dog
+
+110
+00:02:36,080 --> 00:02:36,090
+upfront and if you return the dog
+ 
+
+111
+00:02:36,090 --> 00:02:38,990
+upfront and if you return the dog
+unharmed within those seven days they'll
+
+112
+00:02:38,990 --> 00:02:39,000
+unharmed within those seven days they'll
+ 
+
+113
+00:02:39,000 --> 00:02:41,510
+unharmed within those seven days they'll
+give you your two silver piece deposit
+
+114
+00:02:41,510 --> 00:02:41,520
+give you your two silver piece deposit
+ 
+
+115
+00:02:41,520 --> 00:02:43,589
+give you your two silver piece deposit
+back
+
+116
+00:02:43,589 --> 00:02:43,599
+back
+ 
+
+117
+00:02:43,599 --> 00:02:46,589
+back
+each animal knows a list of actions and
+
+118
+00:02:46,589 --> 00:02:46,599
+each animal knows a list of actions and
+ 
+
+119
+00:02:46,599 --> 00:02:49,679
+each animal knows a list of actions and
+you can use command and animal to direct
+
+120
+00:02:49,679 --> 00:02:49,689
+you can use command and animal to direct
+ 
+
+121
+00:02:49,689 --> 00:02:51,780
+you can use command and animal to direct
+your animal to perform one of those
+
+122
+00:02:51,780 --> 00:02:51,790
+your animal to perform one of those
+ 
+
+123
+00:02:51,790 --> 00:02:55,259
+your animal to perform one of those
+actions that they know by default most
+
+124
+00:02:55,259 --> 00:02:55,269
+actions that they know by default most
+ 
+
+125
+00:02:55,269 --> 00:02:59,369
+actions that they know by default most
+animals should know the leap seek stand
+
+126
+00:02:59,369 --> 00:02:59,379
+animals should know the leap seek stand
+ 
+
+127
+00:02:59,379 --> 00:03:03,929
+animals should know the leap seek stand
+stride in strike actions in addition to
+
+128
+00:03:03,929 --> 00:03:03,939
+stride in strike actions in addition to
+ 
+
+129
+00:03:03,939 --> 00:03:06,569
+stride in strike actions in addition to
+these they will know any other actions
+
+130
+00:03:06,569 --> 00:03:06,579
+these they will know any other actions
+ 
+
+131
+00:03:06,579 --> 00:03:09,089
+these they will know any other actions
+that are listed on their step blocks for
+
+132
+00:03:09,089 --> 00:03:09,099
+that are listed on their step blocks for
+ 
+
+133
+00:03:09,099 --> 00:03:12,179
+that are listed on their step blocks for
+example gallop appears on the step block
+
+134
+00:03:12,179 --> 00:03:12,189
+example gallop appears on the step block
+ 
+
+135
+00:03:12,189 --> 00:03:15,030
+example gallop appears on the step block
+for ponies so you can use command and
+
+136
+00:03:15,030 --> 00:03:15,040
+for ponies so you can use command and
+ 
+
+137
+00:03:15,040 --> 00:03:18,509
+for ponies so you can use command and
+animal to direct a pony to gallop but
+
+138
+00:03:18,509 --> 00:03:18,519
+animal to direct a pony to gallop but
+ 
+
+139
+00:03:18,519 --> 00:03:20,550
+animal to direct a pony to gallop but
+you typically cannot use command an
+
+140
+00:03:20,550 --> 00:03:20,560
+you typically cannot use command an
+ 
+
+141
+00:03:20,560 --> 00:03:22,890
+you typically cannot use command an
+animal to tell an animal to perform an
+
+142
+00:03:22,890 --> 00:03:22,900
+animal to tell an animal to perform an
+ 
+
+143
+00:03:22,900 --> 00:03:25,020
+animal to tell an animal to perform an
+action that's not included on that
+
+144
+00:03:25,020 --> 00:03:25,030
+action that's not included on that
+ 
+
+145
+00:03:25,030 --> 00:03:28,050
+action that's not included on that
+default list or listed on their step
+
+146
+00:03:28,050 --> 00:03:28,060
+default list or listed on their step
+ 
+
+147
+00:03:28,060 --> 00:03:30,780
+default list or listed on their step
+block so for example you can't use
+
+148
+00:03:30,780 --> 00:03:30,790
+block so for example you can't use
+ 
+
+149
+00:03:30,790 --> 00:03:33,809
+block so for example you can't use
+command and animal to tell your pony to
+
+150
+00:03:33,809 --> 00:03:33,819
+command and animal to tell your pony to
+ 
+
+151
+00:03:33,819 --> 00:03:36,000
+command and animal to tell your pony to
+pick up an object in its mouth and bring
+
+152
+00:03:36,000 --> 00:03:36,010
+pick up an object in its mouth and bring
+ 
+
+153
+00:03:36,010 --> 00:03:39,149
+pick up an object in its mouth and bring
+it to you because normal ponies do not
+
+154
+00:03:39,149 --> 00:03:39,159
+it to you because normal ponies do not
+ 
+
+155
+00:03:39,159 --> 00:03:42,659
+it to you because normal ponies do not
+know the interact action when you use
+
+156
+00:03:42,659 --> 00:03:42,669
+know the interact action when you use
+ 
+
+157
+00:03:42,669 --> 00:03:44,640
+know the interact action when you use
+command an animal to issue an order to
+
+158
+00:03:44,640 --> 00:03:44,650
+command an animal to issue an order to
+ 
+
+159
+00:03:44,650 --> 00:03:47,520
+command an animal to issue an order to
+an animal you spend a number of actions
+
+160
+00:03:47,520 --> 00:03:47,530
+an animal you spend a number of actions
+ 
+
+161
+00:03:47,530 --> 00:03:49,830
+an animal you spend a number of actions
+equal to the activity that you are
+
+162
+00:03:49,830 --> 00:03:49,840
+equal to the activity that you are
+ 
+
+163
+00:03:49,840 --> 00:03:52,649
+equal to the activity that you are
+directing the animal to perform gallop
+
+164
+00:03:52,649 --> 00:03:52,659
+directing the animal to perform gallop
+ 
+
+165
+00:03:52,659 --> 00:03:55,409
+directing the animal to perform gallop
+takes two actions for a pony to perform
+
+166
+00:03:55,409 --> 00:03:55,419
+takes two actions for a pony to perform
+ 
+
+167
+00:03:55,419 --> 00:03:57,899
+takes two actions for a pony to perform
+so if you wanted to tell your opponent
+
+168
+00:03:57,899 --> 00:03:57,909
+so if you wanted to tell your opponent
+ 
+
+169
+00:03:57,909 --> 00:04:01,020
+so if you wanted to tell your opponent
+to gallop you would need to spend two of
+
+170
+00:04:01,020 --> 00:04:01,030
+to gallop you would need to spend two of
+ 
+
+171
+00:04:01,030 --> 00:04:04,110
+to gallop you would need to spend two of
+your actions to do so you then make a
+
+172
+00:04:04,110 --> 00:04:04,120
+your actions to do so you then make a
+ 
+
+173
+00:04:04,120 --> 00:04:05,520
+your actions to do so you then make a
+nature skill check
+
+174
+00:04:05,520 --> 00:04:05,530
+nature skill check
+ 
+
+175
+00:04:05,530 --> 00:04:07,649
+nature skill check
+that's contested by the target animals
+
+176
+00:04:07,649 --> 00:04:07,659
+that's contested by the target animals
+ 
+
+177
+00:04:07,659 --> 00:04:11,219
+that's contested by the target animals
+will DC this DC is further modified
+
+178
+00:04:11,219 --> 00:04:11,229
+will DC this DC is further modified
+ 
+
+179
+00:04:11,229 --> 00:04:13,050
+will DC this DC is further modified
+however the GM believes is appropriate
+
+180
+00:04:13,050 --> 00:04:13,060
+however the GM believes is appropriate
+ 
+
+181
+00:04:13,060 --> 00:04:16,620
+however the GM believes is appropriate
+if you offer the animal food as part of
+
+182
+00:04:16,620 --> 00:04:16,630
+if you offer the animal food as part of
+ 
+
+183
+00:04:16,630 --> 00:04:19,379
+if you offer the animal food as part of
+this action they might lower the DC for
+
+184
+00:04:19,379 --> 00:04:19,389
+this action they might lower the DC for
+ 
+
+185
+00:04:19,389 --> 00:04:23,010
+this action they might lower the DC for
+example the GM will also modify this DC
+
+186
+00:04:23,010 --> 00:04:23,020
+example the GM will also modify this DC
+ 
+
+187
+00:04:23,020 --> 00:04:25,320
+example the GM will also modify this DC
+according to the animals attitude
+
+188
+00:04:25,320 --> 00:04:25,330
+according to the animals attitude
+ 
+
+189
+00:04:25,330 --> 00:04:27,779
+according to the animals attitude
+towards you check out our course on
+
+190
+00:04:27,779 --> 00:04:27,789
+towards you check out our course on
+ 
+
+191
+00:04:27,789 --> 00:04:29,520
+towards you check out our course on
+influence for more information about
+
+192
+00:04:29,520 --> 00:04:29,530
+influence for more information about
+ 
+
+193
+00:04:29,530 --> 00:04:31,950
+influence for more information about
+attitude but if the target animal is
+
+194
+00:04:31,950 --> 00:04:31,960
+attitude but if the target animal is
+ 
+
+195
+00:04:31,960 --> 00:04:34,980
+attitude but if the target animal is
+friendly or helpful towards you then the
+
+196
+00:04:34,980 --> 00:04:34,990
+friendly or helpful towards you then the
+ 
+
+197
+00:04:34,990 --> 00:04:38,279
+friendly or helpful towards you then the
+GM will likely lower that DC and if the
+
+198
+00:04:38,279 --> 00:04:38,289
+GM will likely lower that DC and if the
+ 
+
+199
+00:04:38,289 --> 00:04:41,100
+GM will likely lower that DC and if the
+animal is helpful then you raise the
+
+200
+00:04:41,100 --> 00:04:41,110
+animal is helpful then you raise the
+ 
+
+201
+00:04:41,110 --> 00:04:44,310
+animal is helpful then you raise the
+degree of success by one step meaning
+
+202
+00:04:44,310 --> 00:04:44,320
+degree of success by one step meaning
+ 
+
+203
+00:04:44,320 --> 00:04:46,950
+degree of success by one step meaning
+critical failures become normal failures
+
+204
+00:04:46,950 --> 00:04:46,960
+critical failures become normal failures
+ 
+
+205
+00:04:46,960 --> 00:04:49,770
+critical failures become normal failures
+and normal failures become successes
+
+206
+00:04:49,770 --> 00:04:49,780
+and normal failures become successes
+ 
+
+207
+00:04:49,780 --> 00:04:52,950
+and normal failures become successes
+there is no such thing as a critical
+
+208
+00:04:52,950 --> 00:04:52,960
+there is no such thing as a critical
+ 
+
+209
+00:04:52,960 --> 00:04:56,189
+there is no such thing as a critical
+success when commanding animals also
+
+210
+00:04:56,189 --> 00:04:56,199
+success when commanding animals also
+ 
+
+211
+00:04:56,199 --> 00:04:56,970
+success when commanding animals also
+note that you
+
+212
+00:04:56,970 --> 00:04:56,980
+note that you
+ 
+
+213
+00:04:56,980 --> 00:04:59,340
+note that you
+automatically feel this check if the
+
+214
+00:04:59,340 --> 00:04:59,350
+automatically feel this check if the
+ 
+
+215
+00:04:59,350 --> 00:05:02,610
+automatically feel this check if the
+animal is unfriendly or hostile towards
+
+216
+00:05:02,610 --> 00:05:02,620
+animal is unfriendly or hostile towards
+ 
+
+217
+00:05:02,620 --> 00:05:05,910
+animal is unfriendly or hostile towards
+you on a success the animal does as you
+
+218
+00:05:05,910 --> 00:05:05,920
+you on a success the animal does as you
+ 
+
+219
+00:05:05,920 --> 00:05:09,000
+you on a success the animal does as you
+command on its next turn it does not
+
+220
+00:05:09,000 --> 00:05:09,010
+command on its next turn it does not
+ 
+
+221
+00:05:09,010 --> 00:05:11,390
+command on its next turn it does not
+perform the commanded action immediately
+
+222
+00:05:11,390 --> 00:05:11,400
+perform the commanded action immediately
+ 
+
+223
+00:05:11,400 --> 00:05:14,730
+perform the commanded action immediately
+also note that the GM will be the one
+
+224
+00:05:14,730 --> 00:05:14,740
+also note that the GM will be the one
+ 
+
+225
+00:05:14,740 --> 00:05:17,280
+also note that the GM will be the one
+who determines how the animal performs
+
+226
+00:05:17,280 --> 00:05:17,290
+who determines how the animal performs
+ 
+
+227
+00:05:17,290 --> 00:05:20,190
+who determines how the animal performs
+the directed action for example you
+
+228
+00:05:20,190 --> 00:05:20,200
+the directed action for example you
+ 
+
+229
+00:05:20,200 --> 00:05:22,590
+the directed action for example you
+might command your pet dog to stride
+
+230
+00:05:22,590 --> 00:05:22,600
+might command your pet dog to stride
+ 
+
+231
+00:05:22,600 --> 00:05:25,650
+might command your pet dog to stride
+over to a tree but the GM will be the
+
+232
+00:05:25,650 --> 00:05:25,660
+over to a tree but the GM will be the
+ 
+
+233
+00:05:25,660 --> 00:05:27,750
+over to a tree but the GM will be the
+one who determines what route the dog
+
+234
+00:05:27,750 --> 00:05:27,760
+one who determines what route the dog
+ 
+
+235
+00:05:27,760 --> 00:05:30,870
+one who determines what route the dog
+takes to get there also note that if
+
+236
+00:05:30,870 --> 00:05:30,880
+takes to get there also note that if
+ 
+
+237
+00:05:30,880 --> 00:05:32,910
+takes to get there also note that if
+multiple people issue commands to an
+
+238
+00:05:32,910 --> 00:05:32,920
+multiple people issue commands to an
+ 
+
+239
+00:05:32,920 --> 00:05:35,640
+multiple people issue commands to an
+animal in the same round the GM will
+
+240
+00:05:35,640 --> 00:05:35,650
+animal in the same round the GM will
+ 
+
+241
+00:05:35,650 --> 00:05:38,550
+animal in the same round the GM will
+determine how that all plays out so say
+
+242
+00:05:38,550 --> 00:05:38,560
+determine how that all plays out so say
+ 
+
+243
+00:05:38,560 --> 00:05:41,100
+determine how that all plays out so say
+for instance there are three PCs and one
+
+244
+00:05:41,100 --> 00:05:41,110
+for instance there are three PCs and one
+ 
+
+245
+00:05:41,110 --> 00:05:44,010
+for instance there are three PCs and one
+dog the dog is last in initiative and
+
+246
+00:05:44,010 --> 00:05:44,020
+dog the dog is last in initiative and
+ 
+
+247
+00:05:44,020 --> 00:05:46,860
+dog the dog is last in initiative and
+all three players use command an animal
+
+248
+00:05:46,860 --> 00:05:46,870
+all three players use command an animal
+ 
+
+249
+00:05:46,870 --> 00:05:49,140
+all three players use command an animal
+on it successfully commanding it to
+
+250
+00:05:49,140 --> 00:05:49,150
+on it successfully commanding it to
+ 
+
+251
+00:05:49,150 --> 00:05:52,140
+on it successfully commanding it to
+perform six different actions on the
+
+252
+00:05:52,140 --> 00:05:52,150
+perform six different actions on the
+ 
+
+253
+00:05:52,150 --> 00:05:55,440
+perform six different actions on the
+dogs turn it only has three actions to
+
+254
+00:05:55,440 --> 00:05:55,450
+dogs turn it only has three actions to
+ 
+
+255
+00:05:55,450 --> 00:05:58,080
+dogs turn it only has three actions to
+spin just like everyone else and the GM
+
+256
+00:05:58,080 --> 00:05:58,090
+spin just like everyone else and the GM
+ 
+
+257
+00:05:58,090 --> 00:06:00,060
+spin just like everyone else and the GM
+will be the one who determines which of
+
+258
+00:06:00,060 --> 00:06:00,070
+will be the one who determines which of
+ 
+
+259
+00:06:00,070 --> 00:06:02,610
+will be the one who determines which of
+those six delivered commands are obeyed
+
+260
+00:06:02,610 --> 00:06:02,620
+those six delivered commands are obeyed
+ 
+
+261
+00:06:02,620 --> 00:06:05,760
+those six delivered commands are obeyed
+on a failure the animal does not respond
+
+262
+00:06:05,760 --> 00:06:05,770
+on a failure the animal does not respond
+ 
+
+263
+00:06:05,770 --> 00:06:08,520
+on a failure the animal does not respond
+to the command and on a critical failure
+
+264
+00:06:08,520 --> 00:06:08,530
+to the command and on a critical failure
+ 
+
+265
+00:06:08,530 --> 00:06:10,440
+to the command and on a critical failure
+the animal doesn't understand the
+
+266
+00:06:10,440 --> 00:06:10,450
+the animal doesn't understand the
+ 
+
+267
+00:06:10,450 --> 00:06:12,510
+the animal doesn't understand the
+command and does something else as
+
+268
+00:06:12,510 --> 00:06:12,520
+command and does something else as
+ 
+
+269
+00:06:12,520 --> 00:06:15,930
+command and does something else as
+determined by the GM also be aware that
+
+270
+00:06:15,930 --> 00:06:15,940
+determined by the GM also be aware that
+ 
+
+271
+00:06:15,940 --> 00:06:18,600
+determined by the GM also be aware that
+when using command and animal to order
+
+272
+00:06:18,600 --> 00:06:18,610
+when using command and animal to order
+ 
+
+273
+00:06:18,610 --> 00:06:20,970
+when using command and animal to order
+an animal to perform multiple basic
+
+274
+00:06:20,970 --> 00:06:20,980
+an animal to perform multiple basic
+ 
+
+275
+00:06:20,980 --> 00:06:23,670
+an animal to perform multiple basic
+actions you do not need to roll your
+
+276
+00:06:23,670 --> 00:06:23,680
+actions you do not need to roll your
+ 
+
+277
+00:06:23,680 --> 00:06:26,760
+actions you do not need to roll your
+skill check multiple times for example
+
+278
+00:06:26,760 --> 00:06:26,770
+skill check multiple times for example
+ 
+
+279
+00:06:26,770 --> 00:06:29,130
+skill check multiple times for example
+if you want to tell your animal to stand
+
+280
+00:06:29,130 --> 00:06:29,140
+if you want to tell your animal to stand
+ 
+
+281
+00:06:29,140 --> 00:06:31,800
+if you want to tell your animal to stand
+up straight offense and then leap over
+
+282
+00:06:31,800 --> 00:06:31,810
+up straight offense and then leap over
+ 
+
+283
+00:06:31,810 --> 00:06:34,770
+up straight offense and then leap over
+it you would spend three actions to do
+
+284
+00:06:34,770 --> 00:06:34,780
+it you would spend three actions to do
+ 
+
+285
+00:06:34,780 --> 00:06:39,210
+it you would spend three actions to do
+so but because stand stride and leap are
+
+286
+00:06:39,210 --> 00:06:39,220
+so but because stand stride and leap are
+ 
+
+287
+00:06:39,220 --> 00:06:42,420
+so but because stand stride and leap are
+all basic actions they can sort of be
+
+288
+00:06:42,420 --> 00:06:42,430
+all basic actions they can sort of be
+ 
+
+289
+00:06:42,430 --> 00:06:44,910
+all basic actions they can sort of be
+bundled together and you would only need
+
+290
+00:06:44,910 --> 00:06:44,920
+bundled together and you would only need
+ 
+
+291
+00:06:44,920 --> 00:06:47,790
+bundled together and you would only need
+to roll one nature check to cover all
+
+292
+00:06:47,790 --> 00:06:47,800
+to roll one nature check to cover all
+ 
+
+293
+00:06:47,800 --> 00:06:50,640
+to roll one nature check to cover all
+three of those actions but again this
+
+294
+00:06:50,640 --> 00:06:50,650
+three of those actions but again this
+ 
+
+295
+00:06:50,650 --> 00:06:56,010
+three of those actions but again this
+can only be done with basic actions
+
+296
+00:06:56,010 --> 00:06:56,020
+
+ 
+
+297
+00:06:56,020 --> 00:06:58,740
+
+as previously mentioned you can only
+
+298
+00:06:58,740 --> 00:06:58,750
+as previously mentioned you can only
+ 
+
+299
+00:06:58,750 --> 00:07:00,809
+as previously mentioned you can only
+command an animal to perform actions
+
+300
+00:07:00,809 --> 00:07:00,819
+command an animal to perform actions
+ 
+
+301
+00:07:00,819 --> 00:07:03,360
+command an animal to perform actions
+that it knows how to do and by default
+
+302
+00:07:03,360 --> 00:07:03,370
+that it knows how to do and by default
+ 
+
+303
+00:07:03,370 --> 00:07:06,990
+that it knows how to do and by default
+that list is limited to leap seek stand
+
+304
+00:07:06,990 --> 00:07:07,000
+that list is limited to leap seek stand
+ 
+
+305
+00:07:07,000 --> 00:07:10,260
+that list is limited to leap seek stand
+stride strike and any actions listed on
+
+306
+00:07:10,260 --> 00:07:10,270
+stride strike and any actions listed on
+ 
+
+307
+00:07:10,270 --> 00:07:13,230
+stride strike and any actions listed on
+there step block fortunately there is a
+
+308
+00:07:13,230 --> 00:07:13,240
+there step block fortunately there is a
+ 
+
+309
+00:07:13,240 --> 00:07:15,779
+there step block fortunately there is a
+way to expand the list of valid commands
+
+310
+00:07:15,779 --> 00:07:15,789
+way to expand the list of valid commands
+ 
+
+311
+00:07:15,789 --> 00:07:18,149
+way to expand the list of valid commands
+an animal can perform and that is by
+
+312
+00:07:18,149 --> 00:07:18,159
+an animal can perform and that is by
+ 
+
+313
+00:07:18,159 --> 00:07:21,990
+an animal can perform and that is by
+using the trained animal feet the action
+
+314
+00:07:21,990 --> 00:07:22,000
+using the trained animal feet the action
+ 
+
+315
+00:07:22,000 --> 00:07:25,260
+using the trained animal feet the action
+being trained must be a basic action
+
+316
+00:07:25,260 --> 00:07:25,270
+being trained must be a basic action
+ 
+
+317
+00:07:25,270 --> 00:07:27,330
+being trained must be a basic action
+such as those found on pages four
+
+318
+00:07:27,330 --> 00:07:27,340
+such as those found on pages four
+ 
+
+319
+00:07:27,340 --> 00:07:29,640
+such as those found on pages four
+seventy and four seventy one of the core
+
+320
+00:07:29,640 --> 00:07:29,650
+seventy and four seventy one of the core
+ 
+
+321
+00:07:29,650 --> 00:07:32,640
+seventy and four seventy one of the core
+rules training requires an amount of
+
+322
+00:07:32,640 --> 00:07:32,650
+rules training requires an amount of
+ 
+
+323
+00:07:32,650 --> 00:07:35,040
+rules training requires an amount of
+time that is determined by the GM this
+
+324
+00:07:35,040 --> 00:07:35,050
+time that is determined by the GM this
+ 
+
+325
+00:07:35,050 --> 00:07:38,249
+time that is determined by the GM this
+is usually one week but can be longer if
+
+326
+00:07:38,249 --> 00:07:38,259
+is usually one week but can be longer if
+ 
+
+327
+00:07:38,259 --> 00:07:40,490
+is usually one week but can be longer if
+the GM believes that that is appropriate
+
+328
+00:07:40,490 --> 00:07:40,500
+the GM believes that that is appropriate
+ 
+
+329
+00:07:40,500 --> 00:07:43,290
+the GM believes that that is appropriate
+after which you will make a nature skill
+
+330
+00:07:43,290 --> 00:07:43,300
+after which you will make a nature skill
+ 
+
+331
+00:07:43,300 --> 00:07:45,839
+after which you will make a nature skill
+check versus a DC that is also
+
+332
+00:07:45,839 --> 00:07:45,849
+check versus a DC that is also
+ 
+
+333
+00:07:45,849 --> 00:07:48,870
+check versus a DC that is also
+determined by the GM the GM might also
+
+334
+00:07:48,870 --> 00:07:48,880
+determined by the GM the GM might also
+ 
+
+335
+00:07:48,880 --> 00:07:51,209
+determined by the GM the GM might also
+require a proficiency of expert or
+
+336
+00:07:51,209 --> 00:07:51,219
+require a proficiency of expert or
+ 
+
+337
+00:07:51,219 --> 00:07:53,939
+require a proficiency of expert or
+higher in nature before you can train an
+
+338
+00:07:53,939 --> 00:07:53,949
+higher in nature before you can train an
+ 
+
+339
+00:07:53,949 --> 00:07:58,080
+higher in nature before you can train an
+unusual or rare animal on a success the
+
+340
+00:07:58,080 --> 00:07:58,090
+unusual or rare animal on a success the
+ 
+
+341
+00:07:58,090 --> 00:08:00,390
+unusual or rare animal on a success the
+animal learns that new basic action and
+
+342
+00:08:00,390 --> 00:08:00,400
+animal learns that new basic action and
+ 
+
+343
+00:08:00,400 --> 00:08:03,360
+animal learns that new basic action and
+can be commanded to perform it on a
+
+344
+00:08:03,360 --> 00:08:03,370
+can be commanded to perform it on a
+ 
+
+345
+00:08:03,370 --> 00:08:06,480
+can be commanded to perform it on a
+failure they don't learn it and you can
+
+346
+00:08:06,480 --> 00:08:06,490
+failure they don't learn it and you can
+ 
+
+347
+00:08:06,490 --> 00:08:08,820
+failure they don't learn it and you can
+start the process over and try training
+
+348
+00:08:08,820 --> 00:08:08,830
+start the process over and try training
+ 
+
+349
+00:08:08,830 --> 00:08:11,820
+start the process over and try training
+that animal again also note that instead
+
+350
+00:08:11,820 --> 00:08:11,830
+that animal again also note that instead
+ 
+
+351
+00:08:11,830 --> 00:08:14,010
+that animal again also note that instead
+of training the animal to learn a new
+
+352
+00:08:14,010 --> 00:08:14,020
+of training the animal to learn a new
+ 
+
+353
+00:08:14,020 --> 00:08:17,189
+of training the animal to learn a new
+action you can instead spend the week
+
+354
+00:08:17,189 --> 00:08:17,199
+action you can instead spend the week
+ 
+
+355
+00:08:17,199 --> 00:08:19,680
+action you can instead spend the week
+practicing a basic action that the
+
+356
+00:08:19,680 --> 00:08:19,690
+practicing a basic action that the
+ 
+
+357
+00:08:19,690 --> 00:08:23,430
+practicing a basic action that the
+animal already knows in this case if you
+
+358
+00:08:23,430 --> 00:08:23,440
+animal already knows in this case if you
+ 
+
+359
+00:08:23,440 --> 00:08:25,680
+animal already knows in this case if you
+succeed on the nature check then the
+
+360
+00:08:25,680 --> 00:08:25,690
+succeed on the nature check then the
+ 
+
+361
+00:08:25,690 --> 00:08:28,050
+succeed on the nature check then the
+animal can perform that action in the
+
+362
+00:08:28,050 --> 00:08:28,060
+animal can perform that action in the
+ 
+
+363
+00:08:28,060 --> 00:08:30,570
+animal can perform that action in the
+future without you having to roll a
+
+364
+00:08:30,570 --> 00:08:30,580
+future without you having to roll a
+ 
+
+365
+00:08:30,580 --> 00:08:32,670
+future without you having to roll a
+nature check when using command an
+
+366
+00:08:32,670 --> 00:08:32,680
+nature check when using command an
+ 
+
+367
+00:08:32,680 --> 00:08:33,269
+nature check when using command an
+animal
+
+368
+00:08:33,269 --> 00:08:33,279
+animal
+ 
+
+369
+00:08:33,279 --> 00:08:35,730
+animal
+you still need to spin the actions and
+
+370
+00:08:35,730 --> 00:08:35,740
+you still need to spin the actions and
+ 
+
+371
+00:08:35,740 --> 00:08:37,889
+you still need to spin the actions and
+use command an animal you just don't
+
+372
+00:08:37,889 --> 00:08:37,899
+use command an animal you just don't
+ 
+
+373
+00:08:37,899 --> 00:08:40,230
+use command an animal you just don't
+have to roll a skill check the animal
+
+374
+00:08:40,230 --> 00:08:40,240
+have to roll a skill check the animal
+ 
+
+375
+00:08:40,240 --> 00:08:42,899
+have to roll a skill check the animal
+automatically performs that specific
+
+376
+00:08:42,899 --> 00:08:42,909
+automatically performs that specific
+ 
+
+377
+00:08:42,909 --> 00:08:45,400
+automatically performs that specific
+action
+
+378
+00:08:45,400 --> 00:08:45,410
+action
+ 
+
+379
+00:08:45,410 --> 00:08:48,040
+action
+as an adventurer you and your pets are
+
+380
+00:08:48,040 --> 00:08:48,050
+as an adventurer you and your pets are
+ 
+
+381
+00:08:48,050 --> 00:08:51,129
+as an adventurer you and your pets are
+likely to encounter danger most animals
+
+382
+00:08:51,129 --> 00:08:51,139
+likely to encounter danger most animals
+ 
+
+383
+00:08:51,139 --> 00:08:52,840
+likely to encounter danger most animals
+panic when they are placed in a
+
+384
+00:08:52,840 --> 00:08:52,850
+panic when they are placed in a
+ 
+
+385
+00:08:52,850 --> 00:08:55,240
+panic when they are placed in a
+dangerous situation they gain the
+
+386
+00:08:55,240 --> 00:08:55,250
+dangerous situation they gain the
+ 
+
+387
+00:08:55,250 --> 00:08:57,999
+dangerous situation they gain the
+frightened for condition and also suffer
+
+388
+00:08:57,999 --> 00:08:58,009
+frightened for condition and also suffer
+ 
+
+389
+00:08:58,009 --> 00:09:00,369
+frightened for condition and also suffer
+fleeing for as long as they are under
+
+390
+00:09:00,369 --> 00:09:00,379
+fleeing for as long as they are under
+ 
+
+391
+00:09:00,379 --> 00:09:02,920
+fleeing for as long as they are under
+the effects of frightened so if you're
+
+392
+00:09:02,920 --> 00:09:02,930
+the effects of frightened so if you're
+ 
+
+393
+00:09:02,930 --> 00:09:04,689
+the effects of frightened so if you're
+traveling with your pet dog and get
+
+394
+00:09:04,689 --> 00:09:04,699
+traveling with your pet dog and get
+ 
+
+395
+00:09:04,699 --> 00:09:07,509
+traveling with your pet dog and get
+ambushed by some goblins the dog would
+
+396
+00:09:07,509 --> 00:09:07,519
+ambushed by some goblins the dog would
+ 
+
+397
+00:09:07,519 --> 00:09:10,840
+ambushed by some goblins the dog would
+immediately gain frightened for meaning
+
+398
+00:09:10,840 --> 00:09:10,850
+immediately gain frightened for meaning
+ 
+
+399
+00:09:10,850 --> 00:09:13,210
+immediately gain frightened for meaning
+it would suffer a negative for penalty
+
+400
+00:09:13,210 --> 00:09:13,220
+it would suffer a negative for penalty
+ 
+
+401
+00:09:13,220 --> 00:09:16,660
+it would suffer a negative for penalty
+to all checks & dicie's in his first
+
+402
+00:09:16,660 --> 00:09:16,670
+to all checks & dicie's in his first
+ 
+
+403
+00:09:16,670 --> 00:09:19,900
+to all checks & dicie's in his first
+turn and that penalty would lower by one
+
+404
+00:09:19,900 --> 00:09:19,910
+turn and that penalty would lower by one
+ 
+
+405
+00:09:19,910 --> 00:09:22,990
+turn and that penalty would lower by one
+at the end of every turn until it wears
+
+406
+00:09:22,990 --> 00:09:23,000
+at the end of every turn until it wears
+ 
+
+407
+00:09:23,000 --> 00:09:26,199
+at the end of every turn until it wears
+off however as long as the animal is
+
+408
+00:09:26,199 --> 00:09:26,209
+off however as long as the animal is
+ 
+
+409
+00:09:26,209 --> 00:09:28,660
+off however as long as the animal is
+under the effects of frightened it will
+
+410
+00:09:28,660 --> 00:09:28,670
+under the effects of frightened it will
+ 
+
+411
+00:09:28,670 --> 00:09:31,530
+under the effects of frightened it will
+also be suffering the fleeing condition
+
+412
+00:09:31,530 --> 00:09:31,540
+also be suffering the fleeing condition
+ 
+
+413
+00:09:31,540 --> 00:09:35,050
+also be suffering the fleeing condition
+meaning the panic dog would be forced to
+
+414
+00:09:35,050 --> 00:09:35,060
+meaning the panic dog would be forced to
+ 
+
+415
+00:09:35,060 --> 00:09:37,990
+meaning the panic dog would be forced to
+spend all three actions each turn to run
+
+416
+00:09:37,990 --> 00:09:38,000
+spend all three actions each turn to run
+ 
+
+417
+00:09:38,000 --> 00:09:40,660
+spend all three actions each turn to run
+away from danger until it is no longer
+
+418
+00:09:40,660 --> 00:09:40,670
+away from danger until it is no longer
+ 
+
+419
+00:09:40,670 --> 00:09:44,619
+away from danger until it is no longer
+suffering from friend but if the animal
+
+420
+00:09:44,619 --> 00:09:44,629
+suffering from friend but if the animal
+ 
+
+421
+00:09:44,629 --> 00:09:47,530
+suffering from friend but if the animal
+is ever attacked regardless of if that
+
+422
+00:09:47,530 --> 00:09:47,540
+is ever attacked regardless of if that
+ 
+
+423
+00:09:47,540 --> 00:09:49,780
+is ever attacked regardless of if that
+attack hits misses does damage or
+
+424
+00:09:49,780 --> 00:09:49,790
+attack hits misses does damage or
+ 
+
+425
+00:09:49,790 --> 00:09:52,150
+attack hits misses does damage or
+doesn't do damage then the animal
+
+426
+00:09:52,150 --> 00:09:52,160
+doesn't do damage then the animal
+ 
+
+427
+00:09:52,160 --> 00:09:55,179
+doesn't do damage then the animal
+becomes frightened for again and also
+
+428
+00:09:55,179 --> 00:09:55,189
+becomes frightened for again and also
+ 
+
+429
+00:09:55,189 --> 00:09:58,780
+becomes frightened for again and also
+therefore becomes fleeing again the only
+
+430
+00:09:58,780 --> 00:09:58,790
+therefore becomes fleeing again the only
+ 
+
+431
+00:09:58,790 --> 00:10:01,449
+therefore becomes fleeing again the only
+exceptions to this panic that are called
+
+432
+00:10:01,449 --> 00:10:01,459
+exceptions to this panic that are called
+ 
+
+433
+00:10:01,459 --> 00:10:03,220
+exceptions to this panic that are called
+out in the core rules are animals that
+
+434
+00:10:03,220 --> 00:10:03,230
+out in the core rules are animals that
+ 
+
+435
+00:10:03,230 --> 00:10:05,290
+out in the core rules are animals that
+have been specifically trained for
+
+436
+00:10:05,290 --> 00:10:05,300
+have been specifically trained for
+ 
+
+437
+00:10:05,300 --> 00:10:08,800
+have been specifically trained for
+battle such as war horses and war ponies
+
+438
+00:10:08,800 --> 00:10:08,810
+battle such as war horses and war ponies
+ 
+
+439
+00:10:08,810 --> 00:10:11,230
+battle such as war horses and war ponies
+but I would assume that any animal
+
+440
+00:10:11,230 --> 00:10:11,240
+but I would assume that any animal
+ 
+
+441
+00:10:11,240 --> 00:10:12,819
+but I would assume that any animal
+that's being used by the GM as an
+
+442
+00:10:12,819 --> 00:10:12,829
+that's being used by the GM as an
+ 
+
+443
+00:10:12,829 --> 00:10:16,179
+that's being used by the GM as an
+adversary such as a bear or rats warms
+
+444
+00:10:16,179 --> 00:10:16,189
+adversary such as a bear or rats warms
+ 
+
+445
+00:10:16,189 --> 00:10:18,790
+adversary such as a bear or rats warms
+or giant scorpions that they would all
+
+446
+00:10:18,790 --> 00:10:18,800
+or giant scorpions that they would all
+ 
+
+447
+00:10:18,800 --> 00:10:22,670
+or giant scorpions that they would all
+be immune to this panic as well
+
+448
+00:10:22,670 --> 00:10:22,680
+
+ 
+
+449
+00:10:22,680 --> 00:10:25,519
+
+so this might raise the question of how
+
+450
+00:10:25,519 --> 00:10:25,529
+so this might raise the question of how
+ 
+
+451
+00:10:25,529 --> 00:10:27,799
+so this might raise the question of how
+do you prevent your dog from running off
+
+452
+00:10:27,799 --> 00:10:27,809
+do you prevent your dog from running off
+ 
+
+453
+00:10:27,809 --> 00:10:30,530
+do you prevent your dog from running off
+at the first sign of danger the rules
+
+454
+00:10:30,530 --> 00:10:30,540
+at the first sign of danger the rules
+ 
+
+455
+00:10:30,540 --> 00:10:32,929
+at the first sign of danger the rules
+say the following if you successfully
+
+456
+00:10:32,929 --> 00:10:32,939
+say the following if you successfully
+ 
+
+457
+00:10:32,939 --> 00:10:36,470
+say the following if you successfully
+command your animal using nature you can
+
+458
+00:10:36,470 --> 00:10:36,480
+command your animal using nature you can
+ 
+
+459
+00:10:36,480 --> 00:10:38,720
+command your animal using nature you can
+keep it from fleeing though this doesn't
+
+460
+00:10:38,720 --> 00:10:38,730
+keep it from fleeing though this doesn't
+ 
+
+461
+00:10:38,730 --> 00:10:41,869
+keep it from fleeing though this doesn't
+remove is frightened condition this is a
+
+462
+00:10:41,869 --> 00:10:41,879
+remove is frightened condition this is a
+ 
+
+463
+00:10:41,879 --> 00:10:43,999
+remove is frightened condition this is a
+little bit of unusual warning and has
+
+464
+00:10:43,999 --> 00:10:44,009
+little bit of unusual warning and has
+ 
+
+465
+00:10:44,009 --> 00:10:46,280
+little bit of unusual warning and has
+caused some discussion online over the
+
+466
+00:10:46,280 --> 00:10:46,290
+caused some discussion online over the
+ 
+
+467
+00:10:46,290 --> 00:10:49,280
+caused some discussion online over the
+intent I'm going to provide you how I
+
+468
+00:10:49,280 --> 00:10:49,290
+intent I'm going to provide you how I
+ 
+
+469
+00:10:49,290 --> 00:10:51,769
+intent I'm going to provide you how I
+think it is supposed to work and just
+
+470
+00:10:51,769 --> 00:10:51,779
+think it is supposed to work and just
+ 
+
+471
+00:10:51,779 --> 00:10:53,840
+think it is supposed to work and just
+make a mental note here that this is one
+
+472
+00:10:53,840 --> 00:10:53,850
+make a mental note here that this is one
+ 
+
+473
+00:10:53,850 --> 00:10:56,119
+make a mental note here that this is one
+person's interpretation and if an
+
+474
+00:10:56,119 --> 00:10:56,129
+person's interpretation and if an
+ 
+
+475
+00:10:56,129 --> 00:10:58,609
+person's interpretation and if an
+official source clarifies this I will
+
+476
+00:10:58,609 --> 00:10:58,619
+official source clarifies this I will
+ 
+
+477
+00:10:58,619 --> 00:11:00,530
+official source clarifies this I will
+update this video accordingly
+
+478
+00:11:00,530 --> 00:11:00,540
+update this video accordingly
+ 
+
+479
+00:11:00,540 --> 00:11:03,319
+update this video accordingly
+I believe the intent is if you
+
+480
+00:11:03,319 --> 00:11:03,329
+I believe the intent is if you
+ 
+
+481
+00:11:03,329 --> 00:11:05,329
+I believe the intent is if you
+successfully command a frightened animal
+
+482
+00:11:05,329 --> 00:11:05,339
+successfully command a frightened animal
+ 
+
+483
+00:11:05,339 --> 00:11:08,840
+successfully command a frightened animal
+to do anything then it loses the fleeing
+
+484
+00:11:08,840 --> 00:11:08,850
+to do anything then it loses the fleeing
+ 
+
+485
+00:11:08,850 --> 00:11:11,359
+to do anything then it loses the fleeing
+condition for that round for example you
+
+486
+00:11:11,359 --> 00:11:11,369
+condition for that round for example you
+ 
+
+487
+00:11:11,369 --> 00:11:13,220
+condition for that round for example you
+could spend one action to command the
+
+488
+00:11:13,220 --> 00:11:13,230
+could spend one action to command the
+ 
+
+489
+00:11:13,230 --> 00:11:17,059
+could spend one action to command the
+animal destroyed 15 feet and stop on its
+
+490
+00:11:17,059 --> 00:11:17,069
+animal destroyed 15 feet and stop on its
+ 
+
+491
+00:11:17,069 --> 00:11:19,850
+animal destroyed 15 feet and stop on its
+turn the animal would do so with its
+
+492
+00:11:19,850 --> 00:11:19,860
+turn the animal would do so with its
+ 
+
+493
+00:11:19,860 --> 00:11:22,400
+turn the animal would do so with its
+first action and would not spend its
+
+494
+00:11:22,400 --> 00:11:22,410
+first action and would not spend its
+ 
+
+495
+00:11:22,410 --> 00:11:24,639
+first action and would not spend its
+remaining two actions to run away
+
+496
+00:11:24,639 --> 00:11:24,649
+remaining two actions to run away
+ 
+
+497
+00:11:24,649 --> 00:11:28,100
+remaining two actions to run away
+however if that animal is still under
+
+498
+00:11:28,100 --> 00:11:28,110
+however if that animal is still under
+ 
+
+499
+00:11:28,110 --> 00:11:29,869
+however if that animal is still under
+the effects of the frightened condition
+
+500
+00:11:29,869 --> 00:11:29,879
+the effects of the frightened condition
+ 
+
+501
+00:11:29,879 --> 00:11:32,569
+the effects of the frightened condition
+at the start of its next turn it would
+
+502
+00:11:32,569 --> 00:11:32,579
+at the start of its next turn it would
+ 
+
+503
+00:11:32,579 --> 00:11:35,030
+at the start of its next turn it would
+begin fleeing again unless you spend
+
+504
+00:11:35,030 --> 00:11:35,040
+begin fleeing again unless you spend
+ 
+
+505
+00:11:35,040 --> 00:11:37,100
+begin fleeing again unless you spend
+another action commanding it to do
+
+506
+00:11:37,100 --> 00:11:37,110
+another action commanding it to do
+ 
+
+507
+00:11:37,110 --> 00:11:39,950
+another action commanding it to do
+something else
+
+508
+00:11:39,950 --> 00:11:39,960
+
+ 
+
+509
+00:11:39,960 --> 00:11:42,710
+
+in this video we discussed the basics of
+
+510
+00:11:42,710 --> 00:11:42,720
+in this video we discussed the basics of
+ 
+
+511
+00:11:42,720 --> 00:11:45,350
+in this video we discussed the basics of
+animals future videos we'll examine
+
+512
+00:11:45,350 --> 00:11:45,360
+animals future videos we'll examine
+ 
+
+513
+00:11:45,360 --> 00:11:47,960
+animals future videos we'll examine
+specialized animals such as mounts
+
+514
+00:11:47,960 --> 00:11:47,970
+specialized animals such as mounts
+ 
+
+515
+00:11:47,970 --> 00:11:51,350
+specialized animals such as mounts
+animal companions and familiars if you'd
+
+516
+00:11:51,350 --> 00:11:51,360
+animal companions and familiars if you'd
+ 
+
+517
+00:11:51,360 --> 00:11:53,420
+animal companions and familiars if you'd
+like to see a couple examples on how
+
+518
+00:11:53,420 --> 00:11:53,430
+like to see a couple examples on how
+ 
+
+519
+00:11:53,430 --> 00:11:56,000
+like to see a couple examples on how
+animals work during gameplay you can do
+
+520
+00:11:56,000 --> 00:11:56,010
+animals work during gameplay you can do
+ 
+
+521
+00:11:56,010 --> 00:11:57,740
+animals work during gameplay you can do
+so by viewing the next video in this
+
+522
+00:11:57,740 --> 00:11:57,750
+so by viewing the next video in this
+ 
+
+523
+00:11:57,750 --> 00:11:59,660
+so by viewing the next video in this
+series which is linked in the
+
+524
+00:11:59,660 --> 00:11:59,670
+series which is linked in the
+ 
+
+525
+00:11:59,670 --> 00:12:02,480
+series which is linked in the
+description and the playlist and should
+
+526
+00:12:02,480 --> 00:12:02,490
+description and the playlist and should
+ 
+
+527
+00:12:02,490 --> 00:12:04,460
+description and the playlist and should
+also be linked in the upper right
+
+528
+00:12:04,460 --> 00:12:04,470
+also be linked in the upper right
+ 
+
+529
+00:12:04,470 --> 00:12:08,270
+also be linked in the upper right
+portion of your screen as well animals
+
+530
+00:12:08,270 --> 00:12:08,280
+portion of your screen as well animals
+ 
+
+531
+00:12:08,280 --> 00:12:10,400
+portion of your screen as well animals
+are naturally occurring creatures and
+
+532
+00:12:10,400 --> 00:12:10,410
+are naturally occurring creatures and
+ 
+
+533
+00:12:10,410 --> 00:12:12,730
+are naturally occurring creatures and
+should not be confused with beasts
+
+534
+00:12:12,730 --> 00:12:12,740
+should not be confused with beasts
+ 
+
+535
+00:12:12,740 --> 00:12:15,080
+should not be confused with beasts
+animals have intelligence modifiers of
+
+536
+00:12:15,080 --> 00:12:15,090
+animals have intelligence modifiers of
+ 
+
+537
+00:12:15,090 --> 00:12:17,960
+animals have intelligence modifiers of
+negative 4 and lower and beasts have
+
+538
+00:12:17,960 --> 00:12:17,970
+negative 4 and lower and beasts have
+ 
+
+539
+00:12:17,970 --> 00:12:20,480
+negative 4 and lower and beasts have
+intelligence modifiers of negative 3 and
+
+540
+00:12:20,480 --> 00:12:20,490
+intelligence modifiers of negative 3 and
+ 
+
+541
+00:12:20,490 --> 00:12:23,630
+intelligence modifiers of negative 3 and
+higher many common animals may be
+
+542
+00:12:23,630 --> 00:12:23,640
+higher many common animals may be
+ 
+
+543
+00:12:23,640 --> 00:12:26,150
+higher many common animals may be
+purchased or rented when renting an
+
+544
+00:12:26,150 --> 00:12:26,160
+purchased or rented when renting an
+ 
+
+545
+00:12:26,160 --> 00:12:28,460
+purchased or rented when renting an
+animal the character will be expected to
+
+546
+00:12:28,460 --> 00:12:28,470
+animal the character will be expected to
+ 
+
+547
+00:12:28,470 --> 00:12:31,160
+animal the character will be expected to
+pay a deposit equal to the purchase
+
+548
+00:12:31,160 --> 00:12:31,170
+pay a deposit equal to the purchase
+ 
+
+549
+00:12:31,170 --> 00:12:33,380
+pay a deposit equal to the purchase
+price of the animal if there is any
+
+550
+00:12:33,380 --> 00:12:33,390
+price of the animal if there is any
+ 
+
+551
+00:12:33,390 --> 00:12:35,270
+price of the animal if there is any
+concern that the animal will be harmed
+
+552
+00:12:35,270 --> 00:12:35,280
+concern that the animal will be harmed
+ 
+
+553
+00:12:35,280 --> 00:12:38,660
+concern that the animal will be harmed
+while in the player's position animals
+
+554
+00:12:38,660 --> 00:12:38,670
+while in the player's position animals
+ 
+
+555
+00:12:38,670 --> 00:12:41,330
+while in the player's position animals
+are controlled by the GM and act during
+
+556
+00:12:41,330 --> 00:12:41,340
+are controlled by the GM and act during
+ 
+
+557
+00:12:41,340 --> 00:12:44,540
+are controlled by the GM and act during
+their turn in initiative but players may
+
+558
+00:12:44,540 --> 00:12:44,550
+their turn in initiative but players may
+ 
+
+559
+00:12:44,550 --> 00:12:47,240
+their turn in initiative but players may
+issue orders to an animal by using
+
+560
+00:12:47,240 --> 00:12:47,250
+issue orders to an animal by using
+ 
+
+561
+00:12:47,250 --> 00:12:50,420
+issue orders to an animal by using
+command and animal commanding an animal
+
+562
+00:12:50,420 --> 00:12:50,430
+command and animal commanding an animal
+ 
+
+563
+00:12:50,430 --> 00:12:52,880
+command and animal commanding an animal
+to perform an activity requires the
+
+564
+00:12:52,880 --> 00:12:52,890
+to perform an activity requires the
+ 
+
+565
+00:12:52,890 --> 00:12:54,680
+to perform an activity requires the
+player to spend a number of their
+
+566
+00:12:54,680 --> 00:12:54,690
+player to spend a number of their
+ 
+
+567
+00:12:54,690 --> 00:12:57,320
+player to spend a number of their
+actions equal to the number of actions
+
+568
+00:12:57,320 --> 00:12:57,330
+actions equal to the number of actions
+ 
+
+569
+00:12:57,330 --> 00:12:59,870
+actions equal to the number of actions
+the animal will need to spend to perform
+
+570
+00:12:59,870 --> 00:12:59,880
+the animal will need to spend to perform
+ 
+
+571
+00:12:59,880 --> 00:13:03,350
+the animal will need to spend to perform
+that activity the player then rolls a
+
+572
+00:13:03,350 --> 00:13:03,360
+that activity the player then rolls a
+ 
+
+573
+00:13:03,360 --> 00:13:06,050
+that activity the player then rolls a
+nature skill check versus the animals
+
+574
+00:13:06,050 --> 00:13:06,060
+nature skill check versus the animals
+ 
+
+575
+00:13:06,060 --> 00:13:09,080
+nature skill check versus the animals
+will DC this DC is further modified
+
+576
+00:13:09,080 --> 00:13:09,090
+will DC this DC is further modified
+ 
+
+577
+00:13:09,090 --> 00:13:10,640
+will DC this DC is further modified
+however the GM believes is appropriate
+
+578
+00:13:10,640 --> 00:13:10,650
+however the GM believes is appropriate
+ 
+
+579
+00:13:10,650 --> 00:13:14,510
+however the GM believes is appropriate
+if they succeed the animal will perform
+
+580
+00:13:14,510 --> 00:13:14,520
+if they succeed the animal will perform
+ 
+
+581
+00:13:14,520 --> 00:13:17,720
+if they succeed the animal will perform
+that activity on their turn they do not
+
+582
+00:13:17,720 --> 00:13:17,730
+that activity on their turn they do not
+ 
+
+583
+00:13:17,730 --> 00:13:19,970
+that activity on their turn they do not
+take the action immediately on the
+
+584
+00:13:19,970 --> 00:13:19,980
+take the action immediately on the
+ 
+
+585
+00:13:19,980 --> 00:13:22,850
+take the action immediately on the
+player's turn only animals with an
+
+586
+00:13:22,850 --> 00:13:22,860
+player's turn only animals with an
+ 
+
+587
+00:13:22,860 --> 00:13:25,700
+player's turn only animals with an
+attitude of indifferent or better may be
+
+588
+00:13:25,700 --> 00:13:25,710
+attitude of indifferent or better may be
+ 
+
+589
+00:13:25,710 --> 00:13:28,490
+attitude of indifferent or better may be
+commanded them animals can only perform
+
+590
+00:13:28,490 --> 00:13:28,500
+commanded them animals can only perform
+ 
+
+591
+00:13:28,500 --> 00:13:33,830
+commanded them animals can only perform
+leap seek stand stride strike and any
+
+592
+00:13:33,830 --> 00:13:33,840
+leap seek stand stride strike and any
+ 
+
+593
+00:13:33,840 --> 00:13:37,070
+leap seek stand stride strike and any
+actions listed on their step block but
+
+594
+00:13:37,070 --> 00:13:37,080
+actions listed on their step block but
+ 
+
+595
+00:13:37,080 --> 00:13:40,010
+actions listed on their step block but
+the trained animal feet may be used to
+
+596
+00:13:40,010 --> 00:13:40,020
+the trained animal feet may be used to
+ 
+
+597
+00:13:40,020 --> 00:13:42,920
+the trained animal feet may be used to
+either teach them new basic actions or
+
+598
+00:13:42,920 --> 00:13:42,930
+either teach them new basic actions or
+ 
+
+599
+00:13:42,930 --> 00:13:45,830
+either teach them new basic actions or
+have them practice a basic action they
+
+600
+00:13:45,830 --> 00:13:45,840
+have them practice a basic action they
+ 
+
+601
+00:13:45,840 --> 00:13:48,170
+have them practice a basic action they
+already know to the point that you no
+
+602
+00:13:48,170 --> 00:13:48,180
+already know to the point that you no
+ 
+
+603
+00:13:48,180 --> 00:13:50,630
+already know to the point that you no
+longer need to roll a nature skill check
+
+604
+00:13:50,630 --> 00:13:50,640
+longer need to roll a nature skill check
+ 
+
+605
+00:13:50,640 --> 00:13:52,220
+longer need to roll a nature skill check
+when using command and
+
+606
+00:13:52,220 --> 00:13:52,230
+when using command and
+ 
+
+607
+00:13:52,230 --> 00:13:55,010
+when using command and
+- tell them to perform that specific
+
+608
+00:13:55,010 --> 00:13:55,020
+- tell them to perform that specific
+ 
+
+609
+00:13:55,020 --> 00:13:58,430
+- tell them to perform that specific
+action unless the animal is trained for
+
+610
+00:13:58,430 --> 00:13:58,440
+action unless the animal is trained for
+ 
+
+611
+00:13:58,440 --> 00:14:01,460
+action unless the animal is trained for
+combat like a warhorse they will panic
+
+612
+00:14:01,460 --> 00:14:01,470
+combat like a warhorse they will panic
+ 
+
+613
+00:14:01,470 --> 00:14:04,340
+combat like a warhorse they will panic
+as soon as they enter combat when
+
+614
+00:14:04,340 --> 00:14:04,350
+as soon as they enter combat when
+ 
+
+615
+00:14:04,350 --> 00:14:06,290
+as soon as they enter combat when
+panicked the animal suffers the
+
+616
+00:14:06,290 --> 00:14:06,300
+panicked the animal suffers the
+ 
+
+617
+00:14:06,300 --> 00:14:08,630
+panicked the animal suffers the
+frightened for condition and they also
+
+618
+00:14:08,630 --> 00:14:08,640
+frightened for condition and they also
+ 
+
+619
+00:14:08,640 --> 00:14:11,510
+frightened for condition and they also
+suffer the fleeing condition for as long
+
+620
+00:14:11,510 --> 00:14:11,520
+suffer the fleeing condition for as long
+ 
+
+621
+00:14:11,520 --> 00:14:14,050
+suffer the fleeing condition for as long
+as they are under the effects of fright
+
+622
+00:14:14,050 --> 00:14:14,060
+as they are under the effects of fright
+ 
+
+623
+00:14:14,060 --> 00:14:16,850
+as they are under the effects of fright
+using command and animal prevents the
+
+624
+00:14:16,850 --> 00:14:16,860
+using command and animal prevents the
+ 
+
+625
+00:14:16,860 --> 00:14:19,790
+using command and animal prevents the
+animal from fleeing that round if the
+
+626
+00:14:19,790 --> 00:14:19,800
+animal from fleeing that round if the
+ 
+
+627
+00:14:19,800 --> 00:14:21,890
+animal from fleeing that round if the
+animal is still frightened at the start
+
+628
+00:14:21,890 --> 00:14:21,900
+animal is still frightened at the start
+ 
+
+629
+00:14:21,900 --> 00:14:24,590
+animal is still frightened at the start
+of its next turn it gains the fleeing
+
+630
+00:14:24,590 --> 00:14:24,600
+of its next turn it gains the fleeing
+ 
+
+631
+00:14:24,600 --> 00:14:27,920
+of its next turn it gains the fleeing
+condition again
+
+632
+00:14:27,920 --> 00:14:27,930
+
+ 
+
+633
+00:14:27,930 --> 00:14:29,450
+
+with that we'll bring this video to a
+
+634
+00:14:29,450 --> 00:14:29,460
+with that we'll bring this video to a
+ 
+
+635
+00:14:29,460 --> 00:14:31,220
+with that we'll bring this video to a
+close if you found this video helpful
+
+636
+00:14:31,220 --> 00:14:31,230
+close if you found this video helpful
+ 
+
+637
+00:14:31,230 --> 00:14:33,350
+close if you found this video helpful
+please give us a like and don't forget
+
+638
+00:14:33,350 --> 00:14:33,360
+please give us a like and don't forget
+ 
+
+639
+00:14:33,360 --> 00:14:34,970
+please give us a like and don't forget
+to click that subscribe button and the
+
+640
+00:14:34,970 --> 00:14:34,980
+to click that subscribe button and the
+ 
+
+641
+00:14:34,980 --> 00:14:36,680
+to click that subscribe button and the
+bell so you never miss out on our future
+
+642
+00:14:36,680 --> 00:14:36,690
+bell so you never miss out on our future
+ 
+
+643
+00:14:36,690 --> 00:14:38,870
+bell so you never miss out on our future
+videos leave us a comment letting us
+
+644
+00:14:38,870 --> 00:14:38,880
+videos leave us a comment letting us
+ 
+
+645
+00:14:38,880 --> 00:14:40,130
+videos leave us a comment letting us
+know what topics you'd like to see
+
+646
+00:14:40,130 --> 00:14:40,140
+know what topics you'd like to see
+ 
+
+647
+00:14:40,140 --> 00:14:42,260
+know what topics you'd like to see
+covered in our future videos and we can
+
+648
+00:14:42,260 --> 00:14:42,270
+covered in our future videos and we can
+ 
+
+649
+00:14:42,270 --> 00:14:43,370
+covered in our future videos and we can
+always be reached through our Twitter
+
+650
+00:14:43,370 --> 00:14:43,380
+always be reached through our Twitter
+ 
+
+651
+00:14:43,380 --> 00:14:46,100
+always be reached through our Twitter
+and Facebook pages too if you'd like to
+
+652
+00:14:46,100 --> 00:14:46,110
+and Facebook pages too if you'd like to
+ 
+
+653
+00:14:46,110 --> 00:14:47,540
+and Facebook pages too if you'd like to
+use some of the maps that we feature in
+
+654
+00:14:47,540 --> 00:14:47,550
+use some of the maps that we feature in
+ 
+
+655
+00:14:47,550 --> 00:14:49,370
+use some of the maps that we feature in
+our videos and your own games you can
+
+656
+00:14:49,370 --> 00:14:49,380
+our videos and your own games you can
+ 
+
+657
+00:14:49,380 --> 00:14:52,070
+our videos and your own games you can
+find them at maps of mastery a link to
+
+658
+00:14:52,070 --> 00:14:52,080
+find them at maps of mastery a link to
+ 
+
+659
+00:14:52,080 --> 00:14:53,360
+find them at maps of mastery a link to
+that store can be found in the
+
+660
+00:14:53,360 --> 00:14:53,370
+that store can be found in the
+ 
+
+661
+00:14:53,370 --> 00:14:56,150
+that store can be found in the
+description thanks for watching take
+
+662
+00:14:56,150 --> 00:14:56,160
+description thanks for watching take
+ 
+
+663
+00:14:56,160 --> 00:14:57,740
+description thanks for watching take
+care and we'll see you soon with more
+
+664
+00:14:57,740 --> 00:14:57,750
+care and we'll see you soon with more
+ 
+
+665
+00:14:57,750 --> 00:15:01,520
+care and we'll see you soon with more
+basics for your favorite tabletop games
+

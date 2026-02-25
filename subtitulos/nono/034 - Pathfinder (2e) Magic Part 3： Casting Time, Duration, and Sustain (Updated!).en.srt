@@ -1,0 +1,2265 @@
+1
+00:00:01,120 --> 00:00:02,790
+
+hello and welcome to magic and
+
+2
+00:00:02,790 --> 00:00:02,800
+hello and welcome to magic and
+ 
+
+3
+00:00:02,800 --> 00:00:04,630
+hello and welcome to magic and
+pathfinder part 3.
+
+4
+00:00:04,630 --> 00:00:04,640
+pathfinder part 3.
+ 
+
+5
+00:00:04,640 --> 00:00:06,710
+pathfinder part 3.
+in the previous videos we covered magic
+
+6
+00:00:06,710 --> 00:00:06,720
+in the previous videos we covered magic
+ 
+
+7
+00:00:06,720 --> 00:00:08,390
+in the previous videos we covered magic
+traditions and how prepared and
+
+8
+00:00:08,390 --> 00:00:08,400
+traditions and how prepared and
+ 
+
+9
+00:00:08,400 --> 00:00:09,830
+traditions and how prepared and
+spontaneous casters
+
+10
+00:00:09,830 --> 00:00:09,840
+spontaneous casters
+ 
+
+11
+00:00:09,840 --> 00:00:12,470
+spontaneous casters
+use spell slots to cast their spells and
+
+12
+00:00:12,470 --> 00:00:12,480
+use spell slots to cast their spells and
+ 
+
+13
+00:00:12,480 --> 00:00:13,430
+use spell slots to cast their spells and
+in this video
+
+14
+00:00:13,430 --> 00:00:13,440
+in this video
+ 
+
+15
+00:00:13,440 --> 00:00:15,110
+in this video
+we're going to begin discussing spell
+
+16
+00:00:15,110 --> 00:00:15,120
+we're going to begin discussing spell
+ 
+
+17
+00:00:15,120 --> 00:00:16,630
+we're going to begin discussing spell
+mechanics starting with
+
+18
+00:00:16,630 --> 00:00:16,640
+mechanics starting with
+ 
+
+19
+00:00:16,640 --> 00:00:21,029
+mechanics starting with
+casting time and spell durations
+
+20
+00:00:21,029 --> 00:00:21,039
+
+ 
+
+21
+00:00:21,039 --> 00:00:23,509
+
+the cast entry in a spell description
+
+22
+00:00:23,509 --> 00:00:23,519
+the cast entry in a spell description
+ 
+
+23
+00:00:23,519 --> 00:00:24,790
+the cast entry in a spell description
+lists the amount of time
+
+24
+00:00:24,790 --> 00:00:24,800
+lists the amount of time
+ 
+
+25
+00:00:24,800 --> 00:00:27,109
+lists the amount of time
+needed to cast the spell this is usually
+
+26
+00:00:27,109 --> 00:00:27,119
+needed to cast the spell this is usually
+ 
+
+27
+00:00:27,119 --> 00:00:29,429
+needed to cast the spell this is usually
+displayed as a number of actions to be
+
+28
+00:00:29,429 --> 00:00:29,439
+displayed as a number of actions to be
+ 
+
+29
+00:00:29,439 --> 00:00:30,950
+displayed as a number of actions to be
+spent in encounter mode
+
+30
+00:00:30,950 --> 00:00:30,960
+spent in encounter mode
+ 
+
+31
+00:00:30,960 --> 00:00:33,030
+spent in encounter mode
+but could also be a number of minutes
+
+32
+00:00:33,030 --> 00:00:33,040
+but could also be a number of minutes
+ 
+
+33
+00:00:33,040 --> 00:00:35,110
+but could also be a number of minutes
+such as the case with raised dead
+
+34
+00:00:35,110 --> 00:00:35,120
+such as the case with raised dead
+ 
+
+35
+00:00:35,120 --> 00:00:37,270
+such as the case with raised dead
+if the spell is intended to be used in
+
+36
+00:00:37,270 --> 00:00:37,280
+if the spell is intended to be used in
+ 
+
+37
+00:00:37,280 --> 00:00:39,190
+if the spell is intended to be used in
+exploration mode
+
+38
+00:00:39,190 --> 00:00:39,200
+exploration mode
+ 
+
+39
+00:00:39,200 --> 00:00:41,750
+exploration mode
+some spells like breath of life can be
+
+40
+00:00:41,750 --> 00:00:41,760
+some spells like breath of life can be
+ 
+
+41
+00:00:41,760 --> 00:00:43,190
+some spells like breath of life can be
+cast as a reaction
+
+42
+00:00:43,190 --> 00:00:43,200
+cast as a reaction
+ 
+
+43
+00:00:43,200 --> 00:00:45,110
+cast as a reaction
+and the rule book states that some
+
+44
+00:00:45,110 --> 00:00:45,120
+and the rule book states that some
+ 
+
+45
+00:00:45,120 --> 00:00:47,029
+and the rule book states that some
+spells can even be cast
+
+46
+00:00:47,029 --> 00:00:47,039
+spells can even be cast
+ 
+
+47
+00:00:47,039 --> 00:00:50,229
+spells can even be cast
+as a free action although i'm not aware
+
+48
+00:00:50,229 --> 00:00:50,239
+as a free action although i'm not aware
+ 
+
+49
+00:00:50,239 --> 00:00:52,389
+as a free action although i'm not aware
+of any that have been published so far
+
+50
+00:00:52,389 --> 00:00:52,399
+of any that have been published so far
+ 
+
+51
+00:00:52,399 --> 00:00:54,869
+of any that have been published so far
+and i'm genuinely curious about this let
+
+52
+00:00:54,869 --> 00:00:54,879
+and i'm genuinely curious about this let
+ 
+
+53
+00:00:54,879 --> 00:00:56,709
+and i'm genuinely curious about this let
+me know in the comments if you found a
+
+54
+00:00:56,709 --> 00:00:56,719
+me know in the comments if you found a
+ 
+
+55
+00:00:56,719 --> 00:00:57,270
+me know in the comments if you found a
+spell
+
+56
+00:00:57,270 --> 00:00:57,280
+spell
+ 
+
+57
+00:00:57,280 --> 00:00:59,830
+spell
+that can be cast as a free action
+
+58
+00:00:59,830 --> 00:00:59,840
+that can be cast as a free action
+ 
+
+59
+00:00:59,840 --> 00:01:02,549
+that can be cast as a free action
+because so far i haven't found any
+
+60
+00:01:02,549 --> 00:01:02,559
+because so far i haven't found any
+ 
+
+61
+00:01:02,559 --> 00:01:05,750
+because so far i haven't found any
+now most encounter spells require two
+
+62
+00:01:05,750 --> 00:01:05,760
+now most encounter spells require two
+ 
+
+63
+00:01:05,760 --> 00:01:08,630
+now most encounter spells require two
+actions to be cast but many spells that
+
+64
+00:01:08,630 --> 00:01:08,640
+actions to be cast but many spells that
+ 
+
+65
+00:01:08,640 --> 00:01:10,469
+actions to be cast but many spells that
+cause things to manifest
+
+66
+00:01:10,469 --> 00:01:10,479
+cause things to manifest
+ 
+
+67
+00:01:10,479 --> 00:01:13,429
+cause things to manifest
+and persist in the environment like
+
+68
+00:01:13,429 --> 00:01:13,439
+and persist in the environment like
+ 
+
+69
+00:01:13,439 --> 00:01:14,630
+and persist in the environment like
+blade barrier
+
+70
+00:01:14,630 --> 00:01:14,640
+blade barrier
+ 
+
+71
+00:01:14,640 --> 00:01:17,350
+blade barrier
+summon spells wall spells a certain
+
+72
+00:01:17,350 --> 00:01:17,360
+summon spells wall spells a certain
+ 
+
+73
+00:01:17,360 --> 00:01:18,710
+summon spells wall spells a certain
+illusions
+
+74
+00:01:18,710 --> 00:01:18,720
+illusions
+ 
+
+75
+00:01:18,720 --> 00:01:22,149
+illusions
+those require three actions to be spent
+
+76
+00:01:22,149 --> 00:01:22,159
+those require three actions to be spent
+ 
+
+77
+00:01:22,159 --> 00:01:24,390
+those require three actions to be spent
+but two actions for most spells and
+
+78
+00:01:24,390 --> 00:01:24,400
+but two actions for most spells and
+ 
+
+79
+00:01:24,400 --> 00:01:25,990
+but two actions for most spells and
+three actions for spells that cause
+
+80
+00:01:25,990 --> 00:01:26,000
+three actions for spells that cause
+ 
+
+81
+00:01:26,000 --> 00:01:28,149
+three actions for spells that cause
+things to manifest in the environment
+
+82
+00:01:28,149 --> 00:01:28,159
+things to manifest in the environment
+ 
+
+83
+00:01:28,159 --> 00:01:29,109
+things to manifest in the environment
+that's just
+
+84
+00:01:29,109 --> 00:01:29,119
+that's just
+ 
+
+85
+00:01:29,119 --> 00:01:32,069
+that's just
+a rule of thumb always always always
+
+86
+00:01:32,069 --> 00:01:32,079
+a rule of thumb always always always
+ 
+
+87
+00:01:32,079 --> 00:01:34,069
+a rule of thumb always always always
+check each spell's description to be
+
+88
+00:01:34,069 --> 00:01:34,079
+check each spell's description to be
+ 
+
+89
+00:01:34,079 --> 00:01:34,710
+check each spell's description to be
+certain
+
+90
+00:01:34,710 --> 00:01:34,720
+certain
+ 
+
+91
+00:01:34,720 --> 00:01:38,469
+certain
+of how many actions are needed
+
+92
+00:01:38,469 --> 00:01:38,479
+
+ 
+
+93
+00:01:38,479 --> 00:01:40,469
+
+the cast entry in a spell's description
+
+94
+00:01:40,469 --> 00:01:40,479
+the cast entry in a spell's description
+ 
+
+95
+00:01:40,479 --> 00:01:42,389
+the cast entry in a spell's description
+tells you how long it takes to activate
+
+96
+00:01:42,389 --> 00:01:42,399
+tells you how long it takes to activate
+ 
+
+97
+00:01:42,399 --> 00:01:43,270
+tells you how long it takes to activate
+the spell
+
+98
+00:01:43,270 --> 00:01:43,280
+the spell
+ 
+
+99
+00:01:43,280 --> 00:01:45,670
+the spell
+and the duration entry tells you how
+
+100
+00:01:45,670 --> 00:01:45,680
+and the duration entry tells you how
+ 
+
+101
+00:01:45,680 --> 00:01:47,030
+and the duration entry tells you how
+long it will last
+
+102
+00:01:47,030 --> 00:01:47,040
+long it will last
+ 
+
+103
+00:01:47,040 --> 00:01:50,230
+long it will last
+after that if a spell has no
+
+104
+00:01:50,230 --> 00:01:50,240
+after that if a spell has no
+ 
+
+105
+00:01:50,240 --> 00:01:53,270
+after that if a spell has no
+listed duration then it's instantaneous
+
+106
+00:01:53,270 --> 00:01:53,280
+listed duration then it's instantaneous
+ 
+
+107
+00:01:53,280 --> 00:01:56,789
+listed duration then it's instantaneous
+it starts and ends on the caster's turn
+
+108
+00:01:56,789 --> 00:01:56,799
+it starts and ends on the caster's turn
+ 
+
+109
+00:01:56,799 --> 00:01:59,590
+it starts and ends on the caster's turn
+but may have effects that last longer
+
+110
+00:01:59,590 --> 00:01:59,600
+but may have effects that last longer
+ 
+
+111
+00:01:59,600 --> 00:02:00,550
+but may have effects that last longer
+than that
+
+112
+00:02:00,550 --> 00:02:00,560
+than that
+ 
+
+113
+00:02:00,560 --> 00:02:03,590
+than that
+for example sound burst has no listed
+
+114
+00:02:03,590 --> 00:02:03,600
+for example sound burst has no listed
+ 
+
+115
+00:02:03,600 --> 00:02:05,350
+for example sound burst has no listed
+duration and therefore it's
+
+116
+00:02:05,350 --> 00:02:05,360
+duration and therefore it's
+ 
+
+117
+00:02:05,360 --> 00:02:06,709
+duration and therefore it's
+instantaneous
+
+118
+00:02:06,709 --> 00:02:06,719
+instantaneous
+ 
+
+119
+00:02:06,719 --> 00:02:09,430
+instantaneous
+but the target might become deafened or
+
+120
+00:02:09,430 --> 00:02:09,440
+but the target might become deafened or
+ 
+
+121
+00:02:09,440 --> 00:02:10,949
+but the target might become deafened or
+stunned for up to 10
+
+122
+00:02:10,949 --> 00:02:10,959
+stunned for up to 10
+ 
+
+123
+00:02:10,959 --> 00:02:13,990
+stunned for up to 10
+rounds more when a spell has an
+
+124
+00:02:13,990 --> 00:02:14,000
+rounds more when a spell has an
+ 
+
+125
+00:02:14,000 --> 00:02:16,630
+rounds more when a spell has an
+effect that lasts longer than the
+
+126
+00:02:16,630 --> 00:02:16,640
+effect that lasts longer than the
+ 
+
+127
+00:02:16,640 --> 00:02:17,350
+effect that lasts longer than the
+duration
+
+128
+00:02:17,350 --> 00:02:17,360
+duration
+ 
+
+129
+00:02:17,360 --> 00:02:19,990
+duration
+of the spell the effect is not
+
+130
+00:02:19,990 --> 00:02:20,000
+of the spell the effect is not
+ 
+
+131
+00:02:20,000 --> 00:02:21,270
+of the spell the effect is not
+considered to be
+
+132
+00:02:21,270 --> 00:02:21,280
+considered to be
+ 
+
+133
+00:02:21,280 --> 00:02:23,670
+considered to be
+magical and therefore something like
+
+134
+00:02:23,670 --> 00:02:23,680
+magical and therefore something like
+ 
+
+135
+00:02:23,680 --> 00:02:25,030
+magical and therefore something like
+dispel magic
+
+136
+00:02:25,030 --> 00:02:25,040
+dispel magic
+ 
+
+137
+00:02:25,040 --> 00:02:27,830
+dispel magic
+could not be used to cure the victim's
+
+138
+00:02:27,830 --> 00:02:27,840
+could not be used to cure the victim's
+ 
+
+139
+00:02:27,840 --> 00:02:29,190
+could not be used to cure the victim's
+deafness
+
+140
+00:02:29,190 --> 00:02:29,200
+deafness
+ 
+
+141
+00:02:29,200 --> 00:02:31,509
+deafness
+when the duration is listed as a number
+
+142
+00:02:31,509 --> 00:02:31,519
+when the duration is listed as a number
+ 
+
+143
+00:02:31,519 --> 00:02:32,710
+when the duration is listed as a number
+of rounds
+
+144
+00:02:32,710 --> 00:02:32,720
+of rounds
+ 
+
+145
+00:02:32,720 --> 00:02:35,430
+of rounds
+the number of rounds remaining decreases
+
+146
+00:02:35,430 --> 00:02:35,440
+the number of rounds remaining decreases
+ 
+
+147
+00:02:35,440 --> 00:02:36,470
+the number of rounds remaining decreases
+by one
+
+148
+00:02:36,470 --> 00:02:36,480
+by one
+ 
+
+149
+00:02:36,480 --> 00:02:39,830
+by one
+at the start of the caster's turns
+
+150
+00:02:39,830 --> 00:02:39,840
+at the start of the caster's turns
+ 
+
+151
+00:02:39,840 --> 00:02:44,949
+at the start of the caster's turns
+and ends when that count reaches zero
+
+152
+00:02:44,949 --> 00:02:44,959
+
+ 
+
+153
+00:02:44,959 --> 00:02:47,190
+
+some spells have a listed duration which
+
+154
+00:02:47,190 --> 00:02:47,200
+some spells have a listed duration which
+ 
+
+155
+00:02:47,200 --> 00:02:48,309
+some spells have a listed duration which
+includes the word
+
+156
+00:02:48,309 --> 00:02:48,319
+includes the word
+ 
+
+157
+00:02:48,319 --> 00:02:51,990
+includes the word
+sustain when you cast a sustained spell
+
+158
+00:02:51,990 --> 00:02:52,000
+sustain when you cast a sustained spell
+ 
+
+159
+00:02:52,000 --> 00:02:55,190
+sustain when you cast a sustained spell
+it is due to expire at the end of the
+
+160
+00:02:55,190 --> 00:02:55,200
+it is due to expire at the end of the
+ 
+
+161
+00:02:55,200 --> 00:02:55,670
+it is due to expire at the end of the
+next
+
+162
+00:02:55,670 --> 00:02:55,680
+next
+ 
+
+163
+00:02:55,680 --> 00:02:58,869
+next
+turn after you cast it unless you spend
+
+164
+00:02:58,869 --> 00:02:58,879
+turn after you cast it unless you spend
+ 
+
+165
+00:02:58,879 --> 00:02:59,110
+turn after you cast it unless you spend
+an
+
+166
+00:02:59,110 --> 00:02:59,120
+an
+ 
+
+167
+00:02:59,120 --> 00:03:01,910
+an
+action on that turn to extend the
+
+168
+00:03:01,910 --> 00:03:01,920
+action on that turn to extend the
+ 
+
+169
+00:03:01,920 --> 00:03:03,190
+action on that turn to extend the
+spell's duration
+
+170
+00:03:03,190 --> 00:03:03,200
+spell's duration
+ 
+
+171
+00:03:03,200 --> 00:03:06,630
+spell's duration
+by one more round to do this you spend
+
+172
+00:03:06,630 --> 00:03:06,640
+by one more round to do this you spend
+ 
+
+173
+00:03:06,640 --> 00:03:07,670
+by one more round to do this you spend
+one action
+
+174
+00:03:07,670 --> 00:03:07,680
+one action
+ 
+
+175
+00:03:07,680 --> 00:03:10,949
+one action
+and use sustain a spell which allows you
+
+176
+00:03:10,949 --> 00:03:10,959
+and use sustain a spell which allows you
+ 
+
+177
+00:03:10,959 --> 00:03:11,910
+and use sustain a spell which allows you
+to add enough
+
+178
+00:03:11,910 --> 00:03:11,920
+to add enough
+ 
+
+179
+00:03:11,920 --> 00:03:14,070
+to add enough
+magic energy and thought into the spell
+
+180
+00:03:14,070 --> 00:03:14,080
+magic energy and thought into the spell
+ 
+
+181
+00:03:14,080 --> 00:03:16,550
+magic energy and thought into the spell
+effect to keep it going for another
+
+182
+00:03:16,550 --> 00:03:16,560
+effect to keep it going for another
+ 
+
+183
+00:03:16,560 --> 00:03:17,670
+effect to keep it going for another
+round
+
+184
+00:03:17,670 --> 00:03:17,680
+round
+ 
+
+185
+00:03:17,680 --> 00:03:20,550
+round
+now the spell will cease at the end of
+
+186
+00:03:20,550 --> 00:03:20,560
+now the spell will cease at the end of
+ 
+
+187
+00:03:20,560 --> 00:03:21,750
+now the spell will cease at the end of
+your next turn
+
+188
+00:03:21,750 --> 00:03:21,760
+your next turn
+ 
+
+189
+00:03:21,760 --> 00:03:24,309
+your next turn
+unless you spin an action again on that
+
+190
+00:03:24,309 --> 00:03:24,319
+unless you spin an action again on that
+ 
+
+191
+00:03:24,319 --> 00:03:24,869
+unless you spin an action again on that
+turn
+
+192
+00:03:24,869 --> 00:03:24,879
+turn
+ 
+
+193
+00:03:24,879 --> 00:03:27,990
+turn
+to sustain it again and so on most
+
+194
+00:03:27,990 --> 00:03:28,000
+to sustain it again and so on most
+ 
+
+195
+00:03:28,000 --> 00:03:29,830
+to sustain it again and so on most
+spells that allow you to sustain them
+
+196
+00:03:29,830 --> 00:03:29,840
+spells that allow you to sustain them
+ 
+
+197
+00:03:29,840 --> 00:03:32,630
+spells that allow you to sustain them
+have a maximum duration like one minute
+
+198
+00:03:32,630 --> 00:03:32,640
+have a maximum duration like one minute
+ 
+
+199
+00:03:32,640 --> 00:03:35,589
+have a maximum duration like one minute
+and you cannot sustain them beyond that
+
+200
+00:03:35,589 --> 00:03:35,599
+and you cannot sustain them beyond that
+ 
+
+201
+00:03:35,599 --> 00:03:37,350
+and you cannot sustain them beyond that
+maximum amount of time
+
+202
+00:03:37,350 --> 00:03:37,360
+maximum amount of time
+ 
+
+203
+00:03:37,360 --> 00:03:39,750
+maximum amount of time
+and if a maximum duration is not listed
+
+204
+00:03:39,750 --> 00:03:39,760
+and if a maximum duration is not listed
+ 
+
+205
+00:03:39,760 --> 00:03:41,350
+and if a maximum duration is not listed
+then you can sustain it for
+
+206
+00:03:41,350 --> 00:03:41,360
+then you can sustain it for
+ 
+
+207
+00:03:41,360 --> 00:03:44,309
+then you can sustain it for
+up to 10 minutes or 100 rounds after
+
+208
+00:03:44,309 --> 00:03:44,319
+up to 10 minutes or 100 rounds after
+ 
+
+209
+00:03:44,319 --> 00:03:46,070
+up to 10 minutes or 100 rounds after
+which you become fatigued
+
+210
+00:03:46,070 --> 00:03:46,080
+which you become fatigued
+ 
+
+211
+00:03:46,080 --> 00:03:49,670
+which you become fatigued
+and cannot sustain that spell anymore
+
+212
+00:03:49,670 --> 00:03:49,680
+and cannot sustain that spell anymore
+ 
+
+213
+00:03:49,680 --> 00:03:52,070
+and cannot sustain that spell anymore
+now when it comes to sustaining spells
+
+214
+00:03:52,070 --> 00:03:52,080
+now when it comes to sustaining spells
+ 
+
+215
+00:03:52,080 --> 00:03:52,710
+now when it comes to sustaining spells
+there are
+
+216
+00:03:52,710 --> 00:03:52,720
+there are
+ 
+
+217
+00:03:52,720 --> 00:03:54,390
+there are
+a few questions that always seem to come
+
+218
+00:03:54,390 --> 00:03:54,400
+a few questions that always seem to come
+ 
+
+219
+00:03:54,400 --> 00:03:56,149
+a few questions that always seem to come
+up the first is
+
+220
+00:03:56,149 --> 00:03:56,159
+up the first is
+ 
+
+221
+00:03:56,159 --> 00:03:58,390
+up the first is
+can i sustain multiple spells at the
+
+222
+00:03:58,390 --> 00:03:58,400
+can i sustain multiple spells at the
+ 
+
+223
+00:03:58,400 --> 00:03:59,429
+can i sustain multiple spells at the
+same time
+
+224
+00:03:59,429 --> 00:03:59,439
+same time
+ 
+
+225
+00:03:59,439 --> 00:04:02,470
+same time
+and the answer to that is yes you can if
+
+226
+00:04:02,470 --> 00:04:02,480
+and the answer to that is yes you can if
+ 
+
+227
+00:04:02,480 --> 00:04:03,750
+and the answer to that is yes you can if
+you somehow have
+
+228
+00:04:03,750 --> 00:04:03,760
+you somehow have
+ 
+
+229
+00:04:03,760 --> 00:04:06,229
+you somehow have
+three active spells that all have a
+
+230
+00:04:06,229 --> 00:04:06,239
+three active spells that all have a
+ 
+
+231
+00:04:06,239 --> 00:04:07,990
+three active spells that all have a
+duration of sustain
+
+232
+00:04:07,990 --> 00:04:08,000
+duration of sustain
+ 
+
+233
+00:04:08,000 --> 00:04:09,910
+duration of sustain
+and have not passed their maximum
+
+234
+00:04:09,910 --> 00:04:09,920
+and have not passed their maximum
+ 
+
+235
+00:04:09,920 --> 00:04:11,910
+and have not passed their maximum
+duration then you could spend
+
+236
+00:04:11,910 --> 00:04:11,920
+duration then you could spend
+ 
+
+237
+00:04:11,920 --> 00:04:14,309
+duration then you could spend
+three actions and continue to sustain
+
+238
+00:04:14,309 --> 00:04:14,319
+three actions and continue to sustain
+ 
+
+239
+00:04:14,319 --> 00:04:15,750
+three actions and continue to sustain
+all three of them
+
+240
+00:04:15,750 --> 00:04:15,760
+all three of them
+ 
+
+241
+00:04:15,760 --> 00:04:18,710
+all three of them
+the second question is can i sustain the
+
+242
+00:04:18,710 --> 00:04:18,720
+the second question is can i sustain the
+ 
+
+243
+00:04:18,720 --> 00:04:19,590
+the second question is can i sustain the
+same spell
+
+244
+00:04:19,590 --> 00:04:19,600
+same spell
+ 
+
+245
+00:04:19,600 --> 00:04:22,150
+same spell
+multiple times in one round and the
+
+246
+00:04:22,150 --> 00:04:22,160
+multiple times in one round and the
+ 
+
+247
+00:04:22,160 --> 00:04:23,990
+multiple times in one round and the
+answer to this is also yes
+
+248
+00:04:23,990 --> 00:04:24,000
+answer to this is also yes
+ 
+
+249
+00:04:24,000 --> 00:04:26,469
+answer to this is also yes
+per the errata you can sustain spells
+
+250
+00:04:26,469 --> 00:04:26,479
+per the errata you can sustain spells
+ 
+
+251
+00:04:26,479 --> 00:04:28,310
+per the errata you can sustain spells
+multiple times in one round
+
+252
+00:04:28,310 --> 00:04:28,320
+multiple times in one round
+ 
+
+253
+00:04:28,320 --> 00:04:30,550
+multiple times in one round
+so on the round following the casting of
+
+254
+00:04:30,550 --> 00:04:30,560
+so on the round following the casting of
+ 
+
+255
+00:04:30,560 --> 00:04:31,749
+so on the round following the casting of
+a sustained spell
+
+256
+00:04:31,749 --> 00:04:31,759
+a sustained spell
+ 
+
+257
+00:04:31,759 --> 00:04:33,990
+a sustained spell
+you can spend three actions to sustain
+
+258
+00:04:33,990 --> 00:04:34,000
+you can spend three actions to sustain
+ 
+
+259
+00:04:34,000 --> 00:04:35,350
+you can spend three actions to sustain
+the spell three times
+
+260
+00:04:35,350 --> 00:04:35,360
+the spell three times
+ 
+
+261
+00:04:35,360 --> 00:04:37,749
+the spell three times
+and trigger its effects three times as
+
+262
+00:04:37,749 --> 00:04:37,759
+and trigger its effects three times as
+ 
+
+263
+00:04:37,759 --> 00:04:38,469
+and trigger its effects three times as
+well
+
+264
+00:04:38,469 --> 00:04:38,479
+well
+ 
+
+265
+00:04:38,479 --> 00:04:39,990
+well
+a good example of this would be
+
+266
+00:04:39,990 --> 00:04:40,000
+a good example of this would be
+ 
+
+267
+00:04:40,000 --> 00:04:42,310
+a good example of this would be
+spiritual weapon where each time you
+
+268
+00:04:42,310 --> 00:04:42,320
+spiritual weapon where each time you
+ 
+
+269
+00:04:42,320 --> 00:04:43,110
+spiritual weapon where each time you
+sustain it
+
+270
+00:04:43,110 --> 00:04:43,120
+sustain it
+ 
+
+271
+00:04:43,120 --> 00:04:45,830
+sustain it
+it attacks another time however the
+
+272
+00:04:45,830 --> 00:04:45,840
+it attacks another time however the
+ 
+
+273
+00:04:45,840 --> 00:04:48,550
+it attacks another time however the
+errata also adjusts a number of spells
+
+274
+00:04:48,550 --> 00:04:48,560
+errata also adjusts a number of spells
+ 
+
+275
+00:04:48,560 --> 00:04:50,550
+errata also adjusts a number of spells
+so that their effects only trigger the
+
+276
+00:04:50,550 --> 00:04:50,560
+so that their effects only trigger the
+ 
+
+277
+00:04:50,560 --> 00:04:52,950
+so that their effects only trigger the
+first time they are sustained each round
+
+278
+00:04:52,950 --> 00:04:52,960
+first time they are sustained each round
+ 
+
+279
+00:04:52,960 --> 00:04:55,590
+first time they are sustained each round
+this list includes flaming sphere
+
+280
+00:04:55,590 --> 00:04:55,600
+this list includes flaming sphere
+ 
+
+281
+00:04:55,600 --> 00:04:56,550
+this list includes flaming sphere
+implosion
+
+282
+00:04:56,550 --> 00:04:56,560
+implosion
+ 
+
+283
+00:04:56,560 --> 00:04:59,590
+implosion
+unfathomable song impaling briars and
+
+284
+00:04:59,590 --> 00:04:59,600
+unfathomable song impaling briars and
+ 
+
+285
+00:04:59,600 --> 00:05:00,710
+unfathomable song impaling briars and
+stormlord
+
+286
+00:05:00,710 --> 00:05:00,720
+stormlord
+ 
+
+287
+00:05:00,720 --> 00:05:02,550
+stormlord
+so there is nothing preventing you from
+
+288
+00:05:02,550 --> 00:05:02,560
+so there is nothing preventing you from
+ 
+
+289
+00:05:02,560 --> 00:05:03,990
+so there is nothing preventing you from
+using three actions
+
+290
+00:05:03,990 --> 00:05:04,000
+using three actions
+ 
+
+291
+00:05:04,000 --> 00:05:06,629
+using three actions
+to sustain flaming sphere three times in
+
+292
+00:05:06,629 --> 00:05:06,639
+to sustain flaming sphere three times in
+ 
+
+293
+00:05:06,639 --> 00:05:07,590
+to sustain flaming sphere three times in
+one round
+
+294
+00:05:07,590 --> 00:05:07,600
+one round
+ 
+
+295
+00:05:07,600 --> 00:05:10,310
+one round
+but you will only trigger its attack
+
+296
+00:05:10,310 --> 00:05:10,320
+but you will only trigger its attack
+ 
+
+297
+00:05:10,320 --> 00:05:13,029
+but you will only trigger its attack
+once
+
+298
+00:05:13,029 --> 00:05:13,039
+
+ 
+
+299
+00:05:13,039 --> 00:05:15,749
+
+some spells like endure elements have
+
+300
+00:05:15,749 --> 00:05:15,759
+some spells like endure elements have
+ 
+
+301
+00:05:15,759 --> 00:05:17,430
+some spells like endure elements have
+durations that say
+
+302
+00:05:17,430 --> 00:05:17,440
+durations that say
+ 
+
+303
+00:05:17,440 --> 00:05:19,749
+durations that say
+until the next time you make your daily
+
+304
+00:05:19,749 --> 00:05:19,759
+until the next time you make your daily
+ 
+
+305
+00:05:19,759 --> 00:05:20,870
+until the next time you make your daily
+preparations
+
+306
+00:05:20,870 --> 00:05:20,880
+preparations
+ 
+
+307
+00:05:20,880 --> 00:05:23,029
+preparations
+what this means is on the next day as
+
+308
+00:05:23,029 --> 00:05:23,039
+what this means is on the next day as
+ 
+
+309
+00:05:23,039 --> 00:05:24,790
+what this means is on the next day as
+part of your daily preparations
+
+310
+00:05:24,790 --> 00:05:24,800
+part of your daily preparations
+ 
+
+311
+00:05:24,800 --> 00:05:27,670
+part of your daily preparations
+you can choose to not regain that spell
+
+312
+00:05:27,670 --> 00:05:27,680
+you can choose to not regain that spell
+ 
+
+313
+00:05:27,680 --> 00:05:28,629
+you can choose to not regain that spell
+slot
+
+314
+00:05:28,629 --> 00:05:28,639
+slot
+ 
+
+315
+00:05:28,639 --> 00:05:31,430
+slot
+doing so basically sustains the spell
+
+316
+00:05:31,430 --> 00:05:31,440
+doing so basically sustains the spell
+ 
+
+317
+00:05:31,440 --> 00:05:33,029
+doing so basically sustains the spell
+and extends its duration
+
+318
+00:05:33,029 --> 00:05:33,039
+and extends its duration
+ 
+
+319
+00:05:33,039 --> 00:05:35,510
+and extends its duration
+for another day until your next daily
+
+320
+00:05:35,510 --> 00:05:35,520
+for another day until your next daily
+ 
+
+321
+00:05:35,520 --> 00:05:37,110
+for another day until your next daily
+preparations
+
+322
+00:05:37,110 --> 00:05:37,120
+preparations
+ 
+
+323
+00:05:37,120 --> 00:05:39,029
+preparations
+this lets you sustain the spell over
+
+324
+00:05:39,029 --> 00:05:39,039
+this lets you sustain the spell over
+ 
+
+325
+00:05:39,039 --> 00:05:40,629
+this lets you sustain the spell over
+very long periods of time
+
+326
+00:05:40,629 --> 00:05:40,639
+very long periods of time
+ 
+
+327
+00:05:40,639 --> 00:05:43,510
+very long periods of time
+but if you ever do choose to regain that
+
+328
+00:05:43,510 --> 00:05:43,520
+but if you ever do choose to regain that
+ 
+
+329
+00:05:43,520 --> 00:05:44,950
+but if you ever do choose to regain that
+spell slot during your daily
+
+330
+00:05:44,950 --> 00:05:44,960
+spell slot during your daily
+ 
+
+331
+00:05:44,960 --> 00:05:46,070
+spell slot during your daily
+preparations
+
+332
+00:05:46,070 --> 00:05:46,080
+preparations
+ 
+
+333
+00:05:46,080 --> 00:05:49,110
+preparations
+then the spell immediately ends and if
+
+334
+00:05:49,110 --> 00:05:49,120
+then the spell immediately ends and if
+ 
+
+335
+00:05:49,120 --> 00:05:51,110
+then the spell immediately ends and if
+you are ever unconscious or dead
+
+336
+00:05:51,110 --> 00:05:51,120
+you are ever unconscious or dead
+ 
+
+337
+00:05:51,120 --> 00:05:53,590
+you are ever unconscious or dead
+at the 24 hour mark after the last
+
+338
+00:05:53,590 --> 00:05:53,600
+at the 24 hour mark after the last
+ 
+
+339
+00:05:53,600 --> 00:05:54,710
+at the 24 hour mark after the last
+preparations
+
+340
+00:05:54,710 --> 00:05:54,720
+preparations
+ 
+
+341
+00:05:54,720 --> 00:05:57,909
+preparations
+you cannot sustain it and the spell ends
+
+342
+00:05:57,909 --> 00:05:57,919
+you cannot sustain it and the spell ends
+ 
+
+343
+00:05:57,919 --> 00:06:00,070
+you cannot sustain it and the spell ends
+also the spell must have been cast using
+
+344
+00:06:00,070 --> 00:06:00,080
+also the spell must have been cast using
+ 
+
+345
+00:06:00,080 --> 00:06:01,430
+also the spell must have been cast using
+a spell slot
+
+346
+00:06:01,430 --> 00:06:01,440
+a spell slot
+ 
+
+347
+00:06:01,440 --> 00:06:03,749
+a spell slot
+and you must use spell slots to continue
+
+348
+00:06:03,749 --> 00:06:03,759
+and you must use spell slots to continue
+ 
+
+349
+00:06:03,759 --> 00:06:05,510
+and you must use spell slots to continue
+it so you can't use
+
+350
+00:06:05,510 --> 00:06:05,520
+it so you can't use
+ 
+
+351
+00:06:05,520 --> 00:06:08,150
+it so you can't use
+charges from a wand or other magic item
+
+352
+00:06:08,150 --> 00:06:08,160
+charges from a wand or other magic item
+ 
+
+353
+00:06:08,160 --> 00:06:09,990
+charges from a wand or other magic item
+for this purpose
+
+354
+00:06:09,990 --> 00:06:10,000
+for this purpose
+ 
+
+355
+00:06:10,000 --> 00:06:12,469
+for this purpose
+and last if a spell has a duration of
+
+356
+00:06:12,469 --> 00:06:12,479
+and last if a spell has a duration of
+ 
+
+357
+00:06:12,479 --> 00:06:13,510
+and last if a spell has a duration of
+unlimited
+
+358
+00:06:13,510 --> 00:06:13,520
+unlimited
+ 
+
+359
+00:06:13,520 --> 00:06:16,230
+unlimited
+like magic mouth then you don't need to
+
+360
+00:06:16,230 --> 00:06:16,240
+like magic mouth then you don't need to
+ 
+
+361
+00:06:16,240 --> 00:06:18,870
+like magic mouth then you don't need to
+reserve spell slots in this way for you
+
+362
+00:06:18,870 --> 00:06:18,880
+reserve spell slots in this way for you
+ 
+
+363
+00:06:18,880 --> 00:06:20,309
+reserve spell slots in this way for you
+to continue it
+
+364
+00:06:20,309 --> 00:06:20,319
+to continue it
+ 
+
+365
+00:06:20,319 --> 00:06:22,790
+to continue it
+if the spell has a duration of unlimited
+
+366
+00:06:22,790 --> 00:06:22,800
+if the spell has a duration of unlimited
+ 
+
+367
+00:06:22,800 --> 00:06:23,749
+if the spell has a duration of unlimited
+then it lasts
+
+368
+00:06:23,749 --> 00:06:23,759
+then it lasts
+ 
+
+369
+00:06:23,759 --> 00:06:26,390
+then it lasts
+until it is either counteracted or
+
+370
+00:06:26,390 --> 00:06:26,400
+until it is either counteracted or
+ 
+
+371
+00:06:26,400 --> 00:06:28,550
+until it is either counteracted or
+dismissed by the caster
+
+372
+00:06:28,550 --> 00:06:28,560
+dismissed by the caster
+ 
+
+373
+00:06:28,560 --> 00:06:31,350
+dismissed by the caster
+dismissing a spell allows the caster to
+
+374
+00:06:31,350 --> 00:06:31,360
+dismissing a spell allows the caster to
+ 
+
+375
+00:06:31,360 --> 00:06:32,790
+dismissing a spell allows the caster to
+end it early before
+
+376
+00:06:32,790 --> 00:06:32,800
+end it early before
+ 
+
+377
+00:06:32,800 --> 00:06:35,749
+end it early before
+its listed duration is up doing so costs
+
+378
+00:06:35,749 --> 00:06:35,759
+its listed duration is up doing so costs
+ 
+
+379
+00:06:35,759 --> 00:06:37,029
+its listed duration is up doing so costs
+one action
+
+380
+00:06:37,029 --> 00:06:37,039
+one action
+ 
+
+381
+00:06:37,039 --> 00:06:40,390
+one action
+and by raw it appears that only spells
+
+382
+00:06:40,390 --> 00:06:40,400
+and by raw it appears that only spells
+ 
+
+383
+00:06:40,400 --> 00:06:42,550
+and by raw it appears that only spells
+that specifically tell you that they can
+
+384
+00:06:42,550 --> 00:06:42,560
+that specifically tell you that they can
+ 
+
+385
+00:06:42,560 --> 00:06:43,749
+that specifically tell you that they can
+be dismissed
+
+386
+00:06:43,749 --> 00:06:43,759
+be dismissed
+ 
+
+387
+00:06:43,759 --> 00:06:47,029
+be dismissed
+can be dismissed like for example aerial
+
+388
+00:06:47,029 --> 00:06:47,039
+can be dismissed like for example aerial
+ 
+
+389
+00:06:47,039 --> 00:06:47,590
+can be dismissed like for example aerial
+form
+
+390
+00:06:47,590 --> 00:06:47,600
+form
+ 
+
+391
+00:06:47,600 --> 00:06:49,589
+form
+says it can be dismissed so you can
+
+392
+00:06:49,589 --> 00:06:49,599
+says it can be dismissed so you can
+ 
+
+393
+00:06:49,599 --> 00:06:50,710
+says it can be dismissed so you can
+dismiss it
+
+394
+00:06:50,710 --> 00:06:50,720
+dismiss it
+ 
+
+395
+00:06:50,720 --> 00:06:53,510
+dismiss it
+but oddly enough by raw a spell like
+
+396
+00:06:53,510 --> 00:06:53,520
+but oddly enough by raw a spell like
+ 
+
+397
+00:06:53,520 --> 00:06:54,309
+but oddly enough by raw a spell like
+light
+
+398
+00:06:54,309 --> 00:06:54,319
+light
+ 
+
+399
+00:06:54,319 --> 00:06:59,189
+light
+cannot be dismissed by the caster
+
+400
+00:06:59,189 --> 00:06:59,199
+
+ 
+
+401
+00:06:59,199 --> 00:07:00,870
+
+before we close i'd like to take a
+
+402
+00:07:00,870 --> 00:07:00,880
+before we close i'd like to take a
+ 
+
+403
+00:07:00,880 --> 00:07:03,110
+before we close i'd like to take a
+moment to thank all of our patrons
+
+404
+00:07:03,110 --> 00:07:03,120
+moment to thank all of our patrons
+ 
+
+405
+00:07:03,120 --> 00:07:04,870
+moment to thank all of our patrons
+these videos would not be possible
+
+406
+00:07:04,870 --> 00:07:04,880
+these videos would not be possible
+ 
+
+407
+00:07:04,880 --> 00:07:07,029
+these videos would not be possible
+without their continued generosity
+
+408
+00:07:07,029 --> 00:07:07,039
+without their continued generosity
+ 
+
+409
+00:07:07,039 --> 00:07:09,830
+without their continued generosity
+and support members of the basics for
+
+410
+00:07:09,830 --> 00:07:09,840
+and support members of the basics for
+ 
+
+411
+00:07:09,840 --> 00:07:11,909
+and support members of the basics for
+gamers patreon community receive special
+
+412
+00:07:11,909 --> 00:07:11,919
+gamers patreon community receive special
+ 
+
+413
+00:07:11,919 --> 00:07:12,710
+gamers patreon community receive special
+benefits
+
+414
+00:07:12,710 --> 00:07:12,720
+benefits
+ 
+
+415
+00:07:12,720 --> 00:07:14,629
+benefits
+like getting to vote on the topics that
+
+416
+00:07:14,629 --> 00:07:14,639
+like getting to vote on the topics that
+ 
+
+417
+00:07:14,639 --> 00:07:15,990
+like getting to vote on the topics that
+we cover in the future
+
+418
+00:07:15,990 --> 00:07:16,000
+we cover in the future
+ 
+
+419
+00:07:16,000 --> 00:07:17,990
+we cover in the future
+and also they get to see these videos
+
+420
+00:07:17,990 --> 00:07:18,000
+and also they get to see these videos
+ 
+
+421
+00:07:18,000 --> 00:07:20,309
+and also they get to see these videos
+one week in ad free before
+
+422
+00:07:20,309 --> 00:07:20,319
+one week in ad free before
+ 
+
+423
+00:07:20,319 --> 00:07:23,189
+one week in ad free before
+everybody else visit the link shown on
+
+424
+00:07:23,189 --> 00:07:23,199
+everybody else visit the link shown on
+ 
+
+425
+00:07:23,199 --> 00:07:24,230
+everybody else visit the link shown on
+the left of the screen
+
+426
+00:07:24,230 --> 00:07:24,240
+the left of the screen
+ 
+
+427
+00:07:24,240 --> 00:07:25,909
+the left of the screen
+and in the description if you'd like to
+
+428
+00:07:25,909 --> 00:07:25,919
+and in the description if you'd like to
+ 
+
+429
+00:07:25,919 --> 00:07:28,469
+and in the description if you'd like to
+know more about becoming a patron
+
+430
+00:07:28,469 --> 00:07:28,479
+know more about becoming a patron
+ 
+
+431
+00:07:28,479 --> 00:07:29,670
+know more about becoming a patron
+if you would like to support this
+
+432
+00:07:29,670 --> 00:07:29,680
+if you would like to support this
+ 
+
+433
+00:07:29,680 --> 00:07:31,670
+if you would like to support this
+channel and help it grow the easiest way
+
+434
+00:07:31,670 --> 00:07:31,680
+channel and help it grow the easiest way
+ 
+
+435
+00:07:31,680 --> 00:07:32,550
+channel and help it grow the easiest way
+to do that
+
+436
+00:07:32,550 --> 00:07:32,560
+to do that
+ 
+
+437
+00:07:32,560 --> 00:07:34,950
+to do that
+is by subscribing and clicking the bell
+
+438
+00:07:34,950 --> 00:07:34,960
+is by subscribing and clicking the bell
+ 
+
+439
+00:07:34,960 --> 00:07:35,670
+is by subscribing and clicking the bell
+icon
+
+440
+00:07:35,670 --> 00:07:35,680
+icon
+ 
+
+441
+00:07:35,680 --> 00:07:37,589
+icon
+so you get notified when new videos
+
+442
+00:07:37,589 --> 00:07:37,599
+so you get notified when new videos
+ 
+
+443
+00:07:37,599 --> 00:07:39,830
+so you get notified when new videos
+release and we can always be reached
+
+444
+00:07:39,830 --> 00:07:39,840
+release and we can always be reached
+ 
+
+445
+00:07:39,840 --> 00:07:41,430
+release and we can always be reached
+through our twitter and facebook pages
+
+446
+00:07:41,430 --> 00:07:41,440
+through our twitter and facebook pages
+ 
+
+447
+00:07:41,440 --> 00:07:42,309
+through our twitter and facebook pages
+too
+
+448
+00:07:42,309 --> 00:07:42,319
+too
+ 
+
+449
+00:07:42,319 --> 00:07:44,150
+too
+thanks for watching take care and we
+
+450
+00:07:44,150 --> 00:07:44,160
+thanks for watching take care and we
+ 
+
+451
+00:07:44,160 --> 00:07:46,749
+thanks for watching take care and we
+will see you soon with more basics of
+
+452
+00:07:46,749 --> 00:07:46,759
+will see you soon with more basics of
+ 
+
+453
+00:07:46,759 --> 00:07:49,759
+will see you soon with more basics of
+pathfinder
+

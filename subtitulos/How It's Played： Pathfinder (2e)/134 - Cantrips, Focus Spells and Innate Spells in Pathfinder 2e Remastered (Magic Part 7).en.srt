@@ -1,0 +1,1925 @@
+1
+00:00:00,960 --> 00:00:02,550
+
+Hello and welcome to Magic and
+
+2
+00:00:02,550 --> 00:00:02,560
+Hello and welcome to Magic and
+ 
+
+3
+00:00:02,560 --> 00:00:04,550
+Hello and welcome to Magic and
+Pathfinder second edition remastered
+
+4
+00:00:04,550 --> 00:00:04,560
+Pathfinder second edition remastered
+ 
+
+5
+00:00:04,560 --> 00:00:07,269
+Pathfinder second edition remastered
+part 7. So far in this series, we've
+
+6
+00:00:07,269 --> 00:00:07,279
+part 7. So far in this series, we've
+ 
+
+7
+00:00:07,279 --> 00:00:09,270
+part 7. So far in this series, we've
+mainly discussed spells that consume
+
+8
+00:00:09,270 --> 00:00:09,280
+mainly discussed spells that consume
+ 
+
+9
+00:00:09,280 --> 00:00:11,990
+mainly discussed spells that consume
+spell slots or what we might call
+
+10
+00:00:11,990 --> 00:00:12,000
+spell slots or what we might call
+ 
+
+11
+00:00:12,000 --> 00:00:13,910
+spell slots or what we might call
+regular spells for a lack of a better
+
+12
+00:00:13,910 --> 00:00:13,920
+regular spells for a lack of a better
+ 
+
+13
+00:00:13,920 --> 00:00:16,630
+regular spells for a lack of a better
+term. And in this video, we're going to
+
+14
+00:00:16,630 --> 00:00:16,640
+term. And in this video, we're going to
+ 
+
+15
+00:00:16,640 --> 00:00:18,950
+term. And in this video, we're going to
+expand that discussion to include other
+
+16
+00:00:18,950 --> 00:00:18,960
+expand that discussion to include other
+ 
+
+17
+00:00:18,960 --> 00:00:21,750
+expand that discussion to include other
+types of spells, including focus spells,
+
+18
+00:00:21,750 --> 00:00:21,760
+types of spells, including focus spells,
+ 
+
+19
+00:00:21,760 --> 00:00:25,109
+types of spells, including focus spells,
+innate spells, and cantrips.
+
+20
+00:00:25,109 --> 00:00:25,119
+innate spells, and cantrips.
+ 
+
+21
+00:00:25,119 --> 00:00:27,429
+innate spells, and cantrips.
+A cantrip is a special kind of spell
+
+22
+00:00:27,429 --> 00:00:27,439
+A cantrip is a special kind of spell
+ 
+
+23
+00:00:27,439 --> 00:00:29,990
+A cantrip is a special kind of spell
+that is usually a little bit weaker than
+
+24
+00:00:29,990 --> 00:00:30,000
+that is usually a little bit weaker than
+ 
+
+25
+00:00:30,000 --> 00:00:32,310
+that is usually a little bit weaker than
+regular spells, but can be cast more
+
+26
+00:00:32,310 --> 00:00:32,320
+regular spells, but can be cast more
+ 
+
+27
+00:00:32,320 --> 00:00:34,630
+regular spells, but can be cast more
+often and with greater flexibility.
+
+28
+00:00:34,630 --> 00:00:34,640
+often and with greater flexibility.
+ 
+
+29
+00:00:34,640 --> 00:00:36,630
+often and with greater flexibility.
+There are two key features of cantrips
+
+30
+00:00:36,630 --> 00:00:36,640
+There are two key features of cantrips
+ 
+
+31
+00:00:36,640 --> 00:00:38,869
+There are two key features of cantrips
+that separate them from other spells.
+
+32
+00:00:38,869 --> 00:00:38,879
+that separate them from other spells.
+ 
+
+33
+00:00:38,879 --> 00:00:42,470
+that separate them from other spells.
+First, cantrips do not use spell slots
+
+34
+00:00:42,470 --> 00:00:42,480
+First, cantrips do not use spell slots
+ 
+
+35
+00:00:42,480 --> 00:00:44,950
+First, cantrips do not use spell slots
+and therefore can be cast at will an
+
+36
+00:00:44,950 --> 00:00:44,960
+and therefore can be cast at will an
+ 
+
+37
+00:00:44,960 --> 00:00:47,590
+and therefore can be cast at will an
+unlimited number of times per day. For
+
+38
+00:00:47,590 --> 00:00:47,600
+unlimited number of times per day. For
+ 
+
+39
+00:00:47,600 --> 00:00:50,790
+unlimited number of times per day. For
+example, electric arc. Cantrips have
+
+40
+00:00:50,790 --> 00:00:50,800
+example, electric arc. Cantrips have
+ 
+
+41
+00:00:50,800 --> 00:00:53,270
+example, electric arc. Cantrips have
+minimum casting ranks just like regular
+
+42
+00:00:53,270 --> 00:00:53,280
+minimum casting ranks just like regular
+ 
+
+43
+00:00:53,280 --> 00:00:55,990
+minimum casting ranks just like regular
+spells. And we can see here electric arc
+
+44
+00:00:55,990 --> 00:00:56,000
+spells. And we can see here electric arc
+ 
+
+45
+00:00:56,000 --> 00:00:58,869
+spells. And we can see here electric arc
+has a minimum casting rank of one.
+
+46
+00:00:58,869 --> 00:00:58,879
+has a minimum casting rank of one.
+ 
+
+47
+00:00:58,879 --> 00:01:01,990
+has a minimum casting rank of one.
+That's by far the norm. But there are
+
+48
+00:01:01,990 --> 00:01:02,000
+That's by far the norm. But there are
+ 
+
+49
+00:01:02,000 --> 00:01:04,469
+That's by far the norm. But there are
+times when a cantrip will have a higher
+
+50
+00:01:04,469 --> 00:01:04,479
+times when a cantrip will have a higher
+ 
+
+51
+00:01:04,479 --> 00:01:07,109
+times when a cantrip will have a higher
+minimum casting rank. For example, Durge
+
+52
+00:01:07,109 --> 00:01:07,119
+minimum casting rank. For example, Durge
+ 
+
+53
+00:01:07,119 --> 00:01:09,590
+minimum casting rank. For example, Durge
+of Doom. This is a cantrip available to
+
+54
+00:01:09,590 --> 00:01:09,600
+of Doom. This is a cantrip available to
+ 
+
+55
+00:01:09,600 --> 00:01:12,310
+of Doom. This is a cantrip available to
+barge that has a minimum casting rank of
+
+56
+00:01:12,310 --> 00:01:12,320
+barge that has a minimum casting rank of
+ 
+
+57
+00:01:12,320 --> 00:01:15,109
+barge that has a minimum casting rank of
+third. Although cantrips don't use spell
+
+58
+00:01:15,109 --> 00:01:15,119
+third. Although cantrips don't use spell
+ 
+
+59
+00:01:15,119 --> 00:01:17,670
+third. Although cantrips don't use spell
+slots, these rank requirements reflect
+
+60
+00:01:17,670 --> 00:01:17,680
+slots, these rank requirements reflect
+ 
+
+61
+00:01:17,680 --> 00:01:19,590
+slots, these rank requirements reflect
+the minimum spell slot you're able to
+
+62
+00:01:19,590 --> 00:01:19,600
+the minimum spell slot you're able to
+ 
+
+63
+00:01:19,600 --> 00:01:22,630
+the minimum spell slot you're able to
+cast. So you would need to be at least a
+
+64
+00:01:22,630 --> 00:01:22,640
+cast. So you would need to be at least a
+ 
+
+65
+00:01:22,640 --> 00:01:24,789
+cast. So you would need to be at least a
+fifth level bard who is able to cast
+
+66
+00:01:24,789 --> 00:01:24,799
+fifth level bard who is able to cast
+ 
+
+67
+00:01:24,799 --> 00:01:27,190
+fifth level bard who is able to cast
+third rank spells in order to cast Durge
+
+68
+00:01:27,190 --> 00:01:27,200
+third rank spells in order to cast Durge
+ 
+
+69
+00:01:27,200 --> 00:01:30,149
+third rank spells in order to cast Durge
+of Doom. Even though it is a cantrip,
+
+70
+00:01:30,149 --> 00:01:30,159
+of Doom. Even though it is a cantrip,
+ 
+
+71
+00:01:30,159 --> 00:01:32,390
+of Doom. Even though it is a cantrip,
+that's pretty much the same as regular
+
+72
+00:01:32,390 --> 00:01:32,400
+that's pretty much the same as regular
+ 
+
+73
+00:01:32,400 --> 00:01:34,310
+that's pretty much the same as regular
+spells, but what's different is since
+
+74
+00:01:34,310 --> 00:01:34,320
+spells, but what's different is since
+ 
+
+75
+00:01:34,320 --> 00:01:37,190
+spells, but what's different is since
+this is a cantrip, it can be cast an
+
+76
+00:01:37,190 --> 00:01:37,200
+this is a cantrip, it can be cast an
+ 
+
+77
+00:01:37,200 --> 00:01:39,590
+this is a cantrip, it can be cast an
+unlimited number of times each day and
+
+78
+00:01:39,590 --> 00:01:39,600
+unlimited number of times each day and
+ 
+
+79
+00:01:39,600 --> 00:01:41,429
+unlimited number of times each day and
+does not consume any spell slots when
+
+80
+00:01:41,429 --> 00:01:41,439
+does not consume any spell slots when
+ 
+
+81
+00:01:41,439 --> 00:01:43,910
+does not consume any spell slots when
+doing so. The second key feature of
+
+82
+00:01:43,910 --> 00:01:43,920
+doing so. The second key feature of
+ 
+
+83
+00:01:43,920 --> 00:01:46,469
+doing so. The second key feature of
+cantrips is that they are automatically
+
+84
+00:01:46,469 --> 00:01:46,479
+cantrips is that they are automatically
+ 
+
+85
+00:01:46,479 --> 00:01:48,630
+cantrips is that they are automatically
+heightened to half the caster's level
+
+86
+00:01:48,630 --> 00:01:48,640
+heightened to half the caster's level
+ 
+
+87
+00:01:48,640 --> 00:01:50,950
+heightened to half the caster's level
+rounded up. In the case of most
+
+88
+00:01:50,950 --> 00:01:50,960
+rounded up. In the case of most
+ 
+
+89
+00:01:50,960 --> 00:01:52,710
+rounded up. In the case of most
+spell-casting classes, this means you
+
+90
+00:01:52,710 --> 00:01:52,720
+spell-casting classes, this means you
+ 
+
+91
+00:01:52,720 --> 00:01:54,789
+spell-casting classes, this means you
+can cast your cantrips at the same rank
+
+92
+00:01:54,789 --> 00:01:54,799
+can cast your cantrips at the same rank
+ 
+
+93
+00:01:54,799 --> 00:01:57,910
+can cast your cantrips at the same rank
+as your highest spell slots. So, if
+
+94
+00:01:57,910 --> 00:01:57,920
+as your highest spell slots. So, if
+ 
+
+95
+00:01:57,920 --> 00:02:00,149
+as your highest spell slots. So, if
+fifth rank spells are the highest rank
+
+96
+00:02:00,149 --> 00:02:00,159
+fifth rank spells are the highest rank
+ 
+
+97
+00:02:00,159 --> 00:02:02,230
+fifth rank spells are the highest rank
+spells you can cast, you can cast your
+
+98
+00:02:02,230 --> 00:02:02,240
+spells you can cast, you can cast your
+ 
+
+99
+00:02:02,240 --> 00:02:05,030
+spells you can cast, you can cast your
+cantrips at fifth rank too. That makes
+
+100
+00:02:05,030 --> 00:02:05,040
+cantrips at fifth rank too. That makes
+ 
+
+101
+00:02:05,040 --> 00:02:07,749
+cantrips at fifth rank too. That makes
+this very easy to remember, but may not
+
+102
+00:02:07,749 --> 00:02:07,759
+this very easy to remember, but may not
+ 
+
+103
+00:02:07,759 --> 00:02:09,990
+this very easy to remember, but may not
+apply if you don't belong to one of the
+
+104
+00:02:09,990 --> 00:02:10,000
+apply if you don't belong to one of the
+ 
+
+105
+00:02:10,000 --> 00:02:12,150
+apply if you don't belong to one of the
+full spell-casting classes or receive
+
+106
+00:02:12,150 --> 00:02:12,160
+full spell-casting classes or receive
+ 
+
+107
+00:02:12,160 --> 00:02:13,990
+full spell-casting classes or receive
+your spells from an archetype or some
+
+108
+00:02:13,990 --> 00:02:14,000
+your spells from an archetype or some
+ 
+
+109
+00:02:14,000 --> 00:02:16,869
+your spells from an archetype or some
+other source. For spontaneous casters,
+
+110
+00:02:16,869 --> 00:02:16,879
+other source. For spontaneous casters,
+ 
+
+111
+00:02:16,879 --> 00:02:18,790
+other source. For spontaneous casters,
+this means cantrips work like signature
+
+112
+00:02:18,790 --> 00:02:18,800
+this means cantrips work like signature
+ 
+
+113
+00:02:18,800 --> 00:02:20,470
+this means cantrips work like signature
+spells in that they are freely
+
+114
+00:02:20,470 --> 00:02:20,480
+spells in that they are freely
+ 
+
+115
+00:02:20,480 --> 00:02:22,309
+spells in that they are freely
+heightened, but still need to be
+
+116
+00:02:22,309 --> 00:02:22,319
+heightened, but still need to be
+ 
+
+117
+00:02:22,319 --> 00:02:25,030
+heightened, but still need to be
+included in their spell repertoire. And
+
+118
+00:02:25,030 --> 00:02:25,040
+included in their spell repertoire. And
+ 
+
+119
+00:02:25,040 --> 00:02:26,630
+included in their spell repertoire. And
+prepared spellcasters still need to
+
+120
+00:02:26,630 --> 00:02:26,640
+prepared spellcasters still need to
+ 
+
+121
+00:02:26,640 --> 00:02:28,309
+prepared spellcasters still need to
+prepare their cantrips before they can
+
+122
+00:02:28,309 --> 00:02:28,319
+prepare their cantrips before they can
+ 
+
+123
+00:02:28,319 --> 00:02:31,110
+prepare their cantrips before they can
+be cast. But once they're prepared or in
+
+124
+00:02:31,110 --> 00:02:31,120
+be cast. But once they're prepared or in
+ 
+
+125
+00:02:31,120 --> 00:02:33,270
+be cast. But once they're prepared or in
+a spell rope patrol, the caners can be
+
+126
+00:02:33,270 --> 00:02:33,280
+a spell rope patrol, the caners can be
+ 
+
+127
+00:02:33,280 --> 00:02:37,589
+a spell rope patrol, the caners can be
+cast as often as the player likes.
+
+128
+00:02:37,589 --> 00:02:37,599
+cast as often as the player likes.
+ 
+
+129
+00:02:37,599 --> 00:02:39,750
+cast as often as the player likes.
+Focus spells are a special kind of spell
+
+130
+00:02:39,750 --> 00:02:39,760
+Focus spells are a special kind of spell
+ 
+
+131
+00:02:39,760 --> 00:02:41,430
+Focus spells are a special kind of spell
+that is granted by certain class
+
+132
+00:02:41,430 --> 00:02:41,440
+that is granted by certain class
+ 
+
+133
+00:02:41,440 --> 00:02:43,589
+that is granted by certain class
+features and feats. Just like with
+
+134
+00:02:43,589 --> 00:02:43,599
+features and feats. Just like with
+ 
+
+135
+00:02:43,599 --> 00:02:45,190
+features and feats. Just like with
+cantrips, they're automatically
+
+136
+00:02:45,190 --> 00:02:45,200
+cantrips, they're automatically
+ 
+
+137
+00:02:45,200 --> 00:02:47,110
+cantrips, they're automatically
+heightened to a rank that is half your
+
+138
+00:02:47,110 --> 00:02:47,120
+heightened to a rank that is half your
+ 
+
+139
+00:02:47,120 --> 00:02:49,430
+heightened to a rank that is half your
+level rounded up and do not use spell
+
+140
+00:02:49,430 --> 00:02:49,440
+level rounded up and do not use spell
+ 
+
+141
+00:02:49,440 --> 00:02:51,589
+level rounded up and do not use spell
+slots when they're cast. Instead, the
+
+142
+00:02:51,589 --> 00:02:51,599
+slots when they're cast. Instead, the
+ 
+
+143
+00:02:51,599 --> 00:02:54,309
+slots when they're cast. Instead, the
+caster must spend a focus point to cast
+
+144
+00:02:54,309 --> 00:02:54,319
+caster must spend a focus point to cast
+ 
+
+145
+00:02:54,319 --> 00:02:57,589
+caster must spend a focus point to cast
+a focus spell. Your focus pool capacity
+
+146
+00:02:57,589 --> 00:02:57,599
+a focus spell. Your focus pool capacity
+ 
+
+147
+00:02:57,599 --> 00:02:59,750
+a focus spell. Your focus pool capacity
+automatically equals the total number of
+
+148
+00:02:59,750 --> 00:02:59,760
+automatically equals the total number of
+ 
+
+149
+00:02:59,760 --> 00:03:02,390
+automatically equals the total number of
+spells you know that cost focus points
+
+150
+00:03:02,390 --> 00:03:02,400
+spells you know that cost focus points
+ 
+
+151
+00:03:02,400 --> 00:03:05,190
+spells you know that cost focus points
+up to a maximum cap of three focus
+
+152
+00:03:05,190 --> 00:03:05,200
+up to a maximum cap of three focus
+ 
+
+153
+00:03:05,200 --> 00:03:07,830
+up to a maximum cap of three focus
+points. And note that it says spells
+
+154
+00:03:07,830 --> 00:03:07,840
+points. And note that it says spells
+ 
+
+155
+00:03:07,840 --> 00:03:11,110
+points. And note that it says spells
+that cost focus points. Not all focus
+
+156
+00:03:11,110 --> 00:03:11,120
+that cost focus points. Not all focus
+ 
+
+157
+00:03:11,120 --> 00:03:13,589
+that cost focus points. Not all focus
+spells cost focus points. For example,
+
+158
+00:03:13,589 --> 00:03:13,599
+spells cost focus points. For example,
+ 
+
+159
+00:03:13,599 --> 00:03:15,670
+spells cost focus points. For example,
+bards and witches both have focus
+
+160
+00:03:15,670 --> 00:03:15,680
+bards and witches both have focus
+ 
+
+161
+00:03:15,680 --> 00:03:18,630
+bards and witches both have focus
+cantrips. Only focus spells that cost
+
+162
+00:03:18,630 --> 00:03:18,640
+cantrips. Only focus spells that cost
+ 
+
+163
+00:03:18,640 --> 00:03:21,030
+cantrips. Only focus spells that cost
+focus points count towards the size of
+
+164
+00:03:21,030 --> 00:03:21,040
+focus points count towards the size of
+ 
+
+165
+00:03:21,040 --> 00:03:24,229
+focus points count towards the size of
+your focus pool. Also, be aware that you
+
+166
+00:03:24,229 --> 00:03:24,239
+your focus pool. Also, be aware that you
+ 
+
+167
+00:03:24,239 --> 00:03:27,270
+your focus pool. Also, be aware that you
+only have one focus pool. Meaning, if
+
+168
+00:03:27,270 --> 00:03:27,280
+only have one focus pool. Meaning, if
+ 
+
+169
+00:03:27,280 --> 00:03:29,350
+only have one focus pool. Meaning, if
+you multiclass and receive focus points
+
+170
+00:03:29,350 --> 00:03:29,360
+you multiclass and receive focus points
+ 
+
+171
+00:03:29,360 --> 00:03:31,350
+you multiclass and receive focus points
+from multiple sources, they're all
+
+172
+00:03:31,350 --> 00:03:31,360
+from multiple sources, they're all
+ 
+
+173
+00:03:31,360 --> 00:03:34,949
+from multiple sources, they're all
+combined into one pool of resources. You
+
+174
+00:03:34,949 --> 00:03:34,959
+combined into one pool of resources. You
+ 
+
+175
+00:03:34,959 --> 00:03:36,390
+combined into one pool of resources. You
+don't have to track that you got two
+
+176
+00:03:36,390 --> 00:03:36,400
+don't have to track that you got two
+ 
+
+177
+00:03:36,400 --> 00:03:38,470
+don't have to track that you got two
+focus points from your witch class and
+
+178
+00:03:38,470 --> 00:03:38,480
+focus points from your witch class and
+ 
+
+179
+00:03:38,480 --> 00:03:40,949
+focus points from your witch class and
+one from multiclassing into champion.
+
+180
+00:03:40,949 --> 00:03:40,959
+one from multiclassing into champion.
+ 
+
+181
+00:03:40,959 --> 00:03:43,350
+one from multiclassing into champion.
+Instead, you have a single pull of three
+
+182
+00:03:43,350 --> 00:03:43,360
+Instead, you have a single pull of three
+ 
+
+183
+00:03:43,360 --> 00:03:45,270
+Instead, you have a single pull of three
+focus points that can be spent however
+
+184
+00:03:45,270 --> 00:03:45,280
+focus points that can be spent however
+ 
+
+185
+00:03:45,280 --> 00:03:47,190
+focus points that can be spent however
+you like on the focus spells you have
+
+186
+00:03:47,190 --> 00:03:47,200
+you like on the focus spells you have
+ 
+
+187
+00:03:47,200 --> 00:03:49,190
+you like on the focus spells you have
+access to from all the different
+
+188
+00:03:49,190 --> 00:03:49,200
+access to from all the different
+ 
+
+189
+00:03:49,200 --> 00:03:51,509
+access to from all the different
+sources. These points are fully
+
+190
+00:03:51,509 --> 00:03:51,519
+sources. These points are fully
+ 
+
+191
+00:03:51,519 --> 00:03:53,190
+sources. These points are fully
+replenished as part of your daily
+
+192
+00:03:53,190 --> 00:03:53,200
+replenished as part of your daily
+ 
+
+193
+00:03:53,200 --> 00:03:55,589
+replenished as part of your daily
+preparations, just like spell slots are.
+
+194
+00:03:55,589 --> 00:03:55,599
+preparations, just like spell slots are.
+ 
+
+195
+00:03:55,599 --> 00:03:58,070
+preparations, just like spell slots are.
+But a major benefit of focus spells is
+
+196
+00:03:58,070 --> 00:03:58,080
+But a major benefit of focus spells is
+ 
+
+197
+00:03:58,080 --> 00:04:00,229
+But a major benefit of focus spells is
+you don't have to wait until the next
+
+198
+00:04:00,229 --> 00:04:00,239
+you don't have to wait until the next
+ 
+
+199
+00:04:00,239 --> 00:04:02,949
+you don't have to wait until the next
+morning to get them back. The refocus
+
+200
+00:04:02,949 --> 00:04:02,959
+morning to get them back. The refocus
+ 
+
+201
+00:04:02,959 --> 00:04:05,030
+morning to get them back. The refocus
+exploration activity can be used to
+
+202
+00:04:05,030 --> 00:04:05,040
+exploration activity can be used to
+ 
+
+203
+00:04:05,040 --> 00:04:08,149
+exploration activity can be used to
+regain spent focus points. This takes 10
+
+204
+00:04:08,149 --> 00:04:08,159
+regain spent focus points. This takes 10
+ 
+
+205
+00:04:08,159 --> 00:04:10,390
+regain spent focus points. This takes 10
+minutes after which you regain one focus
+
+206
+00:04:10,390 --> 00:04:10,400
+minutes after which you regain one focus
+ 
+
+207
+00:04:10,400 --> 00:04:13,190
+minutes after which you regain one focus
+point. And unlike with the legacy
+
+208
+00:04:13,190 --> 00:04:13,200
+point. And unlike with the legacy
+ 
+
+209
+00:04:13,200 --> 00:04:15,910
+point. And unlike with the legacy
+edition in the remaster, there are no
+
+210
+00:04:15,910 --> 00:04:15,920
+edition in the remaster, there are no
+ 
+
+211
+00:04:15,920 --> 00:04:18,629
+edition in the remaster, there are no
+limits to this. If you spend all three
+
+212
+00:04:18,629 --> 00:04:18,639
+limits to this. If you spend all three
+ 
+
+213
+00:04:18,639 --> 00:04:20,710
+limits to this. If you spend all three
+focus points during an encounter, you
+
+214
+00:04:20,710 --> 00:04:20,720
+focus points during an encounter, you
+ 
+
+215
+00:04:20,720 --> 00:04:23,189
+focus points during an encounter, you
+can spend 30 minutes after the encounter
+
+216
+00:04:23,189 --> 00:04:23,199
+can spend 30 minutes after the encounter
+ 
+
+217
+00:04:23,199 --> 00:04:25,430
+can spend 30 minutes after the encounter
+performing the refocus activity three
+
+218
+00:04:25,430 --> 00:04:25,440
+performing the refocus activity three
+ 
+
+219
+00:04:25,440 --> 00:04:28,070
+performing the refocus activity three
+times to get the ball back. Also, it's
+
+220
+00:04:28,070 --> 00:04:28,080
+times to get the ball back. Also, it's
+ 
+
+221
+00:04:28,080 --> 00:04:29,749
+times to get the ball back. Also, it's
+worth noting that when a member of a
+
+222
+00:04:29,749 --> 00:04:29,759
+worth noting that when a member of a
+ 
+
+223
+00:04:29,759 --> 00:04:32,070
+worth noting that when a member of a
+non-sp spell-casting class gains focus
+
+224
+00:04:32,070 --> 00:04:32,080
+non-sp spell-casting class gains focus
+ 
+
+225
+00:04:32,080 --> 00:04:34,629
+non-sp spell-casting class gains focus
+spells, for example, monks with the key
+
+226
+00:04:34,629 --> 00:04:34,639
+spells, for example, monks with the key
+ 
+
+227
+00:04:34,639 --> 00:04:37,270
+spells, for example, monks with the key
+strike feat, they gain the ability to
+
+228
+00:04:37,270 --> 00:04:37,280
+strike feat, they gain the ability to
+ 
+
+229
+00:04:37,280 --> 00:04:39,909
+strike feat, they gain the ability to
+use the cast a spell activity so they
+
+230
+00:04:39,909 --> 00:04:39,919
+use the cast a spell activity so they
+ 
+
+231
+00:04:39,919 --> 00:04:41,990
+use the cast a spell activity so they
+can cast these focus spells. But the
+
+232
+00:04:41,990 --> 00:04:42,000
+can cast these focus spells. But the
+ 
+
+233
+00:04:42,000 --> 00:04:44,710
+can cast these focus spells. But the
+ability to cast these focus spells does
+
+234
+00:04:44,710 --> 00:04:44,720
+ability to cast these focus spells does
+ 
+
+235
+00:04:44,720 --> 00:04:47,909
+ability to cast these focus spells does
+not make them a quote spellcaster. In
+
+236
+00:04:47,909 --> 00:04:47,919
+not make them a quote spellcaster. In
+ 
+
+237
+00:04:47,919 --> 00:04:50,150
+not make them a quote spellcaster. In
+other words, if you are a monk who uses
+
+238
+00:04:50,150 --> 00:04:50,160
+other words, if you are a monk who uses
+ 
+
+239
+00:04:50,160 --> 00:04:53,030
+other words, if you are a monk who uses
+focus spells, you do not qualify for any
+
+240
+00:04:53,030 --> 00:04:53,040
+focus spells, you do not qualify for any
+ 
+
+241
+00:04:53,040 --> 00:04:55,110
+focus spells, you do not qualify for any
+feats or other rules that would require
+
+242
+00:04:55,110 --> 00:04:55,120
+feats or other rules that would require
+ 
+
+243
+00:04:55,120 --> 00:04:59,350
+feats or other rules that would require
+you to be a quote spellcaster.
+
+244
+00:04:59,350 --> 00:04:59,360
+you to be a quote spellcaster.
+ 
+
+245
+00:04:59,360 --> 00:05:01,350
+you to be a quote spellcaster.
+Innate spells are another special type
+
+246
+00:05:01,350 --> 00:05:01,360
+Innate spells are another special type
+ 
+
+247
+00:05:01,360 --> 00:05:03,590
+Innate spells are another special type
+of spell we should discuss. These spells
+
+248
+00:05:03,590 --> 00:05:03,600
+of spell we should discuss. These spells
+ 
+
+249
+00:05:03,600 --> 00:05:05,430
+of spell we should discuss. These spells
+are often considered to be natural
+
+250
+00:05:05,430 --> 00:05:05,440
+are often considered to be natural
+ 
+
+251
+00:05:05,440 --> 00:05:07,670
+are often considered to be natural
+talent and are usually granted by a
+
+252
+00:05:07,670 --> 00:05:07,680
+talent and are usually granted by a
+ 
+
+253
+00:05:07,680 --> 00:05:10,310
+talent and are usually granted by a
+character's ancestry or by an item and
+
+254
+00:05:10,310 --> 00:05:10,320
+character's ancestry or by an item and
+ 
+
+255
+00:05:10,320 --> 00:05:12,310
+character's ancestry or by an item and
+allow a character to cast spells without
+
+256
+00:05:12,310 --> 00:05:12,320
+allow a character to cast spells without
+ 
+
+257
+00:05:12,320 --> 00:05:14,950
+allow a character to cast spells without
+belonging to a spell-casting class. For
+
+258
+00:05:14,950 --> 00:05:14,960
+belonging to a spell-casting class. For
+ 
+
+259
+00:05:14,960 --> 00:05:16,870
+belonging to a spell-casting class. For
+example, an elf who chooses the
+
+260
+00:05:16,870 --> 00:05:16,880
+example, an elf who chooses the
+ 
+
+261
+00:05:16,880 --> 00:05:19,590
+example, an elf who chooses the
+otherworldly magic feat can cast any one
+
+262
+00:05:19,590 --> 00:05:19,600
+otherworldly magic feat can cast any one
+ 
+
+263
+00:05:19,600 --> 00:05:22,550
+otherworldly magic feat can cast any one
+arcane cantrip as an innate spell. This
+
+264
+00:05:22,550 --> 00:05:22,560
+arcane cantrip as an innate spell. This
+ 
+
+265
+00:05:22,560 --> 00:05:24,790
+arcane cantrip as an innate spell. This
+represents a natural talent for magic
+
+266
+00:05:24,790 --> 00:05:24,800
+represents a natural talent for magic
+ 
+
+267
+00:05:24,800 --> 00:05:26,950
+represents a natural talent for magic
+and has nothing to do with their class.
+
+268
+00:05:26,950 --> 00:05:26,960
+and has nothing to do with their class.
+ 
+
+269
+00:05:26,960 --> 00:05:29,110
+and has nothing to do with their class.
+They can be a fighter and still cast a
+
+270
+00:05:29,110 --> 00:05:29,120
+They can be a fighter and still cast a
+ 
+
+271
+00:05:29,120 --> 00:05:32,070
+They can be a fighter and still cast a
+single cantrip thanks to this feat. When
+
+272
+00:05:32,070 --> 00:05:32,080
+single cantrip thanks to this feat. When
+ 
+
+273
+00:05:32,080 --> 00:05:34,870
+single cantrip thanks to this feat. When
+you gain access to an innate spell,
+
+274
+00:05:34,870 --> 00:05:34,880
+you gain access to an innate spell,
+ 
+
+275
+00:05:34,880 --> 00:05:36,950
+you gain access to an innate spell,
+whatever ability granted that access
+
+276
+00:05:36,950 --> 00:05:36,960
+whatever ability granted that access
+ 
+
+277
+00:05:36,960 --> 00:05:39,749
+whatever ability granted that access
+will tell you how often you can cast it.
+
+278
+00:05:39,749 --> 00:05:39,759
+will tell you how often you can cast it.
+ 
+
+279
+00:05:39,759 --> 00:05:41,990
+will tell you how often you can cast it.
+For example, other worldly magic lets
+
+280
+00:05:41,990 --> 00:05:42,000
+For example, other worldly magic lets
+ 
+
+281
+00:05:42,000 --> 00:05:44,469
+For example, other worldly magic lets
+you cast your innate spell at will,
+
+282
+00:05:44,469 --> 00:05:44,479
+you cast your innate spell at will,
+ 
+
+283
+00:05:44,479 --> 00:05:47,110
+you cast your innate spell at will,
+meaning as often as you like. But a
+
+284
+00:05:47,110 --> 00:05:47,120
+meaning as often as you like. But a
+ 
+
+285
+00:05:47,120 --> 00:05:49,510
+meaning as often as you like. But a
+dwarf with the stone walker feet can
+
+286
+00:05:49,510 --> 00:05:49,520
+dwarf with the stone walker feet can
+ 
+
+287
+00:05:49,520 --> 00:05:52,310
+dwarf with the stone walker feet can
+only cast their innate spell, one with
+
+288
+00:05:52,310 --> 00:05:52,320
+only cast their innate spell, one with
+ 
+
+289
+00:05:52,320 --> 00:05:56,230
+only cast their innate spell, one with
+stone, once per day. And innate cantrips
+
+290
+00:05:56,230 --> 00:05:56,240
+stone, once per day. And innate cantrips
+ 
+
+291
+00:05:56,240 --> 00:05:57,990
+stone, once per day. And innate cantrips
+are automatically heightened as normal
+
+292
+00:05:57,990 --> 00:05:58,000
+are automatically heightened as normal
+ 
+
+293
+00:05:58,000 --> 00:06:00,550
+are automatically heightened as normal
+for cantrips, but not other innate
+
+294
+00:06:00,550 --> 00:06:00,560
+for cantrips, but not other innate
+ 
+
+295
+00:06:00,560 --> 00:06:03,430
+for cantrips, but not other innate
+spells. When you gain access to an
+
+296
+00:06:03,430 --> 00:06:03,440
+spells. When you gain access to an
+ 
+
+297
+00:06:03,440 --> 00:06:06,070
+spells. When you gain access to an
+innate spell, you can cast it, even if
+
+298
+00:06:06,070 --> 00:06:06,080
+innate spell, you can cast it, even if
+ 
+
+299
+00:06:06,080 --> 00:06:08,550
+innate spell, you can cast it, even if
+it is a higher rank than you normally
+
+300
+00:06:08,550 --> 00:06:08,560
+it is a higher rank than you normally
+ 
+
+301
+00:06:08,560 --> 00:06:10,870
+it is a higher rank than you normally
+would be able to cast. This is
+
+302
+00:06:10,870 --> 00:06:10,880
+would be able to cast. This is
+ 
+
+303
+00:06:10,880 --> 00:06:12,950
+would be able to cast. This is
+especially common with monsters who can
+
+304
+00:06:12,950 --> 00:06:12,960
+especially common with monsters who can
+ 
+
+305
+00:06:12,960 --> 00:06:15,670
+especially common with monsters who can
+cast innate spells. You always have at
+
+306
+00:06:15,670 --> 00:06:15,680
+cast innate spells. You always have at
+ 
+
+307
+00:06:15,680 --> 00:06:17,670
+cast innate spells. You always have at
+least trained proficiency in spell
+
+308
+00:06:17,670 --> 00:06:17,680
+least trained proficiency in spell
+ 
+
+309
+00:06:17,680 --> 00:06:20,150
+least trained proficiency in spell
+attacks and spell DC for your innate
+
+310
+00:06:20,150 --> 00:06:20,160
+attacks and spell DC for your innate
+ 
+
+311
+00:06:20,160 --> 00:06:22,790
+attacks and spell DC for your innate
+spells, which automatically increases to
+
+312
+00:06:22,790 --> 00:06:22,800
+spells, which automatically increases to
+ 
+
+313
+00:06:22,800 --> 00:06:25,909
+spells, which automatically increases to
+expert at 12th level. This guarantees
+
+314
+00:06:25,909 --> 00:06:25,919
+expert at 12th level. This guarantees
+ 
+
+315
+00:06:25,919 --> 00:06:28,230
+expert at 12th level. This guarantees
+that non-sp spell-casting classes like
+
+316
+00:06:28,230 --> 00:06:28,240
+that non-sp spell-casting classes like
+ 
+
+317
+00:06:28,240 --> 00:06:31,029
+that non-sp spell-casting classes like
+fighter remain capable with their innate
+
+318
+00:06:31,029 --> 00:06:31,039
+fighter remain capable with their innate
+ 
+
+319
+00:06:31,039 --> 00:06:33,430
+fighter remain capable with their innate
+spells at higher levels without needing
+
+320
+00:06:33,430 --> 00:06:33,440
+spells at higher levels without needing
+ 
+
+321
+00:06:33,440 --> 00:06:35,430
+spells at higher levels without needing
+a spell-casting class to scale their
+
+322
+00:06:35,430 --> 00:06:35,440
+a spell-casting class to scale their
+ 
+
+323
+00:06:35,440 --> 00:06:38,230
+a spell-casting class to scale their
+proficiency level. And you use charisma
+
+324
+00:06:38,230 --> 00:06:38,240
+proficiency level. And you use charisma
+ 
+
+325
+00:06:38,240 --> 00:06:40,629
+proficiency level. And you use charisma
+as the ability modifier when calculating
+
+326
+00:06:40,629 --> 00:06:40,639
+as the ability modifier when calculating
+ 
+
+327
+00:06:40,639 --> 00:06:42,870
+as the ability modifier when calculating
+the spell attack bonus and spell DC for
+
+328
+00:06:42,870 --> 00:06:42,880
+the spell attack bonus and spell DC for
+ 
+
+329
+00:06:42,880 --> 00:06:45,510
+the spell attack bonus and spell DC for
+innate spells, even if you use a
+
+330
+00:06:45,510 --> 00:06:45,520
+innate spells, even if you use a
+ 
+
+331
+00:06:45,520 --> 00:06:47,350
+innate spells, even if you use a
+different ability to cast spells granted
+
+332
+00:06:47,350 --> 00:06:47,360
+different ability to cast spells granted
+ 
+
+333
+00:06:47,360 --> 00:06:50,469
+different ability to cast spells granted
+by your class. See part six of this
+
+334
+00:06:50,469 --> 00:06:50,479
+by your class. See part six of this
+ 
+
+335
+00:06:50,479 --> 00:06:52,230
+by your class. See part six of this
+series of videos for a complete
+
+336
+00:06:52,230 --> 00:06:52,240
+series of videos for a complete
+ 
+
+337
+00:06:52,240 --> 00:06:54,070
+series of videos for a complete
+illustration of how that works. I'll
+
+338
+00:06:54,070 --> 00:06:54,080
+illustration of how that works. I'll
+ 
+
+339
+00:06:54,080 --> 00:06:55,830
+illustration of how that works. I'll
+include a link to that video in this
+
+340
+00:06:55,830 --> 00:06:55,840
+include a link to that video in this
+ 
+
+341
+00:06:55,840 --> 00:06:58,390
+include a link to that video in this
+video's description.
+
+342
+00:06:58,390 --> 00:06:58,400
+video's description.
+ 
+
+343
+00:06:58,400 --> 00:07:00,230
+video's description.
+This video has served as a foundation
+
+344
+00:07:00,230 --> 00:07:00,240
+This video has served as a foundation
+ 
+
+345
+00:07:00,240 --> 00:07:02,550
+This video has served as a foundation
+for casting less traditional spells such
+
+346
+00:07:02,550 --> 00:07:02,560
+for casting less traditional spells such
+ 
+
+347
+00:07:02,560 --> 00:07:04,870
+for casting less traditional spells such
+as cantrips, focus spells, and innate
+
+348
+00:07:04,870 --> 00:07:04,880
+as cantrips, focus spells, and innate
+ 
+
+349
+00:07:04,880 --> 00:07:07,430
+as cantrips, focus spells, and innate
+spells. In the next video of the series,
+
+350
+00:07:07,430 --> 00:07:07,440
+spells. In the next video of the series,
+ 
+
+351
+00:07:07,440 --> 00:07:09,830
+spells. In the next video of the series,
+we'll explore the rules for rituals,
+
+352
+00:07:09,830 --> 00:07:09,840
+we'll explore the rules for rituals,
+ 
+
+353
+00:07:09,840 --> 00:07:11,589
+we'll explore the rules for rituals,
+which are spells that are cast in
+
+354
+00:07:11,589 --> 00:07:11,599
+which are spells that are cast in
+ 
+
+355
+00:07:11,599 --> 00:07:13,430
+which are spells that are cast in
+exploration mode with casting times
+
+356
+00:07:13,430 --> 00:07:13,440
+exploration mode with casting times
+ 
+
+357
+00:07:13,440 --> 00:07:15,589
+exploration mode with casting times
+ranging from several minutes to entire
+
+358
+00:07:15,589 --> 00:07:15,599
+ranging from several minutes to entire
+ 
+
+359
+00:07:15,599 --> 00:07:17,749
+ranging from several minutes to entire
+days and often require multiple
+
+360
+00:07:17,749 --> 00:07:17,759
+days and often require multiple
+ 
+
+361
+00:07:17,759 --> 00:07:20,550
+days and often require multiple
+spellcasters to work together. If you
+
+362
+00:07:20,550 --> 00:07:20,560
+spellcasters to work together. If you
+ 
+
+363
+00:07:20,560 --> 00:07:22,390
+spellcasters to work together. If you
+have any questions, please leave them in
+
+364
+00:07:22,390 --> 00:07:22,400
+have any questions, please leave them in
+ 
+
+365
+00:07:22,400 --> 00:07:24,390
+have any questions, please leave them in
+the comments below. And as always, I
+
+366
+00:07:24,390 --> 00:07:24,400
+the comments below. And as always, I
+ 
+
+367
+00:07:24,400 --> 00:07:25,749
+the comments below. And as always, I
+want to take a brief moment to thank
+
+368
+00:07:25,749 --> 00:07:25,759
+want to take a brief moment to thank
+ 
+
+369
+00:07:25,759 --> 00:07:27,430
+want to take a brief moment to thank
+everyone who supports me and this
+
+370
+00:07:27,430 --> 00:07:27,440
+everyone who supports me and this
+ 
+
+371
+00:07:27,440 --> 00:07:29,350
+everyone who supports me and this
+channel. Whether you do that by liking
+
+372
+00:07:29,350 --> 00:07:29,360
+channel. Whether you do that by liking
+ 
+
+373
+00:07:29,360 --> 00:07:30,950
+channel. Whether you do that by liking
+the video, leaving a comment,
+
+374
+00:07:30,950 --> 00:07:30,960
+the video, leaving a comment,
+ 
+
+375
+00:07:30,960 --> 00:07:32,230
+the video, leaving a comment,
+subscribing to the channel, or
+
+376
+00:07:32,230 --> 00:07:32,240
+subscribing to the channel, or
+ 
+
+377
+00:07:32,240 --> 00:07:34,070
+subscribing to the channel, or
+subscribing to the Patreon, I appreciate
+
+378
+00:07:34,070 --> 00:07:34,080
+subscribing to the Patreon, I appreciate
+ 
+
+379
+00:07:34,080 --> 00:07:35,830
+subscribing to the Patreon, I appreciate
+everything you do to support me. And
+
+380
+00:07:35,830 --> 00:07:35,840
+everything you do to support me. And
+ 
+
+381
+00:07:35,840 --> 00:07:37,430
+everything you do to support me. And
+with that, thanks for watching. Take
+
+382
+00:07:37,430 --> 00:07:37,440
+with that, thanks for watching. Take
+ 
+
+383
+00:07:37,440 --> 00:07:46,309
+with that, thanks for watching. Take
+care and happy gaming.
+
+384
+00:07:46,309 --> 00:07:46,319
+
+ 
+
+385
+00:07:46,319 --> 00:07:49,319
+
+Oh,
+

@@ -1,0 +1,3205 @@
+1
+00:00:00,470 --> 00:00:03,970
+
+[Music]
+
+2
+00:00:03,970 --> 00:00:03,980
+
+ 
+
+3
+00:00:03,980 --> 00:00:06,530
+
+hello and welcome to stamina in
+
+4
+00:00:06,530 --> 00:00:06,540
+hello and welcome to stamina in
+ 
+
+5
+00:00:06,540 --> 00:00:08,990
+hello and welcome to stamina in
+Pathfinder 2nd edition
+
+6
+00:00:08,990 --> 00:00:09,000
+Pathfinder 2nd edition
+ 
+
+7
+00:00:09,000 --> 00:00:11,690
+Pathfinder 2nd edition
+stamina is a variant rule found in the
+
+8
+00:00:11,690 --> 00:00:11,700
+stamina is a variant rule found in the
+ 
+
+9
+00:00:11,700 --> 00:00:14,390
+stamina is a variant rule found in the
+game mastery guide as such it is not
+
+10
+00:00:14,390 --> 00:00:14,400
+game mastery guide as such it is not
+ 
+
+11
+00:00:14,400 --> 00:00:17,390
+game mastery guide as such it is not
+assumed to be used in most games but is
+
+12
+00:00:17,390 --> 00:00:17,400
+assumed to be used in most games but is
+ 
+
+13
+00:00:17,400 --> 00:00:19,430
+assumed to be used in most games but is
+an alternative method of tracking player
+
+14
+00:00:19,430 --> 00:00:19,440
+an alternative method of tracking player
+ 
+
+15
+00:00:19,440 --> 00:00:21,890
+an alternative method of tracking player
+Health that many GMS play self-included
+
+16
+00:00:21,890 --> 00:00:21,900
+Health that many GMS play self-included
+ 
+
+17
+00:00:21,900 --> 00:00:24,290
+Health that many GMS play self-included
+prefer instead of the standard hit point
+
+18
+00:00:24,290 --> 00:00:24,300
+prefer instead of the standard hit point
+ 
+
+19
+00:00:24,300 --> 00:00:25,730
+prefer instead of the standard hit point
+rules that are found in the core
+
+20
+00:00:25,730 --> 00:00:25,740
+rules that are found in the core
+ 
+
+21
+00:00:25,740 --> 00:00:27,950
+rules that are found in the core
+rulebook and the standard hit point
+
+22
+00:00:27,950 --> 00:00:27,960
+rulebook and the standard hit point
+ 
+
+23
+00:00:27,960 --> 00:00:31,130
+rulebook and the standard hit point
+system hit points are a one large lump
+
+24
+00:00:31,130 --> 00:00:31,140
+system hit points are a one large lump
+ 
+
+25
+00:00:31,140 --> 00:00:33,590
+system hit points are a one large lump
+sum that represent a character's ability
+
+26
+00:00:33,590 --> 00:00:33,600
+sum that represent a character's ability
+ 
+
+27
+00:00:33,600 --> 00:00:36,470
+sum that represent a character's ability
+to avoid suffering a fatal injury the
+
+28
+00:00:36,470 --> 00:00:36,480
+to avoid suffering a fatal injury the
+ 
+
+29
+00:00:36,480 --> 00:00:38,630
+to avoid suffering a fatal injury the
+loss of hit points can represent several
+
+30
+00:00:38,630 --> 00:00:38,640
+loss of hit points can represent several
+ 
+
+31
+00:00:38,640 --> 00:00:41,090
+loss of hit points can represent several
+things that loss could represent a
+
+32
+00:00:41,090 --> 00:00:41,100
+things that loss could represent a
+ 
+
+33
+00:00:41,100 --> 00:00:43,430
+things that loss could represent a
+character tiring themselves out as they
+
+34
+00:00:43,430 --> 00:00:43,440
+character tiring themselves out as they
+ 
+
+35
+00:00:43,440 --> 00:00:46,310
+character tiring themselves out as they
+repeatedly Dodge in Perry Blues it could
+
+36
+00:00:46,310 --> 00:00:46,320
+repeatedly Dodge in Perry Blues it could
+ 
+
+37
+00:00:46,320 --> 00:00:48,170
+repeatedly Dodge in Perry Blues it could
+represent the effects of drinking a
+
+38
+00:00:48,170 --> 00:00:48,180
+represent the effects of drinking a
+ 
+
+39
+00:00:48,180 --> 00:00:50,510
+represent the effects of drinking a
+poison or it could represent being
+
+40
+00:00:50,510 --> 00:00:50,520
+poison or it could represent being
+ 
+
+41
+00:00:50,520 --> 00:00:53,990
+poison or it could represent being
+stabbed by a sword this is largely up to
+
+42
+00:00:53,990 --> 00:00:54,000
+stabbed by a sword this is largely up to
+ 
+
+43
+00:00:54,000 --> 00:00:56,209
+stabbed by a sword this is largely up to
+the GM and the way they narrate combat
+
+44
+00:00:56,209 --> 00:00:56,219
+the GM and the way they narrate combat
+ 
+
+45
+00:00:56,219 --> 00:00:58,850
+the GM and the way they narrate combat
+but the main issue that seems to occur
+
+46
+00:00:58,850 --> 00:00:58,860
+but the main issue that seems to occur
+ 
+
+47
+00:00:58,860 --> 00:01:01,369
+but the main issue that seems to occur
+is if one player loses hit points from
+
+48
+00:01:01,369 --> 00:01:01,379
+is if one player loses hit points from
+ 
+
+49
+00:01:01,379 --> 00:01:03,950
+is if one player loses hit points from
+becoming fatigued and another player
+
+50
+00:01:03,950 --> 00:01:03,960
+becoming fatigued and another player
+ 
+
+51
+00:01:03,960 --> 00:01:05,750
+becoming fatigued and another player
+loses hit points from being run through
+
+52
+00:01:05,750 --> 00:01:05,760
+loses hit points from being run through
+ 
+
+53
+00:01:05,760 --> 00:01:08,210
+loses hit points from being run through
+by a sword then shouldn't the first
+
+54
+00:01:08,210 --> 00:01:08,220
+by a sword then shouldn't the first
+ 
+
+55
+00:01:08,220 --> 00:01:10,310
+by a sword then shouldn't the first
+player have an ease your time recovering
+
+56
+00:01:10,310 --> 00:01:10,320
+player have an ease your time recovering
+ 
+
+57
+00:01:10,320 --> 00:01:12,130
+player have an ease your time recovering
+these lost hit points then the second
+
+58
+00:01:12,130 --> 00:01:12,140
+these lost hit points then the second
+ 
+
+59
+00:01:12,140 --> 00:01:14,570
+these lost hit points then the second
+and that's one of the things that the
+
+60
+00:01:14,570 --> 00:01:14,580
+and that's one of the things that the
+ 
+
+61
+00:01:14,580 --> 00:01:16,730
+and that's one of the things that the
+stamina system addresses it takes
+
+62
+00:01:16,730 --> 00:01:16,740
+stamina system addresses it takes
+ 
+
+63
+00:01:16,740 --> 00:01:18,710
+stamina system addresses it takes
+characters hit points and divides them
+
+64
+00:01:18,710 --> 00:01:18,720
+characters hit points and divides them
+ 
+
+65
+00:01:18,720 --> 00:01:21,530
+characters hit points and divides them
+into two separate resources stamina
+
+66
+00:01:21,530 --> 00:01:21,540
+into two separate resources stamina
+ 
+
+67
+00:01:21,540 --> 00:01:24,109
+into two separate resources stamina
+points and hit points
+
+68
+00:01:24,109 --> 00:01:24,119
+points and hit points
+ 
+
+69
+00:01:24,119 --> 00:01:26,649
+points and hit points
+stamina points represent the character
+
+70
+00:01:26,649 --> 00:01:26,659
+stamina points represent the character
+ 
+
+71
+00:01:26,659 --> 00:01:29,749
+stamina points represent the character
+avoiding physical damage but becoming
+
+72
+00:01:29,749 --> 00:01:29,759
+avoiding physical damage but becoming
+ 
+
+73
+00:01:29,759 --> 00:01:32,090
+avoiding physical damage but becoming
+increasingly more tired as they do so
+
+74
+00:01:32,090 --> 00:01:32,100
+increasingly more tired as they do so
+ 
+
+75
+00:01:32,100 --> 00:01:36,230
+increasingly more tired as they do so
+and as such stamina points are very easy
+
+76
+00:01:36,230 --> 00:01:36,240
+and as such stamina points are very easy
+ 
+
+77
+00:01:36,240 --> 00:01:38,690
+and as such stamina points are very easy
+to recover needing only a few minutes
+
+78
+00:01:38,690 --> 00:01:38,700
+to recover needing only a few minutes
+ 
+
+79
+00:01:38,700 --> 00:01:40,789
+to recover needing only a few minutes
+for the character to sit and catch their
+
+80
+00:01:40,789 --> 00:01:40,799
+for the character to sit and catch their
+ 
+
+81
+00:01:40,799 --> 00:01:43,550
+for the character to sit and catch their
+breath while hit points represent
+
+82
+00:01:43,550 --> 00:01:43,560
+breath while hit points represent
+ 
+
+83
+00:01:43,560 --> 00:01:46,429
+breath while hit points represent
+physical damage to the character when a
+
+84
+00:01:46,429 --> 00:01:46,439
+physical damage to the character when a
+ 
+
+85
+00:01:46,439 --> 00:01:48,530
+physical damage to the character when a
+player suffers hit point damage their
+
+86
+00:01:48,530 --> 00:01:48,540
+player suffers hit point damage their
+ 
+
+87
+00:01:48,540 --> 00:01:50,090
+player suffers hit point damage their
+character has been physically hit
+
+88
+00:01:50,090 --> 00:01:50,100
+character has been physically hit
+ 
+
+89
+00:01:50,100 --> 00:01:52,249
+character has been physically hit
+they've been bruised they've been
+
+90
+00:01:52,249 --> 00:01:52,259
+they've been bruised they've been
+ 
+
+91
+00:01:52,259 --> 00:01:55,850
+they've been bruised they've been
+slashed or burned or stabbed and as such
+
+92
+00:01:55,850 --> 00:01:55,860
+slashed or burned or stabbed and as such
+ 
+
+93
+00:01:55,860 --> 00:01:59,270
+slashed or burned or stabbed and as such
+healing lost hit points is significantly
+
+94
+00:01:59,270 --> 00:01:59,280
+healing lost hit points is significantly
+ 
+
+95
+00:01:59,280 --> 00:02:01,429
+healing lost hit points is significantly
+more difficult than recovering lost
+
+96
+00:02:01,429 --> 00:02:01,439
+more difficult than recovering lost
+ 
+
+97
+00:02:01,439 --> 00:02:04,310
+more difficult than recovering lost
+stamina points
+
+98
+00:02:04,310 --> 00:02:04,320
+stamina points
+ 
+
+99
+00:02:04,320 --> 00:02:06,830
+stamina points
+combat using the stamina system works
+
+100
+00:02:06,830 --> 00:02:06,840
+combat using the stamina system works
+ 
+
+101
+00:02:06,840 --> 00:02:09,169
+combat using the stamina system works
+mostly the same as with the standard hit
+
+102
+00:02:09,169 --> 00:02:09,179
+mostly the same as with the standard hit
+ 
+
+103
+00:02:09,179 --> 00:02:11,930
+mostly the same as with the standard hit
+point rules the main difference is how
+
+104
+00:02:11,930 --> 00:02:11,940
+point rules the main difference is how
+ 
+
+105
+00:02:11,940 --> 00:02:13,729
+point rules the main difference is how
+stamina points and hit points are
+
+106
+00:02:13,729 --> 00:02:13,739
+stamina points and hit points are
+ 
+
+107
+00:02:13,739 --> 00:02:16,130
+stamina points and hit points are
+deducted unless the GM determines
+
+108
+00:02:16,130 --> 00:02:16,140
+deducted unless the GM determines
+ 
+
+109
+00:02:16,140 --> 00:02:18,170
+deducted unless the GM determines
+otherwise when a character suffers
+
+110
+00:02:18,170 --> 00:02:18,180
+otherwise when a character suffers
+ 
+
+111
+00:02:18,180 --> 00:02:20,750
+otherwise when a character suffers
+damage they apply that damage to their
+
+112
+00:02:20,750 --> 00:02:20,760
+damage they apply that damage to their
+ 
+
+113
+00:02:20,760 --> 00:02:22,970
+damage they apply that damage to their
+temporary hit points first if they have
+
+114
+00:02:22,970 --> 00:02:22,980
+temporary hit points first if they have
+ 
+
+115
+00:02:22,980 --> 00:02:25,790
+temporary hit points first if they have
+any and once their temporary hit points
+
+116
+00:02:25,790 --> 00:02:25,800
+any and once their temporary hit points
+ 
+
+117
+00:02:25,800 --> 00:02:28,490
+any and once their temporary hit points
+are reduced to zero damage is then
+
+118
+00:02:28,490 --> 00:02:28,500
+are reduced to zero damage is then
+ 
+
+119
+00:02:28,500 --> 00:02:31,010
+are reduced to zero damage is then
+applied to their stamina points and once
+
+120
+00:02:31,010 --> 00:02:31,020
+applied to their stamina points and once
+ 
+
+121
+00:02:31,020 --> 00:02:33,290
+applied to their stamina points and once
+their stamina points are reduced to zero
+
+122
+00:02:33,290 --> 00:02:33,300
+their stamina points are reduced to zero
+ 
+
+123
+00:02:33,300 --> 00:02:35,330
+their stamina points are reduced to zero
+damage is then applied to their hit
+
+124
+00:02:35,330 --> 00:02:35,340
+damage is then applied to their hit
+ 
+
+125
+00:02:35,340 --> 00:02:37,729
+damage is then applied to their hit
+points and once those are reduced to
+
+126
+00:02:37,729 --> 00:02:37,739
+points and once those are reduced to
+ 
+
+127
+00:02:37,739 --> 00:02:40,250
+points and once those are reduced to
+zero the character Falls unconscious as
+
+128
+00:02:40,250 --> 00:02:40,260
+zero the character Falls unconscious as
+ 
+
+129
+00:02:40,260 --> 00:02:41,030
+zero the character Falls unconscious as
+normal
+
+130
+00:02:41,030 --> 00:02:41,040
+normal
+ 
+
+131
+00:02:41,040 --> 00:02:44,630
+normal
+that is the usual process but the GM may
+
+132
+00:02:44,630 --> 00:02:44,640
+that is the usual process but the GM may
+ 
+
+133
+00:02:44,640 --> 00:02:46,490
+that is the usual process but the GM may
+decide that the nature of an injury
+
+134
+00:02:46,490 --> 00:02:46,500
+decide that the nature of an injury
+ 
+
+135
+00:02:46,500 --> 00:02:49,070
+decide that the nature of an injury
+could only be applied to hit points and
+
+136
+00:02:49,070 --> 00:02:49,080
+could only be applied to hit points and
+ 
+
+137
+00:02:49,080 --> 00:02:51,170
+could only be applied to hit points and
+therefore skip over stamina points
+
+138
+00:02:51,170 --> 00:02:51,180
+therefore skip over stamina points
+ 
+
+139
+00:02:51,180 --> 00:02:53,750
+therefore skip over stamina points
+entirely and apply the damage directly
+
+140
+00:02:53,750 --> 00:02:53,760
+entirely and apply the damage directly
+ 
+
+141
+00:02:53,760 --> 00:02:56,570
+entirely and apply the damage directly
+to hit points for example full damage
+
+142
+00:02:56,570 --> 00:02:56,580
+to hit points for example full damage
+ 
+
+143
+00:02:56,580 --> 00:02:58,910
+to hit points for example full damage
+might be difficult to describe as only
+
+144
+00:02:58,910 --> 00:02:58,920
+might be difficult to describe as only
+ 
+
+145
+00:02:58,920 --> 00:03:01,910
+might be difficult to describe as only
+tiring a character and the GM may decide
+
+146
+00:03:01,910 --> 00:03:01,920
+tiring a character and the GM may decide
+ 
+
+147
+00:03:01,920 --> 00:03:04,790
+tiring a character and the GM may decide
+to apply that damage to hit points or to
+
+148
+00:03:04,790 --> 00:03:04,800
+to apply that damage to hit points or to
+ 
+
+149
+00:03:04,800 --> 00:03:06,470
+to apply that damage to hit points or to
+split it between hip points of stamina
+
+150
+00:03:06,470 --> 00:03:06,480
+split it between hip points of stamina
+ 
+
+151
+00:03:06,480 --> 00:03:09,830
+split it between hip points of stamina
+however I caution to do this only in
+
+152
+00:03:09,830 --> 00:03:09,840
+however I caution to do this only in
+ 
+
+153
+00:03:09,840 --> 00:03:12,649
+however I caution to do this only in
+very rare cases when you absolutely
+
+154
+00:03:12,649 --> 00:03:12,659
+very rare cases when you absolutely
+ 
+
+155
+00:03:12,659 --> 00:03:15,170
+very rare cases when you absolutely
+cannot explain the damage as anything
+
+156
+00:03:15,170 --> 00:03:15,180
+cannot explain the damage as anything
+ 
+
+157
+00:03:15,180 --> 00:03:18,050
+cannot explain the damage as anything
+other than physical trauma for example
+
+158
+00:03:18,050 --> 00:03:18,060
+other than physical trauma for example
+ 
+
+159
+00:03:18,060 --> 00:03:20,210
+other than physical trauma for example
+some people may say that being stomped
+
+160
+00:03:20,210 --> 00:03:20,220
+some people may say that being stomped
+ 
+
+161
+00:03:20,220 --> 00:03:22,610
+some people may say that being stomped
+by an elephant could only be applied to
+
+162
+00:03:22,610 --> 00:03:22,620
+by an elephant could only be applied to
+ 
+
+163
+00:03:22,620 --> 00:03:24,949
+by an elephant could only be applied to
+hit points but if you describe it as
+
+164
+00:03:24,949 --> 00:03:24,959
+hit points but if you describe it as
+ 
+
+165
+00:03:24,959 --> 00:03:26,750
+hit points but if you describe it as
+jumping out of the path of the Elephant
+
+166
+00:03:26,750 --> 00:03:26,760
+jumping out of the path of the Elephant
+ 
+
+167
+00:03:26,760 --> 00:03:29,210
+jumping out of the path of the Elephant
+at the last minute that would be a valid
+
+168
+00:03:29,210 --> 00:03:29,220
+at the last minute that would be a valid
+ 
+
+169
+00:03:29,220 --> 00:03:31,309
+at the last minute that would be a valid
+description for losing stamina points
+
+170
+00:03:31,309 --> 00:03:31,319
+description for losing stamina points
+ 
+
+171
+00:03:31,319 --> 00:03:33,649
+description for losing stamina points
+instead of hit points would in doubt
+
+172
+00:03:33,649 --> 00:03:33,659
+instead of hit points would in doubt
+ 
+
+173
+00:03:33,659 --> 00:03:35,690
+instead of hit points would in doubt
+stick to the regular process of
+
+174
+00:03:35,690 --> 00:03:35,700
+stick to the regular process of
+ 
+
+175
+00:03:35,700 --> 00:03:37,309
+stick to the regular process of
+deducting from temporary hip wounds
+
+176
+00:03:37,309 --> 00:03:37,319
+deducting from temporary hip wounds
+ 
+
+177
+00:03:37,319 --> 00:03:40,130
+deducting from temporary hip wounds
+first then stamina points and last hit
+
+178
+00:03:40,130 --> 00:03:40,140
+first then stamina points and last hit
+ 
+
+179
+00:03:40,140 --> 00:03:41,990
+first then stamina points and last hit
+points
+
+180
+00:03:41,990 --> 00:03:42,000
+points
+ 
+
+181
+00:03:42,000 --> 00:03:43,850
+points
+to calculate a character's stamina
+
+182
+00:03:43,850 --> 00:03:43,860
+to calculate a character's stamina
+ 
+
+183
+00:03:43,860 --> 00:03:47,030
+to calculate a character's stamina
+points and hit points you use table 4-21
+
+184
+00:03:47,030 --> 00:03:47,040
+points and hit points you use table 4-21
+ 
+
+185
+00:03:47,040 --> 00:03:49,670
+points and hit points you use table 4-21
+at the bottom of page 200 in the game
+
+186
+00:03:49,670 --> 00:03:49,680
+at the bottom of page 200 in the game
+ 
+
+187
+00:03:49,680 --> 00:03:52,850
+at the bottom of page 200 in the game
+mastery guide at first level characters
+
+188
+00:03:52,850 --> 00:03:52,860
+mastery guide at first level characters
+ 
+
+189
+00:03:52,860 --> 00:03:55,070
+mastery guide at first level characters
+gain a number of stamina points as
+
+190
+00:03:55,070 --> 00:03:55,080
+gain a number of stamina points as
+ 
+
+191
+00:03:55,080 --> 00:03:57,229
+gain a number of stamina points as
+listed in the second column of the table
+
+192
+00:03:57,229 --> 00:03:57,239
+listed in the second column of the table
+ 
+
+193
+00:03:57,239 --> 00:03:59,809
+listed in the second column of the table
+and they gain a number of hit points
+
+194
+00:03:59,809 --> 00:03:59,819
+and they gain a number of hit points
+ 
+
+195
+00:03:59,819 --> 00:04:02,390
+and they gain a number of hit points
+equal to their ancestry hit points plus
+
+196
+00:04:02,390 --> 00:04:02,400
+equal to their ancestry hit points plus
+ 
+
+197
+00:04:02,400 --> 00:04:05,630
+equal to their ancestry hit points plus
+an amount listed in the third column and
+
+198
+00:04:05,630 --> 00:04:05,640
+an amount listed in the third column and
+ 
+
+199
+00:04:05,640 --> 00:04:07,970
+an amount listed in the third column and
+for every level after first they
+
+200
+00:04:07,970 --> 00:04:07,980
+for every level after first they
+ 
+
+201
+00:04:07,980 --> 00:04:10,190
+for every level after first they
+increase their stamina and hit points by
+
+202
+00:04:10,190 --> 00:04:10,200
+increase their stamina and hit points by
+ 
+
+203
+00:04:10,200 --> 00:04:12,589
+increase their stamina and hit points by
+the amounts indicated in the table let's
+
+204
+00:04:12,589 --> 00:04:12,599
+the amounts indicated in the table let's
+ 
+
+205
+00:04:12,599 --> 00:04:14,869
+the amounts indicated in the table let's
+use a halfling rogue with a constitution
+
+206
+00:04:14,869 --> 00:04:14,879
+use a halfling rogue with a constitution
+ 
+
+207
+00:04:14,879 --> 00:04:18,110
+use a halfling rogue with a constitution
+score of 12 as an example at first level
+
+208
+00:04:18,110 --> 00:04:18,120
+score of 12 as an example at first level
+ 
+
+209
+00:04:18,120 --> 00:04:19,849
+score of 12 as an example at first level
+they would calculate their stamina
+
+210
+00:04:19,849 --> 00:04:19,859
+they would calculate their stamina
+ 
+
+211
+00:04:19,859 --> 00:04:24,050
+they would calculate their stamina
+points as 4 per the table plus one for
+
+212
+00:04:24,050 --> 00:04:24,060
+points as 4 per the table plus one for
+ 
+
+213
+00:04:24,060 --> 00:04:26,390
+points as 4 per the table plus one for
+their constitutional modifier for a
+
+214
+00:04:26,390 --> 00:04:26,400
+their constitutional modifier for a
+ 
+
+215
+00:04:26,400 --> 00:04:29,330
+their constitutional modifier for a
+total of five stamina points and they'd
+
+216
+00:04:29,330 --> 00:04:29,340
+total of five stamina points and they'd
+ 
+
+217
+00:04:29,340 --> 00:04:31,490
+total of five stamina points and they'd
+calculate their hit points as six for
+
+218
+00:04:31,490 --> 00:04:31,500
+calculate their hit points as six for
+ 
+
+219
+00:04:31,500 --> 00:04:34,850
+calculate their hit points as six for
+their halfling ancestry plus four per
+
+220
+00:04:34,850 --> 00:04:34,860
+their halfling ancestry plus four per
+ 
+
+221
+00:04:34,860 --> 00:04:38,689
+their halfling ancestry plus four per
+table 421 for a total of 10 hit points
+
+222
+00:04:38,689 --> 00:04:38,699
+table 421 for a total of 10 hit points
+ 
+
+223
+00:04:38,699 --> 00:04:41,570
+table 421 for a total of 10 hit points
+at second level their stamina points
+
+224
+00:04:41,570 --> 00:04:41,580
+at second level their stamina points
+ 
+
+225
+00:04:41,580 --> 00:04:43,909
+at second level their stamina points
+would increase by five more and their
+
+226
+00:04:43,909 --> 00:04:43,919
+would increase by five more and their
+ 
+
+227
+00:04:43,919 --> 00:04:45,890
+would increase by five more and their
+hit points would increase by four more
+
+228
+00:04:45,890 --> 00:04:45,900
+hit points would increase by four more
+ 
+
+229
+00:04:45,900 --> 00:04:48,830
+hit points would increase by four more
+because ancestry hit points only apply
+
+230
+00:04:48,830 --> 00:04:48,840
+because ancestry hit points only apply
+ 
+
+231
+00:04:48,840 --> 00:04:51,170
+because ancestry hit points only apply
+for first level essentially characters
+
+232
+00:04:51,170 --> 00:04:51,180
+for first level essentially characters
+ 
+
+233
+00:04:51,180 --> 00:04:53,090
+for first level essentially characters
+in the stamina system have the same
+
+234
+00:04:53,090 --> 00:04:53,100
+in the stamina system have the same
+ 
+
+235
+00:04:53,100 --> 00:04:55,189
+in the stamina system have the same
+amount of points they're just divided
+
+236
+00:04:55,189 --> 00:04:55,199
+amount of points they're just divided
+ 
+
+237
+00:04:55,199 --> 00:04:58,129
+amount of points they're just divided
+into these two pools in addition to
+
+238
+00:04:58,129 --> 00:04:58,139
+into these two pools in addition to
+ 
+
+239
+00:04:58,139 --> 00:05:00,290
+into these two pools in addition to
+stamina points and hit points when using
+
+240
+00:05:00,290 --> 00:05:00,300
+stamina points and hit points when using
+ 
+
+241
+00:05:00,300 --> 00:05:02,629
+stamina points and hit points when using
+the system players will also have one
+
+242
+00:05:02,629 --> 00:05:02,639
+the system players will also have one
+ 
+
+243
+00:05:02,639 --> 00:05:04,909
+the system players will also have one
+more resource to track which is called
+
+244
+00:05:04,909 --> 00:05:04,919
+more resource to track which is called
+ 
+
+245
+00:05:04,919 --> 00:05:08,150
+more resource to track which is called
+resolve every player has a number of
+
+246
+00:05:08,150 --> 00:05:08,160
+resolve every player has a number of
+ 
+
+247
+00:05:08,160 --> 00:05:10,189
+resolve every player has a number of
+resolve points equal to their key
+
+248
+00:05:10,189 --> 00:05:10,199
+resolve points equal to their key
+ 
+
+249
+00:05:10,199 --> 00:05:13,249
+resolve points equal to their key
+ability modifier so using our example of
+
+250
+00:05:13,249 --> 00:05:13,259
+ability modifier so using our example of
+ 
+
+251
+00:05:13,259 --> 00:05:15,290
+ability modifier so using our example of
+the halfling Rogue if they have a
+
+252
+00:05:15,290 --> 00:05:15,300
+the halfling Rogue if they have a
+ 
+
+253
+00:05:15,300 --> 00:05:17,930
+the halfling Rogue if they have a
+dexterity of 16 and that is their key
+
+254
+00:05:17,930 --> 00:05:17,940
+dexterity of 16 and that is their key
+ 
+
+255
+00:05:17,940 --> 00:05:20,270
+dexterity of 16 and that is their key
+ability then they would have three
+
+256
+00:05:20,270 --> 00:05:20,280
+ability then they would have three
+ 
+
+257
+00:05:20,280 --> 00:05:23,570
+ability then they would have three
+resolved points and note that all spent
+
+258
+00:05:23,570 --> 00:05:23,580
+resolved points and note that all spent
+ 
+
+259
+00:05:23,580 --> 00:05:26,210
+resolved points and note that all spent
+resolve points are returned after a full
+
+260
+00:05:26,210 --> 00:05:26,220
+resolve points are returned after a full
+ 
+
+261
+00:05:26,220 --> 00:05:28,909
+resolve points are returned after a full
+night's rest there are two main ways
+
+262
+00:05:28,909 --> 00:05:28,919
+night's rest there are two main ways
+ 
+
+263
+00:05:28,919 --> 00:05:31,550
+night's rest there are two main ways
+that resolve points are spent first an
+
+264
+00:05:31,550 --> 00:05:31,560
+that resolve points are spent first an
+ 
+
+265
+00:05:31,560 --> 00:05:33,529
+that resolve points are spent first an
+unconscious player may spend one resolve
+
+266
+00:05:33,529 --> 00:05:33,539
+unconscious player may spend one resolve
+ 
+
+267
+00:05:33,539 --> 00:05:35,749
+unconscious player may spend one resolve
+point to stabilize and if they do so
+
+268
+00:05:35,749 --> 00:05:35,759
+point to stabilize and if they do so
+ 
+
+269
+00:05:35,759 --> 00:05:37,730
+point to stabilize and if they do so
+they gain one hit point and return to
+
+270
+00:05:37,730 --> 00:05:37,740
+they gain one hit point and return to
+ 
+
+271
+00:05:37,740 --> 00:05:39,650
+they gain one hit point and return to
+Consciousness at the start of their next
+
+272
+00:05:39,650 --> 00:05:39,660
+Consciousness at the start of their next
+ 
+
+273
+00:05:39,660 --> 00:05:41,990
+Consciousness at the start of their next
+turn note that if you choose to use the
+
+274
+00:05:41,990 --> 00:05:42,000
+turn note that if you choose to use the
+ 
+
+275
+00:05:42,000 --> 00:05:44,330
+turn note that if you choose to use the
+stamina system you may want to remove
+
+276
+00:05:44,330 --> 00:05:44,340
+stamina system you may want to remove
+ 
+
+277
+00:05:44,340 --> 00:05:46,430
+stamina system you may want to remove
+the ability of hero points to stabilize
+
+278
+00:05:46,430 --> 00:05:46,440
+the ability of hero points to stabilize
+ 
+
+279
+00:05:46,440 --> 00:05:49,189
+the ability of hero points to stabilize
+characters also the second way resolve
+
+280
+00:05:49,189 --> 00:05:49,199
+characters also the second way resolve
+ 
+
+281
+00:05:49,199 --> 00:05:51,110
+characters also the second way resolve
+points are used is to regain lost
+
+282
+00:05:51,110 --> 00:05:51,120
+points are used is to regain lost
+ 
+
+283
+00:05:51,120 --> 00:05:53,390
+points are used is to regain lost
+stamina
+
+284
+00:05:53,390 --> 00:05:53,400
+stamina
+ 
+
+285
+00:05:53,400 --> 00:05:56,150
+stamina
+as mentioned before lost stamina points
+
+286
+00:05:56,150 --> 00:05:56,160
+as mentioned before lost stamina points
+ 
+
+287
+00:05:56,160 --> 00:05:58,430
+as mentioned before lost stamina points
+and lost hit points are each healed in
+
+288
+00:05:58,430 --> 00:05:58,440
+and lost hit points are each healed in
+ 
+
+289
+00:05:58,440 --> 00:06:00,469
+and lost hit points are each healed in
+different ways we'll start with the
+
+290
+00:06:00,469 --> 00:06:00,479
+different ways we'll start with the
+ 
+
+291
+00:06:00,479 --> 00:06:02,570
+different ways we'll start with the
+stamina points the first thing to know
+
+292
+00:06:02,570 --> 00:06:02,580
+stamina points the first thing to know
+ 
+
+293
+00:06:02,580 --> 00:06:04,670
+stamina points the first thing to know
+about regaining stamina is stamina
+
+294
+00:06:04,670 --> 00:06:04,680
+about regaining stamina is stamina
+ 
+
+295
+00:06:04,680 --> 00:06:07,010
+about regaining stamina is stamina
+cannot be healed by traditional means
+
+296
+00:06:07,010 --> 00:06:07,020
+cannot be healed by traditional means
+ 
+
+297
+00:06:07,020 --> 00:06:09,950
+cannot be healed by traditional means
+anything in the game that is currently
+
+298
+00:06:09,950 --> 00:06:09,960
+anything in the game that is currently
+ 
+
+299
+00:06:09,960 --> 00:06:12,710
+anything in the game that is currently
+used to heal hit points does not also
+
+300
+00:06:12,710 --> 00:06:12,720
+used to heal hit points does not also
+ 
+
+301
+00:06:12,720 --> 00:06:15,770
+used to heal hit points does not also
+heal stamina so the heal spell treat
+
+302
+00:06:15,770 --> 00:06:15,780
+heal stamina so the heal spell treat
+ 
+
+303
+00:06:15,780 --> 00:06:18,710
+heal stamina so the heal spell treat
+wounds healing potions and the like have
+
+304
+00:06:18,710 --> 00:06:18,720
+wounds healing potions and the like have
+ 
+
+305
+00:06:18,720 --> 00:06:22,070
+wounds healing potions and the like have
+no effect on stamina instead there are
+
+306
+00:06:22,070 --> 00:06:22,080
+no effect on stamina instead there are
+ 
+
+307
+00:06:22,080 --> 00:06:23,870
+no effect on stamina instead there are
+two main ways of regaining stamina
+
+308
+00:06:23,870 --> 00:06:23,880
+two main ways of regaining stamina
+ 
+
+309
+00:06:23,880 --> 00:06:26,990
+two main ways of regaining stamina
+points the take a breather action and
+
+310
+00:06:26,990 --> 00:06:27,000
+points the take a breather action and
+ 
+
+311
+00:06:27,000 --> 00:06:28,670
+points the take a breather action and
+the rally action
+
+312
+00:06:28,670 --> 00:06:28,680
+the rally action
+ 
+
+313
+00:06:28,680 --> 00:06:31,249
+the rally action
+take a breather costs one resolve point
+
+314
+00:06:31,249 --> 00:06:31,259
+take a breather costs one resolve point
+ 
+
+315
+00:06:31,259 --> 00:06:33,890
+take a breather costs one resolve point
+and takes 10 minutes after which you
+
+316
+00:06:33,890 --> 00:06:33,900
+and takes 10 minutes after which you
+ 
+
+317
+00:06:33,900 --> 00:06:36,650
+and takes 10 minutes after which you
+regain all lost stamina points since
+
+318
+00:06:36,650 --> 00:06:36,660
+regain all lost stamina points since
+ 
+
+319
+00:06:36,660 --> 00:06:39,050
+regain all lost stamina points since
+stamina represents the character tiring
+
+320
+00:06:39,050 --> 00:06:39,060
+stamina represents the character tiring
+ 
+
+321
+00:06:39,060 --> 00:06:41,090
+stamina represents the character tiring
+they're relatively easy to get back
+
+322
+00:06:41,090 --> 00:06:41,100
+they're relatively easy to get back
+ 
+
+323
+00:06:41,100 --> 00:06:43,670
+they're relatively easy to get back
+after a fight you just need to rest for
+
+324
+00:06:43,670 --> 00:06:43,680
+after a fight you just need to rest for
+ 
+
+325
+00:06:43,680 --> 00:06:45,770
+after a fight you just need to rest for
+10 minutes and catch your breath and you
+
+326
+00:06:45,770 --> 00:06:45,780
+10 minutes and catch your breath and you
+ 
+
+327
+00:06:45,780 --> 00:06:48,650
+10 minutes and catch your breath and you
+completely heal all stamina up to your
+
+328
+00:06:48,650 --> 00:06:48,660
+completely heal all stamina up to your
+ 
+
+329
+00:06:48,660 --> 00:06:51,230
+completely heal all stamina up to your
+maximum stamina value and since this
+
+330
+00:06:51,230 --> 00:06:51,240
+maximum stamina value and since this
+ 
+
+331
+00:06:51,240 --> 00:06:53,749
+maximum stamina value and since this
+costs one resolve Point players have a
+
+332
+00:06:53,749 --> 00:06:53,759
+costs one resolve Point players have a
+ 
+
+333
+00:06:53,759 --> 00:06:55,670
+costs one resolve Point players have a
+limit to how often they may use this
+
+334
+00:06:55,670 --> 00:06:55,680
+limit to how often they may use this
+ 
+
+335
+00:06:55,680 --> 00:06:58,189
+limit to how often they may use this
+action the second way to recover stamina
+
+336
+00:06:58,189 --> 00:06:58,199
+action the second way to recover stamina
+ 
+
+337
+00:06:58,199 --> 00:07:01,309
+action the second way to recover stamina
+is through the rally action to use rally
+
+338
+00:07:01,309 --> 00:07:01,319
+is through the rally action to use rally
+ 
+
+339
+00:07:01,319 --> 00:07:03,590
+is through the rally action to use rally
+you must be trained in diplomacy
+
+340
+00:07:03,590 --> 00:07:03,600
+you must be trained in diplomacy
+ 
+
+341
+00:07:03,600 --> 00:07:06,710
+you must be trained in diplomacy
+intimidation or performance you spend
+
+342
+00:07:06,710 --> 00:07:06,720
+intimidation or performance you spend
+ 
+
+343
+00:07:06,720 --> 00:07:09,170
+intimidation or performance you spend
+one minute encouraging an ally after
+
+344
+00:07:09,170 --> 00:07:09,180
+one minute encouraging an ally after
+ 
+
+345
+00:07:09,180 --> 00:07:11,930
+one minute encouraging an ally after
+which you roll a dc-15 skill check using
+
+346
+00:07:11,930 --> 00:07:11,940
+which you roll a dc-15 skill check using
+ 
+
+347
+00:07:11,940 --> 00:07:14,150
+which you roll a dc-15 skill check using
+one of the listed skills diplomacy
+
+348
+00:07:14,150 --> 00:07:14,160
+one of the listed skills diplomacy
+ 
+
+349
+00:07:14,160 --> 00:07:16,189
+one of the listed skills diplomacy
+intimidation or performance
+
+350
+00:07:16,189 --> 00:07:16,199
+intimidation or performance
+ 
+
+351
+00:07:16,199 --> 00:07:18,230
+intimidation or performance
+on a success you can continue
+
+352
+00:07:18,230 --> 00:07:18,240
+on a success you can continue
+ 
+
+353
+00:07:18,240 --> 00:07:20,510
+on a success you can continue
+encouraging them for nine more minutes
+
+354
+00:07:20,510 --> 00:07:20,520
+encouraging them for nine more minutes
+ 
+
+355
+00:07:20,520 --> 00:07:24,350
+encouraging them for nine more minutes
+10 minutes total if you do so then the
+
+356
+00:07:24,350 --> 00:07:24,360
+10 minutes total if you do so then the
+ 
+
+357
+00:07:24,360 --> 00:07:26,870
+10 minutes total if you do so then the
+target can then spend one resolve point
+
+358
+00:07:26,870 --> 00:07:26,880
+target can then spend one resolve point
+ 
+
+359
+00:07:26,880 --> 00:07:29,570
+target can then spend one resolve point
+and regain their stamina up to their Max
+
+360
+00:07:29,570 --> 00:07:29,580
+and regain their stamina up to their Max
+ 
+
+361
+00:07:29,580 --> 00:07:32,450
+and regain their stamina up to their Max
+stamina value this is functionally the
+
+362
+00:07:32,450 --> 00:07:32,460
+stamina value this is functionally the
+ 
+
+363
+00:07:32,460 --> 00:07:34,490
+stamina value this is functionally the
+same as take a breather so why would you
+
+364
+00:07:34,490 --> 00:07:34,500
+same as take a breather so why would you
+ 
+
+365
+00:07:34,500 --> 00:07:37,309
+same as take a breather so why would you
+do this the answer is because on a
+
+366
+00:07:37,309 --> 00:07:37,319
+do this the answer is because on a
+ 
+
+367
+00:07:37,319 --> 00:07:39,650
+do this the answer is because on a
+critical success the Ally can
+
+368
+00:07:39,650 --> 00:07:39,660
+critical success the Ally can
+ 
+
+369
+00:07:39,660 --> 00:07:42,170
+critical success the Ally can
+immediately spend one resolve point to
+
+370
+00:07:42,170 --> 00:07:42,180
+immediately spend one resolve point to
+ 
+
+371
+00:07:42,180 --> 00:07:44,330
+immediately spend one resolve point to
+regain their stamina up to their maximum
+
+372
+00:07:44,330 --> 00:07:44,340
+regain their stamina up to their maximum
+ 
+
+373
+00:07:44,340 --> 00:07:47,390
+regain their stamina up to their maximum
+stamina value after only one minute
+
+374
+00:07:47,390 --> 00:07:47,400
+stamina value after only one minute
+ 
+
+375
+00:07:47,400 --> 00:07:49,550
+stamina value after only one minute
+instead of 10 minutes
+
+376
+00:07:49,550 --> 00:07:49,560
+instead of 10 minutes
+ 
+
+377
+00:07:49,560 --> 00:07:51,469
+instead of 10 minutes
+if you don't think you're going to have
+
+378
+00:07:51,469 --> 00:07:51,479
+if you don't think you're going to have
+ 
+
+379
+00:07:51,479 --> 00:07:53,629
+if you don't think you're going to have
+10 minutes for take a breather this
+
+380
+00:07:53,629 --> 00:07:53,639
+10 minutes for take a breather this
+ 
+
+381
+00:07:53,639 --> 00:07:55,730
+10 minutes for take a breather this
+could be a solution to regain all of
+
+382
+00:07:55,730 --> 00:07:55,740
+could be a solution to regain all of
+ 
+
+383
+00:07:55,740 --> 00:07:58,430
+could be a solution to regain all of
+your stamina back on the downside if you
+
+384
+00:07:58,430 --> 00:07:58,440
+your stamina back on the downside if you
+ 
+
+385
+00:07:58,440 --> 00:08:00,350
+your stamina back on the downside if you
+critically fail the chick the Ally
+
+386
+00:08:00,350 --> 00:08:00,360
+critically fail the chick the Ally
+ 
+
+387
+00:08:00,360 --> 00:08:02,570
+critically fail the chick the Ally
+suffers 1d8 mental damage to their
+
+388
+00:08:02,570 --> 00:08:02,580
+suffers 1d8 mental damage to their
+ 
+
+389
+00:08:02,580 --> 00:08:05,870
+suffers 1d8 mental damage to their
+stamina points and this kind of loss is
+
+390
+00:08:05,870 --> 00:08:05,880
+stamina points and this kind of loss is
+ 
+
+391
+00:08:05,880 --> 00:08:07,909
+stamina points and this kind of loss is
+only applied to stamina and can never
+
+392
+00:08:07,909 --> 00:08:07,919
+only applied to stamina and can never
+ 
+
+393
+00:08:07,919 --> 00:08:09,770
+only applied to stamina and can never
+affect hit points
+
+394
+00:08:09,770 --> 00:08:09,780
+affect hit points
+ 
+
+395
+00:08:09,780 --> 00:08:12,469
+affect hit points
+and the third way to regain stamina is
+
+396
+00:08:12,469 --> 00:08:12,479
+and the third way to regain stamina is
+ 
+
+397
+00:08:12,479 --> 00:08:15,050
+and the third way to regain stamina is
+through rest after a full night of rest
+
+398
+00:08:15,050 --> 00:08:15,060
+through rest after a full night of rest
+ 
+
+399
+00:08:15,060 --> 00:08:17,210
+through rest after a full night of rest
+the character regains all of their
+
+400
+00:08:17,210 --> 00:08:17,220
+the character regains all of their
+ 
+
+401
+00:08:17,220 --> 00:08:19,790
+the character regains all of their
+stamina and all of their resolve points
+
+402
+00:08:19,790 --> 00:08:19,800
+stamina and all of their resolve points
+ 
+
+403
+00:08:19,800 --> 00:08:22,309
+stamina and all of their resolve points
+they also still heal an amount of hit
+
+404
+00:08:22,309 --> 00:08:22,319
+they also still heal an amount of hit
+ 
+
+405
+00:08:22,319 --> 00:08:26,330
+they also still heal an amount of hit
+points as normal for a night of rest
+
+406
+00:08:26,330 --> 00:08:26,340
+points as normal for a night of rest
+ 
+
+407
+00:08:26,340 --> 00:08:28,369
+points as normal for a night of rest
+a few things to consider about the
+
+408
+00:08:28,369 --> 00:08:28,379
+a few things to consider about the
+ 
+
+409
+00:08:28,379 --> 00:08:31,790
+a few things to consider about the
+stamina system first only players in
+
+410
+00:08:31,790 --> 00:08:31,800
+stamina system first only players in
+ 
+
+411
+00:08:31,800 --> 00:08:34,310
+stamina system first only players in
+very significant NPCs should need to
+
+412
+00:08:34,310 --> 00:08:34,320
+very significant NPCs should need to
+ 
+
+413
+00:08:34,320 --> 00:08:36,050
+very significant NPCs should need to
+make adjustments to use this system
+
+414
+00:08:36,050 --> 00:08:36,060
+make adjustments to use this system
+ 
+
+415
+00:08:36,060 --> 00:08:38,990
+make adjustments to use this system
+there is no need to give stamina and
+
+416
+00:08:38,990 --> 00:08:39,000
+there is no need to give stamina and
+ 
+
+417
+00:08:39,000 --> 00:08:40,850
+there is no need to give stamina and
+resolve points to monsters and other
+
+418
+00:08:40,850 --> 00:08:40,860
+resolve points to monsters and other
+ 
+
+419
+00:08:40,860 --> 00:08:42,230
+resolve points to monsters and other
+enemies
+
+420
+00:08:42,230 --> 00:08:42,240
+enemies
+ 
+
+421
+00:08:42,240 --> 00:08:44,570
+enemies
+when a character is reduced to zero hit
+
+422
+00:08:44,570 --> 00:08:44,580
+when a character is reduced to zero hit
+ 
+
+423
+00:08:44,580 --> 00:08:46,490
+when a character is reduced to zero hit
+points they fall unconscious like normal
+
+424
+00:08:46,490 --> 00:08:46,500
+points they fall unconscious like normal
+ 
+
+425
+00:08:46,500 --> 00:08:49,430
+points they fall unconscious like normal
+even if they somehow still have stamina
+
+426
+00:08:49,430 --> 00:08:49,440
+even if they somehow still have stamina
+ 
+
+427
+00:08:49,440 --> 00:08:50,870
+even if they somehow still have stamina
+points
+
+428
+00:08:50,870 --> 00:08:50,880
+points
+ 
+
+429
+00:08:50,880 --> 00:08:53,990
+points
+since this is an optional variant rule
+
+430
+00:08:53,990 --> 00:08:54,000
+since this is an optional variant rule
+ 
+
+431
+00:08:54,000 --> 00:08:57,050
+since this is an optional variant rule
+system not every single detail in the
+
+432
+00:08:57,050 --> 00:08:57,060
+system not every single detail in the
+ 
+
+433
+00:08:57,060 --> 00:08:58,850
+system not every single detail in the
+other rule books are written with
+
+434
+00:08:58,850 --> 00:08:58,860
+other rule books are written with
+ 
+
+435
+00:08:58,860 --> 00:09:01,670
+other rule books are written with
+stamina in mind therefore the GM will
+
+436
+00:09:01,670 --> 00:09:01,680
+stamina in mind therefore the GM will
+ 
+
+437
+00:09:01,680 --> 00:09:03,590
+stamina in mind therefore the GM will
+need to make their own decisions for how
+
+438
+00:09:03,590 --> 00:09:03,600
+need to make their own decisions for how
+ 
+
+439
+00:09:03,600 --> 00:09:06,530
+need to make their own decisions for how
+certain issues interact with stamina for
+
+440
+00:09:06,530 --> 00:09:06,540
+certain issues interact with stamina for
+ 
+
+441
+00:09:06,540 --> 00:09:08,690
+certain issues interact with stamina for
+example massive damage was not written
+
+442
+00:09:08,690 --> 00:09:08,700
+example massive damage was not written
+ 
+
+443
+00:09:08,700 --> 00:09:11,269
+example massive damage was not written
+with stamina in mind so it will be up to
+
+444
+00:09:11,269 --> 00:09:11,279
+with stamina in mind so it will be up to
+ 
+
+445
+00:09:11,279 --> 00:09:13,850
+with stamina in mind so it will be up to
+the GM to decide how massive damage
+
+446
+00:09:13,850 --> 00:09:13,860
+the GM to decide how massive damage
+ 
+
+447
+00:09:13,860 --> 00:09:15,530
+the GM to decide how massive damage
+interacts with the stamina system
+
+448
+00:09:15,530 --> 00:09:15,540
+interacts with the stamina system
+ 
+
+449
+00:09:15,540 --> 00:09:18,350
+interacts with the stamina system
+they'll need to decide if massive damage
+
+450
+00:09:18,350 --> 00:09:18,360
+they'll need to decide if massive damage
+ 
+
+451
+00:09:18,360 --> 00:09:20,630
+they'll need to decide if massive damage
+occurs when one blow doubles the
+
+452
+00:09:20,630 --> 00:09:20,640
+occurs when one blow doubles the
+ 
+
+453
+00:09:20,640 --> 00:09:23,150
+occurs when one blow doubles the
+character's maximum hit points or if it
+
+454
+00:09:23,150 --> 00:09:23,160
+character's maximum hit points or if it
+ 
+
+455
+00:09:23,160 --> 00:09:25,310
+character's maximum hit points or if it
+occurs when one blow deals double the
+
+456
+00:09:25,310 --> 00:09:25,320
+occurs when one blow deals double the
+ 
+
+457
+00:09:25,320 --> 00:09:27,410
+occurs when one blow deals double the
+character's maximum hit points and
+
+458
+00:09:27,410 --> 00:09:27,420
+character's maximum hit points and
+ 
+
+459
+00:09:27,420 --> 00:09:30,170
+character's maximum hit points and
+maximum stamina points combined for what
+
+460
+00:09:30,170 --> 00:09:30,180
+maximum stamina points combined for what
+ 
+
+461
+00:09:30,180 --> 00:09:32,990
+maximum stamina points combined for what
+it's worth in my games I use the latter
+
+462
+00:09:32,990 --> 00:09:33,000
+it's worth in my games I use the latter
+ 
+
+463
+00:09:33,000 --> 00:09:35,329
+it's worth in my games I use the latter
+remember the traditional means of
+
+464
+00:09:35,329 --> 00:09:35,339
+remember the traditional means of
+ 
+
+465
+00:09:35,339 --> 00:09:38,570
+remember the traditional means of
+healing only heal hit points for example
+
+466
+00:09:38,570 --> 00:09:38,580
+healing only heal hit points for example
+ 
+
+467
+00:09:38,580 --> 00:09:42,230
+healing only heal hit points for example
+if an ally has no stamina and 15 out of
+
+468
+00:09:42,230 --> 00:09:42,240
+if an ally has no stamina and 15 out of
+ 
+
+469
+00:09:42,240 --> 00:09:44,630
+if an ally has no stamina and 15 out of
+20 hit points remaining and you heal
+
+470
+00:09:44,630 --> 00:09:44,640
+20 hit points remaining and you heal
+ 
+
+471
+00:09:44,640 --> 00:09:46,850
+20 hit points remaining and you heal
+them for seven points of damage they
+
+472
+00:09:46,850 --> 00:09:46,860
+them for seven points of damage they
+ 
+
+473
+00:09:46,860 --> 00:09:49,009
+them for seven points of damage they
+will have their maximum of 20 hit points
+
+474
+00:09:49,009 --> 00:09:49,019
+will have their maximum of 20 hit points
+ 
+
+475
+00:09:49,019 --> 00:09:52,610
+will have their maximum of 20 hit points
+but still no stamina points excess
+
+476
+00:09:52,610 --> 00:09:52,620
+but still no stamina points excess
+ 
+
+477
+00:09:52,620 --> 00:09:56,570
+but still no stamina points excess
+healing does not heal lost stamina you
+
+478
+00:09:56,570 --> 00:09:56,580
+healing does not heal lost stamina you
+ 
+
+479
+00:09:56,580 --> 00:09:58,490
+healing does not heal lost stamina you
+have to use other means like take a
+
+480
+00:09:58,490 --> 00:09:58,500
+have to use other means like take a
+ 
+
+481
+00:09:58,500 --> 00:10:01,130
+have to use other means like take a
+breather or rally for that and the vice
+
+482
+00:10:01,130 --> 00:10:01,140
+breather or rally for that and the vice
+ 
+
+483
+00:10:01,140 --> 00:10:03,769
+breather or rally for that and the vice
+versa is also true healing excess
+
+484
+00:10:03,769 --> 00:10:03,779
+versa is also true healing excess
+ 
+
+485
+00:10:03,779 --> 00:10:06,530
+versa is also true healing excess
+stamina points will not carry over and
+
+486
+00:10:06,530 --> 00:10:06,540
+stamina points will not carry over and
+ 
+
+487
+00:10:06,540 --> 00:10:09,769
+stamina points will not carry over and
+heal hit points affects either heal hip
+
+488
+00:10:09,769 --> 00:10:09,779
+heal hit points affects either heal hip
+ 
+
+489
+00:10:09,779 --> 00:10:13,550
+heal hit points affects either heal hip
+points or stamina and never both
+
+490
+00:10:13,550 --> 00:10:13,560
+points or stamina and never both
+ 
+
+491
+00:10:13,560 --> 00:10:16,370
+points or stamina and never both
+and last be aware that there are both
+
+492
+00:10:16,370 --> 00:10:16,380
+and last be aware that there are both
+ 
+
+493
+00:10:16,380 --> 00:10:19,790
+and last be aware that there are both
+pros and cons to using this system a
+
+494
+00:10:19,790 --> 00:10:19,800
+pros and cons to using this system a
+ 
+
+495
+00:10:19,800 --> 00:10:21,949
+pros and cons to using this system a
+major Pro is the system makes healing up
+
+496
+00:10:21,949 --> 00:10:21,959
+major Pro is the system makes healing up
+ 
+
+497
+00:10:21,959 --> 00:10:24,290
+major Pro is the system makes healing up
+between encounters easier without
+
+498
+00:10:24,290 --> 00:10:24,300
+between encounters easier without
+ 
+
+499
+00:10:24,300 --> 00:10:26,570
+between encounters easier without
+spending time at the table rolling
+
+500
+00:10:26,570 --> 00:10:26,580
+spending time at the table rolling
+ 
+
+501
+00:10:26,580 --> 00:10:30,110
+spending time at the table rolling
+numerous chicks for treat wounds but on
+
+502
+00:10:30,110 --> 00:10:30,120
+numerous chicks for treat wounds but on
+ 
+
+503
+00:10:30,120 --> 00:10:32,750
+numerous chicks for treat wounds but on
+the con side this system makes it more
+
+504
+00:10:32,750 --> 00:10:32,760
+the con side this system makes it more
+ 
+
+505
+00:10:32,760 --> 00:10:35,329
+the con side this system makes it more
+difficult to heal up in the middle of an
+
+506
+00:10:35,329 --> 00:10:35,339
+difficult to heal up in the middle of an
+ 
+
+507
+00:10:35,339 --> 00:10:38,269
+difficult to heal up in the middle of an
+encounter since both take a breather and
+
+508
+00:10:38,269 --> 00:10:38,279
+encounter since both take a breather and
+ 
+
+509
+00:10:38,279 --> 00:10:41,210
+encounter since both take a breather and
+rally can only be used during times of
+
+510
+00:10:41,210 --> 00:10:41,220
+rally can only be used during times of
+ 
+
+511
+00:10:41,220 --> 00:10:43,790
+rally can only be used during times of
+rest players will find healing in the
+
+512
+00:10:43,790 --> 00:10:43,800
+rest players will find healing in the
+ 
+
+513
+00:10:43,800 --> 00:10:45,889
+rest players will find healing in the
+middle of a fight even more challenging
+
+514
+00:10:45,889 --> 00:10:45,899
+middle of a fight even more challenging
+ 
+
+515
+00:10:45,899 --> 00:10:49,250
+middle of a fight even more challenging
+there are however two new Feats that can
+
+516
+00:10:49,250 --> 00:10:49,260
+there are however two new Feats that can
+ 
+
+517
+00:10:49,260 --> 00:10:51,889
+there are however two new Feats that can
+help mitigate this a little the first is
+
+518
+00:10:51,889 --> 00:10:51,899
+help mitigate this a little the first is
+ 
+
+519
+00:10:51,899 --> 00:10:54,650
+help mitigate this a little the first is
+called encouraging words and is sort of
+
+520
+00:10:54,650 --> 00:10:54,660
+called encouraging words and is sort of
+ 
+
+521
+00:10:54,660 --> 00:10:57,710
+called encouraging words and is sort of
+like battle medicine for stamina it's a
+
+522
+00:10:57,710 --> 00:10:57,720
+like battle medicine for stamina it's a
+ 
+
+523
+00:10:57,720 --> 00:10:59,870
+like battle medicine for stamina it's a
+second level feat and with it you can
+
+524
+00:10:59,870 --> 00:10:59,880
+second level feat and with it you can
+ 
+
+525
+00:10:59,880 --> 00:11:02,509
+second level feat and with it you can
+spend one action to inspire an ally
+
+526
+00:11:02,509 --> 00:11:02,519
+spend one action to inspire an ally
+ 
+
+527
+00:11:02,519 --> 00:11:05,449
+spend one action to inspire an ally
+within 30 feet you roll a diplomacy
+
+528
+00:11:05,449 --> 00:11:05,459
+within 30 feet you roll a diplomacy
+ 
+
+529
+00:11:05,459 --> 00:11:08,990
+within 30 feet you roll a diplomacy
+check versus dc15 and honest success the
+
+530
+00:11:08,990 --> 00:11:09,000
+check versus dc15 and honest success the
+ 
+
+531
+00:11:09,000 --> 00:11:12,769
+check versus dc15 and honest success the
+target regains 1d8 stamina points on a
+
+532
+00:11:12,769 --> 00:11:12,779
+target regains 1d8 stamina points on a
+ 
+
+533
+00:11:12,779 --> 00:11:15,889
+target regains 1d8 stamina points on a
+critical success they regain 2d8 stamina
+
+534
+00:11:15,889 --> 00:11:15,899
+critical success they regain 2d8 stamina
+ 
+
+535
+00:11:15,899 --> 00:11:18,530
+critical success they regain 2d8 stamina
+points and on a failure nothing happens
+
+536
+00:11:18,530 --> 00:11:18,540
+points and on a failure nothing happens
+ 
+
+537
+00:11:18,540 --> 00:11:21,650
+points and on a failure nothing happens
+and on a critical failure they suffer
+
+538
+00:11:21,650 --> 00:11:21,660
+and on a critical failure they suffer
+ 
+
+539
+00:11:21,660 --> 00:11:24,470
+and on a critical failure they suffer
+1d8 mental damage that can only be
+
+540
+00:11:24,470 --> 00:11:24,480
+1d8 mental damage that can only be
+ 
+
+541
+00:11:24,480 --> 00:11:26,329
+1d8 mental damage that can only be
+applied to stamina
+
+542
+00:11:26,329 --> 00:11:26,339
+applied to stamina
+ 
+
+543
+00:11:26,339 --> 00:11:28,430
+applied to stamina
+no matter what the result of the check
+
+544
+00:11:28,430 --> 00:11:28,440
+no matter what the result of the check
+ 
+
+545
+00:11:28,440 --> 00:11:31,030
+no matter what the result of the check
+is the target of encouraging words
+
+546
+00:11:31,030 --> 00:11:31,040
+is the target of encouraging words
+ 
+
+547
+00:11:31,040 --> 00:11:34,250
+is the target of encouraging words
+cannot benefit from it again until they
+
+548
+00:11:34,250 --> 00:11:34,260
+cannot benefit from it again until they
+ 
+
+549
+00:11:34,260 --> 00:11:37,009
+cannot benefit from it again until they
+either use the takey Breather action or
+
+550
+00:11:37,009 --> 00:11:37,019
+either use the takey Breather action or
+ 
+
+551
+00:11:37,019 --> 00:11:38,509
+either use the takey Breather action or
+they get a night's rest
+
+552
+00:11:38,509 --> 00:11:38,519
+they get a night's rest
+ 
+
+553
+00:11:38,519 --> 00:11:40,250
+they get a night's rest
+note that this is slightly different
+
+554
+00:11:40,250 --> 00:11:40,260
+note that this is slightly different
+ 
+
+555
+00:11:40,260 --> 00:11:43,130
+note that this is slightly different
+than how battle medicine works when you
+
+556
+00:11:43,130 --> 00:11:43,140
+than how battle medicine works when you
+ 
+
+557
+00:11:43,140 --> 00:11:45,530
+than how battle medicine works when you
+use battle medicine the target becomes
+
+558
+00:11:45,530 --> 00:11:45,540
+use battle medicine the target becomes
+ 
+
+559
+00:11:45,540 --> 00:11:48,650
+use battle medicine the target becomes
+immune to your battle medicine for the
+
+560
+00:11:48,650 --> 00:11:48,660
+immune to your battle medicine for the
+ 
+
+561
+00:11:48,660 --> 00:11:50,990
+immune to your battle medicine for the
+rest of the day whereas with encouraging
+
+562
+00:11:50,990 --> 00:11:51,000
+rest of the day whereas with encouraging
+ 
+
+563
+00:11:51,000 --> 00:11:53,389
+rest of the day whereas with encouraging
+words the target becomes temporarily
+
+564
+00:11:53,389 --> 00:11:53,399
+words the target becomes temporarily
+ 
+
+565
+00:11:53,399 --> 00:11:55,850
+words the target becomes temporarily
+immune to anyone's future use of
+
+566
+00:11:55,850 --> 00:11:55,860
+immune to anyone's future use of
+ 
+
+567
+00:11:55,860 --> 00:11:57,889
+immune to anyone's future use of
+encouraging words until they get a full
+
+568
+00:11:57,889 --> 00:11:57,899
+encouraging words until they get a full
+ 
+
+569
+00:11:57,899 --> 00:11:59,990
+encouraging words until they get a full
+night's rest or use the take a breather
+
+570
+00:11:59,990 --> 00:12:00,000
+night's rest or use the take a breather
+ 
+
+571
+00:12:00,000 --> 00:12:02,990
+night's rest or use the take a breather
+action and just like with treat wounds
+
+572
+00:12:02,990 --> 00:12:03,000
+action and just like with treat wounds
+ 
+
+573
+00:12:03,000 --> 00:12:05,630
+action and just like with treat wounds
+or battle medicine if you are at least
+
+574
+00:12:05,630 --> 00:12:05,640
+or battle medicine if you are at least
+ 
+
+575
+00:12:05,640 --> 00:12:08,449
+or battle medicine if you are at least
+expert Proficiency in diplomacy you can
+
+576
+00:12:08,449 --> 00:12:08,459
+expert Proficiency in diplomacy you can
+ 
+
+577
+00:12:08,459 --> 00:12:10,430
+expert Proficiency in diplomacy you can
+choose to increase the DC of the check
+
+578
+00:12:10,430 --> 00:12:10,440
+choose to increase the DC of the check
+ 
+
+579
+00:12:10,440 --> 00:12:14,389
+choose to increase the DC of the check
+for more healing a dc-20 check heals an
+
+580
+00:12:14,389 --> 00:12:14,399
+for more healing a dc-20 check heals an
+ 
+
+581
+00:12:14,399 --> 00:12:17,509
+for more healing a dc-20 check heals an
+extra five stamina points a DC 30 chick
+
+582
+00:12:17,509 --> 00:12:17,519
+extra five stamina points a DC 30 chick
+ 
+
+583
+00:12:17,519 --> 00:12:20,990
+extra five stamina points a DC 30 chick
+heals an extra 15 stamina points and a
+
+584
+00:12:20,990 --> 00:12:21,000
+heals an extra 15 stamina points and a
+ 
+
+585
+00:12:21,000 --> 00:12:24,590
+heals an extra 15 stamina points and a
+DC40 check heals an extra 25 stamina
+
+586
+00:12:24,590 --> 00:12:24,600
+DC40 check heals an extra 25 stamina
+ 
+
+587
+00:12:24,600 --> 00:12:25,670
+DC40 check heals an extra 25 stamina
+points
+
+588
+00:12:25,670 --> 00:12:25,680
+points
+ 
+
+589
+00:12:25,680 --> 00:12:28,069
+points
+and the second feat that allows the
+
+590
+00:12:28,069 --> 00:12:28,079
+and the second feat that allows the
+ 
+
+591
+00:12:28,079 --> 00:12:30,110
+and the second feat that allows the
+character to heal stamina during an
+
+592
+00:12:30,110 --> 00:12:30,120
+character to heal stamina during an
+ 
+
+593
+00:12:30,120 --> 00:12:33,590
+character to heal stamina during an
+encounter is steal your resolve this is
+
+594
+00:12:33,590 --> 00:12:33,600
+encounter is steal your resolve this is
+ 
+
+595
+00:12:33,600 --> 00:12:36,230
+encounter is steal your resolve this is
+a third level feat and with it a player
+
+596
+00:12:36,230 --> 00:12:36,240
+a third level feat and with it a player
+ 
+
+597
+00:12:36,240 --> 00:12:39,230
+a third level feat and with it a player
+may spend one action and one resolve
+
+598
+00:12:39,230 --> 00:12:39,240
+may spend one action and one resolve
+ 
+
+599
+00:12:39,240 --> 00:12:41,810
+may spend one action and one resolve
+point to regain an amount of stand-up
+
+600
+00:12:41,810 --> 00:12:41,820
+point to regain an amount of stand-up
+ 
+
+601
+00:12:41,820 --> 00:12:43,910
+point to regain an amount of stand-up
+points equal to half their maximum
+
+602
+00:12:43,910 --> 00:12:43,920
+points equal to half their maximum
+ 
+
+603
+00:12:43,920 --> 00:12:47,090
+points equal to half their maximum
+stamina this is half as effective as
+
+604
+00:12:47,090 --> 00:12:47,100
+stamina this is half as effective as
+ 
+
+605
+00:12:47,100 --> 00:12:49,550
+stamina this is half as effective as
+take a breather but may be used in the
+
+606
+00:12:49,550 --> 00:12:49,560
+take a breather but may be used in the
+ 
+
+607
+00:12:49,560 --> 00:12:52,790
+take a breather but may be used in the
+middle of combat for one action
+
+608
+00:12:52,790 --> 00:12:52,800
+middle of combat for one action
+ 
+
+609
+00:12:52,800 --> 00:12:55,250
+middle of combat for one action
+so there's a look at the optional
+
+610
+00:12:55,250 --> 00:12:55,260
+so there's a look at the optional
+ 
+
+611
+00:12:55,260 --> 00:12:57,350
+so there's a look at the optional
+stamina system for Pathfinder second
+
+612
+00:12:57,350 --> 00:12:57,360
+stamina system for Pathfinder second
+ 
+
+613
+00:12:57,360 --> 00:12:59,329
+stamina system for Pathfinder second
+edition if you have any questions please
+
+614
+00:12:59,329 --> 00:12:59,339
+edition if you have any questions please
+ 
+
+615
+00:12:59,339 --> 00:13:01,129
+edition if you have any questions please
+leave them in the comments I'll leave
+
+616
+00:13:01,129 --> 00:13:01,139
+leave them in the comments I'll leave
+ 
+
+617
+00:13:01,139 --> 00:13:02,930
+leave them in the comments I'll leave
+the links in the description of any of
+
+618
+00:13:02,930 --> 00:13:02,940
+the links in the description of any of
+ 
+
+619
+00:13:02,940 --> 00:13:04,970
+the links in the description of any of
+my other videos related to health and
+
+620
+00:13:04,970 --> 00:13:04,980
+my other videos related to health and
+ 
+
+621
+00:13:04,980 --> 00:13:07,430
+my other videos related to health and
+hit points and as always I want to take
+
+622
+00:13:07,430 --> 00:13:07,440
+hit points and as always I want to take
+ 
+
+623
+00:13:07,440 --> 00:13:09,110
+hit points and as always I want to take
+a quick moment to thank everyone out
+
+624
+00:13:09,110 --> 00:13:09,120
+a quick moment to thank everyone out
+ 
+
+625
+00:13:09,120 --> 00:13:11,329
+a quick moment to thank everyone out
+there who supports me whether that's by
+
+626
+00:13:11,329 --> 00:13:11,339
+there who supports me whether that's by
+ 
+
+627
+00:13:11,339 --> 00:13:13,129
+there who supports me whether that's by
+liking this video subscribing to the
+
+628
+00:13:13,129 --> 00:13:13,139
+liking this video subscribing to the
+ 
+
+629
+00:13:13,139 --> 00:13:14,750
+liking this video subscribing to the
+channel subscribing to the patreon
+
+630
+00:13:14,750 --> 00:13:14,760
+channel subscribing to the patreon
+ 
+
+631
+00:13:14,760 --> 00:13:16,610
+channel subscribing to the patreon
+buying a super thanks I greatly
+
+632
+00:13:16,610 --> 00:13:16,620
+buying a super thanks I greatly
+ 
+
+633
+00:13:16,620 --> 00:13:18,110
+buying a super thanks I greatly
+appreciate everything you folks do to
+
+634
+00:13:18,110 --> 00:13:18,120
+appreciate everything you folks do to
+ 
+
+635
+00:13:18,120 --> 00:13:20,030
+appreciate everything you folks do to
+support me and with that thanks for
+
+636
+00:13:20,030 --> 00:13:20,040
+support me and with that thanks for
+ 
+
+637
+00:13:20,040 --> 00:13:22,310
+support me and with that thanks for
+watching take care and happy gaming
+
+638
+00:13:22,310 --> 00:13:22,320
+watching take care and happy gaming
+ 
+
+639
+00:13:22,320 --> 00:13:25,670
+watching take care and happy gaming
+foreign
+
+640
+00:13:25,670 --> 00:13:25,680
+
+ 
+
+641
+00:13:25,680 --> 00:13:30,090
+
+[Music]
+

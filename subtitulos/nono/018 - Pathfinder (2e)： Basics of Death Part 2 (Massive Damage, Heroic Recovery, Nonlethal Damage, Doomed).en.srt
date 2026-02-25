@@ -1,0 +1,2215 @@
+1
+00:00:00,560 --> 00:00:02,830
+
+hello and welcome to basics for gamers
+
+2
+00:00:02,830 --> 00:00:02,840
+hello and welcome to basics for gamers
+ 
+
+3
+00:00:02,840 --> 00:00:05,559
+hello and welcome to basics for gamers
+presents part 2 of the basics of death
+
+4
+00:00:05,559 --> 00:00:05,569
+presents part 2 of the basics of death
+ 
+
+5
+00:00:05,569 --> 00:00:08,500
+presents part 2 of the basics of death
+in Pathfinder 2nd edition in the last
+
+6
+00:00:08,500 --> 00:00:08,510
+in Pathfinder 2nd edition in the last
+ 
+
+7
+00:00:08,510 --> 00:00:10,990
+in Pathfinder 2nd edition in the last
+video we discussed the basic process for
+
+8
+00:00:10,990 --> 00:00:11,000
+video we discussed the basic process for
+ 
+
+9
+00:00:11,000 --> 00:00:13,270
+video we discussed the basic process for
+determining when a character dies and in
+
+10
+00:00:13,270 --> 00:00:13,280
+determining when a character dies and in
+ 
+
+11
+00:00:13,280 --> 00:00:15,130
+determining when a character dies and in
+this video we're going to expand on that
+
+12
+00:00:15,130 --> 00:00:15,140
+this video we're going to expand on that
+ 
+
+13
+00:00:15,140 --> 00:00:17,740
+this video we're going to expand on that
+with a number of topics starting with
+
+14
+00:00:17,740 --> 00:00:17,750
+with a number of topics starting with
+ 
+
+15
+00:00:17,750 --> 00:00:22,120
+with a number of topics starting with
+ongoing effects
+
+16
+00:00:22,120 --> 00:00:22,130
+
+ 
+
+17
+00:00:22,130 --> 00:00:24,249
+
+one of the biggest questions about death
+
+18
+00:00:24,249 --> 00:00:24,259
+one of the biggest questions about death
+ 
+
+19
+00:00:24,259 --> 00:00:26,830
+one of the biggest questions about death
+and Pathfinder is what happens to all of
+
+20
+00:00:26,830 --> 00:00:26,840
+and Pathfinder is what happens to all of
+ 
+
+21
+00:00:26,840 --> 00:00:29,200
+and Pathfinder is what happens to all of
+my conditions in other effects when I
+
+22
+00:00:29,200 --> 00:00:29,210
+my conditions in other effects when I
+ 
+
+23
+00:00:29,210 --> 00:00:31,509
+my conditions in other effects when I
+get knocked unconscious for example if
+
+24
+00:00:31,509 --> 00:00:31,519
+get knocked unconscious for example if
+ 
+
+25
+00:00:31,519 --> 00:00:34,090
+get knocked unconscious for example if
+I'm a wizard and have spills active do
+
+26
+00:00:34,090 --> 00:00:34,100
+I'm a wizard and have spills active do
+ 
+
+27
+00:00:34,100 --> 00:00:35,830
+I'm a wizard and have spills active do
+they remain active while I'm knocked out
+
+28
+00:00:35,830 --> 00:00:35,840
+they remain active while I'm knocked out
+ 
+
+29
+00:00:35,840 --> 00:00:39,670
+they remain active while I'm knocked out
+in making recovery chicks once a spell
+
+30
+00:00:39,670 --> 00:00:39,680
+in making recovery chicks once a spell
+ 
+
+31
+00:00:39,680 --> 00:00:42,040
+in making recovery chicks once a spell
+is cast it lasts until is listed
+
+32
+00:00:42,040 --> 00:00:42,050
+is cast it lasts until is listed
+ 
+
+33
+00:00:42,050 --> 00:00:44,770
+is cast it lasts until is listed
+duration ends let's look at wall afire
+
+34
+00:00:44,770 --> 00:00:44,780
+duration ends let's look at wall afire
+ 
+
+35
+00:00:44,780 --> 00:00:47,500
+duration ends let's look at wall afire
+we see here it has a duration of one
+
+36
+00:00:47,500 --> 00:00:47,510
+we see here it has a duration of one
+ 
+
+37
+00:00:47,510 --> 00:00:50,170
+we see here it has a duration of one
+minute so if you cast wall of fire and
+
+38
+00:00:50,170 --> 00:00:50,180
+minute so if you cast wall of fire and
+ 
+
+39
+00:00:50,180 --> 00:00:52,479
+minute so if you cast wall of fire and
+then get reduced to zero hit points or
+
+40
+00:00:52,479 --> 00:00:52,489
+then get reduced to zero hit points or
+ 
+
+41
+00:00:52,489 --> 00:00:55,539
+then get reduced to zero hit points or
+even if you die then that death will
+
+42
+00:00:55,539 --> 00:00:55,549
+even if you die then that death will
+ 
+
+43
+00:00:55,549 --> 00:00:58,179
+even if you die then that death will
+have no effect on the wall it will
+
+44
+00:00:58,179 --> 00:00:58,189
+have no effect on the wall it will
+ 
+
+45
+00:00:58,189 --> 00:01:00,759
+have no effect on the wall it will
+persist until one minute has passed from
+
+46
+00:01:00,759 --> 00:01:00,769
+persist until one minute has passed from
+ 
+
+47
+00:01:00,769 --> 00:01:03,340
+persist until one minute has passed from
+the moment that you cast it but on the
+
+48
+00:01:03,340 --> 00:01:03,350
+the moment that you cast it but on the
+ 
+
+49
+00:01:03,350 --> 00:01:06,100
+the moment that you cast it but on the
+other hand let's say you cast protectors
+
+50
+00:01:06,100 --> 00:01:06,110
+other hand let's say you cast protectors
+ 
+
+51
+00:01:06,110 --> 00:01:08,399
+other hand let's say you cast protectors
+sphere and then get knocked unconscious
+
+52
+00:01:08,399 --> 00:01:08,409
+sphere and then get knocked unconscious
+ 
+
+53
+00:01:08,409 --> 00:01:11,469
+sphere and then get knocked unconscious
+does that mean the sphere goes away and
+
+54
+00:01:11,469 --> 00:01:11,479
+does that mean the sphere goes away and
+ 
+
+55
+00:01:11,479 --> 00:01:13,469
+does that mean the sphere goes away and
+your allies lose their damage resistance
+
+56
+00:01:13,469 --> 00:01:13,479
+your allies lose their damage resistance
+ 
+
+57
+00:01:13,479 --> 00:01:16,149
+your allies lose their damage resistance
+well if we look at its duration we see
+
+58
+00:01:16,149 --> 00:01:16,159
+well if we look at its duration we see
+ 
+
+59
+00:01:16,159 --> 00:01:18,899
+well if we look at its duration we see
+it says sustained up to one minute
+
+60
+00:01:18,899 --> 00:01:18,909
+it says sustained up to one minute
+ 
+
+61
+00:01:18,909 --> 00:01:22,390
+it says sustained up to one minute
+sustain means the spell ends at the end
+
+62
+00:01:22,390 --> 00:01:22,400
+sustain means the spell ends at the end
+ 
+
+63
+00:01:22,400 --> 00:01:25,480
+sustain means the spell ends at the end
+of your next turn unless you use an
+
+64
+00:01:25,480 --> 00:01:25,490
+of your next turn unless you use an
+ 
+
+65
+00:01:25,490 --> 00:01:27,429
+of your next turn unless you use an
+action to sustain it for another round
+
+66
+00:01:27,429 --> 00:01:27,439
+action to sustain it for another round
+ 
+
+67
+00:01:27,439 --> 00:01:31,059
+action to sustain it for another round
+in the case of protector sphere it can
+
+68
+00:01:31,059 --> 00:01:31,069
+in the case of protector sphere it can
+ 
+
+69
+00:01:31,069 --> 00:01:32,919
+in the case of protector sphere it can
+be sustained up to one minute
+
+70
+00:01:32,919 --> 00:01:32,929
+be sustained up to one minute
+ 
+
+71
+00:01:32,929 --> 00:01:35,559
+be sustained up to one minute
+so we'll say you cast the sphere and
+
+72
+00:01:35,559 --> 00:01:35,569
+so we'll say you cast the sphere and
+ 
+
+73
+00:01:35,569 --> 00:01:37,959
+so we'll say you cast the sphere and
+then get reduced to zero hit points in
+
+74
+00:01:37,959 --> 00:01:37,969
+then get reduced to zero hit points in
+ 
+
+75
+00:01:37,969 --> 00:01:40,870
+then get reduced to zero hit points in
+knocked unconscious the sphere does not
+
+76
+00:01:40,870 --> 00:01:40,880
+knocked unconscious the sphere does not
+ 
+
+77
+00:01:40,880 --> 00:01:43,899
+knocked unconscious the sphere does not
+go away immediately and instead it
+
+78
+00:01:43,899 --> 00:01:43,909
+go away immediately and instead it
+ 
+
+79
+00:01:43,909 --> 00:01:46,989
+go away immediately and instead it
+continues to operate until the end of
+
+80
+00:01:46,989 --> 00:01:46,999
+continues to operate until the end of
+ 
+
+81
+00:01:46,999 --> 00:01:49,389
+continues to operate until the end of
+your next turn which should be a full
+
+82
+00:01:49,389 --> 00:01:49,399
+your next turn which should be a full
+ 
+
+83
+00:01:49,399 --> 00:01:50,830
+your next turn which should be a full
+round because when you're not
+
+84
+00:01:50,830 --> 00:01:50,840
+round because when you're not
+ 
+
+85
+00:01:50,840 --> 00:01:53,050
+round because when you're not
+unconscious your place and initiative is
+
+86
+00:01:53,050 --> 00:01:53,060
+unconscious your place and initiative is
+ 
+
+87
+00:01:53,060 --> 00:01:55,569
+unconscious your place and initiative is
+moved to immediately before the turn in
+
+88
+00:01:55,569 --> 00:01:55,579
+moved to immediately before the turn in
+ 
+
+89
+00:01:55,579 --> 00:01:57,639
+moved to immediately before the turn in
+which you are reduced to zero hit points
+
+90
+00:01:57,639 --> 00:01:57,649
+which you are reduced to zero hit points
+ 
+
+91
+00:01:57,649 --> 00:02:00,879
+which you are reduced to zero hit points
+if someone heals you before then so you
+
+92
+00:02:00,879 --> 00:02:00,889
+if someone heals you before then so you
+ 
+
+93
+00:02:00,889 --> 00:02:03,309
+if someone heals you before then so you
+have hit points in our conscious you
+
+94
+00:02:03,309 --> 00:02:03,319
+have hit points in our conscious you
+ 
+
+95
+00:02:03,319 --> 00:02:05,440
+have hit points in our conscious you
+can't sustain the spell on your next
+
+96
+00:02:05,440 --> 00:02:05,450
+can't sustain the spell on your next
+ 
+
+97
+00:02:05,450 --> 00:02:08,620
+can't sustain the spell on your next
+turn just like normal but if your next
+
+98
+00:02:08,620 --> 00:02:08,630
+turn just like normal but if your next
+ 
+
+99
+00:02:08,630 --> 00:02:10,210
+turn just like normal but if your next
+turn comes around and you're still
+
+100
+00:02:10,210 --> 00:02:10,220
+turn comes around and you're still
+ 
+
+101
+00:02:10,220 --> 00:02:12,790
+turn comes around and you're still
+unconscious then the sphere will go away
+
+102
+00:02:12,790 --> 00:02:12,800
+unconscious then the sphere will go away
+ 
+
+103
+00:02:12,800 --> 00:02:15,640
+unconscious then the sphere will go away
+and everyone will lose their dr at the
+
+104
+00:02:15,640 --> 00:02:15,650
+and everyone will lose their dr at the
+ 
+
+105
+00:02:15,650 --> 00:02:18,699
+and everyone will lose their dr at the
+end of that turn that's what happens to
+
+106
+00:02:18,699 --> 00:02:18,709
+end of that turn that's what happens to
+ 
+
+107
+00:02:18,709 --> 00:02:19,990
+end of that turn that's what happens to
+use spell effects when you're knocked
+
+108
+00:02:19,990 --> 00:02:20,000
+use spell effects when you're knocked
+ 
+
+109
+00:02:20,000 --> 00:02:22,870
+use spell effects when you're knocked
+out but what about afflictions well if
+
+110
+00:02:22,870 --> 00:02:22,880
+out but what about afflictions well if
+ 
+
+111
+00:02:22,880 --> 00:02:24,670
+out but what about afflictions well if
+you're suffering damage every round from
+
+112
+00:02:24,670 --> 00:02:24,680
+you're suffering damage every round from
+ 
+
+113
+00:02:24,680 --> 00:02:27,280
+you're suffering damage every round from
+a poison and full unconscious bad news
+
+114
+00:02:27,280 --> 00:02:27,290
+a poison and full unconscious bad news
+ 
+
+115
+00:02:27,290 --> 00:02:29,380
+a poison and full unconscious bad news
+but that poison is going to continue
+
+116
+00:02:29,380 --> 00:02:29,390
+but that poison is going to continue
+ 
+
+117
+00:02:29,390 --> 00:02:31,540
+but that poison is going to continue
+damaging you every round until you
+
+118
+00:02:31,540 --> 00:02:31,550
+damaging you every round until you
+ 
+
+119
+00:02:31,550 --> 00:02:33,880
+damaging you every round until you
+succeed under saving throws or its
+
+120
+00:02:33,880 --> 00:02:33,890
+succeed under saving throws or its
+ 
+
+121
+00:02:33,890 --> 00:02:35,680
+succeed under saving throws or its
+maximum duration passes
+
+122
+00:02:35,680 --> 00:02:35,690
+maximum duration passes
+ 
+
+123
+00:02:35,690 --> 00:02:38,140
+maximum duration passes
+and Amy's totals don't matter while
+
+124
+00:02:38,140 --> 00:02:38,150
+and Amy's totals don't matter while
+ 
+
+125
+00:02:38,150 --> 00:02:40,300
+and Amy's totals don't matter while
+you're on college isn't dying so this
+
+126
+00:02:40,300 --> 00:02:40,310
+you're on college isn't dying so this
+ 
+
+127
+00:02:40,310 --> 00:02:42,250
+you're on college isn't dying so this
+would just increase the value of your
+
+128
+00:02:42,250 --> 00:02:42,260
+would just increase the value of your
+ 
+
+129
+00:02:42,260 --> 00:02:45,250
+would just increase the value of your
+dying condition like normal and the same
+
+130
+00:02:45,250 --> 00:02:45,260
+dying condition like normal and the same
+ 
+
+131
+00:02:45,260 --> 00:02:47,410
+dying condition like normal and the same
+is true for persistent damage and other
+
+132
+00:02:47,410 --> 00:02:47,420
+is true for persistent damage and other
+ 
+
+133
+00:02:47,420 --> 00:02:49,690
+is true for persistent damage and other
+conditions like being paralyzed being
+
+134
+00:02:49,690 --> 00:02:49,700
+conditions like being paralyzed being
+ 
+
+135
+00:02:49,700 --> 00:02:51,670
+conditions like being paralyzed being
+knocked unconscious has no effect and
+
+136
+00:02:51,670 --> 00:02:51,680
+knocked unconscious has no effect and
+ 
+
+137
+00:02:51,680 --> 00:02:56,020
+knocked unconscious has no effect and
+they all continue as normal
+
+138
+00:02:56,020 --> 00:02:56,030
+
+ 
+
+139
+00:02:56,030 --> 00:02:58,510
+
+in the previous video we discussed the
+
+140
+00:02:58,510 --> 00:02:58,520
+in the previous video we discussed the
+ 
+
+141
+00:02:58,520 --> 00:03:00,460
+in the previous video we discussed the
+Dunning condition and the unfortunate
+
+142
+00:03:00,460 --> 00:03:00,470
+Dunning condition and the unfortunate
+ 
+
+143
+00:03:00,470 --> 00:03:02,770
+Dunning condition and the unfortunate
+result of reaching dying for is your
+
+144
+00:03:02,770 --> 00:03:02,780
+result of reaching dying for is your
+ 
+
+145
+00:03:02,780 --> 00:03:06,460
+result of reaching dying for is your
+death dying for is the default dying
+
+146
+00:03:06,460 --> 00:03:06,470
+death dying for is the default dying
+ 
+
+147
+00:03:06,470 --> 00:03:09,250
+death dying for is the default dying
+threshold but there are a couple ways to
+
+148
+00:03:09,250 --> 00:03:09,260
+threshold but there are a couple ways to
+ 
+
+149
+00:03:09,260 --> 00:03:12,160
+threshold but there are a couple ways to
+adjust that first is through the doomed
+
+150
+00:03:12,160 --> 00:03:12,170
+adjust that first is through the doomed
+ 
+
+151
+00:03:12,170 --> 00:03:14,920
+adjust that first is through the doomed
+condition when a character is suffering
+
+152
+00:03:14,920 --> 00:03:14,930
+condition when a character is suffering
+ 
+
+153
+00:03:14,930 --> 00:03:17,199
+condition when a character is suffering
+from the doom to condition their dying
+
+154
+00:03:17,199 --> 00:03:17,209
+from the doom to condition their dying
+ 
+
+155
+00:03:17,209 --> 00:03:20,410
+from the doom to condition their dying
+threshold is lowered by the value of the
+
+156
+00:03:20,410 --> 00:03:20,420
+threshold is lowered by the value of the
+ 
+
+157
+00:03:20,420 --> 00:03:23,140
+threshold is lowered by the value of the
+doomed condition so if you get struck by
+
+158
+00:03:23,140 --> 00:03:23,150
+doomed condition so if you get struck by
+ 
+
+159
+00:03:23,150 --> 00:03:26,970
+doomed condition so if you get struck by
+a Grim Reaper scythe you gain doomed 1
+
+160
+00:03:26,970 --> 00:03:26,980
+a Grim Reaper scythe you gain doomed 1
+ 
+
+161
+00:03:26,980 --> 00:03:30,220
+a Grim Reaper scythe you gain doomed 1
+this means you will die at dying 3
+
+162
+00:03:30,220 --> 00:03:30,230
+this means you will die at dying 3
+ 
+
+163
+00:03:30,230 --> 00:03:33,820
+this means you will die at dying 3
+instead of dying for if you get hit
+
+164
+00:03:33,820 --> 00:03:33,830
+instead of dying for if you get hit
+ 
+
+165
+00:03:33,830 --> 00:03:36,340
+instead of dying for if you get hit
+again you're doomed of value increases
+
+166
+00:03:36,340 --> 00:03:36,350
+again you're doomed of value increases
+ 
+
+167
+00:03:36,350 --> 00:03:39,610
+again you're doomed of value increases
+to doomed to which in turn means you'll
+
+168
+00:03:39,610 --> 00:03:39,620
+to doomed to which in turn means you'll
+ 
+
+169
+00:03:39,620 --> 00:03:43,270
+to doomed to which in turn means you'll
+die at dying too if you're dumb
+
+170
+00:03:43,270 --> 00:03:43,280
+die at dying too if you're dumb
+ 
+
+171
+00:03:43,280 --> 00:03:46,059
+die at dying too if you're dumb
+threshold is ever reduced to dying 0
+
+172
+00:03:46,059 --> 00:03:46,069
+threshold is ever reduced to dying 0
+ 
+
+173
+00:03:46,069 --> 00:03:49,090
+threshold is ever reduced to dying 0
+then you instantly die even if you have
+
+174
+00:03:49,090 --> 00:03:49,100
+then you instantly die even if you have
+ 
+
+175
+00:03:49,100 --> 00:03:52,420
+then you instantly die even if you have
+full hit points fortunately there is a
+
+176
+00:03:52,420 --> 00:03:52,430
+full hit points fortunately there is a
+ 
+
+177
+00:03:52,430 --> 00:03:54,400
+full hit points fortunately there is a
+way to move the dying threshold in the
+
+178
+00:03:54,400 --> 00:03:54,410
+way to move the dying threshold in the
+ 
+
+179
+00:03:54,410 --> 00:03:57,309
+way to move the dying threshold in the
+other direction - and that's with the
+
+180
+00:03:57,309 --> 00:03:57,319
+other direction - and that's with the
+ 
+
+181
+00:03:57,319 --> 00:04:00,250
+other direction - and that's with the
+die hard feat this is available to
+
+182
+00:04:00,250 --> 00:04:00,260
+die hard feat this is available to
+ 
+
+183
+00:04:00,260 --> 00:04:02,979
+die hard feat this is available to
+everyone at first level and raises the
+
+184
+00:04:02,979 --> 00:04:02,989
+everyone at first level and raises the
+ 
+
+185
+00:04:02,989 --> 00:04:05,500
+everyone at first level and raises the
+dying threshold so that you die at dying
+
+186
+00:04:05,500 --> 00:04:05,510
+dying threshold so that you die at dying
+ 
+
+187
+00:04:05,510 --> 00:04:10,120
+dying threshold so that you die at dying
+5 instead of dying for
+
+188
+00:04:10,120 --> 00:04:10,130
+
+ 
+
+189
+00:04:10,130 --> 00:04:12,730
+
+it's also possible to be killed in one
+
+190
+00:04:12,730 --> 00:04:12,740
+it's also possible to be killed in one
+ 
+
+191
+00:04:12,740 --> 00:04:14,890
+it's also possible to be killed in one
+hit without even dealing with the dying
+
+192
+00:04:14,890 --> 00:04:14,900
+hit without even dealing with the dying
+ 
+
+193
+00:04:14,900 --> 00:04:17,229
+hit without even dealing with the dying
+condition at all for example if you
+
+194
+00:04:17,229 --> 00:04:17,239
+condition at all for example if you
+ 
+
+195
+00:04:17,239 --> 00:04:20,290
+condition at all for example if you
+suffer massive damage when you suffer
+
+196
+00:04:20,290 --> 00:04:20,300
+suffer massive damage when you suffer
+ 
+
+197
+00:04:20,300 --> 00:04:24,400
+suffer massive damage when you suffer
+twice your maximum hit point you
+
+198
+00:04:24,400 --> 00:04:24,410
+twice your maximum hit point you
+ 
+
+199
+00:04:24,410 --> 00:04:28,120
+twice your maximum hit point you
+instantly die so if you're a first level
+
+200
+00:04:28,120 --> 00:04:28,130
+instantly die so if you're a first level
+ 
+
+201
+00:04:28,130 --> 00:04:30,730
+instantly die so if you're a first level
+character with 16 hit points and an
+
+202
+00:04:30,730 --> 00:04:30,740
+character with 16 hit points and an
+ 
+
+203
+00:04:30,740 --> 00:04:33,610
+character with 16 hit points and an
+enemy deals 32 points of damage in a
+
+204
+00:04:33,610 --> 00:04:33,620
+enemy deals 32 points of damage in a
+ 
+
+205
+00:04:33,620 --> 00:04:38,839
+enemy deals 32 points of damage in a
+single attack then you die instantly
+
+206
+00:04:38,839 --> 00:04:38,849
+single attack then you die instantly
+ 
+
+207
+00:04:38,849 --> 00:04:41,760
+single attack then you die instantly
+heroic recovery is one more option to
+
+208
+00:04:41,760 --> 00:04:41,770
+heroic recovery is one more option to
+ 
+
+209
+00:04:41,770 --> 00:04:44,309
+heroic recovery is one more option to
+save you from death if you have at least
+
+210
+00:04:44,309 --> 00:04:44,319
+save you from death if you have at least
+ 
+
+211
+00:04:44,319 --> 00:04:47,399
+save you from death if you have at least
+one hero point you can spend all of your
+
+212
+00:04:47,399 --> 00:04:47,409
+one hero point you can spend all of your
+ 
+
+213
+00:04:47,409 --> 00:04:50,399
+one hero point you can spend all of your
+hero points to stabilize when you do so
+
+214
+00:04:50,399 --> 00:04:50,409
+hero points to stabilize when you do so
+ 
+
+215
+00:04:50,409 --> 00:04:53,189
+hero points to stabilize when you do so
+you lose the die condition and remain as
+
+216
+00:04:53,189 --> 00:04:53,199
+you lose the die condition and remain as
+ 
+
+217
+00:04:53,199 --> 00:04:55,649
+you lose the die condition and remain as
+zero hit points but you do not have to
+
+218
+00:04:55,649 --> 00:04:55,659
+zero hit points but you do not have to
+ 
+
+219
+00:04:55,659 --> 00:04:58,230
+zero hit points but you do not have to
+make recovery checks also when
+
+220
+00:04:58,230 --> 00:04:58,240
+make recovery checks also when
+ 
+
+221
+00:04:58,240 --> 00:05:00,930
+make recovery checks also when
+recovering this way you do not increase
+
+222
+00:05:00,930 --> 00:05:00,940
+recovering this way you do not increase
+ 
+
+223
+00:05:00,940 --> 00:05:03,749
+recovering this way you do not increase
+your wounded value by 1 this is a very
+
+224
+00:05:03,749 --> 00:05:03,759
+your wounded value by 1 this is a very
+ 
+
+225
+00:05:03,759 --> 00:05:06,210
+your wounded value by 1 this is a very
+rare exception to the rule the states
+
+226
+00:05:06,210 --> 00:05:06,220
+rare exception to the rule the states
+ 
+
+227
+00:05:06,220 --> 00:05:08,040
+rare exception to the rule the states
+your wounded value increases by 1
+
+228
+00:05:08,040 --> 00:05:08,050
+your wounded value increases by 1
+ 
+
+229
+00:05:08,050 --> 00:05:10,399
+your wounded value increases by 1
+whenever you lose the dying condition
+
+230
+00:05:10,399 --> 00:05:10,409
+whenever you lose the dying condition
+ 
+
+231
+00:05:10,409 --> 00:05:12,869
+whenever you lose the dying condition
+this can be done at the start of your
+
+232
+00:05:12,869 --> 00:05:12,879
+this can be done at the start of your
+ 
+
+233
+00:05:12,879 --> 00:05:15,330
+this can be done at the start of your
+turn or whenever your dying condition
+
+234
+00:05:15,330 --> 00:05:15,340
+turn or whenever your dying condition
+ 
+
+235
+00:05:15,340 --> 00:05:18,659
+turn or whenever your dying condition
+would increase normally this is a last
+
+236
+00:05:18,659 --> 00:05:18,669
+would increase normally this is a last
+ 
+
+237
+00:05:18,669 --> 00:05:21,809
+would increase normally this is a last
+resort when you're at dying 3 and fail
+
+238
+00:05:21,809 --> 00:05:21,819
+resort when you're at dying 3 and fail
+ 
+
+239
+00:05:21,819 --> 00:05:23,490
+resort when you're at dying 3 and fail
+the recovery check at the start of your
+
+240
+00:05:23,490 --> 00:05:23,500
+the recovery check at the start of your
+ 
+
+241
+00:05:23,500 --> 00:05:25,650
+the recovery check at the start of your
+turn
+
+242
+00:05:25,650 --> 00:05:25,660
+turn
+ 
+
+243
+00:05:25,660 --> 00:05:29,310
+turn
+and not directly tied to death and dying
+
+244
+00:05:29,310 --> 00:05:29,320
+and not directly tied to death and dying
+ 
+
+245
+00:05:29,320 --> 00:05:31,800
+and not directly tied to death and dying
+but I thought this might be a good time
+
+246
+00:05:31,800 --> 00:05:31,810
+but I thought this might be a good time
+ 
+
+247
+00:05:31,810 --> 00:05:35,190
+but I thought this might be a good time
+to talk about non-lethal attacks most
+
+248
+00:05:35,190 --> 00:05:35,200
+to talk about non-lethal attacks most
+ 
+
+249
+00:05:35,200 --> 00:05:37,410
+to talk about non-lethal attacks most
+weapons are designed to kill but some
+
+250
+00:05:37,410 --> 00:05:37,420
+weapons are designed to kill but some
+ 
+
+251
+00:05:37,420 --> 00:05:39,210
+weapons are designed to kill but some
+are attended to incapacitate their
+
+252
+00:05:39,210 --> 00:05:39,220
+are attended to incapacitate their
+ 
+
+253
+00:05:39,220 --> 00:05:41,490
+are attended to incapacitate their
+enemies without killing them these
+
+254
+00:05:41,490 --> 00:05:41,500
+enemies without killing them these
+ 
+
+255
+00:05:41,500 --> 00:05:44,040
+enemies without killing them these
+weapons are noted with the non lethal
+
+256
+00:05:44,040 --> 00:05:44,050
+weapons are noted with the non lethal
+ 
+
+257
+00:05:44,050 --> 00:05:48,330
+weapons are noted with the non lethal
+trait and include fists SEPs whips and
+
+258
+00:05:48,330 --> 00:05:48,340
+trait and include fists SEPs whips and
+ 
+
+259
+00:05:48,340 --> 00:05:51,810
+trait and include fists SEPs whips and
+blow guns damage inflicted by a
+
+260
+00:05:51,810 --> 00:05:51,820
+blow guns damage inflicted by a
+ 
+
+261
+00:05:51,820 --> 00:05:54,570
+blow guns damage inflicted by a
+non-lethal weapon lowers their targets
+
+262
+00:05:54,570 --> 00:05:54,580
+non-lethal weapon lowers their targets
+ 
+
+263
+00:05:54,580 --> 00:05:56,730
+non-lethal weapon lowers their targets
+hip points just like being hit with any
+
+264
+00:05:56,730 --> 00:05:56,740
+hip points just like being hit with any
+ 
+
+265
+00:05:56,740 --> 00:05:59,880
+hip points just like being hit with any
+other weapon but if an attack from such
+
+266
+00:05:59,880 --> 00:05:59,890
+other weapon but if an attack from such
+ 
+
+267
+00:05:59,890 --> 00:06:02,340
+other weapon but if an attack from such
+a weapon reduces the target to zero hip
+
+268
+00:06:02,340 --> 00:06:02,350
+a weapon reduces the target to zero hip
+ 
+
+269
+00:06:02,350 --> 00:06:05,580
+a weapon reduces the target to zero hip
+points that target falls unconscious but
+
+270
+00:06:05,580 --> 00:06:05,590
+points that target falls unconscious but
+ 
+
+271
+00:06:05,590 --> 00:06:09,390
+points that target falls unconscious but
+does not gain the dying condition and
+
+272
+00:06:09,390 --> 00:06:09,400
+does not gain the dying condition and
+ 
+
+273
+00:06:09,400 --> 00:06:11,580
+does not gain the dying condition and
+other weapons can also be used to
+
+274
+00:06:11,580 --> 00:06:11,590
+other weapons can also be used to
+ 
+
+275
+00:06:11,590 --> 00:06:14,220
+other weapons can also be used to
+incapacitate an enemy by taking a
+
+276
+00:06:14,220 --> 00:06:14,230
+incapacitate an enemy by taking a
+ 
+
+277
+00:06:14,230 --> 00:06:16,530
+incapacitate an enemy by taking a
+negative to circumstance penalty to
+
+278
+00:06:16,530 --> 00:06:16,540
+negative to circumstance penalty to
+ 
+
+279
+00:06:16,540 --> 00:06:19,470
+negative to circumstance penalty to
+their attack roles so for example a
+
+280
+00:06:19,470 --> 00:06:19,480
+their attack roles so for example a
+ 
+
+281
+00:06:19,480 --> 00:06:21,930
+their attack roles so for example a
+fighter or wielding a longsword wishes
+
+282
+00:06:21,930 --> 00:06:21,940
+fighter or wielding a longsword wishes
+ 
+
+283
+00:06:21,940 --> 00:06:23,850
+fighter or wielding a longsword wishes
+to knock out a bandit so that they can
+
+284
+00:06:23,850 --> 00:06:23,860
+to knock out a bandit so that they can
+ 
+
+285
+00:06:23,860 --> 00:06:26,460
+to knock out a bandit so that they can
+question them later that fighter would
+
+286
+00:06:26,460 --> 00:06:26,470
+question them later that fighter would
+ 
+
+287
+00:06:26,470 --> 00:06:28,140
+question them later that fighter would
+try and strike the bandit in the head
+
+288
+00:06:28,140 --> 00:06:28,150
+try and strike the bandit in the head
+ 
+
+289
+00:06:28,150 --> 00:06:30,540
+try and strike the bandit in the head
+with the palm of their sword instead of
+
+290
+00:06:30,540 --> 00:06:30,550
+with the palm of their sword instead of
+ 
+
+291
+00:06:30,550 --> 00:06:32,850
+with the palm of their sword instead of
+stabbing them with the blade their
+
+292
+00:06:32,850 --> 00:06:32,860
+stabbing them with the blade their
+ 
+
+293
+00:06:32,860 --> 00:06:35,190
+stabbing them with the blade their
+attack role would suffer a negative -
+
+294
+00:06:35,190 --> 00:06:35,200
+attack role would suffer a negative -
+ 
+
+295
+00:06:35,200 --> 00:06:38,280
+attack role would suffer a negative -
+penalty but if successful would deal is
+
+296
+00:06:38,280 --> 00:06:38,290
+penalty but if successful would deal is
+ 
+
+297
+00:06:38,290 --> 00:06:41,430
+penalty but if successful would deal is
+normal damage and if that damage is
+
+298
+00:06:41,430 --> 00:06:41,440
+normal damage and if that damage is
+ 
+
+299
+00:06:41,440 --> 00:06:43,860
+normal damage and if that damage is
+enough to reduce the bandit to zero hit
+
+300
+00:06:43,860 --> 00:06:43,870
+enough to reduce the bandit to zero hit
+ 
+
+301
+00:06:43,870 --> 00:06:45,770
+enough to reduce the bandit to zero hit
+points they would fall unconscious
+
+302
+00:06:45,770 --> 00:06:45,780
+points they would fall unconscious
+ 
+
+303
+00:06:45,780 --> 00:06:50,080
+points they would fall unconscious
+instead of being killed
+
+304
+00:06:50,080 --> 00:06:50,090
+
+ 
+
+305
+00:06:50,090 --> 00:06:52,659
+
+in this video we discussed a few of the
+
+306
+00:06:52,659 --> 00:06:52,669
+in this video we discussed a few of the
+ 
+
+307
+00:06:52,669 --> 00:06:54,700
+in this video we discussed a few of the
+miscellaneous rules surrounding death
+
+308
+00:06:54,700 --> 00:06:54,710
+miscellaneous rules surrounding death
+ 
+
+309
+00:06:54,710 --> 00:06:57,250
+miscellaneous rules surrounding death
+and Pathfinder first when you fall
+
+310
+00:06:57,250 --> 00:06:57,260
+and Pathfinder first when you fall
+ 
+
+311
+00:06:57,260 --> 00:07:00,250
+and Pathfinder first when you fall
+unconscious any magical effects poisons
+
+312
+00:07:00,250 --> 00:07:00,260
+unconscious any magical effects poisons
+ 
+
+313
+00:07:00,260 --> 00:07:02,530
+unconscious any magical effects poisons
+curses or other ongoing effects or
+
+314
+00:07:02,530 --> 00:07:02,540
+curses or other ongoing effects or
+ 
+
+315
+00:07:02,540 --> 00:07:05,340
+curses or other ongoing effects or
+conditions do not instantly go away
+
+316
+00:07:05,340 --> 00:07:05,350
+conditions do not instantly go away
+ 
+
+317
+00:07:05,350 --> 00:07:08,500
+conditions do not instantly go away
+instead they progress as normal effects
+
+318
+00:07:08,500 --> 00:07:08,510
+instead they progress as normal effects
+ 
+
+319
+00:07:08,510 --> 00:07:10,960
+instead they progress as normal effects
+caused by magical spells will persist
+
+320
+00:07:10,960 --> 00:07:10,970
+caused by magical spells will persist
+ 
+
+321
+00:07:10,970 --> 00:07:13,900
+caused by magical spells will persist
+until their duration passes in the case
+
+322
+00:07:13,900 --> 00:07:13,910
+until their duration passes in the case
+ 
+
+323
+00:07:13,910 --> 00:07:16,030
+until their duration passes in the case
+of sustained spells they will persist
+
+324
+00:07:16,030 --> 00:07:16,040
+of sustained spells they will persist
+ 
+
+325
+00:07:16,040 --> 00:07:17,770
+of sustained spells they will persist
+until the end of the unconscious
+
+326
+00:07:17,770 --> 00:07:17,780
+until the end of the unconscious
+ 
+
+327
+00:07:17,780 --> 00:07:20,140
+until the end of the unconscious
+characters next turn if they regain
+
+328
+00:07:20,140 --> 00:07:20,150
+characters next turn if they regain
+ 
+
+329
+00:07:20,150 --> 00:07:22,540
+characters next turn if they regain
+consciousness before then they can spend
+
+330
+00:07:22,540 --> 00:07:22,550
+consciousness before then they can spend
+ 
+
+331
+00:07:22,550 --> 00:07:24,520
+consciousness before then they can spend
+an action to sustain the spell and keep
+
+332
+00:07:24,520 --> 00:07:24,530
+an action to sustain the spell and keep
+ 
+
+333
+00:07:24,530 --> 00:07:27,909
+an action to sustain the spell and keep
+it going as usual that a fault dying
+
+334
+00:07:27,909 --> 00:07:27,919
+it going as usual that a fault dying
+ 
+
+335
+00:07:27,919 --> 00:07:31,270
+it going as usual that a fault dying
+threshold is dying for meaning that when
+
+336
+00:07:31,270 --> 00:07:31,280
+threshold is dying for meaning that when
+ 
+
+337
+00:07:31,280 --> 00:07:32,740
+threshold is dying for meaning that when
+the value of your dying condition
+
+338
+00:07:32,740 --> 00:07:32,750
+the value of your dying condition
+ 
+
+339
+00:07:32,750 --> 00:07:36,070
+the value of your dying condition
+reaches four you die but there are a few
+
+340
+00:07:36,070 --> 00:07:36,080
+reaches four you die but there are a few
+ 
+
+341
+00:07:36,080 --> 00:07:38,710
+reaches four you die but there are a few
+ways to adjust this threshold including
+
+342
+00:07:38,710 --> 00:07:38,720
+ways to adjust this threshold including
+ 
+
+343
+00:07:38,720 --> 00:07:41,440
+ways to adjust this threshold including
+the doomed condition which lowers the
+
+344
+00:07:41,440 --> 00:07:41,450
+the doomed condition which lowers the
+ 
+
+345
+00:07:41,450 --> 00:07:44,140
+the doomed condition which lowers the
+dying threshold by the value of doomed
+
+346
+00:07:44,140 --> 00:07:44,150
+dying threshold by the value of doomed
+ 
+
+347
+00:07:44,150 --> 00:07:46,960
+dying threshold by the value of doomed
+and the dying threshold can be increased
+
+348
+00:07:46,960 --> 00:07:46,970
+and the dying threshold can be increased
+ 
+
+349
+00:07:46,970 --> 00:07:50,640
+and the dying threshold can be increased
+to five by taking the die hard feat a
+
+350
+00:07:50,640 --> 00:07:50,650
+to five by taking the die hard feat a
+ 
+
+351
+00:07:50,650 --> 00:07:53,469
+to five by taking the die hard feat a
+character instantly dies if they suffer
+
+352
+00:07:53,469 --> 00:07:53,479
+character instantly dies if they suffer
+ 
+
+353
+00:07:53,479 --> 00:07:56,469
+character instantly dies if they suffer
+massive damage massive damage occurs
+
+354
+00:07:56,469 --> 00:07:56,479
+massive damage massive damage occurs
+ 
+
+355
+00:07:56,479 --> 00:07:58,990
+massive damage massive damage occurs
+when a target suffers damage that is at
+
+356
+00:07:58,990 --> 00:07:59,000
+when a target suffers damage that is at
+ 
+
+357
+00:07:59,000 --> 00:08:01,510
+when a target suffers damage that is at
+least twice their maximum hit point
+
+358
+00:08:01,510 --> 00:08:01,520
+least twice their maximum hit point
+ 
+
+359
+00:08:01,520 --> 00:08:04,240
+least twice their maximum hit point
+total characters with the dying
+
+360
+00:08:04,240 --> 00:08:04,250
+total characters with the dying
+ 
+
+361
+00:08:04,250 --> 00:08:06,339
+total characters with the dying
+condition can avoid death by using
+
+362
+00:08:06,339 --> 00:08:06,349
+condition can avoid death by using
+ 
+
+363
+00:08:06,349 --> 00:08:09,190
+condition can avoid death by using
+heroic recovery they must have at least
+
+364
+00:08:09,190 --> 00:08:09,200
+heroic recovery they must have at least
+ 
+
+365
+00:08:09,200 --> 00:08:12,070
+heroic recovery they must have at least
+one hero point to do so and this costs
+
+366
+00:08:12,070 --> 00:08:12,080
+one hero point to do so and this costs
+ 
+
+367
+00:08:12,080 --> 00:08:14,620
+one hero point to do so and this costs
+all of the hero points they have but
+
+368
+00:08:14,620 --> 00:08:14,630
+all of the hero points they have but
+ 
+
+369
+00:08:14,630 --> 00:08:17,200
+all of the hero points they have but
+they will stabilize meaning they remain
+
+370
+00:08:17,200 --> 00:08:17,210
+they will stabilize meaning they remain
+ 
+
+371
+00:08:17,210 --> 00:08:19,540
+they will stabilize meaning they remain
+at zero hit points but lose the dying
+
+372
+00:08:19,540 --> 00:08:19,550
+at zero hit points but lose the dying
+ 
+
+373
+00:08:19,550 --> 00:08:22,540
+at zero hit points but lose the dying
+condition also characters do not
+
+374
+00:08:22,540 --> 00:08:22,550
+condition also characters do not
+ 
+
+375
+00:08:22,550 --> 00:08:25,060
+condition also characters do not
+increase their wounded value by one when
+
+376
+00:08:25,060 --> 00:08:25,070
+increase their wounded value by one when
+ 
+
+377
+00:08:25,070 --> 00:08:27,010
+increase their wounded value by one when
+losing the dying condition by using
+
+378
+00:08:27,010 --> 00:08:27,020
+losing the dying condition by using
+ 
+
+379
+00:08:27,020 --> 00:08:30,820
+losing the dying condition by using
+heroic recovery and last non-lethal
+
+380
+00:08:30,820 --> 00:08:30,830
+heroic recovery and last non-lethal
+ 
+
+381
+00:08:30,830 --> 00:08:33,519
+heroic recovery and last non-lethal
+attacks attacks made with weapons that
+
+382
+00:08:33,519 --> 00:08:33,529
+attacks attacks made with weapons that
+ 
+
+383
+00:08:33,529 --> 00:08:36,339
+attacks attacks made with weapons that
+have the non-lethal trait function like
+
+384
+00:08:36,339 --> 00:08:36,349
+have the non-lethal trait function like
+ 
+
+385
+00:08:36,349 --> 00:08:39,100
+have the non-lethal trait function like
+any other weapon except when they reduce
+
+386
+00:08:39,100 --> 00:08:39,110
+any other weapon except when they reduce
+ 
+
+387
+00:08:39,110 --> 00:08:42,370
+any other weapon except when they reduce
+a target to zero hit points that target
+
+388
+00:08:42,370 --> 00:08:42,380
+a target to zero hit points that target
+ 
+
+389
+00:08:42,380 --> 00:08:45,340
+a target to zero hit points that target
+falls unconscious but does not gain the
+
+390
+00:08:45,340 --> 00:08:45,350
+falls unconscious but does not gain the
+ 
+
+391
+00:08:45,350 --> 00:08:48,550
+falls unconscious but does not gain the
+dying condition and non-lethal attacks
+
+392
+00:08:48,550 --> 00:08:48,560
+dying condition and non-lethal attacks
+ 
+
+393
+00:08:48,560 --> 00:08:51,250
+dying condition and non-lethal attacks
+can be made by any weapon that does not
+
+394
+00:08:51,250 --> 00:08:51,260
+can be made by any weapon that does not
+ 
+
+395
+00:08:51,260 --> 00:08:54,160
+can be made by any weapon that does not
+have the non lethal trait by suffering a
+
+396
+00:08:54,160 --> 00:08:54,170
+have the non lethal trait by suffering a
+ 
+
+397
+00:08:54,170 --> 00:08:56,019
+have the non lethal trait by suffering a
+negative tooth penalty to their attack
+
+398
+00:08:56,019 --> 00:08:56,029
+negative tooth penalty to their attack
+ 
+
+399
+00:08:56,029 --> 00:08:58,210
+negative tooth penalty to their attack
+roles
+
+400
+00:08:58,210 --> 00:08:58,220
+roles
+ 
+
+401
+00:08:58,220 --> 00:09:00,400
+roles
+before we close I'd like to take a
+
+402
+00:09:00,400 --> 00:09:00,410
+before we close I'd like to take a
+ 
+
+403
+00:09:00,410 --> 00:09:02,860
+before we close I'd like to take a
+moment to thank all of our patrons these
+
+404
+00:09:02,860 --> 00:09:02,870
+moment to thank all of our patrons these
+ 
+
+405
+00:09:02,870 --> 00:09:04,630
+moment to thank all of our patrons these
+videos would not be possible without
+
+406
+00:09:04,630 --> 00:09:04,640
+videos would not be possible without
+ 
+
+407
+00:09:04,640 --> 00:09:07,470
+videos would not be possible without
+their continued generosity and support
+
+408
+00:09:07,470 --> 00:09:07,480
+their continued generosity and support
+ 
+
+409
+00:09:07,480 --> 00:09:10,300
+their continued generosity and support
+members of the basics for gamers patreon
+
+410
+00:09:10,300 --> 00:09:10,310
+members of the basics for gamers patreon
+ 
+
+411
+00:09:10,310 --> 00:09:12,520
+members of the basics for gamers patreon
+community receive special benefits like
+
+412
+00:09:12,520 --> 00:09:12,530
+community receive special benefits like
+ 
+
+413
+00:09:12,530 --> 00:09:14,350
+community receive special benefits like
+getting to vote on the topics that we
+
+414
+00:09:14,350 --> 00:09:14,360
+getting to vote on the topics that we
+ 
+
+415
+00:09:14,360 --> 00:09:16,570
+getting to vote on the topics that we
+cover in the future and also they get to
+
+416
+00:09:16,570 --> 00:09:16,580
+cover in the future and also they get to
+ 
+
+417
+00:09:16,580 --> 00:09:19,060
+cover in the future and also they get to
+see these videos one week and ad-free
+
+418
+00:09:19,060 --> 00:09:19,070
+see these videos one week and ad-free
+ 
+
+419
+00:09:19,070 --> 00:09:22,420
+see these videos one week and ad-free
+before everybody else visit the link
+
+420
+00:09:22,420 --> 00:09:22,430
+before everybody else visit the link
+ 
+
+421
+00:09:22,430 --> 00:09:24,160
+before everybody else visit the link
+shown on the left of the screen and in
+
+422
+00:09:24,160 --> 00:09:24,170
+shown on the left of the screen and in
+ 
+
+423
+00:09:24,170 --> 00:09:25,660
+shown on the left of the screen and in
+the description if you'd like to know
+
+424
+00:09:25,660 --> 00:09:25,670
+the description if you'd like to know
+ 
+
+425
+00:09:25,670 --> 00:09:28,330
+the description if you'd like to know
+more about becoming a patron if you
+
+426
+00:09:28,330 --> 00:09:28,340
+more about becoming a patron if you
+ 
+
+427
+00:09:28,340 --> 00:09:29,680
+more about becoming a patron if you
+would like to support this channel and
+
+428
+00:09:29,680 --> 00:09:29,690
+would like to support this channel and
+ 
+
+429
+00:09:29,690 --> 00:09:31,660
+would like to support this channel and
+help it grow the easiest way to do that
+
+430
+00:09:31,660 --> 00:09:31,670
+help it grow the easiest way to do that
+ 
+
+431
+00:09:31,670 --> 00:09:34,390
+help it grow the easiest way to do that
+is by subscribing and clicking the bell
+
+432
+00:09:34,390 --> 00:09:34,400
+is by subscribing and clicking the bell
+ 
+
+433
+00:09:34,400 --> 00:09:36,910
+is by subscribing and clicking the bell
+icon so you get notified when new videos
+
+434
+00:09:36,910 --> 00:09:36,920
+icon so you get notified when new videos
+ 
+
+435
+00:09:36,920 --> 00:09:39,340
+icon so you get notified when new videos
+release and we can always be reached
+
+436
+00:09:39,340 --> 00:09:39,350
+release and we can always be reached
+ 
+
+437
+00:09:39,350 --> 00:09:40,660
+release and we can always be reached
+through our Twitter and Facebook pages
+
+438
+00:09:40,660 --> 00:09:40,670
+through our Twitter and Facebook pages
+ 
+
+439
+00:09:40,670 --> 00:09:43,780
+through our Twitter and Facebook pages
+too thanks for watching take care and we
+
+440
+00:09:43,780 --> 00:09:43,790
+too thanks for watching take care and we
+ 
+
+441
+00:09:43,790 --> 00:09:45,580
+too thanks for watching take care and we
+will see you soon with more basics of
+
+442
+00:09:45,580 --> 00:09:45,590
+will see you soon with more basics of
+ 
+
+443
+00:09:45,590 --> 00:09:48,220
+will see you soon with more basics of
+Pathfinder
+

@@ -1,0 +1,3725 @@
+1
+00:00:00,630 --> 00:00:02,899
+
+hello and welcome to the basics of
+
+2
+00:00:02,899 --> 00:00:02,909
+hello and welcome to the basics of
+ 
+
+3
+00:00:02,909 --> 00:00:06,640
+hello and welcome to the basics of
+familiars in Pathfinder second edition
+
+4
+00:00:06,640 --> 00:00:06,650
+familiars in Pathfinder second edition
+ 
+
+5
+00:00:06,650 --> 00:00:09,190
+familiars in Pathfinder second edition
+familiars are specialized animals that
+
+6
+00:00:09,190 --> 00:00:09,200
+familiars are specialized animals that
+ 
+
+7
+00:00:09,200 --> 00:00:11,110
+familiars are specialized animals that
+are magically bonded to their masters
+
+8
+00:00:11,110 --> 00:00:11,120
+are magically bonded to their masters
+ 
+
+9
+00:00:11,120 --> 00:00:14,049
+are magically bonded to their masters
+they typically are common animals like a
+
+10
+00:00:14,049 --> 00:00:14,059
+they typically are common animals like a
+ 
+
+11
+00:00:14,059 --> 00:00:16,990
+they typically are common animals like a
+witch's cat or a Wizards owl but can
+
+12
+00:00:16,990 --> 00:00:17,000
+witch's cat or a Wizards owl but can
+ 
+
+13
+00:00:17,000 --> 00:00:19,570
+witch's cat or a Wizards owl but can
+also be for more unusual creatures like
+
+14
+00:00:19,570 --> 00:00:19,580
+also be for more unusual creatures like
+ 
+
+15
+00:00:19,580 --> 00:00:22,570
+also be for more unusual creatures like
+a druids leshi familiars are typically
+
+16
+00:00:22,570 --> 00:00:22,580
+a druids leshi familiars are typically
+ 
+
+17
+00:00:22,580 --> 00:00:24,790
+a druids leshi familiars are typically
+gained through class feats such as the
+
+18
+00:00:24,790 --> 00:00:24,800
+gained through class feats such as the
+ 
+
+19
+00:00:24,800 --> 00:00:26,710
+gained through class feats such as the
+familiar feet which may be taken at
+
+20
+00:00:26,710 --> 00:00:26,720
+familiar feet which may be taken at
+ 
+
+21
+00:00:26,720 --> 00:00:28,540
+familiar feet which may be taken at
+first level by alchemists druids
+
+22
+00:00:28,540 --> 00:00:28,550
+first level by alchemists druids
+ 
+
+23
+00:00:28,550 --> 00:00:31,240
+first level by alchemists druids
+sorcerers and wizards and let me just
+
+24
+00:00:31,240 --> 00:00:31,250
+sorcerers and wizards and let me just
+ 
+
+25
+00:00:31,250 --> 00:00:34,060
+sorcerers and wizards and let me just
+get this out of the way at the start the
+
+26
+00:00:34,060 --> 00:00:34,070
+get this out of the way at the start the
+ 
+
+27
+00:00:34,070 --> 00:00:37,360
+get this out of the way at the start the
+first rule of familiars is that stat
+
+28
+00:00:37,360 --> 00:00:37,370
+first rule of familiars is that stat
+ 
+
+29
+00:00:37,370 --> 00:00:41,169
+first rule of familiars is that stat
+blocks do not matter there may be times
+
+30
+00:00:41,169 --> 00:00:41,179
+blocks do not matter there may be times
+ 
+
+31
+00:00:41,179 --> 00:00:43,029
+blocks do not matter there may be times
+when you have a question about what your
+
+32
+00:00:43,029 --> 00:00:43,039
+when you have a question about what your
+ 
+
+33
+00:00:43,039 --> 00:00:45,880
+when you have a question about what your
+familiar can do like what the damage for
+
+34
+00:00:45,880 --> 00:00:45,890
+familiar can do like what the damage for
+ 
+
+35
+00:00:45,890 --> 00:00:48,160
+familiar can do like what the damage for
+their attacks are and you might want to
+
+36
+00:00:48,160 --> 00:00:48,170
+their attacks are and you might want to
+ 
+
+37
+00:00:48,170 --> 00:00:50,229
+their attacks are and you might want to
+go look up the stat block for that
+
+38
+00:00:50,229 --> 00:00:50,239
+go look up the stat block for that
+ 
+
+39
+00:00:50,239 --> 00:00:53,169
+go look up the stat block for that
+familiars animal type but don't do it
+
+40
+00:00:53,169 --> 00:00:53,179
+familiars animal type but don't do it
+ 
+
+41
+00:00:53,179 --> 00:00:56,680
+familiars animal type but don't do it
+because rule number one stat blocks do
+
+42
+00:00:56,680 --> 00:00:56,690
+because rule number one stat blocks do
+ 
+
+43
+00:00:56,690 --> 00:00:59,860
+because rule number one stat blocks do
+not matter so say you're a familiar is a
+
+44
+00:00:59,860 --> 00:00:59,870
+not matter so say you're a familiar is a
+ 
+
+45
+00:00:59,870 --> 00:01:02,559
+not matter so say you're a familiar is a
+tiny demon you might be tempted to go to
+
+46
+00:01:02,559 --> 00:01:02,569
+tiny demon you might be tempted to go to
+ 
+
+47
+00:01:02,569 --> 00:01:04,270
+tiny demon you might be tempted to go to
+the bestie airy and look up the stats
+
+48
+00:01:04,270 --> 00:01:04,280
+the bestie airy and look up the stats
+ 
+
+49
+00:01:04,280 --> 00:01:07,240
+the bestie airy and look up the stats
+for causes and then you'll see its stats
+
+50
+00:01:07,240 --> 00:01:07,250
+for causes and then you'll see its stats
+ 
+
+51
+00:01:07,250 --> 00:01:09,910
+for causes and then you'll see its stats
+and think wow if my familiar is a closet
+
+52
+00:01:09,910 --> 00:01:09,920
+and think wow if my familiar is a closet
+ 
+
+53
+00:01:09,920 --> 00:01:13,600
+and think wow if my familiar is a closet
+it can fly it speaks two languages has a
+
+54
+00:01:13,600 --> 00:01:13,610
+it can fly it speaks two languages has a
+ 
+
+55
+00:01:13,610 --> 00:01:17,050
+it can fly it speaks two languages has a
+really high dex can cast spells can heal
+
+56
+00:01:17,050 --> 00:01:17,060
+really high dex can cast spells can heal
+ 
+
+57
+00:01:17,060 --> 00:01:19,960
+really high dex can cast spells can heal
+itself every round changes shape can
+
+58
+00:01:19,960 --> 00:01:19,970
+itself every round changes shape can
+ 
+
+59
+00:01:19,970 --> 00:01:22,120
+itself every round changes shape can
+poison my enemies and do a bunch of
+
+60
+00:01:22,120 --> 00:01:22,130
+poison my enemies and do a bunch of
+ 
+
+61
+00:01:22,130 --> 00:01:25,180
+poison my enemies and do a bunch of
+other stuff but unfortunately step
+
+62
+00:01:25,180 --> 00:01:25,190
+other stuff but unfortunately step
+ 
+
+63
+00:01:25,190 --> 00:01:27,850
+other stuff but unfortunately step
+blocks do not matter and your familiar
+
+64
+00:01:27,850 --> 00:01:27,860
+blocks do not matter and your familiar
+ 
+
+65
+00:01:27,860 --> 00:01:30,070
+blocks do not matter and your familiar
+can only use the abilities that you give
+
+66
+00:01:30,070 --> 00:01:30,080
+can only use the abilities that you give
+ 
+
+67
+00:01:30,080 --> 00:01:32,830
+can only use the abilities that you give
+it and this is also true of animals that
+
+68
+00:01:32,830 --> 00:01:32,840
+it and this is also true of animals that
+ 
+
+69
+00:01:32,840 --> 00:01:35,350
+it and this is also true of animals that
+are more common than a closet if your
+
+70
+00:01:35,350 --> 00:01:35,360
+are more common than a closet if your
+ 
+
+71
+00:01:35,360 --> 00:01:39,160
+are more common than a closet if your
+familiar is a cat or a raven then the
+
+72
+00:01:39,160 --> 00:01:39,170
+familiar is a cat or a raven then the
+ 
+
+73
+00:01:39,170 --> 00:01:41,440
+familiar is a cat or a raven then the
+stat blocks with animals have no bearing
+
+74
+00:01:41,440 --> 00:01:41,450
+stat blocks with animals have no bearing
+ 
+
+75
+00:01:41,450 --> 00:01:44,530
+stat blocks with animals have no bearing
+on your familiar instead of using a
+
+76
+00:01:44,530 --> 00:01:44,540
+on your familiar instead of using a
+ 
+
+77
+00:01:44,540 --> 00:01:46,840
+on your familiar instead of using a
+creature stat block you will build the
+
+78
+00:01:46,840 --> 00:01:46,850
+creature stat block you will build the
+ 
+
+79
+00:01:46,850 --> 00:01:49,510
+creature stat block you will build the
+familiar yourself which is great because
+
+80
+00:01:49,510 --> 00:01:49,520
+familiar yourself which is great because
+ 
+
+81
+00:01:49,520 --> 00:01:51,820
+familiar yourself which is great because
+unless the feet you took to gain the
+
+82
+00:01:51,820 --> 00:01:51,830
+unless the feet you took to gain the
+ 
+
+83
+00:01:51,830 --> 00:01:54,400
+unless the feet you took to gain the
+familiar limits you in some way like how
+
+84
+00:01:54,400 --> 00:01:54,410
+familiar limits you in some way like how
+ 
+
+85
+00:01:54,410 --> 00:01:57,190
+familiar limits you in some way like how
+a druid familiar feat specifies that it
+
+86
+00:01:57,190 --> 00:01:57,200
+a druid familiar feat specifies that it
+ 
+
+87
+00:01:57,200 --> 00:02:00,100
+a druid familiar feat specifies that it
+must be alesci then you can custom
+
+88
+00:02:00,100 --> 00:02:00,110
+must be alesci then you can custom
+ 
+
+89
+00:02:00,110 --> 00:02:02,170
+must be alesci then you can custom
+create your familiar to be anything you
+
+90
+00:02:02,170 --> 00:02:02,180
+create your familiar to be anything you
+ 
+
+91
+00:02:02,180 --> 00:02:05,830
+create your familiar to be anything you
+can imagine familiars all share the same
+
+92
+00:02:05,830 --> 00:02:05,840
+can imagine familiars all share the same
+ 
+
+93
+00:02:05,840 --> 00:02:08,229
+can imagine familiars all share the same
+basic stats and are differentiated by
+
+94
+00:02:08,229 --> 00:02:08,239
+basic stats and are differentiated by
+ 
+
+95
+00:02:08,239 --> 00:02:10,770
+basic stats and are differentiated by
+special familiar and master abilities
+
+96
+00:02:10,770 --> 00:02:10,780
+special familiar and master abilities
+ 
+
+97
+00:02:10,780 --> 00:02:13,360
+special familiar and master abilities
+for example all familiars have hit
+
+98
+00:02:13,360 --> 00:02:13,370
+for example all familiars have hit
+ 
+
+99
+00:02:13,370 --> 00:02:15,970
+for example all familiars have hit
+points equal to five times their masters
+
+100
+00:02:15,970 --> 00:02:15,980
+points equal to five times their masters
+ 
+
+101
+00:02:15,980 --> 00:02:18,880
+points equal to five times their masters
+level it doesn't matter if it is a frog
+
+102
+00:02:18,880 --> 00:02:18,890
+level it doesn't matter if it is a frog
+ 
+
+103
+00:02:18,890 --> 00:02:20,380
+level it doesn't matter if it is a frog
+or a bear cub
+
+104
+00:02:20,380 --> 00:02:20,390
+or a bear cub
+ 
+
+105
+00:02:20,390 --> 00:02:22,900
+or a bear cub
+if his master is fourth-level then it
+
+106
+00:02:22,900 --> 00:02:22,910
+if his master is fourth-level then it
+ 
+
+107
+00:02:22,910 --> 00:02:25,809
+if his master is fourth-level then it
+has 20 hit points also note that if
+
+108
+00:02:25,809 --> 00:02:25,819
+has 20 hit points also note that if
+ 
+
+109
+00:02:25,819 --> 00:02:28,240
+has 20 hit points also note that if
+familiars hit points are not modified by
+
+110
+00:02:28,240 --> 00:02:28,250
+familiars hit points are not modified by
+ 
+
+111
+00:02:28,250 --> 00:02:30,280
+familiars hit points are not modified by
+their constitution score because
+
+112
+00:02:30,280 --> 00:02:30,290
+their constitution score because
+ 
+
+113
+00:02:30,290 --> 00:02:32,430
+their constitution score because
+familiars don't have Constitution scores
+
+114
+00:02:32,430 --> 00:02:32,440
+familiars don't have Constitution scores
+ 
+
+115
+00:02:32,440 --> 00:02:35,290
+familiars don't have Constitution scores
+nor do they have dexterity intelligence
+
+116
+00:02:35,290 --> 00:02:35,300
+nor do they have dexterity intelligence
+ 
+
+117
+00:02:35,300 --> 00:02:38,410
+nor do they have dexterity intelligence
+or any other ability modifiers they are
+
+118
+00:02:38,410 --> 00:02:38,420
+or any other ability modifiers they are
+ 
+
+119
+00:02:38,420 --> 00:02:40,900
+or any other ability modifiers they are
+capable of thinking and moving they just
+
+120
+00:02:40,900 --> 00:02:40,910
+capable of thinking and moving they just
+ 
+
+121
+00:02:40,910 --> 00:02:43,449
+capable of thinking and moving they just
+don't have scores associated with theirs
+
+122
+00:02:43,449 --> 00:02:43,459
+don't have scores associated with theirs
+ 
+
+123
+00:02:43,459 --> 00:02:46,630
+don't have scores associated with theirs
+abilities familiars are exactly as
+
+124
+00:02:46,630 --> 00:02:46,640
+abilities familiars are exactly as
+ 
+
+125
+00:02:46,640 --> 00:02:49,540
+abilities familiars are exactly as
+strong or as smart as the GM determines
+
+126
+00:02:49,540 --> 00:02:49,550
+strong or as smart as the GM determines
+ 
+
+127
+00:02:49,550 --> 00:02:52,900
+strong or as smart as the GM determines
+them to be familiars are also all size
+
+128
+00:02:52,900 --> 00:02:52,910
+them to be familiars are also all size
+ 
+
+129
+00:02:52,910 --> 00:02:55,990
+them to be familiars are also all size
+tiny regardless of the animal type or
+
+130
+00:02:55,990 --> 00:02:56,000
+tiny regardless of the animal type or
+ 
+
+131
+00:02:56,000 --> 00:02:59,199
+tiny regardless of the animal type or
+species a familiars save bonuses and
+
+132
+00:02:59,199 --> 00:02:59,209
+species a familiars save bonuses and
+ 
+
+133
+00:02:59,209 --> 00:03:01,860
+species a familiars save bonuses and
+armor class are equal to the Masters
+
+134
+00:03:01,860 --> 00:03:01,870
+armor class are equal to the Masters
+ 
+
+135
+00:03:01,870 --> 00:03:05,979
+armor class are equal to the Masters
+unmodified scores so if a master has an
+
+136
+00:03:05,979 --> 00:03:05,989
+unmodified scores so if a master has an
+ 
+
+137
+00:03:05,989 --> 00:03:08,979
+unmodified scores so if a master has an
+armor class of 17 then their familiar
+
+138
+00:03:08,979 --> 00:03:08,989
+armor class of 17 then their familiar
+ 
+
+139
+00:03:08,989 --> 00:03:12,400
+armor class of 17 then their familiar
+also has an armor class of 17 but if the
+
+140
+00:03:12,400 --> 00:03:12,410
+also has an armor class of 17 but if the
+ 
+
+141
+00:03:12,410 --> 00:03:14,350
+also has an armor class of 17 but if the
+master receives a bonus recover to their
+
+142
+00:03:14,350 --> 00:03:14,360
+master receives a bonus recover to their
+ 
+
+143
+00:03:14,360 --> 00:03:16,990
+master receives a bonus recover to their
+armor class increasing it from 17 and 19
+
+144
+00:03:16,990 --> 00:03:17,000
+armor class increasing it from 17 and 19
+ 
+
+145
+00:03:17,000 --> 00:03:19,000
+armor class increasing it from 17 and 19
+then the familiars armor class will
+
+146
+00:03:19,000 --> 00:03:19,010
+then the familiars armor class will
+ 
+
+147
+00:03:19,010 --> 00:03:22,090
+then the familiars armor class will
+still be 17 unless it moves into cover
+
+148
+00:03:22,090 --> 00:03:22,100
+still be 17 unless it moves into cover
+ 
+
+149
+00:03:22,100 --> 00:03:25,390
+still be 17 unless it moves into cover
+as well so basically the familiars of
+
+150
+00:03:25,390 --> 00:03:25,400
+as well so basically the familiars of
+ 
+
+151
+00:03:25,400 --> 00:03:27,490
+as well so basically the familiars of
+fit scores are going to be the same as
+
+152
+00:03:27,490 --> 00:03:27,500
+fit scores are going to be the same as
+ 
+
+153
+00:03:27,500 --> 00:03:29,319
+fit scores are going to be the same as
+what's written on the Masters character
+
+154
+00:03:29,319 --> 00:03:29,329
+what's written on the Masters character
+ 
+
+155
+00:03:29,329 --> 00:03:31,360
+what's written on the Masters character
+sheet and not modified by any
+
+156
+00:03:31,360 --> 00:03:31,370
+sheet and not modified by any
+ 
+
+157
+00:03:31,370 --> 00:03:34,990
+sheet and not modified by any
+circumstances within the game also what
+
+158
+00:03:34,990 --> 00:03:35,000
+circumstances within the game also what
+ 
+
+159
+00:03:35,000 --> 00:03:37,060
+circumstances within the game also what
+we're on the topic of armor class is
+
+160
+00:03:37,060 --> 00:03:37,070
+we're on the topic of armor class is
+ 
+
+161
+00:03:37,070 --> 00:03:39,100
+we're on the topic of armor class is
+worth mentioning the familiars may never
+
+162
+00:03:39,100 --> 00:03:39,110
+worth mentioning the familiars may never
+ 
+
+163
+00:03:39,110 --> 00:03:41,560
+worth mentioning the familiars may never
+benefit from item bonuses so they won't
+
+164
+00:03:41,560 --> 00:03:41,570
+benefit from item bonuses so they won't
+ 
+
+165
+00:03:41,570 --> 00:03:43,960
+benefit from item bonuses so they won't
+receive any benefits from barding or
+
+166
+00:03:43,960 --> 00:03:43,970
+receive any benefits from barding or
+ 
+
+167
+00:03:43,970 --> 00:03:47,470
+receive any benefits from barding or
+from many other magical items the
+
+168
+00:03:47,470 --> 00:03:47,480
+from many other magical items the
+ 
+
+169
+00:03:47,480 --> 00:03:50,229
+from many other magical items the
+familiars perception acrobatics and
+
+170
+00:03:50,229 --> 00:03:50,239
+familiars perception acrobatics and
+ 
+
+171
+00:03:50,239 --> 00:03:52,810
+familiars perception acrobatics and
+stealth modifiers are equal to their
+
+172
+00:03:52,810 --> 00:03:52,820
+stealth modifiers are equal to their
+ 
+
+173
+00:03:52,820 --> 00:03:55,690
+stealth modifiers are equal to their
+masters level plus the master spell
+
+174
+00:03:55,690 --> 00:03:55,700
+masters level plus the master spell
+ 
+
+175
+00:03:55,700 --> 00:03:58,390
+masters level plus the master spell
+casting modifier so a fourth level
+
+176
+00:03:58,390 --> 00:03:58,400
+casting modifier so a fourth level
+ 
+
+177
+00:03:58,400 --> 00:04:00,479
+casting modifier so a fourth level
+wizard with training and acrobatics an
+
+178
+00:04:00,479 --> 00:04:00,489
+wizard with training and acrobatics an
+ 
+
+179
+00:04:00,489 --> 00:04:03,699
+wizard with training and acrobatics an
+intelligent score of 16 and a dexterity
+
+180
+00:04:03,699 --> 00:04:03,709
+intelligent score of 16 and a dexterity
+ 
+
+181
+00:04:03,709 --> 00:04:06,940
+intelligent score of 16 and a dexterity
+score of 14 would have an acrobatics
+
+182
+00:04:06,940 --> 00:04:06,950
+score of 14 would have an acrobatics
+ 
+
+183
+00:04:06,950 --> 00:04:10,630
+score of 14 would have an acrobatics
+bonus of +8 but they're familiar would
+
+184
+00:04:10,630 --> 00:04:10,640
+bonus of +8 but they're familiar would
+ 
+
+185
+00:04:10,640 --> 00:04:13,810
+bonus of +8 but they're familiar would
+have an acrobatics bonus of +7 the
+
+186
+00:04:13,810 --> 00:04:13,820
+have an acrobatics bonus of +7 the
+ 
+
+187
+00:04:13,820 --> 00:04:16,479
+have an acrobatics bonus of +7 the
+Masters dexterity score in training
+
+188
+00:04:16,479 --> 00:04:16,489
+Masters dexterity score in training
+ 
+
+189
+00:04:16,489 --> 00:04:18,940
+Masters dexterity score in training
+proficiency are not applied to the
+
+190
+00:04:18,940 --> 00:04:18,950
+proficiency are not applied to the
+ 
+
+191
+00:04:18,950 --> 00:04:21,759
+proficiency are not applied to the
+familiar instead is just a master's
+
+192
+00:04:21,759 --> 00:04:21,769
+familiar instead is just a master's
+ 
+
+193
+00:04:21,769 --> 00:04:24,250
+familiar instead is just a master's
+level plus spell casting modifier which
+
+194
+00:04:24,250 --> 00:04:24,260
+level plus spell casting modifier which
+ 
+
+195
+00:04:24,260 --> 00:04:26,510
+level plus spell casting modifier which
+is intelligence for wizards
+
+196
+00:04:26,510 --> 00:04:26,520
+is intelligence for wizards
+ 
+
+197
+00:04:26,520 --> 00:04:28,760
+is intelligence for wizards
+if a familiar wishes to use any skills
+
+198
+00:04:28,760 --> 00:04:28,770
+if a familiar wishes to use any skills
+ 
+
+199
+00:04:28,770 --> 00:04:31,610
+if a familiar wishes to use any skills
+other than acrobatics or stealth their
+
+200
+00:04:31,610 --> 00:04:31,620
+other than acrobatics or stealth their
+ 
+
+201
+00:04:31,620 --> 00:04:34,040
+other than acrobatics or stealth their
+bonus is equal to their master's level
+
+202
+00:04:34,040 --> 00:04:34,050
+bonus is equal to their master's level
+ 
+
+203
+00:04:34,050 --> 00:04:37,580
+bonus is equal to their master's level
+with no other modifiers this is also the
+
+204
+00:04:37,580 --> 00:04:37,590
+with no other modifiers this is also the
+ 
+
+205
+00:04:37,590 --> 00:04:40,040
+with no other modifiers this is also the
+same calculation for any attacks made by
+
+206
+00:04:40,040 --> 00:04:40,050
+same calculation for any attacks made by
+ 
+
+207
+00:04:40,050 --> 00:04:42,890
+same calculation for any attacks made by
+the familiar when you gain a familiar
+
+208
+00:04:42,890 --> 00:04:42,900
+the familiar when you gain a familiar
+ 
+
+209
+00:04:42,900 --> 00:04:44,960
+the familiar when you gain a familiar
+you must choose if you want it to have a
+
+210
+00:04:44,960 --> 00:04:44,970
+you must choose if you want it to have a
+ 
+
+211
+00:04:44,970 --> 00:04:48,800
+you must choose if you want it to have a
+land speed of 25 feet or a swim speed of
+
+212
+00:04:48,800 --> 00:04:48,810
+land speed of 25 feet or a swim speed of
+ 
+
+213
+00:04:48,810 --> 00:04:52,249
+land speed of 25 feet or a swim speed of
+25 feet familiars all have low light
+
+214
+00:04:52,249 --> 00:04:52,259
+25 feet familiars all have low light
+ 
+
+215
+00:04:52,259 --> 00:04:54,499
+25 feet familiars all have low light
+vision and can communicate and Pathak
+
+216
+00:04:54,499 --> 00:04:54,509
+vision and can communicate and Pathak
+ 
+
+217
+00:04:54,509 --> 00:04:56,570
+vision and can communicate and Pathak
+aliy with their masters as long as they
+
+218
+00:04:56,570 --> 00:04:56,580
+aliy with their masters as long as they
+ 
+
+219
+00:04:56,580 --> 00:04:58,460
+aliy with their masters as long as they
+are within one mile of each other in
+
+220
+00:04:58,460 --> 00:04:58,470
+are within one mile of each other in
+ 
+
+221
+00:04:58,470 --> 00:05:01,370
+are within one mile of each other in
+note that empathic communication is
+
+222
+00:05:01,370 --> 00:05:01,380
+note that empathic communication is
+ 
+
+223
+00:05:01,380 --> 00:05:04,730
+note that empathic communication is
+simply a sharing of emotions familiars
+
+224
+00:05:04,730 --> 00:05:04,740
+simply a sharing of emotions familiars
+ 
+
+225
+00:05:04,740 --> 00:05:07,070
+simply a sharing of emotions familiars
+neither speak nor understand languages
+
+226
+00:05:07,070 --> 00:05:07,080
+neither speak nor understand languages
+ 
+
+227
+00:05:07,080 --> 00:05:10,550
+neither speak nor understand languages
+by default so they can't say I see six
+
+228
+00:05:10,550 --> 00:05:10,560
+by default so they can't say I see six
+ 
+
+229
+00:05:10,560 --> 00:05:14,180
+by default so they can't say I see six
+goblins ahead but you might feel them
+
+230
+00:05:14,180 --> 00:05:14,190
+goblins ahead but you might feel them
+ 
+
+231
+00:05:14,190 --> 00:05:16,070
+goblins ahead but you might feel them
+suddenly become scared and know
+
+232
+00:05:16,070 --> 00:05:16,080
+suddenly become scared and know
+ 
+
+233
+00:05:16,080 --> 00:05:19,129
+suddenly become scared and know
+something is up those are the common
+
+234
+00:05:19,129 --> 00:05:19,139
+something is up those are the common
+ 
+
+235
+00:05:19,139 --> 00:05:21,170
+something is up those are the common
+traits that are shared by all familiars
+
+236
+00:05:21,170 --> 00:05:21,180
+traits that are shared by all familiars
+ 
+
+237
+00:05:21,180 --> 00:05:23,120
+traits that are shared by all familiars
+but what makes each spellcasters
+
+238
+00:05:23,120 --> 00:05:23,130
+but what makes each spellcasters
+ 
+
+239
+00:05:23,130 --> 00:05:25,100
+but what makes each spellcasters
+campaign and special is how they are
+
+240
+00:05:25,100 --> 00:05:25,110
+campaign and special is how they are
+ 
+
+241
+00:05:25,110 --> 00:05:27,200
+campaign and special is how they are
+customized through familiar and master
+
+242
+00:05:27,200 --> 00:05:27,210
+customized through familiar and master
+ 
+
+243
+00:05:27,210 --> 00:05:29,820
+customized through familiar and master
+abilities
+
+244
+00:05:29,820 --> 00:05:29,830
+
+ 
+
+245
+00:05:29,830 --> 00:05:31,980
+
+familiar abilities and master abilities
+
+246
+00:05:31,980 --> 00:05:31,990
+familiar abilities and master abilities
+ 
+
+247
+00:05:31,990 --> 00:05:33,869
+familiar abilities and master abilities
+give you flexibility in how you
+
+248
+00:05:33,869 --> 00:05:33,879
+give you flexibility in how you
+ 
+
+249
+00:05:33,879 --> 00:05:37,110
+give you flexibility in how you
+customize your familiar and note as we
+
+250
+00:05:37,110 --> 00:05:37,120
+customize your familiar and note as we
+ 
+
+251
+00:05:37,120 --> 00:05:39,420
+customize your familiar and note as we
+mentioned before familiars have no
+
+252
+00:05:39,420 --> 00:05:39,430
+mentioned before familiars have no
+ 
+
+253
+00:05:39,430 --> 00:05:41,850
+mentioned before familiars have no
+abilities except those that you grant it
+
+254
+00:05:41,850 --> 00:05:41,860
+abilities except those that you grant it
+ 
+
+255
+00:05:41,860 --> 00:05:44,460
+abilities except those that you grant it
+any stat blocks for similar creatures
+
+256
+00:05:44,460 --> 00:05:44,470
+any stat blocks for similar creatures
+ 
+
+257
+00:05:44,470 --> 00:05:47,730
+any stat blocks for similar creatures
+are completely irrelevant each day
+
+258
+00:05:47,730 --> 00:05:47,740
+are completely irrelevant each day
+ 
+
+259
+00:05:47,740 --> 00:05:50,040
+are completely irrelevant each day
+usually part of that day's preparations
+
+260
+00:05:50,040 --> 00:05:50,050
+usually part of that day's preparations
+ 
+
+261
+00:05:50,050 --> 00:05:53,670
+usually part of that day's preparations
+you may select two abilities familiar
+
+262
+00:05:53,670 --> 00:05:53,680
+you may select two abilities familiar
+ 
+
+263
+00:05:53,680 --> 00:05:55,379
+you may select two abilities familiar
+abilities grant features to the familiar
+
+264
+00:05:55,379 --> 00:05:55,389
+abilities grant features to the familiar
+ 
+
+265
+00:05:55,389 --> 00:05:57,749
+abilities grant features to the familiar
+like giving them dark vision flight or
+
+266
+00:05:57,749 --> 00:05:57,759
+like giving them dark vision flight or
+ 
+
+267
+00:05:57,759 --> 00:06:00,629
+like giving them dark vision flight or
+the ability to speak language and master
+
+268
+00:06:00,629 --> 00:06:00,639
+the ability to speak language and master
+ 
+
+269
+00:06:00,639 --> 00:06:02,879
+the ability to speak language and master
+abilities modify how you can use your
+
+270
+00:06:02,879 --> 00:06:02,889
+abilities modify how you can use your
+ 
+
+271
+00:06:02,889 --> 00:06:05,670
+abilities modify how you can use your
+familiar for example using the familiar
+
+272
+00:06:05,670 --> 00:06:05,680
+familiar for example using the familiar
+ 
+
+273
+00:06:05,680 --> 00:06:08,010
+familiar for example using the familiar
+to deliver a touch spell for you or
+
+274
+00:06:08,010 --> 00:06:08,020
+to deliver a touch spell for you or
+ 
+
+275
+00:06:08,020 --> 00:06:10,260
+to deliver a touch spell for you or
+using the familiar to store a spell
+
+276
+00:06:10,260 --> 00:06:10,270
+using the familiar to store a spell
+ 
+
+277
+00:06:10,270 --> 00:06:12,360
+using the familiar to store a spell
+slaughter focus point that you can later
+
+278
+00:06:12,360 --> 00:06:12,370
+slaughter focus point that you can later
+ 
+
+279
+00:06:12,370 --> 00:06:15,390
+slaughter focus point that you can later
+use in combat I'm not going to go over
+
+280
+00:06:15,390 --> 00:06:15,400
+use in combat I'm not going to go over
+ 
+
+281
+00:06:15,400 --> 00:06:17,939
+use in combat I'm not going to go over
+each and every one of the options here
+
+282
+00:06:17,939 --> 00:06:17,949
+each and every one of the options here
+ 
+
+283
+00:06:17,949 --> 00:06:20,790
+each and every one of the options here
+but they may be found on page 218 of the
+
+284
+00:06:20,790 --> 00:06:20,800
+but they may be found on page 218 of the
+ 
+
+285
+00:06:20,800 --> 00:06:22,860
+but they may be found on page 218 of the
+core rules and the key to remember is
+
+286
+00:06:22,860 --> 00:06:22,870
+core rules and the key to remember is
+ 
+
+287
+00:06:22,870 --> 00:06:25,080
+core rules and the key to remember is
+that each day you get to pick two of
+
+288
+00:06:25,080 --> 00:06:25,090
+that each day you get to pick two of
+ 
+
+289
+00:06:25,090 --> 00:06:27,360
+that each day you get to pick two of
+them they don't have to be the same
+
+290
+00:06:27,360 --> 00:06:27,370
+them they don't have to be the same
+ 
+
+291
+00:06:27,370 --> 00:06:29,520
+them they don't have to be the same
+every day as part of each day's
+
+292
+00:06:29,520 --> 00:06:29,530
+every day as part of each day's
+ 
+
+293
+00:06:29,530 --> 00:06:31,320
+every day as part of each day's
+preparations you can change the
+
+294
+00:06:31,320 --> 00:06:31,330
+preparations you can change the
+ 
+
+295
+00:06:31,330 --> 00:06:33,839
+preparations you can change the
+abilities granted to your familiar the
+
+296
+00:06:33,839 --> 00:06:33,849
+abilities granted to your familiar the
+ 
+
+297
+00:06:33,849 --> 00:06:36,510
+abilities granted to your familiar the
+one exception to that is that if your
+
+298
+00:06:36,510 --> 00:06:36,520
+one exception to that is that if your
+ 
+
+299
+00:06:36,520 --> 00:06:38,879
+one exception to that is that if your
+familiar is an animal that already has
+
+300
+00:06:38,879 --> 00:06:38,889
+familiar is an animal that already has
+ 
+
+301
+00:06:38,889 --> 00:06:41,640
+familiar is an animal that already has
+one or more of these abilities if your
+
+302
+00:06:41,640 --> 00:06:41,650
+one or more of these abilities if your
+ 
+
+303
+00:06:41,650 --> 00:06:44,640
+one or more of these abilities if your
+familiar is a raven then you must choose
+
+304
+00:06:44,640 --> 00:06:44,650
+familiar is a raven then you must choose
+ 
+
+305
+00:06:44,650 --> 00:06:47,760
+familiar is a raven then you must choose
+the flyer ability every day if your
+
+306
+00:06:47,760 --> 00:06:47,770
+the flyer ability every day if your
+ 
+
+307
+00:06:47,770 --> 00:06:50,159
+the flyer ability every day if your
+familiar is a badger then you have to
+
+308
+00:06:50,159 --> 00:06:50,169
+familiar is a badger then you have to
+ 
+
+309
+00:06:50,169 --> 00:06:52,230
+familiar is a badger then you have to
+take the borrower and climber abilities
+
+310
+00:06:52,230 --> 00:06:52,240
+take the borrower and climber abilities
+ 
+
+311
+00:06:52,240 --> 00:06:54,719
+take the borrower and climber abilities
+because Badgers naturally have both of
+
+312
+00:06:54,719 --> 00:06:54,729
+because Badgers naturally have both of
+ 
+
+313
+00:06:54,729 --> 00:06:57,570
+because Badgers naturally have both of
+those movement types and this is further
+
+314
+00:06:57,570 --> 00:06:57,580
+those movement types and this is further
+ 
+
+315
+00:06:57,580 --> 00:06:59,820
+those movement types and this is further
+unlimited by your number of available
+
+316
+00:06:59,820 --> 00:06:59,830
+unlimited by your number of available
+ 
+
+317
+00:06:59,830 --> 00:07:02,369
+unlimited by your number of available
+abilities so if your familiar is an
+
+318
+00:07:02,369 --> 00:07:02,379
+abilities so if your familiar is an
+ 
+
+319
+00:07:02,379 --> 00:07:04,830
+abilities so if your familiar is an
+animal that naturally has wings dark
+
+320
+00:07:04,830 --> 00:07:04,840
+animal that naturally has wings dark
+ 
+
+321
+00:07:04,840 --> 00:07:07,230
+animal that naturally has wings dark
+vision and 40 feet of movement then you
+
+322
+00:07:07,230 --> 00:07:07,240
+vision and 40 feet of movement then you
+ 
+
+323
+00:07:07,240 --> 00:07:08,939
+vision and 40 feet of movement then you
+need to limit yourself to choosing only
+
+324
+00:07:08,939 --> 00:07:08,949
+need to limit yourself to choosing only
+ 
+
+325
+00:07:08,949 --> 00:07:12,360
+need to limit yourself to choosing only
+two of those per day fortunately there
+
+326
+00:07:12,360 --> 00:07:12,370
+two of those per day fortunately there
+ 
+
+327
+00:07:12,370 --> 00:07:14,129
+two of those per day fortunately there
+are ways to increase the number of
+
+328
+00:07:14,129 --> 00:07:14,139
+are ways to increase the number of
+ 
+
+329
+00:07:14,139 --> 00:07:15,899
+are ways to increase the number of
+abilities you can choose every day
+
+330
+00:07:15,899 --> 00:07:15,909
+abilities you can choose every day
+ 
+
+331
+00:07:15,909 --> 00:07:19,080
+abilities you can choose every day
+for example the enhanced familiar feet
+
+332
+00:07:19,080 --> 00:07:19,090
+for example the enhanced familiar feet
+ 
+
+333
+00:07:19,090 --> 00:07:21,209
+for example the enhanced familiar feet
+is available to several classes at
+
+334
+00:07:21,209 --> 00:07:21,219
+is available to several classes at
+ 
+
+335
+00:07:21,219 --> 00:07:23,610
+is available to several classes at
+second level this feat increases the
+
+336
+00:07:23,610 --> 00:07:23,620
+second level this feat increases the
+ 
+
+337
+00:07:23,620 --> 00:07:25,559
+second level this feat increases the
+number of available abilities to four
+
+338
+00:07:25,559 --> 00:07:25,569
+number of available abilities to four
+ 
+
+339
+00:07:25,569 --> 00:07:29,219
+number of available abilities to four
+each day Wizards who choose the improved
+
+340
+00:07:29,219 --> 00:07:29,229
+each day Wizards who choose the improved
+ 
+
+341
+00:07:29,229 --> 00:07:32,339
+each day Wizards who choose the improved
+familiar attunement arcane thesis also
+
+342
+00:07:32,339 --> 00:07:32,349
+familiar attunement arcane thesis also
+ 
+
+343
+00:07:32,349 --> 00:07:35,339
+familiar attunement arcane thesis also
+gain one more ability at first sixth
+
+344
+00:07:35,339 --> 00:07:35,349
+gain one more ability at first sixth
+ 
+
+345
+00:07:35,349 --> 00:07:39,469
+gain one more ability at first sixth
+12th and 18th levels and although not
+
+346
+00:07:39,469 --> 00:07:39,479
+12th and 18th levels and although not
+ 
+
+347
+00:07:39,479 --> 00:07:42,360
+12th and 18th levels and although not
+explicitly mentioned in the rules the
+
+348
+00:07:42,360 --> 00:07:42,370
+explicitly mentioned in the rules the
+ 
+
+349
+00:07:42,370 --> 00:07:42,780
+explicitly mentioned in the rules the
+inn
+
+350
+00:07:42,780 --> 00:07:42,790
+inn
+ 
+
+351
+00:07:42,790 --> 00:07:44,910
+inn
+about duplicate effects in ambiguous
+
+352
+00:07:44,910 --> 00:07:44,920
+about duplicate effects in ambiguous
+ 
+
+353
+00:07:44,920 --> 00:07:47,570
+about duplicate effects in ambiguous
+rules that you can find on page 444
+
+354
+00:07:47,570 --> 00:07:47,580
+rules that you can find on page 444
+ 
+
+355
+00:07:47,580 --> 00:07:50,250
+rules that you can find on page 444
+implies that you cannot select a
+
+356
+00:07:50,250 --> 00:07:50,260
+implies that you cannot select a
+ 
+
+357
+00:07:50,260 --> 00:07:52,200
+implies that you cannot select a
+familiar or master ability more than
+
+358
+00:07:52,200 --> 00:07:52,210
+familiar or master ability more than
+ 
+
+359
+00:07:52,210 --> 00:07:52,710
+familiar or master ability more than
+once
+
+360
+00:07:52,710 --> 00:07:52,720
+once
+ 
+
+361
+00:07:52,720 --> 00:07:55,560
+once
+so no selecting spell battery four times
+
+362
+00:07:55,560 --> 00:07:55,570
+so no selecting spell battery four times
+ 
+
+363
+00:07:55,570 --> 00:07:59,620
+so no selecting spell battery four times
+to get 4 extra spell slots
+
+364
+00:07:59,620 --> 00:07:59,630
+
+ 
+
+365
+00:07:59,630 --> 00:08:01,660
+
+and just like animal companions
+
+366
+00:08:01,660 --> 00:08:01,670
+and just like animal companions
+ 
+
+367
+00:08:01,670 --> 00:08:04,450
+and just like animal companions
+familiars have the minion trait which
+
+368
+00:08:04,450 --> 00:08:04,460
+familiars have the minion trait which
+ 
+
+369
+00:08:04,460 --> 00:08:06,730
+familiars have the minion trait which
+means you will have direct control over
+
+370
+00:08:06,730 --> 00:08:06,740
+means you will have direct control over
+ 
+
+371
+00:08:06,740 --> 00:08:09,460
+means you will have direct control over
+them and they will act during your turn
+
+372
+00:08:09,460 --> 00:08:09,470
+them and they will act during your turn
+ 
+
+373
+00:08:09,470 --> 00:08:12,310
+them and they will act during your turn
+in the initiative order familiars do not
+
+374
+00:08:12,310 --> 00:08:12,320
+in the initiative order familiars do not
+ 
+
+375
+00:08:12,320 --> 00:08:14,800
+in the initiative order familiars do not
+act on their own instead you will need
+
+376
+00:08:14,800 --> 00:08:14,810
+act on their own instead you will need
+ 
+
+377
+00:08:14,810 --> 00:08:16,960
+act on their own instead you will need
+to spend one action to issue them a
+
+378
+00:08:16,960 --> 00:08:16,970
+to spend one action to issue them a
+ 
+
+379
+00:08:16,970 --> 00:08:19,480
+to spend one action to issue them a
+verbal command there is no skill
+
+380
+00:08:19,480 --> 00:08:19,490
+verbal command there is no skill
+ 
+
+381
+00:08:19,490 --> 00:08:22,060
+verbal command there is no skill
+associated with this you are not using
+
+382
+00:08:22,060 --> 00:08:22,070
+associated with this you are not using
+ 
+
+383
+00:08:22,070 --> 00:08:24,460
+associated with this you are not using
+command and animal when giving orders to
+
+384
+00:08:24,460 --> 00:08:24,470
+command and animal when giving orders to
+ 
+
+385
+00:08:24,470 --> 00:08:27,370
+command and animal when giving orders to
+your familiar and no roles are required
+
+386
+00:08:27,370 --> 00:08:27,380
+your familiar and no roles are required
+ 
+
+387
+00:08:27,380 --> 00:08:30,460
+your familiar and no roles are required
+after you spend your one action to issue
+
+388
+00:08:30,460 --> 00:08:30,470
+after you spend your one action to issue
+ 
+
+389
+00:08:30,470 --> 00:08:33,040
+after you spend your one action to issue
+the verbal command you're familiar gains
+
+390
+00:08:33,040 --> 00:08:33,050
+the verbal command you're familiar gains
+ 
+
+391
+00:08:33,050 --> 00:08:35,770
+the verbal command you're familiar gains
+to actions that they can spend during
+
+392
+00:08:35,770 --> 00:08:35,780
+to actions that they can spend during
+ 
+
+393
+00:08:35,780 --> 00:08:39,310
+to actions that they can spend during
+the same term familiars are completely
+
+394
+00:08:39,310 --> 00:08:39,320
+the same term familiars are completely
+ 
+
+395
+00:08:39,320 --> 00:08:42,040
+the same term familiars are completely
+limited to those two actions they do not
+
+396
+00:08:42,040 --> 00:08:42,050
+limited to those two actions they do not
+ 
+
+397
+00:08:42,050 --> 00:08:44,110
+limited to those two actions they do not
+receive three actions per turn like most
+
+398
+00:08:44,110 --> 00:08:44,120
+receive three actions per turn like most
+ 
+
+399
+00:08:44,120 --> 00:08:46,450
+receive three actions per turn like most
+other creatures and during encounters
+
+400
+00:08:46,450 --> 00:08:46,460
+other creatures and during encounters
+ 
+
+401
+00:08:46,460 --> 00:08:49,210
+other creatures and during encounters
+you're familiar begins each turn with
+
+402
+00:08:49,210 --> 00:08:49,220
+you're familiar begins each turn with
+ 
+
+403
+00:08:49,220 --> 00:08:52,390
+you're familiar begins each turn with
+zero actions and no reactions either if
+
+404
+00:08:52,390 --> 00:08:52,400
+zero actions and no reactions either if
+ 
+
+405
+00:08:52,400 --> 00:08:54,970
+zero actions and no reactions either if
+you don't spend an action to command
+
+406
+00:08:54,970 --> 00:08:54,980
+you don't spend an action to command
+ 
+
+407
+00:08:54,980 --> 00:08:57,340
+you don't spend an action to command
+them then the familiar will only defend
+
+408
+00:08:57,340 --> 00:08:57,350
+them then the familiar will only defend
+ 
+
+409
+00:08:57,350 --> 00:09:00,070
+them then the familiar will only defend
+itself or move away to avoid obvious
+
+410
+00:09:00,070 --> 00:09:00,080
+itself or move away to avoid obvious
+ 
+
+411
+00:09:00,080 --> 00:09:03,090
+itself or move away to avoid obvious
+harm as the GM decides is appropriate
+
+412
+00:09:03,090 --> 00:09:03,100
+harm as the GM decides is appropriate
+ 
+
+413
+00:09:03,100 --> 00:09:06,040
+harm as the GM decides is appropriate
+otherwise they just sit still waiting
+
+414
+00:09:06,040 --> 00:09:06,050
+otherwise they just sit still waiting
+ 
+
+415
+00:09:06,050 --> 00:09:08,950
+otherwise they just sit still waiting
+for your orders and if a full minute
+
+416
+00:09:08,950 --> 00:09:08,960
+for your orders and if a full minute
+ 
+
+417
+00:09:08,960 --> 00:09:11,160
+for your orders and if a full minute
+passes without you issuing a command
+
+418
+00:09:11,160 --> 00:09:11,170
+passes without you issuing a command
+ 
+
+419
+00:09:11,170 --> 00:09:13,450
+passes without you issuing a command
+familiars will stop waiting for your
+
+420
+00:09:13,450 --> 00:09:13,460
+familiars will stop waiting for your
+ 
+
+421
+00:09:13,460 --> 00:09:15,430
+familiars will stop waiting for your
+commands and begin following their own
+
+422
+00:09:15,430 --> 00:09:15,440
+commands and begin following their own
+ 
+
+423
+00:09:15,440 --> 00:09:18,910
+commands and begin following their own
+instincts this is a little hazy as to
+
+424
+00:09:18,910 --> 00:09:18,920
+instincts this is a little hazy as to
+ 
+
+425
+00:09:18,920 --> 00:09:20,650
+instincts this is a little hazy as to
+what it means in terms of combat but
+
+426
+00:09:20,650 --> 00:09:20,660
+what it means in terms of combat but
+ 
+
+427
+00:09:20,660 --> 00:09:23,080
+what it means in terms of combat but
+since combat encounters are unlikely to
+
+428
+00:09:23,080 --> 00:09:23,090
+since combat encounters are unlikely to
+ 
+
+429
+00:09:23,090 --> 00:09:25,180
+since combat encounters are unlikely to
+last over a minute I believe this
+
+430
+00:09:25,180 --> 00:09:25,190
+last over a minute I believe this
+ 
+
+431
+00:09:25,190 --> 00:09:27,190
+last over a minute I believe this
+provision is simply meant to say that
+
+432
+00:09:27,190 --> 00:09:27,200
+provision is simply meant to say that
+ 
+
+433
+00:09:27,200 --> 00:09:29,560
+provision is simply meant to say that
+familiars will follow along and do
+
+434
+00:09:29,560 --> 00:09:29,570
+familiars will follow along and do
+ 
+
+435
+00:09:29,570 --> 00:09:32,530
+familiars will follow along and do
+animal things outside of combat without
+
+436
+00:09:32,530 --> 00:09:32,540
+animal things outside of combat without
+ 
+
+437
+00:09:32,540 --> 00:09:34,390
+animal things outside of combat without
+you needing to constantly declare that
+
+438
+00:09:34,390 --> 00:09:34,400
+you needing to constantly declare that
+ 
+
+439
+00:09:34,400 --> 00:09:37,210
+you needing to constantly declare that
+you are issuing them orders and in a
+
+440
+00:09:37,210 --> 00:09:37,220
+you are issuing them orders and in a
+ 
+
+441
+00:09:37,220 --> 00:09:39,430
+you are issuing them orders and in a
+similar line of thought it's worth
+
+442
+00:09:39,430 --> 00:09:39,440
+similar line of thought it's worth
+ 
+
+443
+00:09:39,440 --> 00:09:41,980
+similar line of thought it's worth
+noting that familiars do not panic at
+
+444
+00:09:41,980 --> 00:09:41,990
+noting that familiars do not panic at
+ 
+
+445
+00:09:41,990 --> 00:09:44,380
+noting that familiars do not panic at
+the first sign of danger and therefore
+
+446
+00:09:44,380 --> 00:09:44,390
+the first sign of danger and therefore
+ 
+
+447
+00:09:44,390 --> 00:09:46,900
+the first sign of danger and therefore
+do not suffer the frightened and fling
+
+448
+00:09:46,900 --> 00:09:46,910
+do not suffer the frightened and fling
+ 
+
+449
+00:09:46,910 --> 00:09:49,030
+do not suffer the frightened and fling
+conditions at the start of combat like
+
+450
+00:09:49,030 --> 00:09:49,040
+conditions at the start of combat like
+ 
+
+451
+00:09:49,040 --> 00:09:52,550
+conditions at the start of combat like
+most normal animals do
+
+452
+00:09:52,550 --> 00:09:52,560
+most normal animals do
+ 
+
+453
+00:09:52,560 --> 00:09:55,130
+most normal animals do
+a lot of questions about familiars seem
+
+454
+00:09:55,130 --> 00:09:55,140
+a lot of questions about familiars seem
+ 
+
+455
+00:09:55,140 --> 00:09:57,140
+a lot of questions about familiars seem
+to revolve around how they work in
+
+456
+00:09:57,140 --> 00:09:57,150
+to revolve around how they work in
+ 
+
+457
+00:09:57,150 --> 00:09:59,960
+to revolve around how they work in
+combat specifically what happens when a
+
+458
+00:09:59,960 --> 00:09:59,970
+combat specifically what happens when a
+ 
+
+459
+00:09:59,970 --> 00:10:02,900
+combat specifically what happens when a
+familiar attacks an enemy and the answer
+
+460
+00:10:02,900 --> 00:10:02,910
+familiar attacks an enemy and the answer
+ 
+
+461
+00:10:02,910 --> 00:10:04,580
+familiar attacks an enemy and the answer
+to that's pretty simple generally
+
+462
+00:10:04,580 --> 00:10:04,590
+to that's pretty simple generally
+ 
+
+463
+00:10:04,590 --> 00:10:06,650
+to that's pretty simple generally
+speaking nothing happens because
+
+464
+00:10:06,650 --> 00:10:06,660
+speaking nothing happens because
+ 
+
+465
+00:10:06,660 --> 00:10:09,940
+speaking nothing happens because
+familiars have no real ability to attack
+
+466
+00:10:09,940 --> 00:10:09,950
+familiars have no real ability to attack
+ 
+
+467
+00:10:09,950 --> 00:10:13,700
+familiars have no real ability to attack
+by raw they do have an attack bonus as
+
+468
+00:10:13,700 --> 00:10:13,710
+by raw they do have an attack bonus as
+ 
+
+469
+00:10:13,710 --> 00:10:16,040
+by raw they do have an attack bonus as
+we've mentioned before but familiars
+
+470
+00:10:16,040 --> 00:10:16,050
+we've mentioned before but familiars
+ 
+
+471
+00:10:16,050 --> 00:10:19,670
+we've mentioned before but familiars
+have no ability to deal damage you do
+
+472
+00:10:19,670 --> 00:10:19,680
+have no ability to deal damage you do
+ 
+
+473
+00:10:19,680 --> 00:10:21,860
+have no ability to deal damage you do
+not use the step block of the familiars
+
+474
+00:10:21,860 --> 00:10:21,870
+not use the step block of the familiars
+ 
+
+475
+00:10:21,870 --> 00:10:24,079
+not use the step block of the familiars
+animal type as step locks again don't
+
+476
+00:10:24,079 --> 00:10:24,089
+animal type as step locks again don't
+ 
+
+477
+00:10:24,089 --> 00:10:27,230
+animal type as step locks again don't
+matter and instead all familiar stats
+
+478
+00:10:27,230 --> 00:10:27,240
+matter and instead all familiar stats
+ 
+
+479
+00:10:27,240 --> 00:10:29,480
+matter and instead all familiar stats
+are derived from the common rules shared
+
+480
+00:10:29,480 --> 00:10:29,490
+are derived from the common rules shared
+ 
+
+481
+00:10:29,490 --> 00:10:32,300
+are derived from the common rules shared
+by all familiars and this is going to
+
+482
+00:10:32,300 --> 00:10:32,310
+by all familiars and this is going to
+ 
+
+483
+00:10:32,310 --> 00:10:34,820
+by all familiars and this is going to
+make the question why even have an
+
+484
+00:10:34,820 --> 00:10:34,830
+make the question why even have an
+ 
+
+485
+00:10:34,830 --> 00:10:36,920
+make the question why even have an
+attack bonus if you can't attack
+
+486
+00:10:36,920 --> 00:10:36,930
+attack bonus if you can't attack
+ 
+
+487
+00:10:36,930 --> 00:10:39,470
+attack bonus if you can't attack
+anything well there are a couple of good
+
+488
+00:10:39,470 --> 00:10:39,480
+anything well there are a couple of good
+ 
+
+489
+00:10:39,480 --> 00:10:42,200
+anything well there are a couple of good
+uses for it first if you select the
+
+490
+00:10:42,200 --> 00:10:42,210
+uses for it first if you select the
+ 
+
+491
+00:10:42,210 --> 00:10:44,960
+uses for it first if you select the
+spell delivery master ability you can
+
+492
+00:10:44,960 --> 00:10:44,970
+spell delivery master ability you can
+ 
+
+493
+00:10:44,970 --> 00:10:46,880
+spell delivery master ability you can
+cast a spell with a range of touch on
+
+494
+00:10:46,880 --> 00:10:46,890
+cast a spell with a range of touch on
+ 
+
+495
+00:10:46,890 --> 00:10:48,769
+cast a spell with a range of touch on
+your familiar and have them deliver it
+
+496
+00:10:48,769 --> 00:10:48,779
+your familiar and have them deliver it
+ 
+
+497
+00:10:48,779 --> 00:10:51,860
+your familiar and have them deliver it
+to do so you first cast the spell which
+
+498
+00:10:51,860 --> 00:10:51,870
+to do so you first cast the spell which
+ 
+
+499
+00:10:51,870 --> 00:10:53,600
+to do so you first cast the spell which
+usually is going to be two of your
+
+500
+00:10:53,600 --> 00:10:53,610
+usually is going to be two of your
+ 
+
+501
+00:10:53,610 --> 00:10:56,210
+usually is going to be two of your
+actions and then spend your third action
+
+502
+00:10:56,210 --> 00:10:56,220
+actions and then spend your third action
+ 
+
+503
+00:10:56,220 --> 00:10:59,150
+actions and then spend your third action
+that turn to command the familiar this
+
+504
+00:10:59,150 --> 00:10:59,160
+that turn to command the familiar this
+ 
+
+505
+00:10:59,160 --> 00:11:01,550
+that turn to command the familiar this
+grants that familiar two actions that
+
+506
+00:11:01,550 --> 00:11:01,560
+grants that familiar two actions that
+ 
+
+507
+00:11:01,560 --> 00:11:03,380
+grants that familiar two actions that
+they spend moving to the target and
+
+508
+00:11:03,380 --> 00:11:03,390
+they spend moving to the target and
+ 
+
+509
+00:11:03,390 --> 00:11:06,200
+they spend moving to the target and
+touching them if the spell requires an
+
+510
+00:11:06,200 --> 00:11:06,210
+touching them if the spell requires an
+ 
+
+511
+00:11:06,210 --> 00:11:09,050
+touching them if the spell requires an
+attack role you use the familiars attack
+
+512
+00:11:09,050 --> 00:11:09,060
+attack role you use the familiars attack
+ 
+
+513
+00:11:09,060 --> 00:11:13,010
+attack role you use the familiars attack
+bonus not yours and second familiars can
+
+514
+00:11:13,010 --> 00:11:13,020
+bonus not yours and second familiars can
+ 
+
+515
+00:11:13,020 --> 00:11:14,900
+bonus not yours and second familiars can
+also use their attack bonus to escape
+
+516
+00:11:14,900 --> 00:11:14,910
+also use their attack bonus to escape
+ 
+
+517
+00:11:14,910 --> 00:11:17,570
+also use their attack bonus to escape
+from attempts to grapple them beyond
+
+518
+00:11:17,570 --> 00:11:17,580
+from attempts to grapple them beyond
+ 
+
+519
+00:11:17,580 --> 00:11:19,850
+from attempts to grapple them beyond
+that using familiars and combat will
+
+520
+00:11:19,850 --> 00:11:19,860
+that using familiars and combat will
+ 
+
+521
+00:11:19,860 --> 00:11:21,740
+that using familiars and combat will
+require some creativity on the part of
+
+522
+00:11:21,740 --> 00:11:21,750
+require some creativity on the part of
+ 
+
+523
+00:11:21,750 --> 00:11:24,640
+require some creativity on the part of
+the GM to rule how things play out
+
+524
+00:11:24,640 --> 00:11:24,650
+the GM to rule how things play out
+ 
+
+525
+00:11:24,650 --> 00:11:27,530
+the GM to rule how things play out
+familiars have no intelligent score so
+
+526
+00:11:27,530 --> 00:11:27,540
+familiars have no intelligent score so
+ 
+
+527
+00:11:27,540 --> 00:11:29,600
+familiars have no intelligent score so
+the GM will decide if the familiar is
+
+528
+00:11:29,600 --> 00:11:29,610
+the GM will decide if the familiar is
+ 
+
+529
+00:11:29,610 --> 00:11:32,240
+the GM will decide if the familiar is
+smart enough to scout familiars have no
+
+530
+00:11:32,240 --> 00:11:32,250
+smart enough to scout familiars have no
+ 
+
+531
+00:11:32,250 --> 00:11:34,430
+smart enough to scout familiars have no
+strength score so the GM will decide
+
+532
+00:11:34,430 --> 00:11:34,440
+strength score so the GM will decide
+ 
+
+533
+00:11:34,440 --> 00:11:37,300
+strength score so the GM will decide
+what that familiars carrying capacity is
+
+534
+00:11:37,300 --> 00:11:37,310
+what that familiars carrying capacity is
+ 
+
+535
+00:11:37,310 --> 00:11:40,010
+what that familiars carrying capacity is
+if a player tells you that they want to
+
+536
+00:11:40,010 --> 00:11:40,020
+if a player tells you that they want to
+ 
+
+537
+00:11:40,020 --> 00:11:42,230
+if a player tells you that they want to
+use their out familiar to gouge up
+
+538
+00:11:42,230 --> 00:11:42,240
+use their out familiar to gouge up
+ 
+
+539
+00:11:42,240 --> 00:11:44,600
+use their out familiar to gouge up
+bayonets on eyes out don't tell them
+
+540
+00:11:44,600 --> 00:11:44,610
+bayonets on eyes out don't tell them
+ 
+
+541
+00:11:44,610 --> 00:11:46,840
+bayonets on eyes out don't tell them
+that familiars have no damage entry and
+
+542
+00:11:46,840 --> 00:11:46,850
+that familiars have no damage entry and
+ 
+
+543
+00:11:46,850 --> 00:11:49,880
+that familiars have no damage entry and
+therefore can't even attempt to claw at
+
+544
+00:11:49,880 --> 00:11:49,890
+therefore can't even attempt to claw at
+ 
+
+545
+00:11:49,890 --> 00:11:52,400
+therefore can't even attempt to claw at
+an enemy that's a really good way to
+
+546
+00:11:52,400 --> 00:11:52,410
+an enemy that's a really good way to
+ 
+
+547
+00:11:52,410 --> 00:11:54,829
+an enemy that's a really good way to
+turn a player off from the game instead
+
+548
+00:11:54,829 --> 00:11:54,839
+turn a player off from the game instead
+ 
+
+549
+00:11:54,839 --> 00:11:56,840
+turn a player off from the game instead
+maybe think about effects other than
+
+550
+00:11:56,840 --> 00:11:56,850
+maybe think about effects other than
+ 
+
+551
+00:11:56,850 --> 00:12:00,440
+maybe think about effects other than
+damage if this was my game I'd counted
+
+552
+00:12:00,440 --> 00:12:00,450
+damage if this was my game I'd counted
+ 
+
+553
+00:12:00,450 --> 00:12:02,720
+damage if this was my game I'd counted
+as an attempt to aid you or one of your
+
+554
+00:12:02,720 --> 00:12:02,730
+as an attempt to aid you or one of your
+ 
+
+555
+00:12:02,730 --> 00:12:05,340
+as an attempt to aid you or one of your
+allies per the aid action on page
+
+556
+00:12:05,340 --> 00:12:05,350
+allies per the aid action on page
+ 
+
+557
+00:12:05,350 --> 00:12:08,580
+allies per the aid action on page
+or 70 the owl is in the bandits face
+
+558
+00:12:08,580 --> 00:12:08,590
+or 70 the owl is in the bandits face
+ 
+
+559
+00:12:08,590 --> 00:12:10,950
+or 70 the owl is in the bandits face
+distracting them and making them more
+
+560
+00:12:10,950 --> 00:12:10,960
+distracting them and making them more
+ 
+
+561
+00:12:10,960 --> 00:12:14,100
+distracting them and making them more
+vulnerable to attack now it is worth
+
+562
+00:12:14,100 --> 00:12:14,110
+vulnerable to attack now it is worth
+ 
+
+563
+00:12:14,110 --> 00:12:16,320
+vulnerable to attack now it is worth
+mentioning that allowing a familiar to
+
+564
+00:12:16,320 --> 00:12:16,330
+mentioning that allowing a familiar to
+ 
+
+565
+00:12:16,330 --> 00:12:19,380
+mentioning that allowing a familiar to
+use aid does conflict with the rules as
+
+566
+00:12:19,380 --> 00:12:19,390
+use aid does conflict with the rules as
+ 
+
+567
+00:12:19,390 --> 00:12:21,960
+use aid does conflict with the rules as
+written because familiars do not have
+
+568
+00:12:21,960 --> 00:12:21,970
+written because familiars do not have
+ 
+
+569
+00:12:21,970 --> 00:12:25,350
+written because familiars do not have
+reactions but in my opinion this is
+
+570
+00:12:25,350 --> 00:12:25,360
+reactions but in my opinion this is
+ 
+
+571
+00:12:25,360 --> 00:12:27,900
+reactions but in my opinion this is
+within the spirit of the rules and is a
+
+572
+00:12:27,900 --> 00:12:27,910
+within the spirit of the rules and is a
+ 
+
+573
+00:12:27,910 --> 00:12:29,490
+within the spirit of the rules and is a
+better option than just shutting a
+
+574
+00:12:29,490 --> 00:12:29,500
+better option than just shutting a
+ 
+
+575
+00:12:29,500 --> 00:12:33,300
+better option than just shutting a
+player down to sum up familiars are not
+
+576
+00:12:33,300 --> 00:12:33,310
+player down to sum up familiars are not
+ 
+
+577
+00:12:33,310 --> 00:12:36,060
+player down to sum up familiars are not
+intended to be combat companions and
+
+578
+00:12:36,060 --> 00:12:36,070
+intended to be combat companions and
+ 
+
+579
+00:12:36,070 --> 00:12:39,090
+intended to be combat companions and
+second edition to quote James Jacobs the
+
+580
+00:12:39,090 --> 00:12:39,100
+second edition to quote James Jacobs the
+ 
+
+581
+00:12:39,100 --> 00:12:42,360
+second edition to quote James Jacobs the
+game's creative director familiars don't
+
+582
+00:12:42,360 --> 00:12:42,370
+game's creative director familiars don't
+ 
+
+583
+00:12:42,370 --> 00:12:45,120
+game's creative director familiars don't
+have their own attacks in second edition
+
+584
+00:12:45,120 --> 00:12:45,130
+have their own attacks in second edition
+ 
+
+585
+00:12:45,130 --> 00:12:47,430
+have their own attacks in second edition
+they're not intended to be combat
+
+586
+00:12:47,430 --> 00:12:47,440
+they're not intended to be combat
+ 
+
+587
+00:12:47,440 --> 00:12:50,070
+they're not intended to be combat
+buddies that's the role of an animal
+
+588
+00:12:50,070 --> 00:12:50,080
+buddies that's the role of an animal
+ 
+
+589
+00:12:50,080 --> 00:12:53,400
+buddies that's the role of an animal
+companion not a familiar in time as we
+
+590
+00:12:53,400 --> 00:12:53,410
+companion not a familiar in time as we
+ 
+
+591
+00:12:53,410 --> 00:12:55,680
+companion not a familiar in time as we
+expand the game will eventually expand
+
+592
+00:12:55,680 --> 00:12:55,690
+expand the game will eventually expand
+ 
+
+593
+00:12:55,690 --> 00:12:58,080
+expand the game will eventually expand
+familiar options as well and that might
+
+594
+00:12:58,080 --> 00:12:58,090
+familiar options as well and that might
+ 
+
+595
+00:12:58,090 --> 00:13:00,030
+familiar options as well and that might
+include the option of giving them a text
+
+596
+00:13:00,030 --> 00:13:00,040
+include the option of giving them a text
+ 
+
+597
+00:13:00,040 --> 00:13:03,330
+include the option of giving them a text
+but as of the base game familiars don't
+
+598
+00:13:03,330 --> 00:13:03,340
+but as of the base game familiars don't
+ 
+
+599
+00:13:03,340 --> 00:13:05,670
+but as of the base game familiars don't
+have attacks again because they're not
+
+600
+00:13:05,670 --> 00:13:05,680
+have attacks again because they're not
+ 
+
+601
+00:13:05,680 --> 00:13:08,400
+have attacks again because they're not
+intended to be combat buddies in that
+
+602
+00:13:08,400 --> 00:13:08,410
+intended to be combat buddies in that
+ 
+
+603
+00:13:08,410 --> 00:13:10,590
+intended to be combat buddies in that
+way
+
+604
+00:13:10,590 --> 00:13:10,600
+way
+ 
+
+605
+00:13:10,600 --> 00:13:13,079
+way
+in this video we discussed the basics of
+
+606
+00:13:13,079 --> 00:13:13,089
+in this video we discussed the basics of
+ 
+
+607
+00:13:13,089 --> 00:13:16,769
+in this video we discussed the basics of
+familiars familiars are specialized
+
+608
+00:13:16,769 --> 00:13:16,779
+familiars familiars are specialized
+ 
+
+609
+00:13:16,779 --> 00:13:18,780
+familiars familiars are specialized
+animals that are magically bonded to
+
+610
+00:13:18,780 --> 00:13:18,790
+animals that are magically bonded to
+ 
+
+611
+00:13:18,790 --> 00:13:21,090
+animals that are magically bonded to
+their masters they are typically gained
+
+612
+00:13:21,090 --> 00:13:21,100
+their masters they are typically gained
+ 
+
+613
+00:13:21,100 --> 00:13:23,939
+their masters they are typically gained
+through class feats instead of using the
+
+614
+00:13:23,939 --> 00:13:23,949
+through class feats instead of using the
+ 
+
+615
+00:13:23,949 --> 00:13:26,160
+through class feats instead of using the
+stat blocks for the same type of animal
+
+616
+00:13:26,160 --> 00:13:26,170
+stat blocks for the same type of animal
+ 
+
+617
+00:13:26,170 --> 00:13:28,230
+stat blocks for the same type of animal
+familiars use the same worlds for
+
+618
+00:13:28,230 --> 00:13:28,240
+familiars use the same worlds for
+ 
+
+619
+00:13:28,240 --> 00:13:30,449
+familiars use the same worlds for
+calculating their stats regardless of
+
+620
+00:13:30,449 --> 00:13:30,459
+calculating their stats regardless of
+ 
+
+621
+00:13:30,459 --> 00:13:32,490
+calculating their stats regardless of
+what kind of animal or more exotic
+
+622
+00:13:32,490 --> 00:13:32,500
+what kind of animal or more exotic
+ 
+
+623
+00:13:32,500 --> 00:13:35,639
+what kind of animal or more exotic
+creature the familiar is a familiars
+
+624
+00:13:35,639 --> 00:13:35,649
+creature the familiar is a familiars
+ 
+
+625
+00:13:35,649 --> 00:13:38,389
+creature the familiar is a familiars
+defenses are equal to their masters
+
+626
+00:13:38,389 --> 00:13:38,399
+defenses are equal to their masters
+ 
+
+627
+00:13:38,399 --> 00:13:41,910
+defenses are equal to their masters
+unmodified scores there saves in Armour
+
+628
+00:13:41,910 --> 00:13:41,920
+unmodified scores there saves in Armour
+ 
+
+629
+00:13:41,920 --> 00:13:43,710
+unmodified scores there saves in Armour
+class are the same under normal
+
+630
+00:13:43,710 --> 00:13:43,720
+class are the same under normal
+ 
+
+631
+00:13:43,720 --> 00:13:46,110
+class are the same under normal
+conditions but if the master has cover
+
+632
+00:13:46,110 --> 00:13:46,120
+conditions but if the master has cover
+ 
+
+633
+00:13:46,120 --> 00:13:48,210
+conditions but if the master has cover
+or somehow has their defenses reduced
+
+634
+00:13:48,210 --> 00:13:48,220
+or somehow has their defenses reduced
+ 
+
+635
+00:13:48,220 --> 00:13:51,590
+or somehow has their defenses reduced
+the familiar is not also affected
+
+636
+00:13:51,590 --> 00:13:51,600
+the familiar is not also affected
+ 
+
+637
+00:13:51,600 --> 00:13:54,569
+the familiar is not also affected
+familiars may never benefit from item
+
+638
+00:13:54,569 --> 00:13:54,579
+familiars may never benefit from item
+ 
+
+639
+00:13:54,579 --> 00:13:57,720
+familiars may never benefit from item
+bonuses familiars all have low light
+
+640
+00:13:57,720 --> 00:13:57,730
+bonuses familiars all have low light
+ 
+
+641
+00:13:57,730 --> 00:14:00,150
+bonuses familiars all have low light
+vision and may communicate empathically
+
+642
+00:14:00,150 --> 00:14:00,160
+vision and may communicate empathically
+ 
+
+643
+00:14:00,160 --> 00:14:02,090
+vision and may communicate empathically
+with their master within one mile and
+
+644
+00:14:02,090 --> 00:14:02,100
+with their master within one mile and
+ 
+
+645
+00:14:02,100 --> 00:14:04,980
+with their master within one mile and
+Pathak communication is a sharing of
+
+646
+00:14:04,980 --> 00:14:04,990
+Pathak communication is a sharing of
+ 
+
+647
+00:14:04,990 --> 00:14:08,249
+Pathak communication is a sharing of
+emotions by default familiars cannot
+
+648
+00:14:08,249 --> 00:14:08,259
+emotions by default familiars cannot
+ 
+
+649
+00:14:08,259 --> 00:14:11,730
+emotions by default familiars cannot
+speak or understand any languages every
+
+650
+00:14:11,730 --> 00:14:11,740
+speak or understand any languages every
+ 
+
+651
+00:14:11,740 --> 00:14:14,220
+speak or understand any languages every
+day you can choose to familiar or master
+
+652
+00:14:14,220 --> 00:14:14,230
+day you can choose to familiar or master
+ 
+
+653
+00:14:14,230 --> 00:14:16,800
+day you can choose to familiar or master
+abilities familiar abilities grant the
+
+654
+00:14:16,800 --> 00:14:16,810
+abilities familiar abilities grant the
+ 
+
+655
+00:14:16,810 --> 00:14:18,689
+abilities familiar abilities grant the
+familiar new features such as the
+
+656
+00:14:18,689 --> 00:14:18,699
+familiar new features such as the
+ 
+
+657
+00:14:18,699 --> 00:14:22,079
+familiar new features such as the
+ability to fly and master abilities give
+
+658
+00:14:22,079 --> 00:14:22,089
+ability to fly and master abilities give
+ 
+
+659
+00:14:22,089 --> 00:14:24,480
+ability to fly and master abilities give
+you new ways to use the familiar like
+
+660
+00:14:24,480 --> 00:14:24,490
+you new ways to use the familiar like
+ 
+
+661
+00:14:24,490 --> 00:14:26,879
+you new ways to use the familiar like
+storing spell slots or focus points for
+
+662
+00:14:26,879 --> 00:14:26,889
+storing spell slots or focus points for
+ 
+
+663
+00:14:26,889 --> 00:14:29,490
+storing spell slots or focus points for
+you you can choose new abilities each
+
+664
+00:14:29,490 --> 00:14:29,500
+you you can choose new abilities each
+ 
+
+665
+00:14:29,500 --> 00:14:32,100
+you you can choose new abilities each
+day but if your familiar is an animal
+
+666
+00:14:32,100 --> 00:14:32,110
+day but if your familiar is an animal
+ 
+
+667
+00:14:32,110 --> 00:14:34,290
+day but if your familiar is an animal
+that naturally has one or more of these
+
+668
+00:14:34,290 --> 00:14:34,300
+that naturally has one or more of these
+ 
+
+669
+00:14:34,300 --> 00:14:37,230
+that naturally has one or more of these
+abilities such as flight then you must
+
+670
+00:14:37,230 --> 00:14:37,240
+abilities such as flight then you must
+ 
+
+671
+00:14:37,240 --> 00:14:39,840
+abilities such as flight then you must
+choose those before you can choose other
+
+672
+00:14:39,840 --> 00:14:39,850
+choose those before you can choose other
+ 
+
+673
+00:14:39,850 --> 00:14:43,290
+choose those before you can choose other
+abilities and it is possible to use more
+
+674
+00:14:43,290 --> 00:14:43,300
+abilities and it is possible to use more
+ 
+
+675
+00:14:43,300 --> 00:14:45,360
+abilities and it is possible to use more
+than two abilities each day through
+
+676
+00:14:45,360 --> 00:14:45,370
+than two abilities each day through
+ 
+
+677
+00:14:45,370 --> 00:14:48,470
+than two abilities each day through
+feats and also through the wizard class
+
+678
+00:14:48,470 --> 00:14:48,480
+feats and also through the wizard class
+ 
+
+679
+00:14:48,480 --> 00:14:51,090
+feats and also through the wizard class
+familiars have the minion trait and
+
+680
+00:14:51,090 --> 00:14:51,100
+familiars have the minion trait and
+ 
+
+681
+00:14:51,100 --> 00:14:53,639
+familiars have the minion trait and
+begin each round with no actions in
+
+682
+00:14:53,639 --> 00:14:53,649
+begin each round with no actions in
+ 
+
+683
+00:14:53,649 --> 00:14:56,939
+begin each round with no actions in
+Newry action you must spend one action
+
+684
+00:14:56,939 --> 00:14:56,949
+Newry action you must spend one action
+ 
+
+685
+00:14:56,949 --> 00:14:58,679
+Newry action you must spend one action
+issuing a verbal command to your
+
+686
+00:14:58,679 --> 00:14:58,689
+issuing a verbal command to your
+ 
+
+687
+00:14:58,689 --> 00:15:01,800
+issuing a verbal command to your
+familiar to grant them two actions that
+
+688
+00:15:01,800 --> 00:15:01,810
+familiar to grant them two actions that
+ 
+
+689
+00:15:01,810 --> 00:15:04,759
+familiar to grant them two actions that
+they can spend during that same turn an
+
+690
+00:15:04,759 --> 00:15:04,769
+they can spend during that same turn an
+ 
+
+691
+00:15:04,769 --> 00:15:08,129
+they can spend during that same turn an
+familiars are not intended for use as an
+
+692
+00:15:08,129 --> 00:15:08,139
+familiars are not intended for use as an
+ 
+
+693
+00:15:08,139 --> 00:15:09,960
+familiars are not intended for use as an
+additional fighter in combat encounters
+
+694
+00:15:09,960 --> 00:15:09,970
+additional fighter in combat encounters
+ 
+
+695
+00:15:09,970 --> 00:15:12,960
+additional fighter in combat encounters
+they have an attack bonus for situations
+
+696
+00:15:12,960 --> 00:15:12,970
+they have an attack bonus for situations
+ 
+
+697
+00:15:12,970 --> 00:15:15,360
+they have an attack bonus for situations
+like delivering touch attack spells but
+
+698
+00:15:15,360 --> 00:15:15,370
+like delivering touch attack spells but
+ 
+
+699
+00:15:15,370 --> 00:15:17,939
+like delivering touch attack spells but
+do not have any natural attacks of their
+
+700
+00:15:17,939 --> 00:15:17,949
+do not have any natural attacks of their
+ 
+
+701
+00:15:17,949 --> 00:15:19,810
+do not have any natural attacks of their
+room
+
+702
+00:15:19,810 --> 00:15:19,820
+room
+ 
+
+703
+00:15:19,820 --> 00:15:21,940
+room
+before we close I'd like to take a
+
+704
+00:15:21,940 --> 00:15:21,950
+before we close I'd like to take a
+ 
+
+705
+00:15:21,950 --> 00:15:24,430
+before we close I'd like to take a
+moment to thank all of our patrons these
+
+706
+00:15:24,430 --> 00:15:24,440
+moment to thank all of our patrons these
+ 
+
+707
+00:15:24,440 --> 00:15:26,170
+moment to thank all of our patrons these
+videos would not be possible without
+
+708
+00:15:26,170 --> 00:15:26,180
+videos would not be possible without
+ 
+
+709
+00:15:26,180 --> 00:15:29,040
+videos would not be possible without
+their continued generosity and support
+
+710
+00:15:29,040 --> 00:15:29,050
+their continued generosity and support
+ 
+
+711
+00:15:29,050 --> 00:15:31,870
+their continued generosity and support
+members of the basics for gamers patreon
+
+712
+00:15:31,870 --> 00:15:31,880
+members of the basics for gamers patreon
+ 
+
+713
+00:15:31,880 --> 00:15:34,060
+members of the basics for gamers patreon
+community receive special benefits like
+
+714
+00:15:34,060 --> 00:15:34,070
+community receive special benefits like
+ 
+
+715
+00:15:34,070 --> 00:15:35,890
+community receive special benefits like
+getting to vote on the topics that we
+
+716
+00:15:35,890 --> 00:15:35,900
+getting to vote on the topics that we
+ 
+
+717
+00:15:35,900 --> 00:15:38,110
+getting to vote on the topics that we
+cover in the future and also they get to
+
+718
+00:15:38,110 --> 00:15:38,120
+cover in the future and also they get to
+ 
+
+719
+00:15:38,120 --> 00:15:40,600
+cover in the future and also they get to
+see these videos one week and ad-free
+
+720
+00:15:40,600 --> 00:15:40,610
+see these videos one week and ad-free
+ 
+
+721
+00:15:40,610 --> 00:15:44,020
+see these videos one week and ad-free
+before everybody else visit the links
+
+722
+00:15:44,020 --> 00:15:44,030
+before everybody else visit the links
+ 
+
+723
+00:15:44,030 --> 00:15:45,730
+before everybody else visit the links
+shown on the left of the screen and in
+
+724
+00:15:45,730 --> 00:15:45,740
+shown on the left of the screen and in
+ 
+
+725
+00:15:45,740 --> 00:15:47,200
+shown on the left of the screen and in
+the description if you'd like to know
+
+726
+00:15:47,200 --> 00:15:47,210
+the description if you'd like to know
+ 
+
+727
+00:15:47,210 --> 00:15:49,900
+the description if you'd like to know
+more about becoming a patron if you
+
+728
+00:15:49,900 --> 00:15:49,910
+more about becoming a patron if you
+ 
+
+729
+00:15:49,910 --> 00:15:51,220
+more about becoming a patron if you
+would like to support this channel and
+
+730
+00:15:51,220 --> 00:15:51,230
+would like to support this channel and
+ 
+
+731
+00:15:51,230 --> 00:15:53,200
+would like to support this channel and
+help it grow the easiest way to do that
+
+732
+00:15:53,200 --> 00:15:53,210
+help it grow the easiest way to do that
+ 
+
+733
+00:15:53,210 --> 00:15:55,930
+help it grow the easiest way to do that
+is by subscribing and clicking the bell
+
+734
+00:15:55,930 --> 00:15:55,940
+is by subscribing and clicking the bell
+ 
+
+735
+00:15:55,940 --> 00:15:58,480
+is by subscribing and clicking the bell
+icon so you get notified when new videos
+
+736
+00:15:58,480 --> 00:15:58,490
+icon so you get notified when new videos
+ 
+
+737
+00:15:58,490 --> 00:16:00,910
+icon so you get notified when new videos
+release and we can always be reached
+
+738
+00:16:00,910 --> 00:16:00,920
+release and we can always be reached
+ 
+
+739
+00:16:00,920 --> 00:16:02,200
+release and we can always be reached
+through our Twitter and Facebook pages
+
+740
+00:16:02,200 --> 00:16:02,210
+through our Twitter and Facebook pages
+ 
+
+741
+00:16:02,210 --> 00:16:05,320
+through our Twitter and Facebook pages
+too thanks for watching take care and we
+
+742
+00:16:05,320 --> 00:16:05,330
+too thanks for watching take care and we
+ 
+
+743
+00:16:05,330 --> 00:16:07,150
+too thanks for watching take care and we
+will see you soon with more basics of
+
+744
+00:16:07,150 --> 00:16:07,160
+will see you soon with more basics of
+ 
+
+745
+00:16:07,160 --> 00:16:09,760
+will see you soon with more basics of
+Pathfinder
+

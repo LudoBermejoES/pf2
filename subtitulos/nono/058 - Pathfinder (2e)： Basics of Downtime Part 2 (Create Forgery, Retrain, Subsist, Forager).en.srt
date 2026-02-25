@@ -1,0 +1,3245 @@
+1
+00:00:00,640 --> 00:00:02,939
+
+hello and welcome to basics for gamers
+
+2
+00:00:02,939 --> 00:00:02,949
+hello and welcome to basics for gamers
+ 
+
+3
+00:00:02,949 --> 00:00:05,429
+hello and welcome to basics for gamers
+presents part 2 of the basics of
+
+4
+00:00:05,429 --> 00:00:05,439
+presents part 2 of the basics of
+ 
+
+5
+00:00:05,439 --> 00:00:07,800
+presents part 2 of the basics of
+downtime in Pathfinder 2nd edition in
+
+6
+00:00:07,800 --> 00:00:07,810
+downtime in Pathfinder 2nd edition in
+ 
+
+7
+00:00:07,810 --> 00:00:10,230
+downtime in Pathfinder 2nd edition in
+the previous video we discussed the earn
+
+8
+00:00:10,230 --> 00:00:10,240
+the previous video we discussed the earn
+ 
+
+9
+00:00:10,240 --> 00:00:12,780
+the previous video we discussed the earn
+income and treat disease activities and
+
+10
+00:00:12,780 --> 00:00:12,790
+income and treat disease activities and
+ 
+
+11
+00:00:12,790 --> 00:00:15,240
+income and treat disease activities and
+in this one we're going to examine the
+
+12
+00:00:15,240 --> 00:00:15,250
+in this one we're going to examine the
+ 
+
+13
+00:00:15,250 --> 00:00:17,730
+in this one we're going to examine the
+remaining downtime activities including
+
+14
+00:00:17,730 --> 00:00:17,740
+remaining downtime activities including
+ 
+
+15
+00:00:17,740 --> 00:00:21,150
+remaining downtime activities including
+long-term rest retraining and subsist
+
+16
+00:00:21,150 --> 00:00:21,160
+long-term rest retraining and subsist
+ 
+
+17
+00:00:21,160 --> 00:00:22,919
+long-term rest retraining and subsist
+but to get us started we're going to
+
+18
+00:00:22,919 --> 00:00:22,929
+but to get us started we're going to
+ 
+
+19
+00:00:22,929 --> 00:00:24,960
+but to get us started we're going to
+talk about how to create forged
+
+20
+00:00:24,960 --> 00:00:24,970
+talk about how to create forged
+ 
+
+21
+00:00:24,970 --> 00:00:28,060
+talk about how to create forged
+documents
+
+22
+00:00:28,060 --> 00:00:28,070
+
+ 
+
+23
+00:00:28,070 --> 00:00:30,340
+
+if a player wishes to make a fake but
+
+24
+00:00:30,340 --> 00:00:30,350
+if a player wishes to make a fake but
+ 
+
+25
+00:00:30,350 --> 00:00:32,950
+if a player wishes to make a fake but
+official looking document they can do so
+
+26
+00:00:32,950 --> 00:00:32,960
+official looking document they can do so
+ 
+
+27
+00:00:32,960 --> 00:00:35,560
+official looking document they can do so
+with their downtime first you have to
+
+28
+00:00:35,560 --> 00:00:35,570
+with their downtime first you have to
+ 
+
+29
+00:00:35,570 --> 00:00:37,930
+with their downtime first you have to
+have already seen a copy of the document
+
+30
+00:00:37,930 --> 00:00:37,940
+have already seen a copy of the document
+ 
+
+31
+00:00:37,940 --> 00:00:39,970
+have already seen a copy of the document
+you wish to fake and you also need
+
+32
+00:00:39,970 --> 00:00:39,980
+you wish to fake and you also need
+ 
+
+33
+00:00:39,980 --> 00:00:41,650
+you wish to fake and you also need
+access to all of the common-sense
+
+34
+00:00:41,650 --> 00:00:41,660
+access to all of the common-sense
+ 
+
+35
+00:00:41,660 --> 00:00:44,500
+access to all of the common-sense
+materials so you might need paper ink
+
+36
+00:00:44,500 --> 00:00:44,510
+materials so you might need paper ink
+ 
+
+37
+00:00:44,510 --> 00:00:48,280
+materials so you might need paper ink
+wax for a seal and so on then you spend
+
+38
+00:00:48,280 --> 00:00:48,290
+wax for a seal and so on then you spend
+ 
+
+39
+00:00:48,290 --> 00:00:50,530
+wax for a seal and so on then you spend
+at least one day of down time working on
+
+40
+00:00:50,530 --> 00:00:50,540
+at least one day of down time working on
+ 
+
+41
+00:00:50,540 --> 00:00:53,560
+at least one day of down time working on
+the copy the total number of days needed
+
+42
+00:00:53,560 --> 00:00:53,570
+the copy the total number of days needed
+ 
+
+43
+00:00:53,570 --> 00:00:55,329
+the copy the total number of days needed
+to complete the work is determined by
+
+44
+00:00:55,329 --> 00:00:55,339
+to complete the work is determined by
+ 
+
+45
+00:00:55,339 --> 00:00:58,299
+to complete the work is determined by
+the GM but should always be at least one
+
+46
+00:00:58,299 --> 00:00:58,309
+the GM but should always be at least one
+ 
+
+47
+00:00:58,309 --> 00:01:01,420
+the GM but should always be at least one
+day after you spend those days working
+
+48
+00:01:01,420 --> 00:01:01,430
+day after you spend those days working
+ 
+
+49
+00:01:01,430 --> 00:01:04,869
+day after you spend those days working
+the GM will roll a DC 20 society skill
+
+50
+00:01:04,869 --> 00:01:04,879
+the GM will roll a DC 20 society skill
+ 
+
+51
+00:01:04,879 --> 00:01:07,510
+the GM will roll a DC 20 society skill
+check for you in secret so you won't
+
+52
+00:01:07,510 --> 00:01:07,520
+check for you in secret so you won't
+ 
+
+53
+00:01:07,520 --> 00:01:09,670
+check for you in secret so you won't
+know how convincing your fake is until
+
+54
+00:01:09,670 --> 00:01:09,680
+know how convincing your fake is until
+ 
+
+55
+00:01:09,680 --> 00:01:11,620
+know how convincing your fake is until
+you try and actually pass it off as the
+
+56
+00:01:11,620 --> 00:01:11,630
+you try and actually pass it off as the
+ 
+
+57
+00:01:11,630 --> 00:01:15,310
+you try and actually pass it off as the
+real thing the GM will also grant up to
+
+58
+00:01:15,310 --> 00:01:15,320
+real thing the GM will also grant up to
+ 
+
+59
+00:01:15,320 --> 00:01:18,520
+real thing the GM will also grant up to
+a +4 bonus that role depending on the
+
+60
+00:01:18,520 --> 00:01:18,530
+a +4 bonus that role depending on the
+ 
+
+61
+00:01:18,530 --> 00:01:21,760
+a +4 bonus that role depending on the
+situation if you haven't just seen the
+
+62
+00:01:21,760 --> 00:01:21,770
+situation if you haven't just seen the
+ 
+
+63
+00:01:21,770 --> 00:01:23,980
+situation if you haven't just seen the
+document before but actually have the
+
+64
+00:01:23,980 --> 00:01:23,990
+document before but actually have the
+ 
+
+65
+00:01:23,990 --> 00:01:25,630
+document before but actually have the
+real thing with you as you make your
+
+66
+00:01:25,630 --> 00:01:25,640
+real thing with you as you make your
+ 
+
+67
+00:01:25,640 --> 00:01:26,410
+real thing with you as you make your
+forgery
+
+68
+00:01:26,410 --> 00:01:26,420
+forgery
+ 
+
+69
+00:01:26,420 --> 00:01:28,240
+forgery
+then the GM will likely give you a bonus
+
+70
+00:01:28,240 --> 00:01:28,250
+then the GM will likely give you a bonus
+ 
+
+71
+00:01:28,250 --> 00:01:30,609
+then the GM will likely give you a bonus
+for that but the GM will also impose
+
+72
+00:01:30,609 --> 00:01:30,619
+for that but the GM will also impose
+ 
+
+73
+00:01:30,619 --> 00:01:33,340
+for that but the GM will also impose
+penalties as they deem appropriate for
+
+74
+00:01:33,340 --> 00:01:33,350
+penalties as they deem appropriate for
+ 
+
+75
+00:01:33,350 --> 00:01:35,590
+penalties as they deem appropriate for
+example if the forgery requires a
+
+76
+00:01:35,590 --> 00:01:35,600
+example if the forgery requires a
+ 
+
+77
+00:01:35,600 --> 00:01:38,350
+example if the forgery requires a
+specific person signature then they will
+
+78
+00:01:38,350 --> 00:01:38,360
+specific person signature then they will
+ 
+
+79
+00:01:38,360 --> 00:01:41,200
+specific person signature then they will
+raise the DC and also require that you
+
+80
+00:01:41,200 --> 00:01:41,210
+raise the DC and also require that you
+ 
+
+81
+00:01:41,210 --> 00:01:43,030
+raise the DC and also require that you
+have a copy of that person's actual
+
+82
+00:01:43,030 --> 00:01:43,040
+have a copy of that person's actual
+ 
+
+83
+00:01:43,040 --> 00:01:45,039
+have a copy of that person's actual
+signature as you attempt to make the
+
+84
+00:01:45,039 --> 00:01:45,049
+signature as you attempt to make the
+ 
+
+85
+00:01:45,049 --> 00:01:48,880
+signature as you attempt to make the
+forgery if you fail this check then the
+
+86
+00:01:48,880 --> 00:01:48,890
+forgery if you fail this check then the
+ 
+
+87
+00:01:48,890 --> 00:01:51,490
+forgery if you fail this check then the
+forgery can be spotted by passive
+
+88
+00:01:51,490 --> 00:01:51,500
+forgery can be spotted by passive
+ 
+
+89
+00:01:51,500 --> 00:01:54,010
+forgery can be spotted by passive
+observers anyone who looks at the
+
+90
+00:01:54,010 --> 00:01:54,020
+observers anyone who looks at the
+ 
+
+91
+00:01:54,020 --> 00:01:56,499
+observers anyone who looks at the
+forgery regardless of if they're just
+
+92
+00:01:56,499 --> 00:01:56,509
+forgery regardless of if they're just
+ 
+
+93
+00:01:56,509 --> 00:01:58,210
+forgery regardless of if they're just
+glancing at it or if they're really
+
+94
+00:01:58,210 --> 00:01:58,220
+glancing at it or if they're really
+ 
+
+95
+00:01:58,220 --> 00:02:00,700
+glancing at it or if they're really
+checking it hard they will have the hire
+
+96
+00:02:00,700 --> 00:02:00,710
+checking it hard they will have the hire
+ 
+
+97
+00:02:00,710 --> 00:02:03,550
+checking it hard they will have the hire
+of either their perception DC or their
+
+98
+00:02:03,550 --> 00:02:03,560
+of either their perception DC or their
+ 
+
+99
+00:02:03,560 --> 00:02:06,310
+of either their perception DC or their
+Society DC compared to that Society
+
+100
+00:02:06,310 --> 00:02:06,320
+Society DC compared to that Society
+ 
+
+101
+00:02:06,320 --> 00:02:08,560
+Society DC compared to that Society
+check that the GM rolled in secret when
+
+102
+00:02:08,560 --> 00:02:08,570
+check that the GM rolled in secret when
+ 
+
+103
+00:02:08,570 --> 00:02:11,289
+check that the GM rolled in secret when
+making the document as a reminder a
+
+104
+00:02:11,289 --> 00:02:11,299
+making the document as a reminder a
+ 
+
+105
+00:02:11,299 --> 00:02:13,960
+making the document as a reminder a
+skilled EC is just ten plus their bonus
+
+106
+00:02:13,960 --> 00:02:13,970
+skilled EC is just ten plus their bonus
+ 
+
+107
+00:02:13,970 --> 00:02:16,960
+skilled EC is just ten plus their bonus
+so if a character has a society skill
+
+108
+00:02:16,960 --> 00:02:16,970
+so if a character has a society skill
+ 
+
+109
+00:02:16,970 --> 00:02:20,350
+so if a character has a society skill
+bonus of plus nine then their society DC
+
+110
+00:02:20,350 --> 00:02:20,360
+bonus of plus nine then their society DC
+ 
+
+111
+00:02:20,360 --> 00:02:23,830
+bonus of plus nine then their society DC
+will be 19 and if either of their
+
+112
+00:02:23,830 --> 00:02:23,840
+will be 19 and if either of their
+ 
+
+113
+00:02:23,840 --> 00:02:27,069
+will be 19 and if either of their
+perception DC or Society DC is higher
+
+114
+00:02:27,069 --> 00:02:27,079
+perception DC or Society DC is higher
+ 
+
+115
+00:02:27,079 --> 00:02:29,319
+perception DC or Society DC is higher
+than that total of the Society skill
+
+116
+00:02:29,319 --> 00:02:29,329
+than that total of the Society skill
+ 
+
+117
+00:02:29,329 --> 00:02:30,910
+than that total of the Society skill
+check that it was rolled with making the
+
+118
+00:02:30,910 --> 00:02:30,920
+check that it was rolled with making the
+ 
+
+119
+00:02:30,920 --> 00:02:33,130
+check that it was rolled with making the
+document then they're going to realize
+
+120
+00:02:33,130 --> 00:02:33,140
+document then they're going to realize
+ 
+
+121
+00:02:33,140 --> 00:02:35,589
+document then they're going to realize
+that they are looking at a fake
+
+122
+00:02:35,589 --> 00:02:35,599
+that they are looking at a fake
+ 
+
+123
+00:02:35,599 --> 00:02:37,839
+that they are looking at a fake
+that's what happens when you fail the
+
+124
+00:02:37,839 --> 00:02:37,849
+that's what happens when you fail the
+ 
+
+125
+00:02:37,849 --> 00:02:40,140
+that's what happens when you fail the
+original skill check but if you succeed
+
+126
+00:02:40,140 --> 00:02:40,150
+original skill check but if you succeed
+ 
+
+127
+00:02:40,150 --> 00:02:43,750
+original skill check but if you succeed
+then passive observers can never spot
+
+128
+00:02:43,750 --> 00:02:43,760
+then passive observers can never spot
+ 
+
+129
+00:02:43,760 --> 00:02:46,179
+then passive observers can never spot
+the fake no matter how high their
+
+130
+00:02:46,179 --> 00:02:46,189
+the fake no matter how high their
+ 
+
+131
+00:02:46,189 --> 00:02:48,690
+the fake no matter how high their
+perception DC or society DC's are
+
+132
+00:02:48,690 --> 00:02:48,700
+perception DC or society DC's are
+ 
+
+133
+00:02:48,700 --> 00:02:51,970
+perception DC or society DC's are
+however this how it works for passive
+
+134
+00:02:51,970 --> 00:02:51,980
+however this how it works for passive
+ 
+
+135
+00:02:51,980 --> 00:02:55,059
+however this how it works for passive
+observers but active observers will
+
+136
+00:02:55,059 --> 00:02:55,069
+observers but active observers will
+ 
+
+137
+00:02:55,069 --> 00:02:57,520
+observers but active observers will
+always have a chance of realizing the
+
+138
+00:02:57,520 --> 00:02:57,530
+always have a chance of realizing the
+ 
+
+139
+00:02:57,530 --> 00:03:00,339
+always have a chance of realizing the
+document is fake regardless of what you
+
+140
+00:03:00,339 --> 00:03:00,349
+document is fake regardless of what you
+ 
+
+141
+00:03:00,349 --> 00:03:02,409
+document is fake regardless of what you
+rolled on your original skill check to
+
+142
+00:03:02,409 --> 00:03:02,419
+rolled on your original skill check to
+ 
+
+143
+00:03:02,419 --> 00:03:05,800
+rolled on your original skill check to
+make that force document a passive
+
+144
+00:03:05,800 --> 00:03:05,810
+make that force document a passive
+ 
+
+145
+00:03:05,810 --> 00:03:08,080
+make that force document a passive
+observer is someone who just looks at
+
+146
+00:03:08,080 --> 00:03:08,090
+observer is someone who just looks at
+ 
+
+147
+00:03:08,090 --> 00:03:09,729
+observer is someone who just looks at
+the document and takes it at face value
+
+148
+00:03:09,729 --> 00:03:09,739
+the document and takes it at face value
+ 
+
+149
+00:03:09,739 --> 00:03:13,030
+the document and takes it at face value
+an active observer is someone who
+
+150
+00:03:13,030 --> 00:03:13,040
+an active observer is someone who
+ 
+
+151
+00:03:13,040 --> 00:03:14,830
+an active observer is someone who
+scrutinizes the document they
+
+152
+00:03:14,830 --> 00:03:14,840
+scrutinizes the document they
+ 
+
+153
+00:03:14,840 --> 00:03:16,420
+scrutinizes the document they
+intentionally look at it and they're
+
+154
+00:03:16,420 --> 00:03:16,430
+intentionally look at it and they're
+ 
+
+155
+00:03:16,430 --> 00:03:19,000
+intentionally look at it and they're
+checking for signs of a forgery they
+
+156
+00:03:19,000 --> 00:03:19,010
+checking for signs of a forgery they
+ 
+
+157
+00:03:19,010 --> 00:03:20,949
+checking for signs of a forgery they
+might hold it up to the light feel the
+
+158
+00:03:20,949 --> 00:03:20,959
+might hold it up to the light feel the
+ 
+
+159
+00:03:20,959 --> 00:03:23,289
+might hold it up to the light feel the
+texture and weight of the paper check
+
+160
+00:03:23,289 --> 00:03:23,299
+texture and weight of the paper check
+ 
+
+161
+00:03:23,299 --> 00:03:25,649
+texture and weight of the paper check
+the quality of the ink and so on
+
+162
+00:03:25,649 --> 00:03:25,659
+the quality of the ink and so on
+ 
+
+163
+00:03:25,659 --> 00:03:28,330
+the quality of the ink and so on
+regardless of the initial skill check if
+
+164
+00:03:28,330 --> 00:03:28,340
+regardless of the initial skill check if
+ 
+
+165
+00:03:28,340 --> 00:03:30,399
+regardless of the initial skill check if
+someone is actively checking the
+
+166
+00:03:30,399 --> 00:03:30,409
+someone is actively checking the
+ 
+
+167
+00:03:30,409 --> 00:03:32,800
+someone is actively checking the
+document for signs of a forgery that
+
+168
+00:03:32,800 --> 00:03:32,810
+document for signs of a forgery that
+ 
+
+169
+00:03:32,810 --> 00:03:35,860
+document for signs of a forgery that
+character roles the hire of either their
+
+170
+00:03:35,860 --> 00:03:35,870
+character roles the hire of either their
+ 
+
+171
+00:03:35,870 --> 00:03:38,159
+character roles the hire of either their
+perception or society skills and
+
+172
+00:03:38,159 --> 00:03:38,169
+perception or society skills and
+ 
+
+173
+00:03:38,169 --> 00:03:42,099
+perception or society skills and
+compares that total against your society
+
+174
+00:03:42,099 --> 00:03:42,109
+compares that total against your society
+ 
+
+175
+00:03:42,109 --> 00:03:45,369
+compares that total against your society
+DC not the total of the skill check that
+
+176
+00:03:45,369 --> 00:03:45,379
+DC not the total of the skill check that
+ 
+
+177
+00:03:45,379 --> 00:03:50,439
+DC not the total of the skill check that
+you rolled but your society DC if they
+
+178
+00:03:50,439 --> 00:03:50,449
+you rolled but your society DC if they
+ 
+
+179
+00:03:50,449 --> 00:03:53,979
+you rolled but your society DC if they
+beat your society DC then they will spot
+
+180
+00:03:53,979 --> 00:03:53,989
+beat your society DC then they will spot
+ 
+
+181
+00:03:53,989 --> 00:03:57,159
+beat your society DC then they will spot
+that it is a fake this is a little bit
+
+182
+00:03:57,159 --> 00:03:57,169
+that it is a fake this is a little bit
+ 
+
+183
+00:03:57,169 --> 00:03:58,899
+that it is a fake this is a little bit
+trickier than I think a lot of people
+
+184
+00:03:58,899 --> 00:03:58,909
+trickier than I think a lot of people
+ 
+
+185
+00:03:58,909 --> 00:04:01,059
+trickier than I think a lot of people
+expect so if you need more information
+
+186
+00:04:01,059 --> 00:04:01,069
+expect so if you need more information
+ 
+
+187
+00:04:01,069 --> 00:04:03,069
+expect so if you need more information
+about forgeries make sure you check out
+
+188
+00:04:03,069 --> 00:04:03,079
+about forgeries make sure you check out
+ 
+
+189
+00:04:03,079 --> 00:04:05,020
+about forgeries make sure you check out
+our companion video that's linked in the
+
+190
+00:04:05,020 --> 00:04:05,030
+our companion video that's linked in the
+ 
+
+191
+00:04:05,030 --> 00:04:07,689
+our companion video that's linked in the
+description it has a full example of how
+
+192
+00:04:07,689 --> 00:04:07,699
+description it has a full example of how
+ 
+
+193
+00:04:07,699 --> 00:04:11,140
+description it has a full example of how
+forgeries work
+
+194
+00:04:11,140 --> 00:04:11,150
+
+ 
+
+195
+00:04:11,150 --> 00:04:13,119
+
+if you're really beat up after an
+
+196
+00:04:13,119 --> 00:04:13,129
+if you're really beat up after an
+ 
+
+197
+00:04:13,129 --> 00:04:15,640
+if you're really beat up after an
+adventure you can use your downtime to
+
+198
+00:04:15,640 --> 00:04:15,650
+adventure you can use your downtime to
+ 
+
+199
+00:04:15,650 --> 00:04:18,340
+adventure you can use your downtime to
+rest and heal up when you spend an
+
+200
+00:04:18,340 --> 00:04:18,350
+rest and heal up when you spend an
+ 
+
+201
+00:04:18,350 --> 00:04:21,279
+rest and heal up when you spend an
+entire day and night of downtime resting
+
+202
+00:04:21,279 --> 00:04:21,289
+entire day and night of downtime resting
+ 
+
+203
+00:04:21,289 --> 00:04:24,070
+entire day and night of downtime resting
+you recover a number of hip points equal
+
+204
+00:04:24,070 --> 00:04:24,080
+you recover a number of hip points equal
+ 
+
+205
+00:04:24,080 --> 00:04:26,469
+you recover a number of hip points equal
+to your Constitution modifier times
+
+206
+00:04:26,469 --> 00:04:26,479
+to your Constitution modifier times
+ 
+
+207
+00:04:26,479 --> 00:04:29,590
+to your Constitution modifier times
+double your character level and as with
+
+208
+00:04:29,590 --> 00:04:29,600
+double your character level and as with
+ 
+
+209
+00:04:29,600 --> 00:04:31,960
+double your character level and as with
+other forms of rest your Constitution
+
+210
+00:04:31,960 --> 00:04:31,970
+other forms of rest your Constitution
+ 
+
+211
+00:04:31,970 --> 00:04:34,300
+other forms of rest your Constitution
+modifier is considered to be at least
+
+212
+00:04:34,300 --> 00:04:34,310
+modifier is considered to be at least
+ 
+
+213
+00:04:34,310 --> 00:04:37,510
+modifier is considered to be at least
+one for this purpose so a six level
+
+214
+00:04:37,510 --> 00:04:37,520
+one for this purpose so a six level
+ 
+
+215
+00:04:37,520 --> 00:04:40,060
+one for this purpose so a six level
+character with a +3 Constitution
+
+216
+00:04:40,060 --> 00:04:40,070
+character with a +3 Constitution
+ 
+
+217
+00:04:40,070 --> 00:04:43,750
+character with a +3 Constitution
+modifier would heal 36 hip points and if
+
+218
+00:04:43,750 --> 00:04:43,760
+modifier would heal 36 hip points and if
+ 
+
+219
+00:04:43,760 --> 00:04:45,760
+modifier would heal 36 hip points and if
+the same character had a negative two
+
+220
+00:04:45,760 --> 00:04:45,770
+the same character had a negative two
+ 
+
+221
+00:04:45,770 --> 00:04:48,129
+the same character had a negative two
+Constitution modifier they would still
+
+222
+00:04:48,129 --> 00:04:48,139
+Constitution modifier they would still
+ 
+
+223
+00:04:48,139 --> 00:04:50,350
+Constitution modifier they would still
+heal 12 hip points from a day of
+
+224
+00:04:50,350 --> 00:04:50,360
+heal 12 hip points from a day of
+ 
+
+225
+00:04:50,360 --> 00:04:52,800
+heal 12 hip points from a day of
+long-term rest
+
+226
+00:04:52,800 --> 00:04:52,810
+long-term rest
+ 
+
+227
+00:04:52,810 --> 00:04:55,230
+long-term rest
+if you find yourself wishing you had it
+
+228
+00:04:55,230 --> 00:04:55,240
+if you find yourself wishing you had it
+ 
+
+229
+00:04:55,240 --> 00:04:57,060
+if you find yourself wishing you had it
+taken a certain feat when you level it
+
+230
+00:04:57,060 --> 00:04:57,070
+taken a certain feat when you level it
+ 
+
+231
+00:04:57,070 --> 00:04:59,520
+taken a certain feat when you level it
+up or would prefer to have an ability
+
+232
+00:04:59,520 --> 00:04:59,530
+up or would prefer to have an ability
+ 
+
+233
+00:04:59,530 --> 00:05:01,350
+up or would prefer to have an ability
+that comes from a newly published book
+
+234
+00:05:01,350 --> 00:05:01,360
+that comes from a newly published book
+ 
+
+235
+00:05:01,360 --> 00:05:04,050
+that comes from a newly published book
+then you can spend your downtime to
+
+236
+00:05:04,050 --> 00:05:04,060
+then you can spend your downtime to
+ 
+
+237
+00:05:04,060 --> 00:05:07,440
+then you can spend your downtime to
+retrain yourself and change some aspects
+
+238
+00:05:07,440 --> 00:05:07,450
+retrain yourself and change some aspects
+ 
+
+239
+00:05:07,450 --> 00:05:08,510
+retrain yourself and change some aspects
+of your character
+
+240
+00:05:08,510 --> 00:05:08,520
+of your character
+ 
+
+241
+00:05:08,520 --> 00:05:10,830
+of your character
+retraining can be used to change your
+
+242
+00:05:10,830 --> 00:05:10,840
+retraining can be used to change your
+ 
+
+243
+00:05:10,840 --> 00:05:13,590
+retraining can be used to change your
+feats your skills and some class
+
+244
+00:05:13,590 --> 00:05:13,600
+feats your skills and some class
+ 
+
+245
+00:05:13,600 --> 00:05:16,650
+feats your skills and some class
+features but not some other aspects of
+
+246
+00:05:16,650 --> 00:05:16,660
+features but not some other aspects of
+ 
+
+247
+00:05:16,660 --> 00:05:18,870
+features but not some other aspects of
+your character like class or ability
+
+248
+00:05:18,870 --> 00:05:18,880
+your character like class or ability
+ 
+
+249
+00:05:18,880 --> 00:05:22,170
+your character like class or ability
+scores what can and cannot be retrained
+
+250
+00:05:22,170 --> 00:05:22,180
+scores what can and cannot be retrained
+ 
+
+251
+00:05:22,180 --> 00:05:24,960
+scores what can and cannot be retrained
+is ultimately up to East GM to decide
+
+252
+00:05:24,960 --> 00:05:24,970
+is ultimately up to East GM to decide
+ 
+
+253
+00:05:24,970 --> 00:05:27,570
+is ultimately up to East GM to decide
+for example some GM's may allow a
+
+254
+00:05:27,570 --> 00:05:27,580
+for example some GM's may allow a
+ 
+
+255
+00:05:27,580 --> 00:05:29,460
+for example some GM's may allow a
+sorcerer to change their bloodline or
+
+256
+00:05:29,460 --> 00:05:29,470
+sorcerer to change their bloodline or
+ 
+
+257
+00:05:29,470 --> 00:05:32,100
+sorcerer to change their bloodline or
+they might require some really
+
+258
+00:05:32,100 --> 00:05:32,110
+they might require some really
+ 
+
+259
+00:05:32,110 --> 00:05:34,530
+they might require some really
+significant event to occur first before
+
+260
+00:05:34,530 --> 00:05:34,540
+significant event to occur first before
+ 
+
+261
+00:05:34,540 --> 00:05:36,090
+significant event to occur first before
+that character can do something like
+
+262
+00:05:36,090 --> 00:05:36,100
+that character can do something like
+ 
+
+263
+00:05:36,100 --> 00:05:39,409
+that character can do something like
+that again it's going to be up to the GM
+
+264
+00:05:39,409 --> 00:05:39,419
+that again it's going to be up to the GM
+ 
+
+265
+00:05:39,419 --> 00:05:42,810
+that again it's going to be up to the GM
+retraining requires a teacher or some
+
+266
+00:05:42,810 --> 00:05:42,820
+retraining requires a teacher or some
+ 
+
+267
+00:05:42,820 --> 00:05:45,750
+retraining requires a teacher or some
+form of instruction this may incur a
+
+268
+00:05:45,750 --> 00:05:45,760
+form of instruction this may incur a
+ 
+
+269
+00:05:45,760 --> 00:05:48,420
+form of instruction this may incur a
+cost as well which will be determined by
+
+270
+00:05:48,420 --> 00:05:48,430
+cost as well which will be determined by
+ 
+
+271
+00:05:48,430 --> 00:05:51,930
+cost as well which will be determined by
+the GM and when you retrain you can only
+
+272
+00:05:51,930 --> 00:05:51,940
+the GM and when you retrain you can only
+ 
+
+273
+00:05:51,940 --> 00:05:54,690
+the GM and when you retrain you can only
+gain an ability that you meet all the
+
+274
+00:05:54,690 --> 00:05:54,700
+gain an ability that you meet all the
+ 
+
+275
+00:05:54,700 --> 00:05:57,270
+gain an ability that you meet all the
+prerequisites for and war at a high
+
+276
+00:05:57,270 --> 00:05:57,280
+prerequisites for and war at a high
+ 
+
+277
+00:05:57,280 --> 00:05:59,850
+prerequisites for and war at a high
+enough level to use when you originally
+
+278
+00:05:59,850 --> 00:05:59,860
+enough level to use when you originally
+ 
+
+279
+00:05:59,860 --> 00:06:03,090
+enough level to use when you originally
+took that ability for example if you're
+
+280
+00:06:03,090 --> 00:06:03,100
+took that ability for example if you're
+ 
+
+281
+00:06:03,100 --> 00:06:05,580
+took that ability for example if you're
+a fourth level and have a second level
+
+282
+00:06:05,580 --> 00:06:05,590
+a fourth level and have a second level
+ 
+
+283
+00:06:05,590 --> 00:06:07,590
+a fourth level and have a second level
+feat that you took when you reached
+
+284
+00:06:07,590 --> 00:06:07,600
+feat that you took when you reached
+ 
+
+285
+00:06:07,600 --> 00:06:10,230
+feat that you took when you reached
+second level think of that second level
+
+286
+00:06:10,230 --> 00:06:10,240
+second level think of that second level
+ 
+
+287
+00:06:10,240 --> 00:06:12,210
+second level think of that second level
+feet as occupying a slot
+
+288
+00:06:12,210 --> 00:06:12,220
+feet as occupying a slot
+ 
+
+289
+00:06:12,220 --> 00:06:15,440
+feet as occupying a slot
+it's occupying a second level feet slot
+
+290
+00:06:15,440 --> 00:06:15,450
+it's occupying a second level feet slot
+ 
+
+291
+00:06:15,450 --> 00:06:19,230
+it's occupying a second level feet slot
+you can use retraining to replace that
+
+292
+00:06:19,230 --> 00:06:19,240
+you can use retraining to replace that
+ 
+
+293
+00:06:19,240 --> 00:06:22,230
+you can use retraining to replace that
+feet with a first level or second level
+
+294
+00:06:22,230 --> 00:06:22,240
+feet with a first level or second level
+ 
+
+295
+00:06:22,240 --> 00:06:24,750
+feet with a first level or second level
+feet but couldn't replace it with a
+
+296
+00:06:24,750 --> 00:06:24,760
+feet but couldn't replace it with a
+ 
+
+297
+00:06:24,760 --> 00:06:27,570
+feet but couldn't replace it with a
+fourth level feet even though you're now
+
+298
+00:06:27,570 --> 00:06:27,580
+fourth level feet even though you're now
+ 
+
+299
+00:06:27,580 --> 00:06:30,390
+fourth level feet even though you're now
+fourth level because the slot used to
+
+300
+00:06:30,390 --> 00:06:30,400
+fourth level because the slot used to
+ 
+
+301
+00:06:30,400 --> 00:06:33,120
+fourth level because the slot used to
+take the original feet is only second
+
+302
+00:06:33,120 --> 00:06:33,130
+take the original feet is only second
+ 
+
+303
+00:06:33,130 --> 00:06:36,450
+take the original feet is only second
+level one week of downtime is required
+
+304
+00:06:36,450 --> 00:06:36,460
+level one week of downtime is required
+ 
+
+305
+00:06:36,460 --> 00:06:39,450
+level one week of downtime is required
+to swap one feet for another as usual
+
+306
+00:06:39,450 --> 00:06:39,460
+to swap one feet for another as usual
+ 
+
+307
+00:06:39,460 --> 00:06:41,430
+to swap one feet for another as usual
+you cannot perform any other downtime
+
+308
+00:06:41,430 --> 00:06:41,440
+you cannot perform any other downtime
+ 
+
+309
+00:06:41,440 --> 00:06:44,070
+you cannot perform any other downtime
+activities during this time and at the
+
+310
+00:06:44,070 --> 00:06:44,080
+activities during this time and at the
+ 
+
+311
+00:06:44,080 --> 00:06:46,170
+activities during this time and at the
+end of the week you swap the old feet
+
+312
+00:06:46,170 --> 00:06:46,180
+end of the week you swap the old feet
+ 
+
+313
+00:06:46,180 --> 00:06:48,840
+end of the week you swap the old feet
+for the new one you can also spend a
+
+314
+00:06:48,840 --> 00:06:48,850
+for the new one you can also spend a
+ 
+
+315
+00:06:48,850 --> 00:06:51,330
+for the new one you can also spend a
+week of downtime to swap out a skill
+
+316
+00:06:51,330 --> 00:06:51,340
+week of downtime to swap out a skill
+ 
+
+317
+00:06:51,340 --> 00:06:54,210
+week of downtime to swap out a skill
+increase at the end of this time you
+
+318
+00:06:54,210 --> 00:06:54,220
+increase at the end of this time you
+ 
+
+319
+00:06:54,220 --> 00:06:56,520
+increase at the end of this time you
+lower the proficiency rank of one of
+
+320
+00:06:56,520 --> 00:06:56,530
+lower the proficiency rank of one of
+ 
+
+321
+00:06:56,530 --> 00:06:59,490
+lower the proficiency rank of one of
+your skills by one step and increase the
+
+322
+00:06:59,490 --> 00:06:59,500
+your skills by one step and increase the
+ 
+
+323
+00:06:59,500 --> 00:07:02,159
+your skills by one step and increase the
+proficiency rank of another skill by one
+
+324
+00:07:02,159 --> 00:07:02,169
+proficiency rank of another skill by one
+ 
+
+325
+00:07:02,169 --> 00:07:05,219
+proficiency rank of another skill by one
+step but the catch here is the new
+
+326
+00:07:05,219 --> 00:07:05,229
+step but the catch here is the new
+ 
+
+327
+00:07:05,229 --> 00:07:06,540
+step but the catch here is the new
+proficiency rank
+
+328
+00:07:06,540 --> 00:07:06,550
+proficiency rank
+ 
+
+329
+00:07:06,550 --> 00:07:09,330
+proficiency rank
+has to be equal to or lower than the
+
+330
+00:07:09,330 --> 00:07:09,340
+has to be equal to or lower than the
+ 
+
+331
+00:07:09,340 --> 00:07:12,810
+has to be equal to or lower than the
+proficiency rank you traded away so for
+
+332
+00:07:12,810 --> 00:07:12,820
+proficiency rank you traded away so for
+ 
+
+333
+00:07:12,820 --> 00:07:15,150
+proficiency rank you traded away so for
+instance if your bard is a master
+
+334
+00:07:15,150 --> 00:07:15,160
+instance if your bard is a master
+ 
+
+335
+00:07:15,160 --> 00:07:17,700
+instance if your bard is a master
+interception and a master in diplomacy
+
+336
+00:07:17,700 --> 00:07:17,710
+interception and a master in diplomacy
+ 
+
+337
+00:07:17,710 --> 00:07:21,660
+interception and a master in diplomacy
+and an expert in intimidation you could
+
+338
+00:07:21,660 --> 00:07:21,670
+and an expert in intimidation you could
+ 
+
+339
+00:07:21,670 --> 00:07:23,820
+and an expert in intimidation you could
+reduce that character's proficiency and
+
+340
+00:07:23,820 --> 00:07:23,830
+reduce that character's proficiency and
+ 
+
+341
+00:07:23,830 --> 00:07:26,490
+reduce that character's proficiency and
+diplomacy to expert and then become a
+
+342
+00:07:26,490 --> 00:07:26,500
+diplomacy to expert and then become a
+ 
+
+343
+00:07:26,500 --> 00:07:29,400
+diplomacy to expert and then become a
+master in intimidation but you couldn't
+
+344
+00:07:29,400 --> 00:07:29,410
+master in intimidation but you couldn't
+ 
+
+345
+00:07:29,410 --> 00:07:31,440
+master in intimidation but you couldn't
+reassign that skill increase to become
+
+346
+00:07:31,440 --> 00:07:31,450
+reassign that skill increase to become
+ 
+
+347
+00:07:31,450 --> 00:07:35,310
+reassign that skill increase to become
+legendary and deception and you can use
+
+348
+00:07:35,310 --> 00:07:35,320
+legendary and deception and you can use
+ 
+
+349
+00:07:35,320 --> 00:07:37,380
+legendary and deception and you can use
+retraining to swap initial skill
+
+350
+00:07:37,380 --> 00:07:37,390
+retraining to swap initial skill
+ 
+
+351
+00:07:37,390 --> 00:07:39,660
+retraining to swap initial skill
+proficiencies from character creation so
+
+352
+00:07:39,660 --> 00:07:39,670
+proficiencies from character creation so
+ 
+
+353
+00:07:39,670 --> 00:07:41,880
+proficiencies from character creation so
+making one skill untrained and then
+
+354
+00:07:41,880 --> 00:07:41,890
+making one skill untrained and then
+ 
+
+355
+00:07:41,890 --> 00:07:43,850
+making one skill untrained and then
+another skill trained
+
+356
+00:07:43,850 --> 00:07:43,860
+another skill trained
+ 
+
+357
+00:07:43,860 --> 00:07:46,470
+another skill trained
+retraining class features works mostly
+
+358
+00:07:46,470 --> 00:07:46,480
+retraining class features works mostly
+ 
+
+359
+00:07:46,480 --> 00:07:49,260
+retraining class features works mostly
+the same way you can only change class
+
+360
+00:07:49,260 --> 00:07:49,270
+the same way you can only change class
+ 
+
+361
+00:07:49,270 --> 00:07:51,480
+the same way you can only change class
+features that you select when leveling
+
+362
+00:07:51,480 --> 00:07:51,490
+features that you select when leveling
+ 
+
+363
+00:07:51,490 --> 00:07:54,630
+features that you select when leveling
+up so a ranger could choose to change
+
+364
+00:07:54,630 --> 00:07:54,640
+up so a ranger could choose to change
+ 
+
+365
+00:07:54,640 --> 00:07:57,240
+up so a ranger could choose to change
+from the Florrie hunter's edge to
+
+366
+00:07:57,240 --> 00:07:57,250
+from the Florrie hunter's edge to
+ 
+
+367
+00:07:57,250 --> 00:07:59,790
+from the Florrie hunter's edge to
+precision but could not change their
+
+368
+00:07:59,790 --> 00:07:59,800
+precision but could not change their
+ 
+
+369
+00:07:59,800 --> 00:08:02,160
+precision but could not change their
+first level weapon proficiencies because
+
+370
+00:08:02,160 --> 00:08:02,170
+first level weapon proficiencies because
+ 
+
+371
+00:08:02,170 --> 00:08:05,700
+first level weapon proficiencies because
+you don't choose this proficiencies only
+
+372
+00:08:05,700 --> 00:08:05,710
+you don't choose this proficiencies only
+ 
+
+373
+00:08:05,710 --> 00:08:09,030
+you don't choose this proficiencies only
+features that you choose can be changed
+
+374
+00:08:09,030 --> 00:08:09,040
+features that you choose can be changed
+ 
+
+375
+00:08:09,040 --> 00:08:11,790
+features that you choose can be changed
+and even then again everything with
+
+376
+00:08:11,790 --> 00:08:11,800
+and even then again everything with
+ 
+
+377
+00:08:11,800 --> 00:08:14,310
+and even then again everything with
+regards to retraining is subject to GM's
+
+378
+00:08:14,310 --> 00:08:14,320
+regards to retraining is subject to GM's
+ 
+
+379
+00:08:14,320 --> 00:08:16,830
+regards to retraining is subject to GM's
+approval the GM will also decide how
+
+380
+00:08:16,830 --> 00:08:16,840
+approval the GM will also decide how
+ 
+
+381
+00:08:16,840 --> 00:08:18,810
+approval the GM will also decide how
+long it takes to retrain a class feature
+
+382
+00:08:18,810 --> 00:08:18,820
+long it takes to retrain a class feature
+ 
+
+383
+00:08:18,820 --> 00:08:21,780
+long it takes to retrain a class feature
+but should always be at least a month of
+
+384
+00:08:21,780 --> 00:08:21,790
+but should always be at least a month of
+ 
+
+385
+00:08:21,790 --> 00:08:24,300
+but should always be at least a month of
+downtime they will also determine cost
+
+386
+00:08:24,300 --> 00:08:24,310
+downtime they will also determine cost
+ 
+
+387
+00:08:24,310 --> 00:08:26,820
+downtime they will also determine cost
+and the need for instruction as with the
+
+388
+00:08:26,820 --> 00:08:26,830
+and the need for instruction as with the
+ 
+
+389
+00:08:26,830 --> 00:08:30,320
+and the need for instruction as with the
+other features of retraining
+
+390
+00:08:30,320 --> 00:08:30,330
+other features of retraining
+ 
+
+391
+00:08:30,330 --> 00:08:32,930
+other features of retraining
+if you're spending downtime in the wilds
+
+392
+00:08:32,930 --> 00:08:32,940
+if you're spending downtime in the wilds
+ 
+
+393
+00:08:32,940 --> 00:08:35,690
+if you're spending downtime in the wilds
+then you can use the subsist activity to
+
+394
+00:08:35,690 --> 00:08:35,700
+then you can use the subsist activity to
+ 
+
+395
+00:08:35,700 --> 00:08:37,370
+then you can use the subsist activity to
+provide food and shelter for yourself
+
+396
+00:08:37,370 --> 00:08:37,380
+provide food and shelter for yourself
+ 
+
+397
+00:08:37,380 --> 00:08:39,829
+provide food and shelter for yourself
+and possibly for one member of your team
+
+398
+00:08:39,829 --> 00:08:39,839
+and possibly for one member of your team
+ 
+
+399
+00:08:39,839 --> 00:08:43,009
+and possibly for one member of your team
+as well this requires a survival skill
+
+400
+00:08:43,009 --> 00:08:43,019
+as well this requires a survival skill
+ 
+
+401
+00:08:43,019 --> 00:08:45,710
+as well this requires a survival skill
+check and the GM will determine the dc4
+
+402
+00:08:45,710 --> 00:08:45,720
+check and the GM will determine the dc4
+ 
+
+403
+00:08:45,720 --> 00:08:48,199
+check and the GM will determine the dc4
+that check based on your location and
+
+404
+00:08:48,199 --> 00:08:48,209
+that check based on your location and
+ 
+
+405
+00:08:48,209 --> 00:08:51,110
+that check based on your location and
+situation the GM will also determine if
+
+406
+00:08:51,110 --> 00:08:51,120
+situation the GM will also determine if
+ 
+
+407
+00:08:51,120 --> 00:08:53,509
+situation the GM will also determine if
+a minimum proficiency rank is needed you
+
+408
+00:08:53,509 --> 00:08:53,519
+a minimum proficiency rank is needed you
+ 
+
+409
+00:08:53,519 --> 00:08:56,269
+a minimum proficiency rank is needed you
+should be able to use subsist untrained
+
+410
+00:08:56,269 --> 00:08:56,279
+should be able to use subsist untrained
+ 
+
+411
+00:08:56,279 --> 00:08:59,360
+should be able to use subsist untrained
+if you're in a lush forest but your GM
+
+412
+00:08:59,360 --> 00:08:59,370
+if you're in a lush forest but your GM
+ 
+
+413
+00:08:59,370 --> 00:09:01,940
+if you're in a lush forest but your GM
+might require master proficiency if you
+
+414
+00:09:01,940 --> 00:09:01,950
+might require master proficiency if you
+ 
+
+415
+00:09:01,950 --> 00:09:03,889
+might require master proficiency if you
+want to find food and shelter in a
+
+416
+00:09:03,889 --> 00:09:03,899
+want to find food and shelter in a
+ 
+
+417
+00:09:03,899 --> 00:09:04,420
+want to find food and shelter in a
+desert
+
+418
+00:09:04,420 --> 00:09:04,430
+desert
+ 
+
+419
+00:09:04,430 --> 00:09:07,490
+desert
+if successful then you are able to
+
+420
+00:09:07,490 --> 00:09:07,500
+if successful then you are able to
+ 
+
+421
+00:09:07,500 --> 00:09:09,319
+if successful then you are able to
+provide protection from the elements in
+
+422
+00:09:09,319 --> 00:09:09,329
+provide protection from the elements in
+ 
+
+423
+00:09:09,329 --> 00:09:11,660
+provide protection from the elements in
+enough food to qualify as the
+
+424
+00:09:11,660 --> 00:09:11,670
+enough food to qualify as the
+ 
+
+425
+00:09:11,670 --> 00:09:13,850
+enough food to qualify as the
+subsistence standard of living for
+
+426
+00:09:13,850 --> 00:09:13,860
+subsistence standard of living for
+ 
+
+427
+00:09:13,860 --> 00:09:16,310
+subsistence standard of living for
+yourself standards of living can be
+
+428
+00:09:16,310 --> 00:09:16,320
+yourself standards of living can be
+ 
+
+429
+00:09:16,320 --> 00:09:19,360
+yourself standards of living can be
+found on page 294 of the rules on a
+
+430
+00:09:19,360 --> 00:09:19,370
+found on page 294 of the rules on a
+ 
+
+431
+00:09:19,370 --> 00:09:22,579
+found on page 294 of the rules on a
+critical success you can either provide
+
+432
+00:09:22,579 --> 00:09:22,589
+critical success you can either provide
+ 
+
+433
+00:09:22,589 --> 00:09:25,130
+critical success you can either provide
+that subsistence level of living for
+
+434
+00:09:25,130 --> 00:09:25,140
+that subsistence level of living for
+ 
+
+435
+00:09:25,140 --> 00:09:28,280
+that subsistence level of living for
+yourself and one other person or you
+
+436
+00:09:28,280 --> 00:09:28,290
+yourself and one other person or you
+ 
+
+437
+00:09:28,290 --> 00:09:30,440
+yourself and one other person or you
+provide comfortable accommodations for
+
+438
+00:09:30,440 --> 00:09:30,450
+provide comfortable accommodations for
+ 
+
+439
+00:09:30,450 --> 00:09:33,350
+provide comfortable accommodations for
+just yourself on a failure you don't
+
+440
+00:09:33,350 --> 00:09:33,360
+just yourself on a failure you don't
+ 
+
+441
+00:09:33,360 --> 00:09:35,120
+just yourself on a failure you don't
+have enough food and protection from the
+
+442
+00:09:35,120 --> 00:09:35,130
+have enough food and protection from the
+ 
+
+443
+00:09:35,130 --> 00:09:37,790
+have enough food and protection from the
+elements and become fatigued until you
+
+444
+00:09:37,790 --> 00:09:37,800
+elements and become fatigued until you
+ 
+
+445
+00:09:37,800 --> 00:09:39,769
+elements and become fatigued until you
+do find food and protection from the
+
+446
+00:09:39,769 --> 00:09:39,779
+do find food and protection from the
+ 
+
+447
+00:09:39,779 --> 00:09:43,069
+do find food and protection from the
+elements on a critical failure you don't
+
+448
+00:09:43,069 --> 00:09:43,079
+elements on a critical failure you don't
+ 
+
+449
+00:09:43,079 --> 00:09:45,800
+elements on a critical failure you don't
+find any food at all or you are
+
+450
+00:09:45,800 --> 00:09:45,810
+find any food at all or you are
+ 
+
+451
+00:09:45,810 --> 00:09:47,360
+find any food at all or you are
+completely unprotected from the
+
+452
+00:09:47,360 --> 00:09:47,370
+completely unprotected from the
+ 
+
+453
+00:09:47,370 --> 00:09:49,910
+completely unprotected from the
+environment you suffer a negative -
+
+454
+00:09:49,910 --> 00:09:49,920
+environment you suffer a negative -
+ 
+
+455
+00:09:49,920 --> 00:09:52,310
+environment you suffer a negative -
+penalty - checks to subsist for one week
+
+456
+00:09:52,310 --> 00:09:52,320
+penalty - checks to subsist for one week
+ 
+
+457
+00:09:52,320 --> 00:09:55,189
+penalty - checks to subsist for one week
+and you are also in danger of starving
+
+458
+00:09:55,189 --> 00:09:55,199
+and you are also in danger of starving
+ 
+
+459
+00:09:55,199 --> 00:09:58,240
+and you are also in danger of starving
+or dying of thirst if you keep failing
+
+460
+00:09:58,240 --> 00:09:58,250
+or dying of thirst if you keep failing
+ 
+
+461
+00:09:58,250 --> 00:10:01,100
+or dying of thirst if you keep failing
+subsists can also be used in urban
+
+462
+00:10:01,100 --> 00:10:01,110
+subsists can also be used in urban
+ 
+
+463
+00:10:01,110 --> 00:10:03,500
+subsists can also be used in urban
+environments you just use the society
+
+464
+00:10:03,500 --> 00:10:03,510
+environments you just use the society
+ 
+
+465
+00:10:03,510 --> 00:10:06,680
+environments you just use the society
+skill instead of survival
+
+466
+00:10:06,680 --> 00:10:06,690
+skill instead of survival
+ 
+
+467
+00:10:06,690 --> 00:10:09,080
+skill instead of survival
+if you're feeling like subsists is awful
+
+468
+00:10:09,080 --> 00:10:09,090
+if you're feeling like subsists is awful
+ 
+
+469
+00:10:09,090 --> 00:10:12,020
+if you're feeling like subsists is awful
+stingy you're not only but the good news
+
+470
+00:10:12,020 --> 00:10:12,030
+stingy you're not only but the good news
+ 
+
+471
+00:10:12,030 --> 00:10:14,420
+stingy you're not only but the good news
+is you can easily increase the rewards
+
+472
+00:10:14,420 --> 00:10:14,430
+is you can easily increase the rewards
+ 
+
+473
+00:10:14,430 --> 00:10:17,060
+is you can easily increase the rewards
+of subsist by taking the forager feet
+
+474
+00:10:17,060 --> 00:10:17,070
+of subsist by taking the forager feet
+ 
+
+475
+00:10:17,070 --> 00:10:19,790
+of subsist by taking the forager feet
+with this feat you can never fail or
+
+476
+00:10:19,790 --> 00:10:19,800
+with this feat you can never fail or
+ 
+
+477
+00:10:19,800 --> 00:10:21,770
+with this feat you can never fail or
+critically fail a survival check to
+
+478
+00:10:21,770 --> 00:10:21,780
+critically fail a survival check to
+ 
+
+479
+00:10:21,780 --> 00:10:24,290
+critically fail a survival check to
+subsist instead you are treated as if
+
+480
+00:10:24,290 --> 00:10:24,300
+subsist instead you are treated as if
+ 
+
+481
+00:10:24,300 --> 00:10:26,570
+subsist instead you are treated as if
+you succeeded on the check in on a
+
+482
+00:10:26,570 --> 00:10:26,580
+you succeeded on the check in on a
+ 
+
+483
+00:10:26,580 --> 00:10:29,240
+you succeeded on the check in on a
+success you provide food and shelter for
+
+484
+00:10:29,240 --> 00:10:29,250
+success you provide food and shelter for
+ 
+
+485
+00:10:29,250 --> 00:10:32,360
+success you provide food and shelter for
+you and for other people instead of just
+
+486
+00:10:32,360 --> 00:10:32,370
+you and for other people instead of just
+ 
+
+487
+00:10:32,370 --> 00:10:35,150
+you and for other people instead of just
+yourself and that number doubles every
+
+488
+00:10:35,150 --> 00:10:35,160
+yourself and that number doubles every
+ 
+
+489
+00:10:35,160 --> 00:10:37,610
+yourself and that number doubles every
+time you raise the proficiency rank of
+
+490
+00:10:37,610 --> 00:10:37,620
+time you raise the proficiency rank of
+ 
+
+491
+00:10:37,620 --> 00:10:41,000
+time you raise the proficiency rank of
+survival so experts in survival can take
+
+492
+00:10:41,000 --> 00:10:41,010
+survival so experts in survival can take
+ 
+
+493
+00:10:41,010 --> 00:10:44,030
+survival so experts in survival can take
+care of eight extra people masters can
+
+494
+00:10:44,030 --> 00:10:44,040
+care of eight extra people masters can
+ 
+
+495
+00:10:44,040 --> 00:10:46,340
+care of eight extra people masters can
+feed and shelter sixteen other people
+
+496
+00:10:46,340 --> 00:10:46,350
+feed and shelter sixteen other people
+ 
+
+497
+00:10:46,350 --> 00:10:49,370
+feed and shelter sixteen other people
+and those with legendary proficiency can
+
+498
+00:10:49,370 --> 00:10:49,380
+and those with legendary proficiency can
+ 
+
+499
+00:10:49,380 --> 00:10:51,860
+and those with legendary proficiency can
+take care of thirty-two more people on
+
+500
+00:10:51,860 --> 00:10:51,870
+take care of thirty-two more people on
+ 
+
+501
+00:10:51,870 --> 00:10:55,100
+take care of thirty-two more people on
+one subsist check which makes subsist a
+
+502
+00:10:55,100 --> 00:10:55,110
+one subsist check which makes subsist a
+ 
+
+503
+00:10:55,110 --> 00:10:59,920
+one subsist check which makes subsist a
+whole lot more viable for most parties
+
+504
+00:10:59,920 --> 00:10:59,930
+
+ 
+
+505
+00:10:59,930 --> 00:11:02,410
+
+in this video we discussed the second
+
+506
+00:11:02,410 --> 00:11:02,420
+in this video we discussed the second
+ 
+
+507
+00:11:02,420 --> 00:11:04,360
+in this video we discussed the second
+half of down time activities from the
+
+508
+00:11:04,360 --> 00:11:04,370
+half of down time activities from the
+ 
+
+509
+00:11:04,370 --> 00:11:07,510
+half of down time activities from the
+core rules create forgery is used to
+
+510
+00:11:07,510 --> 00:11:07,520
+core rules create forgery is used to
+ 
+
+511
+00:11:07,520 --> 00:11:09,760
+core rules create forgery is used to
+falsify a document you must have at
+
+512
+00:11:09,760 --> 00:11:09,770
+falsify a document you must have at
+ 
+
+513
+00:11:09,770 --> 00:11:12,490
+falsify a document you must have at
+least seen an original document and will
+
+514
+00:11:12,490 --> 00:11:12,500
+least seen an original document and will
+ 
+
+515
+00:11:12,500 --> 00:11:14,050
+least seen an original document and will
+get a bonus to your check if you have
+
+516
+00:11:14,050 --> 00:11:14,060
+get a bonus to your check if you have
+ 
+
+517
+00:11:14,060 --> 00:11:16,150
+get a bonus to your check if you have
+that copy with you while you're making
+
+518
+00:11:16,150 --> 00:11:16,160
+that copy with you while you're making
+ 
+
+519
+00:11:16,160 --> 00:11:19,120
+that copy with you while you're making
+the forgery after at least one day of
+
+520
+00:11:19,120 --> 00:11:19,130
+the forgery after at least one day of
+ 
+
+521
+00:11:19,130 --> 00:11:22,150
+the forgery after at least one day of
+downtime your GM will roll a society
+
+522
+00:11:22,150 --> 00:11:22,160
+downtime your GM will roll a society
+ 
+
+523
+00:11:22,160 --> 00:11:25,150
+downtime your GM will roll a society
+skill check for you in secret the dc4
+
+524
+00:11:25,150 --> 00:11:25,160
+skill check for you in secret the dc4
+ 
+
+525
+00:11:25,160 --> 00:11:27,970
+skill check for you in secret the dc4
+this check is 20 but may be adjusted due
+
+526
+00:11:27,970 --> 00:11:27,980
+this check is 20 but may be adjusted due
+ 
+
+527
+00:11:27,980 --> 00:11:30,640
+this check is 20 but may be adjusted due
+to unfavorable circumstances if you
+
+528
+00:11:30,640 --> 00:11:30,650
+to unfavorable circumstances if you
+ 
+
+529
+00:11:30,650 --> 00:11:33,850
+to unfavorable circumstances if you
+succeed that check only active observers
+
+530
+00:11:33,850 --> 00:11:33,860
+succeed that check only active observers
+ 
+
+531
+00:11:33,860 --> 00:11:35,920
+succeed that check only active observers
+will notice that something is wrong with
+
+532
+00:11:35,920 --> 00:11:35,930
+will notice that something is wrong with
+ 
+
+533
+00:11:35,930 --> 00:11:38,920
+will notice that something is wrong with
+your fake an active observer is someone
+
+534
+00:11:38,920 --> 00:11:38,930
+your fake an active observer is someone
+ 
+
+535
+00:11:38,930 --> 00:11:41,020
+your fake an active observer is someone
+who scrutinizes the document and they're
+
+536
+00:11:41,020 --> 00:11:41,030
+who scrutinizes the document and they're
+ 
+
+537
+00:11:41,030 --> 00:11:42,900
+who scrutinizes the document and they're
+trying to determine his authenticity
+
+538
+00:11:42,900 --> 00:11:42,910
+trying to determine his authenticity
+ 
+
+539
+00:11:42,910 --> 00:11:45,610
+trying to determine his authenticity
+when doing so that person will roll
+
+540
+00:11:45,610 --> 00:11:45,620
+when doing so that person will roll
+ 
+
+541
+00:11:45,620 --> 00:11:47,800
+when doing so that person will roll
+either their perception or society
+
+542
+00:11:47,800 --> 00:11:47,810
+either their perception or society
+ 
+
+543
+00:11:47,810 --> 00:11:50,410
+either their perception or society
+skills whichever is higher and that will
+
+544
+00:11:50,410 --> 00:11:50,420
+skills whichever is higher and that will
+ 
+
+545
+00:11:50,420 --> 00:11:54,010
+skills whichever is higher and that will
+be contested by your society DC if they
+
+546
+00:11:54,010 --> 00:11:54,020
+be contested by your society DC if they
+ 
+
+547
+00:11:54,020 --> 00:11:55,480
+be contested by your society DC if they
+are successful then they realize that
+
+548
+00:11:55,480 --> 00:11:55,490
+are successful then they realize that
+ 
+
+549
+00:11:55,490 --> 00:11:58,450
+are successful then they realize that
+the document is fake if you fail your
+
+550
+00:11:58,450 --> 00:11:58,460
+the document is fake if you fail your
+ 
+
+551
+00:11:58,460 --> 00:12:00,850
+the document is fake if you fail your
+check to make that forged document then
+
+552
+00:12:00,850 --> 00:12:00,860
+check to make that forged document then
+ 
+
+553
+00:12:00,860 --> 00:12:03,370
+check to make that forged document then
+both passive and active observers have a
+
+554
+00:12:03,370 --> 00:12:03,380
+both passive and active observers have a
+ 
+
+555
+00:12:03,380 --> 00:12:05,740
+both passive and active observers have a
+chance to notice that is fake when
+
+556
+00:12:05,740 --> 00:12:05,750
+chance to notice that is fake when
+ 
+
+557
+00:12:05,750 --> 00:12:08,140
+chance to notice that is fake when
+someone passively observes the document
+
+558
+00:12:08,140 --> 00:12:08,150
+someone passively observes the document
+ 
+
+559
+00:12:08,150 --> 00:12:10,360
+someone passively observes the document
+the GF compares that character's
+
+560
+00:12:10,360 --> 00:12:10,370
+the GF compares that character's
+ 
+
+561
+00:12:10,370 --> 00:12:13,180
+the GF compares that character's
+perception or society deceit against the
+
+562
+00:12:13,180 --> 00:12:13,190
+perception or society deceit against the
+ 
+
+563
+00:12:13,190 --> 00:12:15,430
+perception or society deceit against the
+total of the society skill check that
+
+564
+00:12:15,430 --> 00:12:15,440
+total of the society skill check that
+ 
+
+565
+00:12:15,440 --> 00:12:18,220
+total of the society skill check that
+the GM wrote for you in secret if their
+
+566
+00:12:18,220 --> 00:12:18,230
+the GM wrote for you in secret if their
+ 
+
+567
+00:12:18,230 --> 00:12:21,639
+the GM wrote for you in secret if their
+DC is higher than they realize it's fake
+
+568
+00:12:21,639 --> 00:12:21,649
+DC is higher than they realize it's fake
+ 
+
+569
+00:12:21,649 --> 00:12:24,579
+DC is higher than they realize it's fake
+when a character arrests for 24 hours
+
+570
+00:12:24,579 --> 00:12:24,589
+when a character arrests for 24 hours
+ 
+
+571
+00:12:24,589 --> 00:12:27,040
+when a character arrests for 24 hours
+straight they receive the benefits of
+
+572
+00:12:27,040 --> 00:12:27,050
+straight they receive the benefits of
+ 
+
+573
+00:12:27,050 --> 00:12:29,980
+straight they receive the benefits of
+long-term rest after a day of a
+
+574
+00:12:29,980 --> 00:12:29,990
+long-term rest after a day of a
+ 
+
+575
+00:12:29,990 --> 00:12:32,139
+long-term rest after a day of a
+long-term rest the character heals a
+
+576
+00:12:32,139 --> 00:12:32,149
+long-term rest the character heals a
+ 
+
+577
+00:12:32,149 --> 00:12:33,879
+long-term rest the character heals a
+number of hit points equal to their
+
+578
+00:12:33,879 --> 00:12:33,889
+number of hit points equal to their
+ 
+
+579
+00:12:33,889 --> 00:12:36,670
+number of hit points equal to their
+Constitution modifier times double with
+
+580
+00:12:36,670 --> 00:12:36,680
+Constitution modifier times double with
+ 
+
+581
+00:12:36,680 --> 00:12:39,699
+Constitution modifier times double with
+their level as with normal resting the
+
+582
+00:12:39,699 --> 00:12:39,709
+their level as with normal resting the
+ 
+
+583
+00:12:39,709 --> 00:12:41,530
+their level as with normal resting the
+constitutional modifier is always
+
+584
+00:12:41,530 --> 00:12:41,540
+constitutional modifier is always
+ 
+
+585
+00:12:41,540 --> 00:12:43,869
+constitutional modifier is always
+treated as being at least 1 for this
+
+586
+00:12:43,869 --> 00:12:43,879
+treated as being at least 1 for this
+ 
+
+587
+00:12:43,879 --> 00:12:47,949
+treated as being at least 1 for this
+purpose and Retraining or respecting
+
+588
+00:12:47,949 --> 00:12:47,959
+purpose and Retraining or respecting
+ 
+
+589
+00:12:47,959 --> 00:12:50,559
+purpose and Retraining or respecting
+will also allow you to spend Elly's one
+
+590
+00:12:50,559 --> 00:12:50,569
+will also allow you to spend Elly's one
+ 
+
+591
+00:12:50,569 --> 00:12:53,710
+will also allow you to spend Elly's one
+week of downtime to lose one feet class
+
+592
+00:12:53,710 --> 00:12:53,720
+week of downtime to lose one feet class
+ 
+
+593
+00:12:53,720 --> 00:12:55,960
+week of downtime to lose one feet class
+feature or skill proficiency rank and
+
+594
+00:12:55,960 --> 00:12:55,970
+feature or skill proficiency rank and
+ 
+
+595
+00:12:55,970 --> 00:12:58,749
+feature or skill proficiency rank and
+then replace it with another feet class
+
+596
+00:12:58,749 --> 00:12:58,759
+then replace it with another feet class
+ 
+
+597
+00:12:58,759 --> 00:13:01,090
+then replace it with another feet class
+feature or proficiency rank of the same
+
+598
+00:13:01,090 --> 00:13:01,100
+feature or proficiency rank of the same
+ 
+
+599
+00:13:01,100 --> 00:13:04,359
+feature or proficiency rank of the same
+level and subsist allows you to find
+
+600
+00:13:04,359 --> 00:13:04,369
+level and subsist allows you to find
+ 
+
+601
+00:13:04,369 --> 00:13:06,549
+level and subsist allows you to find
+food and shelter this requires a
+
+602
+00:13:06,549 --> 00:13:06,559
+food and shelter this requires a
+ 
+
+603
+00:13:06,559 --> 00:13:08,799
+food and shelter this requires a
+survival check if you are in the wild or
+
+604
+00:13:08,799 --> 00:13:08,809
+survival check if you are in the wild or
+ 
+
+605
+00:13:08,809 --> 00:13:13,079
+survival check if you are in the wild or
+a society check if you're in a city
+
+606
+00:13:13,079 --> 00:13:13,089
+a society check if you're in a city
+ 
+
+607
+00:13:13,089 --> 00:13:15,239
+a society check if you're in a city
+before we close I'd like to take a
+
+608
+00:13:15,239 --> 00:13:15,249
+before we close I'd like to take a
+ 
+
+609
+00:13:15,249 --> 00:13:17,699
+before we close I'd like to take a
+moment to thank all of our patrons these
+
+610
+00:13:17,699 --> 00:13:17,709
+moment to thank all of our patrons these
+ 
+
+611
+00:13:17,709 --> 00:13:19,470
+moment to thank all of our patrons these
+videos would not be possible without
+
+612
+00:13:19,470 --> 00:13:19,480
+videos would not be possible without
+ 
+
+613
+00:13:19,480 --> 00:13:22,309
+videos would not be possible without
+their continued generosity and support
+
+614
+00:13:22,309 --> 00:13:22,319
+their continued generosity and support
+ 
+
+615
+00:13:22,319 --> 00:13:25,170
+their continued generosity and support
+members of the basics for gamers patreon
+
+616
+00:13:25,170 --> 00:13:25,180
+members of the basics for gamers patreon
+ 
+
+617
+00:13:25,180 --> 00:13:27,360
+members of the basics for gamers patreon
+community receive special benefits like
+
+618
+00:13:27,360 --> 00:13:27,370
+community receive special benefits like
+ 
+
+619
+00:13:27,370 --> 00:13:29,189
+community receive special benefits like
+getting to vote on the topics that we
+
+620
+00:13:29,189 --> 00:13:29,199
+getting to vote on the topics that we
+ 
+
+621
+00:13:29,199 --> 00:13:31,410
+getting to vote on the topics that we
+cover in the future and also they get to
+
+622
+00:13:31,410 --> 00:13:31,420
+cover in the future and also they get to
+ 
+
+623
+00:13:31,420 --> 00:13:33,900
+cover in the future and also they get to
+see these videos one week and ad-free
+
+624
+00:13:33,900 --> 00:13:33,910
+see these videos one week and ad-free
+ 
+
+625
+00:13:33,910 --> 00:13:37,319
+see these videos one week and ad-free
+before everybody else visit the links
+
+626
+00:13:37,319 --> 00:13:37,329
+before everybody else visit the links
+ 
+
+627
+00:13:37,329 --> 00:13:39,030
+before everybody else visit the links
+shown on the left of the screen and in
+
+628
+00:13:39,030 --> 00:13:39,040
+shown on the left of the screen and in
+ 
+
+629
+00:13:39,040 --> 00:13:40,499
+shown on the left of the screen and in
+the description if you'd like to know
+
+630
+00:13:40,499 --> 00:13:40,509
+the description if you'd like to know
+ 
+
+631
+00:13:40,509 --> 00:13:43,199
+the description if you'd like to know
+more about becoming a patron if you
+
+632
+00:13:43,199 --> 00:13:43,209
+more about becoming a patron if you
+ 
+
+633
+00:13:43,209 --> 00:13:44,489
+more about becoming a patron if you
+would like to support this channel and
+
+634
+00:13:44,489 --> 00:13:44,499
+would like to support this channel and
+ 
+
+635
+00:13:44,499 --> 00:13:46,499
+would like to support this channel and
+help it grow the easiest way to do that
+
+636
+00:13:46,499 --> 00:13:46,509
+help it grow the easiest way to do that
+ 
+
+637
+00:13:46,509 --> 00:13:49,230
+help it grow the easiest way to do that
+is by subscribing and clicking the bell
+
+638
+00:13:49,230 --> 00:13:49,240
+is by subscribing and clicking the bell
+ 
+
+639
+00:13:49,240 --> 00:13:51,780
+is by subscribing and clicking the bell
+icon so you get notified when new videos
+
+640
+00:13:51,780 --> 00:13:51,790
+icon so you get notified when new videos
+ 
+
+641
+00:13:51,790 --> 00:13:54,210
+icon so you get notified when new videos
+release and we can always be reached
+
+642
+00:13:54,210 --> 00:13:54,220
+release and we can always be reached
+ 
+
+643
+00:13:54,220 --> 00:13:55,499
+release and we can always be reached
+through our Twitter and Facebook pages
+
+644
+00:13:55,499 --> 00:13:55,509
+through our Twitter and Facebook pages
+ 
+
+645
+00:13:55,509 --> 00:13:58,619
+through our Twitter and Facebook pages
+too thanks for watching take care and we
+
+646
+00:13:58,619 --> 00:13:58,629
+too thanks for watching take care and we
+ 
+
+647
+00:13:58,629 --> 00:14:00,420
+too thanks for watching take care and we
+will see you soon with more basics of
+
+648
+00:14:00,420 --> 00:14:00,430
+will see you soon with more basics of
+ 
+
+649
+00:14:00,430 --> 00:14:03,059
+will see you soon with more basics of
+Pathfinder
+

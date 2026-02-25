@@ -1,0 +1,3415 @@
+1
+00:00:00,960 --> 00:00:03,030
+
+this video is brought to you by roll for
+
+2
+00:00:03,030 --> 00:00:03,040
+this video is brought to you by roll for
+ 
+
+3
+00:00:03,040 --> 00:00:03,590
+this video is brought to you by roll for
+combat
+
+4
+00:00:03,590 --> 00:00:03,600
+combat
+ 
+
+5
+00:00:03,600 --> 00:00:06,070
+combat
+and the fall of plaguestone an official
+
+6
+00:00:06,070 --> 00:00:06,080
+and the fall of plaguestone an official
+ 
+
+7
+00:00:06,080 --> 00:00:08,629
+and the fall of plaguestone an official
+piezo actual play podcast
+
+8
+00:00:08,629 --> 00:00:08,639
+piezo actual play podcast
+ 
+
+9
+00:00:08,639 --> 00:00:11,270
+piezo actual play podcast
+join peru cade brixley and celeste as
+
+10
+00:00:11,270 --> 00:00:11,280
+join peru cade brixley and celeste as
+ 
+
+11
+00:00:11,280 --> 00:00:13,350
+join peru cade brixley and celeste as
+they band together to save the village
+
+12
+00:00:13,350 --> 00:00:13,360
+they band together to save the village
+ 
+
+13
+00:00:13,360 --> 00:00:15,669
+they band together to save the village
+of plaguestone from utter destruction
+
+14
+00:00:15,669 --> 00:00:15,679
+of plaguestone from utter destruction
+ 
+
+15
+00:00:15,679 --> 00:00:18,349
+of plaguestone from utter destruction
+listen now to the fall of plaguestone at
+
+16
+00:00:18,349 --> 00:00:18,359
+listen now to the fall of plaguestone at
+ 
+
+17
+00:00:18,359 --> 00:00:21,510
+listen now to the fall of plaguestone at
+roll4combat.com
+
+18
+00:00:21,510 --> 00:00:21,520
+
+ 
+
+19
+00:00:21,520 --> 00:00:23,109
+
+hello and welcome to medicine and
+
+20
+00:00:23,109 --> 00:00:23,119
+hello and welcome to medicine and
+ 
+
+21
+00:00:23,119 --> 00:00:24,870
+hello and welcome to medicine and
+pathfinder second edition by how it's
+
+22
+00:00:24,870 --> 00:00:24,880
+pathfinder second edition by how it's
+ 
+
+23
+00:00:24,880 --> 00:00:25,509
+pathfinder second edition by how it's
+played
+
+24
+00:00:25,509 --> 00:00:25,519
+played
+ 
+
+25
+00:00:25,519 --> 00:00:27,269
+played
+the medicine skill is used to restore
+
+26
+00:00:27,269 --> 00:00:27,279
+the medicine skill is used to restore
+ 
+
+27
+00:00:27,279 --> 00:00:29,509
+the medicine skill is used to restore
+hit points remove medical conditions
+
+28
+00:00:29,509 --> 00:00:29,519
+hit points remove medical conditions
+ 
+
+29
+00:00:29,519 --> 00:00:31,429
+hit points remove medical conditions
+and determine the health and well-being
+
+30
+00:00:31,429 --> 00:00:31,439
+and determine the health and well-being
+ 
+
+31
+00:00:31,439 --> 00:00:33,350
+and determine the health and well-being
+of creatures let's talk about each of
+
+32
+00:00:33,350 --> 00:00:33,360
+of creatures let's talk about each of
+ 
+
+33
+00:00:33,360 --> 00:00:36,389
+of creatures let's talk about each of
+these in turn
+
+34
+00:00:36,389 --> 00:00:36,399
+
+ 
+
+35
+00:00:36,399 --> 00:00:38,470
+
+we'll start with an overview of treat
+
+36
+00:00:38,470 --> 00:00:38,480
+we'll start with an overview of treat
+ 
+
+37
+00:00:38,480 --> 00:00:40,950
+we'll start with an overview of treat
+wounds this is the game's primary means
+
+38
+00:00:40,950 --> 00:00:40,960
+wounds this is the game's primary means
+ 
+
+39
+00:00:40,960 --> 00:00:42,389
+wounds this is the game's primary means
+of non-magical healing
+
+40
+00:00:42,389 --> 00:00:42,399
+of non-magical healing
+ 
+
+41
+00:00:42,399 --> 00:00:43,910
+of non-magical healing
+and requires you to be trained in
+
+42
+00:00:43,910 --> 00:00:43,920
+and requires you to be trained in
+ 
+
+43
+00:00:43,920 --> 00:00:46,549
+and requires you to be trained in
+medicine to use it takes 10 minutes of
+
+44
+00:00:46,549 --> 00:00:46,559
+medicine to use it takes 10 minutes of
+ 
+
+45
+00:00:46,559 --> 00:00:47,029
+medicine to use it takes 10 minutes of
+work
+
+46
+00:00:47,029 --> 00:00:47,039
+work
+ 
+
+47
+00:00:47,039 --> 00:00:48,869
+work
+and you must have healer's tools in
+
+48
+00:00:48,869 --> 00:00:48,879
+and you must have healer's tools in
+ 
+
+49
+00:00:48,879 --> 00:00:50,470
+and you must have healer's tools in
+order to attempt this
+
+50
+00:00:50,470 --> 00:00:50,480
+order to attempt this
+ 
+
+51
+00:00:50,480 --> 00:00:52,229
+order to attempt this
+after 10 minutes of tending to a
+
+52
+00:00:52,229 --> 00:00:52,239
+after 10 minutes of tending to a
+ 
+
+53
+00:00:52,239 --> 00:00:54,310
+after 10 minutes of tending to a
+creature's wounds you roll a medicine
+
+54
+00:00:54,310 --> 00:00:54,320
+creature's wounds you roll a medicine
+ 
+
+55
+00:00:54,320 --> 00:00:55,029
+creature's wounds you roll a medicine
+check
+
+56
+00:00:55,029 --> 00:00:55,039
+check
+ 
+
+57
+00:00:55,039 --> 00:00:58,150
+check
+the starting dc for this check is 15 and
+
+58
+00:00:58,150 --> 00:00:58,160
+the starting dc for this check is 15 and
+ 
+
+59
+00:00:58,160 --> 00:01:00,229
+the starting dc for this check is 15 and
+on a success your patient heals
+
+60
+00:01:00,229 --> 00:01:00,239
+on a success your patient heals
+ 
+
+61
+00:01:00,239 --> 00:01:04,310
+on a success your patient heals
+2d8 hit points and also completely loses
+
+62
+00:01:04,310 --> 00:01:04,320
+2d8 hit points and also completely loses
+ 
+
+63
+00:01:04,320 --> 00:01:05,830
+2d8 hit points and also completely loses
+the wounded condition
+
+64
+00:01:05,830 --> 00:01:05,840
+the wounded condition
+ 
+
+65
+00:01:05,840 --> 00:01:08,950
+the wounded condition
+on a critical success they heal 48 and
+
+66
+00:01:08,950 --> 00:01:08,960
+on a critical success they heal 48 and
+ 
+
+67
+00:01:08,960 --> 00:01:10,630
+on a critical success they heal 48 and
+on a failure nothing happens
+
+68
+00:01:10,630 --> 00:01:10,640
+on a failure nothing happens
+ 
+
+69
+00:01:10,640 --> 00:01:12,789
+on a failure nothing happens
+in on a critical failure the patient
+
+70
+00:01:12,789 --> 00:01:12,799
+in on a critical failure the patient
+ 
+
+71
+00:01:12,799 --> 00:01:15,830
+in on a critical failure the patient
+suffers an additional 1d8 damage
+
+72
+00:01:15,830 --> 00:01:15,840
+suffers an additional 1d8 damage
+ 
+
+73
+00:01:15,840 --> 00:01:18,070
+suffers an additional 1d8 damage
+once you reach expert proficiency you
+
+74
+00:01:18,070 --> 00:01:18,080
+once you reach expert proficiency you
+ 
+
+75
+00:01:18,080 --> 00:01:20,630
+once you reach expert proficiency you
+can choose to increase the dc to 20
+
+76
+00:01:20,630 --> 00:01:20,640
+can choose to increase the dc to 20
+ 
+
+77
+00:01:20,640 --> 00:01:23,190
+can choose to increase the dc to 20
+and add 10 to the amount healed on a
+
+78
+00:01:23,190 --> 00:01:23,200
+and add 10 to the amount healed on a
+ 
+
+79
+00:01:23,200 --> 00:01:25,190
+and add 10 to the amount healed on a
+success or a critical success
+
+80
+00:01:25,190 --> 00:01:25,200
+success or a critical success
+ 
+
+81
+00:01:25,200 --> 00:01:27,109
+success or a critical success
+with master proficiency you can choose
+
+82
+00:01:27,109 --> 00:01:27,119
+with master proficiency you can choose
+ 
+
+83
+00:01:27,119 --> 00:01:28,390
+with master proficiency you can choose
+to make the dc 30
+
+84
+00:01:28,390 --> 00:01:28,400
+to make the dc 30
+ 
+
+85
+00:01:28,400 --> 00:01:30,310
+to make the dc 30
+and also increase the amount healed by
+
+86
+00:01:30,310 --> 00:01:30,320
+and also increase the amount healed by
+ 
+
+87
+00:01:30,320 --> 00:01:31,510
+and also increase the amount healed by
+30 and with
+
+88
+00:01:31,510 --> 00:01:31,520
+30 and with
+ 
+
+89
+00:01:31,520 --> 00:01:33,910
+30 and with
+legendary proficiency you can set the dc
+
+90
+00:01:33,910 --> 00:01:33,920
+legendary proficiency you can set the dc
+ 
+
+91
+00:01:33,920 --> 00:01:34,789
+legendary proficiency you can set the dc
+at 40
+
+92
+00:01:34,789 --> 00:01:34,799
+at 40
+ 
+
+93
+00:01:34,799 --> 00:01:37,590
+at 40
+and increase the amount healed by 50 on
+
+94
+00:01:37,590 --> 00:01:37,600
+and increase the amount healed by 50 on
+ 
+
+95
+00:01:37,600 --> 00:01:40,149
+and increase the amount healed by 50 on
+a success or critical success
+
+96
+00:01:40,149 --> 00:01:40,159
+a success or critical success
+ 
+
+97
+00:01:40,159 --> 00:01:42,389
+a success or critical success
+note that this is a choice you get to
+
+98
+00:01:42,389 --> 00:01:42,399
+note that this is a choice you get to
+ 
+
+99
+00:01:42,399 --> 00:01:44,950
+note that this is a choice you get to
+make once you reach expert proficiency
+
+100
+00:01:44,950 --> 00:01:44,960
+make once you reach expert proficiency
+ 
+
+101
+00:01:44,960 --> 00:01:48,149
+make once you reach expert proficiency
+you don't have to roll against dc20 and
+
+102
+00:01:48,149 --> 00:01:48,159
+you don't have to roll against dc20 and
+ 
+
+103
+00:01:48,159 --> 00:01:50,149
+you don't have to roll against dc20 and
+even at legendary proficiency
+
+104
+00:01:50,149 --> 00:01:50,159
+even at legendary proficiency
+ 
+
+105
+00:01:50,159 --> 00:01:52,710
+even at legendary proficiency
+you can still roll against dc 15 if you
+
+106
+00:01:52,710 --> 00:01:52,720
+you can still roll against dc 15 if you
+ 
+
+107
+00:01:52,720 --> 00:01:54,710
+you can still roll against dc 15 if you
+want but this decision needs to be
+
+108
+00:01:54,710 --> 00:01:54,720
+want but this decision needs to be
+ 
+
+109
+00:01:54,720 --> 00:01:55,990
+want but this decision needs to be
+declared before
+
+110
+00:01:55,990 --> 00:01:56,000
+declared before
+ 
+
+111
+00:01:56,000 --> 00:01:58,550
+declared before
+rolling the check also if you want to be
+
+112
+00:01:58,550 --> 00:01:58,560
+rolling the check also if you want to be
+ 
+
+113
+00:01:58,560 --> 00:02:00,389
+rolling the check also if you want to be
+sure you don't critically fail
+
+114
+00:02:00,389 --> 00:02:00,399
+sure you don't critically fail
+ 
+
+115
+00:02:00,399 --> 00:02:02,389
+sure you don't critically fail
+then pick up the assurance medicine fee
+
+116
+00:02:02,389 --> 00:02:02,399
+then pick up the assurance medicine fee
+ 
+
+117
+00:02:02,399 --> 00:02:04,550
+then pick up the assurance medicine fee
+once you hit third level
+
+118
+00:02:04,550 --> 00:02:04,560
+once you hit third level
+ 
+
+119
+00:02:04,560 --> 00:02:06,469
+once you hit third level
+as previously mentioned it takes 10
+
+120
+00:02:06,469 --> 00:02:06,479
+as previously mentioned it takes 10
+ 
+
+121
+00:02:06,479 --> 00:02:08,389
+as previously mentioned it takes 10
+minutes of work before you roll this
+
+122
+00:02:08,389 --> 00:02:08,399
+minutes of work before you roll this
+ 
+
+123
+00:02:08,399 --> 00:02:09,029
+minutes of work before you roll this
+check
+
+124
+00:02:09,029 --> 00:02:09,039
+check
+ 
+
+125
+00:02:09,039 --> 00:02:11,270
+check
+if the result is a success then you can
+
+126
+00:02:11,270 --> 00:02:11,280
+if the result is a success then you can
+ 
+
+127
+00:02:11,280 --> 00:02:13,350
+if the result is a success then you can
+declare that you will continue treating
+
+128
+00:02:13,350 --> 00:02:13,360
+declare that you will continue treating
+ 
+
+129
+00:02:13,360 --> 00:02:15,830
+declare that you will continue treating
+the patient for the rest of the hour
+
+130
+00:02:15,830 --> 00:02:15,840
+the patient for the rest of the hour
+ 
+
+131
+00:02:15,840 --> 00:02:17,510
+the patient for the rest of the hour
+no further skill checks are rolled and
+
+132
+00:02:17,510 --> 00:02:17,520
+no further skill checks are rolled and
+ 
+
+133
+00:02:17,520 --> 00:02:18,869
+no further skill checks are rolled and
+at the end of that hour
+
+134
+00:02:18,869 --> 00:02:18,879
+at the end of that hour
+ 
+
+135
+00:02:18,879 --> 00:02:20,869
+at the end of that hour
+assuming nothing interrupts your work
+
+136
+00:02:20,869 --> 00:02:20,879
+assuming nothing interrupts your work
+ 
+
+137
+00:02:20,879 --> 00:02:21,990
+assuming nothing interrupts your work
+the amount of healing
+
+138
+00:02:21,990 --> 00:02:22,000
+the amount of healing
+ 
+
+139
+00:02:22,000 --> 00:02:24,630
+the amount of healing
+the patient receives is doubled also
+
+140
+00:02:24,630 --> 00:02:24,640
+the patient receives is doubled also
+ 
+
+141
+00:02:24,640 --> 00:02:26,470
+the patient receives is doubled also
+note that there is a one-hour cooldown
+
+142
+00:02:26,470 --> 00:02:26,480
+note that there is a one-hour cooldown
+ 
+
+143
+00:02:26,480 --> 00:02:28,470
+note that there is a one-hour cooldown
+for receiving treat wounds
+
+144
+00:02:28,470 --> 00:02:28,480
+for receiving treat wounds
+ 
+
+145
+00:02:28,480 --> 00:02:31,110
+for receiving treat wounds
+which begins when you start treating the
+
+146
+00:02:31,110 --> 00:02:31,120
+which begins when you start treating the
+ 
+
+147
+00:02:31,120 --> 00:02:31,910
+which begins when you start treating the
+patient
+
+148
+00:02:31,910 --> 00:02:31,920
+patient
+ 
+
+149
+00:02:31,920 --> 00:02:34,309
+patient
+so if you treat a patient once you have
+
+150
+00:02:34,309 --> 00:02:34,319
+so if you treat a patient once you have
+ 
+
+151
+00:02:34,319 --> 00:02:36,630
+so if you treat a patient once you have
+to wait another 50 minutes before you
+
+152
+00:02:36,630 --> 00:02:36,640
+to wait another 50 minutes before you
+ 
+
+153
+00:02:36,640 --> 00:02:39,270
+to wait another 50 minutes before you
+can treat that same patient again
+
+154
+00:02:39,270 --> 00:02:39,280
+can treat that same patient again
+ 
+
+155
+00:02:39,280 --> 00:02:41,350
+can treat that same patient again
+likewise if you spent the entire hour
+
+156
+00:02:41,350 --> 00:02:41,360
+likewise if you spent the entire hour
+ 
+
+157
+00:02:41,360 --> 00:02:43,110
+likewise if you spent the entire hour
+treating the patient for double the hit
+
+158
+00:02:43,110 --> 00:02:43,120
+treating the patient for double the hit
+ 
+
+159
+00:02:43,120 --> 00:02:43,670
+treating the patient for double the hit
+points
+
+160
+00:02:43,670 --> 00:02:43,680
+points
+ 
+
+161
+00:02:43,680 --> 00:02:45,830
+points
+then you can immediately use treat
+
+162
+00:02:45,830 --> 00:02:45,840
+then you can immediately use treat
+ 
+
+163
+00:02:45,840 --> 00:02:47,750
+then you can immediately use treat
+wounds on that patient again
+
+164
+00:02:47,750 --> 00:02:47,760
+wounds on that patient again
+ 
+
+165
+00:02:47,760 --> 00:02:50,790
+wounds on that patient again
+because that hour is now up this one
+
+166
+00:02:50,790 --> 00:02:50,800
+because that hour is now up this one
+ 
+
+167
+00:02:50,800 --> 00:02:51,670
+because that hour is now up this one
+hour cooldown
+
+168
+00:02:51,670 --> 00:02:51,680
+hour cooldown
+ 
+
+169
+00:02:51,680 --> 00:02:54,229
+hour cooldown
+applies to the patient receiving treat
+
+170
+00:02:54,229 --> 00:02:54,239
+applies to the patient receiving treat
+ 
+
+171
+00:02:54,239 --> 00:02:55,110
+applies to the patient receiving treat
+wounds
+
+172
+00:02:55,110 --> 00:02:55,120
+wounds
+ 
+
+173
+00:02:55,120 --> 00:02:57,270
+wounds
+after the first 10 minutes of work you
+
+174
+00:02:57,270 --> 00:02:57,280
+after the first 10 minutes of work you
+ 
+
+175
+00:02:57,280 --> 00:02:59,990
+after the first 10 minutes of work you
+can move on to treating another creature
+
+176
+00:02:59,990 --> 00:03:00,000
+can move on to treating another creature
+ 
+
+177
+00:03:00,000 --> 00:03:01,750
+can move on to treating another creature
+but your first patient cannot be the
+
+178
+00:03:01,750 --> 00:03:01,760
+but your first patient cannot be the
+ 
+
+179
+00:03:01,760 --> 00:03:03,910
+but your first patient cannot be the
+target of another treatment activity
+
+180
+00:03:03,910 --> 00:03:03,920
+target of another treatment activity
+ 
+
+181
+00:03:03,920 --> 00:03:05,830
+target of another treatment activity
+even from a different healer
+
+182
+00:03:05,830 --> 00:03:05,840
+even from a different healer
+ 
+
+183
+00:03:05,840 --> 00:03:09,509
+even from a different healer
+until the hour has passed
+
+184
+00:03:09,509 --> 00:03:09,519
+
+ 
+
+185
+00:03:09,519 --> 00:03:11,670
+
+next let's talk about administer first
+
+186
+00:03:11,670 --> 00:03:11,680
+next let's talk about administer first
+ 
+
+187
+00:03:11,680 --> 00:03:13,990
+next let's talk about administer first
+aid this is the only medicine skill
+
+188
+00:03:13,990 --> 00:03:14,000
+aid this is the only medicine skill
+ 
+
+189
+00:03:14,000 --> 00:03:15,270
+aid this is the only medicine skill
+activity that you can
+
+190
+00:03:15,270 --> 00:03:15,280
+activity that you can
+ 
+
+191
+00:03:15,280 --> 00:03:17,910
+activity that you can
+use untrained and is used to either
+
+192
+00:03:17,910 --> 00:03:17,920
+use untrained and is used to either
+ 
+
+193
+00:03:17,920 --> 00:03:19,830
+use untrained and is used to either
+stabilize a dying creature
+
+194
+00:03:19,830 --> 00:03:19,840
+stabilize a dying creature
+ 
+
+195
+00:03:19,840 --> 00:03:22,550
+stabilize a dying creature
+or remove the bleeding condition this
+
+196
+00:03:22,550 --> 00:03:22,560
+or remove the bleeding condition this
+ 
+
+197
+00:03:22,560 --> 00:03:23,270
+or remove the bleeding condition this
+requires
+
+198
+00:03:23,270 --> 00:03:23,280
+requires
+ 
+
+199
+00:03:23,280 --> 00:03:25,750
+requires
+two actions and just like when treating
+
+200
+00:03:25,750 --> 00:03:25,760
+two actions and just like when treating
+ 
+
+201
+00:03:25,760 --> 00:03:28,309
+two actions and just like when treating
+wounds you must be either wielding or
+
+202
+00:03:28,309 --> 00:03:28,319
+wounds you must be either wielding or
+ 
+
+203
+00:03:28,319 --> 00:03:31,670
+wounds you must be either wielding or
+wearing healers tools each character is
+
+204
+00:03:31,670 --> 00:03:31,680
+wearing healers tools each character is
+ 
+
+205
+00:03:31,680 --> 00:03:32,070
+wearing healers tools each character is
+able
+
+206
+00:03:32,070 --> 00:03:32,080
+able
+ 
+
+207
+00:03:32,080 --> 00:03:35,190
+able
+to wear up to two bulk worth of tools
+
+208
+00:03:35,190 --> 00:03:35,200
+to wear up to two bulk worth of tools
+ 
+
+209
+00:03:35,200 --> 00:03:37,589
+to wear up to two bulk worth of tools
+when doing so they can retrieve and stow
+
+210
+00:03:37,589 --> 00:03:37,599
+when doing so they can retrieve and stow
+ 
+
+211
+00:03:37,599 --> 00:03:39,589
+when doing so they can retrieve and stow
+the tools with the same actions they
+
+212
+00:03:39,589 --> 00:03:39,599
+the tools with the same actions they
+ 
+
+213
+00:03:39,599 --> 00:03:41,670
+the tools with the same actions they
+spend in order to use them
+
+214
+00:03:41,670 --> 00:03:41,680
+spend in order to use them
+ 
+
+215
+00:03:41,680 --> 00:03:43,830
+spend in order to use them
+so for example it would only take two
+
+216
+00:03:43,830 --> 00:03:43,840
+so for example it would only take two
+ 
+
+217
+00:03:43,840 --> 00:03:45,110
+so for example it would only take two
+actions for a person
+
+218
+00:03:45,110 --> 00:03:45,120
+actions for a person
+ 
+
+219
+00:03:45,120 --> 00:03:46,710
+actions for a person
+wearing their healer's tools to
+
+220
+00:03:46,710 --> 00:03:46,720
+wearing their healer's tools to
+ 
+
+221
+00:03:46,720 --> 00:03:48,309
+wearing their healer's tools to
+administer first aid
+
+222
+00:03:48,309 --> 00:03:48,319
+administer first aid
+ 
+
+223
+00:03:48,319 --> 00:03:51,030
+administer first aid
+but if their tools are not worn if they
+
+224
+00:03:51,030 --> 00:03:51,040
+but if their tools are not worn if they
+ 
+
+225
+00:03:51,040 --> 00:03:51,830
+but if their tools are not worn if they
+were instead
+
+226
+00:03:51,830 --> 00:03:51,840
+were instead
+ 
+
+227
+00:03:51,840 --> 00:03:54,149
+were instead
+stored then that person would need to
+
+228
+00:03:54,149 --> 00:03:54,159
+stored then that person would need to
+ 
+
+229
+00:03:54,159 --> 00:03:56,229
+stored then that person would need to
+spend one interact action to get their
+
+230
+00:03:56,229 --> 00:03:56,239
+spend one interact action to get their
+ 
+
+231
+00:03:56,239 --> 00:03:57,190
+spend one interact action to get their
+tools out
+
+232
+00:03:57,190 --> 00:03:57,200
+tools out
+ 
+
+233
+00:03:57,200 --> 00:03:59,270
+tools out
+and then two actions to administer first
+
+234
+00:03:59,270 --> 00:03:59,280
+and then two actions to administer first
+ 
+
+235
+00:03:59,280 --> 00:04:00,550
+and then two actions to administer first
+aid and then a
+
+236
+00:04:00,550 --> 00:04:00,560
+aid and then a
+ 
+
+237
+00:04:00,560 --> 00:04:03,030
+aid and then a
+fourth action to put the tools away
+
+238
+00:04:03,030 --> 00:04:03,040
+fourth action to put the tools away
+ 
+
+239
+00:04:03,040 --> 00:04:04,949
+fourth action to put the tools away
+meaning they couldn't do all of this
+
+240
+00:04:04,949 --> 00:04:04,959
+meaning they couldn't do all of this
+ 
+
+241
+00:04:04,959 --> 00:04:07,750
+meaning they couldn't do all of this
+in one turn so remember you are allowed
+
+242
+00:04:07,750 --> 00:04:07,760
+in one turn so remember you are allowed
+ 
+
+243
+00:04:07,760 --> 00:04:09,670
+in one turn so remember you are allowed
+to wear your healer's tools
+
+244
+00:04:09,670 --> 00:04:09,680
+to wear your healer's tools
+ 
+
+245
+00:04:09,680 --> 00:04:11,509
+to wear your healer's tools
+which basically makes drawing and
+
+246
+00:04:11,509 --> 00:04:11,519
+which basically makes drawing and
+ 
+
+247
+00:04:11,519 --> 00:04:13,509
+which basically makes drawing and
+stowing them free actions
+
+248
+00:04:13,509 --> 00:04:13,519
+stowing them free actions
+ 
+
+249
+00:04:13,519 --> 00:04:15,670
+stowing them free actions
+when you use administer first aid you
+
+250
+00:04:15,670 --> 00:04:15,680
+when you use administer first aid you
+ 
+
+251
+00:04:15,680 --> 00:04:18,469
+when you use administer first aid you
+choose to either stabilize the target or
+
+252
+00:04:18,469 --> 00:04:18,479
+choose to either stabilize the target or
+ 
+
+253
+00:04:18,479 --> 00:04:21,030
+choose to either stabilize the target or
+stop their bleeding when stabilizing you
+
+254
+00:04:21,030 --> 00:04:21,040
+stop their bleeding when stabilizing you
+ 
+
+255
+00:04:21,040 --> 00:04:22,390
+stop their bleeding when stabilizing you
+roll a medicine skill check
+
+256
+00:04:22,390 --> 00:04:22,400
+roll a medicine skill check
+ 
+
+257
+00:04:22,400 --> 00:04:25,030
+roll a medicine skill check
+versus 5 plus that target's recovery
+
+258
+00:04:25,030 --> 00:04:25,040
+versus 5 plus that target's recovery
+ 
+
+259
+00:04:25,040 --> 00:04:25,990
+versus 5 plus that target's recovery
+check
+
+260
+00:04:25,990 --> 00:04:26,000
+check
+ 
+
+261
+00:04:26,000 --> 00:04:27,990
+check
+each round that a creature is dying they
+
+262
+00:04:27,990 --> 00:04:28,000
+each round that a creature is dying they
+ 
+
+263
+00:04:28,000 --> 00:04:30,629
+each round that a creature is dying they
+must roll a recovery check versus a dc
+
+264
+00:04:30,629 --> 00:04:30,639
+must roll a recovery check versus a dc
+ 
+
+265
+00:04:30,639 --> 00:04:31,430
+must roll a recovery check versus a dc
+equal to 10
+
+266
+00:04:31,430 --> 00:04:31,440
+equal to 10
+ 
+
+267
+00:04:31,440 --> 00:04:33,590
+equal to 10
+plus their dying value in order to
+
+268
+00:04:33,590 --> 00:04:33,600
+plus their dying value in order to
+ 
+
+269
+00:04:33,600 --> 00:04:34,629
+plus their dying value in order to
+stabilize them
+
+270
+00:04:34,629 --> 00:04:34,639
+stabilize them
+ 
+
+271
+00:04:34,639 --> 00:04:36,710
+stabilize them
+you need to roll a missing check that is
+
+272
+00:04:36,710 --> 00:04:36,720
+you need to roll a missing check that is
+ 
+
+273
+00:04:36,720 --> 00:04:38,390
+you need to roll a missing check that is
+5 higher than this
+
+274
+00:04:38,390 --> 00:04:38,400
+5 higher than this
+ 
+
+275
+00:04:38,400 --> 00:04:42,310
+5 higher than this
+or usually 15 plus that person's dying
+
+276
+00:04:42,310 --> 00:04:42,320
+or usually 15 plus that person's dying
+ 
+
+277
+00:04:42,320 --> 00:04:43,110
+or usually 15 plus that person's dying
+value
+
+278
+00:04:43,110 --> 00:04:43,120
+value
+ 
+
+279
+00:04:43,120 --> 00:04:45,430
+value
+so someone who is dying one needs to
+
+280
+00:04:45,430 --> 00:04:45,440
+so someone who is dying one needs to
+ 
+
+281
+00:04:45,440 --> 00:04:46,390
+so someone who is dying one needs to
+roll a dc
+
+282
+00:04:46,390 --> 00:04:46,400
+roll a dc
+ 
+
+283
+00:04:46,400 --> 00:04:49,350
+roll a dc
+11 recovery check on their turn and you
+
+284
+00:04:49,350 --> 00:04:49,360
+11 recovery check on their turn and you
+ 
+
+285
+00:04:49,360 --> 00:04:50,150
+11 recovery check on their turn and you
+would need to roll
+
+286
+00:04:50,150 --> 00:04:50,160
+would need to roll
+ 
+
+287
+00:04:50,160 --> 00:04:53,430
+would need to roll
+a dc 16 medicine check five more than
+
+288
+00:04:53,430 --> 00:04:53,440
+a dc 16 medicine check five more than
+ 
+
+289
+00:04:53,440 --> 00:04:54,629
+a dc 16 medicine check five more than
+that recovery check
+
+290
+00:04:54,629 --> 00:04:54,639
+that recovery check
+ 
+
+291
+00:04:54,639 --> 00:04:57,030
+that recovery check
+in order to stabilize them if they were
+
+292
+00:04:57,030 --> 00:04:57,040
+in order to stabilize them if they were
+ 
+
+293
+00:04:57,040 --> 00:04:57,990
+in order to stabilize them if they were
+dying 3
+
+294
+00:04:57,990 --> 00:04:58,000
+dying 3
+ 
+
+295
+00:04:58,000 --> 00:05:00,390
+dying 3
+their recovery check would be dc13 and
+
+296
+00:05:00,390 --> 00:05:00,400
+their recovery check would be dc13 and
+ 
+
+297
+00:05:00,400 --> 00:05:02,310
+their recovery check would be dc13 and
+to stabilize them you would need to beat
+
+298
+00:05:02,310 --> 00:05:02,320
+to stabilize them you would need to beat
+ 
+
+299
+00:05:02,320 --> 00:05:02,870
+to stabilize them you would need to beat
+dc
+
+300
+00:05:02,870 --> 00:05:02,880
+dc
+ 
+
+301
+00:05:02,880 --> 00:05:06,310
+dc
+18 and so on on a success the target
+
+302
+00:05:06,310 --> 00:05:06,320
+18 and so on on a success the target
+ 
+
+303
+00:05:06,320 --> 00:05:08,629
+18 and so on on a success the target
+completely loses the dying condition
+
+304
+00:05:08,629 --> 00:05:08,639
+completely loses the dying condition
+ 
+
+305
+00:05:08,639 --> 00:05:11,270
+completely loses the dying condition
+and remains unconscious the dying
+
+306
+00:05:11,270 --> 00:05:11,280
+and remains unconscious the dying
+ 
+
+307
+00:05:11,280 --> 00:05:12,790
+and remains unconscious the dying
+condition is completely
+
+308
+00:05:12,790 --> 00:05:12,800
+condition is completely
+ 
+
+309
+00:05:12,800 --> 00:05:15,029
+condition is completely
+removed in this case you don't need to
+
+310
+00:05:15,029 --> 00:05:15,039
+removed in this case you don't need to
+ 
+
+311
+00:05:15,039 --> 00:05:17,189
+removed in this case you don't need to
+repeat this action to lower them from
+
+312
+00:05:17,189 --> 00:05:17,199
+repeat this action to lower them from
+ 
+
+313
+00:05:17,199 --> 00:05:19,189
+repeat this action to lower them from
+dying three to dying two and then again
+
+314
+00:05:19,189 --> 00:05:19,199
+dying three to dying two and then again
+ 
+
+315
+00:05:19,199 --> 00:05:21,029
+dying three to dying two and then again
+to lower them from dye two to dying one
+
+316
+00:05:21,029 --> 00:05:21,039
+to lower them from dye two to dying one
+ 
+
+317
+00:05:21,039 --> 00:05:22,710
+to lower them from dye two to dying one
+and so on if you
+
+318
+00:05:22,710 --> 00:05:22,720
+and so on if you
+ 
+
+319
+00:05:22,720 --> 00:05:25,430
+and so on if you
+critically fail this check then you do
+
+320
+00:05:25,430 --> 00:05:25,440
+critically fail this check then you do
+ 
+
+321
+00:05:25,440 --> 00:05:26,629
+critically fail this check then you do
+more harm than good
+
+322
+00:05:26,629 --> 00:05:26,639
+more harm than good
+ 
+
+323
+00:05:26,639 --> 00:05:28,469
+more harm than good
+and the target's dying condition
+
+324
+00:05:28,469 --> 00:05:28,479
+and the target's dying condition
+ 
+
+325
+00:05:28,479 --> 00:05:30,070
+and the target's dying condition
+increases by one
+
+326
+00:05:30,070 --> 00:05:30,080
+increases by one
+ 
+
+327
+00:05:30,080 --> 00:05:33,110
+increases by one
+possibly killing them when a creature is
+
+328
+00:05:33,110 --> 00:05:33,120
+possibly killing them when a creature is
+ 
+
+329
+00:05:33,120 --> 00:05:34,950
+possibly killing them when a creature is
+suffering the bleed condition
+
+330
+00:05:34,950 --> 00:05:34,960
+suffering the bleed condition
+ 
+
+331
+00:05:34,960 --> 00:05:37,110
+suffering the bleed condition
+they take persistent damage at the end
+
+332
+00:05:37,110 --> 00:05:37,120
+they take persistent damage at the end
+ 
+
+333
+00:05:37,120 --> 00:05:38,870
+they take persistent damage at the end
+of each of their turns and then get to
+
+334
+00:05:38,870 --> 00:05:38,880
+of each of their turns and then get to
+ 
+
+335
+00:05:38,880 --> 00:05:41,430
+of each of their turns and then get to
+roll a dc-15 flat shake to see if the
+
+336
+00:05:41,430 --> 00:05:41,440
+roll a dc-15 flat shake to see if the
+ 
+
+337
+00:05:41,440 --> 00:05:43,270
+roll a dc-15 flat shake to see if the
+bleed effect wears off
+
+338
+00:05:43,270 --> 00:05:43,280
+bleed effect wears off
+ 
+
+339
+00:05:43,280 --> 00:05:45,350
+bleed effect wears off
+you can attempt to remove this bleed
+
+340
+00:05:45,350 --> 00:05:45,360
+you can attempt to remove this bleed
+ 
+
+341
+00:05:45,360 --> 00:05:47,510
+you can attempt to remove this bleed
+condition before they suffer more damage
+
+342
+00:05:47,510 --> 00:05:47,520
+condition before they suffer more damage
+ 
+
+343
+00:05:47,520 --> 00:05:50,310
+condition before they suffer more damage
+by administering first aid when you do
+
+344
+00:05:50,310 --> 00:05:50,320
+by administering first aid when you do
+ 
+
+345
+00:05:50,320 --> 00:05:52,150
+by administering first aid when you do
+so you roll a medicine check
+
+346
+00:05:52,150 --> 00:05:52,160
+so you roll a medicine check
+ 
+
+347
+00:05:52,160 --> 00:05:54,790
+so you roll a medicine check
+the dc for this check will be the dc of
+
+348
+00:05:54,790 --> 00:05:54,800
+the dc for this check will be the dc of
+ 
+
+349
+00:05:54,800 --> 00:05:55,510
+the dc for this check will be the dc of
+the effect
+
+350
+00:05:55,510 --> 00:05:55,520
+the effect
+ 
+
+351
+00:05:55,520 --> 00:05:58,150
+the effect
+that caused the bleed if there is one or
+
+352
+00:05:58,150 --> 00:05:58,160
+that caused the bleed if there is one or
+ 
+
+353
+00:05:58,160 --> 00:05:59,670
+that caused the bleed if there is one or
+a level based dc
+
+354
+00:05:59,670 --> 00:05:59,680
+a level based dc
+ 
+
+355
+00:05:59,680 --> 00:06:01,590
+a level based dc
+for the monster or opponent that caused
+
+356
+00:06:01,590 --> 00:06:01,600
+for the monster or opponent that caused
+ 
+
+357
+00:06:01,600 --> 00:06:03,990
+for the monster or opponent that caused
+the bleed for example if a creature is
+
+358
+00:06:03,990 --> 00:06:04,000
+the bleed for example if a creature is
+ 
+
+359
+00:06:04,000 --> 00:06:05,430
+the bleed for example if a creature is
+suffering from the bleed condition
+
+360
+00:06:05,430 --> 00:06:05,440
+suffering from the bleed condition
+ 
+
+361
+00:06:05,440 --> 00:06:06,070
+suffering from the bleed condition
+because they
+
+362
+00:06:06,070 --> 00:06:06,080
+because they
+ 
+
+363
+00:06:06,080 --> 00:06:09,029
+because they
+failed their dc-16 reflex save against a
+
+364
+00:06:09,029 --> 00:06:09,039
+failed their dc-16 reflex save against a
+ 
+
+365
+00:06:09,039 --> 00:06:11,990
+failed their dc-16 reflex save against a
+vampire bat swarm's blood feast ability
+
+366
+00:06:11,990 --> 00:06:12,000
+vampire bat swarm's blood feast ability
+ 
+
+367
+00:06:12,000 --> 00:06:13,749
+vampire bat swarm's blood feast ability
+then the dc and the medicine check to
+
+368
+00:06:13,749 --> 00:06:13,759
+then the dc and the medicine check to
+ 
+
+369
+00:06:13,759 --> 00:06:15,830
+then the dc and the medicine check to
+administer first aid and remove this
+
+370
+00:06:15,830 --> 00:06:15,840
+administer first aid and remove this
+ 
+
+371
+00:06:15,840 --> 00:06:17,830
+administer first aid and remove this
+bleeding condition will also be
+
+372
+00:06:17,830 --> 00:06:17,840
+bleeding condition will also be
+ 
+
+373
+00:06:17,840 --> 00:06:20,390
+bleeding condition will also be
+16. if the creature is suffering the
+
+374
+00:06:20,390 --> 00:06:20,400
+16. if the creature is suffering the
+ 
+
+375
+00:06:20,400 --> 00:06:22,309
+16. if the creature is suffering the
+bleed condition because of a weapon
+
+376
+00:06:22,309 --> 00:06:22,319
+bleed condition because of a weapon
+ 
+
+377
+00:06:22,319 --> 00:06:24,390
+bleed condition because of a weapon
+attack from a 9th level opponent
+
+378
+00:06:24,390 --> 00:06:24,400
+attack from a 9th level opponent
+ 
+
+379
+00:06:24,400 --> 00:06:26,950
+attack from a 9th level opponent
+and there is no specific dc listed for
+
+380
+00:06:26,950 --> 00:06:26,960
+and there is no specific dc listed for
+ 
+
+381
+00:06:26,960 --> 00:06:28,710
+and there is no specific dc listed for
+their weapons bleed effect
+
+382
+00:06:28,710 --> 00:06:28,720
+their weapons bleed effect
+ 
+
+383
+00:06:28,720 --> 00:06:30,950
+their weapons bleed effect
+then the dc would be the standard 9th
+
+384
+00:06:30,950 --> 00:06:30,960
+then the dc would be the standard 9th
+ 
+
+385
+00:06:30,960 --> 00:06:31,909
+then the dc would be the standard 9th
+level dc
+
+386
+00:06:31,909 --> 00:06:31,919
+level dc
+ 
+
+387
+00:06:31,919 --> 00:06:35,590
+level dc
+per tableton 5 which is dc26
+
+388
+00:06:35,590 --> 00:06:35,600
+per tableton 5 which is dc26
+ 
+
+389
+00:06:35,600 --> 00:06:37,590
+per tableton 5 which is dc26
+now it's important to note that if this
+
+390
+00:06:37,590 --> 00:06:37,600
+now it's important to note that if this
+ 
+
+391
+00:06:37,600 --> 00:06:38,870
+now it's important to note that if this
+check is a success
+
+392
+00:06:38,870 --> 00:06:38,880
+check is a success
+ 
+
+393
+00:06:38,880 --> 00:06:41,350
+check is a success
+then the bleeding condition is not
+
+394
+00:06:41,350 --> 00:06:41,360
+then the bleeding condition is not
+ 
+
+395
+00:06:41,360 --> 00:06:42,390
+then the bleeding condition is not
+removed
+
+396
+00:06:42,390 --> 00:06:42,400
+removed
+ 
+
+397
+00:06:42,400 --> 00:06:44,950
+removed
+instead the bleeding creature gets to
+
+398
+00:06:44,950 --> 00:06:44,960
+instead the bleeding creature gets to
+ 
+
+399
+00:06:44,960 --> 00:06:47,189
+instead the bleeding creature gets to
+make an immediate dc 15 fletchick
+
+400
+00:06:47,189 --> 00:06:47,199
+make an immediate dc 15 fletchick
+ 
+
+401
+00:06:47,199 --> 00:06:47,909
+make an immediate dc 15 fletchick
+flightcheck
+
+402
+00:06:47,909 --> 00:06:47,919
+flightcheck
+ 
+
+403
+00:06:47,919 --> 00:06:50,550
+flightcheck
+against their bleed condition the same
+
+404
+00:06:50,550 --> 00:06:50,560
+against their bleed condition the same
+ 
+
+405
+00:06:50,560 --> 00:06:52,390
+against their bleed condition the same
+as they would do at the end of each of
+
+406
+00:06:52,390 --> 00:06:52,400
+as they would do at the end of each of
+ 
+
+407
+00:06:52,400 --> 00:06:53,350
+as they would do at the end of each of
+their turns
+
+408
+00:06:53,350 --> 00:06:53,360
+their turns
+ 
+
+409
+00:06:53,360 --> 00:06:55,589
+their turns
+you're just giving them an extra free
+
+410
+00:06:55,589 --> 00:06:55,599
+you're just giving them an extra free
+ 
+
+411
+00:06:55,599 --> 00:06:58,870
+you're just giving them an extra free
+attempt before they suffer more damage
+
+412
+00:06:58,870 --> 00:06:58,880
+attempt before they suffer more damage
+ 
+
+413
+00:06:58,880 --> 00:07:00,790
+attempt before they suffer more damage
+and if you critically fail this check
+
+414
+00:07:00,790 --> 00:07:00,800
+and if you critically fail this check
+ 
+
+415
+00:07:00,800 --> 00:07:02,629
+and if you critically fail this check
+then the creature immediately suffers
+
+416
+00:07:02,629 --> 00:07:02,639
+then the creature immediately suffers
+ 
+
+417
+00:07:02,639 --> 00:07:04,710
+then the creature immediately suffers
+their bleed damage instead
+
+418
+00:07:04,710 --> 00:07:04,720
+their bleed damage instead
+ 
+
+419
+00:07:04,720 --> 00:07:07,189
+their bleed damage instead
+also if a creature is both bleeding and
+
+420
+00:07:07,189 --> 00:07:07,199
+also if a creature is both bleeding and
+ 
+
+421
+00:07:07,199 --> 00:07:07,749
+also if a creature is both bleeding and
+dying
+
+422
+00:07:07,749 --> 00:07:07,759
+dying
+ 
+
+423
+00:07:07,759 --> 00:07:09,909
+dying
+then you can choose which of those
+
+424
+00:07:09,909 --> 00:07:09,919
+then you can choose which of those
+ 
+
+425
+00:07:09,919 --> 00:07:11,830
+then you can choose which of those
+effects you're going to tend to before
+
+426
+00:07:11,830 --> 00:07:11,840
+effects you're going to tend to before
+ 
+
+427
+00:07:11,840 --> 00:07:12,950
+effects you're going to tend to before
+rolling your check
+
+428
+00:07:12,950 --> 00:07:12,960
+rolling your check
+ 
+
+429
+00:07:12,960 --> 00:07:15,909
+rolling your check
+and it will only apply to that condition
+
+430
+00:07:15,909 --> 00:07:15,919
+and it will only apply to that condition
+ 
+
+431
+00:07:15,919 --> 00:07:17,589
+and it will only apply to that condition
+so you can't roll once
+
+432
+00:07:17,589 --> 00:07:17,599
+so you can't roll once
+ 
+
+433
+00:07:17,599 --> 00:07:20,309
+so you can't roll once
+and administer first aid for both the
+
+434
+00:07:20,309 --> 00:07:20,319
+and administer first aid for both the
+ 
+
+435
+00:07:20,319 --> 00:07:24,469
+and administer first aid for both the
+dying and bleeding conditions
+
+436
+00:07:24,469 --> 00:07:24,479
+
+ 
+
+437
+00:07:24,479 --> 00:07:26,070
+
+treat disease can be used to help a
+
+438
+00:07:26,070 --> 00:07:26,080
+treat disease can be used to help a
+ 
+
+439
+00:07:26,080 --> 00:07:27,589
+treat disease can be used to help a
+disease creature fight off their
+
+440
+00:07:27,589 --> 00:07:27,599
+disease creature fight off their
+ 
+
+441
+00:07:27,599 --> 00:07:28,550
+disease creature fight off their
+affliction
+
+442
+00:07:28,550 --> 00:07:28,560
+affliction
+ 
+
+443
+00:07:28,560 --> 00:07:31,189
+affliction
+this is a downtime activity that takes
+
+444
+00:07:31,189 --> 00:07:31,199
+this is a downtime activity that takes
+ 
+
+445
+00:07:31,199 --> 00:07:31,670
+this is a downtime activity that takes
+eight
+
+446
+00:07:31,670 --> 00:07:31,680
+eight
+ 
+
+447
+00:07:31,680 --> 00:07:33,990
+eight
+hours to use after which you roll a
+
+448
+00:07:33,990 --> 00:07:34,000
+hours to use after which you roll a
+ 
+
+449
+00:07:34,000 --> 00:07:37,029
+hours to use after which you roll a
+medicine check against the diseases dc
+
+450
+00:07:37,029 --> 00:07:37,039
+medicine check against the diseases dc
+ 
+
+451
+00:07:37,039 --> 00:07:40,070
+medicine check against the diseases dc
+on a success the patient receives a plus
+
+452
+00:07:40,070 --> 00:07:40,080
+on a success the patient receives a plus
+ 
+
+453
+00:07:40,080 --> 00:07:41,909
+on a success the patient receives a plus
+two circumstance bonus to their next
+
+454
+00:07:41,909 --> 00:07:41,919
+two circumstance bonus to their next
+ 
+
+455
+00:07:41,919 --> 00:07:42,390
+two circumstance bonus to their next
+save
+
+456
+00:07:42,390 --> 00:07:42,400
+save
+ 
+
+457
+00:07:42,400 --> 00:07:45,589
+save
+against that disease on a critical
+
+458
+00:07:45,589 --> 00:07:45,599
+against that disease on a critical
+ 
+
+459
+00:07:45,599 --> 00:07:46,390
+against that disease on a critical
+success
+
+460
+00:07:46,390 --> 00:07:46,400
+success
+ 
+
+461
+00:07:46,400 --> 00:07:49,510
+success
+this bonus is increased to plus four
+
+462
+00:07:49,510 --> 00:07:49,520
+this bonus is increased to plus four
+ 
+
+463
+00:07:49,520 --> 00:07:51,990
+this bonus is increased to plus four
+nothing happens on a failure but with a
+
+464
+00:07:51,990 --> 00:07:52,000
+nothing happens on a failure but with a
+ 
+
+465
+00:07:52,000 --> 00:07:53,189
+nothing happens on a failure but with a
+critical failure
+
+466
+00:07:53,189 --> 00:07:53,199
+critical failure
+ 
+
+467
+00:07:53,199 --> 00:07:55,670
+critical failure
+the patient suffers a negative two
+
+468
+00:07:55,670 --> 00:07:55,680
+the patient suffers a negative two
+ 
+
+469
+00:07:55,680 --> 00:07:56,230
+the patient suffers a negative two
+penalty
+
+470
+00:07:56,230 --> 00:07:56,240
+penalty
+ 
+
+471
+00:07:56,240 --> 00:07:58,950
+penalty
+to their next save against the disease
+
+472
+00:07:58,950 --> 00:07:58,960
+to their next save against the disease
+ 
+
+473
+00:07:58,960 --> 00:08:00,950
+to their next save against the disease
+and note that since this is a typed
+
+474
+00:08:00,950 --> 00:08:00,960
+and note that since this is a typed
+ 
+
+475
+00:08:00,960 --> 00:08:01,589
+and note that since this is a typed
+bonus
+
+476
+00:08:01,589 --> 00:08:01,599
+bonus
+ 
+
+477
+00:08:01,599 --> 00:08:03,589
+bonus
+multiple uses of treat disease on the
+
+478
+00:08:03,589 --> 00:08:03,599
+multiple uses of treat disease on the
+ 
+
+479
+00:08:03,599 --> 00:08:05,670
+multiple uses of treat disease on the
+same creature do not stack
+
+480
+00:08:05,670 --> 00:08:05,680
+same creature do not stack
+ 
+
+481
+00:08:05,680 --> 00:08:07,749
+same creature do not stack
+and once you use treat disease on a
+
+482
+00:08:07,749 --> 00:08:07,759
+and once you use treat disease on a
+ 
+
+483
+00:08:07,759 --> 00:08:10,469
+and once you use treat disease on a
+creature you cannot use it again on the
+
+484
+00:08:10,469 --> 00:08:10,479
+creature you cannot use it again on the
+ 
+
+485
+00:08:10,479 --> 00:08:11,990
+creature you cannot use it again on the
+same creature until after
+
+486
+00:08:11,990 --> 00:08:12,000
+same creature until after
+ 
+
+487
+00:08:12,000 --> 00:08:13,830
+same creature until after
+they rolled their next savings throw
+
+488
+00:08:13,830 --> 00:08:13,840
+they rolled their next savings throw
+ 
+
+489
+00:08:13,840 --> 00:08:17,430
+they rolled their next savings throw
+against that disease
+
+490
+00:08:17,430 --> 00:08:17,440
+
+ 
+
+491
+00:08:17,440 --> 00:08:19,350
+
+you can also use the medicine skill to
+
+492
+00:08:19,350 --> 00:08:19,360
+you can also use the medicine skill to
+ 
+
+493
+00:08:19,360 --> 00:08:20,469
+you can also use the medicine skill to
+treat poison
+
+494
+00:08:20,469 --> 00:08:20,479
+treat poison
+ 
+
+495
+00:08:20,479 --> 00:08:22,550
+treat poison
+this works in much the same way as
+
+496
+00:08:22,550 --> 00:08:22,560
+this works in much the same way as
+ 
+
+497
+00:08:22,560 --> 00:08:23,589
+this works in much the same way as
+treating a disease
+
+498
+00:08:23,589 --> 00:08:23,599
+treating a disease
+ 
+
+499
+00:08:23,599 --> 00:08:26,070
+treating a disease
+except it only takes one action instead
+
+500
+00:08:26,070 --> 00:08:26,080
+except it only takes one action instead
+ 
+
+501
+00:08:26,080 --> 00:08:27,110
+except it only takes one action instead
+of eight hours
+
+502
+00:08:27,110 --> 00:08:27,120
+of eight hours
+ 
+
+503
+00:08:27,120 --> 00:08:28,950
+of eight hours
+you roll a medicine check against the
+
+504
+00:08:28,950 --> 00:08:28,960
+you roll a medicine check against the
+ 
+
+505
+00:08:28,960 --> 00:08:30,150
+you roll a medicine check against the
+poison's dc
+
+506
+00:08:30,150 --> 00:08:30,160
+poison's dc
+ 
+
+507
+00:08:30,160 --> 00:08:32,550
+poison's dc
+on a success the patient gets a plus two
+
+508
+00:08:32,550 --> 00:08:32,560
+on a success the patient gets a plus two
+ 
+
+509
+00:08:32,560 --> 00:08:34,389
+on a success the patient gets a plus two
+circumstance bonus to their next savings
+
+510
+00:08:34,389 --> 00:08:34,399
+circumstance bonus to their next savings
+ 
+
+511
+00:08:34,399 --> 00:08:36,070
+circumstance bonus to their next savings
+throw against the poison
+
+512
+00:08:36,070 --> 00:08:36,080
+throw against the poison
+ 
+
+513
+00:08:36,080 --> 00:08:37,990
+throw against the poison
+on a critical success the bonus
+
+514
+00:08:37,990 --> 00:08:38,000
+on a critical success the bonus
+ 
+
+515
+00:08:38,000 --> 00:08:39,589
+on a critical success the bonus
+increases to plus 4
+
+516
+00:08:39,589 --> 00:08:39,599
+increases to plus 4
+ 
+
+517
+00:08:39,599 --> 00:08:41,829
+increases to plus 4
+and on a critical failure the patient
+
+518
+00:08:41,829 --> 00:08:41,839
+and on a critical failure the patient
+ 
+
+519
+00:08:41,839 --> 00:08:43,829
+and on a critical failure the patient
+suffers a negative 2 penalty to their
+
+520
+00:08:43,829 --> 00:08:43,839
+suffers a negative 2 penalty to their
+ 
+
+521
+00:08:43,839 --> 00:08:45,829
+suffers a negative 2 penalty to their
+next save against the poison
+
+522
+00:08:45,829 --> 00:08:45,839
+next save against the poison
+ 
+
+523
+00:08:45,839 --> 00:08:48,150
+next save against the poison
+and like with treat disease once you
+
+524
+00:08:48,150 --> 00:08:48,160
+and like with treat disease once you
+ 
+
+525
+00:08:48,160 --> 00:08:49,670
+and like with treat disease once you
+treat someone for poison
+
+526
+00:08:49,670 --> 00:08:49,680
+treat someone for poison
+ 
+
+527
+00:08:49,680 --> 00:08:51,990
+treat someone for poison
+you cannot treat them again until after
+
+528
+00:08:51,990 --> 00:08:52,000
+you cannot treat them again until after
+ 
+
+529
+00:08:52,000 --> 00:08:56,550
+you cannot treat them again until after
+their next save whenever that may be
+
+530
+00:08:56,550 --> 00:08:56,560
+
+ 
+
+531
+00:08:56,560 --> 00:08:58,310
+
+those are the basics of the medicine
+
+532
+00:08:58,310 --> 00:08:58,320
+those are the basics of the medicine
+ 
+
+533
+00:08:58,320 --> 00:09:00,470
+those are the basics of the medicine
+skill but there are also a few
+
+534
+00:09:00,470 --> 00:09:00,480
+skill but there are also a few
+ 
+
+535
+00:09:00,480 --> 00:09:02,630
+skill but there are also a few
+feats that are worth mentioning first of
+
+536
+00:09:02,630 --> 00:09:02,640
+feats that are worth mentioning first of
+ 
+
+537
+00:09:02,640 --> 00:09:04,389
+feats that are worth mentioning first of
+those is battle medicine
+
+538
+00:09:04,389 --> 00:09:04,399
+those is battle medicine
+ 
+
+539
+00:09:04,399 --> 00:09:06,150
+those is battle medicine
+this lets you use treat wounds by
+
+540
+00:09:06,150 --> 00:09:06,160
+this lets you use treat wounds by
+ 
+
+541
+00:09:06,160 --> 00:09:07,829
+this lets you use treat wounds by
+spending one action instead of 10
+
+542
+00:09:07,829 --> 00:09:07,839
+spending one action instead of 10
+ 
+
+543
+00:09:07,839 --> 00:09:08,630
+spending one action instead of 10
+minutes
+
+544
+00:09:08,630 --> 00:09:08,640
+minutes
+ 
+
+545
+00:09:08,640 --> 00:09:11,190
+minutes
+so you can use it during a fight this
+
+546
+00:09:11,190 --> 00:09:11,200
+so you can use it during a fight this
+ 
+
+547
+00:09:11,200 --> 00:09:13,590
+so you can use it during a fight this
+works the same as using tree wounds
+
+548
+00:09:13,590 --> 00:09:13,600
+works the same as using tree wounds
+ 
+
+549
+00:09:13,600 --> 00:09:15,990
+works the same as using tree wounds
+except battle medicine does not remove
+
+550
+00:09:15,990 --> 00:09:16,000
+except battle medicine does not remove
+ 
+
+551
+00:09:16,000 --> 00:09:17,430
+except battle medicine does not remove
+the wounded condition when it's
+
+552
+00:09:17,430 --> 00:09:17,440
+the wounded condition when it's
+ 
+
+553
+00:09:17,440 --> 00:09:18,389
+the wounded condition when it's
+successful
+
+554
+00:09:18,389 --> 00:09:18,399
+successful
+ 
+
+555
+00:09:18,399 --> 00:09:20,310
+successful
+and once you use battle medicine on a
+
+556
+00:09:20,310 --> 00:09:20,320
+and once you use battle medicine on a
+ 
+
+557
+00:09:20,320 --> 00:09:21,990
+and once you use battle medicine on a
+target the target is
+
+558
+00:09:21,990 --> 00:09:22,000
+target the target is
+ 
+
+559
+00:09:22,000 --> 00:09:24,630
+target the target is
+immune to your battle medicine for one
+
+560
+00:09:24,630 --> 00:09:24,640
+immune to your battle medicine for one
+ 
+
+561
+00:09:24,640 --> 00:09:25,269
+immune to your battle medicine for one
+day
+
+562
+00:09:25,269 --> 00:09:25,279
+day
+ 
+
+563
+00:09:25,279 --> 00:09:26,710
+day
+other people can still use battle
+
+564
+00:09:26,710 --> 00:09:26,720
+other people can still use battle
+ 
+
+565
+00:09:26,720 --> 00:09:29,030
+other people can still use battle
+medicine on them they just can't benefit
+
+566
+00:09:29,030 --> 00:09:29,040
+medicine on them they just can't benefit
+ 
+
+567
+00:09:29,040 --> 00:09:29,350
+medicine on them they just can't benefit
+from
+
+568
+00:09:29,350 --> 00:09:29,360
+from
+ 
+
+569
+00:09:29,360 --> 00:09:33,269
+from
+your battle medicine until a day passes
+
+570
+00:09:33,269 --> 00:09:33,279
+your battle medicine until a day passes
+ 
+
+571
+00:09:33,279 --> 00:09:35,750
+your battle medicine until a day passes
+the continual recovery feat lowers the
+
+572
+00:09:35,750 --> 00:09:35,760
+the continual recovery feat lowers the
+ 
+
+573
+00:09:35,760 --> 00:09:37,990
+the continual recovery feat lowers the
+cooldown for treat wounds from one hour
+
+574
+00:09:37,990 --> 00:09:38,000
+cooldown for treat wounds from one hour
+ 
+
+575
+00:09:38,000 --> 00:09:38,310
+cooldown for treat wounds from one hour
+to
+
+576
+00:09:38,310 --> 00:09:38,320
+to
+ 
+
+577
+00:09:38,320 --> 00:09:41,110
+to
+only 10 minutes when you have robust
+
+578
+00:09:41,110 --> 00:09:41,120
+only 10 minutes when you have robust
+ 
+
+579
+00:09:41,120 --> 00:09:41,750
+only 10 minutes when you have robust
+recovery
+
+580
+00:09:41,750 --> 00:09:41,760
+recovery
+ 
+
+581
+00:09:41,760 --> 00:09:43,829
+recovery
+and succeed with tree disease or treat
+
+582
+00:09:43,829 --> 00:09:43,839
+and succeed with tree disease or treat
+ 
+
+583
+00:09:43,839 --> 00:09:46,310
+and succeed with tree disease or treat
+poison the bonus the patient receives to
+
+584
+00:09:46,310 --> 00:09:46,320
+poison the bonus the patient receives to
+ 
+
+585
+00:09:46,320 --> 00:09:47,269
+poison the bonus the patient receives to
+their next save
+
+586
+00:09:47,269 --> 00:09:47,279
+their next save
+ 
+
+587
+00:09:47,279 --> 00:09:50,389
+their next save
+is plus four instead of plus two and if
+
+588
+00:09:50,389 --> 00:09:50,399
+is plus four instead of plus two and if
+ 
+
+589
+00:09:50,399 --> 00:09:51,509
+is plus four instead of plus two and if
+they succeed on that
+
+590
+00:09:51,509 --> 00:09:51,519
+they succeed on that
+ 
+
+591
+00:09:51,519 --> 00:09:53,590
+they succeed on that
+check the result is upgraded to a
+
+592
+00:09:53,590 --> 00:09:53,600
+check the result is upgraded to a
+ 
+
+593
+00:09:53,600 --> 00:09:55,590
+check the result is upgraded to a
+critical success instead
+
+594
+00:09:55,590 --> 00:09:55,600
+critical success instead
+ 
+
+595
+00:09:55,600 --> 00:09:57,829
+critical success instead
+and critical successes here usually
+
+596
+00:09:57,829 --> 00:09:57,839
+and critical successes here usually
+ 
+
+597
+00:09:57,839 --> 00:10:00,150
+and critical successes here usually
+lower the disease or the poisoned by two
+
+598
+00:10:00,150 --> 00:10:00,160
+lower the disease or the poisoned by two
+ 
+
+599
+00:10:00,160 --> 00:10:03,190
+lower the disease or the poisoned by two
+stages instead of only one
+
+600
+00:10:03,190 --> 00:10:03,200
+stages instead of only one
+ 
+
+601
+00:10:03,200 --> 00:10:05,190
+stages instead of only one
+ward medic increases the number of
+
+602
+00:10:05,190 --> 00:10:05,200
+ward medic increases the number of
+ 
+
+603
+00:10:05,200 --> 00:10:07,269
+ward medic increases the number of
+people you can simultaneously treat with
+
+604
+00:10:07,269 --> 00:10:07,279
+people you can simultaneously treat with
+ 
+
+605
+00:10:07,279 --> 00:10:09,110
+people you can simultaneously treat with
+treat disease and treat wounds
+
+606
+00:10:09,110 --> 00:10:09,120
+treat disease and treat wounds
+ 
+
+607
+00:10:09,120 --> 00:10:11,269
+treat disease and treat wounds
+with expert proficiency you can treat 2
+
+608
+00:10:11,269 --> 00:10:11,279
+with expert proficiency you can treat 2
+ 
+
+609
+00:10:11,279 --> 00:10:13,750
+with expert proficiency you can treat 2
+people at master you can treat 4
+
+610
+00:10:13,750 --> 00:10:13,760
+people at master you can treat 4
+ 
+
+611
+00:10:13,760 --> 00:10:15,990
+people at master you can treat 4
+and at legendary proficiency you can
+
+612
+00:10:15,990 --> 00:10:16,000
+and at legendary proficiency you can
+ 
+
+613
+00:10:16,000 --> 00:10:17,269
+and at legendary proficiency you can
+treat 8 people
+
+614
+00:10:17,269 --> 00:10:17,279
+treat 8 people
+ 
+
+615
+00:10:17,279 --> 00:10:20,389
+treat 8 people
+at the same time and natural medicine
+
+616
+00:10:20,389 --> 00:10:20,399
+at the same time and natural medicine
+ 
+
+617
+00:10:20,399 --> 00:10:22,710
+at the same time and natural medicine
+lets you use your nature skill instead
+
+618
+00:10:22,710 --> 00:10:22,720
+lets you use your nature skill instead
+ 
+
+619
+00:10:22,720 --> 00:10:23,430
+lets you use your nature skill instead
+of medicine
+
+620
+00:10:23,430 --> 00:10:23,440
+of medicine
+ 
+
+621
+00:10:23,440 --> 00:10:25,670
+of medicine
+when you're treating wounds and at the
+
+622
+00:10:25,670 --> 00:10:25,680
+when you're treating wounds and at the
+ 
+
+623
+00:10:25,680 --> 00:10:27,269
+when you're treating wounds and at the
+gm's description if you're in the
+
+624
+00:10:27,269 --> 00:10:27,279
+gm's description if you're in the
+ 
+
+625
+00:10:27,279 --> 00:10:27,910
+gm's description if you're in the
+wilderness
+
+626
+00:10:27,910 --> 00:10:27,920
+wilderness
+ 
+
+627
+00:10:27,920 --> 00:10:30,389
+wilderness
+you can also find fresh ingredients to
+
+628
+00:10:30,389 --> 00:10:30,399
+you can also find fresh ingredients to
+ 
+
+629
+00:10:30,399 --> 00:10:32,790
+you can also find fresh ingredients to
+add a plus 2 circumstance bonus
+
+630
+00:10:32,790 --> 00:10:32,800
+add a plus 2 circumstance bonus
+ 
+
+631
+00:10:32,800 --> 00:10:35,910
+add a plus 2 circumstance bonus
+to your treat injury checks as well i
+
+632
+00:10:35,910 --> 00:10:35,920
+to your treat injury checks as well i
+ 
+
+633
+00:10:35,920 --> 00:10:37,030
+to your treat injury checks as well i
+would encourage anyone
+
+634
+00:10:37,030 --> 00:10:37,040
+would encourage anyone
+ 
+
+635
+00:10:37,040 --> 00:10:38,710
+would encourage anyone
+interested in focusing on the medicine
+
+636
+00:10:38,710 --> 00:10:38,720
+interested in focusing on the medicine
+ 
+
+637
+00:10:38,720 --> 00:10:41,110
+interested in focusing on the medicine
+skill to check out the medic archetype
+
+638
+00:10:41,110 --> 00:10:41,120
+skill to check out the medic archetype
+ 
+
+639
+00:10:41,120 --> 00:10:43,269
+skill to check out the medic archetype
+and those interested in focusing on
+
+640
+00:10:43,269 --> 00:10:43,279
+and those interested in focusing on
+ 
+
+641
+00:10:43,279 --> 00:10:44,230
+and those interested in focusing on
+natural medicine
+
+642
+00:10:44,230 --> 00:10:44,240
+natural medicine
+ 
+
+643
+00:10:44,240 --> 00:10:46,550
+natural medicine
+to check out the herbalist archetype
+
+644
+00:10:46,550 --> 00:10:46,560
+to check out the herbalist archetype
+ 
+
+645
+00:10:46,560 --> 00:10:48,230
+to check out the herbalist archetype
+both of those can be found in the
+
+646
+00:10:48,230 --> 00:10:48,240
+both of those can be found in the
+ 
+
+647
+00:10:48,240 --> 00:10:51,430
+both of those can be found in the
+advanced players guide
+
+648
+00:10:51,430 --> 00:10:51,440
+advanced players guide
+ 
+
+649
+00:10:51,440 --> 00:10:52,870
+advanced players guide
+before we close i'd like to take a
+
+650
+00:10:52,870 --> 00:10:52,880
+before we close i'd like to take a
+ 
+
+651
+00:10:52,880 --> 00:10:54,870
+before we close i'd like to take a
+moment to thank all of my patrons
+
+652
+00:10:54,870 --> 00:10:54,880
+moment to thank all of my patrons
+ 
+
+653
+00:10:54,880 --> 00:10:56,470
+moment to thank all of my patrons
+these videos would not be possible
+
+654
+00:10:56,470 --> 00:10:56,480
+these videos would not be possible
+ 
+
+655
+00:10:56,480 --> 00:10:58,389
+these videos would not be possible
+without their continued generosity and
+
+656
+00:10:58,389 --> 00:10:58,399
+without their continued generosity and
+ 
+
+657
+00:10:58,399 --> 00:10:59,509
+without their continued generosity and
+support
+
+658
+00:10:59,509 --> 00:10:59,519
+support
+ 
+
+659
+00:10:59,519 --> 00:11:01,030
+support
+members of the how is played patreon
+
+660
+00:11:01,030 --> 00:11:01,040
+members of the how is played patreon
+ 
+
+661
+00:11:01,040 --> 00:11:03,110
+members of the how is played patreon
+community receive special benefits like
+
+662
+00:11:03,110 --> 00:11:03,120
+community receive special benefits like
+ 
+
+663
+00:11:03,120 --> 00:11:04,310
+community receive special benefits like
+exclusive content
+
+664
+00:11:04,310 --> 00:11:04,320
+exclusive content
+ 
+
+665
+00:11:04,320 --> 00:11:05,910
+exclusive content
+and getting to vote on the topics i
+
+666
+00:11:05,910 --> 00:11:05,920
+and getting to vote on the topics i
+ 
+
+667
+00:11:05,920 --> 00:11:07,829
+and getting to vote on the topics i
+cover if you would like to support this
+
+668
+00:11:07,829 --> 00:11:07,839
+cover if you would like to support this
+ 
+
+669
+00:11:07,839 --> 00:11:09,110
+cover if you would like to support this
+channel and help it grow
+
+670
+00:11:09,110 --> 00:11:09,120
+channel and help it grow
+ 
+
+671
+00:11:09,120 --> 00:11:11,030
+channel and help it grow
+the easiest way to do that is by
+
+672
+00:11:11,030 --> 00:11:11,040
+the easiest way to do that is by
+ 
+
+673
+00:11:11,040 --> 00:11:13,030
+the easiest way to do that is by
+subscribing and clicking the bell icon
+
+674
+00:11:13,030 --> 00:11:13,040
+subscribing and clicking the bell icon
+ 
+
+675
+00:11:13,040 --> 00:11:14,790
+subscribing and clicking the bell icon
+so you get notified when new videos
+
+676
+00:11:14,790 --> 00:11:14,800
+so you get notified when new videos
+ 
+
+677
+00:11:14,800 --> 00:11:16,870
+so you get notified when new videos
+release and i can always be reached
+
+678
+00:11:16,870 --> 00:11:16,880
+release and i can always be reached
+ 
+
+679
+00:11:16,880 --> 00:11:18,790
+release and i can always be reached
+through twitter and facebook too
+
+680
+00:11:18,790 --> 00:11:18,800
+through twitter and facebook too
+ 
+
+681
+00:11:18,800 --> 00:11:22,190
+through twitter and facebook too
+thanks for watching take care and happy
+
+682
+00:11:22,190 --> 00:11:22,200
+thanks for watching take care and happy
+ 
+
+683
+00:11:22,200 --> 00:11:25,200
+thanks for watching take care and happy
+gaming
+

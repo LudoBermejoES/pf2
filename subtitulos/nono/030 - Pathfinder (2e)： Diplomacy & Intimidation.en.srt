@@ -1,0 +1,4675 @@
+1
+00:00:00,640 --> 00:00:02,999
+
+hello and welcome to the basics of
+
+2
+00:00:02,999 --> 00:00:03,009
+hello and welcome to the basics of
+ 
+
+3
+00:00:03,009 --> 00:00:07,200
+hello and welcome to the basics of
+influence and Pathfinder 2nd edition
+
+4
+00:00:07,200 --> 00:00:07,210
+influence and Pathfinder 2nd edition
+ 
+
+5
+00:00:07,210 --> 00:00:09,640
+
+conflict and Pathfinder isn't always
+
+6
+00:00:09,640 --> 00:00:09,650
+conflict and Pathfinder isn't always
+ 
+
+7
+00:00:09,650 --> 00:00:12,250
+conflict and Pathfinder isn't always
+solved with an axe or a fireball spell
+
+8
+00:00:12,250 --> 00:00:12,260
+solved with an axe or a fireball spell
+ 
+
+9
+00:00:12,260 --> 00:00:14,770
+solved with an axe or a fireball spell
+and some characters often have sharper
+
+10
+00:00:14,770 --> 00:00:14,780
+and some characters often have sharper
+ 
+
+11
+00:00:14,780 --> 00:00:17,590
+and some characters often have sharper
+wits than swords and that's what this
+
+12
+00:00:17,590 --> 00:00:17,600
+wits than swords and that's what this
+ 
+
+13
+00:00:17,600 --> 00:00:19,900
+wits than swords and that's what this
+course is going to focus on how the
+
+14
+00:00:19,900 --> 00:00:19,910
+course is going to focus on how the
+ 
+
+15
+00:00:19,910 --> 00:00:22,179
+course is going to focus on how the
+mechanics of the game support using
+
+16
+00:00:22,179 --> 00:00:22,189
+mechanics of the game support using
+ 
+
+17
+00:00:22,189 --> 00:00:25,900
+mechanics of the game support using
+words as weapons the core foundation for
+
+18
+00:00:25,900 --> 00:00:25,910
+words as weapons the core foundation for
+ 
+
+19
+00:00:25,910 --> 00:00:29,470
+words as weapons the core foundation for
+this mechanic is attitude attitude is
+
+20
+00:00:29,470 --> 00:00:29,480
+this mechanic is attitude attitude is
+ 
+
+21
+00:00:29,480 --> 00:00:32,229
+this mechanic is attitude attitude is
+represented as a hierarchy of distinct
+
+22
+00:00:32,229 --> 00:00:32,239
+represented as a hierarchy of distinct
+ 
+
+23
+00:00:32,239 --> 00:00:35,350
+represented as a hierarchy of distinct
+states not entirely unlike the different
+
+24
+00:00:35,350 --> 00:00:35,360
+states not entirely unlike the different
+ 
+
+25
+00:00:35,360 --> 00:00:37,240
+states not entirely unlike the different
+states of awareness that are used when
+
+26
+00:00:37,240 --> 00:00:37,250
+states of awareness that are used when
+ 
+
+27
+00:00:37,250 --> 00:00:39,849
+states of awareness that are used when
+determining stealth and perception like
+
+28
+00:00:39,849 --> 00:00:39,859
+determining stealth and perception like
+ 
+
+29
+00:00:39,859 --> 00:00:42,399
+determining stealth and perception like
+awareness attitude is determined on a
+
+30
+00:00:42,399 --> 00:00:42,409
+awareness attitude is determined on a
+ 
+
+31
+00:00:42,409 --> 00:00:45,459
+awareness attitude is determined on a
+creature to creature basis but it's not
+
+32
+00:00:45,459 --> 00:00:45,469
+creature to creature basis but it's not
+ 
+
+33
+00:00:45,469 --> 00:00:47,950
+creature to creature basis but it's not
+uncommon for all members of one side of
+
+34
+00:00:47,950 --> 00:00:47,960
+uncommon for all members of one side of
+ 
+
+35
+00:00:47,960 --> 00:00:50,380
+uncommon for all members of one side of
+a conflict to have the same starting
+
+36
+00:00:50,380 --> 00:00:50,390
+a conflict to have the same starting
+ 
+
+37
+00:00:50,390 --> 00:00:52,689
+a conflict to have the same starting
+attitude towards all members of the
+
+38
+00:00:52,689 --> 00:00:52,699
+attitude towards all members of the
+ 
+
+39
+00:00:52,699 --> 00:00:55,750
+attitude towards all members of the
+other side of the conflict a character
+
+40
+00:00:55,750 --> 00:00:55,760
+other side of the conflict a character
+ 
+
+41
+00:00:55,760 --> 00:00:59,559
+other side of the conflict a character
+who is helpful wants to aid you they are
+
+42
+00:00:59,559 --> 00:00:59,569
+who is helpful wants to aid you they are
+ 
+
+43
+00:00:59,569 --> 00:01:01,719
+who is helpful wants to aid you they are
+the most likely to grant your requests
+
+44
+00:01:01,719 --> 00:01:01,729
+the most likely to grant your requests
+ 
+
+45
+00:01:01,729 --> 00:01:04,060
+the most likely to grant your requests
+note that just because someone has a
+
+46
+00:01:04,060 --> 00:01:04,070
+note that just because someone has a
+ 
+
+47
+00:01:04,070 --> 00:01:07,000
+note that just because someone has a
+helpful attitude this doesn't mean that
+
+48
+00:01:07,000 --> 00:01:07,010
+helpful attitude this doesn't mean that
+ 
+
+49
+00:01:07,010 --> 00:01:08,800
+helpful attitude this doesn't mean that
+they are going to lay down their life
+
+50
+00:01:08,800 --> 00:01:08,810
+they are going to lay down their life
+ 
+
+51
+00:01:08,810 --> 00:01:11,230
+they are going to lay down their life
+for you or that they will literally do
+
+52
+00:01:11,230 --> 00:01:11,240
+for you or that they will literally do
+ 
+
+53
+00:01:11,240 --> 00:01:14,200
+for you or that they will literally do
+anything you ask of them it only means
+
+54
+00:01:14,200 --> 00:01:14,210
+anything you ask of them it only means
+ 
+
+55
+00:01:14,210 --> 00:01:16,719
+anything you ask of them it only means
+that they are the most open to helping
+
+56
+00:01:16,719 --> 00:01:16,729
+that they are the most open to helping
+ 
+
+57
+00:01:16,729 --> 00:01:19,600
+that they are the most open to helping
+you and if you or one of your allies
+
+58
+00:01:19,600 --> 00:01:19,610
+you and if you or one of your allies
+ 
+
+59
+00:01:19,610 --> 00:01:21,999
+you and if you or one of your allies
+takes a hostile action against them then
+
+60
+00:01:21,999 --> 00:01:22,009
+takes a hostile action against them then
+ 
+
+61
+00:01:22,009 --> 00:01:23,889
+takes a hostile action against them then
+their attitude is going to drop to
+
+62
+00:01:23,889 --> 00:01:23,899
+their attitude is going to drop to
+ 
+
+63
+00:01:23,899 --> 00:01:25,660
+their attitude is going to drop to
+whatever level the GM believes is
+
+64
+00:01:25,660 --> 00:01:25,670
+whatever level the GM believes is
+ 
+
+65
+00:01:25,670 --> 00:01:26,670
+whatever level the GM believes is
+appropriate
+
+66
+00:01:26,670 --> 00:01:26,680
+appropriate
+ 
+
+67
+00:01:26,680 --> 00:01:29,289
+appropriate
+examples of helpful characters would be
+
+68
+00:01:29,289 --> 00:01:29,299
+examples of helpful characters would be
+ 
+
+69
+00:01:29,299 --> 00:01:32,139
+examples of helpful characters would be
+your of close friends family members and
+
+70
+00:01:32,139 --> 00:01:32,149
+your of close friends family members and
+ 
+
+71
+00:01:32,149 --> 00:01:34,149
+your of close friends family members and
+people that you have established a
+
+72
+00:01:34,149 --> 00:01:34,159
+people that you have established a
+ 
+
+73
+00:01:34,159 --> 00:01:36,609
+people that you have established a
+positive relationship and a high level
+
+74
+00:01:36,609 --> 00:01:36,619
+positive relationship and a high level
+ 
+
+75
+00:01:36,619 --> 00:01:40,770
+positive relationship and a high level
+of trust one step down from helpful is
+
+76
+00:01:40,770 --> 00:01:40,780
+of trust one step down from helpful is
+ 
+
+77
+00:01:40,780 --> 00:01:44,859
+of trust one step down from helpful is
+friendly someone who is friendly may be
+
+78
+00:01:44,859 --> 00:01:44,869
+friendly someone who is friendly may be
+ 
+
+79
+00:01:44,869 --> 00:01:47,139
+friendly someone who is friendly may be
+willing to help you they have a good
+
+80
+00:01:47,139 --> 00:01:47,149
+willing to help you they have a good
+ 
+
+81
+00:01:47,149 --> 00:01:49,120
+willing to help you they have a good
+attitude towards you but they aren't
+
+82
+00:01:49,120 --> 00:01:49,130
+attitude towards you but they aren't
+ 
+
+83
+00:01:49,130 --> 00:01:51,669
+attitude towards you but they aren't
+interested in going too far out of their
+
+84
+00:01:51,669 --> 00:01:51,679
+interested in going too far out of their
+ 
+
+85
+00:01:51,679 --> 00:01:54,700
+interested in going too far out of their
+way to assist you friendly characters
+
+86
+00:01:54,700 --> 00:01:54,710
+way to assist you friendly characters
+ 
+
+87
+00:01:54,710 --> 00:01:57,130
+way to assist you friendly characters
+might be acquaintances a member of your
+
+88
+00:01:57,130 --> 00:01:57,140
+might be acquaintances a member of your
+ 
+
+89
+00:01:57,140 --> 00:01:59,919
+might be acquaintances a member of your
+church or guild or someone working in
+
+90
+00:01:59,919 --> 00:01:59,929
+church or guild or someone working in
+ 
+
+91
+00:01:59,929 --> 00:02:01,630
+church or guild or someone working in
+the service industry like a barkeep
+
+92
+00:02:01,630 --> 00:02:01,640
+the service industry like a barkeep
+ 
+
+93
+00:02:01,640 --> 00:02:05,830
+the service industry like a barkeep
+who's motivated to keep you happy in the
+
+94
+00:02:05,830 --> 00:02:05,840
+who's motivated to keep you happy in the
+ 
+
+95
+00:02:05,840 --> 00:02:08,309
+who's motivated to keep you happy in the
+middle of the attitude hierarchy is
+
+96
+00:02:08,309 --> 00:02:08,319
+middle of the attitude hierarchy is
+ 
+
+97
+00:02:08,319 --> 00:02:10,860
+middle of the attitude hierarchy is
+indifferent when a character is
+
+98
+00:02:10,860 --> 00:02:10,870
+indifferent when a character is
+ 
+
+99
+00:02:10,870 --> 00:02:13,510
+indifferent when a character is
+indifferent they have a neutral
+
+100
+00:02:13,510 --> 00:02:13,520
+indifferent they have a neutral
+ 
+
+101
+00:02:13,520 --> 00:02:15,910
+indifferent they have a neutral
+disposition towards you they don't
+
+102
+00:02:15,910 --> 00:02:15,920
+disposition towards you they don't
+ 
+
+103
+00:02:15,920 --> 00:02:17,949
+disposition towards you they don't
+really care about you at all do
+
+104
+00:02:17,949 --> 00:02:17,959
+really care about you at all do
+ 
+
+105
+00:02:17,959 --> 00:02:20,530
+really care about you at all do
+is the normal starting point for most
+
+106
+00:02:20,530 --> 00:02:20,540
+is the normal starting point for most
+ 
+
+107
+00:02:20,540 --> 00:02:23,559
+is the normal starting point for most
+NPCs like a stranger you pass on the
+
+108
+00:02:23,559 --> 00:02:23,569
+NPCs like a stranger you pass on the
+ 
+
+109
+00:02:23,569 --> 00:02:24,190
+NPCs like a stranger you pass on the
+street
+
+110
+00:02:24,190 --> 00:02:24,200
+street
+ 
+
+111
+00:02:24,200 --> 00:02:26,770
+street
+you start at indifferent when you first
+
+112
+00:02:26,770 --> 00:02:26,780
+you start at indifferent when you first
+ 
+
+113
+00:02:26,780 --> 00:02:29,199
+you start at indifferent when you first
+meet and then the character's attitude
+
+114
+00:02:29,199 --> 00:02:29,209
+meet and then the character's attitude
+ 
+
+115
+00:02:29,209 --> 00:02:32,050
+meet and then the character's attitude
+can swing one direction or another based
+
+116
+00:02:32,050 --> 00:02:32,060
+can swing one direction or another based
+ 
+
+117
+00:02:32,060 --> 00:02:35,830
+can swing one direction or another based
+on how you interact below that is
+
+118
+00:02:35,830 --> 00:02:35,840
+on how you interact below that is
+ 
+
+119
+00:02:35,840 --> 00:02:39,459
+on how you interact below that is
+unfriendly someone who has an unfriendly
+
+120
+00:02:39,459 --> 00:02:39,469
+unfriendly someone who has an unfriendly
+ 
+
+121
+00:02:39,469 --> 00:02:41,619
+unfriendly someone who has an unfriendly
+attitude just doesn't like you or
+
+122
+00:02:41,619 --> 00:02:41,629
+attitude just doesn't like you or
+ 
+
+123
+00:02:41,629 --> 00:02:44,440
+attitude just doesn't like you or
+doesn't trust you they may not wish to
+
+124
+00:02:44,440 --> 00:02:44,450
+doesn't trust you they may not wish to
+ 
+
+125
+00:02:44,450 --> 00:02:46,809
+doesn't trust you they may not wish to
+harm you but they're definitely not
+
+126
+00:02:46,809 --> 00:02:46,819
+harm you but they're definitely not
+ 
+
+127
+00:02:46,819 --> 00:02:48,699
+harm you but they're definitely not
+interested in going out of their way to
+
+128
+00:02:48,699 --> 00:02:48,709
+interested in going out of their way to
+ 
+
+129
+00:02:48,709 --> 00:02:52,960
+interested in going out of their way to
+help you either and last we have hostile
+
+130
+00:02:52,960 --> 00:02:52,970
+help you either and last we have hostile
+ 
+
+131
+00:02:52,970 --> 00:02:55,809
+help you either and last we have hostile
+when someone is hostile they are
+
+132
+00:02:55,809 --> 00:02:55,819
+when someone is hostile they are
+ 
+
+133
+00:02:55,819 --> 00:02:58,990
+when someone is hostile they are
+actively working against you this may be
+
+134
+00:02:58,990 --> 00:02:59,000
+actively working against you this may be
+ 
+
+135
+00:02:59,000 --> 00:03:01,569
+actively working against you this may be
+by directly attacking you or by
+
+136
+00:03:01,569 --> 00:03:01,579
+by directly attacking you or by
+ 
+
+137
+00:03:01,579 --> 00:03:05,170
+by directly attacking you or by
+hindering you in some other way but they
+
+138
+00:03:05,170 --> 00:03:05,180
+hindering you in some other way but they
+ 
+
+139
+00:03:05,180 --> 00:03:07,990
+hindering you in some other way but they
+more than just simply dislike you they
+
+140
+00:03:07,990 --> 00:03:08,000
+more than just simply dislike you they
+ 
+
+141
+00:03:08,000 --> 00:03:11,740
+more than just simply dislike you they
+want to see you fail and therefore they
+
+142
+00:03:11,740 --> 00:03:11,750
+want to see you fail and therefore they
+ 
+
+143
+00:03:11,750 --> 00:03:14,080
+want to see you fail and therefore they
+are the most difficult characters to
+
+144
+00:03:14,080 --> 00:03:14,090
+are the most difficult characters to
+ 
+
+145
+00:03:14,090 --> 00:03:17,170
+are the most difficult characters to
+convince to do things your way changing
+
+146
+00:03:17,170 --> 00:03:17,180
+convince to do things your way changing
+ 
+
+147
+00:03:17,180 --> 00:03:18,849
+convince to do things your way changing
+the attitude of a character is referred
+
+148
+00:03:18,849 --> 00:03:18,859
+the attitude of a character is referred
+ 
+
+149
+00:03:18,859 --> 00:03:21,159
+the attitude of a character is referred
+to as influence and is often
+
+150
+00:03:21,159 --> 00:03:21,169
+to as influence and is often
+ 
+
+151
+00:03:21,169 --> 00:03:23,680
+to as influence and is often
+accomplished through the use of skills
+
+152
+00:03:23,680 --> 00:03:23,690
+accomplished through the use of skills
+ 
+
+153
+00:03:23,690 --> 00:03:26,259
+accomplished through the use of skills
+the first of those that we're going to
+
+154
+00:03:26,259 --> 00:03:26,269
+the first of those that we're going to
+ 
+
+155
+00:03:26,269 --> 00:03:30,030
+the first of those that we're going to
+discuss is diplomacy
+
+156
+00:03:30,030 --> 00:03:30,040
+discuss is diplomacy
+ 
+
+157
+00:03:30,040 --> 00:03:33,119
+discuss is diplomacy
+simply put diplomacy represents a
+
+158
+00:03:33,119 --> 00:03:33,129
+simply put diplomacy represents a
+ 
+
+159
+00:03:33,129 --> 00:03:34,979
+simply put diplomacy represents a
+character's ability to get what they
+
+160
+00:03:34,979 --> 00:03:34,989
+character's ability to get what they
+ 
+
+161
+00:03:34,989 --> 00:03:38,250
+character's ability to get what they
+want by being charming when a character
+
+162
+00:03:38,250 --> 00:03:38,260
+want by being charming when a character
+ 
+
+163
+00:03:38,260 --> 00:03:40,619
+want by being charming when a character
+uses the diplomacy skill they use
+
+164
+00:03:40,619 --> 00:03:40,629
+uses the diplomacy skill they use
+ 
+
+165
+00:03:40,629 --> 00:03:43,589
+uses the diplomacy skill they use
+flattery positivity and promises of good
+
+166
+00:03:43,589 --> 00:03:43,599
+flattery positivity and promises of good
+ 
+
+167
+00:03:43,599 --> 00:03:45,600
+flattery positivity and promises of good
+fortune to convince others to do what
+
+168
+00:03:45,600 --> 00:03:45,610
+fortune to convince others to do what
+ 
+
+169
+00:03:45,610 --> 00:03:48,930
+fortune to convince others to do what
+they want there are two applications of
+
+170
+00:03:48,930 --> 00:03:48,940
+they want there are two applications of
+ 
+
+171
+00:03:48,940 --> 00:03:51,149
+they want there are two applications of
+diplomacy that we're going to discuss
+
+172
+00:03:51,149 --> 00:03:51,159
+diplomacy that we're going to discuss
+ 
+
+173
+00:03:51,159 --> 00:03:54,270
+diplomacy that we're going to discuss
+here the first is called make an
+
+174
+00:03:54,270 --> 00:03:54,280
+here the first is called make an
+ 
+
+175
+00:03:54,280 --> 00:03:57,539
+here the first is called make an
+impression when a character uses make an
+
+176
+00:03:57,539 --> 00:03:57,549
+impression when a character uses make an
+ 
+
+177
+00:03:57,549 --> 00:03:59,910
+impression when a character uses make an
+impression they spend at least one
+
+178
+00:03:59,910 --> 00:03:59,920
+impression they spend at least one
+ 
+
+179
+00:03:59,920 --> 00:04:02,280
+impression they spend at least one
+minute in conversation with a target
+
+180
+00:04:02,280 --> 00:04:02,290
+minute in conversation with a target
+ 
+
+181
+00:04:02,290 --> 00:04:05,069
+minute in conversation with a target
+during which they try to build a rapport
+
+182
+00:04:05,069 --> 00:04:05,079
+during which they try to build a rapport
+ 
+
+183
+00:04:05,079 --> 00:04:08,099
+during which they try to build a rapport
+with them they then roll a Taplow maseeh
+
+184
+00:04:08,099 --> 00:04:08,109
+with them they then roll a Taplow maseeh
+ 
+
+185
+00:04:08,109 --> 00:04:10,670
+with them they then roll a Taplow maseeh
+check contested by the targets will DC
+
+186
+00:04:10,670 --> 00:04:10,680
+check contested by the targets will DC
+ 
+
+187
+00:04:10,680 --> 00:04:13,740
+check contested by the targets will DC
+this role is further modified however
+
+188
+00:04:13,740 --> 00:04:13,750
+this role is further modified however
+ 
+
+189
+00:04:13,750 --> 00:04:16,860
+this role is further modified however
+the GM wishes if the role is a success
+
+190
+00:04:16,860 --> 00:04:16,870
+the GM wishes if the role is a success
+ 
+
+191
+00:04:16,870 --> 00:04:19,650
+the GM wishes if the role is a success
+then the targets attitude improves by
+
+192
+00:04:19,650 --> 00:04:19,660
+then the targets attitude improves by
+ 
+
+193
+00:04:19,660 --> 00:04:21,960
+then the targets attitude improves by
+one step in other words if they were
+
+194
+00:04:21,960 --> 00:04:21,970
+one step in other words if they were
+ 
+
+195
+00:04:21,970 --> 00:04:24,689
+one step in other words if they were
+indifferent then they are now friendly
+
+196
+00:04:24,689 --> 00:04:24,699
+indifferent then they are now friendly
+ 
+
+197
+00:04:24,699 --> 00:04:28,409
+indifferent then they are now friendly
+if the role is a critical success then
+
+198
+00:04:28,409 --> 00:04:28,419
+if the role is a critical success then
+ 
+
+199
+00:04:28,419 --> 00:04:30,659
+if the role is a critical success then
+the targets attitude improves by two
+
+200
+00:04:30,659 --> 00:04:30,669
+the targets attitude improves by two
+ 
+
+201
+00:04:30,669 --> 00:04:33,719
+the targets attitude improves by two
+steps or moves from indifferent to
+
+202
+00:04:33,719 --> 00:04:33,729
+steps or moves from indifferent to
+ 
+
+203
+00:04:33,729 --> 00:04:37,260
+steps or moves from indifferent to
+helpful if they fail the check then
+
+204
+00:04:37,260 --> 00:04:37,270
+helpful if they fail the check then
+ 
+
+205
+00:04:37,270 --> 00:04:39,180
+helpful if they fail the check then
+nothing happens the target remains
+
+206
+00:04:39,180 --> 00:04:39,190
+nothing happens the target remains
+ 
+
+207
+00:04:39,190 --> 00:04:41,939
+nothing happens the target remains
+indifferent and if they critically fail
+
+208
+00:04:41,939 --> 00:04:41,949
+indifferent and if they critically fail
+ 
+
+209
+00:04:41,949 --> 00:04:44,700
+indifferent and if they critically fail
+then the targets attitude worsens by one
+
+210
+00:04:44,700 --> 00:04:44,710
+then the targets attitude worsens by one
+ 
+
+211
+00:04:44,710 --> 00:04:47,730
+then the targets attitude worsens by one
+step or would move from indifferent to
+
+212
+00:04:47,730 --> 00:04:47,740
+step or would move from indifferent to
+ 
+
+213
+00:04:47,740 --> 00:04:50,939
+step or would move from indifferent to
+unfriendly these attitude adjustments
+
+214
+00:04:50,939 --> 00:04:50,949
+unfriendly these attitude adjustments
+ 
+
+215
+00:04:50,949 --> 00:04:53,219
+unfriendly these attitude adjustments
+only last for the current social
+
+216
+00:04:53,219 --> 00:04:53,229
+only last for the current social
+ 
+
+217
+00:04:53,229 --> 00:04:56,129
+only last for the current social
+interaction and then they revert back to
+
+218
+00:04:56,129 --> 00:04:56,139
+interaction and then they revert back to
+ 
+
+219
+00:04:56,139 --> 00:04:58,589
+interaction and then they revert back to
+their original state unless the GM
+
+220
+00:04:58,589 --> 00:04:58,599
+their original state unless the GM
+ 
+
+221
+00:04:58,599 --> 00:05:01,370
+their original state unless the GM
+decides otherwise
+
+222
+00:05:01,370 --> 00:05:01,380
+
+ 
+
+223
+00:05:01,380 --> 00:05:04,040
+
+the second application of diplomacy that
+
+224
+00:05:04,040 --> 00:05:04,050
+the second application of diplomacy that
+ 
+
+225
+00:05:04,050 --> 00:05:06,770
+the second application of diplomacy that
+we're going to discuss is making a
+
+226
+00:05:06,770 --> 00:05:06,780
+we're going to discuss is making a
+ 
+
+227
+00:05:06,780 --> 00:05:10,910
+we're going to discuss is making a
+request making a request costs one
+
+228
+00:05:10,910 --> 00:05:10,920
+request making a request costs one
+ 
+
+229
+00:05:10,920 --> 00:05:12,920
+request making a request costs one
+action and may only be used with a
+
+230
+00:05:12,920 --> 00:05:12,930
+action and may only be used with a
+ 
+
+231
+00:05:12,930 --> 00:05:15,920
+action and may only be used with a
+target that has at least a friendly
+
+232
+00:05:15,920 --> 00:05:15,930
+target that has at least a friendly
+ 
+
+233
+00:05:15,930 --> 00:05:18,890
+target that has at least a friendly
+attitude towards you after you make your
+
+234
+00:05:18,890 --> 00:05:18,900
+attitude towards you after you make your
+ 
+
+235
+00:05:18,900 --> 00:05:21,380
+attitude towards you after you make your
+request you then roll a diplomacy check
+
+236
+00:05:21,380 --> 00:05:21,390
+request you then roll a diplomacy check
+ 
+
+237
+00:05:21,390 --> 00:05:24,140
+request you then roll a diplomacy check
+that is contested by a DC set by the GM
+
+238
+00:05:24,140 --> 00:05:24,150
+that is contested by a DC set by the GM
+ 
+
+239
+00:05:24,150 --> 00:05:27,170
+that is contested by a DC set by the GM
+and is based on the difficulty of the
+
+240
+00:05:27,170 --> 00:05:27,180
+and is based on the difficulty of the
+ 
+
+241
+00:05:27,180 --> 00:05:30,650
+and is based on the difficulty of the
+request a lot of variables go into
+
+242
+00:05:30,650 --> 00:05:30,660
+request a lot of variables go into
+ 
+
+243
+00:05:30,660 --> 00:05:33,890
+request a lot of variables go into
+determining this DC how difficult the
+
+244
+00:05:33,890 --> 00:05:33,900
+determining this DC how difficult the
+ 
+
+245
+00:05:33,900 --> 00:05:35,840
+determining this DC how difficult the
+request is are there any negative
+
+246
+00:05:35,840 --> 00:05:35,850
+request is are there any negative
+ 
+
+247
+00:05:35,850 --> 00:05:38,980
+request is are there any negative
+consequences is it immoral or illegal
+
+248
+00:05:38,980 --> 00:05:38,990
+consequences is it immoral or illegal
+ 
+
+249
+00:05:38,990 --> 00:05:41,750
+consequences is it immoral or illegal
+how much they like the requesting
+
+250
+00:05:41,750 --> 00:05:41,760
+how much they like the requesting
+ 
+
+251
+00:05:41,760 --> 00:05:44,450
+how much they like the requesting
+character is the request in alignment
+
+252
+00:05:44,450 --> 00:05:44,460
+character is the request in alignment
+ 
+
+253
+00:05:44,460 --> 00:05:47,000
+character is the request in alignment
+with their goals or against them and so
+
+254
+00:05:47,000 --> 00:05:47,010
+with their goals or against them and so
+ 
+
+255
+00:05:47,010 --> 00:05:49,850
+with their goals or against them and so
+on some requests the GM may determine
+
+256
+00:05:49,850 --> 00:05:49,860
+on some requests the GM may determine
+ 
+
+257
+00:05:49,860 --> 00:05:52,880
+on some requests the GM may determine
+are impossible or too outlandish but
+
+258
+00:05:52,880 --> 00:05:52,890
+are impossible or too outlandish but
+ 
+
+259
+00:05:52,890 --> 00:05:55,580
+are impossible or too outlandish but
+most GM's I know we'll let you request
+
+260
+00:05:55,580 --> 00:05:55,590
+most GM's I know we'll let you request
+ 
+
+261
+00:05:55,590 --> 00:05:58,460
+most GM's I know we'll let you request
+literally anything you want and then let
+
+262
+00:05:58,460 --> 00:05:58,470
+literally anything you want and then let
+ 
+
+263
+00:05:58,470 --> 00:06:00,650
+literally anything you want and then let
+you deal with the logical consequences
+
+264
+00:06:00,650 --> 00:06:00,660
+you deal with the logical consequences
+ 
+
+265
+00:06:00,660 --> 00:06:03,410
+you deal with the logical consequences
+of making that request if you succeed on
+
+266
+00:06:03,410 --> 00:06:03,420
+of making that request if you succeed on
+ 
+
+267
+00:06:03,420 --> 00:06:05,420
+of making that request if you succeed on
+the diplomacy check then the target is
+
+268
+00:06:05,420 --> 00:06:05,430
+the diplomacy check then the target is
+ 
+
+269
+00:06:05,430 --> 00:06:08,510
+the diplomacy check then the target is
+willing to do as you ask but with some
+
+270
+00:06:08,510 --> 00:06:08,520
+willing to do as you ask but with some
+ 
+
+271
+00:06:08,520 --> 00:06:11,150
+willing to do as you ask but with some
+restrictions or a demand of their own
+
+272
+00:06:11,150 --> 00:06:11,160
+restrictions or a demand of their own
+ 
+
+273
+00:06:11,160 --> 00:06:13,850
+restrictions or a demand of their own
+if you critically succeed then the
+
+274
+00:06:13,850 --> 00:06:13,860
+if you critically succeed then the
+ 
+
+275
+00:06:13,860 --> 00:06:16,480
+if you critically succeed then the
+target agrees to the request outright if
+
+276
+00:06:16,480 --> 00:06:16,490
+target agrees to the request outright if
+ 
+
+277
+00:06:16,490 --> 00:06:19,850
+target agrees to the request outright if
+you fail then the target refuses your
+
+278
+00:06:19,850 --> 00:06:19,860
+you fail then the target refuses your
+ 
+
+279
+00:06:19,860 --> 00:06:23,080
+you fail then the target refuses your
+request but might offer a less extreme
+
+280
+00:06:23,080 --> 00:06:23,090
+request but might offer a less extreme
+ 
+
+281
+00:06:23,090 --> 00:06:26,270
+request but might offer a less extreme
+alternative in its place and on a
+
+282
+00:06:26,270 --> 00:06:26,280
+alternative in its place and on a
+ 
+
+283
+00:06:26,280 --> 00:06:29,270
+alternative in its place and on a
+critical failure not only do they refuse
+
+284
+00:06:29,270 --> 00:06:29,280
+critical failure not only do they refuse
+ 
+
+285
+00:06:29,280 --> 00:06:31,520
+critical failure not only do they refuse
+the request but their attitude towards
+
+286
+00:06:31,520 --> 00:06:31,530
+the request but their attitude towards
+ 
+
+287
+00:06:31,530 --> 00:06:34,160
+the request but their attitude towards
+you lowers one step so if they were
+
+288
+00:06:34,160 --> 00:06:34,170
+you lowers one step so if they were
+ 
+
+289
+00:06:34,170 --> 00:06:37,280
+you lowers one step so if they were
+friendly they become indifferent which
+
+290
+00:06:37,280 --> 00:06:37,290
+friendly they become indifferent which
+ 
+
+291
+00:06:37,290 --> 00:06:38,930
+friendly they become indifferent which
+means you would need to use make an
+
+292
+00:06:38,930 --> 00:06:38,940
+means you would need to use make an
+ 
+
+293
+00:06:38,940 --> 00:06:41,600
+means you would need to use make an
+impression or some other means to raise
+
+294
+00:06:41,600 --> 00:06:41,610
+impression or some other means to raise
+ 
+
+295
+00:06:41,610 --> 00:06:44,240
+impression or some other means to raise
+their attitude back to friendly before
+
+296
+00:06:44,240 --> 00:06:44,250
+their attitude back to friendly before
+ 
+
+297
+00:06:44,250 --> 00:06:47,469
+their attitude back to friendly before
+you could use requests again
+
+298
+00:06:47,469 --> 00:06:47,479
+you could use requests again
+ 
+
+299
+00:06:47,479 --> 00:06:50,120
+you could use requests again
+another skill used to influence others
+
+300
+00:06:50,120 --> 00:06:50,130
+another skill used to influence others
+ 
+
+301
+00:06:50,130 --> 00:06:53,330
+another skill used to influence others
+is intimidation intimidation is the
+
+302
+00:06:53,330 --> 00:06:53,340
+is intimidation intimidation is the
+ 
+
+303
+00:06:53,340 --> 00:06:54,680
+is intimidation intimidation is the
+opposite of diplomacy
+
+304
+00:06:54,680 --> 00:06:54,690
+opposite of diplomacy
+ 
+
+305
+00:06:54,690 --> 00:06:57,409
+opposite of diplomacy
+they both are used to manipulate others
+
+306
+00:06:57,409 --> 00:06:57,419
+they both are used to manipulate others
+ 
+
+307
+00:06:57,419 --> 00:07:00,290
+they both are used to manipulate others
+but whereas diplomacy uses charm and
+
+308
+00:07:00,290 --> 00:07:00,300
+but whereas diplomacy uses charm and
+ 
+
+309
+00:07:00,300 --> 00:07:02,839
+but whereas diplomacy uses charm and
+promises of good fortune intimidation
+
+310
+00:07:02,839 --> 00:07:02,849
+promises of good fortune intimidation
+ 
+
+311
+00:07:02,849 --> 00:07:07,100
+promises of good fortune intimidation
+uses threats and promises of harm the
+
+312
+00:07:07,100 --> 00:07:07,110
+uses threats and promises of harm the
+ 
+
+313
+00:07:07,110 --> 00:07:09,290
+uses threats and promises of harm the
+first application of intimidation that
+
+314
+00:07:09,290 --> 00:07:09,300
+first application of intimidation that
+ 
+
+315
+00:07:09,300 --> 00:07:12,980
+first application of intimidation that
+we're going to discuss is coerce this is
+
+316
+00:07:12,980 --> 00:07:12,990
+we're going to discuss is coerce this is
+ 
+
+317
+00:07:12,990 --> 00:07:14,689
+we're going to discuss is coerce this is
+the counterpoint to make an impression
+
+318
+00:07:14,689 --> 00:07:14,699
+the counterpoint to make an impression
+ 
+
+319
+00:07:14,699 --> 00:07:17,240
+the counterpoint to make an impression
+you spend at least one minute in
+
+320
+00:07:17,240 --> 00:07:17,250
+you spend at least one minute in
+ 
+
+321
+00:07:17,250 --> 00:07:19,640
+you spend at least one minute in
+conversation with a target during which
+
+322
+00:07:19,640 --> 00:07:19,650
+conversation with a target during which
+ 
+
+323
+00:07:19,650 --> 00:07:22,189
+conversation with a target during which
+you make threats you bully them and you
+
+324
+00:07:22,189 --> 00:07:22,199
+you make threats you bully them and you
+ 
+
+325
+00:07:22,199 --> 00:07:25,040
+you make threats you bully them and you
+try to force that target to do what you
+
+326
+00:07:25,040 --> 00:07:25,050
+try to force that target to do what you
+ 
+
+327
+00:07:25,050 --> 00:07:28,219
+try to force that target to do what you
+want them to do at the end of which you
+
+328
+00:07:28,219 --> 00:07:28,229
+want them to do at the end of which you
+ 
+
+329
+00:07:28,229 --> 00:07:30,770
+want them to do at the end of which you
+roll an intimidation check versus the
+
+330
+00:07:30,770 --> 00:07:30,780
+roll an intimidation check versus the
+ 
+
+331
+00:07:30,780 --> 00:07:33,740
+roll an intimidation check versus the
+targets will deceive just like with
+
+332
+00:07:33,740 --> 00:07:33,750
+targets will deceive just like with
+ 
+
+333
+00:07:33,750 --> 00:07:36,140
+targets will deceive just like with
+diplomacy these checks are further
+
+334
+00:07:36,140 --> 00:07:36,150
+diplomacy these checks are further
+ 
+
+335
+00:07:36,150 --> 00:07:38,600
+diplomacy these checks are further
+modified however the GM believes is
+
+336
+00:07:38,600 --> 00:07:38,610
+modified however the GM believes is
+ 
+
+337
+00:07:38,610 --> 00:07:41,360
+modified however the GM believes is
+appropriate on a success
+
+338
+00:07:41,360 --> 00:07:41,370
+appropriate on a success
+ 
+
+339
+00:07:41,370 --> 00:07:44,450
+appropriate on a success
+the target agrees to your demand as long
+
+340
+00:07:44,450 --> 00:07:44,460
+the target agrees to your demand as long
+ 
+
+341
+00:07:44,460 --> 00:07:46,610
+the target agrees to your demand as long
+as doing so does not harm them in any
+
+342
+00:07:46,610 --> 00:07:46,620
+as doing so does not harm them in any
+ 
+
+343
+00:07:46,620 --> 00:07:49,490
+as doing so does not harm them in any
+way they continue to obey for whatever
+
+344
+00:07:49,490 --> 00:07:49,500
+way they continue to obey for whatever
+ 
+
+345
+00:07:49,500 --> 00:07:51,560
+way they continue to obey for whatever
+length of time the GM believes is
+
+346
+00:07:51,560 --> 00:07:51,570
+length of time the GM believes is
+ 
+
+347
+00:07:51,570 --> 00:07:53,930
+length of time the GM believes is
+appropriate but not longer than one day
+
+348
+00:07:53,930 --> 00:07:53,940
+appropriate but not longer than one day
+ 
+
+349
+00:07:53,940 --> 00:07:57,290
+appropriate but not longer than one day
+at the end of this period the target
+
+350
+00:07:57,290 --> 00:07:57,300
+at the end of this period the target
+ 
+
+351
+00:07:57,300 --> 00:08:00,320
+at the end of this period the target
+becomes unfriendly towards you and may
+
+352
+00:08:00,320 --> 00:08:00,330
+becomes unfriendly towards you and may
+ 
+
+353
+00:08:00,330 --> 00:08:02,779
+becomes unfriendly towards you and may
+decide to take action against you such
+
+354
+00:08:02,779 --> 00:08:02,789
+decide to take action against you such
+ 
+
+355
+00:08:02,789 --> 00:08:05,860
+decide to take action against you such
+as reporting you to the authorities a
+
+356
+00:08:05,860 --> 00:08:05,870
+as reporting you to the authorities a
+ 
+
+357
+00:08:05,870 --> 00:08:08,420
+as reporting you to the authorities a
+critical success works the same way
+
+358
+00:08:08,420 --> 00:08:08,430
+critical success works the same way
+ 
+
+359
+00:08:08,430 --> 00:08:11,390
+critical success works the same way
+except the target is too scared to dare
+
+360
+00:08:11,390 --> 00:08:11,400
+except the target is too scared to dare
+ 
+
+361
+00:08:11,400 --> 00:08:13,760
+except the target is too scared to dare
+acting against you after they become
+
+362
+00:08:13,760 --> 00:08:13,770
+acting against you after they become
+ 
+
+363
+00:08:13,770 --> 00:08:17,689
+acting against you after they become
+unfriendly on a failure the target
+
+364
+00:08:17,689 --> 00:08:17,699
+unfriendly on a failure the target
+ 
+
+365
+00:08:17,699 --> 00:08:19,969
+unfriendly on a failure the target
+doesn't cooperate and becomes unfriendly
+
+366
+00:08:19,969 --> 00:08:19,979
+doesn't cooperate and becomes unfriendly
+ 
+
+367
+00:08:19,979 --> 00:08:23,540
+doesn't cooperate and becomes unfriendly
+unless they were already hostile and on
+
+368
+00:08:23,540 --> 00:08:23,550
+unless they were already hostile and on
+ 
+
+369
+00:08:23,550 --> 00:08:26,149
+unless they were already hostile and on
+a critical failure the target refuses
+
+370
+00:08:26,149 --> 00:08:26,159
+a critical failure the target refuses
+ 
+
+371
+00:08:26,159 --> 00:08:28,550
+a critical failure the target refuses
+you and becomes hostile towards you they
+
+372
+00:08:28,550 --> 00:08:28,560
+you and becomes hostile towards you they
+ 
+
+373
+00:08:28,560 --> 00:08:31,310
+you and becomes hostile towards you they
+also cannot be coerced by you again for
+
+374
+00:08:31,310 --> 00:08:31,320
+also cannot be coerced by you again for
+ 
+
+375
+00:08:31,320 --> 00:08:33,400
+also cannot be coerced by you again for
+one week
+
+376
+00:08:33,400 --> 00:08:33,410
+one week
+ 
+
+377
+00:08:33,410 --> 00:08:36,700
+one week
+let's consider an example Kyra is
+
+378
+00:08:36,700 --> 00:08:36,710
+let's consider an example Kyra is
+ 
+
+379
+00:08:36,710 --> 00:08:39,640
+let's consider an example Kyra is
+attending a noble's ball she wishes to
+
+380
+00:08:39,640 --> 00:08:39,650
+attending a noble's ball she wishes to
+ 
+
+381
+00:08:39,650 --> 00:08:41,860
+attending a noble's ball she wishes to
+gain his aid in an investigation and
+
+382
+00:08:41,860 --> 00:08:41,870
+gain his aid in an investigation and
+ 
+
+383
+00:08:41,870 --> 00:08:44,950
+gain his aid in an investigation and
+strikes up a conversation with him first
+
+384
+00:08:44,950 --> 00:08:44,960
+strikes up a conversation with him first
+ 
+
+385
+00:08:44,960 --> 00:08:47,410
+strikes up a conversation with him first
+the GM needs to determine what the
+
+386
+00:08:47,410 --> 00:08:47,420
+the GM needs to determine what the
+ 
+
+387
+00:08:47,420 --> 00:08:50,620
+the GM needs to determine what the
+nobles attitude is towards Kyra they
+
+388
+00:08:50,620 --> 00:08:50,630
+nobles attitude is towards Kyra they
+ 
+
+389
+00:08:50,630 --> 00:08:52,930
+nobles attitude is towards Kyra they
+decide that he is indifferent and has no
+
+390
+00:08:52,930 --> 00:08:52,940
+decide that he is indifferent and has no
+ 
+
+391
+00:08:52,940 --> 00:08:54,790
+decide that he is indifferent and has no
+strong feeling about her one way or
+
+392
+00:08:54,790 --> 00:08:54,800
+strong feeling about her one way or
+ 
+
+393
+00:08:54,800 --> 00:08:58,140
+strong feeling about her one way or
+another and this is typical of NPCs
+
+394
+00:08:58,140 --> 00:08:58,150
+another and this is typical of NPCs
+ 
+
+395
+00:08:58,150 --> 00:09:00,490
+another and this is typical of NPCs
+however the GM could have ruled
+
+396
+00:09:00,490 --> 00:09:00,500
+however the GM could have ruled
+ 
+
+397
+00:09:00,500 --> 00:09:03,280
+however the GM could have ruled
+differently if this noble was a patron
+
+398
+00:09:03,280 --> 00:09:03,290
+differently if this noble was a patron
+ 
+
+399
+00:09:03,290 --> 00:09:05,980
+differently if this noble was a patron
+of Kyra's church he may start off as
+
+400
+00:09:05,980 --> 00:09:05,990
+of Kyra's church he may start off as
+ 
+
+401
+00:09:05,990 --> 00:09:08,590
+of Kyra's church he may start off as
+friendly or even helpful depending on
+
+402
+00:09:08,590 --> 00:09:08,600
+friendly or even helpful depending on
+ 
+
+403
+00:09:08,600 --> 00:09:10,510
+friendly or even helpful depending on
+how strongly he feels about their
+
+404
+00:09:10,510 --> 00:09:10,520
+how strongly he feels about their
+ 
+
+405
+00:09:10,520 --> 00:09:12,820
+how strongly he feels about their
+religion and if he looked down on
+
+406
+00:09:12,820 --> 00:09:12,830
+religion and if he looked down on
+ 
+
+407
+00:09:12,830 --> 00:09:16,060
+religion and if he looked down on
+commoners or if she was wearing her
+
+408
+00:09:16,060 --> 00:09:16,070
+commoners or if she was wearing her
+ 
+
+409
+00:09:16,070 --> 00:09:18,160
+commoners or if she was wearing her
+heavy plate armor and he felt that was
+
+410
+00:09:18,160 --> 00:09:18,170
+heavy plate armor and he felt that was
+ 
+
+411
+00:09:18,170 --> 00:09:20,980
+heavy plate armor and he felt that was
+inappropriate attire for a grand ball he
+
+412
+00:09:20,980 --> 00:09:20,990
+inappropriate attire for a grand ball he
+ 
+
+413
+00:09:20,990 --> 00:09:23,560
+inappropriate attire for a grand ball he
+might start off as unfriendly instead of
+
+414
+00:09:23,560 --> 00:09:23,570
+might start off as unfriendly instead of
+ 
+
+415
+00:09:23,570 --> 00:09:26,320
+might start off as unfriendly instead of
+indifferent but for this example we're
+
+416
+00:09:26,320 --> 00:09:26,330
+indifferent but for this example we're
+ 
+
+417
+00:09:26,330 --> 00:09:28,810
+indifferent but for this example we're
+going to say that he is indifferent so
+
+418
+00:09:28,810 --> 00:09:28,820
+going to say that he is indifferent so
+ 
+
+419
+00:09:28,820 --> 00:09:31,900
+going to say that he is indifferent so
+Kyra's player says she wants to use make
+
+420
+00:09:31,900 --> 00:09:31,910
+Kyra's player says she wants to use make
+ 
+
+421
+00:09:31,910 --> 00:09:34,900
+Kyra's player says she wants to use make
+an impression she and the GM roleplay
+
+422
+00:09:34,900 --> 00:09:34,910
+an impression she and the GM roleplay
+ 
+
+423
+00:09:34,910 --> 00:09:36,730
+an impression she and the GM roleplay
+introductions for about a minute after
+
+424
+00:09:36,730 --> 00:09:36,740
+introductions for about a minute after
+ 
+
+425
+00:09:36,740 --> 00:09:40,660
+introductions for about a minute after
+which Kyra rolls diplomacy some GM's
+
+426
+00:09:40,660 --> 00:09:40,670
+which Kyra rolls diplomacy some GM's
+ 
+
+427
+00:09:40,670 --> 00:09:42,600
+which Kyra rolls diplomacy some GM's
+like to grant a bonus to this check
+
+428
+00:09:42,600 --> 00:09:42,610
+like to grant a bonus to this check
+ 
+
+429
+00:09:42,610 --> 00:09:45,310
+like to grant a bonus to this check
+depending on how well Kyra role played
+
+430
+00:09:45,310 --> 00:09:45,320
+depending on how well Kyra role played
+ 
+
+431
+00:09:45,320 --> 00:09:47,620
+depending on how well Kyra role played
+and if she made valid points that would
+
+432
+00:09:47,620 --> 00:09:47,630
+and if she made valid points that would
+ 
+
+433
+00:09:47,630 --> 00:09:49,330
+and if she made valid points that would
+encourage the noble to be more open to
+
+434
+00:09:49,330 --> 00:09:49,340
+encourage the noble to be more open to
+ 
+
+435
+00:09:49,340 --> 00:09:52,390
+encourage the noble to be more open to
+her the total of that diplomacy check is
+
+436
+00:09:52,390 --> 00:09:52,400
+her the total of that diplomacy check is
+ 
+
+437
+00:09:52,400 --> 00:09:56,230
+her the total of that diplomacy check is
+then compared to the nobles will DC on a
+
+438
+00:09:56,230 --> 00:09:56,240
+then compared to the nobles will DC on a
+ 
+
+439
+00:09:56,240 --> 00:09:59,260
+then compared to the nobles will DC on a
+success the noble becomes friendly and
+
+440
+00:09:59,260 --> 00:09:59,270
+success the noble becomes friendly and
+ 
+
+441
+00:09:59,270 --> 00:10:02,740
+success the noble becomes friendly and
+on a critical success he becomes helpful
+
+442
+00:10:02,740 --> 00:10:02,750
+on a critical success he becomes helpful
+ 
+
+443
+00:10:02,750 --> 00:10:06,250
+on a critical success he becomes helpful
+on a failure nothing happens and on a
+
+444
+00:10:06,250 --> 00:10:06,260
+on a failure nothing happens and on a
+ 
+
+445
+00:10:06,260 --> 00:10:08,790
+on a failure nothing happens and on a
+critical failure the noble becomes
+
+446
+00:10:08,790 --> 00:10:08,800
+critical failure the noble becomes
+ 
+
+447
+00:10:08,800 --> 00:10:12,940
+critical failure the noble becomes
+unfriendly torturer now consider the
+
+448
+00:10:12,940 --> 00:10:12,950
+unfriendly torturer now consider the
+ 
+
+449
+00:10:12,950 --> 00:10:15,970
+unfriendly torturer now consider the
+scenario Kyra's player has a wonderful
+
+450
+00:10:15,970 --> 00:10:15,980
+scenario Kyra's player has a wonderful
+ 
+
+451
+00:10:15,980 --> 00:10:17,830
+scenario Kyra's player has a wonderful
+round of role playing her character with
+
+452
+00:10:17,830 --> 00:10:17,840
+round of role playing her character with
+ 
+
+453
+00:10:17,840 --> 00:10:21,790
+round of role playing her character with
+the geums Noble everything goes perfect
+
+454
+00:10:21,790 --> 00:10:21,800
+the geums Noble everything goes perfect
+ 
+
+455
+00:10:21,800 --> 00:10:24,040
+the geums Noble everything goes perfect
+she's charming makes intelligent
+
+456
+00:10:24,040 --> 00:10:24,050
+she's charming makes intelligent
+ 
+
+457
+00:10:24,050 --> 00:10:26,650
+she's charming makes intelligent
+compelling points and the noble is
+
+458
+00:10:26,650 --> 00:10:26,660
+compelling points and the noble is
+ 
+
+459
+00:10:26,660 --> 00:10:29,860
+compelling points and the noble is
+eating out of the palm of her hand she
+
+460
+00:10:29,860 --> 00:10:29,870
+eating out of the palm of her hand she
+ 
+
+461
+00:10:29,870 --> 00:10:32,380
+eating out of the palm of her hand she
+then rolls her diplomacy check and the
+
+462
+00:10:32,380 --> 00:10:32,390
+then rolls her diplomacy check and the
+ 
+
+463
+00:10:32,390 --> 00:10:36,730
+then rolls her diplomacy check and the
+result is a critical failure how are
+
+464
+00:10:36,730 --> 00:10:36,740
+result is a critical failure how are
+ 
+
+465
+00:10:36,740 --> 00:10:39,070
+result is a critical failure how are
+they supposed to explain this in the
+
+466
+00:10:39,070 --> 00:10:39,080
+they supposed to explain this in the
+ 
+
+467
+00:10:39,080 --> 00:10:41,260
+they supposed to explain this in the
+narrative everything from their rule
+
+468
+00:10:41,260 --> 00:10:41,270
+narrative everything from their rule
+ 
+
+469
+00:10:41,270 --> 00:10:43,600
+narrative everything from their rule
+playing indicated that the two really
+
+470
+00:10:43,600 --> 00:10:43,610
+playing indicated that the two really
+ 
+
+471
+00:10:43,610 --> 00:10:46,840
+playing indicated that the two really
+hit it off but now all of a sudden the
+
+472
+00:10:46,840 --> 00:10:46,850
+hit it off but now all of a sudden the
+ 
+
+473
+00:10:46,850 --> 00:10:49,269
+hit it off but now all of a sudden the
+Noble is supposed to be unfriendly to
+
+474
+00:10:49,269 --> 00:10:49,279
+Noble is supposed to be unfriendly to
+ 
+
+475
+00:10:49,279 --> 00:10:52,389
+Noble is supposed to be unfriendly to
+her for some reason this is a good
+
+476
+00:10:52,389 --> 00:10:52,399
+her for some reason this is a good
+ 
+
+477
+00:10:52,399 --> 00:10:54,610
+her for some reason this is a good
+example of why some GM's and players
+
+478
+00:10:54,610 --> 00:10:54,620
+example of why some GM's and players
+ 
+
+479
+00:10:54,620 --> 00:10:57,850
+example of why some GM's and players
+prefer the roleplay the result method of
+
+480
+00:10:57,850 --> 00:10:57,860
+prefer the roleplay the result method of
+ 
+
+481
+00:10:57,860 --> 00:11:00,579
+prefer the roleplay the result method of
+social skill checks instead when a
+
+482
+00:11:00,579 --> 00:11:00,589
+social skill checks instead when a
+ 
+
+483
+00:11:00,589 --> 00:11:03,129
+social skill checks instead when a
+role-playing the result Kyra's player
+
+484
+00:11:03,129 --> 00:11:03,139
+role-playing the result Kyra's player
+ 
+
+485
+00:11:03,139 --> 00:11:06,180
+role-playing the result Kyra's player
+would make her diplomacy check first and
+
+486
+00:11:06,180 --> 00:11:06,190
+would make her diplomacy check first and
+ 
+
+487
+00:11:06,190 --> 00:11:09,460
+would make her diplomacy check first and
+then role played that social interaction
+
+488
+00:11:09,460 --> 00:11:09,470
+then role played that social interaction
+ 
+
+489
+00:11:09,470 --> 00:11:13,300
+then role played that social interaction
+with the GM this way she knows what the
+
+490
+00:11:13,300 --> 00:11:13,310
+with the GM this way she knows what the
+ 
+
+491
+00:11:13,310 --> 00:11:16,150
+with the GM this way she knows what the
+result of the check is and can tailor
+
+492
+00:11:16,150 --> 00:11:16,160
+result of the check is and can tailor
+ 
+
+493
+00:11:16,160 --> 00:11:18,910
+result of the check is and can tailor
+the roleplay to go with that result in
+
+494
+00:11:18,910 --> 00:11:18,920
+the roleplay to go with that result in
+ 
+
+495
+00:11:18,920 --> 00:11:21,819
+the roleplay to go with that result in
+the first example where you roleplay
+
+496
+00:11:21,819 --> 00:11:21,829
+the first example where you roleplay
+ 
+
+497
+00:11:21,829 --> 00:11:24,939
+the first example where you roleplay
+first and then roll the check it can
+
+498
+00:11:24,939 --> 00:11:24,949
+first and then roll the check it can
+ 
+
+499
+00:11:24,949 --> 00:11:26,680
+first and then roll the check it can
+feel like having the rug ripped out from
+
+500
+00:11:26,680 --> 00:11:26,690
+feel like having the rug ripped out from
+ 
+
+501
+00:11:26,690 --> 00:11:29,199
+feel like having the rug ripped out from
+under you when you feel like the
+
+502
+00:11:29,199 --> 00:11:29,209
+under you when you feel like the
+ 
+
+503
+00:11:29,209 --> 00:11:32,379
+under you when you feel like the
+roleplay deserves a success but the dice
+
+504
+00:11:32,379 --> 00:11:32,389
+roleplay deserves a success but the dice
+ 
+
+505
+00:11:32,389 --> 00:11:35,980
+roleplay deserves a success but the dice
+just are not rolling in your favor when
+
+506
+00:11:35,980 --> 00:11:35,990
+just are not rolling in your favor when
+ 
+
+507
+00:11:35,990 --> 00:11:38,559
+just are not rolling in your favor when
+role-playing the result Kyra's player
+
+508
+00:11:38,559 --> 00:11:38,569
+role-playing the result Kyra's player
+ 
+
+509
+00:11:38,569 --> 00:11:40,780
+role-playing the result Kyra's player
+would know the result is a critical
+
+510
+00:11:40,780 --> 00:11:40,790
+would know the result is a critical
+ 
+
+511
+00:11:40,790 --> 00:11:43,900
+would know the result is a critical
+failure going into it so instead of
+
+512
+00:11:43,900 --> 00:11:43,910
+failure going into it so instead of
+ 
+
+513
+00:11:43,910 --> 00:11:46,210
+failure going into it so instead of
+feeling like she's been robbed by the
+
+514
+00:11:46,210 --> 00:11:46,220
+feeling like she's been robbed by the
+ 
+
+515
+00:11:46,220 --> 00:11:49,600
+feeling like she's been robbed by the
+dice gods instead this time the table
+
+516
+00:11:49,600 --> 00:11:49,610
+dice gods instead this time the table
+ 
+
+517
+00:11:49,610 --> 00:11:51,490
+dice gods instead this time the table
+would probably break out and laughter at
+
+518
+00:11:51,490 --> 00:11:51,500
+would probably break out and laughter at
+ 
+
+519
+00:11:51,500 --> 00:11:53,769
+would probably break out and laughter at
+her rotten luck and then everybody would
+
+520
+00:11:53,769 --> 00:11:53,779
+her rotten luck and then everybody would
+ 
+
+521
+00:11:53,779 --> 00:11:56,439
+her rotten luck and then everybody would
+have fun trying to construct a scenario
+
+522
+00:11:56,439 --> 00:11:56,449
+have fun trying to construct a scenario
+ 
+
+523
+00:11:56,449 --> 00:11:59,620
+have fun trying to construct a scenario
+that would logically explain why that
+
+524
+00:11:59,620 --> 00:11:59,630
+that would logically explain why that
+ 
+
+525
+00:11:59,630 --> 00:12:01,870
+that would logically explain why that
+noble ends up losing favor with her as
+
+526
+00:12:01,870 --> 00:12:01,880
+noble ends up losing favor with her as
+ 
+
+527
+00:12:01,880 --> 00:12:04,689
+noble ends up losing favor with her as
+opposed to having a perfect roleplay
+
+528
+00:12:04,689 --> 00:12:04,699
+opposed to having a perfect roleplay
+ 
+
+529
+00:12:04,699 --> 00:12:07,210
+opposed to having a perfect roleplay
+scenario and then having your mood
+
+530
+00:12:07,210 --> 00:12:07,220
+scenario and then having your mood
+ 
+
+531
+00:12:07,220 --> 00:12:10,499
+scenario and then having your mood
+ruined by rolling a natural one
+
+532
+00:12:10,499 --> 00:12:10,509
+ruined by rolling a natural one
+ 
+
+533
+00:12:10,509 --> 00:12:13,720
+ruined by rolling a natural one
+neither method is right or wrong I'm
+
+534
+00:12:13,720 --> 00:12:13,730
+neither method is right or wrong I'm
+ 
+
+535
+00:12:13,730 --> 00:12:16,259
+neither method is right or wrong I'm
+just offering it as food for thought
+
+536
+00:12:16,259 --> 00:12:16,269
+just offering it as food for thought
+ 
+
+537
+00:12:16,269 --> 00:12:18,429
+just offering it as food for thought
+regardless for the purpose of this
+
+538
+00:12:18,429 --> 00:12:18,439
+regardless for the purpose of this
+ 
+
+539
+00:12:18,439 --> 00:12:20,530
+regardless for the purpose of this
+example we're going to say that Kyra
+
+540
+00:12:20,530 --> 00:12:20,540
+example we're going to say that Kyra
+ 
+
+541
+00:12:20,540 --> 00:12:23,170
+example we're going to say that Kyra
+wrote a success and the nobles attitude
+
+542
+00:12:23,170 --> 00:12:23,180
+wrote a success and the nobles attitude
+ 
+
+543
+00:12:23,180 --> 00:12:26,740
+wrote a success and the nobles attitude
+becomes friendly she can now use the
+
+544
+00:12:26,740 --> 00:12:26,750
+becomes friendly she can now use the
+ 
+
+545
+00:12:26,750 --> 00:12:29,379
+becomes friendly she can now use the
+request activity remember the target
+
+546
+00:12:29,379 --> 00:12:29,389
+request activity remember the target
+ 
+
+547
+00:12:29,389 --> 00:12:32,710
+request activity remember the target
+must be friendly or helpful before you
+
+548
+00:12:32,710 --> 00:12:32,720
+must be friendly or helpful before you
+ 
+
+549
+00:12:32,720 --> 00:12:35,530
+must be friendly or helpful before you
+can make a request of them this works
+
+550
+00:12:35,530 --> 00:12:35,540
+can make a request of them this works
+ 
+
+551
+00:12:35,540 --> 00:12:37,179
+can make a request of them this works
+much the same way as making an
+
+552
+00:12:37,179 --> 00:12:37,189
+much the same way as making an
+ 
+
+553
+00:12:37,189 --> 00:12:40,150
+much the same way as making an
+impression except the GM says the D see
+
+554
+00:12:40,150 --> 00:12:40,160
+impression except the GM says the D see
+ 
+
+555
+00:12:40,160 --> 00:12:42,850
+impression except the GM says the D see
+that they feel is appropriate as opposed
+
+556
+00:12:42,850 --> 00:12:42,860
+that they feel is appropriate as opposed
+ 
+
+557
+00:12:42,860 --> 00:12:46,569
+that they feel is appropriate as opposed
+to using the Wil DC of the target if she
+
+558
+00:12:46,569 --> 00:12:46,579
+to using the Wil DC of the target if she
+ 
+
+559
+00:12:46,579 --> 00:12:49,240
+to using the Wil DC of the target if she
+roses success then he agrees to help her
+
+560
+00:12:49,240 --> 00:12:49,250
+roses success then he agrees to help her
+ 
+
+561
+00:12:49,250 --> 00:12:51,850
+roses success then he agrees to help her
+with the investigation but asks for
+
+562
+00:12:51,850 --> 00:12:51,860
+with the investigation but asks for
+ 
+
+563
+00:12:51,860 --> 00:12:54,579
+with the investigation but asks for
+something in return if she critically
+
+564
+00:12:54,579 --> 00:12:54,589
+something in return if she critically
+ 
+
+565
+00:12:54,589 --> 00:12:56,460
+something in return if she critically
+succeeds he offers his assistance
+
+566
+00:12:56,460 --> 00:12:56,470
+succeeds he offers his assistance
+ 
+
+567
+00:12:56,470 --> 00:12:58,060
+succeeds he offers his assistance
+outright
+
+568
+00:12:58,060 --> 00:12:58,070
+outright
+ 
+
+569
+00:12:58,070 --> 00:13:01,060
+outright
+if she fails then the noble refuses the
+
+570
+00:13:01,060 --> 00:13:01,070
+if she fails then the noble refuses the
+ 
+
+571
+00:13:01,070 --> 00:13:04,030
+if she fails then the noble refuses the
+request and if she critically fails then
+
+572
+00:13:04,030 --> 00:13:04,040
+request and if she critically fails then
+ 
+
+573
+00:13:04,040 --> 00:13:06,340
+request and if she critically fails then
+the noble refuses the request and lowers
+
+574
+00:13:06,340 --> 00:13:06,350
+the noble refuses the request and lowers
+ 
+
+575
+00:13:06,350 --> 00:13:08,200
+the noble refuses the request and lowers
+his attitude one step becoming
+
+576
+00:13:08,200 --> 00:13:08,210
+his attitude one step becoming
+ 
+
+577
+00:13:08,210 --> 00:13:11,400
+his attitude one step becoming
+indifferent again
+
+578
+00:13:11,400 --> 00:13:11,410
+
+ 
+
+579
+00:13:11,410 --> 00:13:14,039
+
+let's take a look at this example again
+
+580
+00:13:14,039 --> 00:13:14,049
+let's take a look at this example again
+ 
+
+581
+00:13:14,049 --> 00:13:16,679
+let's take a look at this example again
+but this time we're going to flip the
+
+582
+00:13:16,679 --> 00:13:16,689
+but this time we're going to flip the
+ 
+
+583
+00:13:16,689 --> 00:13:20,129
+but this time we're going to flip the
+script and say instead the noble is the
+
+584
+00:13:20,129 --> 00:13:20,139
+script and say instead the noble is the
+ 
+
+585
+00:13:20,139 --> 00:13:22,650
+script and say instead the noble is the
+one who approaches Kyra at the ball and
+
+586
+00:13:22,650 --> 00:13:22,660
+one who approaches Kyra at the ball and
+ 
+
+587
+00:13:22,660 --> 00:13:25,379
+one who approaches Kyra at the ball and
+tries to charm her into doing a favor
+
+588
+00:13:25,379 --> 00:13:25,389
+tries to charm her into doing a favor
+ 
+
+589
+00:13:25,389 --> 00:13:29,759
+tries to charm her into doing a favor
+for him in this case the GM would not
+
+590
+00:13:29,759 --> 00:13:29,769
+for him in this case the GM would not
+ 
+
+591
+00:13:29,769 --> 00:13:32,369
+for him in this case the GM would not
+roll a diplomacy check for the noble and
+
+592
+00:13:32,369 --> 00:13:32,379
+roll a diplomacy check for the noble and
+ 
+
+593
+00:13:32,379 --> 00:13:35,969
+roll a diplomacy check for the noble and
+contested by Kyra's will DC and the
+
+594
+00:13:35,969 --> 00:13:35,979
+contested by Kyra's will DC and the
+ 
+
+595
+00:13:35,979 --> 00:13:38,699
+contested by Kyra's will DC and the
+reason for that is twofold first the
+
+596
+00:13:38,699 --> 00:13:38,709
+reason for that is twofold first the
+ 
+
+597
+00:13:38,709 --> 00:13:40,649
+reason for that is twofold first the
+rules for each of the attitude
+
+598
+00:13:40,649 --> 00:13:40,659
+rules for each of the attitude
+ 
+
+599
+00:13:40,659 --> 00:13:43,109
+rules for each of the attitude
+conditions say that with one exception
+
+600
+00:13:43,109 --> 00:13:43,119
+conditions say that with one exception
+ 
+
+601
+00:13:43,119 --> 00:13:45,569
+conditions say that with one exception
+that we're going to talk about in just a
+
+602
+00:13:45,569 --> 00:13:45,579
+that we're going to talk about in just a
+ 
+
+603
+00:13:45,579 --> 00:13:48,089
+that we're going to talk about in just a
+moment they only applied to creatures
+
+604
+00:13:48,089 --> 00:13:48,099
+moment they only applied to creatures
+ 
+
+605
+00:13:48,099 --> 00:13:51,509
+moment they only applied to creatures
+that are not player characters so the
+
+606
+00:13:51,509 --> 00:13:51,519
+that are not player characters so the
+ 
+
+607
+00:13:51,519 --> 00:13:53,609
+that are not player characters so the
+noble might start the conversation as
+
+608
+00:13:53,609 --> 00:13:53,619
+noble might start the conversation as
+ 
+
+609
+00:13:53,619 --> 00:13:54,839
+noble might start the conversation as
+indifferent to Kyra
+
+610
+00:13:54,839 --> 00:13:54,849
+indifferent to Kyra
+ 
+
+611
+00:13:54,849 --> 00:13:58,829
+indifferent to Kyra
+but Kyra is not indifferent to him nor
+
+612
+00:13:58,829 --> 00:13:58,839
+but Kyra is not indifferent to him nor
+ 
+
+613
+00:13:58,839 --> 00:14:00,929
+but Kyra is not indifferent to him nor
+is she helpful or friendly or unfriendly
+
+614
+00:14:00,929 --> 00:14:00,939
+is she helpful or friendly or unfriendly
+ 
+
+615
+00:14:00,939 --> 00:14:04,139
+is she helpful or friendly or unfriendly
+or hostile because Kyra is a player
+
+616
+00:14:04,139 --> 00:14:04,149
+or hostile because Kyra is a player
+ 
+
+617
+00:14:04,149 --> 00:14:07,529
+or hostile because Kyra is a player
+character and players have agency over
+
+618
+00:14:07,529 --> 00:14:07,539
+character and players have agency over
+ 
+
+619
+00:14:07,539 --> 00:14:09,929
+character and players have agency over
+their characters and they get to decide
+
+620
+00:14:09,929 --> 00:14:09,939
+their characters and they get to decide
+ 
+
+621
+00:14:09,939 --> 00:14:12,809
+their characters and they get to decide
+how they behave and whether they agree
+
+622
+00:14:12,809 --> 00:14:12,819
+how they behave and whether they agree
+ 
+
+623
+00:14:12,819 --> 00:14:16,319
+how they behave and whether they agree
+to an NPCs request or not so in this
+
+624
+00:14:16,319 --> 00:14:16,329
+to an NPCs request or not so in this
+ 
+
+625
+00:14:16,329 --> 00:14:19,679
+to an NPCs request or not so in this
+case no dice would be rolled and instead
+
+626
+00:14:19,679 --> 00:14:19,689
+case no dice would be rolled and instead
+ 
+
+627
+00:14:19,689 --> 00:14:22,469
+case no dice would be rolled and instead
+the GM and Kyra's player would roleplay
+
+628
+00:14:22,469 --> 00:14:22,479
+the GM and Kyra's player would roleplay
+ 
+
+629
+00:14:22,479 --> 00:14:24,840
+the GM and Kyra's player would roleplay
+the exchange and Kyra's player would
+
+630
+00:14:24,840 --> 00:14:24,850
+the exchange and Kyra's player would
+ 
+
+631
+00:14:24,850 --> 00:14:27,210
+the exchange and Kyra's player would
+decide how she responds to the nobles
+
+632
+00:14:27,210 --> 00:14:27,220
+decide how she responds to the nobles
+ 
+
+633
+00:14:27,220 --> 00:14:30,629
+decide how she responds to the nobles
+request players value agency in the
+
+634
+00:14:30,629 --> 00:14:30,639
+request players value agency in the
+ 
+
+635
+00:14:30,639 --> 00:14:32,879
+request players value agency in the
+right to control their characters so
+
+636
+00:14:32,879 --> 00:14:32,889
+right to control their characters so
+ 
+
+637
+00:14:32,889 --> 00:14:35,159
+right to control their characters so
+dice should rarely dictate how they
+
+638
+00:14:35,159 --> 00:14:35,169
+dice should rarely dictate how they
+ 
+
+639
+00:14:35,169 --> 00:14:39,059
+dice should rarely dictate how they
+respond to an NPC however I did mention
+
+640
+00:14:39,059 --> 00:14:39,069
+respond to an NPC however I did mention
+ 
+
+641
+00:14:39,069 --> 00:14:41,579
+respond to an NPC however I did mention
+before that there was one important
+
+642
+00:14:41,579 --> 00:14:41,589
+before that there was one important
+ 
+
+643
+00:14:41,589 --> 00:14:44,579
+before that there was one important
+exception and that's found in the errata
+
+644
+00:14:44,579 --> 00:14:44,589
+exception and that's found in the errata
+ 
+
+645
+00:14:44,589 --> 00:14:48,359
+exception and that's found in the errata
+for the core rulebook here it revises
+
+646
+00:14:48,359 --> 00:14:48,369
+for the core rulebook here it revises
+ 
+
+647
+00:14:48,369 --> 00:14:49,889
+for the core rulebook here it revises
+the descriptions for the attitude
+
+648
+00:14:49,889 --> 00:14:49,899
+the descriptions for the attitude
+ 
+
+649
+00:14:49,899 --> 00:14:52,499
+the descriptions for the attitude
+conditions so that they now include the
+
+650
+00:14:52,499 --> 00:14:52,509
+conditions so that they now include the
+ 
+
+651
+00:14:52,509 --> 00:14:56,009
+conditions so that they now include the
+statement only supernatural effects like
+
+652
+00:14:56,009 --> 00:14:56,019
+statement only supernatural effects like
+ 
+
+653
+00:14:56,019 --> 00:14:59,099
+statement only supernatural effects like
+a spell can impose these conditions on
+
+654
+00:14:59,099 --> 00:14:59,109
+a spell can impose these conditions on
+ 
+
+655
+00:14:59,109 --> 00:15:02,309
+a spell can impose these conditions on
+player characters so skills like
+
+656
+00:15:02,309 --> 00:15:02,319
+player characters so skills like
+ 
+
+657
+00:15:02,319 --> 00:15:05,369
+player characters so skills like
+diplomacy and intimidate cannot be used
+
+658
+00:15:05,369 --> 00:15:05,379
+diplomacy and intimidate cannot be used
+ 
+
+659
+00:15:05,379 --> 00:15:09,089
+diplomacy and intimidate cannot be used
+by NPCs to alter the attitude of players
+
+660
+00:15:09,089 --> 00:15:09,099
+by NPCs to alter the attitude of players
+ 
+
+661
+00:15:09,099 --> 00:15:14,759
+by NPCs to alter the attitude of players
+but spells like charm can and it's also
+
+662
+00:15:14,759 --> 00:15:14,769
+but spells like charm can and it's also
+ 
+
+663
+00:15:14,769 --> 00:15:17,669
+but spells like charm can and it's also
+worth noting that a PCS attitude cannot
+
+664
+00:15:17,669 --> 00:15:17,679
+worth noting that a PCS attitude cannot
+ 
+
+665
+00:15:17,679 --> 00:15:20,639
+worth noting that a PCS attitude cannot
+be changed by an NPC using a skill but
+
+666
+00:15:20,639 --> 00:15:20,649
+be changed by an NPC using a skill but
+ 
+
+667
+00:15:20,649 --> 00:15:22,979
+be changed by an NPC using a skill but
+any action that manipulates a character
+
+668
+00:15:22,979 --> 00:15:22,989
+any action that manipulates a character
+ 
+
+669
+00:15:22,989 --> 00:15:24,690
+any action that manipulates a character
+that does not mint
+
+670
+00:15:24,690 --> 00:15:24,700
+that does not mint
+ 
+
+671
+00:15:24,700 --> 00:15:27,480
+that does not mint
+the attitude conditions like helpful
+
+672
+00:15:27,480 --> 00:15:27,490
+the attitude conditions like helpful
+ 
+
+673
+00:15:27,490 --> 00:15:30,420
+the attitude conditions like helpful
+friendly unfriendly hostile they will
+
+674
+00:15:30,420 --> 00:15:30,430
+friendly unfriendly hostile they will
+ 
+
+675
+00:15:30,430 --> 00:15:32,960
+friendly unfriendly hostile they will
+work on player characters for example
+
+676
+00:15:32,960 --> 00:15:32,970
+work on player characters for example
+ 
+
+677
+00:15:32,970 --> 00:15:37,000
+work on player characters for example
+demoralizing or lying to a player
+
+678
+00:15:37,000 --> 00:15:37,010
+demoralizing or lying to a player
+ 
+
+679
+00:15:37,010 --> 00:15:40,180
+demoralizing or lying to a player
+although not directly associated with
+
+680
+00:15:40,180 --> 00:15:40,190
+although not directly associated with
+ 
+
+681
+00:15:40,190 --> 00:15:42,490
+although not directly associated with
+influence another use for the
+
+682
+00:15:42,490 --> 00:15:42,500
+influence another use for the
+ 
+
+683
+00:15:42,500 --> 00:15:44,440
+influence another use for the
+intimidation skill that can alter how a
+
+684
+00:15:44,440 --> 00:15:44,450
+intimidation skill that can alter how a
+ 
+
+685
+00:15:44,450 --> 00:15:48,820
+intimidation skill that can alter how a
+target treats you is demoralize when you
+
+686
+00:15:48,820 --> 00:15:48,830
+target treats you is demoralize when you
+ 
+
+687
+00:15:48,830 --> 00:15:51,370
+target treats you is demoralize when you
+demoralize someone you try and shake
+
+688
+00:15:51,370 --> 00:15:51,380
+demoralize someone you try and shake
+ 
+
+689
+00:15:51,380 --> 00:15:54,220
+demoralize someone you try and shake
+their resolve by intimidating them this
+
+690
+00:15:54,220 --> 00:15:54,230
+their resolve by intimidating them this
+ 
+
+691
+00:15:54,230 --> 00:15:56,230
+their resolve by intimidating them this
+can be done in combat and costs one
+
+692
+00:15:56,230 --> 00:15:56,240
+can be done in combat and costs one
+ 
+
+693
+00:15:56,240 --> 00:15:59,260
+can be done in combat and costs one
+action you choose a target within 30
+
+694
+00:15:59,260 --> 00:15:59,270
+action you choose a target within 30
+ 
+
+695
+00:15:59,270 --> 00:16:01,570
+action you choose a target within 30
+feet enroll an intimidation check
+
+696
+00:16:01,570 --> 00:16:01,580
+feet enroll an intimidation check
+ 
+
+697
+00:16:01,580 --> 00:16:04,630
+feet enroll an intimidation check
+against their will deceive you suffer a
+
+698
+00:16:04,630 --> 00:16:04,640
+against their will deceive you suffer a
+ 
+
+699
+00:16:04,640 --> 00:16:07,390
+against their will deceive you suffer a
+- for penalty if the target can't hear
+
+700
+00:16:07,390 --> 00:16:07,400
+- for penalty if the target can't hear
+ 
+
+701
+00:16:07,400 --> 00:16:09,910
+- for penalty if the target can't hear
+you or if they do not understand your
+
+702
+00:16:09,910 --> 00:16:09,920
+you or if they do not understand your
+ 
+
+703
+00:16:09,920 --> 00:16:13,210
+you or if they do not understand your
+language if you succeed the target
+
+704
+00:16:13,210 --> 00:16:13,220
+language if you succeed the target
+ 
+
+705
+00:16:13,220 --> 00:16:16,780
+language if you succeed the target
+becomes frightened one if you critically
+
+706
+00:16:16,780 --> 00:16:16,790
+becomes frightened one if you critically
+ 
+
+707
+00:16:16,790 --> 00:16:20,650
+becomes frightened one if you critically
+succeed they become frightened - when a
+
+708
+00:16:20,650 --> 00:16:20,660
+succeed they become frightened - when a
+ 
+
+709
+00:16:20,660 --> 00:16:22,720
+succeed they become frightened - when a
+creature is frightened is suffers a
+
+710
+00:16:22,720 --> 00:16:22,730
+creature is frightened is suffers a
+ 
+
+711
+00:16:22,730 --> 00:16:26,290
+creature is frightened is suffers a
+penalty - all checks & dicie's equal to
+
+712
+00:16:26,290 --> 00:16:26,300
+penalty - all checks & dicie's equal to
+ 
+
+713
+00:16:26,300 --> 00:16:28,630
+penalty - all checks & dicie's equal to
+the numeric value of the condition which
+
+714
+00:16:28,630 --> 00:16:28,640
+the numeric value of the condition which
+ 
+
+715
+00:16:28,640 --> 00:16:31,540
+the numeric value of the condition which
+drops by one at the end of each of that
+
+716
+00:16:31,540 --> 00:16:31,550
+drops by one at the end of each of that
+ 
+
+717
+00:16:31,550 --> 00:16:34,510
+drops by one at the end of each of that
+creatures turns and regardless of
+
+718
+00:16:34,510 --> 00:16:34,520
+creatures turns and regardless of
+ 
+
+719
+00:16:34,520 --> 00:16:37,210
+creatures turns and regardless of
+success or failure once you attempt to
+
+720
+00:16:37,210 --> 00:16:37,220
+success or failure once you attempt to
+ 
+
+721
+00:16:37,220 --> 00:16:39,400
+success or failure once you attempt to
+demoralize a target you cannot attempt
+
+722
+00:16:39,400 --> 00:16:39,410
+demoralize a target you cannot attempt
+ 
+
+723
+00:16:39,410 --> 00:16:43,560
+demoralize a target you cannot attempt
+to demoralize them again for ten minutes
+
+724
+00:16:43,560 --> 00:16:43,570
+to demoralize them again for ten minutes
+ 
+
+725
+00:16:43,570 --> 00:16:46,439
+to demoralize them again for ten minutes
+the last action I want to cover in this
+
+726
+00:16:46,439 --> 00:16:46,449
+the last action I want to cover in this
+ 
+
+727
+00:16:46,449 --> 00:16:50,100
+the last action I want to cover in this
+course is lye lye is an application of
+
+728
+00:16:50,100 --> 00:16:50,110
+course is lye lye is an application of
+ 
+
+729
+00:16:50,110 --> 00:16:52,650
+course is lye lye is an application of
+the deception skill and although it does
+
+730
+00:16:52,650 --> 00:16:52,660
+the deception skill and although it does
+ 
+
+731
+00:16:52,660 --> 00:16:54,600
+the deception skill and although it does
+not directly adjust a person's attitude
+
+732
+00:16:54,600 --> 00:16:54,610
+not directly adjust a person's attitude
+ 
+
+733
+00:16:54,610 --> 00:16:57,509
+not directly adjust a person's attitude
+it could be used to gain a favorable
+
+734
+00:16:57,509 --> 00:16:57,519
+it could be used to gain a favorable
+ 
+
+735
+00:16:57,519 --> 00:16:59,730
+it could be used to gain a favorable
+bonus when rolling to make a request or
+
+736
+00:16:59,730 --> 00:16:59,740
+bonus when rolling to make a request or
+ 
+
+737
+00:16:59,740 --> 00:17:03,840
+bonus when rolling to make a request or
+to coerce someone this is entirely at
+
+738
+00:17:03,840 --> 00:17:03,850
+to coerce someone this is entirely at
+ 
+
+739
+00:17:03,850 --> 00:17:06,510
+to coerce someone this is entirely at
+the GM's discretion but if you can
+
+740
+00:17:06,510 --> 00:17:06,520
+the GM's discretion but if you can
+ 
+
+741
+00:17:06,520 --> 00:17:09,049
+the GM's discretion but if you can
+convince the target of a falsehood is
+
+742
+00:17:09,049 --> 00:17:09,059
+convince the target of a falsehood is
+ 
+
+743
+00:17:09,059 --> 00:17:12,179
+convince the target of a falsehood is
+reasonable to assume they may react more
+
+744
+00:17:12,179 --> 00:17:12,189
+reasonable to assume they may react more
+ 
+
+745
+00:17:12,189 --> 00:17:14,699
+reasonable to assume they may react more
+favorably to other attempts to influence
+
+746
+00:17:14,699 --> 00:17:14,709
+favorably to other attempts to influence
+ 
+
+747
+00:17:14,709 --> 00:17:15,090
+favorably to other attempts to influence
+them
+
+748
+00:17:15,090 --> 00:17:15,100
+them
+ 
+
+749
+00:17:15,100 --> 00:17:17,659
+them
+thanks to believing that misinformation
+
+750
+00:17:17,659 --> 00:17:17,669
+thanks to believing that misinformation
+ 
+
+751
+00:17:17,669 --> 00:17:20,280
+thanks to believing that misinformation
+when you lie you spend at least one
+
+752
+00:17:20,280 --> 00:17:20,290
+when you lie you spend at least one
+ 
+
+753
+00:17:20,290 --> 00:17:23,309
+when you lie you spend at least one
+round telling that falsehood and then
+
+754
+00:17:23,309 --> 00:17:23,319
+round telling that falsehood and then
+ 
+
+755
+00:17:23,319 --> 00:17:26,400
+round telling that falsehood and then
+roll a deception skill check this total
+
+756
+00:17:26,400 --> 00:17:26,410
+roll a deception skill check this total
+ 
+
+757
+00:17:26,410 --> 00:17:28,319
+roll a deception skill check this total
+is then contested by the targets
+
+758
+00:17:28,319 --> 00:17:28,329
+is then contested by the targets
+ 
+
+759
+00:17:28,329 --> 00:17:31,169
+is then contested by the targets
+perception DC which is 10 plus their
+
+760
+00:17:31,169 --> 00:17:31,179
+perception DC which is 10 plus their
+ 
+
+761
+00:17:31,179 --> 00:17:34,710
+perception DC which is 10 plus their
+perception bonus as usual the GM may
+
+762
+00:17:34,710 --> 00:17:34,720
+perception bonus as usual the GM may
+ 
+
+763
+00:17:34,720 --> 00:17:36,990
+perception bonus as usual the GM may
+decide to grant a bonus or penalty to
+
+764
+00:17:36,990 --> 00:17:37,000
+decide to grant a bonus or penalty to
+ 
+
+765
+00:17:37,000 --> 00:17:39,390
+decide to grant a bonus or penalty to
+that check based on a multitude of
+
+766
+00:17:39,390 --> 00:17:39,400
+that check based on a multitude of
+ 
+
+767
+00:17:39,400 --> 00:17:41,789
+that check based on a multitude of
+factors not the least of which being how
+
+768
+00:17:41,789 --> 00:17:41,799
+factors not the least of which being how
+ 
+
+769
+00:17:41,799 --> 00:17:44,520
+factors not the least of which being how
+far-fetched the lie is and how much or
+
+770
+00:17:44,520 --> 00:17:44,530
+far-fetched the lie is and how much or
+ 
+
+771
+00:17:44,530 --> 00:17:47,909
+far-fetched the lie is and how much or
+how little the target trusts you if you
+
+772
+00:17:47,909 --> 00:17:47,919
+how little the target trusts you if you
+ 
+
+773
+00:17:47,919 --> 00:17:50,280
+how little the target trusts you if you
+roll a success then the target believes
+
+774
+00:17:50,280 --> 00:17:50,290
+roll a success then the target believes
+ 
+
+775
+00:17:50,290 --> 00:17:53,460
+roll a success then the target believes
+you and if you roll a failure the target
+
+776
+00:17:53,460 --> 00:17:53,470
+you and if you roll a failure the target
+ 
+
+777
+00:17:53,470 --> 00:17:56,039
+you and if you roll a failure the target
+doesn't believe you and also has less
+
+778
+00:17:56,039 --> 00:17:56,049
+doesn't believe you and also has less
+ 
+
+779
+00:17:56,049 --> 00:17:58,799
+doesn't believe you and also has less
+reason to trust you in the future if you
+
+780
+00:17:58,799 --> 00:17:58,809
+reason to trust you in the future if you
+ 
+
+781
+00:17:58,809 --> 00:18:01,200
+reason to trust you in the future if you
+attempt to lie to them again during that
+
+782
+00:18:01,200 --> 00:18:01,210
+attempt to lie to them again during that
+ 
+
+783
+00:18:01,210 --> 00:18:04,649
+attempt to lie to them again during that
+encounter they gain a +4 bonus to their
+
+784
+00:18:04,649 --> 00:18:04,659
+encounter they gain a +4 bonus to their
+ 
+
+785
+00:18:04,659 --> 00:18:08,039
+encounter they gain a +4 bonus to their
+perception DC to resist also if you do
+
+786
+00:18:08,039 --> 00:18:08,049
+perception DC to resist also if you do
+ 
+
+787
+00:18:08,049 --> 00:18:10,830
+perception DC to resist also if you do
+succeed the GM may allow the target to
+
+788
+00:18:10,830 --> 00:18:10,840
+succeed the GM may allow the target to
+ 
+
+789
+00:18:10,840 --> 00:18:12,600
+succeed the GM may allow the target to
+attempt a perception check against your
+
+790
+00:18:12,600 --> 00:18:12,610
+attempt a perception check against your
+ 
+
+791
+00:18:12,610 --> 00:18:14,820
+attempt a perception check against your
+deception DC to think back to that
+
+792
+00:18:14,820 --> 00:18:14,830
+deception DC to think back to that
+ 
+
+793
+00:18:14,830 --> 00:18:17,850
+deception DC to think back to that
+conversation and then realized that they
+
+794
+00:18:17,850 --> 00:18:17,860
+conversation and then realized that they
+ 
+
+795
+00:18:17,860 --> 00:18:20,580
+conversation and then realized that they
+had been lied to
+
+796
+00:18:20,580 --> 00:18:20,590
+had been lied to
+ 
+
+797
+00:18:20,590 --> 00:18:23,279
+had been lied to
+in this video we discussed attitudes and
+
+798
+00:18:23,279 --> 00:18:23,289
+in this video we discussed attitudes and
+ 
+
+799
+00:18:23,289 --> 00:18:25,500
+in this video we discussed attitudes and
+some of the most common ways a character
+
+800
+00:18:25,500 --> 00:18:25,510
+some of the most common ways a character
+ 
+
+801
+00:18:25,510 --> 00:18:28,590
+some of the most common ways a character
+can use skills to influence others the
+
+802
+00:18:28,590 --> 00:18:28,600
+can use skills to influence others the
+ 
+
+803
+00:18:28,600 --> 00:18:30,750
+can use skills to influence others the
+degree to which a character is willing
+
+804
+00:18:30,750 --> 00:18:30,760
+degree to which a character is willing
+ 
+
+805
+00:18:30,760 --> 00:18:33,810
+degree to which a character is willing
+to assist or oppose a player is measured
+
+806
+00:18:33,810 --> 00:18:33,820
+to assist or oppose a player is measured
+ 
+
+807
+00:18:33,820 --> 00:18:37,140
+to assist or oppose a player is measured
+by their attitude there are five stages
+
+808
+00:18:37,140 --> 00:18:37,150
+by their attitude there are five stages
+ 
+
+809
+00:18:37,150 --> 00:18:40,680
+by their attitude there are five stages
+of attitude a helpful character wants to
+
+810
+00:18:40,680 --> 00:18:40,690
+of attitude a helpful character wants to
+ 
+
+811
+00:18:40,690 --> 00:18:43,769
+of attitude a helpful character wants to
+aid you a friendly character might be
+
+812
+00:18:43,769 --> 00:18:43,779
+aid you a friendly character might be
+ 
+
+813
+00:18:43,779 --> 00:18:46,049
+aid you a friendly character might be
+willing to aid you and in different
+
+814
+00:18:46,049 --> 00:18:46,059
+willing to aid you and in different
+ 
+
+815
+00:18:46,059 --> 00:18:48,750
+willing to aid you and in different
+character has no opinion of you one way
+
+816
+00:18:48,750 --> 00:18:48,760
+character has no opinion of you one way
+ 
+
+817
+00:18:48,760 --> 00:18:51,360
+character has no opinion of you one way
+or another an unfriendly character
+
+818
+00:18:51,360 --> 00:18:51,370
+or another an unfriendly character
+ 
+
+819
+00:18:51,370 --> 00:18:54,060
+or another an unfriendly character
+doesn't like you and might act against
+
+820
+00:18:54,060 --> 00:18:54,070
+doesn't like you and might act against
+ 
+
+821
+00:18:54,070 --> 00:18:56,820
+doesn't like you and might act against
+you and a hostile character actively
+
+822
+00:18:56,820 --> 00:18:56,830
+you and a hostile character actively
+ 
+
+823
+00:18:56,830 --> 00:19:00,779
+you and a hostile character actively
+wants to see you fail diplomacy is one
+
+824
+00:19:00,779 --> 00:19:00,789
+wants to see you fail diplomacy is one
+ 
+
+825
+00:19:00,789 --> 00:19:03,060
+wants to see you fail diplomacy is one
+of the main skills used to influence an
+
+826
+00:19:03,060 --> 00:19:03,070
+of the main skills used to influence an
+ 
+
+827
+00:19:03,070 --> 00:19:06,600
+of the main skills used to influence an
+NPC and change their attitude level the
+
+828
+00:19:06,600 --> 00:19:06,610
+NPC and change their attitude level the
+ 
+
+829
+00:19:06,610 --> 00:19:09,269
+NPC and change their attitude level the
+make an impression activity requires at
+
+830
+00:19:09,269 --> 00:19:09,279
+make an impression activity requires at
+ 
+
+831
+00:19:09,279 --> 00:19:11,700
+make an impression activity requires at
+least one minute of conversation after
+
+832
+00:19:11,700 --> 00:19:11,710
+least one minute of conversation after
+ 
+
+833
+00:19:11,710 --> 00:19:13,769
+least one minute of conversation after
+which your role diplomacy versus their
+
+834
+00:19:13,769 --> 00:19:13,779
+which your role diplomacy versus their
+ 
+
+835
+00:19:13,779 --> 00:19:17,789
+which your role diplomacy versus their
+will deceive on a success their attitude
+
+836
+00:19:17,789 --> 00:19:17,799
+will deceive on a success their attitude
+ 
+
+837
+00:19:17,799 --> 00:19:20,669
+will deceive on a success their attitude
+improves by one step for the rest of
+
+838
+00:19:20,669 --> 00:19:20,679
+improves by one step for the rest of
+ 
+
+839
+00:19:20,679 --> 00:19:24,120
+improves by one step for the rest of
+that interaction the request activity
+
+840
+00:19:24,120 --> 00:19:24,130
+that interaction the request activity
+ 
+
+841
+00:19:24,130 --> 00:19:26,370
+that interaction the request activity
+can be used to convince an NPC to do
+
+842
+00:19:26,370 --> 00:19:26,380
+can be used to convince an NPC to do
+ 
+
+843
+00:19:26,380 --> 00:19:29,490
+can be used to convince an NPC to do
+something for you this costs one action
+
+844
+00:19:29,490 --> 00:19:29,500
+something for you this costs one action
+ 
+
+845
+00:19:29,500 --> 00:19:32,130
+something for you this costs one action
+and the target must be at least friendly
+
+846
+00:19:32,130 --> 00:19:32,140
+and the target must be at least friendly
+ 
+
+847
+00:19:32,140 --> 00:19:35,269
+and the target must be at least friendly
+towards you before you can use requests
+
+848
+00:19:35,269 --> 00:19:35,279
+towards you before you can use requests
+ 
+
+849
+00:19:35,279 --> 00:19:38,880
+towards you before you can use requests
+euro diplomacy versus ADC determined by
+
+850
+00:19:38,880 --> 00:19:38,890
+euro diplomacy versus ADC determined by
+ 
+
+851
+00:19:38,890 --> 00:19:42,210
+euro diplomacy versus ADC determined by
+the GM on a success the target is
+
+852
+00:19:42,210 --> 00:19:42,220
+the GM on a success the target is
+ 
+
+853
+00:19:42,220 --> 00:19:44,909
+the GM on a success the target is
+willing to perform the request but with
+
+854
+00:19:44,909 --> 00:19:44,919
+willing to perform the request but with
+ 
+
+855
+00:19:44,919 --> 00:19:47,639
+willing to perform the request but with
+a condition and on a critical success
+
+856
+00:19:47,639 --> 00:19:47,649
+a condition and on a critical success
+ 
+
+857
+00:19:47,649 --> 00:19:52,230
+a condition and on a critical success
+they grant the request outright coerce
+
+858
+00:19:52,230 --> 00:19:52,240
+they grant the request outright coerce
+ 
+
+859
+00:19:52,240 --> 00:19:54,899
+they grant the request outright coerce
+is used to bully someone into doing what
+
+860
+00:19:54,899 --> 00:19:54,909
+is used to bully someone into doing what
+ 
+
+861
+00:19:54,909 --> 00:19:57,930
+is used to bully someone into doing what
+you want spend one minute threatening
+
+862
+00:19:57,930 --> 00:19:57,940
+you want spend one minute threatening
+ 
+
+863
+00:19:57,940 --> 00:20:00,539
+you want spend one minute threatening
+someone and then roll intimidate versus
+
+864
+00:20:00,539 --> 00:20:00,549
+someone and then roll intimidate versus
+ 
+
+865
+00:20:00,549 --> 00:20:04,769
+someone and then roll intimidate versus
+there will DC on a success the target
+
+866
+00:20:04,769 --> 00:20:04,779
+there will DC on a success the target
+ 
+
+867
+00:20:04,779 --> 00:20:07,560
+there will DC on a success the target
+does what you want but comes unfriendly
+
+868
+00:20:07,560 --> 00:20:07,570
+does what you want but comes unfriendly
+ 
+
+869
+00:20:07,570 --> 00:20:11,549
+does what you want but comes unfriendly
+and may retaliate against you remember
+
+870
+00:20:11,549 --> 00:20:11,559
+and may retaliate against you remember
+ 
+
+871
+00:20:11,559 --> 00:20:14,130
+and may retaliate against you remember
+that skills cannot be used to alter a
+
+872
+00:20:14,130 --> 00:20:14,140
+that skills cannot be used to alter a
+ 
+
+873
+00:20:14,140 --> 00:20:17,549
+that skills cannot be used to alter a
+player's attitude but supernatural
+
+874
+00:20:17,549 --> 00:20:17,559
+player's attitude but supernatural
+ 
+
+875
+00:20:17,559 --> 00:20:22,230
+player's attitude but supernatural
+abilities like spells can demoralize can
+
+876
+00:20:22,230 --> 00:20:22,240
+abilities like spells can demoralize can
+ 
+
+877
+00:20:22,240 --> 00:20:23,760
+abilities like spells can demoralize can
+be used to inflict the frightened
+
+878
+00:20:23,760 --> 00:20:23,770
+be used to inflict the frightened
+ 
+
+879
+00:20:23,770 --> 00:20:26,220
+be used to inflict the frightened
+condition on an enemy you roll an
+
+880
+00:20:26,220 --> 00:20:26,230
+condition on an enemy you roll an
+ 
+
+881
+00:20:26,230 --> 00:20:28,169
+condition on an enemy you roll an
+intimidation check versus the targets
+
+882
+00:20:28,169 --> 00:20:28,179
+intimidation check versus the targets
+ 
+
+883
+00:20:28,179 --> 00:20:31,139
+intimidation check versus the targets
+will DC and on a success they become
+
+884
+00:20:31,139 --> 00:20:31,149
+will DC and on a success they become
+ 
+
+885
+00:20:31,149 --> 00:20:31,730
+will DC and on a success they become
+frie
+
+886
+00:20:31,730 --> 00:20:31,740
+frie
+ 
+
+887
+00:20:31,740 --> 00:20:35,299
+frie
+and one and you can use the deception
+
+888
+00:20:35,299 --> 00:20:35,309
+and one and you can use the deception
+ 
+
+889
+00:20:35,309 --> 00:20:38,660
+and one and you can use the deception
+skill to tell a lie you roll deception
+
+890
+00:20:38,660 --> 00:20:38,670
+skill to tell a lie you roll deception
+ 
+
+891
+00:20:38,670 --> 00:20:41,030
+skill to tell a lie you roll deception
+versus the targets perception DC
+
+892
+00:20:41,030 --> 00:20:41,040
+versus the targets perception DC
+ 
+
+893
+00:20:41,040 --> 00:20:45,230
+versus the targets perception DC
+modified as the GM sees fit on a success
+
+894
+00:20:45,230 --> 00:20:45,240
+modified as the GM sees fit on a success
+ 
+
+895
+00:20:45,240 --> 00:20:48,110
+modified as the GM sees fit on a success
+the target believes you and on a failure
+
+896
+00:20:48,110 --> 00:20:48,120
+the target believes you and on a failure
+ 
+
+897
+00:20:48,120 --> 00:20:50,900
+the target believes you and on a failure
+not only do they not believe you but
+
+898
+00:20:50,900 --> 00:20:50,910
+not only do they not believe you but
+ 
+
+899
+00:20:50,910 --> 00:20:53,750
+not only do they not believe you but
+they also gain a +4 bonus to resist
+
+900
+00:20:53,750 --> 00:20:53,760
+they also gain a +4 bonus to resist
+ 
+
+901
+00:20:53,760 --> 00:20:57,370
+they also gain a +4 bonus to resist
+further lies from you
+
+902
+00:20:57,370 --> 00:20:57,380
+
+ 
+
+903
+00:20:57,380 --> 00:20:58,990
+
+with that we'll bring this video to a
+
+904
+00:20:58,990 --> 00:20:59,000
+with that we'll bring this video to a
+ 
+
+905
+00:20:59,000 --> 00:21:00,730
+with that we'll bring this video to a
+close if you found this video helpful
+
+906
+00:21:00,730 --> 00:21:00,740
+close if you found this video helpful
+ 
+
+907
+00:21:00,740 --> 00:21:02,860
+close if you found this video helpful
+please give us a like and don't forget
+
+908
+00:21:02,860 --> 00:21:02,870
+please give us a like and don't forget
+ 
+
+909
+00:21:02,870 --> 00:21:04,480
+please give us a like and don't forget
+to click that subscribe button and the
+
+910
+00:21:04,480 --> 00:21:04,490
+to click that subscribe button and the
+ 
+
+911
+00:21:04,490 --> 00:21:06,190
+to click that subscribe button and the
+bell so you never miss out on our future
+
+912
+00:21:06,190 --> 00:21:06,200
+bell so you never miss out on our future
+ 
+
+913
+00:21:06,200 --> 00:21:08,380
+bell so you never miss out on our future
+videos leave us a comment letting us
+
+914
+00:21:08,380 --> 00:21:08,390
+videos leave us a comment letting us
+ 
+
+915
+00:21:08,390 --> 00:21:09,669
+videos leave us a comment letting us
+know what topics you'd like to see
+
+916
+00:21:09,669 --> 00:21:09,679
+know what topics you'd like to see
+ 
+
+917
+00:21:09,679 --> 00:21:11,770
+know what topics you'd like to see
+covered in our future videos and we can
+
+918
+00:21:11,770 --> 00:21:11,780
+covered in our future videos and we can
+ 
+
+919
+00:21:11,780 --> 00:21:13,000
+covered in our future videos and we can
+always be reached through our Twitter
+
+920
+00:21:13,000 --> 00:21:13,010
+always be reached through our Twitter
+ 
+
+921
+00:21:13,010 --> 00:21:15,610
+always be reached through our Twitter
+and Facebook pages too if you'd like to
+
+922
+00:21:15,610 --> 00:21:15,620
+and Facebook pages too if you'd like to
+ 
+
+923
+00:21:15,620 --> 00:21:17,080
+and Facebook pages too if you'd like to
+use some of the maps that we feature on
+
+924
+00:21:17,080 --> 00:21:17,090
+use some of the maps that we feature on
+ 
+
+925
+00:21:17,090 --> 00:21:18,880
+use some of the maps that we feature on
+our videos and your own games you can
+
+926
+00:21:18,880 --> 00:21:18,890
+our videos and your own games you can
+ 
+
+927
+00:21:18,890 --> 00:21:21,580
+our videos and your own games you can
+find them at maps of mastery a link to
+
+928
+00:21:21,580 --> 00:21:21,590
+find them at maps of mastery a link to
+ 
+
+929
+00:21:21,590 --> 00:21:22,870
+find them at maps of mastery a link to
+that store can be found in the
+
+930
+00:21:22,870 --> 00:21:22,880
+that store can be found in the
+ 
+
+931
+00:21:22,880 --> 00:21:25,659
+that store can be found in the
+description thanks for watching take
+
+932
+00:21:25,659 --> 00:21:25,669
+description thanks for watching take
+ 
+
+933
+00:21:25,669 --> 00:21:27,310
+description thanks for watching take
+care and we'll see you soon with more
+
+934
+00:21:27,310 --> 00:21:27,320
+care and we'll see you soon with more
+ 
+
+935
+00:21:27,320 --> 00:21:31,030
+care and we'll see you soon with more
+basics for your favorite tabletop games
+

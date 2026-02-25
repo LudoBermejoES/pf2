@@ -1,0 +1,2503 @@
+1
+00:00:00,960 --> 00:00:02,310
+
+Hola y bienvenidos a Magic y
+
+2
+00:00:02,310 --> 00:00:02,320
+Hola y bienvenidos a Magic y
+ 
+
+3
+00:00:02,320 --> 00:00:04,550
+Hola y bienvenidos a Magic y
+Pathfinder segunda edición parte 11
+
+4
+00:00:04,550 --> 00:00:04,560
+Pathfinder segunda edición parte 11
+ 
+
+5
+00:00:04,560 --> 00:00:07,190
+Pathfinder segunda edición parte 11
+objeto mágico con truco. En este video
+
+6
+00:00:07,190 --> 00:00:07,200
+objeto mágico con truco. En este video
+ 
+
+7
+00:00:07,200 --> 00:00:09,030
+objeto mágico con truco. En este video
+examinaremos las reglas para usar los
+
+8
+00:00:09,030 --> 00:00:09,040
+examinaremos las reglas para usar los
+ 
+
+9
+00:00:09,040 --> 00:00:10,230
+examinaremos las reglas para usar los
+pies de objeto mágico con truco
+
+10
+00:00:10,230 --> 00:00:10,240
+pies de objeto mágico con truco
+ 
+
+11
+00:00:10,240 --> 00:00:12,709
+pies de objeto mágico con truco
+para activar objetos mágicos incluso cuando
+
+12
+00:00:12,709 --> 00:00:12,719
+para activar objetos mágicos incluso cuando
+ 
+
+13
+00:00:12,719 --> 00:00:14,629
+para activar objetos mágicos incluso cuando
+no cumplas con sus requisitos normales para
+
+14
+00:00:14,629 --> 00:00:14,639
+no cumplas con sus requisitos normales para
+ 
+
+15
+00:00:14,639 --> 00:00:15,190
+no cumplas con sus requisitos normales para
+usarlos
+
+16
+00:00:15,190 --> 00:00:15,200
+usarlos
+ 
+
+17
+00:00:15,200 --> 00:00:16,870
+usarlos
+específicamente. Vamos a
+
+18
+00:00:16,870 --> 00:00:16,880
+específicamente. Vamos a
+ 
+
+19
+00:00:16,880 --> 00:00:19,510
+específicamente. Vamos a
+discutir cómo los pergaminos y las varitas pueden ser
+
+20
+00:00:19,510 --> 00:00:19,520
+discutir cómo los pergaminos y las varitas pueden ser
+ 
+
+21
+00:00:19,520 --> 00:00:19,990
+discutir cómo los pergaminos y las varitas pueden ser
+engañados
+
+22
+00:00:19,990 --> 00:00:20,000
+engañados
+ 
+
+23
+00:00:20,000 --> 00:00:22,230
+engañados
+y usados ​​por personajes que no cumplen con
+
+24
+00:00:22,230 --> 00:00:22,240
+y usados ​​por personajes que no cumplen con
+ 
+
+25
+00:00:22,240 --> 00:00:24,470
+y usados ​​por personajes que no cumplen con
+sus requisitos de uso normales.
+
+26
+00:00:24,470 --> 00:00:24,480
+sus requisitos de uso normales.
+ 
+
+27
+00:00:24,480 --> 00:00:26,710
+sus requisitos de uso normales.
+Como tal, se recomienda encarecidamente que
+
+28
+00:00:26,710 --> 00:00:26,720
+Como tal, se recomienda encarecidamente que
+ 
+
+29
+00:00:26,720 --> 00:00:28,710
+Como tal, se recomienda encarecidamente que
+veas mi video sobre pergaminos y varitas
+
+30
+00:00:28,710 --> 00:00:28,720
+veas mi video sobre pergaminos y varitas
+ 
+
+31
+00:00:28,720 --> 00:00:30,310
+veas mi video sobre pergaminos y varitas
+antes de ver este.
+
+32
+00:00:30,310 --> 00:00:30,320
+antes de ver este.
+ 
+
+33
+00:00:30,320 --> 00:00:32,470
+antes de ver este.
+Incluiré un enlace a ese video en la
+
+34
+00:00:32,470 --> 00:00:32,480
+Incluiré un enlace a ese video en la
+ 
+
+35
+00:00:32,480 --> 00:00:35,030
+Incluiré un enlace a ese video en la
+descripción.
+
+36
+00:00:35,030 --> 00:00:35,040
+descripción.
+ 
+
+37
+00:00:35,040 --> 00:00:37,350
+descripción.
+El feed de objeto mágico con truco permite a las personas
+
+38
+00:00:37,350 --> 00:00:37,360
+El feed de objeto mágico con truco permite a las personas
+ 
+
+39
+00:00:37,360 --> 00:00:39,590
+El feed de objeto mágico con truco permite a las personas
+usar un objeto mágico que normalmente
+
+40
+00:00:39,590 --> 00:00:39,600
+usar un objeto mágico que normalmente
+ 
+
+41
+00:00:39,600 --> 00:00:40,310
+usar un objeto mágico que normalmente
+no podrían,
+
+42
+00:00:40,310 --> 00:00:40,320
+no podrían,
+ 
+
+43
+00:00:40,320 --> 00:00:42,470
+no podrían,
+por ejemplo, porque lanza un hechizo
+
+44
+00:00:42,470 --> 00:00:42,480
+por ejemplo, porque lanza un hechizo
+ 
+
+45
+00:00:42,480 --> 00:00:44,470
+por ejemplo, porque lanza un hechizo
+que no está en su lista de derrames o
+
+46
+00:00:44,470 --> 00:00:44,480
+que no está en su lista de derrames o
+ 
+
+47
+00:00:44,480 --> 00:00:46,709
+que no está en su lista de derrames o
+puede que ni siquiera tengan una lista de hechizos.
+
+48
+00:00:46,709 --> 00:00:46,719
+puede que ni siquiera tengan una lista de hechizos.
+ 
+
+49
+00:00:46,719 --> 00:00:49,270
+puede que ni siquiera tengan una lista de hechizos.
+Usar un objeto mágico con truco cuesta una acción
+
+50
+00:00:49,270 --> 00:00:49,280
+Usar un objeto mágico con truco cuesta una acción
+ 
+
+51
+00:00:49,280 --> 00:00:50,869
+Usar un objeto mágico con truco cuesta una acción
+y primero necesitas saber qué
+
+52
+00:00:50,869 --> 00:00:50,879
+y primero necesitas saber qué
+ 
+
+53
+00:00:50,879 --> 00:00:52,150
+y primero necesitas saber qué
+hace el objeto mágico
+
+54
+00:00:52,150 --> 00:00:52,160
+hace el objeto mágico
+ 
+
+55
+00:00:52,160 --> 00:00:53,990
+hace el objeto mágico
+en términos de juego. Creo que esto significa que
+
+56
+00:00:53,990 --> 00:00:54,000
+en términos de juego. Creo que esto significa que
+ 
+
+57
+00:00:54,000 --> 00:00:56,549
+en términos de juego. Creo que esto significa que
+primero debes identificar el objeto
+
+58
+00:00:56,549 --> 00:00:56,559
+primero debes identificar el objeto
+ 
+
+59
+00:00:56,559 --> 00:00:58,470
+primero debes identificar el objeto
+y luego debes realizar una prueba de habilidad
+
+60
+00:00:58,470 --> 00:00:58,480
+y luego debes realizar una prueba de habilidad
+ 
+
+61
+00:00:58,480 --> 00:01:00,150
+y luego debes realizar una prueba de habilidad
+usando la habilidad de conocimiento relevante que
+
+62
+00:01:00,150 --> 00:01:00,160
+usando la habilidad de conocimiento relevante que
+ 
+
+63
+00:01:00,160 --> 00:01:01,990
+usando la habilidad de conocimiento relevante que
+coincida con los rasgos del objeto:
+
+64
+00:01:01,990 --> 00:01:02,000
+coincida con los rasgos del objeto:
+ 
+
+65
+00:01:02,000 --> 00:01:04,710
+coincida con los rasgos del objeto:
+arcano para naturaleza arcana para
+
+66
+00:01:04,710 --> 00:01:04,720
+arcano para naturaleza arcana para
+ 
+
+67
+00:01:04,720 --> 00:01:06,390
+arcano para naturaleza arcana para
+ocultismo primordial para una
+
+68
+00:01:06,390 --> 00:01:06,400
+ocultismo primordial para una
+ 
+
+69
+00:01:06,400 --> 00:01:08,870
+ocultismo primordial para una
+religión de culto para divino o cualquiera de las cuatro
+
+70
+00:01:08,870 --> 00:01:08,880
+religión de culto para divino o cualquiera de las cuatro
+ 
+
+71
+00:01:08,880 --> 00:01:09,429
+religión de culto para divino o cualquiera de las cuatro
+habilidades
+
+72
+00:01:09,429 --> 00:01:09,439
+habilidades
+ 
+
+73
+00:01:09,439 --> 00:01:12,149
+habilidades
+si el objeto tiene la magia.  rasgo y
+
+74
+00:01:12,149 --> 00:01:12,159
+si el objeto tiene la magia.  rasgo y
+ 
+
+75
+00:01:12,159 --> 00:01:12,550
+si el objeto tiene la magia.  rasgo y
+no
+
+76
+00:01:12,550 --> 00:01:12,560
+no
+ 
+
+77
+00:01:12,560 --> 00:01:15,749
+no
+un rasgo de tradiciones en algunos casos los objetos
+
+78
+00:01:15,749 --> 00:01:15,759
+un rasgo de tradiciones en algunos casos los objetos
+ 
+
+79
+00:01:15,759 --> 00:01:17,190
+un rasgo de tradiciones en algunos casos los objetos
+pueden por alguna razón
+
+80
+00:01:17,190 --> 00:01:17,200
+pueden por alguna razón
+ 
+
+81
+00:01:17,200 --> 00:01:19,830
+pueden por alguna razón
+enumerar tanto el rasgo mágico como un
+
+82
+00:01:19,830 --> 00:01:19,840
+enumerar tanto el rasgo mágico como un
+ 
+
+83
+00:01:19,840 --> 00:01:21,030
+enumerar tanto el rasgo mágico como un
+rasgo de tradiciones
+
+84
+00:01:21,030 --> 00:01:21,040
+rasgo de tradiciones
+ 
+
+85
+00:01:21,040 --> 00:01:23,670
+rasgo de tradiciones
+pero recuerda que solo puedes elegir usar
+
+86
+00:01:23,670 --> 00:01:23,680
+pero recuerda que solo puedes elegir usar
+ 
+
+87
+00:01:23,680 --> 00:01:25,109
+pero recuerda que solo puedes elegir usar
+cualquiera de las cuatro habilidades
+
+88
+00:01:25,109 --> 00:01:25,119
+cualquiera de las cuatro habilidades
+ 
+
+89
+00:01:25,119 --> 00:01:27,670
+cualquiera de las cuatro habilidades
+si el objeto no enumera un rasgo de tradiciones
+
+90
+00:01:27,670 --> 00:01:27,680
+si el objeto no enumera un rasgo de tradiciones
+ 
+
+91
+00:01:27,680 --> 00:01:28,390
+si el objeto no enumera un rasgo de tradiciones
+
+92
+00:01:28,390 --> 00:01:28,400
+
+ 
+
+93
+00:01:28,400 --> 00:01:30,310
+
+así que en esos casos muy raros donde
+
+94
+00:01:30,310 --> 00:01:30,320
+así que en esos casos muy raros donde
+ 
+
+95
+00:01:30,320 --> 00:01:32,230
+así que en esos casos muy raros donde
+puedes ver tanto el rasgo mágico
+
+96
+00:01:32,230 --> 00:01:32,240
+puedes ver tanto el rasgo mágico
+ 
+
+97
+00:01:32,240 --> 00:01:34,950
+puedes ver tanto el rasgo mágico
+como un rasgo de tradiciones tienes que usar
+
+98
+00:01:34,950 --> 00:01:34,960
+como un rasgo de tradiciones tienes que usar
+ 
+
+99
+00:01:34,960 --> 00:01:35,590
+como un rasgo de tradiciones tienes que usar
+la habilidad que
+
+100
+00:01:35,590 --> 00:01:35,600
+la habilidad que
+ 
+
+101
+00:01:35,600 --> 00:01:38,230
+la habilidad que
+coincida con la tradición la CD para esta
+
+102
+00:01:38,230 --> 00:01:38,240
+coincida con la tradición la CD para esta
+ 
+
+103
+00:01:38,240 --> 00:01:40,310
+coincida con la tradición la CD para esta
+verificación está determinada por el nivel del objeto
+
+104
+00:01:40,310 --> 00:01:40,320
+verificación está determinada por el nivel del objeto
+ 
+
+105
+00:01:40,320 --> 00:01:43,109
+verificación está determinada por el nivel del objeto
+y modificada debido a la rareza en cualquier otra
+
+106
+00:01:43,109 --> 00:01:43,119
+y modificada debido a la rareza en cualquier otra
+ 
+
+107
+00:01:43,119 --> 00:01:44,950
+y modificada debido a la rareza en cualquier otra
+circunstancia que el DJ crea que es
+
+108
+00:01:44,950 --> 00:01:44,960
+circunstancia que el DJ crea que es
+ 
+
+109
+00:01:44,960 --> 00:01:46,069
+circunstancia que el DJ crea que es
+apropiado
+
+110
+00:01:46,069 --> 00:01:46,079
+apropiado
+ 
+
+111
+00:01:46,079 --> 00:01:48,550
+apropiado
+en un éxito hasta el final del
+
+112
+00:01:48,550 --> 00:01:48,560
+en un éxito hasta el final del
+ 
+
+113
+00:01:48,560 --> 00:01:49,590
+en un éxito hasta el final del
+turno actual
+
+114
+00:01:49,590 --> 00:01:49,600
+turno actual
+ 
+
+115
+00:01:49,600 --> 00:01:51,670
+turno actual
+puedes gastar acciones para activar el
+
+116
+00:01:51,670 --> 00:01:51,680
+puedes gastar acciones para activar el
+ 
+
+117
+00:01:51,680 --> 00:01:54,389
+puedes gastar acciones para activar el
+objeto como si normalmente pudieras usarlo
+
+118
+00:01:54,389 --> 00:01:54,399
+objeto como si normalmente pudieras usarlo
+ 
+
+119
+00:01:54,399 --> 00:01:56,950
+objeto como si normalmente pudieras usarlo
+en un fallo no puedes usar el objeto
+
+120
+00:01:56,950 --> 00:01:56,960
+en un fallo no puedes usar el objeto
+ 
+
+121
+00:01:56,960 --> 00:01:57,749
+en un fallo no puedes usar el objeto
+este turno
+
+122
+00:01:57,749 --> 00:01:57,759
+este turno
+ 
+
+123
+00:01:57,759 --> 00:02:00,630
+este turno
+pero puedes intentarlo de nuevo el siguiente turno y en un
+
+124
+00:02:00,630 --> 00:02:00,640
+pero puedes intentarlo de nuevo el siguiente turno y en un
+ 
+
+125
+00:02:00,640 --> 00:02:01,670
+pero puedes intentarlo de nuevo el siguiente turno y en un
+fallo crítico
+
+126
+00:02:01,670 --> 00:02:01,680
+fallo crítico
+ 
+
+127
+00:02:01,680 --> 00:02:04,069
+fallo crítico
+no puedes usar el objeto y tampoco puedes
+
+128
+00:02:04,069 --> 00:02:04,079
+no puedes usar el objeto y tampoco puedes
+ 
+
+129
+00:02:04,079 --> 00:02:05,190
+no puedes usar el objeto y tampoco puedes
+intentarlo de nuevo
+
+130
+00:02:05,190 --> 00:02:05,200
+intentarlo de nuevo
+ 
+
+131
+00:02:05,200 --> 00:02:08,790
+intentarlo de nuevo
+hasta el día siguiente ten en cuenta que a diferencia de
+
+132
+00:02:08,790 --> 00:02:08,800
+hasta el día siguiente ten en cuenta que a diferencia de
+ 
+
+133
+00:02:08,800 --> 00:02:09,830
+hasta el día siguiente ten en cuenta que a diferencia de
+otros sistemas
+
+134
+00:02:09,830 --> 00:02:09,840
+otros sistemas
+ 
+
+135
+00:02:09,840 --> 00:02:11,270
+otros sistemas
+fallar críticamente esta verificación en
+
+136
+00:02:11,270 --> 00:02:11,280
+fallar críticamente esta verificación en
+ 
+
+137
+00:02:11,280 --> 00:02:13,270
+fallar críticamente esta verificación en
+Pathfinder segunda edición no
+
+138
+00:02:13,270 --> 00:02:13,280
+Pathfinder segunda edición no
+ 
+
+139
+00:02:13,280 --> 00:02:13,990
+Pathfinder segunda edición no
+consume
+
+140
+00:02:13,990 --> 00:02:14,000
+consume
+ 
+
+141
+00:02:14,000 --> 00:02:17,270
+consume
+ni destruye el objeto incluyendo pergaminos
+
+142
+00:02:17,270 --> 00:02:17,280
+ni destruye el objeto incluyendo pergaminos
+ 
+
+143
+00:02:17,280 --> 00:02:20,070
+ni destruye el objeto incluyendo pergaminos
+solo significa que no puedes intentarlo de nuevo hasta
+
+144
+00:02:20,070 --> 00:02:20,080
+solo significa que no puedes intentarlo de nuevo hasta
+ 
+
+145
+00:02:20,080 --> 00:02:21,750
+solo significa que no puedes intentarlo de nuevo hasta
+el día siguiente
+
+146
+00:02:21,750 --> 00:02:21,760
+el día siguiente
+ 
+
+147
+00:02:21,760 --> 00:02:23,589
+el día siguiente
+también deberíamos hablar sobre las bonificaciones de ataque de hechizos
+
+148
+00:02:23,589 --> 00:02:23,599
+también deberíamos hablar sobre las bonificaciones de ataque de hechizos
+ 
+
+149
+00:02:23,599 --> 00:02:25,350
+también deberíamos hablar sobre las bonificaciones de ataque de hechizos
+en las CD de hechizos
+
+150
+00:02:25,350 --> 00:02:25,360
+en las CD de hechizos
+ 
+
+151
+00:02:25,360 --> 00:02:27,910
+en las CD de hechizos
+cuando se usa un objeto mágico con truco si eres
+
+152
+00:02:27,910 --> 00:02:27,920
+cuando se usa un objeto mágico con truco si eres
+ 
+
+153
+00:02:27,920 --> 00:02:29,589
+cuando se usa un objeto mágico con truco si eres
+capaz de lanzar hechizos de la tradición del objeto
+
+154
+00:02:29,589 --> 00:02:29,599
+capaz de lanzar hechizos de la tradición del objeto
+ 
+
+155
+00:02:29,599 --> 00:02:30,309
+capaz de lanzar hechizos de la tradición del objeto
+
+156
+00:02:30,309 --> 00:02:30,319
+
+ 
+
+157
+00:02:30,319 --> 00:02:32,630
+
+entonces  Usas tu bonificación de ataque de hechizo normal
+
+158
+00:02:32,630 --> 00:02:32,640
+entonces  Usas tu bonificación de ataque de hechizo normal
+ 
+
+159
+00:02:32,640 --> 00:02:33,350
+entonces  Usas tu bonificación de ataque de hechizo normal
+
+160
+00:02:33,350 --> 00:02:33,360
+
+ 
+
+161
+00:02:33,360 --> 00:02:35,670
+
+y tu CD de hechizo normal para esa
+
+162
+00:02:35,670 --> 00:02:35,680
+y tu CD de hechizo normal para esa
+ 
+
+163
+00:02:35,680 --> 00:02:36,869
+y tu CD de hechizo normal para esa
+tradición,
+
+164
+00:02:36,869 --> 00:02:36,879
+tradición,
+ 
+
+165
+00:02:36,879 --> 00:02:38,550
+tradición,
+pero si no puedes lanzar hechizos de esa
+
+166
+00:02:38,550 --> 00:02:38,560
+pero si no puedes lanzar hechizos de esa
+ 
+
+167
+00:02:38,560 --> 00:02:40,550
+pero si no puedes lanzar hechizos de esa
+tradición, calculas tu
+
+168
+00:02:40,550 --> 00:02:40,560
+tradición, calculas tu
+ 
+
+169
+00:02:40,560 --> 00:02:42,229
+tradición, calculas tu
+bonificación de ataque de hechizo y tu CD de hechizo
+
+170
+00:02:42,229 --> 00:02:42,239
+bonificación de ataque de hechizo y tu CD de hechizo
+ 
+
+171
+00:02:42,239 --> 00:02:44,309
+bonificación de ataque de hechizo y tu CD de hechizo
+usando tu nivel como bonificación de competencia,
+
+172
+00:02:44,309 --> 00:02:44,319
+usando tu nivel como bonificación de competencia,
+ 
+
+173
+00:02:44,319 --> 00:02:45,270
+usando tu nivel como bonificación de competencia,
+
+174
+00:02:45,270 --> 00:02:45,280
+
+ 
+
+175
+00:02:45,280 --> 00:02:48,150
+
+solo tu nivel no agregues 2 por estar
+
+176
+00:02:48,150 --> 00:02:48,160
+solo tu nivel no agregues 2 por estar
+ 
+
+177
+00:02:48,160 --> 00:02:48,869
+solo tu nivel no agregues 2 por estar
+entrenado
+
+178
+00:02:48,869 --> 00:02:48,879
+entrenado
+ 
+
+179
+00:02:48,879 --> 00:02:50,550
+entrenado
+o cuatro por ser un experto en la
+
+180
+00:02:50,550 --> 00:02:50,560
+o cuatro por ser un experto en la
+ 
+
+181
+00:02:50,560 --> 00:02:52,070
+o cuatro por ser un experto en la
+habilidad relevante
+
+182
+00:02:52,070 --> 00:02:52,080
+habilidad relevante
+ 
+
+183
+00:02:52,080 --> 00:02:54,229
+habilidad relevante
+y también a tu nivel vas a
+
+184
+00:02:54,229 --> 00:02:54,239
+y también a tu nivel vas a
+ 
+
+185
+00:02:54,239 --> 00:02:56,229
+y también a tu nivel vas a
+agregar el modificador de habilidad
+
+186
+00:02:56,229 --> 00:02:56,239
+agregar el modificador de habilidad
+ 
+
+187
+00:02:56,239 --> 00:02:58,790
+agregar el modificador de habilidad
+para la puntuación de habilidad mental que sea
+
+188
+00:02:58,790 --> 00:02:58,800
+para la puntuación de habilidad mental que sea
+ 
+
+189
+00:02:58,800 --> 00:02:59,830
+para la puntuación de habilidad mental que sea
+más alta,
+
+190
+00:02:59,830 --> 00:02:59,840
+más alta,
+ 
+
+191
+00:02:59,840 --> 00:03:01,589
+más alta,
+así que va a ser tu mejor
+
+192
+00:03:01,589 --> 00:03:01,599
+así que va a ser tu mejor
+ 
+
+193
+00:03:01,599 --> 00:03:04,309
+así que va a ser tu mejor
+inteligencia, sabiduría o carisma
+
+194
+00:03:04,309 --> 00:03:04,319
+inteligencia, sabiduría o carisma
+ 
+
+195
+00:03:04,319 --> 00:03:06,630
+inteligencia, sabiduría o carisma
+y si tienes competencia de nivel maestro
+
+196
+00:03:06,630 --> 00:03:06,640
+y si tienes competencia de nivel maestro
+ 
+
+197
+00:03:06,640 --> 00:03:07,509
+y si tienes competencia de nivel maestro
+
+198
+00:03:07,509 --> 00:03:07,519
+
+ 
+
+199
+00:03:07,519 --> 00:03:09,350
+
+en la habilidad relevante, entonces vas
+
+200
+00:03:09,350 --> 00:03:09,360
+en la habilidad relevante, entonces vas
+ 
+
+201
+00:03:09,360 --> 00:03:10,790
+en la habilidad relevante, entonces vas
+a agregar dos más a eso
+
+202
+00:03:10,790 --> 00:03:10,800
+a agregar dos más a eso
+ 
+
+203
+00:03:10,800 --> 00:03:12,949
+a agregar dos más a eso
+y si eres legendario en esa habilidad
+
+204
+00:03:12,949 --> 00:03:12,959
+y si eres legendario en esa habilidad
+ 
+
+205
+00:03:12,959 --> 00:03:16,229
+y si eres legendario en esa habilidad
+agregarás cuatro
+
+206
+00:03:16,229 --> 00:03:16,239
+
+ 
+
+207
+00:03:16,239 --> 00:03:17,990
+
+veamos un ejemplo y repasemos
+
+208
+00:03:17,990 --> 00:03:18,000
+veamos un ejemplo y repasemos
+ 
+
+209
+00:03:18,000 --> 00:03:19,350
+veamos un ejemplo y repasemos
+este proceso usando a
+
+210
+00:03:19,350 --> 00:03:19,360
+este proceso usando a
+ 
+
+211
+00:03:19,360 --> 00:03:22,470
+este proceso usando a
+Taryn el explorador Taryn es de segundo nivel
+
+212
+00:03:22,470 --> 00:03:22,480
+Taryn el explorador Taryn es de segundo nivel
+ 
+
+213
+00:03:22,480 --> 00:03:25,030
+Taryn el explorador Taryn es de segundo nivel
+no puede lanzar hechizos primarios por sí mismo, pero
+
+214
+00:03:25,030 --> 00:03:25,040
+no puede lanzar hechizos primarios por sí mismo, pero
+ 
+
+215
+00:03:25,040 --> 00:03:27,110
+no puede lanzar hechizos primarios por sí mismo, pero
+tiene competencia entrenada en naturaleza
+
+216
+00:03:27,110 --> 00:03:27,120
+tiene competencia entrenada en naturaleza
+ 
+
+217
+00:03:27,120 --> 00:03:29,910
+tiene competencia entrenada en naturaleza
+también tiene la dote de objeto mágico con truco
+
+218
+00:03:29,910 --> 00:03:29,920
+también tiene la dote de objeto mágico con truco
+ 
+
+219
+00:03:29,920 --> 00:03:32,390
+también tiene la dote de objeto mágico con truco
+y descubre un pergamino mágico
+
+220
+00:03:32,390 --> 00:03:32,400
+y descubre un pergamino mágico
+ 
+
+221
+00:03:32,400 --> 00:03:34,470
+y descubre un pergamino mágico
+antes de que pueda intentar activar
+
+222
+00:03:34,470 --> 00:03:34,480
+antes de que pueda intentar activar
+ 
+
+223
+00:03:34,480 --> 00:03:35,430
+antes de que pueda intentar activar
+el pergamino
+
+224
+00:03:35,430 --> 00:03:35,440
+el pergamino
+ 
+
+225
+00:03:35,440 --> 00:03:37,910
+el pergamino
+Taryn debe saber lo que hace la activación del objeto
+
+226
+00:03:37,910 --> 00:03:37,920
+Taryn debe saber lo que hace la activación del objeto
+ 
+
+227
+00:03:37,920 --> 00:03:38,630
+Taryn debe saber lo que hace la activación del objeto
+
+228
+00:03:38,630 --> 00:03:38,640
+
+ 
+
+229
+00:03:38,640 --> 00:03:40,470
+
+si no estás familiarizado con ese proceso
+
+230
+00:03:40,470 --> 00:03:40,480
+si no estás familiarizado con ese proceso
+ 
+
+231
+00:03:40,480 --> 00:03:42,470
+si no estás familiarizado con ese proceso
+mira mi video sobre cómo identificar objetos mágicos lo
+
+232
+00:03:42,470 --> 00:03:42,480
+mira mi video sobre cómo identificar objetos mágicos lo
+ 
+
+233
+00:03:42,480 --> 00:03:43,030
+mira mi video sobre cómo identificar objetos mágicos lo
+
+234
+00:03:43,030 --> 00:03:43,040
+
+ 
+
+235
+00:03:43,040 --> 00:03:44,710
+
+vincularé en este  Descripción del video:
+
+236
+00:03:44,710 --> 00:03:44,720
+vincularé en este  Descripción del video:
+ 
+
+237
+00:03:44,720 --> 00:03:46,949
+vincularé en este  Descripción del video:
+Diremos que usa la
+
+238
+00:03:46,949 --> 00:03:46,959
+Diremos que usa la
+ 
+
+239
+00:03:46,959 --> 00:03:48,630
+Diremos que usa la
+actividad mágica de identificar, tiene
+
+240
+00:03:48,630 --> 00:03:48,640
+actividad mágica de identificar, tiene
+ 
+
+241
+00:03:48,640 --> 00:03:51,030
+actividad mágica de identificar, tiene
+éxito en su prueba de naturaleza y descubre
+
+242
+00:03:51,030 --> 00:03:51,040
+éxito en su prueba de naturaleza y descubre
+ 
+
+243
+00:03:51,040 --> 00:03:53,350
+éxito en su prueba de naturaleza y descubre
+que este es un pergamino de pasar sin dejar rastro.
+
+244
+00:03:53,350 --> 00:03:53,360
+que este es un pergamino de pasar sin dejar rastro.
+ 
+
+245
+00:03:53,360 --> 00:03:54,470
+que este es un pergamino de pasar sin dejar rastro.
+
+246
+00:03:54,470 --> 00:03:54,480
+
+ 
+
+247
+00:03:54,480 --> 00:03:56,309
+
+El primer requisito para lanzar hechizos desde un
+
+248
+00:03:56,309 --> 00:03:56,319
+El primer requisito para lanzar hechizos desde un
+ 
+
+249
+00:03:56,319 --> 00:03:58,949
+El primer requisito para lanzar hechizos desde un
+pergamino es que el conjuro debe aparecer
+
+250
+00:03:58,949 --> 00:03:58,959
+pergamino es que el conjuro debe aparecer
+ 
+
+251
+00:03:58,959 --> 00:04:00,470
+pergamino es que el conjuro debe aparecer
+en tu lista de conjuros.
+
+252
+00:04:00,470 --> 00:04:00,480
+en tu lista de conjuros.
+ 
+
+253
+00:04:00,480 --> 00:04:02,470
+en tu lista de conjuros.
+Taryn normalmente no puede lanzar
+
+254
+00:04:02,470 --> 00:04:02,480
+Taryn normalmente no puede lanzar
+ 
+
+255
+00:04:02,480 --> 00:04:04,949
+Taryn normalmente no puede lanzar
+hechizos, no tiene una lista de conjuros
+
+256
+00:04:04,949 --> 00:04:04,959
+hechizos, no tiene una lista de conjuros
+ 
+
+257
+00:04:04,959 --> 00:04:07,509
+hechizos, no tiene una lista de conjuros
+y, por lo tanto, normalmente no podría usar el
+
+258
+00:04:07,509 --> 00:04:07,519
+y, por lo tanto, normalmente no podría usar el
+ 
+
+259
+00:04:07,519 --> 00:04:08,470
+y, por lo tanto, normalmente no podría usar el
+pergamino.
+
+260
+00:04:08,470 --> 00:04:08,480
+pergamino.
+ 
+
+261
+00:04:08,480 --> 00:04:11,110
+pergamino.
+Sin embargo, la dote de objeto mágico con truco
+
+262
+00:04:11,110 --> 00:04:11,120
+Sin embargo, la dote de objeto mágico con truco
+ 
+
+263
+00:04:11,120 --> 00:04:13,270
+Sin embargo, la dote de objeto mágico con truco
+le da una forma de evitar esto:
+
+264
+00:04:13,270 --> 00:04:13,280
+le da una forma de evitar esto:
+ 
+
+265
+00:04:13,280 --> 00:04:15,670
+le da una forma de evitar esto:
+puede gastar una acción y hacer una prueba de habilidad.
+
+266
+00:04:15,670 --> 00:04:15,680
+puede gastar una acción y hacer una prueba de habilidad.
+ 
+
+267
+00:04:15,680 --> 00:04:16,469
+puede gastar una acción y hacer una prueba de habilidad.
+
+268
+00:04:16,469 --> 00:04:16,479
+
+ 
+
+269
+00:04:16,479 --> 00:04:18,469
+
+La habilidad que se usa se basa en los
+
+270
+00:04:18,469 --> 00:04:18,479
+La habilidad que se usa se basa en los
+ 
+
+271
+00:04:18,479 --> 00:04:20,469
+La habilidad que se usa se basa en los
+rasgos del objeto que se está engañando.
+
+272
+00:04:20,469 --> 00:04:20,479
+rasgos del objeto que se está engañando.
+ 
+
+273
+00:04:20,479 --> 00:04:22,790
+rasgos del objeto que se está engañando.
+En este caso, un pergamino de pasar sin dejar
+
+274
+00:04:22,790 --> 00:04:22,800
+En este caso, un pergamino de pasar sin dejar
+ 
+
+275
+00:04:22,800 --> 00:04:25,270
+En este caso, un pergamino de pasar sin dejar
+rastro tiene el rasgo primordial, lo que
+
+276
+00:04:25,270 --> 00:04:25,280
+rastro tiene el rasgo primordial, lo que
+ 
+
+277
+00:04:25,280 --> 00:04:27,749
+rastro tiene el rasgo primordial, lo que
+significa que Taran necesitará una prueba de naturaleza.
+
+278
+00:04:27,749 --> 00:04:27,759
+significa que Taran necesitará una prueba de naturaleza.
+ 
+
+279
+00:04:27,759 --> 00:04:28,629
+significa que Taran necesitará una prueba de naturaleza.
+
+280
+00:04:28,629 --> 00:04:28,639
+
+ 
+
+281
+00:04:28,639 --> 00:04:30,550
+
+La CD para esta prueba la determinará
+
+282
+00:04:30,550 --> 00:04:30,560
+La CD para esta prueba la determinará
+ 
+
+283
+00:04:30,560 --> 00:04:33,270
+La CD para esta prueba la determinará
+el DJ y se basará en el nivel y la rareza del objeto.
+
+284
+00:04:33,270 --> 00:04:34,469
+el DJ y se basará en el nivel y la rareza del objeto.
+ 
+
+285
+00:04:34,469 --> 00:04:34,479
+
+ 
+
+286
+00:04:34,479 --> 00:04:36,710
+
+Dado que este es un hechizo común de primer nivel,
+
+287
+00:04:36,710 --> 00:04:36,720
+Dado que este es un hechizo común de primer nivel,
+ 
+
+288
+00:04:36,720 --> 00:04:39,110
+Dado que este es un hechizo común de primer nivel,
+el nivel del objeto también es primero, lo que
+
+289
+00:04:39,110 --> 00:04:39,120
+el nivel del objeto también es primero, lo que
+ 
+
+290
+00:04:39,120 --> 00:04:42,710
+el nivel del objeto también es primero, lo que
+significa que la CD para la prueba será 15.
+
+291
+00:04:42,710 --> 00:04:42,720
+significa que la CD para la prueba será 15.
+ 
+
+292
+00:04:42,720 --> 00:04:45,430
+significa que la CD para la prueba será 15.
+Ten en cuenta que después del primer nivel, los niveles de los objetos
+
+293
+00:04:45,430 --> 00:04:45,440
+Ten en cuenta que después del primer nivel, los niveles de los objetos
+ 
+
+294
+00:04:45,440 --> 00:04:46,469
+Ten en cuenta que después del primer nivel, los niveles de los objetos
+de los pergaminos son
+
+295
+00:04:46,469 --> 00:04:46,479
+de los pergaminos son
+ 
+
+296
+00:04:46,479 --> 00:04:48,230
+de los pergaminos son
+más altos que el nivel del hechizo
+
+297
+00:04:48,230 --> 00:04:48,240
+más altos que el nivel del hechizo
+ 
+
+298
+00:04:48,240 --> 00:04:50,070
+más altos que el nivel del hechizo
+contenido en el pergamino,
+
+299
+00:04:50,070 --> 00:04:50,080
+contenido en el pergamino,
+ 
+
+300
+00:04:50,080 --> 00:04:52,310
+contenido en el pergamino,
+por lo tanto, los DJ deberán consultar la
+
+301
+00:04:52,310 --> 00:04:52,320
+por lo tanto, los DJ deberán consultar la
+ 
+
+302
+00:04:52,320 --> 00:04:54,230
+por lo tanto, los DJ deberán consultar la
+tabla en la página 565
+
+303
+00:04:54,230 --> 00:04:54,240
+tabla en la página 565
+ 
+
+304
+00:04:54,240 --> 00:04:56,950
+tabla en la página 565
+al determinar la CD para estas pruebas,
+
+305
+00:04:56,950 --> 00:04:56,960
+al determinar la CD para estas pruebas,
+ 
+
+306
+00:04:56,960 --> 00:04:57,749
+al determinar la CD para estas pruebas,
+por ejemplo,
+
+307
+00:04:57,749 --> 00:04:57,759
+por ejemplo,
+ 
+
+308
+00:04:57,759 --> 00:04:59,430
+por ejemplo,
+si se trata de un pergamino.  de pasar sin dejar
+
+309
+00:04:59,430 --> 00:04:59,440
+si se trata de un pergamino.  de pasar sin dejar
+ 
+
+310
+00:04:59,440 --> 00:05:01,510
+si se trata de un pergamino.  de pasar sin dejar
+rastro aumentado a cuarto nivel
+
+311
+00:05:01,510 --> 00:05:01,520
+rastro aumentado a cuarto nivel
+ 
+
+312
+00:05:01,520 --> 00:05:03,590
+rastro aumentado a cuarto nivel
+taryn aún podría intentar la prueba pero
+
+313
+00:05:03,590 --> 00:05:03,600
+taryn aún podría intentar la prueba pero
+ 
+
+314
+00:05:03,600 --> 00:05:05,270
+taryn aún podría intentar la prueba pero
+la CD sería mayor
+
+315
+00:05:05,270 --> 00:05:05,280
+la CD sería mayor
+ 
+
+316
+00:05:05,280 --> 00:05:07,510
+la CD sería mayor
+un hechizo de cuarto nivel significa que el pergamino que lo
+
+317
+00:05:07,510 --> 00:05:07,520
+un hechizo de cuarto nivel significa que el pergamino que lo
+ 
+
+318
+00:05:07,520 --> 00:05:08,469
+un hechizo de cuarto nivel significa que el pergamino que lo
+contiene
+
+319
+00:05:08,469 --> 00:05:08,479
+contiene
+ 
+
+320
+00:05:08,479 --> 00:05:11,590
+contiene
+es un objeto de séptimo nivel y los objetos de séptimo nivel
+
+321
+00:05:11,590 --> 00:05:11,600
+es un objeto de séptimo nivel y los objetos de séptimo nivel
+ 
+
+322
+00:05:11,600 --> 00:05:12,950
+es un objeto de séptimo nivel y los objetos de séptimo nivel
+tienen una CD
+
+323
+00:05:12,950 --> 00:05:12,960
+tienen una CD
+ 
+
+324
+00:05:12,960 --> 00:05:16,469
+tienen una CD
+de 23 para activarse esto también es cierto
+
+325
+00:05:16,469 --> 00:05:16,479
+de 23 para activarse esto también es cierto
+ 
+
+326
+00:05:16,479 --> 00:05:17,670
+de 23 para activarse esto también es cierto
+para las varitas mágicas
+
+327
+00:05:17,670 --> 00:05:17,680
+para las varitas mágicas
+ 
+
+328
+00:05:17,680 --> 00:05:19,749
+para las varitas mágicas
+según sus descripciones de objeto que se encuentran en la
+
+329
+00:05:19,749 --> 00:05:19,759
+según sus descripciones de objeto que se encuentran en la
+ 
+
+330
+00:05:19,759 --> 00:05:21,749
+según sus descripciones de objeto que se encuentran en la
+página 597
+
+331
+00:05:21,749 --> 00:05:21,759
+página 597
+ 
+
+332
+00:05:21,759 --> 00:05:23,990
+página 597
+taryn gasta una acción y tira su
+
+333
+00:05:23,990 --> 00:05:24,000
+taryn gasta una acción y tira su
+ 
+
+334
+00:05:24,000 --> 00:05:24,870
+taryn gasta una acción y tira su
+prueba mayor
+
+335
+00:05:24,870 --> 00:05:24,880
+prueba mayor
+ 
+
+336
+00:05:24,880 --> 00:05:27,270
+prueba mayor
+añadiendo su bonificación de competencia como de costumbre el
+
+337
+00:05:27,270 --> 00:05:27,280
+añadiendo su bonificación de competencia como de costumbre el
+ 
+
+338
+00:05:27,280 --> 00:05:28,230
+añadiendo su bonificación de competencia como de costumbre el
+éxito significa que
+
+339
+00:05:28,230 --> 00:05:28,240
+éxito significa que
+ 
+
+340
+00:05:28,240 --> 00:05:30,550
+éxito significa que
+durante el resto del turno taryn puede girar
+
+341
+00:05:30,550 --> 00:05:30,560
+durante el resto del turno taryn puede girar
+ 
+
+342
+00:05:30,560 --> 00:05:31,270
+durante el resto del turno taryn puede girar
+acciones
+
+343
+00:05:31,270 --> 00:05:31,280
+acciones
+ 
+
+344
+00:05:31,280 --> 00:05:33,909
+acciones
+como si normalmente pudiera usar el pergamino
+
+345
+00:05:33,909 --> 00:05:33,919
+como si normalmente pudiera usar el pergamino
+ 
+
+346
+00:05:33,919 --> 00:05:35,510
+como si normalmente pudiera usar el pergamino
+pasar sin dejar rastro
+
+347
+00:05:35,510 --> 00:05:35,520
+pasar sin dejar rastro
+ 
+
+348
+00:05:35,520 --> 00:05:38,550
+pasar sin dejar rastro
+normalmente requiere dos acciones para lanzarlo así que
+
+349
+00:05:38,550 --> 00:05:38,560
+normalmente requiere dos acciones para lanzarlo así que
+ 
+
+350
+00:05:38,560 --> 00:05:39,350
+normalmente requiere dos acciones para lanzarlo así que
+gira
+
+351
+00:05:39,350 --> 00:05:39,360
+gira
+ 
+
+352
+00:05:39,360 --> 00:05:41,990
+gira
+sus dos acciones restantes para lanzarlo
+
+353
+00:05:41,990 --> 00:05:42,000
+sus dos acciones restantes para lanzarlo
+ 
+
+354
+00:05:42,000 --> 00:05:43,670
+sus dos acciones restantes para lanzarlo
+bajo circunstancias normales
+
+355
+00:05:43,670 --> 00:05:43,680
+bajo circunstancias normales
+ 
+
+356
+00:05:43,680 --> 00:05:46,390
+bajo circunstancias normales
+no puedes usar un objeto mágico con truco para lanzar
+
+357
+00:05:46,390 --> 00:05:46,400
+no puedes usar un objeto mágico con truco para lanzar
+ 
+
+358
+00:05:46,400 --> 00:05:48,469
+no puedes usar un objeto mágico con truco para lanzar
+un hechizo desde un pergamino o varita
+
+359
+00:05:48,469 --> 00:05:48,479
+un hechizo desde un pergamino o varita
+ 
+
+360
+00:05:48,479 --> 00:05:51,029
+un hechizo desde un pergamino o varita
+que requiere tres acciones con el
+
+361
+00:05:51,029 --> 00:05:51,039
+que requiere tres acciones con el
+ 
+
+362
+00:05:51,039 --> 00:05:52,150
+que requiere tres acciones con el
+permiso del DJ
+
+363
+00:05:52,150 --> 00:05:52,160
+permiso del DJ
+ 
+
+364
+00:05:52,160 --> 00:05:54,390
+permiso del DJ
+la dote de lanzamiento acelerado puede ser capaz
+
+365
+00:05:54,390 --> 00:05:54,400
+la dote de lanzamiento acelerado puede ser capaz
+ 
+
+366
+00:05:54,400 --> 00:05:55,510
+la dote de lanzamiento acelerado puede ser capaz
+de lograr esto
+
+367
+00:05:55,510 --> 00:05:55,520
+de lograr esto
+ 
+
+368
+00:05:55,520 --> 00:05:57,830
+de lograr esto
+pero eso está más allá de las habilidades de taryn en
+
+369
+00:05:57,830 --> 00:05:57,840
+pero eso está más allá de las habilidades de taryn en
+ 
+
+370
+00:05:57,840 --> 00:05:59,510
+pero eso está más allá de las habilidades de taryn en
+este ejemplo un
+
+371
+00:05:59,510 --> 00:05:59,520
+este ejemplo un
+ 
+
+372
+00:05:59,520 --> 00:06:01,350
+este ejemplo un
+fallo en la prueba significaría que
+
+373
+00:06:01,350 --> 00:06:01,360
+fallo en la prueba significaría que
+ 
+
+374
+00:06:01,360 --> 00:06:03,029
+fallo en la prueba significaría que
+taryn no puede usar el pergamino
+
+375
+00:06:03,029 --> 00:06:03,039
+taryn no puede usar el pergamino
+ 
+
+376
+00:06:03,039 --> 00:06:05,110
+taryn no puede usar el pergamino
+este turno pero no hay nada que
+
+377
+00:06:05,110 --> 00:06:05,120
+este turno pero no hay nada que
+ 
+
+378
+00:06:05,120 --> 00:06:07,590
+este turno pero no hay nada que
+le impida volver a intentarlo el siguiente turno
+
+379
+00:06:07,590 --> 00:06:07,600
+le impida volver a intentarlo el siguiente turno
+ 
+
+380
+00:06:07,600 --> 00:06:09,510
+le impida volver a intentarlo el siguiente turno
+y este fallo le impide
+
+381
+00:06:09,510 --> 00:06:09,520
+y este fallo le impide
+ 
+
+382
+00:06:09,520 --> 00:06:11,749
+y este fallo le impide
+gastar sus otras dos acciones para lanzar
+
+383
+00:06:11,749 --> 00:06:11,759
+gastar sus otras dos acciones para lanzar
+ 
+
+384
+00:06:11,759 --> 00:06:12,870
+gastar sus otras dos acciones para lanzar
+el hechizo lo
+
+385
+00:06:12,870 --> 00:06:12,880
+el hechizo lo
+ 
+
+386
+00:06:12,880 --> 00:06:15,590
+el hechizo lo
+que significa que solo ha usado una acción hasta ahora
+
+387
+00:06:15,590 --> 00:06:15,600
+que significa que solo ha usado una acción hasta ahora
+ 
+
+388
+00:06:15,600 --> 00:06:16,550
+que significa que solo ha usado una acción hasta ahora
+en este turno
+
+389
+00:06:16,550 --> 00:06:16,560
+en este turno
+ 
+
+390
+00:06:16,560 --> 00:06:18,629
+en este turno
+y todavía tiene dos más disponibles para
+
+391
+00:06:18,629 --> 00:06:18,639
+y todavía tiene dos más disponibles para
+ 
+
+392
+00:06:18,639 --> 00:06:20,469
+y todavía tiene dos más disponibles para
+hacer otra cosa
+
+393
+00:06:20,469 --> 00:06:20,479
+hacer otra cosa
+ 
+
+394
+00:06:20,479 --> 00:06:23,110
+hacer otra cosa
+y si taryn falla críticamente su prueba,
+
+395
+00:06:23,110 --> 00:06:23,120
+y si taryn falla críticamente su prueba,
+ 
+
+396
+00:06:23,120 --> 00:06:24,710
+y si taryn falla críticamente su prueba,
+entonces no puede usar el pergamino
+
+397
+00:06:24,710 --> 00:06:24,720
+entonces no puede usar el pergamino
+ 
+
+398
+00:06:24,720 --> 00:06:27,430
+entonces no puede usar el pergamino
+este turno y tendrá que esperar hasta
+
+399
+00:06:27,430 --> 00:06:27,440
+este turno y tendrá que esperar hasta
+ 
+
+400
+00:06:27,440 --> 00:06:30,230
+este turno y tendrá que esperar hasta
+después de sus próximos preparativos diarios para intentarlo de
+
+401
+00:06:30,230 --> 00:06:30,240
+después de sus próximos preparativos diarios para intentarlo de
+ 
+
+402
+00:06:30,240 --> 00:06:31,270
+después de sus próximos preparativos diarios para intentarlo de
+nuevo.
+
+403
+00:06:31,270 --> 00:06:31,280
+nuevo.
+ 
+
+404
+00:06:31,280 --> 00:06:33,110
+nuevo.
+Digamos que tiene éxito en la prueba y
+
+405
+00:06:33,110 --> 00:06:33,120
+Digamos que tiene éxito en la prueba y
+ 
+
+406
+00:06:33,120 --> 00:06:34,790
+Digamos que tiene éxito en la prueba y
+gasta las dos acciones restantes
+
+407
+00:06:34,790 --> 00:06:34,800
+gasta las dos acciones restantes
+ 
+
+408
+00:06:34,800 --> 00:06:36,550
+gasta las dos acciones restantes
+este turno para activar el pergamino y
+
+409
+00:06:36,550 --> 00:06:36,560
+este turno para activar el pergamino y
+ 
+
+410
+00:06:36,560 --> 00:06:38,550
+este turno para activar el pergamino y
+lanzar pasar sin dejar rastro.
+
+411
+00:06:38,550 --> 00:06:38,560
+lanzar pasar sin dejar rastro.
+ 
+
+412
+00:06:38,560 --> 00:06:41,350
+lanzar pasar sin dejar rastro.
+Este hechizo requiere una CD de hechizo que se
+
+413
+00:06:41,350 --> 00:06:41,360
+Este hechizo requiere una CD de hechizo que se
+ 
+
+414
+00:06:41,360 --> 00:06:42,230
+Este hechizo requiere una CD de hechizo que se
+calcula
+
+415
+00:06:42,230 --> 00:06:42,240
+calcula
+ 
+
+416
+00:06:42,240 --> 00:06:45,590
+calcula
+como 10 más su nivel más su
+
+417
+00:06:45,590 --> 00:06:45,600
+como 10 más su nivel más su
+ 
+
+418
+00:06:45,600 --> 00:06:48,309
+como 10 más su nivel más su
+modificador de habilidad mental más alto. Para terran,
+
+419
+00:06:48,309 --> 00:06:48,319
+modificador de habilidad mental más alto. Para terran,
+ 
+
+420
+00:06:48,319 --> 00:06:49,909
+modificador de habilidad mental más alto. Para terran,
+calculamos esto como 10
+
+421
+00:06:49,909 --> 00:06:49,919
+calculamos esto como 10
+ 
+
+422
+00:06:49,919 --> 00:06:53,189
+calculamos esto como 10
+más 2 ya que es de segundo nivel más 2
+
+423
+00:06:53,189 --> 00:06:53,199
+más 2 ya que es de segundo nivel más 2
+ 
+
+424
+00:06:53,199 --> 00:06:56,309
+más 2 ya que es de segundo nivel más 2
+más porque tiene una puntuación de habilidad de sabiduría de 14
+
+425
+00:06:56,309 --> 00:06:56,319
+más porque tiene una puntuación de habilidad de sabiduría de 14
+ 
+
+426
+00:06:56,319 --> 00:06:57,110
+más porque tiene una puntuación de habilidad de sabiduría de 14
+
+427
+00:06:57,110 --> 00:06:57,120
+
+ 
+
+428
+00:06:57,120 --> 00:06:59,749
+
+y eso le da una CD de hechizo final de
+
+429
+00:06:59,749 --> 00:06:59,759
+y eso le da una CD de hechizo final de
+ 
+
+430
+00:06:59,759 --> 00:07:01,029
+y eso le da una CD de hechizo final de
+14.
+
+431
+00:07:01,029 --> 00:07:01,039
+14.
+ 
+
+432
+00:07:01,039 --> 00:07:03,110
+14.
+El hecho de que haya entrenado competencia
+
+433
+00:07:03,110 --> 00:07:03,120
+El hecho de que haya entrenado competencia
+ 
+
+434
+00:07:03,120 --> 00:07:04,150
+El hecho de que haya entrenado competencia
+en naturaleza
+
+435
+00:07:04,150 --> 00:07:04,160
+en naturaleza
+ 
+
+436
+00:07:04,160 --> 00:07:07,670
+en naturaleza
+no le otorga ninguna bonificación aquí, pero
+
+437
+00:07:07,670 --> 00:07:07,680
+no le otorga ninguna bonificación aquí, pero
+ 
+
+438
+00:07:07,680 --> 00:07:10,230
+no le otorga ninguna bonificación aquí, pero
+si tuviera competencia maestra en naturaleza,
+
+439
+00:07:10,230 --> 00:07:10,240
+si tuviera competencia maestra en naturaleza,
+ 
+
+440
+00:07:10,240 --> 00:07:10,950
+si tuviera competencia maestra en naturaleza,
+agregaría
+
+441
+00:07:10,950 --> 00:07:10,960
+agregaría
+ 
+
+442
+00:07:10,960 --> 00:07:13,270
+agregaría
+dos a una CD de hechizo y si fuera de
+
+443
+00:07:13,270 --> 00:07:13,280
+dos a una CD de hechizo y si fuera de
+ 
+
+444
+00:07:13,280 --> 00:07:14,469
+dos a una CD de hechizo y si fuera de
+naturaleza legendaria,
+
+445
+00:07:14,469 --> 00:07:14,479
+naturaleza legendaria,
+ 
+
+446
+00:07:14,479 --> 00:07:17,430
+naturaleza legendaria,
+agregaría cuatro. Aunque este es el
+
+447
+00:07:17,430 --> 00:07:17,440
+agregaría cuatro. Aunque este es el
+ 
+
+448
+00:07:17,440 --> 00:07:18,150
+agregaría cuatro. Aunque este es el
+límite para que
+
+449
+00:07:18,150 --> 00:07:18,160
+límite para que
+ 
+
+450
+00:07:18,160 --> 00:07:20,309
+límite para que
+taryn use pergaminos, es posible que desees
+
+451
+00:07:20,309 --> 00:07:20,319
+taryn use pergaminos, es posible que desees
+ 
+
+452
+00:07:20,319 --> 00:07:21,510
+taryn use pergaminos, es posible que desees
+considerar revisar
+
+453
+00:07:21,510 --> 00:07:21,520
+considerar revisar
+ 
+
+454
+00:07:21,520 --> 00:07:24,070
+considerar revisar
+el arquetipo de embaucador de pergamino que se encuentra en
+
+455
+00:07:24,070 --> 00:07:24,080
+el arquetipo de embaucador de pergamino que se encuentra en
+ 
+
+456
+00:07:24,080 --> 00:07:25,430
+el arquetipo de embaucador de pergamino que se encuentra en
+la guía avanzada del jugador
+
+457
+00:07:25,430 --> 00:07:25,440
+la guía avanzada del jugador
+ 
+
+458
+00:07:25,440 --> 00:07:27,830
+la guía avanzada del jugador
+para aprovechar al máximo el uso de
+
+459
+00:07:27,830 --> 00:07:27,840
+para aprovechar al máximo el uso de
+ 
+
+460
+00:07:27,840 --> 00:07:30,790
+para aprovechar al máximo el uso de
+objetos mágicos con truco.
+
+461
+00:07:30,790 --> 00:07:30,800
+objetos mágicos con truco.
+ 
+
+462
+00:07:30,800 --> 00:07:32,230
+objetos mágicos con truco.
+Antes de cerrar, me gustaría  Tómate un
+
+463
+00:07:32,230 --> 00:07:32,240
+Antes de cerrar, me gustaría  Tómate un
+ 
+
+464
+00:07:32,240 --> 00:07:34,230
+Antes de cerrar, me gustaría  Tómate un
+momento para agradecer a todos mis patrocinadores.
+
+465
+00:07:34,230 --> 00:07:34,240
+momento para agradecer a todos mis patrocinadores.
+ 
+
+466
+00:07:34,240 --> 00:07:35,830
+momento para agradecer a todos mis patrocinadores.
+Estos videos no serían posibles
+
+467
+00:07:35,830 --> 00:07:35,840
+Estos videos no serían posibles
+ 
+
+468
+00:07:35,840 --> 00:07:37,749
+Estos videos no serían posibles
+sin su continua generosidad y
+
+469
+00:07:37,749 --> 00:07:37,759
+sin su continua generosidad y
+ 
+
+470
+00:07:37,759 --> 00:07:38,870
+sin su continua generosidad y
+apoyo. Los
+
+471
+00:07:38,870 --> 00:07:38,880
+apoyo. Los
+ 
+
+472
+00:07:38,880 --> 00:07:40,469
+apoyo. Los
+miembros de la comunidad de Patreon de How Is Play
+
+473
+00:07:40,469 --> 00:07:40,479
+miembros de la comunidad de Patreon de How Is Play
+ 
+
+474
+00:07:40,479 --> 00:07:42,550
+miembros de la comunidad de Patreon de How Is Play
+reciben beneficios especiales como
+
+475
+00:07:42,550 --> 00:07:42,560
+reciben beneficios especiales como
+ 
+
+476
+00:07:42,560 --> 00:07:44,710
+reciben beneficios especiales como
+contenido exclusivo y la posibilidad de votar sobre
+
+477
+00:07:44,710 --> 00:07:44,720
+contenido exclusivo y la posibilidad de votar sobre
+ 
+
+478
+00:07:44,720 --> 00:07:46,070
+contenido exclusivo y la posibilidad de votar sobre
+los temas que cubro.
+
+479
+00:07:46,070 --> 00:07:46,080
+los temas que cubro.
+ 
+
+480
+00:07:46,080 --> 00:07:47,749
+los temas que cubro.
+Visita el enlace que se muestra en la parte superior de la
+
+481
+00:07:47,749 --> 00:07:47,759
+Visita el enlace que se muestra en la parte superior de la
+ 
+
+482
+00:07:47,759 --> 00:07:49,510
+Visita el enlace que se muestra en la parte superior de la
+pantalla y en la descripción si
+
+483
+00:07:49,510 --> 00:07:49,520
+pantalla y en la descripción si
+ 
+
+484
+00:07:49,520 --> 00:07:50,790
+pantalla y en la descripción si
+quieres saber más.
+
+485
+00:07:50,790 --> 00:07:50,800
+quieres saber más.
+ 
+
+486
+00:07:50,800 --> 00:07:51,909
+quieres saber más.
+Si quieres apoyar este
+
+487
+00:07:51,909 --> 00:07:51,919
+Si quieres apoyar este
+ 
+
+488
+00:07:51,919 --> 00:07:54,070
+Si quieres apoyar este
+canal y ayudarlo a crecer, la forma más fácil
+
+489
+00:07:54,070 --> 00:07:54,080
+canal y ayudarlo a crecer, la forma más fácil
+ 
+
+490
+00:07:54,080 --> 00:07:54,790
+canal y ayudarlo a crecer, la forma más fácil
+de hacerlo
+
+491
+00:07:54,790 --> 00:07:54,800
+de hacerlo
+ 
+
+492
+00:07:54,800 --> 00:07:56,629
+de hacerlo
+es suscribiéndote y haciendo clic en el
+
+493
+00:07:56,629 --> 00:07:56,639
+es suscribiéndote y haciendo clic en el
+ 
+
+494
+00:07:56,639 --> 00:07:58,950
+es suscribiéndote y haciendo clic en el
+ícono de la campana para que recibas una notificación cuando se publiquen nuevos videos.
+
+495
+00:07:58,950 --> 00:07:58,960
+ícono de la campana para que recibas una notificación cuando se publiquen nuevos videos.
+ 
+
+496
+00:07:58,960 --> 00:07:59,670
+ícono de la campana para que recibas una notificación cuando se publiquen nuevos videos.
+
+497
+00:07:59,670 --> 00:08:01,189
+
+ 
+
+498
+00:08:01,189 --> 00:08:01,199
+
+ 
+
+499
+00:08:01,199 --> 00:08:02,869
+
+También puedes comunicarte conmigo a través de Twitter y Facebook.
+
+500
+00:08:02,869 --> 00:08:02,879
+También puedes comunicarte conmigo a través de Twitter y Facebook.
+ 
+
+501
+00:08:02,879 --> 00:08:08,670
+También puedes comunicarte conmigo a través de Twitter y Facebook.
+Gracias por mirar. Cuídate y disfruta del
+
+502
+00:08:08,670 --> 00:08:08,680
+
+ 
+
+503
+00:08:08,680 --> 00:08:11,680
+
+juego.
+

@@ -1,0 +1,1845 @@
+1
+00:00:01,280 --> 00:00:03,189
+
+hello and welcome to the second examples
+
+2
+00:00:03,189 --> 00:00:03,199
+hello and welcome to the second examples
+ 
+
+3
+00:00:03,199 --> 00:00:04,789
+hello and welcome to the second examples
+video that supports my series on
+
+4
+00:00:04,789 --> 00:00:04,799
+video that supports my series on
+ 
+
+5
+00:00:04,799 --> 00:00:07,389
+video that supports my series on
+Pathfinder magic this is a companion to
+
+6
+00:00:07,389 --> 00:00:07,399
+Pathfinder magic this is a companion to
+ 
+
+7
+00:00:07,399 --> 00:00:09,270
+Pathfinder magic this is a companion to
+part six of that series and will
+
+8
+00:00:09,270 --> 00:00:09,280
+part six of that series and will
+ 
+
+9
+00:00:09,280 --> 00:00:11,150
+part six of that series and will
+illustrate how line of effect is used
+
+10
+00:00:11,150 --> 00:00:11,160
+illustrate how line of effect is used
+ 
+
+11
+00:00:11,160 --> 00:00:13,270
+illustrate how line of effect is used
+when casting spells if you haven't
+
+12
+00:00:13,270 --> 00:00:13,280
+when casting spells if you haven't
+ 
+
+13
+00:00:13,280 --> 00:00:15,709
+when casting spells if you haven't
+already watched magic part 6 it is
+
+14
+00:00:15,709 --> 00:00:15,719
+already watched magic part 6 it is
+ 
+
+15
+00:00:15,719 --> 00:00:17,790
+already watched magic part 6 it is
+highly recommended that you do so before
+
+16
+00:00:17,790 --> 00:00:17,800
+highly recommended that you do so before
+ 
+
+17
+00:00:17,800 --> 00:00:20,109
+highly recommended that you do so before
+continuing and a link to that video is
+
+18
+00:00:20,109 --> 00:00:20,119
+continuing and a link to that video is
+ 
+
+19
+00:00:20,119 --> 00:00:22,509
+continuing and a link to that video is
+provided in the
+
+20
+00:00:22,509 --> 00:00:22,519
+provided in the
+ 
+
+21
+00:00:22,519 --> 00:00:25,109
+provided in the
+description in the first example team
+
+22
+00:00:25,109 --> 00:00:25,119
+description in the first example team
+ 
+
+23
+00:00:25,119 --> 00:00:26,990
+description in the first example team
+Pathfinder is battling a tribe of
+
+24
+00:00:26,990 --> 00:00:27,000
+Pathfinder is battling a tribe of
+ 
+
+25
+00:00:27,000 --> 00:00:29,470
+Pathfinder is battling a tribe of
+goblins in a corridor for our purposes
+
+26
+00:00:29,470 --> 00:00:29,480
+goblins in a corridor for our purposes
+ 
+
+27
+00:00:29,480 --> 00:00:31,950
+goblins in a corridor for our purposes
+the red bars represent closed doors and
+
+28
+00:00:31,950 --> 00:00:31,960
+the red bars represent closed doors and
+ 
+
+29
+00:00:31,960 --> 00:00:34,910
+the red bars represent closed doors and
+the green bars represent open doors her
+
+30
+00:00:34,910 --> 00:00:34,920
+the green bars represent open doors her
+ 
+
+31
+00:00:34,920 --> 00:00:36,510
+the green bars represent open doors her
+friends are taking a beating so on
+
+32
+00:00:36,510 --> 00:00:36,520
+friends are taking a beating so on
+ 
+
+33
+00:00:36,520 --> 00:00:38,709
+friends are taking a beating so on
+Kyra's turn she casts heel using three
+
+34
+00:00:38,709 --> 00:00:38,719
+Kyra's turn she casts heel using three
+ 
+
+35
+00:00:38,719 --> 00:00:40,910
+Kyra's turn she casts heel using three
+actions so that it heals all living
+
+36
+00:00:40,910 --> 00:00:40,920
+actions so that it heals all living
+ 
+
+37
+00:00:40,920 --> 00:00:43,709
+actions so that it heals all living
+creatures within 30 ft of her this is a
+
+38
+00:00:43,709 --> 00:00:43,719
+creatures within 30 ft of her this is a
+ 
+
+39
+00:00:43,719 --> 00:00:46,470
+creatures within 30 ft of her this is a
+30ft emanation centered on her square
+
+40
+00:00:46,470 --> 00:00:46,480
+30ft emanation centered on her square
+ 
+
+41
+00:00:46,480 --> 00:00:48,590
+30ft emanation centered on her square
+and again heals all willing creatures
+
+42
+00:00:48,590 --> 00:00:48,600
+and again heals all willing creatures
+ 
+
+43
+00:00:48,600 --> 00:00:51,709
+and again heals all willing creatures
+within that range so here we can see all
+
+44
+00:00:51,709 --> 00:00:51,719
+within that range so here we can see all
+ 
+
+45
+00:00:51,719 --> 00:00:53,670
+within that range so here we can see all
+of the targets within the range of that
+
+46
+00:00:53,670 --> 00:00:53,680
+of the targets within the range of that
+ 
+
+47
+00:00:53,680 --> 00:00:56,189
+of the targets within the range of that
+spell but next we need to apply line of
+
+48
+00:00:56,189 --> 00:00:56,199
+spell but next we need to apply line of
+ 
+
+49
+00:00:56,199 --> 00:00:58,590
+spell but next we need to apply line of
+effect in order for there to be line of
+
+50
+00:00:58,590 --> 00:00:58,600
+effect in order for there to be line of
+ 
+
+51
+00:00:58,600 --> 00:01:00,590
+effect in order for there to be line of
+effect there must be an un obstructed
+
+52
+00:01:00,590 --> 00:01:00,600
+effect there must be an un obstructed
+ 
+
+53
+00:01:00,600 --> 00:01:02,869
+effect there must be an un obstructed
+path from the point of origin which in
+
+54
+00:01:02,869 --> 00:01:02,879
+path from the point of origin which in
+ 
+
+55
+00:01:02,879 --> 00:01:05,830
+path from the point of origin which in
+this case is Kyra to the Target when
+
+56
+00:01:05,830 --> 00:01:05,840
+this case is Kyra to the Target when
+ 
+
+57
+00:01:05,840 --> 00:01:07,870
+this case is Kyra to the Target when
+debating if there is line of effect I
+
+58
+00:01:07,870 --> 00:01:07,880
+debating if there is line of effect I
+ 
+
+59
+00:01:07,880 --> 00:01:10,310
+debating if there is line of effect I
+like to apply the flashlight rule which
+
+60
+00:01:10,310 --> 00:01:10,320
+like to apply the flashlight rule which
+ 
+
+61
+00:01:10,320 --> 00:01:12,749
+like to apply the flashlight rule which
+says if Kyra could shine a flashlight on
+
+62
+00:01:12,749 --> 00:01:12,759
+says if Kyra could shine a flashlight on
+ 
+
+63
+00:01:12,759 --> 00:01:14,950
+says if Kyra could shine a flashlight on
+a target from where she's standing then
+
+64
+00:01:14,950 --> 00:01:14,960
+a target from where she's standing then
+ 
+
+65
+00:01:14,960 --> 00:01:17,670
+a target from where she's standing then
+there is line of effect so let's apply
+
+66
+00:01:17,670 --> 00:01:17,680
+there is line of effect so let's apply
+ 
+
+67
+00:01:17,680 --> 00:01:19,870
+there is line of effect so let's apply
+that rule starting with the easy ones
+
+68
+00:01:19,870 --> 00:01:19,880
+that rule starting with the easy ones
+ 
+
+69
+00:01:19,880 --> 00:01:22,590
+that rule starting with the easy ones
+valeros and marissal she easily could
+
+70
+00:01:22,590 --> 00:01:22,600
+valeros and marissal she easily could
+ 
+
+71
+00:01:22,600 --> 00:01:24,950
+valeros and marissal she easily could
+shine the light on valeros and even
+
+72
+00:01:24,950 --> 00:01:24,960
+shine the light on valeros and even
+ 
+
+73
+00:01:24,960 --> 00:01:26,749
+shine the light on valeros and even
+though there is a goblin between her and
+
+74
+00:01:26,749 --> 00:01:26,759
+though there is a goblin between her and
+ 
+
+75
+00:01:26,759 --> 00:01:29,350
+though there is a goblin between her and
+marissal the Goblin doesn't completely
+
+76
+00:01:29,350 --> 00:01:29,360
+marissal the Goblin doesn't completely
+ 
+
+77
+00:01:29,360 --> 00:01:31,550
+marissal the Goblin doesn't completely
+obscure her her and CYO would still be
+
+78
+00:01:31,550 --> 00:01:31,560
+obscure her her and CYO would still be
+ 
+
+79
+00:01:31,560 --> 00:01:34,069
+obscure her her and CYO would still be
+able to hit her with a flashlight so
+
+80
+00:01:34,069 --> 00:01:34,079
+able to hit her with a flashlight so
+ 
+
+81
+00:01:34,079 --> 00:01:36,910
+able to hit her with a flashlight so
+there is line of effect to both of them
+
+82
+00:01:36,910 --> 00:01:36,920
+there is line of effect to both of them
+ 
+
+83
+00:01:36,920 --> 00:01:39,590
+there is line of effect to both of them
+next let's consider ezin and sonone
+
+84
+00:01:39,590 --> 00:01:39,600
+next let's consider ezin and sonone
+ 
+
+85
+00:01:39,600 --> 00:01:41,389
+next let's consider ezin and sonone
+those doors are open and even though it
+
+86
+00:01:41,389 --> 00:01:41,399
+those doors are open and even though it
+ 
+
+87
+00:01:41,399 --> 00:01:43,670
+those doors are open and even though it
+might be difficult I believe Kyra could
+
+88
+00:01:43,670 --> 00:01:43,680
+might be difficult I believe Kyra could
+ 
+
+89
+00:01:43,680 --> 00:01:45,670
+might be difficult I believe Kyra could
+shine her flashlight on both of them as
+
+90
+00:01:45,670 --> 00:01:45,680
+shine her flashlight on both of them as
+ 
+
+91
+00:01:45,680 --> 00:01:49,469
+shine her flashlight on both of them as
+well so they do have line of effect too
+
+92
+00:01:49,469 --> 00:01:49,479
+well so they do have line of effect too
+ 
+
+93
+00:01:49,479 --> 00:01:51,350
+well so they do have line of effect too
+limb on the other hand is behind a
+
+94
+00:01:51,350 --> 00:01:51,360
+limb on the other hand is behind a
+ 
+
+95
+00:01:51,360 --> 00:01:54,069
+limb on the other hand is behind a
+closed door Kyra could not shine a light
+
+96
+00:01:54,069 --> 00:01:54,079
+closed door Kyra could not shine a light
+ 
+
+97
+00:01:54,079 --> 00:01:56,870
+closed door Kyra could not shine a light
+on him so there is no line of effect and
+
+98
+00:01:56,870 --> 00:01:56,880
+on him so there is no line of effect and
+ 
+
+99
+00:01:56,880 --> 00:01:58,350
+on him so there is no line of effect and
+it's worth mentioning that it would not
+
+100
+00:01:58,350 --> 00:01:58,360
+it's worth mentioning that it would not
+ 
+
+101
+00:01:58,360 --> 00:02:00,310
+it's worth mentioning that it would not
+make any difference at all if the door
+
+102
+00:02:00,310 --> 00:02:00,320
+make any difference at all if the door
+ 
+
+103
+00:02:00,320 --> 00:02:02,789
+make any difference at all if the door
+was made of glass and was transparent
+
+104
+00:02:02,789 --> 00:02:02,799
+was made of glass and was transparent
+ 
+
+105
+00:02:02,799 --> 00:02:05,069
+was made of glass and was transparent
+that would allow line of sight but not
+
+106
+00:02:05,069 --> 00:02:05,079
+that would allow line of sight but not
+ 
+
+107
+00:02:05,079 --> 00:02:07,389
+that would allow line of sight but not
+line of effect it would still be a
+
+108
+00:02:07,389 --> 00:02:07,399
+line of effect it would still be a
+ 
+
+109
+00:02:07,399 --> 00:02:09,669
+line of effect it would still be a
+physical barrier that obstructs the path
+
+110
+00:02:09,669 --> 00:02:09,679
+physical barrier that obstructs the path
+ 
+
+111
+00:02:09,679 --> 00:02:11,949
+physical barrier that obstructs the path
+to the Target that also means that the
+
+112
+00:02:11,949 --> 00:02:11,959
+to the Target that also means that the
+ 
+
+113
+00:02:11,959 --> 00:02:14,869
+to the Target that also means that the
+flashlight rule isn't a 100% perfect
+
+114
+00:02:14,869 --> 00:02:14,879
+flashlight rule isn't a 100% perfect
+ 
+
+115
+00:02:14,879 --> 00:02:17,990
+flashlight rule isn't a 100% perfect
+illustration but it works for me in most
+
+116
+00:02:17,990 --> 00:02:18,000
+illustration but it works for me in most
+ 
+
+117
+00:02:18,000 --> 00:02:21,509
+illustration but it works for me in most
+situations now comes the hard one CA is
+
+118
+00:02:21,509 --> 00:02:21,519
+situations now comes the hard one CA is
+ 
+
+119
+00:02:21,519 --> 00:02:24,710
+situations now comes the hard one CA is
+there line of effect from Kyra to her by
+
+120
+00:02:24,710 --> 00:02:24,720
+there line of effect from Kyra to her by
+ 
+
+121
+00:02:24,720 --> 00:02:27,750
+there line of effect from Kyra to her by
+raw no there is not Kyra would not be
+
+122
+00:02:27,750 --> 00:02:27,760
+raw no there is not Kyra would not be
+ 
+
+123
+00:02:27,760 --> 00:02:29,990
+raw no there is not Kyra would not be
+able to shine a flashlight on her from
+
+124
+00:02:29,990 --> 00:02:30,000
+able to shine a flashlight on her from
+ 
+
+125
+00:02:30,000 --> 00:02:32,390
+able to shine a flashlight on her from
+her current space as CA is completely
+
+126
+00:02:32,390 --> 00:02:32,400
+her current space as CA is completely
+ 
+
+127
+00:02:32,400 --> 00:02:35,190
+her current space as CA is completely
+obscured behind a wall but the door is
+
+128
+00:02:35,190 --> 00:02:35,200
+obscured behind a wall but the door is
+ 
+
+129
+00:02:35,200 --> 00:02:37,869
+obscured behind a wall but the door is
+open and she's next to the door and this
+
+130
+00:02:37,869 --> 00:02:37,879
+open and she's next to the door and this
+ 
+
+131
+00:02:37,879 --> 00:02:40,070
+open and she's next to the door and this
+is where a lot of GMS will put their own
+
+132
+00:02:40,070 --> 00:02:40,080
+is where a lot of GMS will put their own
+ 
+
+133
+00:02:40,080 --> 00:02:42,390
+is where a lot of GMS will put their own
+spin on things some would say that the
+
+134
+00:02:42,390 --> 00:02:42,400
+spin on things some would say that the
+ 
+
+135
+00:02:42,400 --> 00:02:44,710
+spin on things some would say that the
+radiant light from the heel spell spills
+
+136
+00:02:44,710 --> 00:02:44,720
+radiant light from the heel spell spills
+ 
+
+137
+00:02:44,720 --> 00:02:46,470
+radiant light from the heel spell spills
+through the doorway and around the
+
+138
+00:02:46,470 --> 00:02:46,480
+through the doorway and around the
+ 
+
+139
+00:02:46,480 --> 00:02:49,750
+through the doorway and around the
+corner and does affect CA that's not
+
+140
+00:02:49,750 --> 00:02:49,760
+corner and does affect CA that's not
+ 
+
+141
+00:02:49,760 --> 00:02:52,390
+corner and does affect CA that's not
+supported by the rules as written but as
+
+142
+00:02:52,390 --> 00:02:52,400
+supported by the rules as written but as
+ 
+
+143
+00:02:52,400 --> 00:02:55,229
+supported by the rules as written but as
+a GM that's absolutely in their right to
+
+144
+00:02:55,229 --> 00:02:55,239
+a GM that's absolutely in their right to
+ 
+
+145
+00:02:55,239 --> 00:02:57,910
+a GM that's absolutely in their right to
+decide differently and last what about
+
+146
+00:02:57,910 --> 00:02:57,920
+decide differently and last what about
+ 
+
+147
+00:02:57,920 --> 00:03:00,070
+decide differently and last what about
+the Goblins there is clear line of of
+
+148
+00:03:00,070 --> 00:03:00,080
+the Goblins there is clear line of of
+ 
+
+149
+00:03:00,080 --> 00:03:02,390
+the Goblins there is clear line of of
+effect to several of them but will they
+
+150
+00:03:02,390 --> 00:03:02,400
+effect to several of them but will they
+ 
+
+151
+00:03:02,400 --> 00:03:05,830
+effect to several of them but will they
+be healed too that full debate is beyond
+
+152
+00:03:05,830 --> 00:03:05,840
+be healed too that full debate is beyond
+ 
+
+153
+00:03:05,840 --> 00:03:08,550
+be healed too that full debate is beyond
+the scope of this video but in short yes
+
+154
+00:03:08,550 --> 00:03:08,560
+the scope of this video but in short yes
+ 
+
+155
+00:03:08,560 --> 00:03:10,830
+the scope of this video but in short yes
+I believe they would be but others would
+
+156
+00:03:10,830 --> 00:03:10,840
+I believe they would be but others would
+ 
+
+157
+00:03:10,840 --> 00:03:13,350
+I believe they would be but others would
+disagree the provision in the heal spell
+
+158
+00:03:13,350 --> 00:03:13,360
+disagree the provision in the heal spell
+ 
+
+159
+00:03:13,360 --> 00:03:15,589
+disagree the provision in the heal spell
+that requires a Target to be willing I
+
+160
+00:03:15,589 --> 00:03:15,599
+that requires a Target to be willing I
+ 
+
+161
+00:03:15,599 --> 00:03:17,710
+that requires a Target to be willing I
+believe is there so another player can
+
+162
+00:03:17,710 --> 00:03:17,720
+believe is there so another player can
+ 
+
+163
+00:03:17,720 --> 00:03:20,110
+believe is there so another player can
+refuse healing if they don't want it for
+
+164
+00:03:20,110 --> 00:03:20,120
+refuse healing if they don't want it for
+ 
+
+165
+00:03:20,120 --> 00:03:22,030
+refuse healing if they don't want it for
+example barbarians have abilities that
+
+166
+00:03:22,030 --> 00:03:22,040
+example barbarians have abilities that
+ 
+
+167
+00:03:22,040 --> 00:03:23,949
+example barbarians have abilities that
+give them special benefits while being
+
+168
+00:03:23,949 --> 00:03:23,959
+give them special benefits while being
+ 
+
+169
+00:03:23,959 --> 00:03:26,869
+give them special benefits while being
+at less than 50% of their hit points and
+
+170
+00:03:26,869 --> 00:03:26,879
+at less than 50% of their hit points and
+ 
+
+171
+00:03:26,879 --> 00:03:29,589
+at less than 50% of their hit points and
+that Barbarian player may become upset
+
+172
+00:03:29,589 --> 00:03:29,599
+that Barbarian player may become upset
+ 
+
+173
+00:03:29,599 --> 00:03:31,309
+that Barbarian player may become upset
+if if they're forced to accept healing
+
+174
+00:03:31,309 --> 00:03:31,319
+if if they're forced to accept healing
+ 
+
+175
+00:03:31,319 --> 00:03:33,910
+if if they're forced to accept healing
+from the party's cleric I believe that's
+
+176
+00:03:33,910 --> 00:03:33,920
+from the party's cleric I believe that's
+ 
+
+177
+00:03:33,920 --> 00:03:35,710
+from the party's cleric I believe that's
+the situation the rules are trying to
+
+178
+00:03:35,710 --> 00:03:35,720
+the situation the rules are trying to
+ 
+
+179
+00:03:35,720 --> 00:03:38,630
+the situation the rules are trying to
+avoid with the heal spell only affecting
+
+180
+00:03:38,630 --> 00:03:38,640
+avoid with the heal spell only affecting
+ 
+
+181
+00:03:38,640 --> 00:03:41,270
+avoid with the heal spell only affecting
+quote willing targets but again other
+
+182
+00:03:41,270 --> 00:03:41,280
+quote willing targets but again other
+ 
+
+183
+00:03:41,280 --> 00:03:44,509
+quote willing targets but again other
+GMS May disagree and that's okay
+
+184
+00:03:44,509 --> 00:03:44,519
+GMS May disagree and that's okay
+ 
+
+185
+00:03:44,519 --> 00:03:47,789
+GMS May disagree and that's okay
+too and our next example Kyra cast
+
+186
+00:03:47,789 --> 00:03:47,799
+too and our next example Kyra cast
+ 
+
+187
+00:03:47,799 --> 00:03:49,949
+too and our next example Kyra cast
+soundburst to attack the Goblins
+
+188
+00:03:49,949 --> 00:03:49,959
+soundburst to attack the Goblins
+ 
+
+189
+00:03:49,959 --> 00:03:52,710
+soundburst to attack the Goblins
+soundburst is a 10-ft burst area attack
+
+190
+00:03:52,710 --> 00:03:52,720
+soundburst is a 10-ft burst area attack
+ 
+
+191
+00:03:52,720 --> 00:03:55,270
+soundburst is a 10-ft burst area attack
+with a 30ft range instead of the spell
+
+192
+00:03:55,270 --> 00:03:55,280
+with a 30ft range instead of the spell
+ 
+
+193
+00:03:55,280 --> 00:03:57,789
+with a 30ft range instead of the spell
+effect emanating away from her she
+
+194
+00:03:57,789 --> 00:03:57,799
+effect emanating away from her she
+ 
+
+195
+00:03:57,799 --> 00:04:00,149
+effect emanating away from her she
+instead needs to Target an inter section
+
+196
+00:04:00,149 --> 00:04:00,159
+instead needs to Target an inter section
+ 
+
+197
+00:04:00,159 --> 00:04:02,830
+instead needs to Target an inter section
+of squares that is within 30 ft of her
+
+198
+00:04:02,830 --> 00:04:02,840
+of squares that is within 30 ft of her
+ 
+
+199
+00:04:02,840 --> 00:04:05,190
+of squares that is within 30 ft of her
+and all squares within 10 ft of that
+
+200
+00:04:05,190 --> 00:04:05,200
+and all squares within 10 ft of that
+ 
+
+201
+00:04:05,200 --> 00:04:07,949
+and all squares within 10 ft of that
+point of origin will be within the area
+
+202
+00:04:07,949 --> 00:04:07,959
+point of origin will be within the area
+ 
+
+203
+00:04:07,959 --> 00:04:10,869
+point of origin will be within the area
+of effect for example if she wishes to
+
+204
+00:04:10,869 --> 00:04:10,879
+of effect for example if she wishes to
+ 
+
+205
+00:04:10,879 --> 00:04:12,869
+of effect for example if she wishes to
+attack the Goblins to the left of her
+
+206
+00:04:12,869 --> 00:04:12,879
+attack the Goblins to the left of her
+ 
+
+207
+00:04:12,879 --> 00:04:15,309
+attack the Goblins to the left of her
+she might Target this intersection which
+
+208
+00:04:15,309 --> 00:04:15,319
+she might Target this intersection which
+ 
+
+209
+00:04:15,319 --> 00:04:18,150
+she might Target this intersection which
+is both within 30 ft of her and is
+
+210
+00:04:18,150 --> 00:04:18,160
+is both within 30 ft of her and is
+ 
+
+211
+00:04:18,160 --> 00:04:21,590
+is both within 30 ft of her and is
+unobstructed so it is a valid Target and
+
+212
+00:04:21,590 --> 00:04:21,600
+unobstructed so it is a valid Target and
+ 
+
+213
+00:04:21,600 --> 00:04:23,590
+unobstructed so it is a valid Target and
+the soundburst would originate from that
+
+214
+00:04:23,590 --> 00:04:23,600
+the soundburst would originate from that
+ 
+
+215
+00:04:23,600 --> 00:04:25,909
+the soundburst would originate from that
+point and affect everything within 10 ft
+
+216
+00:04:25,909 --> 00:04:25,919
+point and affect everything within 10 ft
+ 
+
+217
+00:04:25,919 --> 00:04:29,909
+point and affect everything within 10 ft
+of it as we see here but then we need to
+
+218
+00:04:29,909 --> 00:04:29,919
+of it as we see here but then we need to
+ 
+
+219
+00:04:29,919 --> 00:04:32,710
+of it as we see here but then we need to
+adjust for line of effect from the point
+
+220
+00:04:32,710 --> 00:04:32,720
+adjust for line of effect from the point
+ 
+
+221
+00:04:32,720 --> 00:04:35,710
+adjust for line of effect from the point
+of origin to each of the Goblins these
+
+222
+00:04:35,710 --> 00:04:35,720
+of origin to each of the Goblins these
+ 
+
+223
+00:04:35,720 --> 00:04:37,670
+of origin to each of the Goblins these
+three have clear line of effect to the
+
+224
+00:04:37,670 --> 00:04:37,680
+three have clear line of effect to the
+ 
+
+225
+00:04:37,680 --> 00:04:39,790
+three have clear line of effect to the
+point of origin and would be affected by
+
+226
+00:04:39,790 --> 00:04:39,800
+point of origin and would be affected by
+ 
+
+227
+00:04:39,800 --> 00:04:42,070
+point of origin and would be affected by
+the spell the northern Goblin is behind
+
+228
+00:04:42,070 --> 00:04:42,080
+the spell the northern Goblin is behind
+ 
+
+229
+00:04:42,080 --> 00:04:44,670
+the spell the northern Goblin is behind
+a closed door which means there is no
+
+230
+00:04:44,670 --> 00:04:44,680
+a closed door which means there is no
+ 
+
+231
+00:04:44,680 --> 00:04:47,110
+a closed door which means there is no
+line of effect to them and would not be
+
+232
+00:04:47,110 --> 00:04:47,120
+line of effect to them and would not be
+ 
+
+233
+00:04:47,120 --> 00:04:49,790
+line of effect to them and would not be
+affected by the spell now that might beg
+
+234
+00:04:49,790 --> 00:04:49,800
+affected by the spell now that might beg
+ 
+
+235
+00:04:49,800 --> 00:04:52,590
+affected by the spell now that might beg
+the question of is the door damaged and
+
+236
+00:04:52,590 --> 00:04:52,600
+the question of is the door damaged and
+ 
+
+237
+00:04:52,600 --> 00:04:54,990
+the question of is the door damaged and
+if it is destroyed would any damage left
+
+238
+00:04:54,990 --> 00:04:55,000
+if it is destroyed would any damage left
+ 
+
+239
+00:04:55,000 --> 00:04:57,310
+if it is destroyed would any damage left
+over pass onto the goblin standing
+
+240
+00:04:57,310 --> 00:04:57,320
+over pass onto the goblin standing
+ 
+
+241
+00:04:57,320 --> 00:05:00,390
+over pass onto the goblin standing
+behind it and that's a long discussion
+
+242
+00:05:00,390 --> 00:05:00,400
+behind it and that's a long discussion
+ 
+
+243
+00:05:00,400 --> 00:05:02,230
+behind it and that's a long discussion
+that's beyond the scope of this video
+
+244
+00:05:02,230 --> 00:05:02,240
+that's beyond the scope of this video
+ 
+
+245
+00:05:02,240 --> 00:05:03,870
+that's beyond the scope of this video
+but the rule specifically used an
+
+246
+00:05:03,870 --> 00:05:03,880
+but the rule specifically used an
+ 
+
+247
+00:05:03,880 --> 00:05:06,590
+but the rule specifically used an
+example of a fireball spell and says
+
+248
+00:05:06,590 --> 00:05:06,600
+example of a fireball spell and says
+ 
+
+249
+00:05:06,600 --> 00:05:09,070
+example of a fireball spell and says
+that a door would stop all damage from
+
+250
+00:05:09,070 --> 00:05:09,080
+that a door would stop all damage from
+ 
+
+251
+00:05:09,080 --> 00:05:12,150
+that a door would stop all damage from
+it from passing through but each GM is
+
+252
+00:05:12,150 --> 00:05:12,160
+it from passing through but each GM is
+ 
+
+253
+00:05:12,160 --> 00:05:14,189
+it from passing through but each GM is
+free to roll however they believe is
+
+254
+00:05:14,189 --> 00:05:14,199
+free to roll however they believe is
+ 
+
+255
+00:05:14,199 --> 00:05:16,870
+free to roll however they believe is
+most appropriate now that just leaves
+
+256
+00:05:16,870 --> 00:05:16,880
+most appropriate now that just leaves
+ 
+
+257
+00:05:16,880 --> 00:05:18,950
+most appropriate now that just leaves
+the Goblin in the bottom left is there a
+
+258
+00:05:18,950 --> 00:05:18,960
+the Goblin in the bottom left is there a
+ 
+
+259
+00:05:18,960 --> 00:05:20,749
+the Goblin in the bottom left is there a
+line of effect from the point of origin
+
+260
+00:05:20,749 --> 00:05:20,759
+line of effect from the point of origin
+ 
+
+261
+00:05:20,759 --> 00:05:23,150
+line of effect from the point of origin
+to that Goblin if someone was standing
+
+262
+00:05:23,150 --> 00:05:23,160
+to that Goblin if someone was standing
+ 
+
+263
+00:05:23,160 --> 00:05:25,189
+to that Goblin if someone was standing
+on the point of origin could they shine
+
+264
+00:05:25,189 --> 00:05:25,199
+on the point of origin could they shine
+ 
+
+265
+00:05:25,199 --> 00:05:28,550
+on the point of origin could they shine
+a flashlight and hit this Goblin even
+
+266
+00:05:28,550 --> 00:05:28,560
+a flashlight and hit this Goblin even
+ 
+
+267
+00:05:28,560 --> 00:05:30,110
+a flashlight and hit this Goblin even
+though a line from the inter section
+
+268
+00:05:30,110 --> 00:05:30,120
+though a line from the inter section
+ 
+
+269
+00:05:30,120 --> 00:05:32,550
+though a line from the inter section
+does run along the right hand edge of
+
+270
+00:05:32,550 --> 00:05:32,560
+does run along the right hand edge of
+ 
+
+271
+00:05:32,560 --> 00:05:34,309
+does run along the right hand edge of
+the goblin square and through a
+
+272
+00:05:34,309 --> 00:05:34,319
+the goblin square and through a
+ 
+
+273
+00:05:34,319 --> 00:05:36,990
+the goblin square and through a
+completely open door I don't see this as
+
+274
+00:05:36,990 --> 00:05:37,000
+completely open door I don't see this as
+ 
+
+275
+00:05:37,000 --> 00:05:38,950
+completely open door I don't see this as
+passing the flashlight test and would
+
+276
+00:05:38,950 --> 00:05:38,960
+passing the flashlight test and would
+ 
+
+277
+00:05:38,960 --> 00:05:41,150
+passing the flashlight test and would
+rule that this Goblin is safe from The
+
+278
+00:05:41,150 --> 00:05:41,160
+rule that this Goblin is safe from The
+ 
+
+279
+00:05:41,160 --> 00:05:42,390
+rule that this Goblin is safe from The
+Sound birst
+
+280
+00:05:42,390 --> 00:05:42,400
+Sound birst
+ 
+
+281
+00:05:42,400 --> 00:05:44,590
+Sound birst
+spell and next let's consider the
+
+282
+00:05:44,590 --> 00:05:44,600
+spell and next let's consider the
+ 
+
+283
+00:05:44,600 --> 00:05:46,150
+spell and next let's consider the
+Goblins to the bottom right of the
+
+284
+00:05:46,150 --> 00:05:46,160
+Goblins to the bottom right of the
+ 
+
+285
+00:05:46,160 --> 00:05:48,309
+Goblins to the bottom right of the
+screen for our purposes we'll assume
+
+286
+00:05:48,309 --> 00:05:48,319
+screen for our purposes we'll assume
+ 
+
+287
+00:05:48,319 --> 00:05:50,309
+screen for our purposes we'll assume
+that Kyra is aware that all of those
+
+288
+00:05:50,309 --> 00:05:50,319
+that Kyra is aware that all of those
+ 
+
+289
+00:05:50,319 --> 00:05:52,830
+that Kyra is aware that all of those
+goblins are there and grouped up even if
+
+290
+00:05:52,830 --> 00:05:52,840
+goblins are there and grouped up even if
+ 
+
+291
+00:05:52,840 --> 00:05:54,670
+goblins are there and grouped up even if
+she doesn't have line of sight to them
+
+292
+00:05:54,670 --> 00:05:54,680
+she doesn't have line of sight to them
+ 
+
+293
+00:05:54,680 --> 00:05:56,629
+she doesn't have line of sight to them
+right now maybe she crossed the
+
+294
+00:05:56,629 --> 00:05:56,639
+right now maybe she crossed the
+ 
+
+295
+00:05:56,639 --> 00:05:58,390
+right now maybe she crossed the
+intersection with her first action and
+
+296
+00:05:58,390 --> 00:05:58,400
+intersection with her first action and
+ 
+
+297
+00:05:58,400 --> 00:05:59,950
+intersection with her first action and
+now she wants to attack them with sound
+
+298
+00:05:59,950 --> 00:05:59,960
+now she wants to attack them with sound
+ 
+
+299
+00:05:59,960 --> 00:06:03,590
+now she wants to attack them with sound
+burst if she places the 10-ft burst area
+
+300
+00:06:03,590 --> 00:06:03,600
+burst if she places the 10-ft burst area
+ 
+
+301
+00:06:03,600 --> 00:06:05,830
+burst if she places the 10-ft burst area
+here it would hit all of them but
+
+302
+00:06:05,830 --> 00:06:05,840
+here it would hit all of them but
+ 
+
+303
+00:06:05,840 --> 00:06:08,390
+here it would hit all of them but
+unfortunately in order to do that she
+
+304
+00:06:08,390 --> 00:06:08,400
+unfortunately in order to do that she
+ 
+
+305
+00:06:08,400 --> 00:06:10,830
+unfortunately in order to do that she
+would need to place the point of origin
+
+306
+00:06:10,830 --> 00:06:10,840
+would need to place the point of origin
+ 
+
+307
+00:06:10,840 --> 00:06:13,230
+would need to place the point of origin
+here at this intersection which she
+
+308
+00:06:13,230 --> 00:06:13,240
+here at this intersection which she
+ 
+
+309
+00:06:13,240 --> 00:06:15,430
+here at this intersection which she
+cannot do because she does not have line
+
+310
+00:06:15,430 --> 00:06:15,440
+cannot do because she does not have line
+ 
+
+311
+00:06:15,440 --> 00:06:18,150
+cannot do because she does not have line
+of effect to that point even though she
+
+312
+00:06:18,150 --> 00:06:18,160
+of effect to that point even though she
+ 
+
+313
+00:06:18,160 --> 00:06:20,830
+of effect to that point even though she
+has line of effect to most of the blast
+
+314
+00:06:20,830 --> 00:06:20,840
+has line of effect to most of the blast
+ 
+
+315
+00:06:20,840 --> 00:06:23,390
+has line of effect to most of the blast
+area she needs to have an unobstructed
+
+316
+00:06:23,390 --> 00:06:23,400
+area she needs to have an unobstructed
+ 
+
+317
+00:06:23,400 --> 00:06:26,070
+area she needs to have an unobstructed
+path to the point of origin and that
+
+318
+00:06:26,070 --> 00:06:26,080
+path to the point of origin and that
+ 
+
+319
+00:06:26,080 --> 00:06:28,950
+path to the point of origin and that
+intersection is blocked by a wall so she
+
+320
+00:06:28,950 --> 00:06:28,960
+intersection is blocked by a wall so she
+ 
+
+321
+00:06:28,960 --> 00:06:30,749
+intersection is blocked by a wall so she
+would instead have to place the point of
+
+322
+00:06:30,749 --> 00:06:30,759
+would instead have to place the point of
+ 
+
+323
+00:06:30,759 --> 00:06:33,469
+would instead have to place the point of
+origin here in the bottom two goblins
+
+324
+00:06:33,469 --> 00:06:33,479
+origin here in the bottom two goblins
+ 
+
+325
+00:06:33,479 --> 00:06:37,710
+origin here in the bottom two goblins
+would not be within range of the
+
+326
+00:06:37,710 --> 00:06:37,720
+
+ 
+
+327
+00:06:37,720 --> 00:06:40,309
+
+blast before we close I'd like to take a
+
+328
+00:06:40,309 --> 00:06:40,319
+blast before we close I'd like to take a
+ 
+
+329
+00:06:40,319 --> 00:06:42,749
+blast before we close I'd like to take a
+moment to thank all of our patrons these
+
+330
+00:06:42,749 --> 00:06:42,759
+moment to thank all of our patrons these
+ 
+
+331
+00:06:42,759 --> 00:06:44,670
+moment to thank all of our patrons these
+videos would not be possible without
+
+332
+00:06:44,670 --> 00:06:44,680
+videos would not be possible without
+ 
+
+333
+00:06:44,680 --> 00:06:47,909
+videos would not be possible without
+their continued generosity and support
+
+334
+00:06:47,909 --> 00:06:47,919
+their continued generosity and support
+ 
+
+335
+00:06:47,919 --> 00:06:50,189
+their continued generosity and support
+members of the basics for gamers patreon
+
+336
+00:06:50,189 --> 00:06:50,199
+members of the basics for gamers patreon
+ 
+
+337
+00:06:50,199 --> 00:06:52,350
+members of the basics for gamers patreon
+Community receive special benefits like
+
+338
+00:06:52,350 --> 00:06:52,360
+Community receive special benefits like
+ 
+
+339
+00:06:52,360 --> 00:06:54,230
+Community receive special benefits like
+getting to vote on the topics that we
+
+340
+00:06:54,230 --> 00:06:54,240
+getting to vote on the topics that we
+ 
+
+341
+00:06:54,240 --> 00:06:56,350
+getting to vote on the topics that we
+cover in the future and also they get to
+
+342
+00:06:56,350 --> 00:06:56,360
+cover in the future and also they get to
+ 
+
+343
+00:06:56,360 --> 00:06:59,110
+cover in the future and also they get to
+see these videos one week and add free
+
+344
+00:06:59,110 --> 00:06:59,120
+see these videos one week and add free
+ 
+
+345
+00:06:59,120 --> 00:07:02,230
+see these videos one week and add free
+before everybody else visit the link
+
+346
+00:07:02,230 --> 00:07:02,240
+before everybody else visit the link
+ 
+
+347
+00:07:02,240 --> 00:07:04,070
+before everybody else visit the link
+shown on the left of the screen and in
+
+348
+00:07:04,070 --> 00:07:04,080
+shown on the left of the screen and in
+ 
+
+349
+00:07:04,080 --> 00:07:05,550
+shown on the left of the screen and in
+the description if you'd like to know
+
+350
+00:07:05,550 --> 00:07:05,560
+the description if you'd like to know
+ 
+
+351
+00:07:05,560 --> 00:07:08,150
+the description if you'd like to know
+more about becoming a patron if you
+
+352
+00:07:08,150 --> 00:07:08,160
+more about becoming a patron if you
+ 
+
+353
+00:07:08,160 --> 00:07:09,510
+more about becoming a patron if you
+would like to support this Channel and
+
+354
+00:07:09,510 --> 00:07:09,520
+would like to support this Channel and
+ 
+
+355
+00:07:09,520 --> 00:07:11,990
+would like to support this Channel and
+help it grow the easiest way to do that
+
+356
+00:07:11,990 --> 00:07:12,000
+help it grow the easiest way to do that
+ 
+
+357
+00:07:12,000 --> 00:07:14,390
+help it grow the easiest way to do that
+is by subscribing and clicking the Bell
+
+358
+00:07:14,390 --> 00:07:14,400
+is by subscribing and clicking the Bell
+ 
+
+359
+00:07:14,400 --> 00:07:17,150
+is by subscribing and clicking the Bell
+icon so you get notified when new videos
+
+360
+00:07:17,150 --> 00:07:17,160
+icon so you get notified when new videos
+ 
+
+361
+00:07:17,160 --> 00:07:19,270
+icon so you get notified when new videos
+release and we can always be reached
+
+362
+00:07:19,270 --> 00:07:19,280
+release and we can always be reached
+ 
+
+363
+00:07:19,280 --> 00:07:20,830
+release and we can always be reached
+through our Twitter and Facebook pages
+
+364
+00:07:20,830 --> 00:07:20,840
+through our Twitter and Facebook pages
+ 
+
+365
+00:07:20,840 --> 00:07:23,629
+through our Twitter and Facebook pages
+too thanks for watching take care and we
+
+366
+00:07:23,629 --> 00:07:23,639
+too thanks for watching take care and we
+ 
+
+367
+00:07:23,639 --> 00:07:25,469
+too thanks for watching take care and we
+will see you soon with more basics of
+
+368
+00:07:25,469 --> 00:07:25,479
+will see you soon with more basics of
+ 
+
+369
+00:07:25,479 --> 00:07:28,479
+will see you soon with more basics of
+Pathfinder
+

@@ -1,0 +1,4474 @@
+1
+00:00:00,659 --> 00:00:02,840
+
+Hola y bienvenidos a "Fundamentos para jugadores" que
+
+2
+00:00:02,840 --> 00:00:02,850
+Hola y bienvenidos a "Fundamentos para jugadores" que
+ 
+
+3
+00:00:02,850 --> 00:00:05,090
+Hola y bienvenidos a "Fundamentos para jugadores" que
+presenta los roles de contraataque en
+
+4
+00:00:05,090 --> 00:00:05,100
+presenta los roles de contraataque en
+ 
+
+5
+00:00:05,100 --> 00:00:07,580
+presenta los roles de contraataque en
+Pathfinder 2.ª edición. Este video
+
+6
+00:00:07,580 --> 00:00:07,590
+Pathfinder 2.ª edición. Este video
+ 
+
+7
+00:00:07,590 --> 00:00:09,020
+Pathfinder 2.ª edición. Este video
+contiene parte de la información que
+
+8
+00:00:09,020 --> 00:00:09,030
+contiene parte de la información que
+ 
+
+9
+00:00:09,030 --> 00:00:11,780
+contiene parte de la información que
+se compartió en nuestro video sobre peligros, así que,
+
+10
+00:00:11,780 --> 00:00:11,790
+se compartió en nuestro video sobre peligros, así que,
+ 
+
+11
+00:00:11,790 --> 00:00:14,390
+se compartió en nuestro video sobre peligros, así que,
+aunque definitivamente no es necesario
+
+12
+00:00:14,390 --> 00:00:14,400
+aunque definitivamente no es necesario
+ 
+
+13
+00:00:14,400 --> 00:00:16,460
+aunque definitivamente no es necesario
+ver ese video primero, ya que la
+
+14
+00:00:16,460 --> 00:00:16,470
+ver ese video primero, ya que la
+ 
+
+15
+00:00:16,470 --> 00:00:17,839
+ver ese video primero, ya que la
+información en este video es "Destiny" y por sí
+
+16
+00:00:17,839 --> 00:00:17,849
+información en este video es "Destiny" y por sí
+ 
+
+17
+00:00:17,849 --> 00:00:19,909
+información en este video es "Destiny" y por sí
+sola, es posible que desees revisarlo de todos
+
+18
+00:00:19,909 --> 00:00:19,919
+sola, es posible que desees revisarlo de todos
+ 
+
+19
+00:00:19,919 --> 00:00:22,009
+sola, es posible que desees revisarlo de todos
+modos solo para ver cómo
+
+20
+00:00:22,009 --> 00:00:22,019
+modos solo para ver cómo
+ 
+
+21
+00:00:22,019 --> 00:00:25,880
+modos solo para ver cómo
+funciona el contraataque contra las trampas mágicas. El
+
+22
+00:00:25,880 --> 00:00:25,890
+
+ 
+
+23
+00:00:25,890 --> 00:00:28,250
+
+contraataque ocurre cuando un efecto
+
+24
+00:00:28,250 --> 00:00:28,260
+contraataque ocurre cuando un efecto
+ 
+
+25
+00:00:28,260 --> 00:00:31,280
+contraataque ocurre cuando un efecto
+intenta deshacer otro efecto. Algunos
+
+26
+00:00:31,280 --> 00:00:31,290
+intenta deshacer otro efecto. Algunos
+ 
+
+27
+00:00:31,290 --> 00:00:33,200
+intenta deshacer otro efecto. Algunos
+ejemplos podrían incluir beber una
+
+28
+00:00:33,200 --> 00:00:33,210
+ejemplos podrían incluir beber una
+ 
+
+29
+00:00:33,210 --> 00:00:36,140
+ejemplos podrían incluir beber una
+poción de panacea para curar una enfermedad, lanzar una
+
+30
+00:00:36,140 --> 00:00:36,150
+poción de panacea para curar una enfermedad, lanzar una
+ 
+
+31
+00:00:36,150 --> 00:00:38,420
+poción de panacea para curar una enfermedad, lanzar una
+bendición a un aliado para eliminar el
+
+32
+00:00:38,420 --> 00:00:38,430
+bendición a un aliado para eliminar el
+ 
+
+33
+00:00:38,430 --> 00:00:41,150
+bendición a un aliado para eliminar el
+efecto de perdición o desarmar una
+
+34
+00:00:41,150 --> 00:00:41,160
+efecto de perdición o desarmar una
+ 
+
+35
+00:00:41,160 --> 00:00:42,920
+efecto de perdición o desarmar una
+trampa mágica lanzando disipar magia sobre ella.
+
+36
+00:00:42,920 --> 00:00:42,930
+trampa mágica lanzando disipar magia sobre ella.
+ 
+
+37
+00:00:42,930 --> 00:00:45,260
+trampa mágica lanzando disipar magia sobre ella.
+Aunque hay algunas circunstancias diferentes en las que se
+
+38
+00:00:45,260 --> 00:00:47,000
+Aunque hay algunas circunstancias diferentes en las que se
+ 
+
+39
+00:00:47,000 --> 00:00:47,010
+
+ 
+
+40
+00:00:47,010 --> 00:00:49,450
+
+usa el contraataque, todas siguen el mismo
+
+41
+00:00:49,450 --> 00:00:49,460
+usa el contraataque, todas siguen el mismo
+ 
+
+42
+00:00:49,460 --> 00:00:52,760
+usa el contraataque, todas siguen el mismo
+proceso general. Hay cinco piezas de
+
+43
+00:00:52,760 --> 00:00:52,770
+proceso general. Hay cinco piezas de
+ 
+
+44
+00:00:52,770 --> 00:00:54,350
+proceso general. Hay cinco piezas de
+información que necesitarás cuando
+
+45
+00:00:54,350 --> 00:00:54,360
+información que necesitarás cuando
+ 
+
+46
+00:00:54,360 --> 00:00:56,930
+información que necesitarás cuando
+intentes contrarrestar algo. La
+
+47
+00:00:56,930 --> 00:00:56,940
+intentes contrarrestar algo. La
+ 
+
+48
+00:00:56,940 --> 00:00:58,760
+intentes contrarrestar algo. La
+primera es que el personaje que intenta
+
+49
+00:00:58,760 --> 00:00:58,770
+primera es que el personaje que intenta
+ 
+
+50
+00:00:58,770 --> 00:01:01,550
+primera es que el personaje que intenta
+contrarrestar debe tener una habilidad, un
+
+51
+00:01:01,550 --> 00:01:01,560
+contrarrestar debe tener una habilidad, un
+ 
+
+52
+00:01:01,560 --> 00:01:04,249
+contrarrestar debe tener una habilidad, un
+objeto o alguna otra característica que
+
+53
+00:01:04,249 --> 00:01:04,259
+objeto o alguna otra característica que
+ 
+
+54
+00:01:04,259 --> 00:01:06,920
+objeto o alguna otra característica que
+le otorgue el poder de contrarrestar el
+
+55
+00:01:06,920 --> 00:01:06,930
+le otorgue el poder de contrarrestar el
+ 
+
+56
+00:01:06,930 --> 00:01:09,650
+le otorgue el poder de contrarrestar el
+efecto objetivo. El personaje también
+
+57
+00:01:09,650 --> 00:01:09,660
+efecto objetivo. El personaje también
+ 
+
+58
+00:01:09,660 --> 00:01:11,330
+efecto objetivo. El personaje también
+necesitará saber cuál
+
+59
+00:01:11,330 --> 00:01:11,340
+necesitará saber cuál
+ 
+
+60
+00:01:11,340 --> 00:01:13,940
+necesitará saber cuál
+es su modificador de contraataque y cuál es su
+
+61
+00:01:13,940 --> 00:01:13,950
+es su modificador de contraataque y cuál es su
+ 
+
+62
+00:01:13,950 --> 00:01:17,389
+es su modificador de contraataque y cuál es su
+nivel de contraataque. El DM necesitará saber los
+
+63
+00:01:17,389 --> 00:01:17,399
+nivel de contraataque. El DM necesitará saber los
+ 
+
+64
+00:01:17,399 --> 00:01:20,600
+nivel de contraataque. El DM necesitará saber los
+efectos objetivo. Contrarrestar  La CD y el
+
+65
+00:01:20,600 --> 00:01:20,610
+efectos objetivo. Contrarrestar  La CD y el
+ 
+
+66
+00:01:20,610 --> 00:01:24,139
+efectos objetivo. Contrarrestar  La CD y el
+nivel de contrarresto de los efectos objetivo cuando un
+
+67
+00:01:24,139 --> 00:01:24,149
+nivel de contrarresto de los efectos objetivo cuando un
+ 
+
+68
+00:01:24,149 --> 00:01:25,850
+nivel de contrarresto de los efectos objetivo cuando un
+personaje intenta contrarrestar en
+
+69
+00:01:25,850 --> 00:01:25,860
+personaje intenta contrarrestar en
+ 
+
+70
+00:01:25,860 --> 00:01:28,430
+personaje intenta contrarrestar en
+efecto, realiza una tirada de contrarresto
+
+71
+00:01:28,430 --> 00:01:28,440
+efecto, realiza una tirada de contrarresto
+ 
+
+72
+00:01:28,440 --> 00:01:30,740
+efecto, realiza una tirada de contrarresto
+que es un día 20 más su
+
+73
+00:01:30,740 --> 00:01:30,750
+que es un día 20 más su
+ 
+
+74
+00:01:30,750 --> 00:01:34,070
+que es un día 20 más su
+modificador de contrarresto, ese total se
+
+75
+00:01:34,070 --> 00:01:34,080
+modificador de contrarresto, ese total se
+ 
+
+76
+00:01:34,080 --> 00:01:35,899
+modificador de contrarresto, ese total se
+compara entonces con la
+
+77
+00:01:35,899 --> 00:01:35,909
+compara entonces con la
+ 
+
+78
+00:01:35,909 --> 00:01:38,930
+compara entonces con la
+CD de contrarresto de los efectos objetivo como cualquier otra tirada
+
+79
+00:01:38,930 --> 00:01:38,940
+CD de contrarresto de los efectos objetivo como cualquier otra tirada
+ 
+
+80
+00:01:38,940 --> 00:01:40,940
+CD de contrarresto de los efectos objetivo como cualquier otra tirada
+en el juego excepto que el
+
+81
+00:01:40,940 --> 00:01:40,950
+en el juego excepto que el
+ 
+
+82
+00:01:40,950 --> 00:01:43,039
+en el juego excepto que el
+resultado final depende de la diferencia entre
+
+83
+00:01:43,039 --> 00:01:43,049
+resultado final depende de la diferencia entre
+ 
+
+84
+00:01:43,049 --> 00:01:46,160
+resultado final depende de la diferencia entre
+el nivel de contrarresto del objetivo y el
+
+85
+00:01:46,160 --> 00:01:46,170
+el nivel de contrarresto del objetivo y el
+ 
+
+86
+00:01:46,170 --> 00:01:49,310
+el nivel de contrarresto del objetivo y el
+nivel de contrarresto del personaje piénsalo de esta
+
+87
+00:01:49,310 --> 00:01:49,320
+nivel de contrarresto del personaje piénsalo de esta
+ 
+
+88
+00:01:49,320 --> 00:01:52,010
+nivel de contrarresto del personaje piénsalo de esta
+manera tienes un cubo de agua y
+
+89
+00:01:52,010 --> 00:01:52,020
+manera tienes un cubo de agua y
+ 
+
+90
+00:01:52,020 --> 00:01:54,230
+manera tienes un cubo de agua y
+quieres apagar una fogata cuanto más
+
+91
+00:01:54,230 --> 00:01:54,240
+quieres apagar una fogata cuanto más
+ 
+
+92
+00:01:54,240 --> 00:01:57,080
+quieres apagar una fogata cuanto más
+grande sea el fuego mayor será el
+
+93
+00:01:57,080 --> 00:01:57,090
+grande sea el fuego mayor será el
+ 
+
+94
+00:01:57,090 --> 00:02:01,130
+grande sea el fuego mayor será el
+nivel de contrarresto y la CD de contrarresto
+
+95
+00:02:01,130 --> 00:02:01,140
+nivel de contrarresto y la CD de contrarresto
+ 
+
+96
+00:02:01,140 --> 00:02:02,899
+nivel de contrarresto y la CD de contrarresto
+intentas apagar el fuego con tu cubo
+
+97
+00:02:02,899 --> 00:02:02,909
+intentas apagar el fuego con tu cubo
+ 
+
+98
+00:02:02,909 --> 00:02:06,770
+intentas apagar el fuego con tu cubo
+de agua y realizas una tirada de contrarresto el
+
+99
+00:02:06,770 --> 00:02:06,780
+de agua y realizas una tirada de contrarresto el
+ 
+
+100
+00:02:06,780 --> 00:02:09,380
+de agua y realizas una tirada de contrarresto el
+total de esa tirada representa tu puntería ¿
+
+101
+00:02:09,380 --> 00:02:09,390
+total de esa tirada representa tu puntería ¿
+ 
+
+102
+00:02:09,390 --> 00:02:12,050
+total de esa tirada representa tu puntería ¿
+fuiste capaz de arrojar el agua al
+
+103
+00:02:12,050 --> 00:02:12,060
+fuiste capaz de arrojar el agua al
+ 
+
+104
+00:02:12,060 --> 00:02:15,110
+fuiste capaz de arrojar el agua al
+fuego o tal vez verterla con mucha
+
+105
+00:02:15,110 --> 00:02:15,120
+fuego o tal vez verterla con mucha
+ 
+
+106
+00:02:15,120 --> 00:02:18,530
+fuego o tal vez verterla con mucha
+habilidad o tropezaste y fallaste
+
+107
+00:02:18,530 --> 00:02:18,540
+habilidad o tropezaste y fallaste
+ 
+
+108
+00:02:18,540 --> 00:02:21,140
+habilidad o tropezaste y fallaste
+el fuego por completo? asumiendo que
+
+109
+00:02:21,140 --> 00:02:21,150
+el fuego por completo? asumiendo que
+ 
+
+110
+00:02:21,150 --> 00:02:23,750
+el fuego por completo? asumiendo que
+puedes tener éxito en esa tirada entonces
+
+111
+00:02:23,750 --> 00:02:23,760
+puedes tener éxito en esa tirada entonces
+ 
+
+112
+00:02:23,760 --> 00:02:26,120
+puedes tener éxito en esa tirada entonces
+tienes que preguntarte ¿tengo suficiente
+
+113
+00:02:26,120 --> 00:02:26,130
+tienes que preguntarte ¿tengo suficiente
+ 
+
+114
+00:02:26,130 --> 00:02:29,780
+tienes que preguntarte ¿tengo suficiente
+agua para apagar un fuego de este tamaño? al igual que el
+
+115
+00:02:29,780 --> 00:02:29,790
+agua para apagar un fuego de este tamaño? al igual que el
+ 
+
+116
+00:02:29,790 --> 00:02:32,090
+agua para apagar un fuego de este tamaño? al igual que el
+nivel de contrarresto de una fogata
+
+117
+00:02:32,090 --> 00:02:32,100
+nivel de contrarresto de una fogata
+ 
+
+118
+00:02:32,100 --> 00:02:35,420
+nivel de contrarresto de una fogata
+representa qué tan grande es ese fuego tu
+
+119
+00:02:35,420 --> 00:02:35,430
+representa qué tan grande es ese fuego tu
+ 
+
+120
+00:02:35,430 --> 00:02:37,940
+representa qué tan grande es ese fuego tu
+nivel de contrarresto representa cuánta
+
+121
+00:02:37,940 --> 00:02:37,950
+nivel de contrarresto representa cuánta
+ 
+
+122
+00:02:37,950 --> 00:02:39,930
+nivel de contrarresto representa cuánta
+agua hay en el cubo
+
+123
+00:02:39,930 --> 00:02:39,940
+agua hay en el cubo
+ 
+
+124
+00:02:39,940 --> 00:02:42,600
+agua hay en el cubo
+si solo había una cucharadita de agua en
+
+125
+00:02:42,600 --> 00:02:42,610
+si solo había una cucharadita de agua en
+ 
+
+126
+00:02:42,610 --> 00:02:44,760
+si solo había una cucharadita de agua en
+el cubo entonces tu nivel de contrarresto es
+
+127
+00:02:44,760 --> 00:02:44,770
+el cubo entonces tu nivel de contrarresto es
+ 
+
+128
+00:02:44,770 --> 00:02:47,670
+el cubo entonces tu nivel de contrarresto es
+1 y  si estaba lleno hasta el borde,
+
+129
+00:02:47,670 --> 00:02:47,680
+1 y  si estaba lleno hasta el borde,
+ 
+
+130
+00:02:47,680 --> 00:02:51,570
+1 y  si estaba lleno hasta el borde,
+tal vez ese nivel de contrarrestar sea 8, por lo que será
+
+131
+00:02:51,570 --> 00:02:51,580
+tal vez ese nivel de contrarrestar sea 8, por lo que será
+ 
+
+132
+00:02:51,580 --> 00:02:54,990
+tal vez ese nivel de contrarrestar sea 8, por lo que será
+una combinación de tu
+
+133
+00:02:54,990 --> 00:02:55,000
+una combinación de tu
+ 
+
+134
+00:02:55,000 --> 00:02:57,570
+una combinación de tu
+capacidad para golpear el fuego con el cubo
+
+135
+00:02:57,570 --> 00:02:57,580
+capacidad para golpear el fuego con el cubo
+ 
+
+136
+00:02:57,580 --> 00:03:01,080
+capacidad para golpear el fuego con el cubo
+de agua y una comparación entre el
+
+137
+00:03:01,080 --> 00:03:01,090
+de agua y una comparación entre el
+ 
+
+138
+00:03:01,090 --> 00:03:03,510
+de agua y una comparación entre el
+nivel de contrarrestar de ese fuego en tu
+
+139
+00:03:03,510 --> 00:03:03,520
+nivel de contrarrestar de ese fuego en tu
+ 
+
+140
+00:03:03,520 --> 00:03:05,670
+nivel de contrarrestar de ese fuego en tu
+nivel de contrarrestar que determina el
+
+141
+00:03:05,670 --> 00:03:05,680
+nivel de contrarrestar que determina el
+ 
+
+142
+00:03:05,680 --> 00:03:08,190
+nivel de contrarrestar que determina el
+resultado final del intento de contrarrestar
+
+143
+00:03:08,190 --> 00:03:08,200
+resultado final del intento de contrarrestar
+ 
+
+144
+00:03:08,200 --> 00:03:11,610
+resultado final del intento de contrarrestar
+en una verificación de contrarrestar exitosa,
+
+145
+00:03:11,610 --> 00:03:11,620
+en una verificación de contrarrestar exitosa,
+ 
+
+146
+00:03:11,620 --> 00:03:14,730
+en una verificación de contrarrestar exitosa,
+apagas el fuego si su nivel de contrarrestar
+
+147
+00:03:14,730 --> 00:03:14,740
+apagas el fuego si su nivel de contrarrestar
+ 
+
+148
+00:03:14,740 --> 00:03:17,760
+apagas el fuego si su nivel de contrarrestar
+no es más de 1 más alto que tu
+
+149
+00:03:17,760 --> 00:03:17,770
+no es más de 1 más alto que tu
+ 
+
+150
+00:03:17,770 --> 00:03:20,700
+no es más de 1 más alto que tu
+nivel de contrarrestar en un éxito crítico,
+
+151
+00:03:20,700 --> 00:03:20,710
+nivel de contrarrestar en un éxito crítico,
+ 
+
+152
+00:03:20,710 --> 00:03:23,700
+nivel de contrarrestar en un éxito crítico,
+apagas el fuego si su
+
+153
+00:03:23,700 --> 00:03:23,710
+apagas el fuego si su
+ 
+
+154
+00:03:23,710 --> 00:03:26,730
+apagas el fuego si su
+nivel de contrarrestar no es más de 3 más alto que tu
+
+155
+00:03:26,730 --> 00:03:26,740
+nivel de contrarrestar no es más de 3 más alto que tu
+ 
+
+156
+00:03:26,740 --> 00:03:30,390
+nivel de contrarrestar no es más de 3 más alto que tu
+nivel de contrarrestar en un fallo, todavía
+
+157
+00:03:30,390 --> 00:03:30,400
+nivel de contrarrestar en un fallo, todavía
+ 
+
+158
+00:03:30,400 --> 00:03:33,180
+nivel de contrarrestar en un fallo, todavía
+apagas el fuego si su
+
+159
+00:03:33,180 --> 00:03:33,190
+apagas el fuego si su
+ 
+
+160
+00:03:33,190 --> 00:03:35,940
+apagas el fuego si su
+nivel de contrarrestar es menor que tu
+
+161
+00:03:35,940 --> 00:03:35,950
+nivel de contrarrestar es menor que tu
+ 
+
+162
+00:03:35,950 --> 00:03:39,420
+nivel de contrarrestar es menor que tu
+nivel de contrarrestar y en un fallo crítico
+
+163
+00:03:39,420 --> 00:03:39,430
+nivel de contrarrestar y en un fallo crítico
+ 
+
+164
+00:03:39,430 --> 00:03:41,910
+nivel de contrarrestar y en un fallo crítico
+no apagas el fuego no importa cuán grande sea
+
+165
+00:03:41,910 --> 00:03:41,920
+no apagas el fuego no importa cuán grande sea
+ 
+
+166
+00:03:41,920 --> 00:03:45,510
+no apagas el fuego no importa cuán grande sea
+tu cubo de agua obviamente eso
+
+167
+00:03:45,510 --> 00:03:45,520
+tu cubo de agua obviamente eso
+ 
+
+168
+00:03:45,520 --> 00:03:47,310
+tu cubo de agua obviamente eso
+fue solo con fines ilustrativos y
+
+169
+00:03:47,310 --> 00:03:47,320
+fue solo con fines ilustrativos y
+ 
+
+170
+00:03:47,320 --> 00:03:49,530
+fue solo con fines ilustrativos y
+tu DM probablemente no te pedirá que hagas una
+
+171
+00:03:49,530 --> 00:03:49,540
+tu DM probablemente no te pedirá que hagas una
+ 
+
+172
+00:03:49,540 --> 00:03:51,240
+tu DM probablemente no te pedirá que hagas una
+verificación de contrarrestar para apagar
+
+173
+00:03:51,240 --> 00:03:51,250
+verificación de contrarrestar para apagar
+ 
+
+174
+00:03:51,250 --> 00:03:53,310
+verificación de contrarrestar para apagar
+la fogata de luto, pero ese ejemplo
+
+175
+00:03:53,310 --> 00:03:53,320
+la fogata de luto, pero ese ejemplo
+ 
+
+176
+00:03:53,320 --> 00:03:55,710
+la fogata de luto, pero ese ejemplo
+debería proporcionar una base de
+
+177
+00:03:55,710 --> 00:03:55,720
+debería proporcionar una base de
+ 
+
+178
+00:03:55,720 --> 00:03:58,830
+debería proporcionar una base de
+cómo funciona esto, los
+
+179
+00:03:58,830 --> 00:03:58,840
+
+ 
+
+180
+00:03:58,840 --> 00:04:01,770
+
+modificadores de niveles de contrarrestar y las CD a menudo se
+
+181
+00:04:01,770 --> 00:04:01,780
+modificadores de niveles de contrarrestar y las CD a menudo se
+ 
+
+182
+00:04:01,780 --> 00:04:04,680
+modificadores de niveles de contrarrestar y las CD a menudo se
+proporcionan, pero a veces
+
+183
+00:04:04,680 --> 00:04:04,690
+proporcionan, pero a veces
+ 
+
+184
+00:04:04,690 --> 00:04:06,740
+proporcionan, pero a veces
+necesitarás calcularlos por ti mismo, en términos generales,
+
+185
+00:04:06,740 --> 00:04:06,750
+necesitarás calcularlos por ti mismo, en términos generales,
+ 
+
+186
+00:04:06,750 --> 00:04:09,390
+necesitarás calcularlos por ti mismo, en términos generales,
+si el efecto que se
+
+187
+00:04:09,390 --> 00:04:09,400
+si el efecto que se
+ 
+
+188
+00:04:09,400 --> 00:04:11,970
+si el efecto que se
+contrarresta es un  La aflicción entonces es la
+
+189
+00:04:11,970 --> 00:04:11,980
+contrarresta es un  La aflicción entonces es la
+ 
+
+190
+00:04:11,980 --> 00:04:14,940
+contrarresta es un  La aflicción entonces es la
+CD de contrarrestar y el nivel probablemente se
+
+191
+00:04:14,940 --> 00:04:14,950
+CD de contrarrestar y el nivel probablemente se
+ 
+
+192
+00:04:14,950 --> 00:04:16,949
+CD de contrarrestar y el nivel probablemente se
+enumerará en ese bloque de paso de aflicción y
+
+193
+00:04:16,949 --> 00:04:16,959
+enumerará en ese bloque de paso de aflicción y
+ 
+
+194
+00:04:16,959 --> 00:04:19,379
+enumerará en ese bloque de paso de aflicción y
+si estás usando un objeto para contrarrestar,
+
+195
+00:04:19,379 --> 00:04:19,389
+si estás usando un objeto para contrarrestar,
+ 
+
+196
+00:04:19,389 --> 00:04:21,780
+si estás usando un objeto para contrarrestar,
+como una vara de negación, a
+
+197
+00:04:21,780 --> 00:04:21,790
+como una vara de negación, a
+ 
+
+198
+00:04:21,790 --> 00:04:23,460
+como una vara de negación, a
+menudo te dirá cuál será tu contador en el
+
+199
+00:04:23,460 --> 00:04:23,470
+menudo te dirá cuál será tu contador en el
+ 
+
+200
+00:04:23,470 --> 00:04:25,200
+menudo te dirá cuál será tu contador en el
+nivel y el modificador para esa
+
+201
+00:04:25,200 --> 00:04:25,210
+nivel y el modificador para esa
+ 
+
+202
+00:04:25,210 --> 00:04:28,110
+nivel y el modificador para esa
+verificación, pero la mayoría de las veces
+
+203
+00:04:28,110 --> 00:04:28,120
+verificación, pero la mayoría de las veces
+ 
+
+204
+00:04:28,120 --> 00:04:30,090
+verificación, pero la mayoría de las veces
+necesitarás calcularlos por tu cuenta
+
+205
+00:04:30,090 --> 00:04:30,100
+necesitarás calcularlos por tu cuenta
+ 
+
+206
+00:04:30,100 --> 00:04:33,240
+necesitarás calcularlos por tu cuenta
+cuando haya hechizos involucrados y la buena
+
+207
+00:04:33,240 --> 00:04:33,250
+cuando haya hechizos involucrados y la buena
+ 
+
+208
+00:04:33,250 --> 00:04:35,790
+cuando haya hechizos involucrados y la buena
+noticia es que no es terriblemente difícil de hacer
+
+209
+00:04:35,790 --> 00:04:35,800
+noticia es que no es terriblemente difícil de hacer
+ 
+
+210
+00:04:35,800 --> 00:04:38,790
+noticia es que no es terriblemente difícil de hacer
+si el efecto que estás contrarrestando es
+
+211
+00:04:38,790 --> 00:04:38,800
+si el efecto que estás contrarrestando es
+ 
+
+212
+00:04:38,800 --> 00:04:43,170
+si el efecto que estás contrarrestando es
+expulsar, que es la CD de contrarrestar es la misma
+
+213
+00:04:43,170 --> 00:04:43,180
+expulsar, que es la CD de contrarrestar es la misma
+ 
+
+214
+00:04:43,180 --> 00:04:45,990
+expulsar, que es la CD de contrarrestar es la misma
+que la CD del hechizo de la persona que lo lanzó.
+
+215
+00:04:45,990 --> 00:04:46,000
+que la CD del hechizo de la persona que lo lanzó.
+ 
+
+216
+00:04:46,000 --> 00:04:48,600
+que la CD del hechizo de la persona que lo lanzó.
+Si estás usando un bloque de paso oficial
+
+217
+00:04:48,600 --> 00:04:48,610
+Si estás usando un bloque de paso oficial
+ 
+
+218
+00:04:48,610 --> 00:04:50,430
+Si estás usando un bloque de paso oficial
+de una de las aventuras polacas,
+
+219
+00:04:50,430 --> 00:04:50,440
+de una de las aventuras polacas,
+ 
+
+220
+00:04:50,440 --> 00:04:52,830
+de una de las aventuras polacas,
+entonces el trabajo está hecho para ti y la
+
+221
+00:04:52,830 --> 00:04:52,840
+entonces el trabajo está hecho para ti y la
+ 
+
+222
+00:04:52,840 --> 00:04:54,900
+entonces el trabajo está hecho para ti y la
+CD del hechizo debería aparecer allí para ese
+
+223
+00:04:54,900 --> 00:04:54,910
+CD del hechizo debería aparecer allí para ese
+ 
+
+224
+00:04:54,910 --> 00:04:58,260
+CD del hechizo debería aparecer allí para ese
+personaje que lanza; si no, entonces la
+
+225
+00:04:58,260 --> 00:04:58,270
+personaje que lanza; si no, entonces la
+ 
+
+226
+00:04:58,270 --> 00:05:02,010
+personaje que lanza; si no, entonces la
+CD del hechizo base se calcula como 10 más el
+
+227
+00:05:02,010 --> 00:05:02,020
+CD del hechizo base se calcula como 10 más el
+ 
+
+228
+00:05:02,020 --> 00:05:04,260
+CD del hechizo base se calcula como 10 más el
+modificador de habilidad clave usado para el
+
+229
+00:05:04,260 --> 00:05:04,270
+modificador de habilidad clave usado para el
+ 
+
+230
+00:05:04,270 --> 00:05:06,630
+modificador de habilidad clave usado para el
+lanzamiento de hechizos, por ejemplo, inteligencia para
+
+231
+00:05:06,630 --> 00:05:06,640
+lanzamiento de hechizos, por ejemplo, inteligencia para
+ 
+
+232
+00:05:06,640 --> 00:05:09,120
+lanzamiento de hechizos, por ejemplo, inteligencia para
+magos, sabiduría para clérigos o carisma
+
+233
+00:05:09,120 --> 00:05:09,130
+magos, sabiduría para clérigos o carisma
+ 
+
+234
+00:05:09,130 --> 00:05:12,090
+magos, sabiduría para clérigos o carisma
+para hechiceros y luego más ese bono de
+
+235
+00:05:12,090 --> 00:05:12,100
+para hechiceros y luego más ese bono de
+ 
+
+236
+00:05:12,100 --> 00:05:14,070
+para hechiceros y luego más ese bono de
+competencia de lanzamiento de hechizos del personaje.
+
+237
+00:05:14,070 --> 00:05:14,080
+competencia de lanzamiento de hechizos del personaje.
+ 
+
+238
+00:05:14,080 --> 00:05:17,790
+competencia de lanzamiento de hechizos del personaje.
+El modificador de contrarrestar base del
+
+239
+00:05:17,790 --> 00:05:17,800
+El modificador de contrarrestar base del
+ 
+
+240
+00:05:17,800 --> 00:05:19,800
+El modificador de contrarrestar base del
+personaje que intenta contrarrestar
+
+241
+00:05:19,800 --> 00:05:19,810
+personaje que intenta contrarrestar
+ 
+
+242
+00:05:19,810 --> 00:05:23,159
+personaje que intenta contrarrestar
+el efecto usando un hechizo es su
+
+243
+00:05:23,159 --> 00:05:23,169
+el efecto usando un hechizo es su
+ 
+
+244
+00:05:23,169 --> 00:05:25,560
+el efecto usando un hechizo es su
+modificador de habilidad de lanzamiento de hechizos más su
+
+245
+00:05:25,560 --> 00:05:25,570
+modificador de habilidad de lanzamiento de hechizos más su
+ 
+
+246
+00:05:25,570 --> 00:05:27,960
+modificador de habilidad de lanzamiento de hechizos más su
+bono de competencia, esencialmente esto  es
+
+247
+00:05:27,960 --> 00:05:27,970
+bono de competencia, esencialmente esto  es
+ 
+
+248
+00:05:27,970 --> 00:05:30,200
+bono de competencia, esencialmente esto  es
+lo mismo que su bonificación de ataque de hechizo
+
+249
+00:05:30,200 --> 00:05:30,210
+lo mismo que su bonificación de ataque de hechizo
+ 
+
+250
+00:05:30,210 --> 00:05:32,370
+lo mismo que su bonificación de ataque de hechizo
+excepto que los cambios de contrarrestar solo se
+
+251
+00:05:32,370 --> 00:05:32,380
+excepto que los cambios de contrarrestar solo se
+ 
+
+252
+00:05:32,380 --> 00:05:34,379
+excepto que los cambios de contrarrestar solo se
+modifican por cosas que
+
+253
+00:05:34,379 --> 00:05:34,389
+modifican por cosas que
+ 
+
+254
+00:05:34,389 --> 00:05:37,320
+modifican por cosas que
+establecen específicamente que modifican las verificaciones de contrarrestar
+
+255
+00:05:37,320 --> 00:05:37,330
+establecen específicamente que modifican las verificaciones de contrarrestar
+ 
+
+256
+00:05:37,330 --> 00:05:40,409
+establecen específicamente que modifican las verificaciones de contrarrestar
+y no se modifican por ningún efecto que
+
+257
+00:05:40,409 --> 00:05:40,419
+y no se modifican por ningún efecto que
+ 
+
+258
+00:05:40,419 --> 00:05:42,900
+y no se modifican por ningún efecto que
+otorgaría una bonificación o una penalización a una
+
+259
+00:05:42,900 --> 00:05:42,910
+otorgaría una bonificación o una penalización a una
+ 
+
+260
+00:05:42,910 --> 00:05:45,230
+otorgaría una bonificación o una penalización a una
+función de ataque de hechizo
+
+261
+00:05:45,230 --> 00:05:45,240
+función de ataque de hechizo
+ 
+
+262
+00:05:45,240 --> 00:05:47,689
+función de ataque de hechizo
+y el nivel de contrarrestar es igual al
+
+263
+00:05:47,689 --> 00:05:47,699
+y el nivel de contrarrestar es igual al
+ 
+
+264
+00:05:47,699 --> 00:05:50,749
+y el nivel de contrarrestar es igual al
+espacio de hechizo usado para lanzar el hechizo, así que si
+
+265
+00:05:50,749 --> 00:05:50,759
+espacio de hechizo usado para lanzar el hechizo, así que si
+ 
+
+266
+00:05:50,759 --> 00:05:53,480
+espacio de hechizo usado para lanzar el hechizo, así que si
+el efecto a contrarrestar es de un
+
+267
+00:05:53,480 --> 00:05:53,490
+el efecto a contrarrestar es de un
+ 
+
+268
+00:05:53,490 --> 00:05:56,930
+el efecto a contrarrestar es de un
+hechizo de tercer nivel, entonces su
+
+269
+00:05:56,930 --> 00:05:56,940
+hechizo de tercer nivel, entonces su
+ 
+
+270
+00:05:56,940 --> 00:05:59,420
+hechizo de tercer nivel, entonces su
+nivel de contrarrestar también será tres a menos que ese
+
+271
+00:05:59,420 --> 00:05:59,430
+nivel de contrarrestar también será tres a menos que ese
+ 
+
+272
+00:05:59,430 --> 00:06:01,370
+nivel de contrarrestar también será tres a menos que ese
+hechizo se incremente y se lance a un
+
+273
+00:06:01,370 --> 00:06:01,380
+hechizo se incremente y se lance a un
+ 
+
+274
+00:06:01,380 --> 00:06:03,680
+hechizo se incremente y se lance a un
+nivel superior, en cuyo caso usas ese
+
+275
+00:06:03,680 --> 00:06:03,690
+nivel superior, en cuyo caso usas ese
+ 
+
+276
+00:06:03,690 --> 00:06:05,960
+nivel superior, en cuyo caso usas ese
+nivel aumentado como nivel de contrarrestar
+
+277
+00:06:05,960 --> 00:06:05,970
+nivel aumentado como nivel de contrarrestar
+ 
+
+278
+00:06:05,970 --> 00:06:08,210
+nivel aumentado como nivel de contrarrestar
+y los viajes de lata se
+
+279
+00:06:08,210 --> 00:06:08,220
+y los viajes de lata se
+ 
+
+280
+00:06:08,220 --> 00:06:10,700
+y los viajes de lata se
+incrementan automáticamente a la mitad del nivel del lanzador a su alrededor,
+
+281
+00:06:10,700 --> 00:06:10,710
+incrementan automáticamente a la mitad del nivel del lanzador a su alrededor,
+ 
+
+282
+00:06:10,710 --> 00:06:13,129
+incrementan automáticamente a la mitad del nivel del lanzador a su alrededor,
+así que usarías eso como el
+
+283
+00:06:13,129 --> 00:06:13,139
+así que usarías eso como el
+ 
+
+284
+00:06:13,139 --> 00:06:15,770
+así que usarías eso como el
+nivel de contrarrestar de los viajes de K incluso aunque
+
+285
+00:06:15,770 --> 00:06:15,780
+nivel de contrarrestar de los viajes de K incluso aunque
+ 
+
+286
+00:06:15,780 --> 00:06:17,719
+nivel de contrarrestar de los viajes de K incluso aunque
+no se consuma un hechizo de [ __ ] cuando lo
+
+287
+00:06:17,719 --> 00:06:17,729
+no se consuma un hechizo de [ __ ] cuando lo
+ 
+
+288
+00:06:17,729 --> 00:06:21,350
+no se consuma un hechizo de [ __ ] cuando lo
+lanzas y si no se proporciona un nivel de contrarrestar,
+
+289
+00:06:21,350 --> 00:06:21,360
+lanzas y si no se proporciona un nivel de contrarrestar,
+ 
+
+290
+00:06:21,360 --> 00:06:23,689
+lanzas y si no se proporciona un nivel de contrarrestar,
+puedes calcularlo
+
+291
+00:06:23,689 --> 00:06:23,699
+puedes calcularlo
+ 
+
+292
+00:06:23,699 --> 00:06:26,659
+puedes calcularlo
+como la mitad del nivel de la criatura u
+
+293
+00:06:26,659 --> 00:06:26,669
+como la mitad del nivel de la criatura u
+ 
+
+294
+00:06:26,669 --> 00:06:28,760
+como la mitad del nivel de la criatura u
+objeto que proporciona el efecto de contrarrestar
+
+295
+00:06:28,760 --> 00:06:28,770
+objeto que proporciona el efecto de contrarrestar
+ 
+
+296
+00:06:28,770 --> 00:06:32,689
+objeto que proporciona el efecto de contrarrestar
+redondearlo hacia arriba bien, ahora que conocemos el
+
+297
+00:06:32,689 --> 00:06:32,699
+redondearlo hacia arriba bien, ahora que conocemos el
+ 
+
+298
+00:06:32,699 --> 00:06:35,210
+redondearlo hacia arriba bien, ahora que conocemos el
+proceso y cómo calcular las cifras
+
+299
+00:06:35,210 --> 00:06:35,220
+proceso y cómo calcular las cifras
+ 
+
+300
+00:06:35,220 --> 00:06:37,460
+proceso y cómo calcular las cifras
+que se necesitan, haz una lista para ver cómo encaja todo esto
+
+301
+00:06:37,460 --> 00:06:37,470
+que se necesitan, haz una lista para ver cómo encaja todo esto
+ 
+
+302
+00:06:37,470 --> 00:06:41,200
+que se necesitan, haz una lista para ver cómo encaja todo esto
+con algunos ejemplos
+
+303
+00:06:41,200 --> 00:06:41,210
+con algunos ejemplos
+ 
+
+304
+00:06:41,210 --> 00:06:43,659
+con algunos ejemplos
+en nuestro primer ejemplo tenemos un
+
+305
+00:06:43,659 --> 00:06:43,669
+en nuestro primer ejemplo tenemos un
+ 
+
+306
+00:06:43,669 --> 00:06:47,110
+en nuestro primer ejemplo tenemos un
+hechicero Hobgoblin y Ezrin el mago el
+
+307
+00:06:47,110 --> 00:06:47,120
+hechicero Hobgoblin y Ezrin el mago el
+ 
+
+308
+00:06:47,120 --> 00:06:50,080
+hechicero Hobgoblin y Ezrin el mago el
+Hobgoblin  su tercer nivel tiene una
+
+309
+00:06:50,080 --> 00:06:50,090
+Hobgoblin  su tercer nivel tiene una
+ 
+
+310
+00:06:50,090 --> 00:06:53,379
+Hobgoblin  su tercer nivel tiene una
+puntuación de carisma de 14 y competencia entrenada en el
+
+311
+00:06:53,379 --> 00:06:53,389
+puntuación de carisma de 14 y competencia entrenada en el
+ 
+
+312
+00:06:53,389 --> 00:06:56,620
+puntuación de carisma de 14 y competencia entrenada en el
+lanzamiento de conjuros arcanos ezrin es un
+
+313
+00:06:56,620 --> 00:06:56,630
+lanzamiento de conjuros arcanos ezrin es un
+ 
+
+314
+00:06:56,630 --> 00:06:59,020
+lanzamiento de conjuros arcanos ezrin es un
+mago de quinto nivel tiene una puntuación de inteligencia de
+
+315
+00:06:59,020 --> 00:06:59,030
+mago de quinto nivel tiene una puntuación de inteligencia de
+ 
+
+316
+00:06:59,030 --> 00:07:02,200
+mago de quinto nivel tiene una puntuación de inteligencia de
+19 y competencia entrenada en el
+
+317
+00:07:02,200 --> 00:07:02,210
+19 y competencia entrenada en el
+ 
+
+318
+00:07:02,210 --> 00:07:04,719
+19 y competencia entrenada en el
+lanzamiento de conjuros arcanos también tiene la dote de
+
+319
+00:07:04,719 --> 00:07:04,729
+lanzamiento de conjuros arcanos también tiene la dote de
+ 
+
+320
+00:07:04,729 --> 00:07:08,529
+lanzamiento de conjuros arcanos también tiene la dote de
+contrahechizo contrahechizo permite a un
+
+321
+00:07:08,529 --> 00:07:08,539
+contrahechizo contrahechizo permite a un
+ 
+
+322
+00:07:08,539 --> 00:07:10,779
+contrahechizo contrahechizo permite a un
+personaje girar su reacción para
+
+323
+00:07:10,779 --> 00:07:10,789
+personaje girar su reacción para
+ 
+
+324
+00:07:10,789 --> 00:07:13,570
+personaje girar su reacción para
+agotar uno de sus conjuros para
+
+325
+00:07:13,570 --> 00:07:13,580
+agotar uno de sus conjuros para
+ 
+
+326
+00:07:13,580 --> 00:07:15,520
+agotar uno de sus conjuros para
+contrarrestar el lanzamiento de conjuros de otra
+
+327
+00:07:15,520 --> 00:07:15,530
+contrarrestar el lanzamiento de conjuros de otra
+ 
+
+328
+00:07:15,530 --> 00:07:18,520
+contrarrestar el lanzamiento de conjuros de otra
+criatura pero el truco es que tiene que ser
+
+329
+00:07:18,520 --> 00:07:18,530
+criatura pero el truco es que tiene que ser
+ 
+
+330
+00:07:18,530 --> 00:07:21,969
+criatura pero el truco es que tiene que ser
+el mismo conjuro así que cuando el hobgoblin
+
+331
+00:07:21,969 --> 00:07:21,979
+el mismo conjuro así que cuando el hobgoblin
+ 
+
+332
+00:07:21,979 --> 00:07:24,430
+el mismo conjuro así que cuando el hobgoblin
+empieza a lanzar proyectil mágico ezrin
+
+333
+00:07:24,430 --> 00:07:24,440
+empieza a lanzar proyectil mágico ezrin
+ 
+
+334
+00:07:24,440 --> 00:07:26,950
+empieza a lanzar proyectil mágico ezrin
+usa inmediatamente su reacción para contrarrestar
+
+335
+00:07:26,950 --> 00:07:26,960
+usa inmediatamente su reacción para contrarrestar
+ 
+
+336
+00:07:26,960 --> 00:07:30,730
+usa inmediatamente su reacción para contrarrestar
+lanzando su propio conjuro de proyectil mágico
+
+337
+00:07:30,730 --> 00:07:30,740
+lanzando su propio conjuro de proyectil mágico
+ 
+
+338
+00:07:30,740 --> 00:07:32,950
+lanzando su propio conjuro de proyectil mágico
+tiene proyectil mágico preparado usando un
+
+339
+00:07:32,950 --> 00:07:32,960
+tiene proyectil mágico preparado usando un
+ 
+
+340
+00:07:32,960 --> 00:07:35,710
+tiene proyectil mágico preparado usando un
+espacio de conjuro de primer nivel y lo gasta como parte
+
+341
+00:07:35,710 --> 00:07:35,720
+espacio de conjuro de primer nivel y lo gasta como parte
+ 
+
+342
+00:07:35,720 --> 00:07:38,290
+espacio de conjuro de primer nivel y lo gasta como parte
+de su reacción de contrahechizo si
+
+343
+00:07:38,290 --> 00:07:38,300
+de su reacción de contrahechizo si
+ 
+
+344
+00:07:38,300 --> 00:07:40,540
+de su reacción de contrahechizo si
+no tuviera ya proyectil mágico preparado
+
+345
+00:07:40,540 --> 00:07:40,550
+no tuviera ya proyectil mágico preparado
+ 
+
+346
+00:07:40,550 --> 00:07:42,430
+no tuviera ya proyectil mágico preparado
+y listo que no podría
+
+347
+00:07:42,430 --> 00:07:42,440
+y listo que no podría
+ 
+
+348
+00:07:42,440 --> 00:07:45,310
+y listo que no podría
+usar contrahechizo aquí cuando esto sucede
+
+349
+00:07:45,310 --> 00:07:45,320
+usar contrahechizo aquí cuando esto sucede
+ 
+
+350
+00:07:45,320 --> 00:07:47,920
+usar contrahechizo aquí cuando esto sucede
+ezrin agota el conjuro de proyectil mágico preparado
+
+351
+00:07:47,920 --> 00:07:47,930
+ezrin agota el conjuro de proyectil mágico preparado
+ 
+
+352
+00:07:47,930 --> 00:07:49,689
+ezrin agota el conjuro de proyectil mágico preparado
+como si lo hubiera lanzado durante su
+
+353
+00:07:49,689 --> 00:07:49,699
+como si lo hubiera lanzado durante su
+ 
+
+354
+00:07:49,699 --> 00:07:52,060
+como si lo hubiera lanzado durante su
+turno excepto que en lugar de atacar a su enemigo
+
+355
+00:07:52,060 --> 00:07:52,070
+turno excepto que en lugar de atacar a su enemigo
+ 
+
+356
+00:07:52,070 --> 00:07:54,339
+turno excepto que en lugar de atacar a su enemigo
+y hacerle daño en su lugar realiza una
+
+357
+00:07:54,339 --> 00:07:54,349
+y hacerle daño en su lugar realiza una
+ 
+
+358
+00:07:54,349 --> 00:07:57,270
+y hacerle daño en su lugar realiza una
+prueba de contrarrestar contra el hobgoblin
+
+359
+00:07:57,270 --> 00:07:57,280
+prueba de contrarrestar contra el hobgoblin
+ 
+
+360
+00:07:57,280 --> 00:07:59,649
+prueba de contrarrestar contra el hobgoblin
+antes de hacer la prueba necesitamos estar
+
+361
+00:07:59,649 --> 00:07:59,659
+antes de hacer la prueba necesitamos estar
+ 
+
+362
+00:07:59,659 --> 00:08:01,959
+antes de hacer la prueba necesitamos estar
+seguros de que tenemos las cuatro piezas clave de
+
+363
+00:08:01,959 --> 00:08:01,969
+seguros de que tenemos las cuatro piezas clave de
+ 
+
+364
+00:08:01,969 --> 00:08:04,899
+seguros de que tenemos las cuatro piezas clave de
+información el nivel de contrarresto de los enemigos
+
+365
+00:08:04,899 --> 00:08:04,909
+información el nivel de contrarresto de los enemigos
+ 
+
+366
+00:08:04,909 --> 00:08:07,300
+información el nivel de contrarresto de los enemigos
+es  igual a la ranura de hechizo que estaban
+
+367
+00:08:07,300 --> 00:08:07,310
+es  igual a la ranura de hechizo que estaban
+ 
+
+368
+00:08:07,310 --> 00:08:09,999
+es  igual a la ranura de hechizo que estaban
+usando para lanzar proyectil mágico en este caso se estaba
+
+369
+00:08:09,999 --> 00:08:12,219
+usando para lanzar proyectil mágico en este caso se estaba
+ 
+
+370
+00:08:12,219 --> 00:08:12,229
+
+ 
+
+371
+00:08:12,229 --> 00:08:15,249
+
+usando una ranura de hechizo de segundo nivel y por lo tanto el Hobgoblin tiene un
+
+372
+00:08:15,249 --> 00:08:15,259
+usando una ranura de hechizo de segundo nivel y por lo tanto el Hobgoblin tiene un
+ 
+
+373
+00:08:15,259 --> 00:08:18,700
+usando una ranura de hechizo de segundo nivel y por lo tanto el Hobgoblin tiene un
+nivel de contrarrestar de dos a continuación necesitamos
+
+374
+00:08:18,700 --> 00:08:18,710
+nivel de contrarrestar de dos a continuación necesitamos
+ 
+
+375
+00:08:18,710 --> 00:08:21,459
+nivel de contrarrestar de dos a continuación necesitamos
+saber la CD de contrarrestar ya que este es un
+
+376
+00:08:21,459 --> 00:08:21,469
+saber la CD de contrarrestar ya que este es un
+ 
+
+377
+00:08:21,469 --> 00:08:24,189
+saber la CD de contrarrestar ya que este es un
+hechizo que está siendo contrarrestado sabemos que
+
+378
+00:08:24,189 --> 00:08:24,199
+hechizo que está siendo contrarrestado sabemos que
+ 
+
+379
+00:08:24,199 --> 00:08:27,550
+hechizo que está siendo contrarrestado sabemos que
+la CD de contrarrestar es igual a la CD de SPO
+
+380
+00:08:27,550 --> 00:08:27,560
+la CD de contrarrestar es igual a la CD de SPO
+ 
+
+381
+00:08:27,560 --> 00:08:30,279
+la CD de contrarrestar es igual a la CD de SPO
+de la criatura que lo lanzó y sabemos que las
+
+382
+00:08:30,279 --> 00:08:30,289
+de la criatura que lo lanzó y sabemos que las
+ 
+
+383
+00:08:30,289 --> 00:08:33,639
+de la criatura que lo lanzó y sabemos que las
+CD de los hechizos se calculan como 10 más el
+
+384
+00:08:33,639 --> 00:08:33,649
+CD de los hechizos se calculan como 10 más el
+ 
+
+385
+00:08:33,649 --> 00:08:35,860
+CD de los hechizos se calculan como 10 más el
+modificador de habilidad clave más el
+
+386
+00:08:35,860 --> 00:08:35,870
+modificador de habilidad clave más el
+ 
+
+387
+00:08:35,870 --> 00:08:38,949
+modificador de habilidad clave más el
+bono de competencia tomando prestadas bonificaciones
+
+388
+00:08:38,949 --> 00:08:38,959
+bono de competencia tomando prestadas bonificaciones
+ 
+
+389
+00:08:38,959 --> 00:08:41,500
+bono de competencia tomando prestadas bonificaciones
+o penalizaciones adicionales, esta CD debe ser la misma
+
+390
+00:08:41,500 --> 00:08:41,510
+o penalizaciones adicionales, esta CD debe ser la misma
+ 
+
+391
+00:08:41,510 --> 00:08:44,590
+o penalizaciones adicionales, esta CD debe ser la misma
+que su bono de ataque de hechizo más 10, así que
+
+392
+00:08:44,590 --> 00:08:44,600
+que su bono de ataque de hechizo más 10, así que
+ 
+
+393
+00:08:44,600 --> 00:08:48,400
+que su bono de ataque de hechizo más 10, así que
+aquí la CD del hechizo del Hobgoblin es diez más
+
+394
+00:08:48,400 --> 00:08:48,410
+aquí la CD del hechizo del Hobgoblin es diez más
+ 
+
+395
+00:08:48,410 --> 00:08:51,760
+aquí la CD del hechizo del Hobgoblin es diez más
+dos por tener un carisma de catorce más
+
+396
+00:08:51,760 --> 00:08:51,770
+dos por tener un carisma de catorce más
+ 
+
+397
+00:08:51,770 --> 00:08:54,420
+dos por tener un carisma de catorce más
+cinco por su modificador de competencia
+
+398
+00:08:54,420 --> 00:08:54,430
+cinco por su modificador de competencia
+ 
+
+399
+00:08:54,430 --> 00:08:57,389
+cinco por su modificador de competencia
+y ese modificador de competencia es - por
+
+400
+00:08:57,389 --> 00:08:57,399
+y ese modificador de competencia es - por
+ 
+
+401
+00:08:57,399 --> 00:09:00,930
+y ese modificador de competencia es - por
+estar entrenado más tercer nivel y esto
+
+402
+00:09:00,930 --> 00:09:00,940
+estar entrenado más tercer nivel y esto
+ 
+
+403
+00:09:00,940 --> 00:09:05,220
+estar entrenado más tercer nivel y esto
+hace que su CD de hechizo final sea 17, lo que puede
+
+404
+00:09:05,220 --> 00:09:05,230
+hace que su CD de hechizo final sea 17, lo que puede
+ 
+
+405
+00:09:05,230 --> 00:09:07,800
+hace que su CD de hechizo final sea 17, lo que puede
+parecer muy engorroso, pero recuerda que si
+
+406
+00:09:07,800 --> 00:09:07,810
+parecer muy engorroso, pero recuerda que si
+ 
+
+407
+00:09:07,810 --> 00:09:10,019
+parecer muy engorroso, pero recuerda que si
+estás usando un bloque de estadísticas de un
+
+408
+00:09:10,019 --> 00:09:10,029
+estás usando un bloque de estadísticas de un
+ 
+
+409
+00:09:10,029 --> 00:09:12,300
+estás usando un bloque de estadísticas de un
+aventurero o un mejor amigo Airy, entonces la
+
+410
+00:09:12,300 --> 00:09:12,310
+aventurero o un mejor amigo Airy, entonces la
+ 
+
+411
+00:09:12,310 --> 00:09:15,570
+aventurero o un mejor amigo Airy, entonces la
+CD del hechizo ya está proporcionada que se
+
+412
+00:09:15,570 --> 00:09:15,580
+CD del hechizo ya está proporcionada que se
+ 
+
+413
+00:09:15,580 --> 00:09:17,310
+CD del hechizo ya está proporcionada que se
+encarga del hobgoblin y tiene una
+
+414
+00:09:17,310 --> 00:09:17,320
+encarga del hobgoblin y tiene una
+ 
+
+415
+00:09:17,320 --> 00:09:20,190
+encarga del hobgoblin y tiene una
+CD de contrarrestar de 17 y un
+
+416
+00:09:20,190 --> 00:09:20,200
+CD de contrarrestar de 17 y un
+ 
+
+417
+00:09:20,200 --> 00:09:24,810
+CD de contrarrestar de 17 y un
+nivel de contrarrestar de 2 ahora  Para Ezrin, usó un
+
+418
+00:09:24,810 --> 00:09:24,820
+nivel de contrarrestar de 2 ahora  Para Ezrin, usó un
+ 
+
+419
+00:09:24,820 --> 00:09:27,389
+nivel de contrarrestar de 2 ahora  Para Ezrin, usó un
+espacio de hechizo de primer nivel para lanzar un misil mágico, por lo que
+
+420
+00:09:27,389 --> 00:09:27,399
+espacio de hechizo de primer nivel para lanzar un misil mágico, por lo que
+ 
+
+421
+00:09:27,399 --> 00:09:30,870
+espacio de hechizo de primer nivel para lanzar un misil mágico, por lo que
+tiene un nivel de contrarrestar de 1. Su
+
+422
+00:09:30,870 --> 00:09:30,880
+tiene un nivel de contrarrestar de 1. Su
+ 
+
+423
+00:09:30,880 --> 00:09:33,150
+tiene un nivel de contrarrestar de 1. Su
+modificador de contrarrestar se calcula
+
+424
+00:09:33,150 --> 00:09:33,160
+modificador de contrarrestar se calcula
+ 
+
+425
+00:09:33,160 --> 00:09:35,579
+modificador de contrarrestar se calcula
+igual que la CD del hechizo que hicimos para el
+
+426
+00:09:35,579 --> 00:09:35,589
+igual que la CD del hechizo que hicimos para el
+ 
+
+427
+00:09:35,589 --> 00:09:37,980
+igual que la CD del hechizo que hicimos para el
+hobgoblin. Dijeron que no llega a ese
+
+428
+00:09:37,980 --> 00:09:37,990
+hobgoblin. Dijeron que no llega a ese
+ 
+
+429
+00:09:37,990 --> 00:09:41,220
+hobgoblin. Dijeron que no llega a ese
+plano más 10, por lo que el modificador de contrarrestar de Ezrin
+
+430
+00:09:41,220 --> 00:09:41,230
+plano más 10, por lo que el modificador de contrarrestar de Ezrin
+ 
+
+431
+00:09:41,230 --> 00:09:43,769
+plano más 10, por lo que el modificador de contrarrestar de Ezrin
+es su modificador de inteligencia de
+
+432
+00:09:43,769 --> 00:09:43,779
+es su modificador de inteligencia de
+ 
+
+433
+00:09:43,779 --> 00:09:47,430
+es su modificador de inteligencia de
+más 4 más 7 más por su
+
+434
+00:09:47,430 --> 00:09:47,440
+más 4 más 7 más por su
+ 
+
+435
+00:09:47,440 --> 00:09:50,730
+más 4 más 7 más por su
+bonificación de competencia, que es 2 por estar entrenado, más
+
+436
+00:09:50,730 --> 00:09:50,740
+bonificación de competencia, que es 2 por estar entrenado, más
+ 
+
+437
+00:09:50,740 --> 00:09:54,449
+bonificación de competencia, que es 2 por estar entrenado, más
+su nivel de v. Esto hace que su
+
+438
+00:09:54,449 --> 00:09:54,459
+su nivel de v. Esto hace que su
+ 
+
+439
+00:09:54,459 --> 00:09:58,199
+su nivel de v. Esto hace que su
+modificador de contrarrestar sea más 11 nuevamente, salvo
+
+440
+00:09:58,199 --> 00:09:58,209
+modificador de contrarrestar sea más 11 nuevamente, salvo
+ 
+
+441
+00:09:58,209 --> 00:10:00,420
+modificador de contrarrestar sea más 11 nuevamente, salvo
+bonificaciones o penalizaciones especiales, su
+
+442
+00:10:00,420 --> 00:10:00,430
+bonificaciones o penalizaciones especiales, su
+ 
+
+443
+00:10:00,430 --> 00:10:02,910
+bonificaciones o penalizaciones especiales, su
+modificador de contrarrestar será el mismo que
+
+444
+00:10:02,910 --> 00:10:02,920
+modificador de contrarrestar será el mismo que
+ 
+
+445
+00:10:02,920 --> 00:10:04,980
+modificador de contrarrestar será el mismo que
+su bonificación de ataque de hechizo, lo que hace que este
+
+446
+00:10:04,980 --> 00:10:04,990
+su bonificación de ataque de hechizo, lo que hace que este
+ 
+
+447
+00:10:04,990 --> 00:10:07,640
+su bonificación de ataque de hechizo, lo que hace que este
+proceso sea mucho más fácil de lo que parece,
+
+448
+00:10:07,640 --> 00:10:07,650
+proceso sea mucho más fácil de lo que parece,
+ 
+
+449
+00:10:07,650 --> 00:10:10,140
+proceso sea mucho más fácil de lo que parece,
+pero siempre recuerda que cualquier cosa que
+
+450
+00:10:10,140 --> 00:10:10,150
+pero siempre recuerda que cualquier cosa que
+ 
+
+451
+00:10:10,150 --> 00:10:13,110
+pero siempre recuerda que cualquier cosa que
+modifique una bonificación de ataque de hechizo no
+
+452
+00:10:13,110 --> 00:10:13,120
+modifique una bonificación de ataque de hechizo no
+ 
+
+453
+00:10:13,120 --> 00:10:15,420
+modifique una bonificación de ataque de hechizo no
+ajusta también las
+
+454
+00:10:15,420 --> 00:10:15,430
+ajusta también las
+ 
+
+455
+00:10:15,430 --> 00:10:18,510
+ajusta también las
+bonificaciones y penalizaciones del modificador de contrarrestar del personaje. Debe
+
+456
+00:10:18,510 --> 00:10:18,520
+bonificaciones y penalizaciones del modificador de contrarrestar del personaje. Debe
+ 
+
+457
+00:10:18,520 --> 00:10:20,519
+bonificaciones y penalizaciones del modificador de contrarrestar del personaje. Debe
+decir específicamente que modifican los
+
+458
+00:10:20,519 --> 00:10:20,529
+decir específicamente que modifican los
+ 
+
+459
+00:10:20,529 --> 00:10:23,160
+decir específicamente que modifican los
+modificadores de contrarrestar o las verificaciones de ID de contador
+
+460
+00:10:23,160 --> 00:10:23,170
+modificadores de contrarrestar o las verificaciones de ID de contador
+ 
+
+461
+00:10:23,170 --> 00:10:25,519
+modificadores de contrarrestar o las verificaciones de ID de contador
+para poder aplicarse.
+
+462
+00:10:25,519 --> 00:10:25,529
+para poder aplicarse.
+ 
+
+463
+00:10:25,529 --> 00:10:28,500
+para poder aplicarse.
+Entonces, cuando Ezrin gasta su
+
+464
+00:10:28,500 --> 00:10:28,510
+Entonces, cuando Ezrin gasta su
+ 
+
+465
+00:10:28,510 --> 00:10:29,820
+Entonces, cuando Ezrin gasta su
+hechizo de misil mágico preparado para contrarrestar a los
+
+466
+00:10:29,820 --> 00:10:29,830
+hechizo de misil mágico preparado para contrarrestar a los
+ 
+
+467
+00:10:29,830 --> 00:10:33,680
+hechizo de misil mágico preparado para contrarrestar a los
+hobgoblins, tira un d20 y suma 11.
+
+468
+00:10:33,680 --> 00:10:33,690
+hobgoblins, tira un d20 y suma 11.
+ 
+
+469
+00:10:33,690 --> 00:10:36,480
+hobgoblins, tira un d20 y suma 11.
+Este total luego se compara con la
+
+470
+00:10:36,480 --> 00:10:36,490
+Este total luego se compara con la
+ 
+
+471
+00:10:36,490 --> 00:10:40,530
+Este total luego se compara con la
+CD de contrarrestar de los hobgoblins de  17 así que si
+
+472
+00:10:40,530 --> 00:10:40,540
+CD de contrarrestar de los hobgoblins de  17 así que si
+ 
+
+473
+00:10:40,540 --> 00:10:43,949
+CD de contrarrestar de los hobgoblins de  17 así que si
+saca un 6 o más en el d20 entonces el
+
+474
+00:10:43,949 --> 00:10:43,959
+saca un 6 o más en el d20 entonces el
+ 
+
+475
+00:10:43,959 --> 00:10:45,840
+saca un 6 o más en el d20 entonces el
+hechizo de proyectil mágico de los hobgoblins es
+
+476
+00:10:45,840 --> 00:10:45,850
+hechizo de proyectil mágico de los hobgoblins es
+ 
+
+477
+00:10:45,850 --> 00:10:49,440
+hechizo de proyectil mágico de los hobgoblins es
+contrarrestado y no tiene efecto si Ezra
+
+478
+00:10:49,440 --> 00:10:49,450
+contrarrestado y no tiene efecto si Ezra
+ 
+
+479
+00:10:49,450 --> 00:10:52,260
+contrarrestado y no tiene efecto si Ezra
+sabe que un 5 es menor entonces no puede
+
+480
+00:10:52,260 --> 00:10:52,270
+sabe que un 5 es menor entonces no puede
+ 
+
+481
+00:10:52,270 --> 00:10:54,660
+sabe que un 5 es menor entonces no puede
+contrarrestar el ataque de los hobgoblins y los
+
+482
+00:10:54,660 --> 00:10:54,670
+contrarrestar el ataque de los hobgoblins y los
+ 
+
+483
+00:10:54,670 --> 00:10:56,250
+contrarrestar el ataque de los hobgoblins y los
+misiles mágicos causan su daño normal
+
+484
+00:10:56,250 --> 00:10:56,260
+misiles mágicos causan su daño normal
+ 
+
+485
+00:10:56,260 --> 00:10:58,530
+misiles mágicos causan su daño normal
+
+486
+00:10:58,530 --> 00:10:58,540
+
+ 
+
+487
+00:10:58,540 --> 00:11:01,860
+
+en nuestro siguiente ejemplo miembro es un
+
+488
+00:11:01,860 --> 00:11:01,870
+en nuestro siguiente ejemplo miembro es un
+ 
+
+489
+00:11:01,870 --> 00:11:03,810
+en nuestro siguiente ejemplo miembro es un
+bardo de décimo nivel que se infiltra
+
+490
+00:11:03,810 --> 00:11:03,820
+bardo de décimo nivel que se infiltra
+ 
+
+491
+00:11:03,820 --> 00:11:06,360
+bardo de décimo nivel que se infiltra
+disfrazándose como miembro de un
+
+492
+00:11:06,360 --> 00:11:06,370
+disfrazándose como miembro de un
+ 
+
+493
+00:11:06,370 --> 00:11:08,850
+disfrazándose como miembro de un
+culto malvado en preparación para esta
+
+494
+00:11:08,850 --> 00:11:08,860
+culto malvado en preparación para esta
+ 
+
+495
+00:11:08,860 --> 00:11:11,250
+culto malvado en preparación para esta
+misión se lanza no detección sobre sí
+
+496
+00:11:11,250 --> 00:11:11,260
+misión se lanza no detección sobre sí
+ 
+
+497
+00:11:11,260 --> 00:11:14,160
+misión se lanza no detección sobre sí
+mismo este normalmente es un hechizo de tercer nivel
+
+498
+00:11:14,160 --> 00:11:14,170
+mismo este normalmente es un hechizo de tercer nivel
+ 
+
+499
+00:11:14,170 --> 00:11:16,650
+mismo este normalmente es un hechizo de tercer nivel
+pero quiere evitar la
+
+500
+00:11:16,650 --> 00:11:16,660
+pero quiere evitar la
+ 
+
+501
+00:11:16,660 --> 00:11:18,660
+pero quiere evitar la
+detección mágica tanto como sea posible así que lo
+
+502
+00:11:18,660 --> 00:11:18,670
+detección mágica tanto como sea posible así que lo
+ 
+
+503
+00:11:18,670 --> 00:11:20,730
+detección mágica tanto como sea posible así que lo
+aumenta al nivel 5 antes de
+
+504
+00:11:20,730 --> 00:11:20,740
+aumenta al nivel 5 antes de
+ 
+
+505
+00:11:20,740 --> 00:11:21,390
+aumenta al nivel 5 antes de
+lanzar
+
+506
+00:11:21,390 --> 00:11:21,400
+lanzar
+ 
+
+507
+00:11:21,400 --> 00:11:24,870
+lanzar
+también tiene una bonificación de ataque de hechizo base de
+
+508
+00:11:24,870 --> 00:11:24,880
+también tiene una bonificación de ataque de hechizo base de
+ 
+
+509
+00:11:24,880 --> 00:11:28,080
+también tiene una bonificación de ataque de hechizo base de
++19 ignorando cualquier bonificación o
+
+510
+00:11:28,080 --> 00:11:28,090
++19 ignorando cualquier bonificación o
+ 
+
+511
+00:11:28,090 --> 00:11:30,690
++19 ignorando cualquier bonificación o
+penalización especial cuando entra al
+
+512
+00:11:30,690 --> 00:11:30,700
+penalización especial cuando entra al
+ 
+
+513
+00:11:30,700 --> 00:11:33,150
+penalización especial cuando entra al
+templo del culto una sacerdotisa sospechosa lanza
+
+514
+00:11:33,150 --> 00:11:33,160
+templo del culto una sacerdotisa sospechosa lanza
+ 
+
+515
+00:11:33,160 --> 00:11:35,430
+templo del culto una sacerdotisa sospechosa lanza
+detectar alineamiento aumentado el segundo
+
+516
+00:11:35,430 --> 00:11:35,440
+detectar alineamiento aumentado el segundo
+ 
+
+517
+00:11:35,440 --> 00:11:38,100
+detectar alineamiento aumentado el segundo
+nivel para localizar a cualquiera que pueda estar bien
+
+518
+00:11:38,100 --> 00:11:38,110
+nivel para localizar a cualquiera que pueda estar bien
+ 
+
+519
+00:11:38,110 --> 00:11:38,640
+nivel para localizar a cualquiera que pueda estar bien
+alineado
+
+520
+00:11:38,640 --> 00:11:38,650
+alineado
+ 
+
+521
+00:11:38,650 --> 00:11:43,620
+alineado
+tiene una CD de hechizo de 25 cuando lanza
+
+522
+00:11:43,620 --> 00:11:43,630
+tiene una CD de hechizo de 25 cuando lanza
+ 
+
+523
+00:11:43,630 --> 00:11:46,080
+tiene una CD de hechizo de 25 cuando lanza
+el hechizo el hechizo de no detección de Ezra
+
+524
+00:11:46,080 --> 00:11:46,090
+el hechizo el hechizo de no detección de Ezra
+ 
+
+525
+00:11:46,090 --> 00:11:48,960
+el hechizo el hechizo de no detección de Ezra
+intenta contrarrestar su detective
+
+526
+00:11:48,960 --> 00:11:48,970
+intenta contrarrestar su detective
+ 
+
+527
+00:11:48,970 --> 00:11:52,320
+intenta contrarrestar su detective
+Louisville como antes asegurémonos de que
+
+528
+00:11:52,320 --> 00:11:52,330
+Louisville como antes asegurémonos de que
+ 
+
+529
+00:11:52,330 --> 00:11:54,560
+Louisville como antes asegurémonos de que
+tenemos los cuatro bits clave de información
+
+530
+00:11:54,560 --> 00:11:54,570
+tenemos los cuatro bits clave de información
+ 
+
+531
+00:11:54,570 --> 00:11:57,660
+tenemos los cuatro bits clave de información
+las sacerdotisas  La CD del hechizo es veinticinco, así que
+
+532
+00:11:57,660 --> 00:11:57,670
+las sacerdotisas  La CD del hechizo es veinticinco, así que
+ 
+
+533
+00:11:57,670 --> 00:12:00,330
+las sacerdotisas  La CD del hechizo es veinticinco, así que
+a menos que haya bonificaciones
+
+534
+00:12:00,330 --> 00:12:00,340
+a menos que haya bonificaciones
+ 
+
+535
+00:12:00,340 --> 00:12:02,370
+a menos que haya bonificaciones
+o penalizaciones especiales incluidas, su
+
+536
+00:12:02,370 --> 00:12:02,380
+o penalizaciones especiales incluidas, su
+ 
+
+537
+00:12:02,380 --> 00:12:05,820
+o penalizaciones especiales incluidas, su
+CD de contrarrestar también será 25 y
+
+538
+00:12:05,820 --> 00:12:05,830
+CD de contrarrestar también será 25 y
+ 
+
+539
+00:12:05,830 --> 00:12:07,950
+CD de contrarrestar también será 25 y
+lanzará para llevar magia aumentada a segundo
+
+540
+00:12:07,950 --> 00:12:07,960
+lanzará para llevar magia aumentada a segundo
+ 
+
+541
+00:12:07,960 --> 00:12:11,450
+lanzará para llevar magia aumentada a segundo
+nivel, por lo que su nivel de contrarrestar es dos
+
+542
+00:12:11,450 --> 00:12:11,460
+nivel, por lo que su nivel de contrarrestar es dos
+ 
+
+543
+00:12:11,460 --> 00:12:14,510
+nivel, por lo que su nivel de contrarrestar es dos
+extremidades, la bonificación de ataque de hechizo es +19,
+
+544
+00:12:14,510 --> 00:12:14,520
+extremidades, la bonificación de ataque de hechizo es +19,
+ 
+
+545
+00:12:14,520 --> 00:12:16,830
+extremidades, la bonificación de ataque de hechizo es +19,
+por lo tanto, nuevamente, salvo cualquier
+
+546
+00:12:16,830 --> 00:12:16,840
+por lo tanto, nuevamente, salvo cualquier
+ 
+
+547
+00:12:16,840 --> 00:12:19,440
+por lo tanto, nuevamente, salvo cualquier
+modificador especial, su modificador de contrarrestar
+
+548
+00:12:19,440 --> 00:12:19,450
+modificador especial, su modificador de contrarrestar
+ 
+
+549
+00:12:19,450 --> 00:12:23,340
+modificador especial, su modificador de contrarrestar
+también será 19, cualquier lanzamiento es un hechizo de no detección
+
+550
+00:12:23,340 --> 00:12:23,350
+también será 19, cualquier lanzamiento es un hechizo de no detección
+ 
+
+551
+00:12:23,350 --> 00:12:24,570
+también será 19, cualquier lanzamiento es un hechizo de no detección
+aumentado un quinto nivel, por lo que
+
+552
+00:12:24,570 --> 00:12:24,580
+aumentado un quinto nivel, por lo que
+ 
+
+553
+00:12:24,580 --> 00:12:29,400
+aumentado un quinto nivel, por lo que
+su nivel de contrarrestar es 5 extremidades, tira
+
+554
+00:12:29,400 --> 00:12:29,410
+su nivel de contrarrestar es 5 extremidades, tira
+ 
+
+555
+00:12:29,410 --> 00:12:32,820
+su nivel de contrarrestar es 5 extremidades, tira
+120 + 19 y compara el resultado con la
+
+556
+00:12:32,820 --> 00:12:32,830
+120 + 19 y compara el resultado con la
+ 
+
+557
+00:12:32,830 --> 00:12:36,120
+120 + 19 y compara el resultado con la
+CD de contrarrestar de 25, lo cual es muy
+
+558
+00:12:36,120 --> 00:12:36,130
+CD de contrarrestar de 25, lo cual es muy
+ 
+
+559
+00:12:36,130 --> 00:12:38,400
+CD de contrarrestar de 25, lo cual es muy
+prometedor para él, pero la buena
+
+560
+00:12:38,400 --> 00:12:38,410
+prometedor para él, pero la buena
+ 
+
+561
+00:12:38,410 --> 00:12:40,620
+prometedor para él, pero la buena
+noticia aquí es que, dado que su nivel de contrarrestar
+
+562
+00:12:40,620 --> 00:12:40,630
+noticia aquí es que, dado que su nivel de contrarrestar
+ 
+
+563
+00:12:40,630 --> 00:12:43,590
+noticia aquí es que, dado que su nivel de contrarrestar
+es más alto que las sacerdotisas, entonces la
+
+564
+00:12:43,590 --> 00:12:43,600
+es más alto que las sacerdotisas, entonces la
+ 
+
+565
+00:12:43,600 --> 00:12:46,920
+es más alto que las sacerdotisas, entonces la
+única forma en que puede fallar es tirando un
+
+566
+00:12:46,920 --> 00:12:46,930
+única forma en que puede fallar es tirando un
+ 
+
+567
+00:12:46,930 --> 00:12:50,430
+única forma en que puede fallar es tirando un
+fallo crítico. Recuerde que si su
+
+568
+00:12:50,430 --> 00:12:50,440
+fallo crítico. Recuerde que si su
+ 
+
+569
+00:12:50,440 --> 00:12:53,070
+fallo crítico. Recuerde que si su
+nivel de contrarrestar es más alto que el
+
+570
+00:12:53,070 --> 00:12:53,080
+nivel de contrarrestar es más alto que el
+ 
+
+571
+00:12:53,080 --> 00:12:54,420
+nivel de contrarrestar es más alto que el
+efecto que está intentando
+
+572
+00:12:54,420 --> 00:12:54,430
+efecto que está intentando
+ 
+
+573
+00:12:54,430 --> 00:12:56,790
+efecto que está intentando
+contrarrestar, aún tendrá éxito
+
+574
+00:12:56,790 --> 00:12:56,800
+contrarrestar, aún tendrá éxito
+ 
+
+575
+00:12:56,800 --> 00:12:59,430
+contrarrestar, aún tendrá éxito
+al contrarrestarlo incluso cuando falle
+
+576
+00:12:59,430 --> 00:12:59,440
+al contrarrestarlo incluso cuando falle
+ 
+
+577
+00:12:59,440 --> 00:13:02,160
+al contrarrestarlo incluso cuando falle
+la verificación de contrarrestar. La única forma de
+
+578
+00:13:02,160 --> 00:13:02,170
+la verificación de contrarrestar. La única forma de
+ 
+
+579
+00:13:02,170 --> 00:13:04,200
+la verificación de contrarrestar. La única forma de
+fallar realmente cuando su
+
+580
+00:13:04,200 --> 00:13:04,210
+fallar realmente cuando su
+ 
+
+581
+00:13:04,210 --> 00:13:06,690
+fallar realmente cuando su
+nivel de contrarrestar es más alto es fallar críticamente en la
+
+582
+00:13:06,690 --> 00:13:06,700
+nivel de contrarrestar es más alto es fallar críticamente en la
+ 
+
+583
+00:13:06,700 --> 00:13:08,840
+nivel de contrarrestar es más alto es fallar críticamente en la
+verificación
+
+584
+00:13:08,840 --> 00:13:08,850
+verificación
+ 
+
+585
+00:13:08,850 --> 00:13:11,840
+verificación
+y, en nuestro ejemplo menos valiente, está
+
+586
+00:13:11,840 --> 00:13:11,850
+y, en nuestro ejemplo menos valiente, está
+ 
+
+587
+00:13:11,850 --> 00:13:14,230
+y, en nuestro ejemplo menos valiente, está
+empuñando una gran espada de marca de escarcha y
+
+588
+00:13:14,230 --> 00:13:14,240
+empuñando una gran espada de marca de escarcha y
+ 
+
+589
+00:13:14,240 --> 00:13:16,309
+empuñando una gran espada de marca de escarcha y
+activa accidentalmente una pista que
+
+590
+00:13:16,309 --> 00:13:16,319
+activa accidentalmente una pista que
+ 
+
+591
+00:13:16,319 --> 00:13:20,120
+activa accidentalmente una pista que
+produce un muro.  de fuego en su camino una
+
+592
+00:13:20,120 --> 00:13:20,130
+produce un muro.  de fuego en su camino una
+ 
+
+593
+00:13:20,130 --> 00:13:21,949
+produce un muro.  de fuego en su camino una
+de las propiedades especiales de una
+
+594
+00:13:21,949 --> 00:13:21,959
+de las propiedades especiales de una
+ 
+
+595
+00:13:21,959 --> 00:13:24,259
+de las propiedades especiales de una
+espada de marca de escarcha es que puede usarse para
+
+596
+00:13:24,259 --> 00:13:24,269
+espada de marca de escarcha es que puede usarse para
+ 
+
+597
+00:13:24,269 --> 00:13:27,769
+espada de marca de escarcha es que puede usarse para
+contrarrestar el fuego mágico hacerlo cuesta
+
+598
+00:13:27,769 --> 00:13:27,779
+contrarrestar el fuego mágico hacerlo cuesta
+ 
+
+599
+00:13:27,779 --> 00:13:30,590
+contrarrestar el fuego mágico hacerlo cuesta
+dos acciones y luego valeroso hace una
+
+600
+00:13:30,590 --> 00:13:30,600
+dos acciones y luego valeroso hace una
+ 
+
+601
+00:13:30,600 --> 00:13:32,660
+dos acciones y luego valeroso hace una
+prueba de contraataque contra el muro de
+
+602
+00:13:32,660 --> 00:13:32,670
+prueba de contraataque contra el muro de
+ 
+
+603
+00:13:32,670 --> 00:13:36,410
+prueba de contraataque contra el muro de
+fuego el bloque de estadísticas de la espada nos muestra que
+
+604
+00:13:36,410 --> 00:13:36,420
+fuego el bloque de estadísticas de la espada nos muestra que
+ 
+
+605
+00:13:36,420 --> 00:13:39,680
+fuego el bloque de estadísticas de la espada nos muestra que
+su modificador de contraataque es +27 y
+
+606
+00:13:39,680 --> 00:13:39,690
+su modificador de contraataque es +27 y
+ 
+
+607
+00:13:39,690 --> 00:13:42,710
+su modificador de contraataque es +27 y
+eso no se modifica más para ti
+
+608
+00:13:42,710 --> 00:13:42,720
+eso no se modifica más para ti
+ 
+
+609
+00:13:42,720 --> 00:13:45,249
+eso no se modifica más para ti
+no agregas Valor como una bonificación de fuerza o
+
+610
+00:13:45,249 --> 00:13:45,259
+no agregas Valor como una bonificación de fuerza o
+ 
+
+611
+00:13:45,259 --> 00:13:48,019
+no agregas Valor como una bonificación de fuerza o
+nivel de personaje o bonificación de competencia para
+
+612
+00:13:48,019 --> 00:13:48,029
+nivel de personaje o bonificación de competencia para
+ 
+
+613
+00:13:48,029 --> 00:13:50,809
+nivel de personaje o bonificación de competencia para
+grandes espadas o cualquier otra cosa es solo un
+
+614
+00:13:50,809 --> 00:13:50,819
+grandes espadas o cualquier otra cosa es solo un
+ 
+
+615
+00:13:50,819 --> 00:13:54,319
+grandes espadas o cualquier otra cosa es solo un
++27 directo eso es bastante fácil
+
+616
+00:13:54,319 --> 00:13:54,329
++27 directo eso es bastante fácil
+ 
+
+617
+00:13:54,329 --> 00:13:56,660
++27 directo eso es bastante fácil
+pero luego necesitamos saber qué es valeroso el
+
+618
+00:13:56,660 --> 00:13:56,670
+pero luego necesitamos saber qué es valeroso el
+ 
+
+619
+00:13:56,670 --> 00:13:59,660
+pero luego necesitamos saber qué es valeroso el
+nivel de contraataque es a diferencia del
+
+620
+00:13:59,660 --> 00:13:59,670
+nivel de contraataque es a diferencia del
+ 
+
+621
+00:13:59,670 --> 00:14:01,819
+nivel de contraataque es a diferencia del
+modificador de contraataque no hay nada en
+
+622
+00:14:01,819 --> 00:14:01,829
+modificador de contraataque no hay nada en
+ 
+
+623
+00:14:01,829 --> 00:14:04,069
+modificador de contraataque no hay nada en
+el bloque de estadísticas de marca de escarcha que muestre
+
+624
+00:14:04,069 --> 00:14:04,079
+el bloque de estadísticas de marca de escarcha que muestre
+ 
+
+625
+00:14:04,079 --> 00:14:07,790
+el bloque de estadísticas de marca de escarcha que muestre
+específicamente su nivel de contraataque pero
+
+626
+00:14:07,790 --> 00:14:07,800
+específicamente su nivel de contraataque pero
+ 
+
+627
+00:14:07,800 --> 00:14:10,340
+específicamente su nivel de contraataque pero
+la buena noticia es que esto será muy
+
+628
+00:14:10,340 --> 00:14:10,350
+la buena noticia es que esto será muy
+ 
+
+629
+00:14:10,350 --> 00:14:12,980
+la buena noticia es que esto será muy
+fácil de calcular cuando el objeto o la
+
+630
+00:14:12,980 --> 00:14:12,990
+fácil de calcular cuando el objeto o la
+ 
+
+631
+00:14:12,990 --> 00:14:14,809
+fácil de calcular cuando el objeto o la
+habilidad que te permite hacer una
+
+632
+00:14:14,809 --> 00:14:14,819
+habilidad que te permite hacer una
+ 
+
+633
+00:14:14,819 --> 00:14:17,480
+habilidad que te permite hacer una
+prueba de contraataque es un hechizo travieso y
+
+634
+00:14:17,480 --> 00:14:17,490
+prueba de contraataque es un hechizo travieso y
+ 
+
+635
+00:14:17,490 --> 00:14:19,939
+prueba de contraataque es un hechizo travieso y
+no proporciona un nivel de contraataque en
+
+636
+00:14:19,939 --> 00:14:19,949
+no proporciona un nivel de contraataque en
+ 
+
+637
+00:14:19,949 --> 00:14:22,490
+no proporciona un nivel de contraataque en
+su descripción entonces lo calculas
+
+638
+00:14:22,490 --> 00:14:22,500
+su descripción entonces lo calculas
+ 
+
+639
+00:14:22,500 --> 00:14:25,129
+su descripción entonces lo calculas
+dividiendo el nivel de ese objeto a la mitad y
+
+640
+00:14:25,129 --> 00:14:25,139
+dividiendo el nivel de ese objeto a la mitad y
+ 
+
+641
+00:14:25,139 --> 00:14:29,240
+dividiendo el nivel de ese objeto a la mitad y
+redondeando esto es 1/16 de nivel de espada, entonces se
+
+642
+00:14:29,240 --> 00:14:29,250
+redondeando esto es 1/16 de nivel de espada, entonces se
+ 
+
+643
+00:14:29,250 --> 00:14:32,920
+redondeando esto es 1/16 de nivel de espada, entonces se
+cuenta el nivel directo es 1/2 eso u 8
+
+644
+00:14:32,920 --> 00:14:32,930
+cuenta el nivel directo es 1/2 eso u 8
+ 
+
+645
+00:14:32,930 --> 00:14:35,379
+cuenta el nivel directo es 1/2 eso u 8
+ahora pensemos en el muro de fuego
+
+646
+00:14:35,379 --> 00:14:35,389
+ahora pensemos en el muro de fuego
+ 
+
+647
+00:14:35,389 --> 00:14:38,179
+ahora pensemos en el muro de fuego
+Digamos que el mago que construyó la trampa
+
+648
+00:14:38,179 --> 00:14:38,189
+Digamos que el mago que construyó la trampa
+ 
+
+649
+00:14:38,189 --> 00:14:41,540
+Digamos que el mago que construyó la trampa
+realmente quería mantener a la gente fuera, así que
+
+650
+00:14:41,540 --> 00:14:41,550
+realmente quería mantener a la gente fuera, así que
+ 
+
+651
+00:14:41,550 --> 00:14:43,429
+realmente quería mantener a la gente fuera, así que
+aumentó el hechizo de muro de fuego al
+
+652
+00:14:43,429 --> 00:14:43,439
+aumentó el hechizo de muro de fuego al
+ 
+
+653
+00:14:43,439 --> 00:14:45,889
+aumentó el hechizo de muro de fuego al
+noveno nivel, lo que también significa que el
+
+654
+00:14:45,889 --> 00:14:45,899
+noveno nivel, lo que también significa que el
+ 
+
+655
+00:14:45,899 --> 00:14:49,490
+noveno nivel, lo que también significa que el
+nivel de contrarrestar es 9. En cuanto a la
+
+656
+00:14:49,490 --> 00:14:49,500
+nivel de contrarrestar es 9. En cuanto a la
+ 
+
+657
+00:14:49,500 --> 00:14:51,800
+nivel de contrarrestar es 9. En cuanto a la
+CD de contraataque, tenía que ser un mago bastante poderoso
+
+658
+00:14:51,800 --> 00:14:51,810
+CD de contraataque, tenía que ser un mago bastante poderoso
+ 
+
+659
+00:14:51,810 --> 00:14:54,439
+CD de contraataque, tenía que ser un mago bastante poderoso
+para lanzar hechizos de noveno nivel, así que
+
+660
+00:14:54,439 --> 00:14:54,449
+para lanzar hechizos de noveno nivel, así que
+ 
+
+661
+00:14:54,449 --> 00:14:56,809
+para lanzar hechizos de noveno nivel, así que
+el geums prueba al creador de las trampas como
+
+662
+00:14:56,809 --> 00:14:56,819
+el geums prueba al creador de las trampas como
+ 
+
+663
+00:14:56,819 --> 00:15:00,410
+el geums prueba al creador de las trampas como
+un mago de nivel 17 con una CD de hechizo base
+
+664
+00:15:00,410 --> 00:15:00,420
+un mago de nivel 17 con una CD de hechizo base
+ 
+
+665
+00:15:00,420 --> 00:15:02,590
+un mago de nivel 17 con una CD de hechizo base
+de 38.
+
+666
+00:15:02,590 --> 00:15:02,600
+de 38.
+ 
+
+667
+00:15:02,600 --> 00:15:05,470
+de 38.
+Valeria gira a acciones y golpea el
+
+668
+00:15:05,470 --> 00:15:05,480
+Valeria gira a acciones y golpea el
+ 
+
+669
+00:15:05,480 --> 00:15:08,440
+Valeria gira a acciones y golpea el
+muro de fuego con su espada de quemadura de escarcha.
+
+670
+00:15:08,440 --> 00:15:08,450
+muro de fuego con su espada de quemadura de escarcha.
+ 
+
+671
+00:15:08,450 --> 00:15:11,290
+muro de fuego con su espada de quemadura de escarcha.
+Tira una prueba de contraataque de un día 20 más
+
+672
+00:15:11,290 --> 00:15:11,300
+Tira una prueba de contraataque de un día 20 más
+ 
+
+673
+00:15:11,300 --> 00:15:14,560
+Tira una prueba de contraataque de un día 20 más
+27 porque el nivel de contrarrestar el muro de fuego
+
+674
+00:15:14,560 --> 00:15:14,570
+27 porque el nivel de contrarrestar el muro de fuego
+ 
+
+675
+00:15:14,570 --> 00:15:17,290
+27 porque el nivel de contrarrestar el muro de fuego
+es más alto que el valor,
+
+676
+00:15:17,290 --> 00:15:17,300
+es más alto que el valor,
+ 
+
+677
+00:15:17,300 --> 00:15:20,950
+es más alto que el valor,
+necesita sacar un 11 o más en el dado
+
+678
+00:15:20,950 --> 00:15:20,960
+necesita sacar un 11 o más en el dado
+ 
+
+679
+00:15:20,960 --> 00:15:23,470
+necesita sacar un 11 o más en el dado
+para destruir el muro de fuego. Si
+
+680
+00:15:23,470 --> 00:15:23,480
+para destruir el muro de fuego. Si
+ 
+
+681
+00:15:23,480 --> 00:15:27,760
+para destruir el muro de fuego. Si
+saca un 10 o más, falla y
+
+682
+00:15:27,760 --> 00:15:27,770
+saca un 10 o más, falla y
+ 
+
+683
+00:15:27,770 --> 00:15:29,650
+saca un 10 o más, falla y
+no puede intentar contrarrestar el mismo
+
+684
+00:15:29,650 --> 00:15:29,660
+no puede intentar contrarrestar el mismo
+ 
+
+685
+00:15:29,660 --> 00:15:32,870
+no puede intentar contrarrestar el mismo
+muro de fuego de nuevo. Muy
+
+686
+00:15:32,870 --> 00:15:32,880
+
+ 
+
+687
+00:15:32,880 --> 00:15:35,240
+
+bien, ¿qué tal un poco de
+
+688
+00:15:35,240 --> 00:15:35,250
+bien, ¿qué tal un poco de
+ 
+
+689
+00:15:35,250 --> 00:15:37,400
+bien, ¿qué tal un poco de
+tarea? Aquí hay un problema para que lo
+
+690
+00:15:37,400 --> 00:15:37,410
+tarea? Aquí hay un problema para que lo
+ 
+
+691
+00:15:37,410 --> 00:15:39,319
+tarea? Aquí hay un problema para que lo
+resuelvas por tu cuenta y siéntete libre de
+
+692
+00:15:39,319 --> 00:15:39,329
+resuelvas por tu cuenta y siéntete libre de
+ 
+
+693
+00:15:39,329 --> 00:15:41,150
+resuelvas por tu cuenta y siéntete libre de
+dejar una nota en el área común con
+
+694
+00:15:41,150 --> 00:15:41,160
+dejar una nota en el área común con
+ 
+
+695
+00:15:41,160 --> 00:15:43,189
+dejar una nota en el área común con
+tu respuesta y cualquier pregunta que puedas
+
+696
+00:15:43,189 --> 00:15:43,199
+tu respuesta y cualquier pregunta que puedas
+ 
+
+697
+00:15:43,199 --> 00:15:46,639
+tu respuesta y cualquier pregunta que puedas
+tener mientras luchas contra un mago kobold.
+
+698
+00:15:46,639 --> 00:15:46,649
+tener mientras luchas contra un mago kobold.
+ 
+
+699
+00:15:46,649 --> 00:15:49,400
+tener mientras luchas contra un mago kobold.
+Maurizio cae víctima de  Hechizo de mente débil.
+
+700
+00:15:49,400 --> 00:15:49,410
+Maurizio cae víctima de  Hechizo de mente débil.
+ 
+
+701
+00:15:49,410 --> 00:15:52,519
+Maurizio cae víctima de  Hechizo de mente débil.
+Fue lanzado usando un
+
+702
+00:15:52,519 --> 00:15:52,529
+Fue lanzado usando un
+ 
+
+703
+00:15:52,529 --> 00:15:56,269
+Fue lanzado usando un
+espacio de hechizo de sexto nivel. El kóbold que lo lanzó es de
+
+704
+00:15:56,269 --> 00:15:56,279
+espacio de hechizo de sexto nivel. El kóbold que lo lanzó es de
+ 
+
+705
+00:15:56,279 --> 00:15:59,540
+espacio de hechizo de sexto nivel. El kóbold que lo lanzó es de
+nivel 11, tiene una puntuación de inteligencia de 16 y es
+
+706
+00:15:59,540 --> 00:15:59,550
+nivel 11, tiene una puntuación de inteligencia de 16 y es
+ 
+
+707
+00:15:59,550 --> 00:16:02,240
+nivel 11, tiene una puntuación de inteligencia de 16 y es
+experto en ataques con hechizos arcanos.
+
+708
+00:16:02,240 --> 00:16:02,250
+experto en ataques con hechizos arcanos.
+ 
+
+709
+00:16:02,250 --> 00:16:05,540
+experto en ataques con hechizos arcanos.
+Kyra intenta contrarrestar los
+
+710
+00:16:05,540 --> 00:16:05,550
+Kyra intenta contrarrestar los
+ 
+
+711
+00:16:05,550 --> 00:16:08,240
+Kyra intenta contrarrestar los
+efectos de Mente débil lanzando Quitar
+
+712
+00:16:08,240 --> 00:16:08,250
+efectos de Mente débil lanzando Quitar
+ 
+
+713
+00:16:08,250 --> 00:16:12,590
+efectos de Mente débil lanzando Quitar
+maldición a Marissa. Kyra es de nivel 11, tiene
+
+714
+00:16:12,590 --> 00:16:12,600
+maldición a Marissa. Kyra es de nivel 11, tiene
+ 
+
+715
+00:16:12,600 --> 00:16:15,499
+maldición a Marissa. Kyra es de nivel 11, tiene
+una puntuación de sabiduría de 20 y es experto
+
+716
+00:16:15,499 --> 00:16:15,509
+una puntuación de sabiduría de 20 y es experto
+ 
+
+717
+00:16:15,509 --> 00:16:17,470
+una puntuación de sabiduría de 20 y es experto
+en ataques con hechizos divinos.
+
+718
+00:16:17,470 --> 00:16:17,480
+en ataques con hechizos divinos.
+ 
+
+719
+00:16:17,480 --> 00:16:20,240
+en ataques con hechizos divinos.
+Está lanzando Quitar maldición con un
+
+720
+00:16:20,240 --> 00:16:20,250
+Está lanzando Quitar maldición con un
+ 
+
+721
+00:16:20,250 --> 00:16:24,050
+Está lanzando Quitar maldición con un
+espacio de hechizo de cuarto nivel. Entonces, las preguntas
+
+722
+00:16:24,050 --> 00:16:24,060
+espacio de hechizo de cuarto nivel. Entonces, las preguntas
+ 
+
+723
+00:16:24,060 --> 00:16:26,329
+espacio de hechizo de cuarto nivel. Entonces, las preguntas
+para esta tarea son: ¿Cuáles son
+
+724
+00:16:26,329 --> 00:16:26,339
+para esta tarea son: ¿Cuáles son
+ 
+
+725
+00:16:26,339 --> 00:16:28,939
+para esta tarea son: ¿Cuáles son
+los hechizos de Mente débil? ¿Contrarrestan la CD? ¿Qué
+
+726
+00:16:28,939 --> 00:16:28,949
+los hechizos de Mente débil? ¿Contrarrestan la CD? ¿Qué
+ 
+
+727
+00:16:28,949 --> 00:16:32,290
+los hechizos de Mente débil? ¿Contrarrestan la CD? ¿Qué
+hechizos contrarrestan el nivel? ¿
+
+728
+00:16:32,290 --> 00:16:32,300
+hechizos contrarrestan el nivel? ¿
+ 
+
+729
+00:16:32,300 --> 00:16:35,210
+hechizos contrarrestan el nivel? ¿
+Cuáles son el modificador de contrato de Kyra y
+
+730
+00:16:35,210 --> 00:16:35,220
+Cuáles son el modificador de contrato de Kyra y
+ 
+
+731
+00:16:35,220 --> 00:16:38,929
+Cuáles son el modificador de contrato de Kyra y
+su nivel de contrato? Y por último, cuando Kyra
+
+732
+00:16:38,929 --> 00:16:38,939
+su nivel de contrato? Y por último, cuando Kyra
+ 
+
+733
+00:16:38,939 --> 00:16:41,300
+su nivel de contrato? Y por último, cuando Kyra
+tira su contador, compruebo cuál es el
+
+734
+00:16:41,300 --> 00:16:41,310
+tira su contador, compruebo cuál es el
+ 
+
+735
+00:16:41,310 --> 00:16:44,300
+tira su contador, compruebo cuál es el
+número mínimo necesario en el dado para que
+
+736
+00:16:44,300 --> 00:16:44,310
+número mínimo necesario en el dado para que
+ 
+
+737
+00:16:44,310 --> 00:16:46,660
+número mínimo necesario en el dado para que
+elimine la maldición de Arisia. Piénsalo
+
+738
+00:16:46,660 --> 00:16:46,670
+elimine la maldición de Arisia. Piénsalo
+ 
+
+739
+00:16:46,670 --> 00:16:49,759
+elimine la maldición de Arisia. Piénsalo
+un momento. Deja tu
+
+740
+00:16:49,759 --> 00:16:49,769
+un momento. Deja tu
+ 
+
+741
+00:16:49,769 --> 00:16:51,920
+un momento. Deja tu
+respuesta en la sección de comentarios.
+
+742
+00:16:51,920 --> 00:16:51,930
+respuesta en la sección de comentarios.
+ 
+
+743
+00:16:51,930 --> 00:16:53,870
+respuesta en la sección de comentarios.
+Quizás quieras pausar la pantalla ahora
+
+744
+00:16:53,870 --> 00:16:53,880
+Quizás quieras pausar la pantalla ahora
+ 
+
+745
+00:16:53,880 --> 00:16:58,580
+Quizás quieras pausar la pantalla ahora
+antes de pasar al resumen.
+
+746
+00:16:58,580 --> 00:16:58,590
+
+ 
+
+747
+00:16:58,590 --> 00:17:01,269
+
+En este video, discutimos cómo contrarrestar.
+
+748
+00:17:01,269 --> 00:17:01,279
+En este video, discutimos cómo contrarrestar.
+ 
+
+749
+00:17:01,279 --> 00:17:03,470
+En este video, discutimos cómo contrarrestar.
+Contrarrestar ocurre cuando un efecto
+
+750
+00:17:03,470 --> 00:17:03,480
+Contrarrestar ocurre cuando un efecto
+ 
+
+751
+00:17:03,480 --> 00:17:06,679
+Contrarrestar ocurre cuando un efecto
+intenta deshacer otro efecto. Ambos suelen ser
+
+752
+00:17:06,679 --> 00:17:06,689
+intenta deshacer otro efecto. Ambos suelen ser
+ 
+
+753
+00:17:06,689 --> 00:17:09,470
+intenta deshacer otro efecto. Ambos suelen ser
+mágicos. Cuando un
+
+754
+00:17:09,470 --> 00:17:09,480
+mágicos. Cuando un
+ 
+
+755
+00:17:09,480 --> 00:17:11,660
+mágicos. Cuando un
+personaje contrarresta un efecto,
+
+756
+00:17:11,660 --> 00:17:11,670
+personaje contrarresta un efecto,
+ 
+
+757
+00:17:11,670 --> 00:17:14,960
+personaje contrarresta un efecto,
+debe realizar una prueba de contrarrestar. A menudo, la
+
+758
+00:17:14,960 --> 00:17:14,970
+debe realizar una prueba de contrarrestar. A menudo, la
+ 
+
+759
+00:17:14,970 --> 00:17:16,460
+debe realizar una prueba de contrarrestar. A menudo, la
+bonificación del personaje...  se aplica a su
+
+760
+00:17:16,460 --> 00:17:16,470
+bonificación del personaje...  se aplica a su
+ 
+
+761
+00:17:16,470 --> 00:17:18,860
+bonificación del personaje...  se aplica a su
+rol es proporcionado por el bloque de paso de
+
+762
+00:17:18,860 --> 00:17:18,870
+rol es proporcionado por el bloque de paso de
+ 
+
+763
+00:17:18,870 --> 00:17:21,350
+rol es proporcionado por el bloque de paso de
+cualquier objeto o habilidad que estén usando
+
+764
+00:17:21,350 --> 00:17:21,360
+cualquier objeto o habilidad que estén usando
+ 
+
+765
+00:17:21,360 --> 00:17:23,720
+cualquier objeto o habilidad que estén usando
+para el intento de contrarrestar si el
+
+766
+00:17:23,720 --> 00:17:23,730
+para el intento de contrarrestar si el
+ 
+
+767
+00:17:23,730 --> 00:17:26,210
+para el intento de contrarrestar si el
+personaje está lanzando un hechizo, entonces su
+
+768
+00:17:26,210 --> 00:17:26,220
+personaje está lanzando un hechizo, entonces su
+ 
+
+769
+00:17:26,220 --> 00:17:28,340
+personaje está lanzando un hechizo, entonces su
+modificador de contrarrestar se calcula como
+
+770
+00:17:28,340 --> 00:17:28,350
+modificador de contrarrestar se calcula como
+ 
+
+771
+00:17:28,350 --> 00:17:32,030
+modificador de contrarrestar se calcula como
+modificador de habilidad de lanzamiento de hechizos +
+
+772
+00:17:32,030 --> 00:17:32,040
+modificador de habilidad de lanzamiento de hechizos +
+ 
+
+773
+00:17:32,040 --> 00:17:35,060
+modificador de habilidad de lanzamiento de hechizos +
+bonificador de competencia de lanzamiento de hechizos este es el
+
+774
+00:17:35,060 --> 00:17:35,070
+bonificador de competencia de lanzamiento de hechizos este es el
+ 
+
+775
+00:17:35,070 --> 00:17:37,610
+bonificador de competencia de lanzamiento de hechizos este es el
+mismo cálculo base que el bonificador de ataque de hechizo
+
+776
+00:17:37,610 --> 00:17:37,620
+mismo cálculo base que el bonificador de ataque de hechizo
+ 
+
+777
+00:17:37,620 --> 00:17:40,400
+mismo cálculo base que el bonificador de ataque de hechizo
+pero puede diferir del
+
+778
+00:17:40,400 --> 00:17:40,410
+pero puede diferir del
+ 
+
+779
+00:17:40,410 --> 00:17:42,980
+pero puede diferir del
+bonificador de ataque de hechizo del personaje porque el
+
+780
+00:17:42,980 --> 00:17:42,990
+bonificador de ataque de hechizo del personaje porque el
+ 
+
+781
+00:17:42,990 --> 00:17:45,980
+bonificador de ataque de hechizo del personaje porque el
+modificador de contrarrestar base solo se
+
+782
+00:17:45,980 --> 00:17:45,990
+modificador de contrarrestar base solo se
+ 
+
+783
+00:17:45,990 --> 00:17:48,550
+modificador de contrarrestar base solo se
+ajusta por bonificaciones y penalizaciones que
+
+784
+00:17:48,550 --> 00:17:48,560
+ajusta por bonificaciones y penalizaciones que
+ 
+
+785
+00:17:48,560 --> 00:17:51,110
+ajusta por bonificaciones y penalizaciones que
+afectan específicamente a las verificaciones de contrarrestar
+
+786
+00:17:51,110 --> 00:17:51,120
+afectan específicamente a las verificaciones de contrarrestar
+ 
+
+787
+00:17:51,120 --> 00:17:53,990
+afectan específicamente a las verificaciones de contrarrestar
+y no por cualquier circunstancia que
+
+788
+00:17:53,990 --> 00:17:54,000
+y no por cualquier circunstancia que
+ 
+
+789
+00:17:54,000 --> 00:17:57,470
+y no por cualquier circunstancia que
+modificaría a un atacante de hechizo toda la
+
+790
+00:17:57,470 --> 00:17:57,480
+modificaría a un atacante de hechizo toda la
+ 
+
+791
+00:17:57,480 --> 00:17:59,360
+modificaría a un atacante de hechizo toda la
+verificación de contrarrestar es desafiada por la CE
+
+792
+00:17:59,360 --> 00:17:59,370
+verificación de contrarrestar es desafiada por la CE
+ 
+
+793
+00:17:59,370 --> 00:18:02,840
+verificación de contrarrestar es desafiada por la CE
+contrarrestada de los efectos objetivo si el
+
+794
+00:18:02,840 --> 00:18:02,850
+contrarrestada de los efectos objetivo si el
+ 
+
+795
+00:18:02,850 --> 00:18:05,510
+contrarrestada de los efectos objetivo si el
+efecto que se niega es un hechizo, entonces la
+
+796
+00:18:05,510 --> 00:18:05,520
+efecto que se niega es un hechizo, entonces la
+ 
+
+797
+00:18:05,520 --> 00:18:08,030
+efecto que se niega es un hechizo, entonces la
+CD de contraataque será igual a la
+
+798
+00:18:08,030 --> 00:18:08,040
+CD de contraataque será igual a la
+ 
+
+799
+00:18:08,040 --> 00:18:10,370
+CD de contraataque será igual a la
+CD de hechizo de la criatura que lanzó el
+
+800
+00:18:10,370 --> 00:18:10,380
+CD de hechizo de la criatura que lanzó el
+ 
+
+801
+00:18:10,380 --> 00:18:14,419
+CD de hechizo de la criatura que lanzó el
+hechizo en la CD de hechizo es igual a 10 más el
+
+802
+00:18:14,419 --> 00:18:14,429
+hechizo en la CD de hechizo es igual a 10 más el
+ 
+
+803
+00:18:14,429 --> 00:18:18,169
+hechizo en la CD de hechizo es igual a 10 más el
+bonificador de ataque de hechizo de ese personaje
+
+804
+00:18:18,169 --> 00:18:18,179
+bonificador de ataque de hechizo de ese personaje
+ 
+
+805
+00:18:18,179 --> 00:18:20,360
+bonificador de ataque de hechizo de ese personaje
+también necesitas saber el nivel de contrarrestar
+
+806
+00:18:20,360 --> 00:18:20,370
+también necesitas saber el nivel de contrarrestar
+ 
+
+807
+00:18:20,370 --> 00:18:23,060
+también necesitas saber el nivel de contrarrestar
+tanto del efecto objetivo como del
+
+808
+00:18:23,060 --> 00:18:23,070
+tanto del efecto objetivo como del
+ 
+
+809
+00:18:23,070 --> 00:18:24,290
+tanto del efecto objetivo como del
+personaje que está intentando
+
+810
+00:18:24,290 --> 00:18:24,300
+personaje que está intentando
+ 
+
+811
+00:18:24,300 --> 00:18:26,050
+personaje que está intentando
+contrarrestar ese efecto
+
+812
+00:18:26,050 --> 00:18:26,060
+contrarrestar ese efecto
+ 
+
+813
+00:18:26,060 --> 00:18:28,669
+contrarrestar ese efecto
+nuevamente esto a menudo se proporciona por
+
+814
+00:18:28,669 --> 00:18:28,679
+nuevamente esto a menudo se proporciona por
+ 
+
+815
+00:18:28,679 --> 00:18:31,520
+nuevamente esto a menudo se proporciona por
+bloques de paso pero si no es así, entonces hay un
+
+816
+00:18:31,520 --> 00:18:31,530
+bloques de paso pero si no es así, entonces hay un
+ 
+
+817
+00:18:31,530 --> 00:18:34,820
+bloques de paso pero si no es así, entonces hay un
+par de formas de calcularlo primero si se está
+
+818
+00:18:34,820 --> 00:18:34,830
+par de formas de calcularlo primero si se está
+ 
+
+819
+00:18:34,830 --> 00:18:37,310
+par de formas de calcularlo primero si se está
+usando un hechizo su nivel de contrarrestar
+
+820
+00:18:37,310 --> 00:18:37,320
+usando un hechizo su nivel de contrarrestar
+ 
+
+821
+00:18:37,320 --> 00:18:40,340
+usando un hechizo su nivel de contrarrestar
+es igual al nivel de hechizo de ese hechizo y
+
+822
+00:18:40,340 --> 00:18:40,350
+es igual al nivel de hechizo de ese hechizo y
+ 
+
+823
+00:18:40,350 --> 00:18:43,130
+es igual al nivel de hechizo de ese hechizo y
+si se está usando un objeto puedes
+
+824
+00:18:43,130 --> 00:18:43,140
+si se está usando un objeto puedes
+ 
+
+825
+00:18:43,140 --> 00:18:45,620
+si se está usando un objeto puedes
+calcular  como contador en el nivel como la
+
+826
+00:18:45,620 --> 00:18:45,630
+calcular  como contador en el nivel como la
+ 
+
+827
+00:18:45,630 --> 00:18:49,580
+calcular  como contador en el nivel como la
+mitad de su nivel de objeto redondeado hacia arriba si la
+
+828
+00:18:49,580 --> 00:18:49,590
+mitad de su nivel de objeto redondeado hacia arriba si la
+ 
+
+829
+00:18:49,590 --> 00:18:51,919
+mitad de su nivel de objeto redondeado hacia arriba si la
+verificación de contraacto es igual o mayor
+
+830
+00:18:51,919 --> 00:18:51,929
+verificación de contraacto es igual o mayor
+ 
+
+831
+00:18:51,929 --> 00:18:55,370
+verificación de contraacto es igual o mayor
+que la CD de contraacto, entonces niega
+
+832
+00:18:55,370 --> 00:18:55,380
+que la CD de contraacto, entonces niega
+ 
+
+833
+00:18:55,380 --> 00:18:57,740
+que la CD de contraacto, entonces niega
+el efecto objetivo siempre que el
+
+834
+00:18:57,740 --> 00:18:57,750
+el efecto objetivo siempre que el
+ 
+
+835
+00:18:57,750 --> 00:19:00,650
+el efecto objetivo siempre que el
+nivel de drac de conteo de los objetivos no sea más de
+
+836
+00:19:00,650 --> 00:19:00,660
+nivel de drac de conteo de los objetivos no sea más de
+ 
+
+837
+00:19:00,660 --> 00:19:03,970
+nivel de drac de conteo de los objetivos no sea más de
+uno más alto que su nivel de contrato
+
+838
+00:19:03,970 --> 00:19:03,980
+uno más alto que su nivel de contrato
+ 
+
+839
+00:19:03,980 --> 00:19:06,280
+uno más alto que su nivel de contrato
+si la verificación de contraacto es un
+
+840
+00:19:06,280 --> 00:19:06,290
+si la verificación de contraacto es un
+ 
+
+841
+00:19:06,290 --> 00:19:08,710
+si la verificación de contraacto es un
+éxito crítico, entonces niega el
+
+842
+00:19:08,710 --> 00:19:08,720
+éxito crítico, entonces niega el
+ 
+
+843
+00:19:08,720 --> 00:19:11,260
+éxito crítico, entonces niega el
+efecto de los objetivos siempre que el nivel de contrato de los objetivos
+
+844
+00:19:11,260 --> 00:19:11,270
+efecto de los objetivos siempre que el nivel de contrato de los objetivos
+ 
+
+845
+00:19:11,270 --> 00:19:14,530
+efecto de los objetivos siempre que el nivel de contrato de los objetivos
+no sea más de tres más alto que
+
+846
+00:19:14,530 --> 00:19:14,540
+no sea más de tres más alto que
+ 
+
+847
+00:19:14,540 --> 00:19:17,620
+no sea más de tres más alto que
+su nivel de contrato si la
+
+848
+00:19:17,620 --> 00:19:17,630
+su nivel de contrato si la
+ 
+
+849
+00:19:17,630 --> 00:19:20,140
+su nivel de contrato si la
+verificación de contraacto es un fracaso, entonces todavía tienen
+
+850
+00:19:20,140 --> 00:19:20,150
+verificación de contraacto es un fracaso, entonces todavía tienen
+ 
+
+851
+00:19:20,150 --> 00:19:22,480
+verificación de contraacto es un fracaso, entonces todavía tienen
+éxito en negar el efecto objetivo
+
+852
+00:19:22,480 --> 00:19:22,490
+éxito en negar el efecto objetivo
+ 
+
+853
+00:19:22,490 --> 00:19:25,360
+éxito en negar el efecto objetivo
+siempre que el nivel de contrato de los objetivos sea
+
+854
+00:19:25,360 --> 00:19:25,370
+siempre que el nivel de contrato de los objetivos sea
+ 
+
+855
+00:19:25,370 --> 00:19:29,440
+siempre que el nivel de contrato de los objetivos sea
+menor que su nivel de contraacto y en
+
+856
+00:19:29,440 --> 00:19:29,450
+menor que su nivel de contraacto y en
+ 
+
+857
+00:19:29,450 --> 00:19:31,990
+menor que su nivel de contraacto y en
+un fallo crítico no pueden negar
+
+858
+00:19:31,990 --> 00:19:32,000
+un fallo crítico no pueden negar
+ 
+
+859
+00:19:32,000 --> 00:19:34,539
+un fallo crítico no pueden negar
+el efecto objetivo independientemente de los
+
+860
+00:19:34,539 --> 00:19:34,549
+el efecto objetivo independientemente de los
+ 
+
+861
+00:19:34,549 --> 00:19:38,000
+el efecto objetivo independientemente de los
+niveles de contraacto
+
+862
+00:19:38,000 --> 00:19:38,010
+niveles de contraacto
+ 
+
+863
+00:19:38,010 --> 00:19:39,890
+niveles de contraacto
+con eso terminaremos este video
+
+864
+00:19:39,890 --> 00:19:39,900
+con eso terminaremos este video
+ 
+
+865
+00:19:39,900 --> 00:19:41,990
+con eso terminaremos este video
+si este video te resultó útil,
+
+866
+00:19:41,990 --> 00:19:42,000
+si este video te resultó útil,
+ 
+
+867
+00:19:42,000 --> 00:19:43,580
+si este video te resultó útil,
+por favor danos un me gusta y no olvides hacer
+
+868
+00:19:43,580 --> 00:19:43,590
+por favor danos un me gusta y no olvides hacer
+ 
+
+869
+00:19:43,590 --> 00:19:45,380
+por favor danos un me gusta y no olvides hacer
+clic en el botón de suscripción y la
+
+870
+00:19:45,380 --> 00:19:45,390
+clic en el botón de suscripción y la
+ 
+
+871
+00:19:45,390 --> 00:19:46,970
+clic en el botón de suscripción y la
+campana para que nunca te pierdas nuestros futuros
+
+872
+00:19:46,970 --> 00:19:46,980
+campana para que nunca te pierdas nuestros futuros
+ 
+
+873
+00:19:46,980 --> 00:19:49,310
+campana para que nunca te pierdas nuestros futuros
+videos déjanos un comentario diciéndonos
+
+874
+00:19:49,310 --> 00:19:49,320
+videos déjanos un comentario diciéndonos
+ 
+
+875
+00:19:49,320 --> 00:19:50,570
+videos déjanos un comentario diciéndonos
+qué temas te gustaría ver
+
+876
+00:19:50,570 --> 00:19:50,580
+qué temas te gustaría ver
+ 
+
+877
+00:19:50,580 --> 00:19:52,669
+qué temas te gustaría ver
+cubiertos en nuestros futuros videos y
+
+878
+00:19:52,669 --> 00:19:52,679
+cubiertos en nuestros futuros videos y
+ 
+
+879
+00:19:52,679 --> 00:19:53,810
+cubiertos en nuestros futuros videos y
+siempre puedes comunicarte con nosotros a través de nuestras
+
+880
+00:19:53,810 --> 00:19:53,820
+siempre puedes comunicarte con nosotros a través de nuestras
+ 
+
+881
+00:19:53,820 --> 00:19:56,510
+siempre puedes comunicarte con nosotros a través de nuestras
+páginas de Twitter y Facebook también si te gustaría
+
+882
+00:19:56,510 --> 00:19:56,520
+páginas de Twitter y Facebook también si te gustaría
+ 
+
+883
+00:19:56,520 --> 00:19:58,010
+páginas de Twitter y Facebook también si te gustaría
+usar algunos de los mapas que presentamos en
+
+884
+00:19:58,010 --> 00:19:58,020
+usar algunos de los mapas que presentamos en
+ 
+
+885
+00:19:58,020 --> 00:19:59,810
+usar algunos de los mapas que presentamos en
+nuestros videos y tus propios juegos, puedes
+
+886
+00:19:59,810 --> 00:19:59,820
+nuestros videos y tus propios juegos, puedes
+ 
+
+887
+00:19:59,820 --> 00:20:02,480
+nuestros videos y tus propios juegos, puedes
+encontrarlos en mapas  de maestría un enlace a
+
+888
+00:20:02,480 --> 00:20:02,490
+encontrarlos en mapas  de maestría un enlace a
+ 
+
+889
+00:20:02,490 --> 00:20:03,799
+encontrarlos en mapas  de maestría un enlace a
+esa tienda se puede encontrar en la
+
+890
+00:20:03,799 --> 00:20:03,809
+esa tienda se puede encontrar en la
+ 
+
+891
+00:20:03,809 --> 00:20:06,560
+esa tienda se puede encontrar en la
+descripción gracias por mirar
+
+892
+00:20:06,560 --> 00:20:06,570
+descripción gracias por mirar
+ 
+
+893
+00:20:06,570 --> 00:20:08,210
+descripción gracias por mirar
+cuídese y nos vemos pronto con más
+
+894
+00:20:08,210 --> 00:20:08,220
+cuídese y nos vemos pronto con más
+ 
+
+895
+00:20:08,220 --> 00:20:11,960
+cuídese y nos vemos pronto con más
+conceptos básicos para sus juegos de mesa favoritos
+

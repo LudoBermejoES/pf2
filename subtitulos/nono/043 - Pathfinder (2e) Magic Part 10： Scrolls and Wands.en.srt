@@ -1,0 +1,2825 @@
+1
+00:00:01,120 --> 00:00:02,550
+
+hello and welcome to magic and
+
+2
+00:00:02,550 --> 00:00:02,560
+hello and welcome to magic and
+ 
+
+3
+00:00:02,560 --> 00:00:04,710
+hello and welcome to magic and
+pathfinder second edition part 10
+
+4
+00:00:04,710 --> 00:00:04,720
+pathfinder second edition part 10
+ 
+
+5
+00:00:04,720 --> 00:00:07,190
+pathfinder second edition part 10
+scrolls in wands in this video we'll
+
+6
+00:00:07,190 --> 00:00:07,200
+scrolls in wands in this video we'll
+ 
+
+7
+00:00:07,200 --> 00:00:09,110
+scrolls in wands in this video we'll
+examine the rules for using these items
+
+8
+00:00:09,110 --> 00:00:09,120
+examine the rules for using these items
+ 
+
+9
+00:00:09,120 --> 00:00:10,230
+examine the rules for using these items
+to cast spells
+
+10
+00:00:10,230 --> 00:00:10,240
+to cast spells
+ 
+
+11
+00:00:10,240 --> 00:00:12,230
+to cast spells
+and i would encourage viewers to also
+
+12
+00:00:12,230 --> 00:00:12,240
+and i would encourage viewers to also
+ 
+
+13
+00:00:12,240 --> 00:00:13,509
+and i would encourage viewers to also
+check out my video
+
+14
+00:00:13,509 --> 00:00:13,519
+check out my video
+ 
+
+15
+00:00:13,519 --> 00:00:16,070
+check out my video
+on the trick magic item feet to learn
+
+16
+00:00:16,070 --> 00:00:16,080
+on the trick magic item feet to learn
+ 
+
+17
+00:00:16,080 --> 00:00:18,390
+on the trick magic item feet to learn
+how you can activate wands and scrolls
+
+18
+00:00:18,390 --> 00:00:18,400
+how you can activate wands and scrolls
+ 
+
+19
+00:00:18,400 --> 00:00:20,470
+how you can activate wands and scrolls
+even when you do not meet their normal
+
+20
+00:00:20,470 --> 00:00:20,480
+even when you do not meet their normal
+ 
+
+21
+00:00:20,480 --> 00:00:21,510
+even when you do not meet their normal
+requirements
+
+22
+00:00:21,510 --> 00:00:21,520
+requirements
+ 
+
+23
+00:00:21,520 --> 00:00:23,429
+requirements
+i'll include a link to that video in the
+
+24
+00:00:23,429 --> 00:00:23,439
+i'll include a link to that video in the
+ 
+
+25
+00:00:23,439 --> 00:00:26,070
+i'll include a link to that video in the
+description
+
+26
+00:00:26,070 --> 00:00:26,080
+
+ 
+
+27
+00:00:26,080 --> 00:00:28,390
+
+scrolls are consumable magic items that
+
+28
+00:00:28,390 --> 00:00:28,400
+scrolls are consumable magic items that
+ 
+
+29
+00:00:28,400 --> 00:00:30,470
+scrolls are consumable magic items that
+allow you to cast a spell without using
+
+30
+00:00:30,470 --> 00:00:30,480
+allow you to cast a spell without using
+ 
+
+31
+00:00:30,480 --> 00:00:31,830
+allow you to cast a spell without using
+a spell slot
+
+32
+00:00:31,830 --> 00:00:31,840
+a spell slot
+ 
+
+33
+00:00:31,840 --> 00:00:33,670
+a spell slot
+each scroll contains one spell written
+
+34
+00:00:33,670 --> 00:00:33,680
+each scroll contains one spell written
+ 
+
+35
+00:00:33,680 --> 00:00:35,270
+each scroll contains one spell written
+upon it and only
+
+36
+00:00:35,270 --> 00:00:35,280
+upon it and only
+ 
+
+37
+00:00:35,280 --> 00:00:37,190
+upon it and only
+regular spells may be scribed into a
+
+38
+00:00:37,190 --> 00:00:37,200
+regular spells may be scribed into a
+ 
+
+39
+00:00:37,200 --> 00:00:39,590
+regular spells may be scribed into a
+scroll meaning you cannot cast
+
+40
+00:00:39,590 --> 00:00:39,600
+scroll meaning you cannot cast
+ 
+
+41
+00:00:39,600 --> 00:00:42,069
+scroll meaning you cannot cast
+king trips focus spells or rituals with
+
+42
+00:00:42,069 --> 00:00:42,079
+king trips focus spells or rituals with
+ 
+
+43
+00:00:42,079 --> 00:00:43,350
+king trips focus spells or rituals with
+a scroll
+
+44
+00:00:43,350 --> 00:00:43,360
+a scroll
+ 
+
+45
+00:00:43,360 --> 00:00:45,270
+a scroll
+the spell contained within a squirrel
+
+46
+00:00:45,270 --> 00:00:45,280
+the spell contained within a squirrel
+ 
+
+47
+00:00:45,280 --> 00:00:47,830
+the spell contained within a squirrel
+may only be cast at the level specified
+
+48
+00:00:47,830 --> 00:00:47,840
+may only be cast at the level specified
+ 
+
+49
+00:00:47,840 --> 00:00:49,670
+may only be cast at the level specified
+by the scroll which is noted in the
+
+50
+00:00:49,670 --> 00:00:49,680
+by the scroll which is noted in the
+ 
+
+51
+00:00:49,680 --> 00:00:50,869
+by the scroll which is noted in the
+squirrel's name
+
+52
+00:00:50,869 --> 00:00:50,879
+squirrel's name
+ 
+
+53
+00:00:50,879 --> 00:00:53,350
+squirrel's name
+for example a scroll of fireball fourth
+
+54
+00:00:53,350 --> 00:00:53,360
+for example a scroll of fireball fourth
+ 
+
+55
+00:00:53,360 --> 00:00:53,990
+for example a scroll of fireball fourth
+level
+
+56
+00:00:53,990 --> 00:00:54,000
+level
+ 
+
+57
+00:00:54,000 --> 00:00:56,229
+level
+can be used to cast a fourth level
+
+58
+00:00:56,229 --> 00:00:56,239
+can be used to cast a fourth level
+ 
+
+59
+00:00:56,239 --> 00:00:59,510
+can be used to cast a fourth level
+fireball spell and only at that level
+
+60
+00:00:59,510 --> 00:00:59,520
+fireball spell and only at that level
+ 
+
+61
+00:00:59,520 --> 00:01:01,349
+fireball spell and only at that level
+it could not be used to cast fireball
+
+62
+00:01:01,349 --> 00:01:01,359
+it could not be used to cast fireball
+ 
+
+63
+00:01:01,359 --> 00:01:03,029
+it could not be used to cast fireball
+heightened higher than that
+
+64
+00:01:03,029 --> 00:01:03,039
+heightened higher than that
+ 
+
+65
+00:01:03,039 --> 00:01:05,350
+heightened higher than that
+even if you are normally able to cast
+
+66
+00:01:05,350 --> 00:01:05,360
+even if you are normally able to cast
+ 
+
+67
+00:01:05,360 --> 00:01:08,390
+even if you are normally able to cast
+higher level fireball spells yourself
+
+68
+00:01:08,390 --> 00:01:08,400
+higher level fireball spells yourself
+ 
+
+69
+00:01:08,400 --> 00:01:10,469
+higher level fireball spells yourself
+if no level is specified in the scroll's
+
+70
+00:01:10,469 --> 00:01:10,479
+if no level is specified in the scroll's
+ 
+
+71
+00:01:10,479 --> 00:01:11,990
+if no level is specified in the scroll's
+name then the scroll can
+
+72
+00:01:11,990 --> 00:01:12,000
+name then the scroll can
+ 
+
+73
+00:01:12,000 --> 00:01:14,070
+name then the scroll can
+be used to cast the lowest level version
+
+74
+00:01:14,070 --> 00:01:14,080
+be used to cast the lowest level version
+ 
+
+75
+00:01:14,080 --> 00:01:15,109
+be used to cast the lowest level version
+of its spell
+
+76
+00:01:15,109 --> 00:01:15,119
+of its spell
+ 
+
+77
+00:01:15,119 --> 00:01:17,749
+of its spell
+for example a scroll of fireball with no
+
+78
+00:01:17,749 --> 00:01:17,759
+for example a scroll of fireball with no
+ 
+
+79
+00:01:17,759 --> 00:01:19,429
+for example a scroll of fireball with no
+level listed in its name
+
+80
+00:01:19,429 --> 00:01:19,439
+level listed in its name
+ 
+
+81
+00:01:19,439 --> 00:01:21,670
+level listed in its name
+contains a third level fireball spell
+
+82
+00:01:21,670 --> 00:01:21,680
+contains a third level fireball spell
+ 
+
+83
+00:01:21,680 --> 00:01:23,749
+contains a third level fireball spell
+since that is the lowest level version
+
+84
+00:01:23,749 --> 00:01:23,759
+since that is the lowest level version
+ 
+
+85
+00:01:23,759 --> 00:01:25,350
+since that is the lowest level version
+of fireball
+
+86
+00:01:25,350 --> 00:01:25,360
+of fireball
+ 
+
+87
+00:01:25,360 --> 00:01:27,109
+of fireball
+also be aware that scrolls are
+
+88
+00:01:27,109 --> 00:01:27,119
+also be aware that scrolls are
+ 
+
+89
+00:01:27,119 --> 00:01:28,710
+also be aware that scrolls are
+consumable items
+
+90
+00:01:28,710 --> 00:01:28,720
+consumable items
+ 
+
+91
+00:01:28,720 --> 00:01:30,870
+consumable items
+meaning that the squirrel is destroyed
+
+92
+00:01:30,870 --> 00:01:30,880
+meaning that the squirrel is destroyed
+ 
+
+93
+00:01:30,880 --> 00:01:33,830
+meaning that the squirrel is destroyed
+in the process of casting the spell
+
+94
+00:01:33,830 --> 00:01:33,840
+in the process of casting the spell
+ 
+
+95
+00:01:33,840 --> 00:01:36,149
+in the process of casting the spell
+casting a spell from a scroll works in
+
+96
+00:01:36,149 --> 00:01:36,159
+casting a spell from a scroll works in
+ 
+
+97
+00:01:36,159 --> 00:01:37,830
+casting a spell from a scroll works in
+much the same way as casting spells
+
+98
+00:01:37,830 --> 00:01:37,840
+much the same way as casting spells
+ 
+
+99
+00:01:37,840 --> 00:01:38,630
+much the same way as casting spells
+normally
+
+100
+00:01:38,630 --> 00:01:38,640
+normally
+ 
+
+101
+00:01:38,640 --> 00:01:40,789
+normally
+except you need to hold the scroll in
+
+102
+00:01:40,789 --> 00:01:40,799
+except you need to hold the scroll in
+ 
+
+103
+00:01:40,799 --> 00:01:41,749
+except you need to hold the scroll in
+one hand
+
+104
+00:01:41,749 --> 00:01:41,759
+one hand
+ 
+
+105
+00:01:41,759 --> 00:01:43,590
+one hand
+meaning you may need to spin an action
+
+106
+00:01:43,590 --> 00:01:43,600
+meaning you may need to spin an action
+ 
+
+107
+00:01:43,600 --> 00:01:45,670
+meaning you may need to spin an action
+to retrieve the scroll before you can
+
+108
+00:01:45,670 --> 00:01:45,680
+to retrieve the scroll before you can
+ 
+
+109
+00:01:45,680 --> 00:01:46,710
+to retrieve the scroll before you can
+use it
+
+110
+00:01:46,710 --> 00:01:46,720
+use it
+ 
+
+111
+00:01:46,720 --> 00:01:48,710
+use it
+activating a scroll is an application of
+
+112
+00:01:48,710 --> 00:01:48,720
+activating a scroll is an application of
+ 
+
+113
+00:01:48,720 --> 00:01:50,710
+activating a scroll is an application of
+the cast a spell activity
+
+114
+00:01:50,710 --> 00:01:50,720
+the cast a spell activity
+ 
+
+115
+00:01:50,720 --> 00:01:53,109
+the cast a spell activity
+uses the same number of actions as are
+
+116
+00:01:53,109 --> 00:01:53,119
+uses the same number of actions as are
+ 
+
+117
+00:01:53,119 --> 00:01:55,109
+uses the same number of actions as are
+normally required to cast the spell
+
+118
+00:01:55,109 --> 00:01:55,119
+normally required to cast the spell
+ 
+
+119
+00:01:55,119 --> 00:01:57,670
+normally required to cast the spell
+and in order to use the scroll its spell
+
+120
+00:01:57,670 --> 00:01:57,680
+and in order to use the scroll its spell
+ 
+
+121
+00:01:57,680 --> 00:01:58,550
+and in order to use the scroll its spell
+must appear
+
+122
+00:01:58,550 --> 00:01:58,560
+must appear
+ 
+
+123
+00:01:58,560 --> 00:02:00,950
+must appear
+on your spell list and note that the
+
+124
+00:02:00,950 --> 00:02:00,960
+on your spell list and note that the
+ 
+
+125
+00:02:00,960 --> 00:02:02,389
+on your spell list and note that the
+only requirement
+
+126
+00:02:02,389 --> 00:02:02,399
+only requirement
+ 
+
+127
+00:02:02,399 --> 00:02:04,789
+only requirement
+is that it appear on your spell list it
+
+128
+00:02:04,789 --> 00:02:04,799
+is that it appear on your spell list it
+ 
+
+129
+00:02:04,799 --> 00:02:06,389
+is that it appear on your spell list it
+does not need to be a spell in your
+
+130
+00:02:06,389 --> 00:02:06,399
+does not need to be a spell in your
+ 
+
+131
+00:02:06,399 --> 00:02:07,429
+does not need to be a spell in your
+repertoire
+
+132
+00:02:07,429 --> 00:02:07,439
+repertoire
+ 
+
+133
+00:02:07,439 --> 00:02:09,109
+repertoire
+or a spell that you have in your spell
+
+134
+00:02:09,109 --> 00:02:09,119
+or a spell that you have in your spell
+ 
+
+135
+00:02:09,119 --> 00:02:10,630
+or a spell that you have in your spell
+book or even be
+
+136
+00:02:10,630 --> 00:02:10,640
+book or even be
+ 
+
+137
+00:02:10,640 --> 00:02:12,550
+book or even be
+a spell level that you're capable of
+
+138
+00:02:12,550 --> 00:02:12,560
+a spell level that you're capable of
+ 
+
+139
+00:02:12,560 --> 00:02:15,350
+a spell level that you're capable of
+casting as long as it appears on your
+
+140
+00:02:15,350 --> 00:02:15,360
+casting as long as it appears on your
+ 
+
+141
+00:02:15,360 --> 00:02:17,350
+casting as long as it appears on your
+spell list you're good to go
+
+142
+00:02:17,350 --> 00:02:17,360
+spell list you're good to go
+ 
+
+143
+00:02:17,360 --> 00:02:19,510
+spell list you're good to go
+by the way this is a major benefit of
+
+144
+00:02:19,510 --> 00:02:19,520
+by the way this is a major benefit of
+ 
+
+145
+00:02:19,520 --> 00:02:21,670
+by the way this is a major benefit of
+spending one fee to multi-class into a
+
+146
+00:02:21,670 --> 00:02:21,680
+spending one fee to multi-class into a
+ 
+
+147
+00:02:21,680 --> 00:02:23,190
+spending one fee to multi-class into a
+spellcasting class
+
+148
+00:02:23,190 --> 00:02:23,200
+spellcasting class
+ 
+
+149
+00:02:23,200 --> 00:02:25,830
+spellcasting class
+you instantly become able to use scrolls
+
+150
+00:02:25,830 --> 00:02:25,840
+you instantly become able to use scrolls
+ 
+
+151
+00:02:25,840 --> 00:02:26,790
+you instantly become able to use scrolls
+and wands for
+
+152
+00:02:26,790 --> 00:02:26,800
+and wands for
+ 
+
+153
+00:02:26,800 --> 00:02:29,110
+and wands for
+all of the spells provided by that
+
+154
+00:02:29,110 --> 00:02:29,120
+all of the spells provided by that
+ 
+
+155
+00:02:29,120 --> 00:02:30,949
+all of the spells provided by that
+class's spell list
+
+156
+00:02:30,949 --> 00:02:30,959
+class's spell list
+ 
+
+157
+00:02:30,959 --> 00:02:33,110
+class's spell list
+no material components or other costs
+
+158
+00:02:33,110 --> 00:02:33,120
+no material components or other costs
+ 
+
+159
+00:02:33,120 --> 00:02:35,509
+no material components or other costs
+need to be paid when using a scroll
+
+160
+00:02:35,509 --> 00:02:35,519
+need to be paid when using a scroll
+ 
+
+161
+00:02:35,519 --> 00:02:37,990
+need to be paid when using a scroll
+but if the spell requires the use of a
+
+162
+00:02:37,990 --> 00:02:38,000
+but if the spell requires the use of a
+ 
+
+163
+00:02:38,000 --> 00:02:38,710
+but if the spell requires the use of a
+focus
+
+164
+00:02:38,710 --> 00:02:38,720
+focus
+ 
+
+165
+00:02:38,720 --> 00:02:40,710
+focus
+you must still provide that focus in
+
+166
+00:02:40,710 --> 00:02:40,720
+you must still provide that focus in
+ 
+
+167
+00:02:40,720 --> 00:02:43,270
+you must still provide that focus in
+order to cast that squirrel's spell
+
+168
+00:02:43,270 --> 00:02:43,280
+order to cast that squirrel's spell
+ 
+
+169
+00:02:43,280 --> 00:02:45,990
+order to cast that squirrel's spell
+for example continual flame requires six
+
+170
+00:02:45,990 --> 00:02:46,000
+for example continual flame requires six
+ 
+
+171
+00:02:46,000 --> 00:02:48,630
+for example continual flame requires six
+gold pieces worth of ruby dust to cast
+
+172
+00:02:48,630 --> 00:02:48,640
+gold pieces worth of ruby dust to cast
+ 
+
+173
+00:02:48,640 --> 00:02:50,710
+gold pieces worth of ruby dust to cast
+when casting the spell from a scroll of
+
+174
+00:02:50,710 --> 00:02:50,720
+when casting the spell from a scroll of
+ 
+
+175
+00:02:50,720 --> 00:02:51,830
+when casting the spell from a scroll of
+continual flame
+
+176
+00:02:51,830 --> 00:02:51,840
+continual flame
+ 
+
+177
+00:02:51,840 --> 00:02:53,670
+continual flame
+you do not need to provide this gold
+
+178
+00:02:53,670 --> 00:02:53,680
+you do not need to provide this gold
+ 
+
+179
+00:02:53,680 --> 00:02:55,670
+you do not need to provide this gold
+dust because it is listed
+
+180
+00:02:55,670 --> 00:02:55,680
+dust because it is listed
+ 
+
+181
+00:02:55,680 --> 00:02:59,030
+dust because it is listed
+as a cost but on the other hand
+
+182
+00:02:59,030 --> 00:02:59,040
+as a cost but on the other hand
+ 
+
+183
+00:02:59,040 --> 00:03:01,990
+as a cost but on the other hand
+plane shift requires the use of a magic
+
+184
+00:03:01,990 --> 00:03:02,000
+plane shift requires the use of a magic
+ 
+
+185
+00:03:02,000 --> 00:03:03,030
+plane shift requires the use of a magic
+tuning fork as
+
+186
+00:03:03,030 --> 00:03:03,040
+tuning fork as
+ 
+
+187
+00:03:03,040 --> 00:03:06,550
+tuning fork as
+a focus since this is a focus and not a
+
+188
+00:03:06,550 --> 00:03:06,560
+a focus since this is a focus and not a
+ 
+
+189
+00:03:06,560 --> 00:03:09,350
+a focus since this is a focus and not a
+cost or material component you must
+
+190
+00:03:09,350 --> 00:03:09,360
+cost or material component you must
+ 
+
+191
+00:03:09,360 --> 00:03:11,350
+cost or material component you must
+provide a magic tuning fork
+
+192
+00:03:11,350 --> 00:03:11,360
+provide a magic tuning fork
+ 
+
+193
+00:03:11,360 --> 00:03:14,949
+provide a magic tuning fork
+in order to use a scroll of plane shift
+
+194
+00:03:14,949 --> 00:03:14,959
+in order to use a scroll of plane shift
+ 
+
+195
+00:03:14,959 --> 00:03:17,270
+in order to use a scroll of plane shift
+also note that when you use a scroll
+
+196
+00:03:17,270 --> 00:03:17,280
+also note that when you use a scroll
+ 
+
+197
+00:03:17,280 --> 00:03:19,830
+also note that when you use a scroll
+that spell gains your tradition's trait
+
+198
+00:03:19,830 --> 00:03:19,840
+that spell gains your tradition's trait
+ 
+
+199
+00:03:19,840 --> 00:03:21,750
+that spell gains your tradition's trait
+and since you are the one casting the
+
+200
+00:03:21,750 --> 00:03:21,760
+and since you are the one casting the
+ 
+
+201
+00:03:21,760 --> 00:03:23,110
+and since you are the one casting the
+spell you use
+
+202
+00:03:23,110 --> 00:03:23,120
+spell you use
+ 
+
+203
+00:03:23,120 --> 00:03:25,750
+spell you use
+your spell attack bonus and your spell
+
+204
+00:03:25,750 --> 00:03:25,760
+your spell attack bonus and your spell
+ 
+
+205
+00:03:25,760 --> 00:03:26,309
+your spell attack bonus and your spell
+dc
+
+206
+00:03:26,309 --> 00:03:26,319
+dc
+ 
+
+207
+00:03:26,319 --> 00:03:31,190
+dc
+as normal next let's talk about wands
+
+208
+00:03:31,190 --> 00:03:31,200
+as normal next let's talk about wands
+ 
+
+209
+00:03:31,200 --> 00:03:33,430
+as normal next let's talk about wands
+wands function almost identically to
+
+210
+00:03:33,430 --> 00:03:33,440
+wands function almost identically to
+ 
+
+211
+00:03:33,440 --> 00:03:34,470
+wands function almost identically to
+scrolls
+
+212
+00:03:34,470 --> 00:03:34,480
+scrolls
+ 
+
+213
+00:03:34,480 --> 00:03:37,190
+scrolls
+using a1 does not consume a spell slot
+
+214
+00:03:37,190 --> 00:03:37,200
+using a1 does not consume a spell slot
+ 
+
+215
+00:03:37,200 --> 00:03:38,229
+using a1 does not consume a spell slot
+each one holds
+
+216
+00:03:38,229 --> 00:03:38,239
+each one holds
+ 
+
+217
+00:03:38,239 --> 00:03:40,710
+each one holds
+one spell of a given level and can only
+
+218
+00:03:40,710 --> 00:03:40,720
+one spell of a given level and can only
+ 
+
+219
+00:03:40,720 --> 00:03:41,750
+one spell of a given level and can only
+be used to cast
+
+220
+00:03:41,750 --> 00:03:41,760
+be used to cast
+ 
+
+221
+00:03:41,760 --> 00:03:44,470
+be used to cast
+that spell at that level only regular
+
+222
+00:03:44,470 --> 00:03:44,480
+that spell at that level only regular
+ 
+
+223
+00:03:44,480 --> 00:03:46,149
+that spell at that level only regular
+spells may be cast with wands
+
+224
+00:03:46,149 --> 00:03:46,159
+spells may be cast with wands
+ 
+
+225
+00:03:46,159 --> 00:03:48,789
+spells may be cast with wands
+no can trips focus spells or rituals
+
+226
+00:03:48,789 --> 00:03:48,799
+no can trips focus spells or rituals
+ 
+
+227
+00:03:48,799 --> 00:03:50,149
+no can trips focus spells or rituals
+casting a spell with a wand
+
+228
+00:03:50,149 --> 00:03:50,159
+casting a spell with a wand
+ 
+
+229
+00:03:50,159 --> 00:03:52,229
+casting a spell with a wand
+requires you to hold it in one hand and
+
+230
+00:03:52,229 --> 00:03:52,239
+requires you to hold it in one hand and
+ 
+
+231
+00:03:52,239 --> 00:03:54,070
+requires you to hold it in one hand and
+spend the same number of actions as
+
+232
+00:03:54,070 --> 00:03:54,080
+spend the same number of actions as
+ 
+
+233
+00:03:54,080 --> 00:03:56,229
+spend the same number of actions as
+usually needed to cast the spell
+
+234
+00:03:56,229 --> 00:03:56,239
+usually needed to cast the spell
+ 
+
+235
+00:03:56,239 --> 00:03:58,309
+usually needed to cast the spell
+to cast a spell with a wand its spell
+
+236
+00:03:58,309 --> 00:03:58,319
+to cast a spell with a wand its spell
+ 
+
+237
+00:03:58,319 --> 00:04:00,149
+to cast a spell with a wand its spell
+must be on your spell list
+
+238
+00:04:00,149 --> 00:04:00,159
+must be on your spell list
+ 
+
+239
+00:04:00,159 --> 00:04:02,309
+must be on your spell list
+as with scrolls the spell's level does
+
+240
+00:04:02,309 --> 00:04:02,319
+as with scrolls the spell's level does
+ 
+
+241
+00:04:02,319 --> 00:04:03,350
+as with scrolls the spell's level does
+not matter
+
+242
+00:04:03,350 --> 00:04:03,360
+not matter
+ 
+
+243
+00:04:03,360 --> 00:04:05,350
+not matter
+all that matters is that it is on your
+
+244
+00:04:05,350 --> 00:04:05,360
+all that matters is that it is on your
+ 
+
+245
+00:04:05,360 --> 00:04:06,869
+all that matters is that it is on your
+spell list
+
+246
+00:04:06,869 --> 00:04:06,879
+spell list
+ 
+
+247
+00:04:06,879 --> 00:04:08,789
+spell list
+casting a spell with a wand requires no
+
+248
+00:04:08,789 --> 00:04:08,799
+casting a spell with a wand requires no
+ 
+
+249
+00:04:08,799 --> 00:04:10,710
+casting a spell with a wand requires no
+material components or costs
+
+250
+00:04:10,710 --> 00:04:10,720
+material components or costs
+ 
+
+251
+00:04:10,720 --> 00:04:13,110
+material components or costs
+but you must still provide any focus the
+
+252
+00:04:13,110 --> 00:04:13,120
+but you must still provide any focus the
+ 
+
+253
+00:04:13,120 --> 00:04:14,550
+but you must still provide any focus the
+spell requires
+
+254
+00:04:14,550 --> 00:04:14,560
+spell requires
+ 
+
+255
+00:04:14,560 --> 00:04:17,030
+spell requires
+and when you cast using a wand you use
+
+256
+00:04:17,030 --> 00:04:17,040
+and when you cast using a wand you use
+ 
+
+257
+00:04:17,040 --> 00:04:19,110
+and when you cast using a wand you use
+your spell attack bonus and your spell
+
+258
+00:04:19,110 --> 00:04:19,120
+your spell attack bonus and your spell
+ 
+
+259
+00:04:19,120 --> 00:04:21,030
+your spell attack bonus and your spell
+dc as usual
+
+260
+00:04:21,030 --> 00:04:21,040
+dc as usual
+ 
+
+261
+00:04:21,040 --> 00:04:23,430
+dc as usual
+all of that is familiar territory
+
+262
+00:04:23,430 --> 00:04:23,440
+all of that is familiar territory
+ 
+
+263
+00:04:23,440 --> 00:04:25,510
+all of that is familiar territory
+there's really only one way that wands
+
+264
+00:04:25,510 --> 00:04:25,520
+there's really only one way that wands
+ 
+
+265
+00:04:25,520 --> 00:04:27,430
+there's really only one way that wands
+are different from scrolls
+
+266
+00:04:27,430 --> 00:04:27,440
+are different from scrolls
+ 
+
+267
+00:04:27,440 --> 00:04:30,070
+are different from scrolls
+scrolls are consumed and destroyed after
+
+268
+00:04:30,070 --> 00:04:30,080
+scrolls are consumed and destroyed after
+ 
+
+269
+00:04:30,080 --> 00:04:31,110
+scrolls are consumed and destroyed after
+they are used
+
+270
+00:04:31,110 --> 00:04:31,120
+they are used
+ 
+
+271
+00:04:31,120 --> 00:04:34,629
+they are used
+and wands are not instead a one can be
+
+272
+00:04:34,629 --> 00:04:34,639
+and wands are not instead a one can be
+ 
+
+273
+00:04:34,639 --> 00:04:36,070
+and wands are not instead a one can be
+used to cast its spell
+
+274
+00:04:36,070 --> 00:04:36,080
+used to cast its spell
+ 
+
+275
+00:04:36,080 --> 00:04:38,550
+used to cast its spell
+one time per adventuring day without any
+
+276
+00:04:38,550 --> 00:04:38,560
+one time per adventuring day without any
+ 
+
+277
+00:04:38,560 --> 00:04:39,350
+one time per adventuring day without any
+risk
+
+278
+00:04:39,350 --> 00:04:39,360
+risk
+ 
+
+279
+00:04:39,360 --> 00:04:41,590
+risk
+and it can be overcharged to cast a
+
+280
+00:04:41,590 --> 00:04:41,600
+and it can be overcharged to cast a
+ 
+
+281
+00:04:41,600 --> 00:04:43,749
+and it can be overcharged to cast a
+spell a second time that day
+
+282
+00:04:43,749 --> 00:04:43,759
+spell a second time that day
+ 
+
+283
+00:04:43,759 --> 00:04:46,469
+spell a second time that day
+at the risk of destroying it through
+
+284
+00:04:46,469 --> 00:04:46,479
+at the risk of destroying it through
+ 
+
+285
+00:04:46,479 --> 00:04:48,230
+at the risk of destroying it through
+overcharging you can use a wand
+
+286
+00:04:48,230 --> 00:04:48,240
+overcharging you can use a wand
+ 
+
+287
+00:04:48,240 --> 00:04:51,189
+overcharging you can use a wand
+twice per day but after the second
+
+288
+00:04:51,189 --> 00:04:51,199
+twice per day but after the second
+ 
+
+289
+00:04:51,199 --> 00:04:53,990
+twice per day but after the second
+casting you need to roll a dc-10 flat
+
+290
+00:04:53,990 --> 00:04:54,000
+casting you need to roll a dc-10 flat
+ 
+
+291
+00:04:54,000 --> 00:04:54,629
+casting you need to roll a dc-10 flat
+check
+
+292
+00:04:54,629 --> 00:04:54,639
+check
+ 
+
+293
+00:04:54,639 --> 00:04:57,350
+check
+just a straight d20 roll with no
+
+294
+00:04:57,350 --> 00:04:57,360
+just a straight d20 roll with no
+ 
+
+295
+00:04:57,360 --> 00:04:59,110
+just a straight d20 roll with no
+modifiers at all
+
+296
+00:04:59,110 --> 00:04:59,120
+modifiers at all
+ 
+
+297
+00:04:59,120 --> 00:05:01,510
+modifiers at all
+so you're relying on nothing but luck
+
+298
+00:05:01,510 --> 00:05:01,520
+so you're relying on nothing but luck
+ 
+
+299
+00:05:01,520 --> 00:05:02,390
+so you're relying on nothing but luck
+here
+
+300
+00:05:02,390 --> 00:05:02,400
+here
+ 
+
+301
+00:05:02,400 --> 00:05:05,270
+here
+regardless of the result you do cast the
+
+302
+00:05:05,270 --> 00:05:05,280
+regardless of the result you do cast the
+ 
+
+303
+00:05:05,280 --> 00:05:05,749
+regardless of the result you do cast the
+spell
+
+304
+00:05:05,749 --> 00:05:05,759
+spell
+ 
+
+305
+00:05:05,759 --> 00:05:07,990
+spell
+and resolve it as normal you won't be
+
+306
+00:05:07,990 --> 00:05:08,000
+and resolve it as normal you won't be
+ 
+
+307
+00:05:08,000 --> 00:05:08,790
+and resolve it as normal you won't be
+rolling this check
+
+308
+00:05:08,790 --> 00:05:08,800
+rolling this check
+ 
+
+309
+00:05:08,800 --> 00:05:11,990
+rolling this check
+until after the spell is resolved if you
+
+310
+00:05:11,990 --> 00:05:12,000
+until after the spell is resolved if you
+ 
+
+311
+00:05:12,000 --> 00:05:14,550
+until after the spell is resolved if you
+succeed by rolling a 10 through 20 on
+
+312
+00:05:14,550 --> 00:05:14,560
+succeed by rolling a 10 through 20 on
+ 
+
+313
+00:05:14,560 --> 00:05:15,350
+succeed by rolling a 10 through 20 on
+the die
+
+314
+00:05:15,350 --> 00:05:15,360
+the die
+ 
+
+315
+00:05:15,360 --> 00:05:17,830
+the die
+the wand gains the broken condition
+
+316
+00:05:17,830 --> 00:05:17,840
+the wand gains the broken condition
+ 
+
+317
+00:05:17,840 --> 00:05:18,790
+the wand gains the broken condition
+afterwards
+
+318
+00:05:18,790 --> 00:05:18,800
+afterwards
+ 
+
+319
+00:05:18,800 --> 00:05:21,909
+afterwards
+that's right a success means you break
+
+320
+00:05:21,909 --> 00:05:21,919
+that's right a success means you break
+ 
+
+321
+00:05:21,919 --> 00:05:23,270
+that's right a success means you break
+the wand
+
+322
+00:05:23,270 --> 00:05:23,280
+the wand
+ 
+
+323
+00:05:23,280 --> 00:05:26,070
+the wand
+and if you feel the check by rolling a
+
+324
+00:05:26,070 --> 00:05:26,080
+and if you feel the check by rolling a
+ 
+
+325
+00:05:26,080 --> 00:05:27,749
+and if you feel the check by rolling a
+one through nine on the die
+
+326
+00:05:27,749 --> 00:05:27,759
+one through nine on the die
+ 
+
+327
+00:05:27,759 --> 00:05:30,870
+one through nine on the die
+then the wand is completely destroyed
+
+328
+00:05:30,870 --> 00:05:30,880
+then the wand is completely destroyed
+ 
+
+329
+00:05:30,880 --> 00:05:33,350
+then the wand is completely destroyed
+and again these checks occur after the
+
+330
+00:05:33,350 --> 00:05:33,360
+and again these checks occur after the
+ 
+
+331
+00:05:33,360 --> 00:05:35,350
+and again these checks occur after the
+casting is resolved so no matter what
+
+332
+00:05:35,350 --> 00:05:35,360
+casting is resolved so no matter what
+ 
+
+333
+00:05:35,360 --> 00:05:38,150
+casting is resolved so no matter what
+you will get the second spell off and
+
+334
+00:05:38,150 --> 00:05:38,160
+you will get the second spell off and
+ 
+
+335
+00:05:38,160 --> 00:05:39,189
+you will get the second spell off and
+then you need to see
+
+336
+00:05:39,189 --> 00:05:39,199
+then you need to see
+ 
+
+337
+00:05:39,199 --> 00:05:41,110
+then you need to see
+if he merely broke or completely
+
+338
+00:05:41,110 --> 00:05:41,120
+if he merely broke or completely
+ 
+
+339
+00:05:41,120 --> 00:05:43,590
+if he merely broke or completely
+destroyed the wand in the process
+
+340
+00:05:43,590 --> 00:05:43,600
+destroyed the wand in the process
+ 
+
+341
+00:05:43,600 --> 00:05:45,670
+destroyed the wand in the process
+the difference between being broken and
+
+342
+00:05:45,670 --> 00:05:45,680
+the difference between being broken and
+ 
+
+343
+00:05:45,680 --> 00:05:46,870
+the difference between being broken and
+being destroyed
+
+344
+00:05:46,870 --> 00:05:46,880
+being destroyed
+ 
+
+345
+00:05:46,880 --> 00:05:49,990
+being destroyed
+is a broken wand can still be repaired
+
+346
+00:05:49,990 --> 00:05:50,000
+is a broken wand can still be repaired
+ 
+
+347
+00:05:50,000 --> 00:05:52,230
+is a broken wand can still be repaired
+i haven't seen specific stats given for
+
+348
+00:05:52,230 --> 00:05:52,240
+i haven't seen specific stats given for
+ 
+
+349
+00:05:52,240 --> 00:05:55,430
+i haven't seen specific stats given for
+wands but the table on page 577
+
+350
+00:05:55,430 --> 00:05:55,440
+wands but the table on page 577
+ 
+
+351
+00:05:55,440 --> 00:05:58,070
+wands but the table on page 577
+says that thin wood has 12 hit points
+
+352
+00:05:58,070 --> 00:05:58,080
+says that thin wood has 12 hit points
+ 
+
+353
+00:05:58,080 --> 00:06:00,469
+says that thin wood has 12 hit points
+and a break threshold of 6.
+
+354
+00:06:00,469 --> 00:06:00,479
+and a break threshold of 6.
+ 
+
+355
+00:06:00,479 --> 00:06:03,189
+and a break threshold of 6.
+so breaking the wand after overcharging
+
+356
+00:06:03,189 --> 00:06:03,199
+so breaking the wand after overcharging
+ 
+
+357
+00:06:03,199 --> 00:06:05,430
+so breaking the wand after overcharging
+likely reduces the 1 to only six hit
+
+358
+00:06:05,430 --> 00:06:05,440
+likely reduces the 1 to only six hit
+ 
+
+359
+00:06:05,440 --> 00:06:06,469
+likely reduces the 1 to only six hit
+points remaining
+
+360
+00:06:06,469 --> 00:06:06,479
+points remaining
+ 
+
+361
+00:06:06,479 --> 00:06:08,870
+points remaining
+and would need to then be repaired
+
+362
+00:06:08,870 --> 00:06:08,880
+and would need to then be repaired
+ 
+
+363
+00:06:08,880 --> 00:06:10,870
+and would need to then be repaired
+likely by using the crafting skill
+
+364
+00:06:10,870 --> 00:06:10,880
+likely by using the crafting skill
+ 
+
+365
+00:06:10,880 --> 00:06:12,950
+likely by using the crafting skill
+which would use the ones item level to
+
+366
+00:06:12,950 --> 00:06:12,960
+which would use the ones item level to
+ 
+
+367
+00:06:12,960 --> 00:06:15,110
+which would use the ones item level to
+determine the checks dc
+
+368
+00:06:15,110 --> 00:06:15,120
+determine the checks dc
+ 
+
+369
+00:06:15,120 --> 00:06:17,909
+determine the checks dc
+note that the mending spell only targets
+
+370
+00:06:17,909 --> 00:06:17,919
+note that the mending spell only targets
+ 
+
+371
+00:06:17,919 --> 00:06:19,189
+note that the mending spell only targets
+non-magical items
+
+372
+00:06:19,189 --> 00:06:19,199
+non-magical items
+ 
+
+373
+00:06:19,199 --> 00:06:21,270
+non-magical items
+and therefore could not be used to
+
+374
+00:06:21,270 --> 00:06:21,280
+and therefore could not be used to
+ 
+
+375
+00:06:21,280 --> 00:06:23,350
+and therefore could not be used to
+repair a broken wand
+
+376
+00:06:23,350 --> 00:06:23,360
+repair a broken wand
+ 
+
+377
+00:06:23,360 --> 00:06:26,070
+repair a broken wand
+and if anyone attempts to use a wand for
+
+378
+00:06:26,070 --> 00:06:26,080
+and if anyone attempts to use a wand for
+ 
+
+379
+00:06:26,080 --> 00:06:27,189
+and if anyone attempts to use a wand for
+a third time
+
+380
+00:06:27,189 --> 00:06:27,199
+a third time
+ 
+
+381
+00:06:27,199 --> 00:06:29,830
+a third time
+during the same day even if it has been
+
+382
+00:06:29,830 --> 00:06:29,840
+during the same day even if it has been
+ 
+
+383
+00:06:29,840 --> 00:06:30,390
+during the same day even if it has been
+broken
+
+384
+00:06:30,390 --> 00:06:30,400
+broken
+ 
+
+385
+00:06:30,400 --> 00:06:33,189
+broken
+and repaired earlier that day then the
+
+386
+00:06:33,189 --> 00:06:33,199
+and repaired earlier that day then the
+ 
+
+387
+00:06:33,199 --> 00:06:35,590
+and repaired earlier that day then the
+wand is immediately destroyed and the
+
+388
+00:06:35,590 --> 00:06:35,600
+wand is immediately destroyed and the
+ 
+
+389
+00:06:35,600 --> 00:06:36,070
+wand is immediately destroyed and the
+spell
+
+390
+00:06:36,070 --> 00:06:36,080
+spell
+ 
+
+391
+00:06:36,080 --> 00:06:39,270
+spell
+is not cast every morning after daily
+
+392
+00:06:39,270 --> 00:06:39,280
+is not cast every morning after daily
+ 
+
+393
+00:06:39,280 --> 00:06:40,309
+is not cast every morning after daily
+preparations
+
+394
+00:06:40,309 --> 00:06:40,319
+preparations
+ 
+
+395
+00:06:40,319 --> 00:06:42,950
+preparations
+this is reset and the wand is able to
+
+396
+00:06:42,950 --> 00:06:42,960
+this is reset and the wand is able to
+ 
+
+397
+00:06:42,960 --> 00:06:43,430
+this is reset and the wand is able to
+cast
+
+398
+00:06:43,430 --> 00:06:43,440
+cast
+ 
+
+399
+00:06:43,440 --> 00:06:46,710
+cast
+one time that day safely again
+
+400
+00:06:46,710 --> 00:06:46,720
+one time that day safely again
+ 
+
+401
+00:06:46,720 --> 00:06:48,790
+one time that day safely again
+also be aware that in addition to normal
+
+402
+00:06:48,790 --> 00:06:48,800
+also be aware that in addition to normal
+ 
+
+403
+00:06:48,800 --> 00:06:50,469
+also be aware that in addition to normal
+magical wands like those we've discussed
+
+404
+00:06:50,469 --> 00:06:50,479
+magical wands like those we've discussed
+ 
+
+405
+00:06:50,479 --> 00:06:51,270
+magical wands like those we've discussed
+so far
+
+406
+00:06:51,270 --> 00:06:51,280
+so far
+ 
+
+407
+00:06:51,280 --> 00:06:53,510
+so far
+there also exists specialty wands like
+
+408
+00:06:53,510 --> 00:06:53,520
+there also exists specialty wands like
+ 
+
+409
+00:06:53,520 --> 00:06:55,749
+there also exists specialty wands like
+those found on page 598
+
+410
+00:06:55,749 --> 00:06:55,759
+those found on page 598
+ 
+
+411
+00:06:55,759 --> 00:06:58,070
+those found on page 598
+these wands function the same as regular
+
+412
+00:06:58,070 --> 00:06:58,080
+these wands function the same as regular
+ 
+
+413
+00:06:58,080 --> 00:06:59,670
+these wands function the same as regular
+ones in most respects
+
+414
+00:06:59,670 --> 00:06:59,680
+ones in most respects
+ 
+
+415
+00:06:59,680 --> 00:07:01,189
+ones in most respects
+including that they are capable of
+
+416
+00:07:01,189 --> 00:07:01,199
+including that they are capable of
+ 
+
+417
+00:07:01,199 --> 00:07:03,670
+including that they are capable of
+casting a single specific spell
+
+418
+00:07:03,670 --> 00:07:03,680
+casting a single specific spell
+ 
+
+419
+00:07:03,680 --> 00:07:05,830
+casting a single specific spell
+at a specific level for free once per
+
+420
+00:07:05,830 --> 00:07:05,840
+at a specific level for free once per
+ 
+
+421
+00:07:05,840 --> 00:07:08,710
+at a specific level for free once per
+day and can be overcharged for a second
+
+422
+00:07:08,710 --> 00:07:08,720
+day and can be overcharged for a second
+ 
+
+423
+00:07:08,720 --> 00:07:09,670
+day and can be overcharged for a second
+use per day
+
+424
+00:07:09,670 --> 00:07:09,680
+use per day
+ 
+
+425
+00:07:09,680 --> 00:07:11,510
+use per day
+but each specialty wand applies an
+
+426
+00:07:11,510 --> 00:07:11,520
+but each specialty wand applies an
+ 
+
+427
+00:07:11,520 --> 00:07:13,670
+but each specialty wand applies an
+additional effect to how its spell is
+
+428
+00:07:13,670 --> 00:07:13,680
+additional effect to how its spell is
+ 
+
+429
+00:07:13,680 --> 00:07:14,629
+additional effect to how its spell is
+cast
+
+430
+00:07:14,629 --> 00:07:14,639
+cast
+ 
+
+431
+00:07:14,639 --> 00:07:17,670
+cast
+for example ones of widening each have a
+
+432
+00:07:17,670 --> 00:07:17,680
+for example ones of widening each have a
+ 
+
+433
+00:07:17,680 --> 00:07:19,909
+for example ones of widening each have a
+single spell of a specific level within
+
+434
+00:07:19,909 --> 00:07:19,919
+single spell of a specific level within
+ 
+
+435
+00:07:19,919 --> 00:07:20,390
+single spell of a specific level within
+them
+
+436
+00:07:20,390 --> 00:07:20,400
+them
+ 
+
+437
+00:07:20,400 --> 00:07:23,350
+them
+just like a regular magical wand but
+
+438
+00:07:23,350 --> 00:07:23,360
+just like a regular magical wand but
+ 
+
+439
+00:07:23,360 --> 00:07:24,230
+just like a regular magical wand but
+when you cast
+
+440
+00:07:24,230 --> 00:07:24,240
+when you cast
+ 
+
+441
+00:07:24,240 --> 00:07:26,629
+when you cast
+that spell with a wand of widening it
+
+442
+00:07:26,629 --> 00:07:26,639
+that spell with a wand of widening it
+ 
+
+443
+00:07:26,639 --> 00:07:28,790
+that spell with a wand of widening it
+has an additional effect
+
+444
+00:07:28,790 --> 00:07:28,800
+has an additional effect
+ 
+
+445
+00:07:28,800 --> 00:07:30,870
+has an additional effect
+for example a wand of lightning bolt
+
+446
+00:07:30,870 --> 00:07:30,880
+for example a wand of lightning bolt
+ 
+
+447
+00:07:30,880 --> 00:07:32,150
+for example a wand of lightning bolt
+widening can cast
+
+448
+00:07:32,150 --> 00:07:32,160
+widening can cast
+ 
+
+449
+00:07:32,160 --> 00:07:34,070
+widening can cast
+lightning bolt at third level once per
+
+450
+00:07:34,070 --> 00:07:34,080
+lightning bolt at third level once per
+ 
+
+451
+00:07:34,080 --> 00:07:35,909
+lightning bolt at third level once per
+day without spinning a spell slot
+
+452
+00:07:35,909 --> 00:07:35,919
+day without spinning a spell slot
+ 
+
+453
+00:07:35,919 --> 00:07:38,070
+day without spinning a spell slot
+but when you do so you spin three
+
+454
+00:07:38,070 --> 00:07:38,080
+but when you do so you spin three
+ 
+
+455
+00:07:38,080 --> 00:07:39,430
+but when you do so you spin three
+actions instead of two
+
+456
+00:07:39,430 --> 00:07:39,440
+actions instead of two
+ 
+
+457
+00:07:39,440 --> 00:07:41,189
+actions instead of two
+and the length of the lightning bolt's
+
+458
+00:07:41,189 --> 00:07:41,199
+and the length of the lightning bolt's
+ 
+
+459
+00:07:41,199 --> 00:07:43,830
+and the length of the lightning bolt's
+line is increased by 10 feet
+
+460
+00:07:43,830 --> 00:07:43,840
+line is increased by 10 feet
+ 
+
+461
+00:07:43,840 --> 00:07:46,150
+line is increased by 10 feet
+essentially this wand lets you apply the
+
+462
+00:07:46,150 --> 00:07:46,160
+essentially this wand lets you apply the
+ 
+
+463
+00:07:46,160 --> 00:07:48,070
+essentially this wand lets you apply the
+widened spell metamagic feet
+
+464
+00:07:48,070 --> 00:07:48,080
+widened spell metamagic feet
+ 
+
+465
+00:07:48,080 --> 00:07:50,150
+widened spell metamagic feet
+to the casting of lightning bolt but
+
+466
+00:07:50,150 --> 00:07:50,160
+to the casting of lightning bolt but
+ 
+
+467
+00:07:50,160 --> 00:07:51,830
+to the casting of lightning bolt but
+only to that spell
+
+468
+00:07:51,830 --> 00:07:51,840
+only to that spell
+ 
+
+469
+00:07:51,840 --> 00:07:54,150
+only to that spell
+of that level in once per day you could
+
+470
+00:07:54,150 --> 00:07:54,160
+of that level in once per day you could
+ 
+
+471
+00:07:54,160 --> 00:07:55,510
+of that level in once per day you could
+not use this wand
+
+472
+00:07:55,510 --> 00:07:55,520
+not use this wand
+ 
+
+473
+00:07:55,520 --> 00:07:57,670
+not use this wand
+to apply the widening effect to any
+
+474
+00:07:57,670 --> 00:07:57,680
+to apply the widening effect to any
+ 
+
+475
+00:07:57,680 --> 00:07:58,629
+to apply the widening effect to any
+other spell
+
+476
+00:07:58,629 --> 00:07:58,639
+other spell
+ 
+
+477
+00:07:58,639 --> 00:08:00,790
+other spell
+including your own casting of lightning
+
+478
+00:08:00,790 --> 00:08:00,800
+including your own casting of lightning
+ 
+
+479
+00:08:00,800 --> 00:08:03,029
+including your own casting of lightning
+bolt even if you spend one of your spell
+
+480
+00:08:03,029 --> 00:08:03,039
+bolt even if you spend one of your spell
+ 
+
+481
+00:08:03,039 --> 00:08:04,710
+bolt even if you spend one of your spell
+slots to do so
+
+482
+00:08:04,710 --> 00:08:04,720
+slots to do so
+ 
+
+483
+00:08:04,720 --> 00:08:06,550
+slots to do so
+wands of continuation and wands of
+
+484
+00:08:06,550 --> 00:08:06,560
+wands of continuation and wands of
+ 
+
+485
+00:08:06,560 --> 00:08:08,790
+wands of continuation and wands of
+whitening can be crafted to cast any
+
+486
+00:08:08,790 --> 00:08:08,800
+whitening can be crafted to cast any
+ 
+
+487
+00:08:08,800 --> 00:08:10,790
+whitening can be crafted to cast any
+spells that meet their requirements
+
+488
+00:08:10,790 --> 00:08:10,800
+spells that meet their requirements
+ 
+
+489
+00:08:10,800 --> 00:08:13,350
+spells that meet their requirements
+other specialty ones can only be used to
+
+490
+00:08:13,350 --> 00:08:13,360
+other specialty ones can only be used to
+ 
+
+491
+00:08:13,360 --> 00:08:13,830
+other specialty ones can only be used to
+cast
+
+492
+00:08:13,830 --> 00:08:13,840
+cast
+ 
+
+493
+00:08:13,840 --> 00:08:16,309
+cast
+one specific spell as detailed in their
+
+494
+00:08:16,309 --> 00:08:16,319
+one specific spell as detailed in their
+ 
+
+495
+00:08:16,319 --> 00:08:17,510
+one specific spell as detailed in their
+description
+
+496
+00:08:17,510 --> 00:08:17,520
+description
+ 
+
+497
+00:08:17,520 --> 00:08:19,830
+description
+wands of manifold missiles only cast
+
+498
+00:08:19,830 --> 00:08:19,840
+wands of manifold missiles only cast
+ 
+
+499
+00:08:19,840 --> 00:08:20,790
+wands of manifold missiles only cast
+magic missile
+
+500
+00:08:20,790 --> 00:08:20,800
+magic missile
+ 
+
+501
+00:08:20,800 --> 00:08:22,790
+magic missile
+and wands of smoldering fireballs only
+
+502
+00:08:22,790 --> 00:08:22,800
+and wands of smoldering fireballs only
+ 
+
+503
+00:08:22,800 --> 00:08:23,990
+and wands of smoldering fireballs only
+cast fireball
+
+504
+00:08:23,990 --> 00:08:24,000
+cast fireball
+ 
+
+505
+00:08:24,000 --> 00:08:26,230
+cast fireball
+but when they cast those spells they do
+
+506
+00:08:26,230 --> 00:08:26,240
+but when they cast those spells they do
+ 
+
+507
+00:08:26,240 --> 00:08:27,909
+but when they cast those spells they do
+so with an added effect
+
+508
+00:08:27,909 --> 00:08:27,919
+so with an added effect
+ 
+
+509
+00:08:27,919 --> 00:08:30,790
+so with an added effect
+for example wands of slang can only cast
+
+510
+00:08:30,790 --> 00:08:30,800
+for example wands of slang can only cast
+ 
+
+511
+00:08:30,800 --> 00:08:32,070
+for example wands of slang can only cast
+finger of death
+
+512
+00:08:32,070 --> 00:08:32,080
+finger of death
+ 
+
+513
+00:08:32,080 --> 00:08:34,550
+finger of death
+but if that casting slays its target
+
+514
+00:08:34,550 --> 00:08:34,560
+but if that casting slays its target
+ 
+
+515
+00:08:34,560 --> 00:08:36,790
+but if that casting slays its target
+then the victim explodes in a blast of
+
+516
+00:08:36,790 --> 00:08:36,800
+then the victim explodes in a blast of
+ 
+
+517
+00:08:36,800 --> 00:08:37,750
+then the victim explodes in a blast of
+negative energy
+
+518
+00:08:37,750 --> 00:08:37,760
+negative energy
+ 
+
+519
+00:08:37,760 --> 00:08:40,230
+negative energy
+that damages all living targets around
+
+520
+00:08:40,230 --> 00:08:40,240
+that damages all living targets around
+ 
+
+521
+00:08:40,240 --> 00:08:42,550
+that damages all living targets around
+it
+
+522
+00:08:42,550 --> 00:08:42,560
+
+ 
+
+523
+00:08:42,560 --> 00:08:44,070
+
+before we close i'd like to take a
+
+524
+00:08:44,070 --> 00:08:44,080
+before we close i'd like to take a
+ 
+
+525
+00:08:44,080 --> 00:08:46,070
+before we close i'd like to take a
+moment to thank all of my patrons
+
+526
+00:08:46,070 --> 00:08:46,080
+moment to thank all of my patrons
+ 
+
+527
+00:08:46,080 --> 00:08:47,670
+moment to thank all of my patrons
+these videos would not be possible
+
+528
+00:08:47,670 --> 00:08:47,680
+these videos would not be possible
+ 
+
+529
+00:08:47,680 --> 00:08:49,590
+these videos would not be possible
+without their continued generosity and
+
+530
+00:08:49,590 --> 00:08:49,600
+without their continued generosity and
+ 
+
+531
+00:08:49,600 --> 00:08:50,710
+without their continued generosity and
+support
+
+532
+00:08:50,710 --> 00:08:50,720
+support
+ 
+
+533
+00:08:50,720 --> 00:08:52,230
+support
+members of the house played patreon
+
+534
+00:08:52,230 --> 00:08:52,240
+members of the house played patreon
+ 
+
+535
+00:08:52,240 --> 00:08:54,070
+members of the house played patreon
+community received special benefits
+
+536
+00:08:54,070 --> 00:08:54,080
+community received special benefits
+ 
+
+537
+00:08:54,080 --> 00:08:56,150
+community received special benefits
+like exclusive content and getting to
+
+538
+00:08:56,150 --> 00:08:56,160
+like exclusive content and getting to
+ 
+
+539
+00:08:56,160 --> 00:08:57,829
+like exclusive content and getting to
+vote on the topics i cover
+
+540
+00:08:57,829 --> 00:08:57,839
+vote on the topics i cover
+ 
+
+541
+00:08:57,839 --> 00:08:59,509
+vote on the topics i cover
+visit the link shown at the top of the
+
+542
+00:08:59,509 --> 00:08:59,519
+visit the link shown at the top of the
+ 
+
+543
+00:08:59,519 --> 00:09:01,269
+visit the link shown at the top of the
+screen and in the description if you'd
+
+544
+00:09:01,269 --> 00:09:01,279
+screen and in the description if you'd
+ 
+
+545
+00:09:01,279 --> 00:09:02,550
+screen and in the description if you'd
+like to know more
+
+546
+00:09:02,550 --> 00:09:02,560
+like to know more
+ 
+
+547
+00:09:02,560 --> 00:09:03,750
+like to know more
+if you would like to support this
+
+548
+00:09:03,750 --> 00:09:03,760
+if you would like to support this
+ 
+
+549
+00:09:03,760 --> 00:09:05,910
+if you would like to support this
+channel and help it grow the easiest way
+
+550
+00:09:05,910 --> 00:09:05,920
+channel and help it grow the easiest way
+ 
+
+551
+00:09:05,920 --> 00:09:06,630
+channel and help it grow the easiest way
+to do that
+
+552
+00:09:06,630 --> 00:09:06,640
+to do that
+ 
+
+553
+00:09:06,640 --> 00:09:08,470
+to do that
+is by subscribing and clicking the bell
+
+554
+00:09:08,470 --> 00:09:08,480
+is by subscribing and clicking the bell
+ 
+
+555
+00:09:08,480 --> 00:09:10,710
+is by subscribing and clicking the bell
+icon so you get notified when new videos
+
+556
+00:09:10,710 --> 00:09:10,720
+icon so you get notified when new videos
+ 
+
+557
+00:09:10,720 --> 00:09:11,430
+icon so you get notified when new videos
+release
+
+558
+00:09:11,430 --> 00:09:11,440
+release
+ 
+
+559
+00:09:11,440 --> 00:09:12,949
+release
+and i can always be reached through
+
+560
+00:09:12,949 --> 00:09:12,959
+and i can always be reached through
+ 
+
+561
+00:09:12,959 --> 00:09:14,710
+and i can always be reached through
+twitter and facebook too
+
+562
+00:09:14,710 --> 00:09:14,720
+twitter and facebook too
+ 
+
+563
+00:09:14,720 --> 00:09:20,509
+twitter and facebook too
+thanks for watching take care and happy
+
+564
+00:09:20,509 --> 00:09:20,519
+
+ 
+
+565
+00:09:20,519 --> 00:09:23,519
+
+gaming
+

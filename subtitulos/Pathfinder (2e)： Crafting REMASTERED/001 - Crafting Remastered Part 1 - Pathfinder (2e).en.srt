@@ -1,0 +1,2425 @@
+1
+00:00:00,450 --> 00:00:04,510
+
+[Music]
+
+2
+00:00:04,510 --> 00:00:04,520
+
+ 
+
+3
+00:00:04,520 --> 00:00:06,269
+
+hello and welcome to crafting in
+
+4
+00:00:06,269 --> 00:00:06,279
+hello and welcome to crafting in
+ 
+
+5
+00:00:06,279 --> 00:00:08,750
+hello and welcome to crafting in
+Pathfinder second edition remastered
+
+6
+00:00:08,750 --> 00:00:08,760
+Pathfinder second edition remastered
+ 
+
+7
+00:00:08,760 --> 00:00:11,910
+Pathfinder second edition remastered
+part one I already have a complete
+
+8
+00:00:11,910 --> 00:00:11,920
+part one I already have a complete
+ 
+
+9
+00:00:11,920 --> 00:00:14,070
+part one I already have a complete
+series of videos about crafting for
+
+10
+00:00:14,070 --> 00:00:14,080
+series of videos about crafting for
+ 
+
+11
+00:00:14,080 --> 00:00:16,029
+series of videos about crafting for
+those of you who are using the Legacy
+
+12
+00:00:16,029 --> 00:00:16,039
+those of you who are using the Legacy
+ 
+
+13
+00:00:16,039 --> 00:00:18,550
+those of you who are using the Legacy
+Second Edition rules and a link to those
+
+14
+00:00:18,550 --> 00:00:18,560
+Second Edition rules and a link to those
+ 
+
+15
+00:00:18,560 --> 00:00:20,990
+Second Edition rules and a link to those
+videos is provided in this video's
+
+16
+00:00:20,990 --> 00:00:21,000
+videos is provided in this video's
+ 
+
+17
+00:00:21,000 --> 00:00:23,349
+videos is provided in this video's
+description in this video we're going to
+
+18
+00:00:23,349 --> 00:00:23,359
+description in this video we're going to
+ 
+
+19
+00:00:23,359 --> 00:00:25,870
+description in this video we're going to
+discuss the foundation used for all
+
+20
+00:00:25,870 --> 00:00:25,880
+discuss the foundation used for all
+ 
+
+21
+00:00:25,880 --> 00:00:28,310
+discuss the foundation used for all
+crafting we'll be covering all of the
+
+22
+00:00:28,310 --> 00:00:28,320
+crafting we'll be covering all of the
+ 
+
+23
+00:00:28,320 --> 00:00:30,509
+crafting we'll be covering all of the
+general requirements and Rule
+
+24
+00:00:30,509 --> 00:00:30,519
+general requirements and Rule
+ 
+
+25
+00:00:30,519 --> 00:00:32,549
+general requirements and Rule
+and in the next course we'll get into
+
+26
+00:00:32,549 --> 00:00:32,559
+and in the next course we'll get into
+ 
+
+27
+00:00:32,559 --> 00:00:34,709
+and in the next course we'll get into
+specifics for crafting special items
+
+28
+00:00:34,709 --> 00:00:34,719
+specifics for crafting special items
+ 
+
+29
+00:00:34,719 --> 00:00:37,229
+specifics for crafting special items
+like Scrolls wands runes and also
+
+30
+00:00:37,229 --> 00:00:37,239
+like Scrolls wands runes and also
+ 
+
+31
+00:00:37,239 --> 00:00:39,470
+like Scrolls wands runes and also
+crafting weapons and armor using special
+
+32
+00:00:39,470 --> 00:00:39,480
+crafting weapons and armor using special
+ 
+
+33
+00:00:39,480 --> 00:00:42,270
+crafting weapons and armor using special
+materials like cold iron or
+
+34
+00:00:42,270 --> 00:00:42,280
+materials like cold iron or
+ 
+
+35
+00:00:42,280 --> 00:00:44,590
+materials like cold iron or
+adamantine the crafting skill can be
+
+36
+00:00:44,590 --> 00:00:44,600
+adamantine the crafting skill can be
+ 
+
+37
+00:00:44,600 --> 00:00:47,069
+adamantine the crafting skill can be
+used for a variety of activities such as
+
+38
+00:00:47,069 --> 00:00:47,079
+used for a variety of activities such as
+ 
+
+39
+00:00:47,079 --> 00:00:48,990
+used for a variety of activities such as
+identifying alchemical items and
+
+40
+00:00:48,990 --> 00:00:49,000
+identifying alchemical items and
+ 
+
+41
+00:00:49,000 --> 00:00:51,310
+identifying alchemical items and
+repairing broken gear but for the
+
+42
+00:00:51,310 --> 00:00:51,320
+repairing broken gear but for the
+ 
+
+43
+00:00:51,320 --> 00:00:53,549
+repairing broken gear but for the
+purposes of this video we're going to
+
+44
+00:00:53,549 --> 00:00:53,559
+purposes of this video we're going to
+ 
+
+45
+00:00:53,559 --> 00:00:55,869
+purposes of this video we're going to
+focus on using the crafting skill to
+
+46
+00:00:55,869 --> 00:00:55,879
+focus on using the crafting skill to
+ 
+
+47
+00:00:55,879 --> 00:00:58,349
+focus on using the crafting skill to
+create items before you can start
+
+48
+00:00:58,349 --> 00:00:58,359
+create items before you can start
+ 
+
+49
+00:00:58,359 --> 00:01:00,549
+create items before you can start
+crafting there are a few requirements
+
+50
+00:01:00,549 --> 00:01:00,559
+crafting there are a few requirements
+ 
+
+51
+00:01:00,559 --> 00:01:03,430
+crafting there are a few requirements
+that you will need to meet first the
+
+52
+00:01:03,430 --> 00:01:03,440
+that you will need to meet first the
+ 
+
+53
+00:01:03,440 --> 00:01:06,070
+that you will need to meet first the
+item that you wish to craft must be your
+
+54
+00:01:06,070 --> 00:01:06,080
+item that you wish to craft must be your
+ 
+
+55
+00:01:06,080 --> 00:01:08,710
+item that you wish to craft must be your
+experience level or lower if no item
+
+56
+00:01:08,710 --> 00:01:08,720
+experience level or lower if no item
+ 
+
+57
+00:01:08,720 --> 00:01:11,390
+experience level or lower if no item
+level is included in the item stats then
+
+58
+00:01:11,390 --> 00:01:11,400
+level is included in the item stats then
+ 
+
+59
+00:01:11,400 --> 00:01:14,910
+level is included in the item stats then
+it's considered to be item level zero
+
+60
+00:01:14,910 --> 00:01:14,920
+it's considered to be item level zero
+ 
+
+61
+00:01:14,920 --> 00:01:17,030
+it's considered to be item level zero
+second you must have the proper
+
+62
+00:01:17,030 --> 00:01:17,040
+second you must have the proper
+ 
+
+63
+00:01:17,040 --> 00:01:19,469
+second you must have the proper
+proficiency you must be at least trained
+
+64
+00:01:19,469 --> 00:01:19,479
+proficiency you must be at least trained
+ 
+
+65
+00:01:19,479 --> 00:01:22,390
+proficiency you must be at least trained
+in crafting in order to craft any items
+
+66
+00:01:22,390 --> 00:01:22,400
+in crafting in order to craft any items
+ 
+
+67
+00:01:22,400 --> 00:01:25,350
+in crafting in order to craft any items
+if the items level is ninth or higher
+
+68
+00:01:25,350 --> 00:01:25,360
+if the items level is ninth or higher
+ 
+
+69
+00:01:25,360 --> 00:01:27,510
+if the items level is ninth or higher
+then you need to have Master Proficiency
+
+70
+00:01:27,510 --> 00:01:27,520
+then you need to have Master Proficiency
+ 
+
+71
+00:01:27,520 --> 00:01:30,310
+then you need to have Master Proficiency
+in crafting to make it and if the items
+
+72
+00:01:30,310 --> 00:01:30,320
+in crafting to make it and if the items
+ 
+
+73
+00:01:30,320 --> 00:01:32,990
+in crafting to make it and if the items
+level is 16th or higher then you need to
+
+74
+00:01:32,990 --> 00:01:33,000
+level is 16th or higher then you need to
+ 
+
+75
+00:01:33,000 --> 00:01:35,030
+level is 16th or higher then you need to
+have legendary
+
+76
+00:01:35,030 --> 00:01:35,040
+have legendary
+ 
+
+77
+00:01:35,040 --> 00:01:37,469
+have legendary
+proficiency third you might need a
+
+78
+00:01:37,469 --> 00:01:37,479
+proficiency third you might need a
+ 
+
+79
+00:01:37,479 --> 00:01:40,069
+proficiency third you might need a
+special feet to craft the item the
+
+80
+00:01:40,069 --> 00:01:40,079
+special feet to craft the item the
+ 
+
+81
+00:01:40,079 --> 00:01:41,990
+special feet to craft the item the
+crafting skill by itself is sufficient
+
+82
+00:01:41,990 --> 00:01:42,000
+crafting skill by itself is sufficient
+ 
+
+83
+00:01:42,000 --> 00:01:45,109
+crafting skill by itself is sufficient
+to make most common mundane items like
+
+84
+00:01:45,109 --> 00:01:45,119
+to make most common mundane items like
+ 
+
+85
+00:01:45,119 --> 00:01:47,709
+to make most common mundane items like
+gear and common non-magical weapons and
+
+86
+00:01:47,709 --> 00:01:47,719
+gear and common non-magical weapons and
+ 
+
+87
+00:01:47,719 --> 00:01:50,670
+gear and common non-magical weapons and
+armor but if you wish to craft specialty
+
+88
+00:01:50,670 --> 00:01:50,680
+armor but if you wish to craft specialty
+ 
+
+89
+00:01:50,680 --> 00:01:52,830
+armor but if you wish to craft specialty
+items like those we will discuss in
+
+90
+00:01:52,830 --> 00:01:52,840
+items like those we will discuss in
+ 
+
+91
+00:01:52,840 --> 00:01:55,190
+items like those we will discuss in
+depth in the next video in this series
+
+92
+00:01:55,190 --> 00:01:55,200
+depth in the next video in this series
+ 
+
+93
+00:01:55,200 --> 00:01:57,950
+depth in the next video in this series
+then you'll need some special Feats if
+
+94
+00:01:57,950 --> 00:01:57,960
+then you'll need some special Feats if
+ 
+
+95
+00:01:57,960 --> 00:02:00,230
+then you'll need some special Feats if
+you want to make alchemical items like
+
+96
+00:02:00,230 --> 00:02:00,240
+you want to make alchemical items like
+ 
+
+97
+00:02:00,240 --> 00:02:03,389
+you want to make alchemical items like
+elixir poisons and bombs then you need
+
+98
+00:02:03,389 --> 00:02:03,399
+elixir poisons and bombs then you need
+ 
+
+99
+00:02:03,399 --> 00:02:06,190
+elixir poisons and bombs then you need
+the alchemical crafting feat if you want
+
+100
+00:02:06,190 --> 00:02:06,200
+the alchemical crafting feat if you want
+ 
+
+101
+00:02:06,200 --> 00:02:08,430
+the alchemical crafting feat if you want
+to make any magical items including
+
+102
+00:02:08,430 --> 00:02:08,440
+to make any magical items including
+ 
+
+103
+00:02:08,440 --> 00:02:11,029
+to make any magical items including
+Scrolls then you need the magical
+
+104
+00:02:11,029 --> 00:02:11,039
+Scrolls then you need the magical
+ 
+
+105
+00:02:11,039 --> 00:02:13,550
+Scrolls then you need the magical
+crafting feed and if you want to create
+
+106
+00:02:13,550 --> 00:02:13,560
+crafting feed and if you want to create
+ 
+
+107
+00:02:13,560 --> 00:02:16,790
+crafting feed and if you want to create
+snares like traps and alarms then you
+
+108
+00:02:16,790 --> 00:02:16,800
+snares like traps and alarms then you
+ 
+
+109
+00:02:16,800 --> 00:02:20,270
+snares like traps and alarms then you
+need the snare crafting feet the fourth
+
+110
+00:02:20,270 --> 00:02:20,280
+need the snare crafting feet the fourth
+ 
+
+111
+00:02:20,280 --> 00:02:22,670
+need the snare crafting feet the fourth
+requirement for crafting is you must
+
+112
+00:02:22,670 --> 00:02:22,680
+requirement for crafting is you must
+ 
+
+113
+00:02:22,680 --> 00:02:25,470
+requirement for crafting is you must
+have the right tools for the job an
+
+114
+00:02:25,470 --> 00:02:25,480
+have the right tools for the job an
+ 
+
+115
+00:02:25,480 --> 00:02:27,430
+have the right tools for the job an
+alchemist lab is needed to craft
+
+116
+00:02:27,430 --> 00:02:27,440
+alchemist lab is needed to craft
+ 
+
+117
+00:02:27,440 --> 00:02:30,350
+alchemist lab is needed to craft
+alchemical items a writing set is needed
+
+118
+00:02:30,350 --> 00:02:30,360
+alchemical items a writing set is needed
+ 
+
+119
+00:02:30,360 --> 00:02:33,470
+alchemical items a writing set is needed
+to craft Scrolls and so on Artisan
+
+120
+00:02:33,470 --> 00:02:33,480
+to craft Scrolls and so on Artisan
+ 
+
+121
+00:02:33,480 --> 00:02:36,589
+to craft Scrolls and so on Artisan
+toolkits are provided as a sort of catch
+
+122
+00:02:36,589 --> 00:02:36,599
+toolkits are provided as a sort of catch
+ 
+
+123
+00:02:36,599 --> 00:02:39,270
+toolkits are provided as a sort of catch
+all term when purchasing one of these
+
+124
+00:02:39,270 --> 00:02:39,280
+all term when purchasing one of these
+ 
+
+125
+00:02:39,280 --> 00:02:41,830
+all term when purchasing one of these
+sets you need to declare what kind of
+
+126
+00:02:41,830 --> 00:02:41,840
+sets you need to declare what kind of
+ 
+
+127
+00:02:41,840 --> 00:02:44,430
+sets you need to declare what kind of
+tools they are for example woodworking
+
+128
+00:02:44,430 --> 00:02:44,440
+tools they are for example woodworking
+ 
+
+129
+00:02:44,440 --> 00:02:46,550
+tools they are for example woodworking
+tools if you're working on carpentry or
+
+130
+00:02:46,550 --> 00:02:46,560
+tools if you're working on carpentry or
+ 
+
+131
+00:02:46,560 --> 00:02:49,390
+tools if you're working on carpentry or
+a brewing kit if you want to make beer
+
+132
+00:02:49,390 --> 00:02:49,400
+a brewing kit if you want to make beer
+ 
+
+133
+00:02:49,400 --> 00:02:51,470
+a brewing kit if you want to make beer
+in some cases you'll also need a
+
+134
+00:02:51,470 --> 00:02:51,480
+in some cases you'll also need a
+ 
+
+135
+00:02:51,480 --> 00:02:54,509
+in some cases you'll also need a
+workshop as determined by your GM for
+
+136
+00:02:54,509 --> 00:02:54,519
+workshop as determined by your GM for
+ 
+
+137
+00:02:54,519 --> 00:02:56,670
+workshop as determined by your GM for
+example you'll need access to a forge if
+
+138
+00:02:56,670 --> 00:02:56,680
+example you'll need access to a forge if
+ 
+
+139
+00:02:56,680 --> 00:02:59,149
+example you'll need access to a forge if
+you want to make a metal shield there's
+
+140
+00:02:59,149 --> 00:02:59,159
+you want to make a metal shield there's
+ 
+
+141
+00:02:59,159 --> 00:03:01,790
+you want to make a metal shield there's
+no hard rule for this in the book so
+
+142
+00:03:01,790 --> 00:03:01,800
+no hard rule for this in the book so
+ 
+
+143
+00:03:01,800 --> 00:03:03,550
+no hard rule for this in the book so
+it's up to Common Sense and again the
+
+144
+00:03:03,550 --> 00:03:03,560
+it's up to Common Sense and again the
+ 
+
+145
+00:03:03,560 --> 00:03:06,270
+it's up to Common Sense and again the
+GM's discretion the fifth requirement
+
+146
+00:03:06,270 --> 00:03:06,280
+GM's discretion the fifth requirement
+ 
+
+147
+00:03:06,280 --> 00:03:08,589
+GM's discretion the fifth requirement
+only applies if what you are making is
+
+148
+00:03:08,589 --> 00:03:08,599
+only applies if what you are making is
+ 
+
+149
+00:03:08,599 --> 00:03:11,550
+only applies if what you are making is
+not common Rarity and that is you must
+
+150
+00:03:11,550 --> 00:03:11,560
+not common Rarity and that is you must
+ 
+
+151
+00:03:11,560 --> 00:03:14,270
+not common Rarity and that is you must
+have something to work off of in other
+
+152
+00:03:14,270 --> 00:03:14,280
+have something to work off of in other
+ 
+
+153
+00:03:14,280 --> 00:03:17,350
+have something to work off of in other
+words you can't make an uncommon or rare
+
+154
+00:03:17,350 --> 00:03:17,360
+words you can't make an uncommon or rare
+ 
+
+155
+00:03:17,360 --> 00:03:20,110
+words you can't make an uncommon or rare
+item just off the top of your head you
+
+156
+00:03:20,110 --> 00:03:20,120
+item just off the top of your head you
+ 
+
+157
+00:03:20,120 --> 00:03:22,229
+item just off the top of your head you
+either need a sample of that item that
+
+158
+00:03:22,229 --> 00:03:22,239
+either need a sample of that item that
+ 
+
+159
+00:03:22,239 --> 00:03:25,110
+either need a sample of that item that
+you are going to make a copy of or you
+
+160
+00:03:25,110 --> 00:03:25,120
+you are going to make a copy of or you
+ 
+
+161
+00:03:25,120 --> 00:03:28,550
+you are going to make a copy of or you
+need the items formula although formula
+
+162
+00:03:28,550 --> 00:03:28,560
+need the items formula although formula
+ 
+
+163
+00:03:28,560 --> 00:03:30,910
+need the items formula although formula
+is the term used in the game this could
+
+164
+00:03:30,910 --> 00:03:30,920
+is the term used in the game this could
+ 
+
+165
+00:03:30,920 --> 00:03:34,270
+is the term used in the game this could
+be a recipe a blueprint a schematic or
+
+166
+00:03:34,270 --> 00:03:34,280
+be a recipe a blueprint a schematic or
+ 
+
+167
+00:03:34,280 --> 00:03:37,429
+be a recipe a blueprint a schematic or
+any other form of instructions to follow
+
+168
+00:03:37,429 --> 00:03:37,439
+any other form of instructions to follow
+ 
+
+169
+00:03:37,439 --> 00:03:40,110
+any other form of instructions to follow
+note again that you do not need a work
+
+170
+00:03:40,110 --> 00:03:40,120
+note again that you do not need a work
+ 
+
+171
+00:03:40,120 --> 00:03:43,149
+note again that you do not need a work
+sample or formula to craft common items
+
+172
+00:03:43,149 --> 00:03:43,159
+sample or formula to craft common items
+ 
+
+173
+00:03:43,159 --> 00:03:44,910
+sample or formula to craft common items
+and you are not required to have the
+
+174
+00:03:44,910 --> 00:03:44,920
+and you are not required to have the
+ 
+
+175
+00:03:44,920 --> 00:03:47,070
+and you are not required to have the
+items formula for uncommon and rare
+
+176
+00:03:47,070 --> 00:03:47,080
+items formula for uncommon and rare
+ 
+
+177
+00:03:47,080 --> 00:03:49,509
+items formula for uncommon and rare
+items if you have a sample of the item
+
+178
+00:03:49,509 --> 00:03:49,519
+items if you have a sample of the item
+ 
+
+179
+00:03:49,519 --> 00:03:53,149
+items if you have a sample of the item
+you are making a copy of but all of that
+
+180
+00:03:53,149 --> 00:03:53,159
+you are making a copy of but all of that
+ 
+
+181
+00:03:53,159 --> 00:03:56,470
+you are making a copy of but all of that
+said it is always a best practice to
+
+182
+00:03:56,470 --> 00:03:56,480
+said it is always a best practice to
+ 
+
+183
+00:03:56,480 --> 00:03:58,990
+said it is always a best practice to
+have the items formula because working
+
+184
+00:03:58,990 --> 00:03:59,000
+have the items formula because working
+ 
+
+185
+00:03:59,000 --> 00:04:01,110
+have the items formula because working
+from a formula will cut the amount of
+
+186
+00:04:01,110 --> 00:04:01,120
+from a formula will cut the amount of
+ 
+
+187
+00:04:01,120 --> 00:04:04,069
+from a formula will cut the amount of
+time required to craft the item in half
+
+188
+00:04:04,069 --> 00:04:04,079
+time required to craft the item in half
+ 
+
+189
+00:04:04,079 --> 00:04:06,190
+time required to craft the item in half
+obtaining formulas for common Rarity
+
+190
+00:04:06,190 --> 00:04:06,200
+obtaining formulas for common Rarity
+ 
+
+191
+00:04:06,200 --> 00:04:09,470
+obtaining formulas for common Rarity
+items is pretty easy a basic crafter's
+
+192
+00:04:09,470 --> 00:04:09,480
+items is pretty easy a basic crafter's
+ 
+
+193
+00:04:09,480 --> 00:04:11,869
+items is pretty easy a basic crafter's
+book can be purchased for one silver
+
+194
+00:04:11,869 --> 00:04:11,879
+book can be purchased for one silver
+ 
+
+195
+00:04:11,879 --> 00:04:14,309
+book can be purchased for one silver
+piece and it has all of the formulas for
+
+196
+00:04:14,309 --> 00:04:14,319
+piece and it has all of the formulas for
+ 
+
+197
+00:04:14,319 --> 00:04:16,670
+piece and it has all of the formulas for
+crafting common items found in chapter
+
+198
+00:04:16,670 --> 00:04:16,680
+crafting common items found in chapter
+ 
+
+199
+00:04:16,680 --> 00:04:20,030
+crafting common items found in chapter
+six of the player core book so this one
+
+200
+00:04:20,030 --> 00:04:20,040
+six of the player core book so this one
+ 
+
+201
+00:04:20,040 --> 00:04:22,150
+six of the player core book so this one
+purchase provides all of the formulas
+
+202
+00:04:22,150 --> 00:04:22,160
+purchase provides all of the formulas
+ 
+
+203
+00:04:22,160 --> 00:04:24,990
+purchase provides all of the formulas
+for swords bows chain mail musical
+
+204
+00:04:24,990 --> 00:04:25,000
+for swords bows chain mail musical
+ 
+
+205
+00:04:25,000 --> 00:04:27,070
+for swords bows chain mail musical
+instruments Brewing ale and pretty much
+
+206
+00:04:27,070 --> 00:04:27,080
+instruments Brewing ale and pretty much
+ 
+
+207
+00:04:27,080 --> 00:04:29,029
+instruments Brewing ale and pretty much
+everything else that's considered to be
+
+208
+00:04:29,029 --> 00:04:29,039
+everything else that's considered to be
+ 
+
+209
+00:04:29,039 --> 00:04:30,150
+everything else that's considered to be
+common
+
+210
+00:04:30,150 --> 00:04:30,160
+common
+ 
+
+211
+00:04:30,160 --> 00:04:31,710
+common
+and if you wish to purchase the formula
+
+212
+00:04:31,710 --> 00:04:31,720
+and if you wish to purchase the formula
+ 
+
+213
+00:04:31,720 --> 00:04:33,430
+and if you wish to purchase the formula
+for a common Rarity item that is found
+
+214
+00:04:33,430 --> 00:04:33,440
+for a common Rarity item that is found
+ 
+
+215
+00:04:33,440 --> 00:04:35,510
+for a common Rarity item that is found
+in a different book you can do so
+
+216
+00:04:35,510 --> 00:04:35,520
+in a different book you can do so
+ 
+
+217
+00:04:35,520 --> 00:04:38,590
+in a different book you can do so
+according to the table here formulas for
+
+218
+00:04:38,590 --> 00:04:38,600
+according to the table here formulas for
+ 
+
+219
+00:04:38,600 --> 00:04:41,390
+according to the table here formulas for
+items that are uncommon or rare are only
+
+220
+00:04:41,390 --> 00:04:41,400
+items that are uncommon or rare are only
+ 
+
+221
+00:04:41,400 --> 00:04:43,870
+items that are uncommon or rare are only
+available at the GM's discretion and
+
+222
+00:04:43,870 --> 00:04:43,880
+available at the GM's discretion and
+ 
+
+223
+00:04:43,880 --> 00:04:45,950
+available at the GM's discretion and
+likely will either be incredibly
+
+224
+00:04:45,950 --> 00:04:45,960
+likely will either be incredibly
+ 
+
+225
+00:04:45,960 --> 00:04:49,189
+likely will either be incredibly
+expensive or awarded as part of
+
+226
+00:04:49,189 --> 00:04:49,199
+expensive or awarded as part of
+ 
+
+227
+00:04:49,199 --> 00:04:51,790
+expensive or awarded as part of
+treasure honestly given that acquiring
+
+228
+00:04:51,790 --> 00:04:51,800
+treasure honestly given that acquiring
+ 
+
+229
+00:04:51,800 --> 00:04:54,350
+treasure honestly given that acquiring
+the formulas for common items is so easy
+
+230
+00:04:54,350 --> 00:04:54,360
+the formulas for common items is so easy
+ 
+
+231
+00:04:54,360 --> 00:04:56,110
+the formulas for common items is so easy
+you should probably just consider that
+
+232
+00:04:56,110 --> 00:04:56,120
+you should probably just consider that
+ 
+
+233
+00:04:56,120 --> 00:04:57,710
+you should probably just consider that
+having the formula for the item that
+
+234
+00:04:57,710 --> 00:04:57,720
+having the formula for the item that
+ 
+
+235
+00:04:57,720 --> 00:05:00,189
+having the formula for the item that
+you're crafting is a requirement
+
+236
+00:05:00,189 --> 00:05:00,199
+you're crafting is a requirement
+ 
+
+237
+00:05:00,199 --> 00:05:02,230
+you're crafting is a requirement
+unless you have a sample that you're
+
+238
+00:05:02,230 --> 00:05:02,240
+unless you have a sample that you're
+ 
+
+239
+00:05:02,240 --> 00:05:05,550
+unless you have a sample that you're
+working from and last you need raw
+
+240
+00:05:05,550 --> 00:05:05,560
+working from and last you need raw
+ 
+
+241
+00:05:05,560 --> 00:05:07,790
+working from and last you need raw
+materials worth at least half of the
+
+242
+00:05:07,790 --> 00:05:07,800
+materials worth at least half of the
+ 
+
+243
+00:05:07,800 --> 00:05:10,350
+materials worth at least half of the
+listed cost of the item if you are
+
+244
+00:05:10,350 --> 00:05:10,360
+listed cost of the item if you are
+ 
+
+245
+00:05:10,360 --> 00:05:13,390
+listed cost of the item if you are
+creating a common item like a long sword
+
+246
+00:05:13,390 --> 00:05:13,400
+creating a common item like a long sword
+ 
+
+247
+00:05:13,400 --> 00:05:15,350
+creating a common item like a long sword
+as long as you're in a settlement you
+
+248
+00:05:15,350 --> 00:05:15,360
+as long as you're in a settlement you
+ 
+
+249
+00:05:15,360 --> 00:05:17,469
+as long as you're in a settlement you
+can probably just pay the price in
+
+250
+00:05:17,469 --> 00:05:17,479
+can probably just pay the price in
+ 
+
+251
+00:05:17,479 --> 00:05:20,710
+can probably just pay the price in
+silver but more exotic items might
+
+252
+00:05:20,710 --> 00:05:20,720
+silver but more exotic items might
+ 
+
+253
+00:05:20,720 --> 00:05:23,230
+silver but more exotic items might
+require very specific and harder to find
+
+254
+00:05:23,230 --> 00:05:23,240
+require very specific and harder to find
+ 
+
+255
+00:05:23,240 --> 00:05:26,350
+require very specific and harder to find
+materials that you will need to
+
+256
+00:05:26,350 --> 00:05:26,360
+materials that you will need to
+ 
+
+257
+00:05:26,360 --> 00:05:29,029
+materials that you will need to
+Source once you meet the requirements
+
+258
+00:05:29,029 --> 00:05:29,039
+Source once you meet the requirements
+ 
+
+259
+00:05:29,039 --> 00:05:31,670
+Source once you meet the requirements
+have the proper tools a formula or work
+
+260
+00:05:31,670 --> 00:05:31,680
+have the proper tools a formula or work
+ 
+
+261
+00:05:31,680 --> 00:05:34,590
+have the proper tools a formula or work
+sample and the required materials then
+
+262
+00:05:34,590 --> 00:05:34,600
+sample and the required materials then
+ 
+
+263
+00:05:34,600 --> 00:05:37,550
+sample and the required materials then
+you're ready to get to work in order to
+
+264
+00:05:37,550 --> 00:05:37,560
+you're ready to get to work in order to
+ 
+
+265
+00:05:37,560 --> 00:05:39,990
+you're ready to get to work in order to
+create the item you must invest an
+
+266
+00:05:39,990 --> 00:05:40,000
+create the item you must invest an
+ 
+
+267
+00:05:40,000 --> 00:05:42,550
+create the item you must invest an
+amount of time or resources equal to its
+
+268
+00:05:42,550 --> 00:05:42,560
+amount of time or resources equal to its
+ 
+
+269
+00:05:42,560 --> 00:05:45,110
+amount of time or resources equal to its
+listed price and always start by
+
+270
+00:05:45,110 --> 00:05:45,120
+listed price and always start by
+ 
+
+271
+00:05:45,120 --> 00:05:49,070
+listed price and always start by
+providing 50% of that total cost upfront
+
+272
+00:05:49,070 --> 00:05:49,080
+providing 50% of that total cost upfront
+ 
+
+273
+00:05:49,080 --> 00:05:51,550
+providing 50% of that total cost upfront
+you then spend two days of downtime
+
+274
+00:05:51,550 --> 00:05:51,560
+you then spend two days of downtime
+ 
+
+275
+00:05:51,560 --> 00:05:54,950
+you then spend two days of downtime
+working or only one day of downtime
+
+276
+00:05:54,950 --> 00:05:54,960
+working or only one day of downtime
+ 
+
+277
+00:05:54,960 --> 00:05:58,710
+working or only one day of downtime
+working if you are using a formula so
+
+278
+00:05:58,710 --> 00:05:58,720
+working if you are using a formula so
+ 
+
+279
+00:05:58,720 --> 00:06:00,710
+working if you are using a formula so
+after one or two days of working
+
+280
+00:06:00,710 --> 00:06:00,720
+after one or two days of working
+ 
+
+281
+00:06:00,720 --> 00:06:02,990
+after one or two days of working
+depending on if you have the formula you
+
+282
+00:06:02,990 --> 00:06:03,000
+depending on if you have the formula you
+ 
+
+283
+00:06:03,000 --> 00:06:05,830
+depending on if you have the formula you
+then roll your crafting skill and the GM
+
+284
+00:06:05,830 --> 00:06:05,840
+then roll your crafting skill and the GM
+ 
+
+285
+00:06:05,840 --> 00:06:08,710
+then roll your crafting skill and the GM
+Compares that total against a secret DC
+
+286
+00:06:08,710 --> 00:06:08,720
+Compares that total against a secret DC
+ 
+
+287
+00:06:08,720 --> 00:06:12,350
+Compares that total against a secret DC
+that they set on a failure your progress
+
+288
+00:06:12,350 --> 00:06:12,360
+that they set on a failure your progress
+ 
+
+289
+00:06:12,360 --> 00:06:14,749
+that they set on a failure your progress
+stops but you don't lose any of the
+
+290
+00:06:14,749 --> 00:06:14,759
+stops but you don't lose any of the
+ 
+
+291
+00:06:14,759 --> 00:06:16,589
+stops but you don't lose any of the
+money or resources you've already
+
+292
+00:06:16,589 --> 00:06:16,599
+money or resources you've already
+ 
+
+293
+00:06:16,599 --> 00:06:19,110
+money or resources you've already
+invested and can start the process over
+
+294
+00:06:19,110 --> 00:06:19,120
+invested and can start the process over
+ 
+
+295
+00:06:19,120 --> 00:06:21,870
+invested and can start the process over
+again critical failures work the same
+
+296
+00:06:21,870 --> 00:06:21,880
+again critical failures work the same
+ 
+
+297
+00:06:21,880 --> 00:06:25,270
+again critical failures work the same
+way except you lose 10% of the materials
+
+298
+00:06:25,270 --> 00:06:25,280
+way except you lose 10% of the materials
+ 
+
+299
+00:06:25,280 --> 00:06:28,430
+way except you lose 10% of the materials
+that were used but if the skill check is
+
+300
+00:06:28,430 --> 00:06:28,440
+that were used but if the skill check is
+ 
+
+301
+00:06:28,440 --> 00:06:31,790
+that were used but if the skill check is
+a success you have a few options your
+
+302
+00:06:31,790 --> 00:06:31,800
+a success you have a few options your
+ 
+
+303
+00:06:31,800 --> 00:06:33,909
+a success you have a few options your
+first option is to pay the remaining
+
+304
+00:06:33,909 --> 00:06:33,919
+first option is to pay the remaining
+ 
+
+305
+00:06:33,919 --> 00:06:36,909
+first option is to pay the remaining
+balance needed and complete the work you
+
+306
+00:06:36,909 --> 00:06:36,919
+balance needed and complete the work you
+ 
+
+307
+00:06:36,919 --> 00:06:39,350
+balance needed and complete the work you
+always start by putting up 50% of the
+
+308
+00:06:39,350 --> 00:06:39,360
+always start by putting up 50% of the
+ 
+
+309
+00:06:39,360 --> 00:06:42,390
+always start by putting up 50% of the
+items price so if you roll a success
+
+310
+00:06:42,390 --> 00:06:42,400
+items price so if you roll a success
+ 
+
+311
+00:06:42,400 --> 00:06:44,790
+items price so if you roll a success
+after one day of work with a formula you
+
+312
+00:06:44,790 --> 00:06:44,800
+after one day of work with a formula you
+ 
+
+313
+00:06:44,800 --> 00:06:47,670
+after one day of work with a formula you
+just need to pay the remaining 50% cost
+
+314
+00:06:47,670 --> 00:06:47,680
+just need to pay the remaining 50% cost
+ 
+
+315
+00:06:47,680 --> 00:06:50,550
+just need to pay the remaining 50% cost
+to instantly complete it this does not
+
+316
+00:06:50,550 --> 00:06:50,560
+to instantly complete it this does not
+ 
+
+317
+00:06:50,560 --> 00:06:52,430
+to instantly complete it this does not
+save you any money and it takes some
+
+318
+00:06:52,430 --> 00:06:52,440
+save you any money and it takes some
+ 
+
+319
+00:06:52,440 --> 00:06:55,029
+save you any money and it takes some
+time but might be worth it if the item
+
+320
+00:06:55,029 --> 00:06:55,039
+time but might be worth it if the item
+ 
+
+321
+00:06:55,039 --> 00:06:56,710
+time but might be worth it if the item
+you're making is not available for
+
+322
+00:06:56,710 --> 00:06:56,720
+you're making is not available for
+ 
+
+323
+00:06:56,720 --> 00:06:58,749
+you're making is not available for
+purchase in your area or if it's
+
+324
+00:06:58,749 --> 00:06:58,759
+purchase in your area or if it's
+ 
+
+325
+00:06:58,759 --> 00:07:00,629
+purchase in your area or if it's
+important that that the item was made
+
+326
+00:07:00,629 --> 00:07:00,639
+important that that the item was made
+ 
+
+327
+00:07:00,639 --> 00:07:03,230
+important that that the item was made
+specifically by you for example if
+
+328
+00:07:03,230 --> 00:07:03,240
+specifically by you for example if
+ 
+
+329
+00:07:03,240 --> 00:07:05,510
+specifically by you for example if
+you're crafting a painting or other work
+
+330
+00:07:05,510 --> 00:07:05,520
+you're crafting a painting or other work
+ 
+
+331
+00:07:05,520 --> 00:07:08,629
+you're crafting a painting or other work
+of art your second option after rolling
+
+332
+00:07:08,629 --> 00:07:08,639
+of art your second option after rolling
+ 
+
+333
+00:07:08,639 --> 00:07:11,110
+of art your second option after rolling
+a success is to invest more time in
+
+334
+00:07:11,110 --> 00:07:11,120
+a success is to invest more time in
+ 
+
+335
+00:07:11,120 --> 00:07:14,029
+a success is to invest more time in
+crafting it every day of additional work
+
+336
+00:07:14,029 --> 00:07:14,039
+crafting it every day of additional work
+ 
+
+337
+00:07:14,039 --> 00:07:16,390
+crafting it every day of additional work
+lowers the amount of resources needed to
+
+338
+00:07:16,390 --> 00:07:16,400
+lowers the amount of resources needed to
+ 
+
+339
+00:07:16,400 --> 00:07:19,230
+lowers the amount of resources needed to
+complete the item by an amount equal to
+
+340
+00:07:19,230 --> 00:07:19,240
+complete the item by an amount equal to
+ 
+
+341
+00:07:19,240 --> 00:07:21,869
+complete the item by an amount equal to
+the table found on page
+
+342
+00:07:21,869 --> 00:07:21,879
+the table found on page
+ 
+
+343
+00:07:21,879 --> 00:07:25,070
+the table found on page
+229 so for example if you were eighth
+
+344
+00:07:25,070 --> 00:07:25,080
+229 so for example if you were eighth
+ 
+
+345
+00:07:25,080 --> 00:07:26,950
+229 so for example if you were eighth
+level with expert Proficiency in
+
+346
+00:07:26,950 --> 00:07:26,960
+level with expert Proficiency in
+ 
+
+347
+00:07:26,960 --> 00:07:29,390
+level with expert Proficiency in
+crafting every additional day of
+
+348
+00:07:29,390 --> 00:07:29,400
+crafting every additional day of
+ 
+
+349
+00:07:29,400 --> 00:07:31,869
+crafting every additional day of
+downtime spent beyond what is required
+
+350
+00:07:31,869 --> 00:07:31,879
+downtime spent beyond what is required
+ 
+
+351
+00:07:31,879 --> 00:07:34,029
+downtime spent beyond what is required
+would lower the needed resources to
+
+352
+00:07:34,029 --> 00:07:34,039
+would lower the needed resources to
+ 
+
+353
+00:07:34,039 --> 00:07:37,029
+would lower the needed resources to
+complete the item by three gold pieces
+
+354
+00:07:37,029 --> 00:07:37,039
+complete the item by three gold pieces
+ 
+
+355
+00:07:37,039 --> 00:07:39,309
+complete the item by three gold pieces
+and if you roll a critical success you
+
+356
+00:07:39,309 --> 00:07:39,319
+and if you roll a critical success you
+ 
+
+357
+00:07:39,319 --> 00:07:42,430
+and if you roll a critical success you
+treat yourself as being one level higher
+
+358
+00:07:42,430 --> 00:07:42,440
+treat yourself as being one level higher
+ 
+
+359
+00:07:42,440 --> 00:07:44,670
+treat yourself as being one level higher
+so if you're again an eighth level
+
+360
+00:07:44,670 --> 00:07:44,680
+so if you're again an eighth level
+ 
+
+361
+00:07:44,680 --> 00:07:47,629
+so if you're again an eighth level
+expert and roll a critical success you
+
+362
+00:07:47,629 --> 00:07:47,639
+expert and roll a critical success you
+ 
+
+363
+00:07:47,639 --> 00:07:49,430
+expert and roll a critical success you
+would lower the amount of resources
+
+364
+00:07:49,430 --> 00:07:49,440
+would lower the amount of resources
+ 
+
+365
+00:07:49,440 --> 00:07:52,510
+would lower the amount of resources
+needed by four gold instead of three for
+
+366
+00:07:52,510 --> 00:07:52,520
+needed by four gold instead of three for
+ 
+
+367
+00:07:52,520 --> 00:07:54,990
+needed by four gold instead of three for
+each extra day of downtime spent working
+
+368
+00:07:54,990 --> 00:07:55,000
+each extra day of downtime spent working
+ 
+
+369
+00:07:55,000 --> 00:07:58,270
+each extra day of downtime spent working
+on the item after each day of work you
+
+370
+00:07:58,270 --> 00:07:58,280
+on the item after each day of work you
+ 
+
+371
+00:07:58,280 --> 00:08:00,230
+on the item after each day of work you
+can decide if you you want to pay off
+
+372
+00:08:00,230 --> 00:08:00,240
+can decide if you you want to pay off
+ 
+
+373
+00:08:00,240 --> 00:08:02,309
+can decide if you you want to pay off
+the remaining balance to finish your
+
+374
+00:08:02,309 --> 00:08:02,319
+the remaining balance to finish your
+ 
+
+375
+00:08:02,319 --> 00:08:05,029
+the remaining balance to finish your
+work and complete the item or if you
+
+376
+00:08:05,029 --> 00:08:05,039
+work and complete the item or if you
+ 
+
+377
+00:08:05,039 --> 00:08:07,350
+work and complete the item or if you
+want to spend one more day of work to
+
+378
+00:08:07,350 --> 00:08:07,360
+want to spend one more day of work to
+ 
+
+379
+00:08:07,360 --> 00:08:09,070
+want to spend one more day of work to
+lower the remaining balance that's
+
+380
+00:08:09,070 --> 00:08:09,080
+lower the remaining balance that's
+ 
+
+381
+00:08:09,080 --> 00:08:11,589
+lower the remaining balance that's
+needed note that no additional skill
+
+382
+00:08:11,589 --> 00:08:11,599
+needed note that no additional skill
+ 
+
+383
+00:08:11,599 --> 00:08:13,510
+needed note that no additional skill
+checks are needed for the extra days
+
+384
+00:08:13,510 --> 00:08:13,520
+checks are needed for the extra days
+ 
+
+385
+00:08:13,520 --> 00:08:16,390
+checks are needed for the extra days
+spent crafting once you roll a success
+
+386
+00:08:16,390 --> 00:08:16,400
+spent crafting once you roll a success
+ 
+
+387
+00:08:16,400 --> 00:08:18,749
+spent crafting once you roll a success
+is just a matter of counting days and
+
+388
+00:08:18,749 --> 00:08:18,759
+is just a matter of counting days and
+ 
+
+389
+00:08:18,759 --> 00:08:21,110
+is just a matter of counting days and
+seeing how long you want to work and how
+
+390
+00:08:21,110 --> 00:08:21,120
+seeing how long you want to work and how
+ 
+
+391
+00:08:21,120 --> 00:08:23,029
+seeing how long you want to work and how
+much more money you're willing to pay in
+
+392
+00:08:23,029 --> 00:08:23,039
+much more money you're willing to pay in
+ 
+
+393
+00:08:23,039 --> 00:08:25,629
+much more money you're willing to pay in
+order to
+
+394
+00:08:25,629 --> 00:08:25,639
+
+ 
+
+395
+00:08:25,639 --> 00:08:28,110
+
+finish now this might have you wondering
+
+396
+00:08:28,110 --> 00:08:28,120
+finish now this might have you wondering
+ 
+
+397
+00:08:28,120 --> 00:08:29,830
+finish now this might have you wondering
+about things like error
+
+398
+00:08:29,830 --> 00:08:29,840
+about things like error
+ 
+
+399
+00:08:29,840 --> 00:08:32,310
+about things like error
+do you really need to spend an entire
+
+400
+00:08:32,310 --> 00:08:32,320
+do you really need to spend an entire
+ 
+
+401
+00:08:32,320 --> 00:08:35,430
+do you really need to spend an entire
+day to make a single Arrow the good news
+
+402
+00:08:35,430 --> 00:08:35,440
+day to make a single Arrow the good news
+ 
+
+403
+00:08:35,440 --> 00:08:38,110
+day to make a single Arrow the good news
+is no you don't it's not quite that bad
+
+404
+00:08:38,110 --> 00:08:38,120
+is no you don't it's not quite that bad
+ 
+
+405
+00:08:38,120 --> 00:08:40,750
+is no you don't it's not quite that bad
+if you wish to craft ammunition or any
+
+406
+00:08:40,750 --> 00:08:40,760
+if you wish to craft ammunition or any
+ 
+
+407
+00:08:40,760 --> 00:08:43,310
+if you wish to craft ammunition or any
+item with the consumable trait you can
+
+408
+00:08:43,310 --> 00:08:43,320
+item with the consumable trait you can
+ 
+
+409
+00:08:43,320 --> 00:08:46,269
+item with the consumable trait you can
+make those in batches non-magical
+
+410
+00:08:46,269 --> 00:08:46,279
+make those in batches non-magical
+ 
+
+411
+00:08:46,279 --> 00:08:48,790
+make those in batches non-magical
+ammunition is created in batches equal
+
+412
+00:08:48,790 --> 00:08:48,800
+ammunition is created in batches equal
+ 
+
+413
+00:08:48,800 --> 00:08:52,430
+ammunition is created in batches equal
+to their numberers shown on page 281 so
+
+414
+00:08:52,430 --> 00:08:52,440
+to their numberers shown on page 281 so
+ 
+
+415
+00:08:52,440 --> 00:08:55,470
+to their numberers shown on page 281 so
+blow gun darts crossbow bolts and arrows
+
+416
+00:08:55,470 --> 00:08:55,480
+blow gun darts crossbow bolts and arrows
+ 
+
+417
+00:08:55,480 --> 00:08:58,550
+blow gun darts crossbow bolts and arrows
+are all made in batches of 10 and all
+
+418
+00:08:58,550 --> 00:08:58,560
+are all made in batches of 10 and all
+ 
+
+419
+00:08:58,560 --> 00:09:00,750
+are all made in batches of 10 and all
+other items with the consumable trait
+
+420
+00:09:00,750 --> 00:09:00,760
+other items with the consumable trait
+ 
+
+421
+00:09:00,760 --> 00:09:03,350
+other items with the consumable trait
+including magical ammunition are made in
+
+422
+00:09:03,350 --> 00:09:03,360
+including magical ammunition are made in
+ 
+
+423
+00:09:03,360 --> 00:09:07,430
+including magical ammunition are made in
+batches of four when you create by batch
+
+424
+00:09:07,430 --> 00:09:07,440
+batches of four when you create by batch
+ 
+
+425
+00:09:07,440 --> 00:09:09,750
+batches of four when you create by batch
+every item in that batch must be
+
+426
+00:09:09,750 --> 00:09:09,760
+every item in that batch must be
+ 
+
+427
+00:09:09,760 --> 00:09:12,190
+every item in that batch must be
+identical there's no mixing and matching
+
+428
+00:09:12,190 --> 00:09:12,200
+identical there's no mixing and matching
+ 
+
+429
+00:09:12,200 --> 00:09:15,150
+identical there's no mixing and matching
+so you can't make Five Arrows In five
+
+430
+00:09:15,150 --> 00:09:15,160
+so you can't make Five Arrows In five
+ 
+
+431
+00:09:15,160 --> 00:09:17,949
+so you can't make Five Arrows In five
+crossbow bolts in the same batch it has
+
+432
+00:09:17,949 --> 00:09:17,959
+crossbow bolts in the same batch it has
+ 
+
+433
+00:09:17,959 --> 00:09:20,990
+crossbow bolts in the same batch it has
+to be 10 of one or 10 of the other
+
+434
+00:09:20,990 --> 00:09:21,000
+to be 10 of one or 10 of the other
+ 
+
+435
+00:09:21,000 --> 00:09:22,949
+to be 10 of one or 10 of the other
+crafting in batches works the same way
+
+436
+00:09:22,949 --> 00:09:22,959
+crafting in batches works the same way
+ 
+
+437
+00:09:22,959 --> 00:09:25,710
+crafting in batches works the same way
+as crafting individual items except you
+
+438
+00:09:25,710 --> 00:09:25,720
+as crafting individual items except you
+ 
+
+439
+00:09:25,720 --> 00:09:28,470
+as crafting individual items except you
+add the price of each item together so
+
+440
+00:09:28,470 --> 00:09:28,480
+add the price of each item together so
+ 
+
+441
+00:09:28,480 --> 00:09:30,790
+add the price of each item together so
+if you're making a batch of four vials
+
+442
+00:09:30,790 --> 00:09:30,800
+if you're making a batch of four vials
+ 
+
+443
+00:09:30,800 --> 00:09:34,150
+if you're making a batch of four vials
+of holy water the price would be 12 gold
+
+444
+00:09:34,150 --> 00:09:34,160
+of holy water the price would be 12 gold
+ 
+
+445
+00:09:34,160 --> 00:09:36,110
+of holy water the price would be 12 gold
+and you would need to provide six gold
+
+446
+00:09:36,110 --> 00:09:36,120
+and you would need to provide six gold
+ 
+
+447
+00:09:36,120 --> 00:09:38,470
+and you would need to provide six gold
+up front for the material cost other
+
+448
+00:09:38,470 --> 00:09:38,480
+up front for the material cost other
+ 
+
+449
+00:09:38,480 --> 00:09:41,150
+up front for the material cost other
+than that crafting in batches works the
+
+450
+00:09:41,150 --> 00:09:41,160
+than that crafting in batches works the
+ 
+
+451
+00:09:41,160 --> 00:09:43,710
+than that crafting in batches works the
+same as what we have already
+
+452
+00:09:43,710 --> 00:09:43,720
+same as what we have already
+ 
+
+453
+00:09:43,720 --> 00:09:46,350
+same as what we have already
+discussed in this video We examined the
+
+454
+00:09:46,350 --> 00:09:46,360
+discussed in this video We examined the
+ 
+
+455
+00:09:46,360 --> 00:09:49,150
+discussed in this video We examined the
+basics of crafting and the next video
+
+456
+00:09:49,150 --> 00:09:49,160
+basics of crafting and the next video
+ 
+
+457
+00:09:49,160 --> 00:09:51,269
+basics of crafting and the next video
+expands that discussion to cover magic
+
+458
+00:09:51,269 --> 00:09:51,279
+expands that discussion to cover magic
+ 
+
+459
+00:09:51,279 --> 00:09:53,389
+expands that discussion to cover magic
+items and crafting weapons and armor
+
+460
+00:09:53,389 --> 00:09:53,399
+items and crafting weapons and armor
+ 
+
+461
+00:09:53,399 --> 00:09:56,030
+items and crafting weapons and armor
+with precious materials I will also be
+
+462
+00:09:56,030 --> 00:09:56,040
+with precious materials I will also be
+ 
+
+463
+00:09:56,040 --> 00:09:58,190
+with precious materials I will also be
+uploading a full example of crafting in
+
+464
+00:09:58,190 --> 00:09:58,200
+uploading a full example of crafting in
+ 
+
+465
+00:09:58,200 --> 00:09:59,910
+uploading a full example of crafting in
+the remaster Edition from start to
+
+466
+00:09:59,910 --> 00:09:59,920
+the remaster Edition from start to
+ 
+
+467
+00:09:59,920 --> 00:10:02,550
+the remaster Edition from start to
+finish so keep an eye out for that if
+
+468
+00:10:02,550 --> 00:10:02,560
+finish so keep an eye out for that if
+ 
+
+469
+00:10:02,560 --> 00:10:04,030
+finish so keep an eye out for that if
+you have any questions please leave them
+
+470
+00:10:04,030 --> 00:10:04,040
+you have any questions please leave them
+ 
+
+471
+00:10:04,040 --> 00:10:06,110
+you have any questions please leave them
+in the comments and I'd like to take a
+
+472
+00:10:06,110 --> 00:10:06,120
+in the comments and I'd like to take a
+ 
+
+473
+00:10:06,120 --> 00:10:07,550
+in the comments and I'd like to take a
+quick moment to thank everyone who
+
+474
+00:10:07,550 --> 00:10:07,560
+quick moment to thank everyone who
+ 
+
+475
+00:10:07,560 --> 00:10:09,550
+quick moment to thank everyone who
+supports me in this channel by clicking
+
+476
+00:10:09,550 --> 00:10:09,560
+supports me in this channel by clicking
+ 
+
+477
+00:10:09,560 --> 00:10:11,069
+supports me in this channel by clicking
+that like button subscribing to the
+
+478
+00:10:11,069 --> 00:10:11,079
+that like button subscribing to the
+ 
+
+479
+00:10:11,079 --> 00:10:13,190
+that like button subscribing to the
+channel or subscribing to the patreon
+
+480
+00:10:13,190 --> 00:10:13,200
+channel or subscribing to the patreon
+ 
+
+481
+00:10:13,200 --> 00:10:17,530
+channel or subscribing to the patreon
+thanks for watching take care and happy
+
+482
+00:10:17,530 --> 00:10:17,540
+thanks for watching take care and happy
+ 
+
+483
+00:10:17,540 --> 00:10:28,030
+thanks for watching take care and happy
+[Music]
+
+484
+00:10:28,030 --> 00:10:28,040
+[Music]
+ 
+
+485
+00:10:28,040 --> 00:10:31,040
+[Music]
+gaming
+

@@ -1,0 +1,3855 @@
+1
+00:00:01,040 --> 00:00:02,710
+
+hello and welcome to alchemy and
+
+2
+00:00:02,710 --> 00:00:02,720
+hello and welcome to alchemy and
+ 
+
+3
+00:00:02,720 --> 00:00:04,550
+hello and welcome to alchemy and
+pathfinder second edition by how it's
+
+4
+00:00:04,550 --> 00:00:04,560
+pathfinder second edition by how it's
+ 
+
+5
+00:00:04,560 --> 00:00:05,190
+pathfinder second edition by how it's
+played
+
+6
+00:00:05,190 --> 00:00:05,200
+played
+ 
+
+7
+00:00:05,200 --> 00:00:06,630
+played
+in this video i'll be discussing
+
+8
+00:00:06,630 --> 00:00:06,640
+in this video i'll be discussing
+ 
+
+9
+00:00:06,640 --> 00:00:09,110
+in this video i'll be discussing
+alchemical items such as bombs poisons
+
+10
+00:00:09,110 --> 00:00:09,120
+alchemical items such as bombs poisons
+ 
+
+11
+00:00:09,120 --> 00:00:10,310
+alchemical items such as bombs poisons
+and elixirs
+
+12
+00:00:10,310 --> 00:00:10,320
+and elixirs
+ 
+
+13
+00:00:10,320 --> 00:00:13,190
+and elixirs
+including mutagens in a general sense
+
+14
+00:00:13,190 --> 00:00:13,200
+including mutagens in a general sense
+ 
+
+15
+00:00:13,200 --> 00:00:15,190
+including mutagens in a general sense
+and anything specifically associated
+
+16
+00:00:15,190 --> 00:00:15,200
+and anything specifically associated
+ 
+
+17
+00:00:15,200 --> 00:00:16,070
+and anything specifically associated
+with the alchemist
+
+18
+00:00:16,070 --> 00:00:16,080
+with the alchemist
+ 
+
+19
+00:00:16,080 --> 00:00:18,630
+with the alchemist
+class such as quick alchemy and
+
+20
+00:00:18,630 --> 00:00:18,640
+class such as quick alchemy and
+ 
+
+21
+00:00:18,640 --> 00:00:19,590
+class such as quick alchemy and
+infusions
+
+22
+00:00:19,590 --> 00:00:19,600
+infusions
+ 
+
+23
+00:00:19,600 --> 00:00:22,230
+infusions
+will be saved for a later class specific
+
+24
+00:00:22,230 --> 00:00:22,240
+will be saved for a later class specific
+ 
+
+25
+00:00:22,240 --> 00:00:23,109
+will be saved for a later class specific
+video that is
+
+26
+00:00:23,109 --> 00:00:23,119
+video that is
+ 
+
+27
+00:00:23,119 --> 00:00:27,029
+video that is
+all about alchemists alchemy can be
+
+28
+00:00:27,029 --> 00:00:27,039
+all about alchemists alchemy can be
+ 
+
+29
+00:00:27,039 --> 00:00:28,950
+all about alchemists alchemy can be
+thought of as sort of the science of the
+
+30
+00:00:28,950 --> 00:00:28,960
+thought of as sort of the science of the
+ 
+
+31
+00:00:28,960 --> 00:00:30,390
+thought of as sort of the science of the
+pathfinder universe
+
+32
+00:00:30,390 --> 00:00:30,400
+pathfinder universe
+ 
+
+33
+00:00:30,400 --> 00:00:32,630
+pathfinder universe
+its practice is based on principles such
+
+34
+00:00:32,630 --> 00:00:32,640
+its practice is based on principles such
+ 
+
+35
+00:00:32,640 --> 00:00:35,270
+its practice is based on principles such
+as chemistry biology and botany but with
+
+36
+00:00:35,270 --> 00:00:35,280
+as chemistry biology and botany but with
+ 
+
+37
+00:00:35,280 --> 00:00:38,869
+as chemistry biology and botany but with
+a fantasy twist as such alchemical items
+
+38
+00:00:38,869 --> 00:00:38,879
+a fantasy twist as such alchemical items
+ 
+
+39
+00:00:38,879 --> 00:00:40,630
+a fantasy twist as such alchemical items
+may resemble magic items
+
+40
+00:00:40,630 --> 00:00:40,640
+may resemble magic items
+ 
+
+41
+00:00:40,640 --> 00:00:43,190
+may resemble magic items
+and function in much the same way but
+
+42
+00:00:43,190 --> 00:00:43,200
+and function in much the same way but
+ 
+
+43
+00:00:43,200 --> 00:00:44,709
+and function in much the same way but
+it's important to remember that
+
+44
+00:00:44,709 --> 00:00:44,719
+it's important to remember that
+ 
+
+45
+00:00:44,719 --> 00:00:48,150
+it's important to remember that
+alchemy is not magic an elixir of life
+
+46
+00:00:48,150 --> 00:00:48,160
+alchemy is not magic an elixir of life
+ 
+
+47
+00:00:48,160 --> 00:00:49,990
+alchemy is not magic an elixir of life
+may function very closely to a healing
+
+48
+00:00:49,990 --> 00:00:50,000
+may function very closely to a healing
+ 
+
+49
+00:00:50,000 --> 00:00:50,630
+may function very closely to a healing
+potion
+
+50
+00:00:50,630 --> 00:00:50,640
+potion
+ 
+
+51
+00:00:50,640 --> 00:00:52,470
+potion
+and drinking liquid from a vial that
+
+52
+00:00:52,470 --> 00:00:52,480
+and drinking liquid from a vial that
+ 
+
+53
+00:00:52,480 --> 00:00:54,389
+and drinking liquid from a vial that
+instantly heals our wounds might feel
+
+54
+00:00:54,389 --> 00:00:54,399
+instantly heals our wounds might feel
+ 
+
+55
+00:00:54,399 --> 00:00:56,950
+instantly heals our wounds might feel
+like magic to our modern sensibilities
+
+56
+00:00:56,950 --> 00:00:56,960
+like magic to our modern sensibilities
+ 
+
+57
+00:00:56,960 --> 00:01:00,630
+like magic to our modern sensibilities
+but alchemical elixirs are not magical
+
+58
+00:01:00,630 --> 00:01:00,640
+but alchemical elixirs are not magical
+ 
+
+59
+00:01:00,640 --> 00:01:02,470
+but alchemical elixirs are not magical
+they do not register the spells like
+
+60
+00:01:02,470 --> 00:01:02,480
+they do not register the spells like
+ 
+
+61
+00:01:02,480 --> 00:01:03,670
+they do not register the spells like
+detect magic
+
+62
+00:01:03,670 --> 00:01:03,680
+detect magic
+ 
+
+63
+00:01:03,680 --> 00:01:05,830
+detect magic
+nor can their effects be counteracted by
+
+64
+00:01:05,830 --> 00:01:05,840
+nor can their effects be counteracted by
+ 
+
+65
+00:01:05,840 --> 00:01:07,590
+nor can their effects be counteracted by
+dispel magic
+
+66
+00:01:07,590 --> 00:01:07,600
+dispel magic
+ 
+
+67
+00:01:07,600 --> 00:01:09,109
+dispel magic
+and another important note regarding
+
+68
+00:01:09,109 --> 00:01:09,119
+and another important note regarding
+ 
+
+69
+00:01:09,119 --> 00:01:11,350
+and another important note regarding
+alchemical items is you do not need to
+
+70
+00:01:11,350 --> 00:01:11,360
+alchemical items is you do not need to
+ 
+
+71
+00:01:11,360 --> 00:01:11,990
+alchemical items is you do not need to
+be a member
+
+72
+00:01:11,990 --> 00:01:12,000
+be a member
+ 
+
+73
+00:01:12,000 --> 00:01:14,390
+be a member
+of the alchemist's class to use or even
+
+74
+00:01:14,390 --> 00:01:14,400
+of the alchemist's class to use or even
+ 
+
+75
+00:01:14,400 --> 00:01:15,030
+of the alchemist's class to use or even
+create
+
+76
+00:01:15,030 --> 00:01:15,040
+create
+ 
+
+77
+00:01:15,040 --> 00:01:17,749
+create
+alchemical items anyone can drink an
+
+78
+00:01:17,749 --> 00:01:17,759
+alchemical items anyone can drink an
+ 
+
+79
+00:01:17,759 --> 00:01:19,270
+alchemical items anyone can drink an
+alchemical elixir or
+
+80
+00:01:19,270 --> 00:01:19,280
+alchemical elixir or
+ 
+
+81
+00:01:19,280 --> 00:01:22,230
+alchemical elixir or
+light in alchemical sun rod not just
+
+82
+00:01:22,230 --> 00:01:22,240
+light in alchemical sun rod not just
+ 
+
+83
+00:01:22,240 --> 00:01:23,350
+light in alchemical sun rod not just
+alchemists
+
+84
+00:01:23,350 --> 00:01:23,360
+alchemists
+ 
+
+85
+00:01:23,360 --> 00:01:25,910
+alchemists
+the alchemical crafting feat is required
+
+86
+00:01:25,910 --> 00:01:25,920
+the alchemical crafting feat is required
+ 
+
+87
+00:01:25,920 --> 00:01:28,149
+the alchemical crafting feat is required
+to create alchemical items
+
+88
+00:01:28,149 --> 00:01:28,159
+to create alchemical items
+ 
+
+89
+00:01:28,159 --> 00:01:29,990
+to create alchemical items
+this process works much the same way as
+
+90
+00:01:29,990 --> 00:01:30,000
+this process works much the same way as
+ 
+
+91
+00:01:30,000 --> 00:01:31,510
+this process works much the same way as
+crafting anything else
+
+92
+00:01:31,510 --> 00:01:31,520
+crafting anything else
+ 
+
+93
+00:01:31,520 --> 00:01:33,429
+crafting anything else
+except when you critically fail a
+
+94
+00:01:33,429 --> 00:01:33,439
+except when you critically fail a
+ 
+
+95
+00:01:33,439 --> 00:01:34,789
+except when you critically fail a
+crafting check to create an
+
+96
+00:01:34,789 --> 00:01:34,799
+crafting check to create an
+ 
+
+97
+00:01:34,799 --> 00:01:37,749
+crafting check to create an
+alchemical item something bad happens in
+
+98
+00:01:37,749 --> 00:01:37,759
+alchemical item something bad happens in
+ 
+
+99
+00:01:37,759 --> 00:01:39,670
+alchemical item something bad happens in
+addition to you losing your spent
+
+100
+00:01:39,670 --> 00:01:39,680
+addition to you losing your spent
+ 
+
+101
+00:01:39,680 --> 00:01:40,310
+addition to you losing your spent
+resources
+
+102
+00:01:40,310 --> 00:01:40,320
+resources
+ 
+
+103
+00:01:40,320 --> 00:01:42,870
+resources
+as normal the exact result is up to the
+
+104
+00:01:42,870 --> 00:01:42,880
+as normal the exact result is up to the
+ 
+
+105
+00:01:42,880 --> 00:01:43,350
+as normal the exact result is up to the
+gm
+
+106
+00:01:43,350 --> 00:01:43,360
+gm
+ 
+
+107
+00:01:43,360 --> 00:01:44,870
+gm
+but will usually mean that the bomb
+
+108
+00:01:44,870 --> 00:01:44,880
+but will usually mean that the bomb
+ 
+
+109
+00:01:44,880 --> 00:01:46,870
+but will usually mean that the bomb
+you're creating explodes in your face or
+
+110
+00:01:46,870 --> 00:01:46,880
+you're creating explodes in your face or
+ 
+
+111
+00:01:46,880 --> 00:01:48,789
+you're creating explodes in your face or
+you accidentally expose yourself to
+
+112
+00:01:48,789 --> 00:01:48,799
+you accidentally expose yourself to
+ 
+
+113
+00:01:48,799 --> 00:01:50,230
+you accidentally expose yourself to
+poisonous chemicals
+
+114
+00:01:50,230 --> 00:01:50,240
+poisonous chemicals
+ 
+
+115
+00:01:50,240 --> 00:01:52,149
+poisonous chemicals
+for more information about the crafting
+
+116
+00:01:52,149 --> 00:01:52,159
+for more information about the crafting
+ 
+
+117
+00:01:52,159 --> 00:01:54,310
+for more information about the crafting
+process check out my videos on crafting
+
+118
+00:01:54,310 --> 00:01:54,320
+process check out my videos on crafting
+ 
+
+119
+00:01:54,320 --> 00:01:55,590
+process check out my videos on crafting
+you can find links to those
+
+120
+00:01:55,590 --> 00:01:55,600
+you can find links to those
+ 
+
+121
+00:01:55,600 --> 00:01:58,149
+you can find links to those
+in the description also is worth noting
+
+122
+00:01:58,149 --> 00:01:58,159
+in the description also is worth noting
+ 
+
+123
+00:01:58,159 --> 00:01:59,270
+in the description also is worth noting
+that there is no
+
+124
+00:01:59,270 --> 00:01:59,280
+that there is no
+ 
+
+125
+00:01:59,280 --> 00:02:03,270
+that there is no
+alchemy skill instead the crafting skill
+
+126
+00:02:03,270 --> 00:02:03,280
+alchemy skill instead the crafting skill
+ 
+
+127
+00:02:03,280 --> 00:02:05,590
+alchemy skill instead the crafting skill
+is associated with alchemical items in
+
+128
+00:02:05,590 --> 00:02:05,600
+is associated with alchemical items in
+ 
+
+129
+00:02:05,600 --> 00:02:07,590
+is associated with alchemical items in
+which the same way that arcana nature
+
+130
+00:02:07,590 --> 00:02:07,600
+which the same way that arcana nature
+ 
+
+131
+00:02:07,600 --> 00:02:09,190
+which the same way that arcana nature
+religion and occultism relate to their
+
+132
+00:02:09,190 --> 00:02:09,200
+religion and occultism relate to their
+ 
+
+133
+00:02:09,200 --> 00:02:10,710
+religion and occultism relate to their
+magical traditions
+
+134
+00:02:10,710 --> 00:02:10,720
+magical traditions
+ 
+
+135
+00:02:10,720 --> 00:02:13,190
+magical traditions
+meaning you use the crafting skill to
+
+136
+00:02:13,190 --> 00:02:13,200
+meaning you use the crafting skill to
+ 
+
+137
+00:02:13,200 --> 00:02:15,190
+meaning you use the crafting skill to
+identify or recall knowledge about
+
+138
+00:02:15,190 --> 00:02:15,200
+identify or recall knowledge about
+ 
+
+139
+00:02:15,200 --> 00:02:16,790
+identify or recall knowledge about
+alchemical items
+
+140
+00:02:16,790 --> 00:02:16,800
+alchemical items
+ 
+
+141
+00:02:16,800 --> 00:02:19,190
+alchemical items
+and last most alchemical items include
+
+142
+00:02:19,190 --> 00:02:19,200
+and last most alchemical items include
+ 
+
+143
+00:02:19,200 --> 00:02:20,869
+and last most alchemical items include
+the consumable trait
+
+144
+00:02:20,869 --> 00:02:20,879
+the consumable trait
+ 
+
+145
+00:02:20,879 --> 00:02:23,350
+the consumable trait
+meaning they can only be used once and
+
+146
+00:02:23,350 --> 00:02:23,360
+meaning they can only be used once and
+ 
+
+147
+00:02:23,360 --> 00:02:24,550
+meaning they can only be used once and
+then are lost
+
+148
+00:02:24,550 --> 00:02:24,560
+then are lost
+ 
+
+149
+00:02:24,560 --> 00:02:26,630
+then are lost
+this includes alchemical poisons and
+
+150
+00:02:26,630 --> 00:02:26,640
+this includes alchemical poisons and
+ 
+
+151
+00:02:26,640 --> 00:02:28,070
+this includes alchemical poisons and
+oils as well
+
+152
+00:02:28,070 --> 00:02:28,080
+oils as well
+ 
+
+153
+00:02:28,080 --> 00:02:32,470
+oils as well
+one dose means one use
+
+154
+00:02:32,470 --> 00:02:32,480
+
+ 
+
+155
+00:02:32,480 --> 00:02:34,390
+
+let's take a closer look at each type of
+
+156
+00:02:34,390 --> 00:02:34,400
+let's take a closer look at each type of
+ 
+
+157
+00:02:34,400 --> 00:02:36,070
+let's take a closer look at each type of
+alchemical items starting without
+
+158
+00:02:36,070 --> 00:02:36,080
+alchemical items starting without
+ 
+
+159
+00:02:36,080 --> 00:02:37,509
+alchemical items starting without
+chemical bombs
+
+160
+00:02:37,509 --> 00:02:37,519
+chemical bombs
+ 
+
+161
+00:02:37,519 --> 00:02:39,350
+chemical bombs
+alchemical bombs are basically
+
+162
+00:02:39,350 --> 00:02:39,360
+alchemical bombs are basically
+ 
+
+163
+00:02:39,360 --> 00:02:40,630
+alchemical bombs are basically
+pathfinder grenades
+
+164
+00:02:40,630 --> 00:02:40,640
+pathfinder grenades
+ 
+
+165
+00:02:40,640 --> 00:02:43,270
+pathfinder grenades
+but they don't always deal damage and
+
+166
+00:02:43,270 --> 00:02:43,280
+but they don't always deal damage and
+ 
+
+167
+00:02:43,280 --> 00:02:45,350
+but they don't always deal damage and
+they can take many shapes and forms
+
+168
+00:02:45,350 --> 00:02:45,360
+they can take many shapes and forms
+ 
+
+169
+00:02:45,360 --> 00:02:47,830
+they can take many shapes and forms
+sometimes they are ball shaped grenades
+
+170
+00:02:47,830 --> 00:02:47,840
+sometimes they are ball shaped grenades
+ 
+
+171
+00:02:47,840 --> 00:02:49,030
+sometimes they are ball shaped grenades
+but they could also be
+
+172
+00:02:49,030 --> 00:02:49,040
+but they could also be
+ 
+
+173
+00:02:49,040 --> 00:02:52,470
+but they could also be
+glass flasks or even small bags of goo
+
+174
+00:02:52,470 --> 00:02:52,480
+glass flasks or even small bags of goo
+ 
+
+175
+00:02:52,480 --> 00:02:54,550
+glass flasks or even small bags of goo
+regardless of shape all bombs are
+
+176
+00:02:54,550 --> 00:02:54,560
+regardless of shape all bombs are
+ 
+
+177
+00:02:54,560 --> 00:02:56,150
+regardless of shape all bombs are
+distinguished from other alchemical
+
+178
+00:02:56,150 --> 00:02:56,160
+distinguished from other alchemical
+ 
+
+179
+00:02:56,160 --> 00:02:57,990
+distinguished from other alchemical
+items by the bomb trait
+
+180
+00:02:57,990 --> 00:02:58,000
+items by the bomb trait
+ 
+
+181
+00:02:58,000 --> 00:03:00,470
+items by the bomb trait
+and have the same basic stats when used
+
+182
+00:03:00,470 --> 00:03:00,480
+and have the same basic stats when used
+ 
+
+183
+00:03:00,480 --> 00:03:01,509
+and have the same basic stats when used
+in combat
+
+184
+00:03:01,509 --> 00:03:01,519
+in combat
+ 
+
+185
+00:03:01,519 --> 00:03:03,030
+in combat
+unless otherwise noted in their
+
+186
+00:03:03,030 --> 00:03:03,040
+unless otherwise noted in their
+ 
+
+187
+00:03:03,040 --> 00:03:05,270
+unless otherwise noted in their
+descriptions all alchemical bombs
+
+188
+00:03:05,270 --> 00:03:05,280
+descriptions all alchemical bombs
+ 
+
+189
+00:03:05,280 --> 00:03:07,990
+descriptions all alchemical bombs
+are martial ranged weapons meaning
+
+190
+00:03:07,990 --> 00:03:08,000
+are martial ranged weapons meaning
+ 
+
+191
+00:03:08,000 --> 00:03:10,470
+are martial ranged weapons meaning
+alchemists barbarians champions fighters
+
+192
+00:03:10,470 --> 00:03:10,480
+alchemists barbarians champions fighters
+ 
+
+193
+00:03:10,480 --> 00:03:12,229
+alchemists barbarians champions fighters
+rangers and swashbucklers
+
+194
+00:03:12,229 --> 00:03:12,239
+rangers and swashbucklers
+ 
+
+195
+00:03:12,239 --> 00:03:14,229
+rangers and swashbucklers
+all have at least trained proficiency in
+
+196
+00:03:14,229 --> 00:03:14,239
+all have at least trained proficiency in
+ 
+
+197
+00:03:14,239 --> 00:03:16,070
+all have at least trained proficiency in
+bomb attacks at first level
+
+198
+00:03:16,070 --> 00:03:16,080
+bomb attacks at first level
+ 
+
+199
+00:03:16,080 --> 00:03:18,550
+bomb attacks at first level
+and war priests clerics gain proficiency
+
+200
+00:03:18,550 --> 00:03:18,560
+and war priests clerics gain proficiency
+ 
+
+201
+00:03:18,560 --> 00:03:19,750
+and war priests clerics gain proficiency
+at third level
+
+202
+00:03:19,750 --> 00:03:19,760
+at third level
+ 
+
+203
+00:03:19,760 --> 00:03:23,190
+at third level
+and bards most cloistered clerics druids
+
+204
+00:03:23,190 --> 00:03:23,200
+and bards most cloistered clerics druids
+ 
+
+205
+00:03:23,200 --> 00:03:25,270
+and bards most cloistered clerics druids
+investigators monks oracles rogues
+
+206
+00:03:25,270 --> 00:03:25,280
+investigators monks oracles rogues
+ 
+
+207
+00:03:25,280 --> 00:03:27,110
+investigators monks oracles rogues
+sorceress witches and wizards
+
+208
+00:03:27,110 --> 00:03:27,120
+sorceress witches and wizards
+ 
+
+209
+00:03:27,120 --> 00:03:29,350
+sorceress witches and wizards
+are not proficient with alchemical bombs
+
+210
+00:03:29,350 --> 00:03:29,360
+are not proficient with alchemical bombs
+ 
+
+211
+00:03:29,360 --> 00:03:30,470
+are not proficient with alchemical bombs
+by default
+
+212
+00:03:30,470 --> 00:03:30,480
+by default
+ 
+
+213
+00:03:30,480 --> 00:03:32,470
+by default
+they can still use an attack with these
+
+214
+00:03:32,470 --> 00:03:32,480
+they can still use an attack with these
+ 
+
+215
+00:03:32,480 --> 00:03:34,309
+they can still use an attack with these
+bombs they just do so with
+
+216
+00:03:34,309 --> 00:03:34,319
+bombs they just do so with
+ 
+
+217
+00:03:34,319 --> 00:03:37,589
+bombs they just do so with
+untrained proficiency bombs also have a
+
+218
+00:03:37,589 --> 00:03:37,599
+untrained proficiency bombs also have a
+ 
+
+219
+00:03:37,599 --> 00:03:39,430
+untrained proficiency bombs also have a
+range increment of 20 feet or four
+
+220
+00:03:39,430 --> 00:03:39,440
+range increment of 20 feet or four
+ 
+
+221
+00:03:39,440 --> 00:03:40,070
+range increment of 20 feet or four
+squares
+
+222
+00:03:40,070 --> 00:03:40,080
+squares
+ 
+
+223
+00:03:40,080 --> 00:03:42,070
+squares
+and note that although bombs are usually
+
+224
+00:03:42,070 --> 00:03:42,080
+and note that although bombs are usually
+ 
+
+225
+00:03:42,080 --> 00:03:44,070
+and note that although bombs are usually
+thrown at targets like a grenade
+
+226
+00:03:44,070 --> 00:03:44,080
+thrown at targets like a grenade
+ 
+
+227
+00:03:44,080 --> 00:03:47,030
+thrown at targets like a grenade
+they do not have the thrown trait
+
+228
+00:03:47,030 --> 00:03:47,040
+they do not have the thrown trait
+ 
+
+229
+00:03:47,040 --> 00:03:47,670
+they do not have the thrown trait
+therefore
+
+230
+00:03:47,670 --> 00:03:47,680
+therefore
+ 
+
+231
+00:03:47,680 --> 00:03:49,750
+therefore
+you do not add your strength bonus to
+
+232
+00:03:49,750 --> 00:03:49,760
+you do not add your strength bonus to
+ 
+
+233
+00:03:49,760 --> 00:03:52,710
+you do not add your strength bonus to
+damage when throwing an alchemical bomb
+
+234
+00:03:52,710 --> 00:03:52,720
+damage when throwing an alchemical bomb
+ 
+
+235
+00:03:52,720 --> 00:03:54,470
+damage when throwing an alchemical bomb
+let's look at alchemist fire as an
+
+236
+00:03:54,470 --> 00:03:54,480
+let's look at alchemist fire as an
+ 
+
+237
+00:03:54,480 --> 00:03:57,270
+let's look at alchemist fire as an
+example this is a glass vial of volatile
+
+238
+00:03:57,270 --> 00:03:57,280
+example this is a glass vial of volatile
+ 
+
+239
+00:03:57,280 --> 00:03:57,910
+example this is a glass vial of volatile
+liquids
+
+240
+00:03:57,910 --> 00:03:57,920
+liquids
+ 
+
+241
+00:03:57,920 --> 00:03:59,910
+liquids
+that you throw at a target the glass
+
+242
+00:03:59,910 --> 00:03:59,920
+that you throw at a target the glass
+ 
+
+243
+00:03:59,920 --> 00:04:01,750
+that you throw at a target the glass
+shatters on impact causing the liquid
+
+244
+00:04:01,750 --> 00:04:01,760
+shatters on impact causing the liquid
+ 
+
+245
+00:04:01,760 --> 00:04:03,670
+shatters on impact causing the liquid
+inside to burst into fire
+
+246
+00:04:03,670 --> 00:04:03,680
+inside to burst into fire
+ 
+
+247
+00:04:03,680 --> 00:04:05,830
+inside to burst into fire
+it has the alchemical trait meaning it's
+
+248
+00:04:05,830 --> 00:04:05,840
+it has the alchemical trait meaning it's
+ 
+
+249
+00:04:05,840 --> 00:04:06,949
+it has the alchemical trait meaning it's
+not magical
+
+250
+00:04:06,949 --> 00:04:06,959
+not magical
+ 
+
+251
+00:04:06,959 --> 00:04:09,270
+not magical
+it has the bomb trait meaning it uses
+
+252
+00:04:09,270 --> 00:04:09,280
+it has the bomb trait meaning it uses
+ 
+
+253
+00:04:09,280 --> 00:04:11,350
+it has the bomb trait meaning it uses
+the alchemical bomb stats found on page
+
+254
+00:04:11,350 --> 00:04:11,360
+the alchemical bomb stats found on page
+ 
+
+255
+00:04:11,360 --> 00:04:12,869
+the alchemical bomb stats found on page
+282 as a foundation
+
+256
+00:04:12,869 --> 00:04:12,879
+282 as a foundation
+ 
+
+257
+00:04:12,879 --> 00:04:14,710
+282 as a foundation
+that are further modified by the
+
+258
+00:04:14,710 --> 00:04:14,720
+that are further modified by the
+ 
+
+259
+00:04:14,720 --> 00:04:18,150
+that are further modified by the
+alchemist fire stats found on page 545
+
+260
+00:04:18,150 --> 00:04:18,160
+alchemist fire stats found on page 545
+ 
+
+261
+00:04:18,160 --> 00:04:20,469
+alchemist fire stats found on page 545
+and most bombs that deal damage have the
+
+262
+00:04:20,469 --> 00:04:20,479
+and most bombs that deal damage have the
+ 
+
+263
+00:04:20,479 --> 00:04:22,710
+and most bombs that deal damage have the
+splash trait so let's take a moment to
+
+264
+00:04:22,710 --> 00:04:22,720
+splash trait so let's take a moment to
+ 
+
+265
+00:04:22,720 --> 00:04:24,150
+splash trait so let's take a moment to
+talk about this
+
+266
+00:04:24,150 --> 00:04:24,160
+talk about this
+ 
+
+267
+00:04:24,160 --> 00:04:26,950
+talk about this
+if an attack with a splash weapon fails
+
+268
+00:04:26,950 --> 00:04:26,960
+if an attack with a splash weapon fails
+ 
+
+269
+00:04:26,960 --> 00:04:27,990
+if an attack with a splash weapon fails
+succeeds or
+
+270
+00:04:27,990 --> 00:04:28,000
+succeeds or
+ 
+
+271
+00:04:28,000 --> 00:04:30,150
+succeeds or
+critically succeeds then all creatures
+
+272
+00:04:30,150 --> 00:04:30,160
+critically succeeds then all creatures
+ 
+
+273
+00:04:30,160 --> 00:04:31,909
+critically succeeds then all creatures
+within five feet of the target
+
+274
+00:04:31,909 --> 00:04:31,919
+within five feet of the target
+ 
+
+275
+00:04:31,919 --> 00:04:34,469
+within five feet of the target
+including the target take the listed
+
+276
+00:04:34,469 --> 00:04:34,479
+including the target take the listed
+ 
+
+277
+00:04:34,479 --> 00:04:35,590
+including the target take the listed
+splash damage
+
+278
+00:04:35,590 --> 00:04:35,600
+splash damage
+ 
+
+279
+00:04:35,600 --> 00:04:37,670
+splash damage
+splash damage does apply even when the
+
+280
+00:04:37,670 --> 00:04:37,680
+splash damage does apply even when the
+ 
+
+281
+00:04:37,680 --> 00:04:39,350
+splash damage does apply even when the
+attack roll is a failure
+
+282
+00:04:39,350 --> 00:04:39,360
+attack roll is a failure
+ 
+
+283
+00:04:39,360 --> 00:04:41,990
+attack roll is a failure
+but splash damage is never doubled due
+
+284
+00:04:41,990 --> 00:04:42,000
+but splash damage is never doubled due
+ 
+
+285
+00:04:42,000 --> 00:04:43,990
+but splash damage is never doubled due
+to a critical success
+
+286
+00:04:43,990 --> 00:04:44,000
+to a critical success
+ 
+
+287
+00:04:44,000 --> 00:04:46,310
+to a critical success
+so in the case of alchemist fire if you
+
+288
+00:04:46,310 --> 00:04:46,320
+so in the case of alchemist fire if you
+ 
+
+289
+00:04:46,320 --> 00:04:48,390
+so in the case of alchemist fire if you
+throw this at a target and score hit
+
+290
+00:04:48,390 --> 00:04:48,400
+throw this at a target and score hit
+ 
+
+291
+00:04:48,400 --> 00:04:51,189
+throw this at a target and score hit
+the target suffers 1d8 fire damage plus
+
+292
+00:04:51,189 --> 00:04:51,199
+the target suffers 1d8 fire damage plus
+ 
+
+293
+00:04:51,199 --> 00:04:51,590
+the target suffers 1d8 fire damage plus
+1
+
+294
+00:04:51,590 --> 00:04:51,600
+1
+ 
+
+295
+00:04:51,600 --> 00:04:54,950
+1
+persistent fire damage and 1 fire splash
+
+296
+00:04:54,950 --> 00:04:54,960
+persistent fire damage and 1 fire splash
+ 
+
+297
+00:04:54,960 --> 00:04:55,830
+persistent fire damage and 1 fire splash
+damage
+
+298
+00:04:55,830 --> 00:04:55,840
+damage
+ 
+
+299
+00:04:55,840 --> 00:04:57,830
+damage
+also all creatures standing in adjacent
+
+300
+00:04:57,830 --> 00:04:57,840
+also all creatures standing in adjacent
+ 
+
+301
+00:04:57,840 --> 00:04:59,110
+also all creatures standing in adjacent
+squares to the target
+
+302
+00:04:59,110 --> 00:04:59,120
+squares to the target
+ 
+
+303
+00:04:59,120 --> 00:05:01,990
+squares to the target
+suffer one fire splash damage there is
+
+304
+00:05:01,990 --> 00:05:02,000
+suffer one fire splash damage there is
+ 
+
+305
+00:05:02,000 --> 00:05:04,070
+suffer one fire splash damage there is
+no saving throw to avoid this they just
+
+306
+00:05:04,070 --> 00:05:04,080
+no saving throw to avoid this they just
+ 
+
+307
+00:05:04,080 --> 00:05:05,430
+no saving throw to avoid this they just
+take the damage
+
+308
+00:05:05,430 --> 00:05:05,440
+take the damage
+ 
+
+309
+00:05:05,440 --> 00:05:08,710
+take the damage
+on a critical hit the target suffers 2d8
+
+310
+00:05:08,710 --> 00:05:08,720
+on a critical hit the target suffers 2d8
+ 
+
+311
+00:05:08,720 --> 00:05:09,749
+on a critical hit the target suffers 2d8
+fire damage
+
+312
+00:05:09,749 --> 00:05:09,759
+fire damage
+ 
+
+313
+00:05:09,759 --> 00:05:12,790
+fire damage
+plus 2 persistent fire damage and 1
+
+314
+00:05:12,790 --> 00:05:12,800
+plus 2 persistent fire damage and 1
+ 
+
+315
+00:05:12,800 --> 00:05:15,270
+plus 2 persistent fire damage and 1
+fire splash damage because again splash
+
+316
+00:05:15,270 --> 00:05:15,280
+fire splash damage because again splash
+ 
+
+317
+00:05:15,280 --> 00:05:17,029
+fire splash damage because again splash
+damage is not multiplied due to a
+
+318
+00:05:17,029 --> 00:05:17,039
+damage is not multiplied due to a
+ 
+
+319
+00:05:17,039 --> 00:05:18,390
+damage is not multiplied due to a
+critical success
+
+320
+00:05:18,390 --> 00:05:18,400
+critical success
+ 
+
+321
+00:05:18,400 --> 00:05:20,710
+critical success
+and also all creatures adjacent to the
+
+322
+00:05:20,710 --> 00:05:20,720
+and also all creatures adjacent to the
+ 
+
+323
+00:05:20,720 --> 00:05:22,469
+and also all creatures adjacent to the
+target are going to suffer one fire
+
+324
+00:05:22,469 --> 00:05:22,479
+target are going to suffer one fire
+ 
+
+325
+00:05:22,479 --> 00:05:24,230
+target are going to suffer one fire
+splash damage as well
+
+326
+00:05:24,230 --> 00:05:24,240
+splash damage as well
+ 
+
+327
+00:05:24,240 --> 00:05:25,990
+splash damage as well
+if the result of the attack roll is a
+
+328
+00:05:25,990 --> 00:05:26,000
+if the result of the attack roll is a
+ 
+
+329
+00:05:26,000 --> 00:05:28,150
+if the result of the attack roll is a
+failure then the target in everyone
+
+330
+00:05:28,150 --> 00:05:28,160
+failure then the target in everyone
+ 
+
+331
+00:05:28,160 --> 00:05:30,390
+failure then the target in everyone
+adjacent to them still suffers one fire
+
+332
+00:05:30,390 --> 00:05:30,400
+adjacent to them still suffers one fire
+ 
+
+333
+00:05:30,400 --> 00:05:30,870
+adjacent to them still suffers one fire
+splash
+
+334
+00:05:30,870 --> 00:05:30,880
+splash
+ 
+
+335
+00:05:30,880 --> 00:05:33,350
+splash
+damage and on a critical failure nothing
+
+336
+00:05:33,350 --> 00:05:33,360
+damage and on a critical failure nothing
+ 
+
+337
+00:05:33,360 --> 00:05:34,070
+damage and on a critical failure nothing
+happens
+
+338
+00:05:34,070 --> 00:05:34,080
+happens
+ 
+
+339
+00:05:34,080 --> 00:05:36,390
+happens
+i usually treat this as the bomb is just
+
+340
+00:05:36,390 --> 00:05:36,400
+i usually treat this as the bomb is just
+ 
+
+341
+00:05:36,400 --> 00:05:38,310
+i usually treat this as the bomb is just
+a dud and doesn't go off
+
+342
+00:05:38,310 --> 00:05:38,320
+a dud and doesn't go off
+ 
+
+343
+00:05:38,320 --> 00:05:40,629
+a dud and doesn't go off
+but in the right situations i might rule
+
+344
+00:05:40,629 --> 00:05:40,639
+but in the right situations i might rule
+ 
+
+345
+00:05:40,639 --> 00:05:42,390
+but in the right situations i might rule
+that it says fire to something behind
+
+346
+00:05:42,390 --> 00:05:42,400
+that it says fire to something behind
+ 
+
+347
+00:05:42,400 --> 00:05:44,230
+that it says fire to something behind
+the target instead
+
+348
+00:05:44,230 --> 00:05:44,240
+the target instead
+ 
+
+349
+00:05:44,240 --> 00:05:45,990
+the target instead
+using a bomb has the same action
+
+350
+00:05:45,990 --> 00:05:46,000
+using a bomb has the same action
+ 
+
+351
+00:05:46,000 --> 00:05:47,749
+using a bomb has the same action
+requirements as anything else
+
+352
+00:05:47,749 --> 00:05:47,759
+requirements as anything else
+ 
+
+353
+00:05:47,759 --> 00:05:50,070
+requirements as anything else
+so it's one action to draw in one action
+
+354
+00:05:50,070 --> 00:05:50,080
+so it's one action to draw in one action
+ 
+
+355
+00:05:50,080 --> 00:05:51,029
+so it's one action to draw in one action
+to throw
+
+356
+00:05:51,029 --> 00:05:51,039
+to throw
+ 
+
+357
+00:05:51,039 --> 00:05:52,790
+to throw
+not really any different than drawing
+
+358
+00:05:52,790 --> 00:05:52,800
+not really any different than drawing
+ 
+
+359
+00:05:52,800 --> 00:05:54,150
+not really any different than drawing
+and throwing a dagger
+
+360
+00:05:54,150 --> 00:05:54,160
+and throwing a dagger
+ 
+
+361
+00:05:54,160 --> 00:05:56,309
+and throwing a dagger
+although the quick bomber feat available
+
+362
+00:05:56,309 --> 00:05:56,319
+although the quick bomber feat available
+ 
+
+363
+00:05:56,319 --> 00:05:58,390
+although the quick bomber feat available
+at alchemists does reduce this to only
+
+364
+00:05:58,390 --> 00:05:58,400
+at alchemists does reduce this to only
+ 
+
+365
+00:05:58,400 --> 00:05:59,590
+at alchemists does reduce this to only
+one action
+
+366
+00:05:59,590 --> 00:05:59,600
+one action
+ 
+
+367
+00:05:59,600 --> 00:06:01,430
+one action
+and last it's worth noting that bombs
+
+368
+00:06:01,430 --> 00:06:01,440
+and last it's worth noting that bombs
+ 
+
+369
+00:06:01,440 --> 00:06:03,189
+and last it's worth noting that bombs
+gain the manipulate trait when they're
+
+370
+00:06:03,189 --> 00:06:03,199
+gain the manipulate trait when they're
+ 
+
+371
+00:06:03,199 --> 00:06:05,029
+gain the manipulate trait when they're
+used for a strike action
+
+372
+00:06:05,029 --> 00:06:05,039
+used for a strike action
+ 
+
+373
+00:06:05,039 --> 00:06:07,110
+used for a strike action
+meaning they do trigger attacks of
+
+374
+00:06:07,110 --> 00:06:07,120
+meaning they do trigger attacks of
+ 
+
+375
+00:06:07,120 --> 00:06:08,150
+meaning they do trigger attacks of
+opportunity and
+
+376
+00:06:08,150 --> 00:06:08,160
+opportunity and
+ 
+
+377
+00:06:08,160 --> 00:06:12,469
+opportunity and
+other similar reactions
+
+378
+00:06:12,469 --> 00:06:12,479
+
+ 
+
+379
+00:06:12,479 --> 00:06:14,550
+
+the second type of alchemical item is
+
+380
+00:06:14,550 --> 00:06:14,560
+the second type of alchemical item is
+ 
+
+381
+00:06:14,560 --> 00:06:16,309
+the second type of alchemical item is
+alchemical poison
+
+382
+00:06:16,309 --> 00:06:16,319
+alchemical poison
+ 
+
+383
+00:06:16,319 --> 00:06:18,070
+alchemical poison
+poisons are basically portable
+
+384
+00:06:18,070 --> 00:06:18,080
+poisons are basically portable
+ 
+
+385
+00:06:18,080 --> 00:06:20,150
+poisons are basically portable
+afflictions so rather than covering all
+
+386
+00:06:20,150 --> 00:06:20,160
+afflictions so rather than covering all
+ 
+
+387
+00:06:20,160 --> 00:06:21,350
+afflictions so rather than covering all
+of these rules here
+
+388
+00:06:21,350 --> 00:06:21,360
+of these rules here
+ 
+
+389
+00:06:21,360 --> 00:06:23,510
+of these rules here
+i instead recommend you view my video
+
+390
+00:06:23,510 --> 00:06:23,520
+i instead recommend you view my video
+ 
+
+391
+00:06:23,520 --> 00:06:24,870
+i instead recommend you view my video
+all about afflictions
+
+392
+00:06:24,870 --> 00:06:24,880
+all about afflictions
+ 
+
+393
+00:06:24,880 --> 00:06:26,870
+all about afflictions
+which i will include a link to in the
+
+394
+00:06:26,870 --> 00:06:26,880
+which i will include a link to in the
+ 
+
+395
+00:06:26,880 --> 00:06:28,070
+which i will include a link to in the
+description
+
+396
+00:06:28,070 --> 00:06:28,080
+description
+ 
+
+397
+00:06:28,080 --> 00:06:29,990
+description
+for this discussion though it is worth
+
+398
+00:06:29,990 --> 00:06:30,000
+for this discussion though it is worth
+ 
+
+399
+00:06:30,000 --> 00:06:31,909
+for this discussion though it is worth
+covering the methods of exposure that
+
+400
+00:06:31,909 --> 00:06:31,919
+covering the methods of exposure that
+ 
+
+401
+00:06:31,919 --> 00:06:34,550
+covering the methods of exposure that
+are available to our chemical poisons
+
+402
+00:06:34,550 --> 00:06:34,560
+are available to our chemical poisons
+ 
+
+403
+00:06:34,560 --> 00:06:36,790
+are available to our chemical poisons
+each poison will have at least one of
+
+404
+00:06:36,790 --> 00:06:36,800
+each poison will have at least one of
+ 
+
+405
+00:06:36,800 --> 00:06:38,390
+each poison will have at least one of
+the following traits
+
+406
+00:06:38,390 --> 00:06:38,400
+the following traits
+ 
+
+407
+00:06:38,400 --> 00:06:41,830
+the following traits
+contact ingested inhaled or injury
+
+408
+00:06:41,830 --> 00:06:41,840
+contact ingested inhaled or injury
+ 
+
+409
+00:06:41,840 --> 00:06:43,909
+contact ingested inhaled or injury
+contact poisons require direct contact
+
+410
+00:06:43,909 --> 00:06:43,919
+contact poisons require direct contact
+ 
+
+411
+00:06:43,919 --> 00:06:44,950
+contact poisons require direct contact
+with the creature's skin
+
+412
+00:06:44,950 --> 00:06:44,960
+with the creature's skin
+ 
+
+413
+00:06:44,960 --> 00:06:47,029
+with the creature's skin
+in order to take effect these poisons
+
+414
+00:06:47,029 --> 00:06:47,039
+in order to take effect these poisons
+ 
+
+415
+00:06:47,039 --> 00:06:48,870
+in order to take effect these poisons
+are typically not used during combat
+
+416
+00:06:48,870 --> 00:06:48,880
+are typically not used during combat
+ 
+
+417
+00:06:48,880 --> 00:06:51,110
+are typically not used during combat
+encounters as they cannot be applied to
+
+418
+00:06:51,110 --> 00:06:51,120
+encounters as they cannot be applied to
+ 
+
+419
+00:06:51,120 --> 00:06:52,390
+encounters as they cannot be applied to
+weapons for delivery
+
+420
+00:06:52,390 --> 00:06:52,400
+weapons for delivery
+ 
+
+421
+00:06:52,400 --> 00:06:55,110
+weapons for delivery
+and often have onset periods of at least
+
+422
+00:06:55,110 --> 00:06:55,120
+and often have onset periods of at least
+ 
+
+423
+00:06:55,120 --> 00:06:56,230
+and often have onset periods of at least
+one minute
+
+424
+00:06:56,230 --> 00:06:56,240
+one minute
+ 
+
+425
+00:06:56,240 --> 00:06:58,469
+one minute
+also when it comes to alchemical contact
+
+426
+00:06:58,469 --> 00:06:58,479
+also when it comes to alchemical contact
+ 
+
+427
+00:06:58,479 --> 00:06:59,589
+also when it comes to alchemical contact
+poisons they
+
+428
+00:06:59,589 --> 00:06:59,599
+poisons they
+ 
+
+429
+00:06:59,599 --> 00:07:02,230
+poisons they
+only affect the first creature to touch
+
+430
+00:07:02,230 --> 00:07:02,240
+only affect the first creature to touch
+ 
+
+431
+00:07:02,240 --> 00:07:02,790
+only affect the first creature to touch
+them
+
+432
+00:07:02,790 --> 00:07:02,800
+them
+ 
+
+433
+00:07:02,800 --> 00:07:05,110
+them
+so if you apply a dose in such a way
+
+434
+00:07:05,110 --> 00:07:05,120
+so if you apply a dose in such a way
+ 
+
+435
+00:07:05,120 --> 00:07:07,029
+so if you apply a dose in such a way
+that more than one creature might make
+
+436
+00:07:07,029 --> 00:07:07,039
+that more than one creature might make
+ 
+
+437
+00:07:07,039 --> 00:07:08,070
+that more than one creature might make
+contact with it
+
+438
+00:07:08,070 --> 00:07:08,080
+contact with it
+ 
+
+439
+00:07:08,080 --> 00:07:10,550
+contact with it
+the poison is only effective against the
+
+440
+00:07:10,550 --> 00:07:10,560
+the poison is only effective against the
+ 
+
+441
+00:07:10,560 --> 00:07:11,749
+the poison is only effective against the
+first
+
+442
+00:07:11,749 --> 00:07:11,759
+first
+ 
+
+443
+00:07:11,759 --> 00:07:14,150
+first
+ingested poisons must be eaten to affect
+
+444
+00:07:14,150 --> 00:07:14,160
+ingested poisons must be eaten to affect
+ 
+
+445
+00:07:14,160 --> 00:07:15,189
+ingested poisons must be eaten to affect
+their target
+
+446
+00:07:15,189 --> 00:07:15,199
+their target
+ 
+
+447
+00:07:15,199 --> 00:07:16,790
+their target
+typically this means the poison is
+
+448
+00:07:16,790 --> 00:07:16,800
+typically this means the poison is
+ 
+
+449
+00:07:16,800 --> 00:07:19,029
+typically this means the poison is
+placed in food or drink and may require
+
+450
+00:07:19,029 --> 00:07:19,039
+placed in food or drink and may require
+ 
+
+451
+00:07:19,039 --> 00:07:21,189
+placed in food or drink and may require
+additional deception and stealth checks
+
+452
+00:07:21,189 --> 00:07:21,199
+additional deception and stealth checks
+ 
+
+453
+00:07:21,199 --> 00:07:23,029
+additional deception and stealth checks
+to be successful
+
+454
+00:07:23,029 --> 00:07:23,039
+to be successful
+ 
+
+455
+00:07:23,039 --> 00:07:25,830
+to be successful
+next we have inhaled poisons when these
+
+456
+00:07:25,830 --> 00:07:25,840
+next we have inhaled poisons when these
+ 
+
+457
+00:07:25,840 --> 00:07:28,390
+next we have inhaled poisons when these
+are applied they create a 10-foot cube
+
+458
+00:07:28,390 --> 00:07:28,400
+are applied they create a 10-foot cube
+ 
+
+459
+00:07:28,400 --> 00:07:30,550
+are applied they create a 10-foot cube
+lasting for one minute and affecting
+
+460
+00:07:30,550 --> 00:07:30,560
+lasting for one minute and affecting
+ 
+
+461
+00:07:30,560 --> 00:07:33,270
+lasting for one minute and affecting
+every creature that enters the area
+
+462
+00:07:33,270 --> 00:07:33,280
+every creature that enters the area
+ 
+
+463
+00:07:33,280 --> 00:07:36,150
+every creature that enters the area
+raw specifically says entering the area
+
+464
+00:07:36,150 --> 00:07:36,160
+raw specifically says entering the area
+ 
+
+465
+00:07:36,160 --> 00:07:36,550
+raw specifically says entering the area
+but
+
+466
+00:07:36,550 --> 00:07:36,560
+but
+ 
+
+467
+00:07:36,560 --> 00:07:38,790
+but
+i believe creatures who start their turn
+
+468
+00:07:38,790 --> 00:07:38,800
+i believe creatures who start their turn
+ 
+
+469
+00:07:38,800 --> 00:07:41,350
+i believe creatures who start their turn
+within this space would be affected too
+
+470
+00:07:41,350 --> 00:07:41,360
+within this space would be affected too
+ 
+
+471
+00:07:41,360 --> 00:07:43,670
+within this space would be affected too
+if a creature is aware of the poison gas
+
+472
+00:07:43,670 --> 00:07:43,680
+if a creature is aware of the poison gas
+ 
+
+473
+00:07:43,680 --> 00:07:44,469
+if a creature is aware of the poison gas
+they can spend
+
+474
+00:07:44,469 --> 00:07:44,479
+they can spend
+ 
+
+475
+00:07:44,479 --> 00:07:47,029
+they can spend
+one action per turn to hold their breath
+
+476
+00:07:47,029 --> 00:07:47,039
+one action per turn to hold their breath
+ 
+
+477
+00:07:47,039 --> 00:07:47,749
+one action per turn to hold their breath
+and gain
+
+478
+00:07:47,749 --> 00:07:47,759
+and gain
+ 
+
+479
+00:07:47,759 --> 00:07:49,589
+and gain
+a plus two circumstance bonus to their
+
+480
+00:07:49,589 --> 00:07:49,599
+a plus two circumstance bonus to their
+ 
+
+481
+00:07:49,599 --> 00:07:50,950
+a plus two circumstance bonus to their
+saving throws
+
+482
+00:07:50,950 --> 00:07:50,960
+saving throws
+ 
+
+483
+00:07:50,960 --> 00:07:53,589
+saving throws
+and a strong wind may remove this area
+
+484
+00:07:53,589 --> 00:07:53,599
+and a strong wind may remove this area
+ 
+
+485
+00:07:53,599 --> 00:07:54,230
+and a strong wind may remove this area
+of effect
+
+486
+00:07:54,230 --> 00:07:54,240
+of effect
+ 
+
+487
+00:07:54,240 --> 00:07:55,990
+of effect
+prior to the end of its one minute
+
+488
+00:07:55,990 --> 00:07:56,000
+prior to the end of its one minute
+ 
+
+489
+00:07:56,000 --> 00:07:57,990
+prior to the end of its one minute
+duration last are
+
+490
+00:07:57,990 --> 00:07:58,000
+duration last are
+ 
+
+491
+00:07:58,000 --> 00:08:00,309
+duration last are
+injury poisons these are applied to
+
+492
+00:08:00,309 --> 00:08:00,319
+injury poisons these are applied to
+ 
+
+493
+00:08:00,319 --> 00:08:01,990
+injury poisons these are applied to
+weapons or ammunition that deal
+
+494
+00:08:01,990 --> 00:08:02,000
+weapons or ammunition that deal
+ 
+
+495
+00:08:02,000 --> 00:08:04,230
+weapons or ammunition that deal
+piercing or slashing damage and then
+
+496
+00:08:04,230 --> 00:08:04,240
+piercing or slashing damage and then
+ 
+
+497
+00:08:04,240 --> 00:08:06,390
+piercing or slashing damage and then
+function on the first strike made with
+
+498
+00:08:06,390 --> 00:08:06,400
+function on the first strike made with
+ 
+
+499
+00:08:06,400 --> 00:08:07,589
+function on the first strike made with
+said weapon
+
+500
+00:08:07,589 --> 00:08:07,599
+said weapon
+ 
+
+501
+00:08:07,599 --> 00:08:09,990
+said weapon
+if that attack hits then the target will
+
+502
+00:08:09,990 --> 00:08:10,000
+if that attack hits then the target will
+ 
+
+503
+00:08:10,000 --> 00:08:11,510
+if that attack hits then the target will
+need to make a saving throw
+
+504
+00:08:11,510 --> 00:08:11,520
+need to make a saving throw
+ 
+
+505
+00:08:11,520 --> 00:08:14,710
+need to make a saving throw
+if it hit but did not deal any damage
+
+506
+00:08:14,710 --> 00:08:14,720
+if it hit but did not deal any damage
+ 
+
+507
+00:08:14,720 --> 00:08:17,189
+if it hit but did not deal any damage
+for example due to resistances then the
+
+508
+00:08:17,189 --> 00:08:17,199
+for example due to resistances then the
+ 
+
+509
+00:08:17,199 --> 00:08:17,909
+for example due to resistances then the
+poison
+
+510
+00:08:17,909 --> 00:08:17,919
+poison
+ 
+
+511
+00:08:17,919 --> 00:08:21,110
+poison
+does not take effect except in the case
+
+512
+00:08:21,110 --> 00:08:21,120
+does not take effect except in the case
+ 
+
+513
+00:08:21,120 --> 00:08:22,950
+does not take effect except in the case
+of ammunition like arrows
+
+514
+00:08:22,950 --> 00:08:22,960
+of ammunition like arrows
+ 
+
+515
+00:08:22,960 --> 00:08:25,110
+of ammunition like arrows
+if the attack misses then the poison
+
+516
+00:08:25,110 --> 00:08:25,120
+if the attack misses then the poison
+ 
+
+517
+00:08:25,120 --> 00:08:26,950
+if the attack misses then the poison
+remains active on the weapon
+
+518
+00:08:26,950 --> 00:08:26,960
+remains active on the weapon
+ 
+
+519
+00:08:26,960 --> 00:08:29,510
+remains active on the weapon
+and you can try again and on a critical
+
+520
+00:08:29,510 --> 00:08:29,520
+and you can try again and on a critical
+ 
+
+521
+00:08:29,520 --> 00:08:30,150
+and you can try again and on a critical
+failure
+
+522
+00:08:30,150 --> 00:08:30,160
+failure
+ 
+
+523
+00:08:30,160 --> 00:08:32,149
+failure
+the poison does not affect the target
+
+524
+00:08:32,149 --> 00:08:32,159
+the poison does not affect the target
+ 
+
+525
+00:08:32,159 --> 00:08:33,269
+the poison does not affect the target
+and is lost
+
+526
+00:08:33,269 --> 00:08:33,279
+and is lost
+ 
+
+527
+00:08:33,279 --> 00:08:35,350
+and is lost
+so basically once you apply an injury
+
+528
+00:08:35,350 --> 00:08:35,360
+so basically once you apply an injury
+ 
+
+529
+00:08:35,360 --> 00:08:37,430
+so basically once you apply an injury
+poison to a piercing or slashing weapon
+
+530
+00:08:37,430 --> 00:08:37,440
+poison to a piercing or slashing weapon
+ 
+
+531
+00:08:37,440 --> 00:08:39,589
+poison to a piercing or slashing weapon
+the poison remains active on it until
+
+532
+00:08:39,589 --> 00:08:39,599
+the poison remains active on it until
+ 
+
+533
+00:08:39,599 --> 00:08:41,750
+the poison remains active on it until
+you roll anything other than a failure
+
+534
+00:08:41,750 --> 00:08:41,760
+you roll anything other than a failure
+ 
+
+535
+00:08:41,760 --> 00:08:41,990
+you roll anything other than a failure
+on
+
+536
+00:08:41,990 --> 00:08:42,000
+on
+ 
+
+537
+00:08:42,000 --> 00:08:44,470
+on
+an attack each poison description will
+
+538
+00:08:44,470 --> 00:08:44,480
+an attack each poison description will
+ 
+
+539
+00:08:44,480 --> 00:08:45,269
+an attack each poison description will
+also detail
+
+540
+00:08:45,269 --> 00:08:45,279
+also detail
+ 
+
+541
+00:08:45,279 --> 00:08:46,949
+also detail
+how many free hands and actions are
+
+542
+00:08:46,949 --> 00:08:46,959
+how many free hands and actions are
+ 
+
+543
+00:08:46,959 --> 00:08:48,790
+how many free hands and actions are
+required to use the poison
+
+544
+00:08:48,790 --> 00:08:48,800
+required to use the poison
+ 
+
+545
+00:08:48,800 --> 00:08:51,030
+required to use the poison
+for example belladonna is an ingested
+
+546
+00:08:51,030 --> 00:08:51,040
+for example belladonna is an ingested
+ 
+
+547
+00:08:51,040 --> 00:08:52,550
+for example belladonna is an ingested
+poison that requires
+
+548
+00:08:52,550 --> 00:08:52,560
+poison that requires
+ 
+
+549
+00:08:52,560 --> 00:08:54,710
+poison that requires
+one hand and one action to place in
+
+550
+00:08:54,710 --> 00:08:54,720
+one hand and one action to place in
+ 
+
+551
+00:08:54,720 --> 00:08:56,310
+one hand and one action to place in
+someone's food or drink
+
+552
+00:08:56,310 --> 00:08:56,320
+someone's food or drink
+ 
+
+553
+00:08:56,320 --> 00:08:58,949
+someone's food or drink
+but black adder venom is an injury
+
+554
+00:08:58,949 --> 00:08:58,959
+but black adder venom is an injury
+ 
+
+555
+00:08:58,959 --> 00:08:59,590
+but black adder venom is an injury
+poison
+
+556
+00:08:59,590 --> 00:08:59,600
+poison
+ 
+
+557
+00:08:59,600 --> 00:09:01,910
+poison
+that requires two actions and two hands
+
+558
+00:09:01,910 --> 00:09:01,920
+that requires two actions and two hands
+ 
+
+559
+00:09:01,920 --> 00:09:04,790
+that requires two actions and two hands
+to apply the poison to a weapon
+
+560
+00:09:04,790 --> 00:09:04,800
+to apply the poison to a weapon
+ 
+
+561
+00:09:04,800 --> 00:09:06,790
+to apply the poison to a weapon
+those are the basics of alchemical
+
+562
+00:09:06,790 --> 00:09:06,800
+those are the basics of alchemical
+ 
+
+563
+00:09:06,800 --> 00:09:09,269
+those are the basics of alchemical
+poisons again for a full explanation of
+
+564
+00:09:09,269 --> 00:09:09,279
+poisons again for a full explanation of
+ 
+
+565
+00:09:09,279 --> 00:09:10,150
+poisons again for a full explanation of
+how they work
+
+566
+00:09:10,150 --> 00:09:10,160
+how they work
+ 
+
+567
+00:09:10,160 --> 00:09:12,150
+how they work
+including what each stage means and how
+
+568
+00:09:12,150 --> 00:09:12,160
+including what each stage means and how
+ 
+
+569
+00:09:12,160 --> 00:09:14,230
+including what each stage means and how
+they function check out my video on
+
+570
+00:09:14,230 --> 00:09:14,240
+they function check out my video on
+ 
+
+571
+00:09:14,240 --> 00:09:15,670
+they function check out my video on
+afflictions that's linked in the
+
+572
+00:09:15,670 --> 00:09:15,680
+afflictions that's linked in the
+ 
+
+573
+00:09:15,680 --> 00:09:18,230
+afflictions that's linked in the
+description
+
+574
+00:09:18,230 --> 00:09:18,240
+description
+ 
+
+575
+00:09:18,240 --> 00:09:20,230
+description
+and the last type of alchemical item to
+
+576
+00:09:20,230 --> 00:09:20,240
+and the last type of alchemical item to
+ 
+
+577
+00:09:20,240 --> 00:09:21,990
+and the last type of alchemical item to
+cover is the elixir
+
+578
+00:09:21,990 --> 00:09:22,000
+cover is the elixir
+ 
+
+579
+00:09:22,000 --> 00:09:24,230
+cover is the elixir
+elixirs are essentially magic potions
+
+580
+00:09:24,230 --> 00:09:24,240
+elixirs are essentially magic potions
+ 
+
+581
+00:09:24,240 --> 00:09:25,430
+elixirs are essentially magic potions
+except again they're not
+
+582
+00:09:25,430 --> 00:09:25,440
+except again they're not
+ 
+
+583
+00:09:25,440 --> 00:09:27,350
+except again they're not
+actually magical they're one use
+
+584
+00:09:27,350 --> 00:09:27,360
+actually magical they're one use
+ 
+
+585
+00:09:27,360 --> 00:09:29,509
+actually magical they're one use
+consumable items that you drink and they
+
+586
+00:09:29,509 --> 00:09:29,519
+consumable items that you drink and they
+ 
+
+587
+00:09:29,519 --> 00:09:30,949
+consumable items that you drink and they
+apply their effect
+
+588
+00:09:30,949 --> 00:09:30,959
+apply their effect
+ 
+
+589
+00:09:30,959 --> 00:09:32,630
+apply their effect
+that's pretty straightforward but there
+
+590
+00:09:32,630 --> 00:09:32,640
+that's pretty straightforward but there
+ 
+
+591
+00:09:32,640 --> 00:09:34,870
+that's pretty straightforward but there
+is one special type of elixir worth
+
+592
+00:09:34,870 --> 00:09:34,880
+is one special type of elixir worth
+ 
+
+593
+00:09:34,880 --> 00:09:37,030
+is one special type of elixir worth
+discussing mutagens
+
+594
+00:09:37,030 --> 00:09:37,040
+discussing mutagens
+ 
+
+595
+00:09:37,040 --> 00:09:39,110
+discussing mutagens
+if regular alchemy is considered to be
+
+596
+00:09:39,110 --> 00:09:39,120
+if regular alchemy is considered to be
+ 
+
+597
+00:09:39,120 --> 00:09:40,710
+if regular alchemy is considered to be
+the science of pathfinder
+
+598
+00:09:40,710 --> 00:09:40,720
+the science of pathfinder
+ 
+
+599
+00:09:40,720 --> 00:09:42,630
+the science of pathfinder
+then mutagens are the realm of mad
+
+600
+00:09:42,630 --> 00:09:42,640
+then mutagens are the realm of mad
+ 
+
+601
+00:09:42,640 --> 00:09:43,829
+then mutagens are the realm of mad
+scientists like dr
+
+602
+00:09:43,829 --> 00:09:43,839
+scientists like dr
+ 
+
+603
+00:09:43,839 --> 00:09:46,150
+scientists like dr
+jekyll and mr hyde mutagens are
+
+604
+00:09:46,150 --> 00:09:46,160
+jekyll and mr hyde mutagens are
+ 
+
+605
+00:09:46,160 --> 00:09:47,990
+jekyll and mr hyde mutagens are
+alchemical elixirs so they are
+
+606
+00:09:47,990 --> 00:09:48,000
+alchemical elixirs so they are
+ 
+
+607
+00:09:48,000 --> 00:09:49,990
+alchemical elixirs so they are
+consumable items you have to drink in
+
+608
+00:09:49,990 --> 00:09:50,000
+consumable items you have to drink in
+ 
+
+609
+00:09:50,000 --> 00:09:51,590
+consumable items you have to drink in
+order to gain their effects
+
+610
+00:09:51,590 --> 00:09:51,600
+order to gain their effects
+ 
+
+611
+00:09:51,600 --> 00:09:54,389
+order to gain their effects
+but they differ from regular elixirs in
+
+612
+00:09:54,389 --> 00:09:54,399
+but they differ from regular elixirs in
+ 
+
+613
+00:09:54,399 --> 00:09:54,949
+but they differ from regular elixirs in
+that they
+
+614
+00:09:54,949 --> 00:09:54,959
+that they
+ 
+
+615
+00:09:54,959 --> 00:09:57,350
+that they
+always have both a beneficial effect and
+
+616
+00:09:57,350 --> 00:09:57,360
+always have both a beneficial effect and
+ 
+
+617
+00:09:57,360 --> 00:09:58,550
+always have both a beneficial effect and
+a drawback
+
+618
+00:09:58,550 --> 00:09:58,560
+a drawback
+ 
+
+619
+00:09:58,560 --> 00:10:00,470
+a drawback
+for example the juggernaut mutagen
+
+620
+00:10:00,470 --> 00:10:00,480
+for example the juggernaut mutagen
+ 
+
+621
+00:10:00,480 --> 00:10:02,389
+for example the juggernaut mutagen
+grants a bonus to fortitude saves and
+
+622
+00:10:02,389 --> 00:10:02,399
+grants a bonus to fortitude saves and
+ 
+
+623
+00:10:02,399 --> 00:10:04,389
+grants a bonus to fortitude saves and
+temporary hit points but
+
+624
+00:10:04,389 --> 00:10:04,399
+temporary hit points but
+ 
+
+625
+00:10:04,399 --> 00:10:06,790
+temporary hit points but
+also applies a penalty to will saves
+
+626
+00:10:06,790 --> 00:10:06,800
+also applies a penalty to will saves
+ 
+
+627
+00:10:06,800 --> 00:10:09,269
+also applies a penalty to will saves
+perception checks and initiative roles
+
+628
+00:10:09,269 --> 00:10:09,279
+perception checks and initiative roles
+ 
+
+629
+00:10:09,279 --> 00:10:12,550
+perception checks and initiative roles
+and all mutagens are polymorph effects
+
+630
+00:10:12,550 --> 00:10:12,560
+and all mutagens are polymorph effects
+ 
+
+631
+00:10:12,560 --> 00:10:14,949
+and all mutagens are polymorph effects
+the rules for polymorph state that no
+
+632
+00:10:14,949 --> 00:10:14,959
+the rules for polymorph state that no
+ 
+
+633
+00:10:14,959 --> 00:10:16,870
+the rules for polymorph state that no
+creature may be under the effects of
+
+634
+00:10:16,870 --> 00:10:16,880
+creature may be under the effects of
+ 
+
+635
+00:10:16,880 --> 00:10:18,630
+creature may be under the effects of
+more than one polymorph effect at the
+
+636
+00:10:18,630 --> 00:10:18,640
+more than one polymorph effect at the
+ 
+
+637
+00:10:18,640 --> 00:10:19,590
+more than one polymorph effect at the
+same time
+
+638
+00:10:19,590 --> 00:10:19,600
+same time
+ 
+
+639
+00:10:19,600 --> 00:10:21,670
+same time
+if they're subject to a polymorph effect
+
+640
+00:10:21,670 --> 00:10:21,680
+if they're subject to a polymorph effect
+ 
+
+641
+00:10:21,680 --> 00:10:24,069
+if they're subject to a polymorph effect
+and then targeted by a new polymorph
+
+642
+00:10:24,069 --> 00:10:24,079
+and then targeted by a new polymorph
+ 
+
+643
+00:10:24,079 --> 00:10:24,870
+and then targeted by a new polymorph
+effect
+
+644
+00:10:24,870 --> 00:10:24,880
+effect
+ 
+
+645
+00:10:24,880 --> 00:10:26,949
+effect
+the new polymorph effect attempts to
+
+646
+00:10:26,949 --> 00:10:26,959
+the new polymorph effect attempts to
+ 
+
+647
+00:10:26,959 --> 00:10:28,710
+the new polymorph effect attempts to
+counteract the first
+
+648
+00:10:28,710 --> 00:10:28,720
+counteract the first
+ 
+
+649
+00:10:28,720 --> 00:10:31,110
+counteract the first
+if it succeeds then the first polymorph
+
+650
+00:10:31,110 --> 00:10:31,120
+if it succeeds then the first polymorph
+ 
+
+651
+00:10:31,120 --> 00:10:31,990
+if it succeeds then the first polymorph
+effect ends
+
+652
+00:10:31,990 --> 00:10:32,000
+effect ends
+ 
+
+653
+00:10:32,000 --> 00:10:34,310
+effect ends
+and the new one begins what this
+
+654
+00:10:34,310 --> 00:10:34,320
+and the new one begins what this
+ 
+
+655
+00:10:34,320 --> 00:10:35,350
+and the new one begins what this
+basically means
+
+656
+00:10:35,350 --> 00:10:35,360
+basically means
+ 
+
+657
+00:10:35,360 --> 00:10:37,910
+basically means
+is you can't drink two mutagens and gain
+
+658
+00:10:37,910 --> 00:10:37,920
+is you can't drink two mutagens and gain
+ 
+
+659
+00:10:37,920 --> 00:10:39,509
+is you can't drink two mutagens and gain
+the effects of both
+
+660
+00:10:39,509 --> 00:10:39,519
+the effects of both
+ 
+
+661
+00:10:39,519 --> 00:10:41,990
+the effects of both
+and furthermore you can't choose to end
+
+662
+00:10:41,990 --> 00:10:42,000
+and furthermore you can't choose to end
+ 
+
+663
+00:10:42,000 --> 00:10:43,509
+and furthermore you can't choose to end
+the effects of the first one
+
+664
+00:10:43,509 --> 00:10:43,519
+the effects of the first one
+ 
+
+665
+00:10:43,519 --> 00:10:46,710
+the effects of the first one
+in favor of the second one instead the
+
+666
+00:10:46,710 --> 00:10:46,720
+in favor of the second one instead the
+ 
+
+667
+00:10:46,720 --> 00:10:47,350
+in favor of the second one instead the
+second
+
+668
+00:10:47,350 --> 00:10:47,360
+second
+ 
+
+669
+00:10:47,360 --> 00:10:49,590
+second
+would need to make a counteract check
+
+670
+00:10:49,590 --> 00:10:49,600
+would need to make a counteract check
+ 
+
+671
+00:10:49,600 --> 00:10:51,190
+would need to make a counteract check
+against the first one
+
+672
+00:10:51,190 --> 00:10:51,200
+against the first one
+ 
+
+673
+00:10:51,200 --> 00:10:52,710
+against the first one
+essentially the two mutagens are
+
+674
+00:10:52,710 --> 00:10:52,720
+essentially the two mutagens are
+ 
+
+675
+00:10:52,720 --> 00:10:54,389
+essentially the two mutagens are
+fighting it out in your system to see
+
+676
+00:10:54,389 --> 00:10:54,399
+fighting it out in your system to see
+ 
+
+677
+00:10:54,399 --> 00:10:55,829
+fighting it out in your system to see
+which one is going to win
+
+678
+00:10:55,829 --> 00:10:55,839
+which one is going to win
+ 
+
+679
+00:10:55,839 --> 00:10:57,990
+which one is going to win
+and be effective when making these
+
+680
+00:10:57,990 --> 00:10:58,000
+and be effective when making these
+ 
+
+681
+00:10:58,000 --> 00:10:59,190
+and be effective when making these
+counteract checks
+
+682
+00:10:59,190 --> 00:10:59,200
+counteract checks
+ 
+
+683
+00:10:59,200 --> 00:11:01,350
+counteract checks
+each mutagen has a counteract level
+
+684
+00:11:01,350 --> 00:11:01,360
+each mutagen has a counteract level
+ 
+
+685
+00:11:01,360 --> 00:11:03,269
+each mutagen has a counteract level
+equal to half their item level rounded
+
+686
+00:11:03,269 --> 00:11:03,279
+equal to half their item level rounded
+ 
+
+687
+00:11:03,279 --> 00:11:03,829
+equal to half their item level rounded
+up
+
+688
+00:11:03,829 --> 00:11:03,839
+up
+ 
+
+689
+00:11:03,839 --> 00:11:06,870
+up
+a counteract dc equal to a standard dc
+
+690
+00:11:06,870 --> 00:11:06,880
+a counteract dc equal to a standard dc
+ 
+
+691
+00:11:06,880 --> 00:11:08,069
+a counteract dc equal to a standard dc
+for its item level
+
+692
+00:11:08,069 --> 00:11:08,079
+for its item level
+ 
+
+693
+00:11:08,079 --> 00:11:10,389
+for its item level
+and a counteract modifier equal to a
+
+694
+00:11:10,389 --> 00:11:10,399
+and a counteract modifier equal to a
+ 
+
+695
+00:11:10,399 --> 00:11:13,590
+and a counteract modifier equal to a
+standard dc for its item level -10
+
+696
+00:11:13,590 --> 00:11:13,600
+standard dc for its item level -10
+ 
+
+697
+00:11:13,600 --> 00:11:16,150
+standard dc for its item level -10
+now this may sound complicated and
+
+698
+00:11:16,150 --> 00:11:16,160
+now this may sound complicated and
+ 
+
+699
+00:11:16,160 --> 00:11:17,110
+now this may sound complicated and
+honestly it
+
+700
+00:11:17,110 --> 00:11:17,120
+honestly it
+ 
+
+701
+00:11:17,120 --> 00:11:20,630
+honestly it
+is but this situation only occurs
+
+702
+00:11:20,630 --> 00:11:20,640
+is but this situation only occurs
+ 
+
+703
+00:11:20,640 --> 00:11:23,110
+is but this situation only occurs
+when you try drinking a second mutagen
+
+704
+00:11:23,110 --> 00:11:23,120
+when you try drinking a second mutagen
+ 
+
+705
+00:11:23,120 --> 00:11:25,430
+when you try drinking a second mutagen
+before the first one wears off
+
+706
+00:11:25,430 --> 00:11:25,440
+before the first one wears off
+ 
+
+707
+00:11:25,440 --> 00:11:27,350
+before the first one wears off
+as long as you don't do that then you
+
+708
+00:11:27,350 --> 00:11:27,360
+as long as you don't do that then you
+ 
+
+709
+00:11:27,360 --> 00:11:29,590
+as long as you don't do that then you
+don't need to worry about counteracting
+
+710
+00:11:29,590 --> 00:11:29,600
+don't need to worry about counteracting
+ 
+
+711
+00:11:29,600 --> 00:11:30,630
+don't need to worry about counteracting
+anything
+
+712
+00:11:30,630 --> 00:11:30,640
+anything
+ 
+
+713
+00:11:30,640 --> 00:11:32,870
+anything
+the entire process and rules for how
+
+714
+00:11:32,870 --> 00:11:32,880
+the entire process and rules for how
+ 
+
+715
+00:11:32,880 --> 00:11:34,310
+the entire process and rules for how
+this counteracting works
+
+716
+00:11:34,310 --> 00:11:34,320
+this counteracting works
+ 
+
+717
+00:11:34,320 --> 00:11:36,949
+this counteracting works
+is beyond the scope of this video but if
+
+718
+00:11:36,949 --> 00:11:36,959
+is beyond the scope of this video but if
+ 
+
+719
+00:11:36,959 --> 00:11:39,110
+is beyond the scope of this video but if
+you do want more details about how
+
+720
+00:11:39,110 --> 00:11:39,120
+you do want more details about how
+ 
+
+721
+00:11:39,120 --> 00:11:41,430
+you do want more details about how
+counteracting works i'll leave links to
+
+722
+00:11:41,430 --> 00:11:41,440
+counteracting works i'll leave links to
+ 
+
+723
+00:11:41,440 --> 00:11:43,269
+counteracting works i'll leave links to
+my full video on counteracting
+
+724
+00:11:43,269 --> 00:11:43,279
+my full video on counteracting
+ 
+
+725
+00:11:43,279 --> 00:11:45,509
+my full video on counteracting
+and my video on polymorph spells in the
+
+726
+00:11:45,509 --> 00:11:45,519
+and my video on polymorph spells in the
+ 
+
+727
+00:11:45,519 --> 00:11:48,230
+and my video on polymorph spells in the
+description
+
+728
+00:11:48,230 --> 00:11:48,240
+
+ 
+
+729
+00:11:48,240 --> 00:11:49,750
+
+before we close i'd like to take a
+
+730
+00:11:49,750 --> 00:11:49,760
+before we close i'd like to take a
+ 
+
+731
+00:11:49,760 --> 00:11:51,750
+before we close i'd like to take a
+moment to thank all of my patrons
+
+732
+00:11:51,750 --> 00:11:51,760
+moment to thank all of my patrons
+ 
+
+733
+00:11:51,760 --> 00:11:53,269
+moment to thank all of my patrons
+these videos would not be possible
+
+734
+00:11:53,269 --> 00:11:53,279
+these videos would not be possible
+ 
+
+735
+00:11:53,279 --> 00:11:55,190
+these videos would not be possible
+without their continued generosity and
+
+736
+00:11:55,190 --> 00:11:55,200
+without their continued generosity and
+ 
+
+737
+00:11:55,200 --> 00:11:56,389
+without their continued generosity and
+support
+
+738
+00:11:56,389 --> 00:11:56,399
+support
+ 
+
+739
+00:11:56,399 --> 00:11:57,910
+support
+members of the how is played patreon
+
+740
+00:11:57,910 --> 00:11:57,920
+members of the how is played patreon
+ 
+
+741
+00:11:57,920 --> 00:11:59,750
+members of the how is played patreon
+community receive special benefits
+
+742
+00:11:59,750 --> 00:11:59,760
+community receive special benefits
+ 
+
+743
+00:11:59,760 --> 00:12:01,829
+community receive special benefits
+like exclusive content and getting to
+
+744
+00:12:01,829 --> 00:12:01,839
+like exclusive content and getting to
+ 
+
+745
+00:12:01,839 --> 00:12:03,509
+like exclusive content and getting to
+vote on the topics i cover
+
+746
+00:12:03,509 --> 00:12:03,519
+vote on the topics i cover
+ 
+
+747
+00:12:03,519 --> 00:12:05,190
+vote on the topics i cover
+visit the link shown at the top of the
+
+748
+00:12:05,190 --> 00:12:05,200
+visit the link shown at the top of the
+ 
+
+749
+00:12:05,200 --> 00:12:06,949
+visit the link shown at the top of the
+screen and in the description if you'd
+
+750
+00:12:06,949 --> 00:12:06,959
+screen and in the description if you'd
+ 
+
+751
+00:12:06,959 --> 00:12:08,230
+screen and in the description if you'd
+like to know more
+
+752
+00:12:08,230 --> 00:12:08,240
+like to know more
+ 
+
+753
+00:12:08,240 --> 00:12:09,430
+like to know more
+if you would like to support this
+
+754
+00:12:09,430 --> 00:12:09,440
+if you would like to support this
+ 
+
+755
+00:12:09,440 --> 00:12:11,509
+if you would like to support this
+channel and help it grow the easiest way
+
+756
+00:12:11,509 --> 00:12:11,519
+channel and help it grow the easiest way
+ 
+
+757
+00:12:11,519 --> 00:12:12,230
+channel and help it grow the easiest way
+to do that
+
+758
+00:12:12,230 --> 00:12:12,240
+to do that
+ 
+
+759
+00:12:12,240 --> 00:12:14,150
+to do that
+is by subscribing and clicking the bell
+
+760
+00:12:14,150 --> 00:12:14,160
+is by subscribing and clicking the bell
+ 
+
+761
+00:12:14,160 --> 00:12:16,389
+is by subscribing and clicking the bell
+icon so you get notified when new videos
+
+762
+00:12:16,389 --> 00:12:16,399
+icon so you get notified when new videos
+ 
+
+763
+00:12:16,399 --> 00:12:17,110
+icon so you get notified when new videos
+release
+
+764
+00:12:17,110 --> 00:12:17,120
+release
+ 
+
+765
+00:12:17,120 --> 00:12:18,629
+release
+and i can always be reached through
+
+766
+00:12:18,629 --> 00:12:18,639
+and i can always be reached through
+ 
+
+767
+00:12:18,639 --> 00:12:20,389
+and i can always be reached through
+twitter and facebook too
+
+768
+00:12:20,389 --> 00:12:20,399
+twitter and facebook too
+ 
+
+769
+00:12:20,399 --> 00:12:22,829
+twitter and facebook too
+thanks for watching take care and happy
+
+770
+00:12:22,829 --> 00:12:22,839
+thanks for watching take care and happy
+ 
+
+771
+00:12:22,839 --> 00:12:25,839
+thanks for watching take care and happy
+gaming
+

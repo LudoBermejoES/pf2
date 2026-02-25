@@ -1,0 +1,1855 @@
+1
+00:00:00,620 --> 00:00:03,039
+
+hello and welcome to basics for gamers
+
+2
+00:00:03,039 --> 00:00:03,049
+hello and welcome to basics for gamers
+ 
+
+3
+00:00:03,049 --> 00:00:05,920
+hello and welcome to basics for gamers
+presents just the basics of afflictions
+
+4
+00:00:05,920 --> 00:00:05,930
+presents just the basics of afflictions
+ 
+
+5
+00:00:05,930 --> 00:00:08,890
+presents just the basics of afflictions
+in Pathfinder second edition just the
+
+6
+00:00:08,890 --> 00:00:08,900
+in Pathfinder second edition just the
+ 
+
+7
+00:00:08,900 --> 00:00:10,870
+in Pathfinder second edition just the
+basics is a special series that takes
+
+8
+00:00:10,870 --> 00:00:10,880
+basics is a special series that takes
+ 
+
+9
+00:00:10,880 --> 00:00:13,869
+basics is a special series that takes
+some of my longer courses and condenses
+
+10
+00:00:13,869 --> 00:00:13,879
+some of my longer courses and condenses
+ 
+
+11
+00:00:13,879 --> 00:00:16,750
+some of my longer courses and condenses
+all of the need-to-know information into
+
+12
+00:00:16,750 --> 00:00:16,760
+all of the need-to-know information into
+ 
+
+13
+00:00:16,760 --> 00:00:19,390
+all of the need-to-know information into
+about 10 minutes if you would like to
+
+14
+00:00:19,390 --> 00:00:19,400
+about 10 minutes if you would like to
+ 
+
+15
+00:00:19,400 --> 00:00:21,580
+about 10 minutes if you would like to
+see the full presentation on afflictions
+
+16
+00:00:21,580 --> 00:00:21,590
+see the full presentation on afflictions
+ 
+
+17
+00:00:21,590 --> 00:00:24,430
+see the full presentation on afflictions
+with all of the extra detail and
+
+18
+00:00:24,430 --> 00:00:24,440
+with all of the extra detail and
+ 
+
+19
+00:00:24,440 --> 00:00:26,620
+with all of the extra detail and
+examples you can find it linked in the
+
+20
+00:00:26,620 --> 00:00:26,630
+examples you can find it linked in the
+ 
+
+21
+00:00:26,630 --> 00:00:28,700
+examples you can find it linked in the
+description
+
+22
+00:00:28,700 --> 00:00:28,710
+description
+ 
+
+23
+00:00:28,710 --> 00:00:31,159
+description
+an affliction is any condition that
+
+24
+00:00:31,159 --> 00:00:31,169
+an affliction is any condition that
+ 
+
+25
+00:00:31,169 --> 00:00:33,590
+an affliction is any condition that
+infects a character over a period of
+
+26
+00:00:33,590 --> 00:00:33,600
+infects a character over a period of
+ 
+
+27
+00:00:33,600 --> 00:00:36,740
+infects a character over a period of
+time and progresses through stages the
+
+28
+00:00:36,740 --> 00:00:36,750
+time and progresses through stages the
+ 
+
+29
+00:00:36,750 --> 00:00:39,220
+time and progresses through stages the
+most common examples of afflictions are
+
+30
+00:00:39,220 --> 00:00:39,230
+most common examples of afflictions are
+ 
+
+31
+00:00:39,230 --> 00:00:43,220
+most common examples of afflictions are
+curses diseases in poisons all
+
+32
+00:00:43,220 --> 00:00:43,230
+curses diseases in poisons all
+ 
+
+33
+00:00:43,230 --> 00:00:45,619
+curses diseases in poisons all
+afflictions start with a saving through
+
+34
+00:00:45,619 --> 00:00:45,629
+afflictions start with a saving through
+ 
+
+35
+00:00:45,629 --> 00:00:48,229
+afflictions start with a saving through
+which is usually fortitude but could
+
+36
+00:00:48,229 --> 00:00:48,239
+which is usually fortitude but could
+ 
+
+37
+00:00:48,239 --> 00:00:50,720
+which is usually fortitude but could
+also be will especially in the case of
+
+38
+00:00:50,720 --> 00:00:50,730
+also be will especially in the case of
+ 
+
+39
+00:00:50,730 --> 00:00:53,719
+also be will especially in the case of
+curses when you are first exposed to an
+
+40
+00:00:53,719 --> 00:00:53,729
+curses when you are first exposed to an
+ 
+
+41
+00:00:53,729 --> 00:00:55,939
+curses when you are first exposed to an
+affliction you attempt the listed save
+
+42
+00:00:55,939 --> 00:00:55,949
+affliction you attempt the listed save
+ 
+
+43
+00:00:55,949 --> 00:00:58,969
+affliction you attempt the listed save
+if you succeed then the affliction has
+
+44
+00:00:58,969 --> 00:00:58,979
+if you succeed then the affliction has
+ 
+
+45
+00:00:58,979 --> 00:01:02,299
+if you succeed then the affliction has
+no effect but if you fail the save you
+
+46
+00:01:02,299 --> 00:01:02,309
+no effect but if you fail the save you
+ 
+
+47
+00:01:02,309 --> 00:01:05,090
+no effect but if you fail the save you
+become infected or poisoned or cursed or
+
+48
+00:01:05,090 --> 00:01:05,100
+become infected or poisoned or cursed or
+ 
+
+49
+00:01:05,100 --> 00:01:08,029
+become infected or poisoned or cursed or
+suffer whatever other fun the affliction
+
+50
+00:01:08,029 --> 00:01:08,039
+suffer whatever other fun the affliction
+ 
+
+51
+00:01:08,039 --> 00:01:11,240
+suffer whatever other fun the affliction
+has in store for you some but not all
+
+52
+00:01:11,240 --> 00:01:11,250
+has in store for you some but not all
+ 
+
+53
+00:01:11,250 --> 00:01:14,690
+has in store for you some but not all
+afflictions have an onset period this is
+
+54
+00:01:14,690 --> 00:01:14,700
+afflictions have an onset period this is
+ 
+
+55
+00:01:14,700 --> 00:01:18,320
+afflictions have an onset period this is
+basically a delay if an infliction list
+
+56
+00:01:18,320 --> 00:01:18,330
+basically a delay if an infliction list
+ 
+
+57
+00:01:18,330 --> 00:01:21,380
+basically a delay if an infliction list
+an onset period of one hour then if you
+
+58
+00:01:21,380 --> 00:01:21,390
+an onset period of one hour then if you
+ 
+
+59
+00:01:21,390 --> 00:01:23,870
+an onset period of one hour then if you
+fail the initial saving through nothing
+
+60
+00:01:23,870 --> 00:01:23,880
+fail the initial saving through nothing
+ 
+
+61
+00:01:23,880 --> 00:01:27,380
+fail the initial saving through nothing
+else happens until an hour passes think
+
+62
+00:01:27,380 --> 00:01:27,390
+else happens until an hour passes think
+ 
+
+63
+00:01:27,390 --> 00:01:29,690
+else happens until an hour passes think
+of it as an incubation period like when
+
+64
+00:01:29,690 --> 00:01:29,700
+of it as an incubation period like when
+ 
+
+65
+00:01:29,700 --> 00:01:31,969
+of it as an incubation period like when
+you get the flu you don't start feeling
+
+66
+00:01:31,969 --> 00:01:31,979
+you get the flu you don't start feeling
+ 
+
+67
+00:01:31,979 --> 00:01:34,340
+you get the flu you don't start feeling
+the effects of catching the flu for
+
+68
+00:01:34,340 --> 00:01:34,350
+the effects of catching the flu for
+ 
+
+69
+00:01:34,350 --> 00:01:36,679
+the effects of catching the flu for
+about two days after you fail your
+
+70
+00:01:36,679 --> 00:01:36,689
+about two days after you fail your
+ 
+
+71
+00:01:36,689 --> 00:01:40,039
+about two days after you fail your
+real-world fortitude save so the flu has
+
+72
+00:01:40,039 --> 00:01:40,049
+real-world fortitude save so the flu has
+ 
+
+73
+00:01:40,049 --> 00:01:44,120
+real-world fortitude save so the flu has
+an onset period of about 48 hours and if
+
+74
+00:01:44,120 --> 00:01:44,130
+an onset period of about 48 hours and if
+ 
+
+75
+00:01:44,130 --> 00:01:46,760
+an onset period of about 48 hours and if
+there is no on set period listed then
+
+76
+00:01:46,760 --> 00:01:46,770
+there is no on set period listed then
+ 
+
+77
+00:01:46,770 --> 00:01:49,569
+there is no on set period listed then
+the affliction takes effect immediately
+
+78
+00:01:49,569 --> 00:01:49,579
+the affliction takes effect immediately
+ 
+
+79
+00:01:49,579 --> 00:01:53,179
+the affliction takes effect immediately
+next let's talk about stages afflictions
+
+80
+00:01:53,179 --> 00:01:53,189
+next let's talk about stages afflictions
+ 
+
+81
+00:01:53,189 --> 00:01:55,819
+next let's talk about stages afflictions
+are divided up into a number of distinct
+
+82
+00:01:55,819 --> 00:01:55,829
+are divided up into a number of distinct
+ 
+
+83
+00:01:55,829 --> 00:02:00,050
+are divided up into a number of distinct
+stages usually three each stage has an
+
+84
+00:02:00,050 --> 00:02:00,060
+stages usually three each stage has an
+ 
+
+85
+00:02:00,060 --> 00:02:02,749
+stages usually three each stage has an
+effect listed followed by an amount of
+
+86
+00:02:02,749 --> 00:02:02,759
+effect listed followed by an amount of
+ 
+
+87
+00:02:02,759 --> 00:02:06,050
+effect listed followed by an amount of
+time in parentheses so when you feel the
+
+88
+00:02:06,050 --> 00:02:06,060
+time in parentheses so when you feel the
+ 
+
+89
+00:02:06,060 --> 00:02:08,210
+time in parentheses so when you feel the
+initial saving through you then wait
+
+90
+00:02:08,210 --> 00:02:08,220
+initial saving through you then wait
+ 
+
+91
+00:02:08,220 --> 00:02:10,850
+initial saving through you then wait
+through the duration of the onset period
+
+92
+00:02:10,850 --> 00:02:10,860
+through the duration of the onset period
+ 
+
+93
+00:02:10,860 --> 00:02:14,300
+through the duration of the onset period
+and once that passes you gain stage 1 of
+
+94
+00:02:14,300 --> 00:02:14,310
+and once that passes you gain stage 1 of
+ 
+
+95
+00:02:14,310 --> 00:02:17,150
+and once that passes you gain stage 1 of
+the affliction you immediately suffer
+
+96
+00:02:17,150 --> 00:02:17,160
+the affliction you immediately suffer
+ 
+
+97
+00:02:17,160 --> 00:02:19,789
+the affliction you immediately suffer
+the effects of that stage and then treat
+
+98
+00:02:19,789 --> 00:02:19,799
+the effects of that stage and then treat
+ 
+
+99
+00:02:19,799 --> 00:02:21,970
+the effects of that stage and then treat
+the amount of time in parentheses as
+
+100
+00:02:21,970 --> 00:02:21,980
+the amount of time in parentheses as
+ 
+
+101
+00:02:21,980 --> 00:02:25,370
+the amount of time in parentheses as
+another onset period so if the
+
+102
+00:02:25,370 --> 00:02:25,380
+another onset period so if the
+ 
+
+103
+00:02:25,380 --> 00:02:28,580
+another onset period so if the
+affliction says stage 1 24 poison
+
+104
+00:02:28,580 --> 00:02:28,590
+affliction says stage 1 24 poison
+ 
+
+105
+00:02:28,590 --> 00:02:30,590
+affliction says stage 1 24 poison
+damaged and sickened one and in
+
+106
+00:02:30,590 --> 00:02:30,600
+damaged and sickened one and in
+ 
+
+107
+00:02:30,600 --> 00:02:32,569
+damaged and sickened one and in
+parentheses next to that is one minute
+
+108
+00:02:32,569 --> 00:02:32,579
+parentheses next to that is one minute
+ 
+
+109
+00:02:32,579 --> 00:02:35,930
+parentheses next to that is one minute
+then as soon as you gain stage 1 you
+
+110
+00:02:35,930 --> 00:02:35,940
+then as soon as you gain stage 1 you
+ 
+
+111
+00:02:35,940 --> 00:02:40,310
+then as soon as you gain stage 1 you
+suffer 1.d4 poison damage you gain the
+
+112
+00:02:40,310 --> 00:02:40,320
+suffer 1.d4 poison damage you gain the
+ 
+
+113
+00:02:40,320 --> 00:02:40,880
+suffer 1.d4 poison damage you gain the
+sickened
+
+114
+00:02:40,880 --> 00:02:40,890
+sickened
+ 
+
+115
+00:02:40,890 --> 00:02:43,100
+sickened
+one condition and then nothing else
+
+116
+00:02:43,100 --> 00:02:43,110
+one condition and then nothing else
+ 
+
+117
+00:02:43,110 --> 00:02:45,500
+one condition and then nothing else
+related to the affliction happens for
+
+118
+00:02:45,500 --> 00:02:45,510
+related to the affliction happens for
+ 
+
+119
+00:02:45,510 --> 00:02:49,130
+related to the affliction happens for
+another minute you do not suffer one day
+
+120
+00:02:49,130 --> 00:02:49,140
+another minute you do not suffer one day
+ 
+
+121
+00:02:49,140 --> 00:02:51,470
+another minute you do not suffer one day
+for poison damage every round for that
+
+122
+00:02:51,470 --> 00:02:51,480
+for poison damage every round for that
+ 
+
+123
+00:02:51,480 --> 00:02:54,110
+for poison damage every round for that
+one minute nor do you roll any saving
+
+124
+00:02:54,110 --> 00:02:54,120
+one minute nor do you roll any saving
+ 
+
+125
+00:02:54,120 --> 00:02:56,630
+one minute nor do you roll any saving
+throws during this time but once the
+
+126
+00:02:56,630 --> 00:02:56,640
+throws during this time but once the
+ 
+
+127
+00:02:56,640 --> 00:02:59,720
+throws during this time but once the
+time is up then you do need to roll a
+
+128
+00:02:59,720 --> 00:02:59,730
+time is up then you do need to roll a
+ 
+
+129
+00:02:59,730 --> 00:03:02,300
+time is up then you do need to roll a
+new saving through if you succeed then
+
+130
+00:03:02,300 --> 00:03:02,310
+new saving through if you succeed then
+ 
+
+131
+00:03:02,310 --> 00:03:04,610
+new saving through if you succeed then
+you lose the current stage and you gain
+
+132
+00:03:04,610 --> 00:03:04,620
+you lose the current stage and you gain
+ 
+
+133
+00:03:04,620 --> 00:03:08,240
+you lose the current stage and you gain
+one stage lower and if you ever gain
+
+134
+00:03:08,240 --> 00:03:08,250
+one stage lower and if you ever gain
+ 
+
+135
+00:03:08,250 --> 00:03:10,880
+one stage lower and if you ever gain
+stage zero then you're cured in the
+
+136
+00:03:10,880 --> 00:03:10,890
+stage zero then you're cured in the
+ 
+
+137
+00:03:10,890 --> 00:03:13,729
+stage zero then you're cured in the
+affliction has no further effects if you
+
+138
+00:03:13,729 --> 00:03:13,739
+affliction has no further effects if you
+ 
+
+139
+00:03:13,739 --> 00:03:16,460
+affliction has no further effects if you
+fail the save then you lose the current
+
+140
+00:03:16,460 --> 00:03:16,470
+fail the save then you lose the current
+ 
+
+141
+00:03:16,470 --> 00:03:20,420
+fail the save then you lose the current
+stage and gain one stage higher also the
+
+142
+00:03:20,420 --> 00:03:20,430
+stage and gain one stage higher also the
+ 
+
+143
+00:03:20,430 --> 00:03:23,360
+stage and gain one stage higher also the
+initial save and potentially the damage
+
+144
+00:03:23,360 --> 00:03:23,370
+initial save and potentially the damage
+ 
+
+145
+00:03:23,370 --> 00:03:26,090
+initial save and potentially the damage
+if there is no onset period both may
+
+146
+00:03:26,090 --> 00:03:26,100
+if there is no onset period both may
+ 
+
+147
+00:03:26,100 --> 00:03:28,220
+if there is no onset period both may
+occur on the enemy's turn when you're
+
+148
+00:03:28,220 --> 00:03:28,230
+occur on the enemy's turn when you're
+ 
+
+149
+00:03:28,230 --> 00:03:31,130
+occur on the enemy's turn when you're
+first exposed to the affliction but all
+
+150
+00:03:31,130 --> 00:03:31,140
+first exposed to the affliction but all
+ 
+
+151
+00:03:31,140 --> 00:03:34,009
+first exposed to the affliction but all
+other saves in damage from afflictions
+
+152
+00:03:34,009 --> 00:03:34,019
+other saves in damage from afflictions
+ 
+
+153
+00:03:34,019 --> 00:03:36,770
+other saves in damage from afflictions
+occur at the end of the suffering
+
+154
+00:03:36,770 --> 00:03:36,780
+occur at the end of the suffering
+ 
+
+155
+00:03:36,780 --> 00:03:39,800
+occur at the end of the suffering
+character's turns and is worth
+
+156
+00:03:39,800 --> 00:03:39,810
+character's turns and is worth
+ 
+
+157
+00:03:39,810 --> 00:03:41,690
+character's turns and is worth
+mentioning that critical successes in
+
+158
+00:03:41,690 --> 00:03:41,700
+mentioning that critical successes in
+ 
+
+159
+00:03:41,700 --> 00:03:44,900
+mentioning that critical successes in
+critical failures count double when you
+
+160
+00:03:44,900 --> 00:03:44,910
+critical failures count double when you
+ 
+
+161
+00:03:44,910 --> 00:03:47,270
+critical failures count double when you
+critically succeed a saving through you
+
+162
+00:03:47,270 --> 00:03:47,280
+critically succeed a saving through you
+ 
+
+163
+00:03:47,280 --> 00:03:49,759
+critically succeed a saving through you
+lose the current stage and gain the
+
+164
+00:03:49,759 --> 00:03:49,769
+lose the current stage and gain the
+ 
+
+165
+00:03:49,769 --> 00:03:52,130
+lose the current stage and gain the
+stage two lore and when you critically
+
+166
+00:03:52,130 --> 00:03:52,140
+stage two lore and when you critically
+ 
+
+167
+00:03:52,140 --> 00:03:54,199
+stage two lore and when you critically
+fail a savings through you lose the
+
+168
+00:03:54,199 --> 00:03:54,209
+fail a savings through you lose the
+ 
+
+169
+00:03:54,209 --> 00:03:56,420
+fail a savings through you lose the
+current stage and gain the stage that is
+
+170
+00:03:56,420 --> 00:03:56,430
+current stage and gain the stage that is
+ 
+
+171
+00:03:56,430 --> 00:03:59,060
+current stage and gain the stage that is
+to hire so if your stage one and
+
+172
+00:03:59,060 --> 00:03:59,070
+to hire so if your stage one and
+ 
+
+173
+00:03:59,070 --> 00:04:01,039
+to hire so if your stage one and
+critically fail your savings through you
+
+174
+00:04:01,039 --> 00:04:01,049
+critically fail your savings through you
+ 
+
+175
+00:04:01,049 --> 00:04:04,610
+critically fail your savings through you
+skip over stage two ignore all of its
+
+176
+00:04:04,610 --> 00:04:04,620
+skip over stage two ignore all of its
+ 
+
+177
+00:04:04,620 --> 00:04:08,150
+skip over stage two ignore all of its
+effects and gain stage three but note
+
+178
+00:04:08,150 --> 00:04:08,160
+effects and gain stage three but note
+ 
+
+179
+00:04:08,160 --> 00:04:10,280
+effects and gain stage three but note
+that you never go to a stage higher than
+
+180
+00:04:10,280 --> 00:04:10,290
+that you never go to a stage higher than
+ 
+
+181
+00:04:10,290 --> 00:04:12,949
+that you never go to a stage higher than
+the afflictions listed maximum if stage
+
+182
+00:04:12,949 --> 00:04:12,959
+the afflictions listed maximum if stage
+ 
+
+183
+00:04:12,959 --> 00:04:15,110
+the afflictions listed maximum if stage
+three is the highest the affliction
+
+184
+00:04:15,110 --> 00:04:15,120
+three is the highest the affliction
+ 
+
+185
+00:04:15,120 --> 00:04:17,360
+three is the highest the affliction
+lists then failing are critically
+
+186
+00:04:17,360 --> 00:04:17,370
+lists then failing are critically
+ 
+
+187
+00:04:17,370 --> 00:04:19,190
+lists then failing are critically
+failing a serious throw wall at stage
+
+188
+00:04:19,190 --> 00:04:19,200
+failing a serious throw wall at stage
+ 
+
+189
+00:04:19,200 --> 00:04:21,710
+failing a serious throw wall at stage
+three means you lose stage three then
+
+190
+00:04:21,710 --> 00:04:21,720
+three means you lose stage three then
+ 
+
+191
+00:04:21,720 --> 00:04:24,080
+three means you lose stage three then
+you gain stage three again you repeat
+
+192
+00:04:24,080 --> 00:04:24,090
+you gain stage three again you repeat
+ 
+
+193
+00:04:24,090 --> 00:04:26,320
+you gain stage three again you repeat
+its effects but don't create a
+
+194
+00:04:26,320 --> 00:04:26,330
+its effects but don't create a
+ 
+
+195
+00:04:26,330 --> 00:04:30,110
+its effects but don't create a
+theoretical stage for in the final key
+
+196
+00:04:30,110 --> 00:04:30,120
+theoretical stage for in the final key
+ 
+
+197
+00:04:30,120 --> 00:04:31,580
+theoretical stage for in the final key
+stat that we should talk about is
+
+198
+00:04:31,580 --> 00:04:31,590
+stat that we should talk about is
+ 
+
+199
+00:04:31,590 --> 00:04:34,909
+stat that we should talk about is
+maximum duration as you may suspect this
+
+200
+00:04:34,909 --> 00:04:34,919
+maximum duration as you may suspect this
+ 
+
+201
+00:04:34,919 --> 00:04:37,040
+maximum duration as you may suspect this
+is the longest period of time that you
+
+202
+00:04:37,040 --> 00:04:37,050
+is the longest period of time that you
+ 
+
+203
+00:04:37,050 --> 00:04:39,610
+is the longest period of time that you
+can be infected by an affliction an
+
+204
+00:04:39,610 --> 00:04:39,620
+can be infected by an affliction an
+ 
+
+205
+00:04:39,620 --> 00:04:41,930
+can be infected by an affliction an
+important note here is that the maximum
+
+206
+00:04:41,930 --> 00:04:41,940
+important note here is that the maximum
+ 
+
+207
+00:04:41,940 --> 00:04:44,900
+important note here is that the maximum
+duration does not include the time spent
+
+208
+00:04:44,900 --> 00:04:44,910
+duration does not include the time spent
+ 
+
+209
+00:04:44,910 --> 00:04:47,779
+duration does not include the time spent
+during the onset period it only covers
+
+210
+00:04:47,779 --> 00:04:47,789
+during the onset period it only covers
+ 
+
+211
+00:04:47,789 --> 00:04:49,450
+during the onset period it only covers
+the amount of time you're actually
+
+212
+00:04:49,450 --> 00:04:49,460
+the amount of time you're actually
+ 
+
+213
+00:04:49,460 --> 00:04:52,400
+the amount of time you're actually
+suffering from the affliction if an
+
+214
+00:04:52,400 --> 00:04:52,410
+suffering from the affliction if an
+ 
+
+215
+00:04:52,410 --> 00:04:54,780
+suffering from the affliction if an
+affliction has an onset period of 30
+
+216
+00:04:54,780 --> 00:04:54,790
+affliction has an onset period of 30
+ 
+
+217
+00:04:54,790 --> 00:04:58,500
+affliction has an onset period of 30
+and a maximum duration of two hours then
+
+218
+00:04:58,500 --> 00:04:58,510
+and a maximum duration of two hours then
+ 
+
+219
+00:04:58,510 --> 00:05:01,200
+and a maximum duration of two hours then
+two and a half hours after you fail your
+
+220
+00:05:01,200 --> 00:05:01,210
+two and a half hours after you fail your
+ 
+
+221
+00:05:01,210 --> 00:05:03,360
+two and a half hours after you fail your
+initial savings through the affliction
+
+222
+00:05:03,360 --> 00:05:03,370
+initial savings through the affliction
+ 
+
+223
+00:05:03,370 --> 00:05:06,150
+initial savings through the affliction
+wears off
+
+224
+00:05:06,150 --> 00:05:06,160
+
+ 
+
+225
+00:05:06,160 --> 00:05:07,740
+
+there are a few other special
+
+226
+00:05:07,740 --> 00:05:07,750
+there are a few other special
+ 
+
+227
+00:05:07,750 --> 00:05:09,870
+there are a few other special
+circumstances that we should discuss too
+
+228
+00:05:09,870 --> 00:05:09,880
+circumstances that we should discuss too
+ 
+
+229
+00:05:09,880 --> 00:05:12,000
+circumstances that we should discuss too
+for instance what happens when you're
+
+230
+00:05:12,000 --> 00:05:12,010
+for instance what happens when you're
+ 
+
+231
+00:05:12,010 --> 00:05:13,680
+for instance what happens when you're
+exposed to an affliction while you're
+
+232
+00:05:13,680 --> 00:05:13,690
+exposed to an affliction while you're
+ 
+
+233
+00:05:13,690 --> 00:05:15,600
+exposed to an affliction while you're
+already suffering from that same
+
+234
+00:05:15,600 --> 00:05:15,610
+already suffering from that same
+ 
+
+235
+00:05:15,610 --> 00:05:18,630
+already suffering from that same
+affliction this is one of the rare times
+
+236
+00:05:18,630 --> 00:05:18,640
+affliction this is one of the rare times
+ 
+
+237
+00:05:18,640 --> 00:05:20,550
+affliction this is one of the rare times
+where it's important to know what kind
+
+238
+00:05:20,550 --> 00:05:20,560
+where it's important to know what kind
+ 
+
+239
+00:05:20,560 --> 00:05:22,050
+where it's important to know what kind
+of affliction you're dealing with if
+
+240
+00:05:22,050 --> 00:05:22,060
+of affliction you're dealing with if
+ 
+
+241
+00:05:22,060 --> 00:05:25,590
+of affliction you're dealing with if
+it's a curse or a disease then multiple
+
+242
+00:05:25,590 --> 00:05:25,600
+it's a curse or a disease then multiple
+ 
+
+243
+00:05:25,600 --> 00:05:28,890
+it's a curse or a disease then multiple
+exposures have no effect but if it's a
+
+244
+00:05:28,890 --> 00:05:28,900
+exposures have no effect but if it's a
+ 
+
+245
+00:05:28,900 --> 00:05:32,070
+exposures have no effect but if it's a
+poison then multiple exposures require a
+
+246
+00:05:32,070 --> 00:05:32,080
+poison then multiple exposures require a
+ 
+
+247
+00:05:32,080 --> 00:05:34,560
+poison then multiple exposures require a
+new savings throw for each exposure and
+
+248
+00:05:34,560 --> 00:05:34,570
+new savings throw for each exposure and
+ 
+
+249
+00:05:34,570 --> 00:05:37,440
+new savings throw for each exposure and
+if you fail you'll lose the current
+
+250
+00:05:37,440 --> 00:05:37,450
+if you fail you'll lose the current
+ 
+
+251
+00:05:37,450 --> 00:05:39,960
+if you fail you'll lose the current
+stage and gain one higher or on a
+
+252
+00:05:39,960 --> 00:05:39,970
+stage and gain one higher or on a
+ 
+
+253
+00:05:39,970 --> 00:05:42,210
+stage and gain one higher or on a
+critical fail you lose the current stage
+
+254
+00:05:42,210 --> 00:05:42,220
+critical fail you lose the current stage
+ 
+
+255
+00:05:42,220 --> 00:05:45,000
+critical fail you lose the current stage
+and gain the stage to higher we should
+
+256
+00:05:45,000 --> 00:05:45,010
+and gain the stage to higher we should
+ 
+
+257
+00:05:45,010 --> 00:05:46,980
+and gain the stage to higher we should
+also talk about the conditions you
+
+258
+00:05:46,980 --> 00:05:46,990
+also talk about the conditions you
+ 
+
+259
+00:05:46,990 --> 00:05:50,010
+also talk about the conditions you
+receive from afflictions if you are able
+
+260
+00:05:50,010 --> 00:05:50,020
+receive from afflictions if you are able
+ 
+
+261
+00:05:50,020 --> 00:05:53,460
+receive from afflictions if you are able
+to remove that specific condition while
+
+262
+00:05:53,460 --> 00:05:53,470
+to remove that specific condition while
+ 
+
+263
+00:05:53,470 --> 00:05:55,830
+to remove that specific condition while
+under the effects of the affliction just
+
+264
+00:05:55,830 --> 00:05:55,840
+under the effects of the affliction just
+ 
+
+265
+00:05:55,840 --> 00:05:58,740
+under the effects of the affliction just
+be aware that removing the condition has
+
+266
+00:05:58,740 --> 00:05:58,750
+be aware that removing the condition has
+ 
+
+267
+00:05:58,750 --> 00:06:02,010
+be aware that removing the condition has
+no effect on the affliction so say an
+
+268
+00:06:02,010 --> 00:06:02,020
+no effect on the affliction so say an
+ 
+
+269
+00:06:02,020 --> 00:06:03,390
+no effect on the affliction so say an
+affliction gives you the second
+
+270
+00:06:03,390 --> 00:06:03,400
+affliction gives you the second
+ 
+
+271
+00:06:03,400 --> 00:06:05,700
+affliction gives you the second
+condition and you remove the second
+
+272
+00:06:05,700 --> 00:06:05,710
+condition and you remove the second
+ 
+
+273
+00:06:05,710 --> 00:06:08,310
+condition and you remove the second
+condition by retching then it only
+
+274
+00:06:08,310 --> 00:06:08,320
+condition by retching then it only
+ 
+
+275
+00:06:08,320 --> 00:06:11,340
+condition by retching then it only
+removes that one condition and has no
+
+276
+00:06:11,340 --> 00:06:11,350
+removes that one condition and has no
+ 
+
+277
+00:06:11,350 --> 00:06:13,530
+removes that one condition and has no
+effect on the affliction that caused
+
+278
+00:06:13,530 --> 00:06:13,540
+effect on the affliction that caused
+ 
+
+279
+00:06:13,540 --> 00:06:16,140
+effect on the affliction that caused
+sickened the affliction continues as
+
+280
+00:06:16,140 --> 00:06:16,150
+sickened the affliction continues as
+ 
+
+281
+00:06:16,150 --> 00:06:18,750
+sickened the affliction continues as
+normal and the opposite of that is also
+
+282
+00:06:18,750 --> 00:06:18,760
+normal and the opposite of that is also
+ 
+
+283
+00:06:18,760 --> 00:06:21,870
+normal and the opposite of that is also
+true curing an affliction does not
+
+284
+00:06:21,870 --> 00:06:21,880
+true curing an affliction does not
+ 
+
+285
+00:06:21,880 --> 00:06:24,900
+true curing an affliction does not
+necessarily cure the conditions that the
+
+286
+00:06:24,900 --> 00:06:24,910
+necessarily cure the conditions that the
+ 
+
+287
+00:06:24,910 --> 00:06:27,570
+necessarily cure the conditions that the
+affliction caused if you suffer a
+
+288
+00:06:27,570 --> 00:06:27,580
+affliction caused if you suffer a
+ 
+
+289
+00:06:27,580 --> 00:06:29,810
+affliction caused if you suffer a
+condition from an affliction and that
+
+290
+00:06:29,810 --> 00:06:29,820
+condition from an affliction and that
+ 
+
+291
+00:06:29,820 --> 00:06:33,360
+condition from an affliction and that
+condition has a longer duration than the
+
+292
+00:06:33,360 --> 00:06:33,370
+condition has a longer duration than the
+ 
+
+293
+00:06:33,370 --> 00:06:35,430
+condition has a longer duration than the
+maximum duration of the affliction that
+
+294
+00:06:35,430 --> 00:06:35,440
+maximum duration of the affliction that
+ 
+
+295
+00:06:35,440 --> 00:06:38,010
+maximum duration of the affliction that
+caused it then that condition persists
+
+296
+00:06:38,010 --> 00:06:38,020
+caused it then that condition persists
+ 
+
+297
+00:06:38,020 --> 00:06:41,120
+caused it then that condition persists
+even after the affliction goes away and
+
+298
+00:06:41,120 --> 00:06:41,130
+even after the affliction goes away and
+ 
+
+299
+00:06:41,130 --> 00:06:44,130
+even after the affliction goes away and
+the last special circumstance I want to
+
+300
+00:06:44,130 --> 00:06:44,140
+the last special circumstance I want to
+ 
+
+301
+00:06:44,140 --> 00:06:47,610
+the last special circumstance I want to
+talk about is virulent afflictions these
+
+302
+00:06:47,610 --> 00:06:47,620
+talk about is virulent afflictions these
+ 
+
+303
+00:06:47,620 --> 00:06:50,550
+talk about is virulent afflictions these
+are especially nasty afflictions that
+
+304
+00:06:50,550 --> 00:06:50,560
+are especially nasty afflictions that
+ 
+
+305
+00:06:50,560 --> 00:06:52,950
+are especially nasty afflictions that
+operate the same way as normal
+
+306
+00:06:52,950 --> 00:06:52,960
+operate the same way as normal
+ 
+
+307
+00:06:52,960 --> 00:06:56,250
+operate the same way as normal
+afflictions except they require two
+
+308
+00:06:56,250 --> 00:06:56,260
+afflictions except they require two
+ 
+
+309
+00:06:56,260 --> 00:06:58,650
+afflictions except they require two
+consecutive successes to remove the
+
+310
+00:06:58,650 --> 00:06:58,660
+consecutive successes to remove the
+ 
+
+311
+00:06:58,660 --> 00:07:00,960
+consecutive successes to remove the
+current stage and gain one stage lower
+
+312
+00:07:00,960 --> 00:07:00,970
+current stage and gain one stage lower
+ 
+
+313
+00:07:00,970 --> 00:07:04,470
+current stage and gain one stage lower
+or one critical success gains one stage
+
+314
+00:07:04,470 --> 00:07:04,480
+or one critical success gains one stage
+ 
+
+315
+00:07:04,480 --> 00:07:08,610
+or one critical success gains one stage
+lower instead of two lower
+
+316
+00:07:08,610 --> 00:07:08,620
+lower instead of two lower
+ 
+
+317
+00:07:08,620 --> 00:07:11,550
+lower instead of two lower
+and those are just the basics as a
+
+318
+00:07:11,550 --> 00:07:11,560
+and those are just the basics as a
+ 
+
+319
+00:07:11,560 --> 00:07:14,100
+and those are just the basics as a
+reminder this series of abbreviated
+
+320
+00:07:14,100 --> 00:07:14,110
+reminder this series of abbreviated
+ 
+
+321
+00:07:14,110 --> 00:07:17,460
+reminder this series of abbreviated
+videos is meant to support not replace
+
+322
+00:07:17,460 --> 00:07:17,470
+videos is meant to support not replace
+ 
+
+323
+00:07:17,470 --> 00:07:20,490
+videos is meant to support not replace
+the full-length courses if you have any
+
+324
+00:07:20,490 --> 00:07:20,500
+the full-length courses if you have any
+ 
+
+325
+00:07:20,500 --> 00:07:22,710
+the full-length courses if you have any
+questions about how any of this works
+
+326
+00:07:22,710 --> 00:07:22,720
+questions about how any of this works
+ 
+
+327
+00:07:22,720 --> 00:07:25,020
+questions about how any of this works
+make sure you view the original
+
+328
+00:07:25,020 --> 00:07:25,030
+make sure you view the original
+ 
+
+329
+00:07:25,030 --> 00:07:26,939
+make sure you view the original
+full-length video that is in the
+
+330
+00:07:26,939 --> 00:07:26,949
+full-length video that is in the
+ 
+
+331
+00:07:26,949 --> 00:07:30,300
+full-length video that is in the
+description and as always I'd like to
+
+332
+00:07:30,300 --> 00:07:30,310
+description and as always I'd like to
+ 
+
+333
+00:07:30,310 --> 00:07:32,129
+description and as always I'd like to
+take a moment to thank all of our
+
+334
+00:07:32,129 --> 00:07:32,139
+take a moment to thank all of our
+ 
+
+335
+00:07:32,139 --> 00:07:34,469
+take a moment to thank all of our
+patrons these videos would not be
+
+336
+00:07:34,469 --> 00:07:34,479
+patrons these videos would not be
+ 
+
+337
+00:07:34,479 --> 00:07:36,240
+patrons these videos would not be
+possible without their continued
+
+338
+00:07:36,240 --> 00:07:36,250
+possible without their continued
+ 
+
+339
+00:07:36,250 --> 00:07:38,879
+possible without their continued
+generosity and support members of the
+
+340
+00:07:38,879 --> 00:07:38,889
+generosity and support members of the
+ 
+
+341
+00:07:38,889 --> 00:07:40,560
+generosity and support members of the
+basics for gamers patreon community
+
+342
+00:07:40,560 --> 00:07:40,570
+basics for gamers patreon community
+ 
+
+343
+00:07:40,570 --> 00:07:43,379
+basics for gamers patreon community
+receive special benefits like getting to
+
+344
+00:07:43,379 --> 00:07:43,389
+receive special benefits like getting to
+ 
+
+345
+00:07:43,389 --> 00:07:45,960
+receive special benefits like getting to
+vote on the topics we cover and also get
+
+346
+00:07:45,960 --> 00:07:45,970
+vote on the topics we cover and also get
+ 
+
+347
+00:07:45,970 --> 00:07:47,820
+vote on the topics we cover and also get
+to see these videos one week before
+
+348
+00:07:47,820 --> 00:07:47,830
+to see these videos one week before
+ 
+
+349
+00:07:47,830 --> 00:07:50,700
+to see these videos one week before
+everyone else visit the links shown in
+
+350
+00:07:50,700 --> 00:07:50,710
+everyone else visit the links shown in
+ 
+
+351
+00:07:50,710 --> 00:07:52,409
+everyone else visit the links shown in
+the description if you'd like to know
+
+352
+00:07:52,409 --> 00:07:52,419
+the description if you'd like to know
+ 
+
+353
+00:07:52,419 --> 00:07:55,080
+the description if you'd like to know
+more about becoming a patron if you
+
+354
+00:07:55,080 --> 00:07:55,090
+more about becoming a patron if you
+ 
+
+355
+00:07:55,090 --> 00:07:56,580
+more about becoming a patron if you
+would like to support this channel and
+
+356
+00:07:56,580 --> 00:07:56,590
+would like to support this channel and
+ 
+
+357
+00:07:56,590 --> 00:07:58,740
+would like to support this channel and
+help it grow the easiest way to do that
+
+358
+00:07:58,740 --> 00:07:58,750
+help it grow the easiest way to do that
+ 
+
+359
+00:07:58,750 --> 00:08:01,050
+help it grow the easiest way to do that
+is by subscribing and clicking the bell
+
+360
+00:08:01,050 --> 00:08:01,060
+is by subscribing and clicking the bell
+ 
+
+361
+00:08:01,060 --> 00:08:03,390
+is by subscribing and clicking the bell
+icon so you get notified when new videos
+
+362
+00:08:03,390 --> 00:08:03,400
+icon so you get notified when new videos
+ 
+
+363
+00:08:03,400 --> 00:08:06,150
+icon so you get notified when new videos
+release and we can always be reached
+
+364
+00:08:06,150 --> 00:08:06,160
+release and we can always be reached
+ 
+
+365
+00:08:06,160 --> 00:08:07,560
+release and we can always be reached
+through our Twitter and Facebook pages
+
+366
+00:08:07,560 --> 00:08:07,570
+through our Twitter and Facebook pages
+ 
+
+367
+00:08:07,570 --> 00:08:10,560
+through our Twitter and Facebook pages
+too thanks for watching take care and
+
+368
+00:08:10,560 --> 00:08:10,570
+too thanks for watching take care and
+ 
+
+369
+00:08:10,570 --> 00:08:12,510
+too thanks for watching take care and
+we'll see you soon with more basics of
+
+370
+00:08:12,510 --> 00:08:12,520
+we'll see you soon with more basics of
+ 
+
+371
+00:08:12,520 --> 00:08:15,030
+we'll see you soon with more basics of
+Pathfinder
+

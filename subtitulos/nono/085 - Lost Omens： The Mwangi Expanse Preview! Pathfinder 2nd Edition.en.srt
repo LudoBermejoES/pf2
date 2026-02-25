@@ -1,0 +1,1455 @@
+1
+00:00:01,120 --> 00:00:03,270
+
+this video is brought to you by roll for
+
+2
+00:00:03,270 --> 00:00:03,280
+this video is brought to you by roll for
+ 
+
+3
+00:00:03,280 --> 00:00:03,830
+this video is brought to you by roll for
+combat
+
+4
+00:00:03,830 --> 00:00:03,840
+combat
+ 
+
+5
+00:00:03,840 --> 00:00:06,950
+combat
+an official piezo actual play podcast
+
+6
+00:00:06,950 --> 00:00:06,960
+an official piezo actual play podcast
+ 
+
+7
+00:00:06,960 --> 00:00:09,910
+an official piezo actual play podcast
+visit rollforcombat.com today to listen
+
+8
+00:00:09,910 --> 00:00:09,920
+visit rollforcombat.com today to listen
+ 
+
+9
+00:00:09,920 --> 00:00:11,430
+visit rollforcombat.com today to listen
+to agents of edgewatch
+
+10
+00:00:11,430 --> 00:00:11,440
+to agents of edgewatch
+ 
+
+11
+00:00:11,440 --> 00:00:14,150
+to agents of edgewatch
+and join basil dougie gomez and loming
+
+12
+00:00:14,150 --> 00:00:14,160
+and join basil dougie gomez and loming
+ 
+
+13
+00:00:14,160 --> 00:00:15,990
+and join basil dougie gomez and loming
+as they protect and serve the citizens
+
+14
+00:00:15,990 --> 00:00:16,000
+as they protect and serve the citizens
+ 
+
+15
+00:00:16,000 --> 00:00:17,910
+as they protect and serve the citizens
+of absalom from a mysterious and
+
+16
+00:00:17,910 --> 00:00:17,920
+of absalom from a mysterious and
+ 
+
+17
+00:00:17,920 --> 00:00:24,550
+of absalom from a mysterious and
+diabolical plot
+
+18
+00:00:24,550 --> 00:00:24,560
+
+ 
+
+19
+00:00:24,560 --> 00:00:26,790
+
+hey everybody today i have for you a
+
+20
+00:00:26,790 --> 00:00:26,800
+hey everybody today i have for you a
+ 
+
+21
+00:00:26,800 --> 00:00:28,790
+hey everybody today i have for you a
+quick preview of the upcoming
+
+22
+00:00:28,790 --> 00:00:28,800
+quick preview of the upcoming
+ 
+
+23
+00:00:28,800 --> 00:00:31,429
+quick preview of the upcoming
+lost omens the monkey expanse hardcover
+
+24
+00:00:31,429 --> 00:00:31,439
+lost omens the monkey expanse hardcover
+ 
+
+25
+00:00:31,439 --> 00:00:33,350
+lost omens the monkey expanse hardcover
+for pathfinder second edition
+
+26
+00:00:33,350 --> 00:00:33,360
+for pathfinder second edition
+ 
+
+27
+00:00:33,360 --> 00:00:35,590
+for pathfinder second edition
+two quick notes before i get too deep
+
+28
+00:00:35,590 --> 00:00:35,600
+two quick notes before i get too deep
+ 
+
+29
+00:00:35,600 --> 00:00:36,549
+two quick notes before i get too deep
+into this
+
+30
+00:00:36,549 --> 00:00:36,559
+into this
+ 
+
+31
+00:00:36,559 --> 00:00:38,389
+into this
+first i should let you know that i was
+
+32
+00:00:38,389 --> 00:00:38,399
+first i should let you know that i was
+ 
+
+33
+00:00:38,399 --> 00:00:40,470
+first i should let you know that i was
+provided a pdf copy of this book in
+
+34
+00:00:40,470 --> 00:00:40,480
+provided a pdf copy of this book in
+ 
+
+35
+00:00:40,480 --> 00:00:41,750
+provided a pdf copy of this book in
+advance by paizo
+
+36
+00:00:41,750 --> 00:00:41,760
+advance by paizo
+ 
+
+37
+00:00:41,760 --> 00:00:44,869
+advance by paizo
+and second this will be a preview
+
+38
+00:00:44,869 --> 00:00:44,879
+and second this will be a preview
+ 
+
+39
+00:00:44,879 --> 00:00:47,670
+and second this will be a preview
+not a review meaning i will be providing
+
+40
+00:00:47,670 --> 00:00:47,680
+not a review meaning i will be providing
+ 
+
+41
+00:00:47,680 --> 00:00:47,990
+not a review meaning i will be providing
+an
+
+42
+00:00:47,990 --> 00:00:48,000
+an
+ 
+
+43
+00:00:48,000 --> 00:00:50,389
+an
+overview of the book's contents but i
+
+44
+00:00:50,389 --> 00:00:50,399
+overview of the book's contents but i
+ 
+
+45
+00:00:50,399 --> 00:00:52,310
+overview of the book's contents but i
+will not be sharing any of my own
+
+46
+00:00:52,310 --> 00:00:52,320
+will not be sharing any of my own
+ 
+
+47
+00:00:52,320 --> 00:00:53,990
+will not be sharing any of my own
+opinions about the quality or
+
+48
+00:00:53,990 --> 00:00:54,000
+opinions about the quality or
+ 
+
+49
+00:00:54,000 --> 00:00:57,110
+opinions about the quality or
+value of the book here i will be posting
+
+50
+00:00:57,110 --> 00:00:57,120
+value of the book here i will be posting
+ 
+
+51
+00:00:57,120 --> 00:00:59,510
+value of the book here i will be posting
+a full review of the book shortly after
+
+52
+00:00:59,510 --> 00:00:59,520
+a full review of the book shortly after
+ 
+
+53
+00:00:59,520 --> 00:01:02,229
+a full review of the book shortly after
+its official release on july 7th
+
+54
+00:01:02,229 --> 00:01:02,239
+its official release on july 7th
+ 
+
+55
+00:01:02,239 --> 00:01:03,990
+its official release on july 7th
+also i would like to apologize in
+
+56
+00:01:03,990 --> 00:01:04,000
+also i would like to apologize in
+ 
+
+57
+00:01:04,000 --> 00:01:06,310
+also i would like to apologize in
+advance for any of the mispronunciations
+
+58
+00:01:06,310 --> 00:01:06,320
+advance for any of the mispronunciations
+ 
+
+59
+00:01:06,320 --> 00:01:09,510
+advance for any of the mispronunciations
+you'll likely hear during this preview
+
+60
+00:01:09,510 --> 00:01:09,520
+you'll likely hear during this preview
+ 
+
+61
+00:01:09,520 --> 00:01:11,670
+you'll likely hear during this preview
+the monkey expanse is the latest in
+
+62
+00:01:11,670 --> 00:01:11,680
+the monkey expanse is the latest in
+ 
+
+63
+00:01:11,680 --> 00:01:12,789
+the monkey expanse is the latest in
+pisa's line of
+
+64
+00:01:12,789 --> 00:01:12,799
+pisa's line of
+ 
+
+65
+00:01:12,799 --> 00:01:16,469
+pisa's line of
+lost omen campaign setting books is 314
+
+66
+00:01:16,469 --> 00:01:16,479
+lost omen campaign setting books is 314
+ 
+
+67
+00:01:16,479 --> 00:01:17,830
+lost omen campaign setting books is 314
+pages from cover to cover
+
+68
+00:01:17,830 --> 00:01:17,840
+pages from cover to cover
+ 
+
+69
+00:01:17,840 --> 00:01:21,429
+pages from cover to cover
+and retails for 49.99 us
+
+70
+00:01:21,429 --> 00:01:21,439
+and retails for 49.99 us
+ 
+
+71
+00:01:21,439 --> 00:01:23,510
+and retails for 49.99 us
+roughly the first 100 pages are
+
+72
+00:01:23,510 --> 00:01:23,520
+roughly the first 100 pages are
+ 
+
+73
+00:01:23,520 --> 00:01:25,670
+roughly the first 100 pages are
+dedicated to the history of the expanse
+
+74
+00:01:25,670 --> 00:01:25,680
+dedicated to the history of the expanse
+ 
+
+75
+00:01:25,680 --> 00:01:28,070
+dedicated to the history of the expanse
+and the people who live there it begins
+
+76
+00:01:28,070 --> 00:01:28,080
+and the people who live there it begins
+ 
+
+77
+00:01:28,080 --> 00:01:29,030
+and the people who live there it begins
+with a broad
+
+78
+00:01:29,030 --> 00:01:29,040
+with a broad
+ 
+
+79
+00:01:29,040 --> 00:01:30,950
+with a broad
+description of this territory and
+
+80
+00:01:30,950 --> 00:01:30,960
+description of this territory and
+ 
+
+81
+00:01:30,960 --> 00:01:32,950
+description of this territory and
+provides some guidance for both players
+
+82
+00:01:32,950 --> 00:01:32,960
+provides some guidance for both players
+ 
+
+83
+00:01:32,960 --> 00:01:34,630
+provides some guidance for both players
+and characters who may be visiting the
+
+84
+00:01:34,630 --> 00:01:34,640
+and characters who may be visiting the
+ 
+
+85
+00:01:34,640 --> 00:01:36,230
+and characters who may be visiting the
+region for the first time
+
+86
+00:01:36,230 --> 00:01:36,240
+region for the first time
+ 
+
+87
+00:01:36,240 --> 00:01:38,710
+region for the first time
+a focus is placed on campaigns being
+
+88
+00:01:38,710 --> 00:01:38,720
+a focus is placed on campaigns being
+ 
+
+89
+00:01:38,720 --> 00:01:39,990
+a focus is placed on campaigns being
+exciting and not
+
+90
+00:01:39,990 --> 00:01:40,000
+exciting and not
+ 
+
+91
+00:01:40,000 --> 00:01:43,109
+exciting and not
+exotic and also provides a few questions
+
+92
+00:01:43,109 --> 00:01:43,119
+exotic and also provides a few questions
+ 
+
+93
+00:01:43,119 --> 00:01:45,350
+exotic and also provides a few questions
+that players and gm's can ask themselves
+
+94
+00:01:45,350 --> 00:01:45,360
+that players and gm's can ask themselves
+ 
+
+95
+00:01:45,360 --> 00:01:47,270
+that players and gm's can ask themselves
+and their characters to play the role of
+
+96
+00:01:47,270 --> 00:01:47,280
+and their characters to play the role of
+ 
+
+97
+00:01:47,280 --> 00:01:48,870
+and their characters to play the role of
+foreigners in this new land
+
+98
+00:01:48,870 --> 00:01:48,880
+foreigners in this new land
+ 
+
+99
+00:01:48,880 --> 00:01:51,670
+foreigners in this new land
+such as how does the expanse raise
+
+100
+00:01:51,670 --> 00:01:51,680
+such as how does the expanse raise
+ 
+
+101
+00:01:51,680 --> 00:01:53,830
+such as how does the expanse raise
+questions about the pc's understanding
+
+102
+00:01:53,830 --> 00:01:53,840
+questions about the pc's understanding
+ 
+
+103
+00:01:53,840 --> 00:01:56,870
+questions about the pc's understanding
+of where they come from there is a
+
+104
+00:01:56,870 --> 00:01:56,880
+of where they come from there is a
+ 
+
+105
+00:01:56,880 --> 00:01:58,630
+of where they come from there is a
+timeline provided that stretches from
+
+106
+00:01:58,630 --> 00:01:58,640
+timeline provided that stretches from
+ 
+
+107
+00:01:58,640 --> 00:02:00,389
+timeline provided that stretches from
+the age of serpents all the way to the
+
+108
+00:02:00,389 --> 00:02:00,399
+the age of serpents all the way to the
+ 
+
+109
+00:02:00,399 --> 00:02:01,109
+the age of serpents all the way to the
+present
+
+110
+00:02:01,109 --> 00:02:01,119
+present
+ 
+
+111
+00:02:01,119 --> 00:02:03,510
+present
+as well as fleshed out details for each
+
+112
+00:02:03,510 --> 00:02:03,520
+as well as fleshed out details for each
+ 
+
+113
+00:02:03,520 --> 00:02:04,469
+as well as fleshed out details for each
+age
+
+114
+00:02:04,469 --> 00:02:04,479
+age
+ 
+
+115
+00:02:04,479 --> 00:02:05,990
+age
+after the section on history the book
+
+116
+00:02:05,990 --> 00:02:06,000
+after the section on history the book
+ 
+
+117
+00:02:06,000 --> 00:02:08,389
+after the section on history the book
+gets into the inhabitants of the expanse
+
+118
+00:02:08,389 --> 00:02:08,399
+gets into the inhabitants of the expanse
+ 
+
+119
+00:02:08,399 --> 00:02:10,150
+gets into the inhabitants of the expanse
+this includes some adjustments to
+
+120
+00:02:10,150 --> 00:02:10,160
+this includes some adjustments to
+ 
+
+121
+00:02:10,160 --> 00:02:11,510
+this includes some adjustments to
+ancestry rarity
+
+122
+00:02:11,510 --> 00:02:11,520
+ancestry rarity
+ 
+
+123
+00:02:11,520 --> 00:02:13,910
+ancestry rarity
+such as cobalt and lizard folks are
+
+124
+00:02:13,910 --> 00:02:13,920
+such as cobalt and lizard folks are
+ 
+
+125
+00:02:13,920 --> 00:02:15,430
+such as cobalt and lizard folks are
+common in the expanse
+
+126
+00:02:15,430 --> 00:02:15,440
+common in the expanse
+ 
+
+127
+00:02:15,440 --> 00:02:18,470
+common in the expanse
+while gnomes and goblins become uncommon
+
+128
+00:02:18,470 --> 00:02:18,480
+while gnomes and goblins become uncommon
+ 
+
+129
+00:02:18,480 --> 00:02:19,750
+while gnomes and goblins become uncommon
+ancestries
+
+130
+00:02:19,750 --> 00:02:19,760
+ancestries
+ 
+
+131
+00:02:19,760 --> 00:02:21,830
+ancestries
+and the book dives further into the
+
+132
+00:02:21,830 --> 00:02:21,840
+and the book dives further into the
+ 
+
+133
+00:02:21,840 --> 00:02:24,390
+and the book dives further into the
+human ethnicities of the muwangi expanse
+
+134
+00:02:24,390 --> 00:02:24,400
+human ethnicities of the muwangi expanse
+ 
+
+135
+00:02:24,400 --> 00:02:28,150
+human ethnicities of the muwangi expanse
+including the bekyar bonawat kaldaru
+
+136
+00:02:28,150 --> 00:02:28,160
+including the bekyar bonawat kaldaru
+ 
+
+137
+00:02:28,160 --> 00:02:31,990
+including the bekyar bonawat kaldaru
+moxie sargovan vitrik and the zinch who
+
+138
+00:02:31,990 --> 00:02:32,000
+moxie sargovan vitrik and the zinch who
+ 
+
+139
+00:02:32,000 --> 00:02:33,990
+moxie sargovan vitrik and the zinch who
+make up the majority of the expansion's
+
+140
+00:02:33,990 --> 00:02:34,000
+make up the majority of the expansion's
+ 
+
+141
+00:02:34,000 --> 00:02:35,430
+make up the majority of the expansion's
+population
+
+142
+00:02:35,430 --> 00:02:35,440
+population
+ 
+
+143
+00:02:35,440 --> 00:02:37,830
+population
+about 70 pages are dedicated to the
+
+144
+00:02:37,830 --> 00:02:37,840
+about 70 pages are dedicated to the
+ 
+
+145
+00:02:37,840 --> 00:02:38,470
+about 70 pages are dedicated to the
+various
+
+146
+00:02:38,470 --> 00:02:38,480
+various
+ 
+
+147
+00:02:38,480 --> 00:02:40,309
+various
+non-human ancestries found in the
+
+148
+00:02:40,309 --> 00:02:40,319
+non-human ancestries found in the
+ 
+
+149
+00:02:40,319 --> 00:02:43,190
+non-human ancestries found in the
+expanse including three elven societies
+
+150
+00:02:43,190 --> 00:02:43,200
+expanse including three elven societies
+ 
+
+151
+00:02:43,200 --> 00:02:46,550
+expanse including three elven societies
+the alijay akuge and khalid
+
+152
+00:02:46,550 --> 00:02:46,560
+the alijay akuge and khalid
+ 
+
+153
+00:02:46,560 --> 00:02:49,589
+the alijay akuge and khalid
+and two dwarven societies the umbeke
+
+154
+00:02:49,589 --> 00:02:49,599
+and two dwarven societies the umbeke
+ 
+
+155
+00:02:49,599 --> 00:02:52,550
+and two dwarven societies the umbeke
+and taralu it also includes write-ups
+
+156
+00:02:52,550 --> 00:02:52,560
+and taralu it also includes write-ups
+ 
+
+157
+00:02:52,560 --> 00:02:53,030
+and taralu it also includes write-ups
+for the
+
+158
+00:02:53,030 --> 00:02:53,040
+for the
+ 
+
+159
+00:02:53,040 --> 00:02:55,270
+for the
+songo halflings and the demon hunting
+
+160
+00:02:55,270 --> 00:02:55,280
+songo halflings and the demon hunting
+ 
+
+161
+00:02:55,280 --> 00:02:56,790
+songo halflings and the demon hunting
+matanji orcs
+
+162
+00:02:56,790 --> 00:02:56,800
+matanji orcs
+ 
+
+163
+00:02:56,800 --> 00:02:58,710
+matanji orcs
+each of these individual groups has
+
+164
+00:02:58,710 --> 00:02:58,720
+each of these individual groups has
+ 
+
+165
+00:02:58,720 --> 00:03:00,869
+each of these individual groups has
+roughly 10 pages of detail provided for
+
+166
+00:03:00,869 --> 00:03:00,879
+roughly 10 pages of detail provided for
+ 
+
+167
+00:03:00,879 --> 00:03:01,270
+roughly 10 pages of detail provided for
+them
+
+168
+00:03:01,270 --> 00:03:01,280
+them
+ 
+
+169
+00:03:01,280 --> 00:03:03,350
+them
+very little of which is mechanical
+
+170
+00:03:03,350 --> 00:03:03,360
+very little of which is mechanical
+ 
+
+171
+00:03:03,360 --> 00:03:05,350
+very little of which is mechanical
+there's one or two new feats and a
+
+172
+00:03:05,350 --> 00:03:05,360
+there's one or two new feats and a
+ 
+
+173
+00:03:05,360 --> 00:03:06,470
+there's one or two new feats and a
+couple new items
+
+174
+00:03:06,470 --> 00:03:06,480
+couple new items
+ 
+
+175
+00:03:06,480 --> 00:03:08,149
+couple new items
+but the overwhelming majority of this
+
+176
+00:03:08,149 --> 00:03:08,159
+but the overwhelming majority of this
+ 
+
+177
+00:03:08,159 --> 00:03:10,070
+but the overwhelming majority of this
+section is dedicated to each group
+
+178
+00:03:10,070 --> 00:03:10,080
+section is dedicated to each group
+ 
+
+179
+00:03:10,080 --> 00:03:10,949
+section is dedicated to each group
+society
+
+180
+00:03:10,949 --> 00:03:10,959
+society
+ 
+
+181
+00:03:10,959 --> 00:03:13,030
+society
+culture political views religious
+
+182
+00:03:13,030 --> 00:03:13,040
+culture political views religious
+ 
+
+183
+00:03:13,040 --> 00:03:14,309
+culture political views religious
+beliefs prominent
+
+184
+00:03:14,309 --> 00:03:14,319
+beliefs prominent
+ 
+
+185
+00:03:14,319 --> 00:03:17,670
+beliefs prominent
+npcs and the like after that the book
+
+186
+00:03:17,670 --> 00:03:17,680
+npcs and the like after that the book
+ 
+
+187
+00:03:17,680 --> 00:03:20,149
+npcs and the like after that the book
+introduces six new playable ancestries
+
+188
+00:03:20,149 --> 00:03:20,159
+introduces six new playable ancestries
+ 
+
+189
+00:03:20,159 --> 00:03:22,470
+introduces six new playable ancestries
+shape-changing spiders called a nadi
+
+190
+00:03:22,470 --> 00:03:22,480
+shape-changing spiders called a nadi
+ 
+
+191
+00:03:22,480 --> 00:03:25,270
+shape-changing spiders called a nadi
+constructs imbued with cosmic life known
+
+192
+00:03:25,270 --> 00:03:25,280
+constructs imbued with cosmic life known
+ 
+
+193
+00:03:25,280 --> 00:03:25,589
+constructs imbued with cosmic life known
+as
+
+194
+00:03:25,589 --> 00:03:25,599
+as
+ 
+
+195
+00:03:25,599 --> 00:03:29,270
+as
+konrasu the familiar gnolls
+
+196
+00:03:29,270 --> 00:03:29,280
+konrasu the familiar gnolls
+ 
+
+197
+00:03:29,280 --> 00:03:32,309
+konrasu the familiar gnolls
+eight eyed creatures called golomas frog
+
+198
+00:03:32,309 --> 00:03:32,319
+eight eyed creatures called golomas frog
+ 
+
+199
+00:03:32,319 --> 00:03:34,229
+eight eyed creatures called golomas frog
+people known as gripleys
+
+200
+00:03:34,229 --> 00:03:34,239
+people known as gripleys
+ 
+
+201
+00:03:34,239 --> 00:03:36,550
+people known as gripleys
+and the human-like shisks who have
+
+202
+00:03:36,550 --> 00:03:36,560
+and the human-like shisks who have
+ 
+
+203
+00:03:36,560 --> 00:03:38,550
+and the human-like shisks who have
+quills for hair
+
+204
+00:03:38,550 --> 00:03:38,560
+quills for hair
+ 
+
+205
+00:03:38,560 --> 00:03:40,630
+quills for hair
+each of these new ancestries are given
+
+206
+00:03:40,630 --> 00:03:40,640
+each of these new ancestries are given
+ 
+
+207
+00:03:40,640 --> 00:03:41,910
+each of these new ancestries are given
+the standard write-up
+
+208
+00:03:41,910 --> 00:03:41,920
+the standard write-up
+ 
+
+209
+00:03:41,920 --> 00:03:44,789
+the standard write-up
+with ancestry feats and either four or
+
+210
+00:03:44,789 --> 00:03:44,799
+with ancestry feats and either four or
+ 
+
+211
+00:03:44,799 --> 00:03:46,949
+with ancestry feats and either four or
+five heritages each
+
+212
+00:03:46,949 --> 00:03:46,959
+five heritages each
+ 
+
+213
+00:03:46,959 --> 00:03:49,030
+five heritages each
+the next major section of the book dives
+
+214
+00:03:49,030 --> 00:03:49,040
+the next major section of the book dives
+ 
+
+215
+00:03:49,040 --> 00:03:51,110
+the next major section of the book dives
+into the religions of the expanse
+
+216
+00:03:51,110 --> 00:03:51,120
+into the religions of the expanse
+ 
+
+217
+00:03:51,120 --> 00:03:52,869
+into the religions of the expanse
+and includes write-ups for a dozen new
+
+218
+00:03:52,869 --> 00:03:52,879
+and includes write-ups for a dozen new
+ 
+
+219
+00:03:52,879 --> 00:03:55,190
+and includes write-ups for a dozen new
+deities each of these includes the usual
+
+220
+00:03:55,190 --> 00:03:55,200
+deities each of these includes the usual
+ 
+
+221
+00:03:55,200 --> 00:03:55,990
+deities each of these includes the usual
+information
+
+222
+00:03:55,990 --> 00:03:56,000
+information
+ 
+
+223
+00:03:56,000 --> 00:03:58,869
+information
+such as domains favored weapons and
+
+224
+00:03:58,869 --> 00:03:58,879
+such as domains favored weapons and
+ 
+
+225
+00:03:58,879 --> 00:04:00,710
+such as domains favored weapons and
+avatar forms
+
+226
+00:04:00,710 --> 00:04:00,720
+avatar forms
+ 
+
+227
+00:04:00,720 --> 00:04:03,589
+avatar forms
+the next 140 pages covers the geography
+
+228
+00:04:03,589 --> 00:04:03,599
+the next 140 pages covers the geography
+ 
+
+229
+00:04:03,599 --> 00:04:04,550
+the next 140 pages covers the geography
+of the region
+
+230
+00:04:04,550 --> 00:04:04,560
+of the region
+ 
+
+231
+00:04:04,560 --> 00:04:06,710
+of the region
+35 of which are spent detailing 10
+
+232
+00:04:06,710 --> 00:04:06,720
+35 of which are spent detailing 10
+ 
+
+233
+00:04:06,720 --> 00:04:08,470
+35 of which are spent detailing 10
+different major territories such as the
+
+234
+00:04:08,470 --> 00:04:08,480
+different major territories such as the
+ 
+
+235
+00:04:08,480 --> 00:04:11,030
+different major territories such as the
+monkey jungle and the southern lands
+
+236
+00:04:11,030 --> 00:04:11,040
+monkey jungle and the southern lands
+ 
+
+237
+00:04:11,040 --> 00:04:12,949
+monkey jungle and the southern lands
+and then the focus moves onto nine
+
+238
+00:04:12,949 --> 00:04:12,959
+and then the focus moves onto nine
+ 
+
+239
+00:04:12,959 --> 00:04:14,470
+and then the focus moves onto nine
+specific settlements
+
+240
+00:04:14,470 --> 00:04:14,480
+specific settlements
+ 
+
+241
+00:04:14,480 --> 00:04:17,110
+specific settlements
+like blood cove a haven for pirates and
+
+242
+00:04:17,110 --> 00:04:17,120
+like blood cove a haven for pirates and
+ 
+
+243
+00:04:17,120 --> 00:04:18,229
+like blood cove a haven for pirates and
+merchants
+
+244
+00:04:18,229 --> 00:04:18,239
+merchants
+ 
+
+245
+00:04:18,239 --> 00:04:20,550
+merchants
+each settlement receives roughly 12 to
+
+246
+00:04:20,550 --> 00:04:20,560
+each settlement receives roughly 12 to
+ 
+
+247
+00:04:20,560 --> 00:04:21,749
+each settlement receives roughly 12 to
+14 pages
+
+248
+00:04:21,749 --> 00:04:21,759
+14 pages
+ 
+
+249
+00:04:21,759 --> 00:04:24,950
+14 pages
+including stat blocks maps points of
+
+250
+00:04:24,950 --> 00:04:24,960
+including stat blocks maps points of
+ 
+
+251
+00:04:24,960 --> 00:04:27,830
+including stat blocks maps points of
+interest prominent npcs and more the
+
+252
+00:04:27,830 --> 00:04:27,840
+interest prominent npcs and more the
+ 
+
+253
+00:04:27,840 --> 00:04:30,070
+interest prominent npcs and more the
+final major section is a bestiary
+
+254
+00:04:30,070 --> 00:04:30,080
+final major section is a bestiary
+ 
+
+255
+00:04:30,080 --> 00:04:31,990
+final major section is a bestiary
+full of creatures and monsters that
+
+256
+00:04:31,990 --> 00:04:32,000
+full of creatures and monsters that
+ 
+
+257
+00:04:32,000 --> 00:04:33,110
+full of creatures and monsters that
+players might encounter
+
+258
+00:04:33,110 --> 00:04:33,120
+players might encounter
+ 
+
+259
+00:04:33,120 --> 00:04:35,350
+players might encounter
+while adventuring in the expanse this
+
+260
+00:04:35,350 --> 00:04:35,360
+while adventuring in the expanse this
+ 
+
+261
+00:04:35,360 --> 00:04:37,030
+while adventuring in the expanse this
+includes a table listing all of the
+
+262
+00:04:37,030 --> 00:04:37,040
+includes a table listing all of the
+ 
+
+263
+00:04:37,040 --> 00:04:39,110
+includes a table listing all of the
+expanse's monsters already published in
+
+264
+00:04:39,110 --> 00:04:39,120
+expanse's monsters already published in
+ 
+
+265
+00:04:39,120 --> 00:04:40,870
+expanse's monsters already published in
+bestiaries one two and three
+
+266
+00:04:40,870 --> 00:04:40,880
+bestiaries one two and three
+ 
+
+267
+00:04:40,880 --> 00:04:43,670
+bestiaries one two and three
+followed by roughly 20 new creatures
+
+268
+00:04:43,670 --> 00:04:43,680
+followed by roughly 20 new creatures
+ 
+
+269
+00:04:43,680 --> 00:04:46,070
+followed by roughly 20 new creatures
+including npc stats for some of the new
+
+270
+00:04:46,070 --> 00:04:46,080
+including npc stats for some of the new
+ 
+
+271
+00:04:46,080 --> 00:04:48,150
+including npc stats for some of the new
+ancestries like the inati
+
+272
+00:04:48,150 --> 00:04:48,160
+ancestries like the inati
+ 
+
+273
+00:04:48,160 --> 00:04:51,110
+ancestries like the inati
+as well as new animals beasts spirits
+
+274
+00:04:51,110 --> 00:04:51,120
+as well as new animals beasts spirits
+ 
+
+275
+00:04:51,120 --> 00:04:53,270
+as well as new animals beasts spirits
+and other monsters as well
+
+276
+00:04:53,270 --> 00:04:53,280
+and other monsters as well
+ 
+
+277
+00:04:53,280 --> 00:04:55,350
+and other monsters as well
+so that should give you a pretty good
+
+278
+00:04:55,350 --> 00:04:55,360
+so that should give you a pretty good
+ 
+
+279
+00:04:55,360 --> 00:04:58,390
+so that should give you a pretty good
+idea of the contents of this new book
+
+280
+00:04:58,390 --> 00:04:58,400
+idea of the contents of this new book
+ 
+
+281
+00:04:58,400 --> 00:05:00,710
+idea of the contents of this new book
+make sure you come back after july 7th
+
+282
+00:05:00,710 --> 00:05:00,720
+make sure you come back after july 7th
+ 
+
+283
+00:05:00,720 --> 00:05:01,510
+make sure you come back after july 7th
+to view a
+
+284
+00:05:01,510 --> 00:05:01,520
+to view a
+ 
+
+285
+00:05:01,520 --> 00:05:03,990
+to view a
+full review and i'll share my thoughts
+
+286
+00:05:03,990 --> 00:05:04,000
+full review and i'll share my thoughts
+ 
+
+287
+00:05:04,000 --> 00:05:05,830
+full review and i'll share my thoughts
+opinions and whether or not i would
+
+288
+00:05:05,830 --> 00:05:05,840
+opinions and whether or not i would
+ 
+
+289
+00:05:05,840 --> 00:05:07,909
+opinions and whether or not i would
+recommend this book at that time
+
+290
+00:05:07,909 --> 00:05:07,919
+recommend this book at that time
+ 
+
+291
+00:05:07,919 --> 00:05:14,960
+recommend this book at that time
+and as always take care and happy gaming
+

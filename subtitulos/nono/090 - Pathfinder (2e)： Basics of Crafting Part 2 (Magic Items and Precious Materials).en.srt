@@ -1,0 +1,3425 @@
+1
+00:00:00,650 --> 00:00:03,100
+
+hello and welcome to basics for gamers
+
+2
+00:00:03,100 --> 00:00:03,110
+hello and welcome to basics for gamers
+ 
+
+3
+00:00:03,110 --> 00:00:06,340
+hello and welcome to basics for gamers
+presents the basics of crafting part 2
+
+4
+00:00:06,340 --> 00:00:06,350
+presents the basics of crafting part 2
+ 
+
+5
+00:00:06,350 --> 00:00:09,039
+presents the basics of crafting part 2
+in the previous course we discussed the
+
+6
+00:00:09,039 --> 00:00:09,049
+in the previous course we discussed the
+ 
+
+7
+00:00:09,049 --> 00:00:11,739
+in the previous course we discussed the
+process of crafting most common items
+
+8
+00:00:11,739 --> 00:00:11,749
+process of crafting most common items
+ 
+
+9
+00:00:11,749 --> 00:00:14,079
+process of crafting most common items
+and in this one we're going to take it a
+
+10
+00:00:14,079 --> 00:00:14,089
+and in this one we're going to take it a
+ 
+
+11
+00:00:14,089 --> 00:00:16,000
+and in this one we're going to take it a
+step further and talk about special
+
+12
+00:00:16,000 --> 00:00:16,010
+step further and talk about special
+ 
+
+13
+00:00:16,010 --> 00:00:18,519
+step further and talk about special
+situations like crafting magic items in
+
+14
+00:00:18,519 --> 00:00:18,529
+situations like crafting magic items in
+ 
+
+15
+00:00:18,529 --> 00:00:20,679
+situations like crafting magic items in
+forging weapons and armor from precious
+
+16
+00:00:20,679 --> 00:00:20,689
+forging weapons and armor from precious
+ 
+
+17
+00:00:20,689 --> 00:00:24,040
+forging weapons and armor from precious
+materials this video will be providing
+
+18
+00:00:24,040 --> 00:00:24,050
+materials this video will be providing
+ 
+
+19
+00:00:24,050 --> 00:00:26,409
+materials this video will be providing
+an overview of the process and if you
+
+20
+00:00:26,409 --> 00:00:26,419
+an overview of the process and if you
+ 
+
+21
+00:00:26,419 --> 00:00:27,970
+an overview of the process and if you
+would like to see examples of how
+
+22
+00:00:27,970 --> 00:00:27,980
+would like to see examples of how
+ 
+
+23
+00:00:27,980 --> 00:00:30,249
+would like to see examples of how
+crafting works then check out the
+
+24
+00:00:30,249 --> 00:00:30,259
+crafting works then check out the
+ 
+
+25
+00:00:30,259 --> 00:00:32,380
+crafting works then check out the
+companion video that is linked in the
+
+26
+00:00:32,380 --> 00:00:32,390
+companion video that is linked in the
+ 
+
+27
+00:00:32,390 --> 00:00:34,530
+companion video that is linked in the
+description
+
+28
+00:00:34,530 --> 00:00:34,540
+
+ 
+
+29
+00:00:34,540 --> 00:00:37,570
+
+crafting magic items works exactly like
+
+30
+00:00:37,570 --> 00:00:37,580
+crafting magic items works exactly like
+ 
+
+31
+00:00:37,580 --> 00:00:39,820
+crafting magic items works exactly like
+crafting everything else but there are a
+
+32
+00:00:39,820 --> 00:00:39,830
+crafting everything else but there are a
+ 
+
+33
+00:00:39,830 --> 00:00:41,920
+crafting everything else but there are a
+few points that you will want to pay
+
+34
+00:00:41,920 --> 00:00:41,930
+few points that you will want to pay
+ 
+
+35
+00:00:41,930 --> 00:00:46,000
+few points that you will want to pay
+close attention to first each type of an
+
+36
+00:00:46,000 --> 00:00:46,010
+close attention to first each type of an
+ 
+
+37
+00:00:46,010 --> 00:00:48,910
+close attention to first each type of an
+item requires a different formula to
+
+38
+00:00:48,910 --> 00:00:48,920
+item requires a different formula to
+ 
+
+39
+00:00:48,920 --> 00:00:51,700
+item requires a different formula to
+craft if an items listing shows multiple
+
+40
+00:00:51,700 --> 00:00:51,710
+craft if an items listing shows multiple
+ 
+
+41
+00:00:51,710 --> 00:00:55,210
+craft if an items listing shows multiple
+types then you need a separate formula
+
+42
+00:00:55,210 --> 00:00:55,220
+types then you need a separate formula
+ 
+
+43
+00:00:55,220 --> 00:00:58,780
+types then you need a separate formula
+to craft each type you cannot craft a
+
+44
+00:00:58,780 --> 00:00:58,790
+to craft each type you cannot craft a
+ 
+
+45
+00:00:58,790 --> 00:01:01,510
+to craft each type you cannot craft a
+greater coyote cloak with a regular
+
+46
+00:01:01,510 --> 00:01:01,520
+greater coyote cloak with a regular
+ 
+
+47
+00:01:01,520 --> 00:01:04,240
+greater coyote cloak with a regular
+coyote click formula and you can't craft
+
+48
+00:01:04,240 --> 00:01:04,250
+coyote click formula and you can't craft
+ 
+
+49
+00:01:04,250 --> 00:01:06,850
+coyote click formula and you can't craft
+a regular coyote cloak if you have a
+
+50
+00:01:06,850 --> 00:01:06,860
+a regular coyote cloak if you have a
+ 
+
+51
+00:01:06,860 --> 00:01:09,850
+a regular coyote cloak if you have a
+greater coyote click formula those are
+
+52
+00:01:09,850 --> 00:01:09,860
+greater coyote click formula those are
+ 
+
+53
+00:01:09,860 --> 00:01:11,950
+greater coyote click formula those are
+considered to be wholly separate items
+
+54
+00:01:11,950 --> 00:01:11,960
+considered to be wholly separate items
+ 
+
+55
+00:01:11,960 --> 00:01:15,640
+considered to be wholly separate items
+each requiring their own formula and
+
+56
+00:01:15,640 --> 00:01:15,650
+each requiring their own formula and
+ 
+
+57
+00:01:15,650 --> 00:01:17,680
+each requiring their own formula and
+second pay attention to the craft
+
+58
+00:01:17,680 --> 00:01:17,690
+second pay attention to the craft
+ 
+
+59
+00:01:17,690 --> 00:01:19,240
+second pay attention to the craft
+requirements section in the items
+
+60
+00:01:19,240 --> 00:01:19,250
+requirements section in the items
+ 
+
+61
+00:01:19,250 --> 00:01:21,760
+requirements section in the items
+description this area will show you
+
+62
+00:01:21,760 --> 00:01:21,770
+description this area will show you
+ 
+
+63
+00:01:21,770 --> 00:01:24,880
+description this area will show you
+anything extra needed beyond the norm in
+
+64
+00:01:24,880 --> 00:01:24,890
+anything extra needed beyond the norm in
+ 
+
+65
+00:01:24,890 --> 00:01:27,370
+anything extra needed beyond the norm in
+the previous course you learned that
+
+66
+00:01:27,370 --> 00:01:27,380
+the previous course you learned that
+ 
+
+67
+00:01:27,380 --> 00:01:29,380
+the previous course you learned that
+there are six requirements that must be
+
+68
+00:01:29,380 --> 00:01:29,390
+there are six requirements that must be
+ 
+
+69
+00:01:29,390 --> 00:01:32,140
+there are six requirements that must be
+met before you can start crafting we are
+
+70
+00:01:32,140 --> 00:01:32,150
+met before you can start crafting we are
+ 
+
+71
+00:01:32,150 --> 00:01:34,390
+met before you can start crafting we are
+essentially adding a seventh requirement
+
+72
+00:01:34,390 --> 00:01:34,400
+essentially adding a seventh requirement
+ 
+
+73
+00:01:34,400 --> 00:01:37,210
+essentially adding a seventh requirement
+here which is simply do whatever is
+
+74
+00:01:37,210 --> 00:01:37,220
+here which is simply do whatever is
+ 
+
+75
+00:01:37,220 --> 00:01:38,920
+here which is simply do whatever is
+listed under the craft requirements
+
+76
+00:01:38,920 --> 00:01:38,930
+listed under the craft requirements
+ 
+
+77
+00:01:38,930 --> 00:01:41,440
+listed under the craft requirements
+heading more often than not these
+
+78
+00:01:41,440 --> 00:01:41,450
+heading more often than not these
+ 
+
+79
+00:01:41,450 --> 00:01:43,240
+heading more often than not these
+requirements are going to say something
+
+80
+00:01:43,240 --> 00:01:43,250
+requirements are going to say something
+ 
+
+81
+00:01:43,250 --> 00:01:46,570
+requirements are going to say something
+to the effect of supply a listing level
+
+82
+00:01:46,570 --> 00:01:46,580
+to the effect of supply a listing level
+ 
+
+83
+00:01:46,580 --> 00:01:49,840
+to the effect of supply a listing level
+casting of the spell this means that
+
+84
+00:01:49,840 --> 00:01:49,850
+casting of the spell this means that
+ 
+
+85
+00:01:49,850 --> 00:01:52,410
+casting of the spell this means that
+during the initial four days of crafting
+
+86
+00:01:52,410 --> 00:01:52,420
+during the initial four days of crafting
+ 
+
+87
+00:01:52,420 --> 00:01:55,930
+during the initial four days of crafting
+someone must cast the specified spell at
+
+88
+00:01:55,930 --> 00:01:55,940
+someone must cast the specified spell at
+ 
+
+89
+00:01:55,940 --> 00:01:58,840
+someone must cast the specified spell at
+the required level in order for that
+
+90
+00:01:58,840 --> 00:01:58,850
+the required level in order for that
+ 
+
+91
+00:01:58,850 --> 00:02:01,690
+the required level in order for that
+item to be crafted so for example if
+
+92
+00:02:01,690 --> 00:02:01,700
+item to be crafted so for example if
+ 
+
+93
+00:02:01,700 --> 00:02:04,149
+item to be crafted so for example if
+you're making a major staff of AB
+
+94
+00:02:04,149 --> 00:02:04,159
+you're making a major staff of AB
+ 
+
+95
+00:02:04,159 --> 00:02:07,000
+you're making a major staff of AB
+duration then someone will need to cast
+
+96
+00:02:07,000 --> 00:02:07,010
+duration then someone will need to cast
+ 
+
+97
+00:02:07,010 --> 00:02:10,119
+duration then someone will need to cast
+alarm at first level and then cast alarm
+
+98
+00:02:10,119 --> 00:02:10,129
+alarm at first level and then cast alarm
+ 
+
+99
+00:02:10,129 --> 00:02:13,269
+alarm at first level and then cast alarm
+again heightened to third level and also
+
+100
+00:02:13,269 --> 00:02:13,279
+again heightened to third level and also
+ 
+
+101
+00:02:13,279 --> 00:02:14,350
+again heightened to third level and also
+cast
+
+102
+00:02:14,350 --> 00:02:14,360
+cast
+ 
+
+103
+00:02:14,360 --> 00:02:17,140
+cast
+magic once at second-level then again at
+
+104
+00:02:17,140 --> 00:02:17,150
+magic once at second-level then again at
+ 
+
+105
+00:02:17,150 --> 00:02:19,120
+magic once at second-level then again at
+fourth level and one more time
+
+106
+00:02:19,120 --> 00:02:19,130
+fourth level and one more time
+ 
+
+107
+00:02:19,130 --> 00:02:22,240
+fourth level and one more time
+heightened to 6th level and so on until
+
+108
+00:02:22,240 --> 00:02:22,250
+heightened to 6th level and so on until
+ 
+
+109
+00:02:22,250 --> 00:02:25,090
+heightened to 6th level and so on until
+all of the spells at all of their listed
+
+110
+00:02:25,090 --> 00:02:25,100
+all of the spells at all of their listed
+ 
+
+111
+00:02:25,100 --> 00:02:28,120
+all of the spells at all of their listed
+levels have been cast you would not need
+
+112
+00:02:28,120 --> 00:02:28,130
+levels have been cast you would not need
+ 
+
+113
+00:02:28,130 --> 00:02:30,550
+levels have been cast you would not need
+to cast shield as part of the crafting
+
+114
+00:02:30,550 --> 00:02:30,560
+to cast shield as part of the crafting
+ 
+
+115
+00:02:30,560 --> 00:02:33,790
+to cast shield as part of the crafting
+process because can trips are not listed
+
+116
+00:02:33,790 --> 00:02:33,800
+process because can trips are not listed
+ 
+
+117
+00:02:33,800 --> 00:02:37,330
+process because can trips are not listed
+level spells when casting spells to meet
+
+118
+00:02:37,330 --> 00:02:37,340
+level spells when casting spells to meet
+ 
+
+119
+00:02:37,340 --> 00:02:39,700
+level spells when casting spells to meet
+a crafting requirement remember these
+
+120
+00:02:39,700 --> 00:02:39,710
+a crafting requirement remember these
+ 
+
+121
+00:02:39,710 --> 00:02:43,420
+a crafting requirement remember these
+key points first the person who is doing
+
+122
+00:02:43,420 --> 00:02:43,430
+key points first the person who is doing
+ 
+
+123
+00:02:43,430 --> 00:02:46,660
+key points first the person who is doing
+the crafting does not need to be the one
+
+124
+00:02:46,660 --> 00:02:46,670
+the crafting does not need to be the one
+ 
+
+125
+00:02:46,670 --> 00:02:49,480
+the crafting does not need to be the one
+casting the spell there's no requirement
+
+126
+00:02:49,480 --> 00:02:49,490
+casting the spell there's no requirement
+ 
+
+127
+00:02:49,490 --> 00:02:51,550
+casting the spell there's no requirement
+for them beyond having the magical
+
+128
+00:02:51,550 --> 00:02:51,560
+for them beyond having the magical
+ 
+
+129
+00:02:51,560 --> 00:02:54,520
+for them beyond having the magical
+crafting feat therefore anyone can be
+
+130
+00:02:54,520 --> 00:02:54,530
+crafting feat therefore anyone can be
+ 
+
+131
+00:02:54,530 --> 00:02:56,890
+crafting feat therefore anyone can be
+the one who actually cast the spell if
+
+132
+00:02:56,890 --> 00:02:56,900
+the one who actually cast the spell if
+ 
+
+133
+00:02:56,900 --> 00:03:00,490
+the one who actually cast the spell if
+you're making a fireball scroll you do
+
+134
+00:03:00,490 --> 00:03:00,500
+you're making a fireball scroll you do
+ 
+
+135
+00:03:00,500 --> 00:03:02,830
+you're making a fireball scroll you do
+not need to know how to cast the
+
+136
+00:03:02,830 --> 00:03:02,840
+not need to know how to cast the
+ 
+
+137
+00:03:02,840 --> 00:03:06,040
+not need to know how to cast the
+fireball spell yourself but instead can
+
+138
+00:03:06,040 --> 00:03:06,050
+fireball spell yourself but instead can
+ 
+
+139
+00:03:06,050 --> 00:03:08,260
+fireball spell yourself but instead can
+have a friend cast the spell for you as
+
+140
+00:03:08,260 --> 00:03:08,270
+have a friend cast the spell for you as
+ 
+
+141
+00:03:08,270 --> 00:03:12,280
+have a friend cast the spell for you as
+part of the crafting process second a
+
+142
+00:03:12,280 --> 00:03:12,290
+part of the crafting process second a
+ 
+
+143
+00:03:12,290 --> 00:03:15,550
+part of the crafting process second a
+spell slot must be used when casting the
+
+144
+00:03:15,550 --> 00:03:15,560
+spell slot must be used when casting the
+ 
+
+145
+00:03:15,560 --> 00:03:18,310
+spell slot must be used when casting the
+spell in other words you can't use a
+
+146
+00:03:18,310 --> 00:03:18,320
+spell in other words you can't use a
+ 
+
+147
+00:03:18,320 --> 00:03:21,430
+spell in other words you can't use a
+charge from a staff or a wand to cast
+
+148
+00:03:21,430 --> 00:03:21,440
+charge from a staff or a wand to cast
+ 
+
+149
+00:03:21,440 --> 00:03:23,530
+charge from a staff or a wand to cast
+the spell that's needed to craft another
+
+150
+00:03:23,530 --> 00:03:23,540
+the spell that's needed to craft another
+ 
+
+151
+00:03:23,540 --> 00:03:26,800
+the spell that's needed to craft another
+staff or want the energy of the spell
+
+152
+00:03:26,800 --> 00:03:26,810
+staff or want the energy of the spell
+ 
+
+153
+00:03:26,810 --> 00:03:30,940
+staff or want the energy of the spell
+must come from a person third there are
+
+154
+00:03:30,940 --> 00:03:30,950
+must come from a person third there are
+ 
+
+155
+00:03:30,950 --> 00:03:33,449
+must come from a person third there are
+no other effects when casting the spell
+
+156
+00:03:33,449 --> 00:03:33,459
+no other effects when casting the spell
+ 
+
+157
+00:03:33,459 --> 00:03:36,430
+no other effects when casting the spell
+when you cast a fireball spell for the
+
+158
+00:03:36,430 --> 00:03:36,440
+when you cast a fireball spell for the
+ 
+
+159
+00:03:36,440 --> 00:03:39,039
+when you cast a fireball spell for the
+purpose of creating a fireball scroll
+
+160
+00:03:39,039 --> 00:03:39,049
+purpose of creating a fireball scroll
+ 
+
+161
+00:03:39,049 --> 00:03:41,490
+purpose of creating a fireball scroll
+you're not going to blow up your house
+
+162
+00:03:41,490 --> 00:03:41,500
+you're not going to blow up your house
+ 
+
+163
+00:03:41,500 --> 00:03:44,560
+you're not going to blow up your house
+likewise when casting a wish spell to
+
+164
+00:03:44,560 --> 00:03:44,570
+likewise when casting a wish spell to
+ 
+
+165
+00:03:44,570 --> 00:03:47,500
+likewise when casting a wish spell to
+make a luck blade you don't also get to
+
+166
+00:03:47,500 --> 00:03:47,510
+make a luck blade you don't also get to
+ 
+
+167
+00:03:47,510 --> 00:03:50,110
+make a luck blade you don't also get to
+make a wish the energy of the spell is
+
+168
+00:03:50,110 --> 00:03:50,120
+make a wish the energy of the spell is
+ 
+
+169
+00:03:50,120 --> 00:03:52,570
+make a wish the energy of the spell is
+safely transferred to the item and there
+
+170
+00:03:52,570 --> 00:03:52,580
+safely transferred to the item and there
+ 
+
+171
+00:03:52,580 --> 00:03:56,350
+safely transferred to the item and there
+are no other effects and last when
+
+172
+00:03:56,350 --> 00:03:56,360
+are no other effects and last when
+ 
+
+173
+00:03:56,360 --> 00:03:58,420
+are no other effects and last when
+casting a spell as part of a crafting
+
+174
+00:03:58,420 --> 00:03:58,430
+casting a spell as part of a crafting
+ 
+
+175
+00:03:58,430 --> 00:04:00,940
+casting a spell as part of a crafting
+requirement you will likely need to pay
+
+176
+00:04:00,940 --> 00:04:00,950
+requirement you will likely need to pay
+ 
+
+177
+00:04:00,950 --> 00:04:03,550
+requirement you will likely need to pay
+any associated cost with casting that
+
+178
+00:04:03,550 --> 00:04:03,560
+any associated cost with casting that
+ 
+
+179
+00:04:03,560 --> 00:04:07,360
+any associated cost with casting that
+spell except if you are making a staff
+
+180
+00:04:07,360 --> 00:04:07,370
+spell except if you are making a staff
+ 
+
+181
+00:04:07,370 --> 00:04:11,199
+spell except if you are making a staff
+or a wand so for example you're crafting
+
+182
+00:04:11,199 --> 00:04:11,209
+or a wand so for example you're crafting
+ 
+
+183
+00:04:11,209 --> 00:04:14,280
+or a wand so for example you're crafting
+a second level scroll of continual flame
+
+184
+00:04:14,280 --> 00:04:14,290
+a second level scroll of continual flame
+ 
+
+185
+00:04:14,290 --> 00:04:17,830
+a second level scroll of continual flame
+it says here that there is a cost of six
+
+186
+00:04:17,830 --> 00:04:17,840
+it says here that there is a cost of six
+ 
+
+187
+00:04:17,840 --> 00:04:20,349
+it says here that there is a cost of six
+gold worth of Ruby dust in order to
+
+188
+00:04:20,349 --> 00:04:20,359
+gold worth of Ruby dust in order to
+ 
+
+189
+00:04:20,359 --> 00:04:23,320
+gold worth of Ruby dust in order to
+catch continual flame if you're making a
+
+190
+00:04:23,320 --> 00:04:23,330
+catch continual flame if you're making a
+ 
+
+191
+00:04:23,330 --> 00:04:25,180
+catch continual flame if you're making a
+second level scroll of continual flame
+
+192
+00:04:25,180 --> 00:04:25,190
+second level scroll of continual flame
+ 
+
+193
+00:04:25,190 --> 00:04:28,150
+second level scroll of continual flame
+then you must provide that cost
+
+194
+00:04:28,150 --> 00:04:28,160
+then you must provide that cost
+ 
+
+195
+00:04:28,160 --> 00:04:30,520
+then you must provide that cost
+in addition to the irregular cost of
+
+196
+00:04:30,520 --> 00:04:30,530
+in addition to the irregular cost of
+ 
+
+197
+00:04:30,530 --> 00:04:33,880
+in addition to the irregular cost of
+crafting but staffs and wands are
+
+198
+00:04:33,880 --> 00:04:33,890
+crafting but staffs and wands are
+ 
+
+199
+00:04:33,890 --> 00:04:35,650
+crafting but staffs and wands are
+different if you're making a
+
+200
+00:04:35,650 --> 00:04:35,660
+different if you're making a
+ 
+
+201
+00:04:35,660 --> 00:04:36,430
+different if you're making a
+second-level
+
+202
+00:04:36,430 --> 00:04:36,440
+second-level
+ 
+
+203
+00:04:36,440 --> 00:04:39,340
+second-level
+wand of continual flame you do not
+
+204
+00:04:39,340 --> 00:04:39,350
+wand of continual flame you do not
+ 
+
+205
+00:04:39,350 --> 00:04:42,520
+wand of continual flame you do not
+provide any of the usual spell cost when
+
+206
+00:04:42,520 --> 00:04:42,530
+provide any of the usual spell cost when
+ 
+
+207
+00:04:42,530 --> 00:04:44,940
+provide any of the usual spell cost when
+casting the spell as part of crafting
+
+208
+00:04:44,940 --> 00:04:44,950
+casting the spell as part of crafting
+ 
+
+209
+00:04:44,950 --> 00:04:47,620
+casting the spell as part of crafting
+although I haven't seen it spelled out
+
+210
+00:04:47,620 --> 00:04:47,630
+although I haven't seen it spelled out
+ 
+
+211
+00:04:47,630 --> 00:04:50,020
+although I haven't seen it spelled out
+in the rules I believe the key
+
+212
+00:04:50,020 --> 00:04:50,030
+in the rules I believe the key
+ 
+
+213
+00:04:50,030 --> 00:04:51,850
+in the rules I believe the key
+distinction here is that when someone
+
+214
+00:04:51,850 --> 00:04:51,860
+distinction here is that when someone
+ 
+
+215
+00:04:51,860 --> 00:04:55,180
+distinction here is that when someone
+uses a scroll it is consumed and you do
+
+216
+00:04:55,180 --> 00:04:55,190
+uses a scroll it is consumed and you do
+ 
+
+217
+00:04:55,190 --> 00:04:57,520
+uses a scroll it is consumed and you do
+not need to provide spell cost at the
+
+218
+00:04:57,520 --> 00:04:57,530
+not need to provide spell cost at the
+ 
+
+219
+00:04:57,530 --> 00:05:00,910
+not need to provide spell cost at the
+time that the scroll is used but with
+
+220
+00:05:00,910 --> 00:05:00,920
+time that the scroll is used but with
+ 
+
+221
+00:05:00,920 --> 00:05:02,500
+time that the scroll is used but with
+stabs and wands which are not
+
+222
+00:05:02,500 --> 00:05:02,510
+stabs and wands which are not
+ 
+
+223
+00:05:02,510 --> 00:05:05,500
+stabs and wands which are not
+consumables you do need to provide the
+
+224
+00:05:05,500 --> 00:05:05,510
+consumables you do need to provide the
+ 
+
+225
+00:05:05,510 --> 00:05:08,680
+consumables you do need to provide the
+cost each time the spell is cast using
+
+226
+00:05:08,680 --> 00:05:08,690
+cost each time the spell is cast using
+ 
+
+227
+00:05:08,690 --> 00:05:11,320
+cost each time the spell is cast using
+the staffer wand and therefore you do
+
+228
+00:05:11,320 --> 00:05:11,330
+the staffer wand and therefore you do
+ 
+
+229
+00:05:11,330 --> 00:05:14,140
+the staffer wand and therefore you do
+not also need to pay that spell cost
+
+230
+00:05:14,140 --> 00:05:14,150
+not also need to pay that spell cost
+ 
+
+231
+00:05:14,150 --> 00:05:16,770
+not also need to pay that spell cost
+upfront when making the staff or wand
+
+232
+00:05:16,770 --> 00:05:16,780
+upfront when making the staff or wand
+ 
+
+233
+00:05:16,780 --> 00:05:19,660
+upfront when making the staff or wand
+bottom line is you should only be paying
+
+234
+00:05:19,660 --> 00:05:19,670
+bottom line is you should only be paying
+ 
+
+235
+00:05:19,670 --> 00:05:22,990
+bottom line is you should only be paying
+the cost once per actual use of a spell
+
+236
+00:05:22,990 --> 00:05:23,000
+the cost once per actual use of a spell
+ 
+
+237
+00:05:23,000 --> 00:05:26,110
+the cost once per actual use of a spell
+and while we're on the topic of spells
+
+238
+00:05:26,110 --> 00:05:26,120
+and while we're on the topic of spells
+ 
+
+239
+00:05:26,120 --> 00:05:28,060
+and while we're on the topic of spells
+and magic items it may be worth
+
+240
+00:05:28,060 --> 00:05:28,070
+and magic items it may be worth
+ 
+
+241
+00:05:28,070 --> 00:05:30,850
+and magic items it may be worth
+mentioning that magic scrolls and wands
+
+242
+00:05:30,850 --> 00:05:30,860
+mentioning that magic scrolls and wands
+ 
+
+243
+00:05:30,860 --> 00:05:35,020
+mentioning that magic scrolls and wands
+cannot be used to cast hand trips focus
+
+244
+00:05:35,020 --> 00:05:35,030
+cannot be used to cast hand trips focus
+ 
+
+245
+00:05:35,030 --> 00:05:37,510
+cannot be used to cast hand trips focus
+spells or rituals they can only be
+
+246
+00:05:37,510 --> 00:05:37,520
+spells or rituals they can only be
+ 
+
+247
+00:05:37,520 --> 00:05:40,330
+spells or rituals they can only be
+crafted to cast regular spells you
+
+248
+00:05:40,330 --> 00:05:40,340
+crafted to cast regular spells you
+ 
+
+249
+00:05:40,340 --> 00:05:42,820
+crafted to cast regular spells you
+cannot create a wand to cast your
+
+250
+00:05:42,820 --> 00:05:42,830
+cannot create a wand to cast your
+ 
+
+251
+00:05:42,830 --> 00:05:46,300
+cannot create a wand to cast your
+favorite focus spell or make a scroll to
+
+252
+00:05:46,300 --> 00:05:46,310
+favorite focus spell or make a scroll to
+ 
+
+253
+00:05:46,310 --> 00:05:49,420
+favorite focus spell or make a scroll to
+cast a ritual and also don't make
+
+254
+00:05:49,420 --> 00:05:49,430
+cast a ritual and also don't make
+ 
+
+255
+00:05:49,430 --> 00:05:51,550
+cast a ritual and also don't make
+assumptions about when you need to have
+
+256
+00:05:51,550 --> 00:05:51,560
+assumptions about when you need to have
+ 
+
+257
+00:05:51,560 --> 00:05:54,640
+assumptions about when you need to have
+a spell cast as part of crafting if it
+
+258
+00:05:54,640 --> 00:05:54,650
+a spell cast as part of crafting if it
+ 
+
+259
+00:05:54,650 --> 00:05:56,710
+a spell cast as part of crafting if it
+doesn't say that you need to then you
+
+260
+00:05:56,710 --> 00:05:56,720
+doesn't say that you need to then you
+ 
+
+261
+00:05:56,720 --> 00:05:59,980
+doesn't say that you need to then you
+don't the skeleton key for example cast
+
+262
+00:05:59,980 --> 00:05:59,990
+don't the skeleton key for example cast
+ 
+
+263
+00:05:59,990 --> 00:06:03,190
+don't the skeleton key for example cast
+the NOC spell when it is used but does
+
+264
+00:06:03,190 --> 00:06:03,200
+the NOC spell when it is used but does
+ 
+
+265
+00:06:03,200 --> 00:06:05,770
+the NOC spell when it is used but does
+not require a knock spell to be cast
+
+266
+00:06:05,770 --> 00:06:05,780
+not require a knock spell to be cast
+ 
+
+267
+00:06:05,780 --> 00:06:08,980
+not require a knock spell to be cast
+when crafting a skeleton key likewise
+
+268
+00:06:08,980 --> 00:06:08,990
+when crafting a skeleton key likewise
+ 
+
+269
+00:06:08,990 --> 00:06:11,290
+when crafting a skeleton key likewise
+people sometimes assume that potions
+
+270
+00:06:11,290 --> 00:06:11,300
+people sometimes assume that potions
+ 
+
+271
+00:06:11,300 --> 00:06:12,880
+people sometimes assume that potions
+that cast spells when you drink them
+
+272
+00:06:12,880 --> 00:06:12,890
+that cast spells when you drink them
+ 
+
+273
+00:06:12,890 --> 00:06:15,640
+that cast spells when you drink them
+require the spells to be cast when you
+
+274
+00:06:15,640 --> 00:06:15,650
+require the spells to be cast when you
+ 
+
+275
+00:06:15,650 --> 00:06:18,400
+require the spells to be cast when you
+are making and brewing this potion but
+
+276
+00:06:18,400 --> 00:06:18,410
+are making and brewing this potion but
+ 
+
+277
+00:06:18,410 --> 00:06:20,530
+are making and brewing this potion but
+it is incredibly rare for that to be the
+
+278
+00:06:20,530 --> 00:06:20,540
+it is incredibly rare for that to be the
+ 
+
+279
+00:06:20,540 --> 00:06:23,560
+it is incredibly rare for that to be the
+case barks can potions for example do
+
+280
+00:06:23,560 --> 00:06:23,570
+case barks can potions for example do
+ 
+
+281
+00:06:23,570 --> 00:06:26,590
+case barks can potions for example do
+not require anyone to cast the bark skin
+
+282
+00:06:26,590 --> 00:06:26,600
+not require anyone to cast the bark skin
+ 
+
+283
+00:06:26,600 --> 00:06:29,170
+not require anyone to cast the bark skin
+spell when brewing them in fact the
+
+284
+00:06:29,170 --> 00:06:29,180
+spell when brewing them in fact the
+ 
+
+285
+00:06:29,180 --> 00:06:30,970
+spell when brewing them in fact the
+person who is crafting the bark skin
+
+286
+00:06:30,970 --> 00:06:30,980
+person who is crafting the bark skin
+ 
+
+287
+00:06:30,980 --> 00:06:33,760
+person who is crafting the bark skin
+potion doesn't even need to know how to
+
+288
+00:06:33,760 --> 00:06:33,770
+potion doesn't even need to know how to
+ 
+
+289
+00:06:33,770 --> 00:06:35,680
+potion doesn't even need to know how to
+cast that spell or have the ability to
+
+290
+00:06:35,680 --> 00:06:35,690
+cast that spell or have the ability to
+ 
+
+291
+00:06:35,690 --> 00:06:38,230
+cast that spell or have the ability to
+cast metals all the information needed
+
+292
+00:06:38,230 --> 00:06:38,240
+cast metals all the information needed
+ 
+
+293
+00:06:38,240 --> 00:06:41,440
+cast metals all the information needed
+to brew that potion is entirely included
+
+294
+00:06:41,440 --> 00:06:41,450
+to brew that potion is entirely included
+ 
+
+295
+00:06:41,450 --> 00:06:41,900
+to brew that potion is entirely included
+in
+
+296
+00:06:41,900 --> 00:06:41,910
+in
+ 
+
+297
+00:06:41,910 --> 00:06:46,520
+in
+Formula beyond these tweaks crafting
+
+298
+00:06:46,520 --> 00:06:46,530
+Formula beyond these tweaks crafting
+ 
+
+299
+00:06:46,530 --> 00:06:50,150
+Formula beyond these tweaks crafting
+items regardless if they are won scrolls
+
+300
+00:06:50,150 --> 00:06:50,160
+items regardless if they are won scrolls
+ 
+
+301
+00:06:50,160 --> 00:06:53,420
+items regardless if they are won scrolls
+potions wondrous items whatever they all
+
+302
+00:06:53,420 --> 00:06:53,430
+potions wondrous items whatever they all
+ 
+
+303
+00:06:53,430 --> 00:06:56,330
+potions wondrous items whatever they all
+work exactly as we outlined in the
+
+304
+00:06:56,330 --> 00:06:56,340
+work exactly as we outlined in the
+ 
+
+305
+00:06:56,340 --> 00:06:58,940
+work exactly as we outlined in the
+previous course you need to provide 50%
+
+306
+00:06:58,940 --> 00:06:58,950
+previous course you need to provide 50%
+ 
+
+307
+00:06:58,950 --> 00:07:01,310
+previous course you need to provide 50%
+of the cost of materials upfront and
+
+308
+00:07:01,310 --> 00:07:01,320
+of the cost of materials upfront and
+ 
+
+309
+00:07:01,320 --> 00:07:04,430
+of the cost of materials upfront and
+spend four days working at the end of
+
+310
+00:07:04,430 --> 00:07:04,440
+spend four days working at the end of
+ 
+
+311
+00:07:04,440 --> 00:07:07,100
+spend four days working at the end of
+which you make a crafting skill check if
+
+312
+00:07:07,100 --> 00:07:07,110
+which you make a crafting skill check if
+ 
+
+313
+00:07:07,110 --> 00:07:09,320
+which you make a crafting skill check if
+successful you can either choose to pay
+
+314
+00:07:09,320 --> 00:07:09,330
+successful you can either choose to pay
+ 
+
+315
+00:07:09,330 --> 00:07:12,170
+successful you can either choose to pay
+off the remaining balance or spend
+
+316
+00:07:12,170 --> 00:07:12,180
+off the remaining balance or spend
+ 
+
+317
+00:07:12,180 --> 00:07:13,970
+off the remaining balance or spend
+another day working to lower that
+
+318
+00:07:13,970 --> 00:07:13,980
+another day working to lower that
+ 
+
+319
+00:07:13,980 --> 00:07:17,150
+another day working to lower that
+balance and since potions and Scrolls
+
+320
+00:07:17,150 --> 00:07:17,160
+balance and since potions and Scrolls
+ 
+
+321
+00:07:17,160 --> 00:07:20,390
+balance and since potions and Scrolls
+are consumable items they can be made in
+
+322
+00:07:20,390 --> 00:07:20,400
+are consumable items they can be made in
+ 
+
+323
+00:07:20,400 --> 00:07:23,510
+are consumable items they can be made in
+batches of four
+
+324
+00:07:23,510 --> 00:07:23,520
+
+ 
+
+325
+00:07:23,520 --> 00:07:26,900
+
+in addition to magic items we also want
+
+326
+00:07:26,900 --> 00:07:26,910
+in addition to magic items we also want
+ 
+
+327
+00:07:26,910 --> 00:07:29,150
+in addition to magic items we also want
+to discuss forging weapons and items
+
+328
+00:07:29,150 --> 00:07:29,160
+to discuss forging weapons and items
+ 
+
+329
+00:07:29,160 --> 00:07:32,600
+to discuss forging weapons and items
+with uncommon materials the items we
+
+330
+00:07:32,600 --> 00:07:32,610
+with uncommon materials the items we
+ 
+
+331
+00:07:32,610 --> 00:07:34,610
+with uncommon materials the items we
+discussed in our crafting part 1 video
+
+332
+00:07:34,610 --> 00:07:34,620
+discussed in our crafting part 1 video
+ 
+
+333
+00:07:34,620 --> 00:07:37,159
+discussed in our crafting part 1 video
+all assume that you are using mundane
+
+334
+00:07:37,159 --> 00:07:37,169
+all assume that you are using mundane
+ 
+
+335
+00:07:37,169 --> 00:07:40,219
+all assume that you are using mundane
+materials like wood or iron but in the
+
+336
+00:07:40,219 --> 00:07:40,229
+materials like wood or iron but in the
+ 
+
+337
+00:07:40,229 --> 00:07:42,529
+materials like wood or iron but in the
+world of Pathfinder there are many more
+
+338
+00:07:42,529 --> 00:07:42,539
+world of Pathfinder there are many more
+ 
+
+339
+00:07:42,539 --> 00:07:44,540
+world of Pathfinder there are many more
+exotic materials that can be used when
+
+340
+00:07:44,540 --> 00:07:44,550
+exotic materials that can be used when
+ 
+
+341
+00:07:44,550 --> 00:07:48,309
+exotic materials that can be used when
+crafting such as cold iron or adamantine
+
+342
+00:07:48,309 --> 00:07:48,319
+crafting such as cold iron or adamantine
+ 
+
+343
+00:07:48,319 --> 00:07:51,080
+crafting such as cold iron or adamantine
+crafting weapons or armor with precious
+
+344
+00:07:51,080 --> 00:07:51,090
+crafting weapons or armor with precious
+ 
+
+345
+00:07:51,090 --> 00:07:53,809
+crafting weapons or armor with precious
+materials is pretty simple it works just
+
+346
+00:07:53,809 --> 00:07:53,819
+materials is pretty simple it works just
+ 
+
+347
+00:07:53,819 --> 00:07:56,120
+materials is pretty simple it works just
+like a regular crafting but there are a
+
+348
+00:07:56,120 --> 00:07:56,130
+like a regular crafting but there are a
+ 
+
+349
+00:07:56,130 --> 00:07:58,129
+like a regular crafting but there are a
+few special points that we need to
+
+350
+00:07:58,129 --> 00:07:58,139
+few special points that we need to
+ 
+
+351
+00:07:58,139 --> 00:08:01,399
+few special points that we need to
+discuss as usual you must provide
+
+352
+00:08:01,399 --> 00:08:01,409
+discuss as usual you must provide
+ 
+
+353
+00:08:01,409 --> 00:08:04,490
+discuss as usual you must provide
+materials equal to 50% of the items
+
+354
+00:08:04,490 --> 00:08:04,500
+materials equal to 50% of the items
+ 
+
+355
+00:08:04,500 --> 00:08:07,370
+materials equal to 50% of the items
+price upfront but if you're making
+
+356
+00:08:07,370 --> 00:08:07,380
+price upfront but if you're making
+ 
+
+357
+00:08:07,380 --> 00:08:09,379
+price upfront but if you're making
+something with precious materials
+
+358
+00:08:09,379 --> 00:08:09,389
+something with precious materials
+ 
+
+359
+00:08:09,389 --> 00:08:11,990
+something with precious materials
+you can't just pay the cost out of your
+
+360
+00:08:11,990 --> 00:08:12,000
+you can't just pay the cost out of your
+ 
+
+361
+00:08:12,000 --> 00:08:15,559
+you can't just pay the cost out of your
+pocket in gold or silver coins instead
+
+362
+00:08:15,559 --> 00:08:15,569
+pocket in gold or silver coins instead
+ 
+
+363
+00:08:15,569 --> 00:08:18,379
+pocket in gold or silver coins instead
+you have to somehow source the precious
+
+364
+00:08:18,379 --> 00:08:18,389
+you have to somehow source the precious
+ 
+
+365
+00:08:18,389 --> 00:08:20,990
+you have to somehow source the precious
+material that's needed as well for
+
+366
+00:08:20,990 --> 00:08:21,000
+material that's needed as well for
+ 
+
+367
+00:08:21,000 --> 00:08:23,510
+material that's needed as well for
+example you want to forge a cold iron
+
+368
+00:08:23,510 --> 00:08:23,520
+example you want to forge a cold iron
+ 
+
+369
+00:08:23,520 --> 00:08:26,600
+example you want to forge a cold iron
+Warhammer when we look at the stats for
+
+370
+00:08:26,600 --> 00:08:26,610
+Warhammer when we look at the stats for
+ 
+
+371
+00:08:26,610 --> 00:08:29,839
+Warhammer when we look at the stats for
+cold iron weapons we see a few things
+
+372
+00:08:29,839 --> 00:08:29,849
+cold iron weapons we see a few things
+ 
+
+373
+00:08:29,849 --> 00:08:33,110
+cold iron weapons we see a few things
+worth noting first precious materials
+
+374
+00:08:33,110 --> 00:08:33,120
+worth noting first precious materials
+ 
+
+375
+00:08:33,120 --> 00:08:36,230
+worth noting first precious materials
+are categorized as being low grade
+
+376
+00:08:36,230 --> 00:08:36,240
+are categorized as being low grade
+ 
+
+377
+00:08:36,240 --> 00:08:39,769
+are categorized as being low grade
+standard grade or high grade each with
+
+378
+00:08:39,769 --> 00:08:39,779
+standard grade or high grade each with
+ 
+
+379
+00:08:39,779 --> 00:08:42,350
+standard grade or high grade each with
+their own stats like how magic items are
+
+380
+00:08:42,350 --> 00:08:42,360
+their own stats like how magic items are
+ 
+
+381
+00:08:42,360 --> 00:08:46,160
+their own stats like how magic items are
+listed with varying types each grade
+
+382
+00:08:46,160 --> 00:08:46,170
+listed with varying types each grade
+ 
+
+383
+00:08:46,170 --> 00:08:49,220
+listed with varying types each grade
+requires a different formula so if you
+
+384
+00:08:49,220 --> 00:08:49,230
+requires a different formula so if you
+ 
+
+385
+00:08:49,230 --> 00:08:51,319
+requires a different formula so if you
+have the formula to craft a low grade
+
+386
+00:08:51,319 --> 00:08:51,329
+have the formula to craft a low grade
+ 
+
+387
+00:08:51,329 --> 00:08:54,740
+have the formula to craft a low grade
+cold iron weapon you can't use that same
+
+388
+00:08:54,740 --> 00:08:54,750
+cold iron weapon you can't use that same
+ 
+
+389
+00:08:54,750 --> 00:08:58,100
+cold iron weapon you can't use that same
+formula to make a standard grade called
+
+390
+00:08:58,100 --> 00:08:58,110
+formula to make a standard grade called
+ 
+
+391
+00:08:58,110 --> 00:09:02,750
+formula to make a standard grade called
+iron weapon we also see it has a listed
+
+392
+00:09:02,750 --> 00:09:02,760
+iron weapon we also see it has a listed
+ 
+
+393
+00:09:02,760 --> 00:09:07,069
+iron weapon we also see it has a listed
+level more hammers are level 0 but when
+
+394
+00:09:07,069 --> 00:09:07,079
+level more hammers are level 0 but when
+ 
+
+395
+00:09:07,079 --> 00:09:09,560
+level more hammers are level 0 but when
+crafting with precious materials you
+
+396
+00:09:09,560 --> 00:09:09,570
+crafting with precious materials you
+ 
+
+397
+00:09:09,570 --> 00:09:12,530
+crafting with precious materials you
+must meet or exceed the level of the
+
+398
+00:09:12,530 --> 00:09:12,540
+must meet or exceed the level of the
+ 
+
+399
+00:09:12,540 --> 00:09:16,250
+must meet or exceed the level of the
+base item or the material whichever is
+
+400
+00:09:16,250 --> 00:09:16,260
+base item or the material whichever is
+ 
+
+401
+00:09:16,260 --> 00:09:18,920
+base item or the material whichever is
+higher so you would need to be at least
+
+402
+00:09:18,920 --> 00:09:18,930
+higher so you would need to be at least
+ 
+
+403
+00:09:18,930 --> 00:09:22,579
+higher so you would need to be at least
+2nd level to craft a low grade cold iron
+
+404
+00:09:22,579 --> 00:09:22,589
+2nd level to craft a low grade cold iron
+ 
+
+405
+00:09:22,589 --> 00:09:25,880
+2nd level to craft a low grade cold iron
+Warhammer and 10th level to make a
+
+406
+00:09:25,880 --> 00:09:25,890
+Warhammer and 10th level to make a
+ 
+
+407
+00:09:25,890 --> 00:09:29,000
+Warhammer and 10th level to make a
+standard grade hammer but the big
+
+408
+00:09:29,000 --> 00:09:29,010
+standard grade hammer but the big
+ 
+
+409
+00:09:29,010 --> 00:09:31,449
+standard grade hammer but the big
+difference comes when we look at price
+
+410
+00:09:31,449 --> 00:09:31,459
+difference comes when we look at price
+ 
+
+411
+00:09:31,459 --> 00:09:35,300
+difference comes when we look at price
+here price is based on the bulk of the
+
+412
+00:09:35,300 --> 00:09:35,310
+here price is based on the bulk of the
+ 
+
+413
+00:09:35,310 --> 00:09:37,120
+here price is based on the bulk of the
+item that we are making
+
+414
+00:09:37,120 --> 00:09:37,130
+item that we are making
+ 
+
+415
+00:09:37,130 --> 00:09:41,230
+item that we are making
+in this case a warhammer is one bulk so
+
+416
+00:09:41,230 --> 00:09:41,240
+in this case a warhammer is one bulk so
+ 
+
+417
+00:09:41,240 --> 00:09:44,920
+in this case a warhammer is one bulk so
+a low-grade cold iron warhammer has a
+
+418
+00:09:44,920 --> 00:09:44,930
+a low-grade cold iron warhammer has a
+ 
+
+419
+00:09:44,930 --> 00:09:48,550
+a low-grade cold iron warhammer has a
+price of forty gold plus four per bulk
+
+420
+00:09:48,550 --> 00:09:48,560
+price of forty gold plus four per bulk
+ 
+
+421
+00:09:48,560 --> 00:09:50,820
+price of forty gold plus four per bulk
+making the price of this hammer
+
+422
+00:09:50,820 --> 00:09:50,830
+making the price of this hammer
+ 
+
+423
+00:09:50,830 --> 00:09:55,150
+making the price of this hammer
+forty-four gold this is the same price
+
+424
+00:09:55,150 --> 00:09:55,160
+forty-four gold this is the same price
+ 
+
+425
+00:09:55,160 --> 00:09:58,420
+forty-four gold this is the same price
+for any weapon that is only one bulk you
+
+426
+00:09:58,420 --> 00:09:58,430
+for any weapon that is only one bulk you
+ 
+
+427
+00:09:58,430 --> 00:10:01,030
+for any weapon that is only one bulk you
+do not add the cost of a normal war
+
+428
+00:10:01,030 --> 00:10:01,040
+do not add the cost of a normal war
+ 
+
+429
+00:10:01,040 --> 00:10:04,150
+do not add the cost of a normal war
+hammer to this also note that you always
+
+430
+00:10:04,150 --> 00:10:04,160
+hammer to this also note that you always
+ 
+
+431
+00:10:04,160 --> 00:10:07,450
+hammer to this also note that you always
+need to pay for at least one bulk so if
+
+432
+00:10:07,450 --> 00:10:07,460
+need to pay for at least one bulk so if
+ 
+
+433
+00:10:07,460 --> 00:10:09,220
+need to pay for at least one bulk so if
+the item that you are crafting is light
+
+434
+00:10:09,220 --> 00:10:09,230
+the item that you are crafting is light
+ 
+
+435
+00:10:09,230 --> 00:10:12,040
+the item that you are crafting is light
+bulk then you treat it as being one bulk
+
+436
+00:10:12,040 --> 00:10:12,050
+bulk then you treat it as being one bulk
+ 
+
+437
+00:10:12,050 --> 00:10:14,580
+bulk then you treat it as being one bulk
+for the purpose of calculating its price
+
+438
+00:10:14,580 --> 00:10:14,590
+for the purpose of calculating its price
+ 
+
+439
+00:10:14,590 --> 00:10:17,530
+for the purpose of calculating its price
+when we start crafting we must provide
+
+440
+00:10:17,530 --> 00:10:17,540
+when we start crafting we must provide
+ 
+
+441
+00:10:17,540 --> 00:10:20,230
+when we start crafting we must provide
+materials equal to 50% of the price up
+
+442
+00:10:20,230 --> 00:10:20,240
+materials equal to 50% of the price up
+ 
+
+443
+00:10:20,240 --> 00:10:23,350
+materials equal to 50% of the price up
+front just like always in this case that
+
+444
+00:10:23,350 --> 00:10:23,360
+front just like always in this case that
+ 
+
+445
+00:10:23,360 --> 00:10:27,580
+front just like always in this case that
+would be 22 gold worth of materials next
+
+446
+00:10:27,580 --> 00:10:27,590
+would be 22 gold worth of materials next
+ 
+
+447
+00:10:27,590 --> 00:10:29,800
+would be 22 gold worth of materials next
+we look at the craft requirements line
+
+448
+00:10:29,800 --> 00:10:29,810
+we look at the craft requirements line
+ 
+
+449
+00:10:29,810 --> 00:10:33,190
+we look at the craft requirements line
+in the description here it says that of
+
+450
+00:10:33,190 --> 00:10:33,200
+in the description here it says that of
+ 
+
+451
+00:10:33,200 --> 00:10:37,750
+in the description here it says that of
+those 22 gold pieces 22 silver pieces of
+
+452
+00:10:37,750 --> 00:10:37,760
+those 22 gold pieces 22 silver pieces of
+ 
+
+453
+00:10:37,760 --> 00:10:41,470
+those 22 gold pieces 22 silver pieces of
+that must be cold iron all of the
+
+454
+00:10:41,470 --> 00:10:41,480
+that must be cold iron all of the
+ 
+
+455
+00:10:41,480 --> 00:10:44,170
+that must be cold iron all of the
+special material is needed up front we
+
+456
+00:10:44,170 --> 00:10:44,180
+special material is needed up front we
+ 
+
+457
+00:10:44,180 --> 00:10:47,380
+special material is needed up front we
+do not provide 11 silver worth of cold
+
+458
+00:10:47,380 --> 00:10:47,390
+do not provide 11 silver worth of cold
+ 
+
+459
+00:10:47,390 --> 00:10:50,890
+do not provide 11 silver worth of cold
+iron now and another 11 silver worth of
+
+460
+00:10:50,890 --> 00:10:50,900
+iron now and another 11 silver worth of
+ 
+
+461
+00:10:50,900 --> 00:10:53,560
+iron now and another 11 silver worth of
+it later so before we can start crafting
+
+462
+00:10:53,560 --> 00:10:53,570
+it later so before we can start crafting
+ 
+
+463
+00:10:53,570 --> 00:10:55,900
+it later so before we can start crafting
+we need a hundred and ninety eight
+
+464
+00:10:55,900 --> 00:10:55,910
+we need a hundred and ninety eight
+ 
+
+465
+00:10:55,910 --> 00:10:58,450
+we need a hundred and ninety eight
+silver pieces worth of regular general
+
+466
+00:10:58,450 --> 00:10:58,460
+silver pieces worth of regular general
+ 
+
+467
+00:10:58,460 --> 00:11:01,960
+silver pieces worth of regular general
+materials and specifically twenty two
+
+468
+00:11:01,960 --> 00:11:01,970
+materials and specifically twenty two
+ 
+
+469
+00:11:01,970 --> 00:11:05,650
+materials and specifically twenty two
+silver pieces worth of cold iron this is
+
+470
+00:11:05,650 --> 00:11:05,660
+silver pieces worth of cold iron this is
+ 
+
+471
+00:11:05,660 --> 00:11:07,840
+silver pieces worth of cold iron this is
+all of the code iron that we will need
+
+472
+00:11:07,840 --> 00:11:07,850
+all of the code iron that we will need
+ 
+
+473
+00:11:07,850 --> 00:11:10,930
+all of the code iron that we will need
+for this project after four days of work
+
+474
+00:11:10,930 --> 00:11:10,940
+for this project after four days of work
+ 
+
+475
+00:11:10,940 --> 00:11:13,570
+for this project after four days of work
+in a skill check we have the option as
+
+476
+00:11:13,570 --> 00:11:13,580
+in a skill check we have the option as
+ 
+
+477
+00:11:13,580 --> 00:11:16,600
+in a skill check we have the option as
+usual of paying the remaining balance of
+
+478
+00:11:16,600 --> 00:11:16,610
+usual of paying the remaining balance of
+ 
+
+479
+00:11:16,610 --> 00:11:19,570
+usual of paying the remaining balance of
+eleven goal to complete it but none of
+
+480
+00:11:19,570 --> 00:11:19,580
+eleven goal to complete it but none of
+ 
+
+481
+00:11:19,580 --> 00:11:22,450
+eleven goal to complete it but none of
+that needs to be caught iron it can just
+
+482
+00:11:22,450 --> 00:11:22,460
+that needs to be caught iron it can just
+ 
+
+483
+00:11:22,460 --> 00:11:25,990
+that needs to be caught iron it can just
+be paid in eleven gold coins crafting
+
+484
+00:11:25,990 --> 00:11:26,000
+be paid in eleven gold coins crafting
+ 
+
+485
+00:11:26,000 --> 00:11:28,540
+be paid in eleven gold coins crafting
+armor from precious materials works the
+
+486
+00:11:28,540 --> 00:11:28,550
+armor from precious materials works the
+ 
+
+487
+00:11:28,550 --> 00:11:31,660
+armor from precious materials works the
+same way except you need to adjust its
+
+488
+00:11:31,660 --> 00:11:31,670
+same way except you need to adjust its
+ 
+
+489
+00:11:31,670 --> 00:11:35,500
+same way except you need to adjust its
+bulk the armor table shows the bulk for
+
+490
+00:11:35,500 --> 00:11:35,510
+bulk the armor table shows the bulk for
+ 
+
+491
+00:11:35,510 --> 00:11:37,810
+bulk the armor table shows the bulk for
+each suit of armor assuming that you are
+
+492
+00:11:37,810 --> 00:11:37,820
+each suit of armor assuming that you are
+ 
+
+493
+00:11:37,820 --> 00:11:41,200
+each suit of armor assuming that you are
+wearing it when crafting you use the
+
+494
+00:11:41,200 --> 00:11:41,210
+wearing it when crafting you use the
+ 
+
+495
+00:11:41,210 --> 00:11:44,350
+wearing it when crafting you use the
+armors carry the bulk which is one more
+
+496
+00:11:44,350 --> 00:11:44,360
+armors carry the bulk which is one more
+ 
+
+497
+00:11:44,360 --> 00:11:47,320
+armors carry the bulk which is one more
+than a suit of armor x' worn bulk so you
+
+498
+00:11:47,320 --> 00:11:47,330
+than a suit of armor x' worn bulk so you
+ 
+
+499
+00:11:47,330 --> 00:11:49,480
+than a suit of armor x' worn bulk so you
+simply add a 1/2 the bulk that you see
+
+500
+00:11:49,480 --> 00:11:49,490
+simply add a 1/2 the bulk that you see
+ 
+
+501
+00:11:49,490 --> 00:11:51,049
+simply add a 1/2 the bulk that you see
+listed in the table
+
+502
+00:11:51,049 --> 00:11:51,059
+listed in the table
+ 
+
+503
+00:11:51,059 --> 00:11:52,909
+listed in the table
+if you were crafting adamantine
+
+504
+00:11:52,909 --> 00:11:52,919
+if you were crafting adamantine
+ 
+
+505
+00:11:52,919 --> 00:11:55,399
+if you were crafting adamantine
+chainmail you would calculate is price
+
+506
+00:11:55,399 --> 00:11:55,409
+chainmail you would calculate is price
+ 
+
+507
+00:11:55,409 --> 00:12:00,180
+chainmail you would calculate is price
+using three bulk instead of two
+
+508
+00:12:00,180 --> 00:12:00,190
+
+ 
+
+509
+00:12:00,190 --> 00:12:02,670
+
+in this video we discussed a few more
+
+510
+00:12:02,670 --> 00:12:02,680
+in this video we discussed a few more
+ 
+
+511
+00:12:02,680 --> 00:12:05,580
+in this video we discussed a few more
+advanced applications of crafting namely
+
+512
+00:12:05,580 --> 00:12:05,590
+advanced applications of crafting namely
+ 
+
+513
+00:12:05,590 --> 00:12:07,710
+advanced applications of crafting namely
+crafting magic items in forging weapons
+
+514
+00:12:07,710 --> 00:12:07,720
+crafting magic items in forging weapons
+ 
+
+515
+00:12:07,720 --> 00:12:10,530
+crafting magic items in forging weapons
+and armor from precious materials if you
+
+516
+00:12:10,530 --> 00:12:10,540
+and armor from precious materials if you
+ 
+
+517
+00:12:10,540 --> 00:12:12,120
+and armor from precious materials if you
+would like to see examples of the
+
+518
+00:12:12,120 --> 00:12:12,130
+would like to see examples of the
+ 
+
+519
+00:12:12,130 --> 00:12:14,640
+would like to see examples of the
+crafting process then check out the
+
+520
+00:12:14,640 --> 00:12:14,650
+crafting process then check out the
+ 
+
+521
+00:12:14,650 --> 00:12:16,560
+crafting process then check out the
+companion video that is linked in the
+
+522
+00:12:16,560 --> 00:12:16,570
+companion video that is linked in the
+ 
+
+523
+00:12:16,570 --> 00:12:17,720
+companion video that is linked in the
+description
+
+524
+00:12:17,720 --> 00:12:17,730
+description
+ 
+
+525
+00:12:17,730 --> 00:12:20,490
+description
+crafting magic items works the same as
+
+526
+00:12:20,490 --> 00:12:20,500
+crafting magic items works the same as
+ 
+
+527
+00:12:20,500 --> 00:12:22,770
+crafting magic items works the same as
+crafting anything else except there are
+
+528
+00:12:22,770 --> 00:12:22,780
+crafting anything else except there are
+ 
+
+529
+00:12:22,780 --> 00:12:26,430
+crafting anything else except there are
+a few key points worth remembering first
+
+530
+00:12:26,430 --> 00:12:26,440
+a few key points worth remembering first
+ 
+
+531
+00:12:26,440 --> 00:12:29,250
+a few key points worth remembering first
+each different type of an item requires
+
+532
+00:12:29,250 --> 00:12:29,260
+each different type of an item requires
+ 
+
+533
+00:12:29,260 --> 00:12:33,570
+each different type of an item requires
+its own formula second many magic items
+
+534
+00:12:33,570 --> 00:12:33,580
+its own formula second many magic items
+ 
+
+535
+00:12:33,580 --> 00:12:36,030
+its own formula second many magic items
+have special requirements these are
+
+536
+00:12:36,030 --> 00:12:36,040
+have special requirements these are
+ 
+
+537
+00:12:36,040 --> 00:12:37,890
+have special requirements these are
+listed at the bottom of their step
+
+538
+00:12:37,890 --> 00:12:37,900
+listed at the bottom of their step
+ 
+
+539
+00:12:37,900 --> 00:12:40,320
+listed at the bottom of their step
+blocks and often say something to the
+
+540
+00:12:40,320 --> 00:12:40,330
+blocks and often say something to the
+ 
+
+541
+00:12:40,330 --> 00:12:43,860
+blocks and often say something to the
+effect of supply a listing level casting
+
+542
+00:12:43,860 --> 00:12:43,870
+effect of supply a listing level casting
+ 
+
+543
+00:12:43,870 --> 00:12:47,430
+effect of supply a listing level casting
+of the spell this means that every spell
+
+544
+00:12:47,430 --> 00:12:47,440
+of the spell this means that every spell
+ 
+
+545
+00:12:47,440 --> 00:12:50,310
+of the spell this means that every spell
+that the item can cast must also be cast
+
+546
+00:12:50,310 --> 00:12:50,320
+that the item can cast must also be cast
+ 
+
+547
+00:12:50,320 --> 00:12:53,340
+that the item can cast must also be cast
+as part of the crafting process and they
+
+548
+00:12:53,340 --> 00:12:53,350
+as part of the crafting process and they
+ 
+
+549
+00:12:53,350 --> 00:12:55,650
+as part of the crafting process and they
+must be cast at each of the levels
+
+550
+00:12:55,650 --> 00:12:55,660
+must be cast at each of the levels
+ 
+
+551
+00:12:55,660 --> 00:12:58,890
+must be cast at each of the levels
+listed in the items description the
+
+552
+00:12:58,890 --> 00:12:58,900
+listed in the items description the
+ 
+
+553
+00:12:58,900 --> 00:13:01,260
+listed in the items description the
+person who is doing the crafting does
+
+554
+00:13:01,260 --> 00:13:01,270
+person who is doing the crafting does
+ 
+
+555
+00:13:01,270 --> 00:13:03,600
+person who is doing the crafting does
+not need to be the person who cast the
+
+556
+00:13:03,600 --> 00:13:03,610
+not need to be the person who cast the
+ 
+
+557
+00:13:03,610 --> 00:13:06,270
+not need to be the person who cast the
+spells as part of crafting that crafter
+
+558
+00:13:06,270 --> 00:13:06,280
+spells as part of crafting that crafter
+ 
+
+559
+00:13:06,280 --> 00:13:08,430
+spells as part of crafting that crafter
+does not even need to know how to cast
+
+560
+00:13:08,430 --> 00:13:08,440
+does not even need to know how to cast
+ 
+
+561
+00:13:08,440 --> 00:13:12,270
+does not even need to know how to cast
+these spells a spell slot must be used
+
+562
+00:13:12,270 --> 00:13:12,280
+these spells a spell slot must be used
+ 
+
+563
+00:13:12,280 --> 00:13:14,940
+these spells a spell slot must be used
+to cast each of the spells that are cast
+
+564
+00:13:14,940 --> 00:13:14,950
+to cast each of the spells that are cast
+ 
+
+565
+00:13:14,950 --> 00:13:17,280
+to cast each of the spells that are cast
+as part of the crafting process you
+
+566
+00:13:17,280 --> 00:13:17,290
+as part of the crafting process you
+ 
+
+567
+00:13:17,290 --> 00:13:20,070
+as part of the crafting process you
+cannot use an item to cast a spell as
+
+568
+00:13:20,070 --> 00:13:20,080
+cannot use an item to cast a spell as
+ 
+
+569
+00:13:20,080 --> 00:13:24,240
+cannot use an item to cast a spell as
+part of creating another item and unless
+
+570
+00:13:24,240 --> 00:13:24,250
+part of creating another item and unless
+ 
+
+571
+00:13:24,250 --> 00:13:26,250
+part of creating another item and unless
+the item that is being crafted is a
+
+572
+00:13:26,250 --> 00:13:26,260
+the item that is being crafted is a
+ 
+
+573
+00:13:26,260 --> 00:13:29,220
+the item that is being crafted is a
+staff or wand then you must pay any
+
+574
+00:13:29,220 --> 00:13:29,230
+staff or wand then you must pay any
+ 
+
+575
+00:13:29,230 --> 00:13:31,820
+staff or wand then you must pay any
+associated cost for casting the spell
+
+576
+00:13:31,820 --> 00:13:31,830
+associated cost for casting the spell
+ 
+
+577
+00:13:31,830 --> 00:13:34,290
+associated cost for casting the spell
+when it casts a spell as part of the
+
+578
+00:13:34,290 --> 00:13:34,300
+when it casts a spell as part of the
+ 
+
+579
+00:13:34,300 --> 00:13:36,630
+when it casts a spell as part of the
+crafting process for creating either a
+
+580
+00:13:36,630 --> 00:13:36,640
+crafting process for creating either a
+ 
+
+581
+00:13:36,640 --> 00:13:39,810
+crafting process for creating either a
+wand or staff you do not pay for this
+
+582
+00:13:39,810 --> 00:13:39,820
+wand or staff you do not pay for this
+ 
+
+583
+00:13:39,820 --> 00:13:42,000
+wand or staff you do not pay for this
+spell cost upfront because you will pay
+
+584
+00:13:42,000 --> 00:13:42,010
+spell cost upfront because you will pay
+ 
+
+585
+00:13:42,010 --> 00:13:44,160
+spell cost upfront because you will pay
+this cost later when you are casting the
+
+586
+00:13:44,160 --> 00:13:44,170
+this cost later when you are casting the
+ 
+
+587
+00:13:44,170 --> 00:13:48,060
+this cost later when you are casting the
+spells with the wand or staff we also
+
+588
+00:13:48,060 --> 00:13:48,070
+spells with the wand or staff we also
+ 
+
+589
+00:13:48,070 --> 00:13:50,520
+spells with the wand or staff we also
+discussed forging weapons and armor with
+
+590
+00:13:50,520 --> 00:13:50,530
+discussed forging weapons and armor with
+ 
+
+591
+00:13:50,530 --> 00:13:53,579
+discussed forging weapons and armor with
+uncommon materials this works exactly
+
+592
+00:13:53,579 --> 00:13:53,589
+uncommon materials this works exactly
+ 
+
+593
+00:13:53,589 --> 00:13:56,040
+uncommon materials this works exactly
+like normal but again there are a few
+
+594
+00:13:56,040 --> 00:13:56,050
+like normal but again there are a few
+ 
+
+595
+00:13:56,050 --> 00:13:58,829
+like normal but again there are a few
+points worth mentioning first precious
+
+596
+00:13:58,829 --> 00:13:58,839
+points worth mentioning first precious
+ 
+
+597
+00:13:58,839 --> 00:14:01,710
+points worth mentioning first precious
+materials are not categorized as types
+
+598
+00:14:01,710 --> 00:14:01,720
+materials are not categorized as types
+ 
+
+599
+00:14:01,720 --> 00:14:04,590
+materials are not categorized as types
+like most other items are instead they
+
+600
+00:14:04,590 --> 00:14:04,600
+like most other items are instead they
+ 
+
+601
+00:14:04,600 --> 00:14:08,160
+like most other items are instead they
+are listed by grade low grade standard
+
+602
+00:14:08,160 --> 00:14:08,170
+are listed by grade low grade standard
+ 
+
+603
+00:14:08,170 --> 00:14:11,160
+are listed by grade low grade standard
+grade in high grade when crafting with
+
+604
+00:14:11,160 --> 00:14:11,170
+grade in high grade when crafting with
+ 
+
+605
+00:14:11,170 --> 00:14:13,620
+grade in high grade when crafting with
+precious materials the item level of the
+
+606
+00:14:13,620 --> 00:14:13,630
+precious materials the item level of the
+ 
+
+607
+00:14:13,630 --> 00:14:16,260
+precious materials the item level of the
+finished item is the higher of the base
+
+608
+00:14:16,260 --> 00:14:16,270
+finished item is the higher of the base
+ 
+
+609
+00:14:16,270 --> 00:14:19,380
+finished item is the higher of the base
+items level or the level assigned to
+
+610
+00:14:19,380 --> 00:14:19,390
+items level or the level assigned to
+ 
+
+611
+00:14:19,390 --> 00:14:22,740
+items level or the level assigned to
+that grade of special material often the
+
+612
+00:14:22,740 --> 00:14:22,750
+that grade of special material often the
+ 
+
+613
+00:14:22,750 --> 00:14:24,750
+that grade of special material often the
+price for items crafted from precious
+
+614
+00:14:24,750 --> 00:14:24,760
+price for items crafted from precious
+ 
+
+615
+00:14:24,760 --> 00:14:28,320
+price for items crafted from precious
+materials will be based on bulk and the
+
+616
+00:14:28,320 --> 00:14:28,330
+materials will be based on bulk and the
+ 
+
+617
+00:14:28,330 --> 00:14:30,810
+materials will be based on bulk and the
+price will always be at least one bulk
+
+618
+00:14:30,810 --> 00:14:30,820
+price will always be at least one bulk
+ 
+
+619
+00:14:30,820 --> 00:14:33,540
+price will always be at least one bulk
+even if the item that is being crafted
+
+620
+00:14:33,540 --> 00:14:33,550
+even if the item that is being crafted
+ 
+
+621
+00:14:33,550 --> 00:14:37,130
+even if the item that is being crafted
+is light bulb if the item is armored
+
+622
+00:14:37,130 --> 00:14:37,140
+is light bulb if the item is armored
+ 
+
+623
+00:14:37,140 --> 00:14:39,690
+is light bulb if the item is armored
+remember that the armor table in the
+
+624
+00:14:39,690 --> 00:14:39,700
+remember that the armor table in the
+ 
+
+625
+00:14:39,700 --> 00:14:43,140
+remember that the armor table in the
+book shows it's worn bulk you must add a
+
+626
+00:14:43,140 --> 00:14:43,150
+book shows it's worn bulk you must add a
+ 
+
+627
+00:14:43,150 --> 00:14:46,410
+book shows it's worn bulk you must add a
+1 to this number to calculate is actual
+
+628
+00:14:46,410 --> 00:14:46,420
+1 to this number to calculate is actual
+ 
+
+629
+00:14:46,420 --> 00:14:49,830
+1 to this number to calculate is actual
+or carried bulk also the items
+
+630
+00:14:49,830 --> 00:14:49,840
+or carried bulk also the items
+ 
+
+631
+00:14:49,840 --> 00:14:51,960
+or carried bulk also the items
+description will tell you how much of
+
+632
+00:14:51,960 --> 00:14:51,970
+description will tell you how much of
+ 
+
+633
+00:14:51,970 --> 00:14:55,170
+description will tell you how much of
+the initial 50% material cost must
+
+634
+00:14:55,170 --> 00:14:55,180
+the initial 50% material cost must
+ 
+
+635
+00:14:55,180 --> 00:14:57,900
+the initial 50% material cost must
+include the precious material this is
+
+636
+00:14:57,900 --> 00:14:57,910
+include the precious material this is
+ 
+
+637
+00:14:57,910 --> 00:15:00,960
+include the precious material this is
+all provided at the start and no more
+
+638
+00:15:00,960 --> 00:15:00,970
+all provided at the start and no more
+ 
+
+639
+00:15:00,970 --> 00:15:03,420
+all provided at the start and no more
+precious materials are needed after day
+
+640
+00:15:03,420 --> 00:15:03,430
+precious materials are needed after day
+ 
+
+641
+00:15:03,430 --> 00:15:06,040
+precious materials are needed after day
+4 of crafting
+
+642
+00:15:06,040 --> 00:15:06,050
+4 of crafting
+ 
+
+643
+00:15:06,050 --> 00:15:08,230
+4 of crafting
+before we close I'd like to take a
+
+644
+00:15:08,230 --> 00:15:08,240
+before we close I'd like to take a
+ 
+
+645
+00:15:08,240 --> 00:15:10,690
+before we close I'd like to take a
+moment to thank all of our patrons these
+
+646
+00:15:10,690 --> 00:15:10,700
+moment to thank all of our patrons these
+ 
+
+647
+00:15:10,700 --> 00:15:12,460
+moment to thank all of our patrons these
+videos would not be possible without
+
+648
+00:15:12,460 --> 00:15:12,470
+videos would not be possible without
+ 
+
+649
+00:15:12,470 --> 00:15:15,300
+videos would not be possible without
+their continued generosity and support
+
+650
+00:15:15,300 --> 00:15:15,310
+their continued generosity and support
+ 
+
+651
+00:15:15,310 --> 00:15:18,160
+their continued generosity and support
+members of the basics for gamers patreon
+
+652
+00:15:18,160 --> 00:15:18,170
+members of the basics for gamers patreon
+ 
+
+653
+00:15:18,170 --> 00:15:20,350
+members of the basics for gamers patreon
+community receive special benefits like
+
+654
+00:15:20,350 --> 00:15:20,360
+community receive special benefits like
+ 
+
+655
+00:15:20,360 --> 00:15:22,180
+community receive special benefits like
+getting to vote on the topics that we
+
+656
+00:15:22,180 --> 00:15:22,190
+getting to vote on the topics that we
+ 
+
+657
+00:15:22,190 --> 00:15:24,400
+getting to vote on the topics that we
+cover in the future and also they get to
+
+658
+00:15:24,400 --> 00:15:24,410
+cover in the future and also they get to
+ 
+
+659
+00:15:24,410 --> 00:15:26,889
+cover in the future and also they get to
+see these videos one week and ad-free
+
+660
+00:15:26,889 --> 00:15:26,899
+see these videos one week and ad-free
+ 
+
+661
+00:15:26,899 --> 00:15:30,310
+see these videos one week and ad-free
+before everybody else visit the links
+
+662
+00:15:30,310 --> 00:15:30,320
+before everybody else visit the links
+ 
+
+663
+00:15:30,320 --> 00:15:32,019
+before everybody else visit the links
+shown on the left of the screen and in
+
+664
+00:15:32,019 --> 00:15:32,029
+shown on the left of the screen and in
+ 
+
+665
+00:15:32,029 --> 00:15:33,490
+shown on the left of the screen and in
+the description if you'd like to know
+
+666
+00:15:33,490 --> 00:15:33,500
+the description if you'd like to know
+ 
+
+667
+00:15:33,500 --> 00:15:36,190
+the description if you'd like to know
+more about becoming a patron if you
+
+668
+00:15:36,190 --> 00:15:36,200
+more about becoming a patron if you
+ 
+
+669
+00:15:36,200 --> 00:15:37,509
+more about becoming a patron if you
+would like to support this channel and
+
+670
+00:15:37,509 --> 00:15:37,519
+would like to support this channel and
+ 
+
+671
+00:15:37,519 --> 00:15:39,490
+would like to support this channel and
+help it grow the easiest way to do that
+
+672
+00:15:39,490 --> 00:15:39,500
+help it grow the easiest way to do that
+ 
+
+673
+00:15:39,500 --> 00:15:42,220
+help it grow the easiest way to do that
+is by subscribing and clicking the bell
+
+674
+00:15:42,220 --> 00:15:42,230
+is by subscribing and clicking the bell
+ 
+
+675
+00:15:42,230 --> 00:15:44,769
+is by subscribing and clicking the bell
+icon so you get notified when new videos
+
+676
+00:15:44,769 --> 00:15:44,779
+icon so you get notified when new videos
+ 
+
+677
+00:15:44,779 --> 00:15:47,170
+icon so you get notified when new videos
+release and we can always be reached
+
+678
+00:15:47,170 --> 00:15:47,180
+release and we can always be reached
+ 
+
+679
+00:15:47,180 --> 00:15:48,490
+release and we can always be reached
+through our Twitter and Facebook pages
+
+680
+00:15:48,490 --> 00:15:48,500
+through our Twitter and Facebook pages
+ 
+
+681
+00:15:48,500 --> 00:15:51,610
+through our Twitter and Facebook pages
+too thanks for watching take care and we
+
+682
+00:15:51,610 --> 00:15:51,620
+too thanks for watching take care and we
+ 
+
+683
+00:15:51,620 --> 00:15:53,410
+too thanks for watching take care and we
+will see you soon with more basics of
+
+684
+00:15:53,410 --> 00:15:53,420
+will see you soon with more basics of
+ 
+
+685
+00:15:53,420 --> 00:15:56,050
+will see you soon with more basics of
+Pathfinder
+

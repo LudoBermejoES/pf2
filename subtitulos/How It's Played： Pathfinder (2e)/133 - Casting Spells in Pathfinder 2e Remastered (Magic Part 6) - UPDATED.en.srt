@@ -1,0 +1,6645 @@
+1
+00:00:00,960 --> 00:00:03,590
+
+Hello and welcome to Magic in Pathfinder
+
+2
+00:00:03,590 --> 00:00:03,600
+Hello and welcome to Magic in Pathfinder
+ 
+
+3
+00:00:03,600 --> 00:00:05,990
+Hello and welcome to Magic in Pathfinder
+second edition remastered part 6,
+
+4
+00:00:05,990 --> 00:00:06,000
+second edition remastered part 6,
+ 
+
+5
+00:00:06,000 --> 00:00:10,070
+second edition remastered part 6,
+casting spells and spell attacks.
+
+6
+00:00:10,070 --> 00:00:10,080
+casting spells and spell attacks.
+ 
+
+7
+00:00:10,080 --> 00:00:12,150
+casting spells and spell attacks.
+Casting spells works much the same way
+
+8
+00:00:12,150 --> 00:00:12,160
+Casting spells works much the same way
+ 
+
+9
+00:00:12,160 --> 00:00:14,549
+Casting spells works much the same way
+as other activities in the game. You
+
+10
+00:00:14,549 --> 00:00:14,559
+as other activities in the game. You
+ 
+
+11
+00:00:14,559 --> 00:00:16,470
+as other activities in the game. You
+must have the spell prepared in advance
+
+12
+00:00:16,470 --> 00:00:16,480
+must have the spell prepared in advance
+ 
+
+13
+00:00:16,480 --> 00:00:18,630
+must have the spell prepared in advance
+or have a valid spell slot available in
+
+14
+00:00:18,630 --> 00:00:18,640
+or have a valid spell slot available in
+ 
+
+15
+00:00:18,640 --> 00:00:20,630
+or have a valid spell slot available in
+the case of spontaneous casters. And
+
+16
+00:00:20,630 --> 00:00:20,640
+the case of spontaneous casters. And
+ 
+
+17
+00:00:20,640 --> 00:00:22,070
+the case of spontaneous casters. And
+then you spend a number of actions
+
+18
+00:00:22,070 --> 00:00:22,080
+then you spend a number of actions
+ 
+
+19
+00:00:22,080 --> 00:00:24,070
+then you spend a number of actions
+listed in the spell's description. As
+
+20
+00:00:24,070 --> 00:00:24,080
+listed in the spell's description. As
+ 
+
+21
+00:00:24,080 --> 00:00:26,070
+listed in the spell's description. As
+mentioned in a previous video, most
+
+22
+00:00:26,070 --> 00:00:26,080
+mentioned in a previous video, most
+ 
+
+23
+00:00:26,080 --> 00:00:28,230
+mentioned in a previous video, most
+spells intended for encounter mode
+
+24
+00:00:28,230 --> 00:00:28,240
+spells intended for encounter mode
+ 
+
+25
+00:00:28,240 --> 00:00:30,870
+spells intended for encounter mode
+require two actions. except for those
+
+26
+00:00:30,870 --> 00:00:30,880
+require two actions. except for those
+ 
+
+27
+00:00:30,880 --> 00:00:32,389
+require two actions. except for those
+that cause something to physically
+
+28
+00:00:32,389 --> 00:00:32,399
+that cause something to physically
+ 
+
+29
+00:00:32,399 --> 00:00:34,790
+that cause something to physically
+manifest and persist in the world, which
+
+30
+00:00:34,790 --> 00:00:34,800
+manifest and persist in the world, which
+ 
+
+31
+00:00:34,800 --> 00:00:37,110
+manifest and persist in the world, which
+usually take three actions, but those
+
+32
+00:00:37,110 --> 00:00:37,120
+usually take three actions, but those
+ 
+
+33
+00:00:37,120 --> 00:00:38,790
+usually take three actions, but those
+are just guidelines. So, always check
+
+34
+00:00:38,790 --> 00:00:38,800
+are just guidelines. So, always check
+ 
+
+35
+00:00:38,800 --> 00:00:41,030
+are just guidelines. So, always check
+the spell's description. Once the action
+
+36
+00:00:41,030 --> 00:00:41,040
+the spell's description. Once the action
+ 
+
+37
+00:00:41,040 --> 00:00:43,190
+the spell's description. Once the action
+cost has been met, the spell effect
+
+38
+00:00:43,190 --> 00:00:43,200
+cost has been met, the spell effect
+ 
+
+39
+00:00:43,200 --> 00:00:45,830
+cost has been met, the spell effect
+occurs immediately. Some spells are not
+
+40
+00:00:45,830 --> 00:00:45,840
+occurs immediately. Some spells are not
+ 
+
+41
+00:00:45,840 --> 00:00:47,510
+occurs immediately. Some spells are not
+intended for use in encounter mode and
+
+42
+00:00:47,510 --> 00:00:47,520
+intended for use in encounter mode and
+ 
+
+43
+00:00:47,520 --> 00:00:49,510
+intended for use in encounter mode and
+instead have their casting times listed
+
+44
+00:00:49,510 --> 00:00:49,520
+instead have their casting times listed
+ 
+
+45
+00:00:49,520 --> 00:00:52,950
+instead have their casting times listed
+in terms of minutes or hours. You cannot
+
+46
+00:00:52,950 --> 00:00:52,960
+in terms of minutes or hours. You cannot
+ 
+
+47
+00:00:52,960 --> 00:00:55,350
+in terms of minutes or hours. You cannot
+use any other actions or reactions while
+
+48
+00:00:55,350 --> 00:00:55,360
+use any other actions or reactions while
+ 
+
+49
+00:00:55,360 --> 00:00:57,590
+use any other actions or reactions while
+casting these spells, but the GM might
+
+50
+00:00:57,590 --> 00:00:57,600
+casting these spells, but the GM might
+ 
+
+51
+00:00:57,600 --> 00:01:00,150
+casting these spells, but the GM might
+allow you to speak while casting. And
+
+52
+00:01:00,150 --> 00:01:00,160
+allow you to speak while casting. And
+ 
+
+53
+00:01:00,160 --> 00:01:02,310
+allow you to speak while casting. And
+although not displayed in the spells
+
+54
+00:01:02,310 --> 00:01:02,320
+although not displayed in the spells
+ 
+
+55
+00:01:02,320 --> 00:01:04,310
+although not displayed in the spells
+description, all spells that have
+
+56
+00:01:04,310 --> 00:01:04,320
+description, all spells that have
+ 
+
+57
+00:01:04,320 --> 00:01:07,270
+description, all spells that have
+casting times listed as minutes or hours
+
+58
+00:01:07,270 --> 00:01:07,280
+casting times listed as minutes or hours
+ 
+
+59
+00:01:07,280 --> 00:01:09,750
+casting times listed as minutes or hours
+automatically receive the exploration
+
+60
+00:01:09,750 --> 00:01:09,760
+automatically receive the exploration
+ 
+
+61
+00:01:09,760 --> 00:01:11,750
+automatically receive the exploration
+trait. And since they have the
+
+62
+00:01:11,750 --> 00:01:11,760
+trait. And since they have the
+ 
+
+63
+00:01:11,760 --> 00:01:14,310
+trait. And since they have the
+exploration trait, they cannot be cast
+
+64
+00:01:14,310 --> 00:01:14,320
+exploration trait, they cannot be cast
+ 
+
+65
+00:01:14,320 --> 00:01:16,950
+exploration trait, they cannot be cast
+at all in encounter mode. So, if the
+
+66
+00:01:16,950 --> 00:01:16,960
+at all in encounter mode. So, if the
+ 
+
+67
+00:01:16,960 --> 00:01:19,749
+at all in encounter mode. So, if the
+casting time is 1 minute, by raw, you
+
+68
+00:01:19,749 --> 00:01:19,759
+casting time is 1 minute, by raw, you
+ 
+
+69
+00:01:19,759 --> 00:01:22,070
+casting time is 1 minute, by raw, you
+can't spend 10 encounter rounds to cast
+
+70
+00:01:22,070 --> 00:01:22,080
+can't spend 10 encounter rounds to cast
+ 
+
+71
+00:01:22,080 --> 00:01:24,550
+can't spend 10 encounter rounds to cast
+it, even though 10 combat rounds equals
+
+72
+00:01:24,550 --> 00:01:24,560
+it, even though 10 combat rounds equals
+ 
+
+73
+00:01:24,560 --> 00:01:27,350
+it, even though 10 combat rounds equals
+1 minute. And if combat breaks out in
+
+74
+00:01:27,350 --> 00:01:27,360
+1 minute. And if combat breaks out in
+ 
+
+75
+00:01:27,360 --> 00:01:29,190
+1 minute. And if combat breaks out in
+the middle of casting an exploration
+
+76
+00:01:29,190 --> 00:01:29,200
+the middle of casting an exploration
+ 
+
+77
+00:01:29,200 --> 00:01:31,510
+the middle of casting an exploration
+spell, then the spell is immediately
+
+78
+00:01:31,510 --> 00:01:31,520
+spell, then the spell is immediately
+ 
+
+79
+00:01:31,520 --> 00:01:34,149
+spell, then the spell is immediately
+disrupted.
+
+80
+00:01:34,149 --> 00:01:34,159
+disrupted.
+ 
+
+81
+00:01:34,159 --> 00:01:36,149
+disrupted.
+Some abilities and circumstances can
+
+82
+00:01:36,149 --> 00:01:36,159
+Some abilities and circumstances can
+ 
+
+83
+00:01:36,159 --> 00:01:39,109
+Some abilities and circumstances can
+cause a spell to be disrupted and lost.
+
+84
+00:01:39,109 --> 00:01:39,119
+cause a spell to be disrupted and lost.
+ 
+
+85
+00:01:39,119 --> 00:01:41,270
+cause a spell to be disrupted and lost.
+A common example is being struck by a
+
+86
+00:01:41,270 --> 00:01:41,280
+A common example is being struck by a
+ 
+
+87
+00:01:41,280 --> 00:01:43,510
+A common example is being struck by a
+reactive strike while casting. The
+
+88
+00:01:43,510 --> 00:01:43,520
+reactive strike while casting. The
+ 
+
+89
+00:01:43,520 --> 00:01:45,510
+reactive strike while casting. The
+triggers for reactive strike are a
+
+90
+00:01:45,510 --> 00:01:45,520
+triggers for reactive strike are a
+ 
+
+91
+00:01:45,520 --> 00:01:47,510
+triggers for reactive strike are a
+creature within your reach uses a
+
+92
+00:01:47,510 --> 00:01:47,520
+creature within your reach uses a
+ 
+
+93
+00:01:47,520 --> 00:01:49,990
+creature within your reach uses a
+manipulate action or a move action,
+
+94
+00:01:49,990 --> 00:01:50,000
+manipulate action or a move action,
+ 
+
+95
+00:01:50,000 --> 00:01:52,630
+manipulate action or a move action,
+makes a ranged attack, or leaves a
+
+96
+00:01:52,630 --> 00:01:52,640
+makes a ranged attack, or leaves a
+ 
+
+97
+00:01:52,640 --> 00:01:55,749
+makes a ranged attack, or leaves a
+square during a move action it's using.
+
+98
+00:01:55,749 --> 00:01:55,759
+square during a move action it's using.
+ 
+
+99
+00:01:55,759 --> 00:01:57,429
+square during a move action it's using.
+The key piece of this that applies to
+
+100
+00:01:57,429 --> 00:01:57,439
+The key piece of this that applies to
+ 
+
+101
+00:01:57,439 --> 00:02:00,789
+The key piece of this that applies to
+spellcasting is using a manipulate
+
+102
+00:02:00,789 --> 00:02:00,799
+spellcasting is using a manipulate
+ 
+
+103
+00:02:00,799 --> 00:02:03,590
+spellcasting is using a manipulate
+action. The manipulate trait says you
+
+104
+00:02:03,590 --> 00:02:03,600
+action. The manipulate trait says you
+ 
+
+105
+00:02:03,600 --> 00:02:05,670
+action. The manipulate trait says you
+must physically manipulate an item or
+
+106
+00:02:05,670 --> 00:02:05,680
+must physically manipulate an item or
+ 
+
+107
+00:02:05,680 --> 00:02:07,990
+must physically manipulate an item or
+make gestures to use an action with this
+
+108
+00:02:07,990 --> 00:02:08,000
+make gestures to use an action with this
+ 
+
+109
+00:02:08,000 --> 00:02:10,150
+make gestures to use an action with this
+trait. Creatures without a suitable
+
+110
+00:02:10,150 --> 00:02:10,160
+trait. Creatures without a suitable
+ 
+
+111
+00:02:10,160 --> 00:02:12,390
+trait. Creatures without a suitable
+appendage cannot perform actions with
+
+112
+00:02:12,390 --> 00:02:12,400
+appendage cannot perform actions with
+ 
+
+113
+00:02:12,400 --> 00:02:14,790
+appendage cannot perform actions with
+this trait. Manipulate actions often
+
+114
+00:02:14,790 --> 00:02:14,800
+this trait. Manipulate actions often
+ 
+
+115
+00:02:14,800 --> 00:02:17,270
+this trait. Manipulate actions often
+trigger reactions. And you'll notice
+
+116
+00:02:17,270 --> 00:02:17,280
+trigger reactions. And you'll notice
+ 
+
+117
+00:02:17,280 --> 00:02:19,589
+trigger reactions. And you'll notice
+that if a spell requires actions to be
+
+118
+00:02:19,589 --> 00:02:19,599
+that if a spell requires actions to be
+ 
+
+119
+00:02:19,599 --> 00:02:22,390
+that if a spell requires actions to be
+spent casting it, then it almost always
+
+120
+00:02:22,390 --> 00:02:22,400
+spent casting it, then it almost always
+ 
+
+121
+00:02:22,400 --> 00:02:25,030
+spent casting it, then it almost always
+has the manipulate trait. And if the
+
+122
+00:02:25,030 --> 00:02:25,040
+has the manipulate trait. And if the
+ 
+
+123
+00:02:25,040 --> 00:02:27,350
+has the manipulate trait. And if the
+spell is cast using a reaction, then it
+
+124
+00:02:27,350 --> 00:02:27,360
+spell is cast using a reaction, then it
+ 
+
+125
+00:02:27,360 --> 00:02:29,110
+spell is cast using a reaction, then it
+almost always does not have the
+
+126
+00:02:29,110 --> 00:02:29,120
+almost always does not have the
+ 
+
+127
+00:02:29,120 --> 00:02:31,589
+almost always does not have the
+manipulate trait. So most of the time
+
+128
+00:02:31,589 --> 00:02:31,599
+manipulate trait. So most of the time
+ 
+
+129
+00:02:31,599 --> 00:02:34,309
+manipulate trait. So most of the time
+when you cast a spell in combat, it will
+
+130
+00:02:34,309 --> 00:02:34,319
+when you cast a spell in combat, it will
+ 
+
+131
+00:02:34,319 --> 00:02:36,710
+when you cast a spell in combat, it will
+have the manipulate trait and therefore
+
+132
+00:02:36,710 --> 00:02:36,720
+have the manipulate trait and therefore
+ 
+
+133
+00:02:36,720 --> 00:02:39,110
+have the manipulate trait and therefore
+may trigger reactions from enemies like
+
+134
+00:02:39,110 --> 00:02:39,120
+may trigger reactions from enemies like
+ 
+
+135
+00:02:39,120 --> 00:02:41,589
+may trigger reactions from enemies like
+reactive strike. And if that reactive
+
+136
+00:02:41,589 --> 00:02:41,599
+reactive strike. And if that reactive
+ 
+
+137
+00:02:41,599 --> 00:02:43,750
+reactive strike. And if that reactive
+strike is a critical hit, then the spell
+
+138
+00:02:43,750 --> 00:02:43,760
+strike is a critical hit, then the spell
+ 
+
+139
+00:02:43,760 --> 00:02:46,150
+strike is a critical hit, then the spell
+you're casting is disrupted. When a
+
+140
+00:02:46,150 --> 00:02:46,160
+you're casting is disrupted. When a
+ 
+
+141
+00:02:46,160 --> 00:02:48,470
+you're casting is disrupted. When a
+spell is disrupted, it is lost along
+
+142
+00:02:48,470 --> 00:02:48,480
+spell is disrupted, it is lost along
+ 
+
+143
+00:02:48,480 --> 00:02:50,470
+spell is disrupted, it is lost along
+with all resources that were committed
+
+144
+00:02:50,470 --> 00:02:50,480
+with all resources that were committed
+ 
+
+145
+00:02:50,480 --> 00:02:52,949
+with all resources that were committed
+to the casting of that spell. Meaning
+
+146
+00:02:52,949 --> 00:02:52,959
+to the casting of that spell. Meaning
+ 
+
+147
+00:02:52,959 --> 00:02:55,670
+to the casting of that spell. Meaning
+you lose all of the required actions. If
+
+148
+00:02:55,670 --> 00:02:55,680
+you lose all of the required actions. If
+ 
+
+149
+00:02:55,680 --> 00:02:57,910
+you lose all of the required actions. If
+it was a spell that cost three actions
+
+150
+00:02:57,910 --> 00:02:57,920
+it was a spell that cost three actions
+ 
+
+151
+00:02:57,920 --> 00:03:00,070
+it was a spell that cost three actions
+and it's immediately disrupted by an
+
+152
+00:03:00,070 --> 00:03:00,080
+and it's immediately disrupted by an
+ 
+
+153
+00:03:00,080 --> 00:03:02,470
+and it's immediately disrupted by an
+enemy's reactive strike, then you lose
+
+154
+00:03:02,470 --> 00:03:02,480
+enemy's reactive strike, then you lose
+ 
+
+155
+00:03:02,480 --> 00:03:05,350
+enemy's reactive strike, then you lose
+all three actions. The reactive strike
+
+156
+00:03:05,350 --> 00:03:05,360
+all three actions. The reactive strike
+ 
+
+157
+00:03:05,360 --> 00:03:07,350
+all three actions. The reactive strike
+doesn't occur after your first of those
+
+158
+00:03:07,350 --> 00:03:07,360
+doesn't occur after your first of those
+ 
+
+159
+00:03:07,360 --> 00:03:08,869
+doesn't occur after your first of those
+actions, leaving you two that you can
+
+160
+00:03:08,869 --> 00:03:08,879
+actions, leaving you two that you can
+ 
+
+161
+00:03:08,879 --> 00:03:11,350
+actions, leaving you two that you can
+spend on other activities. All three
+
+162
+00:03:11,350 --> 00:03:11,360
+spend on other activities. All three
+ 
+
+163
+00:03:11,360 --> 00:03:14,229
+spend on other activities. All three
+actions would be lost, and all other
+
+164
+00:03:14,229 --> 00:03:14,239
+actions would be lost, and all other
+ 
+
+165
+00:03:14,239 --> 00:03:16,550
+actions would be lost, and all other
+resources are also lost. You lose the
+
+166
+00:03:16,550 --> 00:03:16,560
+resources are also lost. You lose the
+ 
+
+167
+00:03:16,560 --> 00:03:18,309
+resources are also lost. You lose the
+spell slot that was committed, as well
+
+168
+00:03:18,309 --> 00:03:18,319
+spell slot that was committed, as well
+ 
+
+169
+00:03:18,319 --> 00:03:21,270
+spell slot that was committed, as well
+as any material cost for the spell. And
+
+170
+00:03:21,270 --> 00:03:21,280
+as any material cost for the spell. And
+ 
+
+171
+00:03:21,280 --> 00:03:23,670
+as any material cost for the spell. And
+when an attempt to sustain a spell is
+
+172
+00:03:23,670 --> 00:03:23,680
+when an attempt to sustain a spell is
+ 
+
+173
+00:03:23,680 --> 00:03:26,550
+when an attempt to sustain a spell is
+disrupted, not only is that action lost,
+
+174
+00:03:26,550 --> 00:03:26,560
+disrupted, not only is that action lost,
+ 
+
+175
+00:03:26,560 --> 00:03:28,149
+disrupted, not only is that action lost,
+but the spell you are attempting to
+
+176
+00:03:28,149 --> 00:03:28,159
+but the spell you are attempting to
+ 
+
+177
+00:03:28,159 --> 00:03:32,070
+but the spell you are attempting to
+sustain immediately ends.
+
+178
+00:03:32,070 --> 00:03:32,080
+sustain immediately ends.
+ 
+
+179
+00:03:32,080 --> 00:03:34,550
+sustain immediately ends.
+Let's review the rules for targeting.
+
+180
+00:03:34,550 --> 00:03:34,560
+Let's review the rules for targeting.
+ 
+
+181
+00:03:34,560 --> 00:03:36,470
+Let's review the rules for targeting.
+This applies to all attacks, but can
+
+182
+00:03:36,470 --> 00:03:36,480
+This applies to all attacks, but can
+ 
+
+183
+00:03:36,480 --> 00:03:38,470
+This applies to all attacks, but can
+become especially confusing when casting
+
+184
+00:03:38,470 --> 00:03:38,480
+become especially confusing when casting
+ 
+
+185
+00:03:38,480 --> 00:03:40,390
+become especially confusing when casting
+spells due to how people imagine them
+
+186
+00:03:40,390 --> 00:03:40,400
+spells due to how people imagine them
+ 
+
+187
+00:03:40,400 --> 00:03:42,149
+spells due to how people imagine them
+manifesting within the narrative of the
+
+188
+00:03:42,149 --> 00:03:42,159
+manifesting within the narrative of the
+ 
+
+189
+00:03:42,159 --> 00:03:44,470
+manifesting within the narrative of the
+game. where sometimes there's a massive
+
+190
+00:03:44,470 --> 00:03:44,480
+game. where sometimes there's a massive
+ 
+
+191
+00:03:44,480 --> 00:03:46,869
+game. where sometimes there's a massive
+fireball that physically travels to the
+
+192
+00:03:46,869 --> 00:03:46,879
+fireball that physically travels to the
+ 
+
+193
+00:03:46,879 --> 00:03:49,270
+fireball that physically travels to the
+target and other times a spell manifests
+
+194
+00:03:49,270 --> 00:03:49,280
+target and other times a spell manifests
+ 
+
+195
+00:03:49,280 --> 00:03:51,509
+target and other times a spell manifests
+like a Jedi mind trick that confuses the
+
+196
+00:03:51,509 --> 00:03:51,519
+like a Jedi mind trick that confuses the
+ 
+
+197
+00:03:51,519 --> 00:03:53,830
+like a Jedi mind trick that confuses the
+target without anything physical passing
+
+198
+00:03:53,830 --> 00:03:53,840
+target without anything physical passing
+ 
+
+199
+00:03:53,840 --> 00:03:56,869
+target without anything physical passing
+between the caster and their target. By
+
+200
+00:03:56,869 --> 00:03:56,879
+between the caster and their target. By
+ 
+
+201
+00:03:56,879 --> 00:03:59,190
+between the caster and their target. By
+raw, the rules work the same way in both
+
+202
+00:03:59,190 --> 00:03:59,200
+raw, the rules work the same way in both
+ 
+
+203
+00:03:59,200 --> 00:04:01,830
+raw, the rules work the same way in both
+cases without any special consideration
+
+204
+00:04:01,830 --> 00:04:01,840
+cases without any special consideration
+ 
+
+205
+00:04:01,840 --> 00:04:04,149
+cases without any special consideration
+given to spells that have no physical
+
+206
+00:04:04,149 --> 00:04:04,159
+given to spells that have no physical
+ 
+
+207
+00:04:04,159 --> 00:04:06,390
+given to spells that have no physical
+manifestation. When you cast the spell,
+
+208
+00:04:06,390 --> 00:04:06,400
+manifestation. When you cast the spell,
+ 
+
+209
+00:04:06,400 --> 00:04:09,030
+manifestation. When you cast the spell,
+you must have line of effect to the
+
+210
+00:04:09,030 --> 00:04:09,040
+you must have line of effect to the
+ 
+
+211
+00:04:09,040 --> 00:04:11,270
+you must have line of effect to the
+target. And in order to have line of
+
+212
+00:04:11,270 --> 00:04:11,280
+target. And in order to have line of
+ 
+
+213
+00:04:11,280 --> 00:04:14,070
+target. And in order to have line of
+effect, there must be an unobstructed
+
+214
+00:04:14,070 --> 00:04:14,080
+effect, there must be an unobstructed
+ 
+
+215
+00:04:14,080 --> 00:04:16,949
+effect, there must be an unobstructed
+path to the target. And generally, as
+
+216
+00:04:16,949 --> 00:04:16,959
+path to the target. And generally, as
+ 
+
+217
+00:04:16,959 --> 00:04:19,430
+path to the target. And generally, as
+long as the target is not behind a solid
+
+218
+00:04:19,430 --> 00:04:19,440
+long as the target is not behind a solid
+ 
+
+219
+00:04:19,440 --> 00:04:22,069
+long as the target is not behind a solid
+wall that blocks all physical access to
+
+220
+00:04:22,069 --> 00:04:22,079
+wall that blocks all physical access to
+ 
+
+221
+00:04:22,079 --> 00:04:25,110
+wall that blocks all physical access to
+them, then you have line of effect. If
+
+222
+00:04:25,110 --> 00:04:25,120
+them, then you have line of effect. If
+ 
+
+223
+00:04:25,120 --> 00:04:27,110
+them, then you have line of effect. If
+the target is only partially behind a
+
+224
+00:04:27,110 --> 00:04:27,120
+the target is only partially behind a
+ 
+
+225
+00:04:27,120 --> 00:04:29,350
+the target is only partially behind a
+solid object, like behind a crate or a
+
+226
+00:04:29,350 --> 00:04:29,360
+solid object, like behind a crate or a
+ 
+
+227
+00:04:29,360 --> 00:04:31,990
+solid object, like behind a crate or a
+port cullis, then there is still line of
+
+228
+00:04:31,990 --> 00:04:32,000
+port cullis, then there is still line of
+ 
+
+229
+00:04:32,000 --> 00:04:34,950
+port cullis, then there is still line of
+effect and you can target them, but they
+
+230
+00:04:34,950 --> 00:04:34,960
+effect and you can target them, but they
+ 
+
+231
+00:04:34,960 --> 00:04:37,670
+effect and you can target them, but they
+also have cover if you cast an area
+
+232
+00:04:37,670 --> 00:04:37,680
+also have cover if you cast an area
+ 
+
+233
+00:04:37,680 --> 00:04:39,909
+also have cover if you cast an area
+effect with a point of origin on your
+
+234
+00:04:39,909 --> 00:04:39,919
+effect with a point of origin on your
+ 
+
+235
+00:04:39,919 --> 00:04:42,469
+effect with a point of origin on your
+side of the gate. And the rule of thumb
+
+236
+00:04:42,469 --> 00:04:42,479
+side of the gate. And the rule of thumb
+ 
+
+237
+00:04:42,479 --> 00:04:45,430
+side of the gate. And the rule of thumb
+provided by player core 1 is that a 1 ft
+
+238
+00:04:45,430 --> 00:04:45,440
+provided by player core 1 is that a 1 ft
+ 
+
+239
+00:04:45,440 --> 00:04:47,990
+provided by player core 1 is that a 1 ft
+square gap in a barrier is all that is
+
+240
+00:04:47,990 --> 00:04:48,000
+square gap in a barrier is all that is
+ 
+
+241
+00:04:48,000 --> 00:04:50,710
+square gap in a barrier is all that is
+needed to allow line of effect. But as
+
+242
+00:04:50,710 --> 00:04:50,720
+needed to allow line of effect. But as
+ 
+
+243
+00:04:50,720 --> 00:04:53,510
+needed to allow line of effect. But as
+always, the GM has the final say. Also
+
+244
+00:04:53,510 --> 00:04:53,520
+always, the GM has the final say. Also
+ 
+
+245
+00:04:53,520 --> 00:04:55,110
+always, the GM has the final say. Also
+be aware that when casting a spell with
+
+246
+00:04:55,110 --> 00:04:55,120
+be aware that when casting a spell with
+ 
+
+247
+00:04:55,120 --> 00:04:57,830
+be aware that when casting a spell with
+an area effect, the caster needs a line
+
+248
+00:04:57,830 --> 00:04:57,840
+an area effect, the caster needs a line
+ 
+
+249
+00:04:57,840 --> 00:04:59,749
+an area effect, the caster needs a line
+of effect to where they are placing the
+
+250
+00:04:59,749 --> 00:04:59,759
+of effect to where they are placing the
+ 
+
+251
+00:04:59,759 --> 00:05:02,310
+of effect to where they are placing the
+origin of the effect and all affected
+
+252
+00:05:02,310 --> 00:05:02,320
+origin of the effect and all affected
+ 
+
+253
+00:05:02,320 --> 00:05:04,550
+origin of the effect and all affected
+creatures and objects needs line of
+
+254
+00:05:04,550 --> 00:05:04,560
+creatures and objects needs line of
+ 
+
+255
+00:05:04,560 --> 00:05:07,670
+creatures and objects needs line of
+effect to that point. For example, if
+
+256
+00:05:07,670 --> 00:05:07,680
+effect to that point. For example, if
+ 
+
+257
+00:05:07,680 --> 00:05:10,390
+effect to that point. For example, if
+you cast a fireball spell, you need line
+
+258
+00:05:10,390 --> 00:05:10,400
+you cast a fireball spell, you need line
+ 
+
+259
+00:05:10,400 --> 00:05:12,710
+you cast a fireball spell, you need line
+of effect to the point of detonation for
+
+260
+00:05:12,710 --> 00:05:12,720
+of effect to the point of detonation for
+ 
+
+261
+00:05:12,720 --> 00:05:15,029
+of effect to the point of detonation for
+the fireball. And in order for an enemy
+
+262
+00:05:15,029 --> 00:05:15,039
+the fireball. And in order for an enemy
+ 
+
+263
+00:05:15,039 --> 00:05:17,670
+the fireball. And in order for an enemy
+to be hit by that fireball, there needs
+
+264
+00:05:17,670 --> 00:05:17,680
+to be hit by that fireball, there needs
+ 
+
+265
+00:05:17,680 --> 00:05:19,909
+to be hit by that fireball, there needs
+to be line of effect from that point and
+
+266
+00:05:19,909 --> 00:05:19,919
+to be line of effect from that point and
+ 
+
+267
+00:05:19,919 --> 00:05:22,710
+to be line of effect from that point and
+them. If the path to them is not
+
+268
+00:05:22,710 --> 00:05:22,720
+them. If the path to them is not
+ 
+
+269
+00:05:22,720 --> 00:05:24,790
+them. If the path to them is not
+completely blocked, then there would be
+
+270
+00:05:24,790 --> 00:05:24,800
+completely blocked, then there would be
+ 
+
+271
+00:05:24,800 --> 00:05:26,550
+completely blocked, then there would be
+line of effect and they would likely
+
+272
+00:05:26,550 --> 00:05:26,560
+line of effect and they would likely
+ 
+
+273
+00:05:26,560 --> 00:05:29,749
+line of effect and they would likely
+receive cover. And note that the rule
+
+274
+00:05:29,749 --> 00:05:29,759
+receive cover. And note that the rule
+ 
+
+275
+00:05:29,759 --> 00:05:32,550
+receive cover. And note that the rule
+for line of effect says visibility
+
+276
+00:05:32,550 --> 00:05:32,560
+for line of effect says visibility
+ 
+
+277
+00:05:32,560 --> 00:05:35,510
+for line of effect says visibility
+doesn't matter for line of effect.
+
+278
+00:05:35,510 --> 00:05:35,520
+doesn't matter for line of effect.
+ 
+
+279
+00:05:35,520 --> 00:05:37,270
+doesn't matter for line of effect.
+Meaning it doesn't matter if you can see
+
+280
+00:05:37,270 --> 00:05:37,280
+Meaning it doesn't matter if you can see
+ 
+
+281
+00:05:37,280 --> 00:05:39,590
+Meaning it doesn't matter if you can see
+the target or not. If the target is
+
+282
+00:05:39,590 --> 00:05:39,600
+the target or not. If the target is
+ 
+
+283
+00:05:39,600 --> 00:05:41,909
+the target or not. If the target is
+inside a building behind a closed
+
+284
+00:05:41,909 --> 00:05:41,919
+inside a building behind a closed
+ 
+
+285
+00:05:41,919 --> 00:05:44,870
+inside a building behind a closed
+window, you may be able to see them, but
+
+286
+00:05:44,870 --> 00:05:44,880
+window, you may be able to see them, but
+ 
+
+287
+00:05:44,880 --> 00:05:47,830
+window, you may be able to see them, but
+your line of effect stops at the closed
+
+288
+00:05:47,830 --> 00:05:47,840
+your line of effect stops at the closed
+ 
+
+289
+00:05:47,840 --> 00:05:50,150
+your line of effect stops at the closed
+window. Therefore, you wouldn't be able
+
+290
+00:05:50,150 --> 00:05:50,160
+window. Therefore, you wouldn't be able
+ 
+
+291
+00:05:50,160 --> 00:05:51,909
+window. Therefore, you wouldn't be able
+to target them with a spell- like
+
+292
+00:05:51,909 --> 00:05:51,919
+to target them with a spell- like
+ 
+
+293
+00:05:51,919 --> 00:05:54,629
+to target them with a spell- like
+confusion, even though there is nothing
+
+294
+00:05:54,629 --> 00:05:54,639
+confusion, even though there is nothing
+ 
+
+295
+00:05:54,639 --> 00:05:56,710
+confusion, even though there is nothing
+physically traveling between you and
+
+296
+00:05:56,710 --> 00:05:56,720
+physically traveling between you and
+ 
+
+297
+00:05:56,720 --> 00:05:59,110
+physically traveling between you and
+them. Now, this often raises a lot of
+
+298
+00:05:59,110 --> 00:05:59,120
+them. Now, this often raises a lot of
+ 
+
+299
+00:05:59,120 --> 00:06:01,029
+them. Now, this often raises a lot of
+questions about line of sight and how it
+
+300
+00:06:01,029 --> 00:06:01,039
+questions about line of sight and how it
+ 
+
+301
+00:06:01,039 --> 00:06:03,270
+questions about line of sight and how it
+applies. I have another video that goes
+
+302
+00:06:03,270 --> 00:06:03,280
+applies. I have another video that goes
+ 
+
+303
+00:06:03,280 --> 00:06:05,510
+applies. I have another video that goes
+over the four degrees of perception and
+
+304
+00:06:05,510 --> 00:06:05,520
+over the four degrees of perception and
+ 
+
+305
+00:06:05,520 --> 00:06:07,990
+over the four degrees of perception and
+how they affect targeting creatures. So,
+
+306
+00:06:07,990 --> 00:06:08,000
+how they affect targeting creatures. So,
+ 
+
+307
+00:06:08,000 --> 00:06:09,909
+how they affect targeting creatures. So,
+I'm not going to repeat all of that
+
+308
+00:06:09,909 --> 00:06:09,919
+I'm not going to repeat all of that
+ 
+
+309
+00:06:09,919 --> 00:06:12,950
+I'm not going to repeat all of that
+content here, but I will briefly cover a
+
+310
+00:06:12,950 --> 00:06:12,960
+content here, but I will briefly cover a
+ 
+
+311
+00:06:12,960 --> 00:06:14,550
+content here, but I will briefly cover a
+few examples. And if you need more
+
+312
+00:06:14,550 --> 00:06:14,560
+few examples. And if you need more
+ 
+
+313
+00:06:14,560 --> 00:06:16,309
+few examples. And if you need more
+information about how this works, there
+
+314
+00:06:16,309 --> 00:06:16,319
+information about how this works, there
+ 
+
+315
+00:06:16,319 --> 00:06:19,189
+information about how this works, there
+is a link to that video on perception in
+
+316
+00:06:19,189 --> 00:06:19,199
+is a link to that video on perception in
+ 
+
+317
+00:06:19,199 --> 00:06:22,070
+is a link to that video on perception in
+this video's description. First, let's
+
+318
+00:06:22,070 --> 00:06:22,080
+this video's description. First, let's
+ 
+
+319
+00:06:22,080 --> 00:06:24,790
+this video's description. First, let's
+talk about what I call general spells.
+
+320
+00:06:24,790 --> 00:06:24,800
+talk about what I call general spells.
+ 
+
+321
+00:06:24,800 --> 00:06:26,710
+talk about what I call general spells.
+These are the ones that simply say
+
+322
+00:06:26,710 --> 00:06:26,720
+These are the ones that simply say
+ 
+
+323
+00:06:26,720 --> 00:06:29,670
+These are the ones that simply say
+things like targets one creature. For
+
+324
+00:06:29,670 --> 00:06:29,680
+things like targets one creature. For
+ 
+
+325
+00:06:29,680 --> 00:06:32,390
+things like targets one creature. For
+example, divine lance. For this spell,
+
+326
+00:06:32,390 --> 00:06:32,400
+example, divine lance. For this spell,
+ 
+
+327
+00:06:32,400 --> 00:06:34,550
+example, divine lance. For this spell,
+you need a line of effect to the target,
+
+328
+00:06:34,550 --> 00:06:34,560
+you need a line of effect to the target,
+ 
+
+329
+00:06:34,560 --> 00:06:37,270
+you need a line of effect to the target,
+but don't necessarily need to be able to
+
+330
+00:06:37,270 --> 00:06:37,280
+but don't necessarily need to be able to
+ 
+
+331
+00:06:37,280 --> 00:06:39,909
+but don't necessarily need to be able to
+see them. If they have the concealed or
+
+332
+00:06:39,909 --> 00:06:39,919
+see them. If they have the concealed or
+ 
+
+333
+00:06:39,919 --> 00:06:42,070
+see them. If they have the concealed or
+hidden conditions, you can still try to
+
+334
+00:06:42,070 --> 00:06:42,080
+hidden conditions, you can still try to
+ 
+
+335
+00:06:42,080 --> 00:06:44,150
+hidden conditions, you can still try to
+attack them with divine lance, but will
+
+336
+00:06:44,150 --> 00:06:44,160
+attack them with divine lance, but will
+ 
+
+337
+00:06:44,160 --> 00:06:46,150
+attack them with divine lance, but will
+need to pass a flat check or you
+
+338
+00:06:46,150 --> 00:06:46,160
+need to pass a flat check or you
+ 
+
+339
+00:06:46,160 --> 00:06:48,550
+need to pass a flat check or you
+automatically miss. Next, there are
+
+340
+00:06:48,550 --> 00:06:48,560
+automatically miss. Next, there are
+ 
+
+341
+00:06:48,560 --> 00:06:51,029
+automatically miss. Next, there are
+spells that specify you must be able to
+
+342
+00:06:51,029 --> 00:06:51,039
+spells that specify you must be able to
+ 
+
+343
+00:06:51,039 --> 00:06:53,830
+spells that specify you must be able to
+see the target. For example, vengeful
+
+344
+00:06:53,830 --> 00:06:53,840
+see the target. For example, vengeful
+ 
+
+345
+00:06:53,840 --> 00:06:56,790
+see the target. For example, vengeful
+glare states in its targets entry, one
+
+346
+00:06:56,790 --> 00:06:56,800
+glare states in its targets entry, one
+ 
+
+347
+00:06:56,800 --> 00:06:59,670
+glare states in its targets entry, one
+creature you can see. Therefore, you
+
+348
+00:06:59,670 --> 00:06:59,680
+creature you can see. Therefore, you
+ 
+
+349
+00:06:59,680 --> 00:07:01,749
+creature you can see. Therefore, you
+could target a creature with a concealed
+
+350
+00:07:01,749 --> 00:07:01,759
+could target a creature with a concealed
+ 
+
+351
+00:07:01,759 --> 00:07:03,589
+could target a creature with a concealed
+condition, but would need to pass the
+
+352
+00:07:03,589 --> 00:07:03,599
+condition, but would need to pass the
+ 
+
+353
+00:07:03,599 --> 00:07:06,230
+condition, but would need to pass the
+DC5 flat check because that target is
+
+354
+00:07:06,230 --> 00:07:06,240
+DC5 flat check because that target is
+ 
+
+355
+00:07:06,240 --> 00:07:09,830
+DC5 flat check because that target is
+concealed. But you would not be able to
+
+356
+00:07:09,830 --> 00:07:09,840
+concealed. But you would not be able to
+ 
+
+357
+00:07:09,840 --> 00:07:11,510
+concealed. But you would not be able to
+target a creature with the hidden
+
+358
+00:07:11,510 --> 00:07:11,520
+target a creature with the hidden
+ 
+
+359
+00:07:11,520 --> 00:07:13,510
+target a creature with the hidden
+condition because hidden specifically
+
+360
+00:07:13,510 --> 00:07:13,520
+condition because hidden specifically
+ 
+
+361
+00:07:13,520 --> 00:07:16,790
+condition because hidden specifically
+states you cannot see them. Then we have
+
+362
+00:07:16,790 --> 00:07:16,800
+states you cannot see them. Then we have
+ 
+
+363
+00:07:16,800 --> 00:07:19,350
+states you cannot see them. Then we have
+area effects. What happens if you cast a
+
+364
+00:07:19,350 --> 00:07:19,360
+area effects. What happens if you cast a
+ 
+
+365
+00:07:19,360 --> 00:07:21,430
+area effects. What happens if you cast a
+fireball as someone who is standing
+
+366
+00:07:21,430 --> 00:07:21,440
+fireball as someone who is standing
+ 
+
+367
+00:07:21,440 --> 00:07:24,870
+fireball as someone who is standing
+behind a closed window? Again, your line
+
+368
+00:07:24,870 --> 00:07:24,880
+behind a closed window? Again, your line
+ 
+
+369
+00:07:24,880 --> 00:07:27,270
+behind a closed window? Again, your line
+of effect would end at the closed
+
+370
+00:07:27,270 --> 00:07:27,280
+of effect would end at the closed
+ 
+
+371
+00:07:27,280 --> 00:07:29,589
+of effect would end at the closed
+window. So you would need to place the
+
+372
+00:07:29,589 --> 00:07:29,599
+window. So you would need to place the
+ 
+
+373
+00:07:29,599 --> 00:07:31,510
+window. So you would need to place the
+point of origin for the fireball's
+
+374
+00:07:31,510 --> 00:07:31,520
+point of origin for the fireball's
+ 
+
+375
+00:07:31,520 --> 00:07:34,309
+point of origin for the fireball's
+detonation somewhere on your side of the
+
+376
+00:07:34,309 --> 00:07:34,319
+detonation somewhere on your side of the
+ 
+
+377
+00:07:34,319 --> 00:07:37,670
+detonation somewhere on your side of the
+window. And by raw, there would be no
+
+378
+00:07:37,670 --> 00:07:37,680
+window. And by raw, there would be no
+ 
+
+379
+00:07:37,680 --> 00:07:40,309
+window. And by raw, there would be no
+line of effect to the person behind the
+
+380
+00:07:40,309 --> 00:07:40,319
+line of effect to the person behind the
+ 
+
+381
+00:07:40,319 --> 00:07:42,550
+line of effect to the person behind the
+closed window. Therefore, they would not
+
+382
+00:07:42,550 --> 00:07:42,560
+closed window. Therefore, they would not
+ 
+
+383
+00:07:42,560 --> 00:07:44,710
+closed window. Therefore, they would not
+need to roll a reflex save or worry
+
+384
+00:07:44,710 --> 00:07:44,720
+need to roll a reflex save or worry
+ 
+
+385
+00:07:44,720 --> 00:07:47,110
+need to roll a reflex save or worry
+about suffering any damage. And again,
+
+386
+00:07:47,110 --> 00:07:47,120
+about suffering any damage. And again,
+ 
+
+387
+00:07:47,120 --> 00:07:49,670
+about suffering any damage. And again,
+that's the raw explanation. But that
+
+388
+00:07:49,670 --> 00:07:49,680
+that's the raw explanation. But that
+ 
+
+389
+00:07:49,680 --> 00:07:52,150
+that's the raw explanation. But that
+said, GMs are encouraged to adjust the
+
+390
+00:07:52,150 --> 00:07:52,160
+said, GMs are encouraged to adjust the
+ 
+
+391
+00:07:52,160 --> 00:07:54,629
+said, GMs are encouraged to adjust the
+rules however is best for their game. So
+
+392
+00:07:54,629 --> 00:07:54,639
+rules however is best for their game. So
+ 
+
+393
+00:07:54,639 --> 00:07:56,550
+rules however is best for their game. So
+in this case, the GM might instead grant
+
+394
+00:07:56,550 --> 00:07:56,560
+in this case, the GM might instead grant
+ 
+
+395
+00:07:56,560 --> 00:07:58,950
+in this case, the GM might instead grant
+the target cover and deduct the hit
+
+396
+00:07:58,950 --> 00:07:58,960
+the target cover and deduct the hit
+ 
+
+397
+00:07:58,960 --> 00:08:01,029
+the target cover and deduct the hit
+point value of the window from the
+
+398
+00:08:01,029 --> 00:08:01,039
+point value of the window from the
+ 
+
+399
+00:08:01,039 --> 00:08:03,270
+point value of the window from the
+damage applied by the fireball. And
+
+400
+00:08:03,270 --> 00:08:03,280
+damage applied by the fireball. And
+ 
+
+401
+00:08:03,280 --> 00:08:05,670
+damage applied by the fireball. And
+last, some spells adjust or remove the
+
+402
+00:08:05,670 --> 00:08:05,680
+last, some spells adjust or remove the
+ 
+
+403
+00:08:05,680 --> 00:08:07,589
+last, some spells adjust or remove the
+requirement for line of effect. For
+
+404
+00:08:07,589 --> 00:08:07,599
+requirement for line of effect. For
+ 
+
+405
+00:08:07,599 --> 00:08:10,469
+requirement for line of effect. For
+example, familiar's face has a range of
+
+406
+00:08:10,469 --> 00:08:10,479
+example, familiar's face has a range of
+ 
+
+407
+00:08:10,479 --> 00:08:13,110
+example, familiar's face has a range of
+one mile and targets one willing
+
+408
+00:08:13,110 --> 00:08:13,120
+one mile and targets one willing
+ 
+
+409
+00:08:13,120 --> 00:08:15,670
+one mile and targets one willing
+creature that's your animal companion or
+
+410
+00:08:15,670 --> 00:08:15,680
+creature that's your animal companion or
+ 
+
+411
+00:08:15,680 --> 00:08:18,070
+creature that's your animal companion or
+familiar. So, normally you would need
+
+412
+00:08:18,070 --> 00:08:18,080
+familiar. So, normally you would need
+ 
+
+413
+00:08:18,080 --> 00:08:19,990
+familiar. So, normally you would need
+line of effect to your familiar to cast
+
+414
+00:08:19,990 --> 00:08:20,000
+line of effect to your familiar to cast
+ 
+
+415
+00:08:20,000 --> 00:08:22,309
+line of effect to your familiar to cast
+this on them. But the spells text
+
+416
+00:08:22,309 --> 00:08:22,319
+this on them. But the spells text
+ 
+
+417
+00:08:22,319 --> 00:08:24,550
+this on them. But the spells text
+includes a special notation that says
+
+418
+00:08:24,550 --> 00:08:24,560
+includes a special notation that says
+ 
+
+419
+00:08:24,560 --> 00:08:27,189
+includes a special notation that says
+you don't need line of sight or a line
+
+420
+00:08:27,189 --> 00:08:27,199
+you don't need line of sight or a line
+ 
+
+421
+00:08:27,199 --> 00:08:29,510
+you don't need line of sight or a line
+of effect to your target when you cast
+
+422
+00:08:29,510 --> 00:08:29,520
+of effect to your target when you cast
+ 
+
+423
+00:08:29,520 --> 00:08:31,749
+of effect to your target when you cast
+this spell. So, in this case, you would
+
+424
+00:08:31,749 --> 00:08:31,759
+this spell. So, in this case, you would
+ 
+
+425
+00:08:31,759 --> 00:08:33,909
+this spell. So, in this case, you would
+only need to be within one mile of your
+
+426
+00:08:33,909 --> 00:08:33,919
+only need to be within one mile of your
+ 
+
+427
+00:08:33,919 --> 00:08:36,070
+only need to be within one mile of your
+animal companion or familiar to target
+
+428
+00:08:36,070 --> 00:08:36,080
+animal companion or familiar to target
+ 
+
+429
+00:08:36,080 --> 00:08:40,870
+animal companion or familiar to target
+them with familiar's face.
+
+430
+00:08:40,870 --> 00:08:40,880
+
+ 
+
+431
+00:08:40,880 --> 00:08:43,190
+
+In the first example, team Pathfinder is
+
+432
+00:08:43,190 --> 00:08:43,200
+In the first example, team Pathfinder is
+ 
+
+433
+00:08:43,200 --> 00:08:45,030
+In the first example, team Pathfinder is
+battling a tribe of goblins in a
+
+434
+00:08:45,030 --> 00:08:45,040
+battling a tribe of goblins in a
+ 
+
+435
+00:08:45,040 --> 00:08:47,750
+battling a tribe of goblins in a
+corridor. For our purposes, the red bars
+
+436
+00:08:47,750 --> 00:08:47,760
+corridor. For our purposes, the red bars
+ 
+
+437
+00:08:47,760 --> 00:08:49,750
+corridor. For our purposes, the red bars
+represent closed doors and the green
+
+438
+00:08:49,750 --> 00:08:49,760
+represent closed doors and the green
+ 
+
+439
+00:08:49,760 --> 00:08:52,630
+represent closed doors and the green
+bars represent open doors. Her friends
+
+440
+00:08:52,630 --> 00:08:52,640
+bars represent open doors. Her friends
+ 
+
+441
+00:08:52,640 --> 00:08:54,630
+bars represent open doors. Her friends
+are taking a beating. So on Kyra's turn,
+
+442
+00:08:54,630 --> 00:08:54,640
+are taking a beating. So on Kyra's turn,
+ 
+
+443
+00:08:54,640 --> 00:08:56,870
+are taking a beating. So on Kyra's turn,
+she casts heal using three actions so
+
+444
+00:08:56,870 --> 00:08:56,880
+she casts heal using three actions so
+ 
+
+445
+00:08:56,880 --> 00:08:58,790
+she casts heal using three actions so
+that it heals all living creatures
+
+446
+00:08:58,790 --> 00:08:58,800
+that it heals all living creatures
+ 
+
+447
+00:08:58,800 --> 00:09:01,590
+that it heals all living creatures
+within 30 ft of her. This is a 30-foot
+
+448
+00:09:01,590 --> 00:09:01,600
+within 30 ft of her. This is a 30-foot
+ 
+
+449
+00:09:01,600 --> 00:09:04,070
+within 30 ft of her. This is a 30-foot
+imination centered on her square and
+
+450
+00:09:04,070 --> 00:09:04,080
+imination centered on her square and
+ 
+
+451
+00:09:04,080 --> 00:09:06,310
+imination centered on her square and
+again heals all willing creatures within
+
+452
+00:09:06,310 --> 00:09:06,320
+again heals all willing creatures within
+ 
+
+453
+00:09:06,320 --> 00:09:09,269
+again heals all willing creatures within
+that range. So here we can see all of
+
+454
+00:09:09,269 --> 00:09:09,279
+that range. So here we can see all of
+ 
+
+455
+00:09:09,279 --> 00:09:11,110
+that range. So here we can see all of
+the targets within the range of that
+
+456
+00:09:11,110 --> 00:09:11,120
+the targets within the range of that
+ 
+
+457
+00:09:11,120 --> 00:09:13,509
+the targets within the range of that
+spell. But next we need to apply line of
+
+458
+00:09:13,509 --> 00:09:13,519
+spell. But next we need to apply line of
+ 
+
+459
+00:09:13,519 --> 00:09:15,910
+spell. But next we need to apply line of
+effect. In order for there to be line of
+
+460
+00:09:15,910 --> 00:09:15,920
+effect. In order for there to be line of
+ 
+
+461
+00:09:15,920 --> 00:09:17,910
+effect. In order for there to be line of
+effect, there must be an unobstructed
+
+462
+00:09:17,910 --> 00:09:17,920
+effect, there must be an unobstructed
+ 
+
+463
+00:09:17,920 --> 00:09:20,310
+effect, there must be an unobstructed
+path from the point of origin, which in
+
+464
+00:09:20,310 --> 00:09:20,320
+path from the point of origin, which in
+ 
+
+465
+00:09:20,320 --> 00:09:23,190
+path from the point of origin, which in
+this case is Kaira, to the target. When
+
+466
+00:09:23,190 --> 00:09:23,200
+this case is Kaira, to the target. When
+ 
+
+467
+00:09:23,200 --> 00:09:25,269
+this case is Kaira, to the target. When
+debating if there is line of effect, I
+
+468
+00:09:25,269 --> 00:09:25,279
+debating if there is line of effect, I
+ 
+
+469
+00:09:25,279 --> 00:09:27,750
+debating if there is line of effect, I
+like to apply the flashlight rule, which
+
+470
+00:09:27,750 --> 00:09:27,760
+like to apply the flashlight rule, which
+ 
+
+471
+00:09:27,760 --> 00:09:30,230
+like to apply the flashlight rule, which
+says if Kyra could shine a flashlight on
+
+472
+00:09:30,230 --> 00:09:30,240
+says if Kyra could shine a flashlight on
+ 
+
+473
+00:09:30,240 --> 00:09:32,310
+says if Kyra could shine a flashlight on
+a target from where she's standing, then
+
+474
+00:09:32,310 --> 00:09:32,320
+a target from where she's standing, then
+ 
+
+475
+00:09:32,320 --> 00:09:34,949
+a target from where she's standing, then
+there is line of effect. So, let's apply
+
+476
+00:09:34,949 --> 00:09:34,959
+there is line of effect. So, let's apply
+ 
+
+477
+00:09:34,959 --> 00:09:37,269
+there is line of effect. So, let's apply
+that rule. Starting with the easy ones,
+
+478
+00:09:37,269 --> 00:09:37,279
+that rule. Starting with the easy ones,
+ 
+
+479
+00:09:37,279 --> 00:09:39,990
+that rule. Starting with the easy ones,
+Valeros and Mauricio. She easily could
+
+480
+00:09:39,990 --> 00:09:40,000
+Valeros and Mauricio. She easily could
+ 
+
+481
+00:09:40,000 --> 00:09:42,310
+Valeros and Mauricio. She easily could
+shine the light on Valeros. And even
+
+482
+00:09:42,310 --> 00:09:42,320
+shine the light on Valeros. And even
+ 
+
+483
+00:09:42,320 --> 00:09:44,150
+shine the light on Valeros. And even
+though there is a goblin between her and
+
+484
+00:09:44,150 --> 00:09:44,160
+though there is a goblin between her and
+ 
+
+485
+00:09:44,160 --> 00:09:46,710
+though there is a goblin between her and
+Mara, the goblin doesn't completely
+
+486
+00:09:46,710 --> 00:09:46,720
+Mara, the goblin doesn't completely
+ 
+
+487
+00:09:46,720 --> 00:09:48,949
+Mara, the goblin doesn't completely
+obscure her and Cairo would still be
+
+488
+00:09:48,949 --> 00:09:48,959
+obscure her and Cairo would still be
+ 
+
+489
+00:09:48,959 --> 00:09:51,430
+obscure her and Cairo would still be
+able to hit her with a flashlight. So
+
+490
+00:09:51,430 --> 00:09:51,440
+able to hit her with a flashlight. So
+ 
+
+491
+00:09:51,440 --> 00:09:54,230
+able to hit her with a flashlight. So
+there is line of effect to both of them.
+
+492
+00:09:54,230 --> 00:09:54,240
+there is line of effect to both of them.
+ 
+
+493
+00:09:54,240 --> 00:09:56,949
+there is line of effect to both of them.
+Next, let's consider Ezin and Cion.
+
+494
+00:09:56,949 --> 00:09:56,959
+Next, let's consider Ezin and Cion.
+ 
+
+495
+00:09:56,959 --> 00:09:58,790
+Next, let's consider Ezin and Cion.
+Those doors are open and even though it
+
+496
+00:09:58,790 --> 00:09:58,800
+Those doors are open and even though it
+ 
+
+497
+00:09:58,800 --> 00:10:01,110
+Those doors are open and even though it
+might be difficult, I believe Kyra could
+
+498
+00:10:01,110 --> 00:10:01,120
+might be difficult, I believe Kyra could
+ 
+
+499
+00:10:01,120 --> 00:10:03,110
+might be difficult, I believe Kyra could
+shine her flashlight on both of them as
+
+500
+00:10:03,110 --> 00:10:03,120
+shine her flashlight on both of them as
+ 
+
+501
+00:10:03,120 --> 00:10:05,590
+shine her flashlight on both of them as
+well. So they do have line of effect,
+
+502
+00:10:05,590 --> 00:10:05,600
+well. So they do have line of effect,
+ 
+
+503
+00:10:05,600 --> 00:10:08,790
+well. So they do have line of effect,
+too. Lim, on the other hand, is behind a
+
+504
+00:10:08,790 --> 00:10:08,800
+too. Lim, on the other hand, is behind a
+ 
+
+505
+00:10:08,800 --> 00:10:11,269
+too. Lim, on the other hand, is behind a
+closed door. Kyra could not shine a
+
+506
+00:10:11,269 --> 00:10:11,279
+closed door. Kyra could not shine a
+ 
+
+507
+00:10:11,279 --> 00:10:13,269
+closed door. Kyra could not shine a
+light on him. So there is no line of
+
+508
+00:10:13,269 --> 00:10:13,279
+light on him. So there is no line of
+ 
+
+509
+00:10:13,279 --> 00:10:15,190
+light on him. So there is no line of
+effect. And it's worth mentioning that
+
+510
+00:10:15,190 --> 00:10:15,200
+effect. And it's worth mentioning that
+ 
+
+511
+00:10:15,200 --> 00:10:17,030
+effect. And it's worth mentioning that
+it would not make any difference at all
+
+512
+00:10:17,030 --> 00:10:17,040
+it would not make any difference at all
+ 
+
+513
+00:10:17,040 --> 00:10:19,030
+it would not make any difference at all
+if the door was made of glass and was
+
+514
+00:10:19,030 --> 00:10:19,040
+if the door was made of glass and was
+ 
+
+515
+00:10:19,040 --> 00:10:21,350
+if the door was made of glass and was
+transparent. That would allow line of
+
+516
+00:10:21,350 --> 00:10:21,360
+transparent. That would allow line of
+ 
+
+517
+00:10:21,360 --> 00:10:24,069
+transparent. That would allow line of
+sight, but not line of effect. It would
+
+518
+00:10:24,069 --> 00:10:24,079
+sight, but not line of effect. It would
+ 
+
+519
+00:10:24,079 --> 00:10:25,990
+sight, but not line of effect. It would
+still be a physical barrier that
+
+520
+00:10:25,990 --> 00:10:26,000
+still be a physical barrier that
+ 
+
+521
+00:10:26,000 --> 00:10:28,389
+still be a physical barrier that
+obstructs the path to the target. That
+
+522
+00:10:28,389 --> 00:10:28,399
+obstructs the path to the target. That
+ 
+
+523
+00:10:28,399 --> 00:10:30,230
+obstructs the path to the target. That
+also means that the flashlight rule
+
+524
+00:10:30,230 --> 00:10:30,240
+also means that the flashlight rule
+ 
+
+525
+00:10:30,240 --> 00:10:33,430
+also means that the flashlight rule
+isn't a 100% perfect illustration, but
+
+526
+00:10:33,430 --> 00:10:33,440
+isn't a 100% perfect illustration, but
+ 
+
+527
+00:10:33,440 --> 00:10:36,230
+isn't a 100% perfect illustration, but
+it works for me in most situations.
+
+528
+00:10:36,230 --> 00:10:36,240
+it works for me in most situations.
+ 
+
+529
+00:10:36,240 --> 00:10:39,190
+it works for me in most situations.
+Now comes the hard one. Sila, is there
+
+530
+00:10:39,190 --> 00:10:39,200
+Now comes the hard one. Sila, is there
+ 
+
+531
+00:10:39,200 --> 00:10:42,710
+Now comes the hard one. Sila, is there
+line of effect from Kyra to her? By raw,
+
+532
+00:10:42,710 --> 00:10:42,720
+line of effect from Kyra to her? By raw,
+ 
+
+533
+00:10:42,720 --> 00:10:45,430
+line of effect from Kyra to her? By raw,
+no, there is not. Kyra would not be able
+
+534
+00:10:45,430 --> 00:10:45,440
+no, there is not. Kyra would not be able
+ 
+
+535
+00:10:45,440 --> 00:10:47,509
+no, there is not. Kyra would not be able
+to shine a flashlight on her from her
+
+536
+00:10:47,509 --> 00:10:47,519
+to shine a flashlight on her from her
+ 
+
+537
+00:10:47,519 --> 00:10:49,750
+to shine a flashlight on her from her
+current space as Sila is completely
+
+538
+00:10:49,750 --> 00:10:49,760
+current space as Sila is completely
+ 
+
+539
+00:10:49,760 --> 00:10:52,630
+current space as Sila is completely
+obscured behind a wall, but the door is
+
+540
+00:10:52,630 --> 00:10:52,640
+obscured behind a wall, but the door is
+ 
+
+541
+00:10:52,640 --> 00:10:55,030
+obscured behind a wall, but the door is
+open and she's next to the door. And
+
+542
+00:10:55,030 --> 00:10:55,040
+open and she's next to the door. And
+ 
+
+543
+00:10:55,040 --> 00:10:56,870
+open and she's next to the door. And
+this is where a lot of GMs will put
+
+544
+00:10:56,870 --> 00:10:56,880
+this is where a lot of GMs will put
+ 
+
+545
+00:10:56,880 --> 00:10:59,350
+this is where a lot of GMs will put
+their own spin on things. Some would say
+
+546
+00:10:59,350 --> 00:10:59,360
+their own spin on things. Some would say
+ 
+
+547
+00:10:59,360 --> 00:11:01,110
+their own spin on things. Some would say
+that the radiant light from the heel
+
+548
+00:11:01,110 --> 00:11:01,120
+that the radiant light from the heel
+ 
+
+549
+00:11:01,120 --> 00:11:03,350
+that the radiant light from the heel
+spell spills through the doorway and
+
+550
+00:11:03,350 --> 00:11:03,360
+spell spills through the doorway and
+ 
+
+551
+00:11:03,360 --> 00:11:06,630
+spell spills through the doorway and
+around the corner and does affect Sila.
+
+552
+00:11:06,630 --> 00:11:06,640
+around the corner and does affect Sila.
+ 
+
+553
+00:11:06,640 --> 00:11:08,710
+around the corner and does affect Sila.
+That's not supported by the rules as
+
+554
+00:11:08,710 --> 00:11:08,720
+That's not supported by the rules as
+ 
+
+555
+00:11:08,720 --> 00:11:11,509
+That's not supported by the rules as
+written, but as a GM, that's absolutely
+
+556
+00:11:11,509 --> 00:11:11,519
+written, but as a GM, that's absolutely
+ 
+
+557
+00:11:11,519 --> 00:11:14,230
+written, but as a GM, that's absolutely
+in their right to decide differently.
+
+558
+00:11:14,230 --> 00:11:14,240
+in their right to decide differently.
+ 
+
+559
+00:11:14,240 --> 00:11:17,030
+in their right to decide differently.
+And what about the goblins? There is
+
+560
+00:11:17,030 --> 00:11:17,040
+And what about the goblins? There is
+ 
+
+561
+00:11:17,040 --> 00:11:19,110
+And what about the goblins? There is
+clear line of effect to several of them,
+
+562
+00:11:19,110 --> 00:11:19,120
+clear line of effect to several of them,
+ 
+
+563
+00:11:19,120 --> 00:11:21,910
+clear line of effect to several of them,
+but will they be healed, too? And the
+
+564
+00:11:21,910 --> 00:11:21,920
+but will they be healed, too? And the
+ 
+
+565
+00:11:21,920 --> 00:11:23,990
+but will they be healed, too? And the
+answer is yes, they would. They are
+
+566
+00:11:23,990 --> 00:11:24,000
+answer is yes, they would. They are
+ 
+
+567
+00:11:24,000 --> 00:11:25,829
+answer is yes, they would. They are
+living creatures, and one would likely
+
+568
+00:11:25,829 --> 00:11:25,839
+living creatures, and one would likely
+ 
+
+569
+00:11:25,839 --> 00:11:28,150
+living creatures, and one would likely
+assume they are willing to be healed, so
+
+570
+00:11:28,150 --> 00:11:28,160
+assume they are willing to be healed, so
+ 
+
+571
+00:11:28,160 --> 00:11:30,470
+assume they are willing to be healed, so
+they would be healed. However, clerics
+
+572
+00:11:30,470 --> 00:11:30,480
+they would be healed. However, clerics
+ 
+
+573
+00:11:30,480 --> 00:11:32,949
+they would be healed. However, clerics
+can take the selective energy feat to
+
+574
+00:11:32,949 --> 00:11:32,959
+can take the selective energy feat to
+ 
+
+575
+00:11:32,959 --> 00:11:37,030
+can take the selective energy feat to
+avoid healing their enemies.
+
+576
+00:11:37,030 --> 00:11:37,040
+avoid healing their enemies.
+ 
+
+577
+00:11:37,040 --> 00:11:40,310
+avoid healing their enemies.
+In our next example, Kyra casts Noise
+
+578
+00:11:40,310 --> 00:11:40,320
+In our next example, Kyra casts Noise
+ 
+
+579
+00:11:40,320 --> 00:11:43,509
+In our next example, Kyra casts Noise
+Blast to attack the goblins. Noise Blast
+
+580
+00:11:43,509 --> 00:11:43,519
+Blast to attack the goblins. Noise Blast
+ 
+
+581
+00:11:43,519 --> 00:11:46,550
+Blast to attack the goblins. Noise Blast
+is a 10- ft burst area attack with a 30
+
+582
+00:11:46,550 --> 00:11:46,560
+is a 10- ft burst area attack with a 30
+ 
+
+583
+00:11:46,560 --> 00:11:49,110
+is a 10- ft burst area attack with a 30
+ft range. Instead of the spell effect
+
+584
+00:11:49,110 --> 00:11:49,120
+ft range. Instead of the spell effect
+ 
+
+585
+00:11:49,120 --> 00:11:51,590
+ft range. Instead of the spell effect
+emanating away from her, she instead
+
+586
+00:11:51,590 --> 00:11:51,600
+emanating away from her, she instead
+ 
+
+587
+00:11:51,600 --> 00:11:53,670
+emanating away from her, she instead
+needs to target an intersection of
+
+588
+00:11:53,670 --> 00:11:53,680
+needs to target an intersection of
+ 
+
+589
+00:11:53,680 --> 00:11:56,870
+needs to target an intersection of
+squares that is within 30 ft of her, and
+
+590
+00:11:56,870 --> 00:11:56,880
+squares that is within 30 ft of her, and
+ 
+
+591
+00:11:56,880 --> 00:11:59,269
+squares that is within 30 ft of her, and
+all squares within 10 ft of that point
+
+592
+00:11:59,269 --> 00:11:59,279
+all squares within 10 ft of that point
+ 
+
+593
+00:11:59,279 --> 00:12:02,230
+all squares within 10 ft of that point
+of origin will be within the area of
+
+594
+00:12:02,230 --> 00:12:02,240
+of origin will be within the area of
+ 
+
+595
+00:12:02,240 --> 00:12:04,550
+of origin will be within the area of
+effect. For example, if she wishes to
+
+596
+00:12:04,550 --> 00:12:04,560
+effect. For example, if she wishes to
+ 
+
+597
+00:12:04,560 --> 00:12:06,629
+effect. For example, if she wishes to
+attack the goblins to the left of her,
+
+598
+00:12:06,629 --> 00:12:06,639
+attack the goblins to the left of her,
+ 
+
+599
+00:12:06,639 --> 00:12:09,509
+attack the goblins to the left of her,
+she might target this intersection,
+
+600
+00:12:09,509 --> 00:12:09,519
+she might target this intersection,
+ 
+
+601
+00:12:09,519 --> 00:12:11,670
+she might target this intersection,
+which is both within 30 ft of her and
+
+602
+00:12:11,670 --> 00:12:11,680
+which is both within 30 ft of her and
+ 
+
+603
+00:12:11,680 --> 00:12:13,750
+which is both within 30 ft of her and
+there is an unobstructed path from her
+
+604
+00:12:13,750 --> 00:12:13,760
+there is an unobstructed path from her
+ 
+
+605
+00:12:13,760 --> 00:12:16,870
+there is an unobstructed path from her
+to it. So, this is valid. And the noise
+
+606
+00:12:16,870 --> 00:12:16,880
+to it. So, this is valid. And the noise
+ 
+
+607
+00:12:16,880 --> 00:12:19,030
+to it. So, this is valid. And the noise
+blast would originate from that point
+
+608
+00:12:19,030 --> 00:12:19,040
+blast would originate from that point
+ 
+
+609
+00:12:19,040 --> 00:12:21,910
+blast would originate from that point
+and affect everything within 10 ft of it
+
+610
+00:12:21,910 --> 00:12:21,920
+and affect everything within 10 ft of it
+ 
+
+611
+00:12:21,920 --> 00:12:25,030
+and affect everything within 10 ft of it
+as we see here. But then we need to
+
+612
+00:12:25,030 --> 00:12:25,040
+as we see here. But then we need to
+ 
+
+613
+00:12:25,040 --> 00:12:27,829
+as we see here. But then we need to
+adjust for line of effect from the point
+
+614
+00:12:27,829 --> 00:12:27,839
+adjust for line of effect from the point
+ 
+
+615
+00:12:27,839 --> 00:12:30,870
+adjust for line of effect from the point
+of origin to each of the goblins. These
+
+616
+00:12:30,870 --> 00:12:30,880
+of origin to each of the goblins. These
+ 
+
+617
+00:12:30,880 --> 00:12:32,870
+of origin to each of the goblins. These
+three have clear line of effect to the
+
+618
+00:12:32,870 --> 00:12:32,880
+three have clear line of effect to the
+ 
+
+619
+00:12:32,880 --> 00:12:34,949
+three have clear line of effect to the
+point of origin and would be affected by
+
+620
+00:12:34,949 --> 00:12:34,959
+point of origin and would be affected by
+ 
+
+621
+00:12:34,959 --> 00:12:37,269
+point of origin and would be affected by
+the spell. The northern goblin is behind
+
+622
+00:12:37,269 --> 00:12:37,279
+the spell. The northern goblin is behind
+ 
+
+623
+00:12:37,279 --> 00:12:39,829
+the spell. The northern goblin is behind
+a closed door which means there is no
+
+624
+00:12:39,829 --> 00:12:39,839
+a closed door which means there is no
+ 
+
+625
+00:12:39,839 --> 00:12:42,230
+a closed door which means there is no
+line of effect to them and would not be
+
+626
+00:12:42,230 --> 00:12:42,240
+line of effect to them and would not be
+ 
+
+627
+00:12:42,240 --> 00:12:44,629
+line of effect to them and would not be
+affected by the spell. Now that might
+
+628
+00:12:44,629 --> 00:12:44,639
+affected by the spell. Now that might
+ 
+
+629
+00:12:44,639 --> 00:12:47,430
+affected by the spell. Now that might
+beg the question of is the door damaged
+
+630
+00:12:47,430 --> 00:12:47,440
+beg the question of is the door damaged
+ 
+
+631
+00:12:47,440 --> 00:12:49,910
+beg the question of is the door damaged
+and if it is destroyed would any damage
+
+632
+00:12:49,910 --> 00:12:49,920
+and if it is destroyed would any damage
+ 
+
+633
+00:12:49,920 --> 00:12:52,470
+and if it is destroyed would any damage
+left over pass on to the goblin standing
+
+634
+00:12:52,470 --> 00:12:52,480
+left over pass on to the goblin standing
+ 
+
+635
+00:12:52,480 --> 00:12:55,110
+left over pass on to the goblin standing
+behind it? And that's a longer
+
+636
+00:12:55,110 --> 00:12:55,120
+behind it? And that's a longer
+ 
+
+637
+00:12:55,120 --> 00:12:56,629
+behind it? And that's a longer
+discussion that's beyond the scope of
+
+638
+00:12:56,629 --> 00:12:56,639
+discussion that's beyond the scope of
+ 
+
+639
+00:12:56,639 --> 00:12:58,710
+discussion that's beyond the scope of
+this video. But the rule specifically
+
+640
+00:12:58,710 --> 00:12:58,720
+this video. But the rule specifically
+ 
+
+641
+00:12:58,720 --> 00:13:01,430
+this video. But the rule specifically
+use an example of a fireball spell and
+
+642
+00:13:01,430 --> 00:13:01,440
+use an example of a fireball spell and
+ 
+
+643
+00:13:01,440 --> 00:13:03,910
+use an example of a fireball spell and
+says that a door would stop all damage
+
+644
+00:13:03,910 --> 00:13:03,920
+says that a door would stop all damage
+ 
+
+645
+00:13:03,920 --> 00:13:06,790
+says that a door would stop all damage
+from it from passing through. But each
+
+646
+00:13:06,790 --> 00:13:06,800
+from it from passing through. But each
+ 
+
+647
+00:13:06,800 --> 00:13:09,190
+from it from passing through. But each
+GM is free to roll however they believe
+
+648
+00:13:09,190 --> 00:13:09,200
+GM is free to roll however they believe
+ 
+
+649
+00:13:09,200 --> 00:13:11,750
+GM is free to roll however they believe
+is most appropriate. Now that just
+
+650
+00:13:11,750 --> 00:13:11,760
+is most appropriate. Now that just
+ 
+
+651
+00:13:11,760 --> 00:13:13,910
+is most appropriate. Now that just
+leaves the goblin in the bottom left. Is
+
+652
+00:13:13,910 --> 00:13:13,920
+leaves the goblin in the bottom left. Is
+ 
+
+653
+00:13:13,920 --> 00:13:15,509
+leaves the goblin in the bottom left. Is
+there a line of effect from the point of
+
+654
+00:13:15,509 --> 00:13:15,519
+there a line of effect from the point of
+ 
+
+655
+00:13:15,519 --> 00:13:17,990
+there a line of effect from the point of
+origin to that goblin? If someone was
+
+656
+00:13:17,990 --> 00:13:18,000
+origin to that goblin? If someone was
+ 
+
+657
+00:13:18,000 --> 00:13:19,990
+origin to that goblin? If someone was
+standing on the point of origin, could
+
+658
+00:13:19,990 --> 00:13:20,000
+standing on the point of origin, could
+ 
+
+659
+00:13:20,000 --> 00:13:22,470
+standing on the point of origin, could
+they shine a flashlight and hit this
+
+660
+00:13:22,470 --> 00:13:22,480
+they shine a flashlight and hit this
+ 
+
+661
+00:13:22,480 --> 00:13:24,710
+they shine a flashlight and hit this
+goblin? Even though a line from the
+
+662
+00:13:24,710 --> 00:13:24,720
+goblin? Even though a line from the
+ 
+
+663
+00:13:24,720 --> 00:13:26,870
+goblin? Even though a line from the
+intersection does run along the right
+
+664
+00:13:26,870 --> 00:13:26,880
+intersection does run along the right
+ 
+
+665
+00:13:26,880 --> 00:13:29,030
+intersection does run along the right
+hand edge of the goblin square and
+
+666
+00:13:29,030 --> 00:13:29,040
+hand edge of the goblin square and
+ 
+
+667
+00:13:29,040 --> 00:13:31,590
+hand edge of the goblin square and
+through a completely open door, I don't
+
+668
+00:13:31,590 --> 00:13:31,600
+through a completely open door, I don't
+ 
+
+669
+00:13:31,600 --> 00:13:33,670
+through a completely open door, I don't
+see this as passing the flashlight test
+
+670
+00:13:33,670 --> 00:13:33,680
+see this as passing the flashlight test
+ 
+
+671
+00:13:33,680 --> 00:13:35,990
+see this as passing the flashlight test
+and would rule that this goblin is safe
+
+672
+00:13:35,990 --> 00:13:36,000
+and would rule that this goblin is safe
+ 
+
+673
+00:13:36,000 --> 00:13:38,710
+and would rule that this goblin is safe
+from the sound burst spell.
+
+674
+00:13:38,710 --> 00:13:38,720
+from the sound burst spell.
+ 
+
+675
+00:13:38,720 --> 00:13:41,110
+from the sound burst spell.
+Next, let's consider the goblins to the
+
+676
+00:13:41,110 --> 00:13:41,120
+Next, let's consider the goblins to the
+ 
+
+677
+00:13:41,120 --> 00:13:43,030
+Next, let's consider the goblins to the
+bottom right of the screen. For our
+
+678
+00:13:43,030 --> 00:13:43,040
+bottom right of the screen. For our
+ 
+
+679
+00:13:43,040 --> 00:13:45,509
+bottom right of the screen. For our
+purposes, we'll assume she is aware all
+
+680
+00:13:45,509 --> 00:13:45,519
+purposes, we'll assume she is aware all
+ 
+
+681
+00:13:45,519 --> 00:13:47,910
+purposes, we'll assume she is aware all
+of these goblins are grouped there, even
+
+682
+00:13:47,910 --> 00:13:47,920
+of these goblins are grouped there, even
+ 
+
+683
+00:13:47,920 --> 00:13:49,750
+of these goblins are grouped there, even
+if she doesn't have line of sight to
+
+684
+00:13:49,750 --> 00:13:49,760
+if she doesn't have line of sight to
+ 
+
+685
+00:13:49,760 --> 00:13:52,230
+if she doesn't have line of sight to
+them. Now, maybe she just crossed that
+
+686
+00:13:52,230 --> 00:13:52,240
+them. Now, maybe she just crossed that
+ 
+
+687
+00:13:52,240 --> 00:13:53,990
+them. Now, maybe she just crossed that
+intersection with her first action and
+
+688
+00:13:53,990 --> 00:13:54,000
+intersection with her first action and
+ 
+
+689
+00:13:54,000 --> 00:13:55,990
+intersection with her first action and
+now she wants to attack them with noise
+
+690
+00:13:55,990 --> 00:13:56,000
+now she wants to attack them with noise
+ 
+
+691
+00:13:56,000 --> 00:13:58,949
+now she wants to attack them with noise
+blast. If she places the 10-ft burst
+
+692
+00:13:58,949 --> 00:13:58,959
+blast. If she places the 10-ft burst
+ 
+
+693
+00:13:58,959 --> 00:14:01,750
+blast. If she places the 10-ft burst
+here, it would hit them all. But
+
+694
+00:14:01,750 --> 00:14:01,760
+here, it would hit them all. But
+ 
+
+695
+00:14:01,760 --> 00:14:03,990
+here, it would hit them all. But
+unfortunately, in order to do that, she
+
+696
+00:14:03,990 --> 00:14:04,000
+unfortunately, in order to do that, she
+ 
+
+697
+00:14:04,000 --> 00:14:06,230
+unfortunately, in order to do that, she
+would need to place the point of origin
+
+698
+00:14:06,230 --> 00:14:06,240
+would need to place the point of origin
+ 
+
+699
+00:14:06,240 --> 00:14:08,790
+would need to place the point of origin
+here at this intersection, which she
+
+700
+00:14:08,790 --> 00:14:08,800
+here at this intersection, which she
+ 
+
+701
+00:14:08,800 --> 00:14:10,870
+here at this intersection, which she
+can't do because she does not have line
+
+702
+00:14:10,870 --> 00:14:10,880
+can't do because she does not have line
+ 
+
+703
+00:14:10,880 --> 00:14:13,670
+can't do because she does not have line
+of effect to that point. She needs to
+
+704
+00:14:13,670 --> 00:14:13,680
+of effect to that point. She needs to
+ 
+
+705
+00:14:13,680 --> 00:14:15,670
+of effect to that point. She needs to
+have an unobstructed path to the point
+
+706
+00:14:15,670 --> 00:14:15,680
+have an unobstructed path to the point
+ 
+
+707
+00:14:15,680 --> 00:14:18,230
+have an unobstructed path to the point
+of origin and that intersection is
+
+708
+00:14:18,230 --> 00:14:18,240
+of origin and that intersection is
+ 
+
+709
+00:14:18,240 --> 00:14:20,550
+of origin and that intersection is
+blocked by a wall. So she would need to
+
+710
+00:14:20,550 --> 00:14:20,560
+blocked by a wall. So she would need to
+ 
+
+711
+00:14:20,560 --> 00:14:23,590
+blocked by a wall. So she would need to
+place the point of origin here and the
+
+712
+00:14:23,590 --> 00:14:23,600
+place the point of origin here and the
+ 
+
+713
+00:14:23,600 --> 00:14:26,150
+place the point of origin here and the
+bottom two goblins would not be within
+
+714
+00:14:26,150 --> 00:14:26,160
+bottom two goblins would not be within
+ 
+
+715
+00:14:26,160 --> 00:14:30,069
+bottom two goblins would not be within
+range of the blast.
+
+716
+00:14:30,069 --> 00:14:30,079
+
+ 
+
+717
+00:14:30,079 --> 00:14:32,790
+
+Some spells require you to succeed at an
+
+718
+00:14:32,790 --> 00:14:32,800
+Some spells require you to succeed at an
+ 
+
+719
+00:14:32,800 --> 00:14:35,110
+Some spells require you to succeed at an
+attack role to affect the target. Just
+
+720
+00:14:35,110 --> 00:14:35,120
+attack role to affect the target. Just
+ 
+
+721
+00:14:35,120 --> 00:14:37,350
+attack role to affect the target. Just
+like weapon attacks, spell attack roles
+
+722
+00:14:37,350 --> 00:14:37,360
+like weapon attacks, spell attack roles
+ 
+
+723
+00:14:37,360 --> 00:14:39,990
+like weapon attacks, spell attack roles
+are opposed by the target's armor class.
+
+724
+00:14:39,990 --> 00:14:40,000
+are opposed by the target's armor class.
+ 
+
+725
+00:14:40,000 --> 00:14:42,790
+are opposed by the target's armor class.
+Spell attacks are a type of attack and
+
+726
+00:14:42,790 --> 00:14:42,800
+Spell attacks are a type of attack and
+ 
+
+727
+00:14:42,800 --> 00:14:44,550
+Spell attacks are a type of attack and
+therefore they're modified by any
+
+728
+00:14:44,550 --> 00:14:44,560
+therefore they're modified by any
+ 
+
+729
+00:14:44,560 --> 00:14:47,110
+therefore they're modified by any
+bonuses or penalties that affect attack
+
+730
+00:14:47,110 --> 00:14:47,120
+bonuses or penalties that affect attack
+ 
+
+731
+00:14:47,120 --> 00:14:50,550
+bonuses or penalties that affect attack
+roles. For example, victims of a bane
+
+732
+00:14:50,550 --> 00:14:50,560
+roles. For example, victims of a bane
+ 
+
+733
+00:14:50,560 --> 00:14:53,030
+roles. For example, victims of a bane
+spell suffer a negative one penalty to
+
+734
+00:14:53,030 --> 00:14:53,040
+spell suffer a negative one penalty to
+ 
+
+735
+00:14:53,040 --> 00:14:56,550
+spell suffer a negative one penalty to
+all attack roles. This does include
+
+736
+00:14:56,550 --> 00:14:56,560
+all attack roles. This does include
+ 
+
+737
+00:14:56,560 --> 00:14:59,110
+all attack roles. This does include
+spell attack roles, too. Whatever
+
+738
+00:14:59,110 --> 00:14:59,120
+spell attack roles, too. Whatever
+ 
+
+739
+00:14:59,120 --> 00:15:01,350
+spell attack roles, too. Whatever
+effects say that they modify just
+
+740
+00:15:01,350 --> 00:15:01,360
+effects say that they modify just
+ 
+
+741
+00:15:01,360 --> 00:15:03,910
+effects say that they modify just
+attacks without specifying a specific
+
+742
+00:15:03,910 --> 00:15:03,920
+attacks without specifying a specific
+ 
+
+743
+00:15:03,920 --> 00:15:06,790
+attacks without specifying a specific
+type of attack, they affect spell
+
+744
+00:15:06,790 --> 00:15:06,800
+type of attack, they affect spell
+ 
+
+745
+00:15:06,800 --> 00:15:09,350
+type of attack, they affect spell
+attacks, too. But if the effect calls
+
+746
+00:15:09,350 --> 00:15:09,360
+attacks, too. But if the effect calls
+ 
+
+747
+00:15:09,360 --> 00:15:11,670
+attacks, too. But if the effect calls
+out a specific type of attack like
+
+748
+00:15:11,670 --> 00:15:11,680
+out a specific type of attack like
+ 
+
+749
+00:15:11,680 --> 00:15:13,670
+out a specific type of attack like
+weapon attacks, then obviously those
+
+750
+00:15:13,670 --> 00:15:13,680
+weapon attacks, then obviously those
+ 
+
+751
+00:15:13,680 --> 00:15:16,470
+weapon attacks, then obviously those
+would not apply to spell attacks. Now,
+
+752
+00:15:16,470 --> 00:15:16,480
+would not apply to spell attacks. Now,
+ 
+
+753
+00:15:16,480 --> 00:15:18,949
+would not apply to spell attacks. Now,
+one specific penalty that definitely
+
+754
+00:15:18,949 --> 00:15:18,959
+one specific penalty that definitely
+ 
+
+755
+00:15:18,959 --> 00:15:21,430
+one specific penalty that definitely
+needs to be discussed is the multiple
+
+756
+00:15:21,430 --> 00:15:21,440
+needs to be discussed is the multiple
+ 
+
+757
+00:15:21,440 --> 00:15:24,710
+needs to be discussed is the multiple
+attack penalty. This applies to all
+
+758
+00:15:24,710 --> 00:15:24,720
+attack penalty. This applies to all
+ 
+
+759
+00:15:24,720 --> 00:15:27,189
+attack penalty. This applies to all
+actions with the attack trait. For
+
+760
+00:15:27,189 --> 00:15:27,199
+actions with the attack trait. For
+ 
+
+761
+00:15:27,199 --> 00:15:29,910
+actions with the attack trait. For
+example, divine lance requires a spell
+
+762
+00:15:29,910 --> 00:15:29,920
+example, divine lance requires a spell
+ 
+
+763
+00:15:29,920 --> 00:15:32,710
+example, divine lance requires a spell
+attack role and has the attack trait.
+
+764
+00:15:32,710 --> 00:15:32,720
+attack role and has the attack trait.
+ 
+
+765
+00:15:32,720 --> 00:15:35,430
+attack role and has the attack trait.
+Therefore, it is affected by and
+
+766
+00:15:35,430 --> 00:15:35,440
+Therefore, it is affected by and
+ 
+
+767
+00:15:35,440 --> 00:15:37,509
+Therefore, it is affected by and
+contributes to the multiple attack
+
+768
+00:15:37,509 --> 00:15:37,519
+contributes to the multiple attack
+ 
+
+769
+00:15:37,519 --> 00:15:39,750
+contributes to the multiple attack
+penalty. When making a spell attack
+
+770
+00:15:39,750 --> 00:15:39,760
+penalty. When making a spell attack
+ 
+
+771
+00:15:39,760 --> 00:15:41,990
+penalty. When making a spell attack
+roll, your modifier is equal to your
+
+772
+00:15:41,990 --> 00:15:42,000
+roll, your modifier is equal to your
+ 
+
+773
+00:15:42,000 --> 00:15:44,629
+roll, your modifier is equal to your
+spell-casting ability modifier plus your
+
+774
+00:15:44,629 --> 00:15:44,639
+spell-casting ability modifier plus your
+ 
+
+775
+00:15:44,639 --> 00:15:47,269
+spell-casting ability modifier plus your
+spell-casting proficiency bonus. The
+
+776
+00:15:47,269 --> 00:15:47,279
+spell-casting proficiency bonus. The
+ 
+
+777
+00:15:47,279 --> 00:15:49,829
+spell-casting proficiency bonus. The
+ability modifier that is used depends on
+
+778
+00:15:49,829 --> 00:15:49,839
+ability modifier that is used depends on
+ 
+
+779
+00:15:49,839 --> 00:15:51,910
+ability modifier that is used depends on
+how you gain access to the spell you're
+
+780
+00:15:51,910 --> 00:15:51,920
+how you gain access to the spell you're
+ 
+
+781
+00:15:51,920 --> 00:15:54,150
+how you gain access to the spell you're
+casting. If your class granted the
+
+782
+00:15:54,150 --> 00:15:54,160
+casting. If your class granted the
+ 
+
+783
+00:15:54,160 --> 00:15:56,470
+casting. If your class granted the
+ability to cast the spell, then you use
+
+784
+00:15:56,470 --> 00:15:56,480
+ability to cast the spell, then you use
+ 
+
+785
+00:15:56,480 --> 00:15:58,310
+ability to cast the spell, then you use
+that class's spell-casting ability
+
+786
+00:15:58,310 --> 00:15:58,320
+that class's spell-casting ability
+ 
+
+787
+00:15:58,320 --> 00:16:01,189
+that class's spell-casting ability
+modifier, which is often the class's key
+
+788
+00:16:01,189 --> 00:16:01,199
+modifier, which is often the class's key
+ 
+
+789
+00:16:01,199 --> 00:16:04,389
+modifier, which is often the class's key
+ability modifier. Bars and sorcerers use
+
+790
+00:16:04,389 --> 00:16:04,399
+ability modifier. Bars and sorcerers use
+ 
+
+791
+00:16:04,399 --> 00:16:06,870
+ability modifier. Bars and sorcerers use
+charisma. Clerics and druids use wisdom.
+
+792
+00:16:06,870 --> 00:16:06,880
+charisma. Clerics and druids use wisdom.
+ 
+
+793
+00:16:06,880 --> 00:16:09,030
+charisma. Clerics and druids use wisdom.
+Witches and wizards use intelligence,
+
+794
+00:16:09,030 --> 00:16:09,040
+Witches and wizards use intelligence,
+ 
+
+795
+00:16:09,040 --> 00:16:12,629
+Witches and wizards use intelligence,
+and so on.
+
+796
+00:16:12,629 --> 00:16:12,639
+
+ 
+
+797
+00:16:12,639 --> 00:16:15,030
+
+Innate spells, which we'll talk about in
+
+798
+00:16:15,030 --> 00:16:15,040
+Innate spells, which we'll talk about in
+ 
+
+799
+00:16:15,040 --> 00:16:17,670
+Innate spells, which we'll talk about in
+an upcoming video, use the caster's
+
+800
+00:16:17,670 --> 00:16:17,680
+an upcoming video, use the caster's
+ 
+
+801
+00:16:17,680 --> 00:16:20,949
+an upcoming video, use the caster's
+charisma modifier. And other sources of
+
+802
+00:16:20,949 --> 00:16:20,959
+charisma modifier. And other sources of
+ 
+
+803
+00:16:20,959 --> 00:16:23,670
+charisma modifier. And other sources of
+spells can specify what ability modifier
+
+804
+00:16:23,670 --> 00:16:23,680
+spells can specify what ability modifier
+ 
+
+805
+00:16:23,680 --> 00:16:26,069
+spells can specify what ability modifier
+to use for their spells. But the rule of
+
+806
+00:16:26,069 --> 00:16:26,079
+to use for their spells. But the rule of
+ 
+
+807
+00:16:26,079 --> 00:16:30,230
+to use for their spells. But the rule of
+thumb is when in doubt, use charisma.
+
+808
+00:16:30,230 --> 00:16:30,240
+thumb is when in doubt, use charisma.
+ 
+
+809
+00:16:30,240 --> 00:16:32,389
+thumb is when in doubt, use charisma.
+And this can lead to situations where a
+
+810
+00:16:32,389 --> 00:16:32,399
+And this can lead to situations where a
+ 
+
+811
+00:16:32,399 --> 00:16:35,269
+And this can lead to situations where a
+caster uses different ability modifiers
+
+812
+00:16:35,269 --> 00:16:35,279
+caster uses different ability modifiers
+ 
+
+813
+00:16:35,279 --> 00:16:38,389
+caster uses different ability modifiers
+to cast different spells. For example, a
+
+814
+00:16:38,389 --> 00:16:38,399
+to cast different spells. For example, a
+ 
+
+815
+00:16:38,399 --> 00:16:40,870
+to cast different spells. For example, a
+cleric would use their wisdom modifier
+
+816
+00:16:40,870 --> 00:16:40,880
+cleric would use their wisdom modifier
+ 
+
+817
+00:16:40,880 --> 00:16:43,030
+cleric would use their wisdom modifier
+when casting divine spells granted by
+
+818
+00:16:43,030 --> 00:16:43,040
+when casting divine spells granted by
+ 
+
+819
+00:16:43,040 --> 00:16:45,990
+when casting divine spells granted by
+their class, but would use charisma when
+
+820
+00:16:45,990 --> 00:16:46,000
+their class, but would use charisma when
+ 
+
+821
+00:16:46,000 --> 00:16:48,550
+their class, but would use charisma when
+casting innate spells. And if that
+
+822
+00:16:48,550 --> 00:16:48,560
+casting innate spells. And if that
+ 
+
+823
+00:16:48,560 --> 00:16:51,189
+casting innate spells. And if that
+cleric was also multiclust into wizard,
+
+824
+00:16:51,189 --> 00:16:51,199
+cleric was also multiclust into wizard,
+ 
+
+825
+00:16:51,199 --> 00:16:53,350
+cleric was also multiclust into wizard,
+then they would use intelligence as the
+
+826
+00:16:53,350 --> 00:16:53,360
+then they would use intelligence as the
+ 
+
+827
+00:16:53,360 --> 00:16:56,389
+then they would use intelligence as the
+modifier for their arcane wizard spells.
+
+828
+00:16:56,389 --> 00:16:56,399
+modifier for their arcane wizard spells.
+ 
+
+829
+00:16:56,399 --> 00:16:58,550
+modifier for their arcane wizard spells.
+Spell-casting classes also grant
+
+830
+00:16:58,550 --> 00:16:58,560
+Spell-casting classes also grant
+ 
+
+831
+00:16:58,560 --> 00:17:00,870
+Spell-casting classes also grant
+proficiency in casting spells, just like
+
+832
+00:17:00,870 --> 00:17:00,880
+proficiency in casting spells, just like
+ 
+
+833
+00:17:00,880 --> 00:17:02,949
+proficiency in casting spells, just like
+how a marshall class grants proficiency
+
+834
+00:17:02,949 --> 00:17:02,959
+how a marshall class grants proficiency
+ 
+
+835
+00:17:02,959 --> 00:17:05,829
+how a marshall class grants proficiency
+in using weapons. For example, starting
+
+836
+00:17:05,829 --> 00:17:05,839
+in using weapons. For example, starting
+ 
+
+837
+00:17:05,839 --> 00:17:08,150
+in using weapons. For example, starting
+druids have trained proficiency in spell
+
+838
+00:17:08,150 --> 00:17:08,160
+druids have trained proficiency in spell
+ 
+
+839
+00:17:08,160 --> 00:17:11,350
+druids have trained proficiency in spell
+attacks and in spell DC. And this bonus
+
+840
+00:17:11,350 --> 00:17:11,360
+attacks and in spell DC. And this bonus
+ 
+
+841
+00:17:11,360 --> 00:17:13,350
+attacks and in spell DC. And this bonus
+works the same as any other proficiency
+
+842
+00:17:13,350 --> 00:17:13,360
+works the same as any other proficiency
+ 
+
+843
+00:17:13,360 --> 00:17:15,909
+works the same as any other proficiency
+bonus. Trained proficiency grants two
+
+844
+00:17:15,909 --> 00:17:15,919
+bonus. Trained proficiency grants two
+ 
+
+845
+00:17:15,919 --> 00:17:18,630
+bonus. Trained proficiency grants two
+plus your level, expert grants four plus
+
+846
+00:17:18,630 --> 00:17:18,640
+plus your level, expert grants four plus
+ 
+
+847
+00:17:18,640 --> 00:17:21,429
+plus your level, expert grants four plus
+your level, master grants six plus your
+
+848
+00:17:21,429 --> 00:17:21,439
+your level, master grants six plus your
+ 
+
+849
+00:17:21,439 --> 00:17:24,230
+your level, master grants six plus your
+level, and legendary grants eight plus
+
+850
+00:17:24,230 --> 00:17:24,240
+level, and legendary grants eight plus
+ 
+
+851
+00:17:24,240 --> 00:17:26,150
+level, and legendary grants eight plus
+your level. And note that in the
+
+852
+00:17:26,150 --> 00:17:26,160
+your level. And note that in the
+ 
+
+853
+00:17:26,160 --> 00:17:28,309
+your level. And note that in the
+remaster, spellcasting proficiency
+
+854
+00:17:28,309 --> 00:17:28,319
+remaster, spellcasting proficiency
+ 
+
+855
+00:17:28,319 --> 00:17:30,870
+remaster, spellcasting proficiency
+levels are no longer divided among the
+
+856
+00:17:30,870 --> 00:17:30,880
+levels are no longer divided among the
+ 
+
+857
+00:17:30,880 --> 00:17:33,190
+levels are no longer divided among the
+four magical traditions. You only have
+
+858
+00:17:33,190 --> 00:17:33,200
+four magical traditions. You only have
+ 
+
+859
+00:17:33,200 --> 00:17:35,430
+four magical traditions. You only have
+one spell attack proficiency level and
+
+860
+00:17:35,430 --> 00:17:35,440
+one spell attack proficiency level and
+ 
+
+861
+00:17:35,440 --> 00:17:38,070
+one spell attack proficiency level and
+one spell DC proficiency level. And in
+
+862
+00:17:38,070 --> 00:17:38,080
+one spell DC proficiency level. And in
+ 
+
+863
+00:17:38,080 --> 00:17:40,549
+one spell DC proficiency level. And in
+virtually all cases, they will be the
+
+864
+00:17:40,549 --> 00:17:40,559
+virtually all cases, they will be the
+ 
+
+865
+00:17:40,559 --> 00:17:42,950
+virtually all cases, they will be the
+same. Each spell will detail what
+
+866
+00:17:42,950 --> 00:17:42,960
+same. Each spell will detail what
+ 
+
+867
+00:17:42,960 --> 00:17:45,510
+same. Each spell will detail what
+happens on a hit or miss. For example,
+
+868
+00:17:45,510 --> 00:17:45,520
+happens on a hit or miss. For example,
+ 
+
+869
+00:17:45,520 --> 00:17:48,230
+happens on a hit or miss. For example,
+divine lance deals 2d4 spirit damage on
+
+870
+00:17:48,230 --> 00:17:48,240
+divine lance deals 2d4 spirit damage on
+ 
+
+871
+00:17:48,240 --> 00:17:50,310
+divine lance deals 2d4 spirit damage on
+a hit. On a critical hit, you would
+
+872
+00:17:50,310 --> 00:17:50,320
+a hit. On a critical hit, you would
+ 
+
+873
+00:17:50,320 --> 00:17:53,029
+a hit. On a critical hit, you would
+double this to 44 damage, and nothing
+
+874
+00:17:53,029 --> 00:17:53,039
+double this to 44 damage, and nothing
+ 
+
+875
+00:17:53,039 --> 00:17:55,029
+double this to 44 damage, and nothing
+happens on a failure or critical
+
+876
+00:17:55,029 --> 00:17:55,039
+happens on a failure or critical
+ 
+
+877
+00:17:55,039 --> 00:17:56,470
+happens on a failure or critical
+failure.
+
+878
+00:17:56,470 --> 00:17:56,480
+failure.
+ 
+
+879
+00:17:56,480 --> 00:17:58,470
+failure.
+Some spells will call for the target to
+
+880
+00:17:58,470 --> 00:17:58,480
+Some spells will call for the target to
+ 
+
+881
+00:17:58,480 --> 00:18:01,029
+Some spells will call for the target to
+make a saving throw, such as a reflex
+
+882
+00:18:01,029 --> 00:18:01,039
+make a saving throw, such as a reflex
+ 
+
+883
+00:18:01,039 --> 00:18:03,750
+make a saving throw, such as a reflex
+save to avoid a fireball blast or a will
+
+884
+00:18:03,750 --> 00:18:03,760
+save to avoid a fireball blast or a will
+ 
+
+885
+00:18:03,760 --> 00:18:05,350
+save to avoid a fireball blast or a will
+save to fight against mental
+
+886
+00:18:05,350 --> 00:18:05,360
+save to fight against mental
+ 
+
+887
+00:18:05,360 --> 00:18:08,789
+save to fight against mental
+manipulation. The DC for these saves is
+
+888
+00:18:08,789 --> 00:18:08,799
+manipulation. The DC for these saves is
+ 
+
+889
+00:18:08,799 --> 00:18:11,430
+manipulation. The DC for these saves is
+the same as the caster spell DC, which
+
+890
+00:18:11,430 --> 00:18:11,440
+the same as the caster spell DC, which
+ 
+
+891
+00:18:11,440 --> 00:18:13,830
+the same as the caster spell DC, which
+is easy to calculate. It's your base
+
+892
+00:18:13,830 --> 00:18:13,840
+is easy to calculate. It's your base
+ 
+
+893
+00:18:13,840 --> 00:18:17,190
+is easy to calculate. It's your base
+spell attack bonus plus 10. As a result,
+
+894
+00:18:17,190 --> 00:18:17,200
+spell attack bonus plus 10. As a result,
+ 
+
+895
+00:18:17,200 --> 00:18:18,870
+spell attack bonus plus 10. As a result,
+if a character can cast spells from
+
+896
+00:18:18,870 --> 00:18:18,880
+if a character can cast spells from
+ 
+
+897
+00:18:18,880 --> 00:18:21,029
+if a character can cast spells from
+multiple sources, they have different
+
+898
+00:18:21,029 --> 00:18:21,039
+multiple sources, they have different
+ 
+
+899
+00:18:21,039 --> 00:18:23,430
+multiple sources, they have different
+DCs, just like their spell attacks use
+
+900
+00:18:23,430 --> 00:18:23,440
+DCs, just like their spell attacks use
+ 
+
+901
+00:18:23,440 --> 00:18:24,950
+DCs, just like their spell attacks use
+different ability scores and have
+
+902
+00:18:24,950 --> 00:18:24,960
+different ability scores and have
+ 
+
+903
+00:18:24,960 --> 00:18:26,950
+different ability scores and have
+different bonuses. Each spell's
+
+904
+00:18:26,950 --> 00:18:26,960
+different bonuses. Each spell's
+ 
+
+905
+00:18:26,960 --> 00:18:28,789
+different bonuses. Each spell's
+description will either provide details
+
+906
+00:18:28,789 --> 00:18:28,799
+description will either provide details
+ 
+
+907
+00:18:28,799 --> 00:18:30,710
+description will either provide details
+as to what happens on a successful or
+
+908
+00:18:30,710 --> 00:18:30,720
+as to what happens on a successful or
+ 
+
+909
+00:18:30,720 --> 00:18:33,830
+as to what happens on a successful or
+failed save, or it will refer to it as a
+
+910
+00:18:33,830 --> 00:18:33,840
+failed save, or it will refer to it as a
+ 
+
+911
+00:18:33,840 --> 00:18:37,669
+failed save, or it will refer to it as a
+quote basic saving throw. These are very
+
+912
+00:18:37,669 --> 00:18:37,679
+quote basic saving throw. These are very
+ 
+
+913
+00:18:37,679 --> 00:18:40,150
+quote basic saving throw. These are very
+common for damaging effects. And what
+
+914
+00:18:40,150 --> 00:18:40,160
+common for damaging effects. And what
+ 
+
+915
+00:18:40,160 --> 00:18:42,870
+common for damaging effects. And what
+basic saving throw means is if you
+
+916
+00:18:42,870 --> 00:18:42,880
+basic saving throw means is if you
+ 
+
+917
+00:18:42,880 --> 00:18:46,070
+basic saving throw means is if you
+succeed, you only suffer half the listed
+
+918
+00:18:46,070 --> 00:18:46,080
+succeed, you only suffer half the listed
+ 
+
+919
+00:18:46,080 --> 00:18:48,549
+succeed, you only suffer half the listed
+damage. If you critically succeed, you
+
+920
+00:18:48,549 --> 00:18:48,559
+damage. If you critically succeed, you
+ 
+
+921
+00:18:48,559 --> 00:18:51,590
+damage. If you critically succeed, you
+take no damage. If you fail, you take
+
+922
+00:18:51,590 --> 00:18:51,600
+take no damage. If you fail, you take
+ 
+
+923
+00:18:51,600 --> 00:18:53,909
+take no damage. If you fail, you take
+normal damage. And if you critically
+
+924
+00:18:53,909 --> 00:18:53,919
+normal damage. And if you critically
+ 
+
+925
+00:18:53,919 --> 00:18:56,710
+normal damage. And if you critically
+fail, you suffer double damage. With
+
+926
+00:18:56,710 --> 00:18:56,720
+fail, you suffer double damage. With
+ 
+
+927
+00:18:56,720 --> 00:18:59,510
+fail, you suffer double damage. With
+that in mind, let's look at a few common
+
+928
+00:18:59,510 --> 00:18:59,520
+that in mind, let's look at a few common
+ 
+
+929
+00:18:59,520 --> 00:19:02,549
+that in mind, let's look at a few common
+examples. Fireball calls for a basic
+
+930
+00:19:02,549 --> 00:19:02,559
+examples. Fireball calls for a basic
+ 
+
+931
+00:19:02,559 --> 00:19:05,190
+examples. Fireball calls for a basic
+saving throw. When cast, all targets in
+
+932
+00:19:05,190 --> 00:19:05,200
+saving throw. When cast, all targets in
+ 
+
+933
+00:19:05,200 --> 00:19:08,390
+saving throw. When cast, all targets in
+the burst area must each roll a reflex
+
+934
+00:19:08,390 --> 00:19:08,400
+the burst area must each roll a reflex
+ 
+
+935
+00:19:08,400 --> 00:19:11,029
+the burst area must each roll a reflex
+saving throw versus the caster's spell
+
+936
+00:19:11,029 --> 00:19:11,039
+saving throw versus the caster's spell
+ 
+
+937
+00:19:11,039 --> 00:19:13,669
+saving throw versus the caster's spell
+DC. On a success, they suffer half
+
+938
+00:19:13,669 --> 00:19:13,679
+DC. On a success, they suffer half
+ 
+
+939
+00:19:13,679 --> 00:19:16,070
+DC. On a success, they suffer half
+damage. On a failure, they take full
+
+940
+00:19:16,070 --> 00:19:16,080
+damage. On a failure, they take full
+ 
+
+941
+00:19:16,080 --> 00:19:18,470
+damage. On a failure, they take full
+damage. On a critical success, they take
+
+942
+00:19:18,470 --> 00:19:18,480
+damage. On a critical success, they take
+ 
+
+943
+00:19:18,480 --> 00:19:21,270
+damage. On a critical success, they take
+no damage. And on a critical failure,
+
+944
+00:19:21,270 --> 00:19:21,280
+no damage. And on a critical failure,
+ 
+
+945
+00:19:21,280 --> 00:19:24,070
+no damage. And on a critical failure,
+they suffer double damage. You would
+
+946
+00:19:24,070 --> 00:19:24,080
+they suffer double damage. You would
+ 
+
+947
+00:19:24,080 --> 00:19:26,470
+they suffer double damage. You would
+only roll the damage once though and
+
+948
+00:19:26,470 --> 00:19:26,480
+only roll the damage once though and
+ 
+
+949
+00:19:26,480 --> 00:19:29,669
+only roll the damage once though and
+apply that damage total individually to
+
+950
+00:19:29,669 --> 00:19:29,679
+apply that damage total individually to
+ 
+
+951
+00:19:29,679 --> 00:19:32,310
+apply that damage total individually to
+each target depending on their reflex
+
+952
+00:19:32,310 --> 00:19:32,320
+each target depending on their reflex
+ 
+
+953
+00:19:32,320 --> 00:19:36,070
+each target depending on their reflex
+saves level of success or failure.
+
+954
+00:19:36,070 --> 00:19:36,080
+saves level of success or failure.
+ 
+
+955
+00:19:36,080 --> 00:19:37,830
+saves level of success or failure.
+All right, now let's break this down
+
+956
+00:19:37,830 --> 00:19:37,840
+All right, now let's break this down
+ 
+
+957
+00:19:37,840 --> 00:19:40,390
+All right, now let's break this down
+with a couple of more examples to
+
+958
+00:19:40,390 --> 00:19:40,400
+with a couple of more examples to
+ 
+
+959
+00:19:40,400 --> 00:19:43,350
+with a couple of more examples to
+illustrate all of this. Valon is a first
+
+960
+00:19:43,350 --> 00:19:43,360
+illustrate all of this. Valon is a first
+ 
+
+961
+00:19:43,360 --> 00:19:45,909
+illustrate all of this. Valon is a first
+level elven cloistered cleric of Abidor.
+
+962
+00:19:45,909 --> 00:19:45,919
+level elven cloistered cleric of Abidor.
+ 
+
+963
+00:19:45,919 --> 00:19:48,470
+level elven cloistered cleric of Abidor.
+He has a plus two intelligence modifier,
+
+964
+00:19:48,470 --> 00:19:48,480
+He has a plus two intelligence modifier,
+ 
+
+965
+00:19:48,480 --> 00:19:50,310
+He has a plus two intelligence modifier,
+plus three wisdom, and plus one
+
+966
+00:19:50,310 --> 00:19:50,320
+plus three wisdom, and plus one
+ 
+
+967
+00:19:50,320 --> 00:19:53,029
+plus three wisdom, and plus one
+charisma. and he has trained proficiency
+
+968
+00:19:53,029 --> 00:19:53,039
+charisma. and he has trained proficiency
+ 
+
+969
+00:19:53,039 --> 00:19:55,990
+charisma. and he has trained proficiency
+in spell attacks and spell DC and
+
+970
+00:19:55,990 --> 00:19:56,000
+in spell attacks and spell DC and
+ 
+
+971
+00:19:56,000 --> 00:19:57,830
+in spell attacks and spell DC and
+trained proficiency in the religion
+
+972
+00:19:57,830 --> 00:19:57,840
+trained proficiency in the religion
+ 
+
+973
+00:19:57,840 --> 00:20:00,870
+trained proficiency in the religion
+skill. He wants to cast divine lance at
+
+974
+00:20:00,870 --> 00:20:00,880
+skill. He wants to cast divine lance at
+ 
+
+975
+00:20:00,880 --> 00:20:03,750
+skill. He wants to cast divine lance at
+the goblin. First, we need to calculate
+
+976
+00:20:03,750 --> 00:20:03,760
+the goblin. First, we need to calculate
+ 
+
+977
+00:20:03,760 --> 00:20:06,789
+the goblin. First, we need to calculate
+his spell attack bonus, which is ability
+
+978
+00:20:06,789 --> 00:20:06,799
+his spell attack bonus, which is ability
+ 
+
+979
+00:20:06,799 --> 00:20:09,909
+his spell attack bonus, which is ability
+modifier plus proficiency. As a cleric,
+
+980
+00:20:09,909 --> 00:20:09,919
+modifier plus proficiency. As a cleric,
+ 
+
+981
+00:20:09,919 --> 00:20:12,150
+modifier plus proficiency. As a cleric,
+he uses wisdom as his spell-casting
+
+982
+00:20:12,150 --> 00:20:12,160
+he uses wisdom as his spell-casting
+ 
+
+983
+00:20:12,160 --> 00:20:14,630
+he uses wisdom as his spell-casting
+ability. He has a plus three wisdom
+
+984
+00:20:14,630 --> 00:20:14,640
+ability. He has a plus three wisdom
+ 
+
+985
+00:20:14,640 --> 00:20:17,669
+ability. He has a plus three wisdom
+modifier, and he has trained proficiency
+
+986
+00:20:17,669 --> 00:20:17,679
+modifier, and he has trained proficiency
+ 
+
+987
+00:20:17,679 --> 00:20:20,710
+modifier, and he has trained proficiency
+in spell attack. Train proficiency is
+
+988
+00:20:20,710 --> 00:20:20,720
+in spell attack. Train proficiency is
+ 
+
+989
+00:20:20,720 --> 00:20:23,590
+in spell attack. Train proficiency is
+two plus level. He's first level, so
+
+990
+00:20:23,590 --> 00:20:23,600
+two plus level. He's first level, so
+ 
+
+991
+00:20:23,600 --> 00:20:26,230
+two plus level. He's first level, so
+that's one more for a total spell attack
+
+992
+00:20:26,230 --> 00:20:26,240
+that's one more for a total spell attack
+ 
+
+993
+00:20:26,240 --> 00:20:29,750
+that's one more for a total spell attack
+bonus of plus six. When he casts the
+
+994
+00:20:29,750 --> 00:20:29,760
+bonus of plus six. When he casts the
+ 
+
+995
+00:20:29,760 --> 00:20:32,390
+bonus of plus six. When he casts the
+spell, he makes a ranged spell attack
+
+996
+00:20:32,390 --> 00:20:32,400
+spell, he makes a ranged spell attack
+ 
+
+997
+00:20:32,400 --> 00:20:36,230
+spell, he makes a ranged spell attack
+roll 1d20 + 6. And that total is
+
+998
+00:20:36,230 --> 00:20:36,240
+roll 1d20 + 6. And that total is
+ 
+
+999
+00:20:36,240 --> 00:20:38,630
+roll 1d20 + 6. And that total is
+compared to the goblin's armor class of
+
+1000
+00:20:38,630 --> 00:20:38,640
+compared to the goblin's armor class of
+ 
+
+1001
+00:20:38,640 --> 00:20:42,230
+compared to the goblin's armor class of
+17. We'll say he rolls an 11 on the die
+
+1002
+00:20:42,230 --> 00:20:42,240
+17. We'll say he rolls an 11 on the die
+ 
+
+1003
+00:20:42,240 --> 00:20:44,870
+17. We'll say he rolls an 11 on the die
+for a total of 17, which is just enough
+
+1004
+00:20:44,870 --> 00:20:44,880
+for a total of 17, which is just enough
+ 
+
+1005
+00:20:44,880 --> 00:20:47,750
+for a total of 17, which is just enough
+to hit the goblin. Then on the next
+
+1006
+00:20:47,750 --> 00:20:47,760
+to hit the goblin. Then on the next
+ 
+
+1007
+00:20:47,760 --> 00:20:50,470
+to hit the goblin. Then on the next
+round, Valon attempts to cast Infeeble
+
+1008
+00:20:50,470 --> 00:20:50,480
+round, Valon attempts to cast Infeeble
+ 
+
+1009
+00:20:50,480 --> 00:20:53,270
+round, Valon attempts to cast Infeeble
+on the goblin. In this case, Valon will
+
+1010
+00:20:53,270 --> 00:20:53,280
+on the goblin. In this case, Valon will
+ 
+
+1011
+00:20:53,280 --> 00:20:56,149
+on the goblin. In this case, Valon will
+not make a spell attack roll and instead
+
+1012
+00:20:56,149 --> 00:20:56,159
+not make a spell attack roll and instead
+ 
+
+1013
+00:20:56,159 --> 00:20:58,710
+not make a spell attack roll and instead
+the Goblin will need to pass a fortitude
+
+1014
+00:20:58,710 --> 00:20:58,720
+the Goblin will need to pass a fortitude
+ 
+
+1015
+00:20:58,720 --> 00:21:01,510
+the Goblin will need to pass a fortitude
+save. The DC for this save will be
+
+1016
+00:21:01,510 --> 00:21:01,520
+save. The DC for this save will be
+ 
+
+1017
+00:21:01,520 --> 00:21:04,630
+save. The DC for this save will be
+Valon's divine spell DC. To calculate
+
+1018
+00:21:04,630 --> 00:21:04,640
+Valon's divine spell DC. To calculate
+ 
+
+1019
+00:21:04,640 --> 00:21:07,270
+Valon's divine spell DC. To calculate
+this, you simply add 10 to his spell
+
+1020
+00:21:07,270 --> 00:21:07,280
+this, you simply add 10 to his spell
+ 
+
+1021
+00:21:07,280 --> 00:21:12,470
+this, you simply add 10 to his spell
+attack bonus of plus six for a DC of 16.
+
+1022
+00:21:12,470 --> 00:21:12,480
+attack bonus of plus six for a DC of 16.
+ 
+
+1023
+00:21:12,480 --> 00:21:14,710
+attack bonus of plus six for a DC of 16.
+Now the goblin must roll a fortitude
+
+1024
+00:21:14,710 --> 00:21:14,720
+Now the goblin must roll a fortitude
+ 
+
+1025
+00:21:14,720 --> 00:21:17,590
+Now the goblin must roll a fortitude
+save and meet or beat balance divine
+
+1026
+00:21:17,590 --> 00:21:17,600
+save and meet or beat balance divine
+ 
+
+1027
+00:21:17,600 --> 00:21:21,830
+save and meet or beat balance divine
+spell DC of 16 to succeed. On a success,
+
+1028
+00:21:21,830 --> 00:21:21,840
+spell DC of 16 to succeed. On a success,
+ 
+
+1029
+00:21:21,840 --> 00:21:24,630
+spell DC of 16 to succeed. On a success,
+the goblin becomes infeebled one. On a
+
+1030
+00:21:24,630 --> 00:21:24,640
+the goblin becomes infeebled one. On a
+ 
+
+1031
+00:21:24,640 --> 00:21:27,190
+the goblin becomes infeebled one. On a
+failure, they're infeebled two. On a
+
+1032
+00:21:27,190 --> 00:21:27,200
+failure, they're infeebled two. On a
+ 
+
+1033
+00:21:27,200 --> 00:21:29,510
+failure, they're infeebled two. On a
+critical success, nothing happens. And
+
+1034
+00:21:29,510 --> 00:21:29,520
+critical success, nothing happens. And
+ 
+
+1035
+00:21:29,520 --> 00:21:31,750
+critical success, nothing happens. And
+on a critical failure, the goblin
+
+1036
+00:21:31,750 --> 00:21:31,760
+on a critical failure, the goblin
+ 
+
+1037
+00:21:31,760 --> 00:21:35,270
+on a critical failure, the goblin
+becomes infeebled three.
+
+1038
+00:21:35,270 --> 00:21:35,280
+becomes infeebled three.
+ 
+
+1039
+00:21:35,280 --> 00:21:37,350
+becomes infeebled three.
+Let's fast forward a little bit. And now
+
+1040
+00:21:37,350 --> 00:21:37,360
+Let's fast forward a little bit. And now
+ 
+
+1041
+00:21:37,360 --> 00:21:40,549
+Let's fast forward a little bit. And now
+Valon is third level. The first thing we
+
+1042
+00:21:40,549 --> 00:21:40,559
+Valon is third level. The first thing we
+ 
+
+1043
+00:21:40,559 --> 00:21:42,630
+Valon is third level. The first thing we
+want to do is adjust his divine spell
+
+1044
+00:21:42,630 --> 00:21:42,640
+want to do is adjust his divine spell
+ 
+
+1045
+00:21:42,640 --> 00:21:45,590
+want to do is adjust his divine spell
+attack bonus and DC. Since those are
+
+1046
+00:21:45,590 --> 00:21:45,600
+attack bonus and DC. Since those are
+ 
+
+1047
+00:21:45,600 --> 00:21:47,830
+attack bonus and DC. Since those are
+both based on proficiency, and
+
+1048
+00:21:47,830 --> 00:21:47,840
+both based on proficiency, and
+ 
+
+1049
+00:21:47,840 --> 00:21:50,390
+both based on proficiency, and
+proficiency increases with level, his
+
+1050
+00:21:50,390 --> 00:21:50,400
+proficiency increases with level, his
+ 
+
+1051
+00:21:50,400 --> 00:21:53,110
+proficiency increases with level, his
+divine spell attack bonus is now plus 8,
+
+1052
+00:21:53,110 --> 00:21:53,120
+divine spell attack bonus is now plus 8,
+ 
+
+1053
+00:21:53,120 --> 00:21:56,070
+divine spell attack bonus is now plus 8,
+and that means his divine spell DC is
+
+1054
+00:21:56,070 --> 00:21:56,080
+and that means his divine spell DC is
+ 
+
+1055
+00:21:56,080 --> 00:21:59,270
+and that means his divine spell DC is
+18. Also, at third level, he gets to
+
+1056
+00:21:59,270 --> 00:21:59,280
+18. Also, at third level, he gets to
+ 
+
+1057
+00:21:59,280 --> 00:22:00,789
+18. Also, at third level, he gets to
+increase one skill to expert
+
+1058
+00:22:00,789 --> 00:22:00,799
+increase one skill to expert
+ 
+
+1059
+00:22:00,799 --> 00:22:03,190
+increase one skill to expert
+proficiency. He chooses to boost his
+
+1060
+00:22:03,190 --> 00:22:03,200
+proficiency. He chooses to boost his
+ 
+
+1061
+00:22:03,200 --> 00:22:05,029
+proficiency. He chooses to boost his
+religion skill to expert, which
+
+1062
+00:22:05,029 --> 00:22:05,039
+religion skill to expert, which
+ 
+
+1063
+00:22:05,039 --> 00:22:08,230
+religion skill to expert, which
+increases his religion bonus to plus 10.
+
+1064
+00:22:08,230 --> 00:22:08,240
+increases his religion bonus to plus 10.
+ 
+
+1065
+00:22:08,240 --> 00:22:10,789
+increases his religion bonus to plus 10.
+This increase to expert proficiency with
+
+1066
+00:22:10,789 --> 00:22:10,799
+This increase to expert proficiency with
+ 
+
+1067
+00:22:10,799 --> 00:22:14,310
+This increase to expert proficiency with
+religion has no impact at all on his
+
+1068
+00:22:14,310 --> 00:22:14,320
+religion has no impact at all on his
+ 
+
+1069
+00:22:14,320 --> 00:22:17,430
+religion has no impact at all on his
+divine spell attack bonus or DC. Even
+
+1070
+00:22:17,430 --> 00:22:17,440
+divine spell attack bonus or DC. Even
+ 
+
+1071
+00:22:17,440 --> 00:22:19,590
+divine spell attack bonus or DC. Even
+though religion is the key skill for
+
+1072
+00:22:19,590 --> 00:22:19,600
+though religion is the key skill for
+ 
+
+1073
+00:22:19,600 --> 00:22:22,149
+though religion is the key skill for
+divine magic, it is wholly separate from
+
+1074
+00:22:22,149 --> 00:22:22,159
+divine magic, it is wholly separate from
+ 
+
+1075
+00:22:22,159 --> 00:22:24,390
+divine magic, it is wholly separate from
+spell-casting proficiency and valance
+
+1076
+00:22:24,390 --> 00:22:24,400
+spell-casting proficiency and valance
+ 
+
+1077
+00:22:24,400 --> 00:22:26,390
+spell-casting proficiency and valance
+spell-casting proficiency level is
+
+1078
+00:22:26,390 --> 00:22:26,400
+spell-casting proficiency level is
+ 
+
+1079
+00:22:26,400 --> 00:22:29,350
+spell-casting proficiency level is
+trained. Now, let's fast forward again
+
+1080
+00:22:29,350 --> 00:22:29,360
+trained. Now, let's fast forward again
+ 
+
+1081
+00:22:29,360 --> 00:22:32,470
+trained. Now, let's fast forward again
+to fifth level. Every time you increase
+
+1082
+00:22:32,470 --> 00:22:32,480
+to fifth level. Every time you increase
+ 
+
+1083
+00:22:32,480 --> 00:22:34,549
+to fifth level. Every time you increase
+level, you need to adjust your spell
+
+1084
+00:22:34,549 --> 00:22:34,559
+level, you need to adjust your spell
+ 
+
+1085
+00:22:34,559 --> 00:22:37,430
+level, you need to adjust your spell
+attack bonus and DC. But before we do
+
+1086
+00:22:37,430 --> 00:22:37,440
+attack bonus and DC. But before we do
+ 
+
+1087
+00:22:37,440 --> 00:22:39,990
+attack bonus and DC. But before we do
+that, there are a couple other things to
+
+1088
+00:22:39,990 --> 00:22:40,000
+that, there are a couple other things to
+ 
+
+1089
+00:22:40,000 --> 00:22:42,549
+that, there are a couple other things to
+consider. First, at fifth level, you get
+
+1090
+00:22:42,549 --> 00:22:42,559
+consider. First, at fifth level, you get
+ 
+
+1091
+00:22:42,559 --> 00:22:45,270
+consider. First, at fifth level, you get
+to increase four of your ability scores.
+
+1092
+00:22:45,270 --> 00:22:45,280
+to increase four of your ability scores.
+ 
+
+1093
+00:22:45,280 --> 00:22:47,510
+to increase four of your ability scores.
+Valon chooses decks, intelligence,
+
+1094
+00:22:47,510 --> 00:22:47,520
+Valon chooses decks, intelligence,
+ 
+
+1095
+00:22:47,520 --> 00:22:50,070
+Valon chooses decks, intelligence,
+wisdom, and charisma. This changes his
+
+1096
+00:22:50,070 --> 00:22:50,080
+wisdom, and charisma. This changes his
+ 
+
+1097
+00:22:50,080 --> 00:22:51,990
+wisdom, and charisma. This changes his
+final ability scores to plus three
+
+1098
+00:22:51,990 --> 00:22:52,000
+final ability scores to plus three
+ 
+
+1099
+00:22:52,000 --> 00:22:54,630
+final ability scores to plus three
+intelligence, plus four wisdom, and plus
+
+1100
+00:22:54,630 --> 00:22:54,640
+intelligence, plus four wisdom, and plus
+ 
+
+1101
+00:22:54,640 --> 00:22:57,510
+intelligence, plus four wisdom, and plus
+two charisma. Next, we need to adjust
+
+1102
+00:22:57,510 --> 00:22:57,520
+two charisma. Next, we need to adjust
+ 
+
+1103
+00:22:57,520 --> 00:22:59,750
+two charisma. Next, we need to adjust
+his divine spell-casting attack bonus
+
+1104
+00:22:59,750 --> 00:22:59,760
+his divine spell-casting attack bonus
+ 
+
+1105
+00:22:59,760 --> 00:23:02,710
+his divine spell-casting attack bonus
+and DC. The calculation is ability
+
+1106
+00:23:02,710 --> 00:23:02,720
+and DC. The calculation is ability
+ 
+
+1107
+00:23:02,720 --> 00:23:05,750
+and DC. The calculation is ability
+modifier plus proficiency. His wisdom
+
+1108
+00:23:05,750 --> 00:23:05,760
+modifier plus proficiency. His wisdom
+ 
+
+1109
+00:23:05,760 --> 00:23:09,110
+modifier plus proficiency. His wisdom
+bonus is plus4 and train proficiency is
+
+1110
+00:23:09,110 --> 00:23:09,120
+bonus is plus4 and train proficiency is
+ 
+
+1111
+00:23:09,120 --> 00:23:12,470
+bonus is plus4 and train proficiency is
+two plus level. Four + two plus fifth
+
+1112
+00:23:12,470 --> 00:23:12,480
+two plus level. Four + two plus fifth
+ 
+
+1113
+00:23:12,480 --> 00:23:15,350
+two plus level. Four + two plus fifth
+level grants a final divine spell attack
+
+1114
+00:23:15,350 --> 00:23:15,360
+level grants a final divine spell attack
+ 
+
+1115
+00:23:15,360 --> 00:23:18,230
+level grants a final divine spell attack
+bonus of plus 11 and that makes his
+
+1116
+00:23:18,230 --> 00:23:18,240
+bonus of plus 11 and that makes his
+ 
+
+1117
+00:23:18,240 --> 00:23:21,990
+bonus of plus 11 and that makes his
+divine spell DC 21. Also at fifth
+
+1118
+00:23:21,990 --> 00:23:22,000
+divine spell DC 21. Also at fifth
+ 
+
+1119
+00:23:22,000 --> 00:23:24,710
+divine spell DC 21. Also at fifth
+leveling gets to choose a new ancestry
+
+1120
+00:23:24,710 --> 00:23:24,720
+leveling gets to choose a new ancestry
+ 
+
+1121
+00:23:24,720 --> 00:23:28,149
+leveling gets to choose a new ancestry
+feat. He selects otherworldly magic
+
+1122
+00:23:28,149 --> 00:23:28,159
+feat. He selects otherworldly magic
+ 
+
+1123
+00:23:28,159 --> 00:23:31,029
+feat. He selects otherworldly magic
+which lets him cast one arcane cantrip
+
+1124
+00:23:31,029 --> 00:23:31,039
+which lets him cast one arcane cantrip
+ 
+
+1125
+00:23:31,039 --> 00:23:34,070
+which lets him cast one arcane cantrip
+as an innate spell. He chooses electric
+
+1126
+00:23:34,070 --> 00:23:34,080
+as an innate spell. He chooses electric
+ 
+
+1127
+00:23:34,080 --> 00:23:36,630
+as an innate spell. He chooses electric
+arc as that spell. And since this is an
+
+1128
+00:23:36,630 --> 00:23:36,640
+arc as that spell. And since this is an
+ 
+
+1129
+00:23:36,640 --> 00:23:39,190
+arc as that spell. And since this is an
+innate spell, he does not cast it with
+
+1130
+00:23:39,190 --> 00:23:39,200
+innate spell, he does not cast it with
+ 
+
+1131
+00:23:39,200 --> 00:23:41,510
+innate spell, he does not cast it with
+the same bonuses he uses for cleric
+
+1132
+00:23:41,510 --> 00:23:41,520
+the same bonuses he uses for cleric
+ 
+
+1133
+00:23:41,520 --> 00:23:44,230
+the same bonuses he uses for cleric
+divine spells. Those are based on wisdom
+
+1134
+00:23:44,230 --> 00:23:44,240
+divine spells. Those are based on wisdom
+ 
+
+1135
+00:23:44,240 --> 00:23:46,950
+divine spells. Those are based on wisdom
+as the key ability modifier, but innate
+
+1136
+00:23:46,950 --> 00:23:46,960
+as the key ability modifier, but innate
+ 
+
+1137
+00:23:46,960 --> 00:23:49,750
+as the key ability modifier, but innate
+spells use charisma. So, let's calculate
+
+1138
+00:23:49,750 --> 00:23:49,760
+spells use charisma. So, let's calculate
+ 
+
+1139
+00:23:49,760 --> 00:23:53,430
+spells use charisma. So, let's calculate
+his spell DC for electric arc. Spell DC
+
+1140
+00:23:53,430 --> 00:23:53,440
+his spell DC for electric arc. Spell DC
+ 
+
+1141
+00:23:53,440 --> 00:23:56,230
+his spell DC for electric arc. Spell DC
+is 10 plus spell attack. So, let's start
+
+1142
+00:23:56,230 --> 00:23:56,240
+is 10 plus spell attack. So, let's start
+ 
+
+1143
+00:23:56,240 --> 00:23:59,110
+is 10 plus spell attack. So, let's start
+there. Spell attack is ability modifier
+
+1144
+00:23:59,110 --> 00:23:59,120
+there. Spell attack is ability modifier
+ 
+
+1145
+00:23:59,120 --> 00:24:01,909
+there. Spell attack is ability modifier
+plus proficiency. His charisma bonus is
+
+1146
+00:24:01,909 --> 00:24:01,919
+plus proficiency. His charisma bonus is
+ 
+
+1147
+00:24:01,919 --> 00:24:04,710
+plus proficiency. His charisma bonus is
+plus two. And he has trained proficiency
+
+1148
+00:24:04,710 --> 00:24:04,720
+plus two. And he has trained proficiency
+ 
+
+1149
+00:24:04,720 --> 00:24:07,430
+plus two. And he has trained proficiency
+with spell attacks and DCs, which is two
+
+1150
+00:24:07,430 --> 00:24:07,440
+with spell attacks and DCs, which is two
+ 
+
+1151
+00:24:07,440 --> 00:24:10,390
+with spell attacks and DCs, which is two
+plus level. So two for charisma, plus
+
+1152
+00:24:10,390 --> 00:24:10,400
+plus level. So two for charisma, plus
+ 
+
+1153
+00:24:10,400 --> 00:24:13,350
+plus level. So two for charisma, plus
+two for trained, plus five for level
+
+1154
+00:24:13,350 --> 00:24:13,360
+two for trained, plus five for level
+ 
+
+1155
+00:24:13,360 --> 00:24:16,310
+two for trained, plus five for level
+equals a final innate spell bonus of
+
+1156
+00:24:16,310 --> 00:24:16,320
+equals a final innate spell bonus of
+ 
+
+1157
+00:24:16,320 --> 00:24:19,590
+equals a final innate spell bonus of
+plus 9. And 10 more than that makes an
+
+1158
+00:24:19,590 --> 00:24:19,600
+plus 9. And 10 more than that makes an
+ 
+
+1159
+00:24:19,600 --> 00:24:23,590
+plus 9. And 10 more than that makes an
+innate spell DC of 19. So to sum up,
+
+1160
+00:24:23,590 --> 00:24:23,600
+innate spell DC of 19. So to sum up,
+ 
+
+1161
+00:24:23,600 --> 00:24:25,669
+innate spell DC of 19. So to sum up,
+when Valon casts a spell from the divine
+
+1162
+00:24:25,669 --> 00:24:25,679
+when Valon casts a spell from the divine
+ 
+
+1163
+00:24:25,679 --> 00:24:27,990
+when Valon casts a spell from the divine
+spell list, he has a spell attack bonus
+
+1164
+00:24:27,990 --> 00:24:28,000
+spell list, he has a spell attack bonus
+ 
+
+1165
+00:24:28,000 --> 00:24:31,350
+spell list, he has a spell attack bonus
+of plus 11 and spell DC of 21. But when
+
+1166
+00:24:31,350 --> 00:24:31,360
+of plus 11 and spell DC of 21. But when
+ 
+
+1167
+00:24:31,360 --> 00:24:33,430
+of plus 11 and spell DC of 21. But when
+he casts electric arc, which is his
+
+1168
+00:24:33,430 --> 00:24:33,440
+he casts electric arc, which is his
+ 
+
+1169
+00:24:33,440 --> 00:24:35,590
+he casts electric arc, which is his
+innate spell, he has a spell attack
+
+1170
+00:24:35,590 --> 00:24:35,600
+innate spell, he has a spell attack
+ 
+
+1171
+00:24:35,600 --> 00:24:40,870
+innate spell, he has a spell attack
+bonus of plus 9 and spell DC of 19.
+
+1172
+00:24:40,870 --> 00:24:40,880
+bonus of plus 9 and spell DC of 19.
+ 
+
+1173
+00:24:40,880 --> 00:24:43,430
+bonus of plus 9 and spell DC of 19.
+Let's jump forward one more time to
+
+1174
+00:24:43,430 --> 00:24:43,440
+Let's jump forward one more time to
+ 
+
+1175
+00:24:43,440 --> 00:24:45,990
+Let's jump forward one more time to
+sixth level with his class feat. This
+
+1176
+00:24:45,990 --> 00:24:46,000
+sixth level with his class feat. This
+ 
+
+1177
+00:24:46,000 --> 00:24:48,070
+sixth level with his class feat. This
+level, he decides to multiclass into
+
+1178
+00:24:48,070 --> 00:24:48,080
+level, he decides to multiclass into
+ 
+
+1179
+00:24:48,080 --> 00:24:49,990
+level, he decides to multiclass into
+wizard by selecting that dedication
+
+1180
+00:24:49,990 --> 00:24:50,000
+wizard by selecting that dedication
+ 
+
+1181
+00:24:50,000 --> 00:24:52,710
+wizard by selecting that dedication
+feat. This now grants him the ability to
+
+1182
+00:24:52,710 --> 00:24:52,720
+feat. This now grants him the ability to
+ 
+
+1183
+00:24:52,720 --> 00:24:54,549
+feat. This now grants him the ability to
+cast arcane spells at trained
+
+1184
+00:24:54,549 --> 00:24:54,559
+cast arcane spells at trained
+ 
+
+1185
+00:24:54,559 --> 00:24:57,269
+cast arcane spells at trained
+proficiency. His spell attack bonus for
+
+1186
+00:24:57,269 --> 00:24:57,279
+proficiency. His spell attack bonus for
+ 
+
+1187
+00:24:57,279 --> 00:24:58,950
+proficiency. His spell attack bonus for
+these spells will be based on
+
+1188
+00:24:58,950 --> 00:24:58,960
+these spells will be based on
+ 
+
+1189
+00:24:58,960 --> 00:25:02,310
+these spells will be based on
+intelligence which is plus three. So is
+
+1190
+00:25:02,310 --> 00:25:02,320
+intelligence which is plus three. So is
+ 
+
+1191
+00:25:02,320 --> 00:25:05,029
+intelligence which is plus three. So is
+calculated as three for intelligence,
+
+1192
+00:25:05,029 --> 00:25:05,039
+calculated as three for intelligence,
+ 
+
+1193
+00:25:05,039 --> 00:25:07,590
+calculated as three for intelligence,
+plus two for being trained, plus six for
+
+1194
+00:25:07,590 --> 00:25:07,600
+plus two for being trained, plus six for
+ 
+
+1195
+00:25:07,600 --> 00:25:11,269
+plus two for being trained, plus six for
+his level for a total bonus of plus 11,
+
+1196
+00:25:11,269 --> 00:25:11,279
+his level for a total bonus of plus 11,
+ 
+
+1197
+00:25:11,279 --> 00:25:15,990
+his level for a total bonus of plus 11,
+and a spell DC of 21. So, as a sixth
+
+1198
+00:25:15,990 --> 00:25:16,000
+and a spell DC of 21. So, as a sixth
+ 
+
+1199
+00:25:16,000 --> 00:25:18,870
+and a spell DC of 21. So, as a sixth
+level cleric, multiclassed with wizard
+
+1200
+00:25:18,870 --> 00:25:18,880
+level cleric, multiclassed with wizard
+ 
+
+1201
+00:25:18,880 --> 00:25:21,510
+level cleric, multiclassed with wizard
+and able to cast electric arc innately
+
+1202
+00:25:21,510 --> 00:25:21,520
+and able to cast electric arc innately
+ 
+
+1203
+00:25:21,520 --> 00:25:24,470
+and able to cast electric arc innately
+from his ancestry, Valon cast his cleric
+
+1204
+00:25:24,470 --> 00:25:24,480
+from his ancestry, Valon cast his cleric
+ 
+
+1205
+00:25:24,480 --> 00:25:26,950
+from his ancestry, Valon cast his cleric
+spells with a plus 12 attack bonus and
+
+1206
+00:25:26,950 --> 00:25:26,960
+spells with a plus 12 attack bonus and
+ 
+
+1207
+00:25:26,960 --> 00:25:30,310
+spells with a plus 12 attack bonus and
+spell DC of 22. He casts electric arc as
+
+1208
+00:25:30,310 --> 00:25:30,320
+spell DC of 22. He casts electric arc as
+ 
+
+1209
+00:25:30,320 --> 00:25:33,669
+spell DC of 22. He casts electric arc as
+an innate spell with a spell DC of 20.
+
+1210
+00:25:33,669 --> 00:25:33,679
+an innate spell with a spell DC of 20.
+ 
+
+1211
+00:25:33,679 --> 00:25:35,990
+an innate spell with a spell DC of 20.
+And he casts his wizard spells with a
+
+1212
+00:25:35,990 --> 00:25:36,000
+And he casts his wizard spells with a
+ 
+
+1213
+00:25:36,000 --> 00:25:39,510
+And he casts his wizard spells with a
+plus 11 attack bonus and a spell DC of
+
+1214
+00:25:39,510 --> 00:25:39,520
+plus 11 attack bonus and a spell DC of
+ 
+
+1215
+00:25:39,520 --> 00:25:42,789
+plus 11 attack bonus and a spell DC of
+21. three different sources for spell
+
+1216
+00:25:42,789 --> 00:25:42,799
+21. three different sources for spell
+ 
+
+1217
+00:25:42,799 --> 00:25:44,950
+21. three different sources for spell
+casting with three different attack
+
+1218
+00:25:44,950 --> 00:25:44,960
+casting with three different attack
+ 
+
+1219
+00:25:44,960 --> 00:25:47,350
+casting with three different attack
+bonuses and DCs.
+
+1220
+00:25:47,350 --> 00:25:47,360
+bonuses and DCs.
+ 
+
+1221
+00:25:47,360 --> 00:25:50,230
+bonuses and DCs.
+And then at seventh level, Valon gains
+
+1222
+00:25:50,230 --> 00:25:50,240
+And then at seventh level, Valon gains
+ 
+
+1223
+00:25:50,240 --> 00:25:52,390
+And then at seventh level, Valon gains
+expert proficiency in spell attacks and
+
+1224
+00:25:52,390 --> 00:25:52,400
+expert proficiency in spell attacks and
+ 
+
+1225
+00:25:52,400 --> 00:25:55,269
+expert proficiency in spell attacks and
+DCs. This now makes his spell attack
+
+1226
+00:25:55,269 --> 00:25:55,279
+DCs. This now makes his spell attack
+ 
+
+1227
+00:25:55,279 --> 00:25:58,470
+DCs. This now makes his spell attack
+bonus with divine spells plus 15 and a
+
+1228
+00:25:58,470 --> 00:25:58,480
+bonus with divine spells plus 15 and a
+ 
+
+1229
+00:25:58,480 --> 00:26:02,149
+bonus with divine spells plus 15 and a
+spell DC of 25. He can cast electric arc
+
+1230
+00:26:02,149 --> 00:26:02,159
+spell DC of 25. He can cast electric arc
+ 
+
+1231
+00:26:02,159 --> 00:26:05,350
+spell DC of 25. He can cast electric arc
+with a spell DC of 23. The reason why
+
+1232
+00:26:05,350 --> 00:26:05,360
+with a spell DC of 23. The reason why
+ 
+
+1233
+00:26:05,360 --> 00:26:08,549
+with a spell DC of 23. The reason why
+it's 23 and not 21 is because when you
+
+1234
+00:26:08,549 --> 00:26:08,559
+it's 23 and not 21 is because when you
+ 
+
+1235
+00:26:08,559 --> 00:26:10,149
+it's 23 and not 21 is because when you
+gain proficiency in spell attacks and
+
+1236
+00:26:10,149 --> 00:26:10,159
+gain proficiency in spell attacks and
+ 
+
+1237
+00:26:10,159 --> 00:26:12,549
+gain proficiency in spell attacks and
+DCs from multiple sources, as is the
+
+1238
+00:26:12,549 --> 00:26:12,559
+DCs from multiple sources, as is the
+ 
+
+1239
+00:26:12,559 --> 00:26:14,470
+DCs from multiple sources, as is the
+case here with Valon, who gained
+
+1240
+00:26:14,470 --> 00:26:14,480
+case here with Valon, who gained
+ 
+
+1241
+00:26:14,480 --> 00:26:16,230
+case here with Valon, who gained
+spell-casting proficiency from his
+
+1242
+00:26:16,230 --> 00:26:16,240
+spell-casting proficiency from his
+ 
+
+1243
+00:26:16,240 --> 00:26:18,710
+spell-casting proficiency from his
+class, from an archetype, and from an
+
+1244
+00:26:18,710 --> 00:26:18,720
+class, from an archetype, and from an
+ 
+
+1245
+00:26:18,720 --> 00:26:21,350
+class, from an archetype, and from an
+ancestry feat, you always use the
+
+1246
+00:26:21,350 --> 00:26:21,360
+ancestry feat, you always use the
+ 
+
+1247
+00:26:21,360 --> 00:26:23,110
+ancestry feat, you always use the
+highest available spell-casting
+
+1248
+00:26:23,110 --> 00:26:23,120
+highest available spell-casting
+ 
+
+1249
+00:26:23,120 --> 00:26:25,830
+highest available spell-casting
+proficiency bonus. So when he reaches
+
+1250
+00:26:25,830 --> 00:26:25,840
+proficiency bonus. So when he reaches
+ 
+
+1251
+00:26:25,840 --> 00:26:27,750
+proficiency bonus. So when he reaches
+seventh level and gains expert
+
+1252
+00:26:27,750 --> 00:26:27,760
+seventh level and gains expert
+ 
+
+1253
+00:26:27,760 --> 00:26:29,510
+seventh level and gains expert
+spell-casting proficiency from his
+
+1254
+00:26:29,510 --> 00:26:29,520
+spell-casting proficiency from his
+ 
+
+1255
+00:26:29,520 --> 00:26:32,070
+spell-casting proficiency from his
+class, that increases his spell-casting
+
+1256
+00:26:32,070 --> 00:26:32,080
+class, that increases his spell-casting
+ 
+
+1257
+00:26:32,080 --> 00:26:35,029
+class, that increases his spell-casting
+proficiency across the board, not just
+
+1258
+00:26:35,029 --> 00:26:35,039
+proficiency across the board, not just
+ 
+
+1259
+00:26:35,039 --> 00:26:38,149
+proficiency across the board, not just
+when casting divine spells. This is a
+
+1260
+00:26:38,149 --> 00:26:38,159
+when casting divine spells. This is a
+ 
+
+1261
+00:26:38,159 --> 00:26:41,110
+when casting divine spells. This is a
+change with the remaster edition. In the
+
+1262
+00:26:41,110 --> 00:26:41,120
+change with the remaster edition. In the
+ 
+
+1263
+00:26:41,120 --> 00:26:43,190
+change with the remaster edition. In the
+legacy edition, you had to track a
+
+1264
+00:26:43,190 --> 00:26:43,200
+legacy edition, you had to track a
+ 
+
+1265
+00:26:43,200 --> 00:26:44,870
+legacy edition, you had to track a
+different spell-casting proficiency
+
+1266
+00:26:44,870 --> 00:26:44,880
+different spell-casting proficiency
+ 
+
+1267
+00:26:44,880 --> 00:26:47,269
+different spell-casting proficiency
+level for each of the four magical
+
+1268
+00:26:47,269 --> 00:26:47,279
+level for each of the four magical
+ 
+
+1269
+00:26:47,279 --> 00:26:50,549
+level for each of the four magical
+traditions. So this also means he casts
+
+1270
+00:26:50,549 --> 00:26:50,559
+traditions. So this also means he casts
+ 
+
+1271
+00:26:50,559 --> 00:26:52,789
+traditions. So this also means he casts
+his wizard arcane spells with expert
+
+1272
+00:26:52,789 --> 00:26:52,799
+his wizard arcane spells with expert
+ 
+
+1273
+00:26:52,799 --> 00:26:56,310
+his wizard arcane spells with expert
+proficiency, too. plus 14 to attack and
+
+1274
+00:26:56,310 --> 00:26:56,320
+proficiency, too. plus 14 to attack and
+ 
+
+1275
+00:26:56,320 --> 00:27:00,310
+proficiency, too. plus 14 to attack and
+a spell DC of 24. Always using the same
+
+1276
+00:27:00,310 --> 00:27:00,320
+a spell DC of 24. Always using the same
+ 
+
+1277
+00:27:00,320 --> 00:27:02,630
+a spell DC of 24. Always using the same
+spell casting proficiency level does
+
+1278
+00:27:02,630 --> 00:27:02,640
+spell casting proficiency level does
+ 
+
+1279
+00:27:02,640 --> 00:27:05,750
+spell casting proficiency level does
+simplify things, but remember since each
+
+1280
+00:27:05,750 --> 00:27:05,760
+simplify things, but remember since each
+ 
+
+1281
+00:27:05,760 --> 00:27:08,149
+simplify things, but remember since each
+source of spellcasting uses a different
+
+1282
+00:27:08,149 --> 00:27:08,159
+source of spellcasting uses a different
+ 
+
+1283
+00:27:08,159 --> 00:27:10,630
+source of spellcasting uses a different
+ability modifier, you still need to
+
+1284
+00:27:10,630 --> 00:27:10,640
+ability modifier, you still need to
+ 
+
+1285
+00:27:10,640 --> 00:27:15,110
+ability modifier, you still need to
+track different attack bonuses and DCs.
+
+1286
+00:27:15,110 --> 00:27:15,120
+track different attack bonuses and DCs.
+ 
+
+1287
+00:27:15,120 --> 00:27:17,269
+track different attack bonuses and DCs.
+This video has served as a foundation
+
+1288
+00:27:17,269 --> 00:27:17,279
+This video has served as a foundation
+ 
+
+1289
+00:27:17,279 --> 00:27:19,350
+This video has served as a foundation
+for casting spells and making spell
+
+1290
+00:27:19,350 --> 00:27:19,360
+for casting spells and making spell
+ 
+
+1291
+00:27:19,360 --> 00:27:22,149
+for casting spells and making spell
+attacks. In the next video of this
+
+1292
+00:27:22,149 --> 00:27:22,159
+attacks. In the next video of this
+ 
+
+1293
+00:27:22,159 --> 00:27:24,390
+attacks. In the next video of this
+series, we'll explore the rules for
+
+1294
+00:27:24,390 --> 00:27:24,400
+series, we'll explore the rules for
+ 
+
+1295
+00:27:24,400 --> 00:27:27,510
+series, we'll explore the rules for
+spells that do not use spell slots, such
+
+1296
+00:27:27,510 --> 00:27:27,520
+spells that do not use spell slots, such
+ 
+
+1297
+00:27:27,520 --> 00:27:30,390
+spells that do not use spell slots, such
+as cantrips and focus spells, and we'll
+
+1298
+00:27:30,390 --> 00:27:30,400
+as cantrips and focus spells, and we'll
+ 
+
+1299
+00:27:30,400 --> 00:27:32,630
+as cantrips and focus spells, and we'll
+also explore innate spellcasting, which
+
+1300
+00:27:32,630 --> 00:27:32,640
+also explore innate spellcasting, which
+ 
+
+1301
+00:27:32,640 --> 00:27:34,310
+also explore innate spellcasting, which
+are spells granted by things other than
+
+1302
+00:27:34,310 --> 00:27:34,320
+are spells granted by things other than
+ 
+
+1303
+00:27:34,320 --> 00:27:36,310
+are spells granted by things other than
+your class, such as having an ancestry
+
+1304
+00:27:36,310 --> 00:27:36,320
+your class, such as having an ancestry
+ 
+
+1305
+00:27:36,320 --> 00:27:38,789
+your class, such as having an ancestry
+that grants access to spellcasting. If
+
+1306
+00:27:38,789 --> 00:27:38,799
+that grants access to spellcasting. If
+ 
+
+1307
+00:27:38,799 --> 00:27:40,870
+that grants access to spellcasting. If
+you have any questions, please leave
+
+1308
+00:27:40,870 --> 00:27:40,880
+you have any questions, please leave
+ 
+
+1309
+00:27:40,880 --> 00:27:43,269
+you have any questions, please leave
+them in the comments below. And as
+
+1310
+00:27:43,269 --> 00:27:43,279
+them in the comments below. And as
+ 
+
+1311
+00:27:43,279 --> 00:27:45,590
+them in the comments below. And as
+always, I want to take a brief moment to
+
+1312
+00:27:45,590 --> 00:27:45,600
+always, I want to take a brief moment to
+ 
+
+1313
+00:27:45,600 --> 00:27:47,590
+always, I want to take a brief moment to
+thank everyone who supports me and this
+
+1314
+00:27:47,590 --> 00:27:47,600
+thank everyone who supports me and this
+ 
+
+1315
+00:27:47,600 --> 00:27:49,350
+thank everyone who supports me and this
+channel. Whether you do that by liking
+
+1316
+00:27:49,350 --> 00:27:49,360
+channel. Whether you do that by liking
+ 
+
+1317
+00:27:49,360 --> 00:27:51,029
+channel. Whether you do that by liking
+the video, leaving a comment,
+
+1318
+00:27:51,029 --> 00:27:51,039
+the video, leaving a comment,
+ 
+
+1319
+00:27:51,039 --> 00:27:52,470
+the video, leaving a comment,
+subscribing to the channel, or
+
+1320
+00:27:52,470 --> 00:27:52,480
+subscribing to the channel, or
+ 
+
+1321
+00:27:52,480 --> 00:27:54,630
+subscribing to the channel, or
+subscribing to the Patreon, I appreciate
+
+1322
+00:27:54,630 --> 00:27:54,640
+subscribing to the Patreon, I appreciate
+ 
+
+1323
+00:27:54,640 --> 00:27:56,389
+subscribing to the Patreon, I appreciate
+everything you do to support me. And
+
+1324
+00:27:56,389 --> 00:27:56,399
+everything you do to support me. And
+ 
+
+1325
+00:27:56,399 --> 00:27:58,230
+everything you do to support me. And
+with that, thanks for watching. Take
+
+1326
+00:27:58,230 --> 00:27:58,240
+with that, thanks for watching. Take
+ 
+
+1327
+00:27:58,240 --> 00:28:05,979
+with that, thanks for watching. Take
+care and happy gaming.
+
+1328
+00:28:05,979 --> 00:28:05,989
+
+ 
+
+1329
+00:28:05,989 --> 00:28:08,009
+
+[music]
+

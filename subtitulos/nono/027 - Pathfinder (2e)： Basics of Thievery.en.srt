@@ -1,0 +1,4825 @@
+1
+00:00:00,640 --> 00:00:03,180
+
+hello and welcome to basics for gamers
+
+2
+00:00:03,180 --> 00:00:03,190
+hello and welcome to basics for gamers
+ 
+
+3
+00:00:03,190 --> 00:00:05,790
+hello and welcome to basics for gamers
+presents the basics of thievery in
+
+4
+00:00:05,790 --> 00:00:05,800
+presents the basics of thievery in
+ 
+
+5
+00:00:05,800 --> 00:00:08,490
+presents the basics of thievery in
+Pathfinder second edition thievery is a
+
+6
+00:00:08,490 --> 00:00:08,500
+Pathfinder second edition thievery is a
+ 
+
+7
+00:00:08,500 --> 00:00:10,529
+Pathfinder second edition thievery is a
+dexterity based skill that is used to
+
+8
+00:00:10,529 --> 00:00:10,539
+dexterity based skill that is used to
+ 
+
+9
+00:00:10,539 --> 00:00:12,089
+dexterity based skill that is used to
+perform many of the actions that are
+
+10
+00:00:12,089 --> 00:00:12,099
+perform many of the actions that are
+ 
+
+11
+00:00:12,099 --> 00:00:13,799
+perform many of the actions that are
+commonly associated with rogues and
+
+12
+00:00:13,799 --> 00:00:13,809
+commonly associated with rogues and
+ 
+
+13
+00:00:13,809 --> 00:00:16,500
+commonly associated with rogues and
+criminals such as stealing disarming
+
+14
+00:00:16,500 --> 00:00:16,510
+criminals such as stealing disarming
+ 
+
+15
+00:00:16,510 --> 00:00:20,270
+criminals such as stealing disarming
+traps and picking open locks
+
+16
+00:00:20,270 --> 00:00:20,280
+
+ 
+
+17
+00:00:20,280 --> 00:00:23,210
+
+the first thievery action is called palm
+
+18
+00:00:23,210 --> 00:00:23,220
+the first thievery action is called palm
+ 
+
+19
+00:00:23,220 --> 00:00:25,940
+the first thievery action is called palm
+and object Palma knob ject is used
+
+20
+00:00:25,940 --> 00:00:25,950
+and object Palma knob ject is used
+ 
+
+21
+00:00:25,950 --> 00:00:27,440
+and object Palma knob ject is used
+whenever a player wishes to pick
+
+22
+00:00:27,440 --> 00:00:27,450
+whenever a player wishes to pick
+ 
+
+23
+00:00:27,450 --> 00:00:29,630
+whenever a player wishes to pick
+something up without being noticed for
+
+24
+00:00:29,630 --> 00:00:29,640
+something up without being noticed for
+ 
+
+25
+00:00:29,640 --> 00:00:31,970
+something up without being noticed for
+example they may try to take an item
+
+26
+00:00:31,970 --> 00:00:31,980
+example they may try to take an item
+ 
+
+27
+00:00:31,980 --> 00:00:34,100
+example they may try to take an item
+from a store without the shopkeeper
+
+28
+00:00:34,100 --> 00:00:34,110
+from a store without the shopkeeper
+ 
+
+29
+00:00:34,110 --> 00:00:36,530
+from a store without the shopkeeper
+catching them to do this the player
+
+30
+00:00:36,530 --> 00:00:36,540
+catching them to do this the player
+ 
+
+31
+00:00:36,540 --> 00:00:38,869
+catching them to do this the player
+would roll a thievery skill check which
+
+32
+00:00:38,869 --> 00:00:38,879
+would roll a thievery skill check which
+ 
+
+33
+00:00:38,879 --> 00:00:40,490
+would roll a thievery skill check which
+would be contested by the perception
+
+34
+00:00:40,490 --> 00:00:40,500
+would be contested by the perception
+ 
+
+35
+00:00:40,500 --> 00:00:42,740
+would be contested by the perception
+disease of everyone within view of the
+
+36
+00:00:42,740 --> 00:00:42,750
+disease of everyone within view of the
+ 
+
+37
+00:00:42,750 --> 00:00:43,340
+disease of everyone within view of the
+theft
+
+38
+00:00:43,340 --> 00:00:43,350
+theft
+ 
+
+39
+00:00:43,350 --> 00:00:46,430
+theft
+if the player succeeds that creature
+
+40
+00:00:46,430 --> 00:00:46,440
+if the player succeeds that creature
+ 
+
+41
+00:00:46,440 --> 00:00:48,710
+if the player succeeds that creature
+does not notice them taking the item and
+
+42
+00:00:48,710 --> 00:00:48,720
+does not notice them taking the item and
+ 
+
+43
+00:00:48,720 --> 00:00:51,530
+does not notice them taking the item and
+if they fail then the creature notices
+
+44
+00:00:51,530 --> 00:00:51,540
+if they fail then the creature notices
+ 
+
+45
+00:00:51,540 --> 00:00:53,780
+if they fail then the creature notices
+and then is going to be up to each and
+
+46
+00:00:53,780 --> 00:00:53,790
+and then is going to be up to each and
+ 
+
+47
+00:00:53,790 --> 00:00:56,299
+and then is going to be up to each and
+every GM to determine how that creature
+
+48
+00:00:56,299 --> 00:00:56,309
+every GM to determine how that creature
+ 
+
+49
+00:00:56,309 --> 00:00:59,389
+every GM to determine how that creature
+would act and a few other points about
+
+50
+00:00:59,389 --> 00:00:59,399
+would act and a few other points about
+ 
+
+51
+00:00:59,399 --> 00:01:02,060
+would act and a few other points about
+palm and object first it is intended
+
+52
+00:01:02,060 --> 00:01:02,070
+palm and object first it is intended
+ 
+
+53
+00:01:02,070 --> 00:01:04,639
+palm and object first it is intended
+that the item that is being palmed is of
+
+54
+00:01:04,639 --> 00:01:04,649
+that the item that is being palmed is of
+ 
+
+55
+00:01:04,649 --> 00:01:07,730
+that the item that is being palmed is of
+negligible bulk but larger items might
+
+56
+00:01:07,730 --> 00:01:07,740
+negligible bulk but larger items might
+ 
+
+57
+00:01:07,740 --> 00:01:10,310
+negligible bulk but larger items might
+be possible to be palmed with the jeans
+
+58
+00:01:10,310 --> 00:01:10,320
+be possible to be palmed with the jeans
+ 
+
+59
+00:01:10,320 --> 00:01:13,010
+be possible to be palmed with the jeans
+permission and likely with a suitable
+
+60
+00:01:13,010 --> 00:01:13,020
+permission and likely with a suitable
+ 
+
+61
+00:01:13,020 --> 00:01:15,279
+permission and likely with a suitable
+increase in difficulty as well
+
+62
+00:01:15,279 --> 00:01:15,289
+increase in difficulty as well
+ 
+
+63
+00:01:15,289 --> 00:01:18,230
+increase in difficulty as well
+second the item is picked up no matter
+
+64
+00:01:18,230 --> 00:01:18,240
+second the item is picked up no matter
+ 
+
+65
+00:01:18,240 --> 00:01:21,200
+second the item is picked up no matter
+what the character can't decide to not
+
+66
+00:01:21,200 --> 00:01:21,210
+what the character can't decide to not
+ 
+
+67
+00:01:21,210 --> 00:01:23,270
+what the character can't decide to not
+take that item once they fail their
+
+68
+00:01:23,270 --> 00:01:23,280
+take that item once they fail their
+ 
+
+69
+00:01:23,280 --> 00:01:24,859
+take that item once they fail their
+check and realize that they've been
+
+70
+00:01:24,859 --> 00:01:24,869
+check and realize that they've been
+ 
+
+71
+00:01:24,869 --> 00:01:28,789
+check and realize that they've been
+noticed third Hallman object is used for
+
+72
+00:01:28,789 --> 00:01:28,799
+noticed third Hallman object is used for
+ 
+
+73
+00:01:28,799 --> 00:01:31,280
+noticed third Hallman object is used for
+picking up an item without being noticed
+
+74
+00:01:31,280 --> 00:01:31,290
+picking up an item without being noticed
+ 
+
+75
+00:01:31,290 --> 00:01:33,859
+picking up an item without being noticed
+but if you wish to hide an object you
+
+76
+00:01:33,859 --> 00:01:33,869
+but if you wish to hide an object you
+ 
+
+77
+00:01:33,869 --> 00:01:36,230
+but if you wish to hide an object you
+are already carrying you would use the
+
+78
+00:01:36,230 --> 00:01:36,240
+are already carrying you would use the
+ 
+
+79
+00:01:36,240 --> 00:01:38,749
+are already carrying you would use the
+concealed and object application of the
+
+80
+00:01:38,749 --> 00:01:38,759
+concealed and object application of the
+ 
+
+81
+00:01:38,759 --> 00:01:41,870
+concealed and object application of the
+stealth skill in fact a GM may require a
+
+82
+00:01:41,870 --> 00:01:41,880
+stealth skill in fact a GM may require a
+ 
+
+83
+00:01:41,880 --> 00:01:44,240
+stealth skill in fact a GM may require a
+player to make both checks in a lot of
+
+84
+00:01:44,240 --> 00:01:44,250
+player to make both checks in a lot of
+ 
+
+85
+00:01:44,250 --> 00:01:46,700
+player to make both checks in a lot of
+circumstances they would spend an action
+
+86
+00:01:46,700 --> 00:01:46,710
+circumstances they would spend an action
+ 
+
+87
+00:01:46,710 --> 00:01:49,100
+circumstances they would spend an action
+to palm and object when they pick up an
+
+88
+00:01:49,100 --> 00:01:49,110
+to palm and object when they pick up an
+ 
+
+89
+00:01:49,110 --> 00:01:50,810
+to palm and object when they pick up an
+item in a store without being noticed
+
+90
+00:01:50,810 --> 00:01:50,820
+item in a store without being noticed
+ 
+
+91
+00:01:50,820 --> 00:01:54,050
+item in a store without being noticed
+and would then spend another action for
+
+92
+00:01:54,050 --> 00:01:54,060
+and would then spend another action for
+ 
+
+93
+00:01:54,060 --> 00:01:56,510
+and would then spend another action for
+conceal an object when they attempt to
+
+94
+00:01:56,510 --> 00:01:56,520
+conceal an object when they attempt to
+ 
+
+95
+00:01:56,520 --> 00:01:58,429
+conceal an object when they attempt to
+walk past the shopkeeper and out of the
+
+96
+00:01:58,429 --> 00:01:58,439
+walk past the shopkeeper and out of the
+ 
+
+97
+00:01:58,439 --> 00:02:01,870
+walk past the shopkeeper and out of the
+door and lest the item must be
+
+98
+00:02:01,870 --> 00:02:01,880
+door and lest the item must be
+ 
+
+99
+00:02:01,880 --> 00:02:05,179
+door and lest the item must be
+unattended unattended basically means
+
+100
+00:02:05,179 --> 00:02:05,189
+unattended unattended basically means
+ 
+
+101
+00:02:05,189 --> 00:02:07,039
+unattended unattended basically means
+that the object is not in the possession
+
+102
+00:02:07,039 --> 00:02:07,049
+that the object is not in the possession
+ 
+
+103
+00:02:07,049 --> 00:02:09,410
+that the object is not in the possession
+of another character you could not use
+
+104
+00:02:09,410 --> 00:02:09,420
+of another character you could not use
+ 
+
+105
+00:02:09,420 --> 00:02:11,420
+of another character you could not use
+palm and object if you wanted to pick
+
+106
+00:02:11,420 --> 00:02:11,430
+palm and object if you wanted to pick
+ 
+
+107
+00:02:11,430 --> 00:02:13,880
+palm and object if you wanted to pick
+some with pockets for that you would use
+
+108
+00:02:13,880 --> 00:02:13,890
+some with pockets for that you would use
+ 
+
+109
+00:02:13,890 --> 00:02:16,069
+some with pockets for that you would use
+the second thievery action which is
+
+110
+00:02:16,069 --> 00:02:16,079
+the second thievery action which is
+ 
+
+111
+00:02:16,079 --> 00:02:19,070
+the second thievery action which is
+steal
+
+112
+00:02:19,070 --> 00:02:19,080
+
+ 
+
+113
+00:02:19,080 --> 00:02:21,680
+
+the steel action is used to take a small
+
+114
+00:02:21,680 --> 00:02:21,690
+the steel action is used to take a small
+ 
+
+115
+00:02:21,690 --> 00:02:23,900
+the steel action is used to take a small
+object from another character without
+
+116
+00:02:23,900 --> 00:02:23,910
+object from another character without
+ 
+
+117
+00:02:23,910 --> 00:02:26,480
+object from another character without
+being noticed as with palm and object
+
+118
+00:02:26,480 --> 00:02:26,490
+being noticed as with palm and object
+ 
+
+119
+00:02:26,490 --> 00:02:28,730
+being noticed as with palm and object
+this is intended to be an item of
+
+120
+00:02:28,730 --> 00:02:28,740
+this is intended to be an item of
+ 
+
+121
+00:02:28,740 --> 00:02:31,190
+this is intended to be an item of
+negligible bulk but that may be adjusted
+
+122
+00:02:31,190 --> 00:02:31,200
+negligible bulk but that may be adjusted
+ 
+
+123
+00:02:31,200 --> 00:02:34,820
+negligible bulk but that may be adjusted
+if the GM allows also you automatically
+
+124
+00:02:34,820 --> 00:02:34,830
+if the GM allows also you automatically
+ 
+
+125
+00:02:34,830 --> 00:02:36,920
+if the GM allows also you automatically
+fail if the target that you are stealing
+
+126
+00:02:36,920 --> 00:02:36,930
+fail if the target that you are stealing
+ 
+
+127
+00:02:36,930 --> 00:02:40,970
+fail if the target that you are stealing
+from is in combat or on guard there's no
+
+128
+00:02:40,970 --> 00:02:40,980
+from is in combat or on guard there's no
+ 
+
+129
+00:02:40,980 --> 00:02:43,430
+from is in combat or on guard there's no
+real definition that I found for the
+
+130
+00:02:43,430 --> 00:02:43,440
+real definition that I found for the
+ 
+
+131
+00:02:43,440 --> 00:02:46,670
+real definition that I found for the
+term on guard but I think of myself when
+
+132
+00:02:46,670 --> 00:02:46,680
+term on guard but I think of myself when
+ 
+
+133
+00:02:46,680 --> 00:02:49,340
+term on guard but I think of myself when
+I visit a heavy tourist area and I've
+
+134
+00:02:49,340 --> 00:02:49,350
+I visit a heavy tourist area and I've
+ 
+
+135
+00:02:49,350 --> 00:02:50,990
+I visit a heavy tourist area and I've
+been warned that there are pickpockets
+
+136
+00:02:50,990 --> 00:02:51,000
+been warned that there are pickpockets
+ 
+
+137
+00:02:51,000 --> 00:02:53,840
+been warned that there are pickpockets
+and thieves about in those situations I
+
+138
+00:02:53,840 --> 00:02:53,850
+and thieves about in those situations I
+ 
+
+139
+00:02:53,850 --> 00:02:55,150
+and thieves about in those situations I
+always keep my hands in my pockets
+
+140
+00:02:55,150 --> 00:02:55,160
+always keep my hands in my pockets
+ 
+
+141
+00:02:55,160 --> 00:02:57,920
+always keep my hands in my pockets
+covering my wallet in my phone at all
+
+142
+00:02:57,920 --> 00:02:57,930
+covering my wallet in my phone at all
+ 
+
+143
+00:02:57,930 --> 00:02:58,730
+covering my wallet in my phone at all
+times
+
+144
+00:02:58,730 --> 00:02:58,740
+times
+ 
+
+145
+00:02:58,740 --> 00:03:01,160
+times
+that might be an example of what they
+
+146
+00:03:01,160 --> 00:03:01,170
+that might be an example of what they
+ 
+
+147
+00:03:01,170 --> 00:03:03,920
+that might be an example of what they
+mean by being quote on guard in this
+
+148
+00:03:03,920 --> 00:03:03,930
+mean by being quote on guard in this
+ 
+
+149
+00:03:03,930 --> 00:03:06,920
+mean by being quote on guard in this
+description mechanically this works
+
+150
+00:03:06,920 --> 00:03:06,930
+description mechanically this works
+ 
+
+151
+00:03:06,930 --> 00:03:10,040
+description mechanically this works
+almost the same as palm and object the
+
+152
+00:03:10,040 --> 00:03:10,050
+almost the same as palm and object the
+ 
+
+153
+00:03:10,050 --> 00:03:12,710
+almost the same as palm and object the
+character trying to steal rolls a fevery
+
+154
+00:03:12,710 --> 00:03:12,720
+character trying to steal rolls a fevery
+ 
+
+155
+00:03:12,720 --> 00:03:14,270
+character trying to steal rolls a fevery
+check that is contested by the
+
+156
+00:03:14,270 --> 00:03:14,280
+check that is contested by the
+ 
+
+157
+00:03:14,280 --> 00:03:16,700
+check that is contested by the
+perception DC of the target who
+
+158
+00:03:16,700 --> 00:03:16,710
+perception DC of the target who
+ 
+
+159
+00:03:16,710 --> 00:03:19,610
+perception DC of the target who
+possesses the item to be stolen the GM
+
+160
+00:03:19,610 --> 00:03:19,620
+possesses the item to be stolen the GM
+ 
+
+161
+00:03:19,620 --> 00:03:22,040
+possesses the item to be stolen the GM
+might also compare this result to the
+
+162
+00:03:22,040 --> 00:03:22,050
+might also compare this result to the
+ 
+
+163
+00:03:22,050 --> 00:03:23,750
+might also compare this result to the
+perception disease of everyone within
+
+164
+00:03:23,750 --> 00:03:23,760
+perception disease of everyone within
+ 
+
+165
+00:03:23,760 --> 00:03:25,910
+perception disease of everyone within
+view of the theft to see if anyone else
+
+166
+00:03:25,910 --> 00:03:25,920
+view of the theft to see if anyone else
+ 
+
+167
+00:03:25,920 --> 00:03:29,479
+view of the theft to see if anyone else
+notices if successful the character
+
+168
+00:03:29,479 --> 00:03:29,489
+notices if successful the character
+ 
+
+169
+00:03:29,489 --> 00:03:31,310
+notices if successful the character
+takes the item without being noticed on
+
+170
+00:03:31,310 --> 00:03:31,320
+takes the item without being noticed on
+ 
+
+171
+00:03:31,320 --> 00:03:34,310
+takes the item without being noticed on
+a failure the victim notices the
+
+172
+00:03:34,310 --> 00:03:34,320
+a failure the victim notices the
+ 
+
+173
+00:03:34,320 --> 00:03:35,990
+a failure the victim notices the
+character's attempt to steal from them
+
+174
+00:03:35,990 --> 00:03:36,000
+character's attempt to steal from them
+ 
+
+175
+00:03:36,000 --> 00:03:39,830
+character's attempt to steal from them
+but before the item is taken unlike with
+
+176
+00:03:39,830 --> 00:03:39,840
+but before the item is taken unlike with
+ 
+
+177
+00:03:39,840 --> 00:03:42,290
+but before the item is taken unlike with
+pom an object when you fail and attempt
+
+178
+00:03:42,290 --> 00:03:42,300
+pom an object when you fail and attempt
+ 
+
+179
+00:03:42,300 --> 00:03:45,410
+pom an object when you fail and attempt
+to steal then you do not take the item
+
+180
+00:03:45,410 --> 00:03:45,420
+to steal then you do not take the item
+ 
+
+181
+00:03:45,420 --> 00:03:48,500
+to steal then you do not take the item
+and note that the standard steal action
+
+182
+00:03:48,500 --> 00:03:48,510
+and note that the standard steal action
+ 
+
+183
+00:03:48,510 --> 00:03:50,840
+and note that the standard steal action
+assumes the item that's being taken is
+
+184
+00:03:50,840 --> 00:03:50,850
+assumes the item that's being taken is
+ 
+
+185
+00:03:50,850 --> 00:03:53,390
+assumes the item that's being taken is
+loosely worn or easily accessible and
+
+186
+00:03:53,390 --> 00:03:53,400
+loosely worn or easily accessible and
+ 
+
+187
+00:03:53,400 --> 00:03:55,790
+loosely worn or easily accessible and
+the GM will apply penalties to the
+
+188
+00:03:55,790 --> 00:03:55,800
+the GM will apply penalties to the
+ 
+
+189
+00:03:55,800 --> 00:03:57,670
+the GM will apply penalties to the
+thievery check as they deem appropriate
+
+190
+00:03:57,670 --> 00:03:57,680
+thievery check as they deem appropriate
+ 
+
+191
+00:03:57,680 --> 00:04:00,890
+thievery check as they deem appropriate
+for example a negative 5 penalty if the
+
+192
+00:04:00,890 --> 00:04:00,900
+for example a negative 5 penalty if the
+ 
+
+193
+00:04:00,900 --> 00:04:03,290
+for example a negative 5 penalty if the
+item is not in the open but is instead
+
+194
+00:04:03,290 --> 00:04:03,300
+item is not in the open but is instead
+ 
+
+195
+00:04:03,300 --> 00:04:06,229
+item is not in the open but is instead
+inside of a pocket or apply an even
+
+196
+00:04:06,229 --> 00:04:06,239
+inside of a pocket or apply an even
+ 
+
+197
+00:04:06,239 --> 00:04:08,420
+inside of a pocket or apply an even
+larger penalty if the item is buried
+
+198
+00:04:08,420 --> 00:04:08,430
+larger penalty if the item is buried
+ 
+
+199
+00:04:08,430 --> 00:04:10,250
+larger penalty if the item is buried
+somewhere in a backpack or other
+
+200
+00:04:10,250 --> 00:04:10,260
+somewhere in a backpack or other
+ 
+
+201
+00:04:10,260 --> 00:04:12,380
+somewhere in a backpack or other
+penalties for other circumstances again
+
+202
+00:04:12,380 --> 00:04:12,390
+penalties for other circumstances again
+ 
+
+203
+00:04:12,390 --> 00:04:15,949
+penalties for other circumstances again
+as the GM deems appropriate it might
+
+204
+00:04:15,949 --> 00:04:15,959
+as the GM deems appropriate it might
+ 
+
+205
+00:04:15,959 --> 00:04:18,470
+as the GM deems appropriate it might
+also be worth mentioning that a GM could
+
+206
+00:04:18,470 --> 00:04:18,480
+also be worth mentioning that a GM could
+ 
+
+207
+00:04:18,480 --> 00:04:21,050
+also be worth mentioning that a GM could
+allow a player to spend two actions to
+
+208
+00:04:21,050 --> 00:04:21,060
+allow a player to spend two actions to
+ 
+
+209
+00:04:21,060 --> 00:04:23,840
+allow a player to spend two actions to
+accomplish the same result by using the
+
+210
+00:04:23,840 --> 00:04:23,850
+accomplish the same result by using the
+ 
+
+211
+00:04:23,850 --> 00:04:26,659
+accomplish the same result by using the
+create a diversion application of the
+
+212
+00:04:26,659 --> 00:04:26,669
+create a diversion application of the
+ 
+
+213
+00:04:26,669 --> 00:04:29,690
+create a diversion application of the
+deception skill in this case one action
+
+214
+00:04:29,690 --> 00:04:29,700
+deception skill in this case one action
+ 
+
+215
+00:04:29,700 --> 00:04:31,469
+deception skill in this case one action
+would be spent to distract the Tarr
+
+216
+00:04:31,469 --> 00:04:31,479
+would be spent to distract the Tarr
+ 
+
+217
+00:04:31,479 --> 00:04:33,809
+would be spent to distract the Tarr
+and if successful this would give the
+
+218
+00:04:33,809 --> 00:04:33,819
+and if successful this would give the
+ 
+
+219
+00:04:33,819 --> 00:04:36,420
+and if successful this would give the
+thief the hidden condition instead of
+
+220
+00:04:36,420 --> 00:04:36,430
+thief the hidden condition instead of
+ 
+
+221
+00:04:36,430 --> 00:04:38,399
+thief the hidden condition instead of
+observed and then they would use
+
+222
+00:04:38,399 --> 00:04:38,409
+observed and then they would use
+ 
+
+223
+00:04:38,409 --> 00:04:40,679
+observed and then they would use
+interact as their second action and take
+
+224
+00:04:40,679 --> 00:04:40,689
+interact as their second action and take
+ 
+
+225
+00:04:40,689 --> 00:04:42,600
+interact as their second action and take
+the item from the target in other
+
+226
+00:04:42,600 --> 00:04:42,610
+the item from the target in other
+ 
+
+227
+00:04:42,610 --> 00:04:44,999
+the item from the target in other
+situations a GM might allow the use of
+
+228
+00:04:44,999 --> 00:04:45,009
+situations a GM might allow the use of
+ 
+
+229
+00:04:45,009 --> 00:04:47,909
+situations a GM might allow the use of
+create a diversion first in order to
+
+230
+00:04:47,909 --> 00:04:47,919
+create a diversion first in order to
+ 
+
+231
+00:04:47,919 --> 00:04:50,640
+create a diversion first in order to
+apply a bonus to their next thievery
+
+232
+00:04:50,640 --> 00:04:50,650
+apply a bonus to their next thievery
+ 
+
+233
+00:04:50,650 --> 00:04:54,119
+apply a bonus to their next thievery
+check to steal an item more information
+
+234
+00:04:54,119 --> 00:04:54,129
+check to steal an item more information
+ 
+
+235
+00:04:54,129 --> 00:04:56,040
+check to steal an item more information
+about creating diversions can be found
+
+236
+00:04:56,040 --> 00:04:56,050
+about creating diversions can be found
+ 
+
+237
+00:04:56,050 --> 00:04:59,700
+about creating diversions can be found
+in our video about stealth
+
+238
+00:04:59,700 --> 00:04:59,710
+in our video about stealth
+ 
+
+239
+00:04:59,710 --> 00:05:01,920
+in our video about stealth
+the Knicks fever reaction is called
+
+240
+00:05:01,920 --> 00:05:01,930
+the Knicks fever reaction is called
+ 
+
+241
+00:05:01,930 --> 00:05:05,310
+the Knicks fever reaction is called
+disable a device this action is used
+
+242
+00:05:05,310 --> 00:05:05,320
+disable a device this action is used
+ 
+
+243
+00:05:05,320 --> 00:05:07,830
+disable a device this action is used
+when a character wishes to manipulate a
+
+244
+00:05:07,830 --> 00:05:07,840
+when a character wishes to manipulate a
+ 
+
+245
+00:05:07,840 --> 00:05:10,320
+when a character wishes to manipulate a
+piece of machinery in such a way that it
+
+246
+00:05:10,320 --> 00:05:10,330
+piece of machinery in such a way that it
+ 
+
+247
+00:05:10,330 --> 00:05:12,510
+piece of machinery in such a way that it
+no longer functions as intended
+
+248
+00:05:12,510 --> 00:05:12,520
+no longer functions as intended
+ 
+
+249
+00:05:12,520 --> 00:05:15,719
+no longer functions as intended
+the most common use for disable a device
+
+250
+00:05:15,719 --> 00:05:15,729
+the most common use for disable a device
+ 
+
+251
+00:05:15,729 --> 00:05:19,350
+the most common use for disable a device
+is disarming traps but this is by no
+
+252
+00:05:19,350 --> 00:05:19,360
+is disarming traps but this is by no
+ 
+
+253
+00:05:19,360 --> 00:05:22,469
+is disarming traps but this is by no
+means limited to gist traps with the
+
+254
+00:05:22,469 --> 00:05:22,479
+means limited to gist traps with the
+ 
+
+255
+00:05:22,479 --> 00:05:24,360
+means limited to gist traps with the
+Jesus permission this could be used in a
+
+256
+00:05:24,360 --> 00:05:24,370
+Jesus permission this could be used in a
+ 
+
+257
+00:05:24,370 --> 00:05:27,300
+Jesus permission this could be used in a
+wide variety of ways for example in one
+
+258
+00:05:27,300 --> 00:05:27,310
+wide variety of ways for example in one
+ 
+
+259
+00:05:27,310 --> 00:05:29,430
+wide variety of ways for example in one
+game that I played in my rogue used
+
+260
+00:05:29,430 --> 00:05:29,440
+game that I played in my rogue used
+ 
+
+261
+00:05:29,440 --> 00:05:32,189
+game that I played in my rogue used
+disable a device to rig the wheel of a
+
+262
+00:05:32,189 --> 00:05:32,199
+disable a device to rig the wheel of a
+ 
+
+263
+00:05:32,199 --> 00:05:34,680
+disable a device to rig the wheel of a
+carriage so that if anyone tried to use
+
+264
+00:05:34,680 --> 00:05:34,690
+carriage so that if anyone tried to use
+ 
+
+265
+00:05:34,690 --> 00:05:37,110
+carriage so that if anyone tried to use
+it to pursue the team the wheel wouldn't
+
+266
+00:05:37,110 --> 00:05:37,120
+it to pursue the team the wheel wouldn't
+ 
+
+267
+00:05:37,120 --> 00:05:40,140
+it to pursue the team the wheel wouldn't
+turn most uses of disable a device
+
+268
+00:05:40,140 --> 00:05:40,150
+turn most uses of disable a device
+ 
+
+269
+00:05:40,150 --> 00:05:43,050
+turn most uses of disable a device
+require these of thieves tools but in
+
+270
+00:05:43,050 --> 00:05:43,060
+require these of thieves tools but in
+ 
+
+271
+00:05:43,060 --> 00:05:45,150
+require these of thieves tools but in
+this case the GM required the use of a
+
+272
+00:05:45,150 --> 00:05:45,160
+this case the GM required the use of a
+ 
+
+273
+00:05:45,160 --> 00:05:47,909
+this case the GM required the use of a
+crowbar instead that's just one example
+
+274
+00:05:47,909 --> 00:05:47,919
+crowbar instead that's just one example
+ 
+
+275
+00:05:47,919 --> 00:05:50,879
+crowbar instead that's just one example
+but others might include rigging a door
+
+276
+00:05:50,879 --> 00:05:50,889
+but others might include rigging a door
+ 
+
+277
+00:05:50,889 --> 00:05:53,640
+but others might include rigging a door
+so that it won't open or sabotaging a
+
+278
+00:05:53,640 --> 00:05:53,650
+so that it won't open or sabotaging a
+ 
+
+279
+00:05:53,650 --> 00:05:56,219
+so that it won't open or sabotaging a
+catapult so that it can't fire the
+
+280
+00:05:56,219 --> 00:05:56,229
+catapult so that it can't fire the
+ 
+
+281
+00:05:56,229 --> 00:05:58,439
+catapult so that it can't fire the
+mechanics are largely going to be the
+
+282
+00:05:58,439 --> 00:05:58,449
+mechanics are largely going to be the
+ 
+
+283
+00:05:58,449 --> 00:06:01,020
+mechanics are largely going to be the
+same regardless of if you're disarming a
+
+284
+00:06:01,020 --> 00:06:01,030
+same regardless of if you're disarming a
+ 
+
+285
+00:06:01,030 --> 00:06:04,320
+same regardless of if you're disarming a
+trap or disabling another device the
+
+286
+00:06:04,320 --> 00:06:04,330
+trap or disabling another device the
+ 
+
+287
+00:06:04,330 --> 00:06:07,890
+trap or disabling another device the
+player spins two actions to attempt to
+
+288
+00:06:07,890 --> 00:06:07,900
+player spins two actions to attempt to
+ 
+
+289
+00:06:07,900 --> 00:06:10,620
+player spins two actions to attempt to
+disable a device and then rolls their
+
+290
+00:06:10,620 --> 00:06:10,630
+disable a device and then rolls their
+ 
+
+291
+00:06:10,630 --> 00:06:12,779
+disable a device and then rolls their
+thievery skill check which is then
+
+292
+00:06:12,779 --> 00:06:12,789
+thievery skill check which is then
+ 
+
+293
+00:06:12,789 --> 00:06:16,350
+thievery skill check which is then
+compared to a DC set by the GM most
+
+294
+00:06:16,350 --> 00:06:16,360
+compared to a DC set by the GM most
+ 
+
+295
+00:06:16,360 --> 00:06:18,870
+compared to a DC set by the GM most
+devices require multiple successes to
+
+296
+00:06:18,870 --> 00:06:18,880
+devices require multiple successes to
+ 
+
+297
+00:06:18,880 --> 00:06:21,060
+devices require multiple successes to
+disable depending on its construction
+
+298
+00:06:21,060 --> 00:06:21,070
+disable depending on its construction
+ 
+
+299
+00:06:21,070 --> 00:06:25,020
+disable depending on its construction
+quality and complexity on a success the
+
+300
+00:06:25,020 --> 00:06:25,030
+quality and complexity on a success the
+ 
+
+301
+00:06:25,030 --> 00:06:27,210
+quality and complexity on a success the
+player gains a one success tours
+
+302
+00:06:27,210 --> 00:06:27,220
+player gains a one success tours
+ 
+
+303
+00:06:27,220 --> 00:06:30,390
+player gains a one success tours
+disabling the device on a critical
+
+304
+00:06:30,390 --> 00:06:30,400
+disabling the device on a critical
+ 
+
+305
+00:06:30,400 --> 00:06:33,240
+disabling the device on a critical
+success they gain two successes taursus
+
+306
+00:06:33,240 --> 00:06:33,250
+success they gain two successes taursus
+ 
+
+307
+00:06:33,250 --> 00:06:36,210
+success they gain two successes taursus
+abling device plus they leave no trace
+
+308
+00:06:36,210 --> 00:06:36,220
+abling device plus they leave no trace
+ 
+
+309
+00:06:36,220 --> 00:06:38,490
+abling device plus they leave no trace
+of their tampering and can choose to
+
+310
+00:06:38,490 --> 00:06:38,500
+of their tampering and can choose to
+ 
+
+311
+00:06:38,500 --> 00:06:40,969
+of their tampering and can choose to
+rearm that device later if they choose
+
+312
+00:06:40,969 --> 00:06:40,979
+rearm that device later if they choose
+ 
+
+313
+00:06:40,979 --> 00:06:44,550
+rearm that device later if they choose
+on a failure no progress is made towards
+
+314
+00:06:44,550 --> 00:06:44,560
+on a failure no progress is made towards
+ 
+
+315
+00:06:44,560 --> 00:06:47,399
+on a failure no progress is made towards
+disabling the device and on a critical
+
+316
+00:06:47,399 --> 00:06:47,409
+disabling the device and on a critical
+ 
+
+317
+00:06:47,409 --> 00:06:50,850
+disabling the device and on a critical
+failure they trigger the device so if
+
+318
+00:06:50,850 --> 00:06:50,860
+failure they trigger the device so if
+ 
+
+319
+00:06:50,860 --> 00:06:52,499
+failure they trigger the device so if
+you critically fail your attempt to
+
+320
+00:06:52,499 --> 00:06:52,509
+you critically fail your attempt to
+ 
+
+321
+00:06:52,509 --> 00:06:56,610
+you critically fail your attempt to
+disarm a trap the trap goes off a couple
+
+322
+00:06:56,610 --> 00:06:56,620
+disarm a trap the trap goes off a couple
+ 
+
+323
+00:06:56,620 --> 00:06:58,050
+disarm a trap the trap goes off a couple
+other points to note here
+
+324
+00:06:58,050 --> 00:06:58,060
+other points to note here
+ 
+
+325
+00:06:58,060 --> 00:07:01,020
+other points to note here
+unlike the palm and object in steal
+
+326
+00:07:01,020 --> 00:07:01,030
+unlike the palm and object in steal
+ 
+
+327
+00:07:01,030 --> 00:07:03,899
+unlike the palm and object in steal
+actions you must have at least trained
+
+328
+00:07:03,899 --> 00:07:03,909
+actions you must have at least trained
+ 
+
+329
+00:07:03,909 --> 00:07:07,170
+actions you must have at least trained
+proficiency in thievery in order to use
+
+330
+00:07:07,170 --> 00:07:07,180
+proficiency in thievery in order to use
+ 
+
+331
+00:07:07,180 --> 00:07:09,379
+proficiency in thievery in order to use
+disable a device
+
+332
+00:07:09,379 --> 00:07:09,389
+disable a device
+ 
+
+333
+00:07:09,389 --> 00:07:11,540
+disable a device
+aimed just note that disabling a device
+
+334
+00:07:11,540 --> 00:07:11,550
+aimed just note that disabling a device
+ 
+
+335
+00:07:11,550 --> 00:07:15,020
+aimed just note that disabling a device
+again requires two actions and most
+
+336
+00:07:15,020 --> 00:07:15,030
+again requires two actions and most
+ 
+
+337
+00:07:15,030 --> 00:07:17,689
+again requires two actions and most
+devices require multiple successes in
+
+338
+00:07:17,689 --> 00:07:17,699
+devices require multiple successes in
+ 
+
+339
+00:07:17,699 --> 00:07:20,300
+devices require multiple successes in
+order to disable this can lead some
+
+340
+00:07:20,300 --> 00:07:20,310
+order to disable this can lead some
+ 
+
+341
+00:07:20,310 --> 00:07:22,760
+order to disable this can lead some
+players to want to spin the first two
+
+342
+00:07:22,760 --> 00:07:22,770
+players to want to spin the first two
+ 
+
+343
+00:07:22,770 --> 00:07:25,189
+players to want to spin the first two
+actions of their turn to disable device
+
+344
+00:07:25,189 --> 00:07:25,199
+actions of their turn to disable device
+ 
+
+345
+00:07:25,199 --> 00:07:27,920
+actions of their turn to disable device
+and therefore get one success towards
+
+346
+00:07:27,920 --> 00:07:27,930
+and therefore get one success towards
+ 
+
+347
+00:07:27,930 --> 00:07:31,760
+and therefore get one success towards
+that and then start their next disable
+
+348
+00:07:31,760 --> 00:07:31,770
+that and then start their next disable
+ 
+
+349
+00:07:31,770 --> 00:07:34,520
+that and then start their next disable
+device attempt with their third action
+
+350
+00:07:34,520 --> 00:07:34,530
+device attempt with their third action
+ 
+
+351
+00:07:34,530 --> 00:07:37,459
+device attempt with their third action
+of that current turn and then finish it
+
+352
+00:07:37,459 --> 00:07:37,469
+of that current turn and then finish it
+ 
+
+353
+00:07:37,469 --> 00:07:39,980
+of that current turn and then finish it
+with their first action of the next turn
+
+354
+00:07:39,980 --> 00:07:39,990
+with their first action of the next turn
+ 
+
+355
+00:07:39,990 --> 00:07:43,550
+with their first action of the next turn
+but remember all to action activities
+
+356
+00:07:43,550 --> 00:07:43,560
+but remember all to action activities
+ 
+
+357
+00:07:43,560 --> 00:07:45,890
+but remember all to action activities
+and three action activities must be
+
+358
+00:07:45,890 --> 00:07:45,900
+and three action activities must be
+ 
+
+359
+00:07:45,900 --> 00:07:48,559
+and three action activities must be
+completed in the turn in which they are
+
+360
+00:07:48,559 --> 00:07:48,569
+completed in the turn in which they are
+ 
+
+361
+00:07:48,569 --> 00:07:51,589
+completed in the turn in which they are
+started so you cannot start to disable a
+
+362
+00:07:51,589 --> 00:07:51,599
+started so you cannot start to disable a
+ 
+
+363
+00:07:51,599 --> 00:07:54,080
+started so you cannot start to disable a
+device with the third action of one turn
+
+364
+00:07:54,080 --> 00:07:54,090
+device with the third action of one turn
+ 
+
+365
+00:07:54,090 --> 00:07:56,689
+device with the third action of one turn
+and then finish it with the first action
+
+366
+00:07:56,689 --> 00:07:56,699
+and then finish it with the first action
+ 
+
+367
+00:07:56,699 --> 00:08:00,200
+and then finish it with the first action
+of the next turn those are the basics of
+
+368
+00:08:00,200 --> 00:08:00,210
+of the next turn those are the basics of
+ 
+
+369
+00:08:00,210 --> 00:08:03,350
+of the next turn those are the basics of
+using fevery to disable a device and the
+
+370
+00:08:03,350 --> 00:08:03,360
+using fevery to disable a device and the
+ 
+
+371
+00:08:03,360 --> 00:08:05,029
+using fevery to disable a device and the
+next video in the series that is
+
+372
+00:08:05,029 --> 00:08:05,039
+next video in the series that is
+ 
+
+373
+00:08:05,039 --> 00:08:06,830
+next video in the series that is
+dedicated to discussing traps and
+
+374
+00:08:06,830 --> 00:08:06,840
+dedicated to discussing traps and
+ 
+
+375
+00:08:06,840 --> 00:08:09,409
+dedicated to discussing traps and
+hazards goes into much greater depth and
+
+376
+00:08:09,409 --> 00:08:09,419
+hazards goes into much greater depth and
+ 
+
+377
+00:08:09,419 --> 00:08:12,200
+hazards goes into much greater depth and
+does provide examples on using this
+
+378
+00:08:12,200 --> 00:08:12,210
+does provide examples on using this
+ 
+
+379
+00:08:12,210 --> 00:08:15,670
+does provide examples on using this
+action to disarm traps
+
+380
+00:08:15,670 --> 00:08:15,680
+action to disarm traps
+ 
+
+381
+00:08:15,680 --> 00:08:18,040
+action to disarm traps
+the last fever reaction works almost
+
+382
+00:08:18,040 --> 00:08:18,050
+the last fever reaction works almost
+ 
+
+383
+00:08:18,050 --> 00:08:20,710
+the last fever reaction works almost
+identically to disabled device but is
+
+384
+00:08:20,710 --> 00:08:20,720
+identically to disabled device but is
+ 
+
+385
+00:08:20,720 --> 00:08:23,020
+identically to disabled device but is
+specifically intended for disabling
+
+386
+00:08:23,020 --> 00:08:23,030
+specifically intended for disabling
+ 
+
+387
+00:08:23,030 --> 00:08:26,469
+specifically intended for disabling
+locks just like with disabling a device
+
+388
+00:08:26,469 --> 00:08:26,479
+locks just like with disabling a device
+ 
+
+389
+00:08:26,479 --> 00:08:29,320
+locks just like with disabling a device
+pick a lock requires you to be at least
+
+390
+00:08:29,320 --> 00:08:29,330
+pick a lock requires you to be at least
+ 
+
+391
+00:08:29,330 --> 00:08:32,620
+pick a lock requires you to be at least
+trained in thievery and cost two actions
+
+392
+00:08:32,620 --> 00:08:32,630
+trained in thievery and cost two actions
+ 
+
+393
+00:08:32,630 --> 00:08:33,490
+trained in thievery and cost two actions
+per attempt
+
+394
+00:08:33,490 --> 00:08:33,500
+per attempt
+ 
+
+395
+00:08:33,500 --> 00:08:36,219
+per attempt
+you must have thieves tools to pick the
+
+396
+00:08:36,219 --> 00:08:36,229
+you must have thieves tools to pick the
+ 
+
+397
+00:08:36,229 --> 00:08:39,190
+you must have thieves tools to pick the
+lock and just like devices Lux may
+
+398
+00:08:39,190 --> 00:08:39,200
+lock and just like devices Lux may
+ 
+
+399
+00:08:39,200 --> 00:08:41,440
+lock and just like devices Lux may
+require multiple successes to open
+
+400
+00:08:41,440 --> 00:08:41,450
+require multiple successes to open
+ 
+
+401
+00:08:41,450 --> 00:08:43,360
+require multiple successes to open
+depending on the locks quality and
+
+402
+00:08:43,360 --> 00:08:43,370
+depending on the locks quality and
+ 
+
+403
+00:08:43,370 --> 00:08:46,570
+depending on the locks quality and
+complexity the player rolls a thievery
+
+404
+00:08:46,570 --> 00:08:46,580
+complexity the player rolls a thievery
+ 
+
+405
+00:08:46,580 --> 00:08:49,060
+complexity the player rolls a thievery
+skill check which is compared to a DC
+
+406
+00:08:49,060 --> 00:08:49,070
+skill check which is compared to a DC
+ 
+
+407
+00:08:49,070 --> 00:08:52,540
+skill check which is compared to a DC
+set by the GM on a success they gain one
+
+408
+00:08:52,540 --> 00:08:52,550
+set by the GM on a success they gain one
+ 
+
+409
+00:08:52,550 --> 00:08:55,150
+set by the GM on a success they gain one
+success towards opening the lock on a
+
+410
+00:08:55,150 --> 00:08:55,160
+success towards opening the lock on a
+ 
+
+411
+00:08:55,160 --> 00:08:57,730
+success towards opening the lock on a
+critical success they gain two successes
+
+412
+00:08:57,730 --> 00:08:57,740
+critical success they gain two successes
+ 
+
+413
+00:08:57,740 --> 00:09:00,070
+critical success they gain two successes
+towards opening the lock and leave no
+
+414
+00:09:00,070 --> 00:09:00,080
+towards opening the lock and leave no
+ 
+
+415
+00:09:00,080 --> 00:09:03,040
+towards opening the lock and leave no
+evidence of their tampering on a failure
+
+416
+00:09:03,040 --> 00:09:03,050
+evidence of their tampering on a failure
+ 
+
+417
+00:09:03,050 --> 00:09:06,250
+evidence of their tampering on a failure
+nothing happens no progress is made
+
+418
+00:09:06,250 --> 00:09:06,260
+nothing happens no progress is made
+ 
+
+419
+00:09:06,260 --> 00:09:08,800
+nothing happens no progress is made
+towards opening the lock and on a
+
+420
+00:09:08,800 --> 00:09:08,810
+towards opening the lock and on a
+ 
+
+421
+00:09:08,810 --> 00:09:10,810
+towards opening the lock and on a
+critical failure they break their
+
+422
+00:09:10,810 --> 00:09:10,820
+critical failure they break their
+ 
+
+423
+00:09:10,820 --> 00:09:13,810
+critical failure they break their
+thieves tools so when you purchase your
+
+424
+00:09:13,810 --> 00:09:13,820
+thieves tools so when you purchase your
+ 
+
+425
+00:09:13,820 --> 00:09:16,210
+thieves tools so when you purchase your
+gear remember that you can buy
+
+426
+00:09:16,210 --> 00:09:16,220
+gear remember that you can buy
+ 
+
+427
+00:09:16,220 --> 00:09:18,960
+gear remember that you can buy
+additional replacement lock picks it
+
+428
+00:09:18,960 --> 00:09:18,970
+additional replacement lock picks it
+ 
+
+429
+00:09:18,970 --> 00:09:22,180
+additional replacement lock picks it
+costs three gold for a standard set of
+
+430
+00:09:22,180 --> 00:09:22,190
+costs three gold for a standard set of
+ 
+
+431
+00:09:22,190 --> 00:09:24,670
+costs three gold for a standard set of
+tools that come with one set of picks
+
+432
+00:09:24,670 --> 00:09:24,680
+tools that come with one set of picks
+ 
+
+433
+00:09:24,680 --> 00:09:27,699
+tools that come with one set of picks
+and then you can buy additional backup
+
+434
+00:09:27,699 --> 00:09:27,709
+and then you can buy additional backup
+ 
+
+435
+00:09:27,709 --> 00:09:31,329
+and then you can buy additional backup
+lock picks for only three silver each so
+
+436
+00:09:31,329 --> 00:09:31,339
+lock picks for only three silver each so
+ 
+
+437
+00:09:31,339 --> 00:09:33,280
+lock picks for only three silver each so
+if you roll as bad as I do
+
+438
+00:09:33,280 --> 00:09:33,290
+if you roll as bad as I do
+ 
+
+439
+00:09:33,290 --> 00:09:35,890
+if you roll as bad as I do
+make sure you invest in a few backup
+
+440
+00:09:35,890 --> 00:09:35,900
+make sure you invest in a few backup
+ 
+
+441
+00:09:35,900 --> 00:09:38,980
+make sure you invest in a few backup
+lock picks and one more thing to note is
+
+442
+00:09:38,980 --> 00:09:38,990
+lock picks and one more thing to note is
+ 
+
+443
+00:09:38,990 --> 00:09:41,740
+lock picks and one more thing to note is
+although thief tools are required to
+
+444
+00:09:41,740 --> 00:09:41,750
+although thief tools are required to
+ 
+
+445
+00:09:41,750 --> 00:09:44,110
+although thief tools are required to
+pick a lock the GM may allow the player
+
+446
+00:09:44,110 --> 00:09:44,120
+pick a lock the GM may allow the player
+ 
+
+447
+00:09:44,120 --> 00:09:46,780
+pick a lock the GM may allow the player
+to use improvised tools I think the
+
+448
+00:09:46,780 --> 00:09:46,790
+to use improvised tools I think the
+ 
+
+449
+00:09:46,790 --> 00:09:49,060
+to use improvised tools I think the
+classic example of this is using a
+
+450
+00:09:49,060 --> 00:09:49,070
+classic example of this is using a
+ 
+
+451
+00:09:49,070 --> 00:09:52,300
+classic example of this is using a
+hairpin to pick a lock in this case the
+
+452
+00:09:52,300 --> 00:09:52,310
+hairpin to pick a lock in this case the
+ 
+
+453
+00:09:52,310 --> 00:09:55,300
+hairpin to pick a lock in this case the
+improvised lock picks are treated as if
+
+454
+00:09:55,300 --> 00:09:55,310
+improvised lock picks are treated as if
+ 
+
+455
+00:09:55,310 --> 00:09:58,090
+improvised lock picks are treated as if
+they are shoddy tools which means the
+
+456
+00:09:58,090 --> 00:09:58,100
+they are shoddy tools which means the
+ 
+
+457
+00:09:58,100 --> 00:09:59,710
+they are shoddy tools which means the
+player may attempt to pick a lock with
+
+458
+00:09:59,710 --> 00:09:59,720
+player may attempt to pick a lock with
+ 
+
+459
+00:09:59,720 --> 00:10:02,470
+player may attempt to pick a lock with
+them but suffers a negative to item
+
+460
+00:10:02,470 --> 00:10:02,480
+them but suffers a negative to item
+ 
+
+461
+00:10:02,480 --> 00:10:05,410
+them but suffers a negative to item
+penalty when doing so
+
+462
+00:10:05,410 --> 00:10:05,420
+penalty when doing so
+ 
+
+463
+00:10:05,420 --> 00:10:08,230
+penalty when doing so
+let's look at a few examples for these
+
+464
+00:10:08,230 --> 00:10:08,240
+let's look at a few examples for these
+ 
+
+465
+00:10:08,240 --> 00:10:09,940
+let's look at a few examples for these
+we'll be using our favorite rogue
+
+466
+00:10:09,940 --> 00:10:09,950
+we'll be using our favorite rogue
+ 
+
+467
+00:10:09,950 --> 00:10:13,090
+we'll be using our favorite rogue
+Mauricio she is a fifth level rogue has
+
+468
+00:10:13,090 --> 00:10:13,100
+Mauricio she is a fifth level rogue has
+ 
+
+469
+00:10:13,100 --> 00:10:15,430
+Mauricio she is a fifth level rogue has
+expert proficiency and fevery with a
+
+470
+00:10:15,430 --> 00:10:15,440
+expert proficiency and fevery with a
+ 
+
+471
+00:10:15,440 --> 00:10:18,490
+expert proficiency and fevery with a
+plus 13 bonus expert proficiency in
+
+472
+00:10:18,490 --> 00:10:18,500
+plus 13 bonus expert proficiency in
+ 
+
+473
+00:10:18,500 --> 00:10:21,940
+plus 13 bonus expert proficiency in
+stealth with a plus 13 bonus as well and
+
+474
+00:10:21,940 --> 00:10:21,950
+stealth with a plus 13 bonus as well and
+ 
+
+475
+00:10:21,950 --> 00:10:24,400
+stealth with a plus 13 bonus as well and
+has expert proficiency in perception
+
+476
+00:10:24,400 --> 00:10:24,410
+has expert proficiency in perception
+ 
+
+477
+00:10:24,410 --> 00:10:27,940
+has expert proficiency in perception
+with a bonus of plus 11 for these
+
+478
+00:10:27,940 --> 00:10:27,950
+with a bonus of plus 11 for these
+ 
+
+479
+00:10:27,950 --> 00:10:30,400
+with a bonus of plus 11 for these
+examples we'll be focusing on the basic
+
+480
+00:10:30,400 --> 00:10:30,410
+examples we'll be focusing on the basic
+ 
+
+481
+00:10:30,410 --> 00:10:32,800
+examples we'll be focusing on the basic
+mechanics of lock-picking therefore
+
+482
+00:10:32,800 --> 00:10:32,810
+mechanics of lock-picking therefore
+ 
+
+483
+00:10:32,810 --> 00:10:35,050
+mechanics of lock-picking therefore
+we're going to ignore any feasts or
+
+484
+00:10:35,050 --> 00:10:35,060
+we're going to ignore any feasts or
+ 
+
+485
+00:10:35,060 --> 00:10:36,910
+we're going to ignore any feasts or
+special abilities that Mauricio might
+
+486
+00:10:36,910 --> 00:10:36,920
+special abilities that Mauricio might
+ 
+
+487
+00:10:36,920 --> 00:10:38,980
+special abilities that Mauricio might
+have and will also be ignoring the
+
+488
+00:10:38,980 --> 00:10:38,990
+have and will also be ignoring the
+ 
+
+489
+00:10:38,990 --> 00:10:41,080
+have and will also be ignoring the
+possibility of these locks being trapped
+
+490
+00:10:41,080 --> 00:10:41,090
+possibility of these locks being trapped
+ 
+
+491
+00:10:41,090 --> 00:10:44,020
+possibility of these locks being trapped
+traps are covered in our next video that
+
+492
+00:10:44,020 --> 00:10:44,030
+traps are covered in our next video that
+ 
+
+493
+00:10:44,030 --> 00:10:47,260
+traps are covered in our next video that
+is dedicated to hazards in our first
+
+494
+00:10:47,260 --> 00:10:47,270
+is dedicated to hazards in our first
+ 
+
+495
+00:10:47,270 --> 00:10:49,420
+is dedicated to hazards in our first
+example Mauricio has found a chest that
+
+496
+00:10:49,420 --> 00:10:49,430
+example Mauricio has found a chest that
+ 
+
+497
+00:10:49,430 --> 00:10:52,210
+example Mauricio has found a chest that
+has a lock on it the lock looks simple
+
+498
+00:10:52,210 --> 00:10:52,220
+has a lock on it the lock looks simple
+ 
+
+499
+00:10:52,220 --> 00:10:54,520
+has a lock on it the lock looks simple
+enough and the GM has determined that it
+
+500
+00:10:54,520 --> 00:10:54,530
+enough and the GM has determined that it
+ 
+
+501
+00:10:54,530 --> 00:10:58,320
+enough and the GM has determined that it
+requires 2dc 18 thievery checks to open
+
+502
+00:10:58,320 --> 00:10:58,330
+requires 2dc 18 thievery checks to open
+ 
+
+503
+00:10:58,330 --> 00:11:01,660
+requires 2dc 18 thievery checks to open
+Mauricio has thieves tools so she spends
+
+504
+00:11:01,660 --> 00:11:01,670
+Mauricio has thieves tools so she spends
+ 
+
+505
+00:11:01,670 --> 00:11:04,090
+Mauricio has thieves tools so she spends
+her first two actions on the pick a lock
+
+506
+00:11:04,090 --> 00:11:04,100
+her first two actions on the pick a lock
+ 
+
+507
+00:11:04,100 --> 00:11:07,600
+her first two actions on the pick a lock
+activity she rolls one D 20 plus her
+
+508
+00:11:07,600 --> 00:11:07,610
+activity she rolls one D 20 plus her
+ 
+
+509
+00:11:07,610 --> 00:11:11,350
+activity she rolls one D 20 plus her
+thievery bonus of plus 13 she rolls in
+
+510
+00:11:11,350 --> 00:11:11,360
+thievery bonus of plus 13 she rolls in
+ 
+
+511
+00:11:11,360 --> 00:11:15,520
+thievery bonus of plus 13 she rolls in
+11 for a total of 24 this counts as a 1
+
+512
+00:11:15,520 --> 00:11:15,530
+11 for a total of 24 this counts as a 1
+ 
+
+513
+00:11:15,530 --> 00:11:17,860
+11 for a total of 24 this counts as a 1
+success towards opening the lock on the
+
+514
+00:11:17,860 --> 00:11:17,870
+success towards opening the lock on the
+ 
+
+515
+00:11:17,870 --> 00:11:18,490
+success towards opening the lock on the
+chest
+
+516
+00:11:18,490 --> 00:11:18,500
+chest
+ 
+
+517
+00:11:18,500 --> 00:11:20,500
+chest
+with her third action that turned
+
+518
+00:11:20,500 --> 00:11:20,510
+with her third action that turned
+ 
+
+519
+00:11:20,510 --> 00:11:22,540
+with her third action that turned
+Marissa's player complains about having
+
+520
+00:11:22,540 --> 00:11:22,550
+Marissa's player complains about having
+ 
+
+521
+00:11:22,550 --> 00:11:24,580
+Marissa's player complains about having
+to take multiple actions to open a
+
+522
+00:11:24,580 --> 00:11:24,590
+to take multiple actions to open a
+ 
+
+523
+00:11:24,590 --> 00:11:26,350
+to take multiple actions to open a
+common lock
+
+524
+00:11:26,350 --> 00:11:26,360
+common lock
+ 
+
+525
+00:11:26,360 --> 00:11:28,509
+common lock
+at the start of her next turn assuming
+
+526
+00:11:28,509 --> 00:11:28,519
+at the start of her next turn assuming
+ 
+
+527
+00:11:28,519 --> 00:11:31,180
+at the start of her next turn assuming
+you're in encounter mode Mauricio again
+
+528
+00:11:31,180 --> 00:11:31,190
+you're in encounter mode Mauricio again
+ 
+
+529
+00:11:31,190 --> 00:11:33,639
+you're in encounter mode Mauricio again
+spins 2 of her actions for the pick a
+
+530
+00:11:33,639 --> 00:11:33,649
+spins 2 of her actions for the pick a
+ 
+
+531
+00:11:33,649 --> 00:11:36,970
+spins 2 of her actions for the pick a
+lock activity again she rolls one d20
+
+532
+00:11:36,970 --> 00:11:36,980
+lock activity again she rolls one d20
+ 
+
+533
+00:11:36,980 --> 00:11:39,730
+lock activity again she rolls one d20
+and adds her thievery bonus this time
+
+534
+00:11:39,730 --> 00:11:39,740
+and adds her thievery bonus this time
+ 
+
+535
+00:11:39,740 --> 00:11:44,280
+and adds her thievery bonus this time
+she rolls a 4 plus 13 for a total of 17
+
+536
+00:11:44,280 --> 00:11:44,290
+she rolls a 4 plus 13 for a total of 17
+ 
+
+537
+00:11:44,290 --> 00:11:47,710
+she rolls a 4 plus 13 for a total of 17
+she fails which means she makes no
+
+538
+00:11:47,710 --> 00:11:47,720
+she fails which means she makes no
+ 
+
+539
+00:11:47,720 --> 00:11:50,949
+she fails which means she makes no
+progress this round but also suffers no
+
+540
+00:11:50,949 --> 00:11:50,959
+progress this round but also suffers no
+ 
+
+541
+00:11:50,959 --> 00:11:54,060
+progress this round but also suffers no
+consequences such as breaking a lockpick
+
+542
+00:11:54,060 --> 00:11:54,070
+consequences such as breaking a lockpick
+ 
+
+543
+00:11:54,070 --> 00:11:57,130
+consequences such as breaking a lockpick
+with her third action that turn she
+
+544
+00:11:57,130 --> 00:11:57,140
+with her third action that turn she
+ 
+
+545
+00:11:57,140 --> 00:11:58,780
+with her third action that turn she
+blames valerie's for not holding the
+
+546
+00:11:58,780 --> 00:11:58,790
+blames valerie's for not holding the
+ 
+
+547
+00:11:58,790 --> 00:12:00,550
+blames valerie's for not holding the
+torch so that she could properly see her
+
+548
+00:12:00,550 --> 00:12:00,560
+torch so that she could properly see her
+ 
+
+549
+00:12:00,560 --> 00:12:03,100
+torch so that she could properly see her
+work and at the start of the next turn
+
+550
+00:12:03,100 --> 00:12:03,110
+work and at the start of the next turn
+ 
+
+551
+00:12:03,110 --> 00:12:05,829
+work and at the start of the next turn
+she spends 2 actions to attempt this
+
+552
+00:12:05,829 --> 00:12:05,839
+she spends 2 actions to attempt this
+ 
+
+553
+00:12:05,839 --> 00:12:08,680
+she spends 2 actions to attempt this
+again remember actions must be finished
+
+554
+00:12:08,680 --> 00:12:08,690
+again remember actions must be finished
+ 
+
+555
+00:12:08,690 --> 00:12:10,960
+again remember actions must be finished
+in the turn that they are started so she
+
+556
+00:12:10,960 --> 00:12:10,970
+in the turn that they are started so she
+ 
+
+557
+00:12:10,970 --> 00:12:13,150
+in the turn that they are started so she
+could not have spent her third action on
+
+558
+00:12:13,150 --> 00:12:13,160
+could not have spent her third action on
+ 
+
+559
+00:12:13,160 --> 00:12:15,069
+could not have spent her third action on
+the previous round in her first action
+
+560
+00:12:15,069 --> 00:12:15,079
+the previous round in her first action
+ 
+
+561
+00:12:15,079 --> 00:12:18,280
+the previous round in her first action
+on this round to pick the lock so she
+
+562
+00:12:18,280 --> 00:12:18,290
+on this round to pick the lock so she
+ 
+
+563
+00:12:18,290 --> 00:12:20,350
+on this round to pick the lock so she
+spends her first two actions this round
+
+564
+00:12:20,350 --> 00:12:20,360
+spends her first two actions this round
+ 
+
+565
+00:12:20,360 --> 00:12:23,560
+spends her first two actions this round
+enrolls a 12 for a total of 25 this
+
+566
+00:12:23,560 --> 00:12:23,570
+enrolls a 12 for a total of 25 this
+ 
+
+567
+00:12:23,570 --> 00:12:26,230
+enrolls a 12 for a total of 25 this
+earns her a second success and the lock
+
+568
+00:12:26,230 --> 00:12:26,240
+earns her a second success and the lock
+ 
+
+569
+00:12:26,240 --> 00:12:28,790
+earns her a second success and the lock
+opens
+
+570
+00:12:28,790 --> 00:12:28,800
+
+ 
+
+571
+00:12:28,800 --> 00:12:31,250
+
+in our second example Mauricio and
+
+572
+00:12:31,250 --> 00:12:31,260
+in our second example Mauricio and
+ 
+
+573
+00:12:31,260 --> 00:12:33,139
+in our second example Mauricio and
+friends have encountered a locked door
+
+574
+00:12:33,139 --> 00:12:33,149
+friends have encountered a locked door
+ 
+
+575
+00:12:33,149 --> 00:12:36,320
+friends have encountered a locked door
+the GM has determined this lock requires
+
+576
+00:12:36,320 --> 00:12:36,330
+the GM has determined this lock requires
+ 
+
+577
+00:12:36,330 --> 00:12:39,170
+the GM has determined this lock requires
+expert proficiency three successes and
+
+578
+00:12:39,170 --> 00:12:39,180
+expert proficiency three successes and
+ 
+
+579
+00:12:39,180 --> 00:12:41,320
+expert proficiency three successes and
+has a DC of 21
+
+580
+00:12:41,320 --> 00:12:41,330
+has a DC of 21
+ 
+
+581
+00:12:41,330 --> 00:12:44,000
+has a DC of 21
+maryska does not know what's waiting on
+
+582
+00:12:44,000 --> 00:12:44,010
+maryska does not know what's waiting on
+ 
+
+583
+00:12:44,010 --> 00:12:45,319
+maryska does not know what's waiting on
+the other side of the door
+
+584
+00:12:45,319 --> 00:12:45,329
+the other side of the door
+ 
+
+585
+00:12:45,329 --> 00:12:47,600
+the other side of the door
+but since the door and wall are solid
+
+586
+00:12:47,600 --> 00:12:47,610
+but since the door and wall are solid
+ 
+
+587
+00:12:47,610 --> 00:12:49,880
+but since the door and wall are solid
+she believes she is currently undetected
+
+588
+00:12:49,880 --> 00:12:49,890
+she believes she is currently undetected
+ 
+
+589
+00:12:49,890 --> 00:12:52,310
+she believes she is currently undetected
+and unnoticed by any occupants in that
+
+590
+00:12:52,310 --> 00:12:52,320
+and unnoticed by any occupants in that
+ 
+
+591
+00:12:52,320 --> 00:12:55,550
+and unnoticed by any occupants in that
+room her player states that she wants to
+
+592
+00:12:55,550 --> 00:12:55,560
+room her player states that she wants to
+ 
+
+593
+00:12:55,560 --> 00:12:57,949
+room her player states that she wants to
+pick the lock but be as quiet as
+
+594
+00:12:57,949 --> 00:12:57,959
+pick the lock but be as quiet as
+ 
+
+595
+00:12:57,959 --> 00:13:01,009
+pick the lock but be as quiet as
+possible while doing so this is largely
+
+596
+00:13:01,009 --> 00:13:01,019
+possible while doing so this is largely
+ 
+
+597
+00:13:01,019 --> 00:13:03,410
+possible while doing so this is largely
+up to each GM to the song and how they
+
+598
+00:13:03,410 --> 00:13:03,420
+up to each GM to the song and how they
+ 
+
+599
+00:13:03,420 --> 00:13:06,740
+up to each GM to the song and how they
+want to manage this but in this case her
+
+600
+00:13:06,740 --> 00:13:06,750
+want to manage this but in this case her
+ 
+
+601
+00:13:06,750 --> 00:13:08,150
+want to manage this but in this case her
+GM tells her to Royce
+
+602
+00:13:08,150 --> 00:13:08,160
+GM tells her to Royce
+ 
+
+603
+00:13:08,160 --> 00:13:10,699
+GM tells her to Royce
+stealth check along with each thievery
+
+604
+00:13:10,699 --> 00:13:10,709
+stealth check along with each thievery
+ 
+
+605
+00:13:10,709 --> 00:13:12,050
+stealth check along with each thievery
+check
+
+606
+00:13:12,050 --> 00:13:12,060
+check
+ 
+
+607
+00:13:12,060 --> 00:13:14,510
+check
+with her first two actions of the round
+
+608
+00:13:14,510 --> 00:13:14,520
+with her first two actions of the round
+ 
+
+609
+00:13:14,520 --> 00:13:17,510
+with her first two actions of the round
+Mauricio performs pick a lock and rolls
+
+610
+00:13:17,510 --> 00:13:17,520
+Mauricio performs pick a lock and rolls
+ 
+
+611
+00:13:17,520 --> 00:13:21,140
+Mauricio performs pick a lock and rolls
+a 19 for the thievery check after adding
+
+612
+00:13:21,140 --> 00:13:21,150
+a 19 for the thievery check after adding
+ 
+
+613
+00:13:21,150 --> 00:13:23,660
+a 19 for the thievery check after adding
+her plus 13 bonus that makes this a
+
+614
+00:13:23,660 --> 00:13:23,670
+her plus 13 bonus that makes this a
+ 
+
+615
+00:13:23,670 --> 00:13:26,720
+her plus 13 bonus that makes this a
+total of 32 which is enough for a
+
+616
+00:13:26,720 --> 00:13:26,730
+total of 32 which is enough for a
+ 
+
+617
+00:13:26,730 --> 00:13:29,360
+total of 32 which is enough for a
+critical success because it is more than
+
+618
+00:13:29,360 --> 00:13:29,370
+critical success because it is more than
+ 
+
+619
+00:13:29,370 --> 00:13:32,960
+critical success because it is more than
+10 higher than the DC she earns two
+
+620
+00:13:32,960 --> 00:13:32,970
+10 higher than the DC she earns two
+ 
+
+621
+00:13:32,970 --> 00:13:35,510
+10 higher than the DC she earns two
+successes towards opening the lock but
+
+622
+00:13:35,510 --> 00:13:35,520
+successes towards opening the lock but
+ 
+
+623
+00:13:35,520 --> 00:13:37,760
+successes towards opening the lock but
+the GM had also called for a stealth
+
+624
+00:13:37,760 --> 00:13:37,770
+the GM had also called for a stealth
+ 
+
+625
+00:13:37,770 --> 00:13:40,490
+the GM had also called for a stealth
+check to be made luck is a fickle
+
+626
+00:13:40,490 --> 00:13:40,500
+check to be made luck is a fickle
+ 
+
+627
+00:13:40,500 --> 00:13:43,610
+check to be made luck is a fickle
+mistress and she rolls a 2 on this check
+
+628
+00:13:43,610 --> 00:13:43,620
+mistress and she rolls a 2 on this check
+ 
+
+629
+00:13:43,620 --> 00:13:48,110
+mistress and she rolls a 2 on this check
+for a total of only 15 unknown to her
+
+630
+00:13:48,110 --> 00:13:48,120
+for a total of only 15 unknown to her
+ 
+
+631
+00:13:48,120 --> 00:13:50,420
+for a total of only 15 unknown to her
+there are a few centuries in the next
+
+632
+00:13:50,420 --> 00:13:50,430
+there are a few centuries in the next
+ 
+
+633
+00:13:50,430 --> 00:13:52,480
+there are a few centuries in the next
+room taking a break from their patrols
+
+634
+00:13:52,480 --> 00:13:52,490
+room taking a break from their patrols
+ 
+
+635
+00:13:52,490 --> 00:13:56,590
+room taking a break from their patrols
+their perception DC's are 16 which means
+
+636
+00:13:56,590 --> 00:13:56,600
+their perception DC's are 16 which means
+ 
+
+637
+00:13:56,600 --> 00:13:59,350
+their perception DC's are 16 which means
+Mauricio stealth check has failed
+
+638
+00:13:59,350 --> 00:13:59,360
+Mauricio stealth check has failed
+ 
+
+639
+00:13:59,360 --> 00:14:02,420
+Mauricio stealth check has failed
+now each GM will need to determine what
+
+640
+00:14:02,420 --> 00:14:02,430
+now each GM will need to determine what
+ 
+
+641
+00:14:02,430 --> 00:14:05,060
+now each GM will need to determine what
+the result of something like this is but
+
+642
+00:14:05,060 --> 00:14:05,070
+the result of something like this is but
+ 
+
+643
+00:14:05,070 --> 00:14:07,820
+the result of something like this is but
+in this case the GM decides that the
+
+644
+00:14:07,820 --> 00:14:07,830
+in this case the GM decides that the
+ 
+
+645
+00:14:07,830 --> 00:14:10,310
+in this case the GM decides that the
+sound of picking the lock isn't enough
+
+646
+00:14:10,310 --> 00:14:10,320
+sound of picking the lock isn't enough
+ 
+
+647
+00:14:10,320 --> 00:14:13,280
+sound of picking the lock isn't enough
+to put these centuries on full alert but
+
+648
+00:14:13,280 --> 00:14:13,290
+to put these centuries on full alert but
+ 
+
+649
+00:14:13,290 --> 00:14:15,110
+to put these centuries on full alert but
+perhaps when one of the century's hears
+
+650
+00:14:15,110 --> 00:14:15,120
+perhaps when one of the century's hears
+ 
+
+651
+00:14:15,120 --> 00:14:16,700
+perhaps when one of the century's hears
+the faint tapping of metal on metal
+
+652
+00:14:16,700 --> 00:14:16,710
+the faint tapping of metal on metal
+ 
+
+653
+00:14:16,710 --> 00:14:20,320
+the faint tapping of metal on metal
+which makes him a little bit suspicious
+
+654
+00:14:20,320 --> 00:14:20,330
+which makes him a little bit suspicious
+ 
+
+655
+00:14:20,330 --> 00:14:23,450
+which makes him a little bit suspicious
+unknown to Marissa's player during the
+
+656
+00:14:23,450 --> 00:14:23,460
+unknown to Marissa's player during the
+ 
+
+657
+00:14:23,460 --> 00:14:25,970
+unknown to Marissa's player during the
+time between her turns the three
+
+658
+00:14:25,970 --> 00:14:25,980
+time between her turns the three
+ 
+
+659
+00:14:25,980 --> 00:14:28,100
+time between her turns the three
+centuries who are now suspicious of the
+
+660
+00:14:28,100 --> 00:14:28,110
+centuries who are now suspicious of the
+ 
+
+661
+00:14:28,110 --> 00:14:30,710
+centuries who are now suspicious of the
+tapping they heard each take a seek
+
+662
+00:14:30,710 --> 00:14:30,720
+tapping they heard each take a seek
+ 
+
+663
+00:14:30,720 --> 00:14:35,000
+tapping they heard each take a seek
+action at the door they have +6 bonuses
+
+664
+00:14:35,000 --> 00:14:35,010
+action at the door they have +6 bonuses
+ 
+
+665
+00:14:35,010 --> 00:14:37,430
+action at the door they have +6 bonuses
+to perception which are contested by
+
+666
+00:14:37,430 --> 00:14:37,440
+to perception which are contested by
+ 
+
+667
+00:14:37,440 --> 00:14:41,510
+to perception which are contested by
+Marissa all stealth DC of 23 the GM can
+
+668
+00:14:41,510 --> 00:14:41,520
+Marissa all stealth DC of 23 the GM can
+ 
+
+669
+00:14:41,520 --> 00:14:43,430
+Marissa all stealth DC of 23 the GM can
+also penalize their perception checks
+
+670
+00:14:43,430 --> 00:14:43,440
+also penalize their perception checks
+ 
+
+671
+00:14:43,440 --> 00:14:45,440
+also penalize their perception checks
+for the door being between them and
+
+672
+00:14:45,440 --> 00:14:45,450
+for the door being between them and
+ 
+
+673
+00:14:45,450 --> 00:14:48,860
+for the door being between them and
+Marissa but in this case the GM decides
+
+674
+00:14:48,860 --> 00:14:48,870
+Marissa but in this case the GM decides
+ 
+
+675
+00:14:48,870 --> 00:14:51,350
+Marissa but in this case the GM decides
+to ignore that since they're already on
+
+676
+00:14:51,350 --> 00:14:51,360
+to ignore that since they're already on
+ 
+
+677
+00:14:51,360 --> 00:14:53,960
+to ignore that since they're already on
+alert from her failed stealth check and
+
+678
+00:14:53,960 --> 00:14:53,970
+alert from her failed stealth check and
+ 
+
+679
+00:14:53,970 --> 00:14:56,120
+alert from her failed stealth check and
+the sound of picking locks came from the
+
+680
+00:14:56,120 --> 00:14:56,130
+the sound of picking locks came from the
+ 
+
+681
+00:14:56,130 --> 00:14:58,910
+the sound of picking locks came from the
+metal inside the door and therefore is
+
+682
+00:14:58,910 --> 00:14:58,920
+metal inside the door and therefore is
+ 
+
+683
+00:14:58,920 --> 00:15:01,280
+metal inside the door and therefore is
+not entirely muted by the thickness of
+
+684
+00:15:01,280 --> 00:15:01,290
+not entirely muted by the thickness of
+ 
+
+685
+00:15:01,290 --> 00:15:04,100
+not entirely muted by the thickness of
+the doors wooden structure the
+
+686
+00:15:04,100 --> 00:15:04,110
+the doors wooden structure the
+ 
+
+687
+00:15:04,110 --> 00:15:06,560
+the doors wooden structure the
+first-century rolls a three for a total
+
+688
+00:15:06,560 --> 00:15:06,570
+first-century rolls a three for a total
+ 
+
+689
+00:15:06,570 --> 00:15:09,470
+first-century rolls a three for a total
+of nine the second rolls a 16 for a
+
+690
+00:15:09,470 --> 00:15:09,480
+of nine the second rolls a 16 for a
+ 
+
+691
+00:15:09,480 --> 00:15:12,950
+of nine the second rolls a 16 for a
+total of 22 and the third rolls a 14 for
+
+692
+00:15:12,950 --> 00:15:12,960
+total of 22 and the third rolls a 14 for
+ 
+
+693
+00:15:12,960 --> 00:15:16,520
+total of 22 and the third rolls a 14 for
+a total of 20 they all fail their checks
+
+694
+00:15:16,520 --> 00:15:16,530
+a total of 20 they all fail their checks
+ 
+
+695
+00:15:16,530 --> 00:15:19,280
+a total of 20 they all fail their checks
+so although they are still suspicious
+
+696
+00:15:19,280 --> 00:15:19,290
+so although they are still suspicious
+ 
+
+697
+00:15:19,290 --> 00:15:21,920
+so although they are still suspicious
+none of them are entirely convinced that
+
+698
+00:15:21,920 --> 00:15:21,930
+none of them are entirely convinced that
+ 
+
+699
+00:15:21,930 --> 00:15:24,030
+none of them are entirely convinced that
+there is danger nearby
+
+700
+00:15:24,030 --> 00:15:24,040
+there is danger nearby
+ 
+
+701
+00:15:24,040 --> 00:15:26,009
+there is danger nearby
+at the start of Marissa's second turn
+
+702
+00:15:26,009 --> 00:15:26,019
+at the start of Marissa's second turn
+ 
+
+703
+00:15:26,019 --> 00:15:28,710
+at the start of Marissa's second turn
+she spends two actions again to perform
+
+704
+00:15:28,710 --> 00:15:28,720
+she spends two actions again to perform
+ 
+
+705
+00:15:28,720 --> 00:15:32,460
+she spends two actions again to perform
+pick a lock this time she rolls a ten
+
+706
+00:15:32,460 --> 00:15:32,470
+pick a lock this time she rolls a ten
+ 
+
+707
+00:15:32,470 --> 00:15:35,610
+pick a lock this time she rolls a ten
+for a total of 23 which is enough to
+
+708
+00:15:35,610 --> 00:15:35,620
+for a total of 23 which is enough to
+ 
+
+709
+00:15:35,620 --> 00:15:37,860
+for a total of 23 which is enough to
+earn her that third success in open the
+
+710
+00:15:37,860 --> 00:15:37,870
+earn her that third success in open the
+ 
+
+711
+00:15:37,870 --> 00:15:38,400
+earn her that third success in open the
+lock
+
+712
+00:15:38,400 --> 00:15:38,410
+lock
+ 
+
+713
+00:15:38,410 --> 00:15:41,519
+lock
+but again the GM also calls for a
+
+714
+00:15:41,519 --> 00:15:41,529
+but again the GM also calls for a
+ 
+
+715
+00:15:41,529 --> 00:15:44,040
+but again the GM also calls for a
+stealth check since she's trying to do
+
+716
+00:15:44,040 --> 00:15:44,050
+stealth check since she's trying to do
+ 
+
+717
+00:15:44,050 --> 00:15:47,100
+stealth check since she's trying to do
+this quietly she curses her rotten luck
+
+718
+00:15:47,100 --> 00:15:47,110
+this quietly she curses her rotten luck
+ 
+
+719
+00:15:47,110 --> 00:15:50,009
+this quietly she curses her rotten luck
+enrolls another two again for a total of
+
+720
+00:15:50,009 --> 00:15:50,019
+enrolls another two again for a total of
+ 
+
+721
+00:15:50,019 --> 00:15:53,730
+enrolls another two again for a total of
+only 15 this is another failure and this
+
+722
+00:15:53,730 --> 00:15:53,740
+only 15 this is another failure and this
+ 
+
+723
+00:15:53,740 --> 00:15:55,860
+only 15 this is another failure and this
+time the gym decides this since the
+
+724
+00:15:55,860 --> 00:15:55,870
+time the gym decides this since the
+ 
+
+725
+00:15:55,870 --> 00:15:57,720
+time the gym decides this since the
+guards were already on alert it's
+
+726
+00:15:57,720 --> 00:15:57,730
+guards were already on alert it's
+ 
+
+727
+00:15:57,730 --> 00:15:59,999
+guards were already on alert it's
+suspicious from the first failure they
+
+728
+00:15:59,999 --> 00:16:00,009
+suspicious from the first failure they
+ 
+
+729
+00:16:00,009 --> 00:16:03,269
+suspicious from the first failure they
+are now 100% convinced that someone is
+
+730
+00:16:03,269 --> 00:16:03,279
+are now 100% convinced that someone is
+ 
+
+731
+00:16:03,279 --> 00:16:05,400
+are now 100% convinced that someone is
+picking that lock and when Mauricio
+
+732
+00:16:05,400 --> 00:16:05,410
+picking that lock and when Mauricio
+ 
+
+733
+00:16:05,410 --> 00:16:08,249
+picking that lock and when Mauricio
+opens the door she finds three centuries
+
+734
+00:16:08,249 --> 00:16:08,259
+opens the door she finds three centuries
+ 
+
+735
+00:16:08,259 --> 00:16:12,650
+opens the door she finds three centuries
+armed and ready waiting for her
+
+736
+00:16:12,650 --> 00:16:12,660
+armed and ready waiting for her
+ 
+
+737
+00:16:12,660 --> 00:16:15,260
+armed and ready waiting for her
+and in our last example Mauricio and
+
+738
+00:16:15,260 --> 00:16:15,270
+and in our last example Mauricio and
+ 
+
+739
+00:16:15,270 --> 00:16:17,900
+and in our last example Mauricio and
+Valerie's discover a gorgeous expensive
+
+740
+00:16:17,900 --> 00:16:17,910
+Valerie's discover a gorgeous expensive
+ 
+
+741
+00:16:17,910 --> 00:16:20,810
+Valerie's discover a gorgeous expensive
+looking chest the GM has determined that
+
+742
+00:16:20,810 --> 00:16:20,820
+looking chest the GM has determined that
+ 
+
+743
+00:16:20,820 --> 00:16:23,120
+looking chest the GM has determined that
+opening the lock requires master
+
+744
+00:16:23,120 --> 00:16:23,130
+opening the lock requires master
+ 
+
+745
+00:16:23,130 --> 00:16:26,030
+opening the lock requires master
+proficiency and 4dc twenty-nine
+
+746
+00:16:26,030 --> 00:16:26,040
+proficiency and 4dc twenty-nine
+ 
+
+747
+00:16:26,040 --> 00:16:29,180
+proficiency and 4dc twenty-nine
+successes now even though it is possible
+
+748
+00:16:29,180 --> 00:16:29,190
+successes now even though it is possible
+ 
+
+749
+00:16:29,190 --> 00:16:32,390
+successes now even though it is possible
+for Mauricio to pick a DC 29 lock with
+
+750
+00:16:32,390 --> 00:16:32,400
+for Mauricio to pick a DC 29 lock with
+ 
+
+751
+00:16:32,400 --> 00:16:35,540
+for Mauricio to pick a DC 29 lock with
+her plus 13 bonus this lock requires
+
+752
+00:16:35,540 --> 00:16:35,550
+her plus 13 bonus this lock requires
+ 
+
+753
+00:16:35,550 --> 00:16:38,120
+her plus 13 bonus this lock requires
+master proficiency and she is only
+
+754
+00:16:38,120 --> 00:16:38,130
+master proficiency and she is only
+ 
+
+755
+00:16:38,130 --> 00:16:41,540
+master proficiency and she is only
+expert at thievery there are a few
+
+756
+00:16:41,540 --> 00:16:41,550
+expert at thievery there are a few
+ 
+
+757
+00:16:41,550 --> 00:16:42,830
+expert at thievery there are a few
+different ways to handle this
+
+758
+00:16:42,830 --> 00:16:42,840
+different ways to handle this
+ 
+
+759
+00:16:42,840 --> 00:16:45,470
+different ways to handle this
+some GM's let the player try picking the
+
+760
+00:16:45,470 --> 00:16:45,480
+some GM's let the player try picking the
+ 
+
+761
+00:16:45,480 --> 00:16:47,630
+some GM's let the player try picking the
+lock until they either break all of
+
+762
+00:16:47,630 --> 00:16:47,640
+lock until they either break all of
+ 
+
+763
+00:16:47,640 --> 00:16:50,000
+lock until they either break all of
+their picks or give up others might
+
+764
+00:16:50,000 --> 00:16:50,010
+their picks or give up others might
+ 
+
+765
+00:16:50,010 --> 00:16:51,860
+their picks or give up others might
+require the player to try picking it
+
+766
+00:16:51,860 --> 00:16:51,870
+require the player to try picking it
+ 
+
+767
+00:16:51,870 --> 00:16:53,720
+require the player to try picking it
+once before they realize just how
+
+768
+00:16:53,720 --> 00:16:53,730
+once before they realize just how
+ 
+
+769
+00:16:53,730 --> 00:16:57,080
+once before they realize just how
+complex this lock is and other GM's just
+
+770
+00:16:57,080 --> 00:16:57,090
+complex this lock is and other GM's just
+ 
+
+771
+00:16:57,090 --> 00:16:59,180
+complex this lock is and other GM's just
+assume that anyone who has trained in
+
+772
+00:16:59,180 --> 00:16:59,190
+assume that anyone who has trained in
+ 
+
+773
+00:16:59,190 --> 00:17:01,580
+assume that anyone who has trained in
+thievery is able to look at a lock and
+
+774
+00:17:01,580 --> 00:17:01,590
+thievery is able to look at a lock and
+ 
+
+775
+00:17:01,590 --> 00:17:03,530
+thievery is able to look at a lock and
+just tell when it's out of their league
+
+776
+00:17:03,530 --> 00:17:03,540
+just tell when it's out of their league
+ 
+
+777
+00:17:03,540 --> 00:17:06,050
+just tell when it's out of their league
+without spending any time trying to pick
+
+778
+00:17:06,050 --> 00:17:06,060
+without spending any time trying to pick
+ 
+
+779
+00:17:06,060 --> 00:17:09,260
+without spending any time trying to pick
+the lock first regardless in this
+
+780
+00:17:09,260 --> 00:17:09,270
+the lock first regardless in this
+ 
+
+781
+00:17:09,270 --> 00:17:11,929
+the lock first regardless in this
+example belorus becomes impatient and
+
+782
+00:17:11,929 --> 00:17:11,939
+example belorus becomes impatient and
+ 
+
+783
+00:17:11,939 --> 00:17:14,179
+example belorus becomes impatient and
+tries to break the chest open by
+
+784
+00:17:14,179 --> 00:17:14,189
+tries to break the chest open by
+ 
+
+785
+00:17:14,189 --> 00:17:15,760
+tries to break the chest open by
+slamming it with his hammer
+
+786
+00:17:15,760 --> 00:17:15,770
+slamming it with his hammer
+ 
+
+787
+00:17:15,770 --> 00:17:18,710
+slamming it with his hammer
+now this video is about the thievery
+
+788
+00:17:18,710 --> 00:17:18,720
+now this video is about the thievery
+ 
+
+789
+00:17:18,720 --> 00:17:21,380
+now this video is about the thievery
+skill so we're not going to go into all
+
+790
+00:17:21,380 --> 00:17:21,390
+skill so we're not going to go into all
+ 
+
+791
+00:17:21,390 --> 00:17:24,079
+skill so we're not going to go into all
+of the mechanics of breaking and object
+
+792
+00:17:24,079 --> 00:17:24,089
+of the mechanics of breaking and object
+ 
+
+793
+00:17:24,089 --> 00:17:26,270
+of the mechanics of breaking and object
+here but just know that that is an
+
+794
+00:17:26,270 --> 00:17:26,280
+here but just know that that is an
+ 
+
+795
+00:17:26,280 --> 00:17:28,760
+here but just know that that is an
+option for when thievery fails and the
+
+796
+00:17:28,760 --> 00:17:28,770
+option for when thievery fails and the
+ 
+
+797
+00:17:28,770 --> 00:17:31,190
+option for when thievery fails and the
+rules can be found on pages two seventy
+
+798
+00:17:31,190 --> 00:17:31,200
+rules can be found on pages two seventy
+ 
+
+799
+00:17:31,200 --> 00:17:33,800
+rules can be found on pages two seventy
+two and five seventy seven of the core
+
+800
+00:17:33,800 --> 00:17:33,810
+two and five seventy seven of the core
+ 
+
+801
+00:17:33,810 --> 00:17:36,920
+two and five seventy seven of the core
+rules they go over damaging items in
+
+802
+00:17:36,920 --> 00:17:36,930
+rules they go over damaging items in
+ 
+
+803
+00:17:36,930 --> 00:17:39,980
+rules they go over damaging items in
+breaking something open
+
+804
+00:17:39,980 --> 00:17:39,990
+breaking something open
+ 
+
+805
+00:17:39,990 --> 00:17:42,500
+breaking something open
+in this video we discussed the basics of
+
+806
+00:17:42,500 --> 00:17:42,510
+in this video we discussed the basics of
+ 
+
+807
+00:17:42,510 --> 00:17:45,320
+in this video we discussed the basics of
+the thievery skill thievery is a
+
+808
+00:17:45,320 --> 00:17:45,330
+the thievery skill thievery is a
+ 
+
+809
+00:17:45,330 --> 00:17:47,299
+the thievery skill thievery is a
+dexterity based skill that is used to
+
+810
+00:17:47,299 --> 00:17:47,309
+dexterity based skill that is used to
+ 
+
+811
+00:17:47,309 --> 00:17:49,220
+dexterity based skill that is used to
+perform many of the actions associated
+
+812
+00:17:49,220 --> 00:17:49,230
+perform many of the actions associated
+ 
+
+813
+00:17:49,230 --> 00:17:50,419
+perform many of the actions associated
+with criminals
+
+814
+00:17:50,419 --> 00:17:50,429
+with criminals
+ 
+
+815
+00:17:50,429 --> 00:17:53,150
+with criminals
+the first thievery activity is called
+
+816
+00:17:53,150 --> 00:17:53,160
+the first thievery activity is called
+ 
+
+817
+00:17:53,160 --> 00:17:55,820
+the first thievery activity is called
+palm and object this is used when a
+
+818
+00:17:55,820 --> 00:17:55,830
+palm and object this is used when a
+ 
+
+819
+00:17:55,830 --> 00:17:57,440
+palm and object this is used when a
+character wishes to pick something up
+
+820
+00:17:57,440 --> 00:17:57,450
+character wishes to pick something up
+ 
+
+821
+00:17:57,450 --> 00:18:00,440
+character wishes to pick something up
+without being noticed this costs one
+
+822
+00:18:00,440 --> 00:18:00,450
+without being noticed this costs one
+ 
+
+823
+00:18:00,450 --> 00:18:02,930
+without being noticed this costs one
+action and requires a thievery check
+
+824
+00:18:02,930 --> 00:18:02,940
+action and requires a thievery check
+ 
+
+825
+00:18:02,940 --> 00:18:05,780
+action and requires a thievery check
+versus the perception disease of anyone
+
+826
+00:18:05,780 --> 00:18:05,790
+versus the perception disease of anyone
+ 
+
+827
+00:18:05,790 --> 00:18:08,540
+versus the perception disease of anyone
+observing the character on success they
+
+828
+00:18:08,540 --> 00:18:08,550
+observing the character on success they
+ 
+
+829
+00:18:08,550 --> 00:18:10,430
+observing the character on success they
+take the item without being noticed and
+
+830
+00:18:10,430 --> 00:18:10,440
+take the item without being noticed and
+ 
+
+831
+00:18:10,440 --> 00:18:13,430
+take the item without being noticed and
+on failure they are noticed but must
+
+832
+00:18:13,430 --> 00:18:13,440
+on failure they are noticed but must
+ 
+
+833
+00:18:13,440 --> 00:18:15,950
+on failure they are noticed but must
+still take that item regardless of being
+
+834
+00:18:15,950 --> 00:18:15,960
+still take that item regardless of being
+ 
+
+835
+00:18:15,960 --> 00:18:18,860
+still take that item regardless of being
+caught the second application of
+
+836
+00:18:18,860 --> 00:18:18,870
+caught the second application of
+ 
+
+837
+00:18:18,870 --> 00:18:22,460
+caught the second application of
+thievery is called steal this works much
+
+838
+00:18:22,460 --> 00:18:22,470
+thievery is called steal this works much
+ 
+
+839
+00:18:22,470 --> 00:18:24,980
+thievery is called steal this works much
+the same way as palm an object except
+
+840
+00:18:24,980 --> 00:18:24,990
+the same way as palm an object except
+ 
+
+841
+00:18:24,990 --> 00:18:27,080
+the same way as palm an object except
+the item you wish to take is in the
+
+842
+00:18:27,080 --> 00:18:27,090
+the item you wish to take is in the
+ 
+
+843
+00:18:27,090 --> 00:18:29,750
+the item you wish to take is in the
+possession of another character it's
+
+844
+00:18:29,750 --> 00:18:29,760
+possession of another character it's
+ 
+
+845
+00:18:29,760 --> 00:18:32,600
+possession of another character it's
+their coin purse a pendant they wear or
+
+846
+00:18:32,600 --> 00:18:32,610
+their coin purse a pendant they wear or
+ 
+
+847
+00:18:32,610 --> 00:18:35,870
+their coin purse a pendant they wear or
+a small trinket in their pocket for this
+
+848
+00:18:35,870 --> 00:18:35,880
+a small trinket in their pocket for this
+ 
+
+849
+00:18:35,880 --> 00:18:37,669
+a small trinket in their pocket for this
+the character Rose a fever check
+
+850
+00:18:37,669 --> 00:18:37,679
+the character Rose a fever check
+ 
+
+851
+00:18:37,679 --> 00:18:39,890
+the character Rose a fever check
+contested by the perception DC of the
+
+852
+00:18:39,890 --> 00:18:39,900
+contested by the perception DC of the
+ 
+
+853
+00:18:39,900 --> 00:18:42,680
+contested by the perception DC of the
+person possessing the desired object but
+
+854
+00:18:42,680 --> 00:18:42,690
+person possessing the desired object but
+ 
+
+855
+00:18:42,690 --> 00:18:44,900
+person possessing the desired object but
+is further modified by the GM to
+
+856
+00:18:44,900 --> 00:18:44,910
+is further modified by the GM to
+ 
+
+857
+00:18:44,910 --> 00:18:47,210
+is further modified by the GM to
+represent the difficulty in taking it
+
+858
+00:18:47,210 --> 00:18:47,220
+represent the difficulty in taking it
+ 
+
+859
+00:18:47,220 --> 00:18:49,910
+represent the difficulty in taking it
+for example stealing an item hidden in a
+
+860
+00:18:49,910 --> 00:18:49,920
+for example stealing an item hidden in a
+ 
+
+861
+00:18:49,920 --> 00:18:52,040
+for example stealing an item hidden in a
+backpack is more difficult than
+
+862
+00:18:52,040 --> 00:18:52,050
+backpack is more difficult than
+ 
+
+863
+00:18:52,050 --> 00:18:54,919
+backpack is more difficult than
+snatching a keyring hanging loosely from
+
+864
+00:18:54,919 --> 00:18:54,929
+snatching a keyring hanging loosely from
+ 
+
+865
+00:18:54,929 --> 00:18:55,720
+snatching a keyring hanging loosely from
+a belt
+
+866
+00:18:55,720 --> 00:18:55,730
+a belt
+ 
+
+867
+00:18:55,730 --> 00:18:58,520
+a belt
+the third thievery action is called
+
+868
+00:18:58,520 --> 00:18:58,530
+the third thievery action is called
+ 
+
+869
+00:18:58,530 --> 00:19:01,669
+the third thievery action is called
+disabled a device and is used to a rig
+
+870
+00:19:01,669 --> 00:19:01,679
+disabled a device and is used to a rig
+ 
+
+871
+00:19:01,679 --> 00:19:03,830
+disabled a device and is used to a rig
+an item so that it does not function as
+
+872
+00:19:03,830 --> 00:19:03,840
+an item so that it does not function as
+ 
+
+873
+00:19:03,840 --> 00:19:06,740
+an item so that it does not function as
+intended most often this is used to
+
+874
+00:19:06,740 --> 00:19:06,750
+intended most often this is used to
+ 
+
+875
+00:19:06,750 --> 00:19:09,470
+intended most often this is used to
+disarm a trap but could be used in other
+
+876
+00:19:09,470 --> 00:19:09,480
+disarm a trap but could be used in other
+ 
+
+877
+00:19:09,480 --> 00:19:12,410
+disarm a trap but could be used in other
+situations as well disabling a device
+
+878
+00:19:12,410 --> 00:19:12,420
+situations as well disabling a device
+ 
+
+879
+00:19:12,420 --> 00:19:15,680
+situations as well disabling a device
+costs two actions requires the character
+
+880
+00:19:15,680 --> 00:19:15,690
+costs two actions requires the character
+ 
+
+881
+00:19:15,690 --> 00:19:17,870
+costs two actions requires the character
+to be at least trained in thievery and
+
+882
+00:19:17,870 --> 00:19:17,880
+to be at least trained in thievery and
+ 
+
+883
+00:19:17,880 --> 00:19:20,450
+to be at least trained in thievery and
+often requires the use of thieves tools
+
+884
+00:19:20,450 --> 00:19:20,460
+often requires the use of thieves tools
+ 
+
+885
+00:19:20,460 --> 00:19:23,330
+often requires the use of thieves tools
+to attempt devices often require
+
+886
+00:19:23,330 --> 00:19:23,340
+to attempt devices often require
+ 
+
+887
+00:19:23,340 --> 00:19:25,430
+to attempt devices often require
+multiple successes in order to disable
+
+888
+00:19:25,430 --> 00:19:25,440
+multiple successes in order to disable
+ 
+
+889
+00:19:25,440 --> 00:19:28,160
+multiple successes in order to disable
+depending on that devices quality and
+
+890
+00:19:28,160 --> 00:19:28,170
+depending on that devices quality and
+ 
+
+891
+00:19:28,170 --> 00:19:31,190
+depending on that devices quality and
+complexity the character rolls fevery
+
+892
+00:19:31,190 --> 00:19:31,200
+complexity the character rolls fevery
+ 
+
+893
+00:19:31,200 --> 00:19:34,190
+complexity the character rolls fevery
+against ADC determined by the GM and on
+
+894
+00:19:34,190 --> 00:19:34,200
+against ADC determined by the GM and on
+ 
+
+895
+00:19:34,200 --> 00:19:36,860
+against ADC determined by the GM and on
+success they earn one success towards
+
+896
+00:19:36,860 --> 00:19:36,870
+success they earn one success towards
+ 
+
+897
+00:19:36,870 --> 00:19:39,380
+success they earn one success towards
+disabling the device on a critical
+
+898
+00:19:39,380 --> 00:19:39,390
+disabling the device on a critical
+ 
+
+899
+00:19:39,390 --> 00:19:42,140
+disabling the device on a critical
+success they earn two successes and
+
+900
+00:19:42,140 --> 00:19:42,150
+success they earn two successes and
+ 
+
+901
+00:19:42,150 --> 00:19:45,020
+success they earn two successes and
+other benefits and on a critical failure
+
+902
+00:19:45,020 --> 00:19:45,030
+other benefits and on a critical failure
+ 
+
+903
+00:19:45,030 --> 00:19:47,780
+other benefits and on a critical failure
+they accidentally trigger the device and
+
+904
+00:19:47,780 --> 00:19:47,790
+they accidentally trigger the device and
+ 
+
+905
+00:19:47,790 --> 00:19:50,330
+they accidentally trigger the device and
+suffer whatever consequences are
+
+906
+00:19:50,330 --> 00:19:50,340
+suffer whatever consequences are
+ 
+
+907
+00:19:50,340 --> 00:19:52,400
+suffer whatever consequences are
+appropriate from that
+
+908
+00:19:52,400 --> 00:19:52,410
+appropriate from that
+ 
+
+909
+00:19:52,410 --> 00:19:55,040
+appropriate from that
+and the less thievery action is pick a
+
+910
+00:19:55,040 --> 00:19:55,050
+and the less thievery action is pick a
+ 
+
+911
+00:19:55,050 --> 00:19:57,860
+and the less thievery action is pick a
+lock picking a lock works almost exactly
+
+912
+00:19:57,860 --> 00:19:57,870
+lock picking a lock works almost exactly
+ 
+
+913
+00:19:57,870 --> 00:20:00,590
+lock picking a lock works almost exactly
+the same way as disabling any other
+
+914
+00:20:00,590 --> 00:20:00,600
+the same way as disabling any other
+ 
+
+915
+00:20:00,600 --> 00:20:03,740
+the same way as disabling any other
+device except on a critical failure the
+
+916
+00:20:03,740 --> 00:20:03,750
+device except on a critical failure the
+ 
+
+917
+00:20:03,750 --> 00:20:06,770
+device except on a critical failure the
+character breaks their lockpick this
+
+918
+00:20:06,770 --> 00:20:06,780
+character breaks their lockpick this
+ 
+
+919
+00:20:06,780 --> 00:20:08,450
+character breaks their lockpick this
+video has served to lay a foundation
+
+920
+00:20:08,450 --> 00:20:08,460
+video has served to lay a foundation
+ 
+
+921
+00:20:08,460 --> 00:20:11,120
+video has served to lay a foundation
+that is further explored in our next
+
+922
+00:20:11,120 --> 00:20:11,130
+that is further explored in our next
+ 
+
+923
+00:20:11,130 --> 00:20:13,820
+that is further explored in our next
+video all about traps and other hazards
+
+924
+00:20:13,820 --> 00:20:13,830
+video all about traps and other hazards
+ 
+
+925
+00:20:13,830 --> 00:20:16,310
+video all about traps and other hazards
+so make sure you give that a look if you
+
+926
+00:20:16,310 --> 00:20:16,320
+so make sure you give that a look if you
+ 
+
+927
+00:20:16,320 --> 00:20:18,530
+so make sure you give that a look if you
+want to see more examples of how you can
+
+928
+00:20:18,530 --> 00:20:18,540
+want to see more examples of how you can
+ 
+
+929
+00:20:18,540 --> 00:20:21,470
+want to see more examples of how you can
+use thievery and disable a device to
+
+930
+00:20:21,470 --> 00:20:21,480
+use thievery and disable a device to
+ 
+
+931
+00:20:21,480 --> 00:20:24,150
+use thievery and disable a device to
+disarm traps
+
+932
+00:20:24,150 --> 00:20:24,160
+disarm traps
+ 
+
+933
+00:20:24,160 --> 00:20:26,040
+disarm traps
+with that we'll bring this video to a
+
+934
+00:20:26,040 --> 00:20:26,050
+with that we'll bring this video to a
+ 
+
+935
+00:20:26,050 --> 00:20:28,140
+with that we'll bring this video to a
+close if you found this video helpful
+
+936
+00:20:28,140 --> 00:20:28,150
+close if you found this video helpful
+ 
+
+937
+00:20:28,150 --> 00:20:29,760
+close if you found this video helpful
+please give us a like and don't forget
+
+938
+00:20:29,760 --> 00:20:29,770
+please give us a like and don't forget
+ 
+
+939
+00:20:29,770 --> 00:20:31,530
+please give us a like and don't forget
+to click that subscribe button and the
+
+940
+00:20:31,530 --> 00:20:31,540
+to click that subscribe button and the
+ 
+
+941
+00:20:31,540 --> 00:20:33,270
+to click that subscribe button and the
+bell so you never miss out on our future
+
+942
+00:20:33,270 --> 00:20:33,280
+bell so you never miss out on our future
+ 
+
+943
+00:20:33,280 --> 00:20:35,460
+bell so you never miss out on our future
+videos leave us a comment letting us
+
+944
+00:20:35,460 --> 00:20:35,470
+videos leave us a comment letting us
+ 
+
+945
+00:20:35,470 --> 00:20:36,720
+videos leave us a comment letting us
+know what topics you'd like to see
+
+946
+00:20:36,720 --> 00:20:36,730
+know what topics you'd like to see
+ 
+
+947
+00:20:36,730 --> 00:20:38,850
+know what topics you'd like to see
+covered in our future videos and we can
+
+948
+00:20:38,850 --> 00:20:38,860
+covered in our future videos and we can
+ 
+
+949
+00:20:38,860 --> 00:20:39,960
+covered in our future videos and we can
+always be reached through our Twitter
+
+950
+00:20:39,960 --> 00:20:39,970
+always be reached through our Twitter
+ 
+
+951
+00:20:39,970 --> 00:20:42,690
+always be reached through our Twitter
+and Facebook pages too if you'd like to
+
+952
+00:20:42,690 --> 00:20:42,700
+and Facebook pages too if you'd like to
+ 
+
+953
+00:20:42,700 --> 00:20:44,130
+and Facebook pages too if you'd like to
+use some of the maps that we feature in
+
+954
+00:20:44,130 --> 00:20:44,140
+use some of the maps that we feature in
+ 
+
+955
+00:20:44,140 --> 00:20:45,960
+use some of the maps that we feature in
+our videos and your own games you can
+
+956
+00:20:45,960 --> 00:20:45,970
+our videos and your own games you can
+ 
+
+957
+00:20:45,970 --> 00:20:48,630
+our videos and your own games you can
+find them at maps of mastery a link to
+
+958
+00:20:48,630 --> 00:20:48,640
+find them at maps of mastery a link to
+ 
+
+959
+00:20:48,640 --> 00:20:49,950
+find them at maps of mastery a link to
+that store can be found in the
+
+960
+00:20:49,950 --> 00:20:49,960
+that store can be found in the
+ 
+
+961
+00:20:49,960 --> 00:20:52,710
+that store can be found in the
+description thanks for watching take
+
+962
+00:20:52,710 --> 00:20:52,720
+description thanks for watching take
+ 
+
+963
+00:20:52,720 --> 00:20:54,330
+description thanks for watching take
+care and we'll see you soon with more
+
+964
+00:20:54,330 --> 00:20:54,340
+care and we'll see you soon with more
+ 
+
+965
+00:20:54,340 --> 00:20:58,110
+care and we'll see you soon with more
+basics for your favorite tabletop games
+

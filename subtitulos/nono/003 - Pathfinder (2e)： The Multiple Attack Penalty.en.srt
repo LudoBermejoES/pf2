@@ -1,0 +1,2455 @@
+1
+00:00:03,920 --> 00:00:06,230
+
+hello and welcome to multiple attack
+
+2
+00:00:06,230 --> 00:00:06,240
+hello and welcome to multiple attack
+ 
+
+3
+00:00:06,240 --> 00:00:08,210
+hello and welcome to multiple attack
+penalties in Pathfinder second edition
+
+4
+00:00:08,210 --> 00:00:08,220
+penalties in Pathfinder second edition
+ 
+
+5
+00:00:08,220 --> 00:00:10,669
+penalties in Pathfinder second edition
+by how it's played in this video I'll
+
+6
+00:00:10,669 --> 00:00:10,679
+by how it's played in this video I'll
+ 
+
+7
+00:00:10,679 --> 00:00:12,530
+by how it's played in this video I'll
+provide an overview of the multiple
+
+8
+00:00:12,530 --> 00:00:12,540
+provide an overview of the multiple
+ 
+
+9
+00:00:12,540 --> 00:00:15,230
+provide an overview of the multiple
+attack penalty how it works and ways to
+
+10
+00:00:15,230 --> 00:00:15,240
+attack penalty how it works and ways to
+ 
+
+11
+00:00:15,240 --> 00:00:17,750
+attack penalty how it works and ways to
+mitigate it including some options for
+
+12
+00:00:17,750 --> 00:00:17,760
+mitigate it including some options for
+ 
+
+13
+00:00:17,760 --> 00:00:19,910
+mitigate it including some options for
+your third actions that might be wiser
+
+14
+00:00:19,910 --> 00:00:19,920
+your third actions that might be wiser
+ 
+
+15
+00:00:19,920 --> 00:00:23,510
+your third actions that might be wiser
+than taking a negative 10 penalty
+
+16
+00:00:23,510 --> 00:00:23,520
+than taking a negative 10 penalty
+ 
+
+17
+00:00:23,520 --> 00:00:26,269
+than taking a negative 10 penalty
+Pathfinder uses a system of actions that
+
+18
+00:00:26,269 --> 00:00:26,279
+Pathfinder uses a system of actions that
+ 
+
+19
+00:00:26,279 --> 00:00:27,950
+Pathfinder uses a system of actions that
+players are allowed to spend during
+
+20
+00:00:27,950 --> 00:00:27,960
+players are allowed to spend during
+ 
+
+21
+00:00:27,960 --> 00:00:30,529
+players are allowed to spend during
+their turns to perform various Feats of
+
+22
+00:00:30,529 --> 00:00:30,539
+their turns to perform various Feats of
+ 
+
+23
+00:00:30,539 --> 00:00:33,590
+their turns to perform various Feats of
+heroics generally speaking players are
+
+24
+00:00:33,590 --> 00:00:33,600
+heroics generally speaking players are
+ 
+
+25
+00:00:33,600 --> 00:00:35,389
+heroics generally speaking players are
+allowed to spin their three actions per
+
+26
+00:00:35,389 --> 00:00:35,399
+allowed to spin their three actions per
+ 
+
+27
+00:00:35,399 --> 00:00:38,389
+allowed to spin their three actions per
+turn however they wish in each ability
+
+28
+00:00:38,389 --> 00:00:38,399
+turn however they wish in each ability
+ 
+
+29
+00:00:38,399 --> 00:00:41,030
+turn however they wish in each ability
+usually works the same regardless of
+
+30
+00:00:41,030 --> 00:00:41,040
+usually works the same regardless of
+ 
+
+31
+00:00:41,040 --> 00:00:43,729
+usually works the same regardless of
+where in the action order it is used or
+
+32
+00:00:43,729 --> 00:00:43,739
+where in the action order it is used or
+ 
+
+33
+00:00:43,739 --> 00:00:45,950
+where in the action order it is used or
+if the same action is repeated over and
+
+34
+00:00:45,950 --> 00:00:45,960
+if the same action is repeated over and
+ 
+
+35
+00:00:45,960 --> 00:00:49,010
+if the same action is repeated over and
+over but there are a few exceptions and
+
+36
+00:00:49,010 --> 00:00:49,020
+over but there are a few exceptions and
+ 
+
+37
+00:00:49,020 --> 00:00:50,690
+over but there are a few exceptions and
+the most common of those is probably
+
+38
+00:00:50,690 --> 00:00:50,700
+the most common of those is probably
+ 
+
+39
+00:00:50,700 --> 00:00:54,049
+the most common of those is probably
+attacking there are diminishing returns
+
+40
+00:00:54,049 --> 00:00:54,059
+attacking there are diminishing returns
+ 
+
+41
+00:00:54,059 --> 00:00:56,750
+attacking there are diminishing returns
+when making a repeated weapon attacks in
+
+42
+00:00:56,750 --> 00:00:56,760
+when making a repeated weapon attacks in
+ 
+
+43
+00:00:56,760 --> 00:00:59,209
+when making a repeated weapon attacks in
+that every attack after the first will
+
+44
+00:00:59,209 --> 00:00:59,219
+that every attack after the first will
+ 
+
+45
+00:00:59,219 --> 00:01:01,729
+that every attack after the first will
+suffer from the multiple attack penalty
+
+46
+00:01:01,729 --> 00:01:01,739
+suffer from the multiple attack penalty
+ 
+
+47
+00:01:01,739 --> 00:01:04,130
+suffer from the multiple attack penalty
+with the multiple attack penalty says is
+
+48
+00:01:04,130 --> 00:01:04,140
+with the multiple attack penalty says is
+ 
+
+49
+00:01:04,140 --> 00:01:05,870
+with the multiple attack penalty says is
+that every attack during a turn after
+
+50
+00:01:05,870 --> 00:01:05,880
+that every attack during a turn after
+ 
+
+51
+00:01:05,880 --> 00:01:08,870
+that every attack during a turn after
+the first suffers a penalty there is a
+
+52
+00:01:08,870 --> 00:01:08,880
+the first suffers a penalty there is a
+ 
+
+53
+00:01:08,880 --> 00:01:10,730
+the first suffers a penalty there is a
+negative five penalty applied to the
+
+54
+00:01:10,730 --> 00:01:10,740
+negative five penalty applied to the
+ 
+
+55
+00:01:10,740 --> 00:01:13,310
+negative five penalty applied to the
+second attack in a turn and a negative
+
+56
+00:01:13,310 --> 00:01:13,320
+second attack in a turn and a negative
+ 
+
+57
+00:01:13,320 --> 00:01:16,130
+second attack in a turn and a negative
+10 penalty applied to the third and if
+
+58
+00:01:16,130 --> 00:01:16,140
+10 penalty applied to the third and if
+ 
+
+59
+00:01:16,140 --> 00:01:17,870
+10 penalty applied to the third and if
+you are able to make more than four
+
+60
+00:01:17,870 --> 00:01:17,880
+you are able to make more than four
+ 
+
+61
+00:01:17,880 --> 00:01:20,450
+you are able to make more than four
+attacks on a turn thanks perhaps to the
+
+62
+00:01:20,450 --> 00:01:20,460
+attacks on a turn thanks perhaps to the
+ 
+
+63
+00:01:20,460 --> 00:01:23,149
+attacks on a turn thanks perhaps to the
+hay spell then all attacks beyond the
+
+64
+00:01:23,149 --> 00:01:23,159
+hay spell then all attacks beyond the
+ 
+
+65
+00:01:23,159 --> 00:01:25,310
+hay spell then all attacks beyond the
+third also suffer the negative 10
+
+66
+00:01:25,310 --> 00:01:25,320
+third also suffer the negative 10
+ 
+
+67
+00:01:25,320 --> 00:01:28,070
+third also suffer the negative 10
+penalty there is one notable exception
+
+68
+00:01:28,070 --> 00:01:28,080
+penalty there is one notable exception
+ 
+
+69
+00:01:28,080 --> 00:01:29,990
+penalty there is one notable exception
+to this and that is when fighting with a
+
+70
+00:01:29,990 --> 00:01:30,000
+to this and that is when fighting with a
+ 
+
+71
+00:01:30,000 --> 00:01:32,510
+to this and that is when fighting with a
+weapon that has the agile trait like
+
+72
+00:01:32,510 --> 00:01:32,520
+weapon that has the agile trait like
+ 
+
+73
+00:01:32,520 --> 00:01:35,450
+weapon that has the agile trait like
+daggers short swords and Fists
+
+74
+00:01:35,450 --> 00:01:35,460
+daggers short swords and Fists
+ 
+
+75
+00:01:35,460 --> 00:01:38,270
+daggers short swords and Fists
+if you use an agile weapon you only
+
+76
+00:01:38,270 --> 00:01:38,280
+if you use an agile weapon you only
+ 
+
+77
+00:01:38,280 --> 00:01:40,249
+if you use an agile weapon you only
+suffer a negative 4 penalty for the
+
+78
+00:01:40,249 --> 00:01:40,259
+suffer a negative 4 penalty for the
+ 
+
+79
+00:01:40,259 --> 00:01:42,469
+suffer a negative 4 penalty for the
+second attack made during a turn and a
+
+80
+00:01:42,469 --> 00:01:42,479
+second attack made during a turn and a
+ 
+
+81
+00:01:42,479 --> 00:01:44,390
+second attack made during a turn and a
+negative eight penalty for all further
+
+82
+00:01:44,390 --> 00:01:44,400
+negative eight penalty for all further
+ 
+
+83
+00:01:44,400 --> 00:01:46,370
+negative eight penalty for all further
+attacks
+
+84
+00:01:46,370 --> 00:01:46,380
+attacks
+ 
+
+85
+00:01:46,380 --> 00:01:47,929
+attacks
+so now that we understand what the
+
+86
+00:01:47,929 --> 00:01:47,939
+so now that we understand what the
+ 
+
+87
+00:01:47,939 --> 00:01:49,730
+so now that we understand what the
+multiple attack penalty is the next
+
+88
+00:01:49,730 --> 00:01:49,740
+multiple attack penalty is the next
+ 
+
+89
+00:01:49,740 --> 00:01:52,789
+multiple attack penalty is the next
+question might be what exactly is an
+
+90
+00:01:52,789 --> 00:01:52,799
+question might be what exactly is an
+ 
+
+91
+00:01:52,799 --> 00:01:55,370
+question might be what exactly is an
+attack well simply put an attack is
+
+92
+00:01:55,370 --> 00:01:55,380
+attack well simply put an attack is
+ 
+
+93
+00:01:55,380 --> 00:01:58,429
+attack well simply put an attack is
+anything that has the attack trait for
+
+94
+00:01:58,429 --> 00:01:58,439
+anything that has the attack trait for
+ 
+
+95
+00:01:58,439 --> 00:01:59,990
+anything that has the attack trait for
+example if we look at the description
+
+96
+00:01:59,990 --> 00:02:00,000
+example if we look at the description
+ 
+
+97
+00:02:00,000 --> 00:02:02,569
+example if we look at the description
+for strike we see that it doesn't make
+
+98
+00:02:02,569 --> 00:02:02,579
+for strike we see that it doesn't make
+ 
+
+99
+00:02:02,579 --> 00:02:04,490
+for strike we see that it doesn't make
+any mention of this multiple attack
+
+100
+00:02:04,490 --> 00:02:04,500
+any mention of this multiple attack
+ 
+
+101
+00:02:04,500 --> 00:02:07,130
+any mention of this multiple attack
+penalty but it does have the attack
+
+102
+00:02:07,130 --> 00:02:07,140
+penalty but it does have the attack
+ 
+
+103
+00:02:07,140 --> 00:02:10,190
+penalty but it does have the attack
+trait and it is this trait that notes
+
+104
+00:02:10,190 --> 00:02:10,200
+trait and it is this trait that notes
+ 
+
+105
+00:02:10,200 --> 00:02:12,050
+trait and it is this trait that notes
+was affected by the multiple attack
+
+106
+00:02:12,050 --> 00:02:12,060
+was affected by the multiple attack
+ 
+
+107
+00:02:12,060 --> 00:02:14,030
+was affected by the multiple attack
+penalty let's take a look at a few
+
+108
+00:02:14,030 --> 00:02:14,040
+penalty let's take a look at a few
+ 
+
+109
+00:02:14,040 --> 00:02:16,850
+penalty let's take a look at a few
+examples the acid aerospell has the
+
+110
+00:02:16,850 --> 00:02:16,860
+examples the acid aerospell has the
+ 
+
+111
+00:02:16,860 --> 00:02:19,670
+examples the acid aerospell has the
+attack trait therefore it does suffer
+
+112
+00:02:19,670 --> 00:02:19,680
+attack trait therefore it does suffer
+ 
+
+113
+00:02:19,680 --> 00:02:22,070
+attack trait therefore it does suffer
+from the multiple attack penalty if a
+
+114
+00:02:22,070 --> 00:02:22,080
+from the multiple attack penalty if a
+ 
+
+115
+00:02:22,080 --> 00:02:24,170
+from the multiple attack penalty if a
+sorcerer wanted to strike an enemy with
+
+116
+00:02:24,170 --> 00:02:24,180
+sorcerer wanted to strike an enemy with
+ 
+
+117
+00:02:24,180 --> 00:02:26,869
+sorcerer wanted to strike an enemy with
+their staff using their first action and
+
+118
+00:02:26,869 --> 00:02:26,879
+their staff using their first action and
+ 
+
+119
+00:02:26,879 --> 00:02:29,150
+their staff using their first action and
+then cast acid Arrow at another Target
+
+120
+00:02:29,150 --> 00:02:29,160
+then cast acid Arrow at another Target
+ 
+
+121
+00:02:29,160 --> 00:02:31,850
+then cast acid Arrow at another Target
+with their second and third actions then
+
+122
+00:02:31,850 --> 00:02:31,860
+with their second and third actions then
+ 
+
+123
+00:02:31,860 --> 00:02:34,430
+with their second and third actions then
+the staff attack would suffer no penalty
+
+124
+00:02:34,430 --> 00:02:34,440
+the staff attack would suffer no penalty
+ 
+
+125
+00:02:34,440 --> 00:02:36,589
+the staff attack would suffer no penalty
+because it's the first attack made in
+
+126
+00:02:36,589 --> 00:02:36,599
+because it's the first attack made in
+ 
+
+127
+00:02:36,599 --> 00:02:38,809
+because it's the first attack made in
+that turn but there would be a negative
+
+128
+00:02:38,809 --> 00:02:38,819
+that turn but there would be a negative
+ 
+
+129
+00:02:38,819 --> 00:02:40,910
+that turn but there would be a negative
+five penalty applied to the casting of
+
+130
+00:02:40,910 --> 00:02:40,920
+five penalty applied to the casting of
+ 
+
+131
+00:02:40,920 --> 00:02:43,550
+five penalty applied to the casting of
+acid Arrow it would be considered the
+
+132
+00:02:43,550 --> 00:02:43,560
+acid Arrow it would be considered the
+ 
+
+133
+00:02:43,560 --> 00:02:45,949
+acid Arrow it would be considered the
+second use of an attack action for that
+
+134
+00:02:45,949 --> 00:02:45,959
+second use of an attack action for that
+ 
+
+135
+00:02:45,959 --> 00:02:49,430
+second use of an attack action for that
+turn even though it caused two actions
+
+136
+00:02:49,430 --> 00:02:49,440
+turn even though it caused two actions
+ 
+
+137
+00:02:49,440 --> 00:02:50,630
+turn even though it caused two actions
+to use
+
+138
+00:02:50,630 --> 00:02:50,640
+to use
+ 
+
+139
+00:02:50,640 --> 00:02:52,250
+to use
+just for the sake of comparison let's
+
+140
+00:02:52,250 --> 00:02:52,260
+just for the sake of comparison let's
+ 
+
+141
+00:02:52,260 --> 00:02:54,470
+just for the sake of comparison let's
+take a look at another spell electric
+
+142
+00:02:54,470 --> 00:02:54,480
+take a look at another spell electric
+ 
+
+143
+00:02:54,480 --> 00:02:57,410
+take a look at another spell electric
+Arc it's similar to acid arrow in that
+
+144
+00:02:57,410 --> 00:02:57,420
+Arc it's similar to acid arrow in that
+ 
+
+145
+00:02:57,420 --> 00:02:59,869
+Arc it's similar to acid arrow in that
+it's a spell that deals a type of energy
+
+146
+00:02:59,869 --> 00:02:59,879
+it's a spell that deals a type of energy
+ 
+
+147
+00:02:59,879 --> 00:03:02,809
+it's a spell that deals a type of energy
+damage to enemies but the multiple
+
+148
+00:03:02,809 --> 00:03:02,819
+damage to enemies but the multiple
+ 
+
+149
+00:03:02,819 --> 00:03:05,150
+damage to enemies but the multiple
+attack penalty would not apply here
+
+150
+00:03:05,150 --> 00:03:05,160
+attack penalty would not apply here
+ 
+
+151
+00:03:05,160 --> 00:03:08,150
+attack penalty would not apply here
+because electric Arc does not have the
+
+152
+00:03:08,150 --> 00:03:08,160
+because electric Arc does not have the
+ 
+
+153
+00:03:08,160 --> 00:03:10,550
+because electric Arc does not have the
+attack trait and it also wouldn't apply
+
+154
+00:03:10,550 --> 00:03:10,560
+attack trait and it also wouldn't apply
+ 
+
+155
+00:03:10,560 --> 00:03:12,710
+attack trait and it also wouldn't apply
+because electric Arc does not call for
+
+156
+00:03:12,710 --> 00:03:12,720
+because electric Arc does not call for
+ 
+
+157
+00:03:12,720 --> 00:03:16,070
+because electric Arc does not call for
+an attack roll instead the target rolls
+
+158
+00:03:16,070 --> 00:03:16,080
+an attack roll instead the target rolls
+ 
+
+159
+00:03:16,080 --> 00:03:18,170
+an attack roll instead the target rolls
+he's sieving through and the multiple
+
+160
+00:03:18,170 --> 00:03:18,180
+he's sieving through and the multiple
+ 
+
+161
+00:03:18,180 --> 00:03:21,910
+he's sieving through and the multiple
+attack penalty does not apply to safes
+
+162
+00:03:21,910 --> 00:03:21,920
+attack penalty does not apply to safes
+ 
+
+163
+00:03:21,920 --> 00:03:26,390
+attack penalty does not apply to safes
+disarm Force open grapple shove and trip
+
+164
+00:03:26,390 --> 00:03:26,400
+disarm Force open grapple shove and trip
+ 
+
+165
+00:03:26,400 --> 00:03:28,910
+disarm Force open grapple shove and trip
+are all applications of the athletic
+
+166
+00:03:28,910 --> 00:03:28,920
+are all applications of the athletic
+ 
+
+167
+00:03:28,920 --> 00:03:31,869
+are all applications of the athletic
+skill that also have the attack trait
+
+168
+00:03:31,869 --> 00:03:31,879
+skill that also have the attack trait
+ 
+
+169
+00:03:31,879 --> 00:03:34,910
+skill that also have the attack trait
+therefore they each contribute to and
+
+170
+00:03:34,910 --> 00:03:34,920
+therefore they each contribute to and
+ 
+
+171
+00:03:34,920 --> 00:03:36,830
+therefore they each contribute to and
+suffer from the multiple attack penalty
+
+172
+00:03:36,830 --> 00:03:36,840
+suffer from the multiple attack penalty
+ 
+
+173
+00:03:36,840 --> 00:03:40,190
+suffer from the multiple attack penalty
+if a player tries to trip an enemy and
+
+174
+00:03:40,190 --> 00:03:40,200
+if a player tries to trip an enemy and
+ 
+
+175
+00:03:40,200 --> 00:03:42,410
+if a player tries to trip an enemy and
+then stab them while they're prone there
+
+176
+00:03:42,410 --> 00:03:42,420
+then stab them while they're prone there
+ 
+
+177
+00:03:42,420 --> 00:03:44,869
+then stab them while they're prone there
+would be no penalty for the trip but
+
+178
+00:03:44,869 --> 00:03:44,879
+would be no penalty for the trip but
+ 
+
+179
+00:03:44,879 --> 00:03:46,910
+would be no penalty for the trip but
+there would be a negative five penalty
+
+180
+00:03:46,910 --> 00:03:46,920
+there would be a negative five penalty
+ 
+
+181
+00:03:46,920 --> 00:03:49,130
+there would be a negative five penalty
+applied to the attack or negative four
+
+182
+00:03:49,130 --> 00:03:49,140
+applied to the attack or negative four
+ 
+
+183
+00:03:49,140 --> 00:03:50,750
+applied to the attack or negative four
+if they're using an actual weapon
+
+184
+00:03:50,750 --> 00:03:50,760
+if they're using an actual weapon
+ 
+
+185
+00:03:50,760 --> 00:03:53,149
+if they're using an actual weapon
+likewise if the player has two adjacent
+
+186
+00:03:53,149 --> 00:03:53,159
+likewise if the player has two adjacent
+ 
+
+187
+00:03:53,159 --> 00:03:55,550
+likewise if the player has two adjacent
+enemies to them and tries to shove each
+
+188
+00:03:55,550 --> 00:03:55,560
+enemies to them and tries to shove each
+ 
+
+189
+00:03:55,560 --> 00:03:57,530
+enemies to them and tries to shove each
+of them in the same turn there will be
+
+190
+00:03:57,530 --> 00:03:57,540
+of them in the same turn there will be
+ 
+
+191
+00:03:57,540 --> 00:03:59,869
+of them in the same turn there will be
+no penalty for the first Athletics check
+
+192
+00:03:59,869 --> 00:03:59,879
+no penalty for the first Athletics check
+ 
+
+193
+00:03:59,879 --> 00:04:02,570
+no penalty for the first Athletics check
+rolled for shove but there would be a
+
+194
+00:04:02,570 --> 00:04:02,580
+rolled for shove but there would be a
+ 
+
+195
+00:04:02,580 --> 00:04:04,550
+rolled for shove but there would be a
+negative five penalty applied to the
+
+196
+00:04:04,550 --> 00:04:04,560
+negative five penalty applied to the
+ 
+
+197
+00:04:04,560 --> 00:04:05,509
+negative five penalty applied to the
+second
+
+198
+00:04:05,509 --> 00:04:05,519
+second
+ 
+
+199
+00:04:05,519 --> 00:04:08,390
+second
+so yes these kinds of combat Maneuvers
+
+200
+00:04:08,390 --> 00:04:08,400
+so yes these kinds of combat Maneuvers
+ 
+
+201
+00:04:08,400 --> 00:04:10,670
+so yes these kinds of combat Maneuvers
+and athletic skill checks are
+
+202
+00:04:10,670 --> 00:04:10,680
+and athletic skill checks are
+ 
+
+203
+00:04:10,680 --> 00:04:13,369
+and athletic skill checks are
+technically considered attacks and they
+
+204
+00:04:13,369 --> 00:04:13,379
+technically considered attacks and they
+ 
+
+205
+00:04:13,379 --> 00:04:14,869
+technically considered attacks and they
+do suffer from the multiple attack
+
+206
+00:04:14,869 --> 00:04:14,879
+do suffer from the multiple attack
+ 
+
+207
+00:04:14,879 --> 00:04:17,030
+do suffer from the multiple attack
+penalty but it's very important to
+
+208
+00:04:17,030 --> 00:04:17,040
+penalty but it's very important to
+ 
+
+209
+00:04:17,040 --> 00:04:19,370
+penalty but it's very important to
+remember that even though they are
+
+210
+00:04:19,370 --> 00:04:19,380
+remember that even though they are
+ 
+
+211
+00:04:19,380 --> 00:04:22,370
+remember that even though they are
+mechanically speaking attacks when you
+
+212
+00:04:22,370 --> 00:04:22,380
+mechanically speaking attacks when you
+ 
+
+213
+00:04:22,380 --> 00:04:25,490
+mechanically speaking attacks when you
+pick up and roll that D20 you are not
+
+214
+00:04:25,490 --> 00:04:25,500
+pick up and roll that D20 you are not
+ 
+
+215
+00:04:25,500 --> 00:04:29,210
+pick up and roll that D20 you are not
+making an attack role you're making an
+
+216
+00:04:29,210 --> 00:04:29,220
+making an attack role you're making an
+ 
+
+217
+00:04:29,220 --> 00:04:31,909
+making an attack role you're making an
+Athletics skill check in this
+
+218
+00:04:31,909 --> 00:04:31,919
+Athletics skill check in this
+ 
+
+219
+00:04:31,919 --> 00:04:34,490
+Athletics skill check in this
+distinction between an attack roll and a
+
+220
+00:04:34,490 --> 00:04:34,500
+distinction between an attack roll and a
+ 
+
+221
+00:04:34,500 --> 00:04:37,189
+distinction between an attack roll and a
+skill check is very important because it
+
+222
+00:04:37,189 --> 00:04:37,199
+skill check is very important because it
+ 
+
+223
+00:04:37,199 --> 00:04:39,650
+skill check is very important because it
+means that anything that modifies attack
+
+224
+00:04:39,650 --> 00:04:39,660
+means that anything that modifies attack
+ 
+
+225
+00:04:39,660 --> 00:04:42,710
+means that anything that modifies attack
+rolls will not apply to their skill
+
+226
+00:04:42,710 --> 00:04:42,720
+rolls will not apply to their skill
+ 
+
+227
+00:04:42,720 --> 00:04:45,230
+rolls will not apply to their skill
+checks like grapple shove and trip
+
+228
+00:04:45,230 --> 00:04:45,240
+checks like grapple shove and trip
+ 
+
+229
+00:04:45,240 --> 00:04:48,110
+checks like grapple shove and trip
+in other words spells like bless would
+
+230
+00:04:48,110 --> 00:04:48,120
+in other words spells like bless would
+ 
+
+231
+00:04:48,120 --> 00:04:50,390
+in other words spells like bless would
+not apply in these situations because
+
+232
+00:04:50,390 --> 00:04:50,400
+not apply in these situations because
+ 
+
+233
+00:04:50,400 --> 00:04:54,650
+not apply in these situations because
+Bliss grants a bonus to attack roles and
+
+234
+00:04:54,650 --> 00:04:54,660
+Bliss grants a bonus to attack roles and
+ 
+
+235
+00:04:54,660 --> 00:04:57,590
+Bliss grants a bonus to attack roles and
+these are not attack rules they are
+
+236
+00:04:57,590 --> 00:04:57,600
+these are not attack rules they are
+ 
+
+237
+00:04:57,600 --> 00:05:00,170
+these are not attack rules they are
+attacks but they do not make attack
+
+238
+00:05:00,170 --> 00:05:00,180
+attacks but they do not make attack
+ 
+
+239
+00:05:00,180 --> 00:05:03,469
+attacks but they do not make attack
+rolls instead they use skill checks and
+
+240
+00:05:03,469 --> 00:05:03,479
+rolls instead they use skill checks and
+ 
+
+241
+00:05:03,479 --> 00:05:05,450
+rolls instead they use skill checks and
+multiple attack penalties do still apply
+
+242
+00:05:05,450 --> 00:05:05,460
+multiple attack penalties do still apply
+ 
+
+243
+00:05:05,460 --> 00:05:06,710
+multiple attack penalties do still apply
+here even though they're not attack
+
+244
+00:05:06,710 --> 00:05:06,720
+here even though they're not attack
+ 
+
+245
+00:05:06,720 --> 00:05:09,290
+here even though they're not attack
+roles because the text for multiple deck
+
+246
+00:05:09,290 --> 00:05:09,300
+roles because the text for multiple deck
+ 
+
+247
+00:05:09,300 --> 00:05:11,330
+roles because the text for multiple deck
+penalty doesn't specify anything about
+
+248
+00:05:11,330 --> 00:05:11,340
+penalty doesn't specify anything about
+ 
+
+249
+00:05:11,340 --> 00:05:14,090
+penalty doesn't specify anything about
+roles it only says that the attack must
+
+250
+00:05:14,090 --> 00:05:14,100
+roles it only says that the attack must
+ 
+
+251
+00:05:14,100 --> 00:05:15,710
+roles it only says that the attack must
+have the attack trait
+
+252
+00:05:15,710 --> 00:05:15,720
+have the attack trait
+ 
+
+253
+00:05:15,720 --> 00:05:17,930
+have the attack trait
+and this sort of works the opposite way
+
+254
+00:05:17,930 --> 00:05:17,940
+and this sort of works the opposite way
+ 
+
+255
+00:05:17,940 --> 00:05:20,629
+and this sort of works the opposite way
+as well an ability like an imperial
+
+256
+00:05:20,629 --> 00:05:20,639
+as well an ability like an imperial
+ 
+
+257
+00:05:20,639 --> 00:05:23,150
+as well an ability like an imperial
+sorcerer's blood magic would Grant is
+
+258
+00:05:23,150 --> 00:05:23,160
+sorcerer's blood magic would Grant is
+ 
+
+259
+00:05:23,160 --> 00:05:25,670
+sorcerer's blood magic would Grant is
+bonus to shoving or tripping someone
+
+260
+00:05:25,670 --> 00:05:25,680
+bonus to shoving or tripping someone
+ 
+
+261
+00:05:25,680 --> 00:05:28,550
+bonus to shoving or tripping someone
+because it applies to skill checks but
+
+262
+00:05:28,550 --> 00:05:28,560
+because it applies to skill checks but
+ 
+
+263
+00:05:28,560 --> 00:05:31,070
+because it applies to skill checks but
+would not apply to a weapon attack now
+
+264
+00:05:31,070 --> 00:05:31,080
+would not apply to a weapon attack now
+ 
+
+265
+00:05:31,080 --> 00:05:33,230
+would not apply to a weapon attack now
+if having to apply multi-tech penalties
+
+266
+00:05:33,230 --> 00:05:33,240
+if having to apply multi-tech penalties
+ 
+
+267
+00:05:33,240 --> 00:05:35,390
+if having to apply multi-tech penalties
+the skills seems a little unfair you
+
+268
+00:05:35,390 --> 00:05:35,400
+the skills seems a little unfair you
+ 
+
+269
+00:05:35,400 --> 00:05:37,610
+the skills seems a little unfair you
+might want to pick up the Assurance feat
+
+270
+00:05:37,610 --> 00:05:37,620
+might want to pick up the Assurance feat
+ 
+
+271
+00:05:37,620 --> 00:05:40,430
+might want to pick up the Assurance feat
+for athletics Assurance may not benefit
+
+272
+00:05:40,430 --> 00:05:40,440
+for athletics Assurance may not benefit
+ 
+
+273
+00:05:40,440 --> 00:05:43,370
+for athletics Assurance may not benefit
+from the character strength bonus but it
+
+274
+00:05:43,370 --> 00:05:43,380
+from the character strength bonus but it
+ 
+
+275
+00:05:43,380 --> 00:05:45,350
+from the character strength bonus but it
+also is not impacted by multiple attack
+
+276
+00:05:45,350 --> 00:05:45,360
+also is not impacted by multiple attack
+ 
+
+277
+00:05:45,360 --> 00:05:47,570
+also is not impacted by multiple attack
+penalties which might make Assurance
+
+278
+00:05:47,570 --> 00:05:47,580
+penalties which might make Assurance
+ 
+
+279
+00:05:47,580 --> 00:05:49,370
+penalties which might make Assurance
+appealing to players wanting to use
+
+280
+00:05:49,370 --> 00:05:49,380
+appealing to players wanting to use
+ 
+
+281
+00:05:49,380 --> 00:05:51,950
+appealing to players wanting to use
+these skill attacks I'm not going to go
+
+282
+00:05:51,950 --> 00:05:51,960
+these skill attacks I'm not going to go
+ 
+
+283
+00:05:51,960 --> 00:05:54,110
+these skill attacks I'm not going to go
+any further into that in this video but
+
+284
+00:05:54,110 --> 00:05:54,120
+any further into that in this video but
+ 
+
+285
+00:05:54,120 --> 00:05:56,090
+any further into that in this video but
+I do have another video that discusses
+
+286
+00:05:56,090 --> 00:05:56,100
+I do have another video that discusses
+ 
+
+287
+00:05:56,100 --> 00:05:58,189
+I do have another video that discusses
+assurance and I'll make sure that I
+
+288
+00:05:58,189 --> 00:05:58,199
+assurance and I'll make sure that I
+ 
+
+289
+00:05:58,199 --> 00:05:59,510
+assurance and I'll make sure that I
+leave a link to that one in the
+
+290
+00:05:59,510 --> 00:05:59,520
+leave a link to that one in the
+ 
+
+291
+00:05:59,520 --> 00:06:00,770
+leave a link to that one in the
+description if you want more information
+
+292
+00:06:00,770 --> 00:06:00,780
+description if you want more information
+ 
+
+293
+00:06:00,780 --> 00:06:03,770
+description if you want more information
+about how that works
+
+294
+00:06:03,770 --> 00:06:03,780
+about how that works
+ 
+
+295
+00:06:03,780 --> 00:06:05,990
+about how that works
+there are a few ways to mitigate the
+
+296
+00:06:05,990 --> 00:06:06,000
+there are a few ways to mitigate the
+ 
+
+297
+00:06:06,000 --> 00:06:07,850
+there are a few ways to mitigate the
+multi-attack penalty in addition to
+
+298
+00:06:07,850 --> 00:06:07,860
+multi-attack penalty in addition to
+ 
+
+299
+00:06:07,860 --> 00:06:09,770
+multi-attack penalty in addition to
+using an agile weapon I'm going to share
+
+300
+00:06:09,770 --> 00:06:09,780
+using an agile weapon I'm going to share
+ 
+
+301
+00:06:09,780 --> 00:06:11,570
+using an agile weapon I'm going to share
+just a few of them with you here but
+
+302
+00:06:11,570 --> 00:06:11,580
+just a few of them with you here but
+ 
+
+303
+00:06:11,580 --> 00:06:13,249
+just a few of them with you here but
+know there are more options available
+
+304
+00:06:13,249 --> 00:06:13,259
+know there are more options available
+ 
+
+305
+00:06:13,259 --> 00:06:16,129
+know there are more options available
+especially as you level up agile Grace
+
+306
+00:06:16,129 --> 00:06:16,139
+especially as you level up agile Grace
+ 
+
+307
+00:06:16,139 --> 00:06:19,010
+especially as you level up agile Grace
+is a 10th level fighter feat that lowers
+
+308
+00:06:19,010 --> 00:06:19,020
+is a 10th level fighter feat that lowers
+ 
+
+309
+00:06:19,020 --> 00:06:21,170
+is a 10th level fighter feat that lowers
+the penalty for using an agile weapon
+
+310
+00:06:21,170 --> 00:06:21,180
+the penalty for using an agile weapon
+ 
+
+311
+00:06:21,180 --> 00:06:23,510
+the penalty for using an agile weapon
+even further to negative three for the
+
+312
+00:06:23,510 --> 00:06:23,520
+even further to negative three for the
+ 
+
+313
+00:06:23,520 --> 00:06:25,309
+even further to negative three for the
+second attack and negative six for the
+
+314
+00:06:25,309 --> 00:06:25,319
+second attack and negative six for the
+ 
+
+315
+00:06:25,319 --> 00:06:26,390
+second attack and negative six for the
+Third
+
+316
+00:06:26,390 --> 00:06:26,400
+Third
+ 
+
+317
+00:06:26,400 --> 00:06:29,029
+Third
+double shot lets an archers shoot twice
+
+318
+00:06:29,029 --> 00:06:29,039
+double shot lets an archers shoot twice
+ 
+
+319
+00:06:29,039 --> 00:06:31,490
+double shot lets an archers shoot twice
+at different targets for a negative two
+
+320
+00:06:31,490 --> 00:06:31,500
+at different targets for a negative two
+ 
+
+321
+00:06:31,500 --> 00:06:34,370
+at different targets for a negative two
+penalty each and does not increase the
+
+322
+00:06:34,370 --> 00:06:34,380
+penalty each and does not increase the
+ 
+
+323
+00:06:34,380 --> 00:06:37,249
+penalty each and does not increase the
+multiple attack penalty until after the
+
+324
+00:06:37,249 --> 00:06:37,259
+multiple attack penalty until after the
+ 
+
+325
+00:06:37,259 --> 00:06:40,070
+multiple attack penalty until after the
+second shot and Rangers with the Fleury
+
+326
+00:06:40,070 --> 00:06:40,080
+second shot and Rangers with the Fleury
+ 
+
+327
+00:06:40,080 --> 00:06:42,650
+second shot and Rangers with the Fleury
+Hunter's Edge make multiple attacks at
+
+328
+00:06:42,650 --> 00:06:42,660
+Hunter's Edge make multiple attacks at
+ 
+
+329
+00:06:42,660 --> 00:06:45,529
+Hunter's Edge make multiple attacks at
+negative 3 and negative six or negative
+
+330
+00:06:45,529 --> 00:06:45,539
+negative 3 and negative six or negative
+ 
+
+331
+00:06:45,539 --> 00:06:48,110
+negative 3 and negative six or negative
+2 and negative 4 if they're using agile
+
+332
+00:06:48,110 --> 00:06:48,120
+2 and negative 4 if they're using agile
+ 
+
+333
+00:06:48,120 --> 00:06:49,909
+2 and negative 4 if they're using agile
+weapons
+
+334
+00:06:49,909 --> 00:06:49,919
+weapons
+ 
+
+335
+00:06:49,919 --> 00:06:52,550
+weapons
+so I think everyone can agree that a
+
+336
+00:06:52,550 --> 00:06:52,560
+so I think everyone can agree that a
+ 
+
+337
+00:06:52,560 --> 00:06:54,950
+so I think everyone can agree that a
+negative 10 penalty is pretty rough some
+
+338
+00:06:54,950 --> 00:06:54,960
+negative 10 penalty is pretty rough some
+ 
+
+339
+00:06:54,960 --> 00:06:56,450
+negative 10 penalty is pretty rough some
+people will like attacking three times
+
+340
+00:06:56,450 --> 00:06:56,460
+people will like attacking three times
+ 
+
+341
+00:06:56,460 --> 00:06:58,909
+people will like attacking three times
+at a turn and hope to get a natural 20
+
+342
+00:06:58,909 --> 00:06:58,919
+at a turn and hope to get a natural 20
+ 
+
+343
+00:06:58,919 --> 00:07:01,550
+at a turn and hope to get a natural 20
+on that third roll but a lot of other
+
+344
+00:07:01,550 --> 00:07:01,560
+on that third roll but a lot of other
+ 
+
+345
+00:07:01,560 --> 00:07:03,590
+on that third roll but a lot of other
+people look for better things to do with
+
+346
+00:07:03,590 --> 00:07:03,600
+people look for better things to do with
+ 
+
+347
+00:07:03,600 --> 00:07:05,450
+people look for better things to do with
+their third action that won't apply that
+
+348
+00:07:05,450 --> 00:07:05,460
+their third action that won't apply that
+ 
+
+349
+00:07:05,460 --> 00:07:07,909
+their third action that won't apply that
+negative 10 penalty so here I want to
+
+350
+00:07:07,909 --> 00:07:07,919
+negative 10 penalty so here I want to
+ 
+
+351
+00:07:07,919 --> 00:07:10,370
+negative 10 penalty so here I want to
+give you a few of my own suggestions
+
+352
+00:07:10,370 --> 00:07:10,380
+give you a few of my own suggestions
+ 
+
+353
+00:07:10,380 --> 00:07:13,070
+give you a few of my own suggestions
+first consider using the third action to
+
+354
+00:07:13,070 --> 00:07:13,080
+first consider using the third action to
+ 
+
+355
+00:07:13,080 --> 00:07:15,590
+first consider using the third action to
+move away if you think your opponent is
+
+356
+00:07:15,590 --> 00:07:15,600
+move away if you think your opponent is
+ 
+
+357
+00:07:15,600 --> 00:07:17,990
+move away if you think your opponent is
+able to make a text of opportunity then
+
+358
+00:07:17,990 --> 00:07:18,000
+able to make a text of opportunity then
+ 
+
+359
+00:07:18,000 --> 00:07:20,390
+able to make a text of opportunity then
+spend your third action on a step action
+
+360
+00:07:20,390 --> 00:07:20,400
+spend your third action on a step action
+ 
+
+361
+00:07:20,400 --> 00:07:22,550
+spend your third action on a step action
+that will let you move five feet without
+
+362
+00:07:22,550 --> 00:07:22,560
+that will let you move five feet without
+ 
+
+363
+00:07:22,560 --> 00:07:25,790
+that will let you move five feet without
+provoking reactions this forces a melee
+
+364
+00:07:25,790 --> 00:07:25,800
+provoking reactions this forces a melee
+ 
+
+365
+00:07:25,800 --> 00:07:28,309
+provoking reactions this forces a melee
+opponent to have to sacrifice one of
+
+366
+00:07:28,309 --> 00:07:28,319
+opponent to have to sacrifice one of
+ 
+
+367
+00:07:28,319 --> 00:07:30,230
+opponent to have to sacrifice one of
+their actions to follow you unless they
+
+368
+00:07:30,230 --> 00:07:30,240
+their actions to follow you unless they
+ 
+
+369
+00:07:30,240 --> 00:07:31,189
+their actions to follow you unless they
+have reach
+
+370
+00:07:31,189 --> 00:07:31,199
+have reach
+ 
+
+371
+00:07:31,199 --> 00:07:33,469
+have reach
+and if you have a higher speed score
+
+372
+00:07:33,469 --> 00:07:33,479
+and if you have a higher speed score
+ 
+
+373
+00:07:33,479 --> 00:07:35,749
+and if you have a higher speed score
+than your enemy then they'll be forced
+
+374
+00:07:35,749 --> 00:07:35,759
+than your enemy then they'll be forced
+ 
+
+375
+00:07:35,759 --> 00:07:37,969
+than your enemy then they'll be forced
+to spin two of their actions to follow
+
+376
+00:07:37,969 --> 00:07:37,979
+to spin two of their actions to follow
+ 
+
+377
+00:07:37,979 --> 00:07:40,309
+to spin two of their actions to follow
+and keep up with you also look for
+
+378
+00:07:40,309 --> 00:07:40,319
+and keep up with you also look for
+ 
+
+379
+00:07:40,319 --> 00:07:42,350
+and keep up with you also look for
+opportunities where a simple move could
+
+380
+00:07:42,350 --> 00:07:42,360
+opportunities where a simple move could
+ 
+
+381
+00:07:42,360 --> 00:07:44,870
+opportunities where a simple move could
+Grant flanking to an ally
+
+382
+00:07:44,870 --> 00:07:44,880
+Grant flanking to an ally
+ 
+
+383
+00:07:44,880 --> 00:07:47,510
+Grant flanking to an ally
+next raise a shield if you're a
+
+384
+00:07:47,510 --> 00:07:47,520
+next raise a shield if you're a
+ 
+
+385
+00:07:47,520 --> 00:07:49,309
+next raise a shield if you're a
+Frontline fighter with a shield or
+
+386
+00:07:49,309 --> 00:07:49,319
+Frontline fighter with a shield or
+ 
+
+387
+00:07:49,319 --> 00:07:50,870
+Frontline fighter with a shield or
+you're a spellcaster with the shield
+
+388
+00:07:50,870 --> 00:07:50,880
+you're a spellcaster with the shield
+ 
+
+389
+00:07:50,880 --> 00:07:53,629
+you're a spellcaster with the shield
+spell use that third action to get your
+
+390
+00:07:53,629 --> 00:07:53,639
+spell use that third action to get your
+ 
+
+391
+00:07:53,639 --> 00:07:55,790
+spell use that third action to get your
+Shield up
+
+392
+00:07:55,790 --> 00:07:55,800
+Shield up
+ 
+
+393
+00:07:55,800 --> 00:07:58,610
+Shield up
+spend your first action in a turn on a
+
+394
+00:07:58,610 --> 00:07:58,620
+spend your first action in a turn on a
+ 
+
+395
+00:07:58,620 --> 00:08:00,710
+spend your first action in a turn on a
+knowledge check this can be especially
+
+396
+00:08:00,710 --> 00:08:00,720
+knowledge check this can be especially
+ 
+
+397
+00:08:00,720 --> 00:08:03,529
+knowledge check this can be especially
+helpful for ranged spellcasters start
+
+398
+00:08:03,529 --> 00:08:03,539
+helpful for ranged spellcasters start
+ 
+
+399
+00:08:03,539 --> 00:08:05,870
+helpful for ranged spellcasters start
+the round by making a check to identify
+
+400
+00:08:05,870 --> 00:08:05,880
+the round by making a check to identify
+ 
+
+401
+00:08:05,880 --> 00:08:08,390
+the round by making a check to identify
+the monster and its weaknesses and then
+
+402
+00:08:08,390 --> 00:08:08,400
+the monster and its weaknesses and then
+ 
+
+403
+00:08:08,400 --> 00:08:10,370
+the monster and its weaknesses and then
+use that knowledge when attacking with
+
+404
+00:08:10,370 --> 00:08:10,380
+use that knowledge when attacking with
+ 
+
+405
+00:08:10,380 --> 00:08:12,830
+use that knowledge when attacking with
+actions two and three and if you have
+
+406
+00:08:12,830 --> 00:08:12,840
+actions two and three and if you have
+ 
+
+407
+00:08:12,840 --> 00:08:15,589
+actions two and three and if you have
+access to the guidance spell use that
+
+408
+00:08:15,589 --> 00:08:15,599
+access to the guidance spell use that
+ 
+
+409
+00:08:15,599 --> 00:08:17,450
+access to the guidance spell use that
+with your third action to Grant a bonus
+
+410
+00:08:17,450 --> 00:08:17,460
+with your third action to Grant a bonus
+ 
+
+411
+00:08:17,460 --> 00:08:18,650
+with your third action to Grant a bonus
+to an ally
+
+412
+00:08:18,650 --> 00:08:18,660
+to an ally
+ 
+
+413
+00:08:18,660 --> 00:08:20,809
+to an ally
+trade is an application of the deception
+
+414
+00:08:20,809 --> 00:08:20,819
+trade is an application of the deception
+ 
+
+415
+00:08:20,819 --> 00:08:22,670
+trade is an application of the deception
+skill that imposes the flat-footed
+
+416
+00:08:22,670 --> 00:08:22,680
+skill that imposes the flat-footed
+ 
+
+417
+00:08:22,680 --> 00:08:24,770
+skill that imposes the flat-footed
+condition against an enemy you could
+
+418
+00:08:24,770 --> 00:08:24,780
+condition against an enemy you could
+ 
+
+419
+00:08:24,780 --> 00:08:27,350
+condition against an enemy you could
+spend your first action on faint if
+
+420
+00:08:27,350 --> 00:08:27,360
+spend your first action on faint if
+ 
+
+421
+00:08:27,360 --> 00:08:29,390
+spend your first action on faint if
+that's successful then your enemy will
+
+422
+00:08:29,390 --> 00:08:29,400
+that's successful then your enemy will
+ 
+
+423
+00:08:29,400 --> 00:08:31,189
+that's successful then your enemy will
+be flat-footed against your next strike
+
+424
+00:08:31,189 --> 00:08:31,199
+be flat-footed against your next strike
+ 
+
+425
+00:08:31,199 --> 00:08:33,829
+be flat-footed against your next strike
+and if you critically succeed then the
+
+426
+00:08:33,829 --> 00:08:33,839
+and if you critically succeed then the
+ 
+
+427
+00:08:33,839 --> 00:08:35,870
+and if you critically succeed then the
+enemy will be flat-footed for both of
+
+428
+00:08:35,870 --> 00:08:35,880
+enemy will be flat-footed for both of
+ 
+
+429
+00:08:35,880 --> 00:08:38,389
+enemy will be flat-footed for both of
+your attacks this turn as well as any
+
+430
+00:08:38,389 --> 00:08:38,399
+your attacks this turn as well as any
+ 
+
+431
+00:08:38,399 --> 00:08:40,909
+your attacks this turn as well as any
+attacks you make in the following turn
+
+432
+00:08:40,909 --> 00:08:40,919
+attacks you make in the following turn
+ 
+
+433
+00:08:40,919 --> 00:08:43,010
+attacks you make in the following turn
+and similar to faint you could also use
+
+434
+00:08:43,010 --> 00:08:43,020
+and similar to faint you could also use
+ 
+
+435
+00:08:43,020 --> 00:08:45,710
+and similar to faint you could also use
+demoralize spend your first action to
+
+436
+00:08:45,710 --> 00:08:45,720
+demoralize spend your first action to
+ 
+
+437
+00:08:45,720 --> 00:08:47,389
+demoralize spend your first action to
+intimidate your opponent and apply the
+
+438
+00:08:47,389 --> 00:08:47,399
+intimidate your opponent and apply the
+ 
+
+439
+00:08:47,399 --> 00:08:49,370
+intimidate your opponent and apply the
+fear condition to them and then follow
+
+440
+00:08:49,370 --> 00:08:49,380
+fear condition to them and then follow
+ 
+
+441
+00:08:49,380 --> 00:08:51,769
+fear condition to them and then follow
+up with attacks on your second and third
+
+442
+00:08:51,769 --> 00:08:51,779
+up with attacks on your second and third
+ 
+
+443
+00:08:51,779 --> 00:08:52,910
+up with attacks on your second and third
+actions
+
+444
+00:08:52,910 --> 00:08:52,920
+actions
+ 
+
+445
+00:08:52,920 --> 00:08:54,590
+actions
+so those are just a few of my
+
+446
+00:08:54,590 --> 00:08:54,600
+so those are just a few of my
+ 
+
+447
+00:08:54,600 --> 00:08:56,810
+so those are just a few of my
+suggestions for things you can do other
+
+448
+00:08:56,810 --> 00:08:56,820
+suggestions for things you can do other
+ 
+
+449
+00:08:56,820 --> 00:08:59,030
+suggestions for things you can do other
+than swinging for the fences and
+
+450
+00:08:59,030 --> 00:08:59,040
+than swinging for the fences and
+ 
+
+451
+00:08:59,040 --> 00:09:01,670
+than swinging for the fences and
+attacking three times every turn when
+
+452
+00:09:01,670 --> 00:09:01,680
+attacking three times every turn when
+ 
+
+453
+00:09:01,680 --> 00:09:04,070
+attacking three times every turn when
+that third attack is gonna be facing a
+
+454
+00:09:04,070 --> 00:09:04,080
+that third attack is gonna be facing a
+ 
+
+455
+00:09:04,080 --> 00:09:07,570
+that third attack is gonna be facing a
+negative 10 or negative 8 penalty to it
+
+456
+00:09:07,570 --> 00:09:07,580
+negative 10 or negative 8 penalty to it
+ 
+
+457
+00:09:07,580 --> 00:09:09,829
+negative 10 or negative 8 penalty to it
+so that's a look at the multiple attack
+
+458
+00:09:09,829 --> 00:09:09,839
+so that's a look at the multiple attack
+ 
+
+459
+00:09:09,839 --> 00:09:12,050
+so that's a look at the multiple attack
+penalty as always if you have any
+
+460
+00:09:12,050 --> 00:09:12,060
+penalty as always if you have any
+ 
+
+461
+00:09:12,060 --> 00:09:13,610
+penalty as always if you have any
+questions please leave those in the
+
+462
+00:09:13,610 --> 00:09:13,620
+questions please leave those in the
+ 
+
+463
+00:09:13,620 --> 00:09:15,650
+questions please leave those in the
+comments also if you have a suggestion
+
+464
+00:09:15,650 --> 00:09:15,660
+comments also if you have a suggestion
+ 
+
+465
+00:09:15,660 --> 00:09:17,210
+comments also if you have a suggestion
+on what to do with that third action
+
+466
+00:09:17,210 --> 00:09:17,220
+on what to do with that third action
+ 
+
+467
+00:09:17,220 --> 00:09:19,009
+on what to do with that third action
+make sure you share it in the comments
+
+468
+00:09:19,009 --> 00:09:19,019
+make sure you share it in the comments
+ 
+
+469
+00:09:19,019 --> 00:09:21,650
+make sure you share it in the comments
+as well I'll leave links to all of my
+
+470
+00:09:21,650 --> 00:09:21,660
+as well I'll leave links to all of my
+ 
+
+471
+00:09:21,660 --> 00:09:23,690
+as well I'll leave links to all of my
+other videos that touch on this topic in
+
+472
+00:09:23,690 --> 00:09:23,700
+other videos that touch on this topic in
+ 
+
+473
+00:09:23,700 --> 00:09:26,329
+other videos that touch on this topic in
+the description and as always I want to
+
+474
+00:09:26,329 --> 00:09:26,339
+the description and as always I want to
+ 
+
+475
+00:09:26,339 --> 00:09:27,949
+the description and as always I want to
+take a brief moment to thank everyone
+
+476
+00:09:27,949 --> 00:09:27,959
+take a brief moment to thank everyone
+ 
+
+477
+00:09:27,959 --> 00:09:30,050
+take a brief moment to thank everyone
+who supports this channel whether that's
+
+478
+00:09:30,050 --> 00:09:30,060
+who supports this channel whether that's
+ 
+
+479
+00:09:30,060 --> 00:09:32,090
+who supports this channel whether that's
+by liking the video subscribing to the
+
+480
+00:09:32,090 --> 00:09:32,100
+by liking the video subscribing to the
+ 
+
+481
+00:09:32,100 --> 00:09:34,250
+by liking the video subscribing to the
+channel joining the patreon or buying a
+
+482
+00:09:34,250 --> 00:09:34,260
+channel joining the patreon or buying a
+ 
+
+483
+00:09:34,260 --> 00:09:36,470
+channel joining the patreon or buying a
+super thanks I appreciate all of your
+
+484
+00:09:36,470 --> 00:09:36,480
+super thanks I appreciate all of your
+ 
+
+485
+00:09:36,480 --> 00:09:38,870
+super thanks I appreciate all of your
+support so with that thanks for watching
+
+486
+00:09:38,870 --> 00:09:38,880
+support so with that thanks for watching
+ 
+
+487
+00:09:38,880 --> 00:09:41,870
+support so with that thanks for watching
+take care and happy gaming
+
+488
+00:09:41,870 --> 00:09:41,880
+take care and happy gaming
+ 
+
+489
+00:09:41,880 --> 00:09:44,420
+take care and happy gaming
+foreign
+
+490
+00:09:44,420 --> 00:09:44,430
+foreign
+ 
+
+491
+00:09:44,430 --> 00:09:48,730
+foreign
+[Music]
+

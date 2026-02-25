@@ -1,0 +1,1805 @@
+1
+00:00:01,160 --> 00:00:03,389
+
+Hola y bienvenidos al primer
+
+2
+00:00:03,389 --> 00:00:03,399
+Hola y bienvenidos al primer
+ 
+
+3
+00:00:03,399 --> 00:00:05,030
+Hola y bienvenidos al primer
+video de ejemplos que respalda mi serie sobre
+
+4
+00:00:05,030 --> 00:00:05,040
+video de ejemplos que respalda mi serie sobre
+ 
+
+5
+00:00:05,040 --> 00:00:07,829
+video de ejemplos que respalda mi serie sobre
+magia de Pathfinder. Este es un complemento de la
+
+6
+00:00:07,829 --> 00:00:07,839
+magia de Pathfinder. Este es un complemento de la
+ 
+
+7
+00:00:07,839 --> 00:00:10,150
+magia de Pathfinder. Este es un complemento de la
+sexta parte de esa serie e
+
+8
+00:00:10,150 --> 00:00:10,160
+sexta parte de esa serie e
+ 
+
+9
+00:00:10,160 --> 00:00:12,030
+sexta parte de esa serie e
+ilustrará cómo un personaje que puede
+
+10
+00:00:12,030 --> 00:00:12,040
+ilustrará cómo un personaje que puede
+ 
+
+11
+00:00:12,040 --> 00:00:13,669
+ilustrará cómo un personaje que puede
+lanzar hechizos de tres
+
+12
+00:00:13,669 --> 00:00:13,679
+lanzar hechizos de tres
+ 
+
+13
+00:00:13,679 --> 00:00:15,629
+lanzar hechizos de tres
+fuentes diferentes calcula su bonificación de ataque de hechizo
+
+14
+00:00:15,629 --> 00:00:15,639
+fuentes diferentes calcula su bonificación de ataque de hechizo
+ 
+
+15
+00:00:15,639 --> 00:00:18,590
+fuentes diferentes calcula su bonificación de ataque de hechizo
+y CD de hechizo para cada uno de ellos. Si aún
+
+16
+00:00:18,590 --> 00:00:18,600
+y CD de hechizo para cada uno de ellos. Si aún
+ 
+
+17
+00:00:18,600 --> 00:00:20,630
+y CD de hechizo para cada uno de ellos. Si aún
+no has visto la sexta parte de magia, se
+
+18
+00:00:20,630 --> 00:00:20,640
+no has visto la sexta parte de magia, se
+ 
+
+19
+00:00:20,640 --> 00:00:23,109
+no has visto la sexta parte de magia, se
+recomienda encarecidamente que lo hagas
+
+20
+00:00:23,109 --> 00:00:23,119
+recomienda encarecidamente que lo hagas
+ 
+
+21
+00:00:23,119 --> 00:00:25,470
+recomienda encarecidamente que lo hagas
+antes de continuar. Se proporciona un enlace a ese
+
+22
+00:00:25,470 --> 00:00:25,480
+antes de continuar. Se proporciona un enlace a ese
+ 
+
+23
+00:00:25,480 --> 00:00:28,349
+antes de continuar. Se proporciona un enlace a ese
+video en la
+
+24
+00:00:28,349 --> 00:00:28,359
+video en la
+ 
+
+25
+00:00:28,359 --> 00:00:30,749
+video en la
+descripción. Leander es un
+
+26
+00:00:30,749 --> 00:00:30,759
+descripción. Leander es un
+ 
+
+27
+00:00:30,759 --> 00:00:33,470
+descripción. Leander es un
+clérigo de clausura elfo de primer nivel de Abidar. Tiene
+
+28
+00:00:33,470 --> 00:00:33,480
+clérigo de clausura elfo de primer nivel de Abidar. Tiene
+ 
+
+29
+00:00:33,480 --> 00:00:36,470
+clérigo de clausura elfo de primer nivel de Abidar. Tiene
+una inteligencia de 14, una sabiduría de 16 y un
+
+30
+00:00:36,470 --> 00:00:36,480
+una inteligencia de 14, una sabiduría de 16 y un
+ 
+
+31
+00:00:36,480 --> 00:00:39,030
+una inteligencia de 14, una sabiduría de 16 y un
+Carisma de 12. Ha entrenado Competencia
+
+32
+00:00:39,030 --> 00:00:39,040
+Carisma de 12. Ha entrenado Competencia
+ 
+
+33
+00:00:39,040 --> 00:00:41,229
+Carisma de 12. Ha entrenado Competencia
+en lanzamiento de hechizos divinos y
+
+34
+00:00:41,229 --> 00:00:41,239
+en lanzamiento de hechizos divinos y
+ 
+
+35
+00:00:41,239 --> 00:00:43,670
+en lanzamiento de hechizos divinos y
+Competencia en la habilidad de religión.
+
+36
+00:00:43,670 --> 00:00:43,680
+Competencia en la habilidad de religión.
+ 
+
+37
+00:00:43,680 --> 00:00:45,910
+Competencia en la habilidad de religión.
+Quiere lanzar Rayo de debilitamiento a un
+
+38
+00:00:45,910 --> 00:00:45,920
+Quiere lanzar Rayo de debilitamiento a un
+ 
+
+39
+00:00:45,920 --> 00:00:48,510
+Quiere lanzar Rayo de debilitamiento a un
+goblin. Primero calculamos su
+
+40
+00:00:48,510 --> 00:00:48,520
+goblin. Primero calculamos su
+ 
+
+41
+00:00:48,520 --> 00:00:51,389
+goblin. Primero calculamos su
+bonificación de ataque de hechizo, que es un modificador de característica
+
+42
+00:00:51,389 --> 00:00:51,399
+bonificación de ataque de hechizo, que es un modificador de característica
+ 
+
+43
+00:00:51,399 --> 00:00:54,670
+bonificación de ataque de hechizo, que es un modificador de característica
+más competencia. Como clérigo, usa
+
+44
+00:00:54,670 --> 00:00:54,680
+más competencia. Como clérigo, usa
+ 
+
+45
+00:00:54,680 --> 00:00:57,029
+más competencia. Como clérigo, usa
+sabiduría como su habilidad de lanzamiento de hechizos. Su
+
+46
+00:00:57,029 --> 00:00:57,039
+sabiduría como su habilidad de lanzamiento de hechizos. Su
+ 
+
+47
+00:00:57,039 --> 00:00:59,630
+sabiduría como su habilidad de lanzamiento de hechizos. Su
+puntuación de sabiduría es 16, que es un
+
+48
+00:00:59,630 --> 00:00:59,640
+puntuación de sabiduría es 16, que es un
+ 
+
+49
+00:00:59,640 --> 00:01:02,470
+puntuación de sabiduría es 16, que es un
+modificador de fuego de +3, y tiene competencia de entrenamiento
+
+50
+00:01:02,470 --> 00:01:02,480
+modificador de fuego de +3, y tiene competencia de entrenamiento
+ 
+
+51
+00:01:02,480 --> 00:01:04,390
+modificador de fuego de +3, y tiene competencia de entrenamiento
+con lanzamiento de hechizos divinos. La
+
+52
+00:01:04,390 --> 00:01:04,400
+con lanzamiento de hechizos divinos. La
+ 
+
+53
+00:01:04,400 --> 00:01:07,270
+con lanzamiento de hechizos divinos. La
+competencia de entrenamiento es dos más el nivel. Es el primer
+
+54
+00:01:07,270 --> 00:01:07,280
+competencia de entrenamiento es dos más el nivel. Es el primer
+ 
+
+55
+00:01:07,280 --> 00:01:09,990
+competencia de entrenamiento es dos más el nivel. Es el primer
+nivel para una bonificación total de ataque de hechizo de
+
+56
+00:01:09,990 --> 00:01:10,000
+nivel para una bonificación total de ataque de hechizo de
+ 
+
+57
+00:01:10,000 --> 00:01:12,749
+nivel para una bonificación total de ataque de hechizo de
++6 cuando cuenta.  El hechizo
+
+58
+00:01:12,749 --> 00:01:12,759
++6 cuando cuenta.  El hechizo
+ 
+
+59
+00:01:12,759 --> 00:01:16,070
++6 cuando cuenta.  El hechizo
+hace un ataque a distancia tira 1D20 más 6
+
+60
+00:01:16,070 --> 00:01:16,080
+hace un ataque a distancia tira 1D20 más 6
+ 
+
+61
+00:01:16,080 --> 00:01:17,429
+hace un ataque a distancia tira 1D20 más 6
+y ese total se compara con la
+
+62
+00:01:17,429 --> 00:01:17,439
+y ese total se compara con la
+ 
+
+63
+00:01:17,439 --> 00:01:19,950
+y ese total se compara con la
+clase de armadura de los Goblins de 17. Digamos que
+
+64
+00:01:19,950 --> 00:01:19,960
+clase de armadura de los Goblins de 17. Digamos que
+ 
+
+65
+00:01:19,960 --> 00:01:22,630
+clase de armadura de los Goblins de 17. Digamos que
+subió 11 en el dado para un total de 17,
+
+66
+00:01:22,630 --> 00:01:22,640
+subió 11 en el dado para un total de 17,
+ 
+
+67
+00:01:22,640 --> 00:01:24,749
+subió 11 en el dado para un total de 17,
+que es suficiente para golpear al goblin. La
+
+68
+00:01:24,749 --> 00:01:24,759
+que es suficiente para golpear al goblin. La
+ 
+
+69
+00:01:24,759 --> 00:01:26,990
+que es suficiente para golpear al goblin. La
+descripción del hechizo dice que en caso de
+
+70
+00:01:26,990 --> 00:01:27,000
+descripción del hechizo dice que en caso de
+ 
+
+71
+00:01:27,000 --> 00:01:29,149
+descripción del hechizo dice que en caso de
+éxito, el objetivo debe hacer una
+
+72
+00:01:29,149 --> 00:01:29,159
+éxito, el objetivo debe hacer una
+ 
+
+73
+00:01:29,159 --> 00:01:31,950
+éxito, el objetivo debe hacer una
+tirada de salvación de fortaleza. La CD para esta tirada
+
+74
+00:01:31,950 --> 00:01:31,960
+tirada de salvación de fortaleza. La CD para esta tirada
+ 
+
+75
+00:01:31,960 --> 00:01:34,749
+tirada de salvación de fortaleza. La CD para esta tirada
+será la CD del hechizo divino de Leander. Para
+
+76
+00:01:34,749 --> 00:01:34,759
+será la CD del hechizo divino de Leander. Para
+ 
+
+77
+00:01:34,759 --> 00:01:37,469
+será la CD del hechizo divino de Leander. Para
+calcular esto, simplemente suma 10 a su
+
+78
+00:01:37,469 --> 00:01:37,479
+calcular esto, simplemente suma 10 a su
+ 
+
+79
+00:01:37,479 --> 00:01:39,710
+calcular esto, simplemente suma 10 a su
+bonificación de ataque de hechizo divino de más seis
+
+80
+00:01:39,710 --> 00:01:39,720
+bonificación de ataque de hechizo divino de más seis
+ 
+
+81
+00:01:39,720 --> 00:01:43,030
+bonificación de ataque de hechizo divino de más seis
+para una CD de 16. Ahora, el goblin debe hacer
+
+82
+00:01:43,030 --> 00:01:43,040
+para una CD de 16. Ahora, el goblin debe hacer
+ 
+
+83
+00:01:43,040 --> 00:01:45,270
+para una CD de 16. Ahora, el goblin debe hacer
+una tirada de salvación de fortaleza y alcanzar o superar la
+
+84
+00:01:45,270 --> 00:01:45,280
+una tirada de salvación de fortaleza y alcanzar o superar la
+ 
+
+85
+00:01:45,280 --> 00:01:47,709
+una tirada de salvación de fortaleza y alcanzar o superar la
+CD del hechizo divino de Leander de 16 para tener
+
+86
+00:01:47,709 --> 00:01:47,719
+CD del hechizo divino de Leander de 16 para tener
+ 
+
+87
+00:01:47,719 --> 00:01:50,389
+CD del hechizo divino de Leander de 16 para tener
+éxito. En caso de éxito, se convierten en alimentación
+
+88
+00:01:50,389 --> 00:01:50,399
+éxito. En caso de éxito, se convierten en alimentación
+ 
+
+89
+00:01:50,399 --> 00:01:53,190
+éxito. En caso de éxito, se convierten en alimentación
+uno. En caso de fallo, se convierten en alimentación dos. En caso de un
+
+90
+00:01:53,190 --> 00:01:53,200
+uno. En caso de fallo, se convierten en alimentación dos. En caso de un
+ 
+
+91
+00:01:53,200 --> 00:01:55,270
+uno. En caso de fallo, se convierten en alimentación dos. En caso de un
+éxito crítico, no sucede nada y en
+
+92
+00:01:55,270 --> 00:01:55,280
+éxito crítico, no sucede nada y en
+ 
+
+93
+00:01:55,280 --> 00:01:57,190
+éxito crítico, no sucede nada y en
+un fallo crítico, el goblin se
+
+94
+00:01:57,190 --> 00:01:57,200
+un fallo crítico, el goblin se
+ 
+
+95
+00:01:57,200 --> 00:02:00,350
+un fallo crítico, el goblin se
+debilita tres.
+
+96
+00:02:00,350 --> 00:02:00,360
+debilita tres.
+ 
+
+97
+00:02:00,360 --> 00:02:02,029
+debilita tres.
+Avancemos un poco y ahora
+
+98
+00:02:02,029 --> 00:02:02,039
+Avancemos un poco y ahora
+ 
+
+99
+00:02:02,039 --> 00:02:04,550
+Avancemos un poco y ahora
+Leander es de tercer nivel. Lo primero que
+
+100
+00:02:04,550 --> 00:02:04,560
+Leander es de tercer nivel. Lo primero que
+ 
+
+101
+00:02:04,560 --> 00:02:06,630
+Leander es de tercer nivel. Lo primero que
+queremos hacer es ajustar su bonificación de ataque de hechizo divino
+
+102
+00:02:06,630 --> 00:02:06,640
+queremos hacer es ajustar su bonificación de ataque de hechizo divino
+ 
+
+103
+00:02:06,640 --> 00:02:09,350
+queremos hacer es ajustar su bonificación de ataque de hechizo divino
+y su CD, ya que ambas se
+
+104
+00:02:09,350 --> 00:02:09,360
+y su CD, ya que ambas se
+ 
+
+105
+00:02:09,360 --> 00:02:11,550
+y su CD, ya que ambas se
+basan en la competencia y la competencia
+
+106
+00:02:11,550 --> 00:02:11,560
+basan en la competencia y la competencia
+ 
+
+107
+00:02:11,560 --> 00:02:13,910
+basan en la competencia y la competencia
+aumenta con el nivel. Su
+
+108
+00:02:13,910 --> 00:02:13,920
+aumenta con el nivel. Su
+ 
+
+109
+00:02:13,920 --> 00:02:16,150
+aumenta con el nivel. Su
+bonificación de ataque de hechizo divino ahora es de más ocho y  eso
+
+110
+00:02:16,150 --> 00:02:16,160
+bonificación de ataque de hechizo divino ahora es de más ocho y  eso
+ 
+
+111
+00:02:16,160 --> 00:02:20,070
+bonificación de ataque de hechizo divino ahora es de más ocho y  eso
+significa que su CD de hechizo divino es 18 también en el
+
+112
+00:02:20,070 --> 00:02:20,080
+significa que su CD de hechizo divino es 18 también en el
+ 
+
+113
+00:02:20,080 --> 00:02:22,070
+significa que su CD de hechizo divino es 18 también en el
+tercer nivel puede aumentar una
+
+114
+00:02:22,070 --> 00:02:22,080
+tercer nivel puede aumentar una
+ 
+
+115
+00:02:22,080 --> 00:02:24,630
+tercer nivel puede aumentar una
+habilidad a competencia de experto elige
+
+116
+00:02:24,630 --> 00:02:24,640
+habilidad a competencia de experto elige
+ 
+
+117
+00:02:24,640 --> 00:02:27,070
+habilidad a competencia de experto elige
+aumentar su habilidad de religión a experto
+
+118
+00:02:27,070 --> 00:02:27,080
+aumentar su habilidad de religión a experto
+ 
+
+119
+00:02:27,080 --> 00:02:29,070
+aumentar su habilidad de religión a experto
+este aumento a competencia de experto con
+
+120
+00:02:29,070 --> 00:02:29,080
+este aumento a competencia de experto con
+ 
+
+121
+00:02:29,080 --> 00:02:32,150
+este aumento a competencia de experto con
+religión no tiene ningún impacto en su
+
+122
+00:02:32,150 --> 00:02:32,160
+religión no tiene ningún impacto en su
+ 
+
+123
+00:02:32,160 --> 00:02:35,350
+religión no tiene ningún impacto en su
+bonificación de ataque de hechizo divino o CD
+
+124
+00:02:35,350 --> 00:02:35,360
+bonificación de ataque de hechizo divino o CD
+ 
+
+125
+00:02:35,360 --> 00:02:37,470
+bonificación de ataque de hechizo divino o CD
+aunque la religión es la habilidad clave para la
+
+126
+00:02:37,470 --> 00:02:37,480
+aunque la religión es la habilidad clave para la
+ 
+
+127
+00:02:37,480 --> 00:02:40,070
+aunque la religión es la habilidad clave para la
+magia divina es completamente separada de la
+
+128
+00:02:40,070 --> 00:02:40,080
+magia divina es completamente separada de la
+ 
+
+129
+00:02:40,080 --> 00:02:42,430
+magia divina es completamente separada de la
+competencia de lanzamiento de hechizos y el
+
+130
+00:02:42,430 --> 00:02:42,440
+competencia de lanzamiento de hechizos y el
+ 
+
+131
+00:02:42,440 --> 00:02:44,550
+competencia de lanzamiento de hechizos y el
+nivel de competencia de lanzamiento de hechizos divinos de leander
+
+132
+00:02:44,550 --> 00:02:44,560
+nivel de competencia de lanzamiento de hechizos divinos de leander
+ 
+
+133
+00:02:44,560 --> 00:02:46,910
+nivel de competencia de lanzamiento de hechizos divinos de leander
+permanece en
+
+134
+00:02:46,910 --> 00:02:46,920
+permanece en
+ 
+
+135
+00:02:46,920 --> 00:02:49,270
+permanece en
+entrenado ahora avancemos rápidamente de nuevo al
+
+136
+00:02:49,270 --> 00:02:49,280
+entrenado ahora avancemos rápidamente de nuevo al
+ 
+
+137
+00:02:49,280 --> 00:02:51,670
+entrenado ahora avancemos rápidamente de nuevo al
+nivel cinco cada vez que aumentas de nivel
+
+138
+00:02:51,670 --> 00:02:51,680
+nivel cinco cada vez que aumentas de nivel
+ 
+
+139
+00:02:51,680 --> 00:02:53,070
+nivel cinco cada vez que aumentas de nivel
+necesitas ajustar tu bonificación de ataque de hechizo
+
+140
+00:02:53,070 --> 00:02:53,080
+necesitas ajustar tu bonificación de ataque de hechizo
+ 
+
+141
+00:02:53,080 --> 00:02:55,670
+necesitas ajustar tu bonificación de ataque de hechizo
+y CD pero antes de que hagamos eso hay
+
+142
+00:02:55,670 --> 00:02:55,680
+y CD pero antes de que hagamos eso hay
+ 
+
+143
+00:02:55,680 --> 00:02:58,030
+y CD pero antes de que hagamos eso hay
+un par de cosas más a considerar
+
+144
+00:02:58,030 --> 00:02:58,040
+un par de cosas más a considerar
+ 
+
+145
+00:02:58,040 --> 00:03:00,190
+un par de cosas más a considerar
+primero en el quinto nivel puedes aumentar
+
+146
+00:03:00,190 --> 00:03:00,200
+primero en el quinto nivel puedes aumentar
+ 
+
+147
+00:03:00,200 --> 00:03:02,550
+primero en el quinto nivel puedes aumentar
+cuatro de tus puntuaciones de característica leander
+
+148
+00:03:02,550 --> 00:03:02,560
+cuatro de tus puntuaciones de característica leander
+ 
+
+149
+00:03:02,560 --> 00:03:04,830
+cuatro de tus puntuaciones de característica leander
+elige destreza inteligencia sabiduría
+
+150
+00:03:04,830 --> 00:03:04,840
+elige destreza inteligencia sabiduría
+ 
+
+151
+00:03:04,840 --> 00:03:06,910
+elige destreza inteligencia sabiduría
+y carisma esto cambia sus
+
+152
+00:03:06,910 --> 00:03:06,920
+y carisma esto cambia sus
+ 
+
+153
+00:03:06,920 --> 00:03:09,470
+y carisma esto cambia sus
+puntuaciones de característica finales a 16 inteligencia 18
+
+154
+00:03:09,470 --> 00:03:09,480
+puntuaciones de característica finales a 16 inteligencia 18
+ 
+
+155
+00:03:09,480 --> 00:03:12,550
+puntuaciones de característica finales a 16 inteligencia 18
+sabiduría y 14 carisma luego necesitamos
+
+156
+00:03:12,550 --> 00:03:12,560
+sabiduría y 14 carisma luego necesitamos
+ 
+
+157
+00:03:12,560 --> 00:03:14,270
+sabiduría y 14 carisma luego necesitamos
+ajustar su bonificación de ataque de lanzamiento de hechizos divinos
+
+158
+00:03:14,270 --> 00:03:14,280
+ajustar su bonificación de ataque de lanzamiento de hechizos divinos
+ 
+
+159
+00:03:14,280 --> 00:03:17,309
+ajustar su bonificación de ataque de lanzamiento de hechizos divinos
+en CD el cálculo es
+
+160
+00:03:17,309 --> 00:03:17,319
+en CD el cálculo es
+ 
+
+161
+00:03:17,319 --> 00:03:20,589
+en CD el cálculo es
+modificador de característica más competencia y 18 sabiduría
+
+162
+00:03:20,589 --> 00:03:20,599
+modificador de característica más competencia y 18 sabiduría
+ 
+
+163
+00:03:20,599 --> 00:03:22,990
+modificador de característica más competencia y 18 sabiduría
+es un modificador más 4 y la
+
+164
+00:03:22,990 --> 00:03:23,000
+es un modificador más 4 y la
+ 
+
+165
+00:03:23,000 --> 00:03:26,990
+es un modificador más 4 y la
+competencia entrenada es 2 más nivel 4 + 2 más
+
+166
+00:03:26,990 --> 00:03:27,000
+competencia entrenada es 2 más nivel 4 + 2 más
+ 
+
+167
+00:03:27,000 --> 00:03:29,350
+competencia entrenada es 2 más nivel 4 + 2 más
+quinto nivel otorga una bonificación final de ataque de hechizo divino
+
+168
+00:03:29,350 --> 00:03:29,360
+quinto nivel otorga una bonificación final de ataque de hechizo divino
+ 
+
+169
+00:03:29,360 --> 00:03:32,030
+quinto nivel otorga una bonificación final de ataque de hechizo divino
+B de  más 11 y eso hace que
+
+170
+00:03:32,030 --> 00:03:32,040
+B de  más 11 y eso hace que
+ 
+
+171
+00:03:32,040 --> 00:03:35,550
+B de  más 11 y eso hace que
+su CD de hechizo Divino sea 21 también en el quinto
+
+172
+00:03:35,550 --> 00:03:35,560
+su CD de hechizo Divino sea 21 también en el quinto
+ 
+
+173
+00:03:35,560 --> 00:03:37,429
+su CD de hechizo Divino sea 21 también en el quinto
+nivel Leander puede elegir una nueva
+
+174
+00:03:37,429 --> 00:03:37,439
+nivel Leander puede elegir una nueva
+ 
+
+175
+00:03:37,439 --> 00:03:40,270
+nivel Leander puede elegir una nueva
+dote de ascendencia selecciona magia de otro mundo
+
+176
+00:03:40,270 --> 00:03:40,280
+dote de ascendencia selecciona magia de otro mundo
+ 
+
+177
+00:03:40,280 --> 00:03:42,550
+dote de ascendencia selecciona magia de otro mundo
+que le permite lanzar un
+
+178
+00:03:42,550 --> 00:03:42,560
+que le permite lanzar un
+ 
+
+179
+00:03:42,560 --> 00:03:45,509
+que le permite lanzar un
+truco Arcano como hechizo innato elige
+
+180
+00:03:45,509 --> 00:03:45,519
+truco Arcano como hechizo innato elige
+ 
+
+181
+00:03:45,519 --> 00:03:47,990
+truco Arcano como hechizo innato elige
+Arco eléctrico como ese hechizo y dado que
+
+182
+00:03:47,990 --> 00:03:48,000
+Arco eléctrico como ese hechizo y dado que
+ 
+
+183
+00:03:48,000 --> 00:03:50,869
+Arco eléctrico como ese hechizo y dado que
+este es un hechizo innato no lo lanza
+
+184
+00:03:50,869 --> 00:03:50,879
+este es un hechizo innato no lo lanza
+ 
+
+185
+00:03:50,879 --> 00:03:52,949
+este es un hechizo innato no lo lanza
+con las mismas bonificaciones que usa para sus
+
+186
+00:03:52,949 --> 00:03:52,959
+con las mismas bonificaciones que usa para sus
+ 
+
+187
+00:03:52,959 --> 00:03:56,030
+con las mismas bonificaciones que usa para sus
+hechizos Divinos de clérigo estos se basan en la
+
+188
+00:03:56,030 --> 00:03:56,040
+hechizos Divinos de clérigo estos se basan en la
+ 
+
+189
+00:03:56,040 --> 00:03:58,550
+hechizos Divinos de clérigo estos se basan en la
+sabiduría como modificador de habilidad clave pero los
+
+190
+00:03:58,550 --> 00:03:58,560
+sabiduría como modificador de habilidad clave pero los
+ 
+
+191
+00:03:58,560 --> 00:04:00,229
+sabiduría como modificador de habilidad clave pero los
+hechizos innatos usan
+
+192
+00:04:00,229 --> 00:04:00,239
+hechizos innatos usan
+ 
+
+193
+00:04:00,239 --> 00:04:03,270
+hechizos innatos usan
+Carisma así que calculemos su CD de hechizo
+
+194
+00:04:03,270 --> 00:04:03,280
+Carisma así que calculemos su CD de hechizo
+ 
+
+195
+00:04:03,280 --> 00:04:06,149
+Carisma así que calculemos su CD de hechizo
+para Arco eléctrico la CD de hechizo es 10 más el
+
+196
+00:04:06,149 --> 00:04:06,159
+para Arco eléctrico la CD de hechizo es 10 más el
+ 
+
+197
+00:04:06,159 --> 00:04:08,350
+para Arco eléctrico la CD de hechizo es 10 más el
+ataque de hechizo así que comenzaremos allí
+
+198
+00:04:08,350 --> 00:04:08,360
+ataque de hechizo así que comenzaremos allí
+ 
+
+199
+00:04:08,360 --> 00:04:11,030
+ataque de hechizo así que comenzaremos allí
+calculando la bonificación de ataque de hechizo el
+
+200
+00:04:11,030 --> 00:04:11,040
+calculando la bonificación de ataque de hechizo el
+ 
+
+201
+00:04:11,040 --> 00:04:13,149
+calculando la bonificación de ataque de hechizo el
+ataque de hechizo es modificador de habilidad más
+
+202
+00:04:13,149 --> 00:04:13,159
+ataque de hechizo es modificador de habilidad más
+ 
+
+203
+00:04:13,159 --> 00:04:16,349
+ataque de hechizo es modificador de habilidad más
+competencia su puntuación de Carisma es 14
+
+204
+00:04:16,349 --> 00:04:16,359
+competencia su puntuación de Carisma es 14
+ 
+
+205
+00:04:16,359 --> 00:04:18,870
+competencia su puntuación de Carisma es 14
+que es un modificador de más dos y
+
+206
+00:04:18,870 --> 00:04:18,880
+que es un modificador de más dos y
+ 
+
+207
+00:04:18,880 --> 00:04:21,030
+que es un modificador de más dos y
+siempre tienes al menos competencia entrenada
+
+208
+00:04:21,030 --> 00:04:21,040
+siempre tienes al menos competencia entrenada
+ 
+
+209
+00:04:21,040 --> 00:04:23,510
+siempre tienes al menos competencia entrenada
+cuando lanzas hechizos innatos que es 2
+
+210
+00:04:23,510 --> 00:04:23,520
+cuando lanzas hechizos innatos que es 2
+ 
+
+211
+00:04:23,520 --> 00:04:26,230
+cuando lanzas hechizos innatos que es 2
+más el nivel así que dos para sabiduría más dos
+
+212
+00:04:26,230 --> 00:04:26,240
+más el nivel así que dos para sabiduría más dos
+ 
+
+213
+00:04:26,240 --> 00:04:28,510
+más el nivel así que dos para sabiduría más dos
+para competencia entrenada más cinco para
+
+214
+00:04:28,510 --> 00:04:28,520
+para competencia entrenada más cinco para
+ 
+
+215
+00:04:28,520 --> 00:04:31,430
+para competencia entrenada más cinco para
+su nivel es igual a una bonificación final de ataque de hechizo innato
+
+216
+00:04:31,430 --> 00:04:31,440
+su nivel es igual a una bonificación final de ataque de hechizo innato
+ 
+
+217
+00:04:31,440 --> 00:04:35,070
+su nivel es igual a una bonificación final de ataque de hechizo innato
+de + 9 y 10 más eso
+
+218
+00:04:35,070 --> 00:04:35,080
+de + 9 y 10 más eso
+ 
+
+219
+00:04:35,080 --> 00:04:39,510
+de + 9 y 10 más eso
+hace una CD de hechizo innato de 19 así que para
+
+220
+00:04:39,510 --> 00:04:39,520
+hace una CD de hechizo innato de 19 así que para
+ 
+
+221
+00:04:39,520 --> 00:04:41,990
+hace una CD de hechizo innato de 19 así que para
+resumir cuando Leander lanza un hechizo de  la
+
+222
+00:04:41,990 --> 00:04:42,000
+resumir cuando Leander lanza un hechizo de  la
+ 
+
+223
+00:04:42,000 --> 00:04:44,710
+resumir cuando Leander lanza un hechizo de  la
+lista de hechizos divinos tiene una bonificación de ataque de hechizo
+
+224
+00:04:44,710 --> 00:04:44,720
+lista de hechizos divinos tiene una bonificación de ataque de hechizo
+ 
+
+225
+00:04:44,720 --> 00:04:48,550
+lista de hechizos divinos tiene una bonificación de ataque de hechizo
+de +11 y una CD de hechizo de 21,
+
+226
+00:04:48,550 --> 00:04:48,560
+de +11 y una CD de hechizo de 21,
+ 
+
+227
+00:04:48,560 --> 00:04:51,310
+de +11 y una CD de hechizo de 21,
+pero cuando lanza un hechizo innato tiene
+
+228
+00:04:51,310 --> 00:04:51,320
+pero cuando lanza un hechizo innato tiene
+ 
+
+229
+00:04:51,320 --> 00:04:53,510
+pero cuando lanza un hechizo innato tiene
+una bonificación de ataque de hechizo de +n y una
+
+230
+00:04:53,510 --> 00:04:53,520
+una bonificación de ataque de hechizo de +n y una
+ 
+
+231
+00:04:53,520 --> 00:04:56,350
+una bonificación de ataque de hechizo de +n y una
+CD de hechizo de
+
+232
+00:04:56,350 --> 00:04:56,360
+CD de hechizo de
+ 
+
+233
+00:04:56,360 --> 00:04:59,150
+CD de hechizo de
+19. Avancemos un nivel más al
+
+234
+00:04:59,150 --> 00:04:59,160
+19. Avancemos un nivel más al
+ 
+
+235
+00:04:59,160 --> 00:05:01,469
+19. Avancemos un nivel más al
+sexto con su dote de clase. En este nivel,
+
+236
+00:05:01,469 --> 00:05:01,479
+sexto con su dote de clase. En este nivel,
+ 
+
+237
+00:05:01,479 --> 00:05:03,469
+sexto con su dote de clase. En este nivel,
+decide hacerse multiclase en mago
+
+238
+00:05:03,469 --> 00:05:03,479
+decide hacerse multiclase en mago
+ 
+
+239
+00:05:03,479 --> 00:05:06,029
+decide hacerse multiclase en mago
+seleccionando esa dote de dedicación. Esto ahora
+
+240
+00:05:06,029 --> 00:05:06,039
+seleccionando esa dote de dedicación. Esto ahora
+ 
+
+241
+00:05:06,039 --> 00:05:07,950
+seleccionando esa dote de dedicación. Esto ahora
+le otorga la capacidad de lanzar
+
+242
+00:05:07,950 --> 00:05:07,960
+le otorga la capacidad de lanzar
+ 
+
+243
+00:05:07,960 --> 00:05:10,550
+le otorga la capacidad de lanzar
+hechizos arcanos con competencia entrenada. Su
+
+244
+00:05:10,550 --> 00:05:10,560
+hechizos arcanos con competencia entrenada. Su
+ 
+
+245
+00:05:10,560 --> 00:05:12,350
+hechizos arcanos con competencia entrenada. Su
+bonificación de ataque de hechizo para estos hechizos se
+
+246
+00:05:12,350 --> 00:05:12,360
+bonificación de ataque de hechizo para estos hechizos se
+ 
+
+247
+00:05:12,360 --> 00:05:15,110
+bonificación de ataque de hechizo para estos hechizos se
+basará en la inteligencia, que es 16, por lo que se
+
+248
+00:05:15,110 --> 00:05:15,120
+basará en la inteligencia, que es 16, por lo que se
+ 
+
+249
+00:05:15,120 --> 00:05:16,909
+basará en la inteligencia, que es 16, por lo que se
+calcula como tres para la
+
+250
+00:05:16,909 --> 00:05:16,919
+calcula como tres para la
+ 
+
+251
+00:05:16,919 --> 00:05:18,950
+calcula como tres para la
+inteligencia, más dos para la
+
+252
+00:05:18,950 --> 00:05:18,960
+inteligencia, más dos para la
+ 
+
+253
+00:05:18,960 --> 00:05:21,870
+inteligencia, más dos para la
+competencia entrenada, más seis para su nivel y
+
+254
+00:05:21,870 --> 00:05:21,880
+competencia entrenada, más seis para su nivel y
+ 
+
+255
+00:05:21,880 --> 00:05:24,710
+competencia entrenada, más seis para su nivel y
+eso hace una bonificación total de +11 y
+
+256
+00:05:24,710 --> 00:05:24,720
+eso hace una bonificación total de +11 y
+ 
+
+257
+00:05:24,720 --> 00:05:28,790
+eso hace una bonificación total de +11 y
+una CD de hechizo de 21. Así que, como clérigo de sexto nivel, tiene
+
+258
+00:05:28,790 --> 00:05:28,800
+una CD de hechizo de 21. Así que, como clérigo de sexto nivel, tiene
+ 
+
+259
+00:05:28,800 --> 00:05:31,270
+una CD de hechizo de 21. Así que, como clérigo de sexto nivel, tiene
+múltiples clanes con mago y es capaz
+
+260
+00:05:31,270 --> 00:05:31,280
+múltiples clanes con mago y es capaz
+ 
+
+261
+00:05:31,280 --> 00:05:33,510
+múltiples clanes con mago y es capaz
+de lanzar Arco eléctrico de forma innata por su
+
+262
+00:05:33,510 --> 00:05:33,520
+de lanzar Arco eléctrico de forma innata por su
+ 
+
+263
+00:05:33,520 --> 00:05:36,390
+de lanzar Arco eléctrico de forma innata por su
+ascendencia. El más débil lanza sus hechizos de clérigo
+
+264
+00:05:36,390 --> 00:05:36,400
+ascendencia. El más débil lanza sus hechizos de clérigo
+ 
+
+265
+00:05:36,400 --> 00:05:38,870
+ascendencia. El más débil lanza sus hechizos de clérigo
+con una bonificación de ataque de A+12 en una CD de hechizo de
+
+266
+00:05:38,870 --> 00:05:38,880
+con una bonificación de ataque de A+12 en una CD de hechizo de
+ 
+
+267
+00:05:38,880 --> 00:05:41,790
+con una bonificación de ataque de A+12 en una CD de hechizo de
+22. Lanzó Arco eléctrico como un
+
+268
+00:05:41,790 --> 00:05:41,800
+22. Lanzó Arco eléctrico como un
+ 
+
+269
+00:05:41,800 --> 00:05:44,790
+22. Lanzó Arco eléctrico como un
+hechizo innato con una CD de hechizo de 20 y lanzó
+
+270
+00:05:44,790 --> 00:05:44,800
+hechizo innato con una CD de hechizo de 20 y lanzó
+ 
+
+271
+00:05:44,800 --> 00:05:47,550
+hechizo innato con una CD de hechizo de 20 y lanzó
+sus hechizos de mago con una bonificación de ataque de +11
+
+272
+00:05:47,550 --> 00:05:47,560
+sus hechizos de mago con una bonificación de ataque de +11
+ 
+
+273
+00:05:47,560 --> 00:05:50,870
+sus hechizos de mago con una bonificación de ataque de +11
+y una CD de hechizo de  21 tres
+
+274
+00:05:50,870 --> 00:05:50,880
+y una CD de hechizo de  21 tres
+ 
+
+275
+00:05:50,880 --> 00:05:52,790
+y una CD de hechizo de  21 tres
+fuentes diferentes para lanzar hechizos con
+
+276
+00:05:52,790 --> 00:05:52,800
+fuentes diferentes para lanzar hechizos con
+ 
+
+277
+00:05:52,800 --> 00:05:56,309
+fuentes diferentes para lanzar hechizos con
+tres bonificaciones de ataque diferentes en
+
+278
+00:05:56,309 --> 00:05:56,319
+tres bonificaciones de ataque diferentes en
+ 
+
+279
+00:05:56,319 --> 00:05:59,390
+tres bonificaciones de ataque diferentes en
+DCS y luego en el séptimo nivel Leander
+
+280
+00:05:59,390 --> 00:05:59,400
+DCS y luego en el séptimo nivel Leander
+ 
+
+281
+00:05:59,400 --> 00:06:01,670
+DCS y luego en el séptimo nivel Leander
+obtuvo la Competencia experta en lanzamiento de
+
+282
+00:06:01,670 --> 00:06:01,680
+obtuvo la Competencia experta en lanzamiento de
+ 
+
+283
+00:06:01,680 --> 00:06:04,189
+obtuvo la Competencia experta en lanzamiento de
+hechizos divinos la competencia experta otorga una
+
+284
+00:06:04,189 --> 00:06:04,199
+hechizos divinos la competencia experta otorga una
+ 
+
+285
+00:06:04,199 --> 00:06:06,710
+hechizos divinos la competencia experta otorga una
+bonificación de cuatro más el nivel del personaje y
+
+286
+00:06:06,710 --> 00:06:06,720
+bonificación de cuatro más el nivel del personaje y
+ 
+
+287
+00:06:06,720 --> 00:06:08,909
+bonificación de cuatro más el nivel del personaje y
+esto ahora hace que su bonificación de ataque de hechizos
+
+288
+00:06:08,909 --> 00:06:08,919
+esto ahora hace que su bonificación de ataque de hechizos
+ 
+
+289
+00:06:08,919 --> 00:06:12,150
+esto ahora hace que su bonificación de ataque de hechizos
+con hechizos divinos sea más 15 y una
+
+290
+00:06:12,150 --> 00:06:12,160
+con hechizos divinos sea más 15 y una
+ 
+
+291
+00:06:12,160 --> 00:06:13,390
+con hechizos divinos sea más 15 y una
+CD de hechizo de
+
+292
+00:06:13,390 --> 00:06:13,400
+CD de hechizo de
+ 
+
+293
+00:06:13,400 --> 00:06:16,430
+CD de hechizo de
+25, puede lanzar Arco eléctrico con una
+
+294
+00:06:16,430 --> 00:06:16,440
+25, puede lanzar Arco eléctrico con una
+ 
+
+295
+00:06:16,440 --> 00:06:20,189
+25, puede lanzar Arco eléctrico con una
+CD de hechizo de 23 la razón por la que es 23 y no
+
+296
+00:06:20,189 --> 00:06:20,199
+CD de hechizo de 23 la razón por la que es 23 y no
+ 
+
+297
+00:06:20,199 --> 00:06:23,390
+CD de hechizo de 23 la razón por la que es 23 y no
+21 es porque los hechizos innatos se lanzan con
+
+298
+00:06:23,390 --> 00:06:23,400
+21 es porque los hechizos innatos se lanzan con
+ 
+
+299
+00:06:23,400 --> 00:06:25,270
+21 es porque los hechizos innatos se lanzan con
+la competencia de lanzamiento de hechizos más alta del personaje
+
+300
+00:06:25,270 --> 00:06:25,280
+la competencia de lanzamiento de hechizos más alta del personaje
+ 
+
+301
+00:06:25,280 --> 00:06:28,270
+la competencia de lanzamiento de hechizos más alta del personaje
+con un mínimo de entrenamiento, así que
+
+302
+00:06:28,270 --> 00:06:28,280
+con un mínimo de entrenamiento, así que
+ 
+
+303
+00:06:28,280 --> 00:06:30,469
+con un mínimo de entrenamiento, así que
+cuando Leander obtuvo la Competencia experta
+
+304
+00:06:30,469 --> 00:06:30,479
+cuando Leander obtuvo la Competencia experta
+ 
+
+305
+00:06:30,479 --> 00:06:32,990
+cuando Leander obtuvo la Competencia experta
+en lanzamiento de hechizos divinos, eso también
+
+306
+00:06:32,990 --> 00:06:33,000
+en lanzamiento de hechizos divinos, eso también
+ 
+
+307
+00:06:33,000 --> 00:06:35,749
+en lanzamiento de hechizos divinos, eso también
+aumentó su lanzamiento de hechizos innatos a
+
+308
+00:06:35,749 --> 00:06:35,759
+aumentó su lanzamiento de hechizos innatos a
+ 
+
+309
+00:06:35,759 --> 00:06:39,230
+aumentó su lanzamiento de hechizos innatos a
+competencia experta también, pero todavía lanza sus
+
+310
+00:06:39,230 --> 00:06:39,240
+competencia experta también, pero todavía lanza sus
+ 
+
+311
+00:06:39,240 --> 00:06:41,990
+competencia experta también, pero todavía lanza sus
+hechizos arcanos de mago con
+
+312
+00:06:41,990 --> 00:06:42,000
+hechizos arcanos de mago con
+ 
+
+313
+00:06:42,000 --> 00:06:44,430
+hechizos arcanos de mago con
+competencia entrenada y, por lo tanto, cuando lanza esos
+
+314
+00:06:44,430 --> 00:06:44,440
+competencia entrenada y, por lo tanto, cuando lanza esos
+ 
+
+315
+00:06:44,440 --> 00:06:47,510
+competencia entrenada y, por lo tanto, cuando lanza esos
+hechizos tiene A + 12 para atacar y una
+
+316
+00:06:47,510 --> 00:06:47,520
+hechizos tiene A + 12 para atacar y una
+ 
+
+317
+00:06:47,520 --> 00:06:50,350
+hechizos tiene A + 12 para atacar y una
+CD de hechizo de
+
+318
+00:06:50,350 --> 00:06:50,360
+CD de hechizo de
+ 
+
+319
+00:06:50,360 --> 00:06:52,990
+CD de hechizo de
+22 antes de cerrar, me gustaría tomarme un
+
+320
+00:06:52,990 --> 00:06:53,000
+22 antes de cerrar, me gustaría tomarme un
+ 
+
+321
+00:06:53,000 --> 00:06:55,430
+22 antes de cerrar, me gustaría tomarme un
+momento para agradecer a todos nuestros patrocinadores, estos
+
+322
+00:06:55,430 --> 00:06:55,440
+momento para agradecer a todos nuestros patrocinadores, estos
+ 
+
+323
+00:06:55,440 --> 00:06:57,350
+momento para agradecer a todos nuestros patrocinadores, estos
+videos no serían posibles sin
+
+324
+00:06:57,350 --> 00:06:57,360
+videos no serían posibles sin
+ 
+
+325
+00:06:57,360 --> 00:06:59,629
+videos no serían posibles sin
+su continua generosidad y apoyo. Los
+
+326
+00:06:59,629 --> 00:06:59,639
+su continua generosidad y apoyo. Los
+ 
+
+327
+00:06:59,639 --> 00:07:02,430
+su continua generosidad y apoyo. Los
+miembros de apoyo de la comunidad de Patreon de The Basics for Gamers
+
+328
+00:07:02,430 --> 00:07:02,440
+miembros de apoyo de la comunidad de Patreon de The Basics for Gamers
+ 
+
+329
+00:07:02,440 --> 00:07:04,070
+miembros de apoyo de la comunidad de Patreon de The Basics for Gamers
+reciben
+
+330
+00:07:04,070 --> 00:07:04,080
+reciben
+ 
+
+331
+00:07:04,080 --> 00:07:06,230
+reciben
+beneficios especiales como obtener  para votar sobre los
+
+332
+00:07:06,230 --> 00:07:06,240
+beneficios especiales como obtener  para votar sobre los
+ 
+
+333
+00:07:06,240 --> 00:07:08,350
+beneficios especiales como obtener  para votar sobre los
+temas que cubrimos en el futuro y
+
+334
+00:07:08,350 --> 00:07:08,360
+temas que cubrimos en el futuro y
+ 
+
+335
+00:07:08,360 --> 00:07:10,390
+temas que cubrimos en el futuro y
+también pueden ver estos videos una
+
+336
+00:07:10,390 --> 00:07:10,400
+también pueden ver estos videos una
+ 
+
+337
+00:07:10,400 --> 00:07:14,309
+también pueden ver estos videos una
+semana y agregarlos gratis antes que todos los demás,
+
+338
+00:07:14,309 --> 00:07:14,319
+semana y agregarlos gratis antes que todos los demás,
+ 
+
+339
+00:07:14,319 --> 00:07:15,909
+semana y agregarlos gratis antes que todos los demás,
+visite el enlace que se muestra a la izquierda de la
+
+340
+00:07:15,909 --> 00:07:15,919
+visite el enlace que se muestra a la izquierda de la
+ 
+
+341
+00:07:15,919 --> 00:07:17,749
+visite el enlace que se muestra a la izquierda de la
+pantalla y en la descripción si desea obtener
+
+342
+00:07:17,749 --> 00:07:17,759
+pantalla y en la descripción si desea obtener
+ 
+
+343
+00:07:17,759 --> 00:07:19,589
+pantalla y en la descripción si desea obtener
+más información sobre cómo convertirse en un
+
+344
+00:07:19,589 --> 00:07:19,599
+más información sobre cómo convertirse en un
+ 
+
+345
+00:07:19,599 --> 00:07:21,790
+más información sobre cómo convertirse en un
+patrocinador si desea apoyar este
+
+346
+00:07:21,790 --> 00:07:21,800
+patrocinador si desea apoyar este
+ 
+
+347
+00:07:21,800 --> 00:07:23,749
+patrocinador si desea apoyar este
+canal y ayudarlo a crecer, la forma más fácil
+
+348
+00:07:23,749 --> 00:07:23,759
+canal y ayudarlo a crecer, la forma más fácil
+ 
+
+349
+00:07:23,759 --> 00:07:26,150
+canal y ayudarlo a crecer, la forma más fácil
+de hacerlo es suscribiéndose y
+
+350
+00:07:26,150 --> 00:07:26,160
+de hacerlo es suscribiéndose y
+ 
+
+351
+00:07:26,160 --> 00:07:28,270
+de hacerlo es suscribiéndose y
+haciendo clic en el ícono de la campana para que se le
+
+352
+00:07:28,270 --> 00:07:28,280
+haciendo clic en el ícono de la campana para que se le
+ 
+
+353
+00:07:28,280 --> 00:07:31,029
+haciendo clic en el ícono de la campana para que se le
+notifique cuando se publiquen nuevos videos y
+
+354
+00:07:31,029 --> 00:07:31,039
+notifique cuando se publiquen nuevos videos y
+ 
+
+355
+00:07:31,039 --> 00:07:32,270
+notifique cuando se publiquen nuevos videos y
+siempre puede comunicarse con nosotros a través de nuestras
+
+356
+00:07:32,270 --> 00:07:32,280
+siempre puede comunicarse con nosotros a través de nuestras
+ 
+
+357
+00:07:32,280 --> 00:07:34,670
+siempre puede comunicarse con nosotros a través de nuestras
+páginas de Twitter y Facebook también gracias
+
+358
+00:07:34,670 --> 00:07:34,680
+páginas de Twitter y Facebook también gracias
+ 
+
+359
+00:07:34,680 --> 00:07:36,670
+páginas de Twitter y Facebook también gracias
+por mirar, cuídese y nos veremos
+
+360
+00:07:36,670 --> 00:07:36,680
+por mirar, cuídese y nos veremos
+ 
+
+361
+00:07:36,680 --> 00:07:41,160
+por mirar, cuídese y nos veremos
+pronto con más conceptos básicos de Pathfinder
+

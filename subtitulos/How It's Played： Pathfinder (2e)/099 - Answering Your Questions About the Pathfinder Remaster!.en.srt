@@ -1,0 +1,7305 @@
+1
+00:00:01,410 --> 00:00:05,070
+
+[Music]
+
+2
+00:00:05,070 --> 00:00:05,080
+[Music]
+ 
+
+3
+00:00:05,080 --> 00:00:08,110
+[Music]
+hey everybody Dave here and today I've
+
+4
+00:00:08,110 --> 00:00:08,120
+hey everybody Dave here and today I've
+ 
+
+5
+00:00:08,120 --> 00:00:11,270
+hey everybody Dave here and today I've
+got a little bit of a sneak peek preview
+
+6
+00:00:11,270 --> 00:00:11,280
+got a little bit of a sneak peek preview
+ 
+
+7
+00:00:11,280 --> 00:00:14,430
+got a little bit of a sneak peek preview
+at the new and upcoming player core
+
+8
+00:00:14,430 --> 00:00:14,440
+at the new and upcoming player core
+ 
+
+9
+00:00:14,440 --> 00:00:17,390
+at the new and upcoming player core
+remaster and GM core remaster books for
+
+10
+00:00:17,390 --> 00:00:17,400
+remaster and GM core remaster books for
+ 
+
+11
+00:00:17,400 --> 00:00:20,630
+remaster and GM core remaster books for
+Pathfinder second edition if you've been
+
+12
+00:00:20,630 --> 00:00:20,640
+Pathfinder second edition if you've been
+ 
+
+13
+00:00:20,640 --> 00:00:21,870
+Pathfinder second edition if you've been
+following this channel for a while
+
+14
+00:00:21,870 --> 00:00:21,880
+following this channel for a while
+ 
+
+15
+00:00:21,880 --> 00:00:23,509
+following this channel for a while
+you've probably seen my previews before
+
+16
+00:00:23,509 --> 00:00:23,519
+you've probably seen my previews before
+ 
+
+17
+00:00:23,519 --> 00:00:26,950
+you've probably seen my previews before
+the way I usually do them is by sharing
+
+18
+00:00:26,950 --> 00:00:26,960
+the way I usually do them is by sharing
+ 
+
+19
+00:00:26,960 --> 00:00:29,269
+the way I usually do them is by sharing
+pages from the book by sharing the table
+
+20
+00:00:29,269 --> 00:00:29,279
+pages from the book by sharing the table
+ 
+
+21
+00:00:29,279 --> 00:00:33,110
+pages from the book by sharing the table
+of content by doing a broad overview of
+
+22
+00:00:33,110 --> 00:00:33,120
+of content by doing a broad overview of
+ 
+
+23
+00:00:33,120 --> 00:00:35,670
+of content by doing a broad overview of
+page counts and that sort of thing as
+
+24
+00:00:35,670 --> 00:00:35,680
+page counts and that sort of thing as
+ 
+
+25
+00:00:35,680 --> 00:00:37,270
+page counts and that sort of thing as
+well as giving a little bit of an
+
+26
+00:00:37,270 --> 00:00:37,280
+well as giving a little bit of an
+ 
+
+27
+00:00:37,280 --> 00:00:39,430
+well as giving a little bit of an
+overview of the highlights for these
+
+28
+00:00:39,430 --> 00:00:39,440
+overview of the highlights for these
+ 
+
+29
+00:00:39,440 --> 00:00:40,910
+overview of the highlights for these
+remaster books I'm going to do it a
+
+30
+00:00:40,910 --> 00:00:40,920
+remaster books I'm going to do it a
+ 
+
+31
+00:00:40,920 --> 00:00:43,069
+remaster books I'm going to do it a
+little bit different because the
+
+32
+00:00:43,069 --> 00:00:43,079
+little bit different because the
+ 
+
+33
+00:00:43,079 --> 00:00:46,869
+little bit different because the
+majority of the concept is going to be
+
+34
+00:00:46,869 --> 00:00:46,879
+majority of the concept is going to be
+ 
+
+35
+00:00:46,879 --> 00:00:48,750
+majority of the concept is going to be
+very familiar if you have the core rule
+
+36
+00:00:48,750 --> 00:00:48,760
+very familiar if you have the core rule
+ 
+
+37
+00:00:48,760 --> 00:00:50,150
+very familiar if you have the core rule
+book if you have the game mastery guide
+
+38
+00:00:50,150 --> 00:00:50,160
+book if you have the game mastery guide
+ 
+
+39
+00:00:50,160 --> 00:00:52,270
+book if you have the game mastery guide
+for Pathfinder second edition then you
+
+40
+00:00:52,270 --> 00:00:52,280
+for Pathfinder second edition then you
+ 
+
+41
+00:00:52,280 --> 00:00:55,430
+for Pathfinder second edition then you
+largely already know what is in the
+
+42
+00:00:55,430 --> 00:00:55,440
+largely already know what is in the
+ 
+
+43
+00:00:55,440 --> 00:00:59,150
+largely already know what is in the
+books and how they function and instead
+
+44
+00:00:59,150 --> 00:00:59,160
+books and how they function and instead
+ 
+
+45
+00:00:59,160 --> 00:01:01,509
+books and how they function and instead
+for this video what I thought I would do
+
+46
+00:01:01,509 --> 00:01:01,519
+for this video what I thought I would do
+ 
+
+47
+00:01:01,519 --> 00:01:04,469
+for this video what I thought I would do
+is solicit questions from the community
+
+48
+00:01:04,469 --> 00:01:04,479
+is solicit questions from the community
+ 
+
+49
+00:01:04,479 --> 00:01:07,950
+is solicit questions from the community
+about whatever aspects of these two new
+
+50
+00:01:07,950 --> 00:01:07,960
+about whatever aspects of these two new
+ 
+
+51
+00:01:07,960 --> 00:01:11,230
+about whatever aspects of these two new
+books are are most curious to them in
+
+52
+00:01:11,230 --> 00:01:11,240
+books are are most curious to them in
+ 
+
+53
+00:01:11,240 --> 00:01:13,510
+books are are most curious to them in
+providing answers to those questions and
+
+54
+00:01:13,510 --> 00:01:13,520
+providing answers to those questions and
+ 
+
+55
+00:01:13,520 --> 00:01:16,030
+providing answers to those questions and
+that's exactly what I did I I posted on
+
+56
+00:01:16,030 --> 00:01:16,040
+that's exactly what I did I I posted on
+ 
+
+57
+00:01:16,040 --> 00:01:19,350
+that's exactly what I did I I posted on
+both my patreon as well as to Reddit and
+
+58
+00:01:19,350 --> 00:01:19,360
+both my patreon as well as to Reddit and
+ 
+
+59
+00:01:19,360 --> 00:01:20,910
+both my patreon as well as to Reddit and
+a lot of folks out there were kind
+
+60
+00:01:20,910 --> 00:01:20,920
+a lot of folks out there were kind
+ 
+
+61
+00:01:20,920 --> 00:01:23,109
+a lot of folks out there were kind
+enough to offer their their questions
+
+62
+00:01:23,109 --> 00:01:23,119
+enough to offer their their questions
+ 
+
+63
+00:01:23,119 --> 00:01:24,109
+enough to offer their their questions
+and the things that their most
+
+64
+00:01:24,109 --> 00:01:24,119
+and the things that their most
+ 
+
+65
+00:01:24,119 --> 00:01:25,789
+and the things that their most
+interested in learning about the new
+
+66
+00:01:25,789 --> 00:01:25,799
+interested in learning about the new
+ 
+
+67
+00:01:25,799 --> 00:01:28,670
+interested in learning about the new
+books and I'm going to go over a number
+
+68
+00:01:28,670 --> 00:01:28,680
+books and I'm going to go over a number
+ 
+
+69
+00:01:28,680 --> 00:01:31,910
+books and I'm going to go over a number
+of those with you today now I do want to
+
+70
+00:01:31,910 --> 00:01:31,920
+of those with you today now I do want to
+ 
+
+71
+00:01:31,920 --> 00:01:33,550
+of those with you today now I do want to
+do a couple of disclaimers first of all
+
+72
+00:01:33,550 --> 00:01:33,560
+do a couple of disclaimers first of all
+ 
+
+73
+00:01:33,560 --> 00:01:35,030
+do a couple of disclaimers first of all
+I should let you know that I was
+
+74
+00:01:35,030 --> 00:01:35,040
+I should let you know that I was
+ 
+
+75
+00:01:35,040 --> 00:01:38,710
+I should let you know that I was
+provided copies of these books by piso
+
+76
+00:01:38,710 --> 00:01:38,720
+provided copies of these books by piso
+ 
+
+77
+00:01:38,720 --> 00:01:40,350
+provided copies of these books by piso
+and also I'm not going to be able to go
+
+78
+00:01:40,350 --> 00:01:40,360
+and also I'm not going to be able to go
+ 
+
+79
+00:01:40,360 --> 00:01:42,870
+and also I'm not going to be able to go
+over literally every one of the
+
+80
+00:01:42,870 --> 00:01:42,880
+over literally every one of the
+ 
+
+81
+00:01:42,880 --> 00:01:45,429
+over literally every one of the
+questions that was posed to me um some
+
+82
+00:01:45,429 --> 00:01:45,439
+questions that was posed to me um some
+ 
+
+83
+00:01:45,439 --> 00:01:48,389
+questions that was posed to me um some
+of them um were just not applicable for
+
+84
+00:01:48,389 --> 00:01:48,399
+of them um were just not applicable for
+ 
+
+85
+00:01:48,399 --> 00:01:49,630
+of them um were just not applicable for
+example there were a lot of questions
+
+86
+00:01:49,630 --> 00:01:49,640
+example there were a lot of questions
+ 
+
+87
+00:01:49,640 --> 00:01:51,190
+example there were a lot of questions
+that were specific to either the
+
+88
+00:01:51,190 --> 00:01:51,200
+that were specific to either the
+ 
+
+89
+00:01:51,200 --> 00:01:54,030
+that were specific to either the
+champion or monk classes and those
+
+90
+00:01:54,030 --> 00:01:54,040
+champion or monk classes and those
+ 
+
+91
+00:01:54,040 --> 00:01:56,429
+champion or monk classes and those
+surprisingly are not included in player
+
+92
+00:01:56,429 --> 00:01:56,439
+surprisingly are not included in player
+ 
+
+93
+00:01:56,439 --> 00:01:59,190
+surprisingly are not included in player
+Core 1 instead we will have to wait
+
+94
+00:01:59,190 --> 00:01:59,200
+Core 1 instead we will have to wait
+ 
+
+95
+00:01:59,200 --> 00:02:02,749
+Core 1 instead we will have to wait
+until player Core 2 to uh get the new
+
+96
+00:02:02,749 --> 00:02:02,759
+until player Core 2 to uh get the new
+ 
+
+97
+00:02:02,759 --> 00:02:05,749
+until player Core 2 to uh get the new
+writeups for those classes and also some
+
+98
+00:02:05,749 --> 00:02:05,759
+writeups for those classes and also some
+ 
+
+99
+00:02:05,759 --> 00:02:08,830
+writeups for those classes and also some
+of the questions that were asked were um
+
+100
+00:02:08,830 --> 00:02:08,840
+of the questions that were asked were um
+ 
+
+101
+00:02:08,840 --> 00:02:10,830
+of the questions that were asked were um
+things that frankly I'm going to have to
+
+102
+00:02:10,830 --> 00:02:10,840
+things that frankly I'm going to have to
+ 
+
+103
+00:02:10,840 --> 00:02:14,670
+things that frankly I'm going to have to
+do a lot of analysis to really formulate
+
+104
+00:02:14,670 --> 00:02:14,680
+do a lot of analysis to really formulate
+ 
+
+105
+00:02:14,680 --> 00:02:17,949
+do a lot of analysis to really formulate
+an opinion on um and some other items
+
+106
+00:02:17,949 --> 00:02:17,959
+an opinion on um and some other items
+ 
+
+107
+00:02:17,959 --> 00:02:20,430
+an opinion on um and some other items
+were were just simply things that I
+
+108
+00:02:20,430 --> 00:02:20,440
+were were just simply things that I
+ 
+
+109
+00:02:20,440 --> 00:02:23,350
+were were just simply things that I
+couldn't get a definite uh yes no answer
+
+110
+00:02:23,350 --> 00:02:23,360
+couldn't get a definite uh yes no answer
+ 
+
+111
+00:02:23,360 --> 00:02:25,509
+couldn't get a definite uh yes no answer
+when I look them up and so again I'm I
+
+112
+00:02:25,509 --> 00:02:25,519
+when I look them up and so again I'm I
+ 
+
+113
+00:02:25,519 --> 00:02:27,509
+when I look them up and so again I'm I
+might take a little more time to do a
+
+114
+00:02:27,509 --> 00:02:27,519
+might take a little more time to do a
+ 
+
+115
+00:02:27,519 --> 00:02:29,190
+might take a little more time to do a
+little more digging uh with the
+
+116
+00:02:29,190 --> 00:02:29,200
+little more digging uh with the
+ 
+
+117
+00:02:29,200 --> 00:02:31,470
+little more digging uh with the
+materials have been provided before
+
+118
+00:02:31,470 --> 00:02:31,480
+materials have been provided before
+ 
+
+119
+00:02:31,480 --> 00:02:33,550
+materials have been provided before
+answering those questions but don't
+
+120
+00:02:33,550 --> 00:02:33,560
+answering those questions but don't
+ 
+
+121
+00:02:33,560 --> 00:02:35,430
+answering those questions but don't
+worry there's still a lot for us to
+
+122
+00:02:35,430 --> 00:02:35,440
+worry there's still a lot for us to
+ 
+
+123
+00:02:35,440 --> 00:02:37,990
+worry there's still a lot for us to
+cover today so with that all in mind
+
+124
+00:02:37,990 --> 00:02:38,000
+cover today so with that all in mind
+ 
+
+125
+00:02:38,000 --> 00:02:40,430
+cover today so with that all in mind
+let's go ahead and jump into the first
+
+126
+00:02:40,430 --> 00:02:40,440
+let's go ahead and jump into the first
+ 
+
+127
+00:02:40,440 --> 00:02:42,630
+let's go ahead and jump into the first
+question that was asked and it's all
+
+128
+00:02:42,630 --> 00:02:42,640
+question that was asked and it's all
+ 
+
+129
+00:02:42,640 --> 00:02:44,949
+question that was asked and it's all
+about recall knowledge we we have heard
+
+130
+00:02:44,949 --> 00:02:44,959
+about recall knowledge we we have heard
+ 
+
+131
+00:02:44,959 --> 00:02:48,070
+about recall knowledge we we have heard
+that recall knowledge is going to change
+
+132
+00:02:48,070 --> 00:02:48,080
+that recall knowledge is going to change
+ 
+
+133
+00:02:48,080 --> 00:02:51,949
+that recall knowledge is going to change
+and now finally in player core one we we
+
+134
+00:02:51,949 --> 00:02:51,959
+and now finally in player core one we we
+ 
+
+135
+00:02:51,959 --> 00:02:53,990
+and now finally in player core one we we
+have the U the new Rite up for for
+
+136
+00:02:53,990 --> 00:02:54,000
+have the U the new Rite up for for
+ 
+
+137
+00:02:54,000 --> 00:02:55,030
+have the U the new Rite up for for
+recall
+
+138
+00:02:55,030 --> 00:02:55,040
+recall
+ 
+
+139
+00:02:55,040 --> 00:02:58,550
+recall
+knowledge essentially what the change is
+
+140
+00:02:58,550 --> 00:02:58,560
+knowledge essentially what the change is
+ 
+
+141
+00:02:58,560 --> 00:03:02,229
+knowledge essentially what the change is
+is they're adapting a common house rule
+
+142
+00:03:02,229 --> 00:03:02,239
+is they're adapting a common house rule
+ 
+
+143
+00:03:02,239 --> 00:03:04,390
+is they're adapting a common house rule
+that I already used in my games and I
+
+144
+00:03:04,390 --> 00:03:04,400
+that I already used in my games and I
+ 
+
+145
+00:03:04,400 --> 00:03:06,430
+that I already used in my games and I
+know a lot of other people did as well
+
+146
+00:03:06,430 --> 00:03:06,440
+know a lot of other people did as well
+ 
+
+147
+00:03:06,440 --> 00:03:08,630
+know a lot of other people did as well
+where instead of taking the original
+
+148
+00:03:08,630 --> 00:03:08,640
+where instead of taking the original
+ 
+
+149
+00:03:08,640 --> 00:03:12,789
+where instead of taking the original
+rules which said that you gave the most
+
+150
+00:03:12,789 --> 00:03:12,799
+rules which said that you gave the most
+ 
+
+151
+00:03:12,799 --> 00:03:16,789
+rules which said that you gave the most
+commonly um the most commonly known fact
+
+152
+00:03:16,789 --> 00:03:16,799
+commonly um the most commonly known fact
+ 
+
+153
+00:03:16,799 --> 00:03:20,430
+commonly um the most commonly known fact
+about an item or a monster that's being
+
+154
+00:03:20,430 --> 00:03:20,440
+about an item or a monster that's being
+ 
+
+155
+00:03:20,440 --> 00:03:22,350
+about an item or a monster that's being
+identified or something like that with
+
+156
+00:03:22,350 --> 00:03:22,360
+identified or something like that with
+ 
+
+157
+00:03:22,360 --> 00:03:25,830
+identified or something like that with
+recall knowledge um instead we are
+
+158
+00:03:25,830 --> 00:03:25,840
+recall knowledge um instead we are
+ 
+
+159
+00:03:25,840 --> 00:03:28,710
+recall knowledge um instead we are
+turning it now in the new system you
+
+160
+00:03:28,710 --> 00:03:28,720
+turning it now in the new system you
+ 
+
+161
+00:03:28,720 --> 00:03:30,789
+turning it now in the new system you
+your player is going ask you one
+
+162
+00:03:30,789 --> 00:03:30,799
+your player is going ask you one
+ 
+
+163
+00:03:30,799 --> 00:03:32,789
+your player is going ask you one
+specific question they're not going to
+
+164
+00:03:32,789 --> 00:03:32,799
+specific question they're not going to
+ 
+
+165
+00:03:32,799 --> 00:03:35,949
+specific question they're not going to
+say I want to do recall knowledge on
+
+166
+00:03:35,949 --> 00:03:35,959
+say I want to do recall knowledge on
+ 
+
+167
+00:03:35,959 --> 00:03:38,949
+say I want to do recall knowledge on
+this windigo they might say I'm going to
+
+168
+00:03:38,949 --> 00:03:38,959
+this windigo they might say I'm going to
+ 
+
+169
+00:03:38,959 --> 00:03:41,710
+this windigo they might say I'm going to
+do recall knowledge and I would like to
+
+170
+00:03:41,710 --> 00:03:41,720
+do recall knowledge and I would like to
+ 
+
+171
+00:03:41,720 --> 00:03:45,990
+do recall knowledge and I would like to
+know if the the Windy go is weak to fire
+
+172
+00:03:45,990 --> 00:03:46,000
+know if the the Windy go is weak to fire
+ 
+
+173
+00:03:46,000 --> 00:03:48,630
+know if the the Windy go is weak to fire
+so it's going to be one question they
+
+174
+00:03:48,630 --> 00:03:48,640
+so it's going to be one question they
+ 
+
+175
+00:03:48,640 --> 00:03:52,190
+so it's going to be one question they
+ask and then the gy is going to make a a
+
+176
+00:03:52,190 --> 00:03:52,200
+ask and then the gy is going to make a a
+ 
+
+177
+00:03:52,200 --> 00:03:56,309
+ask and then the gy is going to make a a
+secret um skill check for that person's
+
+178
+00:03:56,309 --> 00:03:56,319
+secret um skill check for that person's
+ 
+
+179
+00:03:56,319 --> 00:03:59,789
+secret um skill check for that person's
+um recall knowledge check and if it is a
+
+180
+00:03:59,789 --> 00:03:59,799
+um recall knowledge check and if it is a
+ 
+
+181
+00:03:59,799 --> 00:04:01,670
+um recall knowledge check and if it is a
+success then they're going to answer
+
+182
+00:04:01,670 --> 00:04:01,680
+success then they're going to answer
+ 
+
+183
+00:04:01,680 --> 00:04:04,270
+success then they're going to answer
+that question if it is a failure nothing
+
+184
+00:04:04,270 --> 00:04:04,280
+that question if it is a failure nothing
+ 
+
+185
+00:04:04,280 --> 00:04:06,630
+that question if it is a failure nothing
+happens if it's a critical failure the
+
+186
+00:04:06,630 --> 00:04:06,640
+happens if it's a critical failure the
+ 
+
+187
+00:04:06,640 --> 00:04:09,149
+happens if it's a critical failure the
+GM is going to give them a false bit of
+
+188
+00:04:09,149 --> 00:04:09,159
+GM is going to give them a false bit of
+ 
+
+189
+00:04:09,159 --> 00:04:11,309
+GM is going to give them a false bit of
+information and if it's a critical
+
+190
+00:04:11,309 --> 00:04:11,319
+information and if it's a critical
+ 
+
+191
+00:04:11,319 --> 00:04:13,789
+information and if it's a critical
+success then the GM's going to answer
+
+192
+00:04:13,789 --> 00:04:13,799
+success then the GM's going to answer
+ 
+
+193
+00:04:13,799 --> 00:04:16,069
+success then the GM's going to answer
+that question and either expound on it
+
+194
+00:04:16,069 --> 00:04:16,079
+that question and either expound on it
+ 
+
+195
+00:04:16,079 --> 00:04:19,830
+that question and either expound on it
+with more related adjacent information
+
+196
+00:04:19,830 --> 00:04:19,840
+with more related adjacent information
+ 
+
+197
+00:04:19,840 --> 00:04:23,909
+with more related adjacent information
+or might um might uh just allow them to
+
+198
+00:04:23,909 --> 00:04:23,919
+or might um might uh just allow them to
+ 
+
+199
+00:04:23,919 --> 00:04:27,629
+or might um might uh just allow them to
+ask a second question as well so in a
+
+200
+00:04:27,629 --> 00:04:27,639
+ask a second question as well so in a
+ 
+
+201
+00:04:27,639 --> 00:04:29,230
+ask a second question as well so in a
+nutshell that's how recall knowledge is
+
+202
+00:04:29,230 --> 00:04:29,240
+nutshell that's how recall knowledge is
+ 
+
+203
+00:04:29,240 --> 00:04:31,629
+nutshell that's how recall knowledge is
+working now uh no more do we have to
+
+204
+00:04:31,629 --> 00:04:31,639
+working now uh no more do we have to
+ 
+
+205
+00:04:31,639 --> 00:04:34,070
+working now uh no more do we have to
+worry about the mystery of figuring out
+
+206
+00:04:34,070 --> 00:04:34,080
+worry about the mystery of figuring out
+ 
+
+207
+00:04:34,080 --> 00:04:37,270
+worry about the mystery of figuring out
+what would be the most commonly known uh
+
+208
+00:04:37,270 --> 00:04:37,280
+what would be the most commonly known uh
+ 
+
+209
+00:04:37,280 --> 00:04:39,749
+what would be the most commonly known uh
+trait or aspect of whatever recall
+
+210
+00:04:39,749 --> 00:04:39,759
+trait or aspect of whatever recall
+ 
+
+211
+00:04:39,759 --> 00:04:41,710
+trait or aspect of whatever recall
+knowledge is being applied to and
+
+212
+00:04:41,710 --> 00:04:41,720
+knowledge is being applied to and
+ 
+
+213
+00:04:41,720 --> 00:04:44,670
+knowledge is being applied to and
+instead uh the onus is on the player to
+
+214
+00:04:44,670 --> 00:04:44,680
+instead uh the onus is on the player to
+ 
+
+215
+00:04:44,680 --> 00:04:47,469
+instead uh the onus is on the player to
+ask us a specific question that they
+
+216
+00:04:47,469 --> 00:04:47,479
+ask us a specific question that they
+ 
+
+217
+00:04:47,479 --> 00:04:51,150
+ask us a specific question that they
+want answered so the second question was
+
+218
+00:04:51,150 --> 00:04:51,160
+want answered so the second question was
+ 
+
+219
+00:04:51,160 --> 00:04:54,469
+want answered so the second question was
+all about uh states of awareness in
+
+220
+00:04:54,469 --> 00:04:54,479
+all about uh states of awareness in
+ 
+
+221
+00:04:54,479 --> 00:04:56,430
+all about uh states of awareness in
+Stealth have there been any uh
+
+222
+00:04:56,430 --> 00:04:56,440
+Stealth have there been any uh
+ 
+
+223
+00:04:56,440 --> 00:04:59,990
+Stealth have there been any uh
+meaningful material changes to those and
+
+224
+00:04:59,990 --> 00:05:00,000
+meaningful material changes to those and
+ 
+
+225
+00:05:00,000 --> 00:05:03,029
+meaningful material changes to those and
+from an overview and reading of those
+
+226
+00:05:03,029 --> 00:05:03,039
+from an overview and reading of those
+ 
+
+227
+00:05:03,039 --> 00:05:05,790
+from an overview and reading of those
+pieces in the player core I do not see
+
+228
+00:05:05,790 --> 00:05:05,800
+pieces in the player core I do not see
+ 
+
+229
+00:05:05,800 --> 00:05:09,430
+pieces in the player core I do not see
+any meaningful material changes um that
+
+230
+00:05:09,430 --> 00:05:09,440
+any meaningful material changes um that
+ 
+
+231
+00:05:09,440 --> 00:05:12,310
+any meaningful material changes um that
+are applied to any of the uh states of
+
+232
+00:05:12,310 --> 00:05:12,320
+are applied to any of the uh states of
+ 
+
+233
+00:05:12,320 --> 00:05:15,790
+are applied to any of the uh states of
+awareness or to stealth moving on is
+
+234
+00:05:15,790 --> 00:05:15,800
+awareness or to stealth moving on is
+ 
+
+235
+00:05:15,800 --> 00:05:17,430
+awareness or to stealth moving on is
+kind of a big one and I'm going to have
+
+236
+00:05:17,430 --> 00:05:17,440
+kind of a big one and I'm going to have
+ 
+
+237
+00:05:17,440 --> 00:05:21,029
+kind of a big one and I'm going to have
+to kind of divide it into a number of
+
+238
+00:05:21,029 --> 00:05:21,039
+to kind of divide it into a number of
+ 
+
+239
+00:05:21,039 --> 00:05:23,430
+to kind of divide it into a number of
+different parts and these are all about
+
+240
+00:05:23,430 --> 00:05:23,440
+different parts and these are all about
+ 
+
+241
+00:05:23,440 --> 00:05:26,070
+different parts and these are all about
+the new damage types so how to how do
+
+242
+00:05:26,070 --> 00:05:26,080
+the new damage types so how to how do
+ 
+
+243
+00:05:26,080 --> 00:05:28,830
+the new damage types so how to how do
+vitality and void work how do holy and
+
+244
+00:05:28,830 --> 00:05:28,840
+vitality and void work how do holy and
+ 
+
+245
+00:05:28,840 --> 00:05:31,870
+vitality and void work how do holy and
+Unholy damage work and how does Spirit
+
+246
+00:05:31,870 --> 00:05:31,880
+Unholy damage work and how does Spirit
+ 
+
+247
+00:05:31,880 --> 00:05:35,230
+Unholy damage work and how does Spirit
+damage work so first up vitality and
+
+248
+00:05:35,230 --> 00:05:35,240
+damage work so first up vitality and
+ 
+
+249
+00:05:35,240 --> 00:05:37,550
+damage work so first up vitality and
+void damage as far as I can tell they
+
+250
+00:05:37,550 --> 00:05:37,560
+void damage as far as I can tell they
+ 
+
+251
+00:05:37,560 --> 00:05:40,309
+void damage as far as I can tell they
+are pretty much just onetoone
+
+252
+00:05:40,309 --> 00:05:40,319
+are pretty much just onetoone
+ 
+
+253
+00:05:40,319 --> 00:05:42,950
+are pretty much just onetoone
+correspondence to the positive and
+
+254
+00:05:42,950 --> 00:05:42,960
+correspondence to the positive and
+ 
+
+255
+00:05:42,960 --> 00:05:45,070
+correspondence to the positive and
+negative damage types that we already
+
+256
+00:05:45,070 --> 00:05:45,080
+negative damage types that we already
+ 
+
+257
+00:05:45,080 --> 00:05:49,150
+negative damage types that we already
+had uh Vitality damage will only harm
+
+258
+00:05:49,150 --> 00:05:49,160
+had uh Vitality damage will only harm
+ 
+
+259
+00:05:49,160 --> 00:05:52,230
+had uh Vitality damage will only harm
+Undead and uh the opposite is true void
+
+260
+00:05:52,230 --> 00:05:52,240
+Undead and uh the opposite is true void
+ 
+
+261
+00:05:52,240 --> 00:05:54,629
+Undead and uh the opposite is true void
+damage will only harm the
+
+262
+00:05:54,629 --> 00:05:54,639
+damage will only harm the
+ 
+
+263
+00:05:54,639 --> 00:05:59,550
+damage will only harm the
+living um then holy and Unholy so holy
+
+264
+00:05:59,550 --> 00:05:59,560
+living um then holy and Unholy so holy
+ 
+
+265
+00:05:59,560 --> 00:06:02,870
+living um then holy and Unholy so holy
+and Unholy damage types and the holy and
+
+266
+00:06:02,870 --> 00:06:02,880
+and Unholy damage types and the holy and
+ 
+
+267
+00:06:02,880 --> 00:06:07,070
+and Unholy damage types and the holy and
+Unholy traits are largely replacing the
+
+268
+00:06:07,070 --> 00:06:07,080
+Unholy traits are largely replacing the
+ 
+
+269
+00:06:07,080 --> 00:06:11,670
+Unholy traits are largely replacing the
+mechanical side of alignments so if you
+
+270
+00:06:11,670 --> 00:06:11,680
+mechanical side of alignments so if you
+ 
+
+271
+00:06:11,680 --> 00:06:13,589
+mechanical side of alignments so if you
+haven't heard the big news in the
+
+272
+00:06:13,589 --> 00:06:13,599
+haven't heard the big news in the
+ 
+
+273
+00:06:13,599 --> 00:06:15,909
+haven't heard the big news in the
+Pathfinder second edition remaster
+
+274
+00:06:15,909 --> 00:06:15,919
+Pathfinder second edition remaster
+ 
+
+275
+00:06:15,919 --> 00:06:19,350
+Pathfinder second edition remaster
+alignments are a thing of the past and
+
+276
+00:06:19,350 --> 00:06:19,360
+alignments are a thing of the past and
+ 
+
+277
+00:06:19,360 --> 00:06:22,230
+alignments are a thing of the past and
+so there's still a mechanical need
+
+278
+00:06:22,230 --> 00:06:22,240
+so there's still a mechanical need
+ 
+
+279
+00:06:22,240 --> 00:06:25,150
+so there's still a mechanical need
+especially for divine characters to be
+
+280
+00:06:25,150 --> 00:06:25,160
+especially for divine characters to be
+ 
+
+281
+00:06:25,160 --> 00:06:28,749
+especially for divine characters to be
+able to apply some sort of additional
+
+282
+00:06:28,749 --> 00:06:28,759
+able to apply some sort of additional
+ 
+
+283
+00:06:28,759 --> 00:06:31,749
+able to apply some sort of additional
+effect when they're fighting um fiends
+
+284
+00:06:31,749 --> 00:06:31,759
+effect when they're fighting um fiends
+ 
+
+285
+00:06:31,759 --> 00:06:34,309
+effect when they're fighting um fiends
+and evil doers and so forth but we can't
+
+286
+00:06:34,309 --> 00:06:34,319
+and evil doers and so forth but we can't
+ 
+
+287
+00:06:34,319 --> 00:06:36,430
+and evil doers and so forth but we can't
+say evil doer anymore cuz evil is not a
+
+288
+00:06:36,430 --> 00:06:36,440
+say evil doer anymore cuz evil is not a
+ 
+
+289
+00:06:36,440 --> 00:06:37,950
+say evil doer anymore cuz evil is not a
+mechanical concept
+
+290
+00:06:37,950 --> 00:06:37,960
+mechanical concept
+ 
+
+291
+00:06:37,960 --> 00:06:40,510
+mechanical concept
+anymore so first thing you need to know
+
+292
+00:06:40,510 --> 00:06:40,520
+anymore so first thing you need to know
+ 
+
+293
+00:06:40,520 --> 00:06:42,430
+anymore so first thing you need to know
+is there is this thing called being
+
+294
+00:06:42,430 --> 00:06:42,440
+is there is this thing called being
+ 
+
+295
+00:06:42,440 --> 00:06:44,469
+is there is this thing called being
+Sanctified and
+
+296
+00:06:44,469 --> 00:06:44,479
+Sanctified and
+ 
+
+297
+00:06:44,479 --> 00:06:47,469
+Sanctified and
+sanctification when you are a uh when
+
+298
+00:06:47,469 --> 00:06:47,479
+sanctification when you are a uh when
+ 
+
+299
+00:06:47,479 --> 00:06:49,510
+sanctification when you are a uh when
+you choose to play a cleric and this is
+
+300
+00:06:49,510 --> 00:06:49,520
+you choose to play a cleric and this is
+ 
+
+301
+00:06:49,520 --> 00:06:53,270
+you choose to play a cleric and this is
+really in player core one the only area
+
+302
+00:06:53,270 --> 00:06:53,280
+really in player core one the only area
+ 
+
+303
+00:06:53,280 --> 00:06:55,710
+really in player core one the only area
+with this comes into effect we'll have
+
+304
+00:06:55,710 --> 00:06:55,720
+with this comes into effect we'll have
+ 
+
+305
+00:06:55,720 --> 00:06:59,390
+with this comes into effect we'll have
+to wait for player Core 2 to see how uh
+
+306
+00:06:59,390 --> 00:06:59,400
+to wait for player Core 2 to see how uh
+ 
+
+307
+00:06:59,400 --> 00:07:02,390
+to wait for player Core 2 to see how uh
+sanctification applies to uh Champions
+
+308
+00:07:02,390 --> 00:07:02,400
+sanctification applies to uh Champions
+ 
+
+309
+00:07:02,400 --> 00:07:06,670
+sanctification applies to uh Champions
+and potentially other other uh classes
+
+310
+00:07:06,670 --> 00:07:06,680
+and potentially other other uh classes
+ 
+
+311
+00:07:06,680 --> 00:07:11,309
+and potentially other other uh classes
+but um if you are a cleric you must
+
+312
+00:07:11,309 --> 00:07:11,319
+but um if you are a cleric you must
+ 
+
+313
+00:07:11,319 --> 00:07:14,869
+but um if you are a cleric you must
+choose a god you worship and that God is
+
+314
+00:07:14,869 --> 00:07:14,879
+choose a god you worship and that God is
+ 
+
+315
+00:07:14,879 --> 00:07:16,950
+choose a god you worship and that God is
+going to have some manner of
+
+316
+00:07:16,950 --> 00:07:16,960
+going to have some manner of
+ 
+
+317
+00:07:16,960 --> 00:07:20,029
+going to have some manner of
+sanctification listing in their little
+
+318
+00:07:20,029 --> 00:07:20,039
+sanctification listing in their little
+ 
+
+319
+00:07:20,039 --> 00:07:23,670
+sanctification listing in their little
+write up in the uh in the rule book and
+
+320
+00:07:23,670 --> 00:07:23,680
+write up in the uh in the rule book and
+ 
+
+321
+00:07:23,680 --> 00:07:27,869
+write up in the uh in the rule book and
+so that is either going to say if that
+
+322
+00:07:27,869 --> 00:07:27,879
+so that is either going to say if that
+ 
+
+323
+00:07:27,879 --> 00:07:31,830
+so that is either going to say if that
+the clerics that follow that God must be
+
+324
+00:07:31,830 --> 00:07:31,840
+the clerics that follow that God must be
+ 
+
+325
+00:07:31,840 --> 00:07:34,749
+the clerics that follow that God must be
+Sanctified as holy or must be Sanctified
+
+326
+00:07:34,749 --> 00:07:34,759
+Sanctified as holy or must be Sanctified
+ 
+
+327
+00:07:34,759 --> 00:07:38,950
+Sanctified as holy or must be Sanctified
+as Unholy or it could say that the
+
+328
+00:07:38,950 --> 00:07:38,960
+as Unholy or it could say that the
+ 
+
+329
+00:07:38,960 --> 00:07:42,550
+as Unholy or it could say that the
+cleric is required to choose one of
+
+330
+00:07:42,550 --> 00:07:42,560
+cleric is required to choose one of
+ 
+
+331
+00:07:42,560 --> 00:07:46,710
+cleric is required to choose one of
+those two or it may say that the cleric
+
+332
+00:07:46,710 --> 00:07:46,720
+those two or it may say that the cleric
+ 
+
+333
+00:07:46,720 --> 00:07:50,670
+those two or it may say that the cleric
+can choose one of those two if a cleric
+
+334
+00:07:50,670 --> 00:07:50,680
+can choose one of those two if a cleric
+ 
+
+335
+00:07:50,680 --> 00:07:52,909
+can choose one of those two if a cleric
+follows a God where the sanctification
+
+336
+00:07:52,909 --> 00:07:52,919
+follows a God where the sanctification
+ 
+
+337
+00:07:52,919 --> 00:07:55,149
+follows a God where the sanctification
+listing says that they can choose either
+
+338
+00:07:55,149 --> 00:07:55,159
+listing says that they can choose either
+ 
+
+339
+00:07:55,159 --> 00:07:57,790
+listing says that they can choose either
+holy or or Unholy that means that they
+
+340
+00:07:57,790 --> 00:07:57,800
+holy or or Unholy that means that they
+ 
+
+341
+00:07:57,800 --> 00:08:00,189
+holy or or Unholy that means that they
+can also choose none of the the above
+
+342
+00:08:00,189 --> 00:08:00,199
+can also choose none of the the above
+ 
+
+343
+00:08:00,199 --> 00:08:05,350
+can also choose none of the the above
+and not be Sanctified but uh in general
+
+344
+00:08:05,350 --> 00:08:05,360
+and not be Sanctified but uh in general
+ 
+
+345
+00:08:05,360 --> 00:08:09,629
+and not be Sanctified but uh in general
+uh good aligned so to speak uh deities
+
+346
+00:08:09,629 --> 00:08:09,639
+uh good aligned so to speak uh deities
+ 
+
+347
+00:08:09,639 --> 00:08:12,230
+uh good aligned so to speak uh deities
+are going to require their their
+
+348
+00:08:12,230 --> 00:08:12,240
+are going to require their their
+ 
+
+349
+00:08:12,240 --> 00:08:14,909
+are going to require their their
+followers uh or their clerics to be
+
+350
+00:08:14,909 --> 00:08:14,919
+followers uh or their clerics to be
+ 
+
+351
+00:08:14,919 --> 00:08:19,990
+followers uh or their clerics to be
+specific to be holy uh evil deities are
+
+352
+00:08:19,990 --> 00:08:20,000
+specific to be holy uh evil deities are
+ 
+
+353
+00:08:20,000 --> 00:08:23,110
+specific to be holy uh evil deities are
+probably going to ask that their um
+
+354
+00:08:23,110 --> 00:08:23,120
+probably going to ask that their um
+ 
+
+355
+00:08:23,120 --> 00:08:27,309
+probably going to ask that their um
+their clerics be Unholy and neutral in
+
+356
+00:08:27,309 --> 00:08:27,319
+their clerics be Unholy and neutral in
+ 
+
+357
+00:08:27,319 --> 00:08:29,550
+their clerics be Unholy and neutral in
+other French cases it could be you get
+
+358
+00:08:29,550 --> 00:08:29,560
+other French cases it could be you get
+ 
+
+359
+00:08:29,560 --> 00:08:31,390
+other French cases it could be you get
+to choose if you want to be holy or
+
+360
+00:08:31,390 --> 00:08:31,400
+to choose if you want to be holy or
+ 
+
+361
+00:08:31,400 --> 00:08:34,949
+to choose if you want to be holy or
+Unholy or you get to choose either of
+
+362
+00:08:34,949 --> 00:08:34,959
+Unholy or you get to choose either of
+ 
+
+363
+00:08:34,959 --> 00:08:37,310
+Unholy or you get to choose either of
+those or say none of the above but
+
+364
+00:08:37,310 --> 00:08:37,320
+those or say none of the above but
+ 
+
+365
+00:08:37,320 --> 00:08:40,790
+those or say none of the above but
+provided you are Sanctified then you
+
+366
+00:08:40,790 --> 00:08:40,800
+provided you are Sanctified then you
+ 
+
+367
+00:08:40,800 --> 00:08:44,110
+provided you are Sanctified then you
+gain the holy trait or you gain the
+
+368
+00:08:44,110 --> 00:08:44,120
+gain the holy trait or you gain the
+ 
+
+369
+00:08:44,120 --> 00:08:49,230
+gain the holy trait or you gain the
+Unholy trait now this also applies to uh
+
+370
+00:08:49,230 --> 00:08:49,240
+Unholy trait now this also applies to uh
+ 
+
+371
+00:08:49,240 --> 00:08:51,230
+Unholy trait now this also applies to uh
+casting spells and other damaging
+
+372
+00:08:51,230 --> 00:08:51,240
+casting spells and other damaging
+ 
+
+373
+00:08:51,240 --> 00:08:54,710
+casting spells and other damaging
+effects so holy affects anything with
+
+374
+00:08:54,710 --> 00:08:54,720
+effects so holy affects anything with
+ 
+
+375
+00:08:54,720 --> 00:08:56,310
+effects so holy affects anything with
+the Unholy
+
+376
+00:08:56,310 --> 00:08:56,320
+the Unholy
+ 
+
+377
+00:08:56,320 --> 00:08:59,269
+the Unholy
+trait so this is typically going to be
+
+378
+00:08:59,269 --> 00:08:59,279
+trait so this is typically going to be
+ 
+
+379
+00:08:59,279 --> 00:09:02,190
+trait so this is typically going to be
+fiends of every variety demons Devils so
+
+380
+00:09:02,190 --> 00:09:02,200
+fiends of every variety demons Devils so
+ 
+
+381
+00:09:02,200 --> 00:09:05,269
+fiends of every variety demons Devils so
+forth if it is a fiend it will probably
+
+382
+00:09:05,269 --> 00:09:05,279
+forth if it is a fiend it will probably
+ 
+
+383
+00:09:05,279 --> 00:09:10,190
+forth if it is a fiend it will probably
+have the Unholy trait and most Undead
+
+384
+00:09:10,190 --> 00:09:10,200
+have the Unholy trait and most Undead
+ 
+
+385
+00:09:10,200 --> 00:09:13,949
+have the Unholy trait and most Undead
+will also most likely have the Unholy
+
+386
+00:09:13,949 --> 00:09:13,959
+will also most likely have the Unholy
+ 
+
+387
+00:09:13,959 --> 00:09:17,389
+will also most likely have the Unholy
+trait so if you're dealing holy damage
+
+388
+00:09:17,389 --> 00:09:17,399
+trait so if you're dealing holy damage
+ 
+
+389
+00:09:17,399 --> 00:09:20,750
+trait so if you're dealing holy damage
+it's going to apply to uh most likely to
+
+390
+00:09:20,750 --> 00:09:20,760
+it's going to apply to uh most likely to
+ 
+
+391
+00:09:20,760 --> 00:09:24,990
+it's going to apply to uh most likely to
+fiends to undid but also to anything
+
+392
+00:09:24,990 --> 00:09:25,000
+fiends to undid but also to anything
+ 
+
+393
+00:09:25,000 --> 00:09:26,550
+fiends to undid but also to anything
+that has the Unholy trait which would
+
+394
+00:09:26,550 --> 00:09:26,560
+that has the Unholy trait which would
+ 
+
+395
+00:09:26,560 --> 00:09:29,990
+that has the Unholy trait which would
+include a cleric of a pre previously
+
+396
+00:09:29,990 --> 00:09:30,000
+include a cleric of a pre previously
+ 
+
+397
+00:09:30,000 --> 00:09:31,990
+include a cleric of a pre previously
+defined evil
+
+398
+00:09:31,990 --> 00:09:32,000
+defined evil
+ 
+
+399
+00:09:32,000 --> 00:09:35,590
+defined evil
+deity and the opposite of that is also
+
+400
+00:09:35,590 --> 00:09:35,600
+deity and the opposite of that is also
+ 
+
+401
+00:09:35,600 --> 00:09:38,710
+deity and the opposite of that is also
+going to be true uh Unholy damage is
+
+402
+00:09:38,710 --> 00:09:38,720
+going to be true uh Unholy damage is
+ 
+
+403
+00:09:38,720 --> 00:09:41,670
+going to be true uh Unholy damage is
+going to affect anything with the Holy
+
+404
+00:09:41,670 --> 00:09:41,680
+going to affect anything with the Holy
+ 
+
+405
+00:09:41,680 --> 00:09:43,910
+going to affect anything with the Holy
+trait which are typically going to be
+
+406
+00:09:43,910 --> 00:09:43,920
+trait which are typically going to be
+ 
+
+407
+00:09:43,920 --> 00:09:47,590
+trait which are typically going to be
+celestials like angels as well as any
+
+408
+00:09:47,590 --> 00:09:47,600
+celestials like angels as well as any
+ 
+
+409
+00:09:47,600 --> 00:09:49,990
+celestials like angels as well as any
+creatures with the Holy trait such as
+
+410
+00:09:49,990 --> 00:09:50,000
+creatures with the Holy trait such as
+ 
+
+411
+00:09:50,000 --> 00:09:53,590
+creatures with the Holy trait such as
+the cleric to a good aligned deity also
+
+412
+00:09:53,590 --> 00:09:53,600
+the cleric to a good aligned deity also
+ 
+
+413
+00:09:53,600 --> 00:09:55,790
+the cleric to a good aligned deity also
+there are a number of different spells
+
+414
+00:09:55,790 --> 00:09:55,800
+there are a number of different spells
+ 
+
+415
+00:09:55,800 --> 00:09:58,590
+there are a number of different spells
+and other effects that say if the target
+
+416
+00:09:58,590 --> 00:09:58,600
+and other effects that say if the target
+ 
+
+417
+00:09:58,600 --> 00:10:01,430
+and other effects that say if the target
+has either the holy or Unholy trait is
+
+418
+00:10:01,430 --> 00:10:01,440
+has either the holy or Unholy trait is
+ 
+
+419
+00:10:01,440 --> 00:10:05,230
+has either the holy or Unholy trait is
+going to do this extra effect as well
+
+420
+00:10:05,230 --> 00:10:05,240
+going to do this extra effect as well
+ 
+
+421
+00:10:05,240 --> 00:10:09,110
+going to do this extra effect as well
+now the third type of damage is Spirit
+
+422
+00:10:09,110 --> 00:10:09,120
+now the third type of damage is Spirit
+ 
+
+423
+00:10:09,120 --> 00:10:14,230
+now the third type of damage is Spirit
+damage so Spirit damage um as the name
+
+424
+00:10:14,230 --> 00:10:14,240
+damage so Spirit damage um as the name
+ 
+
+425
+00:10:14,240 --> 00:10:18,630
+damage so Spirit damage um as the name
+implies it uh damages the spirit of a
+
+426
+00:10:18,630 --> 00:10:18,640
+implies it uh damages the spirit of a
+ 
+
+427
+00:10:18,640 --> 00:10:22,389
+implies it uh damages the spirit of a
+creature so this is not inherently
+
+428
+00:10:22,389 --> 00:10:22,399
+creature so this is not inherently
+ 
+
+429
+00:10:22,399 --> 00:10:27,710
+creature so this is not inherently
+living or Undead um because a ghost is a
+
+430
+00:10:27,710 --> 00:10:27,720
+living or Undead um because a ghost is a
+ 
+
+431
+00:10:27,720 --> 00:10:30,389
+living or Undead um because a ghost is a
+spirit it most likely has a spirit and
+
+432
+00:10:30,389 --> 00:10:30,399
+spirit it most likely has a spirit and
+ 
+
+433
+00:10:30,399 --> 00:10:33,670
+spirit it most likely has a spirit and
+could be affected by Spirit damage but
+
+434
+00:10:33,670 --> 00:10:33,680
+could be affected by Spirit damage but
+ 
+
+435
+00:10:33,680 --> 00:10:36,310
+could be affected by Spirit damage but
+this damage is not affecting the
+
+436
+00:10:36,310 --> 00:10:36,320
+this damage is not affecting the
+ 
+
+437
+00:10:36,320 --> 00:10:39,949
+this damage is not affecting the
+physical body is affecting the soul so
+
+438
+00:10:39,949 --> 00:10:39,959
+physical body is affecting the soul so
+ 
+
+439
+00:10:39,959 --> 00:10:42,670
+physical body is affecting the soul so
+one example that the book points out is
+
+440
+00:10:42,670 --> 00:10:42,680
+one example that the book points out is
+ 
+
+441
+00:10:42,680 --> 00:10:45,190
+one example that the book points out is
+that if a creature is possessed by
+
+442
+00:10:45,190 --> 00:10:45,200
+that if a creature is possessed by
+ 
+
+443
+00:10:45,200 --> 00:10:48,430
+that if a creature is possessed by
+another being and you deal Spirit damage
+
+444
+00:10:48,430 --> 00:10:48,440
+another being and you deal Spirit damage
+ 
+
+445
+00:10:48,440 --> 00:10:51,710
+another being and you deal Spirit damage
+to them then it's not the physical
+
+446
+00:10:51,710 --> 00:10:51,720
+to them then it's not the physical
+ 
+
+447
+00:10:51,720 --> 00:10:54,550
+to them then it's not the physical
+possessed person who is hurt is going to
+
+448
+00:10:54,550 --> 00:10:54,560
+possessed person who is hurt is going to
+ 
+
+449
+00:10:54,560 --> 00:10:58,590
+possessed person who is hurt is going to
+be the person doing the possessing who
+
+450
+00:10:58,590 --> 00:10:58,600
+be the person doing the possessing who
+ 
+
+451
+00:10:58,600 --> 00:11:01,350
+be the person doing the possessing who
+is home harm because it's their Spirit
+
+452
+00:11:01,350 --> 00:11:01,360
+is home harm because it's their Spirit
+ 
+
+453
+00:11:01,360 --> 00:11:05,069
+is home harm because it's their Spirit
+who is in control of that possessed body
+
+454
+00:11:05,069 --> 00:11:05,079
+who is in control of that possessed body
+ 
+
+455
+00:11:05,079 --> 00:11:08,710
+who is in control of that possessed body
+and uh constructs are going to be immune
+
+456
+00:11:08,710 --> 00:11:08,720
+and uh constructs are going to be immune
+ 
+
+457
+00:11:08,720 --> 00:11:10,389
+and uh constructs are going to be immune
+to this kind of damage because they
+
+458
+00:11:10,389 --> 00:11:10,399
+to this kind of damage because they
+ 
+
+459
+00:11:10,399 --> 00:11:13,949
+to this kind of damage because they
+don't have Spirits typically so the next
+
+460
+00:11:13,949 --> 00:11:13,959
+don't have Spirits typically so the next
+ 
+
+461
+00:11:13,959 --> 00:11:16,350
+don't have Spirits typically so the next
+question that kind of is is building
+
+462
+00:11:16,350 --> 00:11:16,360
+question that kind of is is building
+ 
+
+463
+00:11:16,360 --> 00:11:20,990
+question that kind of is is building
+onto that is about holy and Unholy runes
+
+464
+00:11:20,990 --> 00:11:21,000
+onto that is about holy and Unholy runes
+ 
+
+465
+00:11:21,000 --> 00:11:23,670
+onto that is about holy and Unholy runes
+do we have magical runes for those new
+
+466
+00:11:23,670 --> 00:11:23,680
+do we have magical runes for those new
+ 
+
+467
+00:11:23,680 --> 00:11:27,870
+do we have magical runes for those new
+damage types and yes we do holy runes
+
+468
+00:11:27,870 --> 00:11:27,880
+damage types and yes we do holy runes
+ 
+
+469
+00:11:27,880 --> 00:11:31,269
+damage types and yes we do holy runes
+deal an extra 1 D4 Spirit damage to a
+
+470
+00:11:31,269 --> 00:11:31,279
+deal an extra 1 D4 Spirit damage to a
+ 
+
+471
+00:11:31,279 --> 00:11:34,710
+deal an extra 1 D4 Spirit damage to a
+weapon attack that has a holy Rune or 2
+
+472
+00:11:34,710 --> 00:11:34,720
+weapon attack that has a holy Rune or 2
+ 
+
+473
+00:11:34,720 --> 00:11:38,870
+weapon attack that has a holy Rune or 2
+D4 against enemies with the Unholy trait
+
+474
+00:11:38,870 --> 00:11:38,880
+D4 against enemies with the Unholy trait
+ 
+
+475
+00:11:38,880 --> 00:11:41,629
+D4 against enemies with the Unholy trait
+also once per day after critically
+
+476
+00:11:41,629 --> 00:11:41,639
+also once per day after critically
+ 
+
+477
+00:11:41,639 --> 00:11:43,870
+also once per day after critically
+succeeding on a strike against an Unholy
+
+478
+00:11:43,870 --> 00:11:43,880
+succeeding on a strike against an Unholy
+ 
+
+479
+00:11:43,880 --> 00:11:46,030
+succeeding on a strike against an Unholy
+Target the wheeler can spend their
+
+480
+00:11:46,030 --> 00:11:46,040
+Target the wheeler can spend their
+ 
+
+481
+00:11:46,040 --> 00:11:49,069
+Target the wheeler can spend their
+reaction to heal themselves double the
+
+482
+00:11:49,069 --> 00:11:49,079
+reaction to heal themselves double the
+ 
+
+483
+00:11:49,079 --> 00:11:51,790
+reaction to heal themselves double the
+target's level Unholy creatures are
+
+484
+00:11:51,790 --> 00:11:51,800
+target's level Unholy creatures are
+ 
+
+485
+00:11:51,800 --> 00:11:55,110
+target's level Unholy creatures are
+going to be infeed too whenever carrying
+
+486
+00:11:55,110 --> 00:11:55,120
+going to be infeed too whenever carrying
+ 
+
+487
+00:11:55,120 --> 00:11:58,949
+going to be infeed too whenever carrying
+or wielding a weapon that has a holy r
+
+488
+00:11:58,949 --> 00:11:58,959
+or wielding a weapon that has a holy r
+ 
+
+489
+00:11:58,959 --> 00:12:02,590
+or wielding a weapon that has a holy r
+Rune etched upon it and Unholy runes are
+
+490
+00:12:02,590 --> 00:12:02,600
+Rune etched upon it and Unholy runes are
+ 
+
+491
+00:12:02,600 --> 00:12:04,910
+Rune etched upon it and Unholy runes are
+going to function pretty much exactly
+
+492
+00:12:04,910 --> 00:12:04,920
+going to function pretty much exactly
+ 
+
+493
+00:12:04,920 --> 00:12:09,230
+going to function pretty much exactly
+the same way except they don't heal on
+
+494
+00:12:09,230 --> 00:12:09,240
+the same way except they don't heal on
+ 
+
+495
+00:12:09,240 --> 00:12:12,150
+the same way except they don't heal on
+those Critical Hits once per day instead
+
+496
+00:12:12,150 --> 00:12:12,160
+those Critical Hits once per day instead
+ 
+
+497
+00:12:12,160 --> 00:12:15,629
+those Critical Hits once per day instead
+they're going to apply bleed damage once
+
+498
+00:12:15,629 --> 00:12:15,639
+they're going to apply bleed damage once
+ 
+
+499
+00:12:15,639 --> 00:12:18,790
+they're going to apply bleed damage once
+per day to a holy Target that they
+
+500
+00:12:18,790 --> 00:12:18,800
+per day to a holy Target that they
+ 
+
+501
+00:12:18,800 --> 00:12:21,509
+per day to a holy Target that they
+critically succeed their strikes
+
+502
+00:12:21,509 --> 00:12:21,519
+critically succeed their strikes
+ 
+
+503
+00:12:21,519 --> 00:12:24,629
+critically succeed their strikes
+against so next question is there a way
+
+504
+00:12:24,629 --> 00:12:24,639
+against so next question is there a way
+ 
+
+505
+00:12:24,639 --> 00:12:27,949
+against so next question is there a way
+to get the holy and Unholy traits other
+
+506
+00:12:27,949 --> 00:12:27,959
+to get the holy and Unholy traits other
+ 
+
+507
+00:12:27,959 --> 00:12:31,069
+to get the holy and Unholy traits other
+than being a clarc I did not see any
+
+508
+00:12:31,069 --> 00:12:31,079
+than being a clarc I did not see any
+ 
+
+509
+00:12:31,079 --> 00:12:35,230
+than being a clarc I did not see any
+other ways in the uh player core book uh
+
+510
+00:12:35,230 --> 00:12:35,240
+other ways in the uh player core book uh
+ 
+
+511
+00:12:35,240 --> 00:12:38,030
+other ways in the uh player core book uh
+to apply sanctification and gain the
+
+512
+00:12:38,030 --> 00:12:38,040
+to apply sanctification and gain the
+ 
+
+513
+00:12:38,040 --> 00:12:39,790
+to apply sanctification and gain the
+holy and Unholy
+
+514
+00:12:39,790 --> 00:12:39,800
+holy and Unholy
+ 
+
+515
+00:12:39,800 --> 00:12:43,550
+holy and Unholy
+traits um outside of being a cleric by
+
+516
+00:12:43,550 --> 00:12:43,560
+traits um outside of being a cleric by
+ 
+
+517
+00:12:43,560 --> 00:12:47,509
+traits um outside of being a cleric by
+class or taking the cleric multiclass uh
+
+518
+00:12:47,509 --> 00:12:47,519
+class or taking the cleric multiclass uh
+ 
+
+519
+00:12:47,519 --> 00:12:51,069
+class or taking the cleric multiclass uh
+dedication feat which requires you to
+
+520
+00:12:51,069 --> 00:12:51,079
+dedication feat which requires you to
+ 
+
+521
+00:12:51,079 --> 00:12:53,150
+dedication feat which requires you to
+undergo sanctification in the exact same
+
+522
+00:12:53,150 --> 00:12:53,160
+undergo sanctification in the exact same
+ 
+
+523
+00:12:53,160 --> 00:12:56,590
+undergo sanctification in the exact same
+way as as a regular cleric um you still
+
+524
+00:12:56,590 --> 00:12:56,600
+way as as a regular cleric um you still
+ 
+
+525
+00:12:56,600 --> 00:12:58,110
+way as as a regular cleric um you still
+have to choose a God and apply either
+
+526
+00:12:58,110 --> 00:12:58,120
+have to choose a God and apply either
+ 
+
+527
+00:12:58,120 --> 00:12:59,350
+have to choose a God and apply either
+holy or Unholy
+
+528
+00:12:59,350 --> 00:12:59,360
+holy or Unholy
+ 
+
+529
+00:12:59,360 --> 00:13:02,389
+holy or Unholy
+or none of the above if you get that
+
+530
+00:13:02,389 --> 00:13:02,399
+or none of the above if you get that
+ 
+
+531
+00:13:02,399 --> 00:13:04,509
+or none of the above if you get that
+option uh I was a little surprised by
+
+532
+00:13:04,509 --> 00:13:04,519
+option uh I was a little surprised by
+ 
+
+533
+00:13:04,519 --> 00:13:06,150
+option uh I was a little surprised by
+that I was expecting there to be some
+
+534
+00:13:06,150 --> 00:13:06,160
+that I was expecting there to be some
+ 
+
+535
+00:13:06,160 --> 00:13:09,310
+that I was expecting there to be some
+other some other method within the the
+
+536
+00:13:09,310 --> 00:13:09,320
+other some other method within the the
+ 
+
+537
+00:13:09,320 --> 00:13:12,990
+other some other method within the the
+game to gain those um those traits uh
+
+538
+00:13:12,990 --> 00:13:13,000
+game to gain those um those traits uh
+ 
+
+539
+00:13:13,000 --> 00:13:15,110
+game to gain those um those traits uh
+for example the Nephilim which is sort
+
+540
+00:13:15,110 --> 00:13:15,120
+for example the Nephilim which is sort
+ 
+
+541
+00:13:15,120 --> 00:13:18,790
+for example the Nephilim which is sort
+of the catch all ancestry for Outsiders
+
+542
+00:13:18,790 --> 00:13:18,800
+of the catch all ancestry for Outsiders
+ 
+
+543
+00:13:18,800 --> 00:13:23,710
+of the catch all ancestry for Outsiders
+or people who have an outsider Heritage
+
+544
+00:13:23,710 --> 00:13:23,720
+or people who have an outsider Heritage
+ 
+
+545
+00:13:23,720 --> 00:13:26,550
+or people who have an outsider Heritage
+in their bloodline so teelings and ASMR
+
+546
+00:13:26,550 --> 00:13:26,560
+in their bloodline so teelings and ASMR
+ 
+
+547
+00:13:26,560 --> 00:13:28,829
+in their bloodline so teelings and ASMR
+and so on and so forth in the new book
+
+548
+00:13:28,829 --> 00:13:28,839
+and so on and so forth in the new book
+ 
+
+549
+00:13:28,839 --> 00:13:31,550
+and so on and so forth in the new book
+are all gathered together Under The
+
+550
+00:13:31,550 --> 00:13:31,560
+are all gathered together Under The
+ 
+
+551
+00:13:31,560 --> 00:13:35,110
+are all gathered together Under The
+Heading of Nephilim and um even though
+
+552
+00:13:35,110 --> 00:13:35,120
+Heading of Nephilim and um even though
+ 
+
+553
+00:13:35,120 --> 00:13:38,310
+Heading of Nephilim and um even though
+it writes about like you know uh uh if
+
+554
+00:13:38,310 --> 00:13:38,320
+it writes about like you know uh uh if
+ 
+
+555
+00:13:38,320 --> 00:13:41,550
+it writes about like you know uh uh if
+you have an infernal ancestry or what
+
+556
+00:13:41,550 --> 00:13:41,560
+you have an infernal ancestry or what
+ 
+
+557
+00:13:41,560 --> 00:13:44,269
+you have an infernal ancestry or what
+would used to have been called a teeling
+
+558
+00:13:44,269 --> 00:13:44,279
+would used to have been called a teeling
+ 
+
+559
+00:13:44,279 --> 00:13:45,870
+would used to have been called a teeling
+uh people look at you and see horns and
+
+560
+00:13:45,870 --> 00:13:45,880
+uh people look at you and see horns and
+ 
+
+561
+00:13:45,880 --> 00:13:48,150
+uh people look at you and see horns and
+hoofs and they might assume you have the
+
+562
+00:13:48,150 --> 00:13:48,160
+hoofs and they might assume you have the
+ 
+
+563
+00:13:48,160 --> 00:13:49,990
+hoofs and they might assume you have the
+Unholy trait but I didn't see anything
+
+564
+00:13:49,990 --> 00:13:50,000
+Unholy trait but I didn't see anything
+ 
+
+565
+00:13:50,000 --> 00:13:53,150
+Unholy trait but I didn't see anything
+in that write up that gave a path to
+
+566
+00:13:53,150 --> 00:13:53,160
+in that write up that gave a path to
+ 
+
+567
+00:13:53,160 --> 00:13:56,110
+in that write up that gave a path to
+earning either the holy or Unholy trait
+
+568
+00:13:56,110 --> 00:13:56,120
+earning either the holy or Unholy trait
+ 
+
+569
+00:13:56,120 --> 00:13:59,350
+earning either the holy or Unholy trait
+all right so moving on I got a question
+
+570
+00:13:59,350 --> 00:13:59,360
+all right so moving on I got a question
+ 
+
+571
+00:13:59,360 --> 00:14:03,110
+all right so moving on I got a question
+about uh Consecration and the consecrate
+
+572
+00:14:03,110 --> 00:14:03,120
+about uh Consecration and the consecrate
+ 
+
+573
+00:14:03,120 --> 00:14:07,150
+about uh Consecration and the consecrate
+ritual so the consecration trait is
+
+574
+00:14:07,150 --> 00:14:07,160
+ritual so the consecration trait is
+ 
+
+575
+00:14:07,160 --> 00:14:09,710
+ritual so the consecration trait is
+unchanged as far as I can tell from uh
+
+576
+00:14:09,710 --> 00:14:09,720
+unchanged as far as I can tell from uh
+ 
+
+577
+00:14:09,720 --> 00:14:12,069
+unchanged as far as I can tell from uh
+the Legacy Pathfinder Second Edition
+
+578
+00:14:12,069 --> 00:14:12,079
+the Legacy Pathfinder Second Edition
+ 
+
+579
+00:14:12,079 --> 00:14:16,430
+the Legacy Pathfinder Second Edition
+rules but the consecrate ritual has been
+
+580
+00:14:16,430 --> 00:14:16,440
+rules but the consecrate ritual has been
+ 
+
+581
+00:14:16,440 --> 00:14:19,670
+rules but the consecrate ritual has been
+adjusted to account for Holy and Unholy
+
+582
+00:14:19,670 --> 00:14:19,680
+adjusted to account for Holy and Unholy
+ 
+
+583
+00:14:19,680 --> 00:14:22,710
+adjusted to account for Holy and Unholy
+traits and it now has a a part of it
+
+584
+00:14:22,710 --> 00:14:22,720
+traits and it now has a a part of it
+ 
+
+585
+00:14:22,720 --> 00:14:25,550
+traits and it now has a a part of it
+that reads as follows if your deity's
+
+586
+00:14:25,550 --> 00:14:25,560
+that reads as follows if your deity's
+ 
+
+587
+00:14:25,560 --> 00:14:27,829
+that reads as follows if your deity's
+Divine sanctification allows you to
+
+588
+00:14:27,829 --> 00:14:27,839
+Divine sanctification allows you to
+ 
+
+589
+00:14:27,839 --> 00:14:31,389
+Divine sanctification allows you to
+choose holy or Unholy you can choose to
+
+590
+00:14:31,389 --> 00:14:31,399
+choose holy or Unholy you can choose to
+ 
+
+591
+00:14:31,399 --> 00:14:35,030
+choose holy or Unholy you can choose to
+make the consecrated site holy or Unholy
+
+592
+00:14:35,030 --> 00:14:35,040
+make the consecrated site holy or Unholy
+ 
+
+593
+00:14:35,040 --> 00:14:37,949
+make the consecrated site holy or Unholy
+as well if the deities sanctification
+
+594
+00:14:37,949 --> 00:14:37,959
+as well if the deities sanctification
+ 
+
+595
+00:14:37,959 --> 00:14:41,110
+as well if the deities sanctification
+must be holy or Unholy you must make the
+
+596
+00:14:41,110 --> 00:14:41,120
+must be holy or Unholy you must make the
+ 
+
+597
+00:14:41,120 --> 00:14:42,870
+must be holy or Unholy you must make the
+site match that
+
+598
+00:14:42,870 --> 00:14:42,880
+site match that
+ 
+
+599
+00:14:42,880 --> 00:14:46,269
+site match that
+sanctification and it adds strikes made
+
+600
+00:14:46,269 --> 00:14:46,279
+sanctification and it adds strikes made
+ 
+
+601
+00:14:46,279 --> 00:14:49,389
+sanctification and it adds strikes made
+by worshippers of your deity within the
+
+602
+00:14:49,389 --> 00:14:49,399
+by worshippers of your deity within the
+ 
+
+603
+00:14:49,399 --> 00:14:52,389
+by worshippers of your deity within the
+area gain the sight's sanctification
+
+604
+00:14:52,389 --> 00:14:52,399
+area gain the sight's sanctification
+ 
+
+605
+00:14:52,399 --> 00:14:55,389
+area gain the sight's sanctification
+trait if any so if you perform the
+
+606
+00:14:55,389 --> 00:14:55,399
+trait if any so if you perform the
+ 
+
+607
+00:14:55,399 --> 00:14:58,189
+trait if any so if you perform the
+consecrate ritual and uh you are
+
+608
+00:14:58,189 --> 00:14:58,199
+consecrate ritual and uh you are
+ 
+
+609
+00:14:58,199 --> 00:15:00,230
+consecrate ritual and uh you are
+following a holy God and you have been
+
+610
+00:15:00,230 --> 00:15:00,240
+following a holy God and you have been
+ 
+
+611
+00:15:00,240 --> 00:15:04,110
+following a holy God and you have been
+Sanctified as being holy then that uh
+
+612
+00:15:04,110 --> 00:15:04,120
+Sanctified as being holy then that uh
+ 
+
+613
+00:15:04,120 --> 00:15:07,590
+Sanctified as being holy then that uh
+area of the consecration is going to
+
+614
+00:15:07,590 --> 00:15:07,600
+area of the consecration is going to
+ 
+
+615
+00:15:07,600 --> 00:15:10,350
+area of the consecration is going to
+have the Holy trait applied to that area
+
+616
+00:15:10,350 --> 00:15:10,360
+have the Holy trait applied to that area
+ 
+
+617
+00:15:10,360 --> 00:15:13,350
+have the Holy trait applied to that area
+and any followers of your God in that
+
+618
+00:15:13,350 --> 00:15:13,360
+and any followers of your God in that
+ 
+
+619
+00:15:13,360 --> 00:15:16,550
+and any followers of your God in that
+area or regardless if they're clerics or
+
+620
+00:15:16,550 --> 00:15:16,560
+area or regardless if they're clerics or
+ 
+
+621
+00:15:16,560 --> 00:15:19,910
+area or regardless if they're clerics or
+not or if they have uh the holy trait or
+
+622
+00:15:19,910 --> 00:15:19,920
+not or if they have uh the holy trait or
+ 
+
+623
+00:15:19,920 --> 00:15:22,670
+not or if they have uh the holy trait or
+not all those followers within that area
+
+624
+00:15:22,670 --> 00:15:22,680
+not all those followers within that area
+ 
+
+625
+00:15:22,680 --> 00:15:25,350
+not all those followers within that area
+they follow your God will have the Holy
+
+626
+00:15:25,350 --> 00:15:25,360
+they follow your God will have the Holy
+ 
+
+627
+00:15:25,360 --> 00:15:28,230
+they follow your God will have the Holy
+trait applied to their strikes and their
+
+628
+00:15:28,230 --> 00:15:28,240
+trait applied to their strikes and their
+ 
+
+629
+00:15:28,240 --> 00:15:31,670
+trait applied to their strikes and their
+attack against enemies within that area
+
+630
+00:15:31,670 --> 00:15:31,680
+attack against enemies within that area
+ 
+
+631
+00:15:31,680 --> 00:15:35,110
+attack against enemies within that area
+so uh next question is about Focus
+
+632
+00:15:35,110 --> 00:15:35,120
+so uh next question is about Focus
+ 
+
+633
+00:15:35,120 --> 00:15:38,350
+so uh next question is about Focus
+points and the focus pool are Focus
+
+634
+00:15:38,350 --> 00:15:38,360
+points and the focus pool are Focus
+ 
+
+635
+00:15:38,360 --> 00:15:41,389
+points and the focus pool are Focus
+pools still capped at three yes there is
+
+636
+00:15:41,389 --> 00:15:41,399
+pools still capped at three yes there is
+ 
+
+637
+00:15:41,399 --> 00:15:45,189
+pools still capped at three yes there is
+still a hard cap of a maximum of three
+
+638
+00:15:45,189 --> 00:15:45,199
+still a hard cap of a maximum of three
+ 
+
+639
+00:15:45,199 --> 00:15:49,550
+still a hard cap of a maximum of three
+Focus points but you can use the refocus
+
+640
+00:15:49,550 --> 00:15:49,560
+Focus points but you can use the refocus
+ 
+
+641
+00:15:49,560 --> 00:15:52,550
+Focus points but you can use the refocus
+activity every 10 minutes without
+
+642
+00:15:52,550 --> 00:15:52,560
+activity every 10 minutes without
+ 
+
+643
+00:15:52,560 --> 00:15:56,350
+activity every 10 minutes without
+limitation so in the original Pathfinder
+
+644
+00:15:56,350 --> 00:15:56,360
+limitation so in the original Pathfinder
+ 
+
+645
+00:15:56,360 --> 00:15:59,110
+limitation so in the original Pathfinder
+Second Edition rules you could refocus
+
+646
+00:15:59,110 --> 00:15:59,120
+Second Edition rules you could refocus
+ 
+
+647
+00:15:59,120 --> 00:16:01,790
+Second Edition rules you could refocus
+for 10 minutes but you could only do
+
+648
+00:16:01,790 --> 00:16:01,800
+for 10 minutes but you could only do
+ 
+
+649
+00:16:01,800 --> 00:16:05,110
+for 10 minutes but you could only do
+that if you had spent at least one Focus
+
+650
+00:16:05,110 --> 00:16:05,120
+that if you had spent at least one Focus
+ 
+
+651
+00:16:05,120 --> 00:16:08,389
+that if you had spent at least one Focus
+Point since the last time you uh
+
+652
+00:16:08,389 --> 00:16:08,399
+Point since the last time you uh
+ 
+
+653
+00:16:08,399 --> 00:16:11,030
+Point since the last time you uh
+refocused and so that would prevent
+
+654
+00:16:11,030 --> 00:16:11,040
+refocused and so that would prevent
+ 
+
+655
+00:16:11,040 --> 00:16:13,350
+refocused and so that would prevent
+someone from taking 30 minute taking a
+
+656
+00:16:13,350 --> 00:16:13,360
+someone from taking 30 minute taking a
+ 
+
+657
+00:16:13,360 --> 00:16:14,790
+someone from taking 30 minute taking a
+30- minute break after a fight and
+
+658
+00:16:14,790 --> 00:16:14,800
+30- minute break after a fight and
+ 
+
+659
+00:16:14,800 --> 00:16:17,069
+30- minute break after a fight and
+getting all three of their points back
+
+660
+00:16:17,069 --> 00:16:17,079
+getting all three of their points back
+ 
+
+661
+00:16:17,079 --> 00:16:18,430
+getting all three of their points back
+and having them all available for the
+
+662
+00:16:18,430 --> 00:16:18,440
+and having them all available for the
+ 
+
+663
+00:16:18,440 --> 00:16:22,150
+and having them all available for the
+next fight that rule was uh more than a
+
+664
+00:16:22,150 --> 00:16:22,160
+next fight that rule was uh more than a
+ 
+
+665
+00:16:22,160 --> 00:16:24,069
+next fight that rule was uh more than a
+little confusing to to a number of
+
+666
+00:16:24,069 --> 00:16:24,079
+little confusing to to a number of
+ 
+
+667
+00:16:24,079 --> 00:16:26,710
+little confusing to to a number of
+people so they've simplified it in the
+
+668
+00:16:26,710 --> 00:16:26,720
+people so they've simplified it in the
+ 
+
+669
+00:16:26,720 --> 00:16:29,350
+people so they've simplified it in the
+remaster Edition and uh now that
+
+670
+00:16:29,350 --> 00:16:29,360
+remaster Edition and uh now that
+ 
+
+671
+00:16:29,360 --> 00:16:31,710
+remaster Edition and uh now that
+language is removed from refocus it no
+
+672
+00:16:31,710 --> 00:16:31,720
+language is removed from refocus it no
+ 
+
+673
+00:16:31,720 --> 00:16:34,309
+language is removed from refocus it no
+longer has that limitation so now if you
+
+674
+00:16:34,309 --> 00:16:34,319
+longer has that limitation so now if you
+ 
+
+675
+00:16:34,319 --> 00:16:38,590
+longer has that limitation so now if you
+do have 30 minutes you can spend uh all
+
+676
+00:16:38,590 --> 00:16:38,600
+do have 30 minutes you can spend uh all
+ 
+
+677
+00:16:38,600 --> 00:16:40,829
+do have 30 minutes you can spend uh all
+30 minutes and refocus three times in a
+
+678
+00:16:40,829 --> 00:16:40,839
+30 minutes and refocus three times in a
+ 
+
+679
+00:16:40,839 --> 00:16:42,350
+30 minutes and refocus three times in a
+row and get all three of your focus
+
+680
+00:16:42,350 --> 00:16:42,360
+row and get all three of your focus
+ 
+
+681
+00:16:42,360 --> 00:16:45,590
+row and get all three of your focus
+points back but uh three points is still
+
+682
+00:16:45,590 --> 00:16:45,600
+points back but uh three points is still
+ 
+
+683
+00:16:45,600 --> 00:16:48,910
+points back but uh three points is still
+the listed maximum for Focus points uh
+
+684
+00:16:48,910 --> 00:16:48,920
+the listed maximum for Focus points uh
+ 
+
+685
+00:16:48,920 --> 00:16:50,350
+the listed maximum for Focus points uh
+the next couple questions are all
+
+686
+00:16:50,350 --> 00:16:50,360
+the next couple questions are all
+ 
+
+687
+00:16:50,360 --> 00:16:54,870
+the next couple questions are all
+dealing with the layout of the book um
+
+688
+00:16:54,870 --> 00:16:54,880
+dealing with the layout of the book um
+ 
+
+689
+00:16:54,880 --> 00:16:57,990
+dealing with the layout of the book um
+is it more user friendly is it easier to
+
+690
+00:16:57,990 --> 00:16:58,000
+is it more user friendly is it easier to
+ 
+
+691
+00:16:58,000 --> 00:17:02,269
+is it more user friendly is it easier to
+navigate gate around does it look nice
+
+692
+00:17:02,269 --> 00:17:02,279
+navigate gate around does it look nice
+ 
+
+693
+00:17:02,279 --> 00:17:04,189
+navigate gate around does it look nice
+uh so first of all yeah I think it looks
+
+694
+00:17:04,189 --> 00:17:04,199
+uh so first of all yeah I think it looks
+ 
+
+695
+00:17:04,199 --> 00:17:07,110
+uh so first of all yeah I think it looks
+very nice second of all um it is a
+
+696
+00:17:07,110 --> 00:17:07,120
+very nice second of all um it is a
+ 
+
+697
+00:17:07,120 --> 00:17:10,350
+very nice second of all um it is a
+little easier to navigate around but I
+
+698
+00:17:10,350 --> 00:17:10,360
+little easier to navigate around but I
+ 
+
+699
+00:17:10,360 --> 00:17:13,590
+little easier to navigate around but I
+don't think the changes are are so uh
+
+700
+00:17:13,590 --> 00:17:13,600
+don't think the changes are are so uh
+ 
+
+701
+00:17:13,600 --> 00:17:15,549
+don't think the changes are are so uh
+material and wide sweeping that I would
+
+702
+00:17:15,549 --> 00:17:15,559
+material and wide sweeping that I would
+ 
+
+703
+00:17:15,559 --> 00:17:17,669
+material and wide sweeping that I would
+go so far as to say that it's
+
+704
+00:17:17,669 --> 00:17:17,679
+go so far as to say that it's
+ 
+
+705
+00:17:17,679 --> 00:17:20,870
+go so far as to say that it's
+fundamentally an easier layout and book
+
+706
+00:17:20,870 --> 00:17:20,880
+fundamentally an easier layout and book
+ 
+
+707
+00:17:20,880 --> 00:17:23,309
+fundamentally an easier layout and book
+for for new players if you want a layout
+
+708
+00:17:23,309 --> 00:17:23,319
+for for new players if you want a layout
+ 
+
+709
+00:17:23,319 --> 00:17:24,949
+for for new players if you want a layout
+that's going to be friendly for new
+
+710
+00:17:24,949 --> 00:17:24,959
+that's going to be friendly for new
+ 
+
+711
+00:17:24,959 --> 00:17:27,390
+that's going to be friendly for new
+people then perhaps the beginner box is
+
+712
+00:17:27,390 --> 00:17:27,400
+people then perhaps the beginner box is
+ 
+
+713
+00:17:27,400 --> 00:17:31,150
+people then perhaps the beginner box is
+still the place to to look for that but
+
+714
+00:17:31,150 --> 00:17:31,160
+still the place to to look for that but
+ 
+
+715
+00:17:31,160 --> 00:17:33,270
+still the place to to look for that but
+some of the things that they've done uh
+
+716
+00:17:33,270 --> 00:17:33,280
+some of the things that they've done uh
+ 
+
+717
+00:17:33,280 --> 00:17:36,070
+some of the things that they've done uh
+with the layout and presentation of the
+
+718
+00:17:36,070 --> 00:17:36,080
+with the layout and presentation of the
+ 
+
+719
+00:17:36,080 --> 00:17:38,430
+with the layout and presentation of the
+remaster books first of all they are
+
+720
+00:17:38,430 --> 00:17:38,440
+remaster books first of all they are
+ 
+
+721
+00:17:38,440 --> 00:17:41,110
+remaster books first of all they are
+using green as a dominant color so it's
+
+722
+00:17:41,110 --> 00:17:41,120
+using green as a dominant color so it's
+ 
+
+723
+00:17:41,120 --> 00:17:45,029
+using green as a dominant color so it's
+easy to recognize what is uh a remaster
+
+724
+00:17:45,029 --> 00:17:45,039
+easy to recognize what is uh a remaster
+ 
+
+725
+00:17:45,039 --> 00:17:48,029
+easy to recognize what is uh a remaster
+book versus one of the original Legacy
+
+726
+00:17:48,029 --> 00:17:48,039
+book versus one of the original Legacy
+ 
+
+727
+00:17:48,039 --> 00:17:51,830
+book versus one of the original Legacy
+Rule books they are also applying some
+
+728
+00:17:51,830 --> 00:17:51,840
+Rule books they are also applying some
+ 
+
+729
+00:17:51,840 --> 00:17:55,029
+Rule books they are also applying some
+more use of bold there are some sidebars
+
+730
+00:17:55,029 --> 00:17:55,039
+more use of bold there are some sidebars
+ 
+
+731
+00:17:55,039 --> 00:17:58,029
+more use of bold there are some sidebars
+in the new book that have bolded words
+
+732
+00:17:58,029 --> 00:17:58,039
+in the new book that have bolded words
+ 
+
+733
+00:17:58,039 --> 00:18:00,190
+in the new book that have bolded words
+to Stand Out whereas in the original
+
+734
+00:18:00,190 --> 00:18:00,200
+to Stand Out whereas in the original
+ 
+
+735
+00:18:00,200 --> 00:18:04,510
+to Stand Out whereas in the original
+version those same sidebars did not and
+
+736
+00:18:04,510 --> 00:18:04,520
+version those same sidebars did not and
+ 
+
+737
+00:18:04,520 --> 00:18:08,830
+version those same sidebars did not and
+uh the index has been improved uh in my
+
+738
+00:18:08,830 --> 00:18:08,840
+uh the index has been improved uh in my
+ 
+
+739
+00:18:08,840 --> 00:18:11,350
+uh the index has been improved uh in my
+point of view because for example the
+
+740
+00:18:11,350 --> 00:18:11,360
+point of view because for example the
+ 
+
+741
+00:18:11,360 --> 00:18:15,070
+point of view because for example the
+player core one not only includes all
+
+742
+00:18:15,070 --> 00:18:15,080
+player core one not only includes all
+ 
+
+743
+00:18:15,080 --> 00:18:17,070
+player core one not only includes all
+the index items that you would expect to
+
+744
+00:18:17,070 --> 00:18:17,080
+the index items that you would expect to
+ 
+
+745
+00:18:17,080 --> 00:18:21,470
+the index items that you would expect to
+find in a player core rule book but if
+
+746
+00:18:21,470 --> 00:18:21,480
+find in a player core rule book but if
+ 
+
+747
+00:18:21,480 --> 00:18:24,430
+find in a player core rule book but if
+there was something that was included in
+
+748
+00:18:24,430 --> 00:18:24,440
+there was something that was included in
+ 
+
+749
+00:18:24,440 --> 00:18:27,149
+there was something that was included in
+the core rule book in the original
+
+750
+00:18:27,149 --> 00:18:27,159
+the core rule book in the original
+ 
+
+751
+00:18:27,159 --> 00:18:30,830
+the core rule book in the original
+release that has now been moved to GM
+
+752
+00:18:30,830 --> 00:18:30,840
+release that has now been moved to GM
+ 
+
+753
+00:18:30,840 --> 00:18:34,789
+release that has now been moved to GM
+core then the player core book has an
+
+754
+00:18:34,789 --> 00:18:34,799
+core then the player core book has an
+ 
+
+755
+00:18:34,799 --> 00:18:37,190
+core then the player core book has an
+index entry for those items and it says
+
+756
+00:18:37,190 --> 00:18:37,200
+index entry for those items and it says
+ 
+
+757
+00:18:37,200 --> 00:18:39,510
+index entry for those items and it says
+hey that's not in this book anymore
+
+758
+00:18:39,510 --> 00:18:39,520
+hey that's not in this book anymore
+ 
+
+759
+00:18:39,520 --> 00:18:41,430
+hey that's not in this book anymore
+you're going to want to go check out the
+
+760
+00:18:41,430 --> 00:18:41,440
+you're going to want to go check out the
+ 
+
+761
+00:18:41,440 --> 00:18:43,230
+you're going to want to go check out the
+GM core and it will give you the page
+
+762
+00:18:43,230 --> 00:18:43,240
+GM core and it will give you the page
+ 
+
+763
+00:18:43,240 --> 00:18:45,630
+GM core and it will give you the page
+number to the GM core which is super
+
+764
+00:18:45,630 --> 00:18:45,640
+number to the GM core which is super
+ 
+
+765
+00:18:45,640 --> 00:18:48,390
+number to the GM core which is super
+handy a good example of this is runes
+
+766
+00:18:48,390 --> 00:18:48,400
+handy a good example of this is runes
+ 
+
+767
+00:18:48,400 --> 00:18:52,390
+handy a good example of this is runes
+runes are no longer found in the player
+
+768
+00:18:52,390 --> 00:18:52,400
+runes are no longer found in the player
+ 
+
+769
+00:18:52,400 --> 00:18:55,950
+runes are no longer found in the player
+book runes are now listed solely in the
+
+770
+00:18:55,950 --> 00:18:55,960
+book runes are now listed solely in the
+ 
+
+771
+00:18:55,960 --> 00:18:58,510
+book runes are now listed solely in the
+GM book but because players might be
+
+772
+00:18:58,510 --> 00:18:58,520
+GM book but because players might be
+ 
+
+773
+00:18:58,520 --> 00:19:00,950
+GM book but because players might be
+looking for that information the index
+
+774
+00:19:00,950 --> 00:19:00,960
+looking for that information the index
+ 
+
+775
+00:19:00,960 --> 00:19:03,870
+looking for that information the index
+in the player core book does direct them
+
+776
+00:19:03,870 --> 00:19:03,880
+in the player core book does direct them
+ 
+
+777
+00:19:03,880 --> 00:19:06,630
+in the player core book does direct them
+to the appropriate page in the GM core
+
+778
+00:19:06,630 --> 00:19:06,640
+to the appropriate page in the GM core
+ 
+
+779
+00:19:06,640 --> 00:19:10,230
+to the appropriate page in the GM core
+rules which I think was um a great
+
+780
+00:19:10,230 --> 00:19:10,240
+rules which I think was um a great
+ 
+
+781
+00:19:10,240 --> 00:19:12,789
+rules which I think was um a great
+addition and well thought
+
+782
+00:19:12,789 --> 00:19:12,799
+addition and well thought
+ 
+
+783
+00:19:12,799 --> 00:19:15,430
+addition and well thought
+out next question is about Shield runes
+
+784
+00:19:15,430 --> 00:19:15,440
+out next question is about Shield runes
+ 
+
+785
+00:19:15,440 --> 00:19:16,789
+out next question is about Shield runes
+we heard that there were changes coming
+
+786
+00:19:16,789 --> 00:19:16,799
+we heard that there were changes coming
+ 
+
+787
+00:19:16,799 --> 00:19:19,510
+we heard that there were changes coming
+to Shields um but what about Shield
+
+788
+00:19:19,510 --> 00:19:19,520
+to Shields um but what about Shield
+ 
+
+789
+00:19:19,520 --> 00:19:21,350
+to Shields um but what about Shield
+runes how are these going to function
+
+790
+00:19:21,350 --> 00:19:21,360
+runes how are these going to function
+ 
+
+791
+00:19:21,360 --> 00:19:25,110
+runes how are these going to function
+okay so Shields now have their own
+
+792
+00:19:25,110 --> 00:19:25,120
+okay so Shields now have their own
+ 
+
+793
+00:19:25,120 --> 00:19:28,390
+okay so Shields now have their own
+potency runes that are called reinfor
+
+794
+00:19:28,390 --> 00:19:28,400
+potency runes that are called reinfor
+ 
+
+795
+00:19:28,400 --> 00:19:31,950
+potency runes that are called reinfor
+forcing runes reinforcing runes increase
+
+796
+00:19:31,950 --> 00:19:31,960
+forcing runes reinforcing runes increase
+ 
+
+797
+00:19:31,960 --> 00:19:34,590
+forcing runes reinforcing runes increase
+the hardness the hit points and the
+
+798
+00:19:34,590 --> 00:19:34,600
+the hardness the hit points and the
+ 
+
+799
+00:19:34,600 --> 00:19:37,070
+the hardness the hit points and the
+break threshold all three of them for
+
+800
+00:19:37,070 --> 00:19:37,080
+break threshold all three of them for
+ 
+
+801
+00:19:37,080 --> 00:19:39,310
+break threshold all three of them for
+any Shield that is Eed with a
+
+802
+00:19:39,310 --> 00:19:39,320
+any Shield that is Eed with a
+ 
+
+803
+00:19:39,320 --> 00:19:43,070
+any Shield that is Eed with a
+reinforcing Rune unlike potency runes
+
+804
+00:19:43,070 --> 00:19:43,080
+reinforcing Rune unlike potency runes
+ 
+
+805
+00:19:43,080 --> 00:19:47,230
+reinforcing Rune unlike potency runes
+for uh for weapons and for armor Shield
+
+806
+00:19:47,230 --> 00:19:47,240
+for uh for weapons and for armor Shield
+ 
+
+807
+00:19:47,240 --> 00:19:49,430
+for uh for weapons and for armor Shield
+potency runes these reinforcing runes
+
+808
+00:19:49,430 --> 00:19:49,440
+potency runes these reinforcing runes
+ 
+
+809
+00:19:49,440 --> 00:19:52,710
+potency runes these reinforcing runes
+come in six varieties instead of three
+
+810
+00:19:52,710 --> 00:19:52,720
+come in six varieties instead of three
+ 
+
+811
+00:19:52,720 --> 00:19:55,390
+come in six varieties instead of three
+the first it becomes available at fourth
+
+812
+00:19:55,390 --> 00:19:55,400
+the first it becomes available at fourth
+ 
+
+813
+00:19:55,400 --> 00:19:57,430
+the first it becomes available at fourth
+level and then a new one every three
+
+814
+00:19:57,430 --> 00:19:57,440
+level and then a new one every three
+ 
+
+815
+00:19:57,440 --> 00:19:58,950
+level and then a new one every three
+levels after
+
+816
+00:19:58,950 --> 00:19:58,960
+levels after
+ 
+
+817
+00:19:58,960 --> 00:20:02,070
+levels after
+so the six types of reinforcing runes
+
+818
+00:20:02,070 --> 00:20:02,080
+so the six types of reinforcing runes
+ 
+
+819
+00:20:02,080 --> 00:20:04,950
+so the six types of reinforcing runes
+are minor lesser moderate greater major
+
+820
+00:20:04,950 --> 00:20:04,960
+are minor lesser moderate greater major
+ 
+
+821
+00:20:04,960 --> 00:20:10,390
+are minor lesser moderate greater major
+and supreme now those are the um potency
+
+822
+00:20:10,390 --> 00:20:10,400
+and supreme now those are the um potency
+ 
+
+823
+00:20:10,400 --> 00:20:12,310
+and supreme now those are the um potency
+runes for
+
+824
+00:20:12,310 --> 00:20:12,320
+runes for
+ 
+
+825
+00:20:12,320 --> 00:20:15,230
+runes for
+Shields however at this time I don't
+
+826
+00:20:15,230 --> 00:20:15,240
+Shields however at this time I don't
+ 
+
+827
+00:20:15,240 --> 00:20:18,029
+Shields however at this time I don't
+believe there are any potency runes for
+
+828
+00:20:18,029 --> 00:20:18,039
+believe there are any potency runes for
+ 
+
+829
+00:20:18,039 --> 00:20:20,270
+believe there are any potency runes for
+Shields I didn't see any of those listed
+
+830
+00:20:20,270 --> 00:20:20,280
+Shields I didn't see any of those listed
+ 
+
+831
+00:20:20,280 --> 00:20:21,390
+Shields I didn't see any of those listed
+uh that could be something that they
+
+832
+00:20:21,390 --> 00:20:21,400
+uh that could be something that they
+ 
+
+833
+00:20:21,400 --> 00:20:23,590
+uh that could be something that they
+plan to add later I don't know but for
+
+834
+00:20:23,590 --> 00:20:23,600
+plan to add later I don't know but for
+ 
+
+835
+00:20:23,600 --> 00:20:25,950
+plan to add later I don't know but for
+example there's no like flaming shield
+
+836
+00:20:25,950 --> 00:20:25,960
+example there's no like flaming shield
+ 
+
+837
+00:20:25,960 --> 00:20:28,990
+example there's no like flaming shield
+runes and and so forth there are still
+
+838
+00:20:28,990 --> 00:20:29,000
+runes and and so forth there are still
+ 
+
+839
+00:20:29,000 --> 00:20:32,830
+runes and and so forth there are still
+plenty of just standard magical Shields
+
+840
+00:20:32,830 --> 00:20:32,840
+plenty of just standard magical Shields
+ 
+
+841
+00:20:32,840 --> 00:20:34,549
+plenty of just standard magical Shields
+that apply
+
+842
+00:20:34,549 --> 00:20:34,559
+that apply
+ 
+
+843
+00:20:34,559 --> 00:20:37,270
+that apply
+different different aspects similar to
+
+844
+00:20:37,270 --> 00:20:37,280
+different different aspects similar to
+ 
+
+845
+00:20:37,280 --> 00:20:38,990
+different different aspects similar to
+what we would achieve through potency
+
+846
+00:20:38,990 --> 00:20:39,000
+what we would achieve through potency
+ 
+
+847
+00:20:39,000 --> 00:20:41,870
+what we would achieve through potency
+runes or through U through property
+
+848
+00:20:41,870 --> 00:20:41,880
+runes or through U through property
+ 
+
+849
+00:20:41,880 --> 00:20:45,110
+runes or through U through property
+runes excuse me um but as of right now
+
+850
+00:20:45,110 --> 00:20:45,120
+runes excuse me um but as of right now
+ 
+
+851
+00:20:45,120 --> 00:20:48,190
+runes excuse me um but as of right now
+in this first release No property runes
+
+852
+00:20:48,190 --> 00:20:48,200
+in this first release No property runes
+ 
+
+853
+00:20:48,200 --> 00:20:51,230
+in this first release No property runes
+for Shields only potency runes they are
+
+854
+00:20:51,230 --> 00:20:51,240
+for Shields only potency runes they are
+ 
+
+855
+00:20:51,240 --> 00:20:53,190
+for Shields only potency runes they are
+called reinforcing runes they increase
+
+856
+00:20:53,190 --> 00:20:53,200
+called reinforcing runes they increase
+ 
+
+857
+00:20:53,200 --> 00:20:56,149
+called reinforcing runes they increase
+hardness hit points and break
+
+858
+00:20:56,149 --> 00:20:56,159
+hardness hit points and break
+ 
+
+859
+00:20:56,159 --> 00:20:59,270
+hardness hit points and break
+threshold so next question was uh are
+
+860
+00:20:59,270 --> 00:20:59,280
+threshold so next question was uh are
+ 
+
+861
+00:20:59,280 --> 00:21:02,630
+threshold so next question was uh are
+there any changes to crafting and yes
+
+862
+00:21:02,630 --> 00:21:02,640
+there any changes to crafting and yes
+ 
+
+863
+00:21:02,640 --> 00:21:05,549
+there any changes to crafting and yes
+and um there are changes that I am
+
+864
+00:21:05,549 --> 00:21:05,559
+and um there are changes that I am
+ 
+
+865
+00:21:05,559 --> 00:21:09,590
+and um there are changes that I am
+pretty excited about that I like um
+
+866
+00:21:09,590 --> 00:21:09,600
+pretty excited about that I like um
+ 
+
+867
+00:21:09,600 --> 00:21:11,909
+pretty excited about that I like um
+these changes are going to alleviate
+
+868
+00:21:11,909 --> 00:21:11,919
+these changes are going to alleviate
+ 
+
+869
+00:21:11,919 --> 00:21:14,630
+these changes are going to alleviate
+some of the most common um concerns
+
+870
+00:21:14,630 --> 00:21:14,640
+some of the most common um concerns
+ 
+
+871
+00:21:14,640 --> 00:21:17,430
+some of the most common um concerns
+about crafting but if there's one thing
+
+872
+00:21:17,430 --> 00:21:17,440
+about crafting but if there's one thing
+ 
+
+873
+00:21:17,440 --> 00:21:18,710
+about crafting but if there's one thing
+I've learned running this channel is
+
+874
+00:21:18,710 --> 00:21:18,720
+I've learned running this channel is
+ 
+
+875
+00:21:18,720 --> 00:21:20,190
+I've learned running this channel is
+that there's a lot of people out there
+
+876
+00:21:20,190 --> 00:21:20,200
+that there's a lot of people out there
+ 
+
+877
+00:21:20,200 --> 00:21:21,310
+that there's a lot of people out there
+who just
+
+878
+00:21:21,310 --> 00:21:21,320
+who just
+ 
+
+879
+00:21:21,320 --> 00:21:23,510
+who just
+fundamentally hate the crafting rules in
+
+880
+00:21:23,510 --> 00:21:23,520
+fundamentally hate the crafting rules in
+ 
+
+881
+00:21:23,520 --> 00:21:24,870
+fundamentally hate the crafting rules in
+Pathfinder second addition for those
+
+882
+00:21:24,870 --> 00:21:24,880
+Pathfinder second addition for those
+ 
+
+883
+00:21:24,880 --> 00:21:28,110
+Pathfinder second addition for those
+folks this may not uh may not fix all
+
+884
+00:21:28,110 --> 00:21:28,120
+folks this may not uh may not fix all
+ 
+
+885
+00:21:28,120 --> 00:21:29,669
+folks this may not uh may not fix all
+year problems but here's what they've
+
+886
+00:21:29,669 --> 00:21:29,679
+year problems but here's what they've
+ 
+
+887
+00:21:29,679 --> 00:21:32,190
+year problems but here's what they've
+done to crafting first of all they have
+
+888
+00:21:32,190 --> 00:21:32,200
+done to crafting first of all they have
+ 
+
+889
+00:21:32,200 --> 00:21:35,630
+done to crafting first of all they have
+reduced the base time to craft from 4
+
+890
+00:21:35,630 --> 00:21:35,640
+reduced the base time to craft from 4
+ 
+
+891
+00:21:35,640 --> 00:21:41,110
+reduced the base time to craft from 4
+days to only two days so now you have to
+
+892
+00:21:41,110 --> 00:21:41,120
+days to only two days so now you have to
+ 
+
+893
+00:21:41,120 --> 00:21:42,830
+days to only two days so now you have to
+it still works the same way you still
+
+894
+00:21:42,830 --> 00:21:42,840
+it still works the same way you still
+ 
+
+895
+00:21:42,840 --> 00:21:46,630
+it still works the same way you still
+have to have half of the value of the
+
+896
+00:21:46,630 --> 00:21:46,640
+have to have half of the value of the
+ 
+
+897
+00:21:46,640 --> 00:21:48,950
+have to have half of the value of the
+item you want to craft and raw materials
+
+898
+00:21:48,950 --> 00:21:48,960
+item you want to craft and raw materials
+ 
+
+899
+00:21:48,960 --> 00:21:52,110
+item you want to craft and raw materials
+you spend two days instead of four days
+
+900
+00:21:52,110 --> 00:21:52,120
+you spend two days instead of four days
+ 
+
+901
+00:21:52,120 --> 00:21:56,070
+you spend two days instead of four days
+uh setting up and beginning work and uh
+
+902
+00:21:56,070 --> 00:21:56,080
+uh setting up and beginning work and uh
+ 
+
+903
+00:21:56,080 --> 00:21:59,070
+uh setting up and beginning work and uh
+exhaust those uh
+
+904
+00:21:59,070 --> 00:21:59,080
+exhaust those uh
+ 
+
+905
+00:21:59,080 --> 00:22:02,110
+exhaust those uh
+that value that half value of uh the
+
+906
+00:22:02,110 --> 00:22:02,120
+that value that half value of uh the
+ 
+
+907
+00:22:02,120 --> 00:22:05,110
+that value that half value of uh the
+price of the item you're crafting and
+
+908
+00:22:05,110 --> 00:22:05,120
+price of the item you're crafting and
+ 
+
+909
+00:22:05,120 --> 00:22:06,909
+price of the item you're crafting and
+then make a skill check and then after
+
+910
+00:22:06,909 --> 00:22:06,919
+then make a skill check and then after
+ 
+
+911
+00:22:06,919 --> 00:22:09,549
+then make a skill check and then after
+that you can choose to either pay the
+
+912
+00:22:09,549 --> 00:22:09,559
+that you can choose to either pay the
+ 
+
+913
+00:22:09,559 --> 00:22:11,110
+that you can choose to either pay the
+remaining cost out of your pocket and
+
+914
+00:22:11,110 --> 00:22:11,120
+remaining cost out of your pocket and
+ 
+
+915
+00:22:11,120 --> 00:22:14,750
+remaining cost out of your pocket and
+finish immediately or continue working
+
+916
+00:22:14,750 --> 00:22:14,760
+finish immediately or continue working
+ 
+
+917
+00:22:14,760 --> 00:22:16,630
+finish immediately or continue working
+additional days and for every additional
+
+918
+00:22:16,630 --> 00:22:16,640
+additional days and for every additional
+ 
+
+919
+00:22:16,640 --> 00:22:20,710
+additional days and for every additional
+day spent crafting you reduce the uh the
+
+920
+00:22:20,710 --> 00:22:20,720
+day spent crafting you reduce the uh the
+ 
+
+921
+00:22:20,720 --> 00:22:23,950
+day spent crafting you reduce the uh the
+remaining budget by the amount found on
+
+922
+00:22:23,950 --> 00:22:23,960
+remaining budget by the amount found on
+ 
+
+923
+00:22:23,960 --> 00:22:28,510
+remaining budget by the amount found on
+the earn income table that process is
+
+924
+00:22:28,510 --> 00:22:28,520
+the earn income table that process is
+ 
+
+925
+00:22:28,520 --> 00:22:31,310
+the earn income table that process is
+is all the same the difference is
+
+926
+00:22:31,310 --> 00:22:31,320
+is all the same the difference is
+ 
+
+927
+00:22:31,320 --> 00:22:33,510
+is all the same the difference is
+instead of having to work four days
+
+928
+00:22:33,510 --> 00:22:33,520
+instead of having to work four days
+ 
+
+929
+00:22:33,520 --> 00:22:35,870
+instead of having to work four days
+before you can finish you only have to
+
+930
+00:22:35,870 --> 00:22:35,880
+before you can finish you only have to
+ 
+
+931
+00:22:35,880 --> 00:22:40,110
+before you can finish you only have to
+work two also another big thing that
+
+932
+00:22:40,110 --> 00:22:40,120
+work two also another big thing that
+ 
+
+933
+00:22:40,120 --> 00:22:44,149
+work two also another big thing that
+changed is if what you are crafting is
+
+934
+00:22:44,149 --> 00:22:44,159
+changed is if what you are crafting is
+ 
+
+935
+00:22:44,159 --> 00:22:47,669
+changed is if what you are crafting is
+common Rarity then you do not need a
+
+936
+00:22:47,669 --> 00:22:47,679
+common Rarity then you do not need a
+ 
+
+937
+00:22:47,679 --> 00:22:51,750
+common Rarity then you do not need a
+formula for it so you no longer have to
+
+938
+00:22:51,750 --> 00:22:51,760
+formula for it so you no longer have to
+ 
+
+939
+00:22:51,760 --> 00:22:55,990
+formula for it so you no longer have to
+have a formula to craft something if it
+
+940
+00:22:55,990 --> 00:22:56,000
+have a formula to craft something if it
+ 
+
+941
+00:22:56,000 --> 00:22:58,789
+have a formula to craft something if it
+is common Rarity now if you want to
+
+942
+00:22:58,789 --> 00:22:58,799
+is common Rarity now if you want to
+ 
+
+943
+00:22:58,799 --> 00:23:00,510
+is common Rarity now if you want to
+craft something that is not common
+
+944
+00:23:00,510 --> 00:23:00,520
+craft something that is not common
+ 
+
+945
+00:23:00,520 --> 00:23:03,590
+craft something that is not common
+Rarity then you either must have the
+
+946
+00:23:03,590 --> 00:23:03,600
+Rarity then you either must have the
+ 
+
+947
+00:23:03,600 --> 00:23:06,269
+Rarity then you either must have the
+formula for that item or you must have
+
+948
+00:23:06,269 --> 00:23:06,279
+formula for that item or you must have
+ 
+
+949
+00:23:06,279 --> 00:23:09,149
+formula for that item or you must have
+an already crafted uh sample of that
+
+950
+00:23:09,149 --> 00:23:09,159
+an already crafted uh sample of that
+ 
+
+951
+00:23:09,159 --> 00:23:12,710
+an already crafted uh sample of that
+item if I want to uh craft a magic
+
+952
+00:23:12,710 --> 00:23:12,720
+item if I want to uh craft a magic
+ 
+
+953
+00:23:12,720 --> 00:23:15,710
+item if I want to uh craft a magic
+weapon and that magic weapon is uncommon
+
+954
+00:23:15,710 --> 00:23:15,720
+weapon and that magic weapon is uncommon
+ 
+
+955
+00:23:15,720 --> 00:23:17,750
+weapon and that magic weapon is uncommon
+Rarity I either need a formula for that
+
+956
+00:23:17,750 --> 00:23:17,760
+Rarity I either need a formula for that
+ 
+
+957
+00:23:17,760 --> 00:23:21,029
+Rarity I either need a formula for that
+weapon or I need to have that weapon in
+
+958
+00:23:21,029 --> 00:23:21,039
+weapon or I need to have that weapon in
+ 
+
+959
+00:23:21,039 --> 00:23:23,789
+weapon or I need to have that weapon in
+front of me for me to examine and figure
+
+960
+00:23:23,789 --> 00:23:23,799
+front of me for me to examine and figure
+ 
+
+961
+00:23:23,799 --> 00:23:26,190
+front of me for me to examine and figure
+out and basically
+
+962
+00:23:26,190 --> 00:23:26,200
+out and basically
+ 
+
+963
+00:23:26,200 --> 00:23:28,669
+out and basically
+replicate now
+
+964
+00:23:28,669 --> 00:23:28,679
+replicate now
+ 
+
+965
+00:23:28,679 --> 00:23:31,390
+replicate now
+here's the thing though you no longer
+
+966
+00:23:31,390 --> 00:23:31,400
+here's the thing though you no longer
+ 
+
+967
+00:23:31,400 --> 00:23:34,549
+here's the thing though you no longer
+have to have a formula for common Rarity
+
+968
+00:23:34,549 --> 00:23:34,559
+have to have a formula for common Rarity
+ 
+
+969
+00:23:34,559 --> 00:23:37,029
+have to have a formula for common Rarity
+and you don't have to have a formula for
+
+970
+00:23:37,029 --> 00:23:37,039
+and you don't have to have a formula for
+ 
+
+971
+00:23:37,039 --> 00:23:40,029
+and you don't have to have a formula for
+uncommon and more rare as long as you
+
+972
+00:23:40,029 --> 00:23:40,039
+uncommon and more rare as long as you
+ 
+
+973
+00:23:40,039 --> 00:23:44,470
+uncommon and more rare as long as you
+have a sample to work off of but if you
+
+974
+00:23:44,470 --> 00:23:44,480
+have a sample to work off of but if you
+ 
+
+975
+00:23:44,480 --> 00:23:46,830
+have a sample to work off of but if you
+do have the formula for what you're
+
+976
+00:23:46,830 --> 00:23:46,840
+do have the formula for what you're
+ 
+
+977
+00:23:46,840 --> 00:23:50,710
+do have the formula for what you're
+trying to craft then the amount of time
+
+978
+00:23:50,710 --> 00:23:50,720
+trying to craft then the amount of time
+ 
+
+979
+00:23:50,720 --> 00:23:54,390
+trying to craft then the amount of time
+needed to to craft it is further reduced
+
+980
+00:23:54,390 --> 00:23:54,400
+needed to to craft it is further reduced
+ 
+
+981
+00:23:54,400 --> 00:23:58,830
+needed to to craft it is further reduced
+from two days to only one day so if you
+
+982
+00:23:58,830 --> 00:23:58,840
+from two days to only one day so if you
+ 
+
+983
+00:23:58,840 --> 00:24:01,269
+from two days to only one day so if you
+were to apply this logic to the original
+
+984
+00:24:01,269 --> 00:24:01,279
+were to apply this logic to the original
+ 
+
+985
+00:24:01,279 --> 00:24:04,549
+were to apply this logic to the original
+crafting rules and you have the formula
+
+986
+00:24:04,549 --> 00:24:04,559
+crafting rules and you have the formula
+ 
+
+987
+00:24:04,559 --> 00:24:06,789
+crafting rules and you have the formula
+for whatever you're trying to craft then
+
+988
+00:24:06,789 --> 00:24:06,799
+for whatever you're trying to craft then
+ 
+
+989
+00:24:06,799 --> 00:24:08,710
+for whatever you're trying to craft then
+it goes from being a minimum four days
+
+990
+00:24:08,710 --> 00:24:08,720
+it goes from being a minimum four days
+ 
+
+991
+00:24:08,720 --> 00:24:14,029
+it goes from being a minimum four days
+to a minimum one day of work uh so I
+
+992
+00:24:14,029 --> 00:24:14,039
+to a minimum one day of work uh so I
+ 
+
+993
+00:24:14,039 --> 00:24:15,750
+to a minimum one day of work uh so I
+think that's going to make a lot of
+
+994
+00:24:15,750 --> 00:24:15,760
+think that's going to make a lot of
+ 
+
+995
+00:24:15,760 --> 00:24:18,110
+think that's going to make a lot of
+people happy out there even if it
+
+996
+00:24:18,110 --> 00:24:18,120
+people happy out there even if it
+ 
+
+997
+00:24:18,120 --> 00:24:20,750
+people happy out there even if it
+doesn't fix all of the concerns that
+
+998
+00:24:20,750 --> 00:24:20,760
+doesn't fix all of the concerns that
+ 
+
+999
+00:24:20,760 --> 00:24:24,310
+doesn't fix all of the concerns that
+exist uh with crafting moving on the
+
+1000
+00:24:24,310 --> 00:24:24,320
+exist uh with crafting moving on the
+ 
+
+1001
+00:24:24,320 --> 00:24:27,269
+exist uh with crafting moving on the
+next question is about disarm did they
+
+1002
+00:24:27,269 --> 00:24:27,279
+next question is about disarm did they
+ 
+
+1003
+00:24:27,279 --> 00:24:32,310
+next question is about disarm did they
+fix disarm rules um and I can't
+
+1004
+00:24:32,310 --> 00:24:32,320
+fix disarm rules um and I can't
+ 
+
+1005
+00:24:32,320 --> 00:24:34,870
+fix disarm rules um and I can't
+objectively say if it is fixed or not
+
+1006
+00:24:34,870 --> 00:24:34,880
+objectively say if it is fixed or not
+ 
+
+1007
+00:24:34,880 --> 00:24:37,190
+objectively say if it is fixed or not
+but they did improveed this did get a
+
+1008
+00:24:37,190 --> 00:24:37,200
+but they did improveed this did get a
+ 
+
+1009
+00:24:37,200 --> 00:24:40,310
+but they did improveed this did get a
+buff and what they've done is they've
+
+1010
+00:24:40,310 --> 00:24:40,320
+buff and what they've done is they've
+ 
+
+1011
+00:24:40,320 --> 00:24:43,630
+buff and what they've done is they've
+removed the limitation that's listed in
+
+1012
+00:24:43,630 --> 00:24:43,640
+removed the limitation that's listed in
+ 
+
+1013
+00:24:43,640 --> 00:24:47,549
+removed the limitation that's listed in
+the write up for disarm that says until
+
+1014
+00:24:47,549 --> 00:24:47,559
+the write up for disarm that says until
+ 
+
+1015
+00:24:47,559 --> 00:24:51,149
+the write up for disarm that says until
+the start of that creature's turn so in
+
+1016
+00:24:51,149 --> 00:24:51,159
+the start of that creature's turn so in
+ 
+
+1017
+00:24:51,159 --> 00:24:53,590
+the start of that creature's turn so in
+the original disarm rules if you
+
+1018
+00:24:53,590 --> 00:24:53,600
+the original disarm rules if you
+ 
+
+1019
+00:24:53,600 --> 00:24:56,430
+the original disarm rules if you
+succeeded but not critically succeeded
+
+1020
+00:24:56,430 --> 00:24:56,440
+succeeded but not critically succeeded
+ 
+
+1021
+00:24:56,440 --> 00:25:00,590
+succeeded but not critically succeeded
+on a uh disarm attempt then you JW the
+
+1022
+00:25:00,590 --> 00:25:00,600
+on a uh disarm attempt then you JW the
+ 
+
+1023
+00:25:00,600 --> 00:25:03,830
+on a uh disarm attempt then you JW the
+item loose in your opponent's hand and
+
+1024
+00:25:03,830 --> 00:25:03,840
+item loose in your opponent's hand and
+ 
+
+1025
+00:25:03,840 --> 00:25:07,830
+item loose in your opponent's hand and
+that gives you a plus two to Future
+
+1026
+00:25:07,830 --> 00:25:07,840
+that gives you a plus two to Future
+ 
+
+1027
+00:25:07,840 --> 00:25:10,190
+that gives you a plus two to Future
+attempts to knock it out which would
+
+1028
+00:25:10,190 --> 00:25:10,200
+attempts to knock it out which would
+ 
+
+1029
+00:25:10,200 --> 00:25:12,830
+attempts to knock it out which would
+require a critical success and it
+
+1030
+00:25:12,830 --> 00:25:12,840
+require a critical success and it
+ 
+
+1031
+00:25:12,840 --> 00:25:15,470
+require a critical success and it
+imposes a negative -2 penalty to that
+
+1032
+00:25:15,470 --> 00:25:15,480
+imposes a negative -2 penalty to that
+ 
+
+1033
+00:25:15,480 --> 00:25:18,750
+imposes a negative -2 penalty to that
+person uh wanting to use it but in the
+
+1034
+00:25:18,750 --> 00:25:18,760
+person uh wanting to use it but in the
+ 
+
+1035
+00:25:18,760 --> 00:25:21,230
+person uh wanting to use it but in the
+original rules those penalties
+
+1036
+00:25:21,230 --> 00:25:21,240
+original rules those penalties
+ 
+
+1037
+00:25:21,240 --> 00:25:23,789
+original rules those penalties
+immediately went away at the start of
+
+1038
+00:25:23,789 --> 00:25:23,799
+immediately went away at the start of
+ 
+
+1039
+00:25:23,799 --> 00:25:26,389
+immediately went away at the start of
+that creature's next turn which
+
+1040
+00:25:26,389 --> 00:25:26,399
+that creature's next turn which
+ 
+
+1041
+00:25:26,399 --> 00:25:28,190
+that creature's next turn which
+basically meant imposing
+
+1042
+00:25:28,190 --> 00:25:28,200
+basically meant imposing
+ 
+
+1043
+00:25:28,200 --> 00:25:30,549
+basically meant imposing
+the2 to their attacks with the weapon
+
+1044
+00:25:30,549 --> 00:25:30,559
+the2 to their attacks with the weapon
+ 
+
+1045
+00:25:30,559 --> 00:25:32,950
+the2 to their attacks with the weapon
+you're trying to disarm completely
+
+1046
+00:25:32,950 --> 00:25:32,960
+you're trying to disarm completely
+ 
+
+1047
+00:25:32,960 --> 00:25:35,549
+you're trying to disarm completely
+useless except if maybe they were going
+
+1048
+00:25:35,549 --> 00:25:35,559
+useless except if maybe they were going
+ 
+
+1049
+00:25:35,559 --> 00:25:39,510
+useless except if maybe they were going
+to uh get an opportunity attack
+
+1050
+00:25:39,510 --> 00:25:39,520
+to uh get an opportunity attack
+ 
+
+1051
+00:25:39,520 --> 00:25:42,590
+to uh get an opportunity attack
+um uh which is no longer called an
+
+1052
+00:25:42,590 --> 00:25:42,600
+um uh which is no longer called an
+ 
+
+1053
+00:25:42,600 --> 00:25:45,950
+um uh which is no longer called an
+attack of opportunity in this system uh
+
+1054
+00:25:45,950 --> 00:25:45,960
+attack of opportunity in this system uh
+ 
+
+1055
+00:25:45,960 --> 00:25:48,190
+attack of opportunity in this system uh
+but uh I'm sure you get the idea that's
+
+1056
+00:25:48,190 --> 00:25:48,200
+but uh I'm sure you get the idea that's
+ 
+
+1057
+00:25:48,200 --> 00:25:51,909
+but uh I'm sure you get the idea that's
+very limited use the new version of his
+
+1058
+00:25:51,909 --> 00:25:51,919
+very limited use the new version of his
+ 
+
+1059
+00:25:51,919 --> 00:25:55,470
+very limited use the new version of his
+arm just removes that language and
+
+1060
+00:25:55,470 --> 00:25:55,480
+arm just removes that language and
+ 
+
+1061
+00:25:55,480 --> 00:25:58,230
+arm just removes that language and
+instead the penalty that's app applied
+
+1062
+00:25:58,230 --> 00:25:58,240
+instead the penalty that's app applied
+ 
+
+1063
+00:25:58,240 --> 00:26:01,190
+instead the penalty that's app applied
+to using an item that has been knocked
+
+1064
+00:26:01,190 --> 00:26:01,200
+to using an item that has been knocked
+ 
+
+1065
+00:26:01,200 --> 00:26:05,350
+to using an item that has been knocked
+Loose by a disarm attempt persists until
+
+1066
+00:26:05,350 --> 00:26:05,360
+Loose by a disarm attempt persists until
+ 
+
+1067
+00:26:05,360 --> 00:26:09,070
+Loose by a disarm attempt persists until
+that person spins an action to to
+
+1068
+00:26:09,070 --> 00:26:09,080
+that person spins an action to to
+ 
+
+1069
+00:26:09,080 --> 00:26:10,669
+that person spins an action to to
+interact with the weapon or whatever
+
+1070
+00:26:10,669 --> 00:26:10,679
+interact with the weapon or whatever
+ 
+
+1071
+00:26:10,679 --> 00:26:13,070
+interact with the weapon or whatever
+you're trying to remove from their grasp
+
+1072
+00:26:13,070 --> 00:26:13,080
+you're trying to remove from their grasp
+ 
+
+1073
+00:26:13,080 --> 00:26:17,710
+you're trying to remove from their grasp
+and fix their grip so uh that so when it
+
+1074
+00:26:17,710 --> 00:26:17,720
+and fix their grip so uh that so when it
+ 
+
+1075
+00:26:17,720 --> 00:26:19,630
+and fix their grip so uh that so when it
+comes to that that character that
+
+1076
+00:26:19,630 --> 00:26:19,640
+comes to that that character that
+ 
+
+1077
+00:26:19,640 --> 00:26:21,110
+comes to that that character that
+enemy's turn they're going to have to
+
+1078
+00:26:21,110 --> 00:26:21,120
+enemy's turn they're going to have to
+ 
+
+1079
+00:26:21,120 --> 00:26:22,750
+enemy's turn they're going to have to
+make the decision do I want to attack
+
+1080
+00:26:22,750 --> 00:26:22,760
+make the decision do I want to attack
+ 
+
+1081
+00:26:22,760 --> 00:26:24,350
+make the decision do I want to attack
+with this and suffer a negative -2 to
+
+1082
+00:26:24,350 --> 00:26:24,360
+with this and suffer a negative -2 to
+ 
+
+1083
+00:26:24,360 --> 00:26:26,950
+with this and suffer a negative -2 to
+the attack or do I want to sacrifice one
+
+1084
+00:26:26,950 --> 00:26:26,960
+the attack or do I want to sacrifice one
+ 
+
+1085
+00:26:26,960 --> 00:26:31,870
+the attack or do I want to sacrifice one
+of my three actions to regrip the weapon
+
+1086
+00:26:31,870 --> 00:26:31,880
+of my three actions to regrip the weapon
+ 
+
+1087
+00:26:31,880 --> 00:26:36,110
+of my three actions to regrip the weapon
+properly um and remove those penalties
+
+1088
+00:26:36,110 --> 00:26:36,120
+properly um and remove those penalties
+ 
+
+1089
+00:26:36,120 --> 00:26:41,029
+properly um and remove those penalties
+so probably is not the uh the fix
+
+1090
+00:26:41,029 --> 00:26:41,039
+so probably is not the uh the fix
+ 
+
+1091
+00:26:41,039 --> 00:26:42,389
+so probably is not the uh the fix
+solution that some people want it's not
+
+1092
+00:26:42,389 --> 00:26:42,399
+solution that some people want it's not
+ 
+
+1093
+00:26:42,399 --> 00:26:44,510
+solution that some people want it's not
+going back to the housian days of
+
+1094
+00:26:44,510 --> 00:26:44,520
+going back to the housian days of
+ 
+
+1095
+00:26:44,520 --> 00:26:48,430
+going back to the housian days of
+Pathfinder first edition but this is
+
+1096
+00:26:48,430 --> 00:26:48,440
+Pathfinder first edition but this is
+ 
+
+1097
+00:26:48,440 --> 00:26:51,669
+Pathfinder first edition but this is
+definitely a buff to disarm attempts so
+
+1098
+00:26:51,669 --> 00:26:51,679
+definitely a buff to disarm attempts so
+ 
+
+1099
+00:26:51,679 --> 00:26:55,389
+definitely a buff to disarm attempts so
+next up we have the Ruffian Rogue and
+
+1100
+00:26:55,389 --> 00:26:55,399
+next up we have the Ruffian Rogue and
+ 
+
+1101
+00:26:55,399 --> 00:26:57,430
+next up we have the Ruffian Rogue and
+the Ruffian Rogue is something that uh
+
+1102
+00:26:57,430 --> 00:26:57,440
+the Ruffian Rogue is something that uh
+ 
+
+1103
+00:26:57,440 --> 00:26:59,230
+the Ruffian Rogue is something that uh
+they had hinted that there were changes
+
+1104
+00:26:59,230 --> 00:26:59,240
+they had hinted that there were changes
+ 
+
+1105
+00:26:59,240 --> 00:27:01,990
+they had hinted that there were changes
+coming for so now they're here so let's
+
+1106
+00:27:01,990 --> 00:27:02,000
+coming for so now they're here so let's
+ 
+
+1107
+00:27:02,000 --> 00:27:04,630
+coming for so now they're here so let's
+talk about them this is going to deal
+
+1108
+00:27:04,630 --> 00:27:04,640
+talk about them this is going to deal
+ 
+
+1109
+00:27:04,640 --> 00:27:07,950
+talk about them this is going to deal
+with what weapons a Ruffian Rogue can
+
+1110
+00:27:07,950 --> 00:27:07,960
+with what weapons a Ruffian Rogue can
+ 
+
+1111
+00:27:07,960 --> 00:27:11,230
+with what weapons a Ruffian Rogue can
+use to make sneake attacks in the
+
+1112
+00:27:11,230 --> 00:27:11,240
+use to make sneake attacks in the
+ 
+
+1113
+00:27:11,240 --> 00:27:13,630
+use to make sneake attacks in the
+original Legacy first release of
+
+1114
+00:27:13,630 --> 00:27:13,640
+original Legacy first release of
+ 
+
+1115
+00:27:13,640 --> 00:27:16,190
+original Legacy first release of
+Pathfinder second edition uh that was
+
+1116
+00:27:16,190 --> 00:27:16,200
+Pathfinder second edition uh that was
+ 
+
+1117
+00:27:16,200 --> 00:27:19,149
+Pathfinder second edition uh that was
+limited to simple weapons they could use
+
+1118
+00:27:19,149 --> 00:27:19,159
+limited to simple weapons they could use
+ 
+
+1119
+00:27:19,159 --> 00:27:22,430
+limited to simple weapons they could use
+Simple weapons to make their sneak
+
+1120
+00:27:22,430 --> 00:27:22,440
+Simple weapons to make their sneak
+ 
+
+1121
+00:27:22,440 --> 00:27:25,310
+Simple weapons to make their sneak
+attacks and that's been changed uh and
+
+1122
+00:27:25,310 --> 00:27:25,320
+attacks and that's been changed uh and
+ 
+
+1123
+00:27:25,320 --> 00:27:28,230
+attacks and that's been changed uh and
+it now reads as the following you can
+
+1124
+00:27:28,230 --> 00:27:28,240
+it now reads as the following you can
+ 
+
+1125
+00:27:28,240 --> 00:27:31,590
+it now reads as the following you can
+deal sneak attack damage with any weapon
+
+1126
+00:27:31,590 --> 00:27:31,600
+deal sneak attack damage with any weapon
+ 
+
+1127
+00:27:31,600 --> 00:27:34,430
+deal sneak attack damage with any weapon
+not just the weapons listed in the sneak
+
+1128
+00:27:34,430 --> 00:27:34,440
+not just the weapons listed in the sneak
+ 
+
+1129
+00:27:34,440 --> 00:27:37,510
+not just the weapons listed in the sneak
+attack class feature this benefit does
+
+1130
+00:27:37,510 --> 00:27:37,520
+attack class feature this benefit does
+ 
+
+1131
+00:27:37,520 --> 00:27:40,149
+attack class feature this benefit does
+not apply to a simple weapon with a
+
+1132
+00:27:40,149 --> 00:27:40,159
+not apply to a simple weapon with a
+ 
+
+1133
+00:27:40,159 --> 00:27:43,070
+not apply to a simple weapon with a
+damage die greater than d8 or a marshall
+
+1134
+00:27:43,070 --> 00:27:43,080
+damage die greater than d8 or a marshall
+ 
+
+1135
+00:27:43,080 --> 00:27:45,789
+damage die greater than d8 or a marshall
+or Advanced weapon with a damage die
+
+1136
+00:27:45,789 --> 00:27:45,799
+or Advanced weapon with a damage die
+ 
+
+1137
+00:27:45,799 --> 00:27:49,470
+or Advanced weapon with a damage die
+greater than D6 apply any abilities that
+
+1138
+00:27:49,470 --> 00:27:49,480
+greater than D6 apply any abilities that
+ 
+
+1139
+00:27:49,480 --> 00:27:52,870
+greater than D6 apply any abilities that
+alter the damage die first critical hits
+
+1140
+00:27:52,870 --> 00:27:52,880
+alter the damage die first critical hits
+ 
+
+1141
+00:27:52,880 --> 00:27:54,430
+alter the damage die first critical hits
+you make with these weapons gain the
+
+1142
+00:27:54,430 --> 00:27:54,440
+you make with these weapons gain the
+ 
+
+1143
+00:27:54,440 --> 00:27:56,789
+you make with these weapons gain the
+weapon critical specialization benefit
+
+1144
+00:27:56,789 --> 00:27:56,799
+weapon critical specialization benefit
+ 
+
+1145
+00:27:56,799 --> 00:27:59,950
+weapon critical specialization benefit
+if the target is off guard to you um
+
+1146
+00:27:59,950 --> 00:27:59,960
+if the target is off guard to you um
+ 
+
+1147
+00:27:59,960 --> 00:28:03,230
+if the target is off guard to you um
+offu by the way is the new term for flat
+
+1148
+00:28:03,230 --> 00:28:03,240
+offu by the way is the new term for flat
+ 
+
+1149
+00:28:03,240 --> 00:28:05,830
+offu by the way is the new term for flat
+footed so uh this was great they're
+
+1150
+00:28:05,830 --> 00:28:05,840
+footed so uh this was great they're
+ 
+
+1151
+00:28:05,840 --> 00:28:09,350
+footed so uh this was great they're
+they're uh greatly expanding the weapons
+
+1152
+00:28:09,350 --> 00:28:09,360
+they're uh greatly expanding the weapons
+ 
+
+1153
+00:28:09,360 --> 00:28:12,230
+they're uh greatly expanding the weapons
+that a Ruffian Rogue can use to make
+
+1154
+00:28:12,230 --> 00:28:12,240
+that a Ruffian Rogue can use to make
+ 
+
+1155
+00:28:12,240 --> 00:28:15,230
+that a Ruffian Rogue can use to make
+snake attacks with however there is a
+
+1156
+00:28:15,230 --> 00:28:15,240
+snake attacks with however there is a
+ 
+
+1157
+00:28:15,240 --> 00:28:19,470
+snake attacks with however there is a
+damag die cap again for simple weapons
+
+1158
+00:28:19,470 --> 00:28:19,480
+damag die cap again for simple weapons
+ 
+
+1159
+00:28:19,480 --> 00:28:22,789
+damag die cap again for simple weapons
+that cap is d8 and for Marshall or
+
+1160
+00:28:22,789 --> 00:28:22,799
+that cap is d8 and for Marshall or
+ 
+
+1161
+00:28:22,799 --> 00:28:25,710
+that cap is d8 and for Marshall or
+Advanced weapons that cap is at
+
+1162
+00:28:25,710 --> 00:28:25,720
+Advanced weapons that cap is at
+ 
+
+1163
+00:28:25,720 --> 00:28:30,190
+Advanced weapons that cap is at
+D6 so next is uh a question that um by
+
+1164
+00:28:30,190 --> 00:28:30,200
+D6 so next is uh a question that um by
+ 
+
+1165
+00:28:30,200 --> 00:28:32,950
+D6 so next is uh a question that um by
+now if you're on Reddit or following uh
+
+1166
+00:28:32,950 --> 00:28:32,960
+now if you're on Reddit or following uh
+ 
+
+1167
+00:28:32,960 --> 00:28:34,830
+now if you're on Reddit or following uh
+a number of my peers in the world of
+
+1168
+00:28:34,830 --> 00:28:34,840
+a number of my peers in the world of
+ 
+
+1169
+00:28:34,840 --> 00:28:37,190
+a number of my peers in the world of
+YouTube you've probably heard an awful
+
+1170
+00:28:37,190 --> 00:28:37,200
+YouTube you've probably heard an awful
+ 
+
+1171
+00:28:37,200 --> 00:28:41,909
+YouTube you've probably heard an awful
+lot about and that is wounded and dying
+
+1172
+00:28:41,909 --> 00:28:41,919
+lot about and that is wounded and dying
+ 
+
+1173
+00:28:41,919 --> 00:28:45,389
+lot about and that is wounded and dying
+did they clarify exactly when the
+
+1174
+00:28:45,389 --> 00:28:45,399
+did they clarify exactly when the
+ 
+
+1175
+00:28:45,399 --> 00:28:48,870
+did they clarify exactly when the
+wounded value is added to your your
+
+1176
+00:28:48,870 --> 00:28:48,880
+wounded value is added to your your
+ 
+
+1177
+00:28:48,880 --> 00:28:52,029
+wounded value is added to your your
+dying condition value and this goes back
+
+1178
+00:28:52,029 --> 00:28:52,039
+dying condition value and this goes back
+ 
+
+1179
+00:28:52,039 --> 00:28:54,230
+dying condition value and this goes back
+to inconsistencies in the original text
+
+1180
+00:28:54,230 --> 00:28:54,240
+to inconsistencies in the original text
+ 
+
+1181
+00:28:54,240 --> 00:28:57,029
+to inconsistencies in the original text
+and also the beginnner bunks had areas
+
+1182
+00:28:57,029 --> 00:28:57,039
+and also the beginnner bunks had areas
+ 
+
+1183
+00:28:57,039 --> 00:29:00,149
+and also the beginnner bunks had areas
+where they they said that uh the wounded
+
+1184
+00:29:00,149 --> 00:29:00,159
+where they they said that uh the wounded
+ 
+
+1185
+00:29:00,159 --> 00:29:02,230
+where they they said that uh the wounded
+condition only applies to your or only
+
+1186
+00:29:02,230 --> 00:29:02,240
+condition only applies to your or only
+ 
+
+1187
+00:29:02,240 --> 00:29:04,310
+condition only applies to your or only
+increases your dying value at the moment
+
+1188
+00:29:04,310 --> 00:29:04,320
+increases your dying value at the moment
+ 
+
+1189
+00:29:04,320 --> 00:29:06,549
+increases your dying value at the moment
+you become unconscious and there's other
+
+1190
+00:29:06,549 --> 00:29:06,559
+you become unconscious and there's other
+ 
+
+1191
+00:29:06,559 --> 00:29:09,630
+you become unconscious and there's other
+places that say that you add the
+
+1192
+00:29:09,630 --> 00:29:09,640
+places that say that you add the
+ 
+
+1193
+00:29:09,640 --> 00:29:13,710
+places that say that you add the
+wounded's value to your dying value
+
+1194
+00:29:13,710 --> 00:29:13,720
+wounded's value to your dying value
+ 
+
+1195
+00:29:13,720 --> 00:29:17,149
+wounded's value to your dying value
+every single time you either fail a
+
+1196
+00:29:17,149 --> 00:29:17,159
+every single time you either fail a
+ 
+
+1197
+00:29:17,159 --> 00:29:19,029
+every single time you either fail a
+recovery check while you're unconscious
+
+1198
+00:29:19,029 --> 00:29:19,039
+recovery check while you're unconscious
+ 
+
+1199
+00:29:19,039 --> 00:29:21,830
+recovery check while you're unconscious
+with the dying condition or whenever you
+
+1200
+00:29:21,830 --> 00:29:21,840
+with the dying condition or whenever you
+ 
+
+1201
+00:29:21,840 --> 00:29:23,950
+with the dying condition or whenever you
+suffer additional damage while you have
+
+1202
+00:29:23,950 --> 00:29:23,960
+suffer additional damage while you have
+ 
+
+1203
+00:29:23,960 --> 00:29:26,029
+suffer additional damage while you have
+the dying condition the good news is
+
+1204
+00:29:26,029 --> 00:29:26,039
+the dying condition the good news is
+ 
+
+1205
+00:29:26,039 --> 00:29:28,110
+the dying condition the good news is
+this has been clarified
+
+1206
+00:29:28,110 --> 00:29:28,120
+this has been clarified
+ 
+
+1207
+00:29:28,120 --> 00:29:32,630
+this has been clarified
+uh the bad news is that I I absolutely
+
+1208
+00:29:32,630 --> 00:29:32,640
+uh the bad news is that I I absolutely
+ 
+
+1209
+00:29:32,640 --> 00:29:35,710
+uh the bad news is that I I absolutely
+cannot fathom why they decided to go
+
+1210
+00:29:35,710 --> 00:29:35,720
+cannot fathom why they decided to go
+ 
+
+1211
+00:29:35,720 --> 00:29:40,029
+cannot fathom why they decided to go
+this way uh but for whatever is worth
+
+1212
+00:29:40,029 --> 00:29:40,039
+this way uh but for whatever is worth
+ 
+
+1213
+00:29:40,039 --> 00:29:43,110
+this way uh but for whatever is worth
+the new official rules clearly specify
+
+1214
+00:29:43,110 --> 00:29:43,120
+the new official rules clearly specify
+ 
+
+1215
+00:29:43,120 --> 00:29:46,149
+the new official rules clearly specify
+that for Recovery checks the dying
+
+1216
+00:29:46,149 --> 00:29:46,159
+that for Recovery checks the dying
+ 
+
+1217
+00:29:46,159 --> 00:29:48,549
+that for Recovery checks the dying
+condition increases by one plus your
+
+1218
+00:29:48,549 --> 00:29:48,559
+condition increases by one plus your
+ 
+
+1219
+00:29:48,559 --> 00:29:53,070
+condition increases by one plus your
+wounded value on a failure or two plus
+
+1220
+00:29:53,070 --> 00:29:53,080
+wounded value on a failure or two plus
+ 
+
+1221
+00:29:53,080 --> 00:29:56,630
+wounded value on a failure or two plus
+the wounded value on a critical failure
+
+1222
+00:29:56,630 --> 00:29:56,640
+the wounded value on a critical failure
+ 
+
+1223
+00:29:56,640 --> 00:30:00,630
+the wounded value on a critical failure
+and also your wounded value is added to
+
+1224
+00:30:00,630 --> 00:30:00,640
+and also your wounded value is added to
+ 
+
+1225
+00:30:00,640 --> 00:30:02,710
+and also your wounded value is added to
+your dying value every time you suffer
+
+1226
+00:30:02,710 --> 00:30:02,720
+your dying value every time you suffer
+ 
+
+1227
+00:30:02,720 --> 00:30:04,110
+your dying value every time you suffer
+additional damage while you have the
+
+1228
+00:30:04,110 --> 00:30:04,120
+additional damage while you have the
+ 
+
+1229
+00:30:04,120 --> 00:30:05,470
+additional damage while you have the
+dying
+
+1230
+00:30:05,470 --> 00:30:05,480
+dying
+ 
+
+1231
+00:30:05,480 --> 00:30:08,430
+dying
+condition so if you are wounded one and
+
+1232
+00:30:08,430 --> 00:30:08,440
+condition so if you are wounded one and
+ 
+
+1233
+00:30:08,440 --> 00:30:10,669
+condition so if you are wounded one and
+get knocked down into zero hit points
+
+1234
+00:30:10,669 --> 00:30:10,679
+get knocked down into zero hit points
+ 
+
+1235
+00:30:10,679 --> 00:30:14,509
+get knocked down into zero hit points
+you immediately go to dying two if you
+
+1236
+00:30:14,509 --> 00:30:14,519
+you immediately go to dying two if you
+ 
+
+1237
+00:30:14,519 --> 00:30:17,669
+you immediately go to dying two if you
+fail your first recovery check that is
+
+1238
+00:30:17,669 --> 00:30:17,679
+fail your first recovery check that is
+ 
+
+1239
+00:30:17,679 --> 00:30:20,230
+fail your first recovery check that is
+going to increase by one for the failure
+
+1240
+00:30:20,230 --> 00:30:20,240
+going to increase by one for the failure
+ 
+
+1241
+00:30:20,240 --> 00:30:22,950
+going to increase by one for the failure
+and go from two to three but you're also
+
+1242
+00:30:22,950 --> 00:30:22,960
+and go from two to three but you're also
+ 
+
+1243
+00:30:22,960 --> 00:30:25,470
+and go from two to three but you're also
+going to apply your wounded condition
+
+1244
+00:30:25,470 --> 00:30:25,480
+going to apply your wounded condition
+ 
+
+1245
+00:30:25,480 --> 00:30:30,789
+going to apply your wounded condition
+value again taking U24 and um Pathfinder
+
+1246
+00:30:30,789 --> 00:30:30,799
+value again taking U24 and um Pathfinder
+ 
+
+1247
+00:30:30,799 --> 00:30:33,190
+value again taking U24 and um Pathfinder
+second edition has been the most most
+
+1248
+00:30:33,190 --> 00:30:33,200
+second edition has been the most most
+ 
+
+1249
+00:30:33,200 --> 00:30:37,669
+second edition has been the most most
+lethal D20 based RPG I've ever run I
+
+1250
+00:30:37,669 --> 00:30:37,679
+lethal D20 based RPG I've ever run I
+ 
+
+1251
+00:30:37,679 --> 00:30:40,029
+lethal D20 based RPG I've ever run I
+have had more player deaths in this
+
+1252
+00:30:40,029 --> 00:30:40,039
+have had more player deaths in this
+ 
+
+1253
+00:30:40,039 --> 00:30:44,789
+have had more player deaths in this
+system than any others so making it more
+
+1254
+00:30:44,789 --> 00:30:44,799
+system than any others so making it more
+ 
+
+1255
+00:30:44,799 --> 00:30:49,710
+system than any others so making it more
+deadly more dangerous more difficult to
+
+1256
+00:30:49,710 --> 00:30:49,720
+deadly more dangerous more difficult to
+ 
+
+1257
+00:30:49,720 --> 00:30:53,909
+deadly more dangerous more difficult to
+play I have no clue why piso decided to
+
+1258
+00:30:53,909 --> 00:30:53,919
+play I have no clue why piso decided to
+ 
+
+1259
+00:30:53,919 --> 00:30:55,430
+play I have no clue why piso decided to
+go this
+
+1260
+00:30:55,430 --> 00:30:55,440
+go this
+ 
+
+1261
+00:30:55,440 --> 00:31:01,350
+go this
+way um if you if if your goal is to to
+
+1262
+00:31:01,350 --> 00:31:01,360
+way um if you if if your goal is to to
+ 
+
+1263
+00:31:01,360 --> 00:31:04,590
+way um if you if if your goal is to to
+uh scare away new players this is an
+
+1264
+00:31:04,590 --> 00:31:04,600
+uh scare away new players this is an
+ 
+
+1265
+00:31:04,600 --> 00:31:06,789
+uh scare away new players this is an
+excellent way to do that this is a great
+
+1266
+00:31:06,789 --> 00:31:06,799
+excellent way to do that this is a great
+ 
+
+1267
+00:31:06,799 --> 00:31:09,350
+excellent way to do that this is a great
+way to make sure people do not adopt and
+
+1268
+00:31:09,350 --> 00:31:09,360
+way to make sure people do not adopt and
+ 
+
+1269
+00:31:09,360 --> 00:31:10,549
+way to make sure people do not adopt and
+play your
+
+1270
+00:31:10,549 --> 00:31:10,559
+play your
+ 
+
+1271
+00:31:10,559 --> 00:31:15,350
+play your
+game uh so that said uh my house rule
+
+1272
+00:31:15,350 --> 00:31:15,360
+game uh so that said uh my house rule
+ 
+
+1273
+00:31:15,360 --> 00:31:17,669
+game uh so that said uh my house rule
+number one is I'm not doing that I'm
+
+1274
+00:31:17,669 --> 00:31:17,679
+number one is I'm not doing that I'm
+ 
+
+1275
+00:31:17,679 --> 00:31:20,430
+number one is I'm not doing that I'm
+only applying the wounded value to the
+
+1276
+00:31:20,430 --> 00:31:20,440
+only applying the wounded value to the
+ 
+
+1277
+00:31:20,440 --> 00:31:23,629
+only applying the wounded value to the
+dying condition when a person gains the
+
+1278
+00:31:23,629 --> 00:31:23,639
+dying condition when a person gains the
+ 
+
+1279
+00:31:23,639 --> 00:31:25,830
+dying condition when a person gains the
+dying condition and not after every
+
+1280
+00:31:25,830 --> 00:31:25,840
+dying condition and not after every
+ 
+
+1281
+00:31:25,840 --> 00:31:28,149
+dying condition and not after every
+single failed recovery Checker when they
+
+1282
+00:31:28,149 --> 00:31:28,159
+single failed recovery Checker when they
+ 
+
+1283
+00:31:28,159 --> 00:31:31,470
+single failed recovery Checker when they
+suffer additional damage uh the game is
+
+1284
+00:31:31,470 --> 00:31:31,480
+suffer additional damage uh the game is
+ 
+
+1285
+00:31:31,480 --> 00:31:35,110
+suffer additional damage uh the game is
+simply just lethal enough the way it is
+
+1286
+00:31:35,110 --> 00:31:35,120
+simply just lethal enough the way it is
+ 
+
+1287
+00:31:35,120 --> 00:31:37,789
+simply just lethal enough the way it is
+and if I'm introducing new players to my
+
+1288
+00:31:37,789 --> 00:31:37,799
+and if I'm introducing new players to my
+ 
+
+1289
+00:31:37,799 --> 00:31:39,710
+and if I'm introducing new players to my
+game uh I want to be a little more
+
+1290
+00:31:39,710 --> 00:31:39,720
+game uh I want to be a little more
+ 
+
+1291
+00:31:39,720 --> 00:31:43,470
+game uh I want to be a little more
+lenient with them making mistakes um and
+
+1292
+00:31:43,470 --> 00:31:43,480
+lenient with them making mistakes um and
+ 
+
+1293
+00:31:43,480 --> 00:31:48,350
+lenient with them making mistakes um and
+again I I am baffled frankly baffled by
+
+1294
+00:31:48,350 --> 00:31:48,360
+again I I am baffled frankly baffled by
+ 
+
+1295
+00:31:48,360 --> 00:31:50,509
+again I I am baffled frankly baffled by
+their decision to go this way but that's
+
+1296
+00:31:50,509 --> 00:31:50,519
+their decision to go this way but that's
+ 
+
+1297
+00:31:50,519 --> 00:31:53,070
+their decision to go this way but that's
+what the the new rule is and our next
+
+1298
+00:31:53,070 --> 00:31:53,080
+what the the new rule is and our next
+ 
+
+1299
+00:31:53,080 --> 00:31:57,750
+what the the new rule is and our next
+question is about the warrior Muse bard
+
+1300
+00:31:57,750 --> 00:31:57,760
+question is about the warrior Muse bard
+ 
+
+1301
+00:31:57,760 --> 00:31:59,870
+question is about the warrior Muse bard
+uh this question says that they
+
+1302
+00:31:59,870 --> 00:31:59,880
+uh this question says that they
+ 
+
+1303
+00:31:59,880 --> 00:32:01,909
+uh this question says that they
+mentioned that they were doing something
+
+1304
+00:32:01,909 --> 00:32:01,919
+mentioned that they were doing something
+ 
+
+1305
+00:32:01,919 --> 00:32:04,950
+mentioned that they were doing something
+to make it feel better but we haven't
+
+1306
+00:32:04,950 --> 00:32:04,960
+to make it feel better but we haven't
+ 
+
+1307
+00:32:04,960 --> 00:32:08,470
+to make it feel better but we haven't
+heard anything since okay so uh the
+
+1308
+00:32:08,470 --> 00:32:08,480
+heard anything since okay so uh the
+ 
+
+1309
+00:32:08,480 --> 00:32:11,629
+heard anything since okay so uh the
+warrior Muse Bard I did a a cursory look
+
+1310
+00:32:11,629 --> 00:32:11,639
+warrior Muse Bard I did a a cursory look
+ 
+
+1311
+00:32:11,639 --> 00:32:14,590
+warrior Muse Bard I did a a cursory look
+at it and I believe the changes are have
+
+1312
+00:32:14,590 --> 00:32:14,600
+at it and I believe the changes are have
+ 
+
+1313
+00:32:14,600 --> 00:32:17,350
+at it and I believe the changes are have
+been applied to the Marshall performance
+
+1314
+00:32:17,350 --> 00:32:17,360
+been applied to the Marshall performance
+ 
+
+1315
+00:32:17,360 --> 00:32:21,549
+been applied to the Marshall performance
+feat which all Warrior Muse bars receive
+
+1316
+00:32:21,549 --> 00:32:21,559
+feat which all Warrior Muse bars receive
+ 
+
+1317
+00:32:21,559 --> 00:32:25,350
+feat which all Warrior Muse bars receive
+the old version said you become trained
+
+1318
+00:32:25,350 --> 00:32:25,360
+the old version said you become trained
+ 
+
+1319
+00:32:25,360 --> 00:32:28,269
+the old version said you become trained
+with all Marshall weapons if you gain
+
+1320
+00:32:28,269 --> 00:32:28,279
+with all Marshall weapons if you gain
+ 
+
+1321
+00:32:28,279 --> 00:32:31,149
+with all Marshall weapons if you gain
+the B weapon expertise class feature
+
+1322
+00:32:31,149 --> 00:32:31,159
+the B weapon expertise class feature
+ 
+
+1323
+00:32:31,159 --> 00:32:33,110
+the B weapon expertise class feature
+your proficiency rank with Marshall
+
+1324
+00:32:33,110 --> 00:32:33,120
+your proficiency rank with Marshall
+ 
+
+1325
+00:32:33,120 --> 00:32:37,470
+your proficiency rank with Marshall
+weapons increases to expert now the new
+
+1326
+00:32:37,470 --> 00:32:37,480
+weapons increases to expert now the new
+ 
+
+1327
+00:32:37,480 --> 00:32:40,190
+weapons increases to expert now the new
+version of Marshall performance for the
+
+1328
+00:32:40,190 --> 00:32:40,200
+version of Marshall performance for the
+ 
+
+1329
+00:32:40,200 --> 00:32:44,070
+version of Marshall performance for the
+warrior Muse BS has been completely
+
+1330
+00:32:44,070 --> 00:32:44,080
+warrior Muse BS has been completely
+ 
+
+1331
+00:32:44,080 --> 00:32:47,990
+warrior Muse BS has been completely
+Rewritten and it now says when you have
+
+1332
+00:32:47,990 --> 00:32:48,000
+Rewritten and it now says when you have
+ 
+
+1333
+00:32:48,000 --> 00:32:51,549
+Rewritten and it now says when you have
+a courageous Anthem composition canri
+
+1334
+00:32:51,549 --> 00:32:51,559
+a courageous Anthem composition canri
+ 
+
+1335
+00:32:51,559 --> 00:32:54,590
+a courageous Anthem composition canri
+active Al so it's worth mentioning that
+
+1336
+00:32:54,590 --> 00:32:54,600
+active Al so it's worth mentioning that
+ 
+
+1337
+00:32:54,600 --> 00:32:58,070
+active Al so it's worth mentioning that
+courageous Anthem is the new name for
+
+1338
+00:32:58,070 --> 00:32:58,080
+courageous Anthem is the new name for
+ 
+
+1339
+00:32:58,080 --> 00:33:01,230
+courageous Anthem is the new name for
+inspire courage so this is sort of like
+
+1340
+00:33:01,230 --> 00:33:01,240
+inspire courage so this is sort of like
+ 
+
+1341
+00:33:01,240 --> 00:33:03,590
+inspire courage so this is sort of like
+saying in the old version whenever you
+
+1342
+00:33:03,590 --> 00:33:03,600
+saying in the old version whenever you
+ 
+
+1343
+00:33:03,600 --> 00:33:06,430
+saying in the old version whenever you
+have Inspire courage active but now it's
+
+1344
+00:33:06,430 --> 00:33:06,440
+have Inspire courage active but now it's
+ 
+
+1345
+00:33:06,440 --> 00:33:09,230
+have Inspire courage active but now it's
+called courageous Anthem so when you
+
+1346
+00:33:09,230 --> 00:33:09,240
+called courageous Anthem so when you
+ 
+
+1347
+00:33:09,240 --> 00:33:12,750
+called courageous Anthem so when you
+have that cantrip active and you damage
+
+1348
+00:33:12,750 --> 00:33:12,760
+have that cantrip active and you damage
+ 
+
+1349
+00:33:12,760 --> 00:33:15,549
+have that cantrip active and you damage
+an enemy with a strike the Spell's
+
+1350
+00:33:15,549 --> 00:33:15,559
+an enemy with a strike the Spell's
+ 
+
+1351
+00:33:15,559 --> 00:33:18,870
+an enemy with a strike the Spell's
+duration is extended by one round you
+
+1352
+00:33:18,870 --> 00:33:18,880
+duration is extended by one round you
+ 
+
+1353
+00:33:18,880 --> 00:33:22,269
+duration is extended by one round you
+can extend an individual casting only
+
+1354
+00:33:22,269 --> 00:33:22,279
+can extend an individual casting only
+ 
+
+1355
+00:33:22,279 --> 00:33:23,909
+can extend an individual casting only
+once this
+
+1356
+00:33:23,909 --> 00:33:23,919
+once this
+ 
+
+1357
+00:33:23,919 --> 00:33:27,110
+once this
+way so I believe what they're basically
+
+1358
+00:33:27,110 --> 00:33:27,120
+way so I believe what they're basically
+ 
+
+1359
+00:33:27,120 --> 00:33:31,070
+way so I believe what they're basically
+saying here is as long as you can
+
+1360
+00:33:31,070 --> 00:33:31,080
+saying here is as long as you can
+ 
+
+1361
+00:33:31,080 --> 00:33:34,470
+saying here is as long as you can
+reliably strike and deal damage to your
+
+1362
+00:33:34,470 --> 00:33:34,480
+reliably strike and deal damage to your
+ 
+
+1363
+00:33:34,480 --> 00:33:37,750
+reliably strike and deal damage to your
+enemies then you will only need to spend
+
+1364
+00:33:37,750 --> 00:33:37,760
+enemies then you will only need to spend
+ 
+
+1365
+00:33:37,760 --> 00:33:41,389
+enemies then you will only need to spend
+one action to cast a courageous Anthem
+
+1366
+00:33:41,389 --> 00:33:41,399
+one action to cast a courageous Anthem
+ 
+
+1367
+00:33:41,399 --> 00:33:45,470
+one action to cast a courageous Anthem
+or Inspire courage once every two rounds
+
+1368
+00:33:45,470 --> 00:33:45,480
+or Inspire courage once every two rounds
+ 
+
+1369
+00:33:45,480 --> 00:33:48,350
+or Inspire courage once every two rounds
+instead of having to spend an action on
+
+1370
+00:33:48,350 --> 00:33:48,360
+instead of having to spend an action on
+ 
+
+1371
+00:33:48,360 --> 00:33:52,230
+instead of having to spend an action on
+it every single round but again you have
+
+1372
+00:33:52,230 --> 00:33:52,240
+it every single round but again you have
+ 
+
+1373
+00:33:52,240 --> 00:33:54,710
+it every single round but again you have
+to be able to successfully strike and
+
+1374
+00:33:54,710 --> 00:33:54,720
+to be able to successfully strike and
+ 
+
+1375
+00:33:54,720 --> 00:33:57,269
+to be able to successfully strike and
+deal damage to an enemy in order to get
+
+1376
+00:33:57,269 --> 00:33:57,279
+deal damage to an enemy in order to get
+ 
+
+1377
+00:33:57,279 --> 00:34:00,669
+deal damage to an enemy in order to get
+that benefit uh it goes on to say if you
+
+1378
+00:34:00,669 --> 00:34:00,679
+that benefit uh it goes on to say if you
+ 
+
+1379
+00:34:00,679 --> 00:34:04,029
+that benefit uh it goes on to say if you
+gain the rallying Anthem or song of
+
+1380
+00:34:04,029 --> 00:34:04,039
+gain the rallying Anthem or song of
+ 
+
+1381
+00:34:04,039 --> 00:34:06,590
+gain the rallying Anthem or song of
+strength composition cantrips you can
+
+1382
+00:34:06,590 --> 00:34:06,600
+strength composition cantrips you can
+ 
+
+1383
+00:34:06,600 --> 00:34:08,950
+strength composition cantrips you can
+apply this benefit to those cantrips as
+
+1384
+00:34:08,950 --> 00:34:08,960
+apply this benefit to those cantrips as
+ 
+
+1385
+00:34:08,960 --> 00:34:12,510
+apply this benefit to those cantrips as
+well and uh this is another time where
+
+1386
+00:34:12,510 --> 00:34:12,520
+well and uh this is another time where
+ 
+
+1387
+00:34:12,520 --> 00:34:14,829
+well and uh this is another time where
+the U the names have changed a little
+
+1388
+00:34:14,829 --> 00:34:14,839
+the U the names have changed a little
+ 
+
+1389
+00:34:14,839 --> 00:34:18,430
+the U the names have changed a little
+bit rallying Anthem is what used to be
+
+1390
+00:34:18,430 --> 00:34:18,440
+bit rallying Anthem is what used to be
+ 
+
+1391
+00:34:18,440 --> 00:34:21,950
+bit rallying Anthem is what used to be
+known as Inspire defense it's now called
+
+1392
+00:34:21,950 --> 00:34:21,960
+known as Inspire defense it's now called
+ 
+
+1393
+00:34:21,960 --> 00:34:25,349
+known as Inspire defense it's now called
+rallying Anthem but um if you are a
+
+1394
+00:34:25,349 --> 00:34:25,359
+rallying Anthem but um if you are a
+ 
+
+1395
+00:34:25,359 --> 00:34:27,629
+rallying Anthem but um if you are a
+warrior Muse bar
+
+1396
+00:34:27,629 --> 00:34:27,639
+warrior Muse bar
+ 
+
+1397
+00:34:27,639 --> 00:34:29,790
+warrior Muse bar
+then you get that same benefit for
+
+1398
+00:34:29,790 --> 00:34:29,800
+then you get that same benefit for
+ 
+
+1399
+00:34:29,800 --> 00:34:32,069
+then you get that same benefit for
+courageous anthem for rallying Anthem
+
+1400
+00:34:32,069 --> 00:34:32,079
+courageous anthem for rallying Anthem
+ 
+
+1401
+00:34:32,079 --> 00:34:35,710
+courageous anthem for rallying Anthem
+and for song of strength as if you have
+
+1402
+00:34:35,710 --> 00:34:35,720
+and for song of strength as if you have
+ 
+
+1403
+00:34:35,720 --> 00:34:37,710
+and for song of strength as if you have
+one of those cast and it's active and
+
+1404
+00:34:37,710 --> 00:34:37,720
+one of those cast and it's active and
+ 
+
+1405
+00:34:37,720 --> 00:34:41,510
+one of those cast and it's active and
+you strike and deal damage to an enemy
+
+1406
+00:34:41,510 --> 00:34:41,520
+you strike and deal damage to an enemy
+ 
+
+1407
+00:34:41,520 --> 00:34:43,790
+you strike and deal damage to an enemy
+then it extends the duration of that
+
+1408
+00:34:43,790 --> 00:34:43,800
+then it extends the duration of that
+ 
+
+1409
+00:34:43,800 --> 00:34:46,030
+then it extends the duration of that
+casting by one round but you can only do
+
+1410
+00:34:46,030 --> 00:34:46,040
+casting by one round but you can only do
+ 
+
+1411
+00:34:46,040 --> 00:34:48,990
+casting by one round but you can only do
+that one time per casting so again I
+
+1412
+00:34:48,990 --> 00:34:49,000
+that one time per casting so again I
+ 
+
+1413
+00:34:49,000 --> 00:34:52,270
+that one time per casting so again I
+believe the benefit here is that uh as
+
+1414
+00:34:52,270 --> 00:34:52,280
+believe the benefit here is that uh as
+ 
+
+1415
+00:34:52,280 --> 00:34:54,389
+believe the benefit here is that uh as
+long as you can reliably hit and deal
+
+1416
+00:34:54,389 --> 00:34:54,399
+long as you can reliably hit and deal
+ 
+
+1417
+00:34:54,399 --> 00:34:56,869
+long as you can reliably hit and deal
+damage you will only sacrifice one
+
+1418
+00:34:56,869 --> 00:34:56,879
+damage you will only sacrifice one
+ 
+
+1419
+00:34:56,879 --> 00:35:00,430
+damage you will only sacrifice one
+action every two turns on those can
+
+1420
+00:35:00,430 --> 00:35:00,440
+action every two turns on those can
+ 
+
+1421
+00:35:00,440 --> 00:35:03,950
+action every two turns on those can
+trips instead of once every single turn
+
+1422
+00:35:03,950 --> 00:35:03,960
+trips instead of once every single turn
+ 
+
+1423
+00:35:03,960 --> 00:35:07,790
+trips instead of once every single turn
+all right so those were a handful of
+
+1424
+00:35:07,790 --> 00:35:07,800
+all right so those were a handful of
+ 
+
+1425
+00:35:07,800 --> 00:35:10,870
+all right so those were a handful of
+questions that were asked on Reddit and
+
+1426
+00:35:10,870 --> 00:35:10,880
+questions that were asked on Reddit and
+ 
+
+1427
+00:35:10,880 --> 00:35:13,910
+questions that were asked on Reddit and
+on patreon and uh if you have any
+
+1428
+00:35:13,910 --> 00:35:13,920
+on patreon and uh if you have any
+ 
+
+1429
+00:35:13,920 --> 00:35:16,030
+on patreon and uh if you have any
+questions about them please feel free to
+
+1430
+00:35:16,030 --> 00:35:16,040
+questions about them please feel free to
+ 
+
+1431
+00:35:16,040 --> 00:35:18,310
+questions about them please feel free to
+leave those in the comments if you have
+
+1432
+00:35:18,310 --> 00:35:18,320
+leave those in the comments if you have
+ 
+
+1433
+00:35:18,320 --> 00:35:21,069
+leave those in the comments if you have
+any questions that uh were not touched
+
+1434
+00:35:21,069 --> 00:35:21,079
+any questions that uh were not touched
+ 
+
+1435
+00:35:21,079 --> 00:35:24,190
+any questions that uh were not touched
+on in this video I do plan to do more
+
+1436
+00:35:24,190 --> 00:35:24,200
+on in this video I do plan to do more
+ 
+
+1437
+00:35:24,200 --> 00:35:26,589
+on in this video I do plan to do more
+videos about this please leave those in
+
+1438
+00:35:26,589 --> 00:35:26,599
+videos about this please leave those in
+ 
+
+1439
+00:35:26,599 --> 00:35:30,510
+videos about this please leave those in
+the comments as well and as always I
+
+1440
+00:35:30,510 --> 00:35:30,520
+the comments as well and as always I
+ 
+
+1441
+00:35:30,520 --> 00:35:31,870
+the comments as well and as always I
+want to take a quick moment to say thank
+
+1442
+00:35:31,870 --> 00:35:31,880
+want to take a quick moment to say thank
+ 
+
+1443
+00:35:31,880 --> 00:35:33,790
+want to take a quick moment to say thank
+you to everybody out there who supports
+
+1444
+00:35:33,790 --> 00:35:33,800
+you to everybody out there who supports
+ 
+
+1445
+00:35:33,800 --> 00:35:36,230
+you to everybody out there who supports
+me whether that's by leaving those
+
+1446
+00:35:36,230 --> 00:35:36,240
+me whether that's by leaving those
+ 
+
+1447
+00:35:36,240 --> 00:35:37,990
+me whether that's by leaving those
+questions and comments and suggestions
+
+1448
+00:35:37,990 --> 00:35:38,000
+questions and comments and suggestions
+ 
+
+1449
+00:35:38,000 --> 00:35:40,190
+questions and comments and suggestions
+or clicking the like button subscribing
+
+1450
+00:35:40,190 --> 00:35:40,200
+or clicking the like button subscribing
+ 
+
+1451
+00:35:40,200 --> 00:35:41,910
+or clicking the like button subscribing
+to this Channel or subscribing to the
+
+1452
+00:35:41,910 --> 00:35:41,920
+to this Channel or subscribing to the
+ 
+
+1453
+00:35:41,920 --> 00:35:43,829
+to this Channel or subscribing to the
+patreon I really appreciate everything
+
+1454
+00:35:43,829 --> 00:35:43,839
+patreon I really appreciate everything
+ 
+
+1455
+00:35:43,839 --> 00:35:46,150
+patreon I really appreciate everything
+you folks do to support me and with that
+
+1456
+00:35:46,150 --> 00:35:46,160
+you folks do to support me and with that
+ 
+
+1457
+00:35:46,160 --> 00:35:48,770
+you folks do to support me and with that
+thanks for watching take care and happy
+
+1458
+00:35:48,770 --> 00:35:48,780
+thanks for watching take care and happy
+ 
+
+1459
+00:35:48,780 --> 00:35:55,790
+thanks for watching take care and happy
+[Music]
+
+1460
+00:35:55,790 --> 00:35:55,800
+
+ 
+
+1461
+00:35:55,800 --> 00:35:58,800
+
+gaming
+

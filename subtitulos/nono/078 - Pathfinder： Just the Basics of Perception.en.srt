@@ -1,0 +1,1815 @@
+1
+00:00:00,719 --> 00:00:03,020
+
+hello and welcome to basics for gamers
+
+2
+00:00:03,020 --> 00:00:03,030
+hello and welcome to basics for gamers
+ 
+
+3
+00:00:03,030 --> 00:00:05,869
+hello and welcome to basics for gamers
+presents just the basics of perception
+
+4
+00:00:05,869 --> 00:00:05,879
+presents just the basics of perception
+ 
+
+5
+00:00:05,879 --> 00:00:08,480
+presents just the basics of perception
+in Pathfinder second edition just the
+
+6
+00:00:08,480 --> 00:00:08,490
+in Pathfinder second edition just the
+ 
+
+7
+00:00:08,490 --> 00:00:10,640
+in Pathfinder second edition just the
+basics is a new series that takes some
+
+8
+00:00:10,640 --> 00:00:10,650
+basics is a new series that takes some
+ 
+
+9
+00:00:10,650 --> 00:00:13,160
+basics is a new series that takes some
+of our longer courses and condenses all
+
+10
+00:00:13,160 --> 00:00:13,170
+of our longer courses and condenses all
+ 
+
+11
+00:00:13,170 --> 00:00:15,500
+of our longer courses and condenses all
+of the need-to-know information into
+
+12
+00:00:15,500 --> 00:00:15,510
+of the need-to-know information into
+ 
+
+13
+00:00:15,510 --> 00:00:17,989
+of the need-to-know information into
+about 10 minutes if you would like to
+
+14
+00:00:17,989 --> 00:00:17,999
+about 10 minutes if you would like to
+ 
+
+15
+00:00:17,999 --> 00:00:20,120
+about 10 minutes if you would like to
+see the full presentation on perception
+
+16
+00:00:20,120 --> 00:00:20,130
+see the full presentation on perception
+ 
+
+17
+00:00:20,130 --> 00:00:22,669
+see the full presentation on perception
+with all of the extra detail and
+
+18
+00:00:22,669 --> 00:00:22,679
+with all of the extra detail and
+ 
+
+19
+00:00:22,679 --> 00:00:25,189
+with all of the extra detail and
+examples you can find it linked in the
+
+20
+00:00:25,189 --> 00:00:25,199
+examples you can find it linked in the
+ 
+
+21
+00:00:25,199 --> 00:00:27,790
+examples you can find it linked in the
+description
+
+22
+00:00:27,790 --> 00:00:27,800
+
+ 
+
+23
+00:00:27,800 --> 00:00:29,560
+
+perception is a measure of what your
+
+24
+00:00:29,560 --> 00:00:29,570
+perception is a measure of what your
+ 
+
+25
+00:00:29,570 --> 00:00:31,390
+perception is a measure of what your
+character knows about their environment
+
+26
+00:00:31,390 --> 00:00:31,400
+character knows about their environment
+ 
+
+27
+00:00:31,400 --> 00:00:33,430
+character knows about their environment
+as well as what other creatures know
+
+28
+00:00:33,430 --> 00:00:33,440
+as well as what other creatures know
+ 
+
+29
+00:00:33,440 --> 00:00:35,619
+as well as what other creatures know
+about your character although it is
+
+30
+00:00:35,619 --> 00:00:35,629
+about your character although it is
+ 
+
+31
+00:00:35,629 --> 00:00:38,500
+about your character although it is
+technically not a skill its bonus is
+
+32
+00:00:38,500 --> 00:00:38,510
+technically not a skill its bonus is
+ 
+
+33
+00:00:38,510 --> 00:00:41,020
+technically not a skill its bonus is
+calculated the same way and functions
+
+34
+00:00:41,020 --> 00:00:41,030
+calculated the same way and functions
+ 
+
+35
+00:00:41,030 --> 00:00:43,530
+calculated the same way and functions
+very much like a skill in most regards
+
+36
+00:00:43,530 --> 00:00:43,540
+very much like a skill in most regards
+ 
+
+37
+00:00:43,540 --> 00:00:46,060
+very much like a skill in most regards
+whenever the GM needs to test if you
+
+38
+00:00:46,060 --> 00:00:46,070
+whenever the GM needs to test if you
+ 
+
+39
+00:00:46,070 --> 00:00:47,979
+whenever the GM needs to test if you
+notice something they will roll a
+
+40
+00:00:47,979 --> 00:00:47,989
+notice something they will roll a
+ 
+
+41
+00:00:47,989 --> 00:00:50,200
+notice something they will roll a
+perception check for you in secret and
+
+42
+00:00:50,200 --> 00:00:50,210
+perception check for you in secret and
+ 
+
+43
+00:00:50,210 --> 00:00:53,590
+perception check for you in secret and
+compare that chick's total to a DC such
+
+44
+00:00:53,590 --> 00:00:53,600
+compare that chick's total to a DC such
+ 
+
+45
+00:00:53,600 --> 00:00:56,310
+compare that chick's total to a DC such
+as the stealth DC of a hiding enemy
+
+46
+00:00:56,310 --> 00:00:56,320
+as the stealth DC of a hiding enemy
+ 
+
+47
+00:00:56,320 --> 00:00:58,869
+as the stealth DC of a hiding enemy
+perception is largely determined by your
+
+48
+00:00:58,869 --> 00:00:58,879
+perception is largely determined by your
+ 
+
+49
+00:00:58,879 --> 00:01:01,869
+perception is largely determined by your
+senses all senses are categorized as
+
+50
+00:01:01,869 --> 00:01:01,879
+senses all senses are categorized as
+ 
+
+51
+00:01:01,879 --> 00:01:05,020
+senses all senses are categorized as
+being either priests licenses imprecise
+
+52
+00:01:05,020 --> 00:01:05,030
+being either priests licenses imprecise
+ 
+
+53
+00:01:05,030 --> 00:01:08,980
+being either priests licenses imprecise
+senses or vague senses priests licenses
+
+54
+00:01:08,980 --> 00:01:08,990
+senses or vague senses priests licenses
+ 
+
+55
+00:01:08,990 --> 00:01:10,749
+senses or vague senses priests licenses
+allow you to perceive your surroundings
+
+56
+00:01:10,749 --> 00:01:10,759
+allow you to perceive your surroundings
+ 
+
+57
+00:01:10,759 --> 00:01:14,109
+allow you to perceive your surroundings
+in great detail vision is a precise
+
+58
+00:01:14,109 --> 00:01:14,119
+in great detail vision is a precise
+ 
+
+59
+00:01:14,119 --> 00:01:17,380
+in great detail vision is a precise
+sense imprecise senses allow you to
+
+60
+00:01:17,380 --> 00:01:17,390
+sense imprecise senses allow you to
+ 
+
+61
+00:01:17,390 --> 00:01:19,600
+sense imprecise senses allow you to
+perceive the presence of something but
+
+62
+00:01:19,600 --> 00:01:19,610
+perceive the presence of something but
+ 
+
+63
+00:01:19,610 --> 00:01:22,150
+perceive the presence of something but
+not with the accuracy in detail of a
+
+64
+00:01:22,150 --> 00:01:22,160
+not with the accuracy in detail of a
+ 
+
+65
+00:01:22,160 --> 00:01:25,330
+not with the accuracy in detail of a
+priest license for example hearing is an
+
+66
+00:01:25,330 --> 00:01:25,340
+priest license for example hearing is an
+ 
+
+67
+00:01:25,340 --> 00:01:28,630
+priest license for example hearing is an
+imprecise sense and vague senses might
+
+68
+00:01:28,630 --> 00:01:28,640
+imprecise sense and vague senses might
+ 
+
+69
+00:01:28,640 --> 00:01:31,450
+imprecise sense and vague senses might
+at the geums discretion allow you to
+
+70
+00:01:31,450 --> 00:01:31,460
+at the geums discretion allow you to
+ 
+
+71
+00:01:31,460 --> 00:01:33,669
+at the geums discretion allow you to
+perceive the vague presence of something
+
+72
+00:01:33,669 --> 00:01:33,679
+perceive the vague presence of something
+ 
+
+73
+00:01:33,679 --> 00:01:34,960
+perceive the vague presence of something
+but not much else
+
+74
+00:01:34,960 --> 00:01:34,970
+but not much else
+ 
+
+75
+00:01:34,970 --> 00:01:38,020
+but not much else
+for example smell is a vague sense for
+
+76
+00:01:38,020 --> 00:01:38,030
+for example smell is a vague sense for
+ 
+
+77
+00:01:38,030 --> 00:01:40,960
+for example smell is a vague sense for
+humans the amount of information you can
+
+78
+00:01:40,960 --> 00:01:40,970
+humans the amount of information you can
+ 
+
+79
+00:01:40,970 --> 00:01:43,479
+humans the amount of information you can
+perceive about a target is measured by
+
+80
+00:01:43,479 --> 00:01:43,489
+perceive about a target is measured by
+ 
+
+81
+00:01:43,489 --> 00:01:46,270
+perceive about a target is measured by
+its state of awareness relative to you
+
+82
+00:01:46,270 --> 00:01:46,280
+its state of awareness relative to you
+ 
+
+83
+00:01:46,280 --> 00:01:49,330
+its state of awareness relative to you
+all creatures and objects exist in at
+
+84
+00:01:49,330 --> 00:01:49,340
+all creatures and objects exist in at
+ 
+
+85
+00:01:49,340 --> 00:01:50,889
+all creatures and objects exist in at
+least one of four states of awareness
+
+86
+00:01:50,889 --> 00:01:50,899
+least one of four states of awareness
+ 
+
+87
+00:01:50,899 --> 00:01:54,639
+least one of four states of awareness
+which are unnoticed undetected hidden
+
+88
+00:01:54,639 --> 00:01:54,649
+which are unnoticed undetected hidden
+ 
+
+89
+00:01:54,649 --> 00:01:58,029
+which are unnoticed undetected hidden
+and observed when an enemy is unnoticed
+
+90
+00:01:58,029 --> 00:01:58,039
+and observed when an enemy is unnoticed
+ 
+
+91
+00:01:58,039 --> 00:02:01,719
+and observed when an enemy is unnoticed
+you have no idea that it's nearby when
+
+92
+00:02:01,719 --> 00:02:01,729
+you have no idea that it's nearby when
+ 
+
+93
+00:02:01,729 --> 00:02:04,809
+you have no idea that it's nearby when
+an enemy is undetected you don't know
+
+94
+00:02:04,809 --> 00:02:04,819
+an enemy is undetected you don't know
+ 
+
+95
+00:02:04,819 --> 00:02:08,109
+an enemy is undetected you don't know
+what space that enemy occupies this
+
+96
+00:02:08,109 --> 00:02:08,119
+what space that enemy occupies this
+ 
+
+97
+00:02:08,119 --> 00:02:09,910
+what space that enemy occupies this
+could be because you're not even aware
+
+98
+00:02:09,910 --> 00:02:09,920
+could be because you're not even aware
+ 
+
+99
+00:02:09,920 --> 00:02:12,180
+could be because you're not even aware
+that the creature is present and
+
+100
+00:02:12,180 --> 00:02:12,190
+that the creature is present and
+ 
+
+101
+00:02:12,190 --> 00:02:15,280
+that the creature is present and
+therefore it is both unnoticed and
+
+102
+00:02:15,280 --> 00:02:15,290
+therefore it is both unnoticed and
+ 
+
+103
+00:02:15,290 --> 00:02:18,699
+therefore it is both unnoticed and
+undetected or you could suspect the
+
+104
+00:02:18,699 --> 00:02:18,709
+undetected or you could suspect the
+ 
+
+105
+00:02:18,709 --> 00:02:21,309
+undetected or you could suspect the
+creatures present but not know exactly
+
+106
+00:02:21,309 --> 00:02:21,319
+creatures present but not know exactly
+ 
+
+107
+00:02:21,319 --> 00:02:24,190
+creatures present but not know exactly
+where it is in which case that target
+
+108
+00:02:24,190 --> 00:02:24,200
+where it is in which case that target
+ 
+
+109
+00:02:24,200 --> 00:02:26,770
+where it is in which case that target
+would be undetected
+
+110
+00:02:26,770 --> 00:02:26,780
+would be undetected
+ 
+
+111
+00:02:26,780 --> 00:02:29,320
+would be undetected
+for example say you're in a dark cave
+
+112
+00:02:29,320 --> 00:02:29,330
+for example say you're in a dark cave
+ 
+
+113
+00:02:29,330 --> 00:02:31,090
+for example say you're in a dark cave
+and you can hear the sounds of movement
+
+114
+00:02:31,090 --> 00:02:31,100
+and you can hear the sounds of movement
+ 
+
+115
+00:02:31,100 --> 00:02:33,910
+and you can hear the sounds of movement
+nearby but you can't see what's making
+
+116
+00:02:33,910 --> 00:02:33,920
+nearby but you can't see what's making
+ 
+
+117
+00:02:33,920 --> 00:02:36,850
+nearby but you can't see what's making
+the sounds or know exactly where they
+
+118
+00:02:36,850 --> 00:02:36,860
+the sounds or know exactly where they
+ 
+
+119
+00:02:36,860 --> 00:02:40,150
+the sounds or know exactly where they
+are when dealing with an undetected
+
+120
+00:02:40,150 --> 00:02:40,160
+are when dealing with an undetected
+ 
+
+121
+00:02:40,160 --> 00:02:40,720
+are when dealing with an undetected
+threat
+
+122
+00:02:40,720 --> 00:02:40,730
+threat
+ 
+
+123
+00:02:40,730 --> 00:02:43,030
+threat
+you are flat-footed against all of their
+
+124
+00:02:43,030 --> 00:02:43,040
+you are flat-footed against all of their
+ 
+
+125
+00:02:43,040 --> 00:02:45,790
+you are flat-footed against all of their
+attacks and although you're not certain
+
+126
+00:02:45,790 --> 00:02:45,800
+attacks and although you're not certain
+ 
+
+127
+00:02:45,800 --> 00:02:48,040
+attacks and although you're not certain
+where the enemy is you can take your
+
+128
+00:02:48,040 --> 00:02:48,050
+where the enemy is you can take your
+ 
+
+129
+00:02:48,050 --> 00:02:50,260
+where the enemy is you can take your
+best guess and attack into the space
+
+130
+00:02:50,260 --> 00:02:50,270
+best guess and attack into the space
+ 
+
+131
+00:02:50,270 --> 00:02:52,150
+best guess and attack into the space
+that you think they're in and hope for
+
+132
+00:02:52,150 --> 00:02:52,160
+that you think they're in and hope for
+ 
+
+133
+00:02:52,160 --> 00:02:52,740
+that you think they're in and hope for
+the best
+
+134
+00:02:52,740 --> 00:02:52,750
+the best
+ 
+
+135
+00:02:52,750 --> 00:02:55,780
+the best
+when you do this the GM will make your
+
+136
+00:02:55,780 --> 00:02:55,790
+when you do this the GM will make your
+ 
+
+137
+00:02:55,790 --> 00:02:58,720
+when you do this the GM will make your
+attacker roll for you in secret as well
+
+138
+00:02:58,720 --> 00:02:58,730
+attacker roll for you in secret as well
+ 
+
+139
+00:02:58,730 --> 00:03:02,190
+attacker roll for you in secret as well
+as also rolling a flat check vs. DC 11
+
+140
+00:03:02,190 --> 00:03:02,200
+as also rolling a flat check vs. DC 11
+ 
+
+141
+00:03:02,200 --> 00:03:05,460
+as also rolling a flat check vs. DC 11
+unless you're making an area attack on a
+
+142
+00:03:05,460 --> 00:03:05,470
+unless you're making an area attack on a
+ 
+
+143
+00:03:05,470 --> 00:03:08,590
+unless you're making an area attack on a
+failed flat check your attack misses
+
+144
+00:03:08,590 --> 00:03:08,600
+failed flat check your attack misses
+ 
+
+145
+00:03:08,600 --> 00:03:10,930
+failed flat check your attack misses
+regardless of how high the attack roll
+
+146
+00:03:10,930 --> 00:03:10,940
+regardless of how high the attack roll
+ 
+
+147
+00:03:10,940 --> 00:03:13,720
+regardless of how high the attack roll
+was but the GM will not tell you why you
+
+148
+00:03:13,720 --> 00:03:13,730
+was but the GM will not tell you why you
+ 
+
+149
+00:03:13,730 --> 00:03:16,210
+was but the GM will not tell you why you
+miss they won't tell you that it was
+
+150
+00:03:16,210 --> 00:03:16,220
+miss they won't tell you that it was
+ 
+
+151
+00:03:16,220 --> 00:03:18,070
+miss they won't tell you that it was
+because you rolled lower than an armored
+
+152
+00:03:18,070 --> 00:03:18,080
+because you rolled lower than an armored
+ 
+
+153
+00:03:18,080 --> 00:03:19,900
+because you rolled lower than an armored
+class or because you failed at a flat
+
+154
+00:03:19,900 --> 00:03:19,910
+class or because you failed at a flat
+ 
+
+155
+00:03:19,910 --> 00:03:22,000
+class or because you failed at a flat
+check they would just tell you whether
+
+156
+00:03:22,000 --> 00:03:22,010
+check they would just tell you whether
+ 
+
+157
+00:03:22,010 --> 00:03:24,490
+check they would just tell you whether
+or not you hit an enemy in that square
+
+158
+00:03:24,490 --> 00:03:24,500
+or not you hit an enemy in that square
+ 
+
+159
+00:03:24,500 --> 00:03:26,410
+or not you hit an enemy in that square
+that you're targeting
+
+160
+00:03:26,410 --> 00:03:26,420
+that you're targeting
+ 
+
+161
+00:03:26,420 --> 00:03:28,330
+that you're targeting
+the next state of awareness is called
+
+162
+00:03:28,330 --> 00:03:28,340
+the next state of awareness is called
+ 
+
+163
+00:03:28,340 --> 00:03:31,090
+the next state of awareness is called
+hidden when a creature is hidden from
+
+164
+00:03:31,090 --> 00:03:31,100
+hidden when a creature is hidden from
+ 
+
+165
+00:03:31,100 --> 00:03:34,030
+hidden when a creature is hidden from
+you you know exactly which space they're
+
+166
+00:03:34,030 --> 00:03:34,040
+you you know exactly which space they're
+ 
+
+167
+00:03:34,040 --> 00:03:37,300
+you you know exactly which space they're
+in but you can't see them attacking a
+
+168
+00:03:37,300 --> 00:03:37,310
+in but you can't see them attacking a
+ 
+
+169
+00:03:37,310 --> 00:03:39,460
+in but you can't see them attacking a
+hidden creature works just like it does
+
+170
+00:03:39,460 --> 00:03:39,470
+hidden creature works just like it does
+ 
+
+171
+00:03:39,470 --> 00:03:42,400
+hidden creature works just like it does
+with attacking undetected targets except
+
+172
+00:03:42,400 --> 00:03:42,410
+with attacking undetected targets except
+ 
+
+173
+00:03:42,410 --> 00:03:44,770
+with attacking undetected targets except
+you make the attack roll and the flat
+
+174
+00:03:44,770 --> 00:03:44,780
+you make the attack roll and the flat
+ 
+
+175
+00:03:44,780 --> 00:03:47,770
+you make the attack roll and the flat
+check against DC 11 instead of the GM
+
+176
+00:03:47,770 --> 00:03:47,780
+check against DC 11 instead of the GM
+ 
+
+177
+00:03:47,780 --> 00:03:50,530
+check against DC 11 instead of the GM
+rolling those for you in secret hidden
+
+178
+00:03:50,530 --> 00:03:50,540
+rolling those for you in secret hidden
+ 
+
+179
+00:03:50,540 --> 00:03:52,840
+rolling those for you in secret hidden
+is the highest state of awareness that
+
+180
+00:03:52,840 --> 00:03:52,850
+is the highest state of awareness that
+ 
+
+181
+00:03:52,850 --> 00:03:55,270
+is the highest state of awareness that
+you can achieve while using only an
+
+182
+00:03:55,270 --> 00:03:55,280
+you can achieve while using only an
+ 
+
+183
+00:03:55,280 --> 00:03:58,200
+you can achieve while using only an
+imprecise sense like hearing
+
+184
+00:03:58,200 --> 00:03:58,210
+imprecise sense like hearing
+ 
+
+185
+00:03:58,210 --> 00:04:00,570
+imprecise sense like hearing
+and the final state of awareness is
+
+186
+00:04:00,570 --> 00:04:00,580
+and the final state of awareness is
+ 
+
+187
+00:04:00,580 --> 00:04:04,040
+and the final state of awareness is
+observed when you can see a target it is
+
+188
+00:04:04,040 --> 00:04:04,050
+observed when you can see a target it is
+ 
+
+189
+00:04:04,050 --> 00:04:07,260
+observed when you can see a target it is
+observed there are no special bonuses
+
+190
+00:04:07,260 --> 00:04:07,270
+observed there are no special bonuses
+ 
+
+191
+00:04:07,270 --> 00:04:10,050
+observed there are no special bonuses
+penalties or conditions imposed by an
+
+192
+00:04:10,050 --> 00:04:10,060
+penalties or conditions imposed by an
+ 
+
+193
+00:04:10,060 --> 00:04:13,320
+penalties or conditions imposed by an
+observed target however it is possible
+
+194
+00:04:13,320 --> 00:04:13,330
+observed target however it is possible
+ 
+
+195
+00:04:13,330 --> 00:04:15,900
+observed target however it is possible
+for an observed target to also have the
+
+196
+00:04:15,900 --> 00:04:15,910
+for an observed target to also have the
+ 
+
+197
+00:04:15,910 --> 00:04:18,420
+for an observed target to also have the
+concealed condition if you can see them
+
+198
+00:04:18,420 --> 00:04:18,430
+concealed condition if you can see them
+ 
+
+199
+00:04:18,430 --> 00:04:21,780
+concealed condition if you can see them
+but not see them clearly when attacking
+
+200
+00:04:21,780 --> 00:04:21,790
+but not see them clearly when attacking
+ 
+
+201
+00:04:21,790 --> 00:04:24,600
+but not see them clearly when attacking
+a target that is concealed you must make
+
+202
+00:04:24,600 --> 00:04:24,610
+a target that is concealed you must make
+ 
+
+203
+00:04:24,610 --> 00:04:26,820
+a target that is concealed you must make
+a flat check exactly as you do when
+
+204
+00:04:26,820 --> 00:04:26,830
+a flat check exactly as you do when
+ 
+
+205
+00:04:26,830 --> 00:04:29,310
+a flat check exactly as you do when
+attacking a hidden target but the DC is
+
+206
+00:04:29,310 --> 00:04:29,320
+attacking a hidden target but the DC is
+ 
+
+207
+00:04:29,320 --> 00:04:32,820
+attacking a hidden target but the DC is
+only 5 instead of 11 and unlike with
+
+208
+00:04:32,820 --> 00:04:32,830
+only 5 instead of 11 and unlike with
+ 
+
+209
+00:04:32,830 --> 00:04:35,520
+only 5 instead of 11 and unlike with
+undetected or hidden creatures you are
+
+210
+00:04:35,520 --> 00:04:35,530
+undetected or hidden creatures you are
+ 
+
+211
+00:04:35,530 --> 00:04:37,830
+undetected or hidden creatures you are
+not flat-footed against a concealed
+
+212
+00:04:37,830 --> 00:04:37,840
+not flat-footed against a concealed
+ 
+
+213
+00:04:37,840 --> 00:04:41,940
+not flat-footed against a concealed
+enemy also only a precise sense like
+
+214
+00:04:41,940 --> 00:04:41,950
+enemy also only a precise sense like
+ 
+
+215
+00:04:41,950 --> 00:04:46,700
+enemy also only a precise sense like
+vision can be used to observe a target
+
+216
+00:04:46,700 --> 00:04:46,710
+vision can be used to observe a target
+ 
+
+217
+00:04:46,710 --> 00:04:49,250
+vision can be used to observe a target
+when a player wishes to improve their
+
+218
+00:04:49,250 --> 00:04:49,260
+when a player wishes to improve their
+ 
+
+219
+00:04:49,260 --> 00:04:52,040
+when a player wishes to improve their
+awareness of a target they use the seek
+
+220
+00:04:52,040 --> 00:04:52,050
+awareness of a target they use the seek
+ 
+
+221
+00:04:52,050 --> 00:04:55,490
+awareness of a target they use the seek
+action this costs one action and a
+
+222
+00:04:55,490 --> 00:04:55,500
+action this costs one action and a
+ 
+
+223
+00:04:55,500 --> 00:04:57,890
+action this costs one action and a
+perception check is rowed in secret by
+
+224
+00:04:57,890 --> 00:04:57,900
+perception check is rowed in secret by
+ 
+
+225
+00:04:57,900 --> 00:05:01,370
+perception check is rowed in secret by
+the GM that chicks total is contested by
+
+226
+00:05:01,370 --> 00:05:01,380
+the GM that chicks total is contested by
+ 
+
+227
+00:05:01,380 --> 00:05:03,640
+the GM that chicks total is contested by
+the stealth DC's of any hidden or
+
+228
+00:05:03,640 --> 00:05:03,650
+the stealth DC's of any hidden or
+ 
+
+229
+00:05:03,650 --> 00:05:05,780
+the stealth DC's of any hidden or
+undetected creatures in your field of
+
+230
+00:05:05,780 --> 00:05:05,790
+undetected creatures in your field of
+ 
+
+231
+00:05:05,790 --> 00:05:09,050
+undetected creatures in your field of
+view any undetected creature that you
+
+232
+00:05:09,050 --> 00:05:09,060
+view any undetected creature that you
+ 
+
+233
+00:05:09,060 --> 00:05:11,750
+view any undetected creature that you
+succeed against becomes hidden from you
+
+234
+00:05:11,750 --> 00:05:11,760
+succeed against becomes hidden from you
+ 
+
+235
+00:05:11,760 --> 00:05:14,600
+succeed against becomes hidden from you
+instead of undetected and any hidden
+
+236
+00:05:14,600 --> 00:05:14,610
+instead of undetected and any hidden
+ 
+
+237
+00:05:14,610 --> 00:05:16,310
+instead of undetected and any hidden
+creature that you succeed against
+
+238
+00:05:16,310 --> 00:05:16,320
+creature that you succeed against
+ 
+
+239
+00:05:16,320 --> 00:05:19,600
+creature that you succeed against
+becomes observed by you essentially
+
+240
+00:05:19,600 --> 00:05:19,610
+becomes observed by you essentially
+ 
+
+241
+00:05:19,610 --> 00:05:22,580
+becomes observed by you essentially
+success on a seek action moves the
+
+242
+00:05:22,580 --> 00:05:22,590
+success on a seek action moves the
+ 
+
+243
+00:05:22,590 --> 00:05:25,700
+success on a seek action moves the
+target one step closer to being observed
+
+244
+00:05:25,700 --> 00:05:25,710
+target one step closer to being observed
+ 
+
+245
+00:05:25,710 --> 00:05:28,730
+target one step closer to being observed
+and on a critical success the target
+
+246
+00:05:28,730 --> 00:05:28,740
+and on a critical success the target
+ 
+
+247
+00:05:28,740 --> 00:05:31,150
+and on a critical success the target
+moves two steps and becomes observed
+
+248
+00:05:31,150 --> 00:05:31,160
+moves two steps and becomes observed
+ 
+
+249
+00:05:31,160 --> 00:05:34,490
+moves two steps and becomes observed
+this however is limited according to
+
+250
+00:05:34,490 --> 00:05:34,500
+this however is limited according to
+ 
+
+251
+00:05:34,500 --> 00:05:36,350
+this however is limited according to
+which since the character is using to
+
+252
+00:05:36,350 --> 00:05:36,360
+which since the character is using to
+ 
+
+253
+00:05:36,360 --> 00:05:38,870
+which since the character is using to
+seek and also by lighting conditions if
+
+254
+00:05:38,870 --> 00:05:38,880
+seek and also by lighting conditions if
+ 
+
+255
+00:05:38,880 --> 00:05:41,570
+seek and also by lighting conditions if
+they were using vision
+
+256
+00:05:41,570 --> 00:05:41,580
+they were using vision
+ 
+
+257
+00:05:41,580 --> 00:05:44,090
+they were using vision
+the last major element that a fixed
+
+258
+00:05:44,090 --> 00:05:44,100
+the last major element that a fixed
+ 
+
+259
+00:05:44,100 --> 00:05:46,910
+the last major element that a fixed
+perception is lighting there are three
+
+260
+00:05:46,910 --> 00:05:46,920
+perception is lighting there are three
+ 
+
+261
+00:05:46,920 --> 00:05:48,800
+perception is lighting there are three
+broad categories for a lighting in
+
+262
+00:05:48,800 --> 00:05:48,810
+broad categories for a lighting in
+ 
+
+263
+00:05:48,810 --> 00:05:52,100
+broad categories for a lighting in
+Pathfinder bright light dim light and
+
+264
+00:05:52,100 --> 00:05:52,110
+Pathfinder bright light dim light and
+ 
+
+265
+00:05:52,110 --> 00:05:55,670
+Pathfinder bright light dim light and
+darkness bright light is the default
+
+266
+00:05:55,670 --> 00:05:55,680
+darkness bright light is the default
+ 
+
+267
+00:05:55,680 --> 00:05:58,730
+darkness bright light is the default
+norm and is created by sunlight in other
+
+268
+00:05:58,730 --> 00:05:58,740
+norm and is created by sunlight in other
+ 
+
+269
+00:05:58,740 --> 00:06:01,910
+norm and is created by sunlight in other
+effects like spells and lanterns dim
+
+270
+00:06:01,910 --> 00:06:01,920
+effects like spells and lanterns dim
+ 
+
+271
+00:06:01,920 --> 00:06:04,370
+effects like spells and lanterns dim
+light is an area that has illumination
+
+272
+00:06:04,370 --> 00:06:04,380
+light is an area that has illumination
+ 
+
+273
+00:06:04,380 --> 00:06:06,620
+light is an area that has illumination
+provided by a light source that's weaker
+
+274
+00:06:06,620 --> 00:06:06,630
+provided by a light source that's weaker
+ 
+
+275
+00:06:06,630 --> 00:06:09,950
+provided by a light source that's weaker
+than bright light candle lit rooms a
+
+276
+00:06:09,950 --> 00:06:09,960
+than bright light candle lit rooms a
+ 
+
+277
+00:06:09,960 --> 00:06:12,350
+than bright light candle lit rooms a
+clear night sky with a full moon and
+
+278
+00:06:12,350 --> 00:06:12,360
+clear night sky with a full moon and
+ 
+
+279
+00:06:12,360 --> 00:06:15,200
+clear night sky with a full moon and
+stars and standing 30 feet away from a
+
+280
+00:06:15,200 --> 00:06:15,210
+stars and standing 30 feet away from a
+ 
+
+281
+00:06:15,210 --> 00:06:18,530
+stars and standing 30 feet away from a
+lit torch are all examples of dim light
+
+282
+00:06:18,530 --> 00:06:18,540
+lit torch are all examples of dim light
+ 
+
+283
+00:06:18,540 --> 00:06:22,280
+lit torch are all examples of dim light
+conditions creatures and objects in dim
+
+284
+00:06:22,280 --> 00:06:22,290
+conditions creatures and objects in dim
+ 
+
+285
+00:06:22,290 --> 00:06:24,890
+conditions creatures and objects in dim
+light can be observed but have the
+
+286
+00:06:24,890 --> 00:06:24,900
+light can be observed but have the
+ 
+
+287
+00:06:24,900 --> 00:06:27,290
+light can be observed but have the
+concealed condition unless the creature
+
+288
+00:06:27,290 --> 00:06:27,300
+concealed condition unless the creature
+ 
+
+289
+00:06:27,300 --> 00:06:29,360
+concealed condition unless the creature
+observing them has low light vision or
+
+290
+00:06:29,360 --> 00:06:29,370
+observing them has low light vision or
+ 
+
+291
+00:06:29,370 --> 00:06:32,450
+observing them has low light vision or
+dark vision and the third category of
+
+292
+00:06:32,450 --> 00:06:32,460
+dark vision and the third category of
+ 
+
+293
+00:06:32,460 --> 00:06:35,870
+dark vision and the third category of
+lighting is darkness any creatures are
+
+294
+00:06:35,870 --> 00:06:35,880
+lighting is darkness any creatures are
+ 
+
+295
+00:06:35,880 --> 00:06:38,690
+lighting is darkness any creatures are
+objects within an area of darkness gain
+
+296
+00:06:38,690 --> 00:06:38,700
+objects within an area of darkness gain
+ 
+
+297
+00:06:38,700 --> 00:06:41,150
+objects within an area of darkness gain
+the hidden or undetected conditions
+
+298
+00:06:41,150 --> 00:06:41,160
+the hidden or undetected conditions
+ 
+
+299
+00:06:41,160 --> 00:06:44,360
+the hidden or undetected conditions
+unless the seeker has dark vision or a
+
+300
+00:06:44,360 --> 00:06:44,370
+unless the seeker has dark vision or a
+ 
+
+301
+00:06:44,370 --> 00:06:46,690
+unless the seeker has dark vision or a
+precise sense other than vision
+
+302
+00:06:46,690 --> 00:06:46,700
+precise sense other than vision
+ 
+
+303
+00:06:46,700 --> 00:06:49,820
+precise sense other than vision
+creatures without dark vision gained the
+
+304
+00:06:49,820 --> 00:06:49,830
+creatures without dark vision gained the
+ 
+
+305
+00:06:49,830 --> 00:06:52,550
+creatures without dark vision gained the
+blinded condition when perceiving areas
+
+306
+00:06:52,550 --> 00:06:52,560
+blinded condition when perceiving areas
+ 
+
+307
+00:06:52,560 --> 00:06:55,190
+blinded condition when perceiving areas
+of darkness
+
+308
+00:06:55,190 --> 00:06:55,200
+of darkness
+ 
+
+309
+00:06:55,200 --> 00:06:58,130
+of darkness
+and those are just the basics as a
+
+310
+00:06:58,130 --> 00:06:58,140
+and those are just the basics as a
+ 
+
+311
+00:06:58,140 --> 00:07:00,650
+and those are just the basics as a
+reminder this series of abbreviated
+
+312
+00:07:00,650 --> 00:07:00,660
+reminder this series of abbreviated
+ 
+
+313
+00:07:00,660 --> 00:07:04,040
+reminder this series of abbreviated
+videos is meant to support not replace
+
+314
+00:07:04,040 --> 00:07:04,050
+videos is meant to support not replace
+ 
+
+315
+00:07:04,050 --> 00:07:07,040
+videos is meant to support not replace
+the full-length courses if you have any
+
+316
+00:07:07,040 --> 00:07:07,050
+the full-length courses if you have any
+ 
+
+317
+00:07:07,050 --> 00:07:09,350
+the full-length courses if you have any
+questions about how any of this works
+
+318
+00:07:09,350 --> 00:07:09,360
+questions about how any of this works
+ 
+
+319
+00:07:09,360 --> 00:07:11,570
+questions about how any of this works
+make sure you view the original
+
+320
+00:07:11,570 --> 00:07:11,580
+make sure you view the original
+ 
+
+321
+00:07:11,580 --> 00:07:13,490
+make sure you view the original
+full-length video that is in the
+
+322
+00:07:13,490 --> 00:07:13,500
+full-length video that is in the
+ 
+
+323
+00:07:13,500 --> 00:07:16,850
+full-length video that is in the
+description and as always I'd like to
+
+324
+00:07:16,850 --> 00:07:16,860
+description and as always I'd like to
+ 
+
+325
+00:07:16,860 --> 00:07:18,680
+description and as always I'd like to
+take a moment to thank all of our
+
+326
+00:07:18,680 --> 00:07:18,690
+take a moment to thank all of our
+ 
+
+327
+00:07:18,690 --> 00:07:21,050
+take a moment to thank all of our
+patrons these videos would not be
+
+328
+00:07:21,050 --> 00:07:21,060
+patrons these videos would not be
+ 
+
+329
+00:07:21,060 --> 00:07:22,820
+patrons these videos would not be
+possible without their continued
+
+330
+00:07:22,820 --> 00:07:22,830
+possible without their continued
+ 
+
+331
+00:07:22,830 --> 00:07:25,460
+possible without their continued
+generosity and support members of the
+
+332
+00:07:25,460 --> 00:07:25,470
+generosity and support members of the
+ 
+
+333
+00:07:25,470 --> 00:07:27,130
+generosity and support members of the
+basics for gamers patreon community
+
+334
+00:07:27,130 --> 00:07:27,140
+basics for gamers patreon community
+ 
+
+335
+00:07:27,140 --> 00:07:29,960
+basics for gamers patreon community
+receive special benefits like getting to
+
+336
+00:07:29,960 --> 00:07:29,970
+receive special benefits like getting to
+ 
+
+337
+00:07:29,970 --> 00:07:32,540
+receive special benefits like getting to
+vote on the topics we cover and also get
+
+338
+00:07:32,540 --> 00:07:32,550
+vote on the topics we cover and also get
+ 
+
+339
+00:07:32,550 --> 00:07:34,370
+vote on the topics we cover and also get
+to see these videos one week before
+
+340
+00:07:34,370 --> 00:07:34,380
+to see these videos one week before
+ 
+
+341
+00:07:34,380 --> 00:07:37,280
+to see these videos one week before
+everyone else visit the links shown in
+
+342
+00:07:37,280 --> 00:07:37,290
+everyone else visit the links shown in
+ 
+
+343
+00:07:37,290 --> 00:07:38,990
+everyone else visit the links shown in
+the description if you'd like to know
+
+344
+00:07:38,990 --> 00:07:39,000
+the description if you'd like to know
+ 
+
+345
+00:07:39,000 --> 00:07:41,660
+the description if you'd like to know
+more about becoming a patron if you
+
+346
+00:07:41,660 --> 00:07:41,670
+more about becoming a patron if you
+ 
+
+347
+00:07:41,670 --> 00:07:43,130
+more about becoming a patron if you
+would like to support this channel and
+
+348
+00:07:43,130 --> 00:07:43,140
+would like to support this channel and
+ 
+
+349
+00:07:43,140 --> 00:07:45,410
+would like to support this channel and
+help it grow the easiest way to do that
+
+350
+00:07:45,410 --> 00:07:45,420
+help it grow the easiest way to do that
+ 
+
+351
+00:07:45,420 --> 00:07:47,600
+help it grow the easiest way to do that
+is by subscribing and clicking the bell
+
+352
+00:07:47,600 --> 00:07:47,610
+is by subscribing and clicking the bell
+ 
+
+353
+00:07:47,610 --> 00:07:50,180
+is by subscribing and clicking the bell
+icon so you get notified when new videos
+
+354
+00:07:50,180 --> 00:07:50,190
+icon so you get notified when new videos
+ 
+
+355
+00:07:50,190 --> 00:07:52,760
+icon so you get notified when new videos
+release and we can always be reached
+
+356
+00:07:52,760 --> 00:07:52,770
+release and we can always be reached
+ 
+
+357
+00:07:52,770 --> 00:07:54,110
+release and we can always be reached
+through our Twitter and Facebook pages
+
+358
+00:07:54,110 --> 00:07:54,120
+through our Twitter and Facebook pages
+ 
+
+359
+00:07:54,120 --> 00:07:57,140
+through our Twitter and Facebook pages
+too thanks for watching take care and
+
+360
+00:07:57,140 --> 00:07:57,150
+too thanks for watching take care and
+ 
+
+361
+00:07:57,150 --> 00:07:59,060
+too thanks for watching take care and
+we'll see you soon with more basics of
+
+362
+00:07:59,060 --> 00:07:59,070
+we'll see you soon with more basics of
+ 
+
+363
+00:07:59,070 --> 00:08:01,610
+we'll see you soon with more basics of
+Pathfinder
+

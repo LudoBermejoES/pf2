@@ -1,0 +1,3248 @@
+1
+00:00:00,729 --> 00:00:03,060
+
+Hola y bienvenidos a los fundamentos de los
+
+2
+00:00:03,060 --> 00:00:03,070
+Hola y bienvenidos a los fundamentos de los
+ 
+
+3
+00:00:03,070 --> 00:00:05,579
+Hola y bienvenidos a los fundamentos de los
+compañeros animales en Pathfinder segunda
+
+4
+00:00:05,579 --> 00:00:05,589
+compañeros animales en Pathfinder segunda
+ 
+
+5
+00:00:05,589 --> 00:00:08,370
+compañeros animales en Pathfinder segunda
+edición. Este video se basa en la información
+
+6
+00:00:08,370 --> 00:00:08,380
+edición. Este video se basa en la información
+ 
+
+7
+00:00:08,380 --> 00:00:10,110
+edición. Este video se basa en la información
+proporcionada en nuestro curso de fundamentos de animales,
+
+8
+00:00:10,110 --> 00:00:10,120
+proporcionada en nuestro curso de fundamentos de animales,
+ 
+
+9
+00:00:10,120 --> 00:00:12,509
+proporcionada en nuestro curso de fundamentos de animales,
+así que si aún no has visto
+
+10
+00:00:12,509 --> 00:00:12,519
+así que si aún no has visto
+ 
+
+11
+00:00:12,519 --> 00:00:14,789
+así que si aún no has visto
+ese video, te recomendamos que lo hagas
+
+12
+00:00:14,789 --> 00:00:14,799
+ese video, te recomendamos que lo hagas
+ 
+
+13
+00:00:14,799 --> 00:00:17,570
+ese video, te recomendamos que lo hagas
+antes de continuar. Los
+
+14
+00:00:17,570 --> 00:00:17,580
+antes de continuar. Los
+ 
+
+15
+00:00:17,580 --> 00:00:20,029
+antes de continuar. Los
+compañeros animales son
+
+16
+00:00:20,029 --> 00:00:20,039
+compañeros animales son
+ 
+
+17
+00:00:20,039 --> 00:00:21,409
+compañeros animales son
+criaturas especializadas que difieren de los
+
+18
+00:00:21,409 --> 00:00:21,419
+criaturas especializadas que difieren de los
+ 
+
+19
+00:00:21,419 --> 00:00:25,639
+criaturas especializadas que difieren de los
+animales normales en varias formas clave. Primero, los
+
+20
+00:00:25,639 --> 00:00:25,649
+animales normales en varias formas clave. Primero, los
+ 
+
+21
+00:00:25,649 --> 00:00:27,439
+animales normales en varias formas clave. Primero, los
+compañeros animales se obtienen a través de
+
+22
+00:00:27,439 --> 00:00:27,449
+compañeros animales se obtienen a través de
+ 
+
+23
+00:00:27,449 --> 00:00:29,870
+compañeros animales se obtienen a través de
+habilidades de clase y dotes como la
+
+24
+00:00:29,870 --> 00:00:29,880
+habilidades de clase y dotes como la
+ 
+
+25
+00:00:29,880 --> 00:00:31,880
+habilidades de clase y dotes como la
+dote de compañero animal que se puede elegir
+
+26
+00:00:31,880 --> 00:00:31,890
+dote de compañero animal que se puede elegir
+ 
+
+27
+00:00:31,890 --> 00:00:34,910
+dote de compañero animal que se puede elegir
+en el primer nivel. Segundo, los compañeros animales
+
+28
+00:00:34,910 --> 00:00:34,920
+en el primer nivel. Segundo, los compañeros animales
+ 
+
+29
+00:00:34,920 --> 00:00:36,770
+en el primer nivel. Segundo, los compañeros animales
+tienen algunas ventajas especiales en las
+
+30
+00:00:36,770 --> 00:00:36,780
+tienen algunas ventajas especiales en las
+ 
+
+31
+00:00:36,780 --> 00:00:39,950
+tienen algunas ventajas especiales en las
+limitaciones, por ejemplo, estás limitado
+
+32
+00:00:39,950 --> 00:00:39,960
+limitaciones, por ejemplo, estás limitado
+ 
+
+33
+00:00:39,960 --> 00:00:42,350
+limitaciones, por ejemplo, estás limitado
+a tener solo un compañero animal a la
+
+34
+00:00:42,350 --> 00:00:42,360
+a tener solo un compañero animal a la
+ 
+
+35
+00:00:42,360 --> 00:00:45,049
+a tener solo un compañero animal a la
+vez. Además, los compañeros animales solo pueden
+
+36
+00:00:45,049 --> 00:00:45,059
+vez. Además, los compañeros animales solo pueden
+ 
+
+37
+00:00:45,059 --> 00:00:47,299
+vez. Además, los compañeros animales solo pueden
+recibir los beneficios de las bonificaciones de objetos
+
+38
+00:00:47,299 --> 00:00:47,309
+recibir los beneficios de las bonificaciones de objetos
+ 
+
+39
+00:00:47,309 --> 00:00:50,110
+recibir los beneficios de las bonificaciones de objetos
+que modifican su velocidad o clase de armadura. No hay
+
+40
+00:00:50,110 --> 00:00:50,120
+que modifican su velocidad o clase de armadura. No hay
+ 
+
+41
+00:00:50,120 --> 00:00:52,130
+que modifican su velocidad o clase de armadura. No hay
+nada que te impida
+
+42
+00:00:52,130 --> 00:00:52,140
+nada que te impida
+ 
+
+43
+00:00:52,140 --> 00:00:54,529
+nada que te impida
+vestir a tu compañero simio con
+
+44
+00:00:54,529 --> 00:00:54,539
+vestir a tu compañero simio con
+ 
+
+45
+00:00:54,539 --> 00:00:57,500
+vestir a tu compañero simio con
+brazaletes mágicos, una capa y un collar, pero las
+
+46
+00:00:57,500 --> 00:00:57,510
+brazaletes mágicos, una capa y un collar, pero las
+ 
+
+47
+00:00:57,510 --> 00:01:00,110
+brazaletes mágicos, una capa y un collar, pero las
+únicas bonificaciones que recibirán son las
+
+48
+00:01:00,110 --> 00:01:00,120
+únicas bonificaciones que recibirán son las
+ 
+
+49
+00:01:00,120 --> 00:01:02,869
+únicas bonificaciones que recibirán son las
+que aumentan su velocidad o clase de armadura. En
+
+50
+00:01:02,869 --> 00:01:02,879
+que aumentan su velocidad o clase de armadura. En
+ 
+
+51
+00:01:02,879 --> 00:01:05,359
+que aumentan su velocidad o clase de armadura. En
+otras bonificaciones, la clase de armadura está limitada
+
+52
+00:01:05,359 --> 00:01:05,369
+otras bonificaciones, la clase de armadura está limitada
+ 
+
+53
+00:01:05,369 --> 00:01:08,779
+otras bonificaciones, la clase de armadura está limitada
+a un máximo de +3 para los compañeros animales.
+
+54
+00:01:08,779 --> 00:01:08,789
+a un máximo de +3 para los compañeros animales.
+ 
+
+55
+00:01:08,789 --> 00:01:12,260
+a un máximo de +3 para los compañeros animales.
+Además, los animales nunca pueden usar la activación
+
+56
+00:01:12,260 --> 00:01:12,270
+Además, los animales nunca pueden usar la activación
+ 
+
+57
+00:01:12,270 --> 00:01:14,960
+Además, los animales nunca pueden usar la activación
+en la acción de objeto, por lo que cualquier equipo que requiera
+
+58
+00:01:14,960 --> 00:01:14,970
+en la acción de objeto, por lo que cualquier equipo que requiera
+ 
+
+59
+00:01:14,970 --> 00:01:17,120
+en la acción de objeto, por lo que cualquier equipo que requiera
+activación está más allá de la
+
+60
+00:01:17,120 --> 00:01:17,130
+activación está más allá de la
+ 
+
+61
+00:01:17,130 --> 00:01:20,060
+activación está más allá de la
+capacidad de uso de un compañero animal. Una de sus
+
+62
+00:01:20,060 --> 00:01:20,070
+capacidad de uso de un compañero animal. Una de sus
+ 
+
+63
+00:01:20,070 --> 00:01:22,190
+capacidad de uso de un compañero animal. Una de sus
+mayores ventajas es que los compañeros animales suben de
+
+64
+00:01:22,190 --> 00:01:22,200
+mayores ventajas es que los compañeros animales suben de
+ 
+
+65
+00:01:22,200 --> 00:01:25,309
+mayores ventajas es que los compañeros animales suben de
+nivel de manera efectiva a medida que lo haces y
+
+66
+00:01:25,309 --> 00:01:25,319
+nivel de manera efectiva a medida que lo haces y
+ 
+
+67
+00:01:25,319 --> 00:01:27,350
+nivel de manera efectiva a medida que lo haces y
+usarán tu nivel para  Calcula sus
+
+68
+00:01:27,350 --> 00:01:27,360
+usarán tu nivel para  Calcula sus
+ 
+
+69
+00:01:27,360 --> 00:01:29,660
+usarán tu nivel para  Calcula sus
+bonificaciones de competencia y sus puntos de golpe.
+
+70
+00:01:29,660 --> 00:01:29,670
+bonificaciones de competencia y sus puntos de golpe.
+ 
+
+71
+00:01:29,670 --> 00:01:32,719
+bonificaciones de competencia y sus puntos de golpe.
+También pueden volverse más poderosos a medida que subes de
+
+72
+00:01:32,719 --> 00:01:32,729
+También pueden volverse más poderosos a medida que subes de
+ 
+
+73
+00:01:32,729 --> 00:01:35,180
+También pueden volverse más poderosos a medida que subes de
+nivel si eliges seleccionar algunas
+
+74
+00:01:35,180 --> 00:01:35,190
+nivel si eliges seleccionar algunas
+ 
+
+75
+00:01:35,190 --> 00:01:36,650
+nivel si eliges seleccionar algunas
+dotes adicionales que hagan que tu
+
+76
+00:01:36,650 --> 00:01:36,660
+dotes adicionales que hagan que tu
+ 
+
+77
+00:01:36,660 --> 00:01:38,630
+dotes adicionales que hagan que tu
+compañero madure y gane nuevas
+
+78
+00:01:38,630 --> 00:01:38,640
+compañero madure y gane nuevas
+ 
+
+79
+00:01:38,640 --> 00:01:41,389
+compañero madure y gane nuevas
+habilidades. Además, si tu compañero animal
+
+80
+00:01:41,389 --> 00:01:41,399
+habilidades. Además, si tu compañero animal
+ 
+
+81
+00:01:41,399 --> 00:01:43,910
+habilidades. Además, si tu compañero animal
+muere, puedes obtener un nuevo compañero
+
+82
+00:01:43,910 --> 00:01:43,920
+muere, puedes obtener un nuevo compañero
+ 
+
+83
+00:01:43,920 --> 00:01:46,389
+muere, puedes obtener un nuevo compañero
+después de pasar una semana de inactividad.
+
+84
+00:01:46,389 --> 00:01:46,399
+después de pasar una semana de inactividad.
+ 
+
+85
+00:01:46,399 --> 00:01:49,130
+después de pasar una semana de inactividad.
+Exactamente cómo pasas esta semana depende en
+
+86
+00:01:49,130 --> 00:01:49,140
+Exactamente cómo pasas esta semana depende en
+ 
+
+87
+00:01:49,140 --> 00:01:52,279
+Exactamente cómo pasas esta semana depende en
+gran medida de tu energía. Un campeón
+
+88
+00:01:52,279 --> 00:01:52,289
+gran medida de tu energía. Un campeón
+ 
+
+89
+00:01:52,289 --> 00:01:54,410
+gran medida de tu energía. Un campeón
+podría pasar una semana rezando a su
+
+90
+00:01:54,410 --> 00:01:54,420
+podría pasar una semana rezando a su
+ 
+
+91
+00:01:54,420 --> 00:01:57,760
+podría pasar una semana rezando a su
+deidad pidiéndole que envíe un nuevo caballo de guerra. Los
+
+92
+00:01:57,760 --> 00:01:57,770
+deidad pidiéndole que envíe un nuevo caballo de guerra. Los
+ 
+
+93
+00:01:57,770 --> 00:02:00,559
+deidad pidiéndole que envíe un nuevo caballo de guerra. Los
+exploradores y druidas podrían pasar la semana
+
+94
+00:02:00,559 --> 00:02:00,569
+exploradores y druidas podrían pasar la semana
+ 
+
+95
+00:02:00,569 --> 00:02:02,419
+exploradores y druidas podrían pasar la semana
+encontrando un animal en la naturaleza y
+
+96
+00:02:02,419 --> 00:02:02,429
+encontrando un animal en la naturaleza y
+ 
+
+97
+00:02:02,429 --> 00:02:04,309
+encontrando un animal en la naturaleza y
+entrenándolo para que sea
+
+98
+00:02:04,309 --> 00:02:04,319
+entrenándolo para que sea
+ 
+
+99
+00:02:04,319 --> 00:02:07,040
+entrenándolo para que sea
+su nuevo compañero. Y lo que probablemente sea
+
+100
+00:02:07,040 --> 00:02:07,050
+su nuevo compañero. Y lo que probablemente sea
+ 
+
+101
+00:02:07,050 --> 00:02:09,529
+su nuevo compañero. Y lo que probablemente sea
+la mayor diferencia entre los
+
+102
+00:02:09,529 --> 00:02:09,539
+la mayor diferencia entre los
+ 
+
+103
+00:02:09,539 --> 00:02:12,979
+la mayor diferencia entre los
+compañeros animales y otros animales es que los
+
+104
+00:02:12,979 --> 00:02:12,989
+compañeros animales y otros animales es que los
+ 
+
+105
+00:02:12,989 --> 00:02:17,250
+compañeros animales y otros animales es que los
+compañeros animales tienen el rasgo de esbirro.
+
+106
+00:02:17,250 --> 00:02:17,260
+compañeros animales tienen el rasgo de esbirro.
+ 
+
+107
+00:02:17,260 --> 00:02:20,280
+compañeros animales tienen el rasgo de esbirro.
+Gracias al rasgo de esbirro, tendrás
+
+108
+00:02:20,280 --> 00:02:20,290
+Gracias al rasgo de esbirro, tendrás
+ 
+
+109
+00:02:20,290 --> 00:02:22,140
+Gracias al rasgo de esbirro, tendrás
+control directo sobre tu
+
+110
+00:02:22,140 --> 00:02:22,150
+control directo sobre tu
+ 
+
+111
+00:02:22,150 --> 00:02:24,660
+control directo sobre tu
+compañero animal y actuarán durante tu
+
+112
+00:02:24,660 --> 00:02:24,670
+compañero animal y actuarán durante tu
+ 
+
+113
+00:02:24,670 --> 00:02:27,240
+compañero animal y actuarán durante tu
+turno en el orden de iniciativa. Aún
+
+114
+00:02:27,240 --> 00:02:27,250
+turno en el orden de iniciativa. Aún
+ 
+
+115
+00:02:27,250 --> 00:02:29,610
+turno en el orden de iniciativa. Aún
+necesitas usar comando y animal y emitir
+
+116
+00:02:29,610 --> 00:02:29,620
+necesitas usar comando y animal y emitir
+ 
+
+117
+00:02:29,620 --> 00:02:32,250
+necesitas usar comando y animal y emitir
+un comando verbal, pero esto funciona de
+
+118
+00:02:32,250 --> 00:02:32,260
+un comando verbal, pero esto funciona de
+ 
+
+119
+00:02:32,260 --> 00:02:34,440
+un comando verbal, pero esto funciona de
+manera diferente cuando se usa con un
+
+120
+00:02:34,440 --> 00:02:34,450
+manera diferente cuando se usa con un
+ 
+
+121
+00:02:34,450 --> 00:02:37,350
+manera diferente cuando se usa con un
+compañero animal. Primero, no hay necesidad de hacer
+
+122
+00:02:37,350 --> 00:02:37,360
+compañero animal. Primero, no hay necesidad de hacer
+ 
+
+123
+00:02:37,360 --> 00:02:38,940
+compañero animal. Primero, no hay necesidad de hacer
+una prueba de naturaleza cuando usas comando y
+
+124
+00:02:38,940 --> 00:02:38,950
+una prueba de naturaleza cuando usas comando y
+ 
+
+125
+00:02:38,950 --> 00:02:41,910
+una prueba de naturaleza cuando usas comando y
+animal. Segundo, solo necesitas gastar una
+
+126
+00:02:41,910 --> 00:02:41,920
+animal. Segundo, solo necesitas gastar una
+ 
+
+127
+00:02:41,920 --> 00:02:43,920
+animal. Segundo, solo necesitas gastar una
+acción al comandar a tu
+
+128
+00:02:43,920 --> 00:02:43,930
+acción al comandar a tu
+ 
+
+129
+00:02:43,930 --> 00:02:46,710
+acción al comandar a tu
+compañero animal. Tercero, cuando gastas esa
+
+130
+00:02:46,710 --> 00:02:46,720
+compañero animal. Tercero, cuando gastas esa
+ 
+
+131
+00:02:46,720 --> 00:02:49,140
+compañero animal. Tercero, cuando gastas esa
+acción en comando y animal, tu
+
+132
+00:02:49,140 --> 00:02:49,150
+acción en comando y animal, tu
+ 
+
+133
+00:02:49,150 --> 00:02:52,020
+acción en comando y animal, tu
+compañero gana acciones.  que pueden
+
+134
+00:02:52,020 --> 00:02:52,030
+compañero gana acciones.  que pueden
+ 
+
+135
+00:02:52,030 --> 00:02:54,479
+compañero gana acciones.  que pueden
+gastar durante el mismo turno los
+
+136
+00:02:54,479 --> 00:02:54,489
+gastar durante el mismo turno los
+ 
+
+137
+00:02:54,489 --> 00:02:56,640
+gastar durante el mismo turno los
+compañeros animales están completamente limitados a
+
+138
+00:02:56,640 --> 00:02:56,650
+compañeros animales están completamente limitados a
+ 
+
+139
+00:02:56,650 --> 00:02:59,520
+compañeros animales están completamente limitados a
+esas dos acciones no reciben
+
+140
+00:02:59,520 --> 00:02:59,530
+esas dos acciones no reciben
+ 
+
+141
+00:02:59,530 --> 00:03:01,410
+esas dos acciones no reciben
+tres acciones por turno como la mayoría de las
+
+142
+00:03:01,410 --> 00:03:01,420
+tres acciones por turno como la mayoría de las
+ 
+
+143
+00:03:01,420 --> 00:03:04,050
+tres acciones por turno como la mayoría de las
+criaturas durante el combate tu
+
+144
+00:03:04,050 --> 00:03:04,060
+criaturas durante el combate tu
+ 
+
+145
+00:03:04,060 --> 00:03:06,360
+criaturas durante el combate tu
+compañero animal comienza cada turno con cero
+
+146
+00:03:06,360 --> 00:03:06,370
+compañero animal comienza cada turno con cero
+ 
+
+147
+00:03:06,370 --> 00:03:09,900
+compañero animal comienza cada turno con cero
+acciones y ninguna reacción debes
+
+148
+00:03:09,900 --> 00:03:09,910
+acciones y ninguna reacción debes
+ 
+
+149
+00:03:09,910 --> 00:03:11,910
+acciones y ninguna reacción debes
+usar comando y animal para darle a ese
+
+150
+00:03:11,910 --> 00:03:11,920
+usar comando y animal para darle a ese
+ 
+
+151
+00:03:11,920 --> 00:03:14,069
+usar comando y animal para darle a ese
+compañero dos acciones para que gaste
+
+152
+00:03:14,069 --> 00:03:14,079
+compañero dos acciones para que gaste
+ 
+
+153
+00:03:14,079 --> 00:03:16,440
+compañero dos acciones para que gaste
+durante ese turno si no usas
+
+154
+00:03:16,440 --> 00:03:16,450
+durante ese turno si no usas
+ 
+
+155
+00:03:16,450 --> 00:03:18,479
+durante ese turno si no usas
+comando a un animal entonces el compañero
+
+156
+00:03:18,479 --> 00:03:18,489
+comando a un animal entonces el compañero
+ 
+
+157
+00:03:18,489 --> 00:03:21,330
+comando a un animal entonces el compañero
+solo se defenderá o se alejará para
+
+158
+00:03:21,330 --> 00:03:21,340
+solo se defenderá o se alejará para
+ 
+
+159
+00:03:21,340 --> 00:03:24,809
+solo se defenderá o se alejará para
+evitar un daño obvio como el DM considere
+
+160
+00:03:24,809 --> 00:03:24,819
+evitar un daño obvio como el DM considere
+ 
+
+161
+00:03:24,819 --> 00:03:27,479
+evitar un daño obvio como el DM considere
+apropiado de lo contrario simplemente se quedan sentados
+
+162
+00:03:27,479 --> 00:03:27,489
+apropiado de lo contrario simplemente se quedan sentados
+ 
+
+163
+00:03:27,489 --> 00:03:29,879
+apropiado de lo contrario simplemente se quedan sentados
+esperando tu siguiente comando y
+
+164
+00:03:29,879 --> 00:03:29,889
+esperando tu siguiente comando y
+ 
+
+165
+00:03:29,889 --> 00:03:32,940
+esperando tu siguiente comando y
+si pasa un minuto completo sin que
+
+166
+00:03:32,940 --> 00:03:32,950
+si pasa un minuto completo sin que
+ 
+
+167
+00:03:32,950 --> 00:03:35,580
+si pasa un minuto completo sin que
+des un comando entonces los compañeros animales
+
+168
+00:03:35,580 --> 00:03:35,590
+des un comando entonces los compañeros animales
+ 
+
+169
+00:03:35,590 --> 00:03:37,319
+des un comando entonces los compañeros animales
+dejarán de esperar tus comandos y
+
+170
+00:03:37,319 --> 00:03:37,329
+dejarán de esperar tus comandos y
+ 
+
+171
+00:03:37,329 --> 00:03:40,500
+dejarán de esperar tus comandos y
+comenzarán a seguir sus propios instintos esto
+
+172
+00:03:40,500 --> 00:03:40,510
+comenzarán a seguir sus propios instintos esto
+ 
+
+173
+00:03:40,510 --> 00:03:43,559
+comenzarán a seguir sus propios instintos esto
+es un poco confuso en cuanto a lo que significa en
+
+174
+00:03:43,559 --> 00:03:43,569
+es un poco confuso en cuanto a lo que significa en
+ 
+
+175
+00:03:43,569 --> 00:03:45,839
+es un poco confuso en cuanto a lo que significa en
+términos de combate pero como es poco
+
+176
+00:03:45,839 --> 00:03:45,849
+términos de combate pero como es poco
+ 
+
+177
+00:03:45,849 --> 00:03:48,089
+términos de combate pero como es poco
+probable que los encuentros de combate duren más de un
+
+178
+00:03:48,089 --> 00:03:48,099
+probable que los encuentros de combate duren más de un
+ 
+
+179
+00:03:48,099 --> 00:03:50,069
+probable que los encuentros de combate duren más de un
+minuto creo que esta disposición
+
+180
+00:03:50,069 --> 00:03:50,079
+minuto creo que esta disposición
+ 
+
+181
+00:03:50,079 --> 00:03:51,990
+minuto creo que esta disposición
+simplemente significa que el
+
+182
+00:03:51,990 --> 00:03:52,000
+simplemente significa que el
+ 
+
+183
+00:03:52,000 --> 00:03:53,940
+simplemente significa que el
+compañero animal seguirá y hará
+
+184
+00:03:53,940 --> 00:03:53,950
+compañero animal seguirá y hará
+ 
+
+185
+00:03:53,950 --> 00:03:56,909
+compañero animal seguirá y hará
+cosas similares a las de los animales fuera del combate
+
+186
+00:03:56,909 --> 00:03:56,919
+cosas similares a las de los animales fuera del combate
+ 
+
+187
+00:03:56,919 --> 00:03:59,159
+cosas similares a las de los animales fuera del combate
+sin que necesites
+
+188
+00:03:59,159 --> 00:03:59,169
+sin que necesites
+ 
+
+189
+00:03:59,169 --> 00:04:00,960
+sin que necesites
+aclarar constantemente que les estás dando órdenes
+
+190
+00:04:00,960 --> 00:04:00,970
+aclarar constantemente que les estás dando órdenes
+ 
+
+191
+00:04:00,970 --> 00:04:03,839
+aclarar constantemente que les estás dando órdenes
+y en una línea de pensamiento similar vale la pena
+
+192
+00:04:03,839 --> 00:04:03,849
+y en una línea de pensamiento similar vale la pena
+ 
+
+193
+00:04:03,849 --> 00:04:06,629
+y en una línea de pensamiento similar vale la pena
+señalar que los compañeros animales
+
+194
+00:04:06,629 --> 00:04:06,639
+señalar que los compañeros animales
+ 
+
+195
+00:04:06,639 --> 00:04:08,640
+señalar que los compañeros animales
+no entran en pánico ante la primera señal de peligro
+
+196
+00:04:08,640 --> 00:04:08,650
+no entran en pánico ante la primera señal de peligro
+ 
+
+197
+00:04:08,650 --> 00:04:11,610
+no entran en pánico ante la primera señal de peligro
+y por lo tanto no sufren el
+
+198
+00:04:11,610 --> 00:04:11,620
+y por lo tanto no sufren el
+ 
+
+199
+00:04:11,620 --> 00:04:14,339
+y por lo tanto no sufren el
+miedo por las condiciones de influencia al
+
+200
+00:04:14,339 --> 00:04:14,349
+miedo por las condiciones de influencia al
+ 
+
+201
+00:04:14,349 --> 00:04:17,009
+miedo por las condiciones de influencia al
+comienzo de  combate como la mayoría de los otros animales normales
+
+202
+00:04:17,009 --> 00:04:19,780
+comienzo de  combate como la mayoría de los otros animales normales
+ 
+
+203
+00:04:19,780 --> 00:04:19,790
+
+ 
+
+204
+00:04:19,790 --> 00:04:21,730
+
+para determinar las estadísticas de tu
+
+205
+00:04:21,730 --> 00:04:21,740
+para determinar las estadísticas de tu
+ 
+
+206
+00:04:21,740 --> 00:04:23,980
+para determinar las estadísticas de tu
+compañero comienzas seleccionando un
+
+207
+00:04:23,980 --> 00:04:23,990
+compañero comienzas seleccionando un
+ 
+
+208
+00:04:23,990 --> 00:04:27,250
+compañero comienzas seleccionando un
+tipo de compañero esta es la base
+
+209
+00:04:27,250 --> 00:04:27,260
+tipo de compañero esta es la base
+ 
+
+210
+00:04:27,260 --> 00:04:30,000
+tipo de compañero esta es la base
+de todas sus puntuaciones y habilidades un
+
+211
+00:04:30,000 --> 00:04:30,010
+de todas sus puntuaciones y habilidades un
+ 
+
+212
+00:04:30,010 --> 00:04:32,950
+de todas sus puntuaciones y habilidades un
+compañero animal joven tiene todas las
+
+213
+00:04:32,950 --> 00:04:32,960
+compañero animal joven tiene todas las
+ 
+
+214
+00:04:32,960 --> 00:04:35,770
+compañero animal joven tiene todas las
+puntuaciones que figuran en su tipo de compañero así que
+
+215
+00:04:35,770 --> 00:04:35,780
+puntuaciones que figuran en su tipo de compañero así que
+ 
+
+216
+00:04:35,780 --> 00:04:39,160
+puntuaciones que figuran en su tipo de compañero así que
+veamos a los tejones como ejemplo es
+
+217
+00:04:39,160 --> 00:04:39,170
+veamos a los tejones como ejemplo es
+ 
+
+218
+00:04:39,170 --> 00:04:42,370
+veamos a los tejones como ejemplo es
+un animal de tamaño pequeño tiene opciones de ataque cuerpo a cuerpo las
+
+219
+00:04:42,370 --> 00:04:42,380
+un animal de tamaño pequeño tiene opciones de ataque cuerpo a cuerpo las
+ 
+
+220
+00:04:42,380 --> 00:04:44,830
+un animal de tamaño pequeño tiene opciones de ataque cuerpo a cuerpo las
+cuales cuestan una
+
+221
+00:04:44,830 --> 00:04:44,840
+cuales cuestan una
+ 
+
+222
+00:04:44,840 --> 00:04:47,350
+cuales cuestan una
+acción para realizar los compañeros tienen
+
+223
+00:04:47,350 --> 00:04:47,360
+acción para realizar los compañeros tienen
+ 
+
+224
+00:04:47,360 --> 00:04:50,080
+acción para realizar los compañeros tienen
+competencia entrenada en ataques sin armas
+
+225
+00:04:50,080 --> 00:04:50,090
+competencia entrenada en ataques sin armas
+ 
+
+226
+00:04:50,090 --> 00:04:53,050
+competencia entrenada en ataques sin armas
+así que en el primer nivel tu compañero tejón
+
+227
+00:04:53,050 --> 00:04:53,060
+así que en el primer nivel tu compañero tejón
+ 
+
+228
+00:04:53,060 --> 00:04:55,930
+así que en el primer nivel tu compañero tejón
+tendría una bonificación de +5 para estos ataques
+
+229
+00:04:55,930 --> 00:04:55,940
+tendría una bonificación de +5 para estos ataques
+ 
+
+230
+00:04:55,940 --> 00:04:59,200
+tendría una bonificación de +5 para estos ataques
+e infligiría +2 de daño gracias a su
+
+231
+00:04:59,200 --> 00:04:59,210
+e infligiría +2 de daño gracias a su
+ 
+
+232
+00:04:59,210 --> 00:05:02,050
+e infligiría +2 de daño gracias a su
+modificador de fuerza la siguiente línea muestra los
+
+233
+00:05:02,050 --> 00:05:02,060
+modificador de fuerza la siguiente línea muestra los
+ 
+
+234
+00:05:02,060 --> 00:05:05,560
+modificador de fuerza la siguiente línea muestra los
+modificadores de habilidad de los compañeros los
+
+235
+00:05:05,560 --> 00:05:05,570
+modificadores de habilidad de los compañeros los
+ 
+
+236
+00:05:05,570 --> 00:05:07,870
+modificadores de habilidad de los compañeros los
+puntos de golpe que ves listados en el
+
+237
+00:05:07,870 --> 00:05:07,880
+puntos de golpe que ves listados en el
+ 
+
+238
+00:05:07,880 --> 00:05:11,140
+puntos de golpe que ves listados en el
+bloque de tipo de compañero no son sus
+
+239
+00:05:11,140 --> 00:05:11,150
+bloque de tipo de compañero no son sus
+ 
+
+240
+00:05:11,150 --> 00:05:14,380
+bloque de tipo de compañero no son sus
+puntos de golpe totales en su lugar esta entrada muestra los puntos de
+
+241
+00:05:14,380 --> 00:05:14,390
+puntos de golpe totales en su lugar esta entrada muestra los puntos de
+ 
+
+242
+00:05:14,390 --> 00:05:17,320
+puntos de golpe totales en su lugar esta entrada muestra los puntos de
+golpe de ascendencia de los compañeros todos los
+
+243
+00:05:17,320 --> 00:05:17,330
+golpe de ascendencia de los compañeros todos los
+ 
+
+244
+00:05:17,330 --> 00:05:20,710
+golpe de ascendencia de los compañeros todos los
+compañeros animales ganan 6 puntos de golpe más
+
+245
+00:05:20,710 --> 00:05:20,720
+compañeros animales ganan 6 puntos de golpe más
+ 
+
+246
+00:05:20,720 --> 00:05:23,890
+compañeros animales ganan 6 puntos de golpe más
+su modificador de Constitución por tu
+
+247
+00:05:23,890 --> 00:05:23,900
+su modificador de Constitución por tu
+ 
+
+248
+00:05:23,900 --> 00:05:26,770
+su modificador de Constitución por tu
+nivel de experiencia además de esos
+
+249
+00:05:26,770 --> 00:05:26,780
+nivel de experiencia además de esos
+ 
+
+250
+00:05:26,780 --> 00:05:29,740
+nivel de experiencia además de esos
+puntos de golpe de ascendencia así que un
+
+251
+00:05:29,740 --> 00:05:29,750
+puntos de golpe de ascendencia así que un
+ 
+
+252
+00:05:29,750 --> 00:05:32,890
+puntos de golpe de ascendencia así que un
+compañero animal tejón de primer nivel tiene 16
+
+253
+00:05:32,890 --> 00:05:32,900
+compañero animal tejón de primer nivel tiene 16
+ 
+
+254
+00:05:32,900 --> 00:05:35,770
+compañero animal tejón de primer nivel tiene 16
+puntos de golpe obtiene ocho puntos de golpe de ascendencia
+
+255
+00:05:35,770 --> 00:05:35,780
+puntos de golpe obtiene ocho puntos de golpe de ascendencia
+ 
+
+256
+00:05:35,780 --> 00:05:37,300
+puntos de golpe obtiene ocho puntos de golpe de ascendencia
+que ves que están listados en
+
+257
+00:05:37,300 --> 00:05:37,310
+que ves que están listados en
+ 
+
+258
+00:05:37,310 --> 00:05:40,360
+que ves que están listados en
+su tipo de compañero más 6 para el primer
+
+259
+00:05:40,360 --> 00:05:40,370
+su tipo de compañero más 6 para el primer
+ 
+
+260
+00:05:40,370 --> 00:05:43,330
+su tipo de compañero más 6 para el primer
+nivel más dos más para su
+
+261
+00:05:43,330 --> 00:05:43,340
+nivel más dos más para su
+ 
+
+262
+00:05:43,340 --> 00:05:46,300
+nivel más dos más para su
+modificador de constitución cada tipo de compañero también
+
+263
+00:05:46,300 --> 00:05:46,310
+modificador de constitución cada tipo de compañero también
+ 
+
+264
+00:05:46,310 --> 00:05:48,490
+modificador de constitución cada tipo de compañero también
+recibe entrenamiento  Competencia en una
+
+265
+00:05:48,490 --> 00:05:48,500
+recibe entrenamiento  Competencia en una
+ 
+
+266
+00:05:48,500 --> 00:05:52,510
+recibe entrenamiento  Competencia en una
+habilidad, esto se suma a las acrobacias
+
+267
+00:05:52,510 --> 00:05:52,520
+habilidad, esto se suma a las acrobacias
+ 
+
+268
+00:05:52,520 --> 00:05:55,270
+habilidad, esto se suma a las acrobacias
+y el atletismo, en las que todos los compañeros han
+
+269
+00:05:55,270 --> 00:05:55,280
+y el atletismo, en las que todos los compañeros han
+ 
+
+270
+00:05:55,280 --> 00:05:58,360
+y el atletismo, en las que todos los compañeros han
+entrenado la competencia por defecto. El
+
+271
+00:05:58,360 --> 00:05:58,370
+entrenado la competencia por defecto. El
+ 
+
+272
+00:05:58,370 --> 00:06:00,520
+entrenado la competencia por defecto. El
+resto de la entrada del tipo de compañero detalla
+
+273
+00:06:00,520 --> 00:06:00,530
+resto de la entrada del tipo de compañero detalla
+ 
+
+274
+00:06:00,530 --> 00:06:03,460
+resto de la entrada del tipo de compañero detalla
+el compañero siente su velocidad y
+
+275
+00:06:03,460 --> 00:06:03,470
+el compañero siente su velocidad y
+ 
+
+276
+00:06:03,470 --> 00:06:05,680
+el compañero siente su velocidad y
+capacidad de apoyo, de lo que hablaremos
+
+277
+00:06:05,680 --> 00:06:05,690
+capacidad de apoyo, de lo que hablaremos
+ 
+
+278
+00:06:05,690 --> 00:06:08,590
+capacidad de apoyo, de lo que hablaremos
+en un momento. La última línea de la
+
+279
+00:06:08,590 --> 00:06:08,600
+en un momento. La última línea de la
+ 
+
+280
+00:06:08,600 --> 00:06:10,720
+en un momento. La última línea de la
+entrada del tipo de compañero muestra su
+
+281
+00:06:10,720 --> 00:06:10,730
+entrada del tipo de compañero muestra su
+ 
+
+282
+00:06:10,730 --> 00:06:13,360
+entrada del tipo de compañero muestra su
+maniobra avanzada. Estas
+
+283
+00:06:13,360 --> 00:06:13,370
+maniobra avanzada. Estas
+ 
+
+284
+00:06:13,370 --> 00:06:15,880
+maniobra avanzada. Estas
+maniobras avanzadas no están disponibles en el primer
+
+285
+00:06:15,880 --> 00:06:15,890
+maniobras avanzadas no están disponibles en el primer
+ 
+
+286
+00:06:15,890 --> 00:06:18,550
+maniobras avanzadas no están disponibles en el primer
+nivel y deben obtenerse mediante
+
+287
+00:06:18,550 --> 00:06:18,560
+nivel y deben obtenerse mediante
+ 
+
+288
+00:06:18,560 --> 00:06:21,730
+nivel y deben obtenerse mediante
+dotes especiales. Esto aún deja algunos elementos que
+
+289
+00:06:21,730 --> 00:06:21,740
+dotes especiales. Esto aún deja algunos elementos que
+ 
+
+290
+00:06:21,740 --> 00:06:23,680
+dotes especiales. Esto aún deja algunos elementos que
+necesitará calcular usted mismo.
+
+291
+00:06:23,680 --> 00:06:23,690
+necesitará calcular usted mismo.
+ 
+
+292
+00:06:23,690 --> 00:06:26,620
+necesitará calcular usted mismo.
+Todos los compañeros animales están entrenados en
+
+293
+00:06:26,620 --> 00:06:26,630
+Todos los compañeros animales están entrenados en
+ 
+
+294
+00:06:26,630 --> 00:06:29,500
+Todos los compañeros animales están entrenados en
+defensa sin armas, por lo que un compañero tejón de primer nivel
+
+295
+00:06:29,500 --> 00:06:29,510
+defensa sin armas, por lo que un compañero tejón de primer nivel
+ 
+
+296
+00:06:29,510 --> 00:06:32,920
+defensa sin armas, por lo que un compañero tejón de primer nivel
+tiene una clase de armadura de 15.
+
+297
+00:06:32,920 --> 00:06:32,930
+tiene una clase de armadura de 15.
+ 
+
+298
+00:06:32,930 --> 00:06:35,080
+tiene una clase de armadura de 15.
+También tienen competencia entrenada en abordaje
+
+299
+00:06:35,080 --> 00:06:35,090
+También tienen competencia entrenada en abordaje
+ 
+
+300
+00:06:35,090 --> 00:06:38,260
+También tienen competencia entrenada en abordaje
+ligero y pesado. Los compañeros
+
+301
+00:06:38,260 --> 00:06:38,270
+ligero y pesado. Los compañeros
+ 
+
+302
+00:06:38,270 --> 00:06:40,480
+ligero y pesado. Los compañeros
+también están entrenados en las tres
+
+303
+00:06:40,480 --> 00:06:40,490
+también están entrenados en las tres
+ 
+
+304
+00:06:40,490 --> 00:06:42,969
+también están entrenados en las tres
+tiradas de salvación, por lo que en el caso de un
+
+305
+00:06:42,969 --> 00:06:42,979
+tiradas de salvación, por lo que en el caso de un
+ 
+
+306
+00:06:42,979 --> 00:06:45,310
+tiradas de salvación, por lo que en el caso de un
+compañero tejón tendrían +5 en
+
+307
+00:06:45,310 --> 00:06:45,320
+compañero tejón tendrían +5 en
+ 
+
+308
+00:06:45,320 --> 00:06:47,980
+compañero tejón tendrían +5 en
+cada una de ellas y también están entrenados
+
+309
+00:06:47,980 --> 00:06:47,990
+cada una de ellas y también están entrenados
+ 
+
+310
+00:06:47,990 --> 00:06:50,409
+cada una de ellas y también están entrenados
+en percepción, que en el caso del
+
+311
+00:06:50,409 --> 00:06:50,419
+en percepción, que en el caso del
+ 
+
+312
+00:06:50,419 --> 00:06:52,779
+en percepción, que en el caso del
+tejón aquí nuevamente sería +5 en el
+
+313
+00:06:52,779 --> 00:06:52,789
+tejón aquí nuevamente sería +5 en el
+ 
+
+314
+00:06:52,789 --> 00:06:53,590
+tejón aquí nuevamente sería +5 en el
+primer nivel.
+
+315
+00:06:53,590 --> 00:06:53,600
+primer nivel.
+ 
+
+316
+00:06:53,600 --> 00:06:57,279
+primer nivel.
+Así que aquí es donde comienzan los compañeros, pero a medida que subes de
+
+317
+00:06:57,279 --> 00:06:57,289
+Así que aquí es donde comienzan los compañeros, pero a medida que subes de
+ 
+
+318
+00:06:57,289 --> 00:06:59,770
+Así que aquí es donde comienzan los compañeros, pero a medida que subes de
+nivel hay dotes disponibles
+
+319
+00:06:59,770 --> 00:06:59,780
+nivel hay dotes disponibles
+ 
+
+320
+00:06:59,780 --> 00:07:03,730
+nivel hay dotes disponibles
+para mejorar aún más a tus compañeros.
+
+321
+00:07:03,730 --> 00:07:03,740
+
+ 
+
+322
+00:07:03,740 --> 00:07:06,370
+
+La mayoría de los compañeros animales comienzan como
+
+323
+00:07:06,370 --> 00:07:06,380
+La mayoría de los compañeros animales comienzan como
+ 
+
+324
+00:07:06,380 --> 00:07:08,860
+La mayoría de los compañeros animales comienzan como
+animales jóvenes. Hacer que tu compañero animal pase
+
+325
+00:07:08,860 --> 00:07:08,870
+animales jóvenes. Hacer que tu compañero animal pase
+ 
+
+326
+00:07:08,870 --> 00:07:11,350
+animales jóvenes. Hacer que tu compañero animal pase
+de joven a maduro requiere el uso de
+
+327
+00:07:11,350 --> 00:07:11,360
+de joven a maduro requiere el uso de
+ 
+
+328
+00:07:11,360 --> 00:07:14,020
+de joven a maduro requiere el uso de
+una dote especial.  en el caso de los druidas, por
+
+329
+00:07:14,020 --> 00:07:14,030
+una dote especial.  en el caso de los druidas, por
+ 
+
+330
+00:07:14,030 --> 00:07:15,970
+una dote especial.  en el caso de los druidas, por
+ejemplo, este es el muy acertadamente llamado
+
+331
+00:07:15,970 --> 00:07:15,980
+ejemplo, este es el muy acertadamente llamado
+ 
+
+332
+00:07:15,980 --> 00:07:19,420
+ejemplo, este es el muy acertadamente llamado
+compañero animal maduro. Los
+
+333
+00:07:19,420 --> 00:07:19,430
+compañero animal maduro. Los
+ 
+
+334
+00:07:19,430 --> 00:07:21,160
+compañero animal maduro. Los
+compañeros maduros aumentan sus modificadores de fuerza,
+
+335
+00:07:21,160 --> 00:07:21,170
+compañeros maduros aumentan sus modificadores de fuerza,
+ 
+
+336
+00:07:21,170 --> 00:07:23,890
+compañeros maduros aumentan sus modificadores de fuerza,
+destreza, constitución y sabiduría
+
+337
+00:07:23,890 --> 00:07:23,900
+destreza, constitución y sabiduría
+ 
+
+338
+00:07:23,900 --> 00:07:27,430
+destreza, constitución y sabiduría
+en uno. Sus daños de ataque sin armas
+
+339
+00:07:27,430 --> 00:07:27,440
+en uno. Sus daños de ataque sin armas
+ 
+
+340
+00:07:27,440 --> 00:07:30,100
+en uno. Sus daños de ataque sin armas
+aumentan de un dado a dos
+
+341
+00:07:30,100 --> 00:07:30,110
+aumentan de un dado a dos
+ 
+
+342
+00:07:30,110 --> 00:07:32,680
+aumentan de un dado a dos
+dados y sus niveles de competencia en
+
+343
+00:07:32,680 --> 00:07:32,690
+dados y sus niveles de competencia en
+ 
+
+344
+00:07:32,690 --> 00:07:34,960
+dados y sus niveles de competencia en
+percepción y todas sus
+
+345
+00:07:34,960 --> 00:07:34,970
+percepción y todas sus
+ 
+
+346
+00:07:34,970 --> 00:07:38,130
+percepción y todas sus
+tiradas de salvación aumentan de entrenados a expertos.
+
+347
+00:07:38,130 --> 00:07:38,140
+tiradas de salvación aumentan de entrenados a expertos.
+ 
+
+348
+00:07:38,140 --> 00:07:40,620
+tiradas de salvación aumentan de entrenados a expertos.
+Obtienen competencia de entrenamiento en
+
+349
+00:07:40,620 --> 00:07:40,630
+Obtienen competencia de entrenamiento en
+ 
+
+350
+00:07:40,630 --> 00:07:44,440
+Obtienen competencia de entrenamiento en
+intimidación, sigilo y supervivencia. Si el
+
+351
+00:07:44,440 --> 00:07:44,450
+intimidación, sigilo y supervivencia. Si el
+ 
+
+352
+00:07:44,450 --> 00:07:46,660
+intimidación, sigilo y supervivencia. Si el
+compañero animal ya tenía entrenamiento en
+
+353
+00:07:46,660 --> 00:07:46,670
+compañero animal ya tenía entrenamiento en
+ 
+
+354
+00:07:46,670 --> 00:07:48,700
+compañero animal ya tenía entrenamiento en
+una de sus habilidades, entonces esa habilidad
+
+355
+00:07:48,700 --> 00:07:48,710
+una de sus habilidades, entonces esa habilidad
+ 
+
+356
+00:07:48,710 --> 00:07:51,850
+una de sus habilidades, entonces esa habilidad
+gana competencia de experto en su lugar. Y si
+
+357
+00:07:51,850 --> 00:07:51,860
+gana competencia de experto en su lugar. Y si
+ 
+
+358
+00:07:51,860 --> 00:07:54,460
+gana competencia de experto en su lugar. Y si
+el compañero animal es de tamaño mediano o
+
+359
+00:07:54,460 --> 00:07:54,470
+el compañero animal es de tamaño mediano o
+ 
+
+360
+00:07:54,470 --> 00:07:59,480
+el compañero animal es de tamaño mediano o
+más pequeño, entonces crece un tamaño.
+
+361
+00:07:59,480 --> 00:07:59,490
+
+ 
+
+362
+00:07:59,490 --> 00:08:01,999
+
+Una vez que un compañero animal es maduro,
+
+363
+00:08:01,999 --> 00:08:02,009
+Una vez que un compañero animal es maduro,
+ 
+
+364
+00:08:02,009 --> 00:08:04,610
+Una vez que un compañero animal es maduro,
+puede avanzar de nuevo para convertirse en un
+
+365
+00:08:04,610 --> 00:08:04,620
+puede avanzar de nuevo para convertirse en un
+ 
+
+366
+00:08:04,620 --> 00:08:09,140
+puede avanzar de nuevo para convertirse en un
+compañero animal ágil o salvaje. Los
+
+367
+00:08:09,140 --> 00:08:09,150
+compañero animal ágil o salvaje. Los
+ 
+
+368
+00:08:09,150 --> 00:08:10,969
+compañero animal ágil o salvaje. Los
+compañeros ágiles aumentan su
+
+369
+00:08:10,969 --> 00:08:10,979
+compañeros ágiles aumentan su
+ 
+
+370
+00:08:10,979 --> 00:08:13,629
+compañeros ágiles aumentan su
+modificador de destreza en dos y sus
+
+371
+00:08:13,629 --> 00:08:13,639
+modificador de destreza en dos y sus
+ 
+
+372
+00:08:13,639 --> 00:08:16,640
+modificador de destreza en dos y sus
+modificadores de fuerza, constitución y sabiduría en uno.
+
+373
+00:08:16,640 --> 00:08:16,650
+modificadores de fuerza, constitución y sabiduría en uno.
+ 
+
+374
+00:08:16,650 --> 00:08:19,309
+modificadores de fuerza, constitución y sabiduría en uno.
+Infligen dos puntos de daño adicionales
+
+375
+00:08:19,309 --> 00:08:19,319
+Infligen dos puntos de daño adicionales
+ 
+
+376
+00:08:19,319 --> 00:08:21,860
+Infligen dos puntos de daño adicionales
+con sus ataques sin armas y obtienen
+
+377
+00:08:21,860 --> 00:08:21,870
+con sus ataques sin armas y obtienen
+ 
+
+378
+00:08:21,870 --> 00:08:24,260
+con sus ataques sin armas y obtienen
+competencia experta en acrobacias y
+
+379
+00:08:24,260 --> 00:08:24,270
+competencia experta en acrobacias y
+ 
+
+380
+00:08:24,270 --> 00:08:27,800
+competencia experta en acrobacias y
+defensa sin armadura. Los compañeros salvajes
+
+381
+00:08:27,800 --> 00:08:27,810
+defensa sin armadura. Los compañeros salvajes
+ 
+
+382
+00:08:27,810 --> 00:08:29,749
+defensa sin armadura. Los compañeros salvajes
+aumentan su modificador de fuerza en dos
+
+383
+00:08:29,749 --> 00:08:29,759
+aumentan su modificador de fuerza en dos
+ 
+
+384
+00:08:29,759 --> 00:08:32,779
+aumentan su modificador de fuerza en dos
+y sus modificadores de destreza, constitución y
+
+385
+00:08:32,779 --> 00:08:32,789
+y sus modificadores de destreza, constitución y
+ 
+
+386
+00:08:32,789 --> 00:08:36,050
+y sus modificadores de destreza, constitución y
+sabiduría en uno. También infligen
+
+387
+00:08:36,050 --> 00:08:36,060
+sabiduría en uno. También infligen
+ 
+
+388
+00:08:36,060 --> 00:08:38,360
+sabiduría en uno. También infligen
+tres puntos de daño adicionales con
+
+389
+00:08:38,360 --> 00:08:38,370
+tres puntos de daño adicionales con
+ 
+
+390
+00:08:38,370 --> 00:08:41,329
+tres puntos de daño adicionales con
+sus ataques sin armas.  y ganan
+
+391
+00:08:41,329 --> 00:08:41,339
+sus ataques sin armas.  y ganan
+ 
+
+392
+00:08:41,339 --> 00:08:44,180
+sus ataques sin armas.  y ganan
+competencia experta en atletismo los
+
+393
+00:08:44,180 --> 00:08:44,190
+competencia experta en atletismo los
+ 
+
+394
+00:08:44,190 --> 00:08:47,000
+competencia experta en atletismo los
+compañeros salvajes también crecen una categoría de tamaño
+
+395
+00:08:47,000 --> 00:08:47,010
+compañeros salvajes también crecen una categoría de tamaño
+ 
+
+396
+00:08:47,010 --> 00:08:49,730
+compañeros salvajes también crecen una categoría de tamaño
+si son medianos o más pequeños que los
+
+397
+00:08:49,730 --> 00:08:49,740
+si son medianos o más pequeños que los
+ 
+
+398
+00:08:49,740 --> 00:08:53,750
+si son medianos o más pequeños que los
+compañeros maduros tanto los ágiles como los salvajes
+
+399
+00:08:53,750 --> 00:08:53,760
+compañeros maduros tanto los ágiles como los salvajes
+ 
+
+400
+00:08:53,760 --> 00:08:56,540
+compañeros maduros tanto los ágiles como los salvajes
+también obtienen la
+
+401
+00:08:56,540 --> 00:08:56,550
+también obtienen la
+ 
+
+402
+00:08:56,550 --> 00:08:58,040
+también obtienen la
+maniobra avanzada que se enumera con su
+
+403
+00:08:58,040 --> 00:08:58,050
+maniobra avanzada que se enumera con su
+ 
+
+404
+00:08:58,050 --> 00:09:00,800
+maniobra avanzada que se enumera con su
+tipo de compañero y sus ataques ahora se
+
+405
+00:09:00,800 --> 00:09:00,810
+tipo de compañero y sus ataques ahora se
+ 
+
+406
+00:09:00,810 --> 00:09:03,410
+tipo de compañero y sus ataques ahora se
+tratan como mágicos para los propósitos de
+
+407
+00:09:03,410 --> 00:09:03,420
+tratan como mágicos para los propósitos de
+ 
+
+408
+00:09:03,420 --> 00:09:06,840
+tratan como mágicos para los propósitos de
+ignorar resistencias los
+
+409
+00:09:06,840 --> 00:09:06,850
+ignorar resistencias los
+ 
+
+410
+00:09:06,850 --> 00:09:09,480
+ignorar resistencias los
+compañeros animales también tienen
+
+411
+00:09:09,480 --> 00:09:09,490
+compañeros animales también tienen
+ 
+
+412
+00:09:09,490 --> 00:09:11,939
+compañeros animales también tienen
+habilidades de apoyo especiales que están determinadas por
+
+413
+00:09:11,939 --> 00:09:11,949
+habilidades de apoyo especiales que están determinadas por
+ 
+
+414
+00:09:11,949 --> 00:09:14,999
+habilidades de apoyo especiales que están determinadas por
+su tipo de compañero usar solo apoyo le
+
+415
+00:09:14,999 --> 00:09:15,009
+su tipo de compañero usar solo apoyo le
+ 
+
+416
+00:09:15,009 --> 00:09:17,879
+su tipo de compañero usar solo apoyo le
+cuesta a uno de los compañeros dos acciones
+
+417
+00:09:17,879 --> 00:09:17,889
+cuesta a uno de los compañeros dos acciones
+ 
+
+418
+00:09:17,889 --> 00:09:20,340
+cuesta a uno de los compañeros dos acciones
+pero estás muy limitado en cómo
+
+419
+00:09:20,340 --> 00:09:20,350
+pero estás muy limitado en cómo
+ 
+
+420
+00:09:20,350 --> 00:09:23,610
+pero estás muy limitado en cómo
+puedes girar la otra acción básicamente si
+
+421
+00:09:23,610 --> 00:09:23,620
+puedes girar la otra acción básicamente si
+ 
+
+422
+00:09:23,620 --> 00:09:26,220
+puedes girar la otra acción básicamente si
+quieres usar la habilidad de apoyo el
+
+423
+00:09:26,220 --> 00:09:26,230
+quieres usar la habilidad de apoyo el
+ 
+
+424
+00:09:26,230 --> 00:09:28,800
+quieres usar la habilidad de apoyo el
+compañero puede usar apoyo y no hacer
+
+425
+00:09:28,800 --> 00:09:28,810
+compañero puede usar apoyo y no hacer
+ 
+
+426
+00:09:28,810 --> 00:09:31,350
+compañero puede usar apoyo y no hacer
+nada más ese turno o puede gastar
+
+427
+00:09:31,350 --> 00:09:31,360
+nada más ese turno o puede gastar
+ 
+
+428
+00:09:31,360 --> 00:09:34,259
+nada más ese turno o puede gastar
+una acción para moverse y luego usar su
+
+429
+00:09:34,259 --> 00:09:34,269
+una acción para moverse y luego usar su
+ 
+
+430
+00:09:34,269 --> 00:09:37,079
+una acción para moverse y luego usar su
+habilidad de apoyo no puede usar su
+
+431
+00:09:37,079 --> 00:09:37,089
+habilidad de apoyo no puede usar su
+ 
+
+432
+00:09:37,089 --> 00:09:40,259
+habilidad de apoyo no puede usar su
+habilidad de apoyo y luego moverse lo que
+
+433
+00:09:40,259 --> 00:09:40,269
+habilidad de apoyo y luego moverse lo que
+ 
+
+434
+00:09:40,269 --> 00:09:42,629
+habilidad de apoyo y luego moverse lo que
+sucede cuando se usa apoyo varía de un
+
+435
+00:09:42,629 --> 00:09:42,639
+sucede cuando se usa apoyo varía de un
+ 
+
+436
+00:09:42,639 --> 00:09:44,879
+sucede cuando se usa apoyo varía de un
+animal a otro pero echemos un vistazo de
+
+437
+00:09:44,879 --> 00:09:44,889
+animal a otro pero echemos un vistazo de
+ 
+
+438
+00:09:44,889 --> 00:09:47,699
+animal a otro pero echemos un vistazo de
+nuevo al bloque de paso de Badger aquí
+
+439
+00:09:47,699 --> 00:09:47,709
+nuevo al bloque de paso de Badger aquí
+ 
+
+440
+00:09:47,709 --> 00:09:49,559
+nuevo al bloque de paso de Badger aquí
+dice que si usas la acción de apoyo
+
+441
+00:09:49,559 --> 00:09:49,569
+dice que si usas la acción de apoyo
+ 
+
+442
+00:09:49,569 --> 00:09:52,290
+dice que si usas la acción de apoyo
+golpeas y haces daño a un enemigo
+
+443
+00:09:52,290 --> 00:09:52,300
+golpeas y haces daño a un enemigo
+ 
+
+444
+00:09:52,300 --> 00:09:55,019
+golpeas y haces daño a un enemigo
+amenazado por Badger entonces ese enemigo
+
+445
+00:09:55,019 --> 00:09:55,029
+amenazado por Badger entonces ese enemigo
+ 
+
+446
+00:09:55,029 --> 00:09:57,600
+amenazado por Badger entonces ese enemigo
+no puede usar la acción de paso hasta el
+
+447
+00:09:57,600 --> 00:09:57,610
+no puede usar la acción de paso hasta el
+ 
+
+448
+00:09:57,610 --> 00:09:59,280
+no puede usar la acción de paso hasta el
+comienzo de tu próximo turno
+
+449
+00:09:59,280 --> 00:09:59,290
+comienzo de tu próximo turno
+ 
+
+450
+00:09:59,290 --> 00:10:02,879
+comienzo de tu próximo turno
+revisa las páginas 215 y 216 para ver cada
+
+451
+00:10:02,879 --> 00:10:02,889
+revisa las páginas 215 y 216 para ver cada
+ 
+
+452
+00:10:02,889 --> 00:10:05,249
+revisa las páginas 215 y 216 para ver cada
+tipo de compañero y sus habilidades de apoyo
+
+453
+00:10:05,249 --> 00:10:05,259
+tipo de compañero y sus habilidades de apoyo
+ 
+
+454
+00:10:05,259 --> 00:10:07,989
+tipo de compañero y sus habilidades de apoyo
+
+455
+00:10:07,989 --> 00:10:07,999
+
+ 
+
+456
+00:10:07,999 --> 00:10:10,239
+
+todos los compañeros animales pueden ser escritos por
+
+457
+00:10:10,239 --> 00:10:10,249
+todos los compañeros animales pueden ser escritos por
+ 
+
+458
+00:10:10,249 --> 00:10:12,879
+todos los compañeros animales pueden ser escritos por
+ti  o un aliado si son al menos una
+
+459
+00:10:12,879 --> 00:10:12,889
+ti  o un aliado si son al menos una
+ 
+
+460
+00:10:12,889 --> 00:10:15,249
+ti  o un aliado si son al menos una
+categoría de tamaño más grandes que la persona
+
+461
+00:10:15,249 --> 00:10:15,259
+categoría de tamaño más grandes que la persona
+ 
+
+462
+00:10:15,259 --> 00:10:17,769
+categoría de tamaño más grandes que la persona
+que quiere escribirlos, pero a menos que el
+
+463
+00:10:17,769 --> 00:10:17,779
+que quiere escribirlos, pero a menos que el
+ 
+
+464
+00:10:17,779 --> 00:10:20,169
+que quiere escribirlos, pero a menos que el
+compañero tenga la habilidad especial de cantidad,
+
+465
+00:10:20,169 --> 00:10:20,179
+compañero tenga la habilidad especial de cantidad,
+ 
+
+466
+00:10:20,179 --> 00:10:22,839
+compañero tenga la habilidad especial de cantidad,
+hay algunas limitaciones a tener en cuenta
+
+467
+00:10:22,839 --> 00:10:22,849
+hay algunas limitaciones a tener en cuenta
+ 
+
+468
+00:10:22,849 --> 00:10:25,659
+hay algunas limitaciones a tener en cuenta
+cuando un compañero animal lleva
+
+469
+00:10:25,659 --> 00:10:25,669
+cuando un compañero animal lleva
+ 
+
+470
+00:10:25,669 --> 00:10:28,599
+cuando un compañero animal lleva
+un jinete, solo puede usar su velocidad terrestre,
+
+471
+00:10:28,599 --> 00:10:28,609
+un jinete, solo puede usar su velocidad terrestre,
+ 
+
+472
+00:10:28,609 --> 00:10:31,569
+un jinete, solo puede usar su velocidad terrestre,
+así que, por ejemplo, si tu compañero animal
+
+473
+00:10:31,569 --> 00:10:31,579
+así que, por ejemplo, si tu compañero animal
+ 
+
+474
+00:10:31,579 --> 00:10:33,969
+así que, por ejemplo, si tu compañero animal
+fuera un tejón gigante, sería posible
+
+475
+00:10:33,969 --> 00:10:33,979
+fuera un tejón gigante, sería posible
+ 
+
+476
+00:10:33,979 --> 00:10:36,609
+fuera un tejón gigante, sería posible
+escribirlo, pero estarías limitado a
+
+477
+00:10:36,609 --> 00:10:36,619
+escribirlo, pero estarías limitado a
+ 
+
+478
+00:10:36,619 --> 00:10:39,789
+escribirlo, pero estarías limitado a
+su velocidad terrestre de 25, no
+
+479
+00:10:39,789 --> 00:10:39,799
+su velocidad terrestre de 25, no
+ 
+
+480
+00:10:39,799 --> 00:10:42,309
+su velocidad terrestre de 25, no
+podría usar su velocidad de escalada con un
+
+481
+00:10:42,309 --> 00:10:42,319
+podría usar su velocidad de escalada con un
+ 
+
+482
+00:10:42,319 --> 00:10:45,339
+podría usar su velocidad de escalada con un
+personaje montado sobre él y normalmente los
+
+483
+00:10:45,339 --> 00:10:45,349
+personaje montado sobre él y normalmente los
+ 
+
+484
+00:10:45,349 --> 00:10:48,669
+personaje montado sobre él y normalmente los
+compañeros animales pueden moverse y luego usar
+
+485
+00:10:48,669 --> 00:10:48,679
+compañeros animales pueden moverse y luego usar
+ 
+
+486
+00:10:48,679 --> 00:10:50,829
+compañeros animales pueden moverse y luego usar
+su habilidad de apoyo en el mismo turno,
+
+487
+00:10:50,829 --> 00:10:50,839
+su habilidad de apoyo en el mismo turno,
+ 
+
+488
+00:10:50,839 --> 00:10:53,710
+su habilidad de apoyo en el mismo turno,
+pero mientras está montado, un compañero animal
+
+489
+00:10:53,710 --> 00:10:53,720
+pero mientras está montado, un compañero animal
+ 
+
+490
+00:10:53,720 --> 00:10:57,009
+pero mientras está montado, un compañero animal
+no puede hacer ambas cosas si quieres usar la
+
+491
+00:10:57,009 --> 00:10:57,019
+no puede hacer ambas cosas si quieres usar la
+ 
+
+492
+00:10:57,019 --> 00:10:59,169
+no puede hacer ambas cosas si quieres usar la
+habilidad de apoyo animal mientras está montado,
+
+493
+00:10:59,169 --> 00:10:59,179
+habilidad de apoyo animal mientras está montado,
+ 
+
+494
+00:10:59,179 --> 00:11:01,779
+habilidad de apoyo animal mientras está montado,
+eso será lo único que
+
+495
+00:11:01,779 --> 00:11:01,789
+eso será lo único que
+ 
+
+496
+00:11:01,789 --> 00:11:03,969
+eso será lo único que
+hará el compañero animal en tu turno
+
+497
+00:11:03,969 --> 00:11:03,979
+hará el compañero animal en tu turno
+ 
+
+498
+00:11:03,979 --> 00:11:06,969
+hará el compañero animal en tu turno
+y, de nuevo, estas restricciones solo se aplican
+
+499
+00:11:06,969 --> 00:11:06,979
+y, de nuevo, estas restricciones solo se aplican
+ 
+
+500
+00:11:06,979 --> 00:11:09,279
+y, de nuevo, estas restricciones solo se aplican
+a los compañeros animales que no tienen
+
+501
+00:11:09,279 --> 00:11:09,289
+a los compañeros animales que no tienen
+ 
+
+502
+00:11:09,289 --> 00:11:11,829
+a los compañeros animales que no tienen
+la habilidad especial de cantidad. Los compañeros con la
+
+503
+00:11:11,829 --> 00:11:11,839
+la habilidad especial de cantidad. Los compañeros con la
+ 
+
+504
+00:11:11,839 --> 00:11:13,629
+la habilidad especial de cantidad. Los compañeros con la
+habilidad especial de montura, como los
+
+505
+00:11:13,629 --> 00:11:13,639
+habilidad especial de montura, como los
+ 
+
+506
+00:11:13,639 --> 00:11:18,510
+habilidad especial de montura, como los
+caballos, ignoran ambas limitaciones.
+
+507
+00:11:18,510 --> 00:11:18,520
+caballos, ignoran ambas limitaciones.
+ 
+
+508
+00:11:18,520 --> 00:11:21,090
+caballos, ignoran ambas limitaciones.
+En este video, discutimos los conceptos básicos de los
+
+509
+00:11:21,090 --> 00:11:21,100
+En este video, discutimos los conceptos básicos de los
+ 
+
+510
+00:11:21,100 --> 00:11:24,060
+En este video, discutimos los conceptos básicos de los
+compañeros animales como recordatorio, los
+
+511
+00:11:24,060 --> 00:11:24,070
+compañeros animales como recordatorio, los
+ 
+
+512
+00:11:24,070 --> 00:11:26,310
+compañeros animales como recordatorio, los
+compañeros animales no deben confundirse con los
+
+513
+00:11:26,310 --> 00:11:26,320
+compañeros animales no deben confundirse con los
+ 
+
+514
+00:11:26,320 --> 00:11:29,880
+compañeros animales no deben confundirse con los
+animales normales o los familiares animales. Mira
+
+515
+00:11:29,880 --> 00:11:29,890
+animales normales o los familiares animales. Mira
+ 
+
+516
+00:11:29,890 --> 00:11:31,770
+animales normales o los familiares animales. Mira
+nuestros otros videos que tratan esos
+
+517
+00:11:31,770 --> 00:11:31,780
+nuestros otros videos que tratan esos
+ 
+
+518
+00:11:31,780 --> 00:11:34,710
+nuestros otros videos que tratan esos
+temas. Los compañeros animales son
+
+519
+00:11:34,710 --> 00:11:34,720
+temas. Los compañeros animales son
+ 
+
+520
+00:11:34,720 --> 00:11:36,930
+temas. Los compañeros animales son
+camaradas leales que son controlados por jugadores
+
+521
+00:11:36,930 --> 00:11:36,940
+camaradas leales que son controlados por jugadores
+ 
+
+522
+00:11:36,940 --> 00:11:40,290
+camaradas leales que son controlados por jugadores
+o NPC. Se piensa que son más comunes.
+
+523
+00:11:40,290 --> 00:11:40,300
+o NPC. Se piensa que son más comunes.
+ 
+
+524
+00:11:40,300 --> 00:11:42,930
+o NPC. Se piensa que son más comunes.
+de como compañeros para druidas y exploradores,
+
+525
+00:11:42,930 --> 00:11:42,940
+de como compañeros para druidas y exploradores,
+ 
+
+526
+00:11:42,940 --> 00:11:45,540
+de como compañeros para druidas y exploradores,
+pero también puede ser una montura de campeones u
+
+527
+00:11:45,540 --> 00:11:45,550
+pero también puede ser una montura de campeones u
+ 
+
+528
+00:11:45,550 --> 00:11:48,720
+pero también puede ser una montura de campeones u
+otro amigo animal importante. los
+
+529
+00:11:48,720 --> 00:11:48,730
+otro amigo animal importante. los
+ 
+
+530
+00:11:48,730 --> 00:11:50,520
+otro amigo animal importante. los
+compañeros animales se obtienen a través de
+
+531
+00:11:50,520 --> 00:11:50,530
+compañeros animales se obtienen a través de
+ 
+
+532
+00:11:50,530 --> 00:11:53,640
+compañeros animales se obtienen a través de
+dotes de clase, sus puntos de cadera y competencias
+
+533
+00:11:53,640 --> 00:11:53,650
+dotes de clase, sus puntos de cadera y competencias
+ 
+
+534
+00:11:53,650 --> 00:11:57,090
+dotes de clase, sus puntos de cadera y competencias
+aumentan a medida que el jugador gana niveles cuando un
+
+535
+00:11:57,090 --> 00:11:57,100
+aumentan a medida que el jugador gana niveles cuando un
+ 
+
+536
+00:11:57,100 --> 00:11:59,400
+aumentan a medida que el jugador gana niveles cuando un
+compañero animal muere, puede ser
+
+537
+00:11:59,400 --> 00:11:59,410
+compañero animal muere, puede ser
+ 
+
+538
+00:11:59,410 --> 00:12:01,910
+compañero animal muere, puede ser
+reemplazado con una semana de tiempo de inactividad, los compañeros animales
+
+539
+00:12:01,910 --> 00:12:01,920
+reemplazado con una semana de tiempo de inactividad, los compañeros animales
+ 
+
+540
+00:12:01,920 --> 00:12:04,440
+reemplazado con una semana de tiempo de inactividad, los compañeros animales
+tienen el rasgo de esbirro
+
+541
+00:12:04,440 --> 00:12:04,450
+tienen el rasgo de esbirro
+ 
+
+542
+00:12:04,450 --> 00:12:07,380
+tienen el rasgo de esbirro
+cada ronda, los jugadores deben gastar una acción
+
+543
+00:12:07,380 --> 00:12:07,390
+cada ronda, los jugadores deben gastar una acción
+ 
+
+544
+00:12:07,390 --> 00:12:09,750
+cada ronda, los jugadores deben gastar una acción
+en la orden y el animal para otorgarle a su
+
+545
+00:12:09,750 --> 00:12:09,760
+en la orden y el animal para otorgarle a su
+ 
+
+546
+00:12:09,760 --> 00:12:12,090
+en la orden y el animal para otorgarle a su
+compañero acciones que se gastarán durante
+
+547
+00:12:12,090 --> 00:12:12,100
+compañero acciones que se gastarán durante
+ 
+
+548
+00:12:12,100 --> 00:12:14,460
+compañero acciones que se gastarán durante
+el mismo turno si el jugador no
+
+549
+00:12:14,460 --> 00:12:14,470
+el mismo turno si el jugador no
+ 
+
+550
+00:12:14,470 --> 00:12:16,680
+el mismo turno si el jugador no
+gasta una acción en la orden a un animal para
+
+551
+00:12:16,680 --> 00:12:16,690
+gasta una acción en la orden a un animal para
+ 
+
+552
+00:12:16,690 --> 00:12:19,050
+gasta una acción en la orden a un animal para
+hacer esto, su compañero solo se defenderá
+
+553
+00:12:19,050 --> 00:12:19,060
+hacer esto, su compañero solo se defenderá
+ 
+
+554
+00:12:19,060 --> 00:12:21,240
+hacer esto, su compañero solo se defenderá
+o se alejará del
+
+555
+00:12:21,240 --> 00:12:21,250
+o se alejará del
+ 
+
+556
+00:12:21,250 --> 00:12:24,350
+o se alejará del
+peligro obvio como el DM crea que es apropiado,
+
+557
+00:12:24,350 --> 00:12:24,360
+peligro obvio como el DM crea que es apropiado,
+ 
+
+558
+00:12:24,360 --> 00:12:27,540
+peligro obvio como el DM crea que es apropiado,
+también los compañeros animales no tienen reacciones que
+
+559
+00:12:27,540 --> 00:12:27,550
+también los compañeros animales no tienen reacciones que
+ 
+
+560
+00:12:27,550 --> 00:12:30,290
+también los compañeros animales no tienen reacciones que
+girar en los términos de otras personas y los
+
+561
+00:12:30,290 --> 00:12:30,300
+girar en los términos de otras personas y los
+ 
+
+562
+00:12:30,300 --> 00:12:32,610
+girar en los términos de otras personas y los
+compañeros animales son inmunes al
+
+563
+00:12:32,610 --> 00:12:32,620
+compañeros animales son inmunes al
+ 
+
+564
+00:12:32,620 --> 00:12:34,830
+compañeros animales son inmunes al
+pánico que la mayoría de los animales enfrentan cuando
+
+565
+00:12:34,830 --> 00:12:34,840
+pánico que la mayoría de los animales enfrentan cuando
+ 
+
+566
+00:12:34,840 --> 00:12:37,680
+pánico que la mayoría de los animales enfrentan cuando
+entran en combate, todas las estadísticas de un compañero animal
+
+567
+00:12:37,680 --> 00:12:37,690
+entran en combate, todas las estadísticas de un compañero animal
+ 
+
+568
+00:12:37,690 --> 00:12:40,230
+entran en combate, todas las estadísticas de un compañero animal
+se derivan de su
+
+569
+00:12:40,230 --> 00:12:40,240
+se derivan de su
+ 
+
+570
+00:12:40,240 --> 00:12:43,200
+se derivan de su
+tipo de compañero, cada tipo de compañero tiene una
+
+571
+00:12:43,200 --> 00:12:43,210
+tipo de compañero, cada tipo de compañero tiene una
+ 
+
+572
+00:12:43,210 --> 00:12:44,850
+tipo de compañero, cada tipo de compañero tiene una
+habilidad de apoyo especial que obtiene de
+
+573
+00:12:44,850 --> 00:12:44,860
+habilidad de apoyo especial que obtiene de
+ 
+
+574
+00:12:44,860 --> 00:12:47,610
+habilidad de apoyo especial que obtiene de
+inmediato y una maniobra avanzada
+
+575
+00:12:47,610 --> 00:12:47,620
+inmediato y una maniobra avanzada
+ 
+
+576
+00:12:47,620 --> 00:12:49,880
+inmediato y una maniobra avanzada
+que debe obtenerse a través de otras dotes
+
+577
+00:12:49,880 --> 00:12:49,890
+que debe obtenerse a través de otras dotes
+ 
+
+578
+00:12:49,890 --> 00:12:52,920
+que debe obtenerse a través de otras dotes
+cuando se obtiene un compañero animal, es
+
+579
+00:12:52,920 --> 00:12:52,930
+cuando se obtiene un compañero animal, es
+ 
+
+580
+00:12:52,930 --> 00:12:55,410
+cuando se obtiene un compañero animal, es
+joven, se requiere otra dote para
+
+581
+00:12:55,410 --> 00:12:55,420
+joven, se requiere otra dote para
+ 
+
+582
+00:12:55,420 --> 00:12:58,290
+joven, se requiere otra dote para
+avanzar al compañero a la madurez y se
+
+583
+00:12:58,290 --> 00:12:58,300
+avanzar al compañero a la madurez y se
+ 
+
+584
+00:12:58,300 --> 00:13:00,240
+avanzar al compañero a la madurez y se
+puede tomar una tercera dote para mejorar aún más
+
+585
+00:13:00,240 --> 00:13:00,250
+puede tomar una tercera dote para mejorar aún más
+ 
+
+586
+00:13:00,250 --> 00:13:02,190
+puede tomar una tercera dote para mejorar aún más
+al compañero en un
+
+587
+00:13:02,190 --> 00:13:02,200
+al compañero en un
+ 
+
+588
+00:13:02,200 --> 00:13:05,010
+al compañero en un
+compañero ágil o salvaje
+
+589
+00:13:05,010 --> 00:13:05,020
+compañero ágil o salvaje
+ 
+
+590
+00:13:05,020 --> 00:13:07,530
+compañero ágil o salvaje
+Si se usa la capacidad de soporte de un compañero,
+
+591
+00:13:07,530 --> 00:13:07,540
+Si se usa la capacidad de soporte de un compañero,
+ 
+
+592
+00:13:07,540 --> 00:13:09,660
+Si se usa la capacidad de soporte de un compañero,
+no puede realizar otras acciones que
+
+593
+00:13:09,660 --> 00:13:09,670
+no puede realizar otras acciones que
+ 
+
+594
+00:13:09,670 --> 00:13:11,730
+no puede realizar otras acciones que
+no sean moverse a su posición para
+
+595
+00:13:11,730 --> 00:13:11,740
+no sean moverse a su posición para
+ 
+
+596
+00:13:11,740 --> 00:13:14,700
+no sean moverse a su posición para
+realizar la habilidad de soporte. Los
+
+597
+00:13:14,700 --> 00:13:14,710
+realizar la habilidad de soporte. Los
+ 
+
+598
+00:13:14,710 --> 00:13:16,980
+realizar la habilidad de soporte. Los
+compañeros animales pueden ser montados si son al
+
+599
+00:13:16,980 --> 00:13:16,990
+compañeros animales pueden ser montados si son al
+ 
+
+600
+00:13:16,990 --> 00:13:19,620
+compañeros animales pueden ser montados si son al
+menos una categoría de tamaño más grande que el
+
+601
+00:13:19,620 --> 00:13:19,630
+menos una categoría de tamaño más grande que el
+ 
+
+602
+00:13:19,630 --> 00:13:21,870
+menos una categoría de tamaño más grande que el
+jugador, pero sufren algunas restricciones a
+
+603
+00:13:21,870 --> 00:13:21,880
+jugador, pero sufren algunas restricciones a
+ 
+
+604
+00:13:21,880 --> 00:13:24,450
+jugador, pero sufren algunas restricciones a
+menos que tengan la habilidad especial de montura.
+
+605
+00:13:24,450 --> 00:13:24,460
+menos que tengan la habilidad especial de montura.
+ 
+
+606
+00:13:24,460 --> 00:13:26,740
+menos que tengan la habilidad especial de montura.
+
+607
+00:13:26,740 --> 00:13:26,750
+
+ 
+
+608
+00:13:26,750 --> 00:13:28,900
+
+Antes de cerrar, me gustaría tomarme un
+
+609
+00:13:28,900 --> 00:13:28,910
+Antes de cerrar, me gustaría tomarme un
+ 
+
+610
+00:13:28,910 --> 00:13:31,360
+Antes de cerrar, me gustaría tomarme un
+momento para agradecer a todos nuestros patrocinadores. Estos
+
+611
+00:13:31,360 --> 00:13:31,370
+momento para agradecer a todos nuestros patrocinadores. Estos
+ 
+
+612
+00:13:31,370 --> 00:13:33,129
+momento para agradecer a todos nuestros patrocinadores. Estos
+videos no serían posibles sin
+
+613
+00:13:33,129 --> 00:13:33,139
+videos no serían posibles sin
+ 
+
+614
+00:13:33,139 --> 00:13:35,970
+videos no serían posibles sin
+su continua generosidad y apoyo. Los
+
+615
+00:13:35,970 --> 00:13:35,980
+su continua generosidad y apoyo. Los
+ 
+
+616
+00:13:35,980 --> 00:13:38,800
+su continua generosidad y apoyo. Los
+miembros de la comunidad de Patreon de Basics for Gamers
+
+617
+00:13:38,800 --> 00:13:38,810
+miembros de la comunidad de Patreon de Basics for Gamers
+ 
+
+618
+00:13:38,810 --> 00:13:40,990
+miembros de la comunidad de Patreon de Basics for Gamers
+reciben beneficios especiales, como
+
+619
+00:13:40,990 --> 00:13:41,000
+reciben beneficios especiales, como
+ 
+
+620
+00:13:41,000 --> 00:13:42,819
+reciben beneficios especiales, como
+obtener voto en los temas que
+
+621
+00:13:42,819 --> 00:13:42,829
+obtener voto en los temas que
+ 
+
+622
+00:13:42,829 --> 00:13:45,069
+obtener voto en los temas que
+cubrimos en el futuro y también pueden
+
+623
+00:13:45,069 --> 00:13:45,079
+cubrimos en el futuro y también pueden
+ 
+
+624
+00:13:45,079 --> 00:13:47,559
+cubrimos en el futuro y también pueden
+ver estos videos una semana y sin publicidad
+
+625
+00:13:47,559 --> 00:13:47,569
+ver estos videos una semana y sin publicidad
+ 
+
+626
+00:13:47,569 --> 00:13:50,949
+ver estos videos una semana y sin publicidad
+antes que todos los demás. Visite los enlaces que
+
+627
+00:13:50,949 --> 00:13:50,959
+antes que todos los demás. Visite los enlaces que
+ 
+
+628
+00:13:50,959 --> 00:13:52,660
+antes que todos los demás. Visite los enlaces que
+se muestran a la izquierda de la pantalla y en
+
+629
+00:13:52,660 --> 00:13:52,670
+se muestran a la izquierda de la pantalla y en
+ 
+
+630
+00:13:52,670 --> 00:13:54,129
+se muestran a la izquierda de la pantalla y en
+la descripción. Si desea obtener
+
+631
+00:13:54,129 --> 00:13:54,139
+la descripción. Si desea obtener
+ 
+
+632
+00:13:54,139 --> 00:13:56,829
+la descripción. Si desea obtener
+más información sobre cómo convertirse en patrocinador, si
+
+633
+00:13:56,829 --> 00:13:56,839
+más información sobre cómo convertirse en patrocinador, si
+ 
+
+634
+00:13:56,839 --> 00:13:58,179
+más información sobre cómo convertirse en patrocinador, si
+desea apoyar este canal y
+
+635
+00:13:58,179 --> 00:13:58,189
+desea apoyar este canal y
+ 
+
+636
+00:13:58,189 --> 00:14:00,129
+desea apoyar este canal y
+ayudarlo a crecer, la forma más fácil de hacerlo es
+
+637
+00:14:00,129 --> 00:14:00,139
+ayudarlo a crecer, la forma más fácil de hacerlo es
+ 
+
+638
+00:14:00,139 --> 00:14:02,889
+ayudarlo a crecer, la forma más fácil de hacerlo es
+suscribiéndose y haciendo clic en el
+
+639
+00:14:02,889 --> 00:14:02,899
+suscribiéndose y haciendo clic en el
+ 
+
+640
+00:14:02,899 --> 00:14:05,410
+suscribiéndose y haciendo clic en el
+ícono de la campana para que se le notifique cuando
+
+641
+00:14:05,410 --> 00:14:05,420
+ícono de la campana para que se le notifique cuando
+ 
+
+642
+00:14:05,420 --> 00:14:07,869
+ícono de la campana para que se le notifique cuando
+se publiquen nuevos videos. Siempre puede comunicarse con nosotros a
+
+643
+00:14:07,869 --> 00:14:07,879
+se publiquen nuevos videos. Siempre puede comunicarse con nosotros a
+ 
+
+644
+00:14:07,879 --> 00:14:09,160
+se publiquen nuevos videos. Siempre puede comunicarse con nosotros a
+través de nuestras páginas de Twitter y Facebook.
+
+645
+00:14:09,160 --> 00:14:09,170
+través de nuestras páginas de Twitter y Facebook.
+ 
+
+646
+00:14:09,170 --> 00:14:12,280
+través de nuestras páginas de Twitter y Facebook.
+Gracias por ver, cuídese y nos
+
+647
+00:14:12,280 --> 00:14:12,290
+Gracias por ver, cuídese y nos
+ 
+
+648
+00:14:12,290 --> 00:14:14,079
+Gracias por ver, cuídese y nos
+vemos pronto con más conceptos básicos de
+
+649
+00:14:14,079 --> 00:14:14,089
+vemos pronto con más conceptos básicos de
+ 
+
+650
+00:14:14,089 --> 00:14:16,689
+vemos pronto con más conceptos básicos de
+Pathfinder.
+

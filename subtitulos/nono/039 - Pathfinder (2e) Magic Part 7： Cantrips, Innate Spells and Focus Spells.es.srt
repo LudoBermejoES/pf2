@@ -1,0 +1,1934 @@
+1
+00:00:01,199 --> 00:00:02,629
+
+Hola y bienvenidos a Magic y
+
+2
+00:00:02,629 --> 00:00:02,639
+Hola y bienvenidos a Magic y
+ 
+
+3
+00:00:02,639 --> 00:00:05,190
+Hola y bienvenidos a Magic y
+Pathfinder parte 7. Hasta ahora en esta serie
+
+4
+00:00:05,190 --> 00:00:05,200
+Pathfinder parte 7. Hasta ahora en esta serie
+ 
+
+5
+00:00:05,200 --> 00:00:07,070
+Pathfinder parte 7. Hasta ahora en esta serie
+hemos discutido principalmente hechizos regulares
+
+6
+00:00:07,070 --> 00:00:07,080
+hemos discutido principalmente hechizos regulares
+ 
+
+7
+00:00:07,080 --> 00:00:09,470
+hemos discutido principalmente hechizos regulares
+por falta de un mejor término y en este
+
+8
+00:00:09,470 --> 00:00:09,480
+por falta de un mejor término y en este
+ 
+
+9
+00:00:09,480 --> 00:00:10,910
+por falta de un mejor término y en este
+video vamos a expandir esa
+
+10
+00:00:10,910 --> 00:00:10,920
+video vamos a expandir esa
+ 
+
+11
+00:00:10,920 --> 00:00:12,950
+video vamos a expandir esa
+discusión para incluir otros tipos de
+
+12
+00:00:12,950 --> 00:00:12,960
+discusión para incluir otros tipos de
+ 
+
+13
+00:00:12,960 --> 00:00:15,430
+discusión para incluir otros tipos de
+hechizos, incluyendo hechizos de enfoque,
+
+14
+00:00:15,430 --> 00:00:15,440
+hechizos, incluyendo hechizos de enfoque,
+ 
+
+15
+00:00:15,440 --> 00:00:17,990
+hechizos, incluyendo hechizos de enfoque,
+hechizos innatos y
+
+16
+00:00:17,990 --> 00:00:18,000
+hechizos innatos y
+ 
+
+17
+00:00:18,000 --> 00:00:20,710
+hechizos innatos y
+trucos. Un truco es un tipo especial de
+
+18
+00:00:20,710 --> 00:00:20,720
+trucos. Un truco es un tipo especial de
+ 
+
+19
+00:00:20,720 --> 00:00:22,429
+trucos. Un truco es un tipo especial de
+hechizo que suele ser más débil que los
+
+20
+00:00:22,429 --> 00:00:22,439
+hechizo que suele ser más débil que los
+ 
+
+21
+00:00:22,439 --> 00:00:24,670
+hechizo que suele ser más débil que los
+hechizos regulares, pero se puede lanzar con más
+
+22
+00:00:24,670 --> 00:00:24,680
+hechizos regulares, pero se puede lanzar con más
+ 
+
+23
+00:00:24,680 --> 00:00:26,910
+hechizos regulares, pero se puede lanzar con más
+frecuencia y con mayor flexibilidad.
+
+24
+00:00:26,910 --> 00:00:26,920
+frecuencia y con mayor flexibilidad.
+ 
+
+25
+00:00:26,920 --> 00:00:28,870
+frecuencia y con mayor flexibilidad.
+Hay dos características clave de los trucos que los
+
+26
+00:00:28,870 --> 00:00:28,880
+Hay dos características clave de los trucos que los
+ 
+
+27
+00:00:28,880 --> 00:00:31,310
+Hay dos características clave de los trucos que los
+separan de otros hechizos. Primero, los
+
+28
+00:00:31,310 --> 00:00:31,320
+separan de otros hechizos. Primero, los
+ 
+
+29
+00:00:31,320 --> 00:00:33,790
+separan de otros hechizos. Primero, los
+trucos no usan espacios de hechizo y,
+
+30
+00:00:33,790 --> 00:00:33,800
+trucos no usan espacios de hechizo y,
+ 
+
+31
+00:00:33,800 --> 00:00:35,790
+trucos no usan espacios de hechizo y,
+por lo tanto, se pueden lanzar a voluntad un
+
+32
+00:00:35,790 --> 00:00:35,800
+por lo tanto, se pueden lanzar a voluntad un
+ 
+
+33
+00:00:35,800 --> 00:00:38,430
+por lo tanto, se pueden lanzar a voluntad un
+número ilimitado de veces al día. Por
+
+34
+00:00:38,430 --> 00:00:38,440
+número ilimitado de veces al día. Por
+ 
+
+35
+00:00:38,440 --> 00:00:41,029
+número ilimitado de veces al día. Por
+ejemplo, Arco eléctrico ha sido un
+
+36
+00:00:41,029 --> 00:00:41,039
+ejemplo, Arco eléctrico ha sido un
+ 
+
+37
+00:00:41,039 --> 00:00:43,190
+ejemplo, Arco eléctrico ha sido un
+truco de canant muy popular entre mis jugadores.
+
+38
+00:00:43,190 --> 00:00:43,200
+truco de canant muy popular entre mis jugadores.
+ 
+
+39
+00:00:43,200 --> 00:00:45,389
+truco de canant muy popular entre mis jugadores.
+Los trucos tienen niveles de lanzamiento mínimos al igual que los
+
+40
+00:00:45,389 --> 00:00:45,399
+Los trucos tienen niveles de lanzamiento mínimos al igual que los
+ 
+
+41
+00:00:45,399 --> 00:00:47,709
+Los trucos tienen niveles de lanzamiento mínimos al igual que los
+hechizos regulares, aunque la
+
+42
+00:00:47,709 --> 00:00:47,719
+hechizos regulares, aunque la
+ 
+
+43
+00:00:47,719 --> 00:00:49,709
+hechizos regulares, aunque la
+mayoría de los trucos de canant son como este.
+
+44
+00:00:49,709 --> 00:00:49,719
+mayoría de los trucos de canant son como este.
+ 
+
+45
+00:00:49,719 --> 00:00:52,270
+mayoría de los trucos de canant son como este.
+Primer nivel, pero lo que es diferente
+
+46
+00:00:52,270 --> 00:00:52,280
+Primer nivel, pero lo que es diferente
+ 
+
+47
+00:00:52,280 --> 00:00:54,510
+Primer nivel, pero lo que es diferente
+de los hechizos regulares es que, dado que este es un truco de canant, se puede
+
+48
+00:00:54,510 --> 00:00:54,520
+de los hechizos regulares es que, dado que este es un truco de canant, se puede
+ 
+
+49
+00:00:54,520 --> 00:00:57,029
+de los hechizos regulares es que, dado que este es un truco de canant, se puede
+lanzar un
+
+50
+00:00:57,029 --> 00:00:57,039
+lanzar un
+ 
+
+51
+00:00:57,039 --> 00:00:59,389
+lanzar un
+número ilimitado de veces al día y no
+
+52
+00:00:59,389 --> 00:00:59,399
+número ilimitado de veces al día y no
+ 
+
+53
+00:00:59,399 --> 00:01:02,389
+número ilimitado de veces al día y no
+consume ningún espacio de hechizo al hacerlo.
+
+54
+00:01:02,389 --> 00:01:02,399
+consume ningún espacio de hechizo al hacerlo.
+ 
+
+55
+00:01:02,399 --> 00:01:04,630
+consume ningún espacio de hechizo al hacerlo.
+La segunda característica clave de los trucos es
+
+56
+00:01:04,630 --> 00:01:04,640
+La segunda característica clave de los trucos es
+ 
+
+57
+00:01:04,640 --> 00:01:06,149
+La segunda característica clave de los trucos es
+que se aumentan automáticamente
+
+58
+00:01:06,149 --> 00:01:06,159
+que se aumentan automáticamente
+ 
+
+59
+00:01:06,159 --> 00:01:09,109
+que se aumentan automáticamente
+a la mitad del nivel del lanzador redondeado hacia arriba en
+
+60
+00:01:09,109 --> 00:01:09,119
+a la mitad del nivel del lanzador redondeado hacia arriba en
+ 
+
+61
+00:01:09,119 --> 00:01:11,550
+a la mitad del nivel del lanzador redondeado hacia arriba en
+el caso de la mayoría de las clases lanzadoras de hechizos.
+
+62
+00:01:11,550 --> 00:01:11,560
+el caso de la mayoría de las clases lanzadoras de hechizos.
+ 
+
+63
+00:01:11,560 --> 00:01:13,510
+el caso de la mayoría de las clases lanzadoras de hechizos.
+Esto significa que puedes lanzar tus cantrips al
+
+64
+00:01:13,510 --> 00:01:13,520
+Esto significa que puedes lanzar tus cantrips al
+ 
+
+65
+00:01:13,520 --> 00:01:15,469
+Esto significa que puedes lanzar tus cantrips al
+mismo nivel que tu ranura de hechizo de nivel más alto,
+
+66
+00:01:15,469 --> 00:01:15,479
+mismo nivel que tu ranura de hechizo de nivel más alto,
+ 
+
+67
+00:01:15,479 --> 00:01:18,070
+mismo nivel que tu ranura de hechizo de nivel más alto,
+así que si los hechizos de tercer nivel son
+
+68
+00:01:18,070 --> 00:01:18,080
+así que si los hechizos de tercer nivel son
+ 
+
+69
+00:01:18,080 --> 00:01:20,069
+así que si los hechizos de tercer nivel son
+los hechizos de nivel más alto que puedes lanzar,
+
+70
+00:01:20,069 --> 00:01:20,079
+los hechizos de nivel más alto que puedes lanzar,
+ 
+
+71
+00:01:20,079 --> 00:01:21,870
+los hechizos de nivel más alto que puedes lanzar,
+entonces lanzas tus cantrips también en tercer
+
+72
+00:01:21,870 --> 00:01:21,880
+entonces lanzas tus cantrips también en tercer
+ 
+
+73
+00:01:21,880 --> 00:01:25,030
+entonces lanzas tus cantrips también en tercer
+nivel, lo que lo hace fácil de recordar,
+
+74
+00:01:25,030 --> 00:01:25,040
+nivel, lo que lo hace fácil de recordar,
+ 
+
+75
+00:01:25,040 --> 00:01:26,710
+nivel, lo que lo hace fácil de recordar,
+pero esto puede no aplicar si no
+
+76
+00:01:26,710 --> 00:01:26,720
+pero esto puede no aplicar si no
+ 
+
+77
+00:01:26,720 --> 00:01:28,830
+pero esto puede no aplicar si no
+perteneces a una de las clases de lanzamiento de hechizos completos
+
+78
+00:01:28,830 --> 00:01:28,840
+perteneces a una de las clases de lanzamiento de hechizos completos
+ 
+
+79
+00:01:28,840 --> 00:01:31,390
+perteneces a una de las clases de lanzamiento de hechizos completos
+o si lees hechizos de un
+
+80
+00:01:31,390 --> 00:01:31,400
+o si lees hechizos de un
+ 
+
+81
+00:01:31,400 --> 00:01:34,030
+o si lees hechizos de un
+arquetipo o alguna otra fuente para
+
+82
+00:01:34,030 --> 00:01:34,040
+arquetipo o alguna otra fuente para
+ 
+
+83
+00:01:34,040 --> 00:01:36,389
+arquetipo o alguna otra fuente para
+lanzadores espontáneos, esto significa que los cantrips
+
+84
+00:01:36,389 --> 00:01:36,399
+lanzadores espontáneos, esto significa que los cantrips
+ 
+
+85
+00:01:36,399 --> 00:01:38,429
+lanzadores espontáneos, esto significa que los cantrips
+funcionan como hechizos de firma y que
+
+86
+00:01:38,429 --> 00:01:38,439
+funcionan como hechizos de firma y que
+ 
+
+87
+00:01:38,439 --> 00:01:40,710
+funcionan como hechizos de firma y que
+se intensifican libremente, pero los
+
+88
+00:01:40,710 --> 00:01:40,720
+se intensifican libremente, pero los
+ 
+
+89
+00:01:40,720 --> 00:01:42,910
+se intensifican libremente, pero los
+lanzadores preparados aún necesitan preparar sus
+
+90
+00:01:42,910 --> 00:01:42,920
+lanzadores preparados aún necesitan preparar sus
+ 
+
+91
+00:01:42,920 --> 00:01:45,270
+lanzadores preparados aún necesitan preparar sus
+cantrips antes de que puedan lanzarse, por
+
+92
+00:01:45,270 --> 00:01:45,280
+cantrips antes de que puedan lanzarse, por
+ 
+
+93
+00:01:45,280 --> 00:01:47,709
+cantrips antes de que puedan lanzarse, por
+ejemplo, un mago de primer nivel comienza con
+
+94
+00:01:47,709 --> 00:01:47,719
+ejemplo, un mago de primer nivel comienza con
+ 
+
+95
+00:01:47,719 --> 00:01:50,190
+ejemplo, un mago de primer nivel comienza con
+10 cantrips en su libro de hechizos, pero cada
+
+96
+00:01:50,190 --> 00:01:50,200
+10 cantrips en su libro de hechizos, pero cada
+ 
+
+97
+00:01:50,200 --> 00:01:51,709
+10 cantrips en su libro de hechizos, pero cada
+mañana, como parte de sus
+
+98
+00:01:51,709 --> 00:01:51,719
+mañana, como parte de sus
+ 
+
+99
+00:01:51,719 --> 00:01:54,230
+mañana, como parte de sus
+preparativos diarios, elige cinco de ellos
+
+100
+00:01:54,230 --> 00:01:54,240
+preparativos diarios, elige cinco de ellos
+ 
+
+101
+00:01:54,240 --> 00:01:57,149
+preparativos diarios, elige cinco de ellos
+para prepararlos, pero una vez que están preparados, el
+
+102
+00:01:57,149 --> 00:01:57,159
+para prepararlos, pero una vez que están preparados, el
+ 
+
+103
+00:01:57,159 --> 00:01:59,350
+para prepararlos, pero una vez que están preparados, el
+mago puede lanzar esos cinco cantrips tan a
+
+104
+00:01:59,350 --> 00:01:59,360
+mago puede lanzar esos cinco cantrips tan a
+ 
+
+105
+00:01:59,360 --> 00:02:01,190
+mago puede lanzar esos cinco cantrips tan a
+menudo como quiera durante el resto del
+
+106
+00:02:01,190 --> 00:02:01,200
+menudo como quiera durante el resto del
+ 
+
+107
+00:02:01,200 --> 00:02:02,950
+menudo como quiera durante el resto del
+
+108
+00:02:02,950 --> 00:02:02,960
+
+ 
+
+109
+00:02:02,960 --> 00:02:05,789
+
+día. Los hechizos de enfoque son un tipo especial de
+
+110
+00:02:05,789 --> 00:02:05,799
+día. Los hechizos de enfoque son un tipo especial de
+ 
+
+111
+00:02:05,799 --> 00:02:07,870
+día. Los hechizos de enfoque son un tipo especial de
+hechizo y son otorgados por ciertas
+
+112
+00:02:07,870 --> 00:02:07,880
+hechizo y son otorgados por ciertas
+ 
+
+113
+00:02:07,880 --> 00:02:10,630
+hechizo y son otorgados por ciertas
+características de clase, al igual que con los cantrips, se
+
+114
+00:02:10,630 --> 00:02:10,640
+características de clase, al igual que con los cantrips, se
+ 
+
+115
+00:02:10,640 --> 00:02:12,030
+características de clase, al igual que con los cantrips, se
+intensifican automáticamente a la
+
+116
+00:02:12,030 --> 00:02:12,040
+intensifican automáticamente a la
+ 
+
+117
+00:02:12,040 --> 00:02:14,229
+intensifican automáticamente a la
+mitad de tu nivel redondeado hacia arriba y no
+
+118
+00:02:14,229 --> 00:02:14,239
+mitad de tu nivel redondeado hacia arriba y no
+ 
+
+119
+00:02:14,239 --> 00:02:16,869
+mitad de tu nivel redondeado hacia arriba y no
+usan ranuras de hechizo cuando se lanzan y no
+
+120
+00:02:16,869 --> 00:02:16,879
+usan ranuras de hechizo cuando se lanzan y no
+ 
+
+121
+00:02:16,879 --> 00:02:19,270
+usan ranuras de hechizo cuando se lanzan y no
+puedes preparar un hechizo de enfoque con una ranura de
+
+122
+00:02:19,270 --> 00:02:19,280
+puedes preparar un hechizo de enfoque con una ranura de
+ 
+
+123
+00:02:19,280 --> 00:02:21,670
+puedes preparar un hechizo de enfoque con una ranura de
+hechizo  o bien no interactúan
+
+124
+00:02:21,670 --> 00:02:21,680
+hechizo  o bien no interactúan
+ 
+
+125
+00:02:21,680 --> 00:02:24,110
+hechizo  o bien no interactúan
+en absoluto con el sistema de ranuras de hechizos, en
+
+126
+00:02:24,110 --> 00:02:24,120
+en absoluto con el sistema de ranuras de hechizos, en
+ 
+
+127
+00:02:24,120 --> 00:02:26,630
+en absoluto con el sistema de ranuras de hechizos, en
+su lugar, el lanzador debe gastar un
+
+128
+00:02:26,630 --> 00:02:26,640
+su lugar, el lanzador debe gastar un
+ 
+
+129
+00:02:26,640 --> 00:02:29,869
+su lugar, el lanzador debe gastar un
+punto de enfoque para lanzar un hechizo de enfoque cada vez que
+
+130
+00:02:29,869 --> 00:02:29,879
+punto de enfoque para lanzar un hechizo de enfoque cada vez que
+ 
+
+131
+00:02:29,879 --> 00:02:31,309
+punto de enfoque para lanzar un hechizo de enfoque cada vez que
+todos los que pueden lanzar
+
+132
+00:02:31,309 --> 00:02:31,319
+todos los que pueden lanzar
+ 
+
+133
+00:02:31,319 --> 00:02:34,790
+todos los que pueden lanzar
+hechizos de enfoque tienen al menos un punto de enfoque y
+
+134
+00:02:34,790 --> 00:02:34,800
+hechizos de enfoque tienen al menos un punto de enfoque y
+ 
+
+135
+00:02:34,800 --> 00:02:36,750
+hechizos de enfoque tienen al menos un punto de enfoque y
+algunas habilidades aumentan el
+
+136
+00:02:36,750 --> 00:02:36,760
+algunas habilidades aumentan el
+ 
+
+137
+00:02:36,760 --> 00:02:39,309
+algunas habilidades aumentan el
+número máximo de puntos de enfoque del lanzador, pero hay
+
+138
+00:02:39,309 --> 00:02:39,319
+número máximo de puntos de enfoque del lanzador, pero hay
+ 
+
+139
+00:02:39,319 --> 00:02:42,190
+número máximo de puntos de enfoque del lanzador, pero hay
+un límite estricto de tres, no importa cuántas
+
+140
+00:02:42,190 --> 00:02:42,200
+un límite estricto de tres, no importa cuántas
+ 
+
+141
+00:02:42,200 --> 00:02:44,390
+un límite estricto de tres, no importa cuántas
+veces aumente su atracción de puntos de enfoque,
+
+142
+00:02:44,390 --> 00:02:44,400
+veces aumente su atracción de puntos de enfoque,
+ 
+
+143
+00:02:44,400 --> 00:02:46,949
+veces aumente su atracción de puntos de enfoque,
+nunca puede tener un
+
+144
+00:02:46,949 --> 00:02:46,959
+nunca puede tener un
+ 
+
+145
+00:02:46,959 --> 00:02:50,070
+nunca puede tener un
+grupo máximo de puntos de enfoque mayor que tres.
+
+146
+00:02:50,070 --> 00:02:50,080
+grupo máximo de puntos de enfoque mayor que tres.
+ 
+
+147
+00:02:50,080 --> 00:02:52,670
+grupo máximo de puntos de enfoque mayor que tres.
+También tenga en cuenta que solo tiene un
+
+148
+00:02:52,670 --> 00:02:52,680
+También tenga en cuenta que solo tiene un
+ 
+
+149
+00:02:52,680 --> 00:02:55,710
+También tenga en cuenta que solo tiene un
+grupo de enfoque, lo que significa que si se hace multiclase y
+
+150
+00:02:55,710 --> 00:02:55,720
+grupo de enfoque, lo que significa que si se hace multiclase y
+ 
+
+151
+00:02:55,720 --> 00:02:57,670
+grupo de enfoque, lo que significa que si se hace multiclase y
+recibe un punto de enfoque de múltiples
+
+152
+00:02:57,670 --> 00:02:57,680
+recibe un punto de enfoque de múltiples
+ 
+
+153
+00:02:57,680 --> 00:03:00,509
+recibe un punto de enfoque de múltiples
+fuentes, todos se combinan en un
+
+154
+00:03:00,509 --> 00:03:00,519
+fuentes, todos se combinan en un
+ 
+
+155
+00:03:00,519 --> 00:03:02,830
+fuentes, todos se combinan en un
+grupo de recursos, no tiene que realizar un
+
+156
+00:03:02,830 --> 00:03:02,840
+grupo de recursos, no tiene que realizar un
+ 
+
+157
+00:03:02,840 --> 00:03:04,990
+grupo de recursos, no tiene que realizar un
+seguimiento de que obtuvo dos puntos de enfoque de
+
+158
+00:03:04,990 --> 00:03:05,000
+seguimiento de que obtuvo dos puntos de enfoque de
+ 
+
+159
+00:03:05,000 --> 00:03:07,350
+seguimiento de que obtuvo dos puntos de enfoque de
+su clase de bruja y obtuvo uno más
+
+160
+00:03:07,350 --> 00:03:07,360
+su clase de bruja y obtuvo uno más
+ 
+
+161
+00:03:07,360 --> 00:03:09,630
+su clase de bruja y obtuvo uno más
+al hacer multiclase en un campeón, en su lugar,
+
+162
+00:03:09,630 --> 00:03:09,640
+al hacer multiclase en un campeón, en su lugar,
+ 
+
+163
+00:03:09,640 --> 00:03:12,830
+al hacer multiclase en un campeón, en su lugar,
+tiene una sola encuesta de tres
+
+164
+00:03:12,830 --> 00:03:12,840
+tiene una sola encuesta de tres
+ 
+
+165
+00:03:12,840 --> 00:03:15,309
+tiene una sola encuesta de tres
+puntos de enfoque que se pueden gastar como desee
+
+166
+00:03:15,309 --> 00:03:15,319
+puntos de enfoque que se pueden gastar como desee
+ 
+
+167
+00:03:15,319 --> 00:03:17,430
+puntos de enfoque que se pueden gastar como desee
+en los hechizos de enfoque que
+
+168
+00:03:17,430 --> 00:03:17,440
+en los hechizos de enfoque que
+ 
+
+169
+00:03:17,440 --> 00:03:20,190
+en los hechizos de enfoque que
+tiene disponibles de todas las diferentes
+
+170
+00:03:20,190 --> 00:03:20,200
+tiene disponibles de todas las diferentes
+ 
+
+171
+00:03:20,200 --> 00:03:22,430
+tiene disponibles de todas las diferentes
+fuentes, estos puntos se
+
+172
+00:03:22,430 --> 00:03:22,440
+fuentes, estos puntos se
+ 
+
+173
+00:03:22,440 --> 00:03:24,430
+fuentes, estos puntos se
+reponen por completo como parte de sus
+
+174
+00:03:24,430 --> 00:03:24,440
+reponen por completo como parte de sus
+ 
+
+175
+00:03:24,440 --> 00:03:27,270
+reponen por completo como parte de sus
+preparativos diarios, al igual que las ranuras de hechizos.
+
+176
+00:03:27,270 --> 00:03:27,280
+preparativos diarios, al igual que las ranuras de hechizos.
+ 
+
+177
+00:03:27,280 --> 00:03:29,789
+preparativos diarios, al igual que las ranuras de hechizos.
+Pero un beneficio importante de los hechizos de enfoque es que
+
+178
+00:03:29,789 --> 00:03:29,799
+Pero un beneficio importante de los hechizos de enfoque es que
+ 
+
+179
+00:03:29,799 --> 00:03:31,789
+Pero un beneficio importante de los hechizos de enfoque es que
+no tiene que esperar hasta la
+
+180
+00:03:31,789 --> 00:03:31,799
+no tiene que esperar hasta la
+ 
+
+181
+00:03:31,799 --> 00:03:34,710
+no tiene que esperar hasta la
+mañana siguiente para recuperarlos. La
+
+182
+00:03:34,710 --> 00:03:34,720
+mañana siguiente para recuperarlos. La
+ 
+
+183
+00:03:34,720 --> 00:03:37,110
+mañana siguiente para recuperarlos. La
+actividad de exploración de reenfoque se puede usar para
+
+184
+00:03:37,110 --> 00:03:37,120
+actividad de exploración de reenfoque se puede usar para
+ 
+
+185
+00:03:37,120 --> 00:03:40,350
+actividad de exploración de reenfoque se puede usar para
+recuperar un punto de enfoque gastado, esto lleva  10
+
+186
+00:03:40,350 --> 00:03:40,360
+recuperar un punto de enfoque gastado, esto lleva  10
+ 
+
+187
+00:03:40,360 --> 00:03:42,429
+recuperar un punto de enfoque gastado, esto lleva  10
+minutos después de los cuales recuperas un
+
+188
+00:03:42,429 --> 00:03:42,439
+minutos después de los cuales recuperas un
+ 
+
+189
+00:03:42,439 --> 00:03:44,910
+minutos después de los cuales recuperas un
+punto de enfoque, pero hay un
+
+190
+00:03:44,910 --> 00:03:44,920
+punto de enfoque, pero hay un
+ 
+
+191
+00:03:44,920 --> 00:03:47,830
+punto de enfoque, pero hay un
+requisito interesante que se enumera aquí, dice que tienes
+
+192
+00:03:47,830 --> 00:03:47,840
+requisito interesante que se enumera aquí, dice que tienes
+ 
+
+193
+00:03:47,840 --> 00:03:50,589
+requisito interesante que se enumera aquí, dice que tienes
+un grupo de enfoque y has gastado al menos
+
+194
+00:03:50,589 --> 00:03:50,599
+un grupo de enfoque y has gastado al menos
+ 
+
+195
+00:03:50,599 --> 00:03:53,429
+un grupo de enfoque y has gastado al menos
+un punto de enfoque desde la última vez que recuperaste
+
+196
+00:03:53,429 --> 00:03:53,439
+un punto de enfoque desde la última vez que recuperaste
+ 
+
+197
+00:03:53,439 --> 00:03:56,630
+un punto de enfoque desde la última vez que recuperaste
+cualquier punto de enfoque, la clave está en la
+
+198
+00:03:56,630 --> 00:03:56,640
+cualquier punto de enfoque, la clave está en la
+ 
+
+199
+00:03:56,640 --> 00:03:59,270
+cualquier punto de enfoque, la clave está en la
+última parte que dice desde la última vez que
+
+200
+00:03:59,270 --> 00:03:59,280
+última parte que dice desde la última vez que
+ 
+
+201
+00:03:59,280 --> 00:04:02,789
+última parte que dice desde la última vez que
+recuperaste cualquier punto de enfoque, por lo que tienes que
+
+202
+00:04:02,789 --> 00:04:02,799
+recuperaste cualquier punto de enfoque, por lo que tienes que
+ 
+
+203
+00:04:02,799 --> 00:04:05,270
+recuperaste cualquier punto de enfoque, por lo que tienes que
+gastar puntos de enfoque antes de poder volver a
+
+204
+00:04:05,270 --> 00:04:05,280
+gastar puntos de enfoque antes de poder volver a
+ 
+
+205
+00:04:05,280 --> 00:04:08,030
+gastar puntos de enfoque antes de poder volver a
+enfocar y recuperar uno de ellos, lo que
+
+206
+00:04:08,030 --> 00:04:08,040
+enfocar y recuperar uno de ellos, lo que
+ 
+
+207
+00:04:08,040 --> 00:04:10,350
+enfocar y recuperar uno de ellos, lo que
+esto significa es que si tienes un grupo de enfoque
+
+208
+00:04:10,350 --> 00:04:10,360
+esto significa es que si tienes un grupo de enfoque
+ 
+
+209
+00:04:10,360 --> 00:04:13,149
+esto significa es que si tienes un grupo de enfoque
+de tres puntos y usas los tres
+
+210
+00:04:13,149 --> 00:04:13,159
+de tres puntos y usas los tres
+ 
+
+211
+00:04:13,159 --> 00:04:16,349
+de tres puntos y usas los tres
+en un encuentro, no puedes volver a enfocar
+
+212
+00:04:16,349 --> 00:04:16,359
+en un encuentro, no puedes volver a enfocar
+ 
+
+213
+00:04:16,359 --> 00:04:18,749
+en un encuentro, no puedes volver a enfocar
+tres veces y recuperar los tres,
+
+214
+00:04:18,749 --> 00:04:18,759
+tres veces y recuperar los tres,
+ 
+
+215
+00:04:18,759 --> 00:04:21,469
+tres veces y recuperar los tres,
+puedes volver a enfocar una vez y recuperar un
+
+216
+00:04:21,469 --> 00:04:21,479
+puedes volver a enfocar una vez y recuperar un
+ 
+
+217
+00:04:21,479 --> 00:04:23,950
+puedes volver a enfocar una vez y recuperar un
+punto, pero tienes que girar ese
+
+218
+00:04:23,950 --> 00:04:23,960
+punto, pero tienes que girar ese
+ 
+
+219
+00:04:23,960 --> 00:04:27,270
+punto, pero tienes que girar ese
+punto antes de poder volver a enfocar cada
+
+220
+00:04:27,270 --> 00:04:27,280
+punto antes de poder volver a enfocar cada
+ 
+
+221
+00:04:27,280 --> 00:04:29,150
+punto antes de poder volver a enfocar cada
+vez que gastas más de un punto de enfoque
+
+222
+00:04:29,150 --> 00:04:29,160
+vez que gastas más de un punto de enfoque
+ 
+
+223
+00:04:29,160 --> 00:04:32,070
+vez que gastas más de un punto de enfoque
+en un encuentro o entre reenfoques,
+
+224
+00:04:32,070 --> 00:04:32,080
+en un encuentro o entre reenfoques,
+ 
+
+225
+00:04:32,080 --> 00:04:34,390
+en un encuentro o entre reenfoques,
+reduce el número máximo de puntos que
+
+226
+00:04:34,390 --> 00:04:34,400
+reduce el número máximo de puntos que
+ 
+
+227
+00:04:34,400 --> 00:04:35,990
+reduce el número máximo de puntos que
+puedes tener disponibles para el resto del
+
+228
+00:04:35,990 --> 00:04:36,000
+puedes tener disponibles para el resto del
+ 
+
+229
+00:04:36,000 --> 00:04:39,390
+puedes tener disponibles para el resto del
+día de aventuras. También vale la pena señalar
+
+230
+00:04:39,390 --> 00:04:39,400
+día de aventuras. También vale la pena señalar
+ 
+
+231
+00:04:39,400 --> 00:04:41,070
+día de aventuras. También vale la pena señalar
+que cuando un miembro de una
+
+232
+00:04:41,070 --> 00:04:41,080
+que cuando un miembro de una
+ 
+
+233
+00:04:41,080 --> 00:04:43,550
+que cuando un miembro de una
+clase que no lanza conjuros obtiene conjuros de enfoque,
+
+234
+00:04:43,550 --> 00:04:43,560
+clase que no lanza conjuros obtiene conjuros de enfoque,
+ 
+
+235
+00:04:43,560 --> 00:04:45,469
+clase que no lanza conjuros obtiene conjuros de enfoque,
+por ejemplo, los monjes con sus pies de golpe clave
+
+236
+00:04:45,469 --> 00:04:45,479
+por ejemplo, los monjes con sus pies de golpe clave
+ 
+
+237
+00:04:45,479 --> 00:04:48,670
+por ejemplo, los monjes con sus pies de golpe clave
+obtienen la capacidad de usar el
+
+238
+00:04:48,670 --> 00:04:48,680
+obtienen la capacidad de usar el
+ 
+
+239
+00:04:48,680 --> 00:04:51,110
+obtienen la capacidad de usar el
+lanzamiento de la actividad de conjuros para que puedan
+
+240
+00:04:51,110 --> 00:04:51,120
+lanzamiento de la actividad de conjuros para que puedan
+ 
+
+241
+00:04:51,120 --> 00:04:53,950
+lanzamiento de la actividad de conjuros para que puedan
+usar esos conjuros de enfoque, pero la capacidad
+
+242
+00:04:53,950 --> 00:04:53,960
+usar esos conjuros de enfoque, pero la capacidad
+ 
+
+243
+00:04:53,960 --> 00:04:56,670
+usar esos conjuros de enfoque, pero la capacidad
+de lanzar estos conjuros no los convierte en
+
+244
+00:04:56,670 --> 00:04:56,680
+de lanzar estos conjuros no los convierte en
+ 
+
+245
+00:04:56,680 --> 00:05:00,029
+de lanzar estos conjuros no los convierte en
+un Lanzador de conjuros de citas, en otras palabras  Si
+
+246
+00:05:00,029 --> 00:05:00,039
+un Lanzador de conjuros de citas, en otras palabras  Si
+ 
+
+247
+00:05:00,039 --> 00:05:02,150
+un Lanzador de conjuros de citas, en otras palabras  Si
+eres este Monje y usas
+
+248
+00:05:02,150 --> 00:05:02,160
+eres este Monje y usas
+ 
+
+249
+00:05:02,160 --> 00:05:05,189
+eres este Monje y usas
+hechizos de Enfoque, no calificas para ninguna Dote
+
+250
+00:05:05,189 --> 00:05:05,199
+hechizos de Enfoque, no calificas para ninguna Dote
+ 
+
+251
+00:05:05,199 --> 00:05:07,710
+hechizos de Enfoque, no calificas para ninguna Dote
+u otras reglas que requieran que seas
+
+252
+00:05:07,710 --> 00:05:07,720
+u otras reglas que requieran que seas
+ 
+
+253
+00:05:07,720 --> 00:05:10,990
+u otras reglas que requieran que seas
+un Lanzador de hechizos de cita. Los
+
+254
+00:05:10,990 --> 00:05:11,000
+un Lanzador de hechizos de cita. Los
+ 
+
+255
+00:05:11,000 --> 00:05:13,909
+un Lanzador de hechizos de cita. Los
+hechizos innatos son otro
+
+256
+00:05:13,909 --> 00:05:13,919
+hechizos innatos son otro
+ 
+
+257
+00:05:13,919 --> 00:05:15,790
+hechizos innatos son otro
+tipo especial de hechizo que deberíamos discutir.
+
+258
+00:05:15,790 --> 00:05:15,800
+tipo especial de hechizo que deberíamos discutir.
+ 
+
+259
+00:05:15,800 --> 00:05:17,550
+tipo especial de hechizo que deberíamos discutir.
+Estos hechizos a menudo se consideran
+
+260
+00:05:17,550 --> 00:05:17,560
+Estos hechizos a menudo se consideran
+ 
+
+261
+00:05:17,560 --> 00:05:20,070
+Estos hechizos a menudo se consideran
+talento natural y generalmente se otorgan
+
+262
+00:05:20,070 --> 00:05:20,080
+talento natural y generalmente se otorgan
+ 
+
+263
+00:05:20,080 --> 00:05:22,790
+talento natural y generalmente se otorgan
+por la ascendencia de un personaje o por un objeto
+
+264
+00:05:22,790 --> 00:05:22,800
+por la ascendencia de un personaje o por un objeto
+ 
+
+265
+00:05:22,800 --> 00:05:24,629
+por la ascendencia de un personaje o por un objeto
+y permiten a un personaje lanzar hechizos
+
+266
+00:05:24,629 --> 00:05:24,639
+y permiten a un personaje lanzar hechizos
+ 
+
+267
+00:05:24,639 --> 00:05:26,350
+y permiten a un personaje lanzar hechizos
+sin pertenecer a una clase de lanzamiento de hechizos.
+
+268
+00:05:26,350 --> 00:05:26,360
+sin pertenecer a una clase de lanzamiento de hechizos.
+ 
+
+269
+00:05:26,360 --> 00:05:29,350
+sin pertenecer a una clase de lanzamiento de hechizos.
+Por ejemplo, un elfo que elige la
+
+270
+00:05:29,350 --> 00:05:29,360
+Por ejemplo, un elfo que elige la
+ 
+
+271
+00:05:29,360 --> 00:05:32,029
+Por ejemplo, un elfo que elige la
+dote de magia de otro mundo puede lanzar cualquier
+
+272
+00:05:32,029 --> 00:05:32,039
+dote de magia de otro mundo puede lanzar cualquier
+ 
+
+273
+00:05:32,039 --> 00:05:35,270
+dote de magia de otro mundo puede lanzar cualquier
+truco Arcano como un hechizo innato.
+
+274
+00:05:35,270 --> 00:05:35,280
+truco Arcano como un hechizo innato.
+ 
+
+275
+00:05:35,280 --> 00:05:37,469
+truco Arcano como un hechizo innato.
+Esto representa un talento natural para la
+
+276
+00:05:37,469 --> 00:05:37,479
+Esto representa un talento natural para la
+ 
+
+277
+00:05:37,479 --> 00:05:39,629
+Esto representa un talento natural para la
+magia, no tiene nada que ver con su
+
+278
+00:05:39,629 --> 00:05:39,639
+magia, no tiene nada que ver con su
+ 
+
+279
+00:05:39,639 --> 00:05:41,950
+magia, no tiene nada que ver con su
+clase. Pueden ser un guerrero y aún así
+
+280
+00:05:41,950 --> 00:05:41,960
+clase. Pueden ser un guerrero y aún así
+ 
+
+281
+00:05:41,960 --> 00:05:44,309
+clase. Pueden ser un guerrero y aún así
+lanzar un solo truco gracias a esta
+
+282
+00:05:44,309 --> 00:05:44,319
+lanzar un solo truco gracias a esta
+ 
+
+283
+00:05:44,319 --> 00:05:47,230
+lanzar un solo truco gracias a esta
+dote cuando obtienes acceso a un
+
+284
+00:05:47,230 --> 00:05:47,240
+dote cuando obtienes acceso a un
+ 
+
+285
+00:05:47,240 --> 00:05:48,990
+dote cuando obtienes acceso a un
+hechizo innato. Cualquier habilidad que otorgue ese
+
+286
+00:05:48,990 --> 00:05:49,000
+hechizo innato. Cualquier habilidad que otorgue ese
+ 
+
+287
+00:05:49,000 --> 00:05:50,909
+hechizo innato. Cualquier habilidad que otorgue ese
+acceso te dirá con qué frecuencia puedes
+
+288
+00:05:50,909 --> 00:05:50,919
+acceso te dirá con qué frecuencia puedes
+ 
+
+289
+00:05:50,919 --> 00:05:53,150
+acceso te dirá con qué frecuencia puedes
+lanzarlo. Por ejemplo, sin magia de otro mundo,
+
+290
+00:05:53,150 --> 00:05:53,160
+lanzarlo. Por ejemplo, sin magia de otro mundo,
+ 
+
+291
+00:05:53,160 --> 00:05:55,430
+lanzarlo. Por ejemplo, sin magia de otro mundo,
+lanzas tu hechizo innato a
+
+292
+00:05:55,430 --> 00:05:55,440
+lanzas tu hechizo innato a
+ 
+
+293
+00:05:55,440 --> 00:05:58,390
+lanzas tu hechizo innato a
+voluntad, es decir, tan a menudo como quieras. Pero un
+
+294
+00:05:58,390 --> 00:05:58,400
+voluntad, es decir, tan a menudo como quieras. Pero un
+ 
+
+295
+00:05:58,400 --> 00:06:00,390
+voluntad, es decir, tan a menudo como quieras. Pero un
+enano con los pies de Caminante de muro de piedra
+
+296
+00:06:00,390 --> 00:06:00,400
+enano con los pies de Caminante de muro de piedra
+ 
+
+297
+00:06:00,400 --> 00:06:02,550
+enano con los pies de Caminante de muro de piedra
+solo puede lanzar su hechizo innato Fundirse
+
+298
+00:06:02,550 --> 00:06:02,560
+solo puede lanzar su hechizo innato Fundirse
+ 
+
+299
+00:06:02,560 --> 00:06:05,350
+solo puede lanzar su hechizo innato Fundirse
+en piedra una vez al día y los
+
+300
+00:06:05,350 --> 00:06:05,360
+en piedra una vez al día y los
+ 
+
+301
+00:06:05,360 --> 00:06:07,230
+en piedra una vez al día y los
+trucos innatos se intensifican automáticamente como es
+
+302
+00:06:07,230 --> 00:06:07,240
+trucos innatos se intensifican automáticamente como es
+ 
+
+303
+00:06:07,240 --> 00:06:09,909
+trucos innatos se intensifican automáticamente como es
+normal para los trucos, pero no para otros
+
+304
+00:06:09,909 --> 00:06:09,919
+normal para los trucos, pero no para otros
+ 
+
+305
+00:06:09,919 --> 00:06:12,550
+normal para los trucos, pero no para otros
+hechizos innatos cuando obtienes acceso a  un
+
+306
+00:06:12,550 --> 00:06:12,560
+hechizos innatos cuando obtienes acceso a  un
+ 
+
+307
+00:06:12,560 --> 00:06:15,270
+hechizos innatos cuando obtienes acceso a  un
+hechizo innato puedes lanzarlo incluso si es de un
+
+308
+00:06:15,270 --> 00:06:15,280
+hechizo innato puedes lanzarlo incluso si es de un
+ 
+
+309
+00:06:15,280 --> 00:06:17,029
+hechizo innato puedes lanzarlo incluso si es de un
+nivel más alto del que normalmente
+
+310
+00:06:17,029 --> 00:06:17,039
+nivel más alto del que normalmente
+ 
+
+311
+00:06:17,039 --> 00:06:19,390
+nivel más alto del que normalmente
+podrías lanzar esto es especialmente común
+
+312
+00:06:19,390 --> 00:06:19,400
+podrías lanzar esto es especialmente común
+ 
+
+313
+00:06:19,400 --> 00:06:22,469
+podrías lanzar esto es especialmente común
+con monstruos que pueden lanzar hechizos innatos
+
+314
+00:06:22,469 --> 00:06:22,479
+con monstruos que pueden lanzar hechizos innatos
+ 
+
+315
+00:06:22,479 --> 00:06:24,390
+con monstruos que pueden lanzar hechizos innatos
+también siempre tienes al menos entrenado
+
+316
+00:06:24,390 --> 00:06:24,400
+también siempre tienes al menos entrenado
+ 
+
+317
+00:06:24,400 --> 00:06:25,909
+también siempre tienes al menos entrenado
+Proficiencia en la
+
+318
+00:06:25,909 --> 00:06:25,919
+Proficiencia en la
+ 
+
+319
+00:06:25,919 --> 00:06:28,390
+Proficiencia en la
+tradición de lanzamiento de hechizos de tus hechizos innatos y
+
+320
+00:06:28,390 --> 00:06:28,400
+tradición de lanzamiento de hechizos de tus hechizos innatos y
+ 
+
+321
+00:06:28,400 --> 00:06:30,510
+tradición de lanzamiento de hechizos de tus hechizos innatos y
+usas Carisma como modificador de habilidad
+
+322
+00:06:30,510 --> 00:06:30,520
+usas Carisma como modificador de habilidad
+ 
+
+323
+00:06:30,520 --> 00:06:32,510
+usas Carisma como modificador de habilidad
+al calcular la bonificación de ataque de hechizo
+
+324
+00:06:32,510 --> 00:06:32,520
+al calcular la bonificación de ataque de hechizo
+ 
+
+325
+00:06:32,520 --> 00:06:35,230
+al calcular la bonificación de ataque de hechizo
+y la CD de hechizo para hechizos innatos incluso si
+
+326
+00:06:35,230 --> 00:06:35,240
+y la CD de hechizo para hechizos innatos incluso si
+ 
+
+327
+00:06:35,240 --> 00:06:37,189
+y la CD de hechizo para hechizos innatos incluso si
+usas una habilidad diferente para lanzar
+
+328
+00:06:37,189 --> 00:06:37,199
+usas una habilidad diferente para lanzar
+ 
+
+329
+00:06:37,199 --> 00:06:39,790
+usas una habilidad diferente para lanzar
+hechizos otorgada por tu clase mira mis
+
+330
+00:06:39,790 --> 00:06:39,800
+hechizos otorgada por tu clase mira mis
+ 
+
+331
+00:06:39,800 --> 00:06:42,790
+hechizos otorgada por tu clase mira mis
+videos magia parte seis y ejemplos de magia
+
+332
+00:06:42,790 --> 00:06:42,800
+videos magia parte seis y ejemplos de magia
+ 
+
+333
+00:06:42,800 --> 00:06:44,950
+videos magia parte seis y ejemplos de magia
+calculando ataques de hechizos y DCS para obtener
+
+334
+00:06:44,950 --> 00:06:44,960
+calculando ataques de hechizos y DCS para obtener
+ 
+
+335
+00:06:44,960 --> 00:06:46,790
+calculando ataques de hechizos y DCS para obtener
+más información y una
+
+336
+00:06:46,790 --> 00:06:46,800
+más información y una
+ 
+
+337
+00:06:46,800 --> 00:06:49,309
+más información y una
+ilustración completa de cómo funciona todo eso
+
+338
+00:06:49,309 --> 00:06:49,319
+ilustración completa de cómo funciona todo eso
+ 
+
+339
+00:06:49,319 --> 00:06:50,909
+ilustración completa de cómo funciona todo eso
+Incluiré enlaces a ambos
+
+340
+00:06:50,909 --> 00:06:50,919
+Incluiré enlaces a ambos
+ 
+
+341
+00:06:50,919 --> 00:06:53,629
+Incluiré enlaces a ambos
+videos en la
+
+342
+00:06:53,629 --> 00:06:53,639
+videos en la
+ 
+
+343
+00:06:53,639 --> 00:06:55,950
+videos en la
+descripción antes de cerrar Me gustaría
+
+344
+00:06:55,950 --> 00:06:55,960
+descripción antes de cerrar Me gustaría
+ 
+
+345
+00:06:55,960 --> 00:06:57,550
+descripción antes de cerrar Me gustaría
+tomarme un momento para agradecer a todos nuestros
+
+346
+00:06:57,550 --> 00:06:57,560
+tomarme un momento para agradecer a todos nuestros
+ 
+
+347
+00:06:57,560 --> 00:06:59,909
+tomarme un momento para agradecer a todos nuestros
+patrocinadores Estos videos no serían
+
+348
+00:06:59,909 --> 00:06:59,919
+patrocinadores Estos videos no serían
+ 
+
+349
+00:06:59,919 --> 00:07:01,550
+patrocinadores Estos videos no serían
+posibles sin su continua
+
+350
+00:07:01,550 --> 00:07:01,560
+posibles sin su continua
+ 
+
+351
+00:07:01,560 --> 00:07:04,550
+posibles sin su continua
+generosidad y apoyo Los miembros de la
+
+352
+00:07:04,550 --> 00:07:04,560
+generosidad y apoyo Los miembros de la
+ 
+
+353
+00:07:04,560 --> 00:07:06,589
+generosidad y apoyo Los miembros de la
+comunidad de patreon de fundamentos para jugadores
+
+354
+00:07:06,589 --> 00:07:06,599
+comunidad de patreon de fundamentos para jugadores
+ 
+
+355
+00:07:06,599 --> 00:07:08,749
+comunidad de patreon de fundamentos para jugadores
+reciben beneficios especiales como poder
+
+356
+00:07:08,749 --> 00:07:08,759
+reciben beneficios especiales como poder
+ 
+
+357
+00:07:08,759 --> 00:07:10,670
+reciben beneficios especiales como poder
+votar sobre los temas que cubrimos en el
+
+358
+00:07:10,670 --> 00:07:10,680
+votar sobre los temas que cubrimos en el
+ 
+
+359
+00:07:10,680 --> 00:07:12,749
+votar sobre los temas que cubrimos en el
+futuro y también pueden ver estos
+
+360
+00:07:12,749 --> 00:07:12,759
+futuro y también pueden ver estos
+ 
+
+361
+00:07:12,759 --> 00:07:15,670
+futuro y también pueden ver estos
+videos una semana y agregar gratis antes que
+
+362
+00:07:15,670 --> 00:07:15,680
+videos una semana y agregar gratis antes que
+ 
+
+363
+00:07:15,680 --> 00:07:18,550
+videos una semana y agregar gratis antes que
+todos los demás Visite el enlace que se muestra a la
+
+364
+00:07:18,550 --> 00:07:18,560
+todos los demás Visite el enlace que se muestra a la
+ 
+
+365
+00:07:18,560 --> 00:07:20,189
+todos los demás Visite el enlace que se muestra a la
+izquierda de la pantalla y en la
+
+366
+00:07:20,189 --> 00:07:20,199
+izquierda de la pantalla y en la
+ 
+
+367
+00:07:20,199 --> 00:07:21,710
+izquierda de la pantalla y en la
+descripción si desea obtener más información
+
+368
+00:07:21,710 --> 00:07:21,720
+descripción si desea obtener más información
+ 
+
+369
+00:07:21,720 --> 00:07:24,270
+descripción si desea obtener más información
+sobre cómo convertirse en patrocinador Si lo
+
+370
+00:07:24,270 --> 00:07:24,280
+sobre cómo convertirse en patrocinador Si lo
+ 
+
+371
+00:07:24,280 --> 00:07:25,790
+sobre cómo convertirse en patrocinador Si lo
+desea  Para apoyar este canal y ayudarlo a
+
+372
+00:07:25,790 --> 00:07:25,800
+desea  Para apoyar este canal y ayudarlo a
+ 
+
+373
+00:07:25,800 --> 00:07:28,430
+desea  Para apoyar este canal y ayudarlo a
+crecer, la forma más fácil de hacerlo es
+
+374
+00:07:28,430 --> 00:07:28,440
+crecer, la forma más fácil de hacerlo es
+ 
+
+375
+00:07:28,440 --> 00:07:30,309
+crecer, la forma más fácil de hacerlo es
+suscribiéndose y haciendo clic en el
+
+376
+00:07:30,309 --> 00:07:30,319
+suscribiéndose y haciendo clic en el
+ 
+
+377
+00:07:30,319 --> 00:07:33,070
+suscribiéndose y haciendo clic en el
+ícono de la campana para que reciba una notificación cuando se publiquen nuevos videos
+
+378
+00:07:33,070 --> 00:07:33,080
+ícono de la campana para que reciba una notificación cuando se publiquen nuevos videos
+ 
+
+379
+00:07:33,080 --> 00:07:35,189
+ícono de la campana para que reciba una notificación cuando se publiquen nuevos videos
+y siempre puede comunicarse con nosotros a
+
+380
+00:07:35,189 --> 00:07:35,199
+y siempre puede comunicarse con nosotros a
+ 
+
+381
+00:07:35,199 --> 00:07:36,749
+y siempre puede comunicarse con nosotros a
+través de nuestras páginas de Twitter y Facebook
+
+382
+00:07:36,749 --> 00:07:36,759
+través de nuestras páginas de Twitter y Facebook
+ 
+
+383
+00:07:36,759 --> 00:07:39,510
+través de nuestras páginas de Twitter y Facebook
+también. Gracias por mirar, cuídese y lo
+
+384
+00:07:39,510 --> 00:07:39,520
+también. Gracias por mirar, cuídese y lo
+ 
+
+385
+00:07:39,520 --> 00:07:41,390
+también. Gracias por mirar, cuídese y lo
+veremos pronto con más conceptos básicos de
+
+386
+00:07:41,390 --> 00:07:41,400
+veremos pronto con más conceptos básicos de
+ 
+
+387
+00:07:41,400 --> 00:07:44,400
+veremos pronto con más conceptos básicos de
+Pathfinder.
+

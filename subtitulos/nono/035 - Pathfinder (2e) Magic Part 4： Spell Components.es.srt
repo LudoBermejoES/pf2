@@ -1,0 +1,3011 @@
+1
+00:00:01,120 --> 00:00:02,950
+
+Hola y bienvenidos a Basics for Gamers
+
+2
+00:00:02,950 --> 00:00:02,960
+Hola y bienvenidos a Basics for Gamers
+ 
+
+3
+00:00:02,960 --> 00:00:03,590
+Hola y bienvenidos a Basics for Gamers
+presenta
+
+4
+00:00:03,590 --> 00:00:03,600
+presenta
+ 
+
+5
+00:00:03,600 --> 00:00:05,910
+presenta
+Magic and Pathfinder parte 4 Componentes de hechizos Los
+
+6
+00:00:05,910 --> 00:00:05,920
+Magic and Pathfinder parte 4 Componentes de hechizos Los
+ 
+
+7
+00:00:05,920 --> 00:00:08,790
+Magic and Pathfinder parte 4 Componentes de hechizos Los
+
+8
+00:00:08,790 --> 00:00:08,800
+
+ 
+
+9
+00:00:08,800 --> 00:00:10,549
+
+componentes de hechizos son como el
+
+10
+00:00:10,549 --> 00:00:10,559
+componentes de hechizos son como el
+ 
+
+11
+00:00:10,559 --> 00:00:12,390
+componentes de hechizos son como el
+combustible que necesita un hechizo para funcionar ¿
+
+12
+00:00:12,390 --> 00:00:12,400
+combustible que necesita un hechizo para funcionar ¿
+ 
+
+13
+00:00:12,400 --> 00:00:15,110
+combustible que necesita un hechizo para funcionar ¿
+Qué necesita hacer exactamente el lanzador
+
+14
+00:00:15,110 --> 00:00:15,120
+Qué necesita hacer exactamente el lanzador
+ 
+
+15
+00:00:15,120 --> 00:00:17,109
+Qué necesita hacer exactamente el lanzador
+para lanzar el hechizo?
+
+16
+00:00:17,109 --> 00:00:17,119
+para lanzar el hechizo?
+ 
+
+17
+00:00:17,119 --> 00:00:19,750
+para lanzar el hechizo?
+Hay cuatro tipos de componentes de hechizos
+
+18
+00:00:19,750 --> 00:00:19,760
+Hay cuatro tipos de componentes de hechizos
+ 
+
+19
+00:00:19,760 --> 00:00:20,550
+Hay cuatro tipos de componentes de hechizos
+Material
+
+20
+00:00:20,550 --> 00:00:20,560
+Material
+ 
+
+21
+00:00:20,560 --> 00:00:24,070
+Material
+Somático Verbal Enfocado Los
+
+22
+00:00:24,070 --> 00:00:24,080
+Somático Verbal Enfocado Los
+ 
+
+23
+00:00:24,080 --> 00:00:25,830
+Somático Verbal Enfocado Los
+componentes materiales son pequeñas cantidades de una
+
+24
+00:00:25,830 --> 00:00:25,840
+componentes materiales son pequeñas cantidades de una
+ 
+
+25
+00:00:25,840 --> 00:00:27,830
+componentes materiales son pequeñas cantidades de una
+sustancia física que se consumen y
+
+26
+00:00:27,830 --> 00:00:27,840
+sustancia física que se consumen y
+ 
+
+27
+00:00:27,840 --> 00:00:29,830
+sustancia física que se consumen y
+pierden al lanzar un hechizo
+
+28
+00:00:29,830 --> 00:00:29,840
+pierden al lanzar un hechizo
+ 
+
+29
+00:00:29,840 --> 00:00:31,589
+pierden al lanzar un hechizo
+El lanzador debe tener mano libre para
+
+30
+00:00:31,589 --> 00:00:31,599
+El lanzador debe tener mano libre para
+ 
+
+31
+00:00:31,599 --> 00:00:33,110
+El lanzador debe tener mano libre para
+manipular el material,
+
+32
+00:00:33,110 --> 00:00:33,120
+manipular el material,
+ 
+
+33
+00:00:33,120 --> 00:00:35,750
+manipular el material,
+pero hacerlo está incluido en el costo de acción del hechizo
+
+34
+00:00:35,750 --> 00:00:36,709
+pero hacerlo está incluido en el costo de acción del hechizo
+ 
+
+35
+00:00:36,709 --> 00:00:36,719
+
+ 
+
+36
+00:00:36,719 --> 00:00:39,430
+
+y no requiere
+
+37
+00:00:39,430 --> 00:00:39,440
+y no requiere
+ 
+
+38
+00:00:39,440 --> 00:00:41,030
+y no requiere
+gastar una acción extra adicional.
+
+39
+00:00:41,030 --> 00:00:41,040
+gastar una acción extra adicional.
+ 
+
+40
+00:00:41,040 --> 00:00:43,110
+gastar una acción extra adicional.
+Además, en la segunda edición, los
+
+41
+00:00:43,110 --> 00:00:43,120
+Además, en la segunda edición, los
+ 
+
+42
+00:00:43,120 --> 00:00:44,069
+Además, en la segunda edición, los
+materiales específicos que necesitas
+
+43
+00:00:44,069 --> 00:00:44,079
+materiales específicos que necesitas
+ 
+
+44
+00:00:44,079 --> 00:00:46,069
+materiales específicos que necesitas
+generalmente no se indican en la descripción del hechizo
+
+45
+00:00:46,069 --> 00:00:46,079
+generalmente no se indican en la descripción del hechizo
+ 
+
+46
+00:00:46,079 --> 00:00:47,110
+generalmente no se indican en la descripción del hechizo
+y
+
+47
+00:00:47,110 --> 00:00:47,120
+y
+ 
+
+48
+00:00:47,120 --> 00:00:49,110
+y
+se dejan para que cada jugador los determine por
+
+49
+00:00:49,110 --> 00:00:49,120
+se dejan para que cada jugador los determine por
+ 
+
+50
+00:00:49,120 --> 00:00:51,189
+se dejan para que cada jugador los determine por
+sí mismo, lo que da mucho espacio para un
+
+51
+00:00:51,189 --> 00:00:51,199
+sí mismo, lo que da mucho espacio para un
+ 
+
+52
+00:00:51,199 --> 00:00:53,830
+sí mismo, lo que da mucho espacio para un
+juego de roles divertido y la individualización.
+
+53
+00:00:53,830 --> 00:00:53,840
+juego de roles divertido y la individualización.
+ 
+
+54
+00:00:53,840 --> 00:00:56,389
+juego de roles divertido y la individualización.
+Por ejemplo, algunos animales requieren un
+
+55
+00:00:56,389 --> 00:00:56,399
+Por ejemplo, algunos animales requieren un
+ 
+
+56
+00:00:56,399 --> 00:00:58,229
+Por ejemplo, algunos animales requieren un
+componente material, pero no se
+
+57
+00:00:58,229 --> 00:00:58,239
+componente material, pero no se
+ 
+
+58
+00:00:58,239 --> 00:01:00,869
+componente material, pero no se
+indica cuál es, así que esto depende del
+
+59
+00:01:00,869 --> 00:01:00,879
+indica cuál es, así que esto depende del
+ 
+
+60
+00:01:00,879 --> 00:01:02,389
+indica cuál es, así que esto depende del
+jugador.
+
+61
+00:01:02,389 --> 00:01:02,399
+jugador.
+ 
+
+62
+00:01:02,399 --> 00:01:04,710
+jugador.
+Tal vez tejen pequeñas figuras de animales con
+
+63
+00:01:04,710 --> 00:01:04,720
+Tal vez tejen pequeñas figuras de animales con
+ 
+
+64
+00:01:04,720 --> 00:01:06,390
+Tal vez tejen pequeñas figuras de animales con
+hierba y cuerda como parte de sus
+
+65
+00:01:06,390 --> 00:01:06,400
+hierba y cuerda como parte de sus
+ 
+
+66
+00:01:06,400 --> 00:01:07,830
+hierba y cuerda como parte de sus
+preparativos diarios
+
+67
+00:01:07,830 --> 00:01:07,840
+preparativos diarios
+ 
+
+68
+00:01:07,840 --> 00:01:09,910
+preparativos diarios
+y cuando llega el momento de lanzar, sacan
+
+69
+00:01:09,910 --> 00:01:09,920
+y cuando llega el momento de lanzar, sacan
+ 
+
+70
+00:01:09,920 --> 00:01:11,990
+y cuando llega el momento de lanzar, sacan
+un pequeño zorro de hierba de una bolsa, se
+
+71
+00:01:11,990 --> 00:01:12,000
+un pequeño zorro de hierba de una bolsa, se
+ 
+
+72
+00:01:12,000 --> 00:01:13,750
+un pequeño zorro de hierba de una bolsa, se
+consume en una explosión de llama verde mágica
+
+73
+00:01:13,750 --> 00:01:13,760
+consume en una explosión de llama verde mágica
+ 
+
+74
+00:01:13,760 --> 00:01:16,310
+consume en una explosión de llama verde mágica
+como parte del proceso de invocación
+
+75
+00:01:16,310 --> 00:01:16,320
+como parte del proceso de invocación
+ 
+
+76
+00:01:16,320 --> 00:01:18,870
+como parte del proceso de invocación
+si el hechizo enumera  un componente material
+
+77
+00:01:18,870 --> 00:01:18,880
+si el hechizo enumera  un componente material
+ 
+
+78
+00:01:18,880 --> 00:01:19,670
+si el hechizo enumera  un componente material
+pero sin
+
+79
+00:01:19,670 --> 00:01:19,680
+pero sin
+ 
+
+80
+00:01:19,680 --> 00:01:21,990
+pero sin
+valor ni detalles específicos al respecto, entonces se
+
+81
+00:01:21,990 --> 00:01:22,000
+valor ni detalles específicos al respecto, entonces se
+ 
+
+82
+00:01:22,000 --> 00:01:23,830
+valor ni detalles específicos al respecto, entonces se
+asume que el componente material
+
+83
+00:01:23,830 --> 00:01:23,840
+asume que el componente material
+ 
+
+84
+00:01:23,840 --> 00:01:26,550
+asume que el componente material
+es algo económico e incluido en las
+
+85
+00:01:26,550 --> 00:01:26,560
+es algo económico e incluido en las
+ 
+
+86
+00:01:26,560 --> 00:01:28,149
+es algo económico e incluido en las
+bolsas de componentes materiales
+
+87
+00:01:28,149 --> 00:01:28,159
+bolsas de componentes materiales
+ 
+
+88
+00:01:28,159 --> 00:01:29,429
+bolsas de componentes materiales
+que se pueden comprar en la mayoría de los
+
+89
+00:01:29,429 --> 00:01:29,439
+que se pueden comprar en la mayoría de los
+ 
+
+90
+00:01:29,439 --> 00:01:31,910
+que se pueden comprar en la mayoría de los
+asentamientos por cinco piezas de plata.
+
+91
+00:01:31,910 --> 00:01:31,920
+asentamientos por cinco piezas de plata.
+ 
+
+92
+00:01:31,920 --> 00:01:33,830
+asentamientos por cinco piezas de plata.
+En la mayoría de los casos, si el lanzador tiene una
+
+93
+00:01:33,830 --> 00:01:33,840
+En la mayoría de los casos, si el lanzador tiene una
+ 
+
+94
+00:01:33,840 --> 00:01:35,350
+En la mayoría de los casos, si el lanzador tiene una
+bolsa de componentes materiales,
+
+95
+00:01:35,350 --> 00:01:35,360
+bolsa de componentes materiales,
+ 
+
+96
+00:01:35,360 --> 00:01:37,030
+bolsa de componentes materiales,
+entonces debería poder lanzar la mayoría de los
+
+97
+00:01:37,030 --> 00:01:37,040
+entonces debería poder lanzar la mayoría de los
+ 
+
+98
+00:01:37,040 --> 00:01:39,830
+entonces debería poder lanzar la mayoría de los
+hechizos que requieren un componente material,
+
+99
+00:01:39,830 --> 00:01:39,840
+hechizos que requieren un componente material,
+ 
+
+100
+00:01:39,840 --> 00:01:41,830
+hechizos que requieren un componente material,
+pero algunos hechizos como raise
+
+101
+00:01:41,830 --> 00:01:41,840
+pero algunos hechizos como raise
+ 
+
+102
+00:01:41,840 --> 00:01:44,389
+pero algunos hechizos como raise
+indicaron cuáles son los materiales requeridos. En
+
+103
+00:01:44,389 --> 00:01:44,399
+indicaron cuáles son los materiales requeridos. En
+ 
+
+104
+00:01:44,399 --> 00:01:45,109
+indicaron cuáles son los materiales requeridos. En
+este caso,
+
+105
+00:01:45,109 --> 00:01:45,119
+este caso,
+ 
+
+106
+00:01:45,119 --> 00:01:48,069
+este caso,
+está incluido en el encabezado de costo del hechizo.
+
+107
+00:01:48,069 --> 00:01:48,079
+está incluido en el encabezado de costo del hechizo.
+ 
+
+108
+00:01:48,079 --> 00:01:50,149
+está incluido en el encabezado de costo del hechizo.
+Para lanzar Raised Dead, necesitas
+
+109
+00:01:50,149 --> 00:01:50,159
+Para lanzar Raised Dead, necesitas
+ 
+
+110
+00:01:50,159 --> 00:01:52,310
+Para lanzar Raised Dead, necesitas
+componentes materiales que incluyen diamantes con 200
+
+111
+00:01:52,310 --> 00:01:52,320
+componentes materiales que incluyen diamantes con 200
+ 
+
+112
+00:01:52,320 --> 00:01:53,270
+componentes materiales que incluyen diamantes con 200
+piezas de oro por
+
+113
+00:01:53,270 --> 00:01:53,280
+piezas de oro por
+ 
+
+114
+00:01:53,280 --> 00:01:55,190
+piezas de oro por
+nivel del personaje que se está levantando.
+
+115
+00:01:55,190 --> 00:01:55,200
+nivel del personaje que se está levantando.
+ 
+
+116
+00:01:55,200 --> 00:01:57,030
+nivel del personaje que se está levantando.
+Estos no son proporcionados por las
+
+117
+00:01:57,030 --> 00:01:57,040
+Estos no son proporcionados por las
+ 
+
+118
+00:01:57,040 --> 00:01:58,149
+Estos no son proporcionados por las
+bolsas de componentes materiales
+
+119
+00:01:58,149 --> 00:01:58,159
+bolsas de componentes materiales
+ 
+
+120
+00:01:58,159 --> 00:02:00,550
+bolsas de componentes materiales
+y se consumen y se pierden en el lanzamiento
+
+121
+00:02:00,550 --> 00:02:00,560
+y se consumen y se pierden en el lanzamiento
+ 
+
+122
+00:02:00,560 --> 00:02:03,270
+y se consumen y se pierden en el lanzamiento
+del hechizo.
+
+123
+00:02:03,270 --> 00:02:03,280
+
+ 
+
+124
+00:02:03,280 --> 00:02:05,590
+
+El segundo componente del hechizo es somático.
+
+125
+00:02:05,590 --> 00:02:05,600
+El segundo componente del hechizo es somático.
+ 
+
+126
+00:02:05,600 --> 00:02:07,749
+El segundo componente del hechizo es somático.
+Somático es solo una palabra elegante que se refiere
+
+127
+00:02:07,749 --> 00:02:07,759
+Somático es solo una palabra elegante que se refiere
+ 
+
+128
+00:02:07,759 --> 00:02:09,669
+Somático es solo una palabra elegante que se refiere
+al cuerpo físico de una persona.
+
+129
+00:02:09,669 --> 00:02:09,679
+al cuerpo físico de una persona.
+ 
+
+130
+00:02:09,679 --> 00:02:11,990
+al cuerpo físico de una persona.
+En el caso de Pathfinder, un
+
+131
+00:02:11,990 --> 00:02:12,000
+En el caso de Pathfinder, un
+ 
+
+132
+00:02:12,000 --> 00:02:13,830
+En el caso de Pathfinder, un
+componente somático generalmente se refiere al movimiento físico,
+
+133
+00:02:13,830 --> 00:02:13,840
+componente somático generalmente se refiere al movimiento físico,
+ 
+
+134
+00:02:13,840 --> 00:02:14,470
+componente somático generalmente se refiere al movimiento físico,
+
+135
+00:02:14,470 --> 00:02:14,480
+
+ 
+
+136
+00:02:14,480 --> 00:02:16,790
+
+como gestos intrincados con los dedos como el
+
+137
+00:02:16,790 --> 00:02:16,800
+como gestos intrincados con los dedos como el
+ 
+
+138
+00:02:16,800 --> 00:02:18,309
+como gestos intrincados con los dedos como el
+Doctor Strange usaría
+
+139
+00:02:18,309 --> 00:02:18,319
+Doctor Strange usaría
+ 
+
+140
+00:02:18,319 --> 00:02:21,110
+Doctor Strange usaría
+o apuntar hacia su objetivo. Curiosamente,
+
+141
+00:02:21,110 --> 00:02:21,120
+o apuntar hacia su objetivo. Curiosamente,
+ 
+
+142
+00:02:21,120 --> 00:02:21,589
+o apuntar hacia su objetivo. Curiosamente,
+
+143
+00:02:21,589 --> 00:02:21,599
+
+ 
+
+144
+00:02:21,599 --> 00:02:24,229
+
+no necesita tener una mano libre
+
+145
+00:02:24,229 --> 00:02:24,239
+no necesita tener una mano libre
+ 
+
+146
+00:02:24,239 --> 00:02:26,309
+no necesita tener una mano libre
+para lanzar un hechizo con componentes somáticos. Es
+
+147
+00:02:26,309 --> 00:02:26,319
+para lanzar un hechizo con componentes somáticos. Es
+ 
+
+148
+00:02:26,319 --> 00:02:27,430
+para lanzar un hechizo con componentes somáticos. Es
+
+149
+00:02:27,430 --> 00:02:27,440
+
+ 
+
+150
+00:02:27,440 --> 00:02:29,110
+
+posible lanzar estos hechizos
+
+151
+00:02:29,110 --> 00:02:29,120
+posible lanzar estos hechizos
+ 
+
+152
+00:02:29,120 --> 00:02:31,030
+posible lanzar estos hechizos
+mientras sostiene algo en cada mano,
+
+153
+00:02:31,030 --> 00:02:31,040
+mientras sostiene algo en cada mano,
+ 
+
+154
+00:02:31,040 --> 00:02:33,190
+mientras sostiene algo en cada mano,
+como sostener una varita que
+
+155
+00:02:33,190 --> 00:02:33,200
+como sostener una varita que
+ 
+
+156
+00:02:33,200 --> 00:02:35,270
+como sostener una varita que
+agitaría y apuntaría a un objetivo en lugar de
+
+157
+00:02:35,270 --> 00:02:35,280
+agitaría y apuntaría a un objetivo en lugar de
+ 
+
+158
+00:02:35,280 --> 00:02:36,390
+agitaría y apuntaría a un objetivo en lugar de
+tu dedo
+
+159
+00:02:36,390 --> 00:02:36,400
+tu dedo
+ 
+
+160
+00:02:36,400 --> 00:02:38,869
+tu dedo
+y si un hechizo requiere que toques un
+
+161
+00:02:38,869 --> 00:02:38,879
+y si un hechizo requiere que toques un
+ 
+
+162
+00:02:38,879 --> 00:02:39,589
+y si un hechizo requiere que toques un
+objetivo,
+
+163
+00:02:39,589 --> 00:02:39,599
+objetivo,
+ 
+
+164
+00:02:39,599 --> 00:02:41,990
+objetivo,
+debes poder tocarlo con parte
+
+165
+00:02:41,990 --> 00:02:42,000
+debes poder tocarlo con parte
+ 
+
+166
+00:02:42,000 --> 00:02:43,030
+debes poder tocarlo con parte
+de tu mano
+
+167
+00:02:43,030 --> 00:02:43,040
+de tu mano
+ 
+
+168
+00:02:43,040 --> 00:02:45,110
+de tu mano
+incluso si está sosteniendo algo, pero
+
+169
+00:02:45,110 --> 00:02:45,120
+incluso si está sosteniendo algo, pero
+ 
+
+170
+00:02:45,120 --> 00:02:47,110
+incluso si está sosteniendo algo, pero
+no necesita ser una mano desnuda,
+
+171
+00:02:47,110 --> 00:02:47,120
+no necesita ser una mano desnuda,
+ 
+
+172
+00:02:47,120 --> 00:02:49,350
+no necesita ser una mano desnuda,
+puedes usar guantes o guanteletes y
+
+173
+00:02:49,350 --> 00:02:49,360
+puedes usar guantes o guanteletes y
+ 
+
+174
+00:02:49,360 --> 00:02:53,270
+puedes usar guantes o guanteletes y
+aún así hacer ataques de toque.
+
+175
+00:02:53,270 --> 00:02:53,280
+
+ 
+
+176
+00:02:53,280 --> 00:02:55,509
+
+El siguiente componente del hechizo es verbal, este se
+
+177
+00:02:55,509 --> 00:02:55,519
+El siguiente componente del hechizo es verbal, este se
+ 
+
+178
+00:02:55,519 --> 00:02:57,270
+El siguiente componente del hechizo es verbal, este se
+explica por sí solo,
+
+179
+00:02:57,270 --> 00:02:57,280
+explica por sí solo,
+ 
+
+180
+00:02:57,280 --> 00:02:59,509
+explica por sí solo,
+como parte del lanzamiento de un hechizo, debes decir
+
+181
+00:02:59,509 --> 00:02:59,519
+como parte del lanzamiento de un hechizo, debes decir
+ 
+
+182
+00:02:59,519 --> 00:03:00,710
+como parte del lanzamiento de un hechizo, debes decir
+algo en voz alta
+
+183
+00:03:00,710 --> 00:03:00,720
+algo en voz alta
+ 
+
+184
+00:03:00,720 --> 00:03:03,350
+algo en voz alta
+para los hechizos divinos, esto podría ser una oración
+
+185
+00:03:03,350 --> 00:03:03,360
+para los hechizos divinos, esto podría ser una oración
+ 
+
+186
+00:03:03,360 --> 00:03:05,430
+para los hechizos divinos, esto podría ser una oración
+para los lanzadores arcanos, podría ser gritar
+
+187
+00:03:05,430 --> 00:03:05,440
+para los lanzadores arcanos, podría ser gritar
+ 
+
+188
+00:03:05,440 --> 00:03:06,309
+para los lanzadores arcanos, podría ser gritar
+shazam o
+
+189
+00:03:06,309 --> 00:03:06,319
+shazam o
+ 
+
+190
+00:03:06,319 --> 00:03:08,710
+shazam o
+expecto patronum. Al igual que con otros
+
+191
+00:03:08,710 --> 00:03:08,720
+expecto patronum. Al igual que con otros
+ 
+
+192
+00:03:08,720 --> 00:03:09,430
+expecto patronum. Al igual que con otros
+componentes,
+
+193
+00:03:09,430 --> 00:03:09,440
+componentes,
+ 
+
+194
+00:03:09,440 --> 00:03:11,830
+componentes,
+la descripción del hechizo no detalla
+
+195
+00:03:11,830 --> 00:03:11,840
+la descripción del hechizo no detalla
+ 
+
+196
+00:03:11,840 --> 00:03:13,830
+la descripción del hechizo no detalla
+exactamente lo que necesitas decir,
+
+197
+00:03:13,830 --> 00:03:13,840
+exactamente lo que necesitas decir,
+ 
+
+198
+00:03:13,840 --> 00:03:16,390
+exactamente lo que necesitas decir,
+pero debes decir algo en
+
+199
+00:03:16,390 --> 00:03:16,400
+pero debes decir algo en
+ 
+
+200
+00:03:16,400 --> 00:03:17,990
+pero debes decir algo en
+voz alta y fuerte que sea fácil de
+
+201
+00:03:17,990 --> 00:03:18,000
+voz alta y fuerte que sea fácil de
+ 
+
+202
+00:03:18,000 --> 00:03:21,430
+voz alta y fuerte que sea fácil de
+escuchar. Y el último componente es el foco.
+
+203
+00:03:21,430 --> 00:03:21,440
+escuchar. Y el último componente es el foco.
+ 
+
+204
+00:03:21,440 --> 00:03:23,990
+escuchar. Y el último componente es el foco.
+Un foco es como un componente material o
+
+205
+00:03:23,990 --> 00:03:24,000
+Un foco es como un componente material o
+ 
+
+206
+00:03:24,000 --> 00:03:24,630
+Un foco es como un componente material o
+un costo,
+
+207
+00:03:24,630 --> 00:03:24,640
+un costo,
+ 
+
+208
+00:03:24,640 --> 00:03:27,190
+un costo,
+excepto que no se consume al lanzar
+
+209
+00:03:27,190 --> 00:03:27,200
+excepto que no se consume al lanzar
+ 
+
+210
+00:03:27,200 --> 00:03:28,229
+excepto que no se consume al lanzar
+el hechizo
+
+211
+00:03:28,229 --> 00:03:28,239
+el hechizo
+ 
+
+212
+00:03:28,239 --> 00:03:31,110
+el hechizo
+y es similar al costo de un hechizo. Los focos
+
+213
+00:03:31,110 --> 00:03:31,120
+y es similar al costo de un hechizo. Los focos
+ 
+
+214
+00:03:31,120 --> 00:03:31,830
+y es similar al costo de un hechizo. Los focos
+no se enumeran
+
+215
+00:03:31,830 --> 00:03:31,840
+no se enumeran
+ 
+
+216
+00:03:31,840 --> 00:03:34,070
+no se enumeran
+bajo el encabezado de lanzamiento, sino que se encuentran
+
+217
+00:03:34,070 --> 00:03:34,080
+bajo el encabezado de lanzamiento, sino que se encuentran
+ 
+
+218
+00:03:34,080 --> 00:03:35,190
+bajo el encabezado de lanzamiento, sino que se encuentran
+enumerados bajo los
+
+219
+00:03:35,190 --> 00:03:35,200
+enumerados bajo los
+ 
+
+220
+00:03:35,200 --> 00:03:37,750
+enumerados bajo los
+requisitos, por ejemplo, para
+
+221
+00:03:37,750 --> 00:03:37,760
+requisitos, por ejemplo, para
+ 
+
+222
+00:03:37,760 --> 00:03:39,270
+requisitos, por ejemplo, para
+lanzar el hechizo de alarma,
+
+223
+00:03:39,270 --> 00:03:39,280
+lanzar el hechizo de alarma,
+ 
+
+224
+00:03:39,280 --> 00:03:41,750
+lanzar el hechizo de alarma,
+el lanzador debe tener una campana de plata que valga
+
+225
+00:03:41,750 --> 00:03:41,760
+el lanzador debe tener una campana de plata que valga
+ 
+
+226
+00:03:41,760 --> 00:03:42,309
+el lanzador debe tener una campana de plata que valga
+al menos
+
+227
+00:03:42,309 --> 00:03:42,319
+al menos
+ 
+
+228
+00:03:42,319 --> 00:03:44,470
+al menos
+tres piezas de oro que use como
+
+229
+00:03:44,470 --> 00:03:44,480
+tres piezas de oro que use como
+ 
+
+230
+00:03:44,480 --> 00:03:46,949
+tres piezas de oro que use como
+foco al lanzar el hechizo.
+
+231
+00:03:46,949 --> 00:03:46,959
+foco al lanzar el hechizo.
+ 
+
+232
+00:03:46,959 --> 00:03:48,869
+foco al lanzar el hechizo.
+En la mayoría de los casos, cuando se lanza un hechizo que
+
+233
+00:03:48,869 --> 00:03:48,879
+En la mayoría de los casos, cuando se lanza un hechizo que
+ 
+
+234
+00:03:48,879 --> 00:03:50,070
+En la mayoría de los casos, cuando se lanza un hechizo que
+requiere un foco,
+
+235
+00:03:50,070 --> 00:03:50,080
+requiere un foco,
+ 
+
+236
+00:03:50,080 --> 00:03:52,309
+requiere un foco,
+siempre que tenga una mano libre,
+
+237
+00:03:52,309 --> 00:03:52,319
+siempre que tenga una mano libre,
+ 
+
+238
+00:03:52,319 --> 00:03:53,990
+siempre que tenga una mano libre,
+puede  recuperar el foco
+
+239
+00:03:53,990 --> 00:03:54,000
+puede  recuperar el foco
+ 
+
+240
+00:03:54,000 --> 00:03:56,550
+puede  recuperar el foco
+lanzar el hechizo y luego guardarlo de nuevo
+
+241
+00:03:56,550 --> 00:03:56,560
+lanzar el hechizo y luego guardarlo de nuevo
+ 
+
+242
+00:03:56,560 --> 00:03:58,949
+lanzar el hechizo y luego guardarlo de nuevo
+todo como parte de las acciones normalmente utilizadas
+
+243
+00:03:58,949 --> 00:03:58,959
+todo como parte de las acciones normalmente utilizadas
+ 
+
+244
+00:03:58,959 --> 00:04:00,229
+todo como parte de las acciones normalmente utilizadas
+para lanzar el hechizo
+
+245
+00:04:00,229 --> 00:04:00,239
+para lanzar el hechizo
+ 
+
+246
+00:04:00,239 --> 00:04:02,309
+para lanzar el hechizo
+no necesitas gastar una acción
+
+247
+00:04:02,309 --> 00:04:02,319
+no necesitas gastar una acción
+ 
+
+248
+00:04:02,319 --> 00:04:04,070
+no necesitas gastar una acción
+primero para recuperar el foco
+
+249
+00:04:04,070 --> 00:04:04,080
+primero para recuperar el foco
+ 
+
+250
+00:04:04,080 --> 00:04:05,910
+primero para recuperar el foco
+y luego gastar la cantidad de acciones
+
+251
+00:04:05,910 --> 00:04:05,920
+y luego gastar la cantidad de acciones
+ 
+
+252
+00:04:05,920 --> 00:04:07,990
+y luego gastar la cantidad de acciones
+enumeradas en la descripción del hechizo para lanzar
+
+253
+00:04:07,990 --> 00:04:08,000
+enumeradas en la descripción del hechizo para lanzar
+ 
+
+254
+00:04:08,000 --> 00:04:10,470
+enumeradas en la descripción del hechizo para lanzar
+seguido de otra acción para guardar
+
+255
+00:04:10,470 --> 00:04:10,480
+seguido de otra acción para guardar
+ 
+
+256
+00:04:10,480 --> 00:04:11,429
+seguido de otra acción para guardar
+el foco
+
+257
+00:04:11,429 --> 00:04:11,439
+el foco
+ 
+
+258
+00:04:11,439 --> 00:04:13,429
+el foco
+pero hay algunas excepciones a esto
+
+259
+00:04:13,429 --> 00:04:13,439
+pero hay algunas excepciones a esto
+ 
+
+260
+00:04:13,439 --> 00:04:14,550
+pero hay algunas excepciones a esto
+que nos lleva a las
+
+261
+00:04:14,550 --> 00:04:14,560
+que nos lleva a las
+ 
+
+262
+00:04:14,560 --> 00:04:18,469
+que nos lleva a las
+sustituciones de componentes
+
+263
+00:04:18,469 --> 00:04:18,479
+
+ 
+
+264
+00:04:18,479 --> 00:04:20,629
+
+algunas clases te permiten sustituir un
+
+265
+00:04:20,629 --> 00:04:20,639
+algunas clases te permiten sustituir un
+ 
+
+266
+00:04:20,639 --> 00:04:22,390
+algunas clases te permiten sustituir un
+componente de hechizo por otro los
+
+267
+00:04:22,390 --> 00:04:22,400
+componente de hechizo por otro los
+ 
+
+268
+00:04:22,400 --> 00:04:25,110
+componente de hechizo por otro los
+bardos por ejemplo pueden lanzar hechizos ocultos
+
+269
+00:04:25,110 --> 00:04:25,120
+bardos por ejemplo pueden lanzar hechizos ocultos
+ 
+
+270
+00:04:25,120 --> 00:04:27,030
+bardos por ejemplo pueden lanzar hechizos ocultos
+tocando un instrumento musical
+
+271
+00:04:27,030 --> 00:04:27,040
+tocando un instrumento musical
+ 
+
+272
+00:04:27,040 --> 00:04:29,189
+tocando un instrumento musical
+al hacerlo el instrumento se convierte en un
+
+273
+00:04:29,189 --> 00:04:29,199
+al hacerlo el instrumento se convierte en un
+ 
+
+274
+00:04:29,199 --> 00:04:31,749
+al hacerlo el instrumento se convierte en un
+foco y toma el lugar de los
+
+275
+00:04:31,749 --> 00:04:31,759
+foco y toma el lugar de los
+ 
+
+276
+00:04:31,759 --> 00:04:33,749
+foco y toma el lugar de los
+componentes materiales somáticos o verbales no se pueden
+
+277
+00:04:33,749 --> 00:04:33,759
+componentes materiales somáticos o verbales no se pueden
+ 
+
+278
+00:04:33,759 --> 00:04:36,070
+componentes materiales somáticos o verbales no se pueden
+recuperar y guardar
+
+279
+00:04:36,070 --> 00:04:36,080
+recuperar y guardar
+ 
+
+280
+00:04:36,080 --> 00:04:38,390
+recuperar y guardar
+gratis como la mayoría de la gente yo
+
+281
+00:04:38,390 --> 00:04:38,400
+gratis como la mayoría de la gente yo
+ 
+
+282
+00:04:38,400 --> 00:04:39,990
+gratis como la mayoría de la gente yo
+y aunque no está escrito en las
+
+283
+00:04:39,990 --> 00:04:40,000
+y aunque no está escrito en las
+ 
+
+284
+00:04:40,000 --> 00:04:42,390
+y aunque no está escrito en las
+reglas muchas personas incluyéndome a mí
+
+285
+00:04:42,390 --> 00:04:42,400
+reglas muchas personas incluyéndome a mí
+ 
+
+286
+00:04:42,400 --> 00:04:44,150
+reglas muchas personas incluyéndome a mí
+creen que este tipo de sustitución
+
+287
+00:04:44,150 --> 00:04:44,160
+creen que este tipo de sustitución
+ 
+
+288
+00:04:44,160 --> 00:04:45,670
+creen que este tipo de sustitución
+de un componente material
+
+289
+00:04:45,670 --> 00:04:45,680
+de un componente material
+ 
+
+290
+00:04:45,680 --> 00:04:47,749
+de un componente material
+no elimina la necesidad de ningún costo
+
+291
+00:04:47,749 --> 00:04:47,759
+no elimina la necesidad de ningún costo
+ 
+
+292
+00:04:47,759 --> 00:04:49,510
+no elimina la necesidad de ningún costo
+u otros requisitos enumerados
+
+293
+00:04:49,510 --> 00:04:49,520
+u otros requisitos enumerados
+ 
+
+294
+00:04:49,520 --> 00:04:52,070
+u otros requisitos enumerados
+en la descripción del hechizo por ejemplo
+
+295
+00:04:52,070 --> 00:04:52,080
+en la descripción del hechizo por ejemplo
+ 
+
+296
+00:04:52,080 --> 00:04:53,270
+en la descripción del hechizo por ejemplo
+llama continua
+
+297
+00:04:53,270 --> 00:04:53,280
+llama continua
+ 
+
+298
+00:04:53,280 --> 00:04:55,590
+llama continua
+tiene un tiempo de lanzamiento de tres acciones
+
+299
+00:04:55,590 --> 00:04:55,600
+tiene un tiempo de lanzamiento de tres acciones
+ 
+
+300
+00:04:55,600 --> 00:04:57,749
+tiene un tiempo de lanzamiento de tres acciones
+requiere componentes materiales somáticos y verbales
+
+301
+00:04:57,749 --> 00:04:57,759
+requiere componentes materiales somáticos y verbales
+ 
+
+302
+00:04:57,759 --> 00:04:58,550
+requiere componentes materiales somáticos y verbales
+
+303
+00:04:58,550 --> 00:04:58,560
+
+ 
+
+304
+00:04:58,560 --> 00:05:00,870
+
+y tiene un costo material de seis
+
+305
+00:05:00,870 --> 00:05:00,880
+y tiene un costo material de seis
+ 
+
+306
+00:05:00,880 --> 00:05:02,950
+y tiene un costo material de seis
+piezas de oro en polvo de rubí
+
+307
+00:05:02,950 --> 00:05:02,960
+piezas de oro en polvo de rubí
+ 
+
+308
+00:05:02,960 --> 00:05:05,350
+piezas de oro en polvo de rubí
+un tablero puede tocar su flauta usando eso
+
+309
+00:05:05,350 --> 00:05:05,360
+un tablero puede tocar su flauta usando eso
+ 
+
+310
+00:05:05,360 --> 00:05:06,469
+un tablero puede tocar su flauta usando eso
+como foco
+
+311
+00:05:06,469 --> 00:05:06,479
+como foco
+ 
+
+312
+00:05:06,479 --> 00:05:09,110
+como foco
+para reemplazar la necesidad de componentes materiales somáticos
+
+313
+00:05:09,110 --> 00:05:09,120
+para reemplazar la necesidad de componentes materiales somáticos
+ 
+
+314
+00:05:09,120 --> 00:05:10,790
+para reemplazar la necesidad de componentes materiales somáticos
+y verbales
+
+315
+00:05:10,790 --> 00:05:10,800
+y verbales
+ 
+
+316
+00:05:10,800 --> 00:05:13,749
+y verbales
+pero los campos de costo y requisito  están
+
+317
+00:05:13,749 --> 00:05:13,759
+pero los campos de costo y requisito  están
+ 
+
+318
+00:05:13,759 --> 00:05:15,990
+pero los campos de costo y requisito  están
+separados de los componentes del hechizo,
+
+319
+00:05:15,990 --> 00:05:16,000
+separados de los componentes del hechizo,
+ 
+
+320
+00:05:16,000 --> 00:05:18,629
+separados de los componentes del hechizo,
+por lo que este bardo aún necesitaría proporcionar
+
+321
+00:05:18,629 --> 00:05:18,639
+por lo que este bardo aún necesitaría proporcionar
+ 
+
+322
+00:05:18,639 --> 00:05:21,670
+por lo que este bardo aún necesitaría proporcionar
+seis piezas de oro en polvo de rubí, de la
+
+323
+00:05:21,670 --> 00:05:21,680
+seis piezas de oro en polvo de rubí, de la
+ 
+
+324
+00:05:21,680 --> 00:05:23,909
+seis piezas de oro en polvo de rubí, de la
+misma manera, los clérigos y los druidas pueden usar un
+
+325
+00:05:23,909 --> 00:05:23,919
+misma manera, los clérigos y los druidas pueden usar un
+ 
+
+326
+00:05:23,919 --> 00:05:25,029
+misma manera, los clérigos y los druidas pueden usar un
+símbolo religioso
+
+327
+00:05:25,029 --> 00:05:25,039
+símbolo religioso
+ 
+
+328
+00:05:25,039 --> 00:05:27,749
+símbolo religioso
+o un texto sagrado en el caso de los clérigos o un
+
+329
+00:05:27,749 --> 00:05:27,759
+o un texto sagrado en el caso de los clérigos o un
+ 
+
+330
+00:05:27,759 --> 00:05:28,710
+o un texto sagrado en el caso de los clérigos o un
+foco primordial
+
+331
+00:05:28,710 --> 00:05:28,720
+foco primordial
+ 
+
+332
+00:05:28,720 --> 00:05:31,909
+foco primordial
+como el muérdago para los druidas como focos para
+
+333
+00:05:31,909 --> 00:05:31,919
+como el muérdago para los druidas como focos para
+ 
+
+334
+00:05:31,919 --> 00:05:33,909
+como el muérdago para los druidas como focos para
+reemplazar un componente material,
+
+335
+00:05:33,909 --> 00:05:33,919
+reemplazar un componente material,
+ 
+
+336
+00:05:33,919 --> 00:05:35,590
+reemplazar un componente material,
+pero aún necesitan realizar cualquier
+
+337
+00:05:35,590 --> 00:05:35,600
+pero aún necesitan realizar cualquier
+ 
+
+338
+00:05:35,600 --> 00:05:37,510
+pero aún necesitan realizar cualquier
+componente somático o verbal que se
+
+339
+00:05:37,510 --> 00:05:37,520
+componente somático o verbal que se
+ 
+
+340
+00:05:37,520 --> 00:05:38,790
+componente somático o verbal que se
+requiera,
+
+341
+00:05:38,790 --> 00:05:38,800
+requiera,
+ 
+
+342
+00:05:38,800 --> 00:05:40,710
+requiera,
+similar a los bardos que sustituyen su
+
+343
+00:05:40,710 --> 00:05:40,720
+similar a los bardos que sustituyen su
+ 
+
+344
+00:05:40,720 --> 00:05:42,550
+similar a los bardos que sustituyen su
+instrumento por un componente material,
+
+345
+00:05:42,550 --> 00:05:42,560
+instrumento por un componente material,
+ 
+
+346
+00:05:42,560 --> 00:05:44,790
+instrumento por un componente material,
+no creo que la intención aquí sea
+
+347
+00:05:44,790 --> 00:05:44,800
+no creo que la intención aquí sea
+ 
+
+348
+00:05:44,800 --> 00:05:47,029
+no creo que la intención aquí sea
+permitir que un clérigo lance resucitado
+
+349
+00:05:47,029 --> 00:05:47,039
+permitir que un clérigo lance resucitado
+ 
+
+350
+00:05:47,039 --> 00:05:48,710
+permitir que un clérigo lance resucitado
+sin proporcionar cientos de
+
+351
+00:05:48,710 --> 00:05:48,720
+sin proporcionar cientos de
+ 
+
+352
+00:05:48,720 --> 00:05:50,629
+sin proporcionar cientos de
+piezas de oro en diamantes
+
+353
+00:05:50,629 --> 00:05:50,639
+piezas de oro en diamantes
+ 
+
+354
+00:05:50,639 --> 00:05:52,710
+piezas de oro en diamantes
+y cuando un hechicero lanza un hechizo de la
+
+355
+00:05:52,710 --> 00:05:52,720
+y cuando un hechicero lanza un hechizo de la
+ 
+
+356
+00:05:52,720 --> 00:05:54,310
+y cuando un hechicero lanza un hechizo de la
+tradición de su linaje,
+
+357
+00:05:54,310 --> 00:05:54,320
+tradición de su linaje,
+ 
+
+358
+00:05:54,320 --> 00:05:56,550
+tradición de su linaje,
+puede sustituir un componente somático adicional
+
+359
+00:05:56,550 --> 00:05:56,560
+puede sustituir un componente somático adicional
+ 
+
+360
+00:05:56,560 --> 00:05:57,350
+puede sustituir un componente somático adicional
+
+361
+00:05:57,350 --> 00:05:57,360
+
+ 
+
+362
+00:05:57,360 --> 00:05:59,350
+
+por cualquiera de los componentes materiales del hechizo.
+
+363
+00:05:59,350 --> 00:05:59,360
+por cualquiera de los componentes materiales del hechizo.
+ 
+
+364
+00:05:59,360 --> 00:06:00,790
+por cualquiera de los componentes materiales del hechizo.
+
+365
+00:06:00,790 --> 00:06:00,800
+
+ 
+
+366
+00:06:00,800 --> 00:06:02,870
+
+Otras clases de lanzamiento de hechizos también pueden tener
+
+367
+00:06:02,870 --> 00:06:02,880
+Otras clases de lanzamiento de hechizos también pueden tener
+ 
+
+368
+00:06:02,880 --> 00:06:04,629
+Otras clases de lanzamiento de hechizos también pueden tener
+opciones para sustituir componentes,
+
+369
+00:06:04,629 --> 00:06:04,639
+opciones para sustituir componentes,
+ 
+
+370
+00:06:04,639 --> 00:06:05,189
+opciones para sustituir componentes,
+
+371
+00:06:05,189 --> 00:06:05,199
+
+ 
+
+372
+00:06:05,199 --> 00:06:07,110
+
+pero me quedaré con esas por
+
+373
+00:06:07,110 --> 00:06:07,120
+pero me quedaré con esas por
+ 
+
+374
+00:06:07,120 --> 00:06:09,590
+pero me quedaré con esas por
+ahora. Guardaré la discusión completa sobre cómo
+
+375
+00:06:09,590 --> 00:06:09,600
+ahora. Guardaré la discusión completa sobre cómo
+ 
+
+376
+00:06:09,600 --> 00:06:11,029
+ahora. Guardaré la discusión completa sobre cómo
+cada clase maneja esto
+
+377
+00:06:11,029 --> 00:06:11,039
+cada clase maneja esto
+ 
+
+378
+00:06:11,039 --> 00:06:14,309
+cada clase maneja esto
+para futuros videos específicos de la clase,
+
+379
+00:06:14,309 --> 00:06:14,319
+para futuros videos específicos de la clase,
+ 
+
+380
+00:06:14,319 --> 00:06:17,029
+para futuros videos específicos de la clase,
+entonces, ¿por qué todo este alboroto por la sustitución de componentes
+
+381
+00:06:17,029 --> 00:06:17,039
+entonces, ¿por qué todo este alboroto por la sustitución de componentes
+ 
+
+382
+00:06:17,039 --> 00:06:18,230
+entonces, ¿por qué todo este alboroto por la sustitución de componentes
+
+383
+00:06:18,230 --> 00:06:18,240
+
+ 
+
+384
+00:06:18,240 --> 00:06:20,309
+
+si en la superficie no parece
+
+385
+00:06:20,309 --> 00:06:20,319
+si en la superficie no parece
+ 
+
+386
+00:06:20,319 --> 00:06:22,070
+si en la superficie no parece
+hacer ninguna diferencia real en el lanzamiento
+
+387
+00:06:22,070 --> 00:06:22,080
+hacer ninguna diferencia real en el lanzamiento
+ 
+
+388
+00:06:22,080 --> 00:06:23,189
+hacer ninguna diferencia real en el lanzamiento
+del hechizo?
+
+389
+00:06:23,189 --> 00:06:23,199
+del hechizo?
+ 
+
+390
+00:06:23,199 --> 00:06:25,430
+del hechizo?
+El hechizo todavía cuesta la misma cantidad de
+
+391
+00:06:25,430 --> 00:06:25,440
+El hechizo todavía cuesta la misma cantidad de
+ 
+
+392
+00:06:25,440 --> 00:06:26,230
+El hechizo todavía cuesta la misma cantidad de
+acciones
+
+393
+00:06:26,230 --> 00:06:26,240
+acciones
+ 
+
+394
+00:06:26,240 --> 00:06:28,469
+acciones
+y aún necesitas proporcionar
+
+395
+00:06:28,469 --> 00:06:28,479
+y aún necesitas proporcionar
+ 
+
+396
+00:06:28,479 --> 00:06:31,029
+y aún necesitas proporcionar
+materiales costosos que figuran como el costo de los hechizos, así que ¿
+
+397
+00:06:31,029 --> 00:06:31,039
+materiales costosos que figuran como el costo de los hechizos, así que ¿
+ 
+
+398
+00:06:31,039 --> 00:06:33,270
+materiales costosos que figuran como el costo de los hechizos, así que ¿
+por qué molestarse en sustituir
+
+399
+00:06:33,270 --> 00:06:33,280
+por qué molestarse en sustituir
+ 
+
+400
+00:06:33,280 --> 00:06:34,790
+por qué molestarse en sustituir
+componentes?
+
+401
+00:06:34,790 --> 00:06:34,800
+componentes?
+ 
+
+402
+00:06:34,800 --> 00:06:36,390
+componentes?
+Bueno, la primera razón es que para el
+
+403
+00:06:36,390 --> 00:06:36,400
+Bueno, la primera razón es que para el
+ 
+
+404
+00:06:36,400 --> 00:06:38,790
+Bueno, la primera razón es que para el
+juego de roles puede ser más divertido para un bardo
+
+405
+00:06:38,790 --> 00:06:38,800
+juego de roles puede ser más divertido para un bardo
+ 
+
+406
+00:06:38,800 --> 00:06:39,350
+juego de roles puede ser más divertido para un bardo
+describir
+
+407
+00:06:39,350 --> 00:06:39,360
+describir
+ 
+
+408
+00:06:39,360 --> 00:06:41,430
+describir
+tocar su instrumento para cassar el hechizo
+
+409
+00:06:41,430 --> 00:06:41,440
+tocar su instrumento para cassar el hechizo
+ 
+
+410
+00:06:41,440 --> 00:06:43,430
+tocar su instrumento para cassar el hechizo
+que dejarlo para sacar el
+
+411
+00:06:43,430 --> 00:06:43,440
+que dejarlo para sacar el
+ 
+
+412
+00:06:43,440 --> 00:06:45,510
+que dejarlo para sacar el
+componente material y manipularlo.
+
+413
+00:06:45,510 --> 00:06:45,520
+componente material y manipularlo.
+ 
+
+414
+00:06:45,520 --> 00:06:48,230
+componente material y manipularlo.
+Otra razón es debido a las manos libres,
+
+415
+00:06:48,230 --> 00:06:48,240
+Otra razón es debido a las manos libres,
+ 
+
+416
+00:06:48,240 --> 00:06:49,990
+Otra razón es debido a las manos libres,
+debes tener una mano libre cuando
+
+417
+00:06:49,990 --> 00:06:50,000
+debes tener una mano libre cuando
+ 
+
+418
+00:06:50,000 --> 00:06:52,150
+debes tener una mano libre cuando
+lanzas con un componente material,
+
+419
+00:06:52,150 --> 00:06:52,160
+lanzas con un componente material,
+ 
+
+420
+00:06:52,160 --> 00:06:55,430
+lanzas con un componente material,
+pero no para los componentes somáticos, por lo que un
+
+421
+00:06:55,430 --> 00:06:55,440
+pero no para los componentes somáticos, por lo que un
+ 
+
+422
+00:06:55,440 --> 00:06:56,309
+pero no para los componentes somáticos, por lo que un
+hechicero
+
+423
+00:06:56,309 --> 00:06:56,319
+hechicero
+ 
+
+424
+00:06:56,319 --> 00:06:57,990
+hechicero
+podría lanzar un hechizo que
+
+425
+00:06:57,990 --> 00:06:58,000
+podría lanzar un hechizo que
+ 
+
+426
+00:06:58,000 --> 00:07:00,469
+podría lanzar un hechizo que
+normalmente requiere un componente material
+
+427
+00:07:00,469 --> 00:07:00,479
+normalmente requiere un componente material
+ 
+
+428
+00:07:00,479 --> 00:07:03,670
+normalmente requiere un componente material
+sin necesidad de tener una mano libre y
+
+429
+00:07:03,670 --> 00:07:03,680
+sin necesidad de tener una mano libre y
+ 
+
+430
+00:07:03,680 --> 00:07:05,909
+sin necesidad de tener una mano libre y
+también podría ser útil para situaciones en las que los
+
+431
+00:07:05,909 --> 00:07:05,919
+también podría ser útil para situaciones en las que los
+ 
+
+432
+00:07:05,919 --> 00:07:07,749
+también podría ser útil para situaciones en las que los
+personajes tienen acceso limitado a
+
+433
+00:07:07,749 --> 00:07:07,759
+personajes tienen acceso limitado a
+ 
+
+434
+00:07:07,759 --> 00:07:10,390
+personajes tienen acceso limitado a
+su equipo, como estar en una celda de la cárcel,
+
+435
+00:07:10,390 --> 00:07:10,400
+su equipo, como estar en una celda de la cárcel,
+ 
+
+436
+00:07:10,400 --> 00:07:12,390
+su equipo, como estar en una celda de la cárcel,
+si un bardo puede convencer al guardia de que
+
+437
+00:07:12,390 --> 00:07:12,400
+si un bardo puede convencer al guardia de que
+ 
+
+438
+00:07:12,400 --> 00:07:14,150
+si un bardo puede convencer al guardia de que
+les dé su flauta inofensiva
+
+439
+00:07:14,150 --> 00:07:14,160
+les dé su flauta inofensiva
+ 
+
+440
+00:07:14,160 --> 00:07:16,550
+les dé su flauta inofensiva
+o si dejan que un clérigo guarde su
+
+441
+00:07:16,550 --> 00:07:16,560
+o si dejan que un clérigo guarde su
+ 
+
+442
+00:07:16,560 --> 00:07:17,589
+o si dejan que un clérigo guarde su
+libro sagrado, entonces
+
+443
+00:07:17,589 --> 00:07:17,599
+libro sagrado, entonces
+ 
+
+444
+00:07:17,599 --> 00:07:19,189
+libro sagrado, entonces
+esos personajes tienen todos los
+
+445
+00:07:19,189 --> 00:07:19,199
+esos personajes tienen todos los
+ 
+
+446
+00:07:19,199 --> 00:07:22,469
+esos personajes tienen todos los
+materiales que necesitan para lanzar sus hechizos,
+
+447
+00:07:22,469 --> 00:07:22,479
+materiales que necesitan para lanzar sus hechizos,
+ 
+
+448
+00:07:22,479 --> 00:07:24,550
+materiales que necesitan para lanzar sus hechizos,
+pero también seré el primero en decir
+
+449
+00:07:24,550 --> 00:07:24,560
+pero también seré el primero en decir
+ 
+
+450
+00:07:24,560 --> 00:07:26,390
+pero también seré el primero en decir
+que los beneficios de sustituir
+
+451
+00:07:26,390 --> 00:07:26,400
+que los beneficios de sustituir
+ 
+
+452
+00:07:26,400 --> 00:07:27,270
+que los beneficios de sustituir
+componentes se
+
+453
+00:07:27,270 --> 00:07:27,280
+componentes se
+ 
+
+454
+00:07:27,280 --> 00:07:29,029
+componentes se
+sienten muy limitados en comparación con la
+
+455
+00:07:29,029 --> 00:07:29,039
+sienten muy limitados en comparación con la
+ 
+
+456
+00:07:29,039 --> 00:07:30,629
+sienten muy limitados en comparación con la
+cantidad de atención que reciben en las
+
+457
+00:07:30,629 --> 00:07:30,639
+cantidad de atención que reciben en las
+ 
+
+458
+00:07:30,639 --> 00:07:31,430
+cantidad de atención que reciben en las
+reglas,
+
+459
+00:07:31,430 --> 00:07:31,440
+reglas,
+ 
+
+460
+00:07:31,440 --> 00:07:33,670
+reglas,
+así que déjame saber en los comentarios si
+
+461
+00:07:33,670 --> 00:07:33,680
+así que déjame saber en los comentarios si
+ 
+
+462
+00:07:33,680 --> 00:07:35,189
+así que déjame saber en los comentarios si
+encontraste un uso creativo
+
+463
+00:07:35,189 --> 00:07:35,199
+encontraste un uso creativo
+ 
+
+464
+00:07:35,199 --> 00:07:37,110
+encontraste un uso creativo
+para sustituir componentes en tus
+
+465
+00:07:37,110 --> 00:07:37,120
+para sustituir componentes en tus
+ 
+
+466
+00:07:37,120 --> 00:07:39,830
+para sustituir componentes en tus
+juegos
+
+467
+00:07:39,830 --> 00:07:39,840
+
+ 
+
+468
+00:07:39,840 --> 00:07:41,270
+
+y la última pieza sobre los
+
+469
+00:07:41,270 --> 00:07:41,280
+y la última pieza sobre los
+ 
+
+470
+00:07:41,280 --> 00:07:43,029
+y la última pieza sobre los
+componentes de hechizos que necesitamos  para cubrir es cómo
+
+471
+00:07:43,029 --> 00:07:44,150
+componentes de hechizos que necesitamos  para cubrir es cómo
+ 
+
+472
+00:07:44,150 --> 00:07:44,160
+
+ 
+
+473
+00:07:44,160 --> 00:07:45,990
+
+cambian los rasgos de un hechizo dependiendo de qué componentes se
+
+474
+00:07:45,990 --> 00:07:46,000
+cambian los rasgos de un hechizo dependiendo de qué componentes se
+ 
+
+475
+00:07:46,000 --> 00:07:47,270
+cambian los rasgos de un hechizo dependiendo de qué componentes se
+usen para lanzarlo
+
+476
+00:07:47,270 --> 00:07:47,280
+usen para lanzarlo
+ 
+
+477
+00:07:47,280 --> 00:07:49,110
+usen para lanzarlo
+cada hechizo enumera sus rasgos regulares en
+
+478
+00:07:49,110 --> 00:07:49,120
+cada hechizo enumera sus rasgos regulares en
+ 
+
+479
+00:07:49,120 --> 00:07:50,790
+cada hechizo enumera sus rasgos regulares en
+la descripción por ejemplo
+
+480
+00:07:50,790 --> 00:07:50,800
+la descripción por ejemplo
+ 
+
+481
+00:07:50,800 --> 00:07:53,029
+la descripción por ejemplo
+llama continua tiene los rasgos evocación y
+
+482
+00:07:53,029 --> 00:07:53,039
+llama continua tiene los rasgos evocación y
+ 
+
+483
+00:07:53,039 --> 00:07:54,629
+llama continua tiene los rasgos evocación y
+luz por defecto
+
+484
+00:07:54,629 --> 00:07:54,639
+luz por defecto
+ 
+
+485
+00:07:54,639 --> 00:07:57,029
+luz por defecto
+pero cada componente de hechizo puede agregarle más
+
+486
+00:07:57,029 --> 00:07:57,039
+pero cada componente de hechizo puede agregarle más
+ 
+
+487
+00:07:57,039 --> 00:07:58,230
+pero cada componente de hechizo puede agregarle más
+rasgos los
+
+488
+00:07:58,230 --> 00:07:58,240
+rasgos los
+ 
+
+489
+00:07:58,240 --> 00:08:00,550
+rasgos los
+hechizos que usan componentes materiales somáticos o enfocados
+
+490
+00:08:00,550 --> 00:08:00,560
+hechizos que usan componentes materiales somáticos o enfocados
+ 
+
+491
+00:08:00,560 --> 00:08:01,510
+hechizos que usan componentes materiales somáticos o enfocados
+
+492
+00:08:01,510 --> 00:08:01,520
+
+ 
+
+493
+00:08:01,520 --> 00:08:04,629
+
+agregan el rasgo manipular al hechizo en los
+
+494
+00:08:04,629 --> 00:08:04,639
+agregan el rasgo manipular al hechizo en los
+ 
+
+495
+00:08:04,639 --> 00:08:06,950
+agregan el rasgo manipular al hechizo en los
+hechizos lanzados usando el componente verbal
+
+496
+00:08:06,950 --> 00:08:06,960
+hechizos lanzados usando el componente verbal
+ 
+
+497
+00:08:06,960 --> 00:08:10,309
+hechizos lanzados usando el componente verbal
+obtienen el rasgo concentrar estos
+
+498
+00:08:10,309 --> 00:08:10,319
+obtienen el rasgo concentrar estos
+ 
+
+499
+00:08:10,319 --> 00:08:12,309
+obtienen el rasgo concentrar estos
+rasgos adicionales son importantes cuando se lanzan hechizos
+
+500
+00:08:12,309 --> 00:08:12,319
+rasgos adicionales son importantes cuando se lanzan hechizos
+ 
+
+501
+00:08:12,319 --> 00:08:14,469
+rasgos adicionales son importantes cuando se lanzan hechizos
+mientras se está afectado por ciertas condiciones
+
+502
+00:08:14,469 --> 00:08:14,479
+mientras se está afectado por ciertas condiciones
+ 
+
+503
+00:08:14,479 --> 00:08:16,070
+mientras se está afectado por ciertas condiciones
+si intentas lanzar un hechizo usando un
+
+504
+00:08:16,070 --> 00:08:16,080
+si intentas lanzar un hechizo usando un
+ 
+
+505
+00:08:16,080 --> 00:08:17,990
+si intentas lanzar un hechizo usando un
+componente material somático o de enfoque
+
+506
+00:08:17,990 --> 00:08:18,000
+componente material somático o de enfoque
+ 
+
+507
+00:08:18,000 --> 00:08:19,350
+componente material somático o de enfoque
+mientras estás agarrado
+
+508
+00:08:19,350 --> 00:08:19,360
+mientras estás agarrado
+ 
+
+509
+00:08:19,360 --> 00:08:21,909
+mientras estás agarrado
+ese hechizo ahora tiene el rasgo manipular lo que
+
+510
+00:08:21,909 --> 00:08:21,919
+ese hechizo ahora tiene el rasgo manipular lo que
+ 
+
+511
+00:08:21,919 --> 00:08:24,550
+ese hechizo ahora tiene el rasgo manipular lo que
+significa que tienes que pasar una prueba plana de cd5
+
+512
+00:08:24,550 --> 00:08:24,560
+significa que tienes que pasar una prueba plana de cd5
+ 
+
+513
+00:08:24,560 --> 00:08:25,110
+significa que tienes que pasar una prueba plana de cd5
+
+514
+00:08:25,110 --> 00:08:25,120
+
+ 
+
+515
+00:08:25,120 --> 00:08:27,749
+
+o el hechizo se pierde esto también significa que
+
+516
+00:08:27,749 --> 00:08:27,759
+o el hechizo se pierde esto también significa que
+ 
+
+517
+00:08:27,759 --> 00:08:29,670
+o el hechizo se pierde esto también significa que
+no puedes lanzar uno de estos hechizos mientras estás
+
+518
+00:08:29,670 --> 00:08:29,680
+no puedes lanzar uno de estos hechizos mientras estás
+ 
+
+519
+00:08:29,680 --> 00:08:31,270
+no puedes lanzar uno de estos hechizos mientras estás
+restringido
+
+520
+00:08:31,270 --> 00:08:31,280
+restringido
+ 
+
+521
+00:08:31,280 --> 00:08:33,269
+restringido
+cualquier hechizo lanzado con un componente verbal
+
+522
+00:08:33,269 --> 00:08:33,279
+cualquier hechizo lanzado con un componente verbal
+ 
+
+523
+00:08:33,279 --> 00:08:35,350
+cualquier hechizo lanzado con un componente verbal
+obtiene el rasgo concentrar
+
+524
+00:08:35,350 --> 00:08:35,360
+obtiene el rasgo concentrar
+ 
+
+525
+00:08:35,360 --> 00:08:37,509
+obtiene el rasgo concentrar
+por lo que es posible que no puedas lanzarlos
+
+526
+00:08:37,509 --> 00:08:37,519
+por lo que es posible que no puedas lanzarlos
+ 
+
+527
+00:08:37,519 --> 00:08:38,949
+por lo que es posible que no puedas lanzarlos
+mientras estés fascinado
+
+528
+00:08:38,949 --> 00:08:38,959
+mientras estés fascinado
+ 
+
+529
+00:08:38,959 --> 00:08:41,029
+mientras estés fascinado
+también cualquier hechizo que tenga un
+
+530
+00:08:41,029 --> 00:08:41,039
+también cualquier hechizo que tenga un
+ 
+
+531
+00:08:41,039 --> 00:08:42,630
+también cualquier hechizo que tenga un
+componente verbal no se puede lanzar
+
+532
+00:08:42,630 --> 00:08:42,640
+componente verbal no se puede lanzar
+ 
+
+533
+00:08:42,640 --> 00:08:45,750
+componente verbal no se puede lanzar
+si no puedes hablar y cuando usas
+
+534
+00:08:45,750 --> 00:08:45,760
+si no puedes hablar y cuando usas
+ 
+
+535
+00:08:45,760 --> 00:08:47,030
+si no puedes hablar y cuando usas
+sustitución de componentes
+
+536
+00:08:47,030 --> 00:08:47,040
+sustitución de componentes
+ 
+
+537
+00:08:47,040 --> 00:08:49,509
+sustitución de componentes
+los rasgos cambian en consecuencia cuando un
+
+538
+00:08:49,509 --> 00:08:49,519
+los rasgos cambian en consecuencia cuando un
+ 
+
+539
+00:08:49,519 --> 00:08:51,910
+los rasgos cambian en consecuencia cuando un
+bardo usa su instrumento como foco
+
+540
+00:08:51,910 --> 00:08:51,920
+bardo usa su instrumento como foco
+ 
+
+541
+00:08:51,920 --> 00:08:54,389
+bardo usa su instrumento como foco
+ese hechizo gana el rasgo auditivo
+
+542
+00:08:54,389 --> 00:08:54,399
+ese hechizo gana el rasgo auditivo
+ 
+
+543
+00:08:54,399 --> 00:08:55,110
+ese hechizo gana el rasgo auditivo
+lo que significa que
+
+544
+00:08:55,110 --> 00:08:55,120
+lo que significa que
+ 
+
+545
+00:08:55,120 --> 00:08:58,389
+lo que significa que
+cualquier objetivo que no pueda oírlo es inmune
+
+546
+00:08:58,389 --> 00:08:58,399
+cualquier objetivo que no pueda oírlo es inmune
+ 
+
+547
+00:08:58,399 --> 00:08:59,590
+cualquier objetivo que no pueda oírlo es inmune
+al hechizo
+
+548
+00:08:59,590 --> 00:08:59,600
+al hechizo
+ 
+
+549
+00:08:59,600 --> 00:09:01,350
+al hechizo
+y también hace  esos hechizos
+
+550
+00:09:01,350 --> 00:09:01,360
+y también hace  esos hechizos
+ 
+
+551
+00:09:01,360 --> 00:09:03,910
+y también hace  esos hechizos
+susceptibles al contraataque de otro bardo
+
+552
+00:09:03,910 --> 00:09:03,920
+susceptibles al contraataque de otro bardo
+ 
+
+553
+00:09:03,920 --> 00:09:06,790
+susceptibles al contraataque de otro bardo
+
+554
+00:09:06,790 --> 00:09:06,800
+
+ 
+
+555
+00:09:06,800 --> 00:09:08,470
+
+antes de cerrar me gustaría tomarme un
+
+556
+00:09:08,470 --> 00:09:08,480
+antes de cerrar me gustaría tomarme un
+ 
+
+557
+00:09:08,480 --> 00:09:10,710
+antes de cerrar me gustaría tomarme un
+momento para agradecer a todos nuestros patrocinadores
+
+558
+00:09:10,710 --> 00:09:10,720
+momento para agradecer a todos nuestros patrocinadores
+ 
+
+559
+00:09:10,720 --> 00:09:12,470
+momento para agradecer a todos nuestros patrocinadores
+estos videos no serían posibles
+
+560
+00:09:12,470 --> 00:09:12,480
+estos videos no serían posibles
+ 
+
+561
+00:09:12,480 --> 00:09:14,630
+estos videos no serían posibles
+sin su continua generosidad
+
+562
+00:09:14,630 --> 00:09:14,640
+sin su continua generosidad
+ 
+
+563
+00:09:14,640 --> 00:09:17,430
+sin su continua generosidad
+y apoyo los miembros de la
+
+564
+00:09:17,430 --> 00:09:17,440
+y apoyo los miembros de la
+ 
+
+565
+00:09:17,440 --> 00:09:19,509
+y apoyo los miembros de la
+comunidad de patreon de basics for gamers reciben beneficios especiales
+
+566
+00:09:19,509 --> 00:09:19,519
+comunidad de patreon de basics for gamers reciben beneficios especiales
+ 
+
+567
+00:09:19,519 --> 00:09:20,310
+comunidad de patreon de basics for gamers reciben beneficios especiales
+
+568
+00:09:20,310 --> 00:09:20,320
+
+ 
+
+569
+00:09:20,320 --> 00:09:22,230
+
+como votar sobre los temas que
+
+570
+00:09:22,230 --> 00:09:22,240
+como votar sobre los temas que
+ 
+
+571
+00:09:22,240 --> 00:09:23,590
+como votar sobre los temas que
+cubrimos en el futuro
+
+572
+00:09:23,590 --> 00:09:23,600
+cubrimos en el futuro
+ 
+
+573
+00:09:23,600 --> 00:09:25,590
+cubrimos en el futuro
+y también pueden ver estos videos
+
+574
+00:09:25,590 --> 00:09:25,600
+y también pueden ver estos videos
+ 
+
+575
+00:09:25,600 --> 00:09:27,910
+y también pueden ver estos videos
+una semana sin publicidad antes que
+
+576
+00:09:27,910 --> 00:09:27,920
+una semana sin publicidad antes que
+ 
+
+577
+00:09:27,920 --> 00:09:30,870
+una semana sin publicidad antes que
+todos los demás visita el enlace que se muestra a
+
+578
+00:09:30,870 --> 00:09:30,880
+todos los demás visita el enlace que se muestra a
+ 
+
+579
+00:09:30,880 --> 00:09:32,389
+todos los demás visita el enlace que se muestra a
+la izquierda de la pantalla y en la
+
+580
+00:09:32,389 --> 00:09:32,399
+la izquierda de la pantalla y en la
+ 
+
+581
+00:09:32,399 --> 00:09:33,910
+la izquierda de la pantalla y en la
+descripción si deseas saber más
+
+582
+00:09:33,910 --> 00:09:33,920
+descripción si deseas saber más
+ 
+
+583
+00:09:33,920 --> 00:09:36,070
+descripción si deseas saber más
+sobre cómo convertirte en patrocinador
+
+584
+00:09:36,070 --> 00:09:36,080
+sobre cómo convertirte en patrocinador
+ 
+
+585
+00:09:36,080 --> 00:09:37,269
+sobre cómo convertirte en patrocinador
+si deseas apoyar este
+
+586
+00:09:37,269 --> 00:09:37,279
+si deseas apoyar este
+ 
+
+587
+00:09:37,279 --> 00:09:39,269
+si deseas apoyar este
+canal y ayudarlo a crecer la forma más fácil
+
+588
+00:09:39,269 --> 00:09:39,279
+canal y ayudarlo a crecer la forma más fácil
+ 
+
+589
+00:09:39,279 --> 00:09:40,150
+canal y ayudarlo a crecer la forma más fácil
+de hacerlo
+
+590
+00:09:40,150 --> 00:09:40,160
+de hacerlo
+ 
+
+591
+00:09:40,160 --> 00:09:42,550
+de hacerlo
+es suscribiéndote y haciendo clic en el ícono de la campana
+
+592
+00:09:42,550 --> 00:09:42,560
+es suscribiéndote y haciendo clic en el ícono de la campana
+ 
+
+593
+00:09:42,560 --> 00:09:43,269
+es suscribiéndote y haciendo clic en el ícono de la campana
+
+594
+00:09:43,269 --> 00:09:43,279
+
+ 
+
+595
+00:09:43,279 --> 00:09:45,190
+
+para que recibas notificaciones cuando se publiquen nuevos videos
+
+596
+00:09:45,190 --> 00:09:45,200
+para que recibas notificaciones cuando se publiquen nuevos videos
+ 
+
+597
+00:09:45,200 --> 00:09:47,430
+para que recibas notificaciones cuando se publiquen nuevos videos
+y siempre puedes comunicarte con nosotros a
+
+598
+00:09:47,430 --> 00:09:47,440
+y siempre puedes comunicarte con nosotros a
+ 
+
+599
+00:09:47,440 --> 00:09:49,030
+y siempre puedes comunicarte con nosotros a
+través de nuestras páginas de twitter y facebook
+
+600
+00:09:49,030 --> 00:09:49,040
+través de nuestras páginas de twitter y facebook
+ 
+
+601
+00:09:49,040 --> 00:09:50,790
+través de nuestras páginas de twitter y facebook
+también gracias por ver
+
+602
+00:09:50,790 --> 00:09:50,800
+también gracias por ver
+ 
+
+603
+00:09:50,800 --> 00:09:52,790
+también gracias por ver
+cuídate y nos veremos pronto con
+
+604
+00:09:52,790 --> 00:09:52,800
+cuídate y nos veremos pronto con
+ 
+
+605
+00:09:52,800 --> 00:09:57,600
+cuídate y nos veremos pronto con
+más conceptos básicos de pathfinder
+

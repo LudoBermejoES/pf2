@@ -1,0 +1,2808 @@
+1
+00:00:01,120 --> 00:00:02,550
+
+Hola y bienvenidos a Magic y
+
+2
+00:00:02,550 --> 00:00:02,560
+Hola y bienvenidos a Magic y
+ 
+
+3
+00:00:02,560 --> 00:00:04,710
+Hola y bienvenidos a Magic y
+Pathfinder Segunda Edición Parte 10
+
+4
+00:00:04,710 --> 00:00:04,720
+Pathfinder Segunda Edición Parte 10
+ 
+
+5
+00:00:04,720 --> 00:00:07,190
+Pathfinder Segunda Edición Parte 10
+Pergaminos en varitas. En este video
+
+6
+00:00:07,190 --> 00:00:07,200
+Pergaminos en varitas. En este video
+ 
+
+7
+00:00:07,200 --> 00:00:09,110
+Pergaminos en varitas. En este video
+examinaremos las reglas para usar estos objetos para
+
+8
+00:00:09,110 --> 00:00:09,120
+examinaremos las reglas para usar estos objetos para
+ 
+
+9
+00:00:09,120 --> 00:00:10,230
+examinaremos las reglas para usar estos objetos para
+lanzar hechizos.
+
+10
+00:00:10,230 --> 00:00:10,240
+lanzar hechizos.
+ 
+
+11
+00:00:10,240 --> 00:00:12,230
+lanzar hechizos.
+Animaría a los espectadores a que también
+
+12
+00:00:12,230 --> 00:00:12,240
+Animaría a los espectadores a que también
+ 
+
+13
+00:00:12,240 --> 00:00:13,509
+Animaría a los espectadores a que también
+vean mi video
+
+14
+00:00:13,509 --> 00:00:13,519
+vean mi video
+ 
+
+15
+00:00:13,519 --> 00:00:16,070
+vean mi video
+sobre el truco de los pies de objetos mágicos para aprender
+
+16
+00:00:16,070 --> 00:00:16,080
+sobre el truco de los pies de objetos mágicos para aprender
+ 
+
+17
+00:00:16,080 --> 00:00:18,390
+sobre el truco de los pies de objetos mágicos para aprender
+cómo pueden activar varitas y pergaminos
+
+18
+00:00:18,390 --> 00:00:18,400
+cómo pueden activar varitas y pergaminos
+ 
+
+19
+00:00:18,400 --> 00:00:20,470
+cómo pueden activar varitas y pergaminos
+incluso cuando no cumplan con sus requisitos normales.
+
+20
+00:00:20,470 --> 00:00:20,480
+incluso cuando no cumplan con sus requisitos normales.
+ 
+
+21
+00:00:20,480 --> 00:00:21,510
+incluso cuando no cumplan con sus requisitos normales.
+
+22
+00:00:21,510 --> 00:00:21,520
+
+ 
+
+23
+00:00:21,520 --> 00:00:23,429
+
+Incluiré un enlace a ese video en la
+
+24
+00:00:23,429 --> 00:00:23,439
+Incluiré un enlace a ese video en la
+ 
+
+25
+00:00:23,439 --> 00:00:26,070
+Incluiré un enlace a ese video en la
+descripción. Los
+
+26
+00:00:26,070 --> 00:00:26,080
+
+ 
+
+27
+00:00:26,080 --> 00:00:28,390
+
+pergaminos son objetos mágicos consumibles que
+
+28
+00:00:28,390 --> 00:00:28,400
+pergaminos son objetos mágicos consumibles que
+ 
+
+29
+00:00:28,400 --> 00:00:30,470
+pergaminos son objetos mágicos consumibles que
+te permiten lanzar un hechizo sin usar
+
+30
+00:00:30,470 --> 00:00:30,480
+te permiten lanzar un hechizo sin usar
+ 
+
+31
+00:00:30,480 --> 00:00:31,830
+te permiten lanzar un hechizo sin usar
+una ranura de hechizo.
+
+32
+00:00:31,830 --> 00:00:31,840
+una ranura de hechizo.
+ 
+
+33
+00:00:31,840 --> 00:00:33,670
+una ranura de hechizo.
+Cada pergamino contiene un hechizo escrito
+
+34
+00:00:33,670 --> 00:00:33,680
+Cada pergamino contiene un hechizo escrito
+ 
+
+35
+00:00:33,680 --> 00:00:35,270
+Cada pergamino contiene un hechizo escrito
+en él y solo se
+
+36
+00:00:35,270 --> 00:00:35,280
+en él y solo se
+ 
+
+37
+00:00:35,280 --> 00:00:37,190
+en él y solo se
+pueden escribir hechizos normales en un
+
+38
+00:00:37,190 --> 00:00:37,200
+pueden escribir hechizos normales en un
+ 
+
+39
+00:00:37,200 --> 00:00:39,590
+pueden escribir hechizos normales en un
+pergamino, lo que significa que no puedes lanzar
+
+40
+00:00:39,590 --> 00:00:39,600
+pergamino, lo que significa que no puedes lanzar
+ 
+
+41
+00:00:39,600 --> 00:00:42,069
+pergamino, lo que significa que no puedes lanzar
+hechizos de enfoque de viajes del rey ni rituales con un pergamino.
+
+42
+00:00:42,069 --> 00:00:43,350
+hechizos de enfoque de viajes del rey ni rituales con un pergamino.
+ 
+
+43
+00:00:43,350 --> 00:00:43,360
+
+ 
+
+44
+00:00:43,360 --> 00:00:45,270
+
+El hechizo contenido dentro de una ardilla
+
+45
+00:00:45,270 --> 00:00:45,280
+El hechizo contenido dentro de una ardilla
+ 
+
+46
+00:00:45,280 --> 00:00:47,830
+El hechizo contenido dentro de una ardilla
+solo se puede lanzar al nivel especificado
+
+47
+00:00:47,830 --> 00:00:47,840
+solo se puede lanzar al nivel especificado
+ 
+
+48
+00:00:47,840 --> 00:00:49,670
+solo se puede lanzar al nivel especificado
+por el pergamino, que se indica en el
+
+49
+00:00:49,670 --> 00:00:49,680
+por el pergamino, que se indica en el
+ 
+
+50
+00:00:49,680 --> 00:00:50,869
+por el pergamino, que se indica en el
+nombre de la ardilla.
+
+51
+00:00:50,869 --> 00:00:50,879
+nombre de la ardilla.
+ 
+
+52
+00:00:50,879 --> 00:00:53,350
+nombre de la ardilla.
+Por ejemplo, un pergamino de bola de fuego de cuarto
+
+53
+00:00:53,350 --> 00:00:53,360
+Por ejemplo, un pergamino de bola de fuego de cuarto
+ 
+
+54
+00:00:53,360 --> 00:00:53,990
+Por ejemplo, un pergamino de bola de fuego de cuarto
+nivel se puede
+
+55
+00:00:53,990 --> 00:00:54,000
+nivel se puede
+ 
+
+56
+00:00:54,000 --> 00:00:56,229
+nivel se puede
+usar para lanzar un
+
+57
+00:00:56,229 --> 00:00:56,239
+usar para lanzar un
+ 
+
+58
+00:00:56,239 --> 00:00:59,510
+usar para lanzar un
+hechizo de bola de fuego de cuarto nivel y solo a ese nivel.
+
+59
+00:00:59,510 --> 00:00:59,520
+hechizo de bola de fuego de cuarto nivel y solo a ese nivel.
+ 
+
+60
+00:00:59,520 --> 00:01:01,349
+hechizo de bola de fuego de cuarto nivel y solo a ese nivel.
+No se podría usar para lanzar bola de fuego
+
+61
+00:01:01,349 --> 00:01:01,359
+No se podría usar para lanzar bola de fuego
+ 
+
+62
+00:01:01,359 --> 00:01:03,029
+No se podría usar para lanzar bola de fuego
+intensificada más alta que esa,
+
+63
+00:01:03,029 --> 00:01:03,039
+intensificada más alta que esa,
+ 
+
+64
+00:01:03,039 --> 00:01:05,350
+intensificada más alta que esa,
+incluso si normalmente puedes lanzar
+
+65
+00:01:05,350 --> 00:01:05,360
+incluso si normalmente puedes lanzar
+ 
+
+66
+00:01:05,360 --> 00:01:08,390
+incluso si normalmente puedes lanzar
+hechizos de bola de fuego de nivel superior tú mismo
+
+67
+00:01:08,390 --> 00:01:08,400
+hechizos de bola de fuego de nivel superior tú mismo
+ 
+
+68
+00:01:08,400 --> 00:01:10,469
+hechizos de bola de fuego de nivel superior tú mismo
+si no se especifica ningún nivel en el pergamino.
+
+69
+00:01:10,469 --> 00:01:10,479
+si no se especifica ningún nivel en el pergamino.
+ 
+
+70
+00:01:10,479 --> 00:01:11,990
+si no se especifica ningún nivel en el pergamino.
+nombre, entonces el pergamino se puede
+
+71
+00:01:11,990 --> 00:01:12,000
+nombre, entonces el pergamino se puede
+ 
+
+72
+00:01:12,000 --> 00:01:14,070
+nombre, entonces el pergamino se puede
+usar para lanzar la versión de nivel más bajo
+
+73
+00:01:14,070 --> 00:01:14,080
+usar para lanzar la versión de nivel más bajo
+ 
+
+74
+00:01:14,080 --> 00:01:15,109
+usar para lanzar la versión de nivel más bajo
+de su hechizo,
+
+75
+00:01:15,109 --> 00:01:15,119
+de su hechizo,
+ 
+
+76
+00:01:15,119 --> 00:01:17,749
+de su hechizo,
+por ejemplo, un pergamino de bola de fuego sin
+
+77
+00:01:17,749 --> 00:01:17,759
+por ejemplo, un pergamino de bola de fuego sin
+ 
+
+78
+00:01:17,759 --> 00:01:19,429
+por ejemplo, un pergamino de bola de fuego sin
+nivel listado en su nombre
+
+79
+00:01:19,429 --> 00:01:19,439
+nivel listado en su nombre
+ 
+
+80
+00:01:19,439 --> 00:01:21,670
+nivel listado en su nombre
+contiene un hechizo de bola de fuego de tercer nivel,
+
+81
+00:01:21,670 --> 00:01:21,680
+contiene un hechizo de bola de fuego de tercer nivel,
+ 
+
+82
+00:01:21,680 --> 00:01:23,749
+contiene un hechizo de bola de fuego de tercer nivel,
+ya que esa es la versión de nivel más bajo
+
+83
+00:01:23,749 --> 00:01:23,759
+ya que esa es la versión de nivel más bajo
+ 
+
+84
+00:01:23,759 --> 00:01:25,350
+ya que esa es la versión de nivel más bajo
+de bola de fuego.
+
+85
+00:01:25,350 --> 00:01:25,360
+de bola de fuego.
+ 
+
+86
+00:01:25,360 --> 00:01:27,109
+de bola de fuego.
+También tenga en cuenta que los pergaminos son
+
+87
+00:01:27,109 --> 00:01:27,119
+También tenga en cuenta que los pergaminos son
+ 
+
+88
+00:01:27,119 --> 00:01:28,710
+También tenga en cuenta que los pergaminos son
+artículos consumibles, lo que
+
+89
+00:01:28,710 --> 00:01:28,720
+artículos consumibles, lo que
+ 
+
+90
+00:01:28,720 --> 00:01:30,870
+artículos consumibles, lo que
+significa que la ardilla se destruye
+
+91
+00:01:30,870 --> 00:01:30,880
+significa que la ardilla se destruye
+ 
+
+92
+00:01:30,880 --> 00:01:33,830
+significa que la ardilla se destruye
+en el proceso de lanzar el hechizo.
+
+93
+00:01:33,830 --> 00:01:33,840
+en el proceso de lanzar el hechizo.
+ 
+
+94
+00:01:33,840 --> 00:01:36,149
+en el proceso de lanzar el hechizo.
+Lanzar un hechizo desde un pergamino funciona de la
+
+95
+00:01:36,149 --> 00:01:36,159
+Lanzar un hechizo desde un pergamino funciona de la
+ 
+
+96
+00:01:36,159 --> 00:01:37,830
+Lanzar un hechizo desde un pergamino funciona de la
+misma manera que lanzar hechizos
+
+97
+00:01:37,830 --> 00:01:37,840
+misma manera que lanzar hechizos
+ 
+
+98
+00:01:37,840 --> 00:01:38,630
+misma manera que lanzar hechizos
+normalmente,
+
+99
+00:01:38,630 --> 00:01:38,640
+normalmente,
+ 
+
+100
+00:01:38,640 --> 00:01:40,789
+normalmente,
+excepto que necesita sostener el pergamino en
+
+101
+00:01:40,789 --> 00:01:40,799
+excepto que necesita sostener el pergamino en
+ 
+
+102
+00:01:40,799 --> 00:01:41,749
+excepto que necesita sostener el pergamino en
+una mano, lo que
+
+103
+00:01:41,749 --> 00:01:41,759
+una mano, lo que
+ 
+
+104
+00:01:41,759 --> 00:01:43,590
+una mano, lo que
+significa que puede que necesite girar una acción
+
+105
+00:01:43,590 --> 00:01:43,600
+significa que puede que necesite girar una acción
+ 
+
+106
+00:01:43,600 --> 00:01:45,670
+significa que puede que necesite girar una acción
+para recuperar el pergamino antes de poder
+
+107
+00:01:45,670 --> 00:01:45,680
+para recuperar el pergamino antes de poder
+ 
+
+108
+00:01:45,680 --> 00:01:46,710
+para recuperar el pergamino antes de poder
+usarlo.
+
+109
+00:01:46,710 --> 00:01:46,720
+usarlo.
+ 
+
+110
+00:01:46,720 --> 00:01:48,710
+usarlo.
+Activar un pergamino es una aplicación de
+
+111
+00:01:48,710 --> 00:01:48,720
+Activar un pergamino es una aplicación de
+ 
+
+112
+00:01:48,720 --> 00:01:50,710
+Activar un pergamino es una aplicación de
+la actividad de lanzar un hechizo
+
+113
+00:01:50,710 --> 00:01:50,720
+la actividad de lanzar un hechizo
+ 
+
+114
+00:01:50,720 --> 00:01:53,109
+la actividad de lanzar un hechizo
+utiliza el mismo número de acciones que
+
+115
+00:01:53,109 --> 00:01:53,119
+utiliza el mismo número de acciones que
+ 
+
+116
+00:01:53,119 --> 00:01:55,109
+utiliza el mismo número de acciones que
+normalmente se requieren para lanzar el hechizo
+
+117
+00:01:55,109 --> 00:01:55,119
+normalmente se requieren para lanzar el hechizo
+ 
+
+118
+00:01:55,119 --> 00:01:57,670
+normalmente se requieren para lanzar el hechizo
+y para usar el pergamino, su hechizo
+
+119
+00:01:57,670 --> 00:01:57,680
+y para usar el pergamino, su hechizo
+ 
+
+120
+00:01:57,680 --> 00:01:58,550
+y para usar el pergamino, su hechizo
+debe aparecer
+
+121
+00:01:58,550 --> 00:01:58,560
+debe aparecer
+ 
+
+122
+00:01:58,560 --> 00:02:00,950
+debe aparecer
+en su lista de hechizos y tenga en cuenta que el
+
+123
+00:02:00,950 --> 00:02:00,960
+en su lista de hechizos y tenga en cuenta que el
+ 
+
+124
+00:02:00,960 --> 00:02:02,389
+en su lista de hechizos y tenga en cuenta que el
+único requisito
+
+125
+00:02:02,389 --> 00:02:02,399
+único requisito
+ 
+
+126
+00:02:02,399 --> 00:02:04,789
+único requisito
+es que aparezca en su lista de hechizos.
+
+127
+00:02:04,789 --> 00:02:04,799
+es que aparezca en su lista de hechizos.
+ 
+
+128
+00:02:04,799 --> 00:02:06,389
+es que aparezca en su lista de hechizos.
+No necesita ser un hechizo en su
+
+129
+00:02:06,389 --> 00:02:06,399
+No necesita ser un hechizo en su
+ 
+
+130
+00:02:06,399 --> 00:02:07,429
+No necesita ser un hechizo en su
+repertorio
+
+131
+00:02:07,429 --> 00:02:07,439
+repertorio
+ 
+
+132
+00:02:07,439 --> 00:02:09,109
+repertorio
+o un hechizo que tenga en su
+
+133
+00:02:09,109 --> 00:02:09,119
+o un hechizo que tenga en su
+ 
+
+134
+00:02:09,119 --> 00:02:10,630
+o un hechizo que tenga en su
+libro de hechizos o incluso ser
+
+135
+00:02:10,630 --> 00:02:10,640
+libro de hechizos o incluso ser
+ 
+
+136
+00:02:10,640 --> 00:02:12,550
+libro de hechizos o incluso ser
+un nivel de hechizo que sea capaz de
+
+137
+00:02:12,550 --> 00:02:12,560
+un nivel de hechizo que sea capaz de
+ 
+
+138
+00:02:12,560 --> 00:02:15,350
+un nivel de hechizo que sea capaz de
+lanzar, siempre que aparezca en su
+
+139
+00:02:15,350 --> 00:02:15,360
+lanzar, siempre que aparezca en su
+ 
+
+140
+00:02:15,360 --> 00:02:17,350
+lanzar, siempre que aparezca en su
+lista de hechizos, está listo para ir. Por cierto,
+
+141
+00:02:17,350 --> 00:02:17,360
+lista de hechizos, está listo para ir. Por cierto,
+ 
+
+142
+00:02:17,360 --> 00:02:19,510
+lista de hechizos, está listo para ir. Por cierto,
+este es un beneficio importante de
+
+143
+00:02:19,510 --> 00:02:19,520
+este es un beneficio importante de
+ 
+
+144
+00:02:19,520 --> 00:02:21,670
+este es un beneficio importante de
+gastar una tarifa para convertirse en multiclase en un
+
+145
+00:02:21,670 --> 00:02:21,680
+gastar una tarifa para convertirse en multiclase en un
+ 
+
+146
+00:02:21,680 --> 00:02:23,190
+gastar una tarifa para convertirse en multiclase en un
+clase lanzadora de conjuros,
+
+147
+00:02:23,190 --> 00:02:23,200
+clase lanzadora de conjuros,
+ 
+
+148
+00:02:23,200 --> 00:02:25,830
+clase lanzadora de conjuros,
+instantáneamente puedes usar pergaminos
+
+149
+00:02:25,830 --> 00:02:25,840
+instantáneamente puedes usar pergaminos
+ 
+
+150
+00:02:25,840 --> 00:02:26,790
+instantáneamente puedes usar pergaminos
+y varitas para
+
+151
+00:02:26,790 --> 00:02:26,800
+y varitas para
+ 
+
+152
+00:02:26,800 --> 00:02:29,110
+y varitas para
+todos los conjuros proporcionados por la
+
+153
+00:02:29,110 --> 00:02:29,120
+todos los conjuros proporcionados por la
+ 
+
+154
+00:02:29,120 --> 00:02:30,949
+todos los conjuros proporcionados por la
+lista de conjuros de esa clase,
+
+155
+00:02:30,949 --> 00:02:30,959
+lista de conjuros de esa clase,
+ 
+
+156
+00:02:30,959 --> 00:02:33,110
+lista de conjuros de esa clase,
+no se necesitan pagar componentes materiales ni otros costos
+
+157
+00:02:33,110 --> 00:02:33,120
+no se necesitan pagar componentes materiales ni otros costos
+ 
+
+158
+00:02:33,120 --> 00:02:35,509
+no se necesitan pagar componentes materiales ni otros costos
+cuando se usa un pergamino,
+
+159
+00:02:35,509 --> 00:02:35,519
+cuando se usa un pergamino,
+ 
+
+160
+00:02:35,519 --> 00:02:37,990
+cuando se usa un pergamino,
+pero si el conjuro requiere el uso de un
+
+161
+00:02:37,990 --> 00:02:38,000
+pero si el conjuro requiere el uso de un
+ 
+
+162
+00:02:38,000 --> 00:02:38,710
+pero si el conjuro requiere el uso de un
+foco,
+
+163
+00:02:38,710 --> 00:02:38,720
+foco,
+ 
+
+164
+00:02:38,720 --> 00:02:40,710
+foco,
+aún debes proporcionar ese foco
+
+165
+00:02:40,710 --> 00:02:40,720
+aún debes proporcionar ese foco
+ 
+
+166
+00:02:40,720 --> 00:02:43,270
+aún debes proporcionar ese foco
+para lanzar el conjuro de esa ardilla,
+
+167
+00:02:43,270 --> 00:02:43,280
+para lanzar el conjuro de esa ardilla,
+ 
+
+168
+00:02:43,280 --> 00:02:45,990
+para lanzar el conjuro de esa ardilla,
+por ejemplo, llama continua requiere seis
+
+169
+00:02:45,990 --> 00:02:46,000
+por ejemplo, llama continua requiere seis
+ 
+
+170
+00:02:46,000 --> 00:02:48,630
+por ejemplo, llama continua requiere seis
+piezas de oro en polvo de rubí para lanzarlo
+
+171
+00:02:48,630 --> 00:02:48,640
+piezas de oro en polvo de rubí para lanzarlo
+ 
+
+172
+00:02:48,640 --> 00:02:50,710
+piezas de oro en polvo de rubí para lanzarlo
+cuando se lanza el conjuro desde un pergamino de
+
+173
+00:02:50,710 --> 00:02:50,720
+cuando se lanza el conjuro desde un pergamino de
+ 
+
+174
+00:02:50,720 --> 00:02:51,830
+cuando se lanza el conjuro desde un pergamino de
+llama continua,
+
+175
+00:02:51,830 --> 00:02:51,840
+llama continua,
+ 
+
+176
+00:02:51,840 --> 00:02:53,670
+llama continua,
+no necesitas proporcionar este
+
+177
+00:02:53,670 --> 00:02:53,680
+no necesitas proporcionar este
+ 
+
+178
+00:02:53,680 --> 00:02:55,670
+no necesitas proporcionar este
+polvo de oro porque está listado
+
+179
+00:02:55,670 --> 00:02:55,680
+polvo de oro porque está listado
+ 
+
+180
+00:02:55,680 --> 00:02:59,030
+polvo de oro porque está listado
+como un costo, pero por otro lado,
+
+181
+00:02:59,030 --> 00:02:59,040
+como un costo, pero por otro lado,
+ 
+
+182
+00:02:59,040 --> 00:03:01,990
+como un costo, pero por otro lado,
+cambio de plano requiere el uso de un diapasón mágico
+
+183
+00:03:01,990 --> 00:03:02,000
+cambio de plano requiere el uso de un diapasón mágico
+ 
+
+184
+00:03:02,000 --> 00:03:03,030
+cambio de plano requiere el uso de un diapasón mágico
+como
+
+185
+00:03:03,030 --> 00:03:03,040
+como
+ 
+
+186
+00:03:03,040 --> 00:03:06,550
+como
+foco, ya que este es un foco y no un
+
+187
+00:03:06,550 --> 00:03:06,560
+foco, ya que este es un foco y no un
+ 
+
+188
+00:03:06,560 --> 00:03:09,350
+foco, ya que este es un foco y no un
+costo o componente material, debes
+
+189
+00:03:09,350 --> 00:03:09,360
+costo o componente material, debes
+ 
+
+190
+00:03:09,360 --> 00:03:11,350
+costo o componente material, debes
+proporcionar un diapasón mágico
+
+191
+00:03:11,350 --> 00:03:11,360
+proporcionar un diapasón mágico
+ 
+
+192
+00:03:11,360 --> 00:03:14,949
+proporcionar un diapasón mágico
+para usar un pergamino de cambio de plano
+
+193
+00:03:14,949 --> 00:03:14,959
+para usar un pergamino de cambio de plano
+ 
+
+194
+00:03:14,959 --> 00:03:17,270
+para usar un pergamino de cambio de plano
+también ten en cuenta que cuando usas un pergamino,
+
+195
+00:03:17,270 --> 00:03:17,280
+también ten en cuenta que cuando usas un pergamino,
+ 
+
+196
+00:03:17,280 --> 00:03:19,830
+también ten en cuenta que cuando usas un pergamino,
+ese conjuro obtiene el rasgo de tu tradición
+
+197
+00:03:19,830 --> 00:03:19,840
+ese conjuro obtiene el rasgo de tu tradición
+ 
+
+198
+00:03:19,840 --> 00:03:21,750
+ese conjuro obtiene el rasgo de tu tradición
+y, dado que eres quien lanza el conjuro, usas
+
+199
+00:03:21,750 --> 00:03:23,110
+y, dado que eres quien lanza el conjuro, usas
+ 
+
+200
+00:03:23,110 --> 00:03:23,120
+
+ 
+
+201
+00:03:23,120 --> 00:03:25,750
+
+tu bonificación de ataque de conjuro y tu CD de conjuro
+
+202
+00:03:25,750 --> 00:03:25,760
+tu bonificación de ataque de conjuro y tu CD de conjuro
+ 
+
+203
+00:03:25,760 --> 00:03:26,309
+tu bonificación de ataque de conjuro y tu CD de conjuro
+
+204
+00:03:26,309 --> 00:03:26,319
+
+ 
+
+205
+00:03:26,319 --> 00:03:31,190
+
+como de costumbre. A continuación, hablemos de las varitas, las varitas
+
+206
+00:03:31,190 --> 00:03:31,200
+como de costumbre. A continuación, hablemos de las varitas, las varitas
+ 
+
+207
+00:03:31,200 --> 00:03:33,430
+como de costumbre. A continuación, hablemos de las varitas, las varitas
+funcionan casi de manera idéntica a los
+
+208
+00:03:33,430 --> 00:03:33,440
+funcionan casi de manera idéntica a los
+ 
+
+209
+00:03:33,440 --> 00:03:34,470
+funcionan casi de manera idéntica a los
+pergaminos,
+
+210
+00:03:34,470 --> 00:03:34,480
+pergaminos,
+ 
+
+211
+00:03:34,480 --> 00:03:37,190
+pergaminos,
+usar A1 no consume un espacio de conjuro,
+
+212
+00:03:37,190 --> 00:03:37,200
+usar A1 no consume un espacio de conjuro,
+ 
+
+213
+00:03:37,200 --> 00:03:38,229
+usar A1 no consume un espacio de conjuro,
+cada una contiene un
+
+214
+00:03:38,229 --> 00:03:38,239
+cada una contiene un
+ 
+
+215
+00:03:38,239 --> 00:03:40,710
+cada una contiene un
+conjuro de un nivel determinado y solo puede
+
+216
+00:03:40,710 --> 00:03:40,720
+conjuro de un nivel determinado y solo puede
+ 
+
+217
+00:03:40,720 --> 00:03:41,750
+conjuro de un nivel determinado y solo puede
+ser  usado para lanzar
+
+218
+00:03:41,750 --> 00:03:41,760
+ser  usado para lanzar
+ 
+
+219
+00:03:41,760 --> 00:03:44,470
+ser  usado para lanzar
+ese hechizo a ese nivel solo se pueden
+
+220
+00:03:44,470 --> 00:03:44,480
+ese hechizo a ese nivel solo se pueden
+ 
+
+221
+00:03:44,480 --> 00:03:46,149
+ese hechizo a ese nivel solo se pueden
+lanzar hechizos regulares con varitas
+
+222
+00:03:46,149 --> 00:03:46,159
+lanzar hechizos regulares con varitas
+ 
+
+223
+00:03:46,159 --> 00:03:48,789
+lanzar hechizos regulares con varitas
+no se pueden hacer viajes hechizos de enfoque o rituales
+
+224
+00:03:48,789 --> 00:03:48,799
+no se pueden hacer viajes hechizos de enfoque o rituales
+ 
+
+225
+00:03:48,799 --> 00:03:50,149
+no se pueden hacer viajes hechizos de enfoque o rituales
+lanzar un hechizo con una varita
+
+226
+00:03:50,149 --> 00:03:50,159
+lanzar un hechizo con una varita
+ 
+
+227
+00:03:50,159 --> 00:03:52,229
+lanzar un hechizo con una varita
+requiere que la sostengas en una mano y
+
+228
+00:03:52,229 --> 00:03:52,239
+requiere que la sostengas en una mano y
+ 
+
+229
+00:03:52,239 --> 00:03:54,070
+requiere que la sostengas en una mano y
+gastes la misma cantidad de acciones que las que se
+
+230
+00:03:54,070 --> 00:03:54,080
+gastes la misma cantidad de acciones que las que se
+ 
+
+231
+00:03:54,080 --> 00:03:56,229
+gastes la misma cantidad de acciones que las que se
+necesitan normalmente para lanzar el hechizo
+
+232
+00:03:56,229 --> 00:03:56,239
+necesitan normalmente para lanzar el hechizo
+ 
+
+233
+00:03:56,239 --> 00:03:58,309
+necesitan normalmente para lanzar el hechizo
+para lanzar un hechizo con una varita su hechizo
+
+234
+00:03:58,309 --> 00:03:58,319
+para lanzar un hechizo con una varita su hechizo
+ 
+
+235
+00:03:58,319 --> 00:04:00,149
+para lanzar un hechizo con una varita su hechizo
+debe estar en tu lista de hechizos
+
+236
+00:04:00,149 --> 00:04:00,159
+debe estar en tu lista de hechizos
+ 
+
+237
+00:04:00,159 --> 00:04:02,309
+debe estar en tu lista de hechizos
+como con los pergaminos el nivel del hechizo
+
+238
+00:04:02,309 --> 00:04:02,319
+como con los pergaminos el nivel del hechizo
+ 
+
+239
+00:04:02,319 --> 00:04:03,350
+como con los pergaminos el nivel del hechizo
+no importa lo único
+
+240
+00:04:03,350 --> 00:04:03,360
+no importa lo único
+ 
+
+241
+00:04:03,360 --> 00:04:05,350
+no importa lo único
+que importa es que esté en tu
+
+242
+00:04:05,350 --> 00:04:05,360
+que importa es que esté en tu
+ 
+
+243
+00:04:05,360 --> 00:04:06,869
+que importa es que esté en tu
+lista de hechizos
+
+244
+00:04:06,869 --> 00:04:06,879
+lista de hechizos
+ 
+
+245
+00:04:06,879 --> 00:04:08,789
+lista de hechizos
+lanzar un hechizo con una varita no requiere
+
+246
+00:04:08,789 --> 00:04:08,799
+lanzar un hechizo con una varita no requiere
+ 
+
+247
+00:04:08,799 --> 00:04:10,710
+lanzar un hechizo con una varita no requiere
+componentes materiales o costes
+
+248
+00:04:10,710 --> 00:04:10,720
+componentes materiales o costes
+ 
+
+249
+00:04:10,720 --> 00:04:13,110
+componentes materiales o costes
+pero aun así debes proporcionar cualquier enfoque que
+
+250
+00:04:13,110 --> 00:04:13,120
+pero aun así debes proporcionar cualquier enfoque que
+ 
+
+251
+00:04:13,120 --> 00:04:14,550
+pero aun así debes proporcionar cualquier enfoque que
+requiera el hechizo
+
+252
+00:04:14,550 --> 00:04:14,560
+requiera el hechizo
+ 
+
+253
+00:04:14,560 --> 00:04:17,030
+requiera el hechizo
+y cuando lanzas usando una varita usas
+
+254
+00:04:17,030 --> 00:04:17,040
+y cuando lanzas usando una varita usas
+ 
+
+255
+00:04:17,040 --> 00:04:19,110
+y cuando lanzas usando una varita usas
+tu bonificación de ataque de hechizo y tu
+
+256
+00:04:19,110 --> 00:04:19,120
+tu bonificación de ataque de hechizo y tu
+ 
+
+257
+00:04:19,120 --> 00:04:21,030
+tu bonificación de ataque de hechizo y tu
+CD de hechizo como siempre
+
+258
+00:04:21,030 --> 00:04:21,040
+CD de hechizo como siempre
+ 
+
+259
+00:04:21,040 --> 00:04:23,430
+CD de hechizo como siempre
+todo eso es territorio familiar
+
+260
+00:04:23,430 --> 00:04:23,440
+todo eso es territorio familiar
+ 
+
+261
+00:04:23,440 --> 00:04:25,510
+todo eso es territorio familiar
+realmente solo hay una forma en que las varitas
+
+262
+00:04:25,510 --> 00:04:25,520
+realmente solo hay una forma en que las varitas
+ 
+
+263
+00:04:25,520 --> 00:04:27,430
+realmente solo hay una forma en que las varitas
+son diferentes de los pergaminos los
+
+264
+00:04:27,430 --> 00:04:27,440
+son diferentes de los pergaminos los
+ 
+
+265
+00:04:27,440 --> 00:04:30,070
+son diferentes de los pergaminos los
+pergaminos se consumen y destruyen después de ser
+
+266
+00:04:30,070 --> 00:04:30,080
+pergaminos se consumen y destruyen después de ser
+ 
+
+267
+00:04:30,080 --> 00:04:31,110
+pergaminos se consumen y destruyen después de ser
+usados
+
+268
+00:04:31,110 --> 00:04:31,120
+usados
+ 
+
+269
+00:04:31,120 --> 00:04:34,629
+usados
+y las varitas no en cambio uno puede
+
+270
+00:04:34,629 --> 00:04:34,639
+y las varitas no en cambio uno puede
+ 
+
+271
+00:04:34,639 --> 00:04:36,070
+y las varitas no en cambio uno puede
+usarse para lanzar su hechizo
+
+272
+00:04:36,070 --> 00:04:36,080
+usarse para lanzar su hechizo
+ 
+
+273
+00:04:36,080 --> 00:04:38,550
+usarse para lanzar su hechizo
+una vez por día de aventuras sin ningún
+
+274
+00:04:38,550 --> 00:04:38,560
+una vez por día de aventuras sin ningún
+ 
+
+275
+00:04:38,560 --> 00:04:39,350
+una vez por día de aventuras sin ningún
+riesgo
+
+276
+00:04:39,350 --> 00:04:39,360
+riesgo
+ 
+
+277
+00:04:39,360 --> 00:04:41,590
+riesgo
+y puede sobrecargarse para lanzar un
+
+278
+00:04:41,590 --> 00:04:41,600
+y puede sobrecargarse para lanzar un
+ 
+
+279
+00:04:41,600 --> 00:04:43,749
+y puede sobrecargarse para lanzar un
+hechizo una segunda vez ese día
+
+280
+00:04:43,749 --> 00:04:43,759
+hechizo una segunda vez ese día
+ 
+
+281
+00:04:43,759 --> 00:04:46,469
+hechizo una segunda vez ese día
+con el riesgo de destruirlo por
+
+282
+00:04:46,469 --> 00:04:46,479
+con el riesgo de destruirlo por
+ 
+
+283
+00:04:46,479 --> 00:04:48,230
+con el riesgo de destruirlo por
+sobrecarga puedes usar una varita
+
+284
+00:04:48,230 --> 00:04:48,240
+sobrecarga puedes usar una varita
+ 
+
+285
+00:04:48,240 --> 00:04:51,189
+sobrecarga puedes usar una varita
+dos veces al día pero después del segundo
+
+286
+00:04:51,189 --> 00:04:51,199
+dos veces al día pero después del segundo
+ 
+
+287
+00:04:51,199 --> 00:04:53,990
+dos veces al día pero después del segundo
+lanzamiento necesitas tirar un  Comprobación plana de dc-10,
+
+288
+00:04:53,990 --> 00:04:54,000
+lanzamiento necesitas tirar un  Comprobación plana de dc-10,
+ 
+
+289
+00:04:54,000 --> 00:04:54,629
+lanzamiento necesitas tirar un  Comprobación plana de dc-10,
+
+290
+00:04:54,629 --> 00:04:54,639
+
+ 
+
+291
+00:04:54,639 --> 00:04:57,350
+
+solo una tirada directa de d20 sin
+
+292
+00:04:57,350 --> 00:04:57,360
+solo una tirada directa de d20 sin
+ 
+
+293
+00:04:57,360 --> 00:04:59,110
+solo una tirada directa de d20 sin
+modificadores en absoluto,
+
+294
+00:04:59,110 --> 00:04:59,120
+modificadores en absoluto,
+ 
+
+295
+00:04:59,120 --> 00:05:01,510
+modificadores en absoluto,
+así que confías en nada más que la suerte
+
+296
+00:05:01,510 --> 00:05:01,520
+así que confías en nada más que la suerte
+ 
+
+297
+00:05:01,520 --> 00:05:02,390
+así que confías en nada más que la suerte
+aquí,
+
+298
+00:05:02,390 --> 00:05:02,400
+aquí,
+ 
+
+299
+00:05:02,400 --> 00:05:05,270
+aquí,
+independientemente del resultado, lanzas el
+
+300
+00:05:05,270 --> 00:05:05,280
+independientemente del resultado, lanzas el
+ 
+
+301
+00:05:05,280 --> 00:05:05,749
+independientemente del resultado, lanzas el
+hechizo
+
+302
+00:05:05,749 --> 00:05:05,759
+hechizo
+ 
+
+303
+00:05:05,759 --> 00:05:07,990
+hechizo
+y lo resuelves normalmente, no
+
+304
+00:05:07,990 --> 00:05:08,000
+y lo resuelves normalmente, no
+ 
+
+305
+00:05:08,000 --> 00:05:08,790
+y lo resuelves normalmente, no
+realizarás esta comprobación
+
+306
+00:05:08,790 --> 00:05:08,800
+realizarás esta comprobación
+ 
+
+307
+00:05:08,800 --> 00:05:11,990
+realizarás esta comprobación
+hasta después de que se resuelva el hechizo si tienes
+
+308
+00:05:11,990 --> 00:05:12,000
+hasta después de que se resuelva el hechizo si tienes
+ 
+
+309
+00:05:12,000 --> 00:05:14,550
+hasta después de que se resuelva el hechizo si tienes
+éxito sacando un 10 a un 20 en
+
+310
+00:05:14,550 --> 00:05:14,560
+éxito sacando un 10 a un 20 en
+ 
+
+311
+00:05:14,560 --> 00:05:15,350
+éxito sacando un 10 a un 20 en
+el dado,
+
+312
+00:05:15,350 --> 00:05:15,360
+el dado,
+ 
+
+313
+00:05:15,360 --> 00:05:17,830
+el dado,
+la varita obtiene la condición rota
+
+314
+00:05:17,830 --> 00:05:17,840
+la varita obtiene la condición rota
+ 
+
+315
+00:05:17,840 --> 00:05:18,790
+la varita obtiene la condición rota
+después, así es,
+
+316
+00:05:18,790 --> 00:05:18,800
+después, así es,
+ 
+
+317
+00:05:18,800 --> 00:05:21,909
+después, así es,
+un éxito significa que rompes
+
+318
+00:05:21,909 --> 00:05:21,919
+un éxito significa que rompes
+ 
+
+319
+00:05:21,919 --> 00:05:23,270
+un éxito significa que rompes
+la varita
+
+320
+00:05:23,270 --> 00:05:23,280
+la varita
+ 
+
+321
+00:05:23,280 --> 00:05:26,070
+la varita
+y si sientes la comprobación sacando un
+
+322
+00:05:26,070 --> 00:05:26,080
+y si sientes la comprobación sacando un
+ 
+
+323
+00:05:26,080 --> 00:05:27,749
+y si sientes la comprobación sacando un
+1 a un 9 en el dado,
+
+324
+00:05:27,749 --> 00:05:27,759
+1 a un 9 en el dado,
+ 
+
+325
+00:05:27,759 --> 00:05:30,870
+1 a un 9 en el dado,
+entonces la varita está completamente destruida
+
+326
+00:05:30,870 --> 00:05:30,880
+entonces la varita está completamente destruida
+ 
+
+327
+00:05:30,880 --> 00:05:33,350
+entonces la varita está completamente destruida
+y nuevamente, estas comprobaciones ocurren después de que
+
+328
+00:05:33,350 --> 00:05:33,360
+y nuevamente, estas comprobaciones ocurren después de que
+ 
+
+329
+00:05:33,360 --> 00:05:35,350
+y nuevamente, estas comprobaciones ocurren después de que
+se resuelva el lanzamiento, así que no importa qué,
+
+330
+00:05:35,350 --> 00:05:35,360
+se resuelva el lanzamiento, así que no importa qué,
+ 
+
+331
+00:05:35,360 --> 00:05:38,150
+se resuelva el lanzamiento, así que no importa qué,
+obtendrás el segundo hechizo y
+
+332
+00:05:38,150 --> 00:05:38,160
+obtendrás el segundo hechizo y
+ 
+
+333
+00:05:38,160 --> 00:05:39,189
+obtendrás el segundo hechizo y
+luego necesitas ver
+
+334
+00:05:39,189 --> 00:05:39,199
+luego necesitas ver
+ 
+
+335
+00:05:39,199 --> 00:05:41,110
+luego necesitas ver
+si simplemente rompió o
+
+336
+00:05:41,110 --> 00:05:41,120
+si simplemente rompió o
+ 
+
+337
+00:05:41,120 --> 00:05:43,590
+si simplemente rompió o
+destruyó completamente la varita en el proceso.
+
+338
+00:05:43,590 --> 00:05:43,600
+destruyó completamente la varita en el proceso.
+ 
+
+339
+00:05:43,600 --> 00:05:45,670
+destruyó completamente la varita en el proceso.
+La diferencia entre estar roto y
+
+340
+00:05:45,670 --> 00:05:45,680
+La diferencia entre estar roto y
+ 
+
+341
+00:05:45,680 --> 00:05:46,870
+La diferencia entre estar roto y
+ser destruido
+
+342
+00:05:46,870 --> 00:05:46,880
+ser destruido
+ 
+
+343
+00:05:46,880 --> 00:05:49,990
+ser destruido
+es que una varita rota aún puede repararse.
+
+344
+00:05:49,990 --> 00:05:50,000
+es que una varita rota aún puede repararse.
+ 
+
+345
+00:05:50,000 --> 00:05:52,230
+es que una varita rota aún puede repararse.
+No he visto estadísticas específicas dadas para las
+
+346
+00:05:52,230 --> 00:05:52,240
+No he visto estadísticas específicas dadas para las
+ 
+
+347
+00:05:52,240 --> 00:05:55,430
+No he visto estadísticas específicas dadas para las
+varitas, pero la tabla en la página 577
+
+348
+00:05:55,430 --> 00:05:55,440
+varitas, pero la tabla en la página 577
+ 
+
+349
+00:05:55,440 --> 00:05:58,070
+varitas, pero la tabla en la página 577
+dice que la madera delgada tiene 12 puntos de golpe
+
+350
+00:05:58,070 --> 00:05:58,080
+dice que la madera delgada tiene 12 puntos de golpe
+ 
+
+351
+00:05:58,080 --> 00:06:00,469
+dice que la madera delgada tiene 12 puntos de golpe
+y un umbral de rotura de 6.
+
+352
+00:06:00,469 --> 00:06:00,479
+y un umbral de rotura de 6.
+ 
+
+353
+00:06:00,479 --> 00:06:03,189
+y un umbral de rotura de 6.
+Entonces, romper la varita después de sobrecargarla
+
+354
+00:06:03,189 --> 00:06:03,199
+Entonces, romper la varita después de sobrecargarla
+ 
+
+355
+00:06:03,199 --> 00:06:05,430
+Entonces, romper la varita después de sobrecargarla
+probablemente reduce el 1 a solo seis
+
+356
+00:06:05,430 --> 00:06:05,440
+probablemente reduce el 1 a solo seis
+ 
+
+357
+00:06:05,440 --> 00:06:06,469
+probablemente reduce el 1 a solo seis
+puntos de golpe restantes
+
+358
+00:06:06,469 --> 00:06:06,479
+puntos de golpe restantes
+ 
+
+359
+00:06:06,479 --> 00:06:08,870
+puntos de golpe restantes
+y luego necesitaría ser reparada.
+
+360
+00:06:08,870 --> 00:06:08,880
+y luego necesitaría ser reparada.
+ 
+
+361
+00:06:08,880 --> 00:06:10,870
+y luego necesitaría ser reparada.
+Probablemente usando la habilidad de artesanía
+
+362
+00:06:10,870 --> 00:06:10,880
+Probablemente usando la habilidad de artesanía
+ 
+
+363
+00:06:10,880 --> 00:06:12,950
+Probablemente usando la habilidad de artesanía
+que usaría el nivel del objeto para
+
+364
+00:06:12,950 --> 00:06:12,960
+que usaría el nivel del objeto para
+ 
+
+365
+00:06:12,960 --> 00:06:15,110
+que usaría el nivel del objeto para
+determinar las comprobaciones de CC. Tenga en cuenta
+
+366
+00:06:15,110 --> 00:06:15,120
+determinar las comprobaciones de CC. Tenga en cuenta
+ 
+
+367
+00:06:15,120 --> 00:06:17,909
+determinar las comprobaciones de CC. Tenga en cuenta
+que el hechizo de reparación solo se dirige a
+
+368
+00:06:17,909 --> 00:06:17,919
+que el hechizo de reparación solo se dirige a
+ 
+
+369
+00:06:17,919 --> 00:06:19,189
+que el hechizo de reparación solo se dirige a
+objetos no mágicos
+
+370
+00:06:19,189 --> 00:06:19,199
+objetos no mágicos
+ 
+
+371
+00:06:19,199 --> 00:06:21,270
+objetos no mágicos
+y, por lo tanto, no podría usarse para
+
+372
+00:06:21,270 --> 00:06:21,280
+y, por lo tanto, no podría usarse para
+ 
+
+373
+00:06:21,280 --> 00:06:23,350
+y, por lo tanto, no podría usarse para
+reparar una varita rota
+
+374
+00:06:23,350 --> 00:06:23,360
+reparar una varita rota
+ 
+
+375
+00:06:23,360 --> 00:06:26,070
+reparar una varita rota
+y si alguien intenta usar una varita por
+
+376
+00:06:26,070 --> 00:06:26,080
+y si alguien intenta usar una varita por
+ 
+
+377
+00:06:26,080 --> 00:06:27,189
+y si alguien intenta usar una varita por
+tercera vez
+
+378
+00:06:27,189 --> 00:06:27,199
+tercera vez
+ 
+
+379
+00:06:27,199 --> 00:06:29,830
+tercera vez
+durante el mismo día, incluso si se
+
+380
+00:06:29,830 --> 00:06:29,840
+durante el mismo día, incluso si se
+ 
+
+381
+00:06:29,840 --> 00:06:30,390
+durante el mismo día, incluso si se
+rompió
+
+382
+00:06:30,390 --> 00:06:30,400
+rompió
+ 
+
+383
+00:06:30,400 --> 00:06:33,189
+rompió
+y reparó ese mismo día, la
+
+384
+00:06:33,189 --> 00:06:33,199
+y reparó ese mismo día, la
+ 
+
+385
+00:06:33,199 --> 00:06:35,590
+y reparó ese mismo día, la
+varita se destruye inmediatamente y el
+
+386
+00:06:35,590 --> 00:06:35,600
+varita se destruye inmediatamente y el
+ 
+
+387
+00:06:35,600 --> 00:06:36,070
+varita se destruye inmediatamente y el
+hechizo
+
+388
+00:06:36,070 --> 00:06:36,080
+hechizo
+ 
+
+389
+00:06:36,080 --> 00:06:39,270
+hechizo
+no se lanza todas las mañanas después de las preparaciones diarias.
+
+390
+00:06:39,270 --> 00:06:39,280
+no se lanza todas las mañanas después de las preparaciones diarias.
+ 
+
+391
+00:06:39,280 --> 00:06:40,309
+no se lanza todas las mañanas después de las preparaciones diarias.
+
+392
+00:06:40,309 --> 00:06:40,319
+
+ 
+
+393
+00:06:40,319 --> 00:06:42,950
+
+Esto se reinicia y la varita puede
+
+394
+00:06:42,950 --> 00:06:42,960
+Esto se reinicia y la varita puede
+ 
+
+395
+00:06:42,960 --> 00:06:43,430
+Esto se reinicia y la varita puede
+lanzarse
+
+396
+00:06:43,430 --> 00:06:43,440
+lanzarse
+ 
+
+397
+00:06:43,440 --> 00:06:46,710
+lanzarse
+una vez ese día de manera segura nuevamente.
+
+398
+00:06:46,710 --> 00:06:46,720
+una vez ese día de manera segura nuevamente.
+ 
+
+399
+00:06:46,720 --> 00:06:48,790
+una vez ese día de manera segura nuevamente.
+También tenga en cuenta que, además de las
+
+400
+00:06:48,790 --> 00:06:48,800
+También tenga en cuenta que, además de las
+ 
+
+401
+00:06:48,800 --> 00:06:50,469
+También tenga en cuenta que, además de las
+varitas mágicas normales como las que hemos discutido
+
+402
+00:06:50,469 --> 00:06:50,479
+varitas mágicas normales como las que hemos discutido
+ 
+
+403
+00:06:50,479 --> 00:06:51,270
+varitas mágicas normales como las que hemos discutido
+hasta ahora,
+
+404
+00:06:51,270 --> 00:06:51,280
+hasta ahora,
+ 
+
+405
+00:06:51,280 --> 00:06:53,510
+hasta ahora,
+también existen varitas especiales como
+
+406
+00:06:53,510 --> 00:06:53,520
+también existen varitas especiales como
+ 
+
+407
+00:06:53,520 --> 00:06:55,749
+también existen varitas especiales como
+las que se encuentran en la página 598.
+
+408
+00:06:55,749 --> 00:06:55,759
+las que se encuentran en la página 598.
+ 
+
+409
+00:06:55,759 --> 00:06:58,070
+las que se encuentran en la página 598.
+Estas varitas funcionan igual que las normales
+
+410
+00:06:58,070 --> 00:06:58,080
+Estas varitas funcionan igual que las normales
+ 
+
+411
+00:06:58,080 --> 00:06:59,670
+Estas varitas funcionan igual que las normales
+en la mayoría de los aspectos,
+
+412
+00:06:59,670 --> 00:06:59,680
+en la mayoría de los aspectos,
+ 
+
+413
+00:06:59,680 --> 00:07:01,189
+en la mayoría de los aspectos,
+incluido que son capaces de
+
+414
+00:07:01,189 --> 00:07:01,199
+incluido que son capaces de
+ 
+
+415
+00:07:01,199 --> 00:07:03,670
+incluido que son capaces de
+lanzar un solo hechizo específico
+
+416
+00:07:03,670 --> 00:07:03,680
+lanzar un solo hechizo específico
+ 
+
+417
+00:07:03,680 --> 00:07:05,830
+lanzar un solo hechizo específico
+a un nivel específico de forma gratuita una vez al
+
+418
+00:07:05,830 --> 00:07:05,840
+a un nivel específico de forma gratuita una vez al
+ 
+
+419
+00:07:05,840 --> 00:07:08,710
+a un nivel específico de forma gratuita una vez al
+día y se pueden sobrecargar para un segundo
+
+420
+00:07:08,710 --> 00:07:08,720
+día y se pueden sobrecargar para un segundo
+ 
+
+421
+00:07:08,720 --> 00:07:09,670
+día y se pueden sobrecargar para un segundo
+uso por día,
+
+422
+00:07:09,670 --> 00:07:09,680
+uso por día,
+ 
+
+423
+00:07:09,680 --> 00:07:11,510
+uso por día,
+pero cada varita especial aplica un
+
+424
+00:07:11,510 --> 00:07:11,520
+pero cada varita especial aplica un
+ 
+
+425
+00:07:11,520 --> 00:07:13,670
+pero cada varita especial aplica un
+efecto adicional a cómo se lanza su hechizo,
+
+426
+00:07:13,670 --> 00:07:13,680
+efecto adicional a cómo se lanza su hechizo,
+ 
+
+427
+00:07:13,680 --> 00:07:14,629
+efecto adicional a cómo se lanza su hechizo,
+
+428
+00:07:14,629 --> 00:07:14,639
+
+ 
+
+429
+00:07:14,639 --> 00:07:17,670
+
+por ejemplo, las de ensanchamiento tienen cada una un
+
+430
+00:07:17,670 --> 00:07:17,680
+por ejemplo, las de ensanchamiento tienen cada una un
+ 
+
+431
+00:07:17,680 --> 00:07:19,909
+por ejemplo, las de ensanchamiento tienen cada una un
+solo hechizo de un nivel específico dentro de
+
+432
+00:07:19,909 --> 00:07:19,919
+solo hechizo de un nivel específico dentro de
+ 
+
+433
+00:07:19,919 --> 00:07:20,390
+solo hechizo de un nivel específico dentro de
+ellas, al igual que
+
+434
+00:07:20,390 --> 00:07:20,400
+ellas, al igual que
+ 
+
+435
+00:07:20,400 --> 00:07:23,350
+ellas, al igual que
+una varita mágica normal, pero
+
+436
+00:07:23,350 --> 00:07:23,360
+una varita mágica normal, pero
+ 
+
+437
+00:07:23,360 --> 00:07:24,230
+una varita mágica normal, pero
+cuando lanzas
+
+438
+00:07:24,230 --> 00:07:24,240
+cuando lanzas
+ 
+
+439
+00:07:24,240 --> 00:07:26,629
+cuando lanzas
+ese hechizo con una varita de  ensanchamiento
+
+440
+00:07:26,629 --> 00:07:26,639
+ese hechizo con una varita de  ensanchamiento
+ 
+
+441
+00:07:26,639 --> 00:07:28,790
+ese hechizo con una varita de  ensanchamiento
+tiene un efecto adicional
+
+442
+00:07:28,790 --> 00:07:28,800
+tiene un efecto adicional
+ 
+
+443
+00:07:28,800 --> 00:07:30,870
+tiene un efecto adicional
+por ejemplo una varita de
+
+444
+00:07:30,870 --> 00:07:30,880
+por ejemplo una varita de
+ 
+
+445
+00:07:30,880 --> 00:07:32,150
+por ejemplo una varita de
+ensanchamiento de rayo puede lanzar
+
+446
+00:07:32,150 --> 00:07:32,160
+ensanchamiento de rayo puede lanzar
+ 
+
+447
+00:07:32,160 --> 00:07:34,070
+ensanchamiento de rayo puede lanzar
+rayo a tercer nivel una vez al
+
+448
+00:07:34,070 --> 00:07:34,080
+rayo a tercer nivel una vez al
+ 
+
+449
+00:07:34,080 --> 00:07:35,909
+rayo a tercer nivel una vez al
+día sin girar un espacio de hechizo
+
+450
+00:07:35,909 --> 00:07:35,919
+día sin girar un espacio de hechizo
+ 
+
+451
+00:07:35,919 --> 00:07:38,070
+día sin girar un espacio de hechizo
+pero cuando lo haces giras tres
+
+452
+00:07:38,070 --> 00:07:38,080
+pero cuando lo haces giras tres
+ 
+
+453
+00:07:38,080 --> 00:07:39,430
+pero cuando lo haces giras tres
+acciones en lugar de dos
+
+454
+00:07:39,430 --> 00:07:39,440
+acciones en lugar de dos
+ 
+
+455
+00:07:39,440 --> 00:07:41,189
+acciones en lugar de dos
+y la longitud de la
+
+456
+00:07:41,189 --> 00:07:41,199
+y la longitud de la
+ 
+
+457
+00:07:41,199 --> 00:07:43,830
+y la longitud de la
+línea del rayo aumenta en 10 pies
+
+458
+00:07:43,830 --> 00:07:43,840
+línea del rayo aumenta en 10 pies
+ 
+
+459
+00:07:43,840 --> 00:07:46,150
+línea del rayo aumenta en 10 pies
+esencialmente esta varita te permite aplicar los
+
+460
+00:07:46,150 --> 00:07:46,160
+esencialmente esta varita te permite aplicar los
+ 
+
+461
+00:07:46,160 --> 00:07:48,070
+esencialmente esta varita te permite aplicar los
+pies metamágicos del hechizo ensanchamiento
+
+462
+00:07:48,070 --> 00:07:48,080
+pies metamágicos del hechizo ensanchamiento
+ 
+
+463
+00:07:48,080 --> 00:07:50,150
+pies metamágicos del hechizo ensanchamiento
+al lanzamiento de rayo pero
+
+464
+00:07:50,150 --> 00:07:50,160
+al lanzamiento de rayo pero
+ 
+
+465
+00:07:50,160 --> 00:07:51,830
+al lanzamiento de rayo pero
+solo a ese hechizo
+
+466
+00:07:51,830 --> 00:07:51,840
+solo a ese hechizo
+ 
+
+467
+00:07:51,840 --> 00:07:54,150
+solo a ese hechizo
+de ese nivel en una vez al día
+
+468
+00:07:54,150 --> 00:07:54,160
+de ese nivel en una vez al día
+ 
+
+469
+00:07:54,160 --> 00:07:55,510
+de ese nivel en una vez al día
+no podrías usar esta varita
+
+470
+00:07:55,510 --> 00:07:55,520
+no podrías usar esta varita
+ 
+
+471
+00:07:55,520 --> 00:07:57,670
+no podrías usar esta varita
+para aplicar el efecto de ensanchamiento a ningún
+
+472
+00:07:57,670 --> 00:07:57,680
+para aplicar el efecto de ensanchamiento a ningún
+ 
+
+473
+00:07:57,680 --> 00:07:58,629
+para aplicar el efecto de ensanchamiento a ningún
+otro hechizo
+
+474
+00:07:58,629 --> 00:07:58,639
+otro hechizo
+ 
+
+475
+00:07:58,639 --> 00:08:00,790
+otro hechizo
+incluido tu propio lanzamiento de rayo
+
+476
+00:08:00,790 --> 00:08:00,800
+incluido tu propio lanzamiento de rayo
+ 
+
+477
+00:08:00,800 --> 00:08:03,029
+incluido tu propio lanzamiento de rayo
+incluso si gastas uno de tus
+
+478
+00:08:03,029 --> 00:08:03,039
+incluso si gastas uno de tus
+ 
+
+479
+00:08:03,039 --> 00:08:04,710
+incluso si gastas uno de tus
+espacios de hechizo para hacerlo las
+
+480
+00:08:04,710 --> 00:08:04,720
+espacios de hechizo para hacerlo las
+ 
+
+481
+00:08:04,720 --> 00:08:06,550
+espacios de hechizo para hacerlo las
+varitas de continuación y varitas de
+
+482
+00:08:06,550 --> 00:08:06,560
+varitas de continuación y varitas de
+ 
+
+483
+00:08:06,560 --> 00:08:08,790
+varitas de continuación y varitas de
+blanqueamiento se pueden crear para lanzar cualquier
+
+484
+00:08:08,790 --> 00:08:08,800
+blanqueamiento se pueden crear para lanzar cualquier
+ 
+
+485
+00:08:08,800 --> 00:08:10,790
+blanqueamiento se pueden crear para lanzar cualquier
+hechizo que cumpla con sus requisitos
+
+486
+00:08:10,790 --> 00:08:10,800
+hechizo que cumpla con sus requisitos
+ 
+
+487
+00:08:10,800 --> 00:08:13,350
+hechizo que cumpla con sus requisitos
+otras especialidades solo se pueden usar para
+
+488
+00:08:13,350 --> 00:08:13,360
+otras especialidades solo se pueden usar para
+ 
+
+489
+00:08:13,360 --> 00:08:13,830
+otras especialidades solo se pueden usar para
+lanzar
+
+490
+00:08:13,830 --> 00:08:13,840
+lanzar
+ 
+
+491
+00:08:13,840 --> 00:08:16,309
+lanzar
+un hechizo específico como se detalla en su
+
+492
+00:08:16,309 --> 00:08:16,319
+un hechizo específico como se detalla en su
+ 
+
+493
+00:08:16,319 --> 00:08:17,510
+un hechizo específico como se detalla en su
+descripción las
+
+494
+00:08:17,510 --> 00:08:17,520
+descripción las
+ 
+
+495
+00:08:17,520 --> 00:08:19,830
+descripción las
+varitas de misiles múltiples solo lanzan
+
+496
+00:08:19,830 --> 00:08:19,840
+varitas de misiles múltiples solo lanzan
+ 
+
+497
+00:08:19,840 --> 00:08:20,790
+varitas de misiles múltiples solo lanzan
+proyectil mágico
+
+498
+00:08:20,790 --> 00:08:20,800
+proyectil mágico
+ 
+
+499
+00:08:20,800 --> 00:08:22,790
+proyectil mágico
+y las varitas de bolas de fuego humeantes solo
+
+500
+00:08:22,790 --> 00:08:22,800
+y las varitas de bolas de fuego humeantes solo
+ 
+
+501
+00:08:22,800 --> 00:08:23,990
+y las varitas de bolas de fuego humeantes solo
+lanzan bola de fuego
+
+502
+00:08:23,990 --> 00:08:24,000
+lanzan bola de fuego
+ 
+
+503
+00:08:24,000 --> 00:08:26,230
+lanzan bola de fuego
+pero cuando lanzan esos hechizos lo hacen
+
+504
+00:08:26,230 --> 00:08:26,240
+pero cuando lanzan esos hechizos lo hacen
+ 
+
+505
+00:08:26,240 --> 00:08:27,909
+pero cuando lanzan esos hechizos lo hacen
+con un efecto adicional
+
+506
+00:08:27,909 --> 00:08:27,919
+con un efecto adicional
+ 
+
+507
+00:08:27,919 --> 00:08:30,790
+con un efecto adicional
+por ejemplo las varitas de jerga solo pueden lanzar
+
+508
+00:08:30,790 --> 00:08:30,800
+por ejemplo las varitas de jerga solo pueden lanzar
+ 
+
+509
+00:08:30,800 --> 00:08:32,070
+por ejemplo las varitas de jerga solo pueden lanzar
+dedo de la muerte
+
+510
+00:08:32,070 --> 00:08:32,080
+dedo de la muerte
+ 
+
+511
+00:08:32,080 --> 00:08:34,550
+dedo de la muerte
+pero si ese lanzamiento mata a su objetivo
+
+512
+00:08:34,550 --> 00:08:34,560
+pero si ese lanzamiento mata a su objetivo
+ 
+
+513
+00:08:34,560 --> 00:08:36,790
+pero si ese lanzamiento mata a su objetivo
+entonces  la víctima explota en una explosión de
+
+514
+00:08:36,790 --> 00:08:36,800
+entonces  la víctima explota en una explosión de
+ 
+
+515
+00:08:36,800 --> 00:08:37,750
+entonces  la víctima explota en una explosión de
+energía negativa
+
+516
+00:08:37,750 --> 00:08:37,760
+energía negativa
+ 
+
+517
+00:08:37,760 --> 00:08:40,230
+energía negativa
+que daña a todos los objetivos vivos a su alrededor
+
+518
+00:08:40,230 --> 00:08:40,240
+que daña a todos los objetivos vivos a su alrededor
+ 
+
+519
+00:08:40,240 --> 00:08:42,550
+que daña a todos los objetivos vivos a su alrededor
+
+520
+00:08:42,550 --> 00:08:42,560
+
+ 
+
+521
+00:08:42,560 --> 00:08:44,070
+
+antes de cerrar me gustaría tomarme un
+
+522
+00:08:44,070 --> 00:08:44,080
+antes de cerrar me gustaría tomarme un
+ 
+
+523
+00:08:44,080 --> 00:08:46,070
+antes de cerrar me gustaría tomarme un
+momento para agradecer a todos mis patrocinadores
+
+524
+00:08:46,070 --> 00:08:46,080
+momento para agradecer a todos mis patrocinadores
+ 
+
+525
+00:08:46,080 --> 00:08:47,670
+momento para agradecer a todos mis patrocinadores
+estos videos no serían posibles
+
+526
+00:08:47,670 --> 00:08:47,680
+estos videos no serían posibles
+ 
+
+527
+00:08:47,680 --> 00:08:49,590
+estos videos no serían posibles
+sin su continua generosidad y
+
+528
+00:08:49,590 --> 00:08:49,600
+sin su continua generosidad y
+ 
+
+529
+00:08:49,600 --> 00:08:50,710
+sin su continua generosidad y
+apoyo los
+
+530
+00:08:50,710 --> 00:08:50,720
+apoyo los
+ 
+
+531
+00:08:50,720 --> 00:08:52,230
+apoyo los
+miembros de la casa jugaron la
+
+532
+00:08:52,230 --> 00:08:52,240
+miembros de la casa jugaron la
+ 
+
+533
+00:08:52,240 --> 00:08:54,070
+miembros de la casa jugaron la
+comunidad de patreon recibieron beneficios especiales
+
+534
+00:08:54,070 --> 00:08:54,080
+comunidad de patreon recibieron beneficios especiales
+ 
+
+535
+00:08:54,080 --> 00:08:56,150
+comunidad de patreon recibieron beneficios especiales
+como contenido exclusivo y poder
+
+536
+00:08:56,150 --> 00:08:56,160
+como contenido exclusivo y poder
+ 
+
+537
+00:08:56,160 --> 00:08:57,829
+como contenido exclusivo y poder
+votar sobre los temas que cubro
+
+538
+00:08:57,829 --> 00:08:57,839
+votar sobre los temas que cubro
+ 
+
+539
+00:08:57,839 --> 00:08:59,509
+votar sobre los temas que cubro
+visita el enlace que se muestra en la parte superior de la
+
+540
+00:08:59,509 --> 00:08:59,519
+visita el enlace que se muestra en la parte superior de la
+ 
+
+541
+00:08:59,519 --> 00:09:01,269
+visita el enlace que se muestra en la parte superior de la
+pantalla y en la descripción si
+
+542
+00:09:01,269 --> 00:09:01,279
+pantalla y en la descripción si
+ 
+
+543
+00:09:01,279 --> 00:09:02,550
+pantalla y en la descripción si
+quieres saber más
+
+544
+00:09:02,550 --> 00:09:02,560
+quieres saber más
+ 
+
+545
+00:09:02,560 --> 00:09:03,750
+quieres saber más
+si quieres apoyar este
+
+546
+00:09:03,750 --> 00:09:03,760
+si quieres apoyar este
+ 
+
+547
+00:09:03,760 --> 00:09:05,910
+si quieres apoyar este
+canal y ayudarlo a crecer la forma más fácil
+
+548
+00:09:05,910 --> 00:09:05,920
+canal y ayudarlo a crecer la forma más fácil
+ 
+
+549
+00:09:05,920 --> 00:09:06,630
+canal y ayudarlo a crecer la forma más fácil
+de hacerlo
+
+550
+00:09:06,630 --> 00:09:06,640
+de hacerlo
+ 
+
+551
+00:09:06,640 --> 00:09:08,470
+de hacerlo
+es suscribiéndote y haciendo clic en el
+
+552
+00:09:08,470 --> 00:09:08,480
+es suscribiéndote y haciendo clic en el
+ 
+
+553
+00:09:08,480 --> 00:09:10,710
+es suscribiéndote y haciendo clic en el
+ícono de la campana para que recibas una notificación cuando se publiquen nuevos videos
+
+554
+00:09:10,710 --> 00:09:10,720
+ícono de la campana para que recibas una notificación cuando se publiquen nuevos videos
+ 
+
+555
+00:09:10,720 --> 00:09:11,430
+ícono de la campana para que recibas una notificación cuando se publiquen nuevos videos
+
+556
+00:09:11,430 --> 00:09:11,440
+
+ 
+
+557
+00:09:11,440 --> 00:09:12,949
+
+y siempre puedes comunicarte conmigo a través de
+
+558
+00:09:12,949 --> 00:09:12,959
+y siempre puedes comunicarte conmigo a través de
+ 
+
+559
+00:09:12,959 --> 00:09:14,710
+y siempre puedes comunicarte conmigo a través de
+twitter y facebook también
+
+560
+00:09:14,710 --> 00:09:14,720
+twitter y facebook también
+ 
+
+561
+00:09:14,720 --> 00:09:20,509
+twitter y facebook también
+gracias por mirar cuídate y feliz
+
+562
+00:09:20,509 --> 00:09:20,519
+
+ 
+
+563
+00:09:20,519 --> 00:09:23,519
+
+juego
+

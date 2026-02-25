@@ -1,0 +1,1865 @@
+1
+00:00:00,619 --> 00:00:03,100
+
+welcome to basics for gamers presents
+
+2
+00:00:03,100 --> 00:00:03,110
+welcome to basics for gamers presents
+ 
+
+3
+00:00:03,110 --> 00:00:06,640
+welcome to basics for gamers presents
+animal examples in Pathfinder if you
+
+4
+00:00:06,640 --> 00:00:06,650
+animal examples in Pathfinder if you
+ 
+
+5
+00:00:06,650 --> 00:00:08,800
+animal examples in Pathfinder if you
+haven't already watched our knowledge
+
+6
+00:00:08,800 --> 00:00:08,810
+haven't already watched our knowledge
+ 
+
+7
+00:00:08,810 --> 00:00:11,470
+haven't already watched our knowledge
+video on animals you're encouraged to do
+
+8
+00:00:11,470 --> 00:00:11,480
+video on animals you're encouraged to do
+ 
+
+9
+00:00:11,480 --> 00:00:14,470
+video on animals you're encouraged to do
+so before viewing these examples a link
+
+10
+00:00:14,470 --> 00:00:14,480
+so before viewing these examples a link
+ 
+
+11
+00:00:14,480 --> 00:00:16,330
+so before viewing these examples a link
+to that video may be found in the
+
+12
+00:00:16,330 --> 00:00:16,340
+to that video may be found in the
+ 
+
+13
+00:00:16,340 --> 00:00:18,220
+to that video may be found in the
+description and in the upper right
+
+14
+00:00:18,220 --> 00:00:18,230
+description and in the upper right
+ 
+
+15
+00:00:18,230 --> 00:00:21,540
+description and in the upper right
+corner of this screen
+
+16
+00:00:21,540 --> 00:00:21,550
+
+ 
+
+17
+00:00:21,550 --> 00:00:24,330
+
+in our first example Horst decides that
+
+18
+00:00:24,330 --> 00:00:24,340
+in our first example Horst decides that
+ 
+
+19
+00:00:24,340 --> 00:00:26,189
+in our first example Horst decides that
+he wants some canine company and
+
+20
+00:00:26,189 --> 00:00:26,199
+he wants some canine company and
+ 
+
+21
+00:00:26,199 --> 00:00:28,409
+he wants some canine company and
+purchases a dog from the town's kennel
+
+22
+00:00:28,409 --> 00:00:28,419
+purchases a dog from the town's kennel
+ 
+
+23
+00:00:28,419 --> 00:00:31,859
+purchases a dog from the town's kennel
+for two silver pieces while walking down
+
+24
+00:00:31,859 --> 00:00:31,869
+for two silver pieces while walking down
+ 
+
+25
+00:00:31,869 --> 00:00:34,770
+for two silver pieces while walking down
+a road they encounter a pair of goblins
+
+26
+00:00:34,770 --> 00:00:34,780
+a road they encounter a pair of goblins
+ 
+
+27
+00:00:34,780 --> 00:00:37,410
+a road they encounter a pair of goblins
+who attack them at the start of combat
+
+28
+00:00:37,410 --> 00:00:37,420
+who attack them at the start of combat
+ 
+
+29
+00:00:37,420 --> 00:00:39,990
+who attack them at the start of combat
+the GM determines that the dog senses
+
+30
+00:00:39,990 --> 00:00:40,000
+the GM determines that the dog senses
+ 
+
+31
+00:00:40,000 --> 00:00:43,049
+the GM determines that the dog senses
+danger and therefore panics the dog
+
+32
+00:00:43,049 --> 00:00:43,059
+danger and therefore panics the dog
+ 
+
+33
+00:00:43,059 --> 00:00:46,229
+danger and therefore panics the dog
+receives the frightened for and fleeing
+
+34
+00:00:46,229 --> 00:00:46,239
+receives the frightened for and fleeing
+ 
+
+35
+00:00:46,239 --> 00:00:49,590
+receives the frightened for and fleeing
+conditions on her sixth first turn he
+
+36
+00:00:49,590 --> 00:00:49,600
+conditions on her sixth first turn he
+ 
+
+37
+00:00:49,600 --> 00:00:52,710
+conditions on her sixth first turn he
+uses command and animal to order the dog
+
+38
+00:00:52,710 --> 00:00:52,720
+uses command and animal to order the dog
+ 
+
+39
+00:00:52,720 --> 00:00:54,709
+uses command and animal to order the dog
+to move behind the rocks
+
+40
+00:00:54,709 --> 00:00:54,719
+to move behind the rocks
+ 
+
+41
+00:00:54,719 --> 00:00:59,130
+to move behind the rocks
+his nature skill bonus is +5 on the dog
+
+42
+00:00:59,130 --> 00:00:59,140
+his nature skill bonus is +5 on the dog
+ 
+
+43
+00:00:59,140 --> 00:01:03,000
+his nature skill bonus is +5 on the dog
+step lock we see it has a +4 bonus to
+
+44
+00:01:03,000 --> 00:01:03,010
+step lock we see it has a +4 bonus to
+ 
+
+45
+00:01:03,010 --> 00:01:06,150
+step lock we see it has a +4 bonus to
+will saves which means is will DC is
+
+46
+00:01:06,150 --> 00:01:06,160
+will saves which means is will DC is
+ 
+
+47
+00:01:06,160 --> 00:01:10,410
+will saves which means is will DC is
+normally 14 however since it's under the
+
+48
+00:01:10,410 --> 00:01:10,420
+normally 14 however since it's under the
+ 
+
+49
+00:01:10,420 --> 00:01:12,840
+normally 14 however since it's under the
+effect of the frightened four condition
+
+50
+00:01:12,840 --> 00:01:12,850
+effect of the frightened four condition
+ 
+
+51
+00:01:12,850 --> 00:01:16,950
+effect of the frightened four condition
+that lowers all of his DC's by 4 which
+
+52
+00:01:16,950 --> 00:01:16,960
+that lowers all of his DC's by 4 which
+ 
+
+53
+00:01:16,960 --> 00:01:19,320
+that lowers all of his DC's by 4 which
+means the dog will be resisting Hurst's
+
+54
+00:01:19,320 --> 00:01:19,330
+means the dog will be resisting Hurst's
+ 
+
+55
+00:01:19,330 --> 00:01:23,040
+means the dog will be resisting Hurst's
+nature check with DC 10 instead of the
+
+56
+00:01:23,040 --> 00:01:23,050
+nature check with DC 10 instead of the
+ 
+
+57
+00:01:23,050 --> 00:01:26,790
+nature check with DC 10 instead of the
+usual DC 14 the gian could further
+
+58
+00:01:26,790 --> 00:01:26,800
+usual DC 14 the gian could further
+ 
+
+59
+00:01:26,800 --> 00:01:29,070
+usual DC 14 the gian could further
+modify this DC as they believe is
+
+60
+00:01:29,070 --> 00:01:29,080
+modify this DC as they believe is
+ 
+
+61
+00:01:29,080 --> 00:01:31,740
+modify this DC as they believe is
+appropriate but harsh and the dog
+
+62
+00:01:31,740 --> 00:01:31,750
+appropriate but harsh and the dog
+ 
+
+63
+00:01:31,750 --> 00:01:33,900
+appropriate but harsh and the dog
+haven't really had a chance to bond yet
+
+64
+00:01:33,900 --> 00:01:33,910
+haven't really had a chance to bond yet
+ 
+
+65
+00:01:33,910 --> 00:01:35,910
+haven't really had a chance to bond yet
+so we're going to say that the dog's
+
+66
+00:01:35,910 --> 00:01:35,920
+so we're going to say that the dog's
+ 
+
+67
+00:01:35,920 --> 00:01:38,460
+so we're going to say that the dog's
+attitude towards him is indifferent and
+
+68
+00:01:38,460 --> 00:01:38,470
+attitude towards him is indifferent and
+ 
+
+69
+00:01:38,470 --> 00:01:42,210
+attitude towards him is indifferent and
+just leave the DC as is Hurst
+
+70
+00:01:42,210 --> 00:01:42,220
+just leave the DC as is Hurst
+ 
+
+71
+00:01:42,220 --> 00:01:45,570
+just leave the DC as is Hurst
+rolls a 7 on the d20 for a total of 12
+
+72
+00:01:45,570 --> 00:01:45,580
+rolls a 7 on the d20 for a total of 12
+ 
+
+73
+00:01:45,580 --> 00:01:49,290
+rolls a 7 on the d20 for a total of 12
+which is enough to succeed he commands
+
+74
+00:01:49,290 --> 00:01:49,300
+which is enough to succeed he commands
+ 
+
+75
+00:01:49,300 --> 00:01:51,930
+which is enough to succeed he commands
+the dog to take a single stride action
+
+76
+00:01:51,930 --> 00:01:51,940
+the dog to take a single stride action
+ 
+
+77
+00:01:51,940 --> 00:01:55,650
+the dog to take a single stride action
+to behind the rocks this does not occur
+
+78
+00:01:55,650 --> 00:01:55,660
+to behind the rocks this does not occur
+ 
+
+79
+00:01:55,660 --> 00:01:58,770
+to behind the rocks this does not occur
+now and instead the dog will follow that
+
+80
+00:01:58,770 --> 00:01:58,780
+now and instead the dog will follow that
+ 
+
+81
+00:01:58,780 --> 00:02:02,639
+now and instead the dog will follow that
+order on its turn Hurst spins his second
+
+82
+00:02:02,639 --> 00:02:02,649
+order on its turn Hurst spins his second
+ 
+
+83
+00:02:02,649 --> 00:02:05,249
+order on its turn Hurst spins his second
+action striding to the goblins and his
+
+84
+00:02:05,249 --> 00:02:05,259
+action striding to the goblins and his
+ 
+
+85
+00:02:05,259 --> 00:02:08,609
+action striding to the goblins and his
+third action he strikes one of them the
+
+86
+00:02:08,609 --> 00:02:08,619
+third action he strikes one of them the
+ 
+
+87
+00:02:08,619 --> 00:02:10,710
+third action he strikes one of them the
+second Goblin takes its turn next
+
+88
+00:02:10,710 --> 00:02:10,720
+second Goblin takes its turn next
+ 
+
+89
+00:02:10,720 --> 00:02:14,460
+second Goblin takes its turn next
+and then it's the dogs turn it spins his
+
+90
+00:02:14,460 --> 00:02:14,470
+and then it's the dogs turn it spins his
+ 
+
+91
+00:02:14,470 --> 00:02:17,040
+and then it's the dogs turn it spins his
+first action to stride behind the rocks
+
+92
+00:02:17,040 --> 00:02:17,050
+first action to stride behind the rocks
+ 
+
+93
+00:02:17,050 --> 00:02:20,009
+first action to stride behind the rocks
+as it was commanded and is second and
+
+94
+00:02:20,009 --> 00:02:20,019
+as it was commanded and is second and
+ 
+
+95
+00:02:20,019 --> 00:02:22,920
+as it was commanded and is second and
+third actions are spent however the GM
+
+96
+00:02:22,920 --> 00:02:22,930
+third actions are spent however the GM
+ 
+
+97
+00:02:22,930 --> 00:02:26,309
+third actions are spent however the GM
+deems appropriate but is temporarily not
+
+98
+00:02:26,309 --> 00:02:26,319
+deems appropriate but is temporarily not
+ 
+
+99
+00:02:26,319 --> 00:02:28,199
+deems appropriate but is temporarily not
+under the effects of the fleeing
+
+100
+00:02:28,199 --> 00:02:28,209
+under the effects of the fleeing
+ 
+
+101
+00:02:28,209 --> 00:02:31,140
+under the effects of the fleeing
+condition because it was successfully
+
+102
+00:02:31,140 --> 00:02:31,150
+condition because it was successfully
+ 
+
+103
+00:02:31,150 --> 00:02:33,030
+condition because it was successfully
+commanded this round
+
+104
+00:02:33,030 --> 00:02:33,040
+commanded this round
+ 
+
+105
+00:02:33,040 --> 00:02:36,000
+commanded this round
+at the end of the dogs turn its
+
+106
+00:02:36,000 --> 00:02:36,010
+at the end of the dogs turn its
+ 
+
+107
+00:02:36,010 --> 00:02:38,459
+at the end of the dogs turn its
+frightened condition lures from four to
+
+108
+00:02:38,459 --> 00:02:38,469
+frightened condition lures from four to
+ 
+
+109
+00:02:38,469 --> 00:02:42,179
+frightened condition lures from four to
+three the Knicks round runs much the
+
+110
+00:02:42,179 --> 00:02:42,189
+three the Knicks round runs much the
+ 
+
+111
+00:02:42,189 --> 00:02:45,059
+three the Knicks round runs much the
+same as before except when husky uses
+
+112
+00:02:45,059 --> 00:02:45,069
+same as before except when husky uses
+ 
+
+113
+00:02:45,069 --> 00:02:47,789
+same as before except when husky uses
+command an animal this turn he has to
+
+114
+00:02:47,789 --> 00:02:47,799
+command an animal this turn he has to
+ 
+
+115
+00:02:47,799 --> 00:02:52,589
+command an animal this turn he has to
+beat DC 11 instead of DC 10 because the
+
+116
+00:02:52,589 --> 00:02:52,599
+beat DC 11 instead of DC 10 because the
+ 
+
+117
+00:02:52,599 --> 00:02:55,740
+beat DC 11 instead of DC 10 because the
+dogs frightened condition lowers by 1 at
+
+118
+00:02:55,740 --> 00:02:55,750
+dogs frightened condition lowers by 1 at
+ 
+
+119
+00:02:55,750 --> 00:02:59,220
+dogs frightened condition lowers by 1 at
+the end of all of his terms and this
+
+120
+00:02:59,220 --> 00:02:59,230
+the end of all of his terms and this
+ 
+
+121
+00:02:59,230 --> 00:03:00,929
+the end of all of his terms and this
+time he doesn't want the dog to move
+
+122
+00:03:00,929 --> 00:03:00,939
+time he doesn't want the dog to move
+ 
+
+123
+00:03:00,939 --> 00:03:03,660
+time he doesn't want the dog to move
+anywhere he just wants it to stay still
+
+124
+00:03:03,660 --> 00:03:03,670
+anywhere he just wants it to stay still
+ 
+
+125
+00:03:03,670 --> 00:03:07,379
+anywhere he just wants it to stay still
+there is no action called stay or hold
+
+126
+00:03:07,379 --> 00:03:07,389
+there is no action called stay or hold
+ 
+
+127
+00:03:07,389 --> 00:03:09,750
+there is no action called stay or hold
+but I believe mechanically he would
+
+128
+00:03:09,750 --> 00:03:09,760
+but I believe mechanically he would
+ 
+
+129
+00:03:09,760 --> 00:03:11,640
+but I believe mechanically he would
+command the animal to take the stride
+
+130
+00:03:11,640 --> 00:03:11,650
+command the animal to take the stride
+ 
+
+131
+00:03:11,650 --> 00:03:16,500
+command the animal to take the stride
+action but move zero feet he succeeds
+
+132
+00:03:16,500 --> 00:03:16,510
+action but move zero feet he succeeds
+ 
+
+133
+00:03:16,510 --> 00:03:19,949
+action but move zero feet he succeeds
+play continues and on the dogs turn it
+
+134
+00:03:19,949 --> 00:03:19,959
+play continues and on the dogs turn it
+ 
+
+135
+00:03:19,959 --> 00:03:23,369
+play continues and on the dogs turn it
+stays in place as it was commanded and
+
+136
+00:03:23,369 --> 00:03:23,379
+stays in place as it was commanded and
+ 
+
+137
+00:03:23,379 --> 00:03:26,729
+stays in place as it was commanded and
+is frightened condition lowers from 3 to
+
+138
+00:03:26,729 --> 00:03:26,739
+is frightened condition lowers from 3 to
+ 
+
+139
+00:03:26,739 --> 00:03:29,970
+is frightened condition lowers from 3 to
+2 at the start of the third round of
+
+140
+00:03:29,970 --> 00:03:29,980
+2 at the start of the third round of
+ 
+
+141
+00:03:29,980 --> 00:03:32,550
+2 at the start of the third round of
+combat the first Goblin decides there's
+
+142
+00:03:32,550 --> 00:03:32,560
+combat the first Goblin decides there's
+ 
+
+143
+00:03:32,560 --> 00:03:34,979
+combat the first Goblin decides there's
+only one thing that it hates more than a
+
+144
+00:03:34,979 --> 00:03:34,989
+only one thing that it hates more than a
+ 
+
+145
+00:03:34,989 --> 00:03:38,099
+only one thing that it hates more than a
+dwarf and that's a dog it readies is
+
+146
+00:03:38,099 --> 00:03:38,109
+dwarf and that's a dog it readies is
+ 
+
+147
+00:03:38,109 --> 00:03:41,599
+dwarf and that's a dog it readies is
+shortbow and fires and arrow at the dog
+
+148
+00:03:41,599 --> 00:03:41,609
+shortbow and fires and arrow at the dog
+ 
+
+149
+00:03:41,609 --> 00:03:44,490
+shortbow and fires and arrow at the dog
+guard dogs normally have an armored
+
+150
+00:03:44,490 --> 00:03:44,500
+guard dogs normally have an armored
+ 
+
+151
+00:03:44,500 --> 00:03:47,879
+guard dogs normally have an armored
+class of 15 but because the dog is
+
+152
+00:03:47,879 --> 00:03:47,889
+class of 15 but because the dog is
+ 
+
+153
+00:03:47,889 --> 00:03:51,149
+class of 15 but because the dog is
+frightened to its armor class lures to
+
+154
+00:03:51,149 --> 00:03:51,159
+frightened to its armor class lures to
+ 
+
+155
+00:03:51,159 --> 00:03:56,250
+frightened to its armor class lures to
+13 remember armor class is a type of DC
+
+156
+00:03:56,250 --> 00:03:56,260
+13 remember armor class is a type of DC
+ 
+
+157
+00:03:56,260 --> 00:03:59,009
+13 remember armor class is a type of DC
+and therefore it is reduced by the
+
+158
+00:03:59,009 --> 00:03:59,019
+and therefore it is reduced by the
+ 
+
+159
+00:03:59,019 --> 00:04:01,649
+and therefore it is reduced by the
+frightened condition regardless of if
+
+160
+00:04:01,649 --> 00:04:01,659
+frightened condition regardless of if
+ 
+
+161
+00:04:01,659 --> 00:04:04,050
+frightened condition regardless of if
+this attack hits or misses the dogs
+
+162
+00:04:04,050 --> 00:04:04,060
+this attack hits or misses the dogs
+ 
+
+163
+00:04:04,060 --> 00:04:06,300
+this attack hits or misses the dogs
+frightened condition is immediately
+
+164
+00:04:06,300 --> 00:04:06,310
+frightened condition is immediately
+ 
+
+165
+00:04:06,310 --> 00:04:09,390
+frightened condition is immediately
+reset too frightened for because it was
+
+166
+00:04:09,390 --> 00:04:09,400
+reset too frightened for because it was
+ 
+
+167
+00:04:09,400 --> 00:04:12,990
+reset too frightened for because it was
+attacked on hearts turn he decides that
+
+168
+00:04:12,990 --> 00:04:13,000
+attacked on hearts turn he decides that
+ 
+
+169
+00:04:13,000 --> 00:04:15,780
+attacked on hearts turn he decides that
+he needs backup so he spends his first
+
+170
+00:04:15,780 --> 00:04:15,790
+he needs backup so he spends his first
+ 
+
+171
+00:04:15,790 --> 00:04:18,659
+he needs backup so he spends his first
+action striking a goblin and then with
+
+172
+00:04:18,659 --> 00:04:18,669
+action striking a goblin and then with
+ 
+
+173
+00:04:18,669 --> 00:04:21,330
+action striking a goblin and then with
+his second action he uses command and
+
+174
+00:04:21,330 --> 00:04:21,340
+his second action he uses command and
+ 
+
+175
+00:04:21,340 --> 00:04:23,969
+his second action he uses command and
+animal to tell the dog to stride over to
+
+176
+00:04:23,969 --> 00:04:23,979
+animal to tell the dog to stride over to
+ 
+
+177
+00:04:23,979 --> 00:04:26,939
+animal to tell the dog to stride over to
+the Goblin and with his third action he
+
+178
+00:04:26,939 --> 00:04:26,949
+the Goblin and with his third action he
+ 
+
+179
+00:04:26,949 --> 00:04:29,719
+the Goblin and with his third action he
+commands the dog to strike the Goblin
+
+180
+00:04:29,719 --> 00:04:29,729
+commands the dog to strike the Goblin
+ 
+
+181
+00:04:29,729 --> 00:04:34,080
+commands the dog to strike the Goblin
+because stride and strike are both basic
+
+182
+00:04:34,080 --> 00:04:34,090
+because stride and strike are both basic
+ 
+
+183
+00:04:34,090 --> 00:04:37,110
+because stride and strike are both basic
+actions they can be bundled together so
+
+184
+00:04:37,110 --> 00:04:37,120
+actions they can be bundled together so
+ 
+
+185
+00:04:37,120 --> 00:04:39,390
+actions they can be bundled together so
+to speak and horse quill only need to
+
+186
+00:04:39,390 --> 00:04:39,400
+to speak and horse quill only need to
+ 
+
+187
+00:04:39,400 --> 00:04:42,300
+to speak and horse quill only need to
+roll his nature check one time to cover
+
+188
+00:04:42,300 --> 00:04:42,310
+roll his nature check one time to cover
+ 
+
+189
+00:04:42,310 --> 00:04:47,130
+roll his nature check one time to cover
+both of those basic actions again his
+
+190
+00:04:47,130 --> 00:04:47,140
+both of those basic actions again his
+ 
+
+191
+00:04:47,140 --> 00:04:49,500
+both of those basic actions again his
+your skill has a +5 bonus which is
+
+192
+00:04:49,500 --> 00:04:49,510
+your skill has a +5 bonus which is
+ 
+
+193
+00:04:49,510 --> 00:04:52,680
+your skill has a +5 bonus which is
+contested by the dogs will DC which has
+
+194
+00:04:52,680 --> 00:04:52,690
+contested by the dogs will DC which has
+ 
+
+195
+00:04:52,690 --> 00:04:55,080
+contested by the dogs will DC which has
+been lowered to 10 again because it is
+
+196
+00:04:55,080 --> 00:04:55,090
+been lowered to 10 again because it is
+ 
+
+197
+00:04:55,090 --> 00:04:58,740
+been lowered to 10 again because it is
+frightened 4 will say that he succeeds
+
+198
+00:04:58,740 --> 00:04:58,750
+frightened 4 will say that he succeeds
+ 
+
+199
+00:04:58,750 --> 00:05:01,770
+frightened 4 will say that he succeeds
+this role and the dog does not move yet
+
+200
+00:05:01,770 --> 00:05:01,780
+this role and the dog does not move yet
+ 
+
+201
+00:05:01,780 --> 00:05:04,110
+this role and the dog does not move yet
+but we'll take those commanded actions
+
+202
+00:05:04,110 --> 00:05:04,120
+but we'll take those commanded actions
+ 
+
+203
+00:05:04,120 --> 00:05:07,440
+but we'll take those commanded actions
+when it is its turn on the second
+
+204
+00:05:07,440 --> 00:05:07,450
+when it is its turn on the second
+ 
+
+205
+00:05:07,450 --> 00:05:10,080
+when it is its turn on the second
+goblins turn it holds its ground and
+
+206
+00:05:10,080 --> 00:05:10,090
+goblins turn it holds its ground and
+ 
+
+207
+00:05:10,090 --> 00:05:13,890
+goblins turn it holds its ground and
+attacks her again now on the dogs turn
+
+208
+00:05:13,890 --> 00:05:13,900
+attacks her again now on the dogs turn
+ 
+
+209
+00:05:13,900 --> 00:05:16,770
+attacks her again now on the dogs turn
+it spins his first action obeying
+
+210
+00:05:16,770 --> 00:05:16,780
+it spins his first action obeying
+ 
+
+211
+00:05:16,780 --> 00:05:19,440
+it spins his first action obeying
+horst's first command which was to move
+
+212
+00:05:19,440 --> 00:05:19,450
+horst's first command which was to move
+ 
+
+213
+00:05:19,450 --> 00:05:22,830
+horst's first command which was to move
+to the goblin Hurst's player wants the
+
+214
+00:05:22,830 --> 00:05:22,840
+to the goblin Hurst's player wants the
+ 
+
+215
+00:05:22,840 --> 00:05:25,740
+to the goblin Hurst's player wants the
+dog to move to this space so that he can
+
+216
+00:05:25,740 --> 00:05:25,750
+dog to move to this space so that he can
+ 
+
+217
+00:05:25,750 --> 00:05:28,560
+dog to move to this space so that he can
+have flanking but the GM rules that the
+
+218
+00:05:28,560 --> 00:05:28,570
+have flanking but the GM rules that the
+ 
+
+219
+00:05:28,570 --> 00:05:31,080
+have flanking but the GM rules that the
+dog would follow the most direct path to
+
+220
+00:05:31,080 --> 00:05:31,090
+dog would follow the most direct path to
+ 
+
+221
+00:05:31,090 --> 00:05:33,510
+dog would follow the most direct path to
+the target and therefore moves the dog
+
+222
+00:05:33,510 --> 00:05:33,520
+the target and therefore moves the dog
+ 
+
+223
+00:05:33,520 --> 00:05:36,900
+the target and therefore moves the dog
+here instead on the dog second action it
+
+224
+00:05:36,900 --> 00:05:36,910
+here instead on the dog second action it
+ 
+
+225
+00:05:36,910 --> 00:05:38,940
+here instead on the dog second action it
+follows the second command that it was
+
+226
+00:05:38,940 --> 00:05:38,950
+follows the second command that it was
+ 
+
+227
+00:05:38,950 --> 00:05:42,150
+follows the second command that it was
+issued which was to strike the Goblin so
+
+228
+00:05:42,150 --> 00:05:42,160
+issued which was to strike the Goblin so
+ 
+
+229
+00:05:42,160 --> 00:05:44,430
+issued which was to strike the Goblin so
+the dog makes a melee attack and tries
+
+230
+00:05:44,430 --> 00:05:44,440
+the dog makes a melee attack and tries
+ 
+
+231
+00:05:44,440 --> 00:05:46,920
+the dog makes a melee attack and tries
+to bite the Goblin normally it would
+
+232
+00:05:46,920 --> 00:05:46,930
+to bite the Goblin normally it would
+ 
+
+233
+00:05:46,930 --> 00:05:49,980
+to bite the Goblin normally it would
+have a +6 bonus to this attack but this
+
+234
+00:05:49,980 --> 00:05:49,990
+have a +6 bonus to this attack but this
+ 
+
+235
+00:05:49,990 --> 00:05:52,650
+have a +6 bonus to this attack but this
+time it only gets a +2 bonus because
+
+236
+00:05:52,650 --> 00:05:52,660
+time it only gets a +2 bonus because
+ 
+
+237
+00:05:52,660 --> 00:05:55,020
+time it only gets a +2 bonus because
+attack rolls are a type of check and
+
+238
+00:05:55,020 --> 00:05:55,030
+attack rolls are a type of check and
+ 
+
+239
+00:05:55,030 --> 00:05:57,870
+attack rolls are a type of check and
+therefore the bonus is reduced by 4
+
+240
+00:05:57,870 --> 00:05:57,880
+therefore the bonus is reduced by 4
+ 
+
+241
+00:05:57,880 --> 00:06:00,210
+therefore the bonus is reduced by 4
+because of the frightened 4 condition
+
+242
+00:06:00,210 --> 00:06:00,220
+because of the frightened 4 condition
+ 
+
+243
+00:06:00,220 --> 00:06:03,120
+because of the frightened 4 condition
+this still leaves one action left for
+
+244
+00:06:03,120 --> 00:06:03,130
+this still leaves one action left for
+ 
+
+245
+00:06:03,130 --> 00:06:05,160
+this still leaves one action left for
+the dog and the GM will spin that
+
+246
+00:06:05,160 --> 00:06:05,170
+the dog and the GM will spin that
+ 
+
+247
+00:06:05,170 --> 00:06:08,370
+the dog and the GM will spin that
+however they believe is appropriate this
+
+248
+00:06:08,370 --> 00:06:08,380
+however they believe is appropriate this
+ 
+
+249
+00:06:08,380 --> 00:06:11,340
+however they believe is appropriate this
+could be another attack or moving away a
+
+250
+00:06:11,340 --> 00:06:11,350
+could be another attack or moving away a
+ 
+
+251
+00:06:11,350 --> 00:06:13,680
+could be another attack or moving away a
+little or just sitting there and doing
+
+252
+00:06:13,680 --> 00:06:13,690
+little or just sitting there and doing
+ 
+
+253
+00:06:13,690 --> 00:06:16,260
+little or just sitting there and doing
+nothing or anything else that the GM
+
+254
+00:06:16,260 --> 00:06:16,270
+nothing or anything else that the GM
+ 
+
+255
+00:06:16,270 --> 00:06:18,440
+nothing or anything else that the GM
+thinks a dog would do in that situation
+
+256
+00:06:18,440 --> 00:06:18,450
+thinks a dog would do in that situation
+ 
+
+257
+00:06:18,450 --> 00:06:21,570
+thinks a dog would do in that situation
+but the rule suggests that animals spin
+
+258
+00:06:21,570 --> 00:06:21,580
+but the rule suggests that animals spin
+ 
+
+259
+00:06:21,580 --> 00:06:23,460
+but the rule suggests that animals spin
+their actions either defending
+
+260
+00:06:23,460 --> 00:06:23,470
+their actions either defending
+ 
+
+261
+00:06:23,470 --> 00:06:27,270
+their actions either defending
+themselves or moving away at the end of
+
+262
+00:06:27,270 --> 00:06:27,280
+themselves or moving away at the end of
+ 
+
+263
+00:06:27,280 --> 00:06:29,580
+themselves or moving away at the end of
+the dog's turn its frightened condition
+
+264
+00:06:29,580 --> 00:06:29,590
+the dog's turn its frightened condition
+ 
+
+265
+00:06:29,590 --> 00:06:32,280
+the dog's turn its frightened condition
+lowers to frighten 3 and the combat
+
+266
+00:06:32,280 --> 00:06:32,290
+lowers to frighten 3 and the combat
+ 
+
+267
+00:06:32,290 --> 00:06:35,540
+lowers to frighten 3 and the combat
+continues as normal
+
+268
+00:06:35,540 --> 00:06:35,550
+continues as normal
+ 
+
+269
+00:06:35,550 --> 00:06:38,600
+continues as normal
+let's reset this scenario and look at
+
+270
+00:06:38,600 --> 00:06:38,610
+let's reset this scenario and look at
+ 
+
+271
+00:06:38,610 --> 00:06:41,240
+let's reset this scenario and look at
+the last round one more time but this
+
+272
+00:06:41,240 --> 00:06:41,250
+the last round one more time but this
+ 
+
+273
+00:06:41,250 --> 00:06:43,969
+the last round one more time but this
+time after harsh commands the dog to
+
+274
+00:06:43,969 --> 00:06:43,979
+time after harsh commands the dog to
+ 
+
+275
+00:06:43,979 --> 00:06:46,279
+time after harsh commands the dog to
+move to the Goblin and attack it the
+
+276
+00:06:46,279 --> 00:06:46,289
+move to the Goblin and attack it the
+ 
+
+277
+00:06:46,289 --> 00:06:48,080
+move to the Goblin and attack it the
+Goblin who is in initiative between
+
+278
+00:06:48,080 --> 00:06:48,090
+Goblin who is in initiative between
+ 
+
+279
+00:06:48,090 --> 00:06:51,619
+Goblin who is in initiative between
+horse and the dog realizes the fight is
+
+280
+00:06:51,619 --> 00:06:51,629
+horse and the dog realizes the fight is
+ 
+
+281
+00:06:51,629 --> 00:06:53,659
+horse and the dog realizes the fight is
+not going well and decides to make a
+
+282
+00:06:53,659 --> 00:06:53,669
+not going well and decides to make a
+ 
+
+283
+00:06:53,669 --> 00:06:56,899
+not going well and decides to make a
+break for it so it moves to here as it
+
+284
+00:06:56,899 --> 00:06:56,909
+break for it so it moves to here as it
+ 
+
+285
+00:06:56,909 --> 00:07:00,909
+break for it so it moves to here as it
+tries to flee now it's the dog's turn
+
+286
+00:07:00,909 --> 00:07:00,919
+tries to flee now it's the dog's turn
+ 
+
+287
+00:07:00,919 --> 00:07:03,770
+tries to flee now it's the dog's turn
+with his first action it obeys the
+
+288
+00:07:03,770 --> 00:07:03,780
+with his first action it obeys the
+ 
+
+289
+00:07:03,780 --> 00:07:05,779
+with his first action it obeys the
+command to stride to the Goblin
+
+290
+00:07:05,779 --> 00:07:05,789
+command to stride to the Goblin
+ 
+
+291
+00:07:05,789 --> 00:07:09,020
+command to stride to the Goblin
+however the dog has a speed of 30 feet
+
+292
+00:07:09,020 --> 00:07:09,030
+however the dog has a speed of 30 feet
+ 
+
+293
+00:07:09,030 --> 00:07:11,960
+however the dog has a speed of 30 feet
+and the Goblin is now further away than
+
+294
+00:07:11,960 --> 00:07:11,970
+and the Goblin is now further away than
+ 
+
+295
+00:07:11,970 --> 00:07:15,020
+and the Goblin is now further away than
+that so the question becomes what does
+
+296
+00:07:15,020 --> 00:07:15,030
+that so the question becomes what does
+ 
+
+297
+00:07:15,030 --> 00:07:18,350
+that so the question becomes what does
+the dog do after his first action ends
+
+298
+00:07:18,350 --> 00:07:18,360
+the dog do after his first action ends
+ 
+
+299
+00:07:18,360 --> 00:07:20,659
+the dog do after his first action ends
+and it has moved as far as it can on
+
+300
+00:07:20,659 --> 00:07:20,669
+and it has moved as far as it can on
+ 
+
+301
+00:07:20,669 --> 00:07:23,360
+and it has moved as far as it can on
+that action but hasn't satisfied the
+
+302
+00:07:23,360 --> 00:07:23,370
+that action but hasn't satisfied the
+ 
+
+303
+00:07:23,370 --> 00:07:25,760
+that action but hasn't satisfied the
+command of moving to the Goblin yet and
+
+304
+00:07:25,760 --> 00:07:25,770
+command of moving to the Goblin yet and
+ 
+
+305
+00:07:25,770 --> 00:07:28,219
+command of moving to the Goblin yet and
+it can't strike that Goblin which was
+
+306
+00:07:28,219 --> 00:07:28,229
+it can't strike that Goblin which was
+ 
+
+307
+00:07:28,229 --> 00:07:30,950
+it can't strike that Goblin which was
+the second command it was issued because
+
+308
+00:07:30,950 --> 00:07:30,960
+the second command it was issued because
+ 
+
+309
+00:07:30,960 --> 00:07:33,670
+the second command it was issued because
+again is not in range of the Goblin
+
+310
+00:07:33,670 --> 00:07:33,680
+again is not in range of the Goblin
+ 
+
+311
+00:07:33,680 --> 00:07:36,050
+again is not in range of the Goblin
+there's a couple of different ways to
+
+312
+00:07:36,050 --> 00:07:36,060
+there's a couple of different ways to
+ 
+
+313
+00:07:36,060 --> 00:07:39,170
+there's a couple of different ways to
+handle this and by raw an argument could
+
+314
+00:07:39,170 --> 00:07:39,180
+handle this and by raw an argument could
+ 
+
+315
+00:07:39,180 --> 00:07:41,209
+handle this and by raw an argument could
+be made that it would stop after its
+
+316
+00:07:41,209 --> 00:07:41,219
+be made that it would stop after its
+ 
+
+317
+00:07:41,219 --> 00:07:44,270
+be made that it would stop after its
+first action and do nothing but for what
+
+318
+00:07:44,270 --> 00:07:44,280
+first action and do nothing but for what
+ 
+
+319
+00:07:44,280 --> 00:07:46,490
+first action and do nothing but for what
+it's worth I think the right call is
+
+320
+00:07:46,490 --> 00:07:46,500
+it's worth I think the right call is
+ 
+
+321
+00:07:46,500 --> 00:07:49,159
+it's worth I think the right call is
+that the dog will spend as many actions
+
+322
+00:07:49,159 --> 00:07:49,169
+that the dog will spend as many actions
+ 
+
+323
+00:07:49,169 --> 00:07:51,649
+that the dog will spend as many actions
+as needed to follow the first command
+
+324
+00:07:51,649 --> 00:07:51,659
+as needed to follow the first command
+ 
+
+325
+00:07:51,659 --> 00:07:54,110
+as needed to follow the first command
+that it was given so in this example it
+
+326
+00:07:54,110 --> 00:07:54,120
+that it was given so in this example it
+ 
+
+327
+00:07:54,120 --> 00:07:56,209
+that it was given so in this example it
+would spend two actions to move to the
+
+328
+00:07:56,209 --> 00:07:56,219
+would spend two actions to move to the
+ 
+
+329
+00:07:56,219 --> 00:07:56,809
+would spend two actions to move to the
+Goblin
+
+330
+00:07:56,809 --> 00:07:56,819
+Goblin
+ 
+
+331
+00:07:56,819 --> 00:07:59,809
+Goblin
+even though horse only spent one action
+
+332
+00:07:59,809 --> 00:07:59,819
+even though horse only spent one action
+ 
+
+333
+00:07:59,819 --> 00:08:02,149
+even though horse only spent one action
+to command it destroyed and then it
+
+334
+00:08:02,149 --> 00:08:02,159
+to command it destroyed and then it
+ 
+
+335
+00:08:02,159 --> 00:08:04,189
+to command it destroyed and then it
+would use the strike action against the
+
+336
+00:08:04,189 --> 00:08:04,199
+would use the strike action against the
+ 
+
+337
+00:08:04,199 --> 00:08:08,350
+would use the strike action against the
+Goblin as it was commanded as well
+
+338
+00:08:08,350 --> 00:08:08,360
+
+ 
+
+339
+00:08:08,360 --> 00:08:10,059
+
+if you would like to see the companion
+
+340
+00:08:10,059 --> 00:08:10,069
+if you would like to see the companion
+ 
+
+341
+00:08:10,069 --> 00:08:12,129
+if you would like to see the companion
+course that explains the rules behind
+
+342
+00:08:12,129 --> 00:08:12,139
+course that explains the rules behind
+ 
+
+343
+00:08:12,139 --> 00:08:14,350
+course that explains the rules behind
+these examples you can find a link to it
+
+344
+00:08:14,350 --> 00:08:14,360
+these examples you can find a link to it
+ 
+
+345
+00:08:14,360 --> 00:08:16,360
+these examples you can find a link to it
+in the description and highlighted on
+
+346
+00:08:16,360 --> 00:08:16,370
+in the description and highlighted on
+ 
+
+347
+00:08:16,370 --> 00:08:19,149
+in the description and highlighted on
+the screen as well feel free to leave in
+
+348
+00:08:19,149 --> 00:08:19,159
+the screen as well feel free to leave in
+ 
+
+349
+00:08:19,159 --> 00:08:20,709
+the screen as well feel free to leave in
+the comments any suggestions you have
+
+350
+00:08:20,709 --> 00:08:20,719
+the comments any suggestions you have
+ 
+
+351
+00:08:20,719 --> 00:08:23,110
+the comments any suggestions you have
+for future examples and if you would
+
+352
+00:08:23,110 --> 00:08:23,120
+for future examples and if you would
+ 
+
+353
+00:08:23,120 --> 00:08:25,450
+for future examples and if you would
+like to support this channel then please
+
+354
+00:08:25,450 --> 00:08:25,460
+like to support this channel then please
+ 
+
+355
+00:08:25,460 --> 00:08:27,550
+like to support this channel then please
+be sure to subscribe and click the bell
+
+356
+00:08:27,550 --> 00:08:27,560
+be sure to subscribe and click the bell
+ 
+
+357
+00:08:27,560 --> 00:08:29,170
+be sure to subscribe and click the bell
+so you never miss out on our future
+
+358
+00:08:29,170 --> 00:08:29,180
+so you never miss out on our future
+ 
+
+359
+00:08:29,180 --> 00:08:32,079
+so you never miss out on our future
+videos if you would like to use any of
+
+360
+00:08:32,079 --> 00:08:32,089
+videos if you would like to use any of
+ 
+
+361
+00:08:32,089 --> 00:08:33,579
+videos if you would like to use any of
+the maps that you've seen in these
+
+362
+00:08:33,579 --> 00:08:33,589
+the maps that you've seen in these
+ 
+
+363
+00:08:33,589 --> 00:08:35,740
+the maps that you've seen in these
+examples in your own games you may find
+
+364
+00:08:35,740 --> 00:08:35,750
+examples in your own games you may find
+ 
+
+365
+00:08:35,750 --> 00:08:38,560
+examples in your own games you may find
+them at maps of mastery a link to that
+
+366
+00:08:38,560 --> 00:08:38,570
+them at maps of mastery a link to that
+ 
+
+367
+00:08:38,570 --> 00:08:40,600
+them at maps of mastery a link to that
+store may be found in the description
+
+368
+00:08:40,600 --> 00:08:40,610
+store may be found in the description
+ 
+
+369
+00:08:40,610 --> 00:08:43,000
+store may be found in the description
+thanks for watching take care and we
+
+370
+00:08:43,000 --> 00:08:43,010
+thanks for watching take care and we
+ 
+
+371
+00:08:43,010 --> 00:08:45,069
+thanks for watching take care and we
+will see you soon with more basics of
+
+372
+00:08:45,069 --> 00:08:45,079
+will see you soon with more basics of
+ 
+
+373
+00:08:45,079 --> 00:08:47,769
+will see you soon with more basics of
+Pathfinder
+

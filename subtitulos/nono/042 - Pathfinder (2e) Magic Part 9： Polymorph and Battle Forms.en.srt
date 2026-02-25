@@ -1,0 +1,2325 @@
+1
+00:00:01,000 --> 00:00:02,550
+
+hello and welcome to Magic and
+
+2
+00:00:02,550 --> 00:00:02,560
+hello and welcome to Magic and
+ 
+
+3
+00:00:02,560 --> 00:00:05,150
+hello and welcome to Magic and
+Pathfinder part nine polymorph and
+
+4
+00:00:05,150 --> 00:00:05,160
+Pathfinder part nine polymorph and
+ 
+
+5
+00:00:05,160 --> 00:00:07,110
+Pathfinder part nine polymorph and
+battle
+
+6
+00:00:07,110 --> 00:00:07,120
+battle
+ 
+
+7
+00:00:07,120 --> 00:00:09,870
+battle
+forms before getting into polymorph we
+
+8
+00:00:09,870 --> 00:00:09,880
+forms before getting into polymorph we
+ 
+
+9
+00:00:09,880 --> 00:00:11,950
+forms before getting into polymorph we
+should first discuss the regular morph
+
+10
+00:00:11,950 --> 00:00:11,960
+should first discuss the regular morph
+ 
+
+11
+00:00:11,960 --> 00:00:14,589
+should first discuss the regular morph
+trait when a spell has the morph trait
+
+12
+00:00:14,589 --> 00:00:14,599
+trait when a spell has the morph trait
+ 
+
+13
+00:00:14,599 --> 00:00:16,710
+trait when a spell has the morph trait
+like feet defends some part of the
+
+14
+00:00:16,710 --> 00:00:16,720
+like feet defends some part of the
+ 
+
+15
+00:00:16,720 --> 00:00:19,550
+like feet defends some part of the
+target changes shape into a new form but
+
+16
+00:00:19,550 --> 00:00:19,560
+target changes shape into a new form but
+ 
+
+17
+00:00:19,560 --> 00:00:22,109
+target changes shape into a new form but
+not their entire body in the case of
+
+18
+00:00:22,109 --> 00:00:22,119
+not their entire body in the case of
+ 
+
+19
+00:00:22,119 --> 00:00:24,150
+not their entire body in the case of
+this spell only the target's feet take
+
+20
+00:00:24,150 --> 00:00:24,160
+this spell only the target's feet take
+ 
+
+21
+00:00:24,160 --> 00:00:26,910
+this spell only the target's feet take
+on a new shape if a spell has the morph
+
+22
+00:00:26,910 --> 00:00:26,920
+on a new shape if a spell has the morph
+ 
+
+23
+00:00:26,920 --> 00:00:29,429
+on a new shape if a spell has the morph
+trait and grants the target new attacks
+
+24
+00:00:29,429 --> 00:00:29,439
+trait and grants the target new attacks
+ 
+
+25
+00:00:29,439 --> 00:00:31,390
+trait and grants the target new attacks
+like the fangs and Claws provided by
+
+26
+00:00:31,390 --> 00:00:31,400
+like the fangs and Claws provided by
+ 
+
+27
+00:00:31,400 --> 00:00:34,750
+like the fangs and Claws provided by
+Moon frenzy those attacks also gain the
+
+28
+00:00:34,750 --> 00:00:34,760
+Moon frenzy those attacks also gain the
+ 
+
+29
+00:00:34,760 --> 00:00:37,630
+Moon frenzy those attacks also gain the
+magical trait and it is possible to be
+
+30
+00:00:37,630 --> 00:00:37,640
+magical trait and it is possible to be
+ 
+
+31
+00:00:37,640 --> 00:00:40,350
+magical trait and it is possible to be
+the target of multiple morph spells but
+
+32
+00:00:40,350 --> 00:00:40,360
+the target of multiple morph spells but
+ 
+
+33
+00:00:40,360 --> 00:00:43,470
+the target of multiple morph spells but
+if two or more modify the same body part
+
+34
+00:00:43,470 --> 00:00:43,480
+if two or more modify the same body part
+ 
+
+35
+00:00:43,480 --> 00:00:45,430
+if two or more modify the same body part
+then the most recent spell tries to
+
+36
+00:00:45,430 --> 00:00:45,440
+then the most recent spell tries to
+ 
+
+37
+00:00:45,440 --> 00:00:47,510
+then the most recent spell tries to
+counteract the effects of the previous
+
+38
+00:00:47,510 --> 00:00:47,520
+counteract the effects of the previous
+ 
+
+39
+00:00:47,520 --> 00:00:50,430
+counteract the effects of the previous
+spell see my video on counteracting to
+
+40
+00:00:50,430 --> 00:00:50,440
+spell see my video on counteracting to
+ 
+
+41
+00:00:50,440 --> 00:00:52,590
+spell see my video on counteracting to
+learn more about how that works I'll
+
+42
+00:00:52,590 --> 00:00:52,600
+learn more about how that works I'll
+ 
+
+43
+00:00:52,600 --> 00:00:55,990
+learn more about how that works I'll
+leave a link to that video in the
+
+44
+00:00:55,990 --> 00:00:56,000
+leave a link to that video in the
+ 
+
+45
+00:00:56,000 --> 00:00:58,590
+leave a link to that video in the
+description polymorph spells work like
+
+46
+00:00:58,590 --> 00:00:58,600
+description polymorph spells work like
+ 
+
+47
+00:00:58,600 --> 00:01:01,110
+description polymorph spells work like
+regular morph spells except they alter
+
+48
+00:01:01,110 --> 00:01:01,120
+regular morph spells except they alter
+ 
+
+49
+00:01:01,120 --> 00:01:03,790
+regular morph spells except they alter
+the target's entire body just like with
+
+50
+00:01:03,790 --> 00:01:03,800
+the target's entire body just like with
+ 
+
+51
+00:01:03,800 --> 00:01:06,310
+the target's entire body just like with
+morph spells when a polymorph spell
+
+52
+00:01:06,310 --> 00:01:06,320
+morph spells when a polymorph spell
+ 
+
+53
+00:01:06,320 --> 00:01:09,190
+morph spells when a polymorph spell
+Grants New attacks those attacks gain
+
+54
+00:01:09,190 --> 00:01:09,200
+Grants New attacks those attacks gain
+ 
+
+55
+00:01:09,200 --> 00:01:11,670
+Grants New attacks those attacks gain
+the magical trait one important
+
+56
+00:01:11,670 --> 00:01:11,680
+the magical trait one important
+ 
+
+57
+00:01:11,680 --> 00:01:13,910
+the magical trait one important
+limitation to be aware of is even though
+
+58
+00:01:13,910 --> 00:01:13,920
+limitation to be aware of is even though
+ 
+
+59
+00:01:13,920 --> 00:01:16,070
+limitation to be aware of is even though
+a polymorph spell may let you take
+
+60
+00:01:16,070 --> 00:01:16,080
+a polymorph spell may let you take
+ 
+
+61
+00:01:16,080 --> 00:01:18,749
+a polymorph spell may let you take
+another general form they typically do
+
+62
+00:01:18,749 --> 00:01:18,759
+another general form they typically do
+ 
+
+63
+00:01:18,759 --> 00:01:20,469
+another general form they typically do
+not allow you to duplicate someone
+
+64
+00:01:20,469 --> 00:01:20,479
+not allow you to duplicate someone
+ 
+
+65
+00:01:20,479 --> 00:01:23,190
+not allow you to duplicate someone
+else's appearance you can cast humanoid
+
+66
+00:01:23,190 --> 00:01:23,200
+else's appearance you can cast humanoid
+ 
+
+67
+00:01:23,200 --> 00:01:24,789
+else's appearance you can cast humanoid
+form to take on the appearance of
+
+68
+00:01:24,789 --> 00:01:24,799
+form to take on the appearance of
+ 
+
+69
+00:01:24,799 --> 00:01:27,590
+form to take on the appearance of
+another ancestry like Elf or dwarf but
+
+70
+00:01:27,590 --> 00:01:27,600
+another ancestry like Elf or dwarf but
+ 
+
+71
+00:01:27,600 --> 00:01:30,109
+another ancestry like Elf or dwarf but
+you cannot use those spells to look like
+
+72
+00:01:30,109 --> 00:01:30,119
+you cannot use those spells to look like
+ 
+
+73
+00:01:30,119 --> 00:01:33,270
+you cannot use those spells to look like
+a specific Elf or dwarf although using
+
+74
+00:01:33,270 --> 00:01:33,280
+a specific Elf or dwarf although using
+ 
+
+75
+00:01:33,280 --> 00:01:35,670
+a specific Elf or dwarf although using
+the spell May lessen the difficulty of
+
+76
+00:01:35,670 --> 00:01:35,680
+the spell May lessen the difficulty of
+ 
+
+77
+00:01:35,680 --> 00:01:38,630
+the spell May lessen the difficulty of
+Disguise checks also you can only be
+
+78
+00:01:38,630 --> 00:01:38,640
+Disguise checks also you can only be
+ 
+
+79
+00:01:38,640 --> 00:01:40,389
+Disguise checks also you can only be
+affected by one polymorph effect at a
+
+80
+00:01:40,389 --> 00:01:40,399
+affected by one polymorph effect at a
+ 
+
+81
+00:01:40,399 --> 00:01:42,870
+affected by one polymorph effect at a
+time so if you're polymorphed and become
+
+82
+00:01:42,870 --> 00:01:42,880
+time so if you're polymorphed and become
+ 
+
+83
+00:01:42,880 --> 00:01:44,870
+time so if you're polymorphed and become
+the target of another spell with the
+
+84
+00:01:44,870 --> 00:01:44,880
+the target of another spell with the
+ 
+
+85
+00:01:44,880 --> 00:01:47,670
+the target of another spell with the
+polymorph trait that second spell will
+
+86
+00:01:47,670 --> 00:01:47,680
+polymorph trait that second spell will
+ 
+
+87
+00:01:47,680 --> 00:01:49,310
+polymorph trait that second spell will
+attempt to counteract the first
+
+88
+00:01:49,310 --> 00:01:49,320
+attempt to counteract the first
+ 
+
+89
+00:01:49,320 --> 00:01:51,550
+attempt to counteract the first
+polymorph effect just like we saw with
+
+90
+00:01:51,550 --> 00:01:51,560
+polymorph effect just like we saw with
+ 
+
+91
+00:01:51,560 --> 00:01:54,069
+polymorph effect just like we saw with
+spells that have the morph trait if
+
+92
+00:01:54,069 --> 00:01:54,079
+spells that have the morph trait if
+ 
+
+93
+00:01:54,079 --> 00:01:56,389
+spells that have the morph trait if
+successful the first polymorph ends and
+
+94
+00:01:56,389 --> 00:01:56,399
+successful the first polymorph ends and
+ 
+
+95
+00:01:56,399 --> 00:01:58,830
+successful the first polymorph ends and
+the new one takes its
+
+96
+00:01:58,830 --> 00:01:58,840
+the new one takes its
+ 
+
+97
+00:01:58,840 --> 00:02:01,590
+the new one takes its
+place one specific type of polymorph
+
+98
+00:02:01,590 --> 00:02:01,600
+place one specific type of polymorph
+ 
+
+99
+00:02:01,600 --> 00:02:04,270
+place one specific type of polymorph
+spell we need to discuss is Battle form
+
+100
+00:02:04,270 --> 00:02:04,280
+spell we need to discuss is Battle form
+ 
+
+101
+00:02:04,280 --> 00:02:06,749
+spell we need to discuss is Battle form
+as the name suggests battle forms are
+
+102
+00:02:06,749 --> 00:02:06,759
+as the name suggests battle forms are
+ 
+
+103
+00:02:06,759 --> 00:02:08,589
+as the name suggests battle forms are
+polymorph spells that are intended to be
+
+104
+00:02:08,589 --> 00:02:08,599
+polymorph spells that are intended to be
+ 
+
+105
+00:02:08,599 --> 00:02:11,309
+polymorph spells that are intended to be
+used in combat and as such have a few
+
+106
+00:02:11,309 --> 00:02:11,319
+used in combat and as such have a few
+ 
+
+107
+00:02:11,319 --> 00:02:13,990
+used in combat and as such have a few
+special rules associated with them first
+
+108
+00:02:13,990 --> 00:02:14,000
+special rules associated with them first
+ 
+
+109
+00:02:14,000 --> 00:02:15,910
+special rules associated with them first
+of those is when you're using a battle
+
+110
+00:02:15,910 --> 00:02:15,920
+of those is when you're using a battle
+ 
+
+111
+00:02:15,920 --> 00:02:19,470
+of those is when you're using a battle
+form you cannot cast spells speak or use
+
+112
+00:02:19,470 --> 00:02:19,480
+form you cannot cast spells speak or use
+ 
+
+113
+00:02:19,480 --> 00:02:21,589
+form you cannot cast spells speak or use
+manipulate actions that require the use
+
+114
+00:02:21,589 --> 00:02:21,599
+manipulate actions that require the use
+ 
+
+115
+00:02:21,599 --> 00:02:24,390
+manipulate actions that require the use
+of hands some battle forms like
+
+116
+00:02:24,390 --> 00:02:24,400
+of hands some battle forms like
+ 
+
+117
+00:02:24,400 --> 00:02:27,229
+of hands some battle forms like
+Elemental form do Grant you hands and
+
+118
+00:02:27,229 --> 00:02:27,239
+Elemental form do Grant you hands and
+ 
+
+119
+00:02:27,239 --> 00:02:29,949
+Elemental form do Grant you hands and
+the ability to take manipulate actions
+
+120
+00:02:29,949 --> 00:02:29,959
+the ability to take manipulate actions
+ 
+
+121
+00:02:29,959 --> 00:02:32,350
+the ability to take manipulate actions
+and many normal Elementals are capable
+
+122
+00:02:32,350 --> 00:02:32,360
+and many normal Elementals are capable
+ 
+
+123
+00:02:32,360 --> 00:02:36,070
+and many normal Elementals are capable
+of speech but by raw this does not allow
+
+124
+00:02:36,070 --> 00:02:36,080
+of speech but by raw this does not allow
+ 
+
+125
+00:02:36,080 --> 00:02:38,949
+of speech but by raw this does not allow
+you to speak when Elemental form or cast
+
+126
+00:02:38,949 --> 00:02:38,959
+you to speak when Elemental form or cast
+ 
+
+127
+00:02:38,959 --> 00:02:41,309
+you to speak when Elemental form or cast
+any spells even if they only have a
+
+128
+00:02:41,309 --> 00:02:41,319
+any spells even if they only have a
+ 
+
+129
+00:02:41,319 --> 00:02:44,350
+any spells even if they only have a
+sematic component however just be aware
+
+130
+00:02:44,350 --> 00:02:44,360
+sematic component however just be aware
+ 
+
+131
+00:02:44,360 --> 00:02:46,110
+sematic component however just be aware
+a lot of GMS out there do rule
+
+132
+00:02:46,110 --> 00:02:46,120
+a lot of GMS out there do rule
+ 
+
+133
+00:02:46,120 --> 00:02:48,750
+a lot of GMS out there do rule
+differently so make sure you check with
+
+134
+00:02:48,750 --> 00:02:48,760
+differently so make sure you check with
+ 
+
+135
+00:02:48,760 --> 00:02:50,990
+differently so make sure you check with
+yours let's take a look at another
+
+136
+00:02:50,990 --> 00:02:51,000
+yours let's take a look at another
+ 
+
+137
+00:02:51,000 --> 00:02:54,710
+yours let's take a look at another
+example animal form this is a polymorph
+
+138
+00:02:54,710 --> 00:02:54,720
+example animal form this is a polymorph
+ 
+
+139
+00:02:54,720 --> 00:02:56,869
+example animal form this is a polymorph
+spell that turns the Caster into an
+
+140
+00:02:56,869 --> 00:02:56,879
+spell that turns the Caster into an
+ 
+
+141
+00:02:56,879 --> 00:02:59,750
+spell that turns the Caster into an
+animal battle form when you cast this
+
+142
+00:02:59,750 --> 00:02:59,760
+animal battle form when you cast this
+ 
+
+143
+00:02:59,760 --> 00:03:01,589
+animal battle form when you cast this
+you choose the type of animal you want
+
+144
+00:03:01,589 --> 00:03:01,599
+you choose the type of animal you want
+ 
+
+145
+00:03:01,599 --> 00:03:04,350
+you choose the type of animal you want
+to become from the provided list ape
+
+146
+00:03:04,350 --> 00:03:04,360
+to become from the provided list ape
+ 
+
+147
+00:03:04,360 --> 00:03:08,110
+to become from the provided list ape
+bear bull canine cat deer frog shark or
+
+148
+00:03:08,110 --> 00:03:08,120
+bear bull canine cat deer frog shark or
+ 
+
+149
+00:03:08,120 --> 00:03:11,309
+bear bull canine cat deer frog shark or
+snake when you take on this new form all
+
+150
+00:03:11,309 --> 00:03:11,319
+snake when you take on this new form all
+ 
+
+151
+00:03:11,319 --> 00:03:14,030
+snake when you take on this new form all
+of your gear is absorbed into you and
+
+152
+00:03:14,030 --> 00:03:14,040
+of your gear is absorbed into you and
+ 
+
+153
+00:03:14,040 --> 00:03:16,309
+of your gear is absorbed into you and
+any constant ability that that gear
+
+154
+00:03:16,309 --> 00:03:16,319
+any constant ability that that gear
+ 
+
+155
+00:03:16,319 --> 00:03:18,949
+any constant ability that that gear
+grants continues to function but you
+
+156
+00:03:18,949 --> 00:03:18,959
+grants continues to function but you
+ 
+
+157
+00:03:18,959 --> 00:03:21,309
+grants continues to function but you
+cannot activate any items while you are
+
+158
+00:03:21,309 --> 00:03:21,319
+cannot activate any items while you are
+ 
+
+159
+00:03:21,319 --> 00:03:23,910
+cannot activate any items while you are
+in your animal form also the only
+
+160
+00:03:23,910 --> 00:03:23,920
+in your animal form also the only
+ 
+
+161
+00:03:23,920 --> 00:03:25,710
+in your animal form also the only
+bonuses you can benefit from while in a
+
+162
+00:03:25,710 --> 00:03:25,720
+bonuses you can benefit from while in a
+ 
+
+163
+00:03:25,720 --> 00:03:28,869
+bonuses you can benefit from while in a
+battle form are circumstance bonuses and
+
+164
+00:03:28,869 --> 00:03:28,879
+battle form are circumstance bonuses and
+ 
+
+165
+00:03:28,879 --> 00:03:30,550
+battle form are circumstance bonuses and
+Status bonuses
+
+166
+00:03:30,550 --> 00:03:30,560
+Status bonuses
+ 
+
+167
+00:03:30,560 --> 00:03:33,509
+Status bonuses
+but you still suffer the effects of any
+
+168
+00:03:33,509 --> 00:03:33,519
+but you still suffer the effects of any
+ 
+
+169
+00:03:33,519 --> 00:03:36,229
+but you still suffer the effects of any
+type of penalty and when you take on a
+
+170
+00:03:36,229 --> 00:03:36,239
+type of penalty and when you take on a
+ 
+
+171
+00:03:36,239 --> 00:03:38,550
+type of penalty and when you take on a
+battle form many of your stats and
+
+172
+00:03:38,550 --> 00:03:38,560
+battle form many of your stats and
+ 
+
+173
+00:03:38,560 --> 00:03:41,229
+battle form many of your stats and
+abilities will be replaced by the stats
+
+174
+00:03:41,229 --> 00:03:41,239
+abilities will be replaced by the stats
+ 
+
+175
+00:03:41,239 --> 00:03:43,309
+abilities will be replaced by the stats
+and abilities listed with the battle
+
+176
+00:03:43,309 --> 00:03:43,319
+and abilities listed with the battle
+ 
+
+177
+00:03:43,319 --> 00:03:46,070
+and abilities listed with the battle
+form for example when you cast animal
+
+178
+00:03:46,070 --> 00:03:46,080
+form for example when you cast animal
+ 
+
+179
+00:03:46,080 --> 00:03:48,869
+form for example when you cast animal
+form your armor class becomes 16 plus
+
+180
+00:03:48,869 --> 00:03:48,879
+form your armor class becomes 16 plus
+ 
+
+181
+00:03:48,879 --> 00:03:51,470
+form your armor class becomes 16 plus
+your level and it specifically notes
+
+182
+00:03:51,470 --> 00:03:51,480
+your level and it specifically notes
+ 
+
+183
+00:03:51,480 --> 00:03:53,350
+your level and it specifically notes
+that armor checks and speed reductions
+
+184
+00:03:53,350 --> 00:03:53,360
+that armor checks and speed reductions
+ 
+
+185
+00:03:53,360 --> 00:03:55,949
+that armor checks and speed reductions
+from wearing armor are excluded from the
+
+186
+00:03:55,949 --> 00:03:55,959
+from wearing armor are excluded from the
+ 
+
+187
+00:03:55,959 --> 00:03:58,030
+from wearing armor are excluded from the
+general rule that says all penalties
+
+188
+00:03:58,030 --> 00:03:58,040
+general rule that says all penalties
+ 
+
+189
+00:03:58,040 --> 00:04:00,630
+general rule that says all penalties
+from equipment still apply
+
+190
+00:04:00,630 --> 00:04:00,640
+from equipment still apply
+ 
+
+191
+00:04:00,640 --> 00:04:03,229
+from equipment still apply
+you gain five temporary hit points low
+
+192
+00:04:03,229 --> 00:04:03,239
+you gain five temporary hit points low
+ 
+
+193
+00:04:03,239 --> 00:04:06,270
+you gain five temporary hit points low
+light vision and scent as an imprecise
+
+194
+00:04:06,270 --> 00:04:06,280
+light vision and scent as an imprecise
+ 
+
+195
+00:04:06,280 --> 00:04:08,589
+light vision and scent as an imprecise
+sense that all feels pretty
+
+196
+00:04:08,589 --> 00:04:08,599
+sense that all feels pretty
+ 
+
+197
+00:04:08,599 --> 00:04:11,149
+sense that all feels pretty
+straightforward so far but here is where
+
+198
+00:04:11,149 --> 00:04:11,159
+straightforward so far but here is where
+ 
+
+199
+00:04:11,159 --> 00:04:14,470
+straightforward so far but here is where
+people often become confused first you
+
+200
+00:04:14,470 --> 00:04:14,480
+people often become confused first you
+ 
+
+201
+00:04:14,480 --> 00:04:16,749
+people often become confused first you
+gain a set of melee attacks that are
+
+202
+00:04:16,749 --> 00:04:16,759
+gain a set of melee attacks that are
+ 
+
+203
+00:04:16,759 --> 00:04:19,270
+gain a set of melee attacks that are
+based on the animal form you chose the
+
+204
+00:04:19,270 --> 00:04:19,280
+based on the animal form you chose the
+ 
+
+205
+00:04:19,280 --> 00:04:21,909
+based on the animal form you chose the
+wording can be a little tricky but your
+
+206
+00:04:21,909 --> 00:04:21,919
+wording can be a little tricky but your
+ 
+
+207
+00:04:21,919 --> 00:04:24,710
+wording can be a little tricky but your
+attack modifier with these attacks is
+
+208
+00:04:24,710 --> 00:04:24,720
+attack modifier with these attacks is
+ 
+
+209
+00:04:24,720 --> 00:04:27,390
+attack modifier with these attacks is
+either your normal unarmed attack
+
+210
+00:04:27,390 --> 00:04:27,400
+either your normal unarmed attack
+ 
+
+211
+00:04:27,400 --> 00:04:31,830
+either your normal unarmed attack
+modifier or an attack modifier of + 99
+
+212
+00:04:31,830 --> 00:04:31,840
+modifier or an attack modifier of + 99
+ 
+
+213
+00:04:31,840 --> 00:04:34,830
+modifier or an attack modifier of + 99
+whichever is higher is going to be the
+
+214
+00:04:34,830 --> 00:04:34,840
+whichever is higher is going to be the
+ 
+
+215
+00:04:34,840 --> 00:04:38,710
+whichever is higher is going to be the
+better of those two so if you have A+ 11
+
+216
+00:04:38,710 --> 00:04:38,720
+better of those two so if you have A+ 11
+ 
+
+217
+00:04:38,720 --> 00:04:40,909
+better of those two so if you have A+ 11
+unarmed attack bonus when you're not in
+
+218
+00:04:40,909 --> 00:04:40,919
+unarmed attack bonus when you're not in
+ 
+
+219
+00:04:40,919 --> 00:04:43,629
+unarmed attack bonus when you're not in
+an animal form then you're going to have
+
+220
+00:04:43,629 --> 00:04:43,639
+an animal form then you're going to have
+ 
+
+221
+00:04:43,639 --> 00:04:46,230
+an animal form then you're going to have
+A+ 11 attack bonus when you are in your
+
+222
+00:04:46,230 --> 00:04:46,240
+A+ 11 attack bonus when you are in your
+ 
+
+223
+00:04:46,240 --> 00:04:48,790
+A+ 11 attack bonus when you are in your
+animal form and if your normal unarmed
+
+224
+00:04:48,790 --> 00:04:48,800
+animal form and if your normal unarmed
+ 
+
+225
+00:04:48,800 --> 00:04:51,110
+animal form and if your normal unarmed
+attack bonus is less than nine then it
+
+226
+00:04:51,110 --> 00:04:51,120
+attack bonus is less than nine then it
+ 
+
+227
+00:04:51,120 --> 00:04:53,270
+attack bonus is less than nine then it
+gets bumped up to nine when you're in an
+
+228
+00:04:53,270 --> 00:04:53,280
+gets bumped up to nine when you're in an
+ 
+
+229
+00:04:53,280 --> 00:04:56,270
+gets bumped up to nine when you're in an
+animal form and this does cause some
+
+230
+00:04:56,270 --> 00:04:56,280
+animal form and this does cause some
+ 
+
+231
+00:04:56,280 --> 00:04:58,189
+animal form and this does cause some
+discussion and debate regarding how hand
+
+232
+00:04:58,189 --> 00:04:58,199
+discussion and debate regarding how hand
+ 
+
+233
+00:04:58,199 --> 00:05:00,990
+discussion and debate regarding how hand
+wraps of Mighty blows interact with
+
+234
+00:05:00,990 --> 00:05:01,000
+wraps of Mighty blows interact with
+ 
+
+235
+00:05:01,000 --> 00:05:04,029
+wraps of Mighty blows interact with
+these rules hand wraps of Mighty blows
+
+236
+00:05:04,029 --> 00:05:04,039
+these rules hand wraps of Mighty blows
+ 
+
+237
+00:05:04,039 --> 00:05:06,950
+these rules hand wraps of Mighty blows
+Grant an item bonus to unarmed attacks
+
+238
+00:05:06,950 --> 00:05:06,960
+Grant an item bonus to unarmed attacks
+ 
+
+239
+00:05:06,960 --> 00:05:08,710
+Grant an item bonus to unarmed attacks
+which would make the Caster's normal
+
+240
+00:05:08,710 --> 00:05:08,720
+which would make the Caster's normal
+ 
+
+241
+00:05:08,720 --> 00:05:11,830
+which would make the Caster's normal
+unarmed attack bonus higher but battle
+
+242
+00:05:11,830 --> 00:05:11,840
+unarmed attack bonus higher but battle
+ 
+
+243
+00:05:11,840 --> 00:05:15,230
+unarmed attack bonus higher but battle
+forms specifically exclude item bonuses
+
+244
+00:05:15,230 --> 00:05:15,240
+forms specifically exclude item bonuses
+ 
+
+245
+00:05:15,240 --> 00:05:18,070
+forms specifically exclude item bonuses
+when polymorphed so the question is if
+
+246
+00:05:18,070 --> 00:05:18,080
+when polymorphed so the question is if
+ 
+
+247
+00:05:18,080 --> 00:05:20,189
+when polymorphed so the question is if
+your regular unarmed attack bonus is
+
+248
+00:05:20,189 --> 00:05:20,199
+your regular unarmed attack bonus is
+ 
+
+249
+00:05:20,199 --> 00:05:22,230
+your regular unarmed attack bonus is
+higher because of hand wraps of Mighty
+
+250
+00:05:22,230 --> 00:05:22,240
+higher because of hand wraps of Mighty
+ 
+
+251
+00:05:22,240 --> 00:05:26,070
+higher because of hand wraps of Mighty
+blows do you use that bonus or not I
+
+252
+00:05:26,070 --> 00:05:26,080
+blows do you use that bonus or not I
+ 
+
+253
+00:05:26,080 --> 00:05:27,790
+blows do you use that bonus or not I
+don't want to spend too much time on the
+
+254
+00:05:27,790 --> 00:05:27,800
+don't want to spend too much time on the
+ 
+
+255
+00:05:27,800 --> 00:05:29,830
+don't want to spend too much time on the
+debate here but the bottom line is
+
+256
+00:05:29,830 --> 00:05:29,840
+debate here but the bottom line is
+ 
+
+257
+00:05:29,840 --> 00:05:32,629
+debate here but the bottom line is
+follow whichever way your GM decides for
+
+258
+00:05:32,629 --> 00:05:32,639
+follow whichever way your GM decides for
+ 
+
+259
+00:05:32,639 --> 00:05:35,230
+follow whichever way your GM decides for
+what it's worth I believe that the bonus
+
+260
+00:05:35,230 --> 00:05:35,240
+what it's worth I believe that the bonus
+ 
+
+261
+00:05:35,240 --> 00:05:37,510
+what it's worth I believe that the bonus
+would count in this case because there
+
+262
+00:05:37,510 --> 00:05:37,520
+would count in this case because there
+ 
+
+263
+00:05:37,520 --> 00:05:40,110
+would count in this case because there
+is a precedent with how a familiars
+
+264
+00:05:40,110 --> 00:05:40,120
+is a precedent with how a familiars
+ 
+
+265
+00:05:40,120 --> 00:05:42,749
+is a precedent with how a familiars
+armor class is calculated familiars do
+
+266
+00:05:42,749 --> 00:05:42,759
+armor class is calculated familiars do
+ 
+
+267
+00:05:42,759 --> 00:05:45,790
+armor class is calculated familiars do
+not benefit from item bonuses themselves
+
+268
+00:05:45,790 --> 00:05:45,800
+not benefit from item bonuses themselves
+ 
+
+269
+00:05:45,800 --> 00:05:47,950
+not benefit from item bonuses themselves
+but the official ruling is they do
+
+270
+00:05:47,950 --> 00:05:47,960
+but the official ruling is they do
+ 
+
+271
+00:05:47,960 --> 00:05:50,950
+but the official ruling is they do
+benefit from the item bonus of any armor
+
+272
+00:05:50,950 --> 00:05:50,960
+benefit from the item bonus of any armor
+ 
+
+273
+00:05:50,960 --> 00:05:53,270
+benefit from the item bonus of any armor
+their Master is wearing in the same
+
+274
+00:05:53,270 --> 00:05:53,280
+their Master is wearing in the same
+ 
+
+275
+00:05:53,280 --> 00:05:55,350
+their Master is wearing in the same
+light I do not believe that the item
+
+276
+00:05:55,350 --> 00:05:55,360
+light I do not believe that the item
+ 
+
+277
+00:05:55,360 --> 00:05:57,350
+light I do not believe that the item
+bonus provided by hand wraps of Mighty
+
+278
+00:05:57,350 --> 00:05:57,360
+bonus provided by hand wraps of Mighty
+ 
+
+279
+00:05:57,360 --> 00:05:59,830
+bonus provided by hand wraps of Mighty
+blows is modifying the animal forms
+
+280
+00:05:59,830 --> 00:05:59,840
+blows is modifying the animal forms
+ 
+
+281
+00:05:59,840 --> 00:06:02,150
+blows is modifying the animal forms
+attack bonus but instead is modifying
+
+282
+00:06:02,150 --> 00:06:02,160
+attack bonus but instead is modifying
+ 
+
+283
+00:06:02,160 --> 00:06:04,230
+attack bonus but instead is modifying
+the Caster's regular unarmed attack
+
+284
+00:06:04,230 --> 00:06:04,240
+the Caster's regular unarmed attack
+ 
+
+285
+00:06:04,240 --> 00:06:07,189
+the Caster's regular unarmed attack
+bonus which can then replace the animal
+
+286
+00:06:07,189 --> 00:06:07,199
+bonus which can then replace the animal
+ 
+
+287
+00:06:07,199 --> 00:06:10,469
+bonus which can then replace the animal
+forms attack bonus if it is higher plus
+
+288
+00:06:10,469 --> 00:06:10,479
+forms attack bonus if it is higher plus
+ 
+
+289
+00:06:10,479 --> 00:06:12,110
+forms attack bonus if it is higher plus
+it would just feel kind of odd if you
+
+290
+00:06:12,110 --> 00:06:12,120
+it would just feel kind of odd if you
+ 
+
+291
+00:06:12,120 --> 00:06:14,990
+it would just feel kind of odd if you
+suddenly became worse at unarmed attacks
+
+292
+00:06:14,990 --> 00:06:15,000
+suddenly became worse at unarmed attacks
+ 
+
+293
+00:06:15,000 --> 00:06:17,550
+suddenly became worse at unarmed attacks
+when in an animal form but again this is
+
+294
+00:06:17,550 --> 00:06:17,560
+when in an animal form but again this is
+ 
+
+295
+00:06:17,560 --> 00:06:19,469
+when in an animal form but again this is
+an area that sees a lot of debate so
+
+296
+00:06:19,469 --> 00:06:19,479
+an area that sees a lot of debate so
+ 
+
+297
+00:06:19,479 --> 00:06:22,790
+an area that sees a lot of debate so
+follow your GM's guidance now let's talk
+
+298
+00:06:22,790 --> 00:06:22,800
+follow your GM's guidance now let's talk
+ 
+
+299
+00:06:22,800 --> 00:06:26,070
+follow your GM's guidance now let's talk
+about damage each form also grants at
+
+300
+00:06:26,070 --> 00:06:26,080
+about damage each form also grants at
+ 
+
+301
+00:06:26,080 --> 00:06:28,430
+about damage each form also grants at
+least one attack and it says here that
+
+302
+00:06:28,430 --> 00:06:28,440
+least one attack and it says here that
+ 
+
+303
+00:06:28,440 --> 00:06:32,270
+least one attack and it says here that
+your damage bonus is+ one for example
+
+304
+00:06:32,270 --> 00:06:32,280
+your damage bonus is+ one for example
+ 
+
+305
+00:06:32,280 --> 00:06:35,510
+your damage bonus is+ one for example
+Apes can punch with a base damage of 2d6
+
+306
+00:06:35,510 --> 00:06:35,520
+Apes can punch with a base damage of 2d6
+ 
+
+307
+00:06:35,520 --> 00:06:37,950
+Apes can punch with a base damage of 2d6
+bludgeoning and we add one to that per
+
+308
+00:06:37,950 --> 00:06:37,960
+bludgeoning and we add one to that per
+ 
+
+309
+00:06:37,960 --> 00:06:42,710
+bludgeoning and we add one to that per
+the spell making it 2d6 + one this often
+
+310
+00:06:42,710 --> 00:06:42,720
+the spell making it 2d6 + one this often
+ 
+
+311
+00:06:42,720 --> 00:06:44,710
+the spell making it 2d6 + one this often
+leads players to scratch their heads and
+
+312
+00:06:44,710 --> 00:06:44,720
+leads players to scratch their heads and
+ 
+
+313
+00:06:44,720 --> 00:06:48,309
+leads players to scratch their heads and
+wonder why a gorilla would only have a
+
+314
+00:06:48,309 --> 00:06:48,319
+wonder why a gorilla would only have a
+ 
+
+315
+00:06:48,319 --> 00:06:51,189
+wonder why a gorilla would only have a
+plus one damage bonus and more than a
+
+316
+00:06:51,189 --> 00:06:51,199
+plus one damage bonus and more than a
+ 
+
+317
+00:06:51,199 --> 00:06:53,430
+plus one damage bonus and more than a
+few players go searching for an ape
+
+318
+00:06:53,430 --> 00:06:53,440
+few players go searching for an ape
+ 
+
+319
+00:06:53,440 --> 00:06:55,790
+few players go searching for an ape
+strength score with the intent of adding
+
+320
+00:06:55,790 --> 00:06:55,800
+strength score with the intent of adding
+ 
+
+321
+00:06:55,800 --> 00:06:59,390
+strength score with the intent of adding
+it to the 2d6 plus one when polymorphed
+
+322
+00:06:59,390 --> 00:06:59,400
+it to the 2d6 plus one when polymorphed
+ 
+
+323
+00:06:59,400 --> 00:07:01,990
+it to the 2d6 plus one when polymorphed
+in a battle form the battle form's
+
+324
+00:07:01,990 --> 00:07:02,000
+in a battle form the battle form's
+ 
+
+325
+00:07:02,000 --> 00:07:06,029
+in a battle form the battle form's
+traits replace yours essentially you get
+
+326
+00:07:06,029 --> 00:07:06,039
+traits replace yours essentially you get
+ 
+
+327
+00:07:06,039 --> 00:07:08,790
+traits replace yours essentially you get
+what they give you and nothing more so
+
+328
+00:07:08,790 --> 00:07:08,800
+what they give you and nothing more so
+ 
+
+329
+00:07:08,800 --> 00:07:11,869
+what they give you and nothing more so
+when you're an ape your damage is 2d6 +
+
+330
+00:07:11,869 --> 00:07:11,879
+when you're an ape your damage is 2d6 +
+ 
+
+331
+00:07:11,879 --> 00:07:14,670
+when you're an ape your damage is 2d6 +
+one nothing more unless you heighten the
+
+332
+00:07:14,670 --> 00:07:14,680
+one nothing more unless you heighten the
+ 
+
+333
+00:07:14,680 --> 00:07:16,510
+one nothing more unless you heighten the
+spell which will talk about in just a
+
+334
+00:07:16,510 --> 00:07:16,520
+spell which will talk about in just a
+ 
+
+335
+00:07:16,520 --> 00:07:19,390
+spell which will talk about in just a
+moment but any traits of your character
+
+336
+00:07:19,390 --> 00:07:19,400
+moment but any traits of your character
+ 
+
+337
+00:07:19,400 --> 00:07:22,950
+moment but any traits of your character
+that are not modified by the battle form
+
+338
+00:07:22,950 --> 00:07:22,960
+that are not modified by the battle form
+ 
+
+339
+00:07:22,960 --> 00:07:25,150
+that are not modified by the battle form
+remain the same so for example your
+
+340
+00:07:25,150 --> 00:07:25,160
+remain the same so for example your
+ 
+
+341
+00:07:25,160 --> 00:07:27,230
+remain the same so for example your
+charisma intelligence dexterity wisdom
+
+342
+00:07:27,230 --> 00:07:27,240
+charisma intelligence dexterity wisdom
+ 
+
+343
+00:07:27,240 --> 00:07:30,510
+charisma intelligence dexterity wisdom
+would all remain the same when in this
+
+344
+00:07:30,510 --> 00:07:30,520
+would all remain the same when in this
+ 
+
+345
+00:07:30,520 --> 00:07:31,589
+would all remain the same when in this
+animal
+
+346
+00:07:31,589 --> 00:07:31,599
+animal
+ 
+
+347
+00:07:31,599 --> 00:07:34,230
+animal
+form and this conversation leads to the
+
+348
+00:07:34,230 --> 00:07:34,240
+form and this conversation leads to the
+ 
+
+349
+00:07:34,240 --> 00:07:36,909
+form and this conversation leads to the
+last bullet it says your athletic skill
+
+350
+00:07:36,909 --> 00:07:36,919
+last bullet it says your athletic skill
+ 
+
+351
+00:07:36,919 --> 00:07:40,830
+last bullet it says your athletic skill
+bonus is+ 9 or whatever your regular
+
+352
+00:07:40,830 --> 00:07:40,840
+bonus is+ 9 or whatever your regular
+ 
+
+353
+00:07:40,840 --> 00:07:43,629
+bonus is+ 9 or whatever your regular
+Athletics bonus is just like when
+
+354
+00:07:43,629 --> 00:07:43,639
+Athletics bonus is just like when
+ 
+
+355
+00:07:43,639 --> 00:07:45,869
+Athletics bonus is just like when
+calculating your attack bonus is going
+
+356
+00:07:45,869 --> 00:07:45,879
+calculating your attack bonus is going
+ 
+
+357
+00:07:45,879 --> 00:07:48,749
+calculating your attack bonus is going
+to be the higher of those two and this
+
+358
+00:07:48,749 --> 00:07:48,759
+to be the higher of those two and this
+ 
+
+359
+00:07:48,759 --> 00:07:50,510
+to be the higher of those two and this
+is another place where players can
+
+360
+00:07:50,510 --> 00:07:50,520
+is another place where players can
+ 
+
+361
+00:07:50,520 --> 00:07:52,670
+is another place where players can
+become a little confused because it
+
+362
+00:07:52,670 --> 00:07:52,680
+become a little confused because it
+ 
+
+363
+00:07:52,680 --> 00:07:56,149
+become a little confused because it
+means your athletic skill in ape form is
+
+364
+00:07:56,149 --> 00:07:56,159
+means your athletic skill in ape form is
+ 
+
+365
+00:07:56,159 --> 00:07:58,670
+means your athletic skill in ape form is
+the same as when you're a frog or a
+
+366
+00:07:58,670 --> 00:07:58,680
+the same as when you're a frog or a
+ 
+
+367
+00:07:58,680 --> 00:08:00,790
+the same as when you're a frog or a
+snake or or you take any other kind of
+
+368
+00:08:00,790 --> 00:08:00,800
+snake or or you take any other kind of
+ 
+
+369
+00:08:00,800 --> 00:08:03,869
+snake or or you take any other kind of
+animal form which seems a little off but
+
+370
+00:08:03,869 --> 00:08:03,879
+animal form which seems a little off but
+ 
+
+371
+00:08:03,879 --> 00:08:06,149
+animal form which seems a little off but
+remember whatever animal you choose with
+
+372
+00:08:06,149 --> 00:08:06,159
+remember whatever animal you choose with
+ 
+
+373
+00:08:06,159 --> 00:08:08,869
+remember whatever animal you choose with
+this spell you will be a mediumsized
+
+374
+00:08:08,869 --> 00:08:08,879
+this spell you will be a mediumsized
+ 
+
+375
+00:08:08,879 --> 00:08:11,230
+this spell you will be a mediumsized
+version of that animal so we're talking
+
+376
+00:08:11,230 --> 00:08:11,240
+version of that animal so we're talking
+ 
+
+377
+00:08:11,240 --> 00:08:13,469
+version of that animal so we're talking
+about really big frogs and really big
+
+378
+00:08:13,469 --> 00:08:13,479
+about really big frogs and really big
+ 
+
+379
+00:08:13,479 --> 00:08:15,830
+about really big frogs and really big
+snakes and as a medium-sized ape you're
+
+380
+00:08:15,830 --> 00:08:15,840
+snakes and as a medium-sized ape you're
+ 
+
+381
+00:08:15,840 --> 00:08:17,589
+snakes and as a medium-sized ape you're
+probably a little smaller than what a
+
+382
+00:08:17,589 --> 00:08:17,599
+probably a little smaller than what a
+ 
+
+383
+00:08:17,599 --> 00:08:20,309
+probably a little smaller than what a
+lot of people Envision for a silver back
+
+384
+00:08:20,309 --> 00:08:20,319
+lot of people Envision for a silver back
+ 
+
+385
+00:08:20,319 --> 00:08:22,909
+lot of people Envision for a silver back
+gorilla also note that each animal form
+
+386
+00:08:22,909 --> 00:08:22,919
+gorilla also note that each animal form
+ 
+
+387
+00:08:22,919 --> 00:08:25,309
+gorilla also note that each animal form
+provides his own movement scores these
+
+388
+00:08:25,309 --> 00:08:25,319
+provides his own movement scores these
+ 
+
+389
+00:08:25,319 --> 00:08:27,830
+provides his own movement scores these
+again replace whatever your normal speed
+
+390
+00:08:27,830 --> 00:08:27,840
+again replace whatever your normal speed
+ 
+
+391
+00:08:27,840 --> 00:08:30,670
+again replace whatever your normal speed
+scores are you do not get to choose the
+
+392
+00:08:30,670 --> 00:08:30,680
+scores are you do not get to choose the
+ 
+
+393
+00:08:30,680 --> 00:08:33,350
+scores are you do not get to choose the
+better of the two unless we should look
+
+394
+00:08:33,350 --> 00:08:33,360
+better of the two unless we should look
+ 
+
+395
+00:08:33,360 --> 00:08:35,750
+better of the two unless we should look
+at how this spell is heightened with
+
+396
+00:08:35,750 --> 00:08:35,760
+at how this spell is heightened with
+ 
+
+397
+00:08:35,760 --> 00:08:38,070
+at how this spell is heightened with
+each spell level through fifth you are
+
+398
+00:08:38,070 --> 00:08:38,080
+each spell level through fifth you are
+ 
+
+399
+00:08:38,080 --> 00:08:40,790
+each spell level through fifth you are
+able to heighten your animal form and it
+
+400
+00:08:40,790 --> 00:08:40,800
+able to heighten your animal form and it
+ 
+
+401
+00:08:40,800 --> 00:08:43,750
+able to heighten your animal form and it
+becomes stronger at third level you gain
+
+402
+00:08:43,750 --> 00:08:43,760
+becomes stronger at third level you gain
+ 
+
+403
+00:08:43,760 --> 00:08:46,070
+becomes stronger at third level you gain
+more temporary hit points your attack
+
+404
+00:08:46,070 --> 00:08:46,080
+more temporary hit points your attack
+ 
+
+405
+00:08:46,080 --> 00:08:49,750
+more temporary hit points your attack
+modifier becomes + 14 your damage bonus
+
+406
+00:08:49,750 --> 00:08:49,760
+modifier becomes + 14 your damage bonus
+ 
+
+407
+00:08:49,760 --> 00:08:52,550
+modifier becomes + 14 your damage bonus
+becomes plus five and notice here that
+
+408
+00:08:52,550 --> 00:08:52,560
+becomes plus five and notice here that
+ 
+
+409
+00:08:52,560 --> 00:08:55,870
+becomes plus five and notice here that
+the damage bonus does not increase by
+
+410
+00:08:55,870 --> 00:08:55,880
+the damage bonus does not increase by
+ 
+
+411
+00:08:55,880 --> 00:08:58,430
+the damage bonus does not increase by
+five making it a total of plus six it
+
+412
+00:08:58,430 --> 00:08:58,440
+five making it a total of plus six it
+ 
+
+413
+00:08:58,440 --> 00:09:01,389
+five making it a total of plus six it
+simply becomes Comes A plus five and
+
+414
+00:09:01,389 --> 00:09:01,399
+simply becomes Comes A plus five and
+ 
+
+415
+00:09:01,399 --> 00:09:04,389
+simply becomes Comes A plus five and
+your athletic skill increases as well at
+
+416
+00:09:04,389 --> 00:09:04,399
+your athletic skill increases as well at
+ 
+
+417
+00:09:04,399 --> 00:09:06,350
+your athletic skill increases as well at
+fourth level your battle form becomes
+
+418
+00:09:06,350 --> 00:09:06,360
+fourth level your battle form becomes
+ 
+
+419
+00:09:06,360 --> 00:09:09,190
+fourth level your battle form becomes
+size large and you gain 10 ft Of Reach
+
+420
+00:09:09,190 --> 00:09:09,200
+size large and you gain 10 ft Of Reach
+ 
+
+421
+00:09:09,200 --> 00:09:11,310
+size large and you gain 10 ft Of Reach
+In addition to the same boost received
+
+422
+00:09:11,310 --> 00:09:11,320
+In addition to the same boost received
+ 
+
+423
+00:09:11,320 --> 00:09:13,590
+In addition to the same boost received
+at third level and when heightened to
+
+424
+00:09:13,590 --> 00:09:13,600
+at third level and when heightened to
+ 
+
+425
+00:09:13,600 --> 00:09:16,110
+at third level and when heightened to
+fifth level your animal form becomes
+
+426
+00:09:16,110 --> 00:09:16,120
+fifth level your animal form becomes
+ 
+
+427
+00:09:16,120 --> 00:09:19,790
+fifth level your animal form becomes
+huge has 15 ft of reach and your damage
+
+428
+00:09:19,790 --> 00:09:19,800
+huge has 15 ft of reach and your damage
+ 
+
+429
+00:09:19,800 --> 00:09:22,269
+huge has 15 ft of reach and your damage
+dice are
+
+430
+00:09:22,269 --> 00:09:22,279
+dice are
+ 
+
+431
+00:09:22,279 --> 00:09:24,509
+dice are
+doubled before we close I'd like to take
+
+432
+00:09:24,509 --> 00:09:24,519
+doubled before we close I'd like to take
+ 
+
+433
+00:09:24,519 --> 00:09:26,670
+doubled before we close I'd like to take
+a moment to thank all of my patrons
+
+434
+00:09:26,670 --> 00:09:26,680
+a moment to thank all of my patrons
+ 
+
+435
+00:09:26,680 --> 00:09:28,230
+a moment to thank all of my patrons
+these videos would not be possible
+
+436
+00:09:28,230 --> 00:09:28,240
+these videos would not be possible
+ 
+
+437
+00:09:28,240 --> 00:09:30,230
+these videos would not be possible
+without their continued generosity and
+
+438
+00:09:30,230 --> 00:09:30,240
+without their continued generosity and
+ 
+
+439
+00:09:30,240 --> 00:09:32,829
+without their continued generosity and
+support members of the howplay patreon
+
+440
+00:09:32,829 --> 00:09:32,839
+support members of the howplay patreon
+ 
+
+441
+00:09:32,839 --> 00:09:34,949
+support members of the howplay patreon
+community receive special benefits like
+
+442
+00:09:34,949 --> 00:09:34,959
+community receive special benefits like
+ 
+
+443
+00:09:34,959 --> 00:09:37,030
+community receive special benefits like
+exclusive content and getting to vote on
+
+444
+00:09:37,030 --> 00:09:37,040
+exclusive content and getting to vote on
+ 
+
+445
+00:09:37,040 --> 00:09:39,389
+exclusive content and getting to vote on
+the topics I cover visit the link shown
+
+446
+00:09:39,389 --> 00:09:39,399
+the topics I cover visit the link shown
+ 
+
+447
+00:09:39,399 --> 00:09:41,110
+the topics I cover visit the link shown
+at the top of the screen and in the
+
+448
+00:09:41,110 --> 00:09:41,120
+at the top of the screen and in the
+ 
+
+449
+00:09:41,120 --> 00:09:43,150
+at the top of the screen and in the
+description if you'd like to know more
+
+450
+00:09:43,150 --> 00:09:43,160
+description if you'd like to know more
+ 
+
+451
+00:09:43,160 --> 00:09:44,310
+description if you'd like to know more
+if you would like to support this
+
+452
+00:09:44,310 --> 00:09:44,320
+if you would like to support this
+ 
+
+453
+00:09:44,320 --> 00:09:46,430
+if you would like to support this
+Channel and help it grow the easiest way
+
+454
+00:09:46,430 --> 00:09:46,440
+Channel and help it grow the easiest way
+ 
+
+455
+00:09:46,440 --> 00:09:48,350
+Channel and help it grow the easiest way
+to do that is by subscribing and
+
+456
+00:09:48,350 --> 00:09:48,360
+to do that is by subscribing and
+ 
+
+457
+00:09:48,360 --> 00:09:50,069
+to do that is by subscribing and
+clicking the Bell icon so you get
+
+458
+00:09:50,069 --> 00:09:50,079
+clicking the Bell icon so you get
+ 
+
+459
+00:09:50,079 --> 00:09:52,310
+clicking the Bell icon so you get
+notified when new videos release and I
+
+460
+00:09:52,310 --> 00:09:52,320
+notified when new videos release and I
+ 
+
+461
+00:09:52,320 --> 00:09:53,870
+notified when new videos release and I
+can always be reached through Twitter
+
+462
+00:09:53,870 --> 00:09:53,880
+can always be reached through Twitter
+ 
+
+463
+00:09:53,880 --> 00:09:56,350
+can always be reached through Twitter
+and Facebook too thanks for watching
+
+464
+00:09:56,350 --> 00:09:56,360
+and Facebook too thanks for watching
+ 
+
+465
+00:09:56,360 --> 00:10:01,120
+and Facebook too thanks for watching
+take care and happy gaming
+

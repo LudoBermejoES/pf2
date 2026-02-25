@@ -1,0 +1,4265 @@
+1
+00:00:00,599 --> 00:00:02,590
+
+hey everybody Dave here with another
+
+2
+00:00:02,590 --> 00:00:02,600
+hey everybody Dave here with another
+ 
+
+3
+00:00:02,600 --> 00:00:05,110
+hey everybody Dave here with another
+Pathfinder rule reminder for you and
+
+4
+00:00:05,110 --> 00:00:05,120
+Pathfinder rule reminder for you and
+ 
+
+5
+00:00:05,120 --> 00:00:06,950
+Pathfinder rule reminder for you and
+today we're going to be talking about
+
+6
+00:00:06,950 --> 00:00:06,960
+today we're going to be talking about
+ 
+
+7
+00:00:06,960 --> 00:00:09,310
+today we're going to be talking about
+gambling in Pathfinder this was a
+
+8
+00:00:09,310 --> 00:00:09,320
+gambling in Pathfinder this was a
+ 
+
+9
+00:00:09,320 --> 00:00:12,310
+gambling in Pathfinder this was a
+question that recently came up of how do
+
+10
+00:00:12,310 --> 00:00:12,320
+question that recently came up of how do
+ 
+
+11
+00:00:12,320 --> 00:00:16,109
+question that recently came up of how do
+you make gambling work in a tabletop RPG
+
+12
+00:00:16,109 --> 00:00:16,119
+you make gambling work in a tabletop RPG
+ 
+
+13
+00:00:16,119 --> 00:00:18,830
+you make gambling work in a tabletop RPG
+are there rules in place to ensure that
+
+14
+00:00:18,830 --> 00:00:18,840
+are there rules in place to ensure that
+ 
+
+15
+00:00:18,840 --> 00:00:21,150
+are there rules in place to ensure that
+the players don't just completely break
+
+16
+00:00:21,150 --> 00:00:21,160
+the players don't just completely break
+ 
+
+17
+00:00:21,160 --> 00:00:22,950
+the players don't just completely break
+everything by winning billions and
+
+18
+00:00:22,950 --> 00:00:22,960
+everything by winning billions and
+ 
+
+19
+00:00:22,960 --> 00:00:26,230
+everything by winning billions and
+billions of of gold coins and how would
+
+20
+00:00:26,230 --> 00:00:26,240
+billions of of gold coins and how would
+ 
+
+21
+00:00:26,240 --> 00:00:30,189
+billions of of gold coins and how would
+you manage players who want to either uh
+
+22
+00:00:30,189 --> 00:00:30,199
+you manage players who want to either uh
+ 
+
+23
+00:00:30,199 --> 00:00:33,030
+you manage players who want to either uh
+play into the character trait of being a
+
+24
+00:00:33,030 --> 00:00:33,040
+play into the character trait of being a
+ 
+
+25
+00:00:33,040 --> 00:00:36,750
+play into the character trait of being a
+gambler like a a Lando calisan Fantasy
+
+26
+00:00:36,750 --> 00:00:36,760
+gambler like a a Lando calisan Fantasy
+ 
+
+27
+00:00:36,760 --> 00:00:39,590
+gambler like a a Lando calisan Fantasy
+character type or how would you handle
+
+28
+00:00:39,590 --> 00:00:39,600
+character type or how would you handle
+ 
+
+29
+00:00:39,600 --> 00:00:42,709
+character type or how would you handle
+characters who want to do like a a um an
+
+30
+00:00:42,709 --> 00:00:42,719
+characters who want to do like a a um an
+ 
+
+31
+00:00:42,719 --> 00:00:46,310
+characters who want to do like a a um an
+Oceans 11 style heist with uh casino
+
+32
+00:00:46,310 --> 00:00:46,320
+Oceans 11 style heist with uh casino
+ 
+
+33
+00:00:46,320 --> 00:00:48,510
+Oceans 11 style heist with uh casino
+games so we're going to talk about a
+
+34
+00:00:48,510 --> 00:00:48,520
+games so we're going to talk about a
+ 
+
+35
+00:00:48,520 --> 00:00:50,910
+games so we're going to talk about a
+couple of those pieces um primarily
+
+36
+00:00:50,910 --> 00:00:50,920
+couple of those pieces um primarily
+ 
+
+37
+00:00:50,920 --> 00:00:52,590
+couple of those pieces um primarily
+we're going to be talking about uh the
+
+38
+00:00:52,590 --> 00:00:52,600
+we're going to be talking about uh the
+ 
+
+39
+00:00:52,600 --> 00:00:56,229
+we're going to be talking about uh the
+gambling activity itself and you can
+
+40
+00:00:56,229 --> 00:00:56,239
+gambling activity itself and you can
+ 
+
+41
+00:00:56,239 --> 00:00:59,389
+gambling activity itself and you can
+probably take these pointers and ideas
+
+42
+00:00:59,389 --> 00:00:59,399
+probably take these pointers and ideas
+ 
+
+43
+00:00:59,399 --> 00:01:01,630
+probably take these pointers and ideas
+and craft them into a larger story if
+
+44
+00:01:01,630 --> 00:01:01,640
+and craft them into a larger story if
+ 
+
+45
+00:01:01,640 --> 00:01:02,630
+and craft them into a larger story if
+that's what you
+
+46
+00:01:02,630 --> 00:01:02,640
+that's what you
+ 
+
+47
+00:01:02,640 --> 00:01:04,670
+that's what you
+want so there are a couple different
+
+48
+00:01:04,670 --> 00:01:04,680
+want so there are a couple different
+ 
+
+49
+00:01:04,680 --> 00:01:07,950
+want so there are a couple different
+ways to manage a player gambling in your
+
+50
+00:01:07,950 --> 00:01:07,960
+ways to manage a player gambling in your
+ 
+
+51
+00:01:07,960 --> 00:01:09,390
+ways to manage a player gambling in your
+game and each of them kind of have their
+
+52
+00:01:09,390 --> 00:01:09,400
+game and each of them kind of have their
+ 
+
+53
+00:01:09,400 --> 00:01:11,230
+game and each of them kind of have their
+own uh strengths and weaknesses and
+
+54
+00:01:11,230 --> 00:01:11,240
+own uh strengths and weaknesses and
+ 
+
+55
+00:01:11,240 --> 00:01:13,270
+own uh strengths and weaknesses and
+we'll talk through um each of these in
+
+56
+00:01:13,270 --> 00:01:13,280
+we'll talk through um each of these in
+ 
+
+57
+00:01:13,280 --> 00:01:16,070
+we'll talk through um each of these in
+turn the first is just going to be your
+
+58
+00:01:16,070 --> 00:01:16,080
+turn the first is just going to be your
+ 
+
+59
+00:01:16,080 --> 00:01:18,950
+turn the first is just going to be your
+regular earn income activity this is a
+
+60
+00:01:18,950 --> 00:01:18,960
+regular earn income activity this is a
+ 
+
+61
+00:01:18,960 --> 00:01:22,950
+regular earn income activity this is a
+downtime activity where on on days where
+
+62
+00:01:22,950 --> 00:01:22,960
+downtime activity where on on days where
+ 
+
+63
+00:01:22,960 --> 00:01:24,789
+downtime activity where on on days where
+there's no adventuring going on you can
+
+64
+00:01:24,789 --> 00:01:24,799
+there's no adventuring going on you can
+ 
+
+65
+00:01:24,799 --> 00:01:27,270
+there's no adventuring going on you can
+give your players the opportunity to do
+
+66
+00:01:27,270 --> 00:01:27,280
+give your players the opportunity to do
+ 
+
+67
+00:01:27,280 --> 00:01:29,429
+give your players the opportunity to do
+a downtime activity and for some people
+
+68
+00:01:29,429 --> 00:01:29,439
+a downtime activity and for some people
+ 
+
+69
+00:01:29,439 --> 00:01:31,270
+a downtime activity and for some people
+that could mean I'm going to go craft
+
+70
+00:01:31,270 --> 00:01:31,280
+that could mean I'm going to go craft
+ 
+
+71
+00:01:31,280 --> 00:01:33,149
+that could mean I'm going to go craft
+for some people that could mean I'm
+
+72
+00:01:33,149 --> 00:01:33,159
+for some people that could mean I'm
+ 
+
+73
+00:01:33,159 --> 00:01:36,230
+for some people that could mean I'm
+going to go work in the Local Tavern and
+
+74
+00:01:36,230 --> 00:01:36,240
+going to go work in the Local Tavern and
+ 
+
+75
+00:01:36,240 --> 00:01:38,149
+going to go work in the Local Tavern and
+for some players that could be uh I want
+
+76
+00:01:38,149 --> 00:01:38,159
+for some players that could be uh I want
+ 
+
+77
+00:01:38,159 --> 00:01:40,190
+for some players that could be uh I want
+to go to the local casino and see if I
+
+78
+00:01:40,190 --> 00:01:40,200
+to go to the local casino and see if I
+ 
+
+79
+00:01:40,200 --> 00:01:41,870
+to go to the local casino and see if I
+can make some
+
+80
+00:01:41,870 --> 00:01:41,880
+can make some
+ 
+
+81
+00:01:41,880 --> 00:01:45,350
+can make some
+money and gambling as an earn income
+
+82
+00:01:45,350 --> 00:01:45,360
+money and gambling as an earn income
+ 
+
+83
+00:01:45,360 --> 00:01:47,990
+money and gambling as an earn income
+Activity Works exactly the same way as
+
+84
+00:01:47,990 --> 00:01:48,000
+Activity Works exactly the same way as
+ 
+
+85
+00:01:48,000 --> 00:01:50,709
+Activity Works exactly the same way as
+any other earn income activity the only
+
+86
+00:01:50,709 --> 00:01:50,719
+any other earn income activity the only
+ 
+
+87
+00:01:50,719 --> 00:01:51,870
+any other earn income activity the only
+difference is going to be in the
+
+88
+00:01:51,870 --> 00:01:51,880
+difference is going to be in the
+ 
+
+89
+00:01:51,880 --> 00:01:53,590
+difference is going to be in the
+narrative however you describe it
+
+90
+00:01:53,590 --> 00:01:53,600
+narrative however you describe it
+ 
+
+91
+00:01:53,600 --> 00:01:56,109
+narrative however you describe it
+occurring but it's going to be uh an
+
+92
+00:01:56,109 --> 00:01:56,119
+occurring but it's going to be uh an
+ 
+
+93
+00:01:56,119 --> 00:01:59,029
+occurring but it's going to be uh an
+entire day or roughly 8ish hours of
+
+94
+00:01:59,029 --> 00:01:59,039
+entire day or roughly 8ish hours of
+ 
+
+95
+00:01:59,039 --> 00:02:01,590
+entire day or roughly 8ish hours of
+activity in the casino and it comes down
+
+96
+00:02:01,590 --> 00:02:01,600
+activity in the casino and it comes down
+ 
+
+97
+00:02:01,600 --> 00:02:04,830
+activity in the casino and it comes down
+to one di roll and that di roll will
+
+98
+00:02:04,830 --> 00:02:04,840
+to one di roll and that di roll will
+ 
+
+99
+00:02:04,840 --> 00:02:07,109
+to one di roll and that di roll will
+determine how much of a profit is
+
+100
+00:02:07,109 --> 00:02:07,119
+determine how much of a profit is
+ 
+
+101
+00:02:07,119 --> 00:02:08,830
+determine how much of a profit is
+generated by that character in their
+
+102
+00:02:08,830 --> 00:02:08,840
+generated by that character in their
+ 
+
+103
+00:02:08,840 --> 00:02:11,309
+generated by that character in their
+gambling activities for that day of
+
+104
+00:02:11,309 --> 00:02:11,319
+gambling activities for that day of
+ 
+
+105
+00:02:11,319 --> 00:02:13,510
+gambling activities for that day of
+downtime they will need to use an
+
+106
+00:02:13,510 --> 00:02:13,520
+downtime they will need to use an
+ 
+
+107
+00:02:13,520 --> 00:02:15,910
+downtime they will need to use an
+appropriate lore skill to do this most
+
+108
+00:02:15,910 --> 00:02:15,920
+appropriate lore skill to do this most
+ 
+
+109
+00:02:15,920 --> 00:02:19,589
+appropriate lore skill to do this most
+likely either Casino lore or game lore
+
+110
+00:02:19,589 --> 00:02:19,599
+likely either Casino lore or game lore
+ 
+
+111
+00:02:19,599 --> 00:02:22,350
+likely either Casino lore or game lore
+and um if you want detailed information
+
+112
+00:02:22,350 --> 00:02:22,360
+and um if you want detailed information
+ 
+
+113
+00:02:22,360 --> 00:02:24,350
+and um if you want detailed information
+of how that works I'll make sure I link
+
+114
+00:02:24,350 --> 00:02:24,360
+of how that works I'll make sure I link
+ 
+
+115
+00:02:24,360 --> 00:02:27,070
+of how that works I'll make sure I link
+in the comments section or the
+
+116
+00:02:27,070 --> 00:02:27,080
+in the comments section or the
+ 
+
+117
+00:02:27,080 --> 00:02:30,150
+in the comments section or the
+description of this video uh my previous
+
+118
+00:02:30,150 --> 00:02:30,160
+description of this video uh my previous
+ 
+
+119
+00:02:30,160 --> 00:02:32,309
+description of this video uh my previous
+videos on the earn income activity that
+
+120
+00:02:32,309 --> 00:02:32,319
+videos on the earn income activity that
+ 
+
+121
+00:02:32,319 --> 00:02:33,830
+videos on the earn income activity that
+really goes through the nuts and bolts
+
+122
+00:02:33,830 --> 00:02:33,840
+really goes through the nuts and bolts
+ 
+
+123
+00:02:33,840 --> 00:02:36,830
+really goes through the nuts and bolts
+of how earn income Works uh I will
+
+124
+00:02:36,830 --> 00:02:36,840
+of how earn income Works uh I will
+ 
+
+125
+00:02:36,840 --> 00:02:39,790
+of how earn income Works uh I will
+mention that uh there is a spell that
+
+126
+00:02:39,790 --> 00:02:39,800
+mention that uh there is a spell that
+ 
+
+127
+00:02:39,800 --> 00:02:41,509
+mention that uh there is a spell that
+was released I think in secrets of magic
+
+128
+00:02:41,509 --> 00:02:41,519
+was released I think in secrets of magic
+ 
+
+129
+00:02:41,519 --> 00:02:45,070
+was released I think in secrets of magic
+called nudge the odds and the nudge the
+
+130
+00:02:45,070 --> 00:02:45,080
+called nudge the odds and the nudge the
+ 
+
+131
+00:02:45,080 --> 00:02:47,910
+called nudge the odds and the nudge the
+odds spell allows a person to get a plus
+
+132
+00:02:47,910 --> 00:02:47,920
+odds spell allows a person to get a plus
+ 
+
+133
+00:02:47,920 --> 00:02:52,149
+odds spell allows a person to get a plus
+one bonus to their games lore roles for
+
+134
+00:02:52,149 --> 00:02:52,159
+one bonus to their games lore roles for
+ 
+
+135
+00:02:52,159 --> 00:02:55,309
+one bonus to their games lore roles for
+one hour and it turns any critical
+
+136
+00:02:55,309 --> 00:02:55,319
+one hour and it turns any critical
+ 
+
+137
+00:02:55,319 --> 00:02:59,830
+one hour and it turns any critical
+failures into regular failures so uh the
+
+138
+00:02:59,830 --> 00:02:59,840
+failures into regular failures so uh the
+ 
+
+139
+00:02:59,840 --> 00:03:05,670
+failures into regular failures so uh the
+base version cannot be used with um with
+
+140
+00:03:05,670 --> 00:03:05,680
+base version cannot be used with um with
+ 
+
+141
+00:03:05,680 --> 00:03:07,789
+base version cannot be used with um with
+earn income because it only has a 1hour
+
+142
+00:03:07,789 --> 00:03:07,799
+earn income because it only has a 1hour
+ 
+
+143
+00:03:07,799 --> 00:03:11,390
+earn income because it only has a 1hour
+duration but if you increase it to fifth
+
+144
+00:03:11,390 --> 00:03:11,400
+duration but if you increase it to fifth
+ 
+
+145
+00:03:11,400 --> 00:03:13,990
+duration but if you increase it to fifth
+level I believe it becomes an all day
+
+146
+00:03:13,990 --> 00:03:14,000
+level I believe it becomes an all day
+ 
+
+147
+00:03:14,000 --> 00:03:16,990
+level I believe it becomes an all day
+activity and you specifically can use it
+
+148
+00:03:16,990 --> 00:03:17,000
+activity and you specifically can use it
+ 
+
+149
+00:03:17,000 --> 00:03:19,430
+activity and you specifically can use it
+as part of your downtime activities now
+
+150
+00:03:19,430 --> 00:03:19,440
+as part of your downtime activities now
+ 
+
+151
+00:03:19,440 --> 00:03:23,149
+as part of your downtime activities now
+on the downside of using this spell is
+
+152
+00:03:23,149 --> 00:03:23,159
+on the downside of using this spell is
+ 
+
+153
+00:03:23,159 --> 00:03:25,430
+on the downside of using this spell is
+one facial feature determined by the GM
+
+154
+00:03:25,430 --> 00:03:25,440
+one facial feature determined by the GM
+ 
+
+155
+00:03:25,440 --> 00:03:27,630
+one facial feature determined by the GM
+is turned golden for the duration of the
+
+156
+00:03:27,630 --> 00:03:27,640
+is turned golden for the duration of the
+ 
+
+157
+00:03:27,640 --> 00:03:31,470
+is turned golden for the duration of the
+spell so uh this is a pretty clear tell
+
+158
+00:03:31,470 --> 00:03:31,480
+spell so uh this is a pretty clear tell
+ 
+
+159
+00:03:31,480 --> 00:03:34,630
+spell so uh this is a pretty clear tell
+that uh you are using some sort of magic
+
+160
+00:03:34,630 --> 00:03:34,640
+that uh you are using some sort of magic
+ 
+
+161
+00:03:34,640 --> 00:03:38,030
+that uh you are using some sort of magic
+to enhance your abilities uh whether or
+
+162
+00:03:38,030 --> 00:03:38,040
+to enhance your abilities uh whether or
+ 
+
+163
+00:03:38,040 --> 00:03:39,670
+to enhance your abilities uh whether or
+not the people in the casino can
+
+164
+00:03:39,670 --> 00:03:39,680
+not the people in the casino can
+ 
+
+165
+00:03:39,680 --> 00:03:41,990
+not the people in the casino can
+recognize it will will determine will
+
+166
+00:03:41,990 --> 00:03:42,000
+recognize it will will determine will
+ 
+
+167
+00:03:42,000 --> 00:03:44,429
+recognize it will will determine will
+come down to a recall knowledge check on
+
+168
+00:03:44,429 --> 00:03:44,439
+come down to a recall knowledge check on
+ 
+
+169
+00:03:44,439 --> 00:03:46,869
+come down to a recall knowledge check on
+their end uh but just be aware that
+
+170
+00:03:46,869 --> 00:03:46,879
+their end uh but just be aware that
+ 
+
+171
+00:03:46,879 --> 00:03:49,670
+their end uh but just be aware that
+there uh there is the danger of getting
+
+172
+00:03:49,670 --> 00:03:49,680
+there uh there is the danger of getting
+ 
+
+173
+00:03:49,680 --> 00:03:54,149
+there uh there is the danger of getting
+busted pretty easily using uh the um uh
+
+174
+00:03:54,149 --> 00:03:54,159
+busted pretty easily using uh the um uh
+ 
+
+175
+00:03:54,159 --> 00:03:56,429
+busted pretty easily using uh the um uh
+nudge the odds
+
+176
+00:03:56,429 --> 00:03:56,439
+nudge the odds
+ 
+
+177
+00:03:56,439 --> 00:04:00,069
+nudge the odds
+spell so um that is the first op earn
+
+178
+00:04:00,069 --> 00:04:00,079
+spell so um that is the first op earn
+ 
+
+179
+00:04:00,079 --> 00:04:02,589
+spell so um that is the first op earn
+income a benefits super simple it comes
+
+180
+00:04:02,589 --> 00:04:02,599
+income a benefits super simple it comes
+ 
+
+181
+00:04:02,599 --> 00:04:05,229
+income a benefits super simple it comes
+down to one die roll uh it's earn income
+
+182
+00:04:05,229 --> 00:04:05,239
+down to one die roll uh it's earn income
+ 
+
+183
+00:04:05,239 --> 00:04:08,069
+down to one die roll uh it's earn income
+activity it uh inherently does not
+
+184
+00:04:08,069 --> 00:04:08,079
+activity it uh inherently does not
+ 
+
+185
+00:04:08,079 --> 00:04:09,949
+activity it uh inherently does not
+require a lot of time at the game table
+
+186
+00:04:09,949 --> 00:04:09,959
+require a lot of time at the game table
+ 
+
+187
+00:04:09,959 --> 00:04:11,270
+require a lot of time at the game table
+you can knock it out at the same time
+
+188
+00:04:11,270 --> 00:04:11,280
+you can knock it out at the same time
+ 
+
+189
+00:04:11,280 --> 00:04:14,030
+you can knock it out at the same time
+everybody else is doing their crafting
+
+190
+00:04:14,030 --> 00:04:14,040
+everybody else is doing their crafting
+ 
+
+191
+00:04:14,040 --> 00:04:17,270
+everybody else is doing their crafting
+or their uh their retraining or whatever
+
+192
+00:04:17,270 --> 00:04:17,280
+or their uh their retraining or whatever
+ 
+
+193
+00:04:17,280 --> 00:04:21,349
+or their uh their retraining or whatever
+their downtime activities are um the the
+
+194
+00:04:21,349 --> 00:04:21,359
+their downtime activities are um the the
+ 
+
+195
+00:04:21,359 --> 00:04:23,990
+their downtime activities are um the the
+downside of it is it comes down to one
+
+196
+00:04:23,990 --> 00:04:24,000
+downside of it is it comes down to one
+ 
+
+197
+00:04:24,000 --> 00:04:26,230
+downside of it is it comes down to one
+di roll so if you have a player that's
+
+198
+00:04:26,230 --> 00:04:26,240
+di roll so if you have a player that's
+ 
+
+199
+00:04:26,240 --> 00:04:28,469
+di roll so if you have a player that's
+really wanting to invest or if you're
+
+200
+00:04:28,469 --> 00:04:28,479
+really wanting to invest or if you're
+ 
+
+201
+00:04:28,479 --> 00:04:31,310
+really wanting to invest or if you're
+trying to craft a meaningful narrative
+
+202
+00:04:31,310 --> 00:04:31,320
+trying to craft a meaningful narrative
+ 
+
+203
+00:04:31,320 --> 00:04:33,310
+trying to craft a meaningful narrative
+that revolves around gambling and and
+
+204
+00:04:33,310 --> 00:04:33,320
+that revolves around gambling and and
+ 
+
+205
+00:04:33,320 --> 00:04:35,990
+that revolves around gambling and and
+games of chance then it's probably not
+
+206
+00:04:35,990 --> 00:04:36,000
+games of chance then it's probably not
+ 
+
+207
+00:04:36,000 --> 00:04:38,710
+games of chance then it's probably not
+going to be uh super fulfilling for them
+
+208
+00:04:38,710 --> 00:04:38,720
+going to be uh super fulfilling for them
+ 
+
+209
+00:04:38,720 --> 00:04:40,550
+going to be uh super fulfilling for them
+but that kind of leads us to our second
+
+210
+00:04:40,550 --> 00:04:40,560
+but that kind of leads us to our second
+ 
+
+211
+00:04:40,560 --> 00:04:44,710
+but that kind of leads us to our second
+option which is uh book three of the
+
+212
+00:04:44,710 --> 00:04:44,720
+option which is uh book three of the
+ 
+
+213
+00:04:44,720 --> 00:04:47,310
+option which is uh book three of the
+Agents of edge Watch Adventure path
+
+214
+00:04:47,310 --> 00:04:47,320
+Agents of edge Watch Adventure path
+ 
+
+215
+00:04:47,320 --> 00:04:50,469
+Agents of edge Watch Adventure path
+called All or Nothing uh has in its back
+
+216
+00:04:50,469 --> 00:04:50,479
+called All or Nothing uh has in its back
+ 
+
+217
+00:04:50,479 --> 00:04:52,790
+called All or Nothing uh has in its back
+matter or in its Adventure toolbox I
+
+218
+00:04:52,790 --> 00:04:52,800
+matter or in its Adventure toolbox I
+ 
+
+219
+00:04:52,800 --> 00:04:56,070
+matter or in its Adventure toolbox I
+think they call it a number of different
+
+220
+00:04:56,070 --> 00:04:56,080
+think they call it a number of different
+ 
+
+221
+00:04:56,080 --> 00:04:57,189
+think they call it a number of different
+uh
+
+222
+00:04:57,189 --> 00:04:57,199
+uh
+ 
+
+223
+00:04:57,199 --> 00:05:00,350
+uh
+realworld gambling games chance
+
+224
+00:05:00,350 --> 00:05:00,360
+realworld gambling games chance
+ 
+
+225
+00:05:00,360 --> 00:05:03,790
+realworld gambling games chance
+converted into the Pathfinder setting
+
+226
+00:05:03,790 --> 00:05:03,800
+converted into the Pathfinder setting
+ 
+
+227
+00:05:03,800 --> 00:05:06,390
+converted into the Pathfinder setting
+that you can play out at the game table
+
+228
+00:05:06,390 --> 00:05:06,400
+that you can play out at the game table
+ 
+
+229
+00:05:06,400 --> 00:05:09,070
+that you can play out at the game table
+uh now the plus side is that these are
+
+230
+00:05:09,070 --> 00:05:09,080
+uh now the plus side is that these are
+ 
+
+231
+00:05:09,080 --> 00:05:12,150
+uh now the plus side is that these are
+much more immersive experiences than uh
+
+232
+00:05:12,150 --> 00:05:12,160
+much more immersive experiences than uh
+ 
+
+233
+00:05:12,160 --> 00:05:15,230
+much more immersive experiences than uh
+just an earn income role um the downside
+
+234
+00:05:15,230 --> 00:05:15,240
+just an earn income role um the downside
+ 
+
+235
+00:05:15,240 --> 00:05:16,909
+just an earn income role um the downside
+is is your players are going to be
+
+236
+00:05:16,909 --> 00:05:16,919
+is is your players are going to be
+ 
+
+237
+00:05:16,919 --> 00:05:19,830
+is is your players are going to be
+playing this for real using their own
+
+238
+00:05:19,830 --> 00:05:19,840
+playing this for real using their own
+ 
+
+239
+00:05:19,840 --> 00:05:23,909
+playing this for real using their own
+Noggin and their own abilities uh not
+
+240
+00:05:23,909 --> 00:05:23,919
+Noggin and their own abilities uh not
+ 
+
+241
+00:05:23,919 --> 00:05:26,790
+Noggin and their own abilities uh not
+their characters so one thing in common
+
+242
+00:05:26,790 --> 00:05:26,800
+their characters so one thing in common
+ 
+
+243
+00:05:26,800 --> 00:05:28,870
+their characters so one thing in common
+with these uh I think is three from All
+
+244
+00:05:28,870 --> 00:05:28,880
+with these uh I think is three from All
+ 
+
+245
+00:05:28,880 --> 00:05:31,070
+with these uh I think is three from All
+or Nothing I'll be sharing in a second
+
+246
+00:05:31,070 --> 00:05:31,080
+or Nothing I'll be sharing in a second
+ 
+
+247
+00:05:31,080 --> 00:05:32,950
+or Nothing I'll be sharing in a second
+is none of them interact with character
+
+248
+00:05:32,950 --> 00:05:32,960
+is none of them interact with character
+ 
+
+249
+00:05:32,960 --> 00:05:36,550
+is none of them interact with character
+sheets so none of them interact with
+
+250
+00:05:36,550 --> 00:05:36,560
+sheets so none of them interact with
+ 
+
+251
+00:05:36,560 --> 00:05:39,270
+sheets so none of them interact with
+games Lords of skill interact with
+
+252
+00:05:39,270 --> 00:05:39,280
+games Lords of skill interact with
+ 
+
+253
+00:05:39,280 --> 00:05:42,870
+games Lords of skill interact with
+Casino lore uh would be uh impacted or
+
+254
+00:05:42,870 --> 00:05:42,880
+Casino lore uh would be uh impacted or
+ 
+
+255
+00:05:42,880 --> 00:05:47,350
+Casino lore uh would be uh impacted or
+interact with uh the nudge the odd spell
+
+256
+00:05:47,350 --> 00:05:47,360
+interact with uh the nudge the odd spell
+ 
+
+257
+00:05:47,360 --> 00:05:50,670
+interact with uh the nudge the odd spell
+you are you are playing these games for
+
+258
+00:05:50,670 --> 00:05:50,680
+you are you are playing these games for
+ 
+
+259
+00:05:50,680 --> 00:05:54,430
+you are you are playing these games for
+real so to speak at your game table um
+
+260
+00:05:54,430 --> 00:05:54,440
+real so to speak at your game table um
+ 
+
+261
+00:05:54,440 --> 00:05:57,350
+real so to speak at your game table um
+but with the characters money and their
+
+262
+00:05:57,350 --> 00:05:57,360
+but with the characters money and their
+ 
+
+263
+00:05:57,360 --> 00:06:00,309
+but with the characters money and their
+ability to profit from it
+
+264
+00:06:00,309 --> 00:06:00,319
+ability to profit from it
+ 
+
+265
+00:06:00,319 --> 00:06:02,150
+ability to profit from it
+also I'll mention that all three of
+
+266
+00:06:02,150 --> 00:06:02,160
+also I'll mention that all three of
+ 
+
+267
+00:06:02,160 --> 00:06:04,990
+also I'll mention that all three of
+these games are available on Archives of
+
+268
+00:06:04,990 --> 00:06:05,000
+these games are available on Archives of
+ 
+
+269
+00:06:05,000 --> 00:06:08,189
+these games are available on Archives of
+nethys um and I will include links to
+
+270
+00:06:08,189 --> 00:06:08,199
+nethys um and I will include links to
+ 
+
+271
+00:06:08,199 --> 00:06:10,230
+nethys um and I will include links to
+those writeups in the description of
+
+272
+00:06:10,230 --> 00:06:10,240
+those writeups in the description of
+ 
+
+273
+00:06:10,240 --> 00:06:13,189
+those writeups in the description of
+this video um in case you don't have the
+
+274
+00:06:13,189 --> 00:06:13,199
+this video um in case you don't have the
+ 
+
+275
+00:06:13,199 --> 00:06:15,870
+this video um in case you don't have the
+um old or nothing Adventure so the first
+
+276
+00:06:15,870 --> 00:06:15,880
+um old or nothing Adventure so the first
+ 
+
+277
+00:06:15,880 --> 00:06:18,589
+um old or nothing Adventure so the first
+is a game called Gollum and golum is
+
+278
+00:06:18,589 --> 00:06:18,599
+is a game called Gollum and golum is
+ 
+
+279
+00:06:18,599 --> 00:06:22,430
+is a game called Gollum and golum is
+sort of like the Pathfinders version of
+
+280
+00:06:22,430 --> 00:06:22,440
+sort of like the Pathfinders version of
+ 
+
+281
+00:06:22,440 --> 00:06:26,870
+sort of like the Pathfinders version of
+Poker uh the idea is that you have a
+
+282
+00:06:26,870 --> 00:06:26,880
+Poker uh the idea is that you have a
+ 
+
+283
+00:06:26,880 --> 00:06:28,670
+Poker uh the idea is that you have a
+number of players sitting around the
+
+284
+00:06:28,670 --> 00:06:28,680
+number of players sitting around the
+ 
+
+285
+00:06:28,680 --> 00:06:31,870
+number of players sitting around the
+table and there's a dealer and those
+
+286
+00:06:31,870 --> 00:06:31,880
+table and there's a dealer and those
+ 
+
+287
+00:06:31,880 --> 00:06:34,309
+table and there's a dealer and those
+players are trying to build the best
+
+288
+00:06:34,309 --> 00:06:34,319
+players are trying to build the best
+ 
+
+289
+00:06:34,319 --> 00:06:38,589
+players are trying to build the best
+poker hand out of their cards um now
+
+290
+00:06:38,589 --> 00:06:38,599
+poker hand out of their cards um now
+ 
+
+291
+00:06:38,599 --> 00:06:43,230
+poker hand out of their cards um now
+I'll I'll say that um the writeup
+
+292
+00:06:43,230 --> 00:06:43,240
+I'll I'll say that um the writeup
+ 
+
+293
+00:06:43,240 --> 00:06:45,710
+I'll I'll say that um the writeup
+doesn't tell you the rules of Poker I
+
+294
+00:06:45,710 --> 00:06:45,720
+doesn't tell you the rules of Poker I
+ 
+
+295
+00:06:45,720 --> 00:06:47,909
+doesn't tell you the rules of Poker I
+think it just references poker and says
+
+296
+00:06:47,909 --> 00:06:47,919
+think it just references poker and says
+ 
+
+297
+00:06:47,919 --> 00:06:49,870
+think it just references poker and says
+like you know to determine who has the
+
+298
+00:06:49,870 --> 00:06:49,880
+like you know to determine who has the
+ 
+
+299
+00:06:49,880 --> 00:06:51,870
+like you know to determine who has the
+winning hand is the same rules as poker
+
+300
+00:06:51,870 --> 00:06:51,880
+winning hand is the same rules as poker
+ 
+
+301
+00:06:51,880 --> 00:06:53,830
+winning hand is the same rules as poker
+so you might need to go to Wikipedia or
+
+302
+00:06:53,830 --> 00:06:53,840
+so you might need to go to Wikipedia or
+ 
+
+303
+00:06:53,840 --> 00:06:56,469
+so you might need to go to Wikipedia or
+some other resource online to find out
+
+304
+00:06:56,469 --> 00:06:56,479
+some other resource online to find out
+ 
+
+305
+00:06:56,479 --> 00:06:58,830
+some other resource online to find out
+you know when a full house beats a
+
+306
+00:06:58,830 --> 00:06:58,840
+you know when a full house beats a
+ 
+
+307
+00:06:58,840 --> 00:07:01,270
+you know when a full house beats a
+straight flush and all those kind of
+
+308
+00:07:01,270 --> 00:07:01,280
+straight flush and all those kind of
+ 
+
+309
+00:07:01,280 --> 00:07:03,670
+straight flush and all those kind of
+rules but it's going to use those
+
+310
+00:07:03,670 --> 00:07:03,680
+rules but it's going to use those
+ 
+
+311
+00:07:03,680 --> 00:07:07,189
+rules but it's going to use those
+familiar rules uh the game is played in
+
+312
+00:07:07,189 --> 00:07:07,199
+familiar rules uh the game is played in
+ 
+
+313
+00:07:07,199 --> 00:07:11,230
+familiar rules uh the game is played in
+rounds uh anti is usually capped at five
+
+314
+00:07:11,230 --> 00:07:11,240
+rounds uh anti is usually capped at five
+ 
+
+315
+00:07:11,240 --> 00:07:14,749
+rounds uh anti is usually capped at five
+gold um Everybody matches the current
+
+316
+00:07:14,749 --> 00:07:14,759
+gold um Everybody matches the current
+ 
+
+317
+00:07:14,759 --> 00:07:16,909
+gold um Everybody matches the current
+bet or the anti and then they can either
+
+318
+00:07:16,909 --> 00:07:16,919
+bet or the anti and then they can either
+ 
+
+319
+00:07:16,919 --> 00:07:18,830
+bet or the anti and then they can either
+raise or fold just kind of like in poker
+
+320
+00:07:18,830 --> 00:07:18,840
+raise or fold just kind of like in poker
+ 
+
+321
+00:07:18,840 --> 00:07:21,230
+raise or fold just kind of like in poker
+where you go in rounds betting continues
+
+322
+00:07:21,230 --> 00:07:21,240
+where you go in rounds betting continues
+ 
+
+323
+00:07:21,240 --> 00:07:22,990
+where you go in rounds betting continues
+until all players have matched the
+
+324
+00:07:22,990 --> 00:07:23,000
+until all players have matched the
+ 
+
+325
+00:07:23,000 --> 00:07:26,430
+until all players have matched the
+current bet or they have folded and then
+
+326
+00:07:26,430 --> 00:07:26,440
+current bet or they have folded and then
+ 
+
+327
+00:07:26,440 --> 00:07:30,070
+current bet or they have folded and then
+each player May discard up to two of
+
+328
+00:07:30,070 --> 00:07:30,080
+each player May discard up to two of
+ 
+
+329
+00:07:30,080 --> 00:07:32,790
+each player May discard up to two of
+their cards and draw two new cards so
+
+330
+00:07:32,790 --> 00:07:32,800
+their cards and draw two new cards so
+ 
+
+331
+00:07:32,800 --> 00:07:34,950
+their cards and draw two new cards so
+everybody still in the game if they've
+
+332
+00:07:34,950 --> 00:07:34,960
+everybody still in the game if they've
+ 
+
+333
+00:07:34,960 --> 00:07:37,510
+everybody still in the game if they've
+if they've matched the uh the current
+
+334
+00:07:37,510 --> 00:07:37,520
+if they've matched the uh the current
+ 
+
+335
+00:07:37,520 --> 00:07:40,749
+if they've matched the uh the current
+bet for that round they can discard zero
+
+336
+00:07:40,749 --> 00:07:40,759
+bet for that round they can discard zero
+ 
+
+337
+00:07:40,759 --> 00:07:43,589
+bet for that round they can discard zero
+one or two of their cards and then draw
+
+338
+00:07:43,589 --> 00:07:43,599
+one or two of their cards and then draw
+ 
+
+339
+00:07:43,599 --> 00:07:46,589
+one or two of their cards and then draw
+in new ones uh those cards are going to
+
+340
+00:07:46,589 --> 00:07:46,599
+in new ones uh those cards are going to
+ 
+
+341
+00:07:46,599 --> 00:07:49,029
+in new ones uh those cards are going to
+be placed face down on the table so none
+
+342
+00:07:49,029 --> 00:07:49,039
+be placed face down on the table so none
+ 
+
+343
+00:07:49,039 --> 00:07:50,990
+be placed face down on the table so none
+of the other players can see what was
+
+344
+00:07:50,990 --> 00:07:51,000
+of the other players can see what was
+ 
+
+345
+00:07:51,000 --> 00:07:53,950
+of the other players can see what was
+discarded and those cards now all belong
+
+346
+00:07:53,950 --> 00:07:53,960
+discarded and those cards now all belong
+ 
+
+347
+00:07:53,960 --> 00:07:56,189
+discarded and those cards now all belong
+to the Golem essentially the dealer at
+
+348
+00:07:56,189 --> 00:07:56,199
+to the Golem essentially the dealer at
+ 
+
+349
+00:07:56,199 --> 00:07:57,950
+to the Golem essentially the dealer at
+the table is going to take all those
+
+350
+00:07:57,950 --> 00:07:57,960
+the table is going to take all those
+ 
+
+351
+00:07:57,960 --> 00:08:00,510
+the table is going to take all those
+cards and keep them and they are the
+
+352
+00:08:00,510 --> 00:08:00,520
+cards and keep them and they are the
+ 
+
+353
+00:08:00,520 --> 00:08:02,629
+cards and keep them and they are the
+Golem and those cars now belong to the
+
+354
+00:08:02,629 --> 00:08:02,639
+Golem and those cars now belong to the
+ 
+
+355
+00:08:02,639 --> 00:08:05,990
+Golem and those cars now belong to the
+Golem uh if everybody folds except for
+
+356
+00:08:05,990 --> 00:08:06,000
+Golem uh if everybody folds except for
+ 
+
+357
+00:08:06,000 --> 00:08:09,110
+Golem uh if everybody folds except for
+one player that player wins the pot
+
+358
+00:08:09,110 --> 00:08:09,120
+one player that player wins the pot
+ 
+
+359
+00:08:09,120 --> 00:08:11,749
+one player that player wins the pot
+minus 5% that goes to the house uh in
+
+360
+00:08:11,749 --> 00:08:11,759
+minus 5% that goes to the house uh in
+ 
+
+361
+00:08:11,759 --> 00:08:15,149
+minus 5% that goes to the house uh in
+Golem the house always gets 5% of the
+
+362
+00:08:15,149 --> 00:08:15,159
+Golem the house always gets 5% of the
+ 
+
+363
+00:08:15,159 --> 00:08:17,710
+Golem the house always gets 5% of the
+pot uh no matter what the outcomes
+
+364
+00:08:17,710 --> 00:08:17,720
+pot uh no matter what the outcomes
+ 
+
+365
+00:08:17,720 --> 00:08:22,189
+pot uh no matter what the outcomes
+are if at least two players match that
+
+366
+00:08:22,189 --> 00:08:22,199
+are if at least two players match that
+ 
+
+367
+00:08:22,199 --> 00:08:24,390
+are if at least two players match that
+bet at the end of the round then the
+
+368
+00:08:24,390 --> 00:08:24,400
+bet at the end of the round then the
+ 
+
+369
+00:08:24,400 --> 00:08:28,070
+bet at the end of the round then the
+dealer frees the Golem and then the
+
+370
+00:08:28,070 --> 00:08:28,080
+dealer frees the Golem and then the
+ 
+
+371
+00:08:28,080 --> 00:08:31,469
+dealer frees the Golem and then the
+Golem is going to flip over all of their
+
+372
+00:08:31,469 --> 00:08:31,479
+Golem is going to flip over all of their
+ 
+
+373
+00:08:31,479 --> 00:08:34,269
+Golem is going to flip over all of their
+cards and make the best possible poker
+
+374
+00:08:34,269 --> 00:08:34,279
+cards and make the best possible poker
+ 
+
+375
+00:08:34,279 --> 00:08:36,709
+cards and make the best possible poker
+hand that they can out of all of the
+
+376
+00:08:36,709 --> 00:08:36,719
+hand that they can out of all of the
+ 
+
+377
+00:08:36,719 --> 00:08:40,149
+hand that they can out of all of the
+cards that were discarded by the players
+
+378
+00:08:40,149 --> 00:08:40,159
+cards that were discarded by the players
+ 
+
+379
+00:08:40,159 --> 00:08:44,670
+cards that were discarded by the players
+who are in that round and if the if one
+
+380
+00:08:44,670 --> 00:08:44,680
+who are in that round and if the if one
+ 
+
+381
+00:08:44,680 --> 00:08:47,230
+who are in that round and if the if one
+of the players um has the best hand to
+
+382
+00:08:47,230 --> 00:08:47,240
+of the players um has the best hand to
+ 
+
+383
+00:08:47,240 --> 00:08:49,430
+of the players um has the best hand to
+Beast the other players and the Golem
+
+384
+00:08:49,430 --> 00:08:49,440
+Beast the other players and the Golem
+ 
+
+385
+00:08:49,440 --> 00:08:51,630
+Beast the other players and the Golem
+then that player uh wins the pot minus
+
+386
+00:08:51,630 --> 00:08:51,640
+then that player uh wins the pot minus
+ 
+
+387
+00:08:51,640 --> 00:08:53,990
+then that player uh wins the pot minus
+5% that always goes to the house and if
+
+388
+00:08:53,990 --> 00:08:54,000
+5% that always goes to the house and if
+ 
+
+389
+00:08:54,000 --> 00:08:57,389
+5% that always goes to the house and if
+no player beats the Golem then uh you
+
+390
+00:08:57,389 --> 00:08:57,399
+no player beats the Golem then uh you
+ 
+
+391
+00:08:57,399 --> 00:08:59,710
+no player beats the Golem then uh you
+start over again you're going to to
+
+392
+00:08:59,710 --> 00:08:59,720
+start over again you're going to to
+ 
+
+393
+00:08:59,720 --> 00:09:02,110
+start over again you're going to to
+double the size of the current ante and
+
+394
+00:09:02,110 --> 00:09:02,120
+double the size of the current ante and
+ 
+
+395
+00:09:02,120 --> 00:09:05,110
+double the size of the current ante and
+start over again and you keep playing
+
+396
+00:09:05,110 --> 00:09:05,120
+start over again and you keep playing
+ 
+
+397
+00:09:05,120 --> 00:09:07,550
+start over again and you keep playing
+until every round if nobody beats the
+
+398
+00:09:07,550 --> 00:09:07,560
+until every round if nobody beats the
+ 
+
+399
+00:09:07,560 --> 00:09:08,949
+until every round if nobody beats the
+goem we start again and double it and
+
+400
+00:09:08,949 --> 00:09:08,959
+goem we start again and double it and
+ 
+
+401
+00:09:08,959 --> 00:09:13,470
+goem we start again and double it and
+double it double it and um at the or
+
+402
+00:09:13,470 --> 00:09:13,480
+double it double it and um at the or
+ 
+
+403
+00:09:13,480 --> 00:09:15,150
+double it double it and um at the or
+it's going to end when one player
+
+404
+00:09:15,150 --> 00:09:15,160
+it's going to end when one player
+ 
+
+405
+00:09:15,160 --> 00:09:17,670
+it's going to end when one player
+eventually beats the Golem and they get
+
+406
+00:09:17,670 --> 00:09:17,680
+eventually beats the Golem and they get
+ 
+
+407
+00:09:17,680 --> 00:09:19,710
+eventually beats the Golem and they get
+whatever is in that pot minus the 5%
+
+408
+00:09:19,710 --> 00:09:19,720
+whatever is in that pot minus the 5%
+ 
+
+409
+00:09:19,720 --> 00:09:21,910
+whatever is in that pot minus the 5%
+that goes to the house so that's Golem
+
+410
+00:09:21,910 --> 00:09:21,920
+that goes to the house so that's Golem
+ 
+
+411
+00:09:21,920 --> 00:09:25,310
+that goes to the house so that's Golem
+which is kind of basically like poker
+
+412
+00:09:25,310 --> 00:09:25,320
+which is kind of basically like poker
+ 
+
+413
+00:09:25,320 --> 00:09:29,069
+which is kind of basically like poker
+the second game um from All or Nothing
+
+414
+00:09:29,069 --> 00:09:29,079
+the second game um from All or Nothing
+ 
+
+415
+00:09:29,079 --> 00:09:31,310
+the second game um from All or Nothing
+is called Bounder which I believe is
+
+416
+00:09:31,310 --> 00:09:31,320
+is called Bounder which I believe is
+ 
+
+417
+00:09:31,320 --> 00:09:32,750
+is called Bounder which I believe is
+kind of like craps I should probably
+
+418
+00:09:32,750 --> 00:09:32,760
+kind of like craps I should probably
+ 
+
+419
+00:09:32,760 --> 00:09:36,030
+kind of like craps I should probably
+confess that I'm not a gambler so I I
+
+420
+00:09:36,030 --> 00:09:36,040
+confess that I'm not a gambler so I I
+ 
+
+421
+00:09:36,040 --> 00:09:38,350
+confess that I'm not a gambler so I I
+may be I may be wrong uh let me know in
+
+422
+00:09:38,350 --> 00:09:38,360
+may be I may be wrong uh let me know in
+ 
+
+423
+00:09:38,360 --> 00:09:40,150
+may be I may be wrong uh let me know in
+the comments if I'm goofing it up I
+
+424
+00:09:40,150 --> 00:09:40,160
+the comments if I'm goofing it up I
+ 
+
+425
+00:09:40,160 --> 00:09:41,910
+the comments if I'm goofing it up I
+think this is supposed to be like
+
+426
+00:09:41,910 --> 00:09:41,920
+think this is supposed to be like
+ 
+
+427
+00:09:41,920 --> 00:09:45,790
+think this is supposed to be like
+craps this is played with uh a bunch of
+
+428
+00:09:45,790 --> 00:09:45,800
+craps this is played with uh a bunch of
+ 
+
+429
+00:09:45,800 --> 00:09:48,150
+craps this is played with uh a bunch of
+gamblers standing around a table
+
+430
+00:09:48,150 --> 00:09:48,160
+gamblers standing around a table
+ 
+
+431
+00:09:48,160 --> 00:09:50,670
+gamblers standing around a table
+throwing Dice and each of them goes in
+
+432
+00:09:50,670 --> 00:09:50,680
+throwing Dice and each of them goes in
+ 
+
+433
+00:09:50,680 --> 00:09:53,470
+throwing Dice and each of them goes in
+turns uh there is a shooter and that's
+
+434
+00:09:53,470 --> 00:09:53,480
+turns uh there is a shooter and that's
+ 
+
+435
+00:09:53,480 --> 00:09:55,710
+turns uh there is a shooter and that's
+whose ever turn it is and then there is
+
+436
+00:09:55,710 --> 00:09:55,720
+whose ever turn it is and then there is
+ 
+
+437
+00:09:55,720 --> 00:09:59,870
+whose ever turn it is and then there is
+a dealer so Shooters are going to roll
+
+438
+00:09:59,870 --> 00:09:59,880
+a dealer so Shooters are going to roll
+ 
+
+439
+00:09:59,880 --> 00:10:04,110
+a dealer so Shooters are going to roll
+2D2 and the dealer is going to roll 3d6
+
+440
+00:10:04,110 --> 00:10:04,120
+2D2 and the dealer is going to roll 3d6
+ 
+
+441
+00:10:04,120 --> 00:10:07,350
+2D2 and the dealer is going to roll 3d6
+and the the goal is if you're the
+
+442
+00:10:07,350 --> 00:10:07,360
+and the the goal is if you're the
+ 
+
+443
+00:10:07,360 --> 00:10:11,190
+and the the goal is if you're the
+shooter you want to bound the total of
+
+444
+00:10:11,190 --> 00:10:11,200
+shooter you want to bound the total of
+ 
+
+445
+00:10:11,200 --> 00:10:12,269
+shooter you want to bound the total of
+the dealers
+
+446
+00:10:12,269 --> 00:10:12,279
+the dealers
+ 
+
+447
+00:10:12,279 --> 00:10:15,630
+the dealers
+3d6 and bounding means one of your D20
+
+448
+00:10:15,630 --> 00:10:15,640
+3d6 and bounding means one of your D20
+ 
+
+449
+00:10:15,640 --> 00:10:19,190
+3d6 and bounding means one of your D20
+numbers is lower than the Dealer's 3d6
+
+450
+00:10:19,190 --> 00:10:19,200
+numbers is lower than the Dealer's 3d6
+ 
+
+451
+00:10:19,200 --> 00:10:23,389
+numbers is lower than the Dealer's 3d6
+total and your other D20 is higher than
+
+452
+00:10:23,389 --> 00:10:23,399
+total and your other D20 is higher than
+ 
+
+453
+00:10:23,399 --> 00:10:26,870
+total and your other D20 is higher than
+the 3d6 total from the dealer so you're
+
+454
+00:10:26,870 --> 00:10:26,880
+the 3d6 total from the dealer so you're
+ 
+
+455
+00:10:26,880 --> 00:10:29,790
+the 3d6 total from the dealer so you're
+on either side on either bounds you're
+
+456
+00:10:29,790 --> 00:10:29,800
+on either side on either bounds you're
+ 
+
+457
+00:10:29,800 --> 00:10:35,750
+on either side on either bounds you're
+bounding the um the dealers 3d6 total so
+
+458
+00:10:35,750 --> 00:10:35,760
+bounding the um the dealers 3d6 total so
+ 
+
+459
+00:10:35,760 --> 00:10:39,389
+bounding the um the dealers 3d6 total so
+the way this is going to work in turn is
+
+460
+00:10:39,389 --> 00:10:39,399
+the way this is going to work in turn is
+ 
+
+461
+00:10:39,399 --> 00:10:42,030
+the way this is going to work in turn is
+whoever is the shooter is going to roll
+
+462
+00:10:42,030 --> 00:10:42,040
+whoever is the shooter is going to roll
+ 
+
+463
+00:10:42,040 --> 00:10:44,470
+whoever is the shooter is going to roll
+one D20 only one of their two dice
+
+464
+00:10:44,470 --> 00:10:44,480
+one D20 only one of their two dice
+ 
+
+465
+00:10:44,480 --> 00:10:46,910
+one D20 only one of their two dice
+rolled first and whatever that total is
+
+466
+00:10:46,910 --> 00:10:46,920
+rolled first and whatever that total is
+ 
+
+467
+00:10:46,920 --> 00:10:50,949
+rolled first and whatever that total is
+is called the point at that point the
+
+468
+00:10:50,949 --> 00:10:50,959
+is called the point at that point the
+ 
+
+469
+00:10:50,959 --> 00:10:54,310
+is called the point at that point the
+shooter can choose to double their stake
+
+470
+00:10:54,310 --> 00:10:54,320
+shooter can choose to double their stake
+ 
+
+471
+00:10:54,320 --> 00:10:57,750
+shooter can choose to double their stake
+double their bet based on their first
+
+472
+00:10:57,750 --> 00:10:57,760
+double their bet based on their first
+ 
+
+473
+00:10:57,760 --> 00:11:01,350
+double their bet based on their first
+D20 result so if if they throw that
+
+474
+00:11:01,350 --> 00:11:01,360
+D20 result so if if they throw that
+ 
+
+475
+00:11:01,360 --> 00:11:05,069
+D20 result so if if they throw that
+first die and it's a a one a two a 19 or
+
+476
+00:11:05,069 --> 00:11:05,079
+first die and it's a a one a two a 19 or
+ 
+
+477
+00:11:05,079 --> 00:11:08,470
+first die and it's a a one a two a 19 or
+a 20 then they know they're going to
+
+478
+00:11:08,470 --> 00:11:08,480
+a 20 then they know they're going to
+ 
+
+479
+00:11:08,480 --> 00:11:11,110
+a 20 then they know they're going to
+have at least one di on one side of the
+
+480
+00:11:11,110 --> 00:11:11,120
+have at least one di on one side of the
+ 
+
+481
+00:11:11,120 --> 00:11:14,949
+have at least one di on one side of the
+3d6 because one 12 19 and 20 are not
+
+482
+00:11:14,949 --> 00:11:14,959
+3d6 because one 12 19 and 20 are not
+ 
+
+483
+00:11:14,959 --> 00:11:17,990
+3d6 because one 12 19 and 20 are not
+possible totals for 3d6 so there they're
+
+484
+00:11:17,990 --> 00:11:18,000
+possible totals for 3d6 so there they're
+ 
+
+485
+00:11:18,000 --> 00:11:19,750
+possible totals for 3d6 so there they're
+going to say yeah automatically I'm
+
+486
+00:11:19,750 --> 00:11:19,760
+going to say yeah automatically I'm
+ 
+
+487
+00:11:19,760 --> 00:11:24,269
+going to say yeah automatically I'm
+going to double my my my stake um and
+
+488
+00:11:24,269 --> 00:11:24,279
+going to double my my my stake um and
+ 
+
+489
+00:11:24,279 --> 00:11:26,750
+going to double my my my stake um and
+they can also D choose a double it I
+
+490
+00:11:26,750 --> 00:11:26,760
+they can also D choose a double it I
+ 
+
+491
+00:11:26,760 --> 00:11:29,670
+they can also D choose a double it I
+mean if if they roll a five they might
+
+492
+00:11:29,670 --> 00:11:29,680
+mean if if they roll a five they might
+ 
+
+493
+00:11:29,680 --> 00:11:31,910
+mean if if they roll a five they might
+choose to double it because still odds
+
+494
+00:11:31,910 --> 00:11:31,920
+choose to double it because still odds
+ 
+
+495
+00:11:31,920 --> 00:11:33,750
+choose to double it because still odds
+are good but so on and so forth they get
+
+496
+00:11:33,750 --> 00:11:33,760
+are good but so on and so forth they get
+ 
+
+497
+00:11:33,760 --> 00:11:36,550
+are good but so on and so forth they get
+the opportunity to double it if if they
+
+498
+00:11:36,550 --> 00:11:36,560
+the opportunity to double it if if they
+ 
+
+499
+00:11:36,560 --> 00:11:38,750
+the opportunity to double it if if they
+if they roll a nine on that one20 they
+
+500
+00:11:38,750 --> 00:11:38,760
+if they roll a nine on that one20 they
+ 
+
+501
+00:11:38,760 --> 00:11:42,030
+if they roll a nine on that one20 they
+probably don't want to risk doubling
+
+502
+00:11:42,030 --> 00:11:42,040
+probably don't want to risk doubling
+ 
+
+503
+00:11:42,040 --> 00:11:45,030
+probably don't want to risk doubling
+their uh their stake um at that point
+
+504
+00:11:45,030 --> 00:11:45,040
+their uh their stake um at that point
+ 
+
+505
+00:11:45,040 --> 00:11:47,350
+their uh their stake um at that point
+all the other gamblers who are not the
+
+506
+00:11:47,350 --> 00:11:47,360
+all the other gamblers who are not the
+ 
+
+507
+00:11:47,360 --> 00:11:50,269
+all the other gamblers who are not the
+shooter on the table can choose whether
+
+508
+00:11:50,269 --> 00:11:50,279
+shooter on the table can choose whether
+ 
+
+509
+00:11:50,279 --> 00:11:52,949
+shooter on the table can choose whether
+or not they want to bet on the final
+
+510
+00:11:52,949 --> 00:11:52,959
+or not they want to bet on the final
+ 
+
+511
+00:11:52,959 --> 00:11:55,389
+or not they want to bet on the final
+result so they can throw in a stake and
+
+512
+00:11:55,389 --> 00:11:55,399
+result so they can throw in a stake and
+ 
+
+513
+00:11:55,399 --> 00:11:57,910
+result so they can throw in a stake and
+say I think uh the shooter is going to
+
+514
+00:11:57,910 --> 00:11:57,920
+say I think uh the shooter is going to
+ 
+
+515
+00:11:57,920 --> 00:12:00,269
+say I think uh the shooter is going to
+win based on this first role on this
+
+516
+00:12:00,269 --> 00:12:00,279
+win based on this first role on this
+ 
+
+517
+00:12:00,279 --> 00:12:03,030
+win based on this first role on this
+point I think they're going to win
+
+518
+00:12:03,030 --> 00:12:03,040
+point I think they're going to win
+ 
+
+519
+00:12:03,040 --> 00:12:05,150
+point I think they're going to win
+they're going to bound the dealers roles
+
+520
+00:12:05,150 --> 00:12:05,160
+they're going to bound the dealers roles
+ 
+
+521
+00:12:05,160 --> 00:12:07,310
+they're going to bound the dealers roles
+so I'm going to throw 10 gold into the
+
+522
+00:12:07,310 --> 00:12:07,320
+so I'm going to throw 10 gold into the
+ 
+
+523
+00:12:07,320 --> 00:12:08,590
+so I'm going to throw 10 gold into the
+pot or
+
+524
+00:12:08,590 --> 00:12:08,600
+pot or
+ 
+
+525
+00:12:08,600 --> 00:12:12,310
+pot or
+whatever at that point the dealer is
+
+526
+00:12:12,310 --> 00:12:12,320
+whatever at that point the dealer is
+ 
+
+527
+00:12:12,320 --> 00:12:14,470
+whatever at that point the dealer is
+going to roll their
+
+528
+00:12:14,470 --> 00:12:14,480
+going to roll their
+ 
+
+529
+00:12:14,480 --> 00:12:19,829
+going to roll their
+3d6 now it says it varies from gambling
+
+530
+00:12:19,829 --> 00:12:19,839
+3d6 now it says it varies from gambling
+ 
+
+531
+00:12:19,839 --> 00:12:23,189
+3d6 now it says it varies from gambling
+location to location but some casinos
+
+532
+00:12:23,189 --> 00:12:23,199
+location to location but some casinos
+ 
+
+533
+00:12:23,199 --> 00:12:26,150
+location to location but some casinos
+before the dealer rolls their 3d6 will
+
+534
+00:12:26,150 --> 00:12:26,160
+before the dealer rolls their 3d6 will
+ 
+
+535
+00:12:26,160 --> 00:12:28,829
+before the dealer rolls their 3d6 will
+allow all the gamblers at the table to
+
+536
+00:12:28,829 --> 00:12:28,839
+allow all the gamblers at the table to
+ 
+
+537
+00:12:28,839 --> 00:12:31,790
+allow all the gamblers at the table to
+place bets on what the the 3d6 total is
+
+538
+00:12:31,790 --> 00:12:31,800
+place bets on what the the 3d6 total is
+ 
+
+539
+00:12:31,800 --> 00:12:33,750
+place bets on what the the 3d6 total is
+going to be or actually not the total
+
+540
+00:12:33,750 --> 00:12:33,760
+going to be or actually not the total
+ 
+
+541
+00:12:33,760 --> 00:12:36,350
+going to be or actually not the total
+but you can make a side bet and say I
+
+542
+00:12:36,350 --> 00:12:36,360
+but you can make a side bet and say I
+ 
+
+543
+00:12:36,360 --> 00:12:38,829
+but you can make a side bet and say I
+think the dealer is going to roll all
+
+544
+00:12:38,829 --> 00:12:38,839
+think the dealer is going to roll all
+ 
+
+545
+00:12:38,839 --> 00:12:40,389
+think the dealer is going to roll all
+odd numbers or I think they're going to
+
+546
+00:12:40,389 --> 00:12:40,399
+odd numbers or I think they're going to
+ 
+
+547
+00:12:40,399 --> 00:12:42,389
+odd numbers or I think they're going to
+roll all even numbers or I think they're
+
+548
+00:12:42,389 --> 00:12:42,399
+roll all even numbers or I think they're
+ 
+
+549
+00:12:42,399 --> 00:12:45,990
+roll all even numbers or I think they're
+going to roll three of a kind and um if
+
+550
+00:12:45,990 --> 00:12:46,000
+going to roll three of a kind and um if
+ 
+
+551
+00:12:46,000 --> 00:12:48,710
+going to roll three of a kind and um if
+you bet that they're going to roll all
+
+552
+00:12:48,710 --> 00:12:48,720
+you bet that they're going to roll all
+ 
+
+553
+00:12:48,720 --> 00:12:51,829
+you bet that they're going to roll all
+odd or all even you get uh you get
+
+554
+00:12:51,829 --> 00:12:51,839
+odd or all even you get uh you get
+ 
+
+555
+00:12:51,839 --> 00:12:54,110
+odd or all even you get uh you get
+basically double back you get the same
+
+556
+00:12:54,110 --> 00:12:54,120
+basically double back you get the same
+ 
+
+557
+00:12:54,120 --> 00:12:57,069
+basically double back you get the same
+amount as what you staked and in profit
+
+558
+00:12:57,069 --> 00:12:57,079
+amount as what you staked and in profit
+ 
+
+559
+00:12:57,079 --> 00:12:59,590
+amount as what you staked and in profit
+and if you bet that there are going to
+
+560
+00:12:59,590 --> 00:12:59,600
+and if you bet that there are going to
+ 
+
+561
+00:12:59,600 --> 00:13:03,550
+and if you bet that there are going to
+roll three of a kind you uh get tripled
+
+562
+00:13:03,550 --> 00:13:03,560
+roll three of a kind you uh get tripled
+ 
+
+563
+00:13:03,560 --> 00:13:06,150
+roll three of a kind you uh get tripled
+now uh let me I'm going to give me one
+
+564
+00:13:06,150 --> 00:13:06,160
+now uh let me I'm going to give me one
+ 
+
+565
+00:13:06,160 --> 00:13:08,189
+now uh let me I'm going to give me one
+second check here because I have on my
+
+566
+00:13:08,189 --> 00:13:08,199
+second check here because I have on my
+ 
+
+567
+00:13:08,199 --> 00:13:11,310
+second check here because I have on my
+form here the odds yeah the odds of the
+
+568
+00:13:11,310 --> 00:13:11,320
+form here the odds yeah the odds of the
+ 
+
+569
+00:13:11,320 --> 00:13:15,949
+form here the odds yeah the odds of the
+dealer rolling all evens or odds on 3d6
+
+570
+00:13:15,949 --> 00:13:15,959
+dealer rolling all evens or odds on 3d6
+ 
+
+571
+00:13:15,959 --> 00:13:19,870
+dealer rolling all evens or odds on 3d6
+is less than a 133% chance and the odds
+
+572
+00:13:19,870 --> 00:13:19,880
+is less than a 133% chance and the odds
+ 
+
+573
+00:13:19,880 --> 00:13:23,069
+is less than a 133% chance and the odds
+of rolling three of a kind is less than
+
+574
+00:13:23,069 --> 00:13:23,079
+of rolling three of a kind is less than
+ 
+
+575
+00:13:23,079 --> 00:13:26,189
+of rolling three of a kind is less than
+3% so these sound like pretty bad bets
+
+576
+00:13:26,189 --> 00:13:26,199
+3% so these sound like pretty bad bets
+ 
+
+577
+00:13:26,199 --> 00:13:29,670
+3% so these sound like pretty bad bets
+to me but um but that is something that
+
+578
+00:13:29,670 --> 00:13:29,680
+to me but um but that is something that
+ 
+
+579
+00:13:29,680 --> 00:13:32,870
+to me but um but that is something that
+is an option when playing
+
+580
+00:13:32,870 --> 00:13:32,880
+is an option when playing
+ 
+
+581
+00:13:32,880 --> 00:13:36,030
+is an option when playing
+Bounder so then um the dealer rolls
+
+582
+00:13:36,030 --> 00:13:36,040
+Bounder so then um the dealer rolls
+ 
+
+583
+00:13:36,040 --> 00:13:40,030
+Bounder so then um the dealer rolls
+there 3d6 you see the total and uh from
+
+584
+00:13:40,030 --> 00:13:40,040
+there 3d6 you see the total and uh from
+ 
+
+585
+00:13:40,040 --> 00:13:43,590
+there 3d6 you see the total and uh from
+there if if the total is equal to the
+
+586
+00:13:43,590 --> 00:13:43,600
+there if if the total is equal to the
+ 
+
+587
+00:13:43,600 --> 00:13:46,110
+there if if the total is equal to the
+first 1 D20 that the that the shooter
+
+588
+00:13:46,110 --> 00:13:46,120
+first 1 D20 that the that the shooter
+ 
+
+589
+00:13:46,120 --> 00:13:48,269
+first 1 D20 that the that the shooter
+rolled then the shooter automatically
+
+590
+00:13:48,269 --> 00:13:48,279
+rolled then the shooter automatically
+ 
+
+591
+00:13:48,279 --> 00:13:50,269
+rolled then the shooter automatically
+loses and everybody loses their stake on
+
+592
+00:13:50,269 --> 00:13:50,279
+loses and everybody loses their stake on
+ 
+
+593
+00:13:50,279 --> 00:13:52,790
+loses and everybody loses their stake on
+that um in order to win boundary you
+
+594
+00:13:52,790 --> 00:13:52,800
+that um in order to win boundary you
+ 
+
+595
+00:13:52,800 --> 00:13:54,310
+that um in order to win boundary you
+have to have one lower than and one
+
+596
+00:13:54,310 --> 00:13:54,320
+have to have one lower than and one
+ 
+
+597
+00:13:54,320 --> 00:13:56,949
+have to have one lower than and one
+higher than any die that equals the
+
+598
+00:13:56,949 --> 00:13:56,959
+higher than any die that equals the
+ 
+
+599
+00:13:56,959 --> 00:13:59,430
+higher than any die that equals the
+total of the dealer automatically lose
+
+600
+00:13:59,430 --> 00:13:59,440
+total of the dealer automatically lose
+ 
+
+601
+00:13:59,440 --> 00:14:02,030
+total of the dealer automatically lose
+loses and then the shooter is going to
+
+602
+00:14:02,030 --> 00:14:02,040
+loses and then the shooter is going to
+ 
+
+603
+00:14:02,040 --> 00:14:05,230
+loses and then the shooter is going to
+roll their other D20 and see if they win
+
+604
+00:14:05,230 --> 00:14:05,240
+roll their other D20 and see if they win
+ 
+
+605
+00:14:05,240 --> 00:14:07,910
+roll their other D20 and see if they win
+if they end up with having one of their
+
+606
+00:14:07,910 --> 00:14:07,920
+if they end up with having one of their
+ 
+
+607
+00:14:07,920 --> 00:14:10,749
+if they end up with having one of their
+D20 results being lower than the dealers
+
+608
+00:14:10,749 --> 00:14:10,759
+D20 results being lower than the dealers
+ 
+
+609
+00:14:10,759 --> 00:14:13,430
+D20 results being lower than the dealers
+3d6 total and one Higher they're going
+
+610
+00:14:13,430 --> 00:14:13,440
+3d6 total and one Higher they're going
+ 
+
+611
+00:14:13,440 --> 00:14:16,030
+3d6 total and one Higher they're going
+to uh get a they're going to win an
+
+612
+00:14:16,030 --> 00:14:16,040
+to uh get a they're going to win an
+ 
+
+613
+00:14:16,040 --> 00:14:19,590
+to uh get a they're going to win an
+amount equal to their stake and if uh if
+
+614
+00:14:19,590 --> 00:14:19,600
+amount equal to their stake and if uh if
+ 
+
+615
+00:14:19,600 --> 00:14:21,790
+amount equal to their stake and if uh if
+if any other scenario happens either
+
+616
+00:14:21,790 --> 00:14:21,800
+if any other scenario happens either
+ 
+
+617
+00:14:21,800 --> 00:14:23,430
+if any other scenario happens either
+they tie or both numbers are lower but
+
+618
+00:14:23,430 --> 00:14:23,440
+they tie or both numbers are lower but
+ 
+
+619
+00:14:23,440 --> 00:14:25,990
+they tie or both numbers are lower but
+the numbers are higher then they lose
+
+620
+00:14:25,990 --> 00:14:26,000
+the numbers are higher then they lose
+ 
+
+621
+00:14:26,000 --> 00:14:27,389
+the numbers are higher then they lose
+their their
+
+622
+00:14:27,389 --> 00:14:27,399
+their their
+ 
+
+623
+00:14:27,399 --> 00:14:31,150
+their their
+stake uh this the odds of this it says
+
+624
+00:14:31,150 --> 00:14:31,160
+stake uh this the odds of this it says
+ 
+
+625
+00:14:31,160 --> 00:14:34,030
+stake uh this the odds of this it says
+is about 40% the shooter should win
+
+626
+00:14:34,030 --> 00:14:34,040
+is about 40% the shooter should win
+ 
+
+627
+00:14:34,040 --> 00:14:38,870
+is about 40% the shooter should win
+about 40% of the time and after one
+
+628
+00:14:38,870 --> 00:14:38,880
+about 40% of the time and after one
+ 
+
+629
+00:14:38,880 --> 00:14:41,030
+about 40% of the time and after one
+person plays as the shooter then you
+
+630
+00:14:41,030 --> 00:14:41,040
+person plays as the shooter then you
+ 
+
+631
+00:14:41,040 --> 00:14:42,670
+person plays as the shooter then you
+just go like clockwise around the table
+
+632
+00:14:42,670 --> 00:14:42,680
+just go like clockwise around the table
+ 
+
+633
+00:14:42,680 --> 00:14:44,069
+just go like clockwise around the table
+and the next Gambler gets their chance
+
+634
+00:14:44,069 --> 00:14:44,079
+and the next Gambler gets their chance
+ 
+
+635
+00:14:44,079 --> 00:14:45,509
+and the next Gambler gets their chance
+to be the shooter and it just repeats
+
+636
+00:14:45,509 --> 00:14:45,519
+to be the shooter and it just repeats
+ 
+
+637
+00:14:45,519 --> 00:14:47,710
+to be the shooter and it just repeats
+and repeats for as long as people want
+
+638
+00:14:47,710 --> 00:14:47,720
+and repeats for as long as people want
+ 
+
+639
+00:14:47,720 --> 00:14:49,910
+and repeats for as long as people want
+to play and have
+
+640
+00:14:49,910 --> 00:14:49,920
+to play and have
+ 
+
+641
+00:14:49,920 --> 00:14:54,269
+to play and have
+fun so that brings us to our third um
+
+642
+00:14:54,269 --> 00:14:54,279
+fun so that brings us to our third um
+ 
+
+643
+00:14:54,279 --> 00:14:58,189
+fun so that brings us to our third um
+casino game our game of chance from um
+
+644
+00:14:58,189 --> 00:14:58,199
+casino game our game of chance from um
+ 
+
+645
+00:14:58,199 --> 00:15:00,550
+casino game our game of chance from um
+the all or nothing book for agents of
+
+646
+00:15:00,550 --> 00:15:00,560
+the all or nothing book for agents of
+ 
+
+647
+00:15:00,560 --> 00:15:02,949
+the all or nothing book for agents of
+edge watch and that's a game called
+
+648
+00:15:02,949 --> 00:15:02,959
+edge watch and that's a game called
+ 
+
+649
+00:15:02,959 --> 00:15:05,870
+edge watch and that's a game called
+Century which I believe is like
+
+650
+00:15:05,870 --> 00:15:05,880
+Century which I believe is like
+ 
+
+651
+00:15:05,880 --> 00:15:09,550
+Century which I believe is like
+Kino um and this is kind of just like a
+
+652
+00:15:09,550 --> 00:15:09,560
+Kino um and this is kind of just like a
+ 
+
+653
+00:15:09,560 --> 00:15:13,910
+Kino um and this is kind of just like a
+lottery so basically what happens is the
+
+654
+00:15:13,910 --> 00:15:13,920
+lottery so basically what happens is the
+ 
+
+655
+00:15:13,920 --> 00:15:16,269
+lottery so basically what happens is the
+house is going to be randomly generating
+
+656
+00:15:16,269 --> 00:15:16,279
+house is going to be randomly generating
+ 
+
+657
+00:15:16,279 --> 00:15:19,030
+house is going to be randomly generating
+20 numbers and those numbers are going
+
+658
+00:15:19,030 --> 00:15:19,040
+20 numbers and those numbers are going
+ 
+
+659
+00:15:19,040 --> 00:15:22,350
+20 numbers and those numbers are going
+to be between one and 100 and you can
+
+660
+00:15:22,350 --> 00:15:22,360
+to be between one and 100 and you can
+ 
+
+661
+00:15:22,360 --> 00:15:26,310
+to be between one and 100 and you can
+choose to uh bet between two and 10
+
+662
+00:15:26,310 --> 00:15:26,320
+choose to uh bet between two and 10
+ 
+
+663
+00:15:26,320 --> 00:15:29,550
+choose to uh bet between two and 10
+times so you can you can choose choose
+
+664
+00:15:29,550 --> 00:15:29,560
+times so you can you can choose choose
+ 
+
+665
+00:15:29,560 --> 00:15:33,110
+times so you can you can choose choose
+two numbers between one and 100 or you
+
+666
+00:15:33,110 --> 00:15:33,120
+two numbers between one and 100 or you
+ 
+
+667
+00:15:33,120 --> 00:15:35,910
+two numbers between one and 100 or you
+can choose 10 numbers between one and
+
+668
+00:15:35,910 --> 00:15:35,920
+can choose 10 numbers between one and
+ 
+
+669
+00:15:35,920 --> 00:15:38,949
+can choose 10 numbers between one and
+100 or anywhere between there and for
+
+670
+00:15:38,949 --> 00:15:38,959
+100 or anywhere between there and for
+ 
+
+671
+00:15:38,959 --> 00:15:42,710
+100 or anywhere between there and for
+every number that you pick that is that
+
+672
+00:15:42,710 --> 00:15:42,720
+every number that you pick that is that
+ 
+
+673
+00:15:42,720 --> 00:15:45,430
+every number that you pick that is that
+is drawn or rolled by the house then
+
+674
+00:15:45,430 --> 00:15:45,440
+is drawn or rolled by the house then
+ 
+
+675
+00:15:45,440 --> 00:15:47,870
+is drawn or rolled by the house then
+you're going to win uh an amount of
+
+676
+00:15:47,870 --> 00:15:47,880
+you're going to win uh an amount of
+ 
+
+677
+00:15:47,880 --> 00:15:50,389
+you're going to win uh an amount of
+money and uh if you don't then you lose
+
+678
+00:15:50,389 --> 00:15:50,399
+money and uh if you don't then you lose
+ 
+
+679
+00:15:50,399 --> 00:15:52,790
+money and uh if you don't then you lose
+your money so it it is basically just a
+
+680
+00:15:52,790 --> 00:15:52,800
+your money so it it is basically just a
+ 
+
+681
+00:15:52,800 --> 00:15:55,710
+your money so it it is basically just a
+lottery system as far as I can tell uh
+
+682
+00:15:55,710 --> 00:15:55,720
+lottery system as far as I can tell uh
+ 
+
+683
+00:15:55,720 --> 00:15:57,990
+lottery system as far as I can tell uh
+there is a handy chart that's in the
+
+684
+00:15:57,990 --> 00:15:58,000
+there is a handy chart that's in the
+ 
+
+685
+00:15:58,000 --> 00:15:59,590
+there is a handy chart that's in the
+book that shows you
+
+686
+00:15:59,590 --> 00:15:59,600
+book that shows you
+ 
+
+687
+00:15:59,600 --> 00:16:02,990
+book that shows you
+the amount of money that is W uh if you
+
+688
+00:16:02,990 --> 00:16:03,000
+the amount of money that is W uh if you
+ 
+
+689
+00:16:03,000 --> 00:16:05,629
+the amount of money that is W uh if you
+correctly guess the numbers so for
+
+690
+00:16:05,629 --> 00:16:05,639
+correctly guess the numbers so for
+ 
+
+691
+00:16:05,639 --> 00:16:08,749
+correctly guess the numbers so for
+example we can see on this chart if you
+
+692
+00:16:08,749 --> 00:16:08,759
+example we can see on this chart if you
+ 
+
+693
+00:16:08,759 --> 00:16:11,430
+example we can see on this chart if you
+uh predicted two numbers and you got one
+
+694
+00:16:11,430 --> 00:16:11,440
+uh predicted two numbers and you got one
+ 
+
+695
+00:16:11,440 --> 00:16:14,189
+uh predicted two numbers and you got one
+of those right you're going to win times
+
+696
+00:16:14,189 --> 00:16:14,199
+of those right you're going to win times
+ 
+
+697
+00:16:14,199 --> 00:16:15,710
+of those right you're going to win times
+one which basically just means you're
+
+698
+00:16:15,710 --> 00:16:15,720
+one which basically just means you're
+ 
+
+699
+00:16:15,720 --> 00:16:17,189
+one which basically just means you're
+breaking even they're going to give you
+
+700
+00:16:17,189 --> 00:16:17,199
+breaking even they're going to give you
+ 
+
+701
+00:16:17,199 --> 00:16:20,949
+breaking even they're going to give you
+back the money that you bet uh if you if
+
+702
+00:16:20,949 --> 00:16:20,959
+back the money that you bet uh if you if
+ 
+
+703
+00:16:20,959 --> 00:16:24,069
+back the money that you bet uh if you if
+you made seven predictions or you know
+
+704
+00:16:24,069 --> 00:16:24,079
+you made seven predictions or you know
+ 
+
+705
+00:16:24,079 --> 00:16:26,189
+you made seven predictions or you know
+you chose like seven lottery numbers if
+
+706
+00:16:26,189 --> 00:16:26,199
+you chose like seven lottery numbers if
+ 
+
+707
+00:16:26,199 --> 00:16:28,509
+you chose like seven lottery numbers if
+that's an easier way to think of it and
+
+708
+00:16:28,509 --> 00:16:28,519
+that's an easier way to think of it and
+ 
+
+709
+00:16:28,519 --> 00:16:30,670
+that's an easier way to think of it and
+a four of those came correct you're
+
+710
+00:16:30,670 --> 00:16:30,680
+a four of those came correct you're
+ 
+
+711
+00:16:30,680 --> 00:16:32,790
+a four of those came correct you're
+going to get to double your your money
+
+712
+00:16:32,790 --> 00:16:32,800
+going to get to double your your money
+ 
+
+713
+00:16:32,800 --> 00:16:35,829
+going to get to double your your money
+back if you made 10 predictions and you
+
+714
+00:16:35,829 --> 00:16:35,839
+back if you made 10 predictions and you
+ 
+
+715
+00:16:35,839 --> 00:16:37,550
+back if you made 10 predictions and you
+got six of those 10 rights you're going
+
+716
+00:16:37,550 --> 00:16:37,560
+got six of those 10 rights you're going
+ 
+
+717
+00:16:37,560 --> 00:16:41,670
+got six of those 10 rights you're going
+to get 20 uh times your your stake back
+
+718
+00:16:41,670 --> 00:16:41,680
+to get 20 uh times your your stake back
+ 
+
+719
+00:16:41,680 --> 00:16:46,309
+to get 20 uh times your your stake back
+so it's it's purely a lottery you're
+
+720
+00:16:46,309 --> 00:16:46,319
+so it's it's purely a lottery you're
+ 
+
+721
+00:16:46,319 --> 00:16:49,910
+so it's it's purely a lottery you're
+basically guessing numbers and and then
+
+722
+00:16:49,910 --> 00:16:49,920
+basically guessing numbers and and then
+ 
+
+723
+00:16:49,920 --> 00:16:54,309
+basically guessing numbers and and then
+the GM who's playing the the house will
+
+724
+00:16:54,309 --> 00:16:54,319
+the GM who's playing the the house will
+ 
+
+725
+00:16:54,319 --> 00:16:57,110
+the GM who's playing the the house will
+roll 1D 10020 times and that's how we
+
+726
+00:16:57,110 --> 00:16:57,120
+roll 1D 10020 times and that's how we
+ 
+
+727
+00:16:57,120 --> 00:16:59,670
+roll 1D 10020 times and that's how we
+generate our numbers and if you
+
+728
+00:16:59,670 --> 00:16:59,680
+generate our numbers and if you
+ 
+
+729
+00:16:59,680 --> 00:17:03,030
+generate our numbers and if you
+correctly predict a certain number of
+
+730
+00:17:03,030 --> 00:17:03,040
+correctly predict a certain number of
+ 
+
+731
+00:17:03,040 --> 00:17:07,510
+correctly predict a certain number of
+those um of those 1D 100 rolls then you
+
+732
+00:17:07,510 --> 00:17:07,520
+those um of those 1D 100 rolls then you
+ 
+
+733
+00:17:07,520 --> 00:17:11,029
+those um of those 1D 100 rolls then you
+are potentially going to get a payout um
+
+734
+00:17:11,029 --> 00:17:11,039
+are potentially going to get a payout um
+ 
+
+735
+00:17:11,039 --> 00:17:13,789
+are potentially going to get a payout um
+if you made 10 predictions and got four
+
+736
+00:17:13,789 --> 00:17:13,799
+if you made 10 predictions and got four
+ 
+
+737
+00:17:13,799 --> 00:17:15,549
+if you made 10 predictions and got four
+of them right you're going to get
+
+738
+00:17:15,549 --> 00:17:15,559
+of them right you're going to get
+ 
+
+739
+00:17:15,559 --> 00:17:17,829
+of them right you're going to get
+nothing if you do 10 predictions you got
+
+740
+00:17:17,829 --> 00:17:17,839
+nothing if you do 10 predictions you got
+ 
+
+741
+00:17:17,839 --> 00:17:20,470
+nothing if you do 10 predictions you got
+to get at least half of those right out
+
+742
+00:17:20,470 --> 00:17:20,480
+to get at least half of those right out
+ 
+
+743
+00:17:20,480 --> 00:17:25,870
+to get at least half of those right out
+of the out of one to 100 um so
+
+744
+00:17:25,870 --> 00:17:25,880
+of the out of one to 100 um so
+ 
+
+745
+00:17:25,880 --> 00:17:28,549
+of the out of one to 100 um so
+unsurprisingly the odds are always going
+
+746
+00:17:28,549 --> 00:17:28,559
+unsurprisingly the odds are always going
+ 
+
+747
+00:17:28,559 --> 00:17:30,669
+unsurprisingly the odds are always going
+to be in The house's
+
+748
+00:17:30,669 --> 00:17:30,679
+to be in The house's
+ 
+
+749
+00:17:30,679 --> 00:17:34,390
+to be in The house's
+favor so that is basically how Kino
+
+750
+00:17:34,390 --> 00:17:34,400
+favor so that is basically how Kino
+ 
+
+751
+00:17:34,400 --> 00:17:38,350
+favor so that is basically how Kino
+works so we have our first option is
+
+752
+00:17:38,350 --> 00:17:38,360
+works so we have our first option is
+ 
+
+753
+00:17:38,360 --> 00:17:43,549
+works so we have our first option is
+earn income super simple super easy um
+
+754
+00:17:43,549 --> 00:17:43,559
+earn income super simple super easy um
+ 
+
+755
+00:17:43,559 --> 00:17:45,510
+earn income super simple super easy um
+it interacts with your character's
+
+756
+00:17:45,510 --> 00:17:45,520
+it interacts with your character's
+ 
+
+757
+00:17:45,520 --> 00:17:48,390
+it interacts with your character's
+skills but it's not super immersive
+
+758
+00:17:48,390 --> 00:17:48,400
+skills but it's not super immersive
+ 
+
+759
+00:17:48,400 --> 00:17:50,070
+skills but it's not super immersive
+second option take one of those three
+
+760
+00:17:50,070 --> 00:17:50,080
+second option take one of those three
+ 
+
+761
+00:17:50,080 --> 00:17:54,230
+second option take one of those three
+games out of all or nothing they are
+
+762
+00:17:54,230 --> 00:17:54,240
+games out of all or nothing they are
+ 
+
+763
+00:17:54,240 --> 00:17:56,590
+games out of all or nothing they are
+very immersive but they're also timec
+
+764
+00:17:56,590 --> 00:17:56,600
+very immersive but they're also timec
+ 
+
+765
+00:17:56,600 --> 00:17:59,149
+very immersive but they're also timec
+consuming and they don't interact at all
+
+766
+00:17:59,149 --> 00:17:59,159
+consuming and they don't interact at all
+ 
+
+767
+00:17:59,159 --> 00:18:01,909
+consuming and they don't interact at all
+with your character sheet it's entirely
+
+768
+00:18:01,909 --> 00:18:01,919
+with your character sheet it's entirely
+ 
+
+769
+00:18:01,919 --> 00:18:04,230
+with your character sheet it's entirely
+based on what you as a human being as a
+
+770
+00:18:04,230 --> 00:18:04,240
+based on what you as a human being as a
+ 
+
+771
+00:18:04,240 --> 00:18:08,789
+based on what you as a human being as a
+player choose to do the last option is
+
+772
+00:18:08,789 --> 00:18:08,799
+player choose to do the last option is
+ 
+
+773
+00:18:08,799 --> 00:18:11,190
+player choose to do the last option is
+kind of a happy middle ground between
+
+774
+00:18:11,190 --> 00:18:11,200
+kind of a happy middle ground between
+ 
+
+775
+00:18:11,200 --> 00:18:12,190
+kind of a happy middle ground between
+the two but it's definitely going to
+
+776
+00:18:12,190 --> 00:18:12,200
+the two but it's definitely going to
+ 
+
+777
+00:18:12,200 --> 00:18:14,590
+the two but it's definitely going to
+take some work on your end as a GM and
+
+778
+00:18:14,590 --> 00:18:14,600
+take some work on your end as a GM and
+ 
+
+779
+00:18:14,600 --> 00:18:16,149
+take some work on your end as a GM and
+that is just to use the victory point
+
+780
+00:18:16,149 --> 00:18:16,159
+that is just to use the victory point
+ 
+
+781
+00:18:16,159 --> 00:18:18,350
+that is just to use the victory point
+system out of the game mastery guide or
+
+782
+00:18:18,350 --> 00:18:18,360
+system out of the game mastery guide or
+ 
+
+783
+00:18:18,360 --> 00:18:23,710
+system out of the game mastery guide or
+out of GM core um build your own um game
+
+784
+00:18:23,710 --> 00:18:23,720
+out of GM core um build your own um game
+ 
+
+785
+00:18:23,720 --> 00:18:26,029
+out of GM core um build your own um game
+using the rules for the victory point
+
+786
+00:18:26,029 --> 00:18:26,039
+using the rules for the victory point
+ 
+
+787
+00:18:26,039 --> 00:18:29,310
+using the rules for the victory point
+system where your players can do skill
+
+788
+00:18:29,310 --> 00:18:29,320
+system where your players can do skill
+ 
+
+789
+00:18:29,320 --> 00:18:32,110
+system where your players can do skill
+checks in a gaming environment with the
+
+790
+00:18:32,110 --> 00:18:32,120
+checks in a gaming environment with the
+ 
+
+791
+00:18:32,120 --> 00:18:34,830
+checks in a gaming environment with the
+potential of earning victory points and
+
+792
+00:18:34,830 --> 00:18:34,840
+potential of earning victory points and
+ 
+
+793
+00:18:34,840 --> 00:18:37,390
+potential of earning victory points and
+then set a a certain amount of payout at
+
+794
+00:18:37,390 --> 00:18:37,400
+then set a a certain amount of payout at
+ 
+
+795
+00:18:37,400 --> 00:18:39,470
+then set a a certain amount of payout at
+the end of the games based on how many
+
+796
+00:18:39,470 --> 00:18:39,480
+the end of the games based on how many
+ 
+
+797
+00:18:39,480 --> 00:18:42,230
+the end of the games based on how many
+victory points they earn uh I'm not
+
+798
+00:18:42,230 --> 00:18:42,240
+victory points they earn uh I'm not
+ 
+
+799
+00:18:42,240 --> 00:18:46,470
+victory points they earn uh I'm not
+going to dive deeper than that at this
+
+800
+00:18:46,470 --> 00:18:46,480
+going to dive deeper than that at this
+ 
+
+801
+00:18:46,480 --> 00:18:50,270
+going to dive deeper than that at this
+time um I may make a a true Deep dive
+
+802
+00:18:50,270 --> 00:18:50,280
+time um I may make a a true Deep dive
+ 
+
+803
+00:18:50,280 --> 00:18:53,310
+time um I may make a a true Deep dive
+video about victory points in the future
+
+804
+00:18:53,310 --> 00:18:53,320
+video about victory points in the future
+ 
+
+805
+00:18:53,320 --> 00:18:55,430
+video about victory points in the future
+but um that is a third option that's
+
+806
+00:18:55,430 --> 00:18:55,440
+but um that is a third option that's
+ 
+
+807
+00:18:55,440 --> 00:18:57,110
+but um that is a third option that's
+kind of a happy middle ground between
+
+808
+00:18:57,110 --> 00:18:57,120
+kind of a happy middle ground between
+ 
+
+809
+00:18:57,120 --> 00:19:01,110
+kind of a happy middle ground between
+all of these options so that's it for
+
+810
+00:19:01,110 --> 00:19:01,120
+all of these options so that's it for
+ 
+
+811
+00:19:01,120 --> 00:19:03,430
+all of these options so that's it for
+today if you have any questions about uh
+
+812
+00:19:03,430 --> 00:19:03,440
+today if you have any questions about uh
+ 
+
+813
+00:19:03,440 --> 00:19:06,549
+today if you have any questions about uh
+these gambling rules in Pathfinder
+
+814
+00:19:06,549 --> 00:19:06,559
+these gambling rules in Pathfinder
+ 
+
+815
+00:19:06,559 --> 00:19:08,430
+these gambling rules in Pathfinder
+please let me know in the comments below
+
+816
+00:19:08,430 --> 00:19:08,440
+please let me know in the comments below
+ 
+
+817
+00:19:08,440 --> 00:19:10,350
+please let me know in the comments below
+also this is the kind of thing that I
+
+818
+00:19:10,350 --> 00:19:10,360
+also this is the kind of thing that I
+ 
+
+819
+00:19:10,360 --> 00:19:13,070
+also this is the kind of thing that I
+imagine GMS and games have been doing
+
+820
+00:19:13,070 --> 00:19:13,080
+imagine GMS and games have been doing
+ 
+
+821
+00:19:13,080 --> 00:19:15,909
+imagine GMS and games have been doing
+for a while now so if you have your own
+
+822
+00:19:15,909 --> 00:19:15,919
+for a while now so if you have your own
+ 
+
+823
+00:19:15,919 --> 00:19:17,990
+for a while now so if you have your own
+tips your own games the way that you've
+
+824
+00:19:17,990 --> 00:19:18,000
+tips your own games the way that you've
+ 
+
+825
+00:19:18,000 --> 00:19:21,590
+tips your own games the way that you've
+used games lore or Casino lore in the
+
+826
+00:19:21,590 --> 00:19:21,600
+used games lore or Casino lore in the
+ 
+
+827
+00:19:21,600 --> 00:19:25,750
+used games lore or Casino lore in the
+past to generate uh income or to
+
+828
+00:19:25,750 --> 00:19:25,760
+past to generate uh income or to
+ 
+
+829
+00:19:25,760 --> 00:19:29,110
+past to generate uh income or to
+generate a a gaming feel in your session
+
+830
+00:19:29,110 --> 00:19:29,120
+generate a a gaming feel in your session
+ 
+
+831
+00:19:29,120 --> 00:19:30,350
+generate a a gaming feel in your session
+let me know in the comments as well
+
+832
+00:19:30,350 --> 00:19:30,360
+let me know in the comments as well
+ 
+
+833
+00:19:30,360 --> 00:19:32,789
+let me know in the comments as well
+share that with all of our viewers out
+
+834
+00:19:32,789 --> 00:19:32,799
+share that with all of our viewers out
+ 
+
+835
+00:19:32,799 --> 00:19:34,630
+share that with all of our viewers out
+there and as always I want to take a
+
+836
+00:19:34,630 --> 00:19:34,640
+there and as always I want to take a
+ 
+
+837
+00:19:34,640 --> 00:19:35,750
+there and as always I want to take a
+quick moment to say thank you to
+
+838
+00:19:35,750 --> 00:19:35,760
+quick moment to say thank you to
+ 
+
+839
+00:19:35,760 --> 00:19:37,630
+quick moment to say thank you to
+everybody out there who supports me
+
+840
+00:19:37,630 --> 00:19:37,640
+everybody out there who supports me
+ 
+
+841
+00:19:37,640 --> 00:19:38,909
+everybody out there who supports me
+whether that's by clicking the like
+
+842
+00:19:38,909 --> 00:19:38,919
+whether that's by clicking the like
+ 
+
+843
+00:19:38,919 --> 00:19:40,950
+whether that's by clicking the like
+button subscribing to the channel
+
+844
+00:19:40,950 --> 00:19:40,960
+button subscribing to the channel
+ 
+
+845
+00:19:40,960 --> 00:19:42,789
+button subscribing to the channel
+subscribing to the patreon buying a
+
+846
+00:19:42,789 --> 00:19:42,799
+subscribing to the patreon buying a
+ 
+
+847
+00:19:42,799 --> 00:19:44,230
+subscribing to the patreon buying a
+super thanks I really appreciate
+
+848
+00:19:44,230 --> 00:19:44,240
+super thanks I really appreciate
+ 
+
+849
+00:19:44,240 --> 00:19:46,110
+super thanks I really appreciate
+everything you folks do to support me
+
+850
+00:19:46,110 --> 00:19:46,120
+everything you folks do to support me
+ 
+
+851
+00:19:46,120 --> 00:19:47,630
+everything you folks do to support me
+and with that thanks for watching take
+
+852
+00:19:47,630 --> 00:19:47,640
+and with that thanks for watching take
+ 
+
+853
+00:19:47,640 --> 00:19:51,480
+and with that thanks for watching take
+care and happy gaming
+

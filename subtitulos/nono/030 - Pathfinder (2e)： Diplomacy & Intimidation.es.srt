@@ -1,0 +1,4669 @@
+1
+00:00:00,640 --> 00:00:02,999
+
+Hola y bienvenidos a los fundamentos de la
+
+2
+00:00:02,999 --> 00:00:03,009
+Hola y bienvenidos a los fundamentos de la
+ 
+
+3
+00:00:03,009 --> 00:00:07,200
+Hola y bienvenidos a los fundamentos de la
+influencia y Pathfinder 2.ª edición. Los
+
+4
+00:00:07,200 --> 00:00:07,210
+influencia y Pathfinder 2.ª edición. Los
+ 
+
+5
+00:00:07,210 --> 00:00:09,640
+
+conflictos y Pathfinder no siempre se
+
+6
+00:00:09,640 --> 00:00:09,650
+conflictos y Pathfinder no siempre se
+ 
+
+7
+00:00:09,650 --> 00:00:12,250
+conflictos y Pathfinder no siempre se
+resuelven con un hacha o un hechizo de bola de fuego
+
+8
+00:00:12,250 --> 00:00:12,260
+resuelven con un hacha o un hechizo de bola de fuego
+ 
+
+9
+00:00:12,260 --> 00:00:14,770
+resuelven con un hacha o un hechizo de bola de fuego
+y algunos personajes a menudo tienen
+
+10
+00:00:14,770 --> 00:00:14,780
+y algunos personajes a menudo tienen
+ 
+
+11
+00:00:14,780 --> 00:00:17,590
+y algunos personajes a menudo tienen
+ingenios más agudos que espadas y eso es en lo que se
+
+12
+00:00:17,590 --> 00:00:17,600
+ingenios más agudos que espadas y eso es en lo que se
+ 
+
+13
+00:00:17,600 --> 00:00:19,900
+ingenios más agudos que espadas y eso es en lo que se
+centrará este curso. Cómo las
+
+14
+00:00:19,900 --> 00:00:19,910
+centrará este curso. Cómo las
+ 
+
+15
+00:00:19,910 --> 00:00:22,179
+centrará este curso. Cómo las
+mecánicas del juego respaldan el uso de
+
+16
+00:00:22,179 --> 00:00:22,189
+mecánicas del juego respaldan el uso de
+ 
+
+17
+00:00:22,189 --> 00:00:25,900
+mecánicas del juego respaldan el uso de
+palabras como armas. La base fundamental de
+
+18
+00:00:25,900 --> 00:00:25,910
+palabras como armas. La base fundamental de
+ 
+
+19
+00:00:25,910 --> 00:00:29,470
+palabras como armas. La base fundamental de
+esta mecánica es la actitud. La actitud se
+
+20
+00:00:29,470 --> 00:00:29,480
+esta mecánica es la actitud. La actitud se
+ 
+
+21
+00:00:29,480 --> 00:00:32,229
+esta mecánica es la actitud. La actitud se
+representa como una jerarquía de
+
+22
+00:00:32,229 --> 00:00:32,239
+representa como una jerarquía de
+ 
+
+23
+00:00:32,239 --> 00:00:35,350
+representa como una jerarquía de
+estados distintos, no muy diferente de los diferentes
+
+24
+00:00:35,350 --> 00:00:35,360
+estados distintos, no muy diferente de los diferentes
+ 
+
+25
+00:00:35,360 --> 00:00:37,240
+estados distintos, no muy diferente de los diferentes
+estados de conciencia que se utilizan para
+
+26
+00:00:37,240 --> 00:00:37,250
+estados de conciencia que se utilizan para
+ 
+
+27
+00:00:37,250 --> 00:00:39,849
+estados de conciencia que se utilizan para
+determinar el sigilo y la percepción. Como la
+
+28
+00:00:39,849 --> 00:00:39,859
+determinar el sigilo y la percepción. Como la
+ 
+
+29
+00:00:39,859 --> 00:00:42,399
+determinar el sigilo y la percepción. Como la
+conciencia, la actitud se determina
+
+30
+00:00:42,399 --> 00:00:42,409
+conciencia, la actitud se determina
+ 
+
+31
+00:00:42,409 --> 00:00:45,459
+conciencia, la actitud se determina
+criatura a criatura, pero no es
+
+32
+00:00:45,459 --> 00:00:45,469
+criatura a criatura, pero no es
+ 
+
+33
+00:00:45,469 --> 00:00:47,950
+criatura a criatura, pero no es
+raro que todos los miembros de un lado de
+
+34
+00:00:47,950 --> 00:00:47,960
+raro que todos los miembros de un lado de
+ 
+
+35
+00:00:47,960 --> 00:00:50,380
+raro que todos los miembros de un lado de
+un conflicto tengan la misma
+
+36
+00:00:50,380 --> 00:00:50,390
+un conflicto tengan la misma
+ 
+
+37
+00:00:50,390 --> 00:00:52,689
+un conflicto tengan la misma
+actitud inicial hacia todos los miembros del
+
+38
+00:00:52,689 --> 00:00:52,699
+actitud inicial hacia todos los miembros del
+ 
+
+39
+00:00:52,699 --> 00:00:55,750
+actitud inicial hacia todos los miembros del
+otro lado del conflicto. Un personaje
+
+40
+00:00:55,750 --> 00:00:55,760
+otro lado del conflicto. Un personaje
+ 
+
+41
+00:00:55,760 --> 00:00:59,559
+otro lado del conflicto. Un personaje
+que es útil quiere ayudarte. Es más
+
+42
+00:00:59,559 --> 00:00:59,569
+que es útil quiere ayudarte. Es más
+ 
+
+43
+00:00:59,569 --> 00:01:01,719
+que es útil quiere ayudarte. Es más
+probable que conceda tus peticiones.
+
+44
+00:01:01,719 --> 00:01:01,729
+probable que conceda tus peticiones.
+ 
+
+45
+00:01:01,729 --> 00:01:04,060
+probable que conceda tus peticiones.
+Ten en cuenta que solo porque alguien tenga una
+
+46
+00:01:04,060 --> 00:01:04,070
+Ten en cuenta que solo porque alguien tenga una
+ 
+
+47
+00:01:04,070 --> 00:01:07,000
+Ten en cuenta que solo porque alguien tenga una
+actitud útil no significa que
+
+48
+00:01:07,000 --> 00:01:07,010
+actitud útil no significa que
+ 
+
+49
+00:01:07,010 --> 00:01:08,800
+actitud útil no significa que
+vaya a dar su vida
+
+50
+00:01:08,800 --> 00:01:08,810
+vaya a dar su vida
+ 
+
+51
+00:01:08,810 --> 00:01:11,230
+vaya a dar su vida
+por ti o que literalmente hará
+
+52
+00:01:11,230 --> 00:01:11,240
+por ti o que literalmente hará
+ 
+
+53
+00:01:11,240 --> 00:01:14,200
+por ti o que literalmente hará
+cualquier cosa que le pidas. Solo significa
+
+54
+00:01:14,200 --> 00:01:14,210
+cualquier cosa que le pidas. Solo significa
+ 
+
+55
+00:01:14,210 --> 00:01:16,719
+cualquier cosa que le pidas. Solo significa
+que es el más abierto a
+
+56
+00:01:16,719 --> 00:01:16,729
+que es el más abierto a
+ 
+
+57
+00:01:16,729 --> 00:01:19,600
+que es el más abierto a
+ayudarte y si tú o uno de tus aliados
+
+58
+00:01:19,600 --> 00:01:19,610
+ayudarte y si tú o uno de tus aliados
+ 
+
+59
+00:01:19,610 --> 00:01:21,999
+ayudarte y si tú o uno de tus aliados
+realiza una acción hostil contra ellos,
+
+60
+00:01:21,999 --> 00:01:22,009
+realiza una acción hostil contra ellos,
+ 
+
+61
+00:01:22,009 --> 00:01:23,889
+realiza una acción hostil contra ellos,
+su actitud caerá al
+
+62
+00:01:23,889 --> 00:01:23,899
+su actitud caerá al
+ 
+
+63
+00:01:23,899 --> 00:01:25,660
+su actitud caerá al
+nivel que el DM indique.  cree que
+
+64
+00:01:25,660 --> 00:01:25,670
+nivel que el DM indique.  cree que
+ 
+
+65
+00:01:25,670 --> 00:01:26,670
+nivel que el DM indique.  cree que
+
+66
+00:01:26,670 --> 00:01:26,680
+
+ 
+
+67
+00:01:26,680 --> 00:01:29,289
+
+ejemplos apropiados de personajes útiles serían
+
+68
+00:01:29,289 --> 00:01:29,299
+ejemplos apropiados de personajes útiles serían
+ 
+
+69
+00:01:29,299 --> 00:01:32,139
+ejemplos apropiados de personajes útiles serían
+tus amigos cercanos, familiares y
+
+70
+00:01:32,139 --> 00:01:32,149
+tus amigos cercanos, familiares y
+ 
+
+71
+00:01:32,149 --> 00:01:34,149
+tus amigos cercanos, familiares y
+personas con las que has establecido una
+
+72
+00:01:34,149 --> 00:01:34,159
+personas con las que has establecido una
+ 
+
+73
+00:01:34,159 --> 00:01:36,609
+personas con las que has establecido una
+relación positiva y un alto nivel
+
+74
+00:01:36,609 --> 00:01:36,619
+relación positiva y un alto nivel
+ 
+
+75
+00:01:36,619 --> 00:01:40,770
+relación positiva y un alto nivel
+de confianza. Un paso por debajo de lo útil es
+
+76
+00:01:40,770 --> 00:01:40,780
+de confianza. Un paso por debajo de lo útil es
+ 
+
+77
+00:01:40,780 --> 00:01:44,859
+de confianza. Un paso por debajo de lo útil es
+amigable. Alguien que es amigable puede estar
+
+78
+00:01:44,859 --> 00:01:44,869
+amigable. Alguien que es amigable puede estar
+ 
+
+79
+00:01:44,869 --> 00:01:47,139
+amigable. Alguien que es amigable puede estar
+dispuesto a ayudarte, tiene una buena
+
+80
+00:01:47,139 --> 00:01:47,149
+dispuesto a ayudarte, tiene una buena
+ 
+
+81
+00:01:47,149 --> 00:01:49,120
+dispuesto a ayudarte, tiene una buena
+actitud hacia ti, pero no está
+
+82
+00:01:49,120 --> 00:01:49,130
+actitud hacia ti, pero no está
+ 
+
+83
+00:01:49,130 --> 00:01:51,669
+actitud hacia ti, pero no está
+interesado en esforzarse demasiado
+
+84
+00:01:51,669 --> 00:01:51,679
+interesado en esforzarse demasiado
+ 
+
+85
+00:01:51,679 --> 00:01:54,700
+interesado en esforzarse demasiado
+para ayudarte. Los personajes amigables
+
+86
+00:01:54,700 --> 00:01:54,710
+para ayudarte. Los personajes amigables
+ 
+
+87
+00:01:54,710 --> 00:01:57,130
+para ayudarte. Los personajes amigables
+pueden ser conocidos, un miembro de tu
+
+88
+00:01:57,130 --> 00:01:57,140
+pueden ser conocidos, un miembro de tu
+ 
+
+89
+00:01:57,140 --> 00:01:59,919
+pueden ser conocidos, un miembro de tu
+iglesia o gremio o alguien que trabaja en
+
+90
+00:01:59,919 --> 00:01:59,929
+iglesia o gremio o alguien que trabaja en
+ 
+
+91
+00:01:59,929 --> 00:02:01,630
+iglesia o gremio o alguien que trabaja en
+la industria de servicios como un cantinero
+
+92
+00:02:01,630 --> 00:02:01,640
+la industria de servicios como un cantinero
+ 
+
+93
+00:02:01,640 --> 00:02:05,830
+la industria de servicios como un cantinero
+que está motivado para hacerte feliz. En el
+
+94
+00:02:05,830 --> 00:02:05,840
+que está motivado para hacerte feliz. En el
+ 
+
+95
+00:02:05,840 --> 00:02:08,309
+que está motivado para hacerte feliz. En el
+medio de la jerarquía de actitudes está
+
+96
+00:02:08,309 --> 00:02:08,319
+medio de la jerarquía de actitudes está
+ 
+
+97
+00:02:08,319 --> 00:02:10,860
+medio de la jerarquía de actitudes está
+indiferente. Cuando un personaje es
+
+98
+00:02:10,860 --> 00:02:10,870
+indiferente. Cuando un personaje es
+ 
+
+99
+00:02:10,870 --> 00:02:13,510
+indiferente. Cuando un personaje es
+indiferente, tiene una
+
+100
+00:02:13,510 --> 00:02:13,520
+indiferente, tiene una
+ 
+
+101
+00:02:13,520 --> 00:02:15,910
+indiferente, tiene una
+disposición neutral hacia ti. En realidad, no le importas en absoluto.
+
+102
+00:02:15,910 --> 00:02:17,949
+disposición neutral hacia ti. En realidad, no le importas en absoluto.
+ 
+
+103
+00:02:17,949 --> 00:02:17,959
+
+ 
+
+104
+00:02:17,959 --> 00:02:20,530
+
+Es el punto de partida normal para la mayoría de los
+
+105
+00:02:20,530 --> 00:02:20,540
+Es el punto de partida normal para la mayoría de los
+ 
+
+106
+00:02:20,540 --> 00:02:23,559
+Es el punto de partida normal para la mayoría de los
+NPC, como un extraño que te cruzas en la
+
+107
+00:02:23,559 --> 00:02:23,569
+NPC, como un extraño que te cruzas en la
+ 
+
+108
+00:02:23,569 --> 00:02:24,190
+NPC, como un extraño que te cruzas en la
+calle.
+
+109
+00:02:24,190 --> 00:02:24,200
+calle.
+ 
+
+110
+00:02:24,200 --> 00:02:26,770
+calle.
+Comienzas indiferente cuando lo
+
+111
+00:02:26,770 --> 00:02:26,780
+Comienzas indiferente cuando lo
+ 
+
+112
+00:02:26,780 --> 00:02:29,199
+Comienzas indiferente cuando lo
+conoces por primera vez y luego la actitud del personaje
+
+113
+00:02:29,199 --> 00:02:29,209
+conoces por primera vez y luego la actitud del personaje
+ 
+
+114
+00:02:29,209 --> 00:02:32,050
+conoces por primera vez y luego la actitud del personaje
+puede cambiar de una dirección u otra según
+
+115
+00:02:32,050 --> 00:02:32,060
+puede cambiar de una dirección u otra según
+ 
+
+116
+00:02:32,060 --> 00:02:35,830
+puede cambiar de una dirección u otra según
+cómo interactúes. A continuación, eso es
+
+117
+00:02:35,830 --> 00:02:35,840
+cómo interactúes. A continuación, eso es
+ 
+
+118
+00:02:35,840 --> 00:02:39,459
+cómo interactúes. A continuación, eso es
+hostil. Alguien que tiene una
+
+119
+00:02:39,459 --> 00:02:39,469
+hostil. Alguien que tiene una
+ 
+
+120
+00:02:39,469 --> 00:02:41,619
+hostil. Alguien que tiene una
+actitud hostil simplemente no le gustas o
+
+121
+00:02:41,619 --> 00:02:41,629
+actitud hostil simplemente no le gustas o
+ 
+
+122
+00:02:41,629 --> 00:02:44,440
+actitud hostil simplemente no le gustas o
+no confía en ti. Puede que no quiera hacerte
+
+123
+00:02:44,440 --> 00:02:44,450
+no confía en ti. Puede que no quiera hacerte
+ 
+
+124
+00:02:44,450 --> 00:02:46,809
+no confía en ti. Puede que no quiera hacerte
+daño, pero definitivamente tampoco está
+
+125
+00:02:46,809 --> 00:02:46,819
+daño, pero definitivamente tampoco está
+ 
+
+126
+00:02:46,819 --> 00:02:48,699
+daño, pero definitivamente tampoco está
+interesado en esforzarse demasiado para
+
+127
+00:02:48,699 --> 00:02:48,709
+interesado en esforzarse demasiado para
+ 
+
+128
+00:02:48,709 --> 00:02:52,960
+interesado en esforzarse demasiado para
+ayudarte. Y por último, tenemos hostil.
+
+129
+00:02:52,960 --> 00:02:52,970
+ayudarte. Y por último, tenemos hostil.
+ 
+
+130
+00:02:52,970 --> 00:02:55,809
+ayudarte. Y por último, tenemos hostil.
+Cuando alguien es  hostiles están
+
+131
+00:02:55,809 --> 00:02:55,819
+Cuando alguien es  hostiles están
+ 
+
+132
+00:02:55,819 --> 00:02:58,990
+Cuando alguien es  hostiles están
+trabajando activamente en tu contra esto puede ser
+
+133
+00:02:58,990 --> 00:02:59,000
+trabajando activamente en tu contra esto puede ser
+ 
+
+134
+00:02:59,000 --> 00:03:01,569
+trabajando activamente en tu contra esto puede ser
+atacándote directamente o
+
+135
+00:03:01,569 --> 00:03:01,579
+atacándote directamente o
+ 
+
+136
+00:03:01,579 --> 00:03:05,170
+atacándote directamente o
+obstaculizándote de alguna otra manera pero son
+
+137
+00:03:05,170 --> 00:03:05,180
+obstaculizándote de alguna otra manera pero son
+ 
+
+138
+00:03:05,180 --> 00:03:07,990
+obstaculizándote de alguna otra manera pero son
+más que simplemente desagradarte
+
+139
+00:03:07,990 --> 00:03:08,000
+más que simplemente desagradarte
+ 
+
+140
+00:03:08,000 --> 00:03:11,740
+más que simplemente desagradarte
+quieren verte fracasar y por lo tanto
+
+141
+00:03:11,740 --> 00:03:11,750
+quieren verte fracasar y por lo tanto
+ 
+
+142
+00:03:11,750 --> 00:03:14,080
+quieren verte fracasar y por lo tanto
+son los personajes más difíciles de
+
+143
+00:03:14,080 --> 00:03:14,090
+son los personajes más difíciles de
+ 
+
+144
+00:03:14,090 --> 00:03:17,170
+son los personajes más difíciles de
+convencer para que hagan las cosas a tu manera cambiar
+
+145
+00:03:17,170 --> 00:03:17,180
+convencer para que hagan las cosas a tu manera cambiar
+ 
+
+146
+00:03:17,180 --> 00:03:18,849
+convencer para que hagan las cosas a tu manera cambiar
+la actitud de un personaje se conoce
+
+147
+00:03:18,849 --> 00:03:18,859
+la actitud de un personaje se conoce
+ 
+
+148
+00:03:18,859 --> 00:03:21,159
+la actitud de un personaje se conoce
+como influencia y a menudo se
+
+149
+00:03:21,159 --> 00:03:21,169
+como influencia y a menudo se
+ 
+
+150
+00:03:21,169 --> 00:03:23,680
+como influencia y a menudo se
+logra mediante el uso de habilidades
+
+151
+00:03:23,680 --> 00:03:23,690
+logra mediante el uso de habilidades
+ 
+
+152
+00:03:23,690 --> 00:03:26,259
+logra mediante el uso de habilidades
+la primera de las que vamos a
+
+153
+00:03:26,259 --> 00:03:26,269
+la primera de las que vamos a
+ 
+
+154
+00:03:26,269 --> 00:03:30,030
+la primera de las que vamos a
+discutir es la diplomacia en términos simples la
+
+155
+00:03:30,030 --> 00:03:30,040
+discutir es la diplomacia en términos simples la
+ 
+
+156
+00:03:30,040 --> 00:03:33,119
+discutir es la diplomacia en términos simples la
+diplomacia representa la
+
+157
+00:03:33,119 --> 00:03:33,129
+diplomacia representa la
+ 
+
+158
+00:03:33,129 --> 00:03:34,979
+diplomacia representa la
+capacidad de un personaje para obtener lo que
+
+159
+00:03:34,979 --> 00:03:34,989
+capacidad de un personaje para obtener lo que
+ 
+
+160
+00:03:34,989 --> 00:03:38,250
+capacidad de un personaje para obtener lo que
+quiere siendo encantador cuando un personaje
+
+161
+00:03:38,250 --> 00:03:38,260
+quiere siendo encantador cuando un personaje
+ 
+
+162
+00:03:38,260 --> 00:03:40,619
+quiere siendo encantador cuando un personaje
+usa la habilidad diplomacia usa
+
+163
+00:03:40,619 --> 00:03:40,629
+usa la habilidad diplomacia usa
+ 
+
+164
+00:03:40,629 --> 00:03:43,589
+usa la habilidad diplomacia usa
+adulación positividad y promesas de buena
+
+165
+00:03:43,589 --> 00:03:43,599
+adulación positividad y promesas de buena
+ 
+
+166
+00:03:43,599 --> 00:03:45,600
+adulación positividad y promesas de buena
+fortuna para convencer a otros de que hagan lo que
+
+167
+00:03:45,600 --> 00:03:45,610
+fortuna para convencer a otros de que hagan lo que
+ 
+
+168
+00:03:45,610 --> 00:03:48,930
+fortuna para convencer a otros de que hagan lo que
+quiere hay dos aplicaciones de la
+
+169
+00:03:48,930 --> 00:03:48,940
+quiere hay dos aplicaciones de la
+ 
+
+170
+00:03:48,940 --> 00:03:51,149
+quiere hay dos aplicaciones de la
+diplomacia que vamos a discutir
+
+171
+00:03:51,149 --> 00:03:51,159
+diplomacia que vamos a discutir
+ 
+
+172
+00:03:51,159 --> 00:03:54,270
+diplomacia que vamos a discutir
+aquí la primera se llama causar una
+
+173
+00:03:54,270 --> 00:03:54,280
+aquí la primera se llama causar una
+ 
+
+174
+00:03:54,280 --> 00:03:57,539
+aquí la primera se llama causar una
+impresión cuando un personaje usa causar una
+
+175
+00:03:57,539 --> 00:03:57,549
+impresión cuando un personaje usa causar una
+ 
+
+176
+00:03:57,549 --> 00:03:59,910
+impresión cuando un personaje usa causar una
+impresión pasan al menos un
+
+177
+00:03:59,910 --> 00:03:59,920
+impresión pasan al menos un
+ 
+
+178
+00:03:59,920 --> 00:04:02,280
+impresión pasan al menos un
+minuto en conversación con un objetivo
+
+179
+00:04:02,280 --> 00:04:02,290
+minuto en conversación con un objetivo
+ 
+
+180
+00:04:02,290 --> 00:04:05,069
+minuto en conversación con un objetivo
+durante el cual intentan construir una relación
+
+181
+00:04:05,069 --> 00:04:05,079
+durante el cual intentan construir una relación
+ 
+
+182
+00:04:05,079 --> 00:04:08,099
+durante el cual intentan construir una relación
+con ellos luego tiran una prueba de Taplow maseeh
+
+183
+00:04:08,099 --> 00:04:08,109
+con ellos luego tiran una prueba de Taplow maseeh
+ 
+
+184
+00:04:08,109 --> 00:04:10,670
+con ellos luego tiran una prueba de Taplow maseeh
+impugnada por los objetivos CD
+
+185
+00:04:10,670 --> 00:04:10,680
+impugnada por los objetivos CD
+ 
+
+186
+00:04:10,680 --> 00:04:13,740
+impugnada por los objetivos CD
+este rol se modifica aún más sin embargo
+
+187
+00:04:13,740 --> 00:04:13,750
+este rol se modifica aún más sin embargo
+ 
+
+188
+00:04:13,750 --> 00:04:16,860
+este rol se modifica aún más sin embargo
+el DM desea si el rol es un éxito
+
+189
+00:04:16,860 --> 00:04:16,870
+el DM desea si el rol es un éxito
+ 
+
+190
+00:04:16,870 --> 00:04:19,650
+el DM desea si el rol es un éxito
+entonces la actitud de los objetivos mejora en
+
+191
+00:04:19,650 --> 00:04:19,660
+entonces la actitud de los objetivos mejora en
+ 
+
+192
+00:04:19,660 --> 00:04:21,960
+entonces la actitud de los objetivos mejora en
+un paso en otras palabras si eran
+
+193
+00:04:21,960 --> 00:04:21,970
+un paso en otras palabras si eran
+ 
+
+194
+00:04:21,970 --> 00:04:24,689
+un paso en otras palabras si eran
+indiferentes entonces son amigables
+
+195
+00:04:24,689 --> 00:04:24,699
+indiferentes entonces son amigables
+ 
+
+196
+00:04:24,699 --> 00:04:28,409
+indiferentes entonces son amigables
+si el rol es un  Si tiene éxito crítico,
+
+197
+00:04:28,409 --> 00:04:28,419
+si el rol es un  Si tiene éxito crítico,
+ 
+
+198
+00:04:28,419 --> 00:04:30,659
+si el rol es un  Si tiene éxito crítico,
+la actitud del objetivo mejora en dos
+
+199
+00:04:30,659 --> 00:04:30,669
+la actitud del objetivo mejora en dos
+ 
+
+200
+00:04:30,669 --> 00:04:33,719
+la actitud del objetivo mejora en dos
+pasos o pasa de indiferente a
+
+201
+00:04:33,719 --> 00:04:33,729
+pasos o pasa de indiferente a
+ 
+
+202
+00:04:33,729 --> 00:04:37,260
+pasos o pasa de indiferente a
+servicial. Si falla la prueba, no pasa
+
+203
+00:04:37,260 --> 00:04:37,270
+servicial. Si falla la prueba, no pasa
+ 
+
+204
+00:04:37,270 --> 00:04:39,180
+servicial. Si falla la prueba, no pasa
+nada. El objetivo permanece
+
+205
+00:04:39,180 --> 00:04:39,190
+nada. El objetivo permanece
+ 
+
+206
+00:04:39,190 --> 00:04:41,939
+nada. El objetivo permanece
+indiferente y si falla críticamente,
+
+207
+00:04:41,939 --> 00:04:41,949
+indiferente y si falla críticamente,
+ 
+
+208
+00:04:41,949 --> 00:04:44,700
+indiferente y si falla críticamente,
+la actitud del objetivo empeora en un
+
+209
+00:04:44,700 --> 00:04:44,710
+la actitud del objetivo empeora en un
+ 
+
+210
+00:04:44,710 --> 00:04:47,730
+la actitud del objetivo empeora en un
+paso o pasa de indiferente a
+
+211
+00:04:47,730 --> 00:04:47,740
+paso o pasa de indiferente a
+ 
+
+212
+00:04:47,740 --> 00:04:50,939
+paso o pasa de indiferente a
+hostil. Estos ajustes de actitud
+
+213
+00:04:50,939 --> 00:04:50,949
+hostil. Estos ajustes de actitud
+ 
+
+214
+00:04:50,949 --> 00:04:53,219
+hostil. Estos ajustes de actitud
+solo duran la interacción social actual
+
+215
+00:04:53,219 --> 00:04:53,229
+solo duran la interacción social actual
+ 
+
+216
+00:04:53,229 --> 00:04:56,129
+solo duran la interacción social actual
+y luego vuelven a
+
+217
+00:04:56,129 --> 00:04:56,139
+y luego vuelven a
+ 
+
+218
+00:04:56,139 --> 00:04:58,589
+y luego vuelven a
+su estado original a menos que el DM
+
+219
+00:04:58,589 --> 00:04:58,599
+su estado original a menos que el DM
+ 
+
+220
+00:04:58,599 --> 00:05:01,370
+su estado original a menos que el DM
+decida lo contrario.
+
+221
+00:05:01,370 --> 00:05:01,380
+
+ 
+
+222
+00:05:01,380 --> 00:05:04,040
+
+La segunda aplicación de la diplomacia que vamos
+
+223
+00:05:04,040 --> 00:05:04,050
+La segunda aplicación de la diplomacia que vamos
+ 
+
+224
+00:05:04,050 --> 00:05:06,770
+La segunda aplicación de la diplomacia que vamos
+a discutir es hacer una
+
+225
+00:05:06,770 --> 00:05:06,780
+a discutir es hacer una
+ 
+
+226
+00:05:06,780 --> 00:05:10,910
+a discutir es hacer una
+solicitud. Hacer una solicitud cuesta una
+
+227
+00:05:10,910 --> 00:05:10,920
+solicitud. Hacer una solicitud cuesta una
+ 
+
+228
+00:05:10,920 --> 00:05:12,920
+solicitud. Hacer una solicitud cuesta una
+acción y solo se puede usar con un
+
+229
+00:05:12,920 --> 00:05:12,930
+acción y solo se puede usar con un
+ 
+
+230
+00:05:12,930 --> 00:05:15,920
+acción y solo se puede usar con un
+objetivo que tenga al menos una
+
+231
+00:05:15,920 --> 00:05:15,930
+objetivo que tenga al menos una
+ 
+
+232
+00:05:15,930 --> 00:05:18,890
+objetivo que tenga al menos una
+actitud amistosa hacia ti. Después de hacer tu
+
+233
+00:05:18,890 --> 00:05:18,900
+actitud amistosa hacia ti. Después de hacer tu
+ 
+
+234
+00:05:18,900 --> 00:05:21,380
+actitud amistosa hacia ti. Después de hacer tu
+solicitud, realizas una prueba de diplomacia
+
+235
+00:05:21,380 --> 00:05:21,390
+solicitud, realizas una prueba de diplomacia
+ 
+
+236
+00:05:21,390 --> 00:05:24,140
+solicitud, realizas una prueba de diplomacia
+que se disputa con una CD establecida por el DM
+
+237
+00:05:24,140 --> 00:05:24,150
+que se disputa con una CD establecida por el DM
+ 
+
+238
+00:05:24,150 --> 00:05:27,170
+que se disputa con una CD establecida por el DM
+y se basa en la dificultad de la
+
+239
+00:05:27,170 --> 00:05:27,180
+y se basa en la dificultad de la
+ 
+
+240
+00:05:27,180 --> 00:05:30,650
+y se basa en la dificultad de la
+solicitud. Muchas variables
+
+241
+00:05:30,650 --> 00:05:30,660
+solicitud. Muchas variables
+ 
+
+242
+00:05:30,660 --> 00:05:33,890
+solicitud. Muchas variables
+determinan esta CD. Qué tan difícil
+
+243
+00:05:33,890 --> 00:05:33,900
+determinan esta CD. Qué tan difícil
+ 
+
+244
+00:05:33,900 --> 00:05:35,840
+determinan esta CD. Qué tan difícil
+es la solicitud. ¿Hay
+
+245
+00:05:35,840 --> 00:05:35,850
+es la solicitud. ¿Hay
+ 
+
+246
+00:05:35,850 --> 00:05:38,980
+es la solicitud. ¿Hay
+consecuencias negativas? ¿Es inmoral o ilegal? ¿
+
+247
+00:05:38,980 --> 00:05:38,990
+consecuencias negativas? ¿Es inmoral o ilegal? ¿
+ 
+
+248
+00:05:38,990 --> 00:05:41,750
+consecuencias negativas? ¿Es inmoral o ilegal? ¿
+Cuánto les gusta el
+
+249
+00:05:41,750 --> 00:05:41,760
+Cuánto les gusta el
+ 
+
+250
+00:05:41,760 --> 00:05:44,450
+Cuánto les gusta el
+personaje solicitante? ¿La solicitud está alineada
+
+251
+00:05:44,450 --> 00:05:44,460
+personaje solicitante? ¿La solicitud está alineada
+ 
+
+252
+00:05:44,460 --> 00:05:47,000
+personaje solicitante? ¿La solicitud está alineada
+con sus objetivos o en contra de ellos?
+
+253
+00:05:47,000 --> 00:05:47,010
+con sus objetivos o en contra de ellos?
+ 
+
+254
+00:05:47,010 --> 00:05:49,850
+con sus objetivos o en contra de ellos?
+Algunas solicitudes pueden ser consideradas
+
+255
+00:05:49,850 --> 00:05:49,860
+Algunas solicitudes pueden ser consideradas
+ 
+
+256
+00:05:49,860 --> 00:05:52,880
+Algunas solicitudes pueden ser consideradas
+imposibles o demasiado extravagantes, pero la
+
+257
+00:05:52,880 --> 00:05:52,890
+imposibles o demasiado extravagantes, pero la
+ 
+
+258
+00:05:52,890 --> 00:05:55,580
+imposibles o demasiado extravagantes, pero la
+mayoría de los DM que conozco te permiten solicitar
+
+259
+00:05:55,580 --> 00:05:55,590
+mayoría de los DM que conozco te permiten solicitar
+ 
+
+260
+00:05:55,590 --> 00:05:58,460
+mayoría de los DM que conozco te permiten solicitar
+literalmente cualquier cosa que quieras y luego te permiten
+
+261
+00:05:58,460 --> 00:05:58,470
+literalmente cualquier cosa que quieras y luego te permiten
+ 
+
+262
+00:05:58,470 --> 00:06:00,650
+literalmente cualquier cosa que quieras y luego te permiten
+lidiar con las consecuencias lógicas
+
+263
+00:06:00,650 --> 00:06:00,660
+lidiar con las consecuencias lógicas
+ 
+
+264
+00:06:00,660 --> 00:06:03,410
+lidiar con las consecuencias lógicas
+de hacer esa solicitud si  Si tienes éxito en
+
+265
+00:06:03,410 --> 00:06:03,420
+de hacer esa solicitud si  Si tienes éxito en
+ 
+
+266
+00:06:03,420 --> 00:06:05,420
+de hacer esa solicitud si  Si tienes éxito en
+la prueba de diplomacia, el objetivo estará
+
+267
+00:06:05,420 --> 00:06:05,430
+la prueba de diplomacia, el objetivo estará
+ 
+
+268
+00:06:05,430 --> 00:06:08,510
+la prueba de diplomacia, el objetivo estará
+dispuesto a hacer lo que le pidas, pero con algunas
+
+269
+00:06:08,510 --> 00:06:08,520
+dispuesto a hacer lo que le pidas, pero con algunas
+ 
+
+270
+00:06:08,520 --> 00:06:11,150
+dispuesto a hacer lo que le pidas, pero con algunas
+restricciones o una exigencia propia.
+
+271
+00:06:11,150 --> 00:06:11,160
+restricciones o una exigencia propia.
+ 
+
+272
+00:06:11,160 --> 00:06:13,850
+restricciones o una exigencia propia.
+Si tienes éxito crítico, el
+
+273
+00:06:13,850 --> 00:06:13,860
+Si tienes éxito crítico, el
+ 
+
+274
+00:06:13,860 --> 00:06:16,480
+Si tienes éxito crítico, el
+objetivo aceptará la petición por completo. Si
+
+275
+00:06:16,480 --> 00:06:16,490
+objetivo aceptará la petición por completo. Si
+ 
+
+276
+00:06:16,490 --> 00:06:19,850
+objetivo aceptará la petición por completo. Si
+fallas, el objetivo rechazará tu
+
+277
+00:06:19,850 --> 00:06:19,860
+fallas, el objetivo rechazará tu
+ 
+
+278
+00:06:19,860 --> 00:06:23,080
+fallas, el objetivo rechazará tu
+petición, pero podría ofrecer una alternativa menos extrema
+
+279
+00:06:23,080 --> 00:06:23,090
+petición, pero podría ofrecer una alternativa menos extrema
+ 
+
+280
+00:06:23,090 --> 00:06:26,270
+petición, pero podría ofrecer una alternativa menos extrema
+en su lugar. Y en un
+
+281
+00:06:26,270 --> 00:06:26,280
+en su lugar. Y en un
+ 
+
+282
+00:06:26,280 --> 00:06:29,270
+en su lugar. Y en un
+fallo crítico, no solo rechazará
+
+283
+00:06:29,270 --> 00:06:29,280
+fallo crítico, no solo rechazará
+ 
+
+284
+00:06:29,280 --> 00:06:31,520
+fallo crítico, no solo rechazará
+la petición, sino que su actitud hacia
+
+285
+00:06:31,520 --> 00:06:31,530
+la petición, sino que su actitud hacia
+ 
+
+286
+00:06:31,530 --> 00:06:34,160
+la petición, sino que su actitud hacia
+ti bajará un nivel. Si eran
+
+287
+00:06:34,160 --> 00:06:34,170
+ti bajará un nivel. Si eran
+ 
+
+288
+00:06:34,170 --> 00:06:37,280
+ti bajará un nivel. Si eran
+amistosos, se volverán indiferentes, lo que
+
+289
+00:06:37,280 --> 00:06:37,290
+amistosos, se volverán indiferentes, lo que
+ 
+
+290
+00:06:37,290 --> 00:06:38,930
+amistosos, se volverán indiferentes, lo que
+significa que necesitarías usar "hacer una
+
+291
+00:06:38,930 --> 00:06:38,940
+significa que necesitarías usar "hacer una
+ 
+
+292
+00:06:38,940 --> 00:06:41,600
+significa que necesitarías usar "hacer una
+impresión" o algún otro medio para volver a hacer que
+
+293
+00:06:41,600 --> 00:06:41,610
+impresión" o algún otro medio para volver a hacer que
+ 
+
+294
+00:06:41,610 --> 00:06:44,240
+impresión" o algún otro medio para volver a hacer que
+su actitud sea amistosa antes de
+
+295
+00:06:44,240 --> 00:06:44,250
+su actitud sea amistosa antes de
+ 
+
+296
+00:06:44,250 --> 00:06:47,469
+su actitud sea amistosa antes de
+poder volver a usar las peticiones.
+
+297
+00:06:47,469 --> 00:06:47,479
+poder volver a usar las peticiones.
+ 
+
+298
+00:06:47,479 --> 00:06:50,120
+poder volver a usar las peticiones.
+Otra habilidad utilizada para influir en los demás
+
+299
+00:06:50,120 --> 00:06:50,130
+Otra habilidad utilizada para influir en los demás
+ 
+
+300
+00:06:50,130 --> 00:06:53,330
+Otra habilidad utilizada para influir en los demás
+es la intimidación. La intimidación es lo
+
+301
+00:06:53,330 --> 00:06:53,340
+es la intimidación. La intimidación es lo
+ 
+
+302
+00:06:53,340 --> 00:06:54,680
+es la intimidación. La intimidación es lo
+opuesto a la diplomacia.
+
+303
+00:06:54,680 --> 00:06:54,690
+opuesto a la diplomacia.
+ 
+
+304
+00:06:54,690 --> 00:06:57,409
+opuesto a la diplomacia.
+Ambas se utilizan para manipular a los demás,
+
+305
+00:06:57,409 --> 00:06:57,419
+Ambas se utilizan para manipular a los demás,
+ 
+
+306
+00:06:57,419 --> 00:07:00,290
+Ambas se utilizan para manipular a los demás,
+pero mientras que la diplomacia usa encanto y
+
+307
+00:07:00,290 --> 00:07:00,300
+pero mientras que la diplomacia usa encanto y
+ 
+
+308
+00:07:00,300 --> 00:07:02,839
+pero mientras que la diplomacia usa encanto y
+promesas de buena fortuna, la intimidación
+
+309
+00:07:02,839 --> 00:07:02,849
+promesas de buena fortuna, la intimidación
+ 
+
+310
+00:07:02,849 --> 00:07:07,100
+promesas de buena fortuna, la intimidación
+usa amenazas y promesas de daño. La
+
+311
+00:07:07,100 --> 00:07:07,110
+usa amenazas y promesas de daño. La
+ 
+
+312
+00:07:07,110 --> 00:07:09,290
+usa amenazas y promesas de daño. La
+primera aplicación de la intimidación que vamos
+
+313
+00:07:09,290 --> 00:07:09,300
+primera aplicación de la intimidación que vamos
+ 
+
+314
+00:07:09,300 --> 00:07:12,980
+primera aplicación de la intimidación que vamos
+a discutir es la coacción. Este es
+
+315
+00:07:12,980 --> 00:07:12,990
+a discutir es la coacción. Este es
+ 
+
+316
+00:07:12,990 --> 00:07:14,689
+a discutir es la coacción. Este es
+el contrapunto para causar una impresión.
+
+317
+00:07:14,689 --> 00:07:14,699
+el contrapunto para causar una impresión.
+ 
+
+318
+00:07:14,699 --> 00:07:17,240
+el contrapunto para causar una impresión.
+Pasas al menos un minuto
+
+319
+00:07:17,240 --> 00:07:17,250
+Pasas al menos un minuto
+ 
+
+320
+00:07:17,250 --> 00:07:19,640
+Pasas al menos un minuto
+conversando con un objetivo durante el cual
+
+321
+00:07:19,640 --> 00:07:19,650
+conversando con un objetivo durante el cual
+ 
+
+322
+00:07:19,650 --> 00:07:22,189
+conversando con un objetivo durante el cual
+haces amenazas, los intimidas e
+
+323
+00:07:22,189 --> 00:07:22,199
+haces amenazas, los intimidas e
+ 
+
+324
+00:07:22,199 --> 00:07:25,040
+haces amenazas, los intimidas e
+intentas obligar a ese objetivo a hacer lo que
+
+325
+00:07:25,040 --> 00:07:25,050
+intentas obligar a ese objetivo a hacer lo que
+ 
+
+326
+00:07:25,050 --> 00:07:28,219
+intentas obligar a ese objetivo a hacer lo que
+quieres que haga. Al final,
+
+327
+00:07:28,219 --> 00:07:28,229
+quieres que haga. Al final,
+ 
+
+328
+00:07:28,229 --> 00:07:30,770
+quieres que haga. Al final,
+realizas una prueba de intimidación.  versus los
+
+329
+00:07:30,770 --> 00:07:30,780
+realizas una prueba de intimidación.  versus los
+ 
+
+330
+00:07:30,780 --> 00:07:33,740
+realizas una prueba de intimidación.  versus los
+objetivos engañarán al igual que con la
+
+331
+00:07:33,740 --> 00:07:33,750
+objetivos engañarán al igual que con la
+ 
+
+332
+00:07:33,750 --> 00:07:36,140
+objetivos engañarán al igual que con la
+diplomacia, estos controles se modifican aún más,
+
+333
+00:07:36,140 --> 00:07:36,150
+diplomacia, estos controles se modifican aún más,
+ 
+
+334
+00:07:36,150 --> 00:07:38,600
+diplomacia, estos controles se modifican aún más,
+sin embargo, el DM cree que es
+
+335
+00:07:38,600 --> 00:07:38,610
+sin embargo, el DM cree que es
+ 
+
+336
+00:07:38,610 --> 00:07:41,360
+sin embargo, el DM cree que es
+apropiado en un éxito,
+
+337
+00:07:41,360 --> 00:07:41,370
+apropiado en un éxito,
+ 
+
+338
+00:07:41,370 --> 00:07:44,450
+apropiado en un éxito,
+el objetivo acepta tu demanda siempre y cuando
+
+339
+00:07:44,450 --> 00:07:44,460
+el objetivo acepta tu demanda siempre y cuando
+ 
+
+340
+00:07:44,460 --> 00:07:46,610
+el objetivo acepta tu demanda siempre y cuando
+hacerlo no los dañe de ninguna
+
+341
+00:07:46,610 --> 00:07:46,620
+hacerlo no los dañe de ninguna
+ 
+
+342
+00:07:46,620 --> 00:07:49,490
+hacerlo no los dañe de ninguna
+manera, continúan obedeciendo durante el
+
+343
+00:07:49,490 --> 00:07:49,500
+manera, continúan obedeciendo durante el
+ 
+
+344
+00:07:49,500 --> 00:07:51,560
+manera, continúan obedeciendo durante el
+tiempo que el DM crea
+
+345
+00:07:51,560 --> 00:07:51,570
+tiempo que el DM crea
+ 
+
+346
+00:07:51,570 --> 00:07:53,930
+tiempo que el DM crea
+apropiado, pero no más de un día
+
+347
+00:07:53,930 --> 00:07:53,940
+apropiado, pero no más de un día
+ 
+
+348
+00:07:53,940 --> 00:07:57,290
+apropiado, pero no más de un día
+al final de este período, el objetivo se
+
+349
+00:07:57,290 --> 00:07:57,300
+al final de este período, el objetivo se
+ 
+
+350
+00:07:57,300 --> 00:08:00,320
+al final de este período, el objetivo se
+vuelve hostil hacia ti y puede
+
+351
+00:08:00,320 --> 00:08:00,330
+vuelve hostil hacia ti y puede
+ 
+
+352
+00:08:00,330 --> 00:08:02,779
+vuelve hostil hacia ti y puede
+decidir tomar medidas en tu contra,
+
+353
+00:08:02,779 --> 00:08:02,789
+decidir tomar medidas en tu contra,
+ 
+
+354
+00:08:02,789 --> 00:08:05,860
+decidir tomar medidas en tu contra,
+como denunciarte a las autoridades, un
+
+355
+00:08:05,860 --> 00:08:05,870
+como denunciarte a las autoridades, un
+ 
+
+356
+00:08:05,870 --> 00:08:08,420
+como denunciarte a las autoridades, un
+éxito crítico funciona de la misma manera,
+
+357
+00:08:08,420 --> 00:08:08,430
+éxito crítico funciona de la misma manera,
+ 
+
+358
+00:08:08,430 --> 00:08:11,390
+éxito crítico funciona de la misma manera,
+excepto que el objetivo está demasiado asustado para atreverse a
+
+359
+00:08:11,390 --> 00:08:11,400
+excepto que el objetivo está demasiado asustado para atreverse a
+ 
+
+360
+00:08:11,400 --> 00:08:13,760
+excepto que el objetivo está demasiado asustado para atreverse a
+actuar en tu contra después de que se vuelven
+
+361
+00:08:13,760 --> 00:08:13,770
+actuar en tu contra después de que se vuelven
+ 
+
+362
+00:08:13,770 --> 00:08:17,689
+actuar en tu contra después de que se vuelven
+hostiles en un fallo, el objetivo
+
+363
+00:08:17,689 --> 00:08:17,699
+hostiles en un fallo, el objetivo
+ 
+
+364
+00:08:17,699 --> 00:08:19,969
+hostiles en un fallo, el objetivo
+no coopera y se vuelve hostil a
+
+365
+00:08:19,969 --> 00:08:19,979
+no coopera y se vuelve hostil a
+ 
+
+366
+00:08:19,979 --> 00:08:23,540
+no coopera y se vuelve hostil a
+menos que ya fuera hostil y en
+
+367
+00:08:23,540 --> 00:08:23,550
+menos que ya fuera hostil y en
+ 
+
+368
+00:08:23,550 --> 00:08:26,149
+menos que ya fuera hostil y en
+un fallo crítico, el objetivo te rechaza
+
+369
+00:08:26,149 --> 00:08:26,159
+un fallo crítico, el objetivo te rechaza
+ 
+
+370
+00:08:26,159 --> 00:08:28,550
+un fallo crítico, el objetivo te rechaza
+y se vuelve hostil hacia ti, tampoco pueden
+
+371
+00:08:28,550 --> 00:08:28,560
+y se vuelve hostil hacia ti, tampoco pueden
+ 
+
+372
+00:08:28,560 --> 00:08:31,310
+y se vuelve hostil hacia ti, tampoco pueden
+ser coaccionados por ti nuevamente durante
+
+373
+00:08:31,310 --> 00:08:31,320
+ser coaccionados por ti nuevamente durante
+ 
+
+374
+00:08:31,320 --> 00:08:33,400
+ser coaccionados por ti nuevamente durante
+una semana,
+
+375
+00:08:33,400 --> 00:08:33,410
+una semana,
+ 
+
+376
+00:08:33,410 --> 00:08:36,700
+una semana,
+consideremos un ejemplo, Kyra
+
+377
+00:08:36,700 --> 00:08:36,710
+consideremos un ejemplo, Kyra
+ 
+
+378
+00:08:36,710 --> 00:08:39,640
+consideremos un ejemplo, Kyra
+asiste al baile de un noble, desea
+
+379
+00:08:39,640 --> 00:08:39,650
+asiste al baile de un noble, desea
+ 
+
+380
+00:08:39,650 --> 00:08:41,860
+asiste al baile de un noble, desea
+obtener su ayuda en una investigación y
+
+381
+00:08:41,860 --> 00:08:41,870
+obtener su ayuda en una investigación y
+ 
+
+382
+00:08:41,870 --> 00:08:44,950
+obtener su ayuda en una investigación y
+entabla una conversación con él, primero,
+
+383
+00:08:44,950 --> 00:08:44,960
+entabla una conversación con él, primero,
+ 
+
+384
+00:08:44,960 --> 00:08:47,410
+entabla una conversación con él, primero,
+el DM debe determinar cuál es la
+
+385
+00:08:47,410 --> 00:08:47,420
+el DM debe determinar cuál es la
+ 
+
+386
+00:08:47,420 --> 00:08:50,620
+el DM debe determinar cuál es la
+actitud del noble hacia Kyra,
+
+387
+00:08:50,620 --> 00:08:50,630
+actitud del noble hacia Kyra,
+ 
+
+388
+00:08:50,630 --> 00:08:52,930
+actitud del noble hacia Kyra,
+deciden que es indiferente y no tiene un
+
+389
+00:08:52,930 --> 00:08:52,940
+deciden que es indiferente y no tiene un
+ 
+
+390
+00:08:52,940 --> 00:08:54,790
+deciden que es indiferente y no tiene un
+sentimiento fuerte sobre ella de una forma u
+
+391
+00:08:54,790 --> 00:08:54,800
+sentimiento fuerte sobre ella de una forma u
+ 
+
+392
+00:08:54,800 --> 00:08:58,140
+sentimiento fuerte sobre ella de una forma u
+otra y esto es típico de los PNJ,
+
+393
+00:08:58,140 --> 00:08:58,150
+otra y esto es típico de los PNJ,
+ 
+
+394
+00:08:58,150 --> 00:09:00,490
+otra y esto es típico de los PNJ,
+sin embargo, el DM podría haber dictaminado  De
+
+395
+00:09:00,490 --> 00:09:00,500
+sin embargo, el DM podría haber dictaminado  De
+ 
+
+396
+00:09:00,500 --> 00:09:03,280
+sin embargo, el DM podría haber dictaminado  De
+manera diferente, si este noble era un patrón
+
+397
+00:09:03,280 --> 00:09:03,290
+manera diferente, si este noble era un patrón
+ 
+
+398
+00:09:03,290 --> 00:09:05,980
+manera diferente, si este noble era un patrón
+de la iglesia de Kyra, puede comenzar como
+
+399
+00:09:05,980 --> 00:09:05,990
+de la iglesia de Kyra, puede comenzar como
+ 
+
+400
+00:09:05,990 --> 00:09:08,590
+de la iglesia de Kyra, puede comenzar como
+amigable o incluso servicial dependiendo de qué tan
+
+401
+00:09:08,590 --> 00:09:08,600
+amigable o incluso servicial dependiendo de qué tan
+ 
+
+402
+00:09:08,600 --> 00:09:10,510
+amigable o incluso servicial dependiendo de qué tan
+fuertemente se sienta acerca de su
+
+403
+00:09:10,510 --> 00:09:10,520
+fuertemente se sienta acerca de su
+ 
+
+404
+00:09:10,520 --> 00:09:12,820
+fuertemente se sienta acerca de su
+religión y si miraba por encima del hombro a los
+
+405
+00:09:12,820 --> 00:09:12,830
+religión y si miraba por encima del hombro a los
+ 
+
+406
+00:09:12,830 --> 00:09:16,060
+religión y si miraba por encima del hombro a los
+plebeyos o si ella usaba su
+
+407
+00:09:16,060 --> 00:09:16,070
+plebeyos o si ella usaba su
+ 
+
+408
+00:09:16,070 --> 00:09:18,160
+plebeyos o si ella usaba su
+pesada armadura de placas y sentía que era un
+
+409
+00:09:18,160 --> 00:09:18,170
+pesada armadura de placas y sentía que era un
+ 
+
+410
+00:09:18,170 --> 00:09:20,980
+pesada armadura de placas y sentía que era un
+atuendo inapropiado para un gran baile,
+
+411
+00:09:20,980 --> 00:09:20,990
+atuendo inapropiado para un gran baile,
+ 
+
+412
+00:09:20,990 --> 00:09:23,560
+atuendo inapropiado para un gran baile,
+podría comenzar como hostil en lugar de
+
+413
+00:09:23,560 --> 00:09:23,570
+podría comenzar como hostil en lugar de
+ 
+
+414
+00:09:23,570 --> 00:09:26,320
+podría comenzar como hostil en lugar de
+indiferente, pero para este ejemplo
+
+415
+00:09:26,320 --> 00:09:26,330
+indiferente, pero para este ejemplo
+ 
+
+416
+00:09:26,330 --> 00:09:28,810
+indiferente, pero para este ejemplo
+vamos a decir que es indiferente, por lo que el
+
+417
+00:09:28,810 --> 00:09:28,820
+vamos a decir que es indiferente, por lo que el
+ 
+
+418
+00:09:28,820 --> 00:09:31,900
+vamos a decir que es indiferente, por lo que el
+jugador de Kyra dice que quiere usar causar
+
+419
+00:09:31,900 --> 00:09:31,910
+jugador de Kyra dice que quiere usar causar
+ 
+
+420
+00:09:31,910 --> 00:09:34,900
+jugador de Kyra dice que quiere usar causar
+una impresión. Ella y el DM interpretan las
+
+421
+00:09:34,900 --> 00:09:34,910
+una impresión. Ella y el DM interpretan las
+ 
+
+422
+00:09:34,910 --> 00:09:36,730
+una impresión. Ella y el DM interpretan las
+presentaciones durante aproximadamente un minuto, después de lo
+
+423
+00:09:36,730 --> 00:09:36,740
+presentaciones durante aproximadamente un minuto, después de lo
+ 
+
+424
+00:09:36,740 --> 00:09:40,660
+presentaciones durante aproximadamente un minuto, después de lo
+cual Kyra tira diplomacia. A algunos DM les
+
+425
+00:09:40,660 --> 00:09:40,670
+cual Kyra tira diplomacia. A algunos DM les
+ 
+
+426
+00:09:40,670 --> 00:09:42,600
+cual Kyra tira diplomacia. A algunos DM les
+gusta otorgar una bonificación a esta verificación
+
+427
+00:09:42,600 --> 00:09:42,610
+gusta otorgar una bonificación a esta verificación
+ 
+
+428
+00:09:42,610 --> 00:09:45,310
+gusta otorgar una bonificación a esta verificación
+dependiendo de qué tan bien interpretó Kyra
+
+429
+00:09:45,310 --> 00:09:45,320
+dependiendo de qué tan bien interpretó Kyra
+ 
+
+430
+00:09:45,320 --> 00:09:47,620
+dependiendo de qué tan bien interpretó Kyra
+y si hizo puntos válidos que
+
+431
+00:09:47,620 --> 00:09:47,630
+y si hizo puntos válidos que
+ 
+
+432
+00:09:47,630 --> 00:09:49,330
+y si hizo puntos válidos que
+animarían al noble a ser más abierto con
+
+433
+00:09:49,330 --> 00:09:49,340
+animarían al noble a ser más abierto con
+ 
+
+434
+00:09:49,340 --> 00:09:52,390
+animarían al noble a ser más abierto con
+ella. El total de esa verificación de diplomacia se
+
+435
+00:09:52,390 --> 00:09:52,400
+ella. El total de esa verificación de diplomacia se
+ 
+
+436
+00:09:52,400 --> 00:09:56,230
+ella. El total de esa verificación de diplomacia se
+compara entonces con la voluntad de los nobles. CD en un
+
+437
+00:09:56,230 --> 00:09:56,240
+compara entonces con la voluntad de los nobles. CD en un
+ 
+
+438
+00:09:56,240 --> 00:09:59,260
+compara entonces con la voluntad de los nobles. CD en un
+éxito, el noble se vuelve amigable y
+
+439
+00:09:59,260 --> 00:09:59,270
+éxito, el noble se vuelve amigable y
+ 
+
+440
+00:09:59,270 --> 00:10:02,740
+éxito, el noble se vuelve amigable y
+en un éxito crítico se vuelve servicial.
+
+441
+00:10:02,740 --> 00:10:02,750
+en un éxito crítico se vuelve servicial.
+ 
+
+442
+00:10:02,750 --> 00:10:06,250
+en un éxito crítico se vuelve servicial.
+En un fallo, no sucede nada y en un
+
+443
+00:10:06,250 --> 00:10:06,260
+En un fallo, no sucede nada y en un
+ 
+
+444
+00:10:06,260 --> 00:10:08,790
+En un fallo, no sucede nada y en un
+fallo crítico el noble se vuelve
+
+445
+00:10:08,790 --> 00:10:08,800
+fallo crítico el noble se vuelve
+ 
+
+446
+00:10:08,800 --> 00:10:12,940
+fallo crítico el noble se vuelve
+hostil. Torturador. Ahora considere el
+
+447
+00:10:12,940 --> 00:10:12,950
+hostil. Torturador. Ahora considere el
+ 
+
+448
+00:10:12,950 --> 00:10:15,970
+hostil. Torturador. Ahora considere el
+escenario. El jugador de Kyra tiene una maravillosa
+
+449
+00:10:15,970 --> 00:10:15,980
+escenario. El jugador de Kyra tiene una maravillosa
+ 
+
+450
+00:10:15,980 --> 00:10:17,830
+escenario. El jugador de Kyra tiene una maravillosa
+ronda de interpretación de rol. Su personaje con
+
+451
+00:10:17,830 --> 00:10:17,840
+ronda de interpretación de rol. Su personaje con
+ 
+
+452
+00:10:17,840 --> 00:10:21,790
+ronda de interpretación de rol. Su personaje con
+los geums. Noble, todo va perfecto,
+
+453
+00:10:21,790 --> 00:10:21,800
+los geums. Noble, todo va perfecto,
+ 
+
+454
+00:10:21,800 --> 00:10:24,040
+los geums. Noble, todo va perfecto,
+es encantadora, hace
+
+455
+00:10:24,040 --> 00:10:24,050
+es encantadora, hace
+ 
+
+456
+00:10:24,050 --> 00:10:26,650
+es encantadora, hace
+puntos inteligentes y convincentes.  y el noble está
+
+457
+00:10:26,650 --> 00:10:26,660
+puntos inteligentes y convincentes.  y el noble está
+ 
+
+458
+00:10:26,660 --> 00:10:29,860
+puntos inteligentes y convincentes.  y el noble está
+comiendo de la palma de su mano,
+
+459
+00:10:29,860 --> 00:10:29,870
+comiendo de la palma de su mano,
+ 
+
+460
+00:10:29,870 --> 00:10:32,380
+comiendo de la palma de su mano,
+luego tira su prueba de diplomacia y el
+
+461
+00:10:32,380 --> 00:10:32,390
+luego tira su prueba de diplomacia y el
+ 
+
+462
+00:10:32,390 --> 00:10:36,730
+luego tira su prueba de diplomacia y el
+resultado es un fallo crítico, ¿cómo se supone que deben
+
+463
+00:10:36,730 --> 00:10:36,740
+resultado es un fallo crítico, ¿cómo se supone que deben
+ 
+
+464
+00:10:36,740 --> 00:10:39,070
+resultado es un fallo crítico, ¿cómo se supone que deben
+explicar esto en la
+
+465
+00:10:39,070 --> 00:10:39,080
+explicar esto en la
+ 
+
+466
+00:10:39,080 --> 00:10:41,260
+explicar esto en la
+narrativa? Todo, desde su
+
+467
+00:10:41,260 --> 00:10:41,270
+narrativa? Todo, desde su
+ 
+
+468
+00:10:41,270 --> 00:10:43,600
+narrativa? Todo, desde su
+juego de reglas, indicaba que los dos realmente se llevaban bien,
+
+469
+00:10:43,600 --> 00:10:43,610
+juego de reglas, indicaba que los dos realmente se llevaban bien,
+ 
+
+470
+00:10:43,610 --> 00:10:46,840
+juego de reglas, indicaba que los dos realmente se llevaban bien,
+pero ahora, de repente, se supone que el
+
+471
+00:10:46,840 --> 00:10:46,850
+pero ahora, de repente, se supone que el
+ 
+
+472
+00:10:46,850 --> 00:10:49,269
+pero ahora, de repente, se supone que el
+Noble es hostil con
+
+473
+00:10:49,269 --> 00:10:49,279
+Noble es hostil con
+ 
+
+474
+00:10:49,279 --> 00:10:52,389
+Noble es hostil con
+ella por alguna razón, este es un buen
+
+475
+00:10:52,389 --> 00:10:52,399
+ella por alguna razón, este es un buen
+ 
+
+476
+00:10:52,399 --> 00:10:54,610
+ella por alguna razón, este es un buen
+ejemplo de por qué algunos DJ y jugadores
+
+477
+00:10:54,610 --> 00:10:54,620
+ejemplo de por qué algunos DJ y jugadores
+ 
+
+478
+00:10:54,620 --> 00:10:57,850
+ejemplo de por qué algunos DJ y jugadores
+prefieren el método de interpretación del resultado de las
+
+479
+00:10:57,850 --> 00:10:57,860
+prefieren el método de interpretación del resultado de las
+ 
+
+480
+00:10:57,860 --> 00:11:00,579
+prefieren el método de interpretación del resultado de las
+pruebas de habilidades sociales en lugar de cuando un
+
+481
+00:11:00,579 --> 00:11:00,589
+pruebas de habilidades sociales en lugar de cuando un
+ 
+
+482
+00:11:00,589 --> 00:11:03,129
+pruebas de habilidades sociales en lugar de cuando un
+jugador de rol que interpreta el resultado de Kyra
+
+483
+00:11:03,129 --> 00:11:03,139
+jugador de rol que interpreta el resultado de Kyra
+ 
+
+484
+00:11:03,139 --> 00:11:06,180
+jugador de rol que interpreta el resultado de Kyra
+haría primero su prueba de diplomacia y
+
+485
+00:11:06,180 --> 00:11:06,190
+haría primero su prueba de diplomacia y
+ 
+
+486
+00:11:06,190 --> 00:11:09,460
+haría primero su prueba de diplomacia y
+luego interpretaría esa interacción social
+
+487
+00:11:09,460 --> 00:11:09,470
+luego interpretaría esa interacción social
+ 
+
+488
+00:11:09,470 --> 00:11:13,300
+luego interpretaría esa interacción social
+con el DJ de esta manera, sabe cuál
+
+489
+00:11:13,300 --> 00:11:13,310
+con el DJ de esta manera, sabe cuál
+ 
+
+490
+00:11:13,310 --> 00:11:16,150
+con el DJ de esta manera, sabe cuál
+es el resultado de la prueba y puede adaptar
+
+491
+00:11:16,150 --> 00:11:16,160
+es el resultado de la prueba y puede adaptar
+ 
+
+492
+00:11:16,160 --> 00:11:18,910
+es el resultado de la prueba y puede adaptar
+el juego de rol para que vaya con ese resultado. En
+
+493
+00:11:18,910 --> 00:11:18,920
+el juego de rol para que vaya con ese resultado. En
+ 
+
+494
+00:11:18,920 --> 00:11:21,819
+el juego de rol para que vaya con ese resultado. En
+el primer ejemplo, donde interpreta
+
+495
+00:11:21,819 --> 00:11:21,829
+el primer ejemplo, donde interpreta
+ 
+
+496
+00:11:21,829 --> 00:11:24,939
+el primer ejemplo, donde interpreta
+primero y luego tira la prueba, puede
+
+497
+00:11:24,939 --> 00:11:24,949
+primero y luego tira la prueba, puede
+ 
+
+498
+00:11:24,949 --> 00:11:26,680
+primero y luego tira la prueba, puede
+sentirse como si le arrancaran la alfombra debajo de los pies
+
+499
+00:11:26,680 --> 00:11:26,690
+sentirse como si le arrancaran la alfombra debajo de los pies
+ 
+
+500
+00:11:26,690 --> 00:11:29,199
+sentirse como si le arrancaran la alfombra debajo de los pies
+cuando siente que el
+
+501
+00:11:29,199 --> 00:11:29,209
+cuando siente que el
+ 
+
+502
+00:11:29,209 --> 00:11:32,379
+cuando siente que el
+juego de rol merece un éxito, pero los dados
+
+503
+00:11:32,379 --> 00:11:32,389
+juego de rol merece un éxito, pero los dados
+ 
+
+504
+00:11:32,389 --> 00:11:35,980
+juego de rol merece un éxito, pero los dados
+simplemente no ruedan a su favor. Cuando
+
+505
+00:11:35,980 --> 00:11:35,990
+simplemente no ruedan a su favor. Cuando
+ 
+
+506
+00:11:35,990 --> 00:11:38,559
+simplemente no ruedan a su favor. Cuando
+interpreta el resultado, el jugador de Kyra
+
+507
+00:11:38,559 --> 00:11:38,569
+interpreta el resultado, el jugador de Kyra
+ 
+
+508
+00:11:38,569 --> 00:11:40,780
+interpreta el resultado, el jugador de Kyra
+sabría que el resultado es un
+
+509
+00:11:40,780 --> 00:11:40,790
+sabría que el resultado es un
+ 
+
+510
+00:11:40,790 --> 00:11:43,900
+sabría que el resultado es un
+fallo crítico al entrar, así que en lugar de
+
+511
+00:11:43,900 --> 00:11:43,910
+fallo crítico al entrar, así que en lugar de
+ 
+
+512
+00:11:43,910 --> 00:11:46,210
+fallo crítico al entrar, así que en lugar de
+sentirse como si los
+
+513
+00:11:46,210 --> 00:11:46,220
+sentirse como si los
+ 
+
+514
+00:11:46,220 --> 00:11:49,600
+sentirse como si los
+dioses de los dados la hubieran robado, esta vez la mesa
+
+515
+00:11:49,600 --> 00:11:49,610
+dioses de los dados la hubieran robado, esta vez la mesa
+ 
+
+516
+00:11:49,610 --> 00:11:51,490
+dioses de los dados la hubieran robado, esta vez la mesa
+probablemente se rompería y  risas por
+
+517
+00:11:51,490 --> 00:11:51,500
+probablemente se rompería y  risas por
+ 
+
+518
+00:11:51,500 --> 00:11:53,769
+probablemente se rompería y  risas por
+su mala suerte y luego todos se
+
+519
+00:11:53,769 --> 00:11:53,779
+su mala suerte y luego todos se
+ 
+
+520
+00:11:53,779 --> 00:11:56,439
+su mala suerte y luego todos se
+divertirían tratando de construir un escenario
+
+521
+00:11:56,439 --> 00:11:56,449
+divertirían tratando de construir un escenario
+ 
+
+522
+00:11:56,449 --> 00:11:59,620
+divertirían tratando de construir un escenario
+que explicara lógicamente por qué ese
+
+523
+00:11:59,620 --> 00:11:59,630
+que explicara lógicamente por qué ese
+ 
+
+524
+00:11:59,630 --> 00:12:01,870
+que explicara lógicamente por qué ese
+noble termina perdiendo el favor de ella en
+
+525
+00:12:01,870 --> 00:12:01,880
+noble termina perdiendo el favor de ella en
+ 
+
+526
+00:12:01,880 --> 00:12:04,689
+noble termina perdiendo el favor de ella en
+lugar de tener un escenario de juego de rol perfecto
+
+527
+00:12:04,689 --> 00:12:04,699
+lugar de tener un escenario de juego de rol perfecto
+ 
+
+528
+00:12:04,699 --> 00:12:07,210
+lugar de tener un escenario de juego de rol perfecto
+y luego
+
+529
+00:12:07,210 --> 00:12:07,220
+y luego
+ 
+
+530
+00:12:07,220 --> 00:12:10,499
+y luego
+arruinarse el humor al sacar uno natural
+
+531
+00:12:10,499 --> 00:12:10,509
+arruinarse el humor al sacar uno natural
+ 
+
+532
+00:12:10,509 --> 00:12:13,720
+arruinarse el humor al sacar uno natural
+ninguno de los métodos es correcto o incorrecto solo lo estoy
+
+533
+00:12:13,720 --> 00:12:13,730
+ninguno de los métodos es correcto o incorrecto solo lo estoy
+ 
+
+534
+00:12:13,730 --> 00:12:16,259
+ninguno de los métodos es correcto o incorrecto solo lo estoy
+ofreciendo como alimento para el pensamiento
+
+535
+00:12:16,259 --> 00:12:16,269
+ofreciendo como alimento para el pensamiento
+ 
+
+536
+00:12:16,269 --> 00:12:18,429
+ofreciendo como alimento para el pensamiento
+independientemente del propósito de este
+
+537
+00:12:18,429 --> 00:12:18,439
+independientemente del propósito de este
+ 
+
+538
+00:12:18,439 --> 00:12:20,530
+independientemente del propósito de este
+ejemplo vamos a decir que Kyra
+
+539
+00:12:20,530 --> 00:12:20,540
+ejemplo vamos a decir que Kyra
+ 
+
+540
+00:12:20,540 --> 00:12:23,170
+ejemplo vamos a decir que Kyra
+escribió un éxito y la actitud del noble se
+
+541
+00:12:23,170 --> 00:12:23,180
+escribió un éxito y la actitud del noble se
+ 
+
+542
+00:12:23,180 --> 00:12:26,740
+escribió un éxito y la actitud del noble se
+vuelve amigable ahora puede usar la
+
+543
+00:12:26,740 --> 00:12:26,750
+vuelve amigable ahora puede usar la
+ 
+
+544
+00:12:26,750 --> 00:12:29,379
+vuelve amigable ahora puede usar la
+actividad de solicitud recuerda que el objetivo
+
+545
+00:12:29,379 --> 00:12:29,389
+actividad de solicitud recuerda que el objetivo
+ 
+
+546
+00:12:29,389 --> 00:12:32,710
+actividad de solicitud recuerda que el objetivo
+debe ser amigable o servicial antes de que
+
+547
+00:12:32,710 --> 00:12:32,720
+debe ser amigable o servicial antes de que
+ 
+
+548
+00:12:32,720 --> 00:12:35,530
+debe ser amigable o servicial antes de que
+puedas hacerles una solicitud esto funciona de la
+
+549
+00:12:35,530 --> 00:12:35,540
+puedas hacerles una solicitud esto funciona de la
+ 
+
+550
+00:12:35,540 --> 00:12:37,179
+puedas hacerles una solicitud esto funciona de la
+misma manera que causar una
+
+551
+00:12:37,179 --> 00:12:37,189
+misma manera que causar una
+ 
+
+552
+00:12:37,189 --> 00:12:40,150
+misma manera que causar una
+impresión excepto que el DM dice que el D ve
+
+553
+00:12:40,150 --> 00:12:40,160
+impresión excepto que el DM dice que el D ve
+ 
+
+554
+00:12:40,160 --> 00:12:42,850
+impresión excepto que el DM dice que el D ve
+que siente que es apropiado en lugar
+
+555
+00:12:42,850 --> 00:12:42,860
+que siente que es apropiado en lugar
+ 
+
+556
+00:12:42,860 --> 00:12:46,569
+que siente que es apropiado en lugar
+de usar la CD de Wil del objetivo si ella
+
+557
+00:12:46,569 --> 00:12:46,579
+de usar la CD de Wil del objetivo si ella
+ 
+
+558
+00:12:46,579 --> 00:12:49,240
+de usar la CD de Wil del objetivo si ella
+tiene éxito entonces acepta ayudarla
+
+559
+00:12:49,240 --> 00:12:49,250
+tiene éxito entonces acepta ayudarla
+ 
+
+560
+00:12:49,250 --> 00:12:51,850
+tiene éxito entonces acepta ayudarla
+con la investigación pero pide
+
+561
+00:12:51,850 --> 00:12:51,860
+con la investigación pero pide
+ 
+
+562
+00:12:51,860 --> 00:12:54,579
+con la investigación pero pide
+algo a cambio si tiene un éxito crítico
+
+563
+00:12:54,579 --> 00:12:54,589
+algo a cambio si tiene un éxito crítico
+ 
+
+564
+00:12:54,589 --> 00:12:56,460
+algo a cambio si tiene un éxito crítico
+ofrece su ayuda
+
+565
+00:12:56,460 --> 00:12:56,470
+ofrece su ayuda
+ 
+
+566
+00:12:56,470 --> 00:12:58,060
+ofrece su ayuda
+directamente
+
+567
+00:12:58,060 --> 00:12:58,070
+directamente
+ 
+
+568
+00:12:58,070 --> 00:13:01,060
+directamente
+si falla entonces el noble rechaza la
+
+569
+00:13:01,060 --> 00:13:01,070
+si falla entonces el noble rechaza la
+ 
+
+570
+00:13:01,070 --> 00:13:04,030
+si falla entonces el noble rechaza la
+solicitud y si falla críticamente entonces
+
+571
+00:13:04,030 --> 00:13:04,040
+solicitud y si falla críticamente entonces
+ 
+
+572
+00:13:04,040 --> 00:13:06,340
+solicitud y si falla críticamente entonces
+el noble rechaza la solicitud y baja
+
+573
+00:13:06,340 --> 00:13:06,350
+el noble rechaza la solicitud y baja
+ 
+
+574
+00:13:06,350 --> 00:13:08,200
+el noble rechaza la solicitud y baja
+su actitud un paso volviéndose
+
+575
+00:13:08,200 --> 00:13:08,210
+su actitud un paso volviéndose
+ 
+
+576
+00:13:08,210 --> 00:13:11,400
+su actitud un paso volviéndose
+indiferente nuevamente
+
+577
+00:13:11,400 --> 00:13:11,410
+
+ 
+
+578
+00:13:11,410 --> 00:13:14,039
+
+echemos un vistazo a este ejemplo nuevamente
+
+579
+00:13:14,039 --> 00:13:14,049
+echemos un vistazo a este ejemplo nuevamente
+ 
+
+580
+00:13:14,049 --> 00:13:16,679
+echemos un vistazo a este ejemplo nuevamente
+pero esta vez vamos a cambiar el
+
+581
+00:13:16,679 --> 00:13:16,689
+pero esta vez vamos a cambiar el
+ 
+
+582
+00:13:16,689 --> 00:13:20,129
+pero esta vez vamos a cambiar el
+guión y digamos en cambio el noble  es
+
+583
+00:13:20,129 --> 00:13:20,139
+guión y digamos en cambio el noble  es
+ 
+
+584
+00:13:20,139 --> 00:13:22,650
+guión y digamos en cambio el noble  es
+quien se acerca a Kyra en el baile e
+
+585
+00:13:22,650 --> 00:13:22,660
+quien se acerca a Kyra en el baile e
+ 
+
+586
+00:13:22,660 --> 00:13:25,379
+quien se acerca a Kyra en el baile e
+intenta encantarla para que le haga un favor
+
+587
+00:13:25,379 --> 00:13:25,389
+intenta encantarla para que le haga un favor
+ 
+
+588
+00:13:25,389 --> 00:13:29,759
+intenta encantarla para que le haga un favor
+en este caso el DM no
+
+589
+00:13:29,759 --> 00:13:29,769
+en este caso el DM no
+ 
+
+590
+00:13:29,769 --> 00:13:32,369
+en este caso el DM no
+haría una prueba de diplomacia para el noble y sería
+
+591
+00:13:32,369 --> 00:13:32,379
+haría una prueba de diplomacia para el noble y sería
+ 
+
+592
+00:13:32,379 --> 00:13:35,969
+haría una prueba de diplomacia para el noble y sería
+impugnado por la CD de voluntad de Kyra y la
+
+593
+00:13:35,969 --> 00:13:35,979
+impugnado por la CD de voluntad de Kyra y la
+ 
+
+594
+00:13:35,979 --> 00:13:38,699
+impugnado por la CD de voluntad de Kyra y la
+razón para eso es doble primero las
+
+595
+00:13:38,699 --> 00:13:38,709
+razón para eso es doble primero las
+ 
+
+596
+00:13:38,709 --> 00:13:40,649
+razón para eso es doble primero las
+reglas para cada una de las
+
+597
+00:13:40,649 --> 00:13:40,659
+reglas para cada una de las
+ 
+
+598
+00:13:40,659 --> 00:13:43,109
+reglas para cada una de las
+condiciones de actitud dicen que con una excepción
+
+599
+00:13:43,109 --> 00:13:43,119
+condiciones de actitud dicen que con una excepción
+ 
+
+600
+00:13:43,119 --> 00:13:45,569
+condiciones de actitud dicen que con una excepción
+de la que vamos a hablar en un
+
+601
+00:13:45,569 --> 00:13:45,579
+de la que vamos a hablar en un
+ 
+
+602
+00:13:45,579 --> 00:13:48,089
+de la que vamos a hablar en un
+momento solo se aplicaron a criaturas
+
+603
+00:13:48,089 --> 00:13:48,099
+momento solo se aplicaron a criaturas
+ 
+
+604
+00:13:48,099 --> 00:13:51,509
+momento solo se aplicaron a criaturas
+que no son personajes jugadores, por lo que el
+
+605
+00:13:51,509 --> 00:13:51,519
+que no son personajes jugadores, por lo que el
+ 
+
+606
+00:13:51,519 --> 00:13:53,609
+que no son personajes jugadores, por lo que el
+noble podría comenzar la conversación como
+
+607
+00:13:53,609 --> 00:13:53,619
+noble podría comenzar la conversación como
+ 
+
+608
+00:13:53,619 --> 00:13:54,839
+noble podría comenzar la conversación como
+indiferente a Kyra,
+
+609
+00:13:54,839 --> 00:13:54,849
+indiferente a Kyra,
+ 
+
+610
+00:13:54,849 --> 00:13:58,829
+indiferente a Kyra,
+pero Kyra no es indiferente a él ni
+
+611
+00:13:58,829 --> 00:13:58,839
+pero Kyra no es indiferente a él ni
+ 
+
+612
+00:13:58,839 --> 00:14:00,929
+pero Kyra no es indiferente a él ni
+es útil o amigable o antipática
+
+613
+00:14:00,929 --> 00:14:00,939
+es útil o amigable o antipática
+ 
+
+614
+00:14:00,939 --> 00:14:04,139
+es útil o amigable o antipática
+u hostil porque Kyra es un
+
+615
+00:14:04,139 --> 00:14:04,149
+u hostil porque Kyra es un
+ 
+
+616
+00:14:04,149 --> 00:14:07,529
+u hostil porque Kyra es un
+personaje jugador y los jugadores tienen agencia sobre
+
+617
+00:14:07,529 --> 00:14:07,539
+personaje jugador y los jugadores tienen agencia sobre
+ 
+
+618
+00:14:07,539 --> 00:14:09,929
+personaje jugador y los jugadores tienen agencia sobre
+sus personajes y pueden decidir
+
+619
+00:14:09,929 --> 00:14:09,939
+sus personajes y pueden decidir
+ 
+
+620
+00:14:09,939 --> 00:14:12,809
+sus personajes y pueden decidir
+cómo se comportan y si aceptan
+
+621
+00:14:12,809 --> 00:14:12,819
+cómo se comportan y si aceptan
+ 
+
+622
+00:14:12,819 --> 00:14:16,319
+cómo se comportan y si aceptan
+o no la solicitud de un PNJ, así que en este
+
+623
+00:14:16,319 --> 00:14:16,329
+o no la solicitud de un PNJ, así que en este
+ 
+
+624
+00:14:16,329 --> 00:14:19,679
+o no la solicitud de un PNJ, así que en este
+caso no se lanzarían dados y en su lugar
+
+625
+00:14:19,679 --> 00:14:19,689
+caso no se lanzarían dados y en su lugar
+ 
+
+626
+00:14:19,689 --> 00:14:22,469
+caso no se lanzarían dados y en su lugar
+el DM y el jugador de Kyra interpretarían
+
+627
+00:14:22,469 --> 00:14:22,479
+el DM y el jugador de Kyra interpretarían
+ 
+
+628
+00:14:22,479 --> 00:14:24,840
+el DM y el jugador de Kyra interpretarían
+el intercambio y el jugador de Kyra
+
+629
+00:14:24,840 --> 00:14:24,850
+el intercambio y el jugador de Kyra
+ 
+
+630
+00:14:24,850 --> 00:14:27,210
+el intercambio y el jugador de Kyra
+decidiría cómo responde a la
+
+631
+00:14:27,210 --> 00:14:27,220
+decidiría cómo responde a la
+ 
+
+632
+00:14:27,220 --> 00:14:30,629
+decidiría cómo responde a la
+solicitud del noble los jugadores valoran la agencia en el
+
+633
+00:14:30,629 --> 00:14:30,639
+solicitud del noble los jugadores valoran la agencia en el
+ 
+
+634
+00:14:30,639 --> 00:14:32,879
+solicitud del noble los jugadores valoran la agencia en el
+derecho a controlar sus personajes, por lo que los
+
+635
+00:14:32,879 --> 00:14:32,889
+derecho a controlar sus personajes, por lo que los
+ 
+
+636
+00:14:32,889 --> 00:14:35,159
+derecho a controlar sus personajes, por lo que los
+dados rara vez deberían dictar cómo
+
+637
+00:14:35,159 --> 00:14:35,169
+dados rara vez deberían dictar cómo
+ 
+
+638
+00:14:35,169 --> 00:14:39,059
+dados rara vez deberían dictar cómo
+responden a un PNJ sin embargo mencioné
+
+639
+00:14:39,059 --> 00:14:39,069
+responden a un PNJ sin embargo mencioné
+ 
+
+640
+00:14:39,069 --> 00:14:41,579
+responden a un PNJ sin embargo mencioné
+antes que había una
+
+641
+00:14:41,579 --> 00:14:41,589
+antes que había una
+ 
+
+642
+00:14:41,589 --> 00:14:44,579
+antes que había una
+excepción importante y que se encuentra en la errata
+
+643
+00:14:44,579 --> 00:14:44,589
+excepción importante y que se encuentra en la errata
+ 
+
+644
+00:14:44,589 --> 00:14:48,359
+excepción importante y que se encuentra en la errata
+del núcleo  libro de reglas aquí revisa
+
+645
+00:14:48,359 --> 00:14:48,369
+del núcleo  libro de reglas aquí revisa
+ 
+
+646
+00:14:48,369 --> 00:14:49,889
+del núcleo  libro de reglas aquí revisa
+las descripciones de las
+
+647
+00:14:49,889 --> 00:14:49,899
+las descripciones de las
+ 
+
+648
+00:14:49,899 --> 00:14:52,499
+las descripciones de las
+condiciones de actitud para que ahora incluyan la
+
+649
+00:14:52,499 --> 00:14:52,509
+condiciones de actitud para que ahora incluyan la
+ 
+
+650
+00:14:52,509 --> 00:14:56,009
+condiciones de actitud para que ahora incluyan la
+declaración solo los efectos sobrenaturales como
+
+651
+00:14:56,009 --> 00:14:56,019
+declaración solo los efectos sobrenaturales como
+ 
+
+652
+00:14:56,019 --> 00:14:59,099
+declaración solo los efectos sobrenaturales como
+un hechizo pueden imponer estas condiciones en los
+
+653
+00:14:59,099 --> 00:14:59,109
+un hechizo pueden imponer estas condiciones en los
+ 
+
+654
+00:14:59,109 --> 00:15:02,309
+un hechizo pueden imponer estas condiciones en los
+personajes jugadores, por lo que habilidades como
+
+655
+00:15:02,309 --> 00:15:02,319
+personajes jugadores, por lo que habilidades como
+ 
+
+656
+00:15:02,319 --> 00:15:05,369
+personajes jugadores, por lo que habilidades como
+diplomacia e intimidar no pueden ser utilizadas
+
+657
+00:15:05,369 --> 00:15:05,379
+diplomacia e intimidar no pueden ser utilizadas
+ 
+
+658
+00:15:05,379 --> 00:15:09,089
+diplomacia e intimidar no pueden ser utilizadas
+por los PNJ para alterar la actitud de los jugadores,
+
+659
+00:15:09,089 --> 00:15:09,099
+por los PNJ para alterar la actitud de los jugadores,
+ 
+
+660
+00:15:09,099 --> 00:15:14,759
+por los PNJ para alterar la actitud de los jugadores,
+pero hechizos como encanto sí pueden y también vale la pena
+
+661
+00:15:14,759 --> 00:15:14,769
+pero hechizos como encanto sí pueden y también vale la pena
+ 
+
+662
+00:15:14,769 --> 00:15:17,669
+pero hechizos como encanto sí pueden y también vale la pena
+señalar que una actitud de PCS no puede
+
+663
+00:15:17,669 --> 00:15:17,679
+señalar que una actitud de PCS no puede
+ 
+
+664
+00:15:17,679 --> 00:15:20,639
+señalar que una actitud de PCS no puede
+ser cambiada por un PNJ usando una habilidad, pero
+
+665
+00:15:20,639 --> 00:15:20,649
+ser cambiada por un PNJ usando una habilidad, pero
+ 
+
+666
+00:15:20,649 --> 00:15:22,979
+ser cambiada por un PNJ usando una habilidad, pero
+cualquier acción que manipule a un personaje
+
+667
+00:15:22,979 --> 00:15:22,989
+cualquier acción que manipule a un personaje
+ 
+
+668
+00:15:22,989 --> 00:15:24,690
+cualquier acción que manipule a un personaje
+que no acuñe
+
+669
+00:15:24,690 --> 00:15:24,700
+que no acuñe
+ 
+
+670
+00:15:24,700 --> 00:15:27,480
+que no acuñe
+las condiciones de actitud como servicial amistoso antipático
+
+671
+00:15:27,480 --> 00:15:27,490
+las condiciones de actitud como servicial amistoso antipático
+ 
+
+672
+00:15:27,490 --> 00:15:30,420
+las condiciones de actitud como servicial amistoso antipático
+hostil
+
+673
+00:15:30,420 --> 00:15:30,430
+hostil
+ 
+
+674
+00:15:30,430 --> 00:15:32,960
+hostil
+funcionarán en los personajes jugadores, por ejemplo,
+
+675
+00:15:32,960 --> 00:15:32,970
+funcionarán en los personajes jugadores, por ejemplo,
+ 
+
+676
+00:15:32,970 --> 00:15:37,000
+funcionarán en los personajes jugadores, por ejemplo,
+desmoralizar o mentir a un jugador,
+
+677
+00:15:37,000 --> 00:15:37,010
+desmoralizar o mentir a un jugador,
+ 
+
+678
+00:15:37,010 --> 00:15:40,180
+desmoralizar o mentir a un jugador,
+aunque no esté directamente asociado con la
+
+679
+00:15:40,180 --> 00:15:40,190
+aunque no esté directamente asociado con la
+ 
+
+680
+00:15:40,190 --> 00:15:42,490
+aunque no esté directamente asociado con la
+influencia. Otro uso para la
+
+681
+00:15:42,490 --> 00:15:42,500
+influencia. Otro uso para la
+ 
+
+682
+00:15:42,500 --> 00:15:44,440
+influencia. Otro uso para la
+habilidad de intimidación que puede alterar cómo te
+
+683
+00:15:44,440 --> 00:15:44,450
+habilidad de intimidación que puede alterar cómo te
+ 
+
+684
+00:15:44,450 --> 00:15:48,820
+habilidad de intimidación que puede alterar cómo te
+trata un objetivo es desmoralizar cuando
+
+685
+00:15:48,820 --> 00:15:48,830
+trata un objetivo es desmoralizar cuando
+ 
+
+686
+00:15:48,830 --> 00:15:51,370
+trata un objetivo es desmoralizar cuando
+desmoralizas a alguien, intentas quebrar
+
+687
+00:15:51,370 --> 00:15:51,380
+desmoralizas a alguien, intentas quebrar
+ 
+
+688
+00:15:51,380 --> 00:15:54,220
+desmoralizas a alguien, intentas quebrar
+su resolución intimidándolo, esto se puede
+
+689
+00:15:54,220 --> 00:15:54,230
+su resolución intimidándolo, esto se puede
+ 
+
+690
+00:15:54,230 --> 00:15:56,230
+su resolución intimidándolo, esto se puede
+hacer en combate y cuesta una
+
+691
+00:15:56,230 --> 00:15:56,240
+hacer en combate y cuesta una
+ 
+
+692
+00:15:56,240 --> 00:15:59,260
+hacer en combate y cuesta una
+acción, eliges un objetivo a 30
+
+693
+00:15:59,260 --> 00:15:59,270
+acción, eliges un objetivo a 30
+ 
+
+694
+00:15:59,270 --> 00:16:01,570
+acción, eliges un objetivo a 30
+pies, inscribe una prueba de intimidación
+
+695
+00:16:01,570 --> 00:16:01,580
+pies, inscribe una prueba de intimidación
+ 
+
+696
+00:16:01,580 --> 00:16:04,630
+pies, inscribe una prueba de intimidación
+contra su voluntad, engañarte, sufres una
+
+697
+00:16:04,630 --> 00:16:04,640
+contra su voluntad, engañarte, sufres una
+ 
+
+698
+00:16:04,640 --> 00:16:07,390
+contra su voluntad, engañarte, sufres una
+penalización de - si el objetivo no puede
+
+699
+00:16:07,390 --> 00:16:07,400
+penalización de - si el objetivo no puede
+ 
+
+700
+00:16:07,400 --> 00:16:09,910
+penalización de - si el objetivo no puede
+oírte o si no entiende tu
+
+701
+00:16:09,910 --> 00:16:09,920
+oírte o si no entiende tu
+ 
+
+702
+00:16:09,920 --> 00:16:13,210
+oírte o si no entiende tu
+idioma, si tienes éxito, el objetivo
+
+703
+00:16:13,210 --> 00:16:13,220
+idioma, si tienes éxito, el objetivo
+ 
+
+704
+00:16:13,220 --> 00:16:16,780
+idioma, si tienes éxito, el objetivo
+se asusta, si tienes
+
+705
+00:16:16,780 --> 00:16:16,790
+se asusta, si tienes
+ 
+
+706
+00:16:16,790 --> 00:16:20,650
+se asusta, si tienes
+éxito crítico, se asustan -  Cuando una
+
+707
+00:16:20,650 --> 00:16:20,660
+éxito crítico, se asustan -  Cuando una
+ 
+
+708
+00:16:20,660 --> 00:16:22,720
+éxito crítico, se asustan -  Cuando una
+criatura está asustada, sufre una
+
+709
+00:16:22,720 --> 00:16:22,730
+criatura está asustada, sufre una
+ 
+
+710
+00:16:22,730 --> 00:16:26,290
+criatura está asustada, sufre una
+penalización: todas las tiradas y dados son iguales
+
+711
+00:16:26,290 --> 00:16:26,300
+penalización: todas las tiradas y dados son iguales
+ 
+
+712
+00:16:26,300 --> 00:16:28,630
+penalización: todas las tiradas y dados son iguales
+al valor numérico de la condición, que se
+
+713
+00:16:28,630 --> 00:16:28,640
+al valor numérico de la condición, que se
+ 
+
+714
+00:16:28,640 --> 00:16:31,540
+al valor numérico de la condición, que se
+reduce en uno al final de cada
+
+715
+00:16:31,540 --> 00:16:31,550
+reduce en uno al final de cada
+ 
+
+716
+00:16:31,550 --> 00:16:34,510
+reduce en uno al final de cada
+turno de esa criatura e independientemente del
+
+717
+00:16:34,510 --> 00:16:34,520
+turno de esa criatura e independientemente del
+ 
+
+718
+00:16:34,520 --> 00:16:37,210
+turno de esa criatura e independientemente del
+éxito o el fracaso. Una vez que intentas
+
+719
+00:16:37,210 --> 00:16:37,220
+éxito o el fracaso. Una vez que intentas
+ 
+
+720
+00:16:37,220 --> 00:16:39,400
+éxito o el fracaso. Una vez que intentas
+desmoralizar a un objetivo, no puedes volver a intentar
+
+721
+00:16:39,400 --> 00:16:39,410
+desmoralizar a un objetivo, no puedes volver a intentar
+ 
+
+722
+00:16:39,410 --> 00:16:43,560
+desmoralizar a un objetivo, no puedes volver a intentar
+desmoralizarlo durante diez minutos.
+
+723
+00:16:43,560 --> 00:16:43,570
+desmoralizarlo durante diez minutos.
+ 
+
+724
+00:16:43,570 --> 00:16:46,439
+desmoralizarlo durante diez minutos.
+La última acción que quiero cubrir en este
+
+725
+00:16:46,439 --> 00:16:46,449
+La última acción que quiero cubrir en este
+ 
+
+726
+00:16:46,449 --> 00:16:50,100
+La última acción que quiero cubrir en este
+curso es la lejía. La lejía es una aplicación de
+
+727
+00:16:50,100 --> 00:16:50,110
+curso es la lejía. La lejía es una aplicación de
+ 
+
+728
+00:16:50,110 --> 00:16:52,650
+curso es la lejía. La lejía es una aplicación de
+la habilidad de engaño y, aunque
+
+729
+00:16:52,650 --> 00:16:52,660
+la habilidad de engaño y, aunque
+ 
+
+730
+00:16:52,660 --> 00:16:54,600
+la habilidad de engaño y, aunque
+no ajusta directamente la actitud de una persona,
+
+731
+00:16:54,600 --> 00:16:54,610
+no ajusta directamente la actitud de una persona,
+ 
+
+732
+00:16:54,610 --> 00:16:57,509
+no ajusta directamente la actitud de una persona,
+podría usarse para obtener una
+
+733
+00:16:57,509 --> 00:16:57,519
+podría usarse para obtener una
+ 
+
+734
+00:16:57,519 --> 00:16:59,730
+podría usarse para obtener una
+bonificación favorable al tirar para hacer una solicitud o
+
+735
+00:16:59,730 --> 00:16:59,740
+bonificación favorable al tirar para hacer una solicitud o
+ 
+
+736
+00:16:59,740 --> 00:17:03,840
+bonificación favorable al tirar para hacer una solicitud o
+para coaccionar a alguien. Esto queda completamente a
+
+737
+00:17:03,840 --> 00:17:03,850
+para coaccionar a alguien. Esto queda completamente a
+ 
+
+738
+00:17:03,850 --> 00:17:06,510
+para coaccionar a alguien. Esto queda completamente a
+discreción del DJ. Pero si puedes
+
+739
+00:17:06,510 --> 00:17:06,520
+discreción del DJ. Pero si puedes
+ 
+
+740
+00:17:06,520 --> 00:17:09,049
+discreción del DJ. Pero si puedes
+convencer al objetivo de una falsedad, es
+
+741
+00:17:09,049 --> 00:17:09,059
+convencer al objetivo de una falsedad, es
+ 
+
+742
+00:17:09,059 --> 00:17:12,179
+convencer al objetivo de una falsedad, es
+razonable asumir que puede reaccionar más
+
+743
+00:17:12,179 --> 00:17:12,189
+razonable asumir que puede reaccionar más
+ 
+
+744
+00:17:12,189 --> 00:17:14,699
+razonable asumir que puede reaccionar más
+favorablemente a otros intentos de influir en
+
+745
+00:17:14,699 --> 00:17:14,709
+favorablemente a otros intentos de influir en
+ 
+
+746
+00:17:14,709 --> 00:17:15,090
+favorablemente a otros intentos de influir en
+ellos
+
+747
+00:17:15,090 --> 00:17:15,100
+ellos
+ 
+
+748
+00:17:15,100 --> 00:17:17,659
+ellos
+gracias a creer en esa información errónea.
+
+749
+00:17:17,659 --> 00:17:17,669
+gracias a creer en esa información errónea.
+ 
+
+750
+00:17:17,669 --> 00:17:20,280
+gracias a creer en esa información errónea.
+Cuando mientes, pasas al menos una
+
+751
+00:17:20,280 --> 00:17:20,290
+Cuando mientes, pasas al menos una
+ 
+
+752
+00:17:20,290 --> 00:17:23,309
+Cuando mientes, pasas al menos una
+ronda diciendo esa falsedad y luego
+
+753
+00:17:23,309 --> 00:17:23,319
+ronda diciendo esa falsedad y luego
+ 
+
+754
+00:17:23,319 --> 00:17:26,400
+ronda diciendo esa falsedad y luego
+tiras una tirada de habilidad de engaño. Este total
+
+755
+00:17:26,400 --> 00:17:26,410
+tiras una tirada de habilidad de engaño. Este total
+ 
+
+756
+00:17:26,410 --> 00:17:28,319
+tiras una tirada de habilidad de engaño. Este total
+es entonces impugnado por la
+
+757
+00:17:28,319 --> 00:17:28,329
+es entonces impugnado por la
+ 
+
+758
+00:17:28,329 --> 00:17:31,169
+es entonces impugnado por la
+CD de percepción del objetivo, que es 10 más su
+
+759
+00:17:31,169 --> 00:17:31,179
+CD de percepción del objetivo, que es 10 más su
+ 
+
+760
+00:17:31,179 --> 00:17:34,710
+CD de percepción del objetivo, que es 10 más su
+bonificación de percepción. Como de costumbre, el DJ puede
+
+761
+00:17:34,710 --> 00:17:34,720
+bonificación de percepción. Como de costumbre, el DJ puede
+ 
+
+762
+00:17:34,720 --> 00:17:36,990
+bonificación de percepción. Como de costumbre, el DJ puede
+decidir otorgar una bonificación o penalización a
+
+763
+00:17:36,990 --> 00:17:37,000
+decidir otorgar una bonificación o penalización a
+ 
+
+764
+00:17:37,000 --> 00:17:39,390
+decidir otorgar una bonificación o penalización a
+esa tirada basándose en una multitud de
+
+765
+00:17:39,390 --> 00:17:39,400
+esa tirada basándose en una multitud de
+ 
+
+766
+00:17:39,400 --> 00:17:41,789
+esa tirada basándose en una multitud de
+factores, entre los que se encuentra lo
+
+767
+00:17:41,789 --> 00:17:41,799
+factores, entre los que se encuentra lo
+ 
+
+768
+00:17:41,799 --> 00:17:44,520
+factores, entre los que se encuentra lo
+descabellada que sea la mentira.  es y cuánto o qué tan
+
+769
+00:17:44,520 --> 00:17:44,530
+descabellada que sea la mentira.  es y cuánto o qué tan
+ 
+
+770
+00:17:44,530 --> 00:17:47,909
+descabellada que sea la mentira.  es y cuánto o qué tan
+poco confía el objetivo en ti si
+
+771
+00:17:47,909 --> 00:17:47,919
+poco confía el objetivo en ti si
+ 
+
+772
+00:17:47,919 --> 00:17:50,280
+poco confía el objetivo en ti si
+sacas un éxito entonces el objetivo te cree
+
+773
+00:17:50,280 --> 00:17:50,290
+sacas un éxito entonces el objetivo te cree
+ 
+
+774
+00:17:50,290 --> 00:17:53,460
+sacas un éxito entonces el objetivo te cree
+y si sacas un fallo el objetivo
+
+775
+00:17:53,460 --> 00:17:53,470
+y si sacas un fallo el objetivo
+ 
+
+776
+00:17:53,470 --> 00:17:56,039
+y si sacas un fallo el objetivo
+no te cree y también tiene menos
+
+777
+00:17:56,039 --> 00:17:56,049
+no te cree y también tiene menos
+ 
+
+778
+00:17:56,049 --> 00:17:58,799
+no te cree y también tiene menos
+razones para confiar en ti en el futuro si
+
+779
+00:17:58,799 --> 00:17:58,809
+razones para confiar en ti en el futuro si
+ 
+
+780
+00:17:58,809 --> 00:18:01,200
+razones para confiar en ti en el futuro si
+intentas mentirle de nuevo durante ese
+
+781
+00:18:01,200 --> 00:18:01,210
+intentas mentirle de nuevo durante ese
+ 
+
+782
+00:18:01,210 --> 00:18:04,649
+intentas mentirle de nuevo durante ese
+encuentro gana un bonificador de +4 a su
+
+783
+00:18:04,649 --> 00:18:04,659
+encuentro gana un bonificador de +4 a su
+ 
+
+784
+00:18:04,659 --> 00:18:08,039
+encuentro gana un bonificador de +4 a su
+CD de percepción para resistir también si tienes
+
+785
+00:18:08,039 --> 00:18:08,049
+CD de percepción para resistir también si tienes
+ 
+
+786
+00:18:08,049 --> 00:18:10,830
+CD de percepción para resistir también si tienes
+éxito el DM puede permitir que el objetivo
+
+787
+00:18:10,830 --> 00:18:10,840
+éxito el DM puede permitir que el objetivo
+ 
+
+788
+00:18:10,840 --> 00:18:12,600
+éxito el DM puede permitir que el objetivo
+intente una prueba de percepción contra tu
+
+789
+00:18:12,600 --> 00:18:12,610
+intente una prueba de percepción contra tu
+ 
+
+790
+00:18:12,610 --> 00:18:14,820
+intente una prueba de percepción contra tu
+CD de engaño para recordar esa
+
+791
+00:18:14,820 --> 00:18:14,830
+CD de engaño para recordar esa
+ 
+
+792
+00:18:14,830 --> 00:18:17,850
+CD de engaño para recordar esa
+conversación y luego darse cuenta de que le habían
+
+793
+00:18:17,850 --> 00:18:17,860
+conversación y luego darse cuenta de que le habían
+ 
+
+794
+00:18:17,860 --> 00:18:20,580
+conversación y luego darse cuenta de que le habían
+mentido
+
+795
+00:18:20,580 --> 00:18:20,590
+mentido
+ 
+
+796
+00:18:20,590 --> 00:18:23,279
+mentido
+en este video discutimos actitudes y
+
+797
+00:18:23,279 --> 00:18:23,289
+en este video discutimos actitudes y
+ 
+
+798
+00:18:23,289 --> 00:18:25,500
+en este video discutimos actitudes y
+algunas de las formas más comunes en que un personaje
+
+799
+00:18:25,500 --> 00:18:25,510
+algunas de las formas más comunes en que un personaje
+ 
+
+800
+00:18:25,510 --> 00:18:28,590
+algunas de las formas más comunes en que un personaje
+puede usar habilidades para influir en otros el
+
+801
+00:18:28,590 --> 00:18:28,600
+puede usar habilidades para influir en otros el
+ 
+
+802
+00:18:28,600 --> 00:18:30,750
+puede usar habilidades para influir en otros el
+grado en que un personaje está dispuesto
+
+803
+00:18:30,750 --> 00:18:30,760
+grado en que un personaje está dispuesto
+ 
+
+804
+00:18:30,760 --> 00:18:33,810
+grado en que un personaje está dispuesto
+a ayudar u oponerse a un jugador se mide
+
+805
+00:18:33,810 --> 00:18:33,820
+a ayudar u oponerse a un jugador se mide
+ 
+
+806
+00:18:33,820 --> 00:18:37,140
+a ayudar u oponerse a un jugador se mide
+por su actitud hay cinco etapas
+
+807
+00:18:37,140 --> 00:18:37,150
+por su actitud hay cinco etapas
+ 
+
+808
+00:18:37,150 --> 00:18:40,680
+por su actitud hay cinco etapas
+de actitud un personaje servicial quiere
+
+809
+00:18:40,680 --> 00:18:40,690
+de actitud un personaje servicial quiere
+ 
+
+810
+00:18:40,690 --> 00:18:43,769
+de actitud un personaje servicial quiere
+ayudarte un personaje amistoso puede estar
+
+811
+00:18:43,769 --> 00:18:43,779
+ayudarte un personaje amistoso puede estar
+ 
+
+812
+00:18:43,779 --> 00:18:46,049
+ayudarte un personaje amistoso puede estar
+dispuesto a ayudarte y en diferentes
+
+813
+00:18:46,049 --> 00:18:46,059
+dispuesto a ayudarte y en diferentes
+ 
+
+814
+00:18:46,059 --> 00:18:48,750
+dispuesto a ayudarte y en diferentes
+personajes no tiene opinión de ti de una forma
+
+815
+00:18:48,750 --> 00:18:48,760
+personajes no tiene opinión de ti de una forma
+ 
+
+816
+00:18:48,760 --> 00:18:51,360
+personajes no tiene opinión de ti de una forma
+u otra un personaje hostil
+
+817
+00:18:51,360 --> 00:18:51,370
+u otra un personaje hostil
+ 
+
+818
+00:18:51,370 --> 00:18:54,060
+u otra un personaje hostil
+no te quiere y puede actuar en
+
+819
+00:18:54,060 --> 00:18:54,070
+no te quiere y puede actuar en
+ 
+
+820
+00:18:54,070 --> 00:18:56,820
+no te quiere y puede actuar en
+tu contra y un personaje hostil
+
+821
+00:18:56,820 --> 00:18:56,830
+tu contra y un personaje hostil
+ 
+
+822
+00:18:56,830 --> 00:19:00,779
+tu contra y un personaje hostil
+quiere activamente verte fracasar la diplomacia es una
+
+823
+00:19:00,779 --> 00:19:00,789
+quiere activamente verte fracasar la diplomacia es una
+ 
+
+824
+00:19:00,789 --> 00:19:03,060
+quiere activamente verte fracasar la diplomacia es una
+de las principales habilidades utilizadas para influir en un
+
+825
+00:19:03,060 --> 00:19:03,070
+de las principales habilidades utilizadas para influir en un
+ 
+
+826
+00:19:03,070 --> 00:19:06,600
+de las principales habilidades utilizadas para influir en un
+PNJ y cambiar su nivel de actitud la
+
+827
+00:19:06,600 --> 00:19:06,610
+PNJ y cambiar su nivel de actitud la
+ 
+
+828
+00:19:06,610 --> 00:19:09,269
+PNJ y cambiar su nivel de actitud la
+actividad de causar una impresión requiere al
+
+829
+00:19:09,269 --> 00:19:09,279
+actividad de causar una impresión requiere al
+ 
+
+830
+00:19:09,279 --> 00:19:11,700
+actividad de causar una impresión requiere al
+menos un minuto de conversación después del
+
+831
+00:19:11,700 --> 00:19:11,710
+menos un minuto de conversación después del
+ 
+
+832
+00:19:11,710 --> 00:19:13,769
+menos un minuto de conversación después del
+cual tu rol diplomacia versus  su
+
+833
+00:19:13,769 --> 00:19:13,779
+cual tu rol diplomacia versus  su
+ 
+
+834
+00:19:13,779 --> 00:19:17,789
+cual tu rol diplomacia versus  su
+voluntad engañará en caso de éxito su actitud
+
+835
+00:19:17,789 --> 00:19:17,799
+voluntad engañará en caso de éxito su actitud
+ 
+
+836
+00:19:17,799 --> 00:19:20,669
+voluntad engañará en caso de éxito su actitud
+mejora en un paso para el resto de
+
+837
+00:19:20,669 --> 00:19:20,679
+mejora en un paso para el resto de
+ 
+
+838
+00:19:20,679 --> 00:19:24,120
+mejora en un paso para el resto de
+esa interacción la actividad de solicitud se
+
+839
+00:19:24,120 --> 00:19:24,130
+esa interacción la actividad de solicitud se
+ 
+
+840
+00:19:24,130 --> 00:19:26,370
+esa interacción la actividad de solicitud se
+puede usar para convencer a un PNJ de que haga
+
+841
+00:19:26,370 --> 00:19:26,380
+puede usar para convencer a un PNJ de que haga
+ 
+
+842
+00:19:26,380 --> 00:19:29,490
+puede usar para convencer a un PNJ de que haga
+algo por ti esto cuesta una acción
+
+843
+00:19:29,490 --> 00:19:29,500
+algo por ti esto cuesta una acción
+ 
+
+844
+00:19:29,500 --> 00:19:32,130
+algo por ti esto cuesta una acción
+y el objetivo debe ser al menos amistoso
+
+845
+00:19:32,130 --> 00:19:32,140
+y el objetivo debe ser al menos amistoso
+ 
+
+846
+00:19:32,140 --> 00:19:35,269
+y el objetivo debe ser al menos amistoso
+contigo antes de que puedas usar solicitudes
+
+847
+00:19:35,269 --> 00:19:35,279
+contigo antes de que puedas usar solicitudes
+ 
+
+848
+00:19:35,279 --> 00:19:38,880
+contigo antes de que puedas usar solicitudes
+diplomacia euro versus ADC determinado por
+
+849
+00:19:38,880 --> 00:19:38,890
+diplomacia euro versus ADC determinado por
+ 
+
+850
+00:19:38,890 --> 00:19:42,210
+diplomacia euro versus ADC determinado por
+el DM en caso de éxito el objetivo está
+
+851
+00:19:42,210 --> 00:19:42,220
+el DM en caso de éxito el objetivo está
+ 
+
+852
+00:19:42,220 --> 00:19:44,909
+el DM en caso de éxito el objetivo está
+dispuesto a realizar la solicitud pero con
+
+853
+00:19:44,909 --> 00:19:44,919
+dispuesto a realizar la solicitud pero con
+ 
+
+854
+00:19:44,919 --> 00:19:47,639
+dispuesto a realizar la solicitud pero con
+una condición y en un éxito crítico
+
+855
+00:19:47,639 --> 00:19:47,649
+una condición y en un éxito crítico
+ 
+
+856
+00:19:47,649 --> 00:19:52,230
+una condición y en un éxito crítico
+conceden la solicitud directamente coaccionar
+
+857
+00:19:52,230 --> 00:19:52,240
+conceden la solicitud directamente coaccionar
+ 
+
+858
+00:19:52,240 --> 00:19:54,899
+conceden la solicitud directamente coaccionar
+se usa para intimidar a alguien para que haga lo que
+
+859
+00:19:54,899 --> 00:19:54,909
+se usa para intimidar a alguien para que haga lo que
+ 
+
+860
+00:19:54,909 --> 00:19:57,930
+se usa para intimidar a alguien para que haga lo que
+quieres pasa un minuto amenazando a
+
+861
+00:19:57,930 --> 00:19:57,940
+quieres pasa un minuto amenazando a
+ 
+
+862
+00:19:57,940 --> 00:20:00,539
+quieres pasa un minuto amenazando a
+alguien y luego tira intimidar versus
+
+863
+00:20:00,539 --> 00:20:00,549
+alguien y luego tira intimidar versus
+ 
+
+864
+00:20:00,549 --> 00:20:04,769
+alguien y luego tira intimidar versus
+habrá CD en caso de éxito el objetivo
+
+865
+00:20:04,769 --> 00:20:04,779
+habrá CD en caso de éxito el objetivo
+ 
+
+866
+00:20:04,779 --> 00:20:07,560
+habrá CD en caso de éxito el objetivo
+hace lo que quieres pero se vuelve hostil
+
+867
+00:20:07,560 --> 00:20:07,570
+hace lo que quieres pero se vuelve hostil
+ 
+
+868
+00:20:07,570 --> 00:20:11,549
+hace lo que quieres pero se vuelve hostil
+y puede tomar represalias contra ti recuerda
+
+869
+00:20:11,549 --> 00:20:11,559
+y puede tomar represalias contra ti recuerda
+ 
+
+870
+00:20:11,559 --> 00:20:14,130
+y puede tomar represalias contra ti recuerda
+que las habilidades no se pueden usar para alterar la
+
+871
+00:20:14,130 --> 00:20:14,140
+que las habilidades no se pueden usar para alterar la
+ 
+
+872
+00:20:14,140 --> 00:20:17,549
+que las habilidades no se pueden usar para alterar la
+actitud de un jugador, pero las
+
+873
+00:20:17,549 --> 00:20:17,559
+actitud de un jugador, pero las
+ 
+
+874
+00:20:17,559 --> 00:20:22,230
+actitud de un jugador, pero las
+habilidades sobrenaturales como los hechizos pueden desmoralizar se pueden
+
+875
+00:20:22,230 --> 00:20:22,240
+habilidades sobrenaturales como los hechizos pueden desmoralizar se pueden
+ 
+
+876
+00:20:22,240 --> 00:20:23,760
+habilidades sobrenaturales como los hechizos pueden desmoralizar se pueden
+usar para infligir la
+
+877
+00:20:23,760 --> 00:20:23,770
+usar para infligir la
+ 
+
+878
+00:20:23,770 --> 00:20:26,220
+usar para infligir la
+condición de miedo a un enemigo haces una
+
+879
+00:20:26,220 --> 00:20:26,230
+condición de miedo a un enemigo haces una
+ 
+
+880
+00:20:26,230 --> 00:20:28,169
+condición de miedo a un enemigo haces una
+prueba de intimidación contra la
+
+881
+00:20:28,169 --> 00:20:28,179
+prueba de intimidación contra la
+ 
+
+882
+00:20:28,179 --> 00:20:31,139
+prueba de intimidación contra la
+CD de los objetivos y en caso de éxito se vuelven
+
+883
+00:20:31,139 --> 00:20:31,149
+CD de los objetivos y en caso de éxito se vuelven
+ 
+
+884
+00:20:31,149 --> 00:20:31,730
+CD de los objetivos y en caso de éxito se vuelven
+amigos
+
+885
+00:20:31,730 --> 00:20:31,740
+amigos
+ 
+
+886
+00:20:31,740 --> 00:20:35,299
+amigos
+y uno y puedes usar la
+
+887
+00:20:35,299 --> 00:20:35,309
+y uno y puedes usar la
+ 
+
+888
+00:20:35,309 --> 00:20:38,660
+y uno y puedes usar la
+habilidad de engaño para decir una mentira haces una tirada de engaño
+
+889
+00:20:38,660 --> 00:20:38,670
+habilidad de engaño para decir una mentira haces una tirada de engaño
+ 
+
+890
+00:20:38,670 --> 00:20:41,030
+habilidad de engaño para decir una mentira haces una tirada de engaño
+contra la CD de percepción de los objetivos
+
+891
+00:20:41,030 --> 00:20:41,040
+contra la CD de percepción de los objetivos
+ 
+
+892
+00:20:41,040 --> 00:20:45,230
+contra la CD de percepción de los objetivos
+modificada como el DM considere oportuno en caso de éxito
+
+893
+00:20:45,230 --> 00:20:45,240
+modificada como el DM considere oportuno en caso de éxito
+ 
+
+894
+00:20:45,240 --> 00:20:48,110
+modificada como el DM considere oportuno en caso de éxito
+el objetivo te cree y en caso de fallo
+
+895
+00:20:48,110 --> 00:20:48,120
+el objetivo te cree y en caso de fallo
+ 
+
+896
+00:20:48,120 --> 00:20:50,900
+el objetivo te cree y en caso de fallo
+no  No solo no te creen, sino que
+
+897
+00:20:50,900 --> 00:20:50,910
+no  No solo no te creen, sino que
+ 
+
+898
+00:20:50,910 --> 00:20:53,750
+no  No solo no te creen, sino que
+también obtienen una bonificación de +4 para resistir
+
+899
+00:20:53,750 --> 00:20:53,760
+también obtienen una bonificación de +4 para resistir
+ 
+
+900
+00:20:53,760 --> 00:20:57,370
+también obtienen una bonificación de +4 para resistir
+más mentiras tuyas.
+
+901
+00:20:57,370 --> 00:20:57,380
+
+ 
+
+902
+00:20:57,380 --> 00:20:58,990
+
+Con esto daremos por finalizado este video.
+
+903
+00:20:58,990 --> 00:20:59,000
+Con esto daremos por finalizado este video.
+ 
+
+904
+00:20:59,000 --> 00:21:00,730
+Con esto daremos por finalizado este video.
+Si te resultó útil,
+
+905
+00:21:00,730 --> 00:21:00,740
+Si te resultó útil,
+ 
+
+906
+00:21:00,740 --> 00:21:02,860
+Si te resultó útil,
+danos un me gusta y no olvides hacer
+
+907
+00:21:02,860 --> 00:21:02,870
+danos un me gusta y no olvides hacer
+ 
+
+908
+00:21:02,870 --> 00:21:04,480
+danos un me gusta y no olvides hacer
+clic en el botón de suscripción y la
+
+909
+00:21:04,480 --> 00:21:04,490
+clic en el botón de suscripción y la
+ 
+
+910
+00:21:04,490 --> 00:21:06,190
+clic en el botón de suscripción y la
+campana para que nunca te pierdas nuestros futuros
+
+911
+00:21:06,190 --> 00:21:06,200
+campana para que nunca te pierdas nuestros futuros
+ 
+
+912
+00:21:06,200 --> 00:21:08,380
+campana para que nunca te pierdas nuestros futuros
+videos. Déjanos un comentario para
+
+913
+00:21:08,380 --> 00:21:08,390
+videos. Déjanos un comentario para
+ 
+
+914
+00:21:08,390 --> 00:21:09,669
+videos. Déjanos un comentario para
+informarnos sobre los temas que te gustaría que
+
+915
+00:21:09,669 --> 00:21:09,679
+informarnos sobre los temas que te gustaría que
+ 
+
+916
+00:21:09,679 --> 00:21:11,770
+informarnos sobre los temas que te gustaría que
+cubriéramos en nuestros futuros videos. También puedes
+
+917
+00:21:11,770 --> 00:21:11,780
+cubriéramos en nuestros futuros videos. También puedes
+ 
+
+918
+00:21:11,780 --> 00:21:13,000
+cubriéramos en nuestros futuros videos. También puedes
+comunicarte con nosotros a través de nuestras
+
+919
+00:21:13,000 --> 00:21:13,010
+comunicarte con nosotros a través de nuestras
+ 
+
+920
+00:21:13,010 --> 00:21:15,610
+comunicarte con nosotros a través de nuestras
+páginas de Twitter y Facebook. Si deseas
+
+921
+00:21:15,610 --> 00:21:15,620
+páginas de Twitter y Facebook. Si deseas
+ 
+
+922
+00:21:15,620 --> 00:21:17,080
+páginas de Twitter y Facebook. Si deseas
+usar algunos de los mapas que presentamos en
+
+923
+00:21:17,080 --> 00:21:17,090
+usar algunos de los mapas que presentamos en
+ 
+
+924
+00:21:17,090 --> 00:21:18,880
+usar algunos de los mapas que presentamos en
+nuestros videos y tus propios juegos, puedes
+
+925
+00:21:18,880 --> 00:21:18,890
+nuestros videos y tus propios juegos, puedes
+ 
+
+926
+00:21:18,890 --> 00:21:21,580
+nuestros videos y tus propios juegos, puedes
+encontrarlos en Maps of Mastery. Puedes encontrar un enlace a
+
+927
+00:21:21,580 --> 00:21:21,590
+encontrarlos en Maps of Mastery. Puedes encontrar un enlace a
+ 
+
+928
+00:21:21,590 --> 00:21:22,870
+encontrarlos en Maps of Mastery. Puedes encontrar un enlace a
+esa tienda en la
+
+929
+00:21:22,870 --> 00:21:22,880
+esa tienda en la
+ 
+
+930
+00:21:22,880 --> 00:21:25,659
+esa tienda en la
+descripción. Gracias por ver.
+
+931
+00:21:25,659 --> 00:21:25,669
+descripción. Gracias por ver.
+ 
+
+932
+00:21:25,669 --> 00:21:27,310
+descripción. Gracias por ver.
+Cuídate y nos vemos pronto con más conceptos
+
+933
+00:21:27,310 --> 00:21:27,320
+Cuídate y nos vemos pronto con más conceptos
+ 
+
+934
+00:21:27,320 --> 00:21:31,030
+Cuídate y nos vemos pronto con más conceptos
+básicos para tus juegos de mesa favoritos.
+

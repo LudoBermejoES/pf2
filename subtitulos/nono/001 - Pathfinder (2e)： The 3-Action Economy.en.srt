@@ -1,0 +1,2935 @@
+1
+00:00:03,920 --> 00:00:06,410
+
+hello and welcome to the three action
+
+2
+00:00:06,410 --> 00:00:06,420
+hello and welcome to the three action
+ 
+
+3
+00:00:06,420 --> 00:00:08,570
+hello and welcome to the three action
+economy in Pathfinder second edition by
+
+4
+00:00:08,570 --> 00:00:08,580
+economy in Pathfinder second edition by
+ 
+
+5
+00:00:08,580 --> 00:00:10,370
+economy in Pathfinder second edition by
+how it's played
+
+6
+00:00:10,370 --> 00:00:10,380
+how it's played
+ 
+
+7
+00:00:10,380 --> 00:00:12,709
+how it's played
+in Pathfinder's second edition time is
+
+8
+00:00:12,709 --> 00:00:12,719
+in Pathfinder's second edition time is
+ 
+
+9
+00:00:12,719 --> 00:00:14,690
+in Pathfinder's second edition time is
+measured in different ways depending on
+
+10
+00:00:14,690 --> 00:00:14,700
+measured in different ways depending on
+ 
+
+11
+00:00:14,700 --> 00:00:16,490
+measured in different ways depending on
+the circumstances of the narrative the
+
+12
+00:00:16,490 --> 00:00:16,500
+the circumstances of the narrative the
+ 
+
+13
+00:00:16,500 --> 00:00:18,349
+the circumstances of the narrative the
+downtime between Adventures is measured
+
+14
+00:00:18,349 --> 00:00:18,359
+downtime between Adventures is measured
+ 
+
+15
+00:00:18,359 --> 00:00:20,570
+downtime between Adventures is measured
+in days exploration is measured in
+
+16
+00:00:20,570 --> 00:00:20,580
+in days exploration is measured in
+ 
+
+17
+00:00:20,580 --> 00:00:22,970
+in days exploration is measured in
+minutes and hours and combat encounters
+
+18
+00:00:22,970 --> 00:00:22,980
+minutes and hours and combat encounters
+ 
+
+19
+00:00:22,980 --> 00:00:25,849
+minutes and hours and combat encounters
+are measured in rounds and turns I'm not
+
+20
+00:00:25,849 --> 00:00:25,859
+are measured in rounds and turns I'm not
+ 
+
+21
+00:00:25,859 --> 00:00:27,589
+are measured in rounds and turns I'm not
+going to get too deep into the structure
+
+22
+00:00:27,589 --> 00:00:27,599
+going to get too deep into the structure
+ 
+
+23
+00:00:27,599 --> 00:00:29,630
+going to get too deep into the structure
+of rounds and turns here make sure you
+
+24
+00:00:29,630 --> 00:00:29,640
+of rounds and turns here make sure you
+ 
+
+25
+00:00:29,640 --> 00:00:31,429
+of rounds and turns here make sure you
+check out my videos on Initiative for
+
+26
+00:00:31,429 --> 00:00:31,439
+check out my videos on Initiative for
+ 
+
+27
+00:00:31,439 --> 00:00:33,650
+check out my videos on Initiative for
+more information about that but what is
+
+28
+00:00:33,650 --> 00:00:33,660
+more information about that but what is
+ 
+
+29
+00:00:33,660 --> 00:00:35,870
+more information about that but what is
+important to know for this discussion is
+
+30
+00:00:35,870 --> 00:00:35,880
+important to know for this discussion is
+ 
+
+31
+00:00:35,880 --> 00:00:38,330
+important to know for this discussion is
+during each creature's turn they have a
+
+32
+00:00:38,330 --> 00:00:38,340
+during each creature's turn they have a
+ 
+
+33
+00:00:38,340 --> 00:00:40,490
+during each creature's turn they have a
+finite number of actions they can spend
+
+34
+00:00:40,490 --> 00:00:40,500
+finite number of actions they can spend
+ 
+
+35
+00:00:40,500 --> 00:00:42,470
+finite number of actions they can spend
+in order to describe the things they
+
+36
+00:00:42,470 --> 00:00:42,480
+in order to describe the things they
+ 
+
+37
+00:00:42,480 --> 00:00:44,270
+in order to describe the things they
+wish their character to do during that
+
+38
+00:00:44,270 --> 00:00:44,280
+wish their character to do during that
+ 
+
+39
+00:00:44,280 --> 00:00:46,430
+wish their character to do during that
+turn at the start of each player's turn
+
+40
+00:00:46,430 --> 00:00:46,440
+turn at the start of each player's turn
+ 
+
+41
+00:00:46,440 --> 00:00:48,889
+turn at the start of each player's turn
+they are granted three actions to spend
+
+42
+00:00:48,889 --> 00:00:48,899
+they are granted three actions to spend
+ 
+
+43
+00:00:48,899 --> 00:00:51,529
+they are granted three actions to spend
+on their turn and one reaction that can
+
+44
+00:00:51,529 --> 00:00:51,539
+on their turn and one reaction that can
+ 
+
+45
+00:00:51,539 --> 00:00:53,930
+on their turn and one reaction that can
+be spent at any time including during
+
+46
+00:00:53,930 --> 00:00:53,940
+be spent at any time including during
+ 
+
+47
+00:00:53,940 --> 00:00:56,450
+be spent at any time including during
+another creature's turn I find it best
+
+48
+00:00:56,450 --> 00:00:56,460
+another creature's turn I find it best
+ 
+
+49
+00:00:56,460 --> 00:00:58,369
+another creature's turn I find it best
+to think of these actions and reactions
+
+50
+00:00:58,369 --> 00:00:58,379
+to think of these actions and reactions
+ 
+
+51
+00:00:58,379 --> 00:01:00,889
+to think of these actions and reactions
+as currencies that the player can spend
+
+52
+00:01:00,889 --> 00:01:00,899
+as currencies that the player can spend
+ 
+
+53
+00:01:00,899 --> 00:01:03,529
+as currencies that the player can spend
+the think of it like Monopoly money at
+
+54
+00:01:03,529 --> 00:01:03,539
+the think of it like Monopoly money at
+ 
+
+55
+00:01:03,539 --> 00:01:05,570
+the think of it like Monopoly money at
+the start of every player's turn the GM
+
+56
+00:01:05,570 --> 00:01:05,580
+the start of every player's turn the GM
+ 
+
+57
+00:01:05,580 --> 00:01:08,030
+the start of every player's turn the GM
+gives them three bills Each of which is
+
+58
+00:01:08,030 --> 00:01:08,040
+gives them three bills Each of which is
+ 
+
+59
+00:01:08,040 --> 00:01:10,670
+gives them three bills Each of which is
+worth one action and also a fourth bill
+
+60
+00:01:10,670 --> 00:01:10,680
+worth one action and also a fourth bill
+ 
+
+61
+00:01:10,680 --> 00:01:13,010
+worth one action and also a fourth bill
+of a different color that is worth one
+
+62
+00:01:13,010 --> 00:01:13,020
+of a different color that is worth one
+ 
+
+63
+00:01:13,020 --> 00:01:15,530
+of a different color that is worth one
+reaction they have until the end of
+
+64
+00:01:15,530 --> 00:01:15,540
+reaction they have until the end of
+ 
+
+65
+00:01:15,540 --> 00:01:17,870
+reaction they have until the end of
+their turn to spend the three action
+
+66
+00:01:17,870 --> 00:01:17,880
+their turn to spend the three action
+ 
+
+67
+00:01:17,880 --> 00:01:20,090
+their turn to spend the three action
+bills any that aren't spent by the end
+
+68
+00:01:20,090 --> 00:01:20,100
+bills any that aren't spent by the end
+ 
+
+69
+00:01:20,100 --> 00:01:22,550
+bills any that aren't spent by the end
+of their turn are lost and they have
+
+70
+00:01:22,550 --> 00:01:22,560
+of their turn are lost and they have
+ 
+
+71
+00:01:22,560 --> 00:01:25,190
+of their turn are lost and they have
+until the start of their next turn to
+
+72
+00:01:25,190 --> 00:01:25,200
+until the start of their next turn to
+ 
+
+73
+00:01:25,200 --> 00:01:27,710
+until the start of their next turn to
+spend their one reaction bill or it is
+
+74
+00:01:27,710 --> 00:01:27,720
+spend their one reaction bill or it is
+ 
+
+75
+00:01:27,720 --> 00:01:30,230
+spend their one reaction bill or it is
+lost as well and then the cycle repeats
+
+76
+00:01:30,230 --> 00:01:30,240
+lost as well and then the cycle repeats
+ 
+
+77
+00:01:30,240 --> 00:01:31,789
+lost as well and then the cycle repeats
+itself and they're granted three more
+
+78
+00:01:31,789 --> 00:01:31,799
+itself and they're granted three more
+ 
+
+79
+00:01:31,799 --> 00:01:34,190
+itself and they're granted three more
+action bills in one new reaction bill at
+
+80
+00:01:34,190 --> 00:01:34,200
+action bills in one new reaction bill at
+ 
+
+81
+00:01:34,200 --> 00:01:36,969
+action bills in one new reaction bill at
+the start of that next turn
+
+82
+00:01:36,969 --> 00:01:36,979
+the start of that next turn
+ 
+
+83
+00:01:36,979 --> 00:01:39,649
+the start of that next turn
+Pathfinder uses simple notations to show
+
+84
+00:01:39,649 --> 00:01:39,659
+Pathfinder uses simple notations to show
+ 
+
+85
+00:01:39,659 --> 00:01:41,690
+Pathfinder uses simple notations to show
+the cost of activities which are
+
+86
+00:01:41,690 --> 00:01:41,700
+the cost of activities which are
+ 
+
+87
+00:01:41,700 --> 00:01:44,030
+the cost of activities which are
+represented by a number of Black Diamond
+
+88
+00:01:44,030 --> 00:01:44,040
+represented by a number of Black Diamond
+ 
+
+89
+00:01:44,040 --> 00:01:46,490
+represented by a number of Black Diamond
+errors and these are displayed in the
+
+90
+00:01:46,490 --> 00:01:46,500
+errors and these are displayed in the
+ 
+
+91
+00:01:46,500 --> 00:01:48,170
+errors and these are displayed in the
+descriptions of abilities to note their
+
+92
+00:01:48,170 --> 00:01:48,180
+descriptions of abilities to note their
+ 
+
+93
+00:01:48,180 --> 00:01:50,810
+descriptions of abilities to note their
+cost for example the strike action which
+
+94
+00:01:50,810 --> 00:01:50,820
+cost for example the strike action which
+ 
+
+95
+00:01:50,820 --> 00:01:53,870
+cost for example the strike action which
+is a basic attack in Pathfinder shows
+
+96
+00:01:53,870 --> 00:01:53,880
+is a basic attack in Pathfinder shows
+ 
+
+97
+00:01:53,880 --> 00:01:56,450
+is a basic attack in Pathfinder shows
+one black diamond Arrow at the top of
+
+98
+00:01:56,450 --> 00:01:56,460
+one black diamond Arrow at the top of
+ 
+
+99
+00:01:56,460 --> 00:01:58,789
+one black diamond Arrow at the top of
+its description which means it costs one
+
+100
+00:01:58,789 --> 00:01:58,799
+its description which means it costs one
+ 
+
+101
+00:01:58,799 --> 00:02:02,030
+its description which means it costs one
+action to perform and yes this does mean
+
+102
+00:02:02,030 --> 00:02:02,040
+action to perform and yes this does mean
+ 
+
+103
+00:02:02,040 --> 00:02:04,249
+action to perform and yes this does mean
+that you can spend all three of your
+
+104
+00:02:04,249 --> 00:02:04,259
+that you can spend all three of your
+ 
+
+105
+00:02:04,259 --> 00:02:05,990
+that you can spend all three of your
+actions in one turn to attack three
+
+106
+00:02:05,990 --> 00:02:06,000
+actions in one turn to attack three
+ 
+
+107
+00:02:06,000 --> 00:02:08,870
+actions in one turn to attack three
+times but there is a drawback to doing
+
+108
+00:02:08,870 --> 00:02:08,880
+times but there is a drawback to doing
+ 
+
+109
+00:02:08,880 --> 00:02:12,170
+times but there is a drawback to doing
+so the strike action also has the attack
+
+110
+00:02:12,170 --> 00:02:12,180
+so the strike action also has the attack
+ 
+
+111
+00:02:12,180 --> 00:02:14,869
+so the strike action also has the attack
+trait and any action with the attack
+
+112
+00:02:14,869 --> 00:02:14,879
+trait and any action with the attack
+ 
+
+113
+00:02:14,879 --> 00:02:17,270
+trait and any action with the attack
+trait is subject to the multiple attack
+
+114
+00:02:17,270 --> 00:02:17,280
+trait is subject to the multiple attack
+ 
+
+115
+00:02:17,280 --> 00:02:19,670
+trait is subject to the multiple attack
+penalty this is a little outside of the
+
+116
+00:02:19,670 --> 00:02:19,680
+penalty this is a little outside of the
+ 
+
+117
+00:02:19,680 --> 00:02:21,470
+penalty this is a little outside of the
+scope of a conversation about action
+
+118
+00:02:21,470 --> 00:02:21,480
+scope of a conversation about action
+ 
+
+119
+00:02:21,480 --> 00:02:24,110
+scope of a conversation about action
+economy but the multiple attack penalty
+
+120
+00:02:24,110 --> 00:02:24,120
+economy but the multiple attack penalty
+ 
+
+121
+00:02:24,120 --> 00:02:25,910
+economy but the multiple attack penalty
+says that there is no penalty for the
+
+122
+00:02:25,910 --> 00:02:25,920
+says that there is no penalty for the
+ 
+
+123
+00:02:25,920 --> 00:02:28,369
+says that there is no penalty for the
+first attack made during a turn there is
+
+124
+00:02:28,369 --> 00:02:28,379
+first attack made during a turn there is
+ 
+
+125
+00:02:28,379 --> 00:02:30,410
+first attack made during a turn there is
+a negative five penalty applied to the
+
+126
+00:02:30,410 --> 00:02:30,420
+a negative five penalty applied to the
+ 
+
+127
+00:02:30,420 --> 00:02:32,869
+a negative five penalty applied to the
+second attack made during that turn and
+
+128
+00:02:32,869 --> 00:02:32,879
+second attack made during that turn and
+ 
+
+129
+00:02:32,879 --> 00:02:35,330
+second attack made during that turn and
+a negative 10 penalty applied to every
+
+130
+00:02:35,330 --> 00:02:35,340
+a negative 10 penalty applied to every
+ 
+
+131
+00:02:35,340 --> 00:02:37,490
+a negative 10 penalty applied to every
+attack made after the second
+
+132
+00:02:37,490 --> 00:02:37,500
+attack made after the second
+ 
+
+133
+00:02:37,500 --> 00:02:39,770
+attack made after the second
+it is possible to have more than three
+
+134
+00:02:39,770 --> 00:02:39,780
+it is possible to have more than three
+ 
+
+135
+00:02:39,780 --> 00:02:41,930
+it is possible to have more than three
+actions to spend in a turn for example
+
+136
+00:02:41,930 --> 00:02:41,940
+actions to spend in a turn for example
+ 
+
+137
+00:02:41,940 --> 00:02:43,850
+actions to spend in a turn for example
+if a character is under the effects of a
+
+138
+00:02:43,850 --> 00:02:43,860
+if a character is under the effects of a
+ 
+
+139
+00:02:43,860 --> 00:02:46,550
+if a character is under the effects of a
+haste spell so in that case if they
+
+140
+00:02:46,550 --> 00:02:46,560
+haste spell so in that case if they
+ 
+
+141
+00:02:46,560 --> 00:02:49,250
+haste spell so in that case if they
+spent all four actions on strike the
+
+142
+00:02:49,250 --> 00:02:49,260
+spent all four actions on strike the
+ 
+
+143
+00:02:49,260 --> 00:02:51,110
+spent all four actions on strike the
+first would have no penalty the second
+
+144
+00:02:51,110 --> 00:02:51,120
+first would have no penalty the second
+ 
+
+145
+00:02:51,120 --> 00:02:53,270
+first would have no penalty the second
+would have a negative five penalty and
+
+146
+00:02:53,270 --> 00:02:53,280
+would have a negative five penalty and
+ 
+
+147
+00:02:53,280 --> 00:02:55,670
+would have a negative five penalty and
+both the third and the fourth strikes
+
+148
+00:02:55,670 --> 00:02:55,680
+both the third and the fourth strikes
+ 
+
+149
+00:02:55,680 --> 00:02:58,009
+both the third and the fourth strikes
+would each suffer a negative 10 penalty
+
+150
+00:02:58,009 --> 00:02:58,019
+would each suffer a negative 10 penalty
+ 
+
+151
+00:02:58,019 --> 00:03:00,589
+would each suffer a negative 10 penalty
+one exception to this is when using a
+
+152
+00:03:00,589 --> 00:03:00,599
+one exception to this is when using a
+ 
+
+153
+00:03:00,599 --> 00:03:03,470
+one exception to this is when using a
+weapon with the agile trait agile
+
+154
+00:03:03,470 --> 00:03:03,480
+weapon with the agile trait agile
+ 
+
+155
+00:03:03,480 --> 00:03:06,170
+weapon with the agile trait agile
+weapons like daggers suffer reduced
+
+156
+00:03:06,170 --> 00:03:06,180
+weapons like daggers suffer reduced
+ 
+
+157
+00:03:06,180 --> 00:03:08,630
+weapons like daggers suffer reduced
+penalties attacks made with an agile
+
+158
+00:03:08,630 --> 00:03:08,640
+penalties attacks made with an agile
+ 
+
+159
+00:03:08,640 --> 00:03:10,850
+penalties attacks made with an agile
+weapon are negative four for the second
+
+160
+00:03:10,850 --> 00:03:10,860
+weapon are negative four for the second
+ 
+
+161
+00:03:10,860 --> 00:03:13,670
+weapon are negative four for the second
+attacking round and negative eight for
+
+162
+00:03:13,670 --> 00:03:13,680
+attacking round and negative eight for
+ 
+
+163
+00:03:13,680 --> 00:03:16,309
+attacking round and negative eight for
+the third in any following attacks in a
+
+164
+00:03:16,309 --> 00:03:16,319
+the third in any following attacks in a
+ 
+
+165
+00:03:16,319 --> 00:03:17,449
+the third in any following attacks in a
+round
+
+166
+00:03:17,449 --> 00:03:17,459
+round
+ 
+
+167
+00:03:17,459 --> 00:03:20,210
+round
+so a simple combat example might look
+
+168
+00:03:20,210 --> 00:03:20,220
+so a simple combat example might look
+ 
+
+169
+00:03:20,220 --> 00:03:23,030
+so a simple combat example might look
+like this Belarus is wielding a long
+
+170
+00:03:23,030 --> 00:03:23,040
+like this Belarus is wielding a long
+ 
+
+171
+00:03:23,040 --> 00:03:25,190
+like this Belarus is wielding a long
+sword and wishes to attack a goblin that
+
+172
+00:03:25,190 --> 00:03:25,200
+sword and wishes to attack a goblin that
+ 
+
+173
+00:03:25,200 --> 00:03:27,050
+sword and wishes to attack a goblin that
+is standing on the other side of a
+
+174
+00:03:27,050 --> 00:03:27,060
+is standing on the other side of a
+ 
+
+175
+00:03:27,060 --> 00:03:28,369
+is standing on the other side of a
+fallen column
+
+176
+00:03:28,369 --> 00:03:28,379
+fallen column
+ 
+
+177
+00:03:28,379 --> 00:03:30,830
+fallen column
+at the start of his turn he is granted
+
+178
+00:03:30,830 --> 00:03:30,840
+at the start of his turn he is granted
+ 
+
+179
+00:03:30,840 --> 00:03:34,130
+at the start of his turn he is granted
+three actions and one reaction he spends
+
+180
+00:03:34,130 --> 00:03:34,140
+three actions and one reaction he spends
+ 
+
+181
+00:03:34,140 --> 00:03:37,250
+three actions and one reaction he spends
+his first action to perform stride strod
+
+182
+00:03:37,250 --> 00:03:37,260
+his first action to perform stride strod
+ 
+
+183
+00:03:37,260 --> 00:03:39,050
+his first action to perform stride strod
+is the standard means of moving in
+
+184
+00:03:39,050 --> 00:03:39,060
+is the standard means of moving in
+ 
+
+185
+00:03:39,060 --> 00:03:41,330
+is the standard means of moving in
+Pathfinder it costs one action and
+
+186
+00:03:41,330 --> 00:03:41,340
+Pathfinder it costs one action and
+ 
+
+187
+00:03:41,340 --> 00:03:43,309
+Pathfinder it costs one action and
+allows a character to move up to a
+
+188
+00:03:43,309 --> 00:03:43,319
+allows a character to move up to a
+ 
+
+189
+00:03:43,319 --> 00:03:44,750
+allows a character to move up to a
+number of feet equal to their speed
+
+190
+00:03:44,750 --> 00:03:44,760
+number of feet equal to their speed
+ 
+
+191
+00:03:44,760 --> 00:03:45,589
+number of feet equal to their speed
+score
+
+192
+00:03:45,589 --> 00:03:45,599
+score
+ 
+
+193
+00:03:45,599 --> 00:03:48,890
+score
+Belarus has a speed score of 25 so he
+
+194
+00:03:48,890 --> 00:03:48,900
+Belarus has a speed score of 25 so he
+ 
+
+195
+00:03:48,900 --> 00:03:52,309
+Belarus has a speed score of 25 so he
+may walk up to 25 feet or 5 squares on a
+
+196
+00:03:52,309 --> 00:03:52,319
+may walk up to 25 feet or 5 squares on a
+ 
+
+197
+00:03:52,319 --> 00:03:52,970
+may walk up to 25 feet or 5 squares on a
+map
+
+198
+00:03:52,970 --> 00:03:52,980
+map
+ 
+
+199
+00:03:52,980 --> 00:03:55,789
+map
+the phone column is only four squares
+
+200
+00:03:55,789 --> 00:03:55,799
+the phone column is only four squares
+ 
+
+201
+00:03:55,799 --> 00:03:58,309
+the phone column is only four squares
+away so he moves up to it and stops
+
+202
+00:03:58,309 --> 00:03:58,319
+away so he moves up to it and stops
+ 
+
+203
+00:03:58,319 --> 00:04:01,369
+away so he moves up to it and stops
+since he cannot walk over the column he
+
+204
+00:04:01,369 --> 00:04:01,379
+since he cannot walk over the column he
+ 
+
+205
+00:04:01,379 --> 00:04:04,369
+since he cannot walk over the column he
+Nick spins another action on leap leap
+
+206
+00:04:04,369 --> 00:04:04,379
+Nick spins another action on leap leap
+ 
+
+207
+00:04:04,379 --> 00:04:06,410
+Nick spins another action on leap leap
+costs one action and allows a creature
+
+208
+00:04:06,410 --> 00:04:06,420
+costs one action and allows a creature
+ 
+
+209
+00:04:06,420 --> 00:04:08,630
+costs one action and allows a creature
+to jump short distances without the need
+
+210
+00:04:08,630 --> 00:04:08,640
+to jump short distances without the need
+ 
+
+211
+00:04:08,640 --> 00:04:11,089
+to jump short distances without the need
+for an athletic skill check the GM
+
+212
+00:04:11,089 --> 00:04:11,099
+for an athletic skill check the GM
+ 
+
+213
+00:04:11,099 --> 00:04:13,190
+for an athletic skill check the GM
+agrees that vaulting over this ruined
+
+214
+00:04:13,190 --> 00:04:13,200
+agrees that vaulting over this ruined
+ 
+
+215
+00:04:13,200 --> 00:04:16,069
+agrees that vaulting over this ruined
+column qualifies and valorous lands in
+
+216
+00:04:16,069 --> 00:04:16,079
+column qualifies and valorous lands in
+ 
+
+217
+00:04:16,079 --> 00:04:17,870
+column qualifies and valorous lands in
+the Square on the other side and
+
+218
+00:04:17,870 --> 00:04:17,880
+the Square on the other side and
+ 
+
+219
+00:04:17,880 --> 00:04:21,110
+the Square on the other side and
+adjacent to the goblin he now spends his
+
+220
+00:04:21,110 --> 00:04:21,120
+adjacent to the goblin he now spends his
+ 
+
+221
+00:04:21,120 --> 00:04:23,390
+adjacent to the goblin he now spends his
+third and Last Action to perform a
+
+222
+00:04:23,390 --> 00:04:23,400
+third and Last Action to perform a
+ 
+
+223
+00:04:23,400 --> 00:04:26,450
+third and Last Action to perform a
+strike and attacks the Goblin
+
+224
+00:04:26,450 --> 00:04:26,460
+strike and attacks the Goblin
+ 
+
+225
+00:04:26,460 --> 00:04:28,969
+strike and attacks the Goblin
+that was a simple example using basic
+
+226
+00:04:28,969 --> 00:04:28,979
+that was a simple example using basic
+ 
+
+227
+00:04:28,979 --> 00:04:31,790
+that was a simple example using basic
+actions that East cost won but there are
+
+228
+00:04:31,790 --> 00:04:31,800
+actions that East cost won but there are
+ 
+
+229
+00:04:31,800 --> 00:04:34,370
+actions that East cost won but there are
+also more complex activities that cost
+
+230
+00:04:34,370 --> 00:04:34,380
+also more complex activities that cost
+ 
+
+231
+00:04:34,380 --> 00:04:37,370
+also more complex activities that cost
+two or more actions one place you are
+
+232
+00:04:37,370 --> 00:04:37,380
+two or more actions one place you are
+ 
+
+233
+00:04:37,380 --> 00:04:39,650
+two or more actions one place you are
+likely to encounter this is with spells
+
+234
+00:04:39,650 --> 00:04:39,660
+likely to encounter this is with spells
+ 
+
+235
+00:04:39,660 --> 00:04:42,890
+likely to encounter this is with spells
+most spells have a cost of two actions
+
+236
+00:04:42,890 --> 00:04:42,900
+most spells have a cost of two actions
+ 
+
+237
+00:04:42,900 --> 00:04:45,950
+most spells have a cost of two actions
+for example acid Arrow shows two Diamond
+
+238
+00:04:45,950 --> 00:04:45,960
+for example acid Arrow shows two Diamond
+ 
+
+239
+00:04:45,960 --> 00:04:49,129
+for example acid Arrow shows two Diamond
+arrows in its casting time so we know it
+
+240
+00:04:49,129 --> 00:04:49,139
+arrows in its casting time so we know it
+ 
+
+241
+00:04:49,139 --> 00:04:52,010
+arrows in its casting time so we know it
+costs two actions to cast it this is
+
+242
+00:04:52,010 --> 00:04:52,020
+costs two actions to cast it this is
+ 
+
+243
+00:04:52,020 --> 00:04:53,870
+costs two actions to cast it this is
+typical for most spells but there are
+
+244
+00:04:53,870 --> 00:04:53,880
+typical for most spells but there are
+ 
+
+245
+00:04:53,880 --> 00:04:56,390
+typical for most spells but there are
+exceptions most summoning spells like
+
+246
+00:04:56,390 --> 00:04:56,400
+exceptions most summoning spells like
+ 
+
+247
+00:04:56,400 --> 00:04:59,570
+exceptions most summoning spells like
+summon Elemental cost three actions and
+
+248
+00:04:59,570 --> 00:04:59,580
+summon Elemental cost three actions and
+ 
+
+249
+00:04:59,580 --> 00:05:01,310
+summon Elemental cost three actions and
+there are even some spells that function
+
+250
+00:05:01,310 --> 00:05:01,320
+there are even some spells that function
+ 
+
+251
+00:05:01,320 --> 00:05:02,990
+there are even some spells that function
+differently depending on how many
+
+252
+00:05:02,990 --> 00:05:03,000
+differently depending on how many
+ 
+
+253
+00:05:03,000 --> 00:05:05,390
+differently depending on how many
+actions you wish to spend on them for
+
+254
+00:05:05,390 --> 00:05:05,400
+actions you wish to spend on them for
+ 
+
+255
+00:05:05,400 --> 00:05:07,490
+actions you wish to spend on them for
+example magic Missile can be cast using
+
+256
+00:05:07,490 --> 00:05:07,500
+example magic Missile can be cast using
+ 
+
+257
+00:05:07,500 --> 00:05:10,010
+example magic Missile can be cast using
+one two or three actions with each
+
+258
+00:05:10,010 --> 00:05:10,020
+one two or three actions with each
+ 
+
+259
+00:05:10,020 --> 00:05:12,650
+one two or three actions with each
+action adding an additional missile and
+
+260
+00:05:12,650 --> 00:05:12,660
+action adding an additional missile and
+ 
+
+261
+00:05:12,660 --> 00:05:14,870
+action adding an additional missile and
+yes this does mean that a wizard could
+
+262
+00:05:14,870 --> 00:05:14,880
+yes this does mean that a wizard could
+ 
+
+263
+00:05:14,880 --> 00:05:17,749
+yes this does mean that a wizard could
+cast with acid arrow and the one action
+
+264
+00:05:17,749 --> 00:05:17,759
+cast with acid arrow and the one action
+ 
+
+265
+00:05:17,759 --> 00:05:19,370
+cast with acid arrow and the one action
+version of magic Missile in the same
+
+266
+00:05:19,370 --> 00:05:19,380
+version of magic Missile in the same
+ 
+
+267
+00:05:19,380 --> 00:05:20,090
+version of magic Missile in the same
+round
+
+268
+00:05:20,090 --> 00:05:20,100
+round
+ 
+
+269
+00:05:20,100 --> 00:05:22,670
+round
+another common example of a spell with a
+
+270
+00:05:22,670 --> 00:05:22,680
+another common example of a spell with a
+ 
+
+271
+00:05:22,680 --> 00:05:25,370
+another common example of a spell with a
+variable action cost would be heal heal
+
+272
+00:05:25,370 --> 00:05:25,380
+variable action cost would be heal heal
+ 
+
+273
+00:05:25,380 --> 00:05:28,370
+variable action cost would be heal heal
+also can be cast with one two or three
+
+274
+00:05:28,370 --> 00:05:28,380
+also can be cast with one two or three
+ 
+
+275
+00:05:28,380 --> 00:05:31,189
+also can be cast with one two or three
+actions and each version Alters the
+
+276
+00:05:31,189 --> 00:05:31,199
+actions and each version Alters the
+ 
+
+277
+00:05:31,199 --> 00:05:32,629
+actions and each version Alters the
+effects of the spell
+
+278
+00:05:32,629 --> 00:05:32,639
+effects of the spell
+ 
+
+279
+00:05:32,639 --> 00:05:34,850
+effects of the spell
+for one action the spell has a range of
+
+280
+00:05:34,850 --> 00:05:34,860
+for one action the spell has a range of
+ 
+
+281
+00:05:34,860 --> 00:05:37,010
+for one action the spell has a range of
+touch it can only be used to heal the
+
+282
+00:05:37,010 --> 00:05:37,020
+touch it can only be used to heal the
+ 
+
+283
+00:05:37,020 --> 00:05:39,890
+touch it can only be used to heal the
+Caster or an adjacent Ally for two
+
+284
+00:05:39,890 --> 00:05:39,900
+Caster or an adjacent Ally for two
+ 
+
+285
+00:05:39,900 --> 00:05:42,350
+Caster or an adjacent Ally for two
+actions the spell increases its range to
+
+286
+00:05:42,350 --> 00:05:42,360
+actions the spell increases its range to
+ 
+
+287
+00:05:42,360 --> 00:05:44,689
+actions the spell increases its range to
+30 feet and also heals an extra eight
+
+288
+00:05:44,689 --> 00:05:44,699
+30 feet and also heals an extra eight
+ 
+
+289
+00:05:44,699 --> 00:05:47,450
+30 feet and also heals an extra eight
+hit points and if heel is cast using
+
+290
+00:05:47,450 --> 00:05:47,460
+hit points and if heel is cast using
+ 
+
+291
+00:05:47,460 --> 00:05:49,909
+hit points and if heel is cast using
+three actions it heals all living
+
+292
+00:05:49,909 --> 00:05:49,919
+three actions it heals all living
+ 
+
+293
+00:05:49,919 --> 00:05:53,110
+three actions it heals all living
+targets within 30 feet of the caster
+
+294
+00:05:53,110 --> 00:05:53,120
+targets within 30 feet of the caster
+ 
+
+295
+00:05:53,120 --> 00:05:55,370
+targets within 30 feet of the caster
+multi-action activities oranges for
+
+296
+00:05:55,370 --> 00:05:55,380
+multi-action activities oranges for
+ 
+
+297
+00:05:55,380 --> 00:05:58,070
+multi-action activities oranges for
+spellcasters though lots of classes have
+
+298
+00:05:58,070 --> 00:05:58,080
+spellcasters though lots of classes have
+ 
+
+299
+00:05:58,080 --> 00:05:59,689
+spellcasters though lots of classes have
+their own special abilities that cost
+
+300
+00:05:59,689 --> 00:05:59,699
+their own special abilities that cost
+ 
+
+301
+00:05:59,699 --> 00:06:02,570
+their own special abilities that cost
+two or three actions like Hunters aim
+
+302
+00:06:02,570 --> 00:06:02,580
+two or three actions like Hunters aim
+ 
+
+303
+00:06:02,580 --> 00:06:04,969
+two or three actions like Hunters aim
+for Rangers which costs two actions but
+
+304
+00:06:04,969 --> 00:06:04,979
+for Rangers which costs two actions but
+ 
+
+305
+00:06:04,979 --> 00:06:06,650
+for Rangers which costs two actions but
+allows them to make a strike that
+
+306
+00:06:06,650 --> 00:06:06,660
+allows them to make a strike that
+ 
+
+307
+00:06:06,660 --> 00:06:09,050
+allows them to make a strike that
+ignores concealment and gains a bonus to
+
+308
+00:06:09,050 --> 00:06:09,060
+ignores concealment and gains a bonus to
+ 
+
+309
+00:06:09,060 --> 00:06:11,749
+ignores concealment and gains a bonus to
+damage the key to remember with multiple
+
+310
+00:06:11,749 --> 00:06:11,759
+damage the key to remember with multiple
+ 
+
+311
+00:06:11,759 --> 00:06:14,210
+damage the key to remember with multiple
+action activities though is that any
+
+312
+00:06:14,210 --> 00:06:14,220
+action activities though is that any
+ 
+
+313
+00:06:14,220 --> 00:06:17,029
+action activities though is that any
+activity you start in around must be
+
+314
+00:06:17,029 --> 00:06:17,039
+activity you start in around must be
+ 
+
+315
+00:06:17,039 --> 00:06:20,210
+activity you start in around must be
+completed in the same round so you can't
+
+316
+00:06:20,210 --> 00:06:20,220
+completed in the same round so you can't
+ 
+
+317
+00:06:20,220 --> 00:06:22,010
+completed in the same round so you can't
+begin casting a spell with your third
+
+318
+00:06:22,010 --> 00:06:22,020
+begin casting a spell with your third
+ 
+
+319
+00:06:22,020 --> 00:06:24,770
+begin casting a spell with your third
+action on one round and finish casting
+
+320
+00:06:24,770 --> 00:06:24,780
+action on one round and finish casting
+ 
+
+321
+00:06:24,780 --> 00:06:26,629
+action on one round and finish casting
+it with your first action on the next
+
+322
+00:06:26,629 --> 00:06:26,639
+it with your first action on the next
+ 
+
+323
+00:06:26,639 --> 00:06:29,990
+it with your first action on the next
+round also you cannot start a new action
+
+324
+00:06:29,990 --> 00:06:30,000
+round also you cannot start a new action
+ 
+
+325
+00:06:30,000 --> 00:06:32,510
+round also you cannot start a new action
+or activity until you finish the first
+
+326
+00:06:32,510 --> 00:06:32,520
+or activity until you finish the first
+ 
+
+327
+00:06:32,520 --> 00:06:35,090
+or activity until you finish the first
+so for example you can't spend an action
+
+328
+00:06:35,090 --> 00:06:35,100
+so for example you can't spend an action
+ 
+
+329
+00:06:35,100 --> 00:06:36,950
+so for example you can't spend an action
+destroyed or strike in the middle of the
+
+330
+00:06:36,950 --> 00:06:36,960
+destroyed or strike in the middle of the
+ 
+
+331
+00:06:36,960 --> 00:06:39,590
+destroyed or strike in the middle of the
+two actions spent to cast a spell nor
+
+332
+00:06:39,590 --> 00:06:39,600
+two actions spent to cast a spell nor
+ 
+
+333
+00:06:39,600 --> 00:06:41,749
+two actions spent to cast a spell nor
+could you spin an action to strike in
+
+334
+00:06:41,749 --> 00:06:41,759
+could you spin an action to strike in
+ 
+
+335
+00:06:41,759 --> 00:06:43,790
+could you spin an action to strike in
+the middle of moving with a stride
+
+336
+00:06:43,790 --> 00:06:43,800
+the middle of moving with a stride
+ 
+
+337
+00:06:43,800 --> 00:06:46,550
+the middle of moving with a stride
+action if you have a speed score of 30
+
+338
+00:06:46,550 --> 00:06:46,560
+action if you have a speed score of 30
+ 
+
+339
+00:06:46,560 --> 00:06:49,730
+action if you have a speed score of 30
+and want to walk forward 15 feet attack
+
+340
+00:06:49,730 --> 00:06:49,740
+and want to walk forward 15 feet attack
+ 
+
+341
+00:06:49,740 --> 00:06:51,710
+and want to walk forward 15 feet attack
+with a melee weapon and then walk
+
+342
+00:06:51,710 --> 00:06:51,720
+with a melee weapon and then walk
+ 
+
+343
+00:06:51,720 --> 00:06:54,710
+with a melee weapon and then walk
+another 15 feet you would need to spend
+
+344
+00:06:54,710 --> 00:06:54,720
+another 15 feet you would need to spend
+ 
+
+345
+00:06:54,720 --> 00:06:58,490
+another 15 feet you would need to spend
+one action to stride and then stop and
+
+346
+00:06:58,490 --> 00:06:58,500
+one action to stride and then stop and
+ 
+
+347
+00:06:58,500 --> 00:07:01,370
+one action to stride and then stop and
+then spend a second action to strike and
+
+348
+00:07:01,370 --> 00:07:01,380
+then spend a second action to strike and
+ 
+
+349
+00:07:01,380 --> 00:07:03,590
+then spend a second action to strike and
+then spend your third action destroyed
+
+350
+00:07:03,590 --> 00:07:03,600
+then spend your third action destroyed
+ 
+
+351
+00:07:03,600 --> 00:07:06,529
+then spend your third action destroyed
+again you must complete an action before
+
+352
+00:07:06,529 --> 00:07:06,539
+again you must complete an action before
+ 
+
+353
+00:07:06,539 --> 00:07:09,350
+again you must complete an action before
+spending another action so you could not
+
+354
+00:07:09,350 --> 00:07:09,360
+spending another action so you could not
+ 
+
+355
+00:07:09,360 --> 00:07:11,029
+spending another action so you could not
+spend an action to strike in the middle
+
+356
+00:07:11,029 --> 00:07:11,039
+spend an action to strike in the middle
+ 
+
+357
+00:07:11,039 --> 00:07:13,249
+spend an action to strike in the middle
+of a strut action even if you have
+
+358
+00:07:13,249 --> 00:07:13,259
+of a strut action even if you have
+ 
+
+359
+00:07:13,259 --> 00:07:15,770
+of a strut action even if you have
+enough speed score to cover all of that
+
+360
+00:07:15,770 --> 00:07:15,780
+enough speed score to cover all of that
+ 
+
+361
+00:07:15,780 --> 00:07:18,290
+enough speed score to cover all of that
+movement that's it I should mention that
+
+362
+00:07:18,290 --> 00:07:18,300
+movement that's it I should mention that
+ 
+
+363
+00:07:18,300 --> 00:07:20,210
+movement that's it I should mention that
+the game mastery guide does provide some
+
+364
+00:07:20,210 --> 00:07:20,220
+the game mastery guide does provide some
+ 
+
+365
+00:07:20,220 --> 00:07:22,430
+the game mastery guide does provide some
+leeway for James to roll differently in
+
+366
+00:07:22,430 --> 00:07:22,440
+leeway for James to roll differently in
+ 
+
+367
+00:07:22,440 --> 00:07:24,469
+leeway for James to roll differently in
+some cases and I do have a separate
+
+368
+00:07:24,469 --> 00:07:24,479
+some cases and I do have a separate
+ 
+
+369
+00:07:24,479 --> 00:07:26,629
+some cases and I do have a separate
+video that covers those exceptions and
+
+370
+00:07:26,629 --> 00:07:26,639
+video that covers those exceptions and
+ 
+
+371
+00:07:26,639 --> 00:07:29,990
+video that covers those exceptions and
+it is linked in this video's description
+
+372
+00:07:29,990 --> 00:07:30,000
+it is linked in this video's description
+ 
+
+373
+00:07:30,000 --> 00:07:31,969
+it is linked in this video's description
+in addition to the three actions a
+
+374
+00:07:31,969 --> 00:07:31,979
+in addition to the three actions a
+ 
+
+375
+00:07:31,979 --> 00:07:34,309
+in addition to the three actions a
+player may spend on their turn they also
+
+376
+00:07:34,309 --> 00:07:34,319
+player may spend on their turn they also
+ 
+
+377
+00:07:34,319 --> 00:07:37,070
+player may spend on their turn they also
+receive one reaction they may spend at
+
+378
+00:07:37,070 --> 00:07:37,080
+receive one reaction they may spend at
+ 
+
+379
+00:07:37,080 --> 00:07:39,469
+receive one reaction they may spend at
+any time including on another creature's
+
+380
+00:07:39,469 --> 00:07:39,479
+any time including on another creature's
+ 
+
+381
+00:07:39,479 --> 00:07:42,290
+any time including on another creature's
+turn reactions are noted by a backwards
+
+382
+00:07:42,290 --> 00:07:42,300
+turn reactions are noted by a backwards
+ 
+
+383
+00:07:42,300 --> 00:07:44,270
+turn reactions are noted by a backwards
+turning Arrow like we see here with
+
+384
+00:07:44,270 --> 00:07:44,280
+turning Arrow like we see here with
+ 
+
+385
+00:07:44,280 --> 00:07:47,089
+turning Arrow like we see here with
+retributive strike each reaction also
+
+386
+00:07:47,089 --> 00:07:47,099
+retributive strike each reaction also
+ 
+
+387
+00:07:47,099 --> 00:07:49,370
+retributive strike each reaction also
+includes a specific trigger that lets
+
+388
+00:07:49,370 --> 00:07:49,380
+includes a specific trigger that lets
+ 
+
+389
+00:07:49,380 --> 00:07:50,870
+includes a specific trigger that lets
+you know when you can spend your
+
+390
+00:07:50,870 --> 00:07:50,880
+you know when you can spend your
+ 
+
+391
+00:07:50,880 --> 00:07:53,390
+you know when you can spend your
+reaction to perform it here it says
+
+392
+00:07:53,390 --> 00:07:53,400
+reaction to perform it here it says
+ 
+
+393
+00:07:53,400 --> 00:07:57,110
+reaction to perform it here it says
+trigger an enemy damages your Ally and
+
+394
+00:07:57,110 --> 00:07:57,120
+trigger an enemy damages your Ally and
+ 
+
+395
+00:07:57,120 --> 00:08:00,710
+trigger an enemy damages your Ally and
+both are within 15 feet of you so if
+
+396
+00:08:00,710 --> 00:08:00,720
+both are within 15 feet of you so if
+ 
+
+397
+00:08:00,720 --> 00:08:03,290
+both are within 15 feet of you so if
+during a monster's turn it damages an
+
+398
+00:08:03,290 --> 00:08:03,300
+during a monster's turn it damages an
+ 
+
+399
+00:08:03,300 --> 00:08:06,110
+during a monster's turn it damages an
+ally and both that monster and the Ally
+
+400
+00:08:06,110 --> 00:08:06,120
+ally and both that monster and the Ally
+ 
+
+401
+00:08:06,120 --> 00:08:08,510
+ally and both that monster and the Ally
+that is damaged is within 15 feet of
+
+402
+00:08:08,510 --> 00:08:08,520
+that is damaged is within 15 feet of
+ 
+
+403
+00:08:08,520 --> 00:08:10,670
+that is damaged is within 15 feet of
+this character they may spin their
+
+404
+00:08:10,670 --> 00:08:10,680
+this character they may spin their
+ 
+
+405
+00:08:10,680 --> 00:08:12,950
+this character they may spin their
+reaction to perform retributive strike
+
+406
+00:08:12,950 --> 00:08:12,960
+reaction to perform retributive strike
+ 
+
+407
+00:08:12,960 --> 00:08:15,230
+reaction to perform retributive strike
+when they do so the Ally gains
+
+408
+00:08:15,230 --> 00:08:15,240
+when they do so the Ally gains
+ 
+
+409
+00:08:15,240 --> 00:08:16,790
+when they do so the Ally gains
+resistance to the triggering damage
+
+410
+00:08:16,790 --> 00:08:16,800
+resistance to the triggering damage
+ 
+
+411
+00:08:16,800 --> 00:08:18,469
+resistance to the triggering damage
+equal to two plus the Champions level
+
+412
+00:08:18,469 --> 00:08:18,479
+equal to two plus the Champions level
+ 
+
+413
+00:08:18,479 --> 00:08:21,230
+equal to two plus the Champions level
+and if the monster is also Within Reach
+
+414
+00:08:21,230 --> 00:08:21,240
+and if the monster is also Within Reach
+ 
+
+415
+00:08:21,240 --> 00:08:23,570
+and if the monster is also Within Reach
+of the champion they get to make a melee
+
+416
+00:08:23,570 --> 00:08:23,580
+of the champion they get to make a melee
+ 
+
+417
+00:08:23,580 --> 00:08:25,010
+of the champion they get to make a melee
+strike against it
+
+418
+00:08:25,010 --> 00:08:25,020
+strike against it
+ 
+
+419
+00:08:25,020 --> 00:08:27,650
+strike against it
+so if seal of the champion finishes her
+
+420
+00:08:27,650 --> 00:08:27,660
+so if seal of the champion finishes her
+ 
+
+421
+00:08:27,660 --> 00:08:29,629
+so if seal of the champion finishes her
+turn and then an adjacent monster
+
+422
+00:08:29,629 --> 00:08:29,639
+turn and then an adjacent monster
+ 
+
+423
+00:08:29,639 --> 00:08:31,850
+turn and then an adjacent monster
+attacks an ally within 15 feet of her
+
+424
+00:08:31,850 --> 00:08:31,860
+attacks an ally within 15 feet of her
+ 
+
+425
+00:08:31,860 --> 00:08:34,010
+attacks an ally within 15 feet of her
+she may spend her reaction on
+
+426
+00:08:34,010 --> 00:08:34,020
+she may spend her reaction on
+ 
+
+427
+00:08:34,020 --> 00:08:36,529
+she may spend her reaction on
+retributive strike if the monster spins
+
+428
+00:08:36,529 --> 00:08:36,539
+retributive strike if the monster spins
+ 
+
+429
+00:08:36,539 --> 00:08:38,810
+retributive strike if the monster spins
+its next action to attack that Ally
+
+430
+00:08:38,810 --> 00:08:38,820
+its next action to attack that Ally
+ 
+
+431
+00:08:38,820 --> 00:08:41,750
+its next action to attack that Ally
+again Sila cannot make a second
+
+432
+00:08:41,750 --> 00:08:41,760
+again Sila cannot make a second
+ 
+
+433
+00:08:41,760 --> 00:08:44,570
+again Sila cannot make a second
+retributive strike because reactions are
+
+434
+00:08:44,570 --> 00:08:44,580
+retributive strike because reactions are
+ 
+
+435
+00:08:44,580 --> 00:08:47,030
+retributive strike because reactions are
+like currency she was granted one
+
+436
+00:08:47,030 --> 00:08:47,040
+like currency she was granted one
+ 
+
+437
+00:08:47,040 --> 00:08:49,310
+like currency she was granted one
+reaction at the start of her turn and
+
+438
+00:08:49,310 --> 00:08:49,320
+reaction at the start of her turn and
+ 
+
+439
+00:08:49,320 --> 00:08:52,009
+reaction at the start of her turn and
+has already spent it she will need to
+
+440
+00:08:52,009 --> 00:08:52,019
+has already spent it she will need to
+ 
+
+441
+00:08:52,019 --> 00:08:53,810
+has already spent it she will need to
+wait until the start of her next turn
+
+442
+00:08:53,810 --> 00:08:53,820
+wait until the start of her next turn
+ 
+
+443
+00:08:53,820 --> 00:08:55,970
+wait until the start of her next turn
+before she is granted another reaction
+
+444
+00:08:55,970 --> 00:08:55,980
+before she is granted another reaction
+ 
+
+445
+00:08:55,980 --> 00:08:58,009
+before she is granted another reaction
+to spend
+
+446
+00:08:58,009 --> 00:08:58,019
+to spend
+ 
+
+447
+00:08:58,019 --> 00:09:00,290
+to spend
+there is one last type of action we
+
+448
+00:09:00,290 --> 00:09:00,300
+there is one last type of action we
+ 
+
+449
+00:09:00,300 --> 00:09:02,570
+there is one last type of action we
+should discuss and those are free
+
+450
+00:09:02,570 --> 00:09:02,580
+should discuss and those are free
+ 
+
+451
+00:09:02,580 --> 00:09:05,090
+should discuss and those are free
+actions as the name suggests free
+
+452
+00:09:05,090 --> 00:09:05,100
+actions as the name suggests free
+ 
+
+453
+00:09:05,100 --> 00:09:06,949
+actions as the name suggests free
+actions are things players can do on
+
+454
+00:09:06,949 --> 00:09:06,959
+actions are things players can do on
+ 
+
+455
+00:09:06,959 --> 00:09:09,530
+actions are things players can do on
+their term that do not cost any of their
+
+456
+00:09:09,530 --> 00:09:09,540
+their term that do not cost any of their
+ 
+
+457
+00:09:09,540 --> 00:09:12,350
+their term that do not cost any of their
+actions or reactions saying a few words
+
+458
+00:09:12,350 --> 00:09:12,360
+actions or reactions saying a few words
+ 
+
+459
+00:09:12,360 --> 00:09:14,930
+actions or reactions saying a few words
+yelling look out or dropping an item to
+
+460
+00:09:14,930 --> 00:09:14,940
+yelling look out or dropping an item to
+ 
+
+461
+00:09:14,940 --> 00:09:17,449
+yelling look out or dropping an item to
+the ground would all be examples of free
+
+462
+00:09:17,449 --> 00:09:17,459
+the ground would all be examples of free
+ 
+
+463
+00:09:17,459 --> 00:09:20,150
+the ground would all be examples of free
+actions free actions are also noted in
+
+464
+00:09:20,150 --> 00:09:20,160
+actions free actions are also noted in
+ 
+
+465
+00:09:20,160 --> 00:09:21,769
+actions free actions are also noted in
+the book with a hollowed out action
+
+466
+00:09:21,769 --> 00:09:21,779
+the book with a hollowed out action
+ 
+
+467
+00:09:21,779 --> 00:09:23,870
+the book with a hollowed out action
+Diamond like we see here with release
+
+468
+00:09:23,870 --> 00:09:23,880
+Diamond like we see here with release
+ 
+
+469
+00:09:23,880 --> 00:09:26,570
+Diamond like we see here with release
+this means the player can use release
+
+470
+00:09:26,570 --> 00:09:26,580
+this means the player can use release
+ 
+
+471
+00:09:26,580 --> 00:09:28,970
+this means the player can use release
+without spending one of their actions
+
+472
+00:09:28,970 --> 00:09:28,980
+without spending one of their actions
+ 
+
+473
+00:09:28,980 --> 00:09:31,430
+without spending one of their actions
+and is common for free actions to have
+
+474
+00:09:31,430 --> 00:09:31,440
+and is common for free actions to have
+ 
+
+475
+00:09:31,440 --> 00:09:33,530
+and is common for free actions to have
+triggers so they function like reactions
+
+476
+00:09:33,530 --> 00:09:33,540
+triggers so they function like reactions
+ 
+
+477
+00:09:33,540 --> 00:09:35,570
+triggers so they function like reactions
+but without the need to spend a reaction
+
+478
+00:09:35,570 --> 00:09:35,580
+but without the need to spend a reaction
+ 
+
+479
+00:09:35,580 --> 00:09:37,910
+but without the need to spend a reaction
+to do so an example of this would be
+
+480
+00:09:37,910 --> 00:09:37,920
+to do so an example of this would be
+ 
+
+481
+00:09:37,920 --> 00:09:41,389
+to do so an example of this would be
+divine weapon it has a trigger of you
+
+482
+00:09:41,389 --> 00:09:41,399
+divine weapon it has a trigger of you
+ 
+
+483
+00:09:41,399 --> 00:09:43,670
+divine weapon it has a trigger of you
+finish casting a spell using one of your
+
+484
+00:09:43,670 --> 00:09:43,680
+finish casting a spell using one of your
+ 
+
+485
+00:09:43,680 --> 00:09:46,130
+finish casting a spell using one of your
+Divine spell slots on your turn when
+
+486
+00:09:46,130 --> 00:09:46,140
+Divine spell slots on your turn when
+ 
+
+487
+00:09:46,140 --> 00:09:47,870
+Divine spell slots on your turn when
+this happens the player can use Divine
+
+488
+00:09:47,870 --> 00:09:47,880
+this happens the player can use Divine
+ 
+
+489
+00:09:47,880 --> 00:09:50,210
+this happens the player can use Divine
+weapon as a free action which allows
+
+490
+00:09:50,210 --> 00:09:50,220
+weapon as a free action which allows
+ 
+
+491
+00:09:50,220 --> 00:09:51,949
+weapon as a free action which allows
+their weapon to deal additional damage
+
+492
+00:09:51,949 --> 00:09:51,959
+their weapon to deal additional damage
+ 
+
+493
+00:09:51,959 --> 00:09:54,290
+their weapon to deal additional damage
+until the end of their turn in general
+
+494
+00:09:54,290 --> 00:09:54,300
+until the end of their turn in general
+ 
+
+495
+00:09:54,300 --> 00:09:56,750
+until the end of their turn in general
+there is no hard limit to the number of
+
+496
+00:09:56,750 --> 00:09:56,760
+there is no hard limit to the number of
+ 
+
+497
+00:09:56,760 --> 00:09:59,269
+there is no hard limit to the number of
+free actions a player can perform beyond
+
+498
+00:09:59,269 --> 00:09:59,279
+free actions a player can perform beyond
+ 
+
+499
+00:09:59,279 --> 00:10:01,430
+free actions a player can perform beyond
+what the GM will allow and consider
+
+500
+00:10:01,430 --> 00:10:01,440
+what the GM will allow and consider
+ 
+
+501
+00:10:01,440 --> 00:10:04,250
+what the GM will allow and consider
+common sense but there are a few
+
+502
+00:10:04,250 --> 00:10:04,260
+common sense but there are a few
+ 
+
+503
+00:10:04,260 --> 00:10:06,110
+common sense but there are a few
+specific limits that you should be aware
+
+504
+00:10:06,110 --> 00:10:06,120
+specific limits that you should be aware
+ 
+
+505
+00:10:06,120 --> 00:10:09,050
+specific limits that you should be aware
+of first some free actions have a
+
+506
+00:10:09,050 --> 00:10:09,060
+of first some free actions have a
+ 
+
+507
+00:10:09,060 --> 00:10:10,550
+of first some free actions have a
+frequency listing in their description
+
+508
+00:10:10,550 --> 00:10:10,560
+frequency listing in their description
+ 
+
+509
+00:10:10,560 --> 00:10:13,070
+frequency listing in their description
+like Divine weapon that limits it to
+
+510
+00:10:13,070 --> 00:10:13,080
+like Divine weapon that limits it to
+ 
+
+511
+00:10:13,080 --> 00:10:15,889
+like Divine weapon that limits it to
+once per turn also when a free action
+
+512
+00:10:15,889 --> 00:10:15,899
+once per turn also when a free action
+ 
+
+513
+00:10:15,899 --> 00:10:18,590
+once per turn also when a free action
+has a trigger you can only use it one
+
+514
+00:10:18,590 --> 00:10:18,600
+has a trigger you can only use it one
+ 
+
+515
+00:10:18,600 --> 00:10:21,530
+has a trigger you can only use it one
+time per each triggering occurrence so
+
+516
+00:10:21,530 --> 00:10:21,540
+time per each triggering occurrence so
+ 
+
+517
+00:10:21,540 --> 00:10:23,750
+time per each triggering occurrence so
+if theoretically there was a free action
+
+518
+00:10:23,750 --> 00:10:23,760
+if theoretically there was a free action
+ 
+
+519
+00:10:23,760 --> 00:10:26,210
+if theoretically there was a free action
+that granted an untyped plus one bonus
+
+520
+00:10:26,210 --> 00:10:26,220
+that granted an untyped plus one bonus
+ 
+
+521
+00:10:26,220 --> 00:10:28,490
+that granted an untyped plus one bonus
+to damage with a trigger you couldn't
+
+522
+00:10:28,490 --> 00:10:28,500
+to damage with a trigger you couldn't
+ 
+
+523
+00:10:28,500 --> 00:10:31,430
+to damage with a trigger you couldn't
+take infinite free actions to get an
+
+524
+00:10:31,430 --> 00:10:31,440
+take infinite free actions to get an
+ 
+
+525
+00:10:31,440 --> 00:10:33,650
+take infinite free actions to get an
+infinite bonus to damage it would be
+
+526
+00:10:33,650 --> 00:10:33,660
+infinite bonus to damage it would be
+ 
+
+527
+00:10:33,660 --> 00:10:36,710
+infinite bonus to damage it would be
+limited to once per specific triggering
+
+528
+00:10:36,710 --> 00:10:36,720
+limited to once per specific triggering
+ 
+
+529
+00:10:36,720 --> 00:10:37,610
+limited to once per specific triggering
+event
+
+530
+00:10:37,610 --> 00:10:37,620
+event
+ 
+
+531
+00:10:37,620 --> 00:10:39,829
+event
+and last if a player has multiple
+
+532
+00:10:39,829 --> 00:10:39,839
+and last if a player has multiple
+ 
+
+533
+00:10:39,839 --> 00:10:42,230
+and last if a player has multiple
+abilities that Grant free actions with
+
+534
+00:10:42,230 --> 00:10:42,240
+abilities that Grant free actions with
+ 
+
+535
+00:10:42,240 --> 00:10:45,590
+abilities that Grant free actions with
+the trigger your turn begins then they
+
+536
+00:10:45,590 --> 00:10:45,600
+the trigger your turn begins then they
+ 
+
+537
+00:10:45,600 --> 00:10:48,110
+the trigger your turn begins then they
+can only perform one of them you can't
+
+538
+00:10:48,110 --> 00:10:48,120
+can only perform one of them you can't
+ 
+
+539
+00:10:48,120 --> 00:10:51,110
+can only perform one of them you can't
+use all of them only one free action can
+
+540
+00:10:51,110 --> 00:10:51,120
+use all of them only one free action can
+ 
+
+541
+00:10:51,120 --> 00:10:54,530
+use all of them only one free action can
+be used when a turn begins
+
+542
+00:10:54,530 --> 00:10:54,540
+be used when a turn begins
+ 
+
+543
+00:10:54,540 --> 00:10:57,230
+be used when a turn begins
+so that's a quick overview of how the
+
+544
+00:10:57,230 --> 00:10:57,240
+so that's a quick overview of how the
+ 
+
+545
+00:10:57,240 --> 00:10:59,810
+so that's a quick overview of how the
+action economy works with reactions a
+
+546
+00:10:59,810 --> 00:10:59,820
+action economy works with reactions a
+ 
+
+547
+00:10:59,820 --> 00:11:02,569
+action economy works with reactions a
+reaction and free actions there are a
+
+548
+00:11:02,569 --> 00:11:02,579
+reaction and free actions there are a
+ 
+
+549
+00:11:02,579 --> 00:11:04,790
+reaction and free actions there are a
+few related topics like subordinate
+
+550
+00:11:04,790 --> 00:11:04,800
+few related topics like subordinate
+ 
+
+551
+00:11:04,800 --> 00:11:06,949
+few related topics like subordinate
+actions that I think call for their own
+
+552
+00:11:06,949 --> 00:11:06,959
+actions that I think call for their own
+ 
+
+553
+00:11:06,959 --> 00:11:09,170
+actions that I think call for their own
+videos and I'll save those items for
+
+554
+00:11:09,170 --> 00:11:09,180
+videos and I'll save those items for
+ 
+
+555
+00:11:09,180 --> 00:11:10,550
+videos and I'll save those items for
+later discussions
+
+556
+00:11:10,550 --> 00:11:10,560
+later discussions
+ 
+
+557
+00:11:10,560 --> 00:11:12,350
+later discussions
+if you have any questions about the
+
+558
+00:11:12,350 --> 00:11:12,360
+if you have any questions about the
+ 
+
+559
+00:11:12,360 --> 00:11:14,150
+if you have any questions about the
+three action economy please leave them
+
+560
+00:11:14,150 --> 00:11:14,160
+three action economy please leave them
+ 
+
+561
+00:11:14,160 --> 00:11:16,430
+three action economy please leave them
+below I will leave links in the
+
+562
+00:11:16,430 --> 00:11:16,440
+below I will leave links in the
+ 
+
+563
+00:11:16,440 --> 00:11:17,810
+below I will leave links in the
+description of this video for any
+
+564
+00:11:17,810 --> 00:11:17,820
+description of this video for any
+ 
+
+565
+00:11:17,820 --> 00:11:20,509
+description of this video for any
+related topics like initiative delay
+
+566
+00:11:20,509 --> 00:11:20,519
+related topics like initiative delay
+ 
+
+567
+00:11:20,519 --> 00:11:22,069
+related topics like initiative delay
+you're ready and a text of opportunity
+
+568
+00:11:22,069 --> 00:11:22,079
+you're ready and a text of opportunity
+ 
+
+569
+00:11:22,079 --> 00:11:24,110
+you're ready and a text of opportunity
+and as always I want to take a brief
+
+570
+00:11:24,110 --> 00:11:24,120
+and as always I want to take a brief
+ 
+
+571
+00:11:24,120 --> 00:11:25,670
+and as always I want to take a brief
+moment to say thank you to everyone who
+
+572
+00:11:25,670 --> 00:11:25,680
+moment to say thank you to everyone who
+ 
+
+573
+00:11:25,680 --> 00:11:27,769
+moment to say thank you to everyone who
+supports me in this channel whether that
+
+574
+00:11:27,769 --> 00:11:27,779
+supports me in this channel whether that
+ 
+
+575
+00:11:27,779 --> 00:11:29,150
+supports me in this channel whether that
+be by clicking the like button
+
+576
+00:11:29,150 --> 00:11:29,160
+be by clicking the like button
+ 
+
+577
+00:11:29,160 --> 00:11:30,889
+be by clicking the like button
+subscribing to the channel subscribing
+
+578
+00:11:30,889 --> 00:11:30,899
+subscribing to the channel subscribing
+ 
+
+579
+00:11:30,899 --> 00:11:33,350
+subscribing to the channel subscribing
+to the patreon buying a super thanks it
+
+580
+00:11:33,350 --> 00:11:33,360
+to the patreon buying a super thanks it
+ 
+
+581
+00:11:33,360 --> 00:11:35,930
+to the patreon buying a super thanks it
+all adds up and I greatly appreciate all
+
+582
+00:11:35,930 --> 00:11:35,940
+all adds up and I greatly appreciate all
+ 
+
+583
+00:11:35,940 --> 00:11:37,370
+all adds up and I greatly appreciate all
+of your support
+
+584
+00:11:37,370 --> 00:11:37,380
+of your support
+ 
+
+585
+00:11:37,380 --> 00:11:40,069
+of your support
+so with that thanks for watching take
+
+586
+00:11:40,069 --> 00:11:40,079
+so with that thanks for watching take
+ 
+
+587
+00:11:40,079 --> 00:11:43,579
+so with that thanks for watching take
+care and happy gaming
+

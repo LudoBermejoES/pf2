@@ -1,0 +1,5055 @@
+1
+00:00:00,729 --> 00:00:03,180
+
+hello and welcome to basics for gamers
+
+2
+00:00:03,180 --> 00:00:03,190
+hello and welcome to basics for gamers
+ 
+
+3
+00:00:03,190 --> 00:00:05,940
+hello and welcome to basics for gamers
+presents the basics of initiative and
+
+4
+00:00:05,940 --> 00:00:05,950
+presents the basics of initiative and
+ 
+
+5
+00:00:05,950 --> 00:00:08,400
+presents the basics of initiative and
+surprise in Pathfinder 2nd edition
+
+6
+00:00:08,400 --> 00:00:08,410
+surprise in Pathfinder 2nd edition
+ 
+
+7
+00:00:08,410 --> 00:00:10,530
+surprise in Pathfinder 2nd edition
+before we begin I want to give a quick
+
+8
+00:00:10,530 --> 00:00:10,540
+before we begin I want to give a quick
+ 
+
+9
+00:00:10,540 --> 00:00:18,470
+before we begin I want to give a quick
+shout out to everyone on the
+
+10
+00:00:18,470 --> 00:00:18,480
+
+ 
+
+11
+00:00:18,480 --> 00:00:20,880
+
+piezoelectric or for helping me get my
+
+12
+00:00:20,880 --> 00:00:20,890
+piezoelectric or for helping me get my
+ 
+
+13
+00:00:20,890 --> 00:00:23,010
+piezoelectric or for helping me get my
+head around some of these rules if
+
+14
+00:00:23,010 --> 00:00:23,020
+head around some of these rules if
+ 
+
+15
+00:00:23,020 --> 00:00:25,320
+head around some of these rules if
+you're not participating in the official
+
+16
+00:00:25,320 --> 00:00:25,330
+you're not participating in the official
+ 
+
+17
+00:00:25,330 --> 00:00:26,940
+you're not participating in the official
+forums then you're really missing out
+
+18
+00:00:26,940 --> 00:00:26,950
+forums then you're really missing out
+ 
+
+19
+00:00:26,950 --> 00:00:29,100
+forums then you're really missing out
+it's a very welcoming in supporting
+
+20
+00:00:29,100 --> 00:00:29,110
+it's a very welcoming in supporting
+ 
+
+21
+00:00:29,110 --> 00:00:30,960
+it's a very welcoming in supporting
+community and without them I would
+
+22
+00:00:30,960 --> 00:00:30,970
+community and without them I would
+ 
+
+23
+00:00:30,970 --> 00:00:32,730
+community and without them I would
+probably still be trying to figure out
+
+24
+00:00:32,730 --> 00:00:32,740
+probably still be trying to figure out
+ 
+
+25
+00:00:32,740 --> 00:00:34,950
+probably still be trying to figure out
+how surprise works so thanks again to
+
+26
+00:00:34,950 --> 00:00:34,960
+how surprise works so thanks again to
+ 
+
+27
+00:00:34,960 --> 00:00:37,680
+how surprise works so thanks again to
+everyone who helped out also I want to
+
+28
+00:00:37,680 --> 00:00:37,690
+everyone who helped out also I want to
+ 
+
+29
+00:00:37,690 --> 00:00:39,330
+everyone who helped out also I want to
+mention that since we will be discussing
+
+30
+00:00:39,330 --> 00:00:39,340
+mention that since we will be discussing
+ 
+
+31
+00:00:39,340 --> 00:00:40,890
+mention that since we will be discussing
+what happens when players are taken by
+
+32
+00:00:40,890 --> 00:00:40,900
+what happens when players are taken by
+ 
+
+33
+00:00:40,900 --> 00:00:43,770
+what happens when players are taken by
+surprise I highly recommend that you go
+
+34
+00:00:43,770 --> 00:00:43,780
+surprise I highly recommend that you go
+ 
+
+35
+00:00:43,780 --> 00:00:45,540
+surprise I highly recommend that you go
+watch our videos on stealth in
+
+36
+00:00:45,540 --> 00:00:45,550
+watch our videos on stealth in
+ 
+
+37
+00:00:45,550 --> 00:00:47,270
+watch our videos on stealth in
+perception before watching this one
+
+38
+00:00:47,270 --> 00:00:47,280
+perception before watching this one
+ 
+
+39
+00:00:47,280 --> 00:00:49,620
+perception before watching this one
+links to those videos may be found in
+
+40
+00:00:49,620 --> 00:00:49,630
+links to those videos may be found in
+ 
+
+41
+00:00:49,630 --> 00:00:51,660
+links to those videos may be found in
+the description and with all of that
+
+42
+00:00:51,660 --> 00:00:51,670
+the description and with all of that
+ 
+
+43
+00:00:51,670 --> 00:00:53,370
+the description and with all of that
+taken care of let's go ahead and talk a
+
+44
+00:00:53,370 --> 00:00:53,380
+taken care of let's go ahead and talk a
+ 
+
+45
+00:00:53,380 --> 00:00:56,779
+taken care of let's go ahead and talk a
+little bit about initiative
+
+46
+00:00:56,779 --> 00:00:56,789
+little bit about initiative
+ 
+
+47
+00:00:56,789 --> 00:00:59,090
+little bit about initiative
+initiative dictates the order in which
+
+48
+00:00:59,090 --> 00:00:59,100
+initiative dictates the order in which
+ 
+
+49
+00:00:59,100 --> 00:01:00,770
+initiative dictates the order in which
+characters and other creatures act
+
+50
+00:01:00,770 --> 00:01:00,780
+characters and other creatures act
+ 
+
+51
+00:01:00,780 --> 00:01:03,560
+characters and other creatures act
+within a round determining this order is
+
+52
+00:01:03,560 --> 00:01:03,570
+within a round determining this order is
+ 
+
+53
+00:01:03,570 --> 00:01:05,780
+within a round determining this order is
+often what triggers that transition from
+
+54
+00:01:05,780 --> 00:01:05,790
+often what triggers that transition from
+ 
+
+55
+00:01:05,790 --> 00:01:08,420
+often what triggers that transition from
+exploration mode to encounter mode and
+
+56
+00:01:08,420 --> 00:01:08,430
+exploration mode to encounter mode and
+ 
+
+57
+00:01:08,430 --> 00:01:10,280
+exploration mode to encounter mode and
+it should be the first step of any
+
+58
+00:01:10,280 --> 00:01:10,290
+it should be the first step of any
+ 
+
+59
+00:01:10,290 --> 00:01:12,950
+it should be the first step of any
+individual encounter creating the
+
+60
+00:01:12,950 --> 00:01:12,960
+individual encounter creating the
+ 
+
+61
+00:01:12,960 --> 00:01:15,109
+individual encounter creating the
+initiative order is main ease by having
+
+62
+00:01:15,109 --> 00:01:15,119
+initiative order is main ease by having
+ 
+
+63
+00:01:15,119 --> 00:01:17,930
+initiative order is main ease by having
+everyone roll an initiative check this
+
+64
+00:01:17,930 --> 00:01:17,940
+everyone roll an initiative check this
+ 
+
+65
+00:01:17,940 --> 00:01:20,180
+everyone roll an initiative check this
+is done the same as most any other check
+
+66
+00:01:20,180 --> 00:01:20,190
+is done the same as most any other check
+ 
+
+67
+00:01:20,190 --> 00:01:22,219
+is done the same as most any other check
+in the game but there are a few
+
+68
+00:01:22,219 --> 00:01:22,229
+in the game but there are a few
+ 
+
+69
+00:01:22,229 --> 00:01:26,149
+in the game but there are a few
+exceptions first there is no DC for an
+
+70
+00:01:26,149 --> 00:01:26,159
+exceptions first there is no DC for an
+ 
+
+71
+00:01:26,159 --> 00:01:28,249
+exceptions first there is no DC for an
+initiative check and like most other
+
+72
+00:01:28,249 --> 00:01:28,259
+initiative check and like most other
+ 
+
+73
+00:01:28,259 --> 00:01:29,990
+initiative check and like most other
+checks in the game the total of your
+
+74
+00:01:29,990 --> 00:01:30,000
+checks in the game the total of your
+ 
+
+75
+00:01:30,000 --> 00:01:32,450
+checks in the game the total of your
+initiative check is not challenged by a
+
+76
+00:01:32,450 --> 00:01:32,460
+initiative check is not challenged by a
+ 
+
+77
+00:01:32,460 --> 00:01:36,680
+initiative check is not challenged by a
+DC or target number but instead all of
+
+78
+00:01:36,680 --> 00:01:36,690
+DC or target number but instead all of
+ 
+
+79
+00:01:36,690 --> 00:01:39,260
+DC or target number but instead all of
+the initiative totals are ranked highest
+
+80
+00:01:39,260 --> 00:01:39,270
+the initiative totals are ranked highest
+ 
+
+81
+00:01:39,270 --> 00:01:42,260
+the initiative totals are ranked highest
+to lowest the character who rolled the
+
+82
+00:01:42,260 --> 00:01:42,270
+to lowest the character who rolled the
+ 
+
+83
+00:01:42,270 --> 00:01:44,840
+to lowest the character who rolled the
+highest gets to act first in each round
+
+84
+00:01:44,840 --> 00:01:44,850
+highest gets to act first in each round
+ 
+
+85
+00:01:44,850 --> 00:01:47,270
+highest gets to act first in each round
+and the person who rolled lowest acts
+
+86
+00:01:47,270 --> 00:01:47,280
+and the person who rolled lowest acts
+ 
+
+87
+00:01:47,280 --> 00:01:50,480
+and the person who rolled lowest acts
+last geum's may choose to roll
+
+88
+00:01:50,480 --> 00:01:50,490
+last geum's may choose to roll
+ 
+
+89
+00:01:50,490 --> 00:01:52,190
+last geum's may choose to roll
+initiative individually for each
+
+90
+00:01:52,190 --> 00:01:52,200
+initiative individually for each
+ 
+
+91
+00:01:52,200 --> 00:01:54,559
+initiative individually for each
+creature they control or they might
+
+92
+00:01:54,559 --> 00:01:54,569
+creature they control or they might
+ 
+
+93
+00:01:54,569 --> 00:01:56,300
+creature they control or they might
+choose to group certain creatures
+
+94
+00:01:56,300 --> 00:01:56,310
+choose to group certain creatures
+ 
+
+95
+00:01:56,310 --> 00:01:59,149
+choose to group certain creatures
+together for example if the players are
+
+96
+00:01:59,149 --> 00:01:59,159
+together for example if the players are
+ 
+
+97
+00:01:59,159 --> 00:02:02,180
+together for example if the players are
+fighting a bugbear in three goblins it
+
+98
+00:02:02,180 --> 00:02:02,190
+fighting a bugbear in three goblins it
+ 
+
+99
+00:02:02,190 --> 00:02:04,460
+fighting a bugbear in three goblins it
+might be easiest for the GM to have the
+
+100
+00:02:04,460 --> 00:02:04,470
+might be easiest for the GM to have the
+ 
+
+101
+00:02:04,470 --> 00:02:07,160
+might be easiest for the GM to have the
+bugbear act on its initiative and then
+
+102
+00:02:07,160 --> 00:02:07,170
+bugbear act on its initiative and then
+ 
+
+103
+00:02:07,170 --> 00:02:10,010
+bugbear act on its initiative and then
+roll initiative once for all of the
+
+104
+00:02:10,010 --> 00:02:10,020
+roll initiative once for all of the
+ 
+
+105
+00:02:10,020 --> 00:02:12,559
+roll initiative once for all of the
+other goblins acting together on their
+
+106
+00:02:12,559 --> 00:02:12,569
+other goblins acting together on their
+ 
+
+107
+00:02:12,569 --> 00:02:15,619
+other goblins acting together on their
+singular initiative total there is no
+
+108
+00:02:15,619 --> 00:02:15,629
+singular initiative total there is no
+ 
+
+109
+00:02:15,629 --> 00:02:18,229
+singular initiative total there is no
+right or wrong approach but I would
+
+110
+00:02:18,229 --> 00:02:18,239
+right or wrong approach but I would
+ 
+
+111
+00:02:18,239 --> 00:02:20,420
+right or wrong approach but I would
+caution GM's to not have too many
+
+112
+00:02:20,420 --> 00:02:20,430
+caution GM's to not have too many
+ 
+
+113
+00:02:20,430 --> 00:02:22,699
+caution GM's to not have too many
+enemies act on the same initiative
+
+114
+00:02:22,699 --> 00:02:22,709
+enemies act on the same initiative
+ 
+
+115
+00:02:22,709 --> 00:02:25,280
+enemies act on the same initiative
+number say for example the players are
+
+116
+00:02:25,280 --> 00:02:25,290
+number say for example the players are
+ 
+
+117
+00:02:25,290 --> 00:02:28,520
+number say for example the players are
+fighting 10 goblins rolling initiative
+
+118
+00:02:28,520 --> 00:02:28,530
+fighting 10 goblins rolling initiative
+ 
+
+119
+00:02:28,530 --> 00:02:31,850
+fighting 10 goblins rolling initiative
+once in having all 10 goblins act at the
+
+120
+00:02:31,850 --> 00:02:31,860
+once in having all 10 goblins act at the
+ 
+
+121
+00:02:31,860 --> 00:02:35,240
+once in having all 10 goblins act at the
+same time can be pretty brutal as the
+
+122
+00:02:35,240 --> 00:02:35,250
+same time can be pretty brutal as the
+ 
+
+123
+00:02:35,250 --> 00:02:37,670
+same time can be pretty brutal as the
+players will have to weather 30 actions
+
+124
+00:02:37,670 --> 00:02:37,680
+players will have to weather 30 actions
+ 
+
+125
+00:02:37,680 --> 00:02:39,830
+players will have to weather 30 actions
+before they have a chance to heal or
+
+126
+00:02:39,830 --> 00:02:39,840
+before they have a chance to heal or
+ 
+
+127
+00:02:39,840 --> 00:02:42,680
+before they have a chance to heal or
+take some other defense with a group
+
+128
+00:02:42,680 --> 00:02:42,690
+take some other defense with a group
+ 
+
+129
+00:02:42,690 --> 00:02:44,720
+take some other defense with a group
+that large you might want to break it up
+
+130
+00:02:44,720 --> 00:02:44,730
+that large you might want to break it up
+ 
+
+131
+00:02:44,730 --> 00:02:48,470
+that large you might want to break it up
+into say 2 groups of 5 or maybe break it
+
+132
+00:02:48,470 --> 00:02:48,480
+into say 2 groups of 5 or maybe break it
+ 
+
+133
+00:02:48,480 --> 00:02:51,110
+into say 2 groups of 5 or maybe break it
+up as 2 groups of 3 and one group of 4
+
+134
+00:02:51,110 --> 00:02:51,120
+up as 2 groups of 3 and one group of 4
+ 
+
+135
+00:02:51,120 --> 00:02:53,839
+up as 2 groups of 3 and one group of 4
+as opposed to having all 10 act at the
+
+136
+00:02:53,839 --> 00:02:53,849
+as opposed to having all 10 act at the
+ 
+
+137
+00:02:53,849 --> 00:02:55,430
+as opposed to having all 10 act at the
+same time
+
+138
+00:02:55,430 --> 00:02:55,440
+same time
+ 
+
+139
+00:02:55,440 --> 00:02:58,160
+same time
+in case of a tie between a player and a
+
+140
+00:02:58,160 --> 00:02:58,170
+in case of a tie between a player and a
+ 
+
+141
+00:02:58,170 --> 00:02:59,930
+in case of a tie between a player and a
+creature that's controlled by the GM the
+
+142
+00:02:59,930 --> 00:02:59,940
+creature that's controlled by the GM the
+ 
+
+143
+00:02:59,940 --> 00:03:03,380
+creature that's controlled by the GM the
+GM wins that tie and the creature is
+
+144
+00:03:03,380 --> 00:03:03,390
+GM wins that tie and the creature is
+ 
+
+145
+00:03:03,390 --> 00:03:05,120
+GM wins that tie and the creature is
+slotted in to initiative ahead of that
+
+146
+00:03:05,120 --> 00:03:05,130
+slotted in to initiative ahead of that
+ 
+
+147
+00:03:05,130 --> 00:03:07,640
+slotted in to initiative ahead of that
+player in case of a tie between two
+
+148
+00:03:07,640 --> 00:03:07,650
+player in case of a tie between two
+ 
+
+149
+00:03:07,650 --> 00:03:10,160
+player in case of a tie between two
+players then those players get to decide
+
+150
+00:03:10,160 --> 00:03:10,170
+players then those players get to decide
+ 
+
+151
+00:03:10,170 --> 00:03:11,780
+players then those players get to decide
+between them which of them will act
+
+152
+00:03:11,780 --> 00:03:11,790
+between them which of them will act
+ 
+
+153
+00:03:11,790 --> 00:03:15,089
+between them which of them will act
+first in the initiative order
+
+154
+00:03:15,089 --> 00:03:15,099
+first in the initiative order
+ 
+
+155
+00:03:15,099 --> 00:03:17,039
+first in the initiative order
+the second major difference between
+
+156
+00:03:17,039 --> 00:03:17,049
+the second major difference between
+ 
+
+157
+00:03:17,049 --> 00:03:19,199
+the second major difference between
+initiative checks and other chicks in
+
+158
+00:03:19,199 --> 00:03:19,209
+initiative checks and other chicks in
+ 
+
+159
+00:03:19,209 --> 00:03:21,619
+initiative checks and other chicks in
+the game is there is no definitive
+
+160
+00:03:21,619 --> 00:03:21,629
+the game is there is no definitive
+ 
+
+161
+00:03:21,629 --> 00:03:24,539
+the game is there is no definitive
+initiative bonus and this can really
+
+162
+00:03:24,539 --> 00:03:24,549
+initiative bonus and this can really
+ 
+
+163
+00:03:24,549 --> 00:03:26,429
+initiative bonus and this can really
+throw off some experienced players
+
+164
+00:03:26,429 --> 00:03:26,439
+throw off some experienced players
+ 
+
+165
+00:03:26,439 --> 00:03:28,379
+throw off some experienced players
+especially if they played first edition
+
+166
+00:03:28,379 --> 00:03:28,389
+especially if they played first edition
+ 
+
+167
+00:03:28,389 --> 00:03:31,830
+especially if they played first edition
+in Pathfinder second edition what bonus
+
+168
+00:03:31,830 --> 00:03:31,840
+in Pathfinder second edition what bonus
+ 
+
+169
+00:03:31,840 --> 00:03:34,199
+in Pathfinder second edition what bonus
+you roll for your initiative is based on
+
+170
+00:03:34,199 --> 00:03:34,209
+you roll for your initiative is based on
+ 
+
+171
+00:03:34,209 --> 00:03:36,330
+you roll for your initiative is based on
+what you were doing at the time that the
+
+172
+00:03:36,330 --> 00:03:36,340
+what you were doing at the time that the
+ 
+
+173
+00:03:36,340 --> 00:03:39,059
+what you were doing at the time that the
+GM calls for the initiative check by
+
+174
+00:03:39,059 --> 00:03:39,069
+GM calls for the initiative check by
+ 
+
+175
+00:03:39,069 --> 00:03:41,759
+GM calls for the initiative check by
+default initiative is based on how soon
+
+176
+00:03:41,759 --> 00:03:41,769
+default initiative is based on how soon
+ 
+
+177
+00:03:41,769 --> 00:03:45,239
+default initiative is based on how soon
+you recognize danger not on how fast you
+
+178
+00:03:45,239 --> 00:03:45,249
+you recognize danger not on how fast you
+ 
+
+179
+00:03:45,249 --> 00:03:47,369
+you recognize danger not on how fast you
+can draw a sword and therefore
+
+180
+00:03:47,369 --> 00:03:47,379
+can draw a sword and therefore
+ 
+
+181
+00:03:47,379 --> 00:03:50,099
+can draw a sword and therefore
+perception checks are usually rolled for
+
+182
+00:03:50,099 --> 00:03:50,109
+perception checks are usually rolled for
+ 
+
+183
+00:03:50,109 --> 00:03:52,770
+perception checks are usually rolled for
+initiative but there will be times from
+
+184
+00:03:52,770 --> 00:03:52,780
+initiative but there will be times from
+ 
+
+185
+00:03:52,780 --> 00:03:54,959
+initiative but there will be times from
+the GM might call for a different check
+
+186
+00:03:54,959 --> 00:03:54,969
+the GM might call for a different check
+ 
+
+187
+00:03:54,969 --> 00:03:58,559
+the GM might call for a different check
+to be made so here are a few examples
+
+188
+00:03:58,559 --> 00:03:58,569
+to be made so here are a few examples
+ 
+
+189
+00:03:58,569 --> 00:04:01,830
+to be made so here are a few examples
+from the court rulebook when sneaking or
+
+190
+00:04:01,830 --> 00:04:01,840
+from the court rulebook when sneaking or
+ 
+
+191
+00:04:01,840 --> 00:04:04,170
+from the court rulebook when sneaking or
+using the avoid notice exploration
+
+192
+00:04:04,170 --> 00:04:04,180
+using the avoid notice exploration
+ 
+
+193
+00:04:04,180 --> 00:04:06,179
+using the avoid notice exploration
+activity you would likely use your
+
+194
+00:04:06,179 --> 00:04:06,189
+activity you would likely use your
+ 
+
+195
+00:04:06,189 --> 00:04:09,379
+activity you would likely use your
+stealth skill for your initiative
+
+196
+00:04:09,379 --> 00:04:09,389
+stealth skill for your initiative
+ 
+
+197
+00:04:09,389 --> 00:04:12,030
+stealth skill for your initiative
+another example might be a character is
+
+198
+00:04:12,030 --> 00:04:12,040
+another example might be a character is
+ 
+
+199
+00:04:12,040 --> 00:04:14,729
+another example might be a character is
+negotiating with a cobalt King and then
+
+200
+00:04:14,729 --> 00:04:14,739
+negotiating with a cobalt King and then
+ 
+
+201
+00:04:14,739 --> 00:04:17,310
+negotiating with a cobalt King and then
+decides to suddenly attack them that
+
+202
+00:04:17,310 --> 00:04:17,320
+decides to suddenly attack them that
+ 
+
+203
+00:04:17,320 --> 00:04:19,920
+decides to suddenly attack them that
+character might role deception as their
+
+204
+00:04:19,920 --> 00:04:19,930
+character might role deception as their
+ 
+
+205
+00:04:19,930 --> 00:04:21,960
+character might role deception as their
+initiative while the rest of the party
+
+206
+00:04:21,960 --> 00:04:21,970
+initiative while the rest of the party
+ 
+
+207
+00:04:21,970 --> 00:04:24,240
+initiative while the rest of the party
+who might also be caught off-guard by
+
+208
+00:04:24,240 --> 00:04:24,250
+who might also be caught off-guard by
+ 
+
+209
+00:04:24,250 --> 00:04:26,370
+who might also be caught off-guard by
+this sudden attack they would each role
+
+210
+00:04:26,370 --> 00:04:26,380
+this sudden attack they would each role
+ 
+
+211
+00:04:26,380 --> 00:04:28,230
+this sudden attack they would each role
+perception
+
+212
+00:04:28,230 --> 00:04:28,240
+perception
+ 
+
+213
+00:04:28,240 --> 00:04:30,510
+perception
+if combat begins with a character
+
+214
+00:04:30,510 --> 00:04:30,520
+if combat begins with a character
+ 
+
+215
+00:04:30,520 --> 00:04:32,490
+if combat begins with a character
+surprising her foes by dropping down
+
+216
+00:04:32,490 --> 00:04:32,500
+surprising her foes by dropping down
+ 
+
+217
+00:04:32,500 --> 00:04:35,370
+surprising her foes by dropping down
+from a chandelier on top of them then
+
+218
+00:04:35,370 --> 00:04:35,380
+from a chandelier on top of them then
+ 
+
+219
+00:04:35,380 --> 00:04:37,439
+from a chandelier on top of them then
+she might roll acrobatics as her
+
+220
+00:04:37,439 --> 00:04:37,449
+she might roll acrobatics as her
+ 
+
+221
+00:04:37,449 --> 00:04:40,920
+she might roll acrobatics as her
+initiative and if a player agrees to
+
+222
+00:04:40,920 --> 00:04:40,930
+initiative and if a player agrees to
+ 
+
+223
+00:04:40,930 --> 00:04:42,809
+initiative and if a player agrees to
+have a friendly wrestling match with an
+
+224
+00:04:42,809 --> 00:04:42,819
+have a friendly wrestling match with an
+ 
+
+225
+00:04:42,819 --> 00:04:46,200
+have a friendly wrestling match with an
+NPC they might roll their athletic skill
+
+226
+00:04:46,200 --> 00:04:46,210
+NPC they might roll their athletic skill
+ 
+
+227
+00:04:46,210 --> 00:04:49,499
+NPC they might roll their athletic skill
+as their initiative check the rule of
+
+228
+00:04:49,499 --> 00:04:49,509
+as their initiative check the rule of
+ 
+
+229
+00:04:49,509 --> 00:04:51,870
+as their initiative check the rule of
+thumb is to roll whatever is the most
+
+230
+00:04:51,870 --> 00:04:51,880
+thumb is to roll whatever is the most
+ 
+
+231
+00:04:51,880 --> 00:04:54,990
+thumb is to roll whatever is the most
+obvious choice if the character sneaking
+
+232
+00:04:54,990 --> 00:04:55,000
+obvious choice if the character sneaking
+ 
+
+233
+00:04:55,000 --> 00:04:56,760
+obvious choice if the character sneaking
+they use their stealth total for
+
+234
+00:04:56,760 --> 00:04:56,770
+they use their stealth total for
+ 
+
+235
+00:04:56,770 --> 00:04:59,189
+they use their stealth total for
+initiative if the character starts a
+
+236
+00:04:59,189 --> 00:04:59,199
+initiative if the character starts a
+ 
+
+237
+00:04:59,199 --> 00:05:01,320
+initiative if the character starts a
+fight by sucker punching someone then
+
+238
+00:05:01,320 --> 00:05:01,330
+fight by sucker punching someone then
+ 
+
+239
+00:05:01,330 --> 00:05:03,930
+fight by sucker punching someone then
+they would roll deception but in most
+
+240
+00:05:03,930 --> 00:05:03,940
+they would roll deception but in most
+ 
+
+241
+00:05:03,940 --> 00:05:06,930
+they would roll deception but in most
+cases a perception check is what you
+
+242
+00:05:06,930 --> 00:05:06,940
+cases a perception check is what you
+ 
+
+243
+00:05:06,940 --> 00:05:09,730
+cases a perception check is what you
+will roll for initiative
+
+244
+00:05:09,730 --> 00:05:09,740
+will roll for initiative
+ 
+
+245
+00:05:09,740 --> 00:05:12,040
+will roll for initiative
+let's look at an example of how this
+
+246
+00:05:12,040 --> 00:05:12,050
+let's look at an example of how this
+ 
+
+247
+00:05:12,050 --> 00:05:14,860
+let's look at an example of how this
+might work and I should mention up front
+
+248
+00:05:14,860 --> 00:05:14,870
+might work and I should mention up front
+ 
+
+249
+00:05:14,870 --> 00:05:16,780
+might work and I should mention up front
+that I'm going to be speaking in
+
+250
+00:05:16,780 --> 00:05:16,790
+that I'm going to be speaking in
+ 
+
+251
+00:05:16,790 --> 00:05:19,510
+that I'm going to be speaking in
+generalities and not going into some
+
+252
+00:05:19,510 --> 00:05:19,520
+generalities and not going into some
+ 
+
+253
+00:05:19,520 --> 00:05:21,930
+generalities and not going into some
+details of exploration mode and
+
+254
+00:05:21,930 --> 00:05:21,940
+details of exploration mode and
+ 
+
+255
+00:05:21,940 --> 00:05:25,300
+details of exploration mode and
+exploration activities as those topics
+
+256
+00:05:25,300 --> 00:05:25,310
+exploration activities as those topics
+ 
+
+257
+00:05:25,310 --> 00:05:27,150
+exploration activities as those topics
+will be covered in a future course in
+
+258
+00:05:27,150 --> 00:05:27,160
+will be covered in a future course in
+ 
+
+259
+00:05:27,160 --> 00:05:30,250
+will be covered in a future course in
+this example we have a Zirin lynnie and
+
+260
+00:05:30,250 --> 00:05:30,260
+this example we have a Zirin lynnie and
+ 
+
+261
+00:05:30,260 --> 00:05:32,680
+this example we have a Zirin lynnie and
+Mauricio they are brand new first level
+
+262
+00:05:32,680 --> 00:05:32,690
+Mauricio they are brand new first level
+ 
+
+263
+00:05:32,690 --> 00:05:34,330
+Mauricio they are brand new first level
+adventurers and they're traveling down
+
+264
+00:05:34,330 --> 00:05:34,340
+adventurers and they're traveling down
+ 
+
+265
+00:05:34,340 --> 00:05:37,210
+adventurers and they're traveling down
+the road their GM asks each player to
+
+266
+00:05:37,210 --> 00:05:37,220
+the road their GM asks each player to
+ 
+
+267
+00:05:37,220 --> 00:05:39,340
+the road their GM asks each player to
+describe what they are doing as they
+
+268
+00:05:39,340 --> 00:05:39,350
+describe what they are doing as they
+ 
+
+269
+00:05:39,350 --> 00:05:40,080
+describe what they are doing as they
+travel
+
+270
+00:05:40,080 --> 00:05:40,090
+travel
+ 
+
+271
+00:05:40,090 --> 00:05:42,340
+travel
+Ezrin reminds the other players that
+
+272
+00:05:42,340 --> 00:05:42,350
+Ezrin reminds the other players that
+ 
+
+273
+00:05:42,350 --> 00:05:44,620
+Ezrin reminds the other players that
+town folk warned them that this stretch
+
+274
+00:05:44,620 --> 00:05:44,630
+town folk warned them that this stretch
+ 
+
+275
+00:05:44,630 --> 00:05:47,470
+town folk warned them that this stretch
+of road is popular with bandits so they
+
+276
+00:05:47,470 --> 00:05:47,480
+of road is popular with bandits so they
+ 
+
+277
+00:05:47,480 --> 00:05:50,590
+of road is popular with bandits so they
+should be alert as they travel Mauricio
+
+278
+00:05:50,590 --> 00:05:50,600
+should be alert as they travel Mauricio
+ 
+
+279
+00:05:50,600 --> 00:05:52,240
+should be alert as they travel Mauricio
+agrees and says she'll be keeping a
+
+280
+00:05:52,240 --> 00:05:52,250
+agrees and says she'll be keeping a
+ 
+
+281
+00:05:52,250 --> 00:05:54,610
+agrees and says she'll be keeping a
+watchful eye out for danger and liddy
+
+282
+00:05:54,610 --> 00:05:54,620
+watchful eye out for danger and liddy
+ 
+
+283
+00:05:54,620 --> 00:05:56,710
+watchful eye out for danger and liddy
+says that she's examining the forest
+
+284
+00:05:56,710 --> 00:05:56,720
+says that she's examining the forest
+ 
+
+285
+00:05:56,720 --> 00:05:58,900
+says that she's examining the forest
+around them as they walk to see if she
+
+286
+00:05:58,900 --> 00:05:58,910
+around them as they walk to see if she
+ 
+
+287
+00:05:58,910 --> 00:06:03,250
+around them as they walk to see if she
+spots anything unusual in the woods they
+
+288
+00:06:03,250 --> 00:06:03,260
+spots anything unusual in the woods they
+ 
+
+289
+00:06:03,260 --> 00:06:05,740
+spots anything unusual in the woods they
+come upon four goblins blocking the road
+
+290
+00:06:05,740 --> 00:06:05,750
+come upon four goblins blocking the road
+ 
+
+291
+00:06:05,750 --> 00:06:07,690
+come upon four goblins blocking the road
+demanding that the players pay at all
+
+292
+00:06:07,690 --> 00:06:07,700
+demanding that the players pay at all
+ 
+
+293
+00:06:07,700 --> 00:06:10,570
+demanding that the players pay at all
+before they can pass instead the players
+
+294
+00:06:10,570 --> 00:06:10,580
+before they can pass instead the players
+ 
+
+295
+00:06:10,580 --> 00:06:12,910
+before they can pass instead the players
+decide to draw their weapons and the GM
+
+296
+00:06:12,910 --> 00:06:12,920
+decide to draw their weapons and the GM
+ 
+
+297
+00:06:12,920 --> 00:06:16,000
+decide to draw their weapons and the GM
+calls for initiative to be rolled since
+
+298
+00:06:16,000 --> 00:06:16,010
+calls for initiative to be rolled since
+ 
+
+299
+00:06:16,010 --> 00:06:18,370
+calls for initiative to be rolled since
+everyone is out in the open this is
+
+300
+00:06:18,370 --> 00:06:18,380
+everyone is out in the open this is
+ 
+
+301
+00:06:18,380 --> 00:06:20,740
+everyone is out in the open this is
+going to be a fairly standard encounter
+
+302
+00:06:20,740 --> 00:06:20,750
+going to be a fairly standard encounter
+ 
+
+303
+00:06:20,750 --> 00:06:23,770
+going to be a fairly standard encounter
+all participants are all perception as
+
+304
+00:06:23,770 --> 00:06:23,780
+all participants are all perception as
+ 
+
+305
+00:06:23,780 --> 00:06:26,980
+all participants are all perception as
+their initiative bonus the goblins have
+
+306
+00:06:26,980 --> 00:06:26,990
+their initiative bonus the goblins have
+ 
+
+307
+00:06:26,990 --> 00:06:29,800
+their initiative bonus the goblins have
+perception bonuses of +2 and their
+
+308
+00:06:29,800 --> 00:06:29,810
+perception bonuses of +2 and their
+ 
+
+309
+00:06:29,810 --> 00:06:33,820
+perception bonuses of +2 and their
+totals are 21 for the first Goblin 12
+
+310
+00:06:33,820 --> 00:06:33,830
+totals are 21 for the first Goblin 12
+ 
+
+311
+00:06:33,830 --> 00:06:36,550
+totals are 21 for the first Goblin 12
+for the second goblin five for the third
+
+312
+00:06:36,550 --> 00:06:36,560
+for the second goblin five for the third
+ 
+
+313
+00:06:36,560 --> 00:06:39,570
+for the second goblin five for the third
+goblin and 9 for the fourth goblin and
+
+314
+00:06:39,570 --> 00:06:39,580
+goblin and 9 for the fourth goblin and
+ 
+
+315
+00:06:39,580 --> 00:06:41,350
+goblin and 9 for the fourth goblin and
+for the players
+
+316
+00:06:41,350 --> 00:06:41,360
+for the players
+ 
+
+317
+00:06:41,360 --> 00:06:45,040
+for the players
+lynnie gets a 24 Maurice your roles a 9
+
+318
+00:06:45,040 --> 00:06:45,050
+lynnie gets a 24 Maurice your roles a 9
+ 
+
+319
+00:06:45,050 --> 00:06:49,210
+lynnie gets a 24 Maurice your roles a 9
+and Ezrin also roles a 9 everyone is
+
+320
+00:06:49,210 --> 00:06:49,220
+and Ezrin also roles a 9 everyone is
+ 
+
+321
+00:06:49,220 --> 00:06:52,600
+and Ezrin also roles a 9 everyone is
+then sorted from highest to lowest but
+
+322
+00:06:52,600 --> 00:06:52,610
+then sorted from highest to lowest but
+ 
+
+323
+00:06:52,610 --> 00:06:54,940
+then sorted from highest to lowest but
+we see here that there is a three-way
+
+324
+00:06:54,940 --> 00:06:54,950
+we see here that there is a three-way
+ 
+
+325
+00:06:54,950 --> 00:06:59,050
+we see here that there is a three-way
+tie between goblin number 4 Mauricio and
+
+326
+00:06:59,050 --> 00:06:59,060
+tie between goblin number 4 Mauricio and
+ 
+
+327
+00:06:59,060 --> 00:07:02,260
+tie between goblin number 4 Mauricio and
+ezrin since they all scored a total of 9
+
+328
+00:07:02,260 --> 00:07:02,270
+ezrin since they all scored a total of 9
+ 
+
+329
+00:07:02,270 --> 00:07:04,750
+ezrin since they all scored a total of 9
+with her chicks in case of a tie
+
+330
+00:07:04,750 --> 00:07:04,760
+with her chicks in case of a tie
+ 
+
+331
+00:07:04,760 --> 00:07:07,750
+with her chicks in case of a tie
+creatures controlled by the GM win so
+
+332
+00:07:07,750 --> 00:07:07,760
+creatures controlled by the GM win so
+ 
+
+333
+00:07:07,760 --> 00:07:10,150
+creatures controlled by the GM win so
+the GM effectively changes goblin 4
+
+334
+00:07:10,150 --> 00:07:10,160
+the GM effectively changes goblin 4
+ 
+
+335
+00:07:10,160 --> 00:07:12,940
+the GM effectively changes goblin 4
+score to 11 and then Mauricio and
+
+336
+00:07:12,940 --> 00:07:12,950
+score to 11 and then Mauricio and
+ 
+
+337
+00:07:12,950 --> 00:07:15,220
+score to 11 and then Mauricio and
+ezrin's players decide amongst
+
+338
+00:07:15,220 --> 00:07:15,230
+ezrin's players decide amongst
+ 
+
+339
+00:07:15,230 --> 00:07:17,260
+ezrin's players decide amongst
+themselves who should go first between
+
+340
+00:07:17,260 --> 00:07:17,270
+themselves who should go first between
+ 
+
+341
+00:07:17,270 --> 00:07:20,470
+themselves who should go first between
+them although there are no official tie
+
+342
+00:07:20,470 --> 00:07:20,480
+them although there are no official tie
+ 
+
+343
+00:07:20,480 --> 00:07:22,900
+them although there are no official tie
+breakers they decide that Mauricio
+
+344
+00:07:22,900 --> 00:07:22,910
+breakers they decide that Mauricio
+ 
+
+345
+00:07:22,910 --> 00:07:23,500
+breakers they decide that Mauricio
+should go
+
+346
+00:07:23,500 --> 00:07:23,510
+should go
+ 
+
+347
+00:07:23,510 --> 00:07:25,600
+should go
+first since her perception bonus is
+
+348
+00:07:25,600 --> 00:07:25,610
+first since her perception bonus is
+ 
+
+349
+00:07:25,610 --> 00:07:28,210
+first since her perception bonus is
+higher than ezrin's so the GM changes
+
+350
+00:07:28,210 --> 00:07:28,220
+higher than ezrin's so the GM changes
+ 
+
+351
+00:07:28,220 --> 00:07:32,230
+higher than ezrin's so the GM changes
+her score to ten from here combat begins
+
+352
+00:07:32,230 --> 00:07:32,240
+her score to ten from here combat begins
+ 
+
+353
+00:07:32,240 --> 00:07:35,680
+her score to ten from here combat begins
+with characters acting in this order now
+
+354
+00:07:35,680 --> 00:07:35,690
+with characters acting in this order now
+ 
+
+355
+00:07:35,690 --> 00:07:39,040
+with characters acting in this order now
+this example was clean and simple and I
+
+356
+00:07:39,040 --> 00:07:39,050
+this example was clean and simple and I
+ 
+
+357
+00:07:39,050 --> 00:07:41,440
+this example was clean and simple and I
+really want to stress that in the vast
+
+358
+00:07:41,440 --> 00:07:41,450
+really want to stress that in the vast
+ 
+
+359
+00:07:41,450 --> 00:07:44,050
+really want to stress that in the vast
+majority of my experiences initiative
+
+360
+00:07:44,050 --> 00:07:44,060
+majority of my experiences initiative
+ 
+
+361
+00:07:44,060 --> 00:07:47,590
+majority of my experiences initiative
+really is this easy to figure out but
+
+362
+00:07:47,590 --> 00:07:47,600
+really is this easy to figure out but
+ 
+
+363
+00:07:47,600 --> 00:07:51,040
+really is this easy to figure out but
+things do become far more tricky when
+
+364
+00:07:51,040 --> 00:07:51,050
+things do become far more tricky when
+ 
+
+365
+00:07:51,050 --> 00:07:53,800
+things do become far more tricky when
+one group doesn't know the other group
+
+366
+00:07:53,800 --> 00:07:53,810
+one group doesn't know the other group
+ 
+
+367
+00:07:53,810 --> 00:07:57,130
+one group doesn't know the other group
+is hiding nearby
+
+368
+00:07:57,130 --> 00:07:57,140
+
+ 
+
+369
+00:07:57,140 --> 00:08:00,010
+
+so let's look at this example again but
+
+370
+00:08:00,010 --> 00:08:00,020
+so let's look at this example again but
+ 
+
+371
+00:08:00,020 --> 00:08:02,260
+so let's look at this example again but
+this time the goblins aren't standing in
+
+372
+00:08:02,260 --> 00:08:02,270
+this time the goblins aren't standing in
+ 
+
+373
+00:08:02,270 --> 00:08:04,570
+this time the goblins aren't standing in
+the open and having a dialogue with the
+
+374
+00:08:04,570 --> 00:08:04,580
+the open and having a dialogue with the
+ 
+
+375
+00:08:04,580 --> 00:08:07,210
+the open and having a dialogue with the
+players instead they're hiding in some
+
+376
+00:08:07,210 --> 00:08:07,220
+players instead they're hiding in some
+ 
+
+377
+00:08:07,220 --> 00:08:09,490
+players instead they're hiding in some
+brush we're going to look at a few
+
+378
+00:08:09,490 --> 00:08:09,500
+brush we're going to look at a few
+ 
+
+379
+00:08:09,500 --> 00:08:11,950
+brush we're going to look at a few
+different examples all using this same
+
+380
+00:08:11,950 --> 00:08:11,960
+different examples all using this same
+ 
+
+381
+00:08:11,960 --> 00:08:14,830
+different examples all using this same
+basic scenario and I should mention that
+
+382
+00:08:14,830 --> 00:08:14,840
+basic scenario and I should mention that
+ 
+
+383
+00:08:14,840 --> 00:08:17,350
+basic scenario and I should mention that
+I will be using a map and tokens on the
+
+384
+00:08:17,350 --> 00:08:17,360
+I will be using a map and tokens on the
+ 
+
+385
+00:08:17,360 --> 00:08:19,870
+I will be using a map and tokens on the
+screen representing characters and this
+
+386
+00:08:19,870 --> 00:08:19,880
+screen representing characters and this
+ 
+
+387
+00:08:19,880 --> 00:08:21,760
+screen representing characters and this
+is done strictly for illustrative
+
+388
+00:08:21,760 --> 00:08:21,770
+is done strictly for illustrative
+ 
+
+389
+00:08:21,770 --> 00:08:25,060
+is done strictly for illustrative
+purposes and in an actual game as long
+
+390
+00:08:25,060 --> 00:08:25,070
+purposes and in an actual game as long
+ 
+
+391
+00:08:25,070 --> 00:08:27,550
+purposes and in an actual game as long
+as the players are in exploration mode
+
+392
+00:08:27,550 --> 00:08:27,560
+as the players are in exploration mode
+ 
+
+393
+00:08:27,560 --> 00:08:30,160
+as the players are in exploration mode
+and initiative hasn't been rode yet then
+
+394
+00:08:30,160 --> 00:08:30,170
+and initiative hasn't been rode yet then
+ 
+
+395
+00:08:30,170 --> 00:08:31,450
+and initiative hasn't been rode yet then
+there probably wouldn't be a need to
+
+396
+00:08:31,450 --> 00:08:31,460
+there probably wouldn't be a need to
+ 
+
+397
+00:08:31,460 --> 00:08:33,610
+there probably wouldn't be a need to
+actually have a physical map on the
+
+398
+00:08:33,610 --> 00:08:33,620
+actually have a physical map on the
+ 
+
+399
+00:08:33,620 --> 00:08:36,370
+actually have a physical map on the
+table and likewise the Goblin tokens
+
+400
+00:08:36,370 --> 00:08:36,380
+table and likewise the Goblin tokens
+ 
+
+401
+00:08:36,380 --> 00:08:38,500
+table and likewise the Goblin tokens
+wouldn't be on the table until they are
+
+402
+00:08:38,500 --> 00:08:38,510
+wouldn't be on the table until they are
+ 
+
+403
+00:08:38,510 --> 00:08:41,370
+wouldn't be on the table until they are
+actually being observed by a player in
+
+404
+00:08:41,370 --> 00:08:41,380
+actually being observed by a player in
+ 
+
+405
+00:08:41,380 --> 00:08:44,410
+actually being observed by a player in
+this example the goblins do not plan to
+
+406
+00:08:44,410 --> 00:08:44,420
+this example the goblins do not plan to
+ 
+
+407
+00:08:44,420 --> 00:08:47,140
+this example the goblins do not plan to
+attack the players and instead they wish
+
+408
+00:08:47,140 --> 00:08:47,150
+attack the players and instead they wish
+ 
+
+409
+00:08:47,150 --> 00:08:50,290
+attack the players and instead they wish
+to hide and let the players pass so that
+
+410
+00:08:50,290 --> 00:08:50,300
+to hide and let the players pass so that
+ 
+
+411
+00:08:50,300 --> 00:08:52,270
+to hide and let the players pass so that
+they can then sneak across the road
+
+412
+00:08:52,270 --> 00:08:52,280
+they can then sneak across the road
+ 
+
+413
+00:08:52,280 --> 00:08:55,810
+they can then sneak across the road
+without being detected when the PCs
+
+414
+00:08:55,810 --> 00:08:55,820
+without being detected when the PCs
+ 
+
+415
+00:08:55,820 --> 00:08:58,120
+without being detected when the PCs
+entered the general area of the goblins
+
+416
+00:08:58,120 --> 00:08:58,130
+entered the general area of the goblins
+ 
+
+417
+00:08:58,130 --> 00:09:00,430
+entered the general area of the goblins
+they are instantly observed by the
+
+418
+00:09:00,430 --> 00:09:00,440
+they are instantly observed by the
+ 
+
+419
+00:09:00,440 --> 00:09:03,310
+they are instantly observed by the
+goblins and the goblins start as both
+
+420
+00:09:03,310 --> 00:09:03,320
+goblins and the goblins start as both
+ 
+
+421
+00:09:03,320 --> 00:09:05,740
+goblins and the goblins start as both
+unnoticed and undetected by the players
+
+422
+00:09:05,740 --> 00:09:05,750
+unnoticed and undetected by the players
+ 
+
+423
+00:09:05,750 --> 00:09:08,500
+unnoticed and undetected by the players
+if you're not familiar with these terms
+
+424
+00:09:08,500 --> 00:09:08,510
+if you're not familiar with these terms
+ 
+
+425
+00:09:08,510 --> 00:09:10,750
+if you're not familiar with these terms
+I highly recommend you go watch our
+
+426
+00:09:10,750 --> 00:09:10,760
+I highly recommend you go watch our
+ 
+
+427
+00:09:10,760 --> 00:09:13,330
+I highly recommend you go watch our
+course on perception before you continue
+
+428
+00:09:13,330 --> 00:09:13,340
+course on perception before you continue
+ 
+
+429
+00:09:13,340 --> 00:09:16,930
+course on perception before you continue
+here the GM then role is a stealth skill
+
+430
+00:09:16,930 --> 00:09:16,940
+here the GM then role is a stealth skill
+ 
+
+431
+00:09:16,940 --> 00:09:19,840
+here the GM then role is a stealth skill
+check in secret for each goblin with a
+
+432
+00:09:19,840 --> 00:09:19,850
+check in secret for each goblin with a
+ 
+
+433
+00:09:19,850 --> 00:09:23,110
+check in secret for each goblin with a
++2 bonus for being in cover and then
+
+434
+00:09:23,110 --> 00:09:23,120
++2 bonus for being in cover and then
+ 
+
+435
+00:09:23,120 --> 00:09:26,050
++2 bonus for being in cover and then
+compares those totals to the perception
+
+436
+00:09:26,050 --> 00:09:26,060
+compares those totals to the perception
+ 
+
+437
+00:09:26,060 --> 00:09:29,710
+compares those totals to the perception
+DC of each player in fact the gia might
+
+438
+00:09:29,710 --> 00:09:29,720
+DC of each player in fact the gia might
+ 
+
+439
+00:09:29,720 --> 00:09:32,200
+DC of each player in fact the gia might
+want to go ahead and pre-roll those as
+
+440
+00:09:32,200 --> 00:09:32,210
+want to go ahead and pre-roll those as
+ 
+
+441
+00:09:32,210 --> 00:09:34,180
+want to go ahead and pre-roll those as
+part of their game preparation for that
+
+442
+00:09:34,180 --> 00:09:34,190
+part of their game preparation for that
+ 
+
+443
+00:09:34,190 --> 00:09:37,000
+part of their game preparation for that
+session and the fewer actual dice you
+
+444
+00:09:37,000 --> 00:09:37,010
+session and the fewer actual dice you
+ 
+
+445
+00:09:37,010 --> 00:09:39,310
+session and the fewer actual dice you
+need to roll in front of the players
+
+446
+00:09:39,310 --> 00:09:39,320
+need to roll in front of the players
+ 
+
+447
+00:09:39,320 --> 00:09:41,350
+need to roll in front of the players
+behind your screen is probably for the
+
+448
+00:09:41,350 --> 00:09:41,360
+behind your screen is probably for the
+ 
+
+449
+00:09:41,360 --> 00:09:44,110
+behind your screen is probably for the
+better the goblins role stealth checks
+
+450
+00:09:44,110 --> 00:09:44,120
+better the goblins role stealth checks
+ 
+
+451
+00:09:44,120 --> 00:09:46,480
+better the goblins role stealth checks
+plus two more because they have cover
+
+452
+00:09:46,480 --> 00:09:46,490
+plus two more because they have cover
+ 
+
+453
+00:09:46,490 --> 00:09:51,910
+plus two more because they have cover
+and they receive totals of 25 20 19 and
+
+454
+00:09:51,910 --> 00:09:51,920
+and they receive totals of 25 20 19 and
+ 
+
+455
+00:09:51,920 --> 00:09:55,960
+and they receive totals of 25 20 19 and
+17 these totals are then compared to the
+
+456
+00:09:55,960 --> 00:09:55,970
+17 these totals are then compared to the
+ 
+
+457
+00:09:55,970 --> 00:09:59,230
+17 these totals are then compared to the
+players perception DC's ezrin has a
+
+458
+00:09:59,230 --> 00:09:59,240
+players perception DC's ezrin has a
+ 
+
+459
+00:09:59,240 --> 00:10:02,320
+players perception DC's ezrin has a
+perception DC of 14 Linney's perception
+
+460
+00:10:02,320 --> 00:10:02,330
+perception DC of 14 Linney's perception
+ 
+
+461
+00:10:02,330 --> 00:10:05,890
+perception DC of 14 Linney's perception
+DC is 17 and Mauricio has a perception
+
+462
+00:10:05,890 --> 00:10:05,900
+DC is 17 and Mauricio has a perception
+ 
+
+463
+00:10:05,900 --> 00:10:07,870
+DC is 17 and Mauricio has a perception
+DC of 16
+
+464
+00:10:07,870 --> 00:10:07,880
+DC of 16
+ 
+
+465
+00:10:07,880 --> 00:10:10,660
+DC of 16
+because the goblins are the ones rolling
+
+466
+00:10:10,660 --> 00:10:10,670
+because the goblins are the ones rolling
+ 
+
+467
+00:10:10,670 --> 00:10:13,650
+because the goblins are the ones rolling
+here the only need to meet or beat
+
+468
+00:10:13,650 --> 00:10:13,660
+here the only need to meet or beat
+ 
+
+469
+00:10:13,660 --> 00:10:17,350
+here the only need to meet or beat
+Linney's perception DC of 17 in order to
+
+470
+00:10:17,350 --> 00:10:17,360
+Linney's perception DC of 17 in order to
+ 
+
+471
+00:10:17,360 --> 00:10:21,460
+Linney's perception DC of 17 in order to
+succeed so goblin number 4 does win the
+
+472
+00:10:21,460 --> 00:10:21,470
+succeed so goblin number 4 does win the
+ 
+
+473
+00:10:21,470 --> 00:10:24,819
+succeed so goblin number 4 does win the
+tie with a stealth check of 17 and all
+
+474
+00:10:24,819 --> 00:10:24,829
+tie with a stealth check of 17 and all
+ 
+
+475
+00:10:24,829 --> 00:10:26,769
+tie with a stealth check of 17 and all
+four goblins succeed on their stealth
+
+476
+00:10:26,769 --> 00:10:26,779
+four goblins succeed on their stealth
+ 
+
+477
+00:10:26,779 --> 00:10:30,790
+four goblins succeed on their stealth
+checks so in this scenario all heroes
+
+478
+00:10:30,790 --> 00:10:30,800
+checks so in this scenario all heroes
+ 
+
+479
+00:10:30,800 --> 00:10:33,639
+checks so in this scenario all heroes
+walk right past the goblins without ever
+
+480
+00:10:33,639 --> 00:10:33,649
+walk right past the goblins without ever
+ 
+
+481
+00:10:33,649 --> 00:10:36,519
+walk right past the goblins without ever
+noticing them because the goblins do not
+
+482
+00:10:36,519 --> 00:10:36,529
+noticing them because the goblins do not
+ 
+
+483
+00:10:36,529 --> 00:10:39,009
+noticing them because the goblins do not
+plan to confront the characters there is
+
+484
+00:10:39,009 --> 00:10:39,019
+plan to confront the characters there is
+ 
+
+485
+00:10:39,019 --> 00:10:41,499
+plan to confront the characters there is
+no need to call for initiative or even
+
+486
+00:10:41,499 --> 00:10:41,509
+no need to call for initiative or even
+ 
+
+487
+00:10:41,509 --> 00:10:43,900
+no need to call for initiative or even
+put a map on the table this is no
+
+488
+00:10:43,900 --> 00:10:43,910
+put a map on the table this is no
+ 
+
+489
+00:10:43,910 --> 00:10:46,240
+put a map on the table this is no
+different than when players try to sneak
+
+490
+00:10:46,240 --> 00:10:46,250
+different than when players try to sneak
+ 
+
+491
+00:10:46,250 --> 00:10:49,300
+different than when players try to sneak
+past opponents there is no conflict here
+
+492
+00:10:49,300 --> 00:10:49,310
+past opponents there is no conflict here
+ 
+
+493
+00:10:49,310 --> 00:10:52,059
+past opponents there is no conflict here
+and that means there's no need to call
+
+494
+00:10:52,059 --> 00:10:52,069
+and that means there's no need to call
+ 
+
+495
+00:10:52,069 --> 00:10:55,389
+and that means there's no need to call
+for initiative to be enrolled now let's
+
+496
+00:10:55,389 --> 00:10:55,399
+for initiative to be enrolled now let's
+ 
+
+497
+00:10:55,399 --> 00:10:57,550
+for initiative to be enrolled now let's
+see how this might be different if the
+
+498
+00:10:57,550 --> 00:10:57,560
+see how this might be different if the
+ 
+
+499
+00:10:57,560 --> 00:10:59,740
+see how this might be different if the
+goblins didn't want to sneak across the
+
+500
+00:10:59,740 --> 00:10:59,750
+goblins didn't want to sneak across the
+ 
+
+501
+00:10:59,750 --> 00:11:02,290
+goblins didn't want to sneak across the
+road and instead wish to ambush the
+
+502
+00:11:02,290 --> 00:11:02,300
+road and instead wish to ambush the
+ 
+
+503
+00:11:02,300 --> 00:11:06,160
+road and instead wish to ambush the
+players in attack this is the exact same
+
+504
+00:11:06,160 --> 00:11:06,170
+players in attack this is the exact same
+ 
+
+505
+00:11:06,170 --> 00:11:08,590
+players in attack this is the exact same
+scenario as before when the players
+
+506
+00:11:08,590 --> 00:11:08,600
+scenario as before when the players
+ 
+
+507
+00:11:08,600 --> 00:11:10,569
+scenario as before when the players
+enter the general area of the hiding
+
+508
+00:11:10,569 --> 00:11:10,579
+enter the general area of the hiding
+ 
+
+509
+00:11:10,579 --> 00:11:13,090
+enter the general area of the hiding
+goblins they are instantly observed by
+
+510
+00:11:13,090 --> 00:11:13,100
+goblins they are instantly observed by
+ 
+
+511
+00:11:13,100 --> 00:11:15,129
+goblins they are instantly observed by
+the goblins and the goblins are both
+
+512
+00:11:15,129 --> 00:11:15,139
+the goblins and the goblins are both
+ 
+
+513
+00:11:15,139 --> 00:11:18,910
+the goblins and the goblins are both
+unnoticed and undetected by them the GM
+
+514
+00:11:18,910 --> 00:11:18,920
+unnoticed and undetected by them the GM
+ 
+
+515
+00:11:18,920 --> 00:11:20,949
+unnoticed and undetected by them the GM
+rolls a stealth check and secret for
+
+516
+00:11:20,949 --> 00:11:20,959
+rolls a stealth check and secret for
+ 
+
+517
+00:11:20,959 --> 00:11:23,110
+rolls a stealth check and secret for
+each of the goblins and compares the
+
+518
+00:11:23,110 --> 00:11:23,120
+each of the goblins and compares the
+ 
+
+519
+00:11:23,120 --> 00:11:25,150
+each of the goblins and compares the
+totals to the perception DC of each
+
+520
+00:11:25,150 --> 00:11:25,160
+totals to the perception DC of each
+ 
+
+521
+00:11:25,160 --> 00:11:28,480
+totals to the perception DC of each
+player will keep the same roles that we
+
+522
+00:11:28,480 --> 00:11:28,490
+player will keep the same roles that we
+ 
+
+523
+00:11:28,490 --> 00:11:30,490
+player will keep the same roles that we
+had in the previous example so the
+
+524
+00:11:30,490 --> 00:11:30,500
+had in the previous example so the
+ 
+
+525
+00:11:30,500 --> 00:11:33,009
+had in the previous example so the
+goblins succeed their checks and the
+
+526
+00:11:33,009 --> 00:11:33,019
+goblins succeed their checks and the
+ 
+
+527
+00:11:33,019 --> 00:11:35,019
+goblins succeed their checks and the
+players are blissfully unaware that
+
+528
+00:11:35,019 --> 00:11:35,029
+players are blissfully unaware that
+ 
+
+529
+00:11:35,029 --> 00:11:36,970
+players are blissfully unaware that
+there are any goblins nearby in the
+
+530
+00:11:36,970 --> 00:11:36,980
+there are any goblins nearby in the
+ 
+
+531
+00:11:36,980 --> 00:11:39,460
+there are any goblins nearby in the
+woods the key difference this time
+
+532
+00:11:39,460 --> 00:11:39,470
+woods the key difference this time
+ 
+
+533
+00:11:39,470 --> 00:11:42,370
+woods the key difference this time
+however is the goblins wish to ambush
+
+534
+00:11:42,370 --> 00:11:42,380
+however is the goblins wish to ambush
+ 
+
+535
+00:11:42,380 --> 00:11:42,850
+however is the goblins wish to ambush
+them
+
+536
+00:11:42,850 --> 00:11:42,860
+them
+ 
+
+537
+00:11:42,860 --> 00:11:46,420
+them
+so as the players move up and closer to
+
+538
+00:11:46,420 --> 00:11:46,430
+so as the players move up and closer to
+ 
+
+539
+00:11:46,430 --> 00:11:49,150
+so as the players move up and closer to
+them it becomes time to roll Rick a roll
+
+540
+00:11:49,150 --> 00:11:49,160
+them it becomes time to roll Rick a roll
+ 
+
+541
+00:11:49,160 --> 00:11:50,429
+them it becomes time to roll Rick a roll
+for initiative
+
+542
+00:11:50,429 --> 00:11:50,439
+for initiative
+ 
+
+543
+00:11:50,439 --> 00:11:52,749
+for initiative
+Ezrin and marissa overall perception
+
+544
+00:11:52,749 --> 00:11:52,759
+Ezrin and marissa overall perception
+ 
+
+545
+00:11:52,759 --> 00:11:55,449
+Ezrin and marissa overall perception
+checks while the GM gives Linney the
+
+546
+00:11:55,449 --> 00:11:55,459
+checks while the GM gives Linney the
+ 
+
+547
+00:11:55,459 --> 00:11:58,389
+checks while the GM gives Linney the
+choice of either rolling her perception
+
+548
+00:11:58,389 --> 00:11:58,399
+choice of either rolling her perception
+ 
+
+549
+00:11:58,399 --> 00:12:01,150
+choice of either rolling her perception
+or her nature skill since she
+
+550
+00:12:01,150 --> 00:12:01,160
+or her nature skill since she
+ 
+
+551
+00:12:01,160 --> 00:12:02,769
+or her nature skill since she
+specifically says she was watching the
+
+552
+00:12:02,769 --> 00:12:02,779
+specifically says she was watching the
+ 
+
+553
+00:12:02,779 --> 00:12:06,220
+specifically says she was watching the
+forest for any unusual signs maybe she
+
+554
+00:12:06,220 --> 00:12:06,230
+forest for any unusual signs maybe she
+ 
+
+555
+00:12:06,230 --> 00:12:08,350
+forest for any unusual signs maybe she
+notices birds fly away from the bushes
+
+556
+00:12:08,350 --> 00:12:08,360
+notices birds fly away from the bushes
+ 
+
+557
+00:12:08,360 --> 00:12:10,660
+notices birds fly away from the bushes
+where the goblins are hiding just a
+
+558
+00:12:10,660 --> 00:12:10,670
+where the goblins are hiding just a
+ 
+
+559
+00:12:10,670 --> 00:12:12,579
+where the goblins are hiding just a
+moment before they attack
+
+560
+00:12:12,579 --> 00:12:12,589
+moment before they attack
+ 
+
+561
+00:12:12,589 --> 00:12:15,309
+moment before they attack
+thus alerting her of danger before she
+
+562
+00:12:15,309 --> 00:12:15,319
+thus alerting her of danger before she
+ 
+
+563
+00:12:15,319 --> 00:12:17,400
+thus alerting her of danger before she
+actually sees them
+
+564
+00:12:17,400 --> 00:12:17,410
+actually sees them
+ 
+
+565
+00:12:17,410 --> 00:12:19,710
+actually sees them
+this is just one possible narrative
+
+566
+00:12:19,710 --> 00:12:19,720
+this is just one possible narrative
+ 
+
+567
+00:12:19,720 --> 00:12:22,439
+this is just one possible narrative
+example of how the nature skill might be
+
+568
+00:12:22,439 --> 00:12:22,449
+example of how the nature skill might be
+ 
+
+569
+00:12:22,449 --> 00:12:25,529
+example of how the nature skill might be
+used for an initiative check but the key
+
+570
+00:12:25,529 --> 00:12:25,539
+used for an initiative check but the key
+ 
+
+571
+00:12:25,539 --> 00:12:27,799
+used for an initiative check but the key
+here is that this player lynnie
+
+572
+00:12:27,799 --> 00:12:27,809
+here is that this player lynnie
+ 
+
+573
+00:12:27,809 --> 00:12:30,749
+here is that this player lynnie
+declared that she was watching the
+
+574
+00:12:30,749 --> 00:12:30,759
+declared that she was watching the
+ 
+
+575
+00:12:30,759 --> 00:12:34,189
+declared that she was watching the
+forest for any unusual signs before
+
+576
+00:12:34,189 --> 00:12:34,199
+forest for any unusual signs before
+ 
+
+577
+00:12:34,199 --> 00:12:37,049
+forest for any unusual signs before
+initiative was called so the GM allowed
+
+578
+00:12:37,049 --> 00:12:37,059
+initiative was called so the GM allowed
+ 
+
+579
+00:12:37,059 --> 00:12:40,189
+initiative was called so the GM allowed
+her the choice of either perception or
+
+580
+00:12:40,189 --> 00:12:40,199
+her the choice of either perception or
+ 
+
+581
+00:12:40,199 --> 00:12:44,279
+her the choice of either perception or
+nature if the player had not specified
+
+582
+00:12:44,279 --> 00:12:44,289
+nature if the player had not specified
+ 
+
+583
+00:12:44,289 --> 00:12:46,619
+nature if the player had not specified
+that she was doing that then when it
+
+584
+00:12:46,619 --> 00:12:46,629
+that she was doing that then when it
+ 
+
+585
+00:12:46,629 --> 00:12:48,779
+that she was doing that then when it
+came time to roll initiative she likely
+
+586
+00:12:48,779 --> 00:12:48,789
+came time to roll initiative she likely
+ 
+
+587
+00:12:48,789 --> 00:12:50,219
+came time to roll initiative she likely
+would have been forced to use just
+
+588
+00:12:50,219 --> 00:12:50,229
+would have been forced to use just
+ 
+
+589
+00:12:50,229 --> 00:12:52,769
+would have been forced to use just
+perception and the geums should not give
+
+590
+00:12:52,769 --> 00:12:52,779
+perception and the geums should not give
+ 
+
+591
+00:12:52,779 --> 00:12:55,259
+perception and the geums should not give
+that player the opportunity to choose
+
+592
+00:12:55,259 --> 00:12:55,269
+that player the opportunity to choose
+ 
+
+593
+00:12:55,269 --> 00:12:58,139
+that player the opportunity to choose
+another skill what's initiative his code
+
+594
+00:12:58,139 --> 00:12:58,149
+another skill what's initiative his code
+ 
+
+595
+00:12:58,149 --> 00:13:00,359
+another skill what's initiative his code
+for you are either doing perception or
+
+596
+00:13:00,359 --> 00:13:00,369
+for you are either doing perception or
+ 
+
+597
+00:13:00,369 --> 00:13:02,039
+for you are either doing perception or
+you are using a skill that you already
+
+598
+00:13:02,039 --> 00:13:02,049
+you are using a skill that you already
+ 
+
+599
+00:13:02,049 --> 00:13:05,609
+you are using a skill that you already
+declared so in this scenario
+
+600
+00:13:05,609 --> 00:13:05,619
+declared so in this scenario
+ 
+
+601
+00:13:05,619 --> 00:13:09,359
+declared so in this scenario
+Ezrin rolls in 11 Linney gets a 25 with
+
+602
+00:13:09,359 --> 00:13:09,369
+Ezrin rolls in 11 Linney gets a 25 with
+ 
+
+603
+00:13:09,369 --> 00:13:11,699
+Ezrin rolls in 11 Linney gets a 25 with
+her nature check and Maurice your roles
+
+604
+00:13:11,699 --> 00:13:11,709
+her nature check and Maurice your roles
+ 
+
+605
+00:13:11,709 --> 00:13:15,960
+her nature check and Maurice your roles
+and 18 for perception the goblins do not
+
+606
+00:13:15,960 --> 00:13:15,970
+and 18 for perception the goblins do not
+ 
+
+607
+00:13:15,970 --> 00:13:17,879
+and 18 for perception the goblins do not
+rear all their initiative here and
+
+608
+00:13:17,879 --> 00:13:17,889
+rear all their initiative here and
+ 
+
+609
+00:13:17,889 --> 00:13:20,939
+rear all their initiative here and
+instead use their already rode stealth
+
+610
+00:13:20,939 --> 00:13:20,949
+instead use their already rode stealth
+ 
+
+611
+00:13:20,949 --> 00:13:24,569
+instead use their already rode stealth
+checks for their initiative score this
+
+612
+00:13:24,569 --> 00:13:24,579
+checks for their initiative score this
+ 
+
+613
+00:13:24,579 --> 00:13:28,019
+checks for their initiative score this
+is a provision of using avoid notice but
+
+614
+00:13:28,019 --> 00:13:28,029
+is a provision of using avoid notice but
+ 
+
+615
+00:13:28,029 --> 00:13:30,449
+is a provision of using avoid notice but
+is also a benefit of winning their
+
+616
+00:13:30,449 --> 00:13:30,459
+is also a benefit of winning their
+ 
+
+617
+00:13:30,459 --> 00:13:32,849
+is also a benefit of winning their
+stealth checks they get to keep their
+
+618
+00:13:32,849 --> 00:13:32,859
+stealth checks they get to keep their
+ 
+
+619
+00:13:32,859 --> 00:13:35,369
+stealth checks they get to keep their
+higher roles and use them for initiative
+
+620
+00:13:35,369 --> 00:13:35,379
+higher roles and use them for initiative
+ 
+
+621
+00:13:35,379 --> 00:13:36,700
+higher roles and use them for initiative
+to
+
+622
+00:13:36,700 --> 00:13:36,710
+to
+ 
+
+623
+00:13:36,710 --> 00:13:39,220
+to
+everyone is then ranked highest to
+
+624
+00:13:39,220 --> 00:13:39,230
+everyone is then ranked highest to
+ 
+
+625
+00:13:39,230 --> 00:13:42,280
+everyone is then ranked highest to
+lowest which is goblin number one then
+
+626
+00:13:42,280 --> 00:13:42,290
+lowest which is goblin number one then
+ 
+
+627
+00:13:42,290 --> 00:13:45,100
+lowest which is goblin number one then
+lynnie then goblin number two then
+
+628
+00:13:45,100 --> 00:13:45,110
+lynnie then goblin number two then
+ 
+
+629
+00:13:45,110 --> 00:13:48,250
+lynnie then goblin number two then
+goblin number three then mauricio goblin
+
+630
+00:13:48,250 --> 00:13:48,260
+goblin number three then mauricio goblin
+ 
+
+631
+00:13:48,260 --> 00:13:51,090
+goblin number three then mauricio goblin
+number four and then finally Ezrin
+
+632
+00:13:51,090 --> 00:13:51,100
+number four and then finally Ezrin
+ 
+
+633
+00:13:51,100 --> 00:13:53,650
+number four and then finally Ezrin
+lynnie may have failed to spot the
+
+634
+00:13:53,650 --> 00:13:53,660
+lynnie may have failed to spot the
+ 
+
+635
+00:13:53,660 --> 00:13:56,170
+lynnie may have failed to spot the
+Goblin while they hid but thanks to her
+
+636
+00:13:56,170 --> 00:13:56,180
+Goblin while they hid but thanks to her
+ 
+
+637
+00:13:56,180 --> 00:13:59,170
+Goblin while they hid but thanks to her
+nature skills she's alert and very quick
+
+638
+00:13:59,170 --> 00:13:59,180
+nature skills she's alert and very quick
+ 
+
+639
+00:13:59,180 --> 00:14:01,530
+nature skills she's alert and very quick
+to react when they spring their trap it
+
+640
+00:14:01,530 --> 00:14:01,540
+to react when they spring their trap it
+ 
+
+641
+00:14:01,540 --> 00:14:04,180
+to react when they spring their trap it
+is very much worth noting here that
+
+642
+00:14:04,180 --> 00:14:04,190
+is very much worth noting here that
+ 
+
+643
+00:14:04,190 --> 00:14:07,240
+is very much worth noting here that
+although the characters are taken by
+
+644
+00:14:07,240 --> 00:14:07,250
+although the characters are taken by
+ 
+
+645
+00:14:07,250 --> 00:14:10,510
+although the characters are taken by
+surprise there is no such thing as a
+
+646
+00:14:10,510 --> 00:14:10,520
+surprise there is no such thing as a
+ 
+
+647
+00:14:10,520 --> 00:14:13,750
+surprise there is no such thing as a
+quote surprise round such as those are
+
+648
+00:14:13,750 --> 00:14:13,760
+quote surprise round such as those are
+ 
+
+649
+00:14:13,760 --> 00:14:17,680
+quote surprise round such as those are
+found in other RPGs in place of that the
+
+650
+00:14:17,680 --> 00:14:17,690
+found in other RPGs in place of that the
+ 
+
+651
+00:14:17,690 --> 00:14:19,990
+found in other RPGs in place of that the
+goblins get to use their stealth skill
+
+652
+00:14:19,990 --> 00:14:20,000
+goblins get to use their stealth skill
+ 
+
+653
+00:14:20,000 --> 00:14:23,050
+goblins get to use their stealth skill
+as their initiative which is often even
+
+654
+00:14:23,050 --> 00:14:23,060
+as their initiative which is often even
+ 
+
+655
+00:14:23,060 --> 00:14:25,530
+as their initiative which is often even
+more beneficial because of cover bonuses
+
+656
+00:14:25,530 --> 00:14:25,540
+more beneficial because of cover bonuses
+ 
+
+657
+00:14:25,540 --> 00:14:28,320
+more beneficial because of cover bonuses
+so succeeding on the stealth check
+
+658
+00:14:28,320 --> 00:14:28,330
+so succeeding on the stealth check
+ 
+
+659
+00:14:28,330 --> 00:14:30,160
+so succeeding on the stealth check
+increases the odds
+
+660
+00:14:30,160 --> 00:14:30,170
+increases the odds
+ 
+
+661
+00:14:30,170 --> 00:14:32,769
+increases the odds
+you will act first in combat which in
+
+662
+00:14:32,769 --> 00:14:32,779
+you will act first in combat which in
+ 
+
+663
+00:14:32,779 --> 00:14:35,019
+you will act first in combat which in
+some ways can be compared to having a
+
+664
+00:14:35,019 --> 00:14:35,029
+some ways can be compared to having a
+ 
+
+665
+00:14:35,029 --> 00:14:37,120
+some ways can be compared to having a
+traditional surprise round and that
+
+666
+00:14:37,120 --> 00:14:37,130
+traditional surprise round and that
+ 
+
+667
+00:14:37,130 --> 00:14:38,740
+traditional surprise round and that
+there is a good chance you will act
+
+668
+00:14:38,740 --> 00:14:38,750
+there is a good chance you will act
+ 
+
+669
+00:14:38,750 --> 00:14:40,810
+there is a good chance you will act
+before your enemies have a chance to
+
+670
+00:14:40,810 --> 00:14:40,820
+before your enemies have a chance to
+ 
+
+671
+00:14:40,820 --> 00:14:45,190
+before your enemies have a chance to
+react also at first level rogues get a
+
+672
+00:14:45,190 --> 00:14:45,200
+react also at first level rogues get a
+ 
+
+673
+00:14:45,200 --> 00:14:47,140
+react also at first level rogues get a
+class feature called surprise attack
+
+674
+00:14:47,140 --> 00:14:47,150
+class feature called surprise attack
+ 
+
+675
+00:14:47,150 --> 00:14:49,540
+class feature called surprise attack
+which lists them treat enemies as being
+
+676
+00:14:49,540 --> 00:14:49,550
+which lists them treat enemies as being
+ 
+
+677
+00:14:49,550 --> 00:14:50,350
+which lists them treat enemies as being
+flat-footed
+
+678
+00:14:50,350 --> 00:14:50,360
+flat-footed
+ 
+
+679
+00:14:50,360 --> 00:14:52,840
+flat-footed
+if those enemies have not acted yet in
+
+680
+00:14:52,840 --> 00:14:52,850
+if those enemies have not acted yet in
+ 
+
+681
+00:14:52,850 --> 00:14:55,840
+if those enemies have not acted yet in
+the first round but only if the rogue
+
+682
+00:14:55,840 --> 00:14:55,850
+the first round but only if the rogue
+ 
+
+683
+00:14:55,850 --> 00:14:58,780
+the first round but only if the rogue
+used stealth or deception as their
+
+684
+00:14:58,780 --> 00:14:58,790
+used stealth or deception as their
+ 
+
+685
+00:14:58,790 --> 00:15:00,960
+used stealth or deception as their
+initiative check
+
+686
+00:15:00,960 --> 00:15:00,970
+initiative check
+ 
+
+687
+00:15:00,970 --> 00:15:03,330
+initiative check
+goblin number one starts the round and
+
+688
+00:15:03,330 --> 00:15:03,340
+goblin number one starts the round and
+ 
+
+689
+00:15:03,340 --> 00:15:06,030
+goblin number one starts the round and
+as soon as it attacks or moves towards
+
+690
+00:15:06,030 --> 00:15:06,040
+as soon as it attacks or moves towards
+ 
+
+691
+00:15:06,040 --> 00:15:08,820
+as soon as it attacks or moves towards
+the hero out of its cover it instantly
+
+692
+00:15:08,820 --> 00:15:08,830
+the hero out of its cover it instantly
+ 
+
+693
+00:15:08,830 --> 00:15:12,170
+the hero out of its cover it instantly
+becomes observed by all three players on
+
+694
+00:15:12,170 --> 00:15:12,180
+becomes observed by all three players on
+ 
+
+695
+00:15:12,180 --> 00:15:15,540
+becomes observed by all three players on
+Liddy's turn she is only observing
+
+696
+00:15:15,540 --> 00:15:15,550
+Liddy's turn she is only observing
+ 
+
+697
+00:15:15,550 --> 00:15:18,060
+Liddy's turn she is only observing
+goblin number one and is still not aware
+
+698
+00:15:18,060 --> 00:15:18,070
+goblin number one and is still not aware
+ 
+
+699
+00:15:18,070 --> 00:15:19,950
+goblin number one and is still not aware
+that there are three other goblins
+
+700
+00:15:19,950 --> 00:15:19,960
+that there are three other goblins
+ 
+
+701
+00:15:19,960 --> 00:15:23,610
+that there are three other goblins
+nearby by the time things come around to
+
+702
+00:15:23,610 --> 00:15:23,620
+nearby by the time things come around to
+ 
+
+703
+00:15:23,620 --> 00:15:25,980
+nearby by the time things come around to
+Marissa's turn she can attack goblins
+
+704
+00:15:25,980 --> 00:15:25,990
+Marissa's turn she can attack goblins
+ 
+
+705
+00:15:25,990 --> 00:15:28,800
+Marissa's turn she can attack goblins
+one three three assuming each of them
+
+706
+00:15:28,800 --> 00:15:28,810
+one three three assuming each of them
+ 
+
+707
+00:15:28,810 --> 00:15:30,630
+one three three assuming each of them
+made their presence known on their turns
+
+708
+00:15:30,630 --> 00:15:30,640
+made their presence known on their turns
+ 
+
+709
+00:15:30,640 --> 00:15:33,570
+made their presence known on their turns
+but cannot directly attack goblin number
+
+710
+00:15:33,570 --> 00:15:33,580
+but cannot directly attack goblin number
+ 
+
+711
+00:15:33,580 --> 00:15:36,180
+but cannot directly attack goblin number
+four since no one knows that that goblin
+
+712
+00:15:36,180 --> 00:15:36,190
+four since no one knows that that goblin
+ 
+
+713
+00:15:36,190 --> 00:15:39,810
+four since no one knows that that goblin
+is there yet
+
+714
+00:15:39,810 --> 00:15:39,820
+
+ 
+
+715
+00:15:39,820 --> 00:15:42,150
+
+okay let's reset this encounter again
+
+716
+00:15:42,150 --> 00:15:42,160
+okay let's reset this encounter again
+ 
+
+717
+00:15:42,160 --> 00:15:45,900
+okay let's reset this encounter again
+and make another tweak to it this time
+
+718
+00:15:45,900 --> 00:15:45,910
+and make another tweak to it this time
+ 
+
+719
+00:15:45,910 --> 00:15:48,240
+and make another tweak to it this time
+we'll say the goblins all succeeded on
+
+720
+00:15:48,240 --> 00:15:48,250
+we'll say the goblins all succeeded on
+ 
+
+721
+00:15:48,250 --> 00:15:50,670
+we'll say the goblins all succeeded on
+their stealth checks but Marissa Oh
+
+722
+00:15:50,670 --> 00:15:50,680
+their stealth checks but Marissa Oh
+ 
+
+723
+00:15:50,680 --> 00:15:52,410
+their stealth checks but Marissa Oh
+crushed her perception roll for
+
+724
+00:15:52,410 --> 00:15:52,420
+crushed her perception roll for
+ 
+
+725
+00:15:52,420 --> 00:15:54,480
+crushed her perception roll for
+initiative enrolled a critical success
+
+726
+00:15:54,480 --> 00:15:54,490
+initiative enrolled a critical success
+ 
+
+727
+00:15:54,490 --> 00:15:59,130
+initiative enrolled a critical success
+for a total of 26 using all the other
+
+728
+00:15:59,130 --> 00:15:59,140
+for a total of 26 using all the other
+ 
+
+729
+00:15:59,140 --> 00:16:01,710
+for a total of 26 using all the other
+same roles as before that would make the
+
+730
+00:16:01,710 --> 00:16:01,720
+same roles as before that would make the
+ 
+
+731
+00:16:01,720 --> 00:16:02,760
+same roles as before that would make the
+initiative order
+
+732
+00:16:02,760 --> 00:16:02,770
+initiative order
+ 
+
+733
+00:16:02,770 --> 00:16:05,790
+initiative order
+Marissa Oh first then goblin number one
+
+734
+00:16:05,790 --> 00:16:05,800
+Marissa Oh first then goblin number one
+ 
+
+735
+00:16:05,800 --> 00:16:08,370
+Marissa Oh first then goblin number one
+because it would win the tie at 25 and
+
+736
+00:16:08,370 --> 00:16:08,380
+because it would win the tie at 25 and
+ 
+
+737
+00:16:08,380 --> 00:16:11,490
+because it would win the tie at 25 and
+then Lenny then goblin number two
+
+738
+00:16:11,490 --> 00:16:11,500
+then Lenny then goblin number two
+ 
+
+739
+00:16:11,500 --> 00:16:14,610
+then Lenny then goblin number two
+goblin number three goblin number four
+
+740
+00:16:14,610 --> 00:16:14,620
+goblin number three goblin number four
+ 
+
+741
+00:16:14,620 --> 00:16:18,650
+goblin number three goblin number four
+and finally ezrin so the kink here is
+
+742
+00:16:18,650 --> 00:16:18,660
+and finally ezrin so the kink here is
+ 
+
+743
+00:16:18,660 --> 00:16:21,690
+and finally ezrin so the kink here is
+mauricio gets to go first in initiative
+
+744
+00:16:21,690 --> 00:16:21,700
+mauricio gets to go first in initiative
+ 
+
+745
+00:16:21,700 --> 00:16:24,210
+mauricio gets to go first in initiative
+but she doesn't know there are any
+
+746
+00:16:24,210 --> 00:16:24,220
+but she doesn't know there are any
+ 
+
+747
+00:16:24,220 --> 00:16:28,650
+but she doesn't know there are any
+enemies nearby remember all four goblins
+
+748
+00:16:28,650 --> 00:16:28,660
+enemies nearby remember all four goblins
+ 
+
+749
+00:16:28,660 --> 00:16:31,020
+enemies nearby remember all four goblins
+beat her perception DC with their
+
+750
+00:16:31,020 --> 00:16:31,030
+beat her perception DC with their
+ 
+
+751
+00:16:31,030 --> 00:16:33,480
+beat her perception DC with their
+stealth checks and even though she used
+
+752
+00:16:33,480 --> 00:16:33,490
+stealth checks and even though she used
+ 
+
+753
+00:16:33,490 --> 00:16:35,720
+stealth checks and even though she used
+her perception bonus to roll initiative
+
+754
+00:16:35,720 --> 00:16:35,730
+her perception bonus to roll initiative
+ 
+
+755
+00:16:35,730 --> 00:16:39,420
+her perception bonus to roll initiative
+that was an initiative check which is
+
+756
+00:16:39,420 --> 00:16:39,430
+that was an initiative check which is
+ 
+
+757
+00:16:39,430 --> 00:16:42,330
+that was an initiative check which is
+not the same thing as taking the seek
+
+758
+00:16:42,330 --> 00:16:42,340
+not the same thing as taking the seek
+ 
+
+759
+00:16:42,340 --> 00:16:44,790
+not the same thing as taking the seek
+action which is what would be needed to
+
+760
+00:16:44,790 --> 00:16:44,800
+action which is what would be needed to
+ 
+
+761
+00:16:44,800 --> 00:16:48,660
+action which is what would be needed to
+spot hiding enemies so strictly by the
+
+762
+00:16:48,660 --> 00:16:48,670
+spot hiding enemies so strictly by the
+ 
+
+763
+00:16:48,670 --> 00:16:51,600
+spot hiding enemies so strictly by the
+rules as written mauricio gets to take
+
+764
+00:16:51,600 --> 00:16:51,610
+rules as written mauricio gets to take
+ 
+
+765
+00:16:51,610 --> 00:16:54,060
+rules as written mauricio gets to take
+her actions first but what is she
+
+766
+00:16:54,060 --> 00:16:54,070
+her actions first but what is she
+ 
+
+767
+00:16:54,070 --> 00:16:57,000
+her actions first but what is she
+supposed to do with those actions take a
+
+768
+00:16:57,000 --> 00:16:57,010
+supposed to do with those actions take a
+ 
+
+769
+00:16:57,010 --> 00:16:58,710
+supposed to do with those actions take a
+moment and put yourself in that player's
+
+770
+00:16:58,710 --> 00:16:58,720
+moment and put yourself in that player's
+ 
+
+771
+00:16:58,720 --> 00:17:01,260
+moment and put yourself in that player's
+shoes you're sitting at the table your
+
+772
+00:17:01,260 --> 00:17:01,270
+shoes you're sitting at the table your
+ 
+
+773
+00:17:01,270 --> 00:17:04,230
+shoes you're sitting at the table your
+GM calls for initiative roles and you
+
+774
+00:17:04,230 --> 00:17:04,240
+GM calls for initiative roles and you
+ 
+
+775
+00:17:04,240 --> 00:17:06,690
+GM calls for initiative roles and you
+get your first natural 20 of the night
+
+776
+00:17:06,690 --> 00:17:06,700
+get your first natural 20 of the night
+ 
+
+777
+00:17:06,700 --> 00:17:09,000
+get your first natural 20 of the night
+that probably feels pretty good right
+
+778
+00:17:09,000 --> 00:17:09,010
+that probably feels pretty good right
+ 
+
+779
+00:17:09,010 --> 00:17:12,390
+that probably feels pretty good right
+now that GM lays a map in front of you
+
+780
+00:17:12,390 --> 00:17:12,400
+now that GM lays a map in front of you
+ 
+
+781
+00:17:12,400 --> 00:17:16,250
+now that GM lays a map in front of you
+and put your mini on it but no enemies
+
+782
+00:17:16,250 --> 00:17:16,260
+and put your mini on it but no enemies
+ 
+
+783
+00:17:16,260 --> 00:17:20,220
+and put your mini on it but no enemies
+what do you do at that moment
+
+784
+00:17:20,220 --> 00:17:20,230
+what do you do at that moment
+ 
+
+785
+00:17:20,230 --> 00:17:21,689
+what do you do at that moment
+if you say you want to take a Sikh
+
+786
+00:17:21,689 --> 00:17:21,699
+if you say you want to take a Sikh
+ 
+
+787
+00:17:21,699 --> 00:17:24,929
+if you say you want to take a Sikh
+action some GM's I know would tell you
+
+788
+00:17:24,929 --> 00:17:24,939
+action some GM's I know would tell you
+ 
+
+789
+00:17:24,939 --> 00:17:27,059
+action some GM's I know would tell you
+that that's metagaming because your
+
+790
+00:17:27,059 --> 00:17:27,069
+that that's metagaming because your
+ 
+
+791
+00:17:27,069 --> 00:17:29,250
+that that's metagaming because your
+character doesn't know that she just
+
+792
+00:17:29,250 --> 00:17:29,260
+character doesn't know that she just
+ 
+
+793
+00:17:29,260 --> 00:17:31,770
+character doesn't know that she just
+wrote initiative as far as she knows
+
+794
+00:17:31,770 --> 00:17:31,780
+wrote initiative as far as she knows
+ 
+
+795
+00:17:31,780 --> 00:17:34,310
+wrote initiative as far as she knows
+she's just walking down a road and
+
+796
+00:17:34,310 --> 00:17:34,320
+she's just walking down a road and
+ 
+
+797
+00:17:34,320 --> 00:17:36,630
+she's just walking down a road and
+therefore you should just keep walking
+
+798
+00:17:36,630 --> 00:17:36,640
+therefore you should just keep walking
+ 
+
+799
+00:17:36,640 --> 00:17:38,070
+therefore you should just keep walking
+down that road like nothing was out of
+
+800
+00:17:38,070 --> 00:17:38,080
+down that road like nothing was out of
+ 
+
+801
+00:17:38,080 --> 00:17:41,280
+down that road like nothing was out of
+the ordinary I don't know about all of
+
+802
+00:17:41,280 --> 00:17:41,290
+the ordinary I don't know about all of
+ 
+
+803
+00:17:41,290 --> 00:17:45,000
+the ordinary I don't know about all of
+you but that hardly sounds fun to me it
+
+804
+00:17:45,000 --> 00:17:45,010
+you but that hardly sounds fun to me it
+ 
+
+805
+00:17:45,010 --> 00:17:47,730
+you but that hardly sounds fun to me it
+might be the most correct inaccurate
+
+806
+00:17:47,730 --> 00:17:47,740
+might be the most correct inaccurate
+ 
+
+807
+00:17:47,740 --> 00:17:49,980
+might be the most correct inaccurate
+application of the rules as they are
+
+808
+00:17:49,980 --> 00:17:49,990
+application of the rules as they are
+ 
+
+809
+00:17:49,990 --> 00:17:52,470
+application of the rules as they are
+written but if I was that player who was
+
+810
+00:17:52,470 --> 00:17:52,480
+written but if I was that player who was
+ 
+
+811
+00:17:52,480 --> 00:17:54,750
+written but if I was that player who was
+on a high from rolling a crit and then
+
+812
+00:17:54,750 --> 00:17:54,760
+on a high from rolling a crit and then
+ 
+
+813
+00:17:54,760 --> 00:17:56,789
+on a high from rolling a crit and then
+the gym told me I couldn't really do
+
+814
+00:17:56,789 --> 00:17:56,799
+the gym told me I couldn't really do
+ 
+
+815
+00:17:56,799 --> 00:17:59,100
+the gym told me I couldn't really do
+anything with it I'd likely be a little
+
+816
+00:17:59,100 --> 00:17:59,110
+anything with it I'd likely be a little
+ 
+
+817
+00:17:59,110 --> 00:18:02,159
+anything with it I'd likely be a little
+annoyed so let's talk about some other
+
+818
+00:18:02,159 --> 00:18:02,169
+annoyed so let's talk about some other
+ 
+
+819
+00:18:02,169 --> 00:18:06,120
+annoyed so let's talk about some other
+options here the first option would be
+
+820
+00:18:06,120 --> 00:18:06,130
+options here the first option would be
+ 
+
+821
+00:18:06,130 --> 00:18:08,820
+options here the first option would be
+the GM tells Marissa's player that she
+
+822
+00:18:08,820 --> 00:18:08,830
+the GM tells Marissa's player that she
+ 
+
+823
+00:18:08,830 --> 00:18:11,669
+the GM tells Marissa's player that she
+gets to go first in initiative but since
+
+824
+00:18:11,669 --> 00:18:11,679
+gets to go first in initiative but since
+ 
+
+825
+00:18:11,679 --> 00:18:13,560
+gets to go first in initiative but since
+her character doesn't know that she
+
+826
+00:18:13,560 --> 00:18:13,570
+her character doesn't know that she
+ 
+
+827
+00:18:13,570 --> 00:18:15,210
+her character doesn't know that she
+destroyed initiative and probably
+
+828
+00:18:15,210 --> 00:18:15,220
+destroyed initiative and probably
+ 
+
+829
+00:18:15,220 --> 00:18:17,280
+destroyed initiative and probably
+therefore doesn't know that she's in
+
+830
+00:18:17,280 --> 00:18:17,290
+therefore doesn't know that she's in
+ 
+
+831
+00:18:17,290 --> 00:18:19,770
+therefore doesn't know that she's in
+some form of danger her options are
+
+832
+00:18:19,770 --> 00:18:19,780
+some form of danger her options are
+ 
+
+833
+00:18:19,780 --> 00:18:22,470
+some form of danger her options are
+going to be limited but the GM could
+
+834
+00:18:22,470 --> 00:18:22,480
+going to be limited but the GM could
+ 
+
+835
+00:18:22,480 --> 00:18:25,409
+going to be limited but the GM could
+also remind her that she can use the
+
+836
+00:18:25,409 --> 00:18:25,419
+also remind her that she can use the
+ 
+
+837
+00:18:25,419 --> 00:18:27,990
+also remind her that she can use the
+delay action until something develops
+
+838
+00:18:27,990 --> 00:18:28,000
+delay action until something develops
+ 
+
+839
+00:18:28,000 --> 00:18:31,830
+delay action until something develops
+and then decide to take her actions that
+
+840
+00:18:31,830 --> 00:18:31,840
+and then decide to take her actions that
+ 
+
+841
+00:18:31,840 --> 00:18:34,110
+and then decide to take her actions that
+might be a better option within the
+
+842
+00:18:34,110 --> 00:18:34,120
+might be a better option within the
+ 
+
+843
+00:18:34,120 --> 00:18:36,240
+might be a better option within the
+rules as written then just telling
+
+844
+00:18:36,240 --> 00:18:36,250
+rules as written then just telling
+ 
+
+845
+00:18:36,250 --> 00:18:38,280
+rules as written then just telling
+Marissa's player that she can't really
+
+846
+00:18:38,280 --> 00:18:38,290
+Marissa's player that she can't really
+ 
+
+847
+00:18:38,290 --> 00:18:40,700
+Marissa's player that she can't really
+do anything after she one initiative and
+
+848
+00:18:40,700 --> 00:18:40,710
+do anything after she one initiative and
+ 
+
+849
+00:18:40,710 --> 00:18:43,620
+do anything after she one initiative and
+if you're not familiar with the delay
+
+850
+00:18:43,620 --> 00:18:43,630
+if you're not familiar with the delay
+ 
+
+851
+00:18:43,630 --> 00:18:46,110
+if you're not familiar with the delay
+action that will be explained in our
+
+852
+00:18:46,110 --> 00:18:46,120
+action that will be explained in our
+ 
+
+853
+00:18:46,120 --> 00:18:48,710
+action that will be explained in our
+next Pathfinder course
+
+854
+00:18:48,710 --> 00:18:48,720
+next Pathfinder course
+ 
+
+855
+00:18:48,720 --> 00:18:51,140
+next Pathfinder course
+another option although not entirely
+
+856
+00:18:51,140 --> 00:18:51,150
+another option although not entirely
+ 
+
+857
+00:18:51,150 --> 00:18:53,690
+another option although not entirely
+within the rules as written would be to
+
+858
+00:18:53,690 --> 00:18:53,700
+within the rules as written would be to
+ 
+
+859
+00:18:53,700 --> 00:18:55,910
+within the rules as written would be to
+tell Marissa's player that she hears
+
+860
+00:18:55,910 --> 00:18:55,920
+tell Marissa's player that she hears
+ 
+
+861
+00:18:55,920 --> 00:18:57,950
+tell Marissa's player that she hears
+something from somewhere in the woods
+
+862
+00:18:57,950 --> 00:18:57,960
+something from somewhere in the woods
+ 
+
+863
+00:18:57,960 --> 00:18:59,990
+something from somewhere in the woods
+but she can't quite place it
+
+864
+00:18:59,990 --> 00:19:00,000
+but she can't quite place it
+ 
+
+865
+00:19:00,000 --> 00:19:03,020
+but she can't quite place it
+or she just has a feeling that something
+
+866
+00:19:03,020 --> 00:19:03,030
+or she just has a feeling that something
+ 
+
+867
+00:19:03,030 --> 00:19:06,550
+or she just has a feeling that something
+is off let the goblins all still be
+
+868
+00:19:06,550 --> 00:19:06,560
+is off let the goblins all still be
+ 
+
+869
+00:19:06,560 --> 00:19:10,430
+is off let the goblins all still be
+undetected but reward Marissa for having
+
+870
+00:19:10,430 --> 00:19:10,440
+undetected but reward Marissa for having
+ 
+
+871
+00:19:10,440 --> 00:19:13,100
+undetected but reward Marissa for having
+that high initiative role and give her a
+
+872
+00:19:13,100 --> 00:19:13,110
+that high initiative role and give her a
+ 
+
+873
+00:19:13,110 --> 00:19:16,160
+that high initiative role and give her a
+reason to take the seek action again
+
+874
+00:19:16,160 --> 00:19:16,170
+reason to take the seek action again
+ 
+
+875
+00:19:16,170 --> 00:19:19,310
+reason to take the seek action again
+that is bending the rules as written but
+
+876
+00:19:19,310 --> 00:19:19,320
+that is bending the rules as written but
+ 
+
+877
+00:19:19,320 --> 00:19:20,900
+that is bending the rules as written but
+I think a lot of people find that to be
+
+878
+00:19:20,900 --> 00:19:20,910
+I think a lot of people find that to be
+ 
+
+879
+00:19:20,910 --> 00:19:23,750
+I think a lot of people find that to be
+a more fair and fun option than just
+
+880
+00:19:23,750 --> 00:19:23,760
+a more fair and fun option than just
+ 
+
+881
+00:19:23,760 --> 00:19:25,670
+a more fair and fun option than just
+telling the player that they can't do
+
+882
+00:19:25,670 --> 00:19:25,680
+telling the player that they can't do
+ 
+
+883
+00:19:25,680 --> 00:19:29,480
+telling the player that they can't do
+anything in this course we discussed
+
+884
+00:19:29,480 --> 00:19:29,490
+anything in this course we discussed
+ 
+
+885
+00:19:29,490 --> 00:19:32,900
+anything in this course we discussed
+initiative and surprise initiative
+
+886
+00:19:32,900 --> 00:19:32,910
+initiative and surprise initiative
+ 
+
+887
+00:19:32,910 --> 00:19:35,180
+initiative and surprise initiative
+dictates the order in which creatures
+
+888
+00:19:35,180 --> 00:19:35,190
+dictates the order in which creatures
+ 
+
+889
+00:19:35,190 --> 00:19:37,700
+dictates the order in which creatures
+act during an encounter this is
+
+890
+00:19:37,700 --> 00:19:37,710
+act during an encounter this is
+ 
+
+891
+00:19:37,710 --> 00:19:39,200
+act during an encounter this is
+accomplished by rolling initiative
+
+892
+00:19:39,200 --> 00:19:39,210
+accomplished by rolling initiative
+ 
+
+893
+00:19:39,210 --> 00:19:41,420
+accomplished by rolling initiative
+checks which are then ranked from
+
+894
+00:19:41,420 --> 00:19:41,430
+checks which are then ranked from
+ 
+
+895
+00:19:41,430 --> 00:19:43,490
+checks which are then ranked from
+highest to lowest the creature with the
+
+896
+00:19:43,490 --> 00:19:43,500
+highest to lowest the creature with the
+ 
+
+897
+00:19:43,500 --> 00:19:45,860
+highest to lowest the creature with the
+highest total acts first and the
+
+898
+00:19:45,860 --> 00:19:45,870
+highest total acts first and the
+ 
+
+899
+00:19:45,870 --> 00:19:48,430
+highest total acts first and the
+creature with the lowest acts last in
+
+900
+00:19:48,430 --> 00:19:48,440
+creature with the lowest acts last in
+ 
+
+901
+00:19:48,440 --> 00:19:51,200
+creature with the lowest acts last in
+case of a tie between the GM and a
+
+902
+00:19:51,200 --> 00:19:51,210
+case of a tie between the GM and a
+ 
+
+903
+00:19:51,210 --> 00:19:54,650
+case of a tie between the GM and a
+player the GM's creature wins and when
+
+904
+00:19:54,650 --> 00:19:54,660
+player the GM's creature wins and when
+ 
+
+905
+00:19:54,660 --> 00:19:57,260
+player the GM's creature wins and when
+players tie they get to choose which of
+
+906
+00:19:57,260 --> 00:19:57,270
+players tie they get to choose which of
+ 
+
+907
+00:19:57,270 --> 00:20:01,310
+players tie they get to choose which of
+their characters act first perception is
+
+908
+00:20:01,310 --> 00:20:01,320
+their characters act first perception is
+ 
+
+909
+00:20:01,320 --> 00:20:04,160
+their characters act first perception is
+typically used for initiative checks but
+
+910
+00:20:04,160 --> 00:20:04,170
+typically used for initiative checks but
+ 
+
+911
+00:20:04,170 --> 00:20:06,190
+typically used for initiative checks but
+some skills may be used instead
+
+912
+00:20:06,190 --> 00:20:06,200
+some skills may be used instead
+ 
+
+913
+00:20:06,200 --> 00:20:08,150
+some skills may be used instead
+depending on what the character is doing
+
+914
+00:20:08,150 --> 00:20:08,160
+depending on what the character is doing
+ 
+
+915
+00:20:08,160 --> 00:20:11,270
+depending on what the character is doing
+when the GM calls for initiative if the
+
+916
+00:20:11,270 --> 00:20:11,280
+when the GM calls for initiative if the
+ 
+
+917
+00:20:11,280 --> 00:20:13,340
+when the GM calls for initiative if the
+character is sneaking they would use
+
+918
+00:20:13,340 --> 00:20:13,350
+character is sneaking they would use
+ 
+
+919
+00:20:13,350 --> 00:20:15,980
+character is sneaking they would use
+their stealth skill if the character
+
+920
+00:20:15,980 --> 00:20:15,990
+their stealth skill if the character
+ 
+
+921
+00:20:15,990 --> 00:20:18,020
+their stealth skill if the character
+starts a fight by sucker-punching an
+
+922
+00:20:18,020 --> 00:20:18,030
+starts a fight by sucker-punching an
+ 
+
+923
+00:20:18,030 --> 00:20:20,180
+starts a fight by sucker-punching an
+enemy they would roll a deception and
+
+924
+00:20:20,180 --> 00:20:20,190
+enemy they would roll a deception and
+ 
+
+925
+00:20:20,190 --> 00:20:22,820
+enemy they would roll a deception and
+other skills may be used as allowed by
+
+926
+00:20:22,820 --> 00:20:22,830
+other skills may be used as allowed by
+ 
+
+927
+00:20:22,830 --> 00:20:25,760
+other skills may be used as allowed by
+the GM but generally speaking perception
+
+928
+00:20:25,760 --> 00:20:25,770
+the GM but generally speaking perception
+ 
+
+929
+00:20:25,770 --> 00:20:28,380
+the GM but generally speaking perception
+will be used for initiative
+
+930
+00:20:28,380 --> 00:20:28,390
+will be used for initiative
+ 
+
+931
+00:20:28,390 --> 00:20:30,990
+will be used for initiative
+when players are surprised by hidden
+
+932
+00:20:30,990 --> 00:20:31,000
+when players are surprised by hidden
+ 
+
+933
+00:20:31,000 --> 00:20:33,270
+when players are surprised by hidden
+enemies the total of those enemies
+
+934
+00:20:33,270 --> 00:20:33,280
+enemies the total of those enemies
+ 
+
+935
+00:20:33,280 --> 00:20:36,210
+enemies the total of those enemies
+stealth checks are also used for their
+
+936
+00:20:36,210 --> 00:20:36,220
+stealth checks are also used for their
+ 
+
+937
+00:20:36,220 --> 00:20:39,210
+stealth checks are also used for their
+initiatives they do not roll these again
+
+938
+00:20:39,210 --> 00:20:39,220
+initiatives they do not roll these again
+ 
+
+939
+00:20:39,220 --> 00:20:43,020
+initiatives they do not roll these again
+and there is no such thing as a surprise
+
+940
+00:20:43,020 --> 00:20:43,030
+and there is no such thing as a surprise
+ 
+
+941
+00:20:43,030 --> 00:20:46,080
+and there is no such thing as a surprise
+around in Pathfinder second edition but
+
+942
+00:20:46,080 --> 00:20:46,090
+around in Pathfinder second edition but
+ 
+
+943
+00:20:46,090 --> 00:20:47,970
+around in Pathfinder second edition but
+the better a creature is able to hide
+
+944
+00:20:47,970 --> 00:20:47,980
+the better a creature is able to hide
+ 
+
+945
+00:20:47,980 --> 00:20:50,430
+the better a creature is able to hide
+themselves the higher they will be in
+
+946
+00:20:50,430 --> 00:20:50,440
+themselves the higher they will be in
+ 
+
+947
+00:20:50,440 --> 00:20:52,440
+themselves the higher they will be in
+the initiative order which also
+
+948
+00:20:52,440 --> 00:20:52,450
+the initiative order which also
+ 
+
+949
+00:20:52,450 --> 00:20:54,990
+the initiative order which also
+increases the likelihood that they will
+
+950
+00:20:54,990 --> 00:20:55,000
+increases the likelihood that they will
+ 
+
+951
+00:20:55,000 --> 00:20:56,580
+increases the likelihood that they will
+be able to attack another creature
+
+952
+00:20:56,580 --> 00:20:56,590
+be able to attack another creature
+ 
+
+953
+00:20:56,590 --> 00:20:58,590
+be able to attack another creature
+before it can take an action to defend
+
+954
+00:20:58,590 --> 00:20:58,600
+before it can take an action to defend
+ 
+
+955
+00:20:58,600 --> 00:21:01,860
+before it can take an action to defend
+itself when a character's perception DC
+
+956
+00:21:01,860 --> 00:21:01,870
+itself when a character's perception DC
+ 
+
+957
+00:21:01,870 --> 00:21:04,770
+itself when a character's perception DC
+is beat by a sneaking enemy but that
+
+958
+00:21:04,770 --> 00:21:04,780
+is beat by a sneaking enemy but that
+ 
+
+959
+00:21:04,780 --> 00:21:07,289
+is beat by a sneaking enemy but that
+same character rolls higher on their
+
+960
+00:21:07,289 --> 00:21:07,299
+same character rolls higher on their
+ 
+
+961
+00:21:07,299 --> 00:21:09,720
+same character rolls higher on their
+initiative check using perception they
+
+962
+00:21:09,720 --> 00:21:09,730
+initiative check using perception they
+ 
+
+963
+00:21:09,730 --> 00:21:12,630
+initiative check using perception they
+get to act first but they still do not
+
+964
+00:21:12,630 --> 00:21:12,640
+get to act first but they still do not
+ 
+
+965
+00:21:12,640 --> 00:21:15,110
+get to act first but they still do not
+know that there is any enemy there in
+
+966
+00:21:15,110 --> 00:21:15,120
+know that there is any enemy there in
+ 
+
+967
+00:21:15,120 --> 00:21:18,060
+know that there is any enemy there in
+these cases that player might wish to
+
+968
+00:21:18,060 --> 00:21:18,070
+these cases that player might wish to
+ 
+
+969
+00:21:18,070 --> 00:21:20,610
+these cases that player might wish to
+use the delay action and delay their
+
+970
+00:21:20,610 --> 00:21:20,620
+use the delay action and delay their
+ 
+
+971
+00:21:20,620 --> 00:21:22,590
+use the delay action and delay their
+turn until the enemy reveals itself or
+
+972
+00:21:22,590 --> 00:21:22,600
+turn until the enemy reveals itself or
+ 
+
+973
+00:21:22,600 --> 00:21:25,320
+turn until the enemy reveals itself or
+the GM might wish to bend the rules a
+
+974
+00:21:25,320 --> 00:21:25,330
+the GM might wish to bend the rules a
+ 
+
+975
+00:21:25,330 --> 00:21:27,810
+the GM might wish to bend the rules a
+little bit and give that player a reason
+
+976
+00:21:27,810 --> 00:21:27,820
+little bit and give that player a reason
+ 
+
+977
+00:21:27,820 --> 00:21:31,340
+little bit and give that player a reason
+to use the seek action
+
+978
+00:21:31,340 --> 00:21:31,350
+
+ 
+
+979
+00:21:31,350 --> 00:21:32,810
+
+with that we'll bring this video to a
+
+980
+00:21:32,810 --> 00:21:32,820
+with that we'll bring this video to a
+ 
+
+981
+00:21:32,820 --> 00:21:34,580
+with that we'll bring this video to a
+close if you found this video helpful
+
+982
+00:21:34,580 --> 00:21:34,590
+close if you found this video helpful
+ 
+
+983
+00:21:34,590 --> 00:21:36,680
+close if you found this video helpful
+please give us a like and don't forget
+
+984
+00:21:36,680 --> 00:21:36,690
+please give us a like and don't forget
+ 
+
+985
+00:21:36,690 --> 00:21:38,300
+please give us a like and don't forget
+to click that subscribe button and the
+
+986
+00:21:38,300 --> 00:21:38,310
+to click that subscribe button and the
+ 
+
+987
+00:21:38,310 --> 00:21:39,890
+to click that subscribe button and the
+bell so you never miss out on our future
+
+988
+00:21:39,890 --> 00:21:39,900
+bell so you never miss out on our future
+ 
+
+989
+00:21:39,900 --> 00:21:42,230
+bell so you never miss out on our future
+videos leave us a comment letting us
+
+990
+00:21:42,230 --> 00:21:42,240
+videos leave us a comment letting us
+ 
+
+991
+00:21:42,240 --> 00:21:43,400
+videos leave us a comment letting us
+know what topics you'd like to see
+
+992
+00:21:43,400 --> 00:21:43,410
+know what topics you'd like to see
+ 
+
+993
+00:21:43,410 --> 00:21:45,590
+know what topics you'd like to see
+covered in our future videos and we can
+
+994
+00:21:45,590 --> 00:21:45,600
+covered in our future videos and we can
+ 
+
+995
+00:21:45,600 --> 00:21:46,850
+covered in our future videos and we can
+always be reached through our Twitter
+
+996
+00:21:46,850 --> 00:21:46,860
+always be reached through our Twitter
+ 
+
+997
+00:21:46,860 --> 00:21:49,430
+always be reached through our Twitter
+and Facebook pages too if you'd like to
+
+998
+00:21:49,430 --> 00:21:49,440
+and Facebook pages too if you'd like to
+ 
+
+999
+00:21:49,440 --> 00:21:50,930
+and Facebook pages too if you'd like to
+use some of the maps that we feature on
+
+1000
+00:21:50,930 --> 00:21:50,940
+use some of the maps that we feature on
+ 
+
+1001
+00:21:50,940 --> 00:21:52,730
+use some of the maps that we feature on
+our videos and your own games you can
+
+1002
+00:21:52,730 --> 00:21:52,740
+our videos and your own games you can
+ 
+
+1003
+00:21:52,740 --> 00:21:55,400
+our videos and your own games you can
+find them at maps of mastery a link to
+
+1004
+00:21:55,400 --> 00:21:55,410
+find them at maps of mastery a link to
+ 
+
+1005
+00:21:55,410 --> 00:21:56,720
+find them at maps of mastery a link to
+that store can be found in the
+
+1006
+00:21:56,720 --> 00:21:56,730
+that store can be found in the
+ 
+
+1007
+00:21:56,730 --> 00:21:59,480
+that store can be found in the
+description thanks for watching take
+
+1008
+00:21:59,480 --> 00:21:59,490
+description thanks for watching take
+ 
+
+1009
+00:21:59,490 --> 00:22:01,100
+description thanks for watching take
+care and we'll see you soon with more
+
+1010
+00:22:01,100 --> 00:22:01,110
+care and we'll see you soon with more
+ 
+
+1011
+00:22:01,110 --> 00:22:04,880
+care and we'll see you soon with more
+basics for your favorite tabletop games
+

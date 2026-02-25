@@ -1,0 +1,2735 @@
+1
+00:00:00,730 --> 00:00:03,149
+
+hello and welcome to basics for gamers
+
+2
+00:00:03,149 --> 00:00:03,159
+hello and welcome to basics for gamers
+ 
+
+3
+00:00:03,159 --> 00:00:05,670
+hello and welcome to basics for gamers
+presents the basics of damaged part 2
+
+4
+00:00:05,670 --> 00:00:05,680
+presents the basics of damaged part 2
+ 
+
+5
+00:00:05,680 --> 00:00:07,650
+presents the basics of damaged part 2
+for Pathfinder 2nd edition
+
+6
+00:00:07,650 --> 00:00:07,660
+for Pathfinder 2nd edition
+ 
+
+7
+00:00:07,660 --> 00:00:09,959
+for Pathfinder 2nd edition
+in part 1 we discussed the four step
+
+8
+00:00:09,959 --> 00:00:09,969
+in part 1 we discussed the four step
+ 
+
+9
+00:00:09,969 --> 00:00:12,209
+in part 1 we discussed the four step
+process for determining damage and in
+
+10
+00:00:12,209 --> 00:00:12,219
+process for determining damage and in
+ 
+
+11
+00:00:12,219 --> 00:00:13,920
+process for determining damage and in
+this video we're going to expand on that
+
+12
+00:00:13,920 --> 00:00:13,930
+this video we're going to expand on that
+ 
+
+13
+00:00:13,930 --> 00:00:16,740
+this video we're going to expand on that
+by covering a few of the u.s. familiar
+
+14
+00:00:16,740 --> 00:00:16,750
+by covering a few of the u.s. familiar
+ 
+
+15
+00:00:16,750 --> 00:00:19,019
+by covering a few of the u.s. familiar
+damage types starting with alignment
+
+16
+00:00:19,019 --> 00:00:19,029
+damage types starting with alignment
+ 
+
+17
+00:00:19,029 --> 00:00:21,470
+damage types starting with alignment
+damage
+
+18
+00:00:21,470 --> 00:00:21,480
+damage
+ 
+
+19
+00:00:21,480 --> 00:00:23,990
+damage
+alignment damage is a special kind of
+
+20
+00:00:23,990 --> 00:00:24,000
+alignment damage is a special kind of
+ 
+
+21
+00:00:24,000 --> 00:00:26,390
+alignment damage is a special kind of
+damage often associated with divine
+
+22
+00:00:26,390 --> 00:00:26,400
+damage often associated with divine
+ 
+
+23
+00:00:26,400 --> 00:00:29,330
+damage often associated with divine
+spellcasters in fiends there are four
+
+24
+00:00:29,330 --> 00:00:29,340
+spellcasters in fiends there are four
+ 
+
+25
+00:00:29,340 --> 00:00:33,470
+spellcasters in fiends there are four
+types of alignment damage chaotic evil
+
+26
+00:00:33,470 --> 00:00:33,480
+types of alignment damage chaotic evil
+ 
+
+27
+00:00:33,480 --> 00:00:37,580
+types of alignment damage chaotic evil
+good and lawful when a damaging effect
+
+28
+00:00:37,580 --> 00:00:37,590
+good and lawful when a damaging effect
+ 
+
+29
+00:00:37,590 --> 00:00:40,940
+good and lawful when a damaging effect
+applies alignment damage only creatures
+
+30
+00:00:40,940 --> 00:00:40,950
+applies alignment damage only creatures
+ 
+
+31
+00:00:40,950 --> 00:00:44,049
+applies alignment damage only creatures
+of the opposite alignment can be harmed
+
+32
+00:00:44,049 --> 00:00:44,059
+of the opposite alignment can be harmed
+ 
+
+33
+00:00:44,059 --> 00:00:47,210
+of the opposite alignment can be harmed
+so for example the clear of a good
+
+34
+00:00:47,210 --> 00:00:47,220
+so for example the clear of a good
+ 
+
+35
+00:00:47,220 --> 00:00:49,670
+so for example the clear of a good
+aligned deity attacks an enemy with
+
+36
+00:00:49,670 --> 00:00:49,680
+aligned deity attacks an enemy with
+ 
+
+37
+00:00:49,680 --> 00:00:52,580
+aligned deity attacks an enemy with
+divine lance in the description for the
+
+38
+00:00:52,580 --> 00:00:52,590
+divine lance in the description for the
+ 
+
+39
+00:00:52,590 --> 00:00:54,560
+divine lance in the description for the
+spell we see it deal with alignment
+
+40
+00:00:54,560 --> 00:00:54,570
+spell we see it deal with alignment
+ 
+
+41
+00:00:54,570 --> 00:00:57,140
+spell we see it deal with alignment
+damage based on the casters chosen deity
+
+42
+00:00:57,140 --> 00:00:57,150
+damage based on the casters chosen deity
+ 
+
+43
+00:00:57,150 --> 00:01:00,200
+damage based on the casters chosen deity
+in this case the spell inflicts good
+
+44
+00:01:00,200 --> 00:01:00,210
+in this case the spell inflicts good
+ 
+
+45
+00:01:00,210 --> 00:01:02,480
+in this case the spell inflicts good
+alignment damage which means it will
+
+46
+00:01:02,480 --> 00:01:02,490
+alignment damage which means it will
+ 
+
+47
+00:01:02,490 --> 00:01:05,030
+alignment damage which means it will
+only harm a creature that has one of the
+
+48
+00:01:05,030 --> 00:01:05,040
+only harm a creature that has one of the
+ 
+
+49
+00:01:05,040 --> 00:01:08,120
+only harm a creature that has one of the
+three evil alignments if the clerk is a
+
+50
+00:01:08,120 --> 00:01:08,130
+three evil alignments if the clerk is a
+ 
+
+51
+00:01:08,130 --> 00:01:10,580
+three evil alignments if the clerk is a
+devil with divine lance it will harm it
+
+52
+00:01:10,580 --> 00:01:10,590
+devil with divine lance it will harm it
+ 
+
+53
+00:01:10,590 --> 00:01:13,310
+devil with divine lance it will harm it
+because Devils are evil but if the same
+
+54
+00:01:13,310 --> 00:01:13,320
+because Devils are evil but if the same
+ 
+
+55
+00:01:13,320 --> 00:01:15,710
+because Devils are evil but if the same
+clerk shoots a divine Lance at a vicious
+
+56
+00:01:15,710 --> 00:01:15,720
+clerk shoots a divine Lance at a vicious
+ 
+
+57
+00:01:15,720 --> 00:01:18,139
+clerk shoots a divine Lance at a vicious
+cloaker it won't have any effect at all
+
+58
+00:01:18,139 --> 00:01:18,149
+cloaker it won't have any effect at all
+ 
+
+59
+00:01:18,149 --> 00:01:20,810
+cloaker it won't have any effect at all
+because clickers are a chaotic neutral
+
+60
+00:01:20,810 --> 00:01:20,820
+because clickers are a chaotic neutral
+ 
+
+61
+00:01:20,820 --> 00:01:24,200
+because clickers are a chaotic neutral
+and only evil creatures can be harmed by
+
+62
+00:01:24,200 --> 00:01:24,210
+and only evil creatures can be harmed by
+ 
+
+63
+00:01:24,210 --> 00:01:27,230
+and only evil creatures can be harmed by
+good alignment damage however lawful
+
+64
+00:01:27,230 --> 00:01:27,240
+good alignment damage however lawful
+ 
+
+65
+00:01:27,240 --> 00:01:30,290
+good alignment damage however lawful
+alignment damage would harm a clicker it
+
+66
+00:01:30,290 --> 00:01:30,300
+alignment damage would harm a clicker it
+ 
+
+67
+00:01:30,300 --> 00:01:31,820
+alignment damage would harm a clicker it
+is important to note that alignment
+
+68
+00:01:31,820 --> 00:01:31,830
+is important to note that alignment
+ 
+
+69
+00:01:31,830 --> 00:01:34,010
+is important to note that alignment
+damage comes from an effect and has
+
+70
+00:01:34,010 --> 00:01:34,020
+damage comes from an effect and has
+ 
+
+71
+00:01:34,020 --> 00:01:36,169
+damage comes from an effect and has
+nothing to do with a character's
+
+72
+00:01:36,169 --> 00:01:36,179
+nothing to do with a character's
+ 
+
+73
+00:01:36,179 --> 00:01:38,870
+nothing to do with a character's
+alignment take for example a good align
+
+74
+00:01:38,870 --> 00:01:38,880
+alignment take for example a good align
+ 
+
+75
+00:01:38,880 --> 00:01:40,730
+alignment take for example a good align
+cleric uhit's a monster that has the
+
+76
+00:01:40,730 --> 00:01:40,740
+cleric uhit's a monster that has the
+ 
+
+77
+00:01:40,740 --> 00:01:44,630
+cleric uhit's a monster that has the
+weakness good 5 with their hammer this
+
+78
+00:01:44,630 --> 00:01:44,640
+weakness good 5 with their hammer this
+ 
+
+79
+00:01:44,640 --> 00:01:46,940
+weakness good 5 with their hammer this
+attack will not trigger the monsters
+
+80
+00:01:46,940 --> 00:01:46,950
+attack will not trigger the monsters
+ 
+
+81
+00:01:46,950 --> 00:01:49,370
+attack will not trigger the monsters
+weakness because hammers deal blunt
+
+82
+00:01:49,370 --> 00:01:49,380
+weakness because hammers deal blunt
+ 
+
+83
+00:01:49,380 --> 00:01:52,309
+weakness because hammers deal blunt
+damage it doesn't matter what alignment
+
+84
+00:01:52,309 --> 00:01:52,319
+damage it doesn't matter what alignment
+ 
+
+85
+00:01:52,319 --> 00:01:54,859
+damage it doesn't matter what alignment
+the person wielding the hammer is the
+
+86
+00:01:54,859 --> 00:01:54,869
+the person wielding the hammer is the
+ 
+
+87
+00:01:54,869 --> 00:01:57,260
+the person wielding the hammer is the
+fact that their line is good does not
+
+88
+00:01:57,260 --> 00:01:57,270
+fact that their line is good does not
+ 
+
+89
+00:01:57,270 --> 00:01:59,240
+fact that their line is good does not
+trigger the monsters weakness too good
+
+90
+00:01:59,240 --> 00:01:59,250
+trigger the monsters weakness too good
+ 
+
+91
+00:01:59,250 --> 00:02:01,940
+trigger the monsters weakness too good
+but if that clerk was wielding a holy
+
+92
+00:02:01,940 --> 00:02:01,950
+but if that clerk was wielding a holy
+ 
+
+93
+00:02:01,950 --> 00:02:05,210
+but if that clerk was wielding a holy
+war hammer that deals an extra 1 d6 good
+
+94
+00:02:05,210 --> 00:02:05,220
+war hammer that deals an extra 1 d6 good
+ 
+
+95
+00:02:05,220 --> 00:02:07,850
+war hammer that deals an extra 1 d6 good
+damage then that would trigger the
+
+96
+00:02:07,850 --> 00:02:07,860
+damage then that would trigger the
+ 
+
+97
+00:02:07,860 --> 00:02:10,370
+damage then that would trigger the
+monsters weakness and apply an extra 5
+
+98
+00:02:10,370 --> 00:02:10,380
+monsters weakness and apply an extra 5
+ 
+
+99
+00:02:10,380 --> 00:02:12,870
+monsters weakness and apply an extra 5
+points of damage
+
+100
+00:02:12,870 --> 00:02:12,880
+points of damage
+ 
+
+101
+00:02:12,880 --> 00:02:15,180
+points of damage
+positive and negative are two special
+
+102
+00:02:15,180 --> 00:02:15,190
+positive and negative are two special
+ 
+
+103
+00:02:15,190 --> 00:02:18,150
+positive and negative are two special
+types of energy damage these names can
+
+104
+00:02:18,150 --> 00:02:18,160
+types of energy damage these names can
+ 
+
+105
+00:02:18,160 --> 00:02:20,130
+types of energy damage these names can
+be confusing the new players but they're
+
+106
+00:02:20,130 --> 00:02:20,140
+be confusing the new players but they're
+ 
+
+107
+00:02:20,140 --> 00:02:23,100
+be confusing the new players but they're
+actually pretty simple positive damage
+
+108
+00:02:23,100 --> 00:02:23,110
+actually pretty simple positive damage
+ 
+
+109
+00:02:23,110 --> 00:02:26,190
+actually pretty simple positive damage
+only harms the undead and has no effect
+
+110
+00:02:26,190 --> 00:02:26,200
+only harms the undead and has no effect
+ 
+
+111
+00:02:26,200 --> 00:02:28,470
+only harms the undead and has no effect
+at all on living creatures or objects
+
+112
+00:02:28,470 --> 00:02:28,480
+at all on living creatures or objects
+ 
+
+113
+00:02:28,480 --> 00:02:31,080
+at all on living creatures or objects
+other game systems might call this holy
+
+114
+00:02:31,080 --> 00:02:31,090
+other game systems might call this holy
+ 
+
+115
+00:02:31,090 --> 00:02:34,230
+other game systems might call this holy
+aura radiant energy and negative damage
+
+116
+00:02:34,230 --> 00:02:34,240
+aura radiant energy and negative damage
+ 
+
+117
+00:02:34,240 --> 00:02:36,660
+aura radiant energy and negative damage
+is just the opposite of that negative
+
+118
+00:02:36,660 --> 00:02:36,670
+is just the opposite of that negative
+ 
+
+119
+00:02:36,670 --> 00:02:39,600
+is just the opposite of that negative
+damage only harms living creatures and
+
+120
+00:02:39,600 --> 00:02:39,610
+damage only harms living creatures and
+ 
+
+121
+00:02:39,610 --> 00:02:43,110
+damage only harms living creatures and
+has no effect at all on the undead or on
+
+122
+00:02:43,110 --> 00:02:43,120
+has no effect at all on the undead or on
+ 
+
+123
+00:02:43,120 --> 00:02:45,540
+has no effect at all on the undead or on
+objects other games you have played
+
+124
+00:02:45,540 --> 00:02:45,550
+objects other games you have played
+ 
+
+125
+00:02:45,550 --> 00:02:47,160
+objects other games you have played
+might have called this unholy or
+
+126
+00:02:47,160 --> 00:02:47,170
+might have called this unholy or
+ 
+
+127
+00:02:47,170 --> 00:02:50,370
+might have called this unholy or
+necrotic damage and some effects like
+
+128
+00:02:50,370 --> 00:02:50,380
+necrotic damage and some effects like
+ 
+
+129
+00:02:50,380 --> 00:02:53,970
+necrotic damage and some effects like
+heal and harm spells can also rejuvenate
+
+130
+00:02:53,970 --> 00:02:53,980
+heal and harm spells can also rejuvenate
+ 
+
+131
+00:02:53,980 --> 00:02:56,330
+heal and harm spells can also rejuvenate
+some creatures while at the same time
+
+132
+00:02:56,330 --> 00:02:56,340
+some creatures while at the same time
+ 
+
+133
+00:02:56,340 --> 00:02:59,790
+some creatures while at the same time
+harming others for example a heal spell
+
+134
+00:02:59,790 --> 00:02:59,800
+harming others for example a heal spell
+ 
+
+135
+00:02:59,800 --> 00:03:03,000
+harming others for example a heal spell
+can release a burst of positive energy
+
+136
+00:03:03,000 --> 00:03:03,010
+can release a burst of positive energy
+ 
+
+137
+00:03:03,010 --> 00:03:06,120
+can release a burst of positive energy
+that will heal any living creatures in
+
+138
+00:03:06,120 --> 00:03:06,130
+that will heal any living creatures in
+ 
+
+139
+00:03:06,130 --> 00:03:09,060
+that will heal any living creatures in
+the area while at the same time harming
+
+140
+00:03:09,060 --> 00:03:09,070
+the area while at the same time harming
+ 
+
+141
+00:03:09,070 --> 00:03:12,330
+the area while at the same time harming
+any undead in that area this how it
+
+142
+00:03:12,330 --> 00:03:12,340
+any undead in that area this how it
+ 
+
+143
+00:03:12,340 --> 00:03:14,040
+any undead in that area this how it
+works when dealing with positive energy
+
+144
+00:03:14,040 --> 00:03:14,050
+works when dealing with positive energy
+ 
+
+145
+00:03:14,050 --> 00:03:18,000
+works when dealing with positive energy
+or negative energy but when the effects
+
+146
+00:03:18,000 --> 00:03:18,010
+or negative energy but when the effects
+ 
+
+147
+00:03:18,010 --> 00:03:21,660
+or negative energy but when the effects
+specifically says the word damage like
+
+148
+00:03:21,660 --> 00:03:21,670
+specifically says the word damage like
+ 
+
+149
+00:03:21,670 --> 00:03:25,170
+specifically says the word damage like
+with positive damage then it has no
+
+150
+00:03:25,170 --> 00:03:25,180
+with positive damage then it has no
+ 
+
+151
+00:03:25,180 --> 00:03:28,380
+with positive damage then it has no
+healing effects at all and can only be
+
+152
+00:03:28,380 --> 00:03:28,390
+healing effects at all and can only be
+ 
+
+153
+00:03:28,390 --> 00:03:32,460
+healing effects at all and can only be
+used to harm Undead
+
+154
+00:03:32,460 --> 00:03:32,470
+
+ 
+
+155
+00:03:32,470 --> 00:03:35,070
+
+another damage type worth discussing is
+
+156
+00:03:35,070 --> 00:03:35,080
+another damage type worth discussing is
+ 
+
+157
+00:03:35,080 --> 00:03:38,160
+another damage type worth discussing is
+precision damage precision damage is
+
+158
+00:03:38,160 --> 00:03:38,170
+precision damage precision damage is
+ 
+
+159
+00:03:38,170 --> 00:03:40,650
+precision damage precision damage is
+additional damage offered by some
+
+160
+00:03:40,650 --> 00:03:40,660
+additional damage offered by some
+ 
+
+161
+00:03:40,660 --> 00:03:42,510
+additional damage offered by some
+special abilities in effects that
+
+162
+00:03:42,510 --> 00:03:42,520
+special abilities in effects that
+ 
+
+163
+00:03:42,520 --> 00:03:45,270
+special abilities in effects that
+increase the damage of a regular attack
+
+164
+00:03:45,270 --> 00:03:45,280
+increase the damage of a regular attack
+ 
+
+165
+00:03:45,280 --> 00:03:47,940
+increase the damage of a regular attack
+the key to remember here is that with
+
+166
+00:03:47,940 --> 00:03:47,950
+the key to remember here is that with
+ 
+
+167
+00:03:47,950 --> 00:03:51,660
+the key to remember here is that with
+precision damage it increases the base
+
+168
+00:03:51,660 --> 00:03:51,670
+precision damage it increases the base
+ 
+
+169
+00:03:51,670 --> 00:03:55,350
+precision damage it increases the base
+damage type for example the rogue sneak
+
+170
+00:03:55,350 --> 00:03:55,360
+damage type for example the rogue sneak
+ 
+
+171
+00:03:55,360 --> 00:03:58,350
+damage type for example the rogue sneak
+attack deals precision damage if a first
+
+172
+00:03:58,350 --> 00:03:58,360
+attack deals precision damage if a first
+ 
+
+173
+00:03:58,360 --> 00:04:00,060
+attack deals precision damage if a first
+level rogue performs a sneak attack with
+
+174
+00:04:00,060 --> 00:04:00,070
+level rogue performs a sneak attack with
+ 
+
+175
+00:04:00,070 --> 00:04:03,090
+level rogue performs a sneak attack with
+a dagger it will deal 1.d4 piercing
+
+176
+00:04:03,090 --> 00:04:03,100
+a dagger it will deal 1.d4 piercing
+ 
+
+177
+00:04:03,100 --> 00:04:06,330
+a dagger it will deal 1.d4 piercing
+damage for the dagger and 1 d6 precision
+
+178
+00:04:06,330 --> 00:04:06,340
+damage for the dagger and 1 d6 precision
+ 
+
+179
+00:04:06,340 --> 00:04:09,060
+damage for the dagger and 1 d6 precision
+damage for the sneak attack but these
+
+180
+00:04:09,060 --> 00:04:09,070
+damage for the sneak attack but these
+ 
+
+181
+00:04:09,070 --> 00:04:11,730
+damage for the sneak attack but these
+are not two different pools of damage
+
+182
+00:04:11,730 --> 00:04:11,740
+are not two different pools of damage
+ 
+
+183
+00:04:11,740 --> 00:04:14,370
+are not two different pools of damage
+you wouldn't apply one D for piercing
+
+184
+00:04:14,370 --> 00:04:14,380
+you wouldn't apply one D for piercing
+ 
+
+185
+00:04:14,380 --> 00:04:17,130
+you wouldn't apply one D for piercing
+for the dagger and then 1 d6 precision
+
+186
+00:04:17,130 --> 00:04:17,140
+for the dagger and then 1 d6 precision
+ 
+
+187
+00:04:17,140 --> 00:04:19,710
+for the dagger and then 1 d6 precision
+damage for the sneak attack instead the
+
+188
+00:04:19,710 --> 00:04:19,720
+damage for the sneak attack instead the
+ 
+
+189
+00:04:19,720 --> 00:04:22,830
+damage for the sneak attack instead the
+precision damage increases the base
+
+190
+00:04:22,830 --> 00:04:22,840
+precision damage increases the base
+ 
+
+191
+00:04:22,840 --> 00:04:26,370
+precision damage increases the base
+damage meaning this work would deal 1 d
+
+192
+00:04:26,370 --> 00:04:26,380
+damage meaning this work would deal 1 d
+ 
+
+193
+00:04:26,380 --> 00:04:30,210
+damage meaning this work would deal 1 d
+4 + 1 d6 piercing damage when they
+
+194
+00:04:30,210 --> 00:04:30,220
+4 + 1 d6 piercing damage when they
+ 
+
+195
+00:04:30,220 --> 00:04:33,210
+4 + 1 d6 piercing damage when they
+scores snake attack with a dagger the
+
+196
+00:04:33,210 --> 00:04:33,220
+scores snake attack with a dagger the
+ 
+
+197
+00:04:33,220 --> 00:04:34,980
+scores snake attack with a dagger the
+distinction of increasing the base
+
+198
+00:04:34,980 --> 00:04:34,990
+distinction of increasing the base
+ 
+
+199
+00:04:34,990 --> 00:04:36,960
+distinction of increasing the base
+damage instead of applying it as 2
+
+200
+00:04:36,960 --> 00:04:36,970
+damage instead of applying it as 2
+ 
+
+201
+00:04:36,970 --> 00:04:39,150
+damage instead of applying it as 2
+separate pools of damage is important
+
+202
+00:04:39,150 --> 00:04:39,160
+separate pools of damage is important
+ 
+
+203
+00:04:39,160 --> 00:04:40,830
+separate pools of damage is important
+when dealing with resistances and
+
+204
+00:04:40,830 --> 00:04:40,840
+when dealing with resistances and
+ 
+
+205
+00:04:40,840 --> 00:04:43,860
+when dealing with resistances and
+weaknesses for example say this rogue
+
+206
+00:04:43,860 --> 00:04:43,870
+weaknesses for example say this rogue
+ 
+
+207
+00:04:43,870 --> 00:04:45,780
+weaknesses for example say this rogue
+used their sneak attack against a
+
+208
+00:04:45,780 --> 00:04:45,790
+used their sneak attack against a
+ 
+
+209
+00:04:45,790 --> 00:04:48,030
+used their sneak attack against a
+skeleton with resistance 5 versus
+
+210
+00:04:48,030 --> 00:04:48,040
+skeleton with resistance 5 versus
+ 
+
+211
+00:04:48,040 --> 00:04:50,070
+skeleton with resistance 5 versus
+piercing damage if he treated the
+
+212
+00:04:50,070 --> 00:04:50,080
+piercing damage if he treated the
+ 
+
+213
+00:04:50,080 --> 00:04:52,409
+piercing damage if he treated the
+piercing and precision damage separately
+
+214
+00:04:52,409 --> 00:04:52,419
+piercing and precision damage separately
+ 
+
+215
+00:04:52,419 --> 00:04:55,230
+piercing and precision damage separately
+and the rogue rolled a 2 for the daggers
+
+216
+00:04:55,230 --> 00:04:55,240
+and the rogue rolled a 2 for the daggers
+ 
+
+217
+00:04:55,240 --> 00:04:57,900
+and the rogue rolled a 2 for the daggers
+piercing damage and a 6 for the sneak
+
+218
+00:04:57,900 --> 00:04:57,910
+piercing damage and a 6 for the sneak
+ 
+
+219
+00:04:57,910 --> 00:05:00,360
+piercing damage and a 6 for the sneak
+attacks precision damage you might be
+
+220
+00:05:00,360 --> 00:05:00,370
+attacks precision damage you might be
+ 
+
+221
+00:05:00,370 --> 00:05:02,220
+attacks precision damage you might be
+tempted to say that the skeletons
+
+222
+00:05:02,220 --> 00:05:02,230
+tempted to say that the skeletons
+ 
+
+223
+00:05:02,230 --> 00:05:05,100
+tempted to say that the skeletons
+resistance to piercing a 5 would nullify
+
+224
+00:05:05,100 --> 00:05:05,110
+resistance to piercing a 5 would nullify
+ 
+
+225
+00:05:05,110 --> 00:05:07,950
+resistance to piercing a 5 would nullify
+the daggers damage but the skeleton
+
+226
+00:05:07,950 --> 00:05:07,960
+the daggers damage but the skeleton
+ 
+
+227
+00:05:07,960 --> 00:05:10,320
+the daggers damage but the skeleton
+would still suffer the 6 precision
+
+228
+00:05:10,320 --> 00:05:10,330
+would still suffer the 6 precision
+ 
+
+229
+00:05:10,330 --> 00:05:12,450
+would still suffer the 6 precision
+damage from the sneak attack and that's
+
+230
+00:05:12,450 --> 00:05:12,460
+damage from the sneak attack and that's
+ 
+
+231
+00:05:12,460 --> 00:05:13,190
+damage from the sneak attack and that's
+not correct
+
+232
+00:05:13,190 --> 00:05:13,200
+not correct
+ 
+
+233
+00:05:13,200 --> 00:05:16,650
+not correct
+instead precision damage raises the base
+
+234
+00:05:16,650 --> 00:05:16,660
+instead precision damage raises the base
+ 
+
+235
+00:05:16,660 --> 00:05:18,870
+instead precision damage raises the base
+damage type of the attack that is
+
+236
+00:05:18,870 --> 00:05:18,880
+damage type of the attack that is
+ 
+
+237
+00:05:18,880 --> 00:05:21,930
+damage type of the attack that is
+associated with so in this case it would
+
+238
+00:05:21,930 --> 00:05:21,940
+associated with so in this case it would
+ 
+
+239
+00:05:21,940 --> 00:05:25,890
+associated with so in this case it would
+be 1 D 4 + 1 d 6 piercing damage to on
+
+240
+00:05:25,890 --> 00:05:25,900
+be 1 D 4 + 1 d 6 piercing damage to on
+ 
+
+241
+00:05:25,900 --> 00:05:28,110
+be 1 D 4 + 1 d 6 piercing damage to on
+one die and 6 on the other would be 8
+
+242
+00:05:28,110 --> 00:05:28,120
+one die and 6 on the other would be 8
+ 
+
+243
+00:05:28,120 --> 00:05:30,630
+one die and 6 on the other would be 8
+piercing damage which is then lowered by
+
+244
+00:05:30,630 --> 00:05:30,640
+piercing damage which is then lowered by
+ 
+
+245
+00:05:30,640 --> 00:05:32,940
+piercing damage which is then lowered by
+5 due to the skeletons resistance to
+
+246
+00:05:32,940 --> 00:05:32,950
+5 due to the skeletons resistance to
+ 
+
+247
+00:05:32,950 --> 00:05:38,210
+5 due to the skeletons resistance to
+piercing leaving only 3 points of damage
+
+248
+00:05:38,210 --> 00:05:38,220
+
+ 
+
+249
+00:05:38,220 --> 00:05:40,190
+
+another kind of damage worth discussing
+
+250
+00:05:40,190 --> 00:05:40,200
+another kind of damage worth discussing
+ 
+
+251
+00:05:40,200 --> 00:05:41,600
+another kind of damage worth discussing
+because it functions a little
+
+252
+00:05:41,600 --> 00:05:41,610
+because it functions a little
+ 
+
+253
+00:05:41,610 --> 00:05:44,350
+because it functions a little
+differently is persistent damage
+
+254
+00:05:44,350 --> 00:05:44,360
+differently is persistent damage
+ 
+
+255
+00:05:44,360 --> 00:05:46,790
+differently is persistent damage
+persistent damage is a condition that
+
+256
+00:05:46,790 --> 00:05:46,800
+persistent damage is a condition that
+ 
+
+257
+00:05:46,800 --> 00:05:49,370
+persistent damage is a condition that
+causes damage to reoccur more than once
+
+258
+00:05:49,370 --> 00:05:49,380
+causes damage to reoccur more than once
+ 
+
+259
+00:05:49,380 --> 00:05:53,000
+causes damage to reoccur more than once
+things like bleed damage acid or being
+
+260
+00:05:53,000 --> 00:05:53,010
+things like bleed damage acid or being
+ 
+
+261
+00:05:53,010 --> 00:05:55,940
+things like bleed damage acid or being
+set on fire could all be examples of
+
+262
+00:05:55,940 --> 00:05:55,950
+set on fire could all be examples of
+ 
+
+263
+00:05:55,950 --> 00:05:59,120
+set on fire could all be examples of
+persistent damage when you are under the
+
+264
+00:05:59,120 --> 00:05:59,130
+persistent damage when you are under the
+ 
+
+265
+00:05:59,130 --> 00:06:01,610
+persistent damage when you are under the
+effect of persistent damage you will
+
+266
+00:06:01,610 --> 00:06:01,620
+effect of persistent damage you will
+ 
+
+267
+00:06:01,620 --> 00:06:03,830
+effect of persistent damage you will
+suffer the listed amount of damage at
+
+268
+00:06:03,830 --> 00:06:03,840
+suffer the listed amount of damage at
+ 
+
+269
+00:06:03,840 --> 00:06:06,370
+suffer the listed amount of damage at
+the end of each of your terms
+
+270
+00:06:06,370 --> 00:06:06,380
+the end of each of your terms
+ 
+
+271
+00:06:06,380 --> 00:06:10,220
+the end of each of your terms
+after which you roll a DC 15 flat check
+
+272
+00:06:10,220 --> 00:06:10,230
+after which you roll a DC 15 flat check
+ 
+
+273
+00:06:10,230 --> 00:06:12,860
+after which you roll a DC 15 flat check
+and if successful you remove the
+
+274
+00:06:12,860 --> 00:06:12,870
+and if successful you remove the
+ 
+
+275
+00:06:12,870 --> 00:06:15,500
+and if successful you remove the
+persistent damage condition for example
+
+276
+00:06:15,500 --> 00:06:15,510
+persistent damage condition for example
+ 
+
+277
+00:06:15,510 --> 00:06:17,120
+persistent damage condition for example
+if you're hit with an attack that
+
+278
+00:06:17,120 --> 00:06:17,130
+if you're hit with an attack that
+ 
+
+279
+00:06:17,130 --> 00:06:20,120
+if you're hit with an attack that
+applies five points of persistent fire
+
+280
+00:06:20,120 --> 00:06:20,130
+applies five points of persistent fire
+ 
+
+281
+00:06:20,130 --> 00:06:22,970
+applies five points of persistent fire
+damage then at the end of your next turn
+
+282
+00:06:22,970 --> 00:06:22,980
+damage then at the end of your next turn
+ 
+
+283
+00:06:22,980 --> 00:06:25,100
+damage then at the end of your next turn
+you will suffer five points of fire
+
+284
+00:06:25,100 --> 00:06:25,110
+you will suffer five points of fire
+ 
+
+285
+00:06:25,110 --> 00:06:28,850
+you will suffer five points of fire
+damage and roll one d20 says this is a
+
+286
+00:06:28,850 --> 00:06:28,860
+damage and roll one d20 says this is a
+ 
+
+287
+00:06:28,860 --> 00:06:31,100
+damage and roll one d20 says this is a
+flat check there are no bonuses or
+
+288
+00:06:31,100 --> 00:06:31,110
+flat check there are no bonuses or
+ 
+
+289
+00:06:31,110 --> 00:06:33,500
+flat check there are no bonuses or
+penalties applied to this role it's just
+
+290
+00:06:33,500 --> 00:06:33,510
+penalties applied to this role it's just
+ 
+
+291
+00:06:33,510 --> 00:06:37,190
+penalties applied to this role it's just
+a straight one d20 if the die shows a 15
+
+292
+00:06:37,190 --> 00:06:37,200
+a straight one d20 if the die shows a 15
+ 
+
+293
+00:06:37,200 --> 00:06:39,320
+a straight one d20 if the die shows a 15
+or higher then the persistent game is
+
+294
+00:06:39,320 --> 00:06:39,330
+or higher then the persistent game is
+ 
+
+295
+00:06:39,330 --> 00:06:41,660
+or higher then the persistent game is
+condition goes away and if the die shows
+
+296
+00:06:41,660 --> 00:06:41,670
+condition goes away and if the die shows
+ 
+
+297
+00:06:41,670 --> 00:06:44,960
+condition goes away and if the die shows
+a 14 or lower then it continues and at
+
+298
+00:06:44,960 --> 00:06:44,970
+a 14 or lower then it continues and at
+ 
+
+299
+00:06:44,970 --> 00:06:46,909
+a 14 or lower then it continues and at
+the end of your next turn you will
+
+300
+00:06:46,909 --> 00:06:46,919
+the end of your next turn you will
+ 
+
+301
+00:06:46,919 --> 00:06:48,620
+the end of your next turn you will
+suffer another five points of fire
+
+302
+00:06:48,620 --> 00:06:48,630
+suffer another five points of fire
+ 
+
+303
+00:06:48,630 --> 00:06:52,340
+suffer another five points of fire
+damage and roll another DC 15 flat check
+
+304
+00:06:52,340 --> 00:06:52,350
+damage and roll another DC 15 flat check
+ 
+
+305
+00:06:52,350 --> 00:06:54,950
+damage and roll another DC 15 flat check
+the good news is you're not at the mercy
+
+306
+00:06:54,950 --> 00:06:54,960
+the good news is you're not at the mercy
+ 
+
+307
+00:06:54,960 --> 00:06:57,200
+the good news is you're not at the mercy
+of one flat check every round to remove
+
+308
+00:06:57,200 --> 00:06:57,210
+of one flat check every round to remove
+ 
+
+309
+00:06:57,210 --> 00:07:00,050
+of one flat check every round to remove
+the condition you can also use assisted
+
+310
+00:07:00,050 --> 00:07:00,060
+the condition you can also use assisted
+ 
+
+311
+00:07:00,060 --> 00:07:03,320
+the condition you can also use assisted
+recovery assisted recovery can be taken
+
+312
+00:07:03,320 --> 00:07:03,330
+recovery assisted recovery can be taken
+ 
+
+313
+00:07:03,330 --> 00:07:06,380
+recovery assisted recovery can be taken
+by yourself or by an ally and cost two
+
+314
+00:07:06,380 --> 00:07:06,390
+by yourself or by an ally and cost two
+ 
+
+315
+00:07:06,390 --> 00:07:09,140
+by yourself or by an ally and cost two
+actions when you take the assisted
+
+316
+00:07:09,140 --> 00:07:09,150
+actions when you take the assisted
+ 
+
+317
+00:07:09,150 --> 00:07:11,540
+actions when you take the assisted
+recovery action you explain to the GM
+
+318
+00:07:11,540 --> 00:07:11,550
+recovery action you explain to the GM
+ 
+
+319
+00:07:11,550 --> 00:07:13,640
+recovery action you explain to the GM
+which you would like to do to stop the
+
+320
+00:07:13,640 --> 00:07:13,650
+which you would like to do to stop the
+ 
+
+321
+00:07:13,650 --> 00:07:15,950
+which you would like to do to stop the
+persistent damage and they determine
+
+322
+00:07:15,950 --> 00:07:15,960
+persistent damage and they determine
+ 
+
+323
+00:07:15,960 --> 00:07:18,500
+persistent damage and they determine
+what effect your action will have the
+
+324
+00:07:18,500 --> 00:07:18,510
+what effect your action will have the
+ 
+
+325
+00:07:18,510 --> 00:07:20,810
+what effect your action will have the
+normal result of assisted recovery is
+
+326
+00:07:20,810 --> 00:07:20,820
+normal result of assisted recovery is
+ 
+
+327
+00:07:20,820 --> 00:07:22,790
+normal result of assisted recovery is
+the afflicted character immediately
+
+328
+00:07:22,790 --> 00:07:22,800
+the afflicted character immediately
+ 
+
+329
+00:07:22,800 --> 00:07:25,670
+the afflicted character immediately
+makes an extra DC 15 flat check to end
+
+330
+00:07:25,670 --> 00:07:25,680
+makes an extra DC 15 flat check to end
+ 
+
+331
+00:07:25,680 --> 00:07:28,250
+makes an extra DC 15 flat check to end
+the persistent damage but the GM may
+
+332
+00:07:28,250 --> 00:07:28,260
+the persistent damage but the GM may
+ 
+
+333
+00:07:28,260 --> 00:07:30,560
+the persistent damage but the GM may
+grant additional bonuses depending on
+
+334
+00:07:30,560 --> 00:07:30,570
+grant additional bonuses depending on
+ 
+
+335
+00:07:30,570 --> 00:07:33,680
+grant additional bonuses depending on
+your specific circumstances say you're
+
+336
+00:07:33,680 --> 00:07:33,690
+your specific circumstances say you're
+ 
+
+337
+00:07:33,690 --> 00:07:35,930
+your specific circumstances say you're
+on fire and suffering persistent fire
+
+338
+00:07:35,930 --> 00:07:35,940
+on fire and suffering persistent fire
+ 
+
+339
+00:07:35,940 --> 00:07:38,750
+on fire and suffering persistent fire
+damage if you spend two actions on
+
+340
+00:07:38,750 --> 00:07:38,760
+damage if you spend two actions on
+ 
+
+341
+00:07:38,760 --> 00:07:41,450
+damage if you spend two actions on
+assisted recovery and explain to the GM
+
+342
+00:07:41,450 --> 00:07:41,460
+assisted recovery and explain to the GM
+ 
+
+343
+00:07:41,460 --> 00:07:43,310
+assisted recovery and explain to the GM
+that you're patting yourself down with
+
+344
+00:07:43,310 --> 00:07:43,320
+that you're patting yourself down with
+ 
+
+345
+00:07:43,320 --> 00:07:46,310
+that you're patting yourself down with
+leather gloves to smother the fire they
+
+346
+00:07:46,310 --> 00:07:46,320
+leather gloves to smother the fire they
+ 
+
+347
+00:07:46,320 --> 00:07:49,520
+leather gloves to smother the fire they
+may grant you an immediate DC 15 flat
+
+348
+00:07:49,520 --> 00:07:49,530
+may grant you an immediate DC 15 flat
+ 
+
+349
+00:07:49,530 --> 00:07:50,360
+may grant you an immediate DC 15 flat
+check
+
+350
+00:07:50,360 --> 00:07:50,370
+check
+ 
+
+351
+00:07:50,370 --> 00:07:52,879
+check
+if you say you open your water skin and
+
+352
+00:07:52,879 --> 00:07:52,889
+if you say you open your water skin and
+ 
+
+353
+00:07:52,889 --> 00:07:55,850
+if you say you open your water skin and
+you pour it on you they may lower the DC
+
+354
+00:07:55,850 --> 00:07:55,860
+you pour it on you they may lower the DC
+ 
+
+355
+00:07:55,860 --> 00:07:58,790
+you pour it on you they may lower the DC
+of that check to ten and if you spend
+
+356
+00:07:58,790 --> 00:07:58,800
+of that check to ten and if you spend
+ 
+
+357
+00:07:58,800 --> 00:08:00,770
+of that check to ten and if you spend
+the two of your actions to jump into a
+
+358
+00:08:00,770 --> 00:08:00,780
+the two of your actions to jump into a
+ 
+
+359
+00:08:00,780 --> 00:08:03,469
+the two of your actions to jump into a
+river then they may rule that the fire
+
+360
+00:08:03,469 --> 00:08:03,479
+river then they may rule that the fire
+ 
+
+361
+00:08:03,479 --> 00:08:06,050
+river then they may rule that the fire
+automatically goes out without the need
+
+362
+00:08:06,050 --> 00:08:06,060
+automatically goes out without the need
+ 
+
+363
+00:08:06,060 --> 00:08:09,350
+automatically goes out without the need
+for any additional flight check the GM
+
+364
+00:08:09,350 --> 00:08:09,360
+for any additional flight check the GM
+ 
+
+365
+00:08:09,360 --> 00:08:11,930
+for any additional flight check the GM
+is also free to make any other judgment
+
+366
+00:08:11,930 --> 00:08:11,940
+is also free to make any other judgment
+ 
+
+367
+00:08:11,940 --> 00:08:13,400
+is also free to make any other judgment
+calls that they think are appropriate
+
+368
+00:08:13,400 --> 00:08:13,410
+calls that they think are appropriate
+ 
+
+369
+00:08:13,410 --> 00:08:16,400
+calls that they think are appropriate
+such as increasing or decreasing the
+
+370
+00:08:16,400 --> 00:08:16,410
+such as increasing or decreasing the
+ 
+
+371
+00:08:16,410 --> 00:08:18,100
+such as increasing or decreasing the
+number of actions needed or
+
+372
+00:08:18,100 --> 00:08:18,110
+number of actions needed or
+ 
+
+373
+00:08:18,110 --> 00:08:20,900
+number of actions needed or
+automatically ending bleed damage once
+
+374
+00:08:20,900 --> 00:08:20,910
+automatically ending bleed damage once
+ 
+
+375
+00:08:20,910 --> 00:08:24,260
+automatically ending bleed damage once
+you're healed toufool also immunities
+
+376
+00:08:24,260 --> 00:08:24,270
+you're healed toufool also immunities
+ 
+
+377
+00:08:24,270 --> 00:08:27,320
+you're healed toufool also immunities
+resistances and weaknesses all applying
+
+378
+00:08:27,320 --> 00:08:27,330
+resistances and weaknesses all applying
+ 
+
+379
+00:08:27,330 --> 00:08:29,510
+resistances and weaknesses all applying
+to persistent damage in are considered
+
+380
+00:08:29,510 --> 00:08:29,520
+to persistent damage in are considered
+ 
+
+381
+00:08:29,520 --> 00:08:31,899
+to persistent damage in are considered
+separate from an effects initial damage
+
+382
+00:08:31,899 --> 00:08:31,909
+separate from an effects initial damage
+ 
+
+383
+00:08:31,909 --> 00:08:34,459
+separate from an effects initial damage
+so for example if you have a flaming
+
+384
+00:08:34,459 --> 00:08:34,469
+so for example if you have a flaming
+ 
+
+385
+00:08:34,469 --> 00:08:36,560
+so for example if you have a flaming
+warhammer that deal with 1d8 bludging
+
+386
+00:08:36,560 --> 00:08:36,570
+warhammer that deal with 1d8 bludging
+ 
+
+387
+00:08:36,570 --> 00:08:40,100
+warhammer that deal with 1d8 bludging
+damage plus 24 points of persistent fire
+
+388
+00:08:40,100 --> 00:08:40,110
+damage plus 24 points of persistent fire
+ 
+
+389
+00:08:40,110 --> 00:08:42,920
+damage plus 24 points of persistent fire
+damage and the target has vulnerability
+
+390
+00:08:42,920 --> 00:08:42,930
+damage and the target has vulnerability
+ 
+
+391
+00:08:42,930 --> 00:08:45,860
+damage and the target has vulnerability
+5 to both bludgeoning and fire they will
+
+392
+00:08:45,860 --> 00:08:45,870
+5 to both bludgeoning and fire they will
+ 
+
+393
+00:08:45,870 --> 00:08:48,530
+5 to both bludgeoning and fire they will
+suffer 1d eight plus five glittering
+
+394
+00:08:48,530 --> 00:08:48,540
+suffer 1d eight plus five glittering
+ 
+
+395
+00:08:48,540 --> 00:08:51,620
+suffer 1d eight plus five glittering
+damage on the hit and another one before
+
+396
+00:08:51,620 --> 00:08:51,630
+damage on the hit and another one before
+ 
+
+397
+00:08:51,630 --> 00:08:54,350
+damage on the hit and another one before
+plus five fire damage at the end of
+
+398
+00:08:54,350 --> 00:08:54,360
+plus five fire damage at the end of
+ 
+
+399
+00:08:54,360 --> 00:08:57,170
+plus five fire damage at the end of
+their next turn as well as at the end of
+
+400
+00:08:57,170 --> 00:08:57,180
+their next turn as well as at the end of
+ 
+
+401
+00:08:57,180 --> 00:08:59,240
+their next turn as well as at the end of
+every other turn until the persistent
+
+402
+00:08:59,240 --> 00:08:59,250
+every other turn until the persistent
+ 
+
+403
+00:08:59,250 --> 00:09:02,690
+every other turn until the persistent
+condition ends that said the GM may rule
+
+404
+00:09:02,690 --> 00:09:02,700
+condition ends that said the GM may rule
+ 
+
+405
+00:09:02,700 --> 00:09:04,910
+condition ends that said the GM may rule
+that the persistent damage doesn't apply
+
+406
+00:09:04,910 --> 00:09:04,920
+that the persistent damage doesn't apply
+ 
+
+407
+00:09:04,920 --> 00:09:07,519
+that the persistent damage doesn't apply
+in some situations for example if
+
+408
+00:09:07,519 --> 00:09:07,529
+in some situations for example if
+ 
+
+409
+00:09:07,529 --> 00:09:09,470
+in some situations for example if
+attacking with a sword that deals
+
+410
+00:09:09,470 --> 00:09:09,480
+attacking with a sword that deals
+ 
+
+411
+00:09:09,480 --> 00:09:12,650
+attacking with a sword that deals
+slashing and persistently damage if the
+
+412
+00:09:12,650 --> 00:09:12,660
+slashing and persistently damage if the
+ 
+
+413
+00:09:12,660 --> 00:09:15,440
+slashing and persistently damage if the
+target has resistance to slashing and no
+
+414
+00:09:15,440 --> 00:09:15,450
+target has resistance to slashing and no
+ 
+
+415
+00:09:15,450 --> 00:09:17,810
+target has resistance to slashing and no
+actual damage is applied by the sword
+
+416
+00:09:17,810 --> 00:09:17,820
+actual damage is applied by the sword
+ 
+
+417
+00:09:17,820 --> 00:09:20,420
+actual damage is applied by the sword
+attack then the GM may rule that the
+
+418
+00:09:20,420 --> 00:09:20,430
+attack then the GM may rule that the
+ 
+
+419
+00:09:20,430 --> 00:09:22,190
+attack then the GM may rule that the
+additional persistent bleed damage
+
+420
+00:09:22,190 --> 00:09:22,200
+additional persistent bleed damage
+ 
+
+421
+00:09:22,200 --> 00:09:25,880
+additional persistent bleed damage
+doesn't occur at all as always the GM's
+
+422
+00:09:25,880 --> 00:09:25,890
+doesn't occur at all as always the GM's
+ 
+
+423
+00:09:25,890 --> 00:09:27,860
+doesn't occur at all as always the GM's
+are empowered to make whatever judgment
+
+424
+00:09:27,860 --> 00:09:27,870
+are empowered to make whatever judgment
+ 
+
+425
+00:09:27,870 --> 00:09:29,810
+are empowered to make whatever judgment
+calls they believe are appropriate for
+
+426
+00:09:29,810 --> 00:09:29,820
+calls they believe are appropriate for
+ 
+
+427
+00:09:29,820 --> 00:09:33,890
+calls they believe are appropriate for
+each given situation and last is good to
+
+428
+00:09:33,890 --> 00:09:33,900
+each given situation and last is good to
+ 
+
+429
+00:09:33,900 --> 00:09:35,780
+each given situation and last is good to
+remember that double damage caused by a
+
+430
+00:09:35,780 --> 00:09:35,790
+remember that double damage caused by a
+ 
+
+431
+00:09:35,790 --> 00:09:38,840
+remember that double damage caused by a
+critical hit does double the damage of
+
+432
+00:09:38,840 --> 00:09:38,850
+critical hit does double the damage of
+ 
+
+433
+00:09:38,850 --> 00:09:41,360
+critical hit does double the damage of
+any persistent damage also caused by
+
+434
+00:09:41,360 --> 00:09:41,370
+any persistent damage also caused by
+ 
+
+435
+00:09:41,370 --> 00:09:44,449
+any persistent damage also caused by
+that effect so if an alchemist throws an
+
+436
+00:09:44,449 --> 00:09:44,459
+that effect so if an alchemist throws an
+ 
+
+437
+00:09:44,459 --> 00:09:47,180
+that effect so if an alchemist throws an
+acid flask that deals 1 d6 persistent
+
+438
+00:09:47,180 --> 00:09:47,190
+acid flask that deals 1 d6 persistent
+ 
+
+439
+00:09:47,190 --> 00:09:49,940
+acid flask that deals 1 d6 persistent
+acid damage and scores a critical hit on
+
+440
+00:09:49,940 --> 00:09:49,950
+acid damage and scores a critical hit on
+ 
+
+441
+00:09:49,950 --> 00:09:52,670
+acid damage and scores a critical hit on
+that attack the unfortunate target of
+
+442
+00:09:52,670 --> 00:09:52,680
+that attack the unfortunate target of
+ 
+
+443
+00:09:52,680 --> 00:09:55,730
+that attack the unfortunate target of
+that attack is going to suffer to d6
+
+444
+00:09:55,730 --> 00:09:55,740
+that attack is going to suffer to d6
+ 
+
+445
+00:09:55,740 --> 00:09:59,360
+that attack is going to suffer to d6
+acid damage at the end of each in every
+
+446
+00:09:59,360 --> 00:09:59,370
+acid damage at the end of each in every
+ 
+
+447
+00:09:59,370 --> 00:10:02,300
+acid damage at the end of each in every
+one of their turns until the persistent
+
+448
+00:10:02,300 --> 00:10:02,310
+one of their turns until the persistent
+ 
+
+449
+00:10:02,310 --> 00:10:05,450
+one of their turns until the persistent
+condition goes away
+
+450
+00:10:05,450 --> 00:10:05,460
+condition goes away
+ 
+
+451
+00:10:05,460 --> 00:10:07,970
+
+in this video we discussed a few of the
+
+452
+00:10:07,970 --> 00:10:07,980
+in this video we discussed a few of the
+ 
+
+453
+00:10:07,980 --> 00:10:09,920
+in this video we discussed a few of the
+less common features of the damage
+
+454
+00:10:09,920 --> 00:10:09,930
+less common features of the damage
+ 
+
+455
+00:10:09,930 --> 00:10:12,829
+less common features of the damage
+system alignment damage is a type of
+
+456
+00:10:12,829 --> 00:10:12,839
+system alignment damage is a type of
+ 
+
+457
+00:10:12,839 --> 00:10:15,139
+system alignment damage is a type of
+damage that only harms creatures with
+
+458
+00:10:15,139 --> 00:10:15,149
+damage that only harms creatures with
+ 
+
+459
+00:10:15,149 --> 00:10:17,120
+damage that only harms creatures with
+the opposite alignment of the damage
+
+460
+00:10:17,120 --> 00:10:17,130
+the opposite alignment of the damage
+ 
+
+461
+00:10:17,130 --> 00:10:20,090
+the opposite alignment of the damage
+good damage only harms evil creatures
+
+462
+00:10:20,090 --> 00:10:20,100
+good damage only harms evil creatures
+ 
+
+463
+00:10:20,100 --> 00:10:22,610
+good damage only harms evil creatures
+chaotic damage only harms lawful
+
+464
+00:10:22,610 --> 00:10:22,620
+chaotic damage only harms lawful
+ 
+
+465
+00:10:22,620 --> 00:10:24,370
+chaotic damage only harms lawful
+creatures and so on
+
+466
+00:10:24,370 --> 00:10:24,380
+creatures and so on
+ 
+
+467
+00:10:24,380 --> 00:10:27,170
+creatures and so on
+positive and negative damage our types
+
+468
+00:10:27,170 --> 00:10:27,180
+positive and negative damage our types
+ 
+
+469
+00:10:27,180 --> 00:10:30,500
+positive and negative damage our types
+of energy damage positive damage harms
+
+470
+00:10:30,500 --> 00:10:30,510
+of energy damage positive damage harms
+ 
+
+471
+00:10:30,510 --> 00:10:33,260
+of energy damage positive damage harms
+the undead and has no effect at all on
+
+472
+00:10:33,260 --> 00:10:33,270
+the undead and has no effect at all on
+ 
+
+473
+00:10:33,270 --> 00:10:36,350
+the undead and has no effect at all on
+living creatures or objects and negative
+
+474
+00:10:36,350 --> 00:10:36,360
+living creatures or objects and negative
+ 
+
+475
+00:10:36,360 --> 00:10:38,720
+living creatures or objects and negative
+damage harms the living but has no
+
+476
+00:10:38,720 --> 00:10:38,730
+damage harms the living but has no
+ 
+
+477
+00:10:38,730 --> 00:10:42,360
+damage harms the living but has no
+effect on undead creatures or objects
+
+478
+00:10:42,360 --> 00:10:42,370
+effect on undead creatures or objects
+ 
+
+479
+00:10:42,370 --> 00:10:45,970
+effect on undead creatures or objects
+precision damage increases the base
+
+480
+00:10:45,970 --> 00:10:45,980
+precision damage increases the base
+ 
+
+481
+00:10:45,980 --> 00:10:48,610
+precision damage increases the base
+damage of an attack emphasis on
+
+482
+00:10:48,610 --> 00:10:48,620
+damage of an attack emphasis on
+ 
+
+483
+00:10:48,620 --> 00:10:51,340
+damage of an attack emphasis on
+increases a dagger that deals extra
+
+484
+00:10:51,340 --> 00:10:51,350
+increases a dagger that deals extra
+ 
+
+485
+00:10:51,350 --> 00:10:54,130
+increases a dagger that deals extra
+precision damage represents all of that
+
+486
+00:10:54,130 --> 00:10:54,140
+precision damage represents all of that
+ 
+
+487
+00:10:54,140 --> 00:10:57,880
+precision damage represents all of that
+damage as piercing is just more piercing
+
+488
+00:10:57,880 --> 00:10:57,890
+damage as piercing is just more piercing
+ 
+
+489
+00:10:57,890 --> 00:11:01,240
+damage as piercing is just more piercing
+and persistent damage is damage that
+
+490
+00:11:01,240 --> 00:11:01,250
+and persistent damage is damage that
+ 
+
+491
+00:11:01,250 --> 00:11:03,460
+and persistent damage is damage that
+reoccurs at the end of each of the
+
+492
+00:11:03,460 --> 00:11:03,470
+reoccurs at the end of each of the
+ 
+
+493
+00:11:03,470 --> 00:11:06,730
+reoccurs at the end of each of the
+victims turns after which they roll a DC
+
+494
+00:11:06,730 --> 00:11:06,740
+victims turns after which they roll a DC
+ 
+
+495
+00:11:06,740 --> 00:11:10,120
+victims turns after which they roll a DC
+15 flat check to make it go away they or
+
+496
+00:11:10,120 --> 00:11:10,130
+15 flat check to make it go away they or
+ 
+
+497
+00:11:10,130 --> 00:11:12,880
+15 flat check to make it go away they or
+an allied can spend two actions to
+
+498
+00:11:12,880 --> 00:11:12,890
+an allied can spend two actions to
+ 
+
+499
+00:11:12,890 --> 00:11:15,640
+an allied can spend two actions to
+perform assisted recovery to grant more
+
+500
+00:11:15,640 --> 00:11:15,650
+perform assisted recovery to grant more
+ 
+
+501
+00:11:15,650 --> 00:11:17,320
+perform assisted recovery to grant more
+of these checks before suffering the
+
+502
+00:11:17,320 --> 00:11:17,330
+of these checks before suffering the
+ 
+
+503
+00:11:17,330 --> 00:11:20,950
+of these checks before suffering the
+damage at the end of their term
+
+504
+00:11:20,950 --> 00:11:20,960
+damage at the end of their term
+ 
+
+505
+00:11:20,960 --> 00:11:23,140
+damage at the end of their term
+before we close I'd like to take a
+
+506
+00:11:23,140 --> 00:11:23,150
+before we close I'd like to take a
+ 
+
+507
+00:11:23,150 --> 00:11:25,600
+before we close I'd like to take a
+moment to thank all of our patrons these
+
+508
+00:11:25,600 --> 00:11:25,610
+moment to thank all of our patrons these
+ 
+
+509
+00:11:25,610 --> 00:11:27,370
+moment to thank all of our patrons these
+videos would not be possible without
+
+510
+00:11:27,370 --> 00:11:27,380
+videos would not be possible without
+ 
+
+511
+00:11:27,380 --> 00:11:30,210
+videos would not be possible without
+their continued generosity and support
+
+512
+00:11:30,210 --> 00:11:30,220
+their continued generosity and support
+ 
+
+513
+00:11:30,220 --> 00:11:33,040
+their continued generosity and support
+members of the basics for gamers patreon
+
+514
+00:11:33,040 --> 00:11:33,050
+members of the basics for gamers patreon
+ 
+
+515
+00:11:33,050 --> 00:11:35,230
+members of the basics for gamers patreon
+community receive special benefits like
+
+516
+00:11:35,230 --> 00:11:35,240
+community receive special benefits like
+ 
+
+517
+00:11:35,240 --> 00:11:37,090
+community receive special benefits like
+getting the vote on the topics that we
+
+518
+00:11:37,090 --> 00:11:37,100
+getting the vote on the topics that we
+ 
+
+519
+00:11:37,100 --> 00:11:39,310
+getting the vote on the topics that we
+cover in the future and also they get to
+
+520
+00:11:39,310 --> 00:11:39,320
+cover in the future and also they get to
+ 
+
+521
+00:11:39,320 --> 00:11:41,800
+cover in the future and also they get to
+see these videos one week and ad-free
+
+522
+00:11:41,800 --> 00:11:41,810
+see these videos one week and ad-free
+ 
+
+523
+00:11:41,810 --> 00:11:45,160
+see these videos one week and ad-free
+before everybody else visit the link
+
+524
+00:11:45,160 --> 00:11:45,170
+before everybody else visit the link
+ 
+
+525
+00:11:45,170 --> 00:11:46,900
+before everybody else visit the link
+shown on the left of the screen and in
+
+526
+00:11:46,900 --> 00:11:46,910
+shown on the left of the screen and in
+ 
+
+527
+00:11:46,910 --> 00:11:48,400
+shown on the left of the screen and in
+the description if you'd like to know
+
+528
+00:11:48,400 --> 00:11:48,410
+the description if you'd like to know
+ 
+
+529
+00:11:48,410 --> 00:11:51,070
+the description if you'd like to know
+more about becoming a patron if you
+
+530
+00:11:51,070 --> 00:11:51,080
+more about becoming a patron if you
+ 
+
+531
+00:11:51,080 --> 00:11:52,390
+more about becoming a patron if you
+would like to support this channel and
+
+532
+00:11:52,390 --> 00:11:52,400
+would like to support this channel and
+ 
+
+533
+00:11:52,400 --> 00:11:54,400
+would like to support this channel and
+help it grow the easiest way to do that
+
+534
+00:11:54,400 --> 00:11:54,410
+help it grow the easiest way to do that
+ 
+
+535
+00:11:54,410 --> 00:11:57,130
+help it grow the easiest way to do that
+is by subscribing and clicking the bell
+
+536
+00:11:57,130 --> 00:11:57,140
+is by subscribing and clicking the bell
+ 
+
+537
+00:11:57,140 --> 00:11:59,650
+is by subscribing and clicking the bell
+icon so you get notified when new videos
+
+538
+00:11:59,650 --> 00:11:59,660
+icon so you get notified when new videos
+ 
+
+539
+00:11:59,660 --> 00:12:02,110
+icon so you get notified when new videos
+release and we can always be reached
+
+540
+00:12:02,110 --> 00:12:02,120
+release and we can always be reached
+ 
+
+541
+00:12:02,120 --> 00:12:03,400
+release and we can always be reached
+through our Twitter and Facebook pages
+
+542
+00:12:03,400 --> 00:12:03,410
+through our Twitter and Facebook pages
+ 
+
+543
+00:12:03,410 --> 00:12:06,520
+through our Twitter and Facebook pages
+too thanks for watching take care and we
+
+544
+00:12:06,520 --> 00:12:06,530
+too thanks for watching take care and we
+ 
+
+545
+00:12:06,530 --> 00:12:08,320
+too thanks for watching take care and we
+will see you soon with more basics of
+
+546
+00:12:08,320 --> 00:12:08,330
+will see you soon with more basics of
+ 
+
+547
+00:12:08,330 --> 00:12:10,960
+will see you soon with more basics of
+Pathfinder
+

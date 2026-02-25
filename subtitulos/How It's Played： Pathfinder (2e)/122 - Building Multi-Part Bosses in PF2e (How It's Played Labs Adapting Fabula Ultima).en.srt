@@ -1,0 +1,7585 @@
+1
+00:00:01,120 --> 00:00:03,110
+
+Hello and welcome to How It's Played
+
+2
+00:00:03,110 --> 00:00:03,120
+Hello and welcome to How It's Played
+ 
+
+3
+00:00:03,120 --> 00:00:05,670
+Hello and welcome to How It's Played
+Labs, a series where I take inspiration
+
+4
+00:00:05,670 --> 00:00:05,680
+Labs, a series where I take inspiration
+ 
+
+5
+00:00:05,680 --> 00:00:08,230
+Labs, a series where I take inspiration
+from nonPISO games and apply their
+
+6
+00:00:08,230 --> 00:00:08,240
+from nonPISO games and apply their
+ 
+
+7
+00:00:08,240 --> 00:00:11,110
+from nonPISO games and apply their
+concepts to Pathfinder and Starfinder.
+
+8
+00:00:11,110 --> 00:00:11,120
+concepts to Pathfinder and Starfinder.
+ 
+
+9
+00:00:11,120 --> 00:00:13,430
+concepts to Pathfinder and Starfinder.
+Today, we'll be borrowing the multi-art
+
+10
+00:00:13,430 --> 00:00:13,440
+Today, we'll be borrowing the multi-art
+ 
+
+11
+00:00:13,440 --> 00:00:16,390
+Today, we'll be borrowing the multi-art
+opponents and phases rules from Fabula
+
+12
+00:00:16,390 --> 00:00:16,400
+opponents and phases rules from Fabula
+ 
+
+13
+00:00:16,400 --> 00:00:18,070
+opponents and phases rules from Fabula
+Ultima to make our bosses more
+
+14
+00:00:18,070 --> 00:00:18,080
+Ultima to make our bosses more
+ 
+
+15
+00:00:18,080 --> 00:00:21,269
+Ultima to make our bosses more
+narratively interesting and memorable.
+
+16
+00:00:21,269 --> 00:00:21,279
+narratively interesting and memorable.
+ 
+
+17
+00:00:21,279 --> 00:00:24,630
+narratively interesting and memorable.
+If you've ever played a console JRPG,
+
+18
+00:00:24,630 --> 00:00:24,640
+If you've ever played a console JRPG,
+ 
+
+19
+00:00:24,640 --> 00:00:26,870
+If you've ever played a console JRPG,
+then you're probably familiar with epic
+
+20
+00:00:26,870 --> 00:00:26,880
+then you're probably familiar with epic
+ 
+
+21
+00:00:26,880 --> 00:00:28,790
+then you're probably familiar with epic
+boss fights where you have to target
+
+22
+00:00:28,790 --> 00:00:28,800
+boss fights where you have to target
+ 
+
+23
+00:00:28,800 --> 00:00:31,589
+boss fights where you have to target
+specific limbs, cores, or heads to
+
+24
+00:00:31,589 --> 00:00:31,599
+specific limbs, cores, or heads to
+ 
+
+25
+00:00:31,599 --> 00:00:34,790
+specific limbs, cores, or heads to
+disable attacks or reveal weaknesses.
+
+26
+00:00:34,790 --> 00:00:34,800
+disable attacks or reveal weaknesses.
+ 
+
+27
+00:00:34,800 --> 00:00:37,350
+disable attacks or reveal weaknesses.
+And that's what we're aiming for today.
+
+28
+00:00:37,350 --> 00:00:37,360
+And that's what we're aiming for today.
+ 
+
+29
+00:00:37,360 --> 00:00:39,910
+And that's what we're aiming for today.
+Turning a single boss monster into
+
+30
+00:00:39,910 --> 00:00:39,920
+Turning a single boss monster into
+ 
+
+31
+00:00:39,920 --> 00:00:42,310
+Turning a single boss monster into
+something that has multiple targetable
+
+32
+00:00:42,310 --> 00:00:42,320
+something that has multiple targetable
+ 
+
+33
+00:00:42,320 --> 00:00:44,549
+something that has multiple targetable
+parts that can be crippled along the
+
+34
+00:00:44,549 --> 00:00:44,559
+parts that can be crippled along the
+ 
+
+35
+00:00:44,559 --> 00:00:47,750
+parts that can be crippled along the
+journey to defeating them. The core idea
+
+36
+00:00:47,750 --> 00:00:47,760
+journey to defeating them. The core idea
+ 
+
+37
+00:00:47,760 --> 00:00:49,910
+journey to defeating them. The core idea
+we'll be adapting comes from Fabula
+
+38
+00:00:49,910 --> 00:00:49,920
+we'll be adapting comes from Fabula
+ 
+
+39
+00:00:49,920 --> 00:00:52,869
+we'll be adapting comes from Fabula
+Ultima, specifically its natural fantasy
+
+40
+00:00:52,869 --> 00:00:52,879
+Ultima, specifically its natural fantasy
+ 
+
+41
+00:00:52,879 --> 00:00:55,350
+Ultima, specifically its natural fantasy
+atlas supplement. For those not familiar
+
+42
+00:00:55,350 --> 00:00:55,360
+atlas supplement. For those not familiar
+ 
+
+43
+00:00:55,360 --> 00:00:58,790
+atlas supplement. For those not familiar
+with Fabula Ultima, it is described as a
+
+44
+00:00:58,790 --> 00:00:58,800
+with Fabula Ultima, it is described as a
+ 
+
+45
+00:00:58,800 --> 00:01:01,189
+with Fabula Ultima, it is described as a
+tabletop JRPG
+
+46
+00:01:01,189 --> 00:01:01,199
+tabletop JRPG
+ 
+
+47
+00:01:01,199 --> 00:01:03,750
+tabletop JRPG
+and is heavily inspired by oldchool
+
+48
+00:01:03,750 --> 00:01:03,760
+and is heavily inspired by oldchool
+ 
+
+49
+00:01:03,760 --> 00:01:06,310
+and is heavily inspired by oldchool
+Japanese console RPGs, most notably
+
+50
+00:01:06,310 --> 00:01:06,320
+Japanese console RPGs, most notably
+ 
+
+51
+00:01:06,320 --> 00:01:08,950
+Japanese console RPGs, most notably
+Final Fantasy. If you're curious about
+
+52
+00:01:08,950 --> 00:01:08,960
+Final Fantasy. If you're curious about
+ 
+
+53
+00:01:08,960 --> 00:01:10,950
+Final Fantasy. If you're curious about
+that system and want to know more, I'll
+
+54
+00:01:10,950 --> 00:01:10,960
+that system and want to know more, I'll
+ 
+
+55
+00:01:10,960 --> 00:01:13,350
+that system and want to know more, I'll
+leave some links in the description to a
+
+56
+00:01:13,350 --> 00:01:13,360
+leave some links in the description to a
+ 
+
+57
+00:01:13,360 --> 00:01:15,750
+leave some links in the description to a
+series of Fabula Ultima videos made by
+
+58
+00:01:15,750 --> 00:01:15,760
+series of Fabula Ultima videos made by
+ 
+
+59
+00:01:15,760 --> 00:01:18,390
+series of Fabula Ultima videos made by
+friend of the channel, Bad Luck Gamer.
+
+60
+00:01:18,390 --> 00:01:18,400
+friend of the channel, Bad Luck Gamer.
+ 
+
+61
+00:01:18,400 --> 00:01:21,429
+friend of the channel, Bad Luck Gamer.
+Now, Fabula Ultima and Pathfinder 2e are
+
+62
+00:01:21,429 --> 00:01:21,439
+Now, Fabula Ultima and Pathfinder 2e are
+ 
+
+63
+00:01:21,439 --> 00:01:24,469
+Now, Fabula Ultima and Pathfinder 2e are
+different systems, so a direct port
+
+64
+00:01:24,469 --> 00:01:24,479
+different systems, so a direct port
+ 
+
+65
+00:01:24,479 --> 00:01:27,350
+different systems, so a direct port
+doesn't work. What follows is a
+
+66
+00:01:27,350 --> 00:01:27,360
+doesn't work. What follows is a
+ 
+
+67
+00:01:27,360 --> 00:01:29,590
+doesn't work. What follows is a
+framework for adapting this concept
+
+68
+00:01:29,590 --> 00:01:29,600
+framework for adapting this concept
+ 
+
+69
+00:01:29,600 --> 00:01:31,910
+framework for adapting this concept
+using Pathfinder 2's existing mechanics
+
+70
+00:01:31,910 --> 00:01:31,920
+using Pathfinder 2's existing mechanics
+ 
+
+71
+00:01:31,920 --> 00:01:34,630
+using Pathfinder 2's existing mechanics
+as building blocks. So, it's important
+
+72
+00:01:34,630 --> 00:01:34,640
+as building blocks. So, it's important
+ 
+
+73
+00:01:34,640 --> 00:01:37,910
+as building blocks. So, it's important
+to note this is not official Piso
+
+74
+00:01:37,910 --> 00:01:37,920
+to note this is not official Piso
+ 
+
+75
+00:01:37,920 --> 00:01:40,789
+to note this is not official Piso
+material and is just my attempt to apply
+
+76
+00:01:40,789 --> 00:01:40,799
+material and is just my attempt to apply
+ 
+
+77
+00:01:40,799 --> 00:01:43,910
+material and is just my attempt to apply
+Fabula Ultima's concepts to Pathfinder.
+
+78
+00:01:43,910 --> 00:01:43,920
+Fabula Ultima's concepts to Pathfinder.
+ 
+
+79
+00:01:43,920 --> 00:01:46,310
+Fabula Ultima's concepts to Pathfinder.
+As such, this is strictly fan-made
+
+80
+00:01:46,310 --> 00:01:46,320
+As such, this is strictly fan-made
+ 
+
+81
+00:01:46,320 --> 00:01:48,710
+As such, this is strictly fan-made
+material, has not been thoroughly play
+
+82
+00:01:48,710 --> 00:01:48,720
+material, has not been thoroughly play
+ 
+
+83
+00:01:48,720 --> 00:01:51,670
+material, has not been thoroughly play
+tested, and your mileage may vary. So,
+
+84
+00:01:51,670 --> 00:01:51,680
+tested, and your mileage may vary. So,
+ 
+
+85
+00:01:51,680 --> 00:01:53,910
+tested, and your mileage may vary. So,
+think of this video as a fun thought
+
+86
+00:01:53,910 --> 00:01:53,920
+think of this video as a fun thought
+ 
+
+87
+00:01:53,920 --> 00:01:57,910
+think of this video as a fun thought
+experiment instead of being hard rules.
+
+88
+00:01:57,910 --> 00:01:57,920
+experiment instead of being hard rules.
+ 
+
+89
+00:01:57,920 --> 00:02:00,870
+experiment instead of being hard rules.
+So, what's the basic idea in Fabula
+
+90
+00:02:00,870 --> 00:02:00,880
+So, what's the basic idea in Fabula
+ 
+
+91
+00:02:00,880 --> 00:02:04,310
+So, what's the basic idea in Fabula
+Ultima? Well, a multi-art opponent is a
+
+92
+00:02:04,310 --> 00:02:04,320
+Ultima? Well, a multi-art opponent is a
+ 
+
+93
+00:02:04,320 --> 00:02:06,630
+Ultima? Well, a multi-art opponent is a
+single, often very large creature
+
+94
+00:02:06,630 --> 00:02:06,640
+single, often very large creature
+ 
+
+95
+00:02:06,640 --> 00:02:09,430
+single, often very large creature
+treated as multiple distinct enemies in
+
+96
+00:02:09,430 --> 00:02:09,440
+treated as multiple distinct enemies in
+ 
+
+97
+00:02:09,440 --> 00:02:11,270
+treated as multiple distinct enemies in
+terms of targeting and sometimes
+
+98
+00:02:11,270 --> 00:02:11,280
+terms of targeting and sometimes
+ 
+
+99
+00:02:11,280 --> 00:02:14,229
+terms of targeting and sometimes
+defense. You might have a head, claws, a
+
+100
+00:02:14,229 --> 00:02:14,239
+defense. You might have a head, claws, a
+ 
+
+101
+00:02:14,239 --> 00:02:16,550
+defense. You might have a head, claws, a
+tail, maybe some turrets on a techno
+
+102
+00:02:16,550 --> 00:02:16,560
+tail, maybe some turrets on a techno
+ 
+
+103
+00:02:16,560 --> 00:02:18,710
+tail, maybe some turrets on a techno
+fantasy construct. The key is that
+
+104
+00:02:18,710 --> 00:02:18,720
+fantasy construct. The key is that
+ 
+
+105
+00:02:18,720 --> 00:02:21,110
+fantasy construct. The key is that
+targeting and destroying each of these
+
+106
+00:02:21,110 --> 00:02:21,120
+targeting and destroying each of these
+ 
+
+107
+00:02:21,120 --> 00:02:24,470
+targeting and destroying each of these
+parts has a direct impact. Maybe it
+
+108
+00:02:24,470 --> 00:02:24,480
+parts has a direct impact. Maybe it
+ 
+
+109
+00:02:24,480 --> 00:02:27,030
+parts has a direct impact. Maybe it
+disables a specific attack, it changes
+
+110
+00:02:27,030 --> 00:02:27,040
+disables a specific attack, it changes
+ 
+
+111
+00:02:27,040 --> 00:02:29,110
+disables a specific attack, it changes
+the creature's stats, or even triggers a
+
+112
+00:02:29,110 --> 00:02:29,120
+the creature's stats, or even triggers a
+ 
+
+113
+00:02:29,120 --> 00:02:32,390
+the creature's stats, or even triggers a
+whole new phase of the fight.
+
+114
+00:02:32,390 --> 00:02:32,400
+whole new phase of the fight.
+ 
+
+115
+00:02:32,400 --> 00:02:34,470
+whole new phase of the fight.
+To bring this into Pathfinder, we'll
+
+116
+00:02:34,470 --> 00:02:34,480
+To bring this into Pathfinder, we'll
+ 
+
+117
+00:02:34,480 --> 00:02:36,630
+To bring this into Pathfinder, we'll
+need a framework that pulls inspiration
+
+118
+00:02:36,630 --> 00:02:36,640
+need a framework that pulls inspiration
+ 
+
+119
+00:02:36,640 --> 00:02:39,430
+need a framework that pulls inspiration
+from Fabula Ultima, but still respects
+
+120
+00:02:39,430 --> 00:02:39,440
+from Fabula Ultima, but still respects
+ 
+
+121
+00:02:39,440 --> 00:02:42,630
+from Fabula Ultima, but still respects
+Pathfinder's rules. First, your creature
+
+122
+00:02:42,630 --> 00:02:42,640
+Pathfinder's rules. First, your creature
+ 
+
+123
+00:02:42,640 --> 00:02:45,750
+Pathfinder's rules. First, your creature
+still has a primary stat block. Armor
+
+124
+00:02:45,750 --> 00:02:45,760
+still has a primary stat block. Armor
+ 
+
+125
+00:02:45,760 --> 00:02:48,150
+still has a primary stat block. Armor
+class, saves, skills, perception speed,
+
+126
+00:02:48,150 --> 00:02:48,160
+class, saves, skills, perception speed,
+ 
+
+127
+00:02:48,160 --> 00:02:50,229
+class, saves, skills, perception speed,
+resistances, weaknesses, all of that
+
+128
+00:02:50,229 --> 00:02:50,239
+resistances, weaknesses, all of that
+ 
+
+129
+00:02:50,239 --> 00:02:53,750
+resistances, weaknesses, all of that
+good stuff. It also has a main hit point
+
+130
+00:02:53,750 --> 00:02:53,760
+good stuff. It also has a main hit point
+ 
+
+131
+00:02:53,760 --> 00:02:57,110
+good stuff. It also has a main hit point
+pull. This represents its overall life
+
+132
+00:02:57,110 --> 00:02:57,120
+pull. This represents its overall life
+ 
+
+133
+00:02:57,120 --> 00:02:59,990
+pull. This represents its overall life
+force. Usually, the creature is only
+
+134
+00:02:59,990 --> 00:03:00,000
+force. Usually, the creature is only
+ 
+
+135
+00:03:00,000 --> 00:03:02,470
+force. Usually, the creature is only
+truly defeated when this main hit points
+
+136
+00:03:02,470 --> 00:03:02,480
+truly defeated when this main hit points
+ 
+
+137
+00:03:02,480 --> 00:03:05,509
+truly defeated when this main hit points
+pull hits zero. And to differentiate
+
+138
+00:03:05,509 --> 00:03:05,519
+pull hits zero. And to differentiate
+ 
+
+139
+00:03:05,519 --> 00:03:08,390
+pull hits zero. And to differentiate
+this from the monster's different parts.
+
+140
+00:03:08,390 --> 00:03:08,400
+this from the monster's different parts.
+ 
+
+141
+00:03:08,400 --> 00:03:10,470
+this from the monster's different parts.
+I'm going to refer to this as the
+
+142
+00:03:10,470 --> 00:03:10,480
+I'm going to refer to this as the
+ 
+
+143
+00:03:10,480 --> 00:03:13,670
+I'm going to refer to this as the
+monster's main body. In addition, the
+
+144
+00:03:13,670 --> 00:03:13,680
+monster's main body. In addition, the
+ 
+
+145
+00:03:13,680 --> 00:03:15,830
+monster's main body. In addition, the
+monster will have a number of parts.
+
+146
+00:03:15,830 --> 00:03:15,840
+monster will have a number of parts.
+ 
+
+147
+00:03:15,840 --> 00:03:17,990
+monster will have a number of parts.
+Think head, claws, tails, wings, power
+
+148
+00:03:17,990 --> 00:03:18,000
+Think head, claws, tails, wings, power
+ 
+
+149
+00:03:18,000 --> 00:03:21,670
+Think head, claws, tails, wings, power
+core, and so on. Each part has its own
+
+150
+00:03:21,670 --> 00:03:21,680
+core, and so on. Each part has its own
+ 
+
+151
+00:03:21,680 --> 00:03:24,229
+core, and so on. Each part has its own
+separate hit points pull. And this is
+
+152
+00:03:24,229 --> 00:03:24,239
+separate hit points pull. And this is
+ 
+
+153
+00:03:24,239 --> 00:03:27,270
+separate hit points pull. And this is
+key. Think of it as the durability of
+
+154
+00:03:27,270 --> 00:03:27,280
+key. Think of it as the durability of
+ 
+
+155
+00:03:27,280 --> 00:03:30,789
+key. Think of it as the durability of
+just that one component. Maybe it has
+
+156
+00:03:30,789 --> 00:03:30,799
+just that one component. Maybe it has
+ 
+
+157
+00:03:30,799 --> 00:03:33,910
+just that one component. Maybe it has
+25% to as much as 50% of the creature's
+
+158
+00:03:33,910 --> 00:03:33,920
+25% to as much as 50% of the creature's
+ 
+
+159
+00:03:33,920 --> 00:03:35,910
+25% to as much as 50% of the creature's
+main hit points. That's usually a good
+
+160
+00:03:35,910 --> 00:03:35,920
+main hit points. That's usually a good
+ 
+
+161
+00:03:35,920 --> 00:03:37,910
+main hit points. That's usually a good
+starting point depending on how many
+
+162
+00:03:37,910 --> 00:03:37,920
+starting point depending on how many
+ 
+
+163
+00:03:37,920 --> 00:03:39,910
+starting point depending on how many
+parts there are and the purpose of each
+
+164
+00:03:39,910 --> 00:03:39,920
+parts there are and the purpose of each
+ 
+
+165
+00:03:39,920 --> 00:03:42,949
+parts there are and the purpose of each
+part. Each part is also going to have
+
+166
+00:03:42,949 --> 00:03:42,959
+part. Each part is also going to have
+ 
+
+167
+00:03:42,959 --> 00:03:45,910
+part. Each part is also going to have
+abilities. Tie specific strikes,
+
+168
+00:03:45,910 --> 00:03:45,920
+abilities. Tie specific strikes,
+ 
+
+169
+00:03:45,920 --> 00:03:48,229
+abilities. Tie specific strikes,
+activities, reactions, or even passive
+
+170
+00:03:48,229 --> 00:03:48,239
+activities, reactions, or even passive
+ 
+
+171
+00:03:48,239 --> 00:03:51,589
+activities, reactions, or even passive
+abilities to each part. A claw lists the
+
+172
+00:03:51,589 --> 00:03:51,599
+abilities to each part. A claw lists the
+ 
+
+173
+00:03:51,599 --> 00:03:54,229
+abilities to each part. A claw lists the
+monster grab. The head has a breath
+
+174
+00:03:54,229 --> 00:03:54,239
+monster grab. The head has a breath
+ 
+
+175
+00:03:54,239 --> 00:03:57,589
+monster grab. The head has a breath
+weapon and so on. If the part is broken,
+
+176
+00:03:57,589 --> 00:03:57,599
+weapon and so on. If the part is broken,
+ 
+
+177
+00:03:57,599 --> 00:04:00,229
+weapon and so on. If the part is broken,
+then that ability goes away. And
+
+178
+00:04:00,229 --> 00:04:00,239
+then that ability goes away. And
+ 
+
+179
+00:04:00,239 --> 00:04:03,030
+then that ability goes away. And
+optionally, you can add part defenses.
+
+180
+00:04:03,030 --> 00:04:03,040
+optionally, you can add part defenses.
+ 
+
+181
+00:04:03,040 --> 00:04:04,710
+optionally, you can add part defenses.
+You could give parts slightly different
+
+182
+00:04:04,710 --> 00:04:04,720
+You could give parts slightly different
+ 
+
+183
+00:04:04,720 --> 00:04:06,710
+You could give parts slightly different
+armor classes or unique weaknesses and
+
+184
+00:04:06,710 --> 00:04:06,720
+armor classes or unique weaknesses and
+ 
+
+185
+00:04:06,720 --> 00:04:09,190
+armor classes or unique weaknesses and
+resistances compared to what the main
+
+186
+00:04:09,190 --> 00:04:09,200
+resistances compared to what the main
+ 
+
+187
+00:04:09,200 --> 00:04:12,470
+resistances compared to what the main
+body has. For example, armored legs
+
+188
+00:04:12,470 --> 00:04:12,480
+body has. For example, armored legs
+ 
+
+189
+00:04:12,480 --> 00:04:14,710
+body has. For example, armored legs
+might resist physical damage better than
+
+190
+00:04:14,710 --> 00:04:14,720
+might resist physical damage better than
+ 
+
+191
+00:04:14,720 --> 00:04:17,509
+might resist physical damage better than
+the monster's fleshy torso does. But to
+
+192
+00:04:17,509 --> 00:04:17,519
+the monster's fleshy torso does. But to
+ 
+
+193
+00:04:17,519 --> 00:04:19,590
+the monster's fleshy torso does. But to
+keep things simple at first, I recommend
+
+194
+00:04:19,590 --> 00:04:19,600
+keep things simple at first, I recommend
+ 
+
+195
+00:04:19,600 --> 00:04:21,349
+keep things simple at first, I recommend
+just using the main armor class and
+
+196
+00:04:21,349 --> 00:04:21,359
+just using the main armor class and
+ 
+
+197
+00:04:21,359 --> 00:04:23,830
+just using the main armor class and
+saving through bonuses for all parts,
+
+198
+00:04:23,830 --> 00:04:23,840
+saving through bonuses for all parts,
+ 
+
+199
+00:04:23,840 --> 00:04:26,710
+saving through bonuses for all parts,
+that can work, too.
+
+200
+00:04:26,710 --> 00:04:26,720
+that can work, too.
+ 
+
+201
+00:04:26,720 --> 00:04:28,550
+that can work, too.
+Players need to declare which part
+
+202
+00:04:28,550 --> 00:04:28,560
+Players need to declare which part
+ 
+
+203
+00:04:28,560 --> 00:04:30,790
+Players need to declare which part
+they're targeting. If they just say, "I
+
+204
+00:04:30,790 --> 00:04:30,800
+they're targeting. If they just say, "I
+ 
+
+205
+00:04:30,800 --> 00:04:33,110
+they're targeting. If they just say, "I
+attack the dragon," assume that they're
+
+206
+00:04:33,110 --> 00:04:33,120
+attack the dragon," assume that they're
+ 
+
+207
+00:04:33,120 --> 00:04:35,670
+attack the dragon," assume that they're
+attacking the main body, or ask them for
+
+208
+00:04:35,670 --> 00:04:35,680
+attacking the main body, or ask them for
+ 
+
+209
+00:04:35,680 --> 00:04:39,110
+attacking the main body, or ask them for
+more clarification. Using this system,
+
+210
+00:04:39,110 --> 00:04:39,120
+more clarification. Using this system,
+ 
+
+211
+00:04:39,120 --> 00:04:41,110
+more clarification. Using this system,
+all monster parts are treated as
+
+212
+00:04:41,110 --> 00:04:41,120
+all monster parts are treated as
+ 
+
+213
+00:04:41,120 --> 00:04:43,670
+all monster parts are treated as
+occupying all the same squares as the
+
+214
+00:04:43,670 --> 00:04:43,680
+occupying all the same squares as the
+ 
+
+215
+00:04:43,680 --> 00:04:46,230
+occupying all the same squares as the
+monster. For example, you wouldn't take
+
+216
+00:04:46,230 --> 00:04:46,240
+monster. For example, you wouldn't take
+ 
+
+217
+00:04:46,240 --> 00:04:50,070
+monster. For example, you wouldn't take
+the 3x3 token of a huge sized monster
+
+218
+00:04:50,070 --> 00:04:50,080
+the 3x3 token of a huge sized monster
+ 
+
+219
+00:04:50,080 --> 00:04:52,629
+the 3x3 token of a huge sized monster
+and dictate that this square is the
+
+220
+00:04:52,629 --> 00:04:52,639
+and dictate that this square is the
+ 
+
+221
+00:04:52,639 --> 00:04:55,189
+and dictate that this square is the
+right claw part and this square is the
+
+222
+00:04:55,189 --> 00:04:55,199
+right claw part and this square is the
+ 
+
+223
+00:04:55,199 --> 00:04:58,070
+right claw part and this square is the
+left claw part. Since there are no
+
+224
+00:04:58,070 --> 00:04:58,080
+left claw part. Since there are no
+ 
+
+225
+00:04:58,080 --> 00:05:00,550
+left claw part. Since there are no
+facing rules in Pathfinder and there are
+
+226
+00:05:00,550 --> 00:05:00,560
+facing rules in Pathfinder and there are
+ 
+
+227
+00:05:00,560 --> 00:05:02,790
+facing rules in Pathfinder and there are
+existing precedents, for example, a
+
+228
+00:05:02,790 --> 00:05:02,800
+existing precedents, for example, a
+ 
+
+229
+00:05:02,800 --> 00:05:04,870
+existing precedents, for example, a
+rider occupying all the same spaces as
+
+230
+00:05:04,870 --> 00:05:04,880
+rider occupying all the same spaces as
+ 
+
+231
+00:05:04,880 --> 00:05:07,670
+rider occupying all the same spaces as
+their mount or the leader occupying all
+
+232
+00:05:07,670 --> 00:05:07,680
+their mount or the leader occupying all
+ 
+
+233
+00:05:07,680 --> 00:05:10,230
+their mount or the leader occupying all
+the same spaces as their troop. In this
+
+234
+00:05:10,230 --> 00:05:10,240
+the same spaces as their troop. In this
+ 
+
+235
+00:05:10,240 --> 00:05:13,430
+the same spaces as their troop. In this
+system, each monster part occupies all
+
+236
+00:05:13,430 --> 00:05:13,440
+system, each monster part occupies all
+ 
+
+237
+00:05:13,440 --> 00:05:15,990
+system, each monster part occupies all
+the same spaces as the monster usually
+
+238
+00:05:15,990 --> 00:05:16,000
+the same spaces as the monster usually
+ 
+
+239
+00:05:16,000 --> 00:05:19,110
+the same spaces as the monster usually
+occupies. Another consideration is even
+
+240
+00:05:19,110 --> 00:05:19,120
+occupies. Another consideration is even
+ 
+
+241
+00:05:19,120 --> 00:05:21,110
+occupies. Another consideration is even
+though monster parts have their own hit
+
+242
+00:05:21,110 --> 00:05:21,120
+though monster parts have their own hit
+ 
+
+243
+00:05:21,120 --> 00:05:23,430
+though monster parts have their own hit
+point pulls and are targeted separately
+
+244
+00:05:23,430 --> 00:05:23,440
+point pulls and are targeted separately
+ 
+
+245
+00:05:23,440 --> 00:05:26,629
+point pulls and are targeted separately
+from the main body, they're all part of
+
+246
+00:05:26,629 --> 00:05:26,639
+from the main body, they're all part of
+ 
+
+247
+00:05:26,639 --> 00:05:29,590
+from the main body, they're all part of
+the same creature. Meaning the creature
+
+248
+00:05:29,590 --> 00:05:29,600
+the same creature. Meaning the creature
+ 
+
+249
+00:05:29,600 --> 00:05:33,590
+the same creature. Meaning the creature
+as a whole can only be targeted once per
+
+250
+00:05:33,590 --> 00:05:33,600
+as a whole can only be targeted once per
+ 
+
+251
+00:05:33,600 --> 00:05:35,990
+as a whole can only be targeted once per
+effect. Let's take a look at chain
+
+252
+00:05:35,990 --> 00:05:36,000
+effect. Let's take a look at chain
+ 
+
+253
+00:05:36,000 --> 00:05:39,029
+effect. Let's take a look at chain
+lightning as an example. Here it says
+
+254
+00:05:39,029 --> 00:05:39,039
+lightning as an example. Here it says
+ 
+
+255
+00:05:39,039 --> 00:05:41,830
+lightning as an example. Here it says
+targets one creature plus any number of
+
+256
+00:05:41,830 --> 00:05:41,840
+targets one creature plus any number of
+ 
+
+257
+00:05:41,840 --> 00:05:44,710
+targets one creature plus any number of
+additional creatures and the electricity
+
+258
+00:05:44,710 --> 00:05:44,720
+additional creatures and the electricity
+ 
+
+259
+00:05:44,720 --> 00:05:47,350
+additional creatures and the electricity
+then arcs to another creature within 30
+
+260
+00:05:47,350 --> 00:05:47,360
+then arcs to another creature within 30
+ 
+
+261
+00:05:47,360 --> 00:05:49,909
+then arcs to another creature within 30
+ft of the first target. Jumps to another
+
+262
+00:05:49,909 --> 00:05:49,919
+ft of the first target. Jumps to another
+ 
+
+263
+00:05:49,919 --> 00:05:51,909
+ft of the first target. Jumps to another
+creature within 30 ft of the target and
+
+264
+00:05:51,909 --> 00:05:51,919
+creature within 30 ft of the target and
+ 
+
+265
+00:05:51,919 --> 00:05:54,390
+creature within 30 ft of the target and
+so on. You can end the chain at any
+
+266
+00:05:54,390 --> 00:05:54,400
+so on. You can end the chain at any
+ 
+
+267
+00:05:54,400 --> 00:05:56,710
+so on. You can end the chain at any
+point. You can't target the same
+
+268
+00:05:56,710 --> 00:05:56,720
+point. You can't target the same
+ 
+
+269
+00:05:56,720 --> 00:05:59,830
+point. You can't target the same
+creature more than once. Since monster
+
+270
+00:05:59,830 --> 00:05:59,840
+creature more than once. Since monster
+ 
+
+271
+00:05:59,840 --> 00:06:02,550
+creature more than once. Since monster
+parts are all the same singular
+
+272
+00:06:02,550 --> 00:06:02,560
+parts are all the same singular
+ 
+
+273
+00:06:02,560 --> 00:06:04,870
+parts are all the same singular
+creature, you couldn't use chain
+
+274
+00:06:04,870 --> 00:06:04,880
+creature, you couldn't use chain
+ 
+
+275
+00:06:04,880 --> 00:06:07,590
+creature, you couldn't use chain
+lightning to arc from a dragon's head to
+
+276
+00:06:07,590 --> 00:06:07,600
+lightning to arc from a dragon's head to
+ 
+
+277
+00:06:07,600 --> 00:06:10,230
+lightning to arc from a dragon's head to
+its wings to its tail to each of its
+
+278
+00:06:10,230 --> 00:06:10,240
+its wings to its tail to each of its
+ 
+
+279
+00:06:10,240 --> 00:06:12,870
+its wings to its tail to each of its
+claws and so on. You would choose either
+
+280
+00:06:12,870 --> 00:06:12,880
+claws and so on. You would choose either
+ 
+
+281
+00:06:12,880 --> 00:06:15,749
+claws and so on. You would choose either
+one part of the dragon or its main body
+
+282
+00:06:15,749 --> 00:06:15,759
+one part of the dragon or its main body
+ 
+
+283
+00:06:15,759 --> 00:06:18,070
+one part of the dragon or its main body
+to be targeted by chain lightning before
+
+284
+00:06:18,070 --> 00:06:18,080
+to be targeted by chain lightning before
+ 
+
+285
+00:06:18,080 --> 00:06:20,950
+to be targeted by chain lightning before
+it arcs off to the next creature. So
+
+286
+00:06:20,950 --> 00:06:20,960
+it arcs off to the next creature. So
+ 
+
+287
+00:06:20,960 --> 00:06:23,029
+it arcs off to the next creature. So
+bottom line, any effect may only target
+
+288
+00:06:23,029 --> 00:06:23,039
+bottom line, any effect may only target
+ 
+
+289
+00:06:23,039 --> 00:06:25,270
+bottom line, any effect may only target
+a single part of the monster or its main
+
+290
+00:06:25,270 --> 00:06:25,280
+a single part of the monster or its main
+ 
+
+291
+00:06:25,280 --> 00:06:29,029
+a single part of the monster or its main
+body, never more. And last, parts are
+
+292
+00:06:29,029 --> 00:06:29,039
+body, never more. And last, parts are
+ 
+
+293
+00:06:29,039 --> 00:06:32,230
+body, never more. And last, parts are
+never targeted by area effects. Any
+
+294
+00:06:32,230 --> 00:06:32,240
+never targeted by area effects. Any
+ 
+
+295
+00:06:32,240 --> 00:06:34,870
+never targeted by area effects. Any
+spell, bomb, or other ability that deals
+
+296
+00:06:34,870 --> 00:06:34,880
+spell, bomb, or other ability that deals
+ 
+
+297
+00:06:34,880 --> 00:06:37,670
+spell, bomb, or other ability that deals
+area damage may only affect the
+
+298
+00:06:37,670 --> 00:06:37,680
+area damage may only affect the
+ 
+
+299
+00:06:37,680 --> 00:06:40,150
+area damage may only affect the
+creature's main body. Explosions and
+
+300
+00:06:40,150 --> 00:06:40,160
+creature's main body. Explosions and
+ 
+
+301
+00:06:40,160 --> 00:06:41,670
+creature's main body. Explosions and
+similar effects are simply too
+
+302
+00:06:41,670 --> 00:06:41,680
+similar effects are simply too
+ 
+
+303
+00:06:41,680 --> 00:06:44,309
+similar effects are simply too
+unpredictable to aim at a specific body
+
+304
+00:06:44,309 --> 00:06:44,319
+unpredictable to aim at a specific body
+ 
+
+305
+00:06:44,319 --> 00:06:46,629
+unpredictable to aim at a specific body
+part. But as always, DMs are free to
+
+306
+00:06:46,629 --> 00:06:46,639
+part. But as always, DMs are free to
+ 
+
+307
+00:06:46,639 --> 00:06:48,469
+part. But as always, DMs are free to
+rule differently if doing so makes sense
+
+308
+00:06:48,469 --> 00:06:48,479
+rule differently if doing so makes sense
+ 
+
+309
+00:06:48,479 --> 00:06:51,270
+rule differently if doing so makes sense
+in their games. And a general rule of
+
+310
+00:06:51,270 --> 00:06:51,280
+in their games. And a general rule of
+ 
+
+311
+00:06:51,280 --> 00:06:54,150
+in their games. And a general rule of
+thumb is if you're not sure if an effect
+
+312
+00:06:54,150 --> 00:06:54,160
+thumb is if you're not sure if an effect
+ 
+
+313
+00:06:54,160 --> 00:06:56,950
+thumb is if you're not sure if an effect
+could target a specific part, then apply
+
+314
+00:06:56,950 --> 00:06:56,960
+could target a specific part, then apply
+ 
+
+315
+00:06:56,960 --> 00:07:00,950
+could target a specific part, then apply
+it to only the creature's main body.
+
+316
+00:07:00,950 --> 00:07:00,960
+it to only the creature's main body.
+ 
+
+317
+00:07:00,960 --> 00:07:04,150
+it to only the creature's main body.
+Now, let's talk about damaging a part.
+
+318
+00:07:04,150 --> 00:07:04,160
+Now, let's talk about damaging a part.
+ 
+
+319
+00:07:04,160 --> 00:07:06,629
+Now, let's talk about damaging a part.
+When a player hits a part and deals
+
+320
+00:07:06,629 --> 00:07:06,639
+When a player hits a part and deals
+ 
+
+321
+00:07:06,639 --> 00:07:09,189
+When a player hits a part and deals
+damage, that damage is applied to both
+
+322
+00:07:09,189 --> 00:07:09,199
+damage, that damage is applied to both
+ 
+
+323
+00:07:09,199 --> 00:07:12,309
+damage, that damage is applied to both
+the parts hit points and the creature's
+
+324
+00:07:12,309 --> 00:07:12,319
+the parts hit points and the creature's
+ 
+
+325
+00:07:12,319 --> 00:07:14,870
+the parts hit points and the creature's
+main body hit points with each
+
+326
+00:07:14,870 --> 00:07:14,880
+main body hit points with each
+ 
+
+327
+00:07:14,880 --> 00:07:17,510
+main body hit points with each
+location's resistances and weaknesses
+
+328
+00:07:17,510 --> 00:07:17,520
+location's resistances and weaknesses
+ 
+
+329
+00:07:17,520 --> 00:07:20,710
+location's resistances and weaknesses
+applied separately. Why? Well, because
+
+330
+00:07:20,710 --> 00:07:20,720
+applied separately. Why? Well, because
+ 
+
+331
+00:07:20,720 --> 00:07:23,029
+applied separately. Why? Well, because
+it ensures players always feel like
+
+332
+00:07:23,029 --> 00:07:23,039
+it ensures players always feel like
+ 
+
+333
+00:07:23,039 --> 00:07:25,029
+it ensures players always feel like
+they're making progress towards ending
+
+334
+00:07:25,029 --> 00:07:25,039
+they're making progress towards ending
+ 
+
+335
+00:07:25,039 --> 00:07:27,430
+they're making progress towards ending
+the fight, which is usually accomplished
+
+336
+00:07:27,430 --> 00:07:27,440
+the fight, which is usually accomplished
+ 
+
+337
+00:07:27,440 --> 00:07:29,830
+the fight, which is usually accomplished
+by depleting the main body's hit points
+
+338
+00:07:29,830 --> 00:07:29,840
+by depleting the main body's hit points
+ 
+
+339
+00:07:29,840 --> 00:07:32,230
+by depleting the main body's hit points
+while they're also working towards the
+
+340
+00:07:32,230 --> 00:07:32,240
+while they're also working towards the
+ 
+
+341
+00:07:32,240 --> 00:07:35,110
+while they're also working towards the
+tactical goal of disabling a part. It
+
+342
+00:07:35,110 --> 00:07:35,120
+tactical goal of disabling a part. It
+ 
+
+343
+00:07:35,120 --> 00:07:38,550
+tactical goal of disabling a part. It
+represents overall trauma. A big hit to
+
+344
+00:07:38,550 --> 00:07:38,560
+represents overall trauma. A big hit to
+ 
+
+345
+00:07:38,560 --> 00:07:41,990
+represents overall trauma. A big hit to
+a limb hurts the whole creature. Also,
+
+346
+00:07:41,990 --> 00:07:42,000
+a limb hurts the whole creature. Also,
+ 
+
+347
+00:07:42,000 --> 00:07:44,870
+a limb hurts the whole creature. Also,
+difficulty might spiral out of control
+
+348
+00:07:44,870 --> 00:07:44,880
+difficulty might spiral out of control
+ 
+
+349
+00:07:44,880 --> 00:07:48,070
+difficulty might spiral out of control
+if each part is treated as an additional
+
+350
+00:07:48,070 --> 00:07:48,080
+if each part is treated as an additional
+ 
+
+351
+00:07:48,080 --> 00:07:50,390
+if each part is treated as an additional
+layer of hit points on top of the
+
+352
+00:07:50,390 --> 00:07:50,400
+layer of hit points on top of the
+ 
+
+353
+00:07:50,400 --> 00:07:53,589
+layer of hit points on top of the
+already existing main body hit points.
+
+354
+00:07:53,589 --> 00:07:53,599
+already existing main body hit points.
+ 
+
+355
+00:07:53,599 --> 00:07:56,230
+already existing main body hit points.
+Let's look at an example.
+
+356
+00:07:56,230 --> 00:07:56,240
+Let's look at an example.
+ 
+
+357
+00:07:56,240 --> 00:07:59,189
+Let's look at an example.
+Consider this clock or behemoth. Its
+
+358
+00:07:59,189 --> 00:07:59,199
+Consider this clock or behemoth. Its
+ 
+
+359
+00:07:59,199 --> 00:08:02,150
+Consider this clock or behemoth. Its
+main body has 150 hit points and
+
+360
+00:08:02,150 --> 00:08:02,160
+main body has 150 hit points and
+ 
+
+361
+00:08:02,160 --> 00:08:05,110
+main body has 150 hit points and
+resistance 10 to physical. It has an
+
+362
+00:08:05,110 --> 00:08:05,120
+resistance 10 to physical. It has an
+ 
+
+363
+00:08:05,120 --> 00:08:08,710
+resistance 10 to physical. It has an
+arcane gym part with 30 hit points and
+
+364
+00:08:08,710 --> 00:08:08,720
+arcane gym part with 30 hit points and
+ 
+
+365
+00:08:08,720 --> 00:08:11,270
+arcane gym part with 30 hit points and
+only resistance five to physical. A
+
+366
+00:08:11,270 --> 00:08:11,280
+only resistance five to physical. A
+ 
+
+367
+00:08:11,280 --> 00:08:14,070
+only resistance five to physical. A
+player targets the gym with a Warhammer
+
+368
+00:08:14,070 --> 00:08:14,080
+player targets the gym with a Warhammer
+ 
+
+369
+00:08:14,080 --> 00:08:17,670
+player targets the gym with a Warhammer
+and deals 14 bludgeoning damage. The gym
+
+370
+00:08:17,670 --> 00:08:17,680
+and deals 14 bludgeoning damage. The gym
+ 
+
+371
+00:08:17,680 --> 00:08:21,430
+and deals 14 bludgeoning damage. The gym
+suffers nine damage, 14 raw damage minus
+
+372
+00:08:21,430 --> 00:08:21,440
+suffers nine damage, 14 raw damage minus
+ 
+
+373
+00:08:21,440 --> 00:08:24,150
+suffers nine damage, 14 raw damage minus
+its resistance of five. Therefore, its
+
+374
+00:08:24,150 --> 00:08:24,160
+its resistance of five. Therefore, its
+ 
+
+375
+00:08:24,160 --> 00:08:27,990
+its resistance of five. Therefore, its
+hit points drop to 21. At the same time,
+
+376
+00:08:27,990 --> 00:08:28,000
+hit points drop to 21. At the same time,
+ 
+
+377
+00:08:28,000 --> 00:08:31,510
+hit points drop to 21. At the same time,
+the main body suffers four damage. the
+
+378
+00:08:31,510 --> 00:08:31,520
+the main body suffers four damage. the
+ 
+
+379
+00:08:31,520 --> 00:08:34,550
+the main body suffers four damage. the
+original 14 applied by the Warhammer
+
+380
+00:08:34,550 --> 00:08:34,560
+original 14 applied by the Warhammer
+ 
+
+381
+00:08:34,560 --> 00:08:37,430
+original 14 applied by the Warhammer
+minus the main body's resistance of 10.
+
+382
+00:08:37,430 --> 00:08:37,440
+minus the main body's resistance of 10.
+ 
+
+383
+00:08:37,440 --> 00:08:41,190
+minus the main body's resistance of 10.
+So, its hit points drop to 146.
+
+384
+00:08:41,190 --> 00:08:41,200
+So, its hit points drop to 146.
+ 
+
+385
+00:08:41,200 --> 00:08:43,750
+So, its hit points drop to 146.
+In this system, we have progress on both
+
+386
+00:08:43,750 --> 00:08:43,760
+In this system, we have progress on both
+ 
+
+387
+00:08:43,760 --> 00:08:46,150
+In this system, we have progress on both
+fronts, lowering the main body hit
+
+388
+00:08:46,150 --> 00:08:46,160
+fronts, lowering the main body hit
+ 
+
+389
+00:08:46,160 --> 00:08:48,949
+fronts, lowering the main body hit
+points while also lowering the parts hit
+
+390
+00:08:48,949 --> 00:08:48,959
+points while also lowering the parts hit
+ 
+
+391
+00:08:48,959 --> 00:08:52,230
+points while also lowering the parts hit
+points. And each location has its own
+
+392
+00:08:52,230 --> 00:08:52,240
+points. And each location has its own
+ 
+
+393
+00:08:52,240 --> 00:08:55,350
+points. And each location has its own
+resistances and weaknesses. Now, let's
+
+394
+00:08:55,350 --> 00:08:55,360
+resistances and weaknesses. Now, let's
+ 
+
+395
+00:08:55,360 --> 00:08:57,750
+resistances and weaknesses. Now, let's
+make it a little more interesting. Let's
+
+396
+00:08:57,750 --> 00:08:57,760
+make it a little more interesting. Let's
+ 
+
+397
+00:08:57,760 --> 00:09:00,790
+make it a little more interesting. Let's
+say the behemoth's main body is weak
+
+398
+00:09:00,790 --> 00:09:00,800
+say the behemoth's main body is weak
+ 
+
+399
+00:09:00,800 --> 00:09:03,990
+say the behemoth's main body is weak
+five to electricity, but its arcane gym
+
+400
+00:09:03,990 --> 00:09:04,000
+five to electricity, but its arcane gym
+ 
+
+401
+00:09:04,000 --> 00:09:06,630
+five to electricity, but its arcane gym
+is insulated and has resistance
+
+402
+00:09:06,630 --> 00:09:06,640
+is insulated and has resistance
+ 
+
+403
+00:09:06,640 --> 00:09:09,990
+is insulated and has resistance
+electricity 10. A player targets the gem
+
+404
+00:09:09,990 --> 00:09:10,000
+electricity 10. A player targets the gem
+ 
+
+405
+00:09:10,000 --> 00:09:12,949
+electricity 10. A player targets the gem
+with electric arc and deals 15
+
+406
+00:09:12,949 --> 00:09:12,959
+with electric arc and deals 15
+ 
+
+407
+00:09:12,959 --> 00:09:16,070
+with electric arc and deals 15
+electricity damage. The gym suffers five
+
+408
+00:09:16,070 --> 00:09:16,080
+electricity damage. The gym suffers five
+ 
+
+409
+00:09:16,080 --> 00:09:19,350
+electricity damage. The gym suffers five
+damage, 15 damage minus its resistance
+
+410
+00:09:19,350 --> 00:09:19,360
+damage, 15 damage minus its resistance
+ 
+
+411
+00:09:19,360 --> 00:09:21,910
+damage, 15 damage minus its resistance
+10 to electricity, so its hit points
+
+412
+00:09:21,910 --> 00:09:21,920
+10 to electricity, so its hit points
+ 
+
+413
+00:09:21,920 --> 00:09:26,389
+10 to electricity, so its hit points
+drop to 16. And the main body suffers 20
+
+414
+00:09:26,389 --> 00:09:26,399
+drop to 16. And the main body suffers 20
+ 
+
+415
+00:09:26,399 --> 00:09:30,150
+drop to 16. And the main body suffers 20
+damage, 15 plus its weakness five to
+
+416
+00:09:30,150 --> 00:09:30,160
+damage, 15 plus its weakness five to
+ 
+
+417
+00:09:30,160 --> 00:09:33,190
+damage, 15 plus its weakness five to
+electricity. So its hit points drop to
+
+418
+00:09:33,190 --> 00:09:33,200
+electricity. So its hit points drop to
+ 
+
+419
+00:09:33,200 --> 00:09:36,710
+electricity. So its hit points drop to
+126. Again, all the damage is applied
+
+420
+00:09:36,710 --> 00:09:36,720
+126. Again, all the damage is applied
+ 
+
+421
+00:09:36,720 --> 00:09:39,910
+126. Again, all the damage is applied
+separately to the targeted part and the
+
+422
+00:09:39,910 --> 00:09:39,920
+separately to the targeted part and the
+ 
+
+423
+00:09:39,920 --> 00:09:42,389
+separately to the targeted part and the
+monster's main body. This may seem
+
+424
+00:09:42,389 --> 00:09:42,399
+monster's main body. This may seem
+ 
+
+425
+00:09:42,399 --> 00:09:44,150
+monster's main body. This may seem
+complicated, but remember, in most
+
+426
+00:09:44,150 --> 00:09:44,160
+complicated, but remember, in most
+ 
+
+427
+00:09:44,160 --> 00:09:46,150
+complicated, but remember, in most
+cases, the different parts will likely
+
+428
+00:09:46,150 --> 00:09:46,160
+cases, the different parts will likely
+ 
+
+429
+00:09:46,160 --> 00:09:48,310
+cases, the different parts will likely
+have the same resistances and weaknesses
+
+430
+00:09:48,310 --> 00:09:48,320
+have the same resistances and weaknesses
+ 
+
+431
+00:09:48,320 --> 00:09:50,949
+have the same resistances and weaknesses
+as the main body. But this rule also
+
+432
+00:09:50,949 --> 00:09:50,959
+as the main body. But this rule also
+ 
+
+433
+00:09:50,959 --> 00:09:53,430
+as the main body. But this rule also
+allows creatures like a fiveheaded
+
+434
+00:09:53,430 --> 00:09:53,440
+allows creatures like a fiveheaded
+ 
+
+435
+00:09:53,440 --> 00:09:55,430
+allows creatures like a fiveheaded
+chromatic dragon to have different
+
+436
+00:09:55,430 --> 00:09:55,440
+chromatic dragon to have different
+ 
+
+437
+00:09:55,440 --> 00:09:57,829
+chromatic dragon to have different
+weaknesses and resistances for each of
+
+438
+00:09:57,829 --> 00:09:57,839
+weaknesses and resistances for each of
+ 
+
+439
+00:09:57,839 --> 00:10:01,190
+weaknesses and resistances for each of
+its heads.
+
+440
+00:10:01,190 --> 00:10:01,200
+
+ 
+
+441
+00:10:01,200 --> 00:10:03,990
+
+So what happens when a part's hit points
+
+442
+00:10:03,990 --> 00:10:04,000
+So what happens when a part's hit points
+ 
+
+443
+00:10:04,000 --> 00:10:06,790
+So what happens when a part's hit points
+reach zero? Well, it becomes broken just
+
+444
+00:10:06,790 --> 00:10:06,800
+reach zero? Well, it becomes broken just
+ 
+
+445
+00:10:06,800 --> 00:10:10,150
+reach zero? Well, it becomes broken just
+like any other object in Pathfinder. A
+
+446
+00:10:10,150 --> 00:10:10,160
+like any other object in Pathfinder. A
+ 
+
+447
+00:10:10,160 --> 00:10:13,670
+like any other object in Pathfinder. A
+broken part loses its functionality. The
+
+448
+00:10:13,670 --> 00:10:13,680
+broken part loses its functionality. The
+ 
+
+449
+00:10:13,680 --> 00:10:15,990
+broken part loses its functionality. The
+creature can't use any actions,
+
+450
+00:10:15,990 --> 00:10:16,000
+creature can't use any actions,
+ 
+
+451
+00:10:16,000 --> 00:10:17,990
+creature can't use any actions,
+reactions, or abilities tied
+
+452
+00:10:17,990 --> 00:10:18,000
+reactions, or abilities tied
+ 
+
+453
+00:10:18,000 --> 00:10:21,190
+reactions, or abilities tied
+specifically to that part. Optionally, a
+
+454
+00:10:21,190 --> 00:10:21,200
+specifically to that part. Optionally, a
+ 
+
+455
+00:10:21,200 --> 00:10:23,829
+specifically to that part. Optionally, a
+broken part could also impose penalties,
+
+456
+00:10:23,829 --> 00:10:23,839
+broken part could also impose penalties,
+ 
+
+457
+00:10:23,839 --> 00:10:26,949
+broken part could also impose penalties,
+like a broken leg, reducing speed. And
+
+458
+00:10:26,949 --> 00:10:26,959
+like a broken leg, reducing speed. And
+ 
+
+459
+00:10:26,959 --> 00:10:28,710
+like a broken leg, reducing speed. And
+we should also take a moment to discuss
+
+460
+00:10:28,710 --> 00:10:28,720
+we should also take a moment to discuss
+ 
+
+461
+00:10:28,720 --> 00:10:31,269
+we should also take a moment to discuss
+healing. Healing effects that typically
+
+462
+00:10:31,269 --> 00:10:31,279
+healing. Healing effects that typically
+ 
+
+463
+00:10:31,279 --> 00:10:33,670
+healing. Healing effects that typically
+have targets can be used to heal either
+
+464
+00:10:33,670 --> 00:10:33,680
+have targets can be used to heal either
+ 
+
+465
+00:10:33,680 --> 00:10:35,910
+have targets can be used to heal either
+the creature's main body or a single
+
+466
+00:10:35,910 --> 00:10:35,920
+the creature's main body or a single
+ 
+
+467
+00:10:35,920 --> 00:10:39,030
+the creature's main body or a single
+part. And just like how damaging a part
+
+468
+00:10:39,030 --> 00:10:39,040
+part. And just like how damaging a part
+ 
+
+469
+00:10:39,040 --> 00:10:41,590
+part. And just like how damaging a part
+applies the damage to both that part and
+
+470
+00:10:41,590 --> 00:10:41,600
+applies the damage to both that part and
+ 
+
+471
+00:10:41,600 --> 00:10:43,990
+applies the damage to both that part and
+the main body, applying healing to a
+
+472
+00:10:43,990 --> 00:10:44,000
+the main body, applying healing to a
+ 
+
+473
+00:10:44,000 --> 00:10:46,550
+the main body, applying healing to a
+part also heals the main body the same
+
+474
+00:10:46,550 --> 00:10:46,560
+part also heals the main body the same
+ 
+
+475
+00:10:46,560 --> 00:10:48,790
+part also heals the main body the same
+amount. For example, the heal spell
+
+476
+00:10:48,790 --> 00:10:48,800
+amount. For example, the heal spell
+ 
+
+477
+00:10:48,800 --> 00:10:51,190
+amount. For example, the heal spell
+targets one living creature. This could
+
+478
+00:10:51,190 --> 00:10:51,200
+targets one living creature. This could
+ 
+
+479
+00:10:51,200 --> 00:10:53,190
+targets one living creature. This could
+be used to heal either the creature's
+
+480
+00:10:53,190 --> 00:10:53,200
+be used to heal either the creature's
+ 
+
+481
+00:10:53,200 --> 00:10:55,670
+be used to heal either the creature's
+main body or a single part. And if it
+
+482
+00:10:55,670 --> 00:10:55,680
+main body or a single part. And if it
+ 
+
+483
+00:10:55,680 --> 00:10:57,829
+main body or a single part. And if it
+targets a part, then the healing is
+
+484
+00:10:57,829 --> 00:10:57,839
+targets a part, then the healing is
+ 
+
+485
+00:10:57,839 --> 00:11:00,069
+targets a part, then the healing is
+applied to both that part and to the
+
+486
+00:11:00,069 --> 00:11:00,079
+applied to both that part and to the
+ 
+
+487
+00:11:00,079 --> 00:11:03,350
+applied to both that part and to the
+main body. Yes. A downside of this is
+
+488
+00:11:03,350 --> 00:11:03,360
+main body. Yes. A downside of this is
+ 
+
+489
+00:11:03,360 --> 00:11:06,150
+main body. Yes. A downside of this is
+there's no benefit to targeting just the
+
+490
+00:11:06,150 --> 00:11:06,160
+there's no benefit to targeting just the
+ 
+
+491
+00:11:06,160 --> 00:11:09,030
+there's no benefit to targeting just the
+main body, but this rule is simple and
+
+492
+00:11:09,030 --> 00:11:09,040
+main body, but this rule is simple and
+ 
+
+493
+00:11:09,040 --> 00:11:11,750
+main body, but this rule is simple and
+consistent with how damaging a multi-art
+
+494
+00:11:11,750 --> 00:11:11,760
+consistent with how damaging a multi-art
+ 
+
+495
+00:11:11,760 --> 00:11:14,870
+consistent with how damaging a multi-art
+opponent works. And area healing effects
+
+496
+00:11:14,870 --> 00:11:14,880
+opponent works. And area healing effects
+ 
+
+497
+00:11:14,880 --> 00:11:16,790
+opponent works. And area healing effects
+like the three action version of the
+
+498
+00:11:16,790 --> 00:11:16,800
+like the three action version of the
+ 
+
+499
+00:11:16,800 --> 00:11:19,269
+like the three action version of the
+heal spell only restore the creature's
+
+500
+00:11:19,269 --> 00:11:19,279
+heal spell only restore the creature's
+ 
+
+501
+00:11:19,279 --> 00:11:21,829
+heal spell only restore the creature's
+main body. For other effects like fast
+
+502
+00:11:21,829 --> 00:11:21,839
+main body. For other effects like fast
+ 
+
+503
+00:11:21,839 --> 00:11:24,230
+main body. For other effects like fast
+healing, these likely apply to all the
+
+504
+00:11:24,230 --> 00:11:24,240
+healing, these likely apply to all the
+ 
+
+505
+00:11:24,240 --> 00:11:26,870
+healing, these likely apply to all the
+creatures parts and their main body
+
+506
+00:11:26,870 --> 00:11:26,880
+creatures parts and their main body
+ 
+
+507
+00:11:26,880 --> 00:11:29,350
+creatures parts and their main body
+once. You wouldn't multiply the fast
+
+508
+00:11:29,350 --> 00:11:29,360
+once. You wouldn't multiply the fast
+ 
+
+509
+00:11:29,360 --> 00:11:32,150
+once. You wouldn't multiply the fast
+healing per part and then apply that
+
+510
+00:11:32,150 --> 00:11:32,160
+healing per part and then apply that
+ 
+
+511
+00:11:32,160 --> 00:11:35,590
+healing per part and then apply that
+total to the main body. But keep in mind
+
+512
+00:11:35,590 --> 00:11:35,600
+total to the main body. But keep in mind
+ 
+
+513
+00:11:35,600 --> 00:11:38,150
+total to the main body. But keep in mind
+that under normal circumstances, a
+
+514
+00:11:38,150 --> 00:11:38,160
+that under normal circumstances, a
+ 
+
+515
+00:11:38,160 --> 00:11:41,190
+that under normal circumstances, a
+broken part may not be made functional
+
+516
+00:11:41,190 --> 00:11:41,200
+broken part may not be made functional
+ 
+
+517
+00:11:41,200 --> 00:11:43,670
+broken part may not be made functional
+again through normal healing. Once a
+
+518
+00:11:43,670 --> 00:11:43,680
+again through normal healing. Once a
+ 
+
+519
+00:11:43,680 --> 00:11:45,990
+again through normal healing. Once a
+part's hit points are reduced to zero,
+
+520
+00:11:45,990 --> 00:11:46,000
+part's hit points are reduced to zero,
+ 
+
+521
+00:11:46,000 --> 00:11:49,269
+part's hit points are reduced to zero,
+it becomes broken and it remains broken
+
+522
+00:11:49,269 --> 00:11:49,279
+it becomes broken and it remains broken
+ 
+
+523
+00:11:49,279 --> 00:11:52,150
+it becomes broken and it remains broken
+for the remainder of the encounter. The
+
+524
+00:11:52,150 --> 00:11:52,160
+for the remainder of the encounter. The
+ 
+
+525
+00:11:52,160 --> 00:11:54,870
+for the remainder of the encounter. The
+reason for this is twofold. First,
+
+526
+00:11:54,870 --> 00:11:54,880
+reason for this is twofold. First,
+ 
+
+527
+00:11:54,880 --> 00:11:57,110
+reason for this is twofold. First,
+breaking apart should feel like a
+
+528
+00:11:57,110 --> 00:11:57,120
+breaking apart should feel like a
+ 
+
+529
+00:11:57,120 --> 00:11:59,509
+breaking apart should feel like a
+significant moment in the narrative, and
+
+530
+00:11:59,509 --> 00:11:59,519
+significant moment in the narrative, and
+ 
+
+531
+00:11:59,519 --> 00:12:01,190
+significant moment in the narrative, and
+players may feel cheated if that
+
+532
+00:12:01,190 --> 00:12:01,200
+players may feel cheated if that
+ 
+
+533
+00:12:01,200 --> 00:12:02,949
+players may feel cheated if that
+accomplishment is taken away from them
+
+534
+00:12:02,949 --> 00:12:02,959
+accomplishment is taken away from them
+ 
+
+535
+00:12:02,959 --> 00:12:05,750
+accomplishment is taken away from them
+by healing. And second, allowing a
+
+536
+00:12:05,750 --> 00:12:05,760
+by healing. And second, allowing a
+ 
+
+537
+00:12:05,760 --> 00:12:08,150
+by healing. And second, allowing a
+broken part to be restored may
+
+538
+00:12:08,150 --> 00:12:08,160
+broken part to be restored may
+ 
+
+539
+00:12:08,160 --> 00:12:10,150
+broken part to be restored may
+significantly increase the challenge of
+
+540
+00:12:10,150 --> 00:12:10,160
+significantly increase the challenge of
+ 
+
+541
+00:12:10,160 --> 00:12:13,269
+significantly increase the challenge of
+the encounter. So, if a dragon's claw is
+
+542
+00:12:13,269 --> 00:12:13,279
+the encounter. So, if a dragon's claw is
+ 
+
+543
+00:12:13,279 --> 00:12:15,670
+the encounter. So, if a dragon's claw is
+broken and the dragon's main body
+
+544
+00:12:15,670 --> 00:12:15,680
+broken and the dragon's main body
+ 
+
+545
+00:12:15,680 --> 00:12:17,910
+broken and the dragon's main body
+receives healing, it may become
+
+546
+00:12:17,910 --> 00:12:17,920
+receives healing, it may become
+ 
+
+547
+00:12:17,920 --> 00:12:21,590
+receives healing, it may become
+healthier overall, but its claw is still
+
+548
+00:12:21,590 --> 00:12:21,600
+healthier overall, but its claw is still
+ 
+
+549
+00:12:21,600 --> 00:12:24,790
+healthier overall, but its claw is still
+crippled. Outside of combat, the GM can
+
+550
+00:12:24,790 --> 00:12:24,800
+crippled. Outside of combat, the GM can
+ 
+
+551
+00:12:24,800 --> 00:12:26,710
+crippled. Outside of combat, the GM can
+decide how long it takes for this boss
+
+552
+00:12:26,710 --> 00:12:26,720
+decide how long it takes for this boss
+ 
+
+553
+00:12:26,720 --> 00:12:28,949
+decide how long it takes for this boss
+monster to heal up and recover the use
+
+554
+00:12:28,949 --> 00:12:28,959
+monster to heal up and recover the use
+ 
+
+555
+00:12:28,959 --> 00:12:32,150
+monster to heal up and recover the use
+of its broken parts.
+
+556
+00:12:32,150 --> 00:12:32,160
+of its broken parts.
+ 
+
+557
+00:12:32,160 --> 00:12:34,550
+of its broken parts.
+Multi-art creatures still get their
+
+558
+00:12:34,550 --> 00:12:34,560
+Multi-art creatures still get their
+ 
+
+559
+00:12:34,560 --> 00:12:37,190
+Multi-art creatures still get their
+usual three actions in one reaction per
+
+560
+00:12:37,190 --> 00:12:37,200
+usual three actions in one reaction per
+ 
+
+561
+00:12:37,200 --> 00:12:40,069
+usual three actions in one reaction per
+turn. It just can't use actions that are
+
+562
+00:12:40,069 --> 00:12:40,079
+turn. It just can't use actions that are
+ 
+
+563
+00:12:40,079 --> 00:12:42,710
+turn. It just can't use actions that are
+tied to broken parts. If it has two
+
+564
+00:12:42,710 --> 00:12:42,720
+tied to broken parts. If it has two
+ 
+
+565
+00:12:42,720 --> 00:12:44,790
+tied to broken parts. If it has two
+claws and one is broken, it can still
+
+566
+00:12:44,790 --> 00:12:44,800
+claws and one is broken, it can still
+ 
+
+567
+00:12:44,800 --> 00:12:47,350
+claws and one is broken, it can still
+attack with the other. Also apply
+
+568
+00:12:47,350 --> 00:12:47,360
+attack with the other. Also apply
+ 
+
+569
+00:12:47,360 --> 00:12:49,670
+attack with the other. Also apply
+conditions like frightened, stunned, or
+
+570
+00:12:49,670 --> 00:12:49,680
+conditions like frightened, stunned, or
+ 
+
+571
+00:12:49,680 --> 00:12:52,150
+conditions like frightened, stunned, or
+grabbed to the main creature as these
+
+572
+00:12:52,150 --> 00:12:52,160
+grabbed to the main creature as these
+ 
+
+573
+00:12:52,160 --> 00:12:55,190
+grabbed to the main creature as these
+affect the creature as a whole. However,
+
+574
+00:12:55,190 --> 00:12:55,200
+affect the creature as a whole. However,
+ 
+
+575
+00:12:55,200 --> 00:12:57,670
+affect the creature as a whole. However,
+you may want to allow part specific
+
+576
+00:12:57,670 --> 00:12:57,680
+you may want to allow part specific
+ 
+
+577
+00:12:57,680 --> 00:12:59,990
+you may want to allow part specific
+conditions for dramatic effect and the
+
+578
+00:12:59,990 --> 00:13:00,000
+conditions for dramatic effect and the
+ 
+
+579
+00:13:00,000 --> 00:13:02,629
+conditions for dramatic effect and the
+rule of cool. For example, you might
+
+580
+00:13:02,629 --> 00:13:02,639
+rule of cool. For example, you might
+ 
+
+581
+00:13:02,639 --> 00:13:04,870
+rule of cool. For example, you might
+allow a barbarian to grab a dragon's
+
+582
+00:13:04,870 --> 00:13:04,880
+allow a barbarian to grab a dragon's
+ 
+
+583
+00:13:04,880 --> 00:13:06,790
+allow a barbarian to grab a dragon's
+tail to prevent it from making tail
+
+584
+00:13:06,790 --> 00:13:06,800
+tail to prevent it from making tail
+ 
+
+585
+00:13:06,800 --> 00:13:09,190
+tail to prevent it from making tail
+strikes or holding its mouth shut to
+
+586
+00:13:09,190 --> 00:13:09,200
+strikes or holding its mouth shut to
+ 
+
+587
+00:13:09,200 --> 00:13:11,269
+strikes or holding its mouth shut to
+prevent it from using its breath weapon.
+
+588
+00:13:11,269 --> 00:13:11,279
+prevent it from using its breath weapon.
+ 
+
+589
+00:13:11,279 --> 00:13:14,310
+prevent it from using its breath weapon.
+As usual, cases like these are entirely
+
+590
+00:13:14,310 --> 00:13:14,320
+As usual, cases like these are entirely
+ 
+
+591
+00:13:14,320 --> 00:13:16,629
+As usual, cases like these are entirely
+left up to the GM to decide if they'll
+
+592
+00:13:16,629 --> 00:13:16,639
+left up to the GM to decide if they'll
+ 
+
+593
+00:13:16,639 --> 00:13:19,030
+left up to the GM to decide if they'll
+allow them.
+
+594
+00:13:19,030 --> 00:13:19,040
+allow them.
+ 
+
+595
+00:13:19,040 --> 00:13:21,750
+allow them.
+Okay, breaking parts is cool, but we can
+
+596
+00:13:21,750 --> 00:13:21,760
+Okay, breaking parts is cool, but we can
+ 
+
+597
+00:13:21,760 --> 00:13:24,389
+Okay, breaking parts is cool, but we can
+make it even more dynamic with phases
+
+598
+00:13:24,389 --> 00:13:24,399
+make it even more dynamic with phases
+ 
+
+599
+00:13:24,399 --> 00:13:27,030
+make it even more dynamic with phases
+and triggers, which are also inspired by
+
+600
+00:13:27,030 --> 00:13:27,040
+and triggers, which are also inspired by
+ 
+
+601
+00:13:27,040 --> 00:13:30,069
+and triggers, which are also inspired by
+how Fabula Ultima handles some of their
+
+602
+00:13:30,069 --> 00:13:30,079
+how Fabula Ultima handles some of their
+ 
+
+603
+00:13:30,079 --> 00:13:33,910
+how Fabula Ultima handles some of their
+multi-part bosses. A phase is just one
+
+604
+00:13:33,910 --> 00:13:33,920
+multi-part bosses. A phase is just one
+ 
+
+605
+00:13:33,920 --> 00:13:36,870
+multi-part bosses. A phase is just one
+distinct stage of a fight. The boss
+
+606
+00:13:36,870 --> 00:13:36,880
+distinct stage of a fight. The boss
+ 
+
+607
+00:13:36,880 --> 00:13:39,110
+distinct stage of a fight. The boss
+might change tactics, use new abilities,
+
+608
+00:13:39,110 --> 00:13:39,120
+might change tactics, use new abilities,
+ 
+
+609
+00:13:39,120 --> 00:13:41,509
+might change tactics, use new abilities,
+or the environment around them might
+
+610
+00:13:41,509 --> 00:13:41,519
+or the environment around them might
+ 
+
+611
+00:13:41,519 --> 00:13:44,470
+or the environment around them might
+shift. And a trigger is what causes the
+
+612
+00:13:44,470 --> 00:13:44,480
+shift. And a trigger is what causes the
+ 
+
+613
+00:13:44,480 --> 00:13:47,269
+shift. And a trigger is what causes the
+shift into a new phase. Breaking a
+
+614
+00:13:47,269 --> 00:13:47,279
+shift into a new phase. Breaking a
+ 
+
+615
+00:13:47,279 --> 00:13:49,910
+shift into a new phase. Breaking a
+specific part could be a perfect trigger
+
+616
+00:13:49,910 --> 00:13:49,920
+specific part could be a perfect trigger
+ 
+
+617
+00:13:49,920 --> 00:13:51,990
+specific part could be a perfect trigger
+for these. Other triggers could be
+
+618
+00:13:51,990 --> 00:13:52,000
+for these. Other triggers could be
+ 
+
+619
+00:13:52,000 --> 00:13:53,829
+for these. Other triggers could be
+hitting hit point thresholds, like
+
+620
+00:13:53,829 --> 00:13:53,839
+hitting hit point thresholds, like
+ 
+
+621
+00:13:53,839 --> 00:13:56,310
+hitting hit point thresholds, like
+becoming bloodied at 50% of the main
+
+622
+00:13:56,310 --> 00:13:56,320
+becoming bloodied at 50% of the main
+ 
+
+623
+00:13:56,320 --> 00:13:58,629
+becoming bloodied at 50% of the main
+body's hit points. Triggers could also
+
+624
+00:13:58,629 --> 00:13:58,639
+body's hit points. Triggers could also
+ 
+
+625
+00:13:58,639 --> 00:14:00,310
+body's hit points. Triggers could also
+be players interacting with the
+
+626
+00:14:00,310 --> 00:14:00,320
+be players interacting with the
+ 
+
+627
+00:14:00,320 --> 00:14:02,870
+be players interacting with the
+environment in a certain way or even
+
+628
+00:14:02,870 --> 00:14:02,880
+environment in a certain way or even
+ 
+
+629
+00:14:02,880 --> 00:14:04,870
+environment in a certain way or even
+just after a certain number of rounds
+
+630
+00:14:04,870 --> 00:14:04,880
+just after a certain number of rounds
+ 
+
+631
+00:14:04,880 --> 00:14:06,870
+just after a certain number of rounds
+have passed. But since this video is
+
+632
+00:14:06,870 --> 00:14:06,880
+have passed. But since this video is
+ 
+
+633
+00:14:06,880 --> 00:14:09,269
+have passed. But since this video is
+about multi-part opponents, we're going
+
+634
+00:14:09,269 --> 00:14:09,279
+about multi-part opponents, we're going
+ 
+
+635
+00:14:09,279 --> 00:14:11,910
+about multi-part opponents, we're going
+to focus on phase triggers being caused
+
+636
+00:14:11,910 --> 00:14:11,920
+to focus on phase triggers being caused
+ 
+
+637
+00:14:11,920 --> 00:14:14,790
+to focus on phase triggers being caused
+by damage. So, let's go back to our
+
+638
+00:14:14,790 --> 00:14:14,800
+by damage. So, let's go back to our
+ 
+
+639
+00:14:14,800 --> 00:14:17,509
+by damage. So, let's go back to our
+clockwork behemoth. We have a phase
+
+640
+00:14:17,509 --> 00:14:17,519
+clockwork behemoth. We have a phase
+ 
+
+641
+00:14:17,519 --> 00:14:20,310
+clockwork behemoth. We have a phase
+trigger that says the arcane gem part
+
+642
+00:14:20,310 --> 00:14:20,320
+trigger that says the arcane gem part
+ 
+
+643
+00:14:20,320 --> 00:14:22,790
+trigger that says the arcane gem part
+becomes broken. And when that is
+
+644
+00:14:22,790 --> 00:14:22,800
+becomes broken. And when that is
+ 
+
+645
+00:14:22,800 --> 00:14:25,910
+becomes broken. And when that is
+triggered, a new phase starts. Phases
+
+646
+00:14:25,910 --> 00:14:25,920
+triggered, a new phase starts. Phases
+ 
+
+647
+00:14:25,920 --> 00:14:29,189
+triggered, a new phase starts. Phases
+are all about change. So, what changes
+
+648
+00:14:29,189 --> 00:14:29,199
+are all about change. So, what changes
+ 
+
+649
+00:14:29,199 --> 00:14:31,590
+are all about change. So, what changes
+when the behemoth's arcane gym is
+
+650
+00:14:31,590 --> 00:14:31,600
+when the behemoth's arcane gym is
+ 
+
+651
+00:14:31,600 --> 00:14:33,829
+when the behemoth's arcane gym is
+shattered? Well, first the behemoth
+
+652
+00:14:33,829 --> 00:14:33,839
+shattered? Well, first the behemoth
+ 
+
+653
+00:14:33,839 --> 00:14:37,189
+shattered? Well, first the behemoth
+loses its gem powered energy blast. It
+
+654
+00:14:37,189 --> 00:14:37,199
+loses its gem powered energy blast. It
+ 
+
+655
+00:14:37,199 --> 00:14:40,629
+loses its gem powered energy blast. It
+gains a steam vent attack that deals
+
+656
+00:14:40,629 --> 00:14:40,639
+gains a steam vent attack that deals
+ 
+
+657
+00:14:40,639 --> 00:14:43,670
+gains a steam vent attack that deals
+fire damage in a cone area. His tactics
+
+658
+00:14:43,670 --> 00:14:43,680
+fire damage in a cone area. His tactics
+ 
+
+659
+00:14:43,680 --> 00:14:45,670
+fire damage in a cone area. His tactics
+changed to become a very aggressive
+
+660
+00:14:45,670 --> 00:14:45,680
+changed to become a very aggressive
+ 
+
+661
+00:14:45,680 --> 00:14:48,069
+changed to become a very aggressive
+melee fighter and also it starts
+
+662
+00:14:48,069 --> 00:14:48,079
+melee fighter and also it starts
+ 
+
+663
+00:14:48,079 --> 00:14:50,710
+melee fighter and also it starts
+grappling its enemies and his stats
+
+664
+00:14:50,710 --> 00:14:50,720
+grappling its enemies and his stats
+ 
+
+665
+00:14:50,720 --> 00:14:52,949
+grappling its enemies and his stats
+change. The weakness to electricity is
+
+666
+00:14:52,949 --> 00:14:52,959
+change. The weakness to electricity is
+ 
+
+667
+00:14:52,959 --> 00:14:55,430
+change. The weakness to electricity is
+gone. But now it has gained a weakness
+
+668
+00:14:55,430 --> 00:14:55,440
+gone. But now it has gained a weakness
+ 
+
+669
+00:14:55,440 --> 00:14:59,110
+gone. But now it has gained a weakness
+to cold damage. So why do we use phases?
+
+670
+00:14:59,110 --> 00:14:59,120
+to cold damage. So why do we use phases?
+ 
+
+671
+00:14:59,120 --> 00:15:01,829
+to cold damage. So why do we use phases?
+phases make boss fights feel like a
+
+672
+00:15:01,829 --> 00:15:01,839
+phases make boss fights feel like a
+ 
+
+673
+00:15:01,839 --> 00:15:03,990
+phases make boss fights feel like a
+journey. They reward players for
+
+674
+00:15:03,990 --> 00:15:04,000
+journey. They reward players for
+ 
+
+675
+00:15:04,000 --> 00:15:05,910
+journey. They reward players for
+achieving tactical goals like breaking
+
+676
+00:15:05,910 --> 00:15:05,920
+achieving tactical goals like breaking
+ 
+
+677
+00:15:05,920 --> 00:15:08,230
+achieving tactical goals like breaking
+apart. They keep the fight from getting
+
+678
+00:15:08,230 --> 00:15:08,240
+apart. They keep the fight from getting
+ 
+
+679
+00:15:08,240 --> 00:15:11,269
+apart. They keep the fight from getting
+stale. They ramp up the tension and they
+
+680
+00:15:11,269 --> 00:15:11,279
+stale. They ramp up the tension and they
+ 
+
+681
+00:15:11,279 --> 00:15:15,430
+stale. They ramp up the tension and they
+allow for cool narrative moments.
+
+682
+00:15:15,430 --> 00:15:15,440
+allow for cool narrative moments.
+ 
+
+683
+00:15:15,440 --> 00:15:17,670
+allow for cool narrative moments.
+So, we've established that attacking
+
+684
+00:15:17,670 --> 00:15:17,680
+So, we've established that attacking
+ 
+
+685
+00:15:17,680 --> 00:15:20,470
+So, we've established that attacking
+parts let you do something cool and
+
+686
+00:15:20,470 --> 00:15:20,480
+parts let you do something cool and
+ 
+
+687
+00:15:20,480 --> 00:15:23,110
+parts let you do something cool and
+powerful. You can disable specific
+
+688
+00:15:23,110 --> 00:15:23,120
+powerful. You can disable specific
+ 
+
+689
+00:15:23,120 --> 00:15:26,150
+powerful. You can disable specific
+monster abilities. Normally, you can't
+
+690
+00:15:26,150 --> 00:15:26,160
+monster abilities. Normally, you can't
+ 
+
+691
+00:15:26,160 --> 00:15:28,230
+monster abilities. Normally, you can't
+prevent a dragon from using his breath
+
+692
+00:15:28,230 --> 00:15:28,240
+prevent a dragon from using his breath
+ 
+
+693
+00:15:28,240 --> 00:15:30,870
+prevent a dragon from using his breath
+weapon. But with this system, targeting
+
+694
+00:15:30,870 --> 00:15:30,880
+weapon. But with this system, targeting
+ 
+
+695
+00:15:30,880 --> 00:15:34,150
+weapon. But with this system, targeting
+and breaking his head can achieve that.
+
+696
+00:15:34,150 --> 00:15:34,160
+and breaking his head can achieve that.
+ 
+
+697
+00:15:34,160 --> 00:15:36,550
+and breaking his head can achieve that.
+But here's the crucial part of design
+
+698
+00:15:36,550 --> 00:15:36,560
+But here's the crucial part of design
+ 
+
+699
+00:15:36,560 --> 00:15:38,870
+But here's the crucial part of design
+philosophy to make this work and keep
+
+700
+00:15:38,870 --> 00:15:38,880
+philosophy to make this work and keep
+ 
+
+701
+00:15:38,880 --> 00:15:41,269
+philosophy to make this work and keep
+encounters challenging. It shouldn't
+
+702
+00:15:41,269 --> 00:15:41,279
+encounters challenging. It shouldn't
+ 
+
+703
+00:15:41,279 --> 00:15:44,550
+encounters challenging. It shouldn't
+ever be a free lunch. And by that I mean
+
+704
+00:15:44,550 --> 00:15:44,560
+ever be a free lunch. And by that I mean
+ 
+
+705
+00:15:44,560 --> 00:15:47,750
+ever be a free lunch. And by that I mean
+if attacking a part always gives you a
+
+706
+00:15:47,750 --> 00:15:47,760
+if attacking a part always gives you a
+ 
+
+707
+00:15:47,760 --> 00:15:50,069
+if attacking a part always gives you a
+massive advantage in that it can disable
+
+708
+00:15:50,069 --> 00:15:50,079
+massive advantage in that it can disable
+ 
+
+709
+00:15:50,079 --> 00:15:52,870
+massive advantage in that it can disable
+an ability and at the same time also
+
+710
+00:15:52,870 --> 00:15:52,880
+an ability and at the same time also
+ 
+
+711
+00:15:52,880 --> 00:15:55,430
+an ability and at the same time also
+damages the main body just like a normal
+
+712
+00:15:55,430 --> 00:15:55,440
+damages the main body just like a normal
+ 
+
+713
+00:15:55,440 --> 00:15:57,910
+damages the main body just like a normal
+hit. Then there's really no downside
+
+714
+00:15:57,910 --> 00:15:57,920
+hit. Then there's really no downside
+ 
+
+715
+00:15:57,920 --> 00:16:01,269
+hit. Then there's really no downside
+here. The players will always attack the
+
+716
+00:16:01,269 --> 00:16:01,279
+here. The players will always attack the
+ 
+
+717
+00:16:01,279 --> 00:16:04,389
+here. The players will always attack the
+parts and therefore that removes any
+
+718
+00:16:04,389 --> 00:16:04,399
+parts and therefore that removes any
+ 
+
+719
+00:16:04,399 --> 00:16:07,749
+parts and therefore that removes any
+real tactical choice. So to maintain
+
+720
+00:16:07,749 --> 00:16:07,759
+real tactical choice. So to maintain
+ 
+
+721
+00:16:07,759 --> 00:16:10,310
+real tactical choice. So to maintain
+balance and create interesting decisions
+
+722
+00:16:10,310 --> 00:16:10,320
+balance and create interesting decisions
+ 
+
+723
+00:16:10,320 --> 00:16:12,870
+balance and create interesting decisions
+there needs to be a trade-off. The
+
+724
+00:16:12,870 --> 00:16:12,880
+there needs to be a trade-off. The
+ 
+
+725
+00:16:12,880 --> 00:16:15,110
+there needs to be a trade-off. The
+significant benefit of disabling a
+
+726
+00:16:15,110 --> 00:16:15,120
+significant benefit of disabling a
+ 
+
+727
+00:16:15,120 --> 00:16:17,350
+significant benefit of disabling a
+powerful monster ability should come
+
+728
+00:16:17,350 --> 00:16:17,360
+powerful monster ability should come
+ 
+
+729
+00:16:17,360 --> 00:16:21,189
+powerful monster ability should come
+with a roughly equivalent cost, risk, or
+
+730
+00:16:21,189 --> 00:16:21,199
+with a roughly equivalent cost, risk, or
+ 
+
+731
+00:16:21,199 --> 00:16:23,749
+with a roughly equivalent cost, risk, or
+consequence. Think of it like this. The
+
+732
+00:16:23,749 --> 00:16:23,759
+consequence. Think of it like this. The
+ 
+
+733
+00:16:23,759 --> 00:16:25,269
+consequence. Think of it like this. The
+game is letting you do something
+
+734
+00:16:25,269 --> 00:16:25,279
+game is letting you do something
+ 
+
+735
+00:16:25,279 --> 00:16:27,590
+game is letting you do something
+extraordinary like removing a breath
+
+736
+00:16:27,590 --> 00:16:27,600
+extraordinary like removing a breath
+ 
+
+737
+00:16:27,600 --> 00:16:29,910
+extraordinary like removing a breath
+weapon. So, there should also be an
+
+738
+00:16:29,910 --> 00:16:29,920
+weapon. So, there should also be an
+ 
+
+739
+00:16:29,920 --> 00:16:32,710
+weapon. So, there should also be an
+extraordinary consequence or challenge
+
+740
+00:16:32,710 --> 00:16:32,720
+extraordinary consequence or challenge
+ 
+
+741
+00:16:32,720 --> 00:16:34,230
+extraordinary consequence or challenge
+involved.
+
+742
+00:16:34,230 --> 00:16:34,240
+involved.
+ 
+
+743
+00:16:34,240 --> 00:16:37,749
+involved.
+This cost can come in two main forms.
+
+744
+00:16:37,749 --> 00:16:37,759
+This cost can come in two main forms.
+ 
+
+745
+00:16:37,759 --> 00:16:41,110
+This cost can come in two main forms.
+First are frontend costs. These make
+
+746
+00:16:41,110 --> 00:16:41,120
+First are frontend costs. These make
+ 
+
+747
+00:16:41,120 --> 00:16:44,069
+First are frontend costs. These make
+attacking the part itself harder or
+
+748
+00:16:44,069 --> 00:16:44,079
+attacking the part itself harder or
+ 
+
+749
+00:16:44,079 --> 00:16:47,030
+attacking the part itself harder or
+riskier than attacking the main body.
+
+750
+00:16:47,030 --> 00:16:47,040
+riskier than attacking the main body.
+ 
+
+751
+00:16:47,040 --> 00:16:48,870
+riskier than attacking the main body.
+For example, this could come in the form
+
+752
+00:16:48,870 --> 00:16:48,880
+For example, this could come in the form
+ 
+
+753
+00:16:48,880 --> 00:16:51,269
+For example, this could come in the form
+of higher defenses. The part might have
+
+754
+00:16:51,269 --> 00:16:51,279
+of higher defenses. The part might have
+ 
+
+755
+00:16:51,279 --> 00:16:53,910
+of higher defenses. The part might have
+a higher armor class and reflex bonus,
+
+756
+00:16:53,910 --> 00:16:53,920
+a higher armor class and reflex bonus,
+ 
+
+757
+00:16:53,920 --> 00:16:56,790
+a higher armor class and reflex bonus,
+making it harder to hit accurately.
+
+758
+00:16:56,790 --> 00:16:56,800
+making it harder to hit accurately.
+ 
+
+759
+00:16:56,800 --> 00:16:59,189
+making it harder to hit accurately.
+Maybe its head is smaller and moving
+
+760
+00:16:59,189 --> 00:16:59,199
+Maybe its head is smaller and moving
+ 
+
+761
+00:16:59,199 --> 00:17:00,790
+Maybe its head is smaller and moving
+around in such a way that it becomes
+
+762
+00:17:00,790 --> 00:17:00,800
+around in such a way that it becomes
+ 
+
+763
+00:17:00,800 --> 00:17:02,790
+around in such a way that it becomes
+harder to hit. This could come in the
+
+764
+00:17:02,790 --> 00:17:02,800
+harder to hit. This could come in the
+ 
+
+765
+00:17:02,800 --> 00:17:05,429
+harder to hit. This could come in the
+form of resistances. the part could have
+
+766
+00:17:05,429 --> 00:17:05,439
+form of resistances. the part could have
+ 
+
+767
+00:17:05,439 --> 00:17:08,470
+form of resistances. the part could have
+a resistance that the main body doesn't,
+
+768
+00:17:08,470 --> 00:17:08,480
+a resistance that the main body doesn't,
+ 
+
+769
+00:17:08,480 --> 00:17:11,189
+a resistance that the main body doesn't,
+especially resistance physical, meaning
+
+770
+00:17:11,189 --> 00:17:11,199
+especially resistance physical, meaning
+ 
+
+771
+00:17:11,199 --> 00:17:13,909
+especially resistance physical, meaning
+most of your hits have to overcome that
+
+772
+00:17:13,909 --> 00:17:13,919
+most of your hits have to overcome that
+ 
+
+773
+00:17:13,919 --> 00:17:16,549
+most of your hits have to overcome that
+threshold first before they apply any
+
+774
+00:17:16,549 --> 00:17:16,559
+threshold first before they apply any
+ 
+
+775
+00:17:16,559 --> 00:17:18,949
+threshold first before they apply any
+damage. For example, the dragon's head
+
+776
+00:17:18,949 --> 00:17:18,959
+damage. For example, the dragon's head
+ 
+
+777
+00:17:18,959 --> 00:17:21,189
+damage. For example, the dragon's head
+could have larger scales that are angled
+
+778
+00:17:21,189 --> 00:17:21,199
+could have larger scales that are angled
+ 
+
+779
+00:17:21,199 --> 00:17:24,390
+could have larger scales that are angled
+to deflect away physical attacks. And
+
+780
+00:17:24,390 --> 00:17:24,400
+to deflect away physical attacks. And
+ 
+
+781
+00:17:24,400 --> 00:17:28,230
+to deflect away physical attacks. And
+another form of frontend cost could be
+
+782
+00:17:28,230 --> 00:17:28,240
+another form of frontend cost could be
+ 
+
+783
+00:17:28,240 --> 00:17:31,669
+another form of frontend cost could be
+triggered reactions. Attacking the part
+
+784
+00:17:31,669 --> 00:17:31,679
+triggered reactions. Attacking the part
+ 
+
+785
+00:17:31,679 --> 00:17:33,830
+triggered reactions. Attacking the part
+might provoke an immediate defensive
+
+786
+00:17:33,830 --> 00:17:33,840
+might provoke an immediate defensive
+ 
+
+787
+00:17:33,840 --> 00:17:36,789
+might provoke an immediate defensive
+reaction. For example, striking a giant
+
+788
+00:17:36,789 --> 00:17:36,799
+reaction. For example, striking a giant
+ 
+
+789
+00:17:36,799 --> 00:17:39,190
+reaction. For example, striking a giant
+scorpion's tail only for it to instantly
+
+790
+00:17:39,190 --> 00:17:39,200
+scorpion's tail only for it to instantly
+ 
+
+791
+00:17:39,200 --> 00:17:41,909
+scorpion's tail only for it to instantly
+lash back at you with his stinger as a
+
+792
+00:17:41,909 --> 00:17:41,919
+lash back at you with his stinger as a
+ 
+
+793
+00:17:41,919 --> 00:17:46,070
+lash back at you with his stinger as a
+reaction. Those are all frontend costs
+
+794
+00:17:46,070 --> 00:17:46,080
+reaction. Those are all frontend costs
+ 
+
+795
+00:17:46,080 --> 00:17:48,310
+reaction. Those are all frontend costs
+that make attacking the part more
+
+796
+00:17:48,310 --> 00:17:48,320
+that make attacking the part more
+ 
+
+797
+00:17:48,320 --> 00:17:50,710
+that make attacking the part more
+difficult or pose a narratively
+
+798
+00:17:50,710 --> 00:17:50,720
+difficult or pose a narratively
+ 
+
+799
+00:17:50,720 --> 00:17:53,110
+difficult or pose a narratively
+interesting consequence for doing so.
+
+800
+00:17:53,110 --> 00:17:53,120
+interesting consequence for doing so.
+ 
+
+801
+00:17:53,120 --> 00:17:55,270
+interesting consequence for doing so.
+Therefore, logically, the second type of
+
+802
+00:17:55,270 --> 00:17:55,280
+Therefore, logically, the second type of
+ 
+
+803
+00:17:55,280 --> 00:17:58,870
+Therefore, logically, the second type of
+costs are backend costs. These are
+
+804
+00:17:58,870 --> 00:17:58,880
+costs are backend costs. These are
+ 
+
+805
+00:17:58,880 --> 00:18:01,750
+costs are backend costs. These are
+consequences that happen after you
+
+806
+00:18:01,750 --> 00:18:01,760
+consequences that happen after you
+ 
+
+807
+00:18:01,760 --> 00:18:04,549
+consequences that happen after you
+successfully break the part. First up
+
+808
+00:18:04,549 --> 00:18:04,559
+successfully break the part. First up
+ 
+
+809
+00:18:04,559 --> 00:18:07,270
+successfully break the part. First up
+are dangerous phase triggers, and this
+
+810
+00:18:07,270 --> 00:18:07,280
+are dangerous phase triggers, and this
+ 
+
+811
+00:18:07,280 --> 00:18:09,830
+are dangerous phase triggers, and this
+is a big one. Successfully breaking a
+
+812
+00:18:09,830 --> 00:18:09,840
+is a big one. Successfully breaking a
+ 
+
+813
+00:18:09,840 --> 00:18:13,029
+is a big one. Successfully breaking a
+key part might push the monster into an
+
+814
+00:18:13,029 --> 00:18:13,039
+key part might push the monster into an
+ 
+
+815
+00:18:13,039 --> 00:18:16,310
+key part might push the monster into an
+even more dangerous phase. You stopped
+
+816
+00:18:16,310 --> 00:18:16,320
+even more dangerous phase. You stopped
+ 
+
+817
+00:18:16,320 --> 00:18:19,430
+even more dangerous phase. You stopped
+the breath weapon, but now the dragon is
+
+818
+00:18:19,430 --> 00:18:19,440
+the breath weapon, but now the dragon is
+ 
+
+819
+00:18:19,440 --> 00:18:22,150
+the breath weapon, but now the dragon is
+enraged, so it's hitting faster with its
+
+820
+00:18:22,150 --> 00:18:22,160
+enraged, so it's hitting faster with its
+ 
+
+821
+00:18:22,160 --> 00:18:25,110
+enraged, so it's hitting faster with its
+tail and claws. The second kind of
+
+822
+00:18:25,110 --> 00:18:25,120
+tail and claws. The second kind of
+ 
+
+823
+00:18:25,120 --> 00:18:28,470
+tail and claws. The second kind of
+backend cost are negative effects.
+
+824
+00:18:28,470 --> 00:18:28,480
+backend cost are negative effects.
+ 
+
+825
+00:18:28,480 --> 00:18:30,789
+backend cost are negative effects.
+Breaking apart could have a direct
+
+826
+00:18:30,789 --> 00:18:30,799
+Breaking apart could have a direct
+ 
+
+827
+00:18:30,799 --> 00:18:33,750
+Breaking apart could have a direct
+negative consequence. Maybe shattering a
+
+828
+00:18:33,750 --> 00:18:33,760
+negative consequence. Maybe shattering a
+ 
+
+829
+00:18:33,760 --> 00:18:36,470
+negative consequence. Maybe shattering a
+construct's power core causes an energy
+
+830
+00:18:36,470 --> 00:18:36,480
+construct's power core causes an energy
+ 
+
+831
+00:18:36,480 --> 00:18:39,669
+construct's power core causes an energy
+explosion, damaging everyone nearby, or
+
+832
+00:18:39,669 --> 00:18:39,679
+explosion, damaging everyone nearby, or
+ 
+
+833
+00:18:39,679 --> 00:18:42,230
+explosion, damaging everyone nearby, or
+breaking a spawning sack on a monster
+
+834
+00:18:42,230 --> 00:18:42,240
+breaking a spawning sack on a monster
+ 
+
+835
+00:18:42,240 --> 00:18:45,270
+breaking a spawning sack on a monster
+releases a swarm of weaker minions into
+
+836
+00:18:45,270 --> 00:18:45,280
+releases a swarm of weaker minions into
+ 
+
+837
+00:18:45,280 --> 00:18:48,150
+releases a swarm of weaker minions into
+the fight. And the last kind of backend
+
+838
+00:18:48,150 --> 00:18:48,160
+the fight. And the last kind of backend
+ 
+
+839
+00:18:48,160 --> 00:18:51,350
+the fight. And the last kind of backend
+cost could be a shift in resistances and
+
+840
+00:18:51,350 --> 00:18:51,360
+cost could be a shift in resistances and
+ 
+
+841
+00:18:51,360 --> 00:18:54,070
+cost could be a shift in resistances and
+weaknesses. Breaking apart might remove
+
+842
+00:18:54,070 --> 00:18:54,080
+weaknesses. Breaking apart might remove
+ 
+
+843
+00:18:54,080 --> 00:18:56,630
+weaknesses. Breaking apart might remove
+one resistance but expose or create
+
+844
+00:18:56,630 --> 00:18:56,640
+one resistance but expose or create
+ 
+
+845
+00:18:56,640 --> 00:18:59,590
+one resistance but expose or create
+another, thereby forcing the party to
+
+846
+00:18:59,590 --> 00:18:59,600
+another, thereby forcing the party to
+ 
+
+847
+00:18:59,600 --> 00:19:03,110
+another, thereby forcing the party to
+have to adapt their tactics.
+
+848
+00:19:03,110 --> 00:19:03,120
+have to adapt their tactics.
+ 
+
+849
+00:19:03,120 --> 00:19:05,110
+have to adapt their tactics.
+So, let's take one more look at our
+
+850
+00:19:05,110 --> 00:19:05,120
+So, let's take one more look at our
+ 
+
+851
+00:19:05,120 --> 00:19:07,990
+So, let's take one more look at our
+example of a clockwork behemoth. The
+
+852
+00:19:07,990 --> 00:19:08,000
+example of a clockwork behemoth. The
+ 
+
+853
+00:19:08,000 --> 00:19:10,390
+example of a clockwork behemoth. The
+benefit of breaking its arcane gem is
+
+854
+00:19:10,390 --> 00:19:10,400
+benefit of breaking its arcane gem is
+ 
+
+855
+00:19:10,400 --> 00:19:12,950
+benefit of breaking its arcane gem is
+you disable its main energy blast, but
+
+856
+00:19:12,950 --> 00:19:12,960
+you disable its main energy blast, but
+ 
+
+857
+00:19:12,960 --> 00:19:15,350
+you disable its main energy blast, but
+there needs to be a cost for this,
+
+858
+00:19:15,350 --> 00:19:15,360
+there needs to be a cost for this,
+ 
+
+859
+00:19:15,360 --> 00:19:17,990
+there needs to be a cost for this,
+either on the front end or on the back
+
+860
+00:19:17,990 --> 00:19:18,000
+either on the front end or on the back
+ 
+
+861
+00:19:18,000 --> 00:19:21,270
+either on the front end or on the back
+end. A potential front-end cost may be
+
+862
+00:19:21,270 --> 00:19:21,280
+end. A potential front-end cost may be
+ 
+
+863
+00:19:21,280 --> 00:19:23,669
+end. A potential front-end cost may be
+giving the gem a bonus to armor class
+
+864
+00:19:23,669 --> 00:19:23,679
+giving the gem a bonus to armor class
+ 
+
+865
+00:19:23,679 --> 00:19:27,110
+giving the gem a bonus to armor class
+and reflex saves as a smaller target.
+
+866
+00:19:27,110 --> 00:19:27,120
+and reflex saves as a smaller target.
+ 
+
+867
+00:19:27,120 --> 00:19:29,590
+and reflex saves as a smaller target.
+So, his armor class and reflex bonus are
+
+868
+00:19:29,590 --> 00:19:29,600
+So, his armor class and reflex bonus are
+ 
+
+869
+00:19:29,600 --> 00:19:32,549
+So, his armor class and reflex bonus are
+increased by two, three, or four points.
+
+870
+00:19:32,549 --> 00:19:32,559
+increased by two, three, or four points.
+ 
+
+871
+00:19:32,559 --> 00:19:35,110
+increased by two, three, or four points.
+Or it could have a higher resistance
+
+872
+00:19:35,110 --> 00:19:35,120
+Or it could have a higher resistance
+ 
+
+873
+00:19:35,120 --> 00:19:37,510
+Or it could have a higher resistance
+than the main body, meaning attacks
+
+874
+00:19:37,510 --> 00:19:37,520
+than the main body, meaning attacks
+ 
+
+875
+00:19:37,520 --> 00:19:39,750
+than the main body, meaning attacks
+targeting it need to overcome a minimal
+
+876
+00:19:39,750 --> 00:19:39,760
+targeting it need to overcome a minimal
+ 
+
+877
+00:19:39,760 --> 00:19:41,350
+targeting it need to overcome a minimal
+amount before they can start chipping
+
+878
+00:19:41,350 --> 00:19:41,360
+amount before they can start chipping
+ 
+
+879
+00:19:41,360 --> 00:19:43,510
+amount before they can start chipping
+away at its hit points. Or another
+
+880
+00:19:43,510 --> 00:19:43,520
+away at its hit points. Or another
+ 
+
+881
+00:19:43,520 --> 00:19:45,830
+away at its hit points. Or another
+possible front-end cost could be hitting
+
+882
+00:19:45,830 --> 00:19:45,840
+possible front-end cost could be hitting
+ 
+
+883
+00:19:45,840 --> 00:19:48,549
+possible front-end cost could be hitting
+it causes a bright flash of light that
+
+884
+00:19:48,549 --> 00:19:48,559
+it causes a bright flash of light that
+ 
+
+885
+00:19:48,559 --> 00:19:51,590
+it causes a bright flash of light that
+could dazzle the attacker. So those are
+
+886
+00:19:51,590 --> 00:19:51,600
+could dazzle the attacker. So those are
+ 
+
+887
+00:19:51,600 --> 00:19:54,390
+could dazzle the attacker. So those are
+possible frontend costs, things that
+
+888
+00:19:54,390 --> 00:19:54,400
+possible frontend costs, things that
+ 
+
+889
+00:19:54,400 --> 00:19:57,190
+possible frontend costs, things that
+make it less desirable to attack the
+
+890
+00:19:57,190 --> 00:19:57,200
+make it less desirable to attack the
+ 
+
+891
+00:19:57,200 --> 00:20:00,070
+make it less desirable to attack the
+part in the first place. You could also
+
+892
+00:20:00,070 --> 00:20:00,080
+part in the first place. You could also
+ 
+
+893
+00:20:00,080 --> 00:20:03,190
+part in the first place. You could also
+use a backend cost. For example, its
+
+894
+00:20:03,190 --> 00:20:03,200
+use a backend cost. For example, its
+ 
+
+895
+00:20:03,200 --> 00:20:05,510
+use a backend cost. For example, its
+armor class and reflex bonus are the
+
+896
+00:20:05,510 --> 00:20:05,520
+armor class and reflex bonus are the
+ 
+
+897
+00:20:05,520 --> 00:20:08,070
+armor class and reflex bonus are the
+same as the main body, but when the gem
+
+898
+00:20:08,070 --> 00:20:08,080
+same as the main body, but when the gem
+ 
+
+899
+00:20:08,080 --> 00:20:11,029
+same as the main body, but when the gem
+breaks, it could explode, dealing fire
+
+900
+00:20:11,029 --> 00:20:11,039
+breaks, it could explode, dealing fire
+ 
+
+901
+00:20:11,039 --> 00:20:13,590
+breaks, it could explode, dealing fire
+damage to everything within 5 ft and
+
+902
+00:20:13,590 --> 00:20:13,600
+damage to everything within 5 ft and
+ 
+
+903
+00:20:13,600 --> 00:20:16,870
+damage to everything within 5 ft and
+also trigger a phase change or advance
+
+904
+00:20:16,870 --> 00:20:16,880
+also trigger a phase change or advance
+ 
+
+905
+00:20:16,880 --> 00:20:19,750
+also trigger a phase change or advance
+steam and becomes a more melee focused
+
+906
+00:20:19,750 --> 00:20:19,760
+steam and becomes a more melee focused
+ 
+
+907
+00:20:19,760 --> 00:20:22,310
+steam and becomes a more melee focused
+enemy. This could force the players into
+
+908
+00:20:22,310 --> 00:20:22,320
+enemy. This could force the players into
+ 
+
+909
+00:20:22,320 --> 00:20:24,070
+enemy. This could force the players into
+narratively interesting and tactically
+
+910
+00:20:24,070 --> 00:20:24,080
+narratively interesting and tactically
+ 
+
+911
+00:20:24,080 --> 00:20:26,390
+narratively interesting and tactically
+minded choices. Do you risk the
+
+912
+00:20:26,390 --> 00:20:26,400
+minded choices. Do you risk the
+ 
+
+913
+00:20:26,400 --> 00:20:28,950
+minded choices. Do you risk the
+immediate explosion and a tougher melee
+
+914
+00:20:28,950 --> 00:20:28,960
+immediate explosion and a tougher melee
+ 
+
+915
+00:20:28,960 --> 00:20:32,310
+immediate explosion and a tougher melee
+fight to stop its ranged energy blast?
+
+916
+00:20:32,310 --> 00:20:32,320
+fight to stop its ranged energy blast?
+ 
+
+917
+00:20:32,320 --> 00:20:35,110
+fight to stop its ranged energy blast?
+Or is it safer to try and burn down its
+
+918
+00:20:35,110 --> 00:20:35,120
+Or is it safer to try and burn down its
+ 
+
+919
+00:20:35,120 --> 00:20:37,510
+Or is it safer to try and burn down its
+main body hit points while dodging the
+
+920
+00:20:37,510 --> 00:20:37,520
+main body hit points while dodging the
+ 
+
+921
+00:20:37,520 --> 00:20:40,230
+main body hit points while dodging the
+blast? Maybe because the gem has such
+
+922
+00:20:40,230 --> 00:20:40,240
+blast? Maybe because the gem has such
+ 
+
+923
+00:20:40,240 --> 00:20:42,870
+blast? Maybe because the gem has such
+high resistances. And keep in mind,
+
+924
+00:20:42,870 --> 00:20:42,880
+high resistances. And keep in mind,
+ 
+
+925
+00:20:42,880 --> 00:20:44,310
+high resistances. And keep in mind,
+regardless of how you design the
+
+926
+00:20:44,310 --> 00:20:44,320
+regardless of how you design the
+ 
+
+927
+00:20:44,320 --> 00:20:46,630
+regardless of how you design the
+monster, the players may not know the
+
+928
+00:20:46,630 --> 00:20:46,640
+monster, the players may not know the
+ 
+
+929
+00:20:46,640 --> 00:20:48,870
+monster, the players may not know the
+consequences of breaking apart unless
+
+930
+00:20:48,870 --> 00:20:48,880
+consequences of breaking apart unless
+ 
+
+931
+00:20:48,880 --> 00:20:50,870
+consequences of breaking apart unless
+they pass a recall knowledge or
+
+932
+00:20:50,870 --> 00:20:50,880
+they pass a recall knowledge or
+ 
+
+933
+00:20:50,880 --> 00:20:53,750
+they pass a recall knowledge or
+perception check. So find ways encourage
+
+934
+00:20:53,750 --> 00:20:53,760
+perception check. So find ways encourage
+ 
+
+935
+00:20:53,760 --> 00:20:57,510
+perception check. So find ways encourage
+them to do so or don't. Surprises can be
+
+936
+00:20:57,510 --> 00:20:57,520
+them to do so or don't. Surprises can be
+ 
+
+937
+00:20:57,520 --> 00:21:00,789
+them to do so or don't. Surprises can be
+fun, too. The key for GMs is finding
+
+938
+00:21:00,789 --> 00:21:00,799
+fun, too. The key for GMs is finding
+ 
+
+939
+00:21:00,799 --> 00:21:03,750
+fun, too. The key for GMs is finding
+that sweet spot. The cost shouldn't be
+
+940
+00:21:03,750 --> 00:21:03,760
+that sweet spot. The cost shouldn't be
+ 
+
+941
+00:21:03,760 --> 00:21:06,070
+that sweet spot. The cost shouldn't be
+so punishing that players never attack
+
+942
+00:21:06,070 --> 00:21:06,080
+so punishing that players never attack
+ 
+
+943
+00:21:06,080 --> 00:21:08,870
+so punishing that players never attack
+the parts, but it should be significant
+
+944
+00:21:08,870 --> 00:21:08,880
+the parts, but it should be significant
+ 
+
+945
+00:21:08,880 --> 00:21:11,190
+the parts, but it should be significant
+enough to make them pause and consider
+
+946
+00:21:11,190 --> 00:21:11,200
+enough to make them pause and consider
+ 
+
+947
+00:21:11,200 --> 00:21:13,830
+enough to make them pause and consider
+if disabling that specific ability right
+
+948
+00:21:13,830 --> 00:21:13,840
+if disabling that specific ability right
+ 
+
+949
+00:21:13,840 --> 00:21:17,110
+if disabling that specific ability right
+now is worth the associated risk or
+
+950
+00:21:17,110 --> 00:21:17,120
+now is worth the associated risk or
+ 
+
+951
+00:21:17,120 --> 00:21:19,830
+now is worth the associated risk or
+consequence. This can turn a typical
+
+952
+00:21:19,830 --> 00:21:19,840
+consequence. This can turn a typical
+ 
+
+953
+00:21:19,840 --> 00:21:22,710
+consequence. This can turn a typical
+boss fight from a simple hit point race
+
+954
+00:21:22,710 --> 00:21:22,720
+boss fight from a simple hit point race
+ 
+
+955
+00:21:22,720 --> 00:21:25,510
+boss fight from a simple hit point race
+into a dynamic puzzle with meaningful
+
+956
+00:21:25,510 --> 00:21:25,520
+into a dynamic puzzle with meaningful
+ 
+
+957
+00:21:25,520 --> 00:21:28,070
+into a dynamic puzzle with meaningful
+choices.
+
+958
+00:21:28,070 --> 00:21:28,080
+choices.
+ 
+
+959
+00:21:28,080 --> 00:21:31,029
+choices.
+Now, with all of this in mind, let's try
+
+960
+00:21:31,029 --> 00:21:31,039
+Now, with all of this in mind, let's try
+ 
+
+961
+00:21:31,039 --> 00:21:33,350
+Now, with all of this in mind, let's try
+converting an existing Pathfinder
+
+962
+00:21:33,350 --> 00:21:33,360
+converting an existing Pathfinder
+ 
+
+963
+00:21:33,360 --> 00:21:37,350
+converting an existing Pathfinder
+monster into an epic multi-part boss.
+
+964
+00:21:37,350 --> 00:21:37,360
+monster into an epic multi-part boss.
+ 
+
+965
+00:21:37,360 --> 00:21:39,750
+monster into an epic multi-part boss.
+For this, we'll be using Menare the
+
+966
+00:21:39,750 --> 00:21:39,760
+For this, we'll be using Menare the
+ 
+
+967
+00:21:39,760 --> 00:21:42,310
+For this, we'll be using Menare the
+Great Worm, which I am adapting for an
+
+968
+00:21:42,310 --> 00:21:42,320
+Great Worm, which I am adapting for an
+ 
+
+969
+00:21:42,320 --> 00:21:44,149
+Great Worm, which I am adapting for an
+upcoming session. So, if you're one of
+
+970
+00:21:44,149 --> 00:21:44,159
+upcoming session. So, if you're one of
+ 
+
+971
+00:21:44,159 --> 00:21:46,710
+upcoming session. So, if you're one of
+my players, stop watching now. For this,
+
+972
+00:21:46,710 --> 00:21:46,720
+my players, stop watching now. For this,
+ 
+
+973
+00:21:46,720 --> 00:21:49,190
+my players, stop watching now. For this,
+I'll be breaking the process down into a
+
+974
+00:21:49,190 --> 00:21:49,200
+I'll be breaking the process down into a
+ 
+
+975
+00:21:49,200 --> 00:21:52,470
+I'll be breaking the process down into a
+series of steps. First, choose the base
+
+976
+00:21:52,470 --> 00:21:52,480
+series of steps. First, choose the base
+ 
+
+977
+00:21:52,480 --> 00:21:55,990
+series of steps. First, choose the base
+creature. Next, identify parts and match
+
+978
+00:21:55,990 --> 00:21:56,000
+creature. Next, identify parts and match
+ 
+
+979
+00:21:56,000 --> 00:21:59,270
+creature. Next, identify parts and match
+abilities. Third, define the parts
+
+980
+00:21:59,270 --> 00:21:59,280
+abilities. Third, define the parts
+ 
+
+981
+00:21:59,280 --> 00:22:02,470
+abilities. Third, define the parts
+mechanically. Fourth, define broken
+
+982
+00:22:02,470 --> 00:22:02,480
+mechanically. Fourth, define broken
+ 
+
+983
+00:22:02,480 --> 00:22:06,070
+mechanically. Fourth, define broken
+effects. Then, consider backend costs,
+
+984
+00:22:06,070 --> 00:22:06,080
+effects. Then, consider backend costs,
+ 
+
+985
+00:22:06,080 --> 00:22:09,029
+effects. Then, consider backend costs,
+which could be phases and triggers. And
+
+986
+00:22:09,029 --> 00:22:09,039
+which could be phases and triggers. And
+ 
+
+987
+00:22:09,039 --> 00:22:12,390
+which could be phases and triggers. And
+last, review, refine, and balance as
+
+988
+00:22:12,390 --> 00:22:12,400
+last, review, refine, and balance as
+ 
+
+989
+00:22:12,400 --> 00:22:14,870
+last, review, refine, and balance as
+best you can. So, starting with step
+
+990
+00:22:14,870 --> 00:22:14,880
+best you can. So, starting with step
+ 
+
+991
+00:22:14,880 --> 00:22:17,909
+best you can. So, starting with step
+one, we choose Manare as the base
+
+992
+00:22:17,909 --> 00:22:17,919
+one, we choose Manare as the base
+ 
+
+993
+00:22:17,919 --> 00:22:21,990
+one, we choose Manare as the base
+creature. He is a level 23 gold dragon.
+
+994
+00:22:21,990 --> 00:22:22,000
+creature. He is a level 23 gold dragon.
+ 
+
+995
+00:22:22,000 --> 00:22:25,750
+creature. He is a level 23 gold dragon.
+His main body has 575 hit points, an
+
+996
+00:22:25,750 --> 00:22:25,760
+His main body has 575 hit points, an
+ 
+
+997
+00:22:25,760 --> 00:22:29,190
+His main body has 575 hit points, an
+armor class of 50, is immune to fire,
+
+998
+00:22:29,190 --> 00:22:29,200
+armor class of 50, is immune to fire,
+ 
+
+999
+00:22:29,200 --> 00:22:32,710
+armor class of 50, is immune to fire,
+paralyze, and sleep, and has weakness 25
+
+1000
+00:22:32,710 --> 00:22:32,720
+paralyze, and sleep, and has weakness 25
+ 
+
+1001
+00:22:32,720 --> 00:22:35,430
+paralyze, and sleep, and has weakness 25
+to cold damage. He also has a speed of
+
+1002
+00:22:35,430 --> 00:22:35,440
+to cold damage. He also has a speed of
+ 
+
+1003
+00:22:35,440 --> 00:22:39,750
+to cold damage. He also has a speed of
+60 ft and fly speed of 200 ft. And he
+
+1004
+00:22:39,750 --> 00:22:39,760
+60 ft and fly speed of 200 ft. And he
+ 
+
+1005
+00:22:39,760 --> 00:22:42,950
+60 ft and fly speed of 200 ft. And he
+has a frightful presence, can make jaws,
+
+1006
+00:22:42,950 --> 00:22:42,960
+has a frightful presence, can make jaws,
+ 
+
+1007
+00:22:42,960 --> 00:22:45,669
+has a frightful presence, can make jaws,
+claws, tail, and horn attacks, has a
+
+1008
+00:22:45,669 --> 00:22:45,679
+claws, tail, and horn attacks, has a
+ 
+
+1009
+00:22:45,679 --> 00:22:47,990
+claws, tail, and horn attacks, has a
+breath weapon that can be used to either
+
+1010
+00:22:47,990 --> 00:22:48,000
+breath weapon that can be used to either
+ 
+
+1011
+00:22:48,000 --> 00:22:50,390
+breath weapon that can be used to either
+make a cone of flame or blast a
+
+1012
+00:22:50,390 --> 00:22:50,400
+make a cone of flame or blast a
+ 
+
+1013
+00:22:50,400 --> 00:22:53,510
+make a cone of flame or blast a
+weakening gas, and can cast arcane
+
+1014
+00:22:53,510 --> 00:22:53,520
+weakening gas, and can cast arcane
+ 
+
+1015
+00:22:53,520 --> 00:22:57,510
+weakening gas, and can cast arcane
+innate spells. Step two, identify parts
+
+1016
+00:22:57,510 --> 00:22:57,520
+innate spells. Step two, identify parts
+ 
+
+1017
+00:22:57,520 --> 00:23:00,310
+innate spells. Step two, identify parts
+and match abilities. We break the
+
+1018
+00:23:00,310 --> 00:23:00,320
+and match abilities. We break the
+ 
+
+1019
+00:23:00,320 --> 00:23:03,110
+and match abilities. We break the
+ancient dragon down into head, right
+
+1020
+00:23:03,110 --> 00:23:03,120
+ancient dragon down into head, right
+ 
+
+1021
+00:23:03,120 --> 00:23:06,470
+ancient dragon down into head, right
+claw, left claw, tail, and wings. and
+
+1022
+00:23:06,470 --> 00:23:06,480
+claw, left claw, tail, and wings. and
+ 
+
+1023
+00:23:06,480 --> 00:23:08,950
+claw, left claw, tail, and wings. and
+then assigned each part the abilities
+
+1024
+00:23:08,950 --> 00:23:08,960
+then assigned each part the abilities
+ 
+
+1025
+00:23:08,960 --> 00:23:11,830
+then assigned each part the abilities
+for which it is responsible. We assign
+
+1026
+00:23:11,830 --> 00:23:11,840
+for which it is responsible. We assign
+ 
+
+1027
+00:23:11,840 --> 00:23:15,029
+for which it is responsible. We assign
+frightful presence, jaws, horns, breath
+
+1028
+00:23:15,029 --> 00:23:15,039
+frightful presence, jaws, horns, breath
+ 
+
+1029
+00:23:15,039 --> 00:23:18,230
+frightful presence, jaws, horns, breath
+weapon, and arcane spells to its head.
+
+1030
+00:23:18,230 --> 00:23:18,240
+weapon, and arcane spells to its head.
+ 
+
+1031
+00:23:18,240 --> 00:23:21,029
+weapon, and arcane spells to its head.
+We assign one claw attack to each of its
+
+1032
+00:23:21,029 --> 00:23:21,039
+We assign one claw attack to each of its
+ 
+
+1033
+00:23:21,039 --> 00:23:24,390
+We assign one claw attack to each of its
+claws. We assign its tail attack to its
+
+1034
+00:23:24,390 --> 00:23:24,400
+claws. We assign its tail attack to its
+ 
+
+1035
+00:23:24,400 --> 00:23:27,750
+claws. We assign its tail attack to its
+tail, and we assign its fly speed to its
+
+1036
+00:23:27,750 --> 00:23:27,760
+tail, and we assign its fly speed to its
+ 
+
+1037
+00:23:27,760 --> 00:23:30,630
+tail, and we assign its fly speed to its
+wings. All other characteristics are
+
+1038
+00:23:30,630 --> 00:23:30,640
+wings. All other characteristics are
+ 
+
+1039
+00:23:30,640 --> 00:23:33,909
+wings. All other characteristics are
+assigned to his main body. Now, this is
+
+1040
+00:23:33,909 --> 00:23:33,919
+assigned to his main body. Now, this is
+ 
+
+1041
+00:23:33,919 --> 00:23:37,110
+assigned to his main body. Now, this is
+a lot to manage. five distinct parts
+
+1042
+00:23:37,110 --> 00:23:37,120
+a lot to manage. five distinct parts
+ 
+
+1043
+00:23:37,120 --> 00:23:39,350
+a lot to manage. five distinct parts
+plus the main body. This is making
+
+1044
+00:23:39,350 --> 00:23:39,360
+plus the main body. This is making
+ 
+
+1045
+00:23:39,360 --> 00:23:41,190
+plus the main body. This is making
+things more cumbersome than is
+
+1046
+00:23:41,190 --> 00:23:41,200
+things more cumbersome than is
+ 
+
+1047
+00:23:41,200 --> 00:23:44,470
+things more cumbersome than is
+necessary. So, let's only use parts for
+
+1048
+00:23:44,470 --> 00:23:44,480
+necessary. So, let's only use parts for
+ 
+
+1049
+00:23:44,480 --> 00:23:47,510
+necessary. So, let's only use parts for
+what's most narratively interesting. The
+
+1050
+00:23:47,510 --> 00:23:47,520
+what's most narratively interesting. The
+ 
+
+1051
+00:23:47,520 --> 00:23:49,830
+what's most narratively interesting. The
+two claws and the tail aren't really
+
+1052
+00:23:49,830 --> 00:23:49,840
+two claws and the tail aren't really
+ 
+
+1053
+00:23:49,840 --> 00:23:52,390
+two claws and the tail aren't really
+bringing anything exciting to the party.
+
+1054
+00:23:52,390 --> 00:23:52,400
+bringing anything exciting to the party.
+ 
+
+1055
+00:23:52,400 --> 00:23:55,029
+bringing anything exciting to the party.
+So, we won't worry about managing those
+
+1056
+00:23:55,029 --> 00:23:55,039
+So, we won't worry about managing those
+ 
+
+1057
+00:23:55,039 --> 00:23:58,549
+So, we won't worry about managing those
+as parts, but the head and wings are
+
+1058
+00:23:58,549 --> 00:23:58,559
+as parts, but the head and wings are
+ 
+
+1059
+00:23:58,559 --> 00:24:01,270
+as parts, but the head and wings are
+more interesting. So, we will manage
+
+1060
+00:24:01,270 --> 00:24:01,280
+more interesting. So, we will manage
+ 
+
+1061
+00:24:01,280 --> 00:24:04,470
+more interesting. So, we will manage
+them as parts. We now have three aspects
+
+1062
+00:24:04,470 --> 00:24:04,480
+them as parts. We now have three aspects
+ 
+
+1063
+00:24:04,480 --> 00:24:07,990
+them as parts. We now have three aspects
+of Manari that we need to manage. A head
+
+1064
+00:24:07,990 --> 00:24:08,000
+of Manari that we need to manage. A head
+ 
+
+1065
+00:24:08,000 --> 00:24:10,149
+of Manari that we need to manage. A head
+part that controls its frightful
+
+1066
+00:24:10,149 --> 00:24:10,159
+part that controls its frightful
+ 
+
+1067
+00:24:10,159 --> 00:24:13,510
+part that controls its frightful
+presence, jaws, horns, breath weapon,
+
+1068
+00:24:13,510 --> 00:24:13,520
+presence, jaws, horns, breath weapon,
+ 
+
+1069
+00:24:13,520 --> 00:24:16,950
+presence, jaws, horns, breath weapon,
+and arcane spells. A wings part that
+
+1070
+00:24:16,950 --> 00:24:16,960
+and arcane spells. A wings part that
+ 
+
+1071
+00:24:16,960 --> 00:24:20,310
+and arcane spells. A wings part that
+grants its ability to fly. And a main
+
+1072
+00:24:20,310 --> 00:24:20,320
+grants its ability to fly. And a main
+ 
+
+1073
+00:24:20,320 --> 00:24:23,430
+grants its ability to fly. And a main
+body that covers everything else. Note
+
+1074
+00:24:23,430 --> 00:24:23,440
+body that covers everything else. Note
+ 
+
+1075
+00:24:23,440 --> 00:24:26,710
+body that covers everything else. Note
+that since it takes both wings to fly,
+
+1076
+00:24:26,710 --> 00:24:26,720
+that since it takes both wings to fly,
+ 
+
+1077
+00:24:26,720 --> 00:24:28,870
+that since it takes both wings to fly,
+we're combining them both into a single
+
+1078
+00:24:28,870 --> 00:24:28,880
+we're combining them both into a single
+ 
+
+1079
+00:24:28,880 --> 00:24:31,350
+we're combining them both into a single
+mechanical part rather than having to
+
+1080
+00:24:31,350 --> 00:24:31,360
+mechanical part rather than having to
+ 
+
+1081
+00:24:31,360 --> 00:24:33,590
+mechanical part rather than having to
+track a hit points pool for the left
+
+1082
+00:24:33,590 --> 00:24:33,600
+track a hit points pool for the left
+ 
+
+1083
+00:24:33,600 --> 00:24:37,510
+track a hit points pool for the left
+wing and right wing separately. Step
+
+1084
+00:24:37,510 --> 00:24:37,520
+wing and right wing separately. Step
+ 
+
+1085
+00:24:37,520 --> 00:24:41,190
+wing and right wing separately. Step
+three, we define the parts mechanically.
+
+1086
+00:24:41,190 --> 00:24:41,200
+three, we define the parts mechanically.
+ 
+
+1087
+00:24:41,200 --> 00:24:44,470
+three, we define the parts mechanically.
+The head is a major concern. We don't
+
+1088
+00:24:44,470 --> 00:24:44,480
+The head is a major concern. We don't
+ 
+
+1089
+00:24:44,480 --> 00:24:46,630
+The head is a major concern. We don't
+want it to be crippled too soon, and
+
+1090
+00:24:46,630 --> 00:24:46,640
+want it to be crippled too soon, and
+ 
+
+1091
+00:24:46,640 --> 00:24:48,470
+want it to be crippled too soon, and
+should that happen, we want it to feel
+
+1092
+00:24:48,470 --> 00:24:48,480
+should that happen, we want it to feel
+ 
+
+1093
+00:24:48,480 --> 00:24:51,350
+should that happen, we want it to feel
+like a major accomplishment. So, I'm
+
+1094
+00:24:51,350 --> 00:24:51,360
+like a major accomplishment. So, I'm
+ 
+
+1095
+00:24:51,360 --> 00:24:53,909
+like a major accomplishment. So, I'm
+going to set its hit points at 40% of
+
+1096
+00:24:53,909 --> 00:24:53,919
+going to set its hit points at 40% of
+ 
+
+1097
+00:24:53,919 --> 00:24:57,990
+going to set its hit points at 40% of
+the main body or 230 points. And the
+
+1098
+00:24:57,990 --> 00:24:58,000
+the main body or 230 points. And the
+ 
+
+1099
+00:24:58,000 --> 00:25:00,470
+the main body or 230 points. And the
+wings are also important, but not as
+
+1100
+00:25:00,470 --> 00:25:00,480
+wings are also important, but not as
+ 
+
+1101
+00:25:00,480 --> 00:25:02,549
+wings are also important, but not as
+important as the head. Plus, they're
+
+1102
+00:25:02,549 --> 00:25:02,559
+important as the head. Plus, they're
+ 
+
+1103
+00:25:02,559 --> 00:25:05,029
+important as the head. Plus, they're
+mostly made of membranes. So, I set the
+
+1104
+00:25:05,029 --> 00:25:05,039
+mostly made of membranes. So, I set the
+ 
+
+1105
+00:25:05,039 --> 00:25:07,510
+mostly made of membranes. So, I set the
+hit points pull for the wings at roughly
+
+1106
+00:25:07,510 --> 00:25:07,520
+hit points pull for the wings at roughly
+ 
+
+1107
+00:25:07,520 --> 00:25:11,909
+hit points pull for the wings at roughly
+30% of the main body, or 170 hit points.
+
+1108
+00:25:11,909 --> 00:25:11,919
+30% of the main body, or 170 hit points.
+ 
+
+1109
+00:25:11,919 --> 00:25:14,470
+30% of the main body, or 170 hit points.
+Note that if I was to impose front-end
+
+1110
+00:25:14,470 --> 00:25:14,480
+Note that if I was to impose front-end
+ 
+
+1111
+00:25:14,480 --> 00:25:17,029
+Note that if I was to impose front-end
+costs like higher armor class, reflex
+
+1112
+00:25:17,029 --> 00:25:17,039
+costs like higher armor class, reflex
+ 
+
+1113
+00:25:17,039 --> 00:25:19,909
+costs like higher armor class, reflex
+bonus, or resistances, I would define
+
+1114
+00:25:19,909 --> 00:25:19,919
+bonus, or resistances, I would define
+ 
+
+1115
+00:25:19,919 --> 00:25:22,710
+bonus, or resistances, I would define
+those now during this step. But I think
+
+1116
+00:25:22,710 --> 00:25:22,720
+those now during this step. But I think
+ 
+
+1117
+00:25:22,720 --> 00:25:25,110
+those now during this step. But I think
+I'm going to lean more into backend
+
+1118
+00:25:25,110 --> 00:25:25,120
+I'm going to lean more into backend
+ 
+
+1119
+00:25:25,120 --> 00:25:27,190
+I'm going to lean more into backend
+costs like phase changes for this
+
+1120
+00:25:27,190 --> 00:25:27,200
+costs like phase changes for this
+ 
+
+1121
+00:25:27,200 --> 00:25:29,190
+costs like phase changes for this
+encounter. So there's nothing more for
+
+1122
+00:25:29,190 --> 00:25:29,200
+encounter. So there's nothing more for
+ 
+
+1123
+00:25:29,200 --> 00:25:32,070
+encounter. So there's nothing more for
+me to do during this step. That brings
+
+1124
+00:25:32,070 --> 00:25:32,080
+me to do during this step. That brings
+ 
+
+1125
+00:25:32,080 --> 00:25:36,310
+me to do during this step. That brings
+us to step four. Define broken effects.
+
+1126
+00:25:36,310 --> 00:25:36,320
+us to step four. Define broken effects.
+ 
+
+1127
+00:25:36,320 --> 00:25:39,510
+us to step four. Define broken effects.
+If the head becomes broken, Manari loses
+
+1128
+00:25:39,510 --> 00:25:39,520
+If the head becomes broken, Manari loses
+ 
+
+1129
+00:25:39,520 --> 00:25:42,870
+If the head becomes broken, Manari loses
+his frightful presence, jaws, horns,
+
+1130
+00:25:42,870 --> 00:25:42,880
+his frightful presence, jaws, horns,
+ 
+
+1131
+00:25:42,880 --> 00:25:45,350
+his frightful presence, jaws, horns,
+breath weapon, and the ability to cast
+
+1132
+00:25:45,350 --> 00:25:45,360
+breath weapon, and the ability to cast
+ 
+
+1133
+00:25:45,360 --> 00:25:47,909
+breath weapon, and the ability to cast
+arcane spells. Note that breaking the
+
+1134
+00:25:47,909 --> 00:25:47,919
+arcane spells. Note that breaking the
+ 
+
+1135
+00:25:47,919 --> 00:25:50,950
+arcane spells. Note that breaking the
+head does not mean his head is destroyed
+
+1136
+00:25:50,950 --> 00:25:50,960
+head does not mean his head is destroyed
+ 
+
+1137
+00:25:50,960 --> 00:25:53,909
+head does not mean his head is destroyed
+and he instantly dies. It just means he
+
+1138
+00:25:53,909 --> 00:25:53,919
+and he instantly dies. It just means he
+ 
+
+1139
+00:25:53,919 --> 00:25:56,710
+and he instantly dies. It just means he
+can no longer use the abilities that are
+
+1140
+00:25:56,710 --> 00:25:56,720
+can no longer use the abilities that are
+ 
+
+1141
+00:25:56,720 --> 00:25:59,430
+can no longer use the abilities that are
+associated with his head part. And keep
+
+1142
+00:25:59,430 --> 00:25:59,440
+associated with his head part. And keep
+ 
+
+1143
+00:25:59,440 --> 00:26:01,830
+associated with his head part. And keep
+in mind that all the damage the players
+
+1144
+00:26:01,830 --> 00:26:01,840
+in mind that all the damage the players
+ 
+
+1145
+00:26:01,840 --> 00:26:05,190
+in mind that all the damage the players
+apply to the head is also dealt to his
+
+1146
+00:26:05,190 --> 00:26:05,200
+apply to the head is also dealt to his
+ 
+
+1147
+00:26:05,200 --> 00:26:08,070
+apply to the head is also dealt to his
+main body. So repeatedly slicing his
+
+1148
+00:26:08,070 --> 00:26:08,080
+main body. So repeatedly slicing his
+ 
+
+1149
+00:26:08,080 --> 00:26:10,390
+main body. So repeatedly slicing his
+head with a great axe does also bring
+
+1150
+00:26:10,390 --> 00:26:10,400
+head with a great axe does also bring
+ 
+
+1151
+00:26:10,400 --> 00:26:13,350
+head with a great axe does also bring
+him closer to death. As for the wings
+
+1152
+00:26:13,350 --> 00:26:13,360
+him closer to death. As for the wings
+ 
+
+1153
+00:26:13,360 --> 00:26:15,669
+him closer to death. As for the wings
+part, we decide that when the wings are
+
+1154
+00:26:15,669 --> 00:26:15,679
+part, we decide that when the wings are
+ 
+
+1155
+00:26:15,679 --> 00:26:18,149
+part, we decide that when the wings are
+broken, he can no longer fly and falls
+
+1156
+00:26:18,149 --> 00:26:18,159
+broken, he can no longer fly and falls
+ 
+
+1157
+00:26:18,159 --> 00:26:20,070
+broken, he can no longer fly and falls
+to the ground if he was flying at the
+
+1158
+00:26:20,070 --> 00:26:20,080
+to the ground if he was flying at the
+ 
+
+1159
+00:26:20,080 --> 00:26:23,590
+to the ground if he was flying at the
+time his wings become broken. Step five,
+
+1160
+00:26:23,590 --> 00:26:23,600
+time his wings become broken. Step five,
+ 
+
+1161
+00:26:23,600 --> 00:26:26,390
+time his wings become broken. Step five,
+consider backend costs, which are
+
+1162
+00:26:26,390 --> 00:26:26,400
+consider backend costs, which are
+ 
+
+1163
+00:26:26,400 --> 00:26:29,350
+consider backend costs, which are
+usually phases and triggers. Because I
+
+1164
+00:26:29,350 --> 00:26:29,360
+usually phases and triggers. Because I
+ 
+
+1165
+00:26:29,360 --> 00:26:31,990
+usually phases and triggers. Because I
+don't have front-end costs for breaking
+
+1166
+00:26:31,990 --> 00:26:32,000
+don't have front-end costs for breaking
+ 
+
+1167
+00:26:32,000 --> 00:26:34,870
+don't have front-end costs for breaking
+the head or wings, I need to create
+
+1168
+00:26:34,870 --> 00:26:34,880
+the head or wings, I need to create
+ 
+
+1169
+00:26:34,880 --> 00:26:37,430
+the head or wings, I need to create
+back-end costs that are roughly
+
+1170
+00:26:37,430 --> 00:26:37,440
+back-end costs that are roughly
+ 
+
+1171
+00:26:37,440 --> 00:26:40,549
+back-end costs that are roughly
+equivalent in value to the ability
+
+1172
+00:26:40,549 --> 00:26:40,559
+equivalent in value to the ability
+ 
+
+1173
+00:26:40,559 --> 00:26:44,149
+equivalent in value to the ability
+losses. First up, the wings. We create a
+
+1174
+00:26:44,149 --> 00:26:44,159
+losses. First up, the wings. We create a
+ 
+
+1175
+00:26:44,159 --> 00:26:47,590
+losses. First up, the wings. We create a
+phase titled cornered beast. The trigger
+
+1176
+00:26:47,590 --> 00:26:47,600
+phase titled cornered beast. The trigger
+ 
+
+1177
+00:26:47,600 --> 00:26:50,710
+phase titled cornered beast. The trigger
+for this phase is the wings part becomes
+
+1178
+00:26:50,710 --> 00:26:50,720
+for this phase is the wings part becomes
+ 
+
+1179
+00:26:50,720 --> 00:26:52,789
+for this phase is the wings part becomes
+broken. And the description for this
+
+1180
+00:26:52,789 --> 00:26:52,799
+broken. And the description for this
+ 
+
+1181
+00:26:52,799 --> 00:26:55,590
+broken. And the description for this
+phase says then kar falls if he is
+
+1182
+00:26:55,590 --> 00:26:55,600
+phase says then kar falls if he is
+ 
+
+1183
+00:26:55,600 --> 00:26:58,870
+phase says then kar falls if he is
+flying. He becomes quickened able to use
+
+1184
+00:26:58,870 --> 00:26:58,880
+flying. He becomes quickened able to use
+ 
+
+1185
+00:26:58,880 --> 00:27:01,430
+flying. He becomes quickened able to use
+the extra action only to make melee
+
+1186
+00:27:01,430 --> 00:27:01,440
+the extra action only to make melee
+ 
+
+1187
+00:27:01,440 --> 00:27:05,350
+the extra action only to make melee
+attacks or destroy. So he loses his
+
+1188
+00:27:05,350 --> 00:27:05,360
+attacks or destroy. So he loses his
+ 
+
+1189
+00:27:05,360 --> 00:27:07,350
+attacks or destroy. So he loses his
+ability to fly, which is a major
+
+1190
+00:27:07,350 --> 00:27:07,360
+ability to fly, which is a major
+ 
+
+1191
+00:27:07,360 --> 00:27:10,310
+ability to fly, which is a major
+tactical advantage, but gains an extra
+
+1192
+00:27:10,310 --> 00:27:10,320
+tactical advantage, but gains an extra
+ 
+
+1193
+00:27:10,320 --> 00:27:13,029
+tactical advantage, but gains an extra
+action each turn that can either be used
+
+1194
+00:27:13,029 --> 00:27:13,039
+action each turn that can either be used
+ 
+
+1195
+00:27:13,039 --> 00:27:15,510
+action each turn that can either be used
+for striding or making an extra melee
+
+1196
+00:27:15,510 --> 00:27:15,520
+for striding or making an extra melee
+ 
+
+1197
+00:27:15,520 --> 00:27:18,470
+for striding or making an extra melee
+attack. Within the narrative, he is
+
+1198
+00:27:18,470 --> 00:27:18,480
+attack. Within the narrative, he is
+ 
+
+1199
+00:27:18,480 --> 00:27:20,870
+attack. Within the narrative, he is
+angered and shows that he is able to
+
+1200
+00:27:20,870 --> 00:27:20,880
+angered and shows that he is able to
+ 
+
+1201
+00:27:20,880 --> 00:27:24,070
+angered and shows that he is able to
+adapt to the loss of his wings. Now, for
+
+1202
+00:27:24,070 --> 00:27:24,080
+adapt to the loss of his wings. Now, for
+ 
+
+1203
+00:27:24,080 --> 00:27:26,870
+adapt to the loss of his wings. Now, for
+the head part, we create a phase called
+
+1204
+00:27:26,870 --> 00:27:26,880
+the head part, we create a phase called
+ 
+
+1205
+00:27:26,880 --> 00:27:29,990
+the head part, we create a phase called
+Worm's Fury. The trigger for this phase
+
+1206
+00:27:29,990 --> 00:27:30,000
+Worm's Fury. The trigger for this phase
+ 
+
+1207
+00:27:30,000 --> 00:27:33,269
+Worm's Fury. The trigger for this phase
+is the head part becomes broken. And the
+
+1208
+00:27:33,269 --> 00:27:33,279
+is the head part becomes broken. And the
+ 
+
+1209
+00:27:33,279 --> 00:27:35,909
+is the head part becomes broken. And the
+description says, "Men loses
+
+1210
+00:27:35,909 --> 00:27:35,919
+description says, "Men loses
+ 
+
+1211
+00:27:35,919 --> 00:27:39,269
+description says, "Men loses
+spellcasting, frightful presence, Jaws
+
+1212
+00:27:39,269 --> 00:27:39,279
+spellcasting, frightful presence, Jaws
+ 
+
+1213
+00:27:39,279 --> 00:27:42,390
+spellcasting, frightful presence, Jaws
+attacks, horn attacks, and his breath
+
+1214
+00:27:42,390 --> 00:27:42,400
+attacks, horn attacks, and his breath
+ 
+
+1215
+00:27:42,400 --> 00:27:45,909
+attacks, horn attacks, and his breath
+weapon. He immediately strides and makes
+
+1216
+00:27:45,909 --> 00:27:45,919
+weapon. He immediately strides and makes
+ 
+
+1217
+00:27:45,919 --> 00:27:49,350
+weapon. He immediately strides and makes
+two claw strikes as a free action
+
+1218
+00:27:49,350 --> 00:27:49,360
+two claw strikes as a free action
+ 
+
+1219
+00:27:49,360 --> 00:27:51,590
+two claw strikes as a free action
+against the creature who broke his head
+
+1220
+00:27:51,590 --> 00:27:51,600
+against the creature who broke his head
+ 
+
+1221
+00:27:51,600 --> 00:27:54,549
+against the creature who broke his head
+if possible. He gains a plus two status
+
+1222
+00:27:54,549 --> 00:27:54,559
+if possible. He gains a plus two status
+ 
+
+1223
+00:27:54,559 --> 00:27:57,269
+if possible. He gains a plus two status
+bonus to attack rolls and damage rolls
+
+1224
+00:27:57,269 --> 00:27:57,279
+bonus to attack rolls and damage rolls
+ 
+
+1225
+00:27:57,279 --> 00:28:00,310
+bonus to attack rolls and damage rolls
+with claw and tail strikes. He gains the
+
+1226
+00:28:00,310 --> 00:28:00,320
+with claw and tail strikes. He gains the
+ 
+
+1227
+00:28:00,320 --> 00:28:03,350
+with claw and tail strikes. He gains the
+adamantine scales reaction. The reaction
+
+1228
+00:28:03,350 --> 00:28:03,360
+adamantine scales reaction. The reaction
+ 
+
+1229
+00:28:03,360 --> 00:28:06,149
+adamantine scales reaction. The reaction
+trigger is Manar is targeted by a
+
+1230
+00:28:06,149 --> 00:28:06,159
+trigger is Manar is targeted by a
+ 
+
+1231
+00:28:06,159 --> 00:28:09,350
+trigger is Manar is targeted by a
+damaging effect requirement. Mari's head
+
+1232
+00:28:09,350 --> 00:28:09,360
+damaging effect requirement. Mari's head
+ 
+
+1233
+00:28:09,360 --> 00:28:12,630
+damaging effect requirement. Mari's head
+part is broken and the reaction's effect
+
+1234
+00:28:12,630 --> 00:28:12,640
+part is broken and the reaction's effect
+ 
+
+1235
+00:28:12,640 --> 00:28:15,750
+part is broken and the reaction's effect
+is Manari gains resistance all 15
+
+1236
+00:28:15,750 --> 00:28:15,760
+is Manari gains resistance all 15
+ 
+
+1237
+00:28:15,760 --> 00:28:18,230
+is Manari gains resistance all 15
+against the triggering attack applied
+
+1238
+00:28:18,230 --> 00:28:18,240
+against the triggering attack applied
+ 
+
+1239
+00:28:18,240 --> 00:28:20,630
+against the triggering attack applied
+only to his main body hit point
+
+1240
+00:28:20,630 --> 00:28:20,640
+only to his main body hit point
+ 
+
+1241
+00:28:20,640 --> 00:28:24,149
+only to his main body hit point
+reduction. Manari also gains the stunned
+
+1242
+00:28:24,149 --> 00:28:24,159
+reduction. Manari also gains the stunned
+ 
+
+1243
+00:28:24,159 --> 00:28:27,190
+reduction. Manari also gains the stunned
+one condition for the next two turns as
+
+1244
+00:28:27,190 --> 00:28:27,200
+one condition for the next two turns as
+ 
+
+1245
+00:28:27,200 --> 00:28:30,950
+one condition for the next two turns as
+his focus shatters. So in this phase,
+
+1246
+00:28:30,950 --> 00:28:30,960
+his focus shatters. So in this phase,
+ 
+
+1247
+00:28:30,960 --> 00:28:35,110
+his focus shatters. So in this phase,
+Manari becomes a purely physical enraged
+
+1248
+00:28:35,110 --> 00:28:35,120
+Manari becomes a purely physical enraged
+ 
+
+1249
+00:28:35,120 --> 00:28:38,870
+Manari becomes a purely physical enraged
+combatant. He loses his ranged attacks,
+
+1250
+00:28:38,870 --> 00:28:38,880
+combatant. He loses his ranged attacks,
+ 
+
+1251
+00:28:38,880 --> 00:28:42,070
+combatant. He loses his ranged attacks,
+magic, breath weapon, and horns, but
+
+1252
+00:28:42,070 --> 00:28:42,080
+magic, breath weapon, and horns, but
+ 
+
+1253
+00:28:42,080 --> 00:28:44,310
+magic, breath weapon, and horns, but
+essentially increases one experience
+
+1254
+00:28:44,310 --> 00:28:44,320
+essentially increases one experience
+ 
+
+1255
+00:28:44,320 --> 00:28:46,950
+essentially increases one experience
+level for his remaining melee attacks,
+
+1256
+00:28:46,950 --> 00:28:46,960
+level for his remaining melee attacks,
+ 
+
+1257
+00:28:46,960 --> 00:28:48,950
+level for his remaining melee attacks,
+and gains the adamantine scales
+
+1258
+00:28:48,950 --> 00:28:48,960
+and gains the adamantine scales
+ 
+
+1259
+00:28:48,960 --> 00:28:51,110
+and gains the adamantine scales
+reaction, which can reduce incoming
+
+1260
+00:28:51,110 --> 00:28:51,120
+reaction, which can reduce incoming
+ 
+
+1261
+00:28:51,120 --> 00:28:53,669
+reaction, which can reduce incoming
+damage to his main body. And note that
+
+1262
+00:28:53,669 --> 00:28:53,679
+damage to his main body. And note that
+ 
+
+1263
+00:28:53,679 --> 00:28:56,470
+damage to his main body. And note that
+since he has two reactions per turn, he
+
+1264
+00:28:56,470 --> 00:28:56,480
+since he has two reactions per turn, he
+ 
+
+1265
+00:28:56,480 --> 00:28:59,350
+since he has two reactions per turn, he
+can use this reaction twice. I also
+
+1266
+00:28:59,350 --> 00:28:59,360
+can use this reaction twice. I also
+ 
+
+1267
+00:28:59,360 --> 00:29:01,669
+can use this reaction twice. I also
+included the free stride and claw
+
+1268
+00:29:01,669 --> 00:29:01,679
+included the free stride and claw
+ 
+
+1269
+00:29:01,679 --> 00:29:04,470
+included the free stride and claw
+strikes and the stunned one condition
+
+1270
+00:29:04,470 --> 00:29:04,480
+strikes and the stunned one condition
+ 
+
+1271
+00:29:04,480 --> 00:29:06,789
+strikes and the stunned one condition
+for narrative effect since they most
+
+1272
+00:29:06,789 --> 00:29:06,799
+for narrative effect since they most
+ 
+
+1273
+00:29:06,799 --> 00:29:09,190
+for narrative effect since they most
+likely cancel each other out. A couple
+
+1274
+00:29:09,190 --> 00:29:09,200
+likely cancel each other out. A couple
+ 
+
+1275
+00:29:09,200 --> 00:29:11,510
+likely cancel each other out. A couple
+actions used immediately for the loss of
+
+1276
+00:29:11,510 --> 00:29:11,520
+actions used immediately for the loss of
+ 
+
+1277
+00:29:11,520 --> 00:29:14,389
+actions used immediately for the loss of
+two actions over the next two turns. I
+
+1278
+00:29:14,389 --> 00:29:14,399
+two actions over the next two turns. I
+ 
+
+1279
+00:29:14,399 --> 00:29:16,549
+two actions over the next two turns. I
+could probably end the conversion of
+
+1280
+00:29:16,549 --> 00:29:16,559
+could probably end the conversion of
+ 
+
+1281
+00:29:16,559 --> 00:29:19,190
+could probably end the conversion of
+Mari there, but as mentioned before,
+
+1282
+00:29:19,190 --> 00:29:19,200
+Mari there, but as mentioned before,
+ 
+
+1283
+00:29:19,200 --> 00:29:21,830
+Mari there, but as mentioned before,
+this is definitely not an exact science
+
+1284
+00:29:21,830 --> 00:29:21,840
+this is definitely not an exact science
+ 
+
+1285
+00:29:21,840 --> 00:29:24,789
+this is definitely not an exact science
+and balancing will be a challenge. To
+
+1286
+00:29:24,789 --> 00:29:24,799
+and balancing will be a challenge. To
+ 
+
+1287
+00:29:24,799 --> 00:29:26,789
+and balancing will be a challenge. To
+help with that, I'm going to create a
+
+1288
+00:29:26,789 --> 00:29:26,799
+help with that, I'm going to create a
+ 
+
+1289
+00:29:26,799 --> 00:29:29,110
+help with that, I'm going to create a
+third phase and trigger, which I think
+
+1290
+00:29:29,110 --> 00:29:29,120
+third phase and trigger, which I think
+ 
+
+1291
+00:29:29,120 --> 00:29:32,310
+third phase and trigger, which I think
+of as a backpocket phase in the sense
+
+1292
+00:29:32,310 --> 00:29:32,320
+of as a backpocket phase in the sense
+ 
+
+1293
+00:29:32,320 --> 00:29:34,710
+of as a backpocket phase in the sense
+that I'm not required to use it. I have
+
+1294
+00:29:34,710 --> 00:29:34,720
+that I'm not required to use it. I have
+ 
+
+1295
+00:29:34,720 --> 00:29:37,350
+that I'm not required to use it. I have
+it already prepared and in my so-called
+
+1296
+00:29:37,350 --> 00:29:37,360
+it already prepared and in my so-called
+ 
+
+1297
+00:29:37,360 --> 00:29:40,310
+it already prepared and in my so-called
+back pocket, if it is needed, but if the
+
+1298
+00:29:40,310 --> 00:29:40,320
+back pocket, if it is needed, but if the
+ 
+
+1299
+00:29:40,320 --> 00:29:42,789
+back pocket, if it is needed, but if the
+encounter is already too difficult, then
+
+1300
+00:29:42,789 --> 00:29:42,799
+encounter is already too difficult, then
+ 
+
+1301
+00:29:42,799 --> 00:29:45,590
+encounter is already too difficult, then
+I don't need to use it. I'm calling this
+
+1302
+00:29:45,590 --> 00:29:45,600
+I don't need to use it. I'm calling this
+ 
+
+1303
+00:29:45,600 --> 00:29:48,789
+I don't need to use it. I'm calling this
+phase righteous stand. The trigger is
+
+1304
+00:29:48,789 --> 00:29:48,799
+phase righteous stand. The trigger is
+ 
+
+1305
+00:29:48,799 --> 00:29:51,590
+phase righteous stand. The trigger is
+Manari's main body is reduced to fewer
+
+1306
+00:29:51,590 --> 00:29:51,600
+Manari's main body is reduced to fewer
+ 
+
+1307
+00:29:51,600 --> 00:29:54,789
+Manari's main body is reduced to fewer
+than 250 hit points. And the phase
+
+1308
+00:29:54,789 --> 00:29:54,799
+than 250 hit points. And the phase
+ 
+
+1309
+00:29:54,799 --> 00:29:58,149
+than 250 hit points. And the phase
+effect says Manari uses a free action to
+
+1310
+00:29:58,149 --> 00:29:58,159
+effect says Manari uses a free action to
+ 
+
+1311
+00:29:58,159 --> 00:30:01,669
+effect says Manari uses a free action to
+ignite in an aura of Draconic Radiance.
+
+1312
+00:30:01,669 --> 00:30:01,679
+ignite in an aura of Draconic Radiance.
+ 
+
+1313
+00:30:01,679 --> 00:30:04,310
+ignite in an aura of Draconic Radiance.
+He gains a plus one status bonus to
+
+1314
+00:30:04,310 --> 00:30:04,320
+He gains a plus one status bonus to
+ 
+
+1315
+00:30:04,320 --> 00:30:07,430
+He gains a plus one status bonus to
+armor class in all saves. All creatures
+
+1316
+00:30:07,430 --> 00:30:07,440
+armor class in all saves. All creatures
+ 
+
+1317
+00:30:07,440 --> 00:30:09,750
+armor class in all saves. All creatures
+perceiving Manari through vision at the
+
+1318
+00:30:09,750 --> 00:30:09,760
+perceiving Manari through vision at the
+ 
+
+1319
+00:30:09,760 --> 00:30:12,310
+perceiving Manari through vision at the
+time this phase is triggered and after
+
+1320
+00:30:12,310 --> 00:30:12,320
+time this phase is triggered and after
+ 
+
+1321
+00:30:12,320 --> 00:30:15,590
+time this phase is triggered and after
+targeting Mari with a melee attack must
+
+1322
+00:30:15,590 --> 00:30:15,600
+targeting Mari with a melee attack must
+ 
+
+1323
+00:30:15,600 --> 00:30:19,350
+targeting Mari with a melee attack must
+succeed a DC45 will save or be blinded
+
+1324
+00:30:19,350 --> 00:30:19,360
+succeed a DC45 will save or be blinded
+ 
+
+1325
+00:30:19,360 --> 00:30:23,110
+succeed a DC45 will save or be blinded
+for 1 minute. On a successful save, the
+
+1326
+00:30:23,110 --> 00:30:23,120
+for 1 minute. On a successful save, the
+ 
+
+1327
+00:30:23,120 --> 00:30:25,190
+for 1 minute. On a successful save, the
+creature is temporarily immune to this
+
+1328
+00:30:25,190 --> 00:30:25,200
+creature is temporarily immune to this
+ 
+
+1329
+00:30:25,200 --> 00:30:27,830
+creature is temporarily immune to this
+effect for 1 minute. Righteous stand
+
+1330
+00:30:27,830 --> 00:30:27,840
+effect for 1 minute. Righteous stand
+ 
+
+1331
+00:30:27,840 --> 00:30:31,430
+effect for 1 minute. Righteous stand
+ends after 1 minute or if Manari's main
+
+1332
+00:30:31,430 --> 00:30:31,440
+ends after 1 minute or if Manari's main
+ 
+
+1333
+00:30:31,440 --> 00:30:35,110
+ends after 1 minute or if Manari's main
+body is reduced to zero hit points. So
+
+1334
+00:30:35,110 --> 00:30:35,120
+body is reduced to zero hit points. So
+ 
+
+1335
+00:30:35,120 --> 00:30:37,990
+body is reduced to zero hit points. So
+when players push Mari below less than
+
+1336
+00:30:37,990 --> 00:30:38,000
+when players push Mari below less than
+ 
+
+1337
+00:30:38,000 --> 00:30:41,669
+when players push Mari below less than
+50% of his hit points, I as the GM
+
+1338
+00:30:41,669 --> 00:30:41,679
+50% of his hit points, I as the GM
+ 
+
+1339
+00:30:41,679 --> 00:30:44,310
+50% of his hit points, I as the GM
+should have a good idea for how this
+
+1340
+00:30:44,310 --> 00:30:44,320
+should have a good idea for how this
+ 
+
+1341
+00:30:44,320 --> 00:30:46,549
+should have a good idea for how this
+fight is going. If the players have
+
+1342
+00:30:46,549 --> 00:30:46,559
+fight is going. If the players have
+ 
+
+1343
+00:30:46,559 --> 00:30:49,190
+fight is going. If the players have
+broken his head and show no signs of
+
+1344
+00:30:49,190 --> 00:30:49,200
+broken his head and show no signs of
+ 
+
+1345
+00:30:49,200 --> 00:30:51,669
+broken his head and show no signs of
+slowing down, even with Mari in his
+
+1346
+00:30:51,669 --> 00:30:51,679
+slowing down, even with Mari in his
+ 
+
+1347
+00:30:51,679 --> 00:30:54,310
+slowing down, even with Mari in his
+worm's fury phase, I can choose to
+
+1348
+00:30:54,310 --> 00:30:54,320
+worm's fury phase, I can choose to
+ 
+
+1349
+00:30:54,320 --> 00:30:57,990
+worm's fury phase, I can choose to
+activate this phase. But if the fight's
+
+1350
+00:30:57,990 --> 00:30:58,000
+activate this phase. But if the fight's
+ 
+
+1351
+00:30:58,000 --> 00:31:00,070
+activate this phase. But if the fight's
+too difficult with the other phases in
+
+1352
+00:31:00,070 --> 00:31:00,080
+too difficult with the other phases in
+ 
+
+1353
+00:31:00,080 --> 00:31:02,310
+too difficult with the other phases in
+effect, I can choose not to use this
+
+1354
+00:31:02,310 --> 00:31:02,320
+effect, I can choose not to use this
+ 
+
+1355
+00:31:02,320 --> 00:31:05,110
+effect, I can choose not to use this
+phase. Or I can have it activate later,
+
+1356
+00:31:05,110 --> 00:31:05,120
+phase. Or I can have it activate later,
+ 
+
+1357
+00:31:05,120 --> 00:31:07,590
+phase. Or I can have it activate later,
+like at 100 hit points to add to the
+
+1358
+00:31:07,590 --> 00:31:07,600
+like at 100 hit points to add to the
+ 
+
+1359
+00:31:07,600 --> 00:31:10,470
+like at 100 hit points to add to the
+drama of the fight's conclusion. This is
+
+1360
+00:31:10,470 --> 00:31:10,480
+drama of the fight's conclusion. This is
+ 
+
+1361
+00:31:10,480 --> 00:31:13,190
+drama of the fight's conclusion. This is
+just one example of how a backpocket
+
+1362
+00:31:13,190 --> 00:31:13,200
+just one example of how a backpocket
+ 
+
+1363
+00:31:13,200 --> 00:31:15,350
+just one example of how a backpocket
+phase can help you balance multi-art
+
+1364
+00:31:15,350 --> 00:31:15,360
+phase can help you balance multi-art
+ 
+
+1365
+00:31:15,360 --> 00:31:18,470
+phase can help you balance multi-art
+bosses. Air on the side of other phases
+
+1366
+00:31:18,470 --> 00:31:18,480
+bosses. Air on the side of other phases
+ 
+
+1367
+00:31:18,480 --> 00:31:20,950
+bosses. Air on the side of other phases
+being light and have this ready to use
+
+1368
+00:31:20,950 --> 00:31:20,960
+being light and have this ready to use
+ 
+
+1369
+00:31:20,960 --> 00:31:24,789
+being light and have this ready to use
+later, but only if it's needed.
+
+1370
+00:31:24,789 --> 00:31:24,799
+later, but only if it's needed.
+ 
+
+1371
+00:31:24,799 --> 00:31:27,430
+later, but only if it's needed.
+So, those are the basics of the system,
+
+1372
+00:31:27,430 --> 00:31:27,440
+So, those are the basics of the system,
+ 
+
+1373
+00:31:27,440 --> 00:31:30,310
+So, those are the basics of the system,
+but let's do a quick review with a few
+
+1374
+00:31:30,310 --> 00:31:30,320
+but let's do a quick review with a few
+ 
+
+1375
+00:31:30,320 --> 00:31:33,990
+but let's do a quick review with a few
+considerations. First, complexity. Start
+
+1376
+00:31:33,990 --> 00:31:34,000
+considerations. First, complexity. Start
+ 
+
+1377
+00:31:34,000 --> 00:31:36,389
+considerations. First, complexity. Start
+simple with maybe only two or three
+
+1378
+00:31:36,389 --> 00:31:36,399
+simple with maybe only two or three
+ 
+
+1379
+00:31:36,399 --> 00:31:39,590
+simple with maybe only two or three
+parts. You don't want or need to break a
+
+1380
+00:31:39,590 --> 00:31:39,600
+parts. You don't want or need to break a
+ 
+
+1381
+00:31:39,600 --> 00:31:41,750
+parts. You don't want or need to break a
+dragon into head, wings, tail, left
+
+1382
+00:31:41,750 --> 00:31:41,760
+dragon into head, wings, tail, left
+ 
+
+1383
+00:31:41,760 --> 00:31:44,470
+dragon into head, wings, tail, left
+claw, right claw, and so on. Just pick
+
+1384
+00:31:44,470 --> 00:31:44,480
+claw, right claw, and so on. Just pick
+ 
+
+1385
+00:31:44,480 --> 00:31:46,710
+claw, right claw, and so on. Just pick
+two so you're not forced into more
+
+1386
+00:31:46,710 --> 00:31:46,720
+two so you're not forced into more
+ 
+
+1387
+00:31:46,720 --> 00:31:49,430
+two so you're not forced into more
+bookkeeping than is needed. Think about
+
+1388
+00:31:49,430 --> 00:31:49,440
+bookkeeping than is needed. Think about
+ 
+
+1389
+00:31:49,440 --> 00:31:52,710
+bookkeeping than is needed. Think about
+clarity. Since this is outside the norm
+
+1390
+00:31:52,710 --> 00:31:52,720
+clarity. Since this is outside the norm
+ 
+
+1391
+00:31:52,720 --> 00:31:55,430
+clarity. Since this is outside the norm
+for Pathfinder encounters, make sure
+
+1392
+00:31:55,430 --> 00:31:55,440
+for Pathfinder encounters, make sure
+ 
+
+1393
+00:31:55,440 --> 00:31:57,830
+for Pathfinder encounters, make sure
+your players understand which parts
+
+1394
+00:31:57,830 --> 00:31:57,840
+your players understand which parts
+ 
+
+1395
+00:31:57,840 --> 00:32:00,870
+your players understand which parts
+exist and that they can target them.
+
+1396
+00:32:00,870 --> 00:32:00,880
+exist and that they can target them.
+ 
+
+1397
+00:32:00,880 --> 00:32:03,509
+exist and that they can target them.
+Visual aids can help, such as saying a
+
+1398
+00:32:03,509 --> 00:32:03,519
+Visual aids can help, such as saying a
+ 
+
+1399
+00:32:03,519 --> 00:32:05,509
+Visual aids can help, such as saying a
+certain part of the monster's body is a
+
+1400
+00:32:05,509 --> 00:32:05,519
+certain part of the monster's body is a
+ 
+
+1401
+00:32:05,519 --> 00:32:08,389
+certain part of the monster's body is a
+different color or is glowing. Also
+
+1402
+00:32:08,389 --> 00:32:08,399
+different color or is glowing. Also
+ 
+
+1403
+00:32:08,399 --> 00:32:11,190
+different color or is glowing. Also
+encourage recall knowledge or perception
+
+1404
+00:32:11,190 --> 00:32:11,200
+encourage recall knowledge or perception
+ 
+
+1405
+00:32:11,200 --> 00:32:14,310
+encourage recall knowledge or perception
+checks to get this information, but make
+
+1406
+00:32:14,310 --> 00:32:14,320
+checks to get this information, but make
+ 
+
+1407
+00:32:14,320 --> 00:32:16,789
+checks to get this information, but make
+sure the players somehow come upon the
+
+1408
+00:32:16,789 --> 00:32:16,799
+sure the players somehow come upon the
+ 
+
+1409
+00:32:16,799 --> 00:32:18,870
+sure the players somehow come upon the
+realization that they can target
+
+1410
+00:32:18,870 --> 00:32:18,880
+realization that they can target
+ 
+
+1411
+00:32:18,880 --> 00:32:20,950
+realization that they can target
+different parts of the monster or all of
+
+1412
+00:32:20,950 --> 00:32:20,960
+different parts of the monster or all of
+ 
+
+1413
+00:32:20,960 --> 00:32:23,509
+different parts of the monster or all of
+this work is wasted. As mentioned
+
+1414
+00:32:23,509 --> 00:32:23,519
+this work is wasted. As mentioned
+ 
+
+1415
+00:32:23,519 --> 00:32:25,669
+this work is wasted. As mentioned
+before, balance is going to be a
+
+1416
+00:32:25,669 --> 00:32:25,679
+before, balance is going to be a
+ 
+
+1417
+00:32:25,679 --> 00:32:27,750
+before, balance is going to be a
+challenge. It's going to be difficult to
+
+1418
+00:32:27,750 --> 00:32:27,760
+challenge. It's going to be difficult to
+ 
+
+1419
+00:32:27,760 --> 00:32:29,909
+challenge. It's going to be difficult to
+manage and counterbalance when using the
+
+1420
+00:32:29,909 --> 00:32:29,919
+manage and counterbalance when using the
+ 
+
+1421
+00:32:29,919 --> 00:32:31,990
+manage and counterbalance when using the
+system as so much of it will be up to
+
+1422
+00:32:31,990 --> 00:32:32,000
+system as so much of it will be up to
+ 
+
+1423
+00:32:32,000 --> 00:32:34,470
+system as so much of it will be up to
+you as the GM to make a judgment call as
+
+1424
+00:32:34,470 --> 00:32:34,480
+you as the GM to make a judgment call as
+ 
+
+1425
+00:32:34,480 --> 00:32:36,950
+you as the GM to make a judgment call as
+to what makes narrative sense and what
+
+1426
+00:32:36,950 --> 00:32:36,960
+to what makes narrative sense and what
+ 
+
+1427
+00:32:36,960 --> 00:32:38,870
+to what makes narrative sense and what
+your players can handle. If you're
+
+1428
+00:32:38,870 --> 00:32:38,880
+your players can handle. If you're
+ 
+
+1429
+00:32:38,880 --> 00:32:40,470
+your players can handle. If you're
+concerned that this is going to make the
+
+1430
+00:32:40,470 --> 00:32:40,480
+concerned that this is going to make the
+ 
+
+1431
+00:32:40,480 --> 00:32:42,870
+concerned that this is going to make the
+encounter too difficult, then apply the
+
+1432
+00:32:42,870 --> 00:32:42,880
+encounter too difficult, then apply the
+ 
+
+1433
+00:32:42,880 --> 00:32:45,190
+encounter too difficult, then apply the
+weak adjustment template to the creature
+
+1434
+00:32:45,190 --> 00:32:45,200
+weak adjustment template to the creature
+ 
+
+1435
+00:32:45,200 --> 00:32:47,029
+weak adjustment template to the creature
+before you create a bunch of cool and
+
+1436
+00:32:47,029 --> 00:32:47,039
+before you create a bunch of cool and
+ 
+
+1437
+00:32:47,039 --> 00:32:49,509
+before you create a bunch of cool and
+powerful phase changes. And also
+
+1438
+00:32:49,509 --> 00:32:49,519
+powerful phase changes. And also
+ 
+
+1439
+00:32:49,519 --> 00:32:51,750
+powerful phase changes. And also
+consider having that back pocket phase
+
+1440
+00:32:51,750 --> 00:32:51,760
+consider having that back pocket phase
+ 
+
+1441
+00:32:51,760 --> 00:32:54,389
+consider having that back pocket phase
+prepared just in case the fight turns
+
+1442
+00:32:54,389 --> 00:32:54,399
+prepared just in case the fight turns
+ 
+
+1443
+00:32:54,399 --> 00:32:57,669
+prepared just in case the fight turns
+out to be easier than you planned. Also
+
+1444
+00:32:57,669 --> 00:32:57,679
+out to be easier than you planned. Also
+ 
+
+1445
+00:32:57,679 --> 00:33:01,190
+out to be easier than you planned. Also
+think about impact. Breaking monster
+
+1446
+00:33:01,190 --> 00:33:01,200
+think about impact. Breaking monster
+ 
+
+1447
+00:33:01,200 --> 00:33:03,990
+think about impact. Breaking monster
+parts should feel meaningful to the
+
+1448
+00:33:03,990 --> 00:33:04,000
+parts should feel meaningful to the
+ 
+
+1449
+00:33:04,000 --> 00:33:07,269
+parts should feel meaningful to the
+players and doing so should change the
+
+1450
+00:33:07,269 --> 00:33:07,279
+players and doing so should change the
+ 
+
+1451
+00:33:07,279 --> 00:33:10,470
+players and doing so should change the
+fight in a noticeable way. New abilities
+
+1452
+00:33:10,470 --> 00:33:10,480
+fight in a noticeable way. New abilities
+ 
+
+1453
+00:33:10,480 --> 00:33:13,110
+fight in a noticeable way. New abilities
+can replace lost abilities and phase
+
+1454
+00:33:13,110 --> 00:33:13,120
+can replace lost abilities and phase
+ 
+
+1455
+00:33:13,120 --> 00:33:14,789
+can replace lost abilities and phase
+changes can alter the creature's
+
+1456
+00:33:14,789 --> 00:33:14,799
+changes can alter the creature's
+ 
+
+1457
+00:33:14,799 --> 00:33:17,430
+changes can alter the creature's
+tactics. And last, remember the
+
+1458
+00:33:17,430 --> 00:33:17,440
+tactics. And last, remember the
+ 
+
+1459
+00:33:17,440 --> 00:33:20,070
+tactics. And last, remember the
+downsides. There should always be a
+
+1460
+00:33:20,070 --> 00:33:20,080
+downsides. There should always be a
+ 
+
+1461
+00:33:20,080 --> 00:33:22,630
+downsides. There should always be a
+downside to targeting a part rather than
+
+1462
+00:33:22,630 --> 00:33:22,640
+downside to targeting a part rather than
+ 
+
+1463
+00:33:22,640 --> 00:33:24,630
+downside to targeting a part rather than
+targeting the creature's main body.
+
+1464
+00:33:24,630 --> 00:33:24,640
+targeting the creature's main body.
+ 
+
+1465
+00:33:24,640 --> 00:33:26,870
+targeting the creature's main body.
+Otherwise, there is little to no reason
+
+1466
+00:33:26,870 --> 00:33:26,880
+Otherwise, there is little to no reason
+ 
+
+1467
+00:33:26,880 --> 00:33:29,430
+Otherwise, there is little to no reason
+for a player not to be targeting parts
+
+1468
+00:33:29,430 --> 00:33:29,440
+for a player not to be targeting parts
+ 
+
+1469
+00:33:29,440 --> 00:33:31,750
+for a player not to be targeting parts
+as they apply damage to both the part
+
+1470
+00:33:31,750 --> 00:33:31,760
+as they apply damage to both the part
+ 
+
+1471
+00:33:31,760 --> 00:33:34,549
+as they apply damage to both the part
+and the main body at the same time. And
+
+1472
+00:33:34,549 --> 00:33:34,559
+and the main body at the same time. And
+ 
+
+1473
+00:33:34,559 --> 00:33:36,870
+and the main body at the same time. And
+these downsides should take into account
+
+1474
+00:33:36,870 --> 00:33:36,880
+these downsides should take into account
+ 
+
+1475
+00:33:36,880 --> 00:33:39,029
+these downsides should take into account
+that breaking apart means removing the
+
+1476
+00:33:39,029 --> 00:33:39,039
+that breaking apart means removing the
+ 
+
+1477
+00:33:39,039 --> 00:33:41,350
+that breaking apart means removing the
+monster's access to certain abilities
+
+1478
+00:33:41,350 --> 00:33:41,360
+monster's access to certain abilities
+ 
+
+1479
+00:33:41,360 --> 00:33:43,110
+monster's access to certain abilities
+and therefore should have a cost
+
+1480
+00:33:43,110 --> 00:33:43,120
+and therefore should have a cost
+ 
+
+1481
+00:33:43,120 --> 00:33:45,509
+and therefore should have a cost
+associated with doing so.
+
+1482
+00:33:45,509 --> 00:33:45,519
+associated with doing so.
+ 
+
+1483
+00:33:45,519 --> 00:33:47,750
+associated with doing so.
+So, there you have it. A framework for
+
+1484
+00:33:47,750 --> 00:33:47,760
+So, there you have it. A framework for
+ 
+
+1485
+00:33:47,760 --> 00:33:50,630
+So, there you have it. A framework for
+bringing dynamic multi-part boss
+
+1486
+00:33:50,630 --> 00:33:50,640
+bringing dynamic multi-part boss
+ 
+
+1487
+00:33:50,640 --> 00:33:53,590
+bringing dynamic multi-part boss
+encounters inspired by Fabula Ultima
+
+1488
+00:33:53,590 --> 00:33:53,600
+encounters inspired by Fabula Ultima
+ 
+
+1489
+00:33:53,600 --> 00:33:55,509
+encounters inspired by Fabula Ultima
+into your Pathfinder second edition
+
+1490
+00:33:55,509 --> 00:33:55,519
+into your Pathfinder second edition
+ 
+
+1491
+00:33:55,519 --> 00:33:58,230
+into your Pathfinder second edition
+games. Give it a try in your own games
+
+1492
+00:33:58,230 --> 00:33:58,240
+games. Give it a try in your own games
+ 
+
+1493
+00:33:58,240 --> 00:33:59,990
+games. Give it a try in your own games
+and let me know in the comments how it
+
+1494
+00:33:59,990 --> 00:34:00,000
+and let me know in the comments how it
+ 
+
+1495
+00:34:00,000 --> 00:34:02,950
+and let me know in the comments how it
+goes or if you have any cool variations
+
+1496
+00:34:02,950 --> 00:34:02,960
+goes or if you have any cool variations
+ 
+
+1497
+00:34:02,960 --> 00:34:04,870
+goes or if you have any cool variations
+or twist that you like to add to this
+
+1498
+00:34:04,870 --> 00:34:04,880
+or twist that you like to add to this
+ 
+
+1499
+00:34:04,880 --> 00:34:07,590
+or twist that you like to add to this
+idea. And as always, thanks to everyone
+
+1500
+00:34:07,590 --> 00:34:07,600
+idea. And as always, thanks to everyone
+ 
+
+1501
+00:34:07,600 --> 00:34:09,669
+idea. And as always, thanks to everyone
+who supports me, whether that be by
+
+1502
+00:34:09,669 --> 00:34:09,679
+who supports me, whether that be by
+ 
+
+1503
+00:34:09,679 --> 00:34:11,750
+who supports me, whether that be by
+liking the videos, leaving a comment,
+
+1504
+00:34:11,750 --> 00:34:11,760
+liking the videos, leaving a comment,
+ 
+
+1505
+00:34:11,760 --> 00:34:13,349
+liking the videos, leaving a comment,
+subscribing to the channel, or
+
+1506
+00:34:13,349 --> 00:34:13,359
+subscribing to the channel, or
+ 
+
+1507
+00:34:13,359 --> 00:34:15,510
+subscribing to the channel, or
+subscribing to the Patreon. I greatly
+
+1508
+00:34:15,510 --> 00:34:15,520
+subscribing to the Patreon. I greatly
+ 
+
+1509
+00:34:15,520 --> 00:34:17,109
+subscribing to the Patreon. I greatly
+appreciate everything you do to support
+
+1510
+00:34:17,109 --> 00:34:17,119
+appreciate everything you do to support
+ 
+
+1511
+00:34:17,119 --> 00:34:19,349
+appreciate everything you do to support
+me. And with that, thanks for watching.
+
+1512
+00:34:19,349 --> 00:34:19,359
+me. And with that, thanks for watching.
+ 
+
+1513
+00:34:19,359 --> 00:34:29,158
+me. And with that, thanks for watching.
+Take care and happy gaming. [music]
+
+1514
+00:34:29,158 --> 00:34:29,168
+
+ 
+
+1515
+00:34:29,168 --> 00:34:36,363
+
+[music]
+
+1516
+00:34:36,363 --> 00:34:36,373
+
+ 
+
+1517
+00:34:36,373 --> 00:34:38,393
+
+>> [music]
+

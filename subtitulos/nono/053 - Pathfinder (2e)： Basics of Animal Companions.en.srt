@@ -1,0 +1,3255 @@
+1
+00:00:00,729 --> 00:00:03,060
+
+hello and welcome to the basics of
+
+2
+00:00:03,060 --> 00:00:03,070
+hello and welcome to the basics of
+ 
+
+3
+00:00:03,070 --> 00:00:05,579
+hello and welcome to the basics of
+animal companions in Pathfinder second
+
+4
+00:00:05,579 --> 00:00:05,589
+animal companions in Pathfinder second
+ 
+
+5
+00:00:05,589 --> 00:00:08,370
+animal companions in Pathfinder second
+edition this video builds on information
+
+6
+00:00:08,370 --> 00:00:08,380
+edition this video builds on information
+ 
+
+7
+00:00:08,380 --> 00:00:10,110
+edition this video builds on information
+delivered in our basics of animals
+
+8
+00:00:10,110 --> 00:00:10,120
+delivered in our basics of animals
+ 
+
+9
+00:00:10,120 --> 00:00:12,509
+delivered in our basics of animals
+course so if you have not already viewed
+
+10
+00:00:12,509 --> 00:00:12,519
+course so if you have not already viewed
+ 
+
+11
+00:00:12,519 --> 00:00:14,789
+course so if you have not already viewed
+that video you are encouraged to do so
+
+12
+00:00:14,789 --> 00:00:14,799
+that video you are encouraged to do so
+ 
+
+13
+00:00:14,799 --> 00:00:17,570
+that video you are encouraged to do so
+before continuing
+
+14
+00:00:17,570 --> 00:00:17,580
+before continuing
+ 
+
+15
+00:00:17,580 --> 00:00:20,029
+before continuing
+animal companions are specialized
+
+16
+00:00:20,029 --> 00:00:20,039
+animal companions are specialized
+ 
+
+17
+00:00:20,039 --> 00:00:21,409
+animal companions are specialized
+creatures that differ from normal
+
+18
+00:00:21,409 --> 00:00:21,419
+creatures that differ from normal
+ 
+
+19
+00:00:21,419 --> 00:00:25,639
+creatures that differ from normal
+animals in several key ways first animal
+
+20
+00:00:25,639 --> 00:00:25,649
+animals in several key ways first animal
+ 
+
+21
+00:00:25,649 --> 00:00:27,439
+animals in several key ways first animal
+companions are obtained through class
+
+22
+00:00:27,439 --> 00:00:27,449
+companions are obtained through class
+ 
+
+23
+00:00:27,449 --> 00:00:29,870
+companions are obtained through class
+abilities and feats such as the animal
+
+24
+00:00:29,870 --> 00:00:29,880
+abilities and feats such as the animal
+ 
+
+25
+00:00:29,880 --> 00:00:31,880
+abilities and feats such as the animal
+companion feat that drew is may choose
+
+26
+00:00:31,880 --> 00:00:31,890
+companion feat that drew is may choose
+ 
+
+27
+00:00:31,890 --> 00:00:34,910
+companion feat that drew is may choose
+at first level second animal companions
+
+28
+00:00:34,910 --> 00:00:34,920
+at first level second animal companions
+ 
+
+29
+00:00:34,920 --> 00:00:36,770
+at first level second animal companions
+have a few special advantages in
+
+30
+00:00:36,770 --> 00:00:36,780
+have a few special advantages in
+ 
+
+31
+00:00:36,780 --> 00:00:39,950
+have a few special advantages in
+limitations for example you're limited
+
+32
+00:00:39,950 --> 00:00:39,960
+limitations for example you're limited
+ 
+
+33
+00:00:39,960 --> 00:00:42,350
+limitations for example you're limited
+to only having one animal companion at a
+
+34
+00:00:42,350 --> 00:00:42,360
+to only having one animal companion at a
+ 
+
+35
+00:00:42,360 --> 00:00:45,049
+to only having one animal companion at a
+time also animal companions may only
+
+36
+00:00:45,049 --> 00:00:45,059
+time also animal companions may only
+ 
+
+37
+00:00:45,059 --> 00:00:47,299
+time also animal companions may only
+receive the benefits of item bonuses
+
+38
+00:00:47,299 --> 00:00:47,309
+receive the benefits of item bonuses
+ 
+
+39
+00:00:47,309 --> 00:00:50,110
+receive the benefits of item bonuses
+that modify their speed or armor class
+
+40
+00:00:50,110 --> 00:00:50,120
+that modify their speed or armor class
+ 
+
+41
+00:00:50,120 --> 00:00:52,130
+that modify their speed or armor class
+there is nothing stopping you from
+
+42
+00:00:52,130 --> 00:00:52,140
+there is nothing stopping you from
+ 
+
+43
+00:00:52,140 --> 00:00:54,529
+there is nothing stopping you from
+dressing your ape companion with magical
+
+44
+00:00:54,529 --> 00:00:54,539
+dressing your ape companion with magical
+ 
+
+45
+00:00:54,539 --> 00:00:57,500
+dressing your ape companion with magical
+armbands a cloak in a necklace but the
+
+46
+00:00:57,500 --> 00:00:57,510
+armbands a cloak in a necklace but the
+ 
+
+47
+00:00:57,510 --> 00:01:00,110
+armbands a cloak in a necklace but the
+only bonuses they'll receive are those
+
+48
+00:01:00,110 --> 00:01:00,120
+only bonuses they'll receive are those
+ 
+
+49
+00:01:00,120 --> 00:01:02,869
+only bonuses they'll receive are those
+that boost their speed or armor class in
+
+50
+00:01:02,869 --> 00:01:02,879
+that boost their speed or armor class in
+ 
+
+51
+00:01:02,879 --> 00:01:05,359
+that boost their speed or armor class in
+other bonuses - armor class are capped
+
+52
+00:01:05,359 --> 00:01:05,369
+other bonuses - armor class are capped
+ 
+
+53
+00:01:05,369 --> 00:01:08,779
+other bonuses - armor class are capped
+at a maximum of +3 for animal companions
+
+54
+00:01:08,779 --> 00:01:08,789
+at a maximum of +3 for animal companions
+ 
+
+55
+00:01:08,789 --> 00:01:12,260
+at a maximum of +3 for animal companions
+also animals may never use the activate
+
+56
+00:01:12,260 --> 00:01:12,270
+also animals may never use the activate
+ 
+
+57
+00:01:12,270 --> 00:01:14,960
+also animals may never use the activate
+in item action so any gear that requires
+
+58
+00:01:14,960 --> 00:01:14,970
+in item action so any gear that requires
+ 
+
+59
+00:01:14,970 --> 00:01:17,120
+in item action so any gear that requires
+activation is beyond an animal
+
+60
+00:01:17,120 --> 00:01:17,130
+activation is beyond an animal
+ 
+
+61
+00:01:17,130 --> 00:01:20,060
+activation is beyond an animal
+companions ability to use one of their
+
+62
+00:01:20,060 --> 00:01:20,070
+companions ability to use one of their
+ 
+
+63
+00:01:20,070 --> 00:01:22,190
+companions ability to use one of their
+biggest advantages is animal companions
+
+64
+00:01:22,190 --> 00:01:22,200
+biggest advantages is animal companions
+ 
+
+65
+00:01:22,200 --> 00:01:25,309
+biggest advantages is animal companions
+effectively level up as you do and will
+
+66
+00:01:25,309 --> 00:01:25,319
+effectively level up as you do and will
+ 
+
+67
+00:01:25,319 --> 00:01:27,350
+effectively level up as you do and will
+use your level to calculate their
+
+68
+00:01:27,350 --> 00:01:27,360
+use your level to calculate their
+ 
+
+69
+00:01:27,360 --> 00:01:29,660
+use your level to calculate their
+proficiency bonuses and their hit points
+
+70
+00:01:29,660 --> 00:01:29,670
+proficiency bonuses and their hit points
+ 
+
+71
+00:01:29,670 --> 00:01:32,719
+proficiency bonuses and their hit points
+they may also grow more powerful as you
+
+72
+00:01:32,719 --> 00:01:32,729
+they may also grow more powerful as you
+ 
+
+73
+00:01:32,729 --> 00:01:35,180
+they may also grow more powerful as you
+level up if you choose to select some
+
+74
+00:01:35,180 --> 00:01:35,190
+level up if you choose to select some
+ 
+
+75
+00:01:35,190 --> 00:01:36,650
+level up if you choose to select some
+additional feats that cause your
+
+76
+00:01:36,650 --> 00:01:36,660
+additional feats that cause your
+ 
+
+77
+00:01:36,660 --> 00:01:38,630
+additional feats that cause your
+companion to mature and gain new
+
+78
+00:01:38,630 --> 00:01:38,640
+companion to mature and gain new
+ 
+
+79
+00:01:38,640 --> 00:01:41,389
+companion to mature and gain new
+abilities also if your animal companion
+
+80
+00:01:41,389 --> 00:01:41,399
+abilities also if your animal companion
+ 
+
+81
+00:01:41,399 --> 00:01:43,910
+abilities also if your animal companion
+ever dies you can gain a new companion
+
+82
+00:01:43,910 --> 00:01:43,920
+ever dies you can gain a new companion
+ 
+
+83
+00:01:43,920 --> 00:01:46,389
+ever dies you can gain a new companion
+after spending one week of downtime
+
+84
+00:01:46,389 --> 00:01:46,399
+after spending one week of downtime
+ 
+
+85
+00:01:46,399 --> 00:01:49,130
+after spending one week of downtime
+exactly how you spend this week is
+
+86
+00:01:49,130 --> 00:01:49,140
+exactly how you spend this week is
+ 
+
+87
+00:01:49,140 --> 00:01:52,279
+exactly how you spend this week is
+largely up to you energy em a champion
+
+88
+00:01:52,279 --> 00:01:52,289
+largely up to you energy em a champion
+ 
+
+89
+00:01:52,289 --> 00:01:54,410
+largely up to you energy em a champion
+might spend a week in prayer to their
+
+90
+00:01:54,410 --> 00:01:54,420
+might spend a week in prayer to their
+ 
+
+91
+00:01:54,420 --> 00:01:57,760
+might spend a week in prayer to their
+deity asking them to send a new warhorse
+
+92
+00:01:57,760 --> 00:01:57,770
+deity asking them to send a new warhorse
+ 
+
+93
+00:01:57,770 --> 00:02:00,559
+deity asking them to send a new warhorse
+rangers and druids might spend the week
+
+94
+00:02:00,559 --> 00:02:00,569
+rangers and druids might spend the week
+ 
+
+95
+00:02:00,569 --> 00:02:02,419
+rangers and druids might spend the week
+finding an animal in the wilds and
+
+96
+00:02:02,419 --> 00:02:02,429
+finding an animal in the wilds and
+ 
+
+97
+00:02:02,429 --> 00:02:04,309
+finding an animal in the wilds and
+spending the week training it to be
+
+98
+00:02:04,309 --> 00:02:04,319
+spending the week training it to be
+ 
+
+99
+00:02:04,319 --> 00:02:07,040
+spending the week training it to be
+their new companion and what is likely
+
+100
+00:02:07,040 --> 00:02:07,050
+their new companion and what is likely
+ 
+
+101
+00:02:07,050 --> 00:02:09,529
+their new companion and what is likely
+the biggest difference between animal
+
+102
+00:02:09,529 --> 00:02:09,539
+the biggest difference between animal
+ 
+
+103
+00:02:09,539 --> 00:02:12,979
+the biggest difference between animal
+companions and other animals is that the
+
+104
+00:02:12,979 --> 00:02:12,989
+companions and other animals is that the
+ 
+
+105
+00:02:12,989 --> 00:02:17,250
+companions and other animals is that the
+animal companions have the minion trait
+
+106
+00:02:17,250 --> 00:02:17,260
+animal companions have the minion trait
+ 
+
+107
+00:02:17,260 --> 00:02:20,280
+animal companions have the minion trait
+thanks to the minion trait you will have
+
+108
+00:02:20,280 --> 00:02:20,290
+thanks to the minion trait you will have
+ 
+
+109
+00:02:20,290 --> 00:02:22,140
+thanks to the minion trait you will have
+direct control over your animal
+
+110
+00:02:22,140 --> 00:02:22,150
+direct control over your animal
+ 
+
+111
+00:02:22,150 --> 00:02:24,660
+direct control over your animal
+companion and they will act during your
+
+112
+00:02:24,660 --> 00:02:24,670
+companion and they will act during your
+ 
+
+113
+00:02:24,670 --> 00:02:27,240
+companion and they will act during your
+turn in the initiative order you still
+
+114
+00:02:27,240 --> 00:02:27,250
+turn in the initiative order you still
+ 
+
+115
+00:02:27,250 --> 00:02:29,610
+turn in the initiative order you still
+need to use command and animal and issue
+
+116
+00:02:29,610 --> 00:02:29,620
+need to use command and animal and issue
+ 
+
+117
+00:02:29,620 --> 00:02:32,250
+need to use command and animal and issue
+a verbal command but this functions
+
+118
+00:02:32,250 --> 00:02:32,260
+a verbal command but this functions
+ 
+
+119
+00:02:32,260 --> 00:02:34,440
+a verbal command but this functions
+differently when used with an animal
+
+120
+00:02:34,440 --> 00:02:34,450
+differently when used with an animal
+ 
+
+121
+00:02:34,450 --> 00:02:37,350
+differently when used with an animal
+companion first there is no need to roll
+
+122
+00:02:37,350 --> 00:02:37,360
+companion first there is no need to roll
+ 
+
+123
+00:02:37,360 --> 00:02:38,940
+companion first there is no need to roll
+a nature check when using command an
+
+124
+00:02:38,940 --> 00:02:38,950
+a nature check when using command an
+ 
+
+125
+00:02:38,950 --> 00:02:41,910
+a nature check when using command an
+animal second you only need to spend one
+
+126
+00:02:41,910 --> 00:02:41,920
+animal second you only need to spend one
+ 
+
+127
+00:02:41,920 --> 00:02:43,920
+animal second you only need to spend one
+action when commanding your animal
+
+128
+00:02:43,920 --> 00:02:43,930
+action when commanding your animal
+ 
+
+129
+00:02:43,930 --> 00:02:46,710
+action when commanding your animal
+companion and third when you spend that
+
+130
+00:02:46,710 --> 00:02:46,720
+companion and third when you spend that
+ 
+
+131
+00:02:46,720 --> 00:02:49,140
+companion and third when you spend that
+one action on command and animal your
+
+132
+00:02:49,140 --> 00:02:49,150
+one action on command and animal your
+ 
+
+133
+00:02:49,150 --> 00:02:52,020
+one action on command and animal your
+companion gains to actions that they can
+
+134
+00:02:52,020 --> 00:02:52,030
+companion gains to actions that they can
+ 
+
+135
+00:02:52,030 --> 00:02:54,479
+companion gains to actions that they can
+spend during the same turn animal
+
+136
+00:02:54,479 --> 00:02:54,489
+spend during the same turn animal
+ 
+
+137
+00:02:54,489 --> 00:02:56,640
+spend during the same turn animal
+companions are completely limited to
+
+138
+00:02:56,640 --> 00:02:56,650
+companions are completely limited to
+ 
+
+139
+00:02:56,650 --> 00:02:59,520
+companions are completely limited to
+those two actions they do not receive
+
+140
+00:02:59,520 --> 00:02:59,530
+those two actions they do not receive
+ 
+
+141
+00:02:59,530 --> 00:03:01,410
+those two actions they do not receive
+three actions per turn like most
+
+142
+00:03:01,410 --> 00:03:01,420
+three actions per turn like most
+ 
+
+143
+00:03:01,420 --> 00:03:04,050
+three actions per turn like most
+creatures during combat your animal
+
+144
+00:03:04,050 --> 00:03:04,060
+creatures during combat your animal
+ 
+
+145
+00:03:04,060 --> 00:03:06,360
+creatures during combat your animal
+companion begins each turn with zero
+
+146
+00:03:06,360 --> 00:03:06,370
+companion begins each turn with zero
+ 
+
+147
+00:03:06,370 --> 00:03:09,900
+companion begins each turn with zero
+actions and no reactions either you must
+
+148
+00:03:09,900 --> 00:03:09,910
+actions and no reactions either you must
+ 
+
+149
+00:03:09,910 --> 00:03:11,910
+actions and no reactions either you must
+use command and animal to give that
+
+150
+00:03:11,910 --> 00:03:11,920
+use command and animal to give that
+ 
+
+151
+00:03:11,920 --> 00:03:14,069
+use command and animal to give that
+companion two actions for it to spend
+
+152
+00:03:14,069 --> 00:03:14,079
+companion two actions for it to spend
+ 
+
+153
+00:03:14,079 --> 00:03:16,440
+companion two actions for it to spend
+during that turn if you don't use
+
+154
+00:03:16,440 --> 00:03:16,450
+during that turn if you don't use
+ 
+
+155
+00:03:16,450 --> 00:03:18,479
+during that turn if you don't use
+command an animal then the companion
+
+156
+00:03:18,479 --> 00:03:18,489
+command an animal then the companion
+ 
+
+157
+00:03:18,489 --> 00:03:21,330
+command an animal then the companion
+will only defend itself or move away to
+
+158
+00:03:21,330 --> 00:03:21,340
+will only defend itself or move away to
+ 
+
+159
+00:03:21,340 --> 00:03:24,809
+will only defend itself or move away to
+avoid obvious harm as the GM decides is
+
+160
+00:03:24,809 --> 00:03:24,819
+avoid obvious harm as the GM decides is
+ 
+
+161
+00:03:24,819 --> 00:03:27,479
+avoid obvious harm as the GM decides is
+appropriate otherwise they just sit
+
+162
+00:03:27,479 --> 00:03:27,489
+appropriate otherwise they just sit
+ 
+
+163
+00:03:27,489 --> 00:03:29,879
+appropriate otherwise they just sit
+there waiting for your next command and
+
+164
+00:03:29,879 --> 00:03:29,889
+there waiting for your next command and
+ 
+
+165
+00:03:29,889 --> 00:03:32,940
+there waiting for your next command and
+if a full minute passes without you
+
+166
+00:03:32,940 --> 00:03:32,950
+if a full minute passes without you
+ 
+
+167
+00:03:32,950 --> 00:03:35,580
+if a full minute passes without you
+issuing a command then animal companions
+
+168
+00:03:35,580 --> 00:03:35,590
+issuing a command then animal companions
+ 
+
+169
+00:03:35,590 --> 00:03:37,319
+issuing a command then animal companions
+will stop waiting for your commands and
+
+170
+00:03:37,319 --> 00:03:37,329
+will stop waiting for your commands and
+ 
+
+171
+00:03:37,329 --> 00:03:40,500
+will stop waiting for your commands and
+begin following their own instincts this
+
+172
+00:03:40,500 --> 00:03:40,510
+begin following their own instincts this
+ 
+
+173
+00:03:40,510 --> 00:03:43,559
+begin following their own instincts this
+is a little hazy as to what it means in
+
+174
+00:03:43,559 --> 00:03:43,569
+is a little hazy as to what it means in
+ 
+
+175
+00:03:43,569 --> 00:03:45,839
+is a little hazy as to what it means in
+terms of combat but since combat
+
+176
+00:03:45,839 --> 00:03:45,849
+terms of combat but since combat
+ 
+
+177
+00:03:45,849 --> 00:03:48,089
+terms of combat but since combat
+encounters are unlikely to last over a
+
+178
+00:03:48,089 --> 00:03:48,099
+encounters are unlikely to last over a
+ 
+
+179
+00:03:48,099 --> 00:03:50,069
+encounters are unlikely to last over a
+minute I believe this provision is
+
+180
+00:03:50,069 --> 00:03:50,079
+minute I believe this provision is
+ 
+
+181
+00:03:50,079 --> 00:03:51,990
+minute I believe this provision is
+simply meant to say that the animal
+
+182
+00:03:51,990 --> 00:03:52,000
+simply meant to say that the animal
+ 
+
+183
+00:03:52,000 --> 00:03:53,940
+simply meant to say that the animal
+companion will follow along and do
+
+184
+00:03:53,940 --> 00:03:53,950
+companion will follow along and do
+ 
+
+185
+00:03:53,950 --> 00:03:56,909
+companion will follow along and do
+animal-like things outside of combat
+
+186
+00:03:56,909 --> 00:03:56,919
+animal-like things outside of combat
+ 
+
+187
+00:03:56,919 --> 00:03:59,159
+animal-like things outside of combat
+without you needing the constantly to
+
+188
+00:03:59,159 --> 00:03:59,169
+without you needing the constantly to
+ 
+
+189
+00:03:59,169 --> 00:04:00,960
+without you needing the constantly to
+clear that you are issuing them orders
+
+190
+00:04:00,960 --> 00:04:00,970
+clear that you are issuing them orders
+ 
+
+191
+00:04:00,970 --> 00:04:03,839
+clear that you are issuing them orders
+and in a similar line of thought is
+
+192
+00:04:03,839 --> 00:04:03,849
+and in a similar line of thought is
+ 
+
+193
+00:04:03,849 --> 00:04:06,629
+and in a similar line of thought is
+worth noting that animal companions do
+
+194
+00:04:06,629 --> 00:04:06,639
+worth noting that animal companions do
+ 
+
+195
+00:04:06,639 --> 00:04:08,640
+worth noting that animal companions do
+not panic at the first sign of danger
+
+196
+00:04:08,640 --> 00:04:08,650
+not panic at the first sign of danger
+ 
+
+197
+00:04:08,650 --> 00:04:11,610
+not panic at the first sign of danger
+and therefore do not suffer the
+
+198
+00:04:11,610 --> 00:04:11,620
+and therefore do not suffer the
+ 
+
+199
+00:04:11,620 --> 00:04:14,339
+and therefore do not suffer the
+frightened for influen ditions at the
+
+200
+00:04:14,339 --> 00:04:14,349
+frightened for influen ditions at the
+ 
+
+201
+00:04:14,349 --> 00:04:17,009
+frightened for influen ditions at the
+start of combat like most other normal
+
+202
+00:04:17,009 --> 00:04:17,019
+start of combat like most other normal
+ 
+
+203
+00:04:17,019 --> 00:04:19,780
+start of combat like most other normal
+animals do
+
+204
+00:04:19,780 --> 00:04:19,790
+animals do
+ 
+
+205
+00:04:19,790 --> 00:04:21,730
+animals do
+to determine the stats for your
+
+206
+00:04:21,730 --> 00:04:21,740
+to determine the stats for your
+ 
+
+207
+00:04:21,740 --> 00:04:23,980
+to determine the stats for your
+companion you start by selecting a
+
+208
+00:04:23,980 --> 00:04:23,990
+companion you start by selecting a
+ 
+
+209
+00:04:23,990 --> 00:04:27,250
+companion you start by selecting a
+companion type this is the foundation
+
+210
+00:04:27,250 --> 00:04:27,260
+companion type this is the foundation
+ 
+
+211
+00:04:27,260 --> 00:04:30,000
+companion type this is the foundation
+for all of their scores and abilities a
+
+212
+00:04:30,000 --> 00:04:30,010
+for all of their scores and abilities a
+ 
+
+213
+00:04:30,010 --> 00:04:32,950
+for all of their scores and abilities a
+young animal companion has all of the
+
+214
+00:04:32,950 --> 00:04:32,960
+young animal companion has all of the
+ 
+
+215
+00:04:32,960 --> 00:04:35,770
+young animal companion has all of the
+scores listed in their companion type so
+
+216
+00:04:35,770 --> 00:04:35,780
+scores listed in their companion type so
+ 
+
+217
+00:04:35,780 --> 00:04:39,160
+scores listed in their companion type so
+let's look at Badgers as an example it's
+
+218
+00:04:39,160 --> 00:04:39,170
+let's look at Badgers as an example it's
+ 
+
+219
+00:04:39,170 --> 00:04:42,370
+let's look at Badgers as an example it's
+a small sized animal it has to melee
+
+220
+00:04:42,370 --> 00:04:42,380
+a small sized animal it has to melee
+ 
+
+221
+00:04:42,380 --> 00:04:44,830
+a small sized animal it has to melee
+attack options both of which cost one
+
+222
+00:04:44,830 --> 00:04:44,840
+attack options both of which cost one
+ 
+
+223
+00:04:44,840 --> 00:04:47,350
+attack options both of which cost one
+action to perform companions have
+
+224
+00:04:47,350 --> 00:04:47,360
+action to perform companions have
+ 
+
+225
+00:04:47,360 --> 00:04:50,080
+action to perform companions have
+trained proficiency in unarmed attacks
+
+226
+00:04:50,080 --> 00:04:50,090
+trained proficiency in unarmed attacks
+ 
+
+227
+00:04:50,090 --> 00:04:53,050
+trained proficiency in unarmed attacks
+so at first level your Badger companion
+
+228
+00:04:53,050 --> 00:04:53,060
+so at first level your Badger companion
+ 
+
+229
+00:04:53,060 --> 00:04:55,930
+so at first level your Badger companion
+would have a +5 bonus for these attacks
+
+230
+00:04:55,930 --> 00:04:55,940
+would have a +5 bonus for these attacks
+ 
+
+231
+00:04:55,940 --> 00:04:59,200
+would have a +5 bonus for these attacks
+and would deal +2 damage thanks to their
+
+232
+00:04:59,200 --> 00:04:59,210
+and would deal +2 damage thanks to their
+ 
+
+233
+00:04:59,210 --> 00:05:02,050
+and would deal +2 damage thanks to their
+strength modifier the next line shows
+
+234
+00:05:02,050 --> 00:05:02,060
+strength modifier the next line shows
+ 
+
+235
+00:05:02,060 --> 00:05:05,560
+strength modifier the next line shows
+the companions ability modifiers the hit
+
+236
+00:05:05,560 --> 00:05:05,570
+the companions ability modifiers the hit
+ 
+
+237
+00:05:05,570 --> 00:05:07,870
+the companions ability modifiers the hit
+points that you see listed on the
+
+238
+00:05:07,870 --> 00:05:07,880
+points that you see listed on the
+ 
+
+239
+00:05:07,880 --> 00:05:11,140
+points that you see listed on the
+companion type block are not its total
+
+240
+00:05:11,140 --> 00:05:11,150
+companion type block are not its total
+ 
+
+241
+00:05:11,150 --> 00:05:14,380
+companion type block are not its total
+hit points instead this entry shows the
+
+242
+00:05:14,380 --> 00:05:14,390
+hit points instead this entry shows the
+ 
+
+243
+00:05:14,390 --> 00:05:17,320
+hit points instead this entry shows the
+companions ancestry hit points all
+
+244
+00:05:17,320 --> 00:05:17,330
+companions ancestry hit points all
+ 
+
+245
+00:05:17,330 --> 00:05:20,710
+companions ancestry hit points all
+animal companions gain 6 hit points plus
+
+246
+00:05:20,710 --> 00:05:20,720
+animal companions gain 6 hit points plus
+ 
+
+247
+00:05:20,720 --> 00:05:23,890
+animal companions gain 6 hit points plus
+their Constitution modifier per your
+
+248
+00:05:23,890 --> 00:05:23,900
+their Constitution modifier per your
+ 
+
+249
+00:05:23,900 --> 00:05:26,770
+their Constitution modifier per your
+level in experience in addition to those
+
+250
+00:05:26,770 --> 00:05:26,780
+level in experience in addition to those
+ 
+
+251
+00:05:26,780 --> 00:05:29,740
+level in experience in addition to those
+ancestry hit points so a first-level
+
+252
+00:05:29,740 --> 00:05:29,750
+ancestry hit points so a first-level
+ 
+
+253
+00:05:29,750 --> 00:05:32,890
+ancestry hit points so a first-level
+badger animal companion has 16 hit
+
+254
+00:05:32,890 --> 00:05:32,900
+badger animal companion has 16 hit
+ 
+
+255
+00:05:32,900 --> 00:05:35,770
+badger animal companion has 16 hit
+points they get eight ancestry hit
+
+256
+00:05:35,770 --> 00:05:35,780
+points they get eight ancestry hit
+ 
+
+257
+00:05:35,780 --> 00:05:37,300
+points they get eight ancestry hit
+points that you see they are listed in
+
+258
+00:05:37,300 --> 00:05:37,310
+points that you see they are listed in
+ 
+
+259
+00:05:37,310 --> 00:05:40,360
+points that you see they are listed in
+their companion type plus 6 for first
+
+260
+00:05:40,360 --> 00:05:40,370
+their companion type plus 6 for first
+ 
+
+261
+00:05:40,370 --> 00:05:43,330
+their companion type plus 6 for first
+level plus two more for its constitution
+
+262
+00:05:43,330 --> 00:05:43,340
+level plus two more for its constitution
+ 
+
+263
+00:05:43,340 --> 00:05:46,300
+level plus two more for its constitution
+modifier each companion type also
+
+264
+00:05:46,300 --> 00:05:46,310
+modifier each companion type also
+ 
+
+265
+00:05:46,310 --> 00:05:48,490
+modifier each companion type also
+receives training proficiency in one
+
+266
+00:05:48,490 --> 00:05:48,500
+receives training proficiency in one
+ 
+
+267
+00:05:48,500 --> 00:05:52,510
+receives training proficiency in one
+skill this is in addition to acrobatics
+
+268
+00:05:52,510 --> 00:05:52,520
+skill this is in addition to acrobatics
+ 
+
+269
+00:05:52,520 --> 00:05:55,270
+skill this is in addition to acrobatics
+and athletics which all companions have
+
+270
+00:05:55,270 --> 00:05:55,280
+and athletics which all companions have
+ 
+
+271
+00:05:55,280 --> 00:05:58,360
+and athletics which all companions have
+trained proficiency in by default the
+
+272
+00:05:58,360 --> 00:05:58,370
+trained proficiency in by default the
+ 
+
+273
+00:05:58,370 --> 00:06:00,520
+trained proficiency in by default the
+rest of the companion type entry details
+
+274
+00:06:00,520 --> 00:06:00,530
+rest of the companion type entry details
+ 
+
+275
+00:06:00,530 --> 00:06:03,460
+rest of the companion type entry details
+the companion senses their speed and
+
+276
+00:06:03,460 --> 00:06:03,470
+the companion senses their speed and
+ 
+
+277
+00:06:03,470 --> 00:06:05,680
+the companion senses their speed and
+support ability which we'll talk about
+
+278
+00:06:05,680 --> 00:06:05,690
+support ability which we'll talk about
+ 
+
+279
+00:06:05,690 --> 00:06:08,590
+support ability which we'll talk about
+in just a moment the last line of the
+
+280
+00:06:08,590 --> 00:06:08,600
+in just a moment the last line of the
+ 
+
+281
+00:06:08,600 --> 00:06:10,720
+in just a moment the last line of the
+companion type entry shows their
+
+282
+00:06:10,720 --> 00:06:10,730
+companion type entry shows their
+ 
+
+283
+00:06:10,730 --> 00:06:13,360
+companion type entry shows their
+advanced maneuver these advanced
+
+284
+00:06:13,360 --> 00:06:13,370
+advanced maneuver these advanced
+ 
+
+285
+00:06:13,370 --> 00:06:15,880
+advanced maneuver these advanced
+maneuvers are not available at first
+
+286
+00:06:15,880 --> 00:06:15,890
+maneuvers are not available at first
+ 
+
+287
+00:06:15,890 --> 00:06:18,550
+maneuvers are not available at first
+level and must be gained through special
+
+288
+00:06:18,550 --> 00:06:18,560
+level and must be gained through special
+ 
+
+289
+00:06:18,560 --> 00:06:21,730
+level and must be gained through special
+feats this still leaves a few items that
+
+290
+00:06:21,730 --> 00:06:21,740
+feats this still leaves a few items that
+ 
+
+291
+00:06:21,740 --> 00:06:23,680
+feats this still leaves a few items that
+you will need to calculate for yourself
+
+292
+00:06:23,680 --> 00:06:23,690
+you will need to calculate for yourself
+ 
+
+293
+00:06:23,690 --> 00:06:26,620
+you will need to calculate for yourself
+all animal companions are trained in
+
+294
+00:06:26,620 --> 00:06:26,630
+all animal companions are trained in
+ 
+
+295
+00:06:26,630 --> 00:06:29,500
+all animal companions are trained in
+unarmed defense so a first level badger
+
+296
+00:06:29,500 --> 00:06:29,510
+unarmed defense so a first level badger
+ 
+
+297
+00:06:29,510 --> 00:06:32,920
+unarmed defense so a first level badger
+companion has an armor class of 15
+
+298
+00:06:32,920 --> 00:06:32,930
+companion has an armor class of 15
+ 
+
+299
+00:06:32,930 --> 00:06:35,080
+companion has an armor class of 15
+they also have trained proficiency in
+
+300
+00:06:35,080 --> 00:06:35,090
+they also have trained proficiency in
+ 
+
+301
+00:06:35,090 --> 00:06:38,260
+they also have trained proficiency in
+both light and heavy boarding companions
+
+302
+00:06:38,260 --> 00:06:38,270
+both light and heavy boarding companions
+ 
+
+303
+00:06:38,270 --> 00:06:40,480
+both light and heavy boarding companions
+are also trained in all three saving
+
+304
+00:06:40,480 --> 00:06:40,490
+are also trained in all three saving
+ 
+
+305
+00:06:40,490 --> 00:06:42,969
+are also trained in all three saving
+throws so in the case of a badger
+
+306
+00:06:42,969 --> 00:06:42,979
+throws so in the case of a badger
+ 
+
+307
+00:06:42,979 --> 00:06:45,310
+throws so in the case of a badger
+companion they would have plus five in
+
+308
+00:06:45,310 --> 00:06:45,320
+companion they would have plus five in
+ 
+
+309
+00:06:45,320 --> 00:06:47,980
+companion they would have plus five in
+each of those and they are also trained
+
+310
+00:06:47,980 --> 00:06:47,990
+each of those and they are also trained
+ 
+
+311
+00:06:47,990 --> 00:06:50,409
+each of those and they are also trained
+in perception which in the case of the
+
+312
+00:06:50,409 --> 00:06:50,419
+in perception which in the case of the
+ 
+
+313
+00:06:50,419 --> 00:06:52,779
+in perception which in the case of the
+badger here would again be plus five at
+
+314
+00:06:52,779 --> 00:06:52,789
+badger here would again be plus five at
+ 
+
+315
+00:06:52,789 --> 00:06:53,590
+badger here would again be plus five at
+first level
+
+316
+00:06:53,590 --> 00:06:53,600
+first level
+ 
+
+317
+00:06:53,600 --> 00:06:57,279
+first level
+so this is where companions start but as
+
+318
+00:06:57,279 --> 00:06:57,289
+so this is where companions start but as
+ 
+
+319
+00:06:57,289 --> 00:06:59,770
+so this is where companions start but as
+you level up there are feats available
+
+320
+00:06:59,770 --> 00:06:59,780
+you level up there are feats available
+ 
+
+321
+00:06:59,780 --> 00:07:03,730
+you level up there are feats available
+to enhance your companions even further
+
+322
+00:07:03,730 --> 00:07:03,740
+
+ 
+
+323
+00:07:03,740 --> 00:07:06,370
+
+most animal companions begin as young
+
+324
+00:07:06,370 --> 00:07:06,380
+most animal companions begin as young
+ 
+
+325
+00:07:06,380 --> 00:07:08,860
+most animal companions begin as young
+animals advancing your animal companion
+
+326
+00:07:08,860 --> 00:07:08,870
+animals advancing your animal companion
+ 
+
+327
+00:07:08,870 --> 00:07:11,350
+animals advancing your animal companion
+from young to mature requires the use of
+
+328
+00:07:11,350 --> 00:07:11,360
+from young to mature requires the use of
+ 
+
+329
+00:07:11,360 --> 00:07:14,020
+from young to mature requires the use of
+a special feat in the case of Druids for
+
+330
+00:07:14,020 --> 00:07:14,030
+a special feat in the case of Druids for
+ 
+
+331
+00:07:14,030 --> 00:07:15,970
+a special feat in the case of Druids for
+example this is the very aptly named
+
+332
+00:07:15,970 --> 00:07:15,980
+example this is the very aptly named
+ 
+
+333
+00:07:15,980 --> 00:07:19,420
+example this is the very aptly named
+mature animal companion feet mature
+
+334
+00:07:19,420 --> 00:07:19,430
+mature animal companion feet mature
+ 
+
+335
+00:07:19,430 --> 00:07:21,160
+mature animal companion feet mature
+companions increase their strength
+
+336
+00:07:21,160 --> 00:07:21,170
+companions increase their strength
+ 
+
+337
+00:07:21,170 --> 00:07:23,890
+companions increase their strength
+dexterity Constitution and wisdom
+
+338
+00:07:23,890 --> 00:07:23,900
+dexterity Constitution and wisdom
+ 
+
+339
+00:07:23,900 --> 00:07:27,430
+dexterity Constitution and wisdom
+modifiers by one their unarmed attack
+
+340
+00:07:27,430 --> 00:07:27,440
+modifiers by one their unarmed attack
+ 
+
+341
+00:07:27,440 --> 00:07:30,100
+modifiers by one their unarmed attack
+damages increase from one die to two
+
+342
+00:07:30,100 --> 00:07:30,110
+damages increase from one die to two
+ 
+
+343
+00:07:30,110 --> 00:07:32,680
+damages increase from one die to two
+dice and their proficiency levels in
+
+344
+00:07:32,680 --> 00:07:32,690
+dice and their proficiency levels in
+ 
+
+345
+00:07:32,690 --> 00:07:34,960
+dice and their proficiency levels in
+perception and all of their saving
+
+346
+00:07:34,960 --> 00:07:34,970
+perception and all of their saving
+ 
+
+347
+00:07:34,970 --> 00:07:38,130
+perception and all of their saving
+throws increased from trained to expert
+
+348
+00:07:38,130 --> 00:07:38,140
+throws increased from trained to expert
+ 
+
+349
+00:07:38,140 --> 00:07:40,620
+throws increased from trained to expert
+they gain training proficiency in
+
+350
+00:07:40,620 --> 00:07:40,630
+they gain training proficiency in
+ 
+
+351
+00:07:40,630 --> 00:07:44,440
+they gain training proficiency in
+intimidation stealth and survival if the
+
+352
+00:07:44,440 --> 00:07:44,450
+intimidation stealth and survival if the
+ 
+
+353
+00:07:44,450 --> 00:07:46,660
+intimidation stealth and survival if the
+animal companion already had training in
+
+354
+00:07:46,660 --> 00:07:46,670
+animal companion already had training in
+ 
+
+355
+00:07:46,670 --> 00:07:48,700
+animal companion already had training in
+one of their skills then that skill
+
+356
+00:07:48,700 --> 00:07:48,710
+one of their skills then that skill
+ 
+
+357
+00:07:48,710 --> 00:07:51,850
+one of their skills then that skill
+gains expert proficiency instead and if
+
+358
+00:07:51,850 --> 00:07:51,860
+gains expert proficiency instead and if
+ 
+
+359
+00:07:51,860 --> 00:07:54,460
+gains expert proficiency instead and if
+the animal companion is size medium or
+
+360
+00:07:54,460 --> 00:07:54,470
+the animal companion is size medium or
+ 
+
+361
+00:07:54,470 --> 00:07:59,480
+the animal companion is size medium or
+smaller then it grows one size
+
+362
+00:07:59,480 --> 00:07:59,490
+
+ 
+
+363
+00:07:59,490 --> 00:08:01,999
+
+once an animal companion is mature it
+
+364
+00:08:01,999 --> 00:08:02,009
+once an animal companion is mature it
+ 
+
+365
+00:08:02,009 --> 00:08:04,610
+once an animal companion is mature it
+can advance again to become either a
+
+366
+00:08:04,610 --> 00:08:04,620
+can advance again to become either a
+ 
+
+367
+00:08:04,620 --> 00:08:09,140
+can advance again to become either a
+nimble or savage animal companion nimble
+
+368
+00:08:09,140 --> 00:08:09,150
+nimble or savage animal companion nimble
+ 
+
+369
+00:08:09,150 --> 00:08:10,969
+nimble or savage animal companion nimble
+companions increase their dexterity
+
+370
+00:08:10,969 --> 00:08:10,979
+companions increase their dexterity
+ 
+
+371
+00:08:10,979 --> 00:08:13,629
+companions increase their dexterity
+modifier by two and their strength
+
+372
+00:08:13,629 --> 00:08:13,639
+modifier by two and their strength
+ 
+
+373
+00:08:13,639 --> 00:08:16,640
+modifier by two and their strength
+Constitution and wisdom modifiers by one
+
+374
+00:08:16,640 --> 00:08:16,650
+Constitution and wisdom modifiers by one
+ 
+
+375
+00:08:16,650 --> 00:08:19,309
+Constitution and wisdom modifiers by one
+they deal an extra two points of damage
+
+376
+00:08:19,309 --> 00:08:19,319
+they deal an extra two points of damage
+ 
+
+377
+00:08:19,319 --> 00:08:21,860
+they deal an extra two points of damage
+with their unarmed attacks and gain
+
+378
+00:08:21,860 --> 00:08:21,870
+with their unarmed attacks and gain
+ 
+
+379
+00:08:21,870 --> 00:08:24,260
+with their unarmed attacks and gain
+expert proficiency in acrobatics and
+
+380
+00:08:24,260 --> 00:08:24,270
+expert proficiency in acrobatics and
+ 
+
+381
+00:08:24,270 --> 00:08:27,800
+expert proficiency in acrobatics and
+unarmored defense savage companions
+
+382
+00:08:27,800 --> 00:08:27,810
+unarmored defense savage companions
+ 
+
+383
+00:08:27,810 --> 00:08:29,749
+unarmored defense savage companions
+increase their strength modifier by two
+
+384
+00:08:29,749 --> 00:08:29,759
+increase their strength modifier by two
+ 
+
+385
+00:08:29,759 --> 00:08:32,779
+increase their strength modifier by two
+and their dexterity Constitution and
+
+386
+00:08:32,779 --> 00:08:32,789
+and their dexterity Constitution and
+ 
+
+387
+00:08:32,789 --> 00:08:36,050
+and their dexterity Constitution and
+wisdom modifiers by one they also deal
+
+388
+00:08:36,050 --> 00:08:36,060
+wisdom modifiers by one they also deal
+ 
+
+389
+00:08:36,060 --> 00:08:38,360
+wisdom modifiers by one they also deal
+an extra three points of damage with
+
+390
+00:08:38,360 --> 00:08:38,370
+an extra three points of damage with
+ 
+
+391
+00:08:38,370 --> 00:08:41,329
+an extra three points of damage with
+their unarmed attacks and gain expert
+
+392
+00:08:41,329 --> 00:08:41,339
+their unarmed attacks and gain expert
+ 
+
+393
+00:08:41,339 --> 00:08:44,180
+their unarmed attacks and gain expert
+proficiency in athletics savage
+
+394
+00:08:44,180 --> 00:08:44,190
+proficiency in athletics savage
+ 
+
+395
+00:08:44,190 --> 00:08:47,000
+proficiency in athletics savage
+companions also grow one size category
+
+396
+00:08:47,000 --> 00:08:47,010
+companions also grow one size category
+ 
+
+397
+00:08:47,010 --> 00:08:49,730
+companions also grow one size category
+if they are a medium or smaller as
+
+398
+00:08:49,730 --> 00:08:49,740
+if they are a medium or smaller as
+ 
+
+399
+00:08:49,740 --> 00:08:53,750
+if they are a medium or smaller as
+mature companions both nimble and savage
+
+400
+00:08:53,750 --> 00:08:53,760
+mature companions both nimble and savage
+ 
+
+401
+00:08:53,760 --> 00:08:56,540
+mature companions both nimble and savage
+companions also gain the advanced
+
+402
+00:08:56,540 --> 00:08:56,550
+companions also gain the advanced
+ 
+
+403
+00:08:56,550 --> 00:08:58,040
+companions also gain the advanced
+maneuver that is listed with their
+
+404
+00:08:58,040 --> 00:08:58,050
+maneuver that is listed with their
+ 
+
+405
+00:08:58,050 --> 00:09:00,800
+maneuver that is listed with their
+companion type and their attacks are now
+
+406
+00:09:00,800 --> 00:09:00,810
+companion type and their attacks are now
+ 
+
+407
+00:09:00,810 --> 00:09:03,410
+companion type and their attacks are now
+treated as magical for the purposes of
+
+408
+00:09:03,410 --> 00:09:03,420
+treated as magical for the purposes of
+ 
+
+409
+00:09:03,420 --> 00:09:06,840
+treated as magical for the purposes of
+ignoring resistances
+
+410
+00:09:06,840 --> 00:09:06,850
+ignoring resistances
+ 
+
+411
+00:09:06,850 --> 00:09:09,480
+ignoring resistances
+animal companions also have special
+
+412
+00:09:09,480 --> 00:09:09,490
+animal companions also have special
+ 
+
+413
+00:09:09,490 --> 00:09:11,939
+animal companions also have special
+support abilities that are determined by
+
+414
+00:09:11,939 --> 00:09:11,949
+support abilities that are determined by
+ 
+
+415
+00:09:11,949 --> 00:09:14,999
+support abilities that are determined by
+their companion type using support only
+
+416
+00:09:14,999 --> 00:09:15,009
+their companion type using support only
+ 
+
+417
+00:09:15,009 --> 00:09:17,879
+their companion type using support only
+costs one of the companions two actions
+
+418
+00:09:17,879 --> 00:09:17,889
+costs one of the companions two actions
+ 
+
+419
+00:09:17,889 --> 00:09:20,340
+costs one of the companions two actions
+but you are greatly limited in how you
+
+420
+00:09:20,340 --> 00:09:20,350
+but you are greatly limited in how you
+ 
+
+421
+00:09:20,350 --> 00:09:23,610
+but you are greatly limited in how you
+can spin the other action basically if
+
+422
+00:09:23,610 --> 00:09:23,620
+can spin the other action basically if
+ 
+
+423
+00:09:23,620 --> 00:09:26,220
+can spin the other action basically if
+you want to use the support ability the
+
+424
+00:09:26,220 --> 00:09:26,230
+you want to use the support ability the
+ 
+
+425
+00:09:26,230 --> 00:09:28,800
+you want to use the support ability the
+companion can either use support and do
+
+426
+00:09:28,800 --> 00:09:28,810
+companion can either use support and do
+ 
+
+427
+00:09:28,810 --> 00:09:31,350
+companion can either use support and do
+nothing else that turn or they can spend
+
+428
+00:09:31,350 --> 00:09:31,360
+nothing else that turn or they can spend
+ 
+
+429
+00:09:31,360 --> 00:09:34,259
+nothing else that turn or they can spend
+an action to move and then use their
+
+430
+00:09:34,259 --> 00:09:34,269
+an action to move and then use their
+ 
+
+431
+00:09:34,269 --> 00:09:37,079
+an action to move and then use their
+support ability they cannot use their
+
+432
+00:09:37,079 --> 00:09:37,089
+support ability they cannot use their
+ 
+
+433
+00:09:37,089 --> 00:09:40,259
+support ability they cannot use their
+support ability and then move what
+
+434
+00:09:40,259 --> 00:09:40,269
+support ability and then move what
+ 
+
+435
+00:09:40,269 --> 00:09:42,629
+support ability and then move what
+happens when support is used varies from
+
+436
+00:09:42,629 --> 00:09:42,639
+happens when support is used varies from
+ 
+
+437
+00:09:42,639 --> 00:09:44,879
+happens when support is used varies from
+animal to animal but let's take a look
+
+438
+00:09:44,879 --> 00:09:44,889
+animal to animal but let's take a look
+ 
+
+439
+00:09:44,889 --> 00:09:47,699
+animal to animal but let's take a look
+again at the Badger step block here it
+
+440
+00:09:47,699 --> 00:09:47,709
+again at the Badger step block here it
+ 
+
+441
+00:09:47,709 --> 00:09:49,559
+again at the Badger step block here it
+says that if you use the support action
+
+442
+00:09:49,559 --> 00:09:49,569
+says that if you use the support action
+ 
+
+443
+00:09:49,569 --> 00:09:52,290
+says that if you use the support action
+hit and deal damage to an enemy being
+
+444
+00:09:52,290 --> 00:09:52,300
+hit and deal damage to an enemy being
+ 
+
+445
+00:09:52,300 --> 00:09:55,019
+hit and deal damage to an enemy being
+threatened by the Badger then that enemy
+
+446
+00:09:55,019 --> 00:09:55,029
+threatened by the Badger then that enemy
+ 
+
+447
+00:09:55,029 --> 00:09:57,600
+threatened by the Badger then that enemy
+cannot use the step action until the
+
+448
+00:09:57,600 --> 00:09:57,610
+cannot use the step action until the
+ 
+
+449
+00:09:57,610 --> 00:09:59,280
+cannot use the step action until the
+start of your next turn
+
+450
+00:09:59,280 --> 00:09:59,290
+start of your next turn
+ 
+
+451
+00:09:59,290 --> 00:10:02,879
+start of your next turn
+check out pages 215 and 216 to see each
+
+452
+00:10:02,879 --> 00:10:02,889
+check out pages 215 and 216 to see each
+ 
+
+453
+00:10:02,889 --> 00:10:05,249
+check out pages 215 and 216 to see each
+companion type and their support
+
+454
+00:10:05,249 --> 00:10:05,259
+companion type and their support
+ 
+
+455
+00:10:05,259 --> 00:10:07,989
+companion type and their support
+abilities
+
+456
+00:10:07,989 --> 00:10:07,999
+
+ 
+
+457
+00:10:07,999 --> 00:10:10,239
+
+all animal companions maybe written by
+
+458
+00:10:10,239 --> 00:10:10,249
+all animal companions maybe written by
+ 
+
+459
+00:10:10,249 --> 00:10:12,879
+all animal companions maybe written by
+you or an ally if they are at least one
+
+460
+00:10:12,879 --> 00:10:12,889
+you or an ally if they are at least one
+ 
+
+461
+00:10:12,889 --> 00:10:15,249
+you or an ally if they are at least one
+size category larger than the person
+
+462
+00:10:15,249 --> 00:10:15,259
+size category larger than the person
+ 
+
+463
+00:10:15,259 --> 00:10:17,769
+size category larger than the person
+wanting to write them but unless the
+
+464
+00:10:17,769 --> 00:10:17,779
+wanting to write them but unless the
+ 
+
+465
+00:10:17,779 --> 00:10:20,169
+wanting to write them but unless the
+companion has the amount special ability
+
+466
+00:10:20,169 --> 00:10:20,179
+companion has the amount special ability
+ 
+
+467
+00:10:20,179 --> 00:10:22,839
+companion has the amount special ability
+there are a few limitations to be aware
+
+468
+00:10:22,839 --> 00:10:22,849
+there are a few limitations to be aware
+ 
+
+469
+00:10:22,849 --> 00:10:25,659
+there are a few limitations to be aware
+of when an animal companion is carrying
+
+470
+00:10:25,659 --> 00:10:25,669
+of when an animal companion is carrying
+ 
+
+471
+00:10:25,669 --> 00:10:28,599
+of when an animal companion is carrying
+a rider it can only use its land speed
+
+472
+00:10:28,599 --> 00:10:28,609
+a rider it can only use its land speed
+ 
+
+473
+00:10:28,609 --> 00:10:31,569
+a rider it can only use its land speed
+so for example if your animal companion
+
+474
+00:10:31,569 --> 00:10:31,579
+so for example if your animal companion
+ 
+
+475
+00:10:31,579 --> 00:10:33,969
+so for example if your animal companion
+was a giant badger it would be possible
+
+476
+00:10:33,969 --> 00:10:33,979
+was a giant badger it would be possible
+ 
+
+477
+00:10:33,979 --> 00:10:36,609
+was a giant badger it would be possible
+to write it but you would be limited to
+
+478
+00:10:36,609 --> 00:10:36,619
+to write it but you would be limited to
+ 
+
+479
+00:10:36,619 --> 00:10:39,789
+to write it but you would be limited to
+his land speed of 25 it would not be
+
+480
+00:10:39,789 --> 00:10:39,799
+his land speed of 25 it would not be
+ 
+
+481
+00:10:39,799 --> 00:10:42,309
+his land speed of 25 it would not be
+able to use its climb speed with a
+
+482
+00:10:42,309 --> 00:10:42,319
+able to use its climb speed with a
+ 
+
+483
+00:10:42,319 --> 00:10:45,339
+able to use its climb speed with a
+character riding atop it and normally
+
+484
+00:10:45,339 --> 00:10:45,349
+character riding atop it and normally
+ 
+
+485
+00:10:45,349 --> 00:10:48,669
+character riding atop it and normally
+animal companions can move and then use
+
+486
+00:10:48,669 --> 00:10:48,679
+animal companions can move and then use
+ 
+
+487
+00:10:48,679 --> 00:10:50,829
+animal companions can move and then use
+their support ability on the same turn
+
+488
+00:10:50,829 --> 00:10:50,839
+their support ability on the same turn
+ 
+
+489
+00:10:50,839 --> 00:10:53,710
+their support ability on the same turn
+but while mounted an animal companion
+
+490
+00:10:53,710 --> 00:10:53,720
+but while mounted an animal companion
+ 
+
+491
+00:10:53,720 --> 00:10:57,009
+but while mounted an animal companion
+cannot do both if you want to use the
+
+492
+00:10:57,009 --> 00:10:57,019
+cannot do both if you want to use the
+ 
+
+493
+00:10:57,019 --> 00:10:59,169
+cannot do both if you want to use the
+animal support ability while mounted
+
+494
+00:10:59,169 --> 00:10:59,179
+animal support ability while mounted
+ 
+
+495
+00:10:59,179 --> 00:11:01,779
+animal support ability while mounted
+that will be the only thing that the
+
+496
+00:11:01,779 --> 00:11:01,789
+that will be the only thing that the
+ 
+
+497
+00:11:01,789 --> 00:11:03,969
+that will be the only thing that the
+animal companion does on your turn
+
+498
+00:11:03,969 --> 00:11:03,979
+animal companion does on your turn
+ 
+
+499
+00:11:03,979 --> 00:11:06,969
+animal companion does on your turn
+and again these restrictions only apply
+
+500
+00:11:06,969 --> 00:11:06,979
+and again these restrictions only apply
+ 
+
+501
+00:11:06,979 --> 00:11:09,279
+and again these restrictions only apply
+to animal companions that do not have
+
+502
+00:11:09,279 --> 00:11:09,289
+to animal companions that do not have
+ 
+
+503
+00:11:09,289 --> 00:11:11,829
+to animal companions that do not have
+the amount special ability companions
+
+504
+00:11:11,829 --> 00:11:11,839
+the amount special ability companions
+ 
+
+505
+00:11:11,839 --> 00:11:13,629
+the amount special ability companions
+with the mount special ability like
+
+506
+00:11:13,629 --> 00:11:13,639
+with the mount special ability like
+ 
+
+507
+00:11:13,639 --> 00:11:18,510
+with the mount special ability like
+horses ignore both of these limitations
+
+508
+00:11:18,510 --> 00:11:18,520
+horses ignore both of these limitations
+ 
+
+509
+00:11:18,520 --> 00:11:21,090
+horses ignore both of these limitations
+in this video we discussed the basics of
+
+510
+00:11:21,090 --> 00:11:21,100
+in this video we discussed the basics of
+ 
+
+511
+00:11:21,100 --> 00:11:24,060
+in this video we discussed the basics of
+animal companions as a reminder animal
+
+512
+00:11:24,060 --> 00:11:24,070
+animal companions as a reminder animal
+ 
+
+513
+00:11:24,070 --> 00:11:26,310
+animal companions as a reminder animal
+companions should not be confused with
+
+514
+00:11:26,310 --> 00:11:26,320
+companions should not be confused with
+ 
+
+515
+00:11:26,320 --> 00:11:29,880
+companions should not be confused with
+normal animals or animal familiars see
+
+516
+00:11:29,880 --> 00:11:29,890
+normal animals or animal familiars see
+ 
+
+517
+00:11:29,890 --> 00:11:31,770
+normal animals or animal familiars see
+our other videos that discuss those
+
+518
+00:11:31,770 --> 00:11:31,780
+our other videos that discuss those
+ 
+
+519
+00:11:31,780 --> 00:11:34,710
+our other videos that discuss those
+topics animal companions are loyal
+
+520
+00:11:34,710 --> 00:11:34,720
+topics animal companions are loyal
+ 
+
+521
+00:11:34,720 --> 00:11:36,930
+topics animal companions are loyal
+comrades that are controlled by players
+
+522
+00:11:36,930 --> 00:11:36,940
+comrades that are controlled by players
+ 
+
+523
+00:11:36,940 --> 00:11:40,290
+comrades that are controlled by players
+or NPCs they are most commonly thought
+
+524
+00:11:40,290 --> 00:11:40,300
+or NPCs they are most commonly thought
+ 
+
+525
+00:11:40,300 --> 00:11:42,930
+or NPCs they are most commonly thought
+of as partners for druids and Rangers
+
+526
+00:11:42,930 --> 00:11:42,940
+of as partners for druids and Rangers
+ 
+
+527
+00:11:42,940 --> 00:11:45,540
+of as partners for druids and Rangers
+but can also be a champions mount or
+
+528
+00:11:45,540 --> 00:11:45,550
+but can also be a champions mount or
+ 
+
+529
+00:11:45,550 --> 00:11:48,720
+but can also be a champions mount or
+other significant animal friend animal
+
+530
+00:11:48,720 --> 00:11:48,730
+other significant animal friend animal
+ 
+
+531
+00:11:48,730 --> 00:11:50,520
+other significant animal friend animal
+companions are gained through class
+
+532
+00:11:50,520 --> 00:11:50,530
+companions are gained through class
+ 
+
+533
+00:11:50,530 --> 00:11:53,640
+companions are gained through class
+feats their hip points and proficiencies
+
+534
+00:11:53,640 --> 00:11:53,650
+feats their hip points and proficiencies
+ 
+
+535
+00:11:53,650 --> 00:11:57,090
+feats their hip points and proficiencies
+increase as the player gains levels when
+
+536
+00:11:57,090 --> 00:11:57,100
+increase as the player gains levels when
+ 
+
+537
+00:11:57,100 --> 00:11:59,400
+increase as the player gains levels when
+an animal companion dies it may be
+
+538
+00:11:59,400 --> 00:11:59,410
+an animal companion dies it may be
+ 
+
+539
+00:11:59,410 --> 00:12:01,910
+an animal companion dies it may be
+replaced with one week of downtime
+
+540
+00:12:01,910 --> 00:12:01,920
+replaced with one week of downtime
+ 
+
+541
+00:12:01,920 --> 00:12:04,440
+replaced with one week of downtime
+animal companions have the minion trait
+
+542
+00:12:04,440 --> 00:12:04,450
+animal companions have the minion trait
+ 
+
+543
+00:12:04,450 --> 00:12:07,380
+animal companions have the minion trait
+each round players must spend one action
+
+544
+00:12:07,380 --> 00:12:07,390
+each round players must spend one action
+ 
+
+545
+00:12:07,390 --> 00:12:09,750
+each round players must spend one action
+on command and animal to grant their
+
+546
+00:12:09,750 --> 00:12:09,760
+on command and animal to grant their
+ 
+
+547
+00:12:09,760 --> 00:12:12,090
+on command and animal to grant their
+companion to actions to be spent during
+
+548
+00:12:12,090 --> 00:12:12,100
+companion to actions to be spent during
+ 
+
+549
+00:12:12,100 --> 00:12:14,460
+companion to actions to be spent during
+the same turn if the player does not
+
+550
+00:12:14,460 --> 00:12:14,470
+the same turn if the player does not
+ 
+
+551
+00:12:14,470 --> 00:12:16,680
+the same turn if the player does not
+spend an action on command an animal to
+
+552
+00:12:16,680 --> 00:12:16,690
+spend an action on command an animal to
+ 
+
+553
+00:12:16,690 --> 00:12:19,050
+spend an action on command an animal to
+do this their companion will only defend
+
+554
+00:12:19,050 --> 00:12:19,060
+do this their companion will only defend
+ 
+
+555
+00:12:19,060 --> 00:12:21,240
+do this their companion will only defend
+themselves or move away from obvious
+
+556
+00:12:21,240 --> 00:12:21,250
+themselves or move away from obvious
+ 
+
+557
+00:12:21,250 --> 00:12:24,350
+themselves or move away from obvious
+danger as the GM believes is appropriate
+
+558
+00:12:24,350 --> 00:12:24,360
+danger as the GM believes is appropriate
+ 
+
+559
+00:12:24,360 --> 00:12:27,540
+danger as the GM believes is appropriate
+also animal companions have no reactions
+
+560
+00:12:27,540 --> 00:12:27,550
+also animal companions have no reactions
+ 
+
+561
+00:12:27,550 --> 00:12:30,290
+also animal companions have no reactions
+to spin on other people's terms and
+
+562
+00:12:30,290 --> 00:12:30,300
+to spin on other people's terms and
+ 
+
+563
+00:12:30,300 --> 00:12:32,610
+to spin on other people's terms and
+animal companions are immune to the
+
+564
+00:12:32,610 --> 00:12:32,620
+animal companions are immune to the
+ 
+
+565
+00:12:32,620 --> 00:12:34,830
+animal companions are immune to the
+panic that most animals face when they
+
+566
+00:12:34,830 --> 00:12:34,840
+panic that most animals face when they
+ 
+
+567
+00:12:34,840 --> 00:12:37,680
+panic that most animals face when they
+enter combat all of an animal companion
+
+568
+00:12:37,680 --> 00:12:37,690
+enter combat all of an animal companion
+ 
+
+569
+00:12:37,690 --> 00:12:40,230
+enter combat all of an animal companion
+stats are derived from their companion
+
+570
+00:12:40,230 --> 00:12:40,240
+stats are derived from their companion
+ 
+
+571
+00:12:40,240 --> 00:12:43,200
+stats are derived from their companion
+type each companion type has a special
+
+572
+00:12:43,200 --> 00:12:43,210
+type each companion type has a special
+ 
+
+573
+00:12:43,210 --> 00:12:44,850
+type each companion type has a special
+support ability that they get
+
+574
+00:12:44,850 --> 00:12:44,860
+support ability that they get
+ 
+
+575
+00:12:44,860 --> 00:12:47,610
+support ability that they get
+immediately and an advanced maneuver
+
+576
+00:12:47,610 --> 00:12:47,620
+immediately and an advanced maneuver
+ 
+
+577
+00:12:47,620 --> 00:12:49,880
+immediately and an advanced maneuver
+that must be gained through other feats
+
+578
+00:12:49,880 --> 00:12:49,890
+that must be gained through other feats
+ 
+
+579
+00:12:49,890 --> 00:12:52,920
+that must be gained through other feats
+when an animal companion is gained it is
+
+580
+00:12:52,920 --> 00:12:52,930
+when an animal companion is gained it is
+ 
+
+581
+00:12:52,930 --> 00:12:55,410
+when an animal companion is gained it is
+young another feat is required to
+
+582
+00:12:55,410 --> 00:12:55,420
+young another feat is required to
+ 
+
+583
+00:12:55,420 --> 00:12:58,290
+young another feat is required to
+advance the companion to maturity and a
+
+584
+00:12:58,290 --> 00:12:58,300
+advance the companion to maturity and a
+ 
+
+585
+00:12:58,300 --> 00:13:00,240
+advance the companion to maturity and a
+third feat may be taken to further
+
+586
+00:13:00,240 --> 00:13:00,250
+third feat may be taken to further
+ 
+
+587
+00:13:00,250 --> 00:13:02,190
+third feat may be taken to further
+improve the companion into either a
+
+588
+00:13:02,190 --> 00:13:02,200
+improve the companion into either a
+ 
+
+589
+00:13:02,200 --> 00:13:05,010
+improve the companion into either a
+nimble or savage companion
+
+590
+00:13:05,010 --> 00:13:05,020
+nimble or savage companion
+ 
+
+591
+00:13:05,020 --> 00:13:07,530
+nimble or savage companion
+if a companion supportability is used it
+
+592
+00:13:07,530 --> 00:13:07,540
+if a companion supportability is used it
+ 
+
+593
+00:13:07,540 --> 00:13:09,660
+if a companion supportability is used it
+can take no other actions that turn
+
+594
+00:13:09,660 --> 00:13:09,670
+can take no other actions that turn
+ 
+
+595
+00:13:09,670 --> 00:13:11,730
+can take no other actions that turn
+other than moving into position to
+
+596
+00:13:11,730 --> 00:13:11,740
+other than moving into position to
+ 
+
+597
+00:13:11,740 --> 00:13:14,700
+other than moving into position to
+perform the support ability in animal
+
+598
+00:13:14,700 --> 00:13:14,710
+perform the support ability in animal
+ 
+
+599
+00:13:14,710 --> 00:13:16,980
+perform the support ability in animal
+companions amay be ridden if they are at
+
+600
+00:13:16,980 --> 00:13:16,990
+companions amay be ridden if they are at
+ 
+
+601
+00:13:16,990 --> 00:13:19,620
+companions amay be ridden if they are at
+least one size category larger than the
+
+602
+00:13:19,620 --> 00:13:19,630
+least one size category larger than the
+ 
+
+603
+00:13:19,630 --> 00:13:21,870
+least one size category larger than the
+player but suffer a few restrictions
+
+604
+00:13:21,870 --> 00:13:21,880
+player but suffer a few restrictions
+ 
+
+605
+00:13:21,880 --> 00:13:24,450
+player but suffer a few restrictions
+unless they have the mount special
+
+606
+00:13:24,450 --> 00:13:24,460
+unless they have the mount special
+ 
+
+607
+00:13:24,460 --> 00:13:26,740
+unless they have the mount special
+ability
+
+608
+00:13:26,740 --> 00:13:26,750
+ability
+ 
+
+609
+00:13:26,750 --> 00:13:28,900
+ability
+before we close I'd like to take a
+
+610
+00:13:28,900 --> 00:13:28,910
+before we close I'd like to take a
+ 
+
+611
+00:13:28,910 --> 00:13:31,360
+before we close I'd like to take a
+moment to thank all of our patrons these
+
+612
+00:13:31,360 --> 00:13:31,370
+moment to thank all of our patrons these
+ 
+
+613
+00:13:31,370 --> 00:13:33,129
+moment to thank all of our patrons these
+videos would not be possible without
+
+614
+00:13:33,129 --> 00:13:33,139
+videos would not be possible without
+ 
+
+615
+00:13:33,139 --> 00:13:35,970
+videos would not be possible without
+their continued generosity and support
+
+616
+00:13:35,970 --> 00:13:35,980
+their continued generosity and support
+ 
+
+617
+00:13:35,980 --> 00:13:38,800
+their continued generosity and support
+members of the basics for gamers patreon
+
+618
+00:13:38,800 --> 00:13:38,810
+members of the basics for gamers patreon
+ 
+
+619
+00:13:38,810 --> 00:13:40,990
+members of the basics for gamers patreon
+community receive special benefits like
+
+620
+00:13:40,990 --> 00:13:41,000
+community receive special benefits like
+ 
+
+621
+00:13:41,000 --> 00:13:42,819
+community receive special benefits like
+getting the vote on the topics that we
+
+622
+00:13:42,819 --> 00:13:42,829
+getting the vote on the topics that we
+ 
+
+623
+00:13:42,829 --> 00:13:45,069
+getting the vote on the topics that we
+cover in the future and also they get to
+
+624
+00:13:45,069 --> 00:13:45,079
+cover in the future and also they get to
+ 
+
+625
+00:13:45,079 --> 00:13:47,559
+cover in the future and also they get to
+see these videos one week and ad-free
+
+626
+00:13:47,559 --> 00:13:47,569
+see these videos one week and ad-free
+ 
+
+627
+00:13:47,569 --> 00:13:50,949
+see these videos one week and ad-free
+before everybody else visit the links
+
+628
+00:13:50,949 --> 00:13:50,959
+before everybody else visit the links
+ 
+
+629
+00:13:50,959 --> 00:13:52,660
+before everybody else visit the links
+shown on the left of the screen and in
+
+630
+00:13:52,660 --> 00:13:52,670
+shown on the left of the screen and in
+ 
+
+631
+00:13:52,670 --> 00:13:54,129
+shown on the left of the screen and in
+the description if you'd like to know
+
+632
+00:13:54,129 --> 00:13:54,139
+the description if you'd like to know
+ 
+
+633
+00:13:54,139 --> 00:13:56,829
+the description if you'd like to know
+more about becoming a patron if you
+
+634
+00:13:56,829 --> 00:13:56,839
+more about becoming a patron if you
+ 
+
+635
+00:13:56,839 --> 00:13:58,179
+more about becoming a patron if you
+would like to support this channel and
+
+636
+00:13:58,179 --> 00:13:58,189
+would like to support this channel and
+ 
+
+637
+00:13:58,189 --> 00:14:00,129
+would like to support this channel and
+help it grow the easiest way to do that
+
+638
+00:14:00,129 --> 00:14:00,139
+help it grow the easiest way to do that
+ 
+
+639
+00:14:00,139 --> 00:14:02,889
+help it grow the easiest way to do that
+is by subscribing and clicking the bell
+
+640
+00:14:02,889 --> 00:14:02,899
+is by subscribing and clicking the bell
+ 
+
+641
+00:14:02,899 --> 00:14:05,410
+is by subscribing and clicking the bell
+icon so you get notified when new videos
+
+642
+00:14:05,410 --> 00:14:05,420
+icon so you get notified when new videos
+ 
+
+643
+00:14:05,420 --> 00:14:07,869
+icon so you get notified when new videos
+release and we can always be reached
+
+644
+00:14:07,869 --> 00:14:07,879
+release and we can always be reached
+ 
+
+645
+00:14:07,879 --> 00:14:09,160
+release and we can always be reached
+through our Twitter and Facebook pages
+
+646
+00:14:09,160 --> 00:14:09,170
+through our Twitter and Facebook pages
+ 
+
+647
+00:14:09,170 --> 00:14:12,280
+through our Twitter and Facebook pages
+too thanks for watching take care and we
+
+648
+00:14:12,280 --> 00:14:12,290
+too thanks for watching take care and we
+ 
+
+649
+00:14:12,290 --> 00:14:14,079
+too thanks for watching take care and we
+will see you soon with more basics of
+
+650
+00:14:14,079 --> 00:14:14,089
+will see you soon with more basics of
+ 
+
+651
+00:14:14,089 --> 00:14:16,689
+will see you soon with more basics of
+Pathfinder
+

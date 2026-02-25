@@ -1,0 +1,1795 @@
+1
+00:00:00,749 --> 00:00:03,200
+
+hello and welcome to basics for gamers
+
+2
+00:00:03,200 --> 00:00:03,210
+hello and welcome to basics for gamers
+ 
+
+3
+00:00:03,210 --> 00:00:05,659
+hello and welcome to basics for gamers
+presents the basics of flanking in
+
+4
+00:00:05,659 --> 00:00:05,669
+presents the basics of flanking in
+ 
+
+5
+00:00:05,669 --> 00:00:08,980
+presents the basics of flanking in
+pathfinders second edition
+
+6
+00:00:08,980 --> 00:00:08,990
+pathfinders second edition
+ 
+
+7
+00:00:08,990 --> 00:00:11,470
+pathfinders second edition
+flaking occurs when a creature has to
+
+8
+00:00:11,470 --> 00:00:11,480
+flaking occurs when a creature has to
+ 
+
+9
+00:00:11,480 --> 00:00:13,330
+flaking occurs when a creature has to
+defend itself from enemies on either
+
+10
+00:00:13,330 --> 00:00:13,340
+defend itself from enemies on either
+ 
+
+11
+00:00:13,340 --> 00:00:15,730
+defend itself from enemies on either
+side of it their attention is split
+
+12
+00:00:15,730 --> 00:00:15,740
+side of it their attention is split
+ 
+
+13
+00:00:15,740 --> 00:00:17,290
+side of it their attention is split
+which makes them more vulnerable to
+
+14
+00:00:17,290 --> 00:00:17,300
+which makes them more vulnerable to
+ 
+
+15
+00:00:17,300 --> 00:00:19,750
+which makes them more vulnerable to
+those who are threatening it a creature
+
+16
+00:00:19,750 --> 00:00:19,760
+those who are threatening it a creature
+ 
+
+17
+00:00:19,760 --> 00:00:22,480
+those who are threatening it a creature
+that is flanked receives the flat-footed
+
+18
+00:00:22,480 --> 00:00:22,490
+that is flanked receives the flat-footed
+ 
+
+19
+00:00:22,490 --> 00:00:24,880
+that is flanked receives the flat-footed
+condition which imposes a negative to
+
+20
+00:00:24,880 --> 00:00:24,890
+condition which imposes a negative to
+ 
+
+21
+00:00:24,890 --> 00:00:26,650
+condition which imposes a negative to
+circumstance penalty to their armor
+
+22
+00:00:26,650 --> 00:00:26,660
+circumstance penalty to their armor
+ 
+
+23
+00:00:26,660 --> 00:00:28,900
+circumstance penalty to their armor
+class it makes them vulnerable to other
+
+24
+00:00:28,900 --> 00:00:28,910
+class it makes them vulnerable to other
+ 
+
+25
+00:00:28,910 --> 00:00:31,569
+class it makes them vulnerable to other
+special attacks such as a rogue sneak
+
+26
+00:00:31,569 --> 00:00:31,579
+special attacks such as a rogue sneak
+ 
+
+27
+00:00:31,579 --> 00:00:34,710
+special attacks such as a rogue sneak
+attack but note a flint creature is only
+
+28
+00:00:34,710 --> 00:00:34,720
+attack but note a flint creature is only
+ 
+
+29
+00:00:34,720 --> 00:00:37,900
+attack but note a flint creature is only
+flat-footed against those specific
+
+30
+00:00:37,900 --> 00:00:37,910
+flat-footed against those specific
+ 
+
+31
+00:00:37,910 --> 00:00:40,450
+flat-footed against those specific
+enemies that flank it they do not suffer
+
+32
+00:00:40,450 --> 00:00:40,460
+enemies that flank it they do not suffer
+ 
+
+33
+00:00:40,460 --> 00:00:42,549
+enemies that flank it they do not suffer
+those penalties against enemies who are
+
+34
+00:00:42,549 --> 00:00:42,559
+those penalties against enemies who are
+ 
+
+35
+00:00:42,559 --> 00:00:45,639
+those penalties against enemies who are
+not flanking them so how do we determine
+
+36
+00:00:45,639 --> 00:00:45,649
+not flanking them so how do we determine
+ 
+
+37
+00:00:45,649 --> 00:00:47,910
+not flanking them so how do we determine
+if a creature is being flanked and
+
+38
+00:00:47,910 --> 00:00:47,920
+if a creature is being flanked and
+ 
+
+39
+00:00:47,920 --> 00:00:50,919
+if a creature is being flanked and
+exactly which of its enemies treat them
+
+40
+00:00:50,919 --> 00:00:50,929
+exactly which of its enemies treat them
+ 
+
+41
+00:00:50,929 --> 00:00:53,590
+exactly which of its enemies treat them
+as being flat-footed in order for a
+
+42
+00:00:53,590 --> 00:00:53,600
+as being flat-footed in order for a
+ 
+
+43
+00:00:53,600 --> 00:00:56,020
+as being flat-footed in order for a
+creature to be flanked the following two
+
+44
+00:00:56,020 --> 00:00:56,030
+creature to be flanked the following two
+ 
+
+45
+00:00:56,030 --> 00:00:59,799
+creature to be flanked the following two
+conditions must be met first it must
+
+46
+00:00:59,799 --> 00:00:59,809
+conditions must be met first it must
+ 
+
+47
+00:00:59,809 --> 00:01:02,020
+conditions must be met first it must
+have enemies on opposite sides or
+
+48
+00:01:02,020 --> 00:01:02,030
+have enemies on opposite sides or
+ 
+
+49
+00:01:02,030 --> 00:01:06,160
+have enemies on opposite sides or
+opposite corners of it in second both of
+
+50
+00:01:06,160 --> 00:01:06,170
+opposite corners of it in second both of
+ 
+
+51
+00:01:06,170 --> 00:01:07,930
+opposite corners of it in second both of
+those enemies must be wielding melee
+
+52
+00:01:07,930 --> 00:01:07,940
+those enemies must be wielding melee
+ 
+
+53
+00:01:07,940 --> 00:01:10,480
+those enemies must be wielding melee
+weapons or be able to make unarmed
+
+54
+00:01:10,480 --> 00:01:10,490
+weapons or be able to make unarmed
+ 
+
+55
+00:01:10,490 --> 00:01:13,300
+weapons or be able to make unarmed
+attacks and the flint creature must be
+
+56
+00:01:13,300 --> 00:01:13,310
+attacks and the flint creature must be
+ 
+
+57
+00:01:13,310 --> 00:01:16,050
+attacks and the flint creature must be
+within reach of both of its enemies if
+
+58
+00:01:16,050 --> 00:01:16,060
+within reach of both of its enemies if
+ 
+
+59
+00:01:16,060 --> 00:01:18,910
+within reach of both of its enemies if
+both of these requirements are met then
+
+60
+00:01:18,910 --> 00:01:18,920
+both of these requirements are met then
+ 
+
+61
+00:01:18,920 --> 00:01:20,950
+both of these requirements are met then
+the creature is flanked and suffers a
+
+62
+00:01:20,950 --> 00:01:20,960
+the creature is flanked and suffers a
+ 
+
+63
+00:01:20,960 --> 00:01:22,749
+the creature is flanked and suffers a
+negative to penalty 2s armor class
+
+64
+00:01:22,749 --> 00:01:22,759
+negative to penalty 2s armor class
+ 
+
+65
+00:01:22,759 --> 00:01:25,539
+negative to penalty 2s armor class
+against attacks made by only those
+
+66
+00:01:25,539 --> 00:01:25,549
+against attacks made by only those
+ 
+
+67
+00:01:25,549 --> 00:01:28,810
+against attacks made by only those
+enemies that are flanking it
+
+68
+00:01:28,810 --> 00:01:28,820
+enemies that are flanking it
+ 
+
+69
+00:01:28,820 --> 00:01:31,000
+enemies that are flanking it
+let's take a closer look at the two
+
+70
+00:01:31,000 --> 00:01:31,010
+let's take a closer look at the two
+ 
+
+71
+00:01:31,010 --> 00:01:32,800
+let's take a closer look at the two
+requirements for flanking by reviewing
+
+72
+00:01:32,800 --> 00:01:32,810
+requirements for flanking by reviewing
+ 
+
+73
+00:01:32,810 --> 00:01:35,070
+requirements for flanking by reviewing
+the examples in the core rulebook an
+
+74
+00:01:35,070 --> 00:01:35,080
+the examples in the core rulebook an
+ 
+
+75
+00:01:35,080 --> 00:01:38,140
+the examples in the core rulebook an
+example 1 we have Valor Rose and Cara
+
+76
+00:01:38,140 --> 00:01:38,150
+example 1 we have Valor Rose and Cara
+ 
+
+77
+00:01:38,150 --> 00:01:40,890
+example 1 we have Valor Rose and Cara
+battling and ogre are they flanking it
+
+78
+00:01:40,890 --> 00:01:40,900
+battling and ogre are they flanking it
+ 
+
+79
+00:01:40,900 --> 00:01:43,480
+battling and ogre are they flanking it
+requirement number 1 says the ogre must
+
+80
+00:01:43,480 --> 00:01:43,490
+requirement number 1 says the ogre must
+ 
+
+81
+00:01:43,490 --> 00:01:45,700
+requirement number 1 says the ogre must
+have enemies on opposite sides or
+
+82
+00:01:45,700 --> 00:01:45,710
+have enemies on opposite sides or
+ 
+
+83
+00:01:45,710 --> 00:01:48,580
+have enemies on opposite sides or
+opposite corners if we draw an imaginary
+
+84
+00:01:48,580 --> 00:01:48,590
+opposite corners if we draw an imaginary
+ 
+
+85
+00:01:48,590 --> 00:01:50,980
+opposite corners if we draw an imaginary
+line from the center of valor roses
+
+86
+00:01:50,980 --> 00:01:50,990
+line from the center of valor roses
+ 
+
+87
+00:01:50,990 --> 00:01:54,040
+line from the center of valor roses
+Square to the center of Cairo Square we
+
+88
+00:01:54,040 --> 00:01:54,050
+Square to the center of Cairo Square we
+ 
+
+89
+00:01:54,050 --> 00:01:56,320
+Square to the center of Cairo Square we
+see that line clearly passes through
+
+90
+00:01:56,320 --> 00:01:56,330
+see that line clearly passes through
+ 
+
+91
+00:01:56,330 --> 00:01:59,680
+see that line clearly passes through
+opposite borders of the ogre space so
+
+92
+00:01:59,680 --> 00:01:59,690
+opposite borders of the ogre space so
+ 
+
+93
+00:01:59,690 --> 00:02:02,530
+opposite borders of the ogre space so
+the first requirement is met and we can
+
+94
+00:02:02,530 --> 00:02:02,540
+the first requirement is met and we can
+ 
+
+95
+00:02:02,540 --> 00:02:04,210
+the first requirement is met and we can
+safely assume they are both wielding
+
+96
+00:02:04,210 --> 00:02:04,220
+safely assume they are both wielding
+ 
+
+97
+00:02:04,220 --> 00:02:06,430
+safely assume they are both wielding
+melee weapons so the second requirement
+
+98
+00:02:06,430 --> 00:02:06,440
+melee weapons so the second requirement
+ 
+
+99
+00:02:06,440 --> 00:02:07,740
+melee weapons so the second requirement
+is met as well
+
+100
+00:02:07,740 --> 00:02:07,750
+is met as well
+ 
+
+101
+00:02:07,750 --> 00:02:10,690
+is met as well
+therefore the ogre is being flanked and
+
+102
+00:02:10,690 --> 00:02:10,700
+therefore the ogre is being flanked and
+ 
+
+103
+00:02:10,700 --> 00:02:13,240
+therefore the ogre is being flanked and
+does suffer a negative two penalty to
+
+104
+00:02:13,240 --> 00:02:13,250
+does suffer a negative two penalty to
+ 
+
+105
+00:02:13,250 --> 00:02:15,699
+does suffer a negative two penalty to
+its armor class when being attacked by
+
+106
+00:02:15,699 --> 00:02:15,709
+its armor class when being attacked by
+ 
+
+107
+00:02:15,709 --> 00:02:19,360
+its armor class when being attacked by
+valorous or kyra in the second example
+
+108
+00:02:19,360 --> 00:02:19,370
+valorous or kyra in the second example
+ 
+
+109
+00:02:19,370 --> 00:02:22,600
+valorous or kyra in the second example
+mauricio closes from the north valorous
+
+110
+00:02:22,600 --> 00:02:22,610
+mauricio closes from the north valorous
+ 
+
+111
+00:02:22,610 --> 00:02:25,060
+mauricio closes from the north valorous
+in Cara are flanking the ogre but what
+
+112
+00:02:25,060 --> 00:02:25,070
+in Cara are flanking the ogre but what
+ 
+
+113
+00:02:25,070 --> 00:02:28,300
+in Cara are flanking the ogre but what
+about Marissa if we draw imaginary lines
+
+114
+00:02:28,300 --> 00:02:28,310
+about Marissa if we draw imaginary lines
+ 
+
+115
+00:02:28,310 --> 00:02:30,699
+about Marissa if we draw imaginary lines
+from the center of her Square to the
+
+116
+00:02:30,699 --> 00:02:30,709
+from the center of her Square to the
+ 
+
+117
+00:02:30,709 --> 00:02:32,920
+from the center of her Square to the
+middle of both valor Rose in kyra
+
+118
+00:02:32,920 --> 00:02:32,930
+middle of both valor Rose in kyra
+ 
+
+119
+00:02:32,930 --> 00:02:35,860
+middle of both valor Rose in kyra
+squares we see that neither of those
+
+120
+00:02:35,860 --> 00:02:35,870
+squares we see that neither of those
+ 
+
+121
+00:02:35,870 --> 00:02:38,280
+squares we see that neither of those
+lines pass through opposite borders or
+
+122
+00:02:38,280 --> 00:02:38,290
+lines pass through opposite borders or
+ 
+
+123
+00:02:38,290 --> 00:02:41,250
+lines pass through opposite borders or
+opposite corners of the ogre and
+
+124
+00:02:41,250 --> 00:02:41,260
+opposite corners of the ogre and
+ 
+
+125
+00:02:41,260 --> 00:02:44,820
+opposite corners of the ogre and
+therefore she is not flanking the ogre
+
+126
+00:02:44,820 --> 00:02:44,830
+therefore she is not flanking the ogre
+ 
+
+127
+00:02:44,830 --> 00:02:47,530
+therefore she is not flanking the ogre
+although it suffers a penalty to armor
+
+128
+00:02:47,530 --> 00:02:47,540
+although it suffers a penalty to armor
+ 
+
+129
+00:02:47,540 --> 00:02:49,960
+although it suffers a penalty to armor
+class against Valerie Sin Cara the ogre
+
+130
+00:02:49,960 --> 00:02:49,970
+class against Valerie Sin Cara the ogre
+ 
+
+131
+00:02:49,970 --> 00:02:52,210
+class against Valerie Sin Cara the ogre
+is not treated as flat-footed against
+
+132
+00:02:52,210 --> 00:02:52,220
+is not treated as flat-footed against
+ 
+
+133
+00:02:52,220 --> 00:02:54,610
+is not treated as flat-footed against
+Maurizio therefore she makes attack
+
+134
+00:02:54,610 --> 00:02:54,620
+Maurizio therefore she makes attack
+ 
+
+135
+00:02:54,620 --> 00:02:56,830
+Maurizio therefore she makes attack
+roles against the ogres full armor class
+
+136
+00:02:56,830 --> 00:02:56,840
+roles against the ogres full armor class
+ 
+
+137
+00:02:56,840 --> 00:02:58,960
+roles against the ogres full armor class
+and may not treat it as being
+
+138
+00:02:58,960 --> 00:02:58,970
+and may not treat it as being
+ 
+
+139
+00:02:58,970 --> 00:03:01,509
+and may not treat it as being
+flat-footed for any special attacks such
+
+140
+00:03:01,509 --> 00:03:01,519
+flat-footed for any special attacks such
+ 
+
+141
+00:03:01,519 --> 00:03:03,290
+flat-footed for any special attacks such
+as sneak attack
+
+142
+00:03:03,290 --> 00:03:03,300
+as sneak attack
+ 
+
+143
+00:03:03,300 --> 00:03:05,300
+as sneak attack
+in the third example Sione and a
+
+144
+00:03:05,300 --> 00:03:05,310
+in the third example Sione and a
+ 
+
+145
+00:03:05,310 --> 00:03:08,000
+in the third example Sione and a
+Hobgoblin join the battle is Sione being
+
+146
+00:03:08,000 --> 00:03:08,010
+Hobgoblin join the battle is Sione being
+ 
+
+147
+00:03:08,010 --> 00:03:09,890
+Hobgoblin join the battle is Sione being
+flanked by the ogre and Hobgoblin in
+
+148
+00:03:09,890 --> 00:03:09,900
+flanked by the ogre and Hobgoblin in
+ 
+
+149
+00:03:09,900 --> 00:03:13,550
+flanked by the ogre and Hobgoblin in
+this case yes she is the first
+
+150
+00:03:13,550 --> 00:03:13,560
+this case yes she is the first
+ 
+
+151
+00:03:13,560 --> 00:03:15,440
+this case yes she is the first
+requirement says there needs to be
+
+152
+00:03:15,440 --> 00:03:15,450
+requirement says there needs to be
+ 
+
+153
+00:03:15,450 --> 00:03:17,690
+requirement says there needs to be
+enemies on opposite borders of her and
+
+154
+00:03:17,690 --> 00:03:17,700
+enemies on opposite borders of her and
+ 
+
+155
+00:03:17,700 --> 00:03:20,330
+enemies on opposite borders of her and
+if we draw a line from the center of the
+
+156
+00:03:20,330 --> 00:03:20,340
+if we draw a line from the center of the
+ 
+
+157
+00:03:20,340 --> 00:03:23,540
+if we draw a line from the center of the
+ogre to the center of the Hobgoblin we
+
+158
+00:03:23,540 --> 00:03:23,550
+ogre to the center of the Hobgoblin we
+ 
+
+159
+00:03:23,550 --> 00:03:25,970
+ogre to the center of the Hobgoblin we
+see it does indeed pass through opposite
+
+160
+00:03:25,970 --> 00:03:25,980
+see it does indeed pass through opposite
+ 
+
+161
+00:03:25,980 --> 00:03:28,760
+see it does indeed pass through opposite
+borders of her square and the second
+
+162
+00:03:28,760 --> 00:03:28,770
+borders of her square and the second
+ 
+
+163
+00:03:28,770 --> 00:03:31,160
+borders of her square and the second
+requirement says the enemies need to be
+
+164
+00:03:31,160 --> 00:03:31,170
+requirement says the enemies need to be
+ 
+
+165
+00:03:31,170 --> 00:03:33,890
+requirement says the enemies need to be
+wielding melee weapons or capable of
+
+166
+00:03:33,890 --> 00:03:33,900
+wielding melee weapons or capable of
+ 
+
+167
+00:03:33,900 --> 00:03:37,790
+wielding melee weapons or capable of
+unarmed attacks and be within reach the
+
+168
+00:03:37,790 --> 00:03:37,800
+unarmed attacks and be within reach the
+ 
+
+169
+00:03:37,800 --> 00:03:40,820
+unarmed attacks and be within reach the
+Hobgoblin is adjacent and as a large
+
+170
+00:03:40,820 --> 00:03:40,830
+Hobgoblin is adjacent and as a large
+ 
+
+171
+00:03:40,830 --> 00:03:44,590
+Hobgoblin is adjacent and as a large
+creature the ogre has ten feet of reach
+
+172
+00:03:44,590 --> 00:03:44,600
+creature the ogre has ten feet of reach
+ 
+
+173
+00:03:44,600 --> 00:03:47,570
+creature the ogre has ten feet of reach
+therefore the second requirement is met
+
+174
+00:03:47,570 --> 00:03:47,580
+therefore the second requirement is met
+ 
+
+175
+00:03:47,580 --> 00:03:50,660
+therefore the second requirement is met
+and Sione is flat-footed against both
+
+176
+00:03:50,660 --> 00:03:50,670
+and Sione is flat-footed against both
+ 
+
+177
+00:03:50,670 --> 00:03:54,470
+and Sione is flat-footed against both
+the ogre and the Hobgoblin likewise we
+
+178
+00:03:54,470 --> 00:03:54,480
+the ogre and the Hobgoblin likewise we
+ 
+
+179
+00:03:54,480 --> 00:03:56,330
+the ogre and the Hobgoblin likewise we
+should check to see if Sione is flanking
+
+180
+00:03:56,330 --> 00:03:56,340
+should check to see if Sione is flanking
+ 
+
+181
+00:03:56,340 --> 00:03:59,360
+should check to see if Sione is flanking
+the ogre well we have Maurizio on the
+
+182
+00:03:59,360 --> 00:03:59,370
+the ogre well we have Maurizio on the
+ 
+
+183
+00:03:59,370 --> 00:04:01,850
+the ogre well we have Maurizio on the
+ogres opposite border so that first
+
+184
+00:04:01,850 --> 00:04:01,860
+ogres opposite border so that first
+ 
+
+185
+00:04:01,860 --> 00:04:04,190
+ogres opposite border so that first
+requirement is met and the second
+
+186
+00:04:04,190 --> 00:04:04,200
+requirement is met and the second
+ 
+
+187
+00:04:04,200 --> 00:04:06,680
+requirement is met and the second
+requirement depends on what weapon Sione
+
+188
+00:04:06,680 --> 00:04:06,690
+requirement depends on what weapon Sione
+ 
+
+189
+00:04:06,690 --> 00:04:09,020
+requirement depends on what weapon Sione
+is wielding if she's wielding a dagger
+
+190
+00:04:09,020 --> 00:04:09,030
+is wielding if she's wielding a dagger
+ 
+
+191
+00:04:09,030 --> 00:04:12,530
+is wielding if she's wielding a dagger
+then no because a dagger can only reach
+
+192
+00:04:12,530 --> 00:04:12,540
+then no because a dagger can only reach
+ 
+
+193
+00:04:12,540 --> 00:04:15,020
+then no because a dagger can only reach
+five feet away which is the adjacent
+
+194
+00:04:15,020 --> 00:04:15,030
+five feet away which is the adjacent
+ 
+
+195
+00:04:15,030 --> 00:04:18,140
+five feet away which is the adjacent
+square but if she was wielding a long
+
+196
+00:04:18,140 --> 00:04:18,150
+square but if she was wielding a long
+ 
+
+197
+00:04:18,150 --> 00:04:21,080
+square but if she was wielding a long
+spear then she would be flanking the
+
+198
+00:04:21,080 --> 00:04:21,090
+spear then she would be flanking the
+ 
+
+199
+00:04:21,090 --> 00:04:24,260
+spear then she would be flanking the
+ogre because long Spears have a reach of
+
+200
+00:04:24,260 --> 00:04:24,270
+ogre because long Spears have a reach of
+ 
+
+201
+00:04:24,270 --> 00:04:26,990
+ogre because long Spears have a reach of
+ten feet and at two vertical squares
+
+202
+00:04:26,990 --> 00:04:27,000
+ten feet and at two vertical squares
+ 
+
+203
+00:04:27,000 --> 00:04:30,040
+ten feet and at two vertical squares
+away the ogre is ten feet away
+
+204
+00:04:30,040 --> 00:04:30,050
+away the ogre is ten feet away
+ 
+
+205
+00:04:30,050 --> 00:04:32,810
+away the ogre is ten feet away
+but what if Sione and the Hobgoblin were
+
+206
+00:04:32,810 --> 00:04:32,820
+but what if Sione and the Hobgoblin were
+ 
+
+207
+00:04:32,820 --> 00:04:37,070
+but what if Sione and the Hobgoblin were
+standing over here which Sione still be
+
+208
+00:04:37,070 --> 00:04:37,080
+standing over here which Sione still be
+ 
+
+209
+00:04:37,080 --> 00:04:39,880
+standing over here which Sione still be
+flanked by the ogre and the Hobgoblin
+
+210
+00:04:39,880 --> 00:04:39,890
+flanked by the ogre and the Hobgoblin
+ 
+
+211
+00:04:39,890 --> 00:04:43,370
+flanked by the ogre and the Hobgoblin
+yes you would still be flanked even
+
+212
+00:04:43,370 --> 00:04:43,380
+yes you would still be flanked even
+ 
+
+213
+00:04:43,380 --> 00:04:46,130
+yes you would still be flanked even
+though two squares diagonally is fifteen
+
+214
+00:04:46,130 --> 00:04:46,140
+though two squares diagonally is fifteen
+ 
+
+215
+00:04:46,140 --> 00:04:49,159
+though two squares diagonally is fifteen
+feet and the ogre only has ten feet of
+
+216
+00:04:49,159 --> 00:04:49,169
+feet and the ogre only has ten feet of
+ 
+
+217
+00:04:49,169 --> 00:04:52,040
+feet and the ogre only has ten feet of
+reach there is an exception to the rule
+
+218
+00:04:52,040 --> 00:04:52,050
+reach there is an exception to the rule
+ 
+
+219
+00:04:52,050 --> 00:04:54,860
+reach there is an exception to the rule
+that says attacks with ten feet of reach
+
+220
+00:04:54,860 --> 00:04:54,870
+that says attacks with ten feet of reach
+ 
+
+221
+00:04:54,870 --> 00:04:59,110
+that says attacks with ten feet of reach
+may attack any target within two squares
+
+222
+00:04:59,110 --> 00:04:59,120
+may attack any target within two squares
+ 
+
+223
+00:04:59,120 --> 00:05:01,940
+may attack any target within two squares
+including two squares diagonally
+
+224
+00:05:01,940 --> 00:05:01,950
+including two squares diagonally
+ 
+
+225
+00:05:01,950 --> 00:05:04,250
+including two squares diagonally
+otherwise having reached with your
+
+226
+00:05:04,250 --> 00:05:04,260
+otherwise having reached with your
+ 
+
+227
+00:05:04,260 --> 00:05:06,320
+otherwise having reached with your
+attacks would have no benefit at all
+
+228
+00:05:06,320 --> 00:05:06,330
+attacks would have no benefit at all
+ 
+
+229
+00:05:06,330 --> 00:05:08,659
+attacks would have no benefit at all
+against an enemy who is approaching you
+
+230
+00:05:08,659 --> 00:05:08,669
+against an enemy who is approaching you
+ 
+
+231
+00:05:08,669 --> 00:05:12,200
+against an enemy who is approaching you
+from one of the four diagonals next
+
+232
+00:05:12,200 --> 00:05:12,210
+from one of the four diagonals next
+ 
+
+233
+00:05:12,210 --> 00:05:15,180
+from one of the four diagonals next
+let's consider Sione moves here
+
+234
+00:05:15,180 --> 00:05:15,190
+let's consider Sione moves here
+ 
+
+235
+00:05:15,190 --> 00:05:18,720
+let's consider Sione moves here
+is she flanking the ocher no because if
+
+236
+00:05:18,720 --> 00:05:18,730
+is she flanking the ocher no because if
+ 
+
+237
+00:05:18,730 --> 00:05:20,340
+is she flanking the ocher no because if
+she draws lines from the center of her
+
+238
+00:05:20,340 --> 00:05:20,350
+she draws lines from the center of her
+ 
+
+239
+00:05:20,350 --> 00:05:22,500
+she draws lines from the center of her
+square to the center of each of her ally
+
+240
+00:05:22,500 --> 00:05:22,510
+square to the center of each of her ally
+ 
+
+241
+00:05:22,510 --> 00:05:23,160
+square to the center of each of her ally
+squares
+
+242
+00:05:23,160 --> 00:05:23,170
+squares
+ 
+
+243
+00:05:23,170 --> 00:05:25,110
+squares
+none of them passed through opposite
+
+244
+00:05:25,110 --> 00:05:25,120
+none of them passed through opposite
+ 
+
+245
+00:05:25,120 --> 00:05:26,370
+none of them passed through opposite
+borders of the ogre
+
+246
+00:05:26,370 --> 00:05:26,380
+borders of the ogre
+ 
+
+247
+00:05:26,380 --> 00:05:30,420
+borders of the ogre
+but if Marissa moved here she and Sione
+
+248
+00:05:30,420 --> 00:05:30,430
+but if Marissa moved here she and Sione
+ 
+
+249
+00:05:30,430 --> 00:05:33,240
+but if Marissa moved here she and Sione
+would be flanking the ogre because now
+
+250
+00:05:33,240 --> 00:05:33,250
+would be flanking the ogre because now
+ 
+
+251
+00:05:33,250 --> 00:05:35,400
+would be flanking the ogre because now
+their line passes through opposite
+
+252
+00:05:35,400 --> 00:05:35,410
+their line passes through opposite
+ 
+
+253
+00:05:35,410 --> 00:05:39,140
+their line passes through opposite
+corners
+
+254
+00:05:39,140 --> 00:05:39,150
+
+ 
+
+255
+00:05:39,150 --> 00:05:41,660
+
+in this video we examined the flanking
+
+256
+00:05:41,660 --> 00:05:41,670
+in this video we examined the flanking
+ 
+
+257
+00:05:41,670 --> 00:05:44,450
+in this video we examined the flanking
+rules in Pathfinder flanking occurs when
+
+258
+00:05:44,450 --> 00:05:44,460
+rules in Pathfinder flanking occurs when
+ 
+
+259
+00:05:44,460 --> 00:05:46,460
+rules in Pathfinder flanking occurs when
+a creatures attention is divided by two
+
+260
+00:05:46,460 --> 00:05:46,470
+a creatures attention is divided by two
+ 
+
+261
+00:05:46,470 --> 00:05:48,650
+a creatures attention is divided by two
+or more enemies on either side of it
+
+262
+00:05:48,650 --> 00:05:48,660
+or more enemies on either side of it
+ 
+
+263
+00:05:48,660 --> 00:05:51,650
+or more enemies on either side of it
+their attention is split which makes it
+
+264
+00:05:51,650 --> 00:05:51,660
+their attention is split which makes it
+ 
+
+265
+00:05:51,660 --> 00:05:53,390
+their attention is split which makes it
+more difficult for them to defend
+
+266
+00:05:53,390 --> 00:05:53,400
+more difficult for them to defend
+ 
+
+267
+00:05:53,400 --> 00:05:56,180
+more difficult for them to defend
+themselves there are two requirements
+
+268
+00:05:56,180 --> 00:05:56,190
+themselves there are two requirements
+ 
+
+269
+00:05:56,190 --> 00:05:58,430
+themselves there are two requirements
+that must be met in order for flanking
+
+270
+00:05:58,430 --> 00:05:58,440
+that must be met in order for flanking
+ 
+
+271
+00:05:58,440 --> 00:06:01,460
+that must be met in order for flanking
+to occur the first says that you and an
+
+272
+00:06:01,460 --> 00:06:01,470
+to occur the first says that you and an
+ 
+
+273
+00:06:01,470 --> 00:06:04,210
+to occur the first says that you and an
+allied must be on opposite borders or
+
+274
+00:06:04,210 --> 00:06:04,220
+allied must be on opposite borders or
+ 
+
+275
+00:06:04,220 --> 00:06:07,570
+allied must be on opposite borders or
+opposite corners of the enemy space and
+
+276
+00:06:07,570 --> 00:06:07,580
+opposite corners of the enemy space and
+ 
+
+277
+00:06:07,580 --> 00:06:10,970
+opposite corners of the enemy space and
+the second requirement says both you and
+
+278
+00:06:10,970 --> 00:06:10,980
+the second requirement says both you and
+ 
+
+279
+00:06:10,980 --> 00:06:13,460
+the second requirement says both you and
+your ally must be wielding melee weapons
+
+280
+00:06:13,460 --> 00:06:13,470
+your ally must be wielding melee weapons
+ 
+
+281
+00:06:13,470 --> 00:06:16,640
+your ally must be wielding melee weapons
+or be able to make unarmed attacks and
+
+282
+00:06:16,640 --> 00:06:16,650
+or be able to make unarmed attacks and
+ 
+
+283
+00:06:16,650 --> 00:06:19,520
+or be able to make unarmed attacks and
+the enemy must be within both of your
+
+284
+00:06:19,520 --> 00:06:19,530
+the enemy must be within both of your
+ 
+
+285
+00:06:19,530 --> 00:06:22,700
+the enemy must be within both of your
+reaches in most situations this means
+
+286
+00:06:22,700 --> 00:06:22,710
+reaches in most situations this means
+ 
+
+287
+00:06:22,710 --> 00:06:25,670
+reaches in most situations this means
+the enemy must be adjacent to you but if
+
+288
+00:06:25,670 --> 00:06:25,680
+the enemy must be adjacent to you but if
+ 
+
+289
+00:06:25,680 --> 00:06:27,710
+the enemy must be adjacent to you but if
+you are wielding a reach weapon such as
+
+290
+00:06:27,710 --> 00:06:27,720
+you are wielding a reach weapon such as
+ 
+
+291
+00:06:27,720 --> 00:06:30,680
+you are wielding a reach weapon such as
+a long spear then the enemy may be 10
+
+292
+00:06:30,680 --> 00:06:30,690
+a long spear then the enemy may be 10
+ 
+
+293
+00:06:30,690 --> 00:06:33,020
+a long spear then the enemy may be 10
+feet away because a long spur has 10
+
+294
+00:06:33,020 --> 00:06:33,030
+feet away because a long spur has 10
+ 
+
+295
+00:06:33,030 --> 00:06:36,380
+feet away because a long spur has 10
+feet of reach large creatures naturally
+
+296
+00:06:36,380 --> 00:06:36,390
+feet of reach large creatures naturally
+ 
+
+297
+00:06:36,390 --> 00:06:38,690
+feet of reach large creatures naturally
+have 10 feet of reach huge creatures
+
+298
+00:06:38,690 --> 00:06:38,700
+have 10 feet of reach huge creatures
+ 
+
+299
+00:06:38,700 --> 00:06:41,780
+have 10 feet of reach huge creatures
+have 15 feet of reach and a gargantuan
+
+300
+00:06:41,780 --> 00:06:41,790
+have 15 feet of reach and a gargantuan
+ 
+
+301
+00:06:41,790 --> 00:06:45,920
+have 15 feet of reach and a gargantuan
+creature has 20 feet of reach if both of
+
+302
+00:06:45,920 --> 00:06:45,930
+creature has 20 feet of reach if both of
+ 
+
+303
+00:06:45,930 --> 00:06:48,230
+creature has 20 feet of reach if both of
+these requirements are met then the
+
+304
+00:06:48,230 --> 00:06:48,240
+these requirements are met then the
+ 
+
+305
+00:06:48,240 --> 00:06:50,570
+these requirements are met then the
+creature is flat-footed against your
+
+306
+00:06:50,570 --> 00:06:50,580
+creature is flat-footed against your
+ 
+
+307
+00:06:50,580 --> 00:06:53,480
+creature is flat-footed against your
+attacks this imposes a negative to
+
+308
+00:06:53,480 --> 00:06:53,490
+attacks this imposes a negative to
+ 
+
+309
+00:06:53,490 --> 00:06:55,880
+attacks this imposes a negative to
+penalty to their armor class and makes
+
+310
+00:06:55,880 --> 00:06:55,890
+penalty to their armor class and makes
+ 
+
+311
+00:06:55,890 --> 00:06:57,740
+penalty to their armor class and makes
+them vulnerable to other special attacks
+
+312
+00:06:57,740 --> 00:06:57,750
+them vulnerable to other special attacks
+ 
+
+313
+00:06:57,750 --> 00:07:00,160
+them vulnerable to other special attacks
+such as a rogue sneak attack and
+
+314
+00:07:00,160 --> 00:07:00,170
+such as a rogue sneak attack and
+ 
+
+315
+00:07:00,170 --> 00:07:03,620
+such as a rogue sneak attack and
+remember just because you and one Ally
+
+316
+00:07:03,620 --> 00:07:03,630
+remember just because you and one Ally
+ 
+
+317
+00:07:03,630 --> 00:07:06,020
+remember just because you and one Ally
+have flanking against an enemy that
+
+318
+00:07:06,020 --> 00:07:06,030
+have flanking against an enemy that
+ 
+
+319
+00:07:06,030 --> 00:07:08,390
+have flanking against an enemy that
+doesn't mean that all of your allies
+
+320
+00:07:08,390 --> 00:07:08,400
+doesn't mean that all of your allies
+ 
+
+321
+00:07:08,400 --> 00:07:11,150
+doesn't mean that all of your allies
+have flanking against it each character
+
+322
+00:07:11,150 --> 00:07:11,160
+have flanking against it each character
+ 
+
+323
+00:07:11,160 --> 00:07:13,130
+have flanking against it each character
+needs to meet the requirements in order
+
+324
+00:07:13,130 --> 00:07:13,140
+needs to meet the requirements in order
+ 
+
+325
+00:07:13,140 --> 00:07:16,990
+needs to meet the requirements in order
+to be granted flanking
+
+326
+00:07:16,990 --> 00:07:17,000
+
+ 
+
+327
+00:07:17,000 --> 00:07:19,180
+
+that will bring this video to a close if
+
+328
+00:07:19,180 --> 00:07:19,190
+that will bring this video to a close if
+ 
+
+329
+00:07:19,190 --> 00:07:20,530
+that will bring this video to a close if
+you found this video helpful please give
+
+330
+00:07:20,530 --> 00:07:20,540
+you found this video helpful please give
+ 
+
+331
+00:07:20,540 --> 00:07:22,540
+you found this video helpful please give
+us a like and don't forget to click that
+
+332
+00:07:22,540 --> 00:07:22,550
+us a like and don't forget to click that
+ 
+
+333
+00:07:22,550 --> 00:07:24,250
+us a like and don't forget to click that
+subscribe button and the bell so you
+
+334
+00:07:24,250 --> 00:07:24,260
+subscribe button and the bell so you
+ 
+
+335
+00:07:24,260 --> 00:07:25,560
+subscribe button and the bell so you
+never miss out on our future videos
+
+336
+00:07:25,560 --> 00:07:25,570
+never miss out on our future videos
+ 
+
+337
+00:07:25,570 --> 00:07:27,940
+never miss out on our future videos
+leave us a comment letting us know what
+
+338
+00:07:27,940 --> 00:07:27,950
+leave us a comment letting us know what
+ 
+
+339
+00:07:27,950 --> 00:07:29,440
+leave us a comment letting us know what
+topics you'd like to see covered in our
+
+340
+00:07:29,440 --> 00:07:29,450
+topics you'd like to see covered in our
+ 
+
+341
+00:07:29,450 --> 00:07:31,330
+topics you'd like to see covered in our
+future videos and we can always be
+
+342
+00:07:31,330 --> 00:07:31,340
+future videos and we can always be
+ 
+
+343
+00:07:31,340 --> 00:07:32,620
+future videos and we can always be
+reached through our Twitter and Facebook
+
+344
+00:07:32,620 --> 00:07:32,630
+reached through our Twitter and Facebook
+ 
+
+345
+00:07:32,630 --> 00:07:35,290
+reached through our Twitter and Facebook
+pages too if you'd like to use some of
+
+346
+00:07:35,290 --> 00:07:35,300
+pages too if you'd like to use some of
+ 
+
+347
+00:07:35,300 --> 00:07:36,670
+pages too if you'd like to use some of
+the maps that we feature in our videos
+
+348
+00:07:36,670 --> 00:07:36,680
+the maps that we feature in our videos
+ 
+
+349
+00:07:36,680 --> 00:07:38,680
+the maps that we feature in our videos
+and your own games you can find them at
+
+350
+00:07:38,680 --> 00:07:38,690
+and your own games you can find them at
+ 
+
+351
+00:07:38,690 --> 00:07:41,440
+and your own games you can find them at
+maps of mastery a link to that store can
+
+352
+00:07:41,440 --> 00:07:41,450
+maps of mastery a link to that store can
+ 
+
+353
+00:07:41,450 --> 00:07:43,960
+maps of mastery a link to that store can
+be found in the description thanks for
+
+354
+00:07:43,960 --> 00:07:43,970
+be found in the description thanks for
+ 
+
+355
+00:07:43,970 --> 00:07:45,910
+be found in the description thanks for
+watching take care and we'll see you
+
+356
+00:07:45,910 --> 00:07:45,920
+watching take care and we'll see you
+ 
+
+357
+00:07:45,920 --> 00:07:47,500
+watching take care and we'll see you
+soon with more basics for your favorite
+
+358
+00:07:47,500 --> 00:07:47,510
+soon with more basics for your favorite
+ 
+
+359
+00:07:47,510 --> 00:07:50,230
+soon with more basics for your favorite
+tabletop games
+
