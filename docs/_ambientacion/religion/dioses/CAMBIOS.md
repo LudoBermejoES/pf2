@@ -124,4 +124,4 @@ Completado en sesiones anteriores (del fuente `20_zon_kuthon.md`).
 
 ---
 
-*Nota: Gorum no tiene archivo fuente en la colección "Más Dioses" (es un dios muerto y fue omitido intencionalmente del fuente).*
+*Nota: Gorum no tiene archivo fuente en la colección "Más Dioses" (fue omitido del fuente original, pero tiene su propio archivo en la colección de dioses).*

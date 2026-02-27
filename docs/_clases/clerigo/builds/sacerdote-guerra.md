@@ -21,7 +21,7 @@ adventure_path: null
 | **Atributo Clave** | Sabiduría (+3) |
 | **Atributos Secundarios** | Fuerza (+3), Constitución (+2) |
 | **Doctrina** | Sacerdote de Guerra (Warpriest) |
-| **Deidad** | ~~Gorum~~ *(muerto, no concede poder)*, Iomedae o Sarenrae |
+| **Deidad** | Gorum, Iomedae o Sarenrae |
 | **Dominio** | Guerra, Celo o Confianza |
 
 ## Armas
