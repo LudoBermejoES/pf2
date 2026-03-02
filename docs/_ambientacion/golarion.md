@@ -30,7 +30,7 @@ Durante la mayor parte de la existencia de Golarion, las profecias arcanas y las
 
 No vinculadas al destino ni guiadas por el, las gentes de Golarion son ahora libres de labrarse su propio destino en la era actual, la Era de los Presagios Perdidos.
 
-Si quieres saber más sobre la Era de los Presagios Perdidos, las etnias humanas y las organizaciones del Mar Interior, consulta [La Era de los Presagios Perdidos]({{ '/ambientacion/era-presagios/' | relative_url }}).
+Si quieres saber más sobre la Era de los Presagios Perdidos, las etnias humanas y las organizaciones del Mar Interior, consulta [La Era de los Presagios Perdidos]({{ '/ambientacion/era-presagios/' | relative_url }}). Para una visión completa de la historia de Golarion desde los primeros imperios hasta el presente, consulta la [Cronología de Golarion]({{ '/ambientacion/cronologia/' | relative_url }}).
 
 ## La vida en el Mar Interior
 
