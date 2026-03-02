@@ -14,6 +14,7 @@ Bienvenido al mundo de Golarion, un planeta fantástico lleno de magia, misterio
 
 - [**Golarion**]({{ '/ambientacion/golarion/' | relative_url }}) - El mundo, su historia y características principales
 - [**La Era de los Presagios Perdidos**]({{ '/ambientacion/era-presagios/' | relative_url }}) - La era actual y sus implicaciones
+- [**Cronología de Golarion**]({{ '/ambientacion/cronologia/' | relative_url }}) - Historia completa desde la Gran Caída hasta el presente
 
 ## Religión y Fe
 
