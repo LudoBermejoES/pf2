@@ -35,5 +35,6 @@ tools/actionsCardCreator/generated_cards/
 
 # Original source files and working directories
 original/
+subtitulos/
 scripts/actualizar_*.py
 scripts/corregir_*.py
