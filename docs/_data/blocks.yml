@@ -1,0 +1,87 @@
+# Definición de los 4 bloques de navegación principal
+# Cada bloque agrupa secciones (chapters) del sitio
+
+- id: personaje
+  label: "Personaje"
+  icon: "👤"
+  url: /personaje/
+  chapters:
+    - "Introducción"
+    - "Ascendencias"
+    - "Clases"
+    - "Habilidades"
+    - "Dotes"
+  sections:
+    - title: Introducción
+      url: /introduccion/
+      icon: "📖"
+      nav: nav_personaje
+    - title: Ascendencias
+      url: /ascendencias/
+      icon: "👥"
+      nav: nav_ascendencias
+    - title: Clases
+      url: /clases/
+      icon: "⚔"
+      nav: nav_clases
+    - title: Habilidades
+      url: /habilidades/
+      icon: "🎯"
+      nav: nav_habilidades
+    - title: Dotes
+      url: /dotes/
+      icon: "✨"
+      nav: nav_dotes
+
+- id: mundo
+  label: "Mundo"
+  icon: "🌍"
+  url: /mundo/
+  chapters:
+    - "Ambientación"
+    - "Campaña"
+  sections:
+    - title: Ambientación
+      url: /ambientacion/
+      icon: "🌍"
+      nav: nav_ambientacion
+    - title: Campaña
+      url: /campana/
+      icon: "👑"
+      nav: nav_campana
+
+- id: mecanicas
+  label: "Mecánicas"
+  icon: "📜"
+  url: /mecanicas/
+  chapters:
+    - "Cómo Jugar"
+    - "Como Jugar"
+    - "Equipo"
+    - "Conjuros"
+  sections:
+    - title: Cómo Jugar
+      url: /reglas/
+      icon: "📜"
+      nav: nav_reglas
+    - title: Equipo
+      url: /equipo/
+      icon: "🛡"
+      nav: nav_equipo
+    - title: Conjuros
+      url: /conjuros/
+      icon: "🔮"
+      nav: nav_conjuros
+
+- id: referencia
+  label: "Referencia"
+  icon: "📑"
+  url: /referencia/
+  chapters:
+    - "Apéndices"
+    - "Rasgos"
+  sections:
+    - title: Apéndices
+      url: /apendices/glosario/
+      icon: "📑"
+      nav: nav_apendices

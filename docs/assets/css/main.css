@@ -1757,3 +1757,73 @@ th .accion {
     display: block;
   }
 }
+
+/* ============================================================
+   Sidebar - back arrow & heading link (block navigation)
+   ============================================================ */
+
+.sidebar-heading-back {
+  display: flex;
+  align-items: center;
+  gap: var(--spacing-xs);
+}
+
+.sidebar-back {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 1.5rem;
+  height: 1.5rem;
+  font-size: 1rem;
+  color: var(--pf-gold-light);
+  border: 1px solid rgba(218, 165, 32, 0.4);
+  border-radius: var(--radius-sm);
+  text-decoration: none;
+  flex-shrink: 0;
+  transition: all 0.15s ease;
+}
+
+.sidebar-back:hover {
+  background: rgba(218, 165, 32, 0.15);
+  color: #ffffff;
+  text-decoration: none;
+}
+
+.sidebar-heading-link {
+  display: flex;
+  align-items: center;
+  gap: var(--spacing-xs);
+  color: var(--pf-gold-light);
+  text-decoration: none;
+  font-family: var(--font-display);
+  font-size: 0.875rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+}
+
+.sidebar-heading-link:hover {
+  color: #ffffff;
+  text-decoration: none;
+}
+
+/* Active nav block highlight */
+.nav-links a.active {
+  color: var(--pf-gold-light);
+  background: rgba(218, 165, 32, 0.1);
+}
+
+/* Block index badge */
+.block-badge {
+  display: inline-block;
+  font-family: var(--font-display);
+  font-size: 0.8rem;
+  font-weight: 700;
+  color: var(--pf-gold-light);
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  padding: 0.2em 0.6em;
+  border: 1px solid rgba(218, 165, 32, 0.4);
+  border-radius: var(--radius-sm);
+  margin-bottom: var(--spacing-sm);
+}

@@ -35,17 +35,9 @@
           <span></span>
         </button>
         <ul class="nav-links">
-          <li><a href="{{ '/campana/' | relative_url }}">La Campaña</a></li>
-          <li><a href="{{ '/introduccion/' | relative_url }}">Introducción</a></li>
-          <li><a href="{{ '/ambientacion/' | relative_url }}">Ambientación</a></li>
-          <li><a href="{{ '/ascendencias/' | relative_url }}">Ascendencias</a></li>
-          <li><a href="{{ '/clases/' | relative_url }}">Clases</a></li>
-          <li><a href="{{ '/habilidades/' | relative_url }}">Habilidades</a></li>
-          <li><a href="{{ '/dotes/' | relative_url }}">Dotes</a></li>
-          <li><a href="{{ '/equipo/' | relative_url }}">Equipo</a></li>
-          <li><a href="{{ '/conjuros/' | relative_url }}">Conjuros</a></li>
-          <li><a href="{{ '/reglas/' | relative_url }}">Reglas</a></li>
-          <li><a href="{{ '/apendices/glosario/' | relative_url }}">Apéndices</a></li>
+          {% for block in site.data.blocks %}
+          <li><a href="{{ block.url | relative_url }}"{% if page.block == block.id %} class="active"{% elsif page.chapter %}{% for ch in block.chapters %}{% if ch == page.chapter %} class="active"{% endif %}{% endfor %}{% elsif page.chapter == "Como Jugar" and block.id == "mecanicas" %} class="active"{% endif %}>{{ block.label }}</a></li>
+          {% endfor %}
         </ul>
       </nav>
 
@@ -72,19 +64,38 @@
     <nav class="breadcrumb">
       <a href="{{ '/' | relative_url }}">Inicio</a>
       <span class="separator">›</span>
-      {% assign chapter_url = '/reglas/' %}
-      {% if page.chapter == "Campaña" %}{% assign chapter_url = '/campana/' %}
-      {% elsif page.chapter == "Introducción" or page.chapter == "Introduccion" %}{% assign chapter_url = '/introduccion/' %}
-      {% elsif page.chapter == "Ambientación" %}{% assign chapter_url = '/ambientacion/' %}
-      {% elsif page.chapter == "Ascendencias" %}{% assign chapter_url = '/ascendencias/' %}
-      {% elsif page.chapter == "Clases" %}{% assign chapter_url = '/clases/' %}
-      {% elsif page.chapter == "Habilidades" %}{% assign chapter_url = '/habilidades/' %}
-      {% elsif page.chapter == "Dotes" %}{% assign chapter_url = '/dotes/' %}
-      {% elsif page.chapter == "Equipo" %}{% assign chapter_url = '/equipo/' %}
-      {% elsif page.chapter == "Conjuros" %}{% assign chapter_url = '/conjuros/' %}
-      {% elsif page.chapter == "Apéndices" or page.chapter == "Rasgos" %}{% assign chapter_url = '/apendices/' %}
+      {% comment %} Encontrar el bloque al que pertenece este chapter {% endcomment %}
+      {% assign bc_block = nil %}
+      {% assign bc_section_nav = nil %}
+      {% for block in site.data.blocks %}
+        {% for ch in block.chapters %}
+          {% if ch == page.chapter %}
+            {% assign bc_block = block %}
+          {% endif %}
+        {% endfor %}
+      {% endfor %}
+      {% if bc_block %}
+      <a href="{{ bc_block.url | relative_url }}">{{ bc_block.label }}</a>
+      <span class="separator">›</span>
+      {% comment %} Encontrar la sección nav para obtener su label y root {% endcomment %}
+      {% for sec in bc_block.sections %}
+        {% assign nav_data = site.data[sec.nav] %}
+        {% if nav_data.chapter == page.chapter %}
+          {% assign bc_section_nav = nav_data %}
+        {% endif %}
+        {% if page.chapter == "Como Jugar" and nav_data.chapter == "Cómo Jugar" %}
+          {% assign bc_section_nav = nav_data %}
+        {% endif %}
+      {% endfor %}
+      {% if bc_section_nav %}
+      <a href="{{ bc_section_nav.root | relative_url }}">{{ bc_section_nav.label }}</a>
       {% endif %}
-      <a href="{{ chapter_url | relative_url }}">{{ page.chapter }}</a>
+      {% else %}
+      {% comment %} Fallback para chapters sin bloque asignado (Apéndices) {% endcomment %}
+      <a href="{{ '/referencia/' | relative_url }}">Referencia</a>
+      <span class="separator">›</span>
+      <a href="{{ '/apendices/glosario/' | relative_url }}">{{ page.chapter }}</a>
+      {% endif %}
       {% if page.title %}
       <span class="separator">›</span>
       <span class="current">{{ page.title }}</span>
