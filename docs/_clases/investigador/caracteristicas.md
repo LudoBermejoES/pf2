@@ -70,7 +70,7 @@ Compartes información con la criatura desencadenante. Esta obtiene una bonifica
 
 Evalúas las debilidades de un enemigo. Elige una criatura que puedas ver. Puedes Idear una estratagema como acción gratuita si eres consciente de que esa criatura podría ayudar a responder la pregunta en el corazón de una de tus investigaciones activas. Tira un d20 y luego elige:
 
-**Estratagema de ataque:** Si asestas un Golpe a la criatura elegida antes del inicio de tu siguiente turno, debes usar el resultado de esa tirada de d20 para la tirada de ataque de tu Golpe. Puedes añadir tu modificador de Inteligencia en lugar de Fuerza o Destreza si golpeas con un arma cuerpo a cuerpo ágil o con Finesse, un arma a distancia o una porra.
+**Estratagema de ataque:** Si asestas un Golpe a la criatura elegida antes del inicio de tu siguiente turno, debes usar el resultado de esa tirada de d20 para la tirada de ataque de tu Golpe. Puedes añadir tu modificador de Inteligencia en lugar de Fuerza o Destreza si golpeas con un arma cuerpo a cuerpo [ágil](/apendices/rasgos/agil/) o con [sutil](/apendices/rasgos/sutil/), un arma a distancia o una porra.
 
 **Estratagema de habilidad:** No puedes golpear al objetivo hasta tu siguiente turno. Obtienes una bonificación circunstancial +1 a tu siguiente prueba de habilidad basada en Inteligencia, Sabiduría o Carisma, o prueba de Percepción relacionada con el objetivo (o +1 a tu bonificación de investigación si corresponde).
 

@@ -48,7 +48,7 @@ Las potentes acciones de remate, incluido Remate confiado, solo pueden usarse mi
 
 ### Golpe preciso
 
-Cuando realizas un Golpe con un arma cuerpo a cuerpo ágil o de destreza, o un ataque desarmado ágil o de destreza, infliges 2 de daño de precisión adicional. Si el Golpe forma parte de un remate, el daño adicional es 2d6 de daño de precisión en su lugar.
+Cuando realizas un Golpe con un arma cuerpo a cuerpo [ágil](/apendices/rasgos/agil/) o [sutil](/apendices/rasgos/sutil/), o un ataque desarmado [ágil](/apendices/rasgos/agil/) o [sutil](/apendices/rasgos/sutil/), infliges 2 de daño de precisión adicional. Si el Golpe forma parte de un remate, el daño adicional es 2d6 de daño de precisión en su lugar.
 
 A medida que aumenta tu nivel de espadachín, también aumenta tu daño adicional por golpe preciso. En los niveles 5, 9, 13 y 17, incrementa en 1 la cantidad de daño adicional de un Golpe y en 1d6 el daño adicional de un remate.
 
@@ -108,7 +108,7 @@ Aprovechas una apertura del ataque torpe del enemigo. Realizas un Golpe cuerpo a
 
 **Bravura:** Las acciones con este rasgo pueden otorgar desparpajo, dependiendo del resultado de la prueba involucrada. Si tienes éxito en la prueba de una acción de bravura, ganas desparpajo, y si fallas (pero no fallas críticamente) la prueba, ganas desparpajo pero solo hasta el final de tu siguiente turno.
 
-**Remate:** Los remates son movimientos de cierre espectaculares que usan tu desparpajo. Los remates solo pueden usarse con armas que infligen daño adicional con golpe preciso (armas cuerpo a cuerpo ágiles o de destreza, o ataques desarmados). Solo puedes usar un remate si tienes desparpajo, y pierdes tu desparpajo inmediatamente después de realizar un remate. Una vez que usas un remate, no puedes usar acciones con el rasgo ataque por el resto de tu turno.
+**Remate:** Los remates son movimientos de cierre espectaculares que usan tu desparpajo. Los remates solo pueden usarse con armas que infligen daño adicional con golpe preciso (armas cuerpo a cuerpo [ágiles](/apendices/rasgos/agil/) o [sutiles](/apendices/rasgos/sutil/), o ataques desarmados). Solo puedes usar un remate si tienes desparpajo, y pierdes tu desparpajo inmediatamente después de realizar un remate. Una vez que usas un remate, no puedes usar acciones con el rasgo ataque por el resto de tu turno.
 
 **Florecimiento:** Las acciones con el rasgo florecimiento son técnicas especiales que requieren demasiado esfuerzo como para realizarlas con frecuencia. Solo puedes usar una acción con el rasgo florecimiento por asalto.
 

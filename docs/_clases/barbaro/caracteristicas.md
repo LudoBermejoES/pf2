@@ -46,7 +46,7 @@ class_name: Bárbaro
 
 Accedes a tu furia interior y comienzas a irarte. Ganas un número de PG temporales igual a tu nivel + tu modificador de Constitución. Mientras estás en ira:
 
-- Infliges 2 de daño adicional en Golpes cuerpo a cuerpo. Este daño adicional se reduce a la mitad si tu arma o ataque desarmado es ágil.
+- Infliges 2 de daño adicional en Golpes cuerpo a cuerpo. Este daño adicional se reduce a la mitad si tu arma o ataque desarmado es [ágil](/apendices/rasgos/agil/).
 - No puedes usar acciones con el rasgo concentrar a menos que también tengan el rasgo ira. Puedes Buscar mientras estás en ira.
 
 La Ira dura 1 minuto, hasta que quedas inconsciente o hasta que el encuentro termina, lo que ocurra primero. No puedes detener voluntariamente tu ira. Cuando dejas de irarte, pierdes los PG temporales restantes de Ira y no puedes ganar PG temporales por usar la acción Ira de nuevo durante 1 minuto.
