@@ -329,36 +329,28 @@ The touch of undeath runs through your blood.
 
 ---
 
-## Key Terms
+## Características de clase de niveles superiores
 
-**Blood Magic:** Casting a sorcerous gift spell granted by your bloodline or a bloodline spell allows you to benefit from a blood magic effect you know. You can typically only benefit from one blood magic effect at a time.
+**Conjuros distintivos (3º):** Por cada rango de conjuro al que tengas acceso, elige un conjuro de ese rango como conjuro distintivo. No necesitas aprender por separado las versiones aumentadas de los conjuros distintivos.
 
-**Spellshape:** Actions with the spellshape trait tweak the properties of your spells. You must use a spellshape action directly before Casting the Spell you want to alter.
+**Fortaleza mágica (5º):** Tu rango de competencia en salvaciones de Fortaleza aumenta a experto.
 
----
+**Lanzador experto (7º):** Tus rangos de competencia en modificadores de ataque de conjuros y CD de conjuros aumentan a experto.
 
-## Higher-Level Class Features
+**Pericia en Reflejos (9º):** Tu rango de competencia en salvaciones de Reflejos aumenta a experto.
 
-**Signature Spells (3rd):** For each spell rank you have access to, choose one spell of that rank to be a signature spell. You don't need to learn heightened versions of signature spells separately.
+**Pericia en Percepción (11º):** Tu rango de competencia en Percepción aumenta a experto.
 
-**Magical Fortitude (5th):** Your proficiency rank for Fortitude saves increases to expert.
+**Pericia con armas (11º):** Tus rangos de competencia en armas simples y ataques desarmados aumentan a experto.
 
-**Expert Spellcaster (7th):** Your proficiency ranks for spell attack modifiers and spell DCs increase to expert.
+**Ropas defensivas (13º):** Tu rango de competencia en defensa sin armadura aumenta a experto.
 
-**Reflex Expertise (9th):** Your proficiency rank for Reflex saves increases to expert.
+**Especialización en armas (13º):** Infliges 2 de daño adicional con armas de experto, 3 con maestro, 4 con legendario.
 
-**Perception Expertise (11th):** Your proficiency rank for Perception increases to expert.
+**Lanzador maestro (15º):** Tus rangos de competencia en modificadores de ataque de conjuros y CD de conjuros aumentan a maestro.
 
-**Weapon Expertise (11th):** Your proficiency ranks for simple weapons and unarmed attacks increase to expert.
+**Voluntad majestuosa (17º):** Tu rango de competencia en salvaciones de Voluntad aumenta a maestro. Cuando obtienes un éxito en una salvación de Voluntad, obtienes un éxito crítico en su lugar.
 
-**Defensive Robes (13th):** Your proficiency rank in unarmored defense increases to expert.
+**Paradigma del linaje (19º):** Añade dos conjuros comunes de rango 10 de tu tradición a tu repertorio. Obtienes un único espacio de conjuro de rango 10 que puedes usar para lanzar estos conjuros.
 
-**Weapon Specialization (13th):** You deal 2 additional damage with expert weapons, 3 with master, 4 with legendary.
-
-**Master Spellcaster (15th):** Your proficiency ranks for spell attack modifiers and spell DCs increase to master.
-
-**Majestic Will (17th):** Your proficiency rank for Will saves increases to master. When you roll a success on a Will save, you get a critical success instead.
-
-**Bloodline Paragon (19th):** Add two common 10th-rank spells of your tradition to your repertoire. You gain a single 10th-rank spell slot you can use to cast these spells.
-
-**Legendary Spellcaster (19th):** Your proficiency ranks for spell attack modifiers and spell DCs increase to legendary.
+**Lanzador legendario (19º):** Tus rangos de competencia en modificadores de ataque de conjuros y CD de conjuros aumentan a legendario.

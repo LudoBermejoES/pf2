@@ -56,17 +56,17 @@ Algunas posturas de monje te permiten realizar ataques desarmados especiales mie
 
 | Ataque | Daño | Rasgos |
 |--------|--------|--------|
-| Colmillo de cobra | 1d4 P | Agile, deadly d10, finesse, unarmed, venomous |
-| Ala de grulla | 1d6 B | Agile, finesse, nonlethal, unarmed |
-| Cola de dragón | 1d10 B | Backswing, nonlethal, unarmed |
-| Piedra que cae | 1d8 B | Forceful, nonlethal, unarmed |
-| Barrido de hierro | 1d8 B | Nonlethal, parry, sweep, unarmed |
-| Rama látigo | 1d8 S | Agile, finesse, nonlethal, unarmed |
-| Agarre sombrío* | 1d4 vacío | Agile, grapple, reach, unarmed |
-| Golpe tambaleante | 1d8 B | Agile, backstabber, finesse, nonlethal, unarmed |
-| Garra de tigre | 1d8 S | Agile, finesse, nonlethal, unarmed |
-| Choque de viento* | 1d6 S | Agile, nonlethal, propulsive, unarmed |
-| Mandíbula de lobo | 1d8 P | Agile, backstabber, finesse, nonlethal, unarmed |
+| Colmillo de cobra | 1d4 P | Ágil, letal d10, sutileza, desarmado, venenoso |
+| Ala de grulla | 1d6 B | Ágil, sutileza, no letal, desarmado |
+| Cola de dragón | 1d10 B | Golpe trasero, no letal, desarmado |
+| Piedra que cae | 1d8 B | Forzado, no letal, desarmado |
+| Barrido de hierro | 1d8 B | No letal, parada, barrido, desarmado |
+| Rama látigo | 1d8 S | Ágil, sutileza, no letal, desarmado |
+| Agarre sombrío* | 1d4 vacío | Ágil, agarrar, alcance, desarmado |
+| Golpe tambaleante | 1d8 B | Ágil, acuchillador, sutileza, no letal, desarmado |
+| Garra de tigre | 1d8 S | Ágil, sutileza, no letal, desarmado |
+| Choque de viento* | 1d6 S | Ágil, no letal, propulsivo, desarmado |
+| Mandíbula de lobo | 1d8 P | Ágil, acuchillador, sutileza, no letal, desarmado |
 
 *Las posturas marcadas con un asterisco son conjuros de qi.
 
@@ -80,7 +80,7 @@ Algunas posturas de monje te permiten realizar ataques desarmados especiales mie
 
 **Requisitos:** No llevas armadura.
 
-Tus brazos aletean como las alas de una grulla. Obtienes una bonificación circunstancial +1 a CA, pero los únicos Golpes que puedes realizar son ataques de ala de grulla. Estos infligen 1d6 de daño contundente; pertenecen al grupo de pugilato; y tienen los rasgos agile, finesse, nonlethal y unarmed.
+Tus brazos aletean como las alas de una grulla. Obtienes una bonificación circunstancial +1 a CA, pero los únicos Golpes que puedes realizar son ataques de ala de grulla. Estos infligen 1d6 de daño contundente; pertenecen al grupo de pugilato; y tienen los rasgos ágil, sutileza, no letal y desarmado.
 
 Mientras estés en Postura de grulla, reduce en 5 la CD de Salto alto y Salto largo, y cuando Saltas, puedes desplazarte 1,5 m adicionales en horizontal o 0,6 m en vertical.
 
@@ -90,7 +90,7 @@ Mientras estés en Postura de grulla, reduce en 5 la CD de Salto alto y Salto la
 
 **Requisitos:** No llevas armadura.
 
-Adoptas la postura de un dragón y realizas poderosos golpes de pierna como la cola de un dragón azotando. Puedes realizar ataques de cola de dragón que infligen 1d10 de daño contundente. Pertenecen al grupo de pugilato y tienen los rasgos backswing, nonlethal y unarmed.
+Adoptas la postura de un dragón y realizas poderosos golpes de pierna como la cola de un dragón azotando. Puedes realizar ataques de cola de dragón que infligen 1d10 de daño contundente. Pertenecen al grupo de pugilato y tienen los rasgos golpe trasero, no letal y desarmado.
 
 Mientras estés en Postura de dragón, puedes ignorar el primer cuadro de terreno difícil al Avanzar.
 
@@ -100,7 +100,7 @@ Mientras estés en Postura de dragón, puedes ignorar el primer cuadro de terren
 
 **Requisitos:** No llevas armadura y estás en contacto con el suelo.
 
-Adoptas la postura de una montaña implacable. Los únicos Golpes que puedes realizar son ataques desarmados de piedra que cae. Estos infligen 1d8 de daño contundente; pertenecen al grupo de pugilato; y tienen los rasgos forceful, nonlethal y unarmed.
+Adoptas la postura de una montaña implacable. Los únicos Golpes que puedes realizar son ataques desarmados de piedra que cae. Estos infligen 1d8 de daño contundente; pertenecen al grupo de pugilato; y tienen los rasgos forzado, no letal y desarmado.
 
 Mientras estés en Postura de montaña, obtienes una bonificación de objeto +4 a CA y una bonificación circunstancial +2 a cualquier defensa contra Reposicionar, Empujar, Derribar y otros efectos de movimiento forzado. Tienes un tope al modificador de Destreza para tu CA de +0, y todas tus Velocidades se reducen en 1,5 m.
 
@@ -110,7 +110,7 @@ Mientras estés en Postura de montaña, obtienes una bonificación de objeto +4 
 
 **Requisitos:** No llevas armadura.
 
-Adoptas la postura de un tigre y puedes realizar ataques de garra de tigre. Estos infligen 1d8 de daño cortante; pertenecen al grupo de pugilato; y tienen los rasgos agile, finesse, nonlethal y unarmed. Con un éxito crítico con tus garras de tigre, si infliges daño, el objetivo sufre 1d4 de sangrado persistente.
+Adoptas la postura de un tigre y puedes realizar ataques de garra de tigre. Estos infligen 1d8 de daño cortante; pertenecen al grupo de pugilato; y tienen los rasgos ágil, sutileza, no letal y desarmado. Con un éxito crítico con tus garras de tigre, si infliges daño, el objetivo sufre 1d4 de sangrado persistente.
 
 Mientras tu Velocidad sea de al menos 6 m en Postura de tigre, puedes Dar un paso 3 m.
 
@@ -120,9 +120,9 @@ Mientras tu Velocidad sea de al menos 6 m en Postura de tigre, puedes Dar un pas
 
 **Requisitos:** No llevas armadura.
 
-Adoptas la postura de un lobo, bajo y con las manos como colmillos. Puedes realizar ataques desarmados de mandíbula de lobo. Estos infligen 1d8 de daño perforante; pertenecen al grupo de pugilato; y tienen los rasgos agile, backstabber, finesse, nonlethal y unarmed.
+Adoptas la postura de un lobo, bajo y con las manos como colmillos. Puedes realizar ataques desarmados de mandíbula de lobo. Estos infligen 1d8 de daño perforante; pertenecen al grupo de pugilato; y tienen los rasgos ágil, acuchillador, sutileza, no letal y desarmado.
 
-Si flanqueas a un objetivo mientras estás en Postura de lobo, tus ataques desarmados de mandíbula de lobo también ganan el rasgo trip.
+Si flanqueas a un objetivo mientras estás en Postura de lobo, tus ataques desarmados de mandíbula de lobo también ganan el rasgo derribar.
 
 ### Postura tambaleante · {% include accion.html tipo="1" %}
 
@@ -130,7 +130,7 @@ Si flanqueas a un objetivo mientras estás en Postura de lobo, tus ataques desar
 
 **Requisito previo:** entrenado en Engaño
 
-Adoptas una postura aparentemente desenfocada que imita los movimientos de un ebrio. Mientras estás en esta postura, obtienes una bonificación circunstancial +1 a Engaño para Engañar. Los únicos Golpes que puedes realizar son ataques desarmados de golpe tambaleante. Estos infligen 1d8 de daño contundente; pertenecen al grupo de pugilato; y tienen los rasgos agile, backstabber, finesse, nonlethal y unarmed.
+Adoptas una postura aparentemente desenfocada que imita los movimientos de un ebrio. Mientras estás en esta postura, obtienes una bonificación circunstancial +1 a Engaño para Engañar. Los únicos Golpes que puedes realizar son ataques desarmados de golpe tambaleante. Estos infligen 1d8 de daño contundente; pertenecen al grupo de pugilato; y tienen los rasgos ágil, acuchillador, sutileza, no letal y desarmado.
 
 Si un enemigo te golpea con un Golpe cuerpo a cuerpo mientras estás en esta postura, queda desprevenido contra el siguiente Golpe de golpe tambaleante que le hagas antes del final de tu siguiente turno.
 
