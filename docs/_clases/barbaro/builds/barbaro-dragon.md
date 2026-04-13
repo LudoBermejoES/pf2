@@ -37,43 +37,43 @@ adventure_path: null
 ## Progresión de Dotes
 
 ### Nivel 1
-- [Arrogancia Dracónica]({{ '/clases/barbaro/dotes/#arrogancia-draconica' | relative_url }}) ✓ — +2 contra efectos de emoción en ira
-- [Carga Repentina]({{ '/clases/barbaro/dotes/#carga-repentina' | relative_url }}) ✓ — Camina dos veces y Golpea
+- [Arrogancia Dracónica](/dotes/barbaro/arrogancia-draconica/) ✓ — +2 contra efectos de emoción en ira
+- [Carga Repentina](/dotes/barbaro/carga-repentina/) ✓ — Camina dos veces y Golpea
 
 ### Nivel 2
-- [Golpe Intimidante]({{ '/clases/barbaro/dotes/#golpe-intimidante' | relative_url }}) ✓ — Golpe que asusta
-- [Sin Escapatoria]({{ '/clases/barbaro/dotes/#sin-escapatoria' | relative_url }}) ✓ — Sigue a enemigos que huyen
+- [Golpe Intimidante](/dotes/barbaro/golpe-intimidante/) ✓ — Golpe que asusta
+- [Sin Escapatoria](/dotes/barbaro/sin-escapatoria/) ✓ — Sigue a enemigos que huyen
 
 ### Nivel 4
-- [Barrido]({{ '/clases/barbaro/dotes/#barrido' | relative_url }}) ✓ — Golpea a dos enemigos adyacentes
-- [Ira Herida]({{ '/clases/barbaro/dotes/#ira-herida' | relative_url }}) ✓ — Entra en ira al recibir daño
+- [Barrido](/dotes/barbaro/barrido/) ✓ — Golpea a dos enemigos adyacentes
+- [Ira Herida](/dotes/barbaro/ira-herida/) ✓ — Entra en ira al recibir daño
 
 ### Nivel 6
-- [Aliento de Ira Dracónica]({{ '/clases/barbaro/dotes/#aliento-de-ira-draconica' | relative_url }}) ✓ — Exhala daño elemental en cono
-- [Golpe Reactivo]({{ '/clases/barbaro/dotes/#golpe-reactivo' | relative_url }}) ✓ — Ataque de oportunidad
+- [Aliento de Ira Dracónica](/dotes/barbaro/aliento-de-ira-draconica/) ✓ — Exhala daño elemental en cono
+- [Golpe Reactivo](/dotes/barbaro/golpe-reactivo/) ✓ — Ataque de oportunidad
 
 ### Nivel 8
-- [Vigor Renovado]({{ '/clases/barbaro/dotes/#vigor-renovado' | relative_url }}) ✓ — Recupera PG temporales
-- [Compartir Ira]({{ '/clases/barbaro/dotes/#compartir-ira' | relative_url }}) ✓ — Aliado obtiene efectos de ira
+- [Vigor Renovado](/dotes/barbaro/vigor-renovado/) ✓ — Recupera PG temporales
+- [Compartir Ira](/dotes/barbaro/compartir-ira/) ✓ — Aliado obtiene efectos de ira
 
 ### Nivel 10
-- [Ven a por Mí]({{ '/clases/barbaro/dotes/#ven-a-por-mi' | relative_url }}) ✓ — Provoca ataques para contraatacar
-- [Aullido Terrorífico]({{ '/clases/barbaro/dotes/#aullido-terrorífico' | relative_url }}) ✓ — Desmoraliza a todos los enemigos cercanos
+- [Ven a por Mí](/dotes/barbaro/ven-a-por-mi/) ✓ — Provoca ataques para contraatacar
+- [Aullido Terrorífico](/dotes/barbaro/aullido-terrorifico/) ✓ — Desmoraliza a todos los enemigos cercanos
 
 ### Nivel 12
-- [Alas de Ira Dracónica]({{ '/clases/barbaro/dotes/#alas-de-ira-draconica' | relative_url }}) ✓ — Vuela mientras estás en ira
+- [Alas de Ira Dracónica](/dotes/barbaro/alas-de-ira-draconica/) ✓ — Vuela mientras estás en ira
 
 ### Nivel 14
-- [Golpe Torbellino]({{ '/clases/barbaro/dotes/#golpe-torbellino' | relative_url }}) ✓ — Golpea a todos los enemigos en alcance
+- [Golpe Torbellino](/dotes/barbaro/golpe-torbellino/) ✓ — Golpea a todos los enemigos en alcance
 
 ### Nivel 16
-- [Transformación Dracónica]({{ '/clases/barbaro/dotes/#transformacion-draconica' | relative_url }}) ✓ — Conviértete en un dragón Grande
+- [Transformación Dracónica](/dotes/barbaro/transformacion-draconica/) ✓ — Conviértete en un dragón Grande
 
 ### Nivel 18
-- [Crítico Brutal]({{ '/clases/barbaro/dotes/#critico-brutal' | relative_url }}) ✓ — Dados extra y sangrado en críticos
+- [Crítico Brutal](/dotes/barbaro/critico-brutal/) ✓ — Dados extra y sangrado en críticos
 
 ### Nivel 20
-- [Juggernaut Imparable]({{ '/clases/barbaro/dotes/#juggernaut-imparable' | relative_url }}) ✓ — Resistencia masiva a todo daño
+- [Juggernaut Imparable](/dotes/barbaro/juggernaut-imparable/) ✓ — Resistencia masiva a todo daño
 
 ---
 
@@ -98,16 +98,16 @@ El instinto del dragón te conecta con un tipo específico de dragón, determina
 El Bárbaro del Dragón combina poder cuerpo a cuerpo con capacidades especiales:
 
 1. **Ira dracónica**: Daño elemental adicional en ataques
-2. **Aliento devastador**: [Aliento de Ira Dracónica]({{ '/clases/barbaro/dotes/#aliento-de-ira-draconica' | relative_url }}) para daño de área
-3. **Movilidad aérea**: [Alas de Ira Dracónica]({{ '/clases/barbaro/dotes/#alas-de-ira-draconica' | relative_url }}) permite volar
-4. **Transformación**: [Transformación Dracónica]({{ '/clases/barbaro/dotes/#transformacion-draconica' | relative_url }}) te convierte en dragón
+2. **Aliento devastador**: [Aliento de Ira Dracónica](/dotes/barbaro/aliento-de-ira-draconica/) para daño de área
+3. **Movilidad aérea**: [Alas de Ira Dracónica](/dotes/barbaro/alas-de-ira-draconica/) permite volar
+4. **Transformación**: [Transformación Dracónica](/dotes/barbaro/transformacion-draconica/) te convierte en dragón
 
 ### Secuencia de Combate
-1. [Carga Repentina]({{ '/clases/barbaro/dotes/#carga-repentina' | relative_url }}) para entrar en combate
+1. [Carga Repentina](/dotes/barbaro/carga-repentina/) para entrar en combate
 2. Ira para activar daño elemental
-3. [Aliento de Ira Dracónica]({{ '/clases/barbaro/dotes/#aliento-de-ira-draconica' | relative_url }}) contra grupos
+3. [Aliento de Ira Dracónica](/dotes/barbaro/aliento-de-ira-draconica/) contra grupos
 4. Golpes con daño elemental adicional
-5. [Golpe Reactivo]({{ '/clases/barbaro/dotes/#golpe-reactivo' | relative_url }}) como reacción
+5. [Golpe Reactivo](/dotes/barbaro/golpe-reactivo/) como reacción
 
 ### Fortalezas
 - Daño elemental atraviesa algunas resistencias

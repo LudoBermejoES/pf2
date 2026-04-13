@@ -37,47 +37,47 @@ adventure_path: null
 ## Progresión de Dotes
 
 ### Nivel 1
-- [Carga Repentina]({{ '/clases/barbaro/dotes/#carga-repentina' | relative_url }}) ✓ — Camina dos veces y Golpea
-- [Intimidación Rabiosa]({{ '/clases/barbaro/dotes/#intimidacion-rabiosa' | relative_url }}) ✓ — Desmoraliza en ira
+- [Carga Repentina](/dotes/barbaro/carga-repentina/) ✓ — Camina dos veces y Golpea
+- [Intimidación Rabiosa](/dotes/barbaro/intimidacion-rabiosa/) ✓ — Desmoraliza en ira
 
 ### Nivel 2
-- [Golpe Intimidante]({{ '/clases/barbaro/dotes/#golpe-intimidante' | relative_url }}) ✓ — Golpe que asusta
-- [Sin Escapatoria]({{ '/clases/barbaro/dotes/#sin-escapatoria' | relative_url }}) ✓ — Sigue a enemigos que huyen
+- [Golpe Intimidante](/dotes/barbaro/golpe-intimidante/) ✓ — Golpe que asusta
+- [Sin Escapatoria](/dotes/barbaro/sin-escapatoria/) ✓ — Sigue a enemigos que huyen
 
 ### Nivel 4
-- [Cicatrices de Acero]({{ '/clases/barbaro/dotes/#cicatrices-de-acero' | relative_url }}) ✓ — Resistencia a golpes críticos
-- [Ira Herida]({{ '/clases/barbaro/dotes/#ira-herida' | relative_url }}) ✓ — Entra en ira al recibir daño
+- [Cicatrices de Acero](/dotes/barbaro/cicatrices-de-acero/) ✓ — Resistencia a golpes críticos
+- [Ira Herida](/dotes/barbaro/ira-herida/) ✓ — Entra en ira al recibir daño
 
 ### Nivel 6
-- [Hendir]({{ '/clases/barbaro/dotes/#hendir' | relative_url }}) ✓ — Golpe extra al matar enemigo
-- [Golpe Reactivo]({{ '/clases/barbaro/dotes/#golpe-reactivo' | relative_url }}) ✓ — Ataque de oportunidad
+- [Hendir](/dotes/barbaro/hendir/) ✓ — Golpe extra al matar enemigo
+- [Golpe Reactivo](/dotes/barbaro/golpe-reactivo/) ✓ — Ataque de oportunidad
 
 ### Nivel 8
-- [Vigor Renovado]({{ '/clases/barbaro/dotes/#vigor-renovado' | relative_url }}) ✓ — Recupera PG temporales
-- [Abusón Furioso]({{ '/clases/barbaro/dotes/#abuson-furioso' | relative_url }}) ✓ — +2 a maniobras de combate
+- [Vigor Renovado](/dotes/barbaro/vigor-renovado/) ✓ — Recupera PG temporales
+- [Abusón Furioso](/dotes/barbaro/abuson-furioso/) ✓ — +2 a maniobras de combate
 
 ### Nivel 10
-- [Gran Hendidura]({{ '/clases/barbaro/dotes/#gran-hendidura' | relative_url }}) ✓ — Continúa hendiendo mientras mates
-- [Empellón]({{ '/clases/barbaro/dotes/#empellon' | relative_url }}) ✓ — Empuja al golpear
+- [Gran Hendidura](/dotes/barbaro/gran-hendidura/) ✓ — Continúa hendiendo mientras mates
+- [Empellón](/dotes/barbaro/empellon/) ✓ — Empuja al golpear
 
 ### Nivel 12
-- [Agarre Furioso]({{ '/clases/barbaro/dotes/#agarre-furioso' | relative_url }}) ✓ — Agarra al golpear
-- [Abrazar el Dolor]({{ '/clases/barbaro/dotes/#abrazar-el-dolor' | relative_url }}) ✓ — Agarra cuando te dañan
+- [Agarre Furioso](/dotes/barbaro/agarre-furioso/) ✓ — Agarra al golpear
+- [Abrazar el Dolor](/dotes/barbaro/abrazar-el-dolor/) ✓ — Agarra cuando te dañan
 
 ### Nivel 14
-- [Golpe Impresionante]({{ '/clases/barbaro/dotes/#golpe-impresionante' | relative_url }}) ✓ — Empuja y derriba
-- [Golpe Torbellino]({{ '/clases/barbaro/dotes/#golpe-torbellino' | relative_url }}) ✓ — Golpea a todos en alcance
+- [Golpe Impresionante](/dotes/barbaro/golpe-impresionante/) ✓ — Empuja y derriba
+- [Golpe Torbellino](/dotes/barbaro/golpe-torbellino/) ✓ — Golpea a todos en alcance
 
 ### Nivel 16
-- [Venganza Furiosa]({{ '/clases/barbaro/dotes/#venganza-furiosa' | relative_url }}) ✓ — Contraataca críticos enemigos
-- [Golpes Destrozadores]({{ '/clases/barbaro/dotes/#golpes-destrozadores' | relative_url }}) ✓ — Ignora Dureza de objetos
+- [Venganza Furiosa](/dotes/barbaro/venganza-furiosa/) ✓ — Contraataca críticos enemigos
+- [Golpes Destrozadores](/dotes/barbaro/golpes-destrozadores/) ✓ — Ignora Dureza de objetos
 
 ### Nivel 18
-- [Crítico Brutal]({{ '/clases/barbaro/dotes/#critico-brutal' | relative_url }}) ✓ — Dados extra y sangrado en críticos
-- [Evisceración Viciosa]({{ '/clases/barbaro/dotes/#evisceracion-viciosa' | relative_url }}) ✓ — Golpe que debilita
+- [Crítico Brutal](/dotes/barbaro/critico-brutal/) ✓ — Dados extra y sangrado en críticos
+- [Evisceración Viciosa](/dotes/barbaro/evisceracion-viciosa/) ✓ — Golpe que debilita
 
 ### Nivel 20
-- [Juggernaut Imparable]({{ '/clases/barbaro/dotes/#juggernaut-imparable' | relative_url }}) ✓ — Resistencia masiva a todo daño
+- [Juggernaut Imparable](/dotes/barbaro/juggernaut-imparable/) ✓ — Resistencia masiva a todo daño
 
 ---
 
@@ -89,8 +89,8 @@ El instinto de furia representa la ira pura, sin conexión con espíritus o elem
 
 - Mayor daño base de ira
 - Resistencia física mientras estás en ira
-- [Cicatrices de Acero]({{ '/clases/barbaro/dotes/#cicatrices-de-acero' | relative_url }}) reduce críticos enemigos
-- [Venganza Furiosa]({{ '/clases/barbaro/dotes/#venganza-furiosa' | relative_url }}) como contraataque
+- [Cicatrices de Acero](/dotes/barbaro/cicatrices-de-acero/) reduce críticos enemigos
+- [Venganza Furiosa](/dotes/barbaro/venganza-furiosa/) como contraataque
 
 ---
 
@@ -99,16 +99,16 @@ El instinto de furia representa la ira pura, sin conexión con espíritus o elem
 El Bárbaro de Furia Pura es una máquina de daño físico:
 
 1. **Daño masivo**: Mayor daño de ira que otros instintos
-2. **Resistencia**: [Cicatrices de Acero]({{ '/clases/barbaro/dotes/#cicatrices-de-acero' | relative_url }}) + [Juggernaut Imparable]({{ '/clases/barbaro/dotes/#juggernaut-imparable' | relative_url }})
-3. **Encadenamiento**: [Hendir]({{ '/clases/barbaro/dotes/#hendir' | relative_url }}) → [Gran Hendidura]({{ '/clases/barbaro/dotes/#gran-hendidura' | relative_url }})
-4. **Control**: Maniobras potenciadas por [Abusón Furioso]({{ '/clases/barbaro/dotes/#abuson-furioso' | relative_url }})
+2. **Resistencia**: [Cicatrices de Acero](/dotes/barbaro/cicatrices-de-acero/) + [Juggernaut Imparable](/dotes/barbaro/juggernaut-imparable/)
+3. **Encadenamiento**: [Hendir](/dotes/barbaro/hendir/) → [Gran Hendidura](/dotes/barbaro/gran-hendidura/)
+4. **Control**: Maniobras potenciadas por [Abusón Furioso](/dotes/barbaro/abuson-furioso/)
 
 ### Secuencia de Combate
-1. [Carga Repentina]({{ '/clases/barbaro/dotes/#carga-repentina' | relative_url }}) + Ira
+1. [Carga Repentina](/dotes/barbaro/carga-repentina/) + Ira
 2. Golpe con daño masivo
-3. [Hendir]({{ '/clases/barbaro/dotes/#hendir' | relative_url }}) si matas al objetivo
-4. [Golpe Reactivo]({{ '/clases/barbaro/dotes/#golpe-reactivo' | relative_url }}) contra enemigos que actúan
-5. [Venganza Furiosa]({{ '/clases/barbaro/dotes/#venganza-furiosa' | relative_url }}) si te critican
+3. [Hendir](/dotes/barbaro/hendir/) si matas al objetivo
+4. [Golpe Reactivo](/dotes/barbaro/golpe-reactivo/) contra enemigos que actúan
+5. [Venganza Furiosa](/dotes/barbaro/venganza-furiosa/) si te critican
 
 ### Fortalezas
 - Máximo daño físico posible
