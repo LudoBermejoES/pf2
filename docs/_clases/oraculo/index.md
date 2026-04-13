@@ -66,6 +66,12 @@ Tu canal hacia el poder divino evita los canales tradicionales de oración y ser
 
 ---
 
+## Cómo crear un personaje
+
+Consulta la [guía de creación de personaje]({{ '/clases/oraculo/creacion-personaje/' | relative_url }}) para un recorrido paso a paso: concepto, atributos, ascendencias y bagajes recomendados, elección de misterio y maldición, habilidades clave, equipo inicial y un ejemplo completo de personaje.
+
+---
+
 ## Builds recomendadas
 
 - [Oráculo de Batalla]({{ '/clases/oraculo/builds/oraculo-batalla/' | relative_url }}) — Híbrido marcial-lanzador con guerreros fantasmales

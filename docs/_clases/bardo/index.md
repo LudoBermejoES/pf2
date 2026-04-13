@@ -90,6 +90,12 @@ Puedes ganar dinero y prestigio con tus interpretaciones, haciendote un nombre y
 - [Dotes]({{ '/clases/bardo/dotes_short/' | relative_url }})
 - [Ejemplos de Juego]({{ '/clases/bardo/ejemplos/' | relative_url }})
 
+## Cómo crear un personaje
+
+Guía paso a paso para tomar todas las decisiones de creación: concepto, musa, ascendencia, atributos, habilidades y equipo inicial, con un ejemplo completo al final.
+
+[Cómo crear un Bardo]({{ '/clases/bardo/creacion-personaje/' | relative_url }})
+
 ---
 
 ## Builds recomendadas

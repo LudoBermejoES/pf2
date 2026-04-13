@@ -81,6 +81,14 @@ A 1.er nivel, obtienes los rangos de competencia indicados en las siguientes est
 
 ---
 
+## Cómo crear un personaje
+
+Guía paso a paso para construir un explorador desde cero: atributo clave, ascendencia, ventaja del cazador, habilidades prioritarias y equipo inicial, con un ejemplo completo de personaje al final.
+
+[Cómo crear un Explorador]({{ '/clases/explorador/creacion-personaje/' | relative_url }})
+
+---
+
 ## Builds Recomendadas
 
 Configuraciones probadas y divertidas para el Explorador:

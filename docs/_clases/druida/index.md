@@ -83,6 +83,10 @@ Tu elección de orden de druida añade otros anatemas, tal y como se detalla en 
 - [Dotes]({{ '/clases/druida/dotes_short/' | relative_url }})
 - [Ejemplos de Juego]({{ '/clases/druida/ejemplos/' | relative_url }})
 
+## Cómo crear un personaje
+
+[Guía paso a paso para crear un druida]({{ '/clases/druida/creacion-personaje/' | relative_url }}): desde el concepto y la elección de orden hasta la distribución de atributos, habilidades, equipo y conjuros de nivel 1, con un ejemplo completo de personaje.
+
 ---
 
 ## Builds Recomendadas

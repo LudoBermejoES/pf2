@@ -65,6 +65,12 @@ Muchos guerreros confían en la fuerza bruta, armaduras pesadas o armas engorros
 
 ---
 
+## Cómo crear un personaje
+
+Guía paso a paso para construir un espadachín desde cero, con recomendaciones de ascendencia, bagaje, estilo, atributos, habilidades y equipo: [Cómo crear un Espadachín]({{ '/clases/espadachin/creacion-personaje/' | relative_url }}).
+
+---
+
 ## Builds recomendadas
 
 - [Espadachín Duelista]({{ '/clases/espadachin/builds/espadachin-duelista/' | relative_url }}) — Maestro de la riposte y el contraataque elegante

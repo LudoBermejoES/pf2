@@ -66,6 +66,12 @@ No elegiste convertirte en lanzador de conjuros: naciste siéndolo. Hay magia en
 
 ---
 
+## Cómo crear un personaje
+
+[Guía paso a paso para crear un hechicero]({{ '/clases/hechicero/creacion-personaje/' | relative_url }}) — concepto, linaje, ascendencia, atributos, habilidades, conjuros iniciales y ejemplo de personaje completo.
+
+---
+
 ## Builds recomendadas
 
 ### Para Kingmaker

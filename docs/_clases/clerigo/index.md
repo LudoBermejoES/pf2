@@ -78,6 +78,10 @@ A 1.er nivel, obtienes los rangos de competencia indicados en las siguientes est
 - [Dotes]({{ '/clases/clerigo/dotes_short/' | relative_url }})
 - [Ejemplos de Juego]({{ '/clases/clerigo/ejemplos/' | relative_url }})
 
+## Cómo crear un personaje
+
+Guía paso a paso para tomar todas las decisiones de creación del clérigo, desde el concepto y el dios hasta la distribución de atributos y el equipo inicial: [Cómo crear un Clérigo]({{ '/clases/clerigo/creacion-personaje/' | relative_url }}).
+
 ---
 
 ## Builds Recomendadas

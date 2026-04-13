@@ -65,6 +65,12 @@ No hay vista más hermosa para ti que un extraño brebaje burbujeando en un matr
 
 ---
 
+## Cómo crear un personaje
+
+Consulta la [guía paso a paso de creación de alquimista]({{ '/clases/alquimista/creacion-personaje/' | relative_url }}) para elegir campo de investigación, distribuir atributos, preparar el libro de fórmulas y ver un ejemplo completo de personaje al nivel 1.
+
+---
+
 ## Builds recomendadas
 
 - [Alquimista Bombardero]({{ '/clases/alquimista/builds/alquimista-bombardero/' | relative_url }}) — Artillero de bombas con devastador daño de área

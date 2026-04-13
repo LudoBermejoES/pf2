@@ -84,6 +84,12 @@ Podrías dedicarte a vaciar bolsillos o a comerciar en mercancias ilegales. Tamb
 - [Dotes]({{ '/clases/picaro/dotes_short/' | relative_url }})
 - [Ejemplos de Juego]({{ '/clases/picaro/ejemplos/' | relative_url }})
 
+## Cómo crear un personaje
+
+Guía paso a paso para construir un pícaro desde cero: elección de enredo, distribución de atributos, habilidades clave y equipo inicial, con un ejemplo de personaje completo.
+
+- [Cómo crear un Pícaro]({{ '/clases/picaro/creacion-personaje/' | relative_url }})
+
 ---
 
 ## Builds Recomendadas

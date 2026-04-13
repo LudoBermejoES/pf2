@@ -76,6 +76,12 @@ A 1.er nivel, obtienes los rangos de competencia indicados en las siguientes est
 
 ---
 
+## Cómo crear un personaje
+
+[Guía paso a paso para crear un Guerrero]({{ '/clases/guerrero/creacion-personaje/' | relative_url }}) — desde el concepto inicial hasta los valores finales, con ejemplo de personaje completo.
+
+---
+
 ## Builds Recomendadas
 
 Configuraciones probadas y divertidas para el Guerrero:

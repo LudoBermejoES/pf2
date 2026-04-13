@@ -65,6 +65,12 @@ La fuerza de tu puño fluye desde tu mente y tu espíritu. Buscas la perfección
 
 ---
 
+## Cómo crear un personaje
+
+[Guía paso a paso para crear un monje]({{ '/clases/monje/creacion-personaje/' | relative_url }}) — concepto, atributo clave, ascendencia, postura inicial y ejemplo completo de personaje.
+
+---
+
 ## Builds recomendadas
 
 - [Monje de Qi]({{ '/clases/monje/builds/monje-qi/' | relative_url }}) — Maestro de los hechizos de qi con control elemental y curación

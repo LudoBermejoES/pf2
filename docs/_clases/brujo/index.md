@@ -109,6 +109,12 @@ Con el corazón de hielo, quizá heredado de tu patrón, comandas los vientos g�
 - [Dotes]({{ '/clases/brujo/dotes_short/' | relative_url }})
 - [Ejemplos de Juego]({{ '/clases/brujo/ejemplos/' | relative_url }})
 
+## Cómo crear un personaje
+
+Guía paso a paso para construir un brujo desde cero: elección de patrón y tradición mágica, distribución de atributos, habilidades, equipo y un ejemplo de personaje completo.
+
+[Cómo crear un Brujo]({{ '/clases/brujo/creacion-personaje/' | relative_url }})
+
 ---
 
 ## Builds recomendadas

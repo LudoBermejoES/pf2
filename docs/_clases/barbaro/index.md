@@ -65,6 +65,12 @@ La ira te consume en combate. Te deleitas causando estragos y usando poderosas a
 
 ---
 
+## Cómo crear un personaje
+
+Guía paso a paso para construir un bárbaro desde cero: elección de instinto, distribución de atributos, ascendencias y bagajes recomendados, y un ejemplo completo de personaje. [Leer la guía de creación]({{ '/clases/barbaro/creacion-personaje/' | relative_url }}).
+
+---
+
 ## Builds recomendadas
 
 - [Bárbaro del Dragón]({{ '/clases/barbaro/builds/barbaro-dragon/' | relative_url }}) — Aliento elemental y transformación dracónica

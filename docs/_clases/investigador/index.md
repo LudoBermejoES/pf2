@@ -65,6 +65,12 @@ Buscas descubrir la verdad, persiguiendo con tenacidad pistas para revelar los p
 
 ---
 
+## Cómo crear un personaje
+
+Guía paso a paso para elegir ascendencia, bagaje, metodología, atributos, habilidades y equipo en el nivel 1: [Cómo crear un Investigador]({{ '/clases/investigador/creacion-personaje/' | relative_url }}).
+
+---
+
 ## Builds recomendadas
 
 - [Investigador Empirista]({{ '/clases/investigador/builds/investigador-empirista/' | relative_url }}) — Observador analítico con percepción superior

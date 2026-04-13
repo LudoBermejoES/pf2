@@ -73,6 +73,12 @@ Aprendes nuevos conjuros, creas objetos mágicos o inscribes pergaminos para el 
 - [Dotes]({{ '/clases/mago/dotes_short/' | relative_url }})
 - [Ejemplos de Juego]({{ '/clases/mago/ejemplos/' | relative_url }})
 
+## Cómo crear un personaje
+
+Guía paso a paso para tomar todas las decisiones de creación del mago: ascendencia, bagaje, tesis arcana, escuela, selección de conjuros y equipo inicial, con un ejemplo completo.
+
+[Cómo crear un Mago]({{ '/clases/mago/creacion-personaje/' | relative_url }})
+
 ---
 
 ## Builds Recomendadas

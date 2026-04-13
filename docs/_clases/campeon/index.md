@@ -66,6 +66,12 @@ Eres un emisario de una deidad, un servidor devoto que ha asumido un pesado mant
 
 ---
 
+## Cómo crear un personaje
+
+Consulta la [guía paso a paso de creación de personaje]({{ '/clases/campeon/creacion-personaje/' | relative_url }}) para elegir causa, deidad, atributos, ascendencia y equipamiento de forma estructurada, con un ejemplo completo al final.
+
+---
+
 ## Builds recomendadas
 
 ### Para Kingmaker
