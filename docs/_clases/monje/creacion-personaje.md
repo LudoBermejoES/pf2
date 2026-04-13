@@ -32,9 +32,9 @@ El monje elige uno de los dos como atributo clave al nivel 1. Esta decisión def
 | Atributo clave | Adecuado para |
 |----------------|---------------|
 | **Fuerza** | Posturas de daño contundente (Montaña, Dragón), golpes potentes, mayor daño por impacto |
-| **Destreza** | Posturas con rasgos agile o finesse (Tigre, Lobo, Grulla, Tambaleante), mayor CA sin armadura, ataques más precisos |
+| **Destreza** | Posturas con rasgos [ágil](/apendices/rasgos/agil/) o [sutil](/apendices/rasgos/sutil/) (Tigre, Lobo, Grulla, Tambaleante), mayor CA sin armadura, ataques más precisos |
 
-Si tu concepto es un golpeador pesado, toma Fuerza. Si buscas velocidad, flanqueo o aprovechar rasgos finesse, toma Destreza. El monje con Destreza también se beneficia más del bono de Defensa sin armadura al nivel 1, donde empieza como Experto.
+Si tu concepto es un golpeador pesado, toma Fuerza. Si buscas velocidad, flanqueo o aprovechar el rasgo [sutil](/apendices/rasgos/sutil/), toma Destreza. El monje con Destreza también se beneficia más del bono de Defensa sin armadura al nivel 1, donde empieza como Experto.
 
 ---
 
@@ -69,12 +69,12 @@ Elige una dote de postura al nivel 1. Esta es la decisión más importante del p
 
 | Postura | Ataque | Daño | Rasgo clave | Mejor con |
 |---------|--------|------|-------------|-----------|
-| **Postura de grulla** | Ala de grulla | 1d6 B | Agile, finesse | Destreza, movilidad vertical |
-| **Postura de dragón** | Cola de dragón | 1d10 B | Backswing | Fuerza, daño alto por golpe |
-| **Postura de montaña** | Piedra que cae | 1d8 B | Forceful | Fuerza, tanque defensivo |
-| **Postura de tigre** | Garra de tigre | 1d8 S | Agile, finesse | Destreza, sangrado persistente |
-| **Postura de lobo** | Mandíbula de lobo | 1d8 P | Agile, finesse, backstabber | Destreza, flanqueo |
-| **Postura tambaleante** | Golpe tambaleante | 1d8 B | Agile, finesse, backstabber | Destreza, engaño |
+| **Postura de grulla** | Ala de grulla | 1d6 B | [Ágil](/apendices/rasgos/agil/), [sutil](/apendices/rasgos/sutil/) | Destreza, movilidad vertical |
+| **Postura de dragón** | Cola de dragón | 1d10 B | [Revés](/apendices/rasgos/reves/) | Fuerza, daño alto por golpe |
+| **Postura de montaña** | Piedra que cae | 1d8 B | Forzado | Fuerza, tanque defensivo |
+| **Postura de tigre** | Garra de tigre | 1d8 S | [Ágil](/apendices/rasgos/agil/), [sutil](/apendices/rasgos/sutil/) | Destreza, sangrado persistente |
+| **Postura de lobo** | Mandíbula de lobo | 1d8 P | [Ágil](/apendices/rasgos/agil/), [sutil](/apendices/rasgos/sutil/), [puñalada trapera](/apendices/rasgos/punalada-trapera/) | Destreza, flanqueo |
+| **Postura tambaleante** | Golpe tambaleante | 1d8 B | [Ágil](/apendices/rasgos/agil/), [sutil](/apendices/rasgos/sutil/), [puñalada trapera](/apendices/rasgos/punalada-trapera/) | Destreza, engaño |
 
 Si quieres combate a distancia, toma Postura de arquero monástico y equípate con un arco largo o arco corto.
 
@@ -168,4 +168,4 @@ Para el primer nivel de habilidad (nivel 2), considera:
 | **PG iniciales** | 10 + 1 (CON) = 11 |
 | **CA inicial** | 10 + 4 (DES) + 2 (Experto en defensa sin armadura) = 16 |
 
-**Notas de juego:** La velocidad de 9 m del elfo más el bono de Movimiento increíble al nivel 3 deja a Fenra en 12 m, lo que le permite reposicionarse con facilidad. La Postura de tigre con rasgos agile y finesse aprovecha plenamente su Destreza +4. El sangrado persistente de los críticos de garra de tigre la convierte en una amenaza constante incluso contra enemigos resistentes. Medicina (firma por Acólito) cubre la falta de curación mágica en los niveles bajos.
+**Notas de juego:** La velocidad de 9 m del elfo más el bono de Movimiento increíble al nivel 3 deja a Fenra en 12 m, lo que le permite reposicionarse con facilidad. La Postura de tigre con rasgos [ágil](/apendices/rasgos/agil/) y [sutil](/apendices/rasgos/sutil/) aprovecha plenamente su Destreza +4. El sangrado persistente de los críticos de garra de tigre la convierte en una amenaza constante incluso contra enemigos resistentes. Medicina (firma por Acólito) cubre la falta de curación mágica en los niveles bajos.

@@ -32,7 +32,7 @@ Tu concepto debería encajar en uno de estos estilos, porque el estilo que elija
 
 La Destreza es el atributo clave del espadachín. Afecta a:
 
-- La bonificación a ataque con armas ágiles y de destreza (que son las únicas que activan Golpe preciso).
+- La bonificación a ataque con armas [ágiles](/apendices/rasgos/agil/) y [sutiles](/apendices/rasgos/sutil/) (que son las únicas que activan Golpe preciso).
 - La CA con armadura ligera.
 - Las salvaciones de Reflejos (en las que el espadachín destaca desde el nivel 1 con rango de experto).
 - Habilidades centrales como Acrobacias y Latrocinio.
@@ -159,10 +159,10 @@ El espadachín necesita armas ágiles o de destreza para activar Golpe preciso. 
 
 **Armas recomendadas:**
 
-- **Estoque** (1d6 perforante, ágil, destreza, golpe fino) — La opción de tema más clásica y mecánicamente perfecta.
-- **Rapier** (1d6 perforante, destreza, golpe fino) — Más daño por golpe que el estoque, sin el rasgo ágil pero con mayor alcance temático.
-- **Daga** (1d4 perforante, ágil, destreza) — Útil como arma secundaria para tirar o atacar a corta distancia.
-- **Espada corta** (1d6 perforante, ágil) — Una alternativa equilibrada si quieres un arma con rasgo ágil y dado de daño mayor.
+- **Estoque** (1d6 perforante, [ágil](/apendices/rasgos/agil/), [sutil](/apendices/rasgos/sutil/), golpe fino) — La opción de tema más clásica y mecánicamente perfecta.
+- **Rapier** (1d6 perforante, [sutil](/apendices/rasgos/sutil/), golpe fino) — Más daño por golpe que el estoque, sin el rasgo [ágil](/apendices/rasgos/agil/) pero con mayor alcance temático.
+- **Daga** (1d4 perforante, [ágil](/apendices/rasgos/agil/), [sutil](/apendices/rasgos/sutil/)) — Útil como arma secundaria para tirar o atacar a corta distancia.
+- **Espada corta** (1d6 perforante, [ágil](/apendices/rasgos/agil/)) — Una alternativa equilibrada si quieres un arma con rasgo [ágil](/apendices/rasgos/agil/) y dado de daño mayor.
 
 **Armadura:**
 
@@ -179,7 +179,7 @@ El espadachín necesita armas ágiles o de destreza para activar Golpe preciso. 
 
 Antes de finalizar el personaje, verifica:
 
-- [ ] Tu arma tiene rasgo ágil o de destreza.
+- [ ] Tu arma tiene rasgo [ágil](/apendices/rasgos/agil/) o [sutil](/apendices/rasgos/sutil/).
 - [ ] Tu bagaje refuerza la habilidad de tu estilo (o al menos no la contradice).
 - [ ] Tienes al menos +2 en Constitución para aguantar.
 - [ ] Entiendes cómo ganar desparpajo con tu estilo específico.

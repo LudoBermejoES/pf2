@@ -36,7 +36,7 @@ El campeón elige entre dos atributos clave:
 | **Fuerza** | Armadura pesada, armas a dos manos, máximo daño cuerpo a cuerpo |
 | **Destreza** | Armadura intermedia o ligera, posicionamiento más ágil, algunas builds de dotes |
 
-La mayoría de campeones eligen **Fuerza**. La Destreza es útil si tu dios favorece armas de finura o si quieres un campeón más móvil.
+La mayoría de campeones eligen **Fuerza**. La Destreza es útil si tu dios favorece armas con el rasgo [sutil](/apendices/rasgos/sutil/) o si quieres un campeón más móvil.
 
 Tu atributo clave comienza en 10 y sube a 12 durante la creación (o puedes empezar en 18 si optas por el método de compra de puntos estándar asignando 4 aumentos libres en él).
 

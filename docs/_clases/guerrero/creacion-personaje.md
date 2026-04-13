@@ -29,8 +29,8 @@ Antes de asignar ningún número, decide qué tipo de guerrero quieres ser. Esto
 
 El guerrero elige entre **Fuerza** o **Destreza** como atributo clave a 1.er nivel. Esta elección define tu estilo de combate para toda la campaña.
 
-- **Fuerza**: obligatorio para armas cuerpo a cuerpo sin el rasgo ágil o finura, y para la armadura pesada sin penalización a velocidad. Es la opción por defecto para guerreros frontales y luchadores con armas a dos manos.
-- **Destreza**: necesaria si vas a usar armas con el rasgo finura (estoque, espada corta), si quieres un arquero o si prefieres armaduras ligeras o medias con CA alta. También mejora Reflejos, ya de partida competencia experto.
+- **Fuerza**: obligatorio para armas cuerpo a cuerpo sin el rasgo [ágil](/apendices/rasgos/agil/) o [sutil](/apendices/rasgos/sutil/), y para la armadura pesada sin penalización a velocidad. Es la opción por defecto para guerreros frontales y luchadores con armas a dos manos.
+- **Destreza**: necesaria si vas a usar armas con el rasgo [sutil](/apendices/rasgos/sutil/) (estoque, espada corta), si quieres un arquero o si prefieres armaduras ligeras o medias con CA alta. También mejora Reflejos, ya de partida competencia experto.
 
 En ambos casos, la **Constitución** es el segundo atributo más importante: más PG y mejor Fortaleza.
 
@@ -69,7 +69,7 @@ Principios para elegir armas:
 - Las armas con el rasgo **mortal d8 o d10** (gubia, alabarda) maximizan los impactos críticos.
 - Las armas con el rasgo **versátil** (espada corta, hacha de mano) aumentan la consistencia del daño.
 - Las armas con el rasgo **alcance** (lanza, arma de asta) permiten atacar desde atrás y activar Golpe reactivo a mayor distancia.
-- Las armas con el rasgo **finura** (estoque, espada corta) usan Destreza en lugar de Fuerza para el ataque y el daño.
+- Las armas con el rasgo [**sutil**](/apendices/rasgos/sutil/) (estoque, espada corta) usan Destreza en lugar de Fuerza para el ataque y el daño.
 
 Para el combate a distancia, el **arco largo** y el **arco corto** son las opciones más habituales. El **ballestón de mano** es útil para guerreros que alternan entre cuerpo a cuerpo y distancia.
 
@@ -85,10 +85,10 @@ A nivel 1, el guerrero obtiene cuatro mejoras de atributo gratuitas más las que
 3. Destreza (al menos +2 para mejorar la CA con armadura)
 4. Sabiduría o Inteligencia (Percepción y habilidades adicionales)
 
-**Para un guerrero de Destreza (finura o distancia):**
+**Para un guerrero de Destreza ([sutil](/apendices/rasgos/sutil/) o distancia):**
 1. Destreza (atributo clave, ya mejorado automáticamente)
 2. Constitución
-3. Fuerza (si usa armas sin finura en cuerpo a cuerpo de apoyo)
+3. Fuerza (si usa armas sin el rasgo [sutil](/apendices/rasgos/sutil/) en cuerpo a cuerpo de apoyo)
 4. Sabiduría
 
 Evita descuidar completamente la Constitución. El guerrero tiene 10 PG por nivel, lo que es decente, pero unos PG adicionales marcan la diferencia en combates prolongados.
@@ -146,7 +146,7 @@ Revisa y registra:
 - **CA**: 10 + bonificador de armadura + modificador de Destreza (hasta el máximo Destreza de la armadura) + rango de competencia (nivel + bonificador experto)
 - **PG**: 10 (clase) + modificador de Constitución, por nivel
 - **Bonificador de ataque**: modificador de Fuerza o Destreza + rango de competencia (nivel + bonificador experto)
-- **Daño por golpe**: modificador de Fuerza (o Destreza con finura) + dado de daño del arma
+- **Daño por golpe**: modificador de Fuerza (o Destreza con [sutil](/apendices/rasgos/sutil/)) + dado de daño del arma
 - **CD de salvaciones**: Fortaleza y Reflejos experto desde nivel 1; Voluntad entrenado
 - **Percepción**: experto desde nivel 1
 

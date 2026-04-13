@@ -138,8 +138,8 @@ El investigador comienza entrenado en armas simples y marciales, y a nivel exper
 
 Opciones de arma recomendadas:
 
-- **Espada corta (cuerpo a cuerpo ágil y Finesse):** Aplica INT en lugar de FUE o DES al daño con Idear una estratagema. Buena CA básica y versátil.
-- **Estoque (Finesse, daño perforante):** Mismo beneficio. Mayor daño base que la espada corta, pero sin ágil.
+- **Espada corta (cuerpo a cuerpo [ágil](/apendices/rasgos/agil/) y [sutil](/apendices/rasgos/sutil/)):** Aplica INT en lugar de FUE o DES al daño con Idear una estratagema. Buena CA básica y versátil.
+- **Estoque ([sutil](/apendices/rasgos/sutil/), daño perforante):** Mismo beneficio. Mayor daño base que la espada corta, pero sin [ágil](/apendices/rasgos/agil/).
 - **Ballesta o arco corto (a distancia):** También aplican INT con Idear una estratagema. Permiten atacar desde una posición segura, compensando los PG bajos.
 
 ---
@@ -195,7 +195,7 @@ Reserva la dote general de nivel 3 para una dote de habilidad que refuerce tu me
 | Dote de ascendencia | Destino tenaz (humana) |
 | Dote de herencia versátil | Perspicacia forense (ya dada por metodología; cambiar por Iniciativa natural para Percepción) |
 | Dote de investigador | Astucia del investigador |
-| Arma principal | Estoque (Finesse; aplica INT) |
+| Arma principal | Estoque ([sutil](/apendices/rasgos/sutil/); aplica INT) |
 | Arma secundaria | Ballesta ligera |
 | Armadura | Cuero |
 | CA estimada | 15 (10 + 3 cuero + 2 DES) |
