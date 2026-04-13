@@ -59,6 +59,7 @@ No hay vista más hermosa para ti que un extraño brebaje burbujeando en un matr
 
 ## Selecciones relacionadas
 
+- [Características y Campos de investigación]({{ '/clases/alquimista/caracteristicas/' | relative_url }}) — Progresión por nivel, habilidades de clase y campos de investigación disponibles (bombardero, cirujano, mutagenista, toxicólogo)
 - [Dotes]({{ '/clases/alquimista/dotes_short/' | relative_url }})
 - [Ejemplos de Juego]({{ '/clases/alquimista/ejemplos/' | relative_url }})
 

@@ -59,6 +59,7 @@ Muchos guerreros confían en la fuerza bruta, armaduras pesadas o armas engorros
 
 ## Selecciones relacionadas
 
+- [Características y Estilos]({{ '/clases/espadachin/caracteristicas/' | relative_url }}) — Progresión por nivel, habilidades de clase y estilos de combate disponibles
 - [Dotes]({{ '/clases/espadachin/dotes_short/' | relative_url }})
 - [Ejemplos de Juego]({{ '/clases/espadachin/ejemplos/' | relative_url }})
 

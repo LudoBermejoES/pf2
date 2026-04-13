@@ -59,6 +59,7 @@ La ira te consume en combate. Te deleitas causando estragos y usando poderosas a
 
 ## Selecciones relacionadas
 
+- [Características e Instintos]({{ '/clases/barbaro/caracteristicas/' | relative_url }}) — Progresión por nivel, habilidades de clase e instintos disponibles (animal, dracónico, furia, gigante, espiritual, superstición)
 - [Dotes]({{ '/clases/barbaro/dotes_short/' | relative_url }})
 - [Ejemplos de Juego]({{ '/clases/barbaro/ejemplos/' | relative_url }})
 

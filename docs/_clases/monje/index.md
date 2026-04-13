@@ -59,6 +59,7 @@ La fuerza de tu puño fluye desde tu mente y tu espíritu. Buscas la perfección
 
 ## Selecciones relacionadas
 
+- [Características y Posturas]({{ '/clases/monje/caracteristicas/' | relative_url }}) — Progresión por nivel, habilidades de clase, ataques desarmados y posturas clave disponibles
 - [Dotes]({{ '/clases/monje/dotes_short/' | relative_url }})
 - [Ejemplos de Juego]({{ '/clases/monje/ejemplos/' | relative_url }})
 

@@ -60,6 +60,7 @@ Eres un emisario de una deidad, un servidor devoto que ha asumido un pesado mant
 
 ## Selecciones relacionadas
 
+- [Características y Causas]({{ '/clases/campeon/caracteristicas/' | relative_url }}) — Progresión por nivel, habilidades de clase y causas disponibles (bien, libertad, redención)
 - [Dotes]({{ '/clases/campeon/dotes_short/' | relative_url }})
 - [Ejemplos de Juego]({{ '/clases/campeon/ejemplos/' | relative_url }})
 

@@ -60,6 +60,7 @@ No elegiste convertirte en lanzador de conjuros: naciste siéndolo. Hay magia en
 
 ## Selecciones relacionadas
 
+- [Características y Linajes]({{ '/clases/hechicero/caracteristicas/' | relative_url }}) — Progresión por nivel, habilidades de clase y linajes disponibles (angélico, demoníaco, dracónico, feérico, imperial, sombra, sin muertos, etc.)
 - [Dotes]({{ '/clases/hechicero/dotes_short/' | relative_url }})
 - [Ejemplos de Juego]({{ '/clases/hechicero/ejemplos/' | relative_url }})
 

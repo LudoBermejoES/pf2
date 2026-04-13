@@ -60,6 +60,7 @@ Tu canal hacia el poder divino evita los canales tradicionales de oración y ser
 
 ## Selecciones relacionadas
 
+- [Características y Misterios]({{ '/clases/oraculo/caracteristicas/' | relative_url }}) — Progresión por nivel, habilidades de clase y misterios disponibles (batalla, bones, cosmos, flames, life, lore, time, etc.)
 - [Dotes]({{ '/clases/oraculo/dotes_short/' | relative_url }})
 - [Ejemplos de Juego]({{ '/clases/oraculo/ejemplos/' | relative_url }})
 
