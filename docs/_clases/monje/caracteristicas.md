@@ -42,31 +42,31 @@ class_name: Monje
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/floritura/" class="feat-trait">Floritura</a><a href="/apendices/rasgos/monje/" class="feat-trait">Monje</a></div>
 
-Realizas dos Golpes desarmados. Si ambos impactan a la misma criatura, combina su daño a efectos de resistencias y debilidades. Aplica tu penalizador por múltiples ataques normalmente a los Golpes. Como una habilidad de florecer, solo puedes usar Ráfaga de golpes una vez por turno.
+Realizas dos Golpes sin armas. Si ambos impactan a la misma criatura, combina su daño a efectos de resistencias y debilidades. Aplica tu penalizador por múltiples ataques normalmente a los Golpes. Como una habilidad de florecer, solo puedes usar Ráfaga de golpes una vez por turno.
 
 ### Puño poderoso
 
-Tus puños son armas letales. El dado de daño de tu puño aumenta a 1d6 en lugar de 1d4. No sufres el penalizador circunstancial normal de –2 al realizar un ataque letal con tu puño o con cualquier otro ataque desarmado.
+Tus puños son armas letales. El dado de daño de tu puño aumenta a 1d6 en lugar de 1d4. No sufres el penalizador circunstancial normal de –2 al realizar un ataque letal con tu puño o con cualquier otro ataque sin armas.
 
 ---
 
-## Ataques desarmados del monje
+## Ataques sin armas del monje
 
-Algunas posturas de monje te permiten realizar ataques desarmados especiales mientras estás en esas posturas. Todos pertenecen al grupo de armas de pugilato.
+Algunas posturas de monje te permiten realizar ataques sin armas especiales mientras estás en esas posturas. Todos pertenecen al grupo de armas de pugilato.
 
 | Ataque | Daño | Rasgos |
 |--------|--------|--------|
-| Colmillo de cobra | 1d4 P | Ágil, letal d10, sutileza, desarmado, venenoso |
-| Ala de grulla | 1d6 B | Ágil, sutileza, no letal, desarmado |
-| Cola de dragón | 1d10 B | Golpe trasero, no letal, desarmado |
-| Piedra que cae | 1d8 B | Forzado, no letal, desarmado |
-| Barrido de hierro | 1d8 B | No letal, parada, barrido, desarmado |
-| Rama látigo | 1d8 S | Ágil, sutileza, no letal, desarmado |
-| Agarre sombrío* | 1d4 vacío | Ágil, agarrar, alcance, desarmado |
-| Golpe tambaleante | 1d8 B | Ágil, acuchillador, sutileza, no letal, desarmado |
-| Garra de tigre | 1d8 S | Ágil, sutileza, no letal, desarmado |
-| Choque de viento* | 1d6 S | Ágil, no letal, propulsivo, desarmado |
-| Mandíbula de lobo | 1d8 P | Ágil, acuchillador, sutileza, no letal, desarmado |
+| Colmillo de cobra | 1d4 P | Ágil, letal d10, sutil, sin armas, veneno |
+| Ala de grulla | 1d6 B | Ágil, sutil, no letal, sin armas |
+| Cola de dragón | 1d10 B | Golpe trasero, no letal, sin armas |
+| Piedra que cae | 1d8 B | Forzado, no letal, sin armas |
+| Barrido de hierro | 1d8 B | No letal, parada, barrido, sin armas |
+| Rama látigo | 1d8 S | Ágil, sutil, no letal, sin armas |
+| Agarre sombrío* | 1d4 vacío | Ágil, presa, alcance, sin armas |
+| Golpe tambaleante | 1d8 B | Ágil, puñalada trapera, sutil, no letal, sin armas |
+| Garra de tigre | 1d8 S | Ágil, sutil, no letal, sin armas |
+| Choque de viento* | 1d6 S | Ágil, no letal, propulsión de, sin armas |
+| Mandíbula de lobo | 1d8 P | Ágil, puñalada trapera, sutil, no letal, sin armas |
 
 *Las posturas marcadas con un asterisco son conjuros de qi.
 
@@ -80,7 +80,7 @@ Algunas posturas de monje te permiten realizar ataques desarmados especiales mie
 
 **Requisitos:** No llevas armadura.
 
-Tus brazos aletean como las alas de una grulla. Obtienes una bonificación circunstancial +1 a CA, pero los únicos Golpes que puedes realizar son ataques de ala de grulla. Estos infligen 1d6 de daño contundente; pertenecen al grupo de pugilato; y tienen los rasgos ágil, sutileza, no letal y desarmado.
+Tus brazos aletean como las alas de una grulla. Obtienes una bonificación circunstancial +1 a CA, pero los únicos Golpes que puedes realizar son ataques de ala de grulla. Estos infligen 1d6 de daño contundente; pertenecen al grupo de pugilato; y tienen los rasgos ágil, sutil, no letal y sin armas.
 
 Mientras estés en Postura de grulla, reduce en 5 la CD de Salto alto y Salto largo, y cuando Saltas, puedes desplazarte 1,5 m adicionales en horizontal o 0,6 m en vertical.
 
@@ -90,7 +90,7 @@ Mientras estés en Postura de grulla, reduce en 5 la CD de Salto alto y Salto la
 
 **Requisitos:** No llevas armadura.
 
-Adoptas la postura de un dragón y realizas poderosos golpes de pierna como la cola de un dragón azotando. Puedes realizar ataques de cola de dragón que infligen 1d10 de daño contundente. Pertenecen al grupo de pugilato y tienen los rasgos golpe trasero, no letal y desarmado.
+Adoptas la postura de un dragón y realizas poderosos golpes de pierna como la cola de un dragón azotando. Puedes realizar ataques de cola de dragón que infligen 1d10 de daño contundente. Pertenecen al grupo de pugilato y tienen los rasgos revés, no letal y sin armas.
 
 Mientras estés en Postura de dragón, puedes ignorar el primer cuadro de terreno difícil al Avanzar.
 
@@ -100,7 +100,7 @@ Mientras estés en Postura de dragón, puedes ignorar el primer cuadro de terren
 
 **Requisitos:** No llevas armadura y estás en contacto con el suelo.
 
-Adoptas la postura de una montaña implacable. Los únicos Golpes que puedes realizar son ataques desarmados de piedra que cae. Estos infligen 1d8 de daño contundente; pertenecen al grupo de pugilato; y tienen los rasgos forzado, no letal y desarmado.
+Adoptas la postura de una montaña implacable. Los únicos Golpes que puedes realizar son ataques sin armas de piedra que cae. Estos infligen 1d8 de daño contundente; pertenecen al grupo de pugilato; y tienen los rasgos forzado, no letal y sin armas.
 
 Mientras estés en Postura de montaña, obtienes una bonificación de objeto +4 a CA y una bonificación circunstancial +2 a cualquier defensa contra Reposicionar, Empujar, Derribar y otros efectos de movimiento forzado. Tienes un tope al modificador de Destreza para tu CA de +0, y todas tus Velocidades se reducen en 1,5 m.
 
@@ -110,7 +110,7 @@ Mientras estés en Postura de montaña, obtienes una bonificación de objeto +4 
 
 **Requisitos:** No llevas armadura.
 
-Adoptas la postura de un tigre y puedes realizar ataques de garra de tigre. Estos infligen 1d8 de daño cortante; pertenecen al grupo de pugilato; y tienen los rasgos ágil, sutileza, no letal y desarmado. Con un éxito crítico con tus garras de tigre, si infliges daño, el objetivo sufre 1d4 de sangrado persistente.
+Adoptas la postura de un tigre y puedes realizar ataques de garra de tigre. Estos infligen 1d8 de daño cortante; pertenecen al grupo de pugilato; y tienen los rasgos ágil, sutil, no letal y sin armas. Con un éxito crítico con tus garras de tigre, si infliges daño, el objetivo sufre 1d4 de sangrado persistente.
 
 Mientras tu Velocidad sea de al menos 6 m en Postura de tigre, puedes Dar un paso 3 m.
 
@@ -120,9 +120,9 @@ Mientras tu Velocidad sea de al menos 6 m en Postura de tigre, puedes Dar un pas
 
 **Requisitos:** No llevas armadura.
 
-Adoptas la postura de un lobo, bajo y con las manos como colmillos. Puedes realizar ataques desarmados de mandíbula de lobo. Estos infligen 1d8 de daño perforante; pertenecen al grupo de pugilato; y tienen los rasgos ágil, acuchillador, sutileza, no letal y desarmado.
+Adoptas la postura de un lobo, bajo y con las manos como colmillos. Puedes realizar ataques sin armas de mandíbula de lobo. Estos infligen 1d8 de daño perforante; pertenecen al grupo de pugilato; y tienen los rasgos ágil, puñalada trapera, sutil, no letal y sin armas.
 
-Si flanqueas a un objetivo mientras estás en Postura de lobo, tus ataques desarmados de mandíbula de lobo también ganan el rasgo derribar.
+Si flanqueas a un objetivo mientras estás en Postura de lobo, tus ataques sin armas de mandíbula de lobo también ganan el rasgo derribo.
 
 ### Postura tambaleante · {% include accion.html tipo="1" %}
 
@@ -130,7 +130,7 @@ Si flanqueas a un objetivo mientras estás en Postura de lobo, tus ataques desar
 
 **Requisito previo:** entrenado en Engaño
 
-Adoptas una postura aparentemente desenfocada que imita los movimientos de un ebrio. Mientras estás en esta postura, obtienes una bonificación circunstancial +1 a Engaño para Engañar. Los únicos Golpes que puedes realizar son ataques desarmados de golpe tambaleante. Estos infligen 1d8 de daño contundente; pertenecen al grupo de pugilato; y tienen los rasgos ágil, acuchillador, sutileza, no letal y desarmado.
+Adoptas una postura aparentemente desenfocada que imita los movimientos de un ebrio. Mientras estás en esta postura, obtienes una bonificación circunstancial +1 a Engaño para Engañar. Los únicos Golpes que puedes realizar son ataques sin armas de golpe tambaleante. Estos infligen 1d8 de daño contundente; pertenecen al grupo de pugilato; y tienen los rasgos ágil, puñalada trapera, sutil, no letal y sin armas.
 
 Si un enemigo te golpea con un Golpe cuerpo a cuerpo mientras estás en esta postura, queda desprevenido contra el siguiente Golpe de golpe tambaleante que le hagas antes del final de tu siguiente turno.
 
@@ -162,9 +162,9 @@ Adoptas una postura especializada para un arte marcial centrado en el uso del ar
 
 **Movimiento increíble (3º):** Obtienes una bonificación de estado +3 m a tu Velocidad siempre que no lleves armadura. La bonificación aumenta en 1,5 m por cada 4 niveles que tengas más allá del 3º.
 
-**Golpes místicos (3º):** Tus ataques desarmados se vuelven mágicos, permitiéndoles superar resistencias a ataques no mágicos.
+**Golpes místicos (3º):** Tus ataques sin armas se vuelven mágicos, permitiéndoles superar resistencias a ataques no mágicos.
 
-**Golpes expertos (5º):** Tus rangos de competencia en ataques desarmados y armas simples aumentan a experto. Cuando obtienes un éxito crítico con un ataque desarmado del grupo de pugilato, obtienes su efecto de especialización crítica.
+**Golpes expertos (5º):** Tus rangos de competencia en ataques sin armas y armas simples aumentan a experto. Cuando obtienes un éxito crítico con un ataque sin armas del grupo de pugilato, obtienes su efecto de especialización crítica.
 
 **Pericia en Percepción (5º):** Tu rango de competencia en Percepción aumenta a experto.
 
@@ -172,7 +172,7 @@ Adoptas una postura especializada para un arte marcial centrado en el uso del ar
 
 **Especialización en armas (7º):** Infliges 2 de daño adicional con armas de rango experto, 3 con maestro y 4 con legendario.
 
-**Golpes metálicos (9º):** Tus ataques desarmados se tratan como de hierro frío y plata.
+**Golpes metálicos (9º):** Tus ataques sin armas se tratan como de hierro frío y plata.
 
 **Pericia de monje (9º):** Tu rango de competencia para tu CD de clase de monje aumenta a experto. Si tienes conjuros de qi, tu rango de competencia para ataques de conjuros y CD de conjuros aumenta a experto.
 
@@ -180,13 +180,13 @@ Adoptas una postura especializada para un arte marcial centrado en el uso del ar
 
 **Maestría grácil (13º):** Tu rango de competencia en defensa sin armadura aumenta a maestro.
 
-**Golpes maestros (13º):** Tus rangos de competencia en ataques desarmados y armas simples aumentan a maestro.
+**Golpes maestros (13º):** Tus rangos de competencia en ataques sin armas y armas simples aumentan a maestro.
 
 **Mayor especialización en armas (15º):** Tu daño por especialización en armas aumenta a 4 con experto, 6 con maestro y 8 con legendario.
 
 **Tercer camino hacia la perfección (15º):** Elige una de las TS que seleccionaste para camino hacia la perfección o segundo camino hacia la perfección. Tu rango de competencia para esa TS aumenta a legendario. Cuando obtienes un fallo crítico, en su lugar obtienes un fallo. Cuando obtienes un fallo contra un efecto dañino, recibes la mitad de daño.
 
-**Golpes de adamantina (17º):** Tus ataques desarmados se tratan como de adamantina.
+**Golpes de adamantina (17º):** Tus ataques sin armas se tratan como de adamantina.
 
 **Leyenda grácil (17º):** Tu rango de competencia en defensa sin armadura aumenta a legendario, y tu rango de competencia para tu CD de clase de monje aumenta a maestro. Si tienes conjuros de qi, tu rango de competencia para modificadores de ataque de conjuros y CD de conjuros aumenta a maestro.
 
