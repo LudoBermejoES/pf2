@@ -56,17 +56,17 @@ Algunas posturas de monje te permiten realizar ataques sin armas especiales mien
 
 | Ataque | Daño | Rasgos |
 |--------|--------|--------|
-| Colmillo de cobra | 1d4 P | Ágil, letal d10, sutil, sin armas, veneno |
-| Ala de grulla | 1d6 B | Ágil, sutil, no letal, sin armas |
-| Cola de dragón | 1d10 B | Golpe trasero, no letal, sin armas |
-| Piedra que cae | 1d8 B | Forzado, no letal, sin armas |
-| Barrido de hierro | 1d8 B | No letal, parada, barrido, sin armas |
-| Rama látigo | 1d8 S | Ágil, sutil, no letal, sin armas |
-| Agarre sombrío* | 1d4 vacío | Ágil, presa, alcance, sin armas |
-| Golpe tambaleante | 1d8 B | Ágil, puñalada trapera, sutil, no letal, sin armas |
-| Garra de tigre | 1d8 S | Ágil, sutil, no letal, sin armas |
-| Choque de viento* | 1d6 S | Ágil, no letal, propulsión de, sin armas |
-| Mandíbula de lobo | 1d8 P | Ágil, puñalada trapera, sutil, no letal, sin armas |
+| Colmillo de cobra | 1d4 P | [Ágil](/apendices/rasgos/agil/), [letal](/apendices/rasgos/letal/) d10, [sutil](/apendices/rasgos/sutil/), [sin armas](/apendices/rasgos/sin-armas/), [veneno](/apendices/rasgos/veneno/) |
+| Ala de grulla | 1d6 B | [Ágil](/apendices/rasgos/agil/), [sutil](/apendices/rasgos/sutil/), [no letal](/apendices/rasgos/no-letal/), [sin armas](/apendices/rasgos/sin-armas/) |
+| Cola de dragón | 1d10 B | [Revés](/apendices/rasgos/reves/), [no letal](/apendices/rasgos/no-letal/), [sin armas](/apendices/rasgos/sin-armas/) |
+| Piedra que cae | 1d8 B | Forzado, [no letal](/apendices/rasgos/no-letal/), [sin armas](/apendices/rasgos/sin-armas/) |
+| Barrido de hierro | 1d8 B | [No letal](/apendices/rasgos/no-letal/), [parada](/apendices/rasgos/parada/), [barrido](/apendices/rasgos/barrido/), [sin armas](/apendices/rasgos/sin-armas/) |
+| Rama látigo | 1d8 S | [Ágil](/apendices/rasgos/agil/), [sutil](/apendices/rasgos/sutil/), [no letal](/apendices/rasgos/no-letal/), [sin armas](/apendices/rasgos/sin-armas/) |
+| Agarre sombrío* | 1d4 vacío | [Ágil](/apendices/rasgos/agil/), [presa](/apendices/rasgos/presa/), [alcance](/apendices/rasgos/alcance/), [sin armas](/apendices/rasgos/sin-armas/) |
+| Golpe tambaleante | 1d8 B | [Ágil](/apendices/rasgos/agil/), [puñalada trapera](/apendices/rasgos/punalada-trapera/), [sutil](/apendices/rasgos/sutil/), [no letal](/apendices/rasgos/no-letal/), [sin armas](/apendices/rasgos/sin-armas/) |
+| Garra de tigre | 1d8 S | [Ágil](/apendices/rasgos/agil/), [sutil](/apendices/rasgos/sutil/), [no letal](/apendices/rasgos/no-letal/), [sin armas](/apendices/rasgos/sin-armas/) |
+| Choque de viento* | 1d6 S | [Ágil](/apendices/rasgos/agil/), [no letal](/apendices/rasgos/no-letal/), [propulsión de](/apendices/rasgos/propulsion-de/), [sin armas](/apendices/rasgos/sin-armas/) |
+| Mandíbula de lobo | 1d8 P | [Ágil](/apendices/rasgos/agil/), [puñalada trapera](/apendices/rasgos/punalada-trapera/), [sutil](/apendices/rasgos/sutil/), [no letal](/apendices/rasgos/no-letal/), [sin armas](/apendices/rasgos/sin-armas/) |
 
 *Las posturas marcadas con un asterisco son conjuros de qi.
 
