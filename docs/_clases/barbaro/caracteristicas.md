@@ -165,34 +165,34 @@ Una profunda desconfianza hacia la magia te impulsa a renunciar a los lanzadores
 
 ## Características de clase de niveles superiores
 
-**Furious Footfalls (3rd):** You gain a +5-foot status bonus to your Speed. This bonus increases to +10 feet while you're raging.
+**Pisadas furiosas (3º):** Obtienes una bonificación de estado +1,5 m a tu Velocidad. Esta bonificación aumenta a +3 m mientras estás en ira.
 
-**Brutality (5th):** Your proficiency ranks for simple weapons, martial weapons, and unarmed attacks increase to expert. While raging, you have the critical specialization benefits for melee weapons and unarmed attacks.
+**Brutalidad (5º):** Tu rango de competencia en armas simples, armas marciales y ataques desarmados aumenta a experto. Mientras estás en ira, obtienes los beneficios de especialización crítica con armas cuerpo a cuerpo y ataques desarmados.
 
-**Juggernaut (7th):** Your proficiency rank for Fortitude saves increases to master. Success on Fortitude saves becomes critical success.
+**Imparable (7º):** Tu rango de competencia en salvaciones de Fortaleza aumenta a maestro. Los éxitos en salvaciones de Fortaleza se convierten en éxitos críticos.
 
-**Weapon Specialization (7th):** You deal 2 additional damage with expert weapons, 3 with master, 4 with legendary. You gain your instinct's specialization ability.
+**Especialización en armas (7º):** Infliges 2 de daño adicional con armas de experto, 3 con maestro, 4 con legendario. Obtienes la habilidad de especialización de tu instinto.
 
-**Raging Resistance (9th):** While raging, you gain resistance equal to 3 + your Constitution modifier to damage types based on your instinct.
+**Resistencia en ira (9º):** Mientras estás en ira, obtienes resistencia igual a 3 + tu modificador de Constitución a los tipos de daño basados en tu instinto.
 
-**Reflex Expertise (9th):** Your proficiency rank for Reflex saves increases to expert.
+**Pericia en Reflejos (9º):** Tu rango de competencia en salvaciones de Reflejos aumenta a experto.
 
-**Mighty Rage (11th):** Your proficiency rank for your barbarian class DC increases to expert. When you use Quick-Tempered, the first Strike during your first turn deals additional damage equal to your Rage damage.
+**Ira poderosa (11º):** Tu rango de competencia en la CD de clase de bárbaro aumenta a experto. Cuando usas Fogoso, el primer Golpe de tu primer turno inflige daño adicional igual a tu daño de Ira.
 
-**Greater Juggernaut (13th):** Your proficiency rank for Fortitude saves increases to legendary. Critical failures become failures. Failures against damaging effects deal half damage.
+**Imparable superior (13º):** Tu rango de competencia en salvaciones de Fortaleza aumenta a legendario. Los fracasos críticos se convierten en fracasos. Los fracasos contra efectos que infligen daño reducen ese daño a la mitad.
 
-**Medium Armor Expertise (13th):** Your proficiency ranks for light armor, medium armor, and unarmored defense increase to expert.
+**Pericia en armadura intermedia (13º):** Tu rango de competencia en armadura ligera, armadura intermedia y defensa sin armadura aumenta a experto.
 
-**Weapon Mastery (13th):** Your proficiency ranks for simple weapons, martial weapons, and unarmed attacks increase to master.
+**Maestría en armas (13º):** Tu rango de competencia en armas simples, armas marciales y ataques desarmados aumenta a maestro.
 
-**Greater Weapon Specialization (15th):** Damage increases to 4 with expert, 6 with master, 8 with legendary. You gain your instinct's greater specialization ability.
+**Especialización superior en armas (15º):** El daño adicional aumenta a 4 con experto, 6 con maestro, 8 con legendario. Obtienes la habilidad de especialización superior de tu instinto.
 
-**Indomitable Will (15th):** Your proficiency rank for Will saves increases to master. Success becomes critical success.
+**Voluntad indomable (15º):** Tu rango de competencia en salvaciones de Voluntad aumenta a maestro. Los éxitos se convierten en éxitos críticos.
 
-**Perception Mastery (17th):** Your proficiency rank for Perception increases to master.
+**Maestría en Percepción (17º):** Tu rango de competencia en Percepción aumenta a maestro.
 
-**Revitalizing Rage (17th):** You need only spend one full turn not raging (instead of 1 minute) before you can gain temporary HP from Rage again.
+**Ira revitalizante (17º):** Solo necesitas pasar un turno completo sin irarte (en lugar de 1 minuto) antes de poder ganar PG temporales por Ira de nuevo.
 
-**Armor Mastery (19th):** Your proficiency ranks for light armor, medium armor, and unarmored defense increase to master.
+**Maestría en armadura (19º):** Tu rango de competencia en armadura ligera, armadura intermedia y defensa sin armadura aumenta a maestro.
 
-**Devastator (19th):** Your proficiency rank for your barbarian class DC increases to master. Your melee Strikes ignore up to 10 resistance to physical damage.
+**Devastador (19º):** Tu rango de competencia en la CD de clase de bárbaro aumenta a maestro. Tus Golpes cuerpo a cuerpo ignoran hasta 10 de resistencia al daño físico.
