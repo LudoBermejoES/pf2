@@ -39,33 +39,33 @@ adventure_path: null
 ## Progresión de Dotes
 
 ### Nivel 1
-- [Posición a Quemarropa]({{ '/clases/guerrero/dotes/#posicion-a-quemarropa' | relative_url }}) ✓ — Eliminas penalizador de volea y obtienes +2 daño a corta distancia
+- [Posición a Quemarropa](/dotes/guerrero/posicion-a-quemarropa/) ✓ — Eliminas penalizador de volea y obtienes +2 daño a corta distancia
 
 ### Nivel 2
-- [Disparo de Ayuda]({{ '/clases/guerrero/dotes/#disparo-de-ayuda' | relative_url }}) ✓ — Tu disparo ayuda al siguiente aliado que ataque al mismo objetivo
+- [Disparo de Ayuda](/dotes/guerrero/disparo-de-ayuda/) ✓ — Tu disparo ayuda al siguiente aliado que ataque al mismo objetivo
 
 ### Nivel 4
-- [Disparo Doble]({{ '/clases/guerrero/dotes/#disparo-doble' | relative_url }}) ✓ — Disparas dos veces con -2 contra objetivos diferentes
+- [Disparo Doble](/dotes/guerrero/disparo-doble/) ✓ — Disparas dos veces con -2 contra objetivos diferentes
 
 ### Nivel 6
-- [Disparo Triple]({{ '/clases/guerrero/dotes/#disparo-triple' | relative_url }}) ✓ — Añade un tercer disparo a Disparo Doble con -4
+- [Disparo Triple](/dotes/guerrero/disparo-triple/) ✓ — Añade un tercer disparo a Disparo Doble con -4
 
 ### Nivel 8
-- [Posición de Disparo Móvil]({{ '/clases/guerrero/dotes/#posicion-de-disparo-movil' | relative_url }}) ✓ — Tus disparos no provocan reacciones
-- [Puntería Sensacional]({{ '/clases/guerrero/dotes/#punteria-sensacional' | relative_url }}) ✓ — +2 al ataque e ignoras estado oculto
+- [Posición de Disparo Móvil](/dotes/guerrero/posicion-de-disparo-movil/) ✓ — Tus disparos no provocan reacciones
+- [Puntería Sensacional](/dotes/guerrero/punteria-sensacional/) ✓ — +2 al ataque e ignoras estado oculto
 
 ### Nivel 10
-- [Disparo Debilitante]({{ '/clases/guerrero/dotes/#disparo-debilitante' | relative_url }}) ✓ — El objetivo queda lentificado 1
-- [En Pleno Vuelo]({{ '/clases/guerrero/dotes/#en-pleno-vuelo' | relative_url }}) ✓ — Desvías ataques a distancia
+- [Disparo Debilitante](/dotes/guerrero/disparo-debilitante/) ✓ — El objetivo queda lentificado 1
+- [En Pleno Vuelo](/dotes/guerrero/en-pleno-vuelo/) ✓ — Desvías ataques a distancia
 
 ### Nivel 12
-- [Rebote Sensacional]({{ '/clases/guerrero/dotes/#rebote-sensacional' | relative_url }}) ✓ — Ignoras cobertura y estado oculto del objetivo
+- [Rebote Sensacional](/dotes/guerrero/rebote-sensacional/) ✓ — Ignoras cobertura y estado oculto del objetivo
 
 ### Nivel 16
-- [Posición de Disparo Múltiple]({{ '/clases/guerrero/dotes/#posicion-de-disparo-multiple' | relative_url }}) ✓ — Reduce el penalizador de Disparo Doble a -1
+- [Posición de Disparo Múltiple](/dotes/guerrero/posicion-de-disparo-multiple/) ✓ — Reduce el penalizador de Disparo Doble a -1
 
 ### Nivel 18
-- [Volea Imposible]({{ '/clases/guerrero/dotes/#volea-imposible' | relative_url }}) ✓ — Disparas contra todos los enemigos en un área
+- [Volea Imposible](/dotes/guerrero/volea-imposible/) ✓ — Disparas contra todos los enemigos en un área
 
 ---
 
@@ -74,9 +74,9 @@ adventure_path: null
 El arquero de precisión aprovecha la progresión de competencia superior del guerrero para maximizar los impactos críticos a distancia:
 
 1. **Posicionamiento**: Mantente a distancia media, dentro del primer incremento de rango
-2. **Apertura**: Usa [Posición de Disparo Móvil]({{ '/clases/guerrero/dotes/#posicion-de-disparo-movil' | relative_url }}) al inicio del combate
-3. **Daño**: Alterna entre [Disparo Doble]({{ '/clases/guerrero/dotes/#disparo-doble' | relative_url }})/[Triple]({{ '/clases/guerrero/dotes/#disparo-triple' | relative_url }}) y disparos únicos según la situación
-4. **Control**: Usa [Disparo Debilitante]({{ '/clases/guerrero/dotes/#disparo-debilitante' | relative_url }}) contra enemigos peligrosos
+2. **Apertura**: Usa [Posición de Disparo Móvil](/dotes/guerrero/posicion-de-disparo-movil/) al inicio del combate
+3. **Daño**: Alterna entre [Disparo Doble](/dotes/guerrero/disparo-doble/)/[Triple](/dotes/guerrero/disparo-triple/) y disparos únicos según la situación
+4. **Control**: Usa [Disparo Debilitante](/dotes/guerrero/disparo-debilitante/) contra enemigos peligrosos
 
 ### Fortalezas
 - Alto daño sostenido a distancia

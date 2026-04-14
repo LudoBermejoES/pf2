@@ -38,44 +38,44 @@ adventure_path: null
 ## Progresión de Dotes
 
 ### Nivel 1
-- [Familiar]({{ '/clases/hechicero/dotes/#familiar' | relative_url }}) ✓ — Un familiar celestial o infernal
-- [Aprovechar la Sangre]({{ '/clases/hechicero/dotes/#aprovechar-la-sangre' | relative_url }}) ✓ — Guía divina para movimiento
+- [Familiar](/dotes/hechicero/familiar/) ✓ — Un familiar celestial o infernal
+- [Aprovechar la Sangre](/dotes/hechicero/aprovechar-la-sangre/) ✓ — Guía divina para movimiento
 
 ### Nivel 2
-- [Ungir Aliado]({{ '/clases/hechicero/dotes/#ungir-aliado' | relative_url }}) ✓ — Comparte magia de sangre con aliados
-- [Familiar Mejorado]({{ '/clases/hechicero/dotes/#familiar-mejorado' | relative_url }}) ✓ — Más habilidades de familiar
+- [Ungir Aliado](/dotes/hechicero/ungir-aliado/) ✓ — Comparte magia de sangre con aliados
+- [Familiar Mejorado](/dotes/hechicero/familiar-mejorado/) ✓ — Más habilidades de familiar
 
 ### Nivel 4
-- [Evolución Divina]({{ '/clases/hechicero/dotes/#evolucion-divina' | relative_url }}) ✓ — Espacio extra para sanar/dañar
+- [Evolución Divina](/dotes/hechicero/evolucion-divina/) ✓ — Espacio extra para sanar/dañar
 
 ### Nivel 6
-- [Linaje Avanzado]({{ '/clases/hechicero/dotes/#linaje-avanzado' | relative_url }}) ✓ — Conjuro de linaje avanzado
-- [Retransmisión de Conjuro]({{ '/clases/hechicero/dotes/#retransmision-de-conjuro' | relative_url }}) ✓ — Extiende alcance de aliados
+- [Linaje Avanzado](/dotes/hechicero/linaje-avanzado/) ✓ — Conjuro de linaje avanzado
+- [Retransmisión de Conjuro](/dotes/hechicero/retransmision-de-conjuro/) ✓ — Extiende alcance de aliados
 
 ### Nivel 8
-- [Resistencia del Linaje]({{ '/clases/hechicero/dotes/#resistencia-del-linaje' | relative_url }}) ✓ — +1 contra magia
-- [Evolución de Sangre Cruzada]({{ '/clases/hechicero/dotes/#evolucion-de-sangre-cruzada' | relative_url }}) ✓ — Magia de sangre adicional
+- [Resistencia del Linaje](/dotes/hechicero/resistencia-del-linaje/) ✓ — +1 contra magia
+- [Evolución de Sangre Cruzada](/dotes/hechicero/evolucion-de-sangre-cruzada/) ✓ — Magia de sangre adicional
 
 ### Nivel 10
-- [Linaje Mayor]({{ '/clases/hechicero/dotes/#linaje-mayor' | relative_url }}) ✓ — Conjuro de linaje mayor
-- [Expansión de Conjuro Insignia]({{ '/clases/hechicero/dotes/#expansion-de-conjuro-insignia' | relative_url }}) ✓ — Más conjuros insignia
+- [Linaje Mayor](/dotes/hechicero/linaje-mayor/) ✓ — Conjuro de linaje mayor
+- [Expansión de Conjuro Insignia](/dotes/hechicero/expansion-de-conjuro-insignia/) ✓ — Más conjuros insignia
 
 ### Nivel 12
-- [Foco del Linaje]({{ '/clases/hechicero/dotes/#foco-del-linaje' | relative_url }}) ✓ — Recupera todos los Puntos de Foco
-- [Evolución Espiritual Mayor]({{ '/clases/hechicero/dotes/#evolucion-espiritual-mayor' | relative_url }}) ✓ — Afecta incorpóreos
+- [Foco del Linaje](/dotes/hechicero/foco-del-linaje/) ✓ — Recupera todos los Puntos de Foco
+- [Evolución Espiritual Mayor](/dotes/hechicero/evolucion-espiritual-mayor/) ✓ — Afecta incorpóreos
 
 ### Nivel 14
-- [Ascendencia de Sangre]({{ '/clases/hechicero/dotes/#ascendencia-de-sangre' | relative_url }}) ✓ — Dos efectos de magia de sangre
+- [Ascendencia de Sangre](/dotes/hechicero/ascendencia-de-sangre/) ✓ — Dos efectos de magia de sangre
 
 ### Nivel 16
-- [Evolución Vital Mayor]({{ '/clases/hechicero/dotes/#evolucion-vital-mayor' | relative_url }}) ✓ — Lanza conjuros sin espacios
-- [Concentración sin Esfuerzo]({{ '/clases/hechicero/dotes/#concentracion-sin-esfuerzo' | relative_url }}) ✓ — Mantén conjuros automáticamente
+- [Evolución Vital Mayor](/dotes/hechicero/evolucion-vital-mayor/) ✓ — Lanza conjuros sin espacios
+- [Concentración sin Esfuerzo](/dotes/hechicero/concentracion-sin-esfuerzo/) ✓ — Mantén conjuros automáticamente
 
 ### Nivel 18
-- [Conjuro Resonante]({{ '/clases/hechicero/dotes/#conjuro-resonante' | relative_url }}) ✓ — Duplica sanaciones
+- [Conjuro Resonante](/dotes/hechicero/conjuro-resonante/) ✓ — Duplica sanaciones
 
 ### Nivel 20
-- [Mutación del Linaje]({{ '/clases/hechicero/dotes/#mutacion-del-linaje' | relative_url }}) ✓ — Rasgos celestiales/infernales
+- [Mutación del Linaje](/dotes/hechicero/mutacion-del-linaje/) ✓ — Rasgos celestiales/infernales
 
 ---
 
@@ -98,9 +98,9 @@ Los linajes divinos te conectan con planos superiores o inferiores. Obtienes con
 
 El Hechicero Divino es un sanador y apoyo versátil:
 
-1. **Curación**: [Evolución Divina]({{ '/clases/hechicero/dotes/#evolucion-divina' | relative_url }}) da espacio extra para sanar
-2. **Apoyo**: [Ungir Aliado]({{ '/clases/hechicero/dotes/#ungir-aliado' | relative_url }}) comparte beneficios
-3. **Sostenibilidad**: [Evolución Vital Mayor]({{ '/clases/hechicero/dotes/#evolucion-vital-mayor' | relative_url }}) permite lanzar sin espacios
+1. **Curación**: [Evolución Divina](/dotes/hechicero/evolucion-divina/) da espacio extra para sanar
+2. **Apoyo**: [Ungir Aliado](/dotes/hechicero/ungir-aliado/) comparte beneficios
+3. **Sostenibilidad**: [Evolución Vital Mayor](/dotes/hechicero/evolucion-vital-mayor/) permite lanzar sin espacios
 4. **Versatilidad**: Acceso a sanar Y dañar
 
 ### Conjuros Sugeridos
@@ -119,8 +119,8 @@ El Hechicero Divino es un sanador y apoyo versátil:
 
 ### Secuencia de Combate
 1. Evalúa necesidades del grupo (curación vs ofensiva)
-2. [Evolución Divina]({{ '/clases/hechicero/dotes/#evolucion-divina' | relative_url }}) permite lanzar sanar extra
-3. [Ungir Aliado]({{ '/clases/hechicero/dotes/#ungir-aliado' | relative_url }}) para compartir magia de sangre
+2. [Evolución Divina](/dotes/hechicero/evolucion-divina/) permite lanzar sanar extra
+3. [Ungir Aliado](/dotes/hechicero/ungir-aliado/) para compartir magia de sangre
 4. Usa dañar contra muertos vivientes
 
 ### Fortalezas

@@ -37,45 +37,45 @@ adventure_path: null
 ## Progresión de Dotes
 
 ### Nivel 1
-- [Risa Estridente]({{ '/clases/brujo/dotes/#risa-estridente' | relative_url }}) ✓ — Esencial: mantiene maleficios activos
-- [Contraconjuro]({{ '/clases/brujo/dotes/#contraconjuro' | relative_url }}) ✓ — Contrarrestar conjuros enemigos
+- [Risa Estridente](/dotes/brujo/risa-estridente/) ✓ — Esencial: mantiene maleficios activos
+- [Contraconjuro](/dotes/brujo/contraconjuro/) ✓ — Contrarrestar conjuros enemigos
 
 ### Nivel 2
-- [Lección Básica]({{ '/clases/brujo/dotes/#leccion-basica' | relative_url }}) ✓ — Primer maleficio adicional
-- [Ocultar Conjuro]({{ '/clases/brujo/dotes/#ocultar-conjuro' | relative_url }}) ✓ — Lanzamiento sutil
+- [Lección Básica](/dotes/brujo/leccion-basica/) ✓ — Primer maleficio adicional
+- [Ocultar Conjuro](/dotes/brujo/ocultar-conjuro/) ✓ — Lanzamiento sutil
 
 ### Nivel 4
-- [Golpe Simpático]({{ '/clases/brujo/dotes/#golpe-simpatico' | relative_url }}) ✓ — Penalizador a salvaciones vs maleficios
+- [Golpe Simpático](/dotes/brujo/golpe-simpatico/) ✓ — Penalizador a salvaciones vs maleficios
 
 ### Nivel 6
-- [Lección Mayor]({{ '/clases/brujo/dotes/#leccion-mayor' | relative_url }}) ✓ — Segundo maleficio
-- [Lanzamiento de Conjuros Firme]({{ '/clases/brujo/dotes/#lanzamiento-de-conjuros-firme' | relative_url }}) ✓ — Difícil de interrumpir
+- [Lección Mayor](/dotes/brujo/leccion-mayor/) ✓ — Segundo maleficio
+- [Lanzamiento de Conjuros Firme](/dotes/brujo/lanzamiento-de-conjuros-firme/) ✓ — Difícil de interrumpir
 
 ### Nivel 8
-- [Botella de Brujo]({{ '/clases/brujo/dotes/#botella-de-brujo' | relative_url }}) ✓ — Embotella maleficios
+- [Botella de Brujo](/dotes/brujo/botella-de-brujo/) ✓ — Embotella maleficios
 
 ### Nivel 10
-- [Lección Superior]({{ '/clases/brujo/dotes/#leccion-superior' | relative_url }}) ✓ — Tercer maleficio
-- [Lanzamiento Apresurado]({{ '/clases/brujo/dotes/#lanzamiento-apresurado' | relative_url }}) ✓ — Conjuros más rápidos
+- [Lección Superior](/dotes/brujo/leccion-superior/) ✓ — Tercer maleficio
+- [Lanzamiento Apresurado](/dotes/brujo/lanzamiento-apresurado/) ✓ — Conjuros más rápidos
 
 ### Nivel 12
-- [Foco de Maleficios]({{ '/clases/brujo/dotes/#foco-de-maleficios' | relative_url }}) ✓ — Recupera todos los Puntos de Concentración
-- [Conjuro de Aquelarre]({{ '/clases/brujo/dotes/#conjuro-de-aquelarre' | relative_url }}) ✓ — Potencia aliados
+- [Foco de Maleficios](/dotes/brujo/foco-de-maleficios/) ✓ — Recupera todos los Puntos de Concentración
+- [Conjuro de Aquelarre](/dotes/brujo/conjuro-de-aquelarre/) ✓ — Potencia aliados
 
 ### Nivel 14
-- [Lección Superior]({{ '/clases/brujo/dotes/#leccion-superior' | relative_url }}) ✓ — Cuarto maleficio
-- [Reflejar Conjuro]({{ '/clases/brujo/dotes/#reflejar-conjuro' | relative_url }}) ✓ — Devuelve conjuros
+- [Lección Superior](/dotes/brujo/leccion-superior/) ✓ — Cuarto maleficio
+- [Reflejar Conjuro](/dotes/brujo/reflejar-conjuro/) ✓ — Devuelve conjuros
 
 ### Nivel 16
-- [Succionar Poder]({{ '/clases/brujo/dotes/#succionar-poder' | relative_url }}) ✓ — Conjuro gratis del familiar
-- [Concentración sin Esfuerzo]({{ '/clases/brujo/dotes/#concentracion-sin-esfuerzo' | relative_url }}) ✓ — Mantener gratis
+- [Succionar Poder](/dotes/brujo/succionar-poder/) ✓ — Conjuro gratis del familiar
+- [Concentración sin Esfuerzo](/dotes/brujo/concentracion-sin-esfuerzo/) ✓ — Mantener gratis
 
 ### Nivel 18
-- [Dividir Maleficio]({{ '/clases/brujo/dotes/#dividir-maleficio' | relative_url }}) ✓ — Maleficio a dos objetivos
-- [Lección Superior]({{ '/clases/brujo/dotes/#leccion-superior' | relative_url }}) ✓ — Quinto maleficio
+- [Dividir Maleficio](/dotes/brujo/dividir-maleficio/) ✓ — Maleficio a dos objetivos
+- [Lección Superior](/dotes/brujo/leccion-superior/) ✓ — Quinto maleficio
 
 ### Nivel 20
-- [Maestro de los Maleficios]({{ '/clases/brujo/dotes/#maestro-de-los-maleficios' | relative_url }}) ✓ — Sin límite de maleficios/turno + risotada mantiene todos
+- [Maestro de los Maleficios](/dotes/brujo/maestro-de-los-maleficios/) ✓ — Sin límite de maleficios/turno + risotada mantiene todos
 
 ---
 
@@ -84,9 +84,9 @@ adventure_path: null
 El Brujo de Maleficios acumula maldiciones sobre sus enemigos:
 
 1. **Múltiples maleficios**: Hasta 5+ maleficios diferentes
-2. **Mantenimiento**: [Risa Estridente]({{ '/clases/brujo/dotes/#risa-estridente' | relative_url }}) extiende duración
-3. **División**: [Dividir Maleficio]({{ '/clases/brujo/dotes/#dividir-maleficio' | relative_url }}) afecta dos objetivos
-4. **Maestría**: [Maestro de los Maleficios]({{ '/clases/brujo/dotes/#maestro-de-los-maleficios' | relative_url }}) elimina restricciones
+2. **Mantenimiento**: [Risa Estridente](/dotes/brujo/risa-estridente/) extiende duración
+3. **División**: [Dividir Maleficio](/dotes/brujo/dividir-maleficio/) afecta dos objetivos
+4. **Maestría**: [Maestro de los Maleficios](/dotes/brujo/maestro-de-los-maleficios/) elimina restricciones
 
 ### Tipos de Lecciones
 **Lecciones Básicas:**
@@ -103,13 +103,13 @@ El Brujo de Maleficios acumula maldiciones sobre sus enemigos:
 
 ### Ciclo de Maleficios
 1. Lanza maleficio sobre objetivo
-2. [Risa Estridente]({{ '/clases/brujo/dotes/#risa-estridente' | relative_url }}) extiende 1 asalto
+2. [Risa Estridente](/dotes/brujo/risa-estridente/) extiende 1 asalto
 3. Siguiente turno: otro maleficio o conjuro
-4. Repite [Risa Estridente]({{ '/clases/brujo/dotes/#risa-estridente' | relative_url }}) para mantener
+4. Repite [Risa Estridente](/dotes/brujo/risa-estridente/) para mantener
 
-### [Maestro de los Maleficios]({{ '/clases/brujo/dotes/#maestro-de-los-maleficios' | relative_url }}) (Nivel 20)
+### [Maestro de los Maleficios](/dotes/brujo/maestro-de-los-maleficios/) (Nivel 20)
 - Sin límite de maleficios por turno
-- [Risa Estridente]({{ '/clases/brujo/dotes/#risa-estridente' | relative_url }}) mantiene TODOS los maleficios activos
+- [Risa Estridente](/dotes/brujo/risa-estridente/) mantiene TODOS los maleficios activos
 - Acumula múltiples debuffs en un turno
 
 ### Fortalezas

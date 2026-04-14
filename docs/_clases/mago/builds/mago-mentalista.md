@@ -39,35 +39,35 @@ adventure_path: null
 ## Progresión de Dotes
 
 ### Nivel 1
-- [Contraconjuro]({{ '/clases/mago/dotes/#contraconjuro' | relative_url }}) ✓ — Contraresta conjuros enemigos que tienes preparados
+- [Contraconjuro](/dotes/mago/contraconjuro/) ✓ — Contraresta conjuros enemigos que tienes preparados
 
 ### Nivel 2
-- [Ocultar Conjuro]({{ '/clases/mago/dotes/#ocultar-conjuro' | relative_url }}) ✓ — Tus conjuros ganan el rasgo sutil
+- [Ocultar Conjuro](/dotes/mago/ocultar-conjuro/) ✓ — Tus conjuros ganan el rasgo sutil
 
 ### Nivel 4
-- [Despliegue de Protección de Conjuros]({{ '/clases/mago/dotes/#despliegue-de-proteccion-de-conjuros' | relative_url }}) ✓ — Círculo que da +1 a salvaciones contra magia
+- [Despliegue de Protección de Conjuros](/dotes/mago/despliegue-de-proteccion-de-conjuros/) ✓ — Círculo que da +1 a salvaciones contra magia
 
 ### Nivel 6
-- [Ilusión Convincente]({{ '/clases/mago/dotes/#ilusion-convincente' | relative_url }}) ✓ — Usa Engaño para evitar que descreían tus ilusiones
-- [Espacio Dividido]({{ '/clases/mago/dotes/#espacio-dividido' | relative_url }}) ✓ — Prepara 2 conjuros en un espacio
+- [Ilusión Convincente](/dotes/mago/ilusion-convincente/) ✓ — Usa Engaño para evitar que descreían tus ilusiones
+- [Espacio Dividido](/dotes/mago/espacio-dividido/) ✓ — Prepara 2 conjuros en un espacio
 
 ### Nivel 8
-- [Conjuro de Escuela Avanzado]({{ '/clases/mago/dotes/#conjuro-de-escuela-avanzado' | relative_url }}) ✓ — Obtén conjuro de escuela avanzado
-- [Saber es Poder]({{ '/clases/mago/dotes/#saber-es-poder' | relative_url }}) ✓ — Éxito crítico en Recordar da penalizador al enemigo
+- [Conjuro de Escuela Avanzado](/dotes/mago/conjuro-de-escuela-avanzado/) ✓ — Obtén conjuro de escuela avanzado
+- [Saber es Poder](/dotes/mago/saber-es-poder/) ✓ — Éxito crítico en Recordar da penalizador al enemigo
 
 ### Nivel 10
-- [Lanzamiento Apresurado]({{ '/clases/mago/dotes/#lanzamiento-apresurado' | relative_url }}) ✓ — Reduce acciones para conjuros menores
+- [Lanzamiento Apresurado](/dotes/mago/lanzamiento-apresurado/) ✓ — Reduce acciones para conjuros menores
 
 ### Nivel 12
-- [Contraconjuro Astuto]({{ '/clases/mago/dotes/#contraconjuro-astuto' | relative_url }}) ✓ — Contraconjura con cualquier conjuro de tu grimorio
-- [Sentido Mágico]({{ '/clases/mago/dotes/#sentido-magico' | relative_url }}) ✓ — Detectas magia constantemente
+- [Contraconjuro Astuto](/dotes/mago/contraconjuro-astuto/) ✓ — Contraconjura con cualquier conjuro de tu grimorio
+- [Sentido Mágico](/dotes/mago/sentido-magico/) ✓ — Detectas magia constantemente
 
 ### Nivel 14
-- [Reflejar Conjuro]({{ '/clases/mago/dotes/#reflejar-conjuro' | relative_url }}) ✓ — Devuelve conjuros contrarrestados al lanzador
+- [Reflejar Conjuro](/dotes/mago/reflejar-conjuro/) ✓ — Devuelve conjuros contrarrestados al lanzador
 
 ### Nivel 18
-- [Pensándolo Bien]({{ '/clases/mago/dotes/#pensandolo-bien' | relative_url }}) ✓ — Reintenta conjuros mentales contra otro objetivo
-- [Posibilidades Infinitas]({{ '/clases/mago/dotes/#posibilidades-infinitas' | relative_url }}) ✓ — Un espacio puede lanzar cualquier conjuro del grimorio
+- [Pensándolo Bien](/dotes/mago/pensandolo-bien/) ✓ — Reintenta conjuros mentales contra otro objetivo
+- [Posibilidades Infinitas](/dotes/mago/posibilidades-infinitas/) ✓ — Un espacio puede lanzar cualquier conjuro del grimorio
 
 ---
 
@@ -83,8 +83,8 @@ El Mago Mentalista controla el campo de batalla sin destruirlo:
 
 1. **Antes del combate**: Usa ilusiones para crear ventajas tácticas
 2. **Control de masas**: Conjuros como [miedo]({{ '/conjuros/miedo/' | relative_url }}), [confusión]({{ '/conjuros/confusion/' | relative_url }}) <!-- TODO: crear páginas -->
-3. **Negación**: [Contraconjuro]({{ '/clases/mago/dotes/#contraconjuro' | relative_url }}) y [Reflejar Conjuro]({{ '/clases/mago/dotes/#reflejar-conjuro' | relative_url }}) anulan magia enemiga
-4. **Sigilo**: [Ocultar Conjuro]({{ '/clases/mago/dotes/#ocultar-conjuro' | relative_url }}) permite lanzar sin ser detectado
+3. **Negación**: [Contraconjuro](/dotes/mago/contraconjuro/) y [Reflejar Conjuro](/dotes/mago/reflejar-conjuro/) anulan magia enemiga
+4. **Sigilo**: [Ocultar Conjuro](/dotes/mago/ocultar-conjuro/) permite lanzar sin ser detectado
 
 ### Conjuros Sugeridos
 

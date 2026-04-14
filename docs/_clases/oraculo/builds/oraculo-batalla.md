@@ -38,46 +38,46 @@ adventure_path: null
 ## Progresión de Dotes
 
 ### Nivel 1
-- [Advertencia Oracular]({{ '/clases/oraculo/dotes/#advertencia-oracular' | relative_url }}) ✓ — +2/+3/+4 iniciativa aliados + PG temporales
-- [Susurros de Debilidad]({{ '/clases/oraculo/dotes/#susurros-de-debilidad' | relative_url }}) ✓ — Aprende debilidades + +2 ataque
+- [Advertencia Oracular](/dotes/oraculo/advertencia-oracular/) ✓ — +2/+3/+4 iniciativa aliados + PG temporales
+- [Susurros de Debilidad](/dotes/oraculo/susurros-de-debilidad/) ✓ — Aprende debilidades + +2 ataque
 
 ### Nivel 2
-- [Conocimiento de Dominios]({{ '/clases/oraculo/dotes/#conocimiento-de-dominios' | relative_url }}) ✓ — Hechizo de dominio de Celo o Poder
+- [Conocimiento de Dominios](/dotes/oraculo/conocimiento-de-dominios/) ✓ — Hechizo de dominio de Celo o Poder
 
 ### Nivel 4
-- [Golpes Hechizados]({{ '/clases/oraculo/dotes/#golpes-hechizados' | relative_url }}) ✓ — +1d6 daño tras lanzar conjuro
-- [Mil Visiones]({{ '/clases/oraculo/dotes/#mil-visiones' | relative_url }}) ✓ — No desprevenido vs ocultos
+- [Golpes Hechizados](/dotes/oraculo/golpes-hechizados/) ✓ — +1d6 daño tras lanzar conjuro
+- [Mil Visiones](/dotes/oraculo/mil-visiones/) ✓ — No desprevenido vs ocultos
 
 ### Nivel 6
-- [Revelación Avanzada]({{ '/clases/oraculo/dotes/#revelacion-avanzada' | relative_url }}) ✓ — Hechizo de revelación avanzado de batalla
-- [Poder Otorgado]({{ '/clases/oraculo/dotes/#poder-otorgado' | relative_url }}) ✓ — Espacio extra para conjuros otorgados
+- [Revelación Avanzada](/dotes/oraculo/revelacion-avanzada/) ✓ — Hechizo de revelación avanzado de batalla
+- [Poder Otorgado](/dotes/oraculo/poder-otorgado/) ✓ — Espacio extra para conjuros otorgados
 
 ### Nivel 8
-- [Poder Surgente]({{ '/clases/oraculo/dotes/#poder-surgente' | relative_url }}) ✓ — Ignora resistencias
-- [Caminar sobre el Agua]({{ '/clases/oraculo/dotes/#caminar-sobre-el-agua' | relative_url }}) ✓ — Movilidad en maldición
+- [Poder Surgente](/dotes/oraculo/poder-surgente/) ✓ — Ignora resistencias
+- [Caminar sobre el Agua](/dotes/oraculo/caminar-sobre-el-agua/) ✓ — Movilidad en maldición
 
 ### Nivel 10
-- [Los Muertos Caminan]({{ '/clases/oraculo/dotes/#los-muertos-caminan' | relative_url }}) ✓ — Invoca guerreros fantasmales
-- [Lanzamiento Acelerado]({{ '/clases/oraculo/dotes/#lanzamiento-acelerado' | relative_url }}) ✓ — Conjuros más rápidos
+- [Los Muertos Caminan](/dotes/oraculo/los-muertos-caminan/) ✓ — Invoca guerreros fantasmales
+- [Lanzamiento Acelerado](/dotes/oraculo/lanzamiento-acelerado/) ✓ — Conjuros más rápidos
 
 ### Nivel 12
-- [Revelación Mayor]({{ '/clases/oraculo/dotes/#revelacion-mayor' | relative_url }}) ✓ — Hechizo de revelación mayor de batalla
-- [Epifanía en la Encrucijada]({{ '/clases/oraculo/dotes/#epifania-en-la-encrucijada' | relative_url }}) ✓ — Vuelve de la muerte
+- [Revelación Mayor](/dotes/oraculo/revelacion-mayor/) ✓ — Hechizo de revelación mayor de batalla
+- [Epifanía en la Encrucijada](/dotes/oraculo/epifania-en-la-encrucijada/) ✓ — Vuelve de la muerte
 
 ### Nivel 14
-- [Evitar la Maldición]({{ '/clases/oraculo/dotes/#evitar-la-maldicion' | relative_url }}) ✓ — Una vez/día no aumenta vinculado
-- [Enfoque de Revelación]({{ '/clases/oraculo/dotes/#enfoque-de-revelacion' | relative_url }}) ✓ — Recupera todos los Puntos de Concentración
+- [Evitar la Maldición](/dotes/oraculo/evitar-la-maldicion/) ✓ — Una vez/día no aumenta vinculado
+- [Enfoque de Revelación](/dotes/oraculo/enfoque-de-revelacion/) ✓ — Recupera todos los Puntos de Concentración
 
 ### Nivel 16
-- [Conducto de Vacío y Vitalidad]({{ '/clases/oraculo/dotes/#conducto-de-vacio-y-vitalidad' | relative_url }}) ✓ — Sanar/dañar potenciado
-- [Misterio Diverso]({{ '/clases/oraculo/dotes/#misterio-diverso' | relative_url }}) ✓ — Revelación de otro misterio
+- [Conducto de Vacío y Vitalidad](/dotes/oraculo/conducto-de-vacio-y-vitalidad/) ✓ — Sanar/dañar potenciado
+- [Misterio Diverso](/dotes/oraculo/misterio-diverso/) ✓ — Revelación de otro misterio
 
 ### Nivel 18
-- [Llamarada de Revelación]({{ '/clases/oraculo/dotes/#llamarada-de-revelacion' | relative_url }}) ✓ — Revelaciones sin gastar Concentración
-- [Efusión Divina]({{ '/clases/oraculo/dotes/#efusion-divina' | relative_url }}) ✓ — Conjuros extra cuando te quedas sin espacios
+- [Llamarada de Revelación](/dotes/oraculo/llamarada-de-revelacion/) ✓ — Revelaciones sin gastar Concentración
+- [Efusión Divina](/dotes/oraculo/efusion-divina/) ✓ — Conjuros extra cuando te quedas sin espacios
 
 ### Nivel 20
-- [Conducto del Misterio]({{ '/clases/oraculo/dotes/#conducto-del-misterio' | relative_url }}) ✓ — Conjuro de rango 5 o menor gratis
+- [Conducto del Misterio](/dotes/oraculo/conducto-del-misterio/) ✓ — Conjuro de rango 5 o menor gratis
 
 ---
 
@@ -85,22 +85,22 @@ adventure_path: null
 
 El Oráculo de Batalla es un híbrido marcial-lanzador:
 
-1. **Combate cuerpo a cuerpo**: [Golpes Hechizados]({{ '/clases/oraculo/dotes/#golpes-hechizados' | relative_url }}) + arma marcial
-2. **Invocaciones**: [Los Muertos Caminan]({{ '/clases/oraculo/dotes/#los-muertos-caminan' | relative_url }}) trae guerreros fantasmales
-3. **Soporte**: [Advertencia Oracular]({{ '/clases/oraculo/dotes/#advertencia-oracular' | relative_url }}) mejora iniciativa del grupo
+1. **Combate cuerpo a cuerpo**: [Golpes Hechizados](/dotes/oraculo/golpes-hechizados/) + arma marcial
+2. **Invocaciones**: [Los Muertos Caminan](/dotes/oraculo/los-muertos-caminan/) trae guerreros fantasmales
+3. **Soporte**: [Advertencia Oracular](/dotes/oraculo/advertencia-oracular/) mejora iniciativa del grupo
 4. **Revelaciones de batalla**: Potencian tu combate
 
 ### Gestión de Maldición
 - Vinculado a la maldición 1: Beneficios menores
-- Vinculado a la maldición 2: [Los Muertos Caminan]({{ '/clases/oraculo/dotes/#los-muertos-caminan' | relative_url }}) invoca 3 guerreros
-- Vinculado a la maldición 3: Más guerreros + [Advertencia Oracular]({{ '/clases/oraculo/dotes/#advertencia-oracular' | relative_url }}) +4
+- Vinculado a la maldición 2: [Los Muertos Caminan](/dotes/oraculo/los-muertos-caminan/) invoca 3 guerreros
+- Vinculado a la maldición 3: Más guerreros + [Advertencia Oracular](/dotes/oraculo/advertencia-oracular/) +4
 - Cuidado con vinculado 4
 
 ### Secuencia de Combate
-1. [Advertencia Oracular]({{ '/clases/oraculo/dotes/#advertencia-oracular' | relative_url }}) al inicio
+1. [Advertencia Oracular](/dotes/oraculo/advertencia-oracular/) al inicio
 2. Conjuro ofensivo o de buff
-3. [Golpes Hechizados]({{ '/clases/oraculo/dotes/#golpes-hechizados' | relative_url }}) + Golpe
-4. [Los Muertos Caminan]({{ '/clases/oraculo/dotes/#los-muertos-caminan' | relative_url }}) para refuerzos
+3. [Golpes Hechizados](/dotes/oraculo/golpes-hechizados/) + Golpe
+4. [Los Muertos Caminan](/dotes/oraculo/los-muertos-caminan/) para refuerzos
 
 ### Fortalezas
 - Competente en combate cuerpo a cuerpo

@@ -39,31 +39,31 @@ adventure_path: null
 ## Progresión de Dotes
 
 ### Nivel 1
-- [Guardián Iniciado]({{ '/clases/explorador/dotes/#guardian-iniciado' | relative_url }}) ✓ — Obtén un conjuro de guardián inicial
-- [Cazador de Monstruos]({{ '/clases/explorador/dotes/#cazador-de-monstruos' | relative_url }}) ✓ — Recordar conocimiento + bonificador
+- [Guardián Iniciado](/dotes/explorador/guardian-iniciado/) ✓ — Obtén un conjuro de guardián inicial
+- [Cazador de Monstruos](/dotes/explorador/cazador-de-monstruos/) ✓ — Recordar conocimiento + bonificador
 
 ### Nivel 2
-- [Empatía Animal]({{ '/clases/explorador/dotes/#empatia-animal' | relative_url }}) ✓ — Usa Diplomacia con animales
-- [Guardián contra Monstruos]({{ '/clases/explorador/dotes/#guardian-contra-monstruos' | relative_url }}) ✓ — Bonificador defensivo de Cazador de Monstruos
+- [Empatía Animal](/dotes/explorador/empatia-animal/) ✓ — Usa Diplomacia con animales
+- [Guardián contra Monstruos](/dotes/explorador/guardian-contra-monstruos/) ✓ — Bonificador defensivo de Cazador de Monstruos
 
 ### Nivel 4
-- [Guardián Avanzado]({{ '/clases/explorador/dotes/#guardian-avanzado' | relative_url }}) ✓ — Conjuro de guardián avanzado
+- [Guardián Avanzado](/dotes/explorador/guardian-avanzado/) ✓ — Conjuro de guardián avanzado
 
 ### Nivel 6
-- [Guardián Maestro]({{ '/clases/explorador/dotes/#guardian-maestro' | relative_url }}) ✓ — Conjuro de guardián maestro
-- [Recuerdo Adicional]({{ '/clases/explorador/dotes/#recuerdo-adicional' | relative_url }}) ✓ — Recordar sobre otra criatura
+- [Guardián Maestro](/dotes/explorador/guardian-maestro/) ✓ — Conjuro de guardián maestro
+- [Recuerdo Adicional](/dotes/explorador/recuerdo-adicional/) ✓ — Recordar sobre otra criatura
 
 ### Nivel 8
-- [Merced del Guardián]({{ '/clases/explorador/dotes/#merced-del-guardian' | relative_url }}) ✓ — Comparte beneficios de Perseguir presa
+- [Merced del Guardián](/dotes/explorador/merced-del-guardian/) ✓ — Comparte beneficios de Perseguir presa
 
 ### Nivel 10
-- [Guardián sin Igual]({{ '/clases/explorador/dotes/#guardian-sin-igual' | relative_url }}) ✓ — Conjuro de guardián sin igual
+- [Guardián sin Igual](/dotes/explorador/guardian-sin-igual/) ✓ — Conjuro de guardián sin igual
 
 ### Nivel 12
-- [Foco del Guardián]({{ '/clases/explorador/dotes/#foco-del-guardian' | relative_url }}) ✓ — Recupera todos los Puntos de Foco al Reenfocar
+- [Foco del Guardián](/dotes/explorador/foco-del-guardian/) ✓ — Recupera todos los Puntos de Foco al Reenfocar
 
 ### Nivel 16
-- [Recarga del Guardián]({{ '/clases/explorador/dotes/#recarga-del-guardian' | relative_url }}) ✓ — Recarga arma gratis tras conjuro de guardián
+- [Recarga del Guardián](/dotes/explorador/recarga-del-guardian/) ✓ — Recarga arma gratis tras conjuro de guardián
 
 ---
 
@@ -89,13 +89,13 @@ Los conjuros de guardián son conjuros de foco primigenios exclusivos del explor
 
 El Guardián Primigenio combina combate marcial con magia de apoyo:
 
-1. **Identificación**: [Cazador de Monstruos]({{ '/clases/explorador/dotes/#cazador-de-monstruos' | relative_url }}) + [Guardián contra Monstruos]({{ '/clases/explorador/dotes/#guardian-contra-monstruos' | relative_url }}) para bonificadores
+1. **Identificación**: [Cazador de Monstruos](/dotes/explorador/cazador-de-monstruos/) + [Guardián contra Monstruos](/dotes/explorador/guardian-contra-monstruos/) para bonificadores
 2. **Apoyo**: Conjuros de guardián para control y utilidad
 3. **Combate**: Ataques marciales normales
-4. **Sostenibilidad**: [Foco del Guardián]({{ '/clases/explorador/dotes/#foco-del-guardian' | relative_url }}) recupera todos los Puntos de Foco
+4. **Sostenibilidad**: [Foco del Guardián](/dotes/explorador/foco-del-guardian/) recupera todos los Puntos de Foco
 
 ### Secuencia Típica
-1. Perseguir presa + Recordar conocimiento ([Cazador de Monstruos]({{ '/clases/explorador/dotes/#cazador-de-monstruos' | relative_url }}))
+1. Perseguir presa + Recordar conocimiento ([Cazador de Monstruos](/dotes/explorador/cazador-de-monstruos/))
 2. Conjuro de guardián para control/apoyo
 3. Ataques marciales contra presa
 4. Reenfocar para recuperar conjuros

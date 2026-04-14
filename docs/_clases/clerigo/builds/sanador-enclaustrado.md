@@ -40,32 +40,32 @@ adventure_path: null
 ## Progresión de Dotes
 
 ### Nivel 1
-- [Manos Curativas]({{ '/clases/clerigo/dotes/#manos-curativas' | relative_url }}) ✓ — Curar usa d10 en lugar de d8
-- [Iniciado de un Dominio]({{ '/clases/clerigo/dotes/#iniciado-de-un-dominio' | relative_url }}) ✓ — Obtén conjuro de foco de Curación
+- [Manos Curativas](/dotes/clerigo/manos-curativas/) ✓ — Curar usa d10 en lugar de d8
+- [Iniciado de un Dominio](/dotes/clerigo/iniciado-de-un-dominio/) ✓ — Obtén conjuro de foco de Curación
 
 ### Nivel 2
-- [Curación en Común]({{ '/clases/clerigo/dotes/#curacion-en-comun' | relative_url }}) ✓ — Una criatura adicional recupera PG igual al rango
+- [Curación en Común](/dotes/clerigo/curacion-en-comun/) ✓ — Una criatura adicional recupera PG igual al rango
 
 ### Nivel 4
-- [Canalización Dirigida]({{ '/clases/clerigo/dotes/#canalizacion-dirigida' | relative_url }}) ✓ — Curar en cono de 60 pies en lugar de emanación
+- [Canalización Dirigida](/dotes/clerigo/canalizacion-dirigida/) ✓ — Curar en cono de 60 pies en lugar de emanación
 
 ### Nivel 6
-- [Energía Selectiva]({{ '/clases/clerigo/dotes/#energia-selectiva' | relative_url }}) ✓ — Excluye hasta 5 criaturas del área
-- [Manos Mágicas]({{ '/clases/clerigo/dotes/#manos-magicas' | relative_url }}) ✓ — Mejora Tratar Heridas con d10 + nivel
+- [Energía Selectiva](/dotes/clerigo/energia-selectiva/) ✓ — Excluye hasta 5 criaturas del área
+- [Manos Mágicas](/dotes/clerigo/manos-magicas/) ✓ — Mejora Tratar Heridas con d10 + nivel
 
 ### Nivel 8
-- [Canalización Restablecedora]({{ '/clases/clerigo/dotes/#canalizacion-restablecedora' | relative_url }}) ✓ — Sacrifica curar para lanzar conjuros de eliminación de estados
-- [Dominio Avanzado]({{ '/clases/clerigo/dotes/#dominio-avanzado' | relative_url }}) ✓ — Obtén conjuro de dominio avanzado
+- [Canalización Restablecedora](/dotes/clerigo/canalizacion-restablecedora/) ✓ — Sacrifica curar para lanzar conjuros de eliminación de estados
+- [Dominio Avanzado](/dotes/clerigo/dominio-avanzado/) ✓ — Obtén conjuro de dominio avanzado
 
 ### Nivel 10
-- [Recuperación Heroica]({{ '/clases/clerigo/dotes/#recuperacion-heroica' | relative_url }}) ✓ — Curar otorga bonificadores a Velocidad, ataque y daño
+- [Recuperación Heroica](/dotes/clerigo/recuperacion-heroica/) ✓ — Curar otorga bonificadores a Velocidad, ataque y daño
 
 ### Nivel 12
-- [Foco de Dominio]({{ '/clases/clerigo/dotes/#foco-de-dominio' | relative_url }}) ✓ — Reenfocas completamente la reserva de foco
-- [Alivio Afortunado]({{ '/clases/clerigo/dotes/#alivio-afortunado' | relative_url }}) ✓ — Tira 2 veces para contrarrestar efectos
+- [Foco de Dominio](/dotes/clerigo/foco-de-dominio/) ✓ — Reenfocas completamente la reserva de foco
+- [Alivio Afortunado](/dotes/clerigo/alivio-afortunado/) ✓ — Tira 2 veces para contrarrestar efectos
 
 ### Nivel 16
-- [Resucitador]({{ '/clases/clerigo/dotes/#resucitador' | relative_url }}) ✓ — Otorga curación rápida 5 al revivir/estabilizar
+- [Resucitador](/dotes/clerigo/resucitador/) ✓ — Otorga curación rápida 5 al revivir/estabilizar
 
 ---
 
@@ -81,13 +81,13 @@ El Clérigo Sanador es el mejor sanador del juego:
 
 1. **Posición**: Mantente en el centro-trasero del grupo
 2. **Sanación de Área**: Usa curar de 3 acciones para sanar a todos los aliados
-3. **Selección**: Con [Energía Selectiva]({{ '/clases/clerigo/dotes/#energia-selectiva' | relative_url }}), excluye enemigos del área
-4. **Estados**: Usa [Canalización Restablecedora]({{ '/clases/clerigo/dotes/#canalizacion-restablecedora' | relative_url }}) para eliminar estados peligrosos
+3. **Selección**: Con [Energía Selectiva](/dotes/clerigo/energia-selectiva/), excluye enemigos del área
+4. **Estados**: Usa [Canalización Restablecedora](/dotes/clerigo/canalizacion-restablecedora/) para eliminar estados peligrosos
 
 ### Secuencia de Sanación Óptima
 1. Turno 1: Curar de 3 acciones (área)
-2. Turno 2: Curar individual + [Curación en Común]({{ '/clases/clerigo/dotes/#curacion-en-comun' | relative_url }}) para un segundo aliado
-3. Emergencia: [Canalización Restablecedora]({{ '/clases/clerigo/dotes/#canalizacion-restablecedora' | relative_url }}) para venenos/enfermedades
+2. Turno 2: Curar individual + [Curación en Común](/dotes/clerigo/curacion-en-comun/) para un segundo aliado
+3. Emergencia: [Canalización Restablecedora](/dotes/clerigo/canalizacion-restablecedora/) para venenos/enfermedades
 
 ### Fortalezas
 - Mejor sanación del juego

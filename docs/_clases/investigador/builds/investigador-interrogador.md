@@ -38,47 +38,47 @@ adventure_path: null
 ## Progresión de Dotes
 
 ### Nivel 1
-- [Experto en Derribos]({{ '/clases/investigador/dotes/#experto-en-derribos' | relative_url }}) ✓ — INT con mazas + no letal sin penalizador
-- [Investigador del Submundo]({{ '/clases/investigador/dotes/#investigador-del-submundo' | relative_url }}) ✓ — Latrocinio para investigar
+- [Experto en Derribos](/dotes/investigador/experto-en-derribos/) ✓ — INT con mazas + no letal sin penalizador
+- [Investigador del Submundo](/dotes/investigador/investigador-del-submundo/) ✓ — Latrocinio para investigar
 
 ### Nivel 2
-- [Estratagema Compartida]({{ '/clases/investigador/dotes/#estratagema-compartida' | relative_url }}) ✓ — Aliado obtiene desprevenido
-- [Persona de Interés]({{ '/clases/investigador/dotes/#persona-de-interes' | relative_url }}) ✓ — Estratagema gratis contra nuevo objetivo
+- [Estratagema Compartida](/dotes/investigador/estratagema-compartida/) ✓ — Aliado obtiene desprevenido
+- [Persona de Interés](/dotes/investigador/persona-de-interes/) ✓ — Estratagema gratis contra nuevo objetivo
 
 ### Nivel 4
-- [Detector de Mentiras]({{ '/clases/investigador/dotes/#detector-de-mentiras' | relative_url }}) ✓ — +1 Intuir Motivación + beneficio
-- [Preparación del Detective]({{ '/clases/investigador/dotes/#preparacion-del-detective' | relative_url }}) ✓ — Bonificador a salvaciones vs sospechosos
+- [Detector de Mentiras](/dotes/investigador/detector-de-mentiras/) ✓ — +1 Intuir Motivación + beneficio
+- [Preparación del Detective](/dotes/investigador/preparacion-del-detective/) ✓ — Bonificador a salvaciones vs sospechosos
 
 ### Nivel 6
-- [Conectar los Puntos]({{ '/clases/investigador/dotes/#conectar-los-puntos' | relative_url }}) ✓ — Bonificador a aliado
-- [Compra Predictiva]({{ '/clases/investigador/dotes/#compra-predictiva' | relative_url }}) ✓ — Planificador Presciente
+- [Conectar los Puntos](/dotes/investigador/conectar-los-puntos/) ✓ — Bonificador a aliado
+- [Compra Predictiva](/dotes/investigador/compra-predictiva/) ✓ — Planificador Presciente
 
 ### Nivel 8
-- [¿Quién lo Hizo?]({{ '/clases/investigador/dotes/#quien-lo-hizo' | relative_url }}) ✓ — Dos preguntas sí/no sobre pista
-- [Darles Pistas a Todos]({{ '/clases/investigador/dotes/#darles-pistas-a-todos' | relative_url }}) ✓ — Pista a todos los aliados
+- [¿Quién lo Hizo?](/dotes/investigador/quien-lo-hizo/) ✓ — Dos preguntas sí/no sobre pista
+- [Darles Pistas a Todos](/dotes/investigador/darles-pistas-a-todos/) ✓ — Pista a todos los aliados
 
 ### Nivel 10
-- [Solo Una Cosa Más]({{ '/clases/investigador/dotes/#solo-una-cosa-mas' | relative_url }}) ✓ — Reroll de pruebas sociales
-- [Sospechoso de Oportunidad]({{ '/clases/investigador/dotes/#sospechoso-de-oportunidad' | relative_url }}) ✓ — Persona de Interés reactivo
+- [Solo Una Cosa Más](/dotes/investigador/solo-una-cosa-mas/) ✓ — Reroll de pruebas sociales
+- [Sospechoso de Oportunidad](/dotes/investigador/sospechoso-de-oportunidad/) ✓ — Persona de Interés reactivo
 
 ### Nivel 12
-- [Hacerlos Sudar]({{ '/clases/investigador/dotes/#hacerlos-sudar' | relative_url }}) ✓ — Pregunta Puntiaguda asusta
-- [Razonar Rápidamente]({{ '/clases/investigador/dotes/#razonar-rapidamente' | relative_url }}) ✓ — 5 Recordar en una acción
+- [Hacerlos Sudar](/dotes/investigador/hacerlos-sudar/) ✓ — Pregunta Puntiaguda asusta
+- [Razonar Rápidamente](/dotes/investigador/razonar-rapidamente/) ✓ — 5 Recordar en una acción
 
 ### Nivel 14
-- [Trazar el Futuro]({{ '/clases/investigador/dotes/#trazar-el-futuro' | relative_url }}) ✓ — Predice eventos futuros
-- [Derivación Estratégica]({{ '/clases/investigador/dotes/#derivacion-estrategica' | relative_url }}) ✓ — Ignora resistencias
+- [Trazar el Futuro](/dotes/investigador/trazar-el-futuro/) ✓ — Predice eventos futuros
+- [Derivación Estratégica](/dotes/investigador/derivacion-estrategica/) ✓ — Ignora resistencias
 
 ### Nivel 16
-- [Golpe Didáctico]({{ '/clases/investigador/dotes/#golpe-didactico' | relative_url }}) ✓ — 10 aliados + precisión
-- [Compra Inverosímil]({{ '/clases/investigador/dotes/#compra-inverosimil' | relative_url }}) ✓ — Objetos en cualquier lugar
+- [Golpe Didáctico](/dotes/investigador/golpe-didactico/) ✓ — 10 aliados + precisión
+- [Compra Inverosímil](/dotes/investigador/compra-inverosimil/) ✓ — Objetos en cualquier lugar
 
 ### Nivel 18
-- [Investigador Principal]({{ '/clases/investigador/dotes/#investigador-principal' | relative_url }}) ✓ — Aliados ganan bonificador
-- [As del Tramposo]({{ '/clases/investigador/dotes/#as-del-tramposo' | relative_url }}) ✓ — Contingencia mágica
+- [Investigador Principal](/dotes/investigador/investigador-principal/) ✓ — Aliados ganan bonificador
+- [As del Tramposo](/dotes/investigador/as-del-tramposo/) ✓ — Contingencia mágica
 
 ### Nivel 20
-- [Todos Son Sospechosos]({{ '/clases/investigador/dotes/#todos-son-sospechosos' | relative_url }}) ✓ — Pista automática a todos
+- [Todos Son Sospechosos](/dotes/investigador/todos-son-sospechosos/) ✓ — Pista automática a todos
 
 ---
 
@@ -87,16 +87,16 @@ adventure_path: null
 El Investigador Interrogador domina la interacción social:
 
 1. **Pregunta Puntiaguda**: Metodología da acceso a esta acción
-2. **Intimidación táctica**: [Hacerlos Sudar]({{ '/clases/investigador/dotes/#hacerlos-sudar' | relative_url }}) + miedo
-3. **Capturas no letales**: [Experto en Derribos]({{ '/clases/investigador/dotes/#experto-en-derribos' | relative_url }})
-4. **Información**: [¿Quién lo Hizo?]({{ '/clases/investigador/dotes/#quien-lo-hizo' | relative_url }}) + [Trazar el Futuro]({{ '/clases/investigador/dotes/#trazar-el-futuro' | relative_url }})
+2. **Intimidación táctica**: [Hacerlos Sudar](/dotes/investigador/hacerlos-sudar/) + miedo
+3. **Capturas no letales**: [Experto en Derribos](/dotes/investigador/experto-en-derribos/)
+4. **Información**: [¿Quién lo Hizo?](/dotes/investigador/quien-lo-hizo/) + [Trazar el Futuro](/dotes/investigador/trazar-el-futuro/)
 
 ### Beneficio de Metodología
 Interrogatorio permite:
 - Usar Intimidación para pruebas de investigación
 - Pregunta Puntiaguda como acción
 
-### Pregunta Puntiaguda + [Hacerlos Sudar]({{ '/clases/investigador/dotes/#hacerlos-sudar' | relative_url }})
+### Pregunta Puntiaguda + [Hacerlos Sudar](/dotes/investigador/hacerlos-sudar/)
 - Éxito: Objetivo responde + asustado 1
 - Éxito crítico: Respuesta completa + asustado 2
 - El miedo debilita al objetivo en combate
@@ -108,9 +108,9 @@ Interrogatorio permite:
 
 ### Secuencia Social
 1. Pregunta Puntiaguda para información
-2. [Hacerlos Sudar]({{ '/clases/investigador/dotes/#hacerlos-sudar' | relative_url }}) si resiste
-3. [Solo Una Cosa Más]({{ '/clases/investigador/dotes/#solo-una-cosa-mas' | relative_url }}) si fallas
-4. [Detector de Mentiras]({{ '/clases/investigador/dotes/#detector-de-mentiras' | relative_url }}) para verificar respuestas
+2. [Hacerlos Sudar](/dotes/investigador/hacerlos-sudar/) si resiste
+3. [Solo Una Cosa Más](/dotes/investigador/solo-una-cosa-mas/) si fallas
+4. [Detector de Mentiras](/dotes/investigador/detector-de-mentiras/) para verificar respuestas
 
 ### Fortalezas
 - Mejor interrogador del juego

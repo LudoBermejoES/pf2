@@ -37,46 +37,46 @@ adventure_path: null
 ## Progresión de Dotes
 
 ### Nivel 1
-- [Postura de la Montaña]({{ '/clases/monje/dotes/#postura-de-la-montana' | relative_url }}) ✓ — +4 CA objeto + +2 vs movimiento forzado
+- [Postura de la Montaña](/dotes/monje/postura-de-la-montana/) ✓ — +4 CA objeto + +2 vs movimiento forzado
 
 ### Nivel 2
-- [Presa Aplastante]({{ '/clases/monje/dotes/#presa-aplastante' | relative_url }}) ✓ — Daño al Agarrar
-- [Golpes Aturdidores]({{ '/clases/monje/dotes/#golpes-aturdidores' | relative_url }}) ✓ — Aturde con Ráfaga
+- [Presa Aplastante](/dotes/monje/presa-aplastante/) ✓ — Daño al Agarrar
+- [Golpes Aturdidores](/dotes/monje/golpes-aturdidores/) ✓ — Aturde con Ráfaga
 
 ### Nivel 4
-- [Quedarse Quieto]({{ '/clases/monje/dotes/#quedarse-quieto' | relative_url }}) ✓ — Golpea enemigos que huyen
-- [Ráfaga de Maniobras]({{ '/clases/monje/dotes/#rafaga-de-maniobras' | relative_url }}) ✓ — Maniobras en Ráfaga
+- [Quedarse Quieto](/dotes/monje/quedarse-quieto/) ✓ — Golpea enemigos que huyen
+- [Ráfaga de Maniobras](/dotes/monje/rafaga-de-maniobras/) ✓ — Maniobras en Ráfaga
 
 ### Nivel 6
-- [Baluarte de la Montaña]({{ '/clases/monje/dotes/#baluarte-de-la-montana' | relative_url }}) ✓ — +2 CA adicional
-- [Lanzamiento Giratorio]({{ '/clases/monje/dotes/#lanzamiento-giratorio' | relative_url }}) ✓ — Lanza enemigos agarrados
+- [Baluarte de la Montaña](/dotes/monje/baluarte-de-la-montana/) ✓ — +2 CA adicional
+- [Lanzamiento Giratorio](/dotes/monje/lanzamiento-giratorio/) ✓ — Lanza enemigos agarrados
 
 ### Nivel 8
-- [Postura de Sangre de Hierro]({{ '/clases/monje/dotes/#postura-de-sangre-de-hierro' | relative_url }}) ✓ — Resistencia a todo daño
-- [Maniobra Mixta]({{ '/clases/monje/dotes/#maniobra-mixta' | relative_url }}) ✓ — Dos maniobras fluidas
+- [Postura de Sangre de Hierro](/dotes/monje/postura-de-sangre-de-hierro/) ✓ — Resistencia a todo daño
+- [Maniobra Mixta](/dotes/monje/maniobra-mixta/) ✓ — Dos maniobras fluidas
 
 ### Nivel 10
-- [Presa Asfixiante]({{ '/clases/monje/dotes/#presa-asfixiante' | relative_url }}) ✓ — Incapacita con agarre
-- [Posición Prevaleciente]({{ '/clases/monje/dotes/#posicion-prevaleciente' | relative_url }}) ✓ — Sacrifica postura por defensa
+- [Presa Asfixiante](/dotes/monje/presa-asfixiante/) ✓ — Incapacita con agarre
+- [Posición Prevaleciente](/dotes/monje/posicion-prevaleciente/) ✓ — Sacrifica postura por defensa
 
 ### Nivel 12
-- [Postura Reflexiva]({{ '/clases/monje/dotes/#postura-reflexiva' | relative_url }}) ✓ — Postura al tirar iniciativa
-- [Rodada Evasiva]({{ '/clases/monje/dotes/#rodada-evasiva' | relative_url }}) ✓ — Resistencia contra áreas
+- [Postura Reflexiva](/dotes/monje/postura-reflexiva/) ✓ — Postura al tirar iniciativa
+- [Rodada Evasiva](/dotes/monje/rodada-evasiva/) ✓ — Resistencia contra áreas
 
 ### Nivel 14
-- [Terremoto de Montaña]({{ '/clases/monje/dotes/#terremoto-de-montana' | relative_url }}) ✓ — Pisotón que daña y derriba + aumenta límite DES a +2
-- [Forma Sin Par]({{ '/clases/monje/dotes/#forma-sin-par' | relative_url }}) ✓ — +2 Fortaleza y Voluntad
+- [Terremoto de Montaña](/dotes/monje/terremoto-de-montana/) ✓ — Pisotón que daña y derriba + aumenta límite DES a +2
+- [Forma Sin Par](/dotes/monje/forma-sin-par/) ✓ — +2 Fortaleza y Voluntad
 
 ### Nivel 16
-- [Fusionar Posturas]({{ '/clases/monje/dotes/#fusionar-posturas' | relative_url }}) ✓ — Combina Montaña con Sangre de Hierro
-- [Golpe Destrozador]({{ '/clases/monje/dotes/#golpe-destrozador' | relative_url }}) ✓ — Ignora resistencias y mitad de Dureza
+- [Fusionar Posturas](/dotes/monje/fusionar-posturas/) ✓ — Combina Montaña con Sangre de Hierro
+- [Golpe Destrozador](/dotes/monje/golpe-destrozador/) ✓ — Ignora resistencias y mitad de Dureza
 
 ### Nivel 18
-- [Puños de Diamante]({{ '/clases/monje/dotes/#punos-de-diamante' | relative_url }}) ✓ — Aumenta daño de contundente
+- [Puños de Diamante](/dotes/monje/punos-de-diamante/) ✓ — Aumenta daño de contundente
 
 ### Nivel 20
-- [Técnicas Inmortales]({{ '/clases/monje/dotes/#tecnicas-inmortales' | relative_url }}) ✓ — 20 PG temporales al cambiar postura
-- [Técnica Imposible]({{ '/clases/monje/dotes/#tecnica-imposible' | relative_url }}) ✓ — Reroll de ataque o salvación enemigo
+- [Técnicas Inmortales](/dotes/monje/tecnicas-inmortales/) ✓ — 20 PG temporales al cambiar postura
+- [Técnica Imposible](/dotes/monje/tecnica-imposible/) ✓ — Reroll de ataque o salvación enemigo
 
 ---
 
@@ -87,19 +87,19 @@ El Monje de la Montaña es el tanque definitivo sin armadura:
 1. **Defensa masiva**: +4 CA objeto (acumulable con runas de armadura)
 2. **Inamovible**: +2 vs Empujar, Derribar, Reposicionar
 3. **Control**: Agarres que incapacitan
-4. **Área**: [Terremoto de Montaña]({{ '/clases/monje/dotes/#terremoto-de-montana' | relative_url }}) derriba grupos
+4. **Área**: [Terremoto de Montaña](/dotes/monje/terremoto-de-montana/) derriba grupos
 
 ### Cálculo de CA
 - CA base + DEX (máx +0/+1/+2)
 - +4 CA objeto de Postura de la Montaña
-- +1 circunstancia de [Baluarte de la Montaña]({{ '/clases/monje/dotes/#baluarte-de-la-montana' | relative_url }})
+- +1 circunstancia de [Baluarte de la Montaña](/dotes/monje/baluarte-de-la-montana/)
 - Acumulable con runas de potencia en ropa de explorador
 
 ### Secuencia de Combate
-1. [Postura de la Montaña]({{ '/clases/monje/dotes/#postura-de-la-montana' | relative_url }}) + posicionamiento
-2. [Baluarte de la Montaña]({{ '/clases/monje/dotes/#baluarte-de-la-montana' | relative_url }}) para defensa máxima
-3. Ráfaga de golpes o [Ráfaga de Maniobras]({{ '/clases/monje/dotes/#rafaga-de-maniobras' | relative_url }})
-4. [Terremoto de Montaña]({{ '/clases/monje/dotes/#terremoto-de-montana' | relative_url }}) contra grupos
+1. [Postura de la Montaña](/dotes/monje/postura-de-la-montana/) + posicionamiento
+2. [Baluarte de la Montaña](/dotes/monje/baluarte-de-la-montana/) para defensa máxima
+3. Ráfaga de golpes o [Ráfaga de Maniobras](/dotes/monje/rafaga-de-maniobras/)
+4. [Terremoto de Montaña](/dotes/monje/terremoto-de-montana/) contra grupos
 
 ### Fortalezas
 - CA más alta posible para un monje

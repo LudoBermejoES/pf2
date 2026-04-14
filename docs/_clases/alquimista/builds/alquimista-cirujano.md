@@ -38,44 +38,44 @@ adventure_path: null
 ## Progresión de Dotes
 
 ### Nivel 1
-- [Viales Reconfortantes]({{ '/clases/alquimista/dotes/#viales-reconfortantes' | relative_url }}) ✓ — Cura + salvación vs efectos mentales
+- [Viales Reconfortantes](/dotes/alquimista/viales-reconfortantes/) ✓ — Cura + salvación vs efectos mentales
 
 ### Nivel 2
-- [Elixires Coagulantes]({{ '/clases/alquimista/dotes/#elixires-coagulantes' | relative_url }}) ✓ — Detiene sangrado al curar
-- [Improvisar Mezcla]({{ '/clases/alquimista/dotes/#improvisar-mezcla' | relative_url }}) ✓ — Recupera viales versátiles
+- [Elixires Coagulantes](/dotes/alquimista/elixires-coagulantes/) ✓ — Detiene sangrado al curar
+- [Improvisar Mezcla](/dotes/alquimista/improvisar-mezcla/) ✓ — Recupera viales versátiles
 
 ### Nivel 4
-- [Elixir Vigorizante]({{ '/clases/alquimista/dotes/#elixir-vigorizante' | relative_url }}) ✓ — Contrarresta condiciones
-- [Bomba Curativa]({{ '/clases/alquimista/dotes/#bomba-curativa' | relative_url }}) ✓ — Lanza elixires de vida
+- [Elixir Vigorizante](/dotes/alquimista/elixir-vigorizante/) ✓ — Contrarresta condiciones
+- [Bomba Curativa](/dotes/alquimista/bomba-curativa/) ✓ — Lanza elixires de vida
 
 ### Nivel 6
-- [Combinar Elixires]({{ '/clases/alquimista/dotes/#combinar-elixires' | relative_url }}) ✓ — Mezcla dos elixires
-- [Elixires Fortificados]({{ '/clases/alquimista/dotes/#elixires-fortificados' | relative_url }}) ✓ — Reroll de salvación vs aflicción
+- [Combinar Elixires](/dotes/alquimista/combinar-elixires/) ✓ — Mezcla dos elixires
+- [Elixires Fortificados](/dotes/alquimista/elixires-fortificados/) ✓ — Reroll de salvación vs aflicción
 
 ### Nivel 8
-- [Elixir Vigorizante Mejorado]({{ '/clases/alquimista/dotes/#elixir-vigorizante-mejorado' | relative_url }}) ✓ — Más condiciones a contrarrestar
-- [Alterar Mezcla]({{ '/clases/alquimista/dotes/#alterar-mezcla' | relative_url }}) ✓ — Adapta elixires sobre la marcha
+- [Elixir Vigorizante Mejorado](/dotes/alquimista/elixir-vigorizante-mejorado/) ✓ — Más condiciones a contrarrestar
+- [Alterar Mezcla](/dotes/alquimista/alterar-mezcla/) ✓ — Adapta elixires sobre la marcha
 
 ### Nivel 10
-- [Alquimia Eficiente Avanzada]({{ '/clases/alquimista/dotes/#alquimia-eficiente-avanzada' | relative_url }}) ✓ — Más objetos/día
-- [Brebaje Inestable]({{ '/clases/alquimista/dotes/#brebaje-inestable' | relative_url }}) ✓ — Aumenta dados de curación
+- [Alquimia Eficiente Avanzada](/dotes/alquimista/alquimia-eficiente-avanzada/) ✓ — Más objetos/día
+- [Brebaje Inestable](/dotes/alquimista/brebaje-inestable/) ✓ — Aumenta dados de curación
 
 ### Nivel 12
-- [Extender Elixir]({{ '/clases/alquimista/dotes/#extender-elixir' | relative_url }}) ✓ — Duplica duración
-- [Elixir Vigorizante Supremo]({{ '/clases/alquimista/dotes/#elixir-vigorizante-supremo' | relative_url }}) ✓ — Contrarrestar nivel +2, petrificado, aturdido, enfermedades
+- [Extender Elixir](/dotes/alquimista/extender-elixir/) ✓ — Duplica duración
+- [Elixir Vigorizante Supremo](/dotes/alquimista/elixir-vigorizante-supremo/) ✓ — Contrarrestar nivel +2, petrificado, aturdido, enfermedades
 
 ### Nivel 14
-- [Veneno Doble]({{ '/clases/alquimista/dotes/#veneno-doble' | relative_url }}) ✓ — Ofensiva secundaria
+- [Veneno Doble](/dotes/alquimista/veneno-doble/) ✓ — Ofensiva secundaria
 
 ### Nivel 16
-- [Elixir Eterno]({{ '/clases/alquimista/dotes/#elixir-eterno' | relative_url }}) ✓ — Buffs permanentes
+- [Elixir Eterno](/dotes/alquimista/elixir-eterno/) ✓ — Buffs permanentes
 
 ### Nivel 18
-- [Obrador de Milagros]({{ '/clases/alquimista/dotes/#obrador-de-milagros' | relative_url }}) ✓ — Resucita recién muertos
-- [Elixires Improbables]({{ '/clases/alquimista/dotes/#elixires-improbables' | relative_url }}) ✓ — Replica pociones como elixires
+- [Obrador de Milagros](/dotes/alquimista/obrador-de-milagros/) ✓ — Resucita recién muertos
+- [Elixires Improbables](/dotes/alquimista/elixires-improbables/) ✓ — Replica pociones como elixires
 
 ### Nivel 20
-- [Revivificación Alquímica]({{ '/clases/alquimista/dotes/#revivificacion-alquimica' | relative_url }}) ✓ — Auto-resurrección
+- [Revivificación Alquímica](/dotes/alquimista/revivificacion-alquimica/) ✓ — Auto-resurrección
 
 ---
 
@@ -84,28 +84,28 @@ adventure_path: null
 El Alquimista Cirujano es el sanador supremo no-mágico:
 
 1. **Curación potente**: Descubrimiento de cirujano mejora elixires
-2. **Remoción de condiciones**: [Elixir Vigorizante]({{ '/clases/alquimista/dotes/#elixir-vigorizante' | relative_url }}) y mejoras
-3. **Curación a distancia**: [Bomba Curativa]({{ '/clases/alquimista/dotes/#bomba-curativa' | relative_url }})
-4. **Resurrección**: [Obrador de Milagros]({{ '/clases/alquimista/dotes/#obrador-de-milagros' | relative_url }}) a nivel alto
+2. **Remoción de condiciones**: [Elixir Vigorizante](/dotes/alquimista/elixir-vigorizante/) y mejoras
+3. **Curación a distancia**: [Bomba Curativa](/dotes/alquimista/bomba-curativa/)
+4. **Resurrección**: [Obrador de Milagros](/dotes/alquimista/obrador-de-milagros/) a nivel alto
 
 ### Condiciones Tratables
-**[Elixir Vigorizante]({{ '/clases/alquimista/dotes/#elixir-vigorizante' | relative_url }}) Base:**
+**[Elixir Vigorizante](/dotes/alquimista/elixir-vigorizante/) Base:**
 - Torpe, debilitado, con náuseas, estupefacto
 
-**[Elixir Vigorizante Mejorado]({{ '/clases/alquimista/dotes/#elixir-vigorizante-mejorado' | relative_url }}) Físico:**
+**[Elixir Vigorizante Mejorado](/dotes/alquimista/elixir-vigorizante-mejorado/) Físico:**
 - Cegado, ensordecido, drenado, paralizado, ralentizado
 
-**[Elixir Vigorizante Mejorado]({{ '/clases/alquimista/dotes/#elixir-vigorizante-mejorado' | relative_url }}) Mental:**
+**[Elixir Vigorizante Mejorado](/dotes/alquimista/elixir-vigorizante-mejorado/) Mental:**
 - Confundido, controlado, huyendo, asustado, paralizado, ralentizado
 
-**[Elixir Vigorizante Supremo]({{ '/clases/alquimista/dotes/#elixir-vigorizante-supremo' | relative_url }}):**
+**[Elixir Vigorizante Supremo](/dotes/alquimista/elixir-vigorizante-supremo/):**
 - Petrificado, aturdido, enfermedades
 
 ### Secuencia de Soporte
 1. Prepara elixires de vida y vigorizantes por la mañana
-2. [Bomba Curativa]({{ '/clases/alquimista/dotes/#bomba-curativa' | relative_url }}) para curación a distancia
-3. [Elixir Vigorizante]({{ '/clases/alquimista/dotes/#elixir-vigorizante' | relative_url }}) para condiciones debilitantes
-4. [Combinar Elixires]({{ '/clases/alquimista/dotes/#combinar-elixires' | relative_url }}) para eficiencia
+2. [Bomba Curativa](/dotes/alquimista/bomba-curativa/) para curación a distancia
+3. [Elixir Vigorizante](/dotes/alquimista/elixir-vigorizante/) para condiciones debilitantes
+4. [Combinar Elixires](/dotes/alquimista/combinar-elixires/) para eficiencia
 
 ### Fortalezas
 - Mejor curación no-mágica del juego

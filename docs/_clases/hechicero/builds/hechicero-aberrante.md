@@ -38,46 +38,46 @@ adventure_path: null
 ## Progresión de Dotes
 
 ### Nivel 1
-- [Sangre Emergente]({{ '/clases/hechicero/dotes/#sangre-emergente' | relative_url }}) ✓ — Reacción ante magia oculta
-- [Aprovechar la Sangre]({{ '/clases/hechicero/dotes/#aprovechar-la-sangre' | relative_url }}) ✓ — Paso oculto entre nieblas
+- [Sangre Emergente](/dotes/hechicero/sangre-emergente/) ✓ — Reacción ante magia oculta
+- [Aprovechar la Sangre](/dotes/hechicero/aprovechar-la-sangre/) ✓ — Paso oculto entre nieblas
 
 ### Nivel 2
-- [Desangrar]({{ '/clases/hechicero/dotes/#desangrar' | relative_url }}) ✓ — Daño de sangrado persistente
-- [Expansión de Trucos]({{ '/clases/hechicero/dotes/#expansion-de-trucos' | relative_url }}) ✓ — Más trucos mentales
+- [Desangrar](/dotes/hechicero/desangrar/) ✓ — Daño de sangrado persistente
+- [Expansión de Trucos](/dotes/hechicero/expansion-de-trucos/) ✓ — Más trucos mentales
 
 ### Nivel 4
-- [Evolución Oculta]({{ '/clases/hechicero/dotes/#evolucion-oculta' | relative_url }}) ✓ — Añade conjuros mentales temporales
-- [Disparo Dividido]({{ '/clases/hechicero/dotes/#disparo-dividido' | relative_url }}) ✓ — Ataca dos mentes a la vez
+- [Evolución Oculta](/dotes/hechicero/evolucion-oculta/) ✓ — Añade conjuros mentales temporales
+- [Disparo Dividido](/dotes/hechicero/disparo-dividido/) ✓ — Ataca dos mentes a la vez
 
 ### Nivel 6
-- [Linaje Avanzado]({{ '/clases/hechicero/dotes/#linaje-avanzado' | relative_url }}) ✓ — Conjuro de linaje avanzado aberrante
-- [Lanzamiento de Conjuros Estable]({{ '/clases/hechicero/dotes/#lanzamiento-de-conjuros-estable' | relative_url }}) ✓ — Resistir interrupciones
+- [Linaje Avanzado](/dotes/hechicero/linaje-avanzado/) ✓ — Conjuro de linaje avanzado aberrante
+- [Lanzamiento de Conjuros Estable](/dotes/hechicero/lanzamiento-de-conjuros-estable/) ✓ — Resistir interrupciones
 
 ### Nivel 8
-- [Resistencia del Linaje]({{ '/clases/hechicero/dotes/#resistencia-del-linaje' | relative_url }}) ✓ — +1 contra magia
-- [Explosión de Poder]({{ '/clases/hechicero/dotes/#explosion-de-poder' | relative_url }}) ✓ — Daño mental en área
+- [Resistencia del Linaje](/dotes/hechicero/resistencia-del-linaje/) ✓ — +1 contra magia
+- [Explosión de Poder](/dotes/hechicero/explosion-de-poder/) ✓ — Daño mental en área
 
 ### Nivel 10
-- [Linaje Mayor]({{ '/clases/hechicero/dotes/#linaje-mayor' | relative_url }}) ✓ — Conjuro de linaje mayor
-- [Fusión de Energía]({{ '/clases/hechicero/dotes/#fusion-de-energia' | relative_url }}) ✓ — Combina tipos de daño
+- [Linaje Mayor](/dotes/hechicero/linaje-mayor/) ✓ — Conjuro de linaje mayor
+- [Fusión de Energía](/dotes/hechicero/fusion-de-energia/) ✓ — Combina tipos de daño
 
 ### Nivel 12
-- [Foco del Linaje]({{ '/clases/hechicero/dotes/#foco-del-linaje' | relative_url }}) ✓ — Recupera todos los Puntos de Foco
-- [Evolución Espiritual Mayor]({{ '/clases/hechicero/dotes/#evolucion-espiritual-mayor' | relative_url }}) ✓ — Afecta incorpóreos y proyecciones
-- [Sentido Mágico]({{ '/clases/hechicero/dotes/#sentido-magico' | relative_url }}) ✓ — Detecta magia constantemente
+- [Foco del Linaje](/dotes/hechicero/foco-del-linaje/) ✓ — Recupera todos los Puntos de Foco
+- [Evolución Espiritual Mayor](/dotes/hechicero/evolucion-espiritual-mayor/) ✓ — Afecta incorpóreos y proyecciones
+- [Sentido Mágico](/dotes/hechicero/sentido-magico/) ✓ — Detecta magia constantemente
 
 ### Nivel 14
-- [Entrelazar Disipación]({{ '/clases/hechicero/dotes/#entrelazar-disipacion' | relative_url }}) ✓ — Dispela al atacar
+- [Entrelazar Disipación](/dotes/hechicero/entrelazar-disipacion/) ✓ — Dispela al atacar
 
 ### Nivel 16
-- [Evolución Mental Mayor]({{ '/clases/hechicero/dotes/#evolucion-mental-mayor' | relative_url }}) ✓ — Un conjuro extra por rango
-- [Concentración sin Esfuerzo]({{ '/clases/hechicero/dotes/#concentracion-sin-esfuerzo' | relative_url }}) ✓ — Mantén conjuros automáticamente
+- [Evolución Mental Mayor](/dotes/hechicero/evolucion-mental-mayor/) ✓ — Un conjuro extra por rango
+- [Concentración sin Esfuerzo](/dotes/hechicero/concentracion-sin-esfuerzo/) ✓ — Mantén conjuros automáticamente
 
 ### Nivel 18
-- [Conjuro Resonante]({{ '/clases/hechicero/dotes/#conjuro-resonante' | relative_url }}) ✓ — Duplica conjuros mentales
+- [Conjuro Resonante](/dotes/hechicero/conjuro-resonante/) ✓ — Duplica conjuros mentales
 
 ### Nivel 20
-- [Maestría en Forma de Conjuro]({{ '/clases/hechicero/dotes/#maestria-en-forma-de-conjuro' | relative_url }}) ✓ — Formas de conjuro gratuitas
+- [Maestría en Forma de Conjuro](/dotes/hechicero/maestria-en-forma-de-conjuro/) ✓ — Formas de conjuro gratuitas
 
 ---
 
@@ -96,9 +96,9 @@ Tu magia de sangre distorsiona la percepción, causando que los enemigos te vean
 El Hechicero Aberrante es un maestro del control mental:
 
 1. **Control mental**: Conjuros que dominan y confunden
-2. **Daño psíquico**: [Explosión de Poder]({{ '/clases/hechicero/dotes/#explosion-de-poder' | relative_url }}) inflige daño mental
-3. **Versatilidad**: [Evolución Oculta]({{ '/clases/hechicero/dotes/#evolucion-oculta' | relative_url }}) añade conjuros temporales
-4. **Expansión**: [Evolución Mental Mayor]({{ '/clases/hechicero/dotes/#evolucion-mental-mayor' | relative_url }}) da repertorio masivo
+2. **Daño psíquico**: [Explosión de Poder](/dotes/hechicero/explosion-de-poder/) inflige daño mental
+3. **Versatilidad**: [Evolución Oculta](/dotes/hechicero/evolucion-oculta/) añade conjuros temporales
+4. **Expansión**: [Evolución Mental Mayor](/dotes/hechicero/evolucion-mental-mayor/) da repertorio masivo
 
 ### Conjuros Sugeridos
 
@@ -115,10 +115,10 @@ El Hechicero Aberrante es un maestro del control mental:
 - Dominación
 
 ### Secuencia de Combate
-1. [Evolución Oculta]({{ '/clases/hechicero/dotes/#evolucion-oculta' | relative_url }}) para añadir conjuro mental necesario
+1. [Evolución Oculta](/dotes/hechicero/evolucion-oculta/) para añadir conjuro mental necesario
 2. Conjuro de control (confusión, dominación)
-3. [Disparo Dividido]({{ '/clases/hechicero/dotes/#disparo-dividido' | relative_url }}) para afectar múltiples objetivos
-4. [Explosión de Poder]({{ '/clases/hechicero/dotes/#explosion-de-poder' | relative_url }}) si te acorralan
+3. [Disparo Dividido](/dotes/hechicero/disparo-dividido/) para afectar múltiples objetivos
+4. [Explosión de Poder](/dotes/hechicero/explosion-de-poder/) si te acorralan
 
 ### Fortalezas
 - Excelente control de campo

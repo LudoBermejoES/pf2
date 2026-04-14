@@ -38,28 +38,28 @@ adventure_path: null
 ## Progresión de Dotes
 
 ### Nivel 1
-- [Escudo Reactivo]({{ '/clases/guerrero/dotes/#escudo-reactivo' | relative_url }}) ✓ — Alzas el escudo como reacción cuando te atacan
+- [Escudo Reactivo](/dotes/guerrero/escudo-reactivo/) ✓ — Alzas el escudo como reacción cuando te atacan
 
 ### Nivel 2
-- [Bloqueo Agresivo]({{ '/clases/guerrero/dotes/#bloqueo-agresivo' | relative_url }}) ✓ — Empujas o dejas desprevenido al atacante cuando bloqueas
+- [Bloqueo Agresivo](/dotes/guerrero/bloqueo-agresivo/) ✓ — Empujas o dejas desprevenido al atacante cuando bloqueas
 
 ### Nivel 4
-- [Empujón Poderoso]({{ '/clases/guerrero/dotes/#empujon-poderoso' | relative_url }}) ✓ — Puedes empujar enemigos más grandes y causar daño al empujar
-- [Zancada Protegida]({{ '/clases/guerrero/dotes/#zancada-protegida' | relative_url }}) ✓ — Muévete sin provocar reacciones con escudo alzado
+- [Empujón Poderoso](/dotes/guerrero/empujon-poderoso/) ✓ — Puedes empujar enemigos más grandes y causar daño al empujar
+- [Zancada Protegida](/dotes/guerrero/zancada-protegida/) ✓ — Muévete sin provocar reacciones con escudo alzado
 
 ### Nivel 6
-- [Guardián Escudo]({{ '/clases/guerrero/dotes/#guardian-escudo' | relative_url }}) ✓ — Usa Bloqueo con el Escudo para proteger aliados adyacentes
-- [Escudo Reflectante]({{ '/clases/guerrero/dotes/#escudo-reflectante' | relative_url }}) ✓ — El escudo protege también en salvaciones de Reflejos
+- [Guardián Escudo](/dotes/guerrero/guardian-escudo/) ✓ — Usa Bloqueo con el Escudo para proteger aliados adyacentes
+- [Escudo Reflectante](/dotes/guerrero/escudo-reflectante/) ✓ — El escudo protege también en salvaciones de Reflejos
 
 ### Nivel 8
-- [Bloqueo con el Escudo Rápido]({{ '/clases/guerrero/dotes/#bloqueo-con-el-escudo-rapido' | relative_url }}) ✓ — Obtienes una reacción adicional solo para Bloqueo con el Escudo
+- [Bloqueo con el Escudo Rápido](/dotes/guerrero/bloqueo-con-el-escudo-rapido/) ✓ — Obtienes una reacción adicional solo para Bloqueo con el Escudo
 
 ### Nivel 12
-- [Empujón Lanzador]({{ '/clases/guerrero/dotes/#empujon-lanzador' | relative_url }}) ✓ — Empujas enemigos 10 pies (o 20 en crítico)
-- [Guardia del Parangón]({{ '/clases/guerrero/dotes/#guardia-del-parangon' | relative_url }}) ✓ — Tienes el escudo constantemente alzado
+- [Empujón Lanzador](/dotes/guerrero/empujon-lanzador/) ✓ — Empujas enemigos 10 pies (o 20 en crítico)
+- [Guardia del Parangón](/dotes/guerrero/guardia-del-parangon/) ✓ — Tienes el escudo constantemente alzado
 
 ### Nivel 16
-- [Escudo Reflectante Mejorado]({{ '/clases/guerrero/dotes/#escudo-reflectante-mejorado' | relative_url }}) ✓ — Aliados adyacentes también se benefician de tu bloqueo contra Reflejos
+- [Escudo Reflectante Mejorado](/dotes/guerrero/escudo-reflectante-mejorado/) ✓ — Aliados adyacentes también se benefician de tu bloqueo contra Reflejos
 
 ---
 
@@ -68,10 +68,10 @@ adventure_path: null
 Este guerrero es el tanque definitivo del grupo. Tu objetivo es:
 
 1. **Posicionamiento**: Colócate entre los enemigos y tus aliados más frágiles
-2. **Defensa**: Usa [Escudo Reactivo]({{ '/clases/guerrero/dotes/#escudo-reactivo' | relative_url }}) para alzar el escudo cuando te atacan
+2. **Defensa**: Usa [Escudo Reactivo](/dotes/guerrero/escudo-reactivo/) para alzar el escudo cuando te atacan
 3. **Bloqueo**: Usa la reacción Bloqueo con el Escudo para reducir daño
-4. **Protección**: Con [Guardián Escudo]({{ '/clases/guerrero/dotes/#guardian-escudo' | relative_url }}), protege también a aliados adyacentes
-5. **Contraataque**: [Bloqueo Agresivo]({{ '/clases/guerrero/dotes/#bloqueo-agresivo' | relative_url }}) empuja o deja desprevenido al atacante
+4. **Protección**: Con [Guardián Escudo](/dotes/guerrero/guardian-escudo/), protege también a aliados adyacentes
+5. **Contraataque**: [Bloqueo Agresivo](/dotes/guerrero/bloqueo-agresivo/) empuja o deja desprevenido al atacante
 
 ### Fortalezas
 - Extremadamente difícil de matar

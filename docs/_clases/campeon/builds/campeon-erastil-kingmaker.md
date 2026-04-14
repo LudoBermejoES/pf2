@@ -53,44 +53,44 @@ adventure_path: Kingmaker
 ## Progresión de Dotes
 
 ### Nivel 1
-- [Dominio de la Deidad]({{ '/clases/campeon/dotes/#dominio-de-la-deidad' | relative_url }}) ✓ — Dominio de Familia o Naturaleza
-- [Peso de la Culpa]({{ '/clases/campeon/dotes/#peso-de-la-culpa' | relative_url }}) ✓ — Si eliges Redención
+- [Dominio de la Deidad](/dotes/campeon/dominio-de-la-deidad/) ✓ — Dominio de Familia o Naturaleza
+- [Peso de la Culpa](/dotes/campeon/peso-de-la-culpa/) ✓ — Si eliges Redención
 
 ### Nivel 2
-- [Gracia Divina]({{ '/clases/campeon/dotes/#gracia-divina' | relative_url }}) ✓ — +2 a salvaciones contra conjuros
-- [Salud Divina]({{ '/clases/campeon/dotes/#salud-divina' | relative_url }}) ✓ — Resistencia a enfermedad y veneno
+- [Gracia Divina](/dotes/campeon/gracia-divina/) ✓ — +2 a salvaciones contra conjuros
+- [Salud Divina](/dotes/campeon/salud-divina/) ✓ — Resistencia a enfermedad y veneno
 
 ### Nivel 4
-- [Aura de Coraje]({{ '/clases/campeon/dotes/#aura-de-coraje' | relative_url }}) ✓ — Reduce miedo del grupo
-- [Clemencia]({{ '/clases/campeon/dotes/#clemencia' | relative_url }}) ✓ — Cura condiciones con imposición de manos
+- [Aura de Coraje](/dotes/campeon/aura-de-coraje/) ✓ — Reduce miedo del grupo
+- [Clemencia](/dotes/campeon/clemencia/) ✓ — Cura condiciones con imposición de manos
 
 ### Nivel 6
-- [Guardián del Escudo]({{ '/clases/campeon/dotes/#guardian-del-escudo' | relative_url }}) ✓ — Bloquea por aliados adyacentes
-- [Expandir Aura]({{ '/clases/campeon/dotes/#expandir-aura' | relative_url }}) ✓ — Aumenta radio del aura
+- [Guardián del Escudo](/dotes/campeon/guardian-del-escudo/) ✓ — Bloquea por aliados adyacentes
+- [Expandir Aura](/dotes/campeon/expandir-aura/) ✓ — Aumenta radio del aura
 
 ### Nivel 8
-- [Dominio Avanzado de la Deidad]({{ '/clases/campeon/dotes/#dominio-avanzado-de-la-deidad' | relative_url }}) ✓ — Conjuro de dominio avanzado
-- [Clemencia Mayor]({{ '/clases/campeon/dotes/#clemencia-mayor' | relative_url }}) ✓ — Más condiciones curables
+- [Dominio Avanzado de la Deidad](/dotes/campeon/dominio-avanzado-de-la-deidad/) ✓ — Conjuro de dominio avanzado
+- [Clemencia Mayor](/dotes/campeon/clemencia-mayor/) ✓ — Más condiciones curables
 
 ### Nivel 10
-- [Escudo de Ajuste de Cuentas]({{ '/clases/campeon/dotes/#escudo-de-ajuste-de-cuentas' | relative_url }}) ✓ — Bloqueo + reacción de campeón
+- [Escudo de Ajuste de Cuentas](/dotes/campeon/escudo-de-ajuste-de-cuentas/) ✓ — Bloqueo + reacción de campeón
 
 ### Nivel 12
-- [Enfoque Devoto]({{ '/clases/campeon/dotes/#enfoque-devoto' | relative_url }}) ✓ — Recupera todos los Puntos de Foco
-- [Contragolpe Bendito]({{ '/clases/campeon/dotes/#contragolpe-bendito' | relative_url }}) ✓ — Ataca al activar reacción
+- [Enfoque Devoto](/dotes/campeon/enfoque-devoto/) ✓ — Recupera todos los Puntos de Foco
+- [Contragolpe Bendito](/dotes/campeon/contragolpe-bendito/) ✓ — Ataca al activar reacción
 
 ### Nivel 14
-- [Aura de Determinación]({{ '/clases/campeon/dotes/#aura-de-determinacion' | relative_url }}) ✓ — +1 contra mental y metamorfosis
-- [Reflejos Divinos]({{ '/clases/campeon/dotes/#reflejos-divinos' | relative_url }}) ✓ — Reacción adicional
+- [Aura de Determinación](/dotes/campeon/aura-de-determinacion/) ✓ — +1 contra mental y metamorfosis
+- [Reflejos Divinos](/dotes/campeon/reflejos-divinos/) ✓ — Reacción adicional
 
 ### Nivel 16
-- [Escudo de Gracia]({{ '/clases/campeon/dotes/#escudo-de-gracia' | relative_url }}) ✓ — Divide daño con aliado protegido
+- [Escudo de Gracia](/dotes/campeon/escudo-de-gracia/) ✓ — Divide daño con aliado protegido
 
 ### Nivel 18
-- [Clemencia Definitiva]({{ '/clases/campeon/dotes/#clemencia-definitiva' | relative_url }}) ✓ — Devuelve aliados a la vida
+- [Clemencia Definitiva](/dotes/campeon/clemencia-definitiva/) ✓ — Devuelve aliados a la vida
 
 ### Nivel 20
-- [Defensor Sagrado]({{ '/clases/campeon/dotes/#defensor-sagrado' | relative_url }}) ✓ — Resistencia a daño físico
+- [Defensor Sagrado](/dotes/campeon/defensor-sagrado/) ✓ — Resistencia a daño físico
 
 ---
 
@@ -108,16 +108,16 @@ Luchas contra la tiranía y la esclavitud. Tu Paso Liberador permite que aliados
 
 El Campeón de Erastil es el protector definitivo:
 
-1. **Protección activa**: [Guardián del Escudo]({{ '/clases/campeon/dotes/#guardian-del-escudo' | relative_url }}) para bloquear por aliados
-2. **Curación**: Imposición de manos + [Clemencia]({{ '/clases/campeon/dotes/#clemencia' | relative_url }})
+1. **Protección activa**: [Guardián del Escudo](/dotes/campeon/guardian-del-escudo/) para bloquear por aliados
+2. **Curación**: Imposición de manos + [Clemencia](/dotes/campeon/clemencia/)
 3. **Aura beneficiosa**: Protege a todo el grupo constantemente
-4. **Reacciones múltiples**: [Reflejos Divinos]({{ '/clases/campeon/dotes/#reflejos-divinos' | relative_url }}) para más protección
+4. **Reacciones múltiples**: [Reflejos Divinos](/dotes/campeon/reflejos-divinos/) para más protección
 
 ### Secuencia de Combate
 1. Posiciónate entre enemigos y aliados
 2. Alza tu escudo
 3. Usa reacción de campeón para proteger aliados atacados
-4. [Guardián del Escudo]({{ '/clases/campeon/dotes/#guardian-del-escudo' | relative_url }}) cuando sea necesario
+4. [Guardián del Escudo](/dotes/campeon/guardian-del-escudo/) cuando sea necesario
 5. Imposición de manos para curar
 
 ### Fortalezas

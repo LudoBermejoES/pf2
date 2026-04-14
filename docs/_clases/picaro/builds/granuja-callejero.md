@@ -39,34 +39,34 @@ adventure_path: null
 ## Progresión de Dotes
 
 ### Nivel 1
-- [Finta Excesiva]({{ '/clases/picaro/dotes/#finta-excesiva' | relative_url }}) ✓ — Finta da penalizador a ataques del enemigo contra ti
-- [Ahora Te Toca a Ti]({{ '/clases/picaro/dotes/#ahora-te-toca-a-ti' | relative_url }}) ✓ — Desmoraliza gratis al reducir enemigo a 0
+- [Finta Excesiva](/dotes/picaro/finta-excesiva/) ✓ — Finta da penalizador a ataques del enemigo contra ti
+- [Ahora Te Toca a Ti](/dotes/picaro/ahora-te-toca-a-ti/) ✓ — Desmoraliza gratis al reducir enemigo a 0
 
 ### Nivel 2
-- [Finta Distractora]({{ '/clases/picaro/dotes/#finta-distractora' | relative_url }}) ✓ — Finta da penalizador a Percepción y Reflejos (enredo granuja)
-- [Desenvainado Rápido]({{ '/clases/picaro/dotes/#desenvainado-rapido' | relative_url }}) ✓ — Desenfunda y Golpea en una acción
+- [Finta Distractora](/dotes/picaro/finta-distractora/) ✓ — Finta da penalizador a Percepción y Reflejos (enredo granuja)
+- [Desenvainado Rápido](/dotes/picaro/desenvainado-rapido/) ✓ — Desenfunda y Golpea en una acción
 
 ### Nivel 4
-- [Pegador Temible]({{ '/clases/picaro/dotes/#pegador-temible' | relative_url }}) ✓ — Asustado = desprevenido contra tus ataques
-- [Sorpresa del Granuja]({{ '/clases/picaro/dotes/#sorpresa-del-granuja' | relative_url }}) ✓ — Quitar disfraz deja al objetivo desprevenido
+- [Pegador Temible](/dotes/picaro/pegador-temible/) ✓ — Asustado = desprevenido contra tus ataques
+- [Sorpresa del Granuja](/dotes/picaro/sorpresa-del-granuja/) ✓ — Quitar disfraz deja al objetivo desprevenido
 
 ### Nivel 6
-- [Ándate con Ojo]({{ '/clases/picaro/dotes/#andate-con-ojo' | relative_url }}) ✓ — Amenaza que da penalizador a Voluntad contra miedo
-- [Golpe Hostigador]({{ '/clases/picaro/dotes/#golpe-hostigador' | relative_url }}) ✓ — Paso + Golpe o Golpe + Paso
+- [Ándate con Ojo](/dotes/picaro/andate-con-ojo/) ✓ — Amenaza que da penalizador a Voluntad contra miedo
+- [Golpe Hostigador](/dotes/picaro/golpe-hostigador/) ✓ — Paso + Golpe o Golpe + Paso
 
 ### Nivel 8
-- [Estratagema Inspirada]({{ '/clases/picaro/dotes/#estratagema-inspirada' | relative_url }}) ✓ — Aliados tiran dos veces (fortuna)
-- [Paso Lateral]({{ '/clases/picaro/dotes/#paso-lateral' | relative_url }}) ✓ — Redirige ataques fallidos contra otros
+- [Estratagema Inspirada](/dotes/picaro/estratagema-inspirada/) ✓ — Aliados tiran dos veces (fortuna)
+- [Paso Lateral](/dotes/picaro/paso-lateral/) ✓ — Redirige ataques fallidos contra otros
 
 ### Nivel 10
-- [Debilitaciones Tácticas]({{ '/clases/picaro/dotes/#debilitaciones-tacticas' | relative_url }}) ✓ — El objetivo no puede usar reacciones ni flanquear
+- [Debilitaciones Tácticas](/dotes/picaro/debilitaciones-tacticas/) ✓ — El objetivo no puede usar reacciones ni flanquear
 
 ### Nivel 12
-- [Interferencia Reactiva]({{ '/clases/picaro/dotes/#interferencia-reactiva' | relative_url }}) ✓ — Perturba reacciones enemigas
-- [Preparación]({{ '/clases/picaro/dotes/#preparacion' | relative_url }}) ✓ — Gana una reacción adicional
+- [Interferencia Reactiva](/dotes/picaro/interferencia-reactiva/) ✓ — Perturba reacciones enemigas
+- [Preparación](/dotes/picaro/preparacion/) ✓ — Gana una reacción adicional
 
 ### Nivel 14
-- [Abertura Instantánea]({{ '/clases/picaro/dotes/#abertura-instantanea' | relative_url }}) ✓ — Cualquier objetivo a 30 pies queda desprevenido
+- [Abertura Instantánea](/dotes/picaro/abertura-instantanea/) ✓ — Cualquier objetivo a 30 pies queda desprevenido
 
 ---
 
@@ -81,13 +81,13 @@ El enredo de Granuja te permite usar Carisma como atributo clave y enfatiza las 
 El Granuja Callejero controla el ritmo del combate:
 
 1. **Apertura**: Finta para obtener desprevenido Y penalizador al enemigo
-2. **Presión psicológica**: [Pegador Temible]({{ '/clases/picaro/dotes/#pegador-temible' | relative_url }}) + Intimidación = desprevenido permanente
-3. **Negación**: [Debilitaciones Tácticas]({{ '/clases/picaro/dotes/#debilitaciones-tacticas' | relative_url }}) quita reacciones al enemigo
-4. **Apoyo**: [Estratagema Inspirada]({{ '/clases/picaro/dotes/#estratagema-inspirada' | relative_url }}) ayuda a tus aliados
+2. **Presión psicológica**: [Pegador Temible](/dotes/picaro/pegador-temible/) + Intimidación = desprevenido permanente
+3. **Negación**: [Debilitaciones Tácticas](/dotes/picaro/debilitaciones-tacticas/) quita reacciones al enemigo
+4. **Apoyo**: [Estratagema Inspirada](/dotes/picaro/estratagema-inspirada/) ayuda a tus aliados
 
 ### Combo de Control
 1. Desmoraliza → Enemigo asustado
-2. [Pegador Temible]({{ '/clases/picaro/dotes/#pegador-temible' | relative_url }}) → Asustado = desprevenido
+2. [Pegador Temible](/dotes/picaro/pegador-temible/) → Asustado = desprevenido
 3. Golpe con Ataque Furtivo + Golpe debilitante
 4. Debilitación: No puede usar reacciones
 

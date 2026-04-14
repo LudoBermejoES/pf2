@@ -44,32 +44,32 @@ adventure_path: null
 ## Progresión de Dotes
 
 ### Nivel 1
-- [Simplicidad Mortal]({{ '/clases/clerigo/dotes/#simplicidad-mortal' | relative_url }}) ✓ — Incrementa dado de daño del arma favorita (si es sencilla)
-- [Castigo Divino]({{ '/clases/clerigo/dotes/#castigo-divino' | relative_url }}) ✓ — Añade rasgo sagrado a curar/dañar
+- [Simplicidad Mortal](/dotes/clerigo/simplicidad-mortal/) ✓ — Incrementa dado de daño del arma favorita (si es sencilla)
+- [Castigo Divino](/dotes/clerigo/castigo-divino/) ✓ — Añade rasgo sagrado a curar/dañar
 
 ### Nivel 2
-- [Armadura del Sacerdote de Guerra]({{ '/clases/clerigo/dotes/#armadura-del-sacerdote-de-guerra' | relative_url }}) ✓ — Competencia en armadura pesada
+- [Armadura del Sacerdote de Guerra](/dotes/clerigo/armadura-del-sacerdote-de-guerra/) ✓ — Competencia en armadura pesada
 
 ### Nivel 4
-- [Canalizar Castigo]({{ '/clases/clerigo/dotes/#canalizar-castigo' | relative_url }}) ✓ — Combina Golpe con curar/dañar
-- [Golpe Restablecedor]({{ '/clases/clerigo/dotes/#golpe-restablecedor' | relative_url }}) ✓ — Cúrate mientras golpeas
+- [Canalizar Castigo](/dotes/clerigo/canalizar-castigo/) ✓ — Combina Golpe con curar/dañar
+- [Golpe Restablecedor](/dotes/clerigo/golpe-restablecedor/) ✓ — Cúrate mientras golpeas
 
 ### Nivel 6
-- [Arma Divina]({{ '/clases/clerigo/dotes/#arma-divina' | relative_url }}) ✓ — Daño espiritual adicional tras conjuros
-- [Rechazo Divino]({{ '/clases/clerigo/dotes/#rechazo-divino' | relative_url }}) ✓ — Golpea para dar bonificador a salvaciones de aliados
+- [Arma Divina](/dotes/clerigo/arma-divina/) ✓ — Daño espiritual adicional tras conjuros
+- [Rechazo Divino](/dotes/clerigo/rechazo-divino/) ✓ — Golpea para dar bonificador a salvaciones de aliados
 
 ### Nivel 8
-- [Santificar Armamento]({{ '/clases/clerigo/dotes/#santificar-armamento' | relative_url }}) ✓ — El arma gana rasgo sagrado y daño extra
+- [Santificar Armamento](/dotes/clerigo/santificar-armamento/) ✓ — El arma gana rasgo sagrado y daño extra
 
 ### Nivel 10
-- [Reabastecimiento de Guerra]({{ '/clases/clerigo/dotes/#reabastecimiento-de-guerra' | relative_url }}) ✓ — PG temporales al dañar con arma favorita
-- [Arma Castigadora]({{ '/clases/clerigo/dotes/#arma-castigadora' | relative_url }}) ✓ — Más daño espiritual tras Castigo Divino
+- [Reabastecimiento de Guerra](/dotes/clerigo/reabastecimiento-de-guerra/) ✓ — PG temporales al dañar con arma favorita
+- [Arma Castigadora](/dotes/clerigo/arma-castigadora/) ✓ — Más daño espiritual tras Castigo Divino
 
 ### Nivel 12
-- [Reabastecimiento Compartido]({{ '/clases/clerigo/dotes/#reabastecimiento-compartido' | relative_url }}) ✓ — Comparte PG temporales con aliados
+- [Reabastecimiento Compartido](/dotes/clerigo/reabastecimiento-compartido/) ✓ — Comparte PG temporales con aliados
 
 ### Nivel 14
-- [Bloqueo de Canalización]({{ '/clases/clerigo/dotes/#bloqueo-de-canalizacion' | relative_url }}) ✓ — Aumenta Dureza del escudo gastando curar/dañar
+- [Bloqueo de Canalización](/dotes/clerigo/bloqueo-de-canalizacion/) ✓ — Aumenta Dureza del escudo gastando curar/dañar
 
 ---
 
@@ -96,9 +96,9 @@ Esencial para mantener al grupo con vida mientras luchas.
 El Sacerdote de Guerra es un híbrido combatiente-sanador:
 
 1. **Posición**: Colócate en primera línea junto a los guerreros
-2. **Combate**: Usa [Canalizar Castigo]({{ '/clases/clerigo/dotes/#canalizar-castigo' | relative_url }}) para combinar daño físico con divino
+2. **Combate**: Usa [Canalizar Castigo](/dotes/clerigo/canalizar-castigo/) para combinar daño físico con divino
 3. **Sanación**: Lanza curar de área cuando varios aliados estén heridos
-4. **Sostenibilidad**: [Golpe Restablecedor]({{ '/clases/clerigo/dotes/#golpe-restablecedor' | relative_url }}) te mantiene con vida
+4. **Sostenibilidad**: [Golpe Restablecedor](/dotes/clerigo/golpe-restablecedor/) te mantiene con vida
 
 ### Fortalezas
 - Puede aguantar en primera línea

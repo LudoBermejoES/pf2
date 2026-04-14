@@ -38,40 +38,40 @@ adventure_path: null
 ## Progresión de Dotes
 
 ### Nivel 1
-- [Bombardero Rápido]({{ '/clases/alquimista/dotes/#bombardero-rapido' | relative_url }}) ✓ — Saca bomba + Golpe en una acción
-- [Lanzador Lejano]({{ '/clases/alquimista/dotes/#lanzador-lejano' | relative_url }}) ✓ — Incremento de alcance 9m
+- [Bombardero Rápido](/dotes/alquimista/bombardero-rapido/) ✓ — Saca bomba + Golpe en una acción
+- [Lanzador Lejano](/dotes/alquimista/lanzador-lejano/) ✓ — Incremento de alcance 9m
 
 ### Nivel 2
-- [Bomba de Humo]({{ '/clases/alquimista/dotes/#bomba-de-humo' | relative_url }}) ✓ — Crea ocultamiento con bombas
+- [Bomba de Humo](/dotes/alquimista/bomba-de-humo/) ✓ — Crea ocultamiento con bombas
 
 ### Nivel 4
-- [Bomba Curativa]({{ '/clases/alquimista/dotes/#bomba-curativa' | relative_url }}) ✓ — Lanza elixires de vida como bombas
+- [Bomba Curativa](/dotes/alquimista/bomba-curativa/) ✓ — Lanza elixires de vida como bombas
 
 ### Nivel 6
-- [Bomba Debilitante]({{ '/clases/alquimista/dotes/#bomba-debilitante' | relative_url }}) ✓ — Añade condiciones a bombas
-- [Bombas Direccionales]({{ '/clases/alquimista/dotes/#bombas-direccionales' | relative_url }}) ✓ — Salpicadura en cono
+- [Bomba Debilitante](/dotes/alquimista/bomba-debilitante/) ✓ — Añade condiciones a bombas
+- [Bombas Direccionales](/dotes/alquimista/bombas-direccionales/) ✓ — Salpicadura en cono
 
 ### Nivel 8
-- [Bomba Pegajosa]({{ '/clases/alquimista/dotes/#bomba-pegajosa' | relative_url }}) ✓ — Daño persistente = salpicadura
+- [Bomba Pegajosa](/dotes/alquimista/bomba-pegajosa/) ✓ — Daño persistente = salpicadura
 
 ### Nivel 10
-- [Salpicadura Expandida]({{ '/clases/alquimista/dotes/#salpicadura-expandida' | relative_url }}) ✓ — Radio 3m + INT a salpicadura
-- [Bomba Debilitante Mayor]({{ '/clases/alquimista/dotes/#bomba-debilitante-mayor' | relative_url }}) ✓ — Torpe 1, debilitado 1, estupefacto 1
+- [Salpicadura Expandida](/dotes/alquimista/salpicadura-expandida/) ✓ — Radio 3m + INT a salpicadura
+- [Bomba Debilitante Mayor](/dotes/alquimista/bomba-debilitante-mayor/) ✓ — Torpe 1, debilitado 1, estupefacto 1
 
 ### Nivel 12
-- [Bombas Infalibles]({{ '/clases/alquimista/dotes/#bombas-infalibles' | relative_url }}) ✓ — 18m alcance + ignora cobertura parcial
+- [Bombas Infalibles](/dotes/alquimista/bombas-infalibles/) ✓ — 18m alcance + ignora cobertura parcial
 
 ### Nivel 14
-- [Bomba Debilitante Verdadera]({{ '/clases/alquimista/dotes/#bomba-debilitante-verdadera' | relative_url }}) ✓ — Debilitado 2, estupefacto 2
+- [Bomba Debilitante Verdadera](/dotes/alquimista/bomba-debilitante-verdadera/) ✓ — Debilitado 2, estupefacto 2
 
 ### Nivel 16
-- [Bomba Explotadora]({{ '/clases/alquimista/dotes/#bomba-explotadora' | relative_url }}) ✓ — Ignora resistencias = nivel
+- [Bomba Explotadora](/dotes/alquimista/bomba-explotadora/) ✓ — Ignora resistencias = nivel
 
 ### Nivel 18
-- [Debilitación Perfecta]({{ '/clases/alquimista/dotes/#debilitacion-perfecta' | relative_url }}) ✓ — Solo éxito crítico evita condición
+- [Debilitación Perfecta](/dotes/alquimista/debilitacion-perfecta/) ✓ — Solo éxito crítico evita condición
 
 ### Nivel 20
-- [Mega Bomba]({{ '/clases/alquimista/dotes/#mega-bomba' | relative_url }}) ✓ — Explosión de 9m, daño completo a todos
+- [Mega Bomba](/dotes/alquimista/mega-bomba/) ✓ — Explosión de 9m, daño completo a todos
 
 ---
 
@@ -80,9 +80,9 @@ adventure_path: null
 El Alquimista Bombardero es artillería de área:
 
 1. **Daño de área**: Salpicadura afecta múltiples enemigos
-2. **Debuffs**: [Bomba Debilitante]({{ '/clases/alquimista/dotes/#bomba-debilitante' | relative_url }}) añade condiciones
+2. **Debuffs**: [Bomba Debilitante](/dotes/alquimista/bomba-debilitante/) añade condiciones
 3. **Versatilidad elemental**: Diferentes bombas para diferentes resistencias
-4. **Precisión**: [Bombas Infalibles]({{ '/clases/alquimista/dotes/#bombas-infalibles' | relative_url }}) ignora cobertura
+4. **Precisión**: [Bombas Infalibles](/dotes/alquimista/bombas-infalibles/) ignora cobertura
 
 ### Tipos de Bombas
 | Bomba | Daño | Efecto |
@@ -94,10 +94,10 @@ El Alquimista Bombardero es artillería de área:
 | Bomba de trueno | Sónico | Ensordece |
 
 ### Secuencia de Combate
-1. [Bombardero Rápido]({{ '/clases/alquimista/dotes/#bombardero-rapido' | relative_url }}) (saca + lanza)
+1. [Bombardero Rápido](/dotes/alquimista/bombardero-rapido/) (saca + lanza)
 2. Segunda bomba normal
 3. Tercera bomba o reposicionamiento
-4. Usa [Bomba Debilitante]({{ '/clases/alquimista/dotes/#bomba-debilitante' | relative_url }}) en objetivos prioritarios
+4. Usa [Bomba Debilitante](/dotes/alquimista/bomba-debilitante/) en objetivos prioritarios
 
 ### Salpicadura Expandida (Nivel 10+)
 - Radio aumenta a 3m

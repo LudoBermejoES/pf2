@@ -37,47 +37,47 @@ adventure_path: null
 ## Progresión de Dotes
 
 ### Nivel 1
-- [Presagiar Daño]({{ '/clases/oraculo/dotes/#presagiar-dano' | relative_url }}) ✓ — Daño extra retrasado
-- [Ampliar Hechizo]({{ '/clases/oraculo/dotes/#ampliar-hechizo' | relative_url }}) ✓ — Áreas más grandes
+- [Presagiar Daño](/dotes/oraculo/presagiar-dano/) ✓ — Daño extra retrasado
+- [Ampliar Hechizo](/dotes/oraculo/ampliar-hechizo/) ✓ — Áreas más grandes
 
 ### Nivel 2
-- [Conocimiento de Dominios]({{ '/clases/oraculo/dotes/#conocimiento-de-dominios' | relative_url }}) ✓ — Dominio de Fuego o Destrucción
-- [Expansión de Trucos]({{ '/clases/oraculo/dotes/#expansion-de-trucos' | relative_url }}) ✓ — Más trucos
+- [Conocimiento de Dominios](/dotes/oraculo/conocimiento-de-dominios/) ✓ — Dominio de Fuego o Destrucción
+- [Expansión de Trucos](/dotes/oraculo/expansion-de-trucos/) ✓ — Más trucos
 
 ### Nivel 4
-- [Conocimiento de Formas]({{ '/clases/oraculo/dotes/#conocimiento-de-formas' | relative_url }}) ✓ — Moldea conjuros gratis
+- [Conocimiento de Formas](/dotes/oraculo/conocimiento-de-formas/) ✓ — Moldea conjuros gratis
 
 ### Nivel 6
-- [Revelación Avanzada]({{ '/clases/oraculo/dotes/#revelacion-avanzada' | relative_url }}) ✓ — Revelación avanzada de llamas
-- [Poder Otorgado]({{ '/clases/oraculo/dotes/#poder-otorgado' | relative_url }}) ✓ — Espacio extra para conjuros de fuego
+- [Revelación Avanzada](/dotes/oraculo/revelacion-avanzada/) ✓ — Revelación avanzada de llamas
+- [Poder Otorgado](/dotes/oraculo/poder-otorgado/) ✓ — Espacio extra para conjuros de fuego
 
 ### Nivel 8
-- [Poder Surgente]({{ '/clases/oraculo/dotes/#poder-surgente' | relative_url }}) ✓ — Ignora resistencias al fuego
-- [Caminar sobre el Agua]({{ '/clases/oraculo/dotes/#caminar-sobre-el-agua' | relative_url }}) ✓ — Movilidad
+- [Poder Surgente](/dotes/oraculo/poder-surgente/) ✓ — Ignora resistencias al fuego
+- [Caminar sobre el Agua](/dotes/oraculo/caminar-sobre-el-agua/) ✓ — Movilidad
 
 ### Nivel 10
-- [Juicio del Fuego Celestial]({{ '/clases/oraculo/dotes/#juicio-del-fuego-celestial' | relative_url }}) ✓ — Lluvia de fuego constante
-- [Lanzamiento Acelerado]({{ '/clases/oraculo/dotes/#lanzamiento-acelerado' | relative_url }}) ✓ — Conjuros más rápidos
+- [Juicio del Fuego Celestial](/dotes/oraculo/juicio-del-fuego-celestial/) ✓ — Lluvia de fuego constante
+- [Lanzamiento Acelerado](/dotes/oraculo/lanzamiento-acelerado/) ✓ — Conjuros más rápidos
 
 ### Nivel 12
-- [Revelación Mayor]({{ '/clases/oraculo/dotes/#revelacion-mayor' | relative_url }}) ✓ — Revelación mayor de llamas
-- [Fluidez de Dominios]({{ '/clases/oraculo/dotes/#fluidez-de-dominios' | relative_url }}) ✓ — Hechizo de dominio avanzado
+- [Revelación Mayor](/dotes/oraculo/revelacion-mayor/) ✓ — Revelación mayor de llamas
+- [Fluidez de Dominios](/dotes/oraculo/fluidez-de-dominios/) ✓ — Hechizo de dominio avanzado
 
 ### Nivel 14
-- [Evitar la Maldición]({{ '/clases/oraculo/dotes/#evitar-la-maldicion' | relative_url }}) ✓ — Una vez/día no aumenta vinculado
-- [Enfoque de Revelación]({{ '/clases/oraculo/dotes/#enfoque-de-revelacion' | relative_url }}) ✓ — Recupera todos los Puntos de Concentración
+- [Evitar la Maldición](/dotes/oraculo/evitar-la-maldicion/) ✓ — Una vez/día no aumenta vinculado
+- [Enfoque de Revelación](/dotes/oraculo/enfoque-de-revelacion/) ✓ — Recupera todos los Puntos de Concentración
 
 ### Nivel 16
-- [Conducto de Vacío y Vitalidad]({{ '/clases/oraculo/dotes/#conducto-de-vacio-y-vitalidad' | relative_url }}) ✓ — Dañar potenciado
-- [Hechizo Portentoso]({{ '/clases/oraculo/dotes/#hechizo-portentoso' | relative_url }}) ✓ — Confunde al lanzar
+- [Conducto de Vacío y Vitalidad](/dotes/oraculo/conducto-de-vacio-y-vitalidad/) ✓ — Dañar potenciado
+- [Hechizo Portentoso](/dotes/oraculo/hechizo-portentoso/) ✓ — Confunde al lanzar
 
 ### Nivel 18
-- [Llamarada de Revelación]({{ '/clases/oraculo/dotes/#llamarada-de-revelacion' | relative_url }}) ✓ — Revelaciones sin costo en vinculado 4
-- [Efusión Divina]({{ '/clases/oraculo/dotes/#efusion-divina' | relative_url }}) ✓ — Conjuros extra sin espacios
+- [Llamarada de Revelación](/dotes/oraculo/llamarada-de-revelacion/) ✓ — Revelaciones sin costo en vinculado 4
+- [Efusión Divina](/dotes/oraculo/efusion-divina/) ✓ — Conjuros extra sin espacios
 
 ### Nivel 20
-- [Conducto del Misterio]({{ '/clases/oraculo/dotes/#conducto-del-misterio' | relative_url }}) ✓ — Conjuro rango 5 gratis
-- [Providencia Oracular]({{ '/clases/oraculo/dotes/#providencia-oracular' | relative_url }}) ✓ — Espacio de rango 10 extra
+- [Conducto del Misterio](/dotes/oraculo/conducto-del-misterio/) ✓ — Conjuro rango 5 gratis
+- [Providencia Oracular](/dotes/oraculo/providencia-oracular/) ✓ — Espacio de rango 10 extra
 
 ---
 
@@ -85,10 +85,10 @@ adventure_path: null
 
 El Oráculo de las Llamas es destrucción pura:
 
-1. **Daño de área**: [Ampliar Hechizo]({{ '/clases/oraculo/dotes/#ampliar-hechizo' | relative_url }}) + bola de fuego
-2. **Daño sostenido**: [Juicio del Fuego Celestial]({{ '/clases/oraculo/dotes/#juicio-del-fuego-celestial' | relative_url }})
-3. **Penetración**: [Poder Surgente]({{ '/clases/oraculo/dotes/#poder-surgente' | relative_url }}) ignora resistencias
-4. **Daño extra**: [Presagiar Daño]({{ '/clases/oraculo/dotes/#presagiar-dano' | relative_url }}) acumula daño
+1. **Daño de área**: [Ampliar Hechizo](/dotes/oraculo/ampliar-hechizo/) + bola de fuego
+2. **Daño sostenido**: [Juicio del Fuego Celestial](/dotes/oraculo/juicio-del-fuego-celestial/)
+3. **Penetración**: [Poder Surgente](/dotes/oraculo/poder-surgente/) ignora resistencias
+4. **Daño extra**: [Presagiar Daño](/dotes/oraculo/presagiar-dano/) acumula daño
 
 ### Juicio del Fuego Celestial
 - Emanación de 10 pies centrada en ti
@@ -106,20 +106,20 @@ El Oráculo de las Llamas es destrucción pura:
 - Meteoros
 
 ### Secuencia de Combate
-1. [Ampliar Hechizo]({{ '/clases/oraculo/dotes/#ampliar-hechizo' | relative_url }}) + Bola de fuego
-2. [Presagiar Daño]({{ '/clases/oraculo/dotes/#presagiar-dano' | relative_url }}) al objetivo principal
-3. [Juicio del Fuego Celestial]({{ '/clases/oraculo/dotes/#juicio-del-fuego-celestial' | relative_url }}) si enemigos se acercan
+1. [Ampliar Hechizo](/dotes/oraculo/ampliar-hechizo/) + Bola de fuego
+2. [Presagiar Daño](/dotes/oraculo/presagiar-dano/) al objetivo principal
+3. [Juicio del Fuego Celestial](/dotes/oraculo/juicio-del-fuego-celestial/) si enemigos se acercan
 4. Mantén presión con conjuros de fuego
 
 ### Fortalezas
 - Daño de área devastador
 - Ignora resistencias al fuego
-- Daño sostenido con [Juicio del Fuego Celestial]({{ '/clases/oraculo/dotes/#juicio-del-fuego-celestial' | relative_url }})
+- Daño sostenido con [Juicio del Fuego Celestial](/dotes/oraculo/juicio-del-fuego-celestial/)
 - Excelente contra grupos
 
 ### Debilidades
 - Poco versátil (solo daño de fuego)
-- [Juicio del Fuego Celestial]({{ '/clases/oraculo/dotes/#juicio-del-fuego-celestial' | relative_url }}) te daña también
+- [Juicio del Fuego Celestial](/dotes/oraculo/juicio-del-fuego-celestial/) te daña también
 - Menos utilidad y curación
 - Inmunes al fuego son problemáticos
 

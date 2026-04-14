@@ -39,42 +39,42 @@ adventure_path: null
 ## Progresión de Dotes
 
 ### Nivel 1
-- [Avance Defensivo]({{ '/clases/campeon/dotes/#avance-defensivo' | relative_url }}) ✓ — Alza escudo y avanza
-- [Represalia Ágil]({{ '/clases/campeon/dotes/#represalia-agil' | relative_url }}) ✓ — Golpe Retributivo mejorado
+- [Avance Defensivo](/dotes/campeon/avance-defensivo/) ✓ — Alza escudo y avanza
+- [Represalia Ágil](/dotes/campeon/represalia-agil/) ✓ — Golpe Retributivo mejorado
 
 ### Nivel 2
-- [Gracia Divina]({{ '/clases/campeon/dotes/#gracia-divina' | relative_url }}) ✓ — +2 a salvaciones contra conjuros
+- [Gracia Divina](/dotes/campeon/gracia-divina/) ✓ — +2 a salvaciones contra conjuros
 
 ### Nivel 4
-- [Aura de Coraje]({{ '/clases/campeon/dotes/#aura-de-coraje' | relative_url }}) ✓ — Reduce miedo del grupo
-- [Clemencia]({{ '/clases/campeon/dotes/#clemencia' | relative_url }}) ✓ — Cura condiciones
+- [Aura de Coraje](/dotes/campeon/aura-de-coraje/) ✓ — Reduce miedo del grupo
+- [Clemencia](/dotes/campeon/clemencia/) ✓ — Cura condiciones
 
 ### Nivel 6
-- [Guardián del Escudo]({{ '/clases/campeon/dotes/#guardian-del-escudo' | relative_url }}) ✓ — Bloquea por aliados adyacentes
-- [Golpe Reactivo]({{ '/clases/campeon/dotes/#golpe-reactivo' | relative_url }}) ✓ — Ataque de oportunidad
+- [Guardián del Escudo](/dotes/campeon/guardian-del-escudo/) ✓ — Bloquea por aliados adyacentes
+- [Golpe Reactivo](/dotes/campeon/golpe-reactivo/) ✓ — Ataque de oportunidad
 
 ### Nivel 8
-- [Bloqueo con Escudo Rápido]({{ '/clases/campeon/dotes/#bloqueo-con-escudo-rapido' | relative_url }}) ✓ — Reacción extra para bloquear
+- [Bloqueo con Escudo Rápido](/dotes/campeon/bloqueo-con-escudo-rapido/) ✓ — Reacción extra para bloquear
 
 ### Nivel 10
-- [Escudo de Ajuste de Cuentas]({{ '/clases/campeon/dotes/#escudo-de-ajuste-de-cuentas' | relative_url }}) ✓ — Bloqueo + reacción de campeón
+- [Escudo de Ajuste de Cuentas](/dotes/campeon/escudo-de-ajuste-de-cuentas/) ✓ — Bloqueo + reacción de campeón
 
 ### Nivel 12
-- [Muro Divino]({{ '/clases/campeon/dotes/#muro-divino' | relative_url }}) ✓ — Casillas adyacentes son terreno difícil
-- [Contragolpe Bendito]({{ '/clases/campeon/dotes/#contragolpe-bendito' | relative_url }}) ✓ — Ataca tras proteger aliado
+- [Muro Divino](/dotes/campeon/muro-divino/) ✓ — Casillas adyacentes son terreno difícil
+- [Contragolpe Bendito](/dotes/campeon/contragolpe-bendito/) ✓ — Ataca tras proteger aliado
 
 ### Nivel 14
-- [Reflejos Divinos]({{ '/clases/campeon/dotes/#reflejos-divinos' | relative_url }}) ✓ — Reacción adicional para reacción de campeón
+- [Reflejos Divinos](/dotes/campeon/reflejos-divinos/) ✓ — Reacción adicional para reacción de campeón
 
 ### Nivel 16
-- [Escudo de Gracia]({{ '/clases/campeon/dotes/#escudo-de-gracia' | relative_url }}) ✓ — Divide daño con aliado
-- [Instrumento de Fervor]({{ '/clases/campeon/dotes/#instrumento-de-fervor' | relative_url }}) ✓ — Daño extra y ralentiza
+- [Escudo de Gracia](/dotes/campeon/escudo-de-gracia/) ✓ — Divide daño con aliado
+- [Instrumento de Fervor](/dotes/campeon/instrumento-de-fervor/) ✓ — Daño extra y ralentiza
 
 ### Nivel 18
-- [Retribución Veloz]({{ '/clases/campeon/dotes/#retribucion-veloz' | relative_url }}) ✓ — Acelerado tras reacción
+- [Retribución Veloz](/dotes/campeon/retribucion-veloz/) ✓ — Acelerado tras reacción
 
 ### Nivel 20
-- [Dechado de Escudo]({{ '/clases/campeon/dotes/#dechado-de-escudo' | relative_url }}) ✓ — Escudo siempre alzado, indestructible
+- [Dechado de Escudo](/dotes/campeon/dechado-de-escudo/) ✓ — Escudo siempre alzado, indestructible
 
 ---
 
@@ -88,17 +88,17 @@ La causa de Justicia te da el Golpe Retributivo como reacción. Cuando un enemig
 
 El Campeón del Escudo es el tanque definitivo:
 
-1. **Bloqueo múltiple**: [Bloqueo con Escudo Rápido]({{ '/clases/campeon/dotes/#bloqueo-con-escudo-rapido' | relative_url }}) + normal
-2. **Protección de aliados**: [Guardián del Escudo]({{ '/clases/campeon/dotes/#guardian-del-escudo' | relative_url }}) + [Escudo de Gracia]({{ '/clases/campeon/dotes/#escudo-de-gracia' | relative_url }})
-3. **Control de zona**: [Muro Divino]({{ '/clases/campeon/dotes/#muro-divino' | relative_url }}) + [Golpe Reactivo]({{ '/clases/campeon/dotes/#golpe-reactivo' | relative_url }})
-4. **Contraataque**: Golpe Retributivo + [Contragolpe Bendito]({{ '/clases/campeon/dotes/#contragolpe-bendito' | relative_url }})
+1. **Bloqueo múltiple**: [Bloqueo con Escudo Rápido](/dotes/campeon/bloqueo-con-escudo-rapido/) + normal
+2. **Protección de aliados**: [Guardián del Escudo](/dotes/campeon/guardian-del-escudo/) + [Escudo de Gracia](/dotes/campeon/escudo-de-gracia/)
+3. **Control de zona**: [Muro Divino](/dotes/campeon/muro-divino/) + [Golpe Reactivo](/dotes/campeon/golpe-reactivo/)
+4. **Contraataque**: Golpe Retributivo + [Contragolpe Bendito](/dotes/campeon/contragolpe-bendito/)
 
 ### Secuencia de Combate
-1. [Avance Defensivo]({{ '/clases/campeon/dotes/#avance-defensivo' | relative_url }}) para posicionarte con escudo alzado
-2. [Muro Divino]({{ '/clases/campeon/dotes/#muro-divino' | relative_url }}) dificulta movimiento enemigo
+1. [Avance Defensivo](/dotes/campeon/avance-defensivo/) para posicionarte con escudo alzado
+2. [Muro Divino](/dotes/campeon/muro-divino/) dificulta movimiento enemigo
 3. Bloquear con Escudo para ti o aliados
 4. Golpe Retributivo cuando dañan aliados
-5. [Golpe Reactivo]({{ '/clases/campeon/dotes/#golpe-reactivo' | relative_url }}) contra acciones enemigas
+5. [Golpe Reactivo](/dotes/campeon/golpe-reactivo/) contra acciones enemigas
 
 ### Fortalezas
 - Mejor tanque del juego

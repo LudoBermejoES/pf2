@@ -39,43 +39,43 @@ adventure_path: null
 ## Progresión de Dotes
 
 ### Nivel 1
-- [Interpretación Marcial]({{ '/clases/bardo/dotes/#interpretacion-marcial' | relative_url }}) ✓ — Extiende composiciones al dañar
-- [Himno de Curación]({{ '/clases/bardo/dotes/#himno-de-curacion' | relative_url }}) ✓ — Curación en combate
+- [Interpretación Marcial](/dotes/bardo/interpretacion-marcial/) ✓ — Extiende composiciones al dañar
+- [Himno de Curación](/dotes/bardo/himno-de-curacion/) ✓ — Curación en combate
 
 ### Nivel 2
-- [Canción de Fuerza]({{ '/clases/bardo/dotes/#cancion-de-fuerza' | relative_url }}) ✓ — Bonificador a pruebas físicas
-- [Empujón Emocional]({{ '/clases/bardo/dotes/#empujon-emocional' | relative_url }}) ✓ — Enemigo queda desprevenido
+- [Canción de Fuerza](/dotes/bardo/cancion-de-fuerza/) ✓ — Bonificador a pruebas físicas
+- [Empujón Emocional](/dotes/bardo/empujon-emocional/) ✓ — Enemigo queda desprevenido
 
 ### Nivel 4
-- [Avance Valeroso]({{ '/clases/bardo/dotes/#avance-valeroso' | relative_url }}) ✓ — Aliado da Zancada con himno
-- [Himno de Reagrupamiento]({{ '/clases/bardo/dotes/#himno-de-reagrupamiento' | relative_url }}) ✓ — Protección defensiva
+- [Avance Valeroso](/dotes/bardo/avance-valeroso/) ✓ — Aliado da Zancada con himno
+- [Himno de Reagrupamiento](/dotes/bardo/himno-de-reagrupamiento/) ✓ — Protección defensiva
 
 ### Nivel 6
-- [Coordinación Defensiva]({{ '/clases/bardo/dotes/#coordinacion-defensiva' | relative_url }}) ✓ — Alzar escudo con composición
-- [Endecha de Perdición]({{ '/clases/bardo/dotes/#endecha-de-perdicion' | relative_url }}) ✓ — Asusta a enemigos
+- [Coordinación Defensiva](/dotes/bardo/coordinacion-defensiva/) ✓ — Alzar escudo con composición
+- [Endecha de Perdición](/dotes/bardo/endecha-de-perdicion/) ✓ — Asusta a enemigos
 
 ### Nivel 8
-- [Valor Reflexivo]({{ '/clases/bardo/dotes/#valor-reflexivo' | relative_url }}) ✓ — Golpe como reacción bajo himno valeroso
-- [Acompañar]({{ '/clases/bardo/dotes/#acompanar' | relative_url }}) ✓ — Apoya lanzamiento de aliados
+- [Valor Reflexivo](/dotes/bardo/valor-reflexivo/) ✓ — Golpe como reacción bajo himno valeroso
+- [Acompañar](/dotes/bardo/acompanar/) ✓ — Apoya lanzamiento de aliados
 
 ### Nivel 10
-- [Asalto Valeroso]({{ '/clases/bardo/dotes/#asalto-valeroso' | relative_url }}) ✓ — Aliado da Golpe con himno
-- [Lanzamiento Apresurado]({{ '/clases/bardo/dotes/#lanzamiento-apresurado' | relative_url }}) ✓ — Conjuros más rápidos
+- [Asalto Valeroso](/dotes/bardo/asalto-valeroso/) ✓ — Aliado da Golpe con himno
+- [Lanzamiento Apresurado](/dotes/bardo/lanzamiento-apresurado/) ✓ — Conjuros más rápidos
 
 ### Nivel 12
-- [Asalto Compartido]({{ '/clases/bardo/dotes/#asalto-compartido' | relative_url }}) ✓ — Segundo aliado puede atacar
-- [Foco Inspirativo]({{ '/clases/bardo/dotes/#foco-inspirativo' | relative_url }}) ✓ — Recupera todos los Puntos de Foco
+- [Asalto Compartido](/dotes/bardo/asalto-compartido/) ✓ — Segundo aliado puede atacar
+- [Foco Inspirativo](/dotes/bardo/foco-inspirativo/) ✓ — Recupera todos los Puntos de Foco
 
 ### Nivel 14
-- [Inspiración Triunfante]({{ '/clases/bardo/dotes/#inspiracion-triunfante' | relative_url }}) ✓ — Composición gratis al criticar
-- [Himno Vigoroso]({{ '/clases/bardo/dotes/#himno-vigoroso' | relative_url }}) ✓ — PG temporales con himno
+- [Inspiración Triunfante](/dotes/bardo/inspiracion-triunfante/) ✓ — Composición gratis al criticar
+- [Himno Vigoroso](/dotes/bardo/himno-vigoroso/) ✓ — PG temporales con himno
 
 ### Nivel 16
-- [Arremetida Valerosa]({{ '/clases/bardo/dotes/#arremetida-valerosa' | relative_url }}) ✓ — Aliado da Zancada + Golpe
+- [Arremetida Valerosa](/dotes/bardo/arremetida-valerosa/) ✓ — Aliado da Zancada + Golpe
 
 ### Nivel 18
-- [Voz Discordante]({{ '/clases/bardo/dotes/#voz-discordante' | relative_url }}) ✓ — Aliados infligen daño sónico extra
-- [Composición Eterna]({{ '/clases/bardo/dotes/#composicion-eterna' | relative_url }}) ✓ — Siempre acelerado para composiciones
+- [Voz Discordante](/dotes/bardo/voz-discordante/) ✓ — Aliados infligen daño sónico extra
+- [Composición Eterna](/dotes/bardo/composicion-eterna/) ✓ — Siempre acelerado para composiciones
 
 ---
 
@@ -89,10 +89,10 @@ La musa combatiente te inspira a mezclar armas y música. Obtienes Interpretaci�
 
 El Bardo Combatiente es un luchador de primera línea que inspira:
 
-1. **Composición activa**: Mantén himno valeroso para [Interpretación Marcial]({{ '/clases/bardo/dotes/#interpretacion-marcial' | relative_url }})
+1. **Composición activa**: Mantén himno valeroso para [Interpretación Marcial](/dotes/bardo/interpretacion-marcial/)
 2. **Combate**: Ataca para extender duración de composiciones
-3. **Apoyo ofensivo**: [Asalto Valeroso]({{ '/clases/bardo/dotes/#asalto-valeroso' | relative_url }}) y [Avance Valeroso]({{ '/clases/bardo/dotes/#avance-valeroso' | relative_url }})
-4. **Reacción**: [Valor Reflexivo]({{ '/clases/bardo/dotes/#valor-reflexivo' | relative_url }}) para ataques de oportunidad
+3. **Apoyo ofensivo**: [Asalto Valeroso](/dotes/bardo/asalto-valeroso/) y [Avance Valeroso](/dotes/bardo/avance-valeroso/)
+4. **Reacción**: [Valor Reflexivo](/dotes/bardo/valor-reflexivo/) para ataques de oportunidad
 
 ### Composiciones Clave
 
@@ -102,9 +102,9 @@ El Bardo Combatiente es un luchador de primera línea que inspira:
 
 ### Secuencia de Combate
 1. Himno valeroso como primera acción
-2. Golpe para extender duración ([Interpretación Marcial]({{ '/clases/bardo/dotes/#interpretacion-marcial' | relative_url }}))
+2. Golpe para extender duración ([Interpretación Marcial](/dotes/bardo/interpretacion-marcial/))
 3. Segundo Golpe o maniobra de combate
-4. [Valor Reflexivo]({{ '/clases/bardo/dotes/#valor-reflexivo' | relative_url }}) como reacción
+4. [Valor Reflexivo](/dotes/bardo/valor-reflexivo/) como reacción
 
 ### Fortalezas
 - Combatiente efectivo que también apoya

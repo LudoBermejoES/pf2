@@ -52,43 +52,43 @@ adventure_path: Kingmaker
 ## Progresión de Dotes
 
 ### Nivel 1
-- [Familiar]({{ '/clases/hechicero/dotes/#familiar' | relative_url }}) ✓ — Un familiar feérico te asiste
-- [Extender Conjuro]({{ '/clases/hechicero/dotes/#extender-conjuro' | relative_url }}) ✓ — Aumenta alcance de encantamientos
+- [Familiar](/dotes/hechicero/familiar/) ✓ — Un familiar feérico te asiste
+- [Extender Conjuro](/dotes/hechicero/extender-conjuro/) ✓ — Aumenta alcance de encantamientos
 
 ### Nivel 2
-- [Familiar Mejorado]({{ '/clases/hechicero/dotes/#familiar-mejorado' | relative_url }}) ✓ — Más habilidades de familiar
-- [Expansión de Trucos]({{ '/clases/hechicero/dotes/#expansion-de-trucos' | relative_url }}) ✓ — Más trucos de ilusión
+- [Familiar Mejorado](/dotes/hechicero/familiar-mejorado/) ✓ — Más habilidades de familiar
+- [Expansión de Trucos](/dotes/hechicero/expansion-de-trucos/) ✓ — Más trucos de ilusión
 
 ### Nivel 4
-- [Evolución Primigenia]({{ '/clases/hechicero/dotes/#evolucion-primigenia' | relative_url }}) ✓ — Invoca criaturas feéricas
+- [Evolución Primigenia](/dotes/hechicero/evolucion-primigenia/) ✓ — Invoca criaturas feéricas
 
 ### Nivel 6
-- [Linaje Avanzado]({{ '/clases/hechicero/dotes/#linaje-avanzado' | relative_url }}) ✓ — Conjuro de linaje avanzado feérico
-- [Conjuro Resguardado]({{ '/clases/hechicero/dotes/#conjuro-resguardado' | relative_url }}) ✓ — Inmune a tus propias ilusiones
+- [Linaje Avanzado](/dotes/hechicero/linaje-avanzado/) ✓ — Conjuro de linaje avanzado feérico
+- [Conjuro Resguardado](/dotes/hechicero/conjuro-resguardado/) ✓ — Inmune a tus propias ilusiones
 
 ### Nivel 8
-- [Resistencia del Linaje]({{ '/clases/hechicero/dotes/#resistencia-del-linaje' | relative_url }}) ✓ — +1 contra magia
-- [Evolución de Sangre Cruzada]({{ '/clases/hechicero/dotes/#evolucion-de-sangre-cruzada' | relative_url }}) ✓ — Magia de sangre adicional
+- [Resistencia del Linaje](/dotes/hechicero/resistencia-del-linaje/) ✓ — +1 contra magia
+- [Evolución de Sangre Cruzada](/dotes/hechicero/evolucion-de-sangre-cruzada/) ✓ — Magia de sangre adicional
 
 ### Nivel 10
-- [Linaje Mayor]({{ '/clases/hechicero/dotes/#linaje-mayor' | relative_url }}) ✓ — Conjuro de linaje mayor feérico
-- [Lanzamiento Acelerado]({{ '/clases/hechicero/dotes/#lanzamiento-acelerado' | relative_url }}) ✓ — Conjuros más rápidos
+- [Linaje Mayor](/dotes/hechicero/linaje-mayor/) ✓ — Conjuro de linaje mayor feérico
+- [Lanzamiento Acelerado](/dotes/hechicero/lanzamiento-acelerado/) ✓ — Conjuros más rápidos
 
 ### Nivel 12
-- [Foco del Linaje]({{ '/clases/hechicero/dotes/#foco-del-linaje' | relative_url }}) ✓ — Recupera todos los Puntos de Foco
-- [Sentido Mágico]({{ '/clases/hechicero/dotes/#sentido-magico' | relative_url }}) ✓ — Detecta magia constantemente
+- [Foco del Linaje](/dotes/hechicero/foco-del-linaje/) ✓ — Recupera todos los Puntos de Foco
+- [Sentido Mágico](/dotes/hechicero/sentido-magico/) ✓ — Detecta magia constantemente
 
 ### Nivel 14
-- [Velo de Conjuro]({{ '/clases/hechicero/dotes/#velo-de-conjuro' | relative_url }}) ✓ — Niebla protectora ilusoria
+- [Velo de Conjuro](/dotes/hechicero/velo-de-conjuro/) ✓ — Niebla protectora ilusoria
 
 ### Nivel 16
-- [Concentración sin Esfuerzo]({{ '/clases/hechicero/dotes/#concentracion-sin-esfuerzo' | relative_url }}) ✓ — Mantén ilusiones automáticamente
+- [Concentración sin Esfuerzo](/dotes/hechicero/concentracion-sin-esfuerzo/) ✓ — Mantén ilusiones automáticamente
 
 ### Nivel 18
-- [Conjuro Resonante]({{ '/clases/hechicero/dotes/#conjuro-resonante' | relative_url }}) ✓ — Duplica encantamientos
+- [Conjuro Resonante](/dotes/hechicero/conjuro-resonante/) ✓ — Duplica encantamientos
 
 ### Nivel 20
-- [Mutación del Linaje]({{ '/clases/hechicero/dotes/#mutacion-del-linaje' | relative_url }}) ✓ — Rasgos feéricos permanentes
+- [Mutación del Linaje](/dotes/hechicero/mutacion-del-linaje/) ✓ — Rasgos feéricos permanentes
 
 ---
 
@@ -108,8 +108,8 @@ El Hechicero Feérico combina control mental con ilusiones:
 
 1. **Control**: Encantamientos para dominar voluntades
 2. **Engaño**: Ilusiones para confundir y ocultar
-3. **Invocación**: [Evolución Primigenia]({{ '/clases/hechicero/dotes/#evolucion-primigenia' | relative_url }}) para invocar aliados feéricos
-4. **Sostenibilidad**: [Foco del Linaje]({{ '/clases/hechicero/dotes/#foco-del-linaje' | relative_url }}) recupera Puntos de Foco
+3. **Invocación**: [Evolución Primigenia](/dotes/hechicero/evolucion-primigenia/) para invocar aliados feéricos
+4. **Sostenibilidad**: [Foco del Linaje](/dotes/hechicero/foco-del-linaje/) recupera Puntos de Foco
 
 ### Conjuros Sugeridos
 
@@ -129,7 +129,7 @@ El Hechicero Feérico combina control mental con ilusiones:
 1. Ilusión o encantamiento para controlar el campo
 2. Invocar criatura feérica si necesitas aliados
 3. Conjuros de daño si es necesario
-4. Mantener ilusiones con [Concentración sin Esfuerzo]({{ '/clases/hechicero/dotes/#concentracion-sin-esfuerzo' | relative_url }})
+4. Mantener ilusiones con [Concentración sin Esfuerzo](/dotes/hechicero/concentracion-sin-esfuerzo/)
 
 ### Fortalezas
 - Excelente control de multitudes

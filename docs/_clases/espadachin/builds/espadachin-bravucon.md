@@ -38,46 +38,46 @@ adventure_path: null
 ## Progresión de Dotes
 
 ### Nivel 1
-- [Tú Eres el Siguiente]({{ '/clases/espadachin/dotes/#tu-eres-el-siguiente' | relative_url }}) ✓ — Desmoraliza gratis al derribar enemigo
-- [Finta Provocadora]({{ '/clases/espadachin/dotes/#finta-provocadora' | relative_url }}) ✓ — Penalizador a ataques contra ti
+- [Tú Eres el Siguiente](/dotes/espadachin/tu-eres-el-siguiente/) ✓ — Desmoraliza gratis al derribar enemigo
+- [Finta Provocadora](/dotes/espadachin/finta-provocadora/) ✓ — Penalizador a ataques contra ti
 
 ### Nivel 2
-- [Antagonizar]({{ '/clases/espadachin/dotes/#antagonizar' | relative_url }}) ✓ — Asustado no baja hasta que te ataque
-- [Desenfundado Ostentoso]({{ '/clases/espadachin/dotes/#desenfundado-ostentoso' | relative_url }}) ✓ — Desenfunda y ataca/remate
+- [Antagonizar](/dotes/espadachin/antagonizar/) ✓ — Asustado no baja hasta que te ataque
+- [Desenfundado Ostentoso](/dotes/espadachin/desenfundado-ostentoso/) ✓ — Desenfunda y ataca/remate
 
 ### Nivel 4
-- [Iniciativa Arrogante]({{ '/clases/espadachin/dotes/#iniciativa-arrogante' | relative_url }}) ✓ — +2 iniciativa + panache
-- [Equilibrar las Probabilidades]({{ '/clases/espadachin/dotes/#equilibrar-las-probabilidades' | relative_url }}) ✓ — Panache cuando te flanquean
+- [Iniciativa Arrogante](/dotes/espadachin/iniciativa-arrogante/) ✓ — +2 iniciativa + panache
+- [Equilibrar las Probabilidades](/dotes/espadachin/equilibrar-las-probabilidades/) ✓ — Panache cuando te flanquean
 
 ### Nivel 6
-- [Golpe Reactivo]({{ '/clases/espadachin/dotes/#golpe-reactivo' | relative_url }}) ✓ — Ataque de oportunidad
-- [Combinación de Remate]({{ '/clases/espadachin/dotes/#combinacion-de-remate' | relative_url }}) ✓ — Menor penalizador en remates
+- [Golpe Reactivo](/dotes/espadachin/golpe-reactivo/) ✓ — Ataque de oportunidad
+- [Combinación de Remate](/dotes/espadachin/combinacion-de-remate/) ✓ — Menor penalizador en remates
 
 ### Nivel 8
-- [Remate Aturdidor]({{ '/clases/espadachin/dotes/#remate-aturdidor' | relative_url }}) ✓ — Aturde enemigos
-- [Fanfarronería Vivaz]({{ '/clases/espadachin/dotes/#fanfarroneria-vivaz' | relative_url }}) ✓ — PG temporales al ganar panache
+- [Remate Aturdidor](/dotes/espadachin/remate-aturdidor/) ✓ — Aturde enemigos
+- [Fanfarronería Vivaz](/dotes/espadachin/fanfarroneria-vivaz/) ✓ — PG temporales al ganar panache
 
 ### Nivel 10
-- [Remate Dirigido]({{ '/clases/espadachin/dotes/#remate-dirigido' | relative_url }}) ✓ — Debilita/estupefacto/ralentiza
-- [Derring-Do]({{ '/clases/espadachin/dotes/#derring-do' | relative_url }}) ✓ — Doble tirada con panache
+- [Remate Dirigido](/dotes/espadachin/remate-dirigido/) ✓ — Debilita/estupefacto/ralentiza
+- [Derring-Do](/dotes/espadachin/derring-do/) ✓ — Doble tirada con panache
 
 ### Nivel 12
-- [Acostúmbrate a la Decepción]({{ '/clases/espadachin/dotes/#acostumbrate-a-la-decepcion' | relative_url }}) ✓ — Desmoraliza gratis tras fallo enemigo
-- [Burlar a la Muerte]({{ '/clases/espadachin/dotes/#burlar-a-la-muerte' | relative_url }}) ✓ — Sobrevive con 1 PG
+- [Acostúmbrate a la Decepción](/dotes/espadachin/acostumbrate-a-la-decepcion/) ✓ — Desmoraliza gratis tras fallo enemigo
+- [Burlar a la Muerte](/dotes/espadachin/burlar-a-la-muerte/) ✓ — Sobrevive con 1 PG
 
 ### Nivel 14
-- [Remate Perfecto]({{ '/clases/espadachin/dotes/#remate-perfecto' | relative_url }}) ✓ — Doble tirada de ataque
+- [Remate Perfecto](/dotes/espadachin/remate-perfecto/) ✓ — Doble tirada de ataque
 
 ### Nivel 16
-- [Gracia Mortífera]({{ '/clases/espadachin/dotes/#gracia-mortifera' | relative_url }}) ✓ — Duplica dados mortales
-- [Remate Revitalizante]({{ '/clases/espadachin/dotes/#remate-revitalizante' | relative_url }}) ✓ — PG temporales para equipo
+- [Gracia Mortífera](/dotes/espadachin/gracia-mortifera/) ✓ — Duplica dados mortales
+- [Remate Revitalizante](/dotes/espadachin/remate-revitalizante/) ✓ — PG temporales para equipo
 
 ### Nivel 18
-- [Remate Letal]({{ '/clases/espadachin/dotes/#remate-letal' | relative_url }}) ✓ — Daño masivo
+- [Remate Letal](/dotes/espadachin/remate-letal/) ✓ — Daño masivo
 
 ### Nivel 20
-- [Paragona del Panache]({{ '/clases/espadachin/dotes/#paragona-del-panache' | relative_url }}) ✓ — Permanentemente acelerado
-- [Remate Ilimitado]({{ '/clases/espadachin/dotes/#remate-ilimitado' | relative_url }}) ✓ — Encadena remates
+- [Paragona del Panache](/dotes/espadachin/paragona-del-panache/) ✓ — Permanentemente acelerado
+- [Remate Ilimitado](/dotes/espadachin/remate-ilimitado/) ✓ — Encadena remates
 
 ---
 
@@ -85,16 +85,16 @@ adventure_path: null
 
 El Espadachín Bravucón domina el combate psicológico:
 
-1. **Asustado constante**: [Antagonizar]({{ '/clases/espadachin/dotes/#antagonizar' | relative_url }}) mantiene el miedo
-2. **Desmoralizar gratis**: [Tú Eres el Siguiente]({{ '/clases/espadachin/dotes/#tu-eres-el-siguiente' | relative_url }}) + [Acostúmbrate a la Decepción]({{ '/clases/espadachin/dotes/#acostumbrate-a-la-decepcion' | relative_url }})
-3. **Debuffs**: Asustado + [Remate Dirigido]({{ '/clases/espadachin/dotes/#remate-dirigido' | relative_url }})
+1. **Asustado constante**: [Antagonizar](/dotes/espadachin/antagonizar/) mantiene el miedo
+2. **Desmoralizar gratis**: [Tú Eres el Siguiente](/dotes/espadachin/tu-eres-el-siguiente/) + [Acostúmbrate a la Decepción](/dotes/espadachin/acostumbrate-a-la-decepcion/)
+3. **Debuffs**: Asustado + [Remate Dirigido](/dotes/espadachin/remate-dirigido/)
 4. **Control**: Fuerza a enemigos a atacarte
 
 ### Ciclo de Intimidación
 1. Desmoraliza al inicio del combate
-2. [Antagonizar]({{ '/clases/espadachin/dotes/#antagonizar' | relative_url }}) mantiene asustado 1 mínimo
-3. Derriba enemigo → [Tú Eres el Siguiente]({{ '/clases/espadachin/dotes/#tu-eres-el-siguiente' | relative_url }}) → siguiente objetivo asustado
-4. Enemigo falla → [Acostúmbrate a la Decepción]({{ '/clases/espadachin/dotes/#acostumbrate-a-la-decepcion' | relative_url }}) → más miedo
+2. [Antagonizar](/dotes/espadachin/antagonizar/) mantiene asustado 1 mínimo
+3. Derriba enemigo → [Tú Eres el Siguiente](/dotes/espadachin/tu-eres-el-siguiente/) → siguiente objetivo asustado
+4. Enemigo falla → [Acostúmbrate a la Decepción](/dotes/espadachin/acostumbrate-a-la-decepcion/) → más miedo
 
 ### Efectos del Miedo
 Enemigo asustado sufre penalizador a:

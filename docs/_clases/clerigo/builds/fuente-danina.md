@@ -40,32 +40,32 @@ adventure_path: null
 ## Progresión de Dotes
 
 ### Nivel 1
-- [Manos Dañinas]({{ '/clases/clerigo/dotes/#manos-daninas' | relative_url }}) ✓ — Dañar usa d10 en lugar de d8
-- [Castigo Divino]({{ '/clases/clerigo/dotes/#castigo-divino' | relative_url }}) ✓ — Añade rasgo sacrilego a dañar
+- [Manos Dañinas](/dotes/clerigo/manos-daninas/) ✓ — Dañar usa d10 en lugar de d8
+- [Castigo Divino](/dotes/clerigo/castigo-divino/) ✓ — Añade rasgo sacrilego a dañar
 
 ### Nivel 2
-- [Minar la Vida]({{ '/clases/clerigo/dotes/#minar-la-vida' | relative_url }}) ✓ — Recuperas PG igual al rango del conjuro al dañar vivos
+- [Minar la Vida](/dotes/clerigo/minar-la-vida/) ✓ — Recuperas PG igual al rango del conjuro al dañar vivos
 
 ### Nivel 4
-- [Canalización Dirigida]({{ '/clases/clerigo/dotes/#canalizacion-dirigida' | relative_url }}) ✓ — Dañar en cono de 60 pies
-- [Canalizar Castigo]({{ '/clases/clerigo/dotes/#canalizar-castigo' | relative_url }}) ✓ — Combina Golpe con dañar
+- [Canalización Dirigida](/dotes/clerigo/canalizacion-dirigida/) ✓ — Dañar en cono de 60 pies
+- [Canalizar Castigo](/dotes/clerigo/canalizar-castigo/) ✓ — Combina Golpe con dañar
 
 ### Nivel 6
-- [Energía Selectiva]({{ '/clases/clerigo/dotes/#energia-selectiva' | relative_url }}) ✓ — Excluye aliados del área de dañar
-- [Derribar]({{ '/clases/clerigo/dotes/#derribar' | relative_url }}) ✓ — El objetivo de dañar queda derribado
+- [Energía Selectiva](/dotes/clerigo/energia-selectiva/) ✓ — Excluye aliados del área de dañar
+- [Derribar](/dotes/clerigo/derribar/) ✓ — El objetivo de dañar queda derribado
 
 ### Nivel 8
-- [Sifón del Vacío]({{ '/clases/clerigo/dotes/#sifon-del-vacio' | relative_url }}) ✓ — Fallo crítico en dañar causa drenado 1
-- [Santificar Armamento]({{ '/clases/clerigo/dotes/#santificar-armamento' | relative_url }}) ✓ — Arma gana rasgo sacrilego
+- [Sifón del Vacío](/dotes/clerigo/sifon-del-vacio/) ✓ — Fallo crítico en dañar causa drenado 1
+- [Santificar Armamento](/dotes/clerigo/santificar-armamento/) ✓ — Arma gana rasgo sacrilego
 
 ### Nivel 10
-- [Arma Castigadora]({{ '/clases/clerigo/dotes/#arma-castigadora' | relative_url }}) ✓ — Más daño espiritual tras Castigo Divino
+- [Arma Castigadora](/dotes/clerigo/arma-castigadora/) ✓ — Más daño espiritual tras Castigo Divino
 
 ### Nivel 14
-- [Canalización Rápida]({{ '/clases/clerigo/dotes/#canalizacion-rapida' | relative_url }}) ✓ — Dañar de 2 acciones obtiene efectos de 3 acciones
+- [Canalización Rápida](/dotes/clerigo/canalizacion-rapida/) ✓ — Dañar de 2 acciones obtiene efectos de 3 acciones
 
 ### Nivel 16
-- [Azote Eterno]({{ '/clases/clerigo/dotes/#azote-eterno' | relative_url }}) ✓ — Aura permanente de destierro (si eres sacrilego)
+- [Azote Eterno](/dotes/clerigo/azote-eterno/) ✓ — Aura permanente de destierro (si eres sacrilego)
 
 ---
 
@@ -81,8 +81,8 @@ El Clérigo de Daño es un destructor divino de área:
 
 1. **Posición**: Acércate a grupos de enemigos
 2. **Daño de Área**: Usa dañar de 3 acciones para dañar a todos los vivos en 30 pies
-3. **Sostenibilidad**: [Minar la Vida]({{ '/clases/clerigo/dotes/#minar-la-vida' | relative_url }}) te cura cada vez que dañas
-4. **Control**: [Derribar]({{ '/clases/clerigo/dotes/#derribar' | relative_url }}) tumba a los enemigos dañados
+3. **Sostenibilidad**: [Minar la Vida](/dotes/clerigo/minar-la-vida/) te cura cada vez que dañas
+4. **Control**: [Derribar](/dotes/clerigo/derribar/) tumba a los enemigos dañados
 
 ### Daño Contra Diferentes Objetivos
 - **Vivos**: Dañar causa daño de vacío (salvación de Fortaleza)
@@ -104,7 +104,7 @@ El Clérigo de Daño es un destructor divino de área:
 
 ## Sinergias con Fuente Versátil
 
-Si tu deidad lo permite (como Farasma), considera tomar [Fuente Versátil]({{ '/clases/clerigo/dotes/#fuente-versatil' | relative_url }}) ✓ a nivel 2 para poder preparar tanto curar como dañar según la situación.
+Si tu deidad lo permite (como Farasma), considera tomar [Fuente Versátil](/dotes/clerigo/fuente-versatil/) ✓ a nivel 2 para poder preparar tanto curar como dañar según la situación.
 
 ---
 

@@ -40,34 +40,34 @@ adventure_path: null
 ## Progresión de Dotes
 
 ### Nivel 1
-- [Buscador de Trampas]({{ '/clases/picaro/dotes/#buscador-de-trampas' | relative_url }}) ✓ — Bonificador contra trampas y las detectas sin Buscar
+- [Buscador de Trampas](/dotes/picaro/buscador-de-trampas/) ✓ — Bonificador contra trampas y las detectas sin Buscar
 
 ### Nivel 2
-- [Gambito Astuto]({{ '/clases/picaro/dotes/#gambito-astuto' | relative_url }}) ✓ — Paso o Zancada gratis en crítico contra objetivo identificado (mente maestra)
+- [Gambito Astuto](/dotes/picaro/gambito-astuto/) ✓ — Paso o Zancada gratis en crítico contra objetivo identificado (mente maestra)
 
 ### Nivel 4
-- [¡Predecible!]({{ '/clases/picaro/dotes/#predecible' | relative_url }}) ✓ — Averigua intenciones para bonificador a CA y salvaciones
-- [Aviso del Batidor]({{ '/clases/picaro/dotes/#aviso-del-batidor' | relative_url }}) ✓ — +1 a iniciativa de aliados
+- [¡Predecible!](/dotes/picaro/predecible/) ✓ — Averigua intenciones para bonificador a CA y salvaciones
+- [Aviso del Batidor](/dotes/picaro/aviso-del-batidor/) ✓ — +1 a iniciativa de aliados
 
 ### Nivel 6
-- [Analizar Debilidad]({{ '/clases/picaro/dotes/#analizar-debilidad' | relative_url }}) ✓ — +2d6 daño de precisión adicional contra enemigo identificado
-- [Anticipar Emboscada]({{ '/clases/picaro/dotes/#anticipar-emboscada' | relative_url }}) ✓ — Penalizador a Sigilo enemigo en emboscadas
+- [Analizar Debilidad](/dotes/picaro/analizar-debilidad/) ✓ — +2d6 daño de precisión adicional contra enemigo identificado
+- [Anticipar Emboscada](/dotes/picaro/anticipar-emboscada/) ✓ — Penalizador a Sigilo enemigo en emboscadas
 
 ### Nivel 8
-- [Estratagema Inspirada]({{ '/clases/picaro/dotes/#estratagema-inspirada' | relative_url }}) ✓ — Aliados tiran dos veces
-- [Lucha a Ciegas]({{ '/clases/picaro/dotes/#lucha-a-ciegas' | relative_url }}) ✓ — No necesitas ver para atacar
+- [Estratagema Inspirada](/dotes/picaro/estratagema-inspirada/) ✓ — Aliados tiran dos veces
+- [Lucha a Ciegas](/dotes/picaro/lucha-a-ciegas/) ✓ — No necesitas ver para atacar
 
 ### Nivel 10
-- [Debilitaciones Metódicas]({{ '/clases/picaro/dotes/#debilitaciones-metodicas' | relative_url }}) ✓ — Niega flanqueo y bonificadores de cobertura (mente maestra)
+- [Debilitaciones Metódicas](/dotes/picaro/debilitaciones-metodicas/) ✓ — Niega flanqueo y bonificadores de cobertura (mente maestra)
 
 ### Nivel 12
-- [Preparación]({{ '/clases/picaro/dotes/#preparacion' | relative_url }}) ✓ — Gana reacción adicional
+- [Preparación](/dotes/picaro/preparacion/) ✓ — Gana reacción adicional
 
 ### Nivel 14
-- [Dejar una Abertura]({{ '/clases/picaro/dotes/#dejar-una-abertura' | relative_url }}) ✓ — Críticos provocan Golpe reactivo de aliados
+- [Dejar una Abertura](/dotes/picaro/dejar-una-abertura/) ✓ — Críticos provocan Golpe reactivo de aliados
 
 ### Nivel 16
-- [Reconstruir la Escena]({{ '/clases/picaro/dotes/#reconstruir-la-escena' | relative_url }}) ✓ — Deduce eventos pasados examinando un lugar
+- [Reconstruir la Escena](/dotes/picaro/reconstruir-la-escena/) ✓ — Deduce eventos pasados examinando un lugar
 
 ---
 
@@ -82,15 +82,15 @@ El enredo de Mente Maestra usa Inteligencia como atributo clave. Puedes usar Rec
 La Mente Maestra apoya al grupo mientras inflige daño táctico:
 
 1. **Identificación**: Usa Recordar conocimiento para aprender sobre el enemigo Y dejarlo desprevenido
-2. **Daño amplificado**: [Analizar Debilidad]({{ '/clases/picaro/dotes/#analizar-debilidad' | relative_url }}) añade +2d6 a +4d6 daño extra
-3. **Apoyo**: [Estratagema Inspirada]({{ '/clases/picaro/dotes/#estratagema-inspirada' | relative_url }}) y [Aviso del Batidor]({{ '/clases/picaro/dotes/#aviso-del-batidor' | relative_url }}) benefician al grupo
-4. **Control**: [Debilitaciones Metódicas]({{ '/clases/picaro/dotes/#debilitaciones-metodicas' | relative_url }}) niegan ventajas tácticas enemigas
+2. **Daño amplificado**: [Analizar Debilidad](/dotes/picaro/analizar-debilidad/) añade +2d6 a +4d6 daño extra
+3. **Apoyo**: [Estratagema Inspirada](/dotes/picaro/estratagema-inspirada/) y [Aviso del Batidor](/dotes/picaro/aviso-del-batidor/) benefician al grupo
+4. **Control**: [Debilitaciones Metódicas](/dotes/picaro/debilitaciones-metodicas/) niegan ventajas tácticas enemigas
 
 ### Secuencia Táctica
 1. Recordar conocimiento → Enemigo desprevenido (enredo)
-2. [Analizar Debilidad]({{ '/clases/picaro/dotes/#analizar-debilidad' | relative_url }}) → +2d6 daño extra
+2. [Analizar Debilidad](/dotes/picaro/analizar-debilidad/) → +2d6 daño extra
 3. Golpe con Ataque Furtivo + daño extra
-4. Golpe debilitante con [Debilitaciones Metódicas]({{ '/clases/picaro/dotes/#debilitaciones-metodicas' | relative_url }})
+4. Golpe debilitante con [Debilitaciones Metódicas](/dotes/picaro/debilitaciones-metodicas/)
 
 ### Fortalezas
 - No depende de posicionamiento para desprevenido

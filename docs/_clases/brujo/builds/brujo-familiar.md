@@ -20,7 +20,7 @@ adventure_path: null
 |----------|----------|
 | **Atributo Clave** | Inteligencia (+4) |
 | **Atributos Secundarios** | Carisma (+3), Sabiduría (+2) |
-| **Patrón** | Divino u Ocultista para [Familiar Espiritual]({{ '/clases/brujo/dotes/#familiar-espiritual' | relative_url }}), o Arcano/Primigenio para [Familiar Hilvanado]({{ '/clases/brujo/dotes/#familiar-hilvanado' | relative_url }}) |
+| **Patrón** | Divino u Ocultista para [Familiar Espiritual](/dotes/brujo/familiar-espiritual/), o Arcano/Primigenio para [Familiar Hilvanado](/dotes/brujo/familiar-hilvanado/) |
 
 ## Armas
 
@@ -37,45 +37,45 @@ adventure_path: null
 ## Progresión de Dotes
 
 ### Nivel 1
-- [Risa Estridente]({{ '/clases/brujo/dotes/#risa-estridente' | relative_url }}) ✓ — Maleficio risotada
+- [Risa Estridente](/dotes/brujo/risa-estridente/) ✓ — Maleficio risotada
 
 ### Nivel 2
-- [Familiar Potenciado]({{ '/clases/brujo/dotes/#familiar-potenciado' | relative_url }}) ✓ — 4 aptitudes de familiar
-- [Idioma del Familiar]({{ '/clases/brujo/dotes/#idioma-del-familiar' | relative_url }}) ✓ — Habla con animales similares
+- [Familiar Potenciado](/dotes/brujo/familiar-potenciado/) ✓ — 4 aptitudes de familiar
+- [Idioma del Familiar](/dotes/brujo/idioma-del-familiar/) ✓ — Habla con animales similares
 
 ### Nivel 4
-- [Golpe Simpático]({{ '/clases/brujo/dotes/#golpe-simpatico' | relative_url }}) ✓ — Penalizador a salvaciones tras golpe
+- [Golpe Simpático](/dotes/brujo/golpe-simpatico/) ✓ — Penalizador a salvaciones tras golpe
 
 ### Nivel 6
-- [Tutela de Brujo]({{ '/clases/brujo/dotes/#tutela-de-brujo' | relative_url }}) ✓ — Vínculo con aliado + conjuros a distancia
-- [Lección Mayor]({{ '/clases/brujo/dotes/#leccion-mayor' | relative_url }}) ✓ — Maleficio mayor
+- [Tutela de Brujo](/dotes/brujo/tutela-de-brujo/) ✓ — Vínculo con aliado + conjuros a distancia
+- [Lección Mayor](/dotes/brujo/leccion-mayor/) ✓ — Maleficio mayor
 
 ### Nivel 8
-- [Familiar Espiritual]({{ '/clases/brujo/dotes/#familiar-espiritual' | relative_url }}) ✓ — Mudar espíritu (daño + curación)
-- **O** [Familiar Hilvanado]({{ '/clases/brujo/dotes/#familiar-hilvanado' | relative_url }}) ✓ — Golpe hilvanado (daño + inmoviliza)
-- [Familiar Sensacional]({{ '/clases/brujo/dotes/#familiar-sensacional' | relative_url }}) ✓ — 6 aptitudes de familiar
+- [Familiar Espiritual](/dotes/brujo/familiar-espiritual/) ✓ — Mudar espíritu (daño + curación)
+- **O** [Familiar Hilvanado](/dotes/brujo/familiar-hilvanado/) ✓ — Golpe hilvanado (daño + inmoviliza)
+- [Familiar Sensacional](/dotes/brujo/familiar-sensacional/) ✓ — 6 aptitudes de familiar
 
 ### Nivel 10
-- [Comunión de Brujo]({{ '/clases/brujo/dotes/#comunion-de-brujo' | relative_url }}) ✓ — Múltiples tutelados
-- [Lección Superior]({{ '/clases/brujo/dotes/#leccion-superior' | relative_url }}) ✓ — Maleficio superior
+- [Comunión de Brujo](/dotes/brujo/comunion-de-brujo/) ✓ — Múltiples tutelados
+- [Lección Superior](/dotes/brujo/leccion-superior/) ✓ — Maleficio superior
 
 ### Nivel 12
-- [Foco de Maleficios]({{ '/clases/brujo/dotes/#foco-de-maleficios' | relative_url }}) ✓ — Recupera todos los Puntos de Concentración
-- [Conjuro de Aquelarre]({{ '/clases/brujo/dotes/#conjuro-de-aquelarre' | relative_url }}) ✓ — Potencia conjuros de aliados
+- [Foco de Maleficios](/dotes/brujo/foco-de-maleficios/) ✓ — Recupera todos los Puntos de Concentración
+- [Conjuro de Aquelarre](/dotes/brujo/conjuro-de-aquelarre/) ✓ — Potencia conjuros de aliados
 
 ### Nivel 14
-- [Presencia del Patrón]({{ '/clases/brujo/dotes/#presencia-del-patron' | relative_url }}) ✓ — Aura de anonadamiento del familiar
-- [Lección Superior]({{ '/clases/brujo/dotes/#leccion-superior' | relative_url }}) ✓ — Segunda lección superior
+- [Presencia del Patrón](/dotes/brujo/presencia-del-patron/) ✓ — Aura de anonadamiento del familiar
+- [Lección Superior](/dotes/brujo/leccion-superior/) ✓ — Segunda lección superior
 
 ### Nivel 16
-- [Concentración sin Esfuerzo]({{ '/clases/brujo/dotes/#concentracion-sin-esfuerzo' | relative_url }}) ✓ — Mantener conjuros gratis
+- [Concentración sin Esfuerzo](/dotes/brujo/concentracion-sin-esfuerzo/) ✓ — Mantener conjuros gratis
 
 ### Nivel 18
-- [Reclamación del Patrón]({{ '/clases/brujo/dotes/#reclamacion-del-patron' | relative_url }}) ✓ — Familiar drena + recupera Concentración
-- [Lección Superior]({{ '/clases/brujo/dotes/#leccion-superior' | relative_url }}) ✓ — Tercera lección superior
+- [Reclamación del Patrón](/dotes/brujo/reclamacion-del-patron/) ✓ — Familiar drena + recupera Concentración
+- [Lección Superior](/dotes/brujo/leccion-superior/) ✓ — Tercera lección superior
 
 ### Nivel 20
-- [Maestro de los Maleficios]({{ '/clases/brujo/dotes/#maestro-de-los-maleficios' | relative_url }}) ✓ — Sin límite de maleficios/turno
+- [Maestro de los Maleficios](/dotes/brujo/maestro-de-los-maleficios/) ✓ — Sin límite de maleficios/turno
 
 ---
 
@@ -83,10 +83,10 @@ adventure_path: null
 
 El Brujo del Familiar maximiza el poder de su compañero:
 
-1. **Familiar ofensivo**: [Familiar Espiritual]({{ '/clases/brujo/dotes/#familiar-espiritual' | relative_url }}) o [Familiar Hilvanado]({{ '/clases/brujo/dotes/#familiar-hilvanado' | relative_url }})
+1. **Familiar ofensivo**: [Familiar Espiritual](/dotes/brujo/familiar-espiritual/) o [Familiar Hilvanado](/dotes/brujo/familiar-hilvanado/)
 2. **Muchas aptitudes**: Hasta 6+ aptitudes de familiar
-3. **Aura del patrón**: [Presencia del Patrón]({{ '/clases/brujo/dotes/#presencia-del-patron' | relative_url }})
-4. **Drenaje**: [Reclamación del Patrón]({{ '/clases/brujo/dotes/#reclamacion-del-patron' | relative_url }})
+3. **Aura del patrón**: [Presencia del Patrón](/dotes/brujo/presencia-del-patron/)
+4. **Drenaje**: [Reclamación del Patrón](/dotes/brujo/reclamacion-del-patron/)
 
 ### Aptitudes de Familiar Recomendadas
 **De Amo:**
@@ -101,21 +101,21 @@ El Brujo del Familiar maximiza el poder de su compañero:
 - Percepción aumentada: Sentidos especiales
 
 ### Ataques del Familiar
-**[Familiar Espiritual]({{ '/clases/brujo/dotes/#familiar-espiritual' | relative_url }}) (Divino/Ocultista):**
+**[Familiar Espiritual](/dotes/brujo/familiar-espiritual/) (Divino/Ocultista):**
 - 6d6 daño espiritual (Voluntad)
 - Cura aliado = mitad del daño
 - Escala +2d6 cada 2 niveles
 
-**[Familiar Hilvanado]({{ '/clases/brujo/dotes/#familiar-hilvanado' | relative_url }}) (Arcano/Primigenio):**
+**[Familiar Hilvanado](/dotes/brujo/familiar-hilvanado/) (Arcano/Primigenio):**
 - 6d6 daño cortante (Reflejos)
 - Inmoviliza en fallo
 - Escala +2d6 cada 2 niveles
 
 ### Secuencia de Combate
-1. Familiar usa [Mudar Espíritu]({{ '/clases/brujo/dotes/#familiar-espiritual' | relative_url }}) o [Golpe Hilvanado]({{ '/clases/brujo/dotes/#familiar-hilvanado' | relative_url }})
-2. Lanza maleficios + [Risa Estridente]({{ '/clases/brujo/dotes/#risa-estridente' | relative_url }})
-3. [Presencia del Patrón]({{ '/clases/brujo/dotes/#presencia-del-patron' | relative_url }}) para control
-4. [Reclamación del Patrón]({{ '/clases/brujo/dotes/#reclamacion-del-patron' | relative_url }}) para burst + recuperación
+1. Familiar usa [Mudar Espíritu](/dotes/brujo/familiar-espiritual/) o [Golpe Hilvanado](/dotes/brujo/familiar-hilvanado/)
+2. Lanza maleficios + [Risa Estridente](/dotes/brujo/risa-estridente/)
+3. [Presencia del Patrón](/dotes/brujo/presencia-del-patron/) para control
+4. [Reclamación del Patrón](/dotes/brujo/reclamacion-del-patron/) para burst + recuperación
 
 ### Fortalezas
 - Familiar como segunda fuente de daño

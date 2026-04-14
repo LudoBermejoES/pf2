@@ -54,23 +54,23 @@ adventure_path: Kingmaker
 ## Progresión de Dotes
 
 ### Nivel 1
-- [Simplicidad Mortal]({{ '/clases/clerigo/dotes/#simplicidad-mortal' | relative_url }}) ✓ — Incrementa el dado de daño del arco largo
+- [Simplicidad Mortal](/dotes/clerigo/simplicidad-mortal/) ✓ — Incrementa el dado de daño del arco largo
 
 ### Nivel 2
-- [Armadura del Sacerdote de Guerra]({{ '/clases/clerigo/dotes/#armadura-del-sacerdote-de-guerra' | relative_url }}) ✓ — Competencia en armadura pesada
+- [Armadura del Sacerdote de Guerra](/dotes/clerigo/armadura-del-sacerdote-de-guerra/) ✓ — Competencia en armadura pesada
 
 ### Nivel 4
-- [Canalizar Castigo]({{ '/clases/clerigo/dotes/#canalizar-castigo' | relative_url }}) ✓ — Combina un Golpe con curar/dañar
+- [Canalizar Castigo](/dotes/clerigo/canalizar-castigo/) ✓ — Combina un Golpe con curar/dañar
 
 ### Nivel 6
-- [Energía Selectiva]({{ '/clases/clerigo/dotes/#energia-selectiva' | relative_url }}) ✓ — Excluye aliados de tus conjuros de área
-- [Arma Divina]({{ '/clases/clerigo/dotes/#arma-divina' | relative_url }}) ✓ — Daño espiritual adicional tras lanzar conjuros
+- [Energía Selectiva](/dotes/clerigo/energia-selectiva/) ✓ — Excluye aliados de tus conjuros de área
+- [Arma Divina](/dotes/clerigo/arma-divina/) ✓ — Daño espiritual adicional tras lanzar conjuros
 
 ### Nivel 8
-- [Santificar Armamento]({{ '/clases/clerigo/dotes/#santificar-armamento' | relative_url }}) ✓ — Tu arco gana el rasgo sagrado
+- [Santificar Armamento](/dotes/clerigo/santificar-armamento/) ✓ — Tu arco gana el rasgo sagrado
 
 ### Nivel 10
-- [Reabastecimiento de Guerra]({{ '/clases/clerigo/dotes/#reabastecimiento-de-guerra' | relative_url }}) ✓ — Ganas PG temporales al dañar con el arma de tu dios
+- [Reabastecimiento de Guerra](/dotes/clerigo/reabastecimiento-de-guerra/) ✓ — Ganas PG temporales al dañar con el arma de tu dios
 
 ### Arquetipo Opcional
 - **Arquetipo de Arquero** — Para mejorar aún más tus capacidades con el arco
@@ -103,7 +103,7 @@ Este clérigo combina el rol de sanador con capacidad ofensiva a distancia:
 1. **Posicionamiento**: Mantente a distancia media, donde puedas disparar y alcanzar aliados para curar
 2. **Sanación**: Usa tu Fuente Curativa para curar en área cuando varios aliados estén heridos
 3. **Daño**: Dispara con el arco largo cuando no necesites curar
-4. **Bendiciones**: Usa [Arma Divina]({{ '/clases/clerigo/dotes/#arma-divina' | relative_url }}) tras lanzar conjuros para potenciar tus flechas
+4. **Bendiciones**: Usa [Arma Divina](/dotes/clerigo/arma-divina/) tras lanzar conjuros para potenciar tus flechas
 
 ### Fortalezas
 - Sanador completo con capacidad ofensiva

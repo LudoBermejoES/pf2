@@ -53,42 +53,42 @@ adventure_path: Kingmaker
 ## Progresión de Dotes
 
 ### Nivel 1
-- [Saber Bárdico]({{ '/clases/bardo/dotes/#saber-bardico' | relative_url }}) ✓ — Recordar conocimiento sobre cualquier tema
-- [Bien Versado]({{ '/clases/bardo/dotes/#bien-versado' | relative_url }}) ✓ — Resistencia a efectos de influencia
+- [Saber Bárdico](/dotes/bardo/saber-bardico/) ✓ — Recordar conocimiento sobre cualquier tema
+- [Bien Versado](/dotes/bardo/bien-versado/) ✓ — Resistencia a efectos de influencia
 
 ### Nivel 2
-- [Estudio del Maestro del Saber]({{ '/clases/bardo/dotes/#estudio-del-maestro-del-saber' | relative_url }}) ✓ — Conjuro de composición para recordar mejor
-- [Expansión de Truco]({{ '/clases/bardo/dotes/#expansion-de-truco' | relative_url }}) ✓ — Más trucos
+- [Estudio del Maestro del Saber](/dotes/bardo/estudio-del-maestro-del-saber/) ✓ — Conjuro de composición para recordar mejor
+- [Expansión de Truco](/dotes/bardo/expansion-de-truco/) ✓ — Más trucos
 
 ### Nivel 4
-- [Himno de Reagrupamiento]({{ '/clases/bardo/dotes/#himno-de-reagrupamiento' | relative_url }}) ✓ — Protección para aliados
-- [Lectura de Combate]({{ '/clases/bardo/dotes/#lectura-de-combate' | relative_url }}) ✓ — Descubre debilidades enemigas
+- [Himno de Reagrupamiento](/dotes/bardo/himno-de-reagrupamiento/) ✓ — Protección para aliados
+- [Lectura de Combate](/dotes/bardo/lectura-de-combate/) ✓ — Descubre debilidades enemigas
 
 ### Nivel 6
-- [Conocimiento Asegurado]({{ '/clases/bardo/dotes/#conocimiento-asegurado' | relative_url }}) ✓ — Resultado garantizado en Recordar
-- [Canción de Marcha]({{ '/clases/bardo/dotes/#cancion-de-marcha' | relative_url }}) ✓ — Viajes más eficientes
+- [Conocimiento Asegurado](/dotes/bardo/conocimiento-asegurado/) ✓ — Resultado garantizado en Recordar
+- [Canción de Marcha](/dotes/bardo/cancion-de-marcha/) ✓ — Viajes más eficientes
 
 ### Nivel 8
-- [Sabelotodo]({{ '/clases/bardo/dotes/#sabelotodo' | relative_url }}) ✓ — Información adicional al recordar
-- [Visión del Alma]({{ '/clases/bardo/dotes/#vision-del-alma' | relative_url }}) ✓ — Detecta espíritus
+- [Sabelotodo](/dotes/bardo/sabelotodo/) ✓ — Información adicional al recordar
+- [Visión del Alma](/dotes/bardo/vision-del-alma/) ✓ — Detecta espíritus
 
 ### Nivel 10
-- [Oda a Ouroboros]({{ '/clases/bardo/dotes/#oda-a-ouroboros' | relative_url }}) ✓ — Evita temporalmente la muerte de aliados
-- [Sinfonía del Corazón Libre]({{ '/clases/bardo/dotes/#sinfonia-del-corazon-libre' | relative_url }}) ✓ — Protege contra estados incapacitantes
+- [Oda a Ouroboros](/dotes/bardo/oda-a-ouroboros/) ✓ — Evita temporalmente la muerte de aliados
+- [Sinfonía del Corazón Libre](/dotes/bardo/sinfonia-del-corazon-libre/) ✓ — Protege contra estados incapacitantes
 
 ### Nivel 12
-- [Conocimiento del Enigma]({{ '/clases/bardo/dotes/#conocimiento-del-enigma' | relative_url }}) ✓ — Conocimiento automático
-- [Foco Inspirativo]({{ '/clases/bardo/dotes/#foco-inspirativo' | relative_url }}) ✓ — Recupera todos los Puntos de Foco
+- [Conocimiento del Enigma](/dotes/bardo/conocimiento-del-enigma/) ✓ — Conocimiento automático
+- [Foco Inspirativo](/dotes/bardo/foco-inspirativo/) ✓ — Recupera todos los Puntos de Foco
 
 ### Nivel 14
-- [Hipercognición Verdadera]({{ '/clases/bardo/dotes/#hipercognicion-verdadera' | relative_url }}) ✓ — 5 acciones de Recordar instantáneas
-- [Balada Tranquilizadora]({{ '/clases/bardo/dotes/#balada-tranquilizadora' | relative_url }}) ✓ — Curación con interpretación
+- [Hipercognición Verdadera](/dotes/bardo/hipercognicion-verdadera/) ✓ — 5 acciones de Recordar instantáneas
+- [Balada Tranquilizadora](/dotes/bardo/balada-tranquilizadora/) ✓ — Curación con interpretación
 
 ### Nivel 16
-- [Capacidad Estudiosa]({{ '/clases/bardo/dotes/#capacidad-estudiosa' | relative_url }}) ✓ — Lanza conjuro extra sin espacios
+- [Capacidad Estudiosa](/dotes/bardo/capacidad-estudiosa/) ✓ — Lanza conjuro extra sin espacios
 
 ### Nivel 18
-- [Saber Profundo]({{ '/clases/bardo/dotes/#saber-profundo' | relative_url }}) ✓ — Un conjuro extra por rango
+- [Saber Profundo](/dotes/bardo/saber-profundo/) ✓ — Un conjuro extra por rango
 
 ---
 
@@ -102,9 +102,9 @@ La musa enigma te conecta con el conocimiento oculto y los secretos del universo
 
 El Cronista del Reino combina apoyo con conocimiento enciclopédico:
 
-1. **Información**: [Saber Bárdico]({{ '/clases/bardo/dotes/#saber-bardico' | relative_url }}) + [Conocimiento Asegurado]({{ '/clases/bardo/dotes/#conocimiento-asegurado' | relative_url }}) para saber todo
+1. **Información**: [Saber Bárdico](/dotes/bardo/saber-bardico/) + [Conocimiento Asegurado](/dotes/bardo/conocimiento-asegurado/) para saber todo
 2. **Apoyo**: Composiciones para beneficiar al grupo
-3. **Protección**: [Himno de Reagrupamiento]({{ '/clases/bardo/dotes/#himno-de-reagrupamiento' | relative_url }}) y [Sinfonía del Corazón Libre]({{ '/clases/bardo/dotes/#sinfonia-del-corazon-libre' | relative_url }})
+3. **Protección**: [Himno de Reagrupamiento](/dotes/bardo/himno-de-reagrupamiento/) y [Sinfonía del Corazón Libre](/dotes/bardo/sinfonia-del-corazon-libre/)
 4. **Diplomacia**: Carisma alto para negociaciones del reino
 
 ### Composiciones Sugeridas
@@ -115,7 +115,7 @@ El Cronista del Reino combina apoyo con conocimiento enciclopédico:
 - **Oda a ouroboros**: Evita muertes
 
 ### Secuencia de Combate
-1. [Lectura de Combate]({{ '/clases/bardo/dotes/#lectura-de-combate' | relative_url }}) para identificar debilidades
+1. [Lectura de Combate](/dotes/bardo/lectura-de-combate/) para identificar debilidades
 2. Himno valeroso o reagrupamiento según necesidad
 3. Conjuros de apoyo o control
 4. Mantener composiciones activas

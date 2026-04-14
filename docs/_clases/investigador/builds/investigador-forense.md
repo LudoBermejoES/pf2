@@ -38,48 +38,48 @@ adventure_path: null
 ## Progresión de Dotes
 
 ### Nivel 1
-- [Debilidades Conocidas]({{ '/clases/investigador/dotes/#debilidades-conocidas' | relative_url }}) ✓ — +1 ataque aliados en crítico de Recordar
-- [Buscador de Trampas]({{ '/clases/investigador/dotes/#buscador-de-trampas' | relative_url }}) ✓ — +1 vs trampas
+- [Debilidades Conocidas](/dotes/investigador/debilidades-conocidas/) ✓ — +1 ataque aliados en crítico de Recordar
+- [Buscador de Trampas](/dotes/investigador/buscador-de-trampas/) ✓ — +1 vs trampas
 
 ### Nivel 2
-- [Estratagema Certera]({{ '/clases/investigador/dotes/#estratagema-certera' | relative_url }}) ✓ — Mitad de daño en fallo
-- [Explotar Error]({{ '/clases/investigador/dotes/#explotar-error' | relative_url }}) ✓ — Paso cuando enemigo falla
+- [Estratagema Certera](/dotes/investigador/estratagema-certera/) ✓ — Mitad de daño en fallo
+- [Explotar Error](/dotes/investigador/explotar-error/) ✓ — Paso cuando enemigo falla
 
 ### Nivel 4
-- [Punta del Escalpelo]({{ '/clases/investigador/dotes/#punta-del-escalpelo' | relative_url }}) ✓ — 1d6 sangrado en crítico
-- [Evaluación Estratégica]({{ '/clases/investigador/dotes/#evaluacion-estrategica' | relative_url }}) ✓ — Aprende debilidades/resistencias
+- [Punta del Escalpelo](/dotes/investigador/punta-del-escalpelo/) ✓ — 1d6 sangrado en crítico
+- [Evaluación Estratégica](/dotes/investigador/evaluacion-estrategica/) ✓ — Aprende debilidades/resistencias
 
 ### Nivel 6
-- [Conectar los Puntos]({{ '/clases/investigador/dotes/#conectar-los-puntos' | relative_url }}) ✓ — Bonificador a aliado
-- [Investigación Exhaustiva]({{ '/clases/investigador/dotes/#investigacion-exhaustiva' | relative_url }}) ✓ — Info adicional
+- [Conectar los Puntos](/dotes/investigador/conectar-los-puntos/) ✓ — Bonificador a aliado
+- [Investigación Exhaustiva](/dotes/investigador/investigacion-exhaustiva/) ✓ — Info adicional
 
 ### Nivel 8
-- [Estratagema Defensiva]({{ '/clases/investigador/dotes/#estratagema-defensiva' | relative_url }}) ✓ — +1 defensas vs objetivo
-- [Pelear a Ciegas]({{ '/clases/investigador/dotes/#pelear-a-ciegas' | relative_url }}) ✓ — Vs ocultos/escondidos
+- [Estratagema Defensiva](/dotes/investigador/estratagema-defensiva/) ✓ — +1 defensas vs objetivo
+- [Pelear a Ciegas](/dotes/investigador/pelear-a-ciegas/) ✓ — Vs ocultos/escondidos
 
 ### Nivel 10
-- [Estrategia Continua]({{ '/clases/investigador/dotes/#estrategia-continua' | relative_url }}) ✓ — Daño de precisión siempre
-- [Sospechoso de Oportunidad]({{ '/clases/investigador/dotes/#sospechoso-de-oportunidad' | relative_url }}) ✓ — Estratagema reactiva
+- [Estrategia Continua](/dotes/investigador/estrategia-continua/) ✓ — Daño de precisión siempre
+- [Sospechoso de Oportunidad](/dotes/investigador/sospechoso-de-oportunidad/) ✓ — Estratagema reactiva
 
 ### Nivel 12
-- [Shock Quirúrgico]({{ '/clases/investigador/dotes/#shock-quirurgico' | relative_url }}) ✓ — Torpe/estupefacto con Medicina
-- [Tal Como lo Planeé]({{ '/clases/investigador/dotes/#tal-como-lo-planee' | relative_url }}) ✓ — Doble tirada en estratagema
+- [Shock Quirúrgico](/dotes/investigador/shock-quirurgico/) ✓ — Torpe/estupefacto con Medicina
+- [Tal Como lo Planeé](/dotes/investigador/tal-como-lo-planee/) ✓ — Doble tirada en estratagema
 
 ### Nivel 14
-- [Derivación Estratégica]({{ '/clases/investigador/dotes/#derivacion-estrategica' | relative_url }}) ✓ — Ignora resistencias
-- [Sentir lo Invisible]({{ '/clases/investigador/dotes/#sentir-lo-invisible' | relative_url }}) ✓ — Detecta invisibles
+- [Derivación Estratégica](/dotes/investigador/derivacion-estrategica/) ✓ — Ignora resistencias
+- [Sentir lo Invisible](/dotes/investigador/sentir-lo-invisible/) ✓ — Detecta invisibles
 
 ### Nivel 16
-- [Golpe Didáctico]({{ '/clases/investigador/dotes/#golpe-didactico' | relative_url }}) ✓ — Aliados + precisión extra
-- [Reconstruir la Escena]({{ '/clases/investigador/dotes/#reconstruir-la-escena' | relative_url }}) ✓ — Ve eventos pasados
+- [Golpe Didáctico](/dotes/investigador/golpe-didactico/) ✓ — Aliados + precisión extra
+- [Reconstruir la Escena](/dotes/investigador/reconstruir-la-escena/) ✓ — Ve eventos pasados
 
 ### Nivel 18
-- [Investigador Principal]({{ '/clases/investigador/dotes/#investigador-principal' | relative_url }}) ✓ — Aliados ganan bonificador
-- [As del Tramposo]({{ '/clases/investigador/dotes/#as-del-tramposo' | relative_url }}) ✓ — Contingencia
+- [Investigador Principal](/dotes/investigador/investigador-principal/) ✓ — Aliados ganan bonificador
+- [As del Tramposo](/dotes/investigador/as-del-tramposo/) ✓ — Contingencia
 
 ### Nivel 20
-- [Todos Son Sospechosos]({{ '/clases/investigador/dotes/#todos-son-sospechosos' | relative_url }}) ✓ — Sigue pista automática a todos
-- [Solo los Hechos]({{ '/clases/investigador/dotes/#solo-los-hechos' | relative_url }}) ✓ — Acelerado + Recordar perfecto
+- [Todos Son Sospechosos](/dotes/investigador/todos-son-sospechosos/) ✓ — Sigue pista automática a todos
+- [Solo los Hechos](/dotes/investigador/solo-los-hechos/) ✓ — Acelerado + Recordar perfecto
 
 ---
 
@@ -87,10 +87,10 @@ adventure_path: null
 
 El Investigador Forense maximiza daño de precisión:
 
-1. **Sangrado**: [Punta del Escalpelo]({{ '/clases/investigador/dotes/#punta-del-escalpelo' | relative_url }}) en críticos
-2. **Debilitación**: [Shock Quirúrgico]({{ '/clases/investigador/dotes/#shock-quirurgico' | relative_url }}) con Medicina
-3. **Conocimiento**: [Evaluación Estratégica]({{ '/clases/investigador/dotes/#evaluacion-estrategica' | relative_url }}) revela debilidades
-4. **Daño sostenido**: [Estrategia Continua]({{ '/clases/investigador/dotes/#estrategia-continua' | relative_url }})
+1. **Sangrado**: [Punta del Escalpelo](/dotes/investigador/punta-del-escalpelo/) en críticos
+2. **Debilitación**: [Shock Quirúrgico](/dotes/investigador/shock-quirurgico/) con Medicina
+3. **Conocimiento**: [Evaluación Estratégica](/dotes/investigador/evaluacion-estrategica/) revela debilidades
+4. **Daño sostenido**: [Estrategia Continua](/dotes/investigador/estrategia-continua/)
 
 ### Beneficio de Metodología
 Medicina Forense permite:
@@ -111,10 +111,10 @@ Medicina Forense permite:
 | Fallo crítico | Provoca reacciones |
 
 ### Secuencia de Combate
-1. [Idear Estratagema]({{ '/clases/investigador/dotes/#idear-una-estratagema' | relative_url }})
+1. [Idear Estratagema](/dotes/investigador/idear-una-estratagema/)
 2. Golpe buscando crítico para sangrado
-3. [Shock Quirúrgico]({{ '/clases/investigador/dotes/#shock-quirurgico' | relative_url }}) para debilitar
-4. Repite con [Estrategia Continua]({{ '/clases/investigador/dotes/#estrategia-continua' | relative_url }})
+3. [Shock Quirúrgico](/dotes/investigador/shock-quirurgico/) para debilitar
+4. Repite con [Estrategia Continua](/dotes/investigador/estrategia-continua/)
 
 ### Fortalezas
 - Daño sostenido con sangrado
@@ -124,7 +124,7 @@ Medicina Forense permite:
 
 ### Debilidades
 - Necesita críticos para sangrado
-- [Shock Quirúrgico]({{ '/clases/investigador/dotes/#shock-quirurgico' | relative_url }}) usa acción
+- [Shock Quirúrgico](/dotes/investigador/shock-quirurgico/) usa acción
 - Menos versátil fuera de combate
 
 ---

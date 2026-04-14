@@ -39,42 +39,42 @@ adventure_path: null
 ## Progresión de Dotes
 
 ### Nivel 1
-- [Tiro Cazado]({{ '/clases/explorador/dotes/#tiro-cazado' | relative_url }}) ✓ — Dos disparos que combinan daño contra resistencias
+- [Tiro Cazado](/dotes/explorador/tiro-cazado/) ✓ — Dos disparos que combinan daño contra resistencias
 
 ### Nivel 2
-- [Puntería del Cazador]({{ '/clases/explorador/dotes/#punteria-del-cazador' | relative_url }}) ✓ — +2 ataque, ignora oculto y cobertura menor
+- [Puntería del Cazador](/dotes/explorador/punteria-del-cazador/) ✓ — +2 ataque, ignora oculto y cobertura menor
 
 ### Nivel 4
-- [Disparo a Larga Distancia]({{ '/clases/explorador/dotes/#disparo-a-larga-distancia' | relative_url }}) ✓ — Dobla incrementos de rango
-- [Aviso del Batidor]({{ '/clases/explorador/dotes/#aviso-del-batidor' | relative_url }}) ✓ — +1 iniciativa aliados
+- [Disparo a Larga Distancia](/dotes/explorador/disparo-a-larga-distancia/) ✓ — Dobla incrementos de rango
+- [Aviso del Batidor](/dotes/explorador/aviso-del-batidor/) ✓ — +1 iniciativa aliados
 
 ### Nivel 6
-- [Disparo Instantáneo]({{ '/clases/explorador/dotes/#disparo-instantaneo' | relative_url }}) ✓ — Usa reacciones de cuerpo a cuerpo con arco a distancia corta
+- [Disparo Instantáneo](/dotes/explorador/disparo-instantaneo/) ✓ — Usa reacciones de cuerpo a cuerpo con arco a distancia corta
 
 ### Nivel 8
-- [Puntería Mortal]({{ '/clases/explorador/dotes/#punteria-mortal' | relative_url }}) ✓ — -2 ataque, +4 a +8 daño contra presa
+- [Puntería Mortal](/dotes/explorador/punteria-mortal/) ✓ — -2 ataque, +4 a +8 daño contra presa
 
 ### Nivel 10
-- [Disparo Perforante]({{ '/clases/explorador/dotes/#disparo-perforante' | relative_url }}) ✓ — Atraviesa una criatura para golpear a tu presa
-- [Camuflaje]({{ '/clases/explorador/dotes/#camuflaje' | relative_url }}) ✓ — Escóndete sin cobertura en terreno natural
+- [Disparo Perforante](/dotes/explorador/disparo-perforante/) ✓ — Atraviesa una criatura para golpear a tu presa
+- [Camuflaje](/dotes/explorador/camuflaje/) ✓ — Escóndete sin cobertura en terreno natural
 
 ### Nivel 12
-- [Tiro de Distracción]({{ '/clases/explorador/dotes/#tiro-de-distraccion' | relative_url }}) ✓ — Impactos dejan a la presa desprevenida
+- [Tiro de Distracción](/dotes/explorador/tiro-de-distraccion/) ✓ — Impactos dejan a la presa desprevenida
 
 ### Nivel 16
-- [Tiro de Distracción Mayor]({{ '/clases/explorador/dotes/#tiro-de-distraccion-mayor' | relative_url }}) ✓ — Un solo impacto deja desprevenida
+- [Tiro de Distracción Mayor](/dotes/explorador/tiro-de-distraccion-mayor/) ✓ — Un solo impacto deja desprevenida
 
 ### Nivel 18
-- [Disparo Perfecto]({{ '/clases/explorador/dotes/#disparo-perfecto' | relative_url }}) ✓ — Daño máximo contra tu presa
+- [Disparo Perfecto](/dotes/explorador/disparo-perfecto/) ✓ — Daño máximo contra tu presa
 
 ### Nivel 20
-- [Tiro Legendario]({{ '/clases/explorador/dotes/#tiro-legendario' | relative_url }}) ✓ — Ignora penalizador hasta 5 incrementos de rango
+- [Tiro Legendario](/dotes/explorador/tiro-legendario/) ✓ — Ignora penalizador hasta 5 incrementos de rango
 
 ---
 
 ## Ventaja del Cazador: Precisión
 
-La ventaja de Precisión añade 1d8 (escalando a 2d8 y 3d8) de daño de precisión a tu primer Golpe contra tu presa cada turno. Esto es devastador combinado con [Puntería Mortal]({{ '/clases/explorador/dotes/#punteria-mortal' | relative_url }}).
+La ventaja de Precisión añade 1d8 (escalando a 2d8 y 3d8) de daño de precisión a tu primer Golpe contra tu presa cada turno. Esto es devastador combinado con [Puntería Mortal](/dotes/explorador/punteria-mortal/).
 
 ---
 
@@ -82,21 +82,21 @@ La ventaja de Precisión añade 1d8 (escalando a 2d8 y 3d8) de daño de precisi�
 
 El Arquero de Precisión es un francotirador devastador:
 
-1. **Posición**: Mantente a distancia máxima con [Disparo a Larga Distancia]({{ '/clases/explorador/dotes/#disparo-a-larga-distancia' | relative_url }})
+1. **Posición**: Mantente a distancia máxima con [Disparo a Larga Distancia](/dotes/explorador/disparo-a-larga-distancia/)
 2. **Perseguir presa**: Siempre activa contra el enemigo más peligroso
-3. **Daño concentrado**: [Puntería del Cazador]({{ '/clases/explorador/dotes/#punteria-del-cazador' | relative_url }}) → [Puntería Mortal]({{ '/clases/explorador/dotes/#punteria-mortal' | relative_url }}) → Precisión
-4. **Cierre**: [Disparo Perfecto]({{ '/clases/explorador/dotes/#disparo-perfecto' | relative_url }}) para daño máximo
+3. **Daño concentrado**: [Puntería del Cazador](/dotes/explorador/punteria-del-cazador/) → [Puntería Mortal](/dotes/explorador/punteria-mortal/) → Precisión
+4. **Cierre**: [Disparo Perfecto](/dotes/explorador/disparo-perfecto/) para daño máximo
 
 ### Secuencia Óptima
-1. Turno 1: Perseguir presa → [Puntería del Cazador]({{ '/clases/explorador/dotes/#punteria-del-cazador' | relative_url }}) (si no tienes línea clara)
-2. Turno 2+: [Puntería Mortal]({{ '/clases/explorador/dotes/#punteria-mortal' | relative_url }}) → Segundo disparo
-3. Final: [Disparo Perfecto]({{ '/clases/explorador/dotes/#disparo-perfecto' | relative_url }}) para rematar
+1. Turno 1: Perseguir presa → [Puntería del Cazador](/dotes/explorador/punteria-del-cazador/) (si no tienes línea clara)
+2. Turno 2+: [Puntería Mortal](/dotes/explorador/punteria-mortal/) → Segundo disparo
+3. Final: [Disparo Perfecto](/dotes/explorador/disparo-perfecto/) para rematar
 
 ### Fortalezas
 - Daño a distancia excepcional
 - Puede disparar desde muy lejos
 - Ignora muchas desventajas (oculto, cobertura)
-- [Disparo Perfecto]({{ '/clases/explorador/dotes/#disparo-perfecto' | relative_url }}) es devastador
+- [Disparo Perfecto](/dotes/explorador/disparo-perfecto/) es devastador
 
 ### Debilidades
 - Vulnerable en cuerpo a cuerpo

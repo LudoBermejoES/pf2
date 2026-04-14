@@ -38,47 +38,47 @@ adventure_path: null
 ## Progresión de Dotes
 
 ### Nivel 1
-- [Caída en Picado]({{ '/clases/espadachin/dotes/#caida-en-picado' | relative_url }}) ✓ — Aterriza sin daño + Zancada
-- [Esquiva Llamativa]({{ '/clases/espadachin/dotes/#esquiva-llamativa' | relative_url }}) ✓ — +2 CA + panache
+- [Caída en Picado](/dotes/espadachin/caida-en-picado/) ✓ — Aterriza sin daño + Zancada
+- [Esquiva Llamativa](/dotes/espadachin/esquiva-llamativa/) ✓ — +2 CA + panache
 
 ### Nivel 2
-- [Rodar Detrás]({{ '/clases/espadachin/dotes/#rodar-detras' | relative_url }}) ✓ — Enemigo desprevenido tras Rodar
-- [Remate Desequilibrante]({{ '/clases/espadachin/dotes/#remate-desequilibrante' | relative_url }}) ✓ — Objetivo desprevenido tras golpe
+- [Rodar Detrás](/dotes/espadachin/rodar-detras/) ✓ — Enemigo desprevenido tras Rodar
+- [Remate Desequilibrante](/dotes/espadachin/remate-desequilibrante/) ✓ — Objetivo desprevenido tras golpe
 
 ### Nivel 4
-- [Atleta Extravagante]({{ '/clases/espadachin/dotes/#atleta-extravagante' | relative_url }}) ✓ — Trepar/Nadar + mejores saltos
-- [Equilibrar las Probabilidades]({{ '/clases/espadachin/dotes/#equilibrar-las-probabilidades' | relative_url }}) ✓ — Panache cuando te flanquean
+- [Atleta Extravagante](/dotes/espadachin/atleta-extravagante/) ✓ — Trepar/Nadar + mejores saltos
+- [Equilibrar las Probabilidades](/dotes/espadachin/equilibrar-las-probabilidades/) ✓ — Panache cuando te flanquean
 
 ### Nivel 6
-- [Voltereta Vejatoria]({{ '/clases/espadachin/dotes/#voltereta-vejatoria' | relative_url }}) ✓ — Evita reacciones + desprevenido
-- [Combinación de Remate]({{ '/clases/espadachin/dotes/#combinacion-de-remate' | relative_url }}) ✓ — Menor penalizador
+- [Voltereta Vejatoria](/dotes/espadachin/voltereta-vejatoria/) ✓ — Evita reacciones + desprevenido
+- [Combinación de Remate](/dotes/espadachin/combinacion-de-remate/) ✓ — Menor penalizador
 
 ### Nivel 8
-- [Rodar Llamativo]({{ '/clases/espadachin/dotes/#rodar-llamativo' | relative_url }}) ✓ — Zancada 10 pies con esquiva/salvación
-- [Doble Remate]({{ '/clases/espadachin/dotes/#doble-remate' | relative_url }}) ✓ — Dos golpes, dos enemigos
+- [Rodar Llamativo](/dotes/espadachin/rodar-llamativo/) ✓ — Zancada 10 pies con esquiva/salvación
+- [Doble Remate](/dotes/espadachin/doble-remate/) ✓ — Dos golpes, dos enemigos
 
 ### Nivel 10
-- [Derring-Do]({{ '/clases/espadachin/dotes/#derring-do' | relative_url }}) ✓ — Doble tirada con panache
-- [Remate Tropezante]({{ '/clases/espadachin/dotes/#remate-tropezante' | relative_url }}) ✓ — Empuja enemigos
+- [Derring-Do](/dotes/espadachin/derring-do/) ✓ — Doble tirada con panache
+- [Remate Tropezante](/dotes/espadachin/remate-tropezante/) ✓ — Empuja enemigos
 
 ### Nivel 12
-- [Cuanto Más Grandes Son]({{ '/clases/espadachin/dotes/#cuanto-mas-grandes-son' | relative_url }}) ✓ — Rueda a través de enemigos grandes
-- [Remate Móvil]({{ '/clases/espadachin/dotes/#remate-movil' | relative_url }}) ✓ — Zancada + Golpe
+- [Cuanto Más Grandes Son](/dotes/espadachin/cuanto-mas-grandes-son/) ✓ — Rueda a través de enemigos grandes
+- [Remate Móvil](/dotes/espadachin/remate-movil/) ✓ — Zancada + Golpe
 
 ### Nivel 14
-- [Salto Extravagante]({{ '/clases/espadachin/dotes/#salto-extravagante' | relative_url }}) ✓ — Salta + remate en el aire
-- [Remate Perfecto]({{ '/clases/espadachin/dotes/#remate-perfecto' | relative_url }}) ✓ — Doble tirada de ataque
+- [Salto Extravagante](/dotes/espadachin/salto-extravagante/) ✓ — Salta + remate en el aire
+- [Remate Perfecto](/dotes/espadachin/remate-perfecto/) ✓ — Doble tirada de ataque
 
 ### Nivel 16
-- [Gracia Mortífera]({{ '/clases/espadachin/dotes/#gracia-mortifera' | relative_url }}) ✓ — Duplica dados mortales
-- [Remate Revitalizante]({{ '/clases/espadachin/dotes/#remate-revitalizante' | relative_url }}) ✓ — PG temporales para ti y aliados
+- [Gracia Mortífera](/dotes/espadachin/gracia-mortifera/) ✓ — Duplica dados mortales
+- [Remate Revitalizante](/dotes/espadachin/remate-revitalizante/) ✓ — PG temporales para ti y aliados
 
 ### Nivel 18
-- [Remate Letal]({{ '/clases/espadachin/dotes/#remate-letal' | relative_url }}) ✓ — Daño masivo en órgano vital
+- [Remate Letal](/dotes/espadachin/remate-letal/) ✓ — Daño masivo en órgano vital
 
 ### Nivel 20
-- [Paragona del Panache]({{ '/clases/espadachin/dotes/#paragona-del-panache' | relative_url }}) ✓ — Permanentemente acelerado
-- [Remate Ilimitado]({{ '/clases/espadachin/dotes/#remate-ilimitado' | relative_url }}) ✓ — Encadena remates
+- [Paragona del Panache](/dotes/espadachin/paragona-del-panache/) ✓ — Permanentemente acelerado
+- [Remate Ilimitado](/dotes/espadachin/remate-ilimitado/) ✓ — Encadena remates
 
 ---
 
@@ -87,15 +87,15 @@ adventure_path: null
 El Espadachín Acróbata domina el movimiento:
 
 1. **Rodar a través**: Pasa entre enemigos ganando ventaja
-2. **Saltos imposibles**: [Atleta Extravagante]({{ '/clases/espadachin/dotes/#atleta-extravagante' | relative_url }}) + [Salto Extravagante]({{ '/clases/espadachin/dotes/#salto-extravagante' | relative_url }})
-3. **Flanqueo fácil**: [Rodar Detrás]({{ '/clases/espadachin/dotes/#rodar-detras' | relative_url }}) + [Voltereta Vejatoria]({{ '/clases/espadachin/dotes/#voltereta-vejatoria' | relative_url }})
+2. **Saltos imposibles**: [Atleta Extravagante](/dotes/espadachin/atleta-extravagante/) + [Salto Extravagante](/dotes/espadachin/salto-extravagante/)
+3. **Flanqueo fácil**: [Rodar Detrás](/dotes/espadachin/rodar-detras/) + [Voltereta Vejatoria](/dotes/espadachin/voltereta-vejatoria/)
 4. **Evasión**: Evita reacciones y escapa fácilmente
 
 ### Secuencia de Combate
-1. [Voltereta Vejatoria]({{ '/clases/espadachin/dotes/#voltereta-vejatoria' | relative_url }}) a través del enemigo
-2. Enemigo desprevenido por [Rodar Detrás]({{ '/clases/espadachin/dotes/#rodar-detras' | relative_url }})
+1. [Voltereta Vejatoria](/dotes/espadachin/voltereta-vejatoria/) a través del enemigo
+2. Enemigo desprevenido por [Rodar Detrás](/dotes/espadachin/rodar-detras/)
 3. Remate con panache + golpe preciso
-4. [Remate Móvil]({{ '/clases/espadachin/dotes/#remate-movil' | relative_url }}) para reposicionarte
+4. [Remate Móvil](/dotes/espadachin/remate-movil/) para reposicionarte
 
 ### Con Panache
 - Velocidades de escalar y nadar = mitad de Velocidad

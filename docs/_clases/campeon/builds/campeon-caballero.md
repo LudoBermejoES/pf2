@@ -39,42 +39,42 @@ adventure_path: null
 ## Progresión de Dotes
 
 ### Nivel 1
-- [Corcel Fiel]({{ '/clases/campeon/dotes/#corcel-fiel' | relative_url }}) ✓ — Obtén compañero animal como montura
-- [Destello Brillante]({{ '/clases/campeon/dotes/#destello-brillante' | relative_url }}) ✓ — Atacante queda desprevenido
+- [Corcel Fiel](/dotes/campeon/corcel-fiel/) ✓ — Obtén compañero animal como montura
+- [Destello Brillante](/dotes/campeon/destello-brillante/) ✓ — Atacante queda desprevenido
 
 ### Nivel 2
-- [Gracia Divina]({{ '/clases/campeon/dotes/#gracia-divina' | relative_url }}) ✓ — +2 a salvaciones contra conjuros
+- [Gracia Divina](/dotes/campeon/gracia-divina/) ✓ — +2 a salvaciones contra conjuros
 
 ### Nivel 4
-- [Aura de Coraje]({{ '/clases/campeon/dotes/#aura-de-coraje' | relative_url }}) ✓ — Reduce miedo del grupo
-- [Clemencia]({{ '/clases/campeon/dotes/#clemencia' | relative_url }}) ✓ — Cura condiciones
+- [Aura de Coraje](/dotes/campeon/aura-de-coraje/) ✓ — Reduce miedo del grupo
+- [Clemencia](/dotes/campeon/clemencia/) ✓ — Cura condiciones
 
 ### Nivel 6
-- [Caballo de Guerra Leal]({{ '/clases/campeon/dotes/#caballo-de-guerra-leal' | relative_url }}) ✓ — Montura madura, nunca te ataca
-- [Castigar]({{ '/clases/campeon/dotes/#castigar' | relative_url }}) ✓ — +3/+4 daño contra objetivo
+- [Caballo de Guerra Leal](/dotes/campeon/caballo-de-guerra-leal/) ✓ — Montura madura, nunca te ataca
+- [Castigar](/dotes/campeon/castigar/) ✓ — +3/+4 daño contra objetivo
 
 ### Nivel 8
-- [Sanar Montura]({{ '/clases/campeon/dotes/#sanar-montura' | relative_url }}) ✓ — Curación mejorada para montura
+- [Sanar Montura](/dotes/campeon/sanar-montura/) ✓ — Curación mejorada para montura
 
 ### Nivel 10
-- [Corcel Imponente]({{ '/clases/campeon/dotes/#corcel-imponente' | relative_url }}) ✓ — Montura ágil o salvaje
+- [Corcel Imponente](/dotes/campeon/corcel-imponente/) ✓ — Montura ágil o salvaje
 
 ### Nivel 12
-- [Enfoque Devoto]({{ '/clases/campeon/dotes/#enfoque-devoto' | relative_url }}) ✓ — Recupera todos los Puntos de Foco
-- [Aura de Fe]({{ '/clases/campeon/dotes/#aura-de-fe' | relative_url }}) ✓ — Aliados añaden rasgo extrasagrado
+- [Enfoque Devoto](/dotes/campeon/enfoque-devoto/) ✓ — Recupera todos los Puntos de Foco
+- [Aura de Fe](/dotes/campeon/aura-de-fe/) ✓ — Aliados añaden rasgo extrasagrado
 
 ### Nivel 14
-- [Aura de Vida]({{ '/clases/campeon/dotes/#aura-de-vida' | relative_url }}) ✓ — Resistencia a daño de vacío
-- [Reflejos Divinos]({{ '/clases/campeon/dotes/#reflejos-divinos' | relative_url }}) ✓ — Reacción adicional
+- [Aura de Vida](/dotes/campeon/aura-de-vida/) ✓ — Resistencia a daño de vacío
+- [Reflejos Divinos](/dotes/campeon/reflejos-divinos/) ✓ — Reacción adicional
 
 ### Nivel 16
-- [Montura Auspiciosa]({{ '/clases/campeon/dotes/#montura-auspiciosa' | relative_url }}) ✓ — Montura celestial/infernal con vuelo
+- [Montura Auspiciosa](/dotes/campeon/montura-auspiciosa/) ✓ — Montura celestial/infernal con vuelo
 
 ### Nivel 18
-- [Retribución Veloz]({{ '/clases/campeon/dotes/#retribucion-veloz' | relative_url }}) ✓ — Acelerado tras reacción
+- [Retribución Veloz](/dotes/campeon/retribucion-veloz/) ✓ — Acelerado tras reacción
 
 ### Nivel 20
-- [Dechado de Rapidez]({{ '/clases/campeon/dotes/#dechado-de-rapidez' | relative_url }}) ✓ — Movimiento no provoca, acelerado permanente
+- [Dechado de Rapidez](/dotes/campeon/dechado-de-rapidez/) ✓ — Movimiento no provoca, acelerado permanente
 
 ---
 
@@ -89,8 +89,8 @@ La causa de Grandeza te da Destello de Grandeza como reacción. Cuando un aliado
 El Caballero Montado combina movilidad con protección:
 
 1. **Movilidad superior**: Montura permite cubrir grandes distancias
-2. **Carga devastadora**: [Castigar]({{ '/clases/campeon/dotes/#castigar' | relative_url }}) + lanza de carga
-3. **Montura divina**: [Montura Auspiciosa]({{ '/clases/campeon/dotes/#montura-auspiciosa' | relative_url }}) con vuelo y rasgos celestiales
+2. **Carga devastadora**: [Castigar](/dotes/campeon/castigar/) + lanza de carga
+3. **Montura divina**: [Montura Auspiciosa](/dotes/campeon/montura-auspiciosa/) con vuelo y rasgos celestiales
 4. **Protección móvil**: Aura de campeón se mueve contigo
 
 ### Compañeros Animales Sugeridos
@@ -100,7 +100,7 @@ El Caballero Montado combina movilidad con protección:
 - **Grifo** (con Montura Auspiciosa): Vuelo
 
 ### Secuencia de Combate
-1. [Castigar]({{ '/clases/campeon/dotes/#castigar' | relative_url }}) al enemigo más peligroso
+1. [Castigar](/dotes/campeon/castigar/) al enemigo más peligroso
 2. Ordena a tu montura que cargue
 3. Golpe con lanza al final de la carga
 4. Destello de Grandeza para proteger aliados

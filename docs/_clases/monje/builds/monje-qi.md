@@ -37,48 +37,48 @@ adventure_path: null
 ## Progresión de Dotes
 
 ### Nivel 1
-- [Hechizos de Qi]({{ '/clases/monje/dotes/#hechizos-de-qi' | relative_url }}) ✓ — Base del build: conmoción interna u oleada de qi
-- [Postura del Dragón]({{ '/clases/monje/dotes/#postura-del-dragon' | relative_url }}) ✓ — Cola de dragón 1d10 + ignorar terreno difícil
+- [Hechizos de Qi](/dotes/monje/hechizos-de-qi/) ✓ — Base del build: conmoción interna u oleada de qi
+- [Postura del Dragón](/dotes/monje/postura-del-dragon/) ✓ — Cola de dragón 1d10 + ignorar terreno difícil
 
 ### Nivel 2
-- [Puño Elemental]({{ '/clases/monje/dotes/#puno-elemental' | relative_url }}) ✓ — Colorea tu qi con energía elemental
-- [Golpes Aturdidores]({{ '/clases/monje/dotes/#golpes-aturdidores' | relative_url }}) ✓ — Aturde con Ráfaga de golpes
+- [Puño Elemental](/dotes/monje/puno-elemental/) ✓ — Colorea tu qi con energía elemental
+- [Golpes Aturdidores](/dotes/monje/golpes-aturdidores/) ✓ — Aturde con Ráfaga de golpes
 
 ### Nivel 4
-- [Armonizar el Ser]({{ '/clases/monje/dotes/#armonizar-el-ser' | relative_url }}) ✓ — Hechizo de qi para autocuración
-- [Patada Voladora]({{ '/clases/monje/dotes/#patada-voladora' | relative_url }}) ✓ — Salta y golpea
+- [Armonizar el Ser](/dotes/monje/armonizar-el-ser/) ✓ — Hechizo de qi para autocuración
+- [Patada Voladora](/dotes/monje/patada-voladora/) ✓ — Salta y golpea
 
 ### Nivel 6
-- [Hechizos de Qi Avanzados]({{ '/clases/monje/dotes/#hechizos-de-qi-avanzados' | relative_url }}) ✓ — Explosión de qi o reducir la distancia
-- [Rugido del Dragón]({{ '/clases/monje/dotes/#rugido-del-dragon' | relative_url }}) ✓ — Asusta enemigos en área
-- [Alinear Qi]({{ '/clases/monje/dotes/#alinear-qi' | relative_url }}) ✓ — Cura PG al lanzar hechizo de qi
+- [Hechizos de Qi Avanzados](/dotes/monje/hechizos-de-qi-avanzados/) ✓ — Explosión de qi o reducir la distancia
+- [Rugido del Dragón](/dotes/monje/rugido-del-dragon/) ✓ — Asusta enemigos en área
+- [Alinear Qi](/dotes/monje/alinear-qi/) ✓ — Cura PG al lanzar hechizo de qi
 
 ### Nivel 8
-- [Iniciado de Vientos Salvajes]({{ '/clases/monje/dotes/#iniciado-de-vientos-salvajes' | relative_url }}) ✓ — Ataques a distancia con qi
-- [Correr por Paredes]({{ '/clases/monje/dotes/#correr-por-paredes' | relative_url }}) ✓ — Desafía la gravedad
+- [Iniciado de Vientos Salvajes](/dotes/monje/iniciado-de-vientos-salvajes/) ✓ — Ataques a distancia con qi
+- [Correr por Paredes](/dotes/monje/correr-por-paredes/) ✓ — Desafía la gravedad
 
 ### Nivel 10
-- [Salto de Viento]({{ '/clases/monje/dotes/#salto-de-viento' | relative_url }}) ✓ — Vuela mientras saltas
-- [Fluir Sinuoso]({{ '/clases/monje/dotes/#fluir-sinuoso' | relative_url }}) ✓ — Movimiento fluido
+- [Salto de Viento](/dotes/monje/salto-de-viento/) ✓ — Vuela mientras saltas
+- [Fluir Sinuoso](/dotes/monje/fluir-sinuoso/) ✓ — Movimiento fluido
 
 ### Nivel 12
-- [Concentración Meditativa]({{ '/clases/monje/dotes/#concentracion-meditativa' | relative_url }}) ✓ — Recupera todos los Puntos de Concentración
-- [Aliento Abrumador]({{ '/clases/monje/dotes/#aliento-abrumador' | relative_url }}) ✓ — Supera resistencias físicas
+- [Concentración Meditativa](/dotes/monje/concentracion-meditativa/) ✓ — Recupera todos los Puntos de Concentración
+- [Aliento Abrumador](/dotes/monje/aliento-abrumador/) ✓ — Supera resistencias físicas
 
 ### Nivel 14
-- [Ráfaga de Vientos Salvajes]({{ '/clases/monje/dotes/#rafaga-de-vientos-salvajes' | relative_url }}) ✓ — Cono o línea de golpes de viento
+- [Ráfaga de Vientos Salvajes](/dotes/monje/rafaga-de-vientos-salvajes/) ✓ — Cono o línea de golpes de viento
 
 ### Nivel 16
-- [Hechizos de Qi Maestros]({{ '/clases/monje/dotes/#hechizos-de-qi-maestros' | relative_url }}) ✓ — Ira de la medusa o toque de muerte
-- [Fusionar Posturas]({{ '/clases/monje/dotes/#fusionar-posturas' | relative_url }}) ✓ — Combina dos posturas
+- [Hechizos de Qi Maestros](/dotes/monje/hechizos-de-qi-maestros/) ✓ — Ira de la medusa o toque de muerte
+- [Fusionar Posturas](/dotes/monje/fusionar-posturas/) ✓ — Combina dos posturas
 
 ### Nivel 18
-- [Hechizos de Qi de Gran Maestro]({{ '/clases/monje/dotes/#hechizos-de-qi-de-gran-maestro' | relative_url }}) ✓ — Abrazar la nada o forma de qi
-- [Centro de Qi]({{ '/clases/monje/dotes/#centro-de-qi' | relative_url }}) ✓ — Lanza postura sin gastar Punto de Concentración
+- [Hechizos de Qi de Gran Maestro](/dotes/monje/hechizos-de-qi-de-gran-maestro/) ✓ — Abrazar la nada o forma de qi
+- [Centro de Qi](/dotes/monje/centro-de-qi/) ✓ — Lanza postura sin gastar Punto de Concentración
 
 ### Nivel 20
-- [Qi Relampagueante]({{ '/clases/monje/dotes/#qi-relampagueante' | relative_url }}) ✓ — Reduce acciones de hechizos de qi
-- [Rapidez Perdurable]({{ '/clases/monje/dotes/#rapidez-perdurable' | relative_url }}) ✓ — Permanentemente acelerado
+- [Qi Relampagueante](/dotes/monje/qi-relampagueante/) ✓ — Reduce acciones de hechizos de qi
+- [Rapidez Perdurable](/dotes/monje/rapidez-perdurable/) ✓ — Permanentemente acelerado
 
 ---
 
@@ -87,15 +87,15 @@ adventure_path: null
 El Monje del Qi combina combate marcial con magia interna:
 
 1. **Versatilidad**: Ataques cuerpo a cuerpo y a distancia
-2. **Autocuración**: [Armonizar el Ser]({{ '/clases/monje/dotes/#armonizar-el-ser' | relative_url }}) + [Alinear Qi]({{ '/clases/monje/dotes/#alinear-qi' | relative_url }})
-3. **Control de área**: [Rugido del Dragón]({{ '/clases/monje/dotes/#rugido-del-dragon' | relative_url }}) + [Ráfaga de Vientos Salvajes]({{ '/clases/monje/dotes/#rafaga-de-vientos-salvajes' | relative_url }})
-4. **Movilidad sobrenatural**: [Salto de Viento]({{ '/clases/monje/dotes/#salto-de-viento' | relative_url }}) + [Correr por Paredes]({{ '/clases/monje/dotes/#correr-por-paredes' | relative_url }})
+2. **Autocuración**: [Armonizar el Ser](/dotes/monje/armonizar-el-ser/) + [Alinear Qi](/dotes/monje/alinear-qi/)
+3. **Control de área**: [Rugido del Dragón](/dotes/monje/rugido-del-dragon/) + [Ráfaga de Vientos Salvajes](/dotes/monje/rafaga-de-vientos-salvajes/)
+4. **Movilidad sobrenatural**: [Salto de Viento](/dotes/monje/salto-de-viento/) + [Correr por Paredes](/dotes/monje/correr-por-paredes/)
 
 ### Secuencia de Combate
-1. [Postura del Dragón]({{ '/clases/monje/dotes/#postura-del-dragon' | relative_url }}) + Ráfaga de golpes
-2. [Puño Elemental]({{ '/clases/monje/dotes/#puno-elemental' | relative_url }}) para explotar debilidades
-3. [Hechizos de Qi Avanzados]({{ '/clases/monje/dotes/#hechizos-de-qi-avanzados' | relative_url }}) para control o daño
-4. [Armonizar el Ser]({{ '/clases/monje/dotes/#armonizar-el-ser' | relative_url }}) para recuperar PG
+1. [Postura del Dragón](/dotes/monje/postura-del-dragon/) + Ráfaga de golpes
+2. [Puño Elemental](/dotes/monje/puno-elemental/) para explotar debilidades
+3. [Hechizos de Qi Avanzados](/dotes/monje/hechizos-de-qi-avanzados/) para control o daño
+4. [Armonizar el Ser](/dotes/monje/armonizar-el-ser/) para recuperar PG
 
 ### Fortalezas
 - Gran versatilidad en combate

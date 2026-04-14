@@ -38,29 +38,29 @@ adventure_path: null
 ## Progresión de Dotes
 
 ### Nivel 1
-- [Compañero Animal]({{ '/clases/druida/dotes/#companero-animal' | relative_url }}) ✓ — Obtén un compañero animal joven
-- [Empatía Animal]({{ '/clases/druida/dotes/#empatia-animal' | relative_url }}) ✓ — Diplomacia con animales
+- [Compañero Animal](/dotes/druida/companero-animal/) ✓ — Obtén un compañero animal joven
+- [Empatía Animal](/dotes/druida/empatia-animal/) ✓ — Diplomacia con animales
 
 ### Nivel 4
-- [Compañero Animal Maduro]({{ '/clases/druida/dotes/#companero-animal-maduro' | relative_url }}) ✓ — Compañero más independiente
+- [Compañero Animal Maduro](/dotes/druida/companero-animal-maduro/) ✓ — Compañero más independiente
 
 ### Nivel 6
-- [Apoyo Instintivo]({{ '/clases/druida/dotes/#apoyo-instintivo' | relative_url }}) ✓ — Tu compañero te apoya cuando le lanzas conjuros
+- [Apoyo Instintivo](/dotes/druida/apoyo-instintivo/) ✓ — Tu compañero te apoya cuando le lanzas conjuros
 
 ### Nivel 8
-- [Compañero Sensacional]({{ '/clases/druida/dotes/#companero-sensacional' | relative_url }}) ✓ — Compañero ágil o salvaje
-- [Exhibición Deimática]({{ '/clases/druida/dotes/#exhibicion-deimatica' | relative_url }}) ✓ — Desmoraliza a animales, plantas y hongos
+- [Compañero Sensacional](/dotes/druida/companero-sensacional/) ✓ — Compañero ágil o salvaje
+- [Exhibición Deimática](/dotes/druida/exhibicion-deimatica/) ✓ — Desmoraliza a animales, plantas y hongos
 
 ### Nivel 10
-- [Codo con Codo]({{ '/clases/druida/dotes/#codo-con-codo' | relative_url }}) ✓ — Flanquea siempre con tu compañero
-- [Aullido Primigenio]({{ '/clases/druida/dotes/#aullido-primigenio' | relative_url }}) ✓ — Tu compañero obtiene aullido que daña y asusta
+- [Codo con Codo](/dotes/druida/codo-con-codo/) ✓ — Flanquea siempre con tu compañero
+- [Aullido Primigenio](/dotes/druida/aullido-primigenio/) ✓ — Tu compañero obtiene aullido que daña y asusta
 
 ### Nivel 12
-- [Foco Primigenio]({{ '/clases/druida/dotes/#foco-primigenio' | relative_url }}) ✓ — Recupera todos los Puntos de Foco
-- [Convocación Primigenia]({{ '/clases/druida/dotes/#convocacion-primigenia' | relative_url }}) ✓ — Potencia criaturas convocadas
+- [Foco Primigenio](/dotes/druida/foco-primigenio/) ✓ — Recupera todos los Puntos de Foco
+- [Convocación Primigenia](/dotes/druida/convocacion-primigenia/) ✓ — Potencia criaturas convocadas
 
 ### Nivel 14
-- [Compañero Especializado]({{ '/clases/druida/dotes/#companero-especializado' | relative_url }}) ✓ — Tu compañero obtiene especialización
+- [Compañero Especializado](/dotes/druida/companero-especializado/) ✓ — Tu compañero obtiene especialización
 
 ---
 
@@ -84,19 +84,19 @@ La orden animal te conecta con las bestias del mundo. Obtienes el conjuro de ord
 
 El Druida Animal lucha junto a su compañero:
 
-1. **Posición**: Colócate junto a tu compañero para [Codo con Codo]({{ '/clases/druida/dotes/#codo-con-codo' | relative_url }})
+1. **Posición**: Colócate junto a tu compañero para [Codo con Codo](/dotes/druida/codo-con-codo/)
 2. **Acción**: Usa Comandar a un animal + conjuros de apoyo
-3. **Sinergia**: [Apoyo Instintivo]({{ '/clases/druida/dotes/#apoyo-instintivo' | relative_url }}) te da más acciones
+3. **Sinergia**: [Apoyo Instintivo](/dotes/druida/apoyo-instintivo/) te da más acciones
 4. **Curación**: *Curación del compañero* mantiene a tu animal vivo
 
 ### Secuencia Óptima
-1. Turno 1: Comandar (tu compañero ataca) + Conjuro sobre compañero → [Apoyo Instintivo]({{ '/clases/druida/dotes/#apoyo-instintivo' | relative_url }})
+1. Turno 1: Comandar (tu compañero ataca) + Conjuro sobre compañero → [Apoyo Instintivo](/dotes/druida/apoyo-instintivo/)
 2. Turno 2: Flanqueando, ambos atacáis con bonificador
 3. Emergencia: *Curación del compañero* si está herido
 
 ### Fortalezas
 - Dos "cuerpos" en el combate
-- Flanqueo garantizado con [Codo con Codo]({{ '/clases/druida/dotes/#codo-con-codo' | relative_url }})
+- Flanqueo garantizado con [Codo con Codo](/dotes/druida/codo-con-codo/)
 - Compañero escala muy bien
 - Versatilidad entre conjuros y combate
 

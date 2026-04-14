@@ -39,36 +39,36 @@ adventure_path: null
 ## Progresión de Dotes
 
 ### Nivel 1
-- [Extender Conjuro]({{ '/clases/mago/dotes/#extender-conjuro' | relative_url }}) ✓ — Aumenta el área de explosiones, conos y líneas
-- [Conjuro de Alcance]({{ '/clases/mago/dotes/#conjuro-de-alcance' | relative_url }}) ✓ — +30 pies de alcance
+- [Extender Conjuro](/dotes/mago/extender-conjuro/) ✓ — Aumenta el área de explosiones, conos y líneas
+- [Conjuro de Alcance](/dotes/mago/conjuro-de-alcance/) ✓ — +30 pies de alcance
 
 ### Nivel 2
-- [Ablación de Energía]({{ '/clases/mago/dotes/#ablacion-de-energia' | relative_url }}) ✓ — Ganas resistencia al lanzar conjuros de daño
+- [Ablación de Energía](/dotes/mago/ablacion-de-energia/) ✓ — Ganas resistencia al lanzar conjuros de daño
 
 ### Nivel 4
-- [Encantar Golpes]({{ '/clases/mago/dotes/#encantar-golpes' | relative_url }}) ✓ — Añade daño elemental a tus ataques tras lanzar
-- [Foco Enlazado]({{ '/clases/mago/dotes/#foco-enlazado' | relative_url }}) ✓ — Recupera Punto de Foco al drenar objeto vinculado
+- [Encantar Golpes](/dotes/mago/encantar-golpes/) ✓ — Añade daño elemental a tus ataques tras lanzar
+- [Foco Enlazado](/dotes/mago/foco-enlazado/) ✓ — Recupera Punto de Foco al drenar objeto vinculado
 
 ### Nivel 6
-- [Llegada Explosiva]({{ '/clases/mago/dotes/#llegada-explosiva' | relative_url }}) ✓ — Criaturas convocadas aparecen con explosión de daño
-- [Magia Irresistible]({{ '/clases/mago/dotes/#magia-irresistible' | relative_url }}) ✓ — Reduce bonificadores de salvación contra tu magia
+- [Llegada Explosiva](/dotes/mago/llegada-explosiva/) ✓ — Criaturas convocadas aparecen con explosión de daño
+- [Magia Irresistible](/dotes/mago/magia-irresistible/) ✓ — Reduce bonificadores de salvación contra tu magia
 
 ### Nivel 8
-- [Conjuro de Escuela Avanzado]({{ '/clases/mago/dotes/#conjuro-de-escuela-avanzado' | relative_url }}) ✓ — Obtén conjuro de escuela avanzado
+- [Conjuro de Escuela Avanzado](/dotes/mago/conjuro-de-escuela-avanzado/) ✓ — Obtén conjuro de escuela avanzado
 
 ### Nivel 10
-- [Energía Abrumadora]({{ '/clases/mago/dotes/#energia-abrumadora' | relative_url }}) ✓ — Ignora resistencia igual a tu nivel
-- [Lanzamiento Apresurado]({{ '/clases/mago/dotes/#lanzamiento-apresurado' | relative_url }}) ✓ — Reduce acciones para lanzar conjuros menores
+- [Energía Abrumadora](/dotes/mago/energia-abrumadora/) ✓ — Ignora resistencia igual a tu nivel
+- [Lanzamiento Apresurado](/dotes/mago/lanzamiento-apresurado/) ✓ — Reduce acciones para lanzar conjuros menores
 
 ### Nivel 12
-- [Energía Contundente]({{ '/clases/mago/dotes/#energia-contundente' | relative_url }}) ✓ — Impone debilidad 5 al tipo de daño de tu conjuro
+- [Energía Contundente](/dotes/mago/energia-contundente/) ✓ — Impone debilidad 5 al tipo de daño de tu conjuro
 
 ### Nivel 14
-- [Despliegue de Detonación Secundaria]({{ '/clases/mago/dotes/#despliegue-de-detonacion-secundaria' | relative_url }}) ✓ — Crea explosión adicional retardada
-- [Vinculo Superior]({{ '/clases/mago/dotes/#vinculo-superior' | relative_url }}) ✓ — Uso adicional de Drenar objeto vinculado
+- [Despliegue de Detonación Secundaria](/dotes/mago/despliegue-de-detonacion-secundaria/) ✓ — Crea explosión adicional retardada
+- [Vinculo Superior](/dotes/mago/vinculo-superior/) ✓ — Uso adicional de Drenar objeto vinculado
 
 ### Nivel 16
-- [Conjuro Brillante]({{ '/clases/mago/dotes/#conjuro-brillante' | relative_url }}) ✓ — Conjuros de Reflejos deslumbran/ciegan
+- [Conjuro Brillante](/dotes/mago/conjuro-brillante/) ✓ — Conjuros de Reflejos deslumbran/ciegan
 
 ---
 
@@ -84,8 +84,8 @@ El Mago de Batalla es un destructor arcano de área:
 
 1. **Posición**: Mantente a media distancia, donde puedas afectar múltiples enemigos
 2. **Daño de Área**: Usa [bola de fuego]({{ '/conjuros/bola-de-fuego/' | relative_url }}), [cono de frío]({{ '/conjuros/cono-de-frio/' | relative_url }}), [relámpago]({{ '/conjuros/relampago/' | relative_url }})
-3. **Penetración**: [Energía Abrumadora]({{ '/clases/mago/dotes/#energia-abrumadora' | relative_url }}) ignora resistencias
-4. **Sostenibilidad**: [Ablación de Energía]({{ '/clases/mago/dotes/#ablacion-de-energia' | relative_url }}) te protege de tu propio elemento
+3. **Penetración**: [Energía Abrumadora](/dotes/mago/energia-abrumadora/) ignora resistencias
+4. **Sostenibilidad**: [Ablación de Energía](/dotes/mago/ablacion-de-energia/) te protege de tu propio elemento
 
 ### Conjuros Sugeridos
 

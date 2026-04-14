@@ -38,46 +38,46 @@ adventure_path: null
 ## Progresión de Dotes
 
 ### Nivel 1
-- [Ampliar Conjuro]({{ '/clases/hechicero/dotes/#ampliar-conjuro' | relative_url }}) ✓ — Áreas más grandes para aliento
-- [Sangre Emergente]({{ '/clases/hechicero/dotes/#sangre-emergente' | relative_url }}) ✓ — Reacción defensiva
+- [Ampliar Conjuro](/dotes/hechicero/ampliar-conjuro/) ✓ — Áreas más grandes para aliento
+- [Sangre Emergente](/dotes/hechicero/sangre-emergente/) ✓ — Reacción defensiva
 
 ### Nivel 2
-- [Hechicería Propulsora]({{ '/clases/hechicero/dotes/#hechiceria-propulsora' | relative_url }}) ✓ — Movimiento con magia de sangre
-- [Expansión de Trucos]({{ '/clases/hechicero/dotes/#expansion-de-trucos' | relative_url }}) ✓ — Más trucos elementales
+- [Hechicería Propulsora](/dotes/hechicero/hechiceria-propulsora/) ✓ — Movimiento con magia de sangre
+- [Expansión de Trucos](/dotes/hechicero/expansion-de-trucos/) ✓ — Más trucos elementales
 
 ### Nivel 4
-- [Evolución Arcana]({{ '/clases/hechicero/dotes/#evolucion-arcana' | relative_url }}) ✓ — Conjuros arcanos adicionales
-- [Golpes Hechizados]({{ '/clases/hechicero/dotes/#golpes-hechizados' | relative_url }}) ✓ — Daño elemental en ataques
+- [Evolución Arcana](/dotes/hechicero/evolucion-arcana/) ✓ — Conjuros arcanos adicionales
+- [Golpes Hechizados](/dotes/hechicero/golpes-hechizados/) ✓ — Daño elemental en ataques
 
 ### Nivel 6
-- [Linaje Avanzado]({{ '/clases/hechicero/dotes/#linaje-avanzado' | relative_url }}) ✓ — Conjuro de aliento mejorado
-- [Guardia de Energía]({{ '/clases/hechicero/dotes/#guardia-de-energia' | relative_url }}) ✓ — Resistencia al elemento
+- [Linaje Avanzado](/dotes/hechicero/linaje-avanzado/) ✓ — Conjuro de aliento mejorado
+- [Guardia de Energía](/dotes/hechicero/guardia-de-energia/) ✓ — Resistencia al elemento
 
 ### Nivel 8
-- [Resistencia del Linaje]({{ '/clases/hechicero/dotes/#resistencia-del-linaje' | relative_url }}) ✓ — +1 contra magia
-- [Explosión de Poder]({{ '/clases/hechicero/dotes/#explosion-de-poder' | relative_url }}) ✓ — Daño en área alrededor tuyo
+- [Resistencia del Linaje](/dotes/hechicero/resistencia-del-linaje/) ✓ — +1 contra magia
+- [Explosión de Poder](/dotes/hechicero/explosion-de-poder/) ✓ — Daño en área alrededor tuyo
 
 ### Nivel 10
-- [Linaje Mayor]({{ '/clases/hechicero/dotes/#linaje-mayor' | relative_url }}) ✓ — Conjuro de linaje mayor
-- [Energía Abrumadora]({{ '/clases/hechicero/dotes/#energia-abrumadora' | relative_url }}) ✓ — Ignora resistencias
+- [Linaje Mayor](/dotes/hechicero/linaje-mayor/) ✓ — Conjuro de linaje mayor
+- [Energía Abrumadora](/dotes/hechicero/energia-abrumadora/) ✓ — Ignora resistencias
 
 ### Nivel 12
-- [Foco del Linaje]({{ '/clases/hechicero/dotes/#foco-del-linaje' | relative_url }}) ✓ — Recupera todos los Puntos de Foco
-- [Evolución Física Mayor]({{ '/clases/hechicero/dotes/#evolucion-fisica-mayor' | relative_url }}) ✓ — Polimorfias de dragón
+- [Foco del Linaje](/dotes/hechicero/foco-del-linaje/) ✓ — Recupera todos los Puntos de Foco
+- [Evolución Física Mayor](/dotes/hechicero/evolucion-fisica-mayor/) ✓ — Polimorfias de dragón
 
 ### Nivel 14
-- [Ascendencia de Sangre]({{ '/clases/hechicero/dotes/#ascendencia-de-sangre' | relative_url }}) ✓ — Dos efectos de magia de sangre
-- [Reflejar Daño]({{ '/clases/hechicero/dotes/#reflejar-dano' | relative_url }}) ✓ — Devuelve daño mágico
+- [Ascendencia de Sangre](/dotes/hechicero/ascendencia-de-sangre/) ✓ — Dos efectos de magia de sangre
+- [Reflejar Daño](/dotes/hechicero/reflejar-dano/) ✓ — Devuelve daño mágico
 
 ### Nivel 16
-- [Concentración sin Esfuerzo]({{ '/clases/hechicero/dotes/#concentracion-sin-esfuerzo' | relative_url }}) ✓ — Mantén conjuros automáticamente
-- [Conjuro Centelleante]({{ '/clases/hechicero/dotes/#conjuro-centelleante' | relative_url }}) ✓ — Ciega con conjuros
+- [Concentración sin Esfuerzo](/dotes/hechicero/concentracion-sin-esfuerzo/) ✓ — Mantén conjuros automáticamente
+- [Conjuro Centelleante](/dotes/hechicero/conjuro-centelleante/) ✓ — Ciega con conjuros
 
 ### Nivel 18
-- [Conjuro Resonante]({{ '/clases/hechicero/dotes/#conjuro-resonante' | relative_url }}) ✓ — Duplica conjuros de daño
+- [Conjuro Resonante](/dotes/hechicero/conjuro-resonante/) ✓ — Duplica conjuros de daño
 
 ### Nivel 20
-- [Mutación del Linaje]({{ '/clases/hechicero/dotes/#mutacion-del-linaje' | relative_url }}) ✓ — Vuelo y resistencia permanentes
+- [Mutación del Linaje](/dotes/hechicero/mutacion-del-linaje/) ✓ — Vuelo y resistencia permanentes
 
 ---
 
@@ -101,10 +101,10 @@ El linaje dracónico te conecta con un tipo específico de dragón, determinando
 
 El Hechicero Dracónico es un destructor elemental:
 
-1. **Daño de área**: Conjuros elementales ampliados con [Ampliar Conjuro]({{ '/clases/hechicero/dotes/#ampliar-conjuro' | relative_url }})
-2. **Penetración**: [Energía Abrumadora]({{ '/clases/hechicero/dotes/#energia-abrumadora' | relative_url }}) ignora resistencias
-3. **Defensa**: [Guardia de Energía]({{ '/clases/hechicero/dotes/#guardia-de-energia' | relative_url }}) y resistencia natural
-4. **Transformación**: [Mutación del Linaje]({{ '/clases/hechicero/dotes/#mutacion-del-linaje' | relative_url }}) para volar
+1. **Daño de área**: Conjuros elementales ampliados con [Ampliar Conjuro](/dotes/hechicero/ampliar-conjuro/)
+2. **Penetración**: [Energía Abrumadora](/dotes/hechicero/energia-abrumadora/) ignora resistencias
+3. **Defensa**: [Guardia de Energía](/dotes/hechicero/guardia-de-energia/) y resistencia natural
+4. **Transformación**: [Mutación del Linaje](/dotes/hechicero/mutacion-del-linaje/) para volar
 
 ### Conjuros Sugeridos
 
@@ -121,9 +121,9 @@ El Hechicero Dracónico es un destructor elemental:
 
 ### Secuencia de Combate
 1. Posiciónate para maximizar área de efecto
-2. [Ampliar Conjuro]({{ '/clases/hechicero/dotes/#ampliar-conjuro' | relative_url }}) + Bola de fuego
-3. [Energía Abrumadora]({{ '/clases/hechicero/dotes/#energia-abrumadora' | relative_url }}) contra enemigos resistentes
-4. [Explosión de Poder]({{ '/clases/hechicero/dotes/#explosion-de-poder' | relative_url }}) si te rodean
+2. [Ampliar Conjuro](/dotes/hechicero/ampliar-conjuro/) + Bola de fuego
+3. [Energía Abrumadora](/dotes/hechicero/energia-abrumadora/) contra enemigos resistentes
+4. [Explosión de Poder](/dotes/hechicero/explosion-de-poder/) si te rodean
 
 ### Fortalezas
 - Daño masivo de área

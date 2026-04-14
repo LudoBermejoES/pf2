@@ -39,36 +39,36 @@ adventure_path: null
 ## Progresión de Dotes
 
 ### Nivel 1
-- [Familiar]({{ '/clases/mago/dotes/#familiar' | relative_url }}) ✓ — Obtén un familiar que te ayuda
+- [Familiar](/dotes/mago/familiar/) ✓ — Obtén un familiar que te ayuda
 
 ### Nivel 2
-- [Familiar Potenciado]({{ '/clases/mago/dotes/#familiar-potenciado' | relative_url }}) ✓ — Tu familiar tiene 4 aptitudes en lugar de 2
+- [Familiar Potenciado](/dotes/mago/familiar-potenciado/) ✓ — Tu familiar tiene 4 aptitudes en lugar de 2
 
 ### Nivel 4
-- [Foco Enlazado]({{ '/clases/mago/dotes/#foco-enlazado' | relative_url }}) ✓ — Recupera Punto de Foco al drenar objeto vinculado
+- [Foco Enlazado](/dotes/mago/foco-enlazado/) ✓ — Recupera Punto de Foco al drenar objeto vinculado
 
 ### Nivel 6
-- [Llegada Explosiva]({{ '/clases/mago/dotes/#llegada-explosiva' | relative_url }}) ✓ — Criaturas invocadas aparecen causando daño
-- [Lanzamiento de Conjuros Firme]({{ '/clases/mago/dotes/#lanzamiento-de-conjuros-firme' | relative_url }}) ✓ — Evita interrupciones al lanzar
+- [Llegada Explosiva](/dotes/mago/llegada-explosiva/) ✓ — Criaturas invocadas aparecen causando daño
+- [Lanzamiento de Conjuros Firme](/dotes/mago/lanzamiento-de-conjuros-firme/) ✓ — Evita interrupciones al lanzar
 
 ### Nivel 8
-- [Conjuro de Escuela Avanzado]({{ '/clases/mago/dotes/#conjuro-de-escuela-avanzado' | relative_url }}) ✓ — Obtén conjuro avanzado
-- [Retención de Forma]({{ '/clases/mago/dotes/#retencion-de-forma' | relative_url }}) ✓ — Conjuros de polimorfia duran hasta 10 minutos
+- [Conjuro de Escuela Avanzado](/dotes/mago/conjuro-de-escuela-avanzado/) ✓ — Obtén conjuro avanzado
+- [Retención de Forma](/dotes/mago/retencion-de-forma/) ✓ — Conjuros de polimorfia duran hasta 10 minutos
 
 ### Nivel 10
-- [Adepto de los Pergaminos]({{ '/clases/mago/dotes/#adepto-de-los-pergaminos' | relative_url }}) ✓ — Crea pergaminos temporales diarios
+- [Adepto de los Pergaminos](/dotes/mago/adepto-de-los-pergaminos/) ✓ — Crea pergaminos temporales diarios
 
 ### Nivel 12
-- [Detección Mágica Entusiasta]({{ '/clases/mago/dotes/#deteccion-magica-entusiasta' | relative_url }}) ✓ — Mejor iniciativa contra enemigos mágicos
+- [Detección Mágica Entusiasta](/dotes/mago/deteccion-magica-entusiasta/) ✓ — Mejor iniciativa contra enemigos mágicos
 
 ### Nivel 16
-- [Concentración sin Esfuerzo]({{ '/clases/mago/dotes/#concentracion-sin-esfuerzo' | relative_url }}) ✓ — Mantén conjuros automáticamente al inicio del turno
+- [Concentración sin Esfuerzo](/dotes/mago/concentracion-sin-esfuerzo/) ✓ — Mantén conjuros automáticamente al inicio del turno
 
 ### Nivel 18
-- [Posibilidades Infinitas]({{ '/clases/mago/dotes/#posibilidades-infinitas' | relative_url }}) ✓ — Un espacio lanza cualquier conjuro del grimorio
+- [Posibilidades Infinitas](/dotes/mago/posibilidades-infinitas/) ✓ — Un espacio lanza cualquier conjuro del grimorio
 
 ### Nivel 20
-- [Combinación de Conjuros]({{ '/clases/mago/dotes/#combinacion-de-conjuros' | relative_url }}) ✓ — Fusiona dos conjuros en uno
+- [Combinación de Conjuros](/dotes/mago/combinacion-de-conjuros/) ✓ — Fusiona dos conjuros en uno
 
 ---
 
@@ -84,8 +84,8 @@ El Mago Invocador crea aliados temporales que dominan el campo:
 
 1. **Preparación**: Invoca criaturas ANTES del combate cuando sea posible
 2. **Control de espacio**: Las criaturas invocadas flanquean y bloquean
-3. **Acción eficiente**: [Concentración sin Esfuerzo]({{ '/clases/mago/dotes/#concentracion-sin-esfuerzo' | relative_url }}) mantiene invocaciones
-4. **Explosión inicial**: [Llegada Explosiva]({{ '/clases/mago/dotes/#llegada-explosiva' | relative_url }}) causa daño al invocar
+3. **Acción eficiente**: [Concentración sin Esfuerzo](/dotes/mago/concentracion-sin-esfuerzo/) mantiene invocaciones
+4. **Explosión inicial**: [Llegada Explosiva](/dotes/mago/llegada-explosiva/) causa daño al invocar
 
 ### Conjuros de Invocación Clave
 

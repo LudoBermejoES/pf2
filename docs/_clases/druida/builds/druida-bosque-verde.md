@@ -38,7 +38,7 @@ adventure_path: Kingmaker
 
 ## Armas
 
-- **Mano Principal**: [Arma Verde]({{ '/clases/druida/dotes/#arma-verde' | relative_url }}) (bastón de madera)
+- **Mano Principal**: [Arma Verde](/dotes/druida/arma-verde/) (bastón de madera)
 - **Alternativa**: [Hoz]({{ '/equipo/armas/hoz/' | relative_url }}) o [Bastón]({{ '/equipo/armas/baston/' | relative_url }})
 
 ## Habilidades Importantes
@@ -53,35 +53,35 @@ adventure_path: Kingmaker
 ## Progresión de Dotes
 
 ### Nivel 1
-- [Familiar Leshy]({{ '/clases/druida/dotes/#familiar-leshy' | relative_url }}) ✓ — Familiar planta con aptitud extra
-- [Empatía Vegetal]({{ '/clases/druida/dotes/#empatia-vegetal' | relative_url }}) ✓ — Diplomacia con plantas y hongos
+- [Familiar Leshy](/dotes/druida/familiar-leshy/) ✓ — Familiar planta con aptitud extra
+- [Empatía Vegetal](/dotes/druida/empatia-vegetal/) ✓ — Diplomacia con plantas y hongos
 
 ### Nivel 2
-- [Resistencia al Veneno]({{ '/clases/druida/dotes/#resistencia-al-veneno' | relative_url }}) ✓ — Resistencia al veneno y bonificador a salvaciones
+- [Resistencia al Veneno](/dotes/druida/resistencia-al-veneno/) ✓ — Resistencia al veneno y bonificador a salvaciones
 
 ### Nivel 4
-- [Paso Forestal]({{ '/clases/druida/dotes/#paso-forestal' | relative_url }}) ✓ — Ignora terreno difícil por plantas
-- [Secretos del Familiar Leshy]({{ '/clases/druida/dotes/#secretos-del-familiar-leshy' | relative_url }}) ✓ — Aptitudes adicionales para tu leshy
+- [Paso Forestal](/dotes/druida/paso-forestal/) ✓ — Ignora terreno difícil por plantas
+- [Secretos del Familiar Leshy](/dotes/druida/secretos-del-familiar-leshy/) ✓ — Aptitudes adicionales para tu leshy
 
 ### Nivel 6
-- [Crecido del Roble]({{ '/clases/druida/dotes/#crecido-del-roble' | relative_url }}) ✓ — Lanza *resiliencia de roble* a voluntad
-- [Lanzamiento de Conjuros Firme]({{ '/clases/druida/dotes/#lanzamiento-de-conjuros-firme' | relative_url }}) ✓ — Evita interrupciones
+- [Crecido del Roble](/dotes/druida/crecido-del-roble/) ✓ — Lanza *resiliencia de roble* a voluntad
+- [Lanzamiento de Conjuros Firme](/dotes/druida/lanzamiento-de-conjuros-firme/) ✓ — Evita interrupciones
 
 ### Nivel 8
-- [Restablecimiento Floral]({{ '/clases/druida/dotes/#restablecimiento-floral' | relative_url }}) ✓ — Recupera PG y Punto de Foco en vegetación
+- [Restablecimiento Floral](/dotes/druida/restablecimiento-floral/) ✓ — Recupera PG y Punto de Foco en vegetación
 
 ### Nivel 10
-- [Forma de Planta]({{ '/clases/druida/dotes/#forma-de-planta' | relative_url }}) ✓ — Transfórmate en criatura vegetal
+- [Forma de Planta](/dotes/druida/forma-de-planta/) ✓ — Transfórmate en criatura vegetal
 
 ### Nivel 12
-- [Conjuro de Guirnalda]({{ '/clases/druida/dotes/#conjuro-de-guirnalda' | relative_url }}) ✓ — Crea terreno difícil dañino con plantas
-- [Foco Primigenio]({{ '/clases/druida/dotes/#foco-primigenio' | relative_url }}) ✓ — Recupera todos los Puntos de Foco
+- [Conjuro de Guirnalda](/dotes/druida/conjuro-de-guirnalda/) ✓ — Crea terreno difícil dañino con plantas
+- [Foco Primigenio](/dotes/druida/foco-primigenio/) ✓ — Recupera todos los Puntos de Foco
 
 ### Nivel 14
-- [Metamorfosis Verde]({{ '/clases/druida/dotes/#metamorfosis-verde' | relative_url }}) ✓ — Ganas rasgo planta y Descanso verde
+- [Metamorfosis Verde](/dotes/druida/metamorfosis-verde/) ✓ — Ganas rasgo planta y Descanso verde
 
 ### Nivel 16
-- [Brezal Empalador]({{ '/clases/druida/dotes/#brezal-empalador' | relative_url }}) ✓ — Conjuro de orden devastador
+- [Brezal Empalador](/dotes/druida/brezal-empalador/) ✓ — Conjuro de orden devastador
 
 ---
 
@@ -101,8 +101,8 @@ El Druida del Bosque Verde es un controlador y sanador primigenio:
 
 1. **Control de área**: Conjuros de plantas crean terreno difícil y dañino
 2. **Sanación**: Lista primigenia tiene excelente curación
-3. **Apoyo**: [Crecido del Roble]({{ '/clases/druida/dotes/#crecido-del-roble' | relative_url }}) protege aliados
-4. **Sostenibilidad**: [Restablecimiento Floral]({{ '/clases/druida/dotes/#restablecimiento-floral' | relative_url }}) en cualquier vegetación
+3. **Apoyo**: [Crecido del Roble](/dotes/druida/crecido-del-roble/) protege aliados
+4. **Sostenibilidad**: [Restablecimiento Floral](/dotes/druida/restablecimiento-floral/) en cualquier vegetación
 
 ### Conjuros Sugeridos
 

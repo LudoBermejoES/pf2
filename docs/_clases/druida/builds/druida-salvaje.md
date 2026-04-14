@@ -39,40 +39,40 @@ adventure_path: null
 ## Progresión de Dotes
 
 ### Nivel 1
-- [Forma Salvaje]({{ '/clases/druida/dotes/#forma-salvaje' | relative_url }}) ✓ — Obtén *cambio indómito* para transformarte
+- [Forma Salvaje](/dotes/druida/forma-salvaje/) ✓ — Obtén *cambio indómito* para transformarte
 
 ### Nivel 2
-- [Explorador de la Orden]({{ '/clases/druida/dotes/#explorador-de-la-orden' | relative_url }}) ✓ — Accede a otra orden (recomendado: Animal para compañero)
+- [Explorador de la Orden](/dotes/druida/explorador-de-la-orden/) ✓ — Accede a otra orden (recomendado: Animal para compañero)
 
 ### Nivel 4
-- [Controlar Forma]({{ '/clases/druida/dotes/#controlar-forma' | relative_url }}) ✓ — Transformación dura hasta 1 hora
+- [Controlar Forma](/dotes/druida/controlar-forma/) ✓ — Transformación dura hasta 1 hora
 
 ### Nivel 6
-- [Forma de Insecto]({{ '/clases/druida/dotes/#forma-de-insecto' | relative_url }}) ✓ — Añade formas de insecto a tu lista
+- [Forma de Insecto](/dotes/druida/forma-de-insecto/) ✓ — Añade formas de insecto a tu lista
 
 ### Nivel 8
-- [Forma Feroz]({{ '/clases/druida/dotes/#forma-feroz' | relative_url }}) ✓ — Añade formas de dinosaurio, +1 Atletismo
-- [Forma Voladora]({{ '/clases/druida/dotes/#forma-voladora' | relative_url }}) ✓ — Añade formas voladoras
+- [Forma Feroz](/dotes/druida/forma-feroz/) ✓ — Añade formas de dinosaurio, +1 Atletismo
+- [Forma Voladora](/dotes/druida/forma-voladora/) ✓ — Añade formas voladoras
 
 ### Nivel 10
-- [Forma Elemental]({{ '/clases/druida/dotes/#forma-elemental' | relative_url }}) ✓ — Transfórmate en elemental, resistencia 5 fuego
-- [Transformación Curativa]({{ '/clases/druida/dotes/#transformacion-curativa' | relative_url }}) ✓ — Curación al transformarte
+- [Forma Elemental](/dotes/druida/forma-elemental/) ✓ — Transfórmate en elemental, resistencia 5 fuego
+- [Transformación Curativa](/dotes/druida/transformacion-curativa/) ✓ — Curación al transformarte
 
 ### Nivel 12
-- [Forma de Dragón]({{ '/clases/druida/dotes/#forma-de-dragon' | relative_url }}) ✓ — Transfórmate en dragón
-- [Foco Primigenio]({{ '/clases/druida/dotes/#foco-primigenio' | relative_url }}) ✓ — Recupera todos los Puntos de Foco
+- [Forma de Dragón](/dotes/druida/forma-de-dragon/) ✓ — Transfórmate en dragón
+- [Foco Primigenio](/dotes/druida/foco-primigenio/) ✓ — Recupera todos los Puntos de Foco
 
 ### Nivel 14
-- [Transformación Reactiva]({{ '/clases/druida/dotes/#transformacion-reactiva' | relative_url }}) ✓ — Transfórmate como reacción
+- [Transformación Reactiva](/dotes/druida/transformacion-reactiva/) ✓ — Transfórmate como reacción
 
 ### Nivel 16
-- [Forma de Monstruosidad]({{ '/clases/druida/dotes/#forma-de-monstruosidad' | relative_url }}) ✓ — Formas de gusano púrpura, fénix, etc.
+- [Forma de Monstruosidad](/dotes/druida/forma-de-monstruosidad/) ✓ — Formas de gusano púrpura, fénix, etc.
 
 ### Nivel 18
-- [Control de Forma Perfecto]({{ '/clases/druida/dotes/#control-de-forma-perfecto' | relative_url }}) ✓ — Transformación de duración ilimitada
+- [Control de Forma Perfecto](/dotes/druida/control-de-forma-perfecto/) ✓ — Transformación de duración ilimitada
 
 ### Nivel 20
-- [Cambiaformas Verdadero]({{ '/clases/druida/dotes/#cambiaformas-verdadero' | relative_url }}) ✓ — Lanza *Naturaleza encarnada*, kaiju/hombre verde
+- [Cambiaformas Verdadero](/dotes/druida/cambiaformas-verdadero/) ✓ — Lanza *Naturaleza encarnada*, kaiju/hombre verde
 
 ---
 
@@ -90,10 +90,10 @@ Este conjuro es la base de toda la build. Escala con tu nivel y desbloquea nueva
 
 El Druida Salvaje es un combatiente cuerpo a cuerpo que se transforma:
 
-1. **Transformación temprana**: [Controlar Forma]({{ '/clases/druida/dotes/#controlar-forma' | relative_url }}) antes del combate
+1. **Transformación temprana**: [Controlar Forma](/dotes/druida/controlar-forma/) antes del combate
 2. **Combate**: Usa ataques naturales de la forma elegida
 3. **Adaptación**: Cambia de forma según la situación
-4. **Sostenibilidad**: [Transformación Curativa]({{ '/clases/druida/dotes/#transformacion-curativa' | relative_url }}) te cura al cambiar
+4. **Sostenibilidad**: [Transformación Curativa](/dotes/druida/transformacion-curativa/) te cura al cambiar
 
 ### Formas Recomendadas por Situación
 

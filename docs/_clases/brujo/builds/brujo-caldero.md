@@ -37,44 +37,44 @@ adventure_path: null
 ## Progresión de Dotes
 
 ### Nivel 1
-- [Caldero]({{ '/clases/brujo/dotes/#caldero' | relative_url }}) ✓ — Elabora pociones y aceites
-- [Risa Estridente]({{ '/clases/brujo/dotes/#risa-estridente' | relative_url }}) ✓ — Maleficio risotada
+- [Caldero](/dotes/brujo/caldero/) ✓ — Elabora pociones y aceites
+- [Risa Estridente](/dotes/brujo/risa-estridente/) ✓ — Maleficio risotada
 
 ### Nivel 2
-- [Familiar Potenciado]({{ '/clases/brujo/dotes/#familiar-potenciado' | relative_url }}) ✓ — 4 aptitudes de familiar
-- [Lección Básica]({{ '/clases/brujo/dotes/#leccion-basica' | relative_url }}) ✓ — Maleficio + conjuro adicional
+- [Familiar Potenciado](/dotes/brujo/familiar-potenciado/) ✓ — 4 aptitudes de familiar
+- [Lección Básica](/dotes/brujo/leccion-basica/) ✓ — Maleficio + conjuro adicional
 
 ### Nivel 4
-- [Ritos de Convocación]({{ '/clases/brujo/dotes/#ritos-de-convocacion' | relative_url }}) ✓ — Prepara conjuros de convocar
+- [Ritos de Convocación](/dotes/brujo/ritos-de-convocacion/) ✓ — Prepara conjuros de convocar
 
 ### Nivel 6
-- [Cuchillo Ceremonial]({{ '/clases/brujo/dotes/#cuchillo-ceremonial' | relative_url }}) ✓ — Daga como varita mágica
-- [Lección Mayor]({{ '/clases/brujo/dotes/#leccion-mayor' | relative_url }}) ✓ — Maleficio mayor
+- [Cuchillo Ceremonial](/dotes/brujo/cuchillo-ceremonial/) ✓ — Daga como varita mágica
+- [Lección Mayor](/dotes/brujo/leccion-mayor/) ✓ — Maleficio mayor
 
 ### Nivel 8
-- [Botella de Brujo]({{ '/clases/brujo/dotes/#botella-de-brujo' | relative_url }}) ✓ — Embotella maleficios en pociones
-- [Familiar Sensacional]({{ '/clases/brujo/dotes/#familiar-sensacional' | relative_url }}) ✓ — 6 aptitudes de familiar
+- [Botella de Brujo](/dotes/brujo/botella-de-brujo/) ✓ — Embotella maleficios en pociones
+- [Familiar Sensacional](/dotes/brujo/familiar-sensacional/) ✓ — 6 aptitudes de familiar
 
 ### Nivel 10
-- [Doble, Doble]({{ '/clases/brujo/dotes/#doble-doble' | relative_url }}) ✓ — Duplica pociones temporales
-- [Lección Superior]({{ '/clases/brujo/dotes/#leccion-superior' | relative_url }}) ✓ — Maleficio superior
+- [Doble, Doble](/dotes/brujo/doble-doble/) ✓ — Duplica pociones temporales
+- [Lección Superior](/dotes/brujo/leccion-superior/) ✓ — Maleficio superior
 
 ### Nivel 12
-- [Foco de Maleficios]({{ '/clases/brujo/dotes/#foco-de-maleficios' | relative_url }}) ✓ — Recupera todos los Puntos de Concentración
-- [Escoba de Brujo]({{ '/clases/brujo/dotes/#escoba-de-brujo' | relative_url }}) ✓ — Vuela en escoba
+- [Foco de Maleficios](/dotes/brujo/foco-de-maleficios/) ✓ — Recupera todos los Puntos de Concentración
+- [Escoba de Brujo](/dotes/brujo/escoba-de-brujo/) ✓ — Vuela en escoba
 
 ### Nivel 14
-- [Ritos de Transfiguración]({{ '/clases/brujo/dotes/#ritos-de-transfiguracion' | relative_url }}) ✓ — Metamorfosis maldita
+- [Ritos de Transfiguración](/dotes/brujo/ritos-de-transfiguracion/) ✓ — Metamorfosis maldita
 
 ### Nivel 16
-- [Succionar Poder]({{ '/clases/brujo/dotes/#succionar-poder' | relative_url }}) ✓ — Lanza conjuro sin gastar espacio
+- [Succionar Poder](/dotes/brujo/succionar-poder/) ✓ — Lanza conjuro sin gastar espacio
 
 ### Nivel 18
-- [Dividir Maleficio]({{ '/clases/brujo/dotes/#dividir-maleficio' | relative_url }}) ✓ — Maleficio afecta dos objetivos
+- [Dividir Maleficio](/dotes/brujo/dividir-maleficio/) ✓ — Maleficio afecta dos objetivos
 
 ### Nivel 20
-- [Cabaña de Brujo]({{ '/clases/brujo/dotes/#cabana-de-brujo' | relative_url }}) ✓ — Casa animada
-- [Verdad del Patrón]({{ '/clases/brujo/dotes/#verdad-del-patron' | relative_url }}) ✓ — Espacio de 10º rango extra
+- [Cabaña de Brujo](/dotes/brujo/cabana-de-brujo/) ✓ — Casa animada
+- [Verdad del Patrón](/dotes/brujo/verdad-del-patron/) ✓ — Espacio de 10º rango extra
 
 ---
 
@@ -83,8 +83,8 @@ adventure_path: null
 El Brujo del Caldero es un fabricante de magia embotellada:
 
 1. **Elaboración**: Pociones y aceites gratis cada día
-2. **Maleficios embotellados**: [Botella de Brujo]({{ '/clases/brujo/dotes/#botella-de-brujo' | relative_url }})
-3. **Producción doble**: [Doble, Doble]({{ '/clases/brujo/dotes/#doble-doble' | relative_url }})
+2. **Maleficios embotellados**: [Botella de Brujo](/dotes/brujo/botella-de-brujo/)
+3. **Producción doble**: [Doble, Doble](/dotes/brujo/doble-doble/)
 4. **Soporte de equipo**: Distribuye pociones al grupo
 
 ### Progresión de Caldero
@@ -95,7 +95,7 @@ El Brujo del Caldero es un fabricante de magia embotellada:
 | Maestro | 2 |
 | Legendario | 3 |
 
-### Con [Doble, Doble]({{ '/clases/brujo/dotes/#doble-doble' | relative_url }})
+### Con [Doble, Doble](/dotes/brujo/doble-doble/)
 | Competencia CD | Pociones/Día |
 |----------------|--------------|
 | Maestro | 4 |
@@ -111,8 +111,8 @@ El Brujo del Caldero es un fabricante de magia embotellada:
 ### Secuencia de Soporte
 1. Prepara pociones en preparativos diarios
 2. Distribuye pociones útiles al grupo
-3. Usa [Botella de Brujo]({{ '/clases/brujo/dotes/#botella-de-brujo' | relative_url }}) para maleficios embotellados
-4. En combate, lanza maleficios + [Risa Estridente]({{ '/clases/brujo/dotes/#risa-estridente' | relative_url }})
+3. Usa [Botella de Brujo](/dotes/brujo/botella-de-brujo/) para maleficios embotellados
+4. En combate, lanza maleficios + [Risa Estridente](/dotes/brujo/risa-estridente/)
 
 ### Fortalezas
 - Pociones gratis cada día

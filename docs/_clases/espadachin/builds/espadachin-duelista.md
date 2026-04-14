@@ -38,48 +38,48 @@ adventure_path: null
 ## Progresión de Dotes
 
 ### Nivel 1
-- [Parada Extravagante]({{ '/clases/espadachin/dotes/#parada-extravagante' | relative_url }}) ✓ — +1/+2 CA + panache si fallan
-- [Esquiva Llamativa]({{ '/clases/espadachin/dotes/#esquiva-llamativa' | relative_url }}) ✓ — +2 CA + panache si fallan
+- [Parada Extravagante](/dotes/espadachin/parada-extravagante/) ✓ — +1/+2 CA + panache si fallan
+- [Esquiva Llamativa](/dotes/espadachin/esquiva-llamativa/) ✓ — +2 CA + panache si fallan
 
 ### Nivel 2
-- [Remate en Retirada]({{ '/clases/espadachin/dotes/#remate-en-retirada' | relative_url }}) ✓ — Paso gratis si fallas
-- [Vida con Suerte]({{ '/clases/espadachin/dotes/#vida-con-suerte' | relative_url }}) ✓ — +2 a salvaciones + panache
+- [Remate en Retirada](/dotes/espadachin/remate-en-retirada/) ✓ — Paso gratis si fallas
+- [Vida con Suerte](/dotes/espadachin/vida-con-suerte/) ✓ — +2 a salvaciones + panache
 
 ### Nivel 4
-- [Iniciativa Arrogante]({{ '/clases/espadachin/dotes/#iniciativa-arrogante' | relative_url }}) ✓ — +2 iniciativa + panache si actúas primero
-- [Desviación del Guardián]({{ '/clases/espadachin/dotes/#desviacion-del-guardian' | relative_url }}) ✓ — Protege aliados + panache
+- [Iniciativa Arrogante](/dotes/espadachin/iniciativa-arrogante/) ✓ — +2 iniciativa + panache si actúas primero
+- [Desviación del Guardián](/dotes/espadachin/desviacion-del-guardian/) ✓ — Protege aliados + panache
 
 ### Nivel 6
-- [Golpe Reactivo]({{ '/clases/espadachin/dotes/#golpe-reactivo' | relative_url }}) ✓ — Ataque de oportunidad
-- [Combinación de Remate]({{ '/clases/espadachin/dotes/#combinacion-de-remate' | relative_url }}) ✓ — Menor penalizador en remates
+- [Golpe Reactivo](/dotes/espadachin/golpe-reactivo/) ✓ — Ataque de oportunidad
+- [Combinación de Remate](/dotes/espadachin/combinacion-de-remate/) ✓ — Menor penalizador en remates
 
 ### Nivel 8
-- [Rodar Llamativo]({{ '/clases/espadachin/dotes/#rodar-llamativo' | relative_url }}) ✓ — Zancada 10 pies con Esquiva
-- [Remate Sangrante]({{ '/clases/espadachin/dotes/#remate-sangrante' | relative_url }}) ✓ — Sangrado igual a golpe preciso
+- [Rodar Llamativo](/dotes/espadachin/rodar-llamativo/) ✓ — Zancada 10 pies con Esquiva
+- [Remate Sangrante](/dotes/espadachin/remate-sangrante/) ✓ — Sangrado igual a golpe preciso
 
 ### Nivel 10
-- [Riposte Reflexivo]({{ '/clases/espadachin/dotes/#riposte-reflexivo' | relative_url }}) ✓ — Reacción extra para Riposte
-- [Danza del Broquel]({{ '/clases/espadachin/dotes/#danza-del-broquel' | relative_url }}) ✓ — Broquel siempre alzado
+- [Riposte Reflexivo](/dotes/espadachin/riposte-reflexivo/) ✓ — Reacción extra para Riposte
+- [Danza del Broquel](/dotes/espadachin/danza-del-broquel/) ✓ — Broquel siempre alzado
 
 ### Nivel 12
-- [Burlar a la Muerte]({{ '/clases/espadachin/dotes/#burlar-a-la-muerte' | relative_url }}) ✓ — Sobrevive con 1 PG + panache
-- [Remate Móvil]({{ '/clases/espadachin/dotes/#remate-movil' | relative_url }}) ✓ — Zancada + Golpe
+- [Burlar a la Muerte](/dotes/espadachin/burlar-a-la-muerte/) ✓ — Sobrevive con 1 PG + panache
+- [Remate Móvil](/dotes/espadachin/remate-movil/) ✓ — Zancada + Golpe
 
 ### Nivel 14
-- [Riposte Imposible]({{ '/clases/espadachin/dotes/#riposte-imposible' | relative_url }}) ✓ — Riposte contra ataques a distancia
-- [Remate Perfecto]({{ '/clases/espadachin/dotes/#remate-perfecto' | relative_url }}) ✓ — Tira dos veces el ataque
+- [Riposte Imposible](/dotes/espadachin/riposte-imposible/) ✓ — Riposte contra ataques a distancia
+- [Remate Perfecto](/dotes/espadachin/remate-perfecto/) ✓ — Tira dos veces el ataque
 
 ### Nivel 16
-- [Riposte Afortunado]({{ '/clases/espadachin/dotes/#riposte-afortunado' | relative_url }}) ✓ — Tira dos veces en Riposte
-- [Gracia Mortífera]({{ '/clases/espadachin/dotes/#gracia-mortifera' | relative_url }}) ✓ — Duplica dados mortales
+- [Riposte Afortunado](/dotes/espadachin/riposte-afortunado/) ✓ — Tira dos veces en Riposte
+- [Gracia Mortífera](/dotes/espadachin/gracia-mortifera/) ✓ — Duplica dados mortales
 
 ### Nivel 18
-- [Parada y Riposte]({{ '/clases/espadachin/dotes/#parada-y-riposte' | relative_url }}) ✓ — Riposte en fallos (no solo críticos)
-- [Suerte Increíble]({{ '/clases/espadachin/dotes/#suerte-increible' | relative_url }}) ✓ — Doble tirada en salvaciones
+- [Parada y Riposte](/dotes/espadachin/parada-y-riposte/) ✓ — Riposte en fallos (no solo críticos)
+- [Suerte Increíble](/dotes/espadachin/suerte-increible/) ✓ — Doble tirada en salvaciones
 
 ### Nivel 20
-- [Contramovimientos Inagotables]({{ '/clases/espadachin/dotes/#contramovimientos-inagotables' | relative_url }}) ✓ — Reacción extra cada turno enemigo
-- [Paragona del Panache]({{ '/clases/espadachin/dotes/#paragona-del-panache' | relative_url }}) ✓ — Permanentemente acelerado
+- [Contramovimientos Inagotables](/dotes/espadachin/contramovimientos-inagotables/) ✓ — Reacción extra cada turno enemigo
+- [Paragona del Panache](/dotes/espadachin/paragona-del-panache/) ✓ — Permanentemente acelerado
 
 ---
 
@@ -88,12 +88,12 @@ adventure_path: null
 El Espadachín Duelista convierte la defensa en ofensa:
 
 1. **Riposte**: Cada fallo enemigo es un contraataque
-2. **Defensa activa**: [Parada Extravagante]({{ '/clases/espadachin/dotes/#parada-extravagante' | relative_url }}) + [Esquiva Llamativa]({{ '/clases/espadachin/dotes/#esquiva-llamativa' | relative_url }})
+2. **Defensa activa**: [Parada Extravagante](/dotes/espadachin/parada-extravagante/) + [Esquiva Llamativa](/dotes/espadachin/esquiva-llamativa/)
 3. **Panache constante**: Múltiples formas de obtenerlo
-4. **Supervivencia**: [Burlar a la Muerte]({{ '/clases/espadachin/dotes/#burlar-a-la-muerte' | relative_url }}) + [Vida con Suerte]({{ '/clases/espadachin/dotes/#vida-con-suerte' | relative_url }})
+4. **Supervivencia**: [Burlar a la Muerte](/dotes/espadachin/burlar-a-la-muerte/) + [Vida con Suerte](/dotes/espadachin/vida-con-suerte/)
 
 ### Ciclo de Combate
-1. [Parada Extravagante]({{ '/clases/espadachin/dotes/#parada-extravagante' | relative_url }}) o [Esquiva Llamativa]({{ '/clases/espadachin/dotes/#esquiva-llamativa' | relative_url }})
+1. [Parada Extravagante](/dotes/espadachin/parada-extravagante/) o [Esquiva Llamativa](/dotes/espadachin/esquiva-llamativa/)
 2. Espera fallo enemigo → Riposte Oportuno
 3. Tu turno: Remate con panache
 4. Repite el ciclo defensivo

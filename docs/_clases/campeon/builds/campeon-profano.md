@@ -39,41 +39,41 @@ adventure_path: null
 ## Progresión de Dotes
 
 ### Nivel 1
-- [Venganza Despiadada]({{ '/clases/campeon/dotes/#venganza-despiadada' | relative_url }}) ✓ — Daño extra con Venganza Destructiva
-- [Plegaria Desesperada]({{ '/clases/campeon/dotes/#plegaria-desesperada' | relative_url }}) ✓ — Punto de Foco de emergencia
+- [Venganza Despiadada](/dotes/campeon/venganza-despiadada/) ✓ — Daño extra con Venganza Destructiva
+- [Plegaria Desesperada](/dotes/campeon/plegaria-desesperada/) ✓ — Punto de Foco de emergencia
 
 ### Nivel 2
-- [Gracia Divina]({{ '/clases/campeon/dotes/#gracia-divina' | relative_url }}) ✓ — +2 a salvaciones contra conjuros
+- [Gracia Divina](/dotes/campeon/gracia-divina/) ✓ — +2 a salvaciones contra conjuros
 
 ### Nivel 4
-- [Aura de Desesperación]({{ '/clases/campeon/dotes/#aura-de-desesperacion' | relative_url }}) ✓ — Enemigos tienen -1 contra miedo
-- [Crueldad]({{ '/clases/campeon/dotes/#crueldad' | relative_url }}) ✓ — Toque del vacío enferma
+- [Aura de Desesperación](/dotes/campeon/aura-de-desesperacion/) ✓ — Enemigos tienen -1 contra miedo
+- [Crueldad](/dotes/campeon/crueldad/) ✓ — Toque del vacío enferma
 
 ### Nivel 6
-- [Castigar]({{ '/clases/campeon/dotes/#castigar' | relative_url }}) ✓ — +3/+4 daño contra objetivo
-- [Golpe Reactivo]({{ '/clases/campeon/dotes/#golpe-reactivo' | relative_url }}) ✓ — Ataque de oportunidad
+- [Castigar](/dotes/campeon/castigar/) ✓ — +3/+4 daño contra objetivo
+- [Golpe Reactivo](/dotes/campeon/golpe-reactivo/) ✓ — Ataque de oportunidad
 
 ### Nivel 8
-- [Crueldad Mayor]({{ '/clases/campeon/dotes/#crueldad-mayor' | relative_url }}) ✓ — Toque del vacío causa torpe o estupefacto
+- [Crueldad Mayor](/dotes/campeon/crueldad-mayor/) ✓ — Toque del vacío causa torpe o estupefacto
 
 ### Nivel 10
-- [Armamento Radiante]({{ '/clases/campeon/dotes/#armamento-radiante' | relative_url }}) ✓ — Añade runa profana
+- [Armamento Radiante](/dotes/campeon/armamento-radiante/) ✓ — Añade runa profana
 
 ### Nivel 12
-- [Golpe Macabro]({{ '/clases/campeon/dotes/#golpe-macabro' | relative_url }}) ✓ — Duplica daño extra, drena
-- [Aura de Fe]({{ '/clases/campeon/dotes/#aura-de-fe' | relative_url }}) ✓ — Aliados añaden rasgo profano
+- [Golpe Macabro](/dotes/campeon/golpe-macabro/) ✓ — Duplica daño extra, drena
+- [Aura de Fe](/dotes/campeon/aura-de-fe/) ✓ — Aliados añaden rasgo profano
 
 ### Nivel 14
-- [Reflejos Divinos]({{ '/clases/campeon/dotes/#reflejos-divinos' | relative_url }}) ✓ — Reacción adicional
+- [Reflejos Divinos](/dotes/campeon/reflejos-divinos/) ✓ — Reacción adicional
 
 ### Nivel 16
-- [Instrumento de Masacre]({{ '/clases/campeon/dotes/#instrumento-de-masacre' | relative_url }}) ✓ — Sangrado en críticos
+- [Instrumento de Masacre](/dotes/campeon/instrumento-de-masacre/) ✓ — Sangrado en críticos
 
 ### Nivel 18
-- [Retribución Veloz]({{ '/clases/campeon/dotes/#retribucion-veloz' | relative_url }}) ✓ — Acelerado tras reacción
+- [Retribución Veloz](/dotes/campeon/retribucion-veloz/) ✓ — Acelerado tras reacción
 
 ### Nivel 20
-- [Defensor Sagrado]({{ '/clases/campeon/dotes/#defensor-sagrado' | relative_url }}) ✓ — Resistencia a daño físico (aumentada contra extrasagrados)
+- [Defensor Sagrado](/dotes/campeon/defensor-sagrado/) ✓ — Resistencia a daño físico (aumentada contra extrasagrados)
 
 ---
 
@@ -91,17 +91,17 @@ Escudo Egoísta te protege de ataques, priorizando tu propia supervivencia sobre
 
 El Campeón Profano es un ofensor divino:
 
-1. **Daño aumentado**: [Castigar]({{ '/clases/campeon/dotes/#castigar' | relative_url }}) + daño profano
-2. **Drenaje**: [Crueldad]({{ '/clases/campeon/dotes/#crueldad' | relative_url }}) y [Golpe Macabro]({{ '/clases/campeon/dotes/#golpe-macabro' | relative_url }})
-3. **Terror**: [Aura de Desesperación]({{ '/clases/campeon/dotes/#aura-de-desesperacion' | relative_url }}) debilita enemigos
+1. **Daño aumentado**: [Castigar](/dotes/campeon/castigar/) + daño profano
+2. **Drenaje**: [Crueldad](/dotes/campeon/crueldad/) y [Golpe Macabro](/dotes/campeon/golpe-macabro/)
+3. **Terror**: [Aura de Desesperación](/dotes/campeon/aura-de-desesperacion/) debilita enemigos
 4. **Venganza**: Reacciones que devuelven daño
 
 ### Secuencia de Combate
-1. [Castigar]({{ '/clases/campeon/dotes/#castigar' | relative_url }}) al objetivo principal
+1. [Castigar](/dotes/campeon/castigar/) al objetivo principal
 2. Golpes con daño profano extra
-3. [Crueldad]({{ '/clases/campeon/dotes/#crueldad' | relative_url }}) para debilitar
+3. [Crueldad](/dotes/campeon/crueldad/) para debilitar
 4. Venganza Destructiva cuando te atacan
-5. [Golpe Macabro]({{ '/clases/campeon/dotes/#golpe-macabro' | relative_url }}) para daño masivo
+5. [Golpe Macabro](/dotes/campeon/golpe-macabro/) para daño masivo
 
 ### Fortalezas
 - Alto daño sostenido

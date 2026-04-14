@@ -38,23 +38,23 @@ adventure_path: null
 ## Progresión de Dotes
 
 ### Nivel 1
-- [Doble Tajo]({{ '/clases/guerrero/dotes/#doble-tajo' | relative_url }}) ✓ — Atacas con ambas armas simultáneamente
+- [Doble Tajo](/dotes/guerrero/doble-tajo/) ✓ — Atacas con ambas armas simultáneamente
 
 ### Nivel 4
-- [Parada Gemela]({{ '/clases/guerrero/dotes/#parada-gemela' | relative_url }}) ✓ — Utilizas ambas armas para defenderte (+1/+2 CA)
-- [Distracción Gemela]({{ '/clases/guerrero/dotes/#distraccion-gemela' | relative_url }}) ✗ — *No existe con este nombre. Buscar alternativa.*
+- [Parada Gemela](/dotes/guerrero/parada-gemela/) ✓ — Utilizas ambas armas para defenderte (+1/+2 CA)
+- [Distracción Gemela](/dotes/guerrero/distraccion-gemela/) ✗ — *No existe con este nombre. Buscar alternativa.*
 
 ### Nivel 6
-- [Posición de Rebote]({{ '/clases/guerrero/dotes/#posicion-de-rebote' | relative_url }}) ✓ — Tus armas arrojadizas vuelven a ti (opcional para estilo mixto)
+- [Posición de Rebote](/dotes/guerrero/posicion-de-rebote/) ✓ — Tus armas arrojadizas vuelven a ti (opcional para estilo mixto)
 
 ### Nivel 10
-- [Réplica Gemela]({{ '/clases/guerrero/dotes/#replica-gemela' | relative_url }}) ✓ — Contraatacas cuando el enemigo falla críticamente
+- [Réplica Gemela](/dotes/guerrero/replica-gemela/) ✓ — Contraatacas cuando el enemigo falla críticamente
 
 ### Nivel 14
-- [Réplica Gemela Mejorada]({{ '/clases/guerrero/dotes/#replica-gemela-mejorada' | relative_url }}) ✓ — Ya no necesitas Parada Gemela activa para usar Réplica Gemela
+- [Réplica Gemela Mejorada](/dotes/guerrero/replica-gemela-mejorada/) ✓ — Ya no necesitas Parada Gemela activa para usar Réplica Gemela
 
 ### Nivel 16
-- [Defensa Gemela]({{ '/clases/guerrero/dotes/#defensa-gemela' | relative_url }}) ✓ — Tienes Parada Gemela constantemente activa
+- [Defensa Gemela](/dotes/guerrero/defensa-gemela/) ✓ — Tienes Parada Gemela constantemente activa
 
 ---
 
@@ -62,9 +62,9 @@ adventure_path: null
 
 Este guerrero se especializa en realizar muchos ataques con penalización reducida gracias a usar armas ágiles en la mano secundaria. La secuencia típica de combate es:
 
-1. **Turno 1**: Usar [Doble Tajo]({{ '/clases/guerrero/dotes/#doble-tajo' | relative_url }}) para atacar dos veces
-2. **Turno 2**: Si te atacaron, usar [Parada Gemela]({{ '/clases/guerrero/dotes/#parada-gemela' | relative_url }}) para defensa, luego atacar
-3. **Reacción**: Cuando el enemigo falla críticamente, usar [Réplica Gemela]({{ '/clases/guerrero/dotes/#replica-gemela' | relative_url }}) para contraatacar
+1. **Turno 1**: Usar [Doble Tajo](/dotes/guerrero/doble-tajo/) para atacar dos veces
+2. **Turno 2**: Si te atacaron, usar [Parada Gemela](/dotes/guerrero/parada-gemela/) para defensa, luego atacar
+3. **Reacción**: Cuando el enemigo falla críticamente, usar [Réplica Gemela](/dotes/guerrero/replica-gemela/) para contraatacar
 
 ### Fortalezas
 - Alto número de ataques por turno

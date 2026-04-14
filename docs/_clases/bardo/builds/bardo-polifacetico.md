@@ -30,8 +30,8 @@ adventure_path: null
 ## Habilidades Importantes
 
 - [Interpretación]({{ '/habilidades/interpretacion/' | relative_url }}) — base de clase
-- [Engaño]({{ '/habilidades/engano/' | relative_url }}) — [Interpretación Versátil]({{ '/clases/bardo/dotes/#interpretacion-versatil' | relative_url }})
-- [Diplomacia]({{ '/habilidades/diplomacia/' | relative_url }}) — [Interpretación Versátil]({{ '/clases/bardo/dotes/#interpretacion-versatil' | relative_url }})
+- [Engaño]({{ '/habilidades/engano/' | relative_url }}) — [Interpretación Versátil](/dotes/bardo/interpretacion-versatil/)
+- [Diplomacia]({{ '/habilidades/diplomacia/' | relative_url }}) — [Interpretación Versátil](/dotes/bardo/interpretacion-versatil/)
 - [Ocultismo]({{ '/habilidades/ocultismo/' | relative_url }}) — tradición y libro de conjuros
 
 ---
@@ -39,44 +39,44 @@ adventure_path: null
 ## Progresión de Dotes
 
 ### Nivel 1
-- [Interpretación Versátil]({{ '/clases/bardo/dotes/#interpretacion-versatil' | relative_url }}) ✓ — Interpretación reemplaza habilidades sociales
-- [Conjuro de Alcance]({{ '/clases/bardo/dotes/#conjuro-de-alcance' | relative_url }}) ✓ — Extiende alcance de conjuros
+- [Interpretación Versátil](/dotes/bardo/interpretacion-versatil/) ✓ — Interpretación reemplaza habilidades sociales
+- [Conjuro de Alcance](/dotes/bardo/conjuro-de-alcance/) ✓ — Extiende alcance de conjuros
 
 ### Nivel 2
-- [Polifacético Esotérico]({{ '/clases/bardo/dotes/#polifacetico-esoterico' | relative_url }}) ✓ — Libro de conjuros ocultos
-- [Musa Variopinta]({{ '/clases/bardo/dotes/#musa-variopinta' | relative_url }}) ✓ — Acceso a dotes de otra musa
+- [Polifacético Esotérico](/dotes/bardo/polifacetico-esoterico/) ✓ — Libro de conjuros ocultos
+- [Musa Variopinta](/dotes/bardo/musa-variopinta/) ✓ — Acceso a dotes de otra musa
 
 ### Nivel 4
-- [Signatura Versátil]({{ '/clases/bardo/dotes/#signatura-versatil' | relative_url }}) ✓ — Cambia conjuros de signatura diariamente
-- [Conjuro Melodioso]({{ '/clases/bardo/dotes/#conjuro-melodioso' | relative_url }}) ✓ — Lanzamiento sutil
+- [Signatura Versátil](/dotes/bardo/signatura-versatil/) ✓ — Cambia conjuros de signatura diariamente
+- [Conjuro Melodioso](/dotes/bardo/conjuro-melodioso/) ✓ — Lanzamiento sutil
 
 ### Nivel 6
-- [Lanzamiento de Conjuros Firme]({{ '/clases/bardo/dotes/#lanzamiento-de-conjuros-firme' | relative_url }}) ✓ — Resistir interrupciones
+- [Lanzamiento de Conjuros Firme](/dotes/bardo/lanzamiento-de-conjuros-firme/) ✓ — Resistir interrupciones
 
 ### Nivel 8
-- [Habilidad Ecléctica]({{ '/clases/bardo/dotes/#habilidad-eclectica' | relative_url }}) ✓ — Competencia en habilidades no entrenadas
-- [Acompañar]({{ '/clases/bardo/dotes/#acompanar' | relative_url }}) ✓ — Apoya lanzamiento de aliados
+- [Habilidad Ecléctica](/dotes/bardo/habilidad-eclectica/) ✓ — Competencia en habilidades no entrenadas
+- [Acompañar](/dotes/bardo/acompanar/) ✓ — Apoya lanzamiento de aliados
 
 ### Nivel 10
-- [Composición Inusual]({{ '/clases/bardo/dotes/#composicion-inusual' | relative_url }}) ✓ — Composiciones afectan cualquier sentido
-- [Lanzamiento Apresurado]({{ '/clases/bardo/dotes/#lanzamiento-apresurado' | relative_url }}) ✓ — Conjuros más rápidos
+- [Composición Inusual](/dotes/bardo/composicion-inusual/) ✓ — Composiciones afectan cualquier sentido
+- [Lanzamiento Apresurado](/dotes/bardo/lanzamiento-apresurado/) ✓ — Conjuros más rápidos
 
 ### Nivel 12
-- [Polifacético Ecléctico]({{ '/clases/bardo/dotes/#polifacetico-eclectico' | relative_url }}) ✓ — Mantén conjuros del libro en repertorio
-- [Foco Inspirativo]({{ '/clases/bardo/dotes/#foco-inspirativo' | relative_url }}) ✓ — Recupera todos los Puntos de Foco
+- [Polifacético Ecléctico](/dotes/bardo/polifacetico-eclectico/) ✓ — Mantén conjuros del libro en repertorio
+- [Foco Inspirativo](/dotes/bardo/foco-inspirativo/) ✓ — Recupera todos los Puntos de Foco
 
 ### Nivel 14
-- [Allegro]({{ '/clases/bardo/dotes/#allegro' | relative_url }}) ✓ — Acelera a un aliado
-- [Balada Tranquilizadora]({{ '/clases/bardo/dotes/#balada-tranquilizadora' | relative_url }}) ✓ — Curación con interpretación
+- [Allegro](/dotes/bardo/allegro/) ✓ — Acelera a un aliado
+- [Balada Tranquilizadora](/dotes/bardo/balada-tranquilizadora/) ✓ — Curación con interpretación
 
 ### Nivel 16
-- [Concentración sin Esfuerzo]({{ '/clases/bardo/dotes/#concentracion-sin-esfuerzo' | relative_url }}) ✓ — Mantén conjuros automáticamente
+- [Concentración sin Esfuerzo](/dotes/bardo/concentracion-sin-esfuerzo/) ✓ — Mantén conjuros automáticamente
 
 ### Nivel 18
-- [Polifacético Imposible]({{ '/clases/bardo/dotes/#polifacetico-imposible' | relative_url }}) ✓ — Acceso a conjuros de otras tradiciones
+- [Polifacético Imposible](/dotes/bardo/polifacetico-imposible/) ✓ — Acceso a conjuros de otras tradiciones
 
 ### Nivel 20
-- [Polifacético Definitivo]({{ '/clases/bardo/dotes/#polifacetico-definitivo' | relative_url }}) ✓ — Todos los conjuros son de signatura
+- [Polifacético Definitivo](/dotes/bardo/polifacetico-definitivo/) ✓ — Todos los conjuros son de signatura
 
 ---
 
@@ -90,10 +90,10 @@ La musa polifacético te inspira a ser un experto en todo. Obtienes Interpretaci
 
 El Bardo Polifacético es el maestro de la adaptación:
 
-1. **Repertorio expandido**: [Polifacético Esotérico]({{ '/clases/bardo/dotes/#polifacetico-esoterico' | relative_url }}) añade conjuros del libro
-2. **Habilidades universales**: [Interpretación Versátil]({{ '/clases/bardo/dotes/#interpretacion-versatil' | relative_url }}) + [Habilidad Ecléctica]({{ '/clases/bardo/dotes/#habilidad-eclectica' | relative_url }})
-3. **Flexibilidad diaria**: [Signatura Versátil]({{ '/clases/bardo/dotes/#signatura-versatil' | relative_url }}) cambia conjuros
-4. **Acceso total**: [Polifacético Imposible]({{ '/clases/bardo/dotes/#polifacetico-imposible' | relative_url }}) da acceso a todas las tradiciones
+1. **Repertorio expandido**: [Polifacético Esotérico](/dotes/bardo/polifacetico-esoterico/) añade conjuros del libro
+2. **Habilidades universales**: [Interpretación Versátil](/dotes/bardo/interpretacion-versatil/) + [Habilidad Ecléctica](/dotes/bardo/habilidad-eclectica/)
+3. **Flexibilidad diaria**: [Signatura Versátil](/dotes/bardo/signatura-versatil/) cambia conjuros
+4. **Acceso total**: [Polifacético Imposible](/dotes/bardo/polifacetico-imposible/) da acceso a todas las tradiciones
 
 ### Conjuros Sugeridos
 
@@ -110,7 +110,7 @@ El Bardo Polifacético es el maestro de la adaptación:
 1. Evalúa la situación
 2. Usa el conjuro más apropiado (tienes muchos)
 3. Composiciones para apoyo general
-4. [Conjuro Melodioso]({{ '/clases/bardo/dotes/#conjuro-melodioso' | relative_url }}) para lanzamiento sutil si es necesario
+4. [Conjuro Melodioso](/dotes/bardo/conjuro-melodioso/) para lanzamiento sutil si es necesario
 
 ### Fortalezas
 - Solución para casi cualquier problema

@@ -53,35 +53,35 @@ adventure_path: Kingmaker
 ## Progresión de Dotes
 
 ### Nivel 1
-- [Compañero Animal]({{ '/clases/explorador/dotes/#companero-animal' | relative_url }}) ✓ — Obtén un compañero que beneficia de Perseguir presa
-- [Cazador de Monstruos]({{ '/clases/explorador/dotes/#cazador-de-monstruos' | relative_url }}) ✓ — Recordar conocimiento al Perseguir + bonificador a aliados
+- [Compañero Animal](/dotes/explorador/companero-animal/) ✓ — Obtén un compañero que beneficia de Perseguir presa
+- [Cazador de Monstruos](/dotes/explorador/cazador-de-monstruos/) ✓ — Recordar conocimiento al Perseguir + bonificador a aliados
 
 ### Nivel 2
-- [Terreno Predilecto]({{ '/clases/explorador/dotes/#terreno-predilecto' | relative_url }}) ✓ — Elige Bosque para las Tierras Robadas
+- [Terreno Predilecto](/dotes/explorador/terreno-predilecto/) ✓ — Elige Bosque para las Tierras Robadas
 
 ### Nivel 4
-- [Aviso del Batidor]({{ '/clases/explorador/dotes/#aviso-del-batidor' | relative_url }}) ✓ — +1 a iniciativa de aliados
-- [Disparo a Larga Distancia]({{ '/clases/explorador/dotes/#disparo-a-larga-distancia' | relative_url }}) ✓ — Dobla incrementos de rango
+- [Aviso del Batidor](/dotes/explorador/aviso-del-batidor/) ✓ — +1 a iniciativa de aliados
+- [Disparo a Larga Distancia](/dotes/explorador/disparo-a-larga-distancia/) ✓ — Dobla incrementos de rango
 
 ### Nivel 6
-- [Compañero Animal Maduro]({{ '/clases/explorador/dotes/#companero-animal-maduro' | relative_url }}) ✓ — Tu compañero actúa independientemente
-- [Rastreador Rápido]({{ '/clases/explorador/dotes/#rastreador-rapido' | relative_url }}) ✓ — Rastrea a Velocidad completa
+- [Compañero Animal Maduro](/dotes/explorador/companero-animal-maduro/) ✓ — Tu compañero actúa independientemente
+- [Rastreador Rápido](/dotes/explorador/rastreador-rapido/) ✓ — Rastrea a Velocidad completa
 
 ### Nivel 8
-- [Puntería Mortal]({{ '/clases/explorador/dotes/#punteria-mortal' | relative_url }}) ✓ — +4 a +8 daño contra presa
-- [Maestro del Terreno]({{ '/clases/explorador/dotes/#maestro-del-terreno' | relative_url }}) ✓ — Cambia terreno predilecto practicando
+- [Puntería Mortal](/dotes/explorador/punteria-mortal/) ✓ — +4 a +8 daño contra presa
+- [Maestro del Terreno](/dotes/explorador/maestro-del-terreno/) ✓ — Cambia terreno predilecto practicando
 
 ### Nivel 10
-- [Compañero Sensacional]({{ '/clases/explorador/dotes/#companero-sensacional' | relative_url }}) ✓ — Compañero agil o salvaje
-- [Cazador de Monstruos Maestro]({{ '/clases/explorador/dotes/#cazador-de-monstruos-maestro' | relative_url }}) ✓ — Usa Naturaleza para identificar cualquier criatura
+- [Compañero Sensacional](/dotes/explorador/companero-sensacional/) ✓ — Compañero agil o salvaje
+- [Cazador de Monstruos Maestro](/dotes/explorador/cazador-de-monstruos-maestro/) ✓ — Usa Naturaleza para identificar cualquier criatura
 
 ### Nivel 12
-- [Codo con Codo]({{ '/clases/explorador/dotes/#codo-con-codo' | relative_url }}) ✓ — Flanquea siempre con tu compañero
-- [Tiro de Distracción]({{ '/clases/explorador/dotes/#tiro-de-distraccion' | relative_url }}) ✓ — Impactos dejan a la presa desprevenida
+- [Codo con Codo](/dotes/explorador/codo-con-codo/) ✓ — Flanquea siempre con tu compañero
+- [Tiro de Distracción](/dotes/explorador/tiro-de-distraccion/) ✓ — Impactos dejan a la presa desprevenida
 
 ### Nivel 14
-- [Compañero Sigiloso]({{ '/clases/explorador/dotes/#companero-sigiloso' | relative_url }}) ✓ — Tu compañero se camufla
-- [Guía del Guardián]({{ '/clases/explorador/dotes/#guia-del-guardian' | relative_url }}) ✓ — Aliados encuentran tu presa automáticamente
+- [Compañero Sigiloso](/dotes/explorador/companero-sigiloso/) ✓ — Tu compañero se camufla
+- [Guía del Guardián](/dotes/explorador/guia-del-guardian/) ✓ — Aliados encuentran tu presa automáticamente
 
 ---
 
@@ -95,9 +95,9 @@ La ventaja de Precisión añade 1d8 de daño de precisión a tu primer Golpe con
 
 El Explorador de las Tierras Robadas combina exploración con combate efectivo:
 
-1. **Exploración**: Usa [Rastreador Rápido]({{ '/clases/explorador/dotes/#rastreador-rapido' | relative_url }}) y Supervivencia para guiar al grupo
-2. **Combate**: Persigue presa → Dispara con [Puntería Mortal]({{ '/clases/explorador/dotes/#punteria-mortal' | relative_url }}) + Precisión
-3. **Apoyo**: [Aviso del Batidor]({{ '/clases/explorador/dotes/#aviso-del-batidor' | relative_url }}) y [Cazador de Monstruos]({{ '/clases/explorador/dotes/#cazador-de-monstruos' | relative_url }}) benefician a aliados
+1. **Exploración**: Usa [Rastreador Rápido](/dotes/explorador/rastreador-rapido/) y Supervivencia para guiar al grupo
+2. **Combate**: Persigue presa → Dispara con [Puntería Mortal](/dotes/explorador/punteria-mortal/) + Precisión
+3. **Apoyo**: [Aviso del Batidor](/dotes/explorador/aviso-del-batidor/) y [Cazador de Monstruos](/dotes/explorador/cazador-de-monstruos/) benefician a aliados
 4. **Compañero**: Tu animal actúa independientemente para flanquear
 
 ### Compañeros Animales Sugeridos

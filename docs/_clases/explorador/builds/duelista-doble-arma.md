@@ -39,32 +39,32 @@ adventure_path: null
 ## Progresión de Dotes
 
 ### Nivel 1
-- [Derribo Gemelo]({{ '/clases/explorador/dotes/#derribo-gemelo' | relative_url }}) ✓ — Dos Golpes que combinan daño contra resistencias
+- [Derribo Gemelo](/dotes/explorador/derribo-gemelo/) ✓ — Dos Golpes que combinan daño contra resistencias
 
 ### Nivel 2
-- [Desenvainado Rápido]({{ '/clases/explorador/dotes/#desenvainado-rapido' | relative_url }}) ✓ — Desenfunda y Golpea en una acción
+- [Desenvainado Rápido](/dotes/explorador/desenvainado-rapido/) ✓ — Desenfunda y Golpea en una acción
 
 ### Nivel 4
-- [Parada Gemela]({{ '/clases/explorador/dotes/#parada-gemela' | relative_url }}) ✓ — +1 o +2 CA con dos armas
-- [Perturbar Presa]({{ '/clases/explorador/dotes/#perturbar-presa' | relative_url }}) ✓ — Reacción para Golpear y perturbar
+- [Parada Gemela](/dotes/explorador/parada-gemela/) ✓ — +1 o +2 CA con dos armas
+- [Perturbar Presa](/dotes/explorador/perturbar-presa/) ✓ — Reacción para Golpear y perturbar
 
 ### Nivel 6
-- [Golpe Hostigador]({{ '/clases/explorador/dotes/#golpe-hostigador' | relative_url }}) ✓ — Paso + Golpe o Golpe + Paso
+- [Golpe Hostigador](/dotes/explorador/golpe-hostigador/) ✓ — Paso + Golpe o Golpe + Paso
 
 ### Nivel 8
-- [Lucha a Ciegas]({{ '/clases/explorador/dotes/#lucha-a-ciegas' | relative_url }}) ✓ — No necesitas ver para atacar
+- [Lucha a Ciegas](/dotes/explorador/lucha-a-ciegas/) ✓ — No necesitas ver para atacar
 
 ### Nivel 10
-- [Réplica Gemela]({{ '/clases/explorador/dotes/#replica-gemela' | relative_url }}) ✓ — Contraataca cuando el enemigo falla críticamente
+- [Réplica Gemela](/dotes/explorador/replica-gemela/) ✓ — Contraataca cuando el enemigo falla críticamente
 
 ### Nivel 12
-- [Segundo Aguijón]({{ '/clases/explorador/dotes/#segundo-aguijon' | relative_url }}) ✓ — Incluso fallos causan algo de daño
+- [Segundo Aguijón](/dotes/explorador/segundo-aguijon/) ✓ — Incluso fallos causan algo de daño
 
 ### Nivel 16
-- [Réplica Gemela Mejorada]({{ '/clases/explorador/dotes/#replica-gemela-mejorada' | relative_url }}) ✓ — Reacción adicional para Réplica
+- [Réplica Gemela Mejorada](/dotes/explorador/replica-gemela-mejorada/) ✓ — Reacción adicional para Réplica
 
 ### Nivel 18
-- [Ráfaga Imposible]({{ '/clases/explorador/dotes/#rafaga-imposible' | relative_url }}) ✓ — 6 Golpes en una acción de 3 acciones
+- [Ráfaga Imposible](/dotes/explorador/rafaga-imposible/) ✓ — 6 Golpes en una acción de 3 acciones
 
 ---
 
@@ -79,14 +79,14 @@ La ventaja de Flanqueador te permite flanquear a tu presa incluso sin un aliado 
 El Duelista de Doble Arma es un torbellino de ataques:
 
 1. **Perseguir presa**: Siempre desprevenida = +2 al ataque y daño de precisión
-2. **Ofensiva**: [Derribo Gemelo]({{ '/clases/explorador/dotes/#derribo-gemelo' | relative_url }}) para daño combinado
-3. **Defensiva**: [Parada Gemela]({{ '/clases/explorador/dotes/#parada-gemela' | relative_url }}) cuando necesitas CA
-4. **Reacción**: [Perturbar Presa]({{ '/clases/explorador/dotes/#perturbar-presa' | relative_url }}) y [Réplica Gemela]({{ '/clases/explorador/dotes/#replica-gemela' | relative_url }})
+2. **Ofensiva**: [Derribo Gemelo](/dotes/explorador/derribo-gemelo/) para daño combinado
+3. **Defensiva**: [Parada Gemela](/dotes/explorador/parada-gemela/) cuando necesitas CA
+4. **Reacción**: [Perturbar Presa](/dotes/explorador/perturbar-presa/) y [Réplica Gemela](/dotes/explorador/replica-gemela/)
 
 ### Secuencia de Combate
-1. Turno 1: Perseguir presa → Zancada → [Derribo Gemelo]({{ '/clases/explorador/dotes/#derribo-gemelo' | relative_url }})
-2. Turno 2: [Derribo Gemelo]({{ '/clases/explorador/dotes/#derribo-gemelo' | relative_url }}) → [Golpe Hostigador]({{ '/clases/explorador/dotes/#golpe-hostigador' | relative_url }}) (Golpe + Paso)
-3. Defensivo: [Derribo Gemelo]({{ '/clases/explorador/dotes/#derribo-gemelo' | relative_url }}) → [Parada Gemela]({{ '/clases/explorador/dotes/#parada-gemela' | relative_url }})
+1. Turno 1: Perseguir presa → Zancada → [Derribo Gemelo](/dotes/explorador/derribo-gemelo/)
+2. Turno 2: [Derribo Gemelo](/dotes/explorador/derribo-gemelo/) → [Golpe Hostigador](/dotes/explorador/golpe-hostigador/) (Golpe + Paso)
+3. Defensivo: [Derribo Gemelo](/dotes/explorador/derribo-gemelo/) → [Parada Gemela](/dotes/explorador/parada-gemela/)
 
 ### Fortalezas
 - Muchos ataques por turno
