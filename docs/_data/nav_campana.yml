@@ -13,3 +13,24 @@ links:
     url: /campana/bagajes/
   - title: Otras Consideraciones
     url: /campana/consideraciones/
+  - title: Brevoy
+    section: true
+    links:
+      - title: Brevoy (resumen)
+        url: /campana/brevoy/
+      - title: Issia
+        url: /campana/brevoy/issia/
+      - title: Rostland
+        url: /campana/brevoy/rostland/
+      - title: Casas Nobles
+        url: /campana/brevoy/casas-nobles/
+      - title: Choral el Conquistador
+        url: /campana/brevoy/choral-el-conquistador/
+      - title: La Desaparición
+        url: /campana/brevoy/la-desaparicion/
+      - title: Señores de la Espada Aldori
+        url: /campana/brevoy/senores-espada-aldori/
+      - title: Nueva Stetven
+        url: /campana/brevoy/nueva-stetven/
+      - title: Skywatch
+        url: /campana/brevoy/skywatch/
