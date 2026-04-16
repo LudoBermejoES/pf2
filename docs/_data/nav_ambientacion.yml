@@ -37,3 +37,24 @@ links:
     url: /ambientacion/organizaciones/
   - title: Regiones del Mar Interior
     url: /ambientacion/regiones/
+  - title: Brevoy
+    section: true
+    links:
+      - title: Brevoy (resumen)
+        url: /ambientacion/regiones/brevoy/
+      - title: Issia
+        url: /ambientacion/regiones/brevoy/issia/
+      - title: Rostland
+        url: /ambientacion/regiones/brevoy/rostland/
+      - title: Casas Nobles
+        url: /ambientacion/regiones/brevoy/casas-nobles/
+      - title: Choral el Conquistador
+        url: /ambientacion/regiones/brevoy/choral-el-conquistador/
+      - title: La Desaparición
+        url: /ambientacion/regiones/brevoy/la-desaparicion/
+      - title: Señores de la Espada Aldori
+        url: /ambientacion/regiones/brevoy/senores-espada-aldori/
+      - title: Nueva Stetven
+        url: /ambientacion/regiones/brevoy/nueva-stetven/
+      - title: Skywatch
+        url: /ambientacion/regiones/brevoy/skywatch/

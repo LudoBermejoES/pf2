@@ -28,6 +28,22 @@ La Región del Mar Interior consiste en el continente septentrional de Avistan y
 | [Las Tierras Quebradas]({{ '/ambientacion/regiones/tierras-quebradas/' | relative_url }}) | Supervivencia en un territorio extremo | Territorios aislados donde se enfrentan demonios, androides de naves estrelladas y colonos desesperados. |
 | [El Viejo Cheliax]({{ '/ambientacion/regiones/viejo-cheliax/' | relative_url }}) | Corrupción política y espiritual | Un imperio que vendió su alma al Infierno, donde los diablos caminan entre mortales y la rebelión fermenta en las sombras. |
 
+## Brevoy — Detalle de campaña
+
+[Brevoy](/ambientacion/regiones/brevoy/) es la nación del noreste de Avistán que sirve de punto de partida para la campaña **Kingmaker**. Se incluye documentación detallada de sus regiones, casas nobles y lugares de interés:
+
+| Artículo | Descripción |
+|---------|-------------|
+| [Brevoy](/ambientacion/regiones/brevoy/) | Resumen general de la nación |
+| [Issia](/ambientacion/regiones/brevoy/issia/) | La región pirata del norte |
+| [Rostland](/ambientacion/regiones/brevoy/rostland/) | La región fértil del sur, hogar de los Aldori |
+| [Casas Nobles](/ambientacion/regiones/brevoy/casas-nobles/) | Las siete grandes familias que gobiernan Brevoy |
+| [Choral el Conquistador](/ambientacion/regiones/brevoy/choral-el-conquistador/) | El fundador misterioso de Brevoy |
+| [La Desaparición](/ambientacion/regiones/brevoy/la-desaparicion/) | El suceso que desestabilizó el reino |
+| [Señores de la Espada Aldori](/ambientacion/regiones/brevoy/senores-espada-aldori/) | Los maestros espadachines de Rostland |
+| [Nueva Stetven](/ambientacion/regiones/brevoy/nueva-stetven/) | La capital de Brevoy |
+| [Skywatch](/ambientacion/regiones/brevoy/skywatch/) | La ciudad-observatorio sellada y abandonada |
+
 ## Idiomas regionales
 
 Estos idiomas regionales son poco comunes fuera de la region donde se generaron. Un personaje que proceda de una de las regiones indicadas a continuación, tendra automaticamente acceso a dicho idioma. En la Region del mar Interior, el idioma denominado comun en las reglas es lo mismo que el taldano.

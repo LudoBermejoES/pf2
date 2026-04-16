@@ -1,0 +1,8 @@
+# Vanishing
+
+> Fuente: https://pathfinderwiki.com/wiki/Vanishing
+> Descargado: 2026-04-16
+
+The **Vanishing** is a mysterious event that occurred in the nation of [Brevoy](https://pathfinderwiki.com/wiki/Brevoy "Brevoy") in early [4699 AR](https://pathfinderwiki.com/wiki/4699_AR "4699 AR") in which every member of the ruling [House Rogarvia](https://pathfinderwiki.com/wiki/House_Rogarvia "House Rogarvia") disappeared without a trace, leaving the country to be governed by the other feuding noble houses. Prior to this, the descendents of [Choral the Conqueror](https://pathfinderwiki.com/wiki/Choral_the_Conqueror "Choral the Conqueror") ruled the unified nation Brevoy for two hundred year from the [Dragonscale Thrones](https://pathfinderwiki.com/wiki/Dragonscale_Throne "Dragonscale Throne"). In their absence, House Rogarvia was replaced by [House Surtova](https://pathfinderwiki.com/wiki/House_Surtova "House Surtova") as the ruling dynasty in Brevoy, and [Noleski Surtova](https://pathfinderwiki.com/wiki/Noleski_Surtova "Noleski Surtova") now reigns from the [Ruby Fortress](https://pathfinderwiki.com/wiki/Ruby_Fortress "Ruby Fortress") in [New Stetven](https://pathfinderwiki.com/wiki/New_Stetven "New Stetven"). No explanation of the fate of House Rogarvia has ever been put forward and the Vanishing remained a mystery over a decade later.
+
+1.  [↑](#cite_ref-stolen-land-61_1-0) [Tim Hitchcock](https://pathfinderwiki.com/wiki/Tim_Hitchcock "Tim Hitchcock"), et al. [Stolen Land](https://pathfinderwiki.com/wiki/Stolen_Land "Stolen Land"), 61. [Paizo Inc.](https://pathfinderwiki.com/wiki/Paizo_Inc. "Paizo Inc."), 2010
