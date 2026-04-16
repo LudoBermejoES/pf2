@@ -36,6 +36,7 @@ Para crear un personaje adecuado para Kingmaker, consulta las siguientes seccion
 | [Clases]({{ '/campana/clases/' | relative_url }}) | Consideraciones especiales para cada clase |
 | [Bagajes]({{ '/campana/bagajes/' | relative_url }}) | Bagajes específicos de Kingmaker |
 | [Otras Consideraciones]({{ '/campana/consideraciones/' | relative_url }}) | Alineamiento, compañeros, habilidades, arquetipos e idiomas |
+| [Brevoy]({{ '/campana/brevoy/' | relative_url }}) | La nación de origen: historia, geografía, casas nobles y lugares clave |
 
 ---
 
