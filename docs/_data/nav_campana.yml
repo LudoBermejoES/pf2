@@ -5,6 +5,8 @@ root: /campana/
 links:
   - title: Kingmaker
     url: /campana/
+  - title: Guía de Inicio
+    url: /campana/guia-inicio/
   - title: Ascendencias
     url: /campana/ascendencias/
   - title: Clases

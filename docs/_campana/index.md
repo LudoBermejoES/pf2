@@ -26,6 +26,14 @@ Kingmaker es una Senda de Aventuras donde los jugadores recibirán un estatuto d
 
 ---
 
+## Empezar a Jugar
+
+| Sección | Descripción |
+|---------|-------------|
+| [Guía de Inicio — Cómo Jugar]({{ '/campana/guia-inicio/' | relative_url }}) | Todo lo que necesitas saber para tu primera partida: pruebas, combate, acciones, conjuros, movimiento y consejos |
+
+---
+
 ## Creación de Personajes
 
 Para crear un personaje adecuado para Kingmaker, consulta las siguientes secciones:
