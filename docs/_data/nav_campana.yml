@@ -15,6 +15,23 @@ links:
     url: /campana/bagajes/
   - title: Otras Consideraciones
     url: /campana/consideraciones/
+  - title: Personajes
+    section: true
+    links:
+      - title: Nali de la Hierbarroja
+        url: /campana/personajes/nali-de-la-hierbarroja/
+      - title: Dain Golka
+        url: /campana/personajes/dain-golka/
+      - title: Laughlin Lodovka
+        url: /campana/personajes/laughlin-lodovka/
+      - title: Durgan Garess
+        url: /campana/personajes/durgan-garess/
+      - title: Gael Mouro
+        url: /campana/personajes/gael-mouro/
+      - title: SIM SIM
+        url: /campana/personajes/sim-sim/
+      - title: Tark 'Krap'
+        url: /campana/personajes/tark-krap/
   - title: Brevoy
     section: true
     links:

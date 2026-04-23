@@ -1,0 +1,6453 @@
+{
+  "name": "Nali de la Hierbarroja",
+  "type": "character",
+  "prototypeToken": {
+    "flags": {
+      "pf2e": {
+        "linkToActorSize": true,
+        "autoscale": true
+      }
+    },
+    "height": 1,
+    "width": 1,
+    "actorLink": true,
+    "sight": {
+      "enabled": true,
+      "range": 0,
+      "angle": 360,
+      "visionMode": "basic",
+      "color": null,
+      "attenuation": 0.1,
+      "brightness": 0,
+      "saturation": 0,
+      "contrast": 0
+    },
+    "name": "Nali de la Hierbarroja",
+    "displayName": 20,
+    "texture": {
+      "src": "tokenizer/pc-images/nali_de_la_hierbarroja.Token.webp?1776181058913",
+      "anchorX": 0.5,
+      "anchorY": 0.5,
+      "offsetX": 0,
+      "offsetY": 0,
+      "fit": "contain",
+      "scaleX": 1,
+      "scaleY": 1,
+      "rotation": 0,
+      "tint": "#ffffff",
+      "alphaThreshold": 0.75
+    },
+    "lockRotation": true,
+    "rotation": 0,
+    "alpha": 1,
+    "disposition": -1,
+    "displayBars": 20,
+    "bar1": {
+      "attribute": "attributes.hp"
+    },
+    "bar2": {
+      "attribute": null
+    },
+    "light": {
+      "negative": false,
+      "priority": 0,
+      "alpha": 0.5,
+      "angle": 360,
+      "bright": 0,
+      "color": null,
+      "coloration": 1,
+      "dim": 0,
+      "attenuation": 0.5,
+      "luminosity": 0.5,
+      "saturation": 0,
+      "contrast": 0,
+      "shadows": 0,
+      "animation": {
+        "type": null,
+        "speed": 5,
+        "intensity": 5,
+        "reverse": false
+      },
+      "darkness": {
+        "min": 0,
+        "max": 1
+      }
+    },
+    "detectionModes": [],
+    "occludable": {
+      "radius": 0
+    },
+    "ring": {
+      "enabled": false,
+      "colors": {
+        "ring": null,
+        "background": null
+      },
+      "effects": 1,
+      "subject": {
+        "scale": 1,
+        "texture": null
+      }
+    },
+    "turnMarker": {
+      "mode": 1,
+      "animation": null,
+      "src": null,
+      "disposition": false
+    },
+    "movementAction": null,
+    "randomImg": false,
+    "appendNumber": false,
+    "prependAdjective": false
+  },
+  "effects": [],
+  "system": {
+    "attributes": {
+      "hp": {
+        "value": 18,
+        "temp": 0
+      }
+    },
+    "initiative": {
+      "statistic": "perception"
+    },
+    "details": {
+      "languages": {
+        "value": [
+          "none selected"
+        ],
+        "details": ""
+      },
+      "level": {
+        "value": 1
+      },
+      "biography": {
+        "appearance": "",
+        "backstory": "",
+        "birthPlace": "",
+        "attitude": "",
+        "beliefs": "",
+        "anathema": [],
+        "edicts": [],
+        "likes": "",
+        "dislikes": "",
+        "catchphrases": "",
+        "campaignNotes": "",
+        "allies": "",
+        "enemies": "",
+        "organizations": "",
+        "visibility": {
+          "appearance": true,
+          "backstory": false,
+          "personality": false,
+          "campaign": false
+        }
+      },
+      "keyability": {
+        "value": "wis"
+      },
+      "xp": {
+        "value": 0,
+        "min": 0,
+        "max": 1000
+      },
+      "age": {
+        "value": "25"
+      },
+      "height": {
+        "value": ""
+      },
+      "weight": {
+        "value": ""
+      },
+      "gender": {
+        "value": "Femenino"
+      },
+      "ethnicity": {
+        "value": "Zenj"
+      },
+      "nationality": {
+        "value": "Mwangi"
+      },
+      "deity": {
+        "value": "Erastil"
+      },
+      "alliance": "party"
+    },
+    "resources": {
+      "heroPoints": {
+        "value": 1,
+        "max": 3
+      },
+      "focus": {
+        "max": 0,
+        "value": 0
+      }
+    },
+    "_migration": {
+      "version": 0.955,
+      "previous": null
+    },
+    "abilities": null,
+    "skills": {
+      "acrobatics": {
+        "rank": 0
+      },
+      "arcana": {
+        "rank": 0
+      },
+      "athletics": {
+        "rank": 1
+      },
+      "crafting": {
+        "rank": 0
+      },
+      "deception": {
+        "rank": 0
+      },
+      "diplomacy": {
+        "rank": 1
+      },
+      "intimidation": {
+        "rank": 0
+      },
+      "medicine": {
+        "rank": 1
+      },
+      "nature": {
+        "rank": 1
+      },
+      "occultism": {
+        "rank": 0
+      },
+      "performance": {
+        "rank": 0
+      },
+      "religion": {
+        "rank": 1
+      },
+      "society": {
+        "rank": 0
+      },
+      "stealth": {
+        "rank": 0
+      },
+      "survival": {
+        "rank": 1
+      },
+      "thievery": {
+        "rank": 0
+      }
+    },
+    "pfs": {
+      "playerNumber": null,
+      "characterNumber": null,
+      "levelBump": false,
+      "currentFaction": "EA",
+      "school": null,
+      "reputation": {
+        "EA": null,
+        "GA": null,
+        "HH": null,
+        "VS": null,
+        "RO": null,
+        "VW": null
+      }
+    },
+    "exploration": [],
+    "traits": {
+      "size": {
+        "value": "med"
+      },
+      "senses": []
+    },
+    "build": {
+      "attributes": {
+        "boosts": {
+          "1": [
+            "wis",
+            "dex",
+            "con",
+            "int"
+          ]
+        }
+      }
+    },
+    "savingThrows": {
+      "fortitude": 2,
+      "reflex": 1,
+      "will": 2
+    },
+    "martial": {
+      "advanced": {
+        "rank": 0
+      },
+      "heavy": {
+        "rank": 0
+      },
+      "light": {
+        "rank": 1
+      },
+      "medium": {
+        "rank": 1
+      },
+      "unarmored": {
+        "rank": 1
+      },
+      "martial": {
+        "rank": 0
+      },
+      "simple": {
+        "rank": 1
+      },
+      "unarmed": {
+        "rank": 1
+      }
+    },
+    "crafting": {
+      "formulas": []
+    }
+  },
+  "img": "tokenizer/pc-images/nali_de_la_hierbarroja.Avatar.webp?1776181058913",
+  "items": [
+    {
+      "_id": "Cajlq8dTUQ5jDQ2J",
+      "folder": "mxeDA21feNRRstOp",
+      "img": "systems/pf2e/icons/deities/erastil.webp",
+      "name": "Erastil",
+      "system": {
+        "description": {
+          "gm": "",
+          "value": "<p>El Viejo Certero es el dios de la familia, la agricultura, la caza y el comercio. Hace mucho tiempo era un dios astado de la caza, pero su culto evolucionó hasta centrarse en las comunidades rurales. Sus clérigos se encuentran con más frecuencia en los asentamientos rurales o las tierras vírgenes de Avistan. En muchos casos, son la única presencia divina que se encuentra en tan apartados lugares</p>\n<p><strong>Área de interés</strong> caza, comercio, familia, granjas</p>\n<p><strong>Edictos</strong> cuidar de tu hogar y de tu familia, cumplir con tus obligaciones, mantener la paz, proteger a la comunidad</p>\n<p><strong>Anatemas</strong> abandonar tu hogar en momentos de necesidad, anteponerte a tu comunidad, empañar tu reputación, mentir</p>"
+        },
+        "rules": [],
+        "slug": "erastil",
+        "_migration": {
+          "version": 0.955,
+          "lastMigration": null,
+          "previous": null
+        },
+        "traits": {
+          "otherTags": []
+        },
+        "publication": {
+          "title": "Pathfinder Lost Omens: Misterios Divinos",
+          "authors": "",
+          "license": "ORC",
+          "remaster": true
+        },
+        "category": "deity",
+        "sanctification": {
+          "modal": "can",
+          "what": [
+            "holy"
+          ]
+        },
+        "domains": {
+          "primary": [
+            "earth",
+            "family",
+            "nature",
+            "wealth"
+          ],
+          "alternate": [
+            "duty"
+          ]
+        },
+        "font": [
+          "heal"
+        ],
+        "attribute": [
+          "con",
+          "wis"
+        ],
+        "skill": [
+          "survival"
+        ],
+        "weapons": [
+          "longbow"
+        ],
+        "spells": {
+          "1": "Compendium.pf2e.spells-srd.Item.Gb7SeieEvd0pL2Eh",
+          "3": "Compendium.pf2e.spells-srd.Item.KsWhliKfUs3IpW3c",
+          "5": "Compendium.pf2e.spells-srd.Item.F1qxaqsEItmBura2"
+        }
+      },
+      "type": "deity",
+      "_stats": {
+        "compendiumSource": "Compendium.pf2e.deities.Item.mm1j6UbHqFCI8fwB",
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "pf2e",
+        "systemVersion": "7.12.2",
+        "createdTime": 1776180625656,
+        "modifiedTime": 1776180625656,
+        "lastModifiedBy": "PSyRcSIZYjDSj8hT"
+      },
+      "effects": [],
+      "sort": 0,
+      "flags": {
+        "babele": {
+          "translated": true,
+          "hasTranslation": true,
+          "originalName": "Erastil"
+        },
+        "pf2e": {
+          "grantedBy": {
+            "id": "Rl9Cba3CmwKFR3Nf",
+            "onDelete": "cascade"
+          }
+        }
+      },
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "tYOwo0UZRG1j37Kv",
+      "img": "systems/pf2e/icons/ancestries/human.webp",
+      "name": "Humano",
+      "system": {
+        "description": {
+          "gm": "",
+          "value": "<p><em>Tan impredecibles y variados como cualquiera de los pueblos de Golarion, los humanos tienen un empuje excepcional y la capacidad de aguantar y expandirse. Aunque muchas civilizaciones prosperaron antes de que la humanidad se alzara a la prominencia, los humanos han construido algunas de las sociedades más grandes y más terribles de la historia y, hoy en día, constituyen el pueblo más populoso de los reinos que rodean el mar Interior.</em></p><em>\n<p>La ambición, la versatilidad y el potencial excepcional de los humanos les han llevado a su estatus actual como la ascendencia predominante del mundo. Sus imperios y naciones son vastos y están en continua expansión, y sus habitantes se labran un nombre con la fuerza de la espada y el poder del conjuro. La humanidad es diversa y tumultuosa, y va desde lo nómada hasta lo imperial, desde lo siniestro hasta lo sagrado. Muchos se aventuran para explorar, para cartografiar toda la extensión del multiverso, para buscar tesoros largo tiempo perdidos o para dirigir poderosos ejércitos con los que conquistar a sus vecinos, sin más razón que su simple voluntad.</p>\n<p>Si quieres un personaje que puede ser prácticamente cualquier cosa, deberías interpretar a un humano.</p></em>\n<p><em>@UUID[Compendium.pf2e.journals.JournalEntry.45SK8rdbbxvEHfMn.JournalEntryPage.7pU8yM7yPMw92SY3]{Humano}</em></p>"
+        },
+        "rules": [],
+        "slug": "human",
+        "_migration": {
+          "version": 0.955,
+          "lastMigration": null,
+          "previous": null
+        },
+        "traits": {
+          "otherTags": [],
+          "value": [
+            "human",
+            "humanoid"
+          ],
+          "rarity": "common"
+        },
+        "publication": {
+          "title": "Pathfinder Player Core",
+          "authors": "",
+          "license": "ORC",
+          "remaster": true
+        },
+        "hp": 8,
+        "size": "med",
+        "hands": 2,
+        "reach": 5,
+        "speed": 25,
+        "boosts": {
+          "0": {
+            "value": [
+              "cha",
+              "con",
+              "dex",
+              "int",
+              "str",
+              "wis"
+            ],
+            "selected": "wis"
+          },
+          "1": {
+            "value": [
+              "str",
+              "dex",
+              "con",
+              "int",
+              "wis",
+              "cha"
+            ],
+            "selected": "dex"
+          },
+          "2": {
+            "value": []
+          }
+        },
+        "flaws": {
+          "0": {
+            "value": []
+          }
+        },
+        "languages": {
+          "value": [
+            "common"
+          ],
+          "custom": ""
+        },
+        "additionalLanguages": {
+          "count": 1,
+          "value": [],
+          "custom": ""
+        },
+        "items": {},
+        "vision": "normal",
+        "alternateAncestryBoosts": [
+          "wis",
+          "dex"
+        ]
+      },
+      "type": "ancestry",
+      "_stats": {
+        "compendiumSource": "Compendium.pf2e.ancestries.Item.IiG7DgeLWYrSNXuX",
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "pf2e",
+        "systemVersion": "7.12.2",
+        "createdTime": 1776180625905,
+        "modifiedTime": 1776180625905,
+        "lastModifiedBy": "PSyRcSIZYjDSj8hT"
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "flags": {
+        "babele": {
+          "translated": true,
+          "hasTranslation": true,
+          "originalName": "Human"
+        }
+      },
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "JsbpOACZtWl0wQ3R",
+      "folder": "O7DVLyyF05fGfpdo",
+      "img": "icons/environment/people/group.webp",
+      "name": "Humano versátil",
+      "system": {
+        "ancestry": {
+          "name": "Human",
+          "slug": "human",
+          "uuid": "Compendium.pf2e.ancestries.Item.IiG7DgeLWYrSNXuX"
+        },
+        "description": {
+          "value": "<p>La versatilidad y la ambición de la humanidad han impulsado su ascenso hasta ser la ascendencia más común en la mayoría de las naciones del mundo. Selecciona una dote general a tu elección para la que cumples los prerrequisitos (igual que tu dote de ascendencia, puedes seleccionar esta dote general en cualquier momento durante la creación de personaje).</p>",
+          "gm": ""
+        },
+        "publication": {
+          "license": "ORC",
+          "remaster": true,
+          "title": "Pathfinder Manual de juego",
+          "authors": ""
+        },
+        "rules": [
+          {
+            "adjustName": false,
+            "choices": {
+              "filter": [
+                "item:level:1",
+                "item:trait:general"
+              ],
+              "itemType": "feat"
+            },
+            "flag": "versatileHeritage",
+            "key": "ChoiceSet",
+            "prompt": "PF2E.SpecificRule.GeneralTraining.Prompt",
+            "selection": "Compendium.pf2e.feats-srd.Item.jM72TjJ965jocBV8"
+          },
+          {
+            "key": "GrantItem",
+            "uuid": "{item|flags.system.rulesSelections.versatileHeritage}",
+            "flag": "shieldBlock"
+          }
+        ],
+        "traits": {
+          "rarity": "common",
+          "value": [],
+          "otherTags": []
+        },
+        "slug": "versatile-human",
+        "_migration": {
+          "version": 0.955,
+          "previous": null
+        }
+      },
+      "type": "heritage",
+      "_stats": {
+        "compendiumSource": "Compendium.pf2e.heritages.Item.hFBwsVcSnNCJoimo",
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "pf2e",
+        "systemVersion": "7.12.2",
+        "createdTime": 1776180626120,
+        "modifiedTime": 1776180626182,
+        "lastModifiedBy": "PSyRcSIZYjDSj8hT"
+      },
+      "effects": [],
+      "sort": 0,
+      "flags": {
+        "babele": {
+          "translated": true,
+          "hasTranslation": true,
+          "originalName": "Versatile Human"
+        },
+        "pf2e": {
+          "rulesSelections": {
+            "versatileHeritage": "Compendium.pf2e.feats-srd.Item.jM72TjJ965jocBV8"
+          },
+          "itemGrants": {
+            "shieldBlock": {
+              "id": "KzU66C8jO1YxFi6H",
+              "onDelete": "detach"
+            }
+          }
+        }
+      },
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "yVl6rK08kaHoOSGt",
+      "img": "systems/pf2e/icons/default-icons/background.svg",
+      "name": "Médico de campaña",
+      "system": {
+        "description": {
+          "gm": "",
+          "value": "<p> En el caótico ajetreo de la batalla, aprendiste a adaptarte a condiciones rápidamente cambiantes mientras atendías a las bajas. Apañaste a soldados, guardias u otros combatientes, y aprendiste bastante acerca de la logística de la guerra. </p>\n <p> Elige dos mejoras de atributo. Una debe ser a <strong> Constitución </strong> o a <strong> Sabiduría </strong> y la otra es una mejora de atributo gratuita. </p>\n <p> Estás entrenado en las habilidades Medicina y Saber (guerra). Obtienes la dote de habilidad @UUID[Compendium.pf2e.feats-srd.Item.wYerMk6F1RZb0Fwt]{Medicina de guerra}.</p>"
+        },
+        "rules": [],
+        "slug": "field-medic",
+        "_migration": {
+          "version": 0.955,
+          "lastMigration": null,
+          "previous": null
+        },
+        "traits": {
+          "otherTags": [],
+          "value": [],
+          "rarity": "common"
+        },
+        "publication": {
+          "title": "Pathfinder Manual de juego",
+          "authors": "",
+          "license": "ORC",
+          "remaster": true
+        },
+        "boosts": {
+          "0": {
+            "value": [
+              "con",
+              "wis"
+            ],
+            "selected": "con"
+          },
+          "1": {
+            "value": [
+              "cha",
+              "con",
+              "dex",
+              "int",
+              "str",
+              "wis"
+            ],
+            "selected": "wis"
+          }
+        },
+        "items": {
+          "lzyme": {
+            "img": "icons/sundries/books/book-red-exclamation.webp",
+            "level": 1,
+            "name": "Battle Medicine",
+            "uuid": "Compendium.pf2e.feats-srd.Item.wYerMk6F1RZb0Fwt"
+          }
+        },
+        "trainedSkills": {
+          "value": [
+            "medicine"
+          ],
+          "lore": [
+            "Warfare Lore"
+          ]
+        }
+      },
+      "type": "background",
+      "_stats": {
+        "compendiumSource": "Compendium.pf2e.backgrounds.Item.FKHut73XDUGTnKkP",
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "pf2e",
+        "systemVersion": "7.12.2",
+        "createdTime": 1776180626325,
+        "modifiedTime": 1776180630135,
+        "lastModifiedBy": "PSyRcSIZYjDSj8hT"
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "flags": {
+        "babele": {
+          "translated": true,
+          "hasTranslation": true,
+          "originalName": "Field Medic"
+        }
+      },
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "3acMHtcRoq4YIrsq",
+      "img": "systems/pf2e/icons/classes/cleric.webp",
+      "name": "Clérigo",
+      "system": {
+        "ancestryFeatLevels": {
+          "value": [
+            1,
+            5,
+            9,
+            13,
+            17
+          ]
+        },
+        "attacks": {
+          "advanced": 0,
+          "martial": 0,
+          "other": {
+            "name": "Deity's favored weapon",
+            "rank": 1
+          },
+          "simple": 1,
+          "unarmed": 1
+        },
+        "classFeatLevels": {
+          "value": [
+            2,
+            4,
+            6,
+            8,
+            10,
+            12,
+            14,
+            16,
+            18,
+            20
+          ]
+        },
+        "defenses": {
+          "heavy": 0,
+          "light": 0,
+          "medium": 0,
+          "unarmored": 1
+        },
+        "description": {
+          "value": "<p><em>El clérigo está dedicado a la adoración de un solo dios y extrae magia divina de esta devoción. Los clérigos pueden ser enormemente diferentes dependiendo de a quién adoran y de si se trata de clérigos de clausura que persiguen uno de los dominios de su dios o de sacerdotes de guerra que sirven como el brazo de la espada del suyo.</em></p>\n<p><em> @UUID[Compendium.pf2e.journals.JournalEntry.kzxu2dI7tFxv6Ix6.JournalEntryPage.N4ABcd6CcCbqmw3x]{Clérigo}</em></p>",
+          "gm": ""
+        },
+        "generalFeatLevels": {
+          "value": [
+            3,
+            7,
+            11,
+            15,
+            19
+          ]
+        },
+        "hp": 8,
+        "items": {
+          "365ut": {
+            "img": "systems/pf2e/icons/features/classes/deity.webp",
+            "level": 1,
+            "name": "Deity",
+            "uuid": "Compendium.pf2e.classfeatures.Item.DutW12WMFPHBoLTH"
+          },
+          "4eQbl": {
+            "img": "icons/weapons/axes/axe-double-gold.webp",
+            "level": 1,
+            "name": "Cleric Spellcasting",
+            "uuid": "Compendium.pf2e.classfeatures.Item.AvNbdGSOTWNRgcxs"
+          },
+          "5lsvf": {
+            "img": "icons/magic/symbols/question-stone-yellow.webp",
+            "level": 1,
+            "name": "Doctrine",
+            "uuid": "Compendium.pf2e.classfeatures.Item.tyrBwBTzo5t9Zho7"
+          },
+          "6j8f7": {
+            "img": "icons/magic/symbols/question-stone-yellow.webp",
+            "level": 1,
+            "name": "First Doctrine",
+            "uuid": "Compendium.pf2e.classfeatures.Item.Qejo7FUWQtPTpgWH"
+          },
+          "7gkd0": {
+            "img": "icons/magic/fire/flame-burning-hand-white.webp",
+            "level": 1,
+            "name": "Divine Font",
+            "uuid": "Compendium.pf2e.classfeatures.Item.gblTFUOgolqFS9v4"
+          },
+          "Awo2e": {
+            "img": "icons/magic/symbols/question-stone-yellow.webp",
+            "level": 3,
+            "name": "Second Doctrine",
+            "uuid": "Compendium.pf2e.classfeatures.Item.OnfrrwCfDFCFw0tc"
+          },
+          "BhM5T": {
+            "img": "icons/creatures/eyes/human-single-blue.webp",
+            "level": 5,
+            "name": "Perception Expertise",
+            "uuid": "Compendium.pf2e.classfeatures.Item.JCqACxgrm5ixX0Jy"
+          },
+          "Czcka": {
+            "img": "icons/magic/symbols/question-stone-yellow.webp",
+            "level": 7,
+            "name": "Third Doctrine",
+            "uuid": "Compendium.pf2e.classfeatures.Item.gxNxfN9OBlQ1icus"
+          },
+          "GUa4t": {
+            "img": "icons/magic/holy/chalice-glowing-gold.webp",
+            "level": 9,
+            "name": "Resolute Faith",
+            "uuid": "Compendium.pf2e.classfeatures.Item.0TjNGzs0FuD7JBf4"
+          },
+          "abLjR": {
+            "img": "icons/magic/symbols/symbol-lightning-bolt.webp",
+            "level": 11,
+            "name": "Reflex Expertise",
+            "uuid": "Compendium.pf2e.classfeatures.Item.TUOeATt52P43r5W0"
+          },
+          "ckmdj": {
+            "img": "icons/magic/symbols/question-stone-yellow.webp",
+            "level": 11,
+            "name": "Fourth Doctrine",
+            "uuid": "Compendium.pf2e.classfeatures.Item.o8nHreMyiLi64rZz"
+          },
+          "de44z": {
+            "img": "icons/creatures/abilities/wings-birdlike-blue.webp",
+            "level": 13,
+            "name": "Divine Defense",
+            "uuid": "Compendium.pf2e.classfeatures.Item.0mJTp4LdEHBLInoe"
+          },
+          "r47we": {
+            "img": "icons/magic/symbols/question-stone-yellow.webp",
+            "level": 15,
+            "name": "Fifth Doctrine",
+            "uuid": "Compendium.pf2e.classfeatures.Item.Zb7DuGbFoLEp0H1K"
+          },
+          "vrd25": {
+            "img": "systems/pf2e/icons/features/classes/weapon-specialization.webp",
+            "level": 13,
+            "name": "Weapon Specialization",
+            "uuid": "Compendium.pf2e.classfeatures.Item.9EqIasqfI8YIM3Pt"
+          },
+          "x2puy": {
+            "img": "icons/magic/symbols/question-stone-yellow.webp",
+            "level": 19,
+            "name": "Final Doctrine",
+            "uuid": "Compendium.pf2e.classfeatures.Item.urBGOPrUwBmkixAo"
+          },
+          "zmpzh": {
+            "img": "icons/magic/symbols/star-rising-purple.webp",
+            "level": 19,
+            "name": "Miraculous Spell",
+            "uuid": "Compendium.pf2e.classfeatures.Item.3uf31A91h3ywmlqm"
+          }
+        },
+        "keyAbility": {
+          "value": [
+            "wis"
+          ],
+          "selected": "wis"
+        },
+        "perception": 1,
+        "publication": {
+          "license": "ORC",
+          "remaster": true,
+          "title": "Pathfinder Manual de juego",
+          "authors": ""
+        },
+        "rules": [],
+        "savingThrows": {
+          "fortitude": 1,
+          "reflex": 1,
+          "will": 2
+        },
+        "skillFeatLevels": {
+          "value": [
+            2,
+            4,
+            6,
+            8,
+            10,
+            12,
+            14,
+            16,
+            18,
+            20
+          ]
+        },
+        "skillIncreaseLevels": {
+          "value": [
+            3,
+            5,
+            7,
+            9,
+            11,
+            13,
+            15,
+            17,
+            19
+          ]
+        },
+        "spellcasting": 1,
+        "trainedSkills": {
+          "additional": 2,
+          "value": [
+            "religion"
+          ]
+        },
+        "traits": {
+          "rarity": "common",
+          "otherTags": []
+        },
+        "slug": "cleric",
+        "_migration": {
+          "version": 0.955,
+          "previous": null
+        }
+      },
+      "type": "class",
+      "_stats": {
+        "compendiumSource": "Compendium.pf2e.classes.Item.EizrWvUPMS67Pahd",
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "pf2e",
+        "systemVersion": "7.12.2",
+        "createdTime": 1776180626514,
+        "modifiedTime": 1776180630135,
+        "lastModifiedBy": "PSyRcSIZYjDSj8hT"
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "flags": {
+        "babele": {
+          "translated": true,
+          "hasTranslation": true,
+          "originalName": "Cleric"
+        }
+      },
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "name": "Warfare",
+      "type": "lore",
+      "system": {
+        "description": {
+          "gm": "",
+          "value": ""
+        },
+        "rules": [],
+        "slug": null,
+        "_migration": {
+          "version": 0.955,
+          "lastMigration": null,
+          "previous": {
+            "schema": null,
+            "foundry": "13.351",
+            "system": "7.12.2"
+          }
+        },
+        "traits": {
+          "otherTags": []
+        },
+        "publication": {
+          "title": "",
+          "authors": "",
+          "license": "OGL",
+          "remaster": false
+        },
+        "mod": {
+          "value": 0
+        },
+        "proficient": {
+          "value": 1
+        },
+        "featType": "",
+        "item": {
+          "value": 0
+        }
+      },
+      "effects": [],
+      "_id": "VVrbnxXRTBVwtspG",
+      "img": "systems/pf2e/icons/default-icons/lore.svg",
+      "folder": null,
+      "sort": 0,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "pf2e",
+        "systemVersion": "7.12.2",
+        "createdTime": 1776180626610,
+        "modifiedTime": 1776180626610,
+        "lastModifiedBy": "PSyRcSIZYjDSj8hT"
+      },
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "folder": "68m1OED3fDU3fIfR",
+      "img": "icons/sundries/books/book-red-exclamation.webp",
+      "name": "Bloqueo con el escudo",
+      "system": {
+        "actionType": {
+          "value": "reaction"
+        },
+        "actions": {
+          "value": null
+        },
+        "category": "general",
+        "description": {
+          "value": "<p><strong>Desencadenante</strong> Podrías sufrir daño debido a un ataque físico (contundente, perforante o cortante) debido a un ataque cuando tienes el escudo alzado.</p>\n<hr />\n<p>Interpones tu escudo para protegerte de un Golpe. El escudo evita que sufras una cantidad de daño igual a la Dureza del mismo. Ambos os repartís el daño sobrante, lo que posiblemente puede romper o destruir el escudo.</p>",
+          "gm": ""
+        },
+        "level": {
+          "value": 1
+        },
+        "prerequisites": {
+          "value": []
+        },
+        "publication": {
+          "license": "ORC",
+          "remaster": true,
+          "title": "Pathfinder Manual de juego",
+          "authors": ""
+        },
+        "rules": [],
+        "traits": {
+          "rarity": "common",
+          "value": [
+            "general"
+          ],
+          "otherTags": []
+        },
+        "slug": "shield-block",
+        "_migration": {
+          "version": 0.955,
+          "previous": null
+        },
+        "onlyLevel1": false,
+        "maxTakable": 1,
+        "subfeatures": {
+          "proficiencies": {},
+          "senses": {},
+          "suppressedFeatures": []
+        },
+        "location": null
+      },
+      "type": "feat",
+      "_stats": {
+        "compendiumSource": "Compendium.pf2e.feats-srd.Item.jM72TjJ965jocBV8",
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "pf2e",
+        "systemVersion": "7.12.2",
+        "createdTime": 1776180626705,
+        "modifiedTime": 1776180626705,
+        "lastModifiedBy": "PSyRcSIZYjDSj8hT"
+      },
+      "effects": [],
+      "sort": 0,
+      "flags": {
+        "babele": {
+          "translated": true,
+          "hasTranslation": true,
+          "originalName": "Shield Block"
+        },
+        "pathmuncher": {
+          "origin": {
+            "uuid": "Compendium.pf2e.feats-srd.Item.jM72TjJ965jocBV8"
+          }
+        },
+        "pf2e": {
+          "grantedBy": {
+            "id": "JsbpOACZtWl0wQ3R",
+            "onDelete": "cascade"
+          }
+        }
+      },
+      "_id": "KzU66C8jO1YxFi6H",
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "H4gUnoWasClRLx9H",
+      "folder": "QhHpEbq98ZJAyDiH",
+      "img": "icons/sundries/books/book-red-exclamation.webp",
+      "name": "Medicina de guerra",
+      "system": {
+        "actionType": {
+          "value": "action"
+        },
+        "actions": {
+          "value": 1
+        },
+        "category": "skill",
+        "description": {
+          "value": "<p><strong>Requisitos</strong> Tienes o sostienes material de curas.\n</p><hr />\n<p>Puedes apañar heridas, incluso en combate. Haz una prueba de Medicina con la misma CD que para @UUID[Compendium.pf2e.actionspf2e.Item.1kGNdIIhuglAjIp9]{Tratar heridas}, con lo que restableces la correspondiente cantidad de PG; esto no elimina el estado herido. Igual que con Tratar heridas, puedes hacer pruebas contra CD mayores si tienes el rango de competencia mínimo. A continuación, el objetivo queda @UUID[Compendium.pf2e.feat-effects.Item.2XEYQNZTCGpdkyR6]{inmune} a tu Medicina de guerra durante 1 día. Esto no le deja inmune a Tratar heridas ni cuenta como ello.</p>",
+          "gm": ""
+        },
+        "level": {
+          "value": 1
+        },
+        "prerequisites": {
+          "value": [
+            {
+              "value": "rango entrenado en Medicina"
+            }
+          ]
+        },
+        "publication": {
+          "license": "ORC",
+          "remaster": true,
+          "title": "Pathfinder Manual de juego",
+          "authors": ""
+        },
+        "rules": [],
+        "traits": {
+          "rarity": "common",
+          "value": [
+            "general",
+            "healing",
+            "manipulate",
+            "skill"
+          ],
+          "otherTags": []
+        },
+        "slug": "battle-medicine",
+        "_migration": {
+          "version": 0.955,
+          "previous": null
+        },
+        "onlyLevel1": false,
+        "maxTakable": 1,
+        "subfeatures": {
+          "proficiencies": {},
+          "senses": {},
+          "suppressedFeatures": []
+        },
+        "location": "yVl6rK08kaHoOSGt"
+      },
+      "type": "feat",
+      "_stats": {
+        "compendiumSource": "Compendium.pf2e.feats-srd.Item.wYerMk6F1RZb0Fwt",
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "pf2e",
+        "systemVersion": "7.12.2",
+        "createdTime": 1776180626820,
+        "modifiedTime": 1776180626820,
+        "lastModifiedBy": "PSyRcSIZYjDSj8hT"
+      },
+      "effects": [],
+      "sort": 0,
+      "flags": {
+        "babele": {
+          "translated": true,
+          "hasTranslation": true,
+          "originalName": "Battle Medicine"
+        }
+      },
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "Rl9Cba3CmwKFR3Nf",
+      "img": "systems/pf2e/icons/features/classes/deity.webp",
+      "name": "Dios (clérigo)",
+      "system": {
+        "actionType": {
+          "value": "passive"
+        },
+        "actions": {
+          "value": null
+        },
+        "category": "classfeature",
+        "description": {
+          "value": "<p>Como clérigo, eres un servidor mortal de un dios al que adoras por encima de todos los demás. Tu dios te concede el rango de competencia entrenado en una habilidad y con su arma predilecta. Aunque el arma predilecta de tu dios sea poco común, obtendrás acceso a dicha arma.</p>\n<p>Tu dios también añade conjuros a tu lista. Podrás prepararlos igual que cualquier conjuro de la lista de conjuros divinos una vez puedas preparar conjuros de dicho rango como clérigo. Algunos de estos conjuros no figuran normalmente en la lista divina, pero siguen siendo conjuros divinos si los preparas de esta forma.</p>\n<h2>Santificación</h2>\n<p>Dependiendo de tu dios, su santificación te puede hacer sagrado o sacrílego. Eso te concede el rasgo sagrado o sacrílego, que te coloca en uno de los bandos de una lucha sobre las almas de\nlos Planos y que puede verse referenciada en otras aptitudes. Si \"puedes ser\" sagrado o sacrílego según tu dios, tú eres quien hace la elección y si \"tienes que ser\" sagrado o sacrílego, obtienes el rasgo de forma automática. Si de alguna forma obtienes el rasgo opuesto, pierdes el anterior hasta completar un ritual de expiar.</p>\n<h2>Anatemas</h2>\n<p>Los actos fundamentalmente opuestos a los ideales de tu dios se consideran anatemas para tu fe. Aprender o lanzar conjuros, cometer actos y usar objetos que son anatema para tu dios hacen que caigas en desgracia ante el mismo.</p>\n<p>Lanzar conjuros con el rasgo sacrílego es casi siempre anatema para los dioses que no permiten la santificación sacrílega, de la misma forma que lanzar conjuros sagrados es anatema para los que no permiten la santificación sagrada. Similarmente, lanzar conjuros que son anatema para los principios u objetivos de tu fe podría interferir con la conexión con tu dios. Por ejemplo, lanzar un conjuro para crear muertos vivientes sería anatema para Farasma, la diosa de la muerte. Muchas acciones que son anatema no aparecen en ninguna lista formal del dios. Para los casos límite, el DJ y tú deberéis determinar qué actos son anatema.</p>\n<p>Si llevas a cabo suficientes actos que son anatema para tu dios, pierdes las aptitudes mágicas que derivan de tu conexión con el mismo. Los rasgos de clase que pierdes los determina el DJ, pero probablemente incluyen tu fuente divina y todo el lanzamiento de conjuros de clérigo. Estas aptitudes sólo se pueden recuperar si te arrepientes llevando a cabo un ritual de expiar.</p>",
+          "gm": ""
+        },
+        "level": {
+          "value": 1
+        },
+        "prerequisites": {
+          "value": []
+        },
+        "publication": {
+          "license": "ORC",
+          "remaster": true,
+          "title": "Pathfinder Manual de juego",
+          "authors": ""
+        },
+        "rules": [
+          {
+            "allowDuplicate": false,
+            "key": "GrantItem",
+            "predicate": [
+              {
+                "not": "deity"
+              }
+            ],
+            "uuid": "{item|flags.system.rulesSelections.deity}",
+            "flag": "erastil"
+          },
+          {
+            "adjustName": false,
+            "choices": [
+              {
+                "label": "PF2E.TraitHoly",
+                "predicate": [
+                  {
+                    "or": [
+                      "deity:primary:sanctification:can:holy",
+                      "deity:primary:sanctification:must:holy"
+                    ]
+                  }
+                ],
+                "value": "holy"
+              },
+              {
+                "label": "PF2E.TraitUnholy",
+                "predicate": [
+                  {
+                    "or": [
+                      "deity:primary:sanctification:can:unholy",
+                      "deity:primary:sanctification:must:unholy"
+                    ]
+                  }
+                ],
+                "value": "unholy"
+              },
+              {
+                "label": "PF2E.NoneOption",
+                "predicate": [
+                  {
+                    "nor": [
+                      "deity:primary:sanctification:must:holy",
+                      "deity:primary:sanctification:must:unholy"
+                    ]
+                  }
+                ],
+                "value": "none"
+              }
+            ],
+            "key": "ChoiceSet",
+            "predicate": [
+              {
+                "nor": [
+                  "sanctification:none",
+                  "sanctification:holy",
+                  "sanctification:unholy"
+                ]
+              }
+            ],
+            "prompt": "PF2E.SpecificRule.Prompt.Sanctification",
+            "rollOption": "sanctification",
+            "slug": "sanctification",
+            "flag": "diosClérigo",
+            "selection": "holy"
+          },
+          {
+            "add": [
+              "holy"
+            ],
+            "key": "ActorTraits",
+            "predicate": [
+              "sanctification:holy"
+            ]
+          },
+          {
+            "add": [
+              "unholy"
+            ],
+            "key": "ActorTraits",
+            "predicate": [
+              "sanctification:unholy"
+            ]
+          },
+          {
+            "fist": true,
+            "key": "Strike",
+            "predicate": [
+              "deity:primary:favored-weapon:fist"
+            ]
+          },
+          {
+            "key": "ActiveEffectLike",
+            "mode": "upgrade",
+            "path": "flags.system.favoredWeaponRank",
+            "predicate": [
+              "class:cleric"
+            ],
+            "value": 1
+          }
+        ],
+        "subfeatures": {
+          "proficiencies": {},
+          "senses": {},
+          "suppressedFeatures": []
+        },
+        "traits": {
+          "rarity": "common",
+          "value": [
+            "cleric"
+          ],
+          "otherTags": []
+        },
+        "slug": "deity-cleric",
+        "_migration": {
+          "version": 0.955,
+          "previous": null
+        },
+        "onlyLevel1": false,
+        "maxTakable": 1,
+        "location": "3acMHtcRoq4YIrsq"
+      },
+      "type": "feat",
+      "_stats": {
+        "compendiumSource": "Compendium.pf2e.classfeatures.Item.DutW12WMFPHBoLTH",
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "pf2e",
+        "systemVersion": "7.12.2",
+        "createdTime": 1776180627017,
+        "modifiedTime": 1776180627087,
+        "lastModifiedBy": "PSyRcSIZYjDSj8hT"
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "flags": {
+        "babele": {
+          "translated": true,
+          "hasTranslation": true,
+          "originalName": "Deity (Cleric)"
+        },
+        "pf2e": {
+          "itemGrants": {
+            "erastil": {
+              "id": "Cajlq8dTUQ5jDQ2J",
+              "onDelete": "detach"
+            }
+          },
+          "rulesSelections": {
+            "deity": "Compendium.pf2e.deities.Item.mm1j6UbHqFCI8fwB"
+          }
+        }
+      },
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "tUyFJ2PUg9p5Irjf",
+      "img": "icons/weapons/axes/axe-double-gold.webp",
+      "name": "Lanzamiento de conjuros de clérigo",
+      "system": {
+        "actionType": {
+          "value": "passive"
+        },
+        "actions": {
+          "value": null
+        },
+        "category": "classfeature",
+        "description": {
+          "value": "<p>Tu dios te concede el poder de lanzar conjuros divinos. Eres un lanzador de conjuros, y puedes lanzar conjuros de la tradición divina utilizando la actividad Lanzar un conjuro. Como\nclérigo, tus cánticos suelen invocar a tu dios y a sus sirvientes más poderosos por su nombre o por su título, mientras que tus gestos son seguidos por símbolos sagrados u otras representaciones de tu dios.</p>\n<p>A 1.er nivel, cada mañana puedes preparar 2 conjuros de 1.er rango y 5 trucos de entre los conjuros comunes de la lista de conjuros divinos o de otros conjuros divinos a los\nque obtienes acceso y aprendes vía Aprender un conjuro. Los conjuros preparados permanecen disponibles hasta que los lanzas o hasta que preparas conjuros de nuevo. El número de conjuros que puedes preparar cada día se denomina tus espacios de conjuro.</p>\n<p>Conforme subes de nivel como clérigo, el número de conjuros que puedes preparar cada día aumenta, así como el rango superior de conjuro que puedes lanzar, tal y como se indica en la tabla Conjuros de clérigo por día.</p>\n<p>Algunos de tus conjuros requieren que hagas un ataque de conjuro para ver lo efectivos que son o que tus enemigos tiren contra tu CD de conjuros (típicamente haciendo una tirada de\nsalvación). Como quiera que tu atributo clave es la Sabiduría, tu modificador al ataque de conjuros y tu CD de conjuros utilizan tu modificador por Sabiduría.</p>\n<h2>Potenciación de conjuros</h2>\n<p>Cuando obtienes espacios de conjuro de 2.º rango y superior, puedes rellenarlos con versiones más potentes de conjuros de rango más bajo. Esto incrementa el rango del conjuro, potenciándolo para que encaje con el espacio de conjuro. Muchos conjuros obtienen mejoras específicas cuando se potencian a ciertos rangos.</p>\n<h2>Trucos</h2>\n <p>Algunos de tus conjuros se denominan trucos. Un truco es un tipo especial de conjuro que no utiliza espacios de conjuro. Puedes lanzar un truco a voluntad, todas las veces que quieras al día. Un truco se potencia automáticamente a la mitad de tu nivel redondeado hacia arriba, lo que suele ser igual al máximo rango de espacios de conjuro de clérigo de que dispones. Por ejemplo, como clérigo de 1.er rango, tus trucos son conjuros de 1.er rango, y como clérigo de 5.º nivel, tus trucos\nson conjuros de 3.er rango.</p>",
+          "gm": ""
+        },
+        "level": {
+          "value": 1
+        },
+        "prerequisites": {
+          "value": []
+        },
+        "publication": {
+          "license": "ORC",
+          "remaster": true,
+          "title": "Pathfinder Manual de juego",
+          "authors": ""
+        },
+        "rules": [],
+        "traits": {
+          "rarity": "common",
+          "value": [
+            "cleric"
+          ],
+          "otherTags": []
+        },
+        "slug": "cleric-spellcasting",
+        "_migration": {
+          "version": 0.955,
+          "previous": null
+        },
+        "onlyLevel1": false,
+        "maxTakable": 1,
+        "subfeatures": {
+          "proficiencies": {},
+          "senses": {},
+          "suppressedFeatures": []
+        },
+        "location": "3acMHtcRoq4YIrsq"
+      },
+      "type": "feat",
+      "_stats": {
+        "compendiumSource": "Compendium.pf2e.classfeatures.Item.AvNbdGSOTWNRgcxs",
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "pf2e",
+        "systemVersion": "7.12.2",
+        "createdTime": 1776180627169,
+        "modifiedTime": 1776180627169,
+        "lastModifiedBy": "PSyRcSIZYjDSj8hT"
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "flags": {
+        "babele": {
+          "translated": true,
+          "hasTranslation": true,
+          "originalName": "Cleric Spellcasting"
+        }
+      },
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "4UkxfH34PLBPKb4U",
+      "img": "icons/magic/symbols/question-stone-yellow.webp",
+      "name": "Doctrina",
+      "system": {
+        "actionType": {
+          "value": "passive"
+        },
+        "actions": {
+          "value": null
+        },
+        "category": "classfeature",
+        "description": {
+          "value": "<p>Incluso entre seguidores del mismo dios, las aproximaciones varían. A 1.er nivel seleccionas clérigo de clausura o sacerdote de guerra y obtienes los beneficios de su primera doctrina. A\n3.er nivel y cada 4 niveles posteriores, obtienes otro beneficio de tu doctrina.</p>\n<ul>\n<li>@UUID[Compendium.pf2e.classfeatures.Item.ZZzLMOUAtBVgV1DF]{Clérigo de clausura}</li>\n<li>@UUID[Compendium.pf2e.classfeatures.Item.0Aocw3igLwna9cjp]{Sacerdote de guerra}</li>\n</ul>",
+          "gm": ""
+        },
+        "level": {
+          "value": 1
+        },
+        "prerequisites": {
+          "value": []
+        },
+        "publication": {
+          "license": "ORC",
+          "remaster": true,
+          "title": "Pathfinder Manual de juego",
+          "authors": ""
+        },
+        "rules": [
+          {
+            "adjustName": false,
+            "choices": {
+              "filter": [
+                "item:tag:cleric-doctrine"
+              ]
+            },
+            "flag": "doctrine",
+            "key": "ChoiceSet",
+            "prompt": "PF2E.SpecificRule.Cleric.Doctrine.Prompt",
+            "selection": "Compendium.pf2e.classfeatures.Item.0Aocw3igLwna9cjp"
+          },
+          {
+            "key": "GrantItem",
+            "uuid": "{item|flags.system.rulesSelections.doctrine}",
+            "flag": "warpriest"
+          }
+        ],
+        "traits": {
+          "rarity": "common",
+          "value": [
+            "cleric"
+          ],
+          "otherTags": []
+        },
+        "slug": "doctrine",
+        "_migration": {
+          "version": 0.955,
+          "previous": null
+        },
+        "onlyLevel1": false,
+        "maxTakable": 1,
+        "subfeatures": {
+          "proficiencies": {},
+          "senses": {},
+          "suppressedFeatures": []
+        },
+        "location": "3acMHtcRoq4YIrsq"
+      },
+      "type": "feat",
+      "_stats": {
+        "compendiumSource": "Compendium.pf2e.classfeatures.Item.tyrBwBTzo5t9Zho7",
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "pf2e",
+        "systemVersion": "7.12.2",
+        "createdTime": 1776180627280,
+        "modifiedTime": 1776180627352,
+        "lastModifiedBy": "PSyRcSIZYjDSj8hT"
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "flags": {
+        "babele": {
+          "translated": true,
+          "hasTranslation": true,
+          "originalName": "Doctrine"
+        },
+        "pf2e": {
+          "rulesSelections": {
+            "doctrine": "Compendium.pf2e.classfeatures.Item.0Aocw3igLwna9cjp"
+          },
+          "itemGrants": {
+            "warpriest": {
+              "id": "mmwV1U18MrdFbQD9",
+              "onDelete": "detach"
+            }
+          }
+        }
+      },
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "img": "icons/equipment/chest/breastplate-helmet-metal.webp",
+      "name": "Sacerdote de guerra",
+      "system": {
+        "actionType": {
+          "value": "passive"
+        },
+        "actions": {
+          "value": null
+        },
+        "category": "classfeature",
+        "description": {
+          "value": "<p>Te has entrenado en las doctrinas más militantes de tu Iglesia, centrándote tanto en los conjuros como en la batalla.</p>  \n<p><strong>Primera doctrina (1.º):</strong> tienes competencia a rango entrenado en armadura ligera e intermedia y competencia a rango experto en las salvaciones de Fortaleza. Obtienes la dote general @UUID[Compendium.pf2e.feats-srd.Item.jM72TjJ965jocBV8]{Bloqueo con el escudo}, una reacción para reducir el daño mediante un escudo. Si el arma predilecta de tu dios es un arma sencilla o un ataque sin armas, obtienes la dote de clérigo @UUID[Compendium.pf2e.feats-srd.Item.DfLkIIg2reyYW3a8]{Simplicidad mortal}. A 13.er nivel, si obtienes el rasgo de clase @UUID[Compendium.pf2e.classfeatures.Item.0mJTp4LdEHBLInoe]{Defensa divina}, también obtienes competencia a rango experto con las armaduras ligeras e intermedias.</p>\n<p><strong>Segunda doctrina (3.º):</strong> estás entrenado en armas marciales.</p>\n<p><strong>Tercera doctrina (7.º):</strong> obtienes competencia a rango experto con el arma predilecta de tu dios, las armas marciales, las armas sencillas y los ataques sin armas. Cuando obtienes un éxito crítico en una tirada de ataque utilizando el arma predilecta de tu dios, aplicas el efecto de especialización crítica de la misma; puedes utilizar tu CD de conjuros en lugar de tu CD de clase.</p>\n<p><strong>Cuarta doctrina (11.º):</strong> tus rangos de competencia para el modificador al ataque de conjuros y las CD de conjuros se incrementan a rango experto.</p>\n<p><strong>Quinta doctrina (15.º):</strong> tu rango de competencia para las salvaciones de Fortaleza se incrementa a maestro. Cuando consigues un éxito en una salvación de Fortaleza, en su lugar consigues un éxito crítico.</p>\n<p><strong>Doctrina final (19.º):</strong> obtienes competencia a rango maestro con el arma predilecta de tu dios, tu modificador al ataque de conjuros y tu CD de conjuro.</p>",
+          "gm": ""
+        },
+        "level": {
+          "value": 1
+        },
+        "prerequisites": {
+          "value": []
+        },
+        "publication": {
+          "license": "ORC",
+          "remaster": true,
+          "title": "Pathfinder Manual de juego",
+          "authors": ""
+        },
+        "rules": [
+          {
+            "key": "ActiveEffectLike",
+            "mode": "override",
+            "path": "flags.system.cleric",
+            "value": {
+              "fifthDoctrine": "Compendium.pf2e.classfeatures.Item.kmimy4VOaoEOgOiQ",
+              "finalDoctrine": "Compendium.pf2e.classfeatures.Item.N1ugDqZlslxbp3Uy",
+              "firstDoctrine": "Compendium.pf2e.classfeatures.Item.xxkszluN9icAiTO4",
+              "fourthDoctrine": "Compendium.pf2e.classfeatures.Item.px3gVYp7zlEQIpcl",
+              "secondDoctrine": "Compendium.pf2e.classfeatures.Item.D34mPo29r1J3DPaX",
+              "thirdDoctrine": "Compendium.pf2e.classfeatures.Item.Zp81uTBItG1xlH4O"
+            }
+          }
+        ],
+        "traits": {
+          "otherTags": [
+            "cleric-doctrine"
+          ],
+          "rarity": "common",
+          "value": [
+            "cleric"
+          ]
+        },
+        "slug": "warpriest",
+        "_migration": {
+          "version": 0.955,
+          "previous": null
+        },
+        "onlyLevel1": false,
+        "maxTakable": 1,
+        "subfeatures": {
+          "proficiencies": {},
+          "senses": {},
+          "suppressedFeatures": []
+        },
+        "location": null
+      },
+      "type": "feat",
+      "_stats": {
+        "compendiumSource": "Compendium.pf2e.classfeatures.Item.0Aocw3igLwna9cjp",
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "pf2e",
+        "systemVersion": "7.12.2",
+        "createdTime": 1776180627423,
+        "modifiedTime": 1776180627497,
+        "lastModifiedBy": "PSyRcSIZYjDSj8hT"
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "flags": {
+        "babele": {
+          "translated": true,
+          "hasTranslation": true,
+          "originalName": "Warpriest"
+        },
+        "pathmuncher": {
+          "origin": {
+            "uuid": "Compendium.pf2e.classfeatures.Item.0Aocw3igLwna9cjp"
+          }
+        },
+        "pf2e": {
+          "grantedBy": {
+            "id": "4UkxfH34PLBPKb4U",
+            "onDelete": "cascade"
+          }
+        }
+      },
+      "_id": "mmwV1U18MrdFbQD9",
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "xInvD38DNQww8Avq",
+      "img": "icons/magic/symbols/question-stone-yellow.webp",
+      "name": "Primera Doctrina",
+      "system": {
+        "actionType": {
+          "value": "passive"
+        },
+        "actions": {
+          "value": null
+        },
+        "category": "classfeature",
+        "description": {
+          "value": "<p>Obtienes el primer beneficio de tu doctrina:</p>\n<ul>\n<li>@UUID[Compendium.pf2e.classfeatures.Item.aiwxBj5MjnafCMyn]{Clérigo de clausura}</li>\n<li>@UUID[Compendium.pf2e.classfeatures.Item.xxkszluN9icAiTO4]{Sacerdote de guerra}</li>\n</ul>",
+          "gm": ""
+        },
+        "level": {
+          "value": 1
+        },
+        "prerequisites": {
+          "value": []
+        },
+        "publication": {
+          "license": "ORC",
+          "remaster": true,
+          "title": "Pathfinder Manual de juego",
+          "authors": ""
+        },
+        "rules": [
+          {
+            "key": "GrantItem",
+            "uuid": "{actor|flags.system.cleric.firstDoctrine}",
+            "flag": "firstDoctrineWarpriest"
+          }
+        ],
+        "traits": {
+          "rarity": "common",
+          "value": [
+            "cleric"
+          ],
+          "otherTags": []
+        },
+        "slug": "first-doctrine",
+        "_migration": {
+          "version": 0.955,
+          "previous": null
+        },
+        "onlyLevel1": false,
+        "maxTakable": 1,
+        "subfeatures": {
+          "proficiencies": {},
+          "senses": {},
+          "suppressedFeatures": []
+        },
+        "location": "3acMHtcRoq4YIrsq"
+      },
+      "type": "feat",
+      "_stats": {
+        "compendiumSource": "Compendium.pf2e.classfeatures.Item.Qejo7FUWQtPTpgWH",
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "pf2e",
+        "systemVersion": "7.12.2",
+        "createdTime": 1776180627577,
+        "modifiedTime": 1776180627670,
+        "lastModifiedBy": "PSyRcSIZYjDSj8hT"
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "flags": {
+        "babele": {
+          "translated": true,
+          "hasTranslation": true,
+          "originalName": "First Doctrine"
+        },
+        "pf2e": {
+          "itemGrants": {
+            "firstDoctrineWarpriest": {
+              "id": "9WtSsCanj65q97w1",
+              "onDelete": "detach"
+            }
+          }
+        }
+      },
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "img": "icons/equipment/chest/breastplate-helmet-metal.webp",
+      "name": "Primera doctrina (Sacerdote de guerra)",
+      "system": {
+        "actionType": {
+          "value": "passive"
+        },
+        "actions": {
+          "value": null
+        },
+        "category": "classfeature",
+        "description": {
+          "value": "<p>Tienes competencia a rango entrenado en armadura ligera e intermedia y competencia a rango experto en las salvaciones de Fortaleza. Obtienes la dote general @UUID[Compendium.pf2e.feats-srd.Item.jM72TjJ965jocBV8]{Bloqueo con el escudo}, una reacción para reducir el daño mediante un escudo. Si el arma predilecta de tu dios es un arma sencilla o un ataque sin armas, obtienes la dote de clérigo @UUID[Compendium.pf2e.feats-srd.Item.DfLkIIg2reyYW3a8]{Simplicidad mortal}. A 13.er nivel, si obtienes el rasgo de clase @UUID[Compendium.pf2e.classfeatures.Item.0mJTp4LdEHBLInoe]{Defensa divina}, también obtienes competencia a rango experto con las armaduras ligeras e intermedias.</p>",
+          "gm": ""
+        },
+        "level": {
+          "value": 1
+        },
+        "prerequisites": {
+          "value": []
+        },
+        "publication": {
+          "license": "ORC",
+          "remaster": true,
+          "title": "Pathfinder Manual de juego",
+          "authors": ""
+        },
+        "rules": [
+          {
+            "key": "GrantItem",
+            "uuid": "Compendium.pf2e.feats-srd.Item.jM72TjJ965jocBV8",
+            "flag": "shieldBlock"
+          },
+          {
+            "key": "ActiveEffectLike",
+            "mode": "upgrade",
+            "path": "system.proficiencies.defenses.light.rank",
+            "predicate": [
+              {
+                "gte": [
+                  "self:level",
+                  13
+                ]
+              },
+              "feature:divine-defense"
+            ],
+            "value": 2
+          },
+          {
+            "key": "ActiveEffectLike",
+            "mode": "upgrade",
+            "path": "system.proficiencies.defenses.medium.rank",
+            "predicate": [
+              {
+                "gte": [
+                  "self:level",
+                  13
+                ]
+              },
+              "feature:divine-defense"
+            ],
+            "value": 2
+          },
+          {
+            "key": "GrantItem",
+            "uuid": "Compendium.pf2e.feats-srd.Item.DfLkIIg2reyYW3a8",
+            "flag": "deadlySimplicity"
+          }
+        ],
+        "subfeatures": {
+          "proficiencies": {
+            "fortitude": {
+              "rank": 2,
+              "attribute": null
+            },
+            "light": {
+              "rank": 1,
+              "attribute": null
+            },
+            "medium": {
+              "rank": 1,
+              "attribute": null
+            }
+          },
+          "senses": {},
+          "suppressedFeatures": []
+        },
+        "traits": {
+          "rarity": "common",
+          "value": [
+            "cleric"
+          ],
+          "otherTags": []
+        },
+        "slug": "first-doctrine-warpriest",
+        "_migration": {
+          "version": 0.955,
+          "previous": null
+        },
+        "onlyLevel1": false,
+        "maxTakable": 1,
+        "location": null
+      },
+      "type": "feat",
+      "_stats": {
+        "compendiumSource": "Compendium.pf2e.classfeatures.Item.xxkszluN9icAiTO4",
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "pf2e",
+        "systemVersion": "7.12.2",
+        "createdTime": 1776180627752,
+        "modifiedTime": 1776180627859,
+        "lastModifiedBy": "PSyRcSIZYjDSj8hT"
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "flags": {
+        "babele": {
+          "translated": true,
+          "hasTranslation": true,
+          "originalName": "First Doctrine (Warpriest)"
+        },
+        "pathmuncher": {
+          "origin": {
+            "uuid": "Compendium.pf2e.classfeatures.Item.xxkszluN9icAiTO4"
+          }
+        },
+        "pf2e": {
+          "grantedBy": {
+            "id": "xInvD38DNQww8Avq",
+            "onDelete": "cascade"
+          },
+          "itemGrants": {
+            "shieldBlock": {
+              "id": "iGiceu6nXihaWQm2",
+              "onDelete": "detach"
+            },
+            "deadlySimplicity": {
+              "id": "Y6ID08PsgU3EBJHD",
+              "onDelete": "detach"
+            }
+          }
+        }
+      },
+      "_id": "9WtSsCanj65q97w1",
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "folder": "68m1OED3fDU3fIfR",
+      "img": "icons/sundries/books/book-red-exclamation.webp",
+      "name": "Bloqueo con el escudo",
+      "system": {
+        "actionType": {
+          "value": "reaction"
+        },
+        "actions": {
+          "value": null
+        },
+        "category": "general",
+        "description": {
+          "value": "<p><strong>Desencadenante</strong> Podrías sufrir daño debido a un ataque físico (contundente, perforante o cortante) debido a un ataque cuando tienes el escudo alzado.</p>\n<hr />\n<p>Interpones tu escudo para protegerte de un Golpe. El escudo evita que sufras una cantidad de daño igual a la Dureza del mismo. Ambos os repartís el daño sobrante, lo que posiblemente puede romper o destruir el escudo.</p>",
+          "gm": ""
+        },
+        "level": {
+          "value": 1
+        },
+        "prerequisites": {
+          "value": []
+        },
+        "publication": {
+          "license": "ORC",
+          "remaster": true,
+          "title": "Pathfinder Manual de juego",
+          "authors": ""
+        },
+        "rules": [],
+        "traits": {
+          "rarity": "common",
+          "value": [
+            "general"
+          ],
+          "otherTags": []
+        },
+        "slug": "shield-block",
+        "_migration": {
+          "version": 0.955,
+          "previous": null
+        },
+        "onlyLevel1": false,
+        "maxTakable": 1,
+        "subfeatures": {
+          "proficiencies": {},
+          "senses": {},
+          "suppressedFeatures": []
+        },
+        "location": null
+      },
+      "type": "feat",
+      "_stats": {
+        "compendiumSource": "Compendium.pf2e.feats-srd.Item.jM72TjJ965jocBV8",
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "pf2e",
+        "systemVersion": "7.12.2",
+        "createdTime": 1776180627963,
+        "modifiedTime": 1776180627963,
+        "lastModifiedBy": "PSyRcSIZYjDSj8hT"
+      },
+      "effects": [],
+      "sort": 0,
+      "flags": {
+        "babele": {
+          "translated": true,
+          "hasTranslation": true,
+          "originalName": "Shield Block"
+        },
+        "pathmuncher": {
+          "origin": {
+            "uuid": "Compendium.pf2e.feats-srd.Item.jM72TjJ965jocBV8"
+          }
+        },
+        "pf2e": {
+          "grantedBy": {
+            "id": "9WtSsCanj65q97w1",
+            "onDelete": "cascade"
+          }
+        }
+      },
+      "_id": "iGiceu6nXihaWQm2",
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "folder": "J4qk5NbwDuKa9WWz",
+      "img": "icons/sundries/books/book-red-exclamation.webp",
+      "name": "Simplicidad mortal",
+      "system": {
+        "actionType": {
+          "value": "passive"
+        },
+        "actions": {
+          "value": null
+        },
+        "category": "class",
+        "description": {
+          "value": "<p>  Cuando empuñas el arma predilecta de tu dios, incrementa en un paso el tamaño del dado de daño de dicha arma. </p>\n<p> Si el arma predilecta de tu dios es un ataque sin armas (como por  ejemplo el puño, si adoras a @UUID[Compendium.pf2e.deities.Item.qqqrbq4uCrelQvgH]{Irori} ) y su dado de daño es menor que d6, en su lugar incrementa a d6 el tamaño del dado de daño.</p>",
+          "gm": ""
+        },
+        "level": {
+          "value": 1
+        },
+        "prerequisites": {
+          "value": [
+            {
+              "value": "Dios con un arma predilecta sencilla o ataque sin armas"
+            },
+            {
+              "value": "rango entrenado con el arma predilecta de tu dios."
+            }
+          ]
+        },
+        "publication": {
+          "license": "ORC",
+          "remaster": true,
+          "title": "Pathfinder Manual de juego",
+          "authors": ""
+        },
+        "rules": [
+          {
+            "itemType": "weapon",
+            "key": "ItemAlteration",
+            "mode": "upgrade",
+            "predicate": [
+              "item:deity-favored",
+              {
+                "or": [
+                  "item:category:simple",
+                  {
+                    "and": [
+                      "item:category:unarmed",
+                      "item:damage:die:faces:4"
+                    ]
+                  }
+                ]
+              }
+            ],
+            "property": "damage-dice-faces"
+          }
+        ],
+        "traits": {
+          "rarity": "common",
+          "value": [
+            "cleric"
+          ],
+          "otherTags": []
+        },
+        "slug": "deadly-simplicity",
+        "_migration": {
+          "version": 0.955,
+          "previous": null
+        },
+        "onlyLevel1": false,
+        "maxTakable": 1,
+        "subfeatures": {
+          "proficiencies": {},
+          "senses": {},
+          "suppressedFeatures": []
+        },
+        "location": null
+      },
+      "type": "feat",
+      "_stats": {
+        "compendiumSource": "Compendium.pf2e.feats-srd.Item.DfLkIIg2reyYW3a8",
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "pf2e",
+        "systemVersion": "7.12.2",
+        "createdTime": 1776180628090,
+        "modifiedTime": 1776180628090,
+        "lastModifiedBy": "PSyRcSIZYjDSj8hT"
+      },
+      "effects": [],
+      "sort": 0,
+      "flags": {
+        "babele": {
+          "translated": true,
+          "hasTranslation": true,
+          "originalName": "Deadly Simplicity"
+        },
+        "pathmuncher": {
+          "origin": {
+            "uuid": "Compendium.pf2e.feats-srd.Item.DfLkIIg2reyYW3a8"
+          }
+        },
+        "pf2e": {
+          "grantedBy": {
+            "id": "9WtSsCanj65q97w1",
+            "onDelete": "cascade"
+          }
+        }
+      },
+      "_id": "Y6ID08PsgU3EBJHD",
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "J6tBCExcOf1z19Wd",
+      "img": "icons/magic/fire/flame-burning-hand-white.webp",
+      "name": "Fuente Divina (Curativa)",
+      "system": {
+        "actionType": {
+          "value": "passive"
+        },
+        "actions": {
+          "value": null
+        },
+        "category": "classfeature",
+        "description": {
+          "value": "<p>Mediante la bendición de tu dios, obtienes conjuros adicionales que canalizan, o bien la fuerza vital llamada vitalidad, o bien su contraria, el vacío. Cuando preparas tus conjuros cada día, puedes preparar juros adicionales de @UUID[Compendium.pf2e.spells-srd.Item.rfZpqmj0AIIdkVIs]{curar} o de @UUID[Compendium.pf2e.spells-srd.Item.wdA52JJnsuQWeyqz]{dañar}, dependiendo de tu dios. El conjuro de fuente divina que te proporciona tu dios está indicado en la entrada Fuente divina de tu dios; si se indican ambos, puedes elegir entre curar y dañar. Una vez eliges, no puedes cambiar lo elegido salvo intervención divina.</p>\n<p><strong>Fuente curativa:</strong> obtienes 4 espacios de conjuro adicionales cada día a tu rango mayor de espacios de conjuro de clérigo. En dichos espacios tan solo puedes preparar conjuros de curar. A 5.º nivel, el número de espacios adicionales se incrementa a 5 y, a 15.º nivel, el número total de espacios adicionales se incrementa a 6.</p>\n<p><strong>Fuente dañina:</strong> obtienes 4 espacios de conjuro adicionales cada día a tu rango mayor de espacios de conjuro de clérigo. En dichos espacios tan solo puedes preparar conjuros de dañar. A 5.º nivel, el número de espacios adicionales se incrementa a 5 y, a 15.º nivel, el número total de espacios adicionales se incrementa a 6.</p>",
+          "gm": ""
+        },
+        "level": {
+          "value": 1
+        },
+        "prerequisites": {
+          "value": []
+        },
+        "publication": {
+          "license": "ORC",
+          "remaster": true,
+          "title": "Pathfinder Manual de juego",
+          "authors": ""
+        },
+        "rules": [
+          {
+            "choices": [
+              {
+                "img": "icons/magic/life/cross-worn-green.webp",
+                "label": "PF2E.SpecificRule.Cleric.DivineFont.Healing",
+                "predicate": [
+                  "deity:primary:font:heal"
+                ],
+                "value": "heal"
+              },
+              {
+                "img": "systems/pf2e/icons/spells/harm.webp",
+                "label": "PF2E.SpecificRule.Cleric.DivineFont.Harmful",
+                "predicate": [
+                  "deity:primary:font:harm"
+                ],
+                "value": "harm"
+              }
+            ],
+            "flag": "divineFont",
+            "key": "ChoiceSet",
+            "prompt": "PF2E.SpecificRule.Cleric.DivineFont.Prompt",
+            "rollOption": "divine-font",
+            "selection": "heal"
+          }
+        ],
+        "traits": {
+          "rarity": "common",
+          "value": [
+            "cleric"
+          ],
+          "otherTags": []
+        },
+        "slug": "divine-font",
+        "_migration": {
+          "version": 0.955,
+          "previous": null
+        },
+        "onlyLevel1": false,
+        "maxTakable": 1,
+        "subfeatures": {
+          "proficiencies": {},
+          "senses": {},
+          "suppressedFeatures": []
+        },
+        "location": "3acMHtcRoq4YIrsq"
+      },
+      "type": "feat",
+      "_stats": {
+        "compendiumSource": "Compendium.pf2e.classfeatures.Item.gblTFUOgolqFS9v4",
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "pf2e",
+        "systemVersion": "7.12.2",
+        "createdTime": 1776180628197,
+        "modifiedTime": 1776180628268,
+        "lastModifiedBy": "PSyRcSIZYjDSj8hT"
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "flags": {
+        "babele": {
+          "translated": true,
+          "hasTranslation": true,
+          "originalName": "Divine Font"
+        }
+      },
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "q3ZeRCCfzlu3ln7p",
+      "folder": "hFVleadZ20Wc5Hkc",
+      "img": "icons/sundries/books/book-red-exclamation.webp",
+      "name": "Ambición natural",
+      "system": {
+        "actionType": {
+          "value": "passive"
+        },
+        "actions": {
+          "value": null
+        },
+        "category": "ancestry",
+        "description": {
+          "value": "<p>Te criaron para ser ambicioso y aspirar siempre a las estrellas, lo que hizo que progresaras rápidamente en tu campo elegido. Obtienes una dote de clase de 1.er nivel para tu clase. Debes cumplir los prerrequisitos, pero puedes seleccionar la dote más adelante en el proceso de creación de personaje a fin de determinar qué prerrequisitos cumples.</p>",
+          "gm": ""
+        },
+        "level": {
+          "value": 1
+        },
+        "prerequisites": {
+          "value": []
+        },
+        "publication": {
+          "license": "ORC",
+          "remaster": true,
+          "title": "Pathfinder Manual de juego",
+          "authors": ""
+        },
+        "rules": [
+          {
+            "adjustName": false,
+            "choices": {
+              "filter": [
+                "item:level:1",
+                "item:category:class",
+                "item:trait:{actor|system.details.class.trait}",
+                {
+                  "or": [
+                    "feature:dragon-instinct",
+                    {
+                      "not": "item:draconic-arrogance"
+                    }
+                  ]
+                },
+                {
+                  "nor": [
+                    "item:animal-companion",
+                    "item:animal-companion-druid",
+                    "item:bardic-lore",
+                    "item:fire-lung",
+                    "item:lingering-composition",
+                    "item:leshy-familiar",
+                    "item:martial-performance",
+                    "item:shore-step",
+                    "item:steadying-stone",
+                    "item:storm-born",
+                    "item:versatile-performance",
+                    "item:untamed-form"
+                  ]
+                }
+              ],
+              "itemType": "feat"
+            },
+            "flag": "naturalAmbition",
+            "key": "ChoiceSet",
+            "prompt": "PF2E.SpecificRule.Prompt.LevelOneClassFeat",
+            "selection": "Compendium.pf2e.feats-srd.Item.zYhcEX4JnrZ08HfV"
+          },
+          {
+            "key": "GrantItem",
+            "uuid": "{item|flags.system.rulesSelections.naturalAmbition}",
+            "flag": "healingHands"
+          }
+        ],
+        "traits": {
+          "rarity": "common",
+          "value": [
+            "human"
+          ],
+          "otherTags": []
+        },
+        "slug": "natural-ambition",
+        "_migration": {
+          "version": 0.955,
+          "previous": null
+        },
+        "onlyLevel1": false,
+        "maxTakable": 1,
+        "subfeatures": {
+          "proficiencies": {},
+          "senses": {},
+          "suppressedFeatures": []
+        },
+        "location": "ancestry-1"
+      },
+      "type": "feat",
+      "_stats": {
+        "compendiumSource": "Compendium.pf2e.feats-srd.Item.PodajLVxqYSAqVox",
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "pf2e",
+        "systemVersion": "7.12.2",
+        "createdTime": 1776180628360,
+        "modifiedTime": 1776180628429,
+        "lastModifiedBy": "PSyRcSIZYjDSj8hT"
+      },
+      "effects": [],
+      "sort": 0,
+      "flags": {
+        "babele": {
+          "translated": true,
+          "hasTranslation": true,
+          "originalName": "Natural Ambition"
+        },
+        "pf2e": {
+          "rulesSelections": {
+            "naturalAmbition": "Compendium.pf2e.feats-srd.Item.zYhcEX4JnrZ08HfV"
+          },
+          "itemGrants": {
+            "healingHands": {
+              "id": "gGq4nJs2QLy3lzml",
+              "onDelete": "detach"
+            }
+          }
+        }
+      },
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "folder": "J4qk5NbwDuKa9WWz",
+      "img": "icons/sundries/books/book-red-exclamation.webp",
+      "name": "Manos curativas",
+      "system": {
+        "actionType": {
+          "value": "passive"
+        },
+        "actions": {
+          "value": null
+        },
+        "category": "class",
+        "description": {
+          "value": "<p> Tu vitalidad es aún más vibrante y restablecedora. Cuando lanzas @UUID[Compendium.pf2e.spells-srd.Item.rfZpqmj0AIIdkVIs]{Curar}, \ntiras d10 en lugar de d8. </p>",
+          "gm": ""
+        },
+        "level": {
+          "value": 1
+        },
+        "prerequisites": {
+          "value": [
+            {
+              "value": "Fuente curativa"
+            }
+          ]
+        },
+        "publication": {
+          "license": "ORC",
+          "remaster": true,
+          "title": "Pathfinder Manual de juego",
+          "authors": ""
+        },
+        "rules": [
+          {
+            "key": "DamageDice",
+            "override": {
+              "dieSize": "d10"
+            },
+            "predicate": [
+              "item:slug:heal"
+            ],
+            "selector": [
+              "spell-damage",
+              "spell-healing"
+            ]
+          }
+        ],
+        "traits": {
+          "rarity": "common",
+          "value": [
+            "cleric"
+          ],
+          "otherTags": []
+        },
+        "slug": "healing-hands",
+        "_migration": {
+          "version": 0.955,
+          "previous": null
+        },
+        "onlyLevel1": false,
+        "maxTakable": 1,
+        "subfeatures": {
+          "proficiencies": {},
+          "senses": {},
+          "suppressedFeatures": []
+        },
+        "location": null
+      },
+      "type": "feat",
+      "_stats": {
+        "compendiumSource": "Compendium.pf2e.feats-srd.Item.zYhcEX4JnrZ08HfV",
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "pf2e",
+        "systemVersion": "7.12.2",
+        "createdTime": 1776180628509,
+        "modifiedTime": 1776180628509,
+        "lastModifiedBy": "PSyRcSIZYjDSj8hT"
+      },
+      "effects": [],
+      "sort": 0,
+      "flags": {
+        "babele": {
+          "translated": true,
+          "hasTranslation": true,
+          "originalName": "Healing Hands"
+        },
+        "pathmuncher": {
+          "origin": {
+            "uuid": "Compendium.pf2e.feats-srd.Item.zYhcEX4JnrZ08HfV"
+          }
+        },
+        "pf2e": {
+          "grantedBy": {
+            "id": "q3ZeRCCfzlu3ln7p",
+            "onDelete": "cascade"
+          }
+        }
+      },
+      "_id": "gGq4nJs2QLy3lzml",
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "rXtx5DMl0LzJ3j0u",
+      "folder": "68m1OED3fDU3fIfR",
+      "img": "icons/sundries/books/book-red-exclamation.webp",
+      "name": "Iniciativa sensacional",
+      "system": {
+        "actionType": {
+          "value": "passive"
+        },
+        "actions": {
+          "value": null
+        },
+        "category": "general",
+        "description": {
+          "value": "<p>Reaccionas más rápidamente que otros. Obtienes un bonificador +2 por circunstancia a las tiradas de iniciativa.</p>",
+          "gm": ""
+        },
+        "level": {
+          "value": 1
+        },
+        "prerequisites": {
+          "value": []
+        },
+        "publication": {
+          "license": "ORC",
+          "remaster": true,
+          "title": "Pathfinder Manual de juego",
+          "authors": ""
+        },
+        "rules": [
+          {
+            "key": "FlatModifier",
+            "selector": "initiative",
+            "type": "circumstance",
+            "value": 2
+          }
+        ],
+        "traits": {
+          "rarity": "common",
+          "value": [
+            "general"
+          ],
+          "otherTags": []
+        },
+        "slug": "incredible-initiative",
+        "_migration": {
+          "version": 0.955,
+          "previous": null
+        },
+        "onlyLevel1": false,
+        "maxTakable": 1,
+        "subfeatures": {
+          "proficiencies": {},
+          "senses": {},
+          "suppressedFeatures": []
+        },
+        "location": "general-1"
+      },
+      "type": "feat",
+      "_stats": {
+        "compendiumSource": "Compendium.pf2e.feats-srd.Item.2kwXTUjYYhoAGySr",
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "pf2e",
+        "systemVersion": "7.12.2",
+        "createdTime": 1776180628620,
+        "modifiedTime": 1776180628620,
+        "lastModifiedBy": "PSyRcSIZYjDSj8hT"
+      },
+      "effects": [],
+      "sort": 0,
+      "flags": {
+        "babele": {
+          "translated": true,
+          "hasTranslation": true,
+          "originalName": "Incredible Initiative"
+        }
+      },
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "L5Ey4Y8Yz3oCR80d",
+      "name": "Cleric",
+      "type": "spellcastingEntry",
+      "system": {
+        "description": {
+          "gm": "",
+          "value": ""
+        },
+        "rules": [],
+        "slug": null,
+        "_migration": {
+          "version": 0.955,
+          "lastMigration": null
+        },
+        "traits": {
+          "otherTags": []
+        },
+        "publication": {
+          "title": "",
+          "authors": "",
+          "license": "OGL",
+          "remaster": false
+        },
+        "ability": {
+          "value": "wis"
+        },
+        "spelldc": {
+          "value": 0,
+          "dc": 0,
+          "item": 0
+        },
+        "tradition": {
+          "value": "divine"
+        },
+        "prepared": {
+          "value": "prepared",
+          "flexible": false
+        },
+        "showSlotlessLevels": {
+          "value": true
+        },
+        "proficiency": {
+          "value": 1
+        },
+        "slots": {
+          "slot0": {
+            "prepared": {
+              "0": {
+                "id": "aFkLslnVlHajTpmt"
+              },
+              "1": {
+                "id": "Oz6GW6NHzMTWMawA"
+              },
+              "2": {
+                "id": "dfCikD1nVqOqWyoz"
+              },
+              "3": {
+                "id": "wKJf3XtdRNgiW4I0"
+              },
+              "4": {
+                "id": "mw2nkP9JOVe6ewvH"
+              }
+            },
+            "value": 5,
+            "max": 5
+          },
+          "slot1": {
+            "prepared": {
+              "0": {
+                "id": "8OCrbJVKrrxnBpHN"
+              },
+              "1": {
+                "id": "O5mUat2XYqtDV1ik"
+              }
+            },
+            "value": 2,
+            "max": 2
+          },
+          "slot2": {
+            "prepared": {},
+            "value": 0,
+            "max": 0
+          },
+          "slot3": {
+            "prepared": {},
+            "value": 0,
+            "max": 0
+          },
+          "slot4": {
+            "prepared": {},
+            "value": 0,
+            "max": 0
+          },
+          "slot5": {
+            "prepared": {},
+            "value": 0,
+            "max": 0
+          },
+          "slot6": {
+            "prepared": {},
+            "value": 0,
+            "max": 0
+          },
+          "slot7": {
+            "prepared": {},
+            "value": 0,
+            "max": 0
+          },
+          "slot8": {
+            "prepared": {},
+            "value": 0,
+            "max": 0
+          },
+          "slot9": {
+            "prepared": {},
+            "value": 0,
+            "max": 0
+          },
+          "slot10": {
+            "prepared": {},
+            "value": 0,
+            "max": 0
+          },
+          "slot11": {
+            "prepared": [],
+            "value": 0,
+            "max": 0
+          }
+        },
+        "autoHeightenLevel": {
+          "value": null
+        },
+        "showUnpreparedSpells": {
+          "value": true
+        }
+      },
+      "effects": [],
+      "img": "systems/pf2e/icons/default-icons/spellcastingEntry.svg",
+      "folder": null,
+      "sort": 0,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "pf2e",
+        "systemVersion": "7.12.2",
+        "createdTime": 1776180628725,
+        "modifiedTime": 1776180628725,
+        "lastModifiedBy": "PSyRcSIZYjDSj8hT"
+      },
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "K8VK5EnMRQZ8JDsS",
+      "name": "Cleric Font",
+      "type": "spellcastingEntry",
+      "system": {
+        "description": {
+          "gm": "",
+          "value": ""
+        },
+        "rules": [],
+        "slug": null,
+        "_migration": {
+          "version": 0.955,
+          "lastMigration": null
+        },
+        "traits": {
+          "otherTags": []
+        },
+        "publication": {
+          "title": "",
+          "authors": "",
+          "license": "OGL",
+          "remaster": false
+        },
+        "ability": {
+          "value": "wis"
+        },
+        "spelldc": {
+          "value": 0,
+          "dc": 0,
+          "item": 0
+        },
+        "tradition": {
+          "value": "divine"
+        },
+        "prepared": {
+          "value": "prepared",
+          "flexible": false
+        },
+        "showSlotlessLevels": {
+          "value": false
+        },
+        "proficiency": {
+          "value": 1
+        },
+        "slots": {
+          "slot0": {
+            "prepared": {},
+            "value": 0,
+            "max": 0
+          },
+          "slot1": {
+            "prepared": {
+              "0": {
+                "id": "Ft8fEKxCQJ8eZcGJ"
+              },
+              "1": {
+                "id": "SAM8SOeVJVKHJjRo"
+              },
+              "2": {
+                "id": "l0isKNHjAOEZL1zi"
+              },
+              "3": {
+                "id": "jMNeGduO8Zclm6P4"
+              }
+            },
+            "value": 4,
+            "max": 4
+          },
+          "slot2": {
+            "prepared": {},
+            "value": 0,
+            "max": 0
+          },
+          "slot3": {
+            "prepared": {},
+            "value": 0,
+            "max": 0
+          },
+          "slot4": {
+            "prepared": {},
+            "value": 0,
+            "max": 0
+          },
+          "slot5": {
+            "prepared": {},
+            "value": 0,
+            "max": 0
+          },
+          "slot6": {
+            "prepared": {},
+            "value": 0,
+            "max": 0
+          },
+          "slot7": {
+            "prepared": {},
+            "value": 0,
+            "max": 0
+          },
+          "slot8": {
+            "prepared": {},
+            "value": 0,
+            "max": 0
+          },
+          "slot9": {
+            "prepared": {},
+            "value": 0,
+            "max": 0
+          },
+          "slot10": {
+            "prepared": {},
+            "value": 0,
+            "max": 0
+          },
+          "slot11": {
+            "prepared": [],
+            "value": 0,
+            "max": 0
+          }
+        },
+        "autoHeightenLevel": {
+          "value": null
+        },
+        "showUnpreparedSpells": {
+          "value": true
+        }
+      },
+      "effects": [],
+      "img": "systems/pf2e/icons/default-icons/spellcastingEntry.svg",
+      "folder": null,
+      "sort": 0,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "pf2e",
+        "systemVersion": "7.12.2",
+        "createdTime": 1776180628725,
+        "modifiedTime": 1776180628725,
+        "lastModifiedBy": "PSyRcSIZYjDSj8hT"
+      },
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "aFkLslnVlHajTpmt",
+      "folder": "D7UVaOiB40wTR6kv",
+      "img": "systems/pf2e/icons/spells/shield.webp",
+      "name": "Escudo",
+      "system": {
+        "description": {
+          "gm": "",
+          "value": "<p>Alzas un escudo de fuerza mágico. Esto cuenta cómo utilizar la acción Alzar un escudo, lo que te concede un bonificador +1 por circunstancia a tu CA hasta el inicio de tu siguiente turno, pero no requiere una mano para utilizarlo.</p> \n<p>Mientras el conjuro está en funcionamiento, puedes utilizar la reacción @UUID[Compendium.pf2e.feats-srd.Item.jM72TjJ965jocBV8]{Bloqueo con el escudo} con tu escudo mágico. El escudo tiene Dureza 5. Puedes utilizar la reacción del conjuro para reducir el daño de cualquier conjuro o efecto mágico, incluso si no inflige daño físico. Después de utilizar Bloqueo con el escudo, el conjuro se acaba y no puedes lanzarlo de nuevo durante 10 minutos.</p> \n<p>@UUID[Compendium.pf2e.spell-effects.Item.Jemq5UknGdMO7b73]{Efecto de conjuro: Escudo} </p> \n<p>@UUID[Compendium.pf2e.spell-effects.Item.QF6RDlCoTvkVHRo4]{Efecto: Inmunidad a escudo}  </p>\n<hr /> \n<p><strong>Potenciado (+2)</strong> La Dureza del escudo se incrementa en 5.</p> "
+        },
+        "rules": [],
+        "slug": "shield",
+        "_migration": {
+          "version": 0.955,
+          "lastMigration": null,
+          "previous": null
+        },
+        "traits": {
+          "otherTags": [],
+          "value": [
+            "cantrip",
+            "concentrate",
+            "force"
+          ],
+          "rarity": "common",
+          "traditions": [
+            "arcane",
+            "divine",
+            "occult"
+          ]
+        },
+        "publication": {
+          "title": "Pathfinder Manual de juego",
+          "authors": "",
+          "license": "ORC",
+          "remaster": true
+        },
+        "level": {
+          "value": 1
+        },
+        "requirements": "",
+        "target": {
+          "value": ""
+        },
+        "range": {
+          "value": ""
+        },
+        "area": null,
+        "time": {
+          "value": "1"
+        },
+        "duration": {
+          "value": "Hasta el inicio de tu próximo turno",
+          "sustained": false
+        },
+        "damage": {},
+        "defense": null,
+        "cost": {
+          "value": ""
+        },
+        "location": {
+          "value": "L5Ey4Y8Yz3oCR80d",
+          "heightenedLevel": 0
+        },
+        "counteraction": false
+      },
+      "type": "spell",
+      "_stats": {
+        "compendiumSource": "Compendium.pf2e.spells-srd.Item.TVKNbcgTee19PXZR",
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "pf2e",
+        "systemVersion": "7.12.2",
+        "createdTime": 1776180628892,
+        "modifiedTime": 1776180628892,
+        "lastModifiedBy": "PSyRcSIZYjDSj8hT"
+      },
+      "effects": [],
+      "sort": 0,
+      "flags": {
+        "babele": {
+          "translated": true,
+          "hasTranslation": true,
+          "originalName": "Shield"
+        }
+      },
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "Oz6GW6NHzMTWMawA",
+      "folder": "D7UVaOiB40wTR6kv",
+      "img": "systems/pf2e/icons/spells/guidance.webp",
+      "name": "Orientación",
+      "system": {
+        "description": {
+          "gm": "",
+          "value": " <p>Imploras la guía de seres sobrenaturales, lo que concede al objetivo un bonificador +1 por estatus a una tirada de ataque, prueba de Percepción, tirada de salvación o prueba de habilidad. El objetivo elige a qué tirada aplica el bonificador antes de tirar. Si el objetivo lo utiliza, el conjuro acaba. De una u otra forma, a continuación el objetivo queda temporalmente inmune durante 1 hora.</p>\n<p>@UUID[Compendium.pf2e.spell-effects.Item.3qHKBDF7lrHw8jFK]{Efecto de conjuro: Orientación}</p> \n<p>@UUID[Compendium.pf2e.spell-effects.Item.3LyOkV25p7wA181H]{Efecto de conjuro: Inmunidad a orientación}</p>"
+        },
+        "rules": [],
+        "slug": "guidance",
+        "_migration": {
+          "version": 0.955,
+          "lastMigration": null,
+          "previous": null
+        },
+        "traits": {
+          "otherTags": [],
+          "value": [
+            "cantrip",
+            "concentrate"
+          ],
+          "rarity": "common",
+          "traditions": [
+            "divine",
+            "occult",
+            "primal"
+          ]
+        },
+        "publication": {
+          "title": "Pathfinder Manual de juego",
+          "authors": "",
+          "license": "ORC",
+          "remaster": true
+        },
+        "level": {
+          "value": 1
+        },
+        "requirements": "",
+        "target": {
+          "value": "1 criatura"
+        },
+        "range": {
+          "value": "30 pies (9 m)"
+        },
+        "area": null,
+        "time": {
+          "value": "1"
+        },
+        "duration": {
+          "value": "Hasta el inicio de tu próximo turno",
+          "sustained": false
+        },
+        "damage": {},
+        "defense": null,
+        "cost": {
+          "value": ""
+        },
+        "location": {
+          "value": "L5Ey4Y8Yz3oCR80d",
+          "heightenedLevel": 0
+        },
+        "counteraction": false
+      },
+      "type": "spell",
+      "_stats": {
+        "compendiumSource": "Compendium.pf2e.spells-srd.Item.izcxFQFwf3woCnFs",
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "pf2e",
+        "systemVersion": "7.12.2",
+        "createdTime": 1776180628892,
+        "modifiedTime": 1776180628892,
+        "lastModifiedBy": "PSyRcSIZYjDSj8hT"
+      },
+      "effects": [],
+      "sort": 0,
+      "flags": {
+        "babele": {
+          "translated": true,
+          "hasTranslation": true,
+          "originalName": "Guidance"
+        }
+      },
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "dfCikD1nVqOqWyoz",
+      "folder": "D7UVaOiB40wTR6kv",
+      "img": "systems/pf2e/icons/spells/divine-lance.webp",
+      "name": "Lanza divina",
+      "system": {
+        "description": {
+          "gm": "",
+          "value": "<p>Desatas un rayo de energía divina. Haz un ataque de conjuro a distancia contra la CA del objetivo. Con un impacto, este sufre 2d4 daño espiritual (doble daño con un impacto crítico).</p>\n<hr />\n<p><strong>Potenciado (+1)</strong> El daño se incrementa en 1d4.</p>"
+        },
+        "rules": [],
+        "slug": "divine-lance",
+        "_migration": {
+          "version": 0.955,
+          "lastMigration": null,
+          "previous": null
+        },
+        "traits": {
+          "otherTags": [],
+          "value": [
+            "attack",
+            "cantrip",
+            "concentrate",
+            "manipulate",
+            "sanctified",
+            "spirit"
+          ],
+          "rarity": "common",
+          "traditions": [
+            "divine"
+          ]
+        },
+        "publication": {
+          "title": "Pathfinder Manual de juego",
+          "authors": "",
+          "license": "ORC",
+          "remaster": true
+        },
+        "level": {
+          "value": 1
+        },
+        "requirements": "",
+        "target": {
+          "value": "1 criatura"
+        },
+        "range": {
+          "value": "60 pies (18 m)"
+        },
+        "area": null,
+        "time": {
+          "value": "2"
+        },
+        "duration": {
+          "value": "",
+          "sustained": false
+        },
+        "damage": {
+          "0": {
+            "applyMod": false,
+            "category": null,
+            "formula": "2d4",
+            "kinds": [
+              "damage"
+            ],
+            "materials": [],
+            "type": "spirit"
+          }
+        },
+        "defense": null,
+        "cost": {
+          "value": ""
+        },
+        "location": {
+          "value": "L5Ey4Y8Yz3oCR80d",
+          "heightenedLevel": 0
+        },
+        "counteraction": false,
+        "heightening": {
+          "damage": {
+            "0": "1d4"
+          },
+          "interval": 1,
+          "type": "interval"
+        },
+        "overlays": {}
+      },
+      "type": "spell",
+      "_stats": {
+        "compendiumSource": "Compendium.pf2e.spells-srd.Item.qwZBXN6zBoB9BHXE",
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "pf2e",
+        "systemVersion": "7.12.2",
+        "createdTime": 1776180628892,
+        "modifiedTime": 1776180628892,
+        "lastModifiedBy": "PSyRcSIZYjDSj8hT"
+      },
+      "effects": [],
+      "sort": 0,
+      "flags": {
+        "babele": {
+          "translated": true,
+          "hasTranslation": true,
+          "originalName": "Divine Lance"
+        }
+      },
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "wKJf3XtdRNgiW4I0",
+      "folder": "D7UVaOiB40wTR6kv",
+      "img": "systems/pf2e/icons/spells/detect-magic.webp",
+      "name": "Detectar magia",
+      "system": {
+        "description": {
+          "gm": "",
+          "value": "<p>Envías un pulso que registra la presencia de la magia. No recibes otra información aparte de la presencia o la ausencia de magia. Puedes ignorar la magia de la que eres consciente, como por ejemplo los objetos mágicos y los conjuros activos, tanto tuyos como de tus aliados.</p>\n<p>Tan solo detectas la magia de ilusión si el efecto de dicha magia tiene un rango inferior que el de tu conjuro de <em> detectar magia </em>. Sin embargo, los objetos que tienen un aura de ilusión pero no son engañosos en apariencia (como por ejemplo una @UUID[Compendium.pf2e.equipment-srd.Item.bikFUFRLwfdvX2x2]{Poción de invisibilidad}) se suelen detectar normalmente. </p>\n<hr />\n<p><strong>Potenciado (3.º)</strong> Averiguas el rango del efecto mágico más poderoso que detecta el conjuro, a determinar por el DJ. </p>\n<p><strong>Potenciado (4.º)</strong> Como 3er rango, pero también señalas la fuente de la magia de mayor rango. Igual que para un sentido impreciso, no averiguas la ubicación exacta, pero puedes acotarla hasta un cubo de 5 pies (1,5 m) de lado (o la más cercana si es mayor que eso).</p>"
+        },
+        "rules": [],
+        "slug": "detect-magic",
+        "_migration": {
+          "version": 0.955,
+          "lastMigration": null,
+          "previous": null
+        },
+        "traits": {
+          "otherTags": [],
+          "value": [
+            "cantrip",
+            "concentrate",
+            "detection",
+            "manipulate"
+          ],
+          "rarity": "common",
+          "traditions": [
+            "arcane",
+            "divine",
+            "occult",
+            "primal"
+          ]
+        },
+        "publication": {
+          "title": "Pathfinder Manual de juego",
+          "authors": "",
+          "license": "ORC",
+          "remaster": true
+        },
+        "level": {
+          "value": 1
+        },
+        "requirements": "",
+        "target": {
+          "value": ""
+        },
+        "range": {
+          "value": ""
+        },
+        "area": {
+          "type": "emanation",
+          "value": 30
+        },
+        "time": {
+          "value": "2"
+        },
+        "duration": {
+          "value": "",
+          "sustained": false
+        },
+        "damage": {},
+        "defense": null,
+        "cost": {
+          "value": ""
+        },
+        "location": {
+          "value": "L5Ey4Y8Yz3oCR80d",
+          "heightenedLevel": 0
+        },
+        "counteraction": false
+      },
+      "type": "spell",
+      "_stats": {
+        "compendiumSource": "Compendium.pf2e.spells-srd.Item.gpzpAAAJ1Lza2JVl",
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "pf2e",
+        "systemVersion": "7.12.2",
+        "createdTime": 1776180628892,
+        "modifiedTime": 1776180628892,
+        "lastModifiedBy": "PSyRcSIZYjDSj8hT"
+      },
+      "effects": [],
+      "sort": 0,
+      "flags": {
+        "babele": {
+          "translated": true,
+          "hasTranslation": true,
+          "originalName": "Detect Magic"
+        }
+      },
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "mw2nkP9JOVe6ewvH",
+      "folder": "D7UVaOiB40wTR6kv",
+      "img": "systems/pf2e/icons/spells/light.webp",
+      "name": "Luz",
+      "system": {
+        "description": {
+          "gm": "",
+          "value": "<p>Creas un orbe de luz que emite luz brillante en un radio de 20 pies (6 m) y luz tenue durante los siguientes 20 pies (6 m) de un color a elegir por ti. Si creas la luz en el mismo espacio que una criatura voluntaria, puedes fijar la luz a dicha criatura, haciendo que flote cerca de la misma conforme se mueve. Puedes Mantener el conjuro para mover la luz hasta 60 pies (18 m) hacia arriba; puedes fijarla a una criatura o soltarla de la misma como parte de ese movimiento.</p> \n<p>Puedes Disipar el conjuro. Si lo lanzas mientras ya tienes 4 conjuros de <em>luz</em> activos, tienes que elegir uno de los 4 para que se acabe.</p> \n<p>@UUID[Compendium.pf2e.spell-effects.Item.cVVZXNbV0nElVOPZ]{Efecto de conjuro: Luz}</p> \n<hr /> \n<p><strong>Potenciado (4.º)</strong> El orbe emite luz en un radio de 60 pies (18 m) y luz tenue en los siguientes 60 pies (18 m).</p> "
+        },
+        "rules": [],
+        "slug": "light",
+        "_migration": {
+          "version": 0.955,
+          "lastMigration": null,
+          "previous": null
+        },
+        "traits": {
+          "otherTags": [],
+          "value": [
+            "cantrip",
+            "concentrate",
+            "light",
+            "manipulate"
+          ],
+          "rarity": "common",
+          "traditions": [
+            "arcane",
+            "divine",
+            "occult",
+            "primal"
+          ]
+        },
+        "publication": {
+          "title": "Pathfinder Manual de juego",
+          "authors": "",
+          "license": "ORC",
+          "remaster": true
+        },
+        "level": {
+          "value": 1
+        },
+        "requirements": "",
+        "target": {
+          "value": ""
+        },
+        "range": {
+          "value": "120 pies (36 m)"
+        },
+        "area": null,
+        "time": {
+          "value": "2"
+        },
+        "duration": {
+          "value": "Hasta tus próximos preparativos diarios",
+          "sustained": false
+        },
+        "damage": {},
+        "defense": null,
+        "cost": {
+          "value": ""
+        },
+        "location": {
+          "value": "L5Ey4Y8Yz3oCR80d",
+          "heightenedLevel": 0
+        },
+        "counteraction": false
+      },
+      "type": "spell",
+      "_stats": {
+        "compendiumSource": "Compendium.pf2e.spells-srd.Item.WBmvzNDfpwka3qT4",
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "pf2e",
+        "systemVersion": "7.12.2",
+        "createdTime": 1776180628892,
+        "modifiedTime": 1776180628892,
+        "lastModifiedBy": "PSyRcSIZYjDSj8hT"
+      },
+      "effects": [],
+      "sort": 0,
+      "flags": {
+        "babele": {
+          "translated": true,
+          "hasTranslation": true,
+          "originalName": "Light"
+        }
+      },
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "8OCrbJVKrrxnBpHN",
+      "folder": "T8AzYUgNIAgTJ9Iz",
+      "img": "systems/pf2e/icons/spells/bless.webp",
+      "name": "Bendición",
+      "system": {
+        "description": {
+          "gm": "",
+          "value": "<p>Las bendiciones del más allá ayudan a tus compañeros a golpear con acierto. Tus aliados y tú obtenéis un bonificador +1 por estatus a las tiradas de ataque mientras permanecéis en el interior de la emanación. Una vez por asalto en turnos subsiguientes, puedes Mantener el conjuro para incrementar en 10 pies (3 m) el radio de la emanación.</p>\n <p> @UUID[Compendium.pf2e.spells-srd.Item.XSujb7EsSwKl19Uu]{Bendición} puede contrarrestar @UUID[Compendium.pf2e.spells-srd.Item.7ZinJNzxq0XF0oMx]{Azote}. </p>\n <p> @UUID[Compendium.pf2e.spell-effects.Item.RfCEHpMoEAZvB9IZ]{Aura: Bendición} </p>"
+        },
+        "rules": [],
+        "slug": "bless",
+        "_migration": {
+          "version": 0.955,
+          "lastMigration": null,
+          "previous": null
+        },
+        "traits": {
+          "otherTags": [],
+          "value": [
+            "aura",
+            "concentrate",
+            "manipulate",
+            "mental"
+          ],
+          "rarity": "common",
+          "traditions": [
+            "divine",
+            "occult"
+          ]
+        },
+        "publication": {
+          "title": "Pathfinder Manual de juego",
+          "authors": "",
+          "license": "ORC",
+          "remaster": true
+        },
+        "level": {
+          "value": 1
+        },
+        "requirements": "",
+        "target": {
+          "value": "tu y tus aliados en el área"
+        },
+        "range": {
+          "value": ""
+        },
+        "area": {
+          "type": "emanation",
+          "value": 15
+        },
+        "time": {
+          "value": "2"
+        },
+        "duration": {
+          "value": "1 minuto",
+          "sustained": false
+        },
+        "damage": {},
+        "defense": null,
+        "cost": {
+          "value": ""
+        },
+        "location": {
+          "value": "L5Ey4Y8Yz3oCR80d",
+          "heightenedLevel": 1
+        },
+        "counteraction": true
+      },
+      "type": "spell",
+      "_stats": {
+        "compendiumSource": "Compendium.pf2e.spells-srd.Item.XSujb7EsSwKl19Uu",
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "pf2e",
+        "systemVersion": "7.12.2",
+        "createdTime": 1776180628892,
+        "modifiedTime": 1776180628892,
+        "lastModifiedBy": "PSyRcSIZYjDSj8hT"
+      },
+      "effects": [],
+      "sort": 0,
+      "flags": {
+        "babele": {
+          "translated": true,
+          "hasTranslation": true,
+          "originalName": "Bless"
+        }
+      },
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "O5mUat2XYqtDV1ik",
+      "folder": "T8AzYUgNIAgTJ9Iz",
+      "img": "systems/pf2e/icons/spells/magic-weapon.webp",
+      "name": "Arma rúnica",
+      "system": {
+        "description": {
+          "gm": "",
+          "value": "<p>El arma brilla con magia al tiempo que unas runas temporales se graban a lo largo de su longitud. El objetivo se convierte en un arma +1 de Golpe, obteniendo un bonificador +1 por objeto a las tiradas de ataque e incrementando a 2 el número de dados de daño por arma.</p> \n<hr /> \n<p><strong>Potenciado (6.º)</strong> El arma es +2 de <em>golpe mayor</em>.</p> \n<p><strong>Potenciado (9.º)</strong> El arma es +3 de <em>golpe superior</em>.</p> \n<p>@UUID[Compendium.pf2e.spell-effects.Item.GnWkI3T3LYRlm3X8]{Efecto de conjuro: Arma rúnica}</p>"
+        },
+        "rules": [],
+        "slug": "runic-weapon",
+        "_migration": {
+          "version": 0.955,
+          "lastMigration": null,
+          "previous": null
+        },
+        "traits": {
+          "otherTags": [],
+          "value": [
+            "concentrate",
+            "manipulate"
+          ],
+          "rarity": "common",
+          "traditions": [
+            "arcane",
+            "divine",
+            "occult",
+            "primal"
+          ]
+        },
+        "publication": {
+          "title": "Pathfinder Manual de juego",
+          "authors": "",
+          "license": "ORC",
+          "remaster": true
+        },
+        "level": {
+          "value": 1
+        },
+        "requirements": "",
+        "target": {
+          "value": "1 arma desatendida o empuñada por una criatura voluntaria"
+        },
+        "range": {
+          "value": "Toque"
+        },
+        "area": null,
+        "time": {
+          "value": "2"
+        },
+        "duration": {
+          "value": "1 minuto",
+          "sustained": false
+        },
+        "damage": {},
+        "defense": null,
+        "cost": {
+          "value": ""
+        },
+        "location": {
+          "value": "L5Ey4Y8Yz3oCR80d",
+          "heightenedLevel": 1
+        },
+        "counteraction": false
+      },
+      "type": "spell",
+      "_stats": {
+        "compendiumSource": "Compendium.pf2e.spells-srd.Item.TFitdEOpQC4SzKQQ",
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "pf2e",
+        "systemVersion": "7.12.2",
+        "createdTime": 1776180628892,
+        "modifiedTime": 1776180628892,
+        "lastModifiedBy": "PSyRcSIZYjDSj8hT"
+      },
+      "effects": [],
+      "sort": 0,
+      "flags": {
+        "babele": {
+          "translated": true,
+          "hasTranslation": true,
+          "originalName": "Runic Weapon"
+        }
+      },
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "Ft8fEKxCQJ8eZcGJ",
+      "folder": "T8AzYUgNIAgTJ9Iz",
+      "img": "icons/magic/life/cross-worn-green.webp",
+      "name": "Curar",
+      "system": {
+        "description": {
+          "gm": "",
+          "value": "<p>Canalizas energía vital para curar a los vivos o dañar a los muertos vivientes. Si el objetivo es una criatura viva voluntaria, le restableces 1d8 Puntos de Golpe. Si el objetivo es una criatura muerta viviente, infliges a la misma dicha cantidad de daño por vitalidad con una salvación básica de Fortaleza. El número de acciones que gastas cuando Lanzas este conjuro determina sus objetivos, alcance, área y demás parámetros.</p> \n<p><span class=\"action-glyph\">1</span> El conjuro tiene un alcance de toque. </p> \n<p><span class=\"action-glyph\">2</span> <strong>(concentrar)</strong> El conjuro tiene un alcance de 30 pies (9 m). Si estás curando a una criatura viva, incrementa en 8 los Puntos de Golpe restablecidos. </p> \n<p><span class=\"action-glyph\">3</span> <strong> (concentrar)</strong> Dispersas energía vital en una @Template[emanation|distance:30]{emanación de 30 pies (9 m)}. Esta energía tiene como objetivo todas las criaturas vivas y muertas vivientes en el área. </p> \n<hr /> \n<p><strong>Potenciado (+1)</strong> La cantidad de curación o de daño se incrementa en 1d8 y la curación adicional por la versión de 2 acciones se incrementa en 8.</p> "
+        },
+        "rules": [],
+        "slug": "heal",
+        "_migration": {
+          "version": 0.955,
+          "lastMigration": null,
+          "previous": null
+        },
+        "traits": {
+          "otherTags": [],
+          "value": [
+            "healing",
+            "manipulate",
+            "vitality"
+          ],
+          "rarity": "common",
+          "traditions": [
+            "divine",
+            "primal"
+          ]
+        },
+        "publication": {
+          "title": "Pathfinder Manual de juego",
+          "authors": "",
+          "license": "ORC",
+          "remaster": true
+        },
+        "level": {
+          "value": 1
+        },
+        "requirements": "",
+        "target": {
+          "value": "1 criatura viva o 1 criatura muerta viviente"
+        },
+        "range": {
+          "value": "Variable"
+        },
+        "area": null,
+        "time": {
+          "value": "1 a 3"
+        },
+        "duration": {
+          "value": "",
+          "sustained": false
+        },
+        "damage": {
+          "0": {
+            "applyMod": false,
+            "category": null,
+            "formula": "1d8",
+            "kinds": [
+              "damage",
+              "healing"
+            ],
+            "materials": [],
+            "type": "vitality"
+          }
+        },
+        "defense": {
+          "save": {
+            "basic": true,
+            "statistic": "fortitude"
+          }
+        },
+        "cost": {
+          "value": ""
+        },
+        "location": {
+          "value": "K8VK5EnMRQZ8JDsS",
+          "heightenedLevel": 1
+        },
+        "counteraction": false,
+        "heightening": {
+          "damage": {
+            "0": "1d8"
+          },
+          "interval": 1,
+          "type": "interval"
+        },
+        "overlays": {
+          "37gy7l19tik74o4s": {
+            "_id": "37gy7l19tik74o4s",
+            "name": "A criatura viva",
+            "overlayType": "override",
+            "sort": 2,
+            "system": {
+              "damage": {
+                "0": {
+                  "formula": "1d8+8",
+                  "kinds": [
+                    "healing"
+                  ]
+                }
+              },
+              "defense": null,
+              "heightening": {
+                "damage": {
+                  "0": "1d8+8"
+                }
+              },
+              "range": {
+                "value": "30 pies (9 m)"
+              },
+              "time": {
+                "value": "2"
+              },
+              "traits": {
+                "value": [
+                  "concentrate",
+                  "healing",
+                  "manipulate",
+                  "vitality"
+                ]
+              }
+            }
+          },
+          "7qdtetowq348s9oc": {
+            "_id": "7qdtetowq348s9oc",
+            "overlayType": "override",
+            "sort": 1,
+            "system": {
+              "range": {
+                "value": "touch"
+              },
+              "time": {
+                "value": "1"
+              }
+            }
+          },
+          "7vbvdrv2cl87sqta": {
+            "_id": "7vbvdrv2cl87sqta",
+            "overlayType": "override",
+            "sort": 4,
+            "system": {
+              "area": {
+                "type": "emanation",
+                "value": 30
+              },
+              "range": {
+                "value": ""
+              },
+              "target": {
+                "value": "todas las criaturas vivas y muertos vivientes"
+              },
+              "time": {
+                "value": "3"
+              },
+              "traits": {
+                "value": [
+                  "concentrate",
+                  "healing",
+                  "manipulate",
+                  "vitality"
+                ]
+              }
+            }
+          },
+          "lfxcoz2d3f8j2zq1": {
+            "_id": "lfxcoz2d3f8j2zq1",
+            "name": "Contra muerto viviente",
+            "overlayType": "override",
+            "sort": 3,
+            "system": {
+              "damage": {
+                "0": {
+                  "kinds": [
+                    "damage"
+                  ]
+                }
+              },
+              "range": {
+                "value": "30 pies (9 m)"
+              },
+              "target": {
+                "value": "1 muerto viviente"
+              },
+              "time": {
+                "value": "2"
+              },
+              "traits": {
+                "value": [
+                  "concentrate",
+                  "healing",
+                  "manipulate",
+                  "vitality"
+                ]
+              }
+            }
+          }
+        }
+      },
+      "type": "spell",
+      "_stats": {
+        "compendiumSource": "Compendium.pf2e.spells-srd.Item.rfZpqmj0AIIdkVIs",
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "pf2e",
+        "systemVersion": "7.12.2",
+        "createdTime": 1776180628892,
+        "modifiedTime": 1776180628892,
+        "lastModifiedBy": "PSyRcSIZYjDSj8hT"
+      },
+      "effects": [],
+      "sort": 0,
+      "flags": {
+        "babele": {
+          "translated": true,
+          "hasTranslation": true,
+          "originalName": "Heal"
+        }
+      },
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "SAM8SOeVJVKHJjRo",
+      "folder": "T8AzYUgNIAgTJ9Iz",
+      "img": "icons/magic/life/cross-worn-green.webp",
+      "name": "Curar",
+      "system": {
+        "description": {
+          "gm": "",
+          "value": "<p>Canalizas energía vital para curar a los vivos o dañar a los muertos vivientes. Si el objetivo es una criatura viva voluntaria, le restableces 1d8 Puntos de Golpe. Si el objetivo es una criatura muerta viviente, infliges a la misma dicha cantidad de daño por vitalidad con una salvación básica de Fortaleza. El número de acciones que gastas cuando Lanzas este conjuro determina sus objetivos, alcance, área y demás parámetros.</p> \n<p><span class=\"action-glyph\">1</span> El conjuro tiene un alcance de toque. </p> \n<p><span class=\"action-glyph\">2</span> <strong>(concentrar)</strong> El conjuro tiene un alcance de 30 pies (9 m). Si estás curando a una criatura viva, incrementa en 8 los Puntos de Golpe restablecidos. </p> \n<p><span class=\"action-glyph\">3</span> <strong> (concentrar)</strong> Dispersas energía vital en una @Template[emanation|distance:30]{emanación de 30 pies (9 m)}. Esta energía tiene como objetivo todas las criaturas vivas y muertas vivientes en el área. </p> \n<hr /> \n<p><strong>Potenciado (+1)</strong> La cantidad de curación o de daño se incrementa en 1d8 y la curación adicional por la versión de 2 acciones se incrementa en 8.</p> "
+        },
+        "rules": [],
+        "slug": "heal",
+        "_migration": {
+          "version": 0.955,
+          "lastMigration": null,
+          "previous": null
+        },
+        "traits": {
+          "otherTags": [],
+          "value": [
+            "healing",
+            "manipulate",
+            "vitality"
+          ],
+          "rarity": "common",
+          "traditions": [
+            "divine",
+            "primal"
+          ]
+        },
+        "publication": {
+          "title": "Pathfinder Manual de juego",
+          "authors": "",
+          "license": "ORC",
+          "remaster": true
+        },
+        "level": {
+          "value": 1
+        },
+        "requirements": "",
+        "target": {
+          "value": "1 criatura viva o 1 criatura muerta viviente"
+        },
+        "range": {
+          "value": "Variable"
+        },
+        "area": null,
+        "time": {
+          "value": "1 a 3"
+        },
+        "duration": {
+          "value": "",
+          "sustained": false
+        },
+        "damage": {
+          "0": {
+            "applyMod": false,
+            "category": null,
+            "formula": "1d8",
+            "kinds": [
+              "damage",
+              "healing"
+            ],
+            "materials": [],
+            "type": "vitality"
+          }
+        },
+        "defense": {
+          "save": {
+            "basic": true,
+            "statistic": "fortitude"
+          }
+        },
+        "cost": {
+          "value": ""
+        },
+        "location": {
+          "value": "K8VK5EnMRQZ8JDsS",
+          "heightenedLevel": 1
+        },
+        "counteraction": false,
+        "heightening": {
+          "damage": {
+            "0": "1d8"
+          },
+          "interval": 1,
+          "type": "interval"
+        },
+        "overlays": {
+          "37gy7l19tik74o4s": {
+            "_id": "37gy7l19tik74o4s",
+            "name": "A criatura viva",
+            "overlayType": "override",
+            "sort": 2,
+            "system": {
+              "damage": {
+                "0": {
+                  "formula": "1d8+8",
+                  "kinds": [
+                    "healing"
+                  ]
+                }
+              },
+              "defense": null,
+              "heightening": {
+                "damage": {
+                  "0": "1d8+8"
+                }
+              },
+              "range": {
+                "value": "30 pies (9 m)"
+              },
+              "time": {
+                "value": "2"
+              },
+              "traits": {
+                "value": [
+                  "concentrate",
+                  "healing",
+                  "manipulate",
+                  "vitality"
+                ]
+              }
+            }
+          },
+          "7qdtetowq348s9oc": {
+            "_id": "7qdtetowq348s9oc",
+            "overlayType": "override",
+            "sort": 1,
+            "system": {
+              "range": {
+                "value": "touch"
+              },
+              "time": {
+                "value": "1"
+              }
+            }
+          },
+          "7vbvdrv2cl87sqta": {
+            "_id": "7vbvdrv2cl87sqta",
+            "overlayType": "override",
+            "sort": 4,
+            "system": {
+              "area": {
+                "type": "emanation",
+                "value": 30
+              },
+              "range": {
+                "value": ""
+              },
+              "target": {
+                "value": "todas las criaturas vivas y muertos vivientes"
+              },
+              "time": {
+                "value": "3"
+              },
+              "traits": {
+                "value": [
+                  "concentrate",
+                  "healing",
+                  "manipulate",
+                  "vitality"
+                ]
+              }
+            }
+          },
+          "lfxcoz2d3f8j2zq1": {
+            "_id": "lfxcoz2d3f8j2zq1",
+            "name": "Contra muerto viviente",
+            "overlayType": "override",
+            "sort": 3,
+            "system": {
+              "damage": {
+                "0": {
+                  "kinds": [
+                    "damage"
+                  ]
+                }
+              },
+              "range": {
+                "value": "30 pies (9 m)"
+              },
+              "target": {
+                "value": "1 muerto viviente"
+              },
+              "time": {
+                "value": "2"
+              },
+              "traits": {
+                "value": [
+                  "concentrate",
+                  "healing",
+                  "manipulate",
+                  "vitality"
+                ]
+              }
+            }
+          }
+        }
+      },
+      "type": "spell",
+      "_stats": {
+        "compendiumSource": "Compendium.pf2e.spells-srd.Item.rfZpqmj0AIIdkVIs",
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "pf2e",
+        "systemVersion": "7.12.2",
+        "createdTime": 1776180628892,
+        "modifiedTime": 1776180628892,
+        "lastModifiedBy": "PSyRcSIZYjDSj8hT"
+      },
+      "effects": [],
+      "sort": 0,
+      "flags": {
+        "babele": {
+          "translated": true,
+          "hasTranslation": true,
+          "originalName": "Heal"
+        }
+      },
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "l0isKNHjAOEZL1zi",
+      "folder": "T8AzYUgNIAgTJ9Iz",
+      "img": "icons/magic/life/cross-worn-green.webp",
+      "name": "Curar",
+      "system": {
+        "description": {
+          "gm": "",
+          "value": "<p>Canalizas energía vital para curar a los vivos o dañar a los muertos vivientes. Si el objetivo es una criatura viva voluntaria, le restableces 1d8 Puntos de Golpe. Si el objetivo es una criatura muerta viviente, infliges a la misma dicha cantidad de daño por vitalidad con una salvación básica de Fortaleza. El número de acciones que gastas cuando Lanzas este conjuro determina sus objetivos, alcance, área y demás parámetros.</p> \n<p><span class=\"action-glyph\">1</span> El conjuro tiene un alcance de toque. </p> \n<p><span class=\"action-glyph\">2</span> <strong>(concentrar)</strong> El conjuro tiene un alcance de 30 pies (9 m). Si estás curando a una criatura viva, incrementa en 8 los Puntos de Golpe restablecidos. </p> \n<p><span class=\"action-glyph\">3</span> <strong> (concentrar)</strong> Dispersas energía vital en una @Template[emanation|distance:30]{emanación de 30 pies (9 m)}. Esta energía tiene como objetivo todas las criaturas vivas y muertas vivientes en el área. </p> \n<hr /> \n<p><strong>Potenciado (+1)</strong> La cantidad de curación o de daño se incrementa en 1d8 y la curación adicional por la versión de 2 acciones se incrementa en 8.</p> "
+        },
+        "rules": [],
+        "slug": "heal",
+        "_migration": {
+          "version": 0.955,
+          "lastMigration": null,
+          "previous": null
+        },
+        "traits": {
+          "otherTags": [],
+          "value": [
+            "healing",
+            "manipulate",
+            "vitality"
+          ],
+          "rarity": "common",
+          "traditions": [
+            "divine",
+            "primal"
+          ]
+        },
+        "publication": {
+          "title": "Pathfinder Manual de juego",
+          "authors": "",
+          "license": "ORC",
+          "remaster": true
+        },
+        "level": {
+          "value": 1
+        },
+        "requirements": "",
+        "target": {
+          "value": "1 criatura viva o 1 criatura muerta viviente"
+        },
+        "range": {
+          "value": "Variable"
+        },
+        "area": null,
+        "time": {
+          "value": "1 a 3"
+        },
+        "duration": {
+          "value": "",
+          "sustained": false
+        },
+        "damage": {
+          "0": {
+            "applyMod": false,
+            "category": null,
+            "formula": "1d8",
+            "kinds": [
+              "damage",
+              "healing"
+            ],
+            "materials": [],
+            "type": "vitality"
+          }
+        },
+        "defense": {
+          "save": {
+            "basic": true,
+            "statistic": "fortitude"
+          }
+        },
+        "cost": {
+          "value": ""
+        },
+        "location": {
+          "value": "K8VK5EnMRQZ8JDsS",
+          "heightenedLevel": 1
+        },
+        "counteraction": false,
+        "heightening": {
+          "damage": {
+            "0": "1d8"
+          },
+          "interval": 1,
+          "type": "interval"
+        },
+        "overlays": {
+          "37gy7l19tik74o4s": {
+            "_id": "37gy7l19tik74o4s",
+            "name": "A criatura viva",
+            "overlayType": "override",
+            "sort": 2,
+            "system": {
+              "damage": {
+                "0": {
+                  "formula": "1d8+8",
+                  "kinds": [
+                    "healing"
+                  ]
+                }
+              },
+              "defense": null,
+              "heightening": {
+                "damage": {
+                  "0": "1d8+8"
+                }
+              },
+              "range": {
+                "value": "30 pies (9 m)"
+              },
+              "time": {
+                "value": "2"
+              },
+              "traits": {
+                "value": [
+                  "concentrate",
+                  "healing",
+                  "manipulate",
+                  "vitality"
+                ]
+              }
+            }
+          },
+          "7qdtetowq348s9oc": {
+            "_id": "7qdtetowq348s9oc",
+            "overlayType": "override",
+            "sort": 1,
+            "system": {
+              "range": {
+                "value": "touch"
+              },
+              "time": {
+                "value": "1"
+              }
+            }
+          },
+          "7vbvdrv2cl87sqta": {
+            "_id": "7vbvdrv2cl87sqta",
+            "overlayType": "override",
+            "sort": 4,
+            "system": {
+              "area": {
+                "type": "emanation",
+                "value": 30
+              },
+              "range": {
+                "value": ""
+              },
+              "target": {
+                "value": "todas las criaturas vivas y muertos vivientes"
+              },
+              "time": {
+                "value": "3"
+              },
+              "traits": {
+                "value": [
+                  "concentrate",
+                  "healing",
+                  "manipulate",
+                  "vitality"
+                ]
+              }
+            }
+          },
+          "lfxcoz2d3f8j2zq1": {
+            "_id": "lfxcoz2d3f8j2zq1",
+            "name": "Contra muerto viviente",
+            "overlayType": "override",
+            "sort": 3,
+            "system": {
+              "damage": {
+                "0": {
+                  "kinds": [
+                    "damage"
+                  ]
+                }
+              },
+              "range": {
+                "value": "30 pies (9 m)"
+              },
+              "target": {
+                "value": "1 muerto viviente"
+              },
+              "time": {
+                "value": "2"
+              },
+              "traits": {
+                "value": [
+                  "concentrate",
+                  "healing",
+                  "manipulate",
+                  "vitality"
+                ]
+              }
+            }
+          }
+        }
+      },
+      "type": "spell",
+      "_stats": {
+        "compendiumSource": "Compendium.pf2e.spells-srd.Item.rfZpqmj0AIIdkVIs",
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "pf2e",
+        "systemVersion": "7.12.2",
+        "createdTime": 1776180628892,
+        "modifiedTime": 1776180628892,
+        "lastModifiedBy": "PSyRcSIZYjDSj8hT"
+      },
+      "effects": [],
+      "sort": 0,
+      "flags": {
+        "babele": {
+          "translated": true,
+          "hasTranslation": true,
+          "originalName": "Heal"
+        }
+      },
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "jMNeGduO8Zclm6P4",
+      "folder": "T8AzYUgNIAgTJ9Iz",
+      "img": "icons/magic/life/cross-worn-green.webp",
+      "name": "Curar",
+      "system": {
+        "description": {
+          "gm": "",
+          "value": "<p>Canalizas energía vital para curar a los vivos o dañar a los muertos vivientes. Si el objetivo es una criatura viva voluntaria, le restableces 1d8 Puntos de Golpe. Si el objetivo es una criatura muerta viviente, infliges a la misma dicha cantidad de daño por vitalidad con una salvación básica de Fortaleza. El número de acciones que gastas cuando Lanzas este conjuro determina sus objetivos, alcance, área y demás parámetros.</p> \n<p><span class=\"action-glyph\">1</span> El conjuro tiene un alcance de toque. </p> \n<p><span class=\"action-glyph\">2</span> <strong>(concentrar)</strong> El conjuro tiene un alcance de 30 pies (9 m). Si estás curando a una criatura viva, incrementa en 8 los Puntos de Golpe restablecidos. </p> \n<p><span class=\"action-glyph\">3</span> <strong> (concentrar)</strong> Dispersas energía vital en una @Template[emanation|distance:30]{emanación de 30 pies (9 m)}. Esta energía tiene como objetivo todas las criaturas vivas y muertas vivientes en el área. </p> \n<hr /> \n<p><strong>Potenciado (+1)</strong> La cantidad de curación o de daño se incrementa en 1d8 y la curación adicional por la versión de 2 acciones se incrementa en 8.</p> "
+        },
+        "rules": [],
+        "slug": "heal",
+        "_migration": {
+          "version": 0.955,
+          "lastMigration": null,
+          "previous": null
+        },
+        "traits": {
+          "otherTags": [],
+          "value": [
+            "healing",
+            "manipulate",
+            "vitality"
+          ],
+          "rarity": "common",
+          "traditions": [
+            "divine",
+            "primal"
+          ]
+        },
+        "publication": {
+          "title": "Pathfinder Manual de juego",
+          "authors": "",
+          "license": "ORC",
+          "remaster": true
+        },
+        "level": {
+          "value": 1
+        },
+        "requirements": "",
+        "target": {
+          "value": "1 criatura viva o 1 criatura muerta viviente"
+        },
+        "range": {
+          "value": "Variable"
+        },
+        "area": null,
+        "time": {
+          "value": "1 a 3"
+        },
+        "duration": {
+          "value": "",
+          "sustained": false
+        },
+        "damage": {
+          "0": {
+            "applyMod": false,
+            "category": null,
+            "formula": "1d8",
+            "kinds": [
+              "damage",
+              "healing"
+            ],
+            "materials": [],
+            "type": "vitality"
+          }
+        },
+        "defense": {
+          "save": {
+            "basic": true,
+            "statistic": "fortitude"
+          }
+        },
+        "cost": {
+          "value": ""
+        },
+        "location": {
+          "value": "K8VK5EnMRQZ8JDsS",
+          "heightenedLevel": 1
+        },
+        "counteraction": false,
+        "heightening": {
+          "damage": {
+            "0": "1d8"
+          },
+          "interval": 1,
+          "type": "interval"
+        },
+        "overlays": {
+          "37gy7l19tik74o4s": {
+            "_id": "37gy7l19tik74o4s",
+            "name": "A criatura viva",
+            "overlayType": "override",
+            "sort": 2,
+            "system": {
+              "damage": {
+                "0": {
+                  "formula": "1d8+8",
+                  "kinds": [
+                    "healing"
+                  ]
+                }
+              },
+              "defense": null,
+              "heightening": {
+                "damage": {
+                  "0": "1d8+8"
+                }
+              },
+              "range": {
+                "value": "30 pies (9 m)"
+              },
+              "time": {
+                "value": "2"
+              },
+              "traits": {
+                "value": [
+                  "concentrate",
+                  "healing",
+                  "manipulate",
+                  "vitality"
+                ]
+              }
+            }
+          },
+          "7qdtetowq348s9oc": {
+            "_id": "7qdtetowq348s9oc",
+            "overlayType": "override",
+            "sort": 1,
+            "system": {
+              "range": {
+                "value": "touch"
+              },
+              "time": {
+                "value": "1"
+              }
+            }
+          },
+          "7vbvdrv2cl87sqta": {
+            "_id": "7vbvdrv2cl87sqta",
+            "overlayType": "override",
+            "sort": 4,
+            "system": {
+              "area": {
+                "type": "emanation",
+                "value": 30
+              },
+              "range": {
+                "value": ""
+              },
+              "target": {
+                "value": "todas las criaturas vivas y muertos vivientes"
+              },
+              "time": {
+                "value": "3"
+              },
+              "traits": {
+                "value": [
+                  "concentrate",
+                  "healing",
+                  "manipulate",
+                  "vitality"
+                ]
+              }
+            }
+          },
+          "lfxcoz2d3f8j2zq1": {
+            "_id": "lfxcoz2d3f8j2zq1",
+            "name": "Contra muerto viviente",
+            "overlayType": "override",
+            "sort": 3,
+            "system": {
+              "damage": {
+                "0": {
+                  "kinds": [
+                    "damage"
+                  ]
+                }
+              },
+              "range": {
+                "value": "30 pies (9 m)"
+              },
+              "target": {
+                "value": "1 muerto viviente"
+              },
+              "time": {
+                "value": "2"
+              },
+              "traits": {
+                "value": [
+                  "concentrate",
+                  "healing",
+                  "manipulate",
+                  "vitality"
+                ]
+              }
+            }
+          }
+        }
+      },
+      "type": "spell",
+      "_stats": {
+        "compendiumSource": "Compendium.pf2e.spells-srd.Item.rfZpqmj0AIIdkVIs",
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "pf2e",
+        "systemVersion": "7.12.2",
+        "createdTime": 1776180628892,
+        "modifiedTime": 1776180628892,
+        "lastModifiedBy": "PSyRcSIZYjDSj8hT"
+      },
+      "effects": [],
+      "sort": 0,
+      "flags": {
+        "babele": {
+          "translated": true,
+          "hasTranslation": true,
+          "originalName": "Heal"
+        }
+      },
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "gapxG9pKEju5nvvW",
+      "img": "icons/containers/bags/pack-leather-white-tan.webp",
+      "name": "Mochila",
+      "system": {
+        "description": {
+          "gm": "",
+          "value": "<p>Una mochila contiene hasta Impedimenta 4 de objetos y los primeros 2 puntos de Impedimenta de dichos objetos no cuentan contra tu límite. Si, en lugar de llevar la mochila a la espalda, la sostienes o la llevas guardada, su Impedimenta es ligera en lugar de insignificante.</p>"
+        },
+        "rules": [],
+        "slug": "backpack",
+        "_migration": {
+          "version": 0.955,
+          "lastMigration": null,
+          "previous": null
+        },
+        "traits": {
+          "otherTags": [],
+          "value": [],
+          "rarity": "common"
+        },
+        "publication": {
+          "title": "Pathfinder Manual de juego",
+          "authors": "",
+          "license": "ORC",
+          "remaster": true
+        },
+        "level": {
+          "value": 0
+        },
+        "quantity": 1,
+        "baseItem": null,
+        "bulk": {
+          "value": 0,
+          "heldOrStowed": 0.1,
+          "capacity": 4,
+          "ignored": 2
+        },
+        "hp": {
+          "value": 0,
+          "max": 0
+        },
+        "hardness": 0,
+        "price": {
+          "value": {
+            "sp": 1
+          }
+        },
+        "equipped": {
+          "carryType": "worn",
+          "invested": true,
+          "inSlot": true,
+          "handsHeld": 0
+        },
+        "containerId": null,
+        "size": "med",
+        "material": {
+          "type": null,
+          "grade": null
+        },
+        "identification": {
+          "status": "identified",
+          "unidentified": {
+            "name": "",
+            "img": "",
+            "data": {
+              "description": {
+                "value": ""
+              }
+            }
+          }
+        },
+        "collapsed": false,
+        "stowing": true,
+        "usage": {
+          "value": "wornbackpack"
+        }
+      },
+      "type": "backpack",
+      "_stats": {
+        "compendiumSource": "Compendium.pf2e.equipment-srd.Item.3lgwjrFEsQVKzhh7",
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "pf2e",
+        "systemVersion": "7.12.2",
+        "createdTime": 1776180629080,
+        "modifiedTime": 1776180629476,
+        "lastModifiedBy": "PSyRcSIZYjDSj8hT"
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "flags": {
+        "babele": {
+          "translated": true,
+          "hasTranslation": true,
+          "originalName": "Backpack"
+        }
+      },
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "OVkQrmTP3glyM3e7",
+      "img": "icons/containers/ammunition/quiver-simple-brown.webp",
+      "name": "Saco de dormir",
+      "system": {
+        "description": {
+          "gm": "",
+          "value": "<p> Una cama enrollada. </p>"
+        },
+        "rules": [],
+        "slug": "bedroll",
+        "_migration": {
+          "version": 0.955,
+          "lastMigration": null,
+          "previous": null
+        },
+        "traits": {
+          "otherTags": [],
+          "value": [],
+          "rarity": "common"
+        },
+        "publication": {
+          "title": "Pathfinder Manual de juego",
+          "authors": "",
+          "license": "ORC",
+          "remaster": true
+        },
+        "level": {
+          "value": 0
+        },
+        "quantity": 1,
+        "baseItem": null,
+        "bulk": {
+          "value": 0.1
+        },
+        "hp": {
+          "value": 0,
+          "max": 0
+        },
+        "hardness": 0,
+        "price": {
+          "value": {
+            "cp": 2
+          }
+        },
+        "equipped": {
+          "carryType": "stowed",
+          "invested": null,
+          "handsHeld": 0
+        },
+        "containerId": "gapxG9pKEju5nvvW",
+        "size": "med",
+        "material": {
+          "type": null,
+          "grade": null
+        },
+        "identification": {
+          "status": "identified",
+          "unidentified": {
+            "name": "",
+            "img": "",
+            "data": {
+              "description": {
+                "value": ""
+              }
+            }
+          }
+        },
+        "usage": {
+          "value": "other"
+        },
+        "subitems": []
+      },
+      "type": "equipment",
+      "_stats": {
+        "compendiumSource": "Compendium.pf2e.equipment-srd.Item.fagzYdmfYyMQ6J77",
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "pf2e",
+        "systemVersion": "7.12.2",
+        "createdTime": 1776180629080,
+        "modifiedTime": 1776180629476,
+        "lastModifiedBy": "PSyRcSIZYjDSj8hT"
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "flags": {
+        "babele": {
+          "translated": true,
+          "hasTranslation": true,
+          "originalName": "Bedroll"
+        }
+      },
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "2eXdBG5PnIwsA1PA",
+      "img": "systems/pf2e/icons/equipment/adventuring-gear/chalk.webp",
+      "name": "Tiza",
+      "system": {
+        "description": {
+          "gm": "",
+          "value": ""
+        },
+        "rules": [],
+        "slug": "chalk",
+        "_migration": {
+          "version": 0.955,
+          "lastMigration": null,
+          "previous": null
+        },
+        "traits": {
+          "otherTags": [],
+          "value": [],
+          "rarity": "common"
+        },
+        "publication": {
+          "title": "Pathfinder Manual de juego",
+          "authors": "",
+          "license": "ORC",
+          "remaster": true
+        },
+        "level": {
+          "value": 0
+        },
+        "quantity": 10,
+        "baseItem": null,
+        "bulk": {
+          "value": 0
+        },
+        "hp": {
+          "value": 0,
+          "max": 0
+        },
+        "hardness": 0,
+        "price": {
+          "value": {
+            "cp": 1
+          },
+          "per": 10
+        },
+        "equipped": {
+          "carryType": "stowed",
+          "handsHeld": 0
+        },
+        "containerId": "gapxG9pKEju5nvvW",
+        "size": "med",
+        "material": {
+          "type": null,
+          "grade": null
+        },
+        "identification": {
+          "status": "identified",
+          "unidentified": {
+            "name": "",
+            "img": "",
+            "data": {
+              "description": {
+                "value": ""
+              }
+            }
+          }
+        },
+        "category": "other",
+        "uses": {
+          "value": 1,
+          "max": 1,
+          "autoDestroy": true
+        },
+        "damage": null,
+        "usage": {
+          "value": "held-in-one-hand"
+        },
+        "spell": null
+      },
+      "type": "consumable",
+      "_stats": {
+        "compendiumSource": "Compendium.pf2e.equipment-srd.Item.xShIDyydOMkGvGNb",
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "pf2e",
+        "systemVersion": "7.12.2",
+        "createdTime": 1776180629080,
+        "modifiedTime": 1776180629476,
+        "lastModifiedBy": "PSyRcSIZYjDSj8hT"
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "flags": {
+        "babele": {
+          "translated": true,
+          "hasTranslation": true,
+          "originalName": "Chalk"
+        }
+      },
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "A6K2xeY1VS3Igx8j",
+      "img": "icons/commodities/stone/geode-raw-tan.webp",
+      "name": "Pedernal y yesca",
+      "system": {
+        "description": {
+          "gm": "",
+          "value": "<p>El pedernal y la yesca se utilizan para encender fuego si tienes tiempo para utilizar una chispa aunque usarlos suele alargarse, de forma que el método no es práctico durante un encuentro. Incluso en las condiciones ideales, utilizar el pedernal y la yesca para encender una llama requiere el uso de por lo menos 3 acciones, y a menudo mucho más.</p>"
+        },
+        "rules": [],
+        "slug": "flint-and-steel",
+        "_migration": {
+          "version": 0.955,
+          "lastMigration": null,
+          "previous": null
+        },
+        "traits": {
+          "otherTags": [],
+          "value": [],
+          "rarity": "common"
+        },
+        "publication": {
+          "title": "Pathfinder Manual de juego",
+          "authors": "",
+          "license": "ORC",
+          "remaster": true
+        },
+        "level": {
+          "value": 0
+        },
+        "quantity": 1,
+        "baseItem": null,
+        "bulk": {
+          "value": 0
+        },
+        "hp": {
+          "value": 0,
+          "max": 0
+        },
+        "hardness": 0,
+        "price": {
+          "value": {
+            "cp": 5
+          }
+        },
+        "equipped": {
+          "carryType": "stowed",
+          "invested": null,
+          "handsHeld": 0
+        },
+        "containerId": "gapxG9pKEju5nvvW",
+        "size": "med",
+        "material": {
+          "type": null,
+          "grade": null
+        },
+        "identification": {
+          "status": "identified",
+          "unidentified": {
+            "name": "",
+            "img": "",
+            "data": {
+              "description": {
+                "value": ""
+              }
+            }
+          }
+        },
+        "usage": {
+          "value": "held-in-two-hands"
+        },
+        "subitems": []
+      },
+      "type": "equipment",
+      "_stats": {
+        "compendiumSource": "Compendium.pf2e.equipment-srd.Item.UlIxxLm71UdRgCFE",
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "pf2e",
+        "systemVersion": "7.12.2",
+        "createdTime": 1776180629080,
+        "modifiedTime": 1776180629476,
+        "lastModifiedBy": "PSyRcSIZYjDSj8hT"
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "flags": {
+        "babele": {
+          "translated": true,
+          "hasTranslation": true,
+          "originalName": "Flint and Steel"
+        }
+      },
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "WIJoMvJadikLsGck",
+      "img": "icons/sundries/survival/rope-wrapped-brown.webp",
+      "name": "Soga",
+      "system": {
+        "description": {
+          "gm": "",
+          "value": "<p> 50 pies de cuerda. </p>"
+        },
+        "rules": [],
+        "slug": "rope",
+        "_migration": {
+          "version": 0.955,
+          "lastMigration": null,
+          "previous": null
+        },
+        "traits": {
+          "otherTags": [],
+          "value": [],
+          "rarity": "common"
+        },
+        "publication": {
+          "title": "Pathfinder Manual de juego",
+          "authors": "",
+          "license": "ORC",
+          "remaster": true
+        },
+        "level": {
+          "value": 0
+        },
+        "quantity": 1,
+        "baseItem": null,
+        "bulk": {
+          "value": 0.1
+        },
+        "hp": {
+          "value": 0,
+          "max": 0
+        },
+        "hardness": 0,
+        "price": {
+          "value": {
+            "sp": 5
+          }
+        },
+        "equipped": {
+          "carryType": "stowed",
+          "invested": null,
+          "handsHeld": 0
+        },
+        "containerId": "gapxG9pKEju5nvvW",
+        "size": "med",
+        "material": {
+          "type": null,
+          "grade": null
+        },
+        "identification": {
+          "status": "identified",
+          "unidentified": {
+            "name": "",
+            "img": "",
+            "data": {
+              "description": {
+                "value": ""
+              }
+            }
+          }
+        },
+        "usage": {
+          "value": "held-in-two-hands"
+        },
+        "subitems": []
+      },
+      "type": "equipment",
+      "_stats": {
+        "compendiumSource": "Compendium.pf2e.equipment-srd.Item.fyYnQf1NAx9fWFaS",
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "pf2e",
+        "systemVersion": "7.12.2",
+        "createdTime": 1776180629080,
+        "modifiedTime": 1776180629476,
+        "lastModifiedBy": "PSyRcSIZYjDSj8hT"
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "flags": {
+        "babele": {
+          "translated": true,
+          "hasTranslation": true,
+          "originalName": "Rope"
+        }
+      },
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "zj6SWXuSLW6QrqyE",
+      "img": "systems/pf2e/icons/equipment/adventuring-gear/rations.webp",
+      "name": "Raciones",
+      "system": {
+        "description": {
+          "gm": "",
+          "value": ""
+        },
+        "rules": [],
+        "slug": "rations",
+        "_migration": {
+          "version": 0.955,
+          "lastMigration": null,
+          "previous": null
+        },
+        "traits": {
+          "otherTags": [],
+          "value": [],
+          "rarity": "common"
+        },
+        "publication": {
+          "title": "Pathfinder Manual de juego",
+          "authors": "",
+          "license": "ORC",
+          "remaster": true
+        },
+        "level": {
+          "value": 0
+        },
+        "quantity": 2,
+        "baseItem": null,
+        "bulk": {
+          "value": 0.1
+        },
+        "hp": {
+          "value": 0,
+          "max": 0
+        },
+        "hardness": 0,
+        "price": {
+          "value": {
+            "sp": 4
+          },
+          "per": 1
+        },
+        "equipped": {
+          "carryType": "stowed",
+          "handsHeld": 0
+        },
+        "containerId": "gapxG9pKEju5nvvW",
+        "size": "med",
+        "material": {
+          "type": null,
+          "grade": null
+        },
+        "identification": {
+          "status": "identified",
+          "unidentified": {
+            "name": "",
+            "img": "",
+            "data": {
+              "description": {
+                "value": ""
+              }
+            }
+          }
+        },
+        "category": "other",
+        "uses": {
+          "value": 7,
+          "max": 7,
+          "autoDestroy": true
+        },
+        "damage": null,
+        "usage": {
+          "value": "held-in-one-hand"
+        },
+        "spell": null
+      },
+      "type": "consumable",
+      "_stats": {
+        "compendiumSource": "Compendium.pf2e.equipment-srd.Item.L9ZV076913otGtiB",
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "pf2e",
+        "systemVersion": "7.12.2",
+        "createdTime": 1776180629080,
+        "modifiedTime": 1776180629476,
+        "lastModifiedBy": "PSyRcSIZYjDSj8hT"
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "flags": {
+        "babele": {
+          "translated": true,
+          "hasTranslation": true,
+          "originalName": "Rations"
+        }
+      },
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "s3moTw954sMKR9pm",
+      "img": "icons/sundries/lights/torch-brown.webp",
+      "name": "Antorcha",
+      "system": {
+        "description": {
+          "gm": "",
+          "value": "<p>Una antorcha emite luz brillante en un radio de 20 pies (6 m) y luz tenue en los siguientes 20 pies (6 m) durante 1 hora. Se puede usar como arma improvisada que inflige 1d4 daño contundente más 1 daño por fuego</p>"
+        },
+        "rules": [
+          {
+            "key": "TokenLight",
+            "predicate": [
+              "lit-torch"
+            ],
+            "value": {
+              "alpha": 0.3,
+              "animation": {
+                "intensity": 1,
+                "speed": 2,
+                "type": "flame"
+              },
+              "attenuation": 0.4,
+              "bright": 20,
+              "color": "#ffae3d",
+              "dim": 40,
+              "shadows": 0.2
+            }
+          },
+          {
+            "category": "simple",
+            "damage": {
+              "base": {
+                "damageType": "bludgeoning",
+                "dice": 1,
+                "die": "d4"
+              }
+            },
+            "key": "Strike",
+            "otherTags": [
+              "improvised"
+            ],
+            "predicate": [
+              {
+                "not": "lit-torch"
+              }
+            ]
+          },
+          {
+            "category": "simple",
+            "damage": {
+              "base": {
+                "damageType": "bludgeoning",
+                "dice": 1,
+                "die": "d4"
+              }
+            },
+            "img": "icons/sundries/lights/torch-brown-lit.webp",
+            "key": "Strike",
+            "otherTags": [
+              "improvised"
+            ],
+            "predicate": [
+              "lit-torch"
+            ]
+          },
+          {
+            "damageType": "fire",
+            "key": "FlatModifier",
+            "predicate": [
+              "lit-torch"
+            ],
+            "selector": "{item|_id}-damage",
+            "value": 1
+          },
+          {
+            "key": "RollOption",
+            "label": "PF2E.SpecificRule.LitTorch",
+            "option": "lit-torch",
+            "toggleable": true
+          },
+          {
+            "key": "TokenEffectIcon",
+            "predicate": [
+              "lit-torch"
+            ],
+            "value": "icons/sundries/lights/torch-brown-lit.webp"
+          }
+        ],
+        "slug": "torch",
+        "_migration": {
+          "version": 0.955,
+          "lastMigration": null,
+          "previous": null
+        },
+        "traits": {
+          "otherTags": [],
+          "value": [],
+          "rarity": "common"
+        },
+        "publication": {
+          "title": "Pathfinder Manual de juego",
+          "authors": "",
+          "license": "ORC",
+          "remaster": true
+        },
+        "level": {
+          "value": 0
+        },
+        "quantity": 5,
+        "baseItem": null,
+        "bulk": {
+          "value": 0.1
+        },
+        "hp": {
+          "value": 0,
+          "max": 0
+        },
+        "hardness": 0,
+        "price": {
+          "value": {
+            "cp": 1
+          }
+        },
+        "equipped": {
+          "carryType": "stowed",
+          "invested": null,
+          "handsHeld": 0
+        },
+        "containerId": "gapxG9pKEju5nvvW",
+        "size": "med",
+        "material": {
+          "type": null,
+          "grade": null
+        },
+        "identification": {
+          "status": "identified",
+          "unidentified": {
+            "name": "",
+            "img": "",
+            "data": {
+              "description": {
+                "value": ""
+              }
+            }
+          }
+        },
+        "usage": {
+          "value": "held-in-one-hand"
+        },
+        "subitems": []
+      },
+      "type": "equipment",
+      "_stats": {
+        "compendiumSource": "Compendium.pf2e.equipment-srd.Item.8Jdw4yAzWYylGePS",
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "pf2e",
+        "systemVersion": "7.12.2",
+        "createdTime": 1776180629080,
+        "modifiedTime": 1776180629476,
+        "lastModifiedBy": "PSyRcSIZYjDSj8hT"
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "flags": {
+        "babele": {
+          "translated": true,
+          "hasTranslation": true,
+          "originalName": "Torch"
+        }
+      },
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "jWqsAubR32DAd9J8",
+      "img": "systems/pf2e/icons/equipment/adventuring-gear/waterskin.webp",
+      "name": "Odre",
+      "system": {
+        "description": {
+          "gm": "",
+          "value": "<p> Cuando está lleno, un odre contiene aproximadamente la cantidad necesaria de agua de 1 día para una criatura Pequeña o Mediana</p>"
+        },
+        "rules": [],
+        "slug": "waterskin",
+        "_migration": {
+          "version": 0.955,
+          "lastMigration": null,
+          "previous": null
+        },
+        "traits": {
+          "otherTags": [],
+          "value": [],
+          "rarity": "common"
+        },
+        "publication": {
+          "title": "Pathfinder Manual de juego",
+          "authors": "",
+          "license": "ORC",
+          "remaster": true
+        },
+        "level": {
+          "value": 0
+        },
+        "quantity": 1,
+        "baseItem": null,
+        "bulk": {
+          "value": 0.1
+        },
+        "hp": {
+          "value": 0,
+          "max": 0
+        },
+        "hardness": 0,
+        "price": {
+          "value": {
+            "cp": 5
+          }
+        },
+        "equipped": {
+          "carryType": "stowed",
+          "invested": null,
+          "handsHeld": 0
+        },
+        "containerId": "gapxG9pKEju5nvvW",
+        "size": "med",
+        "material": {
+          "type": null,
+          "grade": null
+        },
+        "identification": {
+          "status": "identified",
+          "unidentified": {
+            "name": "",
+            "img": "",
+            "data": {
+              "description": {
+                "value": ""
+              }
+            }
+          }
+        },
+        "usage": {
+          "value": "held-in-one-hand"
+        },
+        "subitems": []
+      },
+      "type": "equipment",
+      "_stats": {
+        "compendiumSource": "Compendium.pf2e.equipment-srd.Item.VnPh324pKwd2ZB66",
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "pf2e",
+        "systemVersion": "7.12.2",
+        "createdTime": 1776180629080,
+        "modifiedTime": 1776180629476,
+        "lastModifiedBy": "PSyRcSIZYjDSj8hT"
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "flags": {
+        "babele": {
+          "translated": true,
+          "hasTranslation": true,
+          "originalName": "Waterskin"
+        }
+      },
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "Qc0WOQ4hejHtZAcq",
+      "img": "icons/sundries/survival/soap.webp",
+      "name": "Jabón",
+      "system": {
+        "description": {
+          "gm": "",
+          "value": "<p> Pastilla de jabón. </p>"
+        },
+        "rules": [],
+        "slug": "soap",
+        "_migration": {
+          "version": 0.955,
+          "lastMigration": null,
+          "previous": null
+        },
+        "traits": {
+          "otherTags": [],
+          "value": [],
+          "rarity": "common"
+        },
+        "publication": {
+          "title": "Pathfinder Manual de juego",
+          "authors": "",
+          "license": "ORC",
+          "remaster": true
+        },
+        "level": {
+          "value": 0
+        },
+        "quantity": 1,
+        "baseItem": null,
+        "bulk": {
+          "value": 0
+        },
+        "hp": {
+          "value": 0,
+          "max": 0
+        },
+        "hardness": 0,
+        "price": {
+          "value": {
+            "cp": 2
+          }
+        },
+        "equipped": {
+          "carryType": "stowed",
+          "invested": null,
+          "handsHeld": 0
+        },
+        "containerId": "gapxG9pKEju5nvvW",
+        "size": "med",
+        "material": {
+          "type": null,
+          "grade": null
+        },
+        "identification": {
+          "status": "identified",
+          "unidentified": {
+            "name": "",
+            "img": "",
+            "data": {
+              "description": {
+                "value": ""
+              }
+            }
+          }
+        },
+        "usage": {
+          "value": "held-in-one-hand"
+        },
+        "subitems": []
+      },
+      "type": "equipment",
+      "_stats": {
+        "compendiumSource": "Compendium.pf2e.equipment-srd.Item.81aHsD27HFGnq1Nt",
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "pf2e",
+        "systemVersion": "7.12.2",
+        "createdTime": 1776180629080,
+        "modifiedTime": 1776180629476,
+        "lastModifiedBy": "PSyRcSIZYjDSj8hT"
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "flags": {
+        "babele": {
+          "translated": true,
+          "hasTranslation": true,
+          "originalName": "Soap"
+        }
+      },
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "FgBHgfFPh0ck35ao",
+      "img": "icons/commodities/treasure/brooch-jeweled-green.webp",
+      "name": "Símbolo religioso (Madera)",
+      "system": {
+        "description": {
+          "gm": "",
+          "value": "<p>Este trozo de madera está blasonado con una imagen que representa a un dios. Algunos lanzadores de conjuros divinos, como por ejemplo los clérigos, pueden emplear un símbolo religioso para usar ciertas aptitudes. Un símbolo religioso se puede llevar puesto en el cuerpo mediante una cadena o un broche, o puede sostenerse con la mano.</p>"
+        },
+        "rules": [
+          {
+            "key": "RollOption",
+            "option": "has-religious-symbol",
+            "requiresEquipped": false
+          }
+        ],
+        "slug": "religious-symbol-wooden",
+        "_migration": {
+          "version": 0.955,
+          "lastMigration": null,
+          "previous": null
+        },
+        "traits": {
+          "otherTags": [],
+          "value": [],
+          "rarity": "common"
+        },
+        "publication": {
+          "title": "Pathfinder Manual de juego",
+          "authors": "",
+          "license": "ORC",
+          "remaster": true
+        },
+        "level": {
+          "value": 0
+        },
+        "quantity": 1,
+        "baseItem": null,
+        "bulk": {
+          "value": 0.1
+        },
+        "hp": {
+          "value": 0,
+          "max": 0
+        },
+        "hardness": 0,
+        "price": {
+          "value": {
+            "sp": 1
+          }
+        },
+        "equipped": {
+          "carryType": "worn",
+          "invested": true,
+          "handsHeld": 0
+        },
+        "containerId": null,
+        "size": "med",
+        "material": {
+          "type": null,
+          "grade": null
+        },
+        "identification": {
+          "status": "identified",
+          "unidentified": {
+            "name": "",
+            "img": "",
+            "data": {
+              "description": {
+                "value": ""
+              }
+            }
+          }
+        },
+        "usage": {
+          "value": "other"
+        },
+        "subitems": []
+      },
+      "type": "equipment",
+      "_stats": {
+        "compendiumSource": "Compendium.pf2e.equipment-srd.Item.plplsXJsqrdqNQVI",
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "pf2e",
+        "systemVersion": "7.12.2",
+        "createdTime": 1776180629080,
+        "modifiedTime": 1776180629476,
+        "lastModifiedBy": "PSyRcSIZYjDSj8hT"
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "flags": {
+        "babele": {
+          "translated": true,
+          "hasTranslation": true,
+          "originalName": "Religious Symbol (Wooden)"
+        }
+      },
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "PYHKbSLeSLo76SU9",
+      "img": "icons/containers/bags/pouch-gold-green.webp",
+      "name": "Material de curas",
+      "system": {
+        "description": {
+          "gm": "",
+          "value": "<p>Este conjunto de vendajes, hierbas y suturas es necesario para las pruebas de Medicina a fin de administrar @UUID[Compendium.pf2e.actionspf2e.Item.MHLuKy4nQO2Z4Am1]{Primeros auxilios}, @UUID[Compendium.pf2e.actionspf2e.Item.TC7OcDa7JlWbqMaN]{Tratar enfermedades}, @UUID[Compendium.pf2e.actionspf2e.Item.KjoCEEmPGTeFE4hh]{Tratar veneno} o @UUID[Compendium.pf2e.actionspf2e.Item.1kGNdIIhuglAjIp9]{Tratar heridas}. Si llevas puesto tu material de curas, puedes meter y sacar cosas como parte de la acción que lo utiliza.</p>"
+        },
+        "rules": [],
+        "slug": "healers-toolkit",
+        "_migration": {
+          "version": 0.955,
+          "lastMigration": null,
+          "previous": null
+        },
+        "traits": {
+          "otherTags": [],
+          "value": [],
+          "rarity": "common"
+        },
+        "publication": {
+          "title": "Pathfinder Manual de juego",
+          "authors": "",
+          "license": "ORC",
+          "remaster": true
+        },
+        "level": {
+          "value": 0
+        },
+        "quantity": 1,
+        "baseItem": null,
+        "bulk": {
+          "value": 1
+        },
+        "hp": {
+          "value": 0,
+          "max": 0
+        },
+        "hardness": 0,
+        "price": {
+          "value": {
+            "gp": 5
+          }
+        },
+        "equipped": {
+          "carryType": "worn",
+          "invested": true,
+          "handsHeld": 0
+        },
+        "containerId": null,
+        "size": "med",
+        "material": {
+          "type": null,
+          "grade": null
+        },
+        "identification": {
+          "status": "identified",
+          "unidentified": {
+            "name": "",
+            "img": "",
+            "data": {
+              "description": {
+                "value": ""
+              }
+            }
+          }
+        },
+        "usage": {
+          "value": "other"
+        },
+        "subitems": []
+      },
+      "type": "equipment",
+      "_stats": {
+        "compendiumSource": "Compendium.pf2e.equipment-srd.Item.s1vB3HdXjMigYAnY",
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "pf2e",
+        "systemVersion": "7.12.2",
+        "createdTime": 1776180629080,
+        "modifiedTime": 1776180629476,
+        "lastModifiedBy": "PSyRcSIZYjDSj8hT"
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "flags": {
+        "babele": {
+          "translated": true,
+          "hasTranslation": true,
+          "originalName": "Healer's Toolkit"
+        }
+      },
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "6DxCSgsn9raEg8JE",
+      "img": "icons/weapons/bows/longbow-recurve-leather-brown.webp",
+      "name": "Longbow",
+      "system": {
+        "description": {
+          "gm": "",
+          "value": "<p>Este arco de 5 pies (1,5 m) de altura, hecho por lo general a partir de una sola pieza de madera de un nogal o tejo, tiene una fuerte tensión y es excelente para impulsar flechas con gran fuerza y a una distancia extrema. Tienes que usar las dos manos para dispararlo y no se puede utilizar montado.</p>"
+        },
+        "rules": [],
+        "slug": "longbow",
+        "_migration": {
+          "version": 0.955,
+          "lastMigration": null,
+          "previous": null
+        },
+        "traits": {
+          "otherTags": [],
+          "value": [
+            "deadly-d10",
+            "volley-30"
+          ],
+          "rarity": "common"
+        },
+        "publication": {
+          "title": "Pathfinder Manual de juego",
+          "authors": "",
+          "license": "ORC",
+          "remaster": true
+        },
+        "level": {
+          "value": 0
+        },
+        "quantity": 1,
+        "baseItem": "longbow",
+        "bulk": {
+          "value": 2
+        },
+        "hp": {
+          "value": 0,
+          "max": 0
+        },
+        "hardness": 0,
+        "price": {
+          "value": {
+            "gp": 6
+          }
+        },
+        "equipped": {
+          "carryType": "worn",
+          "invested": null,
+          "handsHeld": 0
+        },
+        "containerId": null,
+        "size": "med",
+        "material": {
+          "type": null,
+          "grade": null
+        },
+        "identification": {
+          "status": "identified",
+          "unidentified": {
+            "name": "",
+            "img": "",
+            "data": {
+              "description": {
+                "value": ""
+              }
+            }
+          }
+        },
+        "usage": {
+          "value": "held-in-one-plus-hands"
+        },
+        "category": "martial",
+        "group": "bow",
+        "bonus": {
+          "value": 0
+        },
+        "damage": {
+          "dice": 1,
+          "die": "d8",
+          "damageType": "piercing",
+          "persistent": null
+        },
+        "splashDamage": {
+          "value": 0
+        },
+        "range": 100,
+        "expend": 1,
+        "ammo": {
+          "baseType": "arrows",
+          "builtIn": false,
+          "capacity": null
+        },
+        "reload": {
+          "value": "0"
+        },
+        "grade": null,
+        "runes": {
+          "potency": 0,
+          "striking": 0,
+          "property": []
+        },
+        "specific": null,
+        "subitems": [],
+        "bonusDamage": {
+          "value": 0
+        },
+        "selectedAmmoId": "DU3oaNHJVh2c1DOa"
+      },
+      "type": "weapon",
+      "_stats": {
+        "compendiumSource": "Compendium.pf2e.equipment-srd.Item.MVAWttmT0QDa7LsV",
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "pf2e",
+        "systemVersion": "7.12.2",
+        "createdTime": 1776180629574,
+        "modifiedTime": 1776452375253,
+        "lastModifiedBy": "PSyRcSIZYjDSj8hT"
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "flags": {
+        "babele": {
+          "translated": true,
+          "hasTranslation": true,
+          "originalName": "Longbow"
+        }
+      },
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "0w5iEFyO8hXCiDOh",
+      "img": "icons/weapons/daggers/dagger-straight-blue.webp",
+      "name": "Dagger",
+      "system": {
+        "description": {
+          "gm": "",
+          "value": "<p>Esta pequeña arma blanca se empuña a una mano y se utiliza para apuñalar a una criatura en combate cerrado. También se puede usar como arma arrojadiza.</p>"
+        },
+        "rules": [],
+        "slug": "dagger",
+        "_migration": {
+          "version": 0.955,
+          "lastMigration": null,
+          "previous": null
+        },
+        "traits": {
+          "otherTags": [],
+          "value": [
+            "agile",
+            "finesse",
+            "thrown-10",
+            "versatile-s"
+          ],
+          "rarity": "common"
+        },
+        "publication": {
+          "title": "Pathfinder Manual de juego",
+          "authors": "",
+          "license": "ORC",
+          "remaster": true
+        },
+        "level": {
+          "value": 0
+        },
+        "quantity": 1,
+        "baseItem": "dagger",
+        "bulk": {
+          "value": 0.1
+        },
+        "hp": {
+          "value": 0,
+          "max": 0
+        },
+        "hardness": 0,
+        "price": {
+          "value": {
+            "sp": 2
+          }
+        },
+        "equipped": {
+          "carryType": "worn",
+          "invested": null,
+          "handsHeld": 0
+        },
+        "containerId": null,
+        "size": "med",
+        "material": {
+          "type": null,
+          "grade": null
+        },
+        "identification": {
+          "status": "identified",
+          "unidentified": {
+            "name": "",
+            "img": "",
+            "data": {
+              "description": {
+                "value": ""
+              }
+            }
+          }
+        },
+        "usage": {
+          "value": "held-in-one-hand",
+          "canBeAmmo": false
+        },
+        "category": "simple",
+        "group": "knife",
+        "bonus": {
+          "value": 0
+        },
+        "damage": {
+          "dice": 1,
+          "die": "d4",
+          "damageType": "piercing",
+          "persistent": null
+        },
+        "splashDamage": {
+          "value": 0
+        },
+        "range": null,
+        "expend": null,
+        "ammo": null,
+        "reload": {
+          "value": "-"
+        },
+        "grade": null,
+        "runes": {
+          "potency": 0,
+          "striking": 0,
+          "property": []
+        },
+        "specific": null,
+        "subitems": [],
+        "bonusDamage": {
+          "value": 0
+        }
+      },
+      "type": "weapon",
+      "_stats": {
+        "compendiumSource": "Compendium.pf2e.equipment-srd.Item.rQWaJhI5Bko5x14Z",
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "pf2e",
+        "systemVersion": "7.12.2",
+        "createdTime": 1776180629574,
+        "modifiedTime": 1776180629574,
+        "lastModifiedBy": "PSyRcSIZYjDSj8hT"
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "flags": {
+        "babele": {
+          "translated": true,
+          "hasTranslation": true,
+          "originalName": "Dagger"
+        }
+      },
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "NtE4Mo38pzfcSoV4",
+      "img": "systems/pf2e/icons/equipment/armor/chainmail.webp",
+      "name": "Chain Mail",
+      "system": {
+        "description": {
+          "gm": "",
+          "value": "<p>Una cota de malla consiste en varias piezas de armadura compuestas de pequeños anillos metálicos entrelazados formando una malla protectora. Suele incluir un camisote de malla, grebas, brazales y una escarcela, protegiendo colectivamente la mayor parte del cuerpo.</p>"
+        },
+        "rules": [],
+        "slug": "chain-mail",
+        "_migration": {
+          "version": 0.955,
+          "lastMigration": null,
+          "previous": null
+        },
+        "traits": {
+          "otherTags": [],
+          "value": [
+            "flexible",
+            "noisy"
+          ],
+          "rarity": "common"
+        },
+        "publication": {
+          "title": "Pathfinder Manual de juego",
+          "authors": "",
+          "license": "ORC",
+          "remaster": true
+        },
+        "level": {
+          "value": 0
+        },
+        "quantity": 1,
+        "baseItem": "chain-mail",
+        "bulk": {
+          "value": 2
+        },
+        "hp": {
+          "value": 0,
+          "max": 0
+        },
+        "hardness": 0,
+        "price": {
+          "value": {
+            "gp": 6
+          }
+        },
+        "equipped": {
+          "carryType": "worn",
+          "invested": null,
+          "value": true,
+          "inSlot": true,
+          "handsHeld": 0
+        },
+        "containerId": null,
+        "size": "med",
+        "material": {
+          "type": null,
+          "grade": null
+        },
+        "identification": {
+          "status": "identified",
+          "unidentified": {
+            "name": "",
+            "img": "",
+            "data": {
+              "description": {
+                "value": ""
+              }
+            }
+          }
+        },
+        "category": "medium",
+        "group": "chain",
+        "acBonus": 4,
+        "strength": 3,
+        "dexCap": 1,
+        "checkPenalty": -2,
+        "speedPenalty": -5,
+        "grade": null,
+        "runes": {
+          "potency": 0,
+          "resilient": 0,
+          "property": []
+        },
+        "subitems": []
+      },
+      "type": "armor",
+      "_stats": {
+        "compendiumSource": "Compendium.pf2e.equipment-srd.Item.Kf4eJEXnFPuAsseP",
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "pf2e",
+        "systemVersion": "7.12.2",
+        "createdTime": 1776180629696,
+        "modifiedTime": 1776180629837,
+        "lastModifiedBy": "PSyRcSIZYjDSj8hT"
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "flags": {
+        "babele": {
+          "translated": true,
+          "hasTranslation": true,
+          "originalName": "Chain Mail"
+        }
+      },
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "CVEfzwMeiSFOj9UG",
+      "img": "systems/pf2e/icons/equipment/treasure/currency/platinum-pieces.webp",
+      "name": "Piezas de platino",
+      "system": {
+        "baseItem": null,
+        "bulk": {
+          "value": 1
+        },
+        "category": "coin",
+        "containerId": null,
+        "description": {
+          "value": "",
+          "gm": ""
+        },
+        "hardness": 0,
+        "hp": {
+          "max": 0,
+          "value": 0
+        },
+        "level": {
+          "value": 0
+        },
+        "material": {
+          "grade": null,
+          "type": null
+        },
+        "price": {
+          "value": {
+            "pp": 1
+          },
+          "per": 1
+        },
+        "publication": {
+          "license": "ORC",
+          "remaster": true,
+          "title": "Pathfinder Manual de juego",
+          "authors": ""
+        },
+        "quantity": 0,
+        "rules": [],
+        "size": "med",
+        "traits": {
+          "rarity": "common",
+          "value": [],
+          "otherTags": []
+        },
+        "slug": "platinum-pieces",
+        "_migration": {
+          "version": 0.955,
+          "previous": null
+        },
+        "equipped": {
+          "carryType": "worn"
+        },
+        "identification": {
+          "status": "identified",
+          "unidentified": null
+        },
+        "temporary": false
+      },
+      "type": "treasure",
+      "_stats": {
+        "compendiumSource": "Compendium.pf2e.equipment-srd.Item.JuNPeK5Qm1w6wpb4",
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "pf2e",
+        "systemVersion": "7.12.2",
+        "createdTime": 1776180629990,
+        "modifiedTime": 1776180629990,
+        "lastModifiedBy": "PSyRcSIZYjDSj8hT"
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "flags": {
+        "babele": {
+          "translated": true,
+          "hasTranslation": true,
+          "originalName": "Platinum Pieces"
+        }
+      },
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "LVfNVHpLnOw4Kc2r",
+      "img": "systems/pf2e/icons/equipment/treasure/currency/gold-pieces.webp",
+      "name": "Piezas de oro",
+      "system": {
+        "baseItem": null,
+        "bulk": {
+          "value": 1
+        },
+        "category": "coin",
+        "containerId": null,
+        "description": {
+          "value": "",
+          "gm": ""
+        },
+        "hardness": 0,
+        "hp": {
+          "max": 0,
+          "value": 0
+        },
+        "level": {
+          "value": 0
+        },
+        "material": {
+          "grade": null,
+          "type": null
+        },
+        "price": {
+          "value": {
+            "gp": 1
+          },
+          "per": 1
+        },
+        "publication": {
+          "license": "ORC",
+          "remaster": true,
+          "title": "Pathfinder Manual de juego",
+          "authors": ""
+        },
+        "quantity": 13,
+        "rules": [],
+        "size": "med",
+        "traits": {
+          "rarity": "common",
+          "value": [],
+          "otherTags": []
+        },
+        "slug": "gold-pieces",
+        "_migration": {
+          "version": 0.955,
+          "previous": null
+        },
+        "equipped": {
+          "carryType": "worn"
+        },
+        "identification": {
+          "status": "identified",
+          "unidentified": null
+        },
+        "temporary": false
+      },
+      "type": "treasure",
+      "_stats": {
+        "compendiumSource": "Compendium.pf2e.equipment-srd.Item.B6B7tBWJSqOBz5zz",
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "pf2e",
+        "systemVersion": "7.12.2",
+        "createdTime": 1776180629990,
+        "modifiedTime": 1776180629990,
+        "lastModifiedBy": "PSyRcSIZYjDSj8hT"
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "flags": {
+        "babele": {
+          "translated": true,
+          "hasTranslation": true,
+          "originalName": "Gold Pieces"
+        }
+      },
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "jEcg54jcYuu0aiE8",
+      "img": "systems/pf2e/icons/equipment/treasure/currency/silver-pieces.webp",
+      "name": "Piezas de plata",
+      "system": {
+        "baseItem": null,
+        "bulk": {
+          "value": 1
+        },
+        "category": "coin",
+        "containerId": null,
+        "description": {
+          "value": "",
+          "gm": ""
+        },
+        "hardness": 0,
+        "hp": {
+          "max": 0,
+          "value": 0
+        },
+        "level": {
+          "value": 0
+        },
+        "material": {
+          "grade": null,
+          "type": null
+        },
+        "price": {
+          "value": {
+            "sp": 1
+          },
+          "per": 1
+        },
+        "publication": {
+          "license": "ORC",
+          "remaster": true,
+          "title": "Pathfinder Manual de juego",
+          "authors": ""
+        },
+        "quantity": 2,
+        "rules": [],
+        "size": "med",
+        "traits": {
+          "rarity": "common",
+          "value": [],
+          "otherTags": []
+        },
+        "slug": "silver-pieces",
+        "_migration": {
+          "version": 0.955,
+          "previous": null
+        },
+        "equipped": {
+          "carryType": "worn"
+        },
+        "identification": {
+          "status": "identified",
+          "unidentified": null
+        },
+        "temporary": false
+      },
+      "type": "treasure",
+      "_stats": {
+        "compendiumSource": "Compendium.pf2e.equipment-srd.Item.5Ew82vBF9YfaiY9f",
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "pf2e",
+        "systemVersion": "7.12.2",
+        "createdTime": 1776180629990,
+        "modifiedTime": 1776181227252,
+        "lastModifiedBy": "PSyRcSIZYjDSj8hT"
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "flags": {
+        "babele": {
+          "translated": true,
+          "hasTranslation": true,
+          "originalName": "Silver Pieces"
+        }
+      },
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "hLWgTBj686JgYKnZ",
+      "img": "systems/pf2e/icons/equipment/treasure/currency/copper-pieces.webp",
+      "name": "Piezas de cobre",
+      "system": {
+        "baseItem": null,
+        "bulk": {
+          "value": 1
+        },
+        "category": "coin",
+        "containerId": null,
+        "description": {
+          "value": "",
+          "gm": ""
+        },
+        "hardness": 0,
+        "hp": {
+          "max": 0,
+          "value": 0
+        },
+        "level": {
+          "value": 0
+        },
+        "material": {
+          "grade": null,
+          "type": null
+        },
+        "price": {
+          "value": {
+            "cp": 1
+          },
+          "per": 1
+        },
+        "publication": {
+          "license": "ORC",
+          "remaster": true,
+          "title": "Pathfinder Manual de juego",
+          "authors": ""
+        },
+        "quantity": 0,
+        "rules": [],
+        "size": "med",
+        "traits": {
+          "rarity": "common",
+          "value": [],
+          "otherTags": []
+        },
+        "slug": "copper-pieces",
+        "_migration": {
+          "version": 0.955,
+          "previous": null
+        },
+        "equipped": {
+          "carryType": "worn"
+        },
+        "identification": {
+          "status": "identified",
+          "unidentified": null
+        },
+        "temporary": false
+      },
+      "type": "treasure",
+      "_stats": {
+        "compendiumSource": "Compendium.pf2e.equipment-srd.Item.lzJ8AVhRcbFul5fh",
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "pf2e",
+        "systemVersion": "7.12.2",
+        "createdTime": 1776180629990,
+        "modifiedTime": 1776180629990,
+        "lastModifiedBy": "PSyRcSIZYjDSj8hT"
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "flags": {
+        "babele": {
+          "translated": true,
+          "hasTranslation": true,
+          "originalName": "Copper Pieces"
+        }
+      },
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "img": "icons/weapons/ammunition/arrows-broadhead-white.webp",
+      "name": "Flechas",
+      "system": {
+        "description": {
+          "gm": "",
+          "value": "<p> Estos proyectiles son la munición para los arcos. El asta de una flecha está hecha de madera. Se estabiliza en vuelo mediante plumas en un extremo y lleva una cabeza de metal en el otro. </p>"
+        },
+        "rules": [],
+        "slug": "arrows",
+        "_migration": {
+          "version": 0.955,
+          "lastMigration": null,
+          "previous": null
+        },
+        "traits": {
+          "otherTags": [],
+          "value": [
+            "consumable"
+          ],
+          "rarity": "common"
+        },
+        "publication": {
+          "title": "Pathfinder Manual de juego",
+          "authors": "",
+          "license": "ORC",
+          "remaster": true
+        },
+        "level": {
+          "value": 0
+        },
+        "quantity": 10,
+        "baseItem": "arrows",
+        "bulk": {
+          "value": 0.1
+        },
+        "hp": {
+          "value": 0,
+          "max": 0
+        },
+        "hardness": 0,
+        "price": {
+          "value": {
+            "sp": 1
+          },
+          "per": 10
+        },
+        "equipped": {
+          "carryType": "worn"
+        },
+        "containerId": null,
+        "size": "med",
+        "material": {
+          "type": null,
+          "grade": null
+        },
+        "identification": {
+          "status": "identified",
+          "unidentified": {
+            "name": "",
+            "img": "",
+            "data": {
+              "description": {
+                "value": ""
+              }
+            }
+          }
+        },
+        "craftableAs": null,
+        "uses": {
+          "value": 1,
+          "max": 1,
+          "autoDestroy": true
+        }
+      },
+      "type": "ammo",
+      "_stats": {
+        "compendiumSource": "Compendium.pf2e.equipment-srd.Item.w2ENw2VMPcsbif8g",
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "pf2e",
+        "systemVersion": "7.12.2",
+        "createdTime": 1776181218735,
+        "modifiedTime": 1776452382598,
+        "lastModifiedBy": "PSyRcSIZYjDSj8hT"
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "flags": {
+        "babele": {
+          "translated": true,
+          "hasTranslation": true,
+          "originalName": "Arrows"
+        }
+      },
+      "_id": "DU3oaNHJVh2c1DOa",
+      "ownership": {
+        "default": 0
+      }
+    }
+  ],
+  "folder": "pi9Yykm7fCtSdOCi",
+  "flags": {
+    "pathmuncher": {
+      "pathbuilderId": 436460,
+      "addMoney": true,
+      "addFeats": true,
+      "addSpells": true,
+      "adjustBlendedSlots": true,
+      "addEquipment": true,
+      "addTreasure": true,
+      "addLores": true,
+      "addWeapons": true,
+      "addArmor": true,
+      "addDeity": true,
+      "addName": true,
+      "addClass": true,
+      "addBackground": true,
+      "addHeritage": true,
+      "addAncestry": true,
+      "addFamiliars": true,
+      "addFormulas": true
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": {
+      "worldId": "pathfinder-prueba",
+      "uuid": "Actor.eAgfSfCtYT7dR7Fc",
+      "coreVersion": "13.351",
+      "systemId": "pf2e",
+      "systemVersion": "7.12.2"
+    },
+    "coreVersion": "13.351",
+    "systemId": "pf2e",
+    "systemVersion": "7.12.2",
+    "createdTime": 1776180535960,
+    "modifiedTime": 1776622761683,
+    "lastModifiedBy": "3wvx8R3mQDV7yqlC"
+  },
+  "ownership": {
+    "default": 1
+  }
+}

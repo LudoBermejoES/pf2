@@ -1,0 +1,3209 @@
+{
+  "prototypeToken": {
+    "actorLink": true,
+    "flags": {
+      "pf2e": {
+        "linkToActorSize": true,
+        "autoscale": true
+      }
+    },
+    "height": 1,
+    "width": 1,
+    "sight": {
+      "enabled": true,
+      "range": 0,
+      "angle": 360,
+      "visionMode": "basic",
+      "color": null,
+      "attenuation": 0.1,
+      "brightness": 0,
+      "saturation": 0,
+      "contrast": 0
+    },
+    "name": "SIM SIM",
+    "displayName": 20,
+    "texture": {
+      "src": "tokenizer/pc-images/sim_sim.Token.webp?1776450998639",
+      "anchorX": 0.5,
+      "anchorY": 0.5,
+      "offsetX": 0,
+      "offsetY": 0,
+      "fit": "contain",
+      "scaleX": 1,
+      "scaleY": 1,
+      "rotation": 0,
+      "tint": "#ffffff",
+      "alphaThreshold": 0.75
+    },
+    "lockRotation": true,
+    "rotation": 0,
+    "alpha": 1,
+    "disposition": -1,
+    "displayBars": 20,
+    "bar1": {
+      "attribute": "attributes.hp"
+    },
+    "bar2": {
+      "attribute": null
+    },
+    "light": {
+      "negative": false,
+      "priority": 0,
+      "alpha": 0.5,
+      "angle": 360,
+      "bright": 0,
+      "color": null,
+      "coloration": 1,
+      "dim": 0,
+      "attenuation": 0.5,
+      "luminosity": 0.5,
+      "saturation": 0,
+      "contrast": 0,
+      "shadows": 0,
+      "animation": {
+        "type": null,
+        "speed": 5,
+        "intensity": 5,
+        "reverse": false
+      },
+      "darkness": {
+        "min": 0,
+        "max": 1
+      }
+    },
+    "detectionModes": [],
+    "occludable": {
+      "radius": 0
+    },
+    "ring": {
+      "enabled": false,
+      "colors": {
+        "ring": null,
+        "background": null
+      },
+      "effects": 1,
+      "subject": {
+        "scale": 1,
+        "texture": null
+      }
+    },
+    "turnMarker": {
+      "mode": 1,
+      "animation": null,
+      "src": null,
+      "disposition": false
+    },
+    "movementAction": null,
+    "randomImg": false,
+    "appendNumber": false,
+    "prependAdjective": false
+  },
+  "name": "SIM SIM",
+  "type": "character",
+  "effects": [],
+  "system": {
+    "attributes": {
+      "hp": {
+        "value": 20,
+        "temp": 0
+      }
+    },
+    "initiative": {
+      "statistic": "perception"
+    },
+    "details": {
+      "languages": {
+        "value": [
+          "none selected"
+        ],
+        "details": ""
+      },
+      "level": {
+        "value": 1
+      },
+      "biography": {
+        "appearance": "<p>Monje fibroso y musculoso, cara con rasgos asiaticos pronunciados y piel cetrina. </p>",
+        "backstory": "<p>Entrenado en el Monasterio de las Rosas Imperecederas. Jalmeray, Mar interior. Jalmerai es el centro del culto a Irori de Golarion. Es famoso por su disciplina extrema y búsqueda de la perfección física y mental. Entrenamiento artes marciales, meditación y control del cuerpo. Fisolofía de autosuperación constante. Irori mismo alcanzó la divinidad mediante la perfección personal, así que sus monasterios (especialmente en Jalmeray) no solo entrenan luchadores, sino aspirantes a la iluminación absoluta.</p><p>Tras mucho esfuerzo y dedicación, no ha conseguido acercarse a la iluminación. Podría haberse quedado a enseñar en el monasterio, como otros, buscando la iluminación a la vez, pero consideró que no era justo y emprendio un camion de ermitaño errante por las tierras salvajes. Intenta por todos los medios contenerse, pero solo encuentra cierta paz en el fondo de una calabaza de vino de arroz. Curiosamente es en esos momentos cuando más cerca está de la iluminación, aunque él no lo sabe.</p><p>Nunca ataca primero, sobrio. intenta siempre resolver sin violencia. Solo bebe antes del combate o cuando está emocionalmente roto. despues de beber hace penitencia. Silencio, culpa, arrepentimiento.  </p><p>Siempre lleva una calabaza. Huele ligeramente a sake, </p>",
+        "birthPlace": "Jalmeray",
+        "attitude": "Frustración y adición al alcohol. ",
+        "beliefs": "Busqueda de la iluminación, que ha fracasado. ",
+        "anathema": [],
+        "edicts": [],
+        "likes": "Paz, momentos de claridad, disciplina y perfección, combate fluido. ",
+        "dislikes": "Caos, su propia debilidad. Fanaticos de la pureza, falta de control",
+        "catchphrases": "Busco la paz… pero solo encuentro el silencio en el fondo de una botella.",
+        "campaignNotes": "",
+        "allies": "",
+        "enemies": "",
+        "organizations": "",
+        "visibility": {
+          "appearance": true,
+          "backstory": false,
+          "personality": false,
+          "campaign": false
+        }
+      },
+      "keyability": {
+        "value": "dex"
+      },
+      "xp": {
+        "value": 0,
+        "min": 0,
+        "max": 1000
+      },
+      "age": {
+        "value": "25"
+      },
+      "height": {
+        "value": "175 cm"
+      },
+      "weight": {
+        "value": "75 kg"
+      },
+      "gender": {
+        "value": "Masculino"
+      },
+      "ethnicity": {
+        "value": "Vudrani"
+      },
+      "nationality": {
+        "value": "Pueblo humano del sur de Garund"
+      },
+      "alliance": "party"
+    },
+    "resources": {
+      "heroPoints": {
+        "value": 1,
+        "max": 3
+      },
+      "focus": {
+        "max": 0,
+        "value": 0
+      }
+    },
+    "_migration": {
+      "version": 0.955,
+      "previous": null
+    },
+    "abilities": {
+      "str": {
+        "mod": 2
+      },
+      "dex": {
+        "mod": 4
+      },
+      "con": {
+        "mod": 2
+      },
+      "int": {
+        "mod": 0
+      },
+      "wis": {
+        "mod": 3
+      },
+      "cha": {
+        "mod": -1
+      }
+    },
+    "skills": {
+      "acrobatics": {
+        "rank": 1
+      },
+      "arcana": {
+        "rank": 0
+      },
+      "athletics": {
+        "rank": 1
+      },
+      "crafting": {
+        "rank": 0
+      },
+      "deception": {
+        "rank": 1
+      },
+      "diplomacy": {
+        "rank": 0
+      },
+      "intimidation": {
+        "rank": 0
+      },
+      "medicine": {
+        "rank": 0
+      },
+      "nature": {
+        "rank": 0
+      },
+      "occultism": {
+        "rank": 1
+      },
+      "performance": {
+        "rank": 0
+      },
+      "religion": {
+        "rank": 1
+      },
+      "society": {
+        "rank": 0
+      },
+      "stealth": {
+        "rank": 0
+      },
+      "survival": {
+        "rank": 0
+      },
+      "thievery": {
+        "rank": 0
+      }
+    },
+    "pfs": {
+      "playerNumber": null,
+      "characterNumber": null,
+      "levelBump": false,
+      "currentFaction": "EA",
+      "school": null,
+      "reputation": {
+        "EA": null,
+        "GA": null,
+        "HH": null,
+        "VS": null,
+        "RO": null,
+        "VW": null
+      }
+    },
+    "exploration": [],
+    "traits": {
+      "size": {
+        "value": "med"
+      },
+      "senses": []
+    },
+    "savingThrows": {
+      "fortitude": 2,
+      "reflex": 2,
+      "will": 2
+    },
+    "martial": {
+      "advanced": {
+        "rank": 0
+      },
+      "heavy": {
+        "rank": 0
+      },
+      "light": {
+        "rank": 0
+      },
+      "medium": {
+        "rank": 0
+      },
+      "unarmored": {
+        "rank": 2
+      },
+      "martial": {
+        "rank": 0
+      },
+      "simple": {
+        "rank": 1
+      },
+      "unarmed": {
+        "rank": 1
+      }
+    },
+    "crafting": {
+      "formulas": []
+    }
+  },
+  "img": "tokenizer/pc-images/sim_sim.Avatar.MTpogR1q7d3LoQzZ.webp?1776450998639",
+  "items": [
+    {
+      "_id": "wkmGokf7j9a90a1i",
+      "img": "systems/pf2e/icons/ancestries/human.webp",
+      "name": "Humano",
+      "system": {
+        "description": {
+          "gm": "",
+          "value": "<p><em>Tan impredecibles y variados como cualquiera de los pueblos de Golarion, los humanos tienen un empuje excepcional y la capacidad de aguantar y expandirse. Aunque muchas civilizaciones prosperaron antes de que la humanidad se alzara a la prominencia, los humanos han construido algunas de las sociedades más grandes y más terribles de la historia y, hoy en día, constituyen el pueblo más populoso de los reinos que rodean el mar Interior.</em></p><em>\n<p>La ambición, la versatilidad y el potencial excepcional de los humanos les han llevado a su estatus actual como la ascendencia predominante del mundo. Sus imperios y naciones son vastos y están en continua expansión, y sus habitantes se labran un nombre con la fuerza de la espada y el poder del conjuro. La humanidad es diversa y tumultuosa, y va desde lo nómada hasta lo imperial, desde lo siniestro hasta lo sagrado. Muchos se aventuran para explorar, para cartografiar toda la extensión del multiverso, para buscar tesoros largo tiempo perdidos o para dirigir poderosos ejércitos con los que conquistar a sus vecinos, sin más razón que su simple voluntad.</p>\n<p>Si quieres un personaje que puede ser prácticamente cualquier cosa, deberías interpretar a un humano.</p></em>\n<p><em>@UUID[Compendium.pf2e.journals.JournalEntry.45SK8rdbbxvEHfMn.JournalEntryPage.7pU8yM7yPMw92SY3]{Humano}</em></p>"
+        },
+        "rules": [],
+        "slug": "human",
+        "_migration": {
+          "version": 0.955,
+          "lastMigration": null,
+          "previous": null
+        },
+        "traits": {
+          "otherTags": [],
+          "value": [
+            "human",
+            "humanoid"
+          ],
+          "rarity": "common"
+        },
+        "publication": {
+          "title": "Pathfinder Player Core",
+          "authors": "",
+          "license": "ORC",
+          "remaster": true
+        },
+        "hp": 8,
+        "size": "med",
+        "hands": 2,
+        "reach": 5,
+        "speed": 25,
+        "boosts": {
+          "0": {
+            "value": [
+              "cha",
+              "con",
+              "dex",
+              "int",
+              "str",
+              "wis"
+            ]
+          },
+          "1": {
+            "value": [
+              "str",
+              "dex",
+              "con",
+              "int",
+              "wis",
+              "cha"
+            ]
+          },
+          "2": {
+            "value": []
+          }
+        },
+        "flaws": {
+          "0": {
+            "value": []
+          }
+        },
+        "languages": {
+          "value": [
+            "common"
+          ],
+          "custom": ""
+        },
+        "additionalLanguages": {
+          "count": 1,
+          "value": [],
+          "custom": ""
+        },
+        "items": {},
+        "vision": "normal"
+      },
+      "type": "ancestry",
+      "_stats": {
+        "compendiumSource": "Compendium.pf2e.ancestries.Item.IiG7DgeLWYrSNXuX",
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "pf2e",
+        "systemVersion": "7.12.2",
+        "createdTime": 1776184456623,
+        "modifiedTime": 1776184456623,
+        "lastModifiedBy": "PSyRcSIZYjDSj8hT"
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "flags": {
+        "babele": {
+          "translated": true,
+          "hasTranslation": true,
+          "originalName": "Human"
+        }
+      },
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "BBILjjrLcsip75ow",
+      "folder": "O7DVLyyF05fGfpdo",
+      "img": "icons/environment/people/group.webp",
+      "name": "Humano versátil",
+      "system": {
+        "ancestry": {
+          "name": "Human",
+          "slug": "human",
+          "uuid": "Compendium.pf2e.ancestries.Item.IiG7DgeLWYrSNXuX"
+        },
+        "description": {
+          "value": "<p>La versatilidad y la ambición de la humanidad han impulsado su ascenso hasta ser la ascendencia más común en la mayoría de las naciones del mundo. Selecciona una dote general a tu elección para la que cumples los prerrequisitos (igual que tu dote de ascendencia, puedes seleccionar esta dote general en cualquier momento durante la creación de personaje).</p>",
+          "gm": ""
+        },
+        "publication": {
+          "license": "ORC",
+          "remaster": true,
+          "title": "Pathfinder Manual de juego",
+          "authors": ""
+        },
+        "rules": [
+          {
+            "adjustName": false,
+            "choices": {
+              "filter": [
+                "item:level:1",
+                "item:trait:general"
+              ],
+              "itemType": "feat"
+            },
+            "flag": "versatileHeritage",
+            "key": "ChoiceSet",
+            "prompt": "PF2E.SpecificRule.GeneralTraining.Prompt",
+            "selection": "Compendium.pf2e.feats-srd.Item.1Bt7uCW2WI4sM84P"
+          },
+          {
+            "key": "GrantItem",
+            "uuid": "{item|flags.system.rulesSelections.versatileHeritage}",
+            "flag": "dubiousKnowledge"
+          }
+        ],
+        "traits": {
+          "rarity": "common",
+          "value": [],
+          "otherTags": []
+        },
+        "slug": "versatile-human",
+        "_migration": {
+          "version": 0.955,
+          "previous": null
+        }
+      },
+      "type": "heritage",
+      "_stats": {
+        "compendiumSource": "Compendium.pf2e.heritages.Item.hFBwsVcSnNCJoimo",
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "pf2e",
+        "systemVersion": "7.12.2",
+        "createdTime": 1776184456712,
+        "modifiedTime": 1776184456775,
+        "lastModifiedBy": "PSyRcSIZYjDSj8hT"
+      },
+      "effects": [],
+      "sort": 0,
+      "flags": {
+        "babele": {
+          "translated": true,
+          "hasTranslation": true,
+          "originalName": "Versatile Human"
+        },
+        "pf2e": {
+          "rulesSelections": {
+            "versatileHeritage": "Compendium.pf2e.feats-srd.Item.1Bt7uCW2WI4sM84P"
+          },
+          "itemGrants": {
+            "dubiousKnowledge": {
+              "id": "5UYIygZYsTAUdyLn",
+              "onDelete": "detach"
+            }
+          }
+        }
+      },
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "lSwZtg3QPCJOdZ7a",
+      "img": "systems/pf2e/icons/default-icons/background.svg",
+      "name": "Ermitaño (Ocultismo)",
+      "system": {
+        "description": {
+          "gm": "",
+          "value": "<p>En un lugar aislado, como por ejemplo una cueva, un oasis remoto o una mansión solitaria, llevaste una vida de soledad. Las aventuras podrían representar un alivio temporal a la soledad o un cambio no deseado, pero en cualquier caso, lo más probable es que seas muy poco sofisticado.</p>\n<p>Elige dos mejoras de atributo. Una debe ser a <strong> Constitución </strong> o a<strong> Inteligencia </strong> y la otra es una mejora de atributo gratuita. </p>\n<p> Estás entrenado en las habilidades Naturaleza u Ocultismo, más una habilidad de Saber relacionada con el terreno en el que vivías como ermitaño, por ejemplo Saber (cavernas) o Saber (desierto). Obtienes la dote de habilidad @UUID[Compendium.pf2e.feats-srd.Item.1Bt7uCW2WI4sM84P]{Conocimiento dudoso}.</p>"
+        },
+        "rules": [
+          {
+            "adjustName": false,
+            "choices": [
+              {
+                "label": "PF2E.Skill.Nature",
+                "value": "nature"
+              },
+              {
+                "label": "PF2E.Skill.Occultism",
+                "value": "occultism"
+              }
+            ],
+            "flag": "skill",
+            "key": "ChoiceSet",
+            "prompt": "PF2E.SpecificRule.Prompt.Skill",
+            "selection": "occultism"
+          },
+          {
+            "key": "ActiveEffectLike",
+            "mode": "upgrade",
+            "path": "system.skills.{item|flags.system.rulesSelections.skill}.rank",
+            "value": 1
+          }
+        ],
+        "slug": "hermit",
+        "_migration": {
+          "version": 0.955,
+          "lastMigration": null,
+          "previous": null
+        },
+        "traits": {
+          "otherTags": [],
+          "value": [],
+          "rarity": "common"
+        },
+        "publication": {
+          "title": "Pathfinder Manual de juego",
+          "authors": "",
+          "license": "ORC",
+          "remaster": true
+        },
+        "boosts": {
+          "0": {
+            "value": [
+              "con",
+              "int"
+            ]
+          },
+          "1": {
+            "value": [
+              "cha",
+              "con",
+              "dex",
+              "int",
+              "str",
+              "wis"
+            ]
+          }
+        },
+        "items": {
+          "z8dne": {
+            "img": "icons/sundries/books/book-red-exclamation.webp",
+            "level": 1,
+            "name": "Dubious Knowledge",
+            "uuid": "Compendium.pf2e.feats-srd.Item.1Bt7uCW2WI4sM84P"
+          }
+        },
+        "trainedSkills": {
+          "value": [],
+          "lore": [],
+          "custom": ""
+        }
+      },
+      "type": "background",
+      "_stats": {
+        "compendiumSource": "Compendium.pf2e.backgrounds.Item.b3UC18ueX8m9Ov0W",
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "pf2e",
+        "systemVersion": "7.12.2",
+        "createdTime": 1776184456840,
+        "modifiedTime": 1776184458920,
+        "lastModifiedBy": "PSyRcSIZYjDSj8hT"
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "flags": {
+        "babele": {
+          "translated": true,
+          "hasTranslation": true,
+          "originalName": "Hermit"
+        }
+      },
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "02d4t1tIDoSg78rP",
+      "img": "systems/pf2e/icons/classes/monk.webp",
+      "name": "Monje",
+      "system": {
+        "ancestryFeatLevels": {
+          "value": [
+            1,
+            5,
+            9,
+            13,
+            17
+          ]
+        },
+        "attacks": {
+          "advanced": 0,
+          "martial": 0,
+          "other": {
+            "name": "",
+            "rank": 0
+          },
+          "simple": 1,
+          "unarmed": 1
+        },
+        "classFeatLevels": {
+          "value": [
+            1,
+            2,
+            4,
+            6,
+            8,
+            10,
+            12,
+            14,
+            16,
+            18,
+            20
+          ]
+        },
+        "defenses": {
+          "heavy": 0,
+          "light": 0,
+          "medium": 0,
+          "unarmored": 2
+        },
+        "description": {
+          "value": "<p> <em> La fuerza fluye de tus puños, pero procede de tu mente y de tu espíritu. Buscas la perfección, refinando tu cuerpo hasta convertirlo en un instrumento preciso y tu mente en un ordenado bastión de sabiduría. Eres un combatiente feroz, reputado por tu habilidad en las artes marciales y en posiciones de combate que te conceden movimientos de lucha únicos. Si bien el desafío de dominar muchos estilos de lucha diferentes te hace llegar muy alto, también disfrutas meditando sobre cuestiones filosóficas y descubriendo nuevas formas de obtener la paz y la iluminación. </em> </p>\n <p> <em> @UUID[Compendium.pf2e.journals.JournalEntry.kzxu2dI7tFxv6Ix6.JournalEntryPage.hGKd722Kn4ZxIOJs]{Monje} </em> </p>",
+          "gm": ""
+        },
+        "generalFeatLevels": {
+          "value": [
+            3,
+            7,
+            11,
+            15,
+            19
+          ]
+        },
+        "hp": 10,
+        "items": {
+          "1fw9s": {
+            "img": "icons/magic/fire/flame-burning-embers-yellow.webp",
+            "level": 3,
+            "name": "Mystic Strikes",
+            "uuid": "Compendium.pf2e.classfeatures.Item.D2AE8RfMlZ3D1FuV"
+          },
+          "2yqet": {
+            "img": "systems/pf2e/icons/features/classes/weapon-specialization.webp",
+            "level": 7,
+            "name": "Weapon Specialization",
+            "uuid": "Compendium.pf2e.classfeatures.Item.9EqIasqfI8YIM3Pt"
+          },
+          "3ohvk": {
+            "img": "icons/magic/symbols/question-stone-yellow.webp",
+            "level": 11,
+            "name": "Second Path to Perfection",
+            "uuid": "Compendium.pf2e.classfeatures.Item.y6qnbUc8y0815QNE"
+          },
+          "4ru9g": {
+            "img": "icons/skills/melee/hand-grip-sword-orange.webp",
+            "level": 15,
+            "name": "Greater Weapon Specialization (Level 15)",
+            "uuid": "Compendium.pf2e.classfeatures.Item.Z7HX6TeFsaup7Dx9"
+          },
+          "8tl8t": {
+            "img": "systems/pf2e/icons/features/classes/incredible-movement.webp",
+            "level": 3,
+            "name": "Incredible Movement",
+            "uuid": "Compendium.pf2e.classfeatures.Item.Cq6NjvcKZOMySBVj"
+          },
+          "ai4sq": {
+            "img": "icons/skills/melee/hand-grip-staff-yellow-brown.webp",
+            "level": 5,
+            "name": "Expert Strikes",
+            "uuid": "Compendium.pf2e.classfeatures.Item.VgZIutWjFl8oZQFi"
+          },
+          "c8q3r": {
+            "img": "icons/skills/melee/unarmed-punch-fist-yellow-red.webp",
+            "level": 1,
+            "name": "Flurry of Blows",
+            "uuid": "Compendium.pf2e.classfeatures.Item.NLHHHiAcdnZ5ohc2"
+          },
+          "dZCTM": {
+            "img": "icons/creatures/eyes/human-single-blue.webp",
+            "level": 5,
+            "name": "Perception Expertise",
+            "uuid": "Compendium.pf2e.classfeatures.Item.JCqACxgrm5ixX0Jy"
+          },
+          "dzcvw": {
+            "img": "systems/pf2e/icons/features/classes/graceful-legend.webp",
+            "level": 17,
+            "name": "Graceful Legend",
+            "uuid": "Compendium.pf2e.classfeatures.Item.JWDfzYub3JfuEtth"
+          },
+          "iqbky": {
+            "img": "icons/skills/melee/unarmed-punch-fist.webp",
+            "level": 1,
+            "name": "Powerful Fist",
+            "uuid": "Compendium.pf2e.classfeatures.Item.SB8UJ8rZmvbcBweJ"
+          },
+          "k3mxz": {
+            "img": "icons/magic/defensive/illusion-evasion-echo-purple.webp",
+            "level": 13,
+            "name": "Graceful Mastery",
+            "uuid": "Compendium.pf2e.classfeatures.Item.95LI24ZSx0d4qfKX"
+          },
+          "t4zic": {
+            "img": "icons/magic/unholy/silhouette-robe-evil-power.webp",
+            "level": 9,
+            "name": "Monk Expertise",
+            "uuid": "Compendium.pf2e.classfeatures.Item.lxImO5D0qWp0gXFB"
+          },
+          "udbeu": {
+            "img": "icons/magic/lightning/fist-unarmed-strike-blue-green.webp",
+            "level": 9,
+            "name": "Metal Strikes",
+            "uuid": "Compendium.pf2e.classfeatures.Item.CoRfFkisEsHE1e43"
+          },
+          "xcxpa": {
+            "img": "systems/pf2e/icons/features/classes/adamantine-strikes.webp",
+            "level": 17,
+            "name": "Adamantine Strikes",
+            "uuid": "Compendium.pf2e.classfeatures.Item.5cthRUkRqRtduVvN"
+          },
+          "z0s0v": {
+            "img": "icons/magic/symbols/question-stone-yellow.webp",
+            "level": 7,
+            "name": "Path to Perfection",
+            "uuid": "Compendium.pf2e.classfeatures.Item.1K6m6AVmn3r8XZ9d"
+          },
+          "zeyz5": {
+            "img": "icons/magic/unholy/strike-body-life-soul-purple.webp",
+            "level": 19,
+            "name": "Perfected Form",
+            "uuid": "Compendium.pf2e.classfeatures.Item.KmTfg7Sg5va4yU00"
+          },
+          "zgtbz": {
+            "img": "icons/magic/symbols/question-stone-yellow.webp",
+            "level": 15,
+            "name": "Third Path to Perfection",
+            "uuid": "Compendium.pf2e.classfeatures.Item.haoTkr2U5k7kaAKN"
+          },
+          "zl9gg": {
+            "img": "icons/magic/fire/flame-burning-fist-strike.webp",
+            "level": 13,
+            "name": "Master Strikes",
+            "uuid": "Compendium.pf2e.classfeatures.Item.0iidKkzC2yy13lIf"
+          }
+        },
+        "keyAbility": {
+          "value": [
+            "dex",
+            "str"
+          ],
+          "selected": "dex"
+        },
+        "perception": 1,
+        "publication": {
+          "license": "ORC",
+          "remaster": true,
+          "title": "Pathfinder Manual de juego 2",
+          "authors": ""
+        },
+        "rules": [],
+        "savingThrows": {
+          "fortitude": 2,
+          "reflex": 2,
+          "will": 2
+        },
+        "skillFeatLevels": {
+          "value": [
+            2,
+            4,
+            6,
+            8,
+            10,
+            12,
+            14,
+            16,
+            18,
+            20
+          ]
+        },
+        "skillIncreaseLevels": {
+          "value": [
+            3,
+            5,
+            7,
+            9,
+            11,
+            13,
+            15,
+            17,
+            19
+          ]
+        },
+        "spellcasting": 0,
+        "trainedSkills": {
+          "additional": 4,
+          "value": []
+        },
+        "traits": {
+          "rarity": "common",
+          "otherTags": []
+        },
+        "slug": "monk",
+        "_migration": {
+          "version": 0.955,
+          "previous": null
+        }
+      },
+      "type": "class",
+      "_stats": {
+        "compendiumSource": "Compendium.pf2e.classes.Item.YPxpk9JbMnKjbNLc",
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "pf2e",
+        "systemVersion": "7.12.2",
+        "createdTime": 1776184457049,
+        "modifiedTime": 1776184458920,
+        "lastModifiedBy": "PSyRcSIZYjDSj8hT"
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "flags": {
+        "babele": {
+          "translated": true,
+          "hasTranslation": true,
+          "originalName": "Monk"
+        }
+      },
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "name": "One Terrain",
+      "type": "lore",
+      "system": {
+        "description": {
+          "gm": "",
+          "value": ""
+        },
+        "rules": [],
+        "slug": null,
+        "_migration": {
+          "version": 0.955,
+          "lastMigration": null,
+          "previous": {
+            "schema": null,
+            "foundry": "13.351",
+            "system": "7.12.2"
+          }
+        },
+        "traits": {
+          "otherTags": []
+        },
+        "publication": {
+          "title": "",
+          "authors": "",
+          "license": "OGL",
+          "remaster": false
+        },
+        "mod": {
+          "value": 0
+        },
+        "proficient": {
+          "value": 1
+        },
+        "featType": "",
+        "item": {
+          "value": 0
+        }
+      },
+      "effects": [],
+      "_id": "bJwM0NhZMo48khmu",
+      "img": "systems/pf2e/icons/default-icons/lore.svg",
+      "folder": null,
+      "sort": 0,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "pf2e",
+        "systemVersion": "7.12.2",
+        "createdTime": 1776184457141,
+        "modifiedTime": 1776184457141,
+        "lastModifiedBy": "PSyRcSIZYjDSj8hT"
+      },
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "folder": "QhHpEbq98ZJAyDiH",
+      "img": "icons/sundries/books/book-red-exclamation.webp",
+      "name": "Conocimiento dudoso",
+      "system": {
+        "actionType": {
+          "value": "passive"
+        },
+        "actions": {
+          "value": null
+        },
+        "category": "skill",
+        "description": {
+          "value": "<p>Eres un tesoro de información, pero no toda ella procede de fuentes reputadas. Cuando sufres un fallo (pero no un fallo crítico) en una prueba de Recordar conocimiento utilizando cualquier habilidad, averiguas la respuesta correcta y una respuesta errónea, pero no tienes forma alguna de diferenciar cuál es cuál. Esto puede ocurrir si no saber algo es significativo, pero no si es bueno o malo.</p>",
+          "gm": ""
+        },
+        "level": {
+          "value": 1
+        },
+        "prerequisites": {
+          "value": [
+            {
+              "value": "rango entrenado en una habilidad que dispone de la acción Recordar conocimiento"
+            }
+          ]
+        },
+        "publication": {
+          "license": "ORC",
+          "remaster": true,
+          "title": "Pathfinder Manual de juego",
+          "authors": ""
+        },
+        "rules": [
+          {
+            "key": "Note",
+            "outcome": [
+              "failure"
+            ],
+            "predicate": [
+              "action:recall-knowledge"
+            ],
+            "selector": "skill-check",
+            "text": "PF2E.SpecificRule.DubiousKnowledge.Note",
+            "title": "{item|name}"
+          }
+        ],
+        "traits": {
+          "rarity": "common",
+          "value": [
+            "general",
+            "skill"
+          ],
+          "otherTags": []
+        },
+        "slug": "dubious-knowledge",
+        "_migration": {
+          "version": 0.955,
+          "previous": null
+        },
+        "onlyLevel1": false,
+        "maxTakable": 1,
+        "subfeatures": {
+          "proficiencies": {},
+          "senses": {},
+          "suppressedFeatures": []
+        },
+        "location": null
+      },
+      "type": "feat",
+      "_stats": {
+        "compendiumSource": "Compendium.pf2e.feats-srd.Item.1Bt7uCW2WI4sM84P",
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "pf2e",
+        "systemVersion": "7.12.2",
+        "createdTime": 1776184457235,
+        "modifiedTime": 1776184457235,
+        "lastModifiedBy": "PSyRcSIZYjDSj8hT"
+      },
+      "effects": [],
+      "sort": 0,
+      "flags": {
+        "babele": {
+          "translated": true,
+          "hasTranslation": true,
+          "originalName": "Dubious Knowledge"
+        },
+        "pathmuncher": {
+          "origin": {
+            "uuid": "Compendium.pf2e.feats-srd.Item.1Bt7uCW2WI4sM84P"
+          }
+        },
+        "pf2e": {
+          "grantedBy": {
+            "id": "BBILjjrLcsip75ow",
+            "onDelete": "cascade"
+          }
+        }
+      },
+      "_id": "5UYIygZYsTAUdyLn",
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "e86uDaQ4GQbZi519",
+      "folder": "QhHpEbq98ZJAyDiH",
+      "img": "icons/sundries/books/book-red-exclamation.webp",
+      "name": "Conocimiento dudoso",
+      "system": {
+        "actionType": {
+          "value": "passive"
+        },
+        "actions": {
+          "value": null
+        },
+        "category": "skill",
+        "description": {
+          "value": "<p>Eres un tesoro de información, pero no toda ella procede de fuentes reputadas. Cuando sufres un fallo (pero no un fallo crítico) en una prueba de Recordar conocimiento utilizando cualquier habilidad, averiguas la respuesta correcta y una respuesta errónea, pero no tienes forma alguna de diferenciar cuál es cuál. Esto puede ocurrir si no saber algo es significativo, pero no si es bueno o malo.</p>",
+          "gm": ""
+        },
+        "level": {
+          "value": 1
+        },
+        "prerequisites": {
+          "value": [
+            {
+              "value": "rango entrenado en una habilidad que dispone de la acción Recordar conocimiento"
+            }
+          ]
+        },
+        "publication": {
+          "license": "ORC",
+          "remaster": true,
+          "title": "Pathfinder Manual de juego",
+          "authors": ""
+        },
+        "rules": [
+          {
+            "key": "Note",
+            "outcome": [
+              "failure"
+            ],
+            "predicate": [
+              "action:recall-knowledge"
+            ],
+            "selector": "skill-check",
+            "text": "PF2E.SpecificRule.DubiousKnowledge.Note",
+            "title": "{item|name}"
+          }
+        ],
+        "traits": {
+          "rarity": "common",
+          "value": [
+            "general",
+            "skill"
+          ],
+          "otherTags": []
+        },
+        "slug": "dubious-knowledge",
+        "_migration": {
+          "version": 0.955,
+          "previous": null
+        },
+        "onlyLevel1": false,
+        "maxTakable": 1,
+        "subfeatures": {
+          "proficiencies": {},
+          "senses": {},
+          "suppressedFeatures": []
+        },
+        "location": "lSwZtg3QPCJOdZ7a"
+      },
+      "type": "feat",
+      "_stats": {
+        "compendiumSource": "Compendium.pf2e.feats-srd.Item.1Bt7uCW2WI4sM84P",
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "pf2e",
+        "systemVersion": "7.12.2",
+        "createdTime": 1776184457333,
+        "modifiedTime": 1776184457333,
+        "lastModifiedBy": "PSyRcSIZYjDSj8hT"
+      },
+      "effects": [],
+      "sort": 0,
+      "flags": {
+        "babele": {
+          "translated": true,
+          "hasTranslation": true,
+          "originalName": "Dubious Knowledge"
+        }
+      },
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "vsdgrZp94lhGFOIW",
+      "img": "icons/skills/melee/unarmed-punch-fist-yellow-red.webp",
+      "name": "Ráfaga De Golpes",
+      "system": {
+        "actionType": {
+          "value": "action"
+        },
+        "actions": {
+          "value": 1
+        },
+        "category": "classfeature",
+        "description": {
+          "value": "<p> Puedes atacar rápidamente con puños, pies, codos, rodillas y otros ataques sin armas. Obtienes la acción Ráfaga de golpes. </p>\n <hr />\n <p> Haz dos @UUID[Compendium.pf2e.actionspf2e.Item.VjxZFuUXrCU94MWR] desarmados {Strikes} . Si ambos golpean a la misma criatura, combine su daño a efectos de resistencias y debilidades. Aplica tu penalización de ataque múltiple a los Strikes normalmente. Como tiene el rasgo de florecimiento, puedes usar Flurry of Blows solo una vez por turno. </p>",
+          "gm": ""
+        },
+        "level": {
+          "value": 1
+        },
+        "prerequisites": {
+          "value": []
+        },
+        "publication": {
+          "license": "ORC",
+          "remaster": true,
+          "title": "Pathfinder Manual de juego 2",
+          "authors": ""
+        },
+        "rules": [],
+        "traits": {
+          "rarity": "common",
+          "value": [
+            "flourish",
+            "monk"
+          ],
+          "otherTags": []
+        },
+        "slug": "flurry-of-blows",
+        "_migration": {
+          "version": 0.955,
+          "previous": null
+        },
+        "onlyLevel1": false,
+        "maxTakable": 1,
+        "subfeatures": {
+          "proficiencies": {},
+          "senses": {},
+          "suppressedFeatures": []
+        },
+        "location": "02d4t1tIDoSg78rP"
+      },
+      "type": "feat",
+      "_stats": {
+        "compendiumSource": "Compendium.pf2e.classfeatures.Item.NLHHHiAcdnZ5ohc2",
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "pf2e",
+        "systemVersion": "7.12.2",
+        "createdTime": 1776184457425,
+        "modifiedTime": 1776184457425,
+        "lastModifiedBy": "PSyRcSIZYjDSj8hT"
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "flags": {
+        "babele": {
+          "translated": true,
+          "hasTranslation": true,
+          "originalName": "Flurry of Blows"
+        }
+      },
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "Zx9Kd9ehDJRJ3tRv",
+      "img": "systems/pf2e/icons/features/classes/powerful-fist.webp",
+      "name": "Puño Poderoso",
+      "system": {
+        "actionType": {
+          "value": "passive"
+        },
+        "actions": {
+          "value": null
+        },
+        "category": "classfeature",
+        "description": {
+          "value": "<p> Sabes empuñar tus puños como armas mortales. El dado de daño de tu puño aumenta a 1d6 en lugar de 1d4. La mayoría de las personas reciben una penalización de circunstancia de -2 cuando realizan un ataque letal con ataques no letales sin armas, porque les resulta difícil usar sus puños con fuerza letal. No recibes esta penalización al realizar un ataque letal con el puño o cualquier otro ataque desarmado. </p>",
+          "gm": ""
+        },
+        "level": {
+          "value": 1
+        },
+        "prerequisites": {
+          "value": []
+        },
+        "publication": {
+          "license": "ORC",
+          "remaster": true,
+          "title": "Pathfinder Manual de juego 2",
+          "authors": ""
+        },
+        "rules": [
+          {
+            "fist": true,
+            "img": "systems/pf2e/icons/features/classes/powerful-fist.webp",
+            "key": "Strike"
+          },
+          {
+            "itemId": "xxxxxxFISTxxxxxx",
+            "key": "ItemAlteration",
+            "mode": "upgrade",
+            "property": "damage-dice-faces"
+          }
+        ],
+        "traits": {
+          "rarity": "common",
+          "value": [
+            "monk"
+          ],
+          "otherTags": []
+        },
+        "slug": "powerful-fist",
+        "_migration": {
+          "version": 0.955,
+          "previous": null
+        },
+        "onlyLevel1": false,
+        "maxTakable": 1,
+        "subfeatures": {
+          "proficiencies": {},
+          "senses": {},
+          "suppressedFeatures": []
+        },
+        "location": "02d4t1tIDoSg78rP"
+      },
+      "type": "feat",
+      "_stats": {
+        "compendiumSource": "Compendium.pf2e.classfeatures.Item.SB8UJ8rZmvbcBweJ",
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "pf2e",
+        "systemVersion": "7.12.2",
+        "createdTime": 1776184457517,
+        "modifiedTime": 1776184457580,
+        "lastModifiedBy": "PSyRcSIZYjDSj8hT"
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "flags": {
+        "babele": {
+          "translated": true,
+          "hasTranslation": true,
+          "originalName": "Powerful Fist"
+        }
+      },
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "MnfaNaPpyPSD9w6o",
+      "folder": "hFVleadZ20Wc5Hkc",
+      "img": "icons/sundries/books/book-red-exclamation.webp",
+      "name": "Ambición natural",
+      "system": {
+        "actionType": {
+          "value": "passive"
+        },
+        "actions": {
+          "value": null
+        },
+        "category": "ancestry",
+        "description": {
+          "value": "<p>Te criaron para ser ambicioso y aspirar siempre a las estrellas, lo que hizo que progresaras rápidamente en tu campo elegido. Obtienes una dote de clase de 1.er nivel para tu clase. Debes cumplir los prerrequisitos, pero puedes seleccionar la dote más adelante en el proceso de creación de personaje a fin de determinar qué prerrequisitos cumples.</p>",
+          "gm": ""
+        },
+        "level": {
+          "value": 1
+        },
+        "prerequisites": {
+          "value": []
+        },
+        "publication": {
+          "license": "ORC",
+          "remaster": true,
+          "title": "Pathfinder Manual de juego",
+          "authors": ""
+        },
+        "rules": [
+          {
+            "adjustName": false,
+            "choices": {
+              "filter": [
+                "item:level:1",
+                "item:category:class",
+                "item:trait:{actor|system.details.class.trait}",
+                {
+                  "or": [
+                    "feature:dragon-instinct",
+                    {
+                      "not": "item:draconic-arrogance"
+                    }
+                  ]
+                },
+                {
+                  "nor": [
+                    "item:animal-companion",
+                    "item:animal-companion-druid",
+                    "item:bardic-lore",
+                    "item:fire-lung",
+                    "item:lingering-composition",
+                    "item:leshy-familiar",
+                    "item:martial-performance",
+                    "item:shore-step",
+                    "item:steadying-stone",
+                    "item:storm-born",
+                    "item:versatile-performance",
+                    "item:untamed-form"
+                  ]
+                }
+              ],
+              "itemType": "feat"
+            },
+            "flag": "naturalAmbition",
+            "key": "ChoiceSet",
+            "prompt": "PF2E.SpecificRule.Prompt.LevelOneClassFeat",
+            "selection": "Compendium.pf2e.feats-srd.Item.7FRYyKXDKjGoANYj"
+          },
+          {
+            "key": "GrantItem",
+            "uuid": "{item|flags.system.rulesSelections.naturalAmbition}",
+            "flag": "stumblingStance"
+          }
+        ],
+        "traits": {
+          "rarity": "common",
+          "value": [
+            "human"
+          ],
+          "otherTags": []
+        },
+        "slug": "natural-ambition",
+        "_migration": {
+          "version": 0.955,
+          "previous": null
+        },
+        "onlyLevel1": false,
+        "maxTakable": 1,
+        "subfeatures": {
+          "proficiencies": {},
+          "senses": {},
+          "suppressedFeatures": []
+        },
+        "location": "ancestry-1"
+      },
+      "type": "feat",
+      "_stats": {
+        "compendiumSource": "Compendium.pf2e.feats-srd.Item.PodajLVxqYSAqVox",
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "pf2e",
+        "systemVersion": "7.12.2",
+        "createdTime": 1776184457662,
+        "modifiedTime": 1776184457730,
+        "lastModifiedBy": "PSyRcSIZYjDSj8hT"
+      },
+      "effects": [],
+      "sort": 0,
+      "flags": {
+        "babele": {
+          "translated": true,
+          "hasTranslation": true,
+          "originalName": "Natural Ambition"
+        },
+        "pf2e": {
+          "rulesSelections": {
+            "naturalAmbition": "Compendium.pf2e.feats-srd.Item.7FRYyKXDKjGoANYj"
+          },
+          "itemGrants": {
+            "stumblingStance": {
+              "id": "cTTOBEXcH0komLwU",
+              "onDelete": "detach"
+            }
+          }
+        }
+      },
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "folder": "qH6W33xWhVuEMHdM",
+      "img": "icons/sundries/books/book-red-exclamation.webp",
+      "name": "Postura del borracho",
+      "system": {
+        "actionType": {
+          "value": "action"
+        },
+        "actions": {
+          "value": 1
+        },
+        "category": "class",
+        "description": {
+          "value": "<p> Entras en una postura aparentemente desenfocada que imita los movimientos de los ebrios: balanceándose, tejiendo, dejando falsas aberturas y distrayendo a tus enemigos de tus verdaderos movimientos. </p>\n <p> Mientras estás en esta postura, obtienes un bonificador de circunstancia +1 a las pruebas de Engaño para @UUID[Compendium.pf2e.actionspf2e.Item.QNAVeNKtHA0EUw4X]{Feint} . Los únicos ataques que puedes realizar son ataques desarmados con balanceo y tropiezo. Estos causan 1d8 de daño contundente; están en el grupo de pelea; y tener la agilidad, la traición, la finura,Rasgos no letales y desarmados. </p>\n <p> Si un enemigo te golpea con un golpe cuerpo a cuerpo mientras estás en esta postura, se convierte en @UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{Desprevenido} contra el siguiente golpe que hagas contra él antes del final de tu siguiente turno. </p>",
+          "gm": ""
+        },
+        "level": {
+          "value": 1
+        },
+        "prerequisites": {
+          "value": [
+            {
+              "value": "rango entrenado en Engaño"
+            }
+          ]
+        },
+        "publication": {
+          "license": "ORC",
+          "remaster": true,
+          "title": "Pathfinder Manual de juego 2",
+          "authors": ""
+        },
+        "rules": [],
+        "selfEffect": {
+          "name": "Stance: Stumbling Stance",
+          "uuid": "Compendium.pf2e.feat-effects.Item.BCyGDKcplkJiSAKJ"
+        },
+        "traits": {
+          "rarity": "common",
+          "value": [
+            "monk",
+            "stance"
+          ],
+          "otherTags": []
+        },
+        "slug": "stumbling-stance",
+        "_migration": {
+          "version": 0.955,
+          "previous": null
+        },
+        "onlyLevel1": false,
+        "maxTakable": 1,
+        "subfeatures": {
+          "proficiencies": {},
+          "senses": {},
+          "suppressedFeatures": []
+        },
+        "location": null
+      },
+      "type": "feat",
+      "_stats": {
+        "compendiumSource": "Compendium.pf2e.feats-srd.Item.7FRYyKXDKjGoANYj",
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "pf2e",
+        "systemVersion": "7.12.2",
+        "createdTime": 1776184457805,
+        "modifiedTime": 1776184457805,
+        "lastModifiedBy": "PSyRcSIZYjDSj8hT"
+      },
+      "effects": [],
+      "sort": 0,
+      "flags": {
+        "babele": {
+          "translated": true,
+          "hasTranslation": true,
+          "originalName": "Stumbling Stance"
+        },
+        "pathmuncher": {
+          "origin": {
+            "uuid": "Compendium.pf2e.feats-srd.Item.7FRYyKXDKjGoANYj"
+          }
+        },
+        "pf2e": {
+          "grantedBy": {
+            "id": "MnfaNaPpyPSD9w6o",
+            "onDelete": "cascade"
+          }
+        }
+      },
+      "_id": "cTTOBEXcH0komLwU",
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "3zxeqgUIRdRbTs0Z",
+      "folder": "qH6W33xWhVuEMHdM",
+      "img": "icons/sundries/books/book-red-exclamation.webp",
+      "name": "Posición De La Grulla",
+      "system": {
+        "actionType": {
+          "value": "action"
+        },
+        "actions": {
+          "value": 1
+        },
+        "category": "class",
+        "description": {
+          "value": "<p> <strong> Requisitos </strong> Estás desarmado </p>\n <hr />\n <p> Entras en la postura de una grulla, sosteniendo tus brazos en una imitación de las alas de una grulla y usando movimientos fluidos y defensivos. </p>\n <p> Obtienes una bonificación de circunstancia +1 a la CA, pero los únicos ataques que puedes realizar son ataques con alas de grúa. Estos causan 1d6 de daño contundente; están en el grupo de pelea; y tener rasgos ágiles, delicados, no letales y desarmados. </p><p> Mientras estás en postura de grúa, reduce la CD para salto de altura y salto de longitud en 5, y cuando saltas, puedes moverte 5 pies adicionales en horizontal o 2 pies en vertical. </p>",
+          "gm": ""
+        },
+        "level": {
+          "value": 1
+        },
+        "prerequisites": {
+          "value": []
+        },
+        "publication": {
+          "license": "ORC",
+          "remaster": true,
+          "title": "Pathfinder Manual de juego 2",
+          "authors": ""
+        },
+        "rules": [],
+        "selfEffect": {
+          "name": "Stance: Crane Stance",
+          "uuid": "Compendium.pf2e.feat-effects.Item.nwkYZs6YwXYAJ4ps"
+        },
+        "traits": {
+          "rarity": "common",
+          "value": [
+            "monk",
+            "stance"
+          ],
+          "otherTags": []
+        },
+        "slug": "crane-stance",
+        "_migration": {
+          "version": 0.955,
+          "previous": null
+        },
+        "onlyLevel1": false,
+        "maxTakable": 1,
+        "subfeatures": {
+          "proficiencies": {},
+          "senses": {},
+          "suppressedFeatures": []
+        },
+        "location": "class-1"
+      },
+      "type": "feat",
+      "_stats": {
+        "compendiumSource": "Compendium.pf2e.feats-srd.Item.bf7NCeKqDClaqhTR",
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "pf2e",
+        "systemVersion": "7.12.2",
+        "createdTime": 1776184457914,
+        "modifiedTime": 1776184457914,
+        "lastModifiedBy": "PSyRcSIZYjDSj8hT"
+      },
+      "effects": [],
+      "sort": 0,
+      "flags": {
+        "babele": {
+          "translated": true,
+          "hasTranslation": true,
+          "originalName": "Crane Stance"
+        }
+      },
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "fsJBuecJ0lTQ2fkz",
+      "folder": "QhHpEbq98ZJAyDiH",
+      "img": "icons/sundries/books/book-red-exclamation.webp",
+      "name": "Seguro (Atletismo)",
+      "system": {
+        "actionType": {
+          "value": "passive"
+        },
+        "actions": {
+          "value": null
+        },
+        "category": "skill",
+        "description": {
+          "value": "<p>Incluso en las peores circunstancias, puedes llevar a cabo tareas básicas. Elige una habilidad en la que estás entrenado. En lugar de hacer una prueba de habilidad para la misma, puedes aplicar el resultado de 10 + tu modificador por competencia (no apliques ningún otro bonificador, penalizador ni modificador).</p>\n<hr />\n<p><strong>Especial</strong> Puedes seleccionar esta dote en múltiples ocasiones. Cada vez, elige una habilidad diferente para obtener los beneficios aplicables a la misma.</p>",
+          "gm": ""
+        },
+        "level": {
+          "value": 1
+        },
+        "maxTakable": null,
+        "prerequisites": {
+          "value": [
+            {
+              "value": "rango entrenado en por lo menos una habilidad"
+            }
+          ]
+        },
+        "publication": {
+          "license": "ORC",
+          "remaster": true,
+          "title": "Pathfinder Manual de juego",
+          "authors": ""
+        },
+        "rules": [
+          {
+            "choices": {
+              "config": "skills",
+              "predicate": [
+                {
+                  "gte": [
+                    "skill:{choice|value}:rank",
+                    1
+                  ]
+                }
+              ]
+            },
+            "flag": "assurance",
+            "key": "ChoiceSet",
+            "prompt": "PF2E.SpecificRule.Prompt.Skill",
+            "selection": "athletics"
+          },
+          {
+            "key": "SubstituteRoll",
+            "label": "PF2E.SpecificRule.SubstituteRoll.Assurance",
+            "selector": "{item|flags.system.rulesSelections.assurance}",
+            "slug": "assurance",
+            "value": 10
+          },
+          {
+            "key": "AdjustModifier",
+            "predicate": [
+              "substitute:assurance",
+              {
+                "not": "bonus:type:proficiency"
+              }
+            ],
+            "selector": "{item|flags.system.rulesSelections.assurance}",
+            "suppress": true
+          }
+        ],
+        "traits": {
+          "rarity": "common",
+          "value": [
+            "fortune",
+            "general",
+            "skill"
+          ],
+          "otherTags": []
+        },
+        "slug": "assurance",
+        "_migration": {
+          "version": 0.955,
+          "previous": null
+        },
+        "onlyLevel1": false,
+        "subfeatures": {
+          "proficiencies": {},
+          "senses": {},
+          "suppressedFeatures": []
+        },
+        "location": "general-1"
+      },
+      "type": "feat",
+      "_stats": {
+        "compendiumSource": "Compendium.pf2e.feats-srd.Item.W6Gl9ePmItfDHji0",
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "pf2e",
+        "systemVersion": "7.12.2",
+        "createdTime": 1776184458030,
+        "modifiedTime": 1776184458097,
+        "lastModifiedBy": "PSyRcSIZYjDSj8hT"
+      },
+      "effects": [],
+      "sort": 0,
+      "flags": {
+        "babele": {
+          "translated": true,
+          "hasTranslation": true,
+          "originalName": "Assurance"
+        }
+      },
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "l7xL9gKSJjbrqawp",
+      "img": "icons/containers/bags/pack-leather-white-tan.webp",
+      "name": "Mochila",
+      "system": {
+        "description": {
+          "gm": "",
+          "value": "<p>Una mochila contiene hasta Impedimenta 4 de objetos y los primeros 2 puntos de Impedimenta de dichos objetos no cuentan contra tu límite. Si, en lugar de llevar la mochila a la espalda, la sostienes o la llevas guardada, su Impedimenta es ligera en lugar de insignificante.</p>"
+        },
+        "rules": [],
+        "slug": "backpack",
+        "_migration": {
+          "version": 0.955,
+          "lastMigration": null,
+          "previous": null
+        },
+        "traits": {
+          "otherTags": [],
+          "value": [],
+          "rarity": "common"
+        },
+        "publication": {
+          "title": "Pathfinder Manual de juego",
+          "authors": "",
+          "license": "ORC",
+          "remaster": true
+        },
+        "level": {
+          "value": 0
+        },
+        "quantity": 2,
+        "baseItem": null,
+        "bulk": {
+          "value": 0,
+          "heldOrStowed": 0.1,
+          "capacity": 4,
+          "ignored": 2
+        },
+        "hp": {
+          "value": 0,
+          "max": 0
+        },
+        "hardness": 0,
+        "price": {
+          "value": {
+            "sp": 1
+          }
+        },
+        "equipped": {
+          "carryType": "worn",
+          "invested": true,
+          "inSlot": true,
+          "handsHeld": 0
+        },
+        "containerId": null,
+        "size": "med",
+        "material": {
+          "type": null,
+          "grade": null
+        },
+        "identification": {
+          "status": "identified",
+          "unidentified": {
+            "name": "",
+            "img": "",
+            "data": {
+              "description": {
+                "value": ""
+              }
+            }
+          }
+        },
+        "collapsed": false,
+        "stowing": true,
+        "usage": {
+          "value": "wornbackpack"
+        }
+      },
+      "type": "backpack",
+      "_stats": {
+        "compendiumSource": "Compendium.pf2e.equipment-srd.Item.3lgwjrFEsQVKzhh7",
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "pf2e",
+        "systemVersion": "7.12.2",
+        "createdTime": 1776184458300,
+        "modifiedTime": 1776184458586,
+        "lastModifiedBy": "PSyRcSIZYjDSj8hT"
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "flags": {
+        "babele": {
+          "translated": true,
+          "hasTranslation": true,
+          "originalName": "Backpack"
+        }
+      },
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "rZ8J5rHtftcyaws9",
+      "img": "icons/containers/ammunition/quiver-simple-brown.webp",
+      "name": "Saco de dormir",
+      "system": {
+        "description": {
+          "gm": "",
+          "value": "<p> Una cama enrollada. </p>"
+        },
+        "rules": [],
+        "slug": "bedroll",
+        "_migration": {
+          "version": 0.955,
+          "lastMigration": null,
+          "previous": null
+        },
+        "traits": {
+          "otherTags": [],
+          "value": [],
+          "rarity": "common"
+        },
+        "publication": {
+          "title": "Pathfinder Manual de juego",
+          "authors": "",
+          "license": "ORC",
+          "remaster": true
+        },
+        "level": {
+          "value": 0
+        },
+        "quantity": 1,
+        "baseItem": null,
+        "bulk": {
+          "value": 0.1
+        },
+        "hp": {
+          "value": 0,
+          "max": 0
+        },
+        "hardness": 0,
+        "price": {
+          "value": {
+            "cp": 2
+          }
+        },
+        "equipped": {
+          "carryType": "stowed",
+          "invested": null,
+          "handsHeld": 0
+        },
+        "containerId": "l7xL9gKSJjbrqawp",
+        "size": "med",
+        "material": {
+          "type": null,
+          "grade": null
+        },
+        "identification": {
+          "status": "identified",
+          "unidentified": {
+            "name": "",
+            "img": "",
+            "data": {
+              "description": {
+                "value": ""
+              }
+            }
+          }
+        },
+        "usage": {
+          "value": "other"
+        },
+        "subitems": []
+      },
+      "type": "equipment",
+      "_stats": {
+        "compendiumSource": "Compendium.pf2e.equipment-srd.Item.fagzYdmfYyMQ6J77",
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "pf2e",
+        "systemVersion": "7.12.2",
+        "createdTime": 1776184458300,
+        "modifiedTime": 1776184458586,
+        "lastModifiedBy": "PSyRcSIZYjDSj8hT"
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "flags": {
+        "babele": {
+          "translated": true,
+          "hasTranslation": true,
+          "originalName": "Bedroll"
+        }
+      },
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "yyfCucGgFJ1C11ku",
+      "img": "systems/pf2e/icons/equipment/adventuring-gear/chalk.webp",
+      "name": "Tiza",
+      "system": {
+        "description": {
+          "gm": "",
+          "value": ""
+        },
+        "rules": [],
+        "slug": "chalk",
+        "_migration": {
+          "version": 0.955,
+          "lastMigration": null,
+          "previous": null
+        },
+        "traits": {
+          "otherTags": [],
+          "value": [],
+          "rarity": "common"
+        },
+        "publication": {
+          "title": "Pathfinder Manual de juego",
+          "authors": "",
+          "license": "ORC",
+          "remaster": true
+        },
+        "level": {
+          "value": 0
+        },
+        "quantity": 10,
+        "baseItem": null,
+        "bulk": {
+          "value": 0
+        },
+        "hp": {
+          "value": 0,
+          "max": 0
+        },
+        "hardness": 0,
+        "price": {
+          "value": {
+            "cp": 1
+          },
+          "per": 10
+        },
+        "equipped": {
+          "carryType": "stowed",
+          "handsHeld": 0
+        },
+        "containerId": "l7xL9gKSJjbrqawp",
+        "size": "med",
+        "material": {
+          "type": null,
+          "grade": null
+        },
+        "identification": {
+          "status": "identified",
+          "unidentified": {
+            "name": "",
+            "img": "",
+            "data": {
+              "description": {
+                "value": ""
+              }
+            }
+          }
+        },
+        "category": "other",
+        "uses": {
+          "value": 1,
+          "max": 1,
+          "autoDestroy": true
+        },
+        "damage": null,
+        "usage": {
+          "value": "held-in-one-hand"
+        },
+        "spell": null
+      },
+      "type": "consumable",
+      "_stats": {
+        "compendiumSource": "Compendium.pf2e.equipment-srd.Item.xShIDyydOMkGvGNb",
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "pf2e",
+        "systemVersion": "7.12.2",
+        "createdTime": 1776184458300,
+        "modifiedTime": 1776184458586,
+        "lastModifiedBy": "PSyRcSIZYjDSj8hT"
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "flags": {
+        "babele": {
+          "translated": true,
+          "hasTranslation": true,
+          "originalName": "Chalk"
+        }
+      },
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "oZbgdsM0D11OegFh",
+      "img": "icons/commodities/stone/geode-raw-tan.webp",
+      "name": "Pedernal y yesca",
+      "system": {
+        "description": {
+          "gm": "",
+          "value": "<p>El pedernal y la yesca se utilizan para encender fuego si tienes tiempo para utilizar una chispa aunque usarlos suele alargarse, de forma que el método no es práctico durante un encuentro. Incluso en las condiciones ideales, utilizar el pedernal y la yesca para encender una llama requiere el uso de por lo menos 3 acciones, y a menudo mucho más.</p>"
+        },
+        "rules": [],
+        "slug": "flint-and-steel",
+        "_migration": {
+          "version": 0.955,
+          "lastMigration": null,
+          "previous": null
+        },
+        "traits": {
+          "otherTags": [],
+          "value": [],
+          "rarity": "common"
+        },
+        "publication": {
+          "title": "Pathfinder Manual de juego",
+          "authors": "",
+          "license": "ORC",
+          "remaster": true
+        },
+        "level": {
+          "value": 0
+        },
+        "quantity": 1,
+        "baseItem": null,
+        "bulk": {
+          "value": 0
+        },
+        "hp": {
+          "value": 0,
+          "max": 0
+        },
+        "hardness": 0,
+        "price": {
+          "value": {
+            "cp": 5
+          }
+        },
+        "equipped": {
+          "carryType": "stowed",
+          "invested": null,
+          "handsHeld": 0
+        },
+        "containerId": "l7xL9gKSJjbrqawp",
+        "size": "med",
+        "material": {
+          "type": null,
+          "grade": null
+        },
+        "identification": {
+          "status": "identified",
+          "unidentified": {
+            "name": "",
+            "img": "",
+            "data": {
+              "description": {
+                "value": ""
+              }
+            }
+          }
+        },
+        "usage": {
+          "value": "held-in-two-hands"
+        },
+        "subitems": []
+      },
+      "type": "equipment",
+      "_stats": {
+        "compendiumSource": "Compendium.pf2e.equipment-srd.Item.UlIxxLm71UdRgCFE",
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "pf2e",
+        "systemVersion": "7.12.2",
+        "createdTime": 1776184458300,
+        "modifiedTime": 1776184458586,
+        "lastModifiedBy": "PSyRcSIZYjDSj8hT"
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "flags": {
+        "babele": {
+          "translated": true,
+          "hasTranslation": true,
+          "originalName": "Flint and Steel"
+        }
+      },
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "1hVkwBnqubZY8JaF",
+      "img": "icons/sundries/survival/rope-wrapped-brown.webp",
+      "name": "Soga",
+      "system": {
+        "description": {
+          "gm": "",
+          "value": "<p> 50 pies de cuerda. </p>"
+        },
+        "rules": [],
+        "slug": "rope",
+        "_migration": {
+          "version": 0.955,
+          "lastMigration": null,
+          "previous": null
+        },
+        "traits": {
+          "otherTags": [],
+          "value": [],
+          "rarity": "common"
+        },
+        "publication": {
+          "title": "Pathfinder Manual de juego",
+          "authors": "",
+          "license": "ORC",
+          "remaster": true
+        },
+        "level": {
+          "value": 0
+        },
+        "quantity": 1,
+        "baseItem": null,
+        "bulk": {
+          "value": 0.1
+        },
+        "hp": {
+          "value": 0,
+          "max": 0
+        },
+        "hardness": 0,
+        "price": {
+          "value": {
+            "sp": 5
+          }
+        },
+        "equipped": {
+          "carryType": "stowed",
+          "invested": null,
+          "handsHeld": 0
+        },
+        "containerId": "l7xL9gKSJjbrqawp",
+        "size": "med",
+        "material": {
+          "type": null,
+          "grade": null
+        },
+        "identification": {
+          "status": "identified",
+          "unidentified": {
+            "name": "",
+            "img": "",
+            "data": {
+              "description": {
+                "value": ""
+              }
+            }
+          }
+        },
+        "usage": {
+          "value": "held-in-two-hands"
+        },
+        "subitems": []
+      },
+      "type": "equipment",
+      "_stats": {
+        "compendiumSource": "Compendium.pf2e.equipment-srd.Item.fyYnQf1NAx9fWFaS",
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "pf2e",
+        "systemVersion": "7.12.2",
+        "createdTime": 1776184458300,
+        "modifiedTime": 1776184458586,
+        "lastModifiedBy": "PSyRcSIZYjDSj8hT"
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "flags": {
+        "babele": {
+          "translated": true,
+          "hasTranslation": true,
+          "originalName": "Rope"
+        }
+      },
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "dgFM39ZDn41bV0vs",
+      "img": "systems/pf2e/icons/equipment/adventuring-gear/rations.webp",
+      "name": "Raciones",
+      "system": {
+        "description": {
+          "gm": "",
+          "value": ""
+        },
+        "rules": [],
+        "slug": "rations",
+        "_migration": {
+          "version": 0.955,
+          "lastMigration": null,
+          "previous": null
+        },
+        "traits": {
+          "otherTags": [],
+          "value": [],
+          "rarity": "common"
+        },
+        "publication": {
+          "title": "Pathfinder Manual de juego",
+          "authors": "",
+          "license": "ORC",
+          "remaster": true
+        },
+        "level": {
+          "value": 0
+        },
+        "quantity": 2,
+        "baseItem": null,
+        "bulk": {
+          "value": 0.1
+        },
+        "hp": {
+          "value": 0,
+          "max": 0
+        },
+        "hardness": 0,
+        "price": {
+          "value": {
+            "sp": 4
+          },
+          "per": 1
+        },
+        "equipped": {
+          "carryType": "stowed",
+          "handsHeld": 0
+        },
+        "containerId": "l7xL9gKSJjbrqawp",
+        "size": "med",
+        "material": {
+          "type": null,
+          "grade": null
+        },
+        "identification": {
+          "status": "identified",
+          "unidentified": {
+            "name": "",
+            "img": "",
+            "data": {
+              "description": {
+                "value": ""
+              }
+            }
+          }
+        },
+        "category": "other",
+        "uses": {
+          "value": 7,
+          "max": 7,
+          "autoDestroy": true
+        },
+        "damage": null,
+        "usage": {
+          "value": "held-in-one-hand"
+        },
+        "spell": null
+      },
+      "type": "consumable",
+      "_stats": {
+        "compendiumSource": "Compendium.pf2e.equipment-srd.Item.L9ZV076913otGtiB",
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "pf2e",
+        "systemVersion": "7.12.2",
+        "createdTime": 1776184458300,
+        "modifiedTime": 1776184458586,
+        "lastModifiedBy": "PSyRcSIZYjDSj8hT"
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "flags": {
+        "babele": {
+          "translated": true,
+          "hasTranslation": true,
+          "originalName": "Rations"
+        }
+      },
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "CTm8eP1ZJgePgUr9",
+      "img": "icons/sundries/lights/torch-brown.webp",
+      "name": "Antorcha",
+      "system": {
+        "description": {
+          "gm": "",
+          "value": "<p>Una antorcha emite luz brillante en un radio de 20 pies (6 m) y luz tenue en los siguientes 20 pies (6 m) durante 1 hora. Se puede usar como arma improvisada que inflige 1d4 daño contundente más 1 daño por fuego</p>"
+        },
+        "rules": [
+          {
+            "key": "TokenLight",
+            "predicate": [
+              "lit-torch"
+            ],
+            "value": {
+              "alpha": 0.3,
+              "animation": {
+                "intensity": 1,
+                "speed": 2,
+                "type": "flame"
+              },
+              "attenuation": 0.4,
+              "bright": 20,
+              "color": "#ffae3d",
+              "dim": 40,
+              "shadows": 0.2
+            }
+          },
+          {
+            "category": "simple",
+            "damage": {
+              "base": {
+                "damageType": "bludgeoning",
+                "dice": 1,
+                "die": "d4"
+              }
+            },
+            "key": "Strike",
+            "otherTags": [
+              "improvised"
+            ],
+            "predicate": [
+              {
+                "not": "lit-torch"
+              }
+            ]
+          },
+          {
+            "category": "simple",
+            "damage": {
+              "base": {
+                "damageType": "bludgeoning",
+                "dice": 1,
+                "die": "d4"
+              }
+            },
+            "img": "icons/sundries/lights/torch-brown-lit.webp",
+            "key": "Strike",
+            "otherTags": [
+              "improvised"
+            ],
+            "predicate": [
+              "lit-torch"
+            ]
+          },
+          {
+            "damageType": "fire",
+            "key": "FlatModifier",
+            "predicate": [
+              "lit-torch"
+            ],
+            "selector": "{item|_id}-damage",
+            "value": 1
+          },
+          {
+            "key": "RollOption",
+            "label": "PF2E.SpecificRule.LitTorch",
+            "option": "lit-torch",
+            "toggleable": true
+          },
+          {
+            "key": "TokenEffectIcon",
+            "predicate": [
+              "lit-torch"
+            ],
+            "value": "icons/sundries/lights/torch-brown-lit.webp"
+          }
+        ],
+        "slug": "torch",
+        "_migration": {
+          "version": 0.955,
+          "lastMigration": null,
+          "previous": null
+        },
+        "traits": {
+          "otherTags": [],
+          "value": [],
+          "rarity": "common"
+        },
+        "publication": {
+          "title": "Pathfinder Manual de juego",
+          "authors": "",
+          "license": "ORC",
+          "remaster": true
+        },
+        "level": {
+          "value": 0
+        },
+        "quantity": 5,
+        "baseItem": null,
+        "bulk": {
+          "value": 0.1
+        },
+        "hp": {
+          "value": 0,
+          "max": 0
+        },
+        "hardness": 0,
+        "price": {
+          "value": {
+            "cp": 1
+          }
+        },
+        "equipped": {
+          "carryType": "stowed",
+          "invested": null,
+          "handsHeld": 0
+        },
+        "containerId": "l7xL9gKSJjbrqawp",
+        "size": "med",
+        "material": {
+          "type": null,
+          "grade": null
+        },
+        "identification": {
+          "status": "identified",
+          "unidentified": {
+            "name": "",
+            "img": "",
+            "data": {
+              "description": {
+                "value": ""
+              }
+            }
+          }
+        },
+        "usage": {
+          "value": "held-in-one-hand"
+        },
+        "subitems": []
+      },
+      "type": "equipment",
+      "_stats": {
+        "compendiumSource": "Compendium.pf2e.equipment-srd.Item.8Jdw4yAzWYylGePS",
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "pf2e",
+        "systemVersion": "7.12.2",
+        "createdTime": 1776184458300,
+        "modifiedTime": 1776184458586,
+        "lastModifiedBy": "PSyRcSIZYjDSj8hT"
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "flags": {
+        "babele": {
+          "translated": true,
+          "hasTranslation": true,
+          "originalName": "Torch"
+        }
+      },
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "Rvq5U83mdhPXm2Qe",
+      "img": "systems/pf2e/icons/equipment/adventuring-gear/waterskin.webp",
+      "name": "Odre",
+      "system": {
+        "description": {
+          "gm": "",
+          "value": "<p> Cuando está lleno, un odre contiene aproximadamente la cantidad necesaria de agua de 1 día para una criatura Pequeña o Mediana</p>"
+        },
+        "rules": [],
+        "slug": "waterskin",
+        "_migration": {
+          "version": 0.955,
+          "lastMigration": null,
+          "previous": null
+        },
+        "traits": {
+          "otherTags": [],
+          "value": [],
+          "rarity": "common"
+        },
+        "publication": {
+          "title": "Pathfinder Manual de juego",
+          "authors": "",
+          "license": "ORC",
+          "remaster": true
+        },
+        "level": {
+          "value": 0
+        },
+        "quantity": 1,
+        "baseItem": null,
+        "bulk": {
+          "value": 0.1
+        },
+        "hp": {
+          "value": 0,
+          "max": 0
+        },
+        "hardness": 0,
+        "price": {
+          "value": {
+            "cp": 5
+          }
+        },
+        "equipped": {
+          "carryType": "stowed",
+          "invested": null,
+          "handsHeld": 0
+        },
+        "containerId": "l7xL9gKSJjbrqawp",
+        "size": "med",
+        "material": {
+          "type": null,
+          "grade": null
+        },
+        "identification": {
+          "status": "identified",
+          "unidentified": {
+            "name": "",
+            "img": "",
+            "data": {
+              "description": {
+                "value": ""
+              }
+            }
+          }
+        },
+        "usage": {
+          "value": "held-in-one-hand"
+        },
+        "subitems": []
+      },
+      "type": "equipment",
+      "_stats": {
+        "compendiumSource": "Compendium.pf2e.equipment-srd.Item.VnPh324pKwd2ZB66",
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "pf2e",
+        "systemVersion": "7.12.2",
+        "createdTime": 1776184458300,
+        "modifiedTime": 1776184458586,
+        "lastModifiedBy": "PSyRcSIZYjDSj8hT"
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "flags": {
+        "babele": {
+          "translated": true,
+          "hasTranslation": true,
+          "originalName": "Waterskin"
+        }
+      },
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "hcj3iREHcO7RB8hh",
+      "img": "icons/sundries/survival/soap.webp",
+      "name": "Jabón",
+      "system": {
+        "description": {
+          "gm": "",
+          "value": "<p> Pastilla de jabón. </p>"
+        },
+        "rules": [],
+        "slug": "soap",
+        "_migration": {
+          "version": 0.955,
+          "lastMigration": null,
+          "previous": null
+        },
+        "traits": {
+          "otherTags": [],
+          "value": [],
+          "rarity": "common"
+        },
+        "publication": {
+          "title": "Pathfinder Manual de juego",
+          "authors": "",
+          "license": "ORC",
+          "remaster": true
+        },
+        "level": {
+          "value": 0
+        },
+        "quantity": 1,
+        "baseItem": null,
+        "bulk": {
+          "value": 0
+        },
+        "hp": {
+          "value": 0,
+          "max": 0
+        },
+        "hardness": 0,
+        "price": {
+          "value": {
+            "cp": 2
+          }
+        },
+        "equipped": {
+          "carryType": "stowed",
+          "invested": null,
+          "handsHeld": 0
+        },
+        "containerId": "l7xL9gKSJjbrqawp",
+        "size": "med",
+        "material": {
+          "type": null,
+          "grade": null
+        },
+        "identification": {
+          "status": "identified",
+          "unidentified": {
+            "name": "",
+            "img": "",
+            "data": {
+              "description": {
+                "value": ""
+              }
+            }
+          }
+        },
+        "usage": {
+          "value": "held-in-one-hand"
+        },
+        "subitems": []
+      },
+      "type": "equipment",
+      "_stats": {
+        "compendiumSource": "Compendium.pf2e.equipment-srd.Item.81aHsD27HFGnq1Nt",
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "pf2e",
+        "systemVersion": "7.12.2",
+        "createdTime": 1776184458300,
+        "modifiedTime": 1776184458586,
+        "lastModifiedBy": "PSyRcSIZYjDSj8hT"
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "flags": {
+        "babele": {
+          "translated": true,
+          "hasTranslation": true,
+          "originalName": "Soap"
+        }
+      },
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "L31seBAgoM4aBahB",
+      "img": "systems/pf2e/icons/equipment/treasure/currency/platinum-pieces.webp",
+      "name": "Piezas de platino",
+      "system": {
+        "baseItem": null,
+        "bulk": {
+          "value": 1
+        },
+        "category": "coin",
+        "containerId": null,
+        "description": {
+          "value": "",
+          "gm": ""
+        },
+        "hardness": 0,
+        "hp": {
+          "max": 0,
+          "value": 0
+        },
+        "level": {
+          "value": 0
+        },
+        "material": {
+          "grade": null,
+          "type": null
+        },
+        "price": {
+          "value": {
+            "pp": 1
+          },
+          "per": 1
+        },
+        "publication": {
+          "license": "ORC",
+          "remaster": true,
+          "title": "Pathfinder Manual de juego",
+          "authors": ""
+        },
+        "quantity": 0,
+        "rules": [],
+        "size": "med",
+        "traits": {
+          "rarity": "common",
+          "value": [],
+          "otherTags": []
+        },
+        "slug": "platinum-pieces",
+        "_migration": {
+          "version": 0.955,
+          "previous": null
+        },
+        "equipped": {
+          "carryType": "worn"
+        },
+        "identification": {
+          "status": "identified",
+          "unidentified": null
+        },
+        "temporary": false
+      },
+      "type": "treasure",
+      "_stats": {
+        "compendiumSource": "Compendium.pf2e.equipment-srd.Item.JuNPeK5Qm1w6wpb4",
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "pf2e",
+        "systemVersion": "7.12.2",
+        "createdTime": 1776184458711,
+        "modifiedTime": 1776184458711,
+        "lastModifiedBy": "PSyRcSIZYjDSj8hT"
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "flags": {
+        "babele": {
+          "translated": true,
+          "hasTranslation": true,
+          "originalName": "Platinum Pieces"
+        }
+      },
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "1Yb8Vl7eGmkwgusg",
+      "img": "systems/pf2e/icons/equipment/treasure/currency/gold-pieces.webp",
+      "name": "Piezas de oro",
+      "system": {
+        "baseItem": null,
+        "bulk": {
+          "value": 1
+        },
+        "category": "coin",
+        "containerId": null,
+        "description": {
+          "value": "",
+          "gm": ""
+        },
+        "hardness": 0,
+        "hp": {
+          "max": 0,
+          "value": 0
+        },
+        "level": {
+          "value": 0
+        },
+        "material": {
+          "grade": null,
+          "type": null
+        },
+        "price": {
+          "value": {
+            "gp": 1
+          },
+          "per": 1
+        },
+        "publication": {
+          "license": "ORC",
+          "remaster": true,
+          "title": "Pathfinder Manual de juego",
+          "authors": ""
+        },
+        "quantity": 13,
+        "rules": [],
+        "size": "med",
+        "traits": {
+          "rarity": "common",
+          "value": [],
+          "otherTags": []
+        },
+        "slug": "gold-pieces",
+        "_migration": {
+          "version": 0.955,
+          "previous": null
+        },
+        "equipped": {
+          "carryType": "worn"
+        },
+        "identification": {
+          "status": "identified",
+          "unidentified": null
+        },
+        "temporary": false
+      },
+      "type": "treasure",
+      "_stats": {
+        "compendiumSource": "Compendium.pf2e.equipment-srd.Item.B6B7tBWJSqOBz5zz",
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "pf2e",
+        "systemVersion": "7.12.2",
+        "createdTime": 1776184458711,
+        "modifiedTime": 1776184458711,
+        "lastModifiedBy": "PSyRcSIZYjDSj8hT"
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "flags": {
+        "babele": {
+          "translated": true,
+          "hasTranslation": true,
+          "originalName": "Gold Pieces"
+        }
+      },
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "oG2dw4HaPZnYH9KE",
+      "img": "systems/pf2e/icons/equipment/treasure/currency/silver-pieces.webp",
+      "name": "Piezas de plata",
+      "system": {
+        "baseItem": null,
+        "bulk": {
+          "value": 1
+        },
+        "category": "coin",
+        "containerId": null,
+        "description": {
+          "value": "",
+          "gm": ""
+        },
+        "hardness": 0,
+        "hp": {
+          "max": 0,
+          "value": 0
+        },
+        "level": {
+          "value": 0
+        },
+        "material": {
+          "grade": null,
+          "type": null
+        },
+        "price": {
+          "value": {
+            "sp": 1
+          },
+          "per": 1
+        },
+        "publication": {
+          "license": "ORC",
+          "remaster": true,
+          "title": "Pathfinder Manual de juego",
+          "authors": ""
+        },
+        "quantity": 4,
+        "rules": [],
+        "size": "med",
+        "traits": {
+          "rarity": "common",
+          "value": [],
+          "otherTags": []
+        },
+        "slug": "silver-pieces",
+        "_migration": {
+          "version": 0.955,
+          "previous": null
+        },
+        "equipped": {
+          "carryType": "worn"
+        },
+        "identification": {
+          "status": "identified",
+          "unidentified": null
+        },
+        "temporary": false
+      },
+      "type": "treasure",
+      "_stats": {
+        "compendiumSource": "Compendium.pf2e.equipment-srd.Item.5Ew82vBF9YfaiY9f",
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "pf2e",
+        "systemVersion": "7.12.2",
+        "createdTime": 1776184458711,
+        "modifiedTime": 1776184458711,
+        "lastModifiedBy": "PSyRcSIZYjDSj8hT"
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "flags": {
+        "babele": {
+          "translated": true,
+          "hasTranslation": true,
+          "originalName": "Silver Pieces"
+        }
+      },
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "71EUOHK8lkJvkIfy",
+      "img": "systems/pf2e/icons/equipment/treasure/currency/copper-pieces.webp",
+      "name": "Piezas de cobre",
+      "system": {
+        "baseItem": null,
+        "bulk": {
+          "value": 1
+        },
+        "category": "coin",
+        "containerId": null,
+        "description": {
+          "value": "",
+          "gm": ""
+        },
+        "hardness": 0,
+        "hp": {
+          "max": 0,
+          "value": 0
+        },
+        "level": {
+          "value": 0
+        },
+        "material": {
+          "grade": null,
+          "type": null
+        },
+        "price": {
+          "value": {
+            "cp": 1
+          },
+          "per": 1
+        },
+        "publication": {
+          "license": "ORC",
+          "remaster": true,
+          "title": "Pathfinder Manual de juego",
+          "authors": ""
+        },
+        "quantity": 0,
+        "rules": [],
+        "size": "med",
+        "traits": {
+          "rarity": "common",
+          "value": [],
+          "otherTags": []
+        },
+        "slug": "copper-pieces",
+        "_migration": {
+          "version": 0.955,
+          "previous": null
+        },
+        "equipped": {
+          "carryType": "worn"
+        },
+        "identification": {
+          "status": "identified",
+          "unidentified": null
+        },
+        "temporary": false
+      },
+      "type": "treasure",
+      "_stats": {
+        "compendiumSource": "Compendium.pf2e.equipment-srd.Item.lzJ8AVhRcbFul5fh",
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "pf2e",
+        "systemVersion": "7.12.2",
+        "createdTime": 1776184458711,
+        "modifiedTime": 1776184458711,
+        "lastModifiedBy": "PSyRcSIZYjDSj8hT"
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "flags": {
+        "babele": {
+          "translated": true,
+          "hasTranslation": true,
+          "originalName": "Copper Pieces"
+        }
+      },
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "RKLMNHRVG671zOuh",
+      "folder": "mxeDA21feNRRstOp",
+      "img": "systems/pf2e/icons/deities/irori.webp",
+      "name": "Irori",
+      "system": {
+        "description": {
+          "gm": "",
+          "value": "<p>Cuando el Maestro de Maestros alcanzó la verdadera iluminación, se convirtió en un dios de la historia, el conocimiento y la autoperfección. Irori promueve la disciplina y enseña que quien puede dominarse a sí mismo encuentra los mayores beneficios que el mundo puede proporcionar. Su culto es más fuerte en la nación isleña de Jalmeray, pero se ha extendido por toda la Región del mar Interior</p>\n<p><strong>Área de interés</strong> autoperfección, conocimiento e historia </p>\n<p><strong>Edictos</strong> ser humilde; ayudar a los demás a perfeccionarse; perfeccionar el cuerpo, la mente y el espíritu; practicar la disciplina</p>\n<p><strong>Anatemas</strong> volverse adicto a una sustancia, destruir un texto histórico importante, perder el autocontrol repetidamente</p>"
+        },
+        "rules": [],
+        "slug": "irori",
+        "_migration": {
+          "version": 0.955,
+          "lastMigration": null,
+          "previous": null
+        },
+        "traits": {
+          "otherTags": []
+        },
+        "publication": {
+          "title": "Pathfinder Lost Omens: Misterios Divinos",
+          "authors": "",
+          "license": "ORC",
+          "remaster": true
+        },
+        "category": "deity",
+        "sanctification": {
+          "modal": "can",
+          "what": [
+            "holy",
+            "unholy"
+          ]
+        },
+        "domains": {
+          "primary": [
+            "knowledge",
+            "might",
+            "perfection",
+            "truth"
+          ],
+          "alternate": [
+            "change",
+            "introspection",
+            "vigil"
+          ]
+        },
+        "font": [
+          "harm",
+          "heal"
+        ],
+        "attribute": [
+          "int",
+          "wis"
+        ],
+        "skill": [
+          "athletics"
+        ],
+        "weapons": [
+          "fist"
+        ],
+        "spells": {
+          "1": "Compendium.pf2e.spells-srd.Item.Q7QQ91vQtyi1Ux36",
+          "3": "Compendium.pf2e.spells-srd.Item.o6YCGx4lycsYpww4",
+          "4": "Compendium.pf2e.spells-srd.Item.2BV2yYPfVJ5zirZt"
+        }
+      },
+      "type": "deity",
+      "_stats": {
+        "compendiumSource": "Compendium.pf2e.deities.Item.qqqrbq4uCrelQvgH",
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "pf2e",
+        "systemVersion": "7.12.2",
+        "createdTime": 1776618154216,
+        "modifiedTime": 1776618154216,
+        "lastModifiedBy": "6vkwW9ZQBJprckkK"
+      },
+      "effects": [],
+      "sort": 0,
+      "flags": {
+        "babele": {
+          "translated": true,
+          "hasTranslation": true,
+          "originalName": "Irori"
+        }
+      },
+      "ownership": {
+        "default": 0
+      }
+    }
+  ],
+  "folder": "pi9Yykm7fCtSdOCi",
+  "flags": {
+    "pathmuncher": {
+      "pathbuilderId": 436460,
+      "addMoney": true,
+      "addFeats": true,
+      "addSpells": true,
+      "adjustBlendedSlots": true,
+      "addEquipment": true,
+      "addTreasure": true,
+      "addLores": true,
+      "addWeapons": true,
+      "addArmor": true,
+      "addDeity": true,
+      "addName": true,
+      "addClass": true,
+      "addBackground": true,
+      "addHeritage": true,
+      "addAncestry": true,
+      "addFamiliars": true,
+      "addFormulas": true
+    },
+    "sequencer": {
+      "effects": []
+    },
+    "enhancedcombathud-pf2e": {
+      "lastSet": {
+        "active": "1"
+      }
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": {
+      "worldId": "pathfinder-prueba",
+      "uuid": "Actor.dC5271NxMnTi8FWl",
+      "coreVersion": "13.351",
+      "systemId": "pf2e",
+      "systemVersion": "7.12.2"
+    },
+    "coreVersion": "13.351",
+    "systemId": "pf2e",
+    "systemVersion": "7.12.2",
+    "createdTime": 1776182429195,
+    "modifiedTime": 1776625575483,
+    "lastModifiedBy": "6vkwW9ZQBJprckkK"
+  },
+  "ownership": {
+    "default": 1
+  }
+}

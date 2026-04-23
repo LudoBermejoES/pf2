@@ -34,6 +34,20 @@ Kingmaker es una Senda de Aventuras donde los jugadores recibirán un estatuto d
 
 ---
 
+## Personajes
+
+| Personaje | Clase |
+|-----------|-------|
+| [Nali de la Hierbarroja](/campana/personajes/nali-de-la-hierbarroja/) | Clérigo nivel 1 |
+| [Dain Golka](/campana/personajes/dain-golka/) | Guerrero nivel 1 |
+| [Laughlin Lodovka](/campana/personajes/laughlin-lodovka/) | Bardo nivel 1 |
+| [Durgan Garess](/campana/personajes/durgan-garess/) | Explorador nivel 1 |
+| [Gael Mouro](/campana/personajes/gael-mouro/) | Hechicero nivel 1 |
+| [SIM SIM](/campana/personajes/sim-sim/) | Monje nivel 1 |
+| [Tark 'Krap'](/campana/personajes/tark-krap/) | Bárbaro nivel 1 |
+
+---
+
 ## Creación de Personajes
 
 Para crear un personaje adecuado para Kingmaker, consulta las siguientes secciones:
