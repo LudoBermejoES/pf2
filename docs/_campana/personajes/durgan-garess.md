@@ -22,7 +22,7 @@ source: Kingmaker
 | **Nivel** | 1 |
 | **Ascendencia** | [Enano](/ascendencias/enano/) |
 | **Linaje** | Enano de sangre fuerte |
-| **Bagaje** | Barman |
+| **Bagaje** | Herbolario |
 | **Deidad** | Torag |
 | **Género** | Masculino |
 | **Edad** | 63 |
@@ -78,13 +78,13 @@ source: Kingmaker
 | Habilidad | Rango | Modificador total |
 |-----------|-------|:-----------------:|
 | [Atletismo](/habilidades/atletismo/) | Entrenado | +6 |
-| [Diplomacia](/habilidades/diplomacia/) | Entrenado | +5 |
+| [Artesanía](/habilidades/artesania/) | Entrenado | +4 |
 | [Intimidación](/habilidades/intimidacion/) | Entrenado | +5 |
 | [Medicina](/habilidades/medicina/) | Entrenado | +6 |
 | [Naturaleza](/habilidades/naturaleza/) | Entrenado | +6 |
 | [Sigilo](/habilidades/sigilo/) | Entrenado | +7 |
 | [Supervivencia](/habilidades/supervivencia/) | Entrenado | +6 |
-| Saber (Alcohol) | Entrenado | +4 |
+| Saber (Herbalism) | Entrenado | +4 |
 
 | CD de clase | **16** (10 + +2 Fue + 3 entrenado) |
 
@@ -98,8 +98,8 @@ source: Kingmaker
 |------|------|:-----:|
 | [As de la ballesta](/dotes/explorador/as-de-la-ballesta/) | Dote de clase | 1 |
 | Borde del clan | Dote de ascendencia | 1 |
-| [Confraternizador](/dotes/habilidad/confraternizador/) | Dote de habilidad | 1 |
 | Daga de clan | ancestryfeature | 1 |
+| [Medicina natural](/dotes/habilidad/medicina-natural/) | Dote de habilidad | 1 |
 | Perseguir presa | Aptitud de clase | 1 |
 | Precisión | Aptitud de clase | 1 |
 | Ventaja del cazador | Aptitud de clase | 1 |
@@ -158,6 +158,6 @@ source: Kingmaker
 ## Notas de juego
 
 Durgan Garess es un(a) **Explorador** de nivel 1.
-Su bagaje es **Barman**.
+Su bagaje es **Herbolario**.
 
 → [Ejemplos de juego: cómo jugar a Durgan Garess](/campana/personajes/ejemplos/durgan-garess/)

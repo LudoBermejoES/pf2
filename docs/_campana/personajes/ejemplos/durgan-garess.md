@@ -118,17 +118,21 @@ Durgan se mueve 6 m y recarga en el mismo movimiento.
 
 ---
 
-### Dote especial: [Confraternizador](/dotes/habilidad/confraternizador/)
+### Dote especial: [Medicina Natural](/dotes/habilidad/medicina-natural/)
 
-En combate, si Durgan convence a un enemigo de rendirse o actúa con demostración de fuerza intimidante, puede usar [Diplomacia](/habilidades/diplomacia/) en lugar de Intimidación para estas tiradas sociales.
+El bagaje de **Herbolario** de Durgan le ha dado acceso a la dote Medicina Natural: puede usar [Naturaleza](/habilidades/naturaleza/) en lugar de [Medicina](/habilidades/medicina/) para **Tratar Heridas**.
 
-> **Situación:** Tres bandidos han visto caer a su jefe. Durgan apunta su ballesta al segundo al mando.
->
-> **Jugador:** "Digo: 'Os doy 10 segundos para soltar las armas. Vuestro jefe ha muerto. No tiene sentido seguir.' Uso Confraternizador con Diplomacia."
+> **Por qué importa:** Naturaleza +6 y Medicina +6 tienen el mismo modificador, pero Durgan tiene entrenamiento en Naturaleza por bagaje. En caso de fallo crítico en Medicina (que impide tratar al mismo paciente durante una hora), puede cambiar a Naturaleza y volver a intentarlo.
 
-**Tirada de Diplomacia:** 1d20+5 = 18+5 = **23**
+**Situación:** Tras el combate, Gael está herido gravemente (12 PG perdidos). Durgan saca sus hierbas medicinales.
 
-> **DJ:** "El segundo al mando mira el cuerpo de su jefe, luego a sus compañeros. Tira la espada. 'Está bien. Está bien, no disparéis.'"
+> **Jugador:** "Trato las heridas de Gael con mis hierbas. Uso Naturaleza (Medicina Natural)."
+
+**Tirada de Naturaleza CD 15:** 1d20+6 = 14+6 = **20** → Éxito → **2d8 PG** restaurados
+
+- **Resultado:** 2d8 = 9 PG restaurados
+
+> **Ventaja del Herbolario:** Con un **kit de herbología** (que Durgan lleva), la CD de Tratar Heridas se reduce en 2 (CD 13 en lugar de 15), lo que hace que los éxitos sean mucho más frecuentes. Esto representa el bagaje de Durgan — conoce las plantas curativas del terreno.
 
 ---
 
@@ -192,11 +196,13 @@ Si tiene éxito, el grupo sabe exactamente cuántos hay, dónde están y qué de
 
 Tras la persecución y el combate, el grupo acampa en el borde del pantano. Durgan tiene tareas específicas durante el descanso.
 
-### Curar Heridas Básico
+### Curar Heridas con Medicina Natural
 
-Con [Medicina](/habilidades/medicina/) +6, Durgan puede curar al grupo entre combates (aunque Nali es mejor en esto).
+Durgan puede usar [Naturaleza](/habilidades/naturaleza/) +6 o [Medicina](/habilidades/medicina/) +6 para Tratar Heridas gracias a su dote **Medicina Natural**. Con su kit de herbología, la CD baja a 13.
 
-**Tirada de Medicina CD 15:** 1d20+6 = 13+6 = **19** → Éxito → **2d8 PG** al aliado tratado
+**Tirada de Naturaleza CD 13:** 1d20+6 = 13+6 = **19** → Éxito → **2d8 PG** al aliado tratado
+
+> Aunque Nali es la principal sanadora del grupo, Durgan puede tratar a un segundo aliado al mismo tiempo — o tratar a alguien mientras Nali descansa. Dos sanadores en el campo son siempre mejor que uno.
 
 ---
 
@@ -204,21 +210,21 @@ Con [Medicina](/habilidades/medicina/) +6, Durgan puede curar al grupo entre com
 
 Las ballestas simples son robustas pero requieren mantenimiento regular, especialmente en terreno húmedo como el pantano.
 
-> **Regla opcional:** El DJ puede pedir una tirada de [Manualidades](/habilidades/manualidades/) para mantener el equipo en buen estado tras un día de uso intenso en terreno adverso. Sin Manualidades entrenada, Durgan improvisa con lo que tiene.
+> **Regla opcional:** El DJ puede pedir una tirada de [Artesanía](/habilidades/artesania/) para mantener el equipo en buen estado tras un día de uso intenso en terreno adverso. Durgan tiene Artesanía entrenada (+4) — puede reparar su ballesta o su equipo de campo sin ayuda.
 
 ---
 
-### Saber (Alcohol) — La herramienta inesperada
+### Saber (Herbalism) — Conocimiento del terreno
 
-El bagaje de Barman de Durgan le dio Saber (Alcohol) +4. ¿Para qué sirve esto en las Tierras Robadas?
+El bagaje de **Herbolario** de Durgan le dio Saber (Herbalism) +4. En las Tierras Robadas, este conocimiento tiene valor práctico.
 
-> **Jugador:** "¿Sé algo sobre el tipo de bebida que fabrican los bandidos locales? Oleg me ha dicho que los compran a proveedores del norte."
+> **Jugador:** "Estamos en el pantano. ¿Reconozco alguna planta útil que pueda usar para curar o para fabricar veneno de contacto?"
 
-**Tirada de Saber (Alcohol):** 1d20+4 = 16+4 = **20** → Éxito
+**Tirada de Saber (Herbalism):** 1d20+4 = 16+4 = **20** → Éxito
 
-> **DJ:** "Durgan reconoce que el Kvass que se sirve en el campamento es claramente de fabricación issiense — específicamente del estilo de [Nueva Stetven](/campana/brevoy/nueva-stetven/). Alguien de las casas del norte está financiando esta operación."
+> **DJ:** "Durgan identifica una mata de cañamazo junto al arroyo — sus raíces hervidas alivian infecciones. Con 10 minutos de recolección y una tirada de Naturaleza CD 12, puedes preparar un ungüento que da +1 a la siguiente tirada de Tratar Heridas."
 
-*El Saber (Alcohol) resulta ser una pista de inteligencia inesperada.*
+*El Saber (Herbalism) amplía el rol de Durgan como curandero de campo del grupo.*
 
 ---
 
