@@ -23,10 +23,10 @@ El grupo se enfrenta a un ogro que defiende un puente en las colinas de las Tier
 
 | Estadística | Valor | En Furia |
 |-------------|-------|----------|
-| CA | 19 | 17 (pierde 2 mientras está en Furia) |
-| PG | 20 | 28 (suma +2 por nivel × 4 = +8 PG temporales) |
+| CA | 19 | 18 (-1 de estado por Furia) |
+| PG | 20 | 20 (el instinto de Dragón no da PG temporales) |
 | Velocidad | 7,5 m | 7,5 m |
-| Horsechopper | +8, 1d8+4 | +10, 1d8+8 (Fuerza sube a 22, +6) |
+| Horsechopper | +8, 1d8+4 | +8, 1d8+6 (+2 daño de Furia) + daño elemental |
 
 ---
 
@@ -38,13 +38,11 @@ El grupo se enfrenta a un ogro que defiende un puente en las colinas de las Tier
 
 Tark entra en Furia. Los efectos:
 
-- **+2 a tiradas de daño cuerpo a cuerpo** (el Horsechopper hace ahora 1d8+6)
-- **+2 de estado a tiradas de Fuerza y Constitución**
-- Suma **PG temporales** iguales a su nivel (1) + modificador de Constitución (+2) = **3 PG temporales**
+- **+2 a tiradas de daño cuerpo a cuerpo** por defecto — o **+4 de daño mental** si activa la habilidad del instinto dracónico (*Ira Dracónica*)
 - **-1 de estado a CA** mientras está en Furia (CA: 19 → 18)
 - **No puede usar acciones que requieran concentración** ni lanzar conjuros
 
-> **Por qué la CA baja:** La Furia hace a Tark más agresivo y menos cuidadoso con su defensa. Los 3 PG temporales ayudan a compensar esto.
+> **Habilidad del instinto — Ira Dracónica:** Al entrar en Furia, Tark elige entre +2 de daño genérico o +4 de daño mental (Dragón Augurio). Casi siempre conviene el +4. La acción Ira gana los rasgos "oculta" y "mental". Las resistencias y el aliento llegan a niveles superiores (nivel 9 y nivel 6 respectivamente).
 
 **Acción 2 {% include accion.html tipo="1" %}: Golpear (Horsechopper)**
 
@@ -62,27 +60,29 @@ Tark entra en Furia. Los efectos:
 
 ---
 
-### Asalto 2 — Instinto de Dragón Presagio
+### Asalto 2 — Ira Dracónica: +4 de daño mental
 
-El instinto de Dragón Presagio de Tark le da capacidades únicas relacionadas con la magia del destino y las garras.
+La **habilidad del instinto** del Dragón Augurio es *Ira Dracónica*: al entrar en Furia, Tark puede optar por hacer **+4 de daño mental** en sus ataques en lugar del +2 de daño genérico habitual. Esto hace que cada golpe sea más doloroso y difícil de resistir para muchos enemigos.
 
-**Aptitud especial: Golpe de Garras (Dragón Presagio)**
+> **A nivel 1, el instinto de Dragón da exactamente esto:** +4 de daño de un tipo específico (mental para el Augurio) en lugar de +2 genérico. Sin garras, sin aliento, sin resistencias todavía. El aliento llega con la dote [Aliento de Ira Dracónica](/dotes/barbaro/aliento-de-ira-draconica/) al nivel 6, y las resistencias al nivel 9.
 
-Los ataques con garras de Tark mientras está en Furia hacen daño de un tipo específico según el color del dragón de su instinto.
+**Acción 1-2 {% include accion.html tipo="2" %}: [Carga Repentina](/dotes/barbaro/carga-repentina/)**
 
-> *Nota: Los detalles específicos del tipo de daño dependen del dragón presagio elegido. Con Dragón Presagio, el énfasis está en la predicción y la fortuna — Tark puede "saber" qué va a pasar antes de que suceda.*
+> **Jugador:** "¡Carga repentina al ogro y le machaco!"
 
-**Acción 1-2 {% include accion.html tipo="2" %}: Carga Repentina**
-
-> **Jugador:** "Uso [Carga Repentina](/dotes/guerrero/carga-repentina/) hacia el ogro y golpeo."
-
-Aunque es una dote de Guerrero, Tark la tiene por su trasfondo de combate. Se mueve el doble de velocidad (15 m) en línea recta y hace un ataque al final.
+Tark se mueve el doble de su velocidad (15 m) en línea recta y golpea al llegar.
 
 - **Movimiento:** 15 m (el doble de 7,5 m)
 - **Ataque al llegar:** 1d20+8 = 18+8 = **26** → Éxito crítico
-- **Daño:** (1d8+6) × 2 = (7+6) × 2 = **26 de daño**
+- **Daño:** (1d8+6) × 2 = (7+6) × 2 = **26 de daño** + daño elemental del instinto
 
 El ogro cae.
+
+> **Instinto de Dragón vs otros instintos a nivel 1:**
+> - **Animal (Oso):** PG temporales extra en Furia
+> - **Dragón:** Daño elemental en cada golpe + resistencia al mismo elemento
+> - **Gigante:** Lanzar objetos y ampliar alcance
+> - **Furia:** Daño por estado Persistente al impactar
 
 ---
 

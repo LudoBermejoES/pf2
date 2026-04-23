@@ -113,20 +113,21 @@ Cuando alguien te ataca y no tienes el escudo alzado, puedes usar esta reacción
 
 ---
 
-### Dote especial: [Carga Repentina](/dotes/guerrero/carga-repentina/)
+### Aptitud especial: Golpe Reactivo
 
-Nali está siendo atacada por dos orcos y necesita ayuda urgente. Ella está a 12 m.
+Dain tiene **Golpe Reactivo** — la aptitud de clase del guerrero que le permite hacer un ataque de oportunidad cuando un enemigo usa una acción de manipulación, movimiento, o lanza un conjuro a su alcance.
 
-> **Jugador:** "Uso Carga Repentina: me muevo hasta ella y ataco al orco de camino."
+**Situación:** Un bandido mago intenta lanzar un conjuro a 1,5 m de Dain.
 
-**[Carga Repentina](/dotes/guerrero/carga-repentina/) {% include accion.html tipo="2" %}**
+> **Jugador:** "Usa Golpe Reactivo."
 
-Con 2 acciones: Dain mueve hasta el doble de su velocidad (12 m) en línea recta y hace **un ataque al llegar**. El ataque no sufre la penalización de movimiento.
+**Reacción {% include accion.html tipo="r" %}: Golpe Reactivo**
 
-- **Movimiento:** 12 m (el doble de su velocidad de 6 m)
-- **Ataque al llegar:** 1d20+10 = 17+10 = **27** → Éxito crítico → **daño doble**
+- El conjuro tiene el rasgo Manipular → activa Golpe Reactivo
+- **Tirada de ataque:** 1d20+10 = 14+10 = **24** vs CA 15 → **Éxito**
+- **Daño:** 1d8+4 = 6+4 = **10 de daño** — el mago pierde la concentración y el conjuro falla
 
-> **Regla importante:** La Carga Repentina requiere movimiento en línea recta. No puedes doblar esquinas. Planifica la posición con antelación.
+> **Por qué es poderoso:** Golpe Reactivo convierte a Dain en una zona de control. Los enemigos que intenten moverse, lanzar conjuros o usar objetos adyacentes a él arriesgan un ataque gratis. Fuerza a los rivales a elegir entre atacarle o sufrir el golpe de oportunidad.
 
 ---
 
@@ -135,7 +136,7 @@ Con 2 acciones: Dain mueve hasta el doble de su velocidad (12 m) en línea recta
 | Situación | Acción recomendada |
 |-----------|-------------------|
 | Inicio del combate, enemigo cerca | Alzar Escudo → Zancada → Golpear |
-| Enemigo lejos (>6 m) | Carga Repentina (2 acciones) |
+| Enemigo lejos (>6 m) | Zancada + Golpear (2 acciones) |
 | Enemigo en CA alta | 1 ataque + Alzar Escudo (ahorra la penalización) |
 | Serás golpeado sin escudo alzado | Escudo Reactivo (reacción) |
 | Te golpean con escudo alzado | Bloqueo con el Escudo (reacción) |
@@ -231,7 +232,8 @@ Durante el descanso, Dain y el grupo pueden planificar para el día siguiente us
 ## Consejos para Jugar a Dain
 
 1. **Siempre empieza el turno alzando el escudo** — la CA 19 (vs 18 sin escudo) puede ser la diferencia entre recibir un golpe o no.
-2. **Escudo Reactivo es tu red de seguridad** — cuando te pillen desprevenido, úsalo; pero recuerda que solo tienes 1 reacción por turno.
-3. **Bloqueo con el Escudo vs Escudo Reactivo no se excluyen** — puedes alzar el escudo reactivamente Y bloquearlo en el mismo turno (si tienes aún la reacción del bloqueo).
+2. **Golpe Reactivo obliga a los enemigos a respetarte** — cualquier acción de Manipulación, movimiento o conjuro adyacente te da un ataque gratis. Los magos enemigos no pueden lanzar junto a ti sin pagar el precio.
+3. **Escudo Reactivo y Golpe Reactivo compiten por tu reacción** — solo tienes una por turno. Prioriza Golpe Reactivo si hay un mago cerca; Escudo Reactivo si esperas un golpe físico grande.
+4. **Bloqueo con el Escudo vs Escudo Reactivo no se excluyen** — puedes alzar el escudo reactivamente Y bloquearlo si recibes otro golpe después (son reacciones distintas que se restauran al inicio de tu turno).
 4. **Tu segunda acción de ataque tiene -5** — a nivel 1 suele ser mejor alzar el escudo que arriesgar el segundo golpe.
 5. **Posiciónate entre los enemigos y los magos/sanadores** — tu trabajo es que los enemigos tengan que pasar por ti. [Guardia](/reglas/acciones/guardia/) puede forzarles a hacerte caso.
