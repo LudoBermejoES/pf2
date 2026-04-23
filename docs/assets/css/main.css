@@ -707,6 +707,19 @@ tbody tr:last-child td {
   font-weight: 600;
 }
 
+/* Links de ejemplos indentados (↳) */
+.subsection-links a[href*="/ejemplos/"] {
+  padding-left: calc(var(--spacing-sm) + var(--spacing-md));
+  font-size: 0.8rem;
+  color: var(--text-muted);
+  opacity: 0.85;
+}
+
+.subsection-links a[href*="/ejemplos/"]:hover {
+  opacity: 1;
+  padding-left: calc(var(--spacing-md) + var(--spacing-md));
+}
+
 /* ============================================
    MAIN CONTENT
    ============================================ */
