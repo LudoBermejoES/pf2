@@ -39,7 +39,7 @@ source: Kingmaker
 | **Constitución** | 16 | +3 |
 | **Inteligencia** | 12 | +1 |
 | **Sabiduría** | 12 | +1 |
-| **Carisma** | 12 | +1 |
+| **Carisma** | 10 | +0 |
 
 ---
 
@@ -47,11 +47,11 @@ source: Kingmaker
 
 | Defensa | Total | Desglose |
 |---------|:-----:|----------|
-| **CA** | **18** | 10 + 4 (armadura) + 3 (competencia) |
-| **Fortaleza** | +9 | +3 (Con) + 5 (experto) |
-| **Reflejos** | +6 | +0 (Des) + 5 (experto) |
-| **Voluntad** | +5 | +1 (Sab) + 3 (entrenado) |
-| **Percepción** | +7 | +1 (Sab) + 5 (experto) |
+| **CA** | **17** | 10 + 4 (armadura) + 3 (competencia) |
+| **Fortaleza** | +8 | +3 (Con) + 5 (experto) |
+| **Reflejos** | +5 | +0 (Des) + 5 (experto) |
+| **Voluntad** | +4 | +1 (Sab) + 3 (entrenado) |
+| **Percepción** | +6 | +1 (Sab) + 5 (experto) |
 
 ---
 
@@ -74,14 +74,14 @@ source: Kingmaker
 
 | Habilidad | Rango | Modificador total |
 |-----------|-------|:-----------------:|
-| [Atletismo](/habilidades/atletismo/) | Entrenado | +8 |
-| [Intimidación](/habilidades/intimidacion/) | Entrenado | +5 |
-| [Sociedad](/habilidades/sociedad/) | Entrenado | +5 |
-| [Sigilo](/habilidades/sigilo/) | Entrenado | +4 |
-| [Supervivencia](/habilidades/supervivencia/) | Entrenado | +5 |
-| Saber (Warfare) | Entrenado | +5 |
+| [Atletismo](/habilidades/atletismo/) | Entrenado | +7 |
+| [Intimidación](/habilidades/intimidacion/) | Entrenado | +3 |
+| [Sociedad](/habilidades/sociedad/) | Entrenado | +4 |
+| [Sigilo](/habilidades/sigilo/) | Entrenado | +3 |
+| [Supervivencia](/habilidades/supervivencia/) | Entrenado | +4 |
+| Saber (Warfare) | Entrenado | +4 |
 
-| CD de clase | **18** (10 + +4 Fue + 3 entrenado) |
+| CD de clase | **17** (10 + +4 Fue + 3 entrenado) |
 
 ---
 
@@ -110,7 +110,8 @@ source: Kingmaker
 
 | Arma | Tipo | Ataque | Daño | Tipo de daño |
 |------|------|:------:|------|:------------:|
-| [Martillo de guerra](/equipo/armas/martillo-guerra/) | Marcial | +10 | 1d8 | Contundente |
+| [Martillo de guerra](/equipo/armas/martillo-guerra/) | Marcial | +9 | 1d8 | Contundente |
+| [Daga de clan](/equipo/armas/daga-clan/) | Simple | +9 | 1d4 | Perforante |
 
 ---
 

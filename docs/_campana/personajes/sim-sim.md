@@ -51,11 +51,11 @@ source: Kingmaker
 
 | Defensa | Total | Desglose |
 |---------|:-----:|----------|
-| **CA** | **17** | 10 + +1 (Des) + 5 (competencia) |
-| **Fortaleza** | +6 | +0 (Con) + 5 (experto) |
-| **Reflejos** | +7 | +1 (Des) + 5 (experto) |
-| **Voluntad** | +6 | +0 (Sab) + 5 (experto) |
-| **Percepción** | +4 | +0 (Sab) + 3 (entrenado) |
+| **CA** | **16** | 10 + +1 (Des) + 5 (competencia) |
+| **Fortaleza** | +5 | +0 (Con) + 5 (experto) |
+| **Reflejos** | +6 | +1 (Des) + 5 (experto) |
+| **Voluntad** | +5 | +0 (Sab) + 5 (experto) |
+| **Percepción** | +3 | +0 (Sab) + 3 (entrenado) |
 
 ---
 
@@ -73,14 +73,14 @@ source: Kingmaker
 
 | Habilidad | Rango | Modificador total |
 |-----------|-------|:-----------------:|
-| [Acrobacias](/habilidades/acrobacias/) | Entrenado | +5 |
-| [Atletismo](/habilidades/atletismo/) | Entrenado | +4 |
-| [Engaño](/habilidades/engano/) | Entrenado | +4 |
-| [Ocultismo](/habilidades/ocultismo/) | Entrenado | +4 |
-| [Religión](/habilidades/religion/) | Entrenado | +4 |
-| Saber (One Terrain) | Entrenado | +4 |
+| [Acrobacias](/habilidades/acrobacias/) | Entrenado | +4 |
+| [Atletismo](/habilidades/atletismo/) | Entrenado | +3 |
+| [Engaño](/habilidades/engano/) | Entrenado | +3 |
+| [Ocultismo](/habilidades/ocultismo/) | Entrenado | +3 |
+| [Religión](/habilidades/religion/) | Entrenado | +3 |
+| Saber (One Terrain) | Entrenado | +3 |
 
-| CD de clase | **15** (10 + +1 Des + 3 entrenado) |
+| CD de clase | **14** (10 + +1 Des + 3 entrenado) |
 
 ---
 

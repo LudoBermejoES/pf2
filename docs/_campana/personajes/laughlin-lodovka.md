@@ -30,7 +30,7 @@ source: Kingmaker
 | **Tamaño** | Mediano |
 | **Velocidad** | 9 metros (30 pies) |
 | **Atributo clave** | Carisma |
-| **Puntos de Golpe** | 14 (6 ascendencia + 8 clase) |
+| **Puntos de Golpe** | 13 (6 ascendencia + 8 clase + -1 Con) |
 
 ---
 
@@ -40,7 +40,7 @@ source: Kingmaker
 |----------|:----------:|:-----------:|
 | **Fuerza** | 10 | +0 |
 | **Destreza** | 14 | +2 |
-| **Constitución** | 10 | +0 |
+| **Constitución** | 8 | -1 |
 | **Inteligencia** | 14 | +2 |
 | **Sabiduría** | 12 | +1 |
 | **Carisma** | 16 | +3 |
@@ -51,11 +51,11 @@ source: Kingmaker
 
 | Defensa | Total | Desglose |
 |---------|:-----:|----------|
-| **CA** | **18** | 10 + 2 (armadura) + 2 (Des) + 3 (competencia) |
-| **Fortaleza** | +4 | +0 (Con) + 3 (entrenado) |
-| **Reflejos** | +6 | +2 (Des) + 3 (entrenado) |
-| **Voluntad** | +7 | +1 (Sab) + 5 (experto) |
-| **Percepción** | +7 | +1 (Sab) + 5 (experto) |
+| **CA** | **17** | 10 + 2 (armadura) + 2 (Des) + 3 (competencia) |
+| **Fortaleza** | +2 | -1 (Con) + 3 (entrenado) |
+| **Reflejos** | +5 | +2 (Des) + 3 (entrenado) |
+| **Voluntad** | +6 | +1 (Sab) + 5 (experto) |
+| **Percepción** | +6 | +1 (Sab) + 5 (experto) |
 
 ---
 
@@ -75,20 +75,20 @@ source: Kingmaker
 
 | Habilidad | Rango | Modificador total |
 |-----------|-------|:-----------------:|
-| [Engaño](/habilidades/engano/) | Entrenado | +7 |
-| [Diplomacia](/habilidades/diplomacia/) | Entrenado | +7 |
-| [Intimidación](/habilidades/intimidacion/) | Entrenado | +7 |
-| [Medicina](/habilidades/medicina/) | Entrenado | +5 |
-| [Ocultismo](/habilidades/ocultismo/) | Entrenado | +6 |
-| [Interpretación](/habilidades/interpretacion/) | Entrenado | +7 |
-| [Religión](/habilidades/religion/) | Entrenado | +5 |
-| [Sociedad](/habilidades/sociedad/) | Entrenado | +6 |
-| [Sigilo](/habilidades/sigilo/) | Entrenado | +6 |
-| [Trapacería](/habilidades/trapaceria/) | Entrenado | +6 |
-| Saber (Bardic) | Entrenado | +6 |
-| Saber (Politics) | Entrenado | +6 |
+| [Engaño](/habilidades/engano/) | Entrenado | +6 |
+| [Diplomacia](/habilidades/diplomacia/) | Entrenado | +6 |
+| [Intimidación](/habilidades/intimidacion/) | Entrenado | +6 |
+| [Medicina](/habilidades/medicina/) | Entrenado | +4 |
+| [Ocultismo](/habilidades/ocultismo/) | Entrenado | +5 |
+| [Interpretación](/habilidades/interpretacion/) | Entrenado | +6 |
+| [Religión](/habilidades/religion/) | Entrenado | +4 |
+| [Sociedad](/habilidades/sociedad/) | Entrenado | +5 |
+| [Sigilo](/habilidades/sigilo/) | Entrenado | +5 |
+| [Trapacería](/habilidades/trapaceria/) | Entrenado | +5 |
+| Saber (Bardic) | Entrenado | +5 |
+| Saber (Politics) | Entrenado | +5 |
 
-| CD de clase | **17** (10 + +3 Car + 3 entrenado) |
+| CD de clase | **16** (10 + +3 Car + 3 entrenado) |
 
 ---
 
@@ -123,8 +123,8 @@ source: Kingmaker
 
 | Arma | Tipo | Ataque | Daño | Tipo de daño |
 |------|------|:------:|------|:------------:|
-| [Arco largo](/equipo/armas/arco-largo/) | Marcial | +6 | 1d8 | Perforante |
-| [Daga](/equipo/armas/daga/) | Simple | +6 | 1d4 | Perforante |
+| [Arco largo](/equipo/armas/arco-largo/) | Marcial | +5 | 1d8 | Perforante |
+| [Daga](/equipo/armas/daga/) | Simple | +5 | 1d4 | Perforante |
 
 ---
 
@@ -136,18 +136,18 @@ source: Kingmaker
 
 ---
 
-## Conjuros — Bard (Oculta, espontáneo)
+## Conjuros — Bardo (Oculta, espontáneo)
 
-**CD de conjuro:** 17 (10 + 3 Car + 3 entrenado)  
-**Modificador de ataque de conjuro:** +7
+**CD de conjuro:** 16 (10 + 3 Car + 3 entrenado)  
+**Modificador de ataque de conjuro:** +6
 
 ### Rango 1 — 2 casillas/día
 
 
 ## Conjuros — Occult Focus Tradition (Oculta, concentración)
 
-**CD de conjuro:** 17 (10 + 3 Car + 3 entrenado)  
-**Modificador de ataque de conjuro:** +7
+**CD de conjuro:** 16 (10 + 3 Car + 3 entrenado)  
+**Modificador de ataque de conjuro:** +6
 
 ### Trucos (rango 0) — ilimitados
 

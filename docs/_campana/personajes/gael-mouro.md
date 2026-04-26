@@ -52,11 +52,11 @@ source: Kingmaker
 
 | Defensa | Total | Desglose |
 |---------|:-----:|----------|
-| **CA** | **17** | 10 + +3 (Des) + 3 (competencia) |
-| **Fortaleza** | +5 | +1 (Con) + 3 (entrenado) |
-| **Reflejos** | +7 | +3 (Des) + 3 (entrenado) |
-| **Voluntad** | +6 | +0 (Sab) + 5 (experto) |
-| **Percepción** | +4 | +0 (Sab) + 3 (entrenado) |
+| **CA** | **16** | 10 + +3 (Des) + 3 (competencia) |
+| **Fortaleza** | +4 | +1 (Con) + 3 (entrenado) |
+| **Reflejos** | +6 | +3 (Des) + 3 (entrenado) |
+| **Voluntad** | +5 | +0 (Sab) + 5 (experto) |
+| **Percepción** | +3 | +0 (Sab) + 3 (entrenado) |
 
 ---
 
@@ -74,14 +74,14 @@ source: Kingmaker
 
 | Habilidad | Rango | Modificador total |
 |-----------|-------|:-----------------:|
-| [Arcanos](/habilidades/arcanos/) | Entrenado | +5 |
-| [Engaño](/habilidades/engano/) | Entrenado | +8 |
-| [Diplomacia](/habilidades/diplomacia/) | Entrenado | +8 |
-| [Naturaleza](/habilidades/naturaleza/) | Entrenado | +4 |
-| [Interpretación](/habilidades/interpretacion/) | Entrenado | +8 |
-| Saber (Fey) | Entrenado | +5 |
+| [Arcanos](/habilidades/arcanos/) | Entrenado | +4 |
+| [Engaño](/habilidades/engano/) | Entrenado | +7 |
+| [Diplomacia](/habilidades/diplomacia/) | Entrenado | +7 |
+| [Naturaleza](/habilidades/naturaleza/) | Entrenado | +3 |
+| [Interpretación](/habilidades/interpretacion/) | Entrenado | +7 |
+| Saber (Fey) | Entrenado | +4 |
 
-| CD de clase | **18** (10 + +4 Car + 3 entrenado) |
+| CD de clase | **17** (10 + +4 Car + 3 entrenado) |
 
 ---
 
@@ -115,14 +115,14 @@ source: Kingmaker
 
 | Arma | Tipo | Ataque | Daño | Tipo de daño |
 |------|------|:------:|------|:------------:|
-| [Bastón](/equipo/armas/baston/) | Simple | +4 | 1d4 | Contundente |
+| [Bastón](/equipo/armas/baston/) | Simple | +3 | 1d4 | Contundente |
 
 ---
 
-## Conjuros — Sorcerer (Primaria, espontáneo)
+## Conjuros — Hechicero (Primaria, espontáneo)
 
-**CD de conjuro:** 18 (10 + 4 Car + 3 entrenado)  
-**Modificador de ataque de conjuro:** +8
+**CD de conjuro:** 17 (10 + 4 Car + 3 entrenado)  
+**Modificador de ataque de conjuro:** +7
 
 ### Trucos (rango 0) — ilimitados
 
@@ -140,8 +140,8 @@ source: Kingmaker
 
 ## Conjuros — Primal Focus Tradition (Primaria, concentración)
 
-**CD de conjuro:** 18 (10 + 4 Car + 3 entrenado)  
-**Modificador de ataque de conjuro:** +8
+**CD de conjuro:** 17 (10 + 4 Car + 3 entrenado)  
+**Modificador de ataque de conjuro:** +7
 
 ---
 

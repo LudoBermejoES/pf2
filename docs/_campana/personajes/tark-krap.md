@@ -42,7 +42,7 @@ source: Kingmaker
 | **Destreza** | 14 | +2 |
 | **Constitución** | 14 | +2 |
 | **Inteligencia** | 10 | +0 |
-| **Sabiduría** | 12 | +1 |
+| **Sabiduría** | 10 | +0 |
 | **Carisma** | 12 | +1 |
 
 ---
@@ -51,11 +51,11 @@ source: Kingmaker
 
 | Defensa | Total | Desglose |
 |---------|:-----:|----------|
-| **CA** | **19** | 10 + 3 (armadura) + 2 (Des) + 3 (competencia) |
-| **Fortaleza** | +8 | +2 (Con) + 5 (experto) |
-| **Reflejos** | +6 | +2 (Des) + 3 (entrenado) |
-| **Voluntad** | +7 | +1 (Sab) + 5 (experto) |
-| **Percepción** | +7 | +1 (Sab) + 5 (experto) |
+| **CA** | **18** | 10 + 3 (armadura) + 2 (Des) + 3 (competencia) |
+| **Fortaleza** | +7 | +2 (Con) + 5 (experto) |
+| **Reflejos** | +5 | +2 (Des) + 3 (entrenado) |
+| **Voluntad** | +5 | +0 (Sab) + 5 (experto) |
+| **Percepción** | +5 | +0 (Sab) + 5 (experto) |
 
 ---
 
@@ -76,13 +76,13 @@ source: Kingmaker
 
 | Habilidad | Rango | Modificador total |
 |-----------|-------|:-----------------:|
-| [Atletismo](/habilidades/atletismo/) | Entrenado | +8 |
-| [Intimidación](/habilidades/intimidacion/) | Entrenado | +5 |
-| [Sigilo](/habilidades/sigilo/) | Entrenado | +6 |
-| [Supervivencia](/habilidades/supervivencia/) | Entrenado | +5 |
-| Saber (Banditry) | Entrenado | +4 |
+| [Atletismo](/habilidades/atletismo/) | Entrenado | +7 |
+| [Intimidación](/habilidades/intimidacion/) | Entrenado | +4 |
+| [Sigilo](/habilidades/sigilo/) | Entrenado | +5 |
+| [Supervivencia](/habilidades/supervivencia/) | Entrenado | +3 |
+| Saber (Banditry) | Entrenado | +3 |
 
-| CD de clase | **18** (10 + +4 Fue + 3 entrenado) |
+| CD de clase | **17** (10 + +4 Fue + 3 entrenado) |
 
 ---
 
@@ -113,8 +113,8 @@ source: Kingmaker
 
 | Arma | Tipo | Ataque | Daño | Tipo de daño |
 |------|------|:------:|------|:------------:|
-| Horsechopper | Marcial | +8 | 1d8 | Cortante |
-| Dogslicer | Marcial | +8 | 1d6 | Cortante |
+| Horsechopper | Marcial | +7 | 1d8 | Cortante |
+| Dogslicer | Marcial | +7 | 1d6 | Cortante |
 
 ---
 

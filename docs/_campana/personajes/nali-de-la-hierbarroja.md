@@ -52,11 +52,11 @@ source: Kingmaker
 
 | Defensa | Total | Desglose |
 |---------|:-----:|----------|
-| **CA** | **19** | 10 + 4 (armadura) + 1 (Des) + 3 (competencia) |
-| **Fortaleza** | +8 | +2 (Con) + 5 (experto) |
-| **Reflejos** | +6 | +2 (Des) + 3 (entrenado) |
-| **Voluntad** | +10 | +4 (Sab) + 5 (experto) |
-| **Percepción** | +8 | +4 (Sab) + 3 (entrenado) |
+| **CA** | **18** | 10 + 4 (armadura) + 1 (Des) + 3 (competencia) |
+| **Fortaleza** | +7 | +2 (Con) + 5 (experto) |
+| **Reflejos** | +5 | +2 (Des) + 3 (entrenado) |
+| **Voluntad** | +9 | +4 (Sab) + 5 (experto) |
+| **Percepción** | +7 | +4 (Sab) + 3 (entrenado) |
 
 ---
 
@@ -76,15 +76,15 @@ source: Kingmaker
 
 | Habilidad | Rango | Modificador total |
 |-----------|-------|:-----------------:|
-| [Atletismo](/habilidades/atletismo/) | Entrenado | +4 |
-| [Diplomacia](/habilidades/diplomacia/) | Entrenado | +4 |
-| [Medicina](/habilidades/medicina/) | Entrenado | +8 |
-| [Naturaleza](/habilidades/naturaleza/) | Entrenado | +8 |
-| [Religión](/habilidades/religion/) | Entrenado | +8 |
-| [Supervivencia](/habilidades/supervivencia/) | Entrenado | +8 |
-| Saber (Warfare) | Entrenado | +5 |
+| [Atletismo](/habilidades/atletismo/) | Entrenado | +3 |
+| [Diplomacia](/habilidades/diplomacia/) | Entrenado | +3 |
+| [Medicina](/habilidades/medicina/) | Entrenado | +7 |
+| [Naturaleza](/habilidades/naturaleza/) | Entrenado | +7 |
+| [Religión](/habilidades/religion/) | Entrenado | +7 |
+| [Supervivencia](/habilidades/supervivencia/) | Entrenado | +7 |
+| Saber (Warfare) | Entrenado | +4 |
 
-| CD de clase | **18** (10 + +4 Sab + 3 entrenado) |
+| CD de clase | **17** (10 + +4 Sab + 3 entrenado) |
 
 ---
 
@@ -125,7 +125,7 @@ source: Kingmaker
 | Arma | Tipo | Ataque | Daño | Tipo de daño |
 |------|------|:------:|------|:------------:|
 | [Arco largo](/equipo/armas/arco-largo/) | Marcial | +2 | 1d8 | Perforante |
-| [Daga](/equipo/armas/daga/) | Simple | +6 | 1d4 | Perforante |
+| [Daga](/equipo/armas/daga/) | Simple | +5 | 1d4 | Perforante |
 
 ---
 
@@ -139,8 +139,8 @@ source: Kingmaker
 
 ## Conjuros — Cleric (Divina, preparado)
 
-**CD de conjuro:** 18 (10 + 4 Sab + 3 entrenado)  
-**Modificador de ataque de conjuro:** +8
+**CD de conjuro:** 17 (10 + 4 Sab + 3 entrenado)  
+**Modificador de ataque de conjuro:** +7
 
 ### Trucos (rango 0) — ilimitados
 
@@ -157,8 +157,8 @@ source: Kingmaker
 
 ## Conjuros — Cleric Font (Divina, preparado)
 
-**CD de conjuro:** 18 (10 + 4 Sab + 3 entrenado)  
-**Modificador de ataque de conjuro:** +8
+**CD de conjuro:** 17 (10 + 4 Sab + 3 entrenado)  
+**Modificador de ataque de conjuro:** +7
 
 ### Rango 1 — 4 casillas/día
 

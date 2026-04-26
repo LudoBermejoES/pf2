@@ -429,11 +429,12 @@ class FVTTCharacter:
         if ancestry:
             flaws = ancestry.get("system", {}).get("flaws", {})
             for flaw_key in flaws.values():
-                for stat in flaw_key.get("value", []):
-                    if flaw_key.get("selected") and flaw_key["selected"] == stat:
+                selected = flaw_key.get("selected")
+                if selected:
+                    scores[selected] = max(8, scores[selected] - 2)
+                else:
+                    for stat in flaw_key.get("value", []):
                         scores[stat] = max(8, scores[stat] - 2)
-                if flaw_key.get("selected"):
-                    scores[flaw_key["selected"]] = max(8, scores[flaw_key["selected"]] - 2)
 
         # Boosts de ancestría
         if ancestry:
@@ -558,17 +559,11 @@ class FVTTCharacter:
         return self.skills.get(skill, {}).get("rank", 0)
 
     def skill_total(self, skill: str) -> int:
-        """Calcula el total de habilidad a nivel 1 (solo rank + ability mod + level si entrenado)."""
         rank = self.skill_rank(skill)
         prof_bonus = RANK_BONUS.get(rank, 0)
-        if rank > 0:
-            level_bonus = self.level
-        else:
-            level_bonus = 0
-        # La habilidad clave de cada skill
         skill_ability = SKILL_ABILITY.get(skill, "int")
         mod = self.ability_mod(skill_ability)
-        return mod + prof_bonus + level_bonus if rank > 0 else mod  # Sin entrenamiento no suma level ni prof en PF2e
+        return mod + prof_bonus if rank > 0 else mod
 
     def save_rank(self, save: str) -> int:
         return self.saving_throws.get(save, 0)
@@ -576,25 +571,22 @@ class FVTTCharacter:
     def save_total(self, save: str, ability: str) -> int:
         rank = self.save_rank(save)
         prof_bonus = RANK_BONUS.get(rank, 0)
-        level_bonus = self.level if rank > 0 else 0
-        return self.ability_mod(ability) + prof_bonus + level_bonus
+        return self.ability_mod(ability) + prof_bonus
 
     def perception_total(self) -> int:
         rank = self.perception_rank
         prof_bonus = RANK_BONUS.get(rank, 0)
-        level_bonus = self.level if rank > 0 else 0
-        return self.ability_mod("wis") + prof_bonus + level_bonus
+        return self.ability_mod("wis") + prof_bonus
 
     def spell_dc(self, ability: str) -> int:
-        """CD de conjuro: 10 + nivel + mod + competencia entrenada (rank 1)."""
-        return 10 + self.level + self.ability_mod(ability) + RANK_BONUS.get(1, 3)
+        return 10 + self.ability_mod(ability) + RANK_BONUS.get(1, 3)
 
     def spell_attack(self, ability: str) -> int:
-        return self.level + self.ability_mod(ability) + RANK_BONUS.get(1, 3)
+        return self.ability_mod(ability) + RANK_BONUS.get(1, 3)
 
     def class_dc(self) -> int:
         key = self.key_ability or "str"
-        return 10 + self.level + self.ability_mod(key) + RANK_BONUS.get(1, 3)
+        return 10 + self.ability_mod(key) + RANK_BONUS.get(1, 3)
 
     def ac(self) -> int:
         """CA básica con armadura."""
@@ -604,13 +596,11 @@ class FVTTCharacter:
             dex_applied = min(self.ability_mod("dex"), dex_cap)
             armor_rank = self.martial.get(self.armor.get("system", {}).get("category", "medium"), {}).get("rank", 0)
             prof_bonus = RANK_BONUS.get(armor_rank, 0)
-            level_bonus = self.level if armor_rank > 0 else 0
-            return 10 + ac_bonus + dex_applied + prof_bonus + level_bonus
+            return 10 + ac_bonus + dex_applied + prof_bonus
         else:
             unarmored_rank = self.martial.get("unarmored", {}).get("rank", 0)
             prof_bonus = RANK_BONUS.get(unarmored_rank, 0)
-            level_bonus = self.level if unarmored_rank > 0 else 0
-            return 10 + self.ability_mod("dex") + prof_bonus + level_bonus
+            return 10 + self.ability_mod("dex") + prof_bonus
 
     def weapon_attack(self, weapon: dict) -> int:
         """Ataque con arma (no incluye runas)."""
@@ -626,8 +616,7 @@ class FVTTCharacter:
         else:
             stat_mod = self.ability_mod("str")
         prof_bonus = RANK_BONUS.get(rank, 0)
-        level_bonus = self.level if rank > 0 else 0
-        return stat_mod + prof_bonus + level_bonus
+        return stat_mod + prof_bonus
 
     def get_spells_by_entry(self) -> list:
         """Devuelve lista de (entrada, [conjuros]) agrupados por spellcastingEntry."""
@@ -911,7 +900,7 @@ def generate_markdown(char: FVTTCharacter) -> str:
     for lore in char.lore_skills:
         lore_name = lore.get("name", "Saber")
         lore_rank = lore.get("system", {}).get("proficient", {}).get("value", 1)
-        lore_total = char.level + RANK_BONUS.get(lore_rank, 3) + char.ability_mod("int")
+        lore_total = RANK_BONUS.get(lore_rank, 3) + char.ability_mod("int")
         lines.append(f"| Saber ({lore_name}) | {RANK_ES.get(lore_rank, 'Entrenado')} | {fmt_mod(lore_total)} |")
 
     # CD de clase

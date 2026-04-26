@@ -21,7 +21,7 @@ source: Kingmaker
 | **Clase** | [Explorador](/clases/explorador/) |
 | **Nivel** | 1 |
 | **Ascendencia** | [Enano](/ascendencias/enano/) |
-| **Linaje** | Enano de sangre fuerte |
+| **Linaje** | Enano de sangre antigua |
 | **Bagaje** | Herbolario |
 | **Deidad** | Torag |
 | **Género** | Masculino |
@@ -44,7 +44,7 @@ source: Kingmaker
 | **Constitución** | 14 | +2 |
 | **Inteligencia** | 10 | +0 |
 | **Sabiduría** | 14 | +2 |
-| **Carisma** | 12 | +1 |
+| **Carisma** | 10 | +0 |
 
 ---
 
@@ -52,11 +52,11 @@ source: Kingmaker
 
 | Defensa | Total | Desglose |
 |---------|:-----:|----------|
-| **CA** | **19** | 10 + 3 (armadura) + 2 (Des) + 3 (competencia) |
-| **Fortaleza** | +8 | +2 (Con) + 5 (experto) |
-| **Reflejos** | +9 | +3 (Des) + 5 (experto) |
-| **Voluntad** | +6 | +2 (Sab) + 3 (entrenado) |
-| **Percepción** | +8 | +2 (Sab) + 5 (experto) |
+| **CA** | **16** | 10 + 0 (armadura) + 3 (Des) + 3 (competencia) |
+| **Fortaleza** | +7 | +2 (Con) + 5 (experto) |
+| **Reflejos** | +8 | +3 (Des) + 5 (experto) |
+| **Voluntad** | +5 | +2 (Sab) + 3 (entrenado) |
+| **Percepción** | +7 | +2 (Sab) + 5 (experto) |
 
 ---
 
@@ -77,16 +77,16 @@ source: Kingmaker
 
 | Habilidad | Rango | Modificador total |
 |-----------|-------|:-----------------:|
-| [Atletismo](/habilidades/atletismo/) | Entrenado | +6 |
-| [Artesanía](/habilidades/artesania/) | Entrenado | +4 |
-| [Intimidación](/habilidades/intimidacion/) | Entrenado | +5 |
-| [Medicina](/habilidades/medicina/) | Entrenado | +6 |
-| [Naturaleza](/habilidades/naturaleza/) | Entrenado | +6 |
-| [Sigilo](/habilidades/sigilo/) | Entrenado | +7 |
-| [Supervivencia](/habilidades/supervivencia/) | Entrenado | +6 |
-| Saber (Herbalism) | Entrenado | +4 |
+| [Atletismo](/habilidades/atletismo/) | Entrenado | +5 |
+| [Artesanía](/habilidades/artesania/) | Entrenado | +3 |
+| [Intimidación](/habilidades/intimidacion/) | Entrenado | +3 |
+| [Medicina](/habilidades/medicina/) | Entrenado | +5 |
+| [Naturaleza](/habilidades/naturaleza/) | Entrenado | +5 |
+| [Sigilo](/habilidades/sigilo/) | Entrenado | +6 |
+| [Supervivencia](/habilidades/supervivencia/) | Entrenado | +5 |
+| Saber (Herbalism) | Entrenado | +3 |
 
-| CD de clase | **16** (10 + +2 Fue + 3 entrenado) |
+| CD de clase | **15** (10 + +2 Fue + 3 entrenado) |
 
 ---
 
@@ -97,8 +97,8 @@ source: Kingmaker
 | Dote | Tipo | Nivel |
 |------|------|:-----:|
 | [As de la ballesta](/dotes/explorador/as-de-la-ballesta/) | Dote de clase | 1 |
-| Borde del clan | Dote de ascendencia | 1 |
 | Daga de clan | ancestryfeature | 1 |
+| Filo del clan | Dote de ascendencia | 1 |
 | [Medicina natural](/dotes/habilidad/medicina-natural/) | Dote de habilidad | 1 |
 | Perseguir presa | Aptitud de clase | 1 |
 | Precisión | Aptitud de clase | 1 |
@@ -116,9 +116,10 @@ source: Kingmaker
 
 | Arma | Tipo | Ataque | Daño | Tipo de daño |
 |------|------|:------:|------|:------------:|
-| Light Hammer | Marcial | +6 | 1d6 | Contundente |
-| [Ballesta](/equipo/armas/ballesta/) | Simple | +7 | 1d8 | Perforante |
-| Clan Dagger | Simple | +6 | 1d4 | Perforante |
+| Light Hammer | Marcial | +5 | 1d6 | Contundente |
+| [Ballesta](/equipo/armas/ballesta/) | Simple | +6 | 1d8 | Perforante |
+| Clan Dagger | Simple | +5 | 1d4 | Perforante |
+| Sartén | Simple | +5 | 1d4 | Contundente |
 
 ---
 
@@ -126,14 +127,17 @@ source: Kingmaker
 
 | Armadura | Tipo | Bonificador a CA |
 |----------|------|:----------------:|
-| [Armadura de Pieles](/equipo/armaduras/armadura-pieles/) | Media | +3 |
+| [Ropa de explorador](/equipo/armaduras/ropa-explorador/) | Sin armadura | +0 |
 
 ---
 
 ## Equipo
 
 ### Llevado encima
-- Mochila (×2)
+- Mochila
+- Odre
+- Saco
+- Saco
 
 ### En la mochila
 - Saco de dormir (×2)
@@ -142,8 +146,13 @@ source: Kingmaker
 - Soga
 - Raciones (×2)
 - Antorcha (×5)
-- Odre
 - Jabón
+- Taza
+- Ingrediente básico (×12)
+- Arcilla
+- Aceite de engrasar armas
+- Vial acolchado (×6)
+- Saquito para hierbas (×10)
 
 ---
 
@@ -151,7 +160,7 @@ source: Kingmaker
 
 | pc | pp | po | ppl |
 |:--:|:--:|:--:|:---:|
-| 8 | 8 | 5 | 0 |
+| 4 | 6 | 2 | 0 |
 
 ---
 
