@@ -9,6 +9,8 @@ source: Kingmaker
 
 # Laughlin Lodovka
 
+<img src="{{ '/assets/images/personajes/laughlin-lodovka.webp' | relative_url }}" style="float: right; width: 250px; margin-left: 20px;" alt="Laughlin Lodovka">
+
 **[Bardo](/clases/bardo/)** nivel 1
 
 ---

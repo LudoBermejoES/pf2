@@ -9,6 +9,8 @@ source: Kingmaker
 
 # Durgan Garess
 
+<img src="{{ '/assets/images/personajes/durgan-garess.webp' | relative_url }}" style="float: right; width: 250px; margin-left: 20px;" alt="Durgan Garess">
+
 **[Explorador](/clases/explorador/)** nivel 1 de Torag
 
 ---

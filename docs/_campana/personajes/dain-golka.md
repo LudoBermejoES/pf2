@@ -9,6 +9,8 @@ source: Kingmaker
 
 # Dain Golka
 
+<img src="{{ '/assets/images/personajes/dain-golka.webp' | relative_url }}" style="float: right; width: 250px; margin-left: 20px;" alt="Dain Golka">
+
 **[Guerrero (Atletismo)](/clases/guerrero/)** nivel 1
 
 ---

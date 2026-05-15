@@ -9,6 +9,8 @@ source: Kingmaker
 
 # Tark 'Krap'
 
+<img src="{{ '/assets/images/personajes/tark-krap.webp' | relative_url }}" style="float: right; width: 250px; margin-left: 20px;" alt="Tark 'Krap'">
+
 **[Bárbaro](/clases/barbaro/)** nivel 1
 
 ---
