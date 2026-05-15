@@ -7,8 +7,7 @@ category: campana
 source: Kingmaker
 ---
 
-<img src="{{ '/assets/images/personajes/gael-mouro.webp' | relative_url }}" style="float: right; width: 250px; margin-left: 20px;" alt="Gael Mouro
-">
+<img src="{{ '/assets/images/personajes/gael-mouro.webp' | relative_url }}" style="float: right; width: 250px; margin-left: 20px;" alt="Gael Mouro">
 
 **[Hechicero](/clases/hechicero/)** nivel 1 de Nethys
 
