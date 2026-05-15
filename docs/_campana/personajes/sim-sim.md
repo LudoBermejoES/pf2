@@ -7,9 +7,8 @@ category: campana
 source: Kingmaker
 ---
 
-# SIM SIM
-
-<img src="{{ '/assets/images/personajes/sim-sim.webp' | relative_url }}" style="float: right; width: 250px; margin-left: 20px;" alt="SIM SIM">
+<img src="{{ '/assets/images/personajes/sim-sim.webp' | relative_url }}" style="float: right; width: 250px; margin-left: 20px;" alt="SIM SIM
+">
 
 **[Monje](/clases/monje/)** nivel 1
 

@@ -7,9 +7,8 @@ category: campana
 source: Kingmaker
 ---
 
-# Nali de la Hierbarroja
-
-<img src="{{ '/assets/images/personajes/nali-de-la-hierbarroja.webp' | relative_url }}" style="float: right; width: 250px; margin-left: 20px;" alt="Nali de la Hierbarroja">
+<img src="{{ '/assets/images/personajes/nali-de-la-hierbarroja.webp' | relative_url }}" style="float: right; width: 250px; margin-left: 20px;" alt="Nali de la Hierbarroja
+">
 
 **[Clérigo](/clases/clerigo/)** nivel 1 de Erastil
 
